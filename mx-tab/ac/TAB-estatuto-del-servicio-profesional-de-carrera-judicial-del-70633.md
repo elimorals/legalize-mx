@@ -4,7 +4,7 @@ identifier: "TAB-estatuto-del-servicio-profesional-de-carrera-judicial-del-70633
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-10-07"
-last_updated: "2009-10-07"
+last_updated: "2025-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA JUDICIAL DEL TRIBUNAL ELECTORAL DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2025.
 
 Estatuto publicado en el Suplemento de Periódico Oficial del Estado de Tabasco, el miércoles 7 de octubre de 2009.
 
@@ -1183,9 +1183,11 @@ Serán trabajadores eventuales aquellos que presten sus servicios al Tribunal po
 
 ### CAPÍTULO SEGUNDO. DE LOS REQUISITOS DE INGRESO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 133.
 
-Son requisitos para el ingreso al Tribunal, además de los dispuestos en la Ley Orgánica y su Reglamento Interior:
+Son requisitos para el ingreso al Tribunal, además de los dispuestos en la Ley Orgánica y su Reglamento Interior, los siguientes:
 
 l. Ser ciudadano mexicano;
 
@@ -1195,7 +1197,9 @@ III. Gozar de buena reputación y no haber sido condenado por delito alguno, sal
 
 IV. Contar con los conocimientos, experiencia y habilidades requeridos para ingresar al Tribunal, los cuales servirán para desempeñar la función encomendada;
 
-V. Tener la escolaridad mínima que se establezca en el Catálogo de cargos, puestos y rangos;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2025)</small>
+
+V. Tener escolaridad mínima que se establezca en el Catálogo de Puestos;
 
 VI. Aprobar los exámenes de ingreso que les sean aplicados;
 
@@ -1229,197 +1233,157 @@ La incorporación del personal administrativo se llevará a cabo mediante la exp
 
 ### CAPÍTULO TERCERO. DE LOS REQUISITOS PARA OCUPAR EL CARGO
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 29 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 137.
 
 Para ser Secretario General de Acuerdos se necesitan, además de los requisitos previstos en el artículo 20 de la Ley Orgánica, los siguientes:
 
 I. Acreditar que tiene conocimientos en materia electoral;
 
-II. No ser afiliado a partido político o coalición, ni haber sido militante o simpatizante, no haber tenido o tener vínculo con alguno de ellos; ni tampoco ser o haber sido ministro de culto religioso;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2025)</small>
 
-III. No haber sido registrado como candidato a cargo alguno de elección popular en los últimos seis años inmediatos anteriores a su designación;
+II. No ser afiliado a partido político o coalición, ni haber sido militante o simpatizante, no haber tenido o tener vínculo con alguno de ellos; ni tampoco ser o haber sido ministro de culto religioso, en los tres años inmediatos anteriores a su designación;
 
-IV. No desempeñar ni haber desempeñado cargo de dirección nacional estatal, distrital o municipal en algún partido político o coalición, en los seis años inmediatos anteriores a su designación;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2025)</small>
+
+III. No haber sido registrado como candidato a cargo alguno de elección popular en los últimos tres años inmediatos anteriores a su designación;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2025)</small>
+
+IV. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal, distrital o municipal en algún partido político o coalición, en los tres años inmediatos anteriores a su designación;
 
 V. No estar inhabilitado para desempeñar cargos o funciones públicas.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 138.
 
-Para ser Auxiliar de la Secretaría General de Acuerdos, se necesita acreditar los requisitos que exigen los artículos 26 de la Ley Orgánica y 137 de este Estatuto.
+Para ser Auxiliar de la Secretaría General de Acuerdos, se necesita acreditar los requisitos del artículo 133 del Estatuto.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 139.
 
-Para ser designado Juez Instructor, se necesitan además de los requisitos previstos en los artículos 20 y 23 de la Ley Orgánica y 137 de éste Estatuto, los siguientes:
+Para ser designado Juez Instructor se necesitan, además de los requisitos previstos en los artículos 20 y 23 de la Ley Orgánica, los siguientes:
 
-I. Contar con credencial para votar con fotografía;
+I. Acreditar que tiene conocimientos en materia electoral.
 
-II. Contar con práctica profesional mínima de tres años, con título y cédula profesional con una antigüedad mínima de tres años al momento del nombramiento;
+II. No ser afiliado a partido político o coalición, ni haber sido militante o simpatizante, no haber tenido o tener vínculo con alguno de ellos; ni tampoco ser o haber sido ministro de culto religioso, en los tres años inmediatos anteriores a su designación;
 
-III. Acreditar que tiene conocimientos en materia electoral;
+III. No haber sido registrado como candidato a cargo alguno de elección popular en los últimos tres años inmediatos anteriores a su designación;
 
-IV. No ser afiliado a partido político o coalición, ni haber sido militante o simpatizante, no haber tenido o tener vínculo con alguno de ellos; ni tampoco ser o haber sido ministro de culto religioso;
+IV. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal, distrital o municipal en algún partido política o coalición en los tres años inmediatos anteriores a su designación;
 
-V. No haber sido registrado como candidato a cargo alguno de elección popular en los últimos seis años inmediatos anteriores a su designación;
+V. Someterse a la evaluación que para acreditar los requisitos de conocimientos básicos determine el Pleno del Tribunal; y
 
-VI. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal, distrital o municipal en algún partido político o coalición en los seis años inmediatos anteriores a su designación;
-
-VII. Someterse a la evaluación que para acreditar los requisitos de conocimientos básicos determine el Pleno del Tribunal; y
-
-VIII. No estar inhabilitado para desempeñar cargos o funciones públicas.
+VI. No estar inhabilitado para desempeñar cargos o funciones públicas.
 
 ###### Artículo 140.
 
 Para ser Secretario Proyectista, se necesitan cubrir los mismos requisitos señalados para ser Juez Instructor en el presente Estatuto y cumplir con los señalados en el artículo 26 de la Ley Orgánica.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2025)</small>
+
 ###### Artículo 141.
 
-Para ser Oficial de Partes se necesita tener los requisitos siguientes:
+Para ser Oficial de Partes se necesita además de tener los requisitos señalados en el artículo 133 del Estatuto, los siguientes:
 
-I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civiles y contar con credencial para votar con fotografía;
+I. Acreditar tener conocimientos en materia electoral;
 
-II. Ser abogado ó licenciado en derecho;
+II. No ser afiliado a partido político o coalición, ni haber sido militante o simpatizante, no haber tenido o tener vínculo con alguno de ellos; ni tampoco ser o haber sido ministro de culto religioso en los tres años inmediatos anteriores a su designación;
 
-III. Preferentemente, tener conocimientos en materia electoral;
+III. No haber sido registrado como candidato a cargo alguno de elección popular en los últimos tres años inmediatos anteriores a su designación;
 
-IV. No ser afiliado a partido político o coalición, ni haber sido militante o simpatizante, no haber tenido o tener vínculo con alguno de ellos; ni tampoco ser o haber sido ministro de culto religioso;
+IV. No desempeñar, ni haber desempeñado cargo de dirección nacional, estatal, distrital o municipal en algún partido político o coalición en los tres años inmediatos anteriores a su designación.
 
-V. No haber sido registrado como candidato a cargo alguno de elección popular en los últimos seis años inmediatos anteriores a su designación;
-
-VI. No desempeñar, ni haber desempeñado cargo de dirección nacional, estatal, distrital o municipal en algún partido político o coalición en los seis años inmediatos anteriores a su designación;
-
-VII. Tener buena conducta y probidad, y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter imprudencial;
-
-VIII. Someterse a la evaluación que para acreditar los requisitos de conocimientos básicos determine el Pleno;
-
-IX. No estar inhabilitado para desempeñar cargos o funciones públicas.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 142.
 
-Para ser Actuario, se necesita cubrir lo señalado en los artículos 26 y 27 de la Ley Orgánica y los requisitos siguientes:
+Para ser Actuario se necesitan, además de los requisitos señalados en los artículos 26 y 27 de la Ley Orgánica, los siguientes:
 
-l. Ser ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civiles y contar con credencial para votar con fotografía;
+I. Acreditar tener conocimientos en materia electoral;
 
-II. Ser abogado ó licenciado en derecho;
+II. No ser afiliado a partido político o coalición, ni haber sido militante o simpatizante, no haber tenido o tener vínculo con alguno de ellos; ni tampoco ser o haber sido ministro de culto religioso en los tres años inmediatos anteriores a su designación;
 
-III. Preferentemente, tener conocimientos en materia electoral;
+III. No haber sido registrado como candidato a cargo alguno de elección popular en los últimos tres años inmediatos anteriores a su designación;
 
-IV. No ser afiliado a partido político o coalición, ni haber sido militante o simpatizante, no haber tenido o tener vínculo con alguno de ellos; ni tampoco ser o haber sido ministro de culto religioso;
+IV. No desempeñar, ni haber desempeñado cargo de dirección nacional, estatal, distrital o municipal en algún partido político o coalición en los tres años inmediatos anteriores a su designación;
 
-V. No haber sido registrado como candidato a cargo alguno de elección popular en los últimos seis años inmediatos anteriores a su designación;
+V. Tener buena conducta y probidad, y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter imprudencial;
 
-VI. No desempeñar, ni haber desempeñado cargo de dirección nacional, estatal, distrital o municipal en algún partido político o coalición en los seis años inmediatos anteriores a su designación;
+VI. Someterse a la valuación que para acreditar los requisitos de conocimientos básicos (sic) determine el Pleno;
 
-VII. Tener buena conducta y probidad, y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter imprudencial;
+VII. No estar inhabilitado para desempeñar cargos o funciones públicas.
 
-VIII. Someterse a la evaluación que para acreditar los requisitos de conocimientos básicos determine el Pleno;
-
-IX. No estar inhabilitado para desempeñar cargos o funciones públicas.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 143.
 
-Para ser Jefe del Archivo, se necesitan acreditar los mismos requisitos señalados para ser Actuario.
+Para ser Jefe del Archivo se necesitan acreditar los requisitos señalados en el artículo 133 del Estatuto.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 144.
 
-Para ser Secretario Administrativo se necesitan tener los requisitos siguientes:
+Para ser Secretario Administrativo se necesitan además tener los requisitos señalados del artículo 133 del Estatuto los siguientes
 
-I. Ser ciudadano mexicano, en pleno goce de sus derechos civiles y políticos;
+I. Tener más de veinticinco años cumplidos, a la fecha de su nombramiento;
 
-II. Contar con credencial para votar con fotografía;
+II. No haber desempeñado el cargo de elección popular o de dirigencia de algún partido político o coalición en los últimos tres años;
 
-III. Tener más de veintiocho años cumplidos, a la fecha de su nombramiento;
+III. No ser afiliado a partido político o coalición, ni haber sido militante o simpatizante, no haber tenido o tener vínculo con alguno de ellos; ni tampoco ser o haber sido ministro de culto religioso en los tres años inmediatos anteriores a su designación.
 
-IV. No haber desempeñado cargo de elección popular o de dirigencia de algún partido político o coalición en los últimos seis años;
+IV. No haber sido registrado como candidato a cargo alguno de elección popular en los últimos tres años inmediatos anteriores a su designación;
 
-V. Ser licenciado en Administración Pública ó Administración de Empresas ó Contaduría Pública ó carrera afín a las funciones que deba desempeñar;
+V. No desempeñar, ni haber desempeñado cargo de dirección nacional, estatal, distrital o municipal en algún partido político o coalición en los tres años inmediatos anteriores a su designación.
 
-VI. No ser afiliado a partido político o coalición, ni haber sido militante o simpatizante, no haber tenido o tener vínculo con alguno de ellos; ni tampoco ser o haber sido ministro de culto religioso;
-
-VII. No haber sido registrado como candidato a cargo alguno de elección popular en los últimos seis años inmediatos anteriores a su designación;
-
-VIII. No desempeñar, ni haber desempeñado cargo de dirección nacional, estatal, distrital o municipal en algún partido político o coalición en los seis años inmediatos anteriores a su designación;
-
-IX. Tener buena conducta y probidad, y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter imprudencial; y
-
-X. No estar inhabilitado para desempeñar cargos o funciones públicas.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 145.
 
-Para ser Auxiliar Administrativo, se necesitan cubrir los mismos requisitos señalados para ser Secretario Administrativo, excepto el establecido en la fracción III, del artículo 144, de este Estatuto, deberá contar por lo menos con veinticinco años al momento de su designación, quien podrá ser licenciado en Administración Pública ó Administración de Empresas ó Contaduría Pública.
+Para ser Auxiliar Administrativo, se necesitan los requisitos señalados en el artículo 133 del Estatuto.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 146.
 
-Para ser Secretario Particular se necesitan cubrir los siguientes requisitos:
+Para ser Secretario Particular, Asesor Jurisdiccional A y Asesor Jurisdiccional, se necesitan además de tener los requisitos señalados en el artículo 133 del Estatuto, los siguientes:
 
-I. Contar con credencial para votar con fotografía;
+I. Acreditar tener conocimientos en materia electoral;
 
-II. Ser abogado o licenciado en Derecho, con cédula profesional y contar por lo menos, con un año de antigüedad en el ejercicio de su profesión;
+II. No ser afiliado a partido político o coalición, ni haber sido militante o simpatizante, no haber tenido o tener vínculo con alguno de ellos; ni tampoco ser o haber sido ministro de culto religioso en los tres años inmediatos anteriores a su designación.
 
-III. Preferentemente, tener conocimientos en materia electoral;
+III. No haber sido registrado como candidato a cargo alguno de elección popular en los últimos tres años inmediatos anteriores a su designación;
 
-IV. No ser afiliado a partido político o coalición, ni haber sido militante o simpatizante, no haber tenido o tener vinculo con alguno de ellos; ni tampoco ser o haber sido ministro de culto religioso;
+IV. No desempeñar, ni haber desempeñado cargo de dirección nacional, estatal, distrital o municipal en algún partido político o coalición en los tres años inmediatos anteriores a su designación.
 
-V. No haber sido registrado como candidato a cargo alguno de elección popular en los últimos seis años inmediatos anteriores a su designación;
-
-VI. No desempeñar, ni haber desempeñado cargo de dirección nacional, estatal, distrital o municipal en algún partido político o coalición en los seis años inmediatos anteriores a su designación;
-
-VII. Tener buena conducta y probidad, y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter imprudencial;
-
-VIII. Someterse a la evaluación que para acreditar los requisitos de conocimientos básicos determine el Pleno del Tribunal; y
-
-IX. No estar inhabilitado para desempeñar cargos o funciones públicas.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 147.
 
-Para ser responsable de las Unidades de Documentación y Estadística, de Comunicación Social, de Enlace y Acceso a la Información, de Sistemas y Soporte Técnico y Titular de la Contraloría Interna, se deberán cubrir los requisitos siguientes:
+Para ser responsable de las Unidades de Documentación y Estadística, Coordinación de Capacitación, Coordinador de Imagen Institucional, Género e Inclusión Social, Planeación, Recursos Materiales y Servicios Generales, Recursos Financieros y Humanos, Contabilidad y Control de Inventarlos, Responsabilidad y Situación Patrimonial, de la Defensoría Jurídica para la Protección de los Derechos Político-Electorales de las Mujeres y otros Grupos Vulnerables, de Enlace y Acceso a la Información, de Sistemas y Soporte Técnico y demás Unidades o Jefaturas pertenecientes a la estructura organizacional del Tribunal, se deberán tener los requisitos del artículo 133 del Estatuto, además de los siguientes:
 
-l. Ser ciudadano mexicano, en pleno goce de sus derechos civiles y políticos;
+I. No ser afiliado a partido político o coalición, ni haber sido militante o simpatizante, no haber tenido o tener vínculo con alguno de ellos; ni tampoco ser o haber sido ministro de culto religioso en los tres años inmediatos anteriores a su designación;
 
-II. Contar con credencial para votar con fotografía;
+II. No haber sido registrado como candidato a cargo alguno de elección popular en los últimos tres años inmediatos anteriores a su designación;
 
-III. No haber desempeñado cargo de elección popular o de dirigencia de algún partido político o coalición en los últimos seis años;
+III. No desempeñar, ni haber desempeñar (sic) cargo de dirección nacional, estatal, distrital o municipal en algún partido político o coalición en los tres años inmediatos anteriores a su designación.
 
-IV. Contar con título y cédula profesional en áreas o disciplinas vinculadas con la función que habrá de desempeñar, con una antigüedad profesional mínima de tres años anteriores a su nombramiento;
+Para el caso de la Unidad de Género e Inclusión Social únicamente se considerará a la persona del género femenino.
 
-V. No ser afiliado a partido político o coalición, ni haber sido militante o simpatizante, no haber tenido o tener vínculo con alguno de ellos; ni tampoco ser o haber sido ministro de culto religioso;
-
-VI. No haber sido registrado como candidato a cargo alguno de elección popular en los últimos seis años inmediatos anteriores a su designación;
-
-VII. No desempeñar, ni haber desempeñado cargo de dirección nacional, estatal, distrital o municipal en algún partido político o coalición en los seis años inmediatos anteriores a su designación;
-
-VIII. Tener buena conducta y probidad, y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter imprudencial; y
-
-IX. No estar inhabilitado para desempeñar cargos o funciones públicas.
-
-Además de los requisitos señalados en este artículo el Contralor Interno deberá contar con título y cédula profesional de licenciado en Administración Pública, o Administración de Empresas, o Contaduría Pública, o de Abogado o licenciado en Derecho, legalmente expedidos con una antigüedad de tres años a la fecha de su nombramiento, así como contar con una experiencia comprobable como Auditor Contable mínima de dos años.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 148.
 
-Los secretarios ejecutivos deberán reunir los requisitos siguientes:
+Los secretarios ejecutivos deberán reunir los requisitos del artículo 133 del Estatuto.
 
-I. Ser Ciudadano Mexicano en pleno goce de sus derechos;
-
-II. Ser de notoria honorabilidad;
-
-III. No tener antecedentes penales;
-
-IV. Estar en pleno uso de sus facultades físicas y mentales;
-
-V. Contar con estudios superiores o en su caso cursar licenciatura o carrera técnica al momento de su designación.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 149.
 
-El encargado del centro de copiado, personal de intendencia y demás personal deberá reunir los requisitos siguientes:
-
-I. Ser Ciudadano Mexicano en pleno goce de sus derechos;
-
-II. Ser de notoria honorabilidad;
-
-III. No tener antecedentes penales;
-
-IV. Estar en pleno uso de sus facultades físicas y mentales;
-
-V. Contar con la capacidad técnica necesaria para el desempeño de que se trate.
+El encargado del centro de copiado, personal de intendencia y demás personal deberá reunir los requisitos del artículo 133 del Estatuto.
 
 ### CAPÍTULO CUARTO. DEL NOMBRAMIENTO Y SU TERMINACIÓN
 
@@ -1874,3 +1838,9 @@ MAGISTRADO ELECTORAL
 LIC. ULISES JERÓNIMO RAMÓN
 
 SECRETARIO GENERAL DE ACUERDOS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE NOVIEMBRE DE 2025.
+
+> <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 6 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE TABASCO.]</small>
