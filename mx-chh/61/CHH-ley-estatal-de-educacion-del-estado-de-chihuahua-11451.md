@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2025-11-26"
+last_updated: "2025-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2025.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -607,9 +607,9 @@ XXXVI. Profesionalizar al personal de apoyo y asistencia a la educación, a trav
 
 XXXVII. Capacitar y profesionalizar a los funcionarios estatales del sector educativo; y
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2025)</small>
 
-XXXVIII. Invertir recursos financieros a la investigación pedagógica para la innovación y el desarrollo del sistema educativo;
+XXXVIII. Invertir recursos financieros a la investigación de las causas, los efectos y las medidas efectivas para contrarrestar el acoso escolar, así como también a la pedagogía para la innovación y el desarrollo del sistema educativo.
 
 > <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -701,13 +701,17 @@ LVIII. En materia de participación social, propiciar modelos para la práctica 
 
 La Autoridad Educativa Estatal procurará, en forma permanente, ampliar, mejorar y modernizar los servicios educativos que, por disposición de la Ley, queden bajo su jurisdicción y competencia, según los objetivos establecidos en el Programa Estatal de Educación, así como los que se desprendan de las distintas evaluaciones que se realicen al Sistema Educativo Estatal.
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2025)</small>
 
-Las escuelas de educación básica y media del Sistema Educativo Estatal, podrán contar con un área especializada en psicología clínica y educativa con el objetivo de tratar, cuidar, atender y orientar a los educandos a fin de permitirles el pleno desarrollo de su vida, habilidades intelectuales, emocionales y socioemocionales. De igual manera el área especializada en psicología ofrecerá asesoría y apoyo a maestros y padres de familia para la oportuna y acertada atención a los alumnos, de la manera más integral posible, según su ámbito de competencia y posibilidad operativa.
+Las escuelas de educación básica y media superior del Sistema Educativo Estatal, deberán contar con un área especializada en psicología clínica y educativa con el objetivo de prevenir las causas y los efectos de todos los tipos de violencia, así como también de tratar, cuidar, atender y orientar a los educandos a fin de permitirles el pleno desarrollo de su vida, y habilidades intelectuales, emocionales y socioemocionales. De igual manera el área especializada en psicología ofrecerá asesoría y apoyo a maestros y padres de familia para la oportuna y acertada atención a los alumnos, de la manera más integral posible, según su ámbito de competencia y posibilidad operativa.
 
 > <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2022)</small>
 
 Igualmente procurará, en todos los tipos, niveles y modalidades, desarrollar habilidades emocionales y socioemocionales que permitan a los educandos y al profesorado, adquirir conocimientos, prácticas y competencias emocionales que contribuyan a un desarrollo integral de la personalidad. Por educación emocional se entenderá el proceso educativo, continuo y permanente que pretende potenciar el desarrollo como complemento indispensable del crecimiento cognitivo, constituyendo ambos los elementos esenciales del desarrollo de la personalidad integral. En tanto que, por habilidades socioemocionales, se entiende el desarrollo de la imaginación y la creatividad de contenidos y formas; el respeto por los otros; la colaboración y el trabajo en equipo; la comunicación; el aprendizaje informal; la productividad; capacidad de iniciativa, resiliencia, responsabilidad; trabajo en red y empatía; gestión y organización.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2025)</small>
+
+El Estado promoverá progresivamente la presencia de personal especializado en atención psicológica en los centros educativos, priorizando zonas de riesgo.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1630,6 +1634,10 @@ Al respecto, diseñará, impulsará e implementará talleres y acciones permanen
 > <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2019)</small>
 
 Adicionalmente, se apoyarán y desarrollarán programas en coordinación con las diversas instancias de Gobierno, consistentes en cursos y actividades que fortalezcan la enseñanza de los padres y madres de familia o tutores, respecto al valor de la igualdad y solidaridad entre las hijas e hijos o pupilos, la prevención de la violencia escolar desde el hogar, y el respeto a sus maestras y maestros.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2025)</small>
+
+El Estado promoverá y organizará, de forma periódica, a través de un área y personal especializado, eventos de capacitación y sensibilización en la prevención de la violencia escolar, sobre el Protocolo Único para la Prevención, Detección y Actuación en Casos de Violencia Contra Niñas, Niños y Adolescentes de las Escuelas de Educación Básica del Estado de Chihuahua.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -2653,11 +2661,11 @@ IV. Solicitar, a todo medio de comunicación social, especialmente a los periód
 
 V. Promover y reconocer la participación social e individual en la difusión y enriquecimiento de la educación y la cultura.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 145.
 
-La Autoridad Educativa Estatal podrá establecer convenios de coordinación, colaboración, para la divulgación de los fines y propósitos de la educación para impulsar la participación corresponsable de la sociedad.
+La Autoridad Educativa Estatal podrá establecer convenios de coordinación y colaboración, para la divulgación de los fines y propósitos de la educación para impulsar la participación corresponsable de la sociedad, así mismo, promoverá campañas publicitarias periódicas tendientes a informar, prevenir y concientizar sobre el acoso escolar y capacitación sobre el Protocolo Único para la Prevención, Detección y Actuación en Casos de Violencia Contra Niñas, Niños y Adolescentes de las Escuelas de Educación Básica del Estado de Chihuahua, en escuelas públicas y privadas.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -4816,3 +4824,11 @@ P.O. 26 DE NOVIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVIII/RFLEY/0289/2025 I P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 8, LA FRACCIÓN XXIX, Y AL ARTÍCULO 9, LA FRACCIÓN VI, AMBOS DE LA LEY ESTATAL DE EDUCACIÓN, A EFECTO DE ESTABLECER LA ATRIBUCIÓN DE LA AUTORIDAD EDUCATIVA PARA PROMOVER Y FORTALECER LA INTELIGENCIA EMOCIONAL EN LAS Y LOS EDUCANDOS”.]
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVIII/RFLEY/0272/2025 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE EDUCACIÓN Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Poder Ejecutivo del Estado, a través de la Secretaría de Hacienda, destinará, priorizando de manera gradual en la medida financiera posible, las partidas presupuestales suficientes para garantizar lo previsto en el presente Decreto.
