@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109281"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2025-07-30"
+last_updated: "2025-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2025.
 
 Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
@@ -943,7 +943,9 @@ VII. Establecer acciones afirmativas para garantizar el derecho a la educación 
 
 VIII. Prestar servicios educativos en condiciones de normalidad mínima, entendida ésta como el conjunto de condiciones indispensables que deben cumplirse en cada escuela para el buen desempeño de la tarea docente y el logro del aprendizaje de los educandos.
 
-IX. Implementar mecanismos para la atención, canalización y seguimiento de los casos que constituyan violaciones al derecho a la educación de niñas, niños y adolescentes.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2025)</small>
+
+IX. Establecer mecanismos accesibles y efectivos dirigidos a las y los educandos, para la prevención atención, canalización y seguimiento de los casos que constituyan violaciones al derecho a su educación, así como cualquier otra forma de violencia que les afecte. Para tal efecto, las autoridades educativas del Estado promoverán la instalación de medios seguros y confidenciales que otorguen certeza en la recepción de quejas y reportes en las instituciones educativas, los cuales podrán implementarse utilizando recursos disponibles, tecnologías de la información y comunicación, así como herramientas físicas o digitales que no generen costos adicionales para las escuelas. Asimismo, se procurará que dichos mecanismos sean incluyentes, accesibles y estén al alcance de toda la comunidad escolar. Cualquier docente, directivo y personal administrativo que tenga conocimiento de algún caso de violencia contra niñas, niños o adolescentes deberá hacer de conocimiento, de manera explícita, en los términos del Protocolo Único para la Prevención, Detección y Actuación en Casos de Violencia Contra Niñas, Niños y Adolescentes de las Escuelas de Educación Básica del Estado de Chihuahua.
 
 X. Fomentar la convivencia escolar armónica y la generación de mecanismos para la discusión, debate y resolución pacífica de conflictos.
 
@@ -3062,3 +3064,11 @@ P.O. 30 DE JULIO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVIII/RFLEY/0272/2025 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE EDUCACIÓN Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Poder Ejecutivo del Estado, a través de la Secretaría de Hacienda, destinará, priorizando de manera gradual en la medida financiera posible, las partidas presupuestales suficientes para garantizar lo previsto en el presente Decreto.
