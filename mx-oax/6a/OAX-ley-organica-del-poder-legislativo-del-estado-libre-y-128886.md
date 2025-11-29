@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-libre-y-128886"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-12"
-last_updated: "2025-09-13"
+last_updated: "2025-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2025.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de mayo de 2018.
 
@@ -203,9 +203,11 @@ En las fechas indicadas en el artículo anterior, la Legislatura sesionará para
 
 “La (aquí el número de la Legislatura) Legislatura del Estado de Oaxaca (abre o clausura) hoy (fecha) el (primer, segundo) período ordinario de sesiones, correspondiente al (año respectivo) de su ejercicio constitucional”.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 11.
 
-El día quince de noviembre de cada año, en la sesión solemne a la que se refiere el artículo 43 de la Constitución Local, el Gobernador Constitucional del Estado presentará un informe por escrito, sobre el estado que guarda la Administración Pública Estatal, pudiendo presentarse a dar lectura del mismo, al cual la Presidencia de la Legislatura contestará con las formalidades que corresponden al acto y conforme a lo establecido en el Reglamento.
+Conforme a lo dispuesto por el artículo 80, fracción XXXIII, de la Constitución Política del Estado Libre y Soberano de Oaxaca, el día primero de diciembre de cada año, salvo en el último año de su ejercicio, en cuyo caso se presentará el quince de noviembre, en Sesión Solemne la Gobernadora o el Gobernador Constitucional del Estado presentará un informe por escrito, sobre el estado que guarda la Administración Pública Estatal, pudiendo presentarse a dar lectura del mismo, al cual la Presidencia de la Legislatura contestará con las formalidades que corresponden al acto y conforme a lo establecido en el Reglamento.
 
 El informe a que se refiere este artículo, será analizado por la Legislatura en sesiones subsecuentes, clasificándose por materias o por ejes, solicitando al Titular del Ejecutivo del Estado ampliar la información mediante requerimiento por escrito, citando a los titulares de las dependencias y entidades de la administración pública estatal que considere procedente, mismos que comparecerán y rendirán informes bajo protesta de decir verdad.
 
@@ -555,7 +557,9 @@ XXV. Firmar los Acuerdos de la Mesa Directiva;
 
 XXVI. Exhortar al Titular del Poder Ejecutivo del Estado, para que publique de manera inmediata, los decretos remitidos para sus efectos por la Legislatura, una vez culminado el plazo legal para la presentación de observaciones;
 
-XXVII. Dar respuesta al Informe que en términos del artículo 43 de la Constitución Local, presente el Titular del Poder Ejecutivo del Estado; y,
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2025)</small>
+
+XXVII. Dar respuesta al informe que, en términos del artículo 80, fracción XXXIII, de la Constitución Política del Estado Libre y Soberano de Oaxaca, presente la persona Titular del Poder Ejecutivo del Estado; y
 
 XXVIII. Las demás que le atribuyan la Constitución Local, esta Ley, su Reglamento, los Acuerdos Parlamentarios y demás ordenamientos relativos a la actividad parlamentaria.
 
@@ -1770,6 +1774,14 @@ TERCERO. Quedan sin efecto todas las disposiciones que contravengan el contenido
 P.O. 13 DE SEPTIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 743.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 2 Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 113 DE LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 2, Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 82 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese el presente Decreto en la Gaceta Parlamentaria y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 842.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 11, Y LA FRACCIÓN XXVII DEL ARTÍCULO 39 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; DEROGA EL TERCER PÁRRAFO DEL ARTÍCULO 10 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor el día de su aprobación.
 
