@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2025-11-08"
+last_updated: "2025-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2025.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -2125,13 +2125,13 @@ Si resultan hijos a consecuencia de la comisión de alguno de los delitos previs
 
 ###### Artículo 154.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2025)</small>
 
-A quien abandone a una persona incapaz de valerse por sí misma teniendo la obligación de cuidarla, se le impondrán de uno a cinco años de prisión si no resultare lesión o daño alguno. Si el sujeto activo fuese médico o profesionista similar o auxiliar, también se le suspenderá en el ejercicio de su profesión hasta por dos años.
+A quien abandone a una persona incapaz de valerse por sí misma, o a una persona adulta mayor, teniendo la obligación de cuidarla, se le impondrán de uno a cinco años de prisión si no resultare lesión o daño alguno. Si el sujeto activo fuese médico o profesionista similar o auxiliar, también se le suspenderá en el ejercicio de su profesión hasta por dos años.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2025)</small>
 
-A quien realice la conducta descrita en el párrafo anterior, laborando en establecimientos asistenciales, o establecimientos públicos o privados que presten servicios a niñas, niños, adolescentes o personas mayores, además se le suspenderá hasta por dos años en el ejercicio de la profesión, oficio o empleo en estas instituciones.
+A quien realice la conducta descrita en el párrafo anterior, laborando en establecimientos asistenciales, o establecimientos públicos o privados que presten servicios a niñas, niños, adolescentes o personas adultas mayores, además se le suspenderá hasta por dos años en el ejercicio de la profesión, oficio o empleo en estas instituciones.
 
 > <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2018)</small>
 
@@ -3069,6 +3069,10 @@ IV. Prisión de seis a doce años y de setecientos cincuenta a mil doscientos ci
 
 V. Cuando no sea determinable el valor de lo dispuesto, se aplicarán de seis meses a cinco años de prisión y multa de treinta a ochenta veces el valor diario de la Unidad de Medida y Actualización.
 
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2025)</small>
+
+Las sanciones previstas en este artículo se aumentarán en un tercio, cuando el delito se cometa en contra de una persona adulta mayor en estado de vulnerabilidad.
+
 ###### Artículo 221.
 
 Las mismas penas previstas en el artículo anterior se impondrán:
@@ -3077,9 +3081,15 @@ I. Al propietario o poseedor de una cosa mueble, que sin tener la libre disposic
 
 II. A quien haga aparecer como suyo, sin ser de su propiedad, un depósito cautelar ordenado por la autoridad en un procedimiento penal;
 
-III. A quien habiendo recibido mercancías con subsidio o en franquicia para darles un destino determinado, las distraiga de ese destino o desvirtúe en cualquier forma los fines perseguidos con el subsidio o la franquicia; y
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2025)</small>
+
+III. A quien habiendo recibido mercancías con subsidio o en franquicia para darles un destino determinado, las distraiga de ese destino o desvirtúe en cualquier forma los fines perseguidos con el subsidio o la franquicia;
 
 IV. A los gerentes, directivos, administradores, mandatarios o intermediarios de personas morales, constructores o vendedores que, habiendo recibido dinero, títulos o valores por el importe total o parcial del precio de alguna compraventa de inmuebles o para constituir un gravamen real sobre éstos, no los destine al objeto de la operación concertada y disponga de ellos en provecho propio o de tercero.
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2025)</small>
+
+V. A quien, sin tener la libre disposición de bienes, valores u objetos provenientes de programas sociales, disponga total o parcialmente de ellos, sin el consentimiento de la víctima.
 
 ###### Artículo 222.
 
@@ -3108,6 +3118,10 @@ III. Prisión de tres a seis años y de doscientos cincuenta a setecientos cincu
 IV. Prisión de seis a doce años y de setecientos cincuenta a mil doscientos cincuenta días multa, si el valor de lo defraudado excede de cinco mil veces el valor diario de la Unidad de Medida y Actualización.
 
 Cuando el delito se cometa en contra de dos o más personas, se impondrá además las dos terceras partes de las penas previstas en las fracciones anteriores.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2025)</small>
+
+Las sanciones previstas en este artículo se aumentarán en un tercio, cuando el delito se cometa en contra de una persona adulta mayor en estado de vulnerabilidad.
 
 ###### Artículo 224.
 
@@ -5966,3 +5980,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones legales que se opongan al contenido del presente Decreto.
+
+P.O. 29 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFCOD/0281/2025 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
