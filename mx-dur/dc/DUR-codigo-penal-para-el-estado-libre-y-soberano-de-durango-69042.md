@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2025-11-23"
+last_updated: "2025-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -451,9 +451,159 @@ Cuando varios sujetos, sin concierto alguno, intervengan en la comisión de un d
 
 Responsabilidad de las personas morales.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2025)</small>
 
-Sin perjuicio de la responsabilidad en que hubieren incurrido las personas físicas, miembros o representantes de una persona moral, con excepción de las instituciones estatales, las personas morales también serán penalmente responsables según sea la clasificación jurídica que se les atribuya, la forma de intervención y la naturaleza dolosa o culposa de su conducta, cuando se cometa algún un (sic) hecho delictivo con los medios que para tal objeto le haya proporcionado la persona jurídica a la persona física o sus representantes, de modo que resulte cometido a nombre, bajo el amparo o en beneficio de aquélla. A las personas morales se les impondrá las consecuencias jurídicas correspondientes.
+Sin perjuicio de la responsabilidad en que hubieren incurrido las personas físicas, miembros o representantes de una persona jurídica, con excepción de las instituciones públicas, las personas morales también serán penalmente responsables según sea la clasificación jurídica que se les atribuya, la forma de intervención y la naturaleza dolosa o culposa de su conducta, esto, cuando se cometa algún hecho delictivo a su nombre, por su cuenta, en su beneficio o a través de los medíos que ellas proporcionen y además se haya determinado que existió inobservancia del debido control de su organización.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2025)</small>
+
+A las personas jurídicas se les impondrán las consecuencias jurídicas correspondientes.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2025)</small>
+
+El que actúe como administrador o representante de hecho o de derecho de una persona jurídica, o en nombre o representación legal o voluntaria de otro, responderá personalmente, aunque no concurran en él las condiciones, cualidades o relaciones que el tipo penal requiera para poder ser sujeto activo del mismo, si tales circunstancias se dan en la entidad o persona en cuyo nombre o representación obre.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2025)</small>
+
+Las personas jurídicas serán penalmente responsables de cualquier delito cometido en el ejercicio de actividades relacionadas, que hayan sido realizadas por cualquiera de sus integrantes, empleados o subordinados sin distinción de su grado, jerarquía o función por falta de supervisión, vigilancia, control o capacitación por parte de la persona moral en razón de su indebida organización.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 27 Bis.
+
+La persona jurídica quedará excluida de responsabilidad sí se cumplen las siguientes condiciones:
+
+a) El órgano de administración ha implementado y ejecutado con eficacia, antes de la comisión del delito, modelos de organización, gestión y prevención que contengan medidas de vigilancia y control idóneas y adecuadas para prevenir delitos de la misma naturaleza del delito cometido o para reducir de forma significativa el riesgo de su comisión;
+
+b) La supervisión del funcionamiento y del cumplimiento del modelo de organización, gestión y prevención implantado ha sido confiada a un oficial de cumplimiento u órgano de la persona jurídica con poderes autónomos para el adecuado control y vigilancia del programa preventivo del delito puesto en marcha por la persona jurídica o que tenga encomendada legalmente la función de supervisar la eficacia de los controles internos de la persona jurídica;
+
+c) Los autores individuales han cometido el delito eludiendo fraudulentamente el programa preventivo del delito implementado, y
+
+d) El delito ocurre a pesar del actuar diligente del oficial de cumplimiento o del órgano en relación a la supervisión, vigilancia y control de la persona jurídica.
+
+En los casos en los que las anteriores condiciones solamente puedan ser objeto de acreditación parcial, esta circunstancia será valoradas (sic) para los efectos de atenuación de la pena.
+
+En las personas jurídicas que entren en la clasificación de micro y pequeñas empresas, las funciones de supervisión aludidas a un oficial de cumplimiento u organismo autónomo, podrán ser asumidas directamente por el órgano de administración. A estos efectos, son personas jurídicas consideradas como micro y pequeñas empresas, aquéllas que así estén consideradas por la legislación aplicable.
+
+La existencia previa del programa de prevención del delito deberá acreditarse fehacientemente a través de medios probatorios idóneos, así como demostrarse que dicho modelo de organización, gestión y prevención resultaba adecuado para prevenir delitos como el que fue cometido al menos para disminuir el riesgo de su comisión. Cuando no se acredite lo adecuado e idóneo del programa preventivo del delito, solo tendrá efectos de atenuación de la pena.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 27 Ter.
+
+Los programas de prevención del delito a que se refiere el artículo anterior, para poder ser valorados favorablemente por el órgano jurisdiccional deberán cumplir los siguientes requisitos:
+
+I. Identificarán las actividades en que pueden ser cometidos los delitos que deben ser prevenidos;
+
+II. Adoptarán protocolos o procedimientos que concreten el proceso de formación de la voluntad de la persona jurídica, de adopción de decisiones y de ejecución de las mismas con relación a aquéllos, todo esto para prevenir el delito;
+
+III. Dispondrán de modelos de gestión de los recursos financieros adecuados para impedir la comisión de los delitos que deben ser prevenidos, así como compromisos de los órganos directivos o de administración para destinar recursos a la prevención de delitos;
+
+IV. Impondrán la obligación de informar de posibles riesgos e incumplimientos al oficial de cumplimiento u organismo encargado de vigilar el funcionamiento y observancia del programa preventivo del delito e implementarán canales de denuncia idóneos para ello;
+
+V. Establecerán un sistema disciplinario que sancione adecuadamente el incumplimiento de las medidas de prevención que contemple el programa preventivo del delito, y
+
+VI. Realizarán una verificación periódica del programa preventivo del delito y de su eventual adecuación cuando se pongan de manifiesto infracciones relevantes de sus disposiciones, o cuando se produzcan cambios en la organización, en la estructura de control, en la actividad desarrollada o en la legislación que los hagan necesarios.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 27 Quáter.
+
+Sólo podrán considerarse circunstancias atenuantes de la responsabilidad penal de las personas jurídicas, cuando con posterioridad a la comisión del delito y a través de sus representantes legales hayan realizado las siguientes acciones:
+
+I. Haber procedido, antes de conocer que el procedimiento judicial se dirige contra ella, a aceptar su responsabilidad ante las autoridades investigadoras;
+
+II. Haber colaborado en la investigación del hecho aportando medios de convicción, en cualquier momento del proceso, que fueran nuevas y decisivas para esclarecer la responsabilidad penal en relación a los hechos;
+
+III. Haber procedido en cualquier momento desde la comisión del hecho y con anterioridad al dictado del auto de apertura a juicio, a reparar o disminuir el daño causado por el delito, y
+
+IV. Haber establecido, antes del auto de apertura a juicio, medidas eficaces que, en beneficio de un adecuado control organizacional, tengan por objeto prevenir y descubrir los delitos que en el futuro pudieran cometerse con los medios o bajo la cobertura de la persona jurídica.
+
+Quedan exceptuados de la responsabilidad de la persona jurídica, las instituciones estatales, pero cuando aquélla utilice a éstas últimas para cometer un delito será sancionada por el delito o delitos cometidos. Lo anterior también será aplicable a los fundadores, administradores o representantes que se aprovechen de alguna institución estatal para eludir alguna responsabilidad penal.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 27 Quinquies.
+
+Solo podrá procederse penalmente en contra de una persona jurídica de alguno o algunos de los siguientes delitos:
+
+I. Abuso de confianza, en relación a los artículos 214, 215 y 216;
+
+II. Daños, en relación a los artículos 206 y 207;
+
+III. Despojo, en relación a su artículo 220;
+
+IV. Falsificación o alteración y uso indebido de documentos, en relación al Capítulo IV Falsificación o Alteración y Uso Indebido de Documentos;
+
+V. Fraude, en relación a los artículos 210, 211 y 212;
+
+VI. Fraude procesal, en relación al artículo 384;
+
+VII. Homicidio, en relación a los artículos 133, 134, 135, 137, 139 y 147;
+
+VIII. Feminicidio, en relación al artículo 147 BIS;
+
+IX. Lesiones, en relación a los artículos 140, 143 y 147;
+
+X. Privación de la libertad personal, en relación a su artículo 161;
+
+XI. Robo, en relación a los artículos 194, 196, 197, 199 y 201;
+
+XII. Tráfico de menores, en relación al artículo 159;
+
+XIII. Retención y sustracción de menores en términos de los artículos 162 y 163;
+
+XIV. Hostigamiento y Acoso Sexual, en relación al artículo 182;
+
+XV. Violación a la intimidad sexual, en su artículo 182 TER;
+
+XVI. Procreación asistida e inseminación artificial, en relación a los artículos 183, 184 y 185;
+
+XVII. Trabajo infantil, en relación al artículo 190 BIS;
+
+XVIII. Extorsión, en relación al artículo 338 BIS;
+
+XIX. Responsabilidad de directores, encargados, administradores o empleados de centros de salud y agencias funerarias, en relación al artículo 237;
+
+XX. Usura, en relación a los artículos 217 y 218;
+
+XXI. Venta clandestina de bebidas con contenido alcohólico en relación a los artículos 242 y 243;
+
+XXII. Ataque a las vías de comunicación; artículo 310 fracción IV;
+
+XXIII. Delitos contra la seguridad de los medios informáticos, en relación a los artículos 256, 257, 258 y 259;
+
+XXIV. Delitos contra la riqueza forestal del estado, en relación a los artículos 261 y 262;
+
+XXV. Delitos contra el consumo, en relación a los artículos 263, 264, 265, 265 BIS y 265 TER;
+
+XXVI. Delitos contra el trabajo y la previsión social, en relación a los artículos 266 y 267;
+
+XXVII. Delitos contra la gestión ambiental, en relación a los artículos 268, 269, 270, 271, 272, 273, 274, 275 y 275 BIS, 275 BIS 1, 275 BIS 2, 275 BIS 3, 275 BIS 4 y 275 BIS 5;
+
+XXVIII. Usurpación de identidad, en relación al artículo 175 BIS;
+
+XXIX. Delitos contra la economía pecuaria, en relación al Capítulo VIII BIS;
+
+XXX. Venta de bebidas con contenido alcohólico, en relación al Título Cuarto Capitulo X;
+
+XXXI. Delitos que atentan contra el libre desarrollo de la personalidad derivado de la dignidad humana, en relación a los artículos 276, 276 BIS, 276 TER y 277;
+
+XXXII. Delitos contra la formación de las personas menores de edad y protección integral de personas que no tienen la capacidad para comprender el significado del hecho, en relación a los artículos 279, 280, 281 y 283;
+
+XXXIII. Lenocinio, en relación a los artículos 284, 285 y 286;
+
+XXXIV. Cohecho, en relación al artículo 338;
+
+XXXV. Desobediencia y resistencia de particulares, en relación al Título Quinto, Subtitulo Cuarto, Capitulo II;
+
+XXXVI. Quebrantamiento de sellos, en relación al Título Quinto, Subtitulo Cuarto Capitulo IV;
+
+XXXVII. Simulación de pruebas, en relación Subtitulo Sexto, Capitulo IV, Articulo 393;
+
+XXXVIII. Discriminación, en relación al Título Cuarto, Subtitulo Décimo, Capítulo II, y
+
+XXXIX. En los demás casos que así determine la ley y los previstos en las leyes especiales.
 
 ### CAPÍTULO IV. CAUSAS QUE EXCLUYEN EL DELITO
 
@@ -985,7 +1135,9 @@ Aplicación y alcances.
 
 Cuando el sujeto haya sido sentenciado por un delito cuya comisión haya sido determinada por la adicción en el uso de bebidas alcohólicas, estupefacientes, psicotrópicos o sustancias que produzcan efectos similares, independientemente de la pena que corresponda, se le aplicará tratamiento de deshabituación o desintoxicación, el cual no podrá exceder del término de la pena impuesta por el delito cometido, ni ser inferior a un año.
 
-### CAPÍTULO IV. SUSPENSIÓN, DISOLUCIÓN, PROHIBICIÓN DE REALIZAR DETERMINADAS OPERACIONES, REMOCIÓN E INTERVENCIÓN DE PERSONAS MORALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 2025)</small>
+
+### CAPÍTULO IV. CONSECUENCIAS JURÍDICAS PARA LAS PERSONAS MORALES
 
 ###### Artículo 67.
 
@@ -995,13 +1147,85 @@ Las consecuencias jurídicas que se podrán imponer a las personas morales son l
 
 I. Suspensión: Consiste en la cesación de la actividad de la persona moral durante el tiempo que determine la autoridad judicial, la cual no podrá exceder de dos años;
 
-II. Disolución: Consiste en la conclusión definitiva de toda actividad social de la persona moral, además de la imposibilidad de constituir una nueva sociedad con el mismo objeto social e integrantes;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2025)</small>
+
+II. Disolución: Consiste en la conclusión definitiva de toda actividad social de la persona moral, además de la imposibilidad de constituir una nueva sociedad con el mismo objeto social e integrantes en forma real o encubierta, perdiendo definitivamente su personalidad jurídica, así como su capacidad de actuar de cualquier modo jurídica o comercialmente.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2025)</small>
+
+La conclusión de toda actividad social se hará sin perjuicio de la realización de los actos necesarios para la disolución y liquidación total. En el caso de la disolución el juez designará en el mismo acto un liquidador que procederá a cumplir todas las obligaciones contraídas hasta entonces por la persona jurídica, inclusive, las responsabilidades derivadas del delito cometido, observando las disposiciones de ley sobre prelación de créditos, conforme a la naturaleza de éstos y de la entidad objeto de la liquidación;
 
 III. Prohibición de realizar determinados negocios u operaciones: Se refiere exclusivamente a los que determine la autoridad judicial, que deberán tener relación directa con el delito cometido y podrá ser hasta por cinco años;
 
 IV. Remoción: Consiste en la sustitución de los administradores por uno designado por la autoridad judicial, durante un período máximo de tres años; e,
 
 V. Intervención: Consiste en la vigilancia de las funciones que realizan los órganos de representación de la persona moral, hasta por tres años.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2025)</small>
+
+La intervención podrá afectar a la totalidad de la organización o limitarse a alguna de sus instalaciones, secciones o unidades de negocio. El juez o tribunal, en la sentencia o posteriormente, mediante auto, determinará exactamente el contenido de la intervención y quién o quiénes se harán cargo de la intervención y los plazos en que deberán realizar informes de seguimiento para el órgano judicial.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2025)</small>
+
+La intervención se podrá modificar o suspender en todo momento previo informe del o (sic) interventores y del Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2025)</small>
+
+El o los interventores tendrán derecho a acceder a todas las instalaciones y locales de la empresa o persona jurídica y a recibir cuanta información estime necesaria para el ejercicio de sus funciones. El interventor o interventores tendrán todas las facultades y obligaciones correspondientes al órgano de administración de la persona jurídica y ejercerán privativamente la administración de la misma, por todo el tiempo fijado en la sentencia y, además podrán solicitar la declaración de quiebra o concurso de la persona jurídica en los casos que proceda conforme a la ley, siempre que esto sea indispensable para salvaguardar los derechos de los trabajadores o de los acreedores;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2025)</small>
+
+VI. Inhabilitación para obtener subvenciones y ayudas públicas, para contratar con el sector público y para gozar de beneficios e incentivos fiscales o de la seguridad social, por un plazo que no podrá exceder de quince años;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2025)</small>
+
+VII. Multa para personas jurídicas;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2025)</small>
+
+VIII. Reparación de los daños y perjuicios; y
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2025)</small>
+
+IX. Publicación de la sentencia condenatoria;
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2025)</small>
+
+La sanción impuesta a la persona jurídica de acuerdo con este Código, no extingue la responsabilidad civil en que pueda incurrir.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 67 Bis.
+
+A las personas jurídicas con o sin personalidad jurídica propia, que hayan cometido o participado en la comisión de un hecho típico y antijurídico, se les podrá imponer como medida de seguridad una o varias de las contempladas en las fracciones II a VII del artículo que antecede.
+
+Para fijar la multa, el Juez o el Tribunal podrán tomar en cuenta las siguientes circunstancias:
+
+I. Cuando la punibilidad del delito señale la imposición de multa, los montos de ésta se cuadruplicarán tanto en su mínimo como en su máximo, y
+
+II. Cuando la punibilidad del delito señale la imposición de prisión, un año de prisión equivaldrá a 1,000 Unidades de Medida y Actualización y un mes de prisión a 100 días multa.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2025)</small>
+
+###### Artículo 67 Ter.
+
+En todo caso al imponer la pena o medida de seguridad a la persona jurídica se tendrá en cuenta para la individualización de las sanciones, lo siguiente:
+
+I. Su necesidad para prevenir la continuidad de la actividad delictiva o de sus efectos;
+
+II. Sus consecuencias económicas y sociales, así como especialmente los efectos para los trabajadores;
+
+III. El puesto que en la estructura de la persona jurídica ocupa la persona o personas físicas involucradas en la comisión del delito y de la persona o personas físicas u órgano que incumplió el deber de control;
+
+IV. La magnitud de la inobservancia del debido control en su organización y la exigibilidad de conducirse conforme a la norma;
+
+V. El monto de dinero involucrado en la comisión del hecho delictivo, en su caso;
+
+VI. La naturaleza jurídica y el volumen de negocios anual de la persona jurídica;
+
+VII. El grado de sujeción y cumplimiento de las disposiciones legales y reglamentarias, y
+
+VIII. El interés público de las consecuencias sociales y económicas o, en su caso, los daños que pudiera causar a la sociedad, la imposición de la pena.
 
 ## TÍTULO CUARTO. APLICACIÓN DE PENAS Y MEDIDAS DE SEGURIDAD
 
@@ -3355,11 +3579,31 @@ Si el miembro de la asociación delictuosa o de la Pandilla, tiene formación o 
 
 ### CAPÍTULO III. USURPACIÓN DE PROFESIÓN
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2025)</small>
 
 ###### Artículo 232.
 
-A quien se atribuya el carácter de profesionista u ostente algún posgrado o especialidad, sin haber cursado los estudios para obtener el título o certificación expedida por autoridades u organismos legalmente facultados para ello y ofrezca o desempeñe sus servicios bajo ese carácter, se le impondrá de seis meses a cuatro años de prisión y multa de treinta y seis a doscientas ochenta y ocho veces la Unidad de Medida y Actualización.
+Se impondrá de dos a seis años de prisión y multa de doscientos a quinientas veces la Unidad de Medida y Actualización, a quien se atribuya el título de auxiliar, técnico o profesionista, u ostente posgrado, especialidad o certificación, sin haber cursado los estudios correspondientes en instituciones educativas con reconocimiento de validez oficial y obtenido el título, grado académico, certificación o autorización respectivos conforme a las leyes aplicables, y/o ofrezca o desempeñe sus servicios con ese carácter.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2025)</small>
+
+Se sancionará con la misma pena a quien sin atribuirse ninguno de los títulos anteriores, lleve a cabo actividades que, de acuerdo con la ley, solo puedan desempeñarse por quienes cuenten con cédula profesional o de especialidad, certificación o autorización, expedidas por la autoridad competente u organismos legalmente facultados para ello.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2025)</small>
+
+A quien lleve a cabo un procedimiento médico quirúrgico especializado, sin contar con la certificación correspondiente autorizada por la autoridad competente en términos de lo dispuesto en la Ley General de Salud y la Ley de Salud del Estado de Durango, se aplicará una pena de prisión de 4 a 8 años de prisión y multa de trescientas a seiscientas veces la Unidad de Medida y Actualización, al momento de la comisión del hecho.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2025)</small>
+
+La pena establecida en el primer párrafo se aumentará en su mínima y su máxima hasta una mitad cuando se trate de usurpación de profesión a quien se ostente y lleve a cabo un procedimiento médico quirúrgico enmarcado en el campo de la cirugía plástica, estética y reconstructiva, sin contar con la cédula profesional y certificación correspondiente autorizada por la autoridad competente en términos de lo dispuesto en los artículos 81, 272 Bis de la Ley General de Salud, y del Capítulo I del Título Quinto de la Ley de Salud del Estado de Durango.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2025)</small>
+
+Así mismo se le impondrá la misma pena a quien realice un procedimiento médico quirúrgico enmarcado en el campo de la cirugía plástica en personas menores de 18 años exceptuando únicamente aquellos casos en los que la cirugía sea reconstructiva y esta se encuentre debidamente justificada por el dictamen médico especializado y evaluación psicológica, cuando la intervención sea necesaria para corregir malformaciones congénitas, secuelas de accidentes o anomalies (sic) fisiológicas que afecten la integridad física o psíquica del menor.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2025)</small>
+
+Las penas que correspondan en términos de este artículo, serán independientes a las que correspondan por cualquier otro delito.
 
 ### CAPÍTULO IV. DELITOS COMETIDOS EN EL EJERCICIO DE LA PROFESIÓN, RESPONSABILIDAD PROFESIONAL Y TÉCNICA
 
@@ -7298,6 +7542,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 23 DE NOVIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 279 QUE CONTIENE REFORMAS AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO Y ADICIONES A LA LEY DE SALUD DEL ESTADO DE DURANGO, EN MATERIA DE DELITOS CONTRA LA ORIENTACIÓN SEXUAL Y LA IDENTIDAD DE GÉNERO DE LAS PERSONAS”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 280 QUE CONTIENE REFORMAS Y ADICIONES AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN MATERIA DE CATÁLOGO DE DELITOS IMPUTABLES A PERSONAS MORALES Y DELITO DE USURPACIÓN DE PROFESIÓN”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
