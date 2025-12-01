@@ -4,7 +4,7 @@ identifier: "SON-ley-de-desarrollo-rural-sustentable-del-estado-de-sonora-70227"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2024-10-15"
+last_updated: "2025-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70227&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección IV del Boletín Oficial del Estado de Sonora, el jueves 17 de septiembre de 2009.
 
@@ -375,7 +375,9 @@ Para los efectos de esta ley, la coordinación y concurrencia de las dependencia
 
 La elaboración, ejecución y evaluación del Programa Especial y programas relacionados, se llevará a cabo en el seno de los Consejos Estatal, Distritales y Municipales del estado de Sonora.
 
-Tanto la Comisión Intersecretarial como los Consejos tendrán como marco jurídico las disposiciones de esta ley y lo establecido en la Ley Federal, en el Plan Estatal de Desarrollo, en la Ley de Planeación del Estado de Sonora y demás normatividad aplicable.
+> <small>(REFORMADO, B.O. 1 DE DICIEMBRE DE 2025)</small>
+
+Tanto la Comisión Intersecretarial como los Consejos tendrán como marco jurídico las disposiciones de esta ley y lo establecido en la Ley Federal, en el Plan Estatal de Desarrollo, en los Planes Municipales de Desarrollo, en la Ley de Planeación del Estado de Sonora y demás normatividad aplicable.
 
 ###### Artículo 14.
 
@@ -383,37 +385,47 @@ Los municipios, distritos y la entidad, formularán y aplicarán el Programa Esp
 
 #### SECCIÓN I. DE LA COMISIÓN INTERSECRETARIAL
 
+> <small>(REFORMADO, B.O. 1 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 15.
 
-Se establece la Comisión Intersecretarial con las dependencias y organismos de la administración pública estatal que inciden en el sector rural, para acordar los términos de la coordinación, concertación y concurrencia y definir las líneas de política estatal para el Desarrollo Rural Sustentable, acorde a lo que señalan las leyes federales y estatales en la materia.
+Se establece la Comisión Intersecretarial con las dependencias y organismos de la administración pública estatal, que inciden en el sector rural, y la Comisión de Fomento Agrícola y Ganadero del Congreso del Estado, para acordar los términos de la coordinación, concertación y concurrencia y definir las líneas de política estatal para el Desarrollo Rural Sustentable, acorde a lo que señalan las leyes federales y estatales en la materia.
+
+> <small>(REFORMADO, B.O. 1 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 16.
 
-La Comisión Intersecretarial estará presidida por el titular del Poder Ejecutivo del Estado y estará integrada por las siguientes dependencias y entidades de la administración pública estatal:
+La Comisión Intersecretarial estará integrada de la siguiente manera:
 
-I. Secretaría de Agricultura Ganadería Recursos Hidráulicos y Pesca Acuacultura;
+I.- La persona titular del Poder Ejecutivo del Estado, quien la presidirá;
 
-II. Secretaría de Economía;
+II.- La persona titular de la Secretaría de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acuacultura;
 
-III. Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora;
+III.- La persona titular de la Secretaría de Economía y Turismo;
 
-IV. Secretaría de Hacienda;
+IV.- La persona titular de la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora;
 
-V. Secretaría de Salud;
+V.- La persona titular de la Secretaría de Hacienda;
 
-VI. Secretaría de Educación y Cultura;
+VI.- La persona titular de la Secretaría de Salud Pública;
 
-VII. Secretaría de Desarrollo Social;
+VII.- La persona titular de la Secretaría de Educación y Cultura;
 
-VIII. Secretaria de Infraestructura y Desarrollo Urbano; y
+VIII.- La persona titular de la Secretaría de Bienestar;
 
-IX. Las demás dependencias y entidades del Poder Ejecutivo del Estado que se consideren necesarias, así mismo se contará con la participación de los ayuntamientos.
+IX.- La persona titular de la Secretaría de Infraestructura y Desarrollo Urbano;
 
-Cada uno de los integrantes de la Comisión Intersecretarial nombrará un representante y un suplente que serán los funcionarios mayormente vinculados a los temas de Desarrollo Rural.
+X.- La persona titular de la Presidencia de la Comisión de Fomento Agrícola y Ganadero del Congreso del Estado, quien tendrá voz, pero no voto; y
+
+XI.- Las demás dependencias y entidades del Poder Ejecutivo del Estado que se consideren necesarias, así mismo se contará con la participación de los ayuntamientos.
+
+Cada uno de los integrantes de la Comisión Intersecretarial podrá nombrar un suplente que cubra sus ausencias. En el caso de las dependencias del Poder Ejecutivo, ese nombramiento deberá recaer en los funcionarios mayormente vinculados a los temas de Desarrollo Rural.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 17.
 
-Son atribuciones de la Comisión Intersecretarial:
+La Comisión Intersecretarial deberá sesionar, al menos, una vez al año, y tendrá las siguientes atribuciones:
 
 I. Coordinar la formulación y operación de la política estatal para el Desarrollo Rural Sustentable y la Estrategia Integral para la Seguridad y la Soberanía Alimentaria en el estado de Sonora;
 
@@ -425,9 +437,17 @@ IV. Formular el proyecto de presupuesto de egresos del sector rural, atendiendo 
 
 V. Proponer al titular del Poder Ejecutivo Estatal, la celebración de convenios, la realización de programas y acciones con el gobierno federal y/o con los de otras entidades federativas y municipales, que fomenten el desarrollo rural sustentable;
 
-VI. Convocar a las dependencias y entidades estatales y federales, cuando alguna situación específica o contingencia, así lo ameriten; y
+> <small>(REFORMADA, B.O. 1 DE DICIEMBRE DE 2025)</small>
 
-VII. Las demás que señale la presente la presente ley y demás disposiciones legales aplicables.
+VI. Convocar a las dependencias y entidades estatales y federales, cuando alguna situación específica o contingencia, así lo ameriten;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 1 DE DICIEMBRE DE 2025)</small>
+
+VII. Proponer, al Congreso del Estado, por conducto de la Comisión de Fomento Agrícola y Ganadero, las adecuaciones normativas que considere necesarias; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 1 DE DICIEMBRE DE 2025)</small>
+
+VIII. Las demás que señale la presente la presente ley y demás disposiciones legales aplicables.
 
 ###### Artículo 18.
 
@@ -449,7 +469,9 @@ Los Consejos operarán de conformidad a lo que dispongan los convenios de coordi
 
 I. El Consejo Estatal será presidido por el titular del Poder Ejecutivo del Estado. El cargo de Secretario Ejecutivo será rotativo, en periodos bianuales, y su designación se realizará entre los titulares de las dependencias estatales que participan en el Consejo;
 
-Il. Los Consejos estarán integrados por los representantes de las dependencias y entidades que forman parte de la Comisión Intersecretarial; y los consejeros representativos de los grupos e intereses de la sociedad existentes en el territorio correspondiente. El Consejo Estatal incluirá a un miembro de la Comisión de Desarrollo Rural de la Legislatura local y a cada uno de los representantes de los Distritos de Desarrollo Rural. Además de los representantes antes señalados el Consejo Distrital deberá de incluir a los representantes de los Consejos Municipales;
+> <small>(REFORMADA, B.O. 1 DE DICIEMBRE DE 2025)</small>
+
+II. Los Consejos estarán integrados por los representantes de las dependencias y entidades que forman parte de la Comisión Intersecretarial; y los consejeros representativos de los grupos e intereses de la sociedad existentes en el territorio correspondiente. El Consejo Estatal incluirá a quien ostente la presidencia de la Comisión de Fomento Agrícola y Ganadero de la Legislatura local, y a cada uno de los representantes de los Distritos de Desarrollo Rural. Además de los representantes antes señalados el Consejo Distrital deberá de incluir a los representantes de los Consejos Municipales;
 
 III. En todos sus ámbitos territoriales, la representatividad atenderá a la composición económica, social y política de la jurisdicción;
 
@@ -577,7 +599,25 @@ IX. La simplificación administrativa; y
 
 X. Las demás necesarias para el cumplimiento del objeto de esta ley.
 
-#### SECCIÓN I. DE LOS APOYOS
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 1 DE DICIEMBRE DE 2025)</small>
+
+#### SECCIÓN V. DE LA PARTICIPACIÓN DEL CONGRESO DEL ESTADO DE SONORA
+
+> <small>(ADICIONADO, B.O. 1 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 28 Bis.
+
+Para alcanzar los fines de esta Ley, el Congreso del Estado de Sonora, por conducto de la Comisión de Fomento Agrícola y Ganadero, tendrá las siguientes atribuciones:
+
+I.- Participar, mediante su presidente o el integrante que este designe, en las reuniones de la Comisión Intersecretarial y del Consejo Estatal;
+
+II.- Convocar durante la segunda quincena del mes de septiembre de cada año, a los productores agrícolas y ganaderos, y en general a los pequeños productores establecidos en los municipios y localidades rurales del Estado, a participar en los mecanismos de consulta que la misma Comisión establezca para tal efecto, para que expongan las problemáticas que les afectan y realicen propuestas que promuevan el desarrollo rural del Estado;
+
+III.- Informar los resultados de las consultas a que se refiere la fracción II de este artículo, a la Comisión Intersecretarial;
+
+IV.- Recibir las solicitudes de los productores agrícolas y ganaderos, y canalizarlas a los integrantes de la Comisión Intersecretarial o a cualquier dependencia estatal, municipal o federal, con competencia para su respectiva atención y resolución; y
+
+V.- Recibir propuestas de los integrantes de la Comisión Intersecretarial, y de los consejos estatal, distritales y municipales, sobre modificaciones a disposiciones jurídicas para promover el desarrollo rural estatal, y proponerlas, mediante el dictamen respectivo, al Pleno del Congreso del Estado para su aprobación.
 
 ### CAPÍTULO III. DEL PROGRAMA ESPECIAL CONCURRENTE PARA EL DESARROLLO RURAL SUSTENTABLE
 
@@ -853,7 +893,7 @@ Las agendas del Desarrollo Rural Sustentable y de la Estrategia Integral y Suste
 
 ### CAPÍTULO ÚNICO. DE LOS INSTRUMENTOS DE FOMENTO
 
-#### SECCIÓN II. DE LA ORGANIZACIÓN PARA EL DESARROLLO RURAL
+#### SECCIÓN I. DE LOS APOYOS
 
 ###### Artículo 60.
 
@@ -895,9 +935,7 @@ La Comisión Intersecretarial promoverá entre las dependencias estatales y fede
 
 Para hacer más eficiente el acceso a los apoyos establecidos en esta ley, el Registro, contemplado en el artículo 86 de esta ley, tendrá como función facilitar a los productores información actualizada y confiable sobre la oferta de servicios, tanto gubernamentales como privados, tecnologías, buenas prácticas productivas, entre otros.
 
-#### SECCIÓN III. DEL DESARROLLO DE COMPETENCIAS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE OCTUBRE DE 2024)</small>
+#### SECCIÓN II. DE LA ORGANIZACIÓN PARA EL DESARROLLO RURAL
 
 ###### Artículo 68.
 
@@ -923,7 +961,9 @@ La operación y funcionamiento de los Sistemas-Producto en el estado, seguirán,
 
 La Secretaría, a través del Registro, integrará, mantendrá actualizado y difundirá de la manera más amplia posible, un padrón de organizaciones de productores rurales, con la información que facilite la integración de redes de interacción entre organizaciones. Dicho Registro no será limitante para el acceso a los beneficios que otorga la presente ley.
 
-#### SECCIÓN IV. DEL DESARROLLO TECNOLÓGICO Y CIENTÍFICO
+#### SECCIÓN III. DEL DESARROLLO DE COMPETENCIAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 73.
 
@@ -965,9 +1005,7 @@ XI. Capacitar a los pequeños productores rurales en el aprovechamiento de los r
 
 XII. Las demás que el titular del Poder Ejecutivo del Estado con la participación del Consejo Estatal considere pertinentes.
 
-#### SECCIÓN V. DEL FINANCIAMIENTO Y EL MANEJO DE RIESGOS
-
-> <small>(REFORMADO, B.O. 15 DE OCTUBRE DE 2024)</small>
+#### SECCIÓN IV. DEL DESARROLLO TECNOLÓGICO Y CIENTÍFICO
 
 ###### Artículo 75.
 
@@ -999,7 +1037,9 @@ XI. Los demás que le asigne la Comisión Intersecretarial.
 
 La Secretaría establecerá y dará seguimiento a la operación de los mecanismos necesarios de evaluación y registro de tecnologías aplicables a las diversas condiciones agroambientales y socioeconómicas de los productores.
 
-#### SECCIÓN VI. DE LA SANIDAD, INOCUIDAD Y CALIDAD DE LOS PRODUCTOS DEL CAMPO
+#### SECCIÓN V. DEL FINANCIAMIENTO Y EL MANEJO DE RIESGOS
+
+> <small>(REFORMADO, B.O. 15 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 77.
 
@@ -1007,7 +1047,7 @@ El titular del Poder Ejecutivo del Estado, con apoyo del Sistema Nacional de Fin
 
 Además de lo establecido en el párrafo anterior, tendrán preferencia los agentes económicos con bajos ingresos, de las zonas del estado con menor desarrollo económico y social, los proyectos productivos rentables o los que sean altamente generadores de empleo, los que empleen tecnologías de mitigación y adaptación a los efectos del cambio climático.
 
-#### SECCIÓN VII. DE LA COMERCIALIZACIÓN
+#### SECCIÓN VI. DE LA SANIDAD, INOCUIDAD Y CALIDAD DE LOS PRODUCTOS DEL CAMPO
 
 ###### Artículo 78.
 
@@ -1043,9 +1083,7 @@ XIII. Diseñar y ofrecer programas de capacitación y transferencia de tecnolog�
 
 XIV. Las demás que establezca la Comisión Intersecretarial.
 
-#### SECCIÓN VIII. DE LA TRANSFORMACIÓN AGROINDUSTRIAL
-
-> <small>(REFORMADO, B.O. 15 DE OCTUBRE DE 2024)</small>
+#### SECCIÓN VII. DE LA COMERCIALIZACIÓN
 
 ###### Artículo 79.
 
@@ -1111,7 +1149,9 @@ La Secretaría y el Centro Estatal para el Desarrollo de Productos y Mercados Ru
 
 El gobierno del estado adquirirá preferentemente los bienes y servicios del medio rural, producidos por pequeños productores rurales y productores de las unidades rurales familiares organizados del estado, con observancia en la normatividad estatal aplicable en materia de adquisiciones.
 
-#### SECCIÓN IX. DE LA INFORMACIÓN
+#### SECCIÓN VIII. DE LA TRANSFORMACIÓN AGROINDUSTRIAL
+
+> <small>(REFORMADO, B.O. 15 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 84.
 
@@ -1122,6 +1162,8 @@ El Centro Estatal para el Desarrollo de Productos y Mercados Rurales incluirá e
 La Secretaría establecerá los acuerdos con los municipios y con otras dependencias del ámbito federal y estatal, así como con particulares, para el establecimiento de Centros de Desarrollo Agroindustrial ubicados estratégicamente, donde se ofrezcan las mejores condiciones para el desarrollo de la industria de transformación de los productos del campo, incluyendo la infraestructura de comunicación, almacenamiento, provisión de servicios públicos, provisión de energía y facilidades para el manejo de residuos en esquemas de reuso y reciclamiento de los mismos.
 
 En la medida de lo posible y considerando las condiciones locales, también promoverá la instalación de estos Centros en las zonas rurales con mayor índice de migración, de manera que abastezcan con productos de calidad a los mercados locales; favorezcan la retención de valor en la región, y generen empleos para estimular el arraigo de la población.
+
+#### SECCIÓN IX. DE LA INFORMACIÓN
 
 ###### Artículo 86.
 
@@ -1270,3 +1312,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 1 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 68, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
