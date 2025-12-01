@@ -4,7 +4,7 @@ identifier: "SON-ley-de-gobierno-y-administracion-municipal-del-estado-de-30437"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2023-07-13"
+last_updated: "2025-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
@@ -907,7 +907,9 @@ XIV. Vigilar y preservar el patrimonio cultural e histórico del Municipio;
 
 XV. Formar y actualizar el padrón municipal, cuidando de que se inscriban en éste todos los ciudadanos, expresando su nombre, edad, estado civil, nacionalidad, residencia, domicilio, propiedades, profesión, actividad productiva o trabajo de que subsistan, si son jefes de familia, en cuyo caso, se expresará el número y sexo de las personas que la formen;
 
-XVI. Ser auxiliar de la federación en la aplicación de la Ley de Asociaciones Religiosas y Culto Público, reglamentaria de los artículos 24 y 130 de la Constitución Política de los Estados Unidos Mexicanos, debiendo recibir los avisos respecto a la celebración de actos religiosos y culto público con carácter extraordinario fuera de los templos y ejercer sus facultades al respecto. De igual manera, registrar los templos que existan o se abran al culto religioso, así como a los encargados de los mismos, y sus cambios, notificando de todo lo actuado a la Secretaría de Gobernación por conducto del Gobernador del Estado;
+> <small>(REFORMADA, B.O. 1 DE DICIEMBRE DE 2025)</small>
+
+XVI. Ser auxiliar de la federación en la aplicación de la Ley de Asociaciones Religiosas y Culto Público, reglamentaria de los artículos 24 y 130 de la Constitución Política de los Estados Unidos Mexicanos, debiendo recibir los avisos respecto a la celebración de actos religiosos y culto público con carácter extraordinario fuera de los templos y ejercer sus facultades al respecto; así como expedir la Constancia de Notorio Arraigo, en los términos que señala la ley en la materia y su reglamento. De igual manera, registrar los templos que existan o se abran al culto religioso, así como a los encargados de los mismos, y sus cambios, notificando de todo lo actuado a la Secretaría de Gobernación por conducto del Gobernador del Estado;
 
 XVII. Promover y respetar los mecanismos de participación ciudadana para el desarrollo integral de los municipios;
 
@@ -4692,3 +4694,13 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se establece un periodo de 60 días naturales para que los ayuntamientos adecuen sus reglamentos internos a lo dispuesto en el presente Decreto.
+
+B.O. 1 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 69, QUE REFORMA LA FRACCIÓN XVI DEL ARTÍCULO 65 DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL".]
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+Artículo Segundo.- Para facilitar la expedición de la Constancia de Notorio Arraigo, se le brindará asesoramiento a los Ayuntamientos, a través de la Coordinación Estatal de Asuntos Religiosos del Gobierno del Estado.
+
+Artículo Tercero.- Los Ayuntamientos de los municipios en el Estado, dentro de los 90 días naturales de la entrada en vigor del presente Decreto, deberán realizar las adecuaciones legales y reglamentarias necesarias que permitan dar cumplimiento a los objetivos de éste mismo.
