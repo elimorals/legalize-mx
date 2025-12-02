@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-ixtlahuacan-colima-26793"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2024-12-02"
+last_updated: "2025-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE IXTLAHUACÁN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -3019,11 +3019,11 @@ BASE 100% 80% 60%
 
 Lo dispuesto en el presente transitorio, no les será aplicable a los contribuyentes que celebren convenio de pago en parcialidades.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO OCTAVO.
 
-Para el ejercicio fiscal 2024, por concepto de estímulo fiscal, se concede a los contribuyentes el descuento del 100 por ciento de las multas y los recargos generados por la falta de pago oportuno de los derechos de refrendo de licencias comerciales, y de licencias para el funcionamiento de establecimientos cuyos giros sean la venta de bebidas alcohólicas, respecto del ejercicio fiscal 2023 y ejercicios fiscales anteriores.
+Para el ejercicio fiscal 2025, por concepto de estímulo fiscal, se concede a los contribuyentes el descuento del 100 por ciento de las multas y los recargos generados por la falta de pago oportuno de los derechos de refrendo de licencias comerciales, y de licencias para el funcionamiento de establecimientos cuyos giros sean la venta de bebidas alcohólicas, respecto del ejercicio fiscal 2024 y ejercicios fiscales anteriores.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2019)</small>
 
@@ -3252,6 +3252,18 @@ P.O. 2 DE DICIEMBRE DE 2024.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”, y permanecerá vigente hasta el 31 de diciembre de 2024.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos de la entidad deberán establecer estrategias para brindar la máxima publicidad a los preceptos contenidos en este Decreto; en el entendido de que los incentivos fiscales que se otorgan, se aplicarán de manera excepcional y solo durante la vigencia del presente instrumento. Vencido el plazo otorgado para tal fin, deberá estarse a lo dispuesto en la Ley para Regular la Venta y Consumo de Bebidas Alcohólicas, así como en la Ley de Hacienda para cada uno de los municipios de la entidad, en cuanto al periodo que se establece para llevar a cabo el refrendo oportuno, y las consecuencias jurídicas de no hacerlo, respecto de las licencias comerciales y de licencias para el funcionamiento de establecimientos con giros de venta de bebidas alcohólicas.
+
+P.O. 2 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 196.- POR EL QUE SE APRUEBA REFORMAR Y ADICIONAR DIVERSAS DISPOSICIONES TRANSITORIAS DE LA LEY DE HACIENDA PARA CADA UNO DE LOS MUNICIPIOS DEL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”, y permanecerá vigente hasta el 31 de diciembre de 2025.
 
 ###### ARTÍCULO SEGUNDO.
 
