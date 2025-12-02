@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-la-comision-federal-de-electricidad-103
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-10-31"
-last_updated: "2015-02-09"
+last_updated: "2025-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103372&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2014-10-29"
 ---
 # REGLAMENTO DE LA LEY DE LA COMISION FEDERAL DE ELECTRICIDAD
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, COMISIÓN FEDERAL DE ELECTRICIDAD, PUBLICADO EN EL D.O.F. DE 2 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY DE LA COMISIÓN FEDERAL DE ELECTRICIDAD
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO TRANSITORIO EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SALVO POR LO DISPUESTO EN LOS ARTÍCULOS 48 A 51 DE ESTE REGLAMENTO ENTRARÁN EN VIGOR AL DÍA SIGUIENTE DE LA PUBLICACIÓN DE LA DECLARATORIA A QUE SE REFIERE EL TRANSITORIO DÉCIMO CUARTO DE LA LEY DE LA COMISIÓN FEDERAL DE ELECTRICIDAD; Y LOS ARTÍCULOS 28 A 47 DE ESTE REGLAMENTO, RELATIVOS AL RECURSO DE RECONSIDERACIÓN, ASÍ COMO LOS ARTÍCULOS 52 A 54 ENTRARÁN EN VIGOR EL DÍA EN QUE ENTRE EN VIGOR EL RÉGIMEN ESPECIAL EN MATERIA DE ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS Y OBRAS CONFORME AL TRANSITORIO DÉCIMO CUARTO, PÁRRAFO CUARTO DE LA LEY DE LA COMISIÓN FEDERAL DE ELECTRICIDAD.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE DICIEMBRE DE 2025 (ABROGADO).
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el viernes 31 de octubre de 2014.
 
@@ -514,3 +514,23 @@ D.O.F. 9 DE FEBRERO DE 2015.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Los trámites que por virtud del presente Decreto correspondan a la Secretaría de la Función Pública deberán ser remitidos a ésta por la Consejería Jurídica del Ejecutivo Federal dentro de los tres días siguientes a la entrada en vigor de este ordenamiento.
+
+D.O.F. 2 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, COMISIÓN FEDERAL DE ELECTRICIDAD”.]
+
+Primero. El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la entrada en vigor del presente decreto queda abrogado el Reglamento de la Ley de la Comisión Federal de Electricidad, publicado en el Diario Oficial de la Federación el 31 de octubre de 2014 y quedan derogadas todas las disposiciones reglamentarias y administrativas que se opongan a lo establecido por este decreto.
+
+Tercero. A partir de la entrada en vigor del presente reglamento, todas las referencias que en los ordenamientos jurídicos vigentes se hagan al Reglamento de la Ley de la Comisión Federal de Electricidad, se entienden hechas al presente ordenamiento.
+
+Cuarto. Los recursos de reconsideración presentados con anterioridad a la entrada en vigor del presente decreto deben ser sustanciados y resueltos conforme al Reglamento de la Ley de la Comisión Federal de Electricidad, vigente al momento de su interposición.
+
+Quinto. La persona Comisaria de la Comisión Federal de Electricidad debe realizar la evaluación de la empresa conforme al artículo 130 de la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad, durante el año 2025, respecto del año 2024, y presentarlo a más tardar el día 31 de diciembre de 2025.
+
+Sexto. Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto se deben realizar con cargo al presupuesto autorizado para la Comisión Federal de Electricidad, por lo que no se incrementa su presupuesto regularizable para el presente ejercicio fiscal, ni se deben autorizar recursos adicionales para el ejercicio fiscal que se trate.
+
+Séptimo. El Consejo de Administración debe expedir los criterios y lineamientos a que se refieren los artículos 28 y 31 de este reglamento, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente ordenamiento.
+
+Octavo. La estructura y funcionamiento del sistema de gobierno de las empresas filiales se rige por lo dispuesto en los Términos para la Estricta Separación Legal de la Comisión Federal de Electricidad, publicados en el Diario Oficial de la Federación el 11 de enero de 2016 y sus posteriores modificaciones, hasta en tanto la Secretaría de Energía emita la normatividad correspondiente a la materia.
