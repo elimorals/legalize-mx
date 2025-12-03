@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-desarrollo-constitucional-en-materia-de-gobierno-y-12616
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-31"
-last_updated: "2024-12-05"
+last_updated: "2025-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE DESARROLLO CONSTITUCIONAL EN MATERIA DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 31 de enero de 2018.
 
@@ -501,7 +501,9 @@ XXV.- Proponer a las personas que deban integrar los jurados previstos en la fra
 
 XXVI.- Cooperar en la formación de los censos, en los términos que determinen los ordenamientos correspondientes;
 
-XXVII.- Registrar los templos que existan o se abran al culto religioso, así como a los encargados de los mismos, notificándolo a la Secretaría de Gobernación por conducto del Ejecutivo del Estado. Para el registro en cuestión, se llevarán dos libros, en los que se asentarán lo correspondiente a los templos y a los encargados, así como los cambios de los mismos;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2025)</small>
+
+XXVII.- Auxiliar, dentro del ámbito de su competencia, en el proceso del registro de los inmuebles destinados al culto público religioso y de los responsables de éstos, debiendo notificar a la Secretaría de Gobernación por conducto del Ejecutivo del Estado;
 
 XXVIII.- Auxiliar a las autoridades sanitarias en la aplicación de las disposiciones de la materia;
 
@@ -769,7 +771,9 @@ XXVII.- Vigilar el buen funcionamiento de los servicios públicos municipales;
 
 XXVIII.- Disponer de la fuerza pública municipal para preservar, mantener y restablecer la tranquilidad, la seguridad y la salubridad públicas;
 
-XXIX.- Coadyuvar en la vigilancia de los templos, cultos y actividades religiosas en los términos de la Constitución política de los Estados Unidos Mexicanos y demás disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2025)</small>
+
+XXIX.- Auxiliar, dentro de su ámbito de competencia, las actividades religiosas ordinarias y extraordinarias en los términos de la Constitución Política de los Estados Unidos Mexicanos, de los Tratados Internacionales en Materia de Derechos Humanos en los que el Estado Mexicano sea parte y demás disposiciones legales aplicables;
 
 XXX.- Solicitar autorización del Ayuntamiento y del Congreso del Estado, o de la Comisión Permanente para ausentarse del Municipio por más de quince días;
 
@@ -936,6 +940,10 @@ XVII.- De Población y Asuntos Migratorios.
 > <small>(ADICIONADA, P.O. 13 DE JULIO DE 2022)</small>
 
 XVIII.- De Ciencia, Tecnología e Innovación.
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2025)</small>
+
+XIX.- De Asuntos Religiosos.
 
 ###### Artículo 63.
 
@@ -2814,3 +2822,13 @@ P.O. 5 DE DICIEMBRE DE 2024.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 3 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 026 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE DESARROLLO CONSTITUCIONAL EN MATERIA DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al dia siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Los Ayuntamientos deberán integrar su respectiva Comisión de Asuntos Religiosos dentro de los noventa días posteriores a la entrada en vigor del presente Decreto.
