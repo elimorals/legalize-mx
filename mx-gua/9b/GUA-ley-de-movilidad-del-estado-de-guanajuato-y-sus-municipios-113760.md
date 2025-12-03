@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-movilidad-del-estado-de-guanajuato-y-sus-municipios-1137
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-18"
-last_updated: "2025-07-28"
+last_updated: "2025-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 18 de marzo de 2016.
 
@@ -1762,6 +1762,18 @@ V. Transportar a las personas menores de doce años o con vulnerabilidades físi
 V bis. En el caso de motocicletas, sólo podrán viajar las personas que ocupen asientos acondicionados para dicho efecto, según conste en la tarjeta de circulación y puedan sujetarse por sus propios medios. Los menores de edad que no cumplan con este criterio no podrán viajar en motocicleta.
 
 Toda persona que viaje en motocicleta deberá utilizar debidamente colocado, ajustado y de su talla, casco protector para motocicleta que cumpla con las especificaciones o características establecidas por la norma oficial mexicana aplicable;
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2025)</small>
+
+El casco deberá tener adherida, en la parte posterior externa, calcomanía de material reflejante que contenga el número de placa vehicular de la motocicleta en la que se traslada la persona usuaria, la cual se expedirá y entregará por la autoridad fiscal competente.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2025)</small>
+
+El SATEG le proporcionará a los propietarios o legítimos poseedores de motocicletas la calcomanía señalada en el párrafo anterior, al momento del registro de la motocicleta de que se trate.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2025)</small>
+
+Las medidas y características de los distintivos a que se refiere la presente fracción se establecerán en disposiciones de carácter general que para tal efecto emita el SATEG.
 
 VI. Tratándose de vehículos de carga, hacer uso de la vía pública de las zonas urbanas en las vialidades y horarios señalados para tal efecto en los reglamentos respectivos;
 
@@ -4874,3 +4886,19 @@ Los comerciantes en el ramo de vehículos tipo motocicletas que hayan iniciado s
 Referencias
 
 Artículo Séptimo. Las referencias que se encuentren hechas a la Secretaría de Finanzas en la presente Ley, diversas a las contenidas en este Decreto, se entenderán hechas al SATEG cuando se trate de atribuciones vinculadas a las establecidas en el artículo 18 de la misma.
+
+P.O. 3 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 77 POR EL QUE “SE ADICIONAN LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO A LA FRACCIÓN V BIS DEL ARTÍCULO 64 DE LA LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor el 1 de enero de 2026, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Adecuación normativa
+
+Artículo Segundo. Las autoridades estatales y municipales contarán con el término de 90 días hábiles posteriores a la publicación del presente Decreto en el Periódico Oficial del Gobierno del Estado de Guanajuato, para hacer las adecuaciones normativas o reglamentarias correspondientes.
+
+Vehículos previamente registrados
+
+Artículo Tercero. El SATEG emitirá disposiciones administrativas de carácter general a fin de proporcionar las calcomanías señaladas en el presente Decreto a los propietarios o legítimos poseedores de vehículos tipo motocicleta registrados al momento de la entrada en vigor de éste.
