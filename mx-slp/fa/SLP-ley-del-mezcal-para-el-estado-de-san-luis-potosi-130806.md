@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-mezcal-para-el-estado-de-san-luis-potosi-130806"
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-18"
-last_updated: "2021-11-18"
+last_updated: "2025-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL MEZCAL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 18 de septiembre de 2018.
 
@@ -261,6 +261,10 @@ Las acciones de fomento y de promoción, que contribuyan a respaldar y facilitar
 
 La Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos en conjunto con el Consejo, promoverá sistemas de agricultura sustentable del Maguey (Agave Salmiana); considerando no dejar de lado la calidad de vida de los propietarios de los predios donde se produce.
 
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2025)</small>
+
+Para cumplir con esa finalidad, la Secretaría se coordinará con los ayuntamientos, en cuyas demarcaciones se produzca mezcal, y les brindará apoyo y asesoría para incorporarlo en sus planes y políticas de desarrollo agrícola. Además, se podrá coordinar con productores y con las instituciones educativas para realizar estudios y proyecciones en materia de sustentabilidad.
+
 > <small>(ADICIONADO, P.O. 13 DE JULIO DE 2021)</small>
 
 ###### ARTÍCULO 19.
@@ -318,3 +322,11 @@ P.O. 18 DE NOVIEMBRE DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 3 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0321.- QUE REALIZA ADICIÓN AL ARTÍCULO 18, DE LA LEY DEL MEZCAL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
