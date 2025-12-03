@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2025-03-21"
+last_updated: "2025-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -45,11 +45,11 @@ LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSI
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 1o.
 
-La presente Ley es reglamentaria de las disposiciones contenidas en el artículo 15 de la Constitución Política del Estado de San Luis Potosí, que se refieren a la protección, preservación, conservación y restauración del ambiente y equilibrio ecológico en el territorio del Estado. Sus disposiciones son de orden público e interés social, y tienen por objeto propiciar el desarrollo sustentable en la Entidad y establecer las bases para:
+La presente Ley es reglamentaria de las disposiciones contenidas en el artículo 15 de la Constitución Política del Estado de San Luis Potosí, que se refieren a la protección, preservación, conservación y restauración del ambiente y equilibrio ecológico en el territorio del Estado. Sus disposiciones son de orden público e interés social, y tienen por objeto propiciar el desarrollo sostenible en la Entidad y establecer las bases para:
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2021)</small>
 
@@ -135,6 +135,10 @@ V. Ambiente: el conjunto de elementos naturales y artificiales o inducidos por e
 
 VI. Aprovechamiento Sustentable: la utilización de los elementos naturales y de aquellos donde hay o ha habido intervención humana, en forma tal que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte dichos recursos, por períodos indefinidos;
 
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2025)</small>
+
+VI Bis. Aprovechamiento sostenible: la utilización de los recursos naturales y de aquellos donde hay o ha habido intervención humana, de manera racional, responsable, ordenado, sin sobreexplotación, considerando su capacidad de renovación y en forma tal que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte dichos recursos, por períodos indefinidos;
+
 VII. Banco de Materiales para la Construcción: el manto, yacimiento o depósito de materiales terrosos y pétreos, susceptibles de ser extraídos de su estado natural, para ser aprovechados en la industria de la construcción;
 
 > <small>(ADICIONADA, P.O. 30 DE ENERO DE 2020)</small>
@@ -183,7 +187,13 @@ XIX. Cultura Ambiental: el conjunto de conocimientos, hábitos y actitudes, que 
 
 XX. Daño Ambiental: el perjuicio que se ocasiona o que puede provocarse u ocasionarse a futuro, a los intereses particulares o colectivos, públicos o privados, que han sido sometidos a los efectos del ambiente deteriorado o en proceso de deterioro, que afecten la calidad de vida, en sus diversas formas;
 
-XXI. Desarrollo Sustentable: el proceso evaluable y medible mediante criterios e indicadores de carácter ambiental, económico y social, que tienda a mejorar la calidad de vida y la productividad de las personas, que se funde en medidas apropiadas de conservación y protección del ambiente y aprovechamiento de los elementos naturales e inducidos, para asegurar de las necesidades de las generaciones futuras;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2025)</small>
+
+XXI. Desarrollo sustentable: El proceso evaluable mediante criterios e indicadores del carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2025)</small>
+
+XXI Bis. Desarrollo Sostenible: La utilización de los recursos naturales de forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte dichos recursos, por periodos indefinidos, considerando la maximización de la utilidad de su extracción en favor del desarrollo social, económico y cultural de la nación, atendiendo al bienestar de las personas sin comprometer la capacidad de aprovechamiento de las futuras generaciones;
 
 XXII. Deterioro Ambiental: la alteración de las relaciones de interdependencia entre los elementos naturales e inducidos por el hombre que conforman el ambiente, que afecten negativamente la existencia, transformación y desarrollo humano y de los demás seres vivos;
 
@@ -707,7 +717,9 @@ XI. Toda persona tiene derecho a disfrutar de un ambiente adecuado para su desar
 
 XII. Debe garantizarse el derecho de las comunidades y pueblos indígenas a la protección, conservación, uso y aprovechamiento sustentable de los elementos naturales y antrópicos, a la salvaguarda y uso de la biodiversidad biológica y cultural de su entorno, de acuerdo a lo que determine la LGEEPA, esta Ley y otros ordenamientos aplicables;
 
-XIII. El mejoramiento de las condiciones de vida de la población es necesaria para el desarrollo sustentable;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2025)</small>
+
+XIII. El mejoramiento de las condiciones de vida de la población es necesaria para el desarrollo sostenible;
 
 XIV. El control y la prevención de la contaminación ambiental, el adecuado aprovechamiento de los elementos naturales y el mejoramiento del entorno natural en los asentamientos humanos, son elementos fundamentales para evitar el deterioro ambiental y elevar la calidad de vida de los habitantes de la Entidad;
 
@@ -715,7 +727,9 @@ XV. Es interés y responsabilidad del Gobierno del Estado que las actividades qu
 
 XVI. Las autoridades competentes, en igualdad de circunstancias ante los demás estados de la federación, promoverán la conservación y restauración del equilibrio dinámico de los ecosistemas regionales, y
 
-XVII. La gestión ambiental municipal, así como la descentralización de funciones hacia los municipios del Estado, es de orden fundamental y prioritario para el Gobierno del Estado, con el fin de avanzar hacia un auténtico desarrollo sustentable.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2025)</small>
+
+XVII. La gestión ambiental municipal, así como la descentralización de funciones hacia los municipios del Estado, es de orden fundamental y prioritario para el Gobierno del Estado, con el fin de avanzar hacia un auténtico desarrollo sostenible.
 
 ## TITULO CUARTO. INSTRUMENTOS DE POLITICA AMBIENTAL
 
@@ -793,7 +807,9 @@ El Plan de Ordenamiento Ecológico de la Entidad será formulado o actualizado c
 
 I. La regionalización ecológica del territorio estatal y las diferentes políticas ambientales para el territorio del Estado, a partir del diagnóstico de las características, disponibilidad y demanda de los recursos naturales, así como de las actividades productivas que en ellas se desarrollen, además de la ubicación y situación de los asentamientos humanos existentes, y
 
-II. Los criterios ecológicos, los lineamientos y estrategias ambientales para que se lleven a cabo las políticas de conservación, protección, restauración y aprovechamiento sustentable de los elementos naturales y antrópicos, así como para la localización de actividades productivas y de los asentamientos humanos, y finalmente, las obras, servicios y acciones que se deban de realizar para cumplir las políticas propuestas y alcanzar el desarrollo sustentable en la Entidad.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2025)</small>
+
+II. Los criterios ecológicos, los lineamientos y estrategias ambientales para que se lleven a cabo las políticas de conservación, protección, restauración y aprovechamiento sustentable de los elementos naturales y antrópicos, así como para la localización de actividades productivas y de los asentamientos humanos, y finalmente, las obras, servicios y acciones que se deban de realizar para cumplir las políticas propuestas y alcanzar el desarrollo sostenible en la Entidad.
 
 ###### ARTICULO 18.
 
@@ -825,7 +841,9 @@ Los ayuntamientos, de conformidad con la presente Ley y demás disposiciones nor
 
 I. Determinar las distintas áreas ecológicas que se localicen en la zona o región de que se trate, describiendo sus atributos físicos, bióticos y socioeconómicos, así como el diagnóstico de sus condiciones ambientales y de las tecnologías utilizadas por los habitantes del área de que se trate;
 
-II. Regular, fuera de los centros de población que se ubiquen dentro de su circunscripción territorial los usos del suelo, con el propósito de proteger el ambiente y preservar, restaurar y aprovechar de manera sustentable los elementos naturales y antrópicos, fundamentalmente en la realización de actividades productivas y la localización de asentamientos humanos, y
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2025)</small>
+
+II. Regular, fuera de los centros de población que se ubiquen dentro de su circunscripción territorial los usos del suelo, con el propósito de proteger el ambiente y preservar, restaurar y aprovechar de manera sostenible los elementos naturales y antrópicos, fundamentalmente en la realización de actividades productivas y la localización de asentamientos humanos, y
 
 III. Formular los lineamientos y criterios de regulación ecológica para la protección, conservación, restauración y aprovechamiento sustentable de los elementos naturales y antrópicos dentro de los centros de población que se ubiquen en su territorio, a fin de que sean considerados en los planes o programas de desarrollo urbano correspondientes.
 
@@ -1005,7 +1023,9 @@ a) De protección: Aquellas superficies dentro del área natural protegida, que 
 
 b) De uso restringido: Aquellas superficies en buen estado de conservación donde se busca mantener las condiciones actuales de los ecosistemas, e incluso mejorarlas en los sitios que así se requieran, y en las que se podrán realizar excepcionalmente actividades de aprovechamiento que no modifiquen los ecosistemas y que se encuentren sujetas a estrictas medidas de control.
 
-II. Las zonas de amortiguamiento, tendrán como función principal orientar a que las actividades de aprovechamiento, que ahí se lleven a cabo, se conduzcan hacia el desarrollo sustentable, creando al mismo tiempo las condiciones necesarias para lograr la conservación de los ecosistemas de ésta a largo plazo, y podrán estar conformadas básicamente por las siguientes subzonas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE DICIEMBRE DE 2025)</small>
+
+II. Las zonas de amortiguamiento, tendrán como función principal orientar a que las actividades de aprovechamiento, que ahí se lleven a cabo, se conduzcan hacia el desarrollo sostenible, creando al mismo tiempo las condiciones necesarias para lograr la conservación de los ecosistemas de ésta a largo plazo, y podrán estar conformadas básicamente por las siguientes subzonas:
 
 a) De uso tradicional: Aquellas superficies en donde los recursos naturales han sido aprovechados de manera tradicional y continua, sin ocasionar alteraciones significativas en el ecosistema. Están relacionadas particularmente con la satisfacción de las necesidades socioeconómicas y culturales de los habitantes del área protegida;
 
@@ -1147,7 +1167,9 @@ ARTICULO 44 DECIES. (DEROGADO, P.O. 28 DE ABRIL DE 2016)
 
 El Ejecutivo del Estado diseñará, desarrollará y aplicará instrumentos económicos que incentiven el cumplimiento de los objetivos de la política ambiental, mediante los cuales se buscará:
 
-I. Promover una adecuada conducta en las personas físicas y morales del sector público y privado que realicen actividades industriales, comerciales y de servicios en la Entidad, de tal manera que sus intereses sean compatibles con los intereses colectivos de protección ambiental y de desarrollo sustentable;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2025)</small>
+
+I. Promover una adecuada conducta en las personas físicas y morales del sector público y privado que realicen actividades industriales, comerciales y de servicios en la Entidad, de tal manera que sus intereses sean compatibles con los intereses colectivos de protección ambiental y de desarrollo sostenible;
 
 II. Diseñar programas que permitan al Estado contar con recursos económicos encaminados a la protección y restauración del ambiente en la Entidad, mediante acuerdos con particulares, empresas, organismos empresariales y de servicios;
 
@@ -1191,7 +1213,9 @@ I. La investigación, incorporación o utilización de mecanismos, equipos y tec
 
 II. La utilización de sistemas de ahorro de energía, y el uso de fuentes de energía alternativas;
 
-III. El ahorro y aprovechamiento sustentable y la prevención de la contaminación del agua;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2025)</small>
+
+III. El ahorro y aprovechamiento sostenible y la prevención de la contaminación del agua;
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
@@ -2545,11 +2569,11 @@ La conformación de la Subcomisión de Evaluación de Proyectos Estratégicos, a
 
 Las autoridades ambientales a quienes corresponda por razón de competencia iniciar y dar seguimiento al procedimiento administrativo de evaluación y en su caso, autorización de impacto ambiental respecto de dichos proyectos, fijarán oportunamente los mecanismos que permitan compaginar las acciones de esta Subcomisión con los términos y plazos previstos en las leyes de la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 132.
 
-El ayuntamiento, a más tardar en el primer semestre del inicio de su gestión, integrará un Consejo Consultivo Municipal de Medio Ambiente y Desarrollo Sustentable, como órgano de consulta, asesoría, promoción y proposición de acciones, dirigidas al cuidado y protección del medio ambiente, y a la procuración del desarrollo sustentable, en términos de esta Ley y demás disposiciones aplicables.
+El ayuntamiento, a más tardar en el primer semestre del inicio de su gestión, integrará un Consejo Consultivo Municipal de Medio Ambiente y Desarrollo Sustentable, como órgano de consulta, asesoría, promoción y proposición de acciones, dirigidas al cuidado y protección del medio ambiente, y a la procuración del desarrollo sostenible, en términos de esta Ley y demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 28 DE JUNIO DE 2014)</small>
 
@@ -2595,7 +2619,9 @@ El Reglamento del Consejo Consultivo será emitido por cada ayuntamiento.
 
 ARTICULO 132 BIS. Los Consejos Consultivos Municipales de Medio Ambiente y Desarrollo Sustentable tendrán las siguientes atribuciones:
 
-I. Proponer al ayuntamiento estrategias, políticas públicas o acciones dirigidas al cuidado y protección del medio ambiente, y a la procuración del desarrollo sustentable en sus municipios;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2025)</small>
+
+I. Proponer al ayuntamiento estrategias, políticas públicas o acciones dirigidas al cuidado y protección del medio ambiente, y a la procuración del desarrollo sostenible en sus municipios;
 
 II. Impulsar y organizar foros de consulta ciudadana para el análisis de la problemática ambiental del municipio;
 
@@ -2607,9 +2633,9 @@ V. Coadyuvar en la evaluación de las acciones y programas que, en la materia, s
 
 VI. Recomendar a la autoridad estatal en materia ambiental, líneas estratégicas en los temas relacionados con el objeto de esta Ley en el ámbito territorial del municipio;
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2025)</small>
 
-VII. Dar aviso al ayuntamiento o a las autoridades competentes en la materia, sobre cualquier hecho o acto que pueda constituir un riesgo para el equilibrio del medio ambiente o el desarrollo sustentable del municipio;
+VII. Dar aviso al ayuntamiento o a las autoridades competentes en la materia, sobre cualquier hecho o acto que pueda constituir un riesgo para el equilibrio del medio ambiente o el desarrollo sostenible del municipio;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE FEBRERO DE 2018)</small>
 
@@ -2723,17 +2749,17 @@ El Gobierno del Estado celebrará el acuerdo de coordinación que corresponda co
 
 La Secretaría de Educación de Gobierno del Estado programará como corresponda, la educación ambiental formal y no formal que proceda impartir en los establecimientos de la Entidad, para la formación de conciencia ciudadana en relación con las multivariadas materias comprendidas en la cuestión ambiental, con la participación que corresponda a la SEGAM.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2025)</small>
 
-El Gobierno del Estado, a través de las dependencias competentes, propondrá y establecerá los mecanismos para llevar a cabo en la Entidad una educación ambiental que abarque los ámbitos rural y urbano en diferentes procesos, tales como educativo, laboral, recreativo, familiar y comunitario, entre otros; también impulsará que en los medios de comunicación masiva se traten temas ambientales que no únicamente informen, sino que ayuden y propongan alternativas para un desarrollo efectivo de la conciencia ambiental en la población. Además, se encargará de promover la movilidad sustentable, así como difundir sus beneficios ambientales, por medio de acciones y medidas concretas para las que contará con la opinión y participación de la sociedad civil, usuarios, ayuntamientos, sector educativo, y demás autoridades competentes.
+El Gobierno del Estado, a través de las dependencias competentes, propondrá y establecerá los mecanismos para llevar a cabo en la Entidad una educación ambiental que abarque los ámbitos rural y urbano en diferentes procesos, tales como educativo, laboral, recreativo, familiar y comunitario, entre otros; también impulsará que en los medios de comunicación masiva se traten temas ambientales que no únicamente informen, sino que ayuden y propongan alternativas para un desarrollo efectivo de la conciencia ambiental en la población. Además, se encargará de promover la movilidad sostenible, así como difundir sus beneficios ambientales, por medio de acciones y medidas concretas para las que contará con la opinión y participación de la sociedad civil, usuarios, ayuntamientos, sector educativo, y demás autoridades competentes.
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2017)</small>
 
 Asimismo, promoverá la difusión de programas de cultura y educación ambiental, así como el desarrollo de proyectos de educación ambiental en español, y en las principales lenguas indígenas de la Entidad.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2025)</small>
 
-ARTICULO 143 BIS. El Gobierno del Estado, a través de la SEGAM, y la SEGE, elaborará, instaurará y difundirá el Programa Estatal de Educación Ambiental para el Desarrollo Sustentable; el cual deberá establecer una educación ambiental desde el nivel básico hasta el nivel medio superior, instaurando en cada una de las escuelas el respeto al medio ambiente como uno de los valores máximos. Además, de incluir en las asignaturas relacionadas, temas de importancia que fomenten la preservación del medio ambiente.
+ARTICULO 143 BIS. El Gobierno del Estado, a través de la SEGAM, y la SEGE, elaborará, instaurará y difundirá el Programa Estatal de Educación Ambiental para el Desarrollo Sustentable;
 
 > <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE DICIEMBRE DE 2019)</small>
 
@@ -2743,9 +2769,9 @@ El Programa Estatal Ambiental deberá incluir los siguientes elementos de forma 
 
 I. Educación ambiental formal e informal;
 
-> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2025)</small>
 
-II. Desarrollo sustentable y recursos naturales;
+II. Desarrollo sostenible y recursos naturales;
 
 > <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2019)</small>
 
@@ -3952,5 +3978,13 @@ P.O. 21 DE MARZO DE 2025.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0176.- SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 74, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0323.- Que reforma los artículos 1º, 3º, 12, 17, 21, 36 Bis, 45, 47, 132, 132 Bis, 143 y 143 Bis y realiza adición al artículo 3º, de la Ley Ambiental del Estado de San Luis Potosí".]
+
+PRIMERO. El Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
