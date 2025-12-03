@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-de-agentes-inmobiliarios-del-estado-de-san-828
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-06"
-last_updated: "2020-11-21"
+last_updated: "2025-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82897&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL REGISTRO DE AGENTES INMOBILIARIOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 6 de agosto de 2011.
 
@@ -187,9 +187,13 @@ II. Tratándose de personas físicas:
 
 a) Copia de identificación oficial vigente con fotografía.
 
-b) Acreditar capacitación profesional y/o la certificación de conocimientos especializados y experiencia en operaciones de corretaje o intermediación inmobiliaria, por parte de alguna institución o de la autoridad competente o, en su defecto, presentar carta compromiso, debidamente firmada, para sujetarse a los programas de acreditación profesional en la materia.
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2025)</small>
 
-c) Precisar y acreditar la ubicación de su domicilio fiscal.
+b) Acreditar certificación de conocimientos especializados en operaciones de corretaje o intermediación inmobiliaria expedida por institución pública o privada con validez oficial.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2025)</small>
+
+c) Acreditar con constancias, diplomas e incluso certificaciones relacionadas, por lo menos 120 horas de capacitación y/o actualizaciones en los últimos 2 años en que ha desempeñado la actividad.
 
 d) Copia de la cédula de inscripción en el Registro Federal de Contribuyentes.
 
@@ -208,6 +212,10 @@ g) Copia del comprobante de pago de los derechos correspondientes.
 ###### ARTICULO 7°.
 
 La inscripción en el Registro, y la licencia, tendrán una vigencia de un año, contado a partir de la fecha en que se otorguen. En el caso de las personas físicas, una vez inscritas en el Registro, la Secretaría expedirá en forma simultánea la licencia respectiva. Sólo las personas físicas con la licencia emitida por la Secretaría para realizar operaciones inmobiliarias podrán ostentarse y anunciarse como "Agentes Inmobiliarios con Licencia Estatal"; en el caso de las personas morales se les denomina "Agentes Inmobiliarios con Registro".
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2025)</small>
+
+Las personas físicas o morales con licencia emitida por la Secretaría para realizar operaciones inmobiliarias, deberán exhibir en su publicidad digital e impresa, licencia o número de registro, según sea el caso.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
@@ -440,3 +448,11 @@ P.O. 21 DE NOVIEMBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0324.- QUE REFORMA EL ARTÍCULO 6°; Y REALIZA ADICIÓN AL ARTÍCULO 7°, DE LA LEY DEL REGISTRO DE AGENTES INMOBILIARIOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
