@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-petroleos-mexicanos-103363"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-10-31"
-last_updated: "2015-02-09"
+last_updated: "2025-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103363&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-10-29"
 ---
 # REGLAMENTO DE LA LEY DE PETROLEOS MEXICANOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, PETRÓLEOS MEXICANOS, PUBLICADO EN EL D.O.F. DE 3 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY DE PETRÓLEOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE DICIEMBRE DE 2025 (ABROGADO).
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 31 de octubre de 2014.
 
@@ -524,3 +526,21 @@ D.O.F. 9 DE FEBRERO DE 2015.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Los trámites que por virtud del presente Decreto correspondan a la Secretaría de la Función Pública deberán ser remitidos a ésta por la Consejería Jurídica del Ejecutivo Federal dentro de los tres días siguientes a la entrada en vigor de este ordenamiento.
+
+D.O.F. 3 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DE LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, PETRÓLEOS MEXICANOS".]
+
+Primero. El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la entrada en vigor del presente decreto queda abrogado el Reglamento de la Ley de Petróleos Mexicanos, publicado en el Diario Oficial de la Federación el 31 de octubre de 2014 y quedan derogadas todas las disposiciones reglamentarias y administrativas que se opongan a lo establecido por este decreto.
+
+Tercero. A partir de la entrada en vigor del presente reglamento, todas las referencias que en los ordenamientos jurídicos vigentes se hagan al Reglamento de la Ley de Petróleos Mexicanos, se entienden hechas al presente ordenamiento.
+
+Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto se deben realizar con cargo al presupuesto autorizado para Petróleos Mexicanos, por lo que no se incrementa su presupuesto regularizable para el presente ejercicio fiscal, ni se deben autorizar recursos adicionales para el ejercicio fiscal que se trate.
+
+Quinto. La persona Comisaria de Petróleos Mexicanos debe realizar la evaluación de la empresa conforme al artículo 125 de la Ley de la Empresa Pública del Estado, Petróleos Mexicanos, durante el año 2025, respecto del año 2024, y presentarlo a más tardar el día 31 de diciembre de 2025.
+
+Sexto. El Consejo de Administración deberá expedir los criterios y lineamientos a que se refieren los artículos 25 y 28 de este Reglamento, dentro de los 180 días naturales siguientes a la entrada en vigor del presente ordenamiento.
+
+Séptimo. Las inconformidades, juicios, arbitrajes, procedimientos y trámites de cualquier naturaleza iniciados con anterioridad a la entrada en vigor del presente decreto deben continuar tramitándose hasta su resolución final conforme a las disposiciones vigentes al momento de su inicio.
