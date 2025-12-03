@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-el-desarrollo-economico-sustentable-y-la-108764"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-18"
-last_updated: "2025-11-14"
+last_updated: "2025-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria de Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de junio de 2015.
 
@@ -779,9 +779,15 @@ El Ejecutivo del Estado, a través de las autoridades correspondientes, realizar
 
 La Secretaría, con la participación del Consejo, del sector privado, y organismos empresariales, alentará una cultura exportadora que promueva los productos de calidad, así como la competitividad de empresas, mercados, servicios, regiones y sectores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 58.
 
-La Secretaría fomentará la participación de los productos potosinos en los mercados nacionales e internacionales, a través de mecanismos de promoción e identificación de oportunidades comerciales y actividades de mercado, para incrementar las exportaciones directas e indirectas.
+La Secretaría fomentará la participación de los productos potosinos en los mercados nacionales e internacionales, mediante mecanismos de promoción, identificación de oportunidades comerciales, actividades de mercado, ferias, exposiciones y eventos especializados. Asimismo, promoverá el fortalecimiento de redes empresariales, cadenas productivas y esquemas de comercialización para los sectores prioritarios definidos en el Programa General de Desarrollo Económico Sustentable y la Competitividad.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2025)</small>
+
+Como parte de dichas acciones, la Secretaría podrá impulsar el distintivo “Hecho en San Luis Potosí” también identificado como “Made in San Luis Potosí”, como instrumento institucional de promoción, orientado a visibilizar el valor agregado de los productos elaborados en el territorio estatal.
 
 ###### ARTÍCULO 59.
 
@@ -1272,6 +1278,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 14 DE NOVIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0311.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE Y LA COMPETITIVIDAD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 3 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0322.- QUE REFORMA Y REALIZA ADICIÓN AL ARTÍCULO 58, DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE Y COMPETITIVIDAD DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
