@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-prevenir-atender-y-erradicar-la-discriminacion-en-1016
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-27"
-last_updated: "2025-06-25"
+last_updated: "2025-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101602&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA PREVENIR, ATENDER Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de junio de 2014.
 
@@ -193,6 +193,14 @@ XXXIII TER. Impedir, negar, restringir o condicionar el acceso de las personas c
 
 XXXIII QUATER. Obstruir cualquier medida de accesibilidad en el entorno físico, el transporte, la información, tecnología y comunicaciones, en servicios e instalaciones abiertos al público o de uso público y demás elementos destinados a la accesibilidad y movilidad de las personas con discapacidad; y
 
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2025)</small>
+
+XXXIII QUINQUIES. Condicionar, limitar o restringir las oportunidades de permanencia o ascenso al empleo, por razones de embarazo, maternidad y lactancia;
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2025)</small>
+
+XXXIII SEXIES. Impedir, negar, restringir o condicionar el acceso de las personas por su orientación sexual o identidad de género a los establecimientos públicos; y
+
 XXXIV. Incurrir en cualquier otro acto u omisión que tenga por objeto anular, impedir o menoscabar los derechos y libertades o la igualdad de oportunidades y de trato de las personas, así como atentar contra su dignidad.
 
 Conductas no discriminatorias
@@ -316,6 +324,10 @@ III. La persona titular de la Secretaría de Gobierno;
 > <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
 IV. La persona titular de la Secretaría del Nuevo Comienzo;
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2025)</small>
+
+IV bis. La persona titular de la Secretaría de Derechos Humanos;
 
 > <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
@@ -960,3 +972,11 @@ Cuando el liquidador haya regularizado los bienes, derechos y obligaciones, así
 Referencias
 
 Artículo Tercero. Para todos los efectos legales correspondientes, las referencias al Instituto para las Mujeres Guanajuatenses, contenidas en otros decretos, reglamentos, convenios, u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuados a la Secretaría de las Mujeres.
+
+P.O. 3 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 106 POR EL QUE “SE ADICIONAN LAS FRACCIONES XXXIII QUINQUIES Y XXXIII SEXIES AL ARTÍCULO 8; Y LA FRACCIÓN IV BIS AL ARTÍCULO 16, TODOS ELLOS DE LA LEY PARA PREVENIR, ATENDER Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
