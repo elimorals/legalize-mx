@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2025-06-06"
+last_updated: "2025-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2025.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -142,6 +142,10 @@ III. Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bi
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 La Ley determinará las medidas que deberán llevar a cabo las autoridades para protegerlo, preservarlo, restaurarlo y mejorarlo.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2025)</small>
+
+Queda prohibido el maltrato a los animales. El Estado garantizará la protección, el trato adecuado, la conservación y el cuidado de los animales, en los términos que señale la ley.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE FEBRERO DE 2025)</small>
 
@@ -1963,9 +1967,9 @@ Para la regulación de la educación dentro de la esfera de competencia del Esta
 
 Toda la educación que imparta el Estado será gratuita, a fin de que todos (sic) las personas tengan acceso a ella, incluyendo la educación inicial, preescolar, primaria, secundaria, media superior y superior o la de cualquier otro tipo y modalidad que se imparta de acuerdo con las necesidades educativas de la población del Estado y las características particulares de los grupos que la integran. La educación inicial, preescolar, primaria, secundaria, media superior y superior serán además obligatorias.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2025)</small>
 
-Los contenidos de los planes y programas de estudio de los niveles de educación a que se refiere este artículo, tendrán perspectiva de género y una orientación integral, por lo que se incluirá el conocimiento de las ciencias, las humanidades y las artes; asimismo, se incluirán temas regionales relacionados con los derechos humanos, seguridad pública y la preservación del medio ambiente.
+Los contenidos de los planes y programas de estudio de los niveles de educación a que se refiere este artículo, tendrán perspectiva de género y una orientación integral, por lo que se incluirá el conocimiento de las ciencias, las humanidades y las artes; asimismo, se incluirán temas regionales relacionados con los derechos humanos, seguridad pública, la preservación del medio ambiente y la protección de los animales, entre otras.
 
 > <small>(ADICIONADO, P.O. 16 DE AGOSTO DEL 2000)</small>
 
@@ -4944,3 +4948,15 @@ Las Juezas y Jueces del Poder Judicial del Estado que concluyan su encargo por h
 Las Magistradas y Magistrados del Supremo Tribunal de Justicia del Estado que concluyan su encargo por no postularse o no haber sido electos en la elección del año 2027, serán beneficiarias de un haber de retiro proporcional al tiempo de su desempeño, siempre y cuando no tengan derecho al retiro voluntario.
 
 Noveno. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE DICIEMBRE DE 2025.
+
+> <small>[N. DE E. TRANSITRORIOS DEL “DECRETO NÚMERO 208 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA LOS ARTÍCULOS 4 Y 91 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]</small>
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa”.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
