@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-privada-del-estado-de-puebla-99817"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-14"
-last_updated: "2025-10-17"
+last_updated: "2025-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE SEGURIDAD PRIVADA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el viernes 14 de marzo de 2014.
 
@@ -535,9 +535,9 @@ V. No haber sido separados de las Fuerzas Armadas o de instituciones de segurida
 
 VI. No ser miembros en activo de alguna institución de Seguridad Pública Federal, Estatal o Municipal o de las Fuerzas Armadas, y
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-VII. En el caso del personal operativo, acreditar las evaluaciones de control de confianza, las cuales se realizarán en el Centro Único de Evaluación y Control de Confianza del Estado de Puebla del Consejo Estatal de Coordinación del Sistema Nacional de Seguridad Pública o en la Universidad.
+VII. En el caso del personal operativo, acreditar las evaluaciones de control de confianza, las cuales se realizarán en el Centro Único de Evaluación y Control de Confianza del Estado de Puebla del Consejo Estatal de Coordinación del Sistema Nacional de Seguridad Pública.
 
 Para acreditar los requisitos establecidos en el presente artículo, se atenderá a lo que establece el Reglamento.
 
@@ -577,9 +577,9 @@ III. Informar, dentro de los primeros cinco días hábiles de cada mes, la plant
 
 IV. Abstenerse de prestar los servicios de seguridad privada sin contar con la revalidación correspondiente;
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-V. Proponer a las personas candidatas a pertenecer a la prestadora de servicios, adjuntando los documentos correspondientes para acreditar los requisitos de ingreso a que se refiere esta Ley y el Reglamento; una vez que se obtenga el visto bueno por parte de la Secretaría de Seguridad Pública para la contratación del personal, el prestador de servicios deberá presentar, dentro de los cinco días hábiles siguientes a la aprobación, el comprobante de pago de derechos respectivo del ejercicio fiscal que corresponda;
+V. Proponer a las personas para pertenecer a la prestadora de servicios, observando el principio de paridad de género, para lo cual deberá adjuntar los documentos que acrediten el cumplimiento de los requisitos de ingreso a que se refiere esta Ley y el Reglamento; una vez que se obtenga el visto bueno por parte de la Secretaría de Seguridad Pública para la contratación del personal, el prestador de servicios deberá presentar, dentro de los cinco días hábiles siguientes a la aprobación, el comprobante de pago de derechos respectivo del ejercicio fiscal que corresponda. En caso de que no existan personas de un género que cumplan con los requisitos establecidos, podrán cubrirse las vacantes con personas del género disponible, debiendo dejar constancia fundada de dicha circunstancia.
 
 VI. La actualización de la relación del nuevo personal o comando canino que se pretenda incorporar a la empresa, acompañando la documentación que se requiera para tal efecto;
 
@@ -968,6 +968,14 @@ TERCERO. Los procedimientos que se encuentren en trámite a la fecha de entrada 
 P.O. 17 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PRIVADA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMAN LA FRACCIÓN V DEL ARTÍCULO 30 Y LA FRACCIÓN VII DEL APARTADO B DEL ARTÍCULO 27 DE LA LEY DE SEGURIDAD PRIVADA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
