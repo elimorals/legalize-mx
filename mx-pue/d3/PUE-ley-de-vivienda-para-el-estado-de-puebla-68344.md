@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-vivienda-para-el-estado-de-puebla-68344"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-17"
-last_updated: "2024-01-25"
+last_updated: "2025-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE VIVIENDA PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el viernes 17 de abril de 2009.
 
@@ -61,9 +61,11 @@ Se considerará vivienda adecuada, digna y decorosa la que cumpla con las dispos
 
 La vivienda no podrá establecerse en zonas de alto riesgo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 3.
 
-Las disposiciones de esta Ley deberán aplicarse bajo principios de equidad e inclusión social de manera que toda persona que se encuadre en los supuestos del artículo uno de este ordenamiento legal sin importar su origen étnico o nacional, género, edad, discapacidad, condición social o económica, condiciones de salud, religión, ideología política, preferencias o estado civil, pueda ejercer su derecho constitucional a la vivienda.
+Las disposiciones de esta Ley deberán aplicarse bajo los principios de igualdad, equidad, perspectiva de género, no discriminación e inclusión social de manera que toda persona que se encuadre en los supuestos del artículo uno de este ordenamiento legal sin importar su origen étnico o nacional, género, edad, discapacidad, condición social o económica, condiciones de salud, religión, opiniones, ideología política, preferencias sexuales o estado civil, pueda ejercer su derecho constitucional a la vivienda adecuada.
 
 Las políticas y programas, así como los instrumentos y apoyos a la vivienda a que se refiere este ordenamiento, se regirán bajo los principios mencionados en el artículo dos, así como también para el combate a la invasión de predios y al crecimiento irregular de las ciudades.
 
@@ -177,9 +179,11 @@ XXIII. Sector Público. Toda dependencia, entidad u organismo de la administraci
 
 XXIV. Sector Social. Toda persona física o moral, familia o grupo social, aún sin personalidad jurídica que sin fines preponderantes de lucro, realicen acciones o procesos habitacionales en beneficio de personas con ingresos iguales o inferiores a los que se requieren para adquirir una vivienda popular.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 5.
 
-Son principios en materia de vivienda los de equidad, inclusión social y no discriminación, las políticas y programas, así como los instrumentos y apoyos a la vivienda a que se refiere este ordenamiento, se regirán bajo los principios de respeto a la legalidad y protección jurídica a la legítima tenencia, así como el combate a la invasión de predios y al crecimiento irregular de las ciudades.
+Son principios en materia de vivienda los de igualdad, equidad, perspectiva de género, inclusión social y no discriminación, las políticas y programas, así como los instrumentos y apoyos a la vivienda a que se refiere este ordenamiento, se regirán bajo los principios de respeto a la legalidad y protección jurídica a la legítima tenencia, así como el combate a la invasión de predios y al crecimiento irregular de las ciudades.
 
 ###### Artículo 6.
 
@@ -187,11 +191,11 @@ A falta de norma expresa en materia de vivienda en la presente Ley, se observar�
 
 ### CAPÍTULO II. DE LA PLANEACIÓN Y PROGRAMACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ENERO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 7.
 
-El Estado y los Municipios orientarán su política de vivienda al cumplimiento del mandato constitucional del derecho a la vivienda digna y decorosa, tomando como base los elementos de la vivienda adecuada.
+El Estado y los Municipios orientarán su política de vivienda al cumplimiento del mandato constitucional del derecho a la vivienda adecuada.
 
 En la formulación, ejecución y control de la política de vivienda, deberán respetarse los Planes de Desarrollo Urbano, tanto Estatal como Municipal, el Plan Estatal de Ordenamiento Territorial y Ecológico, y demás reglamentación aplicable en la materia, además de los contenidos en los siguientes lineamientos generales:
 
@@ -199,7 +203,9 @@ En la formulación, ejecución y control de la política de vivienda, deberán r
 
 I.- Propiciar que las acciones de vivienda sean un factor de ordenamiento territorial, planeación y desarrollo urbano, sustentabilidad, procurando el aprovechamiento y explotación racional de los recursos naturales y preservación de las características del medio ambiente en un entorno urbano y regional;
 
-II.- Promover oportunidades de acceso a la vivienda para la población, preferentemente para aquella que se encuentre en situación de pobreza, marginación o vulnerabilidad;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+II.- Promover oportunidades de acceso a la vivienda adecuada para la población, dando prioridad a quienes se encuentren en situación de pobreza, marginación o vulnerabilidad y con especial atención a mujeres víctimas de violencia y a sus hijas e hijos;
 
 III.- Incorporar estrategias que fomenten la concurrencia de los sectores público, privado y social para satisfacer las necesidades de vivienda, en sus diferentes tipos y modalidades;
 
@@ -1134,5 +1140,13 @@ P.O. 25 DE ENERO DE 2024.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 1, EL PRIMER PÁRRAFO DEL ARTÍCULO 2, LA FRACCIÓN IX DEL ARTÍCULO 4, EL PRIMER PÁRRAFO DEL ARTÍCULO 7; ADICIONA LA FRACCIÓN XVII BIS AL ARTÍCULO 4, Y DEROGA LAS FRACCIONES VI, VII Y VIII DEL ARTÍCULO 4, TODOS DE LA LEY DE VIVIENDA PARA EL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 3, EL ARTÍCULO 5 Y EL PRIMER PÁRRAFO Y LA FRACCIÓN II DEL ARTÍCULO 7 DE LA LEY DE VIVIENDA PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
