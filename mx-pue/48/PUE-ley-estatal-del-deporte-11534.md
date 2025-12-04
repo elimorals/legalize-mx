@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-del-deporte-11534"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2024-03-13"
+last_updated: "2025-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DEL DEPORTE EN EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el viernes 21 de febrero de 1997.
 
@@ -336,6 +336,10 @@ IX.- La creación de la Universidad del Deporte, para la formación de entrenado
 X.- El otorgamiento de apoyos económicos o de equipamiento a las Asociaciones Deportivas debidamente constituidas e inscritas en el Registro Estatal del Deporte, de acuerdo al programa anual de actividades y etapas competitivas de carácter regional, estatal y nacional, respectivamente;
 
 XI.- La concertación con asociaciones deportivas, con el fin de que éstas se organicen debidamente;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+XI Bis.- El diseño e implementación de programas de activación física y deporte en el ámbito laboral;
 
 > <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
@@ -870,5 +874,13 @@ P.O. 13 DE MARZO DE 2024.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XIV Y XV, Y ADICIONA LA FRACCIÓN XVI AL ARTÍCULO 14 DE LA LEY ESTATAL DEL DEPORTE”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LA FRACCIÓN XI BIS AL ARTÍCULO 18 DE LA LEY ESTATAL DEL DEPORTE”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
