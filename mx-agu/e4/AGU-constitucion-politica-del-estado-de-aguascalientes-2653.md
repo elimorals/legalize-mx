@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2025-09-30"
+last_updated: "2025-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -1909,75 +1909,59 @@ Artículo 58 F.- Toda persona imputada de un hecho punible, y toda víctima u of
 
 Para ser titular de la Fiscalía General del Estado se requiere:
 
-> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-I.- Ser ciudadano mexicano por nacimiento, originario del Estado o con residencia en él no menor de cinco años inmediatamente anteriores a la fecha de la designación.
+I.- Ser ciudadano mexicano por nacimiento, originario del Estado o con residencia en él no menor de cinco años inmediatamente anteriores a la fecha de la designación;
 
-> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-II.- Poseer Título de Licenciado en Derecho con una antigüedad mínima de diez años el día de la designación.
+II.- Poseer Título de Licenciado en Derecho con una antigüedad mínima de diez años el día de la designación;
 
-> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-III.- Tener cuando menos 35 años cumplidos el día de la designación.
+III.- Tener cuando menos 35 años cumplidos el día de la designación;
 
-> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-IV.- No pertenecer al estado eclesiástico ni ser ministro de ningún culto.
+IV.- No pertenecer al estado eclesiástico ni ser ministro de ningún culto; y
 
-> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 V.- No haber tenido el cargo de Senador, Diputado Federal o Local o dirigente de Partido Político durante el año previo al día de su designación, ni haber sido titular de la Fiscalía General del estado de Aguascalientes o su equivalente.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2025)</small>
 
-El Ministerio Público se organizará en una Fiscalía General del Estado como órgano autónomo con personalidad jurídica y patrimonio propio, misma que ejercerá las funciones previstas en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos con apego a los principios de legalidad, autonomía, objetividad, imparcialidad, eficiencia, profesionalismo, responsabilidad, honradez, así como perspectiva de género y respeto a los derechos humanos, en los términos que disponga la Ley del Servicio Profesional de Carrera Ministerial para el Estado de Aguascalientes y las demás leyes aplicables en la materia.
+Artículo 59 A.- Para proteger los derechos de las mujeres a una vida libre de violencias, las instituciones de procuración de justicia deberán contar con fiscalías o unidades especializadas de investigación de delitos relacionados con las violencias de género contra las mujeres.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2023)</small>
+> <small>[N. DE E. DEL ANALISIS AL PRESENTE ARTÍCULO SE ADVIERTE QUE SU CONTENIDO ACTUAL, FORMABA PARTE DEL ARTÍCULO 59, MISMO QUE FUE REFORMADO EN ESTA MISMA FECHA.]</small>
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+Artículo 59 A (sic).- El Ministerio Público se organizará en una Fiscalía General del Estado como órgano autónomo con personalidad jurídica y patrimonio propio, misma que ejercerá las funciones previstas en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos con apego a los principios de legalidad, objetividad, imparcialidad, eficiencia, profesionalismo, responsabilidad, honradez y respeto a los derechos humanos, en los términos que disponga la Ley del Servicio Profesional de Carrera Ministerial para el Estado de Aguascalientes y las demás leyes aplicables en la materia.
 
 El Fiscal General del Estado durará en su cargo siete años y será designado y removido conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+I.- Treinta días antes de concluir el período para el cual fue designado el Fiscal General del Estado, o en su caso, a partir de su ausencia definitiva, el Congreso del Estado tendrá quince días naturales para integrar una lista de cinco candidatos aprobada por las dos terceras partes de los diputados que integran el Congreso del Estado, misma que enviará al Poder Ejecutivo;
 
-I.- Treinta días antes de concluir el período para el cual fue designado el Fiscal General del Estado, o en su caso, a partir de su ausencia definitiva, el Congreso del Estado tendrá quince días naturales para integrar una lista de cinco candidatos aprobada por las dos terceras partes de los diputados que integran el Congreso del Estado, misma que enviará al Poder Ejecutivo.
-
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
-
-II.- Recibida la lista a que se refiere la Fracción anterior, el Poder Ejecutivo formulará una terna y la remitirá al Congreso del Estado en un plazo no mayor a cinco días naturales contados a partir de que haya recibido la lista de candidatos;
+II.- Recibida la lista a que se refiere la Fracción anterior, el Poder Ejecutivo formulará una terna y la remitirá al Congreso del Estado en un plazo no mayor a cinco días naturales contados a partir de que haya recibido la lista de candidatos.
 
 Si el Poder Ejecutivo no recibe la lista en el plazo señalado en la Fracción I, enviará libremente al Congreso del Estado una terna;
-
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
 
 III.- Recibida la terna por el Congreso del Estado, se turnará a la Comisión de Justicia para que, previa comparecencia de las personas propuestas, rinda el informe respectivo y el Pleno designe al Fiscal General del Estado con el voto de las dos terceras partes de los diputados que integran el Congreso. La designación deberá realizarse dentro del plazo de ocho días naturales contados a partir de que el Congreso reciba la terna.
 
 En caso de que el Poder Ejecutivo no envíe la terna al Congreso del Estado, éste tendrá cinco días para designar al Fiscal General del Estado de entre los candidatos de la lista que señala la Fracción I.
 
-Si el Congreso del Estado no hace la designación en el plazo establecido, el Poder Ejecutivo, en un término no mayor a cinco días naturales, designará al Fiscal General del Estado de entre los candidatos que integren la lista referida en la Fracción I, o en su caso de la terna respectiva.
-
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+Si el Congreso del Estado no hace la designación en el plazo establecido, el Poder Ejecutivo, en un término no mayor a cinco días naturales, designará al Fiscal General del Estado de entre los candidatos que integren la lista referida en la Fracción I, o en su caso de la terna respectiva;
 
 IV.- El Fiscal General del Estado podrá ser removido por el Ejecutivo Estatal por las causas graves que establezcan las Leyes. La remoción podrá ser objetada por el voto de la mayoría calificada de los miembros que integran el Congreso del Estado dentro de un plazo de diez días naturales, previo informe que para el efecto emita la Comisión de Justicia, en cuyo caso el Fiscal General del Estado será restituido en el ejercicio de sus funciones. Si el Congreso del Estado no se pronuncia al respecto, se entenderá que no existe objeción a la remoción;
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
-
-V.- En los recesos del Congreso del Estado, la Diputación Permanente lo convocará de inmediato a período extraordinario para la designación o formulación de objeción a la remoción del Fiscal General del Estado.
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+V.- En los recesos del Congreso del Estado, la Diputación Permanente lo convocará de inmediato a período extraordinario para la designación o formulación de objeción a la remoción del Fiscal General del Estado; y
 
 VI.- Las ausencias temporales del Fiscal General del Estado serán suplidas en los términos que determiné la ley. En caso de renuncia, esta deberá ser presentada al Congreso del Estado para su aprobación.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE DICIEMBRE DE 2023)</small>
-
-Si la renuncia o ausencia definitiva ocurre dentro de los primeros cinco años del nombramiento, será designado un sustituto para concluir el periodo. Si ocurre durante los últimos dos años, el Congreso nombrará al sustituto por un período de siete años.
-
-> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 18 DE DICIEMBRE DE 2023)</small>
+Si la renuncia o ausencia definitiva ocurre dentro de los primeros cinco años del nombramiento, será designado un sustituto para concluir el periodo. Si ocurre durante los últimos dos años, el Congreso nombrará al sustituto por un periodo de siete años.
 
 Quien se haya desempeñado como Fiscal General del Estado, no podrá ser reelecto en el cargo.
-
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2025)</small>
-
-Artículo 59 A.- Para proteger los derechos de las mujeres a una vida libre de violencias, las instituciones de procuración de justicia deberán contar con fiscalías o unidades especializadas de investigación de delitos relacionados con las violencias de género contra las mujeres.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -2363,9 +2347,9 @@ En lo conducente y de conformidad a los fines señalados en el párrafo tercero 
 
 X.- Elaborar las tablas de valores unitarios de suelo y construcciones, y someterlas a la aprobación del Congreso, para que sirvan de base para el cobro de contribuciones sobre la propiedad inmobiliaria;
 
-> <small>(REFORMADA, P.O. 24 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-XI.- La Policía Preventiva Municipal estará al mando del Presidente Municipal, en los términos de la Ley del Sistema Estatal de Seguridad Pública del Estado. Aquélla acatará las órdenes que el Gobernador del Estado le transmita en los casos en que éste juzgue como de fuerza mayor o alteración grave del orden público y cuando así se disponga en los convenios o en las normas correspondientes; y
+XI.- La Policía Preventiva Municipal estará al mando del Presidente Municipal, en los términos de la Ley del Sistema Estatal de Seguridad Pública del Estado. Aquélla acatará las órdenes que el Gobernador del Estado le transmita en los casos en que éste juzgue como de fuerza mayor o alteración grave del orden público y cuando así se disponga en los convenios o en las normas correspondientes.
 
 > <small>(ADICIONADA, P.O. 24 DE JULIO DE 2023)</small>
 
@@ -2378,6 +2362,18 @@ Para tal fin los Municipios en el ámbito de sus respectivas competencias deber�
 > <small>(ADICIONADO, P.O. 24 DE JULIO DE 2023)</small>
 
 Para el cumplimiento de esta fracción, las instancias municipales de la mujer deben de contar con personal especializado para brindar la debida atención.
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+XIII.- Resguardar temporalmente para salvaguardar el interés público, en los términos de las leyes aplicables en la materia, los bienes inmuebles privados abandonados que pongan en riesgo la vida de las personas, sus bienes, la salud pública, la seguridad pública, o que generen afectaciones a la colectividad o al orden público.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+El resguardo temporal de las autoridades municipales se limitará exclusivamente a modificar aquellas particularidades del bien inmueble, que generan un perjuicio, daño, agravio, o riesgo en términos del párrafo anterior.
+
+> <small>(ADICIONADO [N. DE E. PERTENECE A LA FRACCIÓN XIII, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+Este resguardo se llevará a cabo respetando el debido proceso y la garantía de audiencia de los propietarios, así como las formalidades, plazos y términos que establezcan las leyes de la materia.
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
@@ -4720,3 +4716,19 @@ P.O. 30 DE SEPTIEMBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, una vez cubiertos los extremos del artículo 94 de la Constitución Política del Estado de Aguascalientes.
+
+P.O. 4 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 259.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, una vez cubiertos los extremos del artículo 94 de la Constitución Política del Estado de Aguascalientes.
+
+P.O. 4 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 271.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
