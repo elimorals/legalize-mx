@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-13678
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-06-14"
-last_updated: "2025-08-29"
+last_updated: "2025-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número 11 del Periódico Oficial del Estado de Quintana Roo, el viernes 14 de junio de 2019.
 
@@ -93,9 +93,11 @@ El recinto oficial y las oficinas que ocupe el Poder Legislativo son inviolables
 
 Cuando sin mediar previa solicitud se hiciere presente la fuerza pública, quien presida la Mesa Directiva podrá suspender la sesión hasta en tanto la misma abandone el recinto oficial.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 7.
 
-Ninguna autoridad podrá ejecutar mandamientos judiciales o administrativos sobre los bienes del poder legislativo, ni sobre las personas o bienes de los diputados en el interior del recinto oficial del Poder Legislativo.
+Ninguna autoridad podrá ejecutar mandamientos judiciales o administrativos sobre los bienes del Poder Legislativo, ni sobre las personas o bienes de las diputadas y los diputados en el interior del recinto oficial del Poder Legislativo.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
 
@@ -107,27 +109,37 @@ Esta ley, los reglamentos del Poder Legislativo y la normatividad que regule el 
 
 ### CAPÍTULO SEGUNDO. Del Público
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 9.
 
-En el salón de sesiones del recinto oficial del Poder Legislativo habrá lugar para el público, que se mantendrá abierto durante el desarrollo de las sesiones. Los asistentes se presentarán sin armas, guardarán respeto, silencio y compostura; no tomarán parte en las deliberaciones con ninguna clase de demostración.
+En el salón de sesiones del recinto oficial del Poder Legislativo habrá lugar para el público, que se mantendrá abierto durante el desarrollo de las sesiones. Las personas asistentes se presentarán sin armas, guardarán respeto, silencio y compostura; no tomarán parte en las deliberaciones con ninguna clase de demostración.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 10.
 
-Cuando uno o varios de los asistentes crearen desorden o impidan el buen desarrollo de la sesión, se suspenderá ésta y se mandará a desalojar a los responsables, reanudándose cuando se restablezca el orden, permaneciendo cerrado el recinto.
+Cuando una o varias de las personas asistentes crearen desorden o impidan el buen desarrollo de la sesión, se suspenderá ésta y se mandará a desalojar a las personas responsables, reanudándose cuando se restablezca el orden, permaneciendo cerrado el recinto.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 11.
 
-Toda persona que perturbe de cualquier modo el orden dentro del recinto oficial, se le ordenara salir de él inmediatamente. Si la falta fuese grave se le mandará detener mediante la fuerza pública que auxilie al presidente de la Legislatura y si el hecho entrañare delito, se le pondrá en ese momento a disposición de la autoridad competente.
+Toda persona que perturbe de cualquier modo el orden dentro del recinto oficial, se le ordenará salir de él inmediatamente. Si la falta fuese grave se le mandará detener mediante la fuerza pública que auxilie a la Presidencia de la Legislatura y si el hecho entrañare delito, se le pondrá en ese momento a disposición de la autoridad competente.
 
 ### CAPÍTULO TERCERO. Del Protocolo
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 12.
 
-En las sesiones solemnes a las que asistan la persona Titular del Poder Ejecutivo y del Tribunal Superior de Justicia, serán recibidos en las puertas del Recinto Oficial de la Legislatura del Estado, por la Comisión de Cortesía, quienes los acompañarán al salón de sesiones, donde las dos personas titulares tomarán asiento junto con quien presida la Mesa Directiva, la primera a la izquierda de la Presidencia y la segunda a la derecha.
+En las sesiones solemnes a las que asistan la persona titular del Poder Ejecutivo y del Tribunal Superior de Justicia, serán recibidas en las puertas del Recinto Oficial de la Legislatura del Estado, por la Comisión de Cortesía, quienes las acompañarán al salón de sesiones, donde las dos personas titulares tomarán asiento junto con quien presida la Mesa Directiva, la primera a la izquierda de la Presidencia y la segunda a la derecha.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
 
 En las sesiones a las que asista la persona Titular del Poder Ejecutivo Federal, con el mismo procedimiento de recepción previsto en el párrafo que antecede, tomará asiento entre quien preside la Mesa Directiva y la persona Titular del Ejecutivo del Estado, y la persona Titular del Tribunal Superior de Justicia a la derecha de quien presida la Legislatura.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
 
 En las sesiones a las que asista la persona representante del Poder Ejecutivo Federal, ésta tomará asiento a la izquierda de la persona Titular del Poder Ejecutivo; ésta última tomará asiento a la izquierda de quien presida la Mesa Directiva y la persona Titular del Tribunal Superior de Justicia a la derecha de quien presida la Legislatura.
 
@@ -139,13 +151,13 @@ Si se tratare de la sesión solemne en la que la Gobernadora Electa o Gobernador
 
 Si en la sesión solemne referida en el párrafo que antecede asiste la persona Titular del Poder Ejecutivo Federal, ésta tomará asiento entre las personas titulares de la Mesa Directiva del Poder Legislativo y del Tribunal de Justicia del Estado. En el caso de que asista la persona representante del Poder Ejecutivo Federal, ésta tomará asiento a la derecha de la persona Titular del Tribunal Superior de Justicia del Estado y ésta a la derecha de la persona que presida la Mesa Directiva.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 14.
 
-Al entrar al recinto oficial, la persona Titular del Poder Ejecutivo, la ciudadanía, las y los miembros de la Legislatura se pondrán de pie y la persona que presida la Legislatura lo hará cuando llegue al lugar de la Mesa Directiva, procediendo a saludarlo e inmediatamente saludará a la persona Titular del Tribunal Superior de Justicia del Estado, invitándolas a tomar asiento.
+Al entrar al recinto oficial, la persona titular del Poder Ejecutivo, la ciudadanía, las y los integrantes de la Legislatura se pondrán de pie y la persona que presida la Legislatura lo hará cuando llegue al lugar de la Mesa Directiva, procediendo a saludarla e inmediatamente saludará a la persona titular del Tribunal Superior de Justicia del Estado, invitándolas a tomar asiento.
 
-Al salir del recinto oficial las personas titulares de los Poderes Ejecutivo y Judicial, las y los miembros de la Legislatura se pondrán de pie, excepto la persona que presida la Mesa Directiva.
+Al salir del recinto oficial las personas titulares de los Poderes Ejecutivo y Judicial, las y los integrantes de la Legislatura se pondrán de pie, excepto la persona que presida la Mesa Directiva.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
 
@@ -159,7 +171,9 @@ Si asistiera la persona Titular del Poder Ejecutivo Federal, la persona que pres
 
 Durante el desarrollo de las sesiones solemnes, la persona que presida la Mesa Directiva permanecerá en su lugar, excepto en los casos previstos en los dos artículos anteriores.
 
-Si asistieren invitados especiales a las sesiones, quien presida la Mesa Directiva de la Legislatura los distinguirá nombrándolos en el desarrollo de la sesión.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+Si asistieren personas invitadas especiales a las sesiones, quien presida la Mesa Directiva de la Legislatura las distinguirá nombrándolas en el desarrollo de la sesión.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
 
@@ -261,7 +275,9 @@ I. Previo a la Sesión de Instalación de la Junta, las o los Coordinadores de l
 
 La Presidencia de la Junta y la Mesa Directiva serán acordados de manera conjunta entre las dos coordinaciones, para lo cual el grupo legislativo con mayor representación tendrá derecho de elegir los años que presidirá la Junta y la Mesa Directiva.
 
-II. El acuerdo respecto a los años en que se presidirá la Junta y la Mesa Directiva deberá constar por escrito debidamente firmado por las o los (sic) coordinaciones de los Grupos Legislativos con derecho a presidir la Junta y deberá hacerse de conocimiento en la misma sesión de instalación de la Junta y en la reanudación de la sesión de Instalación de la Legislatura.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+II. El acuerdo respecto a los años en que se presidirá la Junta y la Mesa Directiva deberá constar por escrito debidamente firmado por las coordinaciones de los Grupos Legislativos con derecho a presidir la Junta y deberá hacerse de conocimiento en la misma sesión de instalación de la Junta y en la reanudación de la sesión de Instalación de la Legislatura.
 
 III. Una vez realizado lo anterior, se llevará a cabo la sesión de instalación de la Junta con la presencia de las y los Coordinadores de los Grupos Legislativos, quienes tendrán derecho a voz y voto. Asimismo, podrán asistir a la sesión de instalación de la Junta, las diputadas o diputados representantes legislativos y las diputadas o diputados independientes y sin partido, únicamente con derecho a voz.
 
@@ -279,13 +295,13 @@ Antes de concluir la sesión, se citará para la primera sesión ordinaria de la
 
 La Declaratoria de Instalación de la Legislatura, de conformación de la Mesa Directiva del Primer Año de Ejercicio Constitucional y de la Presidencia de la Junta se comunicará al Ejecutivo del Estado, al Tribunal Superior de Justicia, a los Ayuntamientos de los Municipios del Estado, a las Cámaras del Congreso de la Unión, al Ejecutivo Federal, a la Suprema Corte de Justicia de la Nación y a las Legislaturas de los Estados de la República.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 24.
 
-La Presidencia de la Mesa Directiva, citará a las y los diputados electos que no hubieren asistido a la sesión de instalación de la Legislatura, en el domicilio que tengan acreditado ante el órgano electoral que les hubiere expedido la constancia que los acredita como tales, para que se presenten en la fecha y hora que se les señale, apercibidos, de que de no asistir nuevamente sin causa justificada se llamará en definitiva a sus respectivos suplentes o a quien corresponda en términos de la presente Ley y los demás ordenamientos aplicables.
+La Presidencia de la Mesa Directiva, citará a las diputadas y los diputados electos que no hubieren asistido a la sesión de instalación de la Legislatura, en el domicilio que tengan acreditado ante el órgano electoral que les hubiere expedido la constancia que los acredita como tales, para que se presenten en la fecha y hora que se les señale, apercibidos, de que de no asistir nuevamente sin causa justificada se llamará en definitiva a las personas respectivas suplentes o a quien corresponda en términos de la presente Ley y los demás ordenamientos aplicables.
 
-En todo caso, las y los diputados a que se refiere el párrafo anterior, estarán obligados a rendir protesta en los términos que señala la Constitución del Estado, esta ley y su reglamento.
+En todo caso, las diputadas y los diputados a que se refiere el párrafo anterior, estarán obligados a rendir protesta en los términos que señala la Constitución del Estado, esta ley y su reglamento.
 
 ### CAPÍTULO SEGUNDO. De las sesiones del Pleno de la Legislatura
 
@@ -331,13 +347,17 @@ Son sesiones solemnes las que se convocan para:
 
 I. Toma de Protesta de la persona electa como Titular del Poder Ejecutivo del Estado;
 
-II. Recibir el informe anual del Titular del Ejecutivo del Estado,
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+II. Recibir el informe anual de la persona titular del Poder Ejecutivo del Estado;
 
 III. Conmemorar alguna efeméride;
 
 IV. Rendir homenaje a personajes ilustres o ampliamente reconocidos por su trayectoria personal o profesional de cualquier índole;
 
-V. Recibir a invitados distinguidos, nacionales o extranjeros;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+V. Recibir a personas invitadas distinguidas, nacionales o extranjeras;
 
 VI. Entrega de reconocimientos aprobados por la Legislatura;
 
@@ -541,13 +561,13 @@ L. Autorizar la celebración de los convenios del estado o sus municipios, en ca
 
 LI. Expedir las leyes que señale el título octavo de la Constitución Política del Estado, así como todas las leyes y decretos que sean necesarios para hacer efectivas las facultades anteriores, y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-LII. Conocer y resolver de las solicitudes de destitución por faltas graves de Magistradas y Magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y de los integrantes del Órgano de Administración Judicial, en términos de la presente Constitución;
+LII. Conocer y resolver de las solicitudes de destitución por faltas graves de Magistradas y Magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y de las y los integrantes del Órgano de Administración Judicial, en términos de la presente Constitución;
 
-> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-LIII. Postular, mediante votación de dos terceras partes de sus integrantes presentes un aspirante para ocupar el cargo de Magistradas y Magistrados, Juezas y Jueces del Poder Judicial, respetando el principio de paridad de género y un aspirante para integrar el Tribunal de Disciplina Judicial, conforme al procedimiento establecido en esta Constitución;
+LIII. Postular, mediante votación de dos terceras partes de sus integrantes presentes una persona aspirante para ocupar el cargo de Magistradas y Magistrados, Juezas y Jueces del Poder Judicial, respetando el principio de paridad de género y una persona aspirante para integrar el Tribunal de Disciplina Judicial, conforme al procedimiento establecido en esta Constitución;
 
 > <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2025)</small>
 
@@ -561,17 +581,21 @@ LV. Las demás que la Constitución y otras leyes le confieran.
 
 #### SECCIÓN PRIMERA. Del Juicio Político
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 31.
 
-La Legislatura del Estado conocerá de los casos de responsabilidad política en que incurran los servidores públicos a que se refiere la fracción I, del artículo 160 de la Constitución, conforme a lo dispuesto en el título octavo de la misma y en la Ley de Responsabilidades de los Servidores Públicos del Estado.
+La Legislatura del Estado conocerá de los casos de responsabilidad política en que incurran las personas servidoras públicas a que se refiere la fracción I, del artículo 160 de la Constitución, conforme a lo dispuesto en el título octavo de la misma y en la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
 También conocerá por medio de este procedimiento, de las declaratorias que le remitan las Cámaras del Honorable Congreso de la Unión, en términos del artículo 110 de la Constitución Política de los Estados Unidos Mexicanos.
 
 #### SECCIÓN SEGUNDA. De la Desaparición de los Poderes Municipales
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 32.
 
-La Legislatura conocerá de la suspensión y desaparición de los ayuntamientos; así como de la suspensión y revocación del mandato de los miembros de éstos, conforme el procedimiento previsto en la Ley de los Municipios del Estado de Quintana Roo.
+La Legislatura conocerá de la suspensión y desaparición de los Ayuntamientos; así como de la suspensión y revocación del mandato de las personas integrantes de éstos, conforme el procedimiento previsto en la Ley de los Municipios del Estado de Quintana Roo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE AGOSTO DE 2024)</small>
 
@@ -619,15 +643,17 @@ En ejercicio de esta facultad, las diputadas y los diputados procurarán la aten
 
 Las dependencias del Ejecutivo del Estado, los municipios, así como sus organismos descentralizados y empresas de participación y fideicomisos públicos, observando las disposiciones legales respectivas, están obligadas a proporcionar las diputadas y los diputados la orientación e información necesarias para la realización de sus gestiones.
 
-Una negativa u omisión en relación con lo dispuesto en el párrafo anterior, se considerará como actitud negligente de las o los servidores públicos requeridos, lo que se comunicará a su superior jerárquico por conducto de la Presidencia de la Mesa Directiva o de la Comisión Permanente, según el caso, para exigir la prestación reclamada y la aplicación de la sanción que corresponda, debiendo acompañar las constancias respectivas.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2024)</small>
+Una negativa u omisión en relación con lo dispuesto en el párrafo anterior, se considerará como actitud negligente de las o los servidores públicos requeridos, lo que se comunicará a la persona superior jerárquica por conducto de la Presidencia de la Mesa Directiva o de la Comisión Permanente, según el caso, para exigir la prestación reclamada y la aplicación de la sanción que corresponda, debiendo acompañar las constancias respectivas.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 38.
 
-Las diputadas y los diputados podrán vigilar la actividad oficial de los servidores públicos de las dependencias del Poder Judicial, salvo en asuntos litigiosos, del Ejecutivo del Estado, de los municipios y de sus organismos descentralizados, empresas de participación y fideicomisos públicos, así como reconvenirlos si no se observa el espíritu de servicio o de diligencia necesaria en el cumplimiento de sus responsabilidades.
+Las diputadas y los diputados podrán vigilar la actividad oficial de las personas servidoras públicas de las dependencias del Poder Judicial, salvo en asuntos litigiosos, del Poder Ejecutivo del Estado, de los Municipios y de sus organismos descentralizados, empresas de participación y fideicomisos públicos, así como reconvenirlas si no se observa el espíritu de servicio o de diligencia necesaria en el cumplimiento de sus responsabilidades.
 
-Si la acción u omisión del servidor público constituye falta a las leyes aplicables, dará parte a la autoridad que corresponda para los efectos conducentes.
+Si la acción u omisión de la persona servidora pública constituye falta a las leyes aplicables, dará parte a la autoridad que corresponda para los efectos conducentes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2024)</small>
 
@@ -635,7 +661,9 @@ Si la acción u omisión del servidor público constituye falta a las leyes apli
 
 Las diputadas y los diputados, individualmente, en comisiones o en pleno, podrán celebrar audiencias de consulta popular sobre temas relacionados con su función legislativa y sus resultados los comunicarán a la dependencia del Ejecutivo del Estado o de los municipios que corresponda para su atención.
 
-Si de ellas resultare la necesidad de gestión o del procesamiento de iniciativas, ésta se realizará por el diputado o por la comisión que designe el presidente de la Legislatura o de la comisión permanente, en su caso.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+Si de ellas resultare la necesidad de gestión o del procesamiento de iniciativas, ésta se realizará por la diputada o el diputado o por la comisión que designe la Presidencia de la Legislatura o de la comisión permanente, en su caso.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE AGOSTO DE 2024)</small>
 
@@ -683,9 +711,9 @@ La Legislatura, por conducto de la Presidencia de la Mesa Directiva, llamará al
 
 I. Cuando la diputada o diputado propietario electo, solicite ante la Presidencia de la Mesa Directiva de la Legislatura o de la Comisión Permanente, en su caso, licencia por escrito para separarse de su cargo y ésta sea aprobada en los términos de la presente Ley;
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-II. Cuando fuere separado de su encargo la diputada o diputado propietario;
+II. Cuando fuere separada de su encargo la diputada o diputado propietario;
 
 > <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2024)</small>
 
@@ -705,11 +733,11 @@ La persona titular de la Presidencia de la Mesa Directiva comunicará a la diput
 
 Comprobada por la persona titular de la Presidencia de la Mesa Directiva de la Legislatura la citación hecha al suplente y éste no se presente a rendir la protesta de ley respectiva, la Legislatura hará la declaratoria correspondiente y procederá conforme corresponda.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 43.
 
-La diputada o el diputado suplente, deberá rendir la protesta de ley ante el pleno de la Legislatura y al entrar en ejercicio del encargo se integrará a las Comisiones a las que pertenece la o el diputado al que suple, por lo que tendrá las atribuciones y obligaciones de este último.
+La diputada o el diputado suplente, deberá rendir la protesta de ley ante el pleno de la Legislatura y al entrar en ejercicio del encargo se integrará a las Comisiones a las que pertenece la diputada o el diputado al que suple, por lo que tendrá las atribuciones y obligaciones de este último.
 
 ### CAPÍTULO CUARTO. De las sanciones
 
@@ -719,33 +747,31 @@ La diputada o el diputado suplente, deberá rendir la protesta de ley ante el pl
 
 Se sancionará con la suspensión de pago de las dietas correspondientes al período de receso siguiente, a la diputada o el diputado que no realice su informe de labores en la forma y términos previstos en esta Ley.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 45.
 
-A los diputados que sin causa justificada a juicio del presidente de la mesa directiva de la Legislatura, no concurran a las sesiones de los períodos ordinarios o extraordinarios, no se les cubrirá la dieta correspondiente a las sesiones que dejaren de asistir.
+A las diputadas y los diputados que sin causa justificada a juicio de la Presidencia de la Mesa Directiva de la Legislatura, no concurran a las sesiones de los períodos ordinarios o extraordinarios, no se les cubrirá la dieta correspondiente a las sesiones que dejaren de asistir.
 
-Se justificará la ausencia de los diputados, cuando previamente a la sesión a la que falten, dieren aviso por escrito por sí mismo o en su caso, a través del coordinador del grupo legislativo en que exponga el motivo de su inasistencia, a la presidencia de la mesa directiva. Si la inasistencia fuere del presidente de la mesa, el aviso deberá darlo a la vicepresidencia o a la secretaria en ausencia de aquella. La inasistencia sin previo aviso, solamente se justificará por caso fortuito o fuerza mayor que haya imposibilitado su asistencia.
+Se justificará la ausencia de las diputadas y los diputados, cuando previamente a la sesión a la que falten, dieren aviso por escrito por sí mismos o en su caso, a través de la coordinadora o el coordinador del grupo legislativo en que exponga el motivo de su inasistencia, a la Presidencia de la Mesa Directiva. Si la inasistencia fuere de quien ostente la Presidencia de la Mesa, el aviso deberá darlo a la Vicepresidencia o a la Secretaría en ausencia de aquella. La inasistencia sin previo aviso, solamente se justificará por caso fortuito o fuerza mayor que haya imposibilitado su asistencia.
 
-Tratándose de las comisiones legislativas, las ausencias de sus integrantes se justificarán por la presidencia de la comisión que corresponda, aplicando lo conducente en el párrafo anterior. De no presentarse justificante el diputado contará con un término de tres días hábiles para justificar su inasistencia, contados a partir de la celebración de la sesión o reunión.
+Tratándose de las comisiones legislativas, las ausencias de sus integrantes se justificarán por la Presidencia de la comisión que corresponda, aplicando lo conducente en el párrafo anterior. De no presentarse justificante la diputada o el diputado contará con un término de tres días hábiles para justificar su inasistencia, contados a partir de la celebración de la sesión o reunión.
 
-La Secretaría General informará por escrito a la presidencia de la mesa directiva de la Legislatura, comisión permanente o comisiones de que se trate, previamente al inicio de la sesión o reunión correspondiente, de la imposibilidad de algún diputado para asistir a la misma, siempre que la inasistencia se origine porque esté desempeñando una función propia de su encargo. La Secretaría General remitirá además la documentación relativa a la encomienda que se encuentre desempeñando el diputado. En este supuesto la inasistencia será justificada.
+La Secretaría General informará por escrito a la presidencia de la Mesa Directiva de la Legislatura, comisión permanente o comisiones de que se trate, previamente al inicio de la sesión o reunión correspondiente, de la imposibilidad de alguna diputada o algún diputado para asistir a la misma, siempre que la inasistencia se origine porque esté desempeñando una función propia de su encargo. La Secretaría General remitirá además la documentación relativa a la encomienda que se encuentre desempeñando la diputada o el diputado. En este supuesto la inasistencia será justificada.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
-
-Artículo 46 La inasistencia a más de tres sesiones consecutivas en un período ordinario o extraordinario de sesiones, sin que medie justificación alguna establece la presunción de que la diputada o el diputado faltista renuncia a concurrir a todo el período respectivo. En este caso, se llamará al suplente para que lo reemplace por todo el período, debiendo rendir la protesta de rigor para ejercer el cargo solamente en el período que reemplaza.
-
-La diputada o el diputado faltista que se encuentre en el caso previsto en el párrafo anterior, no se le cubrirán las dietas del período en el que fue reemplazado, cubriéndose al suplente en funciones las dietas correspondientes a las sesiones que asista y las del receso siguiente al período respectivo, pero si sus inasistencias fueran por causa justificada calificada por la Mesa Directiva de la Legislatura, se le cubrirán al propietario, las dietas del período de receso siguiente.
-
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 46.
 
-La inasistencia a más de tres sesiones consecutivas en un período ordinario o extraordinario de sesiones, sin que medie justificación alguna establece la presunción de que el diputado faltista renuncia a concurrir a todo el período respectivo. En este caso, se llamará al suplente para que lo reemplace por todo el período, debiendo rendir la protesta de rigor para ejercer el cargo solamente en el período que reemplaza.
+La inasistencia a más de tres sesiones consecutivas en un período ordinario o extraordinario de sesiones, sin que medie justificación alguna establece la presunción de que la diputada o el diputado faltista renuncia a concurrir a todo el período respectivo. En este caso, se llamará a la diputada o el diputado suplente para que lo reemplace por todo el período, debiendo rendir la protesta de rigor para ejercer el cargo solamente en el período que reemplaza.
 
-Al diputado faltista que se encuentre en el caso previsto en el párrafo anterior, no se le cubrirán las dietas del período en el que fue reemplazado, cubriéndose al suplente en funciones las dietas correspondientes a las sesiones que asista y las del receso siguiente al período respectivo, pero si sus inasistencias fueran por causa justificada calificada por la mesa directiva de la Legislatura, se le cubrirán al propietario, las dietas del período de receso siguiente.
+La diputada o el diputado faltista que se encuentre en el caso previsto en el párrafo anterior, no se le cubrirán las dietas del período en el que fue reemplazado, cubriéndose a la diputada o el diputado suplente en funciones las dietas correspondientes a las sesiones que asista y las del receso siguiente al período respectivo, pero si sus inasistencias fueran por causa justificada calificada por la Mesa Directiva de la Legislatura, se le cubrirán a la diputada o el diputado propietario, las dietas del período de receso siguiente.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 47.
 
-Al presentarse la Diputada o el diputado al siguiente período de sesiones, para entrar en funciones deberá volver a rendir la protesta de ley. Si volviera a incurrir en el caso previsto en el primer párrafo del artículo anterior, se llamará en definitiva al suplente.
+Al presentarse la diputada o el diputado al siguiente período de sesiones, para entrar en funciones deberá volver a rendir la protesta de ley. Si volviera a incurrir en el caso previsto en el primer párrafo del artículo anterior, se llamará en definitiva a la diputada o el diputado suplente.
 
 ## TÍTULO CUARTO. De la estructura orgánica del Poder Legislativo
 
@@ -771,9 +797,13 @@ a) Grupos Legislativos;
 
 b) Representaciones Legislativas;
 
-c) Diputados Independientes, y
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-d) Diputados sin partido.
+c) Diputadas y Diputados Independientes, y
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+d) Diputadas y Diputados sin partido.
 
 III. Órganos Técnicos y Administrativos:
 
@@ -791,11 +821,13 @@ d) Las demás que coadyuven a las funciones de las anteriores.
 
 La Junta de Gobierno y Coordinación Política expresa la pluralidad política de la Legislatura del Estado y se constituye como el órgano de gobierno colegiado en el que se impulsan entendimientos y convergencias para alcanzar acuerdos que permitan el cumplimiento de las facultades que la Constitución asigna a la Legislatura del Estado y facilita la gobernabilidad democrática del mismo.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 50.
 
-La Junta funcionará de manera colegiada, contará con una Presidencia y estará integrada por quienes coordinen los grupos Legislativos, las representaciones legislativas, las diputaciones independientes y sin partido.
+La Junta funcionará de manera colegiada, contará con una Presidencia, una Secretaría, y estará integrada por quienes coordinen los grupos Legislativos, las representaciones legislativas, las diputaciones independientes y sin partido.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
 
 Para llevar a cabo las sesiones de la Junta, se requerirá la asistencia de la mayoría de las coordinaciones de los Grupos Legislativos que tienen derecho a voto.
 
@@ -807,6 +839,10 @@ Quien presida la Junta, será el representante del Poder Legislativo del Estado 
 
 La Presidencia de la Junta será ejercida conforme al acuerdo tomado al inicio de la legislatura por las Coordinaciones de los Grupos Legislativos con mayor representación.
 
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+La Secretaría de la Junta será ejercida por la Coordinación del Grupo Legislativo con mayor representación que no ejerza la Presidencia de la Junta, conforme al acuerdo anteriormente referido.
+
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 52.
@@ -815,21 +851,21 @@ La Junta adoptará sus decisiones mediante el sistema de voto ponderado, en el c
 
 Las diputadas o diputados Coordinadores de los Grupos Legislativos, tendrán derecho a voz y voto en la Junta, y en el caso de las representaciones legislativas, diputadas o diputados independientes y las diputadas o diputados sin partido, únicamente tendrán derecho a voz.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 53.
 
-La Junta sesionará por lo menos una vez a la semana y deberá ser convocada por escrito a través de la Presidencia, preferentemente con cuarenta y ocho horas de anticipación a la sesión respectiva; a excepción de que el presidente considere que tenga que resolver un asunto de carácter urgente o extraordinario, en cuyo caso podrá convocar por escrito en un plazo menor.
+La Junta sesionará las veces que sean necesarias durante los periodos ordinarios y con la periodicidad que acuerde durante los periodos de receso y deberá ser convocada por escrito a través de la Presidencia, preferentemente con cuarenta y ocho horas de anticipación a la sesión respectiva; a excepción de que la Presidencia considere que tenga que resolver un asunto de carácter urgente o extraordinario, en cuyo caso podrá convocar por escrito en un plazo menor.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 54.
 
-La Junta contará con una secretaría técnica y una coordinación de comunicación social, cuyos titulares serán nombrados por los integrantes de la Junta a propuesta de la Presidencia y podrán ser removidos libremente (sic) quien preside de la Junta cuando así lo considere.
+La Junta contará con una secretaría técnica y una coordinación de comunicación social, cuyas personas titulares serán nombradas por las y los integrantes de la Junta a propuesta de la Presidencia y podrán ser removidos libremente por quien preside de la Junta cuando así lo considere.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-La secretaria técnica, es el área encargada del despacho de los asuntos de la oficina de la Junta y tendrá las facultades y obligaciones que en general se establezcan para las y los secretarios técnicos, además de las siguientes atribuciones:
+La secretaría técnica, es el área encargada del despacho de los asuntos de la oficina de la Junta y tendrá las facultades y obligaciones que en general se establezcan para las y los secretarios técnicos, además de las siguientes atribuciones:
 
 I. Asistir a las reuniones de la Junta;
 
@@ -855,7 +891,9 @@ La coordinación de comunicación social es el área que tendrá la responsabili
 
 En caso de ausencia temporal o definitiva de la persona que presida la Junta, el grupo legislativo al que pertenezca informará de inmediato tanto a la persona titular de la Mesa Directiva como a la propia Junta, el nombre de la diputada o el diputado que será coordinador del grupo legislativo y que, por consiguiente, lo sustituye en las funciones, anexando la documentación correspondiente a la designación.
 
-Los demás integrantes de la Junta igualmente podrán ser sustituidos libremente de conformidad con las normas de cada partido político y se comunicará formalmente a la Junta y a la mesa directiva la sustitución correspondiente.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+Las y los demás integrantes de la Junta igualmente podrán ser sustituidos libremente de conformidad con las normas de cada partido político y se comunicará formalmente a la Junta y a la Mesa Directiva la sustitución correspondiente.
 
 ###### Artículo 56.
 
@@ -891,9 +929,13 @@ XI. Impulsar y realizar los estudios que versen sobre disposiciones normativas, 
 
 XII. Dirigir, vigilar y coordinar los trabajos y acciones que coadyuven al mejoramiento de la Legislatura del Estado;
 
-XIII. Designar y remover, a los titulares de las secretarías, subsecretarías, direcciones, unidades, instituto y coordinadores del poder legislativo, a propuesta del presidente de la Junta;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-XIV. Nombrar y remover, por conducto de la secretaría general, a los demás empleados del Poder Legislativo;
+XIII. Designar y remover, a las personas titulares de la Secretaría General, subsecretarías, direcciones, unidades, instituto y coordinaciones del Poder Legislativo, a propuesta de la presidencia de la Junta;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+XIV. Nombrar y remover, por conducto de la Secretaría General, a las demás personas empleadas del Poder Legislativo;
 
 XV. Coordinar las tareas legislativas, políticas y administrativas de la Legislatura;
 
@@ -915,7 +957,9 @@ XXIII. Celebrar convenios con entidades públicas, sociales o privadas que tenga
 
 XXIV. Las demás que le confieran esta ley u otros ordenamientos legales, el pleno y la comisión permanente, así como aquellas que resulten necesarias para el cumplimiento de sus funciones.
 
-#### SECCIÓN SEGUNDA. De las atribuciones del Presidente de la Junta
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+#### SECCIÓN SEGUNDA. De las Atribuciones de la Presidencia de la Junta
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2024)</small>
 
@@ -935,17 +979,21 @@ V. Conducir las relaciones con los otros poderes del Estado, con los poderes fed
 
 VI. Ejecutar las resoluciones y acuerdos de la Junta, proveyendo a su exacta observancia;
 
-VII. Formular a la Junta las propuestas que deban ser sometidas a su consideración para nombrar a los servidores públicos del Poder Legislativo cuya designación esté reservada a éste, o aquellas que la Ley establezca;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-VIII. Expedir los nombramientos de los titulares de las secretarías, subsecretarías, direcciones, unidades, instituto y coordinadores del Poder Legislativo;
+VII. Formular a la Junta las propuestas que deban ser sometidas a su consideración para nombrar a las personas servidoras públicas del Poder Legislativo cuya designación esté reservada a éste, o aquellas que la Ley establezca;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+VIII. Expedir los nombramientos de las personas titulares de la Secretaría, Subsecretarías, Direcciones, Unidades, Instituto y Coordinaciones del Poder Legislativo;
 
 IX. Representar al Poder Legislativo ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
 X. Suscribir, con autorización de la Junta, las operaciones y convenios financieros y crediticios con instituciones, organismos o dependencias, públicas o privadas;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-XI. Administrar el presupuesto de egresos de la Legislatura, tomando en cuenta las opiniones de los integrantes de la Junta, además de remitir a los integrantes de la legislatura el Informe de Avance de Gestión Financiera establecido en la Ley de Fiscalización y Rendición de Cuentas del Estado de Quintana Roo;
+XI. Administrar el presupuesto de egresos de la Legislatura, tomando en cuenta las opiniones de las y los integrantes de la Junta, además de remitir a las y los integrantes de la Legislatura el Informe de Avance de Gestión Financiera establecido en la Ley de Fiscalización y Rendición de Cuentas del Estado de Quintana Roo;
 
 XII. Informar anualmente a la Legislatura del Estado de las actividades de la Junta, dando a conocer tanto la estadística de los decretos aprobados como la correspondiente a las iniciativas pendientes de ser dictaminadas, y
 
@@ -955,11 +1003,13 @@ XIII. Las demás que le confieran la ley, otras disposiciones legales, la Legisl
 
 #### SECCIÓN PRIMERA. De su integración, elección y duración
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 59.
 
-La Mesa Directiva que conducirá las sesiones del pleno conforme a las atribuciones que le otorguen la presente ley y el reglamento a cada uno de sus miembros, estará en funciones durante un año de ejercicio constitucional y se integra con una Presidencia, una Vicepresidencia, una Secretaría y una Suplencia General, los cuales serán electos por el pleno de la Legislatura a propuesta de la Junta en votación nominal.
+La Mesa Directiva que conducirá las sesiones del pleno conforme a las atribuciones que le otorguen la presente ley y el reglamento a cada uno de las y los integrantes, estará en funciones durante un año de ejercicio constitucional y se integra con una Presidencia, una Vicepresidencia, una Secretaría y una Suplencia General, las cuales serán electas por el pleno de la Legislatura a propuesta de la Junta en votación nominal.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
 
 La Mesa Directiva se integrará de manera plural entre los Órganos de Representación, únicamente podrá ser presidida por algún integrante de los dos grupos legislativos con mayor representación, conforme al acuerdo tomado al inicio de la Legislatura.
 
@@ -981,9 +1031,11 @@ La Mesa Directiva de la Comisión Permanente fungirá como Mesa Directiva durant
 
 Toda elección de integrantes de la Mesa Directiva será comunicada por la Secretaría General al Ejecutivo Estatal, al Tribunal Superior de Justicia del Estado, a los Ayuntamientos de los Municipios del Estado, a ambas Cámaras del Congreso de la Unión, al Ejecutivo Federal y a la Suprema Corte de Justicia de la Nación.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 63.
 
-Los integrantes de la mesa directiva sólo podrán ser removidos de sus cargos por las causas y en la forma prevista en el reglamento de esta ley.
+Las y los integrantes de la Mesa Directiva sólo podrán ser removidos de sus cargos por las causas y en la forma prevista en el reglamento de esta ley.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
 
@@ -1027,17 +1079,25 @@ VIII. Exigir orden al público asistente a las sesiones y dictar las disposicion
 
 IX. Solicitar el auxilio de la fuerza pública en los casos que establece esta ley;
 
-X. Suspender las sesiones cuando se altere gravemente el orden o cuando sin su autorización, se hiciere presente la fuerza pública compeliendo la libertad para deliberar de los miembros de la Legislatura, reanudándolas cuando se haya restablecido el orden o la fuerza pública haya abandonado el recinto oficial;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-XI. Firmar con el secretario de la mesa las leyes, decretos, reglamentos, acuerdos, actas de sesión, correspondencia y demás documentación que expida la Legislatura;
+X. Suspender las sesiones cuando se altere gravemente el orden o cuando sin su autorización, se hiciere presente la fuerza pública compeliendo la libertad para deliberar de las y los integrantes de la Legislatura, reanudándolas cuando se haya restablecido el orden o la fuerza pública haya abandonado el recinto oficial;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+XI. Firmar con la Secretaría de la Mesa las leyes, decretos, reglamentos, acuerdos, actas de sesión, correspondencia y demás documentación que expida la Legislatura;
 
 > <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2024)</small>
 
 XII. Expresar consideraciones generales al informe que rinda anualmente la persona Titular del Poder Ejecutivo y encargar a las comisiones que correspondan el análisis del mismo, para ser discutido en las subsecuentes sesiones.
 
-En la sesión en que la persona Titular del Poder Ejecutivo rinda el Informe Anual sobre el estado que guarda la Administración Pública, se le concederá el uso de la palabra a un miembro de cada órgano de representación legislativa antes de la presentación del informe;
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-XIII. Solicitar, por acuerdo de la comisión ordinaria que corresponda y previa aprobación de la Junta, la comparecencia de los servidores públicos del Ejecutivo del Estado, del Poder Judicial, de los Municipios, de los Órganos Públicos Autónomos y Fideicomisos Públicos y Empresas de participación Estatales o Municipales, cuando se estudie, discuta o se investigue un negocio relativo a sus funciones;
+En la sesión en que la persona titular del Poder Ejecutivo rinda el Informe Anual sobre el estado que guarda la Administración Pública, se le concederá el uso de la palabra a una o un integrante de cada órgano de representación legislativa antes de la presentación del informe;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+XIII. Solicitar, por acuerdo de la comisión ordinaria que corresponda y previa aprobación de la Junta, la comparecencia de las personas servidoras públicas del Poder Ejecutivo del Estado, del Poder Judicial, de los Municipios, de los Órganos Públicos Autónomos y Fideicomisos Públicos y Empresas de participación Estatales o Municipales, cuando se estudie, discuta o se investigue un negocio relativo a sus funciones;
 
 Estas comparecencias se llevarán a cabo, por regla general, ante las comisiones ordinarias, en privado, y sólo en casos excepcionales, cuando la importancia o trascendencia del asunto lo amerite, se efectuarán ante el pleno de la Legislatura;
 
@@ -1049,11 +1109,13 @@ XVI. Al término de cada período de sesiones previo a su clausura, rendir un in
 
 XVII. Las demás que se deriven de esta ley, de su reglamento y de las determinaciones o acuerdos que emita la Legislatura.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 67.
 
-Las ausencias de quien presida la Mesa Directiva serán suplidas por la Vicepresidencia o la secretaría, las ausencias de éstos serán cubiertas con quien ejerza la suplencia general.
+Las ausencias de quien presida la Mesa Directiva serán suplidas por la Vicepresidencia o la Secretaría, las ausencias de éstas serán cubiertas con quien ejerza la suplencia general.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
 
 En caso de ausencia de más de dos integrantes de la Mesa Directiva, se procederá a la elección en votación económica de las diputadas y los diputados presentes para integrar la Mesa Directiva por única ocasión.
 
@@ -1097,9 +1159,9 @@ IX. Vigilar que todos los documentos que pasarán a consideración del pleno, es
 
 X. Asentar y firmar en todos los expedientes los trámites que se dieron a las resoluciones que sobre ellos se tomen, cuidando que no se alteren o enmienden las proposiciones, iniciativas o proyectos presentados;
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-XI. Dar cuenta de la votación de las diputadas y los diputados presentes en los asuntos a tratar que arroje el Sistema de Asistencia Legislativa y Votación Electrónica, informando al presidente del resultado de las mismas. En aquellos casos en los que no estuviere disponible dicho sistema, deberá tomar las votaciones respectivas;
+XI. Dar cuenta de la votación de las diputadas y los diputados presentes en los asuntos a tratar que arroje el Sistema de Asistencia Legislativa y Votación Electrónica, informando a la Presidencia del resultado de las mismas. En aquellos casos en los que no estuviere disponible dicho sistema, deberá tomar las votaciones respectivas;
 
 XII. Llevar a efecto los acuerdos y resoluciones de la Legislatura, cuya ejecución no corresponda expresamente a otro órgano de ésta;
 
@@ -1189,9 +1251,11 @@ Las Comisiones Ordinarias se integrarán por regla general con cinco diputadas y
 
 Para su organización interna, cada comisión contará con una Presidencia, una Secretaría y tres Vocales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 73.
 
-Las reuniones de las comisiones ordinarias serán públicas, salvo que se requiera desahogar asuntos que por su naturaleza no pueden ser de inmediato conocimiento público, para lo cual dicha determinación deberá ser aprobada por mayoría de los integrantes de la respectiva comisión o comisiones.
+Las reuniones de las comisiones ordinarias serán públicas, salvo que se requiera desahogar asuntos que por su naturaleza no pueden ser de inmediato conocimiento público, para lo cual dicha determinación deberá ser aprobada por mayoría de las y los integrantes de la respectiva comisión o comisiones.
 
 Cuando así lo acuerden, también podrán celebrar reuniones de información y audiencia a las que podrán asistir, a invitación expresa, representantes de grupos organizados, peritos u otras personas que puedan informar sobre determinado asunto.
 
@@ -1203,7 +1267,9 @@ Cuando las sesiones de la comisión o comisiones sean públicas, serán transmit
 
 Las Comisiones tomarán sus decisiones por mayoría de votos de quienes la integran. En caso de empate el asunto será sometido de nueva cuenta al análisis de la Comisión y si se obtuviera el mismo resultado, será desechado de plano para ese período, pudiendo sujetarse al trámite legislativo en el período de sesiones inmediato.
 
-Cuando alguno de los miembros de una Comisión disienta de la resolución adoptada, podrá expresar su opinión por escrito firmando como voto particular y dirigirlo a la Presidencia de la Mesa Directiva de la Legislatura a fin de que se someta a consideración del pleno.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+Cuando alguna persona integrante de una Comisión disienta de la resolución adoptada, podrá expresar su opinión por escrito, firmándola como voto particular y dirigirla a la Presidencia de la Mesa Directiva de la Legislatura a fin de que se someta a consideración del pleno.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2024)</small>
 
@@ -1233,11 +1299,15 @@ V. Asesorar técnica y jurídicamente en materia legislativa a la Presidencia e 
 
 VI. Dar seguimiento a las iniciativas y proposiciones turnadas a la comisión, así como elaborar las iniciativas, que le solicite la comisión;
 
-VII. Dar seguimiento a los acuerdos tomados por los integrantes de la comisión correspondiente;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+VII. Dar seguimiento a los acuerdos tomados por las y los integrantes de la comisión correspondiente;
 
 VIII. Realizar el informe de actividades y de los asuntos pendientes de atención y prepararlos para su entrega a la siguiente Legislatura, y
 
-IX. Las demás que le ordene el presidente de la comisión respectiva, o que deban ser atendidos de acuerdo a la naturaleza de la misma.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+IX. Las demás que le ordene la Presidencia de la comisión respectiva, o que deban ser atendidos de acuerdo a la naturaleza de la misma.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2023)</small>
 
@@ -1263,15 +1333,17 @@ Son comisiones de investigación, las que se integran a efecto de llevar a cabo 
 
 Son comisiones de protocolo, las de cortesía y las que se integran para tratar los asuntos relativos a comunicaciones y relaciones con los demás Poderes del Estado.
 
-Son comisiones de proceso jurisdiccional, las que se integran en términos de esta Ley para desahogar procedimientos relacionados con responsabilidades de los servidores públicos.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+Son comisiones de proceso jurisdiccional, las que se integran en términos de esta Ley para desahogar procedimientos relacionados con responsabilidades de las personas servidoras públicas.
 
 Son comisiones especiales, aquellas a las que la Legislatura les atribuya dicha naturaleza y que se integran con el objeto de desahogar los asuntos que ésta les confiera en el acto de su aprobación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 78.
 
-Los miembros de las Comisiones Transitorias de Investigación, de procesos jurisdiccionales y las especiales, serán designados por el pleno de la Legislatura del Estado a propuesta de la Junta. Los miembros de las Comisiones de Protocolo serán designados por la Presidencia de la Mesa Directiva.
+Las y los integrantes de las Comisiones Transitorias de Investigación, de Procesos Jurisdiccionales y las Especiales, serán designados por el pleno de la Legislatura del Estado a propuesta de la Junta. Las y los integrantes de las Comisiones de Protocolo serán designados por la Presidencia de la Mesa Directiva.
 
 Las comisiones especiales podrán integrarse mediante acuerdo económico de la Junta cuando la urgencia o importancia de un asunto lo amerite.
 
@@ -1283,19 +1355,19 @@ Las comisiones especiales podrán integrarse mediante acuerdo económico de la J
 
 La Comisión Permanente es el órgano de la Legislatura que, durante los recesos de ésta, mantiene la actividad del Poder Legislativo en aquellos asuntos que expresamente le señala la Constitución, la Ley y demás disposiciones legales y reglamentarias.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 80.
 
-La Comisión Permanente se compondrá de siete integrantes, que durarán en su encargo el Período de Receso para el que fueron designados. Será presidida por una Mesa Directiva que se integrará con una Presidencia y dos Secretarías. En caso de ausencia de quien ejerce la Presidencia, cualquiera de quienes ejercen las Secretarías asumirá las funciones de aquélla.
+La Comisión Permanente se compondrá de siete personas integrantes, que durarán en su encargo el Período de Receso para el que fueron designadas. Será presidida por una Mesa Directiva que se integrará con una Presidencia y dos Secretarías. En caso de ausencia de quien ejerce la Presidencia, cualquiera de quienes ejercen las Secretarías asumirá las funciones de aquélla.
 
 ###### Artículo 81.
 
 En la misma sesión de clausura del período de sesiones ordinarias de la Legislatura, se someterá a votación la propuesta que la Junta presente para la integración de la comisión permanente.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-La propuesta a que se refiere el párrafo anterior, deberá precisar quiénes de los miembros propuestos, fungirán en la Presidencia y en las dos Secretarías de la Comisión Permanente.
+La propuesta a que se refiere el párrafo anterior, deberá precisar quiénes de las y los integrantes propuestos, fungirán en la Presidencia y en las dos Secretarías de la Comisión Permanente.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
 
@@ -1321,9 +1393,11 @@ Las sesiones de la Comisión Permanente tendrán lugar una vez por semana en los
 
 Las sesiones de la Comisión Permanente se llevarán a cabo con la asistencia de cuando menos cinco de sus miembros, debiendo estar presente quien preside. Cuando en casos excepcionales que, por el ejercicio de su investidura, no pueda asistir quien preside, la sesión se llevará a cabo por el vicepresidente de la Comisión Permanente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 85.
 
-Las sesiones que celebre la comisión permanente serán públicas, excepto cuando los asuntos a tratar tengan el carácter de reservados o así lo considere la mayoría de sus miembros.
+Las sesiones que celebre la Comisión Permanente serán públicas, excepto cuando los asuntos a tratar tengan el carácter de reservados o así lo considere la mayoría de sus integrantes.
 
 Se realizarán en el lugar que designe la comisión permanente dentro del Poder Legislativo, salvo cuando la comisión permanente presida las sesiones solemnes, en cuyo caso se celebrarán en el salón de sesiones del recinto oficial.
 
@@ -1331,11 +1405,11 @@ Se realizarán en el lugar que designe la comisión permanente dentro del Poder 
 
 La comisión permanente no suspenderá sus trabajos durante los períodos extraordinarios de sesiones que se convoquen.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 87.
 
-La Comisión Permanente adoptará sus resoluciones por mayoría de votos de sus miembros presentes y serán consignadas en las actas respectivas que deberán ser firmadas por quienes ocupan la Presidencia y la Secretaría.
+La Comisión Permanente adoptará sus resoluciones por mayoría de votos de sus integrantes presentes y serán consignadas en las actas respectivas que deberán ser firmadas por quienes ocupan la Presidencia y la Secretaría.
 
 #### SECCIÓN TERCERA. De las atribuciones de la Comisión Permanente
 
@@ -1343,17 +1417,21 @@ La Comisión Permanente adoptará sus resoluciones por mayoría de votos de sus 
 
 Son atribuciones de la comisión permanente:
 
-I. Acordar por sí o a solicitud del Ejecutivo del Estado la convocatoria a sesiones extraordinarias para el desahogo de uno o más de los siguientes asuntos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-a) Nombrar Gobernador provisional en los casos previstos en los artículos 83, 84 y 85 fracción III, de la Constitución;
+I. Acordar por sí o a solicitud de la persona titular del Poder Ejecutivo del Estado la convocatoria a sesiones extraordinarias para el desahogo de uno o más de los siguientes asuntos:
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+a) Nombrar Gobernadora o Gobernador provisional en los casos previstos en los artículos 83, 84 y 85 fracción III, de la Constitución;
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
 
 b) Designar a quienes integrarán los concejos municipales, en los casos previstos en la Constitución;
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-c) Recibir la protesta de ley y aprobar o desechar nombramientos, renuncias y destituciones, solicitadas por la persona titular del Poder Ejecutivo y de magistradas y Magistrados del Tribunal Superior de Justicia, y
+c) Recibir la protesta de ley y aprobar o desechar nombramientos, renuncias y destituciones, solicitadas por la persona titular del Poder Ejecutivo y recibir la protesta de ley y las renuncias de las Magistraturas del Poder Judicial, y
 
 d) En los demás casos en los que a juicio de la comisión permanente sea necesario convocar a la Legislatura en pleno.
 
@@ -1361,9 +1439,9 @@ II. Instalar y presidir la primera Junta preparatoria de la nueva Legislatura, e
 
 III. Resolver los asuntos de su competencia y recibir durante los recesos de la Legislatura las Iniciativas de ley o decreto y proposiciones que le dirijan, turnándolas a las comisiones respectivas para análisis y elaboración de dictamen, a fin de que se despachen en el período inmediato de sesiones;
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-IV. Conceder o negar solicitudes de licencia a las magistradas y magistrados del Tribunal Superior de Justicia, a los magistrados del Tribunal de Justicia Administrativa así como a las diputadas y los diputados;
+IV. Conceder o negar solicitudes de licencia a las Magistradas y Magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, del Tribunal de Justicia Administrativa y Anticorrupción, así como a las diputadas y los diputados;
 
 > <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2024)</small>
 
@@ -1391,17 +1469,17 @@ Las resoluciones de la comisión permanente que recaigan con motivo del ejercici
 
 A efecto de garantizar la libre expresión de las corrientes ideológicas representadas en la Legislatura que coadyuven al mejor desarrollo del proceso legislativo, orienten y estimulen la formación de criterios comunes en los debates, las diputadas y los diputados pueden organizarse integrando grupos legislativos, ser representantes legislativos, independientes o sin partido.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 92.
 
-Los grupos legislativos se integran con diputadas y diputados, que fueron postulados por un partido político o que hayan manifestado su voluntad de permanecer en el ejercicio del cargo integrando algún grupo legislativo y se identifican por corresponder a cada uno de los partidos políticos con representación en la Legislatura. Se integran cuando menos por dos diputadas o diputados que formen parte de éstos. Las y los diputados de la misma filiación partidista no podrán constituir más de un grupo legislativo.
+Los grupos legislativos se integran con diputadas y diputados, que fueron postulados por un partido político o que hayan manifestado su voluntad de permanecer en el ejercicio del cargo integrando algún grupo legislativo y se identifican por corresponder a cada uno de los partidos políticos con representación en la Legislatura. Se integran cuando menos por dos diputadas o diputados que formen parte de éstos. Las diputadas y los diputados de la misma filiación partidista no podrán constituir más de un grupo legislativo.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 93.
 
-Quien coordina un grupo legislativo es el representante y portavoz de éste, promueve los intereses de sus integrantes participando con voz y voto en la Junta, así como en la programación de los trabajos legislativos.
+Quien coordina un grupo legislativo es la o el representante y portavoz de éste, promueve los intereses de sus integrantes participando con voz y voto en la Junta, así como en la programación de los trabajos legislativos.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
 
@@ -1423,11 +1501,11 @@ Cuando un partido político con registro en el estado se encuentre representado 
 
 Quien haya sido electo como diputada o diputado independiente será reconocido con tal denominación al interior de la Legislatura.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 97.
 
-La diputada o diputado que no desee integrarse a algún grupo legislativo o ser representante legislativo será considerado diputado sin partido y tendrá derecho a las mismas consideraciones que todos los legisladores.
+La diputada o diputado que no desee integrarse a algún grupo legislativo o ser representante legislativo será considerado diputada o diputado sin partido y tendrá derecho a las mismas consideraciones que todas y todos los legisladores.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2024)</small>
 
@@ -1441,9 +1519,9 @@ Todos los órganos de representación deberán comprobar el gasto de dichos recu
 
 La cuenta anual de las subvenciones que se asignen a los órganos de representación se incorporará a la Cuenta Pública de la Legislatura, para efectos de las facultades que competen al órgano de fiscalización.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-La ocupación de los espacios y las curules en el salón de sesiones se hará de forma que los integrantes de cada grupo legislativo queden ubicados en un área regular y continua. La asignación definitiva de las áreas que correspondan a las diputadas y diputados estará a cargo de la Junta. Para ello, las coordinaciones de los grupos legislativos formularán proposiciones de ubicación.
+La ocupación de los espacios y las curules en el salón de sesiones se hará de forma que las y los integrantes de cada grupo legislativo queden ubicados en un área regular y continua. La asignación definitiva de las áreas que correspondan a las diputadas y diputados estará a cargo de la Junta. Para ello, las coordinaciones de los grupos legislativos formularán proposiciones de ubicación.
 
 ###### Artículo 99.
 
@@ -1457,27 +1535,27 @@ La Secretaría General a más tardar en el mes de diciembre del mismo año publi
 
 ### CAPÍTULO PRIMERO. De la Secretaría General
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 100.
 
-La Secretaria General es el órgano del Poder Legislativo encargado de coordinar los servicios de apoyo legislativo, técnicos y administrativos, cuya función es la dirección y administración de los recursos humanos, materiales y financieros así como la prestación de los servicios de asistencia y apoyo a los Órganos Legislativos y de representación. Sus atribuciones serán las conferidas por esta ley y su reglamento Interior.
+La Secretaría General es el órgano del Poder Legislativo encargado de coordinar los servicios de apoyo legislativo, técnicos y administrativos, cuya función es la dirección y administración de los recursos humanos, materiales y financieros así como la prestación de los servicios de asistencia y apoyo a los Órganos Legislativos y de representación. Sus atribuciones serán las conferidas por esta ley y su reglamento Interior.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
+La Secretaría General estará a cargo de una persona titular que será nombrada y removida libremente por la Junta.
 
-La Secretaria General estará a cargo de una persona titular que será nombrada y removida libremente por la Junta.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 101.
 
-Para ocupar y desempeñar el cargo de titular de la Secretaría General del Poder Legislativo, se requiere:
+Para ocupar y desempeñar el cargo de persona titular de la Secretaría General del Poder Legislativo, se requiere:
 
-I. Ser ciudadano mexicano en pleno goce de sus derechos, tener por lo menos veinticinco años cumplidos al día de su designación, con residencia efectiva no menor a cinco años en el Estado;
+I. Tener ciudadanía mexicana en pleno goce de sus derechos, tener por lo menos veinticinco años cumplidos al día de su designación, con residencia efectiva no menor a cinco años en el Estado;
 
-II. Ser de notoria honradez y no haber sido sentenciado por delito doloso que amerite pena corporal, ni sancionado por responsabilidad administrativa;
+II. Ser de notoria honradez y no haber sido sentenciada por delito doloso que amerite pena corporal, ni sancionada por responsabilidad administrativa;
 
-III. No haber sido sentenciado por delitos patrimoniales o estar inhabilitado por cualquiera de los tres órdenes de gobierno para desempeñar un empleo, cargo o comisión en el servicio público, y
+III. No haber sido sentenciada por delitos patrimoniales o estar inhabilitada por cualquiera de los tres órdenes de gobierno para desempeñar un empleo, cargo o comisión en el servicio público, y
 
-IV. Poseer título y cédula de Licenciado en Derecho, Contador Público o carreras afines.
+IV. Poseer título y cédula de Licenciatura en Derecho, en Contaduría Pública o carreras afines.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2024)</small>
 
@@ -1515,13 +1593,15 @@ La Secretaría General estará encargada de la Oficialía de Partes del Poder Le
 
 Los horarios de atención de la oficialía de partes serán los días hábiles de lunes a viernes de 9:00 horas a 21:00 horas, para lo cual la Secretaría General dispondrá los elementos necesarios para dar cumplimiento a estos horarios de atención.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 104.
 
-Para ser titular de los órganos técnicos y administrativos, de las subsecretarías, unidades, coordinación y demás direcciones del Poder Legislativo, se exigirán los requisitos señalados en el artículo 95 de la Constitución, con excepción de las personas titulares de la Dirección Jurídica y de Análisis Jurídico Legislativo, quienes además deberán ser abogado o licenciado en derecho, con título y cédula profesional expedidos por autoridad o institución legalmente facultadas para ello.
+Para ser persona titular de los órganos técnicos y administrativos, de las Subsecretarías, Unidades, Coordinación y demás Direcciones del Poder Legislativo, se exigirán los requisitos señalados en el artículo 95 de la Constitución, con excepción de las personas titulares de la Dirección Jurídica y de Análisis Jurídico Legislativo, quienes además deberán tener licenciatura en derecho, con título y cédula profesional expedidos por autoridad o institución legalmente facultadas para ello.
 
-Tratándose del titular del Instituto de Investigaciones Legislativas además de los requisitos establecidos en el artículo 95 de la Constitución, se requerirá ser abogado o licenciado en derecho, con título y cédula profesional expedidos por autoridad o institución legalmente facultadas para ello y contar preferentemente con experiencia en el área de investigación.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+Tratándose de la persona titular del Instituto de Investigaciones Legislativas además de los requisitos establecidos en el artículo 95 de la Constitución, se requerirá tener licenciatura en derecho, con título y cédula profesional expedidos por autoridad o institución legalmente facultadas para ello y contar preferentemente con experiencia en el área de investigación.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
 
@@ -1571,7 +1651,9 @@ V. Proponer a la Junta, anteproyectos de iniciativas de leyes, reformas o adicio
 
 VI. Coordinarse con organismos oficiales y privados en la elaboración de anteproyectos de iniciativas de leyes y decretos que correspondan a las áreas de su trabajo;
 
-VII. Proponer a la Junta la contratación de investigadores externos que se hagan necesarios para apoyo o para desarrollar trabajos especiales que lleve a cabo el Instituto;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+VII. Proponer a la Junta la contratación de personas investigadoras externas que se hagan necesarias para apoyo o para desarrollar trabajos especiales que lleve a cabo el Instituto;
 
 VIII. Elaborar, a solicitud de la Junta, las convocatorias para la participación de la sociedad en foros de consulta y paneles, sobre temas jurídicos parlamentarios que sean de interés social;
 
@@ -1593,7 +1675,9 @@ XVI. Establecer mecanismos de coordinación y cooperación con institutos y enti
 
 XVII. Realizar estudios de impacto social y económico de la legislación vigente, así como en proyecto, y
 
-XVIII. Las demás inherentes a la consecución de las anteriores y las que expresamente le señale la Legislatura, la Junta o el Coordinador del Instituto.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+XVIII. Las demás inherentes a la consecución de las anteriores y las que expresamente le señale la Legislatura, la Junta o la Coordinación del Instituto.
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
@@ -1649,25 +1733,35 @@ V. El diario de debates;
 
 VI. Las versiones estenográficas de las sesiones;
 
-VII. La asistencia de los diputados de cada una de sus sesiones del pleno, de la comisión permanente y de las comisiones;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+VII. La asistencia de las diputadas y los diputados de cada una de sus sesiones del pleno, de la comisión permanente y de las comisiones;
 
 VIII. Las iniciativas de ley, decretos, declaratorias, puntos de acuerdo, la fecha en que se recibió, las comisiones a las que se turnaron, y los dictámenes que, en su caso, recaigan sobre las mismas;
 
 IX. Las leyes, decretos, declaratorias y acuerdos aprobados por la Legislatura o la comisión permanente;
 
-X. Las convocatorias, actas, acuerdos, listas de asistencia y votación de las comisiones, de las sesiones del pleno y de la comisión permanente, identificando el sentido del voto, en votación económica, y por cada legislador, en la votación nominal, así como votos particulares y reservas de los dictámenes y acuerdos sometidos a consideración;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+X. Las convocatorias, actas, acuerdos, listas de asistencia y votación de las comisiones, de las sesiones del pleno y de la comisión permanente, identificando el sentido del voto, en votación económica, y por cada diputada o diputado, en la votación nominal, así como votos particulares y reservas de los dictámenes y acuerdos sometidos a consideración;
 
 XI. Las resoluciones definitivas sobre juicios políticos;
 
 XII. Las versiones públicas de la información entregada en las audiencias públicas, comparecencias y en los procedimientos de designación, ratificación, elección, reelección o cualquier otro;
 
-XIII. Las contrataciones de servicios personales señalando el nombre del prestador del servicio, objeto, monto y vigencia del contrato de los órganos de gobierno, comisiones, órganos de representación y centros de estudio u órganos de investigación;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+XIII. Las contrataciones de servicios personales señalando el nombre de la persona prestadora del servicio, objeto, monto y vigencia del contrato de los órganos de gobierno, comisiones, órganos de representación y centros de estudio u órganos de investigación;
 
 XIV. El informe semestral del ejercicio presupuestal del uso y destino de los recursos financieros de los órganos de gobierno, comisiones, órganos de representación y centros de estudio u órganos de investigación;
 
-XV. La dirección donde se encuentren ubicadas las casas de atención ciudadana de aquellos diputados que cuenten con una;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-XVI. Los informes de actividades que presentan los diputados, en términos de lo dispuesto en esta Ley;
+XV. La dirección donde se encuentren ubicadas las casas de atención ciudadana de aquellas diputadas o diputados que cuenten con una;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+XVI. Los informes de actividades que presentan las diputadas o diputados, en términos de lo dispuesto en esta Ley;
 
 XVII. Los resultados de los estudios o investigaciones de naturaleza económica, política y social que realice el Instituto de Investigaciones Legislativas, y
 
@@ -1679,13 +1773,19 @@ La Unidad de Transparencia, Acceso a la Información Pública y Protección de D
 
 I. Recabar, publicar, difundir y actualizar la información a que se refiere el artículo anterior y actualizarla periódicamente, conforme la normatividad aplicable;
 
-II. Recibir y tramitar las solicitudes de acceso a la información y darles seguimiento hasta la entrega de la misma, en la forma y modalidad que la haya pedido el interesado conforme a la normatividad aplicable;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-III. Auxiliar y asesorar a los particulares en la elaboración de solicitudes de acceso a la Información que lleguen al Poder Legislativo, y en su caso, orientarlos acerca de los sujetos obligados competentes conforme a la normatividad aplicable;
+II. Recibir y tramitar las solicitudes de acceso a la información y darles seguimiento hasta la entrega de la misma, en la forma y modalidad que la haya pedido la persona interesada conforme a la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+III. Auxiliar y asesorar a las personas particulares en la elaboración de solicitudes de acceso a la Información que lleguen al Poder Legislativo, y en su caso, orientarlas acerca de los sujetos obligados competentes conforme a la normatividad aplicable;
 
 IV. Realizar los trámites internos necesarios para la atención de las solicitudes de acceso a la información y en su caso asesorar a las áreas correspondientes;
 
-V. Efectuar las notificaciones a los solicitantes, conforme a la ley de la materia;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+V. Efectuar las notificaciones a las personas solicitantes, conforme a la ley de la materia;
 
 VI. Proponer al comité de transparencia los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información, conforme a la normatividad aplicable;
 
@@ -1705,7 +1805,9 @@ XIII. Elaborar el manual de procedimientos para asegurar la adecuada atención a
 
 XIV. Elaborar un programa para facilitar la obtención de información pública, que deberá ser actualizado periódicamente;
 
-XV. Difundir entre los servidores públicos los beneficios del manejo público de la información, así como sus responsabilidades en el buen uso y conservación de ésta;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+XV. Difundir entre las personas servidoras públicas los beneficios del manejo público de la información, así como sus responsabilidades en el buen uso y conservación de ésta;
 
 > <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2024)</small>
 
@@ -1743,17 +1845,21 @@ d) Las demás Unidades que se requiera para el ejercicio de sus funciones.
 
 La persona titular de la Subsecretaría de Servicios Administrativos tendrá entre otras, las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-I. Asistir a la persona titular de la Secretaría General en el cumplimiento de sus funciones y acordar con él, los asuntos de su responsabilidad;
+I. Asistir a la persona titular de la Secretaría General en el cumplimiento de sus funciones y acordar con ella, los asuntos de su responsabilidad;
 
-II. Dirigir los trabajos de las áreas a él adscritas y acordar con los titulares de cada una de ellas los asuntos de su competencia;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+II. Dirigir los trabajos de las áreas a ella adscritas y acordar con las personas titulares de cada una de ellas los asuntos de su competencia;
 
 III. Cumplir las demás funciones que le confieren esta ley y los ordenamientos relativos a la actividad administrativa y financiera;
 
 IV. Gestionar ante la secretaría del ramo correspondiente de la Administración Pública del Estado, con la oportunidad que se requiera, la obtención de los recursos asignados al Poder Legislativo, preferentemente en períodos trimestrales;
 
-V. Vigilar bajo su responsabilidad se realicen los pagos de dietas de los diputados, gastos y sueldos de todos los servidores del Poder Legislativo así como de los demás compromisos contraídos, atendiendo a las indicaciones del Secretario General, y
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+V. Vigilar bajo su responsabilidad se realicen los pagos de dietas de las diputadas y los diputados, gastos y sueldos de todas las personas servidoras públicas del Poder Legislativo así como de los demás compromisos contraídos, atendiendo a las indicaciones de la Secretaría General, y
 
 > <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2024)</small>
 
@@ -1795,11 +1901,15 @@ V. Efectuar el pago inmediato de los gastos del Poder Legislativo;
 
 VI. Prestar los servicios de recursos materiales;
 
-VII. Vigilar que los responsables directos de los bienes muebles del Poder Legislativo del Estado y sus órganos cuiden de la conservación de los mismos;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+VII. Vigilar que las personas responsables directas de los bienes muebles del Poder Legislativo del Estado y sus órganos cuiden de la conservación de los mismos;
 
 VIII. Prestar los servicios generales;
 
-IX. Solicitar a la contraloría interna la práctica de auditorías a las áreas y órganos del Poder Legislativo del Estado;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+IX. Solicitar al Órgano Interno de Control la práctica de auditorías a las áreas y órganos del Poder Legislativo del Estado;
 
 X. Realizar y suscribir las declaraciones fiscales para cuyo efecto específico tendrá la representación del Poder Legislativo;
 
@@ -1821,7 +1931,9 @@ La Dirección de Atención Ciudadana tendrá las siguientes funciones:
 
 I. Coordinar las casas de gestión que se encuentren en funcionamiento;
 
-II. Coadyuvar con las peticiones que se formulen a través de los diputados de las casas de gestión y llevar un seguimiento de los resultados obtenidos con respecto a las mismas, elaborando los resúmenes o concentrados para su análisis e información;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+II. Coadyuvar con las peticiones que se formulen a través de las diputadas y los diputados de las casas de gestión y llevar un seguimiento de los resultados obtenidos con respecto a las mismas, elaborando los resúmenes o concentrados para su análisis e información;
 
 III. Rendir los informes que le solicite la Junta respecto de su actividad, y
 
@@ -1837,17 +1949,23 @@ La Dirección Jurídica es el área encargada de la atención de los asuntos jur
 
 I. Presentar denuncias o querellas en representación del Poder Legislativo del Estado así como darle el trámite legal correspondiente a aquellas que se presenten en su contra;
 
-II. Atender los juicios del orden familiar relacionados con trabajadores del Poder Legislativo;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+II. Atender los juicios del orden familiar relacionados con las personas trabajadoras del Poder Legislativo;
 
 III. Atender los procedimientos laborales en los que el Poder Legislativo sea parte, dentro y fuera de sede jurisdiccional;
 
-IV. Intervenir en cualquier otro procedimiento judicial, laboral o administrativo, ya sea federal, estatal o municipal en que la Legislatura sea parte, como apoderado legal de la misma, previa instrucción del presidente;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+IV. Intervenir en cualquier otro procedimiento judicial, laboral o administrativo, ya sea federal, estatal o municipal en que la Legislatura sea parte, como apoderado legal de la misma, previa instrucción de la Presidencia;
 
 V. Elaborar, revisar y llevar el archivo de los convenios y contratos de los que el Poder Legislativo sea parte;
 
 VI. Atender las consultas que en materia contenciosa jurídica le plantee la Junta o la Secretaría General;
 
-VII. A través del personal profesional adscrito, dar orientación y apoyar las gestiones de asistencia legal que los diputados soliciten para personas de escasos recursos, y
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+VII. A través del personal profesional adscrito, dar orientación y apoyar las gestiones de asistencia legal que las diputadas y los diputados soliciten para personas de escasos recursos, y
 
 > <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2024)</small>
 
@@ -1879,17 +1997,21 @@ V. Las demás unidades que resulten necesarias para la realización de sus funci
 
 La persona titular de la Subsecretaría de Servicios Legislativos tendrá entre otras, las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-I. Asistir a la persona titular de la Secretaría General en el cumplimiento de sus funciones, acordar con él los asuntos de su responsabilidad y suplirlo cuando no pueda concurrir a las reuniones de la Mesa Directiva;
+I. Asistir a la persona titular de la Secretaría General en el cumplimiento de sus funciones, acordar con ella los asuntos de su responsabilidad y suplirla cuando no pueda concurrir a las reuniones de la Mesa Directiva;
 
 > <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2024)</small>
 
 II. Verificar que Las Sesiones del Pleno, de la Comisión Permanente y de las Comisiones, se desarrollen con normalidad coadyuvando con las presidencias de éstas;
 
-III. Otorgar el apoyo logístico y jurídico que requieran los diputados, las comisiones, el pleno y la comisión permanente;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-IV. Dirigir los trabajos de las áreas adscritas a éste y acordar con los titulares de cada una de ellas los asuntos de su competencia, y
+III. Otorgar el apoyo logístico y jurídico que requieran las diputadas y los diputados, las comisiones, el pleno y la comisión permanente;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+IV. Dirigir los trabajos de las áreas adscritas a ésta y acordar con las y los titulares de cada una de ellas los asuntos de su competencia, y
 
 > <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2024)</small>
 
@@ -1913,7 +2035,9 @@ III. Elaborar los dictámenes de las iniciativas o decretos turnados a las comis
 
 IV. Rendir los informes previos y justificados en los juicios de amparo en que la Legislatura sea señalada como autoridad responsable relacionadas con los decretos que expida;
 
-V. Proporcionar los elementos de juicio para formular iniciativas o dictámenes de leyes o decretos que le soliciten los diputados por conducto del titular de la subsecretaría de servicios legislativos;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+V. Proporcionar los elementos de juicio para formular iniciativas o dictámenes de leyes o decretos que le soliciten las diputadas y los diputados por conducto de la persona titular de la Subsecretaría de Servicios Legislativos;
 
 VI. Rendir las opiniones técnico - jurídicas que le soliciten los órganos y comisiones del poder legislativo;
 
@@ -1921,7 +2045,9 @@ VII. Auxiliar a las comisiones ordinarias o transitorias en el desempeño de sus
 
 VIII. Realizar notificaciones por estrados, personales o de cualquier índole en relación a temas correspondiente a su área o delegadas por las comisiones, y
 
-IX. Las demás inherentes a la consecución de las anteriores y las que expresamente le señalen la Legislatura, las comisiones, el Secretario General o el titular de la Subsecretaría de Servicios Legislativos.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+IX. Las demás inherentes a la consecución de las anteriores y las que expresamente le señalen la Legislatura, las comisiones, la persona titular de la Secretaría General o de la Subsecretaría de Servicios Legislativos.
 
 #### SECCIÓN SEGUNDA. De la Dirección de Control del Proceso Legislativo
 
@@ -1965,7 +2091,9 @@ XI. Llevar la crónica de las actividades legislativas y de las que se realicen 
 
 XII. Actualizar los ordenamientos jurídicos estatales de conformidad con las reformas aprobadas por la Legislatura y vigilar su publicación en la página oficial de internet del Poder Legislativo, y
 
-XIII. Las demás inherentes al cumplimiento de las anteriores y las que expresamente le designe la Legislatura y el titular de la Subsecretaría de Servicios Legislativos.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+XIII. Las demás inherentes al cumplimiento de las anteriores y las que expresamente le designe la Legislatura y la persona titular de la Subsecretaría de Servicios Legislativos.
 
 #### SECCIÓN TERCERA. De la Dirección de Tecnologías de la Información
 
@@ -1983,7 +2111,9 @@ II. Administrar el correcto funcionamiento del Sistema de Asistencia Legislativa
 
 III. Auxiliar a la Junta, las comisiones y demás órganos del Poder Legislativo en el procesamiento electrónico de la documentación e información que generen con motivo del ejercicio de sus respectivas funciones, y
 
-IV. Las demás inherentes al cumplimiento de las anteriores y las que expresamente le designe el titular de la Subsecretaría de Servicios Legislativos.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+IV. Las demás inherentes al cumplimiento de las anteriores y las que expresamente le designe la persona titular de la Subsecretaría de Servicios Legislativos.
 
 #### SECCIÓN CUARTA. De la Dirección de Archivo General y Biblioteca
 
@@ -2001,7 +2131,9 @@ II. Diseñar, aplicar y vigilar las políticas de los procesos técnicos de sele
 
 III. Dirigir y publicar el órgano informativo del Poder Legislativo, así como cuidar de su circulación;
 
-IV. Promover la edición de publicaciones de leyes y decretos que se consideren de interés para la consulta de los propios diputados, así como del público en general;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+IV. Promover la edición de publicaciones de leyes y decretos que se consideren de interés para la consulta de las propias diputadas y diputados, así como del público en general;
 
 V. Llevar un control de los Periódicos Oficiales del Estado, así como de los Diarios Oficiales de la Federación por orden cronológico, para uso exclusivo de consulta interna;
 
@@ -2009,7 +2141,9 @@ VI. Promover la traducción y difusión de leyes y decretos a las lenguas de los
 
 VII. Crear y llevar el control de la hemeroteca del Poder Legislativo, preservando el acervo hemerográfico, y
 
-VIII. Las demás inherentes al cumplimiento de las anteriores y las que expresamente le designe el titular de la Subsecretaría de Servicios Legislativos.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+VIII. Las demás inherentes al cumplimiento de las anteriores y las que expresamente le designe la persona titular de la Subsecretaría de Servicios Legislativos.
 
 ###### Artículo 133.
 
@@ -2373,13 +2507,17 @@ IV. Ordenamientos a modificar o crear, texto normativo propuesto y artículos tr
 
 V. Señalar lugar y fecha de emisión, y
 
-VI. Contener nombre y firma autógrafa de su autor.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+VI. Contener nombre y firma autógrafa de su autora o autor.
 
 Las iniciativas de ley o decreto se presentarán ante la Oficialía de Partes del Poder Legislativo asignándoles un número de folio y de manera inmediata serán remitidas a la Dirección de Control del Proceso Legislativo.
 
 En el término de cinco días hábiles contados a partir de la presentación de cualquier iniciativa, la Dirección de Control del Proceso Legislativo determinará si las iniciativas cumplen o no con las formalidades esenciales que prevé el presente artículo.
 
-La Dirección de Control del Proceso Legislativo en un término de veinticuatro horas siguientes a la revisión, deberá publicar en los estrados del Poder Legislativo del Estado con sede en la ciudad de Chetumal, la lista de aquellas iniciativas que no cumplan con los requisitos formales de presentación y prevendrá por un término de cinco días hábiles al autor de la iniciativa que haya presentado la propuesta, a fin de que subsane las omisiones. En caso de no dar el debido cumplimiento al requerimiento, la propuesta será desechada y por tanto, no podrá pasar a su lectura en el pleno del Poder Legislativo.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+La Dirección de Control del Proceso Legislativo en un término de veinticuatro horas siguientes a la revisión, deberá publicar en los estrados del Poder Legislativo del Estado con sede en la ciudad de Chetumal, la lista de aquellas iniciativas que no cumplan con los requisitos formales de presentación y prevendrá por un término de cinco días hábiles a la autora o autor de la iniciativa que haya presentado la propuesta, a fin de que subsane las omisiones. En caso de no dar el debido cumplimiento al requerimiento, la propuesta será desechada y por tanto, no podrá pasar a su lectura en el pleno del poder Legislativo.
 
 Aquellas iniciativas que cumplan con los requisitos formales, deberán ser leídas por el pleno legislativo dentro de los treinta días naturales a la verificación del cumplimiento de los requisitos formales. Posteriormente a su lectura, deberán ser turnadas de manera inmediata a la comisión o comisiones respectivas.
 
@@ -2411,21 +2549,25 @@ c) La iniciativa con carácter preferente en caso de ser aprobada por el pleno, 
 
 Las iniciativas preferentes no podrán versar sobre reformas que modifiquen la Constitución Política del Estado Libre y Soberano de Quintana Roo, reformas en materia electoral y fiscal.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 144.
 
-Si en la primera lectura en pleno de cualquier iniciativa, la Legislatura estima que los motivos de la misma no son suficientes o se requiere una ampliación de los conceptos y alcances, se turnará a la comisión o comisiones correspondientes y se citará a comparecer al autor por conducto de la Dirección de Control del Proceso Legislativo, fijando fecha y hora, para que los exponga con mayores datos y elementos de juicio.
+Si en la primera lectura en pleno de cualquier iniciativa, la Legislatura estima que los motivos de la misma no son suficientes o se requiere una ampliación de los conceptos y alcances, se turnará a la comisión o comisiones correspondientes y se citará a comparecer a la autora o autor por conducto de la Dirección de Control del Proceso Legislativo, fijando fecha y hora, para que los exponga con mayores datos y elementos de juicio.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
+Estas comparecencias se llevarán a cabo, por regla general ante las comisiones ordinarias correspondientes y, únicamente en caso excepcional, cuando así lo acuerde la Legislatura, se efectuarán ante el pleno. En este último caso, en la sesión en que comparezca la autora o el autor de la iniciativa, se le concederá el uso de la palabra desde la tribuna y dará respuesta a los cuestionamientos que le hicieren las diputadas y los diputados.
 
-Estas comparecencias se llevarán a cabo, por regla general ante las comisiones ordinarias correspondientes y, únicamente en caso excepcional, cuando así lo acuerde la Legislatura, se efectuarán ante el pleno. En este último caso, en la sesión en que comparezca el autor de la Iniciativa, se le concederá el uso de la palabra desde la tribuna y dará respuesta a los cuestionamientos que le hicieren las diputadas y los diputados.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 145.
 
-Si el autor de la iniciativa fuere el titular del Ejecutivo, la Legislatura podrá invitar a los secretarios del despacho, a los titulares de organismos descentralizados, entidades paraestatales o fideicomisos públicos, cuyas funciones u objetivos se relacionen con el asunto de la Iniciativa, para que ilustren, amplíen o informen acerca de los conceptos y alcances de la Iniciativa en cuestión.
+Si la autora o el autor de la iniciativa fuere la persona titular del Poder Ejecutivo, la Legislatura podrá invitar a las secretarias y a los secretarios del despacho, a las personas titulares de organismos descentralizados, entidades paraestatales o fideicomisos públicos, cuyas funciones u objetivos se relacionen con el asunto de la iniciativa, para que ilustren, amplíen o informen acerca de los conceptos y alcances de la iniciativa en cuestión.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 146.
 
-Dada la primera lectura de cualquier iniciativa, si no hay observaciones conforme a los artículos anteriores, se turnará a la comisión o comisiones que señale el presidente de la mesa directiva, para su estudio, análisis y dictamen correspondiente.
+Dada la primera lectura de cualquier iniciativa, si no hay observaciones conforme a los artículos anteriores, se turnará a la comisión o comisiones que señale la persona titular de la Presidencia de la Mesa Directiva, para su estudio, análisis y dictamen correspondiente.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
 
@@ -2433,15 +2575,15 @@ Dada la primera lectura de cualquier iniciativa, si no hay observaciones conform
 
 En los casos de urgencia u obvia resolución calificados por el voto de la mayoría simple de las diputadas y los diputados presentes, se podrá dar curso a las Iniciativas dispensando de su lectura y dictamen, procediendo a discutirse en ese mismo momento, observándose las formalidades reglamentarias del debate.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 148.
 
-Las proposiciones o proyectos de las diputadas y los diputados o ciudadanos que no sean iniciativas de ley o decreto, se sujetarán al trámite siguiente:
+Las proposiciones o proyectos de las diputadas y los diputados o de las ciudadanas y ciudadanos que no sean iniciativas de ley o decreto, se sujetarán al trámite siguiente:
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-I. Se presentarán por escrito y firmados por sus autores ante la Presidencia de la Mesa Directiva y serán leídos por una sola vez en esa misma sesión, en la cual uno de sus autores podrá exponer los fundamentos y razones de la proposición, y
+I. Se presentarán por escrito y firmados por sus autores ante la Presidencia de la Mesa Directiva y serán leídos por una sola vez en esa misma sesión, en la cual una o uno de sus autores podrá exponer los fundamentos y razones de la proposición, y
 
 II. Al término de las intervenciones se someterá a votación si se admite o no a discusión la proposición, y de aceptarse pasará a comisión. En caso contrario se tendrá por desechada.
 
@@ -2501,21 +2643,25 @@ En las proposiciones o proyectos que no sean iniciativas de Ley o Decreto, la Co
 
 El plazo máximo al que hace referencia éste artículo no se aplicará, en el caso de asuntos que, en términos de la normatividad aplicable, cuenten con un plazo específico para su discusión, análisis, resolución y aprobación.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 151.
 
-Los dictámenes deberán ser presentados en forma clara con una parte expositiva y otra propositiva, en apartados directos y puntos que puedan ser votados, por lo que después de ser discutidos y en su caso aprobados o desechados, se firmarán por todos los miembros de la comisión o comisiones presentes y serán válidos con la firma de la mayoría de los integrantes de la comisión.
+Los dictámenes deberán ser presentados en forma clara con una parte expositiva y otra propositiva, en apartados directos y puntos que puedan ser votados, por lo que después de ser discutidos y en su caso aprobados o desechados, se firmarán por todas las personas integrantes de la comisión o comisiones presentes y serán válidos con la firma de la mayoría de las y los integrantes de la comisión.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 152.
 
-Si alguno o varios de las diputadas y los diputados integrantes de una Comisión disintieren del parecer de la mayoría, sobre todo o algún punto del dictamen, podrán presentar voto particular por escrito fundando y motivando sus puntos de vista, en donde expongan las consideraciones de disenso respecto del dictamen de Comisión.
+Si alguna o varias de las diputadas o de los diputados integrantes de una Comisión disintieren del parecer de la mayoría, sobre todo o algún punto del dictamen, podrán presentar voto particular por escrito fundando y motivando sus puntos de vista, en donde expongan las consideraciones de disenso respecto del dictamen de Comisión.
 
-Los votos particulares deberán llenar los mismos requisitos del dictamen y deberán entregarse al secretario de la mesa directiva de la Legislatura y hacerse circular entre los demás diputados, previamente a la sesión en que se habrá de discutir el citado dictamen.
+Los votos particulares deberán llenar los mismos requisitos del dictamen y deberán entregarse a la Secretaría de la Mesa Directiva de la Legislatura y hacerse circular entre las demás diputadas y diputados, previamente a la sesión en que se habrá de discutir el citado dictamen.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 153.
 
-Cuando para emitir un dictamen sea necesario la opinión, informes técnicos, copias de documentos o constancias que obren en poder de las dependencias del Ejecutivo del Estado o de los municipios, de sus organismos descentralizados, empresas de participación estatal o fideicomisos públicos, los presidentes de las comisiones dictaminadoras los solicitarán a los titulares de las entidades mencionadas, quienes deberán rendir o proporcionar lo solicitado a la brevedad posible.
+Cuando para emitir un dictamen sea necesario la opinión, informes técnicos, copias de documentos o constancias que obren en poder de las dependencias del Poder Ejecutivo del Estado o de los Municipios, de sus organismos descentralizados, empresas de participación estatal o fideicomisos públicos, las presidencias de las comisiones dictaminadoras los solicitarán a las personas titulares de las entidades mencionadas, quienes deberán rendir o proporcionar lo solicitado a la brevedad posible.
 
 La negativa, omisión, negligencia o actitud dilatoria en cumplir lo solicitado, será motivo de responsabilidad administrativa, lo que se comunicará a la secretaría coordinadora del sector a que corresponda la entidad del Ejecutivo, al superior jerárquico o al titular del Ejecutivo, según sea el caso, para que ordene se proporcione lo requerido y se aplique la sanción que corresponda, de conformidad con lo que establece la Ley General de Responsabilidades Administrativas.
 
@@ -2539,25 +2685,27 @@ Al iniciar el primer año de ejercicio constitucional de la legislatura entrante
 
 Toda iniciativa de ley o Decreto se someterá a debate. Las diputadas y los diputados podrán hacer uso de la voz a favor o en contra en tribuna o desde su curul, en el orden en que solicitaron su intervención ya sea a través del Sistema de Asistencia Legislativa y Votación Electrónica o levantando la mano.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 156.
 
-Quien tenga la palabra, ya sea en tribuna o desde su curul, no podrá ser interrumpido mientras tenga la palabra, a menos de que se trate de moción de orden solicitada por alguna diputada o algún diputado a la Presidencia en los casos previstos en el reglamento.
+Quien tenga la palabra, ya sea en tribuna o desde su curul, no podrá ser interrumpida o interrumpido mientras tenga la palabra, a menos de que se trate de moción de orden solicitada por alguna diputada o algún diputado a la Presidencia en los casos previstos en el reglamento.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 157.
 
-No podrá llamarse al orden al orador que critique o censure a servidores públicos por faltas o errores cometidos en el desempeño de sus atribuciones oficiales, pero en caso de injurias o calumnias, el interesado podrá reclamar en la misma sesión cuando el orador haya terminado o en otra que se celebre en día inmediato.
+No podrá llamarse al orden a la oradora u orador que critique o censure a personas servidoras públicas por faltas o errores cometidos en el desempeño de sus atribuciones oficiales, pero en caso de injurias o calumnias, la persona interesada podrá reclamar en la misma sesión cuando la oradora o el orador haya terminado o en otra que se celebre en día inmediato.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
-
-Quien preside la Mesa Directiva instará al ofensor a retirarlas o a que satisfaga al ofendido. Si aquél no lo hiciere así, quien preside mandará que no se inserte en el Diario de los Debates lo expresado por el ofensor y se levante en acta especial, para proceder a lo que hubiere lugar.
+Quien preside la Mesa Directiva instará a la persona ofensora a retirarlas o a que satisfaga a la persona ofendida. Si aquella no lo hiciere así, quien preside mandará que no se inserte en el Diario de los Debates lo expresado por la persona ofensora y se levante en acta especial, para proceder a lo que hubiere lugar.
 
 ###### Artículo 158.
 
 Ninguna discusión se podrá suspender sino solamente por las causas siguientes:
 
-I. Cuando a solicitud de un diputado y con aprobación del pleno, se acuerde diferir la sesión;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+I. Cuando a solicitud de una diputada o diputado y con aprobación del pleno, se acuerde diferir la sesión;
 
 II. Cuando se acuerde dar preferencia a otro asunto de mayor urgencia o gravedad;
 
@@ -2567,25 +2715,27 @@ III. Por graves desórdenes en el recinto oficial de la Legislatura;
 
 IV. Por falta de quórum, con la simple declaración de la Presidencia de la Mesa Directiva;
 
-V. Cuando el orador se aparte del tema que motiva la discusión, y
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+V. Cuando la oradora o el orador se aparte del tema que motiva la discusión, y
 
 > <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2024)</small>
 
 VI. Por proposición suspensiva, presentada por alguna diputada o algún diputado y se apruebe por la mayoría de los presentes.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 159.
 
-Cuando a propuesta de alguna diputada o diputado y por acuerdo de la Legislatura se pidiere la comparecencia de alguna servidora o servidor público, se concederá la palabra a quien hizo la propuesta y enseguida a quien haya comparecido, para que conteste o informe sobre el asunto en debate y posteriormente a los que la solicitaren en el orden de lista, para hacer las preguntas pertinentes.
+Cuando a propuesta de alguna diputada o diputado y por acuerdo de la Legislatura se pidiere la comparecencia de alguna servidora o servidor público, se concederá la palabra a quien hizo la propuesta y enseguida a quien haya comparecido, para que conteste o informe sobre el asunto en debate y posteriormente a las y los que la solicitaren en el orden de lista, para hacer las preguntas pertinentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 160.
 
-Antes de comenzar el debate, podrán las y los servidores públicos informar a la Legislatura lo que estimen conveniente exponer en apoyo a la opinión que pretendan sostener.
+Antes de comenzar el debate, podrán las personas servidoras públicas informar a la Legislatura lo que estimen conveniente exponer en apoyo a la opinión que pretendan sostener.
 
-Todas las iniciativas o propuestas del Ejecutivo del Estado o de los Ayuntamientos, aun cuando se refieran al asunto que motivó la comparecencia del servidor público, se sujetarán al trámite previsto en la presente ley.
+Todas las iniciativas o propuestas de la persona titular del Poder Ejecutivo del Estado o de los Ayuntamientos, aun cuando se refieran al asunto que motivó la comparecencia de las personas servidoras públicas, se sujetarán al trámite previsto en la presente ley.
 
 ###### Artículo 161.
 
@@ -2595,11 +2745,11 @@ Toda iniciativa se discutirá primero en lo general, o sea en su conjunto, y des
 
 Toda iniciativa que conste de más de cien artículos, podrá ser discutida por los Libros, Títulos, Capítulos o en las partes en las que estuviere divida por sus autores o las comisiones dictaminadoras.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 163.
 
-En la discusión en lo particular, se podrán apartar los artículos, fracciones, incisos o párrafos que las y los diputados quieran impugnar. Los demás artículos que no ameriten discusión se reservarán para su votación.
+En la discusión en lo particular, se podrán apartar los artículos, fracciones, incisos o párrafos que las diputadas y los diputados quieran impugnar. Los demás artículos que no ameriten discusión se reservarán para su votación.
 
 ### CAPÍTULO CUARTO. De la votación
 
@@ -2611,7 +2761,9 @@ La votación es la forma en que cada integrante de la Legislatura emite su decis
 
 Las votaciones pueden ser de tres tipos:
 
-I. Nominales. Son aquellas que permiten identificar el nombre de quien emite el voto y el sentido de su voto en un periodo considerable de tiempo. Para estos efectos se implementará el Sistema de Asistencia Legislativa y Votación Electrónica mediante el uso de tabletas electrónicas en la que los legisladores pulsan un icono que les permite expresar su determinación a favor, o en contra, visualizándose en un tablero electrónico los resultados de cada una de las votaciones;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+I. Nominales. Son aquellas que permiten identificar el nombre de quien emite el voto y el sentido de su voto en un periodo considerable de tiempo. Para estos efectos se implementará el Sistema de Asistencia Legislativa y Votación Electrónica mediante el uso de tabletas electrónicas en la que las personas legisladoras pulsan un icono que les permite expresar su determinación a favor, o en contra, visualizándose en un tablero electrónico los resultados de cada una de las votaciones;
 
 II. Económicas. Son aquellas en las que de manera inmediata y simultánea las diputadas y los diputados manifiestan a mano alzada el sentido de su voto, sin ser necesario que se identifiquen, y
 
@@ -2659,17 +2811,23 @@ Las disposiciones de un proyecto de ley o de decreto que sean declaradas aprobad
 
 Habiéndose dado lectura a la minuta de ley o decreto, o dispensado en su caso de tal trámite, se expedirá la ley o decreto correspondiente, debidamente autorizados por las firmas de quien presida la Presidencia y la secretaría de la Mesa Directiva y con el sello de la Legislatura, bajo la siguiente fórmula: “La (aquí el número de la Legislatura que corresponda) Legislatura del Estado Libre y Soberano de Quintana Roo, Decreta: (Nombre y a continuación el texto aprobado de la Ley o Decreto). Cuando se trate de una declaratoria se usará la misma fórmula con las modificaciones de mencionar el artículo de la Constitución en que se funda y la palabra "Declara" en lugar de "Decreta".
 
-Cuando el decreto que expida la Legislatura carezca de los atributos de una Ley, se encuentre dirigido a un particular o se refiera a una situación jurídica concreta, la fórmula deberá contener los fundamentos y motivos legales que justifiquen la emisión de tal decreto.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+Cuando el decreto que expida la Legislatura carezca de los atributos de una Ley, se encuentre dirigido a una persona particular o se refiera a una situación jurídica concreta, la fórmula deberá contener los fundamentos y motivos legales que justifiquen la emisión de tal decreto.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 170.
 
-Las leyes, decretos y declaratorias de la Legislatura o de la Comisión Permanente en su caso, se enviarán al Ejecutivo para que se hagan las observaciones pertinentes o proceda a su publicación.
+Las leyes, decretos y declaratorias de la Legislatura o de la Comisión Permanente en su caso, se enviarán al Poder Ejecutivo para que se hagan las observaciones pertinentes o proceda a su publicación.
 
-La expedición de decretos o resoluciones que únicamente afecten la organización interna de la Legislatura del Estado, se enviarán al Ejecutivo del Estado para el único efecto de su publicación.
+La expedición de decretos o resoluciones que únicamente afecten la organización interna de la Legislatura del Estado, se enviarán al Poder Ejecutivo del Estado para el único efecto de su publicación.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 171.
 
-Las observaciones hechas por el Ejecutivo a un proyecto de ley, en términos del artículo 69 de la Constitución, al volver a la Legislatura pasarán a la comisión que dictaminó, la que emitirá nuevo dictamen que presentará a la Legislatura, pero solamente se discutirán y votarán en lo particular los artículos con observaciones del Ejecutivo y los artículos con modificaciones o adiciones que hiciere la Legislatura, observándose en todo caso, lo dispuesto por el artículo 71 de la Constitución.
+Las observaciones hechas por el Poder Ejecutivo a un proyecto de ley, en términos del artículo 69 de la Constitución, al volver a la Legislatura pasarán a la comisión que dictaminó, la que emitirá nuevo dictamen que presentará a la Legislatura, pero solamente se discutirán y votarán en lo particular los artículos con observaciones del Poder Ejecutivo y los artículos con modificaciones o adiciones que hiciere la Legislatura, observándose en todo caso, lo dispuesto por el artículo 71 de la Constitución.
 
 ###### Artículo 172.
 
@@ -2681,11 +2839,11 @@ En la interpretación, reforma, derogación o abrogación de las leyes o decreto
 
 ### CAPÍTULO ÚNICO. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 173.
 
-Todos los servidores públicos Titulares que integran los Órganos del Poder Legislativo, así como los directores, coordinadores, secretarios técnicos y todo aquél que administre, maneje, ejerza o custodie recursos del Poder Legislativo del Estado de Quintana Roo, cuyo cargo concluya, deberán realizar la entrega y recepción de los asuntos de sus respectivas competencias, así como de los recursos humanos, materiales y financieros que se les hubiere asignado para el ejercicio de sus funciones. Para lo cual se sujetarán a lo dispuesto en la Ley de Entrega y Recepción de los Poderes Públicos, Ayuntamientos, Órganos Públicos Autónomos y de las Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo.
+Todas las personas servidoras públicas Titulares que integran los Órganos del Poder Legislativo, así como las personas titulares de las Direcciones, Coordinaciones, Secretarías Técnicas y toda aquella que administre, maneje, ejerza o custodie recursos del Poder Legislativo del Estado de Quintana Roo, cuyo cargo concluya, deberán realizar la entrega y recepción de los asuntos de sus respectivas competencias, así como de los recursos humanos, materiales y financieros que se les hubiere asignado para el ejercicio de sus funciones. Para lo cual se sujetarán a lo dispuesto en la Ley de Entrega y Recepción de los Poderes Públicos, Ayuntamientos, Órganos Públicos Autónomos y de las Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo.
 
 ###### Artículo 174.
 
@@ -2811,9 +2969,11 @@ Todos los servidores públicos Titulares que integran los Órganos del Poder Leg
 
 ### CAPÍTULO ÚNICO. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 196.
 
-El Poder Legislativo establecerá el Servicio Profesional de Carrera Legislativa, atendiendo a los principios rectores de legalidad, eficiencia, probidad, objetividad, calidad, imparcialidad, competitividad, mérito y profesionalismo de sus servidores públicos.
+El Poder Legislativo establecerá el Servicio Profesional de Carrera Legislativa, atendiendo a los principios rectores de legalidad, eficiencia, probidad, objetividad, calidad, imparcialidad, competitividad, mérito y profesionalismo de sus personas servidoras públicas.
 
 ###### Artículo 197.
 
@@ -2823,7 +2983,9 @@ El Servicio Profesional de Carrera Legislativa tendrá como propósito profesion
 
 El Poder Legislativo expedirá el Estatuto del Servicio Profesional de Carrera Legislativa y vigilará su cumplimiento, este deberá contener por lo menos lo siguiente:
 
-I. El sistema de mérito para la selección, promoción y ascenso de los servidores públicos del Poder Legislativo;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+I. El sistema de mérito para la selección, promoción y ascenso de las personas servidoras públicas del Poder Legislativo;
 
 II. Los principios de estabilidad y permanencia en el trabajo;
 
@@ -2831,7 +2993,9 @@ III. El sistema de selección con base en los perfiles de puestos;
 
 IV. El sistema salarial y de estímulos, y
 
-V. Los programas para la capacitación, actualización y desarrollo de los servidores públicos.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+V. Los programas para la capacitación, actualización y desarrollo de las personas servidoras públicas.
 
 ###### Artículo 199.
 
@@ -2847,11 +3011,15 @@ El Poder Legislativo del Estado podrá celebrar convenios de coordinación o col
 
 Si falleciere una diputada o un diputado en ejercicio, la Subsecretaría de Servicios Administrativos le ministrará inmediatamente al cónyuge o pariente más cercano que acredite su parentesco y dependencia económica con el extinto, el importe de dos meses de dietas.
 
-Si la persona fallecida fuere un empleado del Poder Legislativo, el importe que se ministrará a su cónyuge o pariente a que se refiere el párrafo anterior, será de dos meses de salario del empleado.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+Si la persona fallecida fuere una empleada o un empleado del Poder Legislativo, el importe que se ministrará a su cónyuge o pariente a que se refiere el párrafo anterior, será de dos meses de salario de la empleada o empleado.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 201.
 
-Las relaciones de trabajo entre el Poder Legislativo y sus empleados, se regirán por las disposiciones de la Ley de los Trabajadores al Servicio de los Poderes Legislativo, Ejecutivo y Judicial, Municipios y Organismos Descentralizados del Estado de Quintana Roo y del Reglamento de las Condiciones Generales de Trabajo del Poder Legislativo.
+Las relaciones de trabajo entre el Poder Legislativo y sus empleadas y empleados, se regirán por las disposiciones de la Ley de los Trabajadores al Servicio de los Poderes Legislativo, Ejecutivo y Judicial, Municipios y Organismos Descentralizados del Estado de Quintana Roo y del Reglamento de las Condiciones Generales de Trabajo del Poder Legislativo.
 
 T R A N S I T O R I O S
 
@@ -3026,5 +3194,13 @@ P.O. 4 DE DICIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 140 POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 25 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 156 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
