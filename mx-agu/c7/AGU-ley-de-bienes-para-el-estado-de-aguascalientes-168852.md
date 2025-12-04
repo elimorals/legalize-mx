@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-bienes-para-el-estado-de-aguascalientes-168852"
 country: "mx"
 rank: "ley"
 publication_date: "2023-12-27"
-last_updated: "2025-11-24"
+last_updated: "2025-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE BIENES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Extraordinario Número 60 del Periódico Oficial del Estado de Aguascalientes, el miércoles 27 de diciembre de 2023.
 
@@ -365,11 +365,11 @@ Los bienes inmuebles de dominio privado del Estado pueden ser objeto de todos lo
 
 Para efectos del presente artículo, en el caso de bienes de dominio público se requerirá previamente el acuerdo de desafectación para disponer de ellos en actos de dominio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 28.
 
-Los actos de dominio, incluyendo las ventas, permutas, cuyo objeto sea el desarrollo de instalaciones educativas, de salud, de infraestructura hidrosanitaria, acciones urbanísticas, de vivienda y el otorgamiento de las prestaciones de seguridad y servicios sociales para los servidores públicos del Estado, siempre que sean ejecutados por los organismos públicos descentralizados del Poder Ejecutivo de manera directa sobre sus bienes inmuebles de dominio privado, estarán sujetos al siguiente procedimiento:
+Los actos de dominio, incluyendo las ventas, permutas, cuyo objeto sea el desarrollo de instalaciones educativas, de salud, de infraestructura hidrosanitaria, acciones urbanísticas, de vivienda, de cultura, eventos deportivos, ferias y demás actividades artísticas, así como el otorgamiento de las prestaciones de seguridad y servicios sociales para los servidores públicos del Estado, siempre que sean ejecutados por los organismos públicos descentralizados del Poder Ejecutivo en ejercicio de sus atribuciones, de manera directa o indirecta sobre sus bienes inmuebles de dominio privado, estarán sujetos al siguiente procedimiento:
 
 I. Su realización estará exenta de la autorización del Poder Legislativo a que hace referencia el artículo 27 de la presente Ley.
 
@@ -1870,3 +1870,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin. efectos todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 350.- SE REFORMA LA LEY DE BIENES PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efectos todas aquellas disposiciones que se opongan al presente Decreto.
