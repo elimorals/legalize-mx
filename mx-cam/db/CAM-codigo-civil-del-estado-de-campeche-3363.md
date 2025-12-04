@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "2025-05-30"
+last_updated: "2025-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2025.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -253,9 +253,9 @@ Disposiciones generales.
 
 El Registro Civil es la institución de orden público y de interés social por la cual el Estado inscribe, autoriza, certifica y da publicidad a los hechos y actos constitutivos o modificativos del estado civil de las personas. Las inscripciones realizadas por el Registro Civil hacen prueba plena y surten efectos legales frente a terceros desde el momento de su realización.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-Las personas Oficiales del Registro Civil tendrán a su cargo autorizar los actos del estado civil y extender las actas relativas a Nacimientos, Reconocimiento de Hijos, Adopción simple y plena, Tutela, Matrimonios, Divorcios, Defunciones y levantamiento de una nueva acta de nacimiento para el reconocimiento de la identidad de género autopercibida, de las personas mexicanas dentro del perímetro de la población en que aquellos ejerzan su encargo.
+Las personas Oficiales del Registro Civil tendrán a su cargo autorizar los actos del estado civil y extender las actas relativas a Nacimientos, Reconocimiento de Hijos, Adopción plena, Tutela, Matrimonios, Divorcios, Defunciones y levantamiento de una nueva acta de nacimiento para el reconocimiento de la identidad de género autopercibida, de las personas mexicanas dentro del perímetro de la población en que aquellos ejerzan su encargo.
 
 > <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2021)</small>
 
@@ -649,35 +649,35 @@ Si el reconocimiento se hiciere en oficina distinta de aquella en que se levant�
 
 De las actas de adopción.
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Art. 95.
 
-Dictada la resolución judicial definitiva que autorice la adopción simple o la adopción plena el juez dentro del término de ocho días remitirá copia certificada de las diligencias al Oficial del Registro Civil que corresponda, a fin de que, con la comparecencia del adoptante se levante el acta correspondiente.
+Dictada la resolución judicial definitiva que autorice la adopción plena el juez dentro del término de ocho días remitirá copia certificada de las diligencias al Oficial del Registro Civil que corresponda, a fin de que, con la comparecencia del adoptante se levante el acta correspondiente.
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Art. 96.
 
-La falta del registro de la adopción simple o la adopción plena, no quita a éstas sus efectos legales.
+La falta del registro de la adopción plena, no quita a éstas sus efectos legales.
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Art. 97.
 
-El acta de Adopción Simple contendrá los nombres y apellidos y domicilio del adoptante y del adoptado, el nombre y demás generales de las personas cuyo consentimiento hubiere sido necesario para la adopción, y los nombre (sic), apellidos y domicilio de las personas que intervengan como testigos. En el acta se insertarán los datos esenciales de la resolución judicial. En caso de adopción plena, el acta contendrá los requisitos señalados como si hubiese sido presentado como hijo de matrimonio.
+En la adopción plena, el acta contendrá los nombres y apellidos y domicilio del adoptante y del adoptado, el nombre y demás generales de las personas cuyo consentimiento hubiere sido necesario para la adopción, y los nombres, apellidos y domicilio de las personas que intervengan como testigos.
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
+En el acta se insertarán los datos esenciales de la resolución judicial.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Art. 98.
 
-Extendida el acta de la adopción simple se anotará la de nacimiento del adoptado, y se archivará la copia de las diligencias relativas, poniéndole el mismo número del acta de adopción. En caso de adopción plena, a partir del levantamiento del acta de adopción, no se publicará ni se expedirá alguna que revele el origen del adoptado ni su condición de tal, haciéndose las anotaciones en el acta de nacimiento, cuyo original quedará reservado para los efectos del artículo 168.
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
+En la adopción plena, a partir del levantamiento del acta de adopción, no se publicará ni se expedirá alguna que revele el origen del adoptado ni su condición de tal, haciéndose las anotaciones en el acta de nacimiento, cuyo original quedará reservado para los efectos del artículo 168.
 
 ###### Art. 99.
 
-El Juez o Tribunal que resuelva que una adopción simple queda sin efecto, remitirá dentro del término de ocho días copia certificada de su resolución al Oficial del Registro Civil para que cancele el acta de adopción y anote la de nacimiento.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2025)
 
 ### CAPITULO V.
 
@@ -985,11 +985,11 @@ Las autoridades judiciales que declaren la ausencia, la presunción de muerte, l
 
 El Oficial del Registro Civil hará la anotación correspondiente en las actas de nacimiento y de matrimonio, en su caso, e insertará los datos esenciales de la resolución judicial que se le haya comunicado.
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Art. 144.
 
-Cuando se recobre la capacidad legal para administrar, se revoque la adopción simple, se extinga la Tutela o se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Oficial del Registro por el mismo interesado o por la autoridad que corresponda, para que cancele la inscripción a que se refiere el artículo anterior.
+Cuando se recobre la capacidad legal para administrar, se extinga la Tutela o se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Oficial del Registro por el mismo interesado o por la autoridad que corresponda, para que cancele la inscripción a que se refiere el artículo anterior.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE JUNIO DE 1993)</small>
 
@@ -2183,11 +2183,11 @@ El parentesco de afinidad es el que se contrae por matrimonio o concubinato, ent
 
 Disuelto el matrimonio o el concubinato, desaparece el parentesco por afinidad.
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Art. 312.
 
-El parentesco civil es el que nace de la adopción. En la adopción simple, el parentesco existe sólo entre el adoptante y el adoptado. En el caso de la adopción plena, el parentesco existe entre el adoptado, el adoptante y los familiares consanguíneos de éste.
+El parentesco civil es el que nace de la adopción. El parentesco existe entre el adoptado, el adoptante y los familiares consanguíneos de éste.
 
 ###### Art. 313.
 
@@ -2289,11 +2289,11 @@ Faltando los parientes a que se refieren las disposiciones anteriores, tienen ob
 
 Los hermanos y demás parientes colaterales a que se refiere el artículo anterior, tienen obligación de dar alimentos a los menores, mientras éstos llegan a la edad de dieciocho años. También deben alimentar a sus parientes dentro del grado mencionado, que fueren incapaces.
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Art. 323.
 
-Tratándose de adopción simple, el adoptante y el adoptado tienen obligación de darse alimentos en los casos en que la tienen los padres y los hijos consanguíneos. En la adopción plena se aplicará lo dispuesto por los artículos 320, 321, 321 Bis (sic), 322 y 324 de este Código.
+En la adopción plena se aplicará lo dispuesto por los artículos 320, 321, 321 Bis, 322 y 324 de este Código.
 
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2017)</small>
 
@@ -2801,55 +2801,37 @@ III.- A percibir la porción hereditaria y los alimentos que fije la ley.
 
 De la Adopción en General.
 
-> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Art. 406.
 
-La adopción es un acto jurídico que por medio de una decisión judicial produce entre el adoptante y adoptado un vínculo de filiación al mismo tiempo que desaparecen, salvo excepciones los vínculos jurídicos entre el adoptado y su familia anterior. La adopción puede ser plena o simple. La adopción simple podrá convertirse en plena cuando llene los requisitos de ley.
+La adopción es un acto jurídico que por medio de una decisión judicial produce entre el adoptante y adoptado un vínculo de filiación al mismo tiempo que desaparecen, salvo excepciones los vínculos jurídicos entre el adoptado y su familia anterior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+La persona mayor de veinticinco años, soltera, en pleno ejercicio de sus derechos, puede adoptar niñas, niños y adolescentes o incapacitados, aun cuando éstos sean mayores de edad, siempre que el adoptante tenga diecisiete años más que el adoptado, salvo que la adopción sea de niñez y adolescencia en situación de abandono o expósitos, en la que el adoptante deberá tener diez años más que el adoptado. Sin embargo, para los demás casos, a juicio del juez y previa motivación, se puede dispensar el requisito de la diferencia de edad, que no será menor de diez años, para atender al interés superior de la persona adoptada. La solicitud de adopción debe ser personal y directa, y se acreditará, además:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2012)</small>
+I. Que tiene medios bastantes para proveer a la subsistencia y educación de la niña, niño o adolescente o al cuidado y subsistencia del incapacitado, como de hija o hijo propio, según las circunstancias de la persona que trata de adoptar;
 
-La persona mayor de veinticinco años de edad, soltera, en pleno ejercicio de sus derechos, puede adoptar menores o incapacitados, aun cuando éstos sean mayores de edad, siempre que el adoptante tenga diecisiete años más que el adoptado, salvo que la adopción sea de menores abandonados o expósitos, en la que el adoptante deberá tener diez años más que el adoptado. Sin embargo, para los demás casos, a juicio del juez y previa motivación, se puede dispensar el requisito de la diferencia de edad, que no será menor de diez años, para atender al interés superior de la persona adoptada. La solicitud de adopción debe ser personal y directa, y se acreditará, además:
+II. Que la adopción es benéfica para la persona que trata de adoptarse;
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1975)</small>
+III. Que el adoptante es persona de buenas costumbres;
 
-I.- Que tiene medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como de hijo propio, según las circunstancias de la persona que trata de adoptar;
+IV. Que no se hayan comprendidos en lo que disponen los artículos 430 y 496;
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1975)</small>
+V. Que goza de buena salud física y mental.
 
-II.- Que la adopción es benéfica para la persona que trata de adoptarse;
+En los casos de las fracciones III y V será acreditado mediante un estudio especial realizado por el Sistema para el Desarrollo Integral de la Familia que los (sic) declare apto para realizar la adopción; en todos los casos será prioritario atender al interés superior de la niñez.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2012)</small>
+Art. 406 A.- En toda adopción se deberá asegurar:
 
-III.- Que el adoptante es persona de buenas costumbres;
+I. Que las personas e Instituciones, cuyo consentimiento se requiera para la adopción, han sido convenientemente asesoradas y debidamente informadas de las consecuencias legales que la adopción implica y del consentimiento otorgado y en particular con la ruptura de los vínculos jurídicos entre la niña, niño o adolescente y su familia de origen;
 
-> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 1981)</small>
+II. Que el consentimiento ha sido otorgado libremente y por escrito, sin que haya mediado pago o compensación alguna;
 
-IV.- Que no se hayan comprendidos en lo que disponen los artículos 430 y 496;
+III. Que el adoptante o los adoptados según el caso, han recibido la debida asesoría y capacitación sobre los alcances psíquicos, afectivos y jurídicos que la adopción implica.
 
-> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2000)</small>
-
-V.- Que goza de buena salud física y mental.
-
-> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2000)</small>
-
-En los casos de las fracciones III y V será acreditado mediante un estudio especial realizado por el Sistema para el Desarrollo Integral de la Familia que los (sic) declare apto para realizar la adopción; en todos los casos será prioritario atender al interés superior del niño.
-
-> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2000)</small>
-
-###### Art. 406-A.
-
-En toda adopción se deberá asegurar:
-
-I.- Que las personas e Instituciones, cuyo consentimiento se requiera para la adopción, han sido convenientemente asesoradas y debidamente informadas de las consecuencias legales que la adopción implica y del consentimiento otorgado y en particular con la ruptura de los vínculos jurídicos entre el infante y su familia de origen;
-
-II.- Que el consentimiento ha sido otorgado libremente y por escrito, sin que haya mediado pago o compensación alguna;
-
-III.- Que el adoptante o los adoptados según el caso, han recibido la debida asesoría y capacitación sobre los alcances psíquicos, afectivos y jurídicos que la adopción implica.
+IV. Que en los procedimientos y decisiones que se tomen respecto de la adopción de niñas, niños y adolescentes, se apliquen en lo conducente los principios enunciados en los artículos 1; 3 fracción II, inciso C; 4; 25 y 29 de la Constitución Política de los Estados Unidos Mexicanos; 2; 3; 7; 8; 21; 27 y 39 de la Convención sobre los Derechos del Niño; 13; 22; 30 Bis 14; 36; 39 y 46 de la Ley General de los Derechos de Niñas, Niños y Adolescentes y, 1; 2; 15; 17; 19; 22; 26; 30; 35; 38; 42 y 80 de la Ley de Derechos de Niñas, Niños y Adolescentes del Estado de Campeche.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2889,19 +2871,15 @@ Cuando se trate de hermanos, o de cualquier otra circunstancia que lo aconseje, 
 
 El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de la tutela.
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
-
 ###### Art. 410.
 
-El menor o el incapacitado que haya sido adoptado de conformidad a la adopción simple, podrá impugnar la adopción dentro del año siguiente a la mayor de (sic) edad o la fecha en que cesare cualquiera otra incapacidad, si la hubiese.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2025)
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Art. 411.
 
-Cualquiera que sea el tipo de adopción, el adoptante tendrá respecto de la persona y bienes del menor los mismo (sic) derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos.
-
-El adoptante dará su primer apellido al adoptado, haciéndose las anotaciones correspondientes en el acta de adopción o de nacimiento que se levante en caso de adopción plena.
+El adoptante tendrá respecto de la persona y bienes del adoptado los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos.
 
 ###### Art. 412.
 
@@ -2969,75 +2947,43 @@ El juez que apruebe la adopción remitirá copia de las diligencias respectivas 
 
 De la Adopción Simple.
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
-
 ###### Art. 418.
 
-Los derechos y obligaciones que nacen de la adopción simple, así como el parentesco que de ella resulte, se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimentos de matrimonio respecto de los cuales se observará lo que dispone el artículo 168 de este código.
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2025)
 
 ###### Art. 419.
 
-Los derechos y obligaciones que resultan del parentesco natural no se extinguen por la adopción simple, excepto la patria potestad que será transferida el (sic) padre adoptivo.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2025)
 
-> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2000)</small>
-
-Art. 419 bis.- La adopción simple podrá convertirse en plena siempre que se cumplan los requisitos aplicables a ésta última debiendo obtenerse el consentimiento del adoptado, si éste hubiere cumplido catorce años. Si fuere menor de esa edad se requiere el consentimiento de quien lo hubiere dado en adopción.
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
+Art. 419 bis.- (DEROGADO, P.O. 4 DE DICIEMBRE DE 2025)
 
 ###### Art. 420.
 
-La adopción simple producirá sus efectos aunque sobrevengan hijos al adoptante.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2000)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2025)
 
 ###### Art. 421.
 
-La adopción simple puede revocarse:
-
-I.- Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, es necesario que consientan en la revocación las personas que prestaron su consentimiento, conforme al artículo 413;
-
-II.- Por ingratitud del adoptado.
-
-> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2000)</small>
-
-III.- Cuando el adoptante incurra en alguna de las causas que hacen perder la patria Potestad.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2025)
 
 ###### Art. 422.
 
-Para los efectos de la fracción II del artículo anterior, se considera ingrato al adoptado:
-
-I.- Si comete algún delito contra la persona, la honra o los bienes del adoptante, o contra la persona, la honra o los bienes de su cónyuge, ascendientes o descendientes, siempre que en éstos últimos casos se trate de delito que amerite una pena de más de dos años de prisión;
-
-II.- Si el adoptado acusa judicialmente al adoptante de algún delito que pueda ser perseguido de oficio, a no ser que hubiera sido cometido contra el mismo adoptado, su cónyuge, ascendientes o descendientes;
-
-III.- Si el adoptado rehusa dar alimentos al adoptante que ha caído en pobreza.
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2025)
 
 ###### Art. 423.
 
-En el primer caso del artículo 421, el Juez decretará que la adopción simple quede revocada si convencido de la espontaneidad con que se solicitó la revocación, encuentra que ésta es conveniente para los intereses morales y materiales del adoptado.
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2025)
 
 ###### Art. 424.
 
-El decreto del Juez deja sin efecto la adopción simple y restituye las cosas al estado que guardaban antes de efectuarse ésta.
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2025)
 
 ###### Art. 425.
 
-En el segundo caso del artículo 421, la adopción simple deja de producir efectos desde que se comete el acto de ingratitud, aunque la resolución judicial que declare revocada la adopción simple sea posterior.
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2025)
 
 ###### Art. 426.
 
-Las resoluciones que dicten los jueces, aprobando la revocación, se comunicarán al Oficial del Registro Civil del lugar en que aquella se hizo para que cancele el acta de adopción simple.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2025)
 
 > <small>(REFORMADA [N. DE E. ANTES CAPÍTULO V BIS], P.O. 22 DE MAYO DE 2000)</small>
 
@@ -3097,21 +3043,17 @@ IV.- Los menores confiados a una Institución de asistencia social pública o pr
 
 La adopción plena es irrevocable. No puede terminar por acuerdo entre las partes, pero puede demandarse la pérdida de la patria potestad por las mismas causales que en la filiación biológica, o pedirse su nulidad cuando los padres adoptivos hayan ocultado de mala fe que el menor no había sido abandonado, sino víctima de cualquier delito contra la libertad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Art. 426-F.
 
-Los casos en que procede la adopción plena deberán ser resueltos judicialmente. Deberá seguirse previamente un juicio de pérdida de la Patria Potestad antes de dar en adopción al menor, con excepción de los expósitos.
+Los casos de adopción plena deberán ser resueltos judicialmente. Deberá seguirse previamente un juicio de pérdida de la Patria Potestad antes de dar en adopción al menor, con excepción de los expósitos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Art. 426-G.
 
-Cuando el Juez tenga duda o no juzgue conveniente otorgar la adopción plena, concederá a los solicitantes la adopción simple y la posibilidad de convertirla en plena pasado el término de un año, si durante ese plazo se han cumplido cabalmente los requisitos de protección, afecto y educación del adoptado, según informe de la Procuraduría de la Defensa del Menor, la Mujer y la Familia del Sistema para el Desarrollo Integral de la Familia del Estado, y no haya sido impugnada la adopción.
+Cuando el Juez tenga duda o no juzgue conveniente otorgar la adopción plena, podrá conceder a los solicitantes el término de un año, para que si durante ese plazo se han cumplido cabalmente los requisitos de protección, afecto y educación del adoptado, según informe de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Sistema para el Desarrollo Integral de la Familia del Estado, y no haya sido impugnada la adopción, se pueda otorgar la adopción atendiendo al interés superior de la niñez.
 
 > <small>(ADICIONADO, P.O. 22 DE MAYO DE 2000)</small>
 
@@ -3175,7 +3117,9 @@ De los efectos de la patria potestad respecto de la persona de los hijos.
 
 6 (SIC).- Cuando ciudadanos de otro país, con residencia habitual fuera del territorio nacional, pretendan llevar a cabo una adopción, la misma se regirá por los tratados internacionales suscritos y ratificados por el Estado Mexicano y, en lo conducente, por las disposiciones de este Código.
 
-Dichos ciudadanos deberán satisfacer los requisitos que se previenen en los dos capítulos que anteceden, según se trate de una adopción simple o plena, y además deberán presentar al juez:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+Dichos ciudadanos deberán satisfacer los requisitos que se previenen en los dos capítulos que anteceden, y además deberán presentar al juez:
 
 I.- Certificado de idoneidad, expedido por la autoridad competente de su país de origen, que acredite que el solicitante es considerado apto para adoptar;
 
@@ -3187,11 +3131,11 @@ La documentación que los solicitantes presenten en idioma distinto al español 
 
 La documentación correspondiente deberá estar apostillada o legalizada por el respectivo Cónsul mexicano.
 
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Art. 426
 
-7.- Cuando ciudadanos de otro país, con residencia permanente en el territorio nacional, pretendan realizar una adopción la misma se regirá por las disposiciones de este Código y, además de satisfacer los requisitos que se previenen en los dos capítulos que anteceden, según se trate de una adopción simple o plena, deberán acreditar su legal estancia o residencia en el territorio nacional.
+7.- Cuando ciudadano de otro país, con residencia permanente en el territorio nacional, pretenda realizar una adopción la misma se regirá por las disposiciones de este Código y, además de satisfacer los requisitos que se previenen en los dos capítulos que anteceden, deberán acreditar su legal estancia o residencia en el territorio nacional.
 
 > <small>(ADICIONADO, P.O. 9 DE JUNIO DE 1999)</small>
 
@@ -3241,11 +3185,9 @@ En los casos previstos en los artículos 397 y 398, cuando por cualquier circuns
 
 A falta de padres, ejercerán la patria potestad sobre el hijo los demás ascendientes a que se refieren las fracciones II y III del Artículo 430, en el orden que determine el juez, tomando en cuenta las circunstancias del caso.
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Art. 433.
-
-En la adopción simple, la patria potestad sobre el hijo adoptivo la ejercerán únicamente las personas que lo adopten.
 
 En la adopción plena, la Patria Potestad se ejercerá en los términos del artículo 430 de este código.
 
@@ -8797,17 +8739,15 @@ Si sólo quedaren descendientes de ulterior grado, la herencia se dividirá por 
 
 Concurriendo hijos con ascendientes, éstos sólo tendrán derecho a alimentos, que en ningún caso pueden exceder de la porción de uno de los hijos.
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Art. 1511.
 
-El adoptado en forma plena hereda como un hijo, pero en la adopción simple no hay derecho de sucesión entre el adoptado y los parientes del adoptante.
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
+El adoptado en forma plena hereda como un hijo.
 
 ###### Art. 1512.
 
-Concurriendo padres adoptantes y descendientes del adoptado en forma simple, los primeros solo tendrán derecho a alimento.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2025)
 
 ###### Art. 1513.
 
@@ -8839,17 +8779,13 @@ Si hubiere ascendientes por ambas líneas, se dividirá la herencia en dos parte
 
 Los miembros de cada línea dividirán entre sí por partes iguales la porción que les corresponda.
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
-
 ###### Art. 1519.
 
-Concurriendo los adoptantes con ascendientes del adoptado en forma simple, la herencia de éste se dividirá por partes iguales entre los adoptantes y los ascendientes.
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2025)
 
 ###### Art. 1520.
 
-Si concurre el cónyuge del adoptado en forma simple con los adoptantes, las dos terceras partes de la herencia corresponden al cónyuge y la otra tercera parte los (sic) que hicieren la adopción.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2025)
 
 ###### Art. 1521.
 
@@ -16726,3 +16662,11 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- La Secretaría de Gobierno de la Administración Pública del Estado, en conjunto con la Dirección del Registro del Estado Civil, contará con 120 días hábiles contados a partir de la entrada en vigor del presente decreto, para realizar las adecuaciones a los reglamentos y emitir las disposiciones correspondientes.
 
 TERCERO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 4 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 152 POR EL QUE "SE DEROGAN LOS ARTÍCULOS 99, 410, 418, 419, 419 BIS, 420, 421, 422, 423, 424, 425, 426, 1512, 1519 Y 1520 Y SE REFORMAN EL PÁRRAFO SEGUNDO DEL ARTÍCULO 39, LOS ARTÍCULOS 95, 96, 97, 98, 144, 312, 323, 406, 406 A, 411, 426 F, 426 G, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 426-6, LOS ARTÍCULOS 426-7, 433 Y 1511, TODOS DEL CÓDIGO CIVIL DEL ESTADO DE CAMPECHE".]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido de este decreto.
