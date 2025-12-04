@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-municipio-libre-del-estado-de-durango-102041"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-07-06"
-last_updated: "2024-06-16"
+last_updated: "2025-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 6 de julio de 2014.
 
@@ -385,6 +385,10 @@ IV. No ser Ministro de algún culto religioso.
 
 V. No haya sido condenado por la comisión de delito doloso.
 
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+VI. No ser persona inscrita en el Registro Nacional de Obligaciones Alimentarias.
+
 ###### Artículo 26.
 
 La dirección administrativa, el ejercicio de la personalidad jurídica y ejecución de los acuerdos o resoluciones del Ayuntamiento, corresponde al Presidente Municipal; el síndico municipal vigilará la correcta prestación de los servicios públicos y presidirá la comisión responsable de vigilar todo lo relativo a la recaudación y aplicación de los fondos públicos. Para los efectos de esta Ley, los regidores son el cuerpo orgánico que colegiada y conjuntamente con los anteriores, delibera, analiza, resuelve, controla y vigila los actos de la administración municipal.
@@ -415,13 +419,17 @@ Posteriormente, el Presidente Municipal entrante les tomará la protesta de ley 
 
 Cuando el Presidente Municipal saliente o quien legalmente deba sustituirlo no acuda a la instalación del nuevo Ayuntamiento, la protesta se otorgará ante un ejemplar de la Constitución Política de los Estados Unidos Mexicanos y la del Estado de Durango. Posteriormente, el Presidente Municipal entrante les tomará la protesta a los integrantes del Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 32.
 
-Al concluir la sesión pública a que se refiere el artículo 29 de esta Ley, el Presidente Municipal saliente, ante la presencia de los síndicos municipales entrante y saliente, entregará al nuevo Ayuntamiento un informe por escrito, del manejo de los recursos económicos de los ocho meses del último año del mandato así como el inventario de bienes muebles e inmuebles del municipio, los programas de trabajo y libros de actas del Ayuntamiento, firmándose por ambas partes la correspondiente acta de entrega-recepción. En este acto, se le dará participación a la Entidad de Auditoría Superior del Congreso del Estado y al Diputado o diputados del distrito electoral local que corresponda.
+Al concluir la sesión pública a que se refiere el artículo 29 de esta Ley, el Presidente Municipal saliente, ante la presencia de los síndicos municipales entrante y saliente, entregará al nuevo Ayuntamiento un informe por escrito, del manejo de los recursos económicos de los ocho meses del último año del mandato así como el inventario de bienes muebles e inmuebles del municipio, los programas de trabajo y libros de actas del Ayuntamiento, firmándose por ambas partes la correspondiente acta de entrega-recepción. En este acto, se le dará participación a la Auditoría Superior del Estado y al Diputado o diputados del distrito electoral local que corresponda.
 
-Independientemente de lo estipulado en el párrafo anterior, la entrega-recepción de la administración municipal deberá quedar concluida, a más tardar, dentro de los treinta días hábiles siguientes, contados a partir de la instalación del nuevo Ayuntamiento. La Entidad de Auditoría Superior del Congreso del Estado, en el ejercicio de sus atribuciones, fincará las responsabilidades correspondientes por el incumplimiento a lo dispuesto por este artículo.
+Independientemente de lo estipulado en el párrafo anterior, la entrega-recepción de la administración municipal deberá quedar concluida, a más tardar, dentro de los treinta días hábiles siguientes, contados a partir de la instalación del nuevo Ayuntamiento. La Auditoría Superior del Estado, en el ejercicio de sus atribuciones, fincará las responsabilidades correspondientes por el incumplimiento a lo dispuesto por este artículo.
 
 ### Capítulo III. De las Facultades y Obligaciones del Ayuntamiento
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 33.
 
@@ -437,7 +445,9 @@ III. Someter los servicios de seguridad pública a las disposiciones que sobre l
 
 IV. Analizar el informe anual que debe rendir el Presidente Municipal, en lo referente al estado que guarda la administración pública municipal, incluyendo lo relativo al avance de los programas de obras y servicios.
 
-V. Ratificar los nombramientos y remociones del secretario del Ayuntamiento, del tesorero municipal o su equivalente, y del juez administrativo, propuestos por el Presidente Municipal.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+V. Ratificar los nombramientos y remociones del secretario del Ayuntamiento, del tesorero municipal o su equivalente, y del juez cívico, propuestos por el Presidente Municipal.
 
 VI. Solicitar a los Gobiernos Federal o Estatal, según sea el caso, la expropiación de bienes por causa de utilidad pública.
 
@@ -493,6 +503,8 @@ XI. La promoción, difusión y efectiva implementación de la perspectiva de gé
 
 XII. Autorizar al presidente o presidenta municipal para que suscriba, en caso de considerarlo adecuado, convenios de colaboración con el Instituto de Evaluación de Políticas Públicas, en materia de evaluaciones del desempeño municipal en su política pública de desarrollo social, que orienten al gobierno municipal para mejorar sus acciones y estrategias.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 4 DE DICIEMBRE DE 2025)</small>
+
 C). EN MATERIA DE HACIENDA PÚBLICA MUNICIPAL:
 
 I. Aprobar su iniciativa de Ley de Ingresos para el ejercicio fiscal que corresponda y remitirla al Congreso del Estado a más tardar el día último del mes de octubre del año respectivo.
@@ -501,7 +513,9 @@ II. Aprobar libremente su proyecto de presupuesto anual de egresos en los térmi
 
 III. Discutir y aprobar, en su caso, la cuenta pública de gasto anual que deberá presentar al Congreso del Estado para su revisión.
 
-IV. Publicar en el Periódico Oficial del Gobierno del Estado de Durango, en la Gaceta Municipal, o en los sitios públicos de costumbre, el informe preliminar que, respecto a los movimientos financieros, debe presentar a la Entidad de Auditoría Superior del Congreso del Estado, para la glosa correspondiente.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+IV. Publicar en el Periódico Oficial del Gobierno del Estado de Durango, en la Gaceta Municipal, o en los sitios públicos de costumbre, el informe preliminar que, respecto a los movimientos financieros, debe presentar a la Auditoría Superior del Estado, para la glosa correspondiente.
 
 V. Aprobar las transferencias, modificaciones presupuestales y la creación de nuevas partidas del presupuesto de egresos en vigor.
 
@@ -511,7 +525,9 @@ VII. Aprobar la desincorporación de los bienes inmuebles de dominio público cu
 
 VIII. Celebrar contratos y empréstitos; cualquier acto jurídico que afecte el patrimonio del municipio, cuando dichos actos no excedan del término de la administración se realizarán ante el Ayuntamiento; si el cumplimiento de las obligaciones contraídas excede el período constitucional del Ayuntamiento respectivo se requiere la aprobación del Congreso del Estado.
 
-IX. Tratándose de la aplicación de multas impuestas al Ayuntamiento por incumplimiento de sus obligaciones con la Entidad de Auditoría Superior del Congreso del Estado, acordará que el servidor público municipal que haya dado causa a la imposición de la multa, reintegre al erario municipal el importe de la misma, sin perjuicio de la responsabilidad en que hubiere incurrido.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+IX. Tratándose de la aplicación de multas impuestas al Ayuntamiento por incumplimiento de sus obligaciones con la Auditoría Superior del Estado, acordará que el servidor público municipal que haya dado causa a la imposición de la multa, reintegre al erario municipal el importe de la misma, sin perjuicio de la responsabilidad en que hubiere incurrido.
 
 X. Elaborar, reformar o ratificar el reglamento interior de la Contraloría Municipal.
 
@@ -749,7 +765,9 @@ V. Informar a la población, en sesión pública y solemne del Ayuntamiento, que
 
 VI. Proponer al Ayuntamiento, las comisiones en que deben integrarse los regidores y el síndico municipal.
 
-VII. Presentar a la consideración del Ayuntamiento para su aprobación, en su caso, los nombramientos y remociones del secretario del Ayuntamiento, del tesorero municipal o su equivalente y del juez administrativo.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+VII. Presentar a la consideración del Ayuntamiento para su aprobación, en su caso, los nombramientos y remociones del secretario del Ayuntamiento, del tesorero municipal o su equivalente y del juez cívico;
 
 VIII. Conducir la elaboración del Plan Municipal de Desarrollo, de sus programas anuales de obras y servicios públicos, y vigilar el cumplimiento de las acciones que le correspondan a cada una de las dependencias de la administración municipal.
 
@@ -1215,6 +1233,8 @@ V. Efectos económicos y sociales que se pretenden lograr.
 
 El Ayuntamiento contará con una contraloría municipal como órgano técnico-contable del mismo, cuyo enlace será la comisión de hacienda o su equivalente. Su titular será nombrado por el Ayuntamiento a partir de los candidatos propuestos uno por cada fracción de regidores, quien deberá acreditar experiencia fehaciente en actividades o funciones relacionadas con el control y fiscalización del gasto público, política presupuestaria, evaluación del gasto público, del desempeño, de políticas públicas, administración financiera o manejo de recursos y de responsabilidades.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 4 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 96.
 
 La contraloría municipal tendrá las facultades y obligaciones siguientes:
@@ -1229,13 +1249,17 @@ IV. Vigilar que los recursos federales y estatales asignados al Municipio se apl
 
 V. Vigilar el cumplimiento de las obligaciones que a proveedores y contratistas de la administración pública municipal les establece la Ley de Obras Públicas y la Ley de Adquisiciones, Arrendamientos y Servicios del Estado.
 
-VI. Procurar la coordinación con la Entidad de Auditoría Superior del Congreso del Estado y la Secretaría de la Contraloría del Estado, para el mejor cumplimiento de sus funciones.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+VI. Procurar la coordinación con la Auditoría Superior del Estado y la Secretaría de la Contraloría del Estado, para el mejor cumplimiento de sus funciones.
 
 VII. Establecer y operar un sistema de atención de quejas, denuncias y sugerencias de la ciudadanía.
 
 VIII. Participar en la entrega y recepción a que se refiere el artículo 30 de esta Ley, así como el de las unidades administrativas del municipio cuando éstas cambien de titular.
 
-IX. Auxiliar al Ayuntamiento en la revisión de los informes financieros mensuales o bimestrales de la tesorería municipal o su equivalente, y verificar que se rindan oportunamente y en forma debida a la Entidad de Auditoría Superior del Congreso del Estado para la glosa correspondiente.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+IX. Auxiliar al Ayuntamiento en la revisión de los informes financieros mensuales o bimestrales de la tesorería municipal o su equivalente, y verificar que se rindan oportunamente y en forma debida a la Auditoría Superior del Estado para la glosa correspondiente.
 
 X. Vigilar que los ingresos municipales se enteren a la tesorería municipal, conforme a los procedimientos contables y disposiciones legales aplicables.
 
@@ -1395,7 +1419,9 @@ Para dirimir las controversias que se susciten entre la administración municipa
 
 Además de lo anterior, las controversias entre condóminos también se podrán dirimir por su intervención, de acuerdo con los ordenamientos respectivos y aplicables.
 
-El titular del Juzgado deberá reunir los requisitos establecidos en el artículo 122 de la Constitución Política del Estado Libre y Soberano de Durango. Su nombramiento será propuesto por el Presidente Municipal, debiendo ser ratificado por el Ayuntamiento.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+El titular del Juzgado deberá reunir los requisitos establecidos en el artículo 122 de la Constitución Política del Estado Libre y Soberano de Durango, además de no ser deudor alimentario moroso. Su nombramiento será propuesto por el Presidente Municipal, debiendo ser ratificado por el Ayuntamiento.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -1480,6 +1506,14 @@ El Juez Cívico Municipal sujetará su actuación a los principios de igualdad, 
 ###### Artículo 119.
 
 El Ayuntamiento, en su caso, aprobará dentro del presupuesto anual de egresos del municipio, las partidas presupuestales propias para sufragar los gastos del juzgado Cívico municipal, quien tendrá facultades para su ejercicio autónomo. Para ello, su titular deberá presentar oportunamente al Ayuntamiento su programa de trabajo y su presupuesto de egresos.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 119 Bis.
+
+El Ayuntamiento podrá autorizar al juzgado cívico para implementar acciones y mecanismos para la realización de jornadas de justicia cívica itinerante, con el propósito de acercar a toda la población, especialmente la que habita en zonas alejadas o de difícil acceso, los procedimientos, trámites y servicios de justicia cívica descritos en la presente Ley, así como la promoción de la educación cívica y sus valores.
+
+Durante las jornadas de justicia cívica itinerante, podrán atenderse conflictos haciendo uso de Mecanismos Alternativos para la Solución de Controversias en la materia.
 
 ## Título Quinto. De las Causales que dan Lugar a la Desaparición de Ayuntamientos y Suspensión Temporal o Definitiva de sus Miembros
 
@@ -1961,6 +1995,8 @@ Solamente con autorización de la mayoría calificada de los miembros presentes 
 
 Cuando así lo acuerde el Ayuntamiento por mayoría calificada de sus miembros presentes, se podrá exentar de la subasta pública, la cual podrá ser por adjudicación directa, cuando los poseedores sean colindantes del predio a enajenar, sin omitir su previa desincorporación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 4 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 171.
 
 La solicitud de enajenación de un inmueble del municipio deberá contener además de lo que disponga el presente capítulo, los siguientes datos:
@@ -1983,7 +2019,9 @@ VIII. Certificado de liberación de gravamen.
 
 Los ayuntamientos, por conducto de su Presidente Municipal, formularán cada año en el mes de enero, un inventario general de los bienes muebles e inmuebles municipales. Concurrirán a su formulación el Síndico, el Tesorero y el Contralor del municipio. El inventario se extenderá por cuadruplicado, y quedará un ejemplar en el Archivo Municipal, uno en la Tesorería, otro se remitirá al Congreso del Estado, junto con la Cuenta Pública del ejercicio correspondiente y el último lo conservará el Secretario del Ayuntamiento.
 
-La Comisión de Hacienda, Presupuesto y Cuenta Pública, del Congreso del Estado, dará vista a la Entidad de Auditoría Superior del Estado, la que revisará el ejemplar que se turne al Congreso, para el caso de enajenaciones de bienes inmuebles, si al analizar el inventario se desprende que no se cumplió con alguno de los requisitos establecidos en el presente artículo, o se incumplió lo dispuesto por el artículo anterior, la Entidad de Auditoría Superior del Estado, dará cuenta a la Comisión antes citada para que proceda en consecuencia.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+La Comisión de Hacienda, Presupuesto y Cuenta Pública, del Congreso del Estado, dará vista a la Auditoría Superior del Estado, la que revisará el ejemplar que se turne al Congreso, para el caso de enajenaciones de bienes inmuebles, si al analizar el inventario se desprende que no se cumplió con alguno de los requisitos establecidos en el presente artículo, o se incumplió lo dispuesto por el artículo anterior, la Auditoría Superior del Estado, dará cuenta a la Comisión antes citada para que proceda en consecuencia.
 
 En caso de que la información proporcionada no demuestre el cumplimiento de los requisitos a que se refiere el párrafo anterior, o que el o los responsables de la formulación del inventario no justifiquen la legalidad de la operación de la enajenación, la Comisión podrá acordar se haga del conocimiento de la Comisión de Responsabilidades del Congreso del Estado la situación, a efecto de que la misma determine si procede o no fincar responsabilidad al servidor público que haya incurrido en omisión.
 
@@ -2916,3 +2954,35 @@ P.O. 16 DE JUNIO DE 2024.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan al presente decreto.
+
+P.O. 4 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 282 QUE CONTIENE REFORMAS Y ADICIONES A LA FRACCIÓN VI DEL ARTÍCULO 25 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente decreto.
+
+P.O. 4 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 283 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO, EN MATERIA DE ARMONIZACIÓN LEGAL”.]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 4 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 284 QUE CONTIENE REFORMAS Y ADICIONES A LA FRACCIÓN V DEL APARTADO A) DEL ARTÍCULO 33 Y LA FRACCIÓN VII DEL ARTÍCULO 52 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente decreto.
+
+P.O. 4 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 285 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO, EN MATERIA DE JUSTICIA CÍVICA ITINERANTE".]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
