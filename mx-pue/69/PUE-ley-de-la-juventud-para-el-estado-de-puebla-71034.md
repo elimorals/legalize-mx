@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-la-juventud-para-el-estado-de-puebla-71034"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-09"
-last_updated: "2024-04-29"
+last_updated: "2025-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LA JUVENTUD PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 9 de noviembre de 2009.
 
@@ -83,13 +83,17 @@ IV.- Identidad: Se fomentarán programas y acciones destinados a no perder y rec
 
 V.- Interculturalidad: Se procurará que las personas jóvenes conozcan las costumbres y tradiciones de otras regiones de nuestro país y del mundo. Se fomentará el aprendizaje de idiomas como herramienta básica de comunicación para lo cual, entre otras medidas, se impulsará la movilidad y los intercambios;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-VI.- Equidad: La creación de condiciones de igualdad real y efectiva para las personas jóvenes que se encuentren en una situación de desventaja o de vulnerabilidad, que aseguren la igualdad entre hombres y mujeres jóvenes en el acceso de oportunidades y el ejercicio de los derechos; y
+VI.- Equidad: La creación de condiciones de igualdad real y efectiva para las personas jóvenes que se encuentren en una situación de desventaja o de vulnerabilidad, que aseguren la igualdad entre hombres y mujeres jóvenes en el acceso de oportunidades y el ejercicio de los derechos;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-VII.- Transversalidad: Se traduce en la necesidad de articular una serie de políticas entre las Dependencias y Organismos Estatales y Municipales a partir de una visión sistémica e integral de la implementación de los derechos civiles, políticos, económicos, sociales y culturales de las personas jóvenes, que tenga en cuenta las distintas etapas de la juventud y la necesidad de establecer políticas públicas específicas para cada una de ellas.
+VII.- Transversalidad: Se traduce en la necesidad de articular una serie de políticas entre las Dependencias y Organismos Estatales y Municipales a partir de una visión sistémica e integral de la implementación de los derechos civiles, políticos, económicos, sociales y culturales de las personas jóvenes, que tenga en cuenta las distintas etapas de la juventud y la necesidad de establecer políticas públicas específicas para cada una de ellas; e
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+VIII.- Interseccionalidad: La confluencia de múltiples factores de vulnerabilidad y riesgos de discriminación, que se interrelacionan y acumulan, generando formas específicas de exclusión, que afectan y colocan a las personas jóvenes en situación de desventaja, con el fin de prevenirlos y atenderlos para garantizar el acceso y ejercicio igualitario de sus derechos.
 
 ###### Artículo 4.
 
@@ -1068,5 +1072,13 @@ P.O. 29 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 34, 35 Y 36 DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES VI Y VII Y ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 3 DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
