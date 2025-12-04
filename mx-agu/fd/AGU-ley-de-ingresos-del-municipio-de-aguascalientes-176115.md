@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-municipio-de-aguascalientes-176115"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2024-12-27"
-last_updated: "2025-06-16"
+last_updated: "2025-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=176115&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE INGRESOS DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES, PARA EL EJERCICIO FISCAL 2025
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Primera Sección del Número 68 del Periódico Oficial del Estado de Aguascalientes, el viernes 27 de diciembre de 2024.
 
@@ -485,9 +485,7 @@ sin licencia. 100 a 150
 
 hechas al infractor. 100 a 150
 
-15. Por dar al inmueble un uso del suelo diferente al
-
-autorizado. 100 a 150
+15. Por dar al inmueble un uso del suelo diferente al autorizado. 100 a 150
 
 16. Por obstruir los cajones de estacionamiento habilitados
 
@@ -549,9 +547,7 @@ correspondiente. 50 a 70
 
 particular. 75 a 100
 
-28. Por colocar mobiliario urbano sin autorización
-
-por unidad. 50 a 70
+28. Por colocar mobiliario urbano sin autorización por unidad. 50 a 70
 
 29. Por colocar estación terrena para telecomunicaciones
 
@@ -577,6 +573,4 @@ de alineamiento de estaciones de telecomunicación 200 a 250
 
 estructura de la antena 15 a 20
 
-XIV. a XXXVII.-
-
-[...]
+XIV. a XXXVII.- [...]
