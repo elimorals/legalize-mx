@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-transporte-del-estado-de-puebla-152811"
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-03"
-last_updated: "2025-02-28"
+last_updated: "2025-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE TRANSPORTE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Edición Vespertina del Número 3 en el Periódico Oficial del Estado de Puebla, el viernes 3 de diciembre de 2021.
 
@@ -231,9 +231,17 @@ XXI. Emitir las normas técnicas, operativas y administrativas para regular la p
 
 XXII. Crear, administrar, registrar, controlar, verificar y supervisar el Registro Estatal del Transporte;
 
-XXIII. Vigilar, supervisar, inspeccionar, sancionar e imponer las medidas de seguridad de los servicios público, mercantil, ejecutivo y auxiliares de transporte en el Estado, y
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-XXIV. Las demás que le otorgue la presente Ley, sus Reglamentos y demás disposiciones administrativas.
+XXIII. Vigilar, supervisar, inspeccionar, sancionar e imponer las medidas de seguridad de los servicios público, mercantil, ejecutivo y auxiliares de transporte en el Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+XXIV. Emitir los instrumentos jurídico-administrativos necesarios para la planeación, administración, operación, ejecución, verificación, supervisión y control del Sistema de Transporte por Cable por si o través de terceros, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+XXV. Las demás que le otorgue la presente Ley, sus Reglamentos y demás disposiciones administrativas.
 
 ###### ARTÍCULO 12.
 
@@ -300,6 +308,10 @@ d) Transporte Mixto de Pasajeros y Bienes: El que se autoriza para el traslado d
 e) Sistema de Transporte Público Masivo: El que se presta a través de corredores de transporte público de pasajeros, el cual opera de manera exclusiva en una vialidad con carriles reservados para el transporte público, total o parcialmente confinados.
 
 f) Sistema de Transporte Metropolitano. El que se presta en la Ciudad de Puebla y en localidades de sus municipios periféricos conurbados.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+g) Sistema de Transporte por Cable: Consiste en un servicio de transporte colectivo, conformado por líneas de cable aéreo, estaciones, torres, cabinas, sistemas electromecánicos de tracción, control, recaudo y seguridad, con accesibilidad universal, que opere prioritariamente en zonas urbanas, suburbanas y conurbadas del Estado, y que se integre de manera física, operativa, informativa, de imagen y de pago con las demás modalidades del servicio público de transporte.
 
 II. Servicio Mercantil de Transporte de Personas: El que prestan los particulares directamente a otros particulares constituyendo una actividad comercial para satisfacer una necesidad específica de un sector de la población. Este servicio tiene las siguientes modalidades:
 
@@ -495,9 +507,11 @@ Tratándose de los vehículos de servicio público de transporte urbano, suburba
 
 #### SECCIÓN II. SERVICIO DE TRANSPORTE PÚBLICO
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 26.
 
-Prestación del servicio público de transporte. El Estado prestará el servicio público de transporte a través de la Secretaría o de Carreteras de Cuota-Puebla, por sí o por terceros mediante el otorgamiento de concesiones, en los términos de la presente Ley y su Reglamento, de forma colectiva al público en general, de manera continua, uniforme, regular y permanente, en el cual los usuarios, cubrirán como contraprestación la tarifa previamente autorizada por la Secretaría.
+Prestación del servicio público de transporte. El Estado prestará el servicio público de transporte a través de la Secretaría o de Carreteras de Cuota-Puebla, por sí o a través de terceros mediante los instrumentos jurídicos, administrativos o financieros que resulten aplicables en términos de la presente Ley y su Reglamento, de forma colectiva al público en general, continua, uniforme, regular y permanente, en el que los usuarios cubrirán como contraprestación la tarifa que fije la Secretaría.
 
 ###### ARTÍCULO 27.
 
@@ -518,6 +532,32 @@ Características del servicio de transporte urbano. Este servicio se llevará a 
 ###### ARTÍCULO 30.
 
 Vehículos de transporte urbano. El servicio público de transporte urbano podrá ser prestado utilizando autobuses, minibuses, midibuses, microbuses, o cualquier otro tipo de unidades de capacidad menor que, a juicio de la autoridad competente, reúna las condiciones y características vehiculares necesarias para los fines del servicio.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 30 BIS. Sistema de Transporte por Cable. El Sistema de Transporte por Cable tiene por objeto mejorar la accesibilidad, seguridad vial, confiabilidad y eficiencia de los desplazamientos, así como reducir emisiones contaminantes y tiempos de viaje en congruencia con los principios, fines y criterios establecidos en la Ley General de Movilidad y Seguridad Vial, la Ley de Movilidad y Seguridad Vial del Estado de Puebla y la presente Ley.
+
+El Sistema de Transporte por Cable constituye un servicio público cuya prestación corresponde al Gobierno del Estado a través de la Secretaría, quien podrá prestarlo directamente o a través de terceros.
+
+La Declaratoria de Necesidad para esta modalidad se emitirá de conformidad con lo dispuesto en el artículo 58 de esta Ley y en los artículos 150 y 151 de su Reglamento, en lo que resulte aplicable a esta modalidad.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 30 TER. Para la implementación del Sistema de Transporte por Cable, el Gobierno del Estado, a través de la Secretaría, deberá:
+
+I. Emitir los actos jurídico-administrativos necesarios para su planeación, administración, operación, verificación, supervisión y control;
+
+II. Definir los parámetros de servicio, niveles de calidad y seguridad, así como la integración física, operativa, informativa, de imagen y de pago con las demás modalidades del servicio público de transporte, y
+
+III. Ejercer la verificación, supervisión y control del servicio y de la infraestructura asociada.
+
+Las dependencias y entidades paraestatales competentes conducirán, en su caso, los procedimientos correspondientes para la implementación del Sistema de Transporte por Cable, incorporando en las bases, títulos, contratos y demás instrumentos jurídico-administrativos, las condiciones técnicas y de servicio que determine la Secretaría.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 30 QUÁTER. La tarifa por el servicio del Sistema de Transporte por Cable será fijada por la Secretaría mediante Acuerdo administrativo que se publique en el Periódico Oficial del Estado, con base en estudios técnicos y conforme a esta Ley y su Reglamento.
+
+La metodología, estructura y actualizaciones de la tarifa, se desarrollará en el Reglamento y en disposiciones administrativas de carácter general que, en su caso, establezca la Secretaría.
 
 #### SECCIÓN III. DEL SERVICIO DE TRANSPORTE MERCANTIL DE PERSONAS
 
@@ -1842,3 +1882,15 @@ TERCERO. En un plazo de 90 días hábiles, se deberán realizar las adecuaciones
 CUARTO. Los procedimientos y demás asuntos que con motivo de la entrada en vigor de este Decreto deban pasar de una dependencia a otra, continuarán tramitándose por las unidades administrativas de origen hasta que se establezcan las unidades administrativas que deban conocer aquéllos, en términos de este Decreto.
 
 QUINTO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XXIII Y XXIV DEL ARTÍCULO 11 Y EL 26; Y ADICIONA LA FRACCIÓN XXV AL ARTÍCULO 11, UN INCISO G) A LA FRACCIÓN I DEL 14, EL 30 BIS, EL 30 TER Y EL 30 QUÁTER, TODOS DE LA LEY DE TRANSPORTE DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+TERCERO. Todos los documentos, instrumentos o actos jurídicos, administrativos, financieros y demás que se hubieren realizado o realicen en razón del Acuerdo por el que se implementa la Modalidad del Servicio Público de Transporte denominada “Sistema de Transporte por Cable” y de la Declaratoria por la que se determina la necesidad de implementación del Servicio Público de Transporte en la modalidad de “Sistema de Transporte por Cable”, publicados en el Periódico Oficial del Estado de fechas veintiséis y veintiocho de agosto de dos mil veinticinco, respectivamente, continuarán vigentes en todos sus términos y surtirán todos sus efectos, sin perjuicio de las adecuaciones que puedan realizarse conforme al presente Decreto.
+
+CUARTO. Dentro de los ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo del Estado realizará las adecuaciones que resulten necesarias al Reglamento de la Ley de Transporte del Estado de Puebla.
