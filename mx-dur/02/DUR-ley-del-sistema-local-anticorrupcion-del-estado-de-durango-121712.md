@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-sistema-local-anticorrupcion-del-estado-de-durango-1217
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-25"
-last_updated: "2025-05-01"
+last_updated: "2025-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121712&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DEL SISTEMA LOCAL ANTICORRUPCIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2025.
 
 Ley publicada en el No. 42 del Periódico Oficial del Gobierno del Estado de Durango, el jueves 25 de mayo de 2017.
 
@@ -145,11 +145,11 @@ III. Los órganos de Control Interno de los Municipios, quienes concurrirán a t
 
 El Consejo Coordinador es la instancia responsable de establecer mecanismos de coordinación entre los integrantes del Sistema Local y de éste con el Sistema Nacional Anticorrupción, y tendrá bajo su encargo el diseño, promoción y evaluación de políticas públicas estatales de prevención y combate a la corrupción.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 9.
 
-El Consejo Coordinador tendrá las siguientes facultades
+El Consejo Coordinador tendrá las siguientes facultades:
 
 I. La elaboración de su programa de trabajo anual;
 
@@ -185,9 +185,19 @@ XV. Disponer las medidas necesarias para que las autoridades competentes en la p
 
 XVI. Participar, conforme a las leyes en la materia, en los mecanismos de cooperación a nivel nacional para el combate a la corrupción, a fin de conocer y compartir las mejores prácticas para colaborar en el combate global del fenómeno; y, en su caso, compartir a la comunidad nacional las experiencias relativas a los mecanismos de evaluación de las políticas locales anticorrupción;
 
-XVII. Emitir los lineamientos que permitan las denuncias de faltas administrativas y hechos de corrupción, de conformidad con la normatividad que emita el Comité Coordinador del Sistema Nacional; y
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-XVIII. Las demás señaladas por esta ley.
+XVII. Emitir los lineamientos que permitan las denuncias de faltas administrativas y hechos de corrupción, de conformidad con la normatividad que emita el Comité Coordinador del Sistema Nacional;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+XVIII. Difundir, entre los servidores públicos y la sociedad, las posibles consecuencias por las acciones y las omisiones administrativas y penales, por hechos de corrupción, respetando la secrecía, reserva y confidencialidad de los datos personales en cualquier investigación;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+XIX. Promover la implementación de acciones de capacitación para los servidores públicos en materia de prevención y combate a la corrupción; y
+
+XX. Las demás señaladas por esta ley.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 1 DE MAYO DE 2025)</small>
 
@@ -830,6 +840,14 @@ SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en 
 P.O. 1 DE MAYO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 161 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DEL SISTEMA LOCAL ANTICORRUPCIÓN DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 287 QUE CONTIENE REFORMA AL ARTÍCULO 9 DE LA LEY DEL SISTEMA LOCAL ANTICORRUPCIÓN DEL ESTADO DE DURANGO, EN MATERIA DE FACULTADES DEL CONSEJO COORDINADOR”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
