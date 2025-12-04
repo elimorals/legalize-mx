@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2024-12-27"
+last_updated: "2025-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -7115,9 +7115,9 @@ b).- Por la dictaminación de diagnóstico de riesgo con una trayectoria de 51 k
 
 c).- Por la dictaminación de diagnóstico de riesgo con una trayectoria de 101 kilómetros en adelante $34,914.00
 
-> <small>(REFORMADO [N. DE E. CON SUS INCISOS], B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 4 DE DICIEMBRE DE 2025)</small>
 
-6.- Dictamen para la emisión favorable por parte del Gobernador del Estado, para el uso de sustancias explosivas en la industria y en los centros artesanales, como requisito para que la Secretaría de la Defensa Nacional otorgue el permiso correspondiente.
+6.- Dictamen para la emisión favorable por parte del Gobierno del Estado como requisito para que la Secretaría de la Defensa Nacional otorgue el permiso correspondiente en relación a las actividades y operaciones que se realicen con armas, municiones, explosivos, artificios y sustancias químicas.
 
 a).- Campos de tiro y club de caza, uso y compra-venta de municiones $2,000.00
 
@@ -7198,6 +7198,38 @@ f)-5.- De 501 a 1000 piezas o metros $800.00
 g).- Uso y compra-venta de substancias químicas relacionadas con explosivos, se cobrará $5.00 por litro o kilogramo.
 
 h).- Almacenamiento de substancias químicas relacionadas con explosivos, se cobrará $3.00 por litro o kilogramo.
+
+> <small>(ADICIONADO, B.O. 4 DE DICIEMBRE DE 2025)</small>
+
+i).- Armas
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], B.O. 4 DE DICIEMBRE DE 2025)</small>
+
+i)-1.- Las partes constitutivas de Armas de Fuego que figuran en los artículos 9 y 10 de la Ley Federal de Armas de Fuego y Explosivos, así como las partes constitutivas de armas de gas y de cañones industriales: $200.00
+
+Adicionalmente, se aplicarán las siguientes cuotas por piezas adicionales:
+
+i)-1.1 De 1 a 250 piezas $1,250.00
+
+i)-1.2 De 251 a 500 piezas $1,800.00
+
+i)-1.3 De 501 a 750 piezas $2,350.00
+
+i)-1.4 De 751 a 1000 piezas $2,900.00
+
+i)-1.5 De 1001 a 1250 piezas $3,450.00
+
+i)-1.6 De 1251 a 1500 piezas $4,000.00
+
+i)-1.7 De 1501 a 2000 piezas $4,550.00
+
+i)-1.8 De 2001 a 3000 piezas $5,100.00
+
+i)-1.9 De 3001 a 4000 piezas $5,650.00
+
+i)-1.10 De 4001 a 5000 piezas 6,200.00
+
+i)-1.11 De 5001 a 7000 piezas $6,750.00
 
 7.- Para la elaboración de peritajes, a solicitud del interesado, de la evaluación inicial de la contingencia que se presente en la Entidad, por metro cuadrado de construcción, como sigue:
 
@@ -8828,3 +8860,11 @@ El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 0
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+B.O. 4 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 73 “POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
