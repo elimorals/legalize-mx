@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-125677"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-29"
-last_updated: "2024-03-22"
+last_updated: "2025-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Décima Quinta Sección al Número 20 del Periódico Oficial de Puebla, el viernes 29 de diciembre de 2017.
 
@@ -127,6 +127,10 @@ XXIII. Espacio edificable: El suelo apto para el uso y aprovechamiento de sus pr
 
 XXIV. Fundación: La acción de establecer un nuevo asentamiento humano;
 
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+XXIV. Bis. Gentrificación: Proceso de transformación urbana que trae consigo cambios geográficos, debido a la inversión inmobiliaria y al traslado de nuevas personas residentes con mayores ingresos, que incrementa los costos de vida y vivienda en una zona, provocando el desplazamiento involuntario de las personas residentes originarias, afectando su tejido social y cultural;
+
 XXV. Gestión integral de riesgos: El conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción que involucra a los tres órdenes de gobierno, así como a los sectores de la sociedad, lo que facilita la implementación de políticas públicas, estrategias y procedimientos que combatan las causas estructurales de los desastres y fortalezcan las capacidades de resiliencia o resistencia de la sociedad. Comprende la identificación de los riesgos y, en su caso, su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción;
 
 XXVI. Infraestructura: Los sistemas y redes de organización y distribución de bienes y servicios en los centros de población, incluyendo aquellas relativas a las telecomunicaciones y radiodifusión;
@@ -201,11 +205,17 @@ VII. Productividad y eficiencia. Fortalecer la productividad y eficiencia de las
 
 VIII. Protección y progresividad del espacio público. Crear condiciones de habitabilidad de los espacios públicos, como elementos fundamentales para el derecho a una vida sana, la convivencia, recreación y seguridad ciudadana que considere las necesidades diferenciadas por personas y grupos. Se fomentará el rescate, la creación y el mantenimiento de los espacios públicos que podrán ampliarse, o mejorarse, pero nunca destruirse o verse disminuidos. En caso de utilidad pública, estos espacios deberán ser sustituidos por otros que generen beneficios equivalentes;
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-IX. Resiliencia, seguridad urbana y gestión integral de riesgos. Propiciar y fortalecer todas las instituciones y medidas de prevención, mitigación, atención, adaptación y resiliencia que tengan por objetivo proteger a las personas y su patrimonio, frente a los riesgos naturales y antropogénicos; así como evitar la ocupación de las zonas de alto riesgo; y
+IX. Resiliencia, seguridad urbana y gestión integral de riesgos. Propiciar y fortalecer todas las instituciones y medidas de prevención, mitigación, atención, adaptación y resiliencia que tengan por objetivo proteger a las personas y su patrimonio, frente a los riesgos naturales y antropogénicos; así como evitar la ocupación de las zonas de alto riesgo;
 
-X. Sustentabilidad ambiental. Promover prioritariamente, el uso racional del agua y de los recursos naturales renovables y no renovables, para evitar comprometer la capacidad de futuras generaciones; así como, evitar rebasar la capacidad de carga de los ecosistemas y que el crecimiento urbano ocurra sobre suelos agropecuarios de alta calidad, áreas naturales protegidas o bosques.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+X. Sustentabilidad ambiental. Promover prioritariamente, el uso racional del agua y de los recursos naturales renovables y no renovables, para evitar comprometer la capacidad de futuras generaciones; así como, evitar rebasar la capacidad de carga de los ecosistemas y que el crecimiento urbano ocurra sobre suelos agropecuarios de alta calidad, áreas naturales protegidas o bosques; y
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+XI. Interseccionalidad. Considerar en la planeación, regulación y gestión del territorio, que las desigualdades sociales no operen de manera aislada, sino que se interrelacionan y acumulan, generando formas específicas de exclusión que enfrentan personas o grupos en situación de vulnerabilidad, a fin de garantizar el ejercicio efectivo del derecho a la ciudad mediante medidas diferenciadas y acciones afirmativas.
 
 ###### ARTÍCULO 5.
 
@@ -493,13 +503,17 @@ XL. Aplicar y promover las políticas y criterios técnicos de las legislaciones
 
 XLI. Realizar, promover y concertar acciones e inversiones con los sectores social y privado, para el desarrollo regional, urbano y metropolitano, a efecto de lograr su conservación, mejoramiento y crecimiento, así como para la prestación y administración de los servicios públicos y la ejecución de obras de infraestructura y equipamiento urbano; atendiendo a los principios de la ley general, la presente ley y lo establecido en las leyes aplicables en la materia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-XLII. Fomentar la creación de espacios que contribuyan a la autosuficiencia, sustentabilidad y protección ambiental, a través de azoteas o techos verdes, jardines verticales, huertos urbanos, entre otros, y
+XLII. Fomentar la creación de espacios que contribuyan a la autosuficiencia, sustentabilidad y protección ambiental, a través de azoteas o techos verdes, jardines verticales, huertos urbanos, entre otros;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-XLIII. Las demás que le señale esta Ley, las disposiciones federales y estatales.
+XLIII. Garantizar que en la expedición o rechazo de autorizaciones, licencias, permisos y constancias motivo de esta Ley se procure que éstas no generen la existencia de gentrificación; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+XLIV. Las demás que le señale esta Ley, las disposiciones federales y estatales.
 
 Las atribuciones que otorga esta Ley a los Ayuntamientos serán ejercidas por las secretarías, dependencias, entidades u oficinas correspondientes salvo las que deban ejercer directamente los Presidentes municipales o los Ayuntamientos en cabildo, por disposición expresa de la Ley General, esta Ley y su reglamento, y la Ley Orgánica Municipal.
 
@@ -1703,11 +1717,11 @@ Para constituir, ampliar y delimitar la zona de urbanización ejidal y su reserv
 
 La presente Ley y los demás ordenamientos aplicables establecerán estrategias de gestión integral de riesgos, incluyendo acciones de prevención y, en su caso, de reubicación de asentamientos humanos, así como acciones reactivas tales como previsiones financieras y operativas para la recuperación. En general, deberán promover medidas que permitan a las ciudades incrementar su resiliencia.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 110.
 
-Las normas del presente capítulo son obligatorias para todas las personas, físicas y morales, públicas o privadas y tienen por objeto establecer las especificaciones a que estarán sujetos los procesos de ocupación del territorio, tales como aprovechamientos urbanos, edificación de obras de infraestructura, equipamiento urbano y viviendas, en zonas sujetas a riesgos naturales y antropogénicos, a fin de prevenir riesgos a la población y evitar daños irreversibles en sus personas o sus bienes, así como para mitigar los impactos y costos económicos y sociales en los centros de población.
+Las normas del presente capítulo son obligatorias para todas las personas, físicas y morales, públicas o privadas y tienen por objeto establecer las especificaciones a que estarán sujetos los procesos de ocupación del territorio, tales como aprovechamientos urbanos, edificación de obras de infraestructura, equipamiento urbano y viviendas, en zonas sujetas a riesgos naturales y antropogénicos, a fin de prevenir la gentrificación, riesgos a la población y evitar daños irreversibles en sus personas o sus bienes, así como para mitigar los impactos y costos económicos y sociales en los centros de población.
 
 ###### ARTÍCULO 111.
 
@@ -1953,7 +1967,9 @@ Son normas básicas para el ordenamiento de los asentamientos humanos las siguie
 
 I. Sobre las áreas susceptibles de desarrollo:
 
-a) Se orientará la expansión de los asentamientos humanos hacia las áreas especificadas en las zonas de los programas de desarrollo urbano y los programas de ordenamiento territorial que comparativamente requieran una menor inversión por concepto de apertura de vías públicas, de acceso y dotación de obras de infraestructura hidráulica, drenaje sanitario y pluvial y demás correspondientes, fomentando la preservación, protección y cuidado de los ecosistemas;
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+a) Se orientará la expansión de los asentamientos humanos hacia las áreas especificadas en las zonas de los programas de desarrollo urbano y los programas de ordenamiento territorial que comparativamente requieran una menor inversión por concepto de apertura de vías públicas, de acceso y dotación de obras de infraestructura hidráulica, drenaje sanitario y pluvial y demás correspondientes, fomentando la preservación, protección y cuidado de los ecosistemas, y evitando que la gentrificación pueda poner en riesgo a las personas pobladoras originarias, y al tejido social y cultural de la zona;
 
 b) Se evitará el crecimiento de los asentamientos humanos hacia las áreas que deben ser preservadas, mejoradas o protegidas; por ser prioritario el aprovechamiento de sus recursos agrícolas, forestales, pecuarios u otros, así como por contener bellezas naturales o elementos que forman parte del medio natural, y
 
@@ -2005,9 +2021,9 @@ Las políticas públicas que se aplicarán según corresponda a áreas de ordena
 
 I. De impulso, que se aplicarán a los centros de población seleccionados, por presentar condiciones favorables para incidir o reforzar un proceso de desarrollo, así como de rápido crecimiento demográfico y que presuponen una importante concentración de recursos;
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-II. De consolidación, para la aplicación a los centros de población que solo requieren del ordenamiento de su estructura básica y que, sin afectar su dinámica actual, procuran evitar los efectos negativos de la desordenada concentración urbana;
+II. De consolidación, para la aplicación a los centros de población que solo requieren del ordenamiento de su estructura básica y que, sin afectar su dinámica actual, procuran evitar los efectos negativos de la desordenada concentración urbana y de la gentrificación;
 
 > <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
 
@@ -3016,6 +3032,22 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 22 DE MARZO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LA FRACCIÓN XVI BIS AL ARTÍCULO 14 Y LA XV BIS AL ARTÍCULO 16 DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES IX Y X Y ADICIONA LA FRACCIÓN XI AL ARTÍCULO 4 DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XLII Y XLIII DEL ARTÍCULO 16, EL ARTÍCULO 110, EL INCISO A) DE LA FRACCIÓN I DEL 130, Y LA FRACCIÓN II DEL 132; Y ADICIONA LA FRACCIÓN XXIV BIS AL ARTÍCULO 3 Y LA XLIV AL 16 DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
