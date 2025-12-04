@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-instituciones-y-procedimientos-electorales-para-el-10196
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2024-12-26"
+last_updated: "2025-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 3 de julio de 2014.
 
@@ -2523,6 +2523,8 @@ ARTÍCULO 141
 
 ARTÍCULO 142
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 4 DE DICIEMBRE DE 2025)</small>
+
 1. La Comisión de Administración tendrá las facultades y obligaciones siguientes:
 
 I. Elaborar el proyecto de reglamento interno del Tribunal Electoral y someterlo a la aprobación de la Sala;
@@ -2547,7 +2549,9 @@ X. Vigilar que los servidores de la Sala, cumplan en tiempo y forma con la prese
 
 XI. Nombrar a los secretarios, a los actuarios, oficiales de partes, así como al personal administrativo y técnico que se requiera para el buen funcionamiento del Tribunal Electoral;
 
-XII. Elaborar el Informe de Cuenta Pública relativo al ejercicio fiscal del año anterior y rendirlo a la Entidad de Auditoría Superior; y
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+XII. Elaborar el Informe de Cuenta Pública relativo al ejercicio fiscal del año anterior y rendirlo a la Auditoría Superior del Estado; y
 
 XIII. Desempeñar cualquier otra función que la ley o el reglamento interno del Tribunal Electoral le encomienden.
 
@@ -6574,3 +6578,11 @@ Las disposiciones legales contenidas en los artículos 32 BIS, 32 QUÁTER y 186 
 ###### ARTÍCULO SÉPTIMO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 281 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE DURANGO, EN MATERIA DE ARMONIZACIÓN LEGAL”.]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
