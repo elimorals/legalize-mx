@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-gestion-ambiental-sustentable-para-el-estado-de-75884"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-24"
-last_updated: "2025-11-16"
+last_updated: "2025-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 24 de junio de 2010.
 
@@ -403,9 +403,9 @@ V. Prevenir y controlar actividades que generen riesgo, tales como las producida
 
 VI. Desarrollar programas tendientes a mejorar la calidad del aire, de aguas, suelo y subsuelo en bienes y zonas de jurisdicción estatal;
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-VII. La regulación, creación y administración de áreas naturales protegidas;
+VII. La regulación, creación y administración de áreas naturales protegidas, a excepción de las áreas destinadas voluntariamente a la conservación, las cuales recaerán para su administración en los dueños y poseedores de los sitios;
 
 VIII. La regulación de las actividades que no sean consideradas como altamente riesgosas, cuando por los efectos que puedan generar se afecten ecosistemas de la entidad o sus municipios;
 
@@ -1091,9 +1091,11 @@ III. Zona de influencia.
 
 En las resoluciones se señalarán los usos intensivos, medios o restringidos que se pueden autorizar en la zona de amortiguamiento. Reglamentariamente se definirán dichos usos.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 42.
 
-La zona núcleo, es la porción protegida mejor conservada que contiene ecosistemas o fenómenos naturales de especial importancia y especies de flora y fauna que requieren protección completa para propósitos científicos o de regulación ambiental y deberán incorporarse a los bienes del dominio público estatal o municipal, según corresponda, en cuyo caso la autoridad competente expedirá el decreto expropiatorio correspondiente, o bien, la celebración de convenios entre la autoridad y el poseedor del predio.
+La zona núcleo, es la porción protegida mejor conservada que contiene ecosistemas o fenómenos naturales de especial importancia y especies de flora y fauna que requieren protección completa para propósitos científicos o de regulación ambiental; consideraciones que habrán de tomarse en cuenta para determinar usos permitidos en el Plan de Manejo del Área Natural Protegida.
 
 ###### ARTÍCULO 43.
 
@@ -2754,6 +2756,14 @@ SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en 
 P.O. 16 DE NOVIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 235 EL CUAL REFORMA DIVERSAS DISPOSICIONES A LA LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 4 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 286 EL CUAL REFORMA LA LEY GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO”.]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
