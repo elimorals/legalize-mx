@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2025-06-30"
+last_updated: "2025-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE DICIEMBRE DE 2025.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -1217,9 +1217,9 @@ XLII. Expedir las leyes que instituyan el Tribunal Estatal de Justicia Administr
 
 XLIII. Expedir la legislación en materia local anticorrupción, de conformidad con la Constitución Política de los Estados Unidos Mexicanos y las leyes generales en la materia, con objeto de coordinarse para la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos;
 
-> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, G.O. 4 DE DICIEMBRE DE 2025)</small>
 
-XLIV. Designar y remover al Fiscal General del Estado, de conformidad con lo previsto en el artículo 67 fracción I inciso d) de esta Constitución;
+XLIV. Aprobar la propuesta de nombramiento de la persona Titular de la Fiscalía General del Estado, de conformidad con el procedimiento y los requisitos previstos en el artículo 67, fracción I, de esta Constitución;
 
 > <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2020)</small>
 
@@ -1563,7 +1563,17 @@ Concluida la comparecencia de las y los secretarios de despacho o equivalentes, 
 
 XXII. Comprometer el crédito del Estado, previa autorización del Congreso, en los términos de esta Constitución y la ley; y
 
-XXIII. Las demás que la Constitución Federal, esta Constitución, las leyes federales y las del Estado le otorguen.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE DICIEMBRE DE 2025)</small>
+
+XXIII. Remitir al Congreso del Estado, la propuesta de nombramiento de la persona titular de la Fiscalía General del Estado;
+
+> <small>(ADICIONADA, G.O. 4 DE DICIEMBRE DE 2025)</small>
+
+XXIV. Remover y ratificar a la persona titular de la Fiscalía General del Estado, notificándole al Congreso del Estado su determinación; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 4 DE DICIEMBRE DE 2025)</small>
+
+XXV. Las demás que la Constitución Federal, esta Constitución, las leyes federales y las del Estado le otorguen.
 
 > <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -2079,51 +2089,45 @@ Esta actividad estará a cargo del organismo autónomo del Estado denominado Fis
 
 La función de procurar justicia encomendada a la Fiscalía General, se regirá por los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, responsabilidad y respeto a los derechos humanos, de acuerdo con las siguientes bases:
 
-a) El titular de la función del Ministerio Público ejercida por este órgano autónomo será el Fiscal General del Estado quien, para el ejercicio de sus funciones, contará con los fiscales auxiliares, agentes, policía ministerial y demás personal, que estará bajo su autoridad y mando directo, en los términos que establezca la ley, la cual señalará los requisitos y, en su caso, el procedimiento para los nombramientos, sustituciones y remociones.
+> <small>(REFORMADO, G.O. 4 DE DICIEMBRE DE 2025)</small>
 
-b) Para ser Fiscal General del Estado se requiere:
+a) La titularidad de la función del Ministerio Público ejercida por este órgano autónomo será de la persona que ocupe el cargo de Fiscal General del Estado quien, para el ejercicio de sus funciones, contará con fiscales auxiliares, agentes, policía ministerial y demás personal, que estará bajo su autoridad y mando directo, en los términos que establezca la ley, la cual señalará los requisitos y, en su caso, el procedimiento para los nombramientos, sustituciones y remociones.
 
-1. Ser ciudadano mexicano por nacimiento en ejercicio de sus derechos y no tener otra nacionalidad;
+> <small>(REFORMADO, G.O. 4 DE DICIEMBRE DE 2025)</small>
 
-2. Tener, cuando menos, treinta años cumplidos al día de su designación;
+b) La persona Titular de la Fiscalía General del Estado, deberá, al momento de su designación, cumplir con los siguientes requisitos:
 
-3. Poseer, al día de su designación, el título de Licenciado en Derecho, con antigüedad mínima de cinco años, expedido por autoridad o institución mexicana legalmente facultada para ello;
+1. Tener la ciudadanía mexicana por nacimiento en pleno ejercicio de sus derechos y no tener otra nacionalidad;
 
-4. No haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación o abuso de confianza, lo inhabilitará para el cargo, cualquiera que haya sido la pena; y
+2. Tener, cuando menos, treinta años cumplidos al momento de su designación;
 
-5. No pertenecer al estado eclesiástico, no ser ministro de algún culto religioso, a menos que se separe conforme a lo establecido en la Constitución federal y la ley de la materia.
+3. Poseer, al momento de su designación, Título de Licenciatura en Derecho, con una antigüedad mínima de cinco años, expedido por autoridad o institución mexicana legalmente facultada para ello;
 
-c) El Fiscal General durará en su encargo nueve años.
+4. No tener condena por delito que amerite pena corporal de más de un año de prisión; si se tratase de los delitos de robo, fraude, falsificación o abuso de confianza, lo inhabilitará para el cargo, cualquiera que haya sido la pena;
 
-> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], G.O. 29 DE NOVIEMBRE DE 2018)</small>
+5. No pertenecer al estado eclesiástico, no ser ministro de culto religioso, a menos que se separe conforme a lo establecido en la Constitución Federal y la ley de la materia; y
 
-d) El fiscal general será designado y removido por el Congreso del Estado mediante el siguiente procedimiento:
+6. Someterse y acreditar en los términos de la ley, a las evaluaciones y certificaciones de control y confianza correspondientes.
 
-1. A partir de la ausencia definitiva del Fiscal General, el Congreso contará con cinco días naturales para emitir Convocatoria pública, a los ciudadanos, organismos no gubernamentales, asociaciones e instituciones, para que presenten propuestas a efecto de cubrir la vacante.
+El perfil de la persona Titular de la Fiscalía General será el de una persona honorable, con conocimientos y experiencia en el ámbito jurídico y de procuración de justicia, capacidad de administración y dirección institucional, diseño y ejecución de políticas públicas, independiente en su actuación, con una visión de respeto y protección a los derechos humanos, atención a las víctimas y perspectiva de género.
 
-2. La recepción de propuestas se hará en un plazo de diez días naturales, contado a partir del siguiente a aquel en que se haga pública la convocatoria respectiva.
+> <small>(REFORMADO, G.O. 4 DE DICIEMBRE DE 2025)</small>
 
-3. Cumplido dicho plazo, y cerrada la recepción de propuestas, la comisión encargada del ramo citará de inmediato, y por un término no mayor de diez días naturales, a comparecer a las y los ciudadanos que cumplan los requisitos, con objeto de que aporten mayores elementos que permitan conocer sus objetivos de trabajo en la materia.
+c) El nombramiento de la persona titular de la Fiscalía General del Estado será realizado a propuesta de la persona Titular del Poder Ejecutivo y sometido a la consideración del Congreso del Estado, el cual deberá resolver dentro del improrrogable término de cinco días hábiles. El Congreso aprobará la propuesta por las dos terceras partes de las diputaciones presentes; en caso de que no se pronuncie respecto de la propuesta en el plazo señalado para tal efecto, se entenderá por aprobada. En cualquiera de dichos supuestos se llamará a la persona designada a la debida protesta de ley.
 
-4. En un plazo de tres días naturales, contado a partir de que haya concluido el periodo de comparecencias de las y los candidatos, la comisión del ramo deberá emitir su dictamen, que contendrá una terna de candidatos, el cual será sometido al Pleno del Congreso del Estado, para que se realice el nombramiento.
+En caso de que la propuesta no sea aprobada, se solicitará a la persona Titular del Poder Ejecutivo que remita una segunda propuesta, misma que será sometida nuevamente a votación en los términos del párrafo anterior para su aprobación, dentro de los dos días hábiles siguientes; de no pronunciarse el Congreso dentro de este plazo, o si esta segunda propuesta no fuera aprobada, la persona Titular del Poder Ejecutivo tendrá la facultad de designar a la persona Titular de la Fiscalía General del Estado de entre las dos personas que integraron las propuestas previamente sometidas a la consideración del Congreso.
 
-5. El Congreso, con base en la terna propuesta en el dictamen, designará al Fiscal General con el voto de las dos terceras partes de los miembros presentes, dentro del improrrogable plazo de cinco días hábiles contado a partir de emitido el dictamen.
+Cuando se tenga conocimiento de la ausencia definitiva de la persona titular de la Fiscalía General, la persona titular del Poder Ejecutivo remitirá la propuesta de nombramiento que será sometido a la consideración del Congreso, de acuerdo con el procedimiento previsto en este inciso.
 
-> <small>[N. DE E. PERTENECE AL INCISO D), G.O. 29 DE NOVIEMBRE DE 2018]</small>
+La persona titular de la Fiscalía General del Estado podrá ser removida por la persona Titular del Poder Ejecutivo por las causas graves que establezca la ley. La remoción podrá ser objetada por el Congreso con la misma votación requerida para su nombramiento dentro de un plazo de cinco días hábiles, en cuyo caso, la persona titular de la Fiscalía General será restituida en el ejercicio de sus funciones. Si el Congreso no se pronuncia al respecto, se entenderá que no existe objeción.
 
-En caso de que ninguno de los integrantes de la terna obtenga la mayoría de votos arriba señalada, se realizará una segunda votación, en la que se designará como Fiscal General al candidato que cuente con la misma mayoría calificada.
+Las ausencias de la persona titular de la Fiscalía General serán suplidas en los términos que señale la ley.
 
-> <small>[N. DE E. PERTENECE AL INCISO D), G.O. 29 DE NOVIEMBRE DE 2018]</small>
+> <small>(REFORMADO, G.O. 4 DE DICIEMBRE DE 2025)</small>
 
-Si después de las dos rondas previstas ninguno de los candidatos alcanzó el voto requerido, se realizará una tercera votación, en la que se designará como Fiscal General al candidato que cuente con la mayoría absoluta.
+d) La duración del encargo de la persona Titular de la Fiscalía General del Estado será de cuatro años, pudiendo ser ratificada por la persona Titular del Ejecutivo, para un segundo y último periodo de igual duración, haciéndolo de conocimiento al Congreso del Estado para su debida protesta de ley.
 
-> <small>[N. DE E. PERTENECE AL INCISO D), G.O. 29 DE NOVIEMBRE DE 2018]</small>
-
-El Fiscal General podrá ser removido por el Congreso por las causas graves que establezca la ley, y por el mismo procedimiento de votación establecido para su designación.
-
-> <small>[N. DE E. PERTENECE AL INCISO D), G.O. 29 DE NOVIEMBRE DE 2018]</small>
-
-Las ausencias del Fiscal General serán suplidas en los términos que señale la ley.
+En caso de que no exista ratificación, deberá realizarse el proceso de designación contenido en el inciso c).
 
 > <small>(REFORMADO, G.O. 16 DE OCTUBRE DE 2017)</small>
 
@@ -4448,3 +4452,13 @@ G.O. 30 DE JUNIO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.O. 4 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 273 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. El Congreso del Estado, dentro de un plazo de ciento veinte días naturales siguientes a la entrada en vigor del presente decreto, realizará las adecuaciones a la Ley Orgánica de la Fiscalía General del Estado de Veracruz de Ignacio de la Llave.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
