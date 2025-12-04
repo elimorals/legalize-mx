@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-seguridad-ciudadana-del-estado-de-quintana-roo-165693"
 country: "mx"
 rank: "ley"
 publication_date: "2023-04-20"
-last_updated: "2024-10-15"
+last_updated: "2025-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165693&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE SEGURIDAD CIUDADANA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número 6 Especial del Periódico Oficial del Estado de Quintana Roo, el jueves 20 de abril de 2023.
 
@@ -158,6 +158,10 @@ XXIX. Plataforma: El conjunto de datos informativos contenidos en los registros 
 XXX. Programa Estatal: Al Programa Estatal de Seguridad Ciudadana;
 
 XXXI. Programa Municipal: A los Programas Municipales de Seguridad Ciudadana;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+XXXI Bis. Reglamento Interior de la Universidad: Al Reglamento Interior de la Universidad de Ciencias y Disciplinas de la Seguridad de Quintana Roo;
 
 XXXII. Secretaría: La Secretaría de Seguridad Ciudadana del Estado de Quintana Roo;
 
@@ -3561,7 +3565,9 @@ III. Podrán acceder a jornadas con flexibilidad de horario que les permita aten
 
 ## TÍTULO SÉPTIMO. DE LA EVALUACIÓN Y CONTROL DE CONFIANZA DE LAS PERSONAS INTEGRANTES DE LAS INSTITUCIONES DE SEGURIDAD CIUDADANA
 
-### CAPÍTULO ÚNICO. DE LA UNIVERSIDAD DE CIENCIAS Y DISCIPLINAS DE LA SEGURIDAD DE QUINTANA ROO
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 280.
 
@@ -3619,43 +3625,37 @@ El Estado y los Municipios implementaran medidas de registro y seguimiento para 
 
 El C3, propondrá los criterios para la selección, ingreso, permanencia, estímulos, ascensos, reconocimientos, sanciones, promoción y baja o separación de las Personas Integrantes de las Instituciones Policiales de Seguridad Ciudadana y de Procuración de Justicia en el Estado y los Municipios, empresas de Seguridad Privada, así como la descripción funcional y los procedimientos de evaluación, conforme a los lineamientos establecidos en esta Ley y las demás disposiciones aplicables.
 
-## TÍTULO OCTAVO. DE LA PROFESIONALIZACIÓN DE LAS INSTITUCIONES POLICIALES DE SEGURIDAD CIUDADANA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+## TÍTULO OCTAVO. DE LA UNIVERSIDAD DE CIENCIAS Y DISCIPLINAS DE LA SEGURIDAD DE QUINTANA ROO
+
+(REFORMADA SU NOMENCLATURA), P.O. 4 DE DICIEMBRE DE 2025)
+
+### CAPÍTULO SEGUNDO. DE LOS ÓRGANOS DE GOBIERNO Y ADMINISTRACIÓN
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 285.
 
-La Universidad, se crea como una unidad administrativa adscrita a la Secretaría, cuya persona titular será nombrada y removida libremente por la Persona Titular del Ejecutivo del Estado. Será la encargada de formar profesionistas en materia de seguridad, así como de diseñar y ejecutar los planes y programas para la formación de las personas aspirantes y Personas Integrantes de las Instituciones Policiales de Seguridad Ciudadana del Estado, los cuales se fundamentarán en los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución.
+La Universidad es un organismo público descentralizado de la administración pública estatal, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 286.
 
-El domicilio de la Universidad será el municipio de Othón P. Blanco y se podrá establecer instalaciones con fines similares a ésta en cualquier lugar del Estado.
-
-### CAPÍTULO II. DEL REGISTRO ESTATAL DEL PERSONAL DE SEGURIDAD CIUDADANA
-
-###### Artículo 287.
-
-La Universidad será coordinada administrativamente por la Secretaría.
-
-### CAPÍTULO III. DEL REGISTRO ESTATAL DE ARMAMENTO Y EQUIPO
-
-###### Artículo 288.
+La Universidad tendrá por objeto la formación de profesionistas en materia de seguridad ciudadana, así como de diseñar y ejecutar los planes y programas para la formación de las personas aspirantes y personas integrantes de las instituciones de seguridad ciudadana del Estado y los Municipios, así como instituciones auxiliares y empresas de seguridad privada; instrumentos académicos que se fundamentarán en los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales en los que el Estado mexicano sea parte y la Constitución Estatal.
 
 Las personas aspirantes a los cursos de formación inicial, se sujetarán a los procesos de reclutamiento y selección que establezca la Secretaría, quien es la dependencia encargada de realizar dicha función.
 
-### CAPÍTULO IV. DEL REGISTRO PARA EL SISTEMA PENITENCIARIO
-
-###### Artículo 289.
-
-La Universidad tiene por objeto:
+La Universidad tendrá los objetivos siguientes:
 
 I. Impartir planes y programas académicos en los niveles de educación superior: Técnico Superior Universitario, Licenciatura, Especialización, Maestría y Doctorado;
 
-II. Proporcionar capacitación para el desarrollo de las Personas Integrantes de las Instituciones de Seguridad Ciudadana e Instituciones de Procuración de Justicia, de conformidad con lo dispuesto en esta Ley y demás aplicables;
+II. Proporcionar capacitación para el desarrollo de las personas integrantes de las instituciones de seguridad ciudadana e instituciones de procuración de justicia, de conformidad con lo dispuesto en esta Ley y demás aplicables;
 
-III. Desarrollar estudios y proyectos de investigación, aplicados a las áreas que conforman las Instituciones de Seguridad Ciudadana e Instituciones de Procuración de Justicia;
+III. Desarrollar estudios y proyectos de investigación, aplicados a las áreas que conforman las instituciones de seguridad ciudadana e instituciones de procuración de justicia;
 
-IV. Diseñar y ejecutar los planes y programas para formación, actualización, especialización y profesionalización de las personas aspirantes y Personas Integrantes de las Instituciones Policiales de Seguridad Ciudadana del Estado;
+IV. Diseñar y ejecutar los planes y programas para formación, actualización, especialización y profesionalización de las personas aspirantes y personas integrantes de las instituciones policiales de seguridad ciudadana del Estado;
 
 V. Establecer programas de vinculación con los sectores público, privado y social, para contribuir con el desarrollo de la comunidad;
 
@@ -3665,35 +3665,35 @@ VII. Difundir conocimiento, valores y cultura a través de la extensión académ
 
 VIII. Cualquier otro que permita consolidar su modelo educativo.
 
-### CAPÍTULO V. DEL REGISTRO NACIONAL DE DETENCIONES
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-###### Artículo 290.
+###### Artículo 286 Bis.
 
-A fin de lograr los objetivos de los programas de formación, actualización, especialización y profesionalización que imparta la Universidad, ésta promoverá la suscripción de convenios con los Ayuntamientos y el Estado con el propósito de que el personal de las Instituciones Policiales de Seguridad Ciudadana municipales se beneficie con dichos programas.
+La Universidad tendrá su domicilio en el Municipio de Othón P. Blanco y podrá establecer instalaciones con fines similares a ésta en cualquier Municipio del Estado.
 
-### CAPÍTULO VI. DEL REGISTRO PÚBLICO VEHICULAR
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-###### Artículo 291.
+###### Artículo 286 Ter.
 
 Para el cumplimiento de sus objetivos, la Universidad tendrá las siguientes atribuciones:
 
-I. Ofrecer educación superior al alumnado egresado de nivel medio superior, a través de los programas de Técnico Superior Universitario y Licenciatura, así como programas de continuidad de estudio para sus egresados y de otras instituciones de educación superior;
+I. Ofrecer educación superior a las personas egresadas de nivel medio superior, a través de los programas de técnico superior universitario y licenciatura, así como programas de continuidad de estudio para las personas egresadas y de otras instituciones de educación superior;
 
-II. Otorgar títulos o grados de técnico superior universitario, licenciatura y posgrado; los cuales serán validados por la Secretaría de Educación del Estado;
+II. Otorgar títulos o grados de técnico superior universitario, licenciatura y posgrado, los cuales serán validados por la Secretaría de Educación del Estado de Quintana Roo;
 
-III. Ofrecer formación inicial, a través del curso de formación básica requerida para la incorporación de aspirantes a la Carrera Policial e investigación y de procuración de justicia;
+III. Ofrecer formación inicial, a través del curso de formación básica requerida para la incorporación de personas aspirantes a la carrera policial e investigación y de procuración de justicia;
 
-IV. Impartir formación continua a las Personas Integrantes de las Instituciones de Seguridad Ciudadana e Instituciones de Procuración de Justicia, a través de cursos de especialización, actualización y alta dirección;
+IV. Impartir formación continua a las personas integrantes de las instituciones de seguridad ciudadana e instituciones de procuración de justicia, a través de cursos de especialización, actualización y alta dirección;
 
 V. Expedir certificados y diplomas, en los términos de los planes y programas académicos correspondientes;
 
-VI. Establecer los procedimientos y requisitos de selección, ingreso y permanencia del alumnado, así como de acreditación y certificación de estudios;
+VI. Establecer los procedimientos y requisitos de selección, ingreso y permanencia de las personas estudiantes, así como de acreditación y certificación de estudios;
 
-VII. Promover el intercambio de estudiantes inscritos en otras universidades e institutos de este tipo, previa revalidación o declaración de estudios equivalentes, emitida por la autoridad educativa competente;
+VII. Promover el intercambio de personas estudiantes inscritas en otras universidades e institutos de este tipo, previa revalidación o declaración de estudios equivalentes, emitida por la autoridad educativa competente;
 
-VIII. Desarrollar en el alumnado las habilidades y actitudes que le permitan actuar con base en conocimientos científicos y técnicos;
+VIII. Desarrollar en las personas estudiantes las habilidades y actitudes que le permitan actuar con base en conocimientos científicos y técnicos;
 
-IX. Realizar estudios y proyectos de investigación que, dentro de su ámbito de competencia, se traduzcan en aportaciones concretas que contribuyan al mejoramiento y modernización de las Instituciones de Seguridad Ciudadana e Instituciones de Procuración de Justicia;
+IX. Realizar estudios y proyectos de investigación que, dentro de su ámbito de competencia, se traduzcan en aportaciones concretas que contribuyan al mejoramiento y modernización de las instituciones de seguridad ciudadana e instituciones de procuración de justicia;
 
 X. Desarrollar acciones vinculadas con los diversos sectores público, privado y social, a efecto de cumplir la función ante la comunidad que le corresponde, a través de la difusión de su misión, actividades y espíritu;
 
@@ -3705,9 +3705,227 @@ XIII. Establecer los términos de ingreso, promoción y permanencia del personal
 
 XIV. Llevar a cabo los demás actos jurídicos, académicos y administrativos, necesarios para el cumplimiento de su objeto.
 
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO TERCERO. DE LA JUNTA DE GOBIERNO DE LA UNIVERSIDAD DE CIENCIAS Y DISCIPLINAS DE LA SEGURIDAD DE QUINTANA ROO
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 287.
+
+Para su organización y funcionamiento la Universidad contará con los siguientes órganos de gobierno y dirección:
+
+I. Una Junta de Gobierno, y
+
+II. Una Rectoría.
+
+La rectoría estará encabezada por una persona titular a quien se denominará Rector o Rectora.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO CUARTO. DE LA RECTORÍA DE LA UNIVERSIDAD DE CIENCIAS Y DISCIPLINAS DE LA SEGURIDAD DE QUINTANA ROO
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 288.
+
+La Junta de Gobierno de la Universidad, se integrará por las personas titulares de las dependencias, unidades administrativas u órganos autónomos siguientes:
+
+I. El Poder Ejecutivo, quien lo presidirá;
+
+II. La Secretaría, en calidad de Secretaria;
+
+III. La Secretaría de Gobierno de Quintana Roo, en calidad de vocal;
+
+IV. La Secretaría de Finanzas y Planeación del Estado de Quintana Roo, en calidad de vocal;
+
+V. La Secretaría de Educación del Estado de Quintana Roo, en calidad de vocal;
+
+VI. La Fiscalía General del Estado de Quintana Roo, en calidad de vocal, y
+
+VII. El Secretariado Ejecutivo del Sistema Estatal de Seguridad Ciudadana de Quintana Roo, en calidad de vocal.
+
+La Junta de Gobierno sesionará válidamente, con la asistencia de por lo menos la mitad más uno de sus integrantes. Las resoluciones se tomarán por mayoría de las personas integrantes presentes, teniendo la Presidencia el voto de calidad en caso de empate.
+
+El cargo de persona integrante de la Junta de Gobierno será honorífico, por lo cual no recibirán retribución alguna y en el desarrollo de las sesiones de dicho órgano, contarán con voz y voto.
+
+La Junta de Gobierno se auxiliará y podrá coordinarse para el correcto desempeño de sus facultades con una Secretaría Técnica, que será ocupada por la persona Titular de la Rectoría, encargada de llevar los asuntos referentes a las sesiones; participará con derecho a voz, pero no a voto, pudiendo en todo caso designar una persona suplente.
+
+Cada persona integrante de la Junta de Gobierno designará por escrito ante la Presidencia, a quien fungirá como suplente, la cual deberá tener, preferentemente, el nivel jerárquico inmediato inferior.
+
+A las sesiones de la Junta de Gobierno podrán asistir, en calidad de invitadas, las personas servidoras públicas que sean convocadas para ello, por determinación de la Presidencia, así como las personas representantes de instituciones públicas federales, estatales o municipales, o de instituciones privadas y particulares que, bajo la misma circunstancia, sean invitadas a participar.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 288 Bis.
+
+La Junta de Gobierno tendrá un órgano de vigilancia encabezado por una persona Comisaria Pública, designada por la persona titular de la Secretaría Anticorrupción y Buen Gobierno del Estado de Quintana Roo, que estará adscrita jerárquica, técnica y funcionalmente a ésta, quien a su vez podrá designar a una persona suplente, misma que participará con voz, pero sin derecho a voto. Su asistencia no implicará conformidad con los acuerdos y sus facultades estarán definidas por la Ley Orgánica de la Administración Pública del Estado de Quintana Roo, la Ley de las Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 288 Ter.
+
+Las sesiones de la Junta de Gobierno se regirán por lo dispuesto en la Ley de las Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo y el Reglamento de la Ley de Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo y podrán ser ordinarias y extraordinarias.
+
+La Junta de Gobierno celebrará cuatro sesiones ordinarias dentro del año calendario, y sesionará en forma extraordinaria, las que se estime conveniente, bajo la convocatoria de la Presidencia.
+
+Las sesiones de la Junta de Gobierno se convocarán con tres días hábiles de antelación y corresponderá a la persona Secretaría (sic) Técnica, comunicar y distribuir los documentos inherentes a los asuntos previstos en el orden del día.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 288 Quáter.
+
+Corresponderá a la Junta de Gobierno de la Universidad, las siguientes atribuciones indelegables:
+
+I. Aprobar el Reglamento Interior de la Universidad;
+
+II. Establecer los lineamientos generales de actuación de la Universidad;
+
+III. Vigilar el correcto funcionamiento de la Universidad;
+
+IV. Aprobar el informe anual de actividades y el proyecto anual de ingresos y egresos, presentado por la persona titular de la Rectoría, observando en todo momento las obligaciones aplicables en los términos de la Ley de Ingresos del Estado de Quintana Roo;
+
+V. Aprobar el Plan Institucional de la Universidad;
+
+VI. Aprobar los planes y programas académicos, de conformidad con lo establecido en las disposiciones legales aplicables;
+
+VII. Aprobar los programas de formación, actualización, especialización y profesionalización policial;
+
+VIII. Discutir y aprobar, en su caso, los proyectos académicos que se le presenten y los que surjan en su propio seno;
+
+IX. Aprobar los actos de dominio, respecto del patrimonio de la Universidad;
+
+X. Aprobar los reglamentos, acuerdos y demás disposiciones de su respectiva competencia y, en su caso, modificarlos;
+
+XI. Autorizar el calendario escolar para cada ciclo;
+
+XII. Conocer y aprobar, en su caso, los informes generales y especiales que le presente la persona titular de la Rectoría;
+
+XIII. Discutir y, en su caso, resolver los asuntos que someta a su consideración la persona titular de la Rectoría, con relación al funcionamiento de la Universidad, y
+
+XIV. Las demás que se le asignen por las leyes, reglamentos, decretos, acuerdos y el Estatuto Orgánico de la Universidad.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO QUINTO. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 289.
+
+La Rectoría será el Órgano de Dirección Académica y Administrativa de la Universidad, cuya Persona Titular será nombrada por la Persona Titular del Ejecutivo del Estado y tendrá, para el desempeño de su cargo las atribuciones siguientes:
+
+I. Ejecutar y dar cumplimiento a los acuerdos dictados por la Junta de Gobierno;
+
+II. Ejercer la representación legal de la Universidad, con carácter de persona apoderada para pleitos y cobranzas y actos de administración, con todas las facultades generales y las especiales que requieran cláusula especial, conforme a la legislación civil vigente en el Estado y las correlativas de las entidades federativas, por lo que enunciativa más no limitativamente tiene facultades para otorgar o revocar poderes, dentro del ámbito conferido, interponer recursos, formular querellas, articular y absolver posiciones, ejercer y desistirse de acciones judiciales, administrativas y laborales e inclusive en materia del juicio de amparo;
+
+III. Dirigir el funcionamiento de la Universidad, vigilando el cumplimiento de su objeto, planes y programas administrativos, financieros y académicos, así como la correcta operación de las diversas áreas que integran la misma;
+
+IV. Cumplir y hacer cumplir las normas y disposiciones reglamentarias de la Universidad;
+
+V. Verificar que las personas aspirantes a ingresar a los cursos de formación inicial hayan cumplido con los procesos de selección, aprobación de las evaluaciones de control de confianza, ingreso y los demás establecidos en las disposiciones aplicables;
+
+VI. Llevar un registro de los expedientes de las personas estudiantes y de las personas egresadas, así como actualizar la base de datos de cursos, personas estudiantes, personas egresadas y personal docente;
+
+VII. Aplicar por sí o a través de las personas docentes y personal administrativo, las sanciones y correctivos disciplinarios a las personas estudiantes, así como las amonestaciones al personal administrativo, con apoyo en las disposiciones jurídicas vigentes;
+
+VIII. Instruir las medidas necesarias para el adecuado desarrollo de las actividades formativas que requieran el empleo de armamento y municiones, en estricto apego a lo previsto en la Ley Federal de Armas de Fuego y Explosivos;
+
+IX. Vigilar el buen uso de las municiones y mantener en óptimas condiciones el equipo y armamento asignado para las prácticas de tiro;
+
+X. Someter a la aprobación de la Junta de Gobierno, los proyectos de Estatuto Orgánico, de los reglamentos, así como los manuales necesarios para el correcto funcionamiento de la Universidad;
+
+XI. Proponer ante la Junta de Gobierno la creación o liquidación de carreras, planes y programas académicos, así como el calendario escolar de la Universidad;
+
+XII. Impulsar la profesionalización de las personas integrantes de las instituciones de seguridad ciudadana del Estado y de los Municipios, colaborando en la ejecución de los programas de ingreso, formación, capacitación, adiestramiento, desarrollo, actualización, promoción, permanencia, evaluación y retiro, conforme al Servicio Profesional de Carrera Policial;
+
+XIII. Autorizar, supervisar y certificar los cursos impartidos dentro o fuera de las instalaciones de la Universidad, por personas instructoras internas o externas;
+
+XIV. Supervisar y aprobar los programas de adiestramiento o especialización, verificando que se cumplan adecuadamente con los programas de estudios que establece el Sistema Nacional, a través de la Academia Nacional y el Consejo Académico Regional del Sureste;
+
+XV. Presentar y someter a la determinación de la Junta de Gobierno, durante el mes de septiembre de cada año, el programa de actividades y el presupuesto de egresos para el siguiente año;
+
+XVI. Rendir el informe anual de actividades a la Junta de Gobierno en la última sesión del año de que se trate o en la primera del siguiente;
+
+XVII. Proponer a la persona Titular del Poder Ejecutivo del Estado, la estructura orgánica de la Universidad;
+
+XVIII. Previo acuerdo con la persona Titular del Poder Ejecutivo del Estado, llevar a cabo las designaciones de las personas servidoras públicas de confianza de la Universidad que ocupen algún cargo dentro de su estructura orgánica;
+
+XIX. Realizar las actividades de reclutamiento, selección y designación del personal docente;
+
+XX. Celebrar y ejecutar los actos jurídicos necesarios en el ámbito de sus atribuciones, para concretar la realización de actos, exposiciones, presentaciones o actividades de carácter educativo, en los recintos a su cargo;
+
+XXI. Celebrar los instrumentos jurídicos que resulten convenientes, para alcanzar el cumplimiento de los objetivos de la Universidad;
+
+XXII. Administrar los recursos asignados a la Universidad, vigilar su correcta aplicación y preparar y rendir la cuenta pública correspondiente al propio organismo;
+
+XXIII. Informar a la Junta de Gobierno sobre los estados financieros de la Universidad, y
+
+XXIV. Las demás que le asigne la Junta de Gobierno, el Reglamento Interior de la Universidad y, en su caso, las leyes, reglamentos, decretos y acuerdos correspondientes.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 289 Bis.
+
+Para ser la persona Titular de la Rectoría de la Universidad, además de los requisitos establecidos en el artículo 28 de la Ley de las Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo, se deberán reunir los siguientes:
+
+I. Contar con título y cédula o grado profesional equivalente o superior al de licenciatura debidamente registrados;
+
+II. Tener experiencia académica o profesional acreditable de cuando menos cinco años, y
+
+III. No ser persona dirigente de partido político o asociación religiosa.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 289 Ter.
+
+La Universidad contará con el personal que requiera para el cumplimiento de su objeto, de conformidad con la estructura orgánica y el presupuesto autorizado, según lo dispuesto por el Reglamento Interior de la Universidad y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO SEXTO. DEL PATRIMONIO Y LAS RELACIONES LABORALES DE LA UNIVERSIDAD
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 290.
+
+La Universidad contará con un Órgano Interno de Control cuya persona titular será designada por la Secretaría Anticorrupción y Buen Gobierno del Estado de Quintana Roo, quien dependerá jerárquica y funcionalmente de ésta y será responsable de verificar el adecuado cumplimiento del objeto, objetivos y atribuciones, así como de mantener el control interno de la Universidad. Además, tendrá como función apoyar la política de control interno y toma de decisiones relativas al cumplimiento de los objetivos y políticas institucionales, y fiscalizar el correcto manejo de los recursos públicos.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+###### Artículo 291.
+
+Las relaciones laborales entre la Universidad y sus personas trabajadoras se regirán por la Ley de los Trabajadores al Servicio de los Poderes Legislativo, Ejecutivo y Judicial, de los Ayuntamientos y Organismos Descentralizados del Estado de Quintana Roo, siempre que sea personal administrativo o de base.
+
+En la Universidad tendrán la calidad de personas trabajadoras de confianza, quienes realicen tareas de dirección administrativa, funciones de asesoría, docencia, inspección, fiscalización o vigilancia, o manejen fondos y valores, independientemente de que su nombramiento administrativo no sea de jefatura de departamento o superior en la jerarquía administrativa.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 291 Bis.
+
+El patrimonio de la Universidad se integra por los bienes siguientes:
+
+I. Los que la persona Titular del Poder del Ejecutivo del Estado le transfiera en los términos que fijen las leyes;
+
+II. Las asignaciones presupuestales que se le confieran, en términos del Decreto del Presupuesto de Egresos del Estado, del ejercicio presupuestal correspondiente;
+
+III. Los ingresos que obtenga por la realización de las actividades a su cargo o derivados de la administración de los recintos bajo su responsabilidad;
+
+IV. Las donaciones gratuitas, herencias sin cargas, subsidios, aportaciones, participaciones y demás transferencias de recursos, que a su favor realicen personas físicas o personas morales, públicas o privadas;
+
+V. Los ingresos derivados de la comercialización de bienes, productos y servicios;
+
+VI. Los bienes muebles e inmuebles que adquiera por cualquier título legal, para el cumplimiento de su objeto;
+
+VII. Los derechos y obligaciones de los fideicomisos en que se le señale como fideicomisaria, y
+
+VIII. Los demás que adquiera por cualquier otro título legal.
+
 ## TÍTULO NOVENO. DE LA PLATAFORMA DE INFORMACIÓN EN MATERIA DE SEGURIDAD CIUDADANA
 
-### CAPÍTULO VII. DEL SISTEMA ÚNICO DE INFORMACIÓN CRIMINAL
+### CAPÍTULO II. DEL REGISTRO ESTATAL DEL PERSONAL DE SEGURIDAD CIUDADANA
 
 ###### Artículo 292.
 
@@ -3775,7 +3993,7 @@ VII. Registro Estatal de Estadística de Seguridad Ciudadana, y
 
 VIII. Las demás que conforme a los acuerdos o convenios con el Sistema Nacional se establezcan.
 
-### CAPÍTULO VIII. DEL REGISTRO ESTATAL DE ESTADÍSTICA DE SEGURIDAD CIUDADANA
+### CAPÍTULO III. DEL REGISTRO ESTATAL DE ARMAMENTO Y EQUIPO
 
 ###### Artículo 295.
 
@@ -3809,7 +4027,7 @@ Cuando a las Personas Integrantes de las Instituciones Policiales de Seguridad C
 
 La consulta a los registros estatal y nacional será obligatoria y previa al ingreso de toda persona a cualquier Institución Policial de Seguridad Ciudadana, incluyendo las de formación y empresas de Seguridad Privada. Con los resultados de la consulta la autoridad procederá de conformidad con las normas conducentes.
 
-### CAPÍTULO IX. DE LAS REGLAS GENERALES SOBRE LA INFORMACIÓN
+### CAPÍTULO IV. DEL REGISTRO PARA EL SISTEMA PENITENCIARIO
 
 ###### Artículo 300.
 
@@ -3837,7 +4055,7 @@ El titular de la Licencia Oficial Colectiva correspondiente, podrá verificar en
 
 El incumplimiento de las disposiciones contenidas en los artículos anteriores, dará lugar a que la portación de armas se considere ilegal y sea sancionada en los términos de las normas aplicables.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO V. DEL REGISTRO NACIONAL DE DETENCIONES
 
 ###### Artículo 305.
 
@@ -3847,19 +4065,21 @@ El registro para el Sistema Penitenciario es la base de datos de personas privad
 
 La Autoridad Penitenciaria estará obligada a establecer los registros fidedignos necesarios con información precisa respecto a los Centros Penitenciarios conforme a lo que establece el artículo 28 de la Ley Nacional de Ejecución Penal.
 
-### CAPÍTULO I. DEL PROGRAMA ESTATAL DE SEGURIDAD CIUDADANA
+### CAPÍTULO VI. DEL REGISTRO PÚBLICO VEHICULAR
 
 ###### Artículo 307.
 
 Las Personas Integrantes de las Instituciones Policiales de Seguridad Ciudadana que realicen detenciones deberán dar aviso administrativo de inmediato a la autoridad competente a fin de alimentar el Registro Nacional de Detenciones, conforme a la Ley Nacional del Registro de Detenciones y la Ley General, el cual es una base de datos que concentra la información a nivel nacional sobre las personas detenidas, conforme a las facultades de las autoridades durante las etapas del proceso penal o del procedimiento administrativo sancionador ante juez municipal o cívico, respectivamente.
 
-### CAPÍTULO II. DE LOS PROGRAMAS MUNICIPALES
+### CAPÍTULO VII. DEL SISTEMA ÚNICO DE INFORMACIÓN CRIMINAL
 
 ###### Artículo 308.
 
 El Registro Público Vehicular (REPUVE), tiene por objeto fortalecer la Seguridad Ciudadana y jurídica, proveer a la ciudadanía de certeza jurídica sobre la propiedad de un vehículo y proporcionar un instrumento de información que les permita a los diferentes sujetos obligados tomar sus decisiones sobre una base más certera al momento de realizar sus operaciones con respecto a los vehículos.
 
 El registro está conformado por una base de datos integrada por la información que de cada vehículo proporcionen las autoridades federales, las entidades federativas y los sujetos obligados para realizar las inscripciones y a presentar los avisos, de conformidad con lo dispuesto en la Ley del Registro Público Vehicular.
+
+### CAPÍTULO VIII. DEL REGISTRO ESTATAL DE ESTADÍSTICA DE SEGURIDAD CIUDADANA
 
 ###### Artículo 309.
 
@@ -3876,6 +4096,8 @@ Dicha información se dará de baja de la base de datos, por resoluciones de no 
 ###### Artículo 311.
 
 La institución del Ministerio Público y el órgano jurisdiccional, en su caso, sólo podrán reservarse la información que ponga en riesgo una investigación concreta, pero la proporcionarán inmediatamente después que deje de existir esta situación.
+
+### CAPÍTULO IX. DE LAS REGLAS GENERALES SOBRE LA INFORMACIÓN
 
 ###### Artículo 312.
 
@@ -3896,6 +4118,8 @@ La normatividad que al efecto se emita señalará los instrumentos de acopio de 
 ###### Artículo 315.
 
 Las reglas generales para la recepción de la información, serán establecidas de conformidad con la Ley General.
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 316.
 
@@ -3933,6 +4157,8 @@ Cualquier interesado que estime falsa o errónea alguna información, podrá sol
 
 ## TÍTULO DÉCIMO. DE LOS FONDOS PARA LA SEGURIDAD CIUDADANA
 
+### CAPÍTULO I. DEL PROGRAMA ESTATAL DE SEGURIDAD CIUDADANA
+
 ###### Artículo 320.
 
 Para el adecuado funcionamiento de la Seguridad Ciudadana en el Estado de Quintana Roo se podrán establecer fondos y fideicomisos con la aportación que corresponda a la hacienda pública estatal y conforme a los acuerdos o decretos que al efecto se emitan.
@@ -3948,6 +4174,8 @@ En el Presupuesto de Egresos del Gobierno del Estado de cada ejercicio fiscal, s
 Las Leyes, reglamentos, acuerdos, decretos y demás normativa estatal o municipal establecerán las reglas de distribución, operación, fiscalización y rendición de cuentas de estos fondos o fideicomisos.
 
 ## TÍTULO DÉCIMO PRIMERO. DE LOS PROGRAMAS DE SEGURIDAD CIUDADANA
+
+### CAPÍTULO II. DE LOS PROGRAMAS MUNICIPALES
 
 ###### Artículo 323.
 
@@ -4116,3 +4344,33 @@ NOVENO. Los convenios y acuerdos que conlleven el ejercicio de recursos presupue
 Los asuntos a cargo del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública que se encuentren pendientes de resolución al momento de la entrada en vigor de la presente ley, serán asumidos de inmediato y despachados por el Secretariado Ejecutivo del Sistema Estatal de Seguridad Ciudadana, conforme a las atribuciones que este mismo ordenamiento señala.
 
 DÉCIMO. Se derogan todas las disposiciones legales, de igual o menor jerarquía, que se opongan al contenido del presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 152 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD CIUDADANA DEL ESTADO DE QUINTANA ROO, EN MATERIA DE DESCENTRALIZACIÓN DE LA UNIVERSIDAD DE CIENCIAS Y DISCIPLINAS DE LA SEGURIDAD DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En un plazo no mayor a treinta días naturales, contados a partir de la entrada en vigor del presente Decreto, la persona Titular del Poder Ejecutivo del Estado de Quintana Roo nombrará a la persona que ocupe la titularidad de la Rectoría, así como al personal de apoyo que sea indispensable para iniciar las gestiones administrativas y de instalación de la Junta de Gobierno.
+
+TERCERO. Con fundamento en la Ley de Presupuesto y Gasto Público del Estado de Quintana Roo, en la proyección del Presupuesto de Egresos para el ejercicio 2026, la persona Titular del Poder Ejecutivo del Estado deberá contemplar la asignación presupuestal que corresponda para el cumplimiento del presente Decreto, conforme a la estructura orgánica y funcional requerida para tal fin.
+
+CUARTO. En un plazo no mayor a cuarenta y cinco días naturales a partir de la entrada en vigor del presente Decreto se deberá llevar a cabo la sesión de instalación de la Junta de Gobierno de la Universidad de Ciencias y Disciplinas de la Seguridad de Quintana Roo con el objetivo de establecer los acuerdos necesarios para el debido funcionamiento y operación del citado organismo público descentralizado.
+
+QUINTO. La Universidad de Ciencias y Disciplinas de la Seguridad de Quintana Roo deberá llevar a cabo las gestiones administrativas necesarias para la autorización de su estructura orgánica de conformidad con las disposiciones legales aplicables.
+
+SEXTO. En un plazo no mayor a treinta días naturales contados a partir de la Primera Sesión de la Junta de Gobierno, se deberá realizar la inscripción de la Universidad de Ciencias y Disciplinas de la Seguridad de Quintana Roo ante el Registro Público de Entidades Paraestatales a que se refiere el artículo 17 de la Ley de las Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo.
+
+SÉPTIMO. La formación de profesionistas en materia de Seguridad Ciudadana, así como el diseño y ejecución de los planes y programas para la formación de las personas aspirantes y personas integrantes de las Instituciones de Seguridad Ciudadana del Estado y los Municipios, así como de instituciones auxiliares y empresas de seguridad privada, se comenzará a ejercer e impartir a través de la Universidad de Ciencias y Disciplinas de la Seguridad de Quintana Roo como organismo público descentralizado a partir del primero de enero de dos mil veintiséis.
+
+Mientras tanto, a efecto de no interrumpir los procesos académicos y de formación continua que actualmente se encuentran en curso, éstos seguirán llevándose a cabo a través de la Secretaría de Seguridad Ciudadana del Estado de Quintana Roo.
+
+OCTAVO. Los recursos materiales, humanos y financieros a cargo de la Secretaría de Seguridad Ciudadana, destinados a la operación actual de la Universidad de Ciencias y Disciplinas de la Seguridad de Quintana Roo, se transferirán íntegramente al organismo público descentralizado denominado Universidad de Ciencias y Disciplinas de la Seguridad de Quintana Roo a efecto de que esté en posibilidad de cumplir con su objeto y objetivos a partir del primero de enero de dos mil veintiséis, para lo cual la Secretaría de Finanzas y Planeación, la Secretaría Anticorrupción y Buen Gobierno y la Secretaría de Seguridad Ciudadana, todas del Estado de Quintana Roo, proveerán y acordarán lo necesario para llevar a cabo el proceso de transferencia de los recursos mencionados en cumplimento al presente Decreto.
+
+En la transferencia de los recursos humanos prevista en el párrafo que antecede, se respetarán los derechos laborales del personal conforme a la Ley de los Trabajadores al Servicio de los Poderes Legislativo, Ejecutivo y Judicial, de los Ayuntamientos y Organismos Descentralizados del Estado de Quintana Roo y demás disposiciones normativas aplicables en materia laboral.
+
+NOVENO. En un plazo de ciento ochenta días naturales, a partir de la entrada en vigor del presente Decreto se deberán expedir las disposiciones reglamentarias y administrativas que den cumplimiento a lo señalado en el presente Decreto.
+
+DÉCIMO. Los convenios, contratos y acuerdos suscritos por la Universidad de Ciencias y Disciplinas de la Seguridad de Quintana Roo, como unidad administrativa de la Secretaría de Seguridad Ciudadana, seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de los derechos y obligaciones del organismo público descentralizado que se crea mediante el presente Decreto.
+
+DÉCIMO PRIMERO. Se derogan todas las disposiciones legales, de igual o menor jerarquía, que se opongan al presente Decreto.
