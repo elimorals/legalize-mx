@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-8-2019-del-pleno-de-la-suprema-corte-137
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-07-15"
-last_updated: "2019-07-15"
+last_updated: "2025-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137329&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-07-08"
 
 ACUERDO GENERAL NÚMERO 8/2019, DE OCHO DE JULIO DE DOS MIL DIECINUEVE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO A LA ORGANIZACIÓN, CONSERVACIÓN, ADMINISTRACIÓN Y PRESERVACIÓN DE EXPEDIENTES JUDICIALES BAJO RESGUARDO DE ESTE ALTO TRIBUNAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE DICIEMBRE DE 2025.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 15 de julio de 2019.
 
@@ -79,7 +79,9 @@ V. Baja documental. El acto en virtud del cual se desincorporan del régimen del
 
 VI. CDAACL. El Centro de Documentación y Análisis, Archivos y Compilación de Leyes, área técnica especializada responsable de administrar los archivos judiciales generados por la Suprema Corte de Justicia de la Nación e históricos del Poder Judicial de la Federación, que fungirá como coordinadora de las actividades del Sistema del Archivo Judicial;
 
-VII. CGA. El Comité de Gobierno y Administración contemplado en el artículo 110 del Reglamento Interior de la Suprema Corte de Justicia de la Nación y 6o. del Reglamento Orgánico en Materia de Administración de la Suprema Corte de Justicia de la Nación;
+(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL NÚMERO 20/2025 (12A.) DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 5 DE DICIEMBRE DE 2025)
+
+VII. CG. El Comité de Gobierno de la SCJN, previsto en la Resolución 1/2025 del Pleno de la Suprema Corte de Justicia de la Nación, de trece de octubre de dos mil veinticinco, por la que se crea el Comité de Gobierno de la Suprema Corte de Justicia de la Nación;
 
 VIII. Dictamen individualizado. El documento previamente requisitado por el Centro de Documentación y Análisis, Archivos y Compilación de Leyes, por medio del cual la Secretaría General de Acuerdos realiza la valoración documental para validar y determinar la actualización de alguno de los supuestos de baja documental de cada uno de los expedientes o documento (sic) judiciales; o el diverso que realiza la Dirección de Conservación, Restauración y Preservación Digital de Acervos adscrita al referido Centro, en el cual precisa su avanzado grado de deterioro que imposibilita su consulta y justifica su baja;
 
@@ -97,7 +99,9 @@ XIV. Instrumentos de control y consulta archivísticos. Las herramientas de desc
 
 XV. OCJC. La Oficina de Certificación Judicial y Correspondencia adscrita a la Secretaría General de Acuerdos encargada de llevar el registro y control de los documentos recibidos en la Suprema Corte de Justicia de la Nación;
 
-XVI. Órganos de apoyo jurisdiccional de la SCJN. La Secretaría General de Acuerdos, las Secretarías de Acuerdos de las Salas, la Subsecretaría General de Acuerdos, las Subsecretarías de Acuerdos de las Salas, y la Sección de Trámite de Controversias Constitucionales y Acciones de Inconstitucionalidad; así como los órganos y áreas que de conformidad con sus atribuciones apoyan en las Funciones materialmente jurisdiccionales al Presidente o a los Comités de Ministros;
+(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL NÚMERO 20/2025 (12A.) DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 5 DE DICIEMBRE DE 2025)
+
+XVI. Órganos de apoyo jurisdiccional de la SCJN. La Secretaría General de Acuerdos, la Subsecretaría General de Acuerdos y la Sección de Trámite de Controversias Constitucionales y Acciones de Inconstitucionalidad; así como los órganos y áreas que de conformidad con sus atribuciones apoyan en las funciones materialmente jurisdiccionales al Presidente o a los Comités de Ministras y Ministros;
 
 XVII. PADA. El Programa Anual de Desarrollo Archivístico de la Suprema Corte de Justicia de la Nación;
 
@@ -125,7 +129,9 @@ El SIAJ es el conjunto de registros, procesos, procedimientos, criterios, estruc
 
 En el desarrollo del SIAJ, participarán:
 
-I. El CGA;
+(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL NÚMERO 20/2025 (12A.) DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 5 DE DICIEMBRE DE 2025)
+
+I. El CG;
 
 II. El CDAACL como área coordinadora de archivos;
 
@@ -149,9 +155,11 @@ III. El archivo central de la SCJN, y
 
 IV. El Archivo Histórico del Poder Judicial de la Federación.
 
+(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL NÚMERO 20/2025 (12A.) DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 5 DE DICIEMBRE DE 2025)
+
 ###### Artículo 7.
 
-El CGA, tendrá las siguientes funciones:
+El CG, tendrá las funciones siguientes:
 
 I. Aprobar, a propuesta del GIJ, los objetivos general y específicos del PADA, así como las estrategias para su cumplimiento y, en su caso, las modificaciones que aquél le proponga en el transcurso del año;
 
@@ -167,9 +175,11 @@ I. La SGA;
 
 II. El CDAACL;
 
-III. La Dirección General de Asuntos Jurídicos;
+(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL NÚMERO 20/2025 (12A.) DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 5 DE DICIEMBRE DE 2025)
 
-IV. La Contraloría de la SCJN, y
+III. La Dirección General de Asuntos Jurídicos, y
+
+IV. (DEROGADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL NÚMERO 20/2025 (12A.) DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 5 DE DICIEMBRE DE 2025)
 
 V. La Unidad General de Transparencia y Sistematización de la Información Judicial.
 
@@ -177,11 +187,15 @@ V. La Unidad General de Transparencia y Sistematización de la Información Judi
 
 El GIJ tendrá las siguientes funciones:
 
-I. Aprobar el proyecto de objetivos general y específicos del PADA, así como las estrategias para su cumplimiento y, en su caso, las modificaciones de aquéllos, para someterlas a la consideración del CGA;
+(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL NÚMERO 20/2025 (12A.) DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 5 DE DICIEMBRE DE 2025)
+
+I. Aprobar el proyecto de objetivos general y específicos del PADA, así como las estrategias para su cumplimiento y, en su caso, las modificaciones de aquellos, para someterlas a la consideración del CG;
 
 II. Emitir los manuales que resulten necesarios para regular los procedimientos de valoración, digitalización con FIREL y Baja documental previstos en este Acuerdo General;
 
-III. Aprobar el PADA elaborado por el CDAACL, a partir de los objetivos general y específicos y de las estrategias para su cumplimento autorizados por el CGA;
+(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL NÚMERO 20/2025 (12A.) DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 5 DE DICIEMBRE DE 2025)
+
+III. Aprobar el PADA elaborado por el CDAACL, a partir de los objetivos general y específicos y de las estrategias para su cumplimiento autorizados por el CG;
 
 IV. Aprobar los planes y proyectos de desarrollo archivístico formulados por el CDAACL, en cumplimiento de lo establecido en el PADA;
 
@@ -191,7 +205,9 @@ VI. Aprobar el procedimiento seguido en la valoración y Baja documental de Expe
 
 VII. Aprobar la Baja documental, con base en el Dictamen individualizado elaborado por la Dirección de Conservación, Restauración y Preservación Digital de Acervos, adscrita al CDAACL, de los expedientes que presenten un avanzado deterioro que imposibilite su consulta y justifique su baja, y
 
-VIII. Las diversas que le sean encomendadas por el CGA, así como las previstas en los artículos 52 y 54 de la Ley General de Archivos.
+(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL NÚMERO 20/2025 (12A.) DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 5 DE DICIEMBRE DE 2025)
+
+VIII. Las diversas que le sean encomendadas por el CG, así como las previstas en los artículos 52 y 54 de la Ley General de Archivos.
 
 ###### Artículo 10.
 
@@ -201,7 +217,9 @@ I. Diseñar, presentar e instrumentar el PADA, así como las actualizaciones, pl
 
 II. Someter a consideración del GIJ el proyecto de objetivos general y específicos del PADA, así como las estrategias para su cumplimiento, en el penúltimo bimestre de cada año;
 
-III. Informar al CGA, por conducto del GIJ, sobre el cumplimiento del PADA;
+(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL NÚMERO 20/2025 (12A.) DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 5 DE DICIEMBRE DE 2025)
+
+III. Informar al CG, por conducto del GIJ, sobre el cumplimiento del PADA;
 
 IV. Elaborar y proponer al GIJ los Instrumentos de control y consulta archivísticos, las reglas de operación de éste y los manuales que regulen los procedimientos de valoración y Baja documental previstos en este Acuerdo General;
 
@@ -221,15 +239,21 @@ La OCJC, además de las atribuciones establecidas en el artículo 75 del Reglame
 
 Los expedientes de nuevo ingreso se registrarán con base en las series y subseries documentales que se señalan en el Anexo I de este Acuerdo General. Para cualquier modificación o incorporación se atenderá a lo previsto en el artículo 15, párrafo primero, parte final, del presente instrumento normativo.
 
-Los titulares de las Secretarías General de Acuerdos y de las Salas, a propuesta de la OCJC, aprobarán los instructivos para la regulación de la integración y gestión de los Expedientes y documentos judiciales en trámite.
+(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL NÚMERO 20/2025 (12A.) DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 5 DE DICIEMBRE DE 2025)
+
+La persona titular de la Secretaría General de Acuerdos, a propuesta de la OCJC, aprobará los instructivos para la regulación de la integración y gestión de los Expedientes y documentos judiciales en trámite.
 
 ###### Artículo 12.
 
 Los órganos de apoyo jurisdiccional fungirán como Archivo de Trámite para los efectos del presente instrumento normativo, carácter con el cual ejercerán las siguientes funciones:
 
-I. Recibir, registrar, controlar y llevar el seguimiento de los Expedientes y documentos judiciales, así como de aquéllos relacionados con el ejercicio de las Funciones materialmente jurisdiccionales del Presidente de la SCJN, de los Presidentes de sus Salas o de los Comités de Ministros de la SCJN;
+(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL NÚMERO 20/2025 (12A.) DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 5 DE DICIEMBRE DE 2025)
 
-II. Controlar el acceso a la información contenida en los Expedientes y documentos judiciales, así como de aquéllos relacionados con el ejercicio de las Funciones materialmente jurisdiccionales del Presidente de la SCJN, de los Presidentes de sus Salas o de los Comités de Ministros de la SCJN, de conformidad con la normativa aplicable;
+I. Recibir, registrar, controlar y llevar el seguimiento de los Expedientes y documentos judiciales, así como de aquéllos relacionados con el ejercicio de las Funciones materialmente jurisdiccionales del Presidente de la SCJN, o de los Comités de Ministras y Ministros de la SCJN;
+
+(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL NÚMERO 20/2025 (12A.) DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 5 DE DICIEMBRE DE 2025)
+
+II. Controlar el acceso a la información contenida en los Expedientes y documentos judiciales, así como de aquéllos relacionados con el ejercicio de las Funciones materialmente jurisdiccionales del Presidente de la SCJN o de los Comités de Ministras y Ministros de la SCJN, de conformidad con la normativa aplicable;
 
 III. Elaborar los inventarios de Expedientes y documentos judiciales conforme al formato que establezca el CDAACL para su envío al Archivo de Concentración;
 
@@ -402,3 +426,19 @@ ANEXOS
 El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Arturo Zaldívar Lelo de Larrea.- Rúbrica.- El Secretario General de Acuerdos, Rafael Coello Cetina.- Rúbrica.
 
 El licenciado Rafael Coello Cetina, Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, CERTIFICA: Este ACUERDO GENERAL NÚMERO 8/2019, DE OCHO DE JULIO DE DOS MIL DIECINUEVE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO A LA ORGANIZACIÓN, CONSERVACIÓN, ADMINISTRACIÓN Y PRESERVACIÓN DE EXPEDIENTES JUDICIALES BAJO RESGUARDO DE ESTE ALTO TRIBUNAL, Y SUS ANEXOS, fueron aprobados por el Tribunal Pleno en Sesión Privada celebrada el día de hoy, por unanimidad de diez votos de los señores Ministros Alfredo Gutiérrez Ortiz Mena, Juan Luis González Alcántara Carrancá, Yasmín Esquivel Mossa, José Fernando Franco González Salas, Luis María Aguilar Morales, Jorge Mario Pardo Rebolledo, Norma Lucía Piña Hernández, Eduardo Medina Mora I., Alberto Pérez Dayán y Presidente Arturo Zaldívar Lelo de Larrea. El señor Ministro Javier Laynez Potisek estuvo ausente, previo aviso.- Ciudad de México, a ocho de julio de dos mil diecinueve.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 5 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL NÚMERO 20/2025 (12A.) DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE PRIMERO DE DICIEMBRE DE DOS MIL VEINTICINCO, POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL NÚMERO 8/2019, DE OCHO DE JULIO DE DOS MIL DIECINUEVE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO A LA ORGANIZACIÓN, CONSERVACIÓN, ADMINISTRACIÓN Y PRESERVACIÓN DE EXPEDIENTES JUDICIALES BAJO RESGUARDO DE ESTE ALTO TRIBUNAL”.]
+
+PRIMERO. El presente Acuerdo General entrará en vigor el día de su aprobación.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Acuerdo General.
+
+TERCERO. En el plazo de treinta días hábiles contados a partir de la entrada en vigor del presente Acuerdo General, el Grupo Interdisciplinario Judicial deberá ajustar sus Reglas de Operación al contenido del presente Acuerdo General.
+
+CUARTO. Una vez que las disposiciones del presente Acuerdo General hayan entrado en vigor, intégrense al Acuerdo General número 8/2019, de ocho de julio de dos mil diecinueve, del Pleno de la Suprema Corte de Justicia de la Nación, relativo a la organización, conservación, administración y preservación de expedientes judiciales bajo resguardo de este Alto Tribunal a fin de que el contenido de éste se encuentre debidamente actualizado; dicha integración deberá realizarse en el archivo respectivo del portal de este Tribunal Constitucional, así como en el resto de medios análogos que éste administre.
+
+QUINTO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos del artículo 65, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública.
