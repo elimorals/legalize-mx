@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-ejecutivo-del-estado-de-nayarit-23403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-21"
-last_updated: "2023-10-09"
+last_updated: "2025-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el jueves 21 de diciembre del 2000.
 
@@ -2219,13 +2219,17 @@ XXXVI. Organizar y supervisar las corporaciones de tránsito del Estado, en los 
 
 XXXVII. Administrar y vigilar el tránsito en las carreteras y caminos de jurisdicción estatal, y aplicar, en su caso, las sanciones que correspondan en los términos que señalen las leyes, reglamentos y convenios respectivos;
 
-> <small>(F. DE E., P.O. 28 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
-XXXVIII. Supervisar y controlar el tránsito vehicular y peatonal, conforme lo disponga la ley y los convenios respectivos, y
+XXXVIII. Supervisar y controlar el tránsito vehicular y peatonal, conforme lo disponga la ley y los convenios respectivos;
 
-> <small>(F. DE E., P.O. 28 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE DICIEMBRE DE 2025)</small>
 
-XXXIX. Las demás que le atribuyan expresamente las leyes, reglamentos, convenios y las que le confiera el Gobernador.
+XXXIX. Planear y ejecutar acciones coordinadas para prevenir, investigar y perseguir la extorsión en su ámbito de competencia; generar inteligencia operativa; realizar acciones que fortalezcan el cumplimiento de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la Fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; utilizar los mecanismos de coordinación del Sistema Nacional de Seguridad Pública; emitir los protocolos de actuación necesarios para la prevención, atención e investigación del delito de extorsión, comprendiendo la actuación policial en primeros contactos, el manejo de denuncias anónimas, la investigación en modalidades presencial, telefónica y digital, la coordinación con autoridades federales y municipales cuando corresponda, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+XL. Las demás que le atribuyan expresamente las leyes, reglamentos, convenios y las que le confiera el Gobernador.
 
 (REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MAYO DE 2019) (F. DE E., P.O. 28 DE JUNIO DE 2019)
 
@@ -2968,3 +2972,17 @@ En tanto se expiden las disposiciones normativas conducentes, se aplicará el ma
 CUARTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán su despacho de conformidad con las disposiciones vigentes al momento de su inicio.
 
 QUINTO. Comuníquese el presente Decreto, al Titular del Poder Ejecutivo Estatal para los efectos conducentes.
+
+P.O. 5 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA EL ARTÍCULO 40 B DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Tercero. En un plazo de 180 días hábiles contados a partir de la entrada en vigor del presente Decreto la Secretaría de Seguridad y Protección Ciudadana del Estado, deberá realizar las adecuaciones normativas necesarias para el cumplimiento del presente instrumento.
+
+Cuarto. Los centros penitenciarios tendrán 180 días hábiles contados a partir de la entrada en vigor del presente Decreto para establecer los procedimientos y tecnologías de inhibición de entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen a que se refiere el artículo 38 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Quinto. Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento, por lo que no incrementarán su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
