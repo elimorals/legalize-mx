@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-organo-de-cultura-fisica-y-deporte-del-139049"
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-11-11"
-last_updated: "2019-11-11"
+last_updated: "2025-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139049&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-06-25"
 
 ESTATUTO DEL ÓRGANO DE CULTURA FÍSICA Y DEPORTE DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE DICIEMBRE DE 2025.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 11 de noviembre de 2019.
 
@@ -141,7 +141,9 @@ XIII. Reglas Internas de Operación: Documentos que reglamentan las facultades y
 
 XIV. RENADE: Registro Nacional de Cultura Física y Deporte.
 
-XV. Representaciones Institucionales: Órganos de Operación Administrativa Desconcentrada (Delegaciones IMSS).
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
+
+XV. Representaciones Institucionales: Órgano de Operación Administrativa Desconcentrada (OOAD).
 
 XVI. Sanciones: las aplicadas por infracciones a los Estatutos, reglamentos deportivos y lineamientos de conducta, conforme a la justicia deportiva señalada en el artículo 148, de la Ley General de Cultura Física y Deporte.
 
@@ -173,7 +175,9 @@ Las obligaciones del ODEIMSS y sus Asociados:
 
 I. Cumplir con las obligaciones que le confieren la Ley General de Cultura Física y Deporte y su Reglamento.
 
-II. Desarrollar actividades en el ámbito nacional, sin perjuicio de su participación en justas deportivas o competencias convocadas por la Comisión Nacional de Cultura Física y Deporte.
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
+
+II. Desarrollar actividades en el ámbito nacional, sin perjuicio de su participación en justas deportivas o competencias convocadas por la Comisión Nacional de Cultura Física y Deporte (CONADE), y por las Federaciones Nacionales Deportivas (DEPORTE FEDERADO).
 
 III. Respetar, cumplir y hacer cumplir este Estatuto, así como las Reglas Internas de Operación, Lineamientos, Acuerdos y demás Normas emitidas por las Asociaciones Deportivas Institucionales y las que resulten aplicables derivadas de la Ley General de Cultura Física y Deporte y su Reglamento.
 
@@ -183,7 +187,9 @@ V. Preservar la práctica del deporte con apego y respeto a los principios moral
 
 VI. Promover la unidad del deporte institucional, de acuerdo con este Estatuto.
 
-VII. Reconocer y respetar las funciones, facultades y atribuciones correspondientes a las Federaciones Deportivas Internacionales, conforme a sus Estatutos y acuerdos.
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
+
+VII. Reconocer y respetar las funciones, facultades y atribuciones correspondientes a las Federaciones Deportivas Nacionales e Internacionales, conforme a sus Estatutos y acuerdos.
 
 VIII. Acatar las resoluciones de la Comisión de Apelación y Arbitraje del Deporte, conforme a lo dispuesto por la Ley General de Cultura Física y Deporte, una vez agotadas todas las instancias que señala este Estatuto.
 
@@ -195,7 +201,9 @@ El ODEIMSS tiene las facultades siguientes:
 
 I. Promover y consolidar la participación activa del Deporte Institucional, con los sectores social, público y privado en cada uno de los órganos e instancias existentes o que se establezcan para fines deportivos.
 
-II. Proponer al Consejo Directivo del ODEIMSS, los programas de largo, mediano y corto plazo de cada disciplina del Deporte Institucional, conforme a los lineamientos establecidos para el desarrollo planificado del deporte nacional.
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
+
+II. Proponer al Consejo Directivo, los programas de largo, mediano y corto plazo de cada disciplina y modalidad del Deporte Institucional, conforme a los lineamientos establecidos para el desarrollo planificado del deporte nacional.
 
 III. Proponer al Consejo Directivo del ODEIMSS el programa de las competencias en todas las categorías de cada disciplina deportiva con el fin de obtener los apoyos que requiere el desarrollo planificado del deporte institucional.
 
@@ -205,7 +213,9 @@ V. Gestionar con los Organismos Públicos, Sociales y Privados, la firma de conv
 
 VI. Participar coordinadamente con la Comisión Nacional de Cultura Física y Deporte, el Comité Olímpico Mexicano, los Institutos Estatales de Cultura Física y Deporte, y las Asociaciones Deportivas Nacionales, en la preparación de las preselecciones y selecciones nacionales.
 
-VII. Representar a las Asociaciones Deportivas Institucionales ante los organismos públicos y privados, Gobiernos Estatales, Municipales y de la Ciudad de México, así como en las instancias legales del deporte que se constituyan en el ámbito nacional.
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
+
+VII. Representar a las Asociaciones Deportivas Institucionales, a través de los presidentes de cada Asociación Deportiva, ante los organismos públicos y privados, Gobiernos Estatales, Municipales y de la Ciudad de México, así como en las instancias legales del deporte que se constituyan en el ámbito nacional.
 
 VIII. Encauzar la organización de la cultura física y deporte a través de sus Asociaciones Deportivas Nacionales.
 
@@ -213,7 +223,9 @@ IX. Formular y desarrollar conjuntamente con las Asociaciones Deportivas Institu
 
 X. Realizar las actividades que correspondan para garantizar la operación del Programa General del Deporte Institucional.
 
-XI. Fomentar la organización, superación y seguimiento de los deportistas, personal directivo y personal técnico en ella afiliados, mediante la unificación de los métodos de enseñanza y el mejoramiento de las técnicas y métodos de entrenamiento.
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
+
+XI. Fomentar la organización y seguimiento de los deportistas, personal directivo y personal técnico afiliados a cada Asociación Deportiva, mediante la unificación de los métodos de enseñanza y el mejoramiento de las técnicas y métodos de entrenamiento. (A través de cursos de actualización de su disciplina)
 
 XII. Estimular el adecuado aprovechamiento del tiempo libre de los derechohabientes del régimen de seguridad social que administra el Instituto Mexicano del Seguro Social y de la población en general, para la preservación de la salud y la consecución de la integración familiar a través de la práctica del deporte.
 
@@ -231,17 +243,35 @@ XVI. Dictar lineamientos y supervisar las pruebas de selección, los entrenamien
 
 Para el cumplimiento de su objetivo y desempeño de las atribuciones que le competen, el ODEIMSS contará con los siguientes órganos:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 5 DE DICIEMBRE DE 2025)</small>
+
 I. La Asamblea General.
 
-II. El Consejo Directivo, órgano permanente de dirección, control y representación.
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
 
-III. El Presidente del ODEIMSS.
+II. El Consejo Directivo
 
-### CAPÍTULO V. De la Asamblea General de Asociados
+III. (DEROGADA, D.O.F. 5 DE DICIEMBRE DE 2025)
+
+> <small>(ADICIONADO, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
+
+Ambos órganos Colegidos serán presididos por la Persona Titular de la Dirección de Prestaciones Económicas y Sociales.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO V. De la Asamblea General
+
+> <small>(REFORMADO, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 11o.
 
-La Asamblea General del ODEIMSS es el órgano supremo de Gobierno del mismo, y estará conformada por los Presidentes de todas las Asociaciones Deportivas Institucionales y los miembros del Consejo Directivo; será presidida por el Presidente del ODEIMSS o Presidente suplente, en ausencia de éste por el Secretario Técnico. A falta del Presidente del ODEIMSS, su suplente, o el Secretario Técnico que actué en representación de éstos no podrá llevarse a cabo la Asamblea. Para la celebración de la Asamblea se deberá considerar lo siguiente:
+La Asamblea General es el órgano supremo del ODEIMSS. Estará conformada por los Presidentes de todas las Asociaciones Deportivas Institucionales y los miembros del Consejo Directivo.
+
+La Asamblea será presidida por el Presidente, cargo que recae en la persona Titular de la Dirección de Prestaciones Económicas y Sociales.
+
+En ausencia del Presidente, la función recaerá en el Presidente suplente, que será la persona Titular de la Unidad de Prestaciones Sociales.
+
+A falta del presidente o presidente suplente no podrá llevarse a cabo la Asamblea. Para la celebración de la Asamblea se deberá considerar lo siguiente:
 
 I. Los Presidentes de las Asociaciones Deportivas Institucionales de cada especialidad deportiva tendrán derecho a voz pero no a voto.
 
@@ -249,13 +279,11 @@ II. Los representantes del Consejo Directivo serán los únicos con derecho a vo
 
 III. Cuando los asuntos se sometan a votación los acuerdos se adoptarán por mayoría de votos, en caso de empate el Presidente tendrá voto de calidad.
 
-IV. Los integrantes del Consejo Directivo, así como los Presidentes de las Asociaciones Deportivas Institucionales, podrán representar al ODEIMSS, o al Consejo Directivo en los casos en que se les designe formalmente para tal efecto.
+IV. Los integrantes del Consejo Directivo, así como los Presidentes de las Asociaciones Deportivas Institucionales, podrán representar al ODEIMSS, o al Consejo Directivo en los casos en que se les designe formalmente para tal efecto, mediante acuerdo de asamblea.
 
-Podrá acordar y ratificar todos los actos y operaciones de ésta y sus resoluciones deberán cumplirse. Ésta podrá ser Ordinaria o Extraordinaria, con carácter pública o privada.
+Todos los actos y operaciones de ésta y sus resoluciones deberán cumplirse. Ésta podrá ser Ordinaria o Extraordinaria, con carácter pública o privada.
 
-A la Asamblea podrán acudir invitados especiales, siempre y cuando lo autorice el Presidente del ODEIMSS.
-
-El cargo de miembro de la Asamblea será honorífico.
+A la Asamblea podrán acudir invitados especiales, siempre y cuando lo autorice el Presidente de la Asamblea, sin embargo tendrán derecho a voz pero no a voto.
 
 ###### Artículo 12o.
 
@@ -263,29 +291,29 @@ La Asamblea Ordinaria o Extraordinaria, será considerada legalmente instalada, 
 
 Los miembros de la Asamblea están obligados a asistir a las sesiones que sean convocados. En caso de impedimento, lo deberán comunicar al Presidente del ODEIMSS previo a la celebración de la Asamblea.
 
-###### Artículo 13o.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
 
-La Asamblea General de Asociados tendrá las siguientes facultades;
+###### Artículo 13.
 
-I. Reunirse en Asamblea Ordinaria cada año y Extraordinarias, cuando lo solicite el Consejo Directivo o las dos terceras partes de los Asociados.
+La Asamblea General tendrá las siguientes facultades;
+
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
+
+I. Reunirse en Asamblea Ordinaria cada seis meses y en Asamblea Extraordinaria, cuando sea necesario.
 
 II. Analizar, discutir y, en su caso, aprobar los programas cuadrienales y operativos anuales que de él se desprenden, así como los informes de actividades patrimoniales y presupuestales que corresponden al Consejo Directivo.
 
 III. Las demás que se establezcan en este Estatuto y sus Reglas Internas de Operación.
 
+> <small>(REFORMADO, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 14o.
 
-La Asamblea Ordinaria deberá efectuarse por lo menos una vez al año durante los primeros tres meses del año en la cual se deberá dar a conocer:
+Corresponde al Presidente, convocar a la Asamblea General a sesión ordinaria cada seis meses, con un mínimo de 5 días hábiles de anticipación por escrito que contendrá el orden del día, la fecha y el lugar en donde se llevará a cabo.
 
-I. El informe de actividades del ODEIMSS.
+Si por alguna circunstancia hubiera necesidad de cambiar la hora, el día o lugar de la celebración de la Asamblea General, se les comunicará a los asambleístas por escrito o medios electrónicos cuando menos con dos días de anticipación.
 
-Asimismo, en dichas Asambleas podrá someterse a consideración lo siguiente:
-
-II. Propuestas de modificaciones al Estatuto o la normatividad fundamental para el Deporte Institucional.
-
-III. Los asuntos de interés general.
-
-Deberá ser convocada por el Presidente a través del Secretario Técnico del ODEIMSS, o por quien lo supla legalmente conforme al presente Estatuto, con un mínimo de 10 días hábiles de anticipación y deberá contener por lo menos, en el orden del día los puntos siguientes:
+El orden del día de la sesión ordinaria deberá contener por lo menos, los puntos siguientes:
 
 I. Verificación del Quórum legal.
 
@@ -293,17 +321,19 @@ II. Instalación de la Asamblea.
 
 III. Lectura y, en su caso, aprobación del orden del día.
 
-IV. Informe anual de actividades.
+IV. Informe de actividades.
 
 V. Informe patrimonial y presupuestal del ejercicio inmediato anterior.
 
 VI. Asuntos de interés general que fueron registrados.
 
-Las propuestas de las Asociaciones Deportivas Institucionales, que se hagan al orden del día de la Asamblea Ordinaria e integren los asuntos generales, deberán hacerse llegar por escrito al Consejo Directivo del ODEIMSS con 15 días hábiles de anticipación a su celebración. El Consejo Directivo podrá registrar asuntos de interés general en cualquier tiempo.
+Las propuestas de las Asociaciones Deportivas Institucionales, que se integren al orden del día de la Asamblea Ordinaria deberán hacerse llegar por escrito al Consejo Directivo con 15 días hábiles de anticipación a la celebración de la sesión de la Asamblea General.
+
+> <small>(REFORMADO, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 15o.
 
-La Asamblea Extraordinaria podrá realizarse en cualquier tiempo y cuantas veces sea necesaria, por alguna de las siguientes causas:
+El Presidente, podrá convocar a la Asamblea General a sesión extraordinaria únicamente para tratar casos urgentes, de importancia y trascendencia en cualquier tiempo y cuantas veces sea necesaria, por alguna de las siguientes causas:
 
 I. Cuando existan asuntos urgentes plenamente justificados.
 
@@ -311,29 +341,59 @@ II. Cuando lo soliciten por escrito las dos terceras partes de las Asociaciones 
 
 III. Cuando se trate de la propuesta de disolución de una Asociación Deportiva.
 
-La Asamblea Extraordinaria deberá ser convocada por el Presidente o por su suplente, con 5 días hábiles de anticipación y deberá contener por lo menos los siguientes puntos:
+IV. Cuando se trate de propuestas de modificaciones al Estatuto o la normatividad fundamental para el Deporte Institucional.
 
-I. Verificación del Quórum.
+La convocatoria respectiva deberá ser enviada por escrito con dos días de anticipación y se incluirá en ésta el orden del día, la fecha y el lugar en donde se celebrará.
 
-II. Instalación de la Asamblea.
+El orden del día deberá contener por lo menos los siguientes puntos:
 
-III. Asunto o asuntos que motivan a la Asamblea Extraordinaria, por lo que no podrán discutir asuntos que no sean considerados en la convocatoria.
+a) Verificación del Quórum.
+
+b) Instalación de la Asamblea.
+
+c). Asunto o asuntos que motivan a la Asamblea Extraordinaria, por lo que no podrán discutir asuntos que no sean considerados en la convocatoria.
+
+Si por alguna circunstancia hubiera necesidad de cambiar la hora, el día o lugar de la celebración de la Asamblea General, se les comunicará a los asambleístas por escrito, cuando menos con dos días de anticipación.
 
 ###### Artículo 16o.
 
 Los acuerdos de la Asamblea General de Asociados tendrán carácter obligatorio para todos los afiliados habiendo o no asistido o que se hayan retirado de la misma, siempre y cuando, cuente con el voto exigido en el presente Estatuto. Estos acuerdos entrarán en vigor una vez aprobados y deberán ejecutarse si para ello no existe imposibilidad material siendo la Asamblea la única facultada para revocarlos pero no podrán tomarlos ni serán válidos si dichos acuerdos se contraponen a lo establecido por este Estatuto.
 
+> <small>(REFORMADO, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 17o.
 
-Con la finalidad de contar anticipadamente con los programas operativos anuales, así como establecer los procedimientos de evaluación, análisis y propuestas de acciones en el marco del Programa General del Deporte Institucional el Presidente del ODEIMSS convocará a Asamblea específicamente para este fin, la cual se llevará a cabo durante el mes de enero de cada año.
+Con la finalidad de contar anticipadamente con los programas operativos anuales, así como establecer los procedimientos de evaluación, análisis y propuestas de acciones en el marco del Programa General del Deporte Institucional, el Presidente convocará a sesión ordinaria específicamente para este fin, la cual se llevará a cabo durante el mes de enero de cada año.
 
 ### CAPÍTULO VI. Del Consejo Directivo
 
+> <small>(REFORMADO, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 18o.
 
-El Consejo Directivo del ODEIMSS, estará compuesto por seis miembros y un invitado, los cuales serán, el Presidente, Presidente Suplente (en su caso); Secretario Técnico; representante del FIDEIMSS como invitado, y cuatro Vocales.
+El Consejo Directivo del ODEIMSS, es el órgano permanente de dirección, control y representación, y estará compuesto por siete miembros de la siguiente manera:
 
-Para el caso del invitado del FIDEIMSS, éste será el Director Técnico del Fideicomiso.
+I. Presidente: La persona Titular de la Dirección de Prestaciones Económicas y Sociales.
+
+Presidente Suplente: La persona Titular de la Unidad de Prestaciones Sociales, quien asumirá las funciones y facultades del Presidente en su ausencia.
+
+II. Secretario Técnico: La persona Titular de la Coordinación Técnica de Cultura Física y Deporte.
+
+III. Cuatro Vocales:
+
+a) La persona Titular de la Coordinación de Bienestar Social, quien ejercerá esta función de manera permanente.
+
+b) La persona representante del Área Jurídica de la Dirección de Prestaciones Económicas y Sociales, quien ejercerá esta función de manera permanente.
+
+c) La persona Titular de la División de Apoyo Técnico y Mejora de Procesos, quien ejercerá esta función de manera permanente.
+
+d) Persona con experiencia técnica en deporte
+
+IV. Representante permanente del FIDEIMSS: La persona Titular de la Dirección Técnica del Fideicomiso.
+
+Para ser miembro del Consejo Directivo, los servidores públicos mencionados deberán manifestar por escrito su compromiso de evitar cualquier conflicto de intereses que pudiera afectar la imparcialidad y objetividad en el desempeño de sus funciones. En caso de presentarse un posible conflicto de intereses, se sujetarán a lo dispuesto por el artículo 58 de la Ley General de Responsabilidades Administrativas, que establece la obligación del servidor público de informar dicha situación y solicitar su excusa ante la Asamblea General.
+
+Asimismo, en caso de identificarse situaciones de conflicto de intereses, la Asamblea General podrá considerar dar vista al Comité de Ética del IMSS para su posterior envío a la Secretaría Anticorrupción y Buen Gobierno.
 
 ###### Artículo 19o.
 
@@ -363,7 +423,9 @@ IV. Tener experiencia deportiva, ya sea como atleta, docente o haber desempeñad
 
 Los miembros del Consejo Directivo, tienen las siguientes obligaciones:
 
-I. Asistir a las sesiones ordinarias que se efectuarán una cada tres meses.
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
+
+I. Asistir a las sesiones ordinarias que se efectuarán una cada seis meses.
 
 II. Asistir a las sesiones extraordinarias cada vez que se convoquen para tal efecto.
 
@@ -415,6 +477,10 @@ XVIII. Resolver las situaciones, casos, asuntos urgentes, excepcionales e imprev
 
 XIX. Dirigir al deporte del Instituto Mexicano del Seguro Social con apego a la normatividad aplicable, por medio del ODEIMSS y a través de las Asociaciones Deportivas Institucionales.
 
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
+
+XX. Vigilar las actividades en el ámbito deportivo que para integrar proyectos transversales que conjunten esfuerzos y generen una nueva cultura de prevención y promoción de la salud en los centros de trabajo, constatando, previa verificación la salud de los trabajadores afiliados, con un médico asistente, que dictamine la procedencia o no, de la participación de los trabajadores en dichas actividades.
+
 ### CAPÍTULO VII. Facultades de los Integrantes del Consejo Directivo
 
 ###### Artículo 25o.
@@ -457,11 +523,13 @@ XVII. Presentar propuestas de modificaciones al Estatuto para su aprobación por
 
 XVIII. Ejercer, además de las facultades generales, las específicas que acuerde o disponga el Consejo Directivo, la asamblea o la Ley en la materia.
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ACUERDO DE REFORMAS NÚMERO AS2.HCT.281025/318.P.DPES, PUBLICADO EN EL D.O.F. DE 5 DE DICIEMBRE DE 2025, VÉASE LITERALIDAD DEL PRESENTE ARTÍCULO, PÁGINA 103.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 26o.
 
-Presidente Suplente del ODEIMSS será el Titular de la Coordinación de Bienestar Social.
-
-Son obligaciones del Presidente Suplente:
+En caso de ausencia del Presidente, se designará con el carácter de Presidente Suplente a la persona Titular de la Unidad de Prestaciones Sociales, teniendo como facultades, las siguientes:
 
 I. Auxiliar al Presidente en todas las labores inherentes a su cargo.
 
@@ -471,9 +539,11 @@ III. Sólo tendrá derecho a voto, en ausencia del Presidente
 
 Cumplir con las comisiones y demás funciones de trabajo y representación que el Presidente del ODEIMSS le encomiende, informando del resultado al término de las mismas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 27o.
 
-El Secretario Técnico del ODEIMSS, será el Titular de la División de Deporte y Cultura Física.
+El Secretario Técnico del Consejo Directivo, será la persona Titular de la Coordinación Técnica de Cultura Física y Deporte, quien en caso de ausencia, será suplido por la persona Titular de la División de Cultura Física y Deporte.
 
 Son funciones del Secretario Técnico:
 
@@ -491,25 +561,49 @@ VI. Elaborar los acuerdos, conclusiones, opiniones y demás asuntos que emanen d
 
 VII. Preparar y distribuir el orden del día o temario, y toda la documentación inherente a las juntas de consejo Directivo, Asambleas y Congresos; publicar y circular el boletín trimestral de información a todos los Asociados.
 
-VIII. Informar cada tres meses por medio de un boletín a los Asociados del ODEIMSS, de los acuerdos y actividades tomados en el seno del Consejo.
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
 
-IX. Proponer al Presidente del ODEIMSS, a los candidatos para ser Presidente de Asociación Deportiva Institucional, con base a su trayectoria y logros.
+VIII. Informar cada seis meses por medio de un boletín a los Asociados del ODEIMSS, de los acuerdos y actividades tomados en el seno del Consejo.
 
-X. Desempeñar las demás comisiones que acuerde o encomiende el Consejo Directivo, debiendo informar del resultado al término de las mismas.
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
 
-XI. El Secretario Técnico será sustituido en ausencias temporales por un Vocal del ODEIMSS.
+IX. Proponer al Presidente del Consejo Directivo, los candidatos para ser Presidente de Asociación Deportiva Institucional, con base a su trayectoria y logros debidamente documentados.
+
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
+
+X. Llevar el control del registro de las Asociaciones Deportivas del ODEIMSS.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 5 DE DICIEMBRE DE 2025)</small>
+
+XI. Verificar que exista documentación comprobatoria de los ingresos y egresos de los recursos asignados a las Asociaciones Deportivas del ODEIMSS, asegurándose que las mismas no sean Asociaciones Civiles.
+
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
+
+XII. Auxiliar a las Asociaciones Deportivas del IMSS afiliadas al ODEIMSS, en la programación, planeación, calendarización y administración deportiva, bajo los lineamientos y normatividad establecida por el ODEIMSS.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 5 DE DICIEMBRE DE 2025)</small>
+
+XIII. Desempeñar las demás comisiones que acuerde o encomiende el Consejo Directivo, debiendo informar del resultado al término de las mismas.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ACUERDO DE REFORMAS NÚMERO AS2.HCT.281025/318.P.DPES, PUBLICADO EN EL D.O.F. DE 5 DE DICIEMBRE DE 2025, VÉASE LITERALIDAD DEL PRESENTE ARTÍCULO, PÁGINA 104.]</small>
+
+> <small>(REFORMADO, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 28o.
 
-Los cuatro Vocales del ODEIMSS, serán designados por el Presidente.
+Los cuatro Vocales del ODEIMSS, tendrán las siguientes funciones:
 
-Son funciones de los cuatro Vocales:
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
 
 I. Cumplir con las obligaciones generales y particulares que le correspondan en su carácter de miembros del Consejo Directivo del ODEIMSS y de acuerdo con este Estatuto.
 
-II. Auxiliar a las Asociaciones Deportivas del IMSS afiliadas al ODEIMSS, en la programación, planeación, calendarización y administración deportiva, bajo los lineamientos y normatividad establecida por el ODEIMSS.
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
 
-III. Verificar que exista documentación comprobatoria de los ingresos y egresos de los recursos asignados a las Asociaciones del ODEIMSS.
+II. Emitir opinión acerca de los asuntos que sean sometidos al Consejo Directivo para su consideración.
+
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
+
+III. Desempeñar las demás que acuerde o encomiende el Consejo Directivo, debiendo informar del resultado al término de las mismas.
 
 IV. Supervisar el debido apego normativo técnico, acorde a los lineamientos Federativos.
 
@@ -523,9 +617,11 @@ VIII. Desempeñar las demás que acuerde o encomiende el Consejo Directivo, debi
 
 ### CAPÍTULO VIII. De las Comisiones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 29o.
 
-Para auxiliar en las funciones del ODEIMSS, el Consejo Directivo podrá designar comisiones, conforme a lo siguiente:
+El Consejo Directivo podrá designar comisiones, conforme a lo siguiente:
 
 I. Comisión de reorganización, se encargará, en su caso, de integrar las propuestas de las personas elegibles para integrar los Consejos Directivos de las Asociaciones Deportivas Institucionales, a efecto de que sean propuestas conforme a los procedimientos establecidos en el presente Estatuto, tendrá una duración máxima de 60 días hábiles.
 
@@ -537,19 +633,23 @@ Estas comisiones regularán su funcionamiento conforme a lo establecido en el pr
 
 ### CAPÍTULO IX. De los Asociados
 
+> <small>(REFORMADO, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 31o.
 
 Son Asociados del ODEIMSS, las Asociaciones Deportivas Institucionales, UOPSI, Ligas deportivas y Clubes de las 35 representaciones institucionales en todo el territorio nacional.
 
-El ODEIMSS estructurará las Asociaciones Deportivas Institucionales que requiera el desarrollo deportivo institucional de conformidad con las características y requerimientos solicitados por cada una de las Asociaciones Deportivas Nacionales de conformidad con lo establecido en sus ordenamientos estatutarios.
+El Consejo Directivo, aprobará las Asociaciones Deportivas Institucionales que requiera el desarrollo deportivo institucional de conformidad con las características y requerimientos solicitados por cada una de las Asociaciones Deportivas Nacionales de conformidad con lo establecido en sus ordenamientos estatutarios.
 
 ###### Artículo 32o.
 
 Las Asociaciones Deportivas se deberán regir por lo previsto en el Estatuto y su ejercicio deportivo será el que señale la Asociación Deportiva Nacional a la que se encuentren afiliados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 33o.
 
-EL ODEIMSS formará y reconocerá a una sola Asociación por cada disciplina deportiva que integre a las UOPSI, Ligas y Clubes en instalaciones deportivas del IMSS, que tendrán la finalidad de organizar, promover y desarrollar la competencia deportiva, bajo las siguientes premisas:
+El Consejo Directivo aprobará y reconocerá a una sola Asociación por cada disciplina deportiva que integre a las UOPSI, Ligas y Clubes en instalaciones deportivas del IMSS, que tendrán la finalidad de organizar, promover y desarrollar la competencia deportiva, bajo las siguientes premisas:
 
 I. Las Asociaciones Deportivas deberán, tener el reconocimiento por escrito, del máximo organismo nacional que rige su deporte.
 
@@ -557,23 +657,39 @@ II. Las Asociaciones Deportivas Institucionales representan, a un solo deporte c
 
 III. Las Asociaciones Deportivas Institucionales son las únicas facultadas para convocar y efectuar Campeonatos de Asociación de Control y Selectivos, para eventos Nacionales e Internacionales, así como autorizar, en su caso bajo su supervisión técnica, la realización de eventos interclubes.
 
+> <small>(REFORMADO, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 34o.
 
-Todos los integrantes de las Asociaciones Deportivas Institucionales, deportistas, entrenadores, directivos, jueces u oficiales y voluntarios, deberán estar registrados en el ODIEMSS (sic) y afiliados a su respectiva Asociación Deportiva Nacional así como cumplir con los Lineamientos Generales y Estatutos de las Asociaciones Deportivas Nacionales y del ODEIMSS.
+Todos los miembros de las Asociaciones Deportivas Institucionales, incluyendo deportistas, entrenadores, directivos, árbitros, jueces, oficiales y voluntarios, deberán estar debidamente registrados en el ODEIMSS y afiliados a su respectiva Asociación Deportiva Nacional. Asimismo, es imperativo que cumplan con los Lineamientos Generales y Estatutos tanto de las Asociaciones Deportivas Nacionales como del ODEIMSS.
+
+Las propuestas para la presidencia de las asociaciones deportivas deberán cumplir con los siguientes requisitos:
+
+I. Se priorizará que los presidentes de las ADIS tengan un perfil deportivo e institucional. Sin embargo, también se tomarán en cuenta las candidaturas de personas externas que demuestren una trayectoria y experiencia deportiva sólidas.
+
+II. Contar con una licenciatura en educación física o afín
+
+Todos los candidatos deberán acreditar su experiencia deportiva con la documentación idónea. Para el personal institucional, se requerirá además la presentación de su último talón de pago.
+
+> <small>(REFORMADO, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 35o.
 
-Las Asociaciones Deportivas Institucionales, deberán contar con un Presidente, un Secretario Técnico, un representante de la División de Cultura Física y Deporte y cuatro Vocales regionales, nombramientos que son de carácter honorifico.
+Las Asociaciones Deportivas Institucionales, deberán contar con un Presidente, un Secretario Técnico, un representante de la División de Cultura Física y Deporte y cuatro Vocales regionales, nombramientos que son de carácter honorífico.
 
-El presidente de cada Asociación Deportiva Institucional, propondrá al Presidente del ODEIMSS, la integración del Consejo Directivo de la Asociación que corresponda.
+El Presidente de cada Asociación Deportiva Institucional, propondrá al Consejo Directivo, la integración del Consejo Operativo de la Asociación Deportiva correspondiente.
+
+> <small>(REFORMADO, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 36o.
 
-El ODEIMSS, instrumentará un Sistema de Registro del Deporte Institucional como medio de vinculación y verificación de los miembros de las Asociaciones Deportivas Institucionales.
+El Consejo Directivo, instrumentará un Sistema de Registro del Deporte Institucional como medio de vinculación y verificación de los miembros de las Asociaciones Deportivas Institucionales, denominado “AFILIACIÓN”
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 37o.
 
-Las Asociaciones Deportivas Institucionales afiliadas al ODEIMSS, tendrán los siguientes derechos:
+Las Asociaciones Deportivas Institucionales afiliadas al ODEIMSS, tendrán las siguientes facultades:
 
 I. Ejercer las atribuciones y facultades correspondientes como autoridad institucional de su deporte, ante sus respectivos organismos en el ámbito nacional.
 
@@ -585,7 +701,9 @@ IV. Reconocer, avalar, registrar, afiliar y dar de baja a sus miembros.
 
 V. Reconocer la capacidad o experiencia en cuanto a la preparación normativa y/o técnica de sus dirigentes, entrenadores, árbitros, jueces y técnicos institucionales, nacionales o internacionales vinculados a su deporte, brindándoles en lo posible, medios convenientes para su superación.
 
-VI. Participar de manera concertada y sistemática, con las Asociaciones Deportivas Nacionales en la preparación de las selecciones nacionales.
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
+
+VI. Colaborar de manera concertada y sistemática con las Asociaciones Deportivas Nacionales en la preparación de las selecciones o preselecciones nacionales.
 
 VII. Acreditar el aval, por escrito y ante quien corresponda, respecto de la participación de deportistas de su especialidad, que acudan a representar al IMSS en competencias de su deporte.
 
@@ -599,13 +717,19 @@ XI. Presentar al ODEIMSS con carácter de propuesta o recomendación, iniciativa
 
 XII. Solicitar el apoyo del ODEIMSS, para que cualquiera de sus afiliados, cuando sea posible, sea propuesto para participar en las convocatorias para desempeñar un cargo en organismos nacionales del deporte y comunicar la designación que se obtenga.
 
-XIII. Participar en acciones o promociones para el financiamiento del Deporte Institucional y beneficiarse de las aportaciones deducibles de los donativos que se reciban.
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
+
+XIII. Participar en acciones y promociones orientadas al financiamiento del Deporte Institucional, así como beneficiarse de las aportaciones deducibles provenientes de los donativos recibidos. Dichas acciones pueden incluir la organización de eventos con cuota de inscripción, tales como las "Copas IMSS" de diversas disciplinas a nivel nacional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 38o.
 
-Las Asociaciones Deportivas Institucionales tienen las siguientes obligaciones:
+Las Asociaciones Deportivas Institucionales deberán:
 
-I. Elaborar y someter a consideración de la Presidencia del ODEIMSS, su propuesta de Estatuto interno, así como la reglamentación que consideren pertinente, para su respectiva aprobación, asimismo deberán mantenerlos actualizados, y acordes al ODEIMSS y a la demás normatividad aplicable dentro del Sistema Nacional de Cultura Física y Deporte, así como a lo establecido en la Ley General de Cultura Física y Deporte y su Reglamento.
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
+
+I. Elaborar y someter a consideración del Consejo Directivo, su propuesta de Estatuto interno, así como la reglamentación que consideren pertinente, para su respectiva aprobación, asimismo deberán mantenerlos actualizados, y acordes al ODEIMSS y a la demás normatividad aplicable dentro del Sistema Nacional de Cultura Física y Deporte, así como a lo establecido en la Ley General de Cultura Física y Deporte y su Reglamento.
 
 II. Tener su domicilio en la Ciudad de México, comunicarlo a su Asociación Deportiva Nacional y a sus afiliados, así como informar del mismo cada vez que ocurra un cambio.
 
@@ -641,15 +765,19 @@ XV. Estimular, premiar, apoyar, fomentar y reconocer el desempeño meritorio, ej
 
 Será facultad exclusiva del Consejo Directivo, aprobar las modificaciones al presente Estatuto.
 
+> <small>(REFORMADO, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 40o.
 
-Podrá presentar propuestas de modificaciones al Estatuto para su aprobación por el Consejo Directivo, el Presidente del ODEIMSS.
+Las propuestas de modificaciones al presente Estatuto, se deberán presentar para su aprobación al Consejo Directivo, mediante sesión extraordinaria de la asamblea general.
 
 ### CAPÍTULO XI. De las Sanciones y Recursos del Deporte Federado
 
+> <small>(REFORMADO, D.O.F. 5 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 41o.
 
-En el ámbito del Deporte Institucional la aplicación de sanciones por infracciones al Estatuto del ODEIMSS, y a los de cada Asociación Deportiva, así como a la normatividad institucional, le corresponde determinarlas a la Comisión de Honor y Justicia y al Consejo Directivo del ODEIMS (sic), en la esfera de su respectiva competencia, las cuales deberán ser tramitadas conforme a lo dispuesto por el presente capítulo y las Reglas Internas de Operación, que para tal efecto se emitan.
+En el ámbito del Deporte Institucional la aplicación de sanciones por infracciones al Estatuto del ODEIMSS, y a los de cada Asociación Deportiva, así como a la normatividad institucional, le corresponde determinarlas a la Comisión de Honor y Justicia y al Consejo Directivo del ODEIMSS, en la esfera de su respectiva competencia, las cuales deberán ser tramitadas conforme a lo dispuesto por el presente capítulo y las Reglas Internas de Operación, que para tal efecto se emitan.
 
 ###### Artículo 42o.
 
@@ -754,3 +882,13 @@ Artículo Tercero. Las Reglas Internas de Operación del presente Estatuto será
 Artículo Cuarto. El Consejo Directivo dispone de un plazo de 90 días naturales a partir de su aprobación en Asamblea para la publicación del Código de Conducta de los Asociados, así como de los procedimientos operativos de las Comisiones.
 
 El Director de Prestaciones Económicas y Sociales del IMSS, Mauricio Hernández Ávila.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 5 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO ACDO.AS2.HCT.281025/318.P.DPES POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL ESTATUTO DEL ÓRGANO DE CULTURA FÍSICA Y DEPORTE DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (ODEIMSS)".]
+
+Artículo Primero. Las presentes reformas al Estatuto del Órgano de Cultura Física y Deporte del Instituto Mexicano del Seguro Social, Publicado en el Diario Oficial de la Federación el 11 de noviembre de 2019 en atención al Acuerdo ACDO.AS2.HCT.250619/200.P.DPES entrarán en vigor al siguiente día hábil al de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo. Las Reglas Internas de Operación del presente Estatuto serán expedidas en un término de noventa días hábiles, contados a partir de la publicación de este instrumento referida en el artículo anterior.
