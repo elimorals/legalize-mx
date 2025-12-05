@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-fiscalia-general-del-estado-de-nayarit-10145
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-05-15"
-last_updated: "2023-03-24"
+last_updated: "2025-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101457&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el jueves 15 de mayo de 2014.
 
@@ -231,9 +231,9 @@ XVII. Celebrar acuerdos o convenios con las instituciones públicas o privadas p
 
 XVIII. Proponer al Gobernador del Estado los proyectos de leyes, reglamentos o decreto relacionados con la procuración de justicia;
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
-XIX. Promover la coordinación con autoridades federales, estatales y municipales, para la implementación de programas, mecanismos y protocolos de seguridad en la búsqueda de personas reportadas como desaparecidas, solicitando la participación de la sociedad y de los medios masivos de comunicación para la atención de este tipo de casos;
+XIX. Realizar acciones coordinadas para prevenir, investigar y perseguir la extorsión en el ámbito de su competencia; autorizar la intervención pericial cuando proceda; realizar acciones que fortalezcan el cumplimiento de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la Fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; generar inteligencia operativa y fortalecer la aplicación de esta Ley mediante los mecanismos de coordinación del Sistema Nacional de Seguridad Pública; mantener comunicación con instancias federales y estatales para focalizar operativos y desarrollar campañas preventivas; así como promover la coordinación con autoridades de los tres órdenes de gobierno en la búsqueda de personas desaparecidas, solicitando la participación de la sociedad y de los medios de comunicación;
 
 XX. Resolver por sí o a través del servidor público en quien delegue dicha facultad, las inconformidades interpuestas por la víctima u ofendido en contra de las determinaciones del Ministerio Público sobre su negativa u omisión en determinados actos de investigación, así como de las determinaciones sobre la abstención de investigar, el archivo temporal, el no ejercicio de la acción penal o sobre la aplicación de criterios de oportunidad;
 
@@ -2116,3 +2116,15 @@ P.O. 24 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA EL ARTÍCULO 97 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+P.O. 5 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA LA FRACCIÓN XIX ARTÍCULO 9 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Tercero. En un plazo de 180 días hábiles contados a partir de la entrada en vigor del presente Decreto la Fiscalía General del Estado, deberá realizar las adecuaciones normativas necesarias para el cumplimiento del presente instrumento.
+
+Cuarto. Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento, por lo que no incrementarán su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
