@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-sistema-estatal-de-seguridad-publica-nayarit-68777"
 country: "mx"
 rank: "ley"
 publication_date: "2009-05-23"
-last_updated: "2018-12-21"
+last_updated: "2025-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 23 de mayo de 2009.
 
@@ -169,11 +169,41 @@ XI.- Coordinar la participación de la comunidad y de las instituciones académi
 
 XII.- Aplicar mecanismos de evaluación en la aplicación de los fondos de ayuda federal para la seguridad pública;
 
-XIII.- Fortalecer los sistemas de seguridad social de los servidores públicos, sus familias y dependientes, e instrumentar los complementarios a éstos; y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+XIII.- Fortalecer los sistemas de seguridad social de los servidores públicos, sus familias y dependientes, e instrumentar los complementarios a éstos;
 
-XIV.- Las demás acciones que conforme a la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables sean necesarias para incrementar la eficacia en el cumplimiento de los fines de la Seguridad Pública.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+XIV.- Planear, diseñar y ejecutar acciones y operativos coordinados entre sí para el cumplimiento en el ámbito de su competencia con lo establecido en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la Fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+XV.- Autorizar la participación de los cuerpos periciales que tengan adscritos en auxilio de otras autoridades para la investigación del delito de extorsión, cuando así se requiera;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+XVI.- Generar productos de inteligencia a partir de la información con la que cuenten y que les sea proporcionada, incluyendo aquella obtenida mediante los sistemas e instrumentos tecnológicos de conformidad con las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+XVII.- Realizar, en el ámbito de sus respectivas atribuciones, las demás acciones que sean necesarias para incrementar la eficacia en el cumplimiento en lo previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la Fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+XVIII.- Utilizar los modelos e instancias de coordinación previstos en los artículos 42, 43 y 44 de la Ley General del Sistema Nacional de Seguridad Pública, con el fin de realizar acciones operativas y de investigación;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+XIX.- Establecer comunicación con el Gabinete Estatal de Seguridad Pública y la Mesa de Paz del Estado con el objeto de analizar los datos relacionados con el delito de extorsión, como la incidencia por región, zona y municipio, modalidades y demás información que se considere necesaria con el fin de ejecutar y focalizar las acciones operativas que resulten necesarias;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+XX.- Desarrollar campañas permanentes para promover la denuncia segura y difundir información dirigida a sensibilizar y prevenir a la población sobre las distintas modalidades del delito de extorsión, así como emitir medidas de autocuidado que contribuyan a evitar que las personas sean víctimas de este ilícito, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+XXI.- Las demás acciones que conforme a la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables sean necesarias para incrementar la eficacia en el cumplimiento de los fines de la Seguridad Pública.
 
 ## TÍTULO SEGUNDO. DE LAS INSTANCIAS DE COORDINACIÓN Y LA DISTRIBUCIÓN DE COMPETENCIAS DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
@@ -2078,3 +2108,15 @@ SEGUNDO. Dentro de los noventa días hábiles a partir de la entrada en vigor de
 TERCERO. Los recursos humanos, materiales, técnicos y financieros, con los que actualmente cuenta el Centro, no se verán afectados por el cambio de adscripción al Sistema Estatal de Seguridad Pública.
 
 CUARTO. El personal adscrito al Centro Estatal de Control de Confianza y Evaluación del Desempeño, que habrán de asignarse al Sistema Estatal de Seguridad Pública, no resultarán afectados en sus derechos laborales.
+
+P.O. 5 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA EL ARTÍCULO 7º DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, EN MATERIA DE EXTORSIÓN”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Tercero. En un plazo de 180 días hábiles contados a partir de la entrada en vigor del presente Decreto, el Sistema Estatal de Seguridad Pública, deberá realizar las adecuaciones normativas necesarias para el cumplimiento del presente instrumento.
+
+Cuarto. Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento, por lo que no incrementarán su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
