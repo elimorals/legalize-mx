@@ -4,7 +4,7 @@ identifier: "COA-estatuto-juridico-para-los-trabajadores-al-servicio-del-4466"
 country: "mx"
 rank: "estatuto"
 publication_date: "1972-10-21"
-last_updated: "2025-04-18"
+last_updated: "2025-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 ESTATUTO JURÍDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2025.
 
 Estatuto publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el sábado 21 de octubre de 1972.
 
@@ -45,17 +45,29 @@ DISPOSICIONES GENERALES.
 
 ### CAPITULO UNICO.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 1.
 
-La presente Ley es de observancia general para los Titulares de las dependencias y entidades de los Poderes del Estado y sus trabajadores.
+El presente Estatuto es de observancia general, interés social y obligatorio para las personas titulares de las dependencias y entidades de los Poderes Ejecutivo y Legislativo del Estado de Coahuila de Zaragoza, para los municipios, así como para sus trabajadores y trabajadoras.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2007)</small>
+Las relaciones laborales entre los Organismos Públicos Autónomos y sus trabajadores y trabajadoras se regirán por este Estatuto, salvo que las leyes que los creen establezcan expresamente un régimen jurídico distinto.
+
+Las entidades paraestatales y los organismos públicos no estarán sujetos a las disposiciones de este Estatuto, salvo que en su decreto de creación, legislación específica o normativa interna se disponga expresamente lo contrario.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 2.
 
-El trabajo es un derecho y un deber social. No es artículo de comercio, exige respeto para las libertades y dignidad de quien lo presta y debe efectuarse en condiciones que aseguren la vida, la salud y un nivel económico decoroso para el trabajador y su familia.
+El trabajo es un derecho y un deber social. No es un artículo de comercio y debe ejercerse con respeto a las libertades y a la dignidad de la persona que lo presta.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+Su ejecución deberá realizarse en condiciones que garanticen la vida, la integridad física y mental de las personas trabajadoras, así como un nivel económico decoroso para ellas y sus familias.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+Asimismo, deberá desarrollarse en un entorno de equidad e igualdad entre mujeres y hombres, libre de discriminación y de cualquier forma de violencia, en un marco de libertad y dignidad.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
 
@@ -73,35 +85,61 @@ Es interés social, promover y vigilar la capacitación y el adiestramiento, as�
 
 El funcionamiento de dichas Comisiones se normará de acuerdo a los Reglamentos Internos que ellas emitan.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 3.
 
-Para los efectos de esta Ley, la relación jurídica se entiende establecida entre las dependencias y entidades de los Poderes del Estado y los trabajadores a su servicio.
+Para los efectos de este Estatuto, la relación jurídica se entiende establecida entre las dependencias y entidades de los Poderes del Estado, y las personas trabajadoras a su servicio, con excepción del Poder Judicial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 4.
 
-Siendo los titulares de las dependencias los representantes de las mismas, exclusivamente para los efectos de esta Ley, se entenderá como titular:
+Siendo las personas titulares de las dependencias e instituciones citadas quienes las representan, exclusivamente para los efectos de este Estatuto.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+Se entenderá como titular:
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 I.- En el Poder Legislativo: El Presidente de la Junta de Gobierno;
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
-II.- En el Poder Ejecutivo: El Gobernador del Estado, los Secretarios del Ramo, el Fiscal General del Estado y los directores de las Unidades considerados en la Ley Orgánica de la Administración Pública;
+II. En el Poder Ejecutivo: La persona Titular del Poder Ejecutivo del Estado y las y los Secretarios de las Dependencias de la Administración Pública Estatal;
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+III. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2025)
 
-III.- En el Poder Judicial:, El Pleno del Tribunal de Justicia, el Presidente del mismo, el Consejo de la Judicatura, los Magistrados Presidentes de las Salas, los Magistrados de los Tribunales Especializados cualquiera que sea su denominación, Los Magistrados de los Tribunales Distritales, los Jueces de Primera Instancia y Letrados y los titulares de los demás órganos jurisdiccionales;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1991)</small>
+IV. En las entidades paraestatales: La o el Director General o su equivalente, según el instrumento jurídico por el que hayan sido creadas, y siempre que se establezca que sus relaciones laborales se regulan por el presente Estatuto.
 
-IV.- En las Entidades Paraestatales: Su Director o el órgano equivalente, según el instrumento jurídico por el que hayan sido creadas.
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+En el caso de los municipios y los organismos públicos autónomos y descentralizados, se estará a lo dispuesto por las leyes y reglamentos que los rijan.
 
 ###### ARTICULO 5.
 
 Son irrenunciables los derechos que la presente ley otorga a los trabajadores.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 5 BIS.- Para los efectos de este Estatuto, se entenderá por:
+
+I. ACOSO SEXUAL: Conducta física, verbal o ambas, de naturaleza sexual o con fines lascivos, sin que medie necesariamente una relación de subordinación, ejercida de manera directa o a través de medios virtuales, informáticos, audiovisuales o cualquier otra vía, que cause daño o sufrimiento psicológico, afecte la dignidad de la víctima y la coloque en un estado de indefensión o riesgo;
+
+II. ANTIGÜEDAD LABORAL: Corresponde al tiempo que una persona trabajadora ha permanecido en una institución, dependencia u organismo, sin importar si está sindicalizada o no. Esta antigüedad es relevante para efectos administrativos, escalafonarios y de reconocimiento institucional;
+
+III. ANTIGÜEDAD PENSIONARIA: Se refiere al tiempo de servicios efectivamente prestados y reconocidos a la persona trabajadora para efectos del otorgamiento de una jubilación o pensión, conforme a los requisitos, términos y condiciones previstos en la legislación en materia de pensiones que resulte aplicable, en función del régimen jurídico de la dependencia, entidad u organismo al que se encuentre adscrita;
+
+IV. ANTIGÜEDAD SINDICAL: Es el tiempo que la persona trabajadora ha permanecido afiliada a un sindicato y ha trabajado bajo las condiciones y derechos establecidos en el convenio colectivo de trabajo. Este concepto está relacionado con beneficios como el escalafón, derechos preferenciales en promociones, asignación de plazas, indemnizaciones y otros derechos sindicales. Se suspende durante el tiempo en que el trabajador solicite licencia sin goce de sueldo para ocupar una plaza de confianza o atender asuntos personales;
+
+V. HOSTIGAMIENTO SEXUAL: Conducta física o verbal de naturaleza sexual o con fines lascivos, ejercida desde una posición de poder, en una relación jerárquica de subordinación laboral, que puede manifestarse en uno o varios actos;
+
+VI. EMPLEADOR: La persona titular de la dependencia, entidad, organismo o institución pública del Poder Ejecutivo, Poder Legislativo, organismos públicos autónomos o de los municipios, conforme a la estructura orgánica correspondiente, que en ejercicio de sus atribuciones legales tiene la facultad de nombrar, contratar, remover o dar por terminada la relación de trabajo con las personas trabajadoras a su cargo, y
+
+VII. TRIBUNAL: El Tribunal de Conciliación y Arbitraje del Estado de Coahuila de Zaragoza.
 
 ###### ARTICULO 6.
 
@@ -119,15 +157,19 @@ En todo lo no previsto por esta Ley o disposiciones especiales, se aplicarán su
 
 Para la interpretación de las normas de trabajo se tomarán en consideración las finalidades del Apartado "B" del artículo 123 de la Constitución General de la República.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTICULO 9.
 
-Son garantías sociales de los trabajadores en la forma y términos que determina esta Ley, las siguientes:
+Son garantías sociales de las personas trabajadoras en la forma y términos que determina este Estatuto, las siguientes:
 
-I.- La duración de la jornada de trabajo que no podrá ser mayor a la máxima establecida por esta Ley;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+I. La duración de la jornada de trabajo que no podrá, en ningún caso, ser mayor a la máxima establecida por este Estatuto;
 
-II.- El derecho a, por lo menos, un día de descanso semanal con goce de sueldo;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+II. El derecho a dos días de descanso semanal con goce de sueldo;
 
 III.- El derecho a los días de descanso obligatorio que señala esta Ley;
 
@@ -165,11 +207,15 @@ XVII.- Las trabajadoras mujeres tienen derecho a los descansos por gravidez y la
 
 XVIII.- Las demás que señale esta Ley.
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
-ARTICULO 9 BIS.- Los procesos de selección, contratación y promoción de personal que realicen las dependencias y entidades de los Poderes del Estado deberán cumplirse con criterios de igualdad y no discriminación, considerando las habilidades y capacidades de las y los candidatos.
+ARTICULO 9 BIS.- Los procesos de selección, contratación y promoción de personal que realicen las y los empleadores deberán cumplirse con criterios de igualdad y no discriminación, considerando las habilidades y capacidades de las candidaturas.
 
 En la contratación de personal está prohibida la fijación de límite máximo de edad, excepto en los casos en que la naturaleza del trabajo lo requiera. Se deberá en todo momento priorizar las aptitudes profesionales, experiencia y calificaciones.
+
+No se considerarán discriminatorias las distinciones, exclusiones o preferencias que se sustenten en las calificaciones particulares que exija una labor determinada.
+
+Es de interés social garantizar un ambiente laboral libre de discriminación y de violencia, promover y vigilar la capacitación, la formación para y en el trabajo, la certificación de competencias laborales, la productividad y la calidad en el trabajo, la sustentabilidad ambiental, así como los beneficios que estas deban generar tanto a las personas trabajadoras como las dependencias.
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
 
@@ -203,35 +249,51 @@ Trabajador es toda persona física mayor de 15 años de edad que presta un servi
 
 Los trabajadores de base deberán ser de nacionalidad mexicana y sólo podrán ser sustituidos por extranjeros cuando no existan mexicanos que puedan desarrollar el servicio respectivo. La sustitución será decidida por los titulares a que se refiere el artículo 4o. de la presente Ley.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 12.
 
-Los trabajadores son:
+Las personas trabajadoras son:
 
 I. De base;
 
-II. De base sindicalizados, y
+II. De base sindicalizados;
 
-III. De confianza.
+III. De confianza;
+
+IV. Eventuales o temporales, y
+
+V. Interinas.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 13.
 
-Al crearse categorías o cargos no comprendidos en el Capítulo III de este Título, la clasificación de base o de confianza que les corresponda se determinará expresamente por la disposición legal que formalice su creación.
+Al crearse categorías o cargos no comprendidos en el Capítulo III de este Título, la clasificación de base, base sindicalizado o de confianza que les corresponda, se determinará expresamente por la disposición legal que formalice su creación y por las funciones que realicen.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 13 BIS.- Se consideran trabajadores o trabajadoras eventuales o temporales aquellas que ocupan una plaza por tiempo determinado, ya sea con motivo de una necesidad transitoria del servicio, para la ejecución de funciones específicas o durante un periodo previamente establecido en el contrato respectivo.
+
+En los casos en que la relación laboral se sujete a la realización de una obra o proyecto específico, dicha condición deberá estar expresamente señalada en el nombramiento o contrato, y únicamente podrá estipularse cuando la naturaleza del servicio así lo exija.
+
+Serán personas servidoras públicas interinas, aquellas que presten sus servicios para ocupar provisionalmente una plaza vacante o sustituir a una persona titular que se encuentra ausente por causas justificadas como licencias, incapacidades, comisiones o suspensión provisional del nombramiento, manteniéndose dicha relación laboral mientras subsista la causa que originó el nombramiento interino.
+
+Este nombramiento no genera derechos escalafonarios ni definitividad y cesa automáticamente al momento en que se reincorpore la persona titular o se cubra la plaza de forma definitiva.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 14.
 
-Quedan excluidos del régimen de esta Ley:
+Quedan excluidas del régimen de este Estatuto:
 
-I.- Los trabajadores sujetos al Estatuto Jurídico para los Trabajadores de la Educación al Servicio del Estado y los Municipios, expedido por el Congreso del Estado, mediante el decreto No. 311, publicado en el Periódico Oficial No. 25 del 29 de marzo de 1961,
+I. Las personas trabajadoras que presten sus servicios a organismos, institutos o comisiones, cualquiera que sea la denominación con que se les conozca, sostenidos con aportaciones del Estado, la federación, los municipios o las personas particulares;
 
-II.- Los trabajadores que presten sus servicios a organismos, institutos o comisiones, cualquiera que sea la denominación con que se les conozca, sostenidos con aportaciones del Estado y de la Federación, los Municipios o los particulares;
+II. Las personas que presten sus servicios al Estado mediante contrato civil, mercantil o sujetos a pago de honorarios o cargos honoríficos;
 
-III.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1991)
+III. Las personas que desempeñen funciones como fiscales, agentes del ministerio público, peritos, agentes de investigación estatal o elementos de instituciones policiales estatales y municipales, quienes se regirán por sus propias leyes, y
 
-IV.- Las personas que presten sus servicios al Estado mediante contrato civil o sujetos a pago de honorarios;
-
-De conformidad con lo dispuesto por el artículo 82, fracción VI de la Constitución Política del Estado, los trabajadores de base a que se refiere dicha disposición Constitucional gozarán de las prerrogativas que esta Ley concede a este tipo de trabajadores, excepción hecha del derecho de inamovilidad.
+IV. Las personas trabajadoras del Poder Judicial.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -249,15 +311,35 @@ a).- De base: los que desempeñan cargos o puestos no enumerados en el Capítulo
 
 b).- De base sindicalizados: los que desempeñan cargos o puestos no enumerados en el Capítulo III de este Título y pertenecen al Sindicato Único de Trabajadores al Servicio del Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 16.
 
-Los trabajadores de base y base sindicalizados serán inamovibles.
+La persona trabajadora de base podrá ser cambiada de adscripción, haciéndolo de su conocimiento y del sindicato correspondiente en caso de estar sindicalizada. El cambio de adscripción únicamente podrá ordenarse por las siguientes causas:
+
+I. Reorganización o necesidad del servicio;
+
+II. Desaparición del centro de trabajo;
+
+III. Permuta debidamente autorizada, y
+
+IV. Sanción que le fuere impuesta.
+
+Para cambiar de adscripción a una persona trabajadora de base por necesidades del servicio, se seguirá el procedimiento siguiente:
+
+I. La o el empleador deberá notificar a la persona trabajadora y, en su caso, al sindicato correspondiente, con al menos quince días naturales de anticipación, y
+
+II. La o el empleador deberá hacer los trámites correspondientes, con la premura y cuidado necesarios, para que al servidor público no se le lesionen sus derechos ni prestaciones.
+
+Cuando el cambio de adscripción implique también cambio de localidad, la notificación deberá hacerse con treinta días naturales de anticipación, tanto a la persona trabajadora como, en su caso, al sindicato correspondiente.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 17.
 
-En el caso de trabajadores de nuevo ingreso, su inamovilidad procederá hasta transcurridos seis meses de servicios sin nota desfavorable en su expediente.
+En el caso de las personas trabajadoras de nuevo ingreso, su inamovilidad procederá hasta transcurridos seis meses de servicios sin nota desfavorable en su expediente, siempre y cuando se les haga entrega de un nombramiento definitivo a una plaza de base o base sindicalizada, o de su reincorporación a plaza de base o plaza de base sindical mediante solicitud de basificación realizada por el sindicato que corresponda.
+
+No adquirirán la calidad de personas trabajadoras de base, las eventuales o temporales, las personas interinas, de confianza, ni aquellas que sean contratadas para obra o por tiempo determinado, aún cuando la prestación del servicio se prolongue más de seis meses y por varias ocasiones.
 
 > <small>(REFORMADO, P.O. 23 DE JUNIO DE 2017)</small>
 
@@ -269,17 +351,39 @@ Si en el juicio correspondiente no comprueba el patrón la causa de la rescisió
 
 Si al término del plazo señalado en el párrafo anterior no ha concluido el procedimiento o no se ha dado cumplimiento al laudo, se pagarán también al trabajador los intereses que se generen sobre el importe de quince meses de salario, a razón del dos por ciento mensual, capitalizable al momento del pago. Lo dispuesto en este párrafo no será aplicable para el pago de otro tipo de indemnizaciones o prestaciones.
 
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+Cuando la persona trabajadora de base interponga demanda por despido injustificado y solicite la reinstalación, la plaza que ocupaba no podrá ser asignada a otra persona mientras se resuelve el procedimiento correspondiente, sin perjuicio de que pueda cubrirse provisionalmente si así lo requiere el servicio.
+
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 19.
 
 Los trabajadores de base y de base sindicalizados sólo podrán ser suspendidos o cesados por causa justificada en los términos que fija esta Ley.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 20.
 
-Cuando un trabajador de base o de base sindicalizado ocupe un puesto de confianza, al terminar su encargo en éste, volverá a su plaza de base o de base sindicalizada. Este derecho estará sujeto a los términos del artículo 139 de esta ley. El trabajador tendrá además el derecho a que se le compute todo el tiempo que haya desempeñado el puesto de confianza, para los efectos de la antigüedad en su base.
+Cuando la persona trabajadora de base sindicalizada ocupe un puesto de confianza en alguna dependencia de la o el empleador, su plaza de base quedará en reserva y conservará el derecho a reincorporarse a ella en cualquier momento.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 20 BIS.- La persona trabajadora de base sindicalizada que obtenga licencia sin goce de sueldo para ocupar un puesto de confianza conservará el derecho a reincorporarse a su plaza de origen, conforme a lo previsto en el artículo 139 del presente Estatuto.
+
+El tiempo que permanezca en el puesto de confianza bajo licencia sin goce de sueldo no se computará para efectos de antigüedad sindical, sin perjuicio de lo que dispongan las normas aplicables en materia de pensiones.
+
+La persona trabajadora podrá reincorporarse a su plaza de base sindicalizada una vez concluida la licencia, salvo que exista causa legal o administrativa debidamente fundada que lo impida.
+
+La licencia podrá otorgarse hasta por un año. Quince días antes de su vencimiento, la persona trabajadora deberá presentar por escrito su decisión de:
+
+I. Reanudar labores en su plaza de base a partir del siguiente día hábil al término de su licencia, o
+
+II. Presentar su renuncia voluntaria a dicha plaza, en caso de haber recibido nombramiento definitivo en el puesto de confianza.
+
+Si la persona trabajadora no manifiesta su decisión dentro del plazo establecido, se entenderá que opta por su reincorporación automática a la plaza de base sindicalizada al término de la licencia.
+
+En todos los casos, el empleador deberá informar por escrito a la Unidad Administrativa correspondiente y, en su caso, al sindicato, sobre la continuidad o terminación del nombramiento, al menos quince días naturales antes de su vencimiento.
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -291,61 +395,55 @@ En ningún caso el cambio de titulares de una dependencia afectará a los trabaj
 
 TRABAJADORES DE CONFIANZA.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 22.
 
-Son trabajadores de confianza:
+La categoría de persona trabajadora de confianza depende de la naturaleza de las funciones desempeñadas y no de la designación que se dé al puesto.
 
-I.- En el Poder Legislativo:
+Son funciones de confianza las de dirección, inspección, vigilancia, auditoría, fiscalización, asesoría, manejo de fondos o valores, control directo de adquisiciones, protección civil, así como las que se relacionen con la representación directa de los titulares de las instituciones públicas o dependencias, con el manejo de recursos, las funciones que realicen los auxiliares directos, asesores, secretarios particulares y adjuntos, choferes, secretarias y demás personal operativo que sean asignados directamente a los servidores públicos de confianza o de elección popular.
 
-El Oficial Mayor del Congreso, el Tesorero del Congreso, los encargados del manejo de valores, los Directores Generales, Directores y Subdirectores de Área, los Coordinadores Generales y Administrativos, los Asesores, los Secretarios Técnicos, Secretarios Particulares y Privados, los Encargados de Supervisión, Vigilancia, de Auditoría y Fiscalización Interna.
+De manera enunciativa, más no limitativa, también son funciones de confianza:
 
-Así mismo todos aquellos Asistentes o Auxiliares, independientemente de la denominación que se les asigne, que tengan plazas homologadas a Jefaturas de Departamento o Superiores.
+I. Las de dirección o mando, ejercidas en forma permanente con poder de decisión;
 
-Igualmente son trabajadores de Confianza, todo el Personal que Labora en la Auditoría Superior del Estado.
+II. Las de inspección, vigilancia o auditoría, cuando sean desempeñadas en exclusividad por personal técnico adscrito a dichas áreas;
 
-II.- En el Poder Ejecutivo:
+III. Las que impliquen el manejo directo de fondos o valores con capacidad de disposición;
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+IV. Las que otorguen control en adquisiciones, incluyendo toma de decisiones o análisis técnico;
 
-Los Secretarios de las Dependencias, el Procurador General de Justicia del Estado, los Subprocuradores, los Subsecretarios, los Directores Generales, de Área, Jurídicos y Administrativos; el Procurador Social y de Atención Ciudadana, los Subdirectores, los Jefes de Departamento, de Oficina, Administrativos, de Unidades, de Diseño, de Información, de Programas y de Recursos Financieros; los Coordinadores Generales y Administrativos; Subcoordinadores, Delegados, Subdelegados; Guardias, Inspectores, Médicos Especialistas y Forenses, Psicólogos, Odontólogos, Pilotos, Pilotos del Ejecutivo, Capitán del Eurocopter, Presidentes y Actuarios de las Juntas Locales, Procuradores y Procuradores Auxiliares del Trabajo, Titular de la Comisión Coahuilense de Construcción de Obras, de Control de Obras y de las distintas regiones; Recaudadores de Rentas, Registradores de Oficinas, Representantes de las diferentes Secretarías, Residentes, Responsables de Unidades y de Laboratorios; Secretarios Auxiliares, de Acuerdos, de Oficina, Particulares, Privados, Técnicos y Adjuntos; Subcomisionados, Encargados, Supervisores, Visitadores, Abogados Dictaminadores, Asesores, Asistentes, Ejecutivos y Operativos; Auditores, Auxiliares de las Juntas, Agentes y Secretarios del Ministerio Público, Contralores Internos y vigilantes.
+V. Las que impliquen control en almacenes e inventarios, como autorización de ingreso, baja o traslado de bienes;
 
-Así mismo todos aquellos técnicos operativos que tengan plazas homologadas a jefaturas de departamento y a subdirecciones.
+VI. Las de investigación científica, si se tiene facultad de definir su orientación o destino;
 
-Todos aquellos que ocupen plazas de nueva creación que, independientemente de la denominación que se les dé, se les otorguen niveles de jefe de departamento, subdirectores, directores, directores generales, subsecretarios y secretarios.
+VII. Las de asesoría o consultoría directa a titulares de Secretaría, Subsecretaría o Dirección General;
 
-III.- En el Poder Judicial:
+VIII. Las realizadas en unidades de transparencia, administración de personal o nómina, cuando impliquen el manejo de información confidencial, sensible o de datos personales;
 
-En el Tribunal Superior de Justicia: el Secretario General de Acuerdos, los Secretarios Auxiliares y Actuarios del Pleno; los Secretarios de Estudio y Cuenta o Proyectista y los de Acuerdo y Trámite, Secretarios Auxiliares y Actuarios de las Salas; los Secretarios Particulares, Adjuntos, Privados y Auxiliares de la Presidencia del Tribunal Superior de Justicia.
+IX. Las funciones de auditoría, control de gestión o evaluación de desempeño institucional;
 
-En la Oficialía Mayor del Poder Judicial: el Oficial Mayor, los Directores de Recursos Humanos, Financieros, Materiales e Informática, los Subdirectores de Recursos Humanos y Finanzas y Presupuestos, el Jefe de la Unidad Jurídica, los Jefes de las Unidades Administrativas Distritales, el Jefe de Planeación y Desarrollo de Recursos Humanos, los Vigilantes y la Secretaria del Oficial Mayor.
+X. Las de asesoría fiscal;
 
-En el Archivo General: el Director, los Encargados de los Archivos Regionales y Distritales.
+XI. Las de vigilancia y supervisión, vinculadas con el tránsito de vehículos;
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+XII. Las de asesoría en los procesos de entrega-recepción de la administración;
 
-En el Consejo de la Judicatura: el Secretario de Acuerdo y Trámite, los Secretarios de Estudio y Cuenta o Proyectistas, Secretarios Auxiliares y Actuarios. El Director, Subdirectores de Unidad, Delegados, Defensores de Oficio, Procuradores Auxiliares, las unidades administrativas, auxiliares, de control y personal técnico que se requiera para el adecuado desempeño de las funciones, de la Defensoría Jurídica Integral del Estado de Coahuila de Zaragoza.
+XIII. Las que involucren conocimientos técnicos especializados, relacionados con intereses gubernamentales e institucionales;
 
-En los Tribunales Especializados cualquiera que sea su denominación, Tribunales Distritales, Juzgados de Primera Instancia y Letrados y demás órganos jurisdiccionales: Magistrados, Jueces, Secretarios de Acuerdo y Trámite, los Secretarios de Estudio y Cuenta o Proyectistas, Secretarios Auxiliares y Actuarios.
+XIV. Las de asesoría jurídica, elaborar demandas, entre otras, de amparo, ofrecer pruebas, intervenir en toda clase de diligencias a nombre de la o el empleador, y realizar actividades administrativas de carácter general a nombre y representación de la o el empleador, que comprometan el patrimonio;
 
-En la Visitaduría Judicial General: el Visitador Judicial General, los Visitadores y los Secretarios Auxiliares.
+XV. Funciones jurisdiccionales;
 
-En el Instituto de Especialización Judicial: el Director del Instituto, el Subdirector y el Coordinador Académico.
+XVI. Administración de fondos para las operaciones diarias de la oficina a su cargo;
 
-En el Centro de Medios Alternos de Solución de Controversias: el Director, los Coordinadores, Mediadores, Conciliadores, Evaluadores Neutrales y Árbitros.
+XVII. Realizar labores de vigilancia e inspecciones forestales;
 
-En el Centro de Evaluación Psicosocial: el Director, el Subdirector Técnico, el Jefe de Trabajo Social y los Psicólogos.
+XVIII. Las de coordinar al personal a su cargo para cumplir los compromisos o programas de la entidad, planeación y supervisión de ciertos elementos y componentes orientados a la consecución de los fines que son encomendados a cierto tipo de personas trabajadoras burocráticas con facultad de mando, de coordinación con facultades de mando;
 
-En las Oficialías Comunes de Partes: el Oficial Común de Partes y los Secretarios Auxiliares.
+XIX. Las funciones que se realicen en las secretarías particulares del Gobernador, Secretarias o Secretarios de Estado y titulares de dependencias y organismos que tengan funciones de organización y coordinación de las actividades propias de su cargo, atender las solicitudes de audiencias personales y por escrito que la ciudadanía formule y registrar en la agenda los compromisos derivados de las funciones del titular, y
 
-En la Unidad de Proyectos Legislativos y Acceso a la Información Pública: el Jefe de la Unidad y el Secretario Auxiliar.
-
-En general, los Directores, Subdirectores, Administradores, Jefes de Departamento, Coordinadores, Encargados, cualquiera que sea su denominación, así como los vigilantes, Secretarios Particulares, el Auditor Interno.
-
-Además, aplicable a los tres Poderes serán considerados trabajadores de confianza aquéllos cuyo nombramiento o ejercicio del cargo requiera de la intervención directa del titular de la institución pública o del órgano de gobierno, los que rengan esa calidad en razón de la naturaleza de las funciones que desempeñen y no de la designación que se dé al puesto.
-
-Son funciones de confianza: las de dirección, inspección, vigilancia, auditoría, fiscalización, asesoría, manejo de fondos o valores, control directo de adquisiciones, procuración y administración de justicia, protección civil, así como las que se relacionen con la representación directa de los titulares de las instituciones públicas o dependencias, con el manejo de recursos, las que realicen los auxiliares directos, asesores, secretarios particulares y adjuntos, choferes, secretarias y demás personal operativo que les sean asignados directamente a los servidores públicos de confianza o de elección popular.
+XX. Las de monitoreo del contenido de los programas de televisión las veinticuatro horas del día con material grabado, reportar incidencias en concursos y sorteos, aparición de la persona interventora; reporte de incidencias de comerciales con contenido sexual, bebidas alcohólicas y de cigarros; así como su horario de transmisión; elaborar reporte de incidencias que se susciten durante los procesos electorales, pues dichas actividades encuadran en los supuestos legales de inspección y vigilancia a que hace referencia el precitado numeral.
 
 ###### ARTICULO 23.
 
@@ -389,39 +487,61 @@ Son labores peligrosas o insalubres las que, por la naturaleza del trabajo, o la
 
 Cuando las mujeres presten sus servicios durante la jornada mixta, durante las horas del período nocturno deberán tomarse las medidas necesarias para que se cumplan los fines del artículo 27.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTICULO 32.
 
-Las madres trabajadores tendrán los siguientes derechos:
+Las madres trabajadoras tendrán los siguientes derechos:
 
-I.- Quedan exceptuadas del trabajo extraordinario desde el momento en que el estado de embarazo haya sido determinado por un médico;
+I. Quedan exceptuadas del trabajo extraordinario desde el momento en que el estado de embarazo haya sido determinado por un médico;
 
-II.- Durante el período del embarazo no podrán desempeñar trabajos peligrosos para su salud o la de su hijo, tales como los que produzcan trepidación o exijan esfuerzo físico considerable, levantar, tirar o empujar grandes pesos, o permanecer de pie durante largo tiempo;
+II. Durante el período del embarazo no podrán, en ningún caso, desempeñar trabajos peligrosos para su salud o la de su hija o hijo, tales como los que produzcan trepidación o exijan esfuerzo físico considerable, levantar, tirar o empujar grandes pesos, o permanecer de pie durante largo tiempo y en general no podrán realizar el trabajo cuando este exija esfuerzo que signifique un peligro para su salud en relación con la gestación;
 
-III.- Disfrutarán de un descanso de seis semanas anteriores y seis posteriores al parto;
+III. Disfrutar de un descanso de seis semanas anteriores y seis posteriores al parto, pudiendo solicitar por escrito el disfrute de las doce semanas en un esquema diverso, siempre y cuando ello no implique riesgo para su embarazo, lo cual deberá acreditar con prescripción médica y le sea autorizado por el área administrativa en atención a sus funciones y cargas laborales.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+En caso de que el periodo vacacional de una trabajadora coincida con el lapso de incapacidad por gravidez, dicho periodo se pospondrá hasta la conclusión de la incapacidad, debiendo otorgarse y disfrutarse inmediatamente después de su término.
 
-Si durante la incapacidad por gravidez, tuviera lugar el período vacacional del cual la trabajadora debiera disfrutar, éste empezará a correr y se otorgará inmediatamente terminada dicha incapacidad.
+En caso de adopción la madre trabajadora tendrá derecho a una licencia por maternidad por seis semanas a partir de la resolución judicial que la establezca.
 
-> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2011)</small>
+En los casos de nacimiento prematuro en los que la o el recién nacido requiera hospitalización, la madre trabajadora tendrá derecho a un periodo adicional de licencia con goce de sueldo equivalente al tiempo que dure la hospitalización de la o el recién nacido. Este periodo no se descontará del tiempo de licencia por maternidad establecido en este Estatuto. Una vez dado de alta la o el bebé, comenzará a contarse el periodo ordinario de licencia por maternidad conforme a lo establecido por la ley;
 
-En caso de adopción la madre trabajadora tendrá derecho a una licencia por maternidad por 6 semanas a partir de la resolución judicial que la establezca.
+IV. Durante el período de lactancia, las madres trabajadoras tendrán derecho a dos reposos extraordinarios por día, de media hora cada uno, para amamantar a sus hijas o hijos. Podrán, si así lo solicitan, optar por un descanso extraordinario diario de una hora continua en sustitución de los dos anteriores.
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+La dependencia o entidad deberá habilitar un espacio adecuado e higiénico denominado lactario. En los casos en que varias dependencias compartan inmueble, podrá establecerse uno común. El período de lactancia no excederá de seis meses contados a partir de la reincorporación de la servidora pública;
 
-IV.- En el período de lactancia tendrán dos reposos extraordinarios por día, de media hora cada uno para alimentar a sus hijos, para ello la dependencia o entidad designará un lugar adecuado e higiénico denominado lactario, en caso de que concurran varias dependencias o entidades en un mismo inmueble se podrá designar un lactario común.
+V. Durante los períodos de descanso que se mencionan en este artículo, se percibirá el salario íntegro;
 
-V.- Durante los períodos de descanso a que se refiere este artículo, percibirán su salario íntegro;
+VI. Los períodos pre y postnatales se computarán en su antigüedad para los efectos del escalafón;
 
-VI.- Los períodos pre y post-natales se computarán en su antigüedad, para los efectos del escalafón.
+VII. A que no se les exija el examen de no gravidez o esterilización, al solicitar empleo;
+
+VIII. A que no se les despida del cargo que desempeñen por razones de embarazo, y
+
+IX. Solicitar permisos económicos con goce de sueldo en los siguientes casos:
+
+a) Cuando requieran atender médicamente a sus hijas o hijos, previa acreditación de enfermedad mediante certificado médico expedido por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, y
+
+b) Cuando sean víctimas de violencia y su asistencia al centro de trabajo represente un riesgo para su integridad personal o la de sus hijas o hijos menores de edad. Podrá otorgarse un permiso de hasta cinco días hábiles, presentando copia simple de la denuncia, orden de protección o cualquier otro medio fehaciente. Una vez superado el riesgo, deberá informarse a la dependencia mediante escrito libre, constancia o reincorporación laboral.
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2011)</small>
 
-ARTICULO 32 bis.- La mujer trabajadora gozará de un día de licencia al año, para realizarse los exámenes médicos necesarios para la prevención y/o detección del cáncer, para lo cual deberá dar aviso con una semana de anticipación sobre la cita al ginecólogo.
+ARTICULO 32 BIS.- La mujer trabajadora gozará de un día de licencia al año, para realizarse los exámenes médicos necesarios para la prevención y/o detección del cáncer, para lo cual deberá dar aviso con una semana de anticipación sobre la cita al ginecólogo.
 
 Una vez que se hayan realizado los exámenes médicos correspondientes, la mujer trabajadora deberá presentar el comprobante clínico que lo acredite.
 
 Derivado de la cita mencionada en el párrafo primero, se podrá aumentar un día más de licencia al año, en caso de que el ginecólogo lo considere necesario, para lo cual deberá exhibir la carta médica con la justificación correspondiente y el comprobante médico que lo acredite.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 32 BIS 1.- Las mujeres trabajadoras menstruantes a quienes se les diagnostique con endometriosis severa o dismenorrea primaria o secundaria en grado incapacitante, podrán ausentarse hasta dos días, sustituyéndolos por trabajo a distancia, mediante el uso de las tecnologías de información y de la comunicación.
+
+En el caso de que por la naturaleza del trabajo no sea posible realizar el trabajo a distancia, podrán dejar de laborar hasta por dos días, siempre y cuando lo justifiquen mediante prescripción médica.
+
+Para tal efecto, el certificado de salud correspondiente será expedido por el médico de la institución de seguridad social del Gobierno del Estado o del Municipio, en su caso.
+
+Cuando se presente autorización de médicos particulares deberá contener el nombre y número de cédula profesional de quien la expida, así como la fecha y el estado de salud de la persona trabajadora.
+
+Los días utilizados en estos casos serán con goce de sueldo y no afectarán las prestaciones laborales establecidas en el presente Estatuto, en la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores al Servicio del Estado de Coahuila, y en la Ley Federal del Trabajo.
 
 ###### ARTICULO 33.
 
@@ -431,55 +551,43 @@ Las madres trabajadoras que tengan hijos menores de 14 años, por ningún motivo
 
 TRABAJO DE LOS MENORES.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 34.
 
 Queda prohibido el empleo de personas menores de 15 años en el Gobierno del Estado.
 
-Los trabajadores menores de edad disfrutan de los mismos derechos y tienen las mismas obligaciones que los demás, salvo las modalidades consignadas en este Capítulo.
+Las y los adolescentes que tengan más de dieciséis años tendrán capacidad legal para prestar servicios, percibir el sueldo correspondiente y ejercitar las acciones derivadas del presente Estatuto.
+
+En todo lo referente al trabajo de personas menores de edad, se aplicarán las disposiciones contenidas en la Ley Federal del Trabajo, en tanto no contravengan lo dispuesto por el presente Estatuto.
 
 ###### ARTICULO 35.
 
-El propósito fundamental de este Capítulo consiste en cuidar la moralidad de los menores, asegurar su asistencia a la escuela, contribuir a su preparación técnica y profesional, proteger su desarrollo, evitándoles fatigas innecesarias y esfuerzos desmesurados, preservar su salud y facilitarles la vida familiar.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2025)
 
 ###### ARTICULO 36.
 
-Los trabajadores menores de edad, sean hombres o mujeres, pueden ser de base o de confianza según el cargo o puesto que desempeñan, para lo cual se estará a lo dispuesto por los Capítulos II y III de este Título.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2025)
 
 ###### ARTICULO 37.
 
-Los menores de 16 años sólo podrán prestar sus servicios en la jornada diurna, que no podrá exceder de 6 horas diarias.
-
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
-
-Queda prohibido emplear a personas menores de dieciocho años en labores peligrosas o insalubres. Tampoco trabajarán en la jornada nocturna, salvo el caso de que se trate de labores especializadas que deban realizarse durante esa jornada y que se hayan tomado las medidas para cumplir con los propósitos del artículo 35. No podrán, por ningún motivo trabajar tiempo extraordinario ni en los días de descanso señalados por la ley.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2025)
 
 ###### ARTICULO 38.
 
-Las labores peligrosas o insalubres a que se refiere el Artículo 35, son aquéllas que, por la naturaleza del trabajo, por las condiciones físicas, químicas o biológicas del medio en que se prestan, o por la composición de la materia prima que se utiliza, son capaces de actuar sobre la vida, el desarrollo y la salud física y mental de los menores.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2020)</small>
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2025)
 
 ###### ARTICULO 39.
 
-Las personas mayores de 15 años y menores de 16 para trabajar requieren:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1991)</small>
-
-I.- Que hayan cumplido con la educación obligatoria a que se refiere el Artículo 118 de la Constitución Política del Estado;
-
-II.- Certificado médico que acredite su aptitud para el trabajo; y
-
-III.- Autorización de los padres o del tutor en su caso.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2025)
 
 ###### ARTICULO 40.
 
-Cuando los mayores de 16 años y menores de 18 trabajen en la jornada mixta, el tiempo que se refiere al período nocturno no podrá exceder de dos horas.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2025)
 
 ###### ARTICULO 41.
 
-Los trabajadores menores de edad tendrán la misma capacidad legal que los mayores para los efectos de esta Ley, excepto la capacidad procesal.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2025)
 
 ## TITULO TERCERO.
 
@@ -495,13 +603,29 @@ DE LOS EFECTOS DEL NOMBRAMIENTO.
 
 El nombramiento es el instrumento jurídico que formaliza la relación de trabajo entre la dependencia o entidades y el trabajador.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTICULO 43.
 
-Los trabajadores prestarán sus servicios en virtud de nombramiento expedido por el funcionario facultado expresamente por la Ley para extenderlo.
+Las personas trabajadoras prestarán sus servicios en virtud de nombramiento expedido por la persona funcionaria facultada expresamente por la ley para otorgarlo.
+
+Para efectos de este capítulo, se entenderá por:
+
+I. Nombramiento definitivo: Aquel que se otorga por tiempo indefinido para cubrir una plaza vacante que no cuenta con titular;
+
+II. Nombramiento interino: Aquel que se expide para cubrir de manera temporal una plaza ocupada, durante la ausencia de su titular, por un periodo máximo de seis meses, generalmente derivado de una licencia o suspensión temporal;
+
+III. Nombramiento temporal o por obra determinada: Aquel que se otorga por tiempo definido, para realizar funciones específicas vinculadas a un proyecto o actividad concreta cuya duración sea limitada, y
+
+IV. Nombramiento provisional: Aquel que se otorga para cubrir temporalmente una plaza ocupada por persona titular, cuando dicha ausencia supere los seis meses, manteniéndose la expectativa de retorno de la persona titular.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 44.
 
-El hecho de que el trabajador aparezca en las listas de raya de los trabajadores temporales, por obra determinada o por tiempo fijo, o en las nóminas oficiales del Gobierno del Estado, equivale al nombramiento y se considera aceptado cuando se presta el servicio.
+El hecho de que la persona trabajadora aparezca en las nóminas físicas de la o el empleador, o que se le expidan comprobantes fiscales digitales por internet por concepto de salario, equivale a la existencia de un nombramiento, y se considera aceptado cuando se presta el servicio correspondiente.
+
+En todos los casos, el nombramiento deberá ser emitido por la autoridad facultada conforme a la normativa aplicable, y cumplir con los requisitos establecidos en este Estatuto y en las disposiciones legales que rigen la estructura y organización de la o el empleador.
 
 ###### ARTICULO 45.
 
@@ -513,9 +637,13 @@ II. Los servicios que deben prestarse, y que se determinarán con la mayor preci
 
 III. El sueldo y demás prestaciones que habrá de percibir el trabajador;
 
-IV. El carácter del nombramiento: definitivo, interino, provisional, por tiempo fijo, por obra determinada;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
-V. La categoría del cargo: de base o de confianza;
+IV. El carácter del nombramiento: definitivo, interino, temporal o por obra y provisional;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+V. La categoría del cargo: de base, base sindicalizado o de confianza;
 
 VI. Lugar en que prestará los servicios;
 
@@ -525,7 +653,9 @@ VIII. Firma autógrafa del funcionario que expida el nombramiento;
 
 IX. Firma del designado, con la expresión de que acepta el nombramiento;
 
-X. La determinación de si prestará labores especializadas para los efectos de los artículos 29 y 37 de esta Ley.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+X. La determinación de si prestará labores especializadas para los efectos del artículo 29 de este Estatuto.
 
 ###### ARTICULO 46.
 
@@ -553,7 +683,9 @@ III.- Cuando aparezca alguna irregularidad de la que pueda derivarse una respons
 
 IV.- Cuando el trabajador tenga que cumplir con lo dispuesto en la fracción III del artículo 31 de la Constitución General de la República y no pueda concurrir a sus labores.
 
-V.- Cuando esté sujeto a proceso ante el Tribunal de Conciliación y Arbitraje, en los casos previstos por la fracción VI del artículo 48.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+V. Cuando esté sujeto a proceso ante el Tribunal de Conciliación y Arbitraje.
 
 ### CAPITULO III.
 
@@ -575,7 +707,9 @@ IV.- Por muerte de la persona trabajadora;
 
 V.- Por incapacidad permanente de la persona trabajadora, física o mental, que le impida el desempeño de sus labores;
 
-VI.- Por resolución del Tribunal de Conciliación y Arbitraje, en los casos siguientes:
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+VI. Por aviso de terminación en los casos siguientes:
 
 a). - Cuando la persona trabajadora incurriere en faltas de probidad u honradez o en amagos, injurias, malos tratamientos, actos de violencia, contra sus superiores, compañeras o compañeros de trabajo, o contra los familiares de uno u otros, ya sea dentro o fuera de las horas de servicio.
 
@@ -607,9 +741,29 @@ j).- Por falta comprobada de cumplimiento de las condiciones generales de trabaj
 
 k).- Por prisión que sea el resultado de una sentencia ejecutoria.
 
-En los casos a que se refiere esta fracción, la persona trabajadora que diere motivo para la terminación de los efectos del nombramiento, podrá ser, desde luego, suspendido en su trabajo mientras el Tribunal de Conciliación y Arbitraje dicte su resolución.
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
-En el caso de que el cese sea justificado, el trabajador no tiene derecho al pago de salarios caídos.
+l) Negarse a observar las medidas de seguridad e higiene en el trabajo.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+En el caso de que la terminación sea justificada, la persona trabajadora no tiene derecho al pago de salarios caídos.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 48 BIS.- Para los supuestos previstos en la fracción VI del artículo anterior, la persona titular del área o la persona servidora pública que, conforme a las disposiciones legales o administrativas de la o el Empleador, esté facultada para ello, procederá a levantar acta administrativa en la que se harán constar los hechos que motivan la terminación, oyéndose a la persona trabajadora siempre que se encuentre presente en el centro de trabajo. De tratarse de una persona trabajadora de base sindicalizada, intervendrá la representación sindical.
+
+En el acta se describirán los hechos con la mayor precisión posible; se recibirá la declaración de la persona trabajadora afectada, así como la de los testigos de cargo y descargo que propongan las partes, y se admitirán las pruebas que resulten pertinentes. Las actuaciones serán firmadas por quienes intervengan y por dos testigos de asistencia. La omisión de alguna firma no invalidará el acta.
+
+Concluida el acta administrativa, la o el Empleador deberá emitir aviso escrito de terminación, el cual deberá contener, al menos, la fecha de emisión, la causa o causas específicas que motivan la terminación, debidamente precisadas y, la firma de la persona servidora pública que, conforme a las disposiciones legales o administrativas correspondientes, cuente con atribuciones para suscribir dicho aviso.
+
+El aviso deberá entregarse personalmente a la persona trabajadora, dejándose constancia de su recepción o, en su caso, de su negativa a recibirlo. Cuando no sea posible su entrega personal, o cuando exista negativa a recibirlo, la o el Empleador, dentro de los cinco días hábiles siguientes a la fecha de la terminación, lo hará del conocimiento del Tribunal, adjuntando los documentos base de la acción, el acta administrativa y anexos que al formularse ésta, se hayan agregado a la misma, proporcionando el domicilio registrado de la persona trabajadora, solicitando se practique la notificación correspondiente.
+
+La falta de aviso a la persona trabajadora o al Tribunal generará la presunción de terminación injustificada, salvo prueba en contrario que acredite su procedencia.
+
+Cuando la terminación sea justificada, la persona trabajadora no tendrá derecho al pago de indemnización ni de salarios caídos.
 
 ###### ARTICULO 49.
 
@@ -635,9 +789,11 @@ DISPOSICIONES GENERALES.
 
 Las condiciones de trabajo en ningún caso podrán ser inferiores a las fijadas en esta Ley y deberán ser proporcionadas de acuerdo a la importancia de los servicios e iguales para trabajos iguales.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTICULO 51.
 
-Las condiciones generales de trabajo se fijarán por los titulares de la dependencia respectiva, oyendo al sindicato, al iniciarse el período constitucional de cada uno de los poderes del Estado; en el Legislativo cada tres años y en el Ejecutivo y el Judicial, cada seis años.
+Las condiciones generales de trabajo serán fijadas por las personas titulares de cada dependencia habiendo escuchado al sindicato respectivo, al inicio del período constitucional de cada uno de los Poderes del Estado.
 
 ###### ARTICULO 52.
 
@@ -715,9 +871,13 @@ Las jornadas máximas señaladas en el Artículo anterior se reducirán, cuando 
 
 Cuando el trabajador labore en forma contínua cualquiera de las jornadas máximas, disfrutará de media hora de descanso para tomar sus alimentos, que se computará como tiempo de trabajo efectivo.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTICULO 62.
 
-Cuando por circunstancias especiales deban aumentarse las horas de la jornada ordinaria, este trabajo será considerado como extraordinario y nunca podrán exceder de tres horas diarias, ni de tres veces consecutivas, ni más de tres veces en una semana y se pagarán conforme a lo establecido en el artículo 75.
+Cuando por circunstancias especiales deban aumentarse las horas de la jornada ordinaria, este trabajo será considerado como extraordinario y no podrá exceder de tres horas diarias, ni realizarse más de tres veces consecutivas, ni más de tres veces en una semana. Dicho tiempo se pagará conforme a lo establecido en el artículo 75 de este Estatuto.
+
+Queda estrictamente prohibido exceder los límites establecidos en el párrafo anterior, aún cuando las circunstancias lo ameriten. Será responsabilidad de los Coordinadores Administrativos verificar que las jornadas del personal a su cargo no excedan las horas extraordinarias permitidas.
 
 ###### ARTICULO 63.
 
@@ -733,9 +893,11 @@ DIAS DE DESCANSO.
 
 Serán días de descanso obligatorio los que señale el Calendario Oficial del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTICULO 65.
 
-Por cada seis días de trabajo disfrutará el trabajador de un día de descanso, cuando menos, con goce de salario íntegro.
+Por cada cinco días de trabajo disfrutará la persona trabajadora de dos días de descanso, cuando menos, con goce de salario íntegro.
 
 ###### ARTICULO 66.
 
@@ -767,9 +929,19 @@ Una vez definida la fecha del período de vacaciones que disfrutará el trabajad
 
 El sueldo que corresponda a los trabajadores durante el período de vacaciones, les serán liquidado con anticipación del mismo.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTICULO 71.
 
-Las vacaciones no podrán compensarse con una remuneración, sino que el trabajador deberá disfrutar de ellas.
+Las vacaciones no podrán compensarse con una remuneración, sino que la persona trabajadora deberá disfrutar de ellas.
+
+Cuando por necesidades del servicio, enfermedad debidamente comprobada o accidente, la persona trabajadora no pueda disfrutar sus vacaciones en el periodo que le corresponde, podrá hacerlo a partir de los quince días siguientes a la fecha en que desaparezca la causa que impidió el disfrute del descanso.
+
+El derecho a vacaciones es irrenunciable y no se pierde por causas ajenas a la voluntad de la persona trabajadora.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 71 BIS.- Las personas trabajadoras tendrán derecho a una prima no menor de veinticinco por ciento sobre los salarios que les correspondan durante el período de vacaciones.
 
 ### CAPITULO V.
 
@@ -793,13 +965,11 @@ El plazo para el pago del salario no será mayor de quince días y se efectuará
 
 Las horas extraordinarias de trabajo se pagarán con un ciento por ciento más del salario asignado a las horas de jornada ordinaria.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 76.
 
 Cuando por necesidad del servicio se labore en días de descanso, las horas de trabajo extraordinarias se pagarán con un cien por ciento más del salario que corresponde al trabajador en los días ordinarios de trabajo.
-
-La prolongación de tiempo extraordinario que exceda de nueve horas a la semana, se pagarán con un doscientos por ciento más del salario que corresponda al trabajador en los días ordinarios de trabajo.
 
 ###### ARTICULO 77.
 
@@ -817,17 +987,27 @@ En los días de descanso y en las vacaciones a que se refieren los artículos 65
 
 En los casos de los riesgos profesionales o no profesionales, los trabajadores tendrán derecho a percibir el salario en los términos que señala el título sexto de esta Ley.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTICULO 81.
 
-Los trabajadores que tengan más de seis meses de prestar sus servicios, tendrán derecho a un aguinaldo anual equivalente a quince días de salario por lo menos y que deberá pagarse dentro de los primeros veinte días del mes de diciembre.
+Las personas trabajadoras tendrán derecho a un aguinaldo anual equivalente a quince días de salario por lo menos y deberá pagarse dentro de los primeros veinte días del mes de diciembre.
+
+Las personas trabajadoras que no hayan cumplido el año de servicio tendrán derecho a que se les pague esta prestación en proporción al tiempo trabajado.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 81 BIS.- Aún y cuando el tabulador salarial u otros instrumentos establezcan el pago de prestaciones superiores a las estipuladas en el presente estatuto, esta obligación estará sujeta a la disponibilidad presupuestal y financiera de la o el empleador.
 
 ###### ARTICULO 82.
 
 El salario de los trabajadores no es susceptible de embargo judicial o administrativo, excepto en los casos prevenidos por el artículo siguiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTICULO 83.
 
-Sólo podrán hacerse retenciones, descuentos o deducciones al salario de los trabajadores cuando se trate:
+Solo podrán hacerse retenciones, descuentos o deducciones al salario de las personas trabajadoras cuando se trate:
 
 I.- De deudas contraídas con la dependencia, por concepto de anticipos de salarios, pagos hechos con exceso, errores o pérdidas debidamente comprobados;
 
@@ -841,7 +1021,13 @@ V.- De los descuentos ordenados por autoridad judicial competente, para cubrir a
 
 VI.- De los descuentos a cargo del trabajador para contribuir al fondo de la Dirección de Pensiones y Otros Beneficios Sociales y para cumplir obligaciones en las que haya consentido, derivados del pago de cualesquiera de las prestaciones a que se refiere la Ley respectiva.
 
-El monto total de los descuentos no podrá exceder del 30% del importe del salario total, excepto en los casos a que se refieren las fracciones IV, V y VI de este artículo, que en conjunto no podrán exceder del 50% del salario.
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+VII. Del pago de indemnizaciones determinadas por una condena, laudo o sentencia de un procedimiento laboral, civil, mercantil o administrativo.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+El monto total de los descuentos aplicables conforme a las fracciones I, II y VII no podrá exceder del treinta por ciento del salario neto de la persona trabajadora. Quedan excluidos de este límite los descuentos contemplados en las fracciones III, IV, V y VI.
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -871,59 +1057,69 @@ DE LAS OBLIGACIONES DE LOS TRABAJADORES Y TITULARES DE LAS DEPENDENCIAS.
 
 DE LAS OBLIGACIONES DE LOS TRABAJADORES.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTICULO 85.
 
-Son obligaciones de los trabajadores:
+Son obligaciones de las personas trabajadoras al servicio del Estado:
 
-I.- Asistir con puntualidad al desempeño de sus labores;
+I. Asistir con puntualidad al desempeño de sus labores;
 
-II.- Desempeñar sus actividades con la intensidad y esmero apropiados, sujetándose a las leyes y reglamentos que las regulen y a la instrucción y dirección de sus jefes;
+II. Desempeñar sus funciones con esmero, diligencia y sujeción a las leyes, reglamentos y disposiciones administrativas aplicables, así como a las instrucciones de sus superiores jerárquicos;
 
-III.- Observar buenas costumbres dentro y fuera del servicio y ser atentos con el público;
+III. Observar buenas costumbres dentro y fuera del servicio y conducirse con respeto, cortesía e imparcialidad hacia sus superiores, compañeras, compañeros, subordinados y la ciudadanía en general;
 
-IV.- Cumplir con las obligaciones que les impongan las condiciones generales de trabajo;
+IV. Cumplir con las condiciones generales de trabajo y demás disposiciones internas de la dependencia;
 
-V.- Guardar reserva en los asuntos de que tengan conocimiento con motivo de su trabajo;
+V. Proceder con absoluta discreción en el ejercicio de sus funciones, guardando reserva sobre los asuntos de los que tenga conocimiento con motivo de su empleo, cargo o comisión;
 
-VI.- Evitar los actos u omisiones que pongan en peligro su seguridad o la de sus compañeros;
+VI. Abstenerse de realizar actos u omisiones que pongan en riesgo su propia seguridad o la de otras personas en el centro de trabajo;
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+VII. Cuidar y conservar en buen estado los bienes, documentos, maquinaria, mobiliario, valores o instrumentos proporcionados para el desempeño de sus funciones, e informar por escrito cualquier daño, extravío o irregularidad que detecte;
 
-VII.- Desarrollar las actividades deportivas o culturales que sean compatibles con sus intereses, aptitudes y condiciones de salud;
+VIII. No abandonar su lugar de trabajo sin autorización previa de su superior inmediato, salvo por causa justificada;
 
-VIII.- Desarrollar las actividades cívicas y asistir a las ceremonias conmemorativas de fechas patrióticas, cuando así lo disponga el titular de la dependencia en donde presten sus servicios;
+IX. Abstenerse de realizar actividades ajenas a sus funciones durante la jornada laboral, así como de hacer propaganda, rifas, colectas o actividades lucrativas en los centros de trabajo, salvo aquellas autorizadas por la dependencia;
 
-IX.- No hacer propaganda de ninguna clase dentro de los edificios o lugares de trabajo;
+X. Someterse a los exámenes médicos establecidos en la normativa interna o condiciones generales de trabajo;
 
-X.- Abstenerse durante las labores de toda ocupación o actividad extraña a ellas;
+XI. Comunicar oportunamente cualquier irregularidad o acto contrario a la legalidad que observe en el servicio;
 
-XI.- Someterse a los exámenes médicos previstos en las condiciones generales de trabajo;
+XII. Asistir y participar en los cursos de capacitación obligatorios establecidos por la dependencia, y en su caso, cuando se impartan fuera de la jornada laboral, recibir la compensación correspondiente conforme a la normativa aplicable;
 
-XII.- Abstenerse de hacer colectas, rifas o sorteos de cualquier clase en el lugar de trabajo;
+XIII. Acatar las disposiciones que emitan sus superiores jerárquicos, en el ámbito de su competencia y conforme a la ley;
 
-XIII.- Guardar para sus superiores, iguales y subalternos, la consideración, respeto y disciplina debidos;
+XIV. Abstenerse de realizar actos de acoso laboral, hostigamiento o acoso sexual en cualquier modalidad;
 
-XIV.- Durante las horas de trabajo, no abandonar el local o lugar donde presten sus servicios, sin la autorización previa del superior inmediato;
+XV. Denunciar de forma inmediata ante la autoridad competente cualquier acto de acoso, hostigamiento o violencia del que tenga conocimiento;
 
-XV.- Abstenerse de hacer extrañamientos o amonestaciones en público a sus subalternos;
+XVI. En caso de renuncia, no abandonar el servicio hasta que sea aceptada formalmente y haya hecho entrega de la documentación, bienes o información bajo su responsabilidad;
 
-XVI.- Poner en conocimiento del titular de la unidad de trabajo las enfermedades contagiosas que padezcan, tan pronto como tengan conocimiento de las mismas;
+XVII. Registrar y mantener actualizado su domicilio ante la dependencia, dentro de los diez días hábiles siguientes a cualquier cambio;
 
-XVII.- Asistir a los cursos de capacitación que ordene el titular de la dependencia, para mejorar su preparación y eficiencia en el trabajo. Si los cursos se realizan fuera de las jornadas de trabajo, no podrán exceder de tres horas y el trabajador recibirá una compensación del 50% por hora-sueldo;
+XVIII. Comparecer ante autoridad competente cuando sea requerido en ejercicio de sus funciones, o para declarar respecto de hechos que le consten;
 
-XVIII.- Cuidar los enseres y útiles que se le proporcionen para su trabajo y evitar cualquier acto que tienda a su destrucción y maltrato;
+XIX. Participar en actividades cívicas, deportivas o culturales cuando así lo disponga la autoridad competente, conforme a la normatividad interna;
 
-XIX.- En caso de renuncia, no dejar el servicio sino hasta que le haya sido aceptada y se haga presente la persona que deba reemplazarlo y entregar los expedientes, documentos, fondos, valores o bienes cuya atención, administración o guarda estén a su cuidado, de acuerdo con las disposiciones legales aplicables;
+XX. Cubrir las cuotas que fijen las leyes especiales para gozar de los beneficios del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-XX.- Comunicar oportunamente a sus superiores cualquier irregularidad que observe en el servicio.
+XXI. Tratar con cortesía y diligencia a la población que acuda a la dependencia a solicitar algún servicio;
+
+XXII. Abstenerse de realizar actividades políticas, electorales o de proselitismo durante su jornada de trabajo o dentro de las instalaciones públicas, salvo las relativas a elecciones intersindicales;
+
+XXIII. Observar las medidas de prevención que establezca la o el empleador para controlar los factores de riesgo psicosocial, colaborar para contar con un entorno organizacional favorable y prevenir actos de violencia laboral, y
+
+XXIV. Las demás que establezca este Estatuto y demás disposiciones legales aplicables.
 
 ### CAPITULO II.
 
 DE LAS OBLIGACIONES DE LAS DEPENDENCIAS.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTICULO 86.
 
-Son obligaciones de las dependencias:
+Son obligaciones de las y los empleadores:
 
 I.- Preferir, en igualdad de condiciones de conocimiento, aptitudes y antigüedad a los trabajadores de base que acrediten tener mejores derechos conforme al escalafón, a los trabajadores sindicalizados respecto de quienes no lo estén, a las personas que hubieren prestado servicios eminentes al Estado, y a los que con anterioridad les hubieren prestado servicios satisfactoriamente;
 
@@ -965,11 +1161,23 @@ IX.- Conceder licencia con o sin goce de sueldo a sus trabajadores para la atenc
 
 Las licencias que se concedan en los términos de esta fracción y de la anterior, se computarán como tiempo efectivo de servicios dentro del escalafón y se acordarán según lo dispuesto por el artículo 139;
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
-IX BIS.- Conceder licencia por paternidad por 10 días laborales con goce de sueldo al cónyuge o concubino varón, contados a partir del nacimiento o adopción de un hijo. El trabajador deberá comprobar conforme a la legislación aplicable que estos hechos ocurrieron. No se tendrá derecho a esta licencia si el trabajador no cohabita con la madre del recién nacido. La cohabitación será requisito para obtener esta licencia en el caso de que la adopción se otorgue.
+IX BIS.- Conceder licencia por paternidad de hasta diez días hábiles con goce de sueldo a su cónyuge o persona concubina, contados a partir del nacimiento o adopción de un hijo o hija, siempre que se acredite conforme a la legislación aplicable;
 
-En caso de aborto no punible en términos de la legislación penal, se concederá al esposo o concubino, licencia con goce de sueldo, por los 2 días laborales inmediatos posteriores al hecho, previa presentación de los documentos que acrediten este hecho.
+La licencia tendrá como finalidad brindar acompañamiento durante el puerperio y fomentar la convivencia con el o la recién nacida. Será requisito para su otorgamiento que exista cohabitación con la madre de la infancia o, en el caso de adopción, con la persona adoptada. Esta licencia será incompatible con el desempeño simultáneo de actividades remuneradas durante su vigencia.
+
+Los periodos de descanso que se otorguen con motivo del permiso de paternidad se deben computar como parte de su antigüedad.
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+IX. TER. La persona trabajadora tendrá derecho a un permiso económico de tres días con goce de sueldo, o de cinco días cuando los acontecimientos ocurran fuera de la ciudad, en los siguientes casos:
+
+a) Fallecimiento de padres, de hijos, cónyuge o persona concubina, pérdidas gestacionales, perinatales o neonatales;
+
+b) Enfermedad grave de padres, hijos o persona concubina.
+
+La persona trabajadora deberá hacer del conocimiento del empleador la situación que motiva la ausencia, por cualquier medio que permita acreditar la comunicación.
 
 X.- Conceder a los trabajadores el tiempo necesario para el ejercicio del voto en las elecciones populares y para el cumplimiento de los servicios de jurados, electorales, y censales, a que se refiere el artículo 5o. de la Constitución General de la República, cuando esas actividades deban cumplirse dentro de sus horas de trabajo;
 
@@ -993,31 +1201,65 @@ XVI.- Cubrir a los deudos del trabajador fallecido, por concepto de pago de defu
 
 XVII.- Tratándose de trabajadores con discapacidad, otorgar los permisos para someterse al tratamiento médico o de rehabilitación, previa constancia médica.
 
-> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
-XVIII.- Implementar los protocolos necesarios para prevenir y erradicar la discriminación por razones de género y atención de casos de violencia y acoso u hostigamiento sexual, así como erradicar el trabajo forzoso e infantil que anule, menoscabe o restrinja los derechos humanos de las y los trabajadores.
+XVIII. Implementar protocolos para prevenir y erradicar la discriminación por razones de género, violencia, acoso y hostigamiento sexual, así como el trabajo forzoso e infantil. Dichos protocolos deberán contener al menos:
 
-Los protocolos a los que hace referencia esta fracción deberán contener al menos los siguientes elementos:
+a) Catálogo de actos considerados discriminatorios o de violencia en el trabajo;
 
-a) Un catálogo detallado enunciativo más no limitativo de los actos considerados como discriminación por razones de género, violencia dentro del trabajo, acoso u hostigamiento sexual, que atenten contra los derechos humanos de las y los trabajadores.
+b) Mecanismos de prevención como capacitación y talleres;
 
-b) Mecanismos de prevención tales como capacitación al personal de las empresas, así como promoción de talleres sobre el combate a la violencia, discriminación, maltrato, acoso sexual, y hostigamiento sexual y trabajo infantil, entre otros.
+c) Mecanismos de atención inmediata a víctimas y acceso a servicios médicos, psicológicos, jurídicos y sociales;
 
-c) Mecanismos de atención inmediata a las víctimas de violencia, discriminación, maltrato, acoso u hostigamiento sexual y trabajo infantil, que anulen, menoscaben o restrinjan los derechos humanos de las y los trabajadores, así como la disponibilidad y acceso a servicios médicos, psicológicos, y de asesoría jurídica y social que requieran.
+d) Medidas cautelares ante riesgos o urgencias;
 
-d) Medidas cautelares para situaciones de riesgo o urgencia.
+e) Permiso de hasta cinco días hábiles con goce de sueldo a víctimas de violencia, cuando asistir al trabajo implique riesgo para ellas o sus hijas/os, prorrogable mientras subsista el peligro y se acredite fehacientemente;
 
-e) Procedimientos adecuados y sencillos para el trámite de quejas y denuncias, así como los órganos internos competentes para conocer de las mismas.
+f) Procedimientos adecuados y accesibles para quejas y denuncias;
 
-f) Mecanismos eficientes y eficaces de investigación de las conductas a que hace referencia el inciso a.
+g) Mecanismos eficaces de investigación;
 
-g) Sanciones.
+h) Sanciones, y
 
-h) Recursos procesales efectivos.
+i) Recursos procesales efectivos.
 
-> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
-XIX.- Capacitar a las y los trabajadores de las dependencias, en materia de igualdad y no discriminación, violencia de género, masculinidad no violenta y responsable, violencia laboral, acoso y hostigamiento sexual y derechos humanos en general.
+XIX. Capacitar a las personas trabajadoras en igualdad, derechos humanos, no discriminación, masculinidades responsables, acoso y hostigamiento;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+XIX BIS. Establecer por escrito, implantar, mantener y difundir en el centro de trabajo una política de prevención de riesgos psicosociales;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+XX. Otorgar licencia por cuidados médicos de hijas e hijos diagnosticados con cáncer, a padres o madres con servicios médicos institucionales o subrogados. Esta licencia podrá expedirse por periodos de uno a veintiocho días con goce de salario, o hasta seis meses sin goce, conforme a dictamen médico.
+
+Cesará dicha licencia cuando:
+
+a) La niña, niño o adolescente ya no requiera hospitalización;
+
+b) Fallezca, o
+
+c) El padre o madre beneficiada deje de prestar sus servicios.
+
+La licencia podrá otorgarse a quien tenga la patria potestad, guarda o custodia de la niña, niño o adolescente con tal diagnóstico. En ningún caso podrá otorgarse simultáneamente a ambos padres;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+XXI. Proporcionar a los hombres trabajadores, una vez al año, un día de permiso con goce de sueldo para acudir a instituciones del sector salud a realizarse estudios de detección oportuna de cáncer de próstata, sin que esto implique menoscabo en sus prestaciones laborales.
+
+Las dependencias, entidades, organismos autónomos y demás entes públicos estatales, en el ámbito de sus competencias, promoverán este derecho y otorgarán el permiso de manera gradual, de conformidad con la naturaleza de las funciones desempeñadas. Los hombres trabajadores deberán dar aviso con al menos cinco días hábiles de anticipación, y realizados los estudios, presentar el certificado médico correspondiente;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+XXII. Proveer el número suficiente de asientos o sillas con respaldo a disposición de todas las personas trabajadoras, para la ejecución de sus funciones o para el descanso periódico durante la jornada laboral.
+
+En el caso de descansos periódicos, los asientos o sillas con respaldo deberán estar ubicados en áreas específicas que para tal efecto se designen en las mismas instalaciones del lugar de trabajo, y
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+XXIII. Las demás que establezcan este Estatuto y otras disposiciones legales aplicables.
 
 ###### ARTICULO 87.
 
@@ -1059,19 +1301,39 @@ II.- Si al vencer la licencia con goce de sueldo continúa la incapacidad, se pr
 
 Las licencias serán contínuas o discontínuas, una sola vez cada año, contando a partir del momento en que se tomó posesión del puesto.
 
-### CAPITULO I.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
-DEL SINDICATO DE TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO.
+### CAPITULO III. DEL PERMISO DE LA PREJUBILACIÓN
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 89 BIS.- Los derechos de las personas trabajadoras en materia de jubilación, pensiones y de seguridad social, en lo integral quedarán sujetos a la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores al Servicio del Estado.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 89 TER.- Las personas trabajadoras próximas a jubilarse tendrán derecho a un permiso prejubilatorio de treinta días naturales con goce de sueldo, con el fin de facilitar su transición hacia la jubilación y realizar los trámites correspondientes.
+
+La persona trabajadora deberá informar por escrito, a su superior jerárquico inmediato, la intención de iniciar el permiso prejubilatorio, para que, en función de la carga laboral, se acuerde el periodo en que podrá hacerlo efectivo.
+
+La solicitud deberá dirigirla por escrito a la Unidad o Coordinación Administrativa correspondiente, con copia para conocimiento de la jefa o jefe inmediato. La Coordinación o Unidad Administrativa firmará de enterado el formato de solicitud del permiso y lo devolverá a la persona trabajadora, a fin de que ésta inicie el periodo respectivo.
+
+En ningún caso podrá negarse el otorgamiento del permiso por razones discrecionales, y su programación deberá garantizarse dentro del mes siguiente a la presentación de la solicitud, sin afectar los derechos laborales ni los procedimientos para la jubilación o pensión.
+
+El permiso prejubilatorio será aplicable tanto al personal de base, como al de confianza.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 89 QUATER.- Las personas trabajadoras al servicio del Gobierno del Estado que se retiren voluntariamente y que se incorporen al régimen de pensiones estatal, recibirán una indemnización por años laborados, consistente en el importe de doce días por cada año de servicios prestados, calculados al doble del valor diario de la Unidad de Medida y Actualización vigente.
+
+Esta indemnización será aplicable exclusivamente a personas servidoras públicas de base no sindicalizados y de confianza, siempre que hayan cumplido al menos quince años de servicios efectivos al momento de su retiro.
 
 ## TITULO SEPTIMO.
 
 DE LA ORGANIZACION COLECTIVA DE LOS TRABAJADORES.
 
-### CAPÍTULO I.
+### CAPITULO I.
 
-DISPOSICIONES GENERALES.
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+DEL SINDICATO DE TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO.
 
 ###### ARTICULO 90.
 
@@ -1265,9 +1527,9 @@ Las remuneraciones que se paguen a los directivos y empleados del Sindicato y en
 
 DEL ESCALAFON.
 
-### CAPITULO II.
+### CAPÍTULO I.
 
-COMISIONES U ÓRGANOS DE ESCALAFON.
+DISPOSICIONES GENERALES.
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -1347,9 +1609,9 @@ Los trabajadores de cada dependencia y/o entidad pública estatal se clasificar�
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
-### CAPITULO III.
+### CAPITULO II.
 
-PROCEDIMIENTOS PARA ASCENSOS DE LOS TRABAJADORES DE BASE Y DE BASE SINDICALIZADOS.
+COMISIONES U ÓRGANOS DE ESCALAFON.
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -1383,9 +1645,9 @@ Las facultades, obligaciones, atribuciones, procedimientos y derechos de las com
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
-### CAPITULO I.
+### CAPITULO III.
 
-DISPOSICIONES GENERALES.
+PROCEDIMIENTOS PARA ASCENSOS DE LOS TRABAJADORES DE BASE Y DE BASE SINDICALIZADOS.
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -1479,9 +1741,11 @@ Todo aquel trabajador que siendo titular de una plaza de base o de base sindical
 
 HUELGAS.
 
-### CAPITULO II.
+### CAPITULO I.
 
-DECLARACION Y PROCEDIMIENTO DE HUELGA.
+DISPOSICIONES GENERALES.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 141.
 
@@ -1533,9 +1797,9 @@ Los actos de coacción o de violencia física o moral sobre las personas o de fu
 
 Si no constituyen otro delito cuya pena sea mayor, se sancionarán con prisión hasta de dos años y multa de hasta diez mil pesos, más la reparación del daño.
 
-### CAPITULO III.
+### CAPITULO II.
 
-TERMINACION DE HUELGA.
+DECLARACION Y PROCEDIMIENTO DE HUELGA.
 
 ###### ARTICULO 150.
 
@@ -1549,9 +1813,11 @@ II.- Que sea declarada por mayoría absoluta de las dos terceras partes de los t
 
 III.- Que no ponga en peligro la soberanía nacional o del Estado, la paz pública o la integridad de las instituciones públicas, a juicio del Gobernador o del H. Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTICULO 151.
 
-Antes de suspender las labores los trabajadores deberán presentar al Presidente del Tribunal de Conciliación y Arbitraje su pliego de peticiones con la copia del acta de la asamblea en que se haya acordado declarar la huelga. El Presidente, una vez recibido el escrito y sus anexos, correrá traslado con la copia de ellos al funcionario o funcionarios de quienes dependa la concesión de las peticiones, para que resuelvan en el término de diez días, a partir de la notificación.
+Antes de suspender las labores de las personas trabajadoras deberán presentar a quien presida el Tribunal de Conciliación y Arbitraje su pliego de peticiones con la copia del acta de la asamblea en que se haya acordado declarar la huelga. Quien presida el Tribunal, una vez recibido el escrito y sus anexos, correrá traslado con la copia de ellos a la o las personas funcionarias de quienes dependa la concesión de las peticiones, para que resuelvan en el término de diez días, a partir de la notificación.
 
 ###### ARTICULO 152.
 
@@ -1581,9 +1847,9 @@ La huelga será declarada ilegal y delictuosa cuando la mayoría de los huelguis
 
 En tanto que no se declare ilegal, inexistente o terminado un estado de huelga, el Tribunal y las demás autoridades del Estado deberán respetar el derecho que ejerciten los trabajadores, dándoles las garantías y prestándoles el auxilio que soliciten.
 
-### CAPITULO I.
+### CAPITULO III.
 
-TIEMPO PARA LA PRESCRIPCION.
+TERMINACION DE HUELGA.
 
 ###### ARTICULO 159.
 
@@ -1603,9 +1869,9 @@ V.- Por sobrevenir el estado previsto por el artículo 29 de la Constitución Ge
 
 PRESCRIPCION.
 
-### CAPITULO II.
+### CAPITULO I.
 
-SUSPENSION DE LA PRESCRIPCION.
+TIEMPO PARA LA PRESCRIPCION.
 
 ###### ARTICULO 160.
 
@@ -1643,9 +1909,9 @@ II.- El derecho de las personas señaladas en el artículo 84 para ejercitar las
 
 III.- El derecho de ejercitar las acciones para ejecutar las resoluciones del Tribunal de Conciliación y Arbitraje.
 
-### CAPITULO III.
+### CAPITULO II.
 
-INTERRUPCION DE LA PRESCRIPCION.
+SUSPENSION DE LA PRESCRIPCION.
 
 ###### ARTICULO 164.
 
@@ -1675,9 +1941,9 @@ VII.- Si se promueve el procedimiento de declaración especial de ausencia ante 
 
 Una vez concluido el procedimiento en definitiva, sin que se decrete la declaración especial de ausencia solicitada, la prescripción comenzará o continuará corriendo en su caso.
 
-### CAPITULO IV.
+### CAPITULO III.
 
-DE LA MANERA DE CONTAR EL TIEMPO PARA LA PRESCRIPCION.
+INTERRUPCION DE LA PRESCRIPCION.
 
 ###### ARTICULO 165.
 
@@ -1691,11 +1957,9 @@ II.- Si la persona a cuyo favor corre la prescripción reconoce el derecho de aq
 
 El efecto de la interrupción es inutilizar para la prescripción, todo el tiempo corrido antes de ella.
 
-### CAPITULO I.
+### CAPITULO IV.
 
-INTEGRACION DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE.
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+DE LA MANERA DE CONTAR EL TIEMPO PARA LA PRESCRIPCION.
 
 ###### ARTICULO 167.
 
@@ -1725,121 +1989,229 @@ Para los efectos de la prescripción los meses y los años se regularán por el 
 
 DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE.
 
+### CAPITULO I.
+
+INTEGRACION DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+###### ARTICULO 171.
+
+El Tribunal de Conciliación y Arbitraje es un órgano administrativo desconcentrado de la Secretaría de Gobierno del Poder Ejecutivo del Estado de Coahuila de Zaragoza, especializado e imparcial, autónomo en sus decisiones, encargado de conocer y resolver los conflictos laborales que se susciten entre las personas trabajadoras al servicio de los Poderes Ejecutivo y Legislativo, municipios y los organismos públicos autónomos, conforme al Apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y lo establecido en este Estatuto.
+
+El Tribunal de Conciliación y Arbitraje estará integrado por tres personas Magistradas titulares y dos suplentes, quienes durarán en el cargo seis años y serán designadas de conformidad a lo establecido en este Estatuto y funcionará en Pleno y en Salas.
+
+El Tribunal contará con una Secretaría General de Acuerdos, con personas servidoras públicas que desempeñen funciones de conciliación, secretarias o secretarios de estudio y cuenta, de acuerdo y trámite, actuarias y demás personal que resulte necesario, de conformidad con la disponibilidad presupuestal.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 171 BIS.- Las personas Magistradas Titulares y Suplentes del Tribunal de Conciliación y Arbitraje serán designadas conforme al siguiente procedimiento:
+
+I. La persona Titular del Poder Ejecutivo del Estado emitirá una convocatoria pública para la designación de las personas Magistradas;
+
+II. La convocatoria deberá observar los principios de paridad de género e incluir las bases del procedimiento de selección, estableciendo los requisitos de participación;
+
+III. Una vez concluidas las etapas de la convocatoria, el Titular del Ejecutivo integrará dos ternas de aspirantes a personas Magistradas titulares y otra de suplentes, la cual remitirá al Congreso del Estado;
+
+IV. Recibidas las ternas en el Congreso del Estado, el Pleno o la Diputación Permanente, deberá realizar la designación de las personas que integrarán el Tribunal, dentro de los quince días naturales siguientes a su recepción, por el voto de cuando menos las dos terceras partes de sus integrantes presentes, y
+
+V. La persona o personas designadas rendirán protesta de ley ante el Congreso del Estado y podrá iniciar sus funciones a partir de ese momento.
+
+En caso de reelección en el cargo, se deberá cumplir con lo establecido en el presente artículo.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 171 TER.- Al Pleno del Tribunal le corresponde:
+
+I. Resolver los conflictos y procedimientos laborales previstos en el artículo 180 de este Estatuto;
+
+II. Unificar criterios de carácter procesal de las Salas, sin afectar la independencia técnica de cada Sala;
+
+III. Determinar las reglas generales para la distribución de los asuntos entre las Salas, así como aprobar los criterios de turno y prelación;
+
+IV. Establecer lineamientos para el cumplimiento de la etapa de conciliación obligatoria, en términos del presente ordenamiento;
+
+V. Aprobar, modificar los reglamentos internos y manuales operativos del Tribunal;
+
+VI. Proponer a la persona Titular de la Secretaría de Gobierno el anteproyecto de presupuesto anual del Tribunal;
+
+VII. Resolver los conflictos de competencia que se susciten entre Salas del propio Tribunal;
+
+VIII. Calificar los impedimentos, recusaciones y excusas de las o los Magistrados del Tribunal de Conciliación Arbitraje (sic), en los asuntos de su competencia y, en su caso, designar a las o los Magistrados suplentes que deban sustituirlos;
+
+IX. Conocer de quejas fundadas contra personas Magistradas Titulares o Suplentes por el incumplimiento de sus funciones, y
+
+X. Las demás que les confiera este Estatuto y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 171 QUATER.- La persona Magistrada que presida el Tribunal será electa por mayoría de votos de las mismas personas Magistradas en funciones, y durará en su encargo dos años, pudiendo ser reelecta por un periodo igual por una sola ocasión.
+
+Solo podrá ser removida de la presidencia por causa grave debidamente fundada y motivada, mediante el voto de las dos terceras partes de las personas Magistradas Titulares, y previa ratificación del Congreso del Estado.
+
+Lo anterior no implica su remoción como Magistrada o Magistrado Titular, la cual solo procederá conforme a las causas y procedimiento (sic) previstos en el presente Estatuto y su Reglamento interno.
+
+La persona Titular de la Presidencia del Tribunal, tendrá las atribuciones siguientes:
+
+I. Representar legalmente al Tribunal ante autoridades administrativas y judiciales;
+
+II. Coordinar las funciones administrativas del Tribunal, sin menoscabo de la autonomía técnica de las Salas;
+
+III. Convocar y presidir las sesiones del Pleno del Tribunal, con voz y voto;
+
+IV. Proponer al Pleno criterios técnicos para garantizar la unidad de criterios entre las Salas;
+
+V. Supervisar el cumplimiento de los plazos procesales y la eficiencia administrativa del Tribunal;
+
+VI. Rendir informes periódicos de actividades ante el Ejecutivo y el Congreso del Estado;
+
+VII. Proponer al Pleno la rotación de asuntos entre las Salas en casos de carga excesiva de trabajo;
+
+VIII. Integrar Sala, y
+
+IX. Las demás que establezcan este Estatuto, el reglamento del Tribunal y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+###### ARTICULO 172.
+
+El Tribunal contará con tres salas, cada una integrada por una persona Magistrada Titular, y tendrá el personal necesario para su funcionamiento, de conformidad con la disponibilidad presupuestal.
+
+Le corresponde a las Salas:
+
+I. Conocer, tramitar, sustanciar los procedimientos laborales individuales o colectivos en sus distintas etapas;
+
+II. Emitir acuerdos, resoluciones interlocutorias, dentro de los procedimientos que les sean sido (sic) turnados;
+
+III. Aplicar criterios de interpretación conforme al marco jurídico, en observancia del principio pro persona;
+
+IV. Aprobar, supervisar o ratificar convenios entre las partes;
+
+V. Solicitar medidas de apremio o cautelares para garantizar el desarrollo del procedimiento, y
+
+VI. Las demás que les confiera este Estatuto, el reglamento del Tribunal y las demás disposiciones aplicables.
+
+Sin perjuicio de lo anterior, el Pleno del Tribunal, mediante acuerdo, podrá fijar la competencia de las Salas, el cual deberá publicarse en el Periódico Oficial del Gobierno del Estado.
+
+Cada sala conocerá los asuntos que le sean turnados, de manera independiente y con autonomía jurisdiccional, bajo los principios de legalidad, imparcialidad, equidad y celeridad procesal.
+
+El reparto de asuntos se realizará conforme al orden de recepción y con base en un sistema de turnos que garantice la equidad en la distribución de carga de trabajo entre las salas. El reglamento interno del Tribunal deberá desarrollar las reglas específicas para su operación, incluyendo los procedimientos de sustitución, coordinación, y resolución de criterios contradictorios entre salas, en su caso.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 172 BIS.- La administración de los recursos humanos, materiales y financieros del Tribunal de Conciliación y Arbitraje corresponderá a la Secretaría de Gobierno, en los términos que señale la ley, sin que ello interfiera en la autonomía jurisdiccional del Tribunal.
+
+La vigilancia sobre el cumplimiento de las funciones del Tribunal, así como la disciplina en términos de comportamiento profesional y normas de gestión, estarán a cargo de la Secretaría de Gobierno de conformidad con las disposiciones aplicables, siempre respetando la autonomía funcional y de decisión jurisdiccional del Tribunal.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+###### ARTICULO 173.
+
+Las ausencias de las personas Magistradas Titulares del Tribunal de Conciliación y Arbitraje se suplirán en los términos siguientes:
+
+I. Las faltas temporales de noventa días o menos serán cubiertas por la persona magistrada Suplente que sea designada por la mayoría de los tres integrantes del Tribunal de entre las personas Magistradas Suplentes.
+
+Si la persona a suplir es quien se encontraba presidiendo el Tribunal, la persona Magistrada de mayor antigüedad en el servicio asumirá la presidencia y se procederá a la designación del suplente de entre las personas Magistradas Suplentes, y
+
+II. En ausencias mayores a noventa días o ausencia definitiva, la persona Titular del Ejecutivo del Estado designará de entre las personas Magistradas Suplentes a quien deberá cubrir la vacante por el tiempo de ausencia o el periodo restante para el cual fue nombrada la persona Magistrada Titular sustituida.
+
+Si no existieren Magistradas o Magistrados Suplentes para cubrir la vacante, mediante el procedimiento de designación establecido en este Estatuto, se nombrará un nuevo Magistrado o Magistrada para cubrir el periodo restante de conformidad con lo establecido en este Estatuto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+###### ARTICULO 174.
+
+Para ser Magistrada o Magistrado del Tribunal de Conciliación y Arbitraje se requiere:
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+I. Ser ciudadana o ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+II. Tener cuando menos 35 años cumplidos el día de su nombramiento;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+III. Contar con título profesional de Licenciatura en Derecho, expedido por autoridad o institución legalmente facultada para ello, y con una antigüedad mínima de diez años en el ejercicio profesional del Derecho;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+IV. Acreditar al menos cinco años de experiencia en materia laboral burocrática;
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+V.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+VI. Contar con una residencia mínima en el Estado de Coahuila de Zaragoza de por lo menos dos años inmediatos anteriores a la fecha de su nombramiento, y
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+VII. No haber ocupado el cargo de Secretario del Ramo o su equivalente, en la Administración Pública Estatal, Fiscal General del Estado, Diputado Local o alguno de los cargos mencionados en la fracción VI del artículo 95 de la Constitución Política de los Estados Unidos Mexicanos, durante el año previo al día de su nombramiento.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+Los nombramientos de los magistrados deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+###### ARTICULO 175.
+
+Las personas Magistradas Titulares podrán participar nuevamente en los procedimientos de selección para ser reelectas por una sola ocasión adicional, conforme al procedimiento establecido en este Estatuto.
+
 ### CAPITULO II.
 
 PERSONAL DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
-
-###### ARTICULO 171.
-
-El Tribunal de Conciliación y Arbitraje es un órgano especializado del Poder Judicial, dotado de autonomía constitucional, independencia y plena jurisdicción, en los términos que establece la Constitución Política del Estado y la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza.
-
-El Tribunal de Conciliación y Arbitraje funcionará con una Sala Superior y las Salas Especiales que se requieran conforme a las necesidades del servicio y al presupuesto anual de egresos respectivo. El acuerdo que determine el establecimiento de las Salas Especiales fijará su competencia y deberá publicarse en el Boletín Judicial, así como en el Periódico Oficial del Gobierno del Estado.
-
-La Sala Superior es el órgano supremo del Tribunal y está integrada por tres magistrados numerarios y tres magistrados supernumerarios, con residencia en la capital del Estado. Las Salas Especiales tendrán la residencia y jurisdicción que determine el Consejo de la Judicatura y estarán integradas por un magistrado numerario.
-
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
-
-ARTICULO 171 BIS.- El procedimiento de designación de los Magistrados del Tribunal de Conciliación y Arbitraje se hará en base a la propuesta que haga el Consejo de la Judicatura entre las ternas que le hayan presentado los Poderes del Estado, organismos públicos autónomos, municipios y los trabajadores por conducto de sus representantes sindicales, en los términos que señala la Constitución Política del Estado de Coahuila de Zaragoza, la Ley Orgánica del Poder Judicial del Estado de Coahuila y demás disposiciones aplicables.
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
-
-###### ARTICULO 172.
-
-El Presidente del Tribunal, quien también lo será de la Sala Superior será elegido de entre sus miembros y durará en su cargo tres años, pudiendo ser reelecto por un período igual, y sólo podrá ser removido en los términos del Título Séptimo de la Constitución Política del Estado de Coahuila de Zaragoza.
-
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
-
-ARTICULO 172 BIS.- La administración, vigilancia y disciplina del Tribunal de Conciliación y Arbitraje corresponderán, en los términos que señale la ley, al Consejo de la Judicatura. El Presidente del Tribunal de Conciliación y Arbitraje formará parte del Consejo de la Judicatura siempre con voz, y voto únicamente en los asuntos que le competan al Tribunal que preside.
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
-
-###### ARTICULO 173.
-
-Las faltas temporales y absolutas de los magistrados del Tribunal serán cubiertas por los magistrados supernumerarios que correspondan, en el orden respectivo y de acuerdo con el turno que lleve el Presidente del Tribunal.
-
-En caso de falta absoluta, el magistrado supernumerario actuará hasta en tanto se realice la nueva designación, para lo cual el Presidente del Tribunal, inmediatamente que aquella ocurra, dará cuenta al Consejo de la Judicatura quien atenderá al procedimiento establecido en la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza.
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
-
-###### ARTICULO 174.
-
-Para ser Magistrado del Tribunal de Conciliación y Arbitraje se requiere:
-
-I.- Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos civiles y políticos;
-
-II.-Tener cuando menos 35 años cumplidos el día de la designación;
-
-II.- Poseer al día de la designación, una antigüedad mínima de diez años, título profesional de Licenciado en Derecho, expedido por autoridad o institución legalmente facultada para ello;
-
-IV.- Tener como mínimo tres años de experiencia acreditable en materia laboral;
-
-V.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
-
-VI.- Haber residido en el Estado durante los dos años anteriores al día de la designación, y
-
-VII.- No haber ocupado el cargo de Secretario del Ramo o su equivalente, en la Administración Pública Estatal, Fiscal General del Estado, Diputado Local o alguno de los cargos mencionados en la fracción VI del artículo 95 de la Constitución Política de los Estados Unidos Mexicanos, durante el año previo al día de su nombramiento.
-
-Los nombramientos de los magistrados deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica.
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
-
-###### ARTICULO 175.
-
-Los Magistrados del Tribunal durarán 6 años en el primer ejercicio de su encargo, que se contará a partir de la fecha de su designación. Al término del citado período podrán ser designados nuevamente, por única vez, por un periodo de nueve años.
-
-### CAPITULO III.
-
-COMPETENCIA DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE.
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
-
 ###### ARTICULO 176.
 
-La Sala Superior y las Salas Especiales del Tribunal contarán con un Secretario de Acuerdo, los secretarios de estudio y cuenta, actuarios y demás personal que sea necesario.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2025)
 
-Los Magistrados y demás personal con que cuente el Tribunal estarán sujetos a las disposiciones previstas en materia disciplinaria, responsabilidades administrativas, carrera judicial y en todo lo que resulte conducente, previstas en la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza, así como al presente Estatuto.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 177.
 
-Para ser Secretario del Tribunal de Conciliación y Arbitraje se requiere:
+Para ser Titular de la Secretaría General del Tribunal de Conciliación y Arbitraje se requiere:
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
-I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
+I. Ser ciudadana o ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos;
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
-II.- No tener menos de 21 años de edad el día de la designación;
+II. Tener al menos 25 años el día de su designación;
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
-III.-Tener título legalmente expedido de Licenciado en Derecho;
+III. Poseer título de Licenciatura en Derecho expedido por lo menos 4 años anteriores, por autoridad o institución legalmente facultada para ello;
 
 > <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 IV.- Gozar de buena reputación y no haber sido condenado por delito intencional sancionado con pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena, y
 
-> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
-V.- Sustentar y aprobar el examen de méritos.
+V. Tener como mínimo tres años de experiencia acreditable en materia laboral.
 
-###### ARTICULO 178.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
-Para ser Actuario del Tribunal de Conciliación y Arbitraje se requiere:
+###### ARTÍCULO 178.
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+Para ser Actuaria o Actuario del Tribunal de Conciliación y Arbitraje se requiere:
 
-I.- Ser ciudadano mexicano por nacimiento, mayor de edad, en pleno ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+I.- Ser ciudadana o ciudadano mexicano, mayor de edad y en pleno ejercicio de sus derechos civiles y políticos;
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 II.-Tener buenos antecedentes de moralidad;
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
-III.-Tener título de Licenciado en Derecho;
+III. Poseer título de Licenciatura en Derecho expedido por autoridad o institución legalmente facultada para ello;
 
 > <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -1851,77 +2223,161 @@ V.- Sustentar y aprobar el examen de méritos.
 
 El resto del personal deberá llenar los requisitos que esta Ley señala para ser trabajador.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 178 BIS.- La persona titular de la Secretaría General del Tribunal de Conciliación y Arbitraje tendrá las siguientes funciones:
+
+I. Recibir los escritos que se presenten, anotando al calce el día y hora de presentación del documento y el nombre de la persona que la presenta; el número de fojas que contengan y documentos que lo acompañan. Asimismo, deben asentar razón idéntica en la copia, cuando se exija, con la firma de quien recibe el escrito y el sello de la oficina, para que dicha copia quede en poder de la persona interesada para su resguardo;
+
+II. Dar cuenta diariamente a la Presidencia, bajo su más estricta responsabilidad y dentro de las veinticuatro horas siguientes a la de su presentación, con los escritos, oficios, promociones y demás documentos que se reciban;
+
+III. Autorizar los despachos, exhortos, requisitorias, actas, diligencias, autos y toda clase de resoluciones que se expidan, asienten, practiquen o dicten en el Tribunal;
+
+IV. Hacer constar en los expedientes, el día en que comienzan a correr los términos y aquél en que deben concluir; cuidando que los procedimientos se desarrollen en los términos y plazos que establece la Ley;
+
+V. Asistir a las diligencias de prueba que se reciban en el Pleno del Tribunal;
+
+VI. Expedir y autorizar las copias que la ley determine o que deban darse a las partes por decreto judicial;
+
+VII. Cuidar que los expedientes sean debidamente foliados al agregarse cada una de las hojas, sellando por sí mismo las actuaciones, oficios y demás documentos que lo requieran, estampando su rúbrica en el centro del escrito;
+
+VIII. Guardar en el secreto de la oficina, bajo su responsabilidad, los valores, escritos y documentos, cuando así lo disponga la ley;
+
+IX. Levantar inventario y conservar en su poder los expedientes en trámite, mientras no se remitan al Archivo Judicial o al Superior, en su caso, debiendo entregarlos con las formalidades legales, cuando haya lugar a la remisión;
+
+X. Proporcionar a las personas interesadas los expedientes en que son partes y que soliciten para informarse del estado de los mismos, o para cualquier otro efecto legal, siempre que sea en su presencia y sin extraer las actuaciones de la oficina;
+
+XI. Notificar personalmente a las partes en los juicios o asuntos en trámite;
+
+XII. Practicar las diligencias que se le encomienden;
+
+XIII. Remitir los expedientes al Archivo Judicial, a la Superioridad, previa anotación en el libro de control;
+
+XIV. Ordenar y vigilar que se despachen sin demora los asuntos y correspondencia del Tribunal de Conciliación según corresponda;
+
+XV. Tener a su cargo, bajo su responsabilidad, los libros pertenecientes a la oficina, designando, entre las y los servidores subalternos, al que deba llevarlos;
+
+XVI. Conservar en su poder el sello de la oficina;
+
+XVII. Ejercer la supervisión y control sobre todas las personas servidoras de su dependencia y proponer, en su caso, la imposición de medidas disciplinarias contra quienes no cumplan con su función, y
+
+XVIII. Las demás funciones que la ley, el pleno y su superior le encomienden.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 178 TER.- Las y los Secretarios de Estudio y Cuenta del Tribunal de Conciliación y Arbitraje tendrán las siguientes funciones:
+
+I. Proyectar, bajo la más absoluta reserva, las resoluciones que les encomienden la o el magistrado, al cual se encuentren adscritos, previo estudio que hagan del asunto. Para tal efecto, la o el Magistrado instruirá a la o el secretario sobre los motivos de hecho y de derecho que deban fundar el proyecto de resolución;
+
+II. Dar cuenta diariamente a la o el Magistrado al cual se encuentra adscrito, bajo su más estricta responsabilidad y dentro de las veinticuatro horas siguientes a la de presentación, con las demandas, contestaciones, escritos, oficios, promociones y demás documentos que se reciban en la ponencia respectiva;
+
+III. Acordar y revisar los escritos, promociones y demás documentos que se presenten dentro de los expedientes de la ponencia respectiva, así como expedir los exhortos necesarios;
+
+IV. Desahogar diligencias y celebrar audiencias en apoyo a la o el Magistrado Instructor, y
+
+V. Las demás funciones que la ley, el pleno y su superior les encomienden.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 178 QUATER.- Las y los actuarios tendrán las obligaciones siguientes:
+
+I. Recibir de las y los secretarios de acuerdos los expedientes de notificación personal, o de diligencias que deban efectuarse fuera de la oficina, firmando los conocimientos respectivos;
+
+II. Hacer la notificación personal y practicar las diligencias decretadas, dentro de las horas hábiles del día, levantando el acta correspondiente en el lugar en que se efectúen y devolviendo el expediente a la o el secretario, previas las anotaciones correspondientes en el libro respectivo, y
+
+III. Las demás que la ley, el Pleno o sus superiores les encomienden.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 179.
 
-El Tribunal nombrará, removerá o suspenderá a sus trabajadores en los términos de esta Ley y la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza.
+El Tribunal nombrará, removerá o suspenderá a sus trabajadores y trabajadoras en los términos de este estatuto.
 
 Los gastos que origine el funcionamiento del Tribunal serán cubiertos por el Estado, consignándose en el Presupuesto de Egresos.
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+ARTICULO 179 BIS.- (DEROGADO, P.O. 5 DE DICIEMBRE DE 2025)
 
-ARTICULO 179 BIS.- Los servidores públicos del Tribunal de Conciliación y Arbitraje podrán participar en las promociones escalafonarias de los demás órganos jurisdiccionales, pero deberán demostrar conocimientos en la materia para la que deseen concursar.
+### CAPITULO III.
 
-### CAPITULO I.
+COMPETENCIA DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE.
 
-DISPOSICIONES GENERALES.
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 180.
 
-El Tribunal de Conciliación y Arbitraje es competente para conocer y resolver, en los términos de las leyes de la materia, los conflictos que se susciten entre:
+El Tribunal de Conciliación y Arbitraje es competente para conocer y resolver:
 
-I. El Poder Legislativo y sus trabajadores;
+I. De los conflictos individuales que se susciten entre el Poder Legislativo y sus personas trabajadoras;
 
-II. El Poder Ejecutivo y sus trabajadores;
+II. De los conflictos individuales que se susciten entre el Poder Ejecutivo y sus personas trabajadoras;
 
-III. El Poder Judicial y sus trabajadores, con excepción de los del Tribunal Superior de Justicia, el que conocerá de los conflictos laborales con sus trabajadores;
+III. De los conflictos entre las entidades paraestatales y los organismos públicos descentralizados y sus personas trabajadoras, siempre y cuando en su decreto de creación, legislación específica o normativa lo establezca;
 
-IV. Los Municipios y sus trabajadores;
+IV. De los conflictos entre los municipios y sus personas trabajadoras;
 
-V. Los organismos públicos autónomos y sus trabajadores;
+V. De los conflictos entre los organismos públicos autónomos y sus personas trabajadoras;
 
-VI. Los trabajadores al servicio del Estado y su Sindicato y los trabajadores al servicio de los municipios y sus sindicatos, y
+VI. De los conflictos entre las personas trabajadoras al servicio del Estado y su Sindicato y entre las personas trabajadoras al servicio de los municipios y sus sindicatos;
 
-VII. Los trabajadores al servicio de la educación y sus sindicatos, y organismos públicos autónomos y sus sindicatos, en su caso.
+VII. De los conflictos entre los trabajadores y trabajadoras al servicio de la educación y sus sindicatos, y organismos públicos autónomos y sus sindicatos, en su caso;
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+VIII. De los conflictos sindicales, tanto intersindicales como intrasindicales, así como de los procedimientos de registro, modificación y cancelación de sindicatos;
 
-ARTICULO 180 BIS.- El Tribunal de Conciliación y Arbitraje es competente para conocer y resolver los conflictos que se susciten entre los Poderes, entidades y demás instancias descritas en el artículo anterior, que podrán ser:
+IX. Del registro de las condiciones generales de trabajo, y
+
+X. De todos demás los casos previstos por este Estatuto y las disposiciones legales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 180 BIS.- El Tribunal de Conciliación y Arbitraje es competente para conocer y resolver los conflictos que se susciten entre los Poderes del Ejecutivo y Legislativo del Estado, entidades y demás instancias descritas en el artículo anterior, que podrán ser:
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 I.- Los conflictos individuales que se susciten entre una dependencia y sus trabajadores;
 
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 II.- Los conflictos colectivos que surjan entre las dependencias y el Sindicato;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 III.- Conceder o negar el registro del Sindicato, y en su caso, dictar la cancelación del mismo;
 
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 IV.- Conocer de los conflictos sindicales;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 V.- Efectuar el registro de las condiciones generales de trabajo;
 
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 VI.- Conocer de todos los conflictos que se susciten en la aplicación de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 VII.- Conocer de todos los demás casos que esta Ley determine deban ser resueltos por él;
 
-VIII.- Proponer al Consejo de la Judicatura el proyecto de Reglamento Interior del Tribunal y demás acuerdos generales para regular su organización y funcionamiento interno, y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
-IX.- Las demás que le confiera la Constitución Política del Estado de Coahuila de Zaragoza, la Ley Orgánica del Poder Judicial del Estado de Coahuila, esta ley y demás disposiciones legales aplicables.
+VIII.- Las demás que le confiera la Constitución Política del Estado de Coahuila de Zaragoza, este Estatuto, el Reglamento Interior del Tribunal y demás disposiciones legales aplicables.
+
+IX.- (DEROGADA, P.O. 5 DE DICIEMBRE DE 2025)
 
 ## TITULO DECIMO SEGUNDO.
 
 PROCEDIMIENTO ANTE EL TRIBUNAL DE CONCILIACION Y ARBITRAJE.
 
-### CAPITULO II.
+### CAPITULO I.
 
-MEDIOS DE APREMIO.
+DISPOSICIONES GENERALES.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 181.
 
-En todo lo no previsto por este Título, se aplicará la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
+Son partes en el proceso del trabajo laboral burocrático, las personas físicas; el Poder Ejecutivo; el Poder Legislativo; los organismos públicos autónomos; los municipios, que acrediten su interés jurídico en el proceso y ejerciten acciones u opongan excepciones.
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -1929,71 +2385,259 @@ En todo lo no previsto por este Título, se aplicará la Ley Orgánica del Poder
 
 Tan pronto reciba la primera promoción relativa a un conflicto colectivo o sindical, el Presidente del Tribunal de Conciliación y Arbitraje, citará a las partes dentro de las veinticuatro horas siguientes a una audiencia de conciliación, que deberá llevarse a cabo dentro del término de tres días contados a partir de la fecha de la citación. En esta audiencia procurará avenir a las partes; de celebrarse convenio, se elevará a la categoría de laudo, que las obligará como si se tratara de sentencia ejecutoriada. Si no se avienen, remitirá el expediente a la Secretaría de Acuerdos para que proceda al arbitraje de conformidad con el procedimiento que establece este Capítulo.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTICULO 183.
 
-En el procedimiento ante el Tribunal de Conciliación y Arbitraje no se requiere forma o solemnidad especial en las promociones o intervenciones de las partes.
+En los procedimientos ante el Tribunal de Conciliación y Arbitraje del Estado, no se requieren formas o solemnidad especial en la promoción o intervención de las partes, los cuales se rigen por los principios de inmediación, inmediatez, continuidad, celeridad, veracidad, concentración, economía y sencillez procesal. Asimismo, será público, gratuito, predominantemente oral y conciliatorio y se inicia a instancia de parte.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 184.
 
-El procedimiento para resolver las controversias que se sometan al Tribunal de Conciliación y Arbitraje, se reducirá: a la presentación de la demanda respectiva que deberá hacerse por escrito o verbalmente por medio de comparecencia; a la contestación, que podrá hacerse en cualquiera de las dos formas señaladas; y a una sola audiencia en la que se recibirán las pruebas y alegatos de las partes, y se pronunciará resolución, salvo cuando a juicio del propio Tribunal se requiera la práctica de otras diligencias, en cuyo caso se ordenará que se lleven a cabo, y, una vez desahogadas, se dictará laudo.
+El juicio laboral y los procedimientos relacionados se sustanciarán y decidirán conforme a lo dispuesto en este Estatuto.
+
+El Tribunal deberá regularizar el procedimiento ante cualquier irregularidad u omisión que advierta durante la sustanciación del proceso, sin que ello implique la revocación de sus propias resoluciones, salvo los casos expresamente previstos en este ordenamiento.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 ARTICULO 184 BIS.- El procedimiento ante el Tribunal se inicia a instancia de parte, es público, gratuito e inmediato; por lo cual se deben tomar las medidas conducentes encaminadas a lograr la mayor economía del tiempo, concentración y sencillez en el proceso.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 184 TER.- Durante la tramitación de los juicios y hasta el cierre de su instrucción, la persona Magistrada instructora del expediente en que se actúa, deberá estar presente en el desarrollo de las audiencias, auxiliándose de una o un Secretario de Acuerdo y Trámite para dictar los acuerdos correspondientes, mismo que deberá verificar y, en su caso, certificar que las notificaciones personales se practicaron debidamente.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 185.
 
-Las sesiones ordinarias del Tribunal tendrán verificativo por lo menos un día hábil de cada semana, sin perjuicio de las sesiones extraordinarias que, en uno y otro caso, al efecto convoque el presidente. Para la celebración de las sesiones, se requerirá la presencia de los tres magistrados; en consecuencia, si algún magistrado numerario se encuentra ausente, deberá llamarse de inmediato al supernumerario que corresponda para que lo supla en la sesión.
+Las sesiones ordinarias del Tribunal se celebrarán por lo menos un día hábil de cada semana, sin perjuicio de las sesiones extraordinarias que convoque quien presida el Tribunal.
 
-Cada magistrado será ponente de los asuntos que le sean turnados.
+Para la celebración de las sesiones se requerirá la presencia de las tres personas Magistradas titulares y de la persona titular de la Secretaría General de Acuerdos, si algún Magistrado o Magistrada titular se encuentra ausente, se deberá llamar de inmediato a la Magistrada o Magistrado suplente que corresponda para que lo supla en la sesión.
+
+Cada persona Magistrada será responsable de la ponencia de los asuntos que le sean turnados, conforme al sistema de distribución previamente acordado.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 186.
 
-La demanda deberá contener:
+La demanda se presentará por escrito y deberá contener:
 
-I.- El nombre y el domicilio del reclamante;
+I. Nombre y domicilio de la parte actora;
 
-II.- El nombre y domicilio del demandado;
+II. Nombre y domicilio de la parte demandada;
 
-III.- El objeto de la demanda;
+III. La prestación o prestaciones reclamadas;
 
-IV.- Una relación de los hechos; y
+IV. Una relación de los hechos;
 
-V.- La indicación del lugar en que puedan obtenerse las pruebas que el reclamante no pudiere aportar directamente y que tengan por objeto la verificación de los hechos en que funde su demanda, y las diligencias cuya práctica solicite con el mismo fin.
+V. Las pruebas en que se funde las acciones y los documentos que acrediten la personalidad de su representante o apoderado, y
 
-En la demanda se ofrecerán las pruebas y a la misma se acompañarán los instrumentos de que disponga el demandante, así como los documentos que acrediten la personalidad de su representante, si no concurre personalmente.
+VI. Firma de la parte actora.
+
+Deberán acompañarse copias de la demanda para cada una de las partes demandadas.
+
+A la contestación se acompañarán las pruebas que la parte demandada ofrezca, así como los documentos que acrediten la personalidad de quien comparece en su representación.
+
+En caso de que la parte actora lo considere pertinente, podrá hacer referencia al derecho que estime aplicable a su reclamación, sin que ello constituya un requisito para la procedencia de su demanda.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 186 BIS.- La presentación de la demanda se hará ante la Oficialía de Partes del Tribunal, la cual la turnará a la sala correspondiente, conforme al sistema de distribución de asuntos previsto en el presente Estatuto.
+
+La sala a la que se turne la demanda deberá dictar, dentro de los tres días siguientes a su recepción, un acuerdo en el que se señale día y hora para la celebración de la audiencia de conciliación, la cual deberá celebrarse dentro de los diez días hábiles siguientes a la emisión del acuerdo.
+
+En el mismo acuerdo se apercibirá a las partes en términos del presente Estatuto.
+
+Cuando la parte actora sea la persona trabajadora o sus beneficiarios, de advertir el Tribunal alguna irregularidad en el escrito de demanda o se promueven acciones contradictorias o no se haya precisado el salario base de la acción, en el acuerdo le señalará los defectos u omisiones en que haya incurrido y lo prevendrá para que los subsane dentro de un término de tres días. Dicho acuerdo deberá notificarse personalmente a la parte actora.
+
+No se recibirán pruebas adicionales, salvo las que se trate de pruebas supervenientes.
+
+Se ordenará la notificación personal de las partes, la cual deberá realizarse cuando menos con veinticuatro horas de anticipación a la audiencia de conciliación.
+
+Asimismo, se le requerirá para que señalen domicilio en la residencia del Tribunal, haciéndoles saber que, en caso de omisión, las subsecuentes notificaciones, aún las de carácter personal, se practicarán por medio de los estrados del Tribunal.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 186 TER.- Las partes serán apercibidas por el Tribunal respecto a las consecuencias legales de no comparecer a la audiencia de conciliación en los siguientes términos:
+
+Se apercibirá a la parte actora que, en caso de no presentarse personalmente a la audiencia de conciliación sin causa justificada, se archivará el asunto como concluido por falta de interés procesal.
+
+La parte demandada será apercibida que, en caso de no comparecer a la audiencia de conciliación sin causa justificada, se le impondrá una multa equivalente al importe de treinta veces la Unidad de Medida y Actualización vigente a la fecha en que ocurra la inasistencia.
+
+En caso de inasistencia de las partes, dicha omisión se tomará en cuenta como indicio de resistencia procesal, y se vinculará a los efectos probatorios que puedan derivarse en su contra, sin perjuicio de continuar con las etapas posteriores del procedimiento.
+
+La autoridad laboral deberá tomar en cuenta lo resuelto en esta etapa al momento de emitir el laudo, en especial lo relacionado con la voluntad de conciliación, el cumplimiento parcial o total de las prestaciones reclamadas y la procedencia de salarios caídos.
+
+Se considerará inasistencia justificada aquella debidamente acreditada por causa de fuerza mayor, caso fortuito o por incapacidad médica expedida por autoridad médica competente. La incapacidad médica debe incluir lo siguiente:
+
+I. Identificación de la o el Paciente: incluye datos personales como nombre, edad y número de identificación;
+
+II. Datos del médico: se debe incluir el nombre, número de licencia y especialidad del médico que emite el certificado;
+
+III. Descripción del estado de salud: detallar la condición de salud de la o el paciente y las pruebas realizadas;
+
+IV. Fecha de emisión: el certificado debe tener una fecha clara, ya que esto puede influir en su validez, y
+
+V. Veracidad y precisión: el certificado debe ser veraz, legible, descriptivo, coherente y documentado.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 186 QUATER.- En todos los procedimientos laborales será obligatorio agotar la etapa de conciliación. Dicha audiencia será conducida por una persona funcionaria conciliadora habilitada para tal efecto, de conformidad con este Estatuto y los lineamientos que emita el Pleno.
+
+La inasistencia injustificada de alguna de las partes será sancionada conforme a lo previsto en este Estatuto, sin menoscabo de su derecho de defensa.
+
+La etapa conciliatoria no podrá prolongarse más allá de un plazo de cuarenta y cinco días hábiles, salvo que ambas partes manifiesten su voluntad expresa de continuarla.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 186 QUINQUIES.- Quedan exceptuados de agotar la instancia conciliatoria, cuando se trate de conflictos inherentes a:
+
+I. Discriminación en el empleo y ocupación por embarazo, así como por razones de sexo, orientación sexual, raza, religión, origen étnico, condición social o acoso u hostigamiento sexual;
+
+II. Designación de personas beneficiarias por muerte;
+
+III. Prestaciones de seguridad social por riesgos de trabajo, maternidad, enfermedades, invalidez, vida, guarderías y prestaciones en especie y accidentes de trabajo;
+
+IV. La tutela de derechos fundamentales y libertades públicas, ambos de carácter laboral, entendidos en estos rubros los relacionados con:
+
+a) La libertad de asociación, libertad sindical y el reconocimiento efectivo de la negociación colectiva;
+
+b) Trata laboral, así como trabajo forzoso y obligatorio, y
+
+c) Trabajo infantil.
+
+Para la actualización de estas excepciones se debe acreditar la existencia de indicios que generen al tribunal la razonable sospecha, apariencia o presunción de que se están vulnerando alguno de estos derechos;
+
+V. La disputa de la titularidad de contratos colectivos o contratos ley, y
+
+VI. La impugnación de los estatutos de los sindicatos o su modificación.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 186 SEXIES.- La etapa conciliatoria se desarrollará de la forma siguiente:
+
+I. Las partes comparecerán personalmente al Tribunal, y podrán ser asistidas por personas abogadas patronas, asesoras o apoderadas; la parte actora deberá acudir personalmente a la audiencia. Podrá asistir acompañada por una persona de su confianza, pero no se reconocerá a ésta como apoderada, por tratarse de un procedimiento de conciliación y no de un juicio; no obstante, también podrá ser asistida por una persona licenciada en derecho, abogada o un Procuradora de la Defensa del Trabajo. La o el patrón deberá asistir personalmente o por conducto de representante con facultades suficientes para obligarse en su nombre. Los elementos aportados por las partes no podrán constituir prueba o indicio en ningún procedimiento administrativo o judicial. La información aportada por las partes en el procedimiento de conciliación, no podrá comunicarse a persona o autoridad alguna;
+
+II. La persona conciliadora intervendrá para la celebración de pláticas entre las partes y exhortará a las mismas para que procuren llegar a un arreglo conciliatorio;
+
+III. Si la acción ejercitada es la de indemnización constitucional y la parte demandada cubre en ese momento el importe de la misma, con el salario reclamado o con el que convengan las partes; se dejarán de causar salarios vencidos, y se continuará con el procedimiento solo por lo que hace a las prestaciones accesorias demandadas y los salarios vencidos, computados a partir de la fecha en que se dejó de prestar el servicio hasta por un periodo máximo de doce meses, independientemente del tiempo transcurrido a la fecha de celebración del convenio respectivo;
+
+IV. Si la acción ejercida es la de reinstalación y la parte demandada acepta la reincorporación del servidor público al empleo, en los mismos términos y condiciones en que venía laborando, o en ese momento, cubre las indemnizaciones respectivas en términos de este estatuto, se procederá conforme a la fracción que antecede;
+
+V. Si la acción ejercida es diversa de las mencionadas, en las fracciones III y IV, de este artículo, y la parte demandada está conforme en cubrir el pago de estas o realiza el trámite necesario para el cumplimiento de la prestación reclamada, en ese momento se procederá en los mismos términos de las fracciones anteriores;
+
+VI. Si las partes no llegasen a un acuerdo, las personas demandadas podrán acogerse a los beneficios de la insumisión al arbitraje, mediante el depósito a favor de la parte actora, del importe de tres meses de salarios, así como salarios vencidos y partes proporcionales de vacaciones, prima vacacional y aguinaldo;
+
+VII. Si las partes llegaren a un acuerdo, se dará por terminado el conflicto. El convenio respectivo aprobado por el Tribunal producirá los efectos jurídicos inherentes a un laudo, y
+
+VIII. Si la parte actora no comparece a la audiencia de conciliación sin causa justificada, se archivará el expediente por falta de interés procesal.
+
+Si la parte demandada no comparece, se le impondrá una multa equivalente a treinta veces el valor diario de la Unidad de Medida y Actualización vigente en la fecha de la inasistencia.
+
+En este caso, la etapa se tendrá por fracasada, y deberá señalarse día y hora para el desahogo de la audiencia preliminar, la cual se realizará dentro de los siguientes diez días, quedando notificadas en ese acto las partes, y se continuará con el procedimiento conforme a este capítulo.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 186 SEPTIES.- La resolución que pronuncie el Tribunal respecto de la etapa de conciliación tendrá los efectos procesales siguientes:
+
+I. Si las partes alcanzan un acuerdo, el convenio aprobado por el Tribunal surtirá los efectos de un laudo y causará estado, con efectos de cosa juzgada;
+
+II. Si no se alcanza un acuerdo conciliatorio, dicha circunstancia se asentará en el expediente y el procedimiento continuará conforme a las etapas procesales previstas en este Estatuto;
+
+III. En caso de inasistencia injustificada de la parte actora, se archivará el expediente por falta de interés procesal, y
+
+IV. En caso de inasistencia injustificada de la parte demandada, se le impondrá la multa correspondiente. Dicha omisión se tomará en cuenta como indicio de resistencia procesal, y se vinculará a los efectos probatorios que puedan derivarse en su contra, sin perjuicio de continuar con las etapas posteriores del procedimiento.
+
+La autoridad laboral deberá tomar en cuenta lo resuelto en esta etapa al momento de emitir el laudo, en especial lo relacionado con la voluntad de conciliación, el cumplimiento parcial o total de las prestaciones reclamadas, y la procedencia de salarios vencidos y sus límites temporales.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 186 OCTIES.- Este Estatuto reconoce expresamente el derecho de las partes demandadas, de acogerse a los beneficios de la insumisión al arbitraje, como medio de solución de los conflictos individuales laborales. Dicha insumisión se sujetará a las normas de la mediación estipuladas en el artículo 49 y 947 de la Ley Federal del Trabajo, y; 43 fracción IV de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Aparatado B) del Artículo 123 Constitucional, y se tramitará vía incidental.
+
+Se entenderá por insumisión al arbitraje el derecho procesal que asiste a la parte demandada en los conflictos individuales de trabajo, para rehusarse a someterse al juicio laboral pleno, manifestando su voluntad de no acudir a la etapa de arbitraje, siempre que cumpla con los requisitos legales establecidos en este ordenamiento.
+
+La insumisión al arbitraje procede solo en el caso de las acciones de reinstalación por despido injustificado y cuando se trate de personas trabajadoras de confianza, eventuales o temporales, interinas y de aquellas que tengan una antigüedad menor a seis meses.
+
+Para que proceda la insumisión, la parte demandada deberá realizar, en audiencia de conciliación, el depósito inmediato y total a favor de la parte actora de:
+
+I. Tres meses de salario;
+
+II. Salarios vencidos causados a la fecha, y
+
+III. Partes proporcionales de vacaciones no disfrutadas, prima vacacional y aguinaldo.
+
+El ejercicio de esta facultad procesal extinguirá el conflicto respecto del fondo principal del asunto, sin que ello implique admisión de responsabilidad ni perjuicio a derechos futuros, y deberá constar por acuerdo debidamente fundado y motivado del Tribunal.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 187.
 
-La contestación de la demanda se presentará en un término que no exceda de cinco días, contados a partir del siguiente a la fecha de su notificación; deberá referirse a todos y cada uno de los hechos que comprenda la demanda, y ofrecer pruebas en los términos de la fracción V del artículo anterior.
+La parte demandada contará con un plazo de cinco días hábiles, contados a partir del día siguiente en que se declare fracasada la etapa conciliatoria, para presentar su escrito de contestación, debiendo referirse de manera expresa y puntual a todos y cada uno de los hechos contenidos en la demanda, y ofrecer las pruebas que estime pertinentes para su defensa.
 
-Cuando el domicilio del demandado se encuentre fuera del lugar en que radica el Tribunal, se ampliará el término en un día por cada 100 Kms. de distancia o fracción que exceda de la mitad.
+Cuando el domicilio de la persona demandada se encuentre fuera del lugar en que radique el Tribunal, el término para contestar se ampliará en un día por cada cien kilómetros de distancia o fracción que exceda de la mitad, entre el domicilio y la sede del Tribunal.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+La excepción de incompetencia no exime a la parte demandada de contestar la demanda en el plazo señalado. Si no lo hiciere, y el Tribunal se declara competente, se tendrá por contestada la demanda en sentido afirmativo respecto de los hechos controvertidos.
+
+Si del escrito inicial de demanda o durante la secuela del procedimiento el Tribunal advierte su incompetencia, la declarará de oficio y remitirá el expediente a la autoridad que considere competente, notificando a las partes.
+
+La falta de contestación dentro del término legal se tendrá como rebeldía procesal, presumiéndose ciertos los hechos aducidos por la parte actora, salvo prueba en contrario.
 
 ###### ARTICULO 188.
 
-El Tribunal, tan pronto como reciba la contestación de la demanda o una vez transcurrido el plazo para contestarla, ordenará la práctica de las diligencias que fueren necesarias y citará a las partes y, en su caso, a los testigos y peritos, para la audiencia de pruebas, alegatos y resolución.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2025)
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 189.
 
-El día y hora de audiencia se abrirá al periodo de recepción de pruebas; el Tribunal calificará las mismas, admitiendo las que estime pertinentes y desechando aquellas que resulten notoriamente inconsecuentes o contrarias a la moral o al derecho o que no tengan relación con la litis. Acto continuo, se señalará el orden de su desahogo, primero las del actor y después las del demandado, en la forma y términos que estime oportuno, tomando en cuenta la naturaleza de las mismas y procurando la celeridad en el procedimiento.
+La audiencia preliminar tiene por objeto:
+
+I. Depurar el procedimiento y resolver las excepciones dilatorias planteadas por las partes;
+
+II. Establecer los hechos no controvertidos;
+
+III. Admitir o desechar las pruebas ofrecidas por las partes, según sea el caso;
+
+IV. Citar para audiencia de juicio, y
+
+V. Resolver los incidentes presentados.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 190.
 
-En la audiencia sólo se aceptarán las pruebas ofrecidas previamente, a no ser que se refieran a hechos supervenientes en cuyo caso se dará vista a la contraria, o que tengan por objeto probar las tachas contra testigos, o se trate de la confesional, siempre y cuando se ofrezcan antes de cerrarse la audiencia.
+La audiencia preliminar se desarrollará conforme a lo siguiente:
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+I. Las partes comparecerán personalmente o por conducto de persona apoderada ante el Tribunal; en caso de hacerlo por su cuenta deberán estar asistidas por persona Licenciada en Derecho o abogada titulada con cédula profesional, o pasante de derecho, a fin de garantizar su debida defensa.
 
-ARTICULO 190 BIS.- Para la admisión y desahogo de pruebas se aplicarán las disposiciones contenidas en la Ley Federal del Trabajo, en tanto no contravengan lo dispuesto por la presente Ley.
+Si las partes no comparecen, se tendrán por consentidas las actuaciones judiciales y quedarán precluídos los derechos procesales que debían ejercitar en cada una de las etapas de la audiencia. El Tribunal determinará el inicio y la conclusión de cada una de las etapas;
+
+II. La audiencia preliminar se desahogará con la comparecencia de las partes que se encuentren presentes al inicio. Las que no hayan comparecido en su apertura, podrán hacerlo en el momento en que se presenten, siempre y cuando no se haya cerrado la audiencia. Si las partes no comparecen se realizará la audiencia con los elementos que existan en autos;
+
+III. El Tribunal examinará las cuestiones relativas a la legitimación procesal y resolverá las excepciones procesales o incidentes que se hayan hecho valer, con el fin de depurar el procedimiento;
+
+IV. El Tribunal definirá los hechos que no sean motivo de controversia con el fin de que las pruebas que se admitan se dirijan a los hechos controvertidos;
+
+V. El Tribunal resolverá la admisión de las pruebas, admitirá las que tengan relación con la litis y desechará las inútiles, intrascendentes o que no guarden relación con los hechos controvertidos, expresando el motivo de ello; establecerá la forma en que deberán prepararse las pruebas para su desahogo en la audiencia de juicio o las que se realizarán fuera de las instalaciones del Tribunal. El Tribunal señalará la fecha y hora en que se desarrollarán las diligencias, proveyendo en relación a las mismas, y
+
+VI. La preparación de las pruebas será ordenada por el Tribunal, salvo aquellas que queden a cargo de las partes, por lo que la audiencia de juicio no se diferirá por falta de preparación, salvo caso fortuito o fuerza mayor. La citación de las y los testigos quedará a cargo de la persona oferente, salvo que por causa justificada deba practicarse mediante notificación personal, la que se efectuará con al menos tres días de anticipación a la audiencia. El Tribunal, a solicitud de la persona oferente, podrá expedir oficios o citaciones a fin de que ésta los entregue por su cuenta y bajo su responsabilidad, con el objeto de que se preparen debidamente las pruebas y puedan desahogarse en la audiencia de juicio.
+
+Solamente en casos excepcionales, debido a la naturaleza de las pruebas admitidas, el Tribunal podrá determinar la imposibilidad para el desahogo en una sola audiencia, señalando en el mismo acuerdo la causa, el día y hora en que deberán desahogarse. Procurará desahogar primero las de la persona actora y luego las de la demandada.
+
+Cerrada la audiencia preliminar, se señalará fecha y hora para la audiencia de juicio, que deberá efectuarse dentro del lapso de veinte días siguientes a la emisión del acuerdo respectivo, si se admiten pruebas que deban desahogarse fuera de las instalaciones del Tribunal señalará fecha y hora para el desarrollo de las diligencias. Quedando notificadas las partes que asistieron en ese acto, las que no hayan asistido quedarán notificadas por estrados.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 190 BIS.- Las pruebas deberán ofrecerse con la demanda y la contestación conforme a lo previsto en este Estatuto, observando las disposiciones contenidas en la Ley Federal del Trabajo, en tanto no contravengan lo dispuesto por el presente Estatuto.
+
+Las pruebas de hechos supervenientes podrán ofrecerse hasta antes de emitir el laudo, dentro de los tres siguientes en que se tenga conocimiento de los mismos. El Tribunal deberá dar vista a las partes con dichas pruebas, para que manifiesten lo que a su derecho e interés convenga. En caso de ser necesario se señalará día y hora para su desahogo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 191.
 
-Los trabajadores podrán comparecer por sí o por representantes acreditados en los términos del derecho común, o aún mediante simple carta poder.
+Las personas trabajadoras podrán comparecer por sí o por personas representantes acreditadas en los términos del derecho común, o aún mediante simple carta poder.
 
 Los titulares de las dependencias podrán hacerse representar por apoderados que acrediten ese carácter mediante simple oficio.
 
@@ -2001,37 +2645,73 @@ Los titulares de las dependencias podrán hacerse representar por apoderados que
 
 Las partes podrán comparecer acompañadas de los asesores que a su interés convenga.
 
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 192 BIS. Las partes serán apercibidas por el Tribunal que, en caso de no comparecer a las audiencias preliminar y de juicio, se tendrán por consentidas las actuaciones judiciales y quedarán precluidos los derechos procesales que debieron ejercitar en cada una de las etapas de la audiencia.
+
 ###### ARTICULO 193.
 
 Cuando el demandado no conteste la demanda dentro del término concedido o si resulta mal representado, se tendrá por contestada la demanda en sentido afirmativo, salvo prueba en contrario.
 
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 193 BIS.- El Tribunal girará los oficios y exhortos necesarios para recabar los informes o copias que deba expedir alguna autoridad o exhibir terceros ajenos al juicio, que haya solicitado la persona oferente, con los apercibimientos señalados en este Estatuto y dictará las medidas necesarias para que, el día de la audiencia se desahoguen las pruebas admitidas.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 193 TER.- La audiencia de juicio se desahogará con la comparecencia de las partes que estén presentes en su apertura. Las que no hayan comparecido en su inicio, podrán intervenir en el momento en que se presenten, siempre que no haya concluido la audiencia. Si las partes no comparecen se efectuará la audiencia con los elementos que existan en autos y se harán efectivos los apercibimientos realizados previamente a las partes.
+
+El Tribunal dará cuenta de la presencia de las partes que comparezcan a la audiencia, así como de los testigos y peritos; verificará la disponibilidad de los documentos a exhibirse y moderará el desarrollo de las manifestaciones de quienes intervengan en la audiencia; en su caso, analizará y calificará las pruebas que presenten las partes como supervenientes para su admisión o desechamiento según corresponda.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 193 QUATER.- El Tribunal, abrirá la fase de desahogo de pruebas, conforme a lo siguiente:
+
+I. Se procederá a desahogar todas las pruebas que se encuentren debidamente preparadas, procurando que sean primero las de la parte actora y luego las de la demandada; en la forma y términos que estime oportuno, tomando en cuenta la naturaleza de las mismas y procurando la celeridad en el procedimiento;
+
+II. Si alguna de las pruebas admitidas no se encuentra debidamente preparada y estuviera a cargo de las partes, se declarará desierta, salvo causa justificada, en cuyo caso se señalará nueva fecha y hora para su desahogo dentro de los diez días siguientes; para ello, deberá tomar las medidas conducentes y podrá hacer uso de las medidas de apremio que estime necesarias para lograr el desahogo de las pruebas admitidas y evitar la dilación del juicio, y
+
+III. El Tribunal deberá requerir a la persona que comparezca a desahogar la prueba correspondiente para que se identifique con cualquier documento oficial; y, si no lo hace en el momento de la audiencia, se le concederán tres días para ello, apercibiéndola de que en caso contrario se dejará sin efectos la declaración correspondiente.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 193 QUINQUIES.- Para la admisión y desahogo de pruebas se aplicarán las disposiciones contenidas en la Ley Federal del Trabajo, en tanto no contravengan lo dispuesto por el presente Estatuto.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTICULO 194.
 
-El Tribunal apreciará en conciencia las pruebas que se le presenten, sin sujetarse a reglas fijas para su estimación, y resolverá los asuntos a verdad sabida y buena fe guardada, debiendo expresar en su laudo las consideraciones en que funde su decisión.
+Al concluir el desahogo de las pruebas, se concederá el uso de la voz a las partes para que formulen de manera breve sus alegatos. Hecho lo anterior, el Tribunal declarará cerrada la etapa de juicio y se turnará el expediente para resolución.
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+La persona Magistrada apreciará en conciencia las pruebas admitidas y desahogadas sin sujetarse a reglas fijas para su estimación, y resolverá los asuntos a verdad sabida y buena fe guardada, debiendo expresar en su laudo las consideraciones en que funde su decisión.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ARTICULO 194 BIS.- Las sesiones en donde tenga verificativo la resolución de un asunto de su competencia, se sujetarán a las bases siguientes:
 
-I. Serán públicas, excepto cuando sus integrantes determinen que deban ser secretas por que estimen que se afecta la moral o el orden público;
+I. La persona Magistrada que presida el Tribunal abrirá la sesión;
 
-II. Abierta la sesión pública por el presidente, el secretario general de acuerdos verificará el quórum legal;
+II. La persona Magistrada ponente hará una síntesis del asunto a tratar y explicará las consideraciones que fundamentan el proyecto de resolución;
 
-III. Enseguida, el magistrado ponente hará una síntesis del asunto a tratar y explicará las consideraciones que fundamentan el proyecto de resolución;
+III. Las partes presentes procederán a analizar y, en su caso, a discutir el proyecto presentado. En su caso, se dará lectura a determinadas constancias cuando así lo requiera alguna de las personas presentes;
 
-IV. A continuación, los magistrados procederán a analizar y, en su caso, a discutir el proyecto presentado por el magistrado ponente. En su caso, se dará lectura a determinadas constancias cuando así lo requiera alguno de los magistrados;
+IV. Cuando quien presida estime suficientemente discutido el proyecto, lo someterá a votación. La o el Secretario General certificará la votación;
 
-V. Cuando el presidente de la Sala Superior estime suficientemente discutido el proyecto, lo someterá a votación. El secretario general de acuerdos certificará la votación;
+V. Quien disienta de la mayoría podrá formular observaciones o un voto particular, que se agregará a la resolución sí así lo solicita y lo presenta por escrito dentro de las cuarenta y ocho horas siguientes;
 
-VI. El magistrado que disienta de la mayoría podrá formular observaciones o un voto particular, que se agregará a la resolución sí así lo solicita y lo presenta por escrito dentro de las cuarenta y ocho horas siguientes;
+VI. Si el proyecto de la o el ponente no fuere aprobado, se designará a otro Magistrado o Magistrada para que redacte la resolución de nueva cuenta de acuerdo con los hechos probados y los fundamentos legales que se hayan tomado en consideración en la discusión, debiendo quedar firmado el engrose dentro de los cinco días siguientes;
 
-VII. Si el proyecto del magistrado ponente no fuere aprobado, se designará uno de los de la mayoría para que redacte la sentencia de acuerdo con los hechos probados y los fundamentos legales que se hayan tomado en consideración en la discusión, debiendo quedar firmado el engrose dentro de los cinco días siguientes;
+VII. Los asuntos se fallarán en el orden en que se enlisten;
 
-VIII. Los asuntos se fallarán en el orden en que se enlisten. Si no pudieren ser despachados en la audiencia todos los asuntos listados, los restantes figurarán en la lista siguiente en primer término, sin perjuicio de que la Sala Superior, en su caso, acuerde que se altere el orden de la lista, que se retire algún asunto, o que se aplace la vista del mismo, cuando exista causa justificada. El aplazamiento no podrá exceder de diez días;
+VIII. La o el Secretario General levantará el acta de cada sesión que contendrá una síntesis de los asuntos aprobados, y
 
-IX. El secretario general de acuerdos levantará el acta de cada sesión que contendrá una síntesis de los asuntos aprobados, y
+IX. Al día siguiente de la sesión, la o el Secretario General de Acuerdos publicará en los estrados la lista de los asuntos resueltos.
 
-X. Al día siguiente de la sesión, el secretario general de acuerdos publicará en los estrados la lista de los asuntos resueltos.
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 194 TER.- La falta de notificación de alguna o de todas las personas demandadas, obliga al Tribunal a señalar de oficio nuevo día y hora para la celebración de la audiencia, salvo que las partes concurran a la misma o cuando la persona actora se desista de las acciones intentadas en contra de las demandadas que no hayan sido notificadas.
+
+Las partes que comparezcan a la audiencia quedarán notificadas de la nueva fecha, las que fueron notificadas y no concurrieron, se les notificará por estrados del Tribunal; y las que no fueron notificadas se les hará personalmente.
 
 ###### ARTICULO 195.
 
@@ -2047,59 +2727,111 @@ Se tendrá por desistida de la acción y de la demanda intentada, a toda persona
 
 No operará la caducidad, aún cuando el término transcurra, por el desahogo de diligencias que deban practicarse fuera del local del Tribunal o por estar pendientes de recibirse informes o copias certificadas que hayan sido solicitadas.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTICULO 198.
 
-Los incidentes que se susciten con motivo de la personalidad de las partes o de sus representantes, de la competencia del Tribunal, del interés de tercero, de nulidad de actuaciones u otros motivos, serán resueltos de plano.
+Los incidentes que se interpongan con motivo de la personalidad de las partes o de sus representantes, de la competencia del Tribunal, del interés de tercera persona, de nulidad de actuaciones u otros motivos, se tramitarán como incidentes de previo y especial pronunciamiento y serán resueltos de plano.
+
+Las personas abogadas, litigantes o representantes que promuevan acciones, excepciones, incidentes, diligencias, ofrecimiento de pruebas, recursos y, en general toda actuación en forma notoriamente improcedente, con la finalidad de prolongar, dilatar u obstaculizar la sustanciación o resolución de un juicio laboral, se le impondrá una multa de 100 a 1000 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 198 BIS.- Cuando se promueva un incidente durante la celebración de una audiencia o diligencia, este se substanciará y resolverá de plano, oyendo brevemente a las partes, y se continuará el procedimiento de inmediato.
+
+Cuando se trate de incidentes de nulidad de notificaciones, competencia o acumulación, dentro de las veinticuatro horas siguientes se señalará día y hora para la audiencia incidental, en la cual se resolverá la cuestión planteada.
+
+Cuando en autos conste que una persona tuvo conocimiento efectivo de una resolución o actuación procesal, el Tribunal podrá considerar dicho conocimiento para valorar si existió o no afectación al derecho de defensa. No obstante, el incidente de nulidad no podrá desecharse de plano únicamente por esa circunstancia.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 198 TER.- En los procesos laborales que se encuentren en trámite ante el Tribunal, procede la acumulación de oficio o a instancia de parte en todos aquellos casos en que, por su propia naturaleza, las prestaciones reclamadas o los hechos que la motivaron puedan originar resoluciones contradictorias. Si se declara procedente la acumulación, el juicio o juicios más recientes se acumularán al más antiguo.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 199.
 
-La demanda, la citación para absolver posiciones, la declaratoria de caducidad, el laudo y los acuerdos por apercibimiento, se notificarán personalmente a las partes. Las demás notificaciones se harán por estrados. Todos los términos correrán a partir del día hábil siguiente a aquél en que se haga el emplazamiento, citación o notificación y se contará en ellos el día del vencimiento.
+Se notificará personalmente a las partes:
+
+I. La Demanda;
+
+II. La Citación para absolver posiciones;
+
+III. La Declaratoria de caducidad;
+
+IV. Los Laudos;
+
+V. Los Acuerdos con apercibimiento, y
+
+VI. Las demás notificaciones se harán por estrados.
+
+Todos los términos procesales comenzarán a contarse a partir del día hábil siguiente a aquel en que se haya practicado el emplazamiento, citación o notificación correspondiente, y se incluirá el día del vencimiento en el cómputo.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 199 BIS.- Las diligencias que no puedan practicarse en el lugar de residencia del Tribunal de Conciliación y Arbitraje del Estado, deberán de encomendarse por medio de exhorto a la autoridad laboral competente que corresponda, o a la autoridad más próxima al lugar en que deba practicarse dentro del territorio nacional.
+
+No se requiere la legalización de firmas de la autoridad que las expida. El Tribunal deberá expedir los exhortos y despachos al día siguiente de aquel en que surta sus efectos la resolución que los ordene.
+
+Cuando se demore el cumplimiento de un exhorto, a instancia de parte se recordará a la Autoridad exhortada. Si a pesar del recordatorio continúa la demora, el Tribunal exhortante lo pondrá en conocimiento de la o el superior inmediato de la persona exhortada.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 200.
 
-El Tribunal sancionará las faltas de respeto que se le cometan, ya sea por escrito o en cualquier otra forma. Las sanciones consistirán en amonestación o multa. Esta no excederá de cincuenta pesos tratándose de trabajadores ni de quinientos tratándose de titulares.
+Las faltas de respeto al Tribunal serán sancionadas con amonestación o con multa de quinientas a dos mil quinientas veces el valor diario de la Unidad de Medida y Actualización, conforme a lo dispuesto por la Ley Federal del Trabajo, en lo que resulte aplicable.
 
 ###### ARTICULO 201.
 
 El Tribunal de Conciliación y Arbitraje no podrá condenar el pago de costas.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 202.
 
-Los magistrados del Tribunal de Conciliación y Arbitraje sólo podrán excusarse o ser recusados con causa.
+Las personas Magistradas del Tribunal de Conciliación y Arbitraje solo podrán excusarse de conocer de un expediente, o ser recusadas, por causas legalmente justificadas.
 
-Son causas de excusa y recusación para los miembros del Tribunal de Conciliación y Arbitraje, las previstas en el Código de Procedimientos Penales de Coahuila y demás disposiciones jurídicas aplicables.
+Son causas de excusa y recusación las previstas en el Código Procesal Civil para el Estado de Coahuila de Zaragoza y en la Ley General de Responsabilidades Administrativas.
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+La excusa o recusación deberá promoverse por escrito, bajo protesta de decir verdad, dentro de las cuarenta y ocho horas siguientes a que se tenga conocimiento del impedimento. En el escrito deberán expresarse las causas invocadas y acompañarse las pruebas que las justifiquen.
 
-ARTICULO 202 BIS.- Las resoluciones serán tomadas por unanimidad o mayoría de votos de los magistrados, quienes no podrán abstenerse de votar sino por impedimento, excusa o recusación conforme a la ley de la materia, que previamente calificará la propia Sala Superior. En este caso, el presidente llamará al magistrado supernumerario que corresponda, para que supla la ausencia temporal del magistrado numerario de que se trate.
+Tratándose de una persona Magistrada, la recusación será resuelta por las personas Magistradas titulares que no se encuentren impedidas, quienes resolverán de plano con los elementos disponibles o podrán señalar día y hora para que comparezca la persona promovente, a fin de que sea oída y se reciban pruebas. La resolución se dictará de inmediato.
 
-Las resoluciones definitivas llevarán la firma de los magistrados presentes en la sesión y del secretario general de acuerdos de la Sala Superior. Los acuerdos de trámite y sustanciación llevarán sólo la firma del magistrado instructor y la del secretario general de acuerdos.
+Tratándose de otras personas integrantes del Tribunal, la recusación será resuelta por mayoría de votos de las personas Magistradas titulares.
 
-Los votos particulares y las observaciones por escrito deberán ser firmadas por el magistrado que los formule y, en su caso, formarán parte de la resolución que corresponda.
+El procedimiento no se suspenderá mientras se tramita la excusa o recusación, salvo que expresamente lo disponga la ley. La persona que promueva una excusa o recusación sin causa justificada podrá hacerse acreedora a las medidas disciplinarias previstas en este Estatuto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 202 BIS.- Las resoluciones serán tomadas por unanimidad o mayoría de votos de las personas Magistradas en funciones, quienes no podrán abstenerse de votar sino por impedimento, excusa o recusación conforme a la ley de la materia. En este caso, se llamará a la persona Magistrada Suplente que designe quien presida el Tribunal, para que conozca de los autos del expediente del cual se trate.
+
+Las resoluciones definitivas llevarán la firma de las personas Magistradas presentes en la sesión y de la o el Secretario General. Los acuerdos de trámite y sustanciación llevarán la firma del Magistrado o Magistrada instructora y la del o la Secretaria de Acuerdos.
+
+Los votos particulares y las observaciones por escrito deberán ser firmadas por la persona Magistrada que los formule y, en su caso, formarán parte de la resolución que corresponda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 203.
 
-Las resoluciones dictadas por el Tribunal de Conciliación y Arbitraje serán definitivas e inatacables y deberán ser cumplidas, desde luego, por las autoridades correspondientes.
+Las resoluciones dictadas por el Tribunal de Conciliación y Arbitraje serán definitivas e inatacables y deberán cumplirse por las autoridades correspondientes.
 
 Pronunciado el laudo, el Tribunal lo notificará a las partes.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTICULO 204.
 
-Las demás autoridades del Estado estarán obligadas a prestar auxilio al Tribunal de Conciliación y Arbitraje para hacer respetar sus resoluciones, cuando fueren requeridas para ello.
+Las autoridades del Estado deberán prestar auxilio al Tribunal para la ejecución de sus resoluciones, cuando sean requeridas.
 
-### CAPITULO III.
+### CAPITULO II.
 
-EJECUCION DE LAUDOS.
+MEDIOS DE APREMIO.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 205.
 
-El Tribunal, para hacer cumplir sus determinaciones, podrá imponer multas hasta de quince veces el salario mínimo vigente en la Capital del Estado.
+El Tribunal, para hacer cumplir sus determinaciones, podrá imponer multas hasta de cien a mil veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 12 DE MARZO DE 1991)</small>
 
@@ -2107,55 +2839,79 @@ El Tribunal, para hacer cumplir sus determinaciones, podrá imponer multas hasta
 
 Las multas se harán efectivas por la Secretaría de Finanzas del Estado, para lo cual girará el oficio correspondiente. La Secretaría informará al Tribunal de haber hecho efectiva la multa, señalando los datos relativos que acrediten su cobro.
 
+### CAPITULO III.
+
+EJECUCION DE LAUDOS.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+###### ARTICULO 207.
+
+La ejecución de los laudos firmes corresponderá al Tribunal, el cual podrá dictar las medidas necesarias para hacer cumplir sus resoluciones, incluso mediante el auxilio de la fuerza pública, si fuera necesario.
+
+Tratándose de laudos o resoluciones que requieran ser ejecutadas vía exhorto, rogatorias, suplicatorias, requisitorias y despachos, los tribunales y personas juzgadoras del Poder Judicial del Estado, están obligadas a prestar el auxilio que sea necesario para su cumplimiento.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+###### ARTICULO 208.
+
+Cuando se pida la ejecución de un laudo, el Tribunal a través de la persona Magistrada ponente despachará el acto de ejecución y comisionará a una persona actuaria para que se constituya en el domicilio de la parte demandada y la requiera para que cumpla la resolución, apercibiéndola que, de no hacerlo, se procederá conforme a lo dispuesto en el presente Estatuto.
+
 ### CAPITULO IV.
 
 CORRECCIONES DISCIPLINARIAS Y SANCIONES.
 
-###### ARTICULO 207.
-
-El Tribunal de Conciliación y Arbitraje tiene la obligación de prever a la eficaz e inmediata ejecución de los laudos y, a ese efecto, dictará todas las medidas necesarias en la forma y términos que a su juicio sean procedentes.
-
-Tratándose de laudos o resoluciones que requieran ser ejecutados vía exhorto, rogatorias, suplicatorias, requisitorias y despachos, los tribunales y jueces del Poder Judicial del Estado, están obligados a prestar el auxilio que sea necesario para su cumplimiento.
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
-
-###### ARTICULO 208.
-
-Cuando se pida la ejecución de un laudo, el Tribunal a través de la Sala a la que corresponda el conocimiento del asunto, despachará el auto de ejecución y comisionará a un actuario para que se constituya en el domicilio de la demandada y la requiera para que cumpla la resolución apercibiéndola de que de no hacerlo, se procederá conforme a lo dispuesto en el capítulo anterior.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 209.
 
-El Tribunal de Conciliación y Arbitraje impondrá correcciones disciplinarias:
+El Tribunal de Conciliación y Arbitraje impondrá correcciones disciplinarias a las partes y a las personas particulares que falten al respeto y al orden debidos durante las actuaciones del Tribunal.
 
-a).- A las partes y a los particulares que faltaren al respeto y al orden debidos durante las actuaciones del Tribunal; y
-
-b).- A los empleados del propio tribunal, por las faltas que cometan en el desempeño de sus funciones.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 210.
 
-Las correcciones a que alude el artículo anterior serán:
+Son correcciones disciplinarias:
 
-I.- Amonestaciones;
+I. Amonestación verbal o por escrito;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1991)</small>
+II. Multa que no podrá exceder de quince veces el valor diario de la Unidad de Medida y Actualización vigente, y
 
-II.- Multa que no podrá exceder de quince veces de salario mínimo vigente en la Capital del Estado;
+III. Expulsión de la audiencia.
 
-III.- Suspensión del empleo con privación de sueldos hasta por tres días.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 211.
 
-Las correcciones disciplinarias se impondrán oyendo al interesado y tomando en cuenta las circunstancias en que tuvo lugar la falta cometida.
+Las correcciones disciplinarias se impondrán escuchando al interesado y tomando en cuenta las circunstancias en que tuvo lugar la falta cometida, debiendo quedar constancia en autos.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 1991)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 212.
 
-Las infracciones al presente Estatuto que no tengan establecidas otra sanción, se castigarán con multas hasta de cinco días de salario mínimo vigente en la Capital del Estado.
+Las infracciones al presente Estatuto que no tengan establecidas otra sanción, se castigarán con multas hasta de cinco veces el valor diario de la Unidad de Medida y Actualización vigente en la Capital del Estado.
 
 ###### ARTICULO 213.
 
 Las sanciones serán impuestas por el Tribunal de Conciliación y Arbitraje.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO V. PROCEDIMIENTOS PARAPROCESALES O VOLUNTARIOS
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+###### ARTICULO 214.
+
+Se tramitarán conforme a las disposiciones de este Estatuto, todos aquellos asuntos que, por mandato de la ley, por su naturaleza o a solicitud de parte interesada, requieran la intervención del Tribunal, sin que esté promovido conflicto alguno entre partes determinadas. Dichos procedimientos se tramitarán conforme a la Ley Federal del Trabajo.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+###### ARTICULO 215.
+
+Cuando las personas trabajadoras y patronas lleguen a un convenio o liquidación de una persona trabajadora, fuera de juicio, podrán concurrir ante el Tribunal de Conciliación y Arbitraje solicitando su aprobación y ratificación.
+
+Todo convenio o liquidación deberá constar por escrito y contener una relación circunstanciada de los hechos que le den origen, así como de los derechos que en él se reconozcan. Para que tenga validez, deberá ser ratificado ante el Tribunal competente, el cual lo aprobará y certificará su eficacia como cosa juzgada, siempre que no implique renuncia de los derechos de las personas trabajadoras.
 
 ## TRANSITORIOS.
 
@@ -2390,3 +3146,81 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Las instituciones a que hace referencia contarán con 180 días a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones correspondientes a sus reglamentaciones internas.
+
+P.O. 5 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 328.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Tribunal de Conciliación y Arbitraje que actualmente forma parte del Poder Judicial del Estado, dejará de ejercer funciones jurisdiccionales a partir de la fecha en que inicien funciones las personas Magistradas que integrarán el nuevo Tribunal de Conciliación y Arbitraje previsto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos humanos, materiales y financieros, así como los expedientes y demás asuntos jurisdiccionales en trámite ante el Tribunal de Conciliación y Arbitraje del Poder Judicial del Estado, serán transferidos al nuevo Tribunal de Conciliación y Arbitraje adscrito al Poder Ejecutivo.
+
+###### ARTÍCULO CUARTO.
+
+Hasta en tanto no se emita la legislación en materia laboral aplicable al Poder Judicial y sus trabajadores y trabajadoras, continuará siendo aplicable a estos, el Estatuto Jurídico para los Trabajadores al Servicio del Estado de Coahuila, en lo que no contravenga a la Constitución Política del Estado de Coahuila de Zaragoza y la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos que a la fecha de entrada en vigor de esta reforma se encuentren en trámite ante el Tribunal de Conciliación y Arbitraje del Poder Judicial del Estado, continuarán tramitándose hasta su conclusión por el Tribunal de Conciliación y Arbitraje adscrito al Poder Ejecutivo, conforme a las disposiciones vigentes al momento de su inicio.
+
+###### ARTÍCULO SEXTO.
+
+El Pleno del Tribunal de Conciliación y Arbitraje adscrito al Poder Ejecutivo, podrá acordar la suspensión de términos, plazos y demás medidas que resulten necesarias, para el debido cumplimiento del presente transitorio.
+
+###### ARTÍCULO SÉPTIMO.
+
+Para efectos de lo dispuesto en este Decreto, el Poder Ejecutivo del Estado a través de la Secretaría de Gobierno, de la Secretaría de Finanzas, de la Secretaría de Fiscalización y Rendición de Cuentas y el Poder Judicial del Estado, deberán coordinar y supervisar el proceso de transición, entrega-recepción y la transferencia ordenada de los recursos humanos, materiales y financieros necesarios para el adecuado funcionamiento del nuevo Tribunal, así como los asuntos en trámite, garantizando la continuidad operativa y administrativa del servicio de justicia laboral, entre el Tribunal de Conciliación y Arbitraje del Poder Judicial y el Tribunal de Conciliación y Arbitraje adscrito al Poder Ejecutivo.
+
+###### ARTÍCULO OCTAVO.
+
+Una vez que las personas Magistradas integrantes del Tribunal de Conciliación y Arbitraje tomen protesta del cargo, deberán sesionar para que se instale formalmente el Pleno y tomen los acuerdos para la integración de las Salas y emitan las disposiciones reglamentarias y lineamientos necesarios para el funcionamiento del Tribunal.
+
+###### ARTÍCULO NOVENO.
+
+El Tribunal de Conciliación y Arbitraje adscrito al Poder Ejecutivo, dentro de un plazo de noventa días naturales contados a partir de la fecha de instalación del Pleno de dicho Tribunal, deberán emitir su Reglamento Interior.
+
+###### ARTÍCULO DÉCIMO.
+
+Las menciones y atribuciones que se hagan o confieran en otras disposiciones al Tribunal de Conciliación y Arbitraje del Poder Judicial del Estado, se entenderán hechas al Tribunal de Conciliación y Arbitraje del Estado de Coahuila de Zaragoza adscrito al Poder Ejecutivo.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los derechos laborales de las personas servidoras públicas que integren el Tribunal de Conciliación y Arbitraje del Estado de Coahuila de Zaragoza se respetarán en su totalidad, conforme a la legislación aplicable.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Para el procedimiento relativo a la designación de la primera integración del Tribunal de Conciliación y Arbitraje, el Ejecutivo del Estado deberá emitir una convocatoria pública observando las disposiciones a que se refiere el artículo 171 BIS.
+
+Por única ocasión, las personas Magistradas designadas, durarán en el cargo de la forma siguiente:
+
+Magistradas y Magistrados titulares:
+
+I. La primera persona designada: cinco años;
+
+II. La segunda persona designada: seis años, y
+
+III. La tercera persona designada: siete años.
+
+Magistradas y Magistrados suplentes:
+
+I. La primera persona designada: seis años, y
+
+II. La segunda persona designada: siete años.
+
+El Congreso del Estado deberá observar los criterios de paridad de género para la integración del Tribunal.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+El Congreso del Estado, en un plazo de ciento ochenta días, deberá realizar las adecuaciones a los ordenamientos legales que resulten necesarios.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
