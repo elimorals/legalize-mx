@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2025-10-31"
+last_updated: "2025-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2025.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 31 DE OCTUBRE DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2025.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -1165,11 +1163,9 @@ Cuando un solo hecho pueda ser considerado en dos figuras delictivas distintas y
 
 Cuando el responsable de un delito doloso sea miembro de alguna corporación policial pública o de seguridad privada, la sanción impuesta se aumentará hasta en una mitad más; además de imponérsele la destitución e inhabilitación para ejercer empleo, cargo o comisión de la misma naturaleza de manera permanente, cuando así proceda.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
-
-El supuesto previsto en el párrafo anterior será aplicable a quien habiendo sido miembro de una corporación policial o de seguridad privada, dentro de los cinco años posteriores a la separación del cargo, cometa alguno de los siguientes delitos: contra el orden constitucional del Estado y su integridad territorial previsto en el artículo 159; conspiración relacionado con el artículo 160; rebelión contemplado en los artículos 161, 162, 163 y 165; sedición y otros desórdenes públicos con relación a los numerales 170 y 173; terrorismo de conformidad con el artículo 174; evasión de presos referido en los artículos 175, 177 y 181; armas prohibidas concerniente a lo dispuesto en el numeral 186; asociaciones delictuosas relativo a los numerales 187, 188, 189 y 190; el previsto en el artículo 216; corrupción y prostitución de menores e incapaces con relación a los artículos 230, 231, 232 y 233; lenocinio previsto en el artículo 234; revelación de secretos relativo a los numerales 239 y 240; ejercicio indebido de funciones tocante al artículo 242; cohecho contemplado en el artículo 247; falsedad en declaraciones judiciales y en informes dados a una autoridad contemplado en el artículo 281; usurpación de funciones públicas o de profesión referido en el artículo 285; uso indebido de condecoraciones, insignias, distintivos o uniformes de conformidad con lo que establece el artículo 286; violación mencionado en el artículo 293; sustracción y tráfico de menores concerniente al artículo 301; amenazas relacionado con los artículos 316, 317 y 318; chantaje previsto en el artículo 319; allanamiento de morada, oficina o establecimiento mercantil contemplado en el artículo 320; asalto en referencia a los artículos 321 y 322; privación de la libertad personal de conformidad con el artículo 323; extorsión previsto en el artículo 328; desaparición forzada de personas mencionado en el artículo 329; homicidio de conformidad con el numeral 353, 357, 361 y feminicidio previsto en los artículos 361 Bis y 361 Ter.
+El supuesto previsto en el párrafo anterior será aplicable a quien habiendo sido miembro de una corporación policial o de seguridad privada, dentro de los cinco años posteriores a la separación del cargo, cometa alguno de los siguientes delitos: contra el orden constitucional del Estado y su integridad territorial previsto en el artículo 159; conspiración relacionado con el artículo 160; rebelión contemplado en los artículos 161, 162, 163 y 165; sedición y otros desórdenes públicos con relación a los numerales 170 y 173; terrorismo de conformidad con el artículo 174; evasión de presos referido en los artículos 175, 177 y 181; armas prohibidas concerniente a lo dispuesto en el numeral 186; asociaciones delictuosas relativo a los numerales 187, 188, 189 y 190; el previsto en el artículo 216; corrupción y prostitución de menores e incapaces con relación a los artículos 230, 231, 232 y 233; lenocinio previsto en el artículo 234; revelación de secretos relativo a los numerales 239 y 240; ejercicio indebido de funciones tocante al artículo 242; cohecho contemplado en el artículo 247; falsedad en declaraciones judiciales y en informes dados a una autoridad contemplado en el artículo 281; usurpación de funciones públicas o de profesión referido en el artículo 285; uso indebido de condecoraciones, insignias, distintivos o uniformes de conformidad con lo que establece el artículo 286; violación mencionado en el artículo 293; sustracción y tráfico de menores concerniente al artículo 301; amenazas relacionado con los artículos 316, 317 y 318; chantaje previsto en el artículo 319; allanamiento de morada, oficina o establecimiento mercantil contemplado en el artículo 320; asalto en referencia a los artículos 321 y 322; privación de la libertad personal de conformidad con el artículo 323; desaparición forzada de personas mencionado en el artículo 329; homicidio de conformidad con el numeral 353, 357, 361 y feminicidio previsto en los artículos 361 Bis y 361 Ter.
 
 ### CAPÍTULO II. APLICACIÓN DE SANCIONES A LOS DELITOS CULPOSOS
 
@@ -3727,57 +3723,159 @@ III. La persona se valga de la homonimia, parecido físico o similitud de la voz
 
 Las sanciones previstas en este artículo, se impondrán con independencia de las que correspondan por la comisión de otro u otros delitos.
 
-### CAPÍTULO VII. EXTORSIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+### CAPÍTULO VII. DEL DELITO DE EXTORSIÓN, SUS SANCIONES Y AGRAVANTES
 
-###### ARTICULO 328.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
-Comete el delito de extorsión, el que sin derecho obligue a otro a dar, a hacer, a tolerar o dejar de hacer algo, obteniendo un lucro o beneficio para sí o para otro; también comete el delito de extorsión quien mediante la violencia física o moral exija de otro la entrega, envío o depósito para sí o para un tercero, de cosas, dinero o documentos.
+###### ARTÍCULO 328.
 
-El mismo delito cometerá quien, exija a otro mediante coacción la suscripción, destrucción o entrega de documentos que contengan obligaciones o créditos.
+A quien, sin derecho, obligue a otro a dar, hacer, dejar de hacer o tolerar algo, obteniendo un beneficio o lucro para sí o para otro o causando a alguien un daño o perjuicio patrimonial, moral, físico o psicológico, se le impondrán de quince a veinticinco años de prisión y una multa de trescientas a quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
-Al responsable del delito de extorsión se le aplicará la pena de prisión de 10 a 20 años y multa de quinientos a mil días de unidades de medidas de actualización en cualquiera de los supuestos.
-
-El tipo penal descrito anteriormente será perseguido de oficio.
-
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 328 Bis.
 
-La pena prevista en el artículo anterior se aumentará hasta en una mitad cuando se actualice cualquiera de los siguientes supuestos:
+Las penas previstas en el artículo anterior se aumentarán de cuatro a ocho años de prisión, cuando en la comisión del delito de extorsión, se presente alguna de las circunstancias siguientes:
 
-I. Intervengan dos o más personas.
+I. El sujeto activo manifieste su pretensión de obtener un beneficio en especie, dinero o bienes, por concepto del cobro de cuotas o prestaciones de cualquier índole, adicionales a los conseguidos originalmente por el ilícito;
 
-II. Se cometa en contra de una persona menor de edad, persona mayor de sesenta años, persona con alguna discapacidad, migrante, indígena o mujer en estado de gravidez.
+II. Se cometa en contra de quien realice actividades comerciales, empresariales, industriales, agrícolas, ganaderas, pesqueras, de servicios públicos o privados;
 
-III. Si se utiliza como medio comisivo la vía telefónica, el correo electrónico o cualquier otro medio de comunicación electrónica.
+III. El sujeto activo por sí o en representación de un sindicato, agrupación o asociación, sea real o simulada, coaccione a la víctima para que contrate, obtenga o adquiera de otra persona, ya sea física o moral, bienes, insumos o servicios para el desarrollo de su actividad comercial. Esta agravante se consuma con independencia de que se concrete el acto de comercio coaccionado;
 
-IV. Cuando el sujeto activo del delito se encuentre privado de su libertad en un Centro Penitenciario Estatal o Federal, a disposición de cualquier autoridad.
+IV. Se le imponga a la víctima el precio de los productos, bienes o servicios que comercializa;
 
-V. Cuando el sujeto activo del delito se ostente como integrante de una corporación policiaca, de seguridad pública o privada o de las fuerzas armadas.
+V. Se obligue por cualquier medio a la víctima a celebrar un acto jurídico, independientemente de su objeto;
 
-VI. Cuando el sujeto activo del delito se ostente como servidor público, en cualquier ámbito de gobierno.
+VI. Se exija que el beneficio económico o lucro indebido, sea depositado o transferido mediante el uso del sistema bancario o financiero mexicano o de cualquier otro país, sin importar la denominación de moneda, divisa o activos virtuales, que se utilice;
 
-VII. Cuando el sujeto activo del delito tenga alguna relación de confianza, laboral, parentesco o de negocios con la víctima o con sus familiares.
+VII. Cuando para lograr los fines de la extorsión se empleé a un tercero sin que tenga conocimiento del hecho delictivo;
 
-VIII. Cuando el sujeto activo del delito se ostente, por cualquier medio, como integrante de una asociación delictuosa o grupo criminal, real o ficticio.
+VIII. Cuando se utilice a dependencias o entidades de la Administración Pública Federal, estatal o municipal, sindicatos, asociaciones, cámaras empresariales, organizaciones civiles, ganaderas, del ramo de la construcción y demás instituciones u organismos, indebidamente, para coaccionar, amedrentar o presionar para realizar prácticas que no permita el libre consumo de los bienes o servicios necesarios para su desarrollo;
 
-IX. Participen servidores públicos o trabajadores de instituciones privadas que tengan acceso a bancos de datos personales y que los utilicen o los sustraigan para sí o para terceros, con el objeto de cometer el delito de extorsión en cualquiera de sus modalidades. En caso de ser servidor público, se hará la destitución del empleo, cargo o comisión, así como la inhabilitación de diez a quince años para desempeñar cualquier cargo como servidor público.
+IX. La conducta sea cometida en contra de alguna persona candidata a un cargo de elección popular o cuando sea electa, o
 
-X. Cuando se utilicen a personas menores de edad o personas que no tengan la capacidad de comprender el hecho.
+X. Cuando se requiera la entrega de una cantidad de dinero o un beneficio en especie para sí o para un tercero, por encontrarse alguien en un supuesto riesgo, peligro inminente o procedimiento legal.
 
-XI. Cuando se cometa contra comerciantes, empresarios campesinos, ejidatarios, comuneros o empleados de estos.
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
-Cuando el responsable del delito sea miembro de alguna corporación policial pública o de seguridad privada, se estará además a lo dispuesto por el artículo 95 de este Código.
+###### ARTÍCULO 328 Ter.
 
-Si se tratare de un miembro de las fuerzas armadas mexicanas en situación de retiro, además de lo anterior, se dará aviso e intervención mediante el desglose respectivo que lleve a cabo la autoridad investigadora, a la institución armada a que pertenezca el imputado para los efectos legales respectivos.
+Además de las penas señaladas en el artículo 328 del presente Código, se aumentará la pena de cinco a doce años de prisión, cuando en la comisión del delito de extorsión se presente alguna de las circunstancias siguientes:
+
+I. Se cometa en contra de una o varias personas migrantes, cualquiera que sea su condición migratoria;
+
+II. Se cometa en contra de persona menor de 18 años, en estado de embarazo o mayor de sesenta años de edad;
+
+III. El sujeto activo tenga alguna relación de confianza, laboral, de parentesco o de negocios con el sujeto pasivo o con quien éste último esté ligado;
+
+IV. El sujeto activo utilice información privada de la víctima o de sus familiares, como datos personales, imágenes, audios, textos o videos, ya sean reales, manipulados o alterados, para coaccionarla;
+
+V. Se utilicen dispositivos, medios, servicios o plataformas a través de los cuales se pueda realizar la emisión, transmisión o recepción de signos, señales, escritos, imágenes, voz, datos, sonidos o información de cualquier naturaleza que se efectué a través de hilos, radioelectricidad, medios ópticos, físicos, sistemas electromagnéticos o cualquier otro medio electrónico;
+
+VI. Cuando se utilice a un tercero para recibir alguna cantidad de dinero o un beneficio en especie derivado de la extorsión;
+
+VII. Por cualquier medio señale tener privada de la libertad a una persona, sin estarlo, y exija el pago de una determinada cantidad de dinero o beneficio en especie para su supuesta liberación, o
+
+VIII. Cuando para lograr los fines de la extorsión, se empleen acciones fraudulentas, actos ilícitos o actos cuya finalidad sea ilícita.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+###### ARTÍCULO 328 Quater.
+
+Además de las penas señaladas en el artículo 328 del presente Código, se aumentará la pena de siete a diecisiete años de prisión, cuando en la comisión del delito de extorsión se presente alguna de las circunstancias siguientes:
+
+I. Se emplee violencia física;
+
+II. Se emplee violencia física o moral para exigir el cobro de un daño, derivado de un hecho de tránsito provocado de manera intencional, independientemente de que se haya o no obtenido el lucro o beneficio derivado de esta acción;
+
+III. El sujeto activo utilice violencia física, moral o psicológica para exigir el cobro de un daño ocurrido en algún objeto de su propiedad, derivado de un supuesto accidente cualquiera que este sea, pero provocado de manera intencional, independientemente de que se haya o no obtenido el lucro o beneficio derivado de esta acción;
+
+IV. Se realice mediante el uso de una o más armas o instrumentos peligrosos u otro objeto de apariencia, forma o configuración de armas de fuego;
+
+V. El agente se ostente por cualquier medio como miembro de algún grupo vinculado a la delincuencia, asociación delictuosa o pandilla, con independencia de que esto sea real o simulado;
+
+VI. Se empleé cualquier medio para tratar de impedir que la víctima denuncie la conducta extorsiva;
+
+VII. Cuando tenga por objeto o resultado obstaculizar, restringir, impedir, anular o menoscabar el ejercicio del derecho a la libertad de expresión o la defensa de los derechos humanos;
+
+VIII. El sujeto activo sea o simule ser empleado de una institución o entidad financiera, de gobierno, o de alguna empresa estatal o privada, con el ánimo de utilizar u obtener los datos personales o financieros de la víctima;
+
+IX. Se cometa por persona servidora o exservidora pública de cualquier nivel de gobierno o un elemento que sea miembro o ex miembro de una empresa de seguridad privada;
+
+X. El sujeto activo se encuentre privado de su libertad en un centro penitenciario a disposición de cualquier autoridad, independientemente de su situación procesal;
+
+XI. Se afecte de manera directa la economía de alguna comunidad;
+
+XII. Cuando el beneficio obtenido o que se pretenda obtener del delito de extorsión, provenga del erario;
+
+XIII. Cuando se utilicen o empleen personas menores de edad;
+
+XIV. Se cometa en contra de cualquier persona servidora pública en razón de su empleo, cargo o comisión público;
+
+XV. Cuando intervengan dos o más personas;
+
+XVI. El sujeto activo porte vestimentas o instrumentos de identificación, de los utilizados por integrantes de Instituciones de Seguridad Pública, o
+
+XVII. Se realice ocasionando daños en las instalaciones de comercios, negocios o bienes en propiedad o posesión de la víctima.
+
+A la persona servidora pública que participe en la comisión del delito previsto en el presente Capítulo, además de las penas a que refiere el presente Código, se le impondrá la destitución del empleo, cargo o comisión públicos, e inhabilitación para desempeñar algún empleo, cargo o comisión públicos hasta por un plazo igual al de la pena de prisión impuesta, la cual comenzará a computarse a partir de que se haya cumplido la pena privativa de libertad.
+
+Las penas previstas en el presente Capitulo se impondrán, independientemente de las que correspondan por la comisión de otros delitos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO VII BIS. DE LOS DELITOS VINCULADOS AL DELITO DE EXTORSIÓN
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+###### ARTÍCULO 328 Quinquies.
+
+A quien dolosamente preste auxilio o cooperación al autor de cualquiera de las conductas previstas en el Capítulo que antecede se le impondrá una pena de cuatro a doce años de prisión y multa de sesenta a trescientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+###### ARTÍCULO 328 Sexies.
+
+Se aplicará pena de cuatro a dieciséis años de prisión y multa de quinientas a cuatro mil veces el valor diario de la Unidad de Medida y Actualización a la persona servidora pública que ilícitamente o sin motivo fundado:
+
+I. Divulgue información reservada o confidencial contenida en las carpetas de investigación relacionadas con las conductas sancionadas por este Código, o
+
+II. Revele actos o técnicas aplicadas a la investigación o persecución de las conductas previstas en el presente Código.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+###### ARTÍCULO 328 Septies.
+
+Se aplicará pena de diez a veinte años de prisión y multa de doscientas a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización a la persona servidora pública que, teniendo atribuciones en materia de prevención, investigación y persecución de los delitos, así como de procuración o impartición de justicia o de vigilancia y custodia en los centros penitenciarios, se abstenga de denunciar ante el Ministerio Público o en caso de urgencia ante la Policía, la comisión de cualquiera de los delitos de extorsión y derivados previstos en este Código, en los términos de lo previsto por el párrafo segundo del artículo 222 del Código Nacional de Procedimientos Penales.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+###### ARTÍCULO 328 Octies.
+
+Cuando derivado de la comisión de los delitos en materia de extorsión y otros delitos vinculados, previstos en el presente Código, el sujeto activo espontáneamente se desistiere de la obtención del beneficio o lucro exigido dentro de los tres días siguientes a la exigencia realizada, y sin que se haya presentado alguna de las circunstancias agravantes del delito, la pena disminuirá hasta en una mitad.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+###### ARTÍCULO 328 Nonies.
+
+A quien, sin la autorización correspondiente, introduzca o intente introducir a un centro de readaptación social, establecimiento penitenciario o centro de internamiento para menores, cualquiera que sea su denominación, algún dispositivo electrónico o sus componentes que permita la transmisión de datos, voz, geolocalización o imágenes mediante telefonía fija o móvil, radiofrecuencia, satelital, Internet o tecnología análoga, se le impondrá una pena de seis a doce años de prisión y multa de ciento veinte a doscientas cuarenta veces el valor diario de la Unidad de Medida y Actualización.
+
+Las penas previstas en el párrafo anterior se aumentarán hasta en una mitad, tratándose de una persona servidora pública o defensora. A las personas servidoras públicas, además, se les impondrá la destitución del empleo, cargo o comisión públicos, e inhabilitación para desempeñar algún empleo, cargo o comisión públicos hasta por un plazo igual al de la pena de prisión impuesta, el cual comenzará a computarse a partir de que se haya cumplido la pena privativa de libertad.
+
+A la persona privada de su libertad en un centro de readaptación social, establecimiento penitenciario o centro de internamiento para menores, cualquiera que sea su denominación, que posea algún dispositivo electrónico con las características señaladas en el primer párrafo del presente artículo, se le impondrá una pena de tres a ocho años de prisión y multa de dos mil a cinco mil veces el valor diario de la Unidad de Medida y Actualización, aumentada hasta en una tercera parte.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+###### ARTÍCULO 328 Decies.
+
+Se impondrá la pena prevista en el artículo 328 del presente Código incrementada de tres a cinco años de prisión, a la persona servidora pública o autoridad penitenciaria que facilite los medios o permita las condiciones para la comisión de los delitos previstos en este ordenamiento.
 
 ### CAPÍTULO VIII. DESAPARICIÓN FORZADA DE PERSONAS
 
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
-
-### CAPÍTULO I. GOLPES SIMPLES
 
 ###### ARTÍCULO 329.
 
@@ -3807,7 +3905,7 @@ Los términos para la prescripción previstos en este Código, respecto del deli
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-### CAPÍTULO II. INJURIAS
+### CAPÍTULO I. GOLPES SIMPLES
 
 ###### ARTÍCULO 330.
 
@@ -3819,7 +3917,7 @@ Los términos para la prescripción previstos en este Código, respecto del deli
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-### CAPÍTULO III. DIFAMACIÓN
+### CAPÍTULO II. INJURIAS
 
 ###### ARTÍCULO 332.
 
@@ -3827,7 +3925,7 @@ Los términos para la prescripción previstos en este Código, respecto del deli
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-### CAPÍTULO IV. CALUMNIA
+### CAPÍTULO III. DIFAMACIÓN
 
 ###### ARTÍCULO 333.
 
@@ -3839,7 +3937,7 @@ Los términos para la prescripción previstos en este Código, respecto del deli
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-### CAPÍTULO V. DISPOSICIONES COMUNES A LAS INJURIAS, DIFAMACIÓN Y CALUMNIAS
+### CAPÍTULO IV. CALUMNIA
 
 ###### ARTÍCULO 335.
 
@@ -3851,7 +3949,7 @@ Los términos para la prescripción previstos en este Código, respecto del deli
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-### CAPÍTULO I. LESIONES
+### CAPÍTULO V. DISPOSICIONES COMUNES A LAS INJURIAS, DIFAMACIÓN Y CALUMNIAS
 
 ###### ARTÍCULO 337.
 
@@ -3875,39 +3973,7 @@ Los términos para la prescripción previstos en este Código, respecto del deli
 
 ## TÍTULO DÉCIMO OCTAVO. DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
 
-### CAPÍTULO I BIS. LESIONES POR ATAQUES CON ÁCIDO, SUSTANCIAS QUÍMICAS O CORROSIVAS
-
-> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2024)</small>
-
-ARTÍCULO 352 BIS.- Quien por sí o por interpósita persona, cause dolosamente a otra, lesiones externas o internas utilizando para ello una sustancia química, corrosiva, tóxica, inflamable, incluyendo álcalis, ácidos, irritantes, líquidos a altas temperaturas o cualquier otra sustancia que por sí misma o en las condiciones utilizadas, provoque lesiones ya sean internas, externas o ambas, se le impondrá pena de cuatro a doce años de prisión y multa de cien a trescientas Unidades de Medida y Actualización.
-
-Las mismas penas se impondrán a quien o quienes participen de manera directa en la ejecución de los supuestos descritos en el párrafo anterior, atendiendo las circunstancias de cada caso.
-
-Las penas previstas en el presente artículo serán de siete a quince años de prisión, cuando derivado de las lesiones:
-
-I. Se cause a la víctima deformidad o daño permanente en el rostro;
-
-II. Se entorpezca o debilite permanentemente una extremidad o un órgano del cuerpo de la víctima;
-
-III. Se pierda permanentemente la vista, el habla o el oído de la víctima, o
-
-IV. Se incapacite de manera permanente a la víctima para realizar actividades laborales.
-
-> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2024)</small>
-
-ARTÍCULO 352 TER.- Cuando las lesiones previstas en el artículo 352 Bis sean cometidas en contra de una mujer en razón de su género, las penas serán de siete a quince años. Se considera que existen razones de género para los efectos de este delito, cuando se acredite alguna de las circunstancias siguientes:
-
-I. Si entre el sujeto activo y la víctima existe o haya existido una relación sentimental, sexual, afectiva o de confianza;
-
-II. Si entre el sujeto activo y la víctima existe o haya existido una relación laboral, docente, institucional, de servicio o cualquier otra que implique una relación de subordinación o superioridad;
-
-III. Si entre el sujeto activo y la víctima existe parentesco por consanguineidad o afinidad;
-
-IV. Que previo a las lesiones, existan antecedentes de violencia, amenazas, hostigamiento o acoso sexual o agresión en el ámbito familiar, laboral o docente en contra de la víctima;
-
-V. Cuando se cometa en contra de una mujer transexual o transgénero, o
-
-VI. Cuando las lesiones sean cometidas en la víctima por razones de su orientación sexual, identidad o expresión de género.
+### CAPÍTULO I. LESIONES
 
 ###### ARTÍCULO 342.
 
@@ -3989,9 +4055,41 @@ De las lesiones que a una persona cause algún animal bravío, será responsable
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE MAYO DE 2024)</small>
 
-### CAPÍTULO II. HOMICIDIO
+### CAPÍTULO I BIS. LESIONES POR ATAQUES CON ÁCIDO, SUSTANCIAS QUÍMICAS O CORROSIVAS
 
-### CAPÍTULO III. REGLAS COMUNES PARA LESIONES Y HOMICIDIOS
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2024)</small>
+
+ARTÍCULO 352 BIS.- Quien por sí o por interpósita persona, cause dolosamente a otra, lesiones externas o internas utilizando para ello una sustancia química, corrosiva, tóxica, inflamable, incluyendo álcalis, ácidos, irritantes, líquidos a altas temperaturas o cualquier otra sustancia que por sí misma o en las condiciones utilizadas, provoque lesiones ya sean internas, externas o ambas, se le impondrá pena de cuatro a doce años de prisión y multa de cien a trescientas Unidades de Medida y Actualización.
+
+Las mismas penas se impondrán a quien o quienes participen de manera directa en la ejecución de los supuestos descritos en el párrafo anterior, atendiendo las circunstancias de cada caso.
+
+Las penas previstas en el presente artículo serán de siete a quince años de prisión, cuando derivado de las lesiones:
+
+I. Se cause a la víctima deformidad o daño permanente en el rostro;
+
+II. Se entorpezca o debilite permanentemente una extremidad o un órgano del cuerpo de la víctima;
+
+III. Se pierda permanentemente la vista, el habla o el oído de la víctima, o
+
+IV. Se incapacite de manera permanente a la víctima para realizar actividades laborales.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2024)</small>
+
+ARTÍCULO 352 TER.- Cuando las lesiones previstas en el artículo 352 Bis sean cometidas en contra de una mujer en razón de su género, las penas serán de siete a quince años. Se considera que existen razones de género para los efectos de este delito, cuando se acredite alguna de las circunstancias siguientes:
+
+I. Si entre el sujeto activo y la víctima existe o haya existido una relación sentimental, sexual, afectiva o de confianza;
+
+II. Si entre el sujeto activo y la víctima existe o haya existido una relación laboral, docente, institucional, de servicio o cualquier otra que implique una relación de subordinación o superioridad;
+
+III. Si entre el sujeto activo y la víctima existe parentesco por consanguineidad o afinidad;
+
+IV. Que previo a las lesiones, existan antecedentes de violencia, amenazas, hostigamiento o acoso sexual o agresión en el ámbito familiar, laboral o docente en contra de la víctima;
+
+V. Cuando se cometa en contra de una mujer transexual o transgénero, o
+
+VI. Cuando las lesiones sean cometidas en la víctima por razones de su orientación sexual, identidad o expresión de género.
+
+### CAPÍTULO II. HOMICIDIO
 
 ###### ARTÍCULO 353.
 
@@ -4043,9 +4141,7 @@ IV. Cuando las lesiones no fueren mortales sino por su número y no se pueda ave
 
 Al responsable de homicidio calificado se impondrá una pena de veinte a cincuenta años de prisión y multa de cincuenta a ciento cincuenta días.
 
-### CAPÍTULO IV. DISPARO DE ARMA DE FUEGO
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+### CAPÍTULO III. REGLAS COMUNES PARA LESIONES Y HOMICIDIOS
 
 ###### ARTÍCULO 360.
 
@@ -4273,7 +4369,7 @@ ARTÍCULO 361 QUÁTER.- Al servidor público que retarde o entorpezca maliciosam
 
 Se impondrá sanción de cinco a doce años de prisión y multa de uno a diez días al ascendiente que prive de la vida al corruptor de su hija que esté bajo su potestad, si lo hiciere en el momento de sorprenderlos en el acto carnal o en un momento próximo a su consumación, siempre que no hubiere procurado la corrupción de su hija, pues en caso contrario quedará sujeto a las disposiciones sobre homicidio.
 
-### CAPÍTULO V. INSTIGACIÓN O AYUDA AL SUICIDIO
+### CAPÍTULO IV. DISPARO DE ARMA DE FUEGO
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -4281,7 +4377,7 @@ Se impondrá sanción de cinco a doce años de prisión y multa de uno a diez d�
 
 Se impondrá prisión de tres meses a dos años y multa hasta de tres a diez días al que dispare un arma de fuego, que ponga en peligro la integridad de las personas.
 
-### CAPÍTULO VI. PARRICIDIO
+### CAPÍTULO V. INSTIGACIÓN O AYUDA AL SUICIDIO
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -4295,7 +4391,7 @@ Al que instigue o ayude a otro al suicidio se le impondrá sanción de tres a di
 
 El que pudiendo impedir un suicidio no lo haga o impidiere que otro lo evite, será sancionado con prisión de tres meses a dos años de prisión y multa hasta de diez días.
 
-### CAPÍTULO VII. FILICIDIO
+### CAPÍTULO VI. PARRICIDIO
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -4303,7 +4399,9 @@ El que pudiendo impedir un suicidio no lo haga o impidiere que otro lo evite, se
 
 Al que prive de la vida a cualquier ascendiente consanguíneo, en línea recta o a su padre o madre adoptiva, conociendo el delincuente ese parentesco, se le aplicará de veinte a cincuenta años de prisión y multa de cincuenta a ciento cincuenta días.
 
-### CAPÍTULO VIII. DE LA INTERRUPCIÓN DEL EMBARAZO
+### CAPÍTULO VII. FILICIDIO
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 367.
 
@@ -4311,7 +4409,7 @@ Al que prive de la vida a un descendiente consanguíneo en línea recta o a su h
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ENERO DE 2025)</small>
 
-### CAPÍTULO IX. ABANDONO DE PERSONAS
+### CAPÍTULO VIII. DE LA INTERRUPCIÓN DEL EMBARAZO
 
 ###### ARTÍCULO 368.
 
@@ -4361,7 +4459,7 @@ III. Cuando exista razón suficiente para diagnosticar que el producto presenta 
 
 Si la interrupción forzada del embarazo lo causa un médico, enfermero o partero, además de las sanciones previstas, se les impondrá suspensión de tres a siete años en el ejercicio de su profesión o actividad y la privación de esta en caso de habitualidad.
 
-### CAPÍTULO I. ROBO
+### CAPÍTULO IX. ABANDONO DE PERSONAS
 
 ###### ARTÍCULO 373.
 
@@ -4387,9 +4485,7 @@ El automovilista, motorista, conductor de vehículo cualquiera, ciclista o jinet
 
 ## TÍTULO DÉCIMO NOVENO. DELITOS CONTRA EL PATRIMONIO
 
-### CAPÍTULO II. ABIGEATO
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2022)</small>
+### CAPÍTULO I. ROBO
 
 ###### ARTÍCULO 376.
 
@@ -4531,9 +4627,9 @@ II. Cuando el valor de lo robado no exceda del equivalente a treinta días, sea 
 
 Si precediere, acompañare o siguiere al robo algún otro hecho que por sí solo constituya un delito, se aplicarán las reglas del concurso.
 
-### CAPÍTULO III. ABUSO DE CONFIANZA
+### CAPÍTULO II. ABIGEATO
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 388.
 
@@ -4605,7 +4701,9 @@ A quien transporte ganado de procedencia ilegal, sin haber tomado las medidas ne
 
 Al que comercie con pieles, carnes u otros derivados obtenidos del Abigeato, se le impondrá prisión de tres a ocho años y multa de diez a treinta días.
 
-### CAPÍTULO IV. FRAUDE
+### CAPÍTULO III. ABUSO DE CONFIANZA
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 397.
 
@@ -4635,7 +4733,7 @@ III. El hecho de que una persona haga aparecer como suyo un depósito que garant
 
 Se aplicarán las mismas sanciones del abuso de confianza, a quien requerido formalmente, retenga la cosa que estuviere obligado a entregar si la hubiere recibido por un título gratuito o precario que produzca la obligación de entregar o devolver, o cuando la cosa deba entregarse a resultas de una resolución firme de autoridad competente.
 
-### CAPÍTULO V. ADMINISTRACIÓN FRAUDULENTA
+### CAPÍTULO IV. FRAUDE
 
 ###### ARTÍCULO 400.
 
@@ -4727,9 +4825,7 @@ Iguales sanciones se impondrán a servidores públicos, de las categorías indic
 
 Los agentes o funcionarios de compañías de contratación de trabajadores, que sin autorización de las autoridades o al margen de la Ley, contraten o pretendan contratar trabajadores, incurrirán en las sanciones privativas de libertad y pecuniarias a que se refiere el párrafo anterior, las compañías de que se trata incurrirán, en el mismo caso en las sanciones pecuniarias y suspensivas de operaciones.
 
-### CAPÍTULO VI. USURA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+### CAPÍTULO V. ADMINISTRACIÓN FRAUDULENTA
 
 ###### ARTÍCULO 403.
 
@@ -4737,7 +4833,7 @@ Comete el delito de administración fraudulenta el que teniendo a su cargo el ma
 
 Las sanciones para este delito serán las mismas que para el fraude establece el artículo 400 de este Código.
 
-### CAPÍTULO VII. DESPOJO DE INMUEBLES Y AGUAS
+### CAPÍTULO VI. USURA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -4757,7 +4853,7 @@ Para los efectos de esta fracción, se entenderá que los créditos, comisiones 
 
 Cuando una persona moral facilite los medios para la comisión del presente ilícito en cualquiera de sus modalidades, de modo que éste resulte cometido a su nombre, bajo su amparo o en su beneficio, se le impondrá suspensión de sus actividades hasta por un año, y además serán sancionados penalmente, los dirigentes, administradores y mandatarios que ordenen, permitan o ejecuten dichos delitos, conforme a lo prescripto en el primer párrafo de este artículo.
 
-### CAPÍTULO VIII. DAÑO EN LAS COSAS
+### CAPÍTULO VII. DESPOJO DE INMUEBLES Y AGUAS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -4777,7 +4873,7 @@ La pena será aplicable, aun cuando el derecho a la posesión de la cosa usurpad
 
 A las sanciones que señala este artículo se sumarán las que correspondan por la violencia, la amenaza o por las de cualquier otro delito que resulte cometido.
 
-### CAPÍTULO IX. OCUPACIÓN ILEGAL DE EDIFICIOS E INMUEBLES DESTINADOS A UN SERVICIO PÚBLICO
+### CAPÍTULO VIII. DAÑO EN LAS COSAS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -4827,7 +4923,7 @@ II. Cuando el daño se cometa en bienes de dominio público, monumentos, edifici
 
 Tratándose de propaganda o promoción de partidos o grupos políticos, se estará a lo dispuesto por la Ley que lo regule.
 
-### CAPÍTULO X. DELITOS INFORMÁTICOS
+### CAPÍTULO IX. OCUPACIÓN ILEGAL DE EDIFICIOS E INMUEBLES DESTINADOS A UN SERVICIO PÚBLICO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -4841,7 +4937,9 @@ Se impondrá de uno a siete años de prisión y multa hasta el equivalente de cu
 
 Las sanciones a que se refiere este artículo son independientes de las que correspondan por otros delitos.
 
-### CAPÍTULO I. DEL FRACCIONAMIENTO ILEGAL DE INMUEBLES
+### CAPÍTULO X. DELITOS INFORMÁTICOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 412.
 
@@ -4851,7 +4949,7 @@ La misma sanción del párrafo anterior se impondrá, a quien intercepte, interf
 
 ## TÍTULO VIGÉSIMO. DELITOS CONTRA EL DESARROLLO URBANO
 
-### CAPÍTULO II. DE LA CONSTITUCIÓN DE ASENTAMIENTOS HUMANOS IRREGULARES
+### CAPÍTULO I. DEL FRACCIONAMIENTO ILEGAL DE INMUEBLES
 
 ###### ARTÍCULO 413.
 
@@ -4911,9 +5009,7 @@ I. Si el objeto de fraccionar o dividir un lote se hace en consecuencia de adjud
 
 II. Cuando se trate de donaciones y compraventas realizadas entre parientes, en línea ascendente hasta el segundo grado, descendente hasta el tercer grado, o entre cónyuges, concubinos y hermanos.
 
-### CAPÍTULO I. ENCUBRIMIENTO
-
-(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016) (F. DE E., P.O. 1 DE FEBRERO DE 2017)
+### CAPÍTULO II. DE LA CONSTITUCIÓN DE ASENTAMIENTOS HUMANOS IRREGULARES
 
 ###### ARTÍCULO 416.
 
@@ -4931,9 +5027,9 @@ No se considerará fraccionamiento irregular, para los efectos de este artículo
 
 ## TÍTULO VIGÉSIMO PRIMERO
 
-### CAPÍTULO II. ENCUBRIMIENTO POR RECEPTACIÓN
+### CAPÍTULO I. ENCUBRIMIENTO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2023)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016) (F. DE E., P.O. 1 DE FEBRERO DE 2017)
 
 ###### ARTÍCULO 417.
 
@@ -4955,7 +5051,9 @@ Se impondrá de cuatro a ocho años de prisión y multa de diez a cuarenta días
 
 En los casos del artículo 417, quedan exceptuados de sanción aquellos que no puedan cumplir con el deber a que el mismo artículo se refiere, por correr peligro en su persona o en sus bienes.
 
-### CAPÍTULO ÚNICO. DE LOS DELITOS CONTRA LA ECOLOGÍA Y LA FAUNA
+### CAPÍTULO II. ENCUBRIMIENTO POR RECEPTACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2023)</small>
 
 ###### ARTÍCULO 420.
 
@@ -4973,9 +5071,7 @@ Se aplicará la sanción del párrafo primero de este artículo a quien adquiera
 
 ## TÍTULO VIGÉSIMO SEGUNDO
 
-### CAPITULO ÚNICO. DE LA VIOLENCIA POLÍTICA CONTRA LA MUJER
-
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2020)</small>
+### CAPÍTULO ÚNICO. DE LOS DELITOS CONTRA LA ECOLOGÍA Y LA FAUNA
 
 ###### ARTÍCULO 421.
 
@@ -5067,9 +5163,9 @@ No se considerarán para efectos del presente capitulo, como actos de crueldad o
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 9 DE ENERO DE 2020)</small>
 
-### CAPÍTULO ÚNICO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+### CAPITULO ÚNICO. DE LA VIOLENCIA POLÍTICA CONTRA LA MUJER
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2020)</small>
 
 ###### ARTÍCULO 425.
 
@@ -5080,6 +5176,10 @@ Comete el delito de violencia política contra las mujeres, aquella persona que 
 ## TÍTULO VIGÉSIMO CUARTO
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO ÚNICO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 426.
 
@@ -5528,3 +5628,21 @@ P.O. 9 DE OCTUBRE DE 2025.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO.- Las conductas que se hayan cometido hasta antes de la entrada en vigor del presente Decreto, serán sancionadas de conformidad con la legislación vigente aplicable en el momento de la comisión del delito.
+
+P.O. 5 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE EXTORSIÓN”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Tercero. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, a partir de la entrada en vigor de este Decreto, el órgano jurisdiccional, podrá efectuar la traslación del tipo en beneficio de la persona a sentenciar, de conformidad con la conducta delictiva de extorsión, sus modalidades o agravantes que se hayan acreditado.
+
+Tratándose de persona sentenciada, el juez de ejecución podrá considerar la revisión de las penas que se hayan impuesto para efectuar, en su caso, la traslación del tipo, siempre que la conducta, modalidades o agravantes proceda y resultase en su beneficio.
+
+Cuarto. Las disposiciones relativas a los delitos de extorsión previstas en el Código Penal para el Estado de Nayarit a la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por el delito de extorsión, sus modalidades, agravantes y sanciones, salvo lo dispuesto en el artículo anterior en lo relativo a la traslación del tipo y adecuación de la pena.
+
+Los procedimientos penales en materia de extorsión, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del mismo.
+
+Quinto. Los centros penitenciarios tendrán 180 días hábiles contados a partir de la entrada en vigor del presente Decreto para establecer los procedimientos y tecnologías de inhibición de entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen a que se refiere el artículo 38 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
