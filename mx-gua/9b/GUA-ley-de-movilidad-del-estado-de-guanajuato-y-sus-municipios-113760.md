@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-movilidad-del-estado-de-guanajuato-y-sus-municipios-1137
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-18"
-last_updated: "2025-12-03"
+last_updated: "2025-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 18 de marzo de 2016.
 
@@ -833,7 +833,9 @@ II. Diseñar, proponer y ejecutar, las políticas públicas estatales en materia
 
 III. Participar y brindar asesoría técnica a las dependencias y entidades estatales y municipales, relacionada con la planeación del desarrollo urbano y el ordenamiento ecológico territorial, para el mejoramiento de la movilidad y la seguridad vial;
 
-IV. Colaborar con la Secretaría de Medio Ambiente y Ordenamiento Territorial y las demás dependencias y entidades estatales y municipales, en la planeación, formulación y aplicación de las normas relativas al medio ambiente que incidan en la materia de movilidad;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+IV. Colaborar con la Secretaría del Agua y Medio Ambiente y las demás dependencias y entidades estatales y municipales, en la planeación, formulación y aplicación de las normas relativas al medio ambiente que incidan en la materia de movilidad; así como en la implementación de campañas informativas y de concientización sobre los efectos negativos de la contaminación por ruido que incidan en la materia de movilidad;
 
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
@@ -1193,7 +1195,9 @@ XVII. Coordinar las acciones que en materia de protección al medio ambiente, la
 
 XVIII. Dictar los acuerdos necesarios para la conservación, mantenimiento y renovación del parque vehicular, destinado a la prestación del servicio público de transporte de su competencia, implementando las medidas adecuadas para mantener en buen estado la infraestructura utilizada para tal fin;
 
-XIX. Instrumentar en coordinación con el Estado y otros municipios, programas y campañas de educación peatonal, vial y cortesía urbana, encaminados a la prevención de accidentes, así como de protección al medio ambiente;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+XIX. Instrumentar en coordinación con el Estado y otros municipios, programas y campañas de educación peatonal, vial y cortesía urbana, seguridad proactiva de la motocicleta, el uso adecuado del casco certificado, elementos reflectantes, número de personas permitidas y el sistema de iluminación en condiciones óptimas, encaminados a la prevención de accidentes, así como de protección al medio ambiente;
 
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
@@ -1757,23 +1761,21 @@ IV. No hacer uso de dispositivos electrónicos o de comunicación, salvo que se 
 
 V. Transportar a las personas menores de doce años o con vulnerabilidades físicas en los asientos traseros con un sistema de retención infantil o asiento especial que cumpla con las especificaciones o características establecidas por la norma oficial mexicana aplicable;
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
-V bis. En el caso de motocicletas, sólo podrán viajar las personas que ocupen asientos acondicionados para dicho efecto, según conste en la tarjeta de circulación y puedan sujetarse por sus propios medios. Los menores de edad que no cumplan con este criterio no podrán viajar en motocicleta.
+V bis. En el caso de motocicletas, sólo podrán viajar las personas que puedan sostenerse por sí mismas y que no excedan la capacidad de tripulantes señaladas en la tarjeta de circulación.
 
-Toda persona que viaje en motocicleta deberá utilizar debidamente colocado, ajustado y de su talla, casco protector para motocicleta que cumpla con las especificaciones o características establecidas por la norma oficial mexicana aplicable;
+Toda persona que viaje en motocicleta deberá hacer uso adecuado de un casco certificado, debidamente abrochado, colocado, y de su talla, que cumpla con las especificaciones o características contenidas en la NOM-206 SCFI/SSA2-2018 o la que la sustituya, u homologaciones internacionales y, portar en su indumentaria personal elementos reflectantes visibles;
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2025)</small>
+(ABROGADO TERCER PÁRRAFO POR EL ARTÍCULO TERCERO TRANSITORIO, P.O. 5 DE DICIEMBRE DE 2025)
 
-El casco deberá tener adherida, en la parte posterior externa, calcomanía de material reflejante que contenga el número de placa vehicular de la motocicleta en la que se traslada la persona usuaria, la cual se expedirá y entregará por la autoridad fiscal competente.
+(ABROGADO CUARTO PÁRRAFO POR EL ARTÍCULO TERCERO TRANSITORIO, P.O. 5 DE DICIEMBRE DE 2025)
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2025)</small>
+(ABROGADO QUINTO PÁRRAFO POR EL ARTÍCULO TERCERO TRANSITORIO, P.O. 5 DE DICIEMBRE DE 2025)
 
-El SATEG le proporcionará a los propietarios o legítimos poseedores de motocicletas la calcomanía señalada en el párrafo anterior, al momento del registro de la motocicleta de que se trate.
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2025)</small>
-
-Las medidas y características de los distintivos a que se refiere la presente fracción se establecerán en disposiciones de carácter general que para tal efecto emita el SATEG.
+V ter. Las personas usuarias de motocicletas deberán abstenerse de modificar, sustituir o retirar el claxon, la bocina, escape o los silenciadores, cuando dicha modificación genere emisiones sonoras que excedan los límites máximos permisibles establecidos por la norma oficial mexicana o en las disposiciones ambientales y de tránsito que resulten aplicables.
 
 VI. Tratándose de vehículos de carga, hacer uso de la vía pública de las zonas urbanas en las vialidades y horarios señalados para tal efecto en los reglamentos respectivos;
 
@@ -1785,7 +1787,17 @@ VII. Respetar los derechos e integridad física de los peatones, escolares, pers
 
 VII bis. Portar licencia o permiso para conducir vigente expedida por la autoridad legalmente facultada para ello y correspondiente al tipo de vehículo que se conduce; y
 
-VIII. Las demás que le señalen la presente Ley y los reglamentos respectivos.
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 5 DE DICIEMBRE DE 2025)</small>
+
+VIII. Toda motocicleta que transite en las vías públicas del Estado se deberá encontrar en condiciones de funcionamiento mecánicas y técnicas satisfactorias y estar equipada, al menos, con los dispositivos siguientes:
+
+a) Un faro en la parte delantera con mecanismo de luz de baja y alta intensidad;
+
+b) Dos espejos retrovisores laterales; y
+
+c) Una luz indicadora de frenado color roja reflejante, luces direccionales e intermitentes en la parte trasera y delantera;
+
+IX. Las demás que le señalen la presente Ley y los reglamentos respectivos.
 
 La infracción a este artículo será sancionada de conformidad a la gravedad de cada caso, de acuerdo al presente ordenamiento y a las leyes que resulten aplicables.
 
@@ -2177,9 +2189,11 @@ Los vehículos adscritos a los cuerpos de seguridad pública y los destinados a 
 
 Número de personas por vehículo
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 84.
 
-Queda prohibido llevar en un vehículo un número mayor de personas al que especifique la tarjeta de circulación respectiva. En el caso de los vehículos de servicio público de transporte y el especial serán las autoridades de transporte competentes, las que determinen el número máximo de personas que pueden ser transportadas según el tipo de vehículos y servicio de que se trate.
+Queda prohibido llevar en un vehículo un número mayor de personas al que especifique la tarjeta de circulación respectiva. En el caso de los vehículos de servicio público de transporte y el especial serán las autoridades de transporte competentes, las que determinen el número máximo de personas que pueden ser transportadas según el tipo de vehículos y servicio de que se trate. En el caso de motocicletas, sólo podrán viajar las personas que puedan sostenerse por sí mismas y que no excedan la capacidad de tripulantes señaladas en la tarjeta de circulación.
 
 Colaboración en materia de registro de antecedentes de tránsito
 
@@ -4902,3 +4916,19 @@ Artículo Segundo. Las autoridades estatales y municipales contarán con el tér
 Vehículos previamente registrados
 
 Artículo Tercero. El SATEG emitirá disposiciones administrativas de carácter general a fin de proporcionar las calcomanías señaladas en el presente Decreto a los propietarios o legítimos poseedores de vehículos tipo motocicleta registrados al momento de la entrada en vigor de éste.
+
+P.O. 5 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 115, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Adecuación normativa
+
+Artículo Segundo. Las autoridades estatales y municipales contarán con el término de 180 días hábiles posteriores a la entrada en vigor del presente Decreto para hacer las adecuaciones normativas o reglamentarias correspondientes.
+
+Abrogación
+
+Artículo Tercero. Se abroga el Decreto Legislativo número 77 expedido por la Sexagésima Sexta Legislatura.
