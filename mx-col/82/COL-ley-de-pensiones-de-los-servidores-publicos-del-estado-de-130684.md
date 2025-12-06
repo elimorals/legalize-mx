@@ -4,7 +4,7 @@ identifier: "COL-ley-de-pensiones-de-los-servidores-publicos-del-estado-de-13068
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-28"
-last_updated: "2024-09-28"
+last_updated: "2025-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PENSIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Edición Especial Extraordinaria del Periódico Oficial del Estado de Colima, el viernes 28 de septiembre de 2018.
 
@@ -2397,22 +2397,26 @@ P.O. 28 DE SEPTIEMBRE DE 2024.
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
 
-SEGUNDO. El H. Congreso del Estado autoriza dejar sin efectos el convenio de pago celebrado entre el Instituto de Pensiones de los Servidores Públicos del Estado de Colima (IPECOL) y el Gobierno del Estado de Colima, de fecha 30 de abril de 2019; y ordena que, dentro de los 60 días hábiles siguientes a la entrada en vigor del presente Decreto se celebre un nuevo instrumento jurídico que se ajuste a los parámetros establecidos en esta reforma, plazo que se podrá prorrogar con el consentimiento del IPECOL e informando las causas a esta Soberanía.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2025)</small>
 
-Para los efectos señalados en el párrafo anterior, se autoriza al Gobierno del Estado de Colima por conducto de sus representantes legalmente facultados que se afecte irrevocablemente como fuente primaria de pago del adeudo a favor del IPECOL, hasta donde baste o alcance, la totalidad de los remanentes o aforos excedentes de los flujos de participaciones en ingresos federales con que se cubre la deuda pública bancaria de largo plazo a cargo del Gobierno del Estado de Colima y que se encuentran afectas al patrimonio del Fideicomiso Maestro Irrevocable de Administración y Fuente de Pago número F/112337 constituido por el Estado como Fideicomitente y Fideicomisario en Segundo Lugar ante Banco Santander (México), S.A. como institución Fiduciaria, a un nuevo fideicomiso irrevocable de administración y fuente de pago que capte tales flujos a su patrimonio para constituir la fuente de pago a favor del IPECOL.
+SEGUNDO. El H. Congreso del Estado autoriza dejar sin efectos el convenio de pago celebrado entre el Instituto de Pensiones de los servidores Públicos del Estado de colima (IPECOL) y el Gobierno del Estado de Colima, de fecha 30 de abril de 2019; y ordena que, dentro de los 60 días hábiles siguientes a la entrada en vigor del presente Decreto se celebre un nuevo instrumento jurídico que se ajuste a los parámetros establecidos en esta reforma, plazo que se podrá prorrogar con el consentimiento del IPECOL e informando las causas a esta Soberanía.
 
-Asimismo, se autoriza e instruye al Gobierno del Estado de Colima por conducto de sus representantes legalmente facultados que se modifique el Fideicomiso número F/112337, cumpliendo los requisitos que en el mismo se prevean, con el objeto de establecer que la totalidad de los recursos remanentes o aforos excedentes que mes con mes se generen después del servicio de la deuda, incluidos los rendimientos, se transfieran irrevocablemente al nuevo fideicomiso irrevocable de administración y fuente de pago.
+Para los efectos señalados en el párrafo anterior, se autoriza al Gobierno del Estado de Colima para que, a través de sus representantes legales o servidores públicos facultados, afecte irrevocablemente los ingresos derivados de la recaudación del Impuesto a la Transmisión de la Propiedad de Vehículos Automotores, al Fideicomiso Irrevocable de Administración y Fuente de Pago que deberá constituir el Poder Ejecutivo del Gobierno del Estado de Colima, como garantía y/o fuente de pago de las obligaciones a cargo del Gobierno del Estado de Colima y a favor del IPECOL, derivadas del Convenio de Pago.
 
-Se autoriza e instruye al Gobierno del Estado de Colima por conducto de sus representantes legalmente facultados a que constituyan como Fideicomitente un nuevo Fideicomiso Irrevocable de Administración y Fuente de Pago en la institución fiduciaria de su elección, que tenga por objeto recibir la totalidad de los recursos remanentes o aforos excedentes que mes con mes se le transfieran por el Fideicomiso número F/112337 y que serán afectados irrevocablemente por el Fideicomitente. Este nuevo fideicomiso será irrevocable y permanecerá vigente en tanto existan obligaciones de pago a cargo del Gobierno del Estado de Colima y a favor del IPECOL. Los honorarios fiduciarios, así como la constitución del fondo de reserva que se pacte se podrán cubrir por aportaciones del Fideicomitente o con cargo al patrimonio del Fideicomiso.
+Se autoriza al Poder Ejecutivo del Gobierno del Estado de Colima para que, a través de sus representantes legales o servidores públicos facultados constituya en su carácter de Fideicomitente, un fideicomiso irrevocable de administración y fuente de pago, con la institución fiduciaria de su elección, que funja como mecanismo de pago de las obligaciones que deriven del Convenio de Pago, el cual deberá permanecer vigente en tanto existan obligaciones de pago a cargo del Gobierno del Estado de Colima y a favor del IPECOL. Los gastos y costos inherentes a la constitución y administración del Fideicomiso, incluyendo los honorarios fiduciarios, se deberán cubrir con cargo al patrimonio del Fideicomiso o con aportaciones adicionales del Fideicomitente al mismo.
 
-Derivado de lo anterior, las afectaciones de participaciones que en ingresos federales se encuentren vigentes en el Fideicomiso F/112337 señalado anteriormente o el que lo sustituya a la fecha en que entre en vigor la presente reforma, no se podrán reducir, motivo por lo que, en caso de que se adquieran nuevos endeudamientos constitutivos de deuda pública de largo plazo que pongan en riesgo el alcance de los remanentes mencionados en el fideicomiso aludido y, que como consecuencia de ello no se pueda cubrir el adeudo a cargo del Gobierno del Estado de Colima a favor del IPECOL, el Gobierno del Estado se obliga a establecer una partida presupuestal que permita cubrir oportunamente el adeudo que se tiene con IPECOL, de lo contrario no se podrán adquirir nuevos financiamientos u obligaciones así definidos en la Ley de Disciplina Financiera de las Entidades Financieras y los Municipios.
+El Poder Ejecutivo del Gobierno del Estado de Colima deberá incluir anualmente en el Presupuesto de Egresos de cada ejercicio fiscal el monto para el pago de las obligaciones derivadas del Convenio de Pago, hasta la total liquidación del adeudo.
 
-El Poder Ejecutivo del Gobierno del Estado de Colima, deberá incluir anualmente en el Presupuesto de Egresos de cada ejercicio fiscal en tanto existan obligaciones pendientes de pago asociadas al adeudo a favor del IPECOL que se formalice con base en la presente autorización, el monto para el pago del mismo, bajo los términos que contractualmente queden pactados, hasta la total liquidación del mismo.
+Asimismo, el Poder Ejecutivo del Gobierno del Estado de Colima deberá constituir en el fideicomiso irrevocable de administración y fuente de pago, con cargo a sus recursos, un fondo de reserva equivalente al promedio mensual de las amortizaciones, actualizable anualmente, para el pago de lo adeudado al IPECOL, sin perjuicio de pactar todas las demás obligaciones de hacer y no hacer.
 
-Asimismo, el Poder Ejecutivo del Gobierno del Estado de Colima deberá constituir con cargo a sus recursos el fondo de reserva que se pacte hasta por 3 meses del servicio para el pago de lo adeudado al IPECOL en su punto más oneroso en el nuevo fideicomiso irrevocable de administración y fuente de pago, sin perjuicio de pactar todas las demás obligaciones de hacer y no hacer tanto en el convenio de pagos que celebren las partes, como en el nuevo fideicomiso que se formalice.
+Se autoriza al Poder Ejecutivo del Gobierno del Estado de Colima y al IPECOL para que, a través de sus representantes legales o servidores públicos facultados celebren y/o suscriban todos los documentos, contratos, convenios, mecanismos, instrucciones irrevocables, mandatos o cualquier instrumento legal que se requiera para formalizar lo autorizado en la presente reforma, con las características, montos, condiciones y términos que constan en el mismo así como la(s) afectaciones que se requieran para constituir la fuente de pago para el cumplimento de las obligaciones asociadas al adeudo a cargo del Gobierno del Estado y a favor del IPECOL.
 
-Se autoriza al Poder Ejecutivo del Gobierno del Estado de Colima y al IPECOL para que, a través de sus representantes legales o servidores públicos facultados celebren y/o suscriban todos los documentos, contratos, convenios, mecanismos, instrucciones irrevocables, mandatos o cualquier instrumento legal que se requiera para formalizar lo autorizado en la presente reforma, con las características, monto, condiciones y términos que constan en el mismo, así como la(s) afectaciones que se requieran para constituir la fuente de pago para el cumplimiento de las obligaciones asociadas al adeudo a cargo del Gobierno del Estado y a favor del IPECOL.
-
-Tanto el IPECOL como el Gobierno del Estado de Colima deberán conciliar y empatar las cantidades adeudadas al primero de ellos y reconocerlas, realizando los ajustes necesarios en sus respectivas contabilidades, a través del Consejo Directivo del IPECOL y la Secretaría de Administración y Finanzas por parte del Gobierno del Estado, con el objeto de evitar disparidad entre ambas entidades, lo cual se establece para los efectos conducentes.
+Tanto el IPECOL como el Gobierno del Estado de Colima deberán conciliar y empatar las cantidades adeudadas al primero de ellos y reconocerlas, realizando los ajustes necesarios en sus respectivas contabilidades, a través del Consejo Directivo del IPECOL y la Secretaría de Planeación, Finanzas y Administración por parte del Gobierno del Estado, con el objeto de evitar disparidad entre ambas entidades, lo cual se establece para los efectos conducentes.
 
 TERCERO. Para los efectos de lo que se autoriza, se deroga todo aquello que se oponga a la misma en la legislación estatal, de igual o inferior jerarquía.
+
+P.O. 6 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 197.- POR EL QUE SE REFORMA EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 494, POR EL QUE SE REFORMA EL ARTÍCULO TRANSITORIO DÉCIMO SEGUNDO DE LA LEY DE PENSIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
