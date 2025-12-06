@@ -4,7 +4,7 @@ identifier: "CHH-estatuto-organico-del-organismo-publico-descentralizado-129775"
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-06-23"
-last_updated: "2018-06-23"
+last_updated: "2025-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 ESTATUTO ORGÁNICO DEL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2025 (ABROGADO).
 
 Estatuto publicado en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 23 de junio de 2018.
 
@@ -1736,3 +1736,21 @@ PRIMERO.- El presente Estatuto entrará en vigor al día siguiente de su publica
 SEGUNDO.- Inscríbase el presente Estatuto en el Registro Público de Organismos Descentralizados de la Secretaría de Hacienda del Gobierno del Estado de Chihuahua.
 
 Dado en la ciudad de Chihuahua, Chihuahua a los quince días del mes de junio del año dos mil dieciocho, mediante la aprobación de los Integrantes de la Junta de Gobierno del Desarrollo Integral de la Familia del Estado de Chihuahua a través de la celebración de la Cuadragésima Octava sesión ordinaria.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DEL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE CHIHUAHUA".]
+
+PRIMERO. El presente Estatuto Orgánico entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+SEGUNDO. Se abroga el Estatuto Orgánico del Organismo Público Descentralizado denominado Desarrollo Integral de la Familia del Estado de Chihuahua publicado en el Periódico Oficial del Estado No. 50, en fecha 23 de junio de 2018.
+
+TERCERO. Inscríbase el presente Estatuto Orgánico en el Registro Público de Organismos Descentralizados.
+
+CUARTO. En todo lo no previsto por este ordenamiento, se aplicará supletoriamente las disposiciones establecidas en la normatividad aplicable.
+
+QUINTO. En tanto se elaboren y se expidan los manuales de organización y reglamentos derivados del presente Estatuto, la Persona Titular de la Dirección General del Desarrollo Integral de la Familia del Estado de Chihuahua quedará facultada para resolver las cuestiones que conforme a dichos manuales o reglamentos deben regular el cabal funcionamiento del Organismo.
+
+SEXTO. A partir de la entrada en vigor del presente Estatuto Orgánico, se deberá de presentar ante la Secretaría de la Función Pública en un lapso de 90 días naturales, los Manuales de Organización, Procedimientos y Servicios, en tanto se expidan los mismos, la persona titular de la Dirección General del Desarrollo Integral de la Familia del Estado de Chihuahua resolverá las cuestiones de procedimiento y operación que se originen por la aplicación de este instrumento.
