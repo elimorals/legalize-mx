@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-congreso-de-la-ciudad-de-mexico-128264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-04"
-last_updated: "2025-10-30"
+last_updated: "2025-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128264&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-12-20"
 
 REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE DICIEMBRE DE 2025.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -66,7 +66,9 @@ II. Año legislativo: Es el periodo comprendido entre el 1 de septiembre y el 31
 
 III. Auditoría: La Auditoría Superior de la Ciudad de México;
 
-IV. Canal de Televisión: El Canal de Televisión de la Ciudad de México;
+> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2025)</small>
+
+IV. Canal de Televisión: El Canal de Televisión del Congreso de la Ciudad de México;
 
 V. Ciudad: La Ciudad de México;
 
@@ -180,7 +182,9 @@ XLVII. Suplencia: Es el mecanismo para ocupar el cargo de Diputada o Diputado qu
 
 XLVIII. Turno: Es el trámite que dicta la o el Presidente de la Mesa Directiva durante las sesiones para remitir los asuntos que se presentan ante el Pleno o la Comisión Permanente a la o las instancias respectivas, con el fin de darles el curso legal que corresponda dentro del procedimiento legislativo;
 
-XLIX. Unidades administrativas: Oficialía Mayor, Tesorería, Contraloría Interna, Coordinación de Comunicación Social, Instituto de Investigaciones Legislativas, Unidad de Estudios de Finanzas Públicas, Coordinación de Servicios Parlamentarios, del Canal de Televisión, Unidad de Transparencia y Centro de Estudios Legislativos para la Igualdad de Género;
+> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2025)</small>
+
+XLIX. Unidades administrativas: Oficialía Mayor, Tesorería, Contraloría Interna, Instituto de Investigaciones Legislativas, Unidad de Estudios de Finanzas Públicas, Coordinación de Servicios Parlamentarios, del Canal de Televisión, Unidad de Transparencia y Centro de Estudios Legislativos para la Igualdad de Género;
 
 L. Vacante: Es la declaración hecha por el Congreso sobre la situación de ausencia en el ejercicio del cargo de alguna o algún Diputado propietario y suplente, y
 
@@ -664,13 +668,9 @@ Tratándose de disminución de la dieta se observará lo siguiente:
 
 I. La sanción será aplicada por la Oficialía Mayor a petición de la o el Presidente de la Mesa Directiva, de la Comisión Permanente o de la o el Presidente de la Comisión o Comité respectivo, debiendo informar de su aplicación, y
 
-> <small>(REFORMADA, G.O. 11 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2025)</small>
 
-II. Para la aplicación de la sanción correspondiente a descuento por inasistencia, la o el Presidente respectivo, deberá enviar a la Oficialía Mayor copia simple, con su firma autógrafa o digital electrónica de la lista de asistencia que corresponda al descuento que habrá de aplicarse.
-
-Durante los primeros cinco días de cada mes, la Coordinación de Servicios Parlamentarios, con base en la información que se obtenga de las sesiones del Pleno y de la Comisión Permanente, enviará a la Coordinación de Comunicación Social, las listas de asistencias de las y los Diputados que hayan concurrido a éstas para que las publique en la página de internet del Congreso.
-
-Durante los primeros 15 días del mes de septiembre, la Coordinación de Servicios Parlamentarios, hará un balance general de asistencia de las y los Diputados del Congreso del último año, mandando a publicarla en cuando menos, dos diarios de circulación nacional.
+II. Para la aplicación de la sanción correspondiente a descuento por inasistencia, la o el Presidente respectivo, deberá enviar a la Oficialía Mayor copia simple, con su firma autógrafa de la lista de asistencia que corresponda al descuento que habrá de aplicarse. Durante los primeros cinco días de cada mes, la Coordinación de Servicios Parlamentarios, con base en la información que se obtenga de las sesiones del Pleno y de la Comisión Permanente publicará en la página de internet del Congreso las listas de asistencias de las y los Diputados que hayan concurrido a éstas.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 20 DE MAYO DE 2020)</small>
 
@@ -2446,13 +2446,17 @@ La información o correspondencia dirigida a la o el Presidente o la Comisión y
 
 Cualquier ciudadana o ciudadano tiene derecho a pedir y obtener información sobre los trabajos, funciones o actividades de la Comisión, previa solicitud por escrito dirigida a la Presidencia de la misma, cuando no exista impedimento legal, reglamentario o administrativo para ello, y si lo hubiere deberá fundarse y motivarse la negativa.
 
+> <small>(REFORMADO, G.O. 8 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 207.
 
-La información que provenga de la administración pública o de los órganos jurisdiccionales deberá hacerse del conocimiento de las y los Diputados integrantes y previo acuerdo de los mismos, a los medios de comunicación social.
+La información que provenga de la administración pública o de los órganos jurisdiccionales deberá hacerse del conocimiento de las y los Diputados integrantes a través de los Medios Oficiales.
+
+> <small>(REFORMADO, G.O. 8 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 208.
 
-Las actividades de las Comisiones y Comités, preferentemente sus reuniones, se transmitirán según lo previsto en el Reglamento del Canal de (sic) Televisivo.
+Las actividades de las Comisiones y Comités, preferentemente sus reuniones, se transmitirán según lo previsto en la Ley y el Reglamento.
 
 #### Sección Séptima. De la Junta Directiva
 
@@ -2560,7 +2564,9 @@ XXI. Ordenar el envío de los dictámenes aprobados a la Coordinación de Servic
 
 XXII. Remitir a la Junta y Mesa Directiva, su programa anual de trabajo y sus informes semestrales y final de actividades, aprobados por la Comisión o Comité;
 
-XXIII. Remitir al área de Comunicación Social y a la Coordinación de Servicios Parlamentarios, una vez concluida la sesión respectiva, la lista de asistencia de las y los Diputados que hayan asistido a la misma;
+> <small>(REFORMADO, G.O. 8 DE DICIEMBRE DE 2025)</small>
+
+XXIII. Remitir a la Coordinación de Servicios Parlamentarios, una vez concluida la sesión respectiva, la lista de asistencia de las y los Diputados que hayan asistido a la misma;
 
 XXIV. Remitir a la Coordinación de Servicios Parlamentarios para su resguardo en el Archivo Histórico del Proceso Parlamentario del Congreso toda la documentación que a lo largo de la Legislatura haya estado en poder de la Comisión o Comité;
 
@@ -3766,7 +3772,9 @@ IV. Evaluar, supervisar y aprobar el anteproyecto de presupuesto anual del Canal
 
 V. Las y los Diputados del Congreso podrán hacer llegar al Comité propuestas de programación o contenidos del Canal y serán analizados por dicho Comité para determinar la programación del mismo;
 
-VI. Ratificar a los funcionarios del Canal, hasta el segundo nivel, a propuesta debidamente fundada y argumentada de la o el Titular de la Dirección General del Canal;
+> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2025)</small>
+
+VI. Ratificar a las y los Titulares de las Direcciones Generales, Direcciones de Área y demás mandos análogos o superiores que se lleguen a crear, a propuesta debidamente fundada y argumentada de la o el Titular del Canal de Televisión;
 
 VII. Supervisar la imparcialidad, objetividad, probidad, equidad y autonomía editorial de la carta de programación y las transmisiones del trabajo legislativo. La Junta y la Mesa Directiva recibirán una copia del proyecto de programación y podrán remitir observaciones y propuestas;
 
@@ -4494,13 +4502,17 @@ m) Medalla al Mérito Turístico “Embajadora o Embajador Turístico de la Ciud
 
 n) Medalla al Mérito Juvenil;
 
-> <small>(REFORMADO, G.O. 8 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, G.O. 8 DE DICIEMBRE DE 2025)</small>
 
-ñ) Medalla al Mérito por la Defensa de las Víctimas, y
+ñ) Medalla al Mérito por la Defensa de las Víctimas;
 
-> <small>(ADICIONADO, G.O. 8 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, G.O. 8 DE DICIEMBRE DE 2025)</small>
 
-o) Medalla al Mérito Internacional
+o) Medalla al Mérito Internacional, y
+
+> <small>(ADICIONADO, G.O. 8 DE DICIEMBRE DE 2025)</small>
+
+p) Medalla al Mérito a la Salud.
 
 IV. En fondo opaco, el nombre de la persona condecorada y la disciplina, en su caso, y
 
@@ -4554,13 +4566,17 @@ XII. Comisión de Turismo;
 
 XIII. Comisión de Atención Especial a Víctimas;
 
-> <small>(REFORMADA, G.O. 8 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2025)</small>
 
-XIV. Comisión de Deporte, y
+XIV. Comisión de Deporte;
 
-> <small>(ADICIONADA, G.O. 8 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2025)</small>
 
-XV. Comisión de Normatividad, Estudios y Prácticas Parlamentarias.
+XV. Comisión de Normatividad, Estudios y Prácticas Parlamentarias, y
+
+> <small>(ADICIONADO, G.O. 8 DE DICIEMBRE DE 2025)</small>
+
+XVI. Comisión de Salud.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE DICIEMBRE DE 2023)</small>
 
@@ -5200,9 +5216,39 @@ La Comisión de Normatividad, Estudios y Prácticas Parlamentarias será la resp
 
 La Medalla se otorgará en Sesión Solemne. El procedimiento para la entrega de la Medalla será de conformidad con los artículos 372, 373, 374, 375 y 376 del Reglamento.
 
-#### Sección Primera. Del Reconocimiento a las Mejores Tesis sobre la Ciudad de México
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 8 DE DICIEMBRE DE 2025)</small>
 
-#### Sección Segunda. Del Proceso de Elección de las y los Candidatos para la entrega de Reconocimientos
+#### Sección Décima Séptima. Medalla al Mérito a la Salud
+
+> <small>(ADICIONADO, G.O. 8 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 451 Ter.
+
+El Congreso otorgará anualmente, la Medalla al Mérito a la Salud, a las personas, así como a organizaciones o instituciones en los términos del Reglamento, que se hayan distinguido por su trayectoria, servicio u acciones a favor de la salud, de conformidad con las siguientes distinciones:
+
+I. Atención a la salud;
+
+II. Acciones altruistas y humanitarias;
+
+III. Atención a la salud mental;
+
+IV. Promoción y trabajo social;
+
+V. Medicina tradicional, y
+
+VI. Docencia e Investigación.
+
+> <small>(ADICIONADO, G.O. 8 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 451. Quater.
+
+Corresponderá a la Comisión de Salud del Congreso realizar el procedimiento de convocatoria y selección, en los términos establecidos en el Reglamento.
+
+La entrega de la Medalla se efectuará en los términos establecidos en el Reglamento y de conformidad con las disposiciones aplicables.
+
+Para que las adiciones o reformas sean aprobadas, se requerirá el voto de las dos terceras partes de las y los Diputados integrantes presentes del Congreso.
+
+#### Sección Primera. Del Reconocimiento a las Mejores Tesis sobre la Ciudad de México
 
 ### CAPÍTULO III. De los Reconocimientos y Diplomas
 
@@ -5226,7 +5272,7 @@ II. En su texto deberá contener la leyenda "Congreso de la Ciudad de México, o
 
 III. Nombre y firma de quien suscribe.
 
-#### Sección Primera. De la Coordinación de Servicios Parlamentarios
+#### Sección Segunda. Del Proceso de Elección de las y los Candidatos para la entrega de Reconocimientos
 
 ###### Artículo 454.
 
@@ -5258,7 +5304,7 @@ V. El acuerdo parlamentario será presentado ante el Pleno, y
 
 VI. La entrega de los reconocimientos se entregará cada año en la fecha y hora que determine la Junta.
 
-#### Sección Segunda. De la Oficialía Mayor
+#### Sección Primera. De la Coordinación de Servicios Parlamentarios
 
 ###### Artículo 457.
 
@@ -5486,7 +5532,7 @@ Las áreas administrativas que se creen, dependerán jerárquica y funcionalment
 
 La Junta presentará al Pleno la propuesta de las y los Titulares de cada una de las Unidades Administrativas para su ratificación; para este efecto será necesario el voto de la mayoría de las y los Diputados presentes en la sesión respectiva.
 
-#### Sección Tercera. De la Contraloría Interna
+#### Sección Segunda. De la Oficialía Mayor
 
 ###### Artículo 487.
 
@@ -5570,7 +5616,7 @@ III. Los documentos de la Asamblea Constituyente, incluyendo la Constitución am
 
 IV. Los documentos que posean las Diputadas y los Diputados, las Comisiones y Comités, estarán en su posesión para resguardo, hasta el final de cada Legislatura, cuando deberán remitirse al Archivo Histórico del Proceso Parlamentario del Congreso.
 
-#### Sección Cuarta. De la Tesorería
+#### Sección Tercera. De la Contraloría Interna
 
 ###### Artículo 492.
 
@@ -5650,7 +5696,7 @@ El Archivo Histórico Administrativo del Congreso podrá ser consultado por el p
 
 En el Archivo Histórico Administrativo del Congreso deberán estar depositados los documentos de las Unidades Administrativas, además de aquellos que establezcan las disposiciones jurídicas correspondientes.
 
-#### Sección Quinta. Del Instituto de Investigaciones Legislativas
+#### Sección Cuarta. De la Tesorería
 
 ###### Artículo 498.
 
@@ -5752,7 +5798,7 @@ VI. No ser cónyuge o pariente consanguíneo hasta el cuarto grado, por afinidad
 
 VII. No haber sido condenado por delito doloso, cualquiera que haya sido la pena.
 
-#### Sección Sexta. Del Centro de Estudios Legislativos para la Igualdad de Género
+#### Sección Quinta. Del Instituto de Investigaciones Legislativas
 
 ###### Artículo 503.
 
@@ -5792,7 +5838,7 @@ VI. Residir en la Ciudad de México por lo menos tres años antes al día de su 
 
 VII. Ser mexicana o mexicano por nacimiento y no tener otra nacionalidad, y estar en pleno goce de sus derechos;
 
-#### Sección Sexta (SIC). De la Coordinación de Comunicación Social
+#### Sección Sexta. Del Centro de Estudios Legislativos para la Igualdad de Género
 
 ###### Artículo 505.
 
@@ -5842,7 +5888,7 @@ V. Residir en la Ciudad de México por lo menos tres años antes al día de su n
 
 VI. Ser mexicana o mexicano por nacimiento y no tener otra nacionalidad, y estar en pleno goce de sus derechos.
 
-#### Sección Séptima. Del Canal de Televisión
+#### Sección Sexta (SIC). De la Coordinación de Comunicación Social
 
 ###### Artículo 508.
 
@@ -5884,55 +5930,31 @@ III. No ser cónyuge o pariente consanguíneo hasta el cuarto grado, por afinida
 
 IV. No haber sido condenado por delito doloso, cualquiera que haya sido la pena.
 
-#### Sección Octava. De la Unidad de Transparencia
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 8 DE DICIEMBRE DE 2025)</small>
+
+#### Sección Séptima. Del Canal de Televisión
 
 ###### Artículo 510.
 
-Corresponde a la o el titular de Coordinación de Comunicación Social del Congreso:
-
-I. Brindar a través de sus áreas, el apoyo institucional que las y los Diputados soliciten, en lo que corresponda a esta materia;
-
-II. Destinar de manera transparente y proporcional los recursos económicos, de tal forma que todos los Grupos Parlamentarios representados en el Congreso tengan presencia en los medios de comunicación;
-
-III. Fijar una política de comunicación social de acuerdo a los criterios que emita la Junta y el Comité de Administración;
-
-IV. Fungir como instancia de apoyo al Pleno, a las Comisiones ordinarias y a los Comités, en lo que se refiere a la difusión social de sus acuerdos, labores y propuestas pluripartidistas;
-
-V. Incluir en cualquier transmisión que se realice de las sesiones del Congreso, la imagen del interprete-traductor a que se refiere el artículo 25 párrafo cuarto de la ley, a fin de dar mayor difusión a algún tema solicitado con antelación por la o el Diputado. Para lo anterior, deberá coordinarse con las autoridades del Canal correspondientes. Mantener contacto permanente con los medios de comunicación social, electrónicos y escritos, y sus representantes, a fin de garantizar la plena y oportuna información hacia los ciudadanos de la Ciudad de México, acerca de las actividades y opiniones que se desarrollen en el Congreso;
-
-VI. Mantener contacto permanente con los medios de comunicación social, electrónicos y escritos, y sus representantes, a fin de garantizar la plena y oportuna información hacia las y los ciudadanos de la Ciudad de México, acerca de las actividades y opiniones que se desarrollen en el Congreso;
-
-VII. Reflejar en todo momento el carácter y composición plurales del Congreso, en lo que hace a la comunicación social, la que al mismo tiempo debe preservar las características de objetividad y de atención a la demanda ciudadana, y
-
-VIII. Publicar en la página de internet del Congreso y dos diarios de circulación nacional, la lista de asistencia de las y los Diputados en los términos que se establecen en el artículo 45 de este reglamento.
+(DEROGADO, G.O. 8 DE DICIEMBRE DE 2025)
 
 ###### Artículo 511.
 
-Los Grupos Parlamentarios acreditarán ante la Coordinación de Comunicación Social dos personas profesionales de la comunicación, quienes constituirán un Consejo Asesor presidido por la o el Coordinador de Comunicación Social, para garantizar el cumplimiento de lo establecido en el artículo anterior.
+(DEROGADO, G.O. 8 DE DICIEMBRE DE 2025)
 
 ###### Artículo 512.
 
-Para ser la o el Coordinador de Comunicación Social del Congreso se requiere:
+(DEROGADO, G.O. 8 DE DICIEMBRE DE 2025)
 
-I. Acreditar conocimientos y experiencia de por lo menos 3 años de ejercicio profesional y una experiencia laboral de la que se pueda inferir que posee los conocimientos y habilidades suficientes para cumplir con el perfil de este cargo;
-
-II. Contar con título y cédula profesional legalmente expedida en derecho o alguna rama relacionada directamente con las funciones encomendadas;
-
-III. No ser cónyuge, concubina o concubino, o pariente consanguíneo hasta el cuarto grado, por afinidad o civil de cualquiera de las o los Diputados integrantes del Congreso, ni tener relaciones profesionales, laborales o de negocios con alguno de ellos, ni ser socio o accionista de sociedades en las que alguna o alguno de los Diputados forme o haya formado parte;
-
-IV. No haber sido condenado por delito doloso, cualquiera que haya sido la pena;
-
-V. Residir en la Ciudad de México por lo menos tres años antes al día de su nombramiento, y
-
-VI. Ser mexicana o mexicano por nacimiento y no tener otra nacionalidad, y estar en pleno goce de sus derechos.
-
-#### Sección Novena. De la Unidad de Estudios y Finanzas Publicas del Congreso de la Ciudad de México
+#### Sección Octava. De la Unidad de Transparencia
 
 ###### Artículo 513.
 
 El Congreso, para la difusión de sus actividades, y de acuerdo con la legislación en la materia, contará con el Canal de Televisión que le asigne la autoridad competente, de conformidad con las normas técnicas aplicables.
 
-Su objetivo será transmitir, video grabar, reseñar y difundir, a través de las distintas plataformas de comunicación y canales de programación la actividad legislativa y parlamentaria que corresponda a las responsabilidades y actividades del Congreso, así como contribuir e informar, analizar y discutir pública y ampliamente la situación del entorno local y nacional.
+> <small>(REFORMADO, G.O. 8 DE DICIEMBRE DE 2025)</small>
+
+Su objetivo será transmitir, video grabar, reseñar y difundir, a través de las distintas plataformas de comunicación y canales de programación la actividad legislativa y parlamentaria que corresponda a las responsabilidades y actividades del Congreso en el marco de la institucionalidad y la imparcialidad garantizando la proyección del trabajo del mismo, en los medios de comunicación social, electrónicos e impresos para divulgar entre la ciudadanía los logros legislativos y así verificar el compromiso de las legislaturas con sus representados, así como contribuir e informar, analizar y discutir pública y ampliamente la situación del entorno local y nacional.
 
 Todas las actividades del Canal se realizarán bajo los principios de objetividad, veracidad, ética, pluralidad, equidad, suficiencia, transparencia, oportunidad y con pleno respeto a los derechos humanos.
 
@@ -5948,9 +5970,19 @@ Para llevar a cabo sus tareas, el Canal contará con la siguiente estructura adm
 
 I. Una o un Titular;
 
-II. Un Consejo Consultivo, y
+> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2025)</small>
 
-III. El Comité del Canal.
+II. Un Consejo Consultivo;
+
+> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2025)</small>
+
+III. El Comité del Canal;
+
+> <small>(ADICIONADA, G.O. 8 DE DICIEMBRE DE 2025)</small>
+
+IV. La Dirección General de Comunicación Social; y demás Direcciones Generales, Direcciones de Áreas, Coordinaciones, Subdirecciones y Jefaturas de Áreas que se establezcan en el Manual Administrativo.
+
+> <small>(REFORMADO [N. DE E. DEROGADO SEGUNDO PÁRRAFO], G.O. 8 DE DICIEMBRE DE 2025)</small>
 
 Lo anterior con independencia de la estructura que se determine en el reglamento que se emita para los efectos correspondientes.
 
@@ -5974,13 +6006,29 @@ VII. Elevar la condición humana y exaltar los valores de la solidaridad social 
 
 VIII. Fomentar la difusión del análisis, la discusión y el debate de los problemas de la Ciudad, para fortalecer la opinión pública, (sic) se realice con plena libertad y tolerancia;
 
+> <small>(ADICIONADA. G.O. 8 DE DICIEMBRE DE 2025)</small>
+
+VIII Bis. Fungir como instancia de apoyo al Pleno, a las Comisiones ordinarias y a los Comités, en lo que se refiere a la difusión social de sus acuerdos, labores y propuestas pluripartidistas;
+
 IX. Fortalecer el proceso de construcción de ciudadanía para fomentar el ejercicio de los derechos civiles, dando paso a la expresión de las inconformidades de la sociedad, a sus iniciativas y a su participación para resolver los problemas comunes;
 
 X. Inducir la comprensión de los problemas nacionales y locales; expresar y reafirmar el carácter pluricultural del País;
 
+> <small>(ADICIONADA, G.O. 8 DE DICIEMBRE DE 2025)</small>
+
+X Bis. Mantener contacto permanente con los medios de comunicación social, electrónicos y escritos, y sus representantes, a fin de garantizar la plena y oportuna información hacia las y los ciudadanos de la Ciudad de México, acerca de las actividades y opiniones que se desarrollen en el Congreso;
+
 XI. Promover la libre expresión de las ideas y fomentar un permanente debate ciudadano sobre los temas vinculados con la actividad legislativa;
 
+> <small>(ADICIONADA, G.O. 8 DE DICIEMBRE DE 2025)</small>
+
+XI. Bis. Proporcionar a través de sus áreas, el apoyo institucional que las Diputadas y Diputados soliciten;
+
 XII. Realizar la cobertura en aquellos espacios físicos en los que se produzcan eventos relacionados con su objeto;
+
+> <small>(ADICIONADA, G.O. 8 DE DICIEMBRE DE 2025)</small>
+
+XII Bis. Reflejar en todo momento el carácter y composición plurales del Congreso, en lo que hace a la comunicación social, la que al mismo tiempo debe preservar las características de objetividad y de atención a la demanda ciudadana.
 
 XIII. Seleccionar, evaluar y clasificar el material videograbado para su archivo en la videoteca del Recinto, según los indicadores establecidos en congruencia con política de difusión institucional;
 
@@ -5994,9 +6042,21 @@ XVII. Transmitir y videograbar todas las sesiones de trabajo públicas de las Co
 
 XVIII. Vigilar la eficiencia en el empleo de los recursos asignados al El Canal de Televisión;
 
-XIX. Incluir en cualquier transmisión que se realice de las sesiones del Congreso la imagen del interprete-traductor a que se refiere la Ley, a fin de dar mayor difusión a algún tema solicitado con antelación por el diputado. Para lo anterior, deberá coordinarse con las autoridades de Comunicación Social correspondientes, y
+> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2025)</small>
 
-XX. Las demás que deriven de la ley, del presente reglamento y de las normas, disposiciones y acuerdos aplicables.
+XIX. Incluir en cualquier transmisión que se realice de las sesiones del Congreso la imagen de la persona interprete-traductor a que se refiere la Ley, a fin de dar mayor difusión a algún tema solicitado con antelación por la persona diputada;
+
+> <small>(ADICIONADA, G.O. 8 DE DICIEMBRE DE 2025)</small>
+
+XX. Llevar acabo el monitoreo permanente de las actividades del Congreso y de las personas legisladoras en los medios y plataformas digitales;
+
+> <small>(ADICIONADA, G.O. 8 DE DICIEMBRE DE 2025)</small>
+
+XXI. Crear contenido sobre el trabajo desarrollado por el Congreso y las personas legisladoras y difundirlos a través de de (sic) medios y plataformas digitales; y
+
+(REUBICADA, G.O. 8 DE DICIEMBRE DE 2025)
+
+XXII. Las demás que deriven de la ley, del presente reglamento y de las normas, disposiciones y acuerdos aplicables.
 
 ###### Artículo 517.
 
@@ -6008,15 +6068,23 @@ II. Contar con título y cédula profesional legalmente expedida en derecho o al
 
 III. No ser cónyuge, concubina o concubino, o pariente consanguíneo hasta el cuarto grado, por afinidad o civil de cualquiera de las o los Diputados integrantes del Congreso, ni tener relaciones profesionales, laborales o de negocios con alguno de ellos, ni ser socio o accionista de sociedades en las que alguna o alguno de los Diputados forme o haya formado parte;
 
-IV. No pertenecer al Estado Eclesiástico, ni ser ministro de algún culto religioso
+> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2025)</small>
 
-V. No haber sido condenado por delito doloso, cualquiera que haya sido la pena;
+IV. No pertenecer al Estado Eclesiástico, ni ser ministro de algún culto religioso;
+
+> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2025)</small>
+
+V. No haber recibido sentencia firme por delitos contra la vida o integridad corporal, libertad y seguridad sexuales, violencia familiar, violencia política en razón de género, violación a la intimidad sexual, no haber sido condenado por delito doloso, cualquiera que haya sido la pena, no haber sido declarada persona morosa en el cumplimiento de obligaciones alimentarias, mediante resolución judicial firme;
 
 VI. Residir en la Ciudad de México por lo menos tres años antes al día de su nombramiento, y
 
-VIII (SIC). Ser mexicana o mexicano por nacimiento y no tener otra nacionalidad, y estar en pleno goce de sus derechos.
+> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2025)</small>
 
-La o el Titular del Canal de Televisión durará en su encargo cinco años contados a partir del día siguiente de su designación, pudiéndose reelegir hasta por un periodo inmediato de la misma temporalidad.
+VII. Ser mexicana o mexicano por nacimiento y no tener otra nacionalidad, y estar en pleno goce de sus derechos.
+
+> <small>(REFORMADO, G.O. 8 DE DICIEMBRE DE 2025)</small>
+
+La o el Titular del Canal de Televisión durará en su encargo cinco años contados a partir del día siguiente de su designación, sin derecho a reelección.
 
 ###### Artículo 518.
 
@@ -6028,11 +6096,19 @@ II. Elaborar programas televisivos especiales para la difusión institucional;
 
 III. Elaborar su informe trimestral y anual que se relacionen con los asuntos derivados de su gestión y presentarlo ante el Comité del Canal de Televisión;
 
+> <small>(ADICIONADA, G.O. 8 DE DICIEMBRE DE 2025)</small>
+
+III Bis. Fijar una política de comunicación social de acuerdo a los criterios que se emitan;
+
 IV. Formular el proyecto de política interna de orden general que contenga la estructura y organización del Canal, que deberá incluir las relaciones de mando y supervisión, las áreas y oficinas que conformen el Canal de Televisión, asimismo, elaborar las normas, lineamientos y políticas relacionadas con las atribuciones del Canal.
 
 V. Formular el anteproyecto de presupuesto anual del Canal y el programa de trabajo correspondiente y remitirlo al Comité del Canal de Televisión a más tardar el primer día del mes de octubre;
 
 VI. Nombrar al personal de estructura del Canal;
+
+> <small>(ADICIONADA, G.O. 8 DE DICIEMBRE DE 2025)</small>
+
+VI Bis. Orientar de manera transparente y proporcional los recursos económicos, de tal forma que todos los Grupos Parlamentarios representados en el Congreso tengan presencia en los medios de comunicación;
 
 VII. Rendir al Comité un informe general de actividades trimestralmente, así como un informe anual que será presentado a más tardar el día treinta de noviembre de cada año;
 
@@ -6067,6 +6143,8 @@ IV. Presentar a la o el Titular del Canal las sugerencias de la sociedad en mate
 V. Promover la libertad, pluralidad, corresponsabilidad, calidad y rigor profesional en el desarrollo general de las actividades del Canal, así como vigilar la observancia de todos los principios señalados en la ley, y
 
 VI. Sugerir mecanismos que vinculen a la sociedad con el Canal.
+
+#### Sección Novena. De la Unidad de Estudios y Finanzas Publicas del Congreso de la Ciudad de México
 
 ###### Artículo 521.
 
@@ -6635,3 +6713,39 @@ G.O. 30 DE OCTUBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
 
 SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 8 DE DICIEMBRE DE 2025.
+
+> <small>[N. DE E. TRANSITORIOS POR EL QUE “SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA Y DEL REGLAMENTO, AMBOS DEL CONGRESO DE LA CIUDAD DE MÉXICO, EN MATERIA DE SIMPLIFICACIÓN ORGÁNICA PARA EL CANAL DEL CONGRESO Y LA COORDINACIÓN DE COMUNICACIÓN SOCIAL”.]</small>
+
+PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Los derechos laborales del personal adscrito a la Coordinación de Comunicación Social deberán ser respetados y garantizados conforme a la legislación aplicable. Serán adscritos al Canal de Televisión del Congreso de la Ciudad de México el cual asumirá la responsabilidad administrativa y operativa del referido personal, quedando a su cargo en coordinación con la Oficialía Mayor su incorporación, continuidad laboral y prestaciones correspondientes.
+
+CUARTO. La aplicación de las facultades adquiridas para la persona titular del Canal en materia del presente decreto entrarán en vigor a partir de la elección de la persona titular y su toma de protesta en el pleno para el periodo 2025-2030.
+
+QUINTO. Los recursos humanos, materiales y financieros de la Coordinación de Comunicación Social serán transferidos al Canal de Televisión del Congreso de la Ciudad de México por conducto de la Oficialía Mayor, integrándose plenamente a su estructura.
+
+SEXTO. A partir de la entrada en vigor del presente Decreto, se extingue la figura de la Coordinación de Comunicación Social como unidad administrativa independiente. En su lugar, se transfieren sus funciones al Canal de Televisión del Congreso de la Ciudad de México, en su carácter de Dirección General.
+
+SÉPTIMO. El Congreso de la Ciudad de México deberá realizar las adecuaciones normativas, presupuestales y administrativas necesarias para garantizar la transición ordenada de funciones y recursos humanos, materiales y financieros entre la Coordinación de Comunicación Social y la nueva Dirección General dependiente del Canal de Televisión.
+
+OCTAVO. Los derechos laborales de la persona titular de la Coordinación de Comunicación Social, cuyo encargo concluirá con la entrada en vigor del presente decreto, deberán ser respetados y garantizados conforme a la legislación aplicable.
+
+NOVENO. El Comité de Administración y Capacitación elaborará el manual de organización y procedimientos del Canal de Televisión, en coordinación con su titular.
+
+DÉCIMO. Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes se entenderán como vigentes, el Canal de Televisión del Congreso tendrá la facultad sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente.
+
+G.O. 8 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS INCISOS Ñ) Y O), DE LA FRACCIÓN III DEL ARTÍCULO 370; LAS FRACCIONES XIV Y XV DEL ARTÍCULO 371; SE ADICIONAN UN INCISO P) AL ARTÍCULO 370; UNA FRACCIÓN XVI AL ARTÍCULO 371; UNA SECCIÓN DÉCIMA SÉPTIMA, DENOMINADA “MEDALLA AL MÉRITO A LA SALUD” AL CAPÍTULO II, DEL TÍTULO DÉCIMO; UN ARTÍCULO 451 TER; Y UN ARTÍCULO 451 QUÁTER, DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. De conformidad con lo aprobado por la Junta de Coordinación Política, la presente medalla se entregará solo una vez durante la presente Legislatura, lo cual se realizará durante el segundo periodo de sesiones del segundo año de ejercicio, en una Sesión Solemne del Pleno.
+
+CUARTO. El Acuerdo AC/CCDMX/III/JUCOPO/1A/031/2024 se considera vigente y la Junta de Coordinación Política de conformidad con el resolutivo SEXTO del Acuerdo deberá modificar el mismo estableciendo la Medalla al Mérito a la Salud.
