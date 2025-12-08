@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2025-11-24"
+last_updated: "2025-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2025.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1551,6 +1551,10 @@ IV. Almacenar o poseer, con fines de comercialización, fotografías o videograb
 
 V. Extraer o utilizar de forma indebida, imágenes de actos de exhibicionismo corporal o de carácter sexual, contenidos en un aparato para el procesamiento de datos o cualquier dispositivo de almacenamiento de información, en los que participen una o varias personas menores de dieciocho años de edad o una o varias personas que no tengan capacidad para comprender el significado del hecho o capacidad para resistirlo.
 
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+VI. Elabore, manipule o gestione, por medio de tecnologías digitales, imágenes, audios, grabaciones de voz o contenidos audiovisuales, con la finalidad de generar elementos de naturaleza erótica o sexual, utilizando total o parcialmente las partes del cuerpo de una persona menor de dieciocho años o una persona que no tengan (sic) capacidad para comprender el significado del hecho o capacidad para resistirlo.
+
 Para los efectos de este Artículo, por exhibicionismo corporal se entenderá, mostrar la vagina, pene, senos, glúteos o ano.
 
 > <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
@@ -1564,6 +1568,14 @@ Si el inculpado es ascendiente, padrastro, o madrastra de la víctima, o habita 
 > <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 Si el inculpado labora en organizaciones dedicadas al cuidado o atención de personas menores de 18 años de edad, o de personas que no tienen capacidad para comprender el significado del hecho o capacidad para resistirlo, también se le aplicará como pena, la privación del cargo, empleo o comisión que ahí desempeñe.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+Cuando las conductas previstas en la fracción VI se realice mediante la revelación, publicación, difusión, exhibición o comercialización de imágenes, audios o videos por cualquier medio tecnológico o tradicional, la pena se incrementará en una mitad en su mínimo y en su máximo, además del pago total de la reparación del daño y la garantía de protección integral de la víctima.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+Cuando en la comisión de este delito concurran dos o más de las circunstancias o agravantes previstas en este artículo, se aplicará de 14 a 28 años de prisión, de 600 a 1400 días multa, la cual podrá incrementarse hasta en una mitad, sin exceder los límites máximos previstos en este Código, además del pago total de la reparación de los daños y perjuicios ocasionados.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2023)</small>
 
@@ -3061,17 +3073,29 @@ Al responsable de Suplantación de la Identidad se aplicarán de 4 a 12 años de
 
 La pena de prisión y días de multa se aumentará hasta en una mitad en sus mínimos y sus máximos cuando el sujeto activo se aproveche de su profesión; de su calidad como servidor público; o se valga de su empleo dentro de cualquier institución crediticia para la comisión de la conducta.
 
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
-ARTÍCULO 181 B.- Violación a la intimidad personal. La violación a la intimidad personal consiste en divulgar, compartir, distribuir, comercializar, publicar o amenazar con publicar información personal, privada o confidencial de una persona, o bien una o más imágenes, audios o videos referentes al pene, senos, glúteos o la vagina, o bien actos sexuales o eróticos de cualquier persona, ya sea impreso, grabado o digital, sin autorización de quien sufre la afectación.
+ARTÍCULO 181 B.- Violación a la intimidad personal. La violación a la intimidad personal consiste en la conducta del sujeto activo que divulgue, comparta, distribuya, comercialice, publique o amenace con publicar información personal, privada o confidencial de una persona sin consentimiento expreso, voluntario, y deseado de la víctima.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
-También se equipara a violación a la intimidad personal, la conducta del sujeto activo que elabore, manipule o gestione por medio de tecnologías digitales, imágenes, audios, textos, grabaciones de voz o contenidos audiovisuales, con la finalidad de generar elementos de naturaleza erótica o sexual, utilizando las partes del cuerpo a que se refiere el párrafo anterior, que correspondan total o parcialmente a la víctima, y las revele, publique, comparta, difunda, exhiba o comercialice por cualquier medio tecnológico o tradicional, sin consentimiento de la víctima.
+También se equipará a violación a la intimidad personal, la conducta del sujeto activo que divulgue comparta, distribuya, comercialice, publique o amenace con publicar una o más imágenes, audios o videos referentes al pene, senos, glúteos o la vagina, o bien actos sexuales o eróticos de cualquier persona, ya sea impreso, grabado o digital, sin consentimiento expreso, voluntario, y deseado de la víctima mayor de 18 años.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+También se equipara a violación a la intimidad personal, la conducta del sujeto activo que elabore, manipule o gestione por medio de tecnologías digitales, imágenes, audios, textos, grabaciones de voz o contenidos audiovisuales, con la finalidad de generar elementos de naturaleza erótica o sexual, utilizando las partes del cuerpo a que se refiere el párrafo anterior, que correspondan total o parcialmente a la víctima, y las revele, publique, comparta, difunda, exhiba o comercialice por cualquier medio tecnológico o tradicional, sin consentimiento expreso, voluntario, y deseado de la víctima mayor de 18 años.
 
 > <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 Al responsable de violar la intimidad personal se le aplicarán de 1 a 4 años de prisión, y de 300 a 600 días multa, así como al pago total de la reparación de los daños y perjuicios ocasionados.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+Se impondrán las mismas penas previstas en el párrafo anterior, a quien haciendo uso de la Inteligencia Artificial, manipule imágenes, audios o videos, de contenido íntimo sexual de una persona, para crear hechos falsos con apariencia real, con el propósito de exponer, distribuir, difundir, exhibir, reproducir, transmitir, comercializar, ofertar, intercambiar y/o compartir a través de materiales impresos, correo electrónico, mensajes telefónicos, redes sociales o cualquier otro medio tecnológico, sin consentimiento expreso, voluntario, genuino y deseado de la víctima mayor de 18 años.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+Para efectos del párrafo anterior, se entenderá por Inteligencia Artificial las aplicaciones, programas o tecnología que analice fotografías, audios o videos y ofrece ajustes automáticos para hacerles alteraciones o modificaciones.
 
 ### CAPÍTULO XIII. Tipos Penales Protectores de la Seguridad y Normal Funcionamiento de las Vías de Comunicación y de los Medios de Transporte
 
@@ -4598,3 +4622,11 @@ P.O. 24 DE NOVIEMBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 8 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 312.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+– El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
