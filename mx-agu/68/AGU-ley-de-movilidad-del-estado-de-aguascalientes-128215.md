@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-movilidad-del-estado-de-aguascalientes-128215"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-30"
-last_updated: "2025-07-21"
+last_updated: "2025-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Primera Sección al Número 18 del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de abril de 2018.
 
@@ -127,7 +127,9 @@ XI. Bicicleta: Vehículo impulsado principalmente por la fuerza humana a través
 
 XII. Bici estacionamiento: Espacio físico y/o mobiliario urbano utilizado para sujetar y resguardar bicicletas por tiempo determinado;
 
-XIII. Botón de pánico: Cualquier dispositivo instalado en los vehículos destinados al transporte público que permite su localización por medio de un sistema de posicionamiento global, ya sea a través de instalaciones físicas como botones, palancas u otros instrumentos o mediante el uso de aplicaciones informáticas instaladas en dispositivos móviles, que con el fin de brindar seguridad a los usuarios y operadores, permite alertar a las autoridades de seguridad pública sobre una situación de peligro.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+XIII. Botón de alerta: Cualquier dispositivo instalado en los vehículos destinados al transporte público que permite su localización por medio de un sistema de posicionamiento global, ya sea a través de instalaciones físicas como botones, palancas u otros instrumentos o mediante el uso de aplicaciones informáticas instaladas en dispositivos móviles, que con el fin de brindar seguridad a los usuarios y operadores, permite alertar a las autoridades de seguridad pública sobre una situación de peligro;
 
 XIV. Calle: Vía pública ubicada en los centros poblacionales destinada al tránsito de usuarios de movilidad no motorizada y vehículos motorizados;
 
@@ -2423,21 +2425,25 @@ VI. Tener instalado silenciador en buen estado; y
 
 VII. Tener todos los cristales del vehículo en buen estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 90.
 
-Todos los vehículos particulares, mercantiles y públicos destinados al transporte de trabajadores o de escolares, deberán contar con cinturones de seguridad suficientes para la cantidad de personas que lo ocupen, es obligación de los pasajeros del vehículo utilizar los cinturones de seguridad. Se exceptúa en este caso, los vehículos particulares que originalmente no traigan cinturones de seguridad en la parte posterior para el uso de pasajeros.
+Todos los vehículos particulares, mercantiles y públicos destinados al transporte de personas, deberán contar con cinturones de seguridad suficientes para la cantidad de personas que lo ocupen, es obligación de los pasajeros del vehículo utilizar los cinturones de seguridad. Se exceptúa en este caso, los vehículos particulares que originalmente no traigan cinturones de seguridad en la parte posterior para el uso de pasajeros.
 
 Además de lo anterior, deberán de cumplir con los siguientes requisitos para transitar:
 
-I. Todos los vehículos destinados al transporte público de personas, deberán contar con póliza de seguro o su equivalente a favor del pasajero y contra daños a terceros;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+l. Todos los vehículos destinados al transporte público de personas o transporte de personas contratado a través de plataformas tecnológicas, deberán contar con póliza de seguro o su equivalente a favor del pasajero y contra daños a terceros;
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
 
 II. Los vehículos destinados a la enseñanza de manejo, deberán contar con una póliza de seguro a favor del contratante y daños a terceros, cobertura que deberá estar debidamente prevista en el contrato de prestación de servicios respectivo. Dicha póliza es irrenunciable;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
-III. Los vehículos destinados al transporte público de personas deberán contar con botones de pánico, ademes (sic) de portar el número económico de la unidad para su identificación en el tablero u otro lugar visible del vehículo;
+III. Los vehículos destinados al transporte público de personas o transporte de personas contratado a través de plataformas tecnológicas, deberán contar con botones de alerta y herramientas de geolocalización de la unidad, además de portar el número económico de la unidad o el holograma respectivo para su identificación en el tablero u otro lugar visible del vehículo;
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
 
@@ -3965,11 +3971,17 @@ Esta disposición será exigible en los vehículos con capacidad para más de di
 
 El Poder Ejecutivo del Estado brindará estímulos a aquellos concesionarios que adapten los vehículos en beneficio de las personas con movilidad limitada;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
-XL. Instalar botones de pánico en las unidades de transporte público, así como prever que cuenten con luces interiores con las especificaciones requeridas; y
+XL. Instalar botones de alerta en las unidades de transporte público, así como prever que cuenten con luces interiores con las especificaciones requeridas;
 
-XLI. Las demás que señalen esta Ley y otras disposiciones legales, reglamentarias y administrativas.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+XLI. Asegurar que los mecanismos de alerta y seguridad sean visibles para todas las personas usuarias, mediante la colocación obligatoria de material informativo en las unidades de transporte público y en las plataformas o aplicaciones digitales del servicio, para que conozcan su existencia, uso y forma de activación; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+XLII. Las demás que señalen esta Ley y otras disposiciones legales, reglamentarias y administrativas.
 
 ###### ARTÍCULO 201.
 
@@ -4197,13 +4209,21 @@ II. Permitir el uso de su plataforma tecnológica únicamente a las personas que
 
 III. Proporcionar mensualmente a la CMOV el registro de operadores y vehículos inscritos en sus bases de datos, así como cualquier otra información disponible que se le solicite por motivos de seguridad;
 
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
-IV. Aportar a favor del Estado trimestralmente, cuando menos el uno punto cinco por ciento del total de los ingresos generados por los viajes contratados por medio de la plataforma administrada por cada empresa; de lo recaudado por este concepto, será destinado por parte de SEFI al Fondo Estatal para la Movilidad; e
+IV. Aportar a favor del Estado trimestralmente, cuando menos el uno punto cinco por ciento del total de los ingresos generados por los viajes contratados por medio de la plataforma administrada por cada empresa, de lo recaudado por este concepto, será destinado por parte de SEFI al Fondo Estatal para la Movilidad;
 
-V. Informar oportunamente a la autoridad competente sobre cualquier irregularidad en la prestación del servicio de transporte de personas contratado a través de plataformas tecnológicas o el incumplimiento de esta Ley u otras disposiciones legales y normativas aplicables.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
-El incumplimiento de las obligaciones a que se refieren las Fracciones II, III y IV dará lugar a la revocación de la autorización para la operación de la plataforma administrada por la empresa de redes, así como de sus socios y afiliados.
+V. Informar oportunamente a la autoridad competente sobre cualquier irregularidad en la prestación del servicio de transporte de personas contratado a través de plataformas tecnológicas o el incumplimiento de esta Ley u otras disposiciones legales y normativas aplicable; y
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+VI. Solicitar a las autoridades de seguridad pública correspondientes, la vinculación de los botones de alerta instalados en los vehículos con los que se preste el servicio, a efectos de establecer la interconexión inmediata con las mismas, además deberán de contar con herramientas de geolocalización, enunciativamente como el sistema de posicionamiento global, de forma que se facilite su geolocalización y se cuente con los datos del vehículo para la debida atención y seguimiento.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+El incumplimiento de las obligaciones a que se refieren las Fracciones II, III, IV y V dará lugar a la revocación de la autorización para la operación de la plataforma administrada por la empresa de redes, así como de sus socios y afiliados.
 
 ###### ARTÍCULO 210.
 
@@ -4215,9 +4235,9 @@ La carta de registro de las unidades se podrá expedir por un período de tres, 
 
 I. Copia certificada del título de propiedad del vehículo;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
-II. Que la antigüedad del vehículo con el que se prestará el servido (sic) no exceda de seis años; además deberá contar con cuatro puertas, cinco plazas, cinturones de seguridad en condiciones de uso para todos los pasajeros, bolsas de aire, aire acondicionado, luces interiores, así como el cumplimiento de los requisitos para su circulación previstos en esta Ley y el Reglamento;
+II. Que la antigüedad del vehículo con el que se prestará el servicio no exceda de seis años, además deberá contar con cuatro puertas, cinco plazas, cinturones de seguridad en condiciones de uso para todos los pasajeros, bolsas de aire, aire acondicionado, luces interiores, botón de alerta, Sistema de Posicionamiento Global, así como el cumplimiento de los requisitos para su circulación previstos en esta Ley y el Reglamento;
 
 III. Copia de la póliza del seguro vehicular vigente;
 
@@ -6786,3 +6806,15 @@ El Poder Ejecutivo del Estado, por conducto de la autoridad competente, deberá 
 ###### ARTÍCULO TERCERO.
 
 La Coordinación Estatal de Protección Civil deberá, en un plazo no mayor a noventa días naturales a partir de la entrada en vigor del presente Decreto, actualizar sus protocolos de atención a emergencias, inspección y prevención de riesgos, a fin de incorporar consideraciones específicas sobre el uso, almacenamiento, accidentes y componentes de los Vehículos de Movilidad Personal, en concordancia con la Ley de Movilidad del Estado de Aguascalientes y demás disposiciones aplicables.
+
+P.O. 8 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 306.- SE REFORMA LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Coordinación General de Movilidad (CMOV) contará con un plazo de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones normativas y operativas necesarias para su implementación y difusión entre las personas concesionarias y operadoras del transporte público.
