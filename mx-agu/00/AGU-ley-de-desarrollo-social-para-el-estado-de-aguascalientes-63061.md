@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-desarrollo-social-para-el-estado-de-aguascalientes-63061
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-08"
-last_updated: "2025-11-24"
+last_updated: "2025-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 8 de septiembre de 2008.
 
@@ -229,7 +229,9 @@ XIV. REGIONES: Son los Municipios y zonas de atención prioritaria e inmediata q
 
 XV. SECRETARIA: La Secretaria de Desarrollo Social:
 
-XVI. SECTORES SOCIALES VULNERABLES: Son las personas adultas mayores o con alguna discapacidad, las madres solteras, niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad social;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+XVI. SECTORES SOCIALES VULNERABLES: Son las personas adultas mayores o con alguna discapacidad, las madres solteras, niñas, niños y adolescentes, así como migrantes aguascalentenses en retorno, que se encuentren en situación de vulnerabilidad social;
 
 XVII. SISTEMA ESTATAL: El Sistema Estatal de Desarrollo Social; y
 
@@ -1454,5 +1456,13 @@ P.O. 24 DE NOVIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 302.- SE REFORMA LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 8 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 308.- SE REFORMA LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES."]
+
+###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
