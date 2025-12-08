@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2024-05-14"
+last_updated: "2025-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -663,15 +663,19 @@ IV.- Solemnes, las sesiones en que se instale el Ayuntamiento, se rinda el infor
 
 V.- Asimismo, el Ayuntamiento podrá celebrar sesiones de Cabildo abierto para realizar audiencias públicas, foros de consulta, cursos de capacitación municipal, reuniones de instrucción cívica o actos políticos cuya importancia coadyuve al desarrollo social, económico y cultural y fomente la participación de los habitantes del municipio.
 
-> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
-Todas las sesiones serán públicas y deberán ser transmitidas en vivo a través de la página oficial de internet y por redes sociales con las que cuente el Ayuntamiento, con excepción de aquellas de carácter privado.
+Todas las sesiones serán públicas, permitiéndose el libre acceso al público y a las personas servidoras públicas del Ayuntamiento.
 
-> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE DICIEMBRE DE 2025)</small>
 
-En caso de que no sea posible la transmisión en vivo de la sesión por internet, deberá grabarse y estar disponible en la página de internet del Ayuntamiento de manera posterior.
+En todos los Ayuntamientos del Estado, las sesiones de Cabildo deberán ser transmitidas en vivo, a través de medios electrónicos, en la página oficial de internet y por las redes sociales oficiales del Ayuntamiento, con excepción de aquellas de carácter privado, las cuales se encuentran enunciadas en la fracción III del presente artículo.
 
-> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+En caso de que no sea posible la transmisión en vivo de la sesión por internet, esta deberá grabarse y estar disponible en la página de internet oficial del Ayuntamiento de manera posterior. Esta imposibilidad deberá ser atendida de manera inmediata o, en su caso, deberá ser subsanada antes de la próxima sesión de Cabildo.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 8 DE DICIEMBRE DE 2025)</small>
 
 Para cada sesión se deberá contar con una versión videograbada, la cual formará parte del acta correspondiente.
 
@@ -749,9 +753,21 @@ II.- Por error u omisión probado; y
 
 III.- Cuando las circunstancias que los motivaran hayan cambiado.
 
-###### ARTICULO 57.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
-El desarrollo de las sesiones del Ayuntamiento, se llevará conforme al orden del día que haya sido aprobado, para tratar asuntos de interés general.
+###### ARTÍCULO 57.
+
+El desarrollo de las sesiones de Cabildo se llevará a cabo conforme al orden del día que haya sido aprobado, para tratar asuntos de interés general.
+
+> <small>(ADICIONADO,[N. DE E. CON LAS FRACCIONES QUE LO INTEGRAN] P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+El orden del día de las sesiones de Cabildo se integrará, de manera enunciativa y no limitativa, por los apartados siguientes:
+
+l. Lectura y aprobación, en su caso, del acta de sesión anterior;
+
+II. Comunicaciones y exhortos recibidos, con excepción de aquellos que, con nota de reservado o confidencial, dirijan al Ayuntamiento los poderes del Estado o la Federación, y
+
+III. Las demás que se deriven de esta y otras leyes, así como de los reglamentos municipales.
 
 ###### ARTICULO 58.
 
@@ -2215,9 +2231,11 @@ V.- No ser o haber sido dirigente de partido político nacional, estatal o munic
 
 VI.- No haber ejercido ministerio de algún culto religioso, en los tres años anteriores a su designación.
 
-###### ARTICULO 119.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
-Son atribuciones del Contralor Municipal:
+###### ARTÍCULO 119.
+
+Son atribuciones de la persona titular de la Contraloría Municipal:
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2017)</small>
 
@@ -2331,13 +2349,17 @@ XXX.- Emitir normas, lineamientos específicos y manuales que, dentro del ámbit
 
 XXXI.- Seleccionar a los integrantes de los órganos internos de control, garantizando la igualdad de oportunidades en el acceso a la función pública, atrayendo a los mejores candidatos para ocupar los puestos, a través de procedimientos transparentes, objetivos y equitativos;
 
-> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, [N. DE E. REPUBLICADA] P.O. 8 DE DICIEMBRE DE 2025)</small>
 
-XXXII.- Aprobar y registrar las estructuras orgánicas y ocupacionales de las dependencias y entidades de la Administración Pública Municipal y sus modificaciones; previo dictamen presupuestal favorable de la Tesorería Municipal, y
+XXXII.- Aprobar y registrar las estructuras orgánicas y ocupacionales de las dependencias y entidades de la Administración Pública Municipal y sus modificaciones, previo dictamen presupuestal favorable de la Tesorería Municipal;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, [N. DE E. ADICIONADA] P.O. 8 DE DICIEMBRE DE 2025)</small>
 
-XXXIII.- Las demás que le confiera ésta y otras leyes, y los reglamentos municipales.
+XXXIII.- En materia de trasmisión de las sesiones de Cabildo, vigilar la observancia de su publicitación en los términos de la fracción V del artículo 50 de este ordenamiento, y
+
+> <small>(ADICIONADA, [N. DE E. REFORMADA Y REUBICADA] P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+XXXIV.- Las demás que le confiera ésta y otras leyes, así como los reglamentos municipales.
 
 > <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2017)</small>
 
@@ -4766,3 +4788,15 @@ TERCERO. En los municipios con población indígena, los Ayuntamientos del Estad
 CUARTO. Los Ayuntamientos con población indígena que resulten electos para el periodo constitucional 2024-2027, una vez iniciada la administración deberán emitir la Primera Convocatoria para la elección de la persona que llevará a cabo la representación indígena ante el mismo, de conformidad con lo que dispone el presente Decreto y las demás disposiciones correspondientes.
 
 QUINTO. Comuníquese el presente Decreto, a los veinte Ayuntamientos del Estado de Nayarit, para los efectos legales conducentes.
+
+P.O. 8 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LOS ARTÍCULOS 50, 57 Y 119 DE LA LEY MUNICIPAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE SESIONES DE CABILDO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a lo dispuesto por el presente Decreto.
+
+TERCERO. En un plazo no mayor a ciento ochenta días naturales, a partir de la entrada en vigor del presente instrumento, los Ayuntamientos de la entidad deberán realizar las armonizaciones a sus respectivos reglamentos y demás normativa interna aplicable, en los términos previstos en el presente Decreto.
+
+CUARTO. Comuníquese el presente Decreto a los Ayuntamientos de la Entidad, para los efectos conducentes.
