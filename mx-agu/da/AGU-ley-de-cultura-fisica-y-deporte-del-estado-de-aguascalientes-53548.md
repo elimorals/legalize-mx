@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cultura-fisica-y-deporte-del-estado-de-aguascalientes-53
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-22"
-last_updated: "2025-10-20"
+last_updated: "2025-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de enero de 2007.
 
@@ -227,9 +227,29 @@ VIII. Deporte Adaptado: actividad físico deportiva que es susceptible de acepta
 
 IX. Deporte de Rendimiento: El deporte que promueve, fomenta y estimula el que todas las personas puedan mejorar su nivel de calidad deportiva como aficionados, pudiendo integrarse al deporte de alto rendimiento, o en su caso, sujetarse adecuadamente a una relación laboral por la práctica del deporte;
 
-X. Deporte de Alto Rendimiento: El deporte que se practica con altas exigencias técnicas y científicas de preparación y entrenamiento, que permite al deportista la participación en representaciones y selecciones estatales en competiciones y pruebas oficiales de carácter nacional; y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
-XI. Activación Física: Ejercicio o movimiento del cuerpo humano que se realiza para mejora de la aptitud y la salud física de las personas.
+X. Deporte de Alto Rendimiento: El deporte que se practica con altas exigencias técnicas y científicas de preparación y entrenamiento, que permite al deportista la participación en representaciones y selecciones estatales en competiciones y pruebas oficiales de carácter nacional;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+XI. Activación Física: Ejercicio o movimiento del cuerpo humano que se realiza para mejora de la aptitud y la salud física de las personas; y
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+XII. Autocuidados: La capacidad de las personas, las familias y las comunidades para promover la salud, prevenir las enfermedades, mantener la salud y hacer frente a las enfermedades o padecimientos con o sin el apoyo de un profesional de la salud.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 4° Bis.
+
+El deporte y la educación física tendrán una función social que será la de fortalecer la interacción de la sociedad, para desarrollar de manera armónica las aptitudes físicas e intelectuales de las personas que contribuyan a fomentar la solidaridad como valor social; además de promover y estimular el autocuidado, la actividad y recreación física como medios. importantes para la preservación de la salud física y mental, así como la prevención de enfermedades.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 4° Ter.
+
+La función educativa del deporte debe implicar además de la enseñanza de técnicas y desarrollo de cualidades físicas de los alumnos, la adopción de hábitos, valores y actitudes, que promuevan el autocuidado.
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
@@ -409,13 +429,17 @@ XXIII. Formular programas para promover la cultura física y deporte entre las p
 
 XXIV. Celebrar todos aquellos contratos y convenios que le permitan cumplir con el objetivo para el cual fue creado;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
-XXV. Promover la capacitación y certificación de directivos, técnicos, deportistas y entrenadores; y exhortar a las Federaciones y Asociaciones Deportivas para la certificación y capacitación de sus jueces y árbitros; y
+XXV. Promover la capacitación y certificación de directivos, técnicos, deportistas y entrenadores; y exhortar a las Federaciones y Asociaciones Deportivas para la certificación y capacitación de sus jueces y árbitros;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2025)</small>
 
-XXVI. Las demás que esta Ley u otras disposiciones legales determinen.
+XXVI. Promover la participación y conjunción de esfuerzos en materia deportiva, señalando su relación con los autocuidados entre los sectores público, social y privado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XXVI], P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+XXVII. Las demás que esta Ley u otras disposiciones legales determinen.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2015)</small>
 
@@ -2392,5 +2416,11 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 P.O. 20 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 266.- SE ADICIONA LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES; Y, SE REFORMA LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 8 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 309.- SE REFORMA LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
