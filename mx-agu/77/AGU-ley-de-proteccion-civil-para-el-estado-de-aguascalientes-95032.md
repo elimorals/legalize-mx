@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-civil-para-el-estado-de-aguascalientes-95032"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-08"
-last_updated: "2025-07-21"
+last_updated: "2025-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 8 de julio de 2013.
 
@@ -237,9 +237,13 @@ XXI. Promover la participación ciudadana en la elaboración, ejecución, evalua
 
 XXII. Asociarse con otras entidades públicas o con particulares para coordinar y ejecutar la realización de las acciones y programas en materia de protección civil;
 
-XXIII. Vigilar el cumplimiento de las disposiciones de esta Ley y los programas de protección civil, en el ámbito de su competencia y de conformidad con los convenios de coordinación que celebren con la (sic)
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
-XXIV. Federación o los Municipios (sic);
+XXIII. Vigilar el cumplimiento de las disposiciones de esta Ley y los programas de protección civil, en el ámbito de su competencia y de conformidad con los convenios de coordinación que celebren con la Federación o los Municipios;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+XXIV. Promover la inclusión de medidas y estrategias especiales para la reducción de riesgos por el manejo de material o artificios pirotécnicos en el Programa Estatal; lo anterior, en coordinación con las facultades de la Federación y los Municipios;
 
 XXV. Ejercer de forma directa o a través de la Secretaría de Gobierno las facultades previstas en las Fracciones anteriores; y
 
@@ -1704,3 +1708,13 @@ P.O. 21 DE JULIO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 – El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 8 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 311.- SE REFORMA LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Poder Ejecutivo del Estado dentro de un término de 90 días naturales posteriores al inicio de vigencia del presente Decreto realizará la adecuación del Programa Estatal de Protección Civil.
+
+TERCERO.- Los municipios dentro de un término de 90 días naturales posteriores al inicio de vigencia del presente Decreto, realizarán las adecuaciones reglamentarias correspondientes.
