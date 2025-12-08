@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2025-12-05"
+last_updated: "2025-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2025.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -3093,11 +3093,11 @@ No se procederá contra el estuprador, sino por queja de persona ofendida o de s
 
 ### CAPÍTULO III. VIOLACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 293.
 
-Se sancionará con prisión de diez a veinte años y multa de cien a trescientos días, a quien por medio de la violencia física o moral tenga cópula con una persona cualquiera que sea su sexo.
+Se sancionará con prisión de quince a veinticinco años y multa de quinientos a mil días, a quien por medio de la violencia física o moral tenga cópula con una persona cualquiera que sea su sexo.
 
 Se entiende por cópula la introducción total o parcial del miembro viril en el cuerpo de la víctima, ya sea por vía anal, oral o vaginal.
 
@@ -3109,11 +3109,11 @@ El tratamiento psicológico al que se refiere el párrafo anterior, deberá prop
 
 En caso de que el sujeto activo abandone el tratamiento, quedará sin efecto el perdón y por tanto continuará el proceso en sus etapas correspondientes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 294.
 
-Se sancionará con prisión de diecisiete a treinta años y multa de ciento cincuenta a trescientos días, cuando la violación se cometa en los siguientes casos:
+Se sancionará con prisión de veinte a treinta y cinco años y multa de setecientos a dos mil días, cuando la violación se cometa en los siguientes casos:
 
 I. La violación de un ascendiente a su descendiente, o de éste a aquél, sin importar el grado u origen del parentesco;
 
@@ -3409,13 +3409,13 @@ II. Aquella persona con la que el sujeto activo hubiere procreado hijos en comú
 
 III. Los parientes del sujeto activo en línea recta ascendente o descendente sin límite de grado, el pariente colateral hasta el cuarto grado o por afinidad hasta el segundo grado.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
-Al responsable del delito de violencia familiar se le impondrá de uno a ocho años de prisión y multa de cien a trescientos días, pudiendo el juez decretar la suspensión o pérdida de los derechos de patria potestad, tutela, hereditarios o de alimentos que tenga respecto de la víctima.
+Al responsable del delito de violencia familiar se le impondrá de cuatro a nueve años de prisión y multa de trescientos a seiscientos días, pudiendo el juez decretar la suspensión o pérdida de los derechos de patria potestad, tutela, hereditarios o de alimentos que tenga respecto de la víctima.
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
-Cuando la violencia se ejerza en contra de la mujer por razones de género, se impondrá al responsable del delito una pena de tres a diez años de prisión y multa de cien a trescientos días.
+Cuando la violencia se ejerza en contra de la mujer por razones de género, se impondrá al responsable del delito una pena de cinco a once años de prisión y multa de trescientos a seiscientos días.
 
 Además de las penas señaladas en el párrafo anterior, la autoridad judicial podrá someter al agresor a tratamiento psicológico especializado en institución pública con sede en el Estado, por el tiempo que la autoridad competente determine, el cual no podrá ser mayor al tiempo impuesto en la pena de prisión.
 
@@ -5646,3 +5646,9 @@ Cuarto. Las disposiciones relativas a los delitos de extorsión previstas en el 
 Los procedimientos penales en materia de extorsión, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del mismo.
 
 Quinto. Los centros penitenciarios tendrán 180 días hábiles contados a partir de la entrada en vigor del presente Decreto para establecer los procedimientos y tecnologías de inhibición de entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen a que se refiere el artículo 38 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+P.O. 8 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA LOS ARTÍCULOS 293, 294 Y 311 DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE VIOLACIÓN Y VIOLENCIA FAMILIAR".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
