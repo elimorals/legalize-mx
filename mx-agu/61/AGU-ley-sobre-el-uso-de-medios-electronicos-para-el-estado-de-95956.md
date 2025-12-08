@@ -4,7 +4,7 @@ identifier: "AGU-ley-sobre-el-uso-de-medios-electronicos-para-el-estado-de-95956
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-23"
-last_updated: "2023-12-25"
+last_updated: "2025-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY SOBRE EL USO DE MEDIOS ELECTRONICOS PARA EL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY SOBRE EL USO DE MEDIOS Y ACTOS DIGITALES Y ELECTRÓNICOS PARA EL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 8 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY SOBRE EL USO DE MEDIOS ELECTRÓNICOS PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de septiembre de 2013.
 
@@ -636,3 +638,59 @@ P.O. 25 DE DICIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 8 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 351.- SE REFORMA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL; Y, SE EXPIDE LA LEY SOBRE EL USO DE MEDIOS Y ACTOS DIGITALES Y ELECTRÓNICOS PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, se abroga la Ley Sobre el Uso de Medios Electrónicos para el Estado de Aguascalientes, publicada en fecha 23 de septiembre de 2013, en el en el (sic) Periódico Oficial del Estado de Aguascalientes, así como sus reformas subsecuentes.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Innovación y Gobierno Digital deberá llevar a cabo todas las gestiones administrativas, jurídicas y financieras necesarias para el cumplimiento del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría de Finanzas del Estado proporcionará los recursos financieros necesarios para dar cumplimiento al presente Decreto, por lo que se deberá considerar en el Presupuesto del ejercicio fiscal que corresponda, los egresos y posibles ingresos.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría de Innovación y Gobierno Digital deberá emitir los reglamentos, lineamientos y demás políticas de operación necesarias para el cumplimiento de este Decreto, en un término no mayor a 180 días contados a partir de su entrada en vigor.
+
+###### ARTÍCULO SEXTO.
+
+Hasta en tanto no se expida la normatividad necesaria para el cumplimiento del presente Decreto, se seguirá aplicando la vigente.
+
+De igual forma, los certificados digitales otorgados previamente a la vigencia del presente Decreto, seguirán teniendo validez, hasta en tanto la Secretaría de Innovación y Gobierno Digital no emita, los lineamientos o acuerdo respectivos para la implementación de los nuevos certificados digitales.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Poder Ejecutivo, a través de la Secretaría de Innovación y Gobierno Digital, deberá iniciar la implementación de los distintos sistemas informáticos y mecanismos, objeto del presente Decreto, dentro del primer año siguiente a la de su publicación y conforme a su capacidad técnica, operativa, material y presupuestal.
+
+###### ARTÍCULO OCTAVO.
+
+A partir de la entrada en vigor del presente Decreto, todos los trámites, servicios, procesos y procedimientos administrativos o jurisdiccionales, comunicaciones y demás actos que recaigan dentro de la competencia de los órganos del Estado podrán ser desahogados de manera electrónica, sin perjuicio de aquellos que ya se realizaban a través de esa vía.
+
+###### ARTÍCULO NOVENO.
+
+El Poder Ejecutivo, a través de las instancias correspondientes, realizará las adecuaciones estructurales y las transferencias presupuestarias necesarias de acuerdo a los ajustes previstos en el presente Decreto, a efecto de garantizar el ejercicio de las atribuciones transferidas.
+
+Para tal efecto, se realizarán las transferencias de personal, de recursos financieros y materiales de una Dependencia a otra, a través de los acuerdos administrativos que según procedan, y en su caso, se encuentren vigentes.
+
+Los acuerdos administrativos celebrados entre las Dependencias, objeto del presente Decreto, así como los compromisos, derechos y procedimientos que hubieren suscrito, contraído, adquirido o desarrollado, así como las atribuciones que otras leyes les asignen, serán asumidos por la Secretaría de Innovación y Gobierno Digital.
+
+Para efecto de lo anterior, la Secretaría de Administración y la Secretaría de Finanzas deberán de coordinar y vigilar su cumplimiento.
+
+###### ARTÍCULO DÉCIMO.
+
+Las menciones contenidas en otras disposiciones legales, respecto de las dependencias cuyas funciones, atribuciones, derechos u obligaciones se reforman en virtud del presente Decreto, se entenderán referidas a aquellas que reciben según las transferencias respectivas.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
