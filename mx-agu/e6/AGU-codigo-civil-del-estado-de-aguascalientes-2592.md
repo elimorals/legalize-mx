@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2025-11-21"
+last_updated: "2025-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2025.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -2077,6 +2077,12 @@ Luego que la sentencia sobre nulidad cause ejecutoria, la persona juzgadora, res
 
 El Juez en todo tiempo, podrá modificar la determinación a que se refiere el Artículo anterior, atendiendo a las circunstancias del caso y velando siempre por el interés superior de los hijos.
 
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 282 Bis.
+
+La persona juzgadora en todo el procedimiento, atendiendo a las circunstancias del caso, podrá solicitar a aquellas instituciones de salud pública debidamente acreditadas que cuenten con el servicio de psicología y psiquiatría, que le realicen un diagnóstico psicológico o psiquiátrico a las hijas o los hijos, así como en caso de ser necesario, les brinden el tratamiento adecuado. En su caso, la madre o el padre podrán proponer a un psicólogo o psiquiatra en particular.
+
 ###### Artículo 283.
 
 Declarada la nulidad del matrimonio se procederá a la división de los bienes comunes. Los productos repartibles, si los dos cónyuges hubieren procedido de buena fe, se dividirán entre ellos en la forma convenida en las capitulaciones matrimoniales; si sólo hubiere habido buena fe por parte de uno de los cónyuges, a éste se aplicarán íntegramente esos productos. Si ha habido mala fe de parte de ambos cónyuges, los productos se aplicarán a favor de los hijos.
@@ -2161,11 +2167,17 @@ La reconciliación de los cónyuges pone término al procedimiento de divorcio e
 
 Para efectos del párrafo anterior, los interesados deberán informar su reconciliación al Juez.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 292.
 
-Desde que se presenta la demanda o la solicitud de divorcio, el Juez autorizará la separación de los cónyuges; y solo mientras dure el juicio, dictará las medidas provisionales pertinentes.
+Desde que se presenta la demanda o la solicitud de divorcio, la persona juzgadora autorizará la separación de los cónyuges; y solo mientras dure el juicio, dictará las medidas provisionales pertinentes; mismas que entre otras consideraciones, garanticen la estabilidad de las hijas o los hijos, incluida su salud mental y emocional.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+De igual forma, la persona juzgadora en todo el procedimiento, atendiendo a las circunstancias del caso, podrá solicitar a aquellas instituciones de salud pública debidamente acreditadas y que cuenten con el servicio de psicología y psiquiatría, que le realicen un diagnóstico psicológico o psiquiátrico a las hijas o los hijos, así como en caso de ser necesario, les brinden el tratamiento adecuado. En su caso, los padres podrán proponer a un psicólogo o psiquiatra en particular
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2015)</small>
 
 Cuando el divorcio no se concluya mediante convenio, las medidas referidas en el párrafo anterior subsistirán hasta en tanto no se resuelva el incidente relativo la situación jurídica de hijos o bienes, según corresponda y de acuerdo a las disposiciones siguientes:
 
@@ -18386,3 +18398,11 @@ P.O. 21 DE NOVIEMBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 8 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 307.- SE REFORMA EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
