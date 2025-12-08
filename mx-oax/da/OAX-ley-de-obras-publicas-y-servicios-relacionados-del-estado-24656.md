@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-obras-publicas-y-servicios-relacionados-del-estado-24656
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-11"
-last_updated: "2024-12-31"
+last_updated: "2025-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 11 de septiembre del 2001.
 
@@ -431,57 +431,67 @@ Los servidores públicos que autoricen actos en contravención a lo dispuesto en
 
 ### CAPITULO I BIS. DEL PADRON DE CONTRATISTAS DE OBRA PUBLICA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
-Artículo 26 A.- El Padrón de Contratistas del Estado, tiene por objeto, contar con un registro único de personas físicas o morales, que presten servicios de contratación de obras públicas o servicios relacionados con la misma, dentro del territorio estatal, con la finalidad de que las Dependencias, Entidades y Ayuntamientos ejecutores, consulten su información técnica y económica.
+Artículo 26 A.- El Padrón de Contratistas del Estado, tiene por objeto, contar con un registro de personas físicas y morales, que se encuentren en condiciones técnicas, económicas, fiscales y administrativas de prestar sus servicios para la ejecución de obras públicas o servicios relacionados, en el Estado, con la finalidad de que las Dependencias, Entidades y Ayuntamientos ejecutores, puedan consultar la información necesaria para su contratación.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 La Contraloría será la responsable de integrar y mantener actualizado el Padrón de Contratistas del Estado.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
-Los Ayuntamientos, serán responsables de integrar y mantener actualizado el Padrón de Contratistas de su municipio. Previo a la inscripción o renovación de contratistas, además de cumplir los requisitos de ley, deberán observar que hayan sido empadronados por la Contraloría, en el ejercicio fiscal correspondiente.
+Los Ayuntamientos serán responsables de integrar y mantener actualizado su Padrón de Contratistas Municipal. Para su integración y actualización, deberá vigilarse que las contratistas, además de cumplir con los requisitos que exige la Ley, se encuentren registradas en el Padrón de Contratistas del Estado, debiendo solicitar la constancia de inscripción y/o renovación, vigente.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
-Los Padrones de Contratistas del Estado y Ayuntamientos, deberán ser actualizados y publicados de manera mensual en los medios electrónicos que para tal efecto determinen, así como en el Periódico Oficial del Gobierno del Estado, a más tardar el último día hábil del mes de junio de cada ejercicio fiscal.
+Los Padrones de Contratistas del Estado y Ayuntamientos, deberán ser publicados en el Periódico Oficial del Gobierno del Estado, a más tardar el último día hábil del mes de junio de cada ejercicio fiscal y, actualizados de manera mensual en sus páginas oficiales y/o los medios electrónicos que para tal efecto determinen.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
-La inscripción, renovación o reclasificación en el Padrón de Contratistas, serán obligatorias para todas las contratistas interesadas en participar en los procesos de adjudicación de obras públicas y servicios relacionados, la vigencia del registro será al 31 de diciembre del ejercicio fiscal correspondiente.
+La inscripción, renovación o reclasificación en el Padrón de Contratistas, serán obligatorias para todas las contratistas interesadas en participar en los procesos de adjudicación de obras públicas y servicios relacionados, la vigencia del registro será anual a partir de la emisión de la constancia.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
-Artículo 26 B.- Las contratistas que soliciten su inscripción, renovación o reclasificación, deberán hacerlo mediante los medios que determinen la Contraloría y los Ayuntamientos, según corresponda, debiendo acreditar su personalidad y capacidad técnica y económica, para lo cual deberán acreditar:
+Artículo 26 B.- Las Contratistas que soliciten su inscripción, renovación, reclasificación o reactivación, deberán hacerlo a través de los medios que determinen la contraloría y los Ayuntamientos, según corresponda, debiendo acreditar su personalidad jurídica y capacidad técnica y económica, para lo cual, deberán presentar y acreditar lo siguiente:
 
-I.- Que cuenta con Registro Federal de Contribuyentes;
+I. Documento que acredite la identidad de la persona física o existencia legal de la persona moral solicitante;
 
-II.- Que se encuentre al corriente de sus obligaciones fiscales;
+II. Que cuenta con Registro Federal de Contribuyentes;
 
-III.- Que cuente con folio mercantil electrónico, emitido por el Registro Público de Comercio u homólogo;
+III. Que se encuentre al corriente de sus obligaciones fiscales;
 
-IV.- Que cuenta con capacidad técnica y económica para prestar servicios de contratación de obras públicas o servicios relacionados;
+IV. Tratándose de persona moral, que cuente con folio mercantil electrónico, emitido por el Registro Público de Comercio u homólogo;
 
-V.- Que tenga experiencia en la ejecución de obras públicas y/o servicios relacionados; y
+V. Que cuenta con capacidad técnica y económica para prestar servicios de ejecución de obras públicas o servicios relacionados con las mismas;
 
-VI.- Las demás que para tales efectos establezca la Contraloría en los lineamientos correspondientes.
+VI. Que tenga experiencia en la ejecución de obras públicas y/o servicios relacionados con las mismas, y
 
-Las contratistas, para renovar su inscripción, deberán presentar su solicitud, dentro de los; quince días hábiles anteriores a su vencimiento si omiten presentar la solicitud en el plazo indicado, se suspenderá su registro y no podrán ser contratados para la ejecución de ninguna obra pública o servicio relacionado, durante el ejercicio fiscal que corresponda, debiendo solicitar su reactivación al Padrón de Contratistas del Estado, al siguiente ejercicio fiscal.
+VII. Las demás que para tales efectos establezca la Contraloría en los lineamientos correspondientes.
+
+Las contratistas, para renovar su inscripción, deberán presentar su solicitud dentro de los treinta días naturales anteriores a su vencimiento, si omiten presentar la solicitud en el plazo indicado, se suspenderá su registro y no podrán ser contratados para la ejecución de ninguna obra pública o servicio relacionado con la misma, hasta en tanto sea reactivado su registro; debiendo solicitar de manera fundada y motivada su reactivación al Padrón de Contratistas del Estado previo pago de derechos correspondiente.
+
+Si de los cambios manifestados por la contratista durante su renovación se determina que le es aplicable una reclasificación, la Contraloría procederá a emitir la constancia correspondiente, dejando sin efectos la constancia y clasificación anterior.
+
+Si durante la revisión documental del proceso de renovación, se observa que la contratista debió manifestar modificaciones a las que se hacen alusión en el artículo 26 D, y fue omisa, se suspenderá su registro hasta el ejercicio fiscal siguiente, en los términos del artículo 26 F.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 Artículo 26 C.- Dependiendo de la actividad, capacidad técnica, económica y el cumplimiento en la ejecución de los trabajos adjudicados dentro del ejercicio fiscal anterior, la Contraloría reclasificará a las contratistas de forma ascendente o descendente, de acuerdo con lo siguiente:
 
-I.- Ascendente: A petición de parte, previa verificación de la Contraloría, en cualquier momento del ejercicio fiscal; o, al momento de la renovación; y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+I.- Ascendente: A petición de parte, previa verificación de la documentación que lo acredite y del domicilio fiscal, según corresponda, lo cual podrá ser en cualquier momento del ejercicio fiscal o, al momento de la renovación; y
 
 II.- Descendente: De manera oficiosa en cualquier momento del ejercicio fiscal, cuando del desempeño de la contratista, se determine que ha perdido la capacidad técnica o económica requerida para sostener la clasificación en la que se encuentre ubicada.
 
-Esta clasificación se reflejará en la constancia que para tal efecto se expida.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
-Si de los cambios manifestados, se observa que le es aplicable una reclasificación, quedará sin efectos la constancia emitida en la inscripción o renovación y con ello, se emitirá una nueva constancia, de acuerdo con la ley.
+Esta clasificación se reflejará en la constancia que para tal efecto se expida, de acuerdo con la Ley, quedando sin efectos la constancia y clasificación anterior.
 
-Si durante la revisión documental del proceso de renovación, se observa que la contratista debió manifestar modificaciones a las que se hacen alusión en el artículo 26 D, y fue omisa, se suspenderá su renovación para el ejercicio fiscal en curso, en los términos del artículo 26 F.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
@@ -503,27 +513,65 @@ c) Aumento o disminución de capital social;
 
 d) Cambio de socios, y
 
-e) Cambio de administrador único.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+e) Cambio de administrador único, gerente general, representante o apoderado legal, según corresponda.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+Cualquier modificación correspondiente a datos generales, capacidad técnica o económica o en su actividad que implique cambios a su estructura inicial reportada.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-Si durante la revisión documental del proceso de renovación, se observa que la contratista debió manifestar modificaciones a las que se hacen alusión en el presente artículo, y fue omisa, se suspenderá su renovación para el ejercicio fiscal en curso, en los términos del artículo 26 F.
+Si durante la revisión documental del proceso de renovación, se observa que la contratista debió manifestar modificaciones a las que se hacen alusión en este artículo y fue omisa, se suspenderá su renovación para el ejercicio fiscal en curso, en los términos del artículo 26 F.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
-Artículo 26 E.- La Contraloría y los Ayuntamientos, deberán entregar la constancia de inscripción, renovación o reclasificación al Padrón de Contratistas, en un plazo no mayor a 30 días naturales, después de que la contratista haya cumplido con los requisitos que establece la norma, previo cotejo de los documentos y la verificación del domicilio fiscal.
+Artículo 26 E.- La Contraloría, deberá entregar la constancia de inscripción, renovación, reclasificación o reactivación, al Padrón de Contratistas, en un plazo no mayor a 30 días naturales, después de que la contratista haya cumplido con los requisitos que establece la norma, previo cotejo de los documentos y la verificación del domicilio fiscal.
 
-Si la solicitud fuese confusa o incompleta, se emitirá un oficio de observaciones, el cual deberá ser solventado por la contratista, en un plazo no mayor a 5 días hábiles posteriores a la fecha de notificación.
+Si la solicitud fuese confusa o incompleta, se emitirá un oficio de observaciones, el cual deberá ser solventado por la contratista, en un plazo no mayor de 5 días hábiles posteriores a la fecha de notificación.
 
-Si la Contratista no cumple con la solventación en el plazo concedido, la Contraloría o el Ayuntamiento, según corresponda, emitirán un documento que indique las razones debidamente fundadas y motivadas por las cuales no se emite la constancia de inscripción o renovación; en este supuesto, la contratista no podrá realizar su trámite, sino hasta el ejercicio fiscal siguiente.
+Si la Contratista no cumple con la solventación en el plazo concedido, la Contraloría emitirá un documento que indique las razones debidamente fundadas y motivadas por las cuales no se emite la constancia de inscripción o renovación; en este supuesto, la contratista podrá solicitar nuevamente su registro en cualquier momento del ejercicio fiscal, previo pago de derechos de una nueva solicitud.
+
+La Contraloría, podrá cancelar el trámite de inscripción en el Padrón de Contratistas, de la solicitante, con derecho de volver a solicitar nuevamente su inscripción en cualquier momento del ejercicio fiscal, cuando:
+
+I. La solicitante no reúna los requisitos que exige la Ley y/o los Lineamientos correspondientes;
+
+II. La solicitante no se presente para la descarga en sitio de las declaraciones fiscales directamente del apartado de las declaraciones para personas físicas y/o morales, en día y hora señaladas;
+
+III. De la revisión del trámite o verificación domiciliar se advierta que, la solicitante comparte domicilio fiscal con otras solicitantes o contratistas;
+
+IV. De la revisión del trámite se advierta que, la solicitante comparte con otras solicitantes o contratistas, de manera enunciativa más no limitativa: socios, administradores únicos, gerentes generales, representantes legales u homólogos; tratándose de persona física solicitante, que forme parte de alguna sociedad solicitante o contratista, y
+
+V. Las demás situaciones que se establezcan en la normatividad aplicable o en su caso, determine la Contraloría.
+
+La Contraloría, podrán (sic) cancelar definitivamente el trámite de inscripción en el Padrón de Contratistas, de la solicitante, cuando:
+
+I. La información proporcionada para realizar su trámite de inscripción al Padrón de Contratistas, sea apócrifa o presente alteraciones;
+
+II. Se confirme discrepancias entre las declaraciones fiscales presentadas y las descargadas directamente del buzón tributario;
+
+III. El ente público encargado de la ejecución de obra pública y servicios relacionados, notifique a la Secretaría, que la solicitante no repuso obras o servicios relacionados mal ejecutadas o no ejecutadas, así como las que no cumplan con las normas de calidad;
+
+IV. Si en los procedimientos de contratación, actúa de mala fe o se advierta falsedad en la información y documentación presentada;
+
+V. Incurra en actos, prácticas y omisiones que vulneren el interés general y del erario público, así como en actos de corrupción;
+
+VI. Suscriba contratos de obras públicas y servicios relacionados sin estar inscrito en el Padrón;
+
+VII. Se emita resolución fundada y motivada mediante la cual se le imponga como sanción la inhabilitación para participar en procedimientos de contratación;
+
+VIII. Sea declarada incapacitada legalmente para celebrar actos o contratos de los regulados por esta Ley; y
+
+IX. Aquellas que por medio de acuerdo fundado y motivado
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-Artículo 26 F.- La Contraloría o el Ayuntamiento, en su caso, podrá suspender el registro de la contratista en el Padrón de Contratistas, hasta por un plazo de 24 meses, cuando:
+Artículo 26 F.- La Contraloría o el Ayuntamiento, en su caso, podrá suspender el registro de la contratista en el Padrón de Contratistas, hasta por un plazo de 24 meses cuando:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
-I.- Deje de reunir los requisitos que exige la presente Ley;
+I.- Deje de reunir los requisitos que exige la presente Ley y la normatividad aplicable;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
@@ -533,9 +581,9 @@ II.- No presente en los plazos de ley, su solicitud de renovación;
 
 III.- Incumpla un contrato de obra pública o servicio relacionado que se le haya adjudicado, por causas imputables a la misma;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
-IV.- Impida que los órganos y dependencias facultadas, realicen sus funciones de vigilancia, inspección, control y fiscalización de la obra pública y/o servicio relacionado;
+IV.- Impida que los órganos y dependencias facultadas, realicen sus funciones de vigilancia, inspección, control y fiscalización de la obra pública o servicio relacionado con la misma;
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
@@ -549,65 +597,39 @@ VI.- No atienda por tres ocasiones, las invitaciones que se le realizan para par
 
 VII.- Las demás que se establezcan en la normatividad aplicable.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
-Cuando desaparezcan las causas que hubieran motivado la suspensión del registro, la contratista deberá acreditarlo ante la Contraloría o el Ayuntamiento, según corresponda, con la finalidad de que, una vez analizada la información, se determine lo conducente.
+Cuando desaparezcan las causas que hubieran motivado la suspensión del registro, la contratista deberá acreditarlo ante la Contraloría, con la finalidad de que, una vez analizada la información, se determine lo conducente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
-Artículo 26 G.- La Contraloría o el Ayuntamiento, en su respectiva competencia, podrán cancelar definitivamente el registro de la contratista en el Padrón de Contratistas, cuando:
+Artículo 26 G.- La Contraloría, podrá cancelar definitivamente el registro de la contratista en el Padrón de Contratistas, cuando:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+I.- La información proporcionada para realizar su trámite de inscripción, renovación, reclasificación o reactivación en el Padrón de Contratistas, sea apócrifa o presente alteraciones;
 
-I.- La información proporcionada para realizar el registro al Padrón de Contratistas, sea falsa;
+II.- Se confirme discrepancias entre las declaraciones fiscales presentadas y las descargadas directamente del buzón tributario;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+III.- La contratista haya actuado con dolo o mala fe, en algún procedimiento de contratación o durante la ejecución de la obra o servicio para la que fue contratada;
 
-II.- La contratista haya actuado con dolo o mala fe, en algún procedimiento de contratación o durante la ejecución de la obra o servicio para la que fue contratada;
+IV.- La contratista sea declarada en concurso mercantil;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+V.- La contratista sea declarada incapacitada legalmente para celebrar actos o contratos de los regulados por esta Ley;
 
-III.- La contratista sea declarada en concurso mercantil;
+VI.- Por causas imputables a la contratista, se incumpla un contrato y perjudique gravemente los intereses del Estado;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+VII. Cuando la contratista no formalice el contrato adjudicado, sin causa justificada;
 
-IV.- La contratista sea declarada incapacitada legalmente para celebrar actos o contratos de los regulados por esta Ley;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
-
-V.- Por causas imputables a la contratista, se incumpla un contrato y perjudique gravemente los intereses del Estado;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
-
-VI.- Existan créditos fiscales firmes en contra de la contratista;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
-
-VII.- Cuando la contratista no formalice el contrato adjudicado, sin causa justificada;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
-
-VIII. Cuando la contratista lleve a cabo la facturación de operaciones inexistentes en términos del Código Fiscal de la Federación;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+VIII.- Cuando la contratista lleve a cabo la facturación de operaciones inexistentes en términos del Código Fiscal de la Federación, y sea incluida en el listado definitivo expedido por el SAT;
 
 IX.- La persona física fallezca;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
-
 X.- La contratista acepte o suscriba contratos en contravención a lo establecido por la Ley;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+XI.- La Fiscalía General de la República; la Unidad de Inteligencia Financiera de la Secretaría de Hacienda y Crédito Público; la Unidad de Inteligencia Patrimonial y Económica del Estado de Oaxaca u otra instancia investigadora y/o persecutora de delitos, determine mediante resolución que la contratista como persona física o moral, se encuentra vinculada a operaciones con recursos de procedencia ilícita u operaciones simuladas;
 
-XI.- La Fiscalía General de la República; la Unidad de Inteligencia Financiera de la Secretaría de Hacienda y Crédito Público; la Unidad de Inteligencia Patrimonial y Económica del Estado de Oaxaca u otra instancia investigadora y/o persecutora de delitos, reporten a la contratista como persona física o moral vinculada a operaciones con recursos de procedencia ilícita u operaciones simuladas;
+XII.- La contratista incurra en alguno de los supuestos del artículo 32 de la presente Ley, y
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
-
-XII. La contratista incurra en alguno de los supuestos del artículo 32 de la presente Ley, y
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
-
-XIII. Las demás que se establezcan en la normatividad aplicable.
+XIII.- Las demás que se establezcan en la normatividad aplicable
 
 ### CAPITULO II. DEL PROCEDIMIENTO DE LA LICITACION PUBLICA
 
@@ -1884,3 +1906,15 @@ SÉPTIMO. En un plazo de treinta días naturales posteriores a la entrada en vig
 OCTAVO. En un plazo de ciento ochenta días naturales posteriores a la entrada en vigor del presente Decreto, la Secretaría de Honestidad, Transparencia y Función Pública deberán adecuar y armonizar su normatividad respectiva para el cumplimiento del presente Decreto.
 
 NOVENO. Los Ayuntamientos, deberán emitir la normatividad aplicable a sus Padrones de Contratistas Municipales, en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto
+
+P.O. 8 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 873.- MEDIANTE EL CUAL REFORMAN LOS PÁRRAFOS PRIMERO, TERCERO, CUARTO Y QUINTO DEL ARTÍCULO 26 A, EL ARTÍCULO 26 B, LA FRACCIÓN I Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 26 C, EL INCISO E) DE LA FRACCIÓN II DEL ARTÍCULO 26 D; EL ARTÍCULO 26 E, LAS FRACCIONES I, IV, Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 26 F, Y EL ARTÍCULO 26 G; SE ADICIONA EL PÁRRAFO SEGUNDO RECORRIENDO EL SUBSECUENTE AL ARTÍCULO 26 D; Y SE DEROGA EL TERCER Y CUARTO PÁRRAFO DEL ARTÍCULO 26 C, TODOS DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. La Secretaría de Honestidad, Transparencia y Función Pública, deberá cambiar la vigencia de las constancias expedidas durante el Ejercicio Fiscal 2025, para que esta no sea al 31 de diciembre de 2025, sino de 365 días naturales.
+
+CUARTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido del presente Decreto.
