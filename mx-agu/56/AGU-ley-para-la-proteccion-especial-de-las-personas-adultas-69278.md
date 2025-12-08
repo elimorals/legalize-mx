@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-especial-de-las-personas-adultas-69278"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-13"
-last_updated: "2025-01-06"
+last_updated: "2025-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY PARA LA PROTECCIÓN ESPECIAL DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de julio de 2009.
 
@@ -407,7 +407,9 @@ VI. De la asistencia social:
 
 A) A ser sujetos de acciones y programas de asistencia social en caso de desempleo, discapacidad o pérdida de sus medios de subsistencia;
 
-B) A ser sujetos de acciones y programas para contar con una vivienda digna y adaptada a sus necesidades y requerimientos;
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+B) A ser sujetos de acciones y programas para contar con una vivienda digna, saludable, accesible y adaptable a sus preferencias y necesidades, especialmente a aquellas relativas a impedimentos relacionados con su movilidad;
 
 C) A ser sujetos de programas para tener acceso a una casa de día, casa-hogar, o albergue, u otras alternativas de atención integral, si se encuentran en situación de riesgo o desamparo;
 
@@ -1047,23 +1049,23 @@ IV. Fomentar la inclusión, aceptación y participación de las personas adultas
 
 V. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
 
-### CAPÍTULO X. Del Instituto de Vivienda del Estado de Aguascalientes
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2024)</small>
+### CAPÍTULO X. Del Instituto de Vivienda Social y Ordenamiento de la Propiedad del Estado de Aguascalientes
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 25.
 
-Corresponde al Instituto de Vivienda del Estado de Aguascalientes en materia de personas adultas mayores;
+Corresponde al Instituto de Vivienda Social y Ordenamiento de la Propiedad del Estado de Aguascalientes en materia de personas adultas mayores:
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+I. Instituir acciones y programas de vivienda que permitan a las personas adultas mayores la obtención de créditos accesibles, para adquirir una vivienda propia o remodelarla en caso de ya contar con ella, para garantizar que sean saludables, accesibles y adaptables a sus preferencias y necesidades, especialmente a aquellas relativas a impedimentos relacionados con su movilidad;
 
-I. Instituir acciones y programas de vivienda que permitan a las personas adultas mayores la obtención de créditos accesibles, para adquirir una vivienda propia o remodelarla, en caso de ya contar con ella, de acuerdo con sus necesidades y requerimientos;
+II. Garantizar el acceso a proyectos de vivienda de interés social que ofrezcan igual oportunidad a las personas adultas mayores;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+III. Garantizar, atendiendo al principio de equidad e inclusión, el acceso a programas o proyectos de vivienda de interés social que ofrezcan igual oportunidad a las parejas compuestas por personas adultas mayores, aquéllas que vivan solas o tengan el carácter de jefas o jefes de familia; y
 
-II. Garantizar el acceso a proyectos de vivienda de interés público que ofrezcan igual oportunidad a las personas adultas mayores; y
-
-III. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
+IV. Las demás que le confiera la persona titular del Poder Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
 
 ### CAPÍTULO XI. Del Sistema para el Desarrollo Integral de la Familia del Estado
 
@@ -1878,3 +1880,9 @@ P.O. 6 DE ENERO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del estado de Aguascalientes
+
+P.O. 8 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 310.- SE REFORMA LA LEY PARA LA PROTECCIÓN ESPECIAL DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE AGUASCALIENTES".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
