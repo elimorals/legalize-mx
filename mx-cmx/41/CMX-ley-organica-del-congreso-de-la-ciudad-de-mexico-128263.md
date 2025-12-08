@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-congreso-de-la-ciudad-de-mexico-128263"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2025-06-11"
+last_updated: "2025-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128263&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-12-20"
 
 LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Tomo I de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -212,7 +212,9 @@ XLVII Bis. Sugerencia: Documento emitido y presentado ante el Congreso por las d
 
 XLVIII. Turno: Es el trámite que dicta la o el Presidente de la Mesa Directiva durante las sesiones para remitir los asuntos que se presentan ante el Pleno, la Comisión Permanente o las instancias respectivas, con el fin de darles el curso legal que corresponda dentro del procedimiento legislativo;
 
-XLIX. Unidades administrativas: Oficialía Mayor, Tesorería, Contraloría Interna, Coordinación de Comunicación Social, Instituto de Investigaciones Legislativas, Unidad de Estudios de Finanzas Públicas, Coordinación de Servicios Parlamentarios, del Canal de Televisión, Unidad Transparencia y el Centro de Estudios Legislativos para la Igualdad de Género;
+> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2025)</small>
+
+XLIX. Unidades administrativas: Oficialía Mayor, Tesorería, Contraloría Interna, Instituto de Investigaciones Legislativas, Unidad de Estudios de Finanzas Públicas, Coordinación de Servicios Parlamentarios, del Canal de Televisión, Unidad Transparencia y el Centro de Estudios Legislativos para la Igualdad de Género;
 
 L. Vacante: Es la declaración hecha por el Congreso sobre la situación de ausencia en el ejercicio del cargo de alguna o algún Diputado propietario y suplente, y
 
@@ -1292,9 +1294,11 @@ III. Otorgar y revocar poderes generales y especiales para pleitos y cobranzas a
 
 IV. Poner a consideración de la Conferencia los criterios para la elaboración del programa de cada periodo de sesiones, teniendo como base la agenda presentada por los diferentes Grupos Parlamentarios, el calendario para su desahogo y puntos del orden del día de las sesiones del Pleno;
 
-V. Velar por el cumplimiento de las decisiones y acuerdos que se adopten;
+> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2025)</small>
 
-VI. Acordar con la o el Titular de la Coordinación de Comunicación Social los asuntos que le competen, y
+V. Velar por el cumplimiento de las decisiones y acuerdos que se adopten, y
+
+VI. (DEROGADA, G.O. 8 DE DICIEMBRE DE 2025)
 
 VII. Las demás que se deriven de la presente ley, el reglamento y las que le sean conferidas por la propia Junta.
 
@@ -1436,7 +1440,9 @@ XIV. Conocer y resolver sobre las solicitudes de licencia que le sean presentada
 
 XV. Tomar protesta de las y los funcionarios, en los casos que determine la Constitución y las leyes de la Ciudad de México;
 
-XVI. Ratificar los nombramientos que haga la Junta, del encargado del despacho en caso de ausencia de alguna de las personas titulares de la Oficialía Mayor, Tesorería, Coordinación de Comunicación Social, el Instituto de Investigaciones Legislativas, la Unidad de Estudios de Finanzas Públicas, la Coordinación de Servicios Parlamentarios, del Canal de Televisión, de la Unidad de Transparencia así como del Centro de Estudios Legislativos para la Igualdad de Género;
+> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2025)</small>
+
+XVI. Ratificar los nombramientos que haga la Junta, de la persona encargada del despacho en caso de ausencia de alguna de las personas titulares de la Oficialía Mayor, Tesorería, el Instituto de Investigaciones Legislativas, la Unidad de Estudios de Finanzas Públicas, la Coordinación de Servicios Parlamentarios, del Canal de Televisión, de la Unidad de Transparencia así como del Centro de Estudios Legislativos para la Igualdad de Género;
 
 XVII. Recibir y dar cuenta con comunicaciones de las y los Diputados, las Comisiones, los Comités y cualquier otro órgano dentro del Congreso, así como las remitidas por autoridades federales, estatales y municipales, y de los Órganos Autónomos locales y federales;
 
@@ -1808,7 +1814,7 @@ IV. Tesorería;
 
 V. Instituto de Investigaciones Legislativas;
 
-VI. Coordinación Comunicación Social;
+VI. (DEROGADA, G.O. 8 DE DICIEMBRE DE 2025)
 
 VII. Canal de Televisión.
 
@@ -1826,7 +1832,9 @@ El Congreso dispondrá de las unidades administrativas que sean necesarias para 
 
 El Congreso podrá constituir otras unidades administrativas adicionales, siempre que resulten necesarias para el mejor ejercicio de sus competencias.
 
-El nombramiento de las y los titulares, de la Oficialía Mayor, Tesorería, Coordinación de Comunicación Social, el Instituto de Investigaciones Legislativas, la Unidad de Estudios de Finanzas Públicas, la Coordinación de Servicios Parlamentarios, del Canal de Televisión, de la Unidad de Transparencia y el Centro de estudios Legislativos para la Igualdad de Género serán propuestos por la Junta y serán ratificados por el voto de la mayoría calificada de las y los Diputados presentes en la sesión del Pleno respectiva. La Junta establecerá los criterios que acrediten la formación profesional, experiencia y habilidades necesarias para desempeñar del cargo correspondiente.
+> <small>(REFORMADO, G.O. 8 DE DICIEMBRE DE 2025)</small>
+
+El nombramiento de las y los titulares, de la Oficialía Mayor, Tesorería, el Instituto de Investigaciones Legislativas, la Unidad de Estudios de Finanzas Públicas, la Coordinación de Servicios Parlamentarios, del Canal de Televisión, de la Unidad de Transparencia y el Centro de Estudios Legislativos para la Igualdad de Género, serán propuestos por la Junta y serán ratificados por el voto de la mayoría calificada de las y los Diputados presentes en la sesión del Pleno respectiva. La Junta establecerá los criterios que acrediten la formación profesional, experiencia y habilidades necesarias para desempeñar del (sic) cargo correspondiente.
 
 El Consejo Consultivo de Desarrollo Urbano de la Ciudad de México señalado en la fracción X del presente artículo, es la unidad administrativa, integrada por trece Consejeras o Consejeros, de los cuales uno fungirá como la o el Presidente; y el personal administrativo indispensable para el desempeño de sus funciones.
 
@@ -1882,21 +1890,25 @@ El Instituto de Investigaciones Legislativas, es un órgano administrativo del C
 
 Al Instituto de Investigaciones Legislativas le corresponderá realizar las facultades señaladas en la presente ley y los artículos 505, 506, 507, 508 y 509 del Reglamento, así como los requisitos para ser la o el titular de la misma.
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 8 DE DICIEMBRE DE 2025)</small>
+
 ### CAPÍTULO VIII. Del Canal de Televisión
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 100.
 
-La Coordinación de Comunicación Social tiene como objeto difundir la labor legislativa de las y los Diputados del Congreso, en el marco de la institucionalidad y la imparcialidad garantizando la proyección del trabajo del mismo, en los medios de comunicación social, electrónicos e impresos para divulgar entre la ciudadanía los logros legislativos y así verificar el compromiso de las legislaturas con sus representados.
-
-A la Coordinación de Comunicación Social, le corresponderá realizar las facultades señaladas en la presente ley y los artículos 510, 511 y 512 del Reglamento, así como los requisitos para ser la o el titular de la misma.
+(DEROGADO, G.O. 8 DE DICIEMBRE DE 2025)
 
 ### CAPÍTULO IX. De la Unidad de Transparencia
 
 ###### Artículo 101.
 
-El Canal de Televisión del Congreso de la Ciudad de México, es el órgano técnico, con vigilancia, administración, manejo y operación de independencia editorial, autonomía de gestión financiera, garantías de participación ciudadana, reglas claras para la transparencia y rendición de cuentas, defensa de sus contenidos, opciones de financiamiento, pleno acceso a las tecnologías y reglas para la expresión de diversidades étnicas, ideológicas y culturales. De conformidad con el artículo décimo transitorio de la Reforma Constitucional en materia de telecomunicaciones publicada en el Diario Oficial de la Federación el 11 de junio de dos mil trece.
+El Canal de Televisión del Congreso de la Ciudad de México, es el órgano técnico, con vigilancia, administración, manejo y operación de independencia editorial, autonomía de gestión financiera, garantías de participación ciudadana, reglas claras para la transparencia y rendición de cuentas, defensa de sus contenidos, opciones de financiamiento, pleno acceso a las tecnologías y reglas para la expresión de diversidades étnicas, ideológicas y culturales. De conformidad con las atribuciones constitucionales que se les han conferido a los medios públicos que presten el servicio de radiodifusión en nuestra nación.
 
-Su objetivo será transmitir, video grabar, reseñar y difundir, a través de las distintas plataformas de comunicación y canales de programación la actividad legislativa y parlamentaria que corresponda a las responsabilidades y actividades del Congreso, así como contribuir e informar, analizar y discutir pública y ampliamente la situación del entorno local y nacional.
+> <small>(REFORMADO, G.O. 8 DE DICIEMBRE DE 2025)</small>
+
+Su objetivo será transmitir, video grabar, reseñar y difundir, a través de las distintas plataformas de comunicación y canales de programación la actividad legislativa y parlamentaria que corresponda a las responsabilidades y actividades del Congreso en el marco de la institucionalidad y la imparcialidad garantizando la proyección del trabajo del mismo, en los medios de comunicación social, electrónicos e impresos para divulgar entre la ciudadanía los logros legislativos y así verificar el compromiso de las legislaturas con sus representados, así como contribuir e informar, analizar y discutir pública y ampliamente la situación del entorno local y nacional.
 
 Al Canal de Televisión, le corresponderá realizar las facultades señaladas en la presente ley y los artículos 513, 514, 515, 516, 517, 518, 519, 520 del Reglamento, así como los requisitos para ser la o el titular de la misma.
 
@@ -2963,3 +2975,27 @@ SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publ
 TERCERO. La Junta de Coordinación Política del Congreso de la Ciudad de México estará facultada para determinar, mediante acuerdo, las plataformas digitales institucionales que habrán de utilizarse para la implementación, administración y operación de la firma digital electrónica en los actos legislativos y administrativos internos, garantizando en todo momento la integridad, autenticidad y seguridad de los documentos generados electrónicamente.
 
 CUARTO. Todas aquellas referencias hechas en materia de firma electrónica se entenderán hechas a la firma digital electrónica.
+
+G.O. 8 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE “SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA Y DEL REGLAMENTO, AMBOS DEL CONGRESO DE LA CIUDAD DE MÉXICO, EN MATERIA DE SIMPLIFICACIÓN ORGÁNICA PARA EL CANAL DEL CONGRESO Y LA COORDINACIÓN DE COMUNICACIÓN SOCIAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Los derechos laborales del personal adscrito a la Coordinación de Comunicación Social deberán ser respetados y garantizados conforme a la legislación aplicable. Serán adscritos al Canal de Televisión del Congreso de la Ciudad de México el cual asumirá la responsabilidad administrativa y operativa del referido personal, quedando a su cargo en coordinación con la Oficialía Mayor su incorporación, continuidad laboral y prestaciones correspondientes.
+
+CUARTO. La aplicación de las facultades adquiridas para la persona titular del Canal en materia del presente decreto entrarán en vigor a partir de la elección de la persona titular y su toma de protesta en el pleno para el periodo 2025-2030.
+
+QUINTO. Los recursos humanos, materiales y financieros de la Coordinación de Comunicación Social serán transferidos al Canal de Televisión del Congreso de la Ciudad de México por conducto de la Oficialía Mayor, integrándose plenamente a su estructura.
+
+SEXTO. A partir de la entrada en vigor del presente Decreto, se extingue la figura de la Coordinación de Comunicación Social como unidad administrativa independiente. En su lugar, se transfieren sus funciones al Canal de Televisión del Congreso de la Ciudad de México, en su carácter de Dirección General.
+
+SÉPTIMO. El Congreso de la Ciudad de México deberá realizar las adecuaciones normativas, presupuestales y administrativas necesarias para garantizar la transición ordenada de funciones y recursos humanos, materiales y financieros entre la Coordinación de Comunicación Social y la nueva Dirección General dependiente del Canal de Televisión.
+
+OCTAVO. Los derechos laborales de la persona titular de la Coordinación de Comunicación Social, cuyo encargo concluirá con la entrada en vigor del presente decreto, deberán ser respetados y garantizados conforme a la legislación aplicable.
+
+NOVENO. El Comité de Administración y Capacitación elaborará el manual de organización y procedimientos del Canal de Televisión, en coordinación con su titular.
+
+DÉCIMO. Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes se entenderán como vigentes, el Canal de Televisión del Congreso tendrá la facultad sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente.
