@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-estatal-de-160426"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2022-09-30"
-last_updated: "2025-06-16"
+last_updated: "2025-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número 56 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 30 de septiembre de 2022.
 
@@ -113,7 +113,9 @@ d) Acordar la coordinación de Dependencias y Entidades del Ejecutivo Estatal co
 
 La coordinación prevista en esta fracción, deberá estar orientada al fortalecimiento y desarrollo de la familia como base fundamental de la sociedad.
 
-VIII. Promover y consolidar un sistema de modernización administrativa, de mejora regulatoria y el Servicio Civil de Carrera para los servidores públicos de la Administración Pública del Estado, en términos de lo dispuesto por la Constitución Política Estatal y demás legislación aplicable;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+VIII. Promover y consolidar un sistema de modernización, simplificación y digitalización administrativa, el Servicio Civil de Carrera para los servidores públicos de la Administración Pública del Estado, en términos de lo dispuesto por la Constitución Política Estatal y demás legislación aplicable;
 
 IX. Ordenar la realización de auditorías, revisiones y evaluaciones a las Dependencias y Entidades;
 
@@ -167,7 +169,9 @@ c) Publicidad de la información poseída y generada por las entidades y depende
 
 d) Transparencia, fiscalización ciudadana, escrutinio social y rendición de cuentas sobre la administración y el manejo de los recursos públicos, con el propósito de asegurar que se ejerzan de manera planificada, responsable, con apego al marco legal aplicable y en beneficio de la sociedad;
 
-e) Mejora regulatoria del servicio público mediante la simplificación, agilidad, accesibilidad, economía, precisión, información, legalidad, transparencia, imparcialidad, eficiencia y eficacia en los servicios, procedimientos y actos administrativos, con el propósito de lograr un acercamiento efectivo entre el Estado y sus ciudadanos, y afinar, depurar y corregir las relaciones verticales y transversales de las entidades y dependencias de la Administración Pública Estatal; y
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+e) Simplificación, agilidad, accesibilidad, economía, precisión, información, legalidad, transparencia, imparcialidad, eficiencia y eficacia en los trámites, servicios, procedimientos y actos administrativos, con el propósito de lograr un acercamiento efectivo entre el Estado y la ciudadanía; y
 
 f) Combate frontal, estricto, firme, riguroso y severo a la corrupción y a las malas prácticas institucionales.
 
@@ -359,7 +363,9 @@ XXI. Atender las incidencias de carácter laboral y aplicar las sanciones que co
 
 XXII. Asesorar a los Ayuntamientos del Estado, cuando así lo soliciten, en la esfera de su competencia;
 
-XXIII. Designar al coordinador del proceso de reforma regulatoria de la dependencia de que se trate y supervisar el cumplimiento de las obligaciones establecidas por la Ley de Gestión Empresarial y Mejora Regulatoria para el Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+XXIII. Llevar a cabo todas aquellas acciones para el cumplimiento de las obligaciones establecidas por la Ley Nacional para Eliminar Trámites Burocráticos, así como ejecutar aquellas que para tal efecto emita la autoridad de simplificación y digitalización en el Estado;
 
 XXIV. Generar información actualizada, oportuna y confiable sobre las distintas actividades que se realizan por parte de la Dependencia, y en términos de la Ley de Planeación para el Desarrollo del Estado de Aguascalientes;
 
@@ -515,7 +521,7 @@ XXXVII. Tramitar por acuerdo de la persona titular del Poder Ejecutivo del Estad
 
 XXXVIII. Conducir y poner en ejecución, en coordinación con las autoridades municipales, las políticas y programas de protección civil, y concertar con instituciones y organismos de los sectores social y privado, las acciones conducentes;
 
-XXXIX. Coordinar y supervisar la Unidad de firma Electrónica a que se refiere la Ley Sobre el Uso de Medios Electrónicos para el Estado de Aguascalientes;
+XXXIX. (DEROGADA, P.O. 8 DE DICIEMBRE DE 2025)
 
 XL. Vigilar el cumplimiento de las normas relativas a la capacitación y adiestramiento de los trabajadores;
 
@@ -1535,9 +1541,13 @@ I. Emitir los lineamientos, procesos, procedimientos y, en general, todo lo rela
 
 II. Implementar, diseñar, coordinar, conducir, supervisar y evaluar las políticas relacionadas con la gestión de datos, el gobierno digital, la gobernanza tecnológica, la gobernanza de la conectividad y la gestión de la infraestructura, y simplificación administrativa de la Administración Pública Estatal;
 
-III. Fungir como autoridad en materia de mejora regulatoria y simplificación administrativa en los términos establecidos por la Ley de Mejora Regulatoria y Gestión Empresarial para el Estado de Aguascalientes, teniendo bajo su responsabilidad las materias de mejora regulatoria y simplificación administrativa en la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
-IV. Dictar los lineamientos para la operación de los Sistemas Electrónicos mediante la utilización de firma electrónica, de observancia obligatoria para la Administración Pública Estatal;
+III. Fungir como autoridad en materia de simplificación administrativa y digitalización de trámites y servicios, las buenas prácticas regulatorias, el desarrollo y fortalecimiento de tecnologías públicas en los términos establecidos por la Ley Nacional para la Eliminación de Trámites Burocráticos;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+IV. Dictar los lineamientos y demás disposiciones para la operación de los Sistemas Electrónicos mediante la utilización de firma electrónica, de observancia obligatoria para la Administración Pública Estatal, en los términos establecidos por la Ley sobre el Uso de Medios y Actos Digitales y Electrónicos para el Estado de Aguascalientes;
 
 V. Desarrollar, regular, administrar y supervisar los servicios de tecnologías de la información y comunicaciones de la Administración Pública Estatal, promoviendo su innovación, modernización y mantenimiento;
 
@@ -1549,9 +1559,21 @@ VIII. Celebrar convenios de colaboración para el desarrollo de proyectos interi
 
 IX. Administrar la plataforma digital del sistema de la cartografía del Estado;
 
-X. Coordinar, supervisar, evaluar el Centro de Contacto Digital y los Centros Estatales de Atención de trámites y servicios; y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
-XI. Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
+X. Coordinar, supervisar, evaluar el Centro de Contacto Digital y los Centros Estatales de Atención de trámites y servicios;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+XI. Fungir como Autoridad certificadora, teniendo a su cargo los servicios de certificación de Firma Electrónica Avanzada, Firma Electrónica y de los Métodos y Formas de Autenticación, de conformidad con la Ley sobre el Uso de Medios y Actos Digitales y Electrónicos para el Estado de Aguascalientes, así como las disposiciones jurídicas y legales aplicables para tal efecto;
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+XII. Coordinar y supervisar la Unidad de Firma Electrónica Avanzada a que se refiere la Ley sobre el Uso de Medios y Actos Digitales y Electrónicos para el Estado de Aguascalientes, así como emitir los lineamientos para la operación de los Sistemas Electrónicos mediante la utilización de firma electrónica, de observancia obligatoria para la Administración Pública Estatal y demás sujetos obligados en la materia; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XI], P.O. 8 DE DICIEMBRE DE 2025)</small>
+
+XIII. Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
 
 #### Sección Décimo Sexta. Coordinación General de Movilidad
 
@@ -2126,3 +2148,59 @@ Los sujetos obligados que determinan la Ley de Transparencia y Acceso a la Infor
 QUINTO. Los procedimientos iniciados con anterioridad a la entrada en vigor de este Decreto ante el Instituto de Transparencia del Estado de Aguascalientes, en materia de transparencia, acceso a la información pública y datos personales o cualquier otra distinta a la mencionada en el Transitorio anterior, se sustanciarán conforme a las disposiciones vigentes al momento de su inicio, ante las autoridades garantes correspondientes.
 
 SEXTO. Con la entrada en vigor del presente Decreto, quedan sin efecto todas aquellas disposiciones que se opongan al mismo.
+
+P.O. 8 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE “DECRETO NÚMERO 351.- SE REFORMA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL; Y, SE EXPIDE LA LEY SOBRE EL USO DE MEDIOS Y ACTOS DIGITALES Y ELECTRÓNICOS PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, se abroga la Ley Sobre el Uso de Medios Electrónicos para el Estado de Aguascalientes, publicada en fecha 23 de septiembre de 2013, en el en el (sic) Periódico Oficial del Estado de Aguascalientes, así como sus reformas subsecuentes.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Innovación y Gobierno Digital deberá llevar a cabo todas las gestiones administrativas, jurídicas y financieras necesarias para el cumplimiento del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría de Finanzas del Estado proporcionará los recursos financieros necesarios para dar cumplimiento al presente Decreto, por lo que se deberá considerar en el Presupuesto del ejercicio fiscal que corresponda, los egresos y posibles ingresos.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría de Innovación y Gobierno Digital deberá emitir los reglamentos, lineamientos y demás políticas de operación necesarias para el cumplimiento de este Decreto, en un término no mayor a 180 días contados a partir de su entrada en vigor.
+
+###### ARTÍCULO SEXTO.
+
+Hasta en tanto no se expida la normatividad necesaria para el cumplimiento del presente Decreto, se seguirá aplicando la vigente.
+
+De igual forma, los certificados digitales otorgados previamente a la vigencia del presente Decreto, seguirán teniendo validez, hasta en tanto la Secretaría de Innovación y Gobierno Digital no emita, los lineamientos o acuerdo respectivos para la implementación de los nuevos certificados digitales.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Poder Ejecutivo, a través de la Secretaría de Innovación y Gobierno Digital, deberá iniciar la implementación de los distintos sistemas informáticos y mecanismos, objeto del presente Decreto, dentro del primer año siguiente a la de su publicación y conforme a su capacidad técnica, operativa, material y presupuestal.
+
+###### ARTÍCULO OCTAVO.
+
+A partir de la entrada en vigor del presente Decreto, todos los trámites, servicios, procesos y procedimientos administrativos o jurisdiccionales, comunicaciones y demás actos que recaigan dentro de la competencia de los órganos del Estado podrán ser desahogados de manera electrónica, sin perjuicio de aquellos que ya se realizaban a través de esa vía.
+
+###### ARTÍCULO NOVENO.
+
+El Poder Ejecutivo, a través de las instancias correspondientes, realizará las adecuaciones estructurales y las transferencias presupuestarias necesarias de acuerdo a los ajustes previstos en el presente Decreto, a efecto de. garantizar el ejercicio de las atribuciones transferidas.
+
+Para tal efecto, se realizarán las transferencias de personal de recursos financieros y materiales de una Dependencia a otra, a través de los acuerdos administrativos que según procedan, y en su caso, se encuentren vigentes.
+
+Los acuerdos administrativos celebrados entre las Dependencias, objeto del presente Decreto, así como los compromisos, derechos y procedimientos que hubieren suscrito, contraído, adquirido o desarrollado, así como las atribuciones que otras leyes les asignen, serán asumidos por la Secretaría de Innovación y Gobierno Digital.
+
+Para efecto de lo anterior, la Secretaria de Administración y la Secretaría de Finanzas deberán de coordinar y vigilar su cumplimiento.
+
+###### ARTÍCULO DÉCIMO.
+
+Las menciones contenidas en otras disposiciones legales, respecto de las dependencias cuyas funciones, atribuciones, derechos u obligaciones se reforman en virtud del presente Decreto, se entenderán referidas a aquellas que reciben según las transferencias respectivas.
+
+###### ARTICULO DÉCIMO PRIMERO.
+
+Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
