@@ -4,7 +4,7 @@ identifier: "SON-ley-de-seguridad-publica-para-el-estado-de-sonora-82228"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-14"
-last_updated: "2025-04-24"
+last_updated: "2025-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SON"
 ---
 # LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE SONORA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PÚBLICA Y PROTECCIÓN CIUDADANA PARA EL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 9 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE DICIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 14 de julio de 2011.
 
@@ -3292,3 +3292,121 @@ Se autoriza al Secretario de Hacienda para que, en representación del Gobierno 
 ###### ARTÍCULO CUARTO.
 
 Los primeros representantes de los organismos del sector privado serán seleccionados por el del Comité Ciudadano de Seguridad Pública del Estado de Sonora, quien determinará la (sic) vigencias de esas designaciones por dos, tres y cuatro años por esa única vez, y los sustitutos de estos durarán cuatros (sic) años en su encargo.
+
+B.O. 9 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE SEGURIDAD PÚBLICA Y PROTECCIÓN CIUDADANA PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Seguridad Pública para el Estado de Sonora, publicada en el Boletín Oficial del Estado de Sonora el 14 de julio de 2011, así como sus reformas, salvo las excepciones previstas en los presentes Artículos Transitorios.
+
+###### ARTÍCULO TERCERO.
+
+El Titular del Poder Ejecutivo del Estado en un término de ciento ochenta días hábiles publicará el Reglamento de esta Ley. En un término de 60 días hábiles, posteriores a la publicación del reglamento de esta Ley, se realizarán las adecuaciones a los demás Reglamentos, Manuales de Organización y de Procedimientos, lineamientos que sean necesarios para el cumplimiento del objetivo de la presente Ley.
+
+El Titular de la Secretaría de Seguridad y Protección Ciudadana queda facultado para resolver las cuestiones que se presenten relacionadas con los manuales administrativos en tanto éstos se expidan.
+
+###### ARTÍCULO CUARTO.
+
+Las menciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición, respecto de la Secretaría de Seguridad Pública, se entenderá que se refiere a la Secretaría de Seguridad y Protección Ciudadana.
+
+Todos los recursos humanos, materiales, incluidos todo tipo de bienes muebles o inmuebles y financieros de la Secretaría de Seguridad Pública, pasan a formar parte de la Secretaría de Seguridad y Protección Ciudadana, conforme a la estructura administrativa que el Ejecutivo del Estado determine a través de Oficialía Mayor del Estado de Sonora y la Secretaría de Hacienda del Estado.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos en trámite que son atendidos por las dependencias que modifican su denominación o atribuciones en virtud de la entrada en vigor del presente ordenamiento, serán atendidos y resueltos por las unidades administrativas a las que se les otorga la competencia y atribución correspondiente, de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO SEXTO.
+
+El Secretario de Seguridad Pública del Estado que se encuentre actualmente en funciones, quedará designado y se ratifica por virtud de esta Ley como Secretario de Seguridad y Protección Ciudadana, en términos de lo dispuesto en el artículo 64, fracción XX, de la Constitución Política del Estado de Sonora.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Estado y los municipios, respectivamente, deberán publicar, a más tardar dentro de los noventa días naturales después de la entrada en vigor del presente ordenamiento, las disposiciones normativas de la presente Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Las disposiciones contenidas en los artículos 62, 63 y 67, de la presente Ley, entrarán en vigor de manera gradual conforme a las siguientes bases:
+
+I. Para los municipios cuya población no exceda de treinta mil habitantes, entrarán en vigor seis meses después de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora;
+
+II. Para los municipios cuya población exceda de treinta mil, pero no de cien mil habitantes, entrarán en vigor nueve meses después de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora; y
+
+III. Para los municipios cuya población exceda de cien mil habitantes, entrarán en vigor un año después de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+Excepcionalmente y de manera anticipada a los plazos referidos en las fracciones anteriores, el Gobernador del Estado podrá proponer y celebrar los convenios a que se refieren los artículos 62, 63 y 67, de la presente Ley, con los Ayuntamientos y en los casos que se consideren indispensables para fortalecer las funciones de seguridad pública y policía municipal correspondientes.
+
+###### ARTÍCULO NOVENO.
+
+La integración y el funcionamiento del Consejo Estatal de Seguridad Pública deberá adecuarse a lo establecido en la presente Ley, a más tardar dentro de los noventa días posteriores a su entrada en vigor.
+
+La elaboración y aprobación del Reglamento Interno del Consejo Estatal de Seguridad Pública, deberá expedirse a más tardar dentro de los sesenta días posteriores a la integración del Consejo.
+
+###### ARTÍCULO DÉCIMO.
+
+El Titular de la Secretaría de Seguridad Pública y Protección Ciudadana ejercerá las atribuciones previstas en esta Ley y, cuando corresponda, actuará como representante del Secretariado Ejecutivo del Consejo Nacional de Seguridad Pública ante el Consejo Estatal, conforme a lo dispuesto en la Ley General del Sistema Nacional de Seguridad Pública y su Reglamento, y en lo que establezca la citada Ley para el ámbito estatal.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Dentro de los seis meses siguientes a partir de la entrada en vigor de esta Ley, las instituciones de seguridad pública iniciarán de manera progresiva las evaluaciones respectivas a sus integrantes, de conformidad con lo dispuesto en esta Ley, sus respectivos ordenamientos legales y el calendario aprobado por el Consejo Estatal.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Las disposiciones relativas a los perfiles y grados de estudios exigibles para la permanencia de los integrantes de las Instituciones Policiales, entrarán en vigor en un año contado a partir de la fecha de publicación de la presente Ley.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Las personas servidoras públicas contratadas con anterioridad al inicio de la vigencia de la presente Ley, adscritas a la Secretaría de Seguridad Pública, del ámbito Estatal y Municipal, serán consideradas personal de seguridad pública y de confianza, en virtud de la confidencialidad y secrecía de las actividades de sus centros de trabajo.
+
+Por lo que corresponde al personal de base, legalmente reconocidos previo a la vigencia de esta Ley respecto de sus derechos laborales, se sujetarán al régimen legal por el que fueron contratados hasta en tanto se esté en posibilidad de definir su reubicación laboral. A partir de la entrada en vigor de la presente Ley, todo personal contratado para prestar sus servicios ante la Secretaría de Seguridad y Protección Ciudadana, e instituciones policiales de seguridad pública municipal será considerado personal de confianza.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Las Instituciones Policiales estatales y municipales contarán con un plazo de un año contado a partir de la fecha en que entre en vigor la presente Ley, para adoptar la escala jerárquica establecida en la presente Ley, atendiendo a sus capacidades y necesidades administrativas, operativas y presupuestales.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Los servicios de carrera vigentes en las instituciones de seguridad pública a la fecha de entrada en vigor de esta Ley, dentro del plazo de un año contado a partir de la fecha en que entre en vigor la presente Ley, deberán ajustarse a los requisitos, criterios y procedimientos que sobre esta materia se establecen en el presente ordenamiento y en la normatividad aplicable.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Los integrantes de las Instituciones Policiales que obtengan el certificado y que cumplan los requisitos de ingreso y permanencia que se establecen en esta Ley y en los ordenamientos legales federales y estatales aplicables, ingresarán o serán homologados al servicio de carrera, en la jerarquía y grado correspondiente, de conformidad a lo previsto en este ordenamiento. Los derechos que resulten aplicables, así como su antigüedad, deben ser reconocidos en su nuevo estatus del Servicio Profesional de Carrera.
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+Los prestadores de servicios de seguridad privada en el territorio del Estado, que no cuenten con la autorización respectiva, contarán con un plazo de ciento ochenta días naturales improrrogables, contados a partir de la entrada en vigor de esta Ley, para solicitar la autorización correspondiente y regularizar su funcionamiento.
+
+###### ARTÍCULO DÉCIMO OCTAVO.
+
+El Ejecutivo del Estado y los Ayuntamientos, deberán desarrollar el Sistema Complementario de Seguridad Social para el retiro y jubilación de los miembros de las Instituciones Policiales, en el plazo de un año.
+
+###### ARTÍCULO DÉCIMO NOVENO.
+
+Las Comisiones de Honor y Justicia, así como la Comisión de Carrera Policial y Promoción de las Instituciones Policiales estatales y municipales, deberán quedar instaladas en cuanto a su estructura y organización conforme a la presente Ley, en un plazo de seis meses contados a partir de la entrada en vigor de la misma. En tanto se realice la instalación de las Comisiones, seguirán operando las anteriores, aplicando en lo conducente las disposiciones de la presente Ley y en caso necesario, las disposiciones que le dieron origen.
+
+Los expedientes en las Comisiones, pasarán a los nuevos Órganos Colegiados, sin que para ello se deje sin efecto el estatus procesal actual; asumiendo éstos, el trámite y seguimiento de los expedientes en proceso ante las Comisiones de las instituciones policiales estatales y municipales y se resolverán en observancia a las disposiciones jurídicas vigentes en el tiempo de su presentación.
+
+###### ARTÍCULO VIGÉSIMO.
+
+Se autoriza al Ejecutivo del Estado por conducto de la Secretaría de Hacienda, para que realice las transferencias presupuestales que sean necesarias para el cumplimiento de los objetivos de la presente Ley.
+
+###### ARTÍCULO VIGÉSIMO PRIMERO.
+
+Los integrantes del Comité Ciudadano de Seguridad Pública del Estado continuarán en el cargo durante el periodo de tiempo por el que fueron designados, conforme a las bases establecidas en los artículos 30 al 32, de la presente Ley. Dentro de un plazo de noventa días hábiles contados a partir de la entrada en vigor del presente ordenamiento, los Ayuntamientos deberán expedir las disposiciones reglamentarias correspondientes para la integración de sus respectivos Comités Ciudadanos de Seguridad Pública Municipales.
+
+La elaboración y aprobación de los Reglamentos Internos de los Comités Ciudadanos de Seguridad Pública Estatal y Municipal, deberá expedirse a más tardar dentro de los noventa días posteriores a la integración de los Comités.
+
+###### ARTÍCULO VIGÉSIMO SEGUNDO.
+
+Los exfuncionarios que a la fecha de entrada en vigor de la presente Ley cuenten, por disposición administrativa, con protección y vigilancia de su integridad física proporcionada por el Gobierno del Estado, continuarán con dicho servicio, debiendo correr el término que señala el artículo 55, de la presente Ley; para tal efecto, el Comité de Evaluación de Riesgo elaborará un registro en el que se precise la relación de las personas que cuenten con dicho beneficio.
+
+###### ARTÍCULO VIGÉSIMO TERCERO.
+
+Las Unidades de Asuntos Internos estatales y municipales, deberán quedar instaladas en cuanto a su estructura y organización conforme a la presente Ley, en un plazo de seis meses contados a partir de la entrada en vigor de la misma. En tanto se realice la instalación de las Unidades municipales y la Unidad de Asuntos Internos del Estado, seguirán operando las anteriores, aplicando en lo conducente las disposiciones de la presente Ley y en caso necesario, las disposiciones que le dieron origen.
+
+Los expedientes en trámite de las Unidades de Asuntos Internos pasarán a la nueva Unidad, sin que para ello se deje sin efecto el estatus procesal actual.
