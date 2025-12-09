@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-del-estado-de-mexico-83547"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-19"
-last_updated: "2025-05-16"
+last_updated: "2025-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE SEGURIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 19 de octubre de 2011.
 
@@ -189,9 +189,17 @@ XI. Determinar y coordinar la participación de la ciudadanía, comunidad, organ
 
 XII. Implementar mecanismos de evaluación en la aplicación de los fondos de ayuda federal para la seguridad pública;
 
-XIII. Fortalecer los sistemas de seguridad social de los servidores públicos, sus familias y dependientes, e instrumentar los complementarios a éstos; y
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE DE 2025)</small>
 
-XIV. Realizar las demás acciones que sean necesarias para incrementar la eficacia en el cumplimiento de los fines de la seguridad pública.
+XIII. Fortalecer los sistemas de seguridad social de los servidores públicos, sus familias y dependientes, e instrumentar los complementarios a éstos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 9 DE DICIEMBRE DE 2025)</small>
+
+XIV. Coordinarse para establecer criterios y estándares uniformes sobre la imagen institucional de las corporaciones policiales del Estado de México, incluyendo el balizamiento de su parque vehicular oficial, uniformes, calzado, equipamiento de protección personal, insignias, logotipos, cromática y demás elementos y accesorios relacionados con su identificación, mismos que, en ningún caso, podrán hacer promoción, alusión o disponer la utilización de colores, lemas o cualquier otro elemento que pueda identificarse o relacionarse, directa o indirectamente, con partidos políticos o con cualquier otro tipo de agrupación u organización, de conformidad con el Manual de Identidad para las Corporaciones de Seguridad Pública, esta Ley, los lineamientos correspondientes y demás ordenamientos aplicables, que permitan su homologación, identificación clara y fortalecimiento de la confianza ciudadana; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 9 DE DICIEMBRE DE 2025)</small>
+
+XV. Realizar las demás acciones que sean necesarias para incrementar la eficacia en el cumplimiento de los fines de la seguridad pública.
 
 ###### Artículo 9.
 
@@ -439,9 +447,13 @@ XXXVII. Efectuar la emisión de dictámenes para la adquisición, remplazo y amp
 
 XXXVIII. Realizar en conjunto con las instituciones del sistema educativo del Estado de México públicas o privadas, el seguimiento y evaluación constante de acciones que impliquen la revisión e inspección de mochilas o bolsos al ingreso, durante su estancia o al salir, de los planteles escolares. Así como también implementar programas en materia de seguridad escolar en las instituciones públicas o privadas.
 
-> <small>(ADICIONADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 9 DE DICIEMBRE DE 2025)</small>
 
-XXXIX. Las demás que establezcan la Constitución Estatal, la Ley General, esta Ley y demás ordenamientos de la materia, así como las que le confiera el Gobernador del Estado.
+XXXIX. Expedir los lineamientos o instructivos de aplicación, así como vigilar, en colaboración con el Secretariado Ejecutivo, la observancia a los lineamientos de imagen institucional establecidos en el Manual de Identidad para las Corporaciones de Seguridad Pública, y, en su caso, imponer las sanciones o medidas correctivas en las Instituciones Estatales de Seguridad Pública, de conformidad con las disposiciones aplicables, así como coordinar con los Ayuntamientos su instrumentación;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 9 DE DICIEMBRE DE 2025)</small>
+
+XL. Las demás que establezcan la Constitución Estatal, la Ley General, esta Ley y demás ordenamientos de la materia, así como las que le confiera el Gobernador del Estado.
 
 B. En materia de reinserción social:
 
@@ -541,11 +553,17 @@ VI. Implementar la carrera policial;
 
 VII. En el ámbito de sus atribuciones, pedir a los propietarios o poseedores que soliciten una licencia de funcionamiento o su revalidación de los giros que impliquen actividades de carácter permanente, que por sus características motiven elevados índices de afluencia de personas, tránsito de vehículos o manejo de efectivo y de valores, cuenten con sistemas de video vigilancia operacionales en sus inmuebles, en el entendido de que la captación de imágenes y sonido podrán ser utilizados con fines de seguridad pública en la entidad, así como establecer políticas para implementar acciones coordinadas entre el ámbito público y privado con el objeto de prevenir actos delictivos;
 
-> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE DE 2025)</small>
 
-VIII. En el ámbito de sus atribuciones llevar registro de los establecimientos cuyo giro sea la fabricación y comercialización de uniformes e insignias de las instituciones de seguridad pública, remitiendo la información que corresponda a la Secretaría; y
+VIII. En el ámbito de sus atribuciones llevar registro de los establecimientos cuyo giro sea la fabricación y comercialización de uniformes e insignias de las instituciones de seguridad pública, remitiendo la información que corresponda a la Secretaría;
 
-IX. Las demás que les señalen ésta u otras leyes de la materia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 9 DE DICIEMBRE DE 2025)</small>
+
+IX. En el ámbito de sus atribuciones, incorporar en sus disposiciones administrativas la obligación de acatar íntegramente los lineamientos de imagen institucional emitidos por el Consejo Nacional, la Secretaría y el Secretariado Ejecutivo, y entregar anualmente un informe de su cumplimiento ante el Consejo Estatal; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 9 DE DICIEMBRE DE 2025)</small>
+
+X. Las demás que les señalen ésta u otras leyes de la materia.
 
 ###### Artículo 21.
 
@@ -1461,11 +1479,17 @@ XV. Elaborar estadísticas periódicamente, y presentarlas ante el Consejo Estat
 
 XVI. Supervisar, en coordinación con las demás instancias competentes la correcta aplicación de los recursos de los fondos por parte de las instituciones de seguridad pública;
 
-XVII. Designar a los delegados que lo representen en las instancias de coordinación en los términos de esta Ley; y
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+XVII. Designar a los delegados que lo representen en las instancias de coordinación en los términos de esta Ley;
 
-XVIII. Las demás que le otorga esta Ley y otros ordenamientos jurídicos, así como las que sean necesarias para el cumplimiento de sus funciones y las que le encomienden el Consejo Estatal, su Presidente y el Secretario de Seguridad.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 9 DE DICIEMBRE DE 2025)</small>
+
+XVIII. Supervisar y coordinar con las demás instancias competentes la implantación, tanto en las Instituciones Estatales como en los Municipios, de los lineamientos de imagen institucional, de conformidad con el Manual de Identidad para las Corporaciones de Seguridad Pública, los acuerdos e instructivos emitidos por la Secretaría, y los ordenamientos jurídicos aplicables; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 9 DE DICIEMBRE DE 2025)</small>
+
+XIX. Las demás que le otorga esta Ley y otros ordenamientos jurídicos, así como las que sean necesarias para el cumplimiento de sus funciones y las que le encomienden el Consejo Estatal, su Presidente y el Secretario de Seguridad.
 
 > <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
@@ -4872,3 +4896,13 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publi
 TERCERO.- La Universidad Mexiquense de Seguridad deberá establecer los planes y programas educativos correspondientes para dar cumplimiento al presente Decreto en un periodo no mayor a 90 días naturales posteriores a su entrada en vigor.
 
 CUARTO.- Para el mejor desempeño de sus responsabilidades, las personas directoras de Seguridad Pública Municipal o sus equivalentes, que actualmente se encuentren en funciones y que hayan sido designadas conforme al procedimiento previsto hasta antes de la entrada en vigor del presente Decreto, deberán de certificarse como mandos en seguridad pública, de acuerdo con los planes y programas educativos que para tal efecto establezca la Universidad Mexiquense de Seguridad.
+
+G.G. 9 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 220.- POR EL QUE SE REFORMAN LAS FRACCIONES XIII Y XIV DEL ARTÍCULO 8, LA FRACCIÓN XXXIX DEL ARTÍCULO 16, LAS FRACCIONES VIII Y IX DEL ARTÍCULO 20 Y LAS FRACCIONES XVII Y XVIII DEL ARTÍCULO 61; ? SE ADICIONAN LA FRACCIÓN XV AL ARTÍCULO 8, LA FRACCIÓN XL AL ARTÍCULO 16, LA FRACCIÓN X AL ARTÍCULO 20 Y LA FRACCIÓN XIX AL ARTÍCULO 61 DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO; Y SE ADICIONA EL ARTÍCULO 143 BIS A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
