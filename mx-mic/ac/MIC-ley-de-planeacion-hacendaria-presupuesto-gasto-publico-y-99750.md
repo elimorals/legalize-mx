@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-planeacion-hacendaria-presupuesto-gasto-publico-y-99750"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-20"
-last_updated: "2023-12-20"
+last_updated: "2025-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY DE PLANEACIÓN HACENDARIA, PRESUPUESTO, GASTO PÚBLICO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 20 de marzo de 2014.
 
@@ -307,9 +307,11 @@ Deberán establecer los criterios generales de política económica y las medida
 
 La Secretaría, realizará los estudios pertinentes con el propósito de formular una política de gasto público razonable respecto al desenvolvimiento de los indicadores de desempeño e impacto en la sociedad y de contar con criterios financieros, que permitan incrementar la eficiencia en el aprovechamiento de los arbitrios del Estado, los cuales deberán de ser observadas (sic) en todos los Entes Públicos en el ámbito estatal.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2025)</small>
 
-ARTÍCULO 12 BIS. El Congreso del Estado, en el Presupuesto de Egresos, podrá autorizar presupuesto multianual para obra pública. Las erogaciones correspondientes deberán incluirse en los subsecuentes presupuestos de egresos y no podrán exceder los ejercicios fiscales que correspondan al ejercicio de gobierno de la administración que los contrate.
+ARTÍCULO 12 BIS. El Congreso del Estado, en el Presupuesto de Egresos, podrá autorizar presupuesto multianual para obra pública. Las erogaciones correspondientes deberán incluirse en los subsecuentes presupuestos de egresos y no podrán exceder los ejercicios fiscales que correspondan al ejercicio de gobierno de la administración que los contrate. En caso de autorizar presupuesto multianual para obra pública, el Presupuesto de Egresos correspondiente, así como los subsecuentes, deberán contener la información relativa a las obras que se ejecutarán, incluyendo al menos: calendario de inversión, folio asignado por Secretaría de Finanzas y Administración y tipo de obra, descripción de la misma, ubicación, avance, Unidad Programática Presupuestal, costo total, monto ejercido en cada año previo, monto asignado en el año de que se trate y monto comprometido en cada año posterior.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 Los ejecutores del gasto podrán celebrar contratos de obras públicas que requieran presupuesto multianual, durante el ejercicio fiscal, siempre que:
 
@@ -321,15 +323,27 @@ III. Identifiquen el gasto corriente o de inversión correspondiente; y,
 
 IV. Desglosen el gasto a precios del año tanto para el ejercicio fiscal correspondiente, como para los subsecuentes.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
 Las dependencias requerirán la autorización presupuestaria de la Secretaría de Finanzas y Administración para la celebración de los contratos a que se refiere este artículo, en los términos del reglamento correspondiente. En el caso de las entidades, se sujetarán a la autorización de su titular conforme a las disposiciones aplicables. El o los contratos de las obras que requieran presupuesto multianual, no podrán rebasar, por sí o en conjunto, tope presupuestal autorizado por el Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 Las dependencias y entidades deberán informar a la Secretaría de Contraloría sobre la celebración de los contratos a que se refiere este artículo, dentro de los 30 días posteriores a su formalización.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
 El Gobierno del Estado, a través de los ejecutores del gasto y previa validación de la Secretaría de Finanzas y Administración, expedirá Certificados de Avance de Obra para documentar los compromisos de pago amparados en estimaciones por obra ejecutada, conforme a los términos pactados en el contrato respectivo.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 Los ejecutores del gasto deberán incluir en los informes trimestrales un reporte sobre el monto total erogado durante el periodo, correspondiente a los contratos a que se refiere este artículo, así como incluir las previsiones correspondientes en sus ante proyectos de presupuesto para el siguiente ejercicio fiscal.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
 El proyecto de Presupuesto de Egresos deberá prever, en un capítulo específico, los compromisos multianuales y las previsiones de gasto correspondientes que deriven de contratos de obra pública, y estarán sujetos a la disponibilidad presupuestaria. Los compromisos excedentes no cubiertos tendrán preferencia respecto de otras previsiones de gasto en cada ejercicio fiscal.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 La autorización para contratar obra pública con presupuesto multianual contenida en un Presupuesto de Egresos, tendrá vigencia durante los ejercicios fiscales subsecuentes, sin exceder del periodo que corresponda a la administración en turno.
 
@@ -1772,3 +1786,13 @@ P.O. 20 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 603 POR EL QUE “SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 17; SE REFORMAN LOS NUMERALES 1,2,3,4,5, DEROGÁNDOSE EL NUMERAL 6, DEL APARTADO A), FRACCIÓN X, DEL ARTÍCULO 20; SE REFORMAN LOS NUMERALES 1,2,3,4,5,6,7,8,9, DEROGÁNDOSE LOS NUMERALES 10 Y 11, DEL APARTADO B), FRACCIÓN X, DEL ARTÍCULO 20; SE ADICIONA UN APARTADO C), CON LOS NUMERALES 1, 2, 3 Y 4, A LA FRACCIÓN X DEL ARTÍCULO 20; SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 42; Y, SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 13, TODOS DE LA LEY DE PLANEACIÓN HACENDARIA, PRESUPUESTO, GASTO PÚBLICO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día 1° de enero de 2024, previa publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 9 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 328 POR EL QUE "SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 12 BIS DE LA LEY DE PLANEACIÓN HACENDARIA, PRESUPUESTO, GASTO PÚBLICO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Dese cuenta el presente Decreto al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Tercero. Remítase copia del presente Decreto a la Secretaría de Finanzas y Administración del Estado de Michoacán de Ocampo, para conocimiento y efectos conducentes.
