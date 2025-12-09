@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2025-04-29"
+last_updated: "2025-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -3147,6 +3147,20 @@ El Ejecutivo Federal y el Gobernador del Estado en los términos del artículo 1
 
 En el municipio donde residan permanentemente los Poderes del Estado, el mando de la fuerza pública municipal lo ejercerá, en cualquier caso el Ejecutivo Estatal a través de la Dirección General de Seguridad Pública y Tránsito.
 
+> <small>(ADICIONADO, G.G. 9 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 143 Bis.
+
+Cuando el ayuntamiento adquiera por cualquier concepto, vestuario, calzado, equipamiento de protección personal, vehículos o accesorios para las instituciones de seguridad pública y sus elementos, deberá homologarlo con los estándares de calidad, diseño y colores, así como especificaciones técnicas mínimas dispuestas en el Manual de Identidad para las Corporaciones de Seguridad Pública y los lineamientos correspondientes.
+
+Toda propuesta de variación a estos requisitos deberá respetar los estándares generales de los diseños, el balizamiento y la imagen corporativa, establecidos por dicho Manual. Previa aprobación del cabildo, será sometida a la opinión técnica, no vinculante y con carácter consultivo de la Secretaría de Seguridad del Estado, a través del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, la cual deberá emitirse en un plazo no mayor a diez días hábiles.
+
+Los ayuntamientos y comités deberán incluir en las bases de la licitación correspondiente, posterior a su estudio de mercado, las especificaciones mínimas descriptivas de diseño y color del Manual de Identidad para las Corporaciones de Seguridad Pública y en los Lineamientos para la adquisición de vehículos y de sistemas de videovigilancia para los municipios del Estado de México, que deberán aplicarse de manera uniforme a todos los proveedores y no restringir de forma injustificada la participación de empresas nacionales, pymes o cooperativas.
+
+Todos los vehículos que sean requeridos para las instituciones de seguridad pública deberán inscribirse, con las consideraciones técnicas del párrafo anterior, en el Catálogo de Bienes y Servicios del Sistema COMPRAMEX que corresponda a los municipios.
+
+Los ayuntamientos que lleven a cabo excepciones al procedimiento de licitación pública estarán a lo dispuesto por la Ley de Contratación Pública del Estado de México y Municipios, y a su Reglamento, en observancia de las especificaciones previamente establecidas y justificadas.
+
 > <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 144.
@@ -5742,3 +5756,13 @@ SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 TERCERO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Ley de Desarrollo Social del Estado de México se entenderán hechas a la Ley de Bienestar y Desarrollo Social del Estado de México.
 
 CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
+
+G.G. 9 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 220.- POR EL QUE SE REFORMAN LAS FRACCIONES XIII Y XIV DEL ARTÍCULO 8, LA FRACCIÓN XXXIX DEL ARTÍCULO 16, LAS FRACCIONES VIII Y IX DEL ARTÍCULO 20 Y LAS FRACCIONES XVII Y XVIII DEL ARTÍCULO 61; Y SE ADICIONAN LA FRACCIÓN XV AL ARTÍCULO 8, LA FRACCIÓN XL AL ARTÍCULO 16, LA FRACCIÓN X AL ARTÍCULO 20 Y LA FRACCIÓN XIX AL ARTÍCULO 61 DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO; Y SE ADICIONA EL ARTÍCULO 143 BIS A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
