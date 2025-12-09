@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "2024-12-30"
+last_updated: "2025-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -491,9 +491,9 @@ IX.- Secretaría de Bienestar;
 
 X.- Secretaría del Trabajo;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], B.O. 4 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, B.O. 9 DE DICIEMBRE DE 2025)</small>
 
-XI.- Secretaría de Seguridad Pública;
+XI.- Secretaría de Seguridad y Protección Ciudadana;
 
 > <small>(REFORMADA, B.O. 8 DE MARZO DE 2022)</small>
 
@@ -1775,49 +1775,89 @@ IX. Promover jornadas de orientación laboral; y
 
 X. Coordinar y Supervisar el Programa de Seguro del Desempleo.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 11 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 34.
 
-A la Secretaría de Seguridad Pública le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Seguridad y Protección Ciudadana, le corresponde el despacho de los siguientes asuntos:
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE JULIO DE 2011)</small>
 
 I.- Proponer y ejecutar las políticas de seguridad pública en el Estado, así como las orientaciones, lineamientos, estrategias, programas y acciones para la prevención de los delitos y conductas antisociales y la reinserción social;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE JULIO DE 2011)</small>
+
 II.- Formular el proyecto del Programa Estatal de Seguridad Pública, presentarlo para su aprobación al Ejecutivo Estatal y llevar a cabo la ejecución y evaluación del mismo, de conformidad con la normatividad aplicable;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE JULIO DE 2011)</small>
 
 III.- Gestionar, a solicitud de las personas que prestan servicios de seguridad privada, permisos ante las autoridades competentes para que cuenten con el equipo y licencias necesarias para la prevención, seguridad y custodia de las personas y bienes, de conformidad con las disposiciones jurídicas aplicables;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE JULIO DE 2011)</small>
+
 IV.- Coordinar, supervisar y administrar el Sistema Estatal Penitenciario, así como organizar y dirigir las actividades de apoyo a liberados, a través de la unidad administrativa que se determine en el reglamento interior respectivo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE JULIO DE 2011)</small>
 
 V.- Vigilar el cumplimiento de la Ley que Establece el Sistema Integral de Justicia para Adolescentes del Estado de Sonora, en el ámbito de competencia que la misma señale;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE JULIO DE 2011)</small>
+
 VI.- Integrar el Centro Estatal de Información sobre Seguridad Pública, en términos de la Ley de Seguridad Pública para el Estado de Sonora;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE JULIO DE 2011)</small>
 
 VII.- Representar al Gobernador del Estado ante el Sistema Nacional de Seguridad Pública;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE JULIO DE 2011)</small>
+
 VIII.- Desarrollar, operar y mantener la Red Estatal de Telecomunicaciones de Seguridad Pública, el Servicio Único de Asistencia Telefónica, el Servicio de Denuncia Anónima y el Sistema Único de Monitoreo y Operación de Equipos Tecnológicos de Vigilancia, en términos de la normatividad aplicable;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE JULIO DE 2011)</small>
 
 IX.- Organizar y coordinar el registro y control de los recursos del Fondo de Aportaciones para Seguridad Pública, de acuerdo a la normatividad aplicable y los lineamientos aprobados por el Consejo Estatal;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE JULIO DE 2011)</small>
+
 X.- Establecer los lineamientos y participar en el diseño, instrumentación y evaluación de los programas académicos y de capacitación del Instituto Superior de Seguridad Pública;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE JULIO DE 2011)</small>
 
 XI.- Proponer y participar en la celebración de convenios o acuerdos de coordinación y colaboración con autoridades federales, estatales, municipales y del Distrito Federal, así como con instituciones públicas y organismos sociales y privados, en materia de seguridad pública;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE JULIO DE 2011)</small>
+
 XII.- Fomentar la participación de la comunidad y de los sectores social y privado, en la formulación, ejecución y evaluación de las estrategias, programas y acciones en materia de seguridad pública;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE JULIO DE 2011)</small>
 
 XIII.- Coordinar el servicio de apoyo a la carrera policial;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE JULIO DE 2011)</small>
+
 XIV.- Realizar y publicar estudios especializados en materia de seguridad pública;
 
-XV.- Tramitar y gestionar ante la autoridad competente, la licencia oficial colectiva para la portación de armas de fuego del personal operativo dependiente de la Secretaría de Seguridad Pública y los Ayuntamientos del Estado;
+> <small>(REFORMADA, B.O. 9 DE DICIEMBRE DE 2025)</small>
+
+XV.- Tramitar y gestionar ante la autoridad competente, la licencia oficial colectiva para la portación de armas de fuego del personal operativo dependiente de la Secretaría de Seguridad y Protección Ciudadana y los Ayuntamientos del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE JULIO DE 2011)</small>
 
 XVI.- Organizar, dirigir, administrar y supervisar a la Policía Estatal de Seguridad Pública, así como garantizar el desempeño honesto de su personal y aplicar su régimen disciplinario;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE JULIO DE 2011)</small>
+
 XVII.- Proponer al Gobernador del Estado el nombramiento del titular de la Policía Estatal de Seguridad Pública;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE JULIO DE 2011)</small>
 
 XVIII.- Salvaguardar la integridad y el patrimonio de las personas, prevenir la comisión de delitos del orden local, así como preservar la libertad, el orden y la paz públicos;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE JULIO DE 2011)</small>
+
 XIX.- Colaborar en el marco del Sistema Nacional de Seguridad Pública, cuando así lo soliciten autoridades federales, estatales o municipales competentes, en la protección de la integridad física de las personas y en la preservación de sus bienes, en situaciones de peligro cuando se vean amenazadas por disturbios u otras situaciones que impliquen violencia o riesgo inminente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE JULIO DE 2011)</small>
 
 XX.- Organizar el Sistema Estatal de Información de Seguridad Pública. En lo correspondiente a los diversos registros relacionados con las instituciones de seguridad pública municipal, se coordinará con los Ayuntamientos respectivos;
 
@@ -1837,9 +1877,13 @@ XXIII.- Proporcionar al personal calificado y necesario para garantizar la segur
 
 XXIV.- Coordinar las actividades en materia de supervisión de la libertad condicional, así como las relativas a la supervisión de medidas cautelares y suspensión condicional del proceso de conformidad con la normatividad aplicable en la materia y en coordinación con las autoridades competentes; y
 
-> <small>(ADICIONADO [N. DE E. REUBICADA], B.O. 27 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 9 DE DICIEMBRE DE 2025)</small>
 
-XXV.- Las demás que le atribuyan expresamente las leyes y reglamentos.
+XXV.- Para los efectos legales dispuestos en la Ley de Seguridad Pública y Protección Ciudadana, el Titular de (sic) Secretaría de Seguridad y Protección Ciudadana asumirá la función de Secretario Ejecutivo del Consejo Estatal de Seguridad Pública, quien podrá suplir al Titular del Poder Ejecutivo ante el Consejo Nacional de Seguridad Pública; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 9 DE DICIEMBRE DE 2025)</small>
+
+XXVI.- Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 ## TITULO TERCERO. DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
@@ -3128,3 +3172,45 @@ El o la Titular de la Secretaría Anticorrupción y Buen Gobierno, en el ámbito
 ###### ARTÍCULO CUARTO.
 
 Los asuntos en trámite que son atendidos por las dependencias que modifican su denominación o atribuciones en virtud de la entrada en vigor al presente ordenamiento, serán atendidos y resueltos por las unidades administrativas a las que se les otorga la competencia y atribución correspondiente, de conformidad con las disposiciones aplicables.
+
+B.O. 9 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 80, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Las menciones contenidas en otros ordenamientos jurídicos respecto de la Secretaría de Seguridad Pública, se entenderán referidas a la Secretaría de Seguridad y Protección Ciudadana.
+
+###### ARTÍCULO TERCERO.
+
+El titular del Ejecutivo Estatal cuenta con un plazo de 60 días hábiles a partir de la entrada en vigor del presente Decreto, para hacer las adecuaciones reglamentarias y administrativas conforme a lo establecido en el mismo. En tanto no se expida el Reglamento Interior de la Secretaría de Seguridad Pública y Protección Ciudadana, se aplicarán a esta dependencia, en lo que resulte procedente conforme a las disposiciones del presente Decreto, el Reglamento Interior y los Manuales de Organización, de Procedimientos y de Servicios al Público, con los que actualmente opera la Secretaría de Seguridad Pública.
+
+###### ARTÍCULO CUARTO.
+
+El personal, presupuesto, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, los recursos humanos, materiales y financieros que la Secretaría de Seguridad Pública tenga asignados para el ejercicio de sus atribuciones, se deberán transferir a la Secretaría de Seguridad y Protección Ciudadana.
+
+Por lo que corresponde al personal de base, legalmente reconocidos previo a la vigencia de esta Ley respecto de sus derechos laborales, se sujetarán al régimen legal por el que fueron contratados hasta en tanto se esté en posibilidad de definir su reubicación laboral. A partir de la entrada en vigor de la presente Ley, todo personal contratado para prestar sus servicios ante la Secretaría de Seguridad y Protección Ciudadana, e instituciones policiales de seguridad pública municipal será considerado personal de confianza.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos en trámite que con motivo de este Decreto deban pasar de la Secretaría de Seguridad Pública a la Secretaría de Seguridad y Protección Ciudadana, y los recursos interpuestos en contra de los actos o resoluciones de aquélla, se tramitarán ante las unidades administrativas competentes de la Secretaría de Seguridad y Protección Ciudadana, y serán resueltos por las mismas.
+
+###### ARTÍCULO SEXTO.
+
+Los procedimientos en los que sea parte la Secretaría de Seguridad Pública y que la entrada en vigor del presente Decreto se encuentre en trámite ante alguna autoridad, los continuará tramitando hasta su total conclusión la Secretaría de Seguridad y Protección Ciudadana.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Ejecutivo del Estado, por conducto de la Secretaría de Hacienda, la Oficialía Mayor, con la participación de la Secretaría de Seguridad y Protección Ciudadana, deberá concluir aquellas disposiciones presupuestarias, la reasignación de los recursos humanos, materiales y financieros, así como de activos patrimoniales, en un plazo no mayor de tres meses, a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+A partir de la entrada en vigor del presente Decreto, la Universidad de la Seguridad Pública y el Centro de Evaluación y Control de Confianza estarán sectorizados a la Secretaría de Seguridad y Protección Ciudadana.
+
+###### ARTÍCULO NOVENO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
