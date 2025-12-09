@@ -4,7 +4,7 @@ identifier: "CMX-protocolo-para-la-prevencion-y-atencion-de-la-violencia-173909"
 country: "mx"
 rank: "otro"
 publication_date: "2023-10-04"
-last_updated: "2023-10-04"
+last_updated: "2025-12-09"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173909&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2023-09-25"
 ---
 # PROTOCOLO PARA LA PREVENCION Y ATENCION DE LA VIOLENCIA LABORAL, HOSTIGAMIENTO Y/O ACOSO SEXUAL EN LA SECRETARIA DEL MEDIO AMBIENTE DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA EN: https://www.sedema.cdmx.gob.mx/storage/app/media/protocoloparalaprevencionyatenciondelaviolencialaboralhostigamientoyoacososexualenlasecretariadelmedioambientedelaciudadd emexico.pdf]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL AVISO POR EL CUAL SE DA A CONOCER EL PROTOCOLO PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA LABORAL, HOSTIGAMIENTO Y/O ACOSO SEXUAL EN LA SECRETARÍA DEL MEDIO AMBIENTE DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 9 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
 
 PROTOCOLO PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA LABORAL, HOSTIGAMIENTO Y/O ACOSO SEXUAL EN LA SECRETARÍA DEL MEDIO AMBIENTE DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE DICIEMBRE DE 2025 (SIN EFECTOS).
 
 Protocolo publicado en el Número 1206 de la Gaceta Oficial de la Ciudad de México, el miércoles 4 de octubre de 2023.
 
@@ -501,3 +501,13 @@ _________________________________________________________________
 G. Firma de la persona quejosa:
 
 ______________________________
+
+G.O. 9 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL CUAL SE DA A CONOCER EL PROTOCOLO PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA LABORAL, HOSTIGAMIENTO Y/O ACOSO SEXUAL EN LA SECRETARÍA DEL MEDIO AMBIENTE DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Aviso entrará en vigor a partir de su publicación.
+
+TERCERO. Se deja sin efecto el Aviso por el cual se da a conocer el enlace electrónico donde podrá ser consultado el Protocolo para la prevención y atención de la violencia laboral, hostigamiento y/o acoso sexual, publicado el 04 de octubre del 2023 en la Gaceta Oficial de la Ciudad de México, número 1206.
