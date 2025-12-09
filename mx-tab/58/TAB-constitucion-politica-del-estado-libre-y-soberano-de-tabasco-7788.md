@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2025-08-20"
+last_updated: "2025-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2025.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -117,9 +117,9 @@ VI. Toda persona tiene derecho a usar y disfrutar de sus bienes. La ley puede su
 
 VII. Toda persona que se halle en el territorio del Estado de Tabasco tiene derecho a circular por el mismo y a residir en él con sujeción a las disposiciones legales;
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2025)</small>
 
-VIII. Todas las personas son iguales ante la ley. En consecuencia, tienen derecho sin discriminación a igual protección o beneficio de la ley. Queda prohibida en el Estado toda forma de discriminación motivada por origen étnico o nacional, el género, la edad, la lengua o idioma, religión, costumbre, opiniones, preferencias, condición social, salud, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y las libertades de las personas. El Estado garantizará el goce y ejercicio del derecho a la igualdad sustantiva de las mujeres;
+VIII. Todas las personas son iguales ante la ley. En consecuencia, tienen derecho sin discriminación a igual protección o beneficio de la ley. Queda prohibida en el Estado toda forma de discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la lengua o idioma, religión, costumbre, opiniones, preferencias, condición social, salud, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y las libertades de las personas. El Estado garantizará el goce y ejercicio del derecho a la igualdad sustantiva de las mujeres;
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
@@ -237,9 +237,9 @@ XXXVI. Toda persona tiene derecho a la alimentación nutritiva, suficiente y de 
 
 XXXVII. Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2025)</small>
 
-XXXVIII. Cualquier persona en situación de necesidad que no tenga la capacidad de valerse por sí mismo tendrá derecho a la asistencia del Estado, y a la provisión de los medios indispensables para una vida digna;
+XXXVIII. Cualquier persona en situación de necesidad que no tenga la capacidad de valerse por sí mismo tendrá derecho al cuidado digno, a la asistencia del Estado, y a la provisión de los medios indispensables para una vida digna;
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -1853,17 +1853,15 @@ XX.- Solicitar a la Comisión Nacional de los Derechos Humanos, que investigue h
 
 XXI.- Las demás que le confiera esta Constitución y la Federal.
 
-> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 51 Bis.
 
-De manera periódica y adicional al informe anual previsto en esta Constitución, el Gobernador o Gobernadora podrá rendir informes públicos dirigidos a la población, con el propósito de dar a conocer avances, acciones prioritarias, logros y retos de la administración pública estatal.
+El Gobernador o Gobernadora realizará audiencias públicas deliberativas y rendirá cuentas ante la población tabasqueña sobre la administración de los recursos y la elaboración de las políticas públicas.
 
-Dichos informes deberán sujetarse a los principios de legalidad, objetividad, eficiencia, transparencia y rendición de cuentas, y ajustarse estrictamente a los criterios y parámetros establecidos en la Ley General de Comunicación Social y demás disposiciones legales aplicables.
+En las audiencias públicas se procurará el diálogo con la ciudadanía para el diseño presupuestal y de los planes, programas y políticas públicas, la gestión de los servicios y la ejecución de los programas sociales.
 
-En ningún caso, dichos informes, podrán emplearse con fines de promoción personalizada ni de posicionamiento político electoral, y deberán respetar los periodos de restricción previstos en la normativa electoral vigente.
-
-Las campañas de difusión deberán estar debidamente presupuestadas conforme al ejercicio autorizado por el Congreso del Estado.
+Las audiencias públicas estarán sujetas a los principios de legalidad, objetividad, eficiencia, transparencia y rendición de cuentas.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MAYO DE 2014)</small>
 
@@ -2359,17 +2357,27 @@ Las sentencias definitivas que emita el Tribunal de Justicia Administrativa podr
 
 El Tribunal de Justicia Administrativa se compone de una Sala Superior, que estará integrada por tres personas, y cinco salas unitarias. Funcionará en Pleno o en Salas. De las salas unitarias, una fungirá como sala Especializada en la resolución de los procedimientos a que se refiere el párrafo segundo del artículo anterior.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE DICIEMBRE DE 2025)</small>
 
-Para ser magistrado o magistrada de la Sala Superior, deberá tener 35 años de edad y contar con título profesional de licenciatura en derecho con al menos diez años de antigüedad al día de la designación, y para ser magistrada o magistrado de las salas unitarias, deberá tener 30 años de edad y contar con título profesional de licenciatura en derecho por lo menos con cinco años de antigüedad. En ambos casos, además, deberán cumplir con los siguientes requisitos:
+Para ser magistrado o magistrada de la Sala Superior, deberá tener 30 años de edad y contar con título profesional de licenciatura en derecho, preferentemente con diez años de antigüedad al día de la designación, y para ser magistrada o magistrado de las salas unitarias, deberá tener 30 años de edad y contar con título profesional de licenciatura en derecho por lo menos con cinco años de antigüedad. En ambos casos, además, deberán cumplir con los siguientes requisitos:
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
 
 I. Tener ciudadanía mexicana por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
 
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
+
 II. Gozar de buena reputación y no haber sido condenado por delito doloso con sanción privativa de la libertad;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
 
 III. Haber residido en el país durante el año anterior al día de la designación;
 
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
+
 IV. No haber sido en la entidad, titular de una Secretaría o equivalente en la Administración Pública, de la Fiscalía General del Estado de Tabasco, ni senador, senadora, diputado o diputada federal o local, durante el año previo al día de la designación; y
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
 
 V. No haber sido sancionado, por sentencia firme, por la comisión dolosa de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexual, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; o haber sido declarada persona deudora alimentaria morosa.
 
@@ -4316,3 +4324,43 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- En un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto, se deberán realizar las adecuaciones necesarias para armonizar el marco jurídico estatal, debiéndose incluir disposiciones que determinen los alcances y permitan dar cumplimiento gradual conforme a lo que se apruebe en los presupuestos de egresos correspondientes, así como las atribuciones y obligaciones necesarias para garantizar los derechos derivados del presente Decreto.
+
+P.O. 9 DE DICIEMBRE DE 2025.
+
+> <small>[N. DE E. TRANSITORIOS EL DECRETO 212 POR EL QUE “SE REFORMA LA FRACCIÓN VIII, DEL PÁRRAFO QUINTO, DEL ARTÍCULO 2, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO”.]</small>
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 213 POR EL QUE “SE REFORMA LA FRACCIÓN XXXVIII, DEL PÁRRAFO QUINTO DEL ARTÍCULO 2, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 214 POR EL QUE “SE REFORMA EL ARTÍCULO 51 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 215 POR EL QUE "SE REFORMA EL ARTÍCULO 63 QUÁTER, PÁRRAFO SEGUNDO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al momento de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
