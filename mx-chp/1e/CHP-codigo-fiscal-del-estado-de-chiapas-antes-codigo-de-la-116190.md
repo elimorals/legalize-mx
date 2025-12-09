@@ -4,7 +4,7 @@ identifier: "CHP-codigo-fiscal-del-estado-de-chiapas-antes-codigo-de-la-116190"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-05-18"
-last_updated: "2025-01-22"
+last_updated: "2025-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # CODIGO FISCAL DEL ESTADO DE CHIAPAS -- ANTES CODIGO DE LA HACIENDA PUBLICA PARA EL ESTADO DE CHIAPAS --
 
-CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS
+CÓDIGO FISCAL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2025.
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de Mayo del 2016.
 
@@ -41,7 +41,9 @@ C O N S I D E R A N D O
 
 Por las consideraciones antes expuestas, el Honorable Congreso del Estado de Chiapas, ha tenido a bien emitir el siguiente Decreto de:
 
-Código de la Hacienda Pública para el Estado de Chiapas
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+Código Fiscal del Estado de Chiapas
 
 # Libro Primero. Régimen de los Ingresos Públicos
 
@@ -65,7 +67,9 @@ I. Secretaría: Secretaría de Finanzas.
 
 II. Secretario: Al Titular de la Secretaría de Finanzas.
 
-III. Código: El Código de la Hacienda Pública para el Estado de Chiapas.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+III. Código: Al Código Fiscal del Estado de Chiapas.
 
 IV. Recursos Públicos: Aquellos bienes en dinero, en especie, fondos, valores y créditos que tiene derecho a percibir el Estado, en sus funciones de derecho público o privado, así como aquellos que se originen de la coordinación y colaboración con los municipios y la Federación para financiar el gasto público.
 
@@ -127,9 +131,9 @@ Peso bruto vehicular: es el peso del vehículo totalmente equipado incluyendo ch
 
 VII. Contribuyentes.- Personas físicas o morales inscritas ante la Secretaría, obligadas al pago de impuestos u otras contribuciones que la ley o las leyes le impongan.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2025)</small>
 
-VIII. Reglamento.- Al Reglamento del Código de la Hacienda Pública para el Estado de Chiapas.
+VIII. Reglamento: Al Reglamento del Código Fiscal del Estado de Chiapas.
 
 ###### Artículo 3.
 
@@ -3439,7 +3443,9 @@ El impuesto se causará en el momento en que se realicen las erogaciones por el 
 
 Están obligados a efectuar la retención del impuesto, las personas físicas o morales, la Federación, el Estado, Municipio, sus dependencias y organismos descentralizados, desconcentrados y órganos autónomos que otorguen contratos de obra privada, pública o de prestación de servicios, con personas físicas o morales, aun cuando el servicio se lleve a cabo vía remota a través de plataformas virtuales.
 
-Los retenedores del impuesto sobre nóminas efectuarán la retención de la tasa del 2% en el momento en que se lleven a cabo los pagos de las estimaciones de ejecución o avances de obras o prestación de servicios a los sujetos del citado impuesto.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+Los retenedores del impuesto sobre nóminas efectuarán la retención de la tasa del 3% en el momento en que se lleven a cabo los pagos de las estimaciones de ejecución o avances de obras o prestación de servicios a los sujetos del citado impuesto.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -3465,7 +3471,9 @@ El impuesto retenido en los términos de este artículo, será acreditable contr
 
 Es base de este impuesto el monto de los pagos señalados en el artículo 229 de este Código, que se efectúen como consecuencia de una relación de trabajo.
 
-Los contribuyentes del Impuesto Sobre Nóminas determinarán y pagarán el impuesto aplicando la tasa del 2% sobre la base gravable señalada en este artículo.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+Los contribuyentes del Impuesto Sobre Nóminas determinarán y pagarán el impuesto aplicando la tasa del 3% sobre la base gravable señalada en este artículo.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
 
@@ -3601,7 +3609,9 @@ La base de este impuesto es el valor total del vehículo según factura expedida
 
 A falta de la factura original a la que hace referencia el párrafo anterior, o existan facturas subsecuentes a la expedida por vez primera, se estará a los valores que para tal efecto especifique la propia Secretaría que en ningún caso podrá ser menor al valor de mercado en el momento de la operación.
 
-Los contribuyentes que adquieran vehículos automotores usados, determinarán y pagarán el impuesto correspondiente, aplicando la tasa del 1% sobre la base gravable señalada en el presente artículo.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+Los contribuyentes que adquieran vehículos automotores usados, determinarán y pagarán el impuesto correspondiente, aplicando la tasa del 2% sobre la base gravable señalada en el presente artículo.
 
 Los contribuyentes que adquieran vehículos automotores usados, determinarán y pagarán el impuesto correspondiente, aplicando el porcentaje a la tasa del 1% conforme a la siguiente tabla:
 
@@ -3713,9 +3723,103 @@ I. Dentro de los primeros tres días hábiles a partir de la realización del ev
 
 II. En el caso de la fracción II del artículo 252 de este Código, este impuesto se causará en el momento en que el premio sea pagado y deberá ser retenido y enterado por las personas físicas o morales que efectúen los pagos o premiaciones dentro de los quince días siguientes en que se realice la retención. Tratándose de retenedores que realicen operaciones en forma diaria podrán enterarlo en forma mensual dentro de los quince días siguientes al mes de que se trate.
 
-### Capítulo V. Del Impuesto Estatal Sobre Servidumbre de Terreno para Obras y Trabajos de Primera Mano de Materiales Mineros
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2025)</small>
 
-### Capítulo VI. Impuesto Cedular a los Ingresos por Arrendamiento y en General por Otorgar el Uso o Goce Temporal de Bienes Inmuebles
+### Capítulo IV Bis. Del Impuesto a las Erogaciones en Juegos con Apuestas y Concursos
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+Artículo 255 A.- Están obligados al pago de este impuesto, las personas físicas y morales que realicen erogaciones dentro del territorio del Estado de Chiapas para participar en juegos con apuestas y concursos, conforme a lo siguiente:
+
+I. Juegos y concursos con cruce de apuestas, independientemente del nombre con el que se designen.
+
+II. Juegos y concursos en los que el premio se obtenga por el azar o la destreza del participante en el uso de máquinas, independientemente que en el desarrollo de los mismos se utilicen imágenes visuales electrónicas como números, cartas, símbolos, figuras u otras similares.
+
+III. Juegos en los que solo se reciban, crucen o exploten apuestas.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+Artículo 255 B.- Para efectos de este impuesto se consideran juegos con apuestas aquellos en los que el participante deba estar presente en el juego, activamente o como espectador, y aquellos juegos en los que el participante haga uso de máquinas que utilicen algoritmos desarrollados en sistemas electrónicos o cualquier otro método mecánico, electrónico o electromagnético en el que el resultado no dependa de factores controlables o susceptibles de ser conocidos o dominados por el participante.
+
+Para efectos de este impuesto, quedan comprendidos los juegos con apuestas realizados en ferias, centros de apuesta remotas y salas de sorteos de números, que cuenten con permiso vigente otorgado por la autoridad competente.
+
+Se entiende por centro de apuestas remotas, también conocidos como libros foráneos, el establecimiento autorizado por autoridad competente, en los que se reciban, capten, crucen o exploten apuestas en eventos, competencias deportivas y juegos permitidos por las leyes, realizados en el extranjero o en territorio nacional, transmitidos en tiempo real y de forma simultánea en video o audio; así como para la práctica del sorteo de números predeterminados por el participante.
+
+El sorteo de números predeterminados por el participante, consiste en el sorteo que se lleve a cabo en centros de apuestas remotas, mediante la venta de tarjetas o soporte electrónico, en que el participante selecciona y anota voluntariamente una combinación de números y su selección se compara con el resultado del sorteo para determinar si es o no el ganador.
+
+Se consideran como erogaciones para participar en juegos con apuestas, las cantidades que se entreguen al organizador, supervisor, encargado, administrador, explotador y operador del establecimiento independientemente de la denominación que reciban, por concepto de acceso y utilización de máquinas o instalaciones relacionados con los juegos con apuestas y concursos, cualquiera que sea el nombre con el que se les designe; incluyendo la carga y cualquier recarga adicional que se realice mediante tarjetas, bandas magnéticas, dispositivos electrónicos, fichas, contraseñas, comprobantes o cualquier otro medio que permitan participar en los juegos con apuestas, ya sea que dichos medios o dispositivos se usen en la fecha en que se efectúa el pago o en una posterior.
+
+Para los efectos de este impuesto, se considera apuesta el monto susceptible de apreciarse en moneda nacional que se arriesga en un juego permitido y de los que requieran permiso especial de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, con la posibilidad de obtener o ganar un premio, cuyo monto, sumado a la cantidad arriesgada deberá ser superior a ésta.
+
+En la realización de juegos o sorteos en los que vaya implícita una apuesta, el valor que debe considerarse para efectos de calcular las erogaciones para participar en juegos con apuestas será el monto total apostado, incluyendo efectivo y cualquier otra cantidad que se otorgue a los participantes con independencia de la denominación que se le dé (promociones, membresías, acceso a las instalaciones, entre otros), en virtud de que dichos conceptos también pueden ser apostados por los participantes.
+
+Tratándose de juegos o sorteos en los que se apueste, se tendrán las siguientes obligaciones:
+
+I. Incluir como valor para calcular el impuesto, cualquier otra cantidad que se otorgue a los participantes con independencia de la denominación que se le dé (promociones, membresías, acceso a las instalaciones, entre otros).
+
+II. No disminuir de las erogaciones para participar en juegos con apuestas, las promociones, membresías, acceso a las instalaciones, entre otros, por corresponder a la retribución que obtiene el ganador de un juego con apuestas y sorteos.
+
+III. No disminuir de la base del impuesto ninguno de los conceptos o importes que deban integrarla conforme a las disposiciones de este Código.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+Artículo 255 C.- El impuesto se calculará aplicando la tasa del 6% sobre el monto de las erogaciones efectuadas por la persona que participe en juegos con apuestas, ya sean pagos en efectivo, en especie o por cualquier otro medio que permita participar en los mismos.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+Artículo 255 D.- El impuesto se causará en el momento en que el sujeto pague al organizador, supervisor, encargado, administrador, explotador y operador del establecimiento independientemente de la denominación que reciban, los montos o contraprestaciones que le permitan participar en dichos juegos o concursos, aun cuando permita a otro usuario distinto de él la participación en los mismos, y hasta por el monto de cada pago que se realice de manera directa.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+Artículo 255 E.- El organizador, supervisor, encargado, administrador, explotador y operador del establecimiento independientemente de la denominación que reciban, en el que se realicen los juegos o concursos o en el que se encuentren instaladas las máquinas de juegos, deberá separar y retener el monto del impuesto para participar en juegos con apuestas al momento de recibir el pago o contraprestación correspondiente, y deberá enterarlo ante las oficinas autorizadas o a través de medios electrónicos a más tardar el día 15 del mes de calendario siguiente a la fecha de su recaudación o el día hábil siguiente si aquel no lo fuere.
+
+Cuando el pago o contraprestación a favor del organizador, supervisor, encargado, administrador, explotador y operador del establecimiento, independientemente de la denominación que reciban, se realice en especie, el contribuyente deberá proveer de recursos en efectivo a estos para que puedan recaudar el impuesto.
+
+La omisión del contribuyente a lo previsto en este artículo, no libera al organizador, supervisor, encargado, administrador, explotador y operador del establecimiento, independientemente de la denominación que reciban, de la responsabilidad solidaria prevista en el artículo 255 I de este Código.
+
+Para los efectos de este artículo el organizador, supervisor, encargado, administrador, explotador y operador del establecimiento independientemente de la denominación que reciban, deberán formular declaraciones hasta en tanto no presenten aviso de baja al padrón o de suspensión temporal de actividades.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+Artículo 255 F.- El impuesto que corresponda pagar, se considerará como definitivo y, en contra del mismo, no procederá deducción o acreditamiento alguno.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+Artículo 255 G.- Este impuesto se causará y pagará con independencia de lo establecido en el artículo 251 del presente Código.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+Artículo 255 H.- Los operadores de los establecimientos en los que se realicen los juegos con apuestas o en los que se instalen las máquinas de juegos, en adición a la obligación de retener y enterar el impuesto a que se refiere el artículo 255 D, están obligados a expedir comprobantes por cada contraprestación que cobren, incluyendo la carga y recarga, que otorguen a quienes utilicen las máquinas de juegos, en la que conste expresamente y por separado el importe recaudado.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+Artículo 255 I.- Serán responsables solidarios del pago de este impuesto, cualquiera de las siguientes personas físicas o morales:
+
+I. El organizador, supervisor, encargado, administrador, explotador y operador del establecimiento, independientemente de la denominación que reciban y que organicen, administren, exploten o patrocinen los juegos referidos en el artículo 255 A del presente Código.
+
+II. Los socios o accionistas de la empresa organizadora, respecto de las contribuciones no retenidas, en relación con las actividades realizadas por la sociedad cuando tenía tal calidad, en la parte del interés fiscal que no alcance a ser garantizada con los bienes de la misma, sin que la responsabilidad exceda de la participación que tenía en el capital social de la sociedad durante el período o a la fecha de que se trate.
+
+III. Los que reciban cantidades a fin de permitir a terceros la participación en los juegos objeto del presente impuesto.
+
+IV. Los propietarios o legítimos poseedores de las máquinas de juegos a que se refiere este Capítulo.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+Artículo 255 J.- El organizador, supervisor, encargado, administrador, explotador y operador del establecimiento, independientemente de la denominación que reciban, en el que se realicen los juegos con apuestas o concursos, además de las obligaciones establecidas en este Código y demás disposiciones fiscales, están obligados a:
+
+I. Llevar contabilidad en registro específico de las operaciones relativas a este impuesto.
+
+II. Realizar la inscripción al padrón estatal de contribuyentes.
+
+III. Retener y enterar el impuesto de acuerdo a lo establecido en el artículo 255 A de este Código.
+
+IV. Expedir y entregar comprobantes que amparen el monto de cada erogación que permita participar en los juegos con apuestas y concursos, así como conservar copia del mismo.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+Artículo 255 K.- No se pagará el impuesto cuando los juegos de apuestas y concursos sean organizados por organismos públicos descentralizados de la administración pública federal, estatal y municipal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública.
+
+### Capítulo V. Del Impuesto Estatal Sobre Servidumbre de Terreno para Obras y Trabajos de Primera Mano de Materiales Mineros
 
 ###### Artículo 256.
 
@@ -3749,49 +3853,351 @@ Presentar los avisos, documentos, datos e informes que le sean solicitados por l
 
 Permitir la práctica de visitas de inspección y auditoria, así como proporcionar a las personas designadas para ello, todos los elementos necesarios para el desempeño de sus funciones.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 2022)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2025)</small>
 
-### Capítulo Primero. Contribución para la Atención de Salvamentos y Servicio Médicos
+### Capítulo VI. De los Impuestos Ecológicos
 
-#### Sección I. Del Fondo de Aportaciones para la Infraestructura Social Municipal
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+#### Sección I. Del Impuesto por Contaminación en la Extracción de Materiales Pétreos
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 260.
 
-(DEROGADO, P.O. 26 DE ENERO DE 2022)
+El objeto de este impuesto es la extracción, explotación o aprovechamiento de materiales pétreos, que no sean concesibles por la Federación ni se encuentren enlistados en el artículo 4 de la Ley de Minería y que constituyan depósitos de igual naturaleza a los componentes de los terrenos aún y cuando constituyan betas, mantos o yacimientos. Para efectos de este artículo la extracción, explotación o aprovechamiento deberá realizarse por medio de trabajos a cielo abierto en el Estado de Chiapas.
 
-Artículo 260 A.- (DEROGADO, P.O. 26 DE ENERO DE 2022)
+Se consideran materiales pétreos las piedras de construcción y de adorno, mármol, canteras, arenas, granito, gravas, pizarras, arcillas que no requieran trabajos subterráneos, calizas, puzolanas, turbas, arenas silíceas, ónix, travertinos, tezontle, tepetate, piedras dimensionadas o de cualquier otra especie que no sean preciosas, mezclas de minerales no metálicos y sustancias terrosas, así como los demás minerales no metálicos.
 
-Artículo 260 B.- (DEROGADO, P.O. 26 DE ENERO DE 2022)
+Para efectos de este artículo se consideran piedras preciosas, las señaladas en el artículo 4 de la Ley de Minería.
 
-Artículo 260 C.- (DEROGADO, P.O. 26 DE ENERO DE 2022)
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
 
-Artículo 260 D.- (DEROGADO, P.O. 26 DE ENERO DE 2022)
+Artículo 260 A.- Son sujetos del pago de este impuesto las personas físicas y morales o unidades económicas que dentro del territorio del Estado realicen la extracción, explotación o aprovechamiento de los materiales pétreos a que se refiere el artículo anterior.
 
-Artículo 260 E.- (DEROGADO, P.O. 26 DE ENERO DE 2022)
+La Federación, el Estado y los Municipios, los organismos descentralizados federales, estatales y municipales, las empresas de participación estatal mayoritaria de carácter federal y estatal, las empresas de participación municipal mayoritaria, los fideicomisos constituidos por dependencias y entidades de la administración pública federal, por el Estado y por los Municipios, así como las personas de derecho público con autonomía derivada de la Constitución Federal o del Estado, deberán cubrir el impuesto a su cargo.
 
-Artículo 260 F.- (DEROGADO, P.O. 26 DE ENERO DE 2022)
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
 
-Artículo 260 G.- (DEROGADO, P.O. 26 DE ENERO DE 2022)
+Artículo 260 B.- Es base de este impuesto el volumen de materiales pétreos que se extraigan, exploten o aprovechen en el territorio del Estado, y que se determinará conforme al volumen de metros cúbicos de material extraído.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+Artículo 260 C.- Este impuesto se causará por cada metro cúbico o fracción que se extraiga de los materiales objeto del impuesto, conforme a lo siguiente:
+
+Material Tarifa por M3
+
+Arena y grava $8
+
+Piedra caliza, arcilla, tezontle, $13
+
+pomacita, grava roja.
+
+Piedra basáltica $15
+
+Otros materiales $10
+
+Para efectos de este artículo, el impuesto se determinará a partir de la primera unidad completa de metro cúbico extraído. Para el caso de que las extracciones no alcancen la siguiente unidad, el cobro del excedente se deberá calcular de forma proporcional a la fracción que exceda de la unidad.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+Artículo 260 D.- El pago de este impuesto deberá efectuarse mediante declaración bimestral, a más tardar el día 17 del mes siguiente al que corresponda dicha declaración, que deberá presentarse en las formas y medios autorizados por la Secretaría.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+Artículo 260 E.- Son obligaciones de los contribuyentes de este impuesto las siguientes:
+
+I. Inscribirse en el Registro Estatal de Contribuyentes y presentar la autorización de impacto ambiental expedida por la autoridad competente.
+
+II. Las personas físicas y morales o unidades económicas que para efecto de impuestos federales tengan su domicilio fiscal en otras entidades, pero que realicen las actividades objeto del impuesto, deberán registrar domicilio dentro del Estado.
+
+III. Llevar un registro de extracción en el que se hará constar diariamente la cantidad en metros cúbicos de material que se extraiga.
+
+IV. Presentar las declaraciones del impuesto, enterar y pagar el impuesto correspondiente en la forma y los términos previstos en esta Sección.
+
+V. Presentar los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto.
+
+VI. Poner a disposición de las autoridades competentes, para los efectos del ejercicio de sus facultades de comprobación, los informes, documentos, registros y comprobantes que le sean solicitados, en relación con la determinación y pago de este impuesto, así como del resto de las obligaciones a su cargo en términos de la presente Sección.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+#### Sección II. Del Impuesto por la Emisión de Contaminantes en el Suelo, Subsuelo y Agua
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+Artículo 260 F.- Es objeto de este impuesto la emisión de sustancias contaminantes, que se depositen, desechen o descarguen al suelo, subsuelo o agua en el territorio del Estado.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+Artículo 260 G.- Son sujetos de este impuesto las personas físicas, las personas morales, así como las unidades económicas que, en el territorio del Estado, independientemente del domicilio fiscal del contribuyente, bajo cualquier título, por sí mismas o a través de intermediarios, realicen los actos o actividades establecidas en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+Artículo 260 H.- Es base de este impuesto la cantidad en metros cuadrados de terreno o metros cúbicos de agua afectados, según corresponda, con sustancias contaminantes que se emitan o se viertan desde la o las instalaciones o fuentes fijas, expresadas en:
+
+I. Para suelo y subsuelo, en la cantidad de miligramos por kilogramo, base seca, obtenidos de muestras que se realicen conforme a las Normas Oficiales Mexicanas en cada cien metros cuadrados de terreno, de acuerdo con lo siguiente:
+
+a) Suelos contaminados por hidrocarburos:
+
+Las muestras para determinar la cantidad de miligramos por kilogramo, base seca, por cada cien metros cuadrados de terreno, se obtendrán conforme a la Norma Oficial Mexicana NOM-138- SEMARNAT/SSA1-2012: "Límites máximos permisibles de hidrocarburos en suelos y lineamientos para el muestreo en la caracterización y especificaciones para la remediación".
+
+Contaminante Cantidad de miligramos por kilogramo,
+
+base seca, por cada cien metros
+
+cuadrados de terreno
+
+Benceno 6
+
+Tolueno 40
+
+Etilbenceno 10
+
+Xilenos (suma de isómeros) 40
+
+Benzo[a]pireno 2
+
+Dibenzo[a,h ]antraceno 2
+
+Benzo[a]antraceno 2
+
+Benzo[b]fluoranteno 2
+
+Benzo[k]fluoranteno 8
+
+Indeno (1 ,2,3-cd)pireno 2
+
+b) Suelos contaminados por: arsénico, bario, berilio, cadmio, cromo hexavalente, mercurio, níquel, plata, plomo, selenio, talio y vanadio.
+
+Las muestras para determinar la cantidad de miligramos por kilogramo, base seca, por cada cien metros cuadrados de terreno, se obtendrán conforme a la Norma Oficial Mexicana NOM-147- SEMARNAT/SSA1-2004: "Que establece criterios para determinar las concentraciones de remediación de suelos contaminados por arsénico, bario, berilio, cadmio, cromo hexavalente, mercurio, níquel, plata, plomo, selenio, talio y vanadio".
+
+Contaminante Cantidad de miligramos por kilogramo,
+
+base seca, por cada cien metros
+
+cuadrados de terreno
+
+Arsénico 22
+
+Bario 5400
+
+Berilio 150
+
+Cadmio 37
+
+Cromo Hexavalente 280
+
+Mercurio 23
+
+Níquel 1600
+
+Plata 390
+
+Plomo 400
+
+Selenio 390
+
+Talio 5,2
+
+Vanadio 78
+
+II. Para agua en miligramos en litros, que se presenten por cada metro cúbico, con base en lo siguiente:
+
+Las muestras para determinar la cantidad de miligramos por litro por cada metro cubico de agua, se obtendrán conforme a la Norma Oficial Mexicana NOM-001-SEMARNAT-2021: "Que establece los límites máximos permisibles de contaminantes en las descargas residuales en aguas y bienes nacionales".
+
+a) Contaminantes en aguas residuales básicos:
+
+Contaminante Cantidad de miligramos por litro,
+
+por metro cúbico
+
+Grasas y Aceites 21
+
+Sólidos Suspendidos Totales 84
+
+Demanda Química de Oxígeno 210
+
+Nitrógeno Total 35
+
+Fósforo Total 21
+
+b) Contaminantes en aguas residuales, ocasionado por metales pesados y cianuros:
+
+Contaminante Cantidad de miligramos por litro,
+
+por metro cúbico
+
+Arsénico 0.4
+
+Cadmio 0.4
+
+Cianuro 3
+
+Cobre 6
+
+Cromo 1.5
+
+Mercurio 0.02
+
+Níquel 4
+
+Plomo 0.4
+
+Zinc 20
+
+c) Contaminantes en aguas residuales, ocasionado:
+
+Por la descarga líquida con presencia de residuos orgánicos de alta carga contaminante provenientes de procesos agroindustriales en territorio del Estado.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+Artículo 260 I.- El impuesto se causará aplicando las cuotas siguientes:
+
+I. Suelo y subsuelo: una cuota impositiva por el equivalente a 25 pesos por cada cien metros cuadrados afectados con las sustancias contaminantes señaladas en el artículo 260 H de este Código.
+
+II. Agua: Contaminantes en aguas residuales básicos y en aguas residuales, ocasionado por metales pesados y cianuros, una cuota impositiva por el equivalente a 100 pesos por cada metro cúbico afectado con las sustancias contaminantes señaladas en el artículo 260 H de este Código.
+
+Si el agua fue contaminada con dos o más sustancias de las mencionadas en este artículo la cuota se pagará por cada contaminante.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+Artículo 260 J.- El pago de este impuesto deberá efectuarse mediante declaración bimestral, a más tardar el día 17 del mes siguiente al que corresponda dicha declaración, que deberá presentarse en las formas y medios autorizados por la Secretaría.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+Artículo 260 K.- Son obligaciones de los sujetos del impuesto las siguientes:
+
+I. Inscribirse en el Registro Estatal de Contribuyentes.
+
+II. Las personas físicas y morales o unidades económicas que para efecto de impuestos federales tengan su domicilio fiscal en otras entidades, pero que realicen las actividades objeto del impuesto, deberán registrar domicilio dentro del Estado.
+
+III. Llevar un registro específico de las sustancias contaminantes mencionadas en esta Sección, que sean adquiridas y utilizadas en los procesos de producción, su uso y destino, así como las cantidades que en estado físico sólido, semisólido o líquido se vertieron en el agua.
+
+IV. Presentar las declaraciones del impuesto, enterar y pagar el impuesto correspondiente en la forma y los términos previstos en esta Sección.
+
+V. Presentar los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto.
+
+VI. Poner a disposición de las autoridades competentes, para los efectos del ejercicio de sus facultades de comprobación, los informes, documentos, registros y comprobantes que le sean solicitados, en relación con la determinación y pago de este impuesto, así como del resto de las obligaciones a su cargo en términos de la presente Sección.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+#### Sección III. Del Impuesto al Depósito o Almacenamiento de Residuos
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+Artículo 260 L.- Es objeto de este impuesto el depósito o el almacenamiento de residuos en vertederos públicos o privados, situados en el Estado, que al originar su liberación en el ambiente, sean un constituyente tóxico o peligroso, que suscita efectos de riesgo en la salud humana, a los ecosistemas o al equilibrio ecológico.
+
+Para identificar que el residuo genera los efectos establecidos en el párrafo anterior, se tomará como base la información de alguna de las Normas Oficiales Mexicanas siguientes, según sea la actividad que desarrollan los sujetos obligados:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 9 DE DICIEMBRE DE 2025, PÁGINAS DE LA 26 A LA 28.]</small>
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+Artículo 260 M.- Para efectos de esta Sección se considera lo siguiente:
+
+I. Co-procesamiento.- Integración ambientalmente segura de los residuos generados por una industria o fuente conocida, como insumo a otro proceso productivo.
+
+II. Disposición Final.- Acción de depositar o confinar permanentemente residuos en sitios e instalaciones cuyas características permitan prevenir su liberación al ambiente y las consecuentes afectaciones a la salud de la población y a los ecosistemas y sus elementos.
+
+III. Evaluación del Riesgo Ambiental.- Proceso metodológico para determinar la probabilidad o posibilidad de que se produzcan efectos adversos, como consecuencia de la exposición de los seres vivos a las sustancias contenidas en los residuos peligrosos o agentes infecciosos que los forman.
+
+IV. Inventario de Residuos Depositados o Almacenados.- Base de datos en la cual se asientan con orden y clasificación los volúmenes de generación de los diferentes residuos, que se integra a partir de la información proporcionada por los generadores en los formatos establecidos para tal fin, de conformidad con lo dispuesto Ley General para la Prevención y Gestión Integral de los Residuos.
+
+V. Reciclado.- Transformación de los residuos a través de distintos procesos que permiten restituir su valor económico, evitando así su disposición final, siempre y cuando ésta restitución favorezca un ahorro de energía y materias primas sin perjuicio para la salud, los ecosistemas o sus elementos.
+
+VI. Residuo.- Cualquier material o producto generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó, o que por sus características no pueda ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final conforme a lo dispuesto en la Ley General para la Prevención y Gestión Integral de los Residuos y demás ordenamientos que de ella deriven.
+
+VII. Tóxico.- Que la propiedad de una sustancia o mezcla de sustancias pueden provocar efectos adversos en la salud o en los ecosistemas.
+
+VIII. Valorización.- Principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica.
+
+IX. Residuos Peligrosos.- Son aquellos que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad, o que contengan agentes infecciosos que les confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfieran a otro sitio, de conformidad con lo que se establece en la Ley General para la Prevención y Gestión Integral de los Residuos.
+
+X. Reutilización.- El empleo de un material o residuo previamente usado, sin que medie un proceso de transformación.
+
+XI. Riesgo.- Probabilidad o posibilidad de que el manejo, la liberación al ambiente y la exposición a un material o residuo, ocasionen efectos adversos en la salud humana, en los demás organismos vivos, en el agua, aire, suelo, en los ecosistemas, o en los bienes y propiedades pertenecientes a los sujetos obligados del impuesto establecido en esta sección.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+Artículo 260 N.- Son sujetos de este impuesto las personas físicas y morales, así como las unidades económicas sean o no residentes en el Estado, generadoras del residuo y que por sí mismas o a través de intermediarios depositen o almacenen residuos en vertederos públicos o privados, que, al originar su liberación en el ambiente, sean un constituyente tóxico o peligroso que suscita efectos de riesgo en la salud humana, a los ecosistemas o al equilibrio ecológico.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+Artículo 260 O.- Es base gravable para este impuesto la cantidad en tonelada de residuos depositados o almacenados en vertederos públicos o privados, situados en el Estado que sean generados durante un mes de calendario o fracción del mismo.
+
+No constituirá base del impuesto, la proporción del residuo depositado o almacenado, destinado a la reutilización, reciclado, co-procesamiento o valorización con excepción de lo siguiente:
+
+I. Cuando el residuo permanezca un año o más, depositado o almacenado, sin llevar a cabo el proceso de reutilización, de reciclado, de co-procesamiento o de valorización.
+
+II. Cuando el residuo sea peligroso y permanezca seis meses o más, depositado o almacenado, sin llevar a cabo el proceso de reutilización, de reciclado, de coprocesamiento o de valorización.
+
+No existirá base del impuesto, cuando el residuo depositado o almacenado tenga las características técnicas de disposición final, con base en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General para la Prevención y Gestión Integral de los Residuos, o alguna de las Normas Oficiales Mexicanas establecidas en el artículo 260 L de este Código.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+Artículo 260 P.- El impuesto al depósito o almacenamiento de residuos se causará aplicando una cuota de 100 pesos por tonelada de residuos depositados o almacenados en vertederos públicos o privados.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+Artículo 260 Q.- El pago de este impuesto deberá efectuarse mediante declaración bimestral, a más tardar el día 17 del mes siguiente al que corresponda dicha declaración, que deberá presentarse en las formas y medios autorizados por la Secretaría de Finanzas.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+Artículo 260 R.- Son obligaciones de los sujetos del impuesto las siguientes:
+
+I. Inscribirse en el Registro Estatal de Contribuyentes.
+
+II. Las personas físicas y morales o unidades económicas que para efecto de impuestos federales tengan su domicilio fiscal en otras entidades, pero que realicen las actividades objeto del impuesto, deberán registrar domicilio dentro del Estado.
+
+III. Llevar un Inventario de Residuos Depositados o Almacenados, en el que se identifique la cantidad en toneladas y el lugar de depósito o almacenamiento, fecha de depósito o almacenamiento, así como el señalamiento de si fue depositado o almacenado en un vertedero público o privado y su ubicación.
+
+IV. Llevar un registro específico de los residuos destinados a un proceso de reutilización, de reciclado, de co-procesamiento o de valorización, desde el día que inició el depósito o almacenaje, las fechas que se destinaron a esos procesos, y los residuos que tuviesen el retorno para depósito o almacenaje.
+
+V. Llevar un inventario de los residuos de disposición final.
+
+VI. Presentar un informe anual del inventario establecido en la fracción III de este artículo, con base en los lineamientos que para ello expida y publique la Secretaría de Finanzas mediante reglas de carácter general.
+
+VII. Presentar las declaraciones del impuesto, enterar y pagar el impuesto correspondiente en la forma y los términos previstos en esta Sección.
+
+VIII. Presentar los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto.
+
+IX. Poner a disposición de las autoridades competentes, para los efectos del ejercicio de sus facultades de comprobación, los informes, documentos, registros y comprobantes que le sean solicitados, en relación con la determinación y pago de este impuesto, así como del resto de las obligaciones a su cargo en términos de la presente Sección.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+Artículo 260 S.- Para determinar la base gravable las autoridades fiscales podrán considerar:
+
+I. Los libros y el registro, sea cual fuera su denominación, que los sujetos obligados al pago del impuesto deban llevar conforme a las disposiciones legales sean de carácter fiscal, mercantil o para dar cumplimiento a las normas en materia de ecología y medio ambiente.
+
+II. Cuando no sea posible determinar la base gravable en los términos de la fracción anterior las autoridades fiscales podrán estimar la cantidad de los residuos depositados o almacenados las cantidades de los mismos conforme a la información que se obtenga de otras autoridades, terceros, estudios científicos o tecnológicos, considerando el tipo de actividades realizadas por el contribuyente y la producción o venta del periodo en el que se causó la contribución.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+#### Sección IV. Supletoriedad, Facultades y Responsabilidades
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+Artículo 260 T.- Para efectos de este Capítulo son aplicables de manera supletoria la Ley Ambiental para el Estado de Chiapas y demás disposiciones vigentes en el Estado en materia de conservación y restauración del equilibrio ecológico, la protección al ambiente, el desarrollo sustentable del Estado, y derecho al medio ambiente, que no sean contrarias a la naturaleza del derecho fiscal.
+
+Para efectos del ejercicio de las facultades de comprobación, en auxilio de las autoridades fiscales a que refiere el presente Código, podrán intervenir las autoridades estatales competentes en materia ambiental.
+
+Las disposiciones a que se refiere este Capítulo se establecen sin perjuicio de las multas, responsabilidades o sanciones que establezcan las disposiciones jurídicas aplicables en materia de equilibrio ecológico y protección al ambiente, u otras responsabilidades penales, civiles o administrativas y demás disposiciones que resulten aplicables por el riesgo de pérdida de vida humana, así mismo por deterioro que causa a la salud pública y el daño al ambiente.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
+Artículo 260 U.- Para efectos del presente Capítulo, para determinar la base gravable las autoridades fiscales podrán considerar:
+
+I. Los libros y registros, cualquiera que sea su denominación que los sujetos obligados al pago de los impuestos establecidos en este Capítulo deban llevar conforme a las disposiciones legales aplicables, ya sean de carácter fiscal, mercantil o destinadas a dar cumplimiento a las Normas Oficiales Mexicanas en materia de ecología y medio ambiente.
+
+II. Cuando no sea posible determinar la base gravable en los términos de la fracción anterior, las autoridades fiscales podrán estimar los impuestos establecidos en este Capítulo, a partir de las Manifestaciones de Impacto Ambiental, Cédulas de Operación Anual y demás documentos de carácter ambiental que los contribuyentes se encuentren obligados a generar.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2019)</small>
-
-#### Sección II. Del Fondo de Aportaciones para el Fortalecimiento de Los Municipios
-
-#### Sección III. De la Vigilancia y Control del Destino de los Fondos
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-#### Sección Única. De la Operatividad Financiera
 
 ## Título Tercero. Otros Impuestos
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-### Capítulo Segundo. Adicional para el Desarrollo Económico y Social en la Entidad
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+### Capítulo Primero. Contribución para la Atención de Salvamentos y Servicio Médicos
 
 ###### Artículo 261.
 
@@ -3815,7 +4221,9 @@ Artículo 261 D.- La contribución para la atención de salvamentos y servicios 
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-### Capítulo Único. De los Productos
+### Capítulo Segundo. Adicional para el Desarrollo Económico y Social en la Entidad
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 262.
 
@@ -3855,7 +4263,7 @@ III. Los servicios establecidos en los artículos 44 Bis y 44 Ter de la Ley de D
 
 ## Título Cuarto
 
-### Capítulo Único. De los Aprovechamientos
+### Capítulo Único. De los Productos
 
 ###### Artículo 266.
 
@@ -3947,7 +4355,7 @@ Para la percepción de los productos, se estará a lo dispuesto según el caso, 
 
 ## Título Quinto
 
-### Capítulo I. Del Sistema de Coordinación Hacendaria del Estado de Chiapas
+### Capítulo Único. De los Aprovechamientos
 
 ###### Artículo 268.
 
@@ -4003,9 +4411,7 @@ La Secretaría, tiene la facultad para cobrar y actualizar los montos de las mul
 
 ## Título Único
 
-### Capítulo II. De las Participaciones Federales y Estatales a los Municipios
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
+### Capítulo I. Del Sistema de Coordinación Hacendaria del Estado de Chiapas
 
 ###### Artículo 270.
 
@@ -4025,7 +4431,9 @@ VI. Celebrar los convenios que regulen los mecanismos establecidos para el pago 
 
 VII. Establecer los lineamientos y mecanismos para afectar como fuente de pago o garantía de las obligaciones a cargo del Estado o los Municipios, los ingresos y/o los derechos provenientes de las aportaciones federales susceptibles de afectación, de conformidad con la Ley de Coordinación Fiscal.
 
-### Capítulo III. De las Participaciones de Ingresos Estatales a los Municipios
+### Capítulo II. De las Participaciones Federales y Estatales a los Municipios
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 271.
 
@@ -4199,9 +4607,9 @@ V. Los Municipios que suscriban Convenio de Colaboración Administrativa para qu
 
 La cancelación del Convenio a que hace referencia el párrafo que antecede, dará lugar a la modificación del coeficiente de distribución de participaciones respectivo, a partir de la fecha en que se le notifique al municipio el inicio del cobro y administración del impuesto predial y sus accesorios.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2025)</small>
 
-VI. Para el cálculo de las participaciones previstas en el presente capítulo, deberán ser considerados los Municipios que se encuentren señalados en el artículo 2 de la Constitución Política del Estado Libre y Soberano de Chiapas.
+VI. Para el cálculo de las participaciones previstas en el presente Capítulo, deberán ser considerados los Municipios que se encuentren señalados en el artículo 2 de la Constitución Política del Estado Libre y Soberano de Chiapas, que cuenten con clave otorgada por el Instituto Nacional de Estadística y Geografía, encontrarse en pleno uso de sus atribuciones, sin litigios pendientes y con un gobierno legalmente constituido.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -4229,9 +4637,7 @@ La compensación entre el derecho del Municipio a recibir participaciones y las 
 
 El Estado deberá realizar pagos por cuenta del Municipio con cargo a sus participaciones derivadas de la imposición Federal, cuando éste último así lo solicite o cuando dichas participaciones hayan sido afectadas en garantía de adeudo en los términos del título tercero del libro cuarto de este Código.
 
-### Capítulo IV. De la Colaboración Administrativa
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+### Capítulo III. De las Participaciones de Ingresos Estatales a los Municipios
 
 ###### Artículo 285.
 
@@ -4263,7 +4669,9 @@ Las participaciones de este fondo deberán ser administradas y ejercidas por los
 
 Para La vigilancia, control y destino del Fondo de Productos Mineros (FOPROMIN), se estará a lo dispuesto en los Artículos 330, 331 y 332 de este Código.
 
-### Capítulo V. De la Colaboración Administrativa en Materia de Impuesto Predial
+### Capítulo IV. De la Colaboración Administrativa
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 291.
 
@@ -4315,7 +4723,7 @@ Para efectos de revisión sobre la rendición de la cuenta comprobada, en el cas
 
 Transcurrido este plazo, se concentrará en los archivos generales de la Secretaría para su resguardo y custodia, de conformidad con los lineamientos establecidos en la materia.
 
-### Capítulo VI. De los Órganos del Sistema de Coordinación Hacendaria del Estado
+### Capítulo V. De la Colaboración Administrativa en Materia de Impuesto Predial
 
 ###### Artículo 292.
 
@@ -4331,211 +4739,211 @@ Los municipios deberán suscribir Convenio de Colaboración Administrativa con e
 
 El Estado entregará a los Municipios un monto equivalente al porcentaje establecido sobre la recaudación efectivamente obtenida del impuesto predial y sus accesorios, conforme al convenio suscrito por las partes.
 
-### Capítulo VII. De los Fondos de Aportaciones Federales que Corresponden a los Municipios
+### Capítulo VI. De los Órganos del Sistema de Coordinación Hacendaria del Estado
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 295.
 
-El Gobernador del Estado, por sí o por conducto de la Secretaría, el Congreso del Estado y los ayuntamientos participarán en el desarrollo, vigilancia y perfeccionamiento del Sistema de Coordinación Hacendaria del Estado, por medio de:
+El Gobernador del Estado, por sí o por conducto de la Secretaría; el Congreso del Estado, en el ámbito de sus atribuciones; así como los Ayuntamientos, en ejercicio de sus facultades constitucionales, participarán de manera conjunta y coordinada en el desarrollo, vigilancia, consolidación y perfeccionamiento del Sistema de Coordinación Fiscal del Estado.
 
-I. La Convención Hacendaria del Estado.
+La intervención de dichas instancias se realizará a través de los siguientes órganos colegiados:
 
-II. La Comisión Permanente de Tesoreros Municipales y Autoridades Hacendarias.
+I. Convención Financiera del Estado.
 
-III. La Comisión de Desarrollo Hacendario.
+II. Comisión Permanente de Tesoreros Municipales y Autoridades Financieras.
+
+III. Comisión de Desarrollo Financiero.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 296.
 
-La Convención Hacendaria del Estado, se establece como instancia de coordinación de los ayuntamientos del Estado entre sí y con el Gobierno del Estado de Chiapas, para la definición de la política tributaria de jurisdicción municipal y para la adopción de los sistemas de su administración.
+La Convención Financiera del Estado, se constituye como la instancia de coordinación entre los Ayuntamientos del Estado y de éstos con el Gobierno del Estado de Chiapas, para la definición de la política tributaria de competencia municipal, así como para la adopción y fortalecimiento de los sistemas relativos a su administración.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 297.
 
-La Convención Hacendaría estará integrada por el Ejecutivo del Estado, el Congreso del Estado y los Ayuntamientos. La representación de cada uno de ellos, estará de la siguiente forma:
+La Convención Financiera del Estado estará integrada por el Ejecutivo del Estado, el Congreso del Estado y los ayuntamientos, en los términos siguientes:
 
-I. Por parte del Ejecutivo Estatal: El Gobernador del Estado, el Secretario y las Autoridades Hacendarias de la Secretaría, encargados de la materia hacendaria.
+I. Por parte del Ejecutivo del Estado: el Gobernador, el Secretario y las autoridades fiscales de la Secretaría competentes en la materia.
 
-II. Por el Congreso del Estado: La persona que al efecto se designe.
+II. Por parte del Congreso del Estado: la persona que, para tal efecto, se designe.
 
-III. Por parte de los Ayuntamientos: Los Presidentes y Tesoreros Municipales.
+III. Por parte de los Ayuntamientos: los Presidentes Municipales y los Tesoreros Municipales.
 
-La Convención Hacendaria será presidida conjuntamente por el Gobernador del Estado y por el Presidente del Municipio sede de la Convención.
+La Convención Financiera del Estado será presidida de manera conjunta por el Gobernador del Estado y por el Presidente Municipal del ayuntamiento sede de la Convención.
 
-El Gobernador del Estado podrá ser suplido por el Secretario y los Presidentes Municipales por sus respectivos Tesoreros.
+El Gobernador del Estado podrá ser suplido por el Secretario, y los Presidentes Municipales por sus respectivos Tesoreros.
 
-El Director de la Comisión de Desarrollo Hacendario, fungirá como Secretario Técnico durante las reuniones de la Convención Hacendaria.
+El Director de la Comisión de Desarrollo Financiero, fungirá como Secretario Técnico durante las sesiones de la Convención Financiera del Estado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 298.
 
-La Convención Hacendaria, se llevará a cabo al menos una vez al año, debiendo ser convocada por escrito por el Gobernador del Estado o por la Comisión Permanente, quienes podrán convocar a las sesiones extraordinarias que se requieran.
+La Convención Financiera del Estado se celebrará, como mínimo, una vez al año, y será convocada por escrito por el Gobernador del Estado o por el Secretario o por la Comisión Permanente.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+Asimismo, dichas autoridades podrán convocar a sesiones extraordinarias cuando así se requiera.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 299.
 
-Cuando la Convención Hacendaria del Estado, se realice dentro de los dos últimos meses del año, conocerá por lo menos de los siguientes asuntos:
+Cuando la Convención Financiera del Estado, se celebre dentro de los dos últimos meses del año, conocerá, como mínimo, de los asuntos siguientes:
 
-I. Informe de la Secretaría sobre la distribución y liquidación a Municipios de participaciones, aportaciones y otros ingresos federales.
+I. El informe de la Secretaría sobre la distribución y pago a los municipios de participaciones en ingresos federales, aportaciones y demás ingresos federales.
 
-II. Informe de la Secretaría sobre el comportamiento de los impuestos municipales que administra mediante convenio de colaboración.
+II. El informe de la Secretaría respecto del comportamiento de los impuestos municipales administrados mediante convenio de colaboración.
 
-III. Informe de la Secretaría sobre el comportamiento y perspectivas del financiamiento a los Municipios y de las acciones a su cargo, en los términos del título tercero del libro cuarto de este Código.
+III. El informe de la Secretaría sobre el desempeño y perspectivas del financiamiento a los municipios, así como de las acciones a su cargo, conforme a lo dispuesto en el Título Tercero del Libro Cuarto de este Código.
 
 IV. La integración de la Comisión Permanente vigente.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 300.
 
-Serán facultades de la Convención Hacendaria del Estado:
+Son facultades de la Convención Financiera del Estado:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+I. Aprobar los reglamentos de funcionamiento de la propia Convención Financiera del Estado y de la Comisión de Desarrollo Financiero.
 
-I. Aprobar los reglamentos de funcionamiento de la propia Convención Hacendaria y de la Comisión de Desarrollo Hacendario.
+II. Establecer las aportaciones ordinarias y extraordinarias que deban cubrir el Estado y los ayuntamientos para el sostenimiento de los organismos mencionados en la fracción anterior.
 
-II. Establecer las aportaciones ordinarias y extraordinarias que deban cubrir el Estado y los ayuntamientos, para el sostenimiento de los organismos citados en la fracción anterior.
+III. Aprobar el informe anual de la Comisión Permanente.
 
-III. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2020)
+IV. Aprobar el programa anual de actividades y el presupuesto de la Comisión de Desarrollo Financiero.
 
-IV. Aprobar el informe anual de la Comisión Permanente.
+V. Fijar la política y las reglas que permitan actualizar y perfeccionar el Sistema de Coordinación Fiscal del Estado.
 
-V. Aprobar el programa anual de actividades, así como el presupuesto de la Comisión de Desarrollo Hacendario.
+VI. Las demás facultades que determine la propia Convención.
 
-VI. Fijar la política y reglas que permitan actualizar y mejorar el Sistema de Coordinación Hacendaria del Estado.
-
-VII. Las demás que determine la propia Convención.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 301.
 
-La Comisión Permanente de Tesoreros Municipales y Autoridades Hacendarias, se integrara y funcionará conforme a lo siguiente:
+La Comisión Permanente de Tesoreros Municipales y Autoridades Financieras se integrará y funcionará conforme a las disposiciones siguientes:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+I. La Comisión estará conformada por el Secretario, un representante del Congreso del Estado y catorce Tesoreros Municipales. Será presidida de manera conjunta por el Secretario quien podrá ser suplido por la Autoridad Financiera que éste designe y por el Coordinador electo por la propia Comisión Permanente de Tesoreros Municipales y Autoridades Financieras.
 
-I. Estará integrada por el Secretario, un representante del Congreso del Estado y por catorce Tesoreros Municipales. Será presidida conjuntamente por el Secretario, que podrá ser suplido por la Autoridad Hacendaria que éste designe, y por quien haya sido elegido por la Comisión Permanente de Tesoreros Municipales y Autoridades Hacendarias como Coordinador de la misma.
+II. El cargo de Coordinador de la Comisión Permanente deberá recaer, en todo caso, en un Tesorero Municipal. En su elección no participará funcionario alguno del Gobierno del Estado.
 
-II. La elección del Coordinador de la Comisión Permanente, deberá recaer siempre en un Tesorero Municipal; en su elección no participará funcionario alguno del Gobierno del Estado.
+III. El Tesorero Municipal que funja como Coordinador durará en su encargo un año, pudiendo ser ratificado por la propia Comisión Permanente. Continuará en funciones al término de su período hasta en tanto sea electo quien deba sustituirlo.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2020)</small>
+En caso de ausencia del Coordinador, los Tesoreros Municipales integrantes de la Comisión elegirán de entre ellos a quien deba suplirlo.
 
-III. El Tesorero Municipal que funja como Coordinador de la Comisión Permanente, durará en su encargo un año y podrá ser ratificado por la propia Comisión Permanente; continuará en funciones aún después de terminado su periodo, en tanto no sea elegido quien debe sustituirlo.
+IV. La Comisión Permanente celebrará sesiones ordinarias, por lo menos, cada tres meses, mediante convocatoria escrita emitida de manera conjunta por el Secretario y el Coordinador, en el lugar del territorio estatal que acuerden sus integrantes. Podrán celebrarse sesiones extraordinarias cuando así lo soliciten, al menos, las dos terceras partes de sus miembros.
 
-En caso de ausencia del Coordinador de la Comisión Permanente, los Tesoreros Municipales integrantes de la misma elegirán de entre ellos, a quién deba suplirlo.
+V. Los municipios integrantes de la Comisión Permanente serán elegidos de manera rotativa, uno por cada grupo, conforme a la siguiente distribución:
 
-IV. La Comisión Permanente se reunirá en forma ordinaria al menos cada tres meses mediante convocatoria por escrito que se realice conjuntamente por el Secretario y el Coordinador de la misma, en el lugar del territorio del Estado que elijan sus integrantes; las sesiones extraordinarias podrán ser convocadas además por las dos terceras partes de sus miembros.
+a. Grupo Uno: Acala, Chiapa de Corzo, Chiapilla, Emiliano Zapata, Ixtapa, Nicolás Ruiz, Osumacinta, San Lucas, Soyaló, Suchiapa, Totolapa, Tuxtla Gutiérrez y Venustiano Carranza.
 
-V. Los municipios que integran la Comisión Permanente, serán elegidos de manera rotativa, uno por cada grupo, de acuerdo a lo siguiente:
+b. Grupo Dos: Berriozábal, Cintalapa de Figueroa, Coapilla, Copainalá, Chicoasén, Jiquipilas, Mezcalapa, Ocotepec, Ocozocoautla de Espinosa, San Fernando y Tecpatán.
 
-a. Grupo Uno.- Acala, Chiapa de Corzo, Chiapilla, Emiliano Zapata, Ixtapa, Nicolás Ruiz, Osumacinta, San Lucas, Soyaló, Suchiapa, Totolapa, Tuxtla Gutiérrez y Venustiano Carranza.
+c. Grupo Tres: Aldama, Chalchihuitán, Chamula, Chenalhó, Larráinzar, Mitontic, Pantelhó, San Cristóbal de Las Casas, Santiago El Pinar y Zinacantán.
 
-b. Grupo Dos.- Belisario Domínguez, Berriozábal, Cintalapa, Coapilla, Copainalá, Chicoasén, Jiquipilas, Mezcalapa, Ocotepec, Ocozocoautla, San Fernando y Tecpatán.
+d. Grupo Cuatro: Altamirano, Amatenango del Valle, Chanal, Huixtán, Oxchuc, Las Rosas, Tenejapa y Teopisca.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+e. Grupo Cinco: Comitán de Domínguez, Chicomuselo, Frontera Comalapa, La Independencia, Las Margaritas, Maravilla Tenejapa, Socoltenango, La Trinitaria y Tzimol.
 
-c. Grupo Tres.- Aldama, Chalchihuitán, Chamula, Chenalhó, Larráinzar, Mitontic, Pantelhó, San Cristóbal de Las Casas, Santiago El Pinar y Zinacantán.
+f. Grupo Seis: Ángel Albino Corzo, La Concordia, Montecristo de Guerrero, Parral, Villa Corzo y Villaflores.
 
-d. Grupo Cuatro.- Altamirano, Amatenango del Valle, Chanal, Huixtán, Oxchuc, Las Rosas, Tenejapa y Teopisca.
+g. Grupo Siete: Chapultenango, Francisco León, Ixtacomitán, Ixtapangajoya, Ixhuatán, Juárez, Ostuacán, Pichucalco, Reforma, Solosuchiapa y Sunuapa.
 
-e. Grupo Cinco.- Comitán de Domínguez, Chicomuselo, Frontera Comalapa, La Independencia, Las Margaritas, Maravilla Tenejapa, Socoltenango, La Trinitaria y Tzimol.
+h. Grupo Ocho: Amatán, Bochil, El Bosque, Huitiupán, Jitotol, Pantepec, Pueblo Nuevo Solistahuacán, Rayón, Rincón Chamula San Pedro, San Andrés Duraznal, Simojovel, Tapalapa y Tapilula.
 
-f. Grupo Seis.- Ángel Albino Corzo, La Concordia, Montecristo de Guerrero, Parral, Villa Corzo y Villaflores.
+i. Grupo Nueve: Benemérito de las Américas, Chilón, Marqués de Comillas, Ocosingo, San Juan Cancuc, Sitalá y Yajalón.
 
-g. Grupo Siete.- Chapultenango, Francisco León, Ixtacomitán, Ixtapangajoya, Ixhuatán, Juaréz, Ostuacán, Pichucalco, Reforma, Solosuchiapa y Sunuapa.
+j. Grupo Diez: Catazajá, La Libertad, Palenque, Sabanilla, Salto de Agua, Tila y Tumbalá.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+k. Grupo Once: Amatenango de la Frontera, Bejucal de Ocampo, Bella Vista, Capitán Luis Ángel Vidal, Honduras de la Sierra, La Grandeza, Mazapa de Madero, Motozintla, El Porvenir y Siltepec.
 
-h. Grupo Ocho.- Amatán, Bochil, El Bosque, Huitiupán, Jitotol, Pantepec, Pueblo Nuevo Solistahuacán, Rayón, Rincón Chamula San Pedro, San Andrés Duraznal, Simojovel, Tapalapa y Tapilula.
+l. Grupo Doce: Cacahoatán, Frontera Hidalgo, Mazatán, Metapa, Suchiate, Tapachula, Tuxtla Chico y Unión Juárez.
 
-i. Grupo Nueve.- Benemérito de las Américas, Chilón, Marqués de Comillas, Ocosingo, San Juan Cancuc, Sitalá y Yajalón.
+m. Grupo Trece: Acacoyagua, Acapetahua, Escuintla, Huehuetán, Huixtla, Villa Comaltitlán y Tuzantán.
 
-j. Grupo Diez.- Catazajá, La Libertad, Palenque, Sabanilla, Salto de Agua, Tila y Tumbalá.
+n. Grupo Catorce: Arriaga, Mapastepec, Pijijiapan y Tonalá.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+VI. La elección de los Tesoreros Municipales que integren la Comisión Permanente se llevará a cabo conforme al reglamento que para tal efecto expida la propia Comisión.
 
-k) Grupo Once.- Amatenango de la Frontera, Bejucal de Ocampo, Bella Vista, Capitán Luis Ángel Vidal, Honduras de la Sierra, La Grandeza, Mazapa de Madero, Motozintla, El Porvenir y Siltepec.
+VII. Los Tesoreros Municipales miembros de la Comisión Permanente durarán en funciones un año, pudiendo ser ratificados por los integrantes de sus respectivos grupos o, en su defecto, por la propia Comisión Permanente. Continuarán en funciones al concluir su período hasta que sean designados quienes deban sustituirlos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-l. Grupo Doce.- Cacahoatán, Frontera Hidalgo, Mazatán, Metapa, Suchiate, Tapachula, Tuxtla Chico y Unión Juárez.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-m. Grupo Trece.- Acacoyagua, Acapetahua, Escuintla, Huehuetán, Huixtla, Villa Comaltitlán y Tuzantán.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-n. Grupo Catorce.- Arriaga, Mapastepec, Pijijiapan y Tonalá.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
-
-VI. La elección de los Tesoreros Municipales que integren la Comisión Permanente, se hará de acuerdo al reglamento que al efecto expida la misma.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
-
-VII. Los Tesoreros de los Municipios miembros de la Comisión Permanente, durarán en su encargo un año, podrán ser ratificados por los integrantes de sus respectivos Grupos o, a falta de acuerdo de éstos últimos, serán designados o ratificados por la propia Comisión Permanente; pero continuarán en funciones aún después de terminado su periodo, en tanto no sean elegidos los que deban sustituirlos.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 302.
 
-La Comisión Permanente tendrá las siguientes facultades:
+La Comisión Permanente tendrá las facultades siguientes:
 
-I. Preparar las reuniones de la Convención Hacendaria y establecer los asuntos de que deba ocuparse.
+I. Preparar las reuniones de la Convención Financiera del Estado y determinar los asuntos que deban ser objeto de su deliberación.
 
-II. Formular los proyectos de distribución de aportaciones ordinarias y extraordinarias que deban cubrir el Estado y los Municipios para el sostenimiento de los órganos de coordinación.
+II. Formular los proyectos de distribución de las aportaciones ordinarias y extraordinarias que deban cubrir el Estado y los Municipios para el sostenimiento de los órganos de coordinación.
 
-III. Fungir como Consejo Directivo de la Comisión de Desarrollo Hacendario.
+III. Fungir como Consejo Directivo de la Comisión de Desarrollo Financiero.
 
-IV. Revisar los informes de actividades de la Comisión de Desarrollo Hacendario, así como formular los de la propia Comisión Permanente, los cuales someterá a la aprobación de la Convención Hacendaria.
+IV. Revisar los informes de actividades de la Comisión de Desarrollo Financiero, así como elaborar los propios de la Comisión Permanente, mismos que someterá a la aprobación de la Convención Financiera del Estado.
 
-V. Proponer a la Convención Hacendaria, la política y reglas de coordinación fiscal en el Estado y los criterios normativos que faciliten la mejor aplicación de las leyes fiscales locales.
+V. Proponer a la Convención Financiera del Estado la política y reglas de coordinación fiscal en el Estado, así como los criterios normativos que faciliten la adecuada aplicación de las leyes fiscales locales.
 
-VI. Proponer a la Convención Hacendaria, las modificaciones a los criterios de distribución de participaciones que se establecen en esta Ley, así como las reformas o modificaciones a la legislación fiscal vigente.
+VI. Proponer a la Convención Financiera del Estado las modificaciones a los criterios de distribución de participaciones establecidos en este Código, así como las reformas o adiciones a la legislación fiscal vigente.
 
-VII. Vigilar que los convenios de coordinación y colaboración administrativa entre el Estado y los Municipios se sujeten a los términos establecidos en esta Ley y otras que sean aplicables.
+VII. Vigilar que los convenios de coordinación y colaboración administrativa entre el Estado y los Municipios se ajusten a los términos previstos en este Código y demás disposiciones aplicables.
 
-VIII. Recibir las inconformidades que presenten el Estado o los Municipios en relación con los asuntos materia de esta Ley.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2020)</small>
+VIII. Recibir las inconformidades que presenten el Estado o los Municipios respecto de los asuntos regulados por este Código.
 
 IX. Elegir al Coordinador de la propia Comisión Permanente.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE DICIEMBRE DE 2020)</small>
+X. Ejercer las demás atribuciones que le confiera la Convención Financiera del Estado y aquellas que determine la propia Comisión.
 
-X. Las demás que le encomiende la Convención Hacendaria y las que determine esta Comisión
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 303.
 
-La Comisión de Desarrollo Hacendario se establece como un órgano de consulta y análisis técnico en materia fiscal, encargado de apoyar a los Municipios y al Estado.
+La Comisión de Desarrollo Financiero se constituye como un órgano de consulta y análisis técnico en materia fiscal, encargado de brindar apoyo tanto a los Municipios como al Estado.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 304.
 
-La Comisión de Desarrollo Hacendario estará integrada por:
+La Comisión de Desarrollo Financiero se integrará de la siguiente manera:
 
-I. El Director de la Comisión de Desarrollo Hacendario, que será nombrado por el Secretario, quien la presidirá.
+I. Por el Director de la Comisión de Desarrollo Financiero, quien será designado por el Secretario y ejercerá la Presidencia de la misma.
 
-II. El Consejo Directivo, tendrá las facultades que señale su reglamento, fungirá como Consejo Directivo la Comisión Permanente de Tesoreros Municipales y Autoridades Hacendarias.
+II. Por el Consejo Directivo, cuyas facultades se establecerán en el reglamento respectivo, y que será ejercido por la Comisión Permanente de Tesoreros Municipales y Autoridades Financieras.
 
-La Comisión de Desarrollo Hacendario podrá contar con el personal especializado que se requiera para el cumplimiento de sus fines, de acuerdo con la estructura orgánica y el reglamento de funcionamiento que se apruebe.
+La Comisión de Desarrollo Financiero contará con el personal especializado que resulte necesario para el cumplimiento de sus fines, conforme a la estructura orgánica y al reglamento de funcionamiento que se aprueben.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 305.
 
-La Comisión de Desarrollo Hacendario tendrá las siguientes funciones:
+La Comisión de Desarrollo Financiero tendrá las funciones siguientes:
 
-I. Llevar a cabo en forma permanente investigaciones o estudios relativos al Sistema de Coordinación Hacendaria del Estado.
+I. Realizar de manera permanente investigaciones y estudios relacionados con el Sistema de Coordinación Fiscal del Estado.
 
-II. Proponer medidas que permitan mejorar la colaboración administrativa en materia tributaria entre el Estado y sus Municipios, así como entre estos últimos.
+II. Proponer medidas orientadas a mejorar la colaboración administrativa en materia tributaria entre el Estado y los Municipios, así como entre estos últimos.
 
-III. Participar como consultor técnico de las haciendas públicas municipales en materia hacendaria.
+III. Actuar como órgano consultor técnico de las haciendas públicas municipales en asuntos de carácter hacendario.
 
-IV. Capacitar al personal técnico y funcionarios fiscales del Estado y de los Municipios.
+IV. Impulsar la capacitación del personal técnico y de los funcionarios fiscales del Estado y de los Municipios.
 
-V. Desarrollar los programas inherentes a su función que apruebe la Convención.
+V. Desarrollar los programas inherentes a sus funciones que apruebe la Convención Financiera.
 
-VI. Participar en programas y actividades de capacitación fiscal con otras instituciones u organismos dedicados a la materia.
+VI. Participar en programas y actividades de capacitación fiscal en coordinación con otras instituciones u organismos especializados en la materia.
 
-VII. Las demás que le establezca la Convención Hacendaria.
+VII. Ejercer las demás atribuciones que le confiera la Convención Financiera.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 306.
 
-La Comisión de Desarrollo Hacendario desarrollará el programa que anualmente apruebe la Convención Hacendaría y sufragará sus gastos a prorrata entre los ayuntamientos de la Entidad y el Gobierno del Estado, aportando los primeros el 50% de su presupuesto y el Gobierno Estatal al restante.
+La Comisión de Desarrollo Financiero ejecutará el programa anual aprobado por la Convención Financiera del Estado y sufragará sus gastos con cargo a aportaciones realizadas a prorrata entre los Ayuntamientos de la Entidad y el Gobierno del Estado, correspondiendo a los primeros cubrir el cincuenta por ciento de su presupuesto, y al Gobierno Estatal el porcentaje restante.
 
-### Capítulo VIII. De los Alcances por Violación al Sistema de Coordinación Hacendaria del Estado
+### Capítulo VII. De los Fondos de Aportaciones Federales que Corresponden a los Municipios
+
+#### Sección I. Del Fondo de Aportaciones para la Infraestructura Social Municipal
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 307.
 
@@ -4631,6 +5039,8 @@ Por acuerdo del Comité de Planeación para el Desarrollo Municipal, del monto d
 
 Los Ayuntamientos deberán llevar cuenta y orden del gasto y sus modificaciones por programa, proyecto, acción u obra, debiendo presentar ante el Congreso del Estado, dentro del avance mensual de la cuenta pública, un paquete de información relativo al presente fondo e informar a la Secretaría de la Honestidad y la Función Pública.
 
+#### Sección II. Del Fondo de Aportaciones para el Fortalecimiento de Los Municipios
+
 ###### Artículo 318.
 
 Los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios se determinarán anualmente en el Presupuesto de Egresos de la Federación y serán enterados a los municipios por conducto del Ejecutivo del Estado, a través de la Secretaría, a más tardar al siguiente día hábil de la radicación financiera, realizada por la Federación al Estado.
@@ -4699,6 +5109,10 @@ Los Municipios deberán formular mensualmente un reporte del avance físico-fina
 
 Los recursos que reciban los Municipios de los fondos y sus accesorios a que se refiere este capítulo, no serán embargables bajo ninguna circunstancia, ni podrán ser gravados o afectados en garantía, ni ser susceptibles de destinarse a fines distintos a los expresamente previstos en este capítulo, salvo para los casos contemplados en los artículos 312 y 322 de este Código.
 
+#### Sección III. De la Vigilancia y Control del Destino de los Fondos
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
 ###### Artículo 330.
 
 Corresponde a la Secretaría de Honestidad y la Función Pública, acordar coordinadamente con el Congreso del Estado, la realización de actividades de control, supervisión y vigilancia de la correcta aplicación de los recursos que reciban los municipios de los fondos de aportaciones a los que se refiere el Capítulo VII, del Libro Tercero de este Código para establecer medidas preventivas y evitar la desviación y el mal uso de los mismos.
@@ -4743,9 +5157,7 @@ Los municipios deberán publicar dichos informes en los órganos locales oficial
 
 Las responsabilidades administrativas, civiles y penales derivadas de afectaciones a la Hacienda Pública Federal, que en su caso incurran las autoridades estatales o municipales exclusivamente por motivo de la desviación de los recursos recibidos de los fondos señalados, para fines distintos a los previstos en este libro, serán sancionadas en términos de la legislación federal, por las autoridades federales, en tanto los demás casos dichas responsabilidades serán sancionadas y aplicadas por las autoridades locales con base en este Código y las demás leyes estatales y municipales aplicables.
 
-### Capítulo I. Disposiciones Generales
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+### Capítulo VIII. De los Alcances por Violación al Sistema de Coordinación Hacendaria del Estado
 
 ###### Artículo 334.
 
@@ -4755,9 +5167,9 @@ Cuando el Estado o algún Municipio contravenga lo establecido por este libro o 
 
 ## Titulo Primero. Del Presupuesto y el Gasto Público
 
-### Capítulo II. De los Presupuestos de Egresos
+### Capítulo I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 335.
 
@@ -4967,7 +5379,9 @@ Cuando las Entidades Paraestatales requieran suscribir con la Federación a trav
 
 Para efectos de armonización presupuestaria, financiera y contable, conforme a la Ley General de Contabilidad Gubernamental, Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y demás ordenamientos en la materia, los Organismos Públicos deben registrar en los sistemas informáticos correspondientes todos los ingresos y gastos de que dispongan para satisfacer los objetivos a los que estén destinados.
 
-### Capítulo I. De la Administración de los Recursos Públicos
+### Capítulo II. De los Presupuestos de Egresos
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 342.
 
@@ -5287,9 +5701,7 @@ Los Órganos Ejecutores que integran el Poder Judicial, atendiendo a las previsi
 
 ## Título Segundo. De la Ejecución y Control Presupuestario del Gasto Público
 
-### Capítulo II. Del Ejercicio y Control Presupuestario
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+### Capítulo I. De la Administración de los Recursos Públicos
 
 ###### Artículo 354.
 
@@ -5397,6 +5809,8 @@ Tratándose de ingresos extraordinarios derivados de empréstitos, el gasto debe
 
 De los movimientos que se efectúen en los términos de este artículo, el Gobernador del Estado informará al Congreso del Estado al rendir la Cuenta Pública.
 
+#### Sección Única. De la Operatividad Financiera
+
 ###### Artículo 360.
 
 La Secretaría, emitirá la normatividad en materia financiera para los Organismos Públicos.
@@ -5425,7 +5839,9 @@ Los Organismos Públicos implementarán programas para que los pagos se hagan di
 
 Los Organismos Públicos del Ejecutivo podrán solicitar a la Secretaría a través de la Tesorería Única, la aplicación financiera a través del programa de pagos a proveedores y contratistas por descuento electrónico de cadenas productivas, siempre y cuando cuenten con la autorización presupuestaria con la fuente de financiamiento emitida por la Secretaría y vigilando en todo momento la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
-### Capítulo III. De la Disciplina Presupuestaria
+### Capítulo II. Del Ejercicio y Control Presupuestario
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 363.
 
@@ -5651,7 +6067,7 @@ La Secretaría será la responsable de llevar un registro del personal de mando 
 
 Los titulares de los Organismos Públicos son responsables de reducir selectiva y eficientemente los gastos de operación, sin detrimento de la realización oportuna y eficiente de los programas y proyectos a su cargo, la adecuada prestación de los bienes y servicios de su competencia; así como de cubrir con la debida oportunidad sus compromisos reales de pago, con estricto apego a lo dispuesto en este Código y a las disposiciones legales que resulten aplicables a la materia.
 
-### Capítulo IV. De los Servicios Personales
+### Capítulo III. De la Disciplina Presupuestaria
 
 ###### Artículo 376.
 
@@ -5669,7 +6085,7 @@ IV. Que las contrataciones se realicen, de acuerdo con las disposiciones aplicab
 
 Los recursos asignados a los Organismos Públicos, se destinan para la atención del desarrollo de programas y proyectos prioritarios relacionados con el desarrollo social, económico e institucional, por ello, queda estrictamente prohibido cualquier gasto relacionado con actividades de gobierno, que presupongan compra o consumo de bebidas con contenido alcohólico.
 
-### Capítulo V. Del Ejercicio del Gasto Público
+### Capítulo IV. De los Servicios Personales
 
 ###### Artículo 378.
 
@@ -5787,7 +6203,7 @@ Artículo 385 A.- La asignación global de servicios personales aprobada origina
 
 Articulo 385 B.- La Secretaría contará con un sistema de registro y control de las erogaciones de servicios personales.
 
-### Capítulo VI. Del Gasto de Inversión
+### Capítulo V. Del Ejercicio del Gasto Público
 
 ###### Artículo 386.
 
@@ -5879,9 +6295,7 @@ Artículo 389 B.- Los Organismos Públicos que cuenten con disponibilidades de r
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-### Capítulo VII. De las Transferencias, Asignaciones, Subsidios y Ayudas
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+### Capítulo VI. Del Gasto de Inversión
 
 ###### Artículo 390.
 
@@ -5965,7 +6379,9 @@ Cuando los recursos autorizados no estén devengados ni comprometidos, a más ta
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-### Capítulo VIII. Facultades Exclusivas del Titular del Ejecutivo
+### Capítulo VII. De las Transferencias, Asignaciones, Subsidios y Ayudas
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 396.
 
@@ -6047,7 +6463,7 @@ II. No contribuyan a la consecución de objetivos de los programas y proyectos o
 
 La Secretaría podrá emitir las disposiciones que considere necesarias sobre la operación, evaluación y ejercicio del gasto relacionado con el otorgamiento y aplicación de las transferencias, asignaciones, subsidios y ayudas, a fin de dar cumplimiento a lo establecido en este capítulo.
 
-### Capítulo IX. De Los Fideicomisos
+### Capítulo VIII. Facultades Exclusivas del Titular del Ejecutivo
 
 ###### Artículo 403.
 
@@ -6083,9 +6499,7 @@ El otorgamiento de empréstitos o créditos que el Ejecutivo del Estado acuerde,
 
 El otorgamiento de empréstitos o créditos que se otorguen a Organismos Públicos del Ejecutivo no causará el pago de intereses.
 
-### Capítulo X. De las Responsabilidades
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+### Capítulo IX. De Los Fideicomisos
 
 ###### Artículo 406.
 
@@ -6279,9 +6693,9 @@ Cuando sea necesario realizar modificaciones a las disposiciones aplicables que 
 
 Los estados financieros de los fideicomisos públicos estatales, podrán ser auditados por auditor externo, el cual será designado por la Secretaría de la Honestidad y Función Pública, dentro de una terna que para el caso proponga el Comité Técnico.
 
-### Capítulo I. Disposiciones Generales
+### Capítulo X. De las Responsabilidades
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 423.
 
@@ -6337,7 +6751,9 @@ Las responsabilidades a que se refiere este Código se constituirán y exigirán
 
 ## Título Tercero. De la Deuda Pública del Estado
 
-### Capítulo II. De las Facultades y Obligaciones de los Órganos en Materia de Deuda Pública
+### Capítulo I. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 429.
 
@@ -6405,15 +6821,7 @@ V. Que se acredite la publicación, en un diario de circulación local, de la in
 
 VI. Que la Entidad solicitante acredite que se encuentra al corriente en el pago de los financiamientos y obligaciones que tenga contratados y que estén debidamente registrados en el Registro de Empréstitos y Obligaciones del Estado, y en el Registro Público Único de Financiamientos y Obligaciones de Entidades Federativas y Municipios, de la Secretaría de Hacienda y Crédito Público.
 
-### Capítulo III. De la Contratación de Deuda Pública y Obligaciones
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-Artículo 444 A.- Los entes públicos a que se refiere el artículo 429 de éste Código, estarán obligados a contratar financiamientos y obligaciones a su cargo bajo las mejores condiciones de mercado. Asimismo, deberán publicar en su página de internet el análisis comparativo del proceso competitivo.
-
-Una vez celebrados los instrumentos jurídicos relativos, a más tardar diez días posteriores a la inscripción en el Registro Público Único, deberán publicar en su página oficial de Internet dichos instrumentos. Asimismo, estarán obligados a presentar en los informes trimestrales a que se refiere la Ley General de Contabilidad Gubernamental y en su respectiva Cuenta Pública, la información detallada de cada financiamiento u obligación contraída, incluyendo como mínimo, el importe, tasa, plazo, comisiones y demás accesorios pactados, así como la tasa efectiva, conforme a los Lineamientos que publique la Secretaría de Hacienda y Crédito Público.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+### Capítulo II. De las Facultades y Obligaciones de los Órganos en Materia de Deuda Pública
 
 ###### Artículo 434.
 
@@ -6601,9 +7009,15 @@ VI. Verificar que el Proceso Competitivo para la contratación de los financiami
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-### Capítulo IV. De las Obligaciones derivadas de las Operaciones de Endeudamiento
+### Capítulo III. De la Contratación de Deuda Pública y Obligaciones
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Artículo 444 A.- Los entes públicos a que se refiere el artículo 429 de éste Código, estarán obligados a contratar financiamientos y obligaciones a su cargo bajo las mejores condiciones de mercado. Asimismo, deberán publicar en su página de internet el análisis comparativo del proceso competitivo.
+
+Una vez celebrados los instrumentos jurídicos relativos, a más tardar diez días posteriores a la inscripción en el Registro Público Único, deberán publicar en su página oficial de Internet dichos instrumentos. Asimismo, estarán obligados a presentar en los informes trimestrales a que se refiere la Ley General de Contabilidad Gubernamental y en su respectiva Cuenta Pública, la información detallada de cada financiamiento u obligación contraída, incluyendo como mínimo, el importe, tasa, plazo, comisiones y demás accesorios pactados, así como la tasa efectiva, conforme a los Lineamientos que publique la Secretaría de Hacienda y Crédito Público.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 445.
 
@@ -6689,7 +7103,9 @@ El Estado y Municipios presentarán en los informes periódicos a que se refiere
 
 Artículo 454 A.- Las obligaciones a corto plazo no podrán ser objeto de refinanciamiento o reestructura a plazos mayores a un año, salvo en el caso de las obligaciones destinadas a Inversión pública productiva y se cumpla con los requisitos previstos en la Ley de Disciplina Financiera de las Entidades Federativas y de los Municipios.
 
-### Capítulo Único
+### Capítulo IV. De las Obligaciones derivadas de las Operaciones de Endeudamiento
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 455.
 
@@ -6751,9 +7167,7 @@ Lo anterior, en términos de la Ley de Disciplina Financiera de las Entidades Fe
 
 ## Título Cuarto. De las Fianzas a favor de Gobierno del Estado
 
-### Capítulo I. Disposiciones Generales
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+### Capítulo Único
 
 ###### Artículo 461.
 
@@ -6883,7 +7297,9 @@ De los ingresos que el Estado obtenga, por el cobro de indemnizaciones e interes
 
 ## Título Quinto. De la Contabilidad Gubernamental
 
-### Capítulo II. De la contabilidad y evaluación
+### Capítulo I. Disposiciones Generales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 474.
 
@@ -6915,9 +7331,7 @@ Es responsabilidad de los titulares de los Organismos Públicos, la cancelación
 
 La Secretaría para la armonización contable, determinará las directrices del sistema informático que utilizarán los Organismos Públicos para registrar y procesar los eventos contables que permitirán obtener información, toma de decisiones y rendición de cuentas.
 
-### Capítulo III. De la Consolidación
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
+### Capítulo II. De la contabilidad y evaluación
 
 ###### Artículo 477.
 
@@ -6959,7 +7373,9 @@ Los Estados Financieros Contables y Presupuestarios que forman parte del Informe
 
 La Secretaría realizará periódicamente la evaluación de la información que envíen los Organismos Públicos, verificando el correcto cumplimiento de las leyes y normas establecidas.
 
-### Capítulo IV. De la Transparencia de los Recursos Federalizados
+### Capítulo III. De la Consolidación
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 482.
 
@@ -6994,6 +7410,8 @@ La Secretaría implementará los criterios de homogeneización y armonización d
 ###### Artículo 485.
 
 La Secretaría de la Honestidad y Función Pública y el Órgano de Fiscalización Superior del Congreso del Estado y la Secretaría, en el ejercicio de sus atribuciones, que en materia de inspección, control, vigilancia, revisión y fiscalización le confieren la Ley Orgánica de la Administración Pública del Estado de Chiapas y la Ley de Fiscalización y Rendición de Cuentas del Estado de Chiapas, respectivamente, comprobarán que se cumplan las obligaciones derivadas de este Código.
+
+### Capítulo IV. De la Transparencia de los Recursos Federalizados
 
 ###### Artículo 486.
 
@@ -7304,3 +7722,13 @@ Artículo Cuarto. Los ayuntamientos municipales en un plazo no mayor a treinta d
 Artículo Quinto. Para el cumplimiento de lo establecido en el presente Decreto, el Poder Ejecutivo a través de la Secretaría de Finanzas, implementará un "Programa para el Suministro Gratuito de Estampas para Cascos y de Chalecos para las Personas Conductoras de Motocicletas en el Estado de Chiapas.
 
 Las erogaciones que se generen con motivo de la implementación del programa mencionado en el párrafo anterior, se cubrirán con cargo al presupuesto asignado a la Secretaría de Finanzas, por lo que no se asignarán partidas presupuestales adicionales durante el presente ejercicio fiscal.
+
+P.O. 9 DE DICIEMBRE DE 2025.
+
+## N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 036 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS; ASÍ COMO SU DENOMINACIÓN PARA QUEDAR COMO CÓDIGO FISCAL DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor el 1 de enero de 2026.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- A la entrada en vigor del presente Decreto, las referencias y menciones que en otras legislaciones o disposiciones normativas se encuentren realizadas al Código de la Hacienda Pública para el Estado de Chiapas, hasta en tanto se realicen las adecuaciones correspondientes, se entenderán realizadas al Código Fiscal del Estado de Chiapas.
