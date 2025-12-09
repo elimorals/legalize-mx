@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-etica-del-poder-ejecutivo-del-estado-de-guanajuato-13
 country: "mx"
 rank: "codigo"
 publication_date: "2019-02-15"
-last_updated: "2019-02-15"
+last_updated: "2025-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # CODIGO DE ETICA DEL PODER EJECUTIVO DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE ÉTICA Y HONESTIDAD DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, PUBLICADO EN EL P.O. DE 9 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DEL PODER EJECUTIVO DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2025 (ABROGADO).
 
 Código publicado en la Segunda Parte al Número 34 del Periódico Oficial del Estado de Guanajuato, el viernes 15 de febrero de 2019.
 
@@ -572,3 +574,25 @@ En la ciudad de Guanajuato, Gto., a los 13 días del mes de febrero de 2019.
 Marisol de Lourdes Ruenes Torres.
 
 Secretaria de la Transparencia y Rendición de Cuentas
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO SECRETARIAL 1/2025 MEDIANTE EL CUAL SE EMITE EL CÓDIGO DE ÉTICA Y HONESTIDAD DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Acuerdo Secretarial entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Abrogación del Código de Ética
+
+Artículo Segundo. Se abroga el Código de Ética del Poder Ejecutivo del Estado de Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 34, Segunda Parte, de fecha 15 de febrero de 2019.
+
+Adecuación de códigos de conducta
+
+Artículo Tercero. Los comités internos de ética y prevención de conflicto de interés de las dependencias, entidades y unidades de apoyo de la Administración Pública Estatal deberán realizar las adecuaciones necesarias a sus respectivos códigos de conducta en un plazo no mayor a noventa días hábiles contados a partir de la entrada en vigor de este Acuerdo Secretarial.
+
+Normatividad aplicable a procedimientos iniciados
+
+Artículo Cuarto. Los procedimientos de responsabilidad administrativa iniciados durante la vigencia del Código de Ética del Poder Ejecutivo del Estado de Guanajuato que se abroga en términos del Artículo Segundo Transitorio del presente Acuerdo Secretarial se sujetarán a las disposiciones vigentes al momento de su inicio.
