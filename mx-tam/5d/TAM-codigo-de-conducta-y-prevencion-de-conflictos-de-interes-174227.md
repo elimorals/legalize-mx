@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-conducta-y-prevencion-de-conflictos-de-interes-174227
 country: "mx"
 rank: "codigo"
 publication_date: "2024-08-29"
-last_updated: "2024-08-29"
+last_updated: "2025-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174227&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO DE CONDUCTA Y PREVENCION DE CONFLICTOS DE INTERES DEL COLEGIO EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
 
 Código publicado en el Número 105 del Periódico Oficial del Estado de Tamaulipas, el jueves 29 de agosto de 2024.
 
@@ -319,6 +319,88 @@ El personal del Colegio en el desempeño de su cargo o comisión deberá manejar
 
 El Colegio, promoverá la creación de una cultura responsable de atención a las solicitudes de servicios, quejas, denuncias y su seguimiento respectivo, ofreciendo a toda persona un trato respetuoso, imparcial y equitativo y, en caso de resultar procedente, dar el seguimiento, atención y respuesta oportuna a la ciudadanía.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO XIII. PREVENCIÓN DE LA CORRUPCIÓN
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 15.
+
+El presente capítulo tiene por objetivo establecer los principios, normas y directrices que guiarán la conducta de los servidores públicos en la prevención y combate a la corrupción, así como en la promoción de la ética en el ejercicio de sus funciones.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 16.
+
+Los servidores públicos no cometerán ningún acto de corrupción. También se opondrán rigurosamente a todos los actos de esa índole y los combatirán.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 17.
+
+En materia de integridad y transparencia, en el ejercicio público se deberá de atender lo siguiente:
+
+1. Los servidores públicos deben desempeñar sus funciones con integridad y transparencia, actuando siempre en interés del bien común y en apego a la legalidad.
+
+2. Se prohíbe a los servidores públicos utilizar su posición para obtener beneficios personales o de terceros, incluyendo sobornos, dádivas, o cualquier otra forma de corrupción.
+
+3. Todo servidor público tiene la obligación de rendir cuentas sobre el ejercicio de sus funciones y el uso de los recursos públicos bajo su responsabilidad.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 18.
+
+1. Los servidores públicos deben abstenerse de participar en decisiones en las que tengan intereses personales, familiares hasta el cuarto grado de consanginidad (sic) y segundo grado por afinidad, o económicos que puedan afectar o influir en su imparcialidad y objetividad.
+
+2. En caso de conflicto de intereses, el servidor público debe comunicarlo de manera inmediata a su superior jerárquico y abstenerse de participar en la toma de decisiones relacionadas con dicho conflicto.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 19.
+
+Ningún trabajador del CONALEP Tamaulipas debe involucrarse, pretender involucrarse o promover conductas vinculadas a la corrupción. Este tipo de actuaciones están prohibidas en cualquier relación, directa o mediante un tercero, con dependencias o entidades de gobierno, servidores públicos o representantes del sector privado.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 20.
+
+Para el uso adecuado y debido de los Recursos Públicos, se establece lo siguiente:
+
+1. Los servidores públicos tienen la responsabilidad de utilizar los recursos públicos de manera eficiente, económica y transparente, evitando su malversación o uso indebido.
+
+2. Queda prohibido el uso de recursos públicos para fines personales o partidistas, así como cualquier acción que implique un aprovechamiento indebido de los mismos.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 21.
+
+1. Se establecerán mecanismos adecuados y accesibles para que los servidores públicos puedan denunciar actos de corrupción, sin temor a represalias o discriminación.
+
+2. La institución garantizará la confidencialidad y protección del denunciante, así como la debida investigación y sanción de las conductas ilícitas denunciadas.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 22.
+
+1. La institución promoverá la capacitación y sensibilización continua de los servidores públicos en materia de prevención de la corrupción, ética pública, transparencia y rendición de cuentas.
+
+2. Se fomentará la adopción de buenas prácticas y la creación de una cultura organizacional basada en los valores de integridad y honestidad.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 23.
+
+Los servidores públicos tienen la obligación de colaborar con las autoridades competentes en la investigación y persecución de actos de corrupción, proporcionando la información y la colaboración necesarias para el esclarecimiento de los hechos.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 24.
+
+1. El incumplimiento de las disposiciones establecidas en este capítulo será objeto de las sanciones correspondientes, conforme a lo establecido en la normativa interna y la legislación aplicable.
+
+2. Las sanciones podrán incluir desde amonestaciones y suspensión temporal, hasta la destitución e inhabilitación para el ejercicio de cargos públicos, según la gravedad de la falta cometida.
+
 ACCIONES PARA LA PREVENCIÓN Y CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE TAMAULIPAS
 
 OBLIGACIONES PARA PREVENIR LOS CONFLICTOS DE INTERÉS
@@ -390,3 +472,13 @@ Nombre de la persona
 Puesto
 
 Número de empleado
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE REFORMA EL CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE TAMAULIPAS, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO NÚMERO 105, DE FECHA 29 DE AGOSTO DE 2024”.]
+
+Artículo Primero. La presente reforma al Código de Conducta y Prevención de Conflictos de Interés del Colegio de Educación Profesional Técnica del Estado de Tamaulipas entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+Artículo Segundo. El Colegio de Educación Profesional Técnica del Estado de Tamaulipas realizará las acciones tendientes a difundir y promover el conocimiento de la presente reforma entre su personal, el cual es de obligatorio cumplimiento para todos los servidores públicos de la entidad.
