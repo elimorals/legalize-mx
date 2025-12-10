@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2025-08-27"
+last_updated: "2025-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -2795,7 +2795,7 @@ El delito previsto en el artículo que antecede, se perseguirá de oficio.
 
 ### Capítulo IV. Abuso Sexual
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 239.
 
@@ -2813,51 +2813,57 @@ Al responsable del delito de estupro, se le sancionará con pena de prisión de 
 
 ###### Artículo 241.
 
-Comete el delito de abuso sexual, la persona que sin consentimiento de otra, ejecute en ésta un acto sexual, distinto a la cópula y sin el propósito de llegar a ella, o la obligue a observarlo o ejecutarlo.
+Comete el delito de abuso sexual quien sin el consentimiento de la víctima y sin el propósito de llegar a la cópula, realice en el ámbito público o privado, cualquier acto de naturaleza sexual, la obligue a observarlo, o la haga ejecutarlo sobre sí, para un tercero o para el propio sujeto activo. También se considera abuso sexual cuando se obligue a la víctima a exhibir su cuerpo.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
+Para efectos de esta disposición, se entenderá agravada la conducta cuando el sujeto pasivo sea menor de dieciocho años de edad o persona que no tenga la capacidad de comprender el significado del hecho, aun con su consentimiento, o por cualquier caso que no pueda resistirlo.
 
-Este delito se perseguirá por querella de parte ofendida, salvo que ocurra violencia física o moral, o que la víctima sea una persona mayor de catorce años de edad, pero menor de dieciocho; o incapaz; o cuando se realice a persona que por otras circunstancias no tenga capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo.
+Se entiende por acto de naturaleza sexual los tocamientos, caricias, roces corporales, exhibiciones o representaciones sexuales explicitas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2025)</small>
+Para los efectos del presente artículo no se considera consentimiento cuando la voluntad de la persona haya sido anulada o viciada por violencia, intimidación, engaño, amenaza, abuso de confianza, autoridad o situación de vulnerabilidad.
+
+El consentimiento no podrá presumirse del silencio, la pasividad o la falta de resistencia física de la víctima.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 242.
 
-Al que cometa el delito de abuso sexual, se le impondrá pena de diez a quince años de prisión y multa de trescientas a quinientas unidades de medida y actualización.
+A quien cometa este delito se le impondrá una sanción de diez a quince años de prisión y multa de trescientas a quinientas veces el valor diario de la Unidad de Medida y Actualización. Así mismo, se impondrá la obligación de acudir a talleres reeducativos con perspectiva de género y no violencia contra las mujeres y/o prestar servicio social en favor del Estado o de instituciones de beneficencia pública a fin de favorecer medidas de no repetición y promover un cambio cultural a favor de la igualdad sustantiva entre mujeres y hombres. El cumplimiento de esta obligación es de especial relevancia para la procedencia y continuidad de la suspensión condicional.
 
-> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 15 DE MAYO DE 2014)</small>
+Este delito se perseguirá de oficio.
 
-La pena prevista se aumentará en una mitad más en su mínimo y en su máximo cuando:
-
-I. Sea cometida por dos o más personas.
-
-II. Se hiciere uso de la violencia física o moral.
-
-III. Se hubiera administrado a la víctima alguna sustancia tóxica.
-
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2025)</small>
-
-Cuando el sujeto pasivo se trate de persona mayor de catorce años de edad, pero menor de dieciocho, incapaz o cuando se realice en persona que por otras circunstancias no tenga capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo, la pena aplicable será de diez a quince años de prisión y de quinientos a mil unidades de medida y actualización. A los autores y participes del delito previsto en éste párrafo no se les concederá ningún beneficio de libertad anticipada en ejecución de sentencia.
-
-> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2025)</small>
-
-Al responsable de abuso sexual, el juez deberá de condenarlo además al pago de la reparación del daño a favor de la víctima, que incluirá los costos del tratamiento médico y psicológico, hasta su total recuperación.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 243.
 
-Se equipara al delito de abuso sexual y se sancionará con la misma pena:
+Las penas previstas en este artículo se aumentarán en una mitad más cuando el delito se cometa en cualquiera de las siguientes circunstancias:
 
-I.- A quien obtenga de una persona o de un tercero vinculado a ésta, sin el empleo de la violencia, su autorización para realizar la cópula, para sí o para otro, como condición para el ingreso, conservación, permanencia, promoción o mejora del trabajo o empleo, o el aumento en la remuneración o en las prestaciones del sujeto pasivo o de sus familiares.
+I. El sujeto pasivo o la víctima sea menor de dieciocho años de edad o persona que no tenga la capacidad de comprender el significado del hecho;
 
-II.- Al que imponga la cópula como condición, en las mismas circunstancias de la fracción anterior, para otorgar al sujeto pasivo el reconocimiento u otorgamiento de derechos o beneficios económicos, profesionales o académicos.
+II. Con violencia física, psicológica o moral;
 
-III.- Al que obligue al sujeto pasivo a ejecutar un acto sexual, lúbrico, sobre sí mismo o en la persona del sujeto activo o la de un tercero.
+III. Por dos o más personas;
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+IV. En un lugar despoblado, solitario o poco accesible;
 
-En todos los casos, cuando la víctima sea menor de catorce años, el delito se perseguirá de oficio. En todos los demás casos, éste delito se perseguirá por querella de parte ofendida.
+V. Cuando exista o haya existido entre el agresor y la víctima una relación de confianza, sentimental, de parentesco por consanguinidad o afinidad, laboral, educativa, docente, de formación deportiva, artística o religiosa;
 
-Cuando se presente la intervención activa de un tercero en estos casos, sólo se procederá contra él si se demuestra que conocía las circunstancias en las que se lleva a cabo la cópula o el acto sexual, o cuando el sujeto pasivo sea menor de catorce años.
+VI. Cuando se realice por persona que tenga a la víctima bajo su responsabilidad la custodia, guarda, tutela, cuidado o dependencia económica;
+
+VII. Cuando se realice por persona servidora pública aprovechando su empleo, cargo o comisión. En este caso, además de la pena de prisión, la persona agresora será destituida del cargo, empleo o comisión e inhabilitada para el ejercicio de servicio público por un plazo igual al de la pena privativa de la libertad sin perjuicio de otras sanciones administrativas o civiles que correspondan;
+
+VIII. Cuando se realice por profesionista aprovechando su empleo, cargo o comisión. En este caso, además de la pena de prisión, la persona agresora será inhabilitada para el ejercicio de la profesión por un plazo igual al de la pena privativa de la libertad sin perjuicio de otras sanciones administrativas o civiles que correspondan;
+
+IX. Cuando se realice por ministro de culto aprovechando su cargo, función o comisión;
+
+X. Cuando la víctima se encuentre bajo los efectos de alcohol, fármacos, narcóticos u otras sustancias que afecten su voluntad o discernimiento;
+
+XI. Cuando la víctima se encuentre en estado de embarazo o puerperio;
+
+XII. Cuando se cometa contra personas por su orientación sexual, identidad de género o expresión de género;
+
+XIII. Cuando la víctima se encuentre en estado de indefensión;
+
+Adicional a las sanciones establecidas en este artículo, se impondrá al sujeto activo el cumplimiento de la reparación integral del daño, que deberá incluir, entre otras medidas establecidas en la Ley General de Víctimas, y la Ley de Víctimas para el Estado de Chiapas, la atención psicológica especializada para la víctima, hasta su total recuperación.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE ENERO DE 2018)</small>
 
@@ -3363,7 +3369,7 @@ XVII.- El que movilice sin justificación ganado declarado en cuarentena por aut
 
 ### Capítulo IV. Extorsión
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 296.
 
@@ -3401,45 +3407,11 @@ El abuso de confianza, sólo se perseguirá a petición del ofendido en cualquie
 
 ###### Artículo 300.
 
-Comete el delito de extorsión, el que sin derecho obligue a otro a dar, a hacer, a tolerar o dejar de hacer algo, obteniendo un lucro o beneficio para sí o para otro; también comete el delito de extorsión quien mediante la violencia física o moral exija de otro la entrega, envío o depósito para sí o para un tercero, de cosas, dinero o documentos.
-
-El mismo delito cometerá quien, exija a otro mediante coacción la suscripción, destrucción o entrega de documentos que contengan obligaciones o créditos.
-
-Al responsable del delito de extorsión se le aplicará la pena de prisión de 10 a 20 años y multa de quinientos a mil días de unidades de medidas de actualización en cualquiera de los supuestos.
-
-El tipo penal descrito anteriormente será perseguido de oficio.
-
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
+La definición de tipos penales, sanciones, agravantes, delitos vinculados y competencia de los tribunales locales, respecto a los delitos en materia de Extorsión, se sujetará a lo dispuesto por la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la Fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 301.
 
-La pena prevista en el artículo anterior se aumentará hasta en una mitad, cuando se actualice cualquiera de las siguientes hipótesis:
-
-I. Intervengan dos o más personas.
-
-II. Se cometa en contra de una persona menor de edad, persona mayor de sesenta años o persona con alguna discapacidad.
-
-III. Si se utiliza como medio comisivo la vía telefónica, el correo electrónico o cualquier otro medio de comunicación electrónica.
-
-IV. Cuando el sujeto activo del delito se encuentre privado de su libertad bajo cualquier circunstancia en un Centro Penitenciario Estatal o Federal, a disposición de cualquier autoridad.
-
-V. Cuando el sujeto activo del delito se ostente como integrante de alguna institución policial, de seguridad pública o privada o de las fuerzas armadas.
-
-VI. Cuando el sujeto activo del delito se ostente como servidor público, en cualquier ámbito de gobierno.
-
-VII. Cuando el sujeto activo del delito tenga alguna relación de confianza, laboral, parentesco o de negocios con la víctima o con sus familiares.
-
-VIII. Cuando el sujeto activo del delito se ostente, por cualquier medio, como integrante de una asociación delictuosa o grupo criminal, real o ficticio.
-
-IX. Participen servidores públicos o trabajadores de instituciones privadas que tengan acceso a bancos de datos personales y que los utilicen o los sustraigan para sí o para terceros, con el objeto de cometer el delito de extorsión en cualquiera de sus modalidades. En caso de ser servidor público, se hará la destitución del empleo, cargo o comisión, así como la inhabilitación de diez a quince años para desempeñar cualquier cargo como servidor público.
-
-X. Cuando se utilicen a personas menores de edad o que no tengan la capacidad de comprender el hecho.
-
-XI. Cuando se cometa contra comerciantes, empresarios, campesinos, ejidatarios, comuneros o empleados de estos.
-
-En los casos correspondientes, se impondrá, además, al servidor o exservidor público o al miembro o exmiembro de alguna corporación policíaca, la destitución del empleo, cargo o comisión y se le inhabilitará, según el caso, de uno a cinco años para desempeñar cargo o comisión pública.
-
-Si se tratare de un miembro de las fuerzas armadas mexicanas en situación de retiro, se le inhabilitará de uno a cinco años para desempeñar cargo o comisión pública, respecto de los miembros de las fuerzas armadas en situación de reserva o en activo, se dará aviso e intervención mediante el desglose respectivo que lleve a cabo la autoridad investigadora, a la institución armada a que pertenezca el imputado para los efectos legales respectivos.
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2025)
 
 ### Capítulo V Bis. Suplantación de Identidad
 
@@ -6570,3 +6542,29 @@ P.O. 27 DE AGOSTO DE 2025.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 030 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS, EN MATERIA DE ABUSO SEXUAL”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2025
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 041 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS”]
+
+Artículo Primero.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Las menciones que se hagan en el presente Código al delito de extorsión, se entenderán hechas al delito de extorsión previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 28 veintiocho de noviembre de 2025.
+
+Artículo Cuarto.- Las disposiciones relativas a los delitos de extorsión previstas en el presente Código, seguirán aplicándose por los hechos realizados durante su vigencia, en los procesos pendientes de dictarse sentencia; salvo lo dispuesto en los artículos Cuarto y Quinto Transitorios del Decreto por el que se expide (sic) Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Artículo Quinto.- Dentro del plazo de 90 días naturales siguientes a la entrada en vigor del presente Decreto, la Fiscalía General del Estado, deberá crear la Unidad Especializada de Atención a los Delitos de Extorsión, previsto en el artículo 13 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; así como armonizar sus ordenamientos internos con las disposiciones del presente Decreto.
+
+En tanto se crea la Unidad Especializada, a que se refiere el párrafo anterior, la Fiscalía General del Estado deberá utilizar a la Fiscalía Antisecuestro, para la atención de los delitos de extorsión, en términos de lo dispuesto por el artículo Décimo Transitorio de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento, por lo que no incrementarán su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
