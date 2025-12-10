@@ -4,7 +4,7 @@ identifier: "ROO-codigo-fiscal-municipal-del-estado-de-quintana-roo-92421"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-01-15"
-last_updated: "2025-01-16"
+last_updated: "2025-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el martes 15 de enero de 2013.
 
@@ -565,6 +565,10 @@ La responsabilidad solidaria comprenderá los accesorios, con excepción de las 
 
 Son facultades y atribuciones de las autoridades fiscales enunciadas en las fracciones I II, III, V y VI del artículo 5 del presente Código, certificar, en su caso, bajo su estricta responsabilidad documentos, copias o fotocopias de otras u otros que obren en los archivos de las áreas administrativas a su cargo, siempre y cuando medie solicitud legítima ose requieran para las actividades o controles inherentes a la Administración Pública.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+También podrán ser expedidas cuando se requieran para las actividades o controles inherentes a la administración pública, y/o cuando estas fueran requeridas por alguna autoridad en el ejercicio de sus funciones, o deban ser exhibidas como prueba en algún procedimiento legal.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2025)</small>
 
 ###### Artículo 32.
@@ -579,9 +583,11 @@ III. Celebrar con el estado los convenios de colaboración administrativa que se
 
 IV. Crear nuevas unidades administrativas, cambiar el lugar de residencia de las actuales y modificar su jurisdicción, así como suprimir las que se consideren innecesarias;
 
-V. Condonar hasta el 100% de los recargos, siempre y cuando se compruebe que la falta de pago se motivó por una manifiesta situación económica precaria de los contribuyentes; tratándose de multas por infracciones a las Leyes Fiscales, la condonación podrá ser discrecional, apreciando los motivos que se tuvieron para imponerlas y las demás circunstancias del caso;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-No se dará curso a ninguna instancia de condonación después de transcurridos quince días hábiles contados a partir de la fecha en que hubiere quedado firme la resolución que impuso la multa, salvo que por pruebas diversas a las presentadas ante las autoridades administrativas o jurisdiccionales, en su caso, se demuestre que no se cometió la infracción o la persona a la que se atribuye no es la responsable, caso en el cual procederá revocar el acto administrativo que dio origen a la multa;
+V. Condonar hasta el 100% de las multas y/o accesorios, siempre y cuando se compruebe que la falta de pago del crédito fiscal se motivó por una manifiesta situación económica precaria de los contribuyentes; y para el caso de multas por infracciones a las leyes fiscales, la condonación podrá ser discrecional, apreciando los motivos que se tuvieron para imponerlas y las demás circunstancias del caso;
+
+No se dará curso a ninguna instancia de condonación cuando el crédito fiscal o los actos del procedimiento administrativo de ejecución hubieran sido controvertidos, hasta en tanto el contribuyente no acredite haberse desistido de dicho medio de defensa;
 
 > <small>(ADICIONADA, P.O. 16 DE ENERO DE 2025)</small>
 
@@ -589,7 +595,9 @@ V Bis. Autorizar la compensación de contribuciones o créditos fiscales que ten
 
 VI. Celebrar convenios con los contribuyentes para determinar el monto de los impuestos que deban y su forma de pago, siempre que impere una situación económica que les impida cubrir la totalidad de los créditos fiscales y que con tales convenios, no se perjudique el desarrollo y mejoramiento económico y social del Municipio, siempre y cuando el término para el pago a plazos de dichos convenios no exceda de veinticuatro mensualidades;
 
-VII. Conceder mediante resoluciones de carácter general, subsidios o estímulos fiscales a los contribuyentes, siempre y cuando el otorgamiento de estos coadyuve al desarrollo de las actividades económicas, culturales y sociales del Municipio hasta por el 100% del monto del impuesto, cuando se trate de impedir que se afecte una rama de actividad o la realización de una actividad, así como en casos de desastre o catástrofes sufridas por fenómenos meteorológicos, plagas o epidemias;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+VII. Conceder mediante resoluciones de carácter general, facilidades administrativas, subsidios o estímulos fiscales a los contribuyentes, cuando el otorgamiento de estos coadyuve al desarrollo de las actividades económicas, culturales y sociales del Municipio hasta por el 100% del monto de la contribución, cuando se trate de impedir que se afecte una rama de actividad o la realización de una actividad, así como en casos de desastre o catástrofes sufridas por fenómenos meteorológicos, plagas o epidemias.
 
 En los casos no descritos en el párrafo anterior, los Presidentes Municipales, podrán otorgar subsidios o estímulos fiscales, de hasta del 75% de las cuotas, tarifas o tasas establecidas en la Ley; a excepción de los gravámenes a la propiedad inmobiliaria que estén sujetos a lo que establece el artículo 115 Fracción IV de la Constitución Política de los Estados Unidos Mexicanos, sin embargo, para este último caso podrán concederse facilidades administrativas para el pago del impuesto predial.
 
@@ -601,9 +609,13 @@ X. Dictar a través de resoluciones que establezcan disposiciones de carácter g
 
 XI. Determinar créditos fiscales conforme a las leyes, reglamentos, acuerdos y convenios de colaboración en materia fiscal;
 
-XII. Decretar la cancelación de los créditos fiscales por no localización, incosteabilidad en el cobro o por insolvencia de los sujetos directos y de los responsables solidarios, en los términos del presente Código, así como de las reglas de carácter general que para tal efecto se expidan; y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-XIII. Las demás que le correspondan conforme a este código u otras leyes, reglamentos y acuerdos en el ámbito de los convenios de colaboración en materia fiscal.
+XII. Declarar la prescripción y/o cancelación de créditos fiscales por no localización, incosteabilidad en el cobro, o por insolvencia de los sujetos directos y los responsables solidarios, en los términos del presente Código, así como de las reglas de carácter general que para tal efecto se expidan, y
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XIII. Las demás que les correspondan conforme a este Código u otras leyes, convenios de colaboración administrativa en materia fiscal, reglamentos y acuerdos emitidos por el Ayuntamiento respectivo.
 
 ###### Artículo 33.
 
@@ -1847,7 +1859,9 @@ En todo momento, los opositores podrán ocurrir ante la autoridad, haciéndole s
 
 Cuando los bienes señalados para la traba de ejecución estuvieran ya embargados por otras autoridades no fiscales o sujetas a garantía hipotecaria, se practicará no obstante el embargo administrativo, y los bienes embargados se entregarán al depositario designado por la Tesorería Municipal o por el notificador-ejecutor, y se dará aviso a la autoridad correspondiente para que él o los interesados puedan hacer valer su derecho de preferencia.
 
-En caso de inconformidad, la controversia resultante será resuelta por la Sala Constitucional y Administrativa del Tribunal Superior de Justicia del Estado de Quintana Roo, conforme a las reglas previstas por este Código para el trámite. En tanto se resuelve el procedimiento respectivo, no se hará aplicación del producto del remate, salvo que se garantice el interés fiscal a satisfacción de la Tesorería Municipal
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+En caso de inconformidad, la controversia resultante será resuelta por el Tribunal de Justicia Administrativa y Anticorrupción del Estado de Quintana Roo, conforme a las reglas previstas por este Código para el trámite. En tanto se resuelve el procedimiento respectivo, no se hará aplicación del producto del remate, salvo que se garantice el interés fiscal a satisfacción de la Tesorería Municipal.
 
 ###### Artículo 136.
 
@@ -2244,3 +2258,11 @@ SEGUNDO. Se abroga la Ley de Expropiación del Estado de Quintana Roo, expedida 
 TERCERO. Todos los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto y que aún se encuentren en trámite, concluirán su procedimiento de conformidad con la Ley de Expropiación vigente al momento de su inicio.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 173 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL MUNICIPIO DE ISLA MUJERES DEL ESTADO DE QUINTANA ROO, Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente decreto.
