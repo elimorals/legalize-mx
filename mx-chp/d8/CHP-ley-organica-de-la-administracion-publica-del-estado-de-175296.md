@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-administracion-publica-del-estado-de-175296"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-12-05"
-last_updated: "2025-08-27"
+last_updated: "2025-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número 382 del Periódico Oficial del Estado de Chiapas, el jueves 5 de diciembre de 2024.
 
@@ -101,9 +101,11 @@ XII. Reglamento. Al Reglamento Interior de la Administración Pública del Estad
 
 La persona titular del Poder Ejecutivo se auxiliará para el mejor desempeño de sus funciones, en estas formas de organización administrativa, de conformidad con las necesidades que requiera el ejercicio de sus facultades, y podrá contar además con unidades, coordinaciones, comisiones y asesorías, así como con el apoyo técnico que requiera para atender los programas prioritarios en el Estado; pudiendo crear además, los órganos desconcentrados que se requieran y que permita su presupuesto.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 5.
 
-La persona titular del Poder Ejecutivo representará al Estado en los asuntos en que éste sea parte, directamente o por conducto de la persona titular del Instituto de la Consejería Jurídica del Gobierno del Estado.
+La persona Titular del Poder Ejecutivo representa al Gobierno del Estado en los asuntos en que éste sea parte, directamente o por conducto de la persona titular del Instituto de la Consejería Jurídica del Gobierno del Estado, salvo que exista disposición expresa conferida a otras Dependencias y/o Entidades, en el ámbito de sus respectivas competencias.
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2025)</small>
 
@@ -207,11 +209,13 @@ VII. Atender de manera prioritaria, los requerimientos derivados de la práctica
 
 VIII. Las demás que les impongan las disposiciones jurídicas y administrativas aplicables o las que determine la persona titular del Poder Ejecutivo.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 17.
 
-Las y los titulares de las Dependencias de la Administración Pública estatal, formularán las iniciativas o proyectos de leyes, decretos, reglamentos, lineamientos o manuales de las materias que les competan, y una vez que éstos fueren validados por el Instituto de la Consejería Jurídica del Gobierno del Estado y signados por la Secretaría General de Gobierno y Mediación, mismos que serán remitidos a la persona titular del Poder Ejecutivo para su suscripción correspondiente.
+Las personas titulares de las Dependencias de la Administración Pública Estatal, formularán las iniciativas o proyectos de leyes, decretos, reglamentos, lineamientos o manuales de las materias que les competan, y una vez que éstos fueren validados por el Instituto de la Consejería Jurídica del Gobierno del Estado y signados por la Secretaría General de Gobierno y Mediación, serán remitidos a la persona titular del Poder Ejecutivo para su suscripción correspondiente.
 
-Asimismo, tendrán facultades para expedir las circulares y acuerdos administrativos, relativos a la materia de su ramo, que por su naturaleza jurídica, no ameriten la suscripción de la Persona titular del Poder Ejecutivo, ni requieran para su formalidad el trámite legislativo, ante el Congreso del Estado, previa validación que otorgue el Instituto de la Consejería Jurídica del Gobierno del Estado, antes de ser remitidos por conducto de la Secretaría General de Gobierno y Mediación, para su publicación en el Periódico Oficial; sin que dicha facultad sea delegable.
+Asimismo, tendrán facultades para expedir las circulares y acuerdos administrativos, relativos a la materia de su ramo que, por su naturaleza jurídica, no ameriten la suscripción de la persona titular del Poder Ejecutivo, ni requieran para su formalidad el trámite legislativo ante el Congreso del Estado, debiendo remitirlos, por conducto del Instituto de la Consejería Jurídica del Gobierno del Estado, a la Secretaría General de Gobierno y Mediación, para su publicación en el Periódico Oficial; sin que dicha facultad sea delegable.
 
 ###### Artículo 18.
 
@@ -941,7 +945,9 @@ XVI. Promover en coordinación con las Dependencias del ramo, la creación de in
 
 XVII. Organizar y participar en congresos, ferias, exposiciones y concursos en donde se promuevan las actividades económicas del estado y los productos chiapanecos.
 
-XVIII. Impulsar el registro y comercialización de los productos y conceptos de la estrategia Marca Chiapas, y el sistema de tiendas Marca Chiapas.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XVIII. Impulsar el registro, posicionamiento y comercialización de los productos y conceptos vinculados a la estrategia Marca Chiapas, y el sistema de tiendas Marca Chiapas, promoviendo su propiedad industrial, certificación de calidad y aprovechamiento como distintivos de identidad y origen del Estado de Chiapas.
 
 XIX. Concertar y convenir con los sectores privados, acciones para modernizar e incentivar las actividades económicas.
 
@@ -955,7 +961,9 @@ XXIII. Organizar las inspecciones de trabajo en los establecimientos de circunsc
 
 XXIV. Coordinar el sector y las acciones de la instancia administrativa facultada para promover la conciliación de los conflictos laborales en el Estado, a que se contrae el Apartado A, del Artículo 123, de la Constitución Federal, así como las funciones relativas a los registros contratos colectivos de trabajo y de organizaciones sindicales.
 
-XXV. Formular y ejecutar el plan estatal de empleo, acorde a los lineamientos que al respecto emita la federación, así como impulsar y promover la creación de fuentes de empleo en la Entidad, en coordinación con las demás instancias competentes.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XXV. Establecer, diseñar, operar, coordinar y fomentar políticas, programas y plataformas en materia laboral que optimicen el control y vigilancia del cumplimiento a las condiciones generales de trabajo, haciendo uso de los diversos medios digitales.
 
 XXVI. Suscribir, a través de la instancia señalada en su reglamento interior, los convenios y acuerdos de colaboración con autoridades federales, de otras entidades federativas, con los ayuntamientos del Estado y la iniciativa privada, así como ejecutarlos, con el objeto de fortalecer el respeto a las normas de trabajo, así como, de elaborar, implementar y ejecutar planes y programas para el desarrollo y promoción del empleo en el Estado.
 
@@ -971,7 +979,53 @@ XXXI. Fomentar y fortalecer la actividad económica de la Entidad, para darle un
 
 XXXII. Coordinar y participar en el funcionamiento y administración del Fideicomiso de Fondo de Fomento Económico, y coadyuvar en el cumplimiento de su objeto.
 
-XXXIII. Los demás asuntos que le correspondan, en los términos de las leyes aplicables, su reglamento interior y los que determine la persona titular del Poder Ejecutivo.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XXXIII. Fungir como instancia estatal responsable de gestionar, promover, regular, administrar y supervisar el uso de marcas de certificación, indicaciones geográficas e instrumentos de protección como las denominaciones de origen, en coordinación con las autoridades federales correspondientes, conforme a la normatividad aplicable en la materia.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XXXIV. Realizar acciones encaminadas a la vinculación del empleo y fomento al autoempleo, mediante la operación de los programas de empleo del servicio nacional en la Entidad.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XXXV. Programar y promover ante las instancias pertinentes la ejecución de proyectos que permitan la creación de autoempleos y la generación de ingresos, en coordinación con las demás instancias competentes.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XXXVI. Fomentar el empleo, capacitación y adiestramiento, así como auxiliar a las autoridades federales a aumentar la cobertura y calidad de la capacitación laboral, además de fomentar y apoyar el autoempleo.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XXXVII. Dirigir y coordinar los programas de capacitación tendentes al abatimiento del desempleo, así como ejecutar las acciones, políticas públicas y procedimientos que en materia de empleo y capacitación laboral correspondan al Ejecutivo del Estado.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XXXVIII. Proponer las políticas en el ámbito local en materia de empleo y capacitación laboral, así como dirigir los programas de actividades que se deriven de los acuerdos y convenios de coordinación que se establezcan para tal efecto.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XXXIX. Coordinarse con las Dependencias del Poder Ejecutivo Estatal, federal, o con los Ayuntamientos del Estado para llevar a cabo las acciones correspondientes a fomento al empleo y capacitación laboral.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XL. Garantizar la integración y fortalecimiento de actividades económicas motoras, a través de la oferta de servicios de capacitación, asesoría, vinculación, investigación e información, basados en normas de calidad que atiendan eficazmente las necesidades tecnológicas del sector productivo en el Estado.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XLI. Fomentar y fortalecer la actividad económica de la Entidad, para darle un valor agregado y mejorar las condiciones de competitividad y productividad, mediante mecanismos y programas encaminados a dichos fines, así como, al desarrollo de proyectos productivos y sustentables.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XLII. Coordinar y dirigir la estrategia para la capacitación, adiestramiento, así como la seguridad y salud en el trabajo, en coordinación con las autoridades federales competentes en materia del trabajo y con la participación de los sectores empresarial, de las y los trabajadores, académicos y profesionales de la sociedad que inciden en este ámbito.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XLIII. Coordinar y participar en el funcionamiento y administración del Fideicomiso de Fondo de Fomento Económico, y coadyuvar en el cumplimiento de su objeto.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XLIV. Los demás asuntos que le correspondan, en los términos de las leyes aplicables, su reglamento interior y los que determine la persona titular del Poder Ejecutivo.
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2025)</small>
 
@@ -1017,19 +1071,31 @@ XVIII. Coordinar la integración del Programa de Inversión de Infraestructura S
 
 XIX. Fomentar el rescate, producción, preservación, fomento, promoción, acopio, distribución y difusión de artesanías y productos regionales, en coordinación con otras Dependencias y Entidades estatales, así como establecer vínculos y estrategias con la iniciativa privada.
 
-XX. Participar en las acciones encaminadas a la vinculación del empleo y fomento al autoempleo, mediante la operación de los programas de empleo del servicio nacional en la Entidad.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-XXI. Promover ante las instancias pertinentes la ejecución de proyectos que permitan la creación de autoempleos y la generación de ingresos, en coordinación con las demás instancias competentes.
+XX. Coordinar y ejecutar programas de apoyos y micro financiamiento, que impulsen la autogeneración de empleo productivo del sector social más vulnerable, como estrategia para abatir los índices de pobreza y el desarrollo humano.
 
-XXII. Auxiliar a las autoridades federales a aumentar la cobertura y calidad de la capacitación laboral, además de fomentar y apoyar la organización social para el trabajo y el autoempleo.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-XXIII. Auxiliar en la estrategia para la capacitación y adiestramiento y la seguridad e higiene en el trabajo, en coordinación con las autoridades federales competentes en materia del trabajo y con la participación de los sectores empresarial, de las y los trabajadores, académicos y profesionales de la sociedad que inciden en este ámbito.
+XXI. Promover ante las instancias pertinentes la ejecución de proyectos productivos que permitan el desarrollo económico del sector socialmente vulnerable, acorde a las políticas públicas para lograr los objetivos de bienestar y humanismo.
 
-XXIV. Participar en el diseño de los programas de capacitación tendentes al abatimiento del desempleo, así como ejecutar las acciones, políticas públicas y procedimientos que en materia de empleo y capacitación laboral correspondan al Poder Ejecutivo.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-XXV. Coadyuvar en las propuestas de políticas en el ámbito local en materia de empleo y capacitación laboral, así como dirigir, en el ámbito de su competencia, los programas de actividades que se deriven de los acuerdos y convenios de coordinación que se establezcan para tal efecto.
+XXII. Coordinar con las autoridades federales a aumentar la captación de ingresos del sector socialmente vulnerable, además de fomentar y crear proyectos productivos orientados a mejorar dicho sector.
 
-XXVI. Coordinarse con las dependencias, entidades y unidades administrativas del Poder Ejecutivo Federal, estatal o con los Ayuntamientos del Estado para llevar a cabo las acciones correspondientes para el fomento al empleo y capacitación laboral.
+XXIII. (DEROGADA, P.O. 10 DE DICIEMBRE DE 2025)
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XXIV. Ejecutar y coordinar el diseño de programas e instrumentos que promuevan la autogeneración de empleo, en el sector socialmente vulnerable del Estado de Chiapas para abatir los índices de desempleo y pobreza.
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XXV. Coadyuvar en las políticas públicas para fomento y desarrollo del sector socialmente vulnerable que motive el autoempleo o la especialización laboral, así como dirigir, en el ámbito de su competencia, los programas de actividades que se deriven de los acuerdos y convenios de coordinación que se establezcan para tal efecto.
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XXVI. Articular acciones y estrategias con los gobiernos federal y de los municipios para la implementación de programas de inclusión productiva y desarrollo humano integral, a las personas que se encuentran en situación de pobreza extrema.
 
 XXVII. Participar y representar a la persona titular del Poder Ejecutivo, en los convenios que se celebren con la Federación u otras instancias relacionadas con la materia de su competencia.
 
@@ -1049,7 +1115,9 @@ XXXIV. Coordinar la operación de los programas sociales en beneficio y apoyo a 
 
 XXXV. Establecer centros de acopio para recibir y administrar ayuda a la población afectada por un siniestro o desastre.
 
-XXXVI. Establecer acciones de coordinación con los gobiernos federal y de los municipios para la ejecución del Programa Empleo Temporal (PET), conforme a la normatividad aplicable.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XXXVI. Establecer acciones de coordinación con el gobierno federal y de los municipios para la ejecución de programas de desarrollo de habilidades o formación profesional brindando las herramientas necesarias a la población en situación de vulnerabilidad para el alcance de los objetivos de mejora.
 
 XXXVII. Formular, instrumentar e implementar la política estatal de la juventud, acorde con los objetivos, estrategias y líneas de acción contenidos en el Plan Estatal de Desarrollo.
 
@@ -1405,11 +1473,11 @@ IX. Elaborar su normatividad interna para el logro de sus fines y el funcionamie
 
 X. Los demás asuntos que le correspondan en términos de las leyes aplicables, su reglamento interior y los que determine la persona titular del Poder Ejecutivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 48.
 
-El Instituto de la Consejería Jurídica del Gobierno del Estado es el encargado de proporcionar asesoramiento a la Administración Pública Estatal, así como la revisión y validación de su normatividad; además llevará la representación legal de la persona Titular del Poder Ejecutivo del Estado, correspondiéndole el despacho de los siguientes asuntos:
+El Instituto de la Consejería Jurídica del Gobierno del Estado es el encargado de proporcionar asesoramiento jurídico a la Administración Pública Estatal, así como la revisión de su normatividad y, en su caso, la validación de la misma, en términos de lo señalado en la presente Ley; además llevará la representación legal de la persona Titular del Poder Ejecutivo del Estado, correspondiéndole el despacho de los siguientes asuntos.
 
 I. Dar apoyo técnico jurídico a la persona titular del Poder Ejecutivo en todos aquellos asuntos que éste le encomiende.
 
@@ -1447,17 +1515,19 @@ XVI. Certificar y dar fe, de los documentos, decretos, acuerdos, dictámenes, re
 
 XVII. Compilar y publicar los ordenamientos jurídicos estatales, a través de medios propios u oficiales.
 
-XVIII. Otorgar, previo a su publicación en el Periódico Oficial, la validación de las circulares, acuerdos y decretos, que en la materia de su ramo, expidan las y los titulares de las Dependencias y Entidades de la Administración Pública Estatal, siempre y cuando, se trate de aquellos que por su naturaleza jurídica, no ameriten la suscripción de la persona titular del Poder Ejecutivo.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-XIX. Coordinarse con las autoridades competentes, para canalizar a éstas las peticiones ciudadanas de atención jurídica, que por disposición legal o normativa deban conocer.
+XVIII. Otorgar, cuando así lo requieran, asesorías respecto a las circulares, acuerdos y decretos que, en la materia de su ramo, expidan las y los titulares de las Dependencias y Entidades de la Administración Pública Estatal.
 
-> <small>(REFORMADA, P.O. 10 DE ENERO DE 2025)</small>
+XIX. (DEROGADA, P.O. 10 DE DICIEMBRE DE 2025)
 
-XX. Coordinar y administrar al Registro Civil, el Registro Público de la Propiedad y del Comercio y Notarías del Estado.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XX. Coordinar y administrar al Registro Civil y Notarias del Estado.
 
 XXI. Actuar en calidad de Notario Público en los actos en que participe el Poder Ejecutivo, y designar a los Notarios Públicos que intervendrán en los actos en los que éste sea parte.
 
-XXII. Integrar, generar, actualizar, resguardar y administrar información relativa a los bienes inmuebles que conforman el territorio del Estado.
+XXII. (DEROGADA, P.O. 10 DE DICIEMBRE DE 2025)
 
 XXIII. Los demás asuntos que le correspondan en términos de las leyes aplicables, su reglamento interior y los que le instruya la persona titular del Poder Ejecutivo.
 
@@ -1614,3 +1684,17 @@ Artículo Quinto.- Las referencias y menciones que en otras legislaciones o disp
 Artículo Sexto.- Las personas servidoras públicas adscritas a la Secretaría de Infraestructura que realicen funciones en materia de infraestructura hidráulica, pasaran a formar parte del Organismo Público Descentralizado que para tal efecto se cree, respetándose todos sus derechos laborales en términos de la Ley, tanto individuales como colectivos.
 
 Artículo Séptimo.- Las Dependencias y Entidades del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones necesarias para el cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables.
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 032 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
+
+Artículo Tercero.- En tanto el Ejecutivo del Estado emite las disposiciones reglamentarias y administrativas necesarias para ejecutar el presente Decreto, se seguirán aplicando, en lo que no se oponga, las disposiciones emitidas con anterioridad a la entrada en vigor al presente Decreto.
+
+Artículo Cuarto.- Las atribuciones y/o referencias contenidas en otras leyes y demás normatividad aplicable, así como los recursos humanos, materiales y financieros que se refieran y estuvieran asignados a la Dirección del Registro Público de la Propiedad y del Comercio del Instituto de la Consejería Jurídica del Gobierno del Estado, serán transferidos y serán atendidos al Organismo Público Descentralizado, que para tal efecto se cree.
+
+Artículo Quinto.- Las Dependencias y Entidades de la Administración Pública Estatal, llevarán a cabo las acciones necesarias, dentro del ámbito de su competencia, para dar cumplimiento a las disposiciones del presente Decreto.
