@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-presupuesto-y-responsabilidad-hacendaria-del-848
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-24"
-last_updated: "2025-02-15"
+last_updated: "2025-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84826&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 24 de diciembre de 2011.
 
@@ -451,13 +451,15 @@ Los Ejecutores de gasto público que cuenten con autonomía presupuestaria deber
 
 En lo conducente, la Auditoría Superior deberá observar lo señalado en el presente artículo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 6.
 
-La integración de la programación y presupuestación del gasto público correspondiente a los Ejecutores de gasto adscritos al Poder Ejecutivo, corresponderá a la Secretaría. El control, inspección y vigilancia de dicho gasto corresponderá a la Secretaría de Honestidad.
+La integración de la programación, presupuestación y la evaluación del gasto público correspondiente a los Ejecutores de gasto adscritos al Poder Ejecutivo, corresponderá a la Secretaría. El control, inspección y vigilancia de dicho gasto corresponderá a la Secretaría de Honestidad.
 
-La evaluación del gasto público será realizada por la Instancia Técnica de Evaluación.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+La evaluación del desempeño será realizada por la Instancia Técnica de Evaluación.
 
 Los Poderes Legislativo y Judicial y los Órganos Autónomos, por conducto de sus respectivas unidades de administración, deberán acordar con la Secretaría para efectos de la programación y presupuestación en los términos previstos en esta Ley. El control del gasto corresponderá a los órganos competentes, en los términos previstos en sus respectivas leyes orgánicas.
 
@@ -473,13 +475,15 @@ Los titulares de las Unidades Responsables tendrán facultades para delegar la s
 
 Los titulares de las Unidades de administración estarán facultados para realizar los trámites presupuestarios y, en su caso, emitir las autorizaciones correspondientes en los términos de esta Ley y su Reglamento.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 8 Bis.
 
-Una vez aprobado el Presupuesto de Egresos para el ejercicio del gasto, los Ejecutores de gasto, deberán observar las disposiciones siguientes:
+Una vez aprobado el Presupuesto de Egresos para el ejercicio del gasto, los Ejecutores de gasto, deberán cumplir con las disposiciones siguientes:
 
-I. Sólo podrán comprometer recursos con cargo al presupuesto aprobado, contando previamente con la suficiencia presupuestaria, identificando la fuente de financiamiento;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+I. Solo podrán comprometer recursos con cargo al presupuesto autorizado, contando previamente con la suficiencia presupuestaria, identificando la fuente de financiamiento;
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 2019)</small>
 
@@ -695,13 +699,13 @@ Sin perjuicio de lo dispuesto en el artículo 50, no procederá pago alguno que 
 
 Todo proyecto de ley o decreto que sea sometido a votación del pleno de la legislatura local, deberá incluir en su dictamen una estimación sobre el impacto presupuestario del proyecto.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-Las comisiones correspondientes del Congreso del Estado, al elaborar los dictámenes respectivos, realizarán una valoración del impacto presupuestario de las iniciativas de ley o decreto, y solicitarán al Centro de Estudios Económicos y de Finanzas Públicas una opinión técnica sobre el impacto presupuestario antes de la emisión del proyecto correspondiente, y podrán solicitar opinión a la Secretaría sobre el proyecto correspondiente, debiendo presentar los elementos necesarios que permitan determinar su impacto presupuestario, observando además lo establecido en el Reglamento de la Ley en caso de tratarse de la creación de una entidad. La opinión deberá ser remitida en un plazo no mayor de quince días hábiles contados a partir de la presentación de la solicitud.
+Las comisiones correspondientes del Congreso del Estado, al elaborar los dictámenes respectivos, realizarán una valoración del impacto presupuestario de las iniciativas de ley o decreto, y solicitarán al Instituto Flores Magón una opinión técnica sobre el impacto presupuestario antes de la emisión del proyecto correspondiente, y podrán solicitar opinión a la Secretaría sobre el proyecto correspondiente, debiendo presentar los elementos necesarios que permitan determinar su impacto presupuestario, observando además lo establecido en el Reglamento de la Ley en caso de tratarse de la creación de una entidad. La opinión deberá ser remitida en un plazo no mayor de quince días hábiles contados a partir de la presentación de la solicitud.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-El Ejecutivo, por conducto de la Secretaría, realizará una estimación del impacto presupuestario de las iniciativas de ley o decretos que se presenten a la consideración del Congreso. Asimismo, realizará estimaciones sobre el impacto presupuestario de las disposiciones administrativas que impliquen costos para su implementación.
+El Ejecutivo, por conducto de la Secretaría, realizará una estimación del impacto presupuestario de las iniciativas de ley o decretos que presente a la consideración del Congreso. Asimismo, realizará estimaciones sobre el impacto presupuestario de las disposiciones administrativas emitidas por el Ejecutivo, que impliquen costos para su implementación.
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
@@ -1401,19 +1405,29 @@ La Secretaría deberá publicar el calendario de presupuesto de las Dependencias
 
 El calendario de presupuesto deberá ponerse a disposición de la ciudadanía en las páginas de internet de los Ejecutores de gasto en el mismo plazo señalado en el párrafo anterior.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 47.
 
-La Secretaría a través de la Tesorería efectuará los pagos correspondientes a los proveedores, contratistas y prestadores de servicio del Poder Ejecutivo, utilizando preferentemente la red bancaria.
+La Secretaría a través de la Tesorería, efectuará los pagos correspondientes a los proveedores, contratistas y prestadores de servicio del Poder Ejecutivo, utilizando preferentemente la red bancaria conforme a las disposiciones administrativas que para tal efecto emita.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+En caso de rechazos al momento de efectuar los pagos a proveedores, contratistas o prestadores de servicio del Poder Ejecutivo, la Secretaría informará a los Ejecutores de gasto para que éstos en un plazo de 90 días naturales, contados a partir de la notificación correspondiente, realicen las acciones correspondientes para subsanarlo e informar a la Secretaría. De no subsanarse el rechazo en el plazo referido, los Ejecutores de gasto asumirán cualquier responsabilidad en que se incurra, de conformidad con esta Ley, su Reglamento y la demás normatividad aplicable.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
 La entrega de participaciones, aportaciones, asignaciones, reasignaciones, transferencias y subsidios a favor de los Municipios del Estado, se realizarán mediante transferencia bancaria a las cuentas bancarias productivas específicas y exclusivas que los Municipios comuniquen a la Secretaría mediante acta de cabildo aprobada por mayoría de sus integrantes, donde conste la institución financiera, clave interbancaria y el número de referencia, además de señalar la autorización de los concejales que suscribirán a nombre del Municipio los convenios que correspondan.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 Los Poderes Legislativo, Judicial y los Órganos Autónomos, recibirán y manejarán sus presupuestos así como efectuaran sus pagos a través de sus propias tesorerías o equivalentes.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 La Secretaría por conducto de la Tesorería, realizará los trámites y suscripción de instrumentos jurídicos ante las instituciones del Sistema Financiero para la administración, inversión y recaudación de los ingresos que constituyan la hacienda del Estado.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 Por lo que deberá informar trimestralmente la relación de cuentas bancarias productivas específicas en las cuales se depositaron los recursos federales transferidos en los informes trimestrales y Cuenta Pública.
 
@@ -1424,6 +1438,8 @@ Los Ejecutores de gasto deberán aperturar una cuenta bancaria específica para 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 Los rendimientos financieros obtenidos en el manejo de recursos públicos federales, no podrán ser destinados y ejercidos sin que previamente exista la autorización de las instancias normativas federales. Es responsabilidad de la Dependencia o Entidad informar de tal situación a la Secretaría a efecto de integrar dicha información en los informes trimestrales y Cuenta Pública.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 Las Dependencias y Entidades que administren y ejerzan recursos públicos serán responsables de integrar cada uno de los reportes e informes a que se obligue en las disposiciones legales aplicables, convenios, acuerdos, anexos, entre otros, así como de entregar toda la información a los órganos de control y fiscalización federales y estatales que les requieran.
 
@@ -1441,7 +1457,11 @@ b) Proponer una nueva obra o acción, para lo cual, enviará comunicado a la Sec
 
 Las economías o cancelaciones de Recursos federales provenientes de la Ley de Coordinación Fiscal, destinados a gasto de operación, podrán ejercerse por los Ejecutores de gasto realizando las adecuaciones presupuestarias correspondientes, cuidando que las mismas se ajusten a los criterios, reglas de operación y disposiciones legales que les sean aplicables.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+
 Las Dependencias y Entidades a las que se les autorice fondo rotatorio deberán suscribir contratos de apertura de cuentas bancarias productivas específicas para tal efecto.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 Las Dependencias y Entidades deberán informar a la Secretaría el listado de sus proveedores y contratistas mediante el procedimiento, formatos y plazos que se determinen en el Reglamento.
 
@@ -1839,9 +1859,11 @@ La Secretaría podrá suspender el trámite de cuentas por liquidar certificadas
 
 Las Dependencias y Entidades deberán informar a la Secretaría previamente a la realización de cualquier modificación en el alcance o modalidades de sus programas, políticas de precios, adquisiciones, arrendamientos, garantías de compra o de venta, cambios en la población objetivo, o cualquier otra acción que implique variaciones en los subsidios y ayudas. Cuando dichas modificaciones impliquen una adecuación presupuestaria en los alcances de los programas, se requerirá autorización de la Secretaría conforme a lo establecido en los artículos 54 y 55 de esta Ley.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 73.
 
-La Instancia Técnica de Evaluación en su programa anual de actividades incluirá la evaluación de los programas sociales, además de considerar entre los programas institucionales, regionales y sectoriales los susceptibles de evaluación; debiendo reportar el resultado de las evaluaciones al Poder Ejecutivo y al Congreso del Estado.
+La Instancia Técnica de Evaluación, en su programa anual de actividades, incluirá la evaluación de las políticas públicas, proyectos y actividades que pueden ser considerados en los programas institucionales, sociales, regionales, sectoriales y demás susceptibles de evaluación en cada ejercicio fiscal correspondiente, debiendo reportar el resultado de las evaluaciones al Poder Ejecutivo y al Congreso del Estado.
 
 ###### Artículo 74.
 
@@ -1915,11 +1937,11 @@ Todos los programas y proyectos en los que sea susceptible identificar geográfi
 
 ### CAPÍTULO PRIMERO. DE LA INFORMACIÓN Y TRANSPARENCIA
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 80.
 
-Los Ejecutores de gasto, en el manejo de los recursos públicos estatales o de origen federal, deberán presentar la información financiera en los informes periódicos y en su respectiva cuenta pública, observando las disposiciones contenidas en la Ley General de Contabilidad Gubernamental, la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Ley de Coordinación Fiscal, el título tercero bis de la Ley General de Salud, la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca, reglas de operación de los programas federales y demás disposiciones generales aplicables.
+Los Ejecutores de gasto, en el manejo de los recursos públicos estatales o de origen federal, deberán presentar la información financiera en los informes periódicos y en su respectiva cuenta pública, conforme a lo previsto en las disposiciones contenidas en la Ley General de Contabilidad Gubernamental, la Ley Federal de Presupuesto y Responsabilidad Hacendaria, Ley de Coordinación Fiscal, el título tercero bis de la Ley General de Salud, la Ley General de Transparencia y Acceso a la Información Pública, Ley de Transparencia, Acceso a la Información Pública y Buen Gobierno del Estado de Oaxaca, reglas de operación de los programas federales y demás disposiciones generales aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
@@ -1981,7 +2003,9 @@ La información que la Secretaría proporcione al Congreso del Estado deberá se
 
 La Secretaría informará sobre los programas y proyectos de inversión registrados en el Banco de Proyectos de Inversión Pública, así como la relativa a los análisis costo y beneficio, a que se refiere el artículo 31; fracción III, de esta Ley.
 
-Información que se pondrá a disposición del público en general a través de medios electrónicos, con excepción de aquélla que, por su naturaleza, se considere como reservada. En todo caso, se observarán las disposiciones contenidas en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Información que se pondrá a disposición del público en general a través de medios electrónicos, con excepción de aquélla que, por su naturaleza, se considere como reservada. En todo caso, se observarán las disposiciones contenidas en la Ley de Transparencia, Acceso a la Información Pública y Buen Gobierno del Estado de Oaxaca.
 
 En el caso de los Poderes Legislativo y Judicial y Órganos Autónomos, estará a cargo de su órgano de control interno.
 
@@ -2029,7 +2053,9 @@ e) La base de datos generada con la información de gabinete y/o de campo para e
 
 f) Los instrumentos de recolección de información; cuestionarios, entrevistas y formatos, entre otros;
 
-g) Una nota metodológica con la descripción de las técnicas y los modelos utilizados, acompañada del diseño por muestreo, especificando los supuestos empleados y las principales características del tamaño y dispersión de la muestra utilizada;
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+g) Cuando el tipo de evaluación lo requiera, una nota metodológica con la descripción de las técnicas y los modelos utilizados, acompañada del diseño por muestreo, especificando los supuestos empleados y las principales características del tamaño y dispersión de la muestra utilizada;
 
 h) Un resumen ejecutivo en el que se describan los principales hallazgos y recomendaciones del evaluador externo;
 
@@ -2037,7 +2063,9 @@ i) El costo total de la evaluación externa, especificando la fuente de financia
 
 III. Las evaluaciones podrán efectuarse respecto de las políticas públicas, los programas correspondientes y el desempeño de las instituciones encargadas de llevarlos a cabo. Para tal efecto, se establecerán los métodos de evaluación que sean necesarios, los cuales podrán utilizarse de acuerdo a las características de las evaluaciones respectivas;
 
-IV. Establecerán programas anuales de evaluación;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+IV. Establecer programas anuales de evaluación
 
 V. Las evaluaciones, en la medida de lo posible, deberán incluir información desagregada por sexo relacionada con las beneficiarias y beneficiarios de los programas. Asimismo, en los casos que sea posible, las dependencias y entidades deberán presentar resultados con base en indicadores, desagregados por sexo, a fin de que se pueda medir el impacto y la incidencia de los programas de manera diferenciada entre mujeres y hombres; y
 
@@ -2063,9 +2091,11 @@ Los resultados a los que se refiere este artículo deberán ser considerados par
 
 ## TÍTULO QUINTO. DE LA CONTABILIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 85.
 
-Los Ejecutores de gasto, deberán observar los acuerdos emitidos por el Consejo Nacional de Armonización Contable, Ley General de Contabilidad Gubernamental y demás disposiciones generales aplicables en el registro de las operaciones de ingresos, gasto, costos, activos, pasivos y patrimoniales.
+Los Ejecutores de gasto, deberán cumplir con la normatividad vigente emitida por el Consejo Nacional de Armonización Contable, con la Ley General de Contabilidad Gubernamental y demás disposiciones generales aplicables en el registro de las operaciones de ingresos, gasto, costos, activos, pasivos y patrimoniales.
 
 Los registros contables se llevarán con base acumulativa en apego estricto de los postulados básicos de contabilidad gubernamental; los sistemas contables deben diseñarse y operarse de tal forma que faciliten el reconocimiento de las operaciones.
 
@@ -2374,3 +2404,11 @@ P.O. 15 DE FEBRERO DE 2025.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 886.- MEDIANTE EL (SIC) REFORMAN, LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 6; EL PÁRRAFO PRIMERO Y LA FRACCIÓN I DEL ARTÍCULO 8 BIS; LOS PÁRRAFOS CUARTO Y QUINTO DEL ARTÍCULO 16; EL PÁRRAFO PRIMERO DEL ARTÍCULO 47; EL ARTÍCULO 73; EL ARTÍCULO 80; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 82; EL INCISO G) DE LA FRACCIÓN II Y LA FRACCIÓN IV DEL ARTÍCULO 83; Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 85; Y SE ADICIONA, UN SEGUNDO PÁRRAFO AL ARTÍCULO 47, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES; TODOS DE LA LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veintiséis, previa publicación en el Periódico Oficial del Gobierno del Estado.
