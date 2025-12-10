@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-seguridad-ciudadana-del-estado-de-quintana-roo-165693"
 country: "mx"
 rank: "ley"
 publication_date: "2023-04-20"
-last_updated: "2025-12-04"
+last_updated: "2025-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165693&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE SEGURIDAD CIUDADANA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número 6 Especial del Periódico Oficial del Estado de Quintana Roo, el jueves 20 de abril de 2023.
 
@@ -89,9 +89,17 @@ XI. Los ordenamientos federales y estatales aplicables;
 
 XII. Los acuerdos, convenios y demás instrumentos jurídicos suscritos por la Federación, el Estado y los Municipios;
 
-XIII. Las resoluciones y acuerdos generales que emitan el Consejo Nacional y el Consejo Estatal, y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-XIV. Las demás que determine la presente ley u otros ordenamientos legales aplicables.
+XIII. Las resoluciones y acuerdos generales que emitan el Consejo Nacional y el Consejo Estatal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XIV. La Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XV. Las demás que determine la presente ley u otros ordenamientos legales aplicables.
 
 ###### Artículo 3°.
 
@@ -104,6 +112,10 @@ II. Ayuntamiento: Gobierno Colegiado de los Municipios del Estado de Quintana Ro
 III. Autoridades de Seguridad Ciudadana: Las diversas autoridades estatales o municipales de las Instituciones de Seguridad Ciudadana;
 
 IV. Base de Datos: El conjunto de datos informativos contenidos en los registros nacionales y estatales en materia de detenciones, información criminal, personal de Seguridad Ciudadana, servicios de seguridad privada, armamento y equipo, vehículos, huellas dactilares, equipo de radiocomunicación, sentenciados y las demás que sean necesarias para la operación del Sistema Estatal de Información;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+IV BIS. C2: A los Centros de Comando y Control de las instituciones de Seguridad Ciudadana del Municipio;
 
 V. C3: El Centro Estatal de Evaluación y Control de Confianza;
 
@@ -321,9 +333,11 @@ La Carrera Policial será elemento básico para la Seguridad Ciudadana; comprend
 
 El Estado y los Ayuntamientos, con base en sus posibilidades presupuestales, establecerán el Servicio Profesional de Carrera Policial, con carácter obligatorio y permanente, para asegurar la profesionalización de las Personas Integrantes.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 13.
 
-El Estado y los Ayuntamientos establecerán los mecanismos e instrumentos necesarios para constituir una Plataforma de información en materia de Seguridad Ciudadana. Se integrará, para este efecto, una base de datos aportados por las áreas encargadas de la vigilancia e investigación preventiva, de la persecución del delito, de la administración de justicia y de la ejecución de penas y medidas de seguridad, entre otras fuentes; en virtud de la coordinación interinstitucional, se compartirá dicha información entre las instituciones de referencia y con el Sistema Nacional para facilitar las labores de planeación que correspondan.
+El Estado y los Ayuntamientos establecerán los mecanismos e instrumentos necesarios para constituir una Plataforma de información en materia de Seguridad Ciudadana. Se integrará, para este efecto, una base de datos aportados por las áreas encargadas de la vigilancia e investigación preventiva, de la persecución del delito, de la administración de justicia y de la ejecución de penas y medidas u órdenes de protección para mujeres, adolescentes, niñas y niños y medidas de seguridad, entre otras fuentes; en virtud de la coordinación interinstitucional, se compartirá dicha información entre las instituciones de referencia y con el Sistema Nacional para facilitar las labores de planeación que correspondan.
 
 > <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2024)</small>
 
@@ -399,9 +413,17 @@ X. Promover una amplia participación de la comunidad en el análisis y solució
 
 XI. Establecer bases de operación de las corporaciones estatales en aquellos lugares de la geografía del Estado considerados como puntos estratégicos, mismas que coadyuvarán con las Instituciones de Seguridad Ciudadana municipales;
 
-XII. Autorizar a particulares, por conducto de la Secretaría, para que presten Servicios de Seguridad Privada, en los términos de esta Ley,
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-XIII. Las demás que le señalen las disposiciones constitucionales, legales y reglamentarias aplicables.
+XII. Autorizar a particulares, por conducto de la Secretaría, para que presten Servicios de Seguridad Privada, en los términos de esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XIII. Encabezar las Mesas de Paz del Estado de Quintana Roo, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XIV. Las demás que le señalen las disposiciones constitucionales, legales y reglamentarias aplicables.
 
 ###### Artículo 18.
 
@@ -505,9 +527,17 @@ XXXIX. Garantizar, mantener y restablecer el orden y la paz públicos con respet
 
 XL. Auxiliar a los Poderes Legislativo y Judicial del Estado y a la Fiscalía, cuando así lo requieran para el debido ejercicio de sus funciones;
 
-XLI. Fortalecer y consolidar los servicios de la dependencia, en materia de Seguridad Ciudadana, y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-XLII. Las demás que establezcan expresamente las leyes, reglamentos y demás disposiciones legales aplicables al caso.
+XLI. Fortalecer y consolidar los servicios de la dependencia, en materia de Seguridad Ciudadana;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XLII. Administrar y controlar la gestión de los C5, así como de sus sistemas de videovigilancia y reconocimiento biométrico, de manera que se permita la interconexión y el intercambio de información de sus bases de datos con el Sistema Nacional de Información, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XLIII. Las demás que establezcan expresamente las Leyes, Reglamentos y demás disposiciones legales aplicables al caso.
 
 ###### Artículo 20.
 
@@ -569,19 +599,37 @@ XVI. Participar en la Conferencia Nacional de Seguridad Pública Municipal;
 
 XVII. Colaborar con las instituciones públicas y privadas, en la ejecución de programas tendientes a prevenir el delito;
 
-XVIII. Promover en el ámbito municipal la homologación del desarrollo policial, y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-XIX. Las demás que les señalen las disposiciones legales y reglamentarias aplicables.
+XVIII. Promover en el ámbito municipal la homologación del desarrollo policial;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XIX. Presidir las Mesas de Paz Regionales, según le corresponda, así como acudir por invitación expresa a las Mesas de Paz del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XX. Establecer, administrar y controlar el manejo del C2 municipal, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XXI. Las demás que les señalen las disposiciones legales y reglamentarias aplicables.
 
 ## TÍTULO TERCERO. DE LA COORDINACIÓN EN MATERIA DE SEGURIDAD CIUDADANA
 
 ### CAPÍTULO I. DE LA COORDINACIÓN DE LAS INSTITUCIONES Y LAS AUTORIDADES DE SEGURIDAD CIUDADANA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 22.
 
-La coordinación de las Instituciones de Seguridad Ciudadana Estatales y Municipales derivada de esta Ley, se hará con respeto absoluto de las atribuciones constitucionales que tengan las autoridades que intervienen en el Consejo Estatal.
+La coordinación de las Instituciones de Seguridad Ciudadana derivada de esta Ley, se hará con respeto absoluto de las atribuciones constitucionales que tengan las autoridades que intervienen en el Consejo Estatal y en las Mesas de Paz.
 
 En las operaciones policiales conjuntas para el combate a la criminalidad, se cumplirán sin excepción los requisitos previstos en los ordenamientos constitucionales y legales aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+En el Estado se establecerán Mesas de Paz para la coordinación inmediata entre las Instituciones Federales, Estatales y Municipales, en materia de Seguridad Ciudadana, conforme a lo establecido en la Ley General y la presente Ley.
 
 ###### Artículo 23.
 
@@ -605,9 +653,17 @@ VIII. Formular propuestas para el Programa Estatal, así como para llevarlo a ca
 
 IX. Proteger y vigilar las instalaciones estratégicas del Estado;
 
-X. Realizar acciones y operativos conjuntos, y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-XI. Las demás que establezcan la presente Ley y otras disposiciones normativas aplicables.
+X. Realizar acciones y operativos conjuntos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XI. Participar en la ejecución y seguimiento de las medidas u órdenes de protección en los términos previstos en esta Ley, en la Ley General de Acceso a las Mujeres a una Vida Libre de Violencia y en el Código Nacional de Procedimientos Penales, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XII. Las demás que establezcan la presente Ley y otras disposiciones normativas aplicables.
 
 ###### Artículo 24.
 
@@ -621,7 +677,9 @@ III. Las propuestas de aplicación de recursos para la Seguridad Ciudadana, incl
 
 IV. Los lineamientos para llevar a cabo los procesos de evaluación;
 
-V. Suministro, intercambio y sistematización de todo tipo de información y tecnología sobre Seguridad Ciudadana y el establecimiento de bases de datos criminalísticos, de personal, de registro público vehicular para las Instituciones Policiales de Seguridad Ciudadana;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+V. Suministro, intercambio y sistematización de todo tipo de información y tecnología sobre Seguridad Ciudadana y el establecimiento de bases de datos criminalísticos, medidas u órdenes de protección para mujeres, adolescentes, niñas y niños, de personal, de registro público vehicular para las Instituciones Policiales de Seguridad Ciudadana;
 
 VI. Acciones policiales conjuntas, en los términos de esta Ley y demás ordenamientos aplicables;
 
@@ -745,17 +803,107 @@ II. Los Consejos Municipales;
 
 III. Los Consejos Regionales;
 
-IV. El Secretariado Estatal, y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-V. Los Comités de Participación Ciudadana, a invitación expresa de la presidencia del Sistema Estatal, quienes únicamente tendrán derecho de voz.
+IV. El Secretariado Estatal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+V. La Mesa de Paz del Estado de Quintana Roo, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+VI. Los Comités de Participación Ciudadana, a invitación expresa de la Presidencia del Sistema Estatal, quienes únicamente tendrán derecho a voz.
 
 ###### Artículo 35.
 
 Los representantes de las autoridades federales podrán participar en el Sistema Estatal de acuerdo con la presente Ley, con el propósito de favorecer la coordinación y a efecto de garantizar y mejorar la Seguridad Ciudadana, sin que ello implique la transferencia de atribuciones o facultades legales.
 
-### CAPÍTULO III. DEL CONSEJO ESTATAL DE SEGURIDAD CIUDADANA
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-### CAPÍTULO IV. DE LAS FACULTADES Y FUNCIONES DE LAS PERSONAS INTEGRANTES DEL CONSEJO ESTATAL
+### CAPÍTULO II BIS. DE LAS MESAS DE PAZ
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 35 Bis.
+
+Las Mesas de Paz son las instancias de decisión ejecutiva y de coordinación inmediata de las instituciones de seguridad ciudadana.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 35 Ter.
+
+La Mesa de Paz del Estado de Quintana Roo, se integrará de manera enunciativa mas no limitativa, por las siguientes instituciones:
+
+I. La Persona Titular del Poder Ejecutivo del Estado, quien la presidirá;
+
+II. La Persona Titular de la Secretaría;
+
+III. La Persona Titular de la Secretaría de Gobierno del Estado;
+
+IV. La Persona Titular de la Fiscalía General del Estado;
+
+V. La Persona Titular de la Policía de Investigación de la Fiscalía General del Estado;
+
+VI. Las Personas representantes de las fuerzas armadas y la Guardia Nacional en la región y, en su caso, de la zona naval;
+
+VII. La persona Titular de la estación estatal del Centro Nacional de Inteligencia;
+
+VIII. La persona Titular de los Centros de Comando y Control;
+
+IX. Una persona representante de la Delegación de los programas de Bienestar del Gobierno Federal en el Estado;
+
+X. Una persona representante de la Secretaría de Gobernación del Gobierno Federal, quien ocupará la Secretaría Técnica y
+
+XI. Una persona representante del Poder Judicial del Estado de Quintana Roo, la cual tendrá carácter de invitada permanente.
+
+Se podrá convocar a las Personas Titulares de las Presidencias Municipales del Estado, con la finalidad de establecer acciones de coordinación y evaluación de resultados, asimismo, se podrá convocar a las personas titulares de otras instituciones de la Administración Pública Centralizada o Descentralizada cuando se considere necesaria su participación.
+
+La Mesa de Paz del Estado de Quintana Roo deberá sesionar de forma ordinaria todos los días hábiles y, de forma extraordinaria, las veces que convoque su presidencia, de conformidad a lo previsto por las disposiciones correspondientes.
+
+La participación de las personas integrantes de la Mesa de Paz del Estado de Quintana Roo será de carácter honorífico, por lo que no recibirán retribución o emolumento alguno por su desempeño.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 35 Quater.
+
+Los Municipios podrán establecer Mesas de Paz Regionales, distinguiéndose para tal efecto las regiones correspondientes a la Zona Norte y la Zona Sur, conforme a lo siguiente:
+
+I. Mesa de Paz Regional Zona Sur: Integrada por los Municipios de Bacalar, Felipe Carrillo Puerto, José María Morelos y Othón P. Blanco, en el Estado de Quintana Roo, y
+
+II. Mesa de Paz Regional Zona Norte: Integrada por los Municipios de Benito Juárez, Isla Mujeres, Lázaro Cárdenas, Cozumel, Puerto Morelos, Playa del Carmen y Tulum, en el Estado de Quintana Roo.
+
+En cada sesión deberán de contar con la presencia de cuando menos dos Municipios y ser presididas, de manera rotativa, por las Personas Titulares de la Presidencia Municipal, las cuales replicarán el modelo de la Mesa de Paz del Estado de Quintana Roo y deberán tener representación tanto de la Persona Titular del Poder Ejecutivo Estatal como de las Instituciones Policiales de Seguridad Ciudadana.
+
+Las Mesas de Paz regionales deberán sesionar de forma ordinaria todos los días hábiles y de forma extraordinaria, las veces que convoque su presidencia.
+
+La participación de las personas integrantes de la Mesa de Paz regionales será de carácter honorífico, por lo que no recibirán retribución o emolumento alguno por su desempeño.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 35 Quinquies.
+
+Las mesas de paz tendrán los siguientes objetivos:
+
+I. Conocer y analizar los datos relacionados con los delitos de alto impacto, así como las tendencias de incidencia delictiva a nivel estatal y municipal, según corresponda;
+
+II. Analizar los casos de alto impacto ocurridos a nivel estatal y municipal, según corresponda;
+
+III. Coordinar las acciones de gobierno orientadas a la atención a las causas de las violencias y la construcción de la paz;
+
+IV. Informar de las acciones operativas relevantes llevadas a cabo por las instituciones que lo conforman;
+
+V. Informar de los asuntos relevantes en materia de gobernabilidad de la entidad federativa y sus municipios, según corresponda;
+
+VI. Diseñar e implementar acciones operativas;
+
+VII. Evaluar de forma permanente la estrategia de seguridad pública de la entidad, así como los resultados y las acciones operativas implementadas;
+
+VIII. Coordinar acciones con la Fiscalía General de Justicia y el Poder Judicial de la entidad, y
+
+IX. Las demás necesarias para su funcionamiento.
+
+### CAPÍTULO III. DEL CONSEJO ESTATAL DE SEGURIDAD CIUDADANA
 
 ###### Artículo 36.
 
@@ -851,7 +999,7 @@ La representación legal del Consejo Estatal podrá recaer en el Secretariado Es
 
 El Consejo Estatal tendrá su sede en la Capital del Estado, sin perjuicio de que, a propuesta de la presidencia, pueda sesionar en lugar diverso dentro del territorio Estatal y su organización y funcionamiento será regulado por esta Ley y el reglamento.
 
-### CAPÍTULO V. DE LAS SESIONES DEL CONSEJO ESTATAL
+### CAPÍTULO IV. DE LAS FACULTADES Y FUNCIONES DE LAS PERSONAS INTEGRANTES DEL CONSEJO ESTATAL
 
 ###### Artículo 40.
 
@@ -961,7 +1109,7 @@ VIII. Las que les sean expresamente encomendadas por el Consejo Estatal.
 
 El Secretariado Estatal es el órgano operativo del Consejo Estatal responsable del correcto funcionamiento del mismo.
 
-### CAPÍTULO VI. DE LAS VOTACIONES DEL CONSEJO ESTATAL
+### CAPÍTULO V. DE LAS SESIONES DEL CONSEJO ESTATAL
 
 ###### Artículo 44.
 
@@ -1025,7 +1173,7 @@ En toda sesión del Consejo Estatal, se levantará el acta correspondiente. El S
 
 El Secretariado Estatal, cuidará que las actas de las sesiones del Consejo Estatal, contengan por lo menos el lugar, la fecha y la hora de apertura y clausura; una relación nominal de las personas consejeras presentes y de los ausentes; las observaciones y declaración de aprobación del acta anterior; una relación sucinta, ordenada y clara de los asuntos tratados y resueltos, así como de los acuerdos tomados, detallando los nombres de los miembros y/o invitados que hubieren hecho uso de la voz y el sentido en que lo hicieron, debiendo evitar toda calificación de los discursos o exposiciones.
 
-### CAPÍTULO VII. DE LAS COMISIONES DEL CONSEJO ESTATAL
+### CAPÍTULO VI. DE LAS VOTACIONES DEL CONSEJO ESTATAL
 
 ###### Artículo 53.
 
@@ -1057,7 +1205,7 @@ Cuando los acuerdos y resoluciones del Consejo Estatal comprendan materias o acc
 
 Cuando surja alguna controversia entre las personas consejeras, con relación a la existencia jurídica, validez, aplicación, alcances, interpretación u obligatoriedad de los acuerdos, resoluciones o convenios que se hayan adoptado o suscrito, cualquiera de los interesados podrá plantear tal circunstancia al Pleno del Consejo Estatal, quien resolverá lo conducente.
 
-### CAPÍTULO VIII. DEL CONSEJO REGIONAL DE SEGURIDAD CIUDADANA Y DE LOS CONSEJOS MUNICIPALES
+### CAPÍTULO VII. DE LAS COMISIONES DEL CONSEJO ESTATAL
 
 ###### Artículo 59.
 
@@ -1099,7 +1247,7 @@ Las Comisiones se integrarán y regirán conforme lo establezca el Consejo Estat
 
 Las Comisiones informarán y proporcionarán periódicamente al Consejo Estatal o cuando este lo solicite, la documentación correspondiente sobre el avance o resultados de los trabajos que el Consejo Estatal les hubiere asignado.
 
-### CAPÍTULO ÚNICO. DE LOS COMITÉS DE PARTICIPACIÓN CIUDADANA
+### CAPÍTULO VIII. DEL CONSEJO REGIONAL DE SEGURIDAD CIUDADANA Y DE LOS CONSEJOS MUNICIPALES
 
 ###### Artículo 64.
 
@@ -1137,7 +1285,7 @@ Para la realización de actividades coordinadas de Seguridad Ciudadana que requi
 
 ## TÍTULO CUARTO. DE LOS ÓRGANOS DE PARTICIPACIÓN CIUDADANA EN MATERIA DE SEGURIDAD CIUDADANA
 
-### CAPÍTULO I. DE LA CLASIFICACIÓN, LAS FUNCIONES Y LAS OBLIGACIONES
+### CAPÍTULO ÚNICO. DE LOS COMITÉS DE PARTICIPACIÓN CIUDADANA
 
 ###### Artículo 68.
 
@@ -1207,7 +1355,7 @@ La organización y funcionamiento de los Comités de Participación Ciudadana, s
 
 ## TÍTULO QUINTO. DE LAS INSTITUCIONES POLICIALES DE SEGURIDAD CIUDADANA
 
-### CAPÍTULO II. DE LAS INSTITUCIONES POLICIALES DE SEGURIDAD CIUDADANA DEL ESTADO
+### CAPÍTULO I. DE LA CLASIFICACIÓN, LAS FUNCIONES Y LAS OBLIGACIONES
 
 ###### Artículo 76.
 
@@ -1307,7 +1455,7 @@ Las Instituciones Policiales de Seguridad Ciudadana deberán expedir a su person
 
 Esta Ley y el Reglamento Interior de la Secretaría definirán la competencia, funciones y atribuciones de las unidades administrativas que componen a la Secretaría, asimismo el Reglamento del Servicio Profesional de Carrera Policial desarrollará cada uno de los conceptos, procesos instituciones (sic) de la Carrera Policial acorde a lo dispuesto en la Constitución, la Constitución Estatal, la Ley General, el Código Nacional de Procedimientos Penales, y demás disposiciones aplicables.
 
-### CAPÍTULO III. DE LAS FACULTADES DE LAS INSTITUCIONES POLICIALES DE SEGURIDAD CIUDADANA DEL ESTADO
+### CAPÍTULO II. DE LAS INSTITUCIONES POLICIALES DE SEGURIDAD CIUDADANA DEL ESTADO
 
 ###### Artículo 85.
 
@@ -1337,7 +1485,7 @@ VII. Reacción, y
 
 VIII. Unidad de Servicios Especiales de Vigilancia y de Servicio Público de Escolta.
 
-### CAPÍTULO IV. DE LAS INSTITUCIONES POLICIALES DE SEGURIDAD CIUDADANA EN LOS MUNICIPIOS
+### CAPÍTULO III. DE LAS FACULTADES DE LAS INSTITUCIONES POLICIALES DE SEGURIDAD CIUDADANA DEL ESTADO
 
 ###### Artículo 86.
 
@@ -1637,7 +1785,9 @@ III. Realizar el conteo de las personas privadas de la libertad, mediante pase d
 
 IV. Vigilar el cumplimiento del sistema de identificación para distinguir a las personas privadas de la libertad de las diferentes secciones, a los miembros del personal y a los visitantes;
 
-V. Ejecutar el sistema de registro periódico de celdas, en estricto apego al respeto de la privacidad;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+V. Ejecutar el sistema de registro periódico de celdas, en estricto apego al respeto de la privacidad y dar cumplimiento a lo establecido en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la Fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
 
 VI. Llevar a cabo sin excepción, revisiones a las personas y vehículos que entren y salgan de los Centros Penitenciarios y del Centro de Ejecución de Medidas para Adolescentes, con pleno respeto a su dignidad y sus derechos humanos;
 
@@ -1791,7 +1941,7 @@ XVI. Emitir la certificación de consumo responsable a los establecimientos que 
 
 XVII. Las demás que le confiera esta ley, otras disposiciones legales o reglamentarias o la Secretaría.
 
-### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
+### CAPÍTULO IV. DE LAS INSTITUCIONES POLICIALES DE SEGURIDAD CIUDADANA EN LOS MUNICIPIOS
 
 ###### Artículo 103.
 
@@ -1835,7 +1985,7 @@ XII. Las demás que establezca la presente ley y demás disposiciones legales ap
 
 ## TÍTULO SEXTO. DEL ÁMBITO POLICIAL DE SEGURIDAD CIUDADANA
 
-### CAPÍTULO II. DE LA CARRERA POLICIAL
+### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 105.
 
@@ -1895,7 +2045,7 @@ d. Policía.
 
 Las Instituciones Policiales de Seguridad Ciudadana se organizarán bajo un esquema de jerarquización terciaria en las tres primeras categorías, cuya célula básica se compondrá invariablemente por tres elementos, en cuanto a la escala básica se compondrá de un esquema de cuatro elementos.
 
-### CAPÍTULO III. DE LOS FINES DE LA CARRERA POLICIAL
+### CAPÍTULO II. DE LA CARRERA POLICIAL
 
 ###### Artículo 109.
 
@@ -1933,7 +2083,7 @@ Al concluir dicho cargo administrativo o de dirección o bien, ser relevados del
 
 Los conceptos y procesos que conforman la Carrera Policial son: planeación; convocatoria; reclutamiento; selección de aspirantes; formación inicial; certificación; ingreso y nombramiento; plan individual de carrera; formación continua y especializada; evaluación del desempeño; estímulos; proceso de la permanencia y desarrollo; promoción; renovación de la certificación; licencias; permisos y comisiones; régimen disciplinario; recursos; baja del servicio y; reingreso; dichos conceptos y procesos se regulan en los términos que prevé esta Ley y el reglamento que al efecto se emita.
 
-### CAPÍTULO IV. DE LOS PROCESOS DE LA CARRERA POLICIAL
+### CAPÍTULO III. DE LOS FINES DE LA CARRERA POLICIAL
 
 ###### Artículo 116.
 
@@ -1967,7 +2117,7 @@ El ascenso siempre será del grado inmediato inferior al inmediato superior y ba
 
 El grado tope es el grado máximo que pueden alcanzar las Personas Integrantes cuando se actualiza alguno de los supuestos que se especifiquen al respecto y producirá los efectos que para el caso se establezcan.
 
-### CAPÍTULO V. DE LAS LICENCIAS, LOS PERMISOS Y LAS COMISIONES
+### CAPÍTULO IV. DE LOS PROCESOS DE LA CARRERA POLICIAL
 
 #### SECCIÓN PRIMERA. DEL INGRESO Y PERMANENCIA
 
@@ -2325,7 +2475,7 @@ Excepcionalmente, la Persona Titular del Poder Ejecutivo a propuesta del Consejo
 
 La Renovación de la Certificación es el proceso mediante el cual las Personas Integrantes se someten a las evaluaciones periódicas establecidas por el C3, y demás necesarios que se consideren en el proceso de permanencia, la cual tendrá una vigencia de tres años.
 
-### CAPÍTULO VI. DE LA BAJA DEL SERVICIO DE CARRERA
+### CAPÍTULO V. DE LAS LICENCIAS, LOS PERMISOS Y LAS COMISIONES
 
 ###### Artículo 151.
 
@@ -2393,7 +2543,7 @@ Las Personas Integrantes contarán con un permiso por luto, con goce de Haberes,
 
 La comisión es la instrucción por escrito o verbal que el superior jerárquico da a una Persona Integrante para que de forma temporal desempeñe un Servicio específico, en un lugar diverso al de su adscripción o en instalación distinta a la de prestación regular del mismo, de conformidad con las Necesidades del Servicio.
 
-### CAPÍTULO VII. DE LOS DEBERES DISCIPLINARIOS
+### CAPÍTULO VI. DE LA BAJA DEL SERVICIO DE CARRERA
 
 ###### Artículo 159.
 
@@ -2445,7 +2595,7 @@ La jubilación es la situación en la que se coloca a la Persona Integrante que 
 
 El retiro es la situación en que se coloca por así solicitarlo a la Persona Integrante, cuando cumple con la edad establecida para la jubilación y cuente con las semanas de cotización conforme a la normatividad aplicable.
 
-### CAPÍTULO VIII. DEL SERVICIO
+### CAPÍTULO VII. DE LOS DEBERES DISCIPLINARIOS
 
 #### SECCIÓN I. DEL RÉGIMEN DISCIPLINARIO
 
@@ -2529,7 +2679,7 @@ Las Personas Integrantes deberán mantener absoluta discreción en el desarrollo
 
 En caso de que alguna Persona Integrante cometa indiscreciones en asuntos del Servicio, publique o difunda información o cuestiones que comprometan o perjudiquen al Prestigio o las operaciones de la Secretaría o a la Seguridad Ciudadana, será sancionado conforme a lo dispuesto en esta Ley o en cualquier otra norma aplicable al caso.
 
-### CAPÍTULO IX. DEL MANDO
+### CAPÍTULO VIII. DEL SERVICIO
 
 ###### Artículo 175.
 
@@ -2545,7 +2695,7 @@ II. Servicios de apoyo y auxiliares. Son los que no requieren el empleo directo 
 
 III. Servicios profesionales. Son los que desempeña el personal para atender las actividades relativas a su especialidad, formación o conocimiento.
 
-### CAPÍTULO X. DE LAS SOLICITUDES Y QUEJAS
+### CAPÍTULO IX. DEL MANDO
 
 ###### Artículo 176.
 
@@ -2563,7 +2713,7 @@ IV. Poner el máximo empeño para administrar, eficientemente, los recursos mate
 
 V. Considerar las vidas de las Personas Integrantes a su cargo como valor inestimable que se le confía y no los expondrá a mayores peligros que los exigidos por el cumplimiento del Servicio.
 
-### CAPÍTULO XI. DE LOS DERECHOS DE LAS PERSONAS INTEGRANTES DE LAS INSTITUCIONES POLICIALES DE SEGURIDAD CIUDADANA
+### CAPÍTULO X. DE LAS SOLICITUDES Y QUEJAS
 
 ###### Artículo 177.
 
@@ -2579,7 +2729,7 @@ Las Personas Integrantes expresarán sus ideas a título personal, sin afectar e
 
 Las Personas Integrantes se abstendrán de condicionar el cumplimiento de sus Deberes y desempeño de sus cargos y comisiones, a cualquier demanda o petición de mejores satisfactores en sus intereses personales.
 
-### CAPÍTULO XII. DE LAS OBLIGACIONES DE LAS PERSONAS INTEGRANTES DE LAS INSTITUCIONES POLICIALES DE SEGURIDAD CIUDADANA
+### CAPÍTULO XI. DE LOS DERECHOS DE LAS PERSONAS INTEGRANTES DE LAS INSTITUCIONES POLICIALES DE SEGURIDAD CIUDADANA
 
 ###### Artículo 179.
 
@@ -2605,7 +2755,7 @@ IX. Recibir la dotación de armas, municiones, uniformes, placas, insignias, esc
 
 X. Los demás que les confieran la presente ley y demás ordenamientos legales y aplicables.
 
-### CAPÍTULO XIII. DEL CONSEJO DE DESARROLLO DE LA SECRETARÍA DE SEGURIDAD CIUDADANA
+### CAPÍTULO XII. DE LAS OBLIGACIONES DE LAS PERSONAS INTEGRANTES DE LAS INSTITUCIONES POLICIALES DE SEGURIDAD CIUDADANA
 
 ###### Artículo 180.
 
@@ -2699,7 +2849,7 @@ X. Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas o jue
 
 XI. Las demás que establezcan las disposiciones legales aplicables.
 
-### CAPÍTULO XIV. DEL CONSEJO DE HONOR Y JUSTICIA DE LA SECRETARÍA DE SEGURIDAD CIUDADANA
+### CAPÍTULO XIII. DEL CONSEJO DE DESARROLLO DE LA SECRETARÍA DE SEGURIDAD CIUDADANA
 
 ###### Artículo 182.
 
@@ -2753,7 +2903,7 @@ IV. Estímulos y reconocimientos, y
 
 V. Condecoraciones al valor policial, a la perseverancia o al mérito.
 
-### CAPÍTULO XV. DE LA DIRECCIÓN DE ASUNTOS INTERNOS DE LA SECRETARÍA
+### CAPÍTULO XIV. DEL CONSEJO DE HONOR Y JUSTICIA DE LA SECRETARÍA DE SEGURIDAD CIUDADANA
 
 ###### Artículo 186.
 
@@ -2847,7 +2997,7 @@ VII. Elaborar el proyecto de resolución y presentarlo al Pleno para su votació
 
 VIII. Las demás que le asigne esta Ley y demás disposiciones relativas.
 
-### CAPÍTULO XVI. DEL PROCEDIMIENTO DE REMOCIÓN POR FALTAS GRAVES AL RÉGIMEN DISCIPLINARIO
+### CAPÍTULO XV. DE LA DIRECCIÓN DE ASUNTOS INTERNOS DE LA SECRETARÍA
 
 ###### Artículo 193.
 
@@ -2963,7 +3113,7 @@ VIII. Nombre y firma de la persona titular de la Dirección de Asuntos Internos 
 
 En lo no previsto, en la etapa de investigación previa, se aplicará de manera supletoria el Código Nacional de Procedimientos Penales.
 
-### CAPÍTULO XVII. DEL PROCEDIMIENTO DE SEPARACIÓN
+### CAPÍTULO XVI. DEL PROCEDIMIENTO DE REMOCIÓN POR FALTAS GRAVES AL RÉGIMEN DISCIPLINARIO
 
 ###### Artículo 202.
 
@@ -3105,7 +3255,7 @@ La Persona Integrante en caso de resultar absuelta, será restituida en sus func
 
 En las actuaciones que se practiquen en los procedimientos a que se refiere este título, también se observarán las disposiciones conducentes del Reglamento del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Ciudadana y en lo no previsto en ambos ordenamientos, se aplicará de manera supletoria el Código Nacional de Procedimientos Penales.
 
-### CAPÍTULO XVIII. DE LOS RECURSOS
+### CAPÍTULO XVII. DEL PROCEDIMIENTO DE SEPARACIÓN
 
 ###### Artículo 215.
 
@@ -3161,7 +3311,7 @@ Contra la resolución procederá el recurso de reconsideración, el cual deberá
 
 Cuando en la resolución se determine que una Persona Integrante no cumple con los requisitos de permanencia que dispongan la Ley General y esta Ley, se decretará su separación del cargo.
 
-### CAPÍTULO XIX. DE LAS DISPOSICIONES COMUNES A LOS PROCEDIMIENTOS ANTE EL CONSEJO DE HONOR DE LA SECRETARÍA
+### CAPÍTULO XVIII. DE LOS RECURSOS
 
 #### SECCIÓN PRIMERA. DEL RECURSO DE RECTIFICACIÓN
 
@@ -3219,7 +3369,7 @@ V. Recibido el recurso de reconsideración, la Sala dentro de los siguientes tre
 
 VI. El Pleno del Consejo de Honor de la Secretaría, habiendo examinado los agravios que se hayan hecho valer, emitirá resolución dentro de un plazo de cinco días hábiles. Hecho lo anterior, regresará el expediente y ordenará la notificación a la Persona Integrante recurrente a través de la Sala respectiva, en la forma prevista en esta Ley.
 
-### CAPÍTULO XX. DE LAS CONDICIONES GENERALES DEL SERVICIO
+### CAPÍTULO XIX. DE LAS DISPOSICIONES COMUNES A LOS PROCEDIMIENTOS ANTE EL CONSEJO DE HONOR DE LA SECRETARÍA
 
 ###### Artículo 229.
 
@@ -3497,9 +3647,7 @@ Respecto de las autoridades, procedimientos, instituciones, figuras jurídicas y
 
 Para lo no previsto respecto del desahogo de los procedimientos y de los recursos, se aplicará de manera supletoria el Código Nacional de Procedimientos Penales.
 
-### CAPÍTULO ÚNICO. DEL CENTRO ESTATAL DE EVALUACIÓN Y CONTROL DE CONFIANZA (C3)
-
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2024)</small>
+### CAPÍTULO XX. DE LAS CONDICIONES GENERALES DEL SERVICIO
 
 ###### Artículo 271.
 
@@ -3565,9 +3713,9 @@ III. Podrán acceder a jornadas con flexibilidad de horario que les permita aten
 
 ## TÍTULO SÉPTIMO. DE LA EVALUACIÓN Y CONTROL DE CONFIANZA DE LAS PERSONAS INTEGRANTES DE LAS INSTITUCIONES DE SEGURIDAD CIUDADANA
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO. DEL CENTRO ESTATAL DE EVALUACIÓN Y CONTROL DE CONFIANZA (C3)
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 280.
 
@@ -3631,7 +3779,7 @@ El C3, propondrá los criterios para la selección, ingreso, permanencia, estím
 
 (REFORMADA SU NOMENCLATURA), P.O. 4 DE DICIEMBRE DE 2025)
 
-### CAPÍTULO SEGUNDO. DE LOS ÓRGANOS DE GOBIERNO Y ADMINISTRACIÓN
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
@@ -3707,7 +3855,7 @@ XIV. Llevar a cabo los demás actos jurídicos, académicos y administrativos, n
 
 > <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-### CAPÍTULO TERCERO. DE LA JUNTA DE GOBIERNO DE LA UNIVERSIDAD DE CIENCIAS Y DISCIPLINAS DE LA SEGURIDAD DE QUINTANA ROO
+### CAPÍTULO SEGUNDO. DE LOS ÓRGANOS DE GOBIERNO Y ADMINISTRACIÓN
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
@@ -3723,7 +3871,7 @@ La rectoría estará encabezada por una persona titular a quien se denominará R
 
 > <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-### CAPÍTULO CUARTO. DE LA RECTORÍA DE LA UNIVERSIDAD DE CIENCIAS Y DISCIPLINAS DE LA SEGURIDAD DE QUINTANA ROO
+### CAPÍTULO TERCERO. DE LA JUNTA DE GOBIERNO DE LA UNIVERSIDAD DE CIENCIAS Y DISCIPLINAS DE LA SEGURIDAD DE QUINTANA ROO
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
@@ -3807,7 +3955,7 @@ XIV. Las demás que se le asignen por las leyes, reglamentos, decretos, acuerdos
 
 > <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-### CAPÍTULO QUINTO. DEL ÓRGANO INTERNO DE CONTROL
+### CAPÍTULO CUARTO. DE LA RECTORÍA DE LA UNIVERSIDAD DE CIENCIAS Y DISCIPLINAS DE LA SEGURIDAD DE QUINTANA ROO
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
@@ -3883,7 +4031,7 @@ La Universidad contará con el personal que requiera para el cumplimiento de su 
 
 > <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-### CAPÍTULO SEXTO. DEL PATRIMONIO Y LAS RELACIONES LABORALES DE LA UNIVERSIDAD
+### CAPÍTULO QUINTO. DEL ÓRGANO INTERNO DE CONTROL
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
@@ -3893,7 +4041,9 @@ La Universidad contará con un Órgano Interno de Control cuya persona titular s
 
 > <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO SEXTO. DEL PATRIMONIO Y LAS RELACIONES LABORALES DE LA UNIVERSIDAD
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 291.
 
@@ -3925,7 +4075,7 @@ VIII. Los demás que adquiera por cualquier otro título legal.
 
 ## TÍTULO NOVENO. DE LA PLATAFORMA DE INFORMACIÓN EN MATERIA DE SEGURIDAD CIUDADANA
 
-### CAPÍTULO II. DEL REGISTRO ESTATAL DEL PERSONAL DE SEGURIDAD CIUDADANA
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 292.
 
@@ -3993,7 +4143,7 @@ VII. Registro Estatal de Estadística de Seguridad Ciudadana, y
 
 VIII. Las demás que conforme a los acuerdos o convenios con el Sistema Nacional se establezcan.
 
-### CAPÍTULO III. DEL REGISTRO ESTATAL DE ARMAMENTO Y EQUIPO
+### CAPÍTULO II. DEL REGISTRO ESTATAL DEL PERSONAL DE SEGURIDAD CIUDADANA
 
 ###### Artículo 295.
 
@@ -4027,7 +4177,7 @@ Cuando a las Personas Integrantes de las Instituciones Policiales de Seguridad C
 
 La consulta a los registros estatal y nacional será obligatoria y previa al ingreso de toda persona a cualquier Institución Policial de Seguridad Ciudadana, incluyendo las de formación y empresas de Seguridad Privada. Con los resultados de la consulta la autoridad procederá de conformidad con las normas conducentes.
 
-### CAPÍTULO IV. DEL REGISTRO PARA EL SISTEMA PENITENCIARIO
+### CAPÍTULO III. DEL REGISTRO ESTATAL DE ARMAMENTO Y EQUIPO
 
 ###### Artículo 300.
 
@@ -4055,7 +4205,7 @@ El titular de la Licencia Oficial Colectiva correspondiente, podrá verificar en
 
 El incumplimiento de las disposiciones contenidas en los artículos anteriores, dará lugar a que la portación de armas se considere ilegal y sea sancionada en los términos de las normas aplicables.
 
-### CAPÍTULO V. DEL REGISTRO NACIONAL DE DETENCIONES
+### CAPÍTULO IV. DEL REGISTRO PARA EL SISTEMA PENITENCIARIO
 
 ###### Artículo 305.
 
@@ -4065,13 +4215,13 @@ El registro para el Sistema Penitenciario es la base de datos de personas privad
 
 La Autoridad Penitenciaria estará obligada a establecer los registros fidedignos necesarios con información precisa respecto a los Centros Penitenciarios conforme a lo que establece el artículo 28 de la Ley Nacional de Ejecución Penal.
 
-### CAPÍTULO VI. DEL REGISTRO PÚBLICO VEHICULAR
+### CAPÍTULO V. DEL REGISTRO NACIONAL DE DETENCIONES
 
 ###### Artículo 307.
 
 Las Personas Integrantes de las Instituciones Policiales de Seguridad Ciudadana que realicen detenciones deberán dar aviso administrativo de inmediato a la autoridad competente a fin de alimentar el Registro Nacional de Detenciones, conforme a la Ley Nacional del Registro de Detenciones y la Ley General, el cual es una base de datos que concentra la información a nivel nacional sobre las personas detenidas, conforme a las facultades de las autoridades durante las etapas del proceso penal o del procedimiento administrativo sancionador ante juez municipal o cívico, respectivamente.
 
-### CAPÍTULO VII. DEL SISTEMA ÚNICO DE INFORMACIÓN CRIMINAL
+### CAPÍTULO VI. DEL REGISTRO PÚBLICO VEHICULAR
 
 ###### Artículo 308.
 
@@ -4079,7 +4229,7 @@ El Registro Público Vehicular (REPUVE), tiene por objeto fortalecer la Segurida
 
 El registro está conformado por una base de datos integrada por la información que de cada vehículo proporcionen las autoridades federales, las entidades federativas y los sujetos obligados para realizar las inscripciones y a presentar los avisos, de conformidad con lo dispuesto en la Ley del Registro Público Vehicular.
 
-### CAPÍTULO VIII. DEL REGISTRO ESTATAL DE ESTADÍSTICA DE SEGURIDAD CIUDADANA
+### CAPÍTULO VII. DEL SISTEMA ÚNICO DE INFORMACIÓN CRIMINAL
 
 ###### Artículo 309.
 
@@ -4097,7 +4247,7 @@ Dicha información se dará de baja de la base de datos, por resoluciones de no 
 
 La institución del Ministerio Público y el órgano jurisdiccional, en su caso, sólo podrán reservarse la información que ponga en riesgo una investigación concreta, pero la proporcionarán inmediatamente después que deje de existir esta situación.
 
-### CAPÍTULO IX. DE LAS REGLAS GENERALES SOBRE LA INFORMACIÓN
+### CAPÍTULO VIII. DEL REGISTRO ESTATAL DE ESTADÍSTICA DE SEGURIDAD CIUDADANA
 
 ###### Artículo 312.
 
@@ -4119,7 +4269,7 @@ La normatividad que al efecto se emita señalará los instrumentos de acopio de 
 
 Las reglas generales para la recepción de la información, serán establecidas de conformidad con la Ley General.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO IX. DE LAS REGLAS GENERALES SOBRE LA INFORMACIÓN
 
 ###### Artículo 316.
 
@@ -4155,9 +4305,17 @@ No se proporcionará al público la información que ponga en riesgo la Segurida
 
 Cualquier interesado que estime falsa o errónea alguna información, podrá solicitar la investigación correspondiente con el objeto de que, en su caso, se anote la corrección que proceda conforme al procedimiento que establezca el reglamento correspondiente.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 319 Bis.
+
+La Secretaría y las instituciones de seguridad ciudadana municipales dispondrán de una unidad administrativa responsable de los Centros de Mando e Inteligencia, debidamente certificada y acreditada de conformidad con los estándares y evaluaciones que al efecto se emitan.
+
+Estas unidades administrativas, a través de sus C5 o C2, respectivamente, deberán mantener actualizada diariamente las bases de datos de sus sistemas de gestión de incidentes, de videovigilancia y reconocimiento biométrico, así como, la información que generen en las líneas de atención de denuncia anónima. Asimismo, serán las responsables de compartir la información que generen con el Sistema Nacional de Información.
+
 ## TÍTULO DÉCIMO. DE LOS FONDOS PARA LA SEGURIDAD CIUDADANA
 
-### CAPÍTULO I. DEL PROGRAMA ESTATAL DE SEGURIDAD CIUDADANA
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 320.
 
@@ -4175,7 +4333,7 @@ Las Leyes, reglamentos, acuerdos, decretos y demás normativa estatal o municipa
 
 ## TÍTULO DÉCIMO PRIMERO. DE LOS PROGRAMAS DE SEGURIDAD CIUDADANA
 
-### CAPÍTULO II. DE LOS PROGRAMAS MUNICIPALES
+### CAPÍTULO I. DEL PROGRAMA ESTATAL DE SEGURIDAD CIUDADANA
 
 ###### Artículo 323.
 
@@ -4212,6 +4370,8 @@ XI. Evaluación, y
 XII. Propuesta de distribución y aplicación de los recursos para la Seguridad Ciudadana.
 
 El Programa Estatal deberá elaborarse y, previamente a su aprobación de la Persona Titular del Ejecutivo del Estado, someterse a la opinión del Consejo Estatal. Se revisará anualmente de conformidad con los lineamientos y criterios que establezcan por los mecanismos de evaluación del Estado.
+
+### CAPÍTULO II. DE LOS PROGRAMAS MUNICIPALES
 
 ###### Artículo 325.
 
@@ -4374,3 +4534,45 @@ NOVENO. En un plazo de ciento ochenta días naturales, a partir de la entrada en
 DÉCIMO. Los convenios, contratos y acuerdos suscritos por la Universidad de Ciencias y Disciplinas de la Seguridad de Quintana Roo, como unidad administrativa de la Secretaría de Seguridad Ciudadana, seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de los derechos y obligaciones del organismo público descentralizado que se crea mediante el presente Decreto.
 
 DÉCIMO PRIMERO. Se derogan todas las disposiciones legales, de igual o menor jerarquía, que se opongan al presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 182 POR EL QUE SE EXPIDE LA LEY PARA PREVENIR, INVESTIGAR Y SANCIONAR LOS DELITOS EN MATERIA DE EXTORSIÓN DEL ESTADO DE QUINTANA ROO, SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO, Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD CIUDADANA DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Consejo Estatal de Prevención y Combate a la Extorsión deberá instalarse en un plazo no mayor a 90 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+TERCERO. La Secretaría de Seguridad Ciudadana deberá establecer la Estrategia Estatal para Prevenir y Combatir el Delito de Extorsión en un plazo no mayor a 180 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. La Fiscalía General del Estado de Quintana Roo deberá crear y poner en operación la Fiscalía Especializada en Combate a los Delitos de Extorsión y Delitos Vinculados en un periodo no mayor a 180 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+Hasta en tanto no se integre y entre en operaciones la Fiscalía Especializada señalada, la Fiscalía Especializada en Combate a los Delitos de Secuestro y Extorsión seguirá operando en términos de las disposiciones jurídicas aplicables previo a la entrada en vigor del presente Decreto.
+
+La Fiscalía Especializada en Combate a los Delitos de Secuestro y Extorsión, deberá transferir, en su totalidad, las Carpetas de Investigación iniciadas con motivo de las denuncias presentadas con anterioridad a la entrada en vigor del presente Decreto, para conocimiento y substanciación hasta su culminación a la nueva Fiscalía Especializada en Combate a los Delitos de Extorsión y Delitos Vinculados.
+
+QUINTO. Las Carpetas de Investigación iniciadas con motivo de las denuncias presentadas con anterioridad a la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables jurídicas antes de la vigencia de este.
+
+SEXTO. Los Centros Penitenciarios tendrán 180 días hábiles contados a partir de la entrada en vigor del presente Decreto para establecer los procedimientos y tecnologías de inhibición de entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen a que se refiere el artículo 38 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+SÉPTIMO. La Secretaría de Seguridad Ciudadana deberá establecer y poner en operación el Centro Estatal de Atención a Denuncias por el Delito de Extorsión en un plazo no mayor a 180 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+OCTAVO. El Gobierno del Estado de Quintana Roo, a través de sus dependencias y organismos auxiliares, y los Ayuntamientos deberán proveer lo necesario para el correcto y eficaz cumplimiento de lo previsto en el presente Decreto.
+
+NOVENO. Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento, lo cual se llevará a cabo de manera progresiva, conforme a la disponibilidad presupuestal, con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes, por lo que no incrementarán su presupuesto y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 183 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD CIUDADANA DEL ESTADO DE QUINTANA ROO, EN MATERIA DE MESAS DE PAZ Y CENTRO DE MANDO E INTELIGENCIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga a lo establecido en el presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 184 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE QUINTANA ROO, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO, DE LA LEY DE SEGURIDAD CIUDADANA DEL ESTADO DE QUINTANA ROO, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, DE LA LEY DE LA JUVENTUD DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, DE LA LEY DE PREVENCIÓN, ATENCIÓN INTEGRAL Y CONTROL PARA EL VIH DEL ESTADO DE QUINTANA ROO, DE LA LEY DE SEGURIDAD ESCOLAR INTEGRAL DEL ESTADO DE QUINTANA ROO, DE LA LEY DE VÍCTIMAS DEL ESTADO DE QUINTANA ROO Y DE LA LEY EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones legales, de igual o menor jerarquía, que se opongan al contenido del presente Decreto.
