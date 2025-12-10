@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-hacienda-del-estado-de-oaxaca-90923"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-15"
-last_updated: "2024-12-21"
+last_updated: "2025-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ESTATAL DE HACIENDA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 15 de diciembre de 2012.
 
@@ -125,6 +125,10 @@ Son sujetos de este impuesto:
 
 I. Las personas físicas, morales o unidades económicas que organicen rifas, loterías, sorteos y concursos de toda clase que se celebren dentro del territorio del Estado.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Los sujetos referidos en esta fracción, deberán inscribirse en el Registro Estatal de Contribuyentes, así como cumplir con las obligaciones y avisos a su cargo establecidos en este capítulo.
+
 II. Las personas físicas, morales o unidades económicas que obtengan ingresos en efectivo o en especie por premios derivados de rifas, loterías, sorteos y concursos de toda clase, independientemente de que el organizador y el evento mismo de cuyo resultado dependan la obtención del ingreso, se encuentren y/o celebren dentro o fuera de la entidad.
 
 ###### ARTÍCULO 6.
@@ -151,23 +155,27 @@ II. Ingresos por la obtención de premios 6 por ciento.
 
 Las personas físicas, morales o unidades económicas que organicen o celebren eventos generadores de premios objeto de este impuesto, tendrán las siguientes obligaciones:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-I. Presentar ante la Secretaría, Centro Integral de Atención al Contribuyente o Módulo de Atención al Contribuyente que corresponda a su domicilio fiscal en el Estado, a más tardar cinco días hábiles antes de realizarse el evento:
+I. Presentar ante la Secretaría, Centro Integral de Atención al Contribuyente o Módulo de Atención al Contribuyente que corresponda a su domicilio fiscal en el Estado, a más tardar diez días hábiles antes de realizarse el evento:
 
-a) El aviso en el formato que para tal efecto emita la Secretaría;
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+a) Constancia de inscripción en el Registro Estatal de Contribuyentes y Formato de aviso del evento generador de premios conforme a lo establecido en las Reglas;
 
-b) Garantizar el interés fiscal que ampare el 6 por ciento del valor total del boletaje a vender, mediante efectivo o a través de medios electrónicos de pago autorizados, y
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+b) Garantizar el interés fiscal que ampare el 6 por ciento del valor total del boletaje a vender, mediante efectivo, a través de medios electrónicos de pago autorizados o cheque certificado, y
 
 c) En los casos de ampliación o suspensión del evento, presentar el aviso correspondiente a más tardar un día antes de la realización prevista.
 
-II. Presentar su declaración de pago dentro de los quince días siguientes a la realización de las rifas, loterías, sorteos o concursos, cuando se trate del impuesto causado conforme a la fracción I del artículo anterior de esta Ley.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DEL 2018)</small>
+II. Presentar su declaración de pago dentro de los quince días siguientes a la realización de las rifas, loterías, sorteos o concursos, cuando se trate del impuesto causado conforme a la fracción I del artículo 7 de esta Ley.
 
-III. Retener y enterar el impuesto retenido mediante declaración dentro (sic) los quince días siguientes a la entrega del premio, en la Secretaría o en los Centros Integrales de Atención al Contribuyente que corresponda a su domicilio fiscal en el Estado, para el caso de la fracción II del artículo anterior, y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+III. Retener y enterar el impuesto retenido mediante declaración, dentro de los quince días siguientes a la entrega del premio, en la Secretaría o en los Centros Integrales de Atención al Contribuyente que corresponda a su domicilio fiscal en el Estado, para el caso de la fracción II del artículo 7 de esta Ley; debiendo obtener la constancia de retención correspondiente.
 
 IV. Proporcionar, cuando lo solicite el interesado, constancia de retención de dicho impuesto.
 
@@ -175,7 +183,13 @@ IV. Proporcionar, cuando lo solicite el interesado, constancia de retención de 
 
 Ante el incumplimiento de cualquiera de las obligaciones previstas en las fracciones anteriores el sujeto obligado se hará acreedor a una multa por el equivalente de cincuenta a cien veces el valor de la Unidad de Medida y Actualización vigente.
 
-Cuando los sujetos obligados no garanticen el interés fiscal de conformidad con lo dispuesto por el inciso b) fracción I del presente artículo, la autoridad fiscal podrá suspender la organización o evento, hasta en tanto no se garantice el pago del impuesto, para lo cual el interventor designado podrá solicitar el auxilio de la fuerza pública.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Cuando los sujetos obligados no hayan garantizado el interés fiscal en el plazo y forma previstos en la fracción I inciso b) del presente artículo, a partir del día hábil siguiente al de la conclusión del plazo establecido para el cumplimiento de dicha obligación, la autoridad fiscal procederá a la suspensión de la organización o celebración del evento, hasta en tanto no se garantice el pago del impuesto, para lo cual, podrá solicitar la custodia del lugar con el auxilio de la fuerza pública para impedir el acceso al mismo o de las actividades para realizar dicho evento.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Tratándose de eventos que se organicen o celebren en un bien del dominio público, la suspensión se realizará en coordinación con la dependencia o entidad que lo administre.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
@@ -193,15 +207,27 @@ Estarán exentos de este impuesto, los ingresos obtenidos por la enajenación de
 
 ### CAPÍTULO SEGUNDO. SOBRE DIVERSIONES Y ESPECTÁCULOS PÚBLICOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 10.
 
-Es objeto de este impuesto la realización con fines lucrativos de cualquier diversión y espectáculo público, excepto todos aquellos por los que se esté obligado al pago del Impuesto al Valor Agregado.
+Es objeto de este impuesto la realización e intermediación con fines lucrativos de cualquier diversión y espectáculo público, excepto todos aquellos por los que se esté obligado al pago del Impuesto al Valor Agregado.
 
 Para efectos de este impuesto se entenderá como diversión y espectáculo público toda actividad de esparcimiento que se realice en un espacio donde se congrega el público para presenciarla, sea en teatros, estadios, explanadas, terrenos, circos o recintos semejantes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 11.
 
-Son sujetos de este impuesto las personas físicas, morales o unidades económicas, que habitual o eventualmente, obtengan un ingreso por la realización y/u organización de cualquier diversión o espectáculo público en el territorio del Estado.
+Son sujetos de este impuesto las personas físicas, morales o unidades económicas, que habitual o eventualmente, obtengan un ingreso por la realización, intermediación y/u organización de cualquier diversión o espectáculo público en el territorio del Estado.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Realizan intermediación las personas físicas, morales o unidades económicas, que habitual o eventualmente, obtengan un ingreso por los cobros adicionales al valor del boleto, independientemente del concepto con el que se le designe, para el acceso a la diversión o espectáculo público.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Los sujetos de este impuesto, deberán inscribirse en el Registro Estatal de Contribuyentes, así como cumplir con las obligaciones y avisos a su cargo establecidos en este capítulo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
@@ -211,9 +237,9 @@ Es base del pago de este impuesto, la cantidad que se cobre por la venta de bole
 
 En el caso de espectáculos públicos que condicione el acceso a la compra de un artículo en promoción se tomara como base del impuesto el precio comercial del artículo promocionado.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-En el supuesto de que los intermediarios encargados de venta de boletos realicen un cargo extra por la impresión o envío de los mismos, este importe formará parte de la base del pago de este impuesto.
+Los ingresos obtenidos en la intermediación por la venta de boletos, formarán parte de la base del pago de este impuesto, por lo que el organizador estará obligado a recaudar el impuesto correspondiente al intermediario y enterarlo en forma inmediata al momento de su determinación.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
@@ -221,45 +247,67 @@ En el supuesto de que los intermediarios encargados de venta de boletos realicen
 
 Este impuesto se calculará aplicando la tasa del 4 por ciento al monto total que se cobre por la venta de boletos de entrada o participación.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Los boletos o pases de cortesía para acceder a la diversión o espectáculo público, no deberán exceder de lo declarado en el aviso establecido en las fracciones I y III del artículo 15 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+En caso de contravenir lo dispuesto en el párrafo anterior, los sujetos obligados se harán acreedores a una multa de cincuenta a cien veces el valor de la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 14.
 
-El impuesto se pagará una vez que haya sido determinado por el interventor hasta antes del término del evento.
+El impuesto se pagará en forma inmediata, una vez que haya sido determinado por el interventor del evento.
 
 El interventor deberá observar las formalidades que para tal efecto se establecen en el Código.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 15.
 
-Los sujetos de este impuesto, tendrán a su cargo la obligación de presentar a más tardar tres días antes de realizarse el evento de diversión o espectáculo público, lo siguiente:
+Los sujetos de este impuesto, con excepción de los que realicen la intermediación, tendrán a su cargo la obligación de presentar ante la Secretaría, Centro Integral de Atención al Contribuyente o Módulo de Atención al Contribuyente que corresponda a su domicilio fiscal en el Estado, a más tardar diez días hábiles antes de realizarse el evento de diversión o espectáculo público, lo siguiente:
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
-I. El aviso en el formato que para tal efecto emita la Secretaría;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+I. Constancia de inscripción en el Registro Estatal de Contribuyentes y Formato de aviso del evento de diversión o espectáculo público conforme a lo establecido en las Reglas;
 
-II. Garantizar el interés fiscal que ampare el 4 por ciento del valor total del boletaje a vender, mediante efectivo o medios electrónicos de pago autorizados, y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DEL 2018)</small>
+II. Garantizar el interés fiscal que ampare el 4 por ciento del valor total del boletaje a vender, mediante efectivo, a través de medios electrónicos de pago autorizados o cheque certificado, y
 
-III. Presentar el aviso correspondiente en los casos de ampliación o suspensión del periodo de realización de la diversión o espectáculo, ante la Secretaría o en los Centros Integrales de Atención al Contribuyente que corresponda a su domicilio fiscal en el Estado, a más tardar el último día que comprenda el aviso cuya vigencia se vaya a ampliar o suspender.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+III. Formato de aviso en caso de ampliación para la realización o suspensión de la diversión o espectáculo conforme a lo establecido en las Reglas, a más tardar el último día hábil a que concluya el período señalado en el aviso a ampliar o suspender.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 Ante el incumplimiento de cualquiera de las obligaciones previstas en las fracciones anteriores el sujeto obligado se hará acreedor a una multa por el equivalente de cincuenta a cien veces el valor de la Unidad de Medida y Actualización vigente.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 16.
 
-Las personas físicas, morales o unidades económicas que realicen actividades de venta de boletos de diversiones o espectáculos deberán verificar previo a la venta de los boletos, se haya presentado el aviso a que refiere la fracción I del artículo 15 de la presente Ley; en caso contrario, se harán acreedores a una multa por el equivalente de cincuenta a cien veces el valor de la Unidad de Medida y Actualización vigente.
+Las personas físicas, morales o unidades económicas que realicen la intermediación en la venta de boletos de la diversión o espectáculo público, tendrán las siguientes obligaciones:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+I. Inscribirse con ese carácter en el Registro Estatal de Contribuyentes;
+
+II. Verificar que, previo a la venta de los boletos, se haya presentado el aviso a que refiere la (sic) fracciones I y III del artículo 15 de la presente Ley, y
+
+III. Efectuar el pago del impuesto a su cargo por los ingresos obtenidos en la intermediación por la venta de boletos, al organizador del evento.
+
+Si el intermediario realiza la venta de boletos sin haber verificado el cumplimiento a lo dispuesto en la fracción II de este artículo, se hará acreedor a una multa de cincuenta a cien veces el valor de la Unidad de Medida y Actualización vigente, la cual se hará efectiva conjuntamente con el impuesto que se determine a su cargo por la autoridad fiscal.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 17.
 
-Cuando los sujetos de este impuesto, obligados a garantizar el interés fiscal de acuerdo con lo dispuesto en el artículo 15 fracción II de la presente Ley, no hubieren cumplido tal obligación, la autoridad fiscal podrá suspender la diversión o espectáculo, hasta en tanto no se garantice el pago del impuesto, para lo cual el interventor designado podrá solicitar el auxilio de la fuerza pública.
+Cuando los sujetos obligados de este impuesto, no hayan garantizado el interés fiscal en el plazo y forma previstos en el párrafo primero y fracción II del artículo 15 de la presente Ley, a partir del día hábil siguiente al de la conclusión del plazo para el cumplimiento de dicha obligación, la autoridad fiscal procederá a la suspensión de la organización o celebración de la diversión o espectáculo público, hasta en tanto no se garantice el pago del impuesto, para lo cual, podrá solicitar la custodia del lugar con el auxilio de la fuerza pública para impedir el acceso al mismo o de las actividades para realizar dicho evento.
+
+Tratándose de diversiones o espectáculos públicos que se organicen o celebren en espacios de dominio público, la suspensión se realizará en coordinación con la dependencia o entidad que administre el bien.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DEL 2018)</small>
 
@@ -323,9 +371,11 @@ III. Que los boletos o pases de cortesía otorgados, no excedan del 5 por ciento
 
 Tratándose de las instituciones de beneficencia pública deberán acreditar con el instrumento jurídico que reconozca debidamente su situación; los artistas o grupos independientes, deberán acreditar su calidad con el documento oficial que expida la Secretaría de las Culturas y Artes.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 21.
 
-La omisión del aviso a que se refiere el artículo anterior, tendrá como consecuencia que los ingresos obtenidos por las diversiones y espectáculos públicos serán sujetos del presente Capítulo.
+La omisión en la presentación del aviso a que se refiere la fracción I del párrafo tercero del artículo 20 de esta Ley, tendrá como consecuencia que los ingresos obtenidos por las diversiones y espectáculos públicos, serán sujetos al pago del impuesto en los términos del presente Capítulo.
 
 ### CAPÍTULO TERCERO
 
@@ -346,6 +396,10 @@ Se consideran ingresos por otorgar el uso o goce temporal de bienes inmuebles lo
 I. Los provenientes de arrendamiento o subarrendamiento o en general, por otorgar a título oneroso el uso o goce temporal de bienes inmuebles en cualquier otra forma, y
 
 II. Los rendimientos de certificados de participación inmobiliaria no amortizables.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+También se considerarán objeto de este impuesto, los ingresos determinados presuntivamente por las autoridades fiscales, cuando se actualicen los supuestos previstos en las disposiciones fiscales.
 
 Para los efectos de este capítulo, se consideran ingresos gravables por este impuesto, los percibidos en efectivo, bienes, servicios y crédito.
 
@@ -373,29 +427,51 @@ Los responsables solidarios deberán retener y enterar el impuesto conforme al p
 
 Los Contribuyentes que se les haya retenido dicho impuesto lo podrán acreditar al impuesto determinado, siempre y cuando los Gobiernos Federal, Estatal y Municipal, los poderes, Órganos Autónomos, Dependencias, Órganos Desconcentrados, Entidades, Órganos Descentralizados, Auxiliares de Colaboración, Empresas de participación Estatal y los Fideicomisos Públicos de los tres órdenes de Gobierno, hayan enterado la retención ante la Secretaría de Finanzas, en el período correspondiente.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DEL 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 24.
 
-La base de este impuesto son los ingresos obtenidos por los conceptos a que refiere el artículo que antecede, pudiéndose efectuar las deducciones siguientes:
+La base de este impuesto son los ingresos obtenidos por los conceptos a que refiere el artículo 23, pudiéndose efectuar las deducciones siguientes:
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DEL 2018)</small>
 
 I. Los pagos efectuados por el Impuesto Predial correspondiente al año de calendario sobre dichos inmuebles, así como por las contribuciones de mejoras que afecten a los mismos;
 
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DEL 2018)</small>
+
 II. Los gastos de mantenimiento que no impliquen adiciones o mejoras al bien de que se trate y por consumo de agua, siempre que no los paguen quienes usen o gocen el inmueble;
 
-III. Los intereses nominales pagados por préstamos utilizados para la compra, construcción o mejoras de los bienes inmuebles;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+III. Los intereses reales pagados por préstamos utilizados para la compra, construcción o mejoras de los bienes inmuebles, siempre y cuando obtenga el comprobante fiscal correspondiente.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Se consideran intereses reales los montos en que dichos intereses excedan del ajuste anual por inflación. Para determinar el interés real se aplicará en lo conducente lo dispuesto en el artículo 134 de la Ley del Impuesto Sobre la Renta.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DEL 2018)</small>
 
 IV. Los salarios, comisiones, honorarios, así como los impuestos, cuotas o contribuciones que conforme a la ley les corresponda cubrir sobre dichos salarios, efectivamente pagados.
 
 Los salarios serán deducibles siempre y cuando se cumpla la obligación de inscribir a sus trabajadores en el Instituto Mexicano del Seguro Social y tengan enteradas en tiempo y forma las cuotas obrero- patronales correspondientes. Los salarios, comisiones y honorarios, pagados por quien concede el uso o goce temporal de bienes inmuebles en un año de calendario, no deberán exceder en su conjunto, del 10 por ciento de los ingresos anuales obtenidos por conceder el uso o goce temporal de bienes inmuebles;
 
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DEL 2018)</small>
+
 V. El importe de las primas de seguros que amparen los bienes respectivos, y
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DEL 2018)</small>
 
 VI. Las inversiones en construcciones, incluyendo adiciones y mejoras.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DEL 2018)</small>
+
 Los contribuyentes que otorguen el uso o goce temporal de bienes inmuebles podrán optar por deducir el 35 por ciento de los ingresos a que se refiere este capítulo, en substitución de las deducciones señaladas en este artículo. Quienes ejerzan esta opción podrán deducir, además, el monto de las erogaciones por concepto del Impuesto Predial de dichos inmuebles correspondientes al año de calendario o al periodo durante el cual se obtuvieron los ingresos según corresponda.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DEL 2018)</small>
+
 Los contribuyentes que ejerzan la opción prevista en el párrafo anterior, lo deberán hacer por todos los inmuebles por los que otorguen el uso o goce temporal, incluso por aquellos en los que tengan el carácter de copropietarios, a más tardar en la fecha en la que se presente la primera declaración que corresponda al año de calendario de que se trate, y una vez ejercida no podrá variarse en los pagos de dicho año, pudiendo cambiar la opción al presentar la primera declaración del año siguiente.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DEL 2018)</small>
 
 En el caso de copropietarios, cada uno podrá efectuar las deducciones que le correspondan, multiplicando la cantidad que corresponda, por los conceptos y en los términos de este artículo, por el porcentaje que resulte de participación en la propiedad, según conste en el documento constitutivo de la copropiedad sobre el bien común.
 
@@ -403,13 +479,23 @@ En el caso de copropietarios, cada uno podrá efectuar las deducciones que le co
 
 Cuando se determinen en forma presuntiva los ingresos por este impuesto, los contribuyentes podrán optar por que las autoridades fiscales apliquen la deducción del 35 por ciento de los ingresos determinados presuntivamente y al resultado se le aplique la tasa a que se refiere el artículo 26 de esta ley.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DEL 2018)</small>
+
 Tratándose de subarrendamiento, sólo se deducirá el importe de las rentas que pague el arrendatario al arrendador.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DEL 2018)</small>
 
 Cuando el contribuyente ocupe parte del bien inmueble del cual derive el ingreso por otorgar el uso o goce temporal del mismo u otorgue su uso o goce temporal de manera gratuita, no podrá deducir la parte de los gastos, así como tampoco el Impuesto Predial y las contribuciones de mejoras que correspondan proporcionalmente a la unidad por él ocupada o de la otorgada gratuitamente. En los casos de subarrendamiento, el subarrendador no podrá deducir la parte proporcional del importe de las rentas pagadas que correspondan a la unidad que ocupe o que otorgue gratuitamente.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DEL 2018)</small>
+
 La parte proporcional a que se refiere el párrafo que antecede, se calculará considerando el número de metros cuadrados de construcción de la unidad por él ocupada u otorgada de manera gratuita en relación con el total de metros cuadrados de construcción del bien inmueble.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DEL 2018)</small>
+
 Los contribuyentes al efectuar los pagos a que se refiere este capítulo, harán las deducciones a que se refiere este artículo, que correspondan al periodo por el que se presente la declaración. Cuando las deducciones no se efectúen dentro del periodo al que corresponden, se podrán efectuar en los siguientes periodos del mismo año calendario.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DEL 2018)</small>
 
 Tratándose de inversiones, los contribuyentes de este impuesto podrán deducir de los ingresos del periodo, la sexta parte de la deducción que corresponda al año calendario, independientemente del uso que se dé al inmueble de que se trate.
 
@@ -420,6 +506,8 @@ En el caso de que los ingresos percibidos sean inferiores a las deducciones del 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
 Las deducciones a que se refiere este artículo deberán estar relacionadas con los inmuebles por los que se obtengan los ingresos materia de este impuesto y deberán reunir los requisitos fiscales previstos en la Ley del Impuesto Sobre la Renta y el Código Fiscal de la Federación.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DEL 2018)</small>
 
 Cuando el uso o goce temporal del bien de que se trate no se hubiese otorgado por todo el año calendario, las deducciones a que se refieren las fracciones I a V de este artículo se aplicarán únicamente cuando correspondan al periodo por el cual se otorgó el uso o goce temporal del bien inmueble o a los tres meses inmediatos anteriores en que se otorgue dicho uso o goce.
 
@@ -513,9 +601,13 @@ El pago de este impuesto se efectuará mediante declaración bimestral definitiv
 
 Los sujetos obligados al pago de este impuesto deberán presentar declaración anual informativa del ejercicio dentro de los tres meses siguientes al cierre del mismo, cuando hayan obtenido ingresos anuales superiores a $5,000.00.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-La presentación de declaración informativa a que refiere el párrafo anterior se realizará en el formato y conforme a las reglas de carácter general que emita la Secretaría.
+La presentación de declaraciones a que refiere este artículo se realizará en el formato y conforme a las Reglas.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Los sujetos obligados al pago de este impuesto, tendrán a su cargo la obligación de llevar contabilidad de conformidad con el Código.
 
 ### CAPÍTULO QUINTO. SOBRE TENENCIA O USO DE VEHÍCULOS
 
@@ -1131,27 +1223,25 @@ II. Los servidores públicos que autoricen cualquier trámite relacionado con ve
 
 ### CAPÍTULO SÉPTIMO. SOBRE LA PRESTACIÓN DE SERVICIOS DE HOSPEDAJE
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 52.
 
-Es objeto de este impuesto, el servicio de hospedaje que se reciba en hoteles, moteles, albergues, posadas, hosterías, mesones, campamentos, paraderos de casas rodantes, casas de huéspedes, casas y departamentos total o parcialmente, y otros establecimientos que presten servicios de esta naturaleza, incluyendo los prestados bajo la modalidad de tiempo compartido.
+Es objeto de este impuesto, los servicios de hospedaje que se presten en:
+
+I. Hoteles, moteles, albergues, posadas, hosterías, mesones, casas de huéspedes, cabañas, bungalows, áreas de pernoctación destinadas a albergues móviles, tales como campamentos o paraderos de casas rodantes, y otros establecimientos que presten servicios de esta naturaleza, incluyendo los prestados bajo la modalidad de tiempo compartido; y
+
+II. Departamentos y casas utilizadas total o parcialmente para dicho fin.
+
+También se considerará objeto de este impuesto, el importe determinado por las autoridades fiscales inclusive de manera presuntiva, en los casos en que proceda conforme a las disposiciones fiscales aplicables.
 
 No se considerarán servicios de hospedaje, el albergue o alojamiento prestados por hospitales, clínicas, asilos, conventos, seminarios, internados y aquellos prestados por establecimientos con fines no lucrativos.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 53.
 
-Son sujetos obligados al pago del impuesto que establece este capítulo, las personas físicas, morales o unidades económicas que dentro del estado de Oaxaca, reciban los servicios señalados en el artículo anterior.
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-Las personas físicas, morales o unidades económicas que en su carácter de intermediarias, promotoras o facilitadoras intervengan de cualquier forma en el cobro de las contraprestaciones por servicio de hospedaje y en caso de que se cubra a través de ellas lo correspondiente al impuesto, deberán inscribirse al padrón del impuesto correspondiente en su carácter de intermediario, promotor o facilitador a efecto de coadyuvar en la recaudación y entero de dicho impuesto. La Secretaría emitirá Reglas que determine la forma de alta y baja del registro y de la presentación de las declaraciones correspondientes.
-
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
-
-Los responsables solidarios del pago de este impuesto deberán cumplir con las obligaciones señaladas en el artículo 57 de esta Ley.
+Son sujetos obligados al pago del impuesto que establece este capítulo, las personas físicas, morales o unidades económicas que dentro del estado de Oaxaca, presten los servicios señalados en el artículo 52 de esta Ley, así como los que realicen la intermediación, promoción o facilitación de dichos servicios.
 
 ###### ARTÍCULO 54.
 
@@ -1161,43 +1251,45 @@ No formará parte de la base del impuesto el importe de los pagos efectuados por
 
 Cuando los servicios de hospedaje incluyan servicios accesorios, tales como transporte, alimentación, lavandería, uso de instalaciones y otros similares, y en la documentación comprobatoria no se desglosen de tal forma que permitan acreditar la prestación de estos últimos, se entenderá que el valor de la contraprestación respectiva corresponde en su totalidad a servicios de hospedaje.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Las autoridades fiscales podrán determinar presuntivamente la base para el cálculo y determinación del impuesto, cuando se actualicen los supuestos previstos en las leyes fiscales.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 55.
 
-Este impuesto se calculará aplicando a la base la tasa del 3 por ciento.
+Este impuesto se calculará aplicando a la base, la tasa del 3 por ciento, para los supuestos establecidos en la fracción I del artículo 52 de esta Ley.
+
+Tratándose de los supuestos contemplados en la fracción II del artículo 52 de esta Ley, quien cobre las contraprestaciones por los servicios de hospedaje, ya sean los prestadores de servicios, los intermediarios, promotores o facilitadores, deberán calcularlo aplicando la tasa del 5 por ciento.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 56.
 
-Los sujetos obligados de este impuesto, deberán pagarlo en el momento de liquidar el importe de los servicios de hospedaje.
+Los prestadores de los servicios de hospedaje, así como los intermediarios, promotores o facilitadores a que se refiere el artículo 52 de esta Ley, deberán trasladar el impuesto a las personas que reciban dichos servicios, y enterarlo a la Secretaría con base en lo dispuesto por el artículo 57 de la presente Ley.
 
-Los prestadores de los servicios a que hace referencia el artículo 52 de esta Ley, deberán retener dicho impuesto al momento de hacer efectivo los importes señalados en el artículo 54 del mismo ordenamiento y enterarlo a la Secretaría con base en lo dispuesto por el artículo 57 de la presente Ley.
+Se entenderá por traslado del impuesto, el cobro o cargo que el contribuyente debe hacer a las personas que reciban el servicio, de un monto equivalente al impuesto establecido en esta Ley.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-En los supuestos previstos en el primer párrafo del artículo 52, cuando intervenga una persona física, moral o unidad económica en su carácter de intermediario, promotor o facilitador en el cobro de las contraprestaciones por servicios de hospedaje, y en caso de que se cubra a través de ella lo correspondiente al impuesto, ésta deberá ser quien entere el pago del impuesto correspondiente a la autoridad fiscal.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 57.
 
-Son responsables solidarios del pago de este impuesto, los prestadores de los servicios de hospedaje, quienes tendrán las siguientes obligaciones:
+Los sujetos obligados al pago de este impuesto tendrán las obligaciones siguientes:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+I. Enterar una cantidad equivalente a la que debieron cobrar en los términos de este capítulo, aun cuando no hubieren efectuado el cobro correspondiente o no hayan recibido el pago de las contraprestaciones relativas al servicio prestado;
 
-I. Enterar una cantidad equivalente a la que debieron retener en los términos de este capítulo, aún cuando no hubieren hecho la retención correspondiente o no hayan recibido el pago de las contraprestaciones relativas al servicio prestado;
+II. El pago de este impuesto se efectuará mediante declaración bimestral definitiva que deberá ser presentada en los primeros 17 días de los meses de marzo, mayo, julio, septiembre, noviembre, y enero del año siguiente;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+III. Presentar declaración anual informativa del ejercicio dentro de los tres meses siguientes al cierre del mismo, cuando hayan obtenido ingresos anuales superiores a $100,000.00;
 
-II. El pago de este impuesto se efectuará mediante declaración bimestral definitiva que deberá ser presentada en los primeros 17 días de los meses de marzo, mayo, julio, septiembre, noviembre, y enero del año siguiente, y
+IV. Llevar la contabilidad de conformidad con el Código, y
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
-
-III. Presentar declaración anual informativa del ejercicio dentro de los tres meses siguientes al cierre del mismo, cuando hayan obtenido ingresos anuales superiores a $100,000.00.
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+V. Realizar su inscripción al Registro Estatal de Contribuyentes. Los intermediarios, promotores o facilitadores, deberán inscribirse con ese carácter.
 
 Tratándose de contribuyentes con establecimientos en diversos lugares del territorio del Estado, deberán presentar una sola declaración en la Secretaría o en las oficinas autorizadas que correspondan, o bien, a través de la página de internet de la Secretaría, acumulando en la misma el valor total de las operaciones realizadas en los diversos establecimientos y el total del impuesto retenido.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
-
-La presentación de declaración informativa a que refiere este artículo se realizará en el formato y conforme a las reglas de carácter general que emita la Secretaría.
+La inscripción y presentación de las declaraciones a que refiere este artículo, se realizará en el formato y conforme a las Reglas que emita la Secretaría.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2022)</small>
 
@@ -1206,6 +1298,10 @@ La presentación de declaración informativa a que refiere este artículo se rea
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ARTÍCULO 57 A. Es objeto de este impuesto la venta final de bebidas con contenido alcohólico en envase cerrado, con excepción de la cerveza, el aguamiel y productos derivados de su fermentación, ya que se encuentran expresamente reservadas a la Federación.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+También se considerará objeto de este impuesto, la venta final determinada presuntivamente por las autoridades fiscales, en los casos en que proceda conforme a las disposiciones fiscales aplicables.
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
 
@@ -1246,6 +1342,10 @@ ARTÍCULO 57 B. Son sujetos de este impuesto, las personas físicas, morales o u
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
 
 ARTÍCULO 57 C. La base para el cálculo y determinación de este impuesto, será el precio de la venta final de las bebidas con contenido alcohólico, sin incluir los Impuestos al Valor Agregado, ni el Impuesto Especial sobre Producción y Servicios.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Las autoridades fiscales podrán determinar presuntivamente la venta final de bebidas con contenido alcohólico para el cálculo y determinación del impuesto cuando se actualicen los supuestos previstos en las leyes fiscales.
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
 
@@ -1291,9 +1391,11 @@ Es objeto de este impuesto la realización de pago por concepto de derechos prev
 
 Los ingresos obtenidos por la recaudación de este impuesto, se destinarán a Programas Bienestar y los que fomenten la educación y la no deserción escolar en congruencia a los contenidos del Plan Estatal de Desarrollo.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 59.
 
-Son sujetos de este impuesto, las personas físicas, morales o unidades económicas, que efectúen las erogaciones a que se refiere el artículo anterior.
+Son sujetos de este impuesto, las personas físicas, morales o unidades económicas, que efectúen las erogaciones a que se refiere el artículo 58 de esta Ley.
 
 ###### ARTÍCULO 60.
 
@@ -1375,9 +1477,15 @@ En el caso de la fracción primera de este artículo, las personas físicas, mor
 
 En el caso de la fracción II de este artículo, las personas físicas, morales o unidades económicas que contraten la prestación de servicios con personas domiciliadas fuera del territorio del Estado, cuando el servicio personal se preste en los términos de la misma fracción, estarán obligadas a enterar el impuesto que corresponda de conformidad con lo previsto en el presente Capítulo.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+También se consideran objeto de este impuesto, las erogaciones por remuneraciones al trabajo personal en efectivo o en especie determinadas presuntivamente por las autoridades fiscales, en los casos en que proceda conforme a las disposiciones fiscales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 64.
 
-Son sujetos de este impuesto las personas físicas, morales o unidades económicas que realicen las erogaciones a que se refiere el artículo anterior, así como los Gobiernos Federal, Estatal y Municipal, los Poderes, Órganos Autónomos, Dependencias, Órganos Desconcentrados, Entidades: Organismos Descentralizados, Auxiliares de Colaboración, Empresas de Participación Estatal y los Fideicomisos Públicos de los tres órdenes de Gobierno.
+Son sujetos de este impuesto las personas físicas, morales o unidades económicas que realicen las erogaciones a que se refiere el artículo 63 de esta Ley, así como los Gobiernos Federal, Estatal y Municipal, los Poderes, Órganos Autónomos, Dependencias, Órganos Desconcentrados, Entidades: Organismos Descentralizados, Auxiliares de Colaboración, Empresas de Participación Estatal y los Fideicomisos Públicos de los tres órdenes de Gobierno.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2021)</small>
 
@@ -1403,11 +1511,15 @@ Para determinar la cantidad a retener se tomará como base del impuesto, los con
 
 La base del impuesto es el monto total de las erogaciones realizadas por concepto de remuneraciones al trabajo personal en términos del artículo 63 de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Al importe de la determinación presuntiva de las erogaciones en efectivo o en especie por concepto de remuneraciones al trabajo personal, se aplicará la tasa que corresponda al impuesto en los términos de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 66.
 
-Este impuesto se calculará aplicando la tasa del 3 por ciento sobre la base que señala el artículo anterior.
+Este impuesto se calculará aplicando la tasa del 3 por ciento sobre la base que señala el artículo 65 de esta Ley.
 
 Este impuesto se causará en el momento en que se realice el pago de las remuneraciones por la prestación del trabajo personal.
 
@@ -1543,6 +1655,10 @@ a) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2019)
 
 b) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2019)
 
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+V. Llevar la contabilidad de conformidad con el Código.
+
 La presentación de declaraciones informativas a que refiere este artículo se realizará en los formatos y conforme a las reglas de carácter general que emita la Secretaría.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2019)</small>
@@ -1552,6 +1668,10 @@ La presentación de declaraciones informativas a que refiere este artículo se r
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
 ARTÍCULO 69 A. Es objeto de este impuesto la extracción del suelo y subsuelo de materiales que constituyan depósitos de igual naturaleza a los componentes de los terrenos, aun y cuando constituyan vetas, mantos o yacimientos, tales como los agregados pétreos, la andesita, las arcillas, la arena, el azufre, la caliza, la grava, la riolita, las rocas dimensionables, la sal, la vermiculita, el yeso, piedras y sustrato o capa fértil.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+También se considerarán objeto de este impuesto, el volumen de metros cúbicos de material extraído determinados presuntivamente por las autoridades fiscales, en los casos en que proceda conforme a las disposiciones fiscales aplicables.
 
 Para estos efectos, la extracción deberá realizarse por medio de trabajos a cielo abierto en el territorio del Estado. No se considerarán objeto de este impuesto los minerales o sustancias a que hace referencia el artículo 4 de la Ley Minera.
 
@@ -1664,6 +1784,10 @@ I. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2024)
 II. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2024)
 
 III. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2024)
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Se consideran otros aprovechamientos, el importe de los ingresos percibidos bajo este concepto, por la aplicación de gravámenes sobre las herencias, legados y donaciones, servicio del sistema escolar federalizado, juegos y sorteos, donativos en efectivo del Poder Ejecutivo y de particulares, patrimonio invertido del Poder Ejecutivo, explotación de obras del dominio público, servicios públicos, entre otros, de conformidad con las disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
@@ -1892,3 +2016,11 @@ P.O. 21 DE DICIEMBRE DE 2024.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veinticinco, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 884.- MEDIANTE EL CUAL REFORMAN, LA FRACCIÓN I Y SUS INCISOS A) Y B ), LA FRACCIÓN II, LA FRACCIÓN III Y EL PÁRRAFO TERCERO DEL ARTÍCULO 8; EL PÁRRAFO PRIMERO DEL ARTÍCULO 10; EL PÁRRAFO PRIMERO DEL ARTÍCULO 11; EL PÁRRAFO TERCERO DEL ARTÍCULO 12; EL PÁRRAFO PRIMERO DEL ARTÍCULO 14; EL PÁRRAFO PRIMERO Y SUS FRACCIONES I, II Y III DEL ARTÍCULO 15; EL ARTÍCULO 16; EL ARTÍCULO 17; EL ARTÍCULO 21; EL PÁRRAFO PRIMERO Y LA FRACCIÓN III DEL ARTÍCULO 24; EL PÁRRAFO TERCERO DEL ARTÍCULO 33; EL ARTÍCULO 52; EL ARTÍCULO 53; EL ARTÍCULO 55; EL ARTÍCULO 56; EL ARTÍCULO 57; EL ARTÍCULO 59; EL PÁRRAFO PRIMERO DEL ARTÍCULO 64; Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 66; Y SE ADICIONAN, UN PÁRRAFO SEGUNDO A LA FRACCIÓN I DEL ARTÍCULO 5; UN PÁRRAFO CUARTO, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES, DEL ARTÍCULO 8; LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 11; LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 13; UN PÁRRAFO TERCERO, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES, DEL ARTÍCULO 23; UN PÁRRAFO SEGUNDO A LA FRACCIÓN III DEL ARTÍCULO 24; UN PÁRRAFO CUARTO AL ARTÍCULO 33; UN PÁRRAFO CUARTO AL ARTÍCULO 54; UN PÁRRAFO SEGUNDO, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES, DEL ARTÍCULO 57 A; UN PÁRRAFO SEGUNDO AL ARTÍCULO 57 C; UN PÁRRAFO SEXTO AL ARTÍCULO 63; UN PÁRRAFO SEGUNDO AL ARTÍCULO 65; UNA FRACCIÓN V AL ARTÍCULO 69; UN PÁRRAFO SEGUNDO, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES, DEL ARTÍCULO 69 A; Y UN PÁRRAFO SEGUNDO, RECORRIÉNDOSE EN SU ORDEN EL SUBSECUENTE, DEL ARTÍCULO 73; TODOS DE LA LEY ESTATAL DE HACIENDA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veintiséis, previa publicación en el Periódico Oficial del Gobierno del Estado.
