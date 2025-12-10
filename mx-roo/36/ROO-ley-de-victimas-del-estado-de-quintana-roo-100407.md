@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-victimas-del-estado-de-quintana-roo-100407"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-07"
-last_updated: "2024-06-04"
+last_updated: "2025-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100407&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE VÍCTIMAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 7 de abril de 2014.
 
@@ -1193,23 +1193,37 @@ El Sistema Estatal de Atención a Víctimas será la instancia de coordinación 
 
 I. Del Poder Ejecutivo:
 
-a) El Titular del Poder Ejecutivo del Estado, quien lo presidirá;
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-b) El Titular de la Secretaría de Gobierno;
+a) La persona titular del Poder Ejecutivo del Estado, quien lo presidirá;
 
-c) El Titular de la Secretaría de Finanzas y Planeación del Estado;
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-d) El Titular de la Secretaría de Salud del Estado;
+b) La persona titular de la Secretaría de Gobierno;
 
-e) El Titular de la Secretaría de Seguridad Pública del Estado;
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-f) El Titular de la Secretaría de Trabajo y Previsión Social del Estado;
+c) La persona titular de la Secretaría de Finanzas y Planeación del Estado;
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+d) La persona titular de la Secretaría de Salud del Estado;
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+e) La persona titular de la Secretaría de Seguridad Ciudadana del Estado;
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+f) La persona titular de la Secretaría de Trabajo y Previsión Social del Estado;
 
 > <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
 
 g) La persona Titular de la Secretaría de Bienestar del Estado de Quintana Roo, y
 
-h) El Titular de la Secretaría de Educación del Estado.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+h) La persona titular de la Secretaría de Educación del Estado.
 
 II. Del Poder Legislativo:
 
@@ -1219,19 +1233,31 @@ b) Quien presida la Comisión de Derechos Humanos.
 
 III. Del Poder Judicial:
 
-a) El Presidente del Tribunal Superior de Justicia.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+a) La persona titular de la Presidencia del Tribunal Superior de Justicia.
 
 IV. De los Organismos descentralizados o autónomos:
 
-a) El Titular del Sistema para el Desarrollo Integral de la Familia del Estado;
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-b) El titular del Instituto Quintanarroense de la Mujer;
+a) La persona titular del Sistema para el Desarrollo Integral de la Familia del Estado;
 
-c) El Titular de la Comisión de los Derechos Humanos del Estado;
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-d) El Titular de la Fiscalía General del Estado, y
+b) La persona titular de la Secretaría de las Mujeres;
 
-e) El Titular de la Comisión Ejecutiva Estatal.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+c) La persona titular de la Comisión de los Derechos Humanos del Estado;
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+d) La persona titular de la Fiscalía General del Estado, y
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+e) La persona titular de la Comisión Ejecutiva Estatal.
 
 Todas estas autoridades estarán obligadas a observar y supervisar, en el ámbito de sus competencias, la aplicación del Modelo Integral de Atención a Víctimas, publicado en el Diario Oficial de la Federación.
 
@@ -2614,3 +2640,11 @@ SEGUNDO. En un plazo que no exceda los ciento ochenta días naturales posteriore
 TERCERO. La Comisión Ejecutiva de Atención a Víctimas y el Poder Judicial del Estado de Quintana Roo, incluirán en su Proyecto de Presupuesto de Egresos para el Ejercicio Fiscal 2025 y sucesivos, los recursos necesarios para su ejecución de lo establecido en el presente Decreto.
 
 CUARTO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 184 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE QUINTANA ROO, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO, DE LA LEY DE SEGURIDAD CIUDADANA DEL ESTADO DE QUINTANA ROO, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, DE LA LEY DE LA JUVENTUD DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, DE LA LEY DE PREVENCIÓN, ATENCIÓN INTEGRAL Y CONTROL PARA EL VIH DEL ESTADO DE QUINTANA ROO, DE LA LEY DE SEGURIDAD ESCOLAR INTEGRAL DEL ESTADO DE QUINTANA ROO, DE LA LEY DE VÍCTIMAS DEL ESTADO DE QUINTANA ROO Y DE LA LEY EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones legales, de igual o menor jerarquía, que se opongan al contenido del presente Decreto.
