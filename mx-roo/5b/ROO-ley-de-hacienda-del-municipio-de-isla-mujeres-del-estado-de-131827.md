@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-isla-mujeres-del-estado-de-131
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-29"
-last_updated: "2025-07-03"
+last_updated: "2025-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE ISLA MUJERES DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número 154 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 29 de noviembre de 2018.
 
@@ -66,6 +66,22 @@ La administración y recaudación de los gravámenes fiscales previstos en esta 
 Los ingresos municipales deberán determinarse, liquidarse y recaudarse y la facultad económica coactiva, ejercitarse conforme a lo señalado en el Código Fiscal Municipal para el Estado de Quintana Roo y en las leyes fiscales aprobadas por la Legislatura del Estado.
 
 La recaudación y administración de los impuestos, derechos, productos y aprovechamientos a que se refiere esta ley, es competencia de la Tesorería de Isla Mujeres sus dependencias, direcciones, unidades administrativas y auxiliares, en los términos previstos por sus respectivos reglamentos interiores.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 4 Bis.
+
+Los pagos de todas las contribuciones e ingresos que se establecen en esta Ley deberán realizarse a través de los medios físicos, electrónicos o digitales que determine el Ayuntamiento.
+
+El pago de las contribuciones, impuestos, productos, derechos, aprovechamientos y demás ingresos determinados en esta Ley, se acreditarán con los siguientes comprobantes: recibo oficial, recibo oficial electrónico y/o comprobante fiscal digital por internet (CFDI) expedidos por la Tesorería Municipal.
+
+En caso de que el pago sea efectuado a través del portal de internet, cajero de cobro automático o aplicaciones digitales para realizar trámites en línea, el recibo oficial electrónico que se emita, podrá ser impreso en el momento del pago y servirá como comprobante del mismo.
+
+Si el pago se realiza a través de transferencias electrónicas, o en las instituciones de crédito, o establecimientos de personas morales autorizadas, se podrá acreditar el pago mediante el recibo oficial electrónico que autorice la Tesorería Municipal para tal efecto.
+
+La dependencia, unidad administrativa o la persona servidora pública que preste un servicio o trámite por el que se deba pagar algún derecho, procederá a realizar dicho trámite o servicio, previa presentación del comprobante que acredite su pago o previa verificación del pago en los medios que para tal efecto disponga la Tesorería Municipal, mediante disposiciones administrativas.
+
+Los tribunales no podrán conceder medidas cautelares para ordenar la prestación de un servicio público, hasta en tanto no se verifique el pago de las contribuciones previstas en esta Ley.
 
 ###### Artículo 5.
 
@@ -134,6 +150,10 @@ XV. Hacienda Municipal: La Hacienda Pública Municipal, se formará por los bien
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
 XVI. Ley de Hacienda o Ley: Ley de Hacienda del Municipio de Isla Mujeres del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XVI Bis. Mesas de hospitalidad: Espacio reservado en centros de hospedaje y hoteles, en el cual se brinda atención personalizada a los huéspedes, información útil sobre el lugar o para resolver cualquier duda o problema durante su estancia.
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
@@ -449,9 +469,9 @@ II. Los inmuebles pertenecientes a los institutos de vivienda del Estado o Munic
 
 III. El fundo legal.
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-IV. La propiedad comunal ejidal, parcelaria, de dominio pleno, cuando éstos pertenezcan a ejidatarios del núcleo ejidal de que se trate, con excepción de solares urbanos.
+IV. La propiedad comunal ejidal, parcelaria, de dominio pleno, cuando éstos pertenezcan al núcleo ejidal de que se trate, con excepción de solares urbanos.
 
 ###### Artículo 21.
 
@@ -466,6 +486,10 @@ II. Hasta un 15% si se cubre en una sola emisión y el pago se efectúa el últi
 III. Hasta un 50% si se cubre en una sola emisión durante el periodo del ejercicio fiscal del año al que se deba realizar el pago si el contribuyente es una persona con discapacidad, pensionado, jubilado o cuente con su credencial del INAPAM o INSEN. Este beneficio se aplicará a un solo inmueble del contribuyente, siempre y cuando dicho inmueble corresponda al domicilio de su propia casa habitación y cuyo valor catastral no exceda de veinte mil UMA.
 
 IV. El Ayuntamiento, en las situaciones de emergencia derivadas de desastres naturales, declaradas por el Titular del Ejecutivo del Estado, podrá conceder estímulos fiscales a los contribuyentes hasta de un 50% del monto del impuesto predial, cuando éste sea cubierto en una sola emisión, por anticipado y cubra todo el año, y sea enterado en la Tesorería Municipal antes del 31 de diciembre del año de la contingencia, y hasta un 25% del total del importe, si el pago se realiza en los meses de enero y febrero del año siguiente.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Para efectos de la fracción III se considerará cualquier documento que acredite su condición y/o edad.
 
 ### CAPÍTULO II. Del Impuesto Sobre Adquisición de Bienes Inmuebles
 
@@ -565,9 +589,11 @@ A efecto de acreditar dicho supuesto, las autoridades fiscales, en cualquier mom
 
 #### SECCIÓN IV. De la Época y forma de pago
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 27.
 
-El pago del impuesto deberá hacerse dentro de los quince días siguientes a aquél en que se realicen cualquiera de los supuestos que a continuación se señalan:
+El pago de este impuesto deberá efectuarse dentro de los quince días hábiles siguientes a que se actualicen cualquiera de los siguientes supuestos:
 
 I. Cuando se constituya o adquiera el usufructo o la nuda propiedad. En el caso de usufructo temporal, cuando se extinga;
 
@@ -585,13 +611,13 @@ V. En los casos no previstos en las fracciones anteriores, cuando los actos de q
 
 El pago del impuesto se hará de conformidad con lo establecido en el artículo 4 Bis de esta ley y se acompañará una copia del avalúo que corresponda al que se refiere el artículo 26 de esta ley.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-Cuando el sujeto obligado no realice la Traslación de Dominio dentro del término establecido en el artículo 28, la Autoridad Fiscal estará facultada, para realizar el cobro de multas por concepto de extemporaneidad conforme a lo establecido en el Código Fiscal Municipal del Estado de Quintana Roo y demás disposiciones aplicables.
+Para los supuestos enlistados en el presente artículo, se tomará como plazo de inicio para cómputo de época de pago el día hábil inmediato siguiente de la fecha de otorgamiento del instrumento público o documento que justifique alguno de los supuestos. Si el sujeto obligado o el retenedor, en su caso, no realizaran el pago dentro del término establecido en el primer párrafo de este artículo, la autoridad fiscal estará facultada, para realizar el cobro de multas por concepto de extemporaneidad conforme a lo establecido en el Código Fiscal Municipal del Estado de Quintana Roo y demás disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-Tratándose de adquisiciones que se deriven de los actos mencionados en el artículo 24 de esta Ley, que no se hagan constar en escritura pública, el adquirente tendrá carácter de responsable respecto del impuesto sobre adquisición de inmuebles que se genere a cargo de este y omita su pago.
+Tratándose de adquisiciones que se deriven de los actos mencionados en el artículo 22 de esta Ley, que no se hagan constar en escritura pública, el adquirente tendrá carácter de responsable respecto del impuesto sobre adquisición de inmuebles que se genere a cargo de este y omita su pago.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
@@ -623,7 +649,9 @@ IV. Naturaleza del acto o concepto de la adquisición;
 
 V. Ubicación y nomenclatura del bien inmueble;
 
-VI. Valor de la operación, valor catastral y avalúo bancario, acompañando copia del avalúo correspondiente, y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+VI. Valor de la operación, valor catastral, avalúo vigente emitido conforme a la Ley de Valuación del Estado de Quintana Roo, y el último valor declarado, acompañando copia de las documentales de los valores señalados y avalúo correspondiente. En las adquisiciones de inmuebles destinados a casa habitación, en la que la persona adquirente acredite ser beneficiaria de un Programa de Regularización de Vivienda Social Federal o Estatal, o programas federales de vivienda, se podrá acreditar el requisito del avalúo vigente, exhibiendo la cédula catastral correspondiente;
 
 VII. Tratándose de compraventa de inmuebles colindantes con la Zona Federal Marítimo Terrestre, que usen o gocen la misma, teniendo o no concesión autorizada, deberán presentar la constancia de uso o no uso de concesión, en caso de contar con la constancia de uso de concesión, presentar constancia de no adeudo por derechos de uso y goce de la Zona Federal Marítimo terrestre, así como la copia de la última declaración y copia del recibo oficial expedido por la Tesorería Municipal con el que acrediten estar al corriente en el pago de esta contribución y los derechos que señala el artículo 133 de esta Ley;
 
@@ -639,9 +667,9 @@ Cuando en los avisos o manifestaciones no se acompañe la documentación requeri
 
 X. Tratándose de unidades privativas, de aprovechamiento o propiedad exclusiva pertenecientes a fraccionamientos o a condominios, las constancias de no adeudo podrán ser las correspondientes a la parte proporcional del pago realizado por cada una de las unidades privativas, de aprovechamiento o propiedad exclusiva, y dichas unidades serán responsables por los adeudos de la proporcionalidad de los proindivisos;
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-XI. Tratándose de compraventa de inmuebles, o cualquier acto traslativo de dominio que implique la enajenación de bienes inmuebles o adquisición por cualquier medio legal, deberán presentar copia del recibo oficial de pago del impuesto predial, expedido por la tesorería municipal con el que acrediten estar al corriente en el pago de esta contribución a la fecha de la escritura pública o resolución judicial, conforme a la categoría, condición y vocación del inmueble a transmitir.
+XI. Tratándose de compraventa de inmuebles, o cualquier acto traslativo de dominio que implique la enajenación de bienes inmuebles o adquisición por cualquier medio legal, deberán presentar constancia de no adeudo del impuesto predial del inmueble objeto de la adquisición, expedido por la Tesorería Municipal con el que acrediten estar al corriente en el pago de esta contribución a la fecha de la escritura pública o resolución judicial, conforme a la categoría, condición y vocación del inmueble a transmitir;
 
 Para el caso de que, en el Formato de Declaración y determinación del Impuesto, no expresare el RFC del adquirente o fuere de nacionalidad Extranjera, la Dirección de Ingresos de la Tesorería Municipal, expedirá el Comprobante Fiscal Digital (CFDI) para público en general o para residentes en el extranjero, según sea el caso y enviará a la dirección de correo electrónico del fedatario público el archivo XML del CFDI y su representación gráfica, de conformidad con las reglas vigentes.
 
@@ -673,9 +701,13 @@ Quedan exentos del pago de este impuesto y en su caso de la responsabilidad soli
 
 I. La Federación, el Estado y sus Municipios, respecto de la adquisición de bienes que se vayan a destinar al dominio público, que sean afectos al pago de este impuesto; salvo que tales bienes se destinen para ser usados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público;
 
-II. Los Estados extranjeros por la adquisición de inmuebles, en caso de reciprocidad;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-III. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2024)
+II. Las adquisiciones de inmuebles hechas por dependencias, entidades u organismos del gobierno federal, estatal o municipal para la realización de acciones o programas de vivienda, su legalización y regularización y a personas que resulten beneficiadas con sus programas, que no sean propietarias de otro inmueble y que lo destinen a casa habitación;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+III. Los estados extranjeros, por la adquisición de inmuebles, en caso de reciprocidad.
 
 IV. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2024)
 
@@ -1051,9 +1083,9 @@ XIII. La adquisición de servicios generales que serán aplicados a la atención
 
 XIV. La adquisición de bienes muebles, inmuebles e intangibles que serán destinados a la atención de los programas y acciones para el saneamiento ambiental;
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-XV. Inversión Pública destinada a la atención de los programas y acciones para el saneamiento ambiental;
+XV. Inversión pública y los gastos indirectos relacionados con la misma, destinada a la atención de los programas y acciones para el saneamiento ambiental;
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
@@ -1095,9 +1127,13 @@ Tratándose del pago del derecho de Saneamiento Ambiental que realicen los visit
 
 Tratándose del pago del derecho de Saneamiento Ambiental que realicen los visitantes que no se hospeden en alguno de los establecimientos referidos en la fracción I del artículo 55 de esta Ley, el monto del derecho deberá ser retenido por la operadora marítima de transporte de pasajeros con ruta dentro del ámbito territorial del municipio. Debiendo enterar y declarar lo retenido en términos del artículo 57 de la presente Ley.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-Aquellos visitantes que realicen su arribo vía embarcación privada, embarcación menor o turística cubrirán el pago de este derecho al pagar la tarifa por uso de la infraestructura portuaria o a través de los medios que disponga la Tesorería Municipal mediante reglas de carácter general.
+Aquellos visitantes que realicen su arribo vía embarcación privada, embarcación menor o turística cubrirán el pago de este derecho al pagar la tarifa por uso de la infraestructura portuaria o a través de los medios que disponga la Tesorería Municipal.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Los titulares de concesiones y cesionarios totales o parciales de estas, así como los propietarios o poseedores de infraestructura portuaria a la que arriben los visitantes, actuarán como los retenedores del derecho de saneamiento ambiental, mismo que deberán cumplir mediante reglas de carácter general emitidos por la Tesorería Municipal.
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
@@ -1133,17 +1169,17 @@ La información y operaciones contenidas en los registros señalados en las frac
 
 #### SECCIÓN IV. De las Exenciones
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 58.
 
-Quedan exentos del pago de este derecho:
+Quedan exentos del pago de este derecho las personas que desempeñen cualquier actividad laboral o profesional en el municipio.
 
 I. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2024)
 
-II. Los visitantes que contraten el servicio de transporte marítimo de las sociedades cooperativas locales con domicilio fiscal en el municipio de Isla Mujeres; y
+II. (DEROGADA, P.O. 10 DE DICIEMBRE DE 2025)
 
-III. Las personas que desempeñen cualquier actividad laboral en el Municipio.
+III. (DEROGADA, P.O. 10 DE DICIEMBRE DE 2025)
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
@@ -1171,9 +1207,11 @@ VIII. Muros de tabique aplanado y pintados; y
 
 IX. Construcción, reordenamiento y mejoras en áreas urbanizadas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 60.
 
-Para que causen los derechos de cooperación a que se refiere el artículo anterior, será necesario que los predios beneficiados se encuentren en alguna de las siguientes circunstancias:
+Para que causen los derechos de cooperación a que se refiere el artículo anterior, será necesario que los bienes inmuebles beneficiados se encuentren en alguna de las siguientes circunstancias:
 
 I. Que tengan frente a la calle donde se hubieran ejecutado las obras, si son exteriores;
 
@@ -1203,9 +1241,11 @@ Los poseedores o usufructuarios de un bien fideicomitido tendrán responsabilida
 
 El derecho se causa objetivamente, por el beneficio que recibe el predio, y en consecuencia, sigue la suerte de éste, que corresponde preferentemente por el crédito fiscal cualquiera que sea el propietario o poseedor sucesivo, al momento en que se causen los derechos por cooperación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 62.
 
-Los derechos de cooperación para obras públicas se pagarán de acuerdo con el costo de las obras y proporcionalmente por superficie y metro cuadrado construido del predio beneficiado, siempre y cuando ésta sea realizada por el Estado o el Municipio y exista acuerdo previo entre los vecinos que serán beneficiados con la obra.
+Los derechos de cooperación para obras públicas se pagarán de forma anticipada de acuerdo con el costo de las mismas y proporcionalmente por superficie y metro cuadrado construido del predio beneficiado, siempre y cuando la obra sea realizada por el Municipio y exista aprobación de la mayoría de los propietarios de los bienes inmuebles que serán beneficiados con obra, a través de la consulta que se formule a los mismos.
 
 El Municipio tendrá a su cargo el costo de las obras públicas que se ejecutan a los frentes de los edificios públicos y jardines de uso común. Asimismo, estarán a su cargo los gastos erogados en los proyectos y estudios previos que se requieran para estas obras.
 
@@ -1245,17 +1285,21 @@ IV. Los derechos para obras del alumbrado público serán pagados por los propie
 
 V. En los casos de la construcción de bardas aplanadas y pintadas, los derechos serán cobrados a los propietarios, poseedores y usufructuarios por metro cuadrado, con base a los costos de mercado que rijan al tiempo de la construcción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 64.
 
-Los derechos de cooperación serán causados al terminarse las obras en cada tramo que se ponga en servicio y serán pagados en un plazo de cinco años, que podrá ampliarse hasta nueve años, cuando los causantes comprueben que su situación económica no les permite hacer el pago en el plazo fijado, y siempre que la ampliación no exceda del término estipulado para la amortización del financiamiento, si lo hubo.
+Los derechos de cooperación serán causados al iniciarse las obras en cada tramo que se ponga en servicio y deberán ser pagados a la tesorería municipal en el plazo que establezca el Ayuntamiento.
 
 Están exentos de pago de derechos de cooperación, los Municipios, el Estado y la Federación por sus bienes de dominio público. Salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
 ### CAPÍTULO III. Servicios de Tránsito
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 65.
 
-Por la expedición o renovación de licencias para conducir vehículos de motor causarán los derechos por cada año de vigencia, conforme a la siguiente tarifa:
+Por los servicios que presta la Dirección de Tránsito, se causarán los siguientes derechos:
 
 UMA.
 
@@ -1269,13 +1313,19 @@ Los ayuntamientos podrán continuar con la expedición, renovación y reposició
 
 UMA.
 
-l. Por el examen optometrista de agudeza visual
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-para conducir un vehículo de motor. 1.30
+I. Por el examen optometrista de agudeza visual 1.30
 
-II. Por arrastre de grúa 9.10
+para conducir vehículos de motor.
 
-III. Por día de estancia de vehículos en el corralón 0.45
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+II. Por arrastre de grúa. 9.10
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+III. Por día de estancia de vehículos en el corralón. 0.45
 
 ### CAPÍTULO IV. Del Registro Civil
 
@@ -1433,37 +1483,55 @@ UMA.
 
 l. Cuando se trate de casa habitación:
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
 a) Quedan exentas las de interés social cuando sea
 
 autoconstrucción, previa verificación de la autoridad
 
 correspondiente, y la superficie no exceda los
 
-55.00 M2 de construcción.
+55.00 M2 de construcción en planta baja
 
-b) De interés medio con más de 55.00 m2 hasta 90.00 m2 de
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-construcción se pagará por m2 de construcción:
+b) De Interés medio con más de 55.00 m2 de construcción
 
-1. Más de 90.00 m2 y hasta 150 m2 se pagará por m2 de
+se pagará por m2 de construcción de acuerdo a lo siguiente:
 
-construcción: 0.05
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-2. de 150.00 m2 en adelante se pagará por m2 de
+1. Hasta 90.00 m2 se pagará por m2: 0.11
 
-construcción: 0.09
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+2. Mas de 90.00 m2 y hasta 150 m2
+
+se pagará por m2 de construcción: 0.15
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+3. De 150.00 m2 en adelante se pagará
+
+por m2 de construcción: 0.20
 
 c) Residencial, se pagará por m2 de construcción:
 
-1. Residencial Zona Urbana. 0.22
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-2. Residencial Zona Hotelera. 0.30
+1. Residencial Zona Urbana. 0.25
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+2. Residencial Zona Hotelera. 0.35
 
 d) Por revisión, validación y aprobación de planos.
 
 1. En la primera planta, m2 0.09
 
-2. En la segunda planta, m2 0.10
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+2. En la segunda planta y consecutivas, m2 0.10
 
 II. Cuando se trate de construcciones destinadas
 
@@ -1473,31 +1541,95 @@ cualquier otra índole distinta a la establecida en la
 
 fracción anterior, se pagará por m2 de construcción:
 
-a) Comercial y/o de Servicios Zona Urbana. 0.28
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-b) Comercial y/o de Servicios Zona Turística. 0.55
+a) Comercial y/o de Servicios Zona Urbana. 0.30
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+b) Comercial y/o de Servicios Zona Turística. 0.60
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 c) Comercial y/o de Servicios en zonas diferentes a
 
-las anteriores señaladas. 0.25
+las anteriores señaladas. 0.30
 
-d) Industrial y de cualquier otra índole. 0.60
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+d) Industrial y de cualquier otra índole. 0.65
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+e) Por revisión, validación y aprobación de
+
+planos.
+
+1. En la primera planta, m2 0.09
+
+2. En la segunda planta y consecutivas, m2 0.10
 
 Las licencias y refrendos de obras comprendidas en la fracción I, se expedirán por un periodo de hasta 360 días y las comprendidas en la fracción II, por los plazos que fije el Ayuntamiento, los cuales no deberán ser menores al aplicable para la fracción I de este artículo.
 
-III. a) Fraccionamiento de terreno: 2% sobre el monto total del presupuesto de obras de urbanización por ejecutar en el fraccionamiento o en las obras que van a desarrollarse.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-En este caso los derechos comprenden los gastos de revisión y el estudio de planos y proyectos, así como la urbanización y se cobrar (sic) en efectivo al quedar definidos los proyectos, antes de iniciar las obras.
+III. Tratándose de obras exteriores (albercas,
 
-b) El fraccionamiento del terreno, cuando sea destinado a la vivienda de interés social y popular se cobrará el 1% en los términos del párrafo anterior.
+andadores, áreas verdes, canchas, etc) se pagará
 
-Cuando el Municipio no pueda efectuar por sí mismo la función contenida en la fracción II, de este artículo, podrá convenir con el Estado la mejor manera de llevarla a cabo, a fin de no ocasionar con su ejercicio, afectación a la población.
+el cincuenta por ciento de la tarifa establecida en
 
-IV. Cuando se trate de licencias y anuencias de construcciones destinadas a servicio, industriales o de cualquier otra índole distinta a la establecida en la fracción anterior, el derecho se causará por cada metro lineal y/o metro cuadrado (m2) de construcción de acuerdo a su uso de suelo de conformidad en las fracciones I y II de este artículo.
+las fracciones I y II.
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+IV. a) Fraccionamiento de terreno: sobre el monto
+
+total del presupuesto de obras de urbanización por
+
+ejecutar en el fraccionamiento o en las obras que
+
+van a desarrollarse 2%.
+
+b) En este caso los derechos comprenden los
+
+gastos de revisión y el estudio de planos y proyectos,
+
+así como la urbanización y se cobrará al quedar
+
+definidos los proyectos, antes de iniciar las obras.
+
+c) El fraccionamiento del terreno, cuando sea
+
+destinado a la vivienda de interés social y popular
+
+se cobrará el 1% en los términos del párrafo anterior.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+V. Cuando se trate de licencias, anuencias o constancias
+
+destinadas a servicio, industrial, infraestructura o de
+
+cualquier otra índole distinta a la establecida en las
+
+fracciones anteriores, se pagará por metro lineal y/o
+
+m2 de construcción de acuerdo con su uso de suelo
+
+de conformidad en las fracciones I y II de este artículo.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+VI. Cuando se trate de constancias de
+
+preexistencia de obra. 60
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 71.
 
-La ejecución de toda obra sin licencia respectiva se sancionará de 3.00 a 100.00 UMA., multa que podrá ampliarse hasta en un 50% del costo estimado de la obra en caso de reincidencia. Tratándose de viviendas de interés medio, la sanción no podrá exceder en un 30% sobre el valor total de la construcción realizada.
+La ejecución de toda obra sin licencia respectiva se sancionará de 1.58 a 15.92 UMA por metro cuadrado, multa que podrá ampliarse hasta un 50% del costo estimado de la obra en caso de reincidencia. Tratándose de viviendas de interés medio, la sanción no podrá exceder en un 30% sobre el valor total de la construcción realizada.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
@@ -1507,25 +1639,27 @@ Se requerirá de licencia de construcción y/o anuencia de construcción para la
 
 No requerirán de licencia o autorización las acciones de conservación y mantenimiento preventivo de edificios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 73.
 
-Las licencias de demolición se autorizarán previo análisis de la autoridad competente, y conforme a las tarifas siguientes:
+Las licencias de demolición se conferirán previa expedición de las autorizaciones correspondientes y causarán derechos conforme a la siguiente:
 
 UMA.
 
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
 l. Cuando se trate de casa habitación, cualquiera
 
-que sea su tipo por m2 0.17
+que sea su tipo por m2 0.18
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 II. Tratándose de construcciones determinadas a
 
 fines distintos a lo señalado en la fracción anterior,
 
-se cobrará por m2 0.33
+se cobrará por m2 0.35
 
 ###### Artículo 74.
 
@@ -1543,47 +1677,89 @@ condominio por tipo de construcción:
 
 a) Interés social EXENTO
 
-b) Medio. Por unidad privativa 8.00
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-c) Residencial. Por unidad privativa 10.00
+b) Medio por unidad privativa 8.00
 
-d) Comercial en Zona Hotelera- Por unidad privativa 12.00
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+c) Residencial Zona Urbana por unidad privativa 11
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+d) Comercial Zona Urbana, por unidad privativa 13
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+e) Residencial en Zona Turística, por unidad
+
+privativa 15
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+f) Residencial en Zona Turística, por unidad
+
+privativa 17
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+g) De servicio, industrial, infraestructura o de
+
+cualquier otra índole, por unidad privativa. 18
 
 II. Por la autorización subdivisión o fraccionamiento de
 
 predios de tipo general:
 
-a) Cuando resulten 2 lotes 4.60
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+a) Cuando resulten 2 lotes 15
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 b) Cuando resulten más de 2 lotes, por cada
 
-lote excedente 4.42
+lote excedente 15
 
 III. Por la fusión de predios en general:
 
-a) Por la fusión de 2 lotes 5.04
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-b) Por cada lote que exceda de 2 lotes 4.42
+a) Por la fusión de 2 lotes 5.5
 
-IV. Por las autorizaciones municipales de proyectos
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-para la expedición de la Constancia de Compatibilidad
+b) Por cada lote que exceda de 2 lotes 4.5
 
-Territorial, se causará un derecho de conformidad
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-con lo siguiente:
+IV. Por la relotificación, en dos o más lotes
 
-a) Para el caso de una subdivisión de un predio cuya
+que modifiquen las dimensiones o perímetros
 
-superficie original sea igual o mayor a los 2,500mt2;
+originalmente establecidos, sin que incremente
 
-por fracción resultante. 4.00
+o disminuya el número de lotes (por lote
 
-b) Por fusión de terrenos, por lote. 12.00
+modificado) 16
 
-V. Por la emisión de documentos en materia de
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-desarrollo urbano, diversos a los anteriores 12.00
+V. Por reconfiguración, en su modificación en
+
+el lote, en su estructura o composición distinta
+
+a su administración o su geometría, incluyendo
+
+medidas, forma, superficie y colindancias. (por
+
+lote modificado) 25
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+VI. Por la emisión de documentos en materia
+
+de desarrollo urbano, diversos a los anteriores 16
 
 ### CAPÍTULO VI. De las Certificaciones
 
@@ -1615,9 +1791,13 @@ IV. Por expedición de copias simples existentes en
 
 los archivos del Municipio:
 
-a) De 1 a 3 fojas sin costo 0.025
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-b) De 4 fojas en adelante 0.03
+a) De 1 a 3 fojas sin costo 0.50
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+b) De 4 fojas en adelante 4.00
 
 V. Por la expedición de certificados emitidos por el Municipio:
 
@@ -1639,9 +1819,13 @@ por el uso de cualquier narcótico o droga. 5.00
 
 e) Constancias de siniestros bomberos 4.00
 
-VI. Expedición de Constancias de No Inhabilitación
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-expedidas por la Contraloría Municipal. 1.00
+VI. Expedición de Constancias de No
+
+Inhabilitación expedidas por el Órgano
+
+Interno de Control. 1.00
 
 VII. Por la expedición de cada disco compacto
 
@@ -1654,6 +1838,10 @@ b) certificada 1.00
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
 VIII. Constancia de Verificación Sanitaria 5
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+IX. Expedición de constancias de no adeudo. 4.5
 
 ###### Artículo 78.
 
@@ -2187,6 +2375,96 @@ VI. En su caso, original y copia para cotejo del contrato de arrendamiento que a
 
 VII. Autorización expedida por la Dirección de Protección Civil Municipal o la Autoridad Municipal competente en caso de que el giro sea considerado de riesgo de acuerdo a la reglamentación municipal correspondiente.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 89 Bis.
+
+Las Personas físicas, morales o unidades económicas que realicen actividades comerciales, industriales, de prestación de servicios, de inversión de capitales y de toda actividad económica en zonas ejidales en el municipio que acrediten la legal posesión, podrán obtener un permiso para el desarrollo de la actividad comercial, de conformidad con la normatividad aplicable y las disposiciones que en su caso, expida la autoridad fiscal.
+
+La autoridad fiscal integrará un registro de los permisos que otorgue en términos de este artículo.
+
+El permiso ampara la obligación del pago del derecho por recolección, transporte, tratamiento y destino final de residuos sólidos, así como los correspondientes al uso de suelo y el permiso ambiental de operación, no obstante, las demás obligaciones establecidas en las leyes, reglamentos y disposiciones administrativas de carácter general para el desempeño de actividades económicas deberán ser observadas por el titular del mismo.
+
+Los comercios en los cuales se expendan bebidas alcohólicas deberán exhibir ante la Tesorería Municipal, la copia de la Licencia de Bebidas Alcohólicas, con resello actualizado en el domicilio y nombre del propietario.
+
+El permiso a que se refiere este artículo tendrá una vigencia anual, debiendo cubrir para ello, las siguientes tarifas de acuerdo con el giro:
+
+GIRO TARIFA EN
+
+U.M.A.
+
+Abarrotes 32
+
+Carnicería 32
+
+Chatarrería 40
+
+Vulcanizadoras 40
+
+Pollerías 32
+
+Expendios de bebidas alcohólicas 120
+
+Farmacias 60
+
+Herrerías 32
+
+Ferreterías y tlapalerías 120
+
+Papelerías e internet 32
+
+Expendios de agua purificada
+
+y/o purificadoras de agua 40
+
+Talleres en general 40
+
+Tortillerías 32
+
+Venta de ropa, bisutería
+
+y/o mercerías 24
+
+Refaccionarias 40
+
+Salón de belleza y/o
+
+peluquerías y/o barberías 32
+
+Expendios de billetes de lotería 40
+
+Fábricas de hielo 48
+
+Expendios de alimentos
+
+preparados y/o restaurantes 32
+
+Restaurante bar 160
+
+Balnearios 64
+
+Lavadero de autos 40
+
+Fruterías y/o recauderías 32
+
+Lavanderías 32
+
+Expendios de artículos
+
+de limpieza y/o jarcerías 32
+
+Florerías 32
+
+Carpintería 32
+
+Taller de costura 40
+
+La omisión en el cumplimiento de lo dispuesto en el presente Capítulo se sancionará conforme a lo previsto en el Código Fiscal Municipal del Estado de Quintana Roo.
+
+Para la renovación del permiso previsto en este artículo, el contribuyente deberá acreditar el cumplimiento de las obligaciones fiscales y administrativas que establecen las leyes, reglamentos y disposiciones administrativas de carácter general.
+
+Para el caso de giros no especificados en la tabla contenida en este artículo, resultará aplicable aquella que por razón de la naturaleza de la actividad, se asemeje a las efectuadas por el contribuyente.
+
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 90.
@@ -2425,7 +2703,9 @@ f) Cédula de inscripción y/o refrendo al Padrón Fiscal Municipal de Unidades 
 
 g) Otros trámites no especificados en las fracciones anteriores 2.5 veces la Unidad de Medida y Actualización Diaria.
 
-Quedan exceptuados del pago del derecho que señala este artículo, las mesas de hospitalidad de las agencias de viajes que se encuentran dentro de los centros de hospedaje, que brindan servicios de acompañamiento y orientación al turista durante su estancia.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Quedan exceptuados del pago del derecho las mesas de hospitalidad de las agencias de viajes que se encuentran dentro de los centros de hospedaje, que brindan servicios de acompañamiento y orientación al turista durante su estancia, así como las mesas de hospitalidad, cuando sean operadas por los propios centros de hospedaje a través de su personal, siempre y cuando no se oferten ni presten servicios por parte de terceros.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
@@ -2961,47 +3241,77 @@ Cuando el Municipio realice los servicios de desmonte, desyerbado o limpieza de 
 
 El pago de las obligaciones establecidas, deberán de ser enteradas en un término de quince días de manera conjunta con la multa correspondiente ante la Tesorería Municipal, una vez hecha la notificación.
 
-### CAPÍTULO XIX. Servicio y Mantenimiento de Alumbrado Público
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-(NOTA: EL 8 DE DICIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2025, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+### CAPÍTULO XIX. Del Derecho de Servicio y Mantenimiento de Alumbrado Publico
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 115.
 
-La prestación del servicio y mantenimiento del alumbrado público a favor y en beneficio de los habitantes del Municipio de Isla Mujeres, es objeto del cobro del presente derecho. Se entiende por servicio y mantenimiento de alumbrado público, la iluminación que el Municipio otorga a la comunidad en calles, plazas, jardines, oficinas de la administración pública municipal y otros lugares de uso común, así como el mantenimiento y la ampliación de la red de distribución de dicho servicio.
+Es objeto del cobro de este Derecho la prestación del Servicio y Mantenimiento de Alumbrado Público en beneficio de los habitantes y residentes, del Municipio de Isla Mujeres.
 
-El costo del servicio y mantenimiento de alumbrado público se compone con los siguientes conceptos:
+Para los efectos del párrafo anterior, por Servicio y Mantenimiento de Alumbrado Público, debe entenderse la iluminación que el Municipio otorga en calles, plazas, jardines y otros lugares de uso común, así como el mantenimiento y la ampliación de la red de distribución de dicho servicio.
 
-I. El costo por servicios personales empleados en la instalación, operación y mantenimiento del servicio de alumbrado público, entendido como tal los sueldos, salarios, compensaciones, prestaciones legales y contribuciones derivadas de la administración de la nómina correspondiente a la Dirección de Alumbrado Público del Municipio.
-
-II. El costo de los materiales, suministros y gastos de mantenimiento empleados durante el año próximo anterior en el servicio de alumbrado público, el cual se compondrá de lo erogado en los conceptos por compras y adquisiciones, reposición de lámparas, mantenimiento de líneas eléctricas y postes, materiales, equipos de seguridad, herramientas y maquinaria, así como los gastos asociados a la operación y mantenimiento de esta.
-
-III. El costo general del suministro de energía eléctrica contratado por el Municipio.
-
-IV. El costo de la ejecución de los nuevos proyectos de ampliación e introducción del servicio de alumbrado público.
-
-El derecho a que se refiere este artículo podrá ser recuperado con aportaciones correspondientes al 5% equivalente al importe de consumo de energía eléctrica que conste en el recibo o factura de pago que expida la Comisión Federal de Electricidad a sus usuarios finales, sea mensual o bimestral.
-
-Los propietarios o poseedores de predios rústicos, suburbanos o urbanos que no estén registrados ante la Comisión Federal de Electricidad, y cuenten con el beneficio del servicio de alumbrado público prestado por el Municipio, pagarán la tarifa que establezca la Tesorería Municipal, y se comprobará mediante el recibo que para tal efecto expida esta última.
-
-El pago de este derecho efectuado en parcialidades mensuales, que deberán ser enteradas dentro de los primeros diez días de cada mes, pudiendo realizarlos con el pago del impuesto predial correspondiente, o a través de la recuperación efectuada a través de la Comisión Federal de Electricidad, en los términos previstos en este mismo artículo.
-
-Para lo anterior, el Ayuntamiento estará facultado para convenir con la Comisión Federal de Electricidad la recaudación y el entero de esta contribución, sea en forma mensual o bimestral, o en el plazo que resulte del convenio que se celebre para ello.
-
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 116.
 
-Están exentos del pago de este derecho los bienes inmuebles de dominio público de la Federación y del Estado, salvo que dichos bienes se destinen para ser usados por las propias autoridades o entidades paraestatales, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
+Son sujetos de este derecho y están obligados a su pago, todas las personas físicas y morales que reciben la prestación del servicio de alumbrado público por el Municipio de Isla Mujeres.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2025)</small>
+Para estos efectos, los sujetos de este derecho servicio y alumbrado público son:
+
+I. Las personas físicas o morales que cuenten con servicios de energía eléctrica contratados ante la Comisión Federal de Electricidad en bienes inmuebles ubicados en el territorio municipal, y
+
+II. Las y los propietarios o poseedores de predios ejidales, rústicos, suburbanos o urbanos que no cuenten con servicios de energía eléctrica contratados ante la Comisión Federal de Electricidad, y que cuenten con el beneficio del servicio de alumbrado público que presta el Municipio.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 117.
 
-Los inmuebles sobre los cuales el Municipio detente la propiedad, posesión, o uso bajo cualquier título, estarán exentos del pago de esta contribución, incluso cuando sean utilizados por sus organismos descentralizados o paramunicipales. La Dirección de Alumbrado Público mantendrá el padrón de servicios de suministro eléctrico a cargo del Municipio, y lo comunicará a la Comisión Federal de Electricidad para los fines correspondientes.
+El costo total del Servicio y Mantenimiento de Alumbrado Público se integrará por aquellas cantidades que representen o sean equivalentes a los siguientes conceptos:
 
-En ningún caso el Municipio absorberá los consumos de energía eléctrica de particulares, aun cuando existieren convenios, solicitudes o acuerdos en dicho sentido.
+I. Costo de los servicios personales del año inmediato anterior que fueron destinados a la instalación, operación y mantenimiento del servicio de alumbrado público, comprende los sueldos, salarios, compensaciones, servicio y contribuciones que se deriven de la administración de la nómina de la Dirección de Alumbrado Público del Municipio de Isla Mujeres;
+
+II. Costo de los materiales, suministros y gastos de mantenimiento utilizados durante el año inmediato anterior en el servicio de alumbrado público, el cual se compondrá de lo erogado por adquisiciones, reposición de lámparas, mantenimiento de líneas eléctricas, postes, materiales, seguridad, herramientas y maquinaria, así como la operación y mantenimiento del servicio de alumbrado público;
+
+III. El pago realizado por concepto de suministro de energía eléctrica de las redes de alumbrado público del Municipio, en el ejercicio fiscal inmediato anterior en concepto del costo anual, global, general erogado del suministro de energía eléctrica, del año inmediato anterior, y
+
+IV. El costo de depreciación de las luminarias que sirven para el servicio de alumbrado público.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 117 Bis.
+
+El pago del Derecho por la prestación del Servicio y Mantenimiento de Alumbrado Público mensual será el correspondiente que se derive del resultado de dividir el total de la suma de los conceptos contenidos en las fracciones previstas en el artículo 117 dividido entre la suma del número de servicios registrados en la Comisión Federal de Electricidad en el Municipio, el número de propietarios o poseedores de predios ejidales, rústicos, suburbanos o urbanos que no cuenten con servicios de energía eléctrica contratados ante la Comisión Federal de Electricidad, y cuenten con el beneficio del servicio y mantenimiento de alumbrado público que presta el Municipio.
+
+El importe resultante, se cobrará en parcialidades mensuales en cada recibo que expida la Comisión Federal de Electricidad a sus usuarios. La época de pago de esta contribución corresponderá a los períodos de facturación que por servicio de suministro de energía eléctrica expida la Comisión Federal de Electricidad a los contribuyentes, y su monto no podrá ser superior al 5% de las cantidades que deban pagar éstos en forma particular, por su consumo de energía eléctrica.
+
+El importe resultante, será publicado mediante acuerdo en el Periódico Oficial del Estado de Quintana Roo a más tardar el treinta y uno de diciembre del ejercicio fiscal inmediato anterior.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+###### ARTÍCULO 117 Ter.
+
+Los propietarios o poseedores de bienes inmuebles en el territorio municipal que cuenten con servicios de energía eléctrica contratados ante la Comisión Federal de Electricidad realizarán el pago en parcialidades por cada uno de los servicios contratados a través del recibo que expida la Comisión Federal de Electricidad a sus usuarios.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+###### ARTÍCULO 117 Quáter.
+
+Los propietarios o poseedores de predios ejidales, rústicos, suburbanos o urbanos que no cuenten con servicios de energía eléctrica contratados ante la Comisión Federal de Electricidad, y cuenten con el beneficio del servicio de alumbrado público que presta el Municipio podrán optar por pagar el Derecho (sic) la prestación del Servicio y Mantenimiento de Alumbrado Público al momento de efectuar el pago del impuesto predial; o realizar el pago de manera diferida dentro de los doce meses del ejercicio fiscal correspondiente, solicitando el estado de cuenta correspondiente ante la Tesorería Municipal, mismo que deberá ser cubierto dentro de los primeros diez días del periodo que corresponda.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+###### ARTÍCULO 117 Quinquies.
+
+La Tesorería del Municipio por conducto de su titular gestionará la firma de Convenio con la Comisión Federal de Electricidad con la finalidad de que se concreten los términos y las condiciones de la recaudación de este Derecho con lo que garantizará el entero del cobro de este Derecho, en el plazo que resulte de los convenios que firme el Municipio con la Comisión Federal de Electricidad.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+###### ARTÍCULO 117 Sexies.
+
+No se cobrará este derecho respecto de los bienes inmuebles de dominio público de la Federación, del Estado y del Municipio, salvo aquellos que sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
 ### CAPÍTULO XX. Servicios de Inspección y Vigilancia
 
@@ -3117,11 +3427,15 @@ Los pagos se enterarán en forma anual durante los dos primeros meses del año o
 
 En este último caso, la autoridad fiscal impondrá una tarifa estimada y proporcional a los meses del año transcurrido.
 
-### CAPÍTULO XXIV. Uso de la Vía Pública o de Otros Bienes de Uso Común
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO XXIV. Uso, Goce, Aprovechamiento o Explotación de Bienes de Dominio Público
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 125.
 
-Para el uso de la vía pública para el ejercicio de una actividad lucrativa de cualquier naturaleza, se causarán los siguientes derechos:
+Para el uso de la vía pública o bienes de uso común para el ejercicio de una actividad lucrativa de cualquier naturaleza, se causarán los siguientes derechos:
 
 UMA.
 
@@ -3161,13 +3475,13 @@ d) En zonas no especificadas 30.00 a 50.00
 
 Quedan exentos los eventos sin fines de lucro.
 
-X. Por la expedición del permiso para realizar en
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-calles maniobras de carga y descarga reguladas
+X. Por la expedición del permiso para realizar
 
-por el Reglamento de Transporte de Carga, se
+maniobras de carga y descarga, se causarán
 
-establece la siguiente tarifa:
+los siguientes derechos:
 
 > <small>(REFORMADO [N. DE E. ADICIONADO ESTE PÁRRAFO], P.O. 16 DE DICIEMBRE DE 2024)</small>
 
@@ -3532,6 +3846,76 @@ total de la superficie solicitada; 0.09
 IV. Por la expedición del permiso de operación, y 15.00
 
 V. Por el estudio y expedición de factibilidad ecológica. 10.00
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 131 Bis.
+
+Por los servicios que presta el Centro de Bienestar y Control Animal de Isla Mujeres, se causarán los derechos conforme la siguiente tarifa:
+
+Derecho U.M.A.
+
+I. Esterilización de Caninos/ Felinos Machos
+
+a) Animales menores a 5 kg 2
+
+b) Animales de 5 a 10 kg 3
+
+c) Animales de 10 a 20 kg 4
+
+d) Animales de 20 a 30 kg 5
+
+e) Animales de 30 a 40 kg 6
+
+f) Animales de 40 a 50 kg 7
+
+II. Esterilización de Caninos/ Felinos hembras
+
+a) Animales menores a 5 kg 2.5
+
+b) Animales de 5 a 10 kg 3.5
+
+c) Animales de 10 a 20 kg 4.5
+
+d) Animales de 20 a 30 kg 5.5
+
+e) Animales de 30 a 40 kg 6.5
+
+f) Animales de 40 a 50 kg 7.5
+
+III. Desparasitación
+
+a) Menores de 5 kg 0.5
+
+b) De 5 a 10 kg 1
+
+c) De 10 a 20 kg 1.5
+
+d) De 20 a 30 kg 2
+
+e) De 30 a 40 kg 2.5
+
+f) De 40 a 50 kg 3
+
+g) 50 kg 3.5
+
+IV. Consulta básica 1
+
+V. Vacuna contra la rabia 1
+
+VI. Hospitalización, por día. 1.5
+
+VII. Baño 2.5
+
+VIII. Medicamentos, por inyección de 0.5 ml 0.5
+
+IX. Servicio de higiene canina
+
+(Corte de uñas y limpieza de oídos) 1
+
+El pago de los derechos correspondientes se realizará en la Tesorería Municipal.
+
+Para el caso de los derechos no especificados en la tabla contenida en este artículo, resultará aplicable aquella que por razón de su naturaleza se asemeje a las efectuadas por el contribuyente.
 
 ###### Artículo 132.
 
@@ -3966,3 +4350,11 @@ P.O. 3 DE JULIO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 173 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL MUNICIPIO DE ISLA MUJERES DEL ESTADO DE QUINTANA ROO, Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente decreto.
