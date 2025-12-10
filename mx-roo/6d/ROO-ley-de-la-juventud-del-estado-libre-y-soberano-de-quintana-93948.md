@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-la-juventud-del-estado-libre-y-soberano-de-quintana-9394
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-09"
-last_updated: "2023-11-03"
+last_updated: "2025-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93948&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LA JUVENTUD DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el 9 de abril de 2013.
 
@@ -197,9 +197,9 @@ La Secretaría de Educación y Cultura deberá difundir con los jóvenes de las 
 
 El Poder Ejecutivo, a través de las instancias correspondientes, ofrecerá alternativas de financiamiento y apoyo para el acceso a la educación, así como mecanismos que permitan a los jóvenes que truncan sus estudios por diferentes circunstancias, continuar con estos.
 
-> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-El Poder Ejecutivo a través del Instituto Quintanarroense de la Mujer y de acuerdo al presupuesto de capacitación y difusión con el que cuenta, difundirá en la juventud sobre los programas respecto a los apoyos en becas, guarderías, capacitación y todos aquellos programas de beneficio para la mujer con el fin de evitar la deserción educativa de este sector juvenil.
+EI Poder Ejecutivo a través de la Secretaría de las Mujeres y de acuerdo al presupuesto de capacitación y difusión con el que cuenta, difundirá en la juventud sobre los programas respecto a los apoyos en becas, guarderías, capacitación y todos aquellos programas de beneficio para la mujer con el fin de evitar la deserción educativa de este sector juvenil.
 
 #### SECCIÓN III. DEL DERECHO A UN TRABAJO DIGNO
 
@@ -1318,3 +1318,11 @@ P.O. 3 DE NOVIEMBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas aquellas otras disposiciones de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 184 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE QUINTANA ROO, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO, DE LA LEY DE SEGURIDAD CIUDADANA DEL ESTADO DE QUINTANA ROO, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, DE LA LEY DE LA JUVENTUD DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, DE LA LEY DE PREVENCIÓN, ATENCIÓN INTEGRAL Y CONTROL PARA EL VIH DEL ESTADO DE QUINTANA ROO, DE LA LEY DE SEGURIDAD ESCOLAR INTEGRAL DEL ESTADO DE QUINTANA ROO, DE LA LEY DE VÍCTIMAS DEL ESTADO DE QUINTANA ROO Y DE LA LEY EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones legales, de igual o menor jerarquía, que se opongan al contenido del presente Decreto.
