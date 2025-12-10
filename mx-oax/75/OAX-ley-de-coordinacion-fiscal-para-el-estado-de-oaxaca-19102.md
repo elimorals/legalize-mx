@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-coordinacion-fiscal-para-el-estado-de-oaxaca-19102"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2024-12-21"
+last_updated: "2025-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de diciembre de 2000.
 
@@ -411,55 +411,67 @@ Recibidos los recursos de los fondos de Participaciones así como de los fondos 
 
 El retraso en la entrega de los fondos de Participaciones y fondos de Aportaciones, siempre que éste sea imputable a la Secretaría, ocasionará el pago de intereses a la tasa de recargos que establezca el Congreso de la Unión para la liquidación a plazos de las contribuciones federales.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-ARTICULO 8 A.- El Ejecutivo Estatal a través de la Secretaría, podrá realizar la ministración de recursos provenientes de los Fondos de Participaciones, Aportaciones y cualquier otro recurso asignado a través del Decreto de Presupuesto de Egresos de la Federación, Convenios, Programas o Subsidios a favor de los Municipios en las cuentas bancarias productivas específicas que sean notificadas por el responsable directo de la administración pública municipal, siempre que por algunas de las causas que se citan a continuación, fuera imposible cumplir con el contenido del artículo anterior.
+ARTICULO 8 A.- El Ejecutivo Estatal a través de la Secretaría, podrá realizar la transferencia de recursos provenientes de las Participaciones y Aportaciones, así como cualquier otro recurso asignado a través del Decreto de Presupuesto de Egresos de la Federación, Convenios, Programas o Subsidios a favor de los Municipios en las cuentas bancarias productivas específicas que sean notificadas por el responsable directo de la administración pública municipal, siempre que por algunas de las causas que se citan a continuación, fuera imposible cumplir con el contenido del artículo anterior.
 
-Son causales que imposibilitan el cumplimiento de lo dispuesto en el Artículo 8 de la presente Ley, entre otras:
+Son causales que imposibilitan el cumplimiento de lo dispuesto en el artículo 8 de la presente Ley, entre otras:
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+I. La notificación de la resolución judicial en donde se determine la suspensión de los derechos políticos electorales de uno o varios integrantes del ayuntamiento, que impidan el funcionamiento de éste, el ejercicio de sus atribuciones, y/o el nombramiento del tesorero municipal;
 
-I. La notificación de la resolución judicial en donde se determine la suspensión de los derechos políticos electorales de uno o varios integrantes del Ayuntamiento, que impidan la instalación de este y/o el nombramiento del tesorero municipal;
+II. La declaratoria de revocación de mandato y/o sustitución de concejales determinada por el Congreso, que impidan el funcionamiento o el ejercicio de las atribuciones del ayuntamiento, o el nombramiento del tesorero municipal, o
 
-II. La declaratoria de revocación de mandato y/o sustitución de concejales determinada por el Congreso, que impidan la instalación del Ayuntamiento o el nombramiento del tesorero municipal, o
+III. Cuando el Ayuntamiento no notifique a la Secretaría las cuentas bancarias productivas específicas en la forma y términos que para tal efecto establece el Artículo 8 de esta Ley.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-III. Cuando el Ayuntamiento no notifique a la Secretaría las cuentas bancarias productivas específicas en la forma y términos que para tal efecto establece el artículo 8 de esta Ley.
+ARTICULO 8 B.- El Ejecutivo Estatal, a través de la Secretaría, transferirá los recursos de Participaciones y Aportaciones que correspondan a los Municipios, a las cuentas de controversias que ésta aperture, por un período no mayor a sesenta días hábiles, cuando no se pueda dar cumplimiento a lo establecido en el artículo 8 de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+Son causales que imposibilitan el cumplimiento de lo dispuesto en el artículo 8 de esta Ley, entre otras:
 
-ARTICULO 8 B.- El Estado a través de la Secretaría constituirá un Fideicomiso de Administración y Pago, con las subcuentas que sean necesarias para identificar los recursos de Participaciones y Aportaciones que correspondan a los Municipios, siempre que exista alguna de las causas que se citan a continuación, y que subsista por un período de tiempo mayor a sesenta días hábiles, y fuera imposible ministrar los recursos que por disposición legal les corresponda.
+I. La notificación de la resolución judicial en donde se determine la suspensión de los derechos políticos electorales de uno o varios integrantes del ayuntamiento, que impidan el funcionamiento de éste, el ejercicio de sus atribuciones y/o el nombramiento del tesorero municipal;
 
-> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 31 DE DICIEMBRE DE 2015)</small>
+II. La declaratoria de revocación de mandato y/o sustitución de concejales determinada por el Congreso, que impidan el funcionamiento o el ejercicio de las atribuciones del ayuntamiento, o el nombramiento del tesorero municipal;
 
-Son causales que imposibilitan la ministración de recursos de Participaciones y Aportaciones, entre otras:
+III. La declaración de nulidad de elecciones de autoridades municipales, emitida por el órgano electoral competente;
 
-I. La declaración de nulidad de elecciones de autoridades municipales declarada por el órgano electoral competente;
+IV. El rechazo al momento del pago de las Participaciones y Aportaciones que correspondan a los Municipios por cuenta bloqueada, suspendida o cancelada por la institución bancaria, o por cualquier circunstancia que dependa directamente del Municipio y/o la institución financiera correspondiente, siempre que los hechos no sean imputables a la Secretaría.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+En este caso, los recursos serán transferidos a la cuenta de controversias en el plazo de tres días hábiles contados a partir de que se genere el rechazo respectivo, y
 
-II. La ausencia legalmente notificada de concejos municipales y/o comisionados municipales provisionales, y
+V. Cualquier otra que impida tener certeza jurídica de quién o quiénes son los servidores públicos municipales responsables de la administración de la hacienda pública municipal.
 
-III. Cualquier otra que impida tener certeza jurídica de quien o quienes son los servidores públicos municipales responsables de la administración de la hacienda pública municipal.
+Una vez superadas las causales de imposibilidad establecidas en este artículo, la Secretaría realizará la transferencia de los recursos de Participaciones y Aportaciones a las cuentas bancarias productivas específicas notificadas por los Municipios, en un plazo máximo de cinco días hábiles.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+Asimismo, la Secretaría a más tardar en el mes siguiente a aquel en que sean transferidos los recursos previstos en el párrafo anterior, realizará la transferencia de los rendimientos financieros que se hayan generado conforme a la tasa bruta anual reflejada en el estado de cuenta del mes inmediato anterior al que se realice el pago, a las cuentas bancarias productivas específicas notificadas por los Municipios.
 
-Una vez superado (sic) las causales de imposibilidad la Secretaría de Finanzas ordenará al Fiduciario la transferencia de recursos a las cuentas bancarias productivas específicas que señalen las autoridades municipales, incluidas en ellas los rendimientos financieros que se hayan generado en las cuentas del Fideicomiso a que se refiere el presente Artículo.
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
-
-ARTICULO 8 C.- Cuando exista alguna de las causales de imposibilidad en la entrega de los Fondos de Participaciones y Fondos de Aportaciones mencionadas en las fracciones I y II del artículo 8 A de esta Ley, los recursos se transferirán y mantendrán durante un período de tiempo no mayor a sesenta días hábiles en la cuenta de controversias aperturada por la Secretaría.
-
-En caso de que exista un rechazo al momento del pago de los Fondos de Participaciones y de Aportaciones que correspondan a los municipios por cuenta bloqueada, suspendida o cancelada por la institución bancaria, o por cualquier circunstancia que dependa directamente del municipio y/o la institución financiera correspondiente, siempre que los hechos no sean imputables a la Secretaría, los recursos serán transferidos a la cuenta de controversias dentro del plazo de tres días hábiles contados a partir de que se genere el rechazo respectivo.
-
-De los recursos de los Fondos de Participaciones y de Aportaciones que se mantengan en la cuenta de controversias, se pagarán rendimientos financieros a los municipios conforme a la tasa bruta anual reflejada en el estado de cuenta del mes inmediato anterior al que se realice el pago.
-
-Cuando exista la causal de imposibilidad en la entrega de los Fondos de Participaciones y de Aportaciones prevista en la fracción III del artículo 8 A de esta Ley, los recursos permanecerán en las cuentas de los Fondos de Participaciones y de Aportaciones aperturadas por la Secretaría, por un plazo de hasta sesenta días hábiles; una vez que el municipio notifique a la Secretaría sus cuentas bancarias productivas específicas, los recursos de los Fondos de Participaciones y de Aportaciones que les correspondan les serán ministrados incluyendo los rendimientos financieros que se hayan generado, en un plazo máximo de cinco días hábiles.
-
-Transcurrido el plazo de sesenta días hábiles, los recursos serán enviados a las cuentas del Fideicomiso a que se refiere el artículo 8 B de esta Ley.
+Cuando exista la causal de imposibilidad prevista en la fracción III del párrafo segundo del artículo 8 A de esta Ley, los recursos permanecerán en las cuentas de los Fondos de Participaciones y de Aportaciones aperturadas por la Secretaría, por un plazo de hasta sesenta días hábiles; una vez que el Municipio notifique a la Secretaría sus cuentas bancarias productivas específicas, los recursos de Participaciones y Aportaciones que les correspondan les serán entregados incluyendo los rendimientos financieros que se hayan generado, en un plazo máximo de cinco días hábiles.
 
 Lo anterior sin perjuicio de la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 8 C.- El Ejecutivo Estatal, a través de la Secretaría, constituirá un Fideicomiso de Administración y Pago, con las subcuentas que sean necesarias para identificar los recursos de Participaciones y Aportaciones que correspondan a los Municipios, donde se transferirán los recursos que se mantengan en las cuentas de controversias, siempre que subsista alguna de las causales establecidas en el artículo 8 B párrafo segundo, de esta ley, por un período mayor a sesenta días hábiles.
+
+Una vez superadas dichas causales de imposibilidad, la Secretaría ordenará al Fiduciario la transferencia de los recursos a las cuentas bancarias productivas específicas notificadas por los Municipios, incluyendo los rendimientos financieros correspondientes que se hayan generado en las cuentas del Fideicomiso a que se refiere el presente artículo.
+
+los recursos de Participaciones y Aportaciones que, al 31 de diciembre del Ejercicio Fiscal correspondiente se mantengan en las cuentas de controversias o en las cuentas de los Fondos de Participaciones y de Aportaciones, serán transferidos por la Secretaría al Fideicomiso de Administración y Pago.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 8 D.- En aquellos Municipios en que la administración municipal esté a cargo de un Concejo Municipal o de un Comisionado Municipal Provisional, éstos deberán notificar a la Secretaría, por el período de su designación y por cada Ejercicio Fiscal, según corresponda, las cuentas bancarias productivas específicas aperturadas para la recepción de las Participaciones y Aportaciones como lo dispone el artículo 8 de esta ley.
+
+El Ejecutivo Estatal, a través de la Secretaría, transferirá los recursos de Participaciones y Aportaciones que por disposición legal les corresponda a aquellos Municipios que estén a cargo de un Concejo Municipal o de un Comisionado Municipal Provisional, a las cuentas de controversias a que hace referencia el artículo 8 B de esta Ley, por un período no mayor a sesenta días hábiles, siempre que fuere imposible entregar los recursos, entre otras, por las causales que a continuación se detallan:
+
+I. Cuando no notifiquen a la Secretaría, por el período de su designación y por cada Ejercicio Fiscal, las cuentas bancarias productivas específicas aperturadas para la recepción de las Participaciones y Aportaciones como lo dispone el artículo 8 de esta Ley, y
+
+II. Cuando haya fenecido el período para el que fue designado el Comisionado Municipal Provisional y no se haya ratificado o designado a otro responsable de la administración pública municipal.
+
+Una vez que la Secretaría cuente con la certeza jurídica de que se han superado las causales previstas en este artículo, efectuará la entrega de los recursos de las Participaciones y Aportaciones a las cuentas bancarias productivas específicas que le sean notificadas por el responsable de la Administración pública municipal, en un plazo máximo de cinco días hábiles.
+
+Asimismo, la Secretaría a más tardar en el mes siguiente a aquel en que sean transferidos los recursos previstos en el párrafo anterior, realizará la transferencia de los rendimientos financieros que se hayan generado conforme a la tasa bruta anual reflejada en el estado de cuenta del mes inmediato anterior al que se realice el pago, a las cuentas bancarias productivas específicas notificadas por el responsable de la administración pública municipal.
+
+En aquellos supuestos en que subsista alguna de las causales previstas en este artículo, por un período mayor a sesenta días hábiles, los recursos de las Participaciones y Aportaciones serán transferidos al Fideicomiso a que se refiere el artículo 8 C de esta Ley. Una vez que la Secretaría cuente con la certeza jurídica de que se han superado dichas causales, ordenará al Fiduciario la transferencia de los recursos a las cuentas bancarias productivas específicas que le sean notificadas, incluyendo los rendimientos financieros correspondientes que se hayan generado en las cuentas del Fideicomiso.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -698,6 +710,10 @@ Cuando las autoridades señaladas en las fracciones I y II, en el ejercicio de l
 Por su parte, cuando la Auditoría Superior de Fiscalización detecte que los recursos de las Aportaciones no se han destinado a los fines establecidos en la Ley de Coordinación, deberá hacerlo del conocimiento inmediato de la Auditoria Superior de la Federación.
 
 Las responsabilidades administrativas, civiles y penales en que incurran los servidores públicos locales o municipales por el manejo o aplicación indebidos de los recursos de las Aportaciones de la Ley de Coordinación, serán determinados y sancionados por las autoridades federales o locales competentes, en los términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 23 C.- El Ejecutivo Estatal, a través de la Secretaría, publicará en su página de internet, dentro de los primeros quince días naturales del mes inmediato posterior a cada trimestre, el monto de las Aportaciones del Ramo 33, fondo III relativo al Fondo de Aportaciones para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal, y Fondo IV relativo al Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, entregados a cada Municipio, debiendo contener el desglose por Fondo, así como el monto mensual que corresponda
 
 ###### ARTICULO 24.
 
@@ -1174,3 +1190,11 @@ P.O. 21 DE DICIEMBRE DE 2024.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veinticinco, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 883.- MEDIANTE EL CUAL REFORMAN LOS ARTÍCULOS 8 A, 8 B Y 8 C; Y SE ADICIONAN LOS ARTÍCULOS 8 D Y 23 C; TODOS DE LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veintiséis, previa publicación en el Periódico Oficial del Gobierno del Estado
