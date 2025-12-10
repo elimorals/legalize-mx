@@ -4,7 +4,7 @@ identifier: "TAB-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1040
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-19"
-last_updated: "2018-05-30"
+last_updated: "2025-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 19 de noviembre de 2014.
 
@@ -109,6 +109,10 @@ Para los efectos de esta Ley se entenderá por:
 
 I. Acciones afirmativas: Al conjunto de medidas especiales dirigidas a las mujeres, de carácter temporal, correctivo, compensatorio y de promoción, encaminadas a acelerar la igualdad de trato y oportunidades entre mujeres y hombres;
 
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+I. Bis. Brecha salarial de género. Es la diferencia de retribución salarial entre mujeres y hombres por razones de género, respecto a la realización de un trabajo remunerado de igual valor;
+
 II. Instituto: Instituto Estatal de las Mujeres;
 
 III. Programa: Al Programa Estatal para la Igualdad entre Mujeres y Hombres;
@@ -117,15 +121,17 @@ IV. Sistema: Al Sistema Estatal para la Igualdad entre Mujeres y Hombres;
 
 V. Conciliación entre vida familiar y laboral: A la implementación de esquemas y mecanismos que permitan a trabajadores y patrones, convenir horarios y espacios laborales de tal forma que se incrementen las posibilidades de compatibilidad entre las exigencias laborales y familiares;
 
-VI. Discriminación: A cualquier forma de preferencia, distinción, exclusión, repudio, desprecio, rechazo o restricción que, basada en el origen étnico o nacional, sexo, género, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, orientación sexual, predilecciones de cualquier índole, estado civil o alguna otra que tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos fundamentales en condiciones de equidad e igualdad de oportunidades y de trato de las personas, tales como:
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-Discriminación directa por razón de sexo: Es la originada por disposiciones, criterios o prácticas que pone a personas de un sexo en desventaja particular con respecto a personas del otro. Se exceptúan de estas disposiciones, criterios o prácticas que se justifiquen objetivamente con una finalidad legítima, como el caso de las acciones afirmativas.
+VI. Discriminación. Toda distinción, exclusión, restricción o preferencia que por acción u omisión, con intención o sin ella, tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos, las libertades y la igualdad sustantiva de oportunidades en las esferas social, cultural, educativa, política, institucional, laboral o cualquier otra, incluyendo cualquier acción u omisión que directa o indirectamente provoque o perpetúe la brecha de género en cualquier ámbito. Lo anterior, cuando la distinción, exclusión, restricción o preferencia en esos términos se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, el embarazo, la lengua o el idioma, las creencias religiosas o espirituales, la apariencia y/o condición física, las características genéticas, la situación migratoria, las opiniones, la identidad de género, la orientación sexual, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, profesión o actividad laboral, los antecedentes penales o cualquier otro motivo análogo.
 
-Discriminación indirecta por razón de sexo: Es aquella en la que se establecen condiciones formalmente neutras respecto al sexo pero que resultan desfavorables para algunos de los sujetos de esta Ley; y además carecen de una causa suficiente, objetiva razonable y justificada.
-
-Discriminación por embarazo o maternidad: modalidad de la discriminación por razón de sexo, que se constituye como un trato desfavorable a las mujeres relacionado con el embarazo como hecho biológico o la maternidad como hecho cultural que trae como consecuencia un trato desigual que limita su acceso al pleno goce y ejercicio de sus derechos fundamentales;
+También se entenderá como discriminación la homofobia, misoginia, cualquier manifestación de xenofobia, segregación racial, antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia;
 
 VII. Igualdad: Implica la eliminación de toda forma de discriminación en cualquiera de los ámbitos de la vida que se genere por pertenecer a cualquier sexo;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+VII Bis. Igualdad salarial. Remuneración igual por un trabajo de igual valor, sin distinguir el sexo, el género, la identidad de género, el origen étnico, la orientación sexual, la edad, las discapacidades, la condición social, económica, de salud o jurídica, entre otras;
 
 VIII. Ejecutivo Estatal: Al Titular del Poder Ejecutivo del Estado de Tabasco;
 
@@ -149,9 +155,11 @@ XVII. Transversalidad: Al proceso que permite garantizar la incorporación de la
 
 ### CAPÍTULO SEGUNDO. POLÍTICA ESTATAL EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 8.
 
-La Política Estatal y municipal en materia de igualdad social entre mujeres y hombres establecerá las acciones conducentes a fin de lograr la igualdad sustantiva en el ámbito económico, político, social y cultural, política que se encuentra comprendida y definida en el Programa Estatal y es encauzada a través del Sistema Estatal, para tal efecto deberá:
+La Política Estatal y municipal en materia de igualdad entre mujeres y hombres establecerá las acciones conducentes a fin de lograr la igualdad sustantiva en los ámbitos familiar, de cuidado, económico, político, de salud, social, laboral y cultural, política que se encuentra comprendida y definida en el Programa Estatal y es encauzada a través del Sistema Estatal, para tal efecto deberá:
 
 I. Aplicar el principio de igualdad de trato de oportunidades en la interpretación y aplicación de las normas jurídicas, así como las políticas públicas;
 
@@ -181,9 +189,25 @@ XIII. Impulsar la modificación de los patrones culturales que permita la erradi
 
 XIV. Diseñar e introducir los indicadores y mecanismos necesarios que permitan el conocimiento de los roles, situaciones, condiciones, aspiraciones y necesidades de mujeres y hombres para la generación de políticas públicas en materia de igualdad de trato y oportunidades;
 
-XV. Promover la igualdad de género y la flexibilidad para el desarrollo de todas las actividades de las personas que dividen su tiempo entre la educación, el empleo remunerado y las responsabilidades familiares; y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-XVI. Las demás que sean necesarias para el cumplimiento de su objeto.
+XV. Promover la igualdad de género y la flexibilidad para el desarrollo de todas las actividades de las personas que dividen su tiempo entre la educación, el empleo remunerado y las responsabilidades familiares;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XVI. Proponer iniciativas y políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos público y privado, de la economía, toma de decisiones, en la vida familiar, de cuidados, social, laboral, política, deportiva, cultural y civil;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XVII. Fomentar la igualdad entre mujeres y hombres en todos los ámbitos de la vida: familiar, de cuidados, económico, político, de salud, social, laboral y cultural;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XVIII. Establecer medidas tendientes a erradicar en todos los ámbitos de la vida profesional y laboral, la brecha salarial de género; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA ANTES FRACCIÓN XVI], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XIX. Las demás que sean necesarias para el cumplimiento de su objeto.
 
 ###### Artículo 9.
 
@@ -341,9 +365,13 @@ El Instituto Estatal de las Mujeres coordinará las acciones que el Sistema gene
 
 El Sistema tiene los siguientes objetivos:
 
-I. Establecer lineamientos mínimos en materia de acciones afirmativas, para la igualdad sustantiva entre mujeres y hombres, con la finalidad de erradicar la violencia y la discriminación por razón del sexo;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-II. Velar por la progresividad legislativa en materia de igualdad sustantiva entre mujeres y hombres, a fin de armonizar la legislación local con los estándares internacionales en la materia;
+I. Promover la igualdad entre mujeres y hombres y contribuir a la erradicación de todo tipo de discriminación; sin distinción de ningún tipo, en los términos del último párrafo del artículo 1o. y primer párrafo del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+II. Diseñar, implementar, ejecutar y evaluar políticas públicas y medidas para fortalecer el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres, para eliminar la brecha de género, en especial la salarial en los sectores público, privado y social;
 
 III. Evaluar las políticas públicas, los programas y servicios en materia de igualdad sustantiva;
 
@@ -361,9 +389,21 @@ IX. Concertar con los medios de comunicación pública y privada la adopción de
 
 X. Fomentar acciones encaminadas al reconocimiento progresivo del derecho de conciliación de la vida personal, laboral y familiar y establecer los medios y mecanismos tendentes a la convivencia sin menoscabo del pleno desarrollo humano;
 
-XI. Establecer medidas para la erradicación del acoso sexual; y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-XII. Las demás que se requieran para el cumplimiento de los objetivos del Sistema y las que determinen las disposiciones aplicables.
+XI. Establecer medidas para la erradicación del acoso sexual;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XII. Fomentar el acceso al trabajo de las personas que debido a su sexo o género están relegadas de puestos directivos, para contribuir a disminuir y erradicar la brecha salarial de género;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XIII. En el ámbito de su competencia, reducir y erradicar la brecha salarial y la segregación de las personas por razón de su sexo o género, del mercado de trabajo público o privado; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN XIV], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XIV. Las demás que determinen las disposiciones aplicables.
 
 Sin perjuicio de lo dispuesto por la fracción IV del artículo 12 de la presente Ley, se podrán otorgar anualmente reconocimientos o estímulos a las empresas que se distingan por su alto compromiso con la igualdad sustantiva entre mujeres y hombres. De acuerdo a los siguientes lineamientos:
 
@@ -594,3 +634,15 @@ P.O. 30 DE MAYO DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 187 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 7, FRACCIÓN VI, 8, EL PRIMER PÁRRAFO, FRACCIONES XV Y XVI; 19, FRACCIONES I, II, XI Y XII Y SE ADICIONAN LAS FRACCIONES I BIS Y VII BIS AL ARTÍCULO 7; LAS FRACCIONES XVII, XVIII Y XIX, AL ARTÍCULO 8, Y LAS FRACCIONES XIII Y XIV, AL ARTÍCULO 19, TODOS DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
