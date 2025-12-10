@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-prevencion-atencion-integral-y-control-para-el-vih-15937
 country: "mx"
 rank: "ley"
 publication_date: "2022-07-13"
-last_updated: "2022-07-13"
+last_updated: "2025-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159377&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PREVENCIÓN, ATENCIÓN INTEGRAL Y CONTROL PARA EL VIH DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número 113 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 13 de julio de 2022.
 
@@ -349,9 +349,11 @@ VI. Personas consejeras rotatorios o temporales, que serán representados por el
 
 VII. Personal médico con especialidad en infectología, epidemiología o en medicina interna, preferentemente que se encuentren al interior de los Servicios Estatales de Salud del Estado de Quintana Roo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 39.
 
-Consejeros Permanentes:
+Consejerías Permanentes:
 
 I. Sector Gubernamental Federal:
 
@@ -375,7 +377,9 @@ d) Sistema para el Desarrollo Integral de la Familia.
 
 e) Comisión Estatal de los Derechos Humanos.
 
-f) Instituto Quintanarroense de la Mujer.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+f) Secretaría de las Mujeres;
 
 g) Departamento de Comunicación Social.
 
@@ -383,7 +387,9 @@ III. Sector Gubernamental Municipal:
 
 a) Presidencias Municipales.
 
-Los consejeros designarán a sus respectivos suplentes permanentes y no rotativos con facultades amplias y suficientes para la toma de decisiones.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Las consejerías designarán a sus respectivos suplentes permanentes y no rotativos con facultades amplias y suficientes para la toma de decisiones.
 
 ###### Artículo 40.
 
@@ -702,3 +708,13 @@ EN CUMPLIMIENTO DE LAS OBLIGACIONES QUE ME IMPONEN LOS ARTÍCULOS 91 FRACCIÓN I
 DADO EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS TRES DÍAS DEL MES DE JUNIO DEL AÑO DOS MIL VEINTIDOS.
 
 EL GOBERNADOR DEL ESTADO DE QUINTANA ROO, C.P. CARLOS MANUEL JOAQUÍN GONZÁLEZ, RUBRICA; EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO, DR. JORGE ARTURO CONTRERAS CASTILLO, RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 184 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE QUINTANA ROO, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO, DE LA LEY DE SEGURIDAD CIUDADANA DEL ESTADO DE QUINTANA ROO, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, DE LA LEY DE LA JUVENTUD DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, DE LA LEY DE PREVENCIÓN, ATENCIÓN INTEGRAL Y CONTROL PARA EL VIH DEL ESTADO DE QUINTANA ROO, DE LA LEY DE SEGURIDAD ESCOLAR INTEGRAL DEL ESTADO DE QUINTANA ROO, DE LA LEY DE VÍCTIMAS DEL ESTADO DE QUINTANA ROO Y DE LA LEY EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones legales, de igual o menor jerarquía, que se opongan al contenido del presente Decreto.
