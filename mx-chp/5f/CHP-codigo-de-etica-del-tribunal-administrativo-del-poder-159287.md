@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-etica-del-tribunal-administrativo-del-poder-159287"
 country: "mx"
 rank: "codigo"
 publication_date: "2022-07-06"
-last_updated: "2022-07-06"
+last_updated: "2025-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # CODIGO DE ETICA DEL TRIBUNAL ADMINISTRATIVO DEL PODER JUDICIAL DEL ESTADO CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DEL TRIBUNAL ADMINISTRATIVO DEL PODER JUDICIAL DEL ESTADO CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025 (ABROGADO).
 
 Código publicado en el No. 232 del Periódico Oficial del Estado de Chiapas, el miércoles 6 de julio de 2022.
 
@@ -232,3 +234,25 @@ CUARTO. Publíquese en la página oficial de internet del Tribunal Administrativ
 Dado en el salón del Pleno del Tribunal Administrativo del Poder Judicial del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 29 días del mes de junio del año 2022.
 
 Magistrada Presidenta Susana Sarmiento López, Magistrada Mónica de Jesús Trejo Velázquez y Magistrado Víctor Marcelo Ruiz Reyna, ante la fe de la Secretaria General de Acuerdos y del Pleno Fabiola Antón Zorrilla.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE CHIAPAS”.]
+
+PRIMERO.- El presente Código de Ética del Tribunal de Justicia Administrativa del Estado de Chiapas, entrará en vigor el día siguiente de su publicación en el Periódico Oficial.
+
+SEGUNDO.- Se abroga el Código de Ética del Tribunal Administrativo del Poder Judicial del Estado de Chiapas, publicado en el Periódico Oficial número 232, de fecha 6 de julio de 2022.
+
+TERCERO.- El Órgano Interno de Control del Tribunal de Justicia Administrativa del Estado de Chiapas deberá proponer a la Junta de Gobierno y Administración, para su análisis y, en su caso, aprobación, el Código de Conducta del Tribunal de Justicia Administrativa del Estado de Chiapas, dentro de un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor del presente Código.
+
+CUARTO.- Hasta en tanto no se expida el Código de Conducta del Tribunal de Justicia Administrativa del Estado de Chiapas, continuará aplicándose el Código de Conducta del Tribunal Administrativo del Poder Judicial del Estado de Chiapas, en todo aquello que no contravenga lo dispuesto en el presente Código.
+
+QUINTO.- El Comité de Ética del Tribunal de Justicia Administrativa del Estado de Chiapas, aprobado por la Junta de Gobierno y Administración, mediante acta de sesión número 03/2025 de fecha 12 de septiembre del 2025; continuará ejerciendo sus atribuciones, facultades, competencias y funciones.
+
+SEXTO.- Se derogan todas las disposiciones que se opongan al presente Código de Ética del Tribunal de Justicia Administrativa del Estado de Chiapas.
+
+SÉPTIMO.- En cumplimiento a lo dispuesto por el artículo 13, fracción V de la Ley Estatal del Periódico Oficial, publíquese el presente Código de Ética del Tribunal de Justicia Administrativa del Estado de Chiapas en el Periódico Oficial.
+
+OCTAVO.- Una vez publicado en el Periódico Oficial, hágase del conocimiento de las personas servidoras públicas del Tribunal de Justicia Administrativa del Estado de Chiapas, por conducto de la Secretaría General de Acuerdos y del Pleno, el presente Código de Ética del Tribunal de Justicia Administrativa del Estado de Chiapas; y publíquese en la página oficial de internet de este Tribunal.
