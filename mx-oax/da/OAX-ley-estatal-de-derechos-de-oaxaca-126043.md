@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-derechos-de-oaxaca-126043"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-20"
-last_updated: "2025-06-10"
+last_updated: "2025-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126043&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ESTATAL DE DERECHOS DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 20 de diciembre de 2017.
 
@@ -149,31 +149,35 @@ Conceptos Entrada General
 
 Pesos
 
-I. Museo de los Pintores Oaxaqueños: 50.00
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-II. Museo de Arte Popular "Oaxaca": 28.00
+I. Museo de los Pintores Oaxaqueños (MUPO): 100.00
 
-III. Museo de Arqueología "Ervin Frissell" 28.00
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+II. Museo Estatal de Arte Popular "Oaxaca" (MEAPO): 50.00
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+III. Museo Oaxaqueño de Arqueología
+
+"Ervin Frissell" 50.00
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 IV. Museo de Arte Precolombino
 
-"Rufino Tamayo": 60.00
+"Rufino Tamayo": 100.00
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 V. Museo de Arte Contemporáneo y de las
 
-Culturas Oaxaqueñas (MACCO): 28.00
+Culturas Oaxaqueñas (MACCO): 100.00
 
 Número de UMA
 
-VI. Museo de Arte Prehispánico de México
-
-"Rufino Tamayo":
-
-a) Sala y equipo, por hora 30.00
+VI. (DEROGADA, P.O. 10 DE DICIEMBRE DE 2025)
 
 No pagarán el derecho a que se refieren las fracciones I a V, las personas mayores de 60 años, menores de 13 años, jubiladas, pensionadas, personas con discapacidad, profesores y estudiantes en activo.
 
@@ -185,7 +189,7 @@ Se causarán y pagarán derechos por el otorgamiento de uso, goce o aprovechamie
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 16 DE DICIEMBRE DE 2023, PÁGINA 2.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS, P.O. 21 DE DICIEMBRE DE 2024, PÁGINA 2.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS, P.O. 21 DE DICIEMBRE DE 2024, PÁGINA 2; Y 10 DE DICIEMBRE DE 2025, PÁGINA 2.]</small>
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
@@ -194,6 +198,8 @@ Se causarán y pagarán derechos por el otorgamiento de uso, goce o aprovechamie
 Se causarán y pagarán derechos por el otorgamiento de uso, goce o aprovechamiento de los bienes del dominio público que se señalan de conformidad con las cuotas:
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 16 DE DICIEMBRE DE 2023, PÁGINA 2.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS, P.O. 10 DE DICIEMBRE DE 2025, PÁGINA 2.]</small>
 
 ### CAPÍTULO II. SECRETARÍA DE ADMINISTRACIÓN
 
@@ -269,17 +275,23 @@ III. Sala privada de consulta: 5.00
 
 IV. Auditorio: 16.00
 
-V. Aulas para seminarios: 9.00
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+V. Aula para seminarios: 9.00
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
 VI. Cafetería 8.00
 
-VII. Sesión fotográfica: 17.00
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-VIII. Filmación o grabación del
+VII. Sesión fotográfica, filmación o
 
-inmueble, instalaciones y equipo: 6.17
+grabación del inmueble, instalaciones
+
+y equipo: 17.00
+
+VIII. (DEROGADA, P.O. 10 DE DICIEMBRE DE 2025)
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
@@ -511,11 +523,47 @@ Los administradores de los espacios públicos del Estado son la única instancia
 
 (DEROGADO, P.O. 16 DE DICIEMBRE DE 2023)
 
-### CAPÍTULO I. SERVICIOS PÚBLICOS COMUNES
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO IV. SECRETARÍA DE DESARROLLO ECONÓMICO
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 16 Bis.
+
+Se causarán y pagaran derechos por el otorgamiento de uso goce o aprovechamiento de los bienes de dominio público que se enlistan, de conformidad con las siguientes cuotas:
+
+Número de UMA
+
+Conceptos De 2 a 5 Hora
+
+horas adicional
+
+l. De los espacios de la Coordinación para la
+
+Comercialización de Productos Oaxaqueños:
+
+a) Área aproximada de 194 m2 al aire libre en el
+
+primer patio, con capacidad para 70 personas: 30.00 6.00
+
+b) Área aproximada de 29 m2 en el segundo
+
+patio, con capacidad para 40 personas: 25.00 5.00
+
+c) Área aproximada de 21 m2 en el segundo
+
+patio, con capacidad para 40 personas: 10.00 2.00
+
+d) Área aproximada de 30 m2 en el tercer piso,
+
+con capacidad para 25 personas: 15.00 3.00
+
+Los servicios de cada espacio serán los que se determine con el administrador del espacio público.
 
 ## TÍTULO TERCERO. DE LOS DERECHOS POR LA PRESTACIÓN DE SERVICIOS PÚBLICOS
 
-### CAPÍTULO II. SECRETARÍA DE GOBIERNO
+### CAPÍTULO I. SERVICIOS PÚBLICOS COMUNES
 
 ###### Artículo 17.
 
@@ -551,7 +599,7 @@ VII. Expedición de bases de licitación, que corresponderá al valor de la inve
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-### CAPÍTULO III. SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA
+### CAPÍTULO II. SECRETARÍA DE GOBIERNO
 
 ###### Artículo 18.
 
@@ -559,7 +607,7 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 15 A LA 16.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS DE LA 3 A LA 4; 29 DE DICIEMBRE DE 2018, PÁGINA 16; 24 DE DICIEMBRE DE 2019, PÁGINA 6; 26 DE DICIEMBRE DE 2020, PÁGINA 15; 21 DE DICIEMBRE DE 2024, PÁGINA 4.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS DE LA 3 A LA 4; 29 DE DICIEMBRE DE 2018, PÁGINA 16; 24 DE DICIEMBRE DE 2019, PÁGINA 6; 26 DE DICIEMBRE DE 2020, PÁGINA 15; 21 DE DICIEMBRE DE 2024, PÁGINA 4; Y 10 DE DICIEMBRE DE 2025, PÁGINAS DE LA 2 A LA 3.]</small>
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
@@ -567,7 +615,7 @@ Artículo 18 A. Se causarán y pagarán derechos por la cantidad de 1.43 UMA, po
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-### CAPÍTULO IV. SECRETARÍA DE SALUD
+### CAPÍTULO III. SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA
 
 ###### Artículo 19.
 
@@ -583,7 +631,7 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 16.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 16; 24 DE DICIEMBRE DE 2019, PÁGINA 7; 21 DE DICIEMBRE DE 2024, PÁGINAS DE LA 4 A LA 5.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 16; 24 DE DICIEMBRE DE 2019, PÁGINA 7; 21 DE DICIEMBRE DE 2024, PÁGINAS DE LA 4 A LA 5; Y 10 DE DICIEMBRE DE 2025, PÁGINA 3.]</small>
 
 ###### Artículo 21.
 
@@ -591,11 +639,31 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 16.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS, P.O. 21 DE DICIEMBRE DE 2024, PÁGINA 5.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS, P.O. 21 DE DICIEMBRE DE 2024, PÁGINA 5; Y 10 DE DICIEMBRE DE 2025, PÁGINA 3.]</small>
 
-### CAPÍTULO V. SECRETARÍA DE INFRAESTRUCTURAS Y COMUNICACIONES
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+###### Artículo 21 Bis.
+
+Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de encierros y depósitos concesionados, de conformidad con las siguientes cuotas:
+
+Conceptos Número de UMA
+
+l. Otorgamiento o refrendo de concesión por el
+
+servicio público de encierro o depósito vehicular,
+
+con vigencia de cinco años, en razón a su superficie:
+
+a) De 1,000 m2 a 2,000 m2: 200.00
+
+b) De 2,001 m2 a 3,000 m2: 300.00
+
+c) De 3,001 m2 a 4,000 m2: 400.00
+
+d) Más de 4,001 m2: 500.00
+
+### CAPÍTULO IV. SECRETARÍA DE SALUD
 
 ###### Artículo 22.
 
@@ -603,7 +671,7 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 17.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS, P.O. 21 DE DICIEMBRE DE 2024, PÁGINA 5.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS, P.O. 21 DE DICIEMBRE DE 2024, PÁGINA 5; Y 10 DE DICIEMBRE DE 2025, PÁGINA 3.]</small>
 
 ###### Artículo 23.
 
@@ -611,7 +679,9 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-### CAPÍTULO VI. SECRETARÍA DE MOVILIDAD
+### CAPÍTULO V. SECRETARÍA DE INFRAESTRUCTURAS Y COMUNICACIONES
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 24.
 
@@ -643,13 +713,119 @@ a) Alta complejidad: 30.00
 
 b) Mediana complejidad: 20.00
 
-V. Revalidación técnica de estudios y proyectos de obra: 30.00
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2024)</small>
+V. Revalidación técnica de estudios y proyectos de obra:
 
-VI. Las personas físicas, morales o unidades económicas que celebren contratos de obra pública o servicios relacionados con la misma, con dependencias y entidades de la Administración Pública y aquellas que celebren con los Municipios donde la fuente de financiamiento provenga de recursos estatales autorizados en el programa de inversión, así como de los fondos de Aportaciones Federales, regulados en la Ley de Coordinación Fiscal, pagarán y causarán por el importe total de la contratación, sin incluir el importe del impuesto al valor agregado, el tres por ciento, por los servicios de supervisión y verificación domiciliar.
+a) Alta complejidad: 15.00
+
+b) Mediana complejidad: 10.00
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+VI. Las personas físicas, morales o unidades económicas
+
+que celebren contratos de obra pública o servicios
+
+relacionados con la misma, con dependencias y entidades
+
+de la Administración Pública y aquellas que celebren con
+
+los Municipios donde la fuente de financiamiento provenga
+
+de recursos estatales autorizados en el Sistema Estatal de
+
+Inversión Pública, así como de los fondos de Aportaciones
+
+Federales, regulados en la Ley de Coordinación Fiscal,
+
+pagarán y causarán por el importe total de la contratación,
+
+sin incluir el importe del impuesto al valor agregado, el tres
+
+por ciento, por los servicios de supervisión y verificación de
+
+obra pública.
 
 El procedimiento y términos de la retención del derecho antes citado, se establecerá en Reglas de Carácter General.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+VII. Dictamen de Impacto Urbano Regional, requerido
+
+por personas físicas o morales, públicas o privadas,
+
+que pretendan llevar a cabo alguna de las siguientes
+
+obras o actividades:
+
+a) Construcción o ampliación de vialidades u otros
+
+componentes de la Infraestructura para la movilidad
+
+que se realicen en más de un municipio, siempre que
+
+no se encuentren previstos en los programas de zonas
+
+metropolitanas y conurbadas aplicables al área de que
+
+se trate: 500.00
+
+b) Construcción o ampliación de infraestructura primaria
+
+para el abasto de agua o suministro de energía eléctrica
+
+a los centros de población, siempre que no se encuentren
+
+previstos en los programas de desarrollo urbano o
+
+rebasen el territorio municipal de que se trate: 250.00
+
+c) Estaciones de servicio y plantas de almacenamiento
+
+de combustibles de gasolina, diesel, gas licuado de
+
+petróleo y gas natural, para servicio público o privado: 500.00
+
+d) Grandes equipamientos educativos, de salud, abasto,
+
+comercio y recreación que brinden servicios regionales
+
+o que supongan la concentración en un mismo momento
+
+de más de mil personas: 500.00
+
+e) Centrales de carga, terminales multimodales,
+
+centrales de autobuses, ferrocarriles y aeropuertos: 1000.00
+
+f) Proyectos habitacionales o de usos mixtos de más
+
+de 500 viviendas o más de 30 mil metros cuadrados
+
+de construcción: 250.00
+
+g) Construcción de parques industriales y eólicos: 1000.00
+
+h) Propuestas de modificación a los programas de
+
+ordenamiento territorial o de desarrollo urbano, o
+
+propuestas de cambio de uso del suelo, en zonas
+
+fuera de los límites de un centro de población existente,
+
+o que impliquen la incorporación de nuevas áreas de
+
+reserva para Crecimiento futuro del centro de población
+
+de que se trate, o cualquier tipo de aprovechamiento
+
+que pretendiera llevarse a cabo sobre suelo que estuviera
+
+calificado como no urbanizable por el programa que
+
+pretenda modificarse: 500.00
 
 ###### Artículo 25.
 
@@ -687,9 +863,7 @@ Los servicios públicos que se presten por los Organismos Operadores de Agua en 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-### CAPÍTULO VII. SECRETARÍA DE LAS CULTURAS Y ARTES
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+### CAPÍTULO VI. SECRETARÍA DE MOVILIDAD
 
 ###### Artículo 28.
 
@@ -700,6 +874,8 @@ Los servicios públicos que se presten por los Organismos Operadores de Agua en 
 Artículo 28 A. Se causarán y pagarán derechos por los servicios públicos en materia de movilidad, de conformidad con las siguientes cuotas:
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 16 DE DICIEMBRE DE 2023, PÁGINAS DE LA 5 A LA 6.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 10 DE DICIEMBRE DE 2025, PÁGINA 4.]</small>
 
 Artículo 28 B. (DEROGADO, P.O. 16 DE DICIEMBRE DE 2023)
 
@@ -745,7 +921,9 @@ Se causarán y pagarán derechos por los servicios públicos que a continuación
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-### CAPÍTULO VIII. SECRETARÍA DE BIENESTAR, TEQUIO E INCLUSIÓN
+### CAPÍTULO VII. SECRETARÍA DE LAS CULTURAS Y ARTES
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 31.
 
@@ -753,13 +931,15 @@ Se causarán y pagarán derechos por los servicios públicos que se enlistan a c
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 16 DE DICIEMBRE DE 2023, PÁGINA 6.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 10 DE DICIEMBRE DE 2025, PÁGINA 4.]</small>
+
 ###### Artículo 31 Bis.
 
 (DEROGADO, P.O. 16 DE DICIEMBRE DE 2023)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-### CAPÍTULO IX. SECRETARÍA DE FOMENTO AGROALIMENTARIO Y DESARROLLO RURAL
+### CAPÍTULO VIII. SECRETARÍA DE BIENESTAR, TEQUIO E INCLUSIÓN
 
 ###### Artículo 32.
 
@@ -777,7 +957,7 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-### CAPÍTULO X. SECRETARÍA DE FINANZAS
+### CAPÍTULO IX. SECRETARÍA DE FOMENTO AGROALIMENTARIO Y DESARROLLO RURAL
 
 ###### Artículo 33.
 
@@ -787,9 +967,7 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 6.]</small>
 
-### CAPÍTULO XI. SECRETARÍA DE ADMINISTRACIÓN
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+### CAPÍTULO X. SECRETARÍA DE FINANZAS
 
 ###### Artículo 34.
 
@@ -807,9 +985,9 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS 6; 24 DE DICIEMBRE DE 2019, PÁGINAS DE LA 7 A LA 8; 21 DE DICIEMBRE DE 2024, PÁGINA 6.]</small>
 
-### CAPÍTULO XII. SECRETARÍA DE HONESTIDAD, TRANSPARENCIA Y FUNCIÓN PÚBLICA
+### CAPÍTULO XI. SECRETARÍA DE ADMINISTRACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 36.
 
@@ -881,7 +1059,9 @@ b) Documento digitalizado, por hoja: 0.28
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-### CAPÍTULO XIII. SECRETARÍA DE DESARROLLO ECONÓMICO
+### CAPÍTULO XII. SECRETARÍA DE HONESTIDAD, TRANSPARENCIA Y FUNCIÓN PÚBLICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 38.
 
@@ -901,19 +1081,19 @@ Para efectos de lo anterior, la Secretaría de Honestidad, Transparencia y Funci
 
 La omisión total o parcial en lo antes señalado, afectará el presupuesto de la dependencia en un equivalente a dos veces el valor de la omisión efectuada, sin perjuicio de las demás sanciones establecidas en otras Leyes para los citados servidores públicos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 39.
 
-Se causarán y pagarán derechos por los servicios públicos a su cargo, las siguientes cuotas:
+Se causarán y pagarán derechos por los servicios públicos que se realicen en materia expedición de constancias y dictámenes, de conformidad con las siguientes cuotas:
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 23.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS, P.O. 31 DE DICIEMBRE DE 2024, PÁGINA 3.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS, P.O. 31 DE DICIEMBRE DE 2024, PÁGINA 3; Y 10 DE DICIEMBRE DE 2025, PÁGINA 4.]</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-### CAPÍTULO XIV. SECRETARÍA DE TURISMO
+### CAPÍTULO XIII. SECRETARÍA DE DESARROLLO ECONÓMICO
 
 ###### Artículo 40.
 
@@ -971,7 +1151,9 @@ i) Otros: 15.00 10.00
 
 Pesos
 
-II. Acceso 75.00
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+II. Acceso 80.00
 
 Para efectos de la aplicación del presente artículo, se comprenderá lo siguiente:
 
@@ -993,7 +1175,11 @@ h) Informativo o de difusión: Actores no gubernamentales que ofrecen la venta d
 
 i) Otros: Sectores no considerados, y que puedan ser susceptibles de participar en un evento de exposición y promoción.
 
-### CAPÍTULO XV. SECRETARÍA DE MEDIO AMBIENTE, BIODIVERSIDAD, ENERGÍAS Y SOSTENIBILIDAD
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Artículo 40 B. Por los servicios públicos que se presten en materia de servicios tecnológicos, de innovación e ingeniería, de laboratorio y de formación, capacitación y certificaciones, en el proyecto denominado Centro de Innovación y Diseño Industrial de Oaxaca, causarán y pagarán las cuotas que para cada supuesto se autoricen por el Consejo Oaxaqueño de Ciencia, Tecnología e Innovación, de conformidad con las disposiciones legales aplicables.
+
+### CAPÍTULO XIV. SECRETARÍA DE TURISMO
 
 ###### Artículo 41.
 
@@ -1003,7 +1189,7 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-### CAPÍTULO XVI. CONSEJERÍA JURÍDICA Y ASISTENCIA LEGAL DEL ESTADO
+### CAPÍTULO XV. SECRETARÍA DE MEDIO AMBIENTE, BIODIVERSIDAD, ENERGÍAS Y SOSTENIBILIDAD
 
 ###### Artículo 42.
 
@@ -1043,13 +1229,11 @@ Artículo 42 A. Se causarán y pagarán derechos por los servicios públicos que
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 16 DE DICIEMBRE DE 2023, PÁGINAS DE LA 7 A LA 8.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS, P.O. 21 DE DICIEMBRE DE 2024, PÁGINAS DE LA 6 A LA 7; Y 10 DE JUNIO DE 2025, PÁGINA 2.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS, P.O. 21 DE DICIEMBRE DE 2024, PÁGINAS DE LA 6 A LA 7; 10 DE JUNIO DE 2025, PÁGINA 2; Y 10 DE DICIEMBRE DE 2025, PÁGINAS DE LA 4 A LA 5.]</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-### CAPÍTULO XVII. SECRETARÍA DE EDUCACIÓN PÚBLICA
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+### CAPÍTULO XVI. CONSEJERÍA JURÍDICA Y ASISTENCIA LEGAL DEL ESTADO
 
 ###### Artículo 43.
 
@@ -1057,7 +1241,7 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 24.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 8; 29 DE DICIEMBRE DE 2018, PÁGINA 23; 24 DE DICIEMBRE DE 2019, PÁGINA 10; Y 18 DE DICIEMBRE DE 2021, PÁGINA 21.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 8; 29 DE DICIEMBRE DE 2018, PÁGINA 23; 24 DE DICIEMBRE DE 2019, PÁGINA 10; 18 DE DICIEMBRE DE 2021, PÁGINA 21; Y 10 DE DICIEMBRE DE 2025, PÁGINA 5.]</small>
 
 ###### Artículo 44.
 
@@ -1071,71 +1255,81 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 El registro de actos o contratos, se cobrarán por cada uno, con independencia de que aparezcan en un mismo documento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 44 Bis.
 
-Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de comercio, de conformidad con las siguientes cuotas:
+Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de Registro Público de Comercio, de conformidad con las siguientes cuotas:
 
-I. Registro Público de Comercio
+Conceptos Número de UMA
 
-Número de UMA
+l. Acta de sesión de consejo de administración: 10.00
 
-a) Acta de sesión de consejo de administración: 10.00
+II. Asamblea (extraordinaria y ordinaria): 10.00
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+III. Constitución de sociedad mercantil: 12.00
 
-b) Asamblea (extraordinaria y ordinaria): 10.00
+IV. Constitución de sociedad micro industrial: 10.00
 
-c) Constitución de sociedad mercantil: 12.00
+V. Depósito de firmas: 12.00
 
-d) Constitución de sociedad micro industrial: 10.00
+VI. Matriculación de comercio individual: 8.00
 
-e) Depósito de firmas: 12.00
+VII. Poderes que constan en las actas de asamblea: 14.00
 
-f) Matriculación de comercio individual: 8.00
+VIII. Registro de estatutos de sociedad extranjera: 14.00
 
-g) Poderes que constan en las actas de asamblea: 10.00
+IX. Renuncia de poderes: 8.00
 
-h) Registro de estatutos de sociedad extranjera: 14.00
+X. Cancelación de gravamen: 9.00
 
-i) Renuncia de poderes: 8.00
+XI. Convenio modificatorio: 12.00
 
-j) Cancelación de gravamen: 9.00
-
-k) Convenio modificatorio: 12.00
-
-l) Rectificación/cancelación de
+XII. Rectificación/cancelación de
 
 inscripciones/anotaciones: 8.00
 
-m) Inscripciones/anotaciones: 14.00
+XIII. Inscripciones/anotaciones: 14.00
 
-n) Poder para otorgar o suscribir títulos de créditos: 14.00
+XIV. Poder para otorgar o suscribir títulos de créditos: 14.00
 
-o) Anotación por orden de autoridad: 14.00
+XV. Anotación por orden de autoridad: 14.00
 
-p) Concurso mercantil: 14.00
+XVI. Concurso mercantil: 14.00
 
-q) Corredor público: 14.00
+XVII. Corredor público: 14.00
 
-r) Capitulaciones matrimoniales: 14.00
+XVIII. Capitulaciones matrimoniales: 14.00
 
-s) Nombramiento y cancelación de interventor: 14.00
+XIX. Nombramiento y cancelación de interventor: 14.00
 
-t) Cancelación de anotación por orden de autoridad: 14.00
+XX. Cancelación de anotación por orden de autoridad: 14.00
 
-u) Apoderado adicional otorgado por persona
+XXI. Apoderado adicional otorgado por persona
 
 física o moral: 3.50
 
-v) Informes solicitados por autoridades: 6.50
+XXII. Informes solicitados por autoridades: 6.50
 
-w) Consulta de folio mercantil: 2.00
+XXIII. Consulta de folio mercantil: 2.00
 
-x) Historia traslativa: 16.00
+XXIV. Historia traslativa: 16.00
 
-y) Certificado de gravamen: 10.00
+XXV. Certificado de gravamen: 10.00
+
+XXVI. Examen de todo documento público o privado,
+
+cuando éste se rechace por no ser inscribible: 8.50
+
+20 hojas Hoja
+
+adicional
+
+XXVII. Expedición de copias certificadas de
+
+asientos o documentos existentes en el archivo
+
+del Instituto: 6.50 0.04
 
 ###### Artículo 45.
 
@@ -1143,7 +1337,7 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 24.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 18 DE DICIEMBRE DE 2021, PÁGINA 21.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 18 DE DICIEMBRE DE 2021, PÁGINA 21; Y 10 DE DICIEMBRE DE 2026, PÁGINA 6.]</small>
 
 ###### Artículo 46.
 
@@ -1151,11 +1345,17 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 25.]</small>
 
-No se causará el pago de derechos de publicaciones a que se refiere este artículo, cuando se trate de la promulgación de leyes y decretos provenientes de la actividad del Poder Legislativo, decretos y acuerdos suscritos por el Titular del Poder Ejecutivo, acuerdos del Pleno del Poder Judicial, así como de los acuerdos y disposiciones emitidos por los Órganos Autónomos.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-Los Poderes Legislativo y Judicial, Órganos Autónomos, Ayuntamientos, así como las Dependencias y Entidades de la Administración Pública Estatal, pagarán los derechos correspondientes cuando se trate de publicaciones de acuerdos del Pleno del Poder Judicial y Órganos Autónomos, reglamentos, manuales, convocatorias para licitaciones públicas, estados financieros, convenios, edictos, cédulas de notificación, circulares, informes, avisos o aquellos que no cumplan con las características señaladas en el párrafo anterior.
+No se causará el pago de derechos de publicaciones a que se refiere este artículo, cuando se trate de la promulgación de leyes y decretos provenientes de la actividad del Poder Legislativo, así como decretos y acuerdos suscritos por el Titular del Poder Ejecutivo.
 
-Los Talleres Gráficos del Estado deberán proporcionar por lo menos dos ejemplares sin costo de todas las publicaciones al Poder Legislativo, al Archivo General del Estado, al Archivo General de la Nación y al Diario Oficial de la Federación con el propósito de conservarlos como parte de su acervo cultural; asimismo, deberá entregarse un ejemplar a la persona física o moral que ordene y pague derechos por publicación.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Los Poderes Legislativo y Judicial, Órganos Autónomos, Ayuntamientos, así como las Dependencias y Entidades de la Administración Pública Estatal y Federal, pagarán los derechos correspondientes cuando se trate de publicaciones de reglamentos, manuales, convocatorias para licitaciones públicas, estados financieros, convenios, edictos, cédulas de notificación, circulares, informes, avisos, padrones, listados o aquellos que no cumplan con las características señaladas en el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Los Talleres Gráficos del Estado deberán proporcionar por lo menos un ejemplar sin costo de todas las publicaciones al Poder Legislativo y al Archivo General del Estado, con el propósito de conservarlos como parte de su acervo cultural; asimismo, deberá entregarse un ejemplar a la persona física o moral que ordene y pague derechos por publicación.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
@@ -1173,7 +1373,9 @@ Para efectos del presente artículo, se entenderá por localidad urbana la local
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO I. BÁSICA
+### CAPÍTULO XVII. SECRETARÍA DE EDUCACIÓN PÚBLICA
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 47 Bis.
 
@@ -1181,11 +1383,707 @@ Se causarán y pagarán derechos por los servicios públicos en materia de educa
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 21 DE DICIEMBRE DE 2024, PÁGINAS DE LA 7 A LA 9.]</small>
 
-### CAPÍTULO II. MEDIA Y SUPERIOR
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. 10 DE DICIEMBRE DE 2026, PÁGINAS DE LA 6 A LA 7.]</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Artículo 47 A. Se causarán y pagarán derechos por los servicios públicos que realice la Universidad Tecnológica de la Mixteca, de conformidad con las siguientes cuotas:
+
+Número de UMA
+
+Conceptos Escolarizada Virtual
+
+l. Licenciatura:
+
+a) Ficha para el examen de selección: 0.00
+
+b) Inscripción: 0.00 0.00
+
+c) Reinscripción: 0.00 0.00
+
+d) Aplicación de examen extraordinario: 2.22 2.89
+
+e) Aplicación de examen especial: 3.38 4.72
+
+f) Reposición de credencial: 0.33 0.33
+
+g) Expedición de constancia de estudios: 0.39 0.43
+
+h) Expedición de certificado parcial o total: 3.92 3.92
+
+i) Aplicación de examen de titulación: 8.64 8.64
+
+j) Expedición de título: 11.54 25.78
+
+k) Curso de verano: 3.92
+
+l) Carta de pasante: 1.06
+
+m) Certificado total: 3.92
+
+II. Posgrado:
+
+a) Ficha para el examen de selección: 0.00
+
+b) Inscripción: 0.00 0.00
+
+c) Reinscripción: 0.00 0.00
+
+d) Expedición de constancia de estudios: 0.39 0.43
+
+e) Expedición de certificado parcial o total: 3.92 3.92
+
+f) Aplicación de examen de grado: 11.54 8.64
+
+g) Expedición de grado: 11.54 25.78
+
+h) Reposición de credencial: 0.33 0.33
+
+III. Enseñanza de idiomas :
+
+a) Examen extraordinario: 1.33
+
+b) Certificado de conocimientos: 3.89
+
+c) Curso de preparación semestral Certificado: 3.98
+
+d) Repetición de curso de inglés: 1.95
+
+La Junta de Gobierno de la Universidad aplicará descuentos del 25%, 50%, 75% o 100% sobre el importe total en los conceptos de los incisos d) y e) de la fracción I del presente artículo.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Artículo 47 B. Se causarán y pagarán derechos por los servicios públicos que realice la Universidad del Mar, de conformidad con las siguientes cuotas:
+
+Número de UMA
+
+Conceptos Escolarizada Virtual
+
+I. Licenciatura:
+
+a) Ficha para el examen de selección: 0.00
+
+b) Inscripción: 0.00 0.00
+
+c) Reinscripción: 0.00 0.00
+
+d) Aplicación de examen extraordinario: 2.22 2.89
+
+e) Aplicación de examen especial: 3.38 4.72
+
+f) Reposición de credencial: 0.33 0.33
+
+g) Expedición de constancia de estudios: 0.39 0.43
+
+h) Expedición de certificado parcial o total: 3.92 3.92
+
+i) Aplicación de examen de titulación: 8.64 8.64
+
+j) Expedición de título: 11.54 25.78
+
+k) Curso de verano: 3.92
+
+l) Carta de pasante: 1.06
+
+m) Certificado total: 3.92
+
+II. Posgrado:
+
+a) Ficha para el examen de selección: 0.00
+
+b) Inscripción: 0.00 0.00
+
+c) Reinscripción: 0.00 0.00
+
+d) Expedición de constancia de estudios: 0.39 0.43
+
+e) Expedición de certificado parcial o total: 3.92 3.92
+
+f) Aplicación de examen de grado: 11.54 8.64
+
+g) Expedición de grado: 11.54 25.78
+
+h) Reposición de credencial: 0.33 0.33
+
+III. Enseñanza de idiomas:
+
+a) Examen extraordinario: 1.33
+
+b) Certificado de conocimientos: 3.89
+
+c) Curso de preparación semestral Certificado: 3.98
+
+d) Repetición de curso de inglés: 1.95
+
+La Junta de Gobierno de la Universidad aplicará descuentos del 25%, 50%, 75% o 100% sobre el importe total en los conceptos de los incisos d) y e) de la fracción I del presente artículo.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Artículo 47 C. Se causarán y pagarán derechos por los servicios públicos que realice la Universidad del Istmo, de conformidad con las siguientes cuotas:
+
+Número de UMA
+
+Conceptos Escolarizada Virtual
+
+I. Licenciatura:
+
+a) Ficha para el examen de selección: 0.00
+
+b) Inscripción: 0.00 0.00
+
+c) Reinscripción: 0.00 0.00
+
+d) Aplicación de examen extraordinario: 2.22 2.89
+
+e) Aplicación de examen especial: 3.38 4.72
+
+f) Reposición de credencial: 0.33 0.33
+
+g) Expedición de constancia de estudios: 0.39 0.43
+
+h) Expedición de certificado parcial o total: 3.92 3.92
+
+i) Aplicación de examen de titulación: 8.64 8.64
+
+j) Expedición de título: 11.54 25.78
+
+k) Curso de verano: 3.92
+
+l) Carta de pasante: 1.06
+
+m) Certificado total: 3.92
+
+II. Posgrado:
+
+a) Ficha para el examen de selección: 0.00
+
+b) Inscripción: 0.00 0.00
+
+c) Reinscripción: 0.00 0.00
+
+d) Expedición de constancia de estudios: 0.39 0.43
+
+e) Expedición de certificado parcial o total: 3.92 3.92
+
+f) Aplicación de examen de grado: 11.54 8.64
+
+g) Expedición de grado: 11.54 25.78
+
+h) Reposición de credencial: 0.33 0.33
+
+III. Enseñanza de idiomas:
+
+a) Examen extraordinario: 1.33
+
+b) Certificado de conocimientos: 3.89
+
+c) Curso de preparación semestral Certificado: 3.98
+
+d) Repetición de curso de inglés: 1.95
+
+La Junta de Gobierno de la Universidad aplicará descuentos del 25%, 50%, 75% o 100% sobre el importe total en los conceptos de los incisos d) y e) de la fracción I del presente artículo.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Artículo 47 D. Se causarán y pagarán derechos por los servicios públicos que realice la Universidad del Papaloapan, de conformidad con las siguientes cuotas:
+
+Número de UMA
+
+Conceptos Escolarizada
+
+l. Licenciatura:
+
+a) Ficha para el examen de selección: 0.00
+
+b) Inscripción: 0.00
+
+c) Reinscripción: 0.00
+
+d) Aplicación de examen extraordinario: 2.22
+
+e) Aplicación de examen especial: 3.38
+
+f) Reposición de credencial: 0.33
+
+g) Expedición de constancia de estudios: 0.39
+
+h) Expedición de certificado parcial o total: 3.92
+
+i) Aplicación de examen de titulación: 8.64
+
+j) Expedición de título: 11.54
+
+k) Curso de verano: 3.92
+
+l) Carta de pasante: 1.06
+
+m) Certificado total: 3.92
+
+II. Posgrado:
+
+a) Ficha para el examen de selección: 0.00
+
+b) Inscripción: 0.00
+
+c) Reinscripción: 0.00
+
+d) Expedición de constancia de estudios: 0.39
+
+e) Expedición de certificado parcial o total: 3.92
+
+f) Aplicación de examen de grado: 11.54
+
+g) Expedición de grado: 11.54
+
+h) Reposición de credencial: 0.33
+
+III. Enseñanza de idiomas:
+
+a) Examen extraordinario: 1.33
+
+b) Certificado de conocimientos: 3.89
+
+c) Curso de preparación semestral Certificado: 3.98
+
+d) Repetición de curso de inglés: 1.95
+
+La Junta de Gobierno de la Universidad aplicará descuentos del 25%, 50%, 75% o 100% sobre el importe total en los conceptos de los incisos d) y e) de la fracción I del presente artículo.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Artículo 47 E. Se causarán y pagarán derechos por los servicios públicos que realice la Universidad de la Sierra Sur, de conformidad con las siguientes cuotas:
+
+Número de UMA
+
+Conceptos Escolarizada
+
+I. Licenciatura:
+
+a) Ficha para el examen de selección: 0.00
+
+b) Inscripción: 0.00
+
+c) Reinscripción: 0.00
+
+d) Aplicación de examen extraordinario: 2.22
+
+e) Aplicación de examen especial: 3.38
+
+f) Reposición de credencial: 0.33
+
+g) Expedición de constancia de estudios: 0.39
+
+h) Expedición de certificado parcial o total: 3.92
+
+i) Aplicación de examen de titulación: 8.64
+
+j) Expedición de título: 11.54
+
+k) Curso de verano: 3.92
+
+l) Carta de pasante: 1.06
+
+m) Certificado total: 3.92
+
+II. Posgrado:
+
+a) Ficha para el examen de selección: 0.00
+
+b) Inscripción: 0.00
+
+c) Reinscripción: 0.00
+
+d) Expedición de constancia de estudios: 0.39
+
+e) Expedición de certificado parcial o total: 3.92
+
+f) Aplicación de examen de grado: 11.54
+
+g) Expedición de grado: 11.54
+
+h) Reposición de credencial: 0.33
+
+III. Enseñanza de idiomas:
+
+a) Examen extraordinario: 1.33
+
+b) Certificado de conocimientos: 3.89
+
+c) Curso de preparación semestral Certificado: 3.98
+
+d) Repetición de curso de inglés: 1.95
+
+La Junta de Gobierno de la Universidad aplicará descuentos del 25%, 50%, 75% o 100% sobre el importe total en los conceptos de los incisos d) y e) de la fracción I del presente artículo.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Artículo 47 F. Se causarán y pagarán derechos por los servicios públicos que realice la Universidad de la Sierra Juárez, de conformidad con las siguientes cuotas:
+
+Número de UMA
+
+Conceptos Escolarizada
+
+I. Licenciatura:
+
+a) Ficha para el examen de selección: 0.00
+
+b) Inscripción: 0.00
+
+c) Reinscripción: 0.00
+
+d) Aplicación de examen extraordinario: 2.22
+
+e) Aplicación de examen especial: 3.38
+
+f) Reposición de credencial: 0.33
+
+g) Expedición de constancia de estudios: 0.39
+
+h) Expedición de certificado parcial o total: 3.92
+
+i) Aplicación de examen de titulación: 8.64
+
+j) Expedición de título: 11.54
+
+k) Curso de verano: 3.92
+
+l) Carta de pasante: 1.06
+
+m) Certificado total: 3.92
+
+II. Posgrado:
+
+a) Ficha para el examen de selección: 0.00
+
+b) Inscripción: 0.00
+
+c) Reinscripción: 0.00
+
+d) Expedición de constancia de estudios: 0.39
+
+e) Expedición de certificado parcial o total: 3.92
+
+f) Aplicación de examen de grado: 11.54
+
+g) Expedición de grado: 11.54
+
+h) Reposición de credencial: 0.33
+
+III. Enseñanza de idiomas:
+
+a) Examen extraordinario: 1.33
+
+b) Certificado de conocimientos: 3.89
+
+c) Curso de preparación semestral Certificado: 3.98
+
+d) Repetición de curso de inglés: 1.95
+
+La Junta de Gobierno de la Universidad aplicará descuentos del 25%, 50%, 75% o 100% sobre el importe total en los conceptos de los incisos d) y e) de la fracción I del presente artículo.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Artículo 47 G. Se causarán y pagarán derechos por los servicios públicos que realice la Universidad de la Cañada "UNCA", de conformidad con las siguientes cuotas :
+
+Número de UMA
+
+Conceptos Escolarizada Virtual
+
+I. Licenciatura:
+
+a) Ficha para el examen de selección: 0.00
+
+b) Inscripción: 0.00 0.00
+
+c) Reinscripción: 0.00 0.00
+
+d) Aplicación de examen extraordinario: 2.22 2.89
+
+e) Aplicación de examen especial: 3.38 4.72
+
+f) Reposición de credencial: 0.33 0.33
+
+g) Expedición de constancia de estudios: 0.39 0.43
+
+h) Expedición de certificado parcial o total: 3.92 3.92
+
+i) Aplicación de examen de titulación: 8.64 8.64
+
+j) Expedición de título: 11.54 25.78
+
+k) Curso de verano: 3.92
+
+l) Carta de pasante: 1.06
+
+m) Certificado total: 3.92
+
+II. Posgrado:
+
+a) Ficha para el examen de selección: 0.00
+
+b) Inscripción: 0.00 0.00
+
+c) Reinscripción: 0.00 0.00
+
+d) Expedición de constancia de estudios: 0.39 0.43
+
+e) Expedición de certificado parcial o total: 3.92 3.92
+
+f) Aplicación de examen de grado: 11.54 8.64
+
+g) Expedición de grado: 11.54 25.78
+
+h) Reposición de credencial: 0.33 0.33
+
+III. Enseñanza de idiomas:
+
+a) Examen extraordinario: 1.33
+
+b) Certificado de conocimientos: 3.89
+
+c) Curso de preparación semestral Certificado: 3.98
+
+d) Repetición de curso de inglés: 1.95
+
+La Junta de Gobierno de la Universidad aplicará descuentos del 25%, 50%, 75% o 100% sobre el importe total en los conceptos de los incisos d) y e) de la fracción I del presente artículo.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Artículo 47 H. Se causarán y pagarán derechos por los servicios públicos que realice la NovaUniversitas, de conformidad con las siguientes cuotas:
+
+Número de UMA
+
+Conceptos Escolarizada Virtual
+
+I. Licenciatura:
+
+a) Ficha para el examen de selección: 0.00
+
+b) Inscripción: 0.00 0.00
+
+c) Reinscripción: 0.00 0.00
+
+d) Aplicación de examen extraordinario: 2.22 2.89
+
+e) Aplicación de examen especial: 3.38 4.72
+
+f) Reposición de credencial: 0.33 0.33
+
+g) Expedición de constancia de estudios: 0.39 0.43
+
+h) Expedición de certificado parcial o total: 3.92 3.92
+
+i) Aplicación de examen de titulación: 8.64 8.64
+
+j) Expedición de título: 11.54 25.78
+
+k) Curso de verano: 3.92
+
+l) Carta de pasante: 1.06
+
+m) Certificado total: 3.92
+
+II. Posgrado:
+
+a) Ficha para el examen de selección: 0.00
+
+b) Inscripción: 0.00 0.00
+
+c) Reinscripción: 0.00 0.00
+
+d) Expedición de constancia de estudios: 0.39 0.43
+
+e) Expedición de certificado parcial o total: 3.92 3.92
+
+f) Aplicación de examen de grado: 11.54 8.64
+
+g) Expedición de grado: 11.51 25.78
+
+h) Reposición de credencial: 0.33 0.33
+
+III. Enseñanza de idiomas:
+
+a) Examen extraordinario: 1.33
+
+b) Certificado de conocimientos: 3.89
+
+c) Curso de preparación semestral Certificado: 3.98
+
+d) Repetición de curso de inglés: 1.95
+
+La Junta de Gobierno de la Universidad aplicará descuentos del 25%, 50%, 75% o 100% sobre el importe total en los conceptos de los incisos d) y e) de la fracción I del presente artículo.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Artículo 47 I. Se causarán y pagarán derechos por los servicios públicos que realice la Universidad de la Costa "UNCOS", de conformidad con las siguientes cuotas:
+
+Número de UMA
+
+Conceptos Escolarizada Virtual
+
+I. Licenciatura:
+
+a) Ficha para el examen de selección: 0.00
+
+b) Inscripción: 0.00 0.00
+
+c) Reinscripción: 0.00 0.00
+
+d) Aplicación de examen extraordinario: 2.22 2.89
+
+e) Aplicación de examen especial: 3.38 4.72
+
+f) Reposición de credencial: 0.33 0.33
+
+g) Expedición de constancia de estudios: 0.39 0.43
+
+h) Expedición de certificado parcial o total: 3.92 3.92
+
+i) Aplicación de examen de titulación: 8.64 8.64
+
+j) Expedición de título: 11.54 25.78
+
+k) Curso de verano: 3.92
+
+l) Carta de pasante: 1.06
+
+m) Certificado total: 3.92
+
+II. Posgrado:
+
+a) Ficha para el examen de selección: 0.00
+
+b) Inscripción: 0.00 0.00
+
+c) Reinscripción: 0.00 0.00
+
+d) Expedición de constancia de estudios: 0.39 0.43
+
+e) Expedición de certificado parcial o total: 3.92 3.92
+
+f) Aplicación de examen de grado: 11.54 8.64
+
+g) Expedición de grado: 11.54 25.78
+
+h) Reposición de credencial: 0.33 0.33
+
+III. Enseñanza de idiomas:
+
+a) Examen extraordinario: 1.33
+
+b) Certificado de conocimientos: 3.89
+
+c) Curso de preparación semestral Certificado: 3.98
+
+d) Repetición de curso de inglés: 1.95
+
+La Junta de Gobierno de la Universidad aplicará descuentos del 25%, 50%, 75% o 100% sobre el importe total en los conceptos de los incisos d) y e) de la fracción I del presente artículo.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Artículo 47 J. Se causarán y pagarán derechos por los servicios públicos que realice la Universidad de Chalcatongo "UNICHA", de conformidad con las siguientes cuotas:
+
+Número de UMA
+
+Conceptos Escolarizada Virtual
+
+I. Licenciatura:
+
+a) Ficha para el examen de selección: 0.00
+
+b) Inscripción: 0.00 0.00
+
+c) Reinscripción: 0.00 0.00
+
+d) Aplicación de examen extraordinario: 2.22 2.89
+
+e) Aplicación de examen especial: 3.38 4.72
+
+f) Reposición de credencial: 0.33 0.33
+
+g) Expedición de constancia de estudios: 0.39 0.43
+
+h) Expedición de certificado parcial o total: 3.92 3.92
+
+i) Aplicación de examen de titulación: 8.64 8.64
+
+j) Expedición de título: 11.54 25.78
+
+k) Curso de verano: 3.92
+
+l) Carta de pasante: 1.06
+
+m) Certificado total: 3.92
+
+II. Posgrado:
+
+a) Ficha para el examen de selección: 0.00
+
+b) Inscripción: 0.00 0.00
+
+c) Reinscripción: 0.00 0.00
+
+d) Expedición de constancia de estudios: 0.39 0.43
+
+e) Expedición de certificado parcial o total: 3.92 3.92
+
+f) Aplicación de examen de grado: 11.54 8.64
+
+g) Expedición de grado: 11.54 25.78
+
+h) Reposición de credencial: 0.33 0.33
+
+III. Enseñanza de idiomas:
+
+a) Examen extraordinario: 1.33
+
+b) Certificado de conocimientos: 3.89
+
+c) Curso de preparación semestral Certificado: 3.98
+
+d) Repetición de curso de inglés: 1.95
+
+La Junta de Gobierno de la Universidad aplicará descuentos del 25%, 50%, 75% o 100% sobre el importe total en los conceptos de los incisos d) y e) de la fracción I del presente artículo.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO XVIII. SECRETARÍA DEL TRABAJO
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Artículo 47 K. Se causarán y pagarán derechos por los servicios públicos en materia de certificación y competencias laborales de conformidad con las siguientes cuotas:
+
+Conceptos Número de UMA
+
+l. Curso especializado:
+
+a) Certificación estándar de competencia:
+
+1. Nivel 1: 36.00
+
+2. Nivel 2: 38.00
+
+3. Nivel 3: 45.00
+
+4. Nivel 4: 50.00
+
+5. Nivel 5: 62.00
+
+II. Reposición, reexpedición y duplicado de la Cédula de
+
+Certificación expedida por el Consejo Nacional de
+
+Normalización y Certificación de Competencias
+
+Laborales (CONOCER): 15.00
+
+III. Acreditación Centros de Evaluación (CE): 180.00
+
+IV. Evaluadores Independientes (EI): 180.00
 
 ## TÍTULO CUARTO. DE LOS DERECHOS POR LA PRESTACIÓN DE SERVICIOS EDUCATIVOS
 
-### CAPÍTULO III. SISTEMA DE ESTUDIOS TECNOLÓGICOS
+### CAPÍTULO I. BÁSICA
 
 ###### Artículo 48.
 
@@ -1195,9 +2093,7 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS DE LA 9 A LA 11.]</small>
 
-### CAPÍTULO IV. SISTEMA DE UNIVERSIDADES ESTATALES DE OAXACA
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+### CAPÍTULO II. MEDIA Y SUPERIOR
 
 ###### Artículo 49.
 
@@ -1213,9 +2109,15 @@ Conceptos Número de UMA
 
 I. Inscripción y/o reinscripción: 0.00
 
-II. Aplicación de examen extraordinario: 1.89
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-III. Aplicación de examen especial: 5.00
+II. Aplicación de 1ª o 2ª Evaluación
+
+Extraordinaria: 1.89
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+III. Aplicación de Evaluación Especial: 5.00
 
 IV. Reposición de credencial: 0.66
 
@@ -1353,6 +2255,8 @@ electrónico CECyTEO: 1.98
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
+### CAPÍTULO III. SISTEMA DE ESTUDIOS TECNOLÓGICOS
+
 ###### Artículo 53.
 
 Se causarán y pagarán derechos por los servicios públicos que se (sic) realice el Instituto Tecnológico Superior de Teposcolula, de conformidad con las siguientes cuotas:
@@ -1455,17 +2359,47 @@ VIII. Curso especializado: 33.47
 
 IX. Curso Básico: 5.58
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+X. Certificación estándar de competencia:
+
+a) Nivel 1: 36.00
+
+b) Nivel 2: 38.00
+
+c) Nivel 3: 45.00
+
+d) Nivel 4: 50.00
+
+e) Nivel 5: 62.00
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XI. Reposición, Reexpedición y duplicado
+
+del (sic) Cédula de Certificación expedida
+
+por el Consejo Nacional de Normalización
+
+y Certificación de Competencias Laborales
+
+(CONOCER): 15.00
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XII. Acreditación Centros de Evaluación (CE): 180.00
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XIII. Evaluadores Independientes (El): 180.00
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO IV. SISTEMA DE UNIVERSIDADES ESTATALES DE OAXACA
 
 ###### Artículo 57.
 
-Se causarán y pagarán derechos por los servicios públicos que realicen las universidades (sic) parte del Sistema de Universidades Estatales, de conformidad con las siguientes cuotas:
-
-> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 16 DE DICIEMBRE DE 2023, PÁGINA 9.]</small>
-
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS, P.O. 21 DE DICIEMBRE DE 2024, PÁGINA 9.]</small>
-
-El Consejo Académico de la Universidad aplicará descuentos del 25%, 50%, 75% o 100% sobre el importe total en los conceptos de los incisos d) y e) de la fracción I del presente artículo.
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2025)
 
 TRANSITORIOS:
 
@@ -1590,3 +2524,11 @@ P.O. 10 DE JUNIO DE 2025.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 885.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE DERECHOS DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente decreto entrará en vigor el uno de enero de dos mil veintiséis, previa publicación en el Periódico Oficial del Gobierno del Estado.
