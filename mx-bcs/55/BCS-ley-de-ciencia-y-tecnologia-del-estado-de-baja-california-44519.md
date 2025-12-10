@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-ciencia-y-tecnologia-del-estado-de-baja-california-44519
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-20"
-last_updated: "2022-10-26"
+last_updated: "2025-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY DE CIENCIA Y TECNOLOGIA DEL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN PARA EL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 10 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE DICIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 20 de marzo de 2005.
 
@@ -846,3 +848,27 @@ B.O. 26 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 2851 SE REFORMAN LAS FRACCIONES XII Y XII (SIC) DEL ARTÍCULO 5, FRACCIÓN XII DEL ARTÍCULO 33, FRACCIONES IX Y X DEL ARTÍCULO 34 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 57; Y SE ADICIONA UNA FRACCIÓN XIV AL ARTÍCULO 5 Y UNA FRACCIÓN XI AL ARTÍCULO 34, TODO A LA LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3229 SE EXPIDE LA LEY DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se abroga la Ley de Ciencia y Tecnología del Estado de Baja California Sur, publicada en el Boletín Oficial del Gobierno del Estado el 20 de marzo de 2005.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO.- El Consejo Sudcaliforniano de Humanidades, Ciencias, Tecnologías e Innovación continuará realizando las facultades, actividades y funciones conforme a la Ley de Ciencia y Tecnología del Estado de Baja California Sur que se abroga se le otorgan al Consejo Sudcaliforniano de Ciencia y Tecnología, en tanto se elaboren las disposiciones reglamentarias y administrativas correspondientes a esta Ley y en todo lo que no se le oponga.
+
+QUINTO.- El Consejo Sudcaliforniano de Humanidades, Ciencias, Tecnologías e Innovación actualizará los reglamentos y disposiciones administrativas emitidos con base en la Ley de Ciencia y Tecnología del Estado de Baja California Sur que se abroga, y/o emitirá nuevos ordenamientos administrativos, incluyendo su Estatuto Orgánico, dentro del plazo de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto, sujetándose de forma integral al objeto, objetivos y contenido de la presente Ley para su cumplimiento.
+
+SEXTO.- Los procedimientos y actos administrativos en general que estén pendientes de resolución con anterioridad a la entrada en vigor de esta Ley, continuarán tramitándose hasta su finalización conforme a lo dispuesto en la Ley de Ciencia y Tecnología del Estado de Baja California Sur que se abroga.
+
+SÉPTIMO.- Los recursos humanos, materiales y bienes patrimoniales, así como las partidas presupuestales que le correspondían al Consejo Sudcaliforniano de Ciencia y Tecnología, establecían la Ley de Ciencia y Tecnología del Estado de Baja California Sur que se abroga, pasarán al Consejo Sudcaliforniano de Humanidades, Ciencias, Tecnologías e Innovación establecido en esta Ley.
+
+El presente Decreto no afecta de forma alguna las relaciones laborales actuales de los trabajadores del Consejo Sudcaliforniano de Ciencia y Tecnología que pasarán a formar parte del Consejo Sudcaliforniano de Humanidades, Ciencias, Tecnologías e Innovación, respetándose sus derechos y obligaciones en términos de lo previsto por la legislación laboral vigente y contratos de trabajo correspondientes.
+
+OCTAVO.- Los nuevos convenios que se formalicen para efecto de los recursos que se otorguen a los Fondos por parte del Gobierno del Estado, determinarán el objeto de cada fondo, sus reglas de operación, seguimiento y evaluación.
+
+Los convenios relativos al Fondo Estatal que estén en operación y hayan sido constituidos con base en la Ley de Ciencia y Tecnología del Estado de Baja California Sur que se abroga, se actualizarán por el Consejo Sudcaliforniano de Humanidades, Ciencias, Tecnologías e Innovación, con base en lo dispuesto en esta Ley, y continuarán vigentes para el cumplimiento de ésta.
