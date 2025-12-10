@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-fiscalia-general-del-estado-de-quintana-1381
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-09-13"
-last_updated: "2025-02-12"
+last_updated: "2025-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 13 de septiembre de 2019.
 
@@ -451,25 +451,41 @@ c) Fiscalía de Distrito Sur, con sede en Chetumal.
 
 III. Fiscalías Especializadas:
 
-a) (DEROGADO, P.O. 18 DE SEPTIEMBRE DE 2024)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-b) Fiscalía Especializada Jurídica y de los Derechos Humanos;
+a) Fiscalía Especializada Jurídica y de los Derechos Humanos;
 
-c) Fiscalía Especializada en Combate al Delito de Feminicidio;
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-d) Fiscalía Especializada en Combate al Delito de Homicidio;
+b) Fiscalía Especializada en Combate al Delito de Feminicidio;
 
-e) Fiscalía Especializada en Combate a Delitos de Trata y Explotación de Niñas, Niños y Adolescentes;
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-f) Fiscalía Especializada en Investigación de Delitos Cometidos por Adolescentes;
+c) Fiscalía Especializada en Combate al Delito de Homicidio;
 
-g) Fiscalía Especializada en Combate a Delitos de Trata de Personas;
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+d) Fiscalía Especializada en Combate a Delitos de Trata y Explotación de Niñas, Niños y Adolescentes;
 
-h) Fiscalía Especializada en Combate a Delitos cometidos Contra la Mujer y por Razones de Género;
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-i) Fiscalía Especializada en Combate a los Delitos de Secuestro y Extorsión;
+e) Fiscalía Especializada en Investigación de Delitos Cometidos por Adolescentes;
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+f) Fiscalía Especializada en combate a Delitos de Trata de Personas;
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+g) Fiscalía Especializada en Combate a Delitos cometidos Contra la Mujer y por Razones de Género;
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+h) Fiscalía Especializada en Combate a los Delitos de Secuestro;
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+i) Fiscalía Especializada en combate a los Delitos de Extorsión y Delitos Vinculados;
 
 j) Fiscalía Especializada en Combate a Delitos de Desaparición Forzada de Personas y Desaparición Cometida por Particulares;
 
@@ -1183,11 +1199,19 @@ XIII. Proteger la identidad de la persona víctima y la de su familia, y
 
 XIV. Determinar la orden o medida de protección necesaria de acuerdo con los protocolos y legislación aplicables y canalizar a la persona víctima en forma inmediata para su atención médica psicológica y jurídica.
 
-> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 34 Ter.
 
-La Fiscalía Especializada en Combate a los Delitos de Secuestro y Extorsión, se encargará de la investigación de los hechos relacionados con los delitos en la materia establecidos en la normatividad aplicable.
+La Fiscalía Especializada en Combate a los Delitos de Secuestro, se encargará de la investigación de los hechos relacionados con los delitos en la materia establecidos en la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 34 Ter 1.
+
+La Fiscalía Especializada en Combate a los Delitos de Extorsión, se encargará de la investigación de los hechos relacionados con los delitos en la materia establecidos en términos de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión del Estado de Quintana Roo, y las demás disposiciones jurídicas aplicables.
+
+El personal que integre la Fiscalía Especializada en Combate a los Delitos de Extorsión deberá haber sido capacitado y evaluado, así como contar con los certificados y la especialización requerida en materia de extorsión, de conformidad con los criterios que establezca el Sistema Nacional de Seguridad Pública.
 
 > <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
@@ -3492,3 +3516,29 @@ P.O. 12 DE FEBRERO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se contrapongan a lo dispuesto en el presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 182 POR EL QUE SE EXPIDE LA LEY PARA PREVENIR, INVESTIGAR Y SANCIONAR LOS DELITOS EN MATERIA DE EXTORSIÓN DEL ESTADO DE QUINTANA ROO, SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO, Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD CIUDADANA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Consejo Estatal de Prevención y Combate a la Extorsión deberá instalarse en un plazo no mayor a 90 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+TERCERO. La Secretaría de Seguridad Ciudadana deberá establecer la Estrategia Estatal para Prevenir y Combatir el Delito de Extorsión en un plazo no mayor a 180 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. La Fiscalía General del Estado de Quintana Roo deberá crear y poner en operación la Fiscalía Especializada en Combate a los Delitos de Extorsión y Delitos Vinculados en un periodo no mayor a 180 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+Hasta en tanto no se integre y entre en operaciones la Fiscalía Especializada señalada, la Fiscalía Especializada en Combate a los Delitos de Secuestro y Extorsión seguirá operando en términos de las disposiciones jurídicas aplicables previo a la entrada en vigor del presente Decreto.
+
+La Fiscalía Especializada en Combate a los Delitos de Secuestro y Extorsión, deberá transferir, en su totalidad, las Carpetas de Investigación iniciadas con motivo de las denuncias presentadas con anterioridad a la entrada en vigor del presente Decreto, para conocimiento y substanciación hasta su culminación a la nueva Fiscalía Especializada en Combate a los Delitos de Extorsión y Delitos Vinculados.
+
+QUINTO. Las Carpetas de Investigación iniciadas con motivo de las denuncias presentadas con anterioridad a la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables jurídicas antes de la vigencia de este.
+
+SEXTO. Los Centros Penitenciarios tendrán 180 días hábiles contados a partir de la entrada en vigor del presente Decreto para establecer los procedimientos y tecnologías de inhibición de entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen a que se refiere el artículo 38 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+SÉPTIMO. La Secretaría de Seguridad Ciudadana deberá establecer y poner en operación el Centro Estatal de Atención a Denuncias por el Delito de Extorsión en un plazo no mayor a 180 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+OCTAVO. El Gobierno del Estado de Quintana Roo, a través de sus dependencias y organismos auxiliares, y los Ayuntamientos deberán proveer lo necesario para el correcto y eficaz cumplimiento de lo previsto en el presente Decreto.
+
+NOVENO. Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento, lo cual se llevará a cabo de manera progresiva, conforme a la disponibilidad presupuestal, con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes, por lo que no incrementarán su presupuesto y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
