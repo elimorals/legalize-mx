@@ -4,7 +4,7 @@ identifier: "CHP-ley-del-sistema-estatal-de-seguridad-publica-70286"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-26"
-last_updated: "2025-02-13"
+last_updated: "2025-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70286&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, PUBLICADA EN EL P.O. DE 10 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 26 de agosto de 2009.
 
@@ -2300,3 +2302,21 @@ Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarqu�
 Artículo Tercero.- La persona titular de la Secretaría de Seguridad del Pueblo, deberá someter a consideración de la persona Titular del Poder Ejecutivo, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, las adecuaciones normativas requeridas, para su aprobación, expedición y publicación correspondiente.
 
 Artículo Cuarto.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, a la entrada en vigor del presente Decreto, realizarán de inmediato las acciones necesarias para su cumplimiento.
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga la Ley del Sistema Estatal de Seguridad Pública, publicada, mediante Decreto número 263 en el Periódico Oficial número 183, Tomo II, de fecha 26 de agosto de 2009 y se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en la presente Ley.
+
+Artículo Tercero.- Las disposiciones legales, lineamientos, acuerdos y cualquier otra normativa que se hayan emitido como consecuencia de la ley a que se refiere el transitorio anterior seguirán vigentes hasta en tanto no se emita la normativa que las sustituya o las deje sin efectos.
+
+Artículo Cuarto.- La persona titular del Secretariado Ejecutivo, en un término no mayor a ciento veinte días hábiles, contados a partir de la entrada en vigor del presente Decreto, deberá llevar a cabo las adecuaciones a su marco normativo interno, para efectos de dar cumplimiento a las disposiciones del presente instrumento.
+
+Artículo Quinto.- Las Dependencias y Entidades normativas del Poder Ejecutivo del Estado, así como la Fiscalía General del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el cumplimiento del presente Decreto.
+
+Artículo Sexto.- Los derechos de las personas integrantes de las Instituciones de Seguridad Pública que a la entrada en vigor de la presente Ley, cuenten con un nivel de estudios inferior al establecido para su ingreso o permanencia, deberán ser respetados y sus respectivas instituciones deberán realizar acciones para que obtengan el nivel de estudios que corresponda.
+
+Artículo Séptimo.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto se resolverán conforme a las disposiciones legales vigentes al momento de inicio de su tramitación.
