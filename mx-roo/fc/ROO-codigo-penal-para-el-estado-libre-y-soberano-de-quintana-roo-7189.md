@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2025-04-01"
+last_updated: "2025-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,21 +21,19 @@ state: "ROO"
 ---
 # CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
+LEY PARA EL FOMENTO Y LA PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2021.
 
-Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
+Ley publicada en la Sección VIII del Periódico Oficial del Estado de Jalisco, el sábado 16 de agosto de 2014.
 
-DECRETO NUMERO 22.- CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
 
-DECRETO NUMERO: 22
+Jorge Aristóteles Sandoval Díaz, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto
 
-CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+NÚMERO 24950/LX/14 EL CONGRESO DEL ESTADO DECRETA:
 
-LA H. VI LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO,
-
-DECRETA:
+SE EXPIDE LA LEY PARA EL FOMENTO Y PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE JALISCO.
 
 # LIBRO PRIMERO
 
@@ -43,213 +41,403 @@ DECRETA:
 
 > <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
-###### ARTICULO 1°.
+###### Artículo 1.
 
-A nadie se le impondrá pena, medida de seguridad, ni cualquier otra consecuencia jurídica del delito, sino por la realización de una acción u omisión expresamente prevista como delito en una ley vigente al tiempo de su realización, siempre que concurran los presupuestos señalados en la ley y la pena, la medida de seguridad o cualquier otra consecuencia jurídica, se encuentre previamente establecida en la ley.
+La presente ley tiene por objeto:
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
 
-###### ARTICULO 2°.
+I. Fomentar las actividades que llevan a cabo las organizaciones de la sociedad civil, las agrupaciones y redes registradas mediante una normatividad integral que propicie condiciones para el ejercicio pleno de la libertad de las personas y grupos que integran la sociedad. Asimismo, estimular su participación en la vida social, económica, política y cultural de la entidad, como lo establece el artículo 15 de la Constitución Política del Estado de Jalisco;
 
-No se impondrá pena o medida de seguridad, ni cualquiera otra consecuencia jurídica del delito, si no se acredita la existencia de los elementos del tipo penal, del delito de que se trate.
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
 
-La ley penal sólo tendrá efecto retroactivo si favorece a la persona imputada.
+II. Promover la participación de las organizaciones, agrupaciones y redes en la definición de agenda, así como en la elaboración, construcción colectiva, implementación y evaluación de políticas públicas con relación a las actividades que señala la presente Ley;
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
 
-###### ARTICULO 3°.
+III. Establecer los derechos y obligaciones que tienen las organizaciones, agrupaciones y redes conforme a esta Ley;
 
-Queda prohibida toda forma de responsabilidad objetiva, por lo que a ninguna persona se le podrá imponer pena, medida de seguridad, o consecuencia jurídica del delito, si no ha realizado la conducta dolosa o culposamente.
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO 28311/LXII/21, PUBLICADO EN EL P.O. DE 11 DE MARZO DE 2021, PÁGINA 7.]</small>
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
+IV. (DEROGADA, P.O. 11 DE MARZO DE 2021); y (sic)
 
-###### ARTICULO 4°.
+V. Establecer las facultades y coordinación interinstitucional de las autoridades que la aplicarán y los órganos que coadyuvarán en ello.
 
-No se impondrá pena alguna, ni declararse penalmente responsable a una persona, si la acción u omisión no han sido realizadas culpablemente. La medida de la pena estará en relación directa con el grado de culpabilidad de la persona respecto del hecho cometido, así como de la gravedad de éste. En ningún caso podrá imponerse pena alguna que sea mayor al grado de culpabilidad.
+###### Artículo 2.
 
-Igualmente se requerirá la acreditación de la culpabilidad de la persona para la aplicación de una medida de seguridad, si ésta se impone accesoriamente a la pena y su duración estará en relación directa con el grado de culpabilidad. Para la imposición de cualquiera de las restantes consecuencias jurídicas será necesaria la existencia, al menos, de un acto típico y antijurídico, siempre que de acuerdo con las circunstancias personales del sujeto activo, hubiera merecimiento, necesidad racional e idoneidad de su aplicación en atención a los fines de prevención especial del delito y de reinserción social que con aquéllas pudieran alcanzarse.
+Para los efectos de esta Ley se entiende por:
 
-Todo imputado será tenido como inocente mientras no se pruebe que cometió el delito que se le imputa y que él lo realizó.
+I. Agrupaciones: colectivos de ciudadanos organizados sin estar constituidos legalmente, cuyas actividades cumplan con lo establecido por el artículo 3 de la presente Ley;
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
+II. Comité: el Comité para el Fomento y Participación de las Organizaciones de la Sociedad Civil;
 
-###### ARTICULO 5°.
+III. Fomento: reconocimiento y apoyo a las actividades de las organizaciones de la sociedad civil, agrupaciones y redes registradas mediante los mecanismos establecidos en la presente Ley;
 
-Sólo se impondrá una consecuencia jurídica del delito por resolución de tribunal competente y mediante un procedimiento seguido ante los tribunales previamente establecidos, por lo que ninguna persona podrá ser juzgada por leyes privativas ni por tribunales especiales.
+IV. Ley: la Ley para el Fomento y la Participación de las Organizaciones de la Sociedad Civil en el Estado de Jalisco;
 
-La consecuencia jurídica que resulte de la comisión de un delito no trascenderá de la persona y bienes del sujeto activo.
+V. Ley Federal: la Ley Federal de Fomento a las Actividades realizadas por Organizaciones de la Sociedad Civil;
 
-Quienes intervengan en un acto delictivo responderán cada uno en la medida de su propia culpabilidad.
+VI. Organizaciones de la sociedad civil: agrupaciones autónomas de la ciudadanía, formal y legalmente constituidas, cuyas actividades cumplan con lo establecido por el artículo 3 de la Ley;
 
-No podrá restringirse ninguna garantía o derecho de la persona imputada, ni imponerse consecuencia jurídica alguna del delito, con base en la peligrosidad del agente.
+VII. Participación: presencia activa de las organizaciones de la sociedad civil, agrupaciones y redes registradas en el proceso de construcción social de las políticas públicas, de conformidad con el artículo 1 fracción II de la Ley;
 
-Toda determinación deberá fundamentarse en el acto cometido y en el grado de lesión o puesta en peligro al que haya sido expuesto el bien jurídico tutelado.
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
+
+VIII. Redes registradas: agrupaciones no constituidas legalmente, integradas por organizaciones de la sociedad civil o por éstas y agrupaciones, mediante la suscripción de un convenio de adhesión mutua que se presenta al Comité, que se plantean un objetivo y un plan de trabajo en común, el cual supera los planes de trabajo que cada una se plantea en lo individual;
+
+IX. Registro Estatal: el Registro Estatal de las Organizaciones de la Sociedad Civil, a cargo del Comité; y
+
+X. Registro Federal: el Registro Federal de las Organizaciones de la Sociedad Civil.
+
+###### Artículo 3.
+
+Las actividades realizadas por las organizaciones de la sociedad civil, agrupaciones y redes que se reconocen como de interés público, son aquellas orientadas a mejorar la calidad de vida de la ciudadanía, el ejercicio pleno de sus derechos humanos, la participación y el acceso a bienes y servicios públicos, así como la promoción e investigación del desarrollo democrático, conforme lo establecen:
+
+I. La Ley Federal;
+
+II. La Ley del Impuesto sobre la Renta, en lo aplicable a las organizaciones reguladas por esta Ley;
+
+III. El Código de Asistencia Social del Estado de Jalisco;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+IV. Lo que se derive del artículo 34 de la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco; y
+
+V. Las que establezcan las demás disposiciones aplicables en la materia.
+
+###### Artículo 4.
+
+Son derechos de las organizaciones de la sociedad civil, agrupaciones y redes:
+
+I. Inscribirse en el Registro Estatal. En caso de estar inscrito en el Registro Federal, éste se le reconocerá y se le incorporará en el Registro Estatal, por lo que no será necesario llevar a cabo un nuevo trámite de registro;
+
+II. Tener representación ante el Comité en los términos de esta Ley;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
+
+III. Participar de las acciones de fomento por parte de los tres poderes del Estado, los organismos públicos autónomos y los municipios, o de otros organismos designados por el Comité para tal efecto, de conformidad con lo establecido en la presente ley;
+
+IV. Acceder, en igualdad de circunstancias, a los recursos, estímulos fiscales, exenciones, apoyos económicos y administrativos por parte de los tres poderes del Estado, los organismos públicos autónomos y sus municipios, así como los acordados o convenidos con la federación para la realización de sus actividades, de conformidad con las disposiciones legales aplicables en la materia.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2021)</small>
+
+Las agrupaciones podrán acceder a lo establecido en el párrafo anterior a través de las organizaciones de la sociedad civil que constituyan una red registrada;
+
+V. Promover y participar en mecanismos de observación y contraloría social;
+
+VI. Proponer a los tres Poderes del Estado, organismos públicos autónomos y a los municipios políticas públicas relacionadas con el fomento y desarrollo de las actividades a que se refiere el artículo 3 de la Ley;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
+
+VII. Llevar a cabo proyectos que acuerden con los Poderes del Estado o sus municipios, que estén relacionados con el fomento y desarrollo de las actividades a que se refiere el artículo 3 de la presente Ley;
+
+VIII. Formar parte de los órganos de participación y consulta instaurados por la administración pública estatal y municipal, en las áreas vinculadas con las actividades referidas en el artículo 3 de la Ley;
+
+IX. Participar en el diseño y aplicación de políticas y normas para el ejercicio de recursos públicos destinados al fortalecimiento y participación de las organizaciones de la sociedad civil; y
+
+X. Las demás que les otorguen otras disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2021)</small>
+
+###### Artículo 5.
+
+Para acceder a los derechos señalados en el artículo anterior, las organizaciones de la sociedad civil, agrupaciones y redes deben cumplir con las siguientes obligaciones:
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
+
+I. Abstenerse de solicitar, aceptar o recibir, por sí o por interpósita persona, un lucro mediante bien, utilidad o provecho con las actividades que desempeña y, en su caso, el ejercicio de los recursos públicos que recibiera, para sí o para personas que tengan parentesco consanguíneo o por afinidad hasta el cuarto grado;
+
+II. No perseguir fines de proselitismo político-electoral, sindical, partidista o religioso;
+
+III. Integrar a la población beneficiaria de forma incluyente de acuerdo a su perfil según su objeto social, evitando cualquier tipo de discriminación, e incorporando medidas de participación corresponsable en el desempeño de las actividades de la organización, agrupación o red registrada, de conformidad con las disposiciones legales aplicables;
+
+IV. Estar activo en el Registro Estatal;
+
+V. Destinar los recursos públicos que reciban al cumplimiento de las actividades que señala el artículo 3 de la Ley;
+
+VI. Cumplir con las obligaciones de presentación de información, de conformidad con las disposiciones legales aplicables y los lineamientos que establezca la instancia que aporta los recursos públicos, así como sobre el manejo y uso de los mismos, de conformidad con la legislación en materia de transparencia y acceso a la información pública del Estado de Jalisco; y
+
+VII. Las demás que señalen otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2021)</small>
+
+###### Artículo 5 Bis.
+
+El Registro Estatal será público y tendrá por objeto inscribir la información de las organizaciones de la sociedad civil, agrupaciones y redes para facilitar el acceso a las acciones de fomento y de recursos públicos.
+
+Formarán parte del Registro Estatal en forma automática, las organizaciones de la sociedad civil que cuenten con alguno de los siguientes registros:
+
+I. Registro Federal o Clave Única de Inscripción; o
+
+II. Reconocimiento otorgado por el Consejo Jalisciense de Asistencia Social.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2021)</small>
+
+###### Artículo 5 Ter.
+
+Las organizaciones de la sociedad civil, para su inscripción formal ante el Registro Estatal, deberán presentar ante la Secretaría Ejecutiva la siguiente documentación:
+
+I. Acta constitutiva;
+
+II. Identificación oficial vigente del representante legal;
+
+III. Cédula de inscripción al Registro Federal de Contribuyentes;
+
+IV. Comprobante de domicilio;
+
+V. Instrumentos notariales o actas protocolizadas; y
+
+VI. Documento notariado vigente que acredite la personalidad del representante de la organización.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2021)</small>
+
+###### Artículo 5 Quáter.
+
+La inscripción de las agrupaciones al Registro Estatal las hará objeto de fomento, les permitirá participar en alianza mediante la figura de redes registradas y el acceso a recursos públicos.
+
+Las agrupaciones, para inscribirse al Registro Estatal, deberán presentar ante la Secretaría Ejecutiva la siguiente documentación:
+
+I. Oficio de solicitud para el trámite de la inscripción al Registro Estatal;
+
+II. Ficha descriptiva de la agrupación;
+
+III. Resumen curricular en el que se describa el impacto de la agrupación, programas en los que ha participado y número y tipo de beneficiarios;
+
+IV. Listado de los integrantes de la agrupación; y
+
+V. Domicilio y datos de contacto para recibir notificaciones.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2021)</small>
+
+###### Artículo 5 Quinquies.
+
+Las redes registradas, para inscribirse al Registro Estatal, deberán presentar ante la Secretaría Ejecutiva la siguiente documentación:
+
+I. Convenio de adhesión mutua aprobado por el Comité; y
+
+II. Los datos de registro de la organización de la sociedad civil que integra la red y la representará.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2021)</small>
+
+###### Artículo 5 Sexies.
+
+Una vez recibida la información a la que hacen referencia los artículos 5 Ter, 5 Quáter y 5 Quinquies por la Secretaría Ejecutiva, ésta la someterá a consideración del Comité para su aprobación.
+
+La Secretaría Ejecutiva, una vez autorizado el registro por el Comité, expedirá constancia de registro.
+
+La Secretaría Ejecutiva, para corroborar el estatus de activo de las organizaciones de la sociedad civil, agrupaciones y redes, mantendrá actualizado el Registro Estatal, por lo que cada año les solicitará información para corroborar que continúen las mismas condiciones o, en su caso, se actualicen los datos.
+
+En caso de no continuar las condiciones, el interés o exista incumplimiento de las obligaciones, se procederá a la baja del registro con aprobación del Comité.
 
 ## TITULO PRIMERO. LA LEY PENAL
 
-### CAPITULO I. APLICACION DE LA LEY EN EL ESPACIO
+### Capítulo I. Disposiciones Generales
 
-###### ARTICULO 6°.
+###### Artículo 6.
 
-Este Código se aplicará por los delitos que se realicen en el Estado de Quintana Roo y sean competencia de sus Tribunales.
+El Comité es un órgano de vinculación entre los tres Poderes del Estado y sus municipios, y las organizaciones, agrupaciones y redes registradas, encargado de la elaboración del Plan Estatal de Fomento de las Organizaciones de la Sociedad Civil y de la consulta, opinión, asesoría, propuesta, seguimiento y evaluación de los planes, políticas públicas y proyectos relacionados con el desarrollo de las actividades a que se refiere esta Ley.
 
-Este Código se aplicará asimismo, cuando:
+### Capítulo II. De los Derechos y Obligaciones de las Organizaciones de la Sociedad Civil, Agrupaciones y Redes Registradas
 
-I.- Los efectos del delito se produzcan en el Territorio del Estado, aunque aquél se haya cometido en otra Entidad Federativa, o;
+###### Artículo 7.
 
-II.- El acusado se encuentre en el territorio del Estado y no haya sido ejercitada la acción penal en su contra en la Entidad Federativa donde se cometió el delito que sea de la competencia de sus tribunales.
+El Comité se integra de la siguiente manera:
 
-### CAPITULO II. APLICACION DE LA LEY EN EL TIEMPO
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-> <small>(F. DE E., P.O. 29 DE MARZO DE 1991)</small>
+I. La o el titular de la Secretaría del Sistema de Asistencia Social;
 
-###### ARTICULO 7°.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
-Cuando entre la perpetración del delito y la sentencia que con relación a éste debiera emitirse, entrase en vigor una Ley más favorable, se aplicará la nueva Ley; igualmente se aplicará ésta en los casos en que se hubiera dictado sentencia irrevocable; disminuyéndose la sanción en la misma proporción que guarden las sanciones establecidas en ambas leyes, con excepción de la reparación del daño.
+II. La o el Diputado Presidente de la Comisión de Participación Ciudadana, Transparencia y Ética en el Servicio Público del Poder Legislativo del Estado;
 
-En caso de que la nueva Ley cambiase la naturaleza de la pena a petición del condenado se sustituirá la sanción.
+III. El Presidente del Supremo Tribunal de Justicia del Estado de Jalisco;
 
-En caso de que la nueva Ley deje de considerar una determinada conducta u hecho como delictuoso, se sobreseerán los procedimientos y cesarán los efectos de las sentencias en sus respectivos casos, ordenándose la libertad de los procesados o sentenciados, con excepción de la reparación del daño cuando se haya efectuado el pago.
+IV. El Presidente del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
 
-###### ARTICULO 8°.
+V. (DEROGADA, P.O. 3 DE OCTUBRE DE 2020)
 
-La Ley dictada para regir por tiempo determinado o en una situación excepcional, se aplicará por los hechos cometidos durante aquél o ésta aún después de haber cesado en su vigencia.
+VI. (DEROGADA, P.O. 3 DE OCTUBRE DE 2020)
 
-### CAPITULO III. APLICACION DE LA LEY EN RELACION DE LAS PERSONAS
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
+VII. Dos Presidentes Municipales de los municipios de (sic) conforman el Área Metropolitana de Guadalajara, elegido por orden alfabético en función del nombre del municipio, el cual durará en su cargo dos años;
 
-###### ARTICULO 9°.
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
 
-Las disposiciones de este Código se aplicarán por igual a todas las personas.
+VIII. Cinco titulares de organizaciones de la sociedad civil cuyas actividades se lleven a cabo en el Área Metropolitana de Guadalajara, quienes durarán en su cargo tres años sin posibilidad de reelección para el periodo inmediato;
 
-Las personas físicas menores de dieciocho años de edad involucradas en la comisión de un hecho típico, responderán conforme a la legislación aplicable.
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
 
-### CAPITULO IV. CONCURSO APARENTE DE NORMAS
+IX. Cuatro titulares de organizaciones de la sociedad civil cuyas actividades se lleven a cabo en municipios distintos del Área Metropolitana de Guadalajara, quienes durarán en su cargo tres años sin posibilidad de reelección para el periodo inmediato;
 
-###### ARTICULO 10.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MARZO DE 2021)</small>
 
-Cuando una misma materia aparezca regulada por diversas disposiciones, la especial prevalecerá sobre la general, la de mayor alcance absorberá a la de menor amplitud y la principal excluirá a la subsidiaria.
+X. Tres representantes académicos de universidades con reconocimiento y validez oficial en el Estado de Jalisco, quienes durarán en su cargo tres años sin posibilidad de reelección para el periodo inmediato;
 
-### CAPITULO V. LEYES ESPECIALES
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MARZO DE 2021)</small>
 
-###### ARTICULO 11.
+XI. La o el titular del Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco;
 
-Las disposiciones generales de este Código se aplicarán por los delitos contenidos en leyes especiales en lo no previsto por éstas.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MARZO DE 2021)</small>
+
+XII. La o el titular de la Coordinación Estratégica del Gabinete Social del Poder Ejecutivo del Estado de Jalisco;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MARZO DE 2021)</small>
+
+XIII. La o el titular de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado de Jalisco; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XI], P.O. 11 DE MARZO DE 2021)</small>
+
+XIV. Un Secretario Ejecutivo.
+
+Los miembros del Comité establecidos en las fracciones VIII y IX del presente artículo serán designados de conformidad con el Reglamento Interno del Comité.
+
+Adicionalmente, por invitación del Comité, se podrá incorporar a uno o más Presidentes Municipales de municipios del interior del Estado.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2021)</small>
+
+El Comité podrá invitar a sus sesiones a aquellas personas que considere necesarios para el cumplimiento de sus atribuciones, quienes tendrán derecho a voz pero no a voto.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 8.
+
+El cargo como miembro del Comité es honorífico y, por lo tanto, no remunerado, con excepción del Secretario Ejecutivo quien tendrá el carácter de servidor público y dependerá administrativamente de la Secretaría del Sistema de Asistencia Social.
+
+### Capítulo III. Del Comité para el Fomento y Participación de las Organizaciones de la Sociedad Civil
+
+###### Artículo 9.
+
+Cada miembro del Comité tendrá derecho a voz y voto, con excepción del Secretario Ejecutivo, quien contará solo con voz. Las decisiones del Comité se toman por mayoría de votos de los presentes.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2021)</small>
+
+### Capítulo IV. Del Fomento de las Organizaciones de la Sociedad Civil
+
+###### Artículo 10.
+
+Cada representante titular del Comité podrá designar a un solo suplente, el cual deberá ser de un nivel jerárquico similar o inmediato inferior al del titular. El suplente tendrá voz y voto únicamente en ausencia del titular y no podrá designar a nadie en su representación.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2021)</small>
+
+### Capítulo V. De las Sanciones
+
+###### Artículo 11.
+
+El Comité debe designar, de entre los titulares de las organizaciones de la sociedad civil, a quien ostentará la Presidencia del mismo, quien durará en el cargo un año, debiéndose elegir en la primera sesión ordinaria del año calendario.
 
 ## TITULO SEGUNDO. EL HECHO PUNIBLE
 
-### CAPITULO I. CALIFICACION Y FORMAS
+### Capítulo VI. De los Medios de Defensa
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
+###### Artículo 12.
 
-###### ARTICULO 12.
+Para la elección de las organizaciones de la sociedad civil que conformarán el Comité, éste realizará una convocatoria pública a organizaciones que acrediten tener, por lo menos, tres años inscritas en el Registro Estatal.
 
-Únicamente será constitutiva de delito la acción u omisión que lesione o ponga en peligro al bien jurídico tutelado por la ley penal.
+De entre las organizaciones que cumplan con los requisitos de la convocatoria, el Comité elegirá por mayoría de votos a los representantes del Comité.
 
-En los delitos de resultado material será atribuible el resultado típico producido a quien omita impedirlo, si éste tenía el deber jurídico de evitarlo, si:
+###### Artículo 13.
 
-I. Es garante del bien jurídico;
+El Comité sesionará de manera ordinaria, por lo menos, una vez cada dos meses, y de manera extraordinaria las veces que sea necesario.
 
-II. De acuerdo con las circunstancias podía evitarlo; y
+###### Artículo 14.
 
-III. Su inactividad es, en su eficacia, equivalente a la actividad prohibida en el tipo.
-
-Es garante del bien jurídico el que:
-
-a) Aceptó efectivamente su custodia;
-
-b) Voluntariamente formaba parte de una comunidad que afronta peligros de la naturaleza;
-
-c) Con una actividad precedente, culposa o fortuita, generó el peligro para el bien jurídico, o
-
-d) Se halla en una efectiva y concreta posición de custodia de la vida, la salud o integridad corporal de algún miembro de su familia o de su pupilo.
-
-###### ARTICULO 13.
-
-Para los efectos de este Código el delito es:
-
-I.- Instantáneo, cuando la consumación se agota en el mismo momento en que se han realizado todos los elementos de la descripción legal;
-
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2016)</small>
-
-II.- Permanente, cuando se viola el mismo precepto legal, y la consumación se prolonga en el tiempo.
-
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2016)</small>
-
-III.- Continuado, cuando con unidad de propósito delictivo, pluralidad de conductas e identidad de sujeto pasivo, se concretan los elementos de un mismo tipo penal.
-
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
-
-###### ARTICULO 14.
-
-El delito puede ser realizado dolosa o culposamente.
-
-Obra dolosamente el que conociendo las circunstancias objetivas del hecho típico, quiere o acepta el resultado prohibido por la Ley.
-
-Obra culposamente el que realiza el hecho típico, que no previó siendo previsible o previó confiando en poder evitarlo, infringiendo un deber de cuidado que podría y debía observar según las circunstancias y condiciones personales.
+El Comité contará con recursos que serán asignados en el presupuesto de egresos del Estado de Jalisco, para la realización de las actividades derivadas de esta Ley.
 
 ### CAPITULO II. TENTATIVA
 
 > <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
-###### ARTICULO 15.
+###### Artículo 15.
 
-Además del delito consumado, también es punible la tentativa del mismo.
+El Comité tiene las siguientes atribuciones:
 
-Existe tentativa punible cuando la resolución de cometer un delito se exterioriza ejecutando u omitiendo, en parte o totalmente, los actos que deberían producir o evitar el resultado, si aquellos se interrumpen o el resultado no acontece por causas ajenas a la voluntad del agente.
+I. Realizar propuestas de políticas públicas a las dependencias de los tres Poderes del Estado y sus municipios, en lo que se refiere a las actividades señaladas por el artículo 3 de esta Ley;
 
-A falta de la puesta en peligro del bien jurídico, no será punible la tentativa inidónea.
+II. Asesorar a las instancias de los tres Poderes del Estado y sus municipios, en la realización de los planes y programas que se implementen para el desarrollo del fomento y de la participación conforme lo establece la Ley;
 
-> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2016)</small>
+III. Opinar sobre los mecanismos y políticas empleados para otorgar a las organizaciones de la sociedad civil los recursos públicos, conforme lo establece el capítulo IV de esta Ley;
 
-ARTICULO 15 BIS.- Si el sujeto se desiste voluntariamente o de propio impulso de la ejecución o impide la consumación del delito, no se impondrá pena o medida de seguridad alguna por lo que a éste se refiere, sin perjuicio de aplicar la que corresponda a actos ejecutados u omitidos que constituyan por sí mismos delitos.
+IV. Proponer modificaciones, ante las autoridades competentes, a las disposiciones legales aplicables en la materia;
 
-El desistimiento del al (sic) autor no beneficia a los partícipes. Para que sea válido el desistimiento de los partícipes o coautores, se requerirá que hayan neutralizado el sentido de su aportación al hecho.
+V. Establecer las medidas que permitan el funcionamiento adecuado del Registro Estatal;
+
+VI. Imponer las sanciones a las organizaciones de la sociedad civil, agrupaciones y redes por el incumplimiento de las obligaciones establecidas por esta Ley, previa propuesta que presente el Secretario Ejecutivo;
+
+VII. Elaborar y expedir su Reglamento Interno;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
+
+VIII. Elaborar y dar seguimiento al Plan Estatal de Fomento de las Organizaciones de la Sociedad Civil;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MARZO DE 2021)</small>
+
+IX. Elaborar su plan de trabajo anual y su anteproyecto de presupuesto de egresos; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN IX], P.O. 11 DE MARZO DE 2021)</small>
+
+X. Las demás que le otorguen otras disposiciones legales aplicables.
 
 ### CAPITULO III. AUTORIA Y PARTICIPACION
 
 > <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
-###### ARTICULO 16.
+###### Artículo 16.
 
-Las personas pueden intervenir en la realización de un delito, conforme a las siguientes formas de autoría y participación:
+El Presidente del Comité tendrá las siguientes atribuciones:
 
-I.- Quien lo realice por sí;
+I. Convocar a las reuniones ordinarias y extraordinarias del Comité;
 
-II.- Quien lo realice conjuntamente con otro u otros autores;
+II. Representar legalmente, junto con el Secretario Ejecutivo, al Comité;
 
-III.- Quien lo lleve a cabo sirviéndose de otro como instrumento;
+III. Someter, a consideración del Comité, una terna de candidatos para titular de la Secretaría Ejecutiva y, en su caso, al equipo de trabajo del Secretariado, lo anterior de conformidad con la disponibilidad presupuestal. Dicho Secretario Ejecutivo durarán (sic) en su cargo dos años, pudiendo ser ratificado por una sola vez;
 
-IV.- Quien determine dolosamente al autor a cometerlo;
+IV. Conducir las sesiones del Comité;
 
-V.- Quien dolosamente preste ayuda o auxilio al autor para su comisión, y
+V. Elaborar el proyecto de presupuesto y someterlo a consideración del Comité, para su posterior remisión a la autoridad correspondiente;
 
-VI.- Quien con posterioridad a su ejecución, auxilie al autor por acuerdo anterior al delito.
+VI. Contar con voto de calidad en caso de empate; y
 
-Quienes únicamente intervengan en la planeación o preparación del delito, así como quienes determinen a otro o le presten ayuda o auxilio, sólo responderán si el hecho antijurídico del autor alcanza al menos el grado de tentativa del delito que se quiso cometer.
+VII. Las demás que el Comité le asigne.
 
-La inducción y la complicidad solamente serán admisibles en los delitos dolosos.
+###### Artículo 17.
 
-###### ARTICULO 17.
+La Secretaría Ejecutiva tiene las siguientes atribuciones:
 
-Si varias personas toman parte en la ejecución de un delito determinado y alguno de ellos comete uno distinto sin previo acuerdo con los otros, todos serán responsables de la comisión del nuevo delito, siempre que éste sea una consecuencia necesaria del primeramente convenido o sirva de medio para cometerlo, salvo:
+I. Organizar la creación y funcionamiento del Registro Estatal;
 
-I.- Que no hayan estado presentes en la ejecución del nuevo delito; o
+II. Levantar las actas de sesión del Comité;
 
-II.- Que habiendo estado presentes, hayan tratado de impedir su ejecución.
+III. Vigilar que las organizaciones de la sociedad civil, agrupaciones y redes inscritas en el Registro Estatal cumplan las obligaciones derivadas de esta Ley, de conformidad con la Ley del Procedimiento Administrativo del Estado de Jalisco;
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JULIO DE 2017)</small>
+IV. Proponer al Comité las sanciones aplicables a las organizaciones por incumplimiento de las obligaciones derivadas de esta Ley, previo procedimiento administrativo establecido en la Ley del Procedimiento Administrativo del Estado de Jalisco;
+
+V. Realizar las gestiones necesarias para el debido funcionamiento del Comité y el cumplimiento de los fines de la Ley; y
+
+VI. Las demás que les sean asignadas por el Comité.
 
 ### CAPÍTULO IV. RESPONSABILIDAD DE LAS PERSONAS JURÍDICAS
 
 > <small>(REFORMADO Y REUBICADO ANTES EN CAPÍTULO III, P.O. 19 DE JULIO DE 2017)</small>
 
-###### ARTICULO 18.
+###### Artículo 18.
 
-El que actúe como administrador de hecho o de derecho de una persona jurídica, o en nombre o representación legal o voluntaria de otro, responderá personalmente, aunque no concurran en él las condiciones, cualidades o relaciones que el tipo penal requiera para poder ser sujeto activo del mismo, si tales circunstancias se dan en la entidad o persona en cuyo nombre o representación obre.
+Para ser Secretario Ejecutivo se deberán cumplir los siguientes requisitos:
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2020)</small>
+
+I. Ser ciudadano mexicano y que no haya adquirido otra nacionalidad, además de estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+II. Tener treinta años de edad o más, el día de la designación;
+
+III. Poseer al día de la designación, título profesional de nivel licenciatura y contar con los conocimientos y experiencia que le permita el desempeño de sus funciones;
+
+IV. Gozar de buena reputación y no haber sido condenado por delito doloso;
+
+V. No haber sido registrado como candidato a cargo alguno de elección popular en los últimos cinco años anteriores a la designación; y
+
+VI. No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos cinco años anteriores a la designación.
 
 ###### ARTICULO 18 Bis.
 
@@ -409,75 +597,33 @@ XXVII. En los demás casos expresamente previstos en la legislación aplicable.
 
 CONCURSO DE DELITOS.
 
-###### ARTICULO 19.
+###### Artículo 19.
 
-Existe concurso ideal cuando con una sola conducta se cometen varios delitos.
+Las autoridades estatales y municipales fomentarán a las organizaciones de la sociedad civil a través de los siguientes mecanismos:
 
-Existe concurso real cuando con la pluralidad de conductas se cometen varios delitos.
+I. Capacitación y asesoría para la profesionalización e institucionalización;
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+II. Apoyos y estímulos fiscales, de conformidad con las disposiciones legales aplicables;
+
+III. Simplificación de trámites administrativos;
+
+IV. Reducción de cobros por servicios públicos, de conformidad con la legislación aplicable;
+
+V. Acciones de defensoría y representación;
+
+VI. Designar un área o responsable permanente de enlace con organizaciones de la sociedad civil; y
+
+VII. El acceso mediante las modalidades disponibles, a proyectos o fondos públicos.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2021)</small>
 
 ### CAPÍTULO VI. CAUSAS EXCLUYENTES DE INCRIMINACIÓN
 
 > <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
-###### ARTICULO 20.
+###### Artículo 20.
 
-El delito se excluye cuando se actualice alguna causa de atipicidad, de justificación o de inculpabilidad.
-
-A. Son causas de atipicidad:
-
-I. Cuando la actividad o la inactividad se realice sin intervención de la voluntad del sujeto activo;
-
-II. Cuando falte alguno de los elementos que integran la descripción legal del delito de que se trate;
-
-III. Cuando se actúe con el consentimiento del titular del bien jurídico afectado o del legitimado legalmente para otorgarlo, siempre y cuando se cumplan los siguientes requisitos:
-
-a. Que se trate de un bien jurídico disponible;
-
-b. Que el titular del bien jurídico, o quien esté legitimado para consentir, tenga la capacidad jurídica para disponer libremente del bien, y
-
-c. Que el consentimiento sea expreso o tácito y no medie algún vicio del consentimiento.
-
-IV. Cuando se realice la acción o la omisión bajo un error invencible, respecto de alguno de los elementos que integran la descripción legal del delito de que se trate.
-
-B. Son Causas de justificación:
-
-I. El consentimiento presunto. Se presume que hay consentimiento, cuando el hecho se realiza en circunstancias tales que permitan suponer fundadamente que, de haberse consultado al titular del bien o a quien esté legitimado para consentir, éstos hubiesen otorgado el consentimiento;
-
-II. Legítima defensa: Se repela una agresión real, actual o inminente y sin derecho, en defensa de bienes jurídicos propios o ajenos, siempre que exista necesidad de la defensa empleada y no medie provocación dolosa suficiente e inmediata por parte del agredido o de su defensor.
-
-Se presumirá que concurren los requisitos de la legítima defensa, respecto de aquél que cause un daño, a quien a través de la violencia, del escalamiento o por cualquier otro medio trate de penetrar sin derecho, a su hogar o sus dependencias, a los de su familia o los de cualquier persona que tenga el mismo deber de defender o al sitio donde se encuentren bienes jurídicos propios o ajenos de los que tenga la misma obligación; o bien, cuando lo encuentre en alguno de esos lugares, en circunstancias tales que revelen la posibilidad de una agresión;
-
-> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
-
-También se presumirá la legítima defensa con perspectiva de género, salvo prueba en contrario, en los supuestos siguientes:
-
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2025)</small>
-
-Cuando quien ejerza la legitima defensa, sea una mujer, y al momento de desplegar la conducta, sea víctima, o esté en peligro inminente de ser víctima de violencia física, sexual, homicidio o feminicidio, y
-
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2025)</small>
-
-Cuando una persona despliegue la conducta en auxilio de una mujer en el momento, sea víctima de violencia física, sexual, homicidio o feminicidio, a fin de repeler el acto violento de que se trate.
-
-III. El estado de necesidad justificante: Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de menor valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el sujeto activo no tuviere el deber jurídico de afrontarlo;
-
-IV. El cumplimiento de un deber o ejercicio de un derecho: La acción o la omisión se realicen en cumplimiento de un deber jurídico o en ejercicio de un derecho, siempre que exista necesidad racional de la conducta empleada para cumplirlo o ejercerlo.
-
-C. Son causas de inculpabilidad:
-
-I. Cuando se realice la acción o la omisión bajo un error invencible, respecto de la ilicitud de la conducta, ya sea porque el sujeto desconozca la existencia de la ley o el alcance de la misma o porque crea que está justificada su conducta;
-
-II. Cuando se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de igual valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el sujeto activo no tuviere el deber jurídico de afrontarlo;
-
-III. Cuando al momento de realizar el hecho típico, el agente no tenga la capacidad de comprender el carácter ilícito de aquél o de conducirse de acuerdo con esa comprensión, en virtud de padecer trastorno mental o desarrollo intelectual retardado, a no ser que el sujeto hubiese provocado su trastorno mental para en ese estado cometer el hecho, en cuyo caso responderá por el resultado típico producido en tal situación. Las acciones libres en su causa culposamente cometidas se resolverán conforme a las reglas generales de los delitos culposos.
-
-Cuando la capacidad a que se refiere el párrafo anterior se encuentre considerablemente disminuida, se estará a lo dispuesto en este código.
-
-IV. Cuando en atención a las circunstancias que concurren en la realización de una conducta ilícita, no sea racionalmente exigible al sujeto una conducta diversa a la que realizó, en virtud de no haberse podido conducir conforme a derecho.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE ABRIL DE 2024)</small>
+Los tres Poderes del Estado, sus dependencias y los organismos públicos autónomos, así como los municipios, fomentarán las actividades de las organizaciones de la sociedad civil, agrupaciones y redes; y en su caso, podrán otorgar recursos públicos a las organizaciones de la sociedad civil y redes registradas para las actividades contempladas en el artículo 3 de esta Ley.
 
 ### CAPÍTULO VII. INTELIGENCIA ARTIFICIAL
 
@@ -495,47 +641,21 @@ Para efectos del párrafo anterior, se entenderá por inteligencia artificial a 
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
-###### ARTICULO 21.
+###### Artículo 21.
 
-Las penas y medidas de seguridad aplicables a las personas físicas son:
+Para otorgar recursos públicos a las organizaciones de la sociedad civil y redes, los tres Poderes del Estado y sus dependencias, los organismos públicos autónomos, y los municipios deberán utilizar los criterios y mecanismos que aseguren:
 
-I. Prisión;
+I. Condiciones de acceso igualitarias y equitativas;
 
-II. Tratamiento en libertad de imputables;
+II. Transparencia en el proceso de selección;
 
-III. Semilibertad;
+III. Difusión a través del Periódico Oficial “El Estado de Jalisco”, de las gacetas municipales y, en su caso, de los diarios de mayor circulación estatal. De igual forma, los criterios y mecanismos serán dados a conocer a las organizaciones registradas a través del Comité;
 
-IV. Vigilancia de la autoridad;
+IV. Imparcialidad en el dictamen para otorgar los recursos, así como que los mismos estén debidamente fundados y motivados;
 
-V. Multa;
+V. Otorgar un tiempo de por lo menos treinta días naturales para cumplir con los requerimientos establecidos; y
 
-VI. Reparación de daños y perjuicios;
-
-VII. Trabajo en favor de la comunidad;
-
-VIII. Suspensión, privación e inhabilitación de derechos o funciones;
-
-IX. Publicación de sentencia condenatoria;
-
-X. Prohibición de ir a una circunscripción territorial determinada o de residir en ella;
-
-XI. Decomiso, pérdida de instrumentos y objetos relacionados con el delito;
-
-XII. Tratamiento en internamiento o en libertad de inimputables o de imputables disminuidos;
-
-XIII. Tratamiento psicoterapéutico reeducativo con perspectiva de género;
-
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
-
-XIV. La separación del agresor, como medida de seguridad dictada por la autoridad judicial competente, en la cual se establezca con precisión la prohibición expresa de acercarse a cierta distancia de la víctima, en el afán de proteger a la misma en cualquier tipo y modalidad de violencia;
-
-XV. (DEROGADA, P.O. 6 DE JUNIO DE 2023)
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
-
-XVI. Las demás que prevengan (sic) la Ley.
-
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+VI. Claridad de los criterios técnicos por los cuales se otorgan recursos.
 
 ###### ARTICULO 21 Bis.
 
@@ -573,53 +693,63 @@ A las personas jurídicas con o sin personalidad jurídica propia, que hayan com
 
 > <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
-###### ARTICULO 22.
+###### Artículo 22.
 
-La prisión consiste en la privación de la libertad personal y su duración será de seis meses a cincuenta años.
+Para el otorgamiento de recursos públicos a organizaciones de la sociedad civil y redes, las dependencias de la administración pública estatal deberán contar con reglas de operación la cuales incluirán dentro de sus bases el mecanismo de convocatoria, de conformidad con las disposiciones legales aplicables.
+
+Se exceptúa de lo anterior las asignaciones directas que establezca el Presupuesto de Egresos correspondiente.
 
 ### CAPITULO III. TRATAMIENTO EN LIBERTAD
 
-###### ARTICULO 23.
+###### Artículo 23.
 
-El tratamiento en libertad de imputables consiste en la aplicación de las medidas laborales, educativas o curativas, en su caso, autorizadas por la Ley y conducente a la readaptación social del sentenciado, bajo la orientación de la autoridad ejecutora. Su duración no podrá exceder de la correspondiente a la pena de prisión señalada al delito de que se trate.
+Las redes registradas podrán acceder a recursos públicos siempre y cuando cumplan con los siguientes requisitos:
 
-Cuando el sujeto haya sido sentenciado por un delito que obedezca a la inclinación o el abuso de bebidas alcohólicas, de estupefacientes, psicotrópicos o sustancias que produzcan efectos similares, se le aplicará, independientemente de la pena que corresponda un tratamiento de deshabituación o desintoxicación, según el caso, que no podrá exceder del término de la pena impuesta por el delito cometido.
+I. Contar entre sus integrantes, por lo menos, con una organización de la sociedad civil; y
 
-Cuando se trate de penas no privativas o restrictivas de la libertad, el tratamiento no excederá de seis meses.
+II. En el caso de las redes, formalizarse mediante convenio de adhesión mutua (sic) aprobado por el Comité, el cual deberá contener, al menos, lo siguiente:
+
+a) Denominación de la Red;
+
+b) Objeto y duración;
+
+c) Nombre de las organizaciones y agrupaciones, integrantes y sus respectivos representantes;
+
+d) Datos generales del contacto de las organizaciones y agrupaciones;
+
+e) Designación de la organización de la sociedad civil que fungirá como representante y administradora responsable solidaria en caso de recibir recursos públicos;
+
+f) Estructura y operación; y
+
+g) Causas y mecanismos de rescisión anticipada.
 
 ### CAPITULO IV. SEMILIBERTAD
 
-###### ARTICULO 24.
+###### Artículo 24.
 
-La semilibertad implica alternación de períodos de privación de la libertad y de tratamiento el (sic) libertad. Se aplicará, según las circunstancias del caso, del siguiente modo:
+Las organizaciones de la sociedad civil, agrupaciones y redes que incumplan algunas de las obligaciones a que se refiere esta Ley se harán acreedores a las siguientes sanciones:
 
-Externación durante la jornada de trabajo o educativa, con reclusión de fin de semana, salida de fin de semana, con reclusión durante el resto de ésta, o salida diurna con reclusión nocturna.
+I. Apercibimiento por escrito en caso de que las organizaciones incumplan, por primera ocasión, con las obligaciones previstas por las fracciones IV y VI del artículo 5 de esta Ley;
 
-La duración de la semilibertad no podrá exceder de la correspondiente a la pena de prisión asignada al delito de que se trate.
+II. Suspensión del registro, hasta por un año, en caso de que las organizaciones incumplan con las obligaciones previstas por las fracciones I, II, III y V del artículo 5 de esta Ley, o reincidan en el incumplimiento de las obligaciones previstas en la fracción anterior; y
+
+III. Cancelación definitiva del registro en caso de reincidencia por parte de las organizaciones que incumplan con las obligaciones previstas en la fracción anterior.
 
 ### CAPITULO V. VIGILANCIA DE LA AUTORIDAD
 
-###### ARTICULO 25.
+###### Artículo 25.
 
-Cuando la sentencia determine restricción de la libertad o derechos, o suspensión condicional de la ejecución de la sentencia, el Juez determinará la vigilancia de la autoridad sobre el sentenciado, cuya duración no podrá exceder de la correspondiente a la pena o medida impuesta.
-
-La vigilancia consistirá en ejercer sobre aquél, observación y orientación de su conducta por personal especializado dependiente de la autoridad ejecutora, para la readaptación social del sentenciado y la protección de la comunidad.
+Para efectos del presente capítulo, se entiende que existe reincidencia cuando el mismo infractor incurra en dos o más violaciones del mismo precepto legal durante el transcurso de un año, contado a partir del día en que se cometió la primera infracción.
 
 ### CAPITULO VI. MULTA
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
-###### ARTICULO 26.
+###### Artículo 26.
 
-La multa consiste en el pago de una cantidad de dinero al Estado, que se fijará por días multa, los cuales no podrán exceder de tres mil para el caso de las personas físicas.
+El Comité, previo dictamen del Secretario Ejecutivo, valorará la obligación incumplida y emitirá resolución fundada y motivada de la sanción aplicable.
 
-Para los efectos de este Código el día multa será el equivalente al valor diario de la Unidad de Medida y Actualización vigente en la época en que se consumó el delito.
-
-Por lo que toca al delito continuado, se atenderá al valor diario de la Unidad de Medida y Actualización vigente en el momento de consumarse la última conducta.
-
-Para el delito permanente, se considerará el valor diario de la Unidad de Medida y Actualización vigente en el momento en que cesó la consumación.
-
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+En el caso de suspensión del registro, para la determinación del tiempo en que ésta dure, debe atenderse la gravedad del hecho.
 
 ###### ARTICULO 26 Bis.
 
@@ -639,47 +769,81 @@ Para efectos de la responsabilidad penal de la persona jurídica no será aplica
 
 Los Juzgadores determinarán motivadamente la extensión de la pena dentro de los límites establecidos o conforme a la regla aplicable en cada caso según corresponda.
 
-###### ARTICULO 27.
+###### Artículo 27.
 
-Cuando se acredite que el sentenciado no puede pagar la multa o solamente puede cubrir parte de ella, la autoridad judicial podrá sustituirla total o parcialmente por prestación de trabajo en favor de la comunidad. Cada jornada de trabajo saldará un día de multa.
-
-Cuando no sea posible o conveniente la sustitución de la multa por prestación de servicios, la autoridad judicial podrá poner al sentenciado en libertad bajo vigilancia, cuya duración no excederá del número de días multa sustituido.
+La suspensión temporal o la cancelación definitiva del registro, impiden a las organizaciones el disfrute de los derechos que establece esta Ley.
 
 ### CAPITULO VII. REPARACION DE DAÑOS Y PERJUICIOS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-###### ARTICULO 28.
+###### Artículo 28.
 
-La reparación de daños y perjuicios, que deba ser hecha por el delincuente, tiene el carácter de pena pública y se exigirá de oficio por el Ministerio Público, con el que podrán coadyuvar la víctima o el ofendido, sus derechohabientes o sus representantes en los términos que prevenga el Código de Procedimientos Penales.
+Si la cancelación definitiva del registro se debió a causas imputables a los representantes legales o asociados de la organización, éstos no podrán solicitar el registro para el reconocimiento de alguna nueva organización.
 
-Cuando dicha reparación deba exigirse a terceros, tendrá el carácter de responsabilidad civil y se tramitará en forma de incidentes, en los términos que fija el propio Código de Procedimientos Penales.
+###### Artículo 29.
 
-###### ARTICULO 29.
+Las sanciones previstas por esta Ley para las organizaciones son independientes de las del orden civil o penal a que haya lugar.
 
-Quien se considere con derecho a la reparación del daño, que no pueda obtener ante el Juez Penal en virtud del no ejercicio de la acción penal por parte del Ministerio Público, sobreseimiento o sentencia absolutoria, podrá recurrir a la vía civil en los términos de la legislación correspondiente.
+###### Artículo 30.
 
-###### ARTICULO 30.
+En contra de las resoluciones emitidas conforme a esta Ley proceden los recursos administrativos que prevé la Ley del Procedimiento Administrativo del Estado de Jalisco.
 
-Son terceros obligados a la reparación de daños y perjuicios:
+T R A N S I T O R I O S
 
-I.- Los ascendientes, por los delitos de sus descendientes que se hallaren bajo su patria potestad;
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
-II.- Los tutores o custodios, por los delitos de los incapacitados que estén bajo su autoridad;
+SEGUNDO. El Comité deberá quedar conformado dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto.
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+TERCERO. Por primera y única ocasión, dentro de los siguientes sesenta días posteriores a la entrada en vigor del presente Decreto, para la instalación e integración del Comité, los miembros señalados en las fracciones I a VII del artículo 7, procederán a designar a los representantes de la fracción X del mencionado artículo. Una vez realizada dicha designación el Comité procederá a nombrar a los titulares representantes de las organizaciones de la sociedad civil a los que hace referencia el artículo antes mencionado en sus fracciones VIII y IX, con base en un listado de organizaciones generado mediante convocatoria publicada en el Periódico Oficial “El Estado de Jalisco” y en dos medios de mayor circulación, en la que se establecerán, al menos, requisitos de antigüedad, Registro Federal o ante autoridades estatales, representatividad, y los demás que consideren en la convocatoria.
 
-III.- Los directores o propietarios de internados, colegios o talleres, que reciban en su establecimiento personas menores de dieciocho años por las infracciones que cometan éstos durante el tiempo que se hallen bajo la dependencia de aquéllos;
+Para los efectos anteriores, el Secretario de Desarrollo e Integración Social podrá nombrar a un Secretario Ejecutivo de manera provisional, para que auxilie al Comité en los trabajos de su integración.
 
-IV.- Las personas físicas, las jurídicas colectivas o que se ostenten como tales, por los delitos que cometa cualquier persona vinculada con aquellos por una relación laboral, con motivo y en el desempeño de sus servicios;
+CUARTO. El Comité deberá expedir su Reglamento Interno dentro de los sesenta días naturales siguientes a su instalación.
 
-V.- Las personas jurídicas colectivas o que se ostenten como tales, por los delitos de sus socios, gerente o administradores y, en general, por quienes actúen en su representación;
+SALÓN DE SESIONES DEL CONGRESO DEL ESTADO
 
-VI.- Los dueños de mecanismos, instrumentos, aparatos, vehículos o sustancias peligrosas por los delitos que en ocasión de su tenencia, custodia o uso, cometan las personas que los manejan o tienen a su cargo;
+GUADALAJARA, JALISCO, 17 DE JULIO DE 2014
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+Diputado Presidente
 
-VII.- El Gobierno del Estado de Quintana Roo responderá solidariamente por los delitos que cometan sus servidores públicos, con motivo del ejercicio de sus funciones. Queda a salvo el derecho del Gobierno para ejercitar las acciones correspondientes contra el servidor público responsable.
+JOSÉ CLEMENTE CASTAÑEDA HOEFLICH
+
+(RÚBRICA)
+
+Diputada Secretaria
+
+VERÓNICA DELGADILLO GARCÍA
+
+(RÚBRICA)
+
+Diputada Secretaria
+
+AVELINA MARTÍNEZ JUÁREZ
+
+(RÚBRICA)
+
+PROMULGACIÓN DEL DECRETO 24950/LX/14, MEDIANTE EL CUAL SE EXPIDE LA LEY PARA EL FOMENTO Y PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE JALISCO; APROBADO POR EL H. CONGRESO DEL ESTADO DE JALISCO, EN SESIÓN DEL 17 DE JULIO DE 2014.
+
+En mérito de lo anterior y con fundamento en el artículo 50 fracción I de la Constitución Política del Estado de Jalisco, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.
+
+Emitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 15 quince días del mes de agosto de 2014 dos mil catorce.
+
+El Gobernador Constitucional del Estado
+
+JORGE ARISTÓTELES SANDOVAL DÍAZ
+
+(RÚBRICA)
+
+El Secretario General de Gobierno
+
+ROBERTO LÓPEZ LARA
+
+(RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE OCTUBRE DE 2020.
 
 ###### ARTICULO 31.
 
@@ -4899,55 +5063,11 @@ UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicaci�
 
 P.O. 29 DE JUNIO DE 2001.
 
-###### ARTICULO UNICO.
+###### ARTÍCULO ÚNICO.
 
-El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado.
+Se expide la Ley para el Fomento y Participación de las Organizaciones de la Sociedad Civil en el Estado de Jalisco, para quedar como sigue:
 
-P.O. 30 DE JUNIO DE 2006.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
-
-SEGUNDO.- Publíquese el Decreto que en su caso se expida, en el Periódico Oficial del Gobierno del Estado, para los efectos legales que correspondan.
-
-P.O. 12 DE SEPTIEMBRE DE 2006.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO.- Remítase copia del presente Decreto al Poder Ejecutivo del Estado, para los efectos de los Artículos 69 y 74 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
-
-TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
-
-P.O. 20 DE OCTUBRE DE 2006.
-
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 18 DE ABRIL DE 2007.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 27 DE NOVIEMBRE DE 2007.
-
-ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
-
-P.O. 17 DE JUNIO DE 2008.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
-
-SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
-
-P.O. 1 DE DICIEMBRE DE 2008.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
-
-P.O. 30 DE JUNIO DE 2009.
-
-DECRETO NUMERO 155, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 148, 148 BIS, 148 TER, 149, 149 BIS, 149 TER Y 149 QUÁTER, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
-
-P.O. 30 DE JUNIO DE 2009.
-
-DECRETO NUMERO 156, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 172, 172 BIS Y TER, 194 Y 194 QUINQUIES, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+Ley para el Fomento y la Participación de las Organizaciones de la Sociedad Civil en el Estado de Jalisco
 
 ###### ARTÍCULO ÚNICO.
 
@@ -5225,33 +5345,27 @@ DECRETO NÚMERO 274, POR EL QUE SE REFORMA EL ARTÍCULO 145-TER Y SE ADICIONA LA
 
 P.O. 29 DE FEBRERO DE 2016.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 389 POR EL QUE SE REFORMAN LAS FRACCIONES I, II Y IX DEL ARTÍCULO 176-TER; Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 176-TER, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+## [N. DE E. TRANSITORIO DEL “DECRETO 27838/LXII/20 QUE REFORMAN LOS ARTÍCULOS 3, 7 Y 8 DE LA LEY PARA EL FOMENTO Y PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE JALISCO”.]
 
-ÚNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
 
-P.O. 23 DE JUNIO DE 2016.
+P.O. 3 DE OCTUBRE DE 2020.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 406 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+## [N. DE E. TRANSITORIO DEL "DECRETO 27973/LXII/20 QUE REFORMAN (SIC) LOS ARTÍCULOS 3, 7 Y 8 DE LA LEY PARA EL FOMENTO Y PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE JALISCO".]
 
-PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
-SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+P.O. 21 DE NOVIEMBRE DE 2020.
 
-P.O. 20 DE SEPTIEMBRE DE 2016.
+## [N. DE E. TRANSITORIO DEL “DECRETO 28006/LXII/20 QUE REFORMA EL ARTÍCULO 18 DE LA LEY PARA EL FOMENTO Y LA PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE JALISCO”.]
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 002 POR EL QUE SE REFORMAN LOS ARTÍCULOS 155, 209 PRIMER PÁRRAFO, 212 PRIMER PÁRRAFO, 252 PRIMER PÁRRAFO, 256 Y 259; Y SE DEROGA EL CUARTO PÁRRAFO DEL ARTÍCULO 206; TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
 
-ÚNICO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+P.O. 11 DE MARZO DE 2021.
 
-P.O. 4 DE JULIO DE 2017.
+## [N. DE E. TRANSITORIO DEL “DECRETO 28311/LXII/21 DEL CONGRESO DEL ESTADO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY PARA EL FOMENTO Y PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE JALISCO”.]
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 062 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
-
-PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
-
-SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
-
-P.O. 19 DE JULIO DE 2017.
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 088 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
 
