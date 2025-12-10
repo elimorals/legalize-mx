@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-seguridad-escolar-integral-del-estado-de-quintana-roo-15
 country: "mx"
 rank: "ley"
 publication_date: "2022-04-27"
-last_updated: "2022-04-27"
+last_updated: "2025-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=157709&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE SEGURIDAD ESCOLAR INTEGRAL DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
 
 Ley Publicada en el Número 68 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 27 de abril de 2022.
 
@@ -431,7 +431,9 @@ IX. La Secretaría Ejecutiva del Sistema de Protección Integral de Niñas, Niñ
 
 X. El Sistema para el Desarrollo Integral de la Familia;
 
-XI. El Instituto Quintanarroense de la Mujer;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XI. Secretaría de las Mujeres;
 
 XII. El Centro Estatal de Prevención Social del Delito y Participación Ciudadana, y
 
@@ -626,3 +628,13 @@ EN CUMPLIMIENTO DE LAS OBLIGACIONES QUE ME IMPONEN LOS ARTÍCULOS 91 FRACCIÓN I
 DADO EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS ONCE DÍAS DEL MES DE ABRIL DEL AÑO DOS MIL VEINTIDOS.
 
 EL GOBERNADOR DEL ESTADO DE QUINTANA ROO, C.P. CARLOS MANUEL JOAQUÍN GONZÁLEZ, RUBRICA; EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO, DR. JORGE ARTURO CONTRERAS CASTILLO, RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 184 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE QUINTANA ROO, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO, DE LA LEY DE SEGURIDAD CIUDADANA DEL ESTADO DE QUINTANA ROO, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, DE LA LEY DE LA JUVENTUD DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, DE LA LEY DE PREVENCIÓN, ATENCIÓN INTEGRAL Y CONTROL PARA EL VIH DEL ESTADO DE QUINTANA ROO, DE LA LEY DE SEGURIDAD ESCOLAR INTEGRAL DEL ESTADO DE QUINTANA ROO, DE LA LEY DE VÍCTIMAS DEL ESTADO DE QUINTANA ROO Y DE LA LEY EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones legales, de igual o menor jerarquía, que se opongan al contenido del presente Decreto.
