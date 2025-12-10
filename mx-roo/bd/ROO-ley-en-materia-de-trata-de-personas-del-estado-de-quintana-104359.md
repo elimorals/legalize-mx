@@ -4,7 +4,7 @@ identifier: "ROO-ley-en-materia-de-trata-de-personas-del-estado-de-quintana-1043
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-23"
-last_updated: "2021-07-16"
+last_updated: "2025-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104359&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 23 de diciembre de 2014.
 
@@ -237,11 +237,15 @@ La Comisión Interinstitucional tendrá por objeto coordinar las acciones de los
 
 ### CAPÍTULO II. DE LA ESTRUCTURA DE LA COMISIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 14.
 
-La Comisión estará integrada por los titulares de las siguientes dependencias y entidades:
+La Comisión estará integrada por las personas titulares de las siguientes dependencias y entidades:
 
-I. El Gobernador del Estado;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+I. Poder Ejecutivo del Estado;
 
 II. Secretaría de Gobierno;
 
@@ -263,23 +267,33 @@ VIII. Secretaría de Turismo;
 
 IX. Secretaría del Trabajo y Previsión Social;
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-X. Fiscalía General del Estado, y
+X. Fiscalía General del Estado;
 
 XI. Sistema Estatal para el Desarrollo Integral de la Familia;
 
 XII. Procuraduría de la Defensa del Menor y la Familia;
 
-XIII. Instituto Quintanarroense de la Mujer;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-XIV. Los Presidentes Municipales de los Ayuntamientos del Estado;
+XIII. Secretaría de las Mujeres;
 
-XV. Un representante del Poder Judicial, nombrado por el Pleno del Tribunal Superior de Justicia del Estado, y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-XVI. Un representante del Poder Legislativo, nombrado por el Pleno.
+XIV. Los Ayuntamientos del Estado;
 
-Por cada miembro propietario de la Comisión Interinstitucional habrá un suplente designado por escrito por el titular, quien en su caso deberá tener por lo menos el nivel de Director de área o equivalente. El suplente contará con las mismas facultades que los propietarios y podrá asistir, con voz y voto, a las sesiones de la Comisión cuando el propietario respectivo no asista.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XV. Una persona representante del Poder Judicial, nombrada por el Pleno del Tribunal Superior de Justicia del Estado, y
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XVI. Una persona representante del Poder Legislativo, nombrada por el Pleno.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Por cada persona integrante propietaria de la Comisión Interinstitucional habrá una persona suplente designada por escrito por la persona titular, quien en su caso deberá tener por lo menos el nivel dirección de área o equivalente. La persona suplente contará con las mismas facultades que las propietarias y podrá asistir, con voz y voto, a las sesiones de la Comisión cuando la persona propietaria respectiva no asista.
 
 ###### Artículo 15.
 
@@ -379,9 +393,9 @@ VII. La Secretaría del Trabajo y Previsión Social brindará capacitación para
 
 VIII. La Secretaría de Turismo diseñará programas y políticas públicas para desalentar el turismo sexual, capacitando al personal de las áreas de servicio, así como diseñará e implementará campañas dentro y fuera del país para prevenir y desalentar la proliferación de los delitos en materia de trata de personas en cualquier actividad relacionada a su ámbito de competencia;
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-IX. El Instituto Quintanarroense de la Mujer proporcionará en forma gratuita los servicios de asistencia jurídica y orientación a las mujeres víctimas de los delitos de trata de personas; denunciar ante la Fiscalía General del Estado los delitos en materia de trata de personas; proporcionar a las víctimas de trata de personas sus servicios o en su caso, canalizarlas a otras instancias gubernamentales o no para su atención psicológica, emocional y médica requeridas, protección de su seguridad, teniendo en cuenta la perspectiva de género, derechos de la niñez, de personas pertenecientes a una comunidad indígena y de los migrantes; recopilar y dar a conocer datos estadísticos relacionados con los delitos de trata de personas, registrando número de denuncias ante la Fiscalía General del Estado; capacitar en el marco de su competencia al personal de instancias gubernamentales y no gubernamentales en materia de trata de personas, con perspectiva de género, derechos de la niñez, de personas pertenecientes a una comunidad indígena y de migrantes;
+IX. La Secretaría de las Mujeres proporcionará en forma gratuita los servicios de asistencia jurídica y orientación a las mujeres víctimas de los delitos de trata de personas; denunciar ante la Fiscalía General del Estado los delitos en materia de trata de personas; proporcionar a las víctimas de trata de personas sus servicios o en su caso, canalizarlas a otras instancias gubernamentales o no para su atención psicológica, emocional y médica requeridas, protección de su seguridad, teniendo en cuenta la perspectiva de género, derechos de la niñez, de personas pertenecientes a una comunidad indígena y de los migrantes; recopilar y dar a conocer datos estadísticos relacionados con los delitos de trata de personas, registrando número de denuncias ante la Fiscalía General del Estado; capacitar en el marco de su competencia al personal de instancias gubernamentales y no gubernamentales en materia de trata de personas, con perspectiva de género, derechos de la niñez, de personas pertenecientes a una comunidad indígena y de migrantes;
 
 X. La Comisión de los Derechos Humanos del Estado deberá promover y difundir el marco jurídico aplicable al tema de la trata de personas; organizar eventos académicos y culturales en donde se promuevan la denuncia, prevención y el combate de la trata de personas; llevar un registro estadístico de las quejas recibidas, las recomendaciones que se emitan relacionadas con el tema de la trata de personas, el seguimiento de las autoridades; atender las quejas que se presenten en contra de las autoridades estatales por el incumplimiento de sus obligaciones, cuando han sido víctimas del delito de trata de personas;
 
@@ -882,3 +896,11 @@ La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legi
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 134 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE QUINTANA ROO, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO, DE LA LEY DE SEGURIDAD CIUDADANA DEL ESTADO DE QUINTANA ROO, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, DE LA LEY DE LA JUVENTUD DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, DE LA LEY DE PREVENCIÓN, ATENCIÓN INTEGRAL Y CONTROL PARA EL VIH DEL ESTADO DE QUINTANA ROO, DE LA LEY DE SEGURIDAD ESCOLAR INTEGRAL DEL ESTADO DE QUINTANA ROO, DE LA LEY DE VÍCTIMAS DEL ESTADO DE QUINTANA ROO Y DE LA LEY EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones legales, de igual o menor jerarquía, que se opongan al contenido del presente Decreto.
