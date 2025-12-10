@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-tulum-del-estado-de-161968"
 country: "mx"
 rank: "ley"
 publication_date: "2022-12-19"
-last_updated: "2024-12-09"
+last_updated: "2025-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE TULUM DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número 205 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 19 de diciembre de 2022.
 
@@ -65,14 +65,16 @@ III. Por la expedición de disco compacto 2 U.M.A. por cada uno.
 
 Tratándose de los dispuesto en las fracciones II y III, no se realizará cobro alguno, cuando el solicitante presente ante la Unidad de Transparencia que corresponda, el material señalado en esas fracciones o cualquier otro que se requiera para la reproducción de la información solicitada.
 
-(NOTA: EL 28 DE OCTUBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2024, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE OCTUBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2015)</small>
+###### Artículo 143 Quater.
 
-ARTÍCULO 143 QUATER. EL DERECHO POR EL SERVICIO Y MANTENIMIENTO DE ALUMBRADO PÚBLICO SE CAUSARÁ ANUALMENTE Y SE PAGARÁ DE FORMA DE MENSUAL O BIMESTRAL, A RAZÓN DE LA TARIFA EQUIVALENTE AL 5% DEL IMPORTE DEL CONSUMO DE ENERGÍA ELÉCTRICA QUE CONSTE EN EL RECIBO DE PAGO DE LOS USUARIOS A LA COMISIÓN FEDERAL DE ELECTRICIDAD.
+El costo total del Servicio y Mantenimiento de Alumbrado Público se integrará por aquellas cantidades que representen o sean equivalentes a los siguientes conceptos:
 
-(NOTA: EL 28 DE OCTUBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2024, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE OCTUBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+I. Costo de los servicios personales del año inmediato anterior que fueron destinados a la instalación, operación y mantenimiento del servicio de alumbrado público, comprende los sueldos, salarios, compensaciones, servicio y contribuciones que se deriven de la administración de la nómina de la Dirección de Alumbrado Público del Municipio de Tulum;
 
-TRATÁNDOSE DE LOS PROPIETARIOS, POSEEDORES O USUARIOS DE PREDIOS SIN CONSTRUCCIONES O EDIFICACIONES, O BIEN CUANDO NO SE HAYA CONTRATADO EL SERVICIO A QUE ALUDE EL PRIMER PÁRRAFO DEL PRESENTE ARTÍCULO, LA CUOTA ANUAL DE LOS DERECHOS, QUE SON MATERIA DE ESTE CAPÍTULO, SERÁ DE 2 U.M.A, EN ESTOS CASOS EL ENTERO DEBERÁ REALIZARSE DENTRO DEL PRIMER BIMESTRE DE CADA AÑO.
+II. Costo de los materiales, suministros y gastos de mantenimiento utilizados durante el año inmediato anterior en el servicio de alumbrado público, el cual se compondrá de lo erogado por adquisiciones, reposición de lámparas, mantenimiento de líneas eléctricas, postes, materiales, seguridad, herramientas y maquinaria, así como la operación y mantenimiento del servicio de alumbrado público;
 
-El Ayuntamiento estará facultado para celebrar el convenio o convenios necesarios a fin de establecer el mecanismo para la recaudación del Derecho por los Servicios de Alumbrado Público con la empresa u organismo suministrador de energía eléctrica.
+III. El pago realizado por concepto de suministro de energía eléctrica de las redes de alumbrado público del Municipio, en el ejercicio fiscal inmediato anterior en concepto del costo anual, global, general erogado del suministro de energía eléctrica, del año inmediato anterior, y
+
+IV. El costo de depreciación de las luminarias que sirven para el servicio de alumbrado público.
