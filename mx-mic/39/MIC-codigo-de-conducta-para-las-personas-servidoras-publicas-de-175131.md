@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-conducta-para-las-personas-servidoras-publicas-de-175
 country: "mx"
 rank: "codigo"
 publication_date: "2024-10-03"
-last_updated: "2024-10-03"
+last_updated: "2025-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE MICHOACÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
 
 Código publicado en la Séptima Sección del Número 56 del Periódico Oficial del Estado de Michoacán de Ocampo, el jueves 3 de octubre de 2024.
 
@@ -669,9 +669,11 @@ Son conductas esperadas que, de manera enunciativa y no limitativa, hacen posibl
 
 15. Reportar al área correspondiente, la detección de alguna falla interna que pudiera poner en riesgo la seguridad de las personas, así como de algún peligro ambiental en torno a las instalaciones.
 
-l) Comportamiento digno. Las personas servidoras públicas que desempeñan un empleo, cargo o comisión, conducirán su actuación en forma digna y guardarán respeto hacia las personas con las que tengan relación en la función pública.
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-Son conductas esperadas que, de manera enunciativa y no limitativa, hacen posible propiciar un servicio público íntegro, las siguientes:
+l) Comportamiento digno. Las personas servidoras públicas que desempeñan un empleo, cargo o comisión, conducirán su actuación en forma digna y respetuosa hacia las personas con las que tengan relación en la función pública.
+
+Se consideran conductas que son contrarias a la norma, y que contravienen el espíritu del presente Código de Conducta, las siguientes:
 
 1. Realizar expresiones verbales, señales, contacto o movimientos corporales de tipo sexual;
 
@@ -681,39 +683,41 @@ Son conductas esperadas que, de manera enunciativa y no limitativa, hacen posibl
 
 4. Conceder algún empleo, cargo, comisión, o su permanencia en él, a cambio de aceptar propuestas de naturaleza sexual;
 
-5. Obligar a las personas con las que se tiene o guarda relación en el ejercicio de la función pública, a que realicen actividades ajenas a su empleo, cargo o comisión, en represalia por no aceptar propuestas de tipo sexual;
+5. Obligar a las personas con las que se tiene o guarda relación en el ejercicio de la función pública, a que realicen actividades ajenas a su empleo, cargo o comisión, en represalia por no aceptar propuestas de tipo sexual; y,
 
-6. Condicionar la admisión o seguimiento de algún trámite a cambio de que la persona servidora pública acceda a sostener conductas de naturaleza sexual;
+6. Condicionar la admisión o seguimiento de algún trámite a cambio de que la persona servidora pública acceda a sostener conductas de naturaleza sexual.
 
-7. Realizar acciones que garanticen y protejan los derechos humanos, así como la igualdad y equidad entre mujeres y hombres;
+En sentido contrario, son conductas esperadas que, de manera enunciativa y no limitativa, hacen posible propiciar un servicio público íntegro las siguientes:
 
-8. Identificar, evitar, repudiar y denunciar cualquier acto de hostigamiento laboral, entendido como violencia física o psicológica en el ejercicio del poder en una relación de subordinación, o bien cuando no exista dicha jerarquía, en las expresiones físicas y verbales que se traduzcan en dicha violencia;
+1. Realizar acciones que garanticen o protejan los derechos humanos, así como la igualdad y equidad entre mujeres y hombres;
 
-9. Detectar, rechazar y denunciar en su caso, las conductas de hostigamiento y/o acoso sexual, que además de resultar violatorias al presente Código de Conducta, podrían ser motivo de sanciones administrativas y de tipo penal;
+2. Identificar, evitar, repudiar y denunciar cualquier acto de hostigamiento laboral, entendido como violencia física o psicológica en el ejercicio del poder en una relación de subordinación, o bien cuando no exista dicha jerarquía, en las expresiones físicas y verbales que se traduzcan en dicha violencia;
 
-10. Desarrollar las relaciones de trabajo entre las y los compañeros con trato equitativo y solidario;
+3. Detectar, rechazar y denunciar en su caso, las conductas de hostigamiento y/o acoso sexual, que además de resultar violatorias del presente Código de Conducta, podrían ser motivo de sanciones administrativas de tipo penal;
 
-11. Evitar hostigar, agredir, amedrentar, acosar, intimidar, extorsionar o amenazar a compañeras y compañeros de trabajo;
+4. Desarrollar las relaciones de trabajo entre las y los compañeros con trato equitativo y solidario;
 
-12. Conducirse con trato digno y cordial, ya sea en la atención al público o en la cooperación entre compañeras y compañeros de trabajo;
+5. Evitar, hostigar, agredir; amedrentar, acosar, intimidar, extorsionar, o amenazar a compañeras y compañeros de trabajo;
 
-13. Realizar las actividades de atención al público en general, de manera respetuosa, ágil y expedita;
+6. Conducirse con un trato digno y cordial, ya sea en la atención al público o en la cooperación entre compañeras y compañeros de trabajo;
 
-14. Fomentar en sus respectivas áreas de trabajo, el respeto, la cooperación, la disciplina y la integridad, para el desempeño eficiente de sus funciones;
+7. Realizar las actividades de atención al público en general, de manera respetuosa, ágil y expedita;
 
-15. Promover el apoyo y la colaboración hacia sus compañeras y compañeros de trabajo, propiciando el trabajo en equipo y la vocación en el servicio público;
+8. Fomentar en sus respectivas áreas de trabajo, el respeto, la cooperación, la disciplina y la integridad, para el desempeño eficiente de sus funciones;
 
-16. Abstenerse, durante el ejercicio del empleo, cargo o comisión, de comportamientos tendientes a vulnerar la dignidad de toda persona;
+9. Promover el apoyo y la colaboración hacia sus compañeras y compañeros de trabajo, propiciando el trabajo en equipo y la vocación en el servicio público;
 
-17. Fomentar la cultura de la denuncia, a efecto de presentar denuncias por transgresiones a los ordenamientos jurídicos;
+10. Abstenerse, durante el ejercicio del empleo, cargo o comisión, de comportamientos tendientes a vulnerar la dignidad de toda persona;
 
-18. Evitar realizar acciones que representan agresividad, intimidación, supremacía o dominación, respecto de otras personas;
+11. Fomentar la cultura de la denuncia, a efecto de presentar denuncias por transgresiones a los ordenamientos jurídicos;
 
-19. Evitar, durante el ejercicio de su empleo, cargo o comisión, la difusión por cualquier medio de imágenes o videos que produzcan a alguna persona afectación a su honor o dignidad;
+12. Evitar realizar acciones que representen agresividad, intimidación, supremacía o dominación, respecto de otras personas;
 
-20. Promover en el desarrollo del servicio público la no discriminación por razones de origen étnico; color de piel; cultura; sexo; género; edad; discapacidades; condición social, económica, jurídica y de salud; religión; apariencia física; características genéticas; situación migratoria; embarazo; lengua; opinión; preferencia sexual; identidad; estado civil; situación y responsabilidad familiar o antecedentes penales; y,
+13. Evitar, durante el ejercicio de su empleo, cargo o comisión, la difusión por cualquier medio de imágenes o videos que produzcan a alguna persona afectación a su honor o dignidad;
 
-21. Evitar cualquier tipo de prácticas de homofobia; misoginia; xenofobia, segregación racial y otras formas conexas de intolerancia.
+14. Promover en el desarrollo del servicio público la no discriminación por razones de origen étnico, color de piel, cultura; sexo, género, edad, discapacidades, condición social, económica, jurídica y de salud, región (sic), apariencia física, características genéticas, situación migratoria, embarazo, lengua, opinión, preferencia sexual, identidad, estado civil, situación y responsabilidad familiar o, antecedentes penales; y,
+
+15. Evitar cualquier tipo de prácticas de homofobia, misoginia, xenofobia, segregación racial y otras formas conexas de intolerancia.
 
 XII. Instancias encargadas de la interpretación, consulta y asesoría.
 
@@ -736,3 +740,13 @@ Mtro. Juan Carlos Oseguera Cortés
 Secretario de Seguridad Pública del Estado de Michoacán
 
 (Firmado)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE “SE REFORMA EL INCISO L), DE LA FRACCIÓN XI; TODOS DEL CÓDIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE MICHOACÁN”.]
+
+Primero. El presente Acuerdo, entrará en Vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Se derogan todas aquellas disposiciones administrativas que se opongan al presente Acuerdo.
