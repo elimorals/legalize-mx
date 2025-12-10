@@ -4,7 +4,7 @@ identifier: "OAX-codigo-fiscal-para-el-estado-de-oaxaca-92358"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-12-22"
-last_updated: "2024-12-21"
+last_updated: "2025-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO FISCAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
 
 Código publicado en la cuarta sección del periódico oficial del Estado de Oaxaca el sábado 22 de diciembre de 2012.
 
@@ -1135,7 +1135,9 @@ g) El importe total de la operación que ampara.
 
 II. Proporcionar de inmediato a sus clientes, la impresión del comprobante fiscal digital cuando así les sea solicitada.
 
-### CAPÍTULO SEXTO. DE LOS DICTÁMENES DE CONTRIBUCIONES ESTATALES POR CONTADOR PÚBLICO AUTORIZADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO SEXTO. DE LOS DICTÁMENES DE CONTRIBUCIONES ESTATALES POR CONTADOR PÚBLICO REGISTRADO
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -1145,7 +1147,29 @@ Las personas físicas, morales o unidades económicas, estarán obligadas a dict
 
 I. Que en el año calendario inmediato anterior hayan obtenido ingresos superiores a $10,000,000.00, por concepto de prestación de servicios de hospedaje, y
 
-II. Las que por concepto del impuesto sobre erogaciones por remuneraciones al trabajo personal en el año calendario inmediato anterior hayan contado con un promedio mensual de ciento cincuenta o más trabajadores, o cuando por concepto de pago sobre erogaciones por remuneraciones al trabajo personal haya sido igual o superior a $400,000.00 pesos en promedio mensual.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+II. Las que, por concepto del impuesto sobre erogaciones por remuneraciones al trabajo personal, en el año calendario inmediato anterior hayan contado con un promedio mensual de ciento cincuenta o más trabajadores.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Para efectos del párrafo anterior, el promedio mensual de trabajadores se calculará mediante la suma de los trabajadores de cada uno de los meses del año que se dictamina, dividida entre el número de meses de dicho año.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Cuando los contribuyentes hayan iniciado sus actividades con posterioridad al 1º de enero y/o hayan suspendido actividades antes del 31 de diciembre del ejercicio a dictaminar, el promedio mensual será el que resulte de la suma de los trabajadores de los meses del ejercicio en los que realizaron actividades, dividida entre el número de meses de dicho periodo;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+III. Cuando por concepto de pago sobre erogaciones por remuneraciones al trabajo personal, haya sido igual o superior a $400,000.00 en promedio mensual.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN III, D.O.F. 10 DE DICIEMBRE DE 2025]</small>
+
+Para efectos del párrafo anterior, el promedio mensual del pago de las erogaciones por remuneraciones al trabajo personal, se calculará mediante la suma de las erogaciones pagadas de cada uno de los meses del año que se dictamina, dividida entre el número de meses de dicho año.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN III, D.O.F. 10 DE DICIEMBRE DE 2025]</small>
+
+Cuando los contribuyentes hayan iniciado sus actividades con posterioridad al 1º de enero y/o hayan suspendido actividades antes del 31 de diciembre del ejercicio a dictaminar, el promedio mensual será el que resulte de la suma de las erogaciones por remuneraciones al trabajo personal de los meses del ejercicio en los que realizaron actividades, dividida entre el número de meses de dicho periodo.
 
 A partir del segundo ejercicio en que se encuentren en suspensión de actividades, los contribuyentes a que se refiere la fracción II de este artículo, no estarán obligados a dictaminar sus contribuciones estatales.
 
@@ -1227,7 +1251,9 @@ Solo serán válidos el comprobante, la constancia y/o certificación expedidos 
 
 La Secretaría proporcionará al contador público que haya cumplido con los requisitos mencionados, su registro correspondiente en un plazo no mayor de quince días hábiles contados a partir de la fecha en que se integró debidamente la solicitud.
 
-En caso de modificación de los datos asentados en la solicitud de registro, el contador público deberá presentar aviso a la Secretaría dentro de los quince días siguientes al en que ocurra dicho evento, en el formato de actualización de datos que para tal efecto emita la Secretaría.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Una vez otorgado el registro a que se refiere este artículo, el contador público deberá comunicar a la Secretaría cualquier cambio en los datos contenidos en su solicitud de registro, dentro de los quince días siguientes en que ocurra dicho evento, mediante el formato de actualización de datos que para tal efecto emita la Secretaría.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
@@ -1493,7 +1519,9 @@ Cuando las leyes fiscales establezcan que las contribuciones se paguen mediante 
 
 Las resoluciones administrativas de carácter individual favorables a un particular sólo podrán ser modificadas por el Tribunal mediante juicio iniciado por las autoridades fiscales.
 
-Las autoridades fiscales podrán, a petición de los interesados, revisar discrecionalmente las resoluciones administrativas de carácter individual no favorables a un particular emitidas por sus subordinados jerárquicamente, y en el supuesto que se demuestre fehacientemente que las mismas se hubieran emitido en contravención a las disposiciones fiscales, o que existe afectación a los derechos humanos de los contribuyentes, podrán por una sola vez, y siempre que no se hubiera interpuesto el Recurso de Revocación previsto en este Código y hubieren quedado firmes, mediante resolución fundada y motivada, modificarlas o revocarlas en beneficio del contribuyente.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Las autoridades fiscales podrán, a petición de los interesados, revisar discrecionalmente las resoluciones que contengan determinaciones de créditos fiscales emitidas por sus subordinados jerárquicamente, y en el supuesto que se demuestre fehacientemente que las mismas se hubieran emitido en contravención a las disposiciones fiscales, o que existe afectación a los derechos humanos de los contribuyentes, podrán por una sola vez, y siempre que no se hubiera interpuesto el Recurso de Revocación previsto en este Código y hubieren quedado firmes, mediante resolución fundada y motivada, modificarlas o revocarlas en beneficio del contribuyente.
 
 En estos supuestos, por tratarse de la modificación de resoluciones en las que sin haber intentado la vía administrativa con anterioridad, se actualiza el supuesto de haber sido consentidas en términos de las disposiciones establecidas en los medios de impugnación procedentes, las resoluciones dictadas conforme lo establecido en el párrafo anterior no podrán ser impugnadas por los contribuyentes, incluso en las partes que consideren no les favorecen. Para estos efectos, al presentar su solicitud, el contribuyente deberá manifestar el consentimiento expreso con la resolución que pretende sea modificada, enunciando a manera de información, cuáles son las contravenciones legales o a sus derechos humanos que a su juicio se actualizan en la emisión de la misma.
 
@@ -1635,17 +1663,21 @@ VIII. Recabar de los servidores públicos y de los fedatarios, los informes y da
 
 IX. Allegarse las pruebas necesarias para formular la denuncia o querella al ministerio público para que ejercite la acción penal por la posible comisión de delitos fiscales.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Tratándose de las visitas domiciliarias y visitas de inspección, a que se refieren las fracciones III y V de este artículo, respectivamente, las autoridades fiscales podrán autorizar, en la misma orden de visita domiciliaria o de inspección, el uso de herramientas tecnológicas para generar de manera indistinta fotografías, audios o videos del desarrollo de las diligencias que practiquen, cuya impresión o archivos electrónicos serán anexados a las actas que levanten y servirán como prueba, entre otras circunstancias, de las características del lugar, fecha y hora en que se desarrollaron, personas que participaron, de los hechos y omisiones que se conocieron, así como sobre los bienes descubiertos al amparo de la orden respectiva.
+
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
 En el caso de que la autoridad fiscal este ejerciendo las facultades de comprobación previstas en las fracciones II, III y IV de este artículo y en el ejercicio revisado se acredite o compensen saldos a favor, o pago de lo indebido o se apliquen estímulos o subsidios fiscales, se podrá requerir al contribuyente, dentro del mismo acto de comprobación la documentación comprobatoria con la que acredite de manera fehaciente el origen y procedencia de dichos conceptos, según se trate, independientemente del ejercicio en que se hayan originado los mismos, sin que dicho requerimiento se considere como un nuevo acto de comprobación.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-Las autoridades fiscales que estén ejerciendo alguna de las facultades previstas en las fracciones II o III de este artículo y detecten hechos u omisiones que puedan entrañar un incumplimiento en el pago de contribuciones, deberán informar al contribuyente, a su representante legal, y en el caso de las personas morales a sus órganos de dirección por conducto de aquél, mediante oficio, en un plazo de al menos 10 días hábiles, previos al del levantamiento de la última acta parcial o del oficio de observaciones, el derecho que tienen para acudir a las oficinas que estén llevando a cabo el procedimiento de que se trate, para conocer los hechos u omisiones detectados en el procedimiento de fiscalización.
+Las autoridades fiscales que estén ejerciendo alguna de las facultades establecidas en las fracciones II o III de este artículo, dentro de los 10 días hábiles posteriores al del levantamiento de la última acta parcial o de la notificación del oficio de observaciones, deberán informar, mediante oficio, por cualquiera de las formas de notificación señaladas en el artículo 132 de este Código, los hechos u omisiones que puedan entrañar un incumplimiento en el pago de contribuciones, al contribuyente, a su representante legal, y en el caso de las personas morales a sus órganos de dirección. Dicho informe no interfiere con los plazos, efectos jurídicos, ni derechos establecidos en los artículos 149, fracción IV y 152, fracción V de este Código.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-Transcurrido el plazo a que se refiere el párrafo anterior, la autoridad emitirá la última acta parcial o el oficio de observaciones, señalando en estas actuaciones la asistencia o inasistencia de los interesados para ejercer su derecho a conocer el estado del procedimiento a que está siendo sujeto; previo a ello, deberá levantarse un acta circunstanciada en la que se haga constar esta situación.
+Para efectos del párrafo anterior, tratándose de personas morales, la autoridad fiscal requerirá al contribuyente, desde el oficio con el cual inicien las facultades de comprobación, para que en el primer acto en el que comparezca, proporcione el nombre del presidente del consejo de administración, del administrador único y/o de la persona que tenga ese carácter en su órgano de dirección, su domicilio fiscal, su dirección de correo electrónico, teléfono y los medios de contacto que, en su caso, tengan habilitados ante el Registro Estatal de Contribuyentes, así como, en su caso, el nombre del representante legal de los mismos. Los contribuyentes se encontrarán obligados a mantener informada a la autoridad fiscal sobre cualquier cambio en los integrantes del referido órgano de dirección, así como del domicilio y medios de contacto antes referidos y deberán comunicar sobre esas modificaciones a la autoridad que esté ejerciendo las facultades de comprobación, en la siguiente actuación que realicen dentro de los referidos procedimientos de fiscalización. En caso de que el contribuyente no proporcione dicha información, se entenderá que no es su deseo ejercer el derecho contenido en el párrafo anterior.
 
 El ejercicio de las facultades a que se refiere este artículo lo podrán realizar las autoridades fiscales de forma simultánea, indistinta o sucesiva, y en cada caso, se considerarán iniciadas con el primer acto que se notifique al contribuyente.
 
@@ -1657,11 +1689,11 @@ Las autoridades fiscales, cuando en el ejercicio de sus facultades o a través (
 
 En caso que los obligados directos a realizar la inscripción no proporcionen la información necesaria para hacerlo, las autoridades procederán a recabarla incluso de terceros que cuenten con elementos que permitan discernir que es aplicable para los fines que se persiguen.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 109.
 
-Las autoridades fiscales podrán determinar presuntivamente la base para el cálculo del impuesto, el remanente, sus ingresos, el valor de la prestación de los servicios y el monto de la prenda por los que deban pagar contribuciones para efectos de establecer en cantidad líquida las contribuciones que tiene derecho a percibir el fisco estatal, cuando:
+Las autoridades fiscales podrán determinar presuntivamente la base para el cálculo del impuesto, las demasías caducas o el remanente, sus ingresos, el valor de la prestación de los servicios, la venta final de bebidas con contenido alcohólico, las erogaciones en efectivo o en especie y el volumen de metros cúbicos de material extraído por los que se deban pagar contribuciones, para efectos de establecer en cantidad líquida las contribuciones que tiene derecho a percibir el fisco estatal, cuando:
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
@@ -2069,35 +2101,59 @@ No se otorgará garantía respecto de gastos de ejecución, salvo que el interé
 
 La garantía deberá constituirse dentro de los cinco días siguientes a aquél en que se solicite la suspensión del procedimiento administrativo de ejecución, o se solicite la prórroga para el pago en parcialidades o diferido de créditos fiscales, salvo en los casos en que se indique un plazo diferente en otros preceptos de este Código.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 129.
 
-Cuando se solicite la suspensión del procedimiento administrativo de ejecución, o prórroga para el pago de créditos fiscales o condonación de multas, el interés fiscal podrá ser garantizado en cualquiera de las formas siguientes:
+Cuando se solicite la suspensión del procedimiento administrativo de ejecución, o prórroga para el pago de créditos fiscales o condonación de multas, el interés fiscal podrá ser garantizado en cualquiera de las formas siguientes, en el orden de prelación que se indica a continuación:
 
-I. Depósito en dinero, carta de crédito u otras formas de garantía financiera equivalentes que establezca el Reglamento;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-II. Prenda o hipoteca;
+I. Billete de depósito, emitido por institución autorizada o carta de crédito emitida por alguna de las instituciones autorizadas por la Comisión Nacional Bancaria y de Valores y registradas para tal efecto ante el Servicio de Administración Tributaria;
 
-III. Fianza otorgada por institución autorizada, la que no gozará de los beneficios de orden y excusión;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+II. Prenda excepto los bienes intangibles, e hipoteca, a excepción de los inmuebles con características de predios rústicos. Mediante Reglas, la Secretaría podrá establecer las características y demás tipo de bienes que se podrán ofrecer en cualquiera de estas modalidades;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+III. Fianza otorgada por institución autorizada, la que no gozará de los beneficios de orden y excusión.
+
+Para los efectos fiscales, en el caso de que la póliza de fianza se exhiba en documento digital, deberá contener la firma electrónica avanzada o el sello digital de la institución emisora de pólizas de fianza;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 IV. Obligación solidaria asumida por tercero que compruebe su idoneidad y solvencia;
 
-V. Embargo en la vía administrativa, y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-VI. Títulos valor o cartera de créditos del propio contribuyente, en caso de que se demuestre la imposibilidad de garantizar la totalidad del crédito mediante cualquiera de las fracciones anteriores, los cuales se aceptarán al valor que discrecionalmente fije la Secretaría.
+V. Embargo en la vía administrativa de negociaciones, bienes muebles, tangibles e inmuebles excepto aquellos con características de predios rústicos. Mediante Reglas, la Secretaría podrá establecer las características y demás tipo de bienes que se podrán ofrecer en cualquiera de estas modalidades, y
+
+VI. (DEROGADA, P.O. 10 DE DICIEMBRE DE 2025)
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Los contribuyentes deberán ofrecer como garantía, en todos los casos, el billete de depósito señalado en la fracción I, hasta por el importe máximo de su capacidad económica, aun y cuando no sea suficiente para garantizar el interés fiscal y, en la misma solicitud, combinarse con alguna de las formas y en el orden que al efecto establece este artículo, en ese caso, los contribuyentes deberán demostrar la imposibilidad para garantizar sus adeudos fiscales bajo las modalidades establecidas en las fracciones I, II, III, IV y V, en ese orden, presentando la documentación que acredite dicha situación.
 
 La garantía deberá comprender, además de las contribuciones adeudadas actualizadas, los accesorios causados, así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá actualizarse su importe cada año y ampliarse la garantía para que cubra el crédito actualizado y el importe de los recargos, incluso los correspondientes a los doce meses siguientes.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-El Reglamento establecerá los requisitos que deberán reunir las garantías. La Secretaría vigilará que sean suficientes tanto en el momento de su aceptación como con posterioridad y, si no lo fueren, exigirá su ampliación. En los casos en que los contribuyentes, a requerimiento de la autoridad fiscal, no lleven a cabo la ampliación o sustitución de garantía suficiente, ésta procederá al secuestro o embargo de otros bienes para garantizar el interés fiscal.
+El Reglamento establecerá los requisitos que deberán reunir las garantías. La Secretaría vigilará que sean suficientes tanto en el momento de su ofrecimiento como con posterioridad y, si no lo fueren, exigirá su ampliación. En los casos en que los contribuyentes, a requerimiento de la autoridad fiscal, no lleven a cabo la ampliación o sustitución de garantía suficiente, ésta procederá al secuestro o embargo de otros bienes para garantizar el interés fiscal.
 
 La autoridad fiscal podrá dispensar la garantía del interés fiscal en los supuestos establecidos en el Reglamento.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+No se podrá dispensar garantía cuando se interponga el recurso de revocación previsto en el artículo 243 de este Código.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 La garantía deberá constituirse dentro de los treinta días siguientes a aquél en que surta efectos la notificación efectuada por la autoridad fiscal correspondiente de la resolución sobre la cual se deba garantizar el interés fiscal, salvo en los casos en que se indique un plazo diferente en otros preceptos de este Código.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Cuando el contribuyente ofrezca en más de dos ocasiones alguna de las garantías señaladas en las fracciones II, IV o V de este artículo, sin que cumpla con la totalidad de la información requerida por la autoridad para ser aceptada, no podrá ofrecer el mismo bien en dichas modalidades.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
@@ -2283,9 +2339,9 @@ I. Permitir a los visitadores designados por la autoridad el acceso al lugar o l
 
 II. Mantener a su disposición la contabilidad y demás documentos que acrediten el cumplimiento de las disposiciones fiscales, de los cuales los visitadores podrán sacar copias para que, previo cotejo con sus originales, se certifiquen por los mismos y sean anexados a las actas parciales o final, que levanten con motivo de la misma.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-III. Permitir la verificación de bienes y mercancías, así como de los documentos, estados de cuentas bancarias, discos, cintas o cualquier otro medio procesable de almacenamiento de datos que tenga el contribuyente en los lugares visitados.
+III. Permitir la verificación de bienes y mercancías, así como de los documentos, estados de cuenta o estados de cuenta bancarios, discos, cintas o cualquier otro medio procesable de almacenamiento de datos que tenga el contribuyente en los lugares visitados;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
@@ -2469,6 +2525,10 @@ Se tendrán por consentidos dentro de la fase oficiosa del procedimiento los hec
 
 VI. Cuando con motivo de la revisión practicada en los términos de este artículo no hubiere observaciones, la autoridad fiscalizadora lo comunicará al contribuyente mediante oficio de conclusión en que se señalen los documentos que habiendo sido presentados por el particular, fueron objeto de revisión.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Para efectos de lo dispuesto en el presente artículo y en el artículo 107, primer párrafo de este Código cuando la autoridad se encuentre ejerciendo sus facultades de comprobación, podrá requerir informes, datos, documentos, la contabilidad o parte de ella, así como información económica y financiera, con el orden, metodología y características, que permitan relacionar las operaciones, actos o actividades del contribuyente revisado, además de la relativa a las cuentas o cuentas bancarias abiertas a nombre del contribuyente.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 153.
@@ -2547,7 +2607,9 @@ La revisión a que se refiere esta fracción se llevará a cabo con el contador 
 
 Cuando la autoridad, dentro del plazo mencionado, no requiera directamente al contribuyente la información a que se refiere el inciso c) de esta fracción o no ejerza directamente con el contribuyente las facultades a que se refiere la fracción II del presente artículo, no podrá volver a revisar el mismo dictamen, salvo cuando se revisen hechos diferentes de los ya revisados.
 
-II. Habiéndose requerido al contador público que haya formulado el dictamen la información y los documentos a que se refiere la fracción anterior, después de haberlos recibido o si éstos no fueran suficientes a juicio de las autoridades fiscales estatales para conocer la situación fiscal del contribuyente, o si éstos no se presentan dentro de los plazos que establece el artículo 81 de este Código, o dicha información y documentos son incompletos, las citadas autoridades podrán, a su juicio, ejercer directamente con el contribuyente sus facultades de comprobación;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+II. Habiéndose requerido al contador público que haya formulado el dictamen la información y los documentos a que se refiere la fracción anterior, después de haberlos recibido o si éstos no fueran suficientes a juicio de las autoridades fiscales estatales para conocer la situación fiscal del contribuyente, o si éstos no se presentan dentro de los plazos que establece el artículo 156 de este Código, o dicha información y documentos son incompletos, las citadas autoridades podrán, a su juicio, ejercer directamente con el contribuyente sus facultades de comprobación;
 
 III. Las autoridades fiscales estatales podrán, en cualquier tiempo, solicitar a los terceros relacionados con el contribuyente o responsables solidarios, la información y documentación para verificar si son ciertos los datos consignados en el dictamen y en los demás documentos, en cuyo caso, la solicitud respectiva se hará por escrito, notificando copia de la misma al contribuyente.
 
@@ -2571,9 +2633,11 @@ d) El contador público que formule el dictamen no esté autorizado o su registr
 
 e) El contador público que formule el dictamen desocupe el local donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 156.
 
-Cuando las autoridades fiscales estatales revisen el dictamen y demás información a que se refiere este Código, y soliciten al contador público autorizado que lo hubiera formulado información o documentación, la misma se deberá presentar en los siguientes plazos:
+Cuando las autoridades fiscales estatales revisen el dictamen y demás información a que se refiere este Código, y soliciten al contador público registrado que lo hubiera formulado información o documentación, la misma se deberá presentar en los siguientes plazos:
 
 I. Seis días, tratándose de papeles de trabajo elaborados con motivo del dictamen realizado. Cuando el contador público registrado tenga su domicilio fuera de la localidad en que se ubica la autoridad solicitante, el plazo será de quince días, y
 
@@ -2607,9 +2671,11 @@ Si el contador público registrado se somete a la legislación estatal pero incu
 
 ### CAPÍTULO CUARTO. DE LAS VISITAS DE INSPECCIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 160.
 
-Para efectos de las visitas domiciliarias de inspección previstas en la fracción V del artículo 107 de este Código, los procedimientos aplicables serán los siguientes:
+Para efectos de las visitas de inspección previstas en la fracción V del artículo 107 de este Código, los procedimientos aplicables serán los siguientes:
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
@@ -2621,7 +2687,9 @@ II. Se realizarán en el domicilio fiscal, o cualquier otro establecimiento, suc
 
 III. Al presentarse los visitadores al lugar en donde deba practicarse la diligencia, entregarán la orden de visita de inspección al visitado, a su representante legal, al encargado o a quien se encuentre al frente del lugar visitado, indistintamente, y con dicha persona se entenderá la vísita de ínspección;
 
-IV. Al inicio de la visita, los visitadores deberán identificarse con la persona con quien se entienda la diligencia, y requerirle para que designe dos testigos, y si se niega a ello, los testigos serán designados por los propios visitadores, sin que esta circunstancia invalide el resultado de la visita de inspección;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+IV. Al inicio de la visita de inspección, los visitadores deberán identificarse con la persona con quien se entienda la diligencia, y requerirle para que designe dos testigos, y si se niega a ello, los testigos serán designados por los propios visitadores, sin que esta circunstancia invalide el resultado de la visita de inspección;
 
 V. Se levantará acta circunstanciada en la que se harán constar los hechos, omisiones o irregularidades que siendo conocidos por los visitadores durante su desarrollo, pudiesen constituirse en infracciones a las leyes fiscales aplicables;
 
@@ -2629,9 +2697,9 @@ V. Se levantará acta circunstanciada en la que se harán constar los hechos, om
 
 Si se observa que el visitado no se encuentra inscrito en el registro estatal de contribuyentes, la autoridad requerirá los datos necesarios para su inscripción, sin perjuicio de las sanciones y demás consecuencias legales derivadas de dicha omisión;
 
-> <small>(REFORMADOA, P.O. 26 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-VI. Si al cierre del acta de visita domiciliaria el visitado o la persona con quien se entendió la diligencia o los testigos, se niegan a firmar el acta, o se niegan a aceptar copia de la misma, dicha circunstancia se asentará en la propia acta, sin que esto afecte la validez y valor probatorio de la misma; dándose por concluida la visita domiciliaria.
+VI. Si al cierre del acta de visita de inspección el visitado o la persona con quien se entendió la diligencia o los testigos, se niegan a firmar el acta, o se niegan a aceptar copia de la misma, dicha circunstancia se asentará en la propia acta, sin que esto afecte la validez y valor probatorio de la misma; dándose por concluida la visita de inspección.
 
 > <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 21 DE DICIEMBRE DE 2024)</small>
 
@@ -2677,11 +2745,11 @@ En el caso que se hubiere clausurado el establecimiento por existir causa justif
 
 #### SECCIÓN PRIMERA. DE LA BASE GRAVABLE
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 162.
 
-Para la determinación presuntiva de la base del impuesto, el remanente, sus ingresos, el valor de la prestación de los servicios y el monto de la prenda para el pago de contribuciones, las autoridades fiscales podrán basarse en los siguientes elementos:
+Para la determinación presuntiva de la base del impuesto, las demasías caducas o el remanente, sus ingresos, el valor de la prestación de los servicios, la venta final de bebidas con contenido alcohólico, las erogaciones en efectivo o en especie y el volumen de metros cúbicos de material extraído, para el pago de contribuciones, las autoridades fiscales podrán basarse en los siguientes elementos:
 
 I. Los contenidos en la contabilidad del contribuyente, o los que en su caso debieran formar parte de ella;
 
@@ -2701,11 +2769,11 @@ IV. Cualquier otra información obtenida por la autoridad fiscal en el ejercicio
 
 (DEROGADO, P.O. 26 DE DICIEMBRE DE 2020)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 164.
 
-En caso de que los contribuyentes se coloquen en alguna de las causales de determinación presuntiva previstas en el artículo 109 de este Código, y no puedan comprobar por el periodo objeto de revisión sus ingresos, el valor de la prestación de los servicios y el monto de la prenda por los que deban pagar contribuciones, se presumirá que son iguales al resultado de alguna de las operaciones siguientes:
+En caso que los contribuyentes se coloquen en alguna de las causales de determinación presuntiva previstas en el artículo 109 de este Código, y no puedan comprobar por el periodo objeto de revisión sus ingresos, las demasías caducas o el remanente, el valor de la prestación de los servicios, la venta final de bebidas con contenido alcohólico, las erogaciones en efectivo o en especie y el volumen de metros cúbicos de material extraído, por los que se deban pagar contribuciones, se presumirá que son iguales al resultado de alguna de las operaciones siguientes:
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2020)</small>
 
@@ -2725,11 +2793,11 @@ Cuando se trate de la revisión de dos o más ejercicios, la observación de ope
 
 Al valor de la prestación de los servicios y el monto de la prenda de las operaciones determinadas presuntivamente por cualquiera de los anteriores procedimientos, les será aplicable la tasa o tarifa establecidas en la Ley Estatal de Hacienda, para el pago de las contribuciones a que se estuviere afecto.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 165.
 
-Las autoridades fiscales podrán estimar la base del impuesto, el remanente, sus ingresos, el valor de la prestación de los servicios y el monto de la prenda considerando además de lo mencionado en el artículo 162 de este Código, lo siguiente:
+Las autoridades fiscales podrán estimar la base del impuesto, las demasías caducas o el remanente, sus ingresos, el valor de la prestación de los servicios, la venta final de bebidas con contenido alcohólico, las erogaciones en efectivo o en especie y el volumen de metros cúbicos de material extraído considerando además de lo mencionado en el artículo 162 de este Código, lo siguiente:
 
 I. La información contenida en los dictámenes que para efectos fiscales hubieren presentado los contribuyentes conforme a las disposiciones fiscales estatales y federales;
 
@@ -2747,9 +2815,11 @@ I. Que la información contenida en la contabilidad, documentación comprobatori
 
 II. Que la información contenida en los sistemas de contabilidad, a nombre del contribuyente, que sean localizados en poder de otras personas a su servicio, o de accionistas o propietarios de la empresa, o sus familiares, corresponden a operaciones realizadas por el contribuyente;
 
-III. Que los depósitos en cuentas bancarias del contribuyente que no correspondan con sus registros contables que esté obligado a llevar, son ingresos o valor de operaciones por los que se encuentra sujeto al pago de contribuciones estatales.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-Para los efectos de esta fracción, se considera que el contribuyente no registró los depósito que hubiere realizado en su cuenta bancaria, cuando estando obligado a llevarla, no la proporcione a la autoridad cuando ésta ejerza sus facultades de comprobación del cumplimiento de obligaciones fiscales;
+III. Que los depósitos en las cuentas o cuentas bancarias del contribuyente que no correspondan a registros de su contabilidad que esté obligado a llevar, son ingresos o valor de operaciones por los que se encuentra sujeto al pago de contribuciones estatales.
+
+Para los efectos de esta fracción, se considera que el contribuyente no registró en su contabilidad los depósitos que hubiere realizado en sus cuentas o cuentas bancarias, cuando estando obligado a llevarla, no la proporcione a la autoridad cuando ésta ejerza sus facultades de comprobación del cumplimiento de obligaciones fiscales;
 
 IV. Que son depósitos o valor de operaciones del contribuyente por los que se deben pagar contribuciones, los depósitos realizados en cuenta de cheques personal de los gerentes, administradores o terceros, cuando se efectúen pagos de deudas de la empresa del contribuyente con cheques de dicha cuenta, o depositen en la misma, cantidades que correspondan a la empresa del contribuyente y ésta no los registre en su contabilidad, y
 
@@ -2977,7 +3047,9 @@ En caso de que los contribuyentes, responsables solidarios o terceros no cuenten
 
 La autoridad fiscal solicitará mediante oficio dirigido a la Comisión Nacional Bancaria y de Valores o de la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o bien a la entidad financiera o sociedad cooperativa de ahorro y préstamo a la que corresponda la cuenta, que procedan a inmovilizar y conservar los bienes señalados en la fracción VI del artículo 175, a más tardar al tercer día siguiente a la recepción de la solicitud de embargo precautorio correspondiente formulada por la autoridad fiscal. Para efectos de lo anterior, la inmovilización deberá realizarse dentro de los tres días siguientes a aquél en que les fue notificado el oficio de la autoridad fiscal.
 
-Las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores que hayan ejecutado la inmovilización en una o más cuentas del contribuyente, deberán informar del cumplimiento de dicha medida a la autoridad fiscal que la ordenó a más tardar al tercer día siguiente a la fecha en que se haya ejecutado, señalando los números de las cuentas, así como el importe total que fue inmovilizado.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores que hayan ejecutado la inmovilización en una o más cuentas del contribuyente, deberán informar del cumplimiento de dicha medida a la autoridad fiscal que la ordenó a más tardar al tercer día siguiente a la fecha en que se haya ejecutado, señalando los números de las cuentas, así como el importe total que fue inmovilizado. La autoridad fiscal notificará al contribuyente sobre dicha inmovilización, a más tardar al vigésimo día siguiente a aquél en que le hubieren comunicado ésta.
 
 En los casos en que el contribuyente, la entidad financiera, sociedades de ahorro y préstamo o de inversiones y valores, hagan del conocimiento de la autoridad fiscal que la inmovilización se realizó en una o más cuentas del contribuyente por un importe mayor al señalado en el segundo párrafo de este artículo, ésta deberá ordenar dentro de los tres días siguientes a aquél en que hubiere tenido conocimiento de la inmovilización en exceso, que se libere la cantidad correspondiente. Dichas entidades o sociedades cooperativas de ahorro y préstamo o de inversiones y valores, deberán liberar los recursos inmovilizados en exceso, a más tardar a los tres días siguientes a aquél en que surta efectos la notificación del oficio de la autoridad fiscal.
 
@@ -3175,7 +3247,9 @@ III. Por la de remate, enajenación fuera de remate o adjudicación al fisco est
 
 Cuando en los casos de las fracciones anteriores, el dos por ciento del crédito sea inferior a cinco veces el valor de la Unidad de Medida y Actualización vigente, se cobrará esta cantidad.
 
-Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven del embargo señalado en la fracción V del artículo 129 de este Código, que comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones, de cancelaciones o de solicitudes de información, en el registro público que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios, los devengados por concepto de escrituración y las contribuciones que origine la transmisión de dominio de los bienes inmuebles que sean adjudicados a favor del Estado en los términos de lo previsto por los artículos 234 y 235 de este Código, y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen a los bienes que sean objeto de remate, o cualquier otro que no siendo de los previstos dentro del procedimiento aplicable, se eroguen con carácter extraordinario.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven del embargo señalado en la fracción V del artículo 129 de este Código, que comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones, de cancelaciones o de solicitudes de información, en el registro público que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios, los devengados por concepto de escrituración y las contribuciones que origine la transmisión de dominio de los bienes inmuebles que sean adjudicados a favor del Estado en los términos de lo establecido por los artículos 234 y 235 de este Código, y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen a los bienes que sean objeto de remate, o cualquier otro que no siendo de los previstos dentro del procedimiento aplicable, se eroguen con carácter extraordinario.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -3243,7 +3317,9 @@ I. A embargar bienes suficientes para, en su caso, rematarlos, enajenarlos fuera
 
 En ningún caso procederá el embargo de los depósitos o seguros, por un monto mayor al del crédito fiscal actualizado, junto con sus accesorios legales, ya sea que el embargo se trabe sobre una sola cuenta o en más de una. Lo anterior, siempre y cuando, previo al embargo, la autoridad fiscal cuente con información de las cuentas y los saldos que existan en las mismas.
 
-Las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores que hayan ejecutado el embargo de los depósitos o seguros a que se refiere el artículo 197, fracción I, de este Código en una o más cuentas del contribuyente, deberán informarlo a la autoridad fiscal que ordenó la medida a más tardar al tercer día siguiente a la fecha en la que se haya ejecutado, señalando el número de las cuentas así como el importe total que fue embargado. La autoridad fiscal a su vez deberá notificar al contribuyente de dicho embargo a más tardar al tercer día siguiente a aquél en que le hubieren comunicado éste.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores que hayan ejecutado el embargo de los depósitos o seguros a que se refiere el artículo 197, fracción I, de este Código en una o más cuentas del contribuyente, deberán informarlo a la autoridad fiscal que ordenó la medida a más tardar al tercer día siguiente a la fecha en la que se haya ejecutado, señalando el número de las cuentas, así como el importe total que fue embargado. La autoridad fiscal a su vez deberá notificar al contribuyente de dicho embargo a más tardar al vigésimo día siguiente a aquél en que le hubieren comunicado éste.
 
 En los casos en que la autoridad fiscal tenga conocimiento de que el embargo se realizó por un importe mayor al señalado en el segundo párrafo de este artículo, ordenará a más tardar al tercer día siguiente a aquél en que hubiere tenido conocimiento del embargo en exceso, a las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores que correspondan, liberar la cantidad correspondiente. Las entidades o sociedades de ahorro y préstamo o de inversiones y valores, deberán liberar los recursos embargados en exceso, a más tardar al tercer día siguiente a aquél en que surta efectos la notificación del oficio de la autoridad fiscal;
 
@@ -3887,6 +3963,12 @@ Cuando no se acompañe alguno de los documentos a que se refieren las fracciones
 
 Sin perjuicio de lo dispuesto en el párrafo anterior, en el escrito en que se interponga el recurso o dentro de los quince días posteriores, el recurrente podrá anunciar que exhibirá pruebas adicionales, en términos de lo previsto en el tercer párrafo del artículo 254 de este Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+###### ARTÍCULO 249.
+
+Es improcedente el recurso cuando se haga valer contra actos administrativos:
+
 ###### ARTÍCULO 249.
 
 Es improcedente el recurso cuando se haga valer contra actos administrativos:
@@ -3910,6 +3992,10 @@ VII. Si son revocados los actos por la autoridad.
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
 VIII. En los demás casos en que la improcedencia resulte de alguna disposición de este Código.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+IX. Que el contribuyente manifieste desconocer.
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -4555,6 +4641,12 @@ II. A quien altere o destruya los sellos o marcas oficiales con los que se ident
 
 Se impondrá sanción de uno a seis años de prisión, a los servidores públicos que ordenen o practiquen visitas domiciliarias, solicitud de información y documentación; o embargos sin mandamiento escrito de autoridad fiscal competente.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+###### ARTÍCULO 289.
+
+Se impondrá sanción de tres a seis años de prisión a quien, a sabiendas, declare hechos o datos falsos, o presente documentación falsa o alterada, en cualquier procedimiento regulado en este Código.
+
 T R A N S I T O R I O S
 
 PRIMERO: El presente Decreto entrará en vigor el uno de enero de dos mil trece, previa publicación en el Periódico Oficial del Gobierno del Estado.
@@ -4738,3 +4830,11 @@ P.O. 21 DE DICIEMBRE DE 2024.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veinticinco, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 887 MEDIANTE EL CUAL REFORMAN, LA DENOMINACIÓN DEL CAPÍTULO SEXTO, DEL TÍTULO SEGUNDO, DEL LIBRO SEGUNDO; LA FRACCIÓN II DEL ARTÍCULO 81; EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 82 A; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 100; EL TERCER Y CUARTO PÁRRAFO DEL ARTÍCULO 107; EL PRIMER PÁRRAFO DEL ARTÍCULO 109; EL ARTÍCULO 129; LA FRACCIÓN III DEL ARTÍCULO 145; LA FRACCIÓN II DEL ARTÍCULO 155; EL PRIMER PÁRRAFO DEL ARTÍCULO 156; EL PRIMER PÁRRAFO Y LAS FRACCIONES IV Y VI DEL ARTÍCULO 160; EL PRIMER PÁRRAFO DEL ARTÍCULO 162; EL PRIMER PÁRRAFO DEL ARTÍCULO 164; Y EL PRIMER PÁRRAFO DEL ARTÍCULO 165; LA FRACCIÓN III DEL ARTÍCULO 166; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 176; EL TERCER PÁRRAFO DEL ARTÍCULO 188; EL PÁRRAFO TERCERO DE LA FRACCIÓN I DEL ARTÍCULO 192; SE ADICIONAN, LOS PÁRRAFOS SEGUNDO Y TERCERO A LA FRACCIÓN II Y LA FRACCIÓN III AL ARTÍCULO 81; UN PÁRRAFO SEGUNDO AL ARTÍCULO 107, RECORRIENDO EN SU ORDEN EL SIGUIENTE; LOS PÁRRAFOS SEGUNDO, SEXTO Y OCTAVO AL ARTÍCULO 129; UN SEGUNDO PÁRRAFO AL ARTÍCULO 152; LA FRACCIÓN IX AL ARTÍCULO 249; EL ARTÍCULO 289; Y DEROGAN, LA FRACCIÓN VI, DEL ARTÍCULO 129; TODOS DEL CÓDIGO FISCAL PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veintiséis, previa publicación en el Periódico Oficial del Gobierno del Estado.
