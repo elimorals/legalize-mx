@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-7104
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-06"
-last_updated: "2024-10-09"
+last_updated: "2025-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71044&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 6 de noviembre de 2009.
 
@@ -97,7 +97,15 @@ I. Accesibilidad: Es el conjunto de condiciones que permiten la facilidad para e
 
 II. Acompañamiento sustantivo: Procedimiento que corrige y sanciona los actos de discriminación y de desigualdad que realizan las instituciones públicas y privadas;
 
-III. Discriminación: Toda distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, idioma, religión, opiniones, preferencias sexuales, estado civil, obligaciones familiares o cualquier otra, tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas;
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+II Bis. Brecha salarial de género: Es la diferencia de retribución salarial entre mujeres y hombres por razones de género, respecto a la realización de un trabajo remunerado de igual valor;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+III. Discriminación: Toda distinción, exclusión, restricción o preferencia que por acción u omisión, con intención o sin ella, tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos, las libertades y la igualdad sustantiva de oportunidades en las esferas social, cultural, educativa, política, institucional, laboral o cualquier otra, incluyendo cualquier acción u omisión que directa o indirectamente provoque o perpetúe la brecha de género en cualquier ámbito. Lo anterior, cuando la distinción, exclusión, restricción o preferencia en esos términos se base en uno o más de los siguientes motivos: origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud, jurídica, el embarazo, la lengua o el idioma, las creencias religiosas o espirituales, la apariencia o condición física, las características genéticas, la situación migratoria, las opiniones, la identidad de género, la orientación sexual, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, profesión o actividad laboral, los antecedentes penales o cualquier otro motivo análogo.
+
+También se entenderá como discriminación la homofobia, misoginia, cualquier manifestación de xenofobia, segregación racial, antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia;
 
 IV. Empoderamiento: Es el proceso por medio del cual una persona logra conducirse con autonomía y autoindependencia, ejerciendo plenamente sus derechos y toma de decisiones libremente, sin coacciones ni imposiciones de ningún tipo;
 
@@ -108,6 +116,10 @@ VI. Estereotipo: Es una representación social compartida por un grupo, comunida
 VII. Género: Conjunto de ideas, creencias y atribuciones sociales, construidas en cada cultura y momento histórico, tomando como base la diferencia sexual, determinando así el comportamiento, funciones, oportunidades, valoración y relaciones entre mujeres y hombres;
 
 VIII. Igualdad: Capacidad de toda persona de tener y disfrutar de los mismos derechos, oportunidades y obligaciones que otra, eliminando todo tipo de discriminación;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+VIII Bis. Igualdad salarial: Remuneración igual por un trabajo de igual valor, sin distinguir el sexo, el género, la identidad de género, el origen étnico, la orientación sexual, la edad, las discapacidades, la condición social, económica, de salud o jurídica, entre otras;
 
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
 
@@ -239,6 +251,10 @@ Serán objetivos de la Política Estatal de Igualdad en materia económica:
 
 I. Promover y vigilar el otorgamiento de salarios iguales a mujeres y hombres por trabajos iguales en condiciones iguales, dentro de la Administración Pública Estatal y Municipal, Poderes Legislativo y Judicial, en los órganos autónomos, así como en los ámbitos social y privado;
 
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+I. Bis. El fomento, formulación y promoción de medidas tendientes a erradicar en todos los ámbitos de la vida profesional y laboral la brecha salarial de género;
+
 II. Determinar las acciones necesarias para el acceso igualitario de mujeres y hombres a los procesos productivos;
 
 III. Establecer fondos para la promoción de la igualdad en el trabajo;
@@ -297,13 +313,17 @@ X. Diseñar políticas y programas de desarrollo y de reducción de la pobreza c
 
 XI. Diseñar políticas y programas de desarrollo empresarial, industrial y comercial en favor del empoderamiento igualitario entre mujeres y hombres;
 
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-XII. Promover condiciones de trabajo que eviten el acoso sexual y su prevención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación, e
+XII. Promover condiciones de trabajo que eviten el acoso sexual y su prevención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-XIII. Impulsar la participación activa de las mujeres en el desarrollo económico del Estado.
+XIII. Impulsar la participación activa de las mujeres en el desarrollo económico del Estado, y
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XIV. Diseñar, implementar, ejecutar y evaluar políticas públicas y medidas para fortalecer el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres, que busque eliminar la brecha de género, en especial la salarial en los sectores público, privado y social.
 
 ### CAPÍTULO V. DE LA IGUALDAD POLÍTICA ENTRE MUJERES Y HOMBRES
 
@@ -1240,3 +1260,11 @@ Las sesiones, acuerdos, informes y demás actuaciones del Sistema Estatal de Pre
 NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto se cubrirán con cargo al presupuesto autorizado en el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales durante el ejercicio fiscal 2024.
 
 DÉCIMO. Se derogan todas las disposiciones legales, de igual o menor jerarquía, que se opongan al contenido del presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 184 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE QUINTANA ROO, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO, DE LA LEY DE SEGURIDAD CIUDADANA DEL ESTADO DE QUINTANA ROO, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, DE LA LEY DE LA JUVENTUD DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, DE LA LEY DE PREVENCIÓN, ATENCIÓN INTEGRAL Y CONTROL PARA EL VIH DEL ESTADO DE QUINTANA ROO, DE LA LEY DE SEGURIDAD ESCOLAR INTEGRAL DEL ESTADO DE QUINTANA ROO, DE LA LEY DE VÍCTIMAS DEL ESTADO DE QUINTANA ROO Y DE LA LEY EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones legales, de igual o menor jerarquía, que se opongan al contenido del presente Decreto.
