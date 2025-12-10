@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-la-fiscalia-general-del-estado-de-tabasco-10506
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-13"
-last_updated: "2018-11-07"
+last_updated: "2025-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105066&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Suplemento E del Periódico Oficial del Estado de Tabasco, el sábado 13 de diciembre de 2014.
 
@@ -87,11 +89,13 @@ XI. Reglamento Interior: el Reglamento Interior de la Fiscalía General;
 
 XII. Servicio Profesional de Carrera: El Servicio Profesional de Carrera de la Fiscalía General del Estado de Tabasco.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 3.
 
 Principios
 
-Los principios por los cuales se rige la actuación de la Fiscalía General son los de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, responsabilidad y respeto a los derechos humanos, establecidos en el orden constitucional y en los tratados internacionales de los que México forma parte.
+Los principios por los cuales se rige la actuación de la Fiscalía General son los de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, perspectiva de género, responsabilidad y respeto a los derechos humanos, establecidos en el orden constitucional y en los tratados internacionales de los que México forma parte, reforzando su actuación cuando se trate de mujeres, niñas, niños y adolescentes.
 
 ### CAPÍTULO II. DE LAS FACULTADES DEL MINISTERIO PÚBLICO
 
@@ -436,6 +440,54 @@ XI. Ingresar a cualquiera de los lugares de privación de libertad en donde se p
 XII. Proponer políticas para la prevención de las conductas previstas en la Ley General de la materia; y
 
 XIII. Las demás que dispongan la Ley General de la materia, esta Ley y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+###### ARTÍCULO 13-F.
+
+De la Fiscalía Especializada de Violencias de Género Contra las Mujeres.
+
+La Fiscalía Especializada de Violencias de Género Contra las Mujeres tiene como objetivo, investigar y perseguir las conductas que constituyan actos de violencia contra las mujeres en cualquiera de sus modalidades, acorde a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y a la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia, el Código Penal para el Estado de Tabasco y las demás disposiciones aplicables.
+
+De igual forma brindará información y atención integral a las mujeres y sus hijas e hijos víctimas de estos delitos de violencias, realizando e integrando las carpetas de investigación con perspectiva de género, buscando que se emitan con urgencia las medidas de protección y de atención médica necesarias, de conformidad con las disposiciones aplicables; actuando en todo caso, con la debida diligencia.
+
+Para efectos del párrafo anterior, deberá entenderse por debida diligencia el principio que obliga a las personas servidoras públicas a actuar con calidad jurídica en la integración, agotando los actos de investigación que sean necesarios, para llegar a una sentencia condenatoria, que alcance firmeza en todas las instancias.
+
+Asimismo, promoverá la cultura de respeto a los derechos humanos de las mujeres.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+###### ARTÍCULO 13-G.
+
+De las atribuciones de la Fiscalía Especializada de Violencias de Género Contra las Mujeres.
+
+Serán atribuciones de la Fiscalía Especializada de Violencias de Género Contra las Mujeres, las siguientes:
+
+I. Investigar y perseguir los delitos de violencias de género contra las mujeres, en cualquiera de las modalidades que se señalan tanto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, como en la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia, el Código Penal para el Estado de Tabasco y en las demás disposiciones aplicables, relativos a hechos de violencia contra las mujeres por su condición de género;
+
+II. Emitir las medidas u órdenes de protección necesarias para las víctimas;
+
+III. Brindar a las víctimas acompañamiento jurídico y asistencia psicológica en las entrevistas o solicitarlo en su caso a las autoridades competentes;
+
+IV. Requerir la participación de las autoridades en materia de atención a Víctimas, en términos de las disposiciones aplicables;
+
+V. Requerir a las instancias del sector público competentes, y del sector privado la valoración médica y psicológica, conforme a las disposiciones aplicables;
+
+VI. Elaborar, vigilar y ejecutar los Protocolos de atención por la violencia contra las mujeres, así como supervisar que los protocolos de actuación e investigación se realicen con perspectiva de género;
+
+VII. Diseñar y establecer los mecanismos de supervisión para eliminar prácticas discriminatorias durante la investigación, en perjuicio de las víctimas de violencia de género, feminicidio y sus familias;
+
+VIII. Promover el proceso permanente de formación, desde la perspectiva de género, con la finalidad de incorporar a la administración y gestión pública los avances y nuevas concepciones en materia de igualdad, equidad y derechos humanos, dando prioridad a los temas relacionados con la mujer por considerarse un grupo vulnerable de la población;
+
+IX. Instar el procesamiento y sanción de los agresores;
+
+X. Solicitar la atención terapéutica para los agresores;
+
+XI. Diseñar e implementar estrategias y líneas de acción para combatir los hechos que la ley considera como delitos de violencias de género;
+
+XII. Implementar planes y programas destinados a detectar la comisión de los hechos que la ley considera como delitos de violencias de género y coadyuvar en el ámbito de su competencia, con la Fiscalía contra la Trata de Personas; y
+
+XIII. Las demás que disponga el Fiscal General, la presente Ley, el Reglamento y otros ordenamientos relativos a la materia.
 
 ###### ARTÍCULO 14.
 
@@ -1010,3 +1062,13 @@ P.O. 7 DE NOVIEMBRE DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 185 POR EL QUE "SE REFORMA EL ARTÍCULO 3 Y SE ADICIONAN LOS ARTÍCULOS 13-F Y 13-G A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE TABASCO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. El presente Decreto entrará en vigor el 1 de enero de 2026, debiendo el Titular de la Fiscalía General del Estado, realizar previamente las adecuaciones reglamentarias, administrativas y presupuestales, para la puesta en marcha de la Fiscalía Especializada de Violencias de Género Contra las Mujeres.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
