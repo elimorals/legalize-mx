@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-obra-publica-del-estado-de-chiapas-95643"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-31"
-last_updated: "2025-08-27"
+last_updated: "2025-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE OBRA PÚBLICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 31 de julio de 2013.
 
@@ -133,7 +133,9 @@ XIV.- Ley.- A la Ley de Obra Pública del Estado de Chiapas.
 
 Para los efectos de esta Ley se considera obra pública:
 
-I.- La creación, construcción, reconstrucción, remodelación, restauración, adecuación, ampliación, reparación, demolición, adecuación, conservación, instalación, modificación y mantenimiento de los bienes inmuebles por su naturaleza o por disposición de la Ley, del Estado o del Municipio que se destinen a un servicio público, o que estos realicen para dar cumplimiento a sus funciones públicas conforme a la Ley y en cuya ejecución se invierta el gasto público estatal o municipal;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+I.- La creación, construcción, reconstrucción, remodelación, restauración, adecuación, ampliación, reparación, demolición, conservación, instalación, modificación y mantenimiento de bienes inmuebles del Estado o del Municipio que se destinen a un servicio público, o que estos realicen para dar cumplimiento a sus funciones públicas conforme a la Ley y en cuya ejecución se invierta el gasto público estatal o municipal;
 
 II.- El mantenimiento y la restauración de bienes muebles incorporados o adheridos a un inmueble, cuando implique modificación al propio inmueble;
 
@@ -317,9 +319,11 @@ La Secretaría Anticorrupción y Buen Gobierno y el Síndico Municipal, en el á
 
 Los municipios podrán convenir entre sí o con la Secretaría Anticorrupción y Buen Gobierno, la utilización de un mismo registro de contratistas. La Secretaría Anticorrupción y Buen Gobierno y los Municipios, intercambiarán información periódicamente del estado que guarden sus registros, la relación de contratistas con inscripción vigente y los demás datos de identificación de los mismos; semestralmente se darán a conocer el contenido de sus registros, indicando los datos de identificación de los contratistas inscritos, a través de su publicación en el Periódico Oficial o por los medios de comunicación electrónica.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 25.
 
-Para obtener la inscripción en el registro de contratistas, los interesados deberán acreditar su existencia legal y personalidad jurídica, así como su capacidad financiera para responder de las obligaciones contractuales, su especialidad técnica en la materia de la obra pública de que se trate, por si o a través de los representantes técnicos que designe, y estar en cumplimiento de sus obligaciones fiscales; para lo cual presentarán los siguientes documentos:
+Para obtener la inscripción en el registro de contratistas, los interesados deberán acreditar su existencia legal y personalidad jurídica, así como su capacidad financiera para responder de las obligaciones contractuales, su especialidad técnica en la materia de la obra pública de que se trate, por si, a través de los representantes técnicos que designe o a través de las personas morales que sean accionistas o formen parte del grupo corporativo de los interesados, y estar en cumplimiento de sus obligaciones fiscales; para lo cual presentarán los siguientes documentos:
 
 I.- Clave Única de Registro de Población y Credencial de Identificación Oficial con Fotografía, en el caso de personas físicas; instrumento público que contenga el acta constitutiva y sus modificaciones, en el caso de personas morales;
 
@@ -351,7 +355,9 @@ IX.- Cuando la especialidad o especialidades lo pretenda acreditar el propio con
 
 a).- Curriculum vitae del solicitante, incluyendo relación de obras o contratos de obra pública en que ha intervenido, respecto a la especialidad o especialidades que pretenda acreditar, y
 
-b).- Contratos de obras ejecutadas en los tres últimos años a la solicitud de inscripción, que haya celebrado el contratista en la especialidad o especialidades que requiera acreditar, anexando acta de entrega-recepción y el finiquito de obligaciones relativos a dichos contratos o, en su caso, señalando el estado que guardan los trabajos, de encontrarse vigente su ejecución.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+b).- Contratos de obras ejecutadas en los tres últimos años a la solicitud de inscripción, que haya celebrado el contratista, así como las personas morales que sean accionistas o formen parte del grupo corporativo, en la especialidad o especialidades que requiera acreditar, anexando la documentación correspondiente.
 
 Todos los documentos señalados en las fracciones de la I a la VI y VIII inciso a) y c), deberán ser presentados en original o en documentos certificados legalmente, para que se realice su cotejo, conforme al procedimiento que indique la instancia encargada del registro de contratistas, quien estará facultada también, para realizar las investigaciones o actuaciones que procedan para verificar la autenticidad de los documentos que le son presentados y la veracidad de la información proporcionada, así como para resolver cualquier caso específico que se presente al respecto, con el fin de tener por acreditados los requisitos aquí solicitados; los documentos restantes relacionados en este artículo, deberán ser presentados con la firma autógrafa de quien debe expedirlos o suscribirlos.
 
@@ -471,11 +477,11 @@ El contratista a quien le haya sido cancelada su inscripción en el registro, po
 
 ### Capítulo IV. Del Registro de Supervisores Externos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 35.
 
-Para ser supervisor de obra pública, el interesado deberá estar inscrito en el registro de supervisores, situación que se acreditará con la constancia que emita la Secretaría Anticorrupción y Buen Gobierno, en el ámbito de sus respectivas competencias, quien estará a cargo del registro de supervisores del Estado.
+Para ser Supervisor de Obra Pública, salvo por lo establecido en el presente artículo, el interesado deberá estar inscrito en el registro de supervisores, situación que se acreditará con la constancia que emita la Secretaría Anticorrupción y Buen Gobierno, en el ámbito de sus respectivas competencias, quien estará a cargo del registro de supervisores del Estado.
 
 Para obtener la inscripción en el registro de supervisores, los interesados deberán acreditar su existencia legal y personalidad jurídica y su especialidad técnica en la materia de la obra pública de que se trate, para lo cual presentarán los siguientes documentos:
 
@@ -502,6 +508,10 @@ La Secretaría Anticorrupción y Buen Gobierno, negará la inscripción en el re
 La constancia de inscripción en el registro de supervisores respectivos, deberá otorgarse o negarse en un plazo no mayor de 30 días naturales siguientes a que se reciba la solicitud respectiva.
 
 La constancia de registro de supervisores, tendrá la vigencia de un año y podrá ser cancelada mediante el procedimiento de cancelación del registro, que se sujetará a lo establecido en los artículos 30, 31, 32, 33 y 34 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Sin perjuicio de lo establecido en el presente artículo, para los casos de contratos de obra pública en la modalidad de pagos a plazos preestablecidos, el Supervisor Externo podrá ser contratado por el contratista a quien se haya adjudicado el contrato de obra pública respectivo, en beneficio de la Secretaría o el Municipio que corresponda, con la autorización de la Secretaría de Finanzas, pero a costa de dicho contratista. Para tales casos, no será aplicable la inscripción de dichos Supervisores Externos en el registro de supervisores.
 
 ## Título Segundo. De la Obra Pública por Administración Directa
 
@@ -579,7 +589,9 @@ Las personas físicas o morales que contraten obra pública, deberán garantizar
 
 I.- La correcta aplicación de los anticipos que reciban, cuando estos procedan; esta garantía se otorgara mediante fianza que deberá constituirse por la totalidad del monto del anticipo, siempre permanecerá vigente, hasta cuando se haya amortizado o devuelto totalmente el anticipo otorgado y, en su caso, los intereses que procedan conforme a lo estipulado en artículo 85 fracción VIII de la Ley y solo podrá ser cancelada, mediando la manifestación expresa y por escrito del beneficiario de la misma;
 
-II.- El cumplimiento de los contratos mediante fianza con un importe mínimo del diez por ciento del monto total contratado. Cuando la obra se realice en más de un ejercicio deberán garantizar el monto ejercido durante el primer ejercicio por medio de una fianza con importe del diez por ciento de este e incrementarse en un diez por ciento del monto de la inversión autorizada para el ejercicio siguiente y así sucesivamente hasta completar el diez por ciento del importe total de la obra; esta garantía persistirá por un año más a partir de la fecha en que se realice la entrega - recepción de los trabajos, para garantizar la calidad de la obra ejecutada y el cumplimiento de cualquier otra responsabilidad en que hubiere incurrido el contratista y quedará constituida por el diez por ciento del monto contractual ejercido. Además cuando se trate de obras que de sufrir algún vicio oculto, puedan dejar de operar en su totalidad o bien poner en riesgo los servicios públicos o la vida de sus ocupantes, el importe garantizado de la fianza será de hasta un treinta por ciento del monto ejercido en la obra respectiva, lo anteriormente señalado deberá de establecerse en las bases de la licitación.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+II.- El cumplimiento de los contratos mediante fianza con un importe mínimo del diez por ciento del monto total contratado. Cuando la obra se realice en más de un ejercicio deberán garantizar el monto ejercido durante el primer ejercicio por medio de una fianza con importe del diez por ciento de este e incrementarse en un diez por ciento del monto de la inversión autorizada para el ejercicio siguiente y así sucesivamente hasta completar el diez por ciento del importe total de la obra; esta garantía persistirá por un año más a partir de la fecha en que se realice la entrega-recepción de los trabajos, para garantizar la calidad de la obra ejecutada y el cumplimiento de cualquier otra responsabilidad en que hubiere incurrido el contratista y quedará constituida por el diez por ciento del monto contractual ejercido. Además, cuando se trate de obras que, de sufrir algún vicio oculto, puedan dejar de operar en su totalidad o bien poner en riesgo los servicios públicos o la vida de sus ocupantes, el importe garantizado de la fianza será de hasta un treinta por ciento del monto ejercido en la obra respectiva, lo anteriormente señalado deberá de establecerse en las bases de la licitación. Asimismo, para los casos en que exista más de un contratista en un mismo contrato de obra pública, cada contratista podrá garantizar su parte proporcional del monto total contratado, conforme al valor de los trabajos, actividades y responsabilidades asignadas a cada uno de ellos.
 
 La citada fianza se cancelará automáticamente una vez transcurrida su vigencia, siempre y cuando en este plazo no haya habido reclamación alguna por escrito de la Secretaría o el Municipio ejecutor.
 
@@ -901,11 +913,17 @@ Dos o más personas podrán presentar conjuntamente una propuesta en las licitac
 
 El contrato para la presentación de propuesta conjunta antes referido, deberá reunir, a juicio de la convocante, los requisitos legales que garanticen por parte de las personas que lo suscriban, el cumplimiento de las obligaciones que se deriven del procedimiento licitatorio y, en su caso, del contrato de obra pública correspondiente.
 
-La capacidad financiera y especialidad, así como demás condiciones requeridas en las bases de licitación para considerar solvente la propuesta, podrán acreditarse de manera conjunta con respecto a cada una de las partes de la obra que les corresponda ejecutar, conforme al contrato que suscribirán en aplicación de esta disposición legal, siempre y cuando el coordinador y representante común, cuente con la experiencia técnica requerida o esta se acredite por cada una de los contratistas.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+La capacidad financiera y especialidad, así como demás condiciones requeridas en las bases de licitación para considerar solvente la propuesta, podrán acreditarse de manera conjunta con respecto a cada una de las partes de la obra que les corresponda ejecutar, conforme al contrato que suscribirán en aplicación de esta disposición legal, siempre y cuando el coordinador y representante común, cuente con la experiencia técnica requerida o esta se acredite por cada uno de los contratistas. Asimismo, para los casos de personas morales de propósito específico constituidas con el fin de formalizar el contrato de obra pública respectivo, la capacidad financiera, especialidad y demás condiciones requeridas en las bases de licitación, podrán acreditarse considerando, conjunta o separadamente, a las personas morales que participen como accionistas en dicha persona moral de propósito específico.
 
 El contrato regulado por esta disposición legal, deberá presentarse como documento integrante de la propuesta correspondiente, y será motivo de desechamiento de esta, el que dicho contrato no reúna los requisitos previstos en este artículo.
 
 En el contrato de obra pública que se suscriba con personas que se adhieran a esta disposición legal, la Secretaría o los Municipios podrán convenir la forma y términos en que se pagaran los trabajos ejecutados, para no transgredir las disposiciones fiscales aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Sin perjuicio de lo anterior, para los contratos de obra pública, una vez que se adjudique el contrato de obra pública, la o las personas en quienes recaiga tal adjudicación podrán constituir una persona moral de propósito específico para formalizar dicho contrato. En las bases o condiciones de contratación, en el caso de adjudicación directa, se precisarán, en su caso, los requisitos correspondientes.
 
 ###### Artículo 64.
 
@@ -1229,9 +1247,11 @@ Para la designación de los supervisores externos, los colegios de profesionista
 
 ### Capítulo IV. De los Contratos de Obra Pública
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 78.
 
-La adjudicación del contrato obligará a la Secretaría o el Municipio y a la persona en quien hubiere recaído esta, a formalizar el contrato dentro de los veinte días naturales siguientes al fallo de adjudicación.
+La adjudicación del contrato obligará a la Secretaría o el Municipio y a la persona o personas en quien hubiere recaído esta y/o, en su caso, la persona moral constituida para tales efectos, según sea el caso, a formalizar el contrato dentro de los veinte días naturales siguientes al fallo de adjudicación.
 
 Si el interesado no firmare el contrato en el plazo indicado, por causas imputables a el mismo, dentro del plazo a que se refiere el artículo anterior, la Secretaría o el Municipio, sin necesidad de un nuevo procedimiento, podrá adjudicar el contrato al participante que haya presentado la siguiente proposición solvente más baja, de conformidad con lo asentado en el fallo de adjudicación respectivo, y así sucesivamente, en caso de que este último no acepte la adjudicación, siempre que la diferencia en precio con respecto a la postura que inicialmente hubiere resultado ganadora, no sea superior al diez por ciento.
 
@@ -1247,7 +1267,9 @@ La Secretaría o los Municipios podrán establecer tabuladores de precios unitar
 
 En los casos de adjudicación directa de contratos de obra pública, se podrá utilizar el procedimiento de cotización para determinar el costo de trabajos, sobre la base de precios unitarios analizados y presentados por el contratista, pero en todo caso, estos no podrán ser de un costo mayor a los establecidos en el tabulador previsto en el párrafo que antecede.
 
-II.- A precio alzado, en cuyo caso el importe de la remuneración o pago total fijo que deba cubrirse al contratista, será por la obra pública totalmente terminada y ejecutada en el plazo establecido y en su caso, se podrá realizar el pago de un anticipo en los términos de esta Ley y pagarse estimaciones porcentuales conforme al avance de la obra pública, que se otorgarán como pagos parciales a cuenta del precio alzado. Los contratos de este tipo no podrán ser modificados en monto o plazo, ni estarán sujetos a ajustes de costos, sin perjuicio de lo previsto en el antepenúltimo párrafo del artículo 91 de esta Ley.
+> <small>(REFORMADO [N. DE E. ESTE PARRAFO,], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+II.- A precio alzado, en cuyo caso el importe de la remuneración o pago total fijo que deba cubrirse al contratista, será por la obra pública totalmente terminada y ejecutada en el plazo establecido y en su caso, se podrá realizar el pago de un anticipo en los términos de esta Ley y pagarse estimaciones porcentuales conforme al avance de la obra pública, que se otorgarán como pagos parciales a cuenta del precio alzado. Los contratos de este tipo no estarán sujetos a ajustes de costos.
 
 Los contratos que contemplen proyectos integrales se celebraran a precio alzado.
 
@@ -1258,6 +1280,18 @@ En los casos de adjudicación directa de contratos de obra pública, se podrán 
 La Secretaría o el Municipio podrán incorporar las condiciones de contratación que tiendan a garantizar al Estado y al Municipio las mejores condiciones en la ejecución de la obra, siempre que con ello no se desvirtué el tipo de contrato con que se haya licitado o realizado la propuesta.
 
 Los trabajos cuya ejecución comprenda más de un ejercicio presupuestal deberán formularse en un solo contrato, por la vigencia que resulte necesaria para la ejecución de los trabajos, quedando únicamente sujetos a la autorización presupuestal para cada ejercicio.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Cualquier tipo de contrato de obra pública podrá celebrarse bajo la modalidad de pagos a plazos preestablecidos. En esta modalidad, los pagos se realizarán mediante amortizaciones periódicas programadas en más de un ejercicio fiscal, conforme a los términos y condiciones que establezcan los contratos respectivos, debiéndose emitir certificados de avance de obra con base en las estimaciones autorizadas.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Los certificados de avance de obra establecerán, entre otros aspectos, las fechas y montos de pago, incluyendo el costo por diferimiento aplicable. Asimismo, dichos certificados de avance podrán reconocer gastos de contratación, gastos financieros, entre otros, incluyendo la contratación de asesoría, consultoría y supervisión de obra, según se hayan pactado, ejecutado y estimado como trabajos y/o actividades bajo los términos del contrato de obra respectivo.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Los compromisos plurianuales derivados de los contratos de obra pública en la modalidad de pagos a plazos preestablecidos tendrán preferencia respecto a otras previsiones de gasto, debiéndose incluir en los presupuestos de egresos de los ejercicios subsecuentes hasta la liquidación total de los contratos respectivos.
 
 ###### Artículo 80.
 
@@ -1313,13 +1347,17 @@ I.- El contenido del contrato en que se haga constar la orden de trabajo respect
 
 II.- La contratación de las ordenes de trabajo, se realizara bajo el procedimiento de adjudicación directa y cuando se trate del supuesto correspondiente al monto previsto en el primer párrafo de este artículo. El Comité de Obra Pública respectivo podrá autorizar a un servidor público para que realice la adjudicación, quien estará obligado a informar al comité respectivo, dentro de los cinco días hábiles siguientes al término de cada mes, de las órdenes de trabajo aprobadas en el mes inmediato anterior.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 83.
 
-El contratista a quien se adjudique el contrato, no podrá hacer ejecutar la obra por otro, pero con autorización previa del titular de que se trate, podrá hacerla respecto de partes de la obra o cuando adquiera materiales o equipos que incluyan su instalación en la obra. Esta autorización, no se requerirá cuando se señale específicamente en las bases de la licitación, las partes de la obra que podrán ser objeto de subcontratación. En todo caso, el contratista seguirá siendo el único responsable de la ejecución de la obra ante la Secretaría o el Municipio de que se trate.
+El contratista a quien se adjudique el contrato, o bien, la persona moral de propósito específico constituida para efectos de su suscripción, no podrá hacer ejecutar la obra por otro, pero con autorización previa del titular de que se trate, podrá hacerla respecto de partes de la obra o cuando adquiera materiales o equipos que incluyan su instalación en la obra. Esta autorización, no se requerirá cuando se señale específicamente en las bases de la licitación y/o en el contrato de obra respectivo, las partes de la obra que podrán ser objeto de subcontratación. En todo caso, el contratista seguirá siendo el único responsable de la ejecución de la obra ante la Secretaría o el Municipio de que se trate.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 84.
 
-Los derechos y obligaciones que se deriven de los contratos de obra pública, no podrán cederse en forma parcial o total a favor de cualquier otra persona física o moral, con excepción de los derechos de cobro sobre las estimaciones por trabajos ejecutados, en cuyo supuesto se deberá contar con la conformidad previa de la Secretaría o el Municipio de que se trate.
+Los derechos y obligaciones que se deriven de los contratos de obra pública, no podrán cederse en forma parcial o total a favor de cualquier otra persona física o moral, con excepción de los derechos de cobro, en cuyo supuesto se deberá contar con la conformidad previa de la Secretaría o el Municipio de que se trate.
 
 ###### Artículo 85.
 
@@ -1395,9 +1433,11 @@ El diferimiento se autorizara por oficio y previa solicitud del contratista en q
 
 En caso de diferimiento, el contratista deberá presentar un nuevo programa de obra debidamente firmado, considerando el plazo de ejecución originalmente pactado, a partir de la nueva fecha prevista para el inicio de la ejecución de los trabajos; mismo diferimiento que será autorizado por el responsable de la ejecución de los trabajos de la Secretaría o el Municipio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 91.
 
-La Secretaría o los Municipios podrán, dentro del programa de inversiones aprobado, bajo su responsabilidad y por razones fundadas y justificadas, conforme al dictamen técnico que emita el área responsable de ejecución de los trabajos; modificar los contratos de obra pública sobre la base de precios unitarios y mixtos en la parte similar, mediante convenios, siempre y cuando estos, considerados conjunta o separadamente, no rebasen el veinticinco por ciento del monto o del plazo pactado en el contrato, ni impliquen variaciones sustanciales al proyecto original, ni se celebren para eludir en cualquier forma el cumplimiento de la Ley.
+La Secretaría o los Municipios podrán, dentro del programa de inversiones aprobado, bajo su responsabilidad y por razones fundadas y justificadas, conforme al dictamen técnico que emita el área responsable de ejecución de los trabajos; modificar los contratos de obra pública, mediante convenios, siempre y cuando estos, considerados conjunta o separadamente, no rebasen el veinticinco por ciento del monto o del plazo pactado en el contrato, ni impliquen variaciones sustanciales al proyecto original, ni se celebren para eludir en cualquier forma el cumplimiento de la Ley.
 
 Si las modificaciones exceden el porcentaje indicado o varían sustancialmente el proyecto, se podrán celebrar convenios adicionales entre las partes, respecto de las nuevas condiciones. Estos convenios además del dictamen técnico que emita el área responsable de los trabajos, deberán ser autorizados por el titular de la Secretaría o el Municipio, informándose al órgano de control respectivo. Dichas modificaciones no podrán en modo alguno, afectar las condiciones que se refieren a la naturaleza y características esenciales de la obra objeto del contrato original, ni convenirse para eludir en cualquier forma el cumplimiento de la Ley.
 
@@ -1407,7 +1447,9 @@ La Secretaría o los Municipios se abstendrán de modificar los contratos de obr
 
 No serán aplicables los límites previstos en este precepto para las obras a que se refiere el artículo 75 fracción III de esta Ley.
 
-Cuando durante la ejecución de los trabajos se requiera la realización de cantidades adicionales o conceptos fuera de catálogo originalmente pactados, las Secretarías, o los Municipios podrán autorizar el pago de las estimaciones de los trabajos ejecutados, previamente a la celebración de los convenios respectivos, vigilando que los incrementos no rebasen el presupuesto autorizado en el contrato. Tratándose de cantidades adicionales estas se pagaran a los precios unitarios pactados originalmente; tratándose de conceptos no previstos en el catálogo de conceptos del contrato, sus precios unitarios deberán ser conciliados y autorizados por escrito, previamente a su pago.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Cuando durante la ejecución de los trabajos se requiera la realización de cantidades adicionales o conceptos fuera de catálogo originalmente pactados, las Secretarías, o los Municipios podrán autorizar el pago de las estimaciones y/o certificados de avance, en su caso, de los trabajos ejecutados, previamente a la celebración de los convenios respectivos, vigilando que los incrementos no rebasen el presupuesto autorizado en el contrato. Tratándose de cantidades adicionales estas se pagarán a los precios unitarios pactados originalmente, en su caso; tratándose de conceptos no previstos en el catálogo de conceptos del contrato, sus precios unitarios deberán ser conciliados y autorizados por escrito, previamente a su pago.
 
 Cuando la modificación implique aumento o reducción por una diferencia superior al veinticinco por ciento del importe del contrato o del plazo de ejecución, la Secretaría junto con el contratista, podrá revisar los indirectos y el financiamiento originalmente pactados, y determinar la procedencia de ajustarlos a las nuevas condiciones.
 
@@ -1452,6 +1494,18 @@ Las estimaciones por trabajos ejecutados deberán ser revisadas y autorizados po
 El pago de cada una de las estimaciones por trabajos son independientes entre sí y, por lo tanto, cualquier tipo y secuencia será solo para efecto de control administrativo.
 
 La Secretaría o el Municipio, una vez presentada la estimación para su revisión y autorización por el servidor público responsable, siempre que esté acompañada de la totalidad de los documentos previstos en esta disposición legal; podrá autorizar el pago de hasta un setenta por ciento del importe de la estimación respectiva, previamente a la autorización de la misma, el importe restante será cubierto en los términos y por el saldo que resulte de la autorización correspondiente.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+En el caso de los contratos de obra con pagos a plazos preestablecidos, la convocante podrá emitir certificados de avance de obra con base en las estimaciones de obra aprobadas, los cuales serán pagaderos en los términos establecidos en los mismos y en el contrato de obra correspondiente y constituirán obligaciones incondicionales e irrevocables de pago, siendo exigibles aún en los supuestos de suspensión de los trabajos, terminación anticipada total o parcial o rescisión previstos en esta Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Los certificados de avance de obra establecerán, entre otros aspectos, las fechas y montos de pago, incluyendo el costo por diferimiento aplicable. Asimismo, dichos certificados de avance podrán reconocer gastos de contratación, gastos financieros, entre otros, incluyendo la contratación de asesoría, consultoría y supervisión de obra, según se hayan pactado, ejecutado y estimado como trabajos y/o actividades bajo los términos del contrato de obra respectivo.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Los certificados de avance derivados de estimaciones por actividades y/o trabajos ejecutados, no estarán sujetos a deducciones, ajustes, descuentos, compensaciones, retenciones o penas convencionales de ningún tipo y se cubrirán en las fechas y por los montos que en ellos se establezcan, conforme a los términos pactados en el contrato respectivo.
 
 ###### Artículo 93.
 
@@ -1539,7 +1593,9 @@ III.- Descripción de los trabajos respecto a los cuales el contrato se termina 
 
 IV.- Importe contractual;
 
-V.- Relación de las estimaciones o de gastos aprobados hasta antes de que se hubiera definido la terminación anticipada;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+V.- Relación de las estimaciones, certificados de avance de obra o de gastos aprobados hasta antes de que se hubiera definido la terminación anticipada;
 
 VI.- Descripción pormenorizada del estado que guardan los trabajos que corresponde a la totalidad o parte del contrato que se termina anticipadamente;
 
@@ -1585,7 +1641,9 @@ a). Se iniciara a partir de que al contratista le sea comunicado por escrito el 
 
 6) Descripción breve de los motivos que dieron origen al procedimiento de rescisión, así como de las estipulaciones en las que el contratista incurrió en incumplimiento del contrato;
 
-7) Relación de las estimaciones o de gastos aprobados con anterioridad al inicio del procedimiento de rescisión, así como de aquellas pendientes de autorización;
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+7) Relación de las estimaciones, de los certificados de avance de obra, o de gastos aprobados con anterioridad al inicio del procedimiento de rescisión, así como de aquellas pendientes de autorización;
 
 8) Descripción pormenorizada del estado que guardan los trabajos, cuantificándose la obra ejecutada y la que dejo de ejecutar el contratista, conforme al contrato objeto de la rescisión. Así como relación de los materiales, maquinaria, equipo o herramienta que se encuentra en el lugar de la ejecución de los trabajos;
 
@@ -1673,11 +1731,11 @@ V. Recibida la respuesta por parte del Colegio de profesionistas, la Secretaría
 
 La Secretaría Anticorrupción y Buen Gobierno, podrá en todos los casos, designar de manera directa a quien realizará la supervisión externa, cuando cumplido lo establecido en la fracción IV de este artículo, los colegios de profesionistas relacionados con la infraestructura no designe a ningún agremiado o bien, cuando se designe a una persona que, desde la opinión de esta, no cumpla o no tenga la capacidad para realizar los trabajos de supervisión externa que se requieran o cuando no exista persona física o moral agremiada a los Colegios de Ingenieros que pueda realizar los mismos, lo cual hará de manera discrecional.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 106.
 
-Los contratos en materia de supervisión externa, se entenderán celebrados entre la Secretaría y los supervisores externos, debiendo sujetarse los mismos, a los lineamientos que para tal efecto emita la Secretaría Anticorrupción y Buen Gobierno.
+Salvo por lo establecido en el artículo 35 de la presente Ley, los contratos en materia de supervisión externa, se entenderán celebrados entre la Secretaría y los supervisores externos, debiendo sujetarse los mismos, a los lineamientos que para tal efecto emita la Secretaría Anticorrupción y Buen Gobierno.
 
 Los Colegios de Profesionistas relacionados con la Infraestructura del Estado al que pertenezca quien resulte designado como supervisor externo, participara en la celebración de dichos contratos como testigo de asistencia.
 
@@ -1906,3 +1964,17 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
 
 Artículo Tercero.- Las Dependencias y Entidades del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones necesarias para el cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables.
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 040 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO FISCAL DEL ESTADO DE CHIAPAS Y LA LEY DE OBRA PÚBLICA DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Las Dependencias de la Administración Pública del Estado de Chiapas, deberán realizar las adecuaciones que consideren pertinentes a la normatividad en la materia, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto.
+
+En tanto se realizan las adecuaciones referidas en el párrafo que antecede, continuarán aplicándose las disposiciones emitidas previo a la entrada en vigor del presente Decreto.
+
+Artículo Cuarto.- Las obras públicas que, previo a la entrada en vigor del presente Decreto, hayan iniciado el procedimiento de contratación, o bien, hayan sido adjudicadas o contratadas, se seguirán ejecutando conforme a las disposiciones de la ley vigente al momento de iniciar el procedimiento de contratación y/o adjudicación.
