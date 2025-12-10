@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2025-04-01"
+last_updated: "2025-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -117,11 +117,13 @@ La Ley dictada para regir por tiempo determinado o en una situación excepcional
 
 ### CAPITULO III. APLICACION DE LA LEY EN RELACION DE LAS PERSONAS
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 9°.
 
-Las disposiciones de este Código se aplicarán por igual a todas las personas.
+Las disposiciones de este Código se aplicarán por igual a todas las personas, garantizando el derecho a la igualdad y la no discriminación.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
 Las personas físicas menores de dieciocho años de edad involucradas en la comisión de un hecho típico, responderán conforme a la legislación aplicable.
 
@@ -353,9 +355,7 @@ VI. Fraude, previsto por los artículos 152, 153 y 154;
 
 VII. Administración fraudulenta, previsto por el artículo 155;
 
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2023)</small>
-
-VIII. Extorsión, previsto por el artículo 124 TER.
+VIII. (DEROGADA, P.O. 10 DE DICIEMBRE DE 2025)
 
 IX. Usura, previsto por el artículo 157;
 
@@ -653,6 +653,10 @@ Cuando no sea posible o conveniente la sustitución de la multa por prestación 
 
 La reparación de daños y perjuicios, que deba ser hecha por el delincuente, tiene el carácter de pena pública y se exigirá de oficio por el Ministerio Público, con el que podrán coadyuvar la víctima o el ofendido, sus derechohabientes o sus representantes en los términos que prevenga el Código de Procedimientos Penales.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+La reparación del daño deberá ser adecuada, eficaz, efectiva y proporcional a la gravedad del daño causado y a la afectación sufrida, considerando las características particulares del daño en cada caso, y deberá garantizar la restitución, compensación, rehabilitación, satisfacción y garantías de no repetición, en términos de los estándares nacionales e internacionales en materia de derechos humanos.
+
 Cuando dicha reparación deba exigirse a terceros, tendrá el carácter de responsabilidad civil y se tramitará en forma de incidentes, en los términos que fija el propio Código de Procedimientos Penales.
 
 ###### ARTICULO 29.
@@ -787,11 +791,11 @@ Si el delito por el que se impone la publicación de sentencia fue cometido a tr
 
 ### CAPITULO XI. PROHIBICION DE IR A UNA CIRCUNSCRIPCION TERRITORIAL O DE RESIDIR EN ELLA
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 43.
 
-La persona juzgadora, tomando en cuenta las circunstancias del delito, y las propias de la persona imputada, podrá disponer que ésta, no vaya a una circunscripción territorial determinada, o que no resida en ella. Esta prohibición, no excedará de cinco años, salvo cuando se trate de personas sentenciadas por feminicidio, homicidio doloso, lesiones calificadas, extorsión, violencia familiar, violencia vicaria o violación, en cuyo caso, la persona juzgadora podrá ampliar la prohibición hasta diez años, a partir de la fecha en que se extinga la sanción principal privativa de libertad.
+La persona juzgadora, tomando en cuenta las circunstancias del delito, y las propias de la persona imputada, podrá disponer que ésta, no vaya a una circunscripción territorial determinada, o que no resida en ella. Esta prohibición, no excederá de cinco años, salvo cuando se trate de personas sentenciadas por feminicidio, homicidio doloso, lesiones calificadas, violencia familiar, violencia vicaria o violación, en cuyo caso, la persona juzgadora podrá ampliar la prohibición hasta diez años, a partir de la fecha en que se extinga la sanción principal privativa de libertad.
 
 ### CAPITULO XII. DECOMISO Y PERDIDA DE INSTRUMENTOS Y OBJETOS RELACIONADOS CON EL DELITO
 
@@ -1879,47 +1883,11 @@ Cuando el asalto se cometa por un grupo de tres o más personas contra un poblad
 
 ARTICULO 124 BIS.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2010)
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 5 DE OCTUBRE DE 2023)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ### CAPITULO VII. EXTORSION
 
-> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2023)</small>
-
-ARTICULO 124 TER. A quien, con ánimo de obtener para sí o para otro un lucro, beneficio, ventaja, o perjuicio en contra de tercero, por cualquier medio obligue a otra persona con intimidación, o coacción a dar, tolerar, realizar u omitir algo, así como a efectuar, tolerar, permitir u omitir un acto o negocio jurídico de cualquier especie, en su perjuicio o de un tercero, se le impondrá una sanción de quince a veinticinco años de prisión, y de mil a mil quinientos días multa.
-
-La pena prevista en el párrafo anterior se aumentará hasta en una mitad más, cuando se actualice cualquiera de las siguientes hipótesis:
-
-I. Intervengan dos o más personas;
-
-II. Se emplee violencia física;
-
-III. Se cometa en contra de una persona menor de edad, persona mayor de sesenta años de edad o persona con alguna discapacidad;
-
-IV. Cuando el sujeto activo del delito se encuentre privado de su libertad bajo cualquier circunstancia en un Centro de Reclusión Estatal o Federal a disposición de cualquier autoridad;
-
-V. Cuando el sujeto activo del delito se ostente como integrante de alguna institución policial o de seguridad pública o privada;
-
-VI. Cuando el sujeto activo del delito se ostente como servidor público, en cualquier ámbito de gobierno;
-
-VII. Cuando el sujeto activo del delito tenga alguna relación de confianza, laboral, parentesco o de negocios con la víctima o con sus familiares;
-
-VIII. Cuando el sujeto activo del delito se ostente, por cualquier medio, como integrante de una asociación delictuosa o grupo criminal, real o ficticio, o
-
-IX. Participen servidores públicos o trabajadores de instituciones privadas que tengan acceso a bancos de datos personales y que los utilicen o los sustraigan para sí o para terceros, con el objeto de cometer el delito de extorsión en cualquiera de sus modalidades.
-
-En caso de ser servidor público, se hará la destitución del empleo, cargo o comisión, así como la inhabilitación de diez a quince años para desempeñar cualquier cargo como servidor público.
-
-X. Cuando se logre que la víctima o un tercero realice la conducta exigida, o entregue alguna cantidad de dinero, o algún bien o servicio derivado de la exigencia del sujeto activo
-
-XI. Cuando el sujeto activo obtenga o manifieste su pretensión de obtener en forma continua o permanente, dinero o bienes por concepto de cobro de cuotas de cualquier índole;
-
-XII. Cuando el sujeto activo utilice armas o cualquier otro medio que aparente o sea peligroso, y
-
-XIII. La conducta se realice por cualquier medio documental, electrónico, telefónico, amenaza directa o intimidación hacia la persona, familia o bienes del sujeto pasivo, o se le requiera el pago de una deuda simulada o solicite de otro la suscripción o destrucción de documentos que contengan obligaciones o créditos.
-
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2024)</small>
-
-El delito previsto por este artículo en todo caso será perseguido de oficio.
+ARTÍCULO 124 TER. (DEROGADO, P.O. 10 DE DICIEMBRE DE 2025)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JUNIO DE 2024)</small>
 
@@ -2003,31 +1971,65 @@ ARTICULO 128 BIS.- Cuando la violación sea cometida aprovechando los medios o c
 
 ### CAPITULO II. ABUSOS SEXUALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 129.
 
-A quien sin el consentimiento de una persona y sin el propósito de llegar a la cópula ejecute en ella un acto sexual o lo obliguen a ejecutarlo, se le impondrá de ocho a doce años de prisión y hasta doscientos días multa.
+Comete el delito de abuso sexual quien, sin el consentimiento de la persona víctima y sin el propósito de llegar a la cópula, realice en el ámbito público o privado, cualquiera de las siguientes conductas:
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2021)</small>
+I. Ejecute sobre una persona cualquier acto de naturaleza erótica o sexual;
 
-Para efectos de este artículo se entiende por actos sexuales los tocamientos o manoseos corporales obscenos, o los que representen actos explícitamente sexuales u obliguen a la víctima a representarlos.
+II. Obligue a una persona a ejecutar actos eróticos o sexuales en sí misma, en el sujeto activo o en una tercera persona;
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2021)</small>
+III. Realice actos de naturaleza erótica o sexual en presencia de una persona sin su consentimiento, u
 
-También se considera abuso sexual cuando se obligue a la víctima a observar un acto sexual, o a exhibir su cuerpo sin su consentimiento.
+IV. Obligue a una persona a observar o participar en actos eróticos o sexuales.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+A quien cometa el delito de abuso sexual se le impondrá de ocho a doce años de prisión y multa de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
-Si se hiciera uso de violencia física, psicológica, o mediante la administración en contra de la voluntad de la víctima, de manera forzada u oculta, de estupefacientes, psicotrópicos, fármacos, drogas o cualquier sustancia natural o química que tenga como efecto modificar su comportamiento, alterar o anular su voluntad, la pena se aumentará en una mitad más en su mínimo y máximo.
+Para efectos de este artículo se entiende por actos eróticos o sexuales, los tocamientos, manoseos corporales, caricias, frotamientos o roces sobre partes íntimas, así como los actos que representen un contenido sexual explícito u obliguen a la persona víctima a representarlos, a exhibir su cuerpo o a presenciar actos sexuales en contra de su voluntad.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+Para los efectos del presente artículo no se considera consentimiento cuando la voluntad de la persona haya sido anulada o viciada por violencia, intimidación, engaño, amenaza, abuso de confianza, autoridad o situación de vulnerabilidad.
 
-A quien sin propósito de llegar a la cópula ejecute un acto sexual en una persona menor de dieciocho años de edad, o que no tenga la capacidad de comprender el hecho o que por cualquier causa no pueda resistirlo, o la obliguen a ejecutarlo en sí o en otra persona se le impondrá prisión de seis a trece años y hasta quinientos días multa. La pena se aumentará hasta en una mitad más cuando se empleare violencia o fuere cometido por alguna persona que tenga relación de parentesco por consanguinidad, afinidad o civil, con el ofendido en los casos que proceda; o cuando los actos sean cometidos aprovechando los medios o circunstancias que proporcionan el empleo, cargo o comisión que el agente ejerce para tal efecto; o mediante la administración en contra de la voluntad de la víctima, de manera forzada u oculta, de estupefacientes, psicotrópicos, fármacos, drogas o cualquier sustancia natural o química que tenga como efecto modificar su comportamiento, alterar o anular su voluntad.
+El consentimiento no podrá presumirse del silencio, la pasividad o la falta de resistencia física de la víctima.
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2021)</small>
+A quien cometa cualquiera de las conductas señaladas en las fracciones I, II, III y IV del presente artículo, en una persona menor de dieciocho años de edad, con discapacidad o que no tenga la capacidad de comprender el hecho o que por cualquier causa no pueda resistirlo, se le impondrá prisión de nueve a trece años y hasta quinientos días multa.
 
-Además de las penas señaladas, se le privará de los derechos derivados de la patria potestad, de la tutela o custodia, cuando así proceda, a quienes teniendo el ejercicio de éstos en relación con la víctima o el ofendido, corneta el delito a que se refiere el presente artículo. Cuando el agente activo sea servidor público, éste será privado o suspendido, además, del ejercicio del empleo, cargo o comisión por el término de la pena de prisión que se le imponga.
+Además de las penas señaladas en el párrafo inmediato anterior, se le privará de los derechos derivados de la patria potestad, de la tutela o custodia, cuando así proceda, a quienes, teniendo el ejercicio de éstos en relación con la persona víctima, cometa el delito a que se refiere el presente artículo.
+
+El delito de abuso sexual se perseguirá de oficio.
+
+Las penas previstas para el delito de abuso sexual, se aumentarán en una mitad en su mínimo o en su máximo, cuando:
+
+I. El delito se cometiera con uso de violencia física, psicológica, o mediante la administración y uso, en contra de la voluntad de la persona víctima, de manera forzada u oculta, de estupefacientes, psicotrópicos, fármacos, drogas o cualquier sustancia natural o química que tenga como efecto modificar su comportamiento, alterar o anular su voluntad;
+
+II. El delito sea cometido por dos o más personas en forma conjunta, simultánea o sucesiva, sobre la misma persona víctima;
+
+III. El sujeto activo tenga con la persona víctima relación de parentesco por consanguinidad, afinidad o civil hasta el cuarto grado, o sea su tutor, exista o haya existido entre ambos una relación de guarda, custodia, tutela, cuidado, dependencia económica, de confianza, sentimental, laboral, médica, de docencia, de empleo doméstico, de formación deportiva, artística o religiosa, o se aproveche la confianza en ella depositada;
+
+IV. Fuere cometido al encontrarse la persona víctima a bordo de un vehículo particular o de servicio público o privado de transporte;
+
+V. Fuere cometido en un lugar despoblado, solitario o poco accesible;
+
+VI. Fuere cometido dentro de los centros educativos, culturales, deportivos, religiosos, de salud, de trabajo, o cualquier otro centro de naturaleza social;
+
+VII. Se realice por una persona profesionista aprovechando su empleo, cargo o comisión. En este caso, además de la pena de prisión, la persona agresora será inhabilitada para el ejercicio de la profesión hasta por un plazo igual al de la pena privativa de la libertad que se le imponga por sentencia firme sin perjuicio de otras sanciones administrativas o civiles que correspondan;
+
+VIII. Se realice por persona servidora pública y utilizare los medios o circunstancias que el cargo le proporcione. Además de la pena señalada será destituida del cargo, empleo o comisión y se le inhabilitara´ para desempeñar empleos, cargos o comisiones en el servicio público hasta por el término de la pena de prisión que se le imponga en sentencia firme, sin perjuicio de otras sanciones administrativas o civiles que correspondan;
+
+IX. Se realice por persona ministra de culto aprovechando su cargo, función o comisión;
+
+X. Se realice en la vía pública o inmuebles públicos;
+
+XI. Cuando la persona víctima se encuentre bajo los efectos de alcohol, fármacos, narcóticos u otras sustancias que afecten su voluntad o discernimiento;
+
+XII. Cuando la persona víctima se encuentre en estado de embarazo o puerperio;
+
+XIII. Cuando se cometa contra personas por su orientación sexual, identidad de género o expresión de género, y
+
+XIV. Cuando la persona víctima se encuentre en estado de indefensión.
+
+En todo delito de abuso sexual, simple o agravado, la persona responsable deberá reparar integralmente el daño causado a la víctima. La reparación del daño incluirá, el pago de gastos médicos, terapéuticos y psicológicos presentes y futuros que requiera la víctima para su recuperación.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2023)</small>
 
@@ -2156,6 +2158,12 @@ Cuando a consecuencia de la comisión de alguno de los delitos previstos en los 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 Para los efectos de los capítulos I, II, III y VI de este Título, se entiende por cópula la introducción total o parcial del pene o de cualquier objeto, instrumento o parte del cuerpo distinta al pene, en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 131 BIS. En todos los casos previstos en el presente Título, además de la sanción establecida para cada delito, la autoridad jurisdiccional ordenará la aplicación obligatoria de un tratamiento psicológico, psiquiátrico o de reeducación especializado, con el propósito de prevenir la reincidencia, modificar conductas violentas o agresivas y favorecer la reintegración social de la persona sentenciada.
+
+El tratamiento será brindado por instituciones públicas o privadas certificadas, y su duración será determinada por la autoridad jurisdiccional, sin exceder el tiempo de la sanción impuesta. Podrán incluirse otros programas o medidas complementarias que contribuyan a la rehabilitación integral de la persona. Las medidas deberán aplicarse siempre con respeto a los derechos humanos y a los principios de proporcionalidad, reinserción social, perspectiva de género y prevención de la violencia.
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -5786,3 +5794,45 @@ P.O. 1 DE ABRIL DE 2025.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 181 POR EL QUE SE REFORMA EL ARTÍCULO 129 Y SE ADICIONA EL ARTÍCULO 131 BIS AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 182 POR EL QUE SE EXPIDE LA LEY PARA PREVENIR, INVESTIGAR Y SANCIONAR LOS DELITOS EN MATERIA DE EXTORSIÓN DEL ESTADO DE QUINTANA ROO, SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO, Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD CIUDADANA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Consejo Estatal de Prevención y Combate a la Extorsión deberá instalarse en un plazo no mayor a 90 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+TERCERO. La Secretaría de Seguridad Ciudadana deberá establecer la Estrategia Estatal para Prevenir y Combatir el Delito de Extorsión en un plazo no mayor a 180 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. La Fiscalía General del Estado de Quintana Roo deberá crear y poner en operación la Fiscalía Especializada en Combate a los Delitos de Extorsión y Delitos Vinculados en un periodo no mayor a 180 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+Hasta en tanto no se integre y entre en operaciones la Fiscalía Especializada señalada, la Fiscalía Especializada en Combate a los Delitos de Secuestro y Extorsión seguirá operando en términos de las disposiciones jurídicas aplicables previo a la entrada en vigor del presente Decreto.
+
+La Fiscalía Especializada en Combate a los Delitos de Secuestro y Extorsión, deberá transferir, en su totalidad, las Carpetas de Investigación iniciadas con motivo de las denuncias presentadas con anterioridad a la entrada en vigor del presente Decreto, para conocimiento y substanciación hasta su culminación a la nueva Fiscalía Especializada en Combate a los Delitos de Extorsión y Delitos Vinculados.
+
+QUINTO. Las Carpetas de Investigación iniciadas con motivo de las denuncias presentadas con anterioridad a la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables jurídicas antes de la vigencia de este.
+
+SEXTO. Los Centros Penitenciarios tendrán 180 días hábiles contados a partir de la entrada en vigor del presente Decreto para establecer los procedimientos y tecnologías de inhibición de entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen a que se refiere el artículo 38 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+SÉPTIMO. La Secretaría de Seguridad Ciudadana deberá establecer y poner en operación el Centro Estatal de Atención a Denuncias por el Delito de Extorsión en un plazo no mayor a 180 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+OCTAVO. El Gobierno del Estado de Quintana Roo, a través de sus dependencias y organismos auxiliares, y los Ayuntamientos deberán proveer lo necesario para el correcto y eficaz cumplimiento de lo previsto en el presente Decreto.
+
+NOVENO. Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento, lo cual se llevará a cabo de manera progresiva, conforme a la disponibilidad presupuestal, con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes, por lo que no incrementarán su presupuesto y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 184 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE QUINTANA ROO, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO, DE LA LEY DE SEGURIDAD CIUDADANA DEL ESTADO DE QUINTANA ROO, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, DE LA LEY DE LA JUVENTUD DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, DE LA LEY DE PREVENCIÓN, ATENCIÓN INTEGRAL Y CONTROL PARA EL VIH DEL ESTADO DE QUINTANA ROO, DE LA LEY DE SEGURIDAD ESCOLAR INTEGRAL DEL ESTADO DE QUINTANA ROO, DE LA LEY DE VÍCTIMAS DEL ESTADO DE QUINTANA ROO Y DE LA LEY EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE QUINTANA ROO.".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
