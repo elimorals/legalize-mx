@@ -4,7 +4,7 @@ identifier: "CHP-ley-en-materia-de-desaparicion-de-personas-para-el-estado-13884
 country: "mx"
 rank: "ley"
 publication_date: "2019-10-18"
-last_updated: "2019-10-18"
+last_updated: "2025-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138846&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Tomo III al Número 063 del Periódico Oficial del Estado de Chiapas, el viernes 18 de octubre de 2019.
 
@@ -97,9 +97,29 @@ V. Garantizar la participación de los Familiares en el diseño, implementación
 
 VI. Crear el Registro Estatal de Personas Desaparecidas y No Localizadas.
 
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+VII. Establecer mecanismos de coordinación para identificación humana y forense conforme a estándares nacionales.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+VIII. Garantizar la perspectiva de género en todas las acciones de búsqueda.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+IX. Implementar mecanismos técnicos derivados de la Plataforma Única de Identidad y la Alerta Nacional de Búsqueda.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+X. Adoptar de manera inmediata las actualizaciones del Protocolo Homologado de Búsqueda.
+
 ###### Artículo 3.
 
 La aplicación de la presente Ley corresponde a las autoridades del Estado y los Municipios, en el ámbito de sus respectivas competencias, y se interpretará de conformidad con los principios de promoción, respeto, protección y garantía de los derechos humanos reconocidos en los tratados internacionales de los que el Estado mexicano sea parte, en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Chiapas y los principios de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, observándose en todo tiempo el principio pro persona.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Se deberá garantizar la actualización, la implementación y la coordinación, con autoridades federales, para la aplicación de las acciones del Sistema Nacional de Búsqueda, incluyendo sesiones, acuerdos y planes derivados del mismo.
 
 ###### Artículo 4.
 
@@ -203,9 +223,11 @@ En el diseño de las acciones y herramientas para la búsqueda e investigación 
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 12.
 
-En la investigación, persecución, procesamiento y sanción de los delitos de desaparición forzada de personas, de desaparición cometida por particulares, serán aplicables las disposiciones señaladas en la Ley General, el Código Nacional de Procedimientos Penales y demás leyes aplicables.
+Se autoriza el acceso regulado a datos biométricos, imágenes satelitales, videovigilancia y herramientas de reconocimiento facial para la búsqueda e identificación humana, bajo supervisión judicial y con pleno respeto a derechos humanos, dentro de la investigación, persecución, procesamiento y sanción de los delitos de desaparición forzada de personas, de desaparición cometida por particulares, siendo aplicables las disposiciones señaladas en la Ley General, el Código Nacional de Procedimientos Penales y demás leyes aplicables.
 
 ###### Artículo 13.
 
@@ -545,7 +567,13 @@ VI. Mantener coordinación y comunicación continua y permanente con la Fiscalí
 
 VII. Informar y mantener coordinación y comunicación continua y permanente con la Comisión Nacional.
 
-VIII. Los demás asuntos que le correspondan en términos de (sic) Ley General, esta Ley, diversas disposiciones aplicables y los que le instruya el Titular de la Secretaría General de Gobierno.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+VIII. Compartir datos con la Fiscalía en tiempo real para optimizar el paradero de la persona desaparecida o, en su caso, su identificación.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+IX. Los demás asuntos que le correspondan en términos de la Ley General, esta Ley, diversas disposiciones aplicables y los que le instruya la persona titular de la Secretaría General de Gobierno y Mediación.
 
 ###### Artículo 36.
 
@@ -689,7 +717,19 @@ El personal al que se refiere el párrafo anterior, además de cumplir con la ce
 
 La Fiscalía General contará con una Fiscalía contra la Desaparición Forzada de Personas y la Cometida por Particulares, para la investigación y persecución de los delitos de desaparición forzada de personas, desaparición cometida por particulares y delitos vinculados con la desaparición de personas, la cual deberá coordinarse con la Fiscalía General de la República y las Fiscalías Especializadas de otras Entidades Federativas y dar impulso permanente a la búsqueda de personas desaparecidas.
 
-La Fiscalía a que se refiere el primer párrafo de este artículo debe contar con los recursos humanos, financieros, materiales y técnicos especializados y multidisciplinarios y una unidad de análisis de contexto que se requieran para su efectiva operación, entre los que deberá contemplar personal sustantivo ministerial, policial, pericial y de apoyo psicosocial.
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+La Fiscalía a que se refiere el primer párrafo de este artículo debe contar con los recursos humanos, financieros, materiales y técnicos especializados y multidisciplinarios que se requieran para su efectiva operación, entre los que deberá contemplar personal sustantivo ministerial, policial, pericial y de apoyo psicosocial, así como con:
+
+I. Unidad especializada de investigación.
+
+II. Unidad de análisis de contexto.
+
+III. Unidad de atención y seguimiento a víctimas.
+
+IV. Unidad de búsqueda inmediata y de larga data.
+
+V. Área especializada en delitos cibernéticos.
 
 La Fiscalía diseñará una técnica de gestión estratégica de la carga de trabajo y flujo de casos que son de su conocimiento con base en criterios claros para la aplicación de una política de priorización, los cuales deberán ser públicos.
 
@@ -1212,3 +1252,15 @@ El Ejecutivo del Estado dispondrá se publique, circule y se dé el debido cumpl
 Dado en el Salón de Sesiones "Sergio Armando Valls Hernández" del Honorable Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 17 días del mes de Octubre del año dos mil diecinueve.- D. P. C. ROSA ELIZABETH BONILLA HIDALGO.- D. S. C. DULCE MARÍA RODRÍGUEZ OVANDO.- Rúbricas.
 
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 18 días del mes de Octubre del año dos mil diecinueve.- Rutilio Escandón Cadenas, Gobernador del Estado de Chiapas.- Ismael Brito Mazariegos, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 042 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan o contravengan lo establecido en el presente Decreto.
+
+Artículo Tercero.- La actualización del Protocolo Homologado de Búsqueda deberá implementarse en un plazo máximo de 90 días posteriores a la entrada en vigor del presente Decreto.
