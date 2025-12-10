@@ -4,7 +4,7 @@ identifier: "CHP-codigo-fiscal-del-estado-de-chiapas-antes-codigo-de-la-116190"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-05-18"
-last_updated: "2025-12-09"
+last_updated: "2025-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO FISCAL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de Mayo del 2016.
 
@@ -5443,11 +5443,11 @@ Si al concluirse un año fiscal, no hubiere sido aprobado el Presupuesto de Egre
 
 De igual forma, si el Presupuesto de Egresos del Poder Judicial no hubiese sido aprobado, seguirán vigentes los montos del ejercicio anterior, hasta en tanto no se apruebe el que corresponda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 348.
 
-El Presupuesto de Egresos comprenderá las previsiones de gasto público que habrán de realizar los Organismos Públicos, debiendo reflejar el monto global por cada uno de estos y, en su caso, por Unidades Responsables, el pago de la Deuda Pública, el monto de las Participaciones y Aportaciones Federales a que se refiere la Ley de Coordinación Fiscal. Asimismo, el gasto público destinado a los compromisos plurianuales derivados de contratos de obra pública de pagos a plazos plurianules deberá estar contemplados en todos los ejercicios subsecuentes a su contratación, hasta la liquidación total de los mismos, de conformidad con el artículo 370 Bis del presente Código.
+El Presupuesto de Egresos comprenderá las previsiones de gasto público que habrán de realizar los Organismos Públicos, debiendo reflejar el monto global por cada uno de estos y, en su caso, por Unidades Responsables, el pago de la Deuda Pública, el monto de las Participaciones y Aportaciones Federales a que se refiere la Ley de Coordinación Fiscal. Asimismo, el gasto público destinado a los compromisos plurianuales derivados de contratos de obra pública de pagos a plazos preestablecidos, deberá estar contemplado en todos los ejercicios subsecuentes a su contratación, hasta la liquidación total de los mismos, de conformidad con el artículo 370 Bis del presente Código.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -6001,17 +6001,17 @@ La contratación deberá efectuarse en los términos que disponen las leyes rela
 
 Los contratos que rebasen un ejercicio fiscal que se autoricen en los términos del artículo 356 de este Código, quedarán sujetos para los fines de su ejecución y pago, a la disponibilidad presupuestaria de los años subsecuentes y se hará mención al presentar el Proyecto de Presupuesto de Egresos al Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-Respecto de los contratos de Asociación Público-Privada y los contratos de obra pública en la modalidad de pagos a plazos plurianules, que se rigen por la Ley de Asociaciones Público Privadas para el Estado de Chiapas y por la Ley de Obra Pública del Estado de Chiapas, respectivamente, en la formulación de los presupuestos de los ejercicios subsecuentes, se les dará prioridad a las previsiones para el cumplimiento de las obligaciones contraídas.
+Respecto de los contratos de Asociación Público-Privada y los contratos de obra pública en la modalidad de pagos a plazos preestablecidos, que se rigen por la Ley de Asociaciones Público Privadas para el Estado de Chiapas y por la Ley de Obra Pública del Estado de Chiapas, respectivamente, en la formulación de los presupuestos de los ejercicios subsecuentes, se les dará prioridad a las previsiones para el cumplimiento de las obligaciones contraídas.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 Los compromisos plurianuales derivados de los contratos de Asociación Público Privada, tendrán preferencia respecto a otras previsiones de gasto, quedando sujetos a la disponibilidad presupuestaria anual; además se debe observar lo establecido en el artículo 355 de este Código.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-Los compromisos plurianuales derivados de los contratos de obra pública en la modalidad de pagos a plazos plurianuales deberán ser garantizados en su cumplimiento de pago, en los presupuestos de egresos de los ejercicios subsecuentes hasta la liquidación total de los contratos respectivos.
+Los compromisos plurianuales derivados de los contratos de obra pública en la modalidad de pagos a plazos preestablecidos serán garantizados en su cumplimiento, por lo que se deberán prever en los presupuestos de egresos de los ejercicios subsecuentes hasta la liquidación total de los contratos respectivos.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
@@ -6871,9 +6871,9 @@ VII. Autorizar al Estado y a los Municipios la constitución de los mecanismos d
 
 VIII. Autorizar, a dos o más Municipios, de manera conjunta, la constitución de los mecanismos a que se refiere la fracción anterior, sin que por ello los ingresos y/o derechos de un Municipio puedan afectarse para el pago de obligaciones de otro u otros. Para tales efectos, los Municipios deberán cumplir con los requisitos que se establezcan en la autorización respectiva, entre los que se encuentra la aprobación de los Ayuntamientos para cada afectación de los ingresos y/o derechos correspondientes, siempre de acuerdo con la autorización del Congreso y dentro del monto de endeudamiento aprobado.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-IX. Autorizar al Estado y a los Municipios la afectación de los ingresos que les correspondan o, en su caso, de los derechos al cobro derivados de los mismos, en términos del marco normativo aplicable, como fuente de pago.
+IX. Autorizar al Estado y a los Municipios la afectación de los ingresos que les correspondan o, en su caso, de los derechos al cobro derivados de los mismos, en términos del marco normativo aplicable, como fuente de pago, garantía o ambos, de todo tipo de obligaciones a su cargo.
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
@@ -6948,6 +6948,10 @@ XVIII. Constituir, previa autorización del Congreso del Estado, los mecanismos 
 XIX. Promover esquemas de financiamiento para los municipios y, en su caso, gestionar la autorización del Congreso del Estado de dichas operaciones, para su posterior aprobación por los Ayuntamientos de los municipios que decidan adherirse a dichos esquemas.
 
 XX. Suscribir convenio con la Secretaría de Hacienda y Crédito Público para obtenerla (sic) garantía del Gobierno Federal a las Obligaciones constitutivas de Deuda Pública del Estado, de conformidad con el artículo 34 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XXI. Afectar, previa autorización del Congreso, los ingresos estatales como fuente o garantía de pago de las obligaciones que contraiga por sí o a través de fideicomisos para la instrumentación financiera o fideicomisos de garantía y fuente alterna de pago a que hace referencia el artículo 407 del presente Código.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -7732,3 +7736,17 @@ Artículo Primero.- El presente Decreto entrará en vigor el 1 de enero de 2026.
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
 
 Artículo Tercero.- A la entrada en vigor del presente Decreto, las referencias y menciones que en otras legislaciones o disposiciones normativas se encuentren realizadas al Código de la Hacienda Pública para el Estado de Chiapas, hasta en tanto se realicen las adecuaciones correspondientes, se entenderán realizadas al Código Fiscal del Estado de Chiapas.
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 040 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO FISCAL DEL ESTADO DE CHIAPAS Y LA LEY DE OBRA PÚBLICA DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Las Dependencias de la Administración Pública del Estado de Chiapas, deberán realizar las adecuaciones que consideren pertinentes a la normatividad en la materia, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto.
+
+En tanto se realizan las adecuaciones referidas en el párrafo que antecede, continuarán aplicándose las disposiciones emitidas previo a la entrada en vigor del presente Decreto.
+
+Artículo Cuarto.- Las obras públicas que, previo a la entrada en vigor del presente Decreto, hayan iniciado el procedimiento de contratación, o bien, hayan sido adjudicadas o contratadas, se seguirán ejecutando conforme a las disposiciones de la ley vigente al momento de iniciar el procedimiento de contratación y/o adjudicación.
