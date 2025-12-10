@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2025-11-15"
+last_updated: "2025-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO PENAL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -1471,67 +1471,65 @@ A quien cometa homicidio en riña se le impondrá prisión de cinco a doce años
 
 A quien prive de la vida a otra persona, por petición expresa, libre, reiterada, seria e inequívoca de la víctima, siempre que medien razones humanitarias o cuando bajo los mismos supuestos el sujeto pasivo padeciere una enfermedad incurable en fase terminal oficialmente comprobada, se le impondrán de dos a cuatro años de prisión.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-###### Artículo 115 Bis.
+###### ARTICULO 115 Bis.
 
 Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género. Se considera que existen razones de género cuando concurra alguna de las circunstancias siguientes:
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2016)</small>
+I. La víctima presente signos de violencia sexual de cualquier tipo;
 
-I. Haya existido entre el activo y la víctima una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, sociedad de convivencia, noviazgo, o cualquier otra relación de hecho o amistad;
+II. El cuerpo o los restos de la víctima presenten heridas, traumatismos, escoriaciones, contusiones, decapitamiento, desollamiento, fracturas, dislocaciones, cortes, quemaduras, signos de asfixia, estrangulamiento, tortura, desmembramiento de partes del cuerpo o cualquier tipo de lesiones o mutilaciones, internas o externas, infamantes o degradantes, previas o posteriores a la privación de la vida o actos de necrofilia;
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2016)</small>
+III. Existan datos, antecedentes o indicios, denunciados o no, que establezcan que hubo amenazas, agresiones, intimidación, acoso o lesiones del sujeto activo en contra de la víctima, incluidas aquellas encaminadas a limitar, anular o menoscabar los derechos políticos y electorales de la víctima o el ejercicio de un cargo político, público, de poder o de decisión;
 
-II. Haya existido entre el activo y la víctima una relación laboral, docente, o cualquier otra que implique confianza, subordinación o superioridad;
+IV. El cuerpo o restos de la víctima sean expuestos, exhibidos, depositados, arrojados o enterrados en un lugar público, paraje despoblado o de libre concurrencia;
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2016)</small>
+V. Existan antecedentes, indicios o datos, denunciados o no, de cualquier tipo de violencia, en el ámbito familiar, laboral, escolar, vecinal o comunitario del sujeto activo en contra de la víctima;
 
-III. El sujeto activo haya abusado de su cargo público para la comisión del delito;
+VI. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida;
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2016)</small>
+VII. Exista o haya existido, entre el activo y la víctima una relación sentimental, afectiva o de confianza, de parentesco por consanguinidad, por afinidad o civil, matrimonio, concubinato, sociedad de convivencia, cohabitación, noviazgo o cualquier otra relación de hecho o amistad; y
 
-IV. La víctima presente signos de violencia sexual de cualquier tipo;
+VIII. Exista o haya existido entre el sujeto activo y la víctima, una relación laboral, docente, religiosa, institucional o cualquier otra que implique, de manera formal o, de hecho, una relación de subordinación o superioridad; o la pena se agravará hasta en una tercera parte de su mínimo y máximo, según las características del mismo, cuando concurra cualquiera de las siguientes circunstancias:
 
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2020)</small>
+1. Cuando el sujeto activo haya obligado a la víctima a ejercer la prostitución o haya ejercido actos de explotación o trata de personas en agravio de la víctima;
 
-V. A la víctima se le hayan infligido lesiones o mutilaciones infamantes o degradantes, previas o posteriores a la privación de la vida, o actos de necrofilia;
+2. Cuando una persona servidora pública, valiéndose de esta calidad, sea el sujeto activo o haya intervenido en cualquiera de las etapas del delito;
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2016)</small>
+3. Cuando el delito sea cometido por dos o más personas;
 
-VI. Existan antecedentes o datos de cualquier tipo de violencia sexual, física, psicológica, patrimonial o económica, en el ámbito familiar, laboral o escolar, generada por el sujeto activo en contra de la víctima;
+4. Cuando el sujeto activo, con motivo de su cargo, encargo o situación personal, tenga la obligación o el deber de cuidado sobre la víctima;
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2016)</small>
+5. El sujeto activo se haya valido de su oficio como conductor de un vehículo de transporte de pasajeros o de turismo, público o privado, para la comisión del delito; o
 
-VII. Existan antecedentes o datos que establezcan que se cometieron amenazas relacionadas con el hecho delictuoso, asedio, acoso o lesiones del sujeto activo en contra de la víctima;
-
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2016)</small>
-
-VIII. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida; o
-
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2016)</small>
-
-IX. El cuerpo de la víctima sea expuesto o exhibido en lugar público.
-
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2016)</small>
+6. Cuando la víctima sea mujer menor de edad, embarazada, adulta mayor o con discapacidad física o motora, sensorial, intelectual, mental, psicosocial o múltiple.
 
 A quien cometa el delito de feminicidio se le impondrán de cuarenta a sesenta años de prisión y de quinientos a mil días multa.
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 2024)</small>
+Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
 
-Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio, de patria potestad, tutela guarda y custodia sobre los descendientes, adoptante o adoptado.
+El sujeto activo, además de las penas previstas en este artículo, será condenado a la pérdida de la patria potestad, en el caso de que tenga hijas o hijos con la víctima y se ordenará a las autoridades competentes la protección, prestación de servicios de ayuda inmediata, asistencia, atención y reparación integral del daño de las niñas, niños y adolescentes que hubiesen quedado en situación de orfandad por feminicidio.
 
-> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
+Toda muerte violenta de una mujer, incluidas aquellas que en principio parecieran haber sido causadas por motivos criminales, suicidio y algunos accidentes, deben investigarse como probable feminicidio.
 
-Si además del feminicidio, resulta delito diverso, se estará a las reglas del concurso de delitos.
+Cuando no se acredite el feminicidio, se aplicarán las reglas del homicidio.
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 2024)</small>
+A la persona servidora pública que, tratándose de la muerte violenta de una mujer, omita iniciar la investigación como probable feminicidio, filtre información, fotos, videos y evidencias de la investigación, retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia, se le impondrá pena de cinco a ocho años de prisión y de quinientos a mil quinientos días multa. Además, será destituida e inhabilitada de cinco a diez años para desempeñar otro empleo, cargo o comisión públicos.
 
-En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio y las relativas a la tentativa del delito de feminicidio.
+Si además del feminicidio, resulta delito diverso, se sujetará a las reglas del concurso de delitos.
 
-> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-Al servidor público que retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia respecto del feminicidio, se le impondrá pena de prisión de tres a ocho años y de quinientos a mil quinientos días multa; además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión públicos.
+###### ARTICULO 115 Ter.
+
+A quien después de la ejecución del delito de feminicidio y sin haber participado en este, ayude en cualquier forma al probable responsable a eludir las investigaciones de la autoridad o a sustraerse a su acción, u oculte, altere, destruya o haga desaparecer los rastros, pruebas o instrumentos del delito o asegure para el probable responsable el producto o provecho del mismo se le impondrán de cinco a once años de prisión y una multa por el importe de trescientas a mil quinientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+###### ARTICULO 115 Quater.
+
+Cuando en el delito de feminicidio concurran actos de tortura o degradantes previas (sic) o posteriores a la privación de la vida se estará a lo dispuesto por la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
 
 ### CAPITULO II. LESIONES
 
@@ -1925,23 +1923,75 @@ Además de las penas previstas en los artículos 154 y 155 Bis se suspenderá de
 
 ### CAPITULO IV. ABUSO SEXUAL
 
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 156.
 
-Al que sin consentimiento de una persona ejecute en ella o la haga ejecutar un acto erótico sexual, se le aplicará prisión de dos a seis años.
+Al que sin consentimiento de una persona de cualquier sexo o género y sin el propósito de llegar a la cópula, ejecute en ella o la obligue ejecutar cualquier acto de naturaleza sexual, sobre sí, para un tercero o para el propio sujeto activo, o la obligue a observarlo, ya sea en el ámbito público o privado, se le aplicará prisión de tres a siete años, multa de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización y la reparación integral del daño, entre las que se podrán incluir las medidas contenidas en la Ley de Atención a Víctimas del Estado de Tabasco.
 
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Sin importar la pena impuesta, deberá acudir obligatoriamente a talleres reeducativos con perspectiva de género y no violencia contra las mujeres.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Para los efectos de este artículo, se entiende por acto de naturaleza sexual, los tocamientos, caricias, roces corporales, exhibición del cuerpo desnudo o representaciones sexuales explícitas.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+No se considerará consentimiento cuando la voluntad de la persona haya sido anulada o viciada por violencia, intimidación, engaño, amenaza, abuso de confianza, autoridad, situación de vulnerabilidad ni podrá presumirse por el silencio, la pasividad o la falta de resistencia física de la víctima.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 157.
 
-Al que ejecute un acto erótico sexual en persona que no tenga capacidad de comprender el significado del hecho, o que por cualquier causa no pueda resistirlo o la obligue a ejecutarlo, se le impondrá una pena de cuatro a ocho años de prisión.
+Al que cometa el delito de abuso sexual, cuando la víctima se trate de persona menor de 18 años y mayor de 14 años, o en estado de embarazo o puerperio, o que no tenga capacidad de comprender el significado del hecho, o que por cualquier causa no pueda resistirlo, se le impondrá una pena de cinco a nueve años de prisión.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 158.
 
-Las penas previstas en los artículos anteriores se incrementarán en una mitad cuando se empleare violencia, se cometa el delito por varias personas, sea el medio para generar pornografía infantil, exista relación de autoridad, de hecho o de derecho, entre el inculpado o imputado y la víctima, o aquél aprovecha, para cometerlo, los medios o circunstancias del empleo, oficio o profesión que ejerce.
+Las penas previstas en los artículos anteriores se incrementarán en una mitad cuando el delito se cometa con cualquiera de las siguientes circunstancias:
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+I. Violencia física, psicológica o moral;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+II. Por dos o más personas;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+III. Se cometa en un lugar solitario o en el hogar de la víctima;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+IV. Sea el medio para generar pornografía infantil;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+V. Cuando exista o haya existido entre el agresor y la víctima una relación de confianza, sentimental, de parentesco en cualquier grado de afinidad o consanguíneo, tutela, curatela, guarda, custodia, cuidado o dependencia económica, de autoridad de hecho o de derecho;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+VI. Cuando la confianza y/o cercanía con la víctima se haya generado por que el agresor tenga o haya tenido una relación amistosa, sentimental, sexual, familiar, y/o laboral con la madre, padre, tutor, tíos, primos, abuelos, hermanos o cuidador;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+VII. Cuando el agresor cometa el delito aprovechándose de los medios o circunstancias del cargo o empleo público, función, comisión, oficio o profesión que ejerce, para lograr la confianza y/o cercanía con la víctima en el ámbito laboral, educativo, docente, artístico, deportivo, religioso o donde preste los servicios el agresor;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+VIII. Cuando el delito lo cometa un ministro de culto religioso; y
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+IX. Cuando el agresor, sin consentimiento de la víctima, previamente le suministre alcohol, narcóticos o fármacos que afecten su voluntad o discernimiento.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+En los casos de la fracción VII y VIII, además de la pena de prisión, el agresor podrá ser destituido, inhabilitado y/o separado del ejercicio de su profesión por un plazo igual al de la pena privativa de la libertad, sin perjuicio de otras sanciones civiles, administrativas o laborales que correspondan.
 
 ###### Artículo 159.
 
@@ -1971,13 +2021,21 @@ Cuando la víctima sea menor de edad o una persona que no tenga la capacidad de 
 
 Se impondrá prisión de dos a cuatro años a quien:
 
-I. Asedie, por cualquier medio, con fines lascivos, a una persona o solicite la ejecución de un acto de naturaleza sexual, independientemente de que se realice en uno o varios eventos; y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-II. Asedie reiteradamente, con fines lascivos o sexuales o expresándose de manera verbal o física mediante la realización de actos o acciones de tipo erótico a cualquier persona, sin su consentimiento, en instalaciones, vehículos destinados al transporte público de pasajeros o en cualquier otro lugar público o privado.
+I. Asedie, con fines lascivos o sexuales a una persona sin su consentimiento, independientemente de que el asedio lo realice en uno o varios eventos, de forma esporádica o reiterada, por medio de expresiones verbales, gestuales o corporales, o con insinuaciones de índole sexual; y
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+II. Al que cometa el delito de acoso sexual, en instalaciones, vehículos destinados al transporte público de pasajeros o en cualquier otro lugar público o privado.
 
 Si el sujeto activo realiza cualquiera de las conductas previstas en este artículo aprovechándose de cualquier circunstancia que produzca desventaja, indefensión o riesgo inminente para la víctima, la pena prevista en el párrafo primero se incrementará hasta en una mitad.
 
 Si la víctima del delito de acoso sexual fuera menor de edad o una persona que no tenga la capacidad de comprender el significado del hecho, aún con su consentimiento; o que por cualquier causa no pueda resistirlo, se aumentará la pena prevista en el párrafo primero en una mitad.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+La penalidad de este delito se impondrá, independientemente de la que se le imponga por los delitos que se cometan con motivo del acoso sexual.
 
 > <small>(DEROGADO, P.O. 6 DE OCTUBRE DE 2012)</small>
 
@@ -4379,17 +4437,25 @@ Artículo 304 BIS-E.- Los delitos previstos en este capítulo, serán aplicables
 
 Para los efectos del presente capítulo, se entenderá por animal al ser orgánico, no humano, vivo, sensible, que posee movilidad propia y capacidad de respuesta a los estímulos del medio ambiente perteneciente a una especie doméstica o silvestre, de conformidad con lo establecido por la Ley para la Protección y Cuidado de los Animales en el Estado de Tabasco.
 
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 304 Quater.
 
-Al que ilícitamente cometa actos de maltrato o crueldad en contra de cualquier animal, causándole sufrimiento o lesiones, se le impondrá de seis meses a dos años de prisión y de cincuenta a cien días multa.
+Al que ilícitamente cometa actos de maltrato o crueldad en contra de cualquier animal, causándole sufrimiento o lesiones, se le impondrá de un año a cinco años de prisión y de cien a quinientos días multa.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2019)</small>
 
 Para tales efectos se entenderá por actos de crueldad y maltrato los establecidos en la Ley para la Protección y Cuidado de los Animales en el Estado de Tabasco.
 
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2019)</small>
+
 No constituirá maltrato o crueldad el sacrificio humanitario de animales en términos de lo dispuesto por la Ley para la Protección y Cuidado de los Animales en el Estado de Tabasco, así como las demás excepciones previstas.
 
-Si los actos de maltrato o crueldad le provocan la muerte al animal, se le impondrá de uno a tres años de prisión y de doscientos a cuatrocientos días multa, así como el aseguramiento de todos los animales que tuviera bajo su cuidado o resguardo.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Si los actos de maltrato o crueldad le provocan la muerte al animal, se le impondrá de dos a siete años de prisión y de trescientos a mil días multa, así como el aseguramiento de todos los animales que tuviera bajo su cuidado o resguardo.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2019)</small>
 
 Además de las penas establecidas en el presente Capítulo, se impondrán las sanciones administrativas previstas en las demás disposiciones aplicables.
 
@@ -4401,11 +4467,29 @@ Las sanciones previstas en el artículo anterior se incrementarán en una mitad 
 
 I. Si se prolonga la agonía o el sufrimiento del animal;
 
-II. Si se utilizan métodos de extrema crueldad;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-III. Si el sujeto activo capta los actos de maltrato o crueldad en imágenes, fotografías o videograbaciones para hacerlos públicos mediante cualquier medio; o
+II. Si se actúa con saña, tortura o utilizando métodos de extrema crueldad;
 
-IV. Si los hechos se hubieran ejecutado en presencia de un menor de edad.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+III. Si el sujeto activo capta los actos de maltrato o crueldad en imágenes, fotografías o videograbaciones para hacerlos públicos mediante redes sociales, plataformas digitales o cualquier medio;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+IV. Si los hechos se hubieran ejecutado en presencia de un menor de edad;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+V. Si se cometen por una servidora pública en ejercicio de sus funciones;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+VI. Contra animales de compañía, rescatados, adoptados o en situación de calle; o
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+VII. Si el sujeto activo es reincidente o cuenta con antecedentes por delitos similares.
 
 Se entenderá por métodos de extrema crueldad, todos aquellos que ocasionen lesiones graves, o que provoquen mutilación innecesaria y evitable, o que conduzcan a una muerte no inmediata.
 
@@ -5836,3 +5920,29 @@ El correspondiente Decreto, entrará en vigor al día siguiente al de su publica
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 184 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 156, EL PRIMER PÁRRAFO; 157; EL PRIMER PÁRRAFO DEL ARTÍCULO 158, LAS FRACCIONES I Y II DEL ARTÍCULO 159 BIS 1, Y SE ADICIONAN AL ARTÍCULO 156 LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO; LAS FRACCIONES I, II, III, IV, V, VI, VII, VIII Y IX, ASÍ COMO UN SEGUNDO PÁRRAFO AL ARTÍCULO 158 Y UN CUARTO PÁRRAFO AL ARTÍCULO 159 BIS 1, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 186 POR EL QUE "SE REFORMA ÍNTEGRAMENTE EL ARTÍCULO 115 BIS Y SE ADICIONAN LOS ARTÍCULOS 115 TER Y 115 QUATER, AL CÓDIGO PENAL PARA EL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se deroga cualquier disposición de igual o menor jerarquía que contravenga el presente Decreto.
+
+TERCERO.- Los delitos que se hubieren cometido con anterioridad a la entrada en vigor del presente Decreto se perseguirán y sancionarán conforme a las disposiciones normativas vigentes al momento de su comisión, toda vez que no se despenaliza, ni expulsa del Código Penal para el Estado de Tabasco, ninguna de las hipótesis o agravantes previstas a la fecha, únicamente, se reubican, amplían o fusionan en los términos del presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 188 POR EL QUE “SE REFORMAN LOS PÁRRAFOS PRIMERO Y CUARTO DEL ARTÍCULO 304 QUATER, LAS FRACCIONES II, III Y IV DEL ARTÍCULO 304 QUINQUIES; Y SE ADICIONAN LAS FRACCIONES V, VI Y VII DEL ARTÍCULO 304 QUINQUIES, AMBOS DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Los delitos que se hubieren cometido con anterioridad con la entrada en vigor del presente Decreto se sancionarán conforme a las disposiciones normativas vigentes al momento de su comisión.
