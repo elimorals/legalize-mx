@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-lazaro-cardenas-del-estado-111
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2024-12-13"
+last_updated: "2025-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE LÁZARO CÁRDENAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 15 de diciembre de 2015.
 
@@ -147,11 +147,13 @@ Son sujetos por deuda ajena y responsabilidad sustituta del Impuesto Predial, lo
 
 #### SECCIÓN III. BASE Y TASA DEL IMPUESTO
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 12.
 
-La base del impuesto en los predios urbanos y rústicos será elegida entre el valor catastral, el bancario, el último valor declarado por el contribuyente o la renta que produzca o sea susceptible de producir el predio, tomando en consideración el valor más alto.
+La base del impuesto en los predios urbanos y rústicos será elegida entre el valor catastral, el bancario, el último valor declarado por el contribuyente, tomando en consideración el valor más alto.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2024)</small>
 
 Para los efectos de la presente Ley, se entiende por valor declarado, al valor monetario declarado ante la autoridad Municipal, que consta en el instrumento público o título de propiedad, conforme al avalúo con la validación correspondiente conforme la ley de la materia y demás disposiciones aplicables; por el cual se formaliza el acto traslativo de dominio.
 
@@ -163,13 +165,25 @@ En caso que haya sido cubierto el pago del Impuesto Predial antes de la formaliz
 
 En caso que haya sido cubierto el pago del impuesto predial antes de cualquier modificación en el inmueble, se aplicará la parte proporcional a la unidad privativa, conforme a lo establecido en el artículo 14 de esta Ley, debiendo cubrir el impuesto predial correspondiente a partir del siguiente bimestre del ejercicio fiscal en curso.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 14.
 
 El Impuesto Predial se determinará, liquidará y recaudará de acuerdo con las siguientes:
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. 23 DE DICIEMBRE DE 2020, PÁGINA 100.]</small>
+DESCRIPCIÓN TASA O TARIFA
+
+APLICABLE
+
+PREDIO URBANO CON CONSTRUCCIÓN 0.0092
+
+PREDIO URBANO CON USO O UTILIZACIÓN
+
+COMERCIAL, O DE SERVICIOS 0.0114
+
+PREDIO URBANO BALDÍO 0.0184
+
+PREDIO RÚSTICO 0.004
 
 #### SECCIÓN IV. PAGO DEL IMPUESTO
 
@@ -643,9 +657,17 @@ b) Para camiones particulares hasta de ocho toneladas un 55% del Impuesto Sobre 
 
 c) Para automóviles y camionetas en servicio público:
 
-1. Taxis: un 10% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente u 8 U.M.A., cualquiera que sea el mayor, y
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-2. Arrendadoras: un 18% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente o 17 U.M.A., cualquiera que sea mayor.
+1. Taxis: un 10% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente, o 8.0 S.M.G., cualquiera que sea el mayor;
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+2. Arrendadoras: un 18% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente, o 17 S.M.G., cualquiera que sea mayor, y
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+3. Carritos de golf, vehículos eléctricos de pasajeros (VEP) o cuadriciclos ligeros, ya sean eléctricos o de gasolina: un 34.3% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente, o 2.21 UMA, aplicándose el monto que resulte mayor.
 
 d) Para camiones de servicio público local:
 
@@ -1397,9 +1419,13 @@ TABULADOR DE TARIFAS POR CONCEPTO DE DERECHOS POR EL SERVICIO DE RECOLECCIÓN, T
 
 > <small>[N. DE E. VÉASE TABULADOR EN EL P.O. DE 27 DE DICIEMBRE DE 2021, PÁGINAS DE LA 40 A LA 41; 17 DE DICIEMBRE DE 2022, PÁGINAS DE LA 126 A LA 128.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS AL TABULADOR, P.O. 10 DE DICIEMBRE DE 2025, PÁGINAS DE LA 162 A LA 165.]</small>
+
 TABULADOR DE TARIFAS POR CONCEPTO DE DERECHOS POR EL SERVICIO DE RECOLECCIÓN, TRANSPORTE, TRATAMIENTO Y DESTINO FINAL DE RESIDUOS SÓLIDOS PARA LAS LOCALIDADES EXCEPTO LA ISLA DE HOLBOX, DEL MUNICIPIO DE LÁZARO CÁRDENAS, QUINTANA ROO.
 
 > <small>[N. DE E. VÉASE TABULADOR EN EL P.O. DE 27 DE DICIEMBRE DE 2021, PÁGINAS DE LA 41 A LA 48.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS AL TABULADOR, P.O. 10 DE DICIEMBRE DE 2025, PÁGINAS DE LA 153 A LA 162.]</small>
 
 ### CAPÍTULO XXI. PROMOCIÓN Y PUBLICIDAD TURÍSTICA
 
@@ -1432,6 +1458,8 @@ Los pagos se enterarán en forma anual durante los dos primeros meses del año o
 Para el uso de la vía pública para el ejercicio de una actividad lucrativa de cualquier naturaleza, se causarán los siguientes derechos:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. 23 DE DICIEMBRE DE 2020, PÁGINA DE LA 135 A LA 136.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 10 DE DICIEMBRE DE 2025, PÁGINAS DE LA 165 A LA 168.]</small>
 
 Los tráilers que tengan más de una caja, se les cobrará el 50% adicional a las tarifas antes señaladas.
 
@@ -1805,17 +1833,27 @@ Están obligados a pagar los derechos de saneamiento ambiental el o los usuarios
 
 > <small>(DEROGADO TERCER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Artículo 132 QUÁTER.- El pago del derecho de saneamiento ambiental se causará en razón del 30% del valor diario de la U.M.A. por visitante que se hospede, al momento del pago de la ocupación de la habitación, sea que ésta se efectúe por anticipado, al momento del registro (check in) o al momento de salida (check out) si el pago es prestado después del servicio.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Tratándose de los visitantes de la zona insular que no se hospeden en alguno de los establecimientos referidos en el artículo 132 TER, el pago se realizará conforme a la tarifa dispuesta en el párrafo anterior y lo deberán realizar a través de la operadora marítima de transporte de pasajeros con ruta dentro del ámbito territorial del municipio, o si su arribo es por vía embarcación privada, embarcación menor o turística, o en su caso a través del módulo que asigne la tesorería municipal para recibir el derecho.
+
+I. (DEROGADA, P.O. 10 DE DICIEMBRE DE 2025)
+
+II. (DEROGADA, P.O. 10 DE DICIEMBRE DE 2025)
+
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
-
-Artículo 132 QUATER. El derecho de saneamiento ambiental se causará en razón del 30% del valor diario de la Unidad de Medida y Actualización y estarán obligados a pagarlo:
-
-I. Los visitantes por noche de hospedaje, al momento en el que el pago de la ocupación se efectúe, ya sea por adelantado, o al momento del registro (check in), o de la salida (check out), si el pago es después de prestado el servicio.
-
-II. Los visitantes de la zona insular que no se hospeden en alguno de los establecimientos referidos en el artículo 132 TER, quienes deberán cubrirlo a través de la operadora marítima de transporte de pasajeros con ruta dentro del ámbito territorial del municipio; o si su arribo es por vía embarcación privada, embarcación menor o turística, el pago se cubrirá al momento de adquirir sus boletos en los módulos o medios que disponga la Tesorería Municipal mediante reglas de carácter general.
 
 En términos del párrafo anterior, la operadora marítima de transporte de pasajeros deberá retener, enterar y declarar las cantidades recibidas de conformidad con el artículo 132 QUINQUIES de esta Ley.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
 En el caso de los visitantes a la parte insular que hayan causado el derecho de saneamiento ambiental de conformidad con el párrafo primero de esta fracción y decidan hospedarse, tendrán por cubierto el pago de este derecho a la primera noche de ocupación y las siguientes noches deberán de ser cubiertas conforme lo señalado en la fracción I de este artículo.
+
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 Quedan exentos del pago de este derecho:
 
@@ -2236,3 +2274,11 @@ P.O. 13 DE DICIEMBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 164 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL MUNICIPIO DE LÁZARO CÁRDENAS, DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente decreto.
