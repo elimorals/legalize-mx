@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5777
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-27"
-last_updated: "2024-10-09"
+last_updated: "2025-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Extraordinario Número 77 al Periódico Oficial del Estado de Quintana Roo, el martes 27 de noviembre de 2007.
 
@@ -99,17 +99,25 @@ XVII. Equidad: El principio que busca alcanzar la justicia social con responsabi
 
 XVIII. Igualdad: El principio que establece el acceso a las garantías, oportunidades, bienes, servicios y demás derechos constitucionales y legales, sin discriminación por condiciones de sexo, edad, estado civil, religión, idioma, raza, preferencia sexual, estado de salud, o cualquier otra situación de las personas;
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-XIX. Paridad de género: Igualdad entre mujeres y hombres, siendo asignación del 50% mujeres y 50% hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación, y
+XIX. Paridad de género: Igualdad entre mujeres y hombres, siendo asignación del 50% mujeres y 50% hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación;
 
-> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-XX. Daño: Cualquier perjuicio, menoscabo o dolor que una persona sufre a consecuencia de la acción u omisión de otra o por interpósita persona y que afecte a sus bienes, sus derechos, sus intereses o su integridad física, emocional o psicológica.
+XX. Daño: Cualquier perjuicio, menoscabo o dolor que una persona sufre a consecuencia de la acción u omisión de otra o por interpósita persona y que afecte a sus bienes, sus derechos, sus intereses o su integridad física, emocional o psicológica;
 
-> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-XX-A. Registro: Registro de Personas Agresoras Sexuales del Estado de Quintana Roo.
+XX-A. Registro: Registro de Personas Agresoras Sexuales del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XXI. Registro Nacional: El Registro Nacional de Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños, y
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XXII. Medidas u Órdenes de protección: Las medidas u órdenes de protección a que se refiere la presente Ley y el Código Nacional de Procedimientos Penales.
 
 ###### ARTÍCULO 3.
 
@@ -141,25 +149,31 @@ ARTÍCULO 3 QUINQUIES.- Se crea el Registro de Personas Agresoras Sexuales del E
 
 La información contenida en el presente Registro deberá ser considerada por las autoridades estatales, los ayuntamientos municipales y los organismos constitucionalmente autónomos para la elaboración de acciones y políticas públicas destinadas al combate y prevención de los delitos cometidos en contra de las mujeres.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 4.
 
-Los principios rectores para el acceso de todas las mujeres a una vida libre de violencia que deberán ser observados en la elaboración y ejecución de las políticas públicas del Estado y los municipios son:
+Los principios rectores para el acceso de todas las mujeres, adolescentes y niñas a una vida libre de violencias que deberán ser observados en la elaboración y ejecución de las políticas públicas del Estado y los Municipios son:
 
-I. La igualdad jurídica entre la mujer y el varón;
+I. La igualdad jurídica, sustantiva, de resultados y estructural;
 
-II. El respeto a la dignidad humana de las mujeres;
-
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+II. La dignidad de las mujeres;
 
 III. La no discriminación;
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+IV. La libertad de las mujeres;
 
-IV. La libertad de las mujeres, y
+V. La universalidad, la interdependencia, la indivisibilidad y la progresividad de los derechos humanos;
 
-> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+VI. La perspectiva de género;
 
-V. La paridad de mujeres y hombres en la vida pública y política del Estado.
+VII. La debida diligencia;
+
+VIII. La interseccionalidad;
+
+IX. La interculturalidad, y
+
+X. El enfoque diferencial.
 
 ###### ARTÍCULO 5.
 
@@ -427,13 +441,19 @@ Para cumplir con su obligación de garantizar el derecho de las mujeres a una vi
 
 ### CAPÍTULO V. DE LA VIOLENCIA FEMINICIDA Y DE LA ALERTA DE VIOLENCIA DE GÉNERO CONTRA LAS MUJERES
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 19.
 
-Por violencia feminicida se entiende la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar a la impunidad tanto social como del Estado y probablemente culminar en homicidio, así como en otras formas de muerte violenta de mujeres.
+Por violencia feminicida se entiende la forma extrema de violencia de género contra las mujeres, las adolescentes y las niñas, producto de la violación de sus derechos humanos y del ejercicio abusivo del poder, tanto en los ámbitos público y privado, que puede conllevar impunidad social y del Estado. Este tipo de violencia se manifiesta a través de conductas de odio y discriminación que ponen en riesgo sus vidas o culminan en muertes violentas como el feminicidio, el suicidio, u otras formas de muertes evitables y en conductas que afectan gravemente la integridad, la seguridad, la libertad personal y el libre desarrollo de las mujeres, las adolescentes y las niñas.
 
 ###### ARTÍCULO 20.
 
 Por alerta de violencia de género se entiende el conjunto de acciones gubernamentales de emergencia para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Así como para eliminar el agravio comparado, resultado de las desigualdades producidas por ordenamientos jurídicos o políticas públicas que impiden el reconocimiento o ejercicio de los derechos humanos de las mujeres, las adolescentes y las niñas, a fin de garantizar su pleno acceso al derecho a una vida libre de violencia.
 
 ###### ARTÍCULO 21.
 
@@ -479,11 +499,11 @@ Ante la violencia feminicida, se deberá resarcir el daño conforme a lo dispues
 
 ### CAPÍTULO VI. DE LAS ORDENES DE PROTECCIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 25.
 
-Las órdenes de protección son actos de protección y de urgente aplicación en función del interés superior de la víctima y son fundamentalmente precautorias y cautelares. Deberán otorgarse de oficio o a petición de parte, por las autoridades administrativas, el Ministerio Público o por los órganos jurisdiccionales competentes, en el momento en que tengan conocimiento del hecho de violencia presuntamente constitutivo de un delito o infracción, que ponga en riesgo la integridad, la libertad o la vida de las mujeres o niñas, evitando en todo momento que la persona agresora, directamente o a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima.
+Las órdenes de protección son actos de protección y de urgente aplicación en función del interés superior de la víctima y son fundamentalmente precautorias y cautelares. Deberán otorgarse de oficio o a petición de parte, por las autoridades administrativas, el Ministerio Público, autoridades policiales o por los órganos jurisdiccionales competentes, en el momento en que tengan conocimiento del hecho de violencia presuntamente constitutivo de un delito o infracción, que ponga en riesgo la integridad, la libertad o la vida de las mujeres, adolescentes o niñas, evitando en todo momento que la persona agresora, directamente o a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima. Tienen como propósito prevenir o hacer cesar un acto de violencia, o impedir la comisión de un nuevo acto de violencia o delito.
 
 > <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
 
@@ -591,6 +611,10 @@ Las órdenes de protección tendrán una duración de hasta 60 días, prorrogabl
 
 Deberán expedirse de manera inmediata o a más tardar dentro de las 4 horas siguientes al conocimiento de los hechos que las generan.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Las policías preventivas municipales y estatal deberán solicitar de inmediato la expedición de órdenes de protección de emergencia y preventivas cuando a su juicio se requiera, en interés a la protección de la mujer víctima de violencias.
+
 ###### ARTÍCULO 27.
 
 Son órdenes de protección de emergencia las siguientes:
@@ -631,17 +655,27 @@ VI. Auxilio policíaco de reacción inmediata a favor de la víctima, con autori
 
 VII. Solicitar se brinden servicios reeducativos, integrales, especializados y gratuitos con perspectiva de género al agresor en instituciones públicas debidamente acreditadas.
 
-> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-ARTÍCULO 28 BIS.- Las órdenes de protección administrativas, además de las previstas en otros ordenamientos, podrán consistir en una o varias de las siguientes:
+ARTÍCULO 28 BIS. Las órdenes de protección administrativas son implementadas, otorgadas y ordenadas por el Ministerio Público y autoridades administrativas, así como las proporcionadas y/o dictadas de forma directa por cualquier autoridad policial. Además de las previstas en otros ordenamientos, podrán consistir en una o varias de las siguientes:
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2023)</small>
 
 I. El traslado de las víctimas a donde se requiera, cuantas veces sea necesario en las diferentes diligencias para garantizar su seguridad y protección;
 
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2023)</small>
+
 II. Custodia personal y/o domiciliaria a las víctimas, que estará a cargo de los cuerpos policiacos adscritos a la Fiscalía General del Estado. En caso de que no exista disponibilidad podrá apoyarse en las instituciones de seguridad ciudadana del Estado o de la Policía Municipal. Esta medida se aplicará bajo la más estricta responsabilidad del Ministerio Público;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2023)</small>
 
 III. Proporcionar a las mujeres, o las niñas, en situación de violencia y en su caso a sus hijas e hijos o personas que dependan de la víctima, alojamiento temporal en espacios seguros tales como casas de emergencia, refugios y albergues que garanticen su seguridad y dignidad, en términos de las disposiciones aplicables de esta ley;
 
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2023)</small>
+
 IV. Proporcionar los recursos económicos para garantizar su seguridad personal, transporte, alimentos, comunicación, mudanza y los trámites oficiales que requiera entre otros;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 2 DE JUNIO DE 2023)</small>
 
 V. Canalizar y trasladar sin demora alguna a las mujeres, o las niñas, en situación de violencia sexual a las instituciones que integran el sistema nacional de salud para que provean gratuitamente y de manera inmediata los servicios de:
 
@@ -651,35 +685,71 @@ b) Anticoncepción de emergencia, y
 
 c) Interrupción legal y voluntaria del embarazo en el caso de violación;
 
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2023)</small>
+
 VI. Proveer los recursos y herramientas necesarias para garantizar la seguridad y acondicionamiento de vivienda;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2023)</small>
 
 VII. Los demás gastos indispensables, dentro o fuera del país, para la mujer y en su caso sus hijas e hijos mientras se encuentre imposibilitada de obtenerlos por sus propios medios;
 
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2023)</small>
+
 VIII. Facilitar a la mujer o la niña, y en su caso a sus hijas e hijos en situación de violencia, la reubicación de domicilio, residencia o del centro educativo. Tratándose de niñas víctimas de violencia, la autoridad en todo momento ponderará su interés superior, siendo la remisión a instituciones públicas de acogida la última opción y por el menor tiempo posible;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2023)</small>
 
 IX. Prohibición inmediata a la persona agresora de acercarse al domicilio y al de familiares y amistades, al lugar de trabajo, de estudios, o cualquier otro que frecuente la víctima directa o víctimas indirectas;
 
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2023)</small>
+
 X. Reingreso de la mujer y en su caso, de sus hijas e hijos, en situación de violencia al domicilio, una vez que se salvaguarde su seguridad, en caso de que así lo desee. Para el cumplimiento de esta orden se garantizará el acompañamiento del Ministerio Público y del personal de la policía ministerial, a la mujer en situación de violencia para acceder al domicilio, lugar de trabajo u otro, con el propósito de recuperar sus pertenencias personales y las de sus hijas e hijos, en cualquier caso, podrá ser acompañada de una persona de su confianza. En caso de que no haya personal ministerial disponible, el acompañamiento será a cargo del personal de cualquier institución de seguridad ciudadana que garantice la seguridad de la mujer;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+X Bis. En casos de peligro inminente o extrema urgencia, el Ministerio Público bajo su más estricta responsabilidad, podrá determinar la desocupación inmediata por la persona agresora, del domicilio conyugal o de pareja, independientemente de la acreditación de propiedad o posesión del inmueble, aun en los casos de arrendamiento de este;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2023)</small>
 
 XI. Protección policíaca permanente a la mujer, o la niña, así como a su familia;
 
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2023)</small>
+
 XII. Protección por seguridad privada, en los casos que sea necesario;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2023)</small>
 
 XIII. Utilización de herramientas tecnológicas que permitan brindar seguridad a las mujeres, o niñas, en situación de violencia; así como a las víctimas indirectas y testigos. Entre las que pueden encontrarse proporcionar un teléfono móvil con contacto directo para brindar auxilio policial, entre otros;
 
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2023)</small>
+
 XIV. Solicitud a la autoridad judicial competente, la suspensión temporal a la persona agresora del régimen de visitas y convivencia con sus descendientes;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2023)</small>
 
 XV. Ordenar la entrega inmediata de objetos de uso personal y documentos de identidad a la mujer en situación de violencia, o niña, y en su caso, a sus hijas e hijos;
 
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2023)</small>
+
 XVI. La prohibición a la persona agresora de comunicarse por cualquier medio o por interpósita persona, con la mujer en situación de violencia y, en su caso, de sus hijas e hijos u otras víctimas indirectas;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2023)</small>
 
 XVII. Prohibición a la persona agresora de intimidar o molestar por si, por cualquier medio o interpósita persona, a la mujer en situación de violencia y en su caso sus hijas e hijos u otras víctimas indirectas o testigos de los hechos o cualquier otra persona con quien la mujer tenga una relación familiar, afectiva, de confianza o de hecho;
 
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2023)</small>
+
 XVIII. Resguardar las armas de fuego u objetos utilizados para amenazar o agredir a la mujer, o niña, en situación de violencia;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2023)</small>
 
 XIX. Solicitar a la autoridad jurisdiccional competente, para garantizar las obligaciones alimentarias, la elaboración de un inventario de los bienes de la persona agresora y su embargo precautorio, el cual deberá inscribirse con carácter temporal en el Registro Público de la Propiedad, y
 
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2023)</small>
+
 XX. Además de las anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, la seguridad y la vida de la mujer o la niña en situación de violencia.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2023)</small>
 
 Las órdenes de protección señaladas en este artículo podrán ser ampliadas o modificadas por la autoridad administrativa, el Ministerio Público o el órgano jurisdiccional competente, siempre procurando la mayor protección de la víctima.
 
@@ -825,9 +895,9 @@ Corresponde a las autoridades jurisdiccionales competentes valorar las órdenes 
 
 Las autoridades jurisdiccionales competentes valorarán de forma inmediata, en cuanto tengan conocimiento de los hechos, las órdenes de protección de emergencia y preventivas, cuando sea procedente conforme a su propia naturaleza, a fin de ratificarlas hasta por el tiempo que consideren necesario para proteger a la victima o desestimarlas decretando que cesen. Dichas órdenes de protección podrán ser dictadas por las autoridades jurisdiccionales, por el tiempo que consideren necesario para proteger a la victima, aun cuando no fueren decretadas con anterioridad por autoridad administrativa.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-ARTÍCULO 31 BIS.- Las autoridades emisoras de las órdenes de protección, tendrán la obligación de registrar las mismas dentro de los cinco días hábiles posteriores a su emisión, en las bases de datos del Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres, BANAVIM, y del Banco Estatal de Datos e Información sobre casos de Violencia contra las Mujeres, BAESVIM.
+ARTÍCULO 31 BIS. Las autoridades emisoras de las órdenes de protección, tendrán la obligación de registrar las mismas dentro de los cinco días hábiles posteriores a su emisión, en las bases de datos del Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres, del Registro Nacional, BANAVIM, y del Banco Estatal de Datos e Información sobre casos de Violencia contra las Mujeres, BAESVIM.
 
 > <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2023)</small>
 
@@ -840,6 +910,12 @@ En razón de lo anterior, el Poder Ejecutivo del Estado de Quintana Roo, deberá
 ARTÍCULO 31 QUÁTER.- En caso de que la persona agresora incumpla la orden de protección, se emitirán las medidas de apremio conforme a la legislación aplicable.
 
 Asimismo, se reforzarán las acciones que se contemplaron en un primer momento con la finalidad de salvaguardar la vida y seguridad de las mujeres y niñas.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 31 QUINQUIES. Las autoridades administrativas estatales y municipales, según sea el caso, la Secretaría de Seguridad Ciudadana, la Fiscalía General del Estado y el Poder Judicial del Estado, darán cumplimiento al Capítulo VII del Título I de la Ley General, en relación con el Registro Nacional de Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños, para garantizar la continuidad, efectividad y no interrupción de las medidas u órdenes de protección con independencia del lugar en que hayan sido ordenadas.
+
+Asimismo, deberán integrar, procesar y actualizar la información para el Registro Nacional.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
@@ -1231,13 +1307,17 @@ XIX. Difundir la cultura de respeto a los derechos humanos de las mujeres y prom
 
 XX. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-XXI. Recibir de las organizaciones privadas, las propuestas y recomendaciones sobre la prevención, atención y sanción de la violencia contra las mujeres, a fin de mejorar los mecanismos para su erradicación, y
+XXI. Recibir de las organizaciones privadas, las propuestas y recomendaciones sobre la prevención, atención y sanción de la violencia contra las mujeres, a fin de mejorar los mecanismos para su erradicación;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-XXII. Las demás previstas para el cumplimiento de la Ley.
+XXII. Cumplir con las facultades y responsabilidades que le correspondan y que deriven de la operación del Registro Nacional, en términos de lo dispuesto en la Ley General del Sistema Nacional de Seguridad Pública y la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XXIII. Las demás previstas para el cumplimiento de la Ley.
 
 #### Sección Tercera. De la Secretaría de Planeación y Desarrollo Regional
 
@@ -1319,13 +1399,31 @@ XIII. Publicar en su portal web oficial, el Registro de Personas Agresoras Sexua
 
 XIV. Elaborar e implementar en coordinación con la Fiscalía, acciones de política criminal que incidan en la prevención de la violencia contra las mujeres, dando prioridad a las zonas de mayor incidencia delictiva, así como a aquellas donde residan un mayor número de personas inscritas en el Registro;
 
-> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-XV. Realizar estudios estadísticos e investigaciones que permitan la elaboración de políticas públicas que prevengan la violencia contra las mujeres en los ámbitos público y privado, debiendo en todo momento estar actualizadas las consultas al Registro, y
+XV. Realizar estudios estadísticos e investigaciones que permitan la elaboración de políticas públicas que prevengan la violencia contra las mujeres en los ámbitos público y privado, debiendo en todo momento estar actualizadas las consultas al Registro;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-XVI. Las demás previstas para el cumplimiento de la presente Ley.
+XVI. Implementar de manera directa e inmediata las medidas u órdenes de protección necesarias para salvaguardar la vida, integridad, libertad y seguridad de las víctimas, sin condicionarlas a la presentación de una denuncia o querella.
+
+Tratándose de delitos relacionados con violencia de género contra las mujeres, la información deberá incorporarse al Registro Nacional;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XVII. Garantizar la incorporación de los datos de las medidas u órdenes de protección en el Registro Nacional;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XVIII. Coadyuvar con la Secretaría de las Mujeres para el cumplimiento de las funciones previstas con relación al Registro Nacional;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XIX. Integrar, procesar y actualizar la información para el Registro Nacional, en términos que establezcan los lineamientos correspondientes, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XX. Las demás previstas para el cumplimiento de la presente Ley.
 
 #### Sección Quinta. De la Secretaría de Educación
 
@@ -1375,7 +1473,9 @@ XIII. Las demás previstas para el cumplimiento de la presente ley.
 
 Corresponde a la Secretaría de Salud:
 
-I. En el marco de la política de salud integral de las mujeres, diseñar con perspectiva de género, la política de prevención, atención y erradicación de la violencia en su contra;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+I. En el marco de la política de salud integral de las mujeres, diseñar con perspectiva de género, la política de prevención, atención y erradicación de la violencia en su contra, para lo cual tomará en cuenta la información contenida en el Registro Nacional;
 
 II. Brindar por medio de las instituciones del sector salud de manera integral e interdisciplinaria atención médica y psicológica con perspectiva de género a las víctimas;
 
@@ -1515,17 +1615,29 @@ d. Eliminación de estereotipos sobre el rol social de las mujeres, entre otros.
 
 XIV. Elaborar e instrumentar en coordinación con la Secretaría de Seguridad Ciudadana, acciones de política criminal que incidan en la prevención de la violencia contra las mujeres, dando prioridad a las zonas de mayor incidencia delictiva y en donde residen mayor número de personas inscritas en el Registro;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-XV. Investigar con perspectiva de género y debida diligencia, todas las muertes violentas de mujeres, niñas y adolescentes para acreditar que se trata de un feminicidio, los casos de homicidios y suicidios.
+XV. Investigar con perspectiva de género y debida diligencia, todas las muertes violentas de mujeres, niñas y adolescentes para acreditar que se trata de un feminicidio, los casos de homicidios y suicidios;
 
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-XVI. Informar anualmente al Sistema Estatal, las actividades desarrolladas en las fracciones I, II, VI, VII, X, XI y XIV de este artículo, y
+XVI. Informar anualmente al Sistema Estatal, las actividades desarrolladas en las fracciones I, II, VI, VII, X, XI y XIV de este artículo;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE JULIO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-XVII. Las demás previstas para el cumplimiento de la presente Ley.
+XVII. Contar con fiscalías especializadas para atender los delitos relacionados con las violencias de género en contra de las mujeres;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XVIII. Instalar y operar en términos de Ley los Centros de Justicia para las Mujeres;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XIX. Cumplir con las facultades y responsabilidades que le correspondan y que se derivan de la operación del Registro Nacional, en términos de lo dispuesto en la Ley General del Sistema Nacional de Seguridad Pública y la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XX. Las demás previstas para el cumplimiento de la presente Ley.
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 9 DE OCTUBRE DE 2024)</small>
 
@@ -1577,9 +1689,17 @@ VIII. Participar y coadyuvar en la prevención, atención y erradicación de la 
 
 IX. Llevar a cabo, de acuerdo con el Sistema Nacional y el Sistema Estatal, programas de información a la población respecto de la violencia contra las mujeres;
 
-X. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-XI. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta Ley, la Ley General u otros ordenamientos jurídicos.
+X. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XI. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta Ley, la Ley General u otros ordenamientos jurídicos, y
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XII. Cumplir con las facultades y responsabilidades que le corresponden y que deriven de la operación del Registro Nacional, en términos de lo dispuesto en la presente Ley y en la Ley General del Sistema Nacional de Seguridad Pública.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE JULIO DE 2017)</small>
 
@@ -1591,7 +1711,9 @@ ARTÍCULO 48 BIS.- Corresponde (sic) la Secretaría del Trabajo y Previsión Soc
 
 I. Impulsar acciones que propicien la igualdad de oportunidades y la no discriminación de mujeres y de hombres en materia de trabajo y previsión social;
 
-II. Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia laboral contra las mujeres;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+II. Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia laboral contra las mujeres, así como para reducir y erradicar la brecha salarial de género;
 
 III. Promover la cultura de respeto a los derechos humanos de las mujeres en el ámbito laboral;
 
@@ -1607,9 +1729,13 @@ VIII. Elaborar, utilizar, supervisar y mantener todos los instrumentos y accione
 
 IX. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente Ley;
 
-XI (SIC). Elaborar y promover la aplicación de un protocolo para proteger los derechos laborales de las mujeres víctimas de violencia familiar, cuando se ausentan de su centro laboral, por incorporación a un refugio, y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
-XII. Las demás necesarias para el cumplimiento de la presente ley.
+X. Elaborar y promover la aplicación de un protocolo para proteger los derechos laborales de las mujeres víctimas de violencia familiar, cuando se ausentan de su centro laboral, por incorporación a un refugio, y
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+XI. Las demás necesarias para el cumplimiento de la presente Ley.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE JULIO DE 2017)</small>
 
@@ -1989,6 +2115,14 @@ V. Perfil Genético.
 
 Será causa de responsabilidad administrativa el incumplimiento de esta Ley y se sancionará conforme a las Leyes en la materia.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Serán consideradas responsables aquellas personas servidoras públicas que, mediante un acto u omisión, violen, infrinjan, incumplan o contraríen la Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2025)</small>
+
+Las autoridades, las personas servidoras públicas y el personal de instituciones policiales deberá abstenerse de realizar cualquier acción o práctica de violencia contra las mujeres o que implique su discriminación.
+
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -2228,3 +2362,11 @@ Las sesiones, acuerdos, informes y demás actuaciones del Sistema Estatal de Pre
 NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto se cubrirán con cargo al presupuesto autorizado en el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales durante el ejercicio fiscal 2024.
 
 DÉCIMO. Se derogan todas las disposiciones legales, de igual o menor jerarquía, que se opongan al contenido del presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 184 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE QUINTANA ROO, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO, DE LA LEY DE SEGURIDAD CIUDADANA DEL ESTADO DE QUINTANA ROO, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, DE LA LEY DE LA JUVENTUD DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, DE LA LEY DE PREVENCIÓN, ATENCIÓN INTEGRAL Y CONTROL PARA EL VIH DEL ESTADO DE QUINTANA ROO, DE LA LEY DE SEGURIDAD ESCOLAR INTEGRAL DEL ESTADO DE QUINTANA ROO, DE LA LEY DE VICTIMAS DEL ESTADO DE QUINTANA ROO Y DE LA LEY EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones legales, de igual o menor jerarquía, que se opongan al contenido del presente Decreto.
