@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-7752
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-26"
-last_updated: "2025-06-25"
+last_updated: "2025-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el viernes 26 de noviembre de 2010.
 
@@ -89,33 +89,37 @@ IX. Interculturalidad. el enfoque intercultural parte del reconocimiento y respe
 
 X. Interseccionalidad. La herramienta analítica para estudiar, entender y responder a las maneras en que el género se cruza con otras identidades creando múltiples ejes de diferencias que se intersectan (sic) en contextos históricos específicos, mismos que contribuyen a experiencias específicas de opresión y privilegio e influyen sobre el acceso de las mujeres y las niñas a derechos y oportunidades;
 
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+XI. Masculinidades positivas e igualitarias: proceso reeducativo por medio del cual los hombres se construyen y relacionan desde el respeto y la plena expresión del ejercicio de los derechos, libertades y capacidades de las personas y en las relaciones de género, para la construcción de identidades libres de estereotipos y de violencia contra sí mismos y contra las mujeres y personas con quienes interactúan en la pareja, en las familias, en las escuelas y en general en todos los espacios;
+
 > <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2023)</small>
 
-XI. Misoginia: las conductas de odio hacia las mujeres, las adolescentes y las niñas, que se manifiestan en actos violentos y crueles contra ellas por el hecho de serlo;
+XII. Misoginia: las conductas de odio hacia las mujeres, las adolescentes y las niñas, que se manifiestan en actos violentos y crueles contra ellas por el hecho de serlo;
 
 > <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2023)</small>
 
-XII. Muertes evitables: el conjunto de muertes que no deberían haber ocurrido en presencia de servicios de salud eficaces, con exámenes rutinarios para la detección temprana y tratamientos adecuados;
+XIII. Muertes evitables: el conjunto de muertes que no deberían haber ocurrido en presencia de servicios de salud eficaces, con exámenes rutinarios para la detección temprana y tratamientos adecuados;
 
-XIII. Perspectiva de género: la visión científica, analítica y política sobre las mujeres y los hombres, que propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad, la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades, para acceder al desarrollo social y la representación en los ámbitos de toma de decisiones;
+XIV. Perspectiva de género: la visión científica, analítica y política sobre las mujeres y los hombres, que propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad, la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades, para acceder al desarrollo social y la representación en los ámbitos de toma de decisiones;
 
-XIV. Programa Estatal: el Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres en el Estado de Guanajuato;
+XV. Programa Estatal: el Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres en el Estado de Guanajuato;
 
-XV. Refugio: los albergues o establecimientos constituidos para la atención y protección de las víctimas y sus hijos menores e incapaces;
+XVI. Refugio: los albergues o establecimientos constituidos para la atención y protección de las víctimas y sus hijos menores e incapaces;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JUNIO DE 2025)</small>
 
-XVI. Secretaría: La Secretaría de las Mujeres;
+XVII. Secretaría: La Secretaría de las Mujeres;
 
-XVII. Sistema Estatal: el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+XVIII. Sistema Estatal: el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
-XVIII. Sistema Nacional: el Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+XIX. Sistema Nacional: el Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
-XIX. Víctima: la mujer de cualquier edad a quien se le inflige cualquier tipo de violencia, así como sus familiares o personas que tengan o hayan tenido relación o convivencia con la misma y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo de la violencia ejercida en su contra; y
+XX. Víctima: la mujer de cualquier edad a quien se le inflige cualquier tipo de violencia, así como sus familiares o personas que tengan o hayan tenido relación o convivencia con la misma y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo de la violencia ejercida en su contra; y
 
 > <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2019)</small>
 
-XX. Violencia contra las mujeres: acción u omisión por cualquier medio que les cause a las mujeres daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público.
+XXI. Violencia contra las mujeres: acción u omisión por cualquier medio que les cause a las mujeres daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público.
 
 Principios rectores
 
@@ -431,9 +435,9 @@ X. La Secretaría, quien ocupará la Secretaría Ejecutiva del Consejo;
 
 XI. El Instituto para el Desarrollo y Atención a las Juventudes;
 
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2025)</small>
 
-XII. El Sistema para el Desarrollo Integral de la Familia;
+XII. La persona titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato;
 
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
@@ -743,13 +747,21 @@ VII. Garantizar que la Unidad de Atención a la Violencia de Genero brinde la at
 
 VIII. Las demás previstas para el cumplimiento de esta Ley.
 
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+Para los efectos de las fracciones I y II, deberá tomar en consideración, entre otros, la promoción de las masculinidades positivas e igualitarias.
+
 #### Sección Quinta. Facultades del titular de la Secretaría de Educación
 
-Facultades del Secretario de Educación
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+Facultades de la persona titular de la Secretaría de Educación
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 20.
 
-El titular de la Secretaría de Educación ejercerá las siguientes facultades:
+La persona titular de la Secretaría de Educación ejercerá las siguientes facultades:
 
 I. Desarrollar programas educativos que fomenten la cultura de una vida libre de violencia contra las mujeres, así como el respeto a sus derechos humanos;
 
@@ -769,9 +781,13 @@ V. Garantizar acciones y mecanismos que favorezcan la incorporación de las muje
 
 VI. Garantizar el derecho de las niñas y mujeres a la educación, a la alfabetización y al acceso, permanencia y terminación de estudios;
 
-VII. Diseñar y difundir materiales educativos que promuevan la prevención y atención de la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2025)</small>
 
-VIII. Realizar acciones formativas a todo el personal de los centros educativos, en materia de derechos humanos de las mujeres, y políticas de prevención, atención, sanción y erradicación de la violencia contra éstas;
+VII. Diseñar y difundir materiales educativos que promuevan la prevención y atención de la violencia contra las mujeres, incluyendo la promoción y fomento de las masculinidades positivas e igualitarias;
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+VIII. Realizar acciones formativas a todo el personal de los centros educativos, en materia de derechos humanos de las mujeres, masculinidades positivas e igualitarias, y políticas de prevención, atención, sanción y erradicación de la violencia contra éstas;
 
 IX. Formular y aplicar modelos de detección de la violencia contra las mujeres en los centros educativos y dar parte a las autoridades competentes;
 
@@ -939,13 +955,21 @@ XIV. Impulsar mecanismos de prevención, promoción, difusión y respeto de los 
 
 XV. Proponer a las autoridades competentes mecanismos que promuevan el empoderamiento; y
 
-XVI. Las demás previstas para el cumplimiento de esta Ley.
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+XVI. Diseñar y ofrecer, en coordinación con la Secretaría de Seguridad y Paz, programas que brinden servicios reeducativos integrales, especializados y gratuitos a la persona agresora para erradicar las conductas violentas a través de una educación que elimine los estereotipos de supremacía masculina, y los patrones machistas que generaron su violencia, tomando en consideración las masculinidades positivas e igualitarias; y
+
+XVII. Las demás previstas para el cumplimiento de esta Ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE OCTUBRE DE 2020)</small>
 
-#### Sección Duodécima. Facultades del titular (sic) Sistema para el Desarrollo Integral de la Familia
+#### Sección Duodécima. Facultades de la persona titular de la Dirección General Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato
 
-Facultades del titular del Sistema para el Desarrollo Integral de la Familia
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+Facultades de la persona titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 25.
 
@@ -961,9 +985,11 @@ IV. Distribuir instrumentos y diseñar campañas de prevención de la violencia 
 
 V. Las demás que señale esta Ley y demás disposiciones legales.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 26.
 
-El titular del Sistema para el Desarrollo Integral de la Familia ejercerá las siguientes facultades:
+La persona titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato ejercerá las siguientes facultades:
 
 I. Integrar en las políticas públicas en materia de protección de las mujeres y la familia, la prevención, atención, sanción y erradicación de la violencia contra las mujeres con perspectiva de género;
 
@@ -973,7 +999,7 @@ III. Proponer al Consejo Estatal medidas, acciones, estrategias y metas que debe
 
 IV. Canalizar a refugios públicos o privados a las víctimas y, en su caso, a sus hijos e hijas en estado de riesgo, y dar seguimiento hasta su reintegración al medio socio-familiar;
 
-V. Diseñar y ofrecer programas que brinden servicios reeducativos integrales para las víctimas y al agresor relacionados con violencia intrafamiliar, en coordinación con otras dependencias y entidades del Estado y los municipios, y con el apoyo de los colegios de profesionistas y universidades públicas y privadas;
+V. (DEROGADA, P.O. 11 DE DICIEMBRE DE 2025)
 
 VI. Diseñar y difundir campañas de prevención de la violencia contra las mujeres, de conformidad con el Programa Estatal;
 
@@ -1932,3 +1958,11 @@ Cuando el liquidador haya regularizado los bienes, derechos y obligaciones, así
 Referencias
 
 Artículo Tercero. Para todos los efectos legales correspondientes, las referencias al Instituto para las Mujeres Guanajuatenses, contenidas en otros decretos, reglamentos, convenios, u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuados a la Secretaría de las Mujeres.
+
+P.O. 11 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 109 DE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
