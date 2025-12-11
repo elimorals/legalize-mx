@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-marina-149712"
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-06-07"
-last_updated: "2022-11-24"
+last_updated: "2025-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149712&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2021-06-02"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE MARINA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE MARINA, PUBLICADO EN EL D.O.F. DE 11 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE MARINA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE DICIEMBRE DE 2025 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 7 de junio de 2021.
 
@@ -1518,3 +1520,23 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los asuntos que se encuentren en trámite o pendientes de resolución al momento de la entrada en vigor del presente decreto, serán atendidos y resueltos por las unidades administrativas que resulten competentes conforme a lo previsto en este ordenamiento.
 
 TERCERO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto deberán cubrirse con cargo al presupuesto aprobado a la Secretaría de Marina en el Presupuesto de Egresos de la Federación correspondiente, por lo que no se requerirá de ampliaciones presupuestales y no se incrementará su presupuesto regularizable durante el presente ejercicio fiscal.
+
+D.O.F. 11 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE MARINA”.]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo dispuesto en el Transitorio Cuarto del presente reglamento.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Marina, publicado el 7 de junio de 2021 en el Diario Oficial de la Federación.
+
+TERCERO. Se derogan todas aquellas disposiciones administrativas que se opongan al presente reglamento.
+
+CUARTO. Las referencias que se hagan de las personas servidoras públicas o unidades administrativas de la Secretaría de Marina, cuya denominación, funciones o atribuciones se vean modificadas con motivo de la entrada en vigor del presente reglamento, se entenderán referidas a las personas servidoras públicas y unidades administrativas que, conforme al mismo, sean competentes en la materia que se trate.
+
+QUINTO. Las erogaciones que deriven por la implementación del presente Decreto se cubrirán con cargo al presupuesto aprobado de la Secretaría de Marina, por lo que no se autorizarán ampliaciones líquidas de recursos a su presupuesto en el presente ejercicio fiscal ni en años subsecuentes.
+
+Las modificaciones a la estructura orgánica de la Secretaría de Marina que deriven por la entrada en vigor del presente Decreto se llevarán a cabo mediante movimientos compensados en términos de las disposiciones aplicables, por lo que no se debe incrementar el presupuesto aprobado en el capítulo de servicios personales para el presente ejercicio fiscal, ni el presupuesto regularizable de servicios personales y de gasto de operación de dicha Secretaría para ejercicios fiscales subsecuentes.
+
+SEXTO. La Secretaría de Marina, por conducto de su Oficialía Mayor, en un plazo no mayor a ciento ochenta días naturales a partir de la fecha de publicación del presente ordenamiento, deberán realizarse las adecuaciones a los cuerpos normativos que deriven del presente reglamento.
+
+SÉPTIMO. Los asuntos que se encuentren pendientes de resolución a la entrada en vigor del presente reglamento, que conforme al mismo deban pasar de una unidad administrativa a otra, continuarán su trámite y serán resueltos por aquella a la que este ordenamiento le atribuya la competencia respectiva, dichos procedimientos deberán ser resueltos bajo la normatividad aplicable al inicio del procedimiento.
