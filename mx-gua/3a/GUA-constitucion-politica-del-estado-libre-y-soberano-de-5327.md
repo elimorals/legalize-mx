@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2025-11-24"
+last_updated: "2025-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -154,6 +154,10 @@ Toda persona que realice labores de búsqueda de personas desaparecidas tendrá 
 > <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
 
 Toda persona tiene derecho a ser buscada, el Estado garantizará las acciones de búsqueda, localización e identificación en los términos establecidos por las leyes y protocolos en la materia.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+El Estado garantizará el derecho a la ciudad.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -4788,5 +4792,11 @@ Artículo Único. El presente Decreto entrará en vigor al día siguiente de su 
 P.O. 24 DE NOVIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 105 DE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE REFORMAN LOS ARTÍCULOS 1, PÁRRAFO SEXTO, 2, PÁRRAFO NOVENO, 11, PÁRRAFO CUARTO, 95, PÁRRAFO SEXTO Y 134; Y SE ADICIONAN UN PÁRRAFO SÉPTIMO, RECORRIENDO EN SU ORDEN LOS SUBSIGUIENTES AL ARTÍCULO 1, Y UN PÁRRAFO DUODÉCIMO AL ARTÍCULO 2 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 11 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 107 DE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 1 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
