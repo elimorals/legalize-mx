@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-espacios-culturales-independientes-1683
 country: "mx"
 rank: "reglamento"
 publication_date: "2023-10-26"
-last_updated: "2023-10-26"
+last_updated: "2025-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168306&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2023-10-25"
 
 REGLAMENTO DE LA LEY DE ESPACIOS CULTURALES INDEPENDIENTES DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE DICIEMBRE DE 2025.
 
 Reglamento publicado en el Número 1222 Bis de la Gaceta Oficial de la Ciudad de México, el jueves 26 de octubre de 2023.
 
@@ -130,39 +130,55 @@ Para solicitar su registro, la persona representante o responsable del ECI deber
 
 I. Formato de solicitud de Registro del ECI debidamente requisitado;
 
-II. Documento de designación de la persona o personas responsables del ECI con la debida documentación que la acredite;
+> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 2025)</small>
+
+II. En caso de estar constituido legalmente como persona moral, se deberá presentar Acta Constitutiva y/o poder notarial.
+
+En caso de no estar constituido legalmente como persona moral, se deberá presentar un documento que acredite la designación de la persona o personas responsables del ECI.
+
+En ambos casos, deberá acompañarse con identificación oficial vigente y Constancia de Situación Fiscal del representante legal o de la persona o personas designadas.
 
 III. Manifiesto fundacional, en su caso;
 
-IV. En caso de estar constituido legalmente como persona moral, presentar acta constitutiva y poder notarial del representante legal;
+IV. (DEROGADA, G.O. 11 DE DICIEMBRE DE 2025)
 
-V. Nombres e identificación oficial de las y los responsables del ECI o, en su caso, del representante legal;
+V. (DEROGADA, G.O. 11 DE DICIEMBRE DE 2025)
 
-VI. Registro Federal de Contribuyentes de la o las personas responsables del colectivo u organización del ECI o, en su caso, de la persona moral;
+VI. (DEROGADA, G.O. 11 DE DICIEMBRE DE 2025)
 
-VII. En caso de inmuebles propiedad privada, documento vigente con el que se acredite la relación jurídica con el inmueble donde se desarrollan las actividades del ECI;
+> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 2025)</small>
+
+VII. Tratándose de inmuebles de propiedad privada, se deberá presentar un documento vigente que acredite la relación jurídica que permite el uso del inmueble donde se desarrollan las actividades del ECI.
+
+En el caso de inmuebles de propiedad pública o social, se deberá presentar un instrumento jurídico válido emitido por la autoridad competente que acredite la cesión, uso temporal o permiso de ocupación del inmueble, tales como convenios, permisos o constancias emitidas por la entidad administradora del espacio.
 
 VIII. Aviso o permiso de funcionamiento del establecimiento, de conformidad con la Ley de Establecimientos Mercantiles de la Ciudad de México;
 
-IX. Constancia de aprobación del Programa Interno de Protección Civil o, en su caso, constancia de no obligatoriedad del mismo;
+> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 2025)</small>
+
+IX. Constancia de registro o, en su caso, constancia de captura del Programa Interno de Protección Civil, o carta compromiso firmada por la persona responsable del ECI. Asimismo, podrá presentarse la constancia de no obligatoriedad expedida por la autoridad competente, en formato electrónico o físico.
+
+En caso de no presentarse la documentación señalada en la forma y plazos establecidos, se cancelará el registro del ECI.
 
 X. En su caso, documento que avale la pertenencia a colectivos u organizaciones de ECI nacionales o internacionales;
 
 XI. Reglamento Interno del ECI;
 
-XII. Cuestionario de diagnóstico de ECI debidamente llenado;
+XII. (DEROGADA, G.O. 11 DE DICIEMBRE DE 2025)
 
 XIII. Fotografías del lugar (interiores y exteriores) libres de derechos de autor;
 
 XIV. Ubicación y superficie total del ECI;
 
-XV. Documentos probatorios de la programación de actividades culturales realizadas en el ECI durante el año previo a la presentación de la solicitud de Registro, y
+XV. (DEROGADA, G.O. 11 DE DICIEMBRE DE 2025)
 
 XVI. Cualquier otro elemento que consideren acredita su existencia como ECI.
 
 El trámite para el otorgamiento de las Constancias de Registro de los ECI será gratuito.
 
-La Secretaría brindará la asesoría correspondiente a todas las personas interesadas para integrar debidamente su solicitud de registro en el Sistema.
+> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 2025)</small>
+
+La Secretaría, brindará asesoría técnica a todas las personas interesadas para integrar debidamente su solicitud de registro en el Sistema Integral de Información de los ECI.
 
 La aprobación del registro estará sujeta al cumplimiento de los lineamientos señalados en el artículo 10, fracción VI de este reglamento.
 
@@ -467,3 +483,13 @@ El Programa de Difusión estará orientado a la promoción y difusión de los EC
 ###### Artículo 50.
 
 Con la finalidad de articular los programas y garantizar la atención de los ECI, la Secretaría contará con una oficina de atención dedicada a la asesoría, orientación y acompañamiento.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 11 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES II, VII, IX Y TERCER PÁRRAFO Y SE DEROGAN LAS FRACCIONES IV, V, VI, XII Y XV DEL ARTÍCULO 9 DEL REGLAMENTO DE LA LEY DE ESPACIOS CULTURALES INDEPENDIENTES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
