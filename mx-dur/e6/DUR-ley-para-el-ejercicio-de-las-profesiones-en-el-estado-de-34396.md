@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-el-ejercicio-de-las-profesiones-en-el-estado-de-34396"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-24"
-last_updated: "2024-05-19"
+last_updated: "2025-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 24 de Agosto de 2003.
 
@@ -326,6 +326,14 @@ Además, se permitirá conmutar el servicio social a los estudiantes de instituc
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE NOVIEMBRE DE 2023)</small>
 
 Para efectos de lo mencionado en el párrafo anterior, las instituciones académicas podrán realizar convenios de colaboración entre ellas, con los entes públicos mencionados y con la dirección estatal y las direcciones municipales de protección civil.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+Las instituciones educativas podrán implementar la modalidad de servicio social mediante tutorías o la impartición de pasantías de matemáticas, lengua extranjera, química, física, biología y, en general, de las diferentes materias y ramas del conocimiento, en favor de estudiantes de inferior o similar nivel educativo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+El servicio social se podrá prestar en modalidad presencial, semi presencial o mixto, o a distancia mediante el uso y aplicación de las tecnologías de la información y comunicación.
 
 ### CAPÍTULO VI. DE LOS COLEGIOS DE PROFESIONISTAS
 
@@ -962,6 +970,14 @@ SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente 
 P.O. 19 DE MAYO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 566 QUE CONTIENE ADICIONES AL ARTÍCULO 7 DE LA LEY PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se contravengan al contenido del presente decreto.
+
+P.O. 11 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 288 QUE CONTIENE REFORMA AL ARTICULO 28 DE LA LEY PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE DURANGO".]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
