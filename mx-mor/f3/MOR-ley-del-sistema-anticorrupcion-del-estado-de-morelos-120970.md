@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-sistema-anticorrupcion-del-estado-de-morelos-120970"
 country: "mx"
 rank: "ley"
 publication_date: "2017-04-19"
-last_updated: "2017-04-19"
+last_updated: "2025-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado Libre y Soberano de Morelos, el miércoles 19 de abril de 2017.
 
@@ -37,7 +37,7 @@ LA QUINCUAGÉSIMA TERCERA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO D
 
 ANTECEDENTES
 
-[…]
+[...]
 
 Por lo anteriormente expuesto, esta LIII Legislatura ha tenido a bien expedir la siguiente:
 
@@ -409,9 +409,11 @@ V. Transparencia y acceso a la información pública, conforme a la ley de la ma
 
 El órgano interno de control no podrá realizar auditorías o investigaciones encaminadas a revisar aspectos distintos a los señalados expresamente en este artículo.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 28.
 
-La persona titular del órgano interno de control de la Secretaría Ejecutiva, será designado por el Congreso del Estado con el voto de las dos terceras partes de sus miembros de una terna propuesta y evaluada por la Comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado; durará tres años en el cargo y sólo podrá ser designado para un periodo más. Estará adscrito administrativamente al órgano de gobierno de la Secretaría Ejecutiva y mantendrá la coordinación técnica necesaria con la Entidad Superior de Auditoría y Fiscalización.
+La persona titular del órgano interno de control de la Secretaría Ejecutiva, será designado por el Congreso del Estado con el voto de las dos terceras partes de sus miembros de una terna propuesta y evaluada por la Comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado; durará seis años en el cargo, pudiendo ser designado para un periodo más. Estará adscrito administrativamente al órgano de gobierno de la Secretaría Ejecutiva y mantendrá la coordinación técnica necesaria con la Entidad Superior de Auditoría y Fiscalización
 
 ###### Artículo 29.
 
@@ -493,7 +495,9 @@ II. Experiencia verificable de al menos cinco años en materias de transparencia
 
 III. Tener más de treinta y cinco años de edad, al día de la designación;
 
-IV. Poseer al día de la designación, con antigüedad mínima de diez años, título y cédula profesional de nivel licenciatura y contar con los conocimientos y experiencia relacionadas con la materia de esta Ley que le permitan el desempeño de sus funciones;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+IV. Poseer al día de la designación, con antigüedad mínima de cinco años, título profesional de nivel licenciatura y contar con los conocimientos y experiencia relacionadas con la materia de esta Ley que le permitan el desempeño de sus funciones;
 
 V. Gozar de buena reputación y no haber sido condenado por algún delito;
 
@@ -761,6 +765,18 @@ NOVENA. Una vez constituido el organismo descentralizado denominado Secretaría 
 
 DÉCIMA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente Reforma.
 
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+DÉCIMO PRIMERA. Dentro de los diez días hábiles posteriores a la entrada en vigor de la presente disposición transitoria, el Congreso del Estado deberá dar inicio al procedimiento establecido en el artículo 18 de la presente ley, priorizando dar continuidad hasta concluir con la designación de la comisión de selección.
+
+Una vez integrada, la Comisión de Selección designará a los integrantes del Comité de Participación Ciudadana en los términos siguientes:
+
+a. Tres integrantes que durarán en su encargo cinco años, y
+
+b. Dos integrantes que durarán en su encargo cuatro años.
+
+Los integrantes del Comité de Participación Ciudadana a que se refieren los incisos anteriores se rotarán la representación ante el Comité Coordinador por estricto orden alfabético, iniciando por los integrantes que durarán en su cargo tres años.
+
 Recinto Legislativo, en Sesión Ordinaria a los diecisiete días del mes de abril del año dos mil diecisiete.
 
 Atentamente. Los CC. Diputados Integrantes de la Mesa Directiva del Congreso del Estado. Dip. Hortencia Figueroa Peralta. Vicepresidenta en funciones de Presidenta. Dip. Silvia Irra Marín. Secretaria. Dip. Edith Beltrán Carrillo. Secretaria. Rúbricas.
@@ -780,3 +796,27 @@ SECRETARIO DE GOBIERNO
 M.C. MATÍAS QUIROZ MEDINA
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS CUARENTA Y OCHO.- POR EL QUE SE REFORMA EL ARTÍCULO 28 Y SE ADICIONA UNA DISPOSICIÓN TRANSITORIA DÉCIMO PRIMERA A LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo Estatal de Morelos, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente decreto.
+
+CUARTA. Todos los actos que se realizaron previos a la entrada en vigor del presente Decreto, tendientes a la designación a que se refiere el artículo 28 de la Ley que se reforma, quedan convalidados en términos de los dispuesto por la Constitución Política del Estado Libre y Soberano de Morelos como norma superior.
+
+P.O. 11 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO NOVECIENTOS TREINTA Y OCHO.- POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 36 DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto a la Persona Titular del Poder Ejecutivo Estatal de Morelos, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
