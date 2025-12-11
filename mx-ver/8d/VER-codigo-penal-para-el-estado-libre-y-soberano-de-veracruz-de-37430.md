@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2025-10-31"
+last_updated: "2025-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE DICIEMBRE DE 2025.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -387,9 +387,15 @@ II. De los delitos establecidos en los siguientes ordenamientos:
 
 a) Defraudación Fiscal y su equiparable, previstos en el artículo 96 del Código Financiero para el Estado de Veracruz de Ignacio de la Llave;
 
-b) Trata de personas, previsto en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos en el Estado de Veracruz de Ignacio de la Llave; y
+> <small>(REFORMADO, G.O. 11 DE DICIEMBRE DE 2025)</small>
 
-c) En los demás casos expresamente previstos en la legislación aplicable.
+b) Trata de personas, previsto en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos en el Estado de Veracruz de Ignacio de la Llave;
+
+> <small>(ADICIONADO, G.O. 11 DE DICIEMBRE DE 2025)</small>
+
+c) Extorsión, previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; y
+
+d) En los demás casos expresamente previstos en la legislación aplicable.
 
 ## TÍTULO III. DE LAS CONSECUENCIAS JURÍDICAS DEL DELITO
 
@@ -1729,63 +1735,21 @@ Si se emplea violencia o se realiza por dos o más personas, las penas se increm
 
 Este delito se perseguirá por querella.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 11 DE MARZO DE 2021)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 11 DE DICIEMBRE DE 2025)</small>
 
 ### CAPÍTULO X. EXTORSIÓN
 
-> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
-
 ###### Artículo 176 Bis.
 
-A quien por cualquier medio obligue a otro a dar, hacer, dejar de hacer o tolerar algo en su perjuicio o de un tercero, para procurarse a sí mismo o a otro un lucro indebido, o para causar un daño, se le impondrán de cinco a diez años de prisión y multa de cien hasta quinientas unidades de medida y actualización diarias.
-
-Se le aplicará al responsable de este delito, además de las sanciones anteriores, de dos a seis años de prisión cuando se actualice cualquiera de las siguientes hipótesis:
-
-I. Intervenga más de una persona;
-
-II. Se realice por una o más personas armadas o bien portando instrumentos peligrosos;
-
-III. Se emplee violencia física o psicológica;
-
-IV. Se emplee cualquier mecanismo o amenaza, para hacer creer a la víctima la supuesta intervención en el delito de algún grupo vinculado a la delincuencia organizada, sin que ello sea cierto, aun cuando sea únicamente para lograr que la víctima acceda de manera pronta y con mayor facilidad a alguna de las peticiones que se le hagan o bien para que no denuncie el hecho;
-
-V. Cuando la víctima sea una persona adulta mayor o sea mujer embarazada, o sea persona menor de dieciocho años;
-
-VI. Que se allane el inmueble de la víctima o donde ésta se encuentre para ejercer la conducta delictiva;
-
-VII. Que el o los autores tengan vínculos de parentesco, amistad, gratitud, confianza o relación laboral con la víctima o persona relacionada con ésta; o
-
-VIII. Si el sujeto activo por extorsión telefónica o por cualquier medio electrónico fuere interno procesado o sentenciado.
-
-> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
+(DEROGADO, G.O. 11 DE DICIEMBRE DE 2025)
 
 ###### Artículo 176 Ter.
 
-Comete el delito de extorsión en contra de la comunidad comercial o del trabajo, quien por medio de la violencia física o psicológica, de la amenaza o de la acechanza, obligue a otro en el momento de ejercer su actividad comercial, de negocios, profesional, industrial o de trabajo lícitos o con motivo o a causa de ésta, a dar, hacer, dejar de hacer o tolerar algo en su perjuicio o de otro, para procurarse a sí mismo o a otro un lucro indebido o para causar un daño; se le impondrá una sanción de diez a quince años de prisión y multa de doscientas a cuatrocientas veces el valor de la unidad de medida y actualización diaria.
-
-Además de las penas señaladas en este artículo, se impondrá al responsable una sanción de tres a cinco años de prisión y multa de doscientos ochenta y ocho a setecientas veinte veces el valor de la unidad de medida y actualización diaria, cuando en la comisión del delito se actualice cualquiera de los siguientes supuestos:
-
-I. Cuando la víctima tenga a su servicio a uno o más trabajadores en el negocio, comercio, industria, profesión o trabajo lícitos;
-
-II. El sujeto activo se ostente, por cualquier medio, como integrante de una pandilla, asociación delictuosa o delincuencia organizada, real o ficticia, de cualquier denominación;
-
-III. Si el sujeto activo fuera condenado por delito doloso por sentencia irrevocable;
-
-IV. El sujeto activo del delito haya conseguido o manifieste su pretensión en adquirir de forma continua, constante o periódica, dinero, bienes o servicios por concepto de cobro de cuotas de cualquier índole, o servicios adicionales a los obtenidos originalmente por el ilícito;
-
-V. Se realice por vía telefónica, correo electrónico o cualquiera otro medio, aplicación o sistema de comunicación electrónico o digital, o por medios impresos;
-
-VI. Que la víctima suspenda o cierre parcial o totalmente sus actividades comerciales, de negocios, industriales o profesionales, o renuncie al trabajo, como consecuencia del delito; o
-
-VII. Que se realice a través de cualquier otra circunstancia que disminuya las posibilidades de defensa o protección del sujeto pasivo o lo ponga en condiciones de riesgo o desventaja.
-
-> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
+(DEROGADO, G.O. 11 DE DICIEMBRE DE 2025)
 
 ###### Artículo 176 Quáter.
 
-Las penas previstas en los Artículos 176 Bis y 176 Ter se duplicarán cuando quienes lo cometan, sean o hayan sido servidores públicos o integrantes de alguna institución de Seguridad pública o privada, o de las fuerzas armadas, o de procuración o administración de justicia, o se ostente como tales sin serlo. Además, se impondrá la destitución del empleo, cargo o comisión, y se inhabilitará de seis a diez años para desempeñarse en cualquier cargo público municipal o estatal.
-
-Al responsable de tentativa en las conductas señaladas en los artículos 176 bis, 176 ter y en el párrafo anterior de este artículo, se le aplicará una pena de prisión que no será menor a la pena mínima y podrá llegar hasta las tres cuartas partes de la sanción máxima prevista para esos delitos consumados, respectivamente.
+(DEROGADO, G.O. 11 DE DICIEMBRE DE 2025)
 
 ### CAPÍTULO I. VIOLACIÓN DE LA INTIMIDAD
 
@@ -5627,21 +5591,29 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN EL PÁRRAFO DÉCIMO DEL ARTÍCULO 25 Y LA FRACCIÓN XXIX-Y DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE SIMPLIFICACIÓN ADMINISTRATIVA Y DIGITALIZACIÓN”.]
+G.O. 11 DE DICIEMBRE DE 2025.
 
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 274 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL, DE LA LEY ÓRGÁNICA DEL PODER EJECUTIVO Y DE LA LEY ÓRGÁNICA DE LA FISCALÍA GENERAL, TODOS ORDENAMIENTOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN MATERIA DE ARMONIZACIÓN NACIONAL DEL DELITO DE EXTORSIÓN”.]
 
-Segundo.- En un plazo que no excederá de noventa días naturales siguientes a la entrada en vigor del presente Decreto, el Congreso de la Unión expedirá la legislación a que se refiere el artículo 73, fracción XXIX-Y, de esta Constitución.
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
-Tercero.- La ley nacional a que se refiere el artículo 73, fracción XXIX-Y, de esta Constitución deberá considerar al menos lo siguiente:
+Segundo. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, a partir de la entrada en vigor de este Decreto, el órgano jurisdiccional podrá efectuar la traslación del tipo en beneficio de la persona a sentenciar, de conformidad con la conducta delictiva de extorsión, sus modalidades o agravantes que se hayan acreditado.
 
-1. Un modelo nacional de simplificación y digitalización de trámites y servicios;
+Tratándose de persona sentenciada, el juez de ejecución podrá considerar la revisión de las penas que se hayan impuesto para efectuar, en su caso, la traslación del tipo, siempre que la conducta, modalidades o agravantes procedan y resulten en su beneficio.
 
-2. Establecer la autoridad nacional en materia de simplificación administrativa y digitalización de trámites y servicios, buenas prácticas regulatorias, desarrollo y fortalecimiento de capacidades tecnológicas y públicas, y
+Tercero. Las disposiciones relativas a los delitos de extorsión vigentes antes de la entrada en vigor del presente Decreto seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por el delito de extorsión, sus modalidades, agravantes y sanciones, salvo lo dispuesto en el artículo anterior en lo relativo a la traslación del tipo y adecuación de la pena.
 
-3. Prever herramientas de simplificación y digitalización de trámites y servicios.
+Los procedimientos penales en materia de extorsión, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del mismo.
 
-D.O.F. 9 DE OCTUBRE DE 2025.
+Cuarto. Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento, por lo que no incrementarán su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
+
+Quinto. En tanto se cree la Unidad Especializada en Atención al Delito de Extorsión, la Fiscalía General del Estado, a través de la Unidad Especializada en Combate al Secuestro dará atención al delito de extorsión.
+
+Sexto. En un periodo de ciento ochenta días hábiles, contados a partir de la publicación del presente Decreto, el Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias necesarias de conformidad con lo establecido en el presente Decreto.
+
+Séptimo. En un periodo de ciento ochenta días hábiles, contados a partir de la publicación del presente Decreto, la Fiscalía General del Estado deberá realizar las adecuaciones reglamentarias necesarias de conformidad con lo establecido en el presente Decreto.
+
+Octavo. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DECLARA REFORMADO EL INCISO A) DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE EXTORSIÓN”.]
 
