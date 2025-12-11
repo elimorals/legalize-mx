@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-responsabilidades-administrativas-para-el-estado-de-1220
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-20"
-last_updated: "2024-02-29"
+last_updated: "2025-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122033&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Cuarta Parte al Número 98 del Periódico Oficial del Estado de Guanajuato, el martes 20 de junio de 2017.
 
@@ -73,9 +73,13 @@ Para efectos de esta Ley se entenderá por:
 
 I. Auditoría Superior: La Auditoría Superior del Estado;
 
-II. Autoridad investigadora: La autoridad en la Secretaría de la Transparencia y Rendición de Cuentas, los Órganos internos de Control, la Auditoría Superior del Estado, encargada de la investigación de faltas administrativas;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2025)</small>
 
-III. Autoridad substanciadora: La autoridad en la Secretaría de la Transparencia y Rendición de Cuentas, los Órganos Internos de Control, la Auditoría Superior del Estado que, en el ámbito de su competencia, dirigen y conducen el procedimiento de responsabilidades administrativas desde la admisión del Informe de presunta responsabilidad administrativa y hasta la conclusión de la audiencia inicial. La función de la Autoridad substanciadora, en ningún caso podrá ser ejercida por una Autoridad investigadora;
+II. Autoridad investigadora: La autoridad en la Secretaría de la Honestidad, los Órganos Internos de Control, la Auditoría Superior del Estado, encargada de la investigación de faltas administrativas;
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+II. Autoridad investigadora: La autoridad en la Secretaría de la Honestidad, los Órganos Internos de Control, la Auditoría Superior del Estado, encargada de la investigación de faltas administrativas;
 
 IV. Autoridad resolutora: Tratándose de faltas administrativas no graves lo será la unidad de responsabilidades administrativas o el servidor público asignado en los Órganos Internos de Control. Para las faltas administrativas graves, así como para las faltas de particulares, lo será el Tribunal de Justicia Administrativa;
 
@@ -113,7 +117,9 @@ XX. Órganos internos de control: Las unidades administrativas a cargo de promov
 
 XXI. Plataforma digital Estatal: La plataforma a que se refiere la Ley General del Sistema Estatal Anticorrupción, que contará con los sistemas que establece la referida ley, así como los contenidos previstos en la presente Ley;
 
-XXII. Secretaría: La Secretaría de la Transparencia y Rendición de Cuentas del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+XXII. Secretaría: La Secretaría de la Honestidad del Poder Ejecutivo;
 
 XXIII. Servidores Públicos: Las personas que desempeñan un empleo, cargo o comisión en los entes públicos, conforme a lo dispuesto en el artículo 122 de la Constitución;
 
@@ -185,7 +191,9 @@ III. La Auditoría Superior del Estado;
 
 IV. El Tribunal; y
 
-V. Tratándose de las responsabilidades administrativas de los Servidores Públicos del poder judicial, será competente para investigar e imponer las sanciones que correspondan, el consejo del poder judicial, de acuerdo a lo previsto en el artículo 83 de la Constitución. Lo anterior, sin perjuicio de las atribuciones de la Auditoría Superior del Estado, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+V. Tratándose de las responsabilidades administrativas de las personas servidoras públicas del Poder Judicial, será competente para investigar e imponer las sanciones que correspondan, la instancia que señale la Constitución, y la Ley Orgánica del Poder Judicial. Lo anterior, sin perjuicio de las atribuciones de la Auditoría Superior del Estado, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
 
 ###### Artículo 10.
 
@@ -534,6 +542,20 @@ La restricción prevista en el artículo anterior será aplicable inclusive cuan
 ###### Artículo 57.
 
 Incurrirá en abuso de funciones el servidor público que ejerza atribuciones que no tenga conferidas o se valga de las que tenga, para realizar o inducir actos u omisiones arbitrarios, para generar un beneficio para sí o para las personas a las que se refiere el artículo 52 de esta Ley o para causar perjuicio a alguna persona o al servicio público; así como cuando realice por sí o a través de tercera persona, alguna de las conductas descritas en el artículo 20 ter de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, como violencia política y sus formas de comisión.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+Artículo 57 bis. Cometerá acoso sexual quien, con fines sexuales o lascivos, asedie, produzca desventaja, indefensión o riesgo inminente para la persona, independientemente de que el comportamiento ocurra en uno o varios eventos, incluso si no existe una relación de subordinación
+
+Se equipara al acoso sexual, independiente de que exista o no reiteración, las conductas que lleve a cabo la persona servidora pública que:
+
+l. Realice actos que impliquen violencia sexual hacia otra persona servidora pública, en los términos del artículo 6, fracción V de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
+
+II. Realice actos de violencia sexual hacia otra persona que no sea servidora pública, valiéndose de su empleo, cargo o comisión en el servicio público;
+
+III. Participe directa o indirectamente en la realización de conductas de acoso sexual, así como cualquiera de las referidas en el presente artículo; y
+
+IV. Grabe, reproduzca, fije, publique, ofrezca, almacene, exponga, envíe, transmita, importe o exporte de cualquier forma, imágenes, texto, sonidos o la voz, de una persona sea servidora pública o no, en forma directa, informática, audiovisual, visual o por cualquier otro medio, sin consentimiento y con propósitos lascivos o eróticos.
 
 ###### Artículo 58.
 
@@ -1773,9 +1795,11 @@ Tratándose de los Servidores Públicos de base, la suspensión y la destitució
 
 #### Sección Segunda. Cumplimiento y ejecución de sanciones por Faltas administrativas graves y faltas de particulares
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 224.
 
-Las sanciones económicas impuestas por el Tribunal constituirán créditos fiscales a favor de la Hacienda Pública estatal o municipal, o del patrimonio de los entes públicos, según corresponda. Dichos créditos fiscales se harán efectivos mediante el procedimiento administrativo de ejecución, por la Secretaría de Finanzas, Inversión y Administración o, en su caso, por las tesorerías municipales según corresponda a la que será notificada la resolución emitida por el Tribunal.
+Las sanciones económicas impuestas por el Tribunal constituirán créditos fiscales a favor de la Hacienda Pública estatal o municipal, o del patrimonio de los entes públicos, según corresponda. Dichos créditos fiscales se harán efectivos mediante el procedimiento administrativo de ejecución, por la Secretaría de Finanzas o en su caso, por las tesorerías municipales según corresponda a la que será notificada la resolución emitida por el Tribunal
 
 ###### Artículo 225.
 
@@ -1783,9 +1807,13 @@ Cuando haya causado ejecutoria una sentencia en la que se determine la plena res
 
 I. Cuando el servidor público haya sido suspendido, destituido o inhabilitado, se dará vista a su superior jerárquico y a la Secretaría, y
 
-II. Cuando se haya impuesto una indemnización y/o sanción económica al responsable, se dará vista al Servicio de Administración Tributaria o a la Secretaría de Finanzas, Inversión y Administración.
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2025)</small>
 
-En el oficio respectivo, el Tribunal prevendrá a las autoridades señaladas para que informen, dentro del término de diez días, sobre el cumplimiento que den a la sentencia en los casos a que se refiere la fracción I de este artículo. En el caso de la fracción II, la Secretaría de Finanzas, Inversión y Administración informará al Tribunal una vez que se haya cubierto la indemnización y la sanción económica que corresponda.
+II. Cuando se haya impuesto una indemnización o sanción económica al responsable, se dará vista al Servicio de Administración Tributaria o a la Secretaría de Finanzas.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+En el oficio respectivo, el Tribunal prevendrá a las autoridades señaladas para que informen, dentro del término de diez días, sobre el cumplimiento que den a la sentencia en los casos a que se refiere la fracción I de este artículo. En el caso de la fracción II, la Secretaría de Finanzas, informará al Tribunal una vez que se haya cubierto la indemnización y la sanción económica que corresponda.
 
 ###### Artículo 226.
 
@@ -1793,7 +1821,9 @@ Cuando haya causado ejecutoria una sentencia en la que se determine la comisión
 
 I. Cuando el particular haya sido inhabilitado para participar con cualquier carácter en adquisiciones, arrendamientos, servicios u obras públicas, el Tribunal ordenará su publicación en el Periódico Oficial del Gobierno del Estado, y
 
-II. Cuando se haya impuesto una indemnización y/o sanción económica al responsable, se dará vista (sic) la Secretaría de Finanzas, Inversión y Administración.
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+II. Cuando se haya impuesto una indemnización o sanción económica al responsable, se dará vista a la Secretaría de Finanzas.
 
 ###### Artículo 227.
 
@@ -1854,5 +1884,11 @@ Artículo Único. El presente decreto entrará en vigor el día siguiente al de 
 P.O. 29 DE FEBRERO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 302 POR EL QUE SE REFORMAN LOS ARTÍCULOS 215 EN SUS PÁRRAFOS PRIMERO Y TERCERO Y 220; SE ADICIONAN LOS ARTÍCULOS 220 BIS, 220 TER, 220 CUÁTER, Y 220 QUINQUIES Y, SE DEROGA EL ARTÍCULO 221 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 11 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 108 DE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
