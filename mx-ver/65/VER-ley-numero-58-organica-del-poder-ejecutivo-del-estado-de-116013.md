@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2025-11-07"
+last_updated: "2025-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -613,13 +613,21 @@ XXI. Integrar y tener el mando y operación de la Unidad de Policía Científica
 
 XXII. Realizar los traslados ordenados por los órganos jurisdiccionales, de las personas privadas de su libertad a los recintos judiciales en donde se celebrarán sus audiencias, brindándoles la seguridad y custodia en dichos recintos; así como cumplir los mandamientos judiciales solicitados por las y los jueces y autoridades ministeriales;
 
+> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 2025)</small>
+
+XXIII. Coordinar, dirigir y supervisar la Unidad de Análisis e Inteligencia que estará bajo su adscripción con las facultades conferidas en la Ley del Sistema Estatal de Seguridad Pública para el Estado de Veracruz de Ignacio de la Llave y otras disposiciones aplicables;
+
+> <small>(ADICIONADA, G.O. 11 DE DICIEMBRE DE 2025)</small>
+
+XXIV. Adoptar, en el ámbito de sus respectivas competencias, las acciones necesarias para priorizar la prevención del delito de extorsión y supervisar que su personal se encuentre debidamente capacitado en su prevención;
+
+> <small>(ADICIONADA, G.O. 11 DE DICIEMBRE DE 2025)</small>
+
+XXV. Diseñar e implementar una estrategia para prevenir y combatir el delito de extorsión, misma que deberá estar alineada a los contenidos mínimos de la Estrategia Nacional a cargo de la Federación y cuyo diagnóstico deberá estar ajustado al contexto social y territorial del Estado; y
+
 > <small>(ADICIONADA, G.O. 31 DE MARZO DE 2021)</small>
 
-XXIII. Coordinar, dirigir y supervisar la Unidad de Análisis e Inteligencia que estará bajo su adscripción, con las facultades conferidas en la Ley del Sistema Estatal de Seguridad Pública para el Estado de Veracruz de Ignacio de la Llave y otras disposiciones aplicables, y
-
-> <small>(ADICIONADA, G.O. 31 DE MARZO DE 2021)</small>
-
-XXIV. Coordinar y supervisar la Unidad de Inteligencia Patrimonial y Económica que estará bajo su adscripción, para llevar a cabo las funciones y actividades conforme a la Ley del Sistema Estatal de Seguridad Pública para el Estado de Veracruz de Ignacio de la Llave y demás disposiciones legales y administrativas aplicables.
+XXVI. Coordinar y supervisar la Unidad de Inteligencia Patrimonial y Económica que estará bajo su adscripción, para llevar a cabo las funciones y actividades conforme a la Ley del Sistema Estatal de Seguridad Pública para el Estado de Veracruz de Ignacio de la Llave y demás disposiciones legales y administrativas aplicables.
 
 De la Secretaría de Finanzas y Planeación
 
@@ -3168,3 +3176,27 @@ G.O. 7 DE NOVIEMBRE DE 2025.
 Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en (sic) Gaceta Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan al presente Decreto.
+
+G.O. 11 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 274 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL, TODOS ORDENAMIENTOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN MATERIA DE ARMONIZACIÓN NACIONAL DEL DELITO DE EXTORSIÓN".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, a partir de la entrada en vigor de este Decreto, el órgano jurisdiccional podrá efectuar la traslación del tipo en beneficio de la persona a sentenciar, de conformidad con la conducta delictiva de extorsión, sus modalidades o agravantes que se hayan acreditado.
+
+Tratándose de persona sentenciada, el juez de ejecución podrá considerar la revisión de las penas que se hayan impuesto para efectuar, en su caso, la traslación del tipo, siempre que la conducta, modalidades o agravantes procedan y resulten en su beneficio.
+
+Tercero. Las disposiciones relativas a los delitos de extorsión vigentes antes de la entrada en vigor del presente Decreto seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por el delito de extorsión, sus modalidades, agravantes y sanciones, salvo lo dispuesto en el artículo anterior en lo relativo a la traslación del tipo y adecuación de la pena.
+
+Los procedimientos penales en materia de extorsión, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del mismo.
+
+Cuarto. Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento, por lo que no incrementarán su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
+
+Quinto. En tanto se cree la Unidad Especializada en Atención al Delito de Extorsión, la Fiscalía General del Estado, a través de la Unidad Especializada en Combate al Secuestro dará atención al delito de extorsión.
+
+Sexto. En un periodo de ciento ochenta días hábiles, contados a partir de la publicación del presente Decreto, el Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias necesarias de conformidad con lo establecido en el presente Decreto.
+
+Séptimo. En un periodo de ciento ochenta días hábiles, contados a partir de la publicación del presente Decreto, la Fiscalía General del Estado deberá realizar las adecuaciones reglamentarias necesarias de conformidad con lo establecido en el presente Decreto.
+
+Octavo. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
