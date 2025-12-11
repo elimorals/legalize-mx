@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-othon-p-blanco-del-estado-1321
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2024-06-05"
+last_updated: "2025-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE OTHÓN P. BLANCO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número 24 del Periódico Oficial del Estado de Quintana Roo, el lunes 31 de diciembre de 2018.
 
@@ -1105,53 +1105,57 @@ a) De interés social:
 
 b) De interés medio:
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
 
-1. Con más de 55m2 hasta 90m2 de construcción, se pagará por cada metro cuadrado de construcción: 0.16 UMA
+1. Con más de 55 m2 hasta 90 m2 de construcción, se pagará por cada metro cuadrado de construcción: 0.26 UMA
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
 
-2. Más de 90m2 y hasta 150m2 de construcción, se pagará por cada metro cuadrado de construcción: 0.18 UMA
+2. Más de 90 m2 y hasta 150 m2, se pagará por cada metro cuadrado de construcción: 0.28 UMA
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
 
-3. Más de 150m2 y hasta 250m2 de construcción, se pagará por cada metro cuadrado de construcción: 0.20 UMA
+3. Más de 150 m2 y hasta 250 m2 de construcción, se pagará por cada metro cuadrado de construcción: 0.30 UMA
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE DICIEMBRE DE 2021)</small>
 
 c) Residencial, de acuerdo a su ubicación, se pagará por cada metro cuadrado de construcción:
 
-1. Residencial Zona Urbana: 0.25 UMA
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+1. Residencial Zona Urbana: 0.35 UMA
 
-2. Residencial Zona Hotelera, zona de playa, ribera de zona lacustre: 0.30 UMA
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+2. Residencial Zona Hotelera, zona de playa, ribera de zona lacustre: 0.40 UMA
 
-3. Residencial en zona rural: 0.15 UMA
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+3. Residencial en zona rural: 0.25 UMA
 
-4. Residencial en zona campestre, u otras ubicaciones no señaladas anteriormente: 0.28 UMA
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
 
-d) Por revisión, validación y aprobación de planos:
+4. Residencial en zona campestre, u otras ubicaciones no señaladas anteriormente: 0.38 UMA
 
-1. En la primera planta, se cobrará por metro cuadrado (m2): 0.09 UMA
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
-
-2. En la segunda planta y niveles superiores, se cobrará por metro (m2): 0.11 UMA
+d) (DEROGADO, P.O. 11 DE DICIEMBRE DE 2025)
 
 II. Cuando se trate de edificaciones destinadas a fines comerciales y/o de servicios, industriales o de cualquier otra índole distinta a la establecida en la fracción anterior, se pagará por m2 de construcción:
 
-a) Comercial y/o de servicios Zona Urbana: 0.28 UMA
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
 
-b) Comercial y/o de servicios Zona Turística: 0.55 UMA
+a) Comercial y/o de servicios Zona Urbana: 0.38 UMA
 
-c) Comercial y/o de servicios en zona diversa a las anteriores: 0.25 UMA
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
 
-d) Industrial y cualquier otra índole: 0.6 UMA
+b) Comercial y/o de servicios Zona Turística: 0.65 UMA
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+c) Comercial y/o de servicios en zona diversa a las anteriores: 0.35 UMA
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+d) Industrial y cualquier otra índole: 0.70 UMA
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2021)</small>
 
@@ -1235,9 +1239,13 @@ No requerirán licencia ni autorizaciones las acciones establecidas como exentas
 
 Las licencias de demolición y para la realización de obras de infraestructura o servicios urbanos, se conferirán previa expedición de las autorizaciones correspondientes y causarán derechos conforme la tarifa siguiente:
 
-I. Cuando se trate de demolición de casa habitación, cualquiera que sea su tipo por m2: 0.17 UMA
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2025)</small>
 
-II. Tratándose de demoliciones en construcciones determinadas a fines distintos a lo señalado en la fracción anterior, se cobrará por m2: 0.39 UMA
+I. Cuando se trate de demolición de casa habitación, cualquiera que sea su tipo por m2: 0.27 UMA
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+II. Tratándose de demoliciones en construcciones determinadas a fines distintos a lo señalado en la fracción anterior, se cobrará por m2: 0.49 UMA
 
 III. Para realizar obras, modificaciones o reparaciones en la vía pública se cobrará por metro lineal: 0.06 UMA
 
@@ -1247,9 +1255,9 @@ IV. Cuando se ocupe la vía pública con instalaciones de servicio privado, cons
 
 V. Cuando se rompa el pavimento o se hagan cortes en las aceras y guarniciones de la vía pública para la ejecución de obras públicas y privadas se cobrarán por metro lineal: 0.6 UMA
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2025)</small>
 
-VI. Cuando se construyan instalaciones subterráneas en vía pública o de conexión a las redes de infraestructura y servicios públicos, se cobrarán por metro lineal: 1.00 UMA.
+VI. Cuando se construyan instalaciones subterráneas en vía pública o de conexión a las redes de infraestructura y servicios públicos, así como instalación de cableado en postes de servicio público, se cobrarán por metro lineal: 1.00 UMA
 
 Para los casos a que se refieren las fracciones V y VI de este artículo, el promotor entregará al Ayuntamiento, ante la autoridad que otorgó la autorización respectiva, fianza expedida por afianzadora legalmente autorizada a favor de la Tesorería Municipal, que garantice la correcta reparación de la vía pública por un importe del 50% del costo de obra.
 
@@ -1351,7 +1359,17 @@ V. Expedición de Constancias de No Inhabilitación expedidas por la Contralorí
 
 VI. Por la expedición certificada de cada disco compacto que contenga documentación expedida por el municipio: 1.00 UMA
 
-VII. Por expedición de Certificados expedidos por la Tesorería Municipal: 2.8 UMA
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+VII. Por expedición de Certificados expedidos por la Tesorería Municipal:
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+a) Certificado de no adeudo por concepto de cooperación por obra: 2.8 UMA
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+b) Certificado de no adeudo por concepto de Impuesto predial: 2.8 UMA
 
 ###### Artículo 86.
 
@@ -1463,19 +1481,27 @@ I. Alineación de predios:
 
 a) En las zonas urbanas y residenciales determinadas por la autoridad catastral:
 
-1. Con frente hasta de 20 metros: 2.2 a 9.7 UMA
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
 
-2. Con frente de más de 20 metros hasta 40 metros lineales: 6.6 UMA a 12.05 UMA
+1. Con frente hasta de 20 metros: 6.6 UMA
 
-3. Por cada metro adicional a los 40 metros de frente: 0.17 UMA
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
 
-b) En las zonas suburbanas y fuera de zonas residenciales determinadas por la autoridad catastral:
+2. Con frente de más de 20.01 metros hasta 40 metros lineales: 12.05 UMA
 
-1. Con frente hasta de 20 metros: 2.2 UMA a 6.6 UMA
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
 
-2. Con frente de más de 20 metros: 2.2 UMA a 6.6 UMA
+3. Por cada metro adicional a los 40.01 metros de frente: 0.17 UMA
 
-3. Régimen en condominio: 2.2 UMA a 6.6 UMA
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+b) En las zonas suburbanas y fuera de zona (sic) residenciales determinadas por la autoridad catastral: 6.6 UMA
+
+1. (DEROGADO, P.O. 11 DE DICIEMBRE DE 2025)
+
+2. (DEROGADO, P.O. 11 DE DICIEMBRE DE 2025)
+
+3. (DEROGADO, P.O. 11 DE DICIEMBRE DE 2025)
 
 II. Expedición:
 
@@ -1681,11 +1707,13 @@ e) Por el trámite de reconocimiento de validez de documentos de permisos, licen
 
 VI. Por concepto de actualización del titular o cambio de titular en una constancia de uso de suelo ya expedida, que no tenga una antigüedad mayor a 3 años en su fecha de expedición, y que se mantenga el giro o actividad, sin aumentos o disminuciones de giros: 12.00 UMA a 50.00 UMA
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 93.
 
-Los alineamientos, certificaciones, subdivisiones, fusiones, lotificaciones o fraccionamientos de predios tendrán una vigencia de seis meses contados a partir de la fecha de su expedición.
+Los alineamientos, subdivisiones, fusiones, lotificaciones o fraccionamientos de predios tendrán una vigencia de doce meses contados a partir de la fecha de su expedición.
+
+Las certificaciones y/o rectificaciones de medidas y colindancias, así como la asignación de claves y avalúos catastrales tendrán una vigencia de nueve meses contados a partir de la fecha de su expedición.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2022)</small>
 
@@ -2509,7 +2537,717 @@ IV. Por el servicio de mantenimiento de jardinería.
 
 El Municipio podrá delegar estas facultades en los concesionarios de estos servicios, en todos los rubros citados o por algunos de estos que consideren necesario.
 
-Están obligados a realizar el pago de este derecho, las personas físicas y morales que reciben los beneficios de recolección, transporte, tratamiento y destino final de residuos sólidos, en sus locales comerciales, industriales o de servicios, o en sus predios de uso habitacional.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+Están obligados a realizar el pago de este derecho, las personas físicas y morales que reciben los beneficios de recolección, transporte, tratamiento y destino final de residuos sólidos, en sus locales comerciales, industriales o de servicios, o en sus predios de uso habitacional, con base a las tarifas previstas en el siguiente:
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+TABULADOR DE TARIFAS POR CONCEPTO DE DERECHOS POR EL SERVICIO DE RECOLECCIÓN, TRANSPORTACIÓN, TRATAMIENTO Y DESTINO FINAL DE RESIDUOS SÓLIDOS DEL MUNICIPIO DE OTHÓN P. BLANCO, DEL ESTADO DE QUINTANA ROO.
+
+GIRO COMERCIAL, TARIFA MENSUAL
+
+INDUSTRIAL Y SERVICIO EN UMA
+
+ABARROTES
+
+ABARROTES 1.15
+
+MINISÚPER 1.15
+
+MINISÚPER CON VENTA DE LICORES 1.45
+
+SÚPER 40.00
+
+TIENDAS DEPARTAMENTALES DE
+
+AUTOSERVICIO 40.00
+
+TENDEJÓN 0.78
+
+ESCUELAS
+
+ACADEMIA COMERCIAL PARTICULAR 1.15
+
+ACADEMIA DE ARTES MARCIALES
+
+PARTICULAR 1.15
+
+ACADEMIA DE BAILE 1.15
+
+ACADEMIA DE MÚSICA 1.15
+
+ACADEMIA DE IDIOMAS 1.15
+
+GUARDERIAS PARTICULARES 1.50
+
+KINDER PARTICULAR 1.80
+
+PRIMARIA PARTICULAR 1.80
+
+SECUNDARIA PARTICULAR 1.80
+
+PREPARATORIA PARTICULAR 1.80
+
+KINDER Y PRIMARIA PARTICULAR 5.00
+
+KINDER, PRIMARIA, SECUNDARIA Y
+
+PREPARATORIA PARTICULAR 10.48
+
+ESCUELA DE MANEJO 1.15
+
+INSTITUTOS DE NIVEL SUPERIOR
+
+PARTICULAR 15.00
+
+INSTITUTOS DE NIVEL SUPERIOR
+
+PARTICULAR NO PRESENCIAL 5.00
+
+ESCUELAS DE ASESORÍA 2.64
+
+JOYERÍAS
+
+JOYERÍAS 1.15
+
+VENTA DE RELOJES 1.15
+
+REPARACIÓN DE RELOJES 1.15
+
+REPARACIÓN DE ALHAJAS 1.15
+
+CENTROS RECREATIVOS
+
+BILLARES 1.50
+
+BILLARES CON VENTA DE BEBIDAS
+
+ALCOHÓLICAS 1.84
+
+BOLICHES 1.31
+
+SERVICIO DE COMPUTACIÓN, INTERNET
+
+E IMPRESIÓN 1.50
+
+SALA DE JUEGOS 1.31
+
+SALA DE CINES DESDE 2 SALAS 40.00
+
+SALA DE CINE 15.25
+
+MAQUINAS DE VIDEO 1.15
+
+SALÓN DE BAILE Y FIESTAS 3.95
+
+RENTA DE VIDEOS 1.15
+
+MACRO PLAZA DE RENTA Y VENTA DE
+
+VIDEOS 15.72
+
+VENTA DE PLÁSTICOS
+
+COMPRA Y VENTA DE PLÁSTICOS 1.15
+
+MERCERÍAS
+
+MERCERIAS 1.15
+
+IMPORTACION VENTA DE TELAS 1.15
+
+LENCERIA Y CORSETERIA 1.15
+
+BONETERIAS 1.15
+
+JUGUETERÍAS
+
+JUGUETERÍAS Y PLÁSTICOS 1.15
+
+CARNICERÍAS
+
+CARNICERÍAS 1.15
+
+CHICHARRONERÍAS 1.15
+
+BARES
+
+LICORERÍAS 1.15
+
+DEPÓSITOS DE CERVEZA 1.15
+
+RESTAURANT 2.00
+
+RESTAURANT CON VENTA DE BEBIDAS
+
+ALCOHÓLICAS 2.50
+
+COCKTELERIAS CON VENTA DE LICORES 1.45
+
+VINATERIAS 1.15
+
+BARES 2.00
+
+BANCOS
+
+BANCOS 6.54
+
+CASAS DE CAMBIO 1.31
+
+CASAS DE EMPEÑO 1.31
+
+DULCERÍAS
+
+DULCERÍAS CON VENTA DE ARTÍCULOS
+
+PARA FIESTA 1.15
+
+FUNERARIAS
+
+FUNERARIAS 3.78
+
+PANTEONES 2.64
+
+CREMATORIOS 1.31
+
+VENTA DE LLANTAS
+
+COMPRA Y VENTA DE LLANTAS EN
+
+GENERAL (sólo oficinas) 2.20
+
+REFACCIONARIAS
+
+REFACCIONARIAS 2.20
+
+TLAPALERIAS 2.20
+
+FERRETERIAS 2.20
+
+CONGELADOS Y EMPACADOS
+
+PESCADERIAS 1.15
+
+LÁCTEOS Y CARNES FRÍAS
+
+COMPRA Y VENTA DE IMPORTADOS Y
+
+EXPORTADOS 1.50
+
+AGUAS PURIFICADAS
+
+EXPENDIO DE AGUA PURIFICADA 1.31
+
+FABRICA DE AGUA PURIFICADA 1.45
+
+FÁBRICAS DE HIELO
+
+FÁBRICAS DE HIELO 1.50
+
+TALLERES
+
+TALLER DE CERRAJERÍA 1.15
+
+TALLER DE BICICLETA 1.15
+
+TALLER DE MOTOS 1.15
+
+TALLER AUTOMOTRIZ 1.15
+
+TALLER DE ALINEACIÓN Y BALANCEO 1.15
+
+TALLER DE HOJALATERÍA Y PINTURA 1.15
+
+TALLER DE HERRERÍA 1.15
+
+TALLER DE VULCANIZADORA 1.15
+
+TALLER DE MAQUINAS DE OFICINAS 1.15
+
+TALLER DE REFACIONARIA (SIC)
+
+Y AIRE ACONDICIONADO 1.15
+
+TALLER DE PLOMERÍA 1.15
+
+TALLER DE TORNO 1.15
+
+TALLER DE MANTENIMIENTO Y
+
+CONSERVACION 1.15
+
+TALLER DE TAPICERÍA 1.15
+
+TALLER ELÉCTRICO 1.15
+
+TALLER DE SOLDADURA 1.15
+
+TALLER ELECTRÓNICO 1.15
+
+MATERIALES PARA LA CONSTRUCCIÓN
+
+VENTA DE ARTÍCULOS DE BARRO 1.15
+
+MATERIALES PARA LA CONSTRUCCIÓN 1.80
+
+SERVICIOS MÉDICOS
+
+ODONTOLÓGICOS 1.50
+
+ÓPTICAS 1.50
+
+LABORATORIOS DE ANÁLISIS CLINICOS 1.50
+
+HOSPITALES 7.86
+
+MÉDICOS 1.50
+
+FARMACIAS 1.50
+
+COMBUSTIBLES Y LUBRICANTES
+
+DESECHOS INDUSTRIALES
+
+COMBUSTIBLES Y LUBRICANTES 1.80
+
+GASOLINERIAS 1.80
+
+VENTA DE ACEITES Y LUBRICANTES 1.80
+
+GAS DOMÉSTICO 4.00
+
+EQUIPO CONTRA INCENDIOS 1.50
+
+HOTELES Y MOTELES
+
+HASTA 10 HABITACIONES 5.20
+
+HASTA 30 HABITACIONES 7.86
+
+HASTA 50 HABITACIONES 10.45
+
+MAS DE 50 HABITACIONES 13.00
+
+CASA DE HUÉSPEDES 2.40
+
+IMPRENTAS
+
+IMPRENTAS 1.15
+
+ROTULISTAS 1.15
+
+ARTES GRÁFICAS 1.15
+
+LAVANDERÍAS
+
+LAVANDERÍAS Y TINTORERÍAS 1.80
+
+LAVANDERÍA 1.80
+
+EXPENDIOS DE LOTERÍA
+
+EXPENDIOS DE LOTERÍA 1.31
+
+EXPENDIOS DE PERIÓDICOS Y REV. 1.31
+
+DISCOS Y CASETE 1.31
+
+BAZARES
+
+BAZARES 1.31
+
+NEVERÍAS Y PALETERÍAS
+
+NEVERÍAS 1.15
+
+PALETERÍAS 1.15
+
+VENTA DE JUGOS Y LICUADOS 1.15
+
+VENTA DE NEVERÍA, PALETERÍA,
+
+LONCHERÍA , JUGOS Y LICUADOS 1.45
+
+PANADERÍAS
+
+EXPENDIOS DE PAN 2.00
+
+PASTELERÍAS 2.00
+
+FABRICAS DE PAN 2.00
+
+PAPELERÍAS
+
+PAPELERÍAS 1.15
+
+LIBRERÍAS 1.15
+
+CENTRO DE COPIADO 1.15
+
+ESTÉTICAS
+
+PELUQUERÍAS 1.15
+
+SALÓN DE BELLEZA 1.15
+
+TATUAJES 1.15
+
+VENTAS DE PRODUCTOS DE BELLEZA 1.15
+
+GIMNASIO
+
+GIMNASIO 1.15
+
+FUMIGACIÓN
+
+FUMIGACIÓN 1.15
+
+AGENCIAS DISTRIBUIDORAS
+
+AGENCIAS DISTRIBUIDORAS DE REFRESCO 2.40
+
+AGENCIAS DISTRIBUIDORAS DE CERVEZA 2.20
+
+AGENCIAS DISTRIBUIDORAS DE ALIMENTOS 2.40
+
+EMBOTELLADORA DE REFRESCOS 15.73
+
+EXPENDIOS DE REFRESCO 1.20
+
+LONCHERÍAS
+
+LONCHERÍAS 1.15
+
+TAQUERÍAS SIN VENTA DE CERVEZA 2.00
+
+TAQUERÍAS CON VENTA DE CERVEZA 2.50
+
+TORTERÍAS 1.15
+
+CAFETERÍAS 1.15
+
+COCINAS ECONÓMICAS 1.15
+
+RESTAURANT SIN VENTA DE CERVEZA 2.00
+
+COCKTELERIAS SIN VENTA DE LICOR 1.15
+
+PIZZERÍAS
+
+PIZZERÍAS 2.00
+
+ENVASADORAS
+
+ENVASADORAS 1.15
+
+JARABES Y CONSERVAS
+
+JARABES Y CONSERVAS 1.15
+
+MOLINO
+
+MOLINO 1.15
+
+TORTILLERÍAS 1.09
+
+SASTRERÍAS
+
+SASTRERÍAS 1.15
+
+LONAS Y TOLDOS
+
+LONAS Y TOLDOS 1.15
+
+CONSULTORIOS VETERINARIOS
+
+CONSULTORIOS VETERINARIOS 1.15
+
+FARMACIAS VETERINARIAS 1.15
+
+VENTA DE MASCOTAS 1.15
+
+CRIADEROS
+
+CRIADEROS 1.15
+
+AGENCIAS
+
+AGENCIAS DE VIAJES 1.15
+
+AGENCIAS DE PUBLICIDAD 1.15
+
+AGENCIA ADUANAL 1.15
+
+AGENCIA DE FIANZAS 1.15
+
+AGENCIA DE SEGUROS 1.15
+
+AGENCIA DE SERVICIOS DE SEGURIDAD 1.15
+
+AGENCIAS DE ÁREAS Y TERRESTRES 1.15
+
+ZAPATERÍAS
+
+ZAPATERÍAS 1.15
+
+REPARACIÓN DE CALZADO 1.15
+
+CARPINTERÍAS
+
+CARPINTERÍAS 2.00
+
+MADERERÍAS 2.00
+
+CONSTRUCTORAS
+
+INMOBILIARIAS 1.15
+
+ADMINISTRACIÓN DE BIENES Y RAÍCES 1.15
+
+CONSTRUCTORAS 1.15
+
+FILMACIONES
+
+FILMACIONES 1.15
+
+ALMACENES
+
+ALMACÉN DE ROPA 1.20
+
+BOUTIQUE 1.15
+
+VENTA DE PLAYERAS 1.15
+
+BISUTERÍA Y NOVEDADES 1.15
+
+PERFUMES 1.15
+
+VENTA DE ROPA 1.15
+
+ESTUDIOS FOTOGRÁFICOS
+
+ESTUDIOS FOTOGRÁFICOS 1.15
+
+VENTA DE ARTÍCULOS FOTOGRÁFICOS 1.15
+
+ENMARCADOS DE FOTOS 1.15
+
+VENTA DE ARTÍCULOS DEPORTIVOS 1.15
+
+CRISTALES Y ALUMINIOS
+
+VENTA DE CRISTALES Y ALUMINIOS 2.00
+
+INSTALACIÓN DE ALUMINIO 2.00
+
+INSTALACIÓN DE CORTINAS METÁLICAS 2.00
+
+MUEBLERIAS
+
+MUEBLES PARA EL HOGAR 1.15
+
+MUEBLES PARA LA OFICINA 1.15
+
+MATERIALES Y EQUIPOS DE (SIC) ELÉCTRICO 1.15
+
+NOVEDADES
+
+NOVEDADES 1.15
+
+RENTADORAS
+
+RENTADORA DE AUTOS 1.15
+
+RENTADORA DE MOTOS 1.15
+
+RENTADORA DE MOTONÁUTICAS, ESQUÍ,
+
+VELEROS 1.15
+
+AUTOTRANSPORTE URBANO 1.15
+
+VENTA DE AUTOS
+
+COMPRA Y VENTA DE AUTOS, CAMIONES
+
+Y MAQUINARIA PESADA 2.00
+
+COMPRA Y VENTA DE AUTOS USADOS 1.15
+
+COMPRA Y VENTA DE BICICLETAS Y
+
+ACCESORIOS 1.15
+
+VENTA DE MOTOS
+
+COMPRA Y VENTA DE MOTOCICLETAS 1.15
+
+DESPACHOS
+
+OFICINAS ADMINISTRATIVAS DESPACHOS
+
+CONTABLES 1.15
+
+EMPRESAS PRESTADORAS DE SERVICIOS 1.15
+
+OFICINAS DE INGENIEROS Y ARQUITECTOS 1.15
+
+BUFETE JURÍDICO 1.15
+
+OFICINAS DE LÍNEAS AÉREAS VENTA DE
+
+BOLETOS 1.15
+
+PROFESIONISTAS ABOGADOS 1.15
+
+NOTARÍA PÚBLICA 1.15
+
+ARTÍCULOS DEPORTIVOS
+
+ARTÍCULOS DEPORTIVOS 1.15
+
+ARTÍCULOS DE BUCEO 1.15
+
+ARTÍCULOS PARA PESCA 1.15
+
+PRODUCTOS APÍCOLAS
+
+PRODUCTOS APÍCOLAS 1.15
+
+ARTÍCULOS RELIGIOSOS
+
+ARTÍCULOS RELIGIOSOS 1.15
+
+CONDIMENTOS Y ESPECIES
+
+CONDIMENTOS Y ESPECIES 1.15
+
+MENSAJERÍA Y PAQUETERÍA
+
+MENSAJERÍA Y PAQUETERÍA 2.00
+
+BIENES Y RAÍCES
+
+BIENES Y RAÍCES 1.15
+
+MANTENIMIENTO CONSERVACIÓN
+
+MANTENIMIENTO CONSERVACIÓN 1.15
+
+DISTRIBUCIÓN DE PRODUCTOS QUÍMICOS 1.15
+
+ARTESANÍAS
+
+ARTESANÍAS 1.15
+
+TABAQUERÍAS 1.15
+
+VENTA DE PRODUCTOS DE PIEL-CUERO 1.15
+
+VENTA DE EQUIPOS DE AIRES
+
+ACONDICIONADOS
+
+VENTA DE EQUIPOS DE AIRES
+
+ACONDICIONADOS 1.15
+
+EQUIPO DE COMPUTO
+
+VENTA DE EQUIPOS DE COMPUTO 1.15
+
+MANTENIMIENTO DE EQUIPOS DE COMPUTO 1.15
+
+DISCOTECAS
+
+DISCOTECAS 2.40
+
+CENTROS NOCTURNOS 2.40
+
+EXPENDIOS DE PINTURA
+
+EXPENDIOS DE PINTURA 1.15
+
+VENTA DE POLLOS
+
+VENTA DE POLLOS EN ESTADO NATURAL 1.15
+
+VENTA DE POLLOS ROSTIZADOS 1.15
+
+VENTA DE HUEVOS 1.15
+
+VENTA DE PRODUCTOS AGROPECUARIOS 1.15
+
+FRUTERÍAS
+
+FRUTERÍAS 1.15
+
+EXPENDIO ARTÍCULOS PARA EL ASEO
+
+EXPENDIO ARTÍCULOS PARA EL ASEO 1.15
+
+LAVADEROS
+
+LAVADEROS DE AUTOS 2.00
+
+BAÑOS PÚBLICOS 2.00
+
+ESTACIONAMIENTOS PRIVADOS 1.15
+
+CASETAS TELEFÓNICAS
+
+CASETAS TELEFÓNICAS 1.15
+
+CASETA TELEFÓNICA Y VENTA DE
+
+SISTEMAS DE TELEFONÍA 1.45
+
+FLORERÍAS
+
+FLORERÍAS 2.00
+
+VIVEROS 1.15
+
+DECORACIÓN Y DISEÑO
+
+DECORACIÓN Y DISEÑO 1.15
+
+COMPRA Y VENTA DE LLANTAS
+
+COMPRA Y VENTA DE LLANTAS 1.15
+
+ARTÍCULOS DE TAPICERÍA
+
+ARTICULOS DE PELETERÍA 1.15
+
+TAPICERÍA 1.15
+
+MEDIOS DE COMUNICACIÓN
+
+SERVICIOS RESTRINGIDOS SEÑALES DE TV. 1.15
+
+JUGUETERÍA
+
+JUGUETERÍA 1.15
+
+SERVICIOS COMPUTACIONALES
+
+SERVICIOS COMPUTACIONALES 1.15
+
+TIANGUIS
+
+TIANGUIS 0.78
+
+TERMINAL
+
+TERMINAL AÉREA 8.00
+
+TERMINAL TERRESTRE 8.00
+
+OTROS NO ESPECIFICADOS EN LOS
+
+ANTERIORES 1.57
 
 Son sujetos por deuda ajena y responsabilidad solidaria del pago de derechos a que se refiere este capítulo, las personas físicas y morales que sean propietarias o arrendadoras de los locales comerciales o de uso habitacional que reciban este servicio.
 
@@ -3172,3 +3910,11 @@ P.O. 5 DE JUNIO DE 2024.
 PRIMERO. El presente decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 176 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL MUNICIPIO DE OTHÓN P. BLANCO DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente decreto.
