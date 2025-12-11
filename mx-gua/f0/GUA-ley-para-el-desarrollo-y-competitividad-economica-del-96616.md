@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-el-desarrollo-y-competitividad-economica-del-96616"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-15"
-last_updated: "2025-10-14"
+last_updated: "2025-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY PARA EL DESARROLLO Y COMPETITIVIDAD ECONÓMICA DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Quinta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de noviembre de 2013.
 
@@ -121,6 +121,10 @@ IX. Economía del conocimiento: Aquella en que el conocimiento es producido, adq
 
 X. Emprendedor: Persona o grupo de personas que persiguen una oportunidad de negocio para iniciar un proyecto empresarial;
 
+> <small>(ADICIONADA, P.O.11 DE DICIEMBRE DE 2025)</small>
+
+X Bis. Emprendimiento digital: Modelo de negocio que inicia una persona, en la que trabaja por cuenta propia o emplea a otras, en búsqueda de una oportunidad de negocio, que se desarrolla a través de una plataforma digital, entendida esta como un espacio en línea que permite a diferentes grupos de personas usuarias interactuar, compartir y realizar transacciones;
+
 XI. Empresa: Persona física o jurídica legalmente constituida cuyo objeto sea el de llevar a cabo actividades económicas para la producción o el intercambio de bienes o servicios para el mercado;
 
 XII. Empresas socialmente responsables: Aquellas compañías que tienen una contribución activa y voluntaria para mejorar el entorno social, económico y ambiental, con el objetivo de optimizar su situación competitiva y su valor añadido;
@@ -153,9 +157,13 @@ XXIII Salvaguardas Sociales. Se refieren a medidas sociales y económicas enfoca
 
 Estas medidas deberán considerar un enfoque de brechas de desigualdad de género para implementar acciones y propuestas orientadas en abatirlas.
 
-XXIV. Secretaría: La Secretaría de Desarrollo Económico Sustentable;
+> <small>(REFORMADA, P.O.11 DE DICIEMBRE DE 2025)</small>
 
-XXV. Secretario: El titular de la Secretaría de Desarrollo Económico Sustentable;
+XXIV. Secretaría: Secretaría de Economía;
+
+> <small>(REFORMADA, P.O.11 DE DICIEMBRE DE 2025)</small>
+
+XXV. Secretario: La persona titular de la Secretaría de Economía;
 
 XXVI. Sistema de parques: Esfuerzo de articulación, colaboración y complementariedad para el desarrollo de infraestructura y servicios con altos estándares de calidad para el desarrollo y hospedaje de empresas generadoras de empleo, con enfoque tanto industrial como tecnológico;
 
@@ -475,9 +483,17 @@ III. Impulsar el desarrollo competitivo de las cadenas productivas, de los secto
 
 IV. La generación y consolidación de zonas y regiones económicas y clúster;
 
-V. La creación y fortalecimiento de infraestructura logística y conectividad; y
+> <small>(REFORMADA, P.O.11 DE DICIEMBRE DE 2025)</small>
 
-VI. La generación y el fortalecimiento del empleo.
+V. La creación y fortalecimiento de infraestructura logística y conectividad;
+
+> <small>(REFORMADA, P.O.11 DE DICIEMBRE DE 2025)</small>
+
+VI. La generación y el fortalecimiento del empleo; y
+
+> <small>(ADICIONADA, P.O.11 DE DICIEMBRE DE 2025)</small>
+
+VII. El fomento de acciones que impulsen el desarrollo, la diversificación, consolidación, formalización y crecimiento de emprendimientos digitales.
 
 Otorgamientos de estímulos
 
@@ -559,9 +575,17 @@ VI. Procurar la regulación de la industrialización, dentro del marco de un des
 
 VII. Promover y apoyar, en términos de la Ley General de Sociedades Cooperativas y de acuerdo a su competencia, el desarrollo del cooperativismo y su colaboración en los planes económicos y sociales que realicen los gobiernos federal, estatal y municipales, en cuanto beneficien o impulsen de manera directa la economía regional;
 
-VIII. Impulsar la competitividad y calidad de los productos guanajuatenses; y
+> <small>(REFORMADA, P.O.11 DE DICIEMBRE DE 2025)</small>
 
-IX. Coadyuvar en la promoción de actividades que fomenten la cultura emprendedora.
+VIII. Impulsar la competitividad y calidad de los productos guanajuatenses;
+
+> <small>(REFORMADA, P.O.11 DE DICIEMBRE DE 2025)</small>
+
+IX. Coadyuvar en la promoción de actividades que fomenten la cultura emprendedora; y
+
+> <small>(ADICIONADA, P.O.11 DE DICIEMBRE DE 2025)</small>
+
+X. El impulso a emprendimientos digitales considerando programas de capacitación digital para personas empresarias que desarrollen negocios en internet; alternativas de gestión financiera para el modelo de negocios; el fomento de acciones orientadas a escalar emprendimientos digitales; la promoción de acciones que incentiven la formalidad laboral en estos modelos de negocio y el fomento de acciones enfocadas en la comercialización de productos y servicios de población en condiciones de vulnerabilidad para conectar comunidades marginadas con mercados más amplios.
 
 #### Sección Cuarta. Integración de actividades productivas
 
@@ -664,6 +688,18 @@ La Secretaría impulsará acciones para acercar productos financieros accesibles
 La Secretaría, en el ámbito de su competencia y en coordinación con el Instituto responsable de la innovación en el estado de Guanajuato, el Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato, la Secretaría de Educación, así como los organismos estatales que otorguen capacitación orientarán las políticas en materia de capacitación para el trabajo que se identifiquen con la problemática y el modelo de desarrollo económico de cada zona y región económica.
 
 La Secretaría promoverá en coordinación con la Secretaría de Educación, el Instituto responsable de la innovación en el estado de Guanajuato, y el Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato la inclusión en los programas académicos en los niveles medio superior y superior autorizados por ésta, actividades vinculadas con la cultura emprendedora.
+
+> <small>(ADICIONADO, P.O.11 DE DICIEMBRE DE 2025)</small>
+
+La Secretaría impulsará, en colaboración con las instituciones de capacitación en el estado y los municipios, programas de formación integral para emprendimientos digitales, con el fin de fortalecer sus capacidades en áreas que incluyan, sin limitar, habilidades digitales, gestión de negocios en línea. Ciberseguridad, marketing digital y cumplimiento normativo.
+
+> <small>(ADICIONADO, P.O.11 DE DICIEMBRE DE 2025)</small>
+
+Estos programas serán ofrecidos en colaboración con instituciones educativas, organismos de desarrollo económico, y plataformas tecnológicas, y estarán diseñados para ser accesibles de forma virtual y presencial.
+
+> <small>(ADICIONADO, P.O.11 DE DICIEMBRE DE 2025)</small>
+
+Asimismo, se fomentarán sistemas de mentoría y asesoría, promoviendo redes de integración de negocios para apoyar su crecimiento, formalización y sostenibilidad en el mercado digital.
 
 Capacitación y adiestramiento
 
@@ -1120,3 +1156,9 @@ P.O. 14 DE OCTUBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 84 DE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO Y LA COMPETITIVIDAD ECONÓMICA DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS".]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O.11 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL ”DECRETO LEGISLATIVO NÚMERO 110 DE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY PARA EL DESARROLLO Y COMPETITIVIDAD ECONÓMICA DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
