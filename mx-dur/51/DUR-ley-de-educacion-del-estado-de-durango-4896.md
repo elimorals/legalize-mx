@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-educacion-del-estado-de-durango-4896"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-29"
-last_updated: "2025-10-05"
+last_updated: "2025-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 1995.
 
@@ -298,6 +298,14 @@ XXX.- La prevención del suicidio, y
 > <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2022)</small>
 
 XXXI.- Promover y fomentar los valores y principios del sector de la economía social con la finalidad de propiciar relaciones de reciprocidad, solidaridad y cooperación, privilegiando al ser humano y el trabajo digno.
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+XXXII.- Promover, de manera permanente, el uso correcto de la lengua española en sus modalidades oral y escrita, fomentando la buena redacción, el uso de las reglas gramaticales y ortográficas, así como la comprensión lectora y expresión verbal, como parte de la formación integral del alumnado y del fortalecimiento de la cultura lingüística nacional de origen histórico.
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+XXXIII.- Las demás que dispongan otros ordenamientos que no contravengan esta ley.
 
 > <small>(ADICIONADO, P.O. 6 DE MARZO DE 2014)</small>
 
@@ -607,9 +615,13 @@ c) Fomento de buenas prácticas nutricionales y hábitos saludables de alimentac
 
 d) Desarrollar programas que promuevan la alimentación correcta e informen sobre la desnutrición, el sobrepeso, la obesidad y los trastornos de la conducta alimentaria;
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE DICIEMBRE DE 2025)</small>
 
-e) Tratándose de las escuelas del Sistema Educativo Estatal, públicas o particulares, queda prohibida la preparación, comercialización y distribución de alimentos y bebidas de bajo contenido nutrimental y alto contenido en calorías, azúcares y sales; quienes elaboren o comercialicen alimentos o bebidas en los planteles escolares, deberán cumplir con la normatividad de salubridad que para tal efecto expida la autoridad correspondiente y con las disposiciones que emita la autoridad educativa Federal;
+e) Tratándose de las escuelas del Sistema Educativo Estatal, públicas o particulares, queda prohibida la preparación, comercialización, publicidad y distribución de alimentos y bebidas de bajo contenido nutrimental y alto contenido en calorías, azúcares y sales; quienes elaboren o comercialicen alimentos o bebidas en los planteles escolares, deberán cumplir con la normatividad de salubridad que para tal efecto expida la autoridad correspondiente y con las disposiciones que emita la autoridad educativa Federal.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+Las personas responsables de la aplicación y vigilancia permanente de las disposiciones señaladas en el presente artículo al interior de las escuelas, serán las que ejerzan cargos directivos y las autoridades escolares. Las autoridades educativas y sanitarias vigilarán en el ámbito de sus competencias el incumplimiento de estas disposiciones.
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2019)</small>
 
@@ -631,11 +643,19 @@ La Secretaría a tal efecto suscribirá convenios con instituciones de educació
 
 i) Queda prohibida la elaboración, comercialización y distribución de bebidas energizantes en las escuelas públicas o particulares del Sistema Educativo Estatal.
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE DICIEMBRE DE 2025)</small>
 
-XXXVII.- Fomentar la instalación de comedores o desayunadores escolares en los centros escolares de educación básica del Sistema Educativo Estatal. El Sistema Educativo Estatal, dentro de sus programas y acorde a sus posibilidades presupuestarias, procurará establecer acciones para garantizar que en los planteles educativos de educación básica se cuente con el servicio de profesionistas en nutrición, con la finalidad de:
+XXXVII.- Fomentar la instalación de comedores o desayunadores escolares en los centros escolares de educación básica del Sistema Educativo Estatal, se atenderán de manera prioritaria a quienes se encuentran en las zonas con mayores índices de marginación en coordinación con el Sistema para el Desarrollo Integral de la Familia del Estado de Durango.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO ESTE PÁRRAFO], P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+El Sistema Educativo Estatal, dentro de sus programas y acorde a sus posibilidades presupuestarias, procurará establecer acciones para garantizar que en los planteles educativos de educación básica se cuente con el servicio de profesionistas en nutrición, con la finalidad de:
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
 
 a) Orientar y concienciar tanto a los padres de familia como a quienes elaboren y expendan alimentos en los centros de distribución, sobre lo dispuesto en los incisos c) y d) de la fracción XXXVI del presente Artículo, y
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
 
 b) .... (sic)
 
@@ -2585,13 +2605,21 @@ VII. Fomentar la armonía familiar a través del conocimiento personal;
 
 VIII. Impulsar la actitud positiva hacia la escuela,
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2025)</small>
 
-IX. Robustecer el respeto hacia los profesores por parte de los educandos, y
+IX. Robustecer el respeto hacia los profesores por parte de los educandos;
 
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2025)</small>
 
-X. Prevenir el embarazo a temprana edad, por medio de pláticas de educación sexual.
+X. Prevenir el embarazo a temprana edad, por medio de pláticas de educación sexual;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+XI. Incentivar la paternidad responsable, entendida como la participación constante y consciente de la figura masculina en los procesos educativo (sic) de sus hijas e hijos, y
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+XII. La (sic) demás que sean necesarias para cumplir con los objetivos de la presente ley, así como las que se consideren pertinentes por las Escuelas para Madres y Padres.
 
 > <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2019)</small>
 
@@ -2656,6 +2684,20 @@ X. La importancia de las relaciones interpersonales positivas y respetuosas;
 XI. La actitud positiva hacia la escuela, y
 
 XII. El respeto hacia las profesoras y profesores por parte de los educandos.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 171 NONIES.- Los talleres, cursos, conferencias, o cualquier otra herramienta empleada por las Escuelas para madres y padres, a fin de promover la paternidad responsable, deberá integrar los siguientes contenidos:
+
+a) Fomentar la participación del padre en el cuidado y formación diaria de sus hijas e hijos;
+
+b) Concientizar sobre la importancia de establecer vínculos afectivos y cercanos, más allá del aspecto económico;
+
+c) Promover el involucramiento del padre en los procesos educativos y actividades escolares;
+
+d) Fortalecer la convivencia y el desarrollo emocional entre el padre y sus hijas e hijos; y
+
+e) Impulsar el cumplimiento responsable de las obligaciones alimentarias y de provisión.
 
 #### Sección 2. De las Asociaciones de Padres de Familia
 
@@ -3462,6 +3504,38 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del pre
 P.O. 5 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 193 QUE CONTIENE REFORMAS Y ADICIONES A DIVERSOS ARTÍCULOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO, EN MATERIA DE EDUCACIÓN DUAL”.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente decreto.
+
+P.O. 11 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 289 QUE CONTIENE REFORMAS A LA FRACCIÓN XXXVII DEL ARTÍCULO 21 DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO, EN MATERIA DE DESAYUNOS ESCOLARES”.]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Notifíquese el presente Decreto al Titular del Poder Ejecutivo para su conocimiento y debida publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+P.O. 11 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 290 QUE CONTIENE ADICIONES A DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO, EN MATERIA DE LENGUAJE NACIONAL".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente decreto.
+
+P.O. 11 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 291 QUE CONTIENE REFORMAS AL INCISO E) DE LA FRACCIÓN XXXVI DEL ARTÍCULO 21 DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente proyecto de decreto.
+
+P.O. 11 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 292 QUE CONTIENE REFORMAS A LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO, EN MATERIA DE ESCUELA PARA PADRES”.]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
