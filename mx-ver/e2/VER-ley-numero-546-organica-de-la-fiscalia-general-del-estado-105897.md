@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-546-organica-de-la-fiscalia-general-del-estado-10589
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-29"
-last_updated: "2023-07-19"
+last_updated: "2025-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105897&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NÚMERO 546 ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 29 de enero de 2015.
 
@@ -475,6 +475,10 @@ XII Ter. Facilitadores Especializados en Justicia para Adolescentes;
 
 XIII. Unidad Especializada en Combate al Secuestro;
 
+(ADICIONADA, G.O. 11 DE DICIEMBRE DE 2025
+
+XIII Bis. Unidad Especializada en Atención al Delito de Extorsión.
+
 > <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
 
 XIV. Otros órganos; y
@@ -880,6 +884,16 @@ De la Unidad Especializada en Combate al Secuestro.
 La Unidad Especializada en Combate al Secuestro dependerá directamente del Fiscal General y tendrá las facultades y atribuciones previstas en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, esta Ley, su Reglamento y demás normatividad aplicable.
 
 Contará con departamentos, áreas y un cuerpo técnico de control que además de las facultades establecidas en el Reglamento de esta Ley, conjuntará trabajos policiales y de inteligencia con apoyo de la Unidad de Análisis de la Información y los servicios periciales en la integración de carpetas de investigación para el esclarecimiento de los hechos, a través de la técnica especializada de intervención de comunicaciones privadas en su modalidad de escucha autorizada por los Jueces del Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones, con residencia en la Ciudad de México; establecerá lineamientos sobre las características de los aparatos, equipos o sistemas de informática y telecomunicaciones a autorizar, así como sobre su guarda, conservación, mantenimiento y uso.
+
+(ADICIONADO, G.O. 11 DE DICIEMBRE DE 2025
+
+###### Artículo 34 Ter.
+
+La Unidad Especializada en Atención al Delito de Extorsión dependerá directamente de la persona Titular de la Fiscalía General y tendrá a su cargo la investigación, persecución y esclarecimiento de los hechos que constituyan dicho delito, conforme a lo previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, esta Ley y demás disposiciones aplicables.
+
+La Unidad estará integrada por ministerios públicos, policías, analistas y personal pericial debidamente capacitado, evaluado y certificado en materia de extorsión, de acuerdo con los criterios del Sistema Nacional de Seguridad Pública. Para el desempeño de sus funciones contará con la colaboración de las áreas de análisis, inteligencia y servicios periciales de la Fiscalía General.
+
+Desarrollará acciones de coordinación, intercambio de información y colaboración con las autoridades de seguridad pública y procuración de justicia competentes, para la atención integral del delito de extorsión, en los términos establecidos por la legislación aplicable.
 
 > <small>(REFORMADO SU ACÁPITE, G.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -2368,3 +2382,27 @@ G.O. 19 DE JULIO DE 2023.
 PRIMERO. El presente Decreto iniciará su vigencia el día de su publicación en la Gaceta Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 11 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 274 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL, TODOS ORDENAMIENTOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN MATERIA DE ARMONIZACIÓN NACIONAL DEL DELITO DE EXTORSIÓN".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, a partir de la entrada en vigor de este Decreto, el órgano jurisdiccional podrá efectuar la traslación del tipo en beneficio de la persona a sentenciar, de conformidad con la conducta delictiva de extorsión, sus modalidades o agravantes que se hayan acreditado.
+
+Tratándose de persona sentenciada, el juez de ejecución podrá considerar la revisión de las penas que se hayan impuesto para efectuar, en su caso, la traslación del tipo, siempre que la conducta, modalidades o agravantes procedan y resulten en su beneficio.
+
+Tercero. Las disposiciones relativas a los delitos de extorsión vigentes antes de la entrada en vigor del presente Decreto seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por el delito de extorsión, sus modalidades, agravantes y sanciones, salvo lo dispuesto en el artículo anterior en lo relativo a la traslación del tipo y adecuación de la pena.
+
+Los procedimientos penales en materia de extorsión, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del mismo.
+
+Cuarto. Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento, por lo que no incrementarán su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
+
+Quinto. En tanto se cree la Unidad Especializada en Atención al Delito de Extorsión, la Fiscalía General del Estado, a través de la Unidad Especializada en Combate al Secuestro dará atención al delito de extorsión.
+
+Sexto. En un periodo de ciento ochenta días hábiles, contados a partir de la publicación del presente Decreto, el Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias necesarias de conformidad con lo establecido en el presente Decreto.
+
+Séptimo. En un periodo de ciento ochenta días hábiles, contados a partir de la publicación del presente Decreto, la Fiscalía General del Estado deberá realizar las adecuaciones reglamentarias necesarias de conformidad con lo establecido en el presente Decreto.
+
+Octavo. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
