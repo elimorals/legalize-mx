@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2025-09-18"
+last_updated: "2025-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2025.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -101,19 +101,17 @@ Para la consecución de la paz, el Estado y sus municipios priorizarán la preve
 
 Toda persona tiene derecho a vivir en un ambiente libre de corrupción.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 4.
 
-Se reconoce y garantiza a toda persona el derecho a la integridad física, psíquica y sexual, y a una vida libre de violencia en los ámbitos público y privado. El Estado adoptará las medidas necesarias para prevenir, eliminar y sancionar toda clase de violencia o abuso, físico, psíquico o sexual, especialmente en contra de mujeres, personas con discapacidad, adultos mayores, comunidades menonitas, grupos o etnias indígenas, las niñas, niños y las y los adolescentes, por lo que se garantizará el cumplimiento de las obligaciones de todo deudor alimentario.
+Se reconoce y garantiza a toda persona el derecho a la integridad física, psíquica y sexual, y a una vida libre de violencia en los ámbitos público y privado. El Estado adoptará las medidas necesarias para prevenir, eliminar y sancionar toda clase de violencia o abuso, físico, psíquico o sexual, especialmente en contra de mujeres, menores de edad, personas con discapacidad, adultos mayores, comunidades menonitas y grupos o etnias indígenas, así como por motivo de orientación sexual, identidad de género, expresión de género y/o características sexuales.
 
-El estado garantizará el cumplimiento de las obligaciones alimentarias de conformidad con la legislación aplicable.
-
-> <small>(REFORMADO, P.O. 17 DE MAYO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 5.
 
-Todas las personas son iguales ante la ley y gozan de los mismos derechos. En consecuencia, queda prohibido todo tipo de discriminación por origen étnico, lugar de nacimiento, género, edad, identidad cultural, condición social o de salud, religión, opiniones, preferencias políticas, orientación sexual, identidad de género, estado civil, estado de gravidez o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+Todas las personas son iguales ante la ley y gozan de los mismos derechos. En consecuencia, queda prohibido todo tipo de discriminación por origen étnico, lugar de nacimiento, género, edad, identidad cultural, condición social o de salud, religión, opiniones, preferencias políticas, orientación sexual, identidad de género, expresión de género, características sexuales, estado civil, estado de gravidez o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 > <small>(ADICIONADO, P.O. 5 DE MAYO DE 2022)</small>
 
@@ -123,11 +121,11 @@ Todas las personas tienen derecho a la paz, teniendo como obligación procurarla
 
 Las personas integrantes de comunidades menonitas gozan de los derechos reconocidos por esta Constitución. Tienen derecho a la protección y promoción de sus conocimientos tradicionales y su patrimonio cultural, artístico, material e inmaterial.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 6.
 
-El hombre y la mujer son iguales ante la ley y gozan de los mismos derechos. El Estado promoverá normas, políticas y acciones para alcanzar la plena equidad entre hombre y mujer, en los ámbitos educativo, laboral, político, económico y social; además incorporará la perspectiva de género en planes y programas, y capacitará a los servidores públicos para su obligatoria aplicación en todas las instancias gubernamentales.
+El hombre y la mujer son iguales ante la ley y gozan de los mismos derechos. El Estado promoverá, respetará, protegerá y garantizará, en los ámbitos educativo, laboral, político, económico y social, el goce del derecho a la igualdad sustantiva de las mujeres; además incorporará la perspectiva de género en planes y programas, y capacitará a los servidores públicos para su obligatoria aplicación en todas las instancias gubernamentales.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -217,7 +215,9 @@ El juzgador dará prioridad a las sanciones y medidas cautelares alternativas a 
 
 Nadie podrá ser sometido a torturas ni a penas o tratos crueles, inhumanos o degradantes; la ley deberá considerar la tortura realizada por cualquier servidor público como delito perseguible de oficio, imprescriptible e improcedente el perdón de la víctima.
 
-El Estado y los municipios ejercerán la función de seguridad pública en sus respectivos ámbitos de competencia; podrán celebrar convenios de coordinación y cooperación, en los términos que establezca la ley. La actuación de las instituciones policiales se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+El Estado y los municipios ejercerán la función de seguridad pública en sus respectivos ámbitos de competencia; podrán celebrar convenios de coordinación y cooperación, en los términos que establezca la ley. La actuación de las instituciones policiales se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo y honradez, así como por la perspectiva de género y el respeto a los derechos humanos reconocidos en esta Constitución.
 
 El Estado y los municipios, implementarán programas de prevención del delito, la ley garantizará la participación social en su planeación y ejecución, así como en la evaluación de las instituciones de seguridad pública y del ministerio público.
 
@@ -291,9 +291,15 @@ Toda persona tiene derecho a tomar decisiones libres, informadas y responsables 
 
 Toda persona tiene derecho al trabajo y a su libre elección siendo lícito, a condiciones equitativas y satisfactorias del mismo, y a la protección contra el desempleo.
 
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+Queda prohibida la profesión, industria, comercio interior o exterior, trabajo o cualquiera otra de las actividades que refiere el párrafo tercero del artículo 20.
+
 La ley dispondrá que profesiones necesiten título profesional para su ejercicio.
 
-Toda persona tiene derecho a remuneración igual por trabajo igual.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+Toda persona tiene derecho a remuneración igual por trabajo igual, sin tener en cuenta sexo, género ni nacionalidad. Las leyes establecerán los mecanismos tendientes a reducir y erradicar la brecha salarial de género.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -324,6 +330,10 @@ El Estado garantizará este derecho y la ley definirá las bases, apoyos y modal
 Toda persona tiene derecho a la protección de la salud. El Estado, en el ámbito del Sistema Nacional de Salud garantizará los servicios de salud, en los términos dispuestos en la ley, los cuales deberán cumplir con los principios de disponibilidad, accesibilidad, transparencia, aceptabilidad, calidad, universalidad, equidad, eficiencia, eficacia y perspectiva de género.
 
 El sistema de salud promoverá la prevención de la salud, así como la atención integral y brindará cuidado especializado a los grupos vulnerables establecidos en la presente Constitución.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+Para garantizar el derecho de protección a la salud de las personas, queda prohibida la producción, distribución, comercialización y enajenación de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos electrónicos análogos que señale la ley, así como la producción, distribución y enajenación de sustancias tóxicas, precursores químicos y drogas sintéticas no autorizadas legalmente, como el uso ilícito del fentanilo.
 
 Por ningún motivo los establecimientos de salud, ya sean públicos o privados, ni los profesionales del sector podrán negar la asistencia necesaria en casos de emergencia. Dicha negativa será sancionada por la ley.
 
@@ -465,7 +475,9 @@ Toda persona tiene derecho a la libre producción y creación artística, cient�
 
 ###### Artículo 29.
 
-El derecho a la información está garantizado en los términos de la presente Constitución y de la Constitución Política de los Estados Unidos Mexicanos. Se regirá por los siguientes principios:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+El derecho a la información está garantizado en los términos de la presente Constitución y de la Constitución Política de los Estados Unidos Mexicanos. Se regirá por los principios certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad, además de los siguientes:
 
 I. Toda la información gubernamental es pública, los poderes del Estado, ayuntamientos, cualquier otro organismo, dependencia o entidad estatal o municipal, órganos constitucionales autónomos, concesionarios de bienes y servicios, partidos políticos, sindicatos, universidades, fideicomisos y fondos públicos, y cualquier persona física o moral que reciba recursos públicos o que realicen actos de autoridad están obligados a proporcionarla, sólo podrá ser reservada de manera temporal, en los términos que fije la ley, debiendo prevalecer el principio de máxima publicidad.
 
@@ -484,6 +496,28 @@ VI. Los sujetos obligados deberán preservar los documentos en archivos administ
 VII. Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
 
 VIII. La inobservancia de las disposiciones en materia de acceso a la información pública, será sancionada en los términos que dispongan las leyes.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+Para el cumplimiento de estas obligaciones, serán Autoridades Garantes en sus respectivos ámbitos de competencia:
+
+a) El Poder Ejecutivo, a través de su órgano encargado de la contraloría, establecerá las políticas públicas y mecanismos de supervisión necesarios para asegurar el cumplimiento de las obligaciones de transparencia en sus dependencias y entidades;
+
+b) El Poder Legislativo, mediante su órgano interno de control o área homóloga, garantizará el derecho de acceso a la información pública y protección de datos personales en su ámbito de competencia;
+
+c) El Poder Judicial, a través de su órgano interno de control o área homóloga, velará por la observancia de las disposiciones en materia de transparencia y datos personales;
+
+d) Los municipios deberán contar con áreas responsables de transparencia que coordinen la atención de solicitudes y la publicación de la información. A través del órgano encargado de la contraloría del Poder Ejecutivo, se encargará de la vigilancia y supervisión, y
+
+e) Los Órganos Constitucionales Autónomos a través de su órgano interno de control o área homóloga, cuidará la observancia de las disposiciones en materia de transparencia y datos personales.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+El Tribunal de Justicia Administrativa del Estado conocerá del recurso procesal que se interponga en materia de acceso a la información pública y protección de datos personales, conforme a los principios de legalidad, independencia, imparcialidad, transparencia y máxima publicidad.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+Los sujetos obligados se regirán por la legislación federal y local en materia de transparencia y acceso a la información pública y protección de datos personales, para establecer las bases, principios y procedimientos del ejercicio de este derecho.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -1001,6 +1035,10 @@ El poder del Estado se divide para su ejercicio en Legislativo, Ejecutivo y Judi
 
 Nunca podrán reunirse dos o más de estos poderes en una sola persona o corporación, ni depositarse el Legislativo en un solo individuo.
 
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+Los nombramientos de las personas titulares en la administración pública del Estado y los Municipios, deberán observar el principio de paridad de género. Las leyes determinarán las formas y modalidades que correspondan.
+
 Es obligación de los distintos órganos del poder público instituir relaciones de colaboración y coordinación para el cumplimiento eficaz de sus respectivas funciones.
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
@@ -1365,15 +1403,17 @@ g) Llevar un registro del patrimonio de los servidores públicos en los casos qu
 
 h) Expedir la ley que regule la organización y facultades de la Auditoría Superior del Estado y las demás que normen la gestión, control y evaluación de los Poderes del Estado, los Municipios y de los entes públicos estatal y municipales; así como para expedir la ley que establezca las bases de coordinación del Sistema Local Anticorrupción.
 
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2025)</small>
 
-i) Expedir la ley que organice el Tribunal de Justicia Administrativa, dotado de plena autonomía para dictar sus fallos, y que establezca su organización, su funcionamiento, y los recursos para impugnar sus resoluciones.
+i) Expedir la ley que organice el Tribunal de Justicia Administrativa, dotado de plena autonomía para dictar sus fallos, y que establezca su organización, su funcionamiento, y los recursos para impugnar sus resoluciones; así como el recurso procesal en materia de acceso a la información pública y protección de datos personales.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
 
 El Tribunal tendrá a su cargo dirimir las controversias que se susciten entre la administración pública estatal, municipal y los particulares.
 
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
 
-j) Expedir la Ley de Justicia Administrativa, que dirima las diferencias a las que alude el inciso anterior y además, distribuya competencias entre los gobiernos Estatal y municipales, para establecer las responsabilidades administrativas de los servidores públicos y las sanciones aplicables por los actos u omisiones graves en que éstos incurran, y las que correspondan a los particulares vinculados con faltas administrativas graves que al efecto prevenga, así como los procedimientos para su aplicación.
+j) Expedir la Ley de Justicia Administrativa, que dirima las diferencias a las que alude el inciso anterior y además, distribuya competencias entre los gobiernos Estatal y municipales, para establecer las responsabilidades administrativas de los servidores públicos y las sanciones aplicables por los actos u omisiones graves en que éstos incurran, y las que correspondan a los particulares vinculados con faltas administrativas graves que al efecto prevenga, así como los procedimientos para su aplicación; así como el recurso procesal en materia de acceso a la información pública y protección de datos personales.
 
 > <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
 
@@ -1955,9 +1995,9 @@ Las personas titulares de las dependencias, entidades y organismos del Gobierno 
 
 Al ministerio público le corresponde investigar los delitos del orden común; ejercer la representación y defensa de los intereses de la sociedad y de la acción penal ante los tribunales. El ejercicio de las funciones del ministerio público estará a cargo de la o el Fiscal General del Estado y la o el Fiscal Especializado en Combate a la Corrupción, cada uno en el ámbito de su competencia y facultades, quienes se auxiliarán de una policía encargada de la investigación de los delitos de su competencia, la que estará bajo su mando inmediato y directo, así como de los demás cuerpos de seguridad pública y privada, en los términos de las leyes.
 
-> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
 
-Las funciones de procuración de justicia que se realicen en el Estado, se harán con base en los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, responsabilidad y respeto a los derechos humanos.
+Las funciones de procuración de justicia que se realicen en el Estado, se harán con base en los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, responsabilidad, así como con perspectiva de género y respeto a los derechos humanos.
 
 > <small>(ADICIONADO, P.O. 6 DE MARZO DE 2014)</small>
 
@@ -2777,7 +2817,25 @@ La ley establecerá los impedimentos y las excusas bajo los cuales los Magistrad
 
 ###### Artículo 146 Bis.
 
-El Tribunal de Justicia Administrativa es la autoridad jurisdiccional dotada de plena autonomía para dictar sus fallos y establecer su organización, funcionamiento, procedimientos y, en su caso, recursos contra sus resoluciones; tendrá a su cargo dirimir las controversias que se susciten entre la administración pública estatal y municipal y los particulares; imponer, en los términos que disponga la ley, las sanciones a los servidores públicos del Estado y municipales por responsabilidad administrativa grave, y a los particulares que incurran en actos vinculados con las faltas administrativas graves; así como fincar a los responsables, el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+El Tribunal de Justicia Administrativa del Estado de Durango es un órgano jurisdiccional dotado de plena autonomía para dictar sus fallos, establecer su organización, funcionamiento, procedimientos y, en su caso, los recursos contra sus resoluciones.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+El Tribunal tendrá a su cargo:
+
+I. Dirimir las controversias que se susciten entre la administración pública estatal y municipal y los particulares;
+
+II. Imponer, en los términos que disponga la ley, las sanciones a los servidores públicos estatales y municipales por responsabilidad administrativa grave, así como a los particulares que incurran en actos vinculados con faltas administrativas graves;
+
+III. Fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos, y
+
+IV. Conocer y resolver del recurso procesal que en materia de acceso a la información pública y protección de datos personales que establezca la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+Las resoluciones del Tribunal, en materia de acceso a la información y protección de datos personales serán vinculantes, definitivas y obligatorias para los sujetos obligados, sin perjuicio de los medios de defensa jurisdiccionales que procedan conforme a la ley.
 
 El Tribunal de Justicia Administrativa, se integrará con tres magistrados numerarios y tres magistrados supernumerarios, quienes suplirán a los propietarios en sus ausencias.
 
@@ -3137,9 +3195,7 @@ IV. El responsable del control interno del Poder Ejecutivo;
 
 V. Un representante del Tribunal de Disciplina Judicial;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
-
-VI. La Comisionada o Comisionado Presidente del Instituto Duranguense de Acceso a la Información y Protección de Datos Personales, y
+VI. (DEROGADA, P.O. 11 DE DICIEMBRE DE 2025)
 
 > <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
 
@@ -3353,9 +3409,9 @@ La responsabilidad por delitos cometidos durante el tiempo del encargo por cualq
 
 Los servidores públicos del Estado y de los municipios serán responsables política, administrativa, penal y civilmente de los actos u omisiones en el ejercicio de sus funciones.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE DICIEMBRE DE 2025)</small>
 
-El juicio político procederá contra la Gobernadora o el Gobernador del Estado, las y los diputados, titulares de las secretarías del Poder Ejecutivo, de los organismos de la administración pública paraestatal; las magistradas y los magistrados, los integrantes del Órgano de Administración Judicial y las Juezas y los jueces; las y los consejeros o comisionados de los órganos constitucionales autónomos, y las y los presidentes municipales, regidores, síndicos, la o el secretario y la o el tesorero de los ayuntamientos y, en su caso, concejales municipales, por actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, de acuerdo a las siguientes prevenciones:
+El juicio político procederá contra la Gobernadora o el Gobernador del Estado, las y los diputados, las personas titulares de las secretarías del Poder Ejecutivo y las personas titulares de los organismos de la administración pública paraestatal, las magistradas y los magistrados del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial; las personas integrantes del Órgano de Administración Judicial, las juezas y jueces, las y los magistrados del Tribunal de Justicia Administrativa, la persona titular de la Fiscalía Especializada en Combate a la Corrupción, la persona titular de la Comisión Estatal de Derechos Humanos, las y los presidentes municipales, regidores, síndicos, la o el secretario y la o el tesorero de los ayuntamientos y, en su caso, concejales municipales, por actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, de acuerdo a las siguientes prevenciones:
 
 I. El juicio político sólo podrá iniciarse en el tiempo que el servidor público se encuentre en funciones y dentro de un año después. Este procedimiento no tendrá una duración mayor de seis meses.
 
@@ -5158,3 +5214,37 @@ P.O. 18 DE SEPTIEMBRE DE 2025.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan a lo dispuesto por el presente decreto
+
+P.O. 11 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 241 QUE CONTIENE REFORMAS Y ADICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN MATERIA DE LA NO FACILITACIÓN DE CIGARRILLOS ELECTRÓNICOS, VAPEADORES, FENTANILO Y DROGAS SINTÉTICAS A MENORES DE EDAD”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.– Se derogan todas las disposiciones legales y reglamentarias que se opongan a lo dispuesto por el presente Decreto.
+
+P.O. 11 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 293 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se suspenden por un plazo de 90 días naturales contados a partir de la entrada en vigor del presente Decreto todos los trámites, procedimientos y medios de impugnación en materia de acceso a la información pública y de protección de datos personales; con excepción de la recepción y atención de las solicitudes de información. Para efecto de que sean remitidos lo (sic) expedientes a las autoridades Garantes.
+
+P.O. 11 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 294 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN MATERIA DE IGUALDAD SUSTANTIVA".]
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. - El Congreso del Estado tendrá un plazo de ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones necesarias a las leyes que correspondan, para dar cumplimiento a éste.
+
+TERCERO. - Se derogan todas las disposiciones legales y reglamentarias que se opongan a lo dispuesto por el presente Decreto.
