@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-prevencion-y-gestion-integral-de-residuos-para-4744
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2020-07-24"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 2 de diciembre de 2005.
 
@@ -241,7 +241,9 @@ III. Establecer programas graduales de separación de la fuente de residuos org�
 
 IV. Prevenir la generación y controlar el manejo integral de los residuos sólidos urbanos;
 
-V. Capacitar a los servidores públicos que intervienen en la prestación del servicio público de limpia, recolección, traslado, tratamiento y disposición final de residuos;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+V. Capacitar a los servidores públicos que intervienen en la prestación del servicio público de limpia, recolección, traslado, tratamiento y disposición final de residuos; y facilitarles el equipo de seguridad, y las herramientas necesarias para realizar sus actividades sin riesgos.
 
 VI. Concesionar de manera total o parcial la prestación del servicio público de limpia, recolección, traslado, tratamiento y disposición final de residuos, estos servicios forman parte del manejo integral;
 
@@ -683,7 +685,9 @@ II. Instrumentar un plan de manejo registrado ante la Secretaría para la operac
 
 III. Contar con programas para prevenir y responder a contingencias o emergencias ambientales y accidentes;
 
-IV. Contar con personal capacitado y continuamente actualizado, y
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+IV. Contar con personal capacitado y continuamente actualizado, dotado de los equipos de seguridad y herramientas necesarias para su seguridad y de las instalaciones, y;
 
 V. Otorgar garantías para asegurar que al cierre de las operaciones de sus instalaciones, éstas queden libres de residuos y no presenten niveles de contaminación que puedan representar un riesgo para la salud humana y el ambiente.
 
@@ -784,6 +788,10 @@ I. Las condiciones necesarias para el transporte, dependiendo del tipo de residu
 II. Las medidas de seguridad en el transporte, tanto para el medio ambiente de forma integral así como prioritariamente la salud humana, y
 
 III. Las mejores rutas de transporte, dependiendo de los lugares de salida y destino de los residuos.
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+IV. Los equipos y herramientas de seguridad para el personal y la capacitación necesaria para desempeñar sus actividades con seguridad.
 
 ###### ARTÍCULO 54.
 
@@ -1060,3 +1068,11 @@ PRIMERO.- El presente decreto deberá publicarse en el Periódico Oficial del Go
 SEGUNDO.- La Secretaría de Medio Ambiente contará con un plazo de 365 días contados a partir de la entrada en vigor de este decreto, para elaborar las disposiciones relativas a las excepciones sobre el uso de bolsas y popotes plásticos y productos de poliestireno expandido.
 
 TERCERO.- Se dejan sin efectos las disposiciones que se opongan a lo previsto en este decreto.
+
+P.O. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 322.- SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 8, LA FRACCIÓN IV DEL ARTÍCULO 39; Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 53 DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
