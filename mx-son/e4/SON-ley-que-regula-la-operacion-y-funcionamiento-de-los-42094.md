@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-la-operacion-y-funcionamiento-de-los-42094"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2024-12-27"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Cuarta Sección del Boletín Oficial del Estado de Sonora, el jueves 23 de diciembre de 2004.
 
@@ -655,9 +655,11 @@ Las cantinas, centros nocturnos, centros de eventos o salones de baile, restaura
 
 El horario estipulado en los artículos anteriores, es para la venta y para el consumo de bebidas con contenido alcohólico, sin que por motivo alguno se pueda exceder del mismo, salvo las excepciones señaladas en esta Ley. Asimismo, los establecimientos señalados en las fracciones V, VI, VII, VIII, XI y XV del artículo 10 de la presente Ley, tienen la obligación de suspender la venta de bebidas alcohólicas, pero podrán continuar prestando los demás servicios preponderantes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 30.
 
-Es facultad del Ejecutivo del Estado, por conducto de la Secretaría, señalar los días en que los establecimientos a que se refiere la presente Ley, no podrá venderse ni consumirse bebidas con contenido alcohólico. En este caso, el Ejecutivo a través de la Secretaría los dará a conocer por los medios de comunicación social que considere convenientes.
+Es facultad del Ejecutivo del Estado, por conducto de la Secretaría, señalar los días en que quedará prohibida la venta y el consumo de bebidas con contenido alcohólico en los establecimientos regulados por la presente Ley. Para tal efecto, el Ejecutivo a través de la Secretaría, deberá difundir dicha determinación mediante los medios de comunicación social que considere adecuados.
 
 Independientemente de lo anterior, se prohíbe la venta y consumo de bebidas con contenido alcohólico, en los horarios y días que determinen las disposiciones de las legislaciones electorales federal y estatal.
 
@@ -847,8 +849,6 @@ En tanto se autorice la revalidación de la licencia, el establecimiento podrá 
 
 Los ayuntamientos, participarán de los ingresos que se recauden en sus respectivas jurisdicciones por la revalidación señalada en este artículo, en un porcentaje que no podrá ser inferior al 20%, en la forma que determine anualmente la legislatura en la Ley de Ingresos del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 Artículo 45 BIS.- Las licencias deberán canjearse cada 3 años durante los meses de enero a mayo. Para tales efectos los titulares de las licencias o sus representantes legales, deberán presentar ante la Secretaría una solicitud en la que se manifieste bajo protesta de decir verdad que no se han modificado las condiciones en que se otorgó la licencia originalmente. Si hubiera alguna modificación en cuanto al giro, cambio de domicilio o de horario, se requerirá una nueva anuencia del ayuntamiento respectivo.
@@ -875,7 +875,7 @@ En tanto se autorice el canje de la licencia, el establecimiento podrá seguir o
 
 El Ejecutivo del Estado, por conducto de la Secretaría, deberá informar a los ayuntamientos, dentro de los quince días siguientes a la fecha del vencimiento para el canje, sobre las licencias canjeadas y de las no autorizadas a los establecimientos regulados por esta Ley y que se encuentren ubicados en el territorio del Municipio respectivo.
 
-Los ayuntamientos, participarán de los ingresos que se recauden en sus respectivas jurisdicciones por el canje señalado en este artículo, en un porcentaje que no podrá ser inferior al 20%, en la forma que determine anualmente la Legislatura en la Ley de Ingresos del Estado.
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
 #### SECCIÓN IV. DE LA ENAJENACIÓN DE LOS GIROS
 
@@ -1926,3 +1926,35 @@ El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 0
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+B.O. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 76, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL, DE LA LEY DE HACIENDA DEL ESTADO, DE LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE SONORA, DE LA LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTOS DE LOS ESTABLECIMIENTOS DESTINADOS A LA OPERACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA Y DE LA LEY DE TRÁNSITO DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 01 de enero de 2026, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+A las contrataciones de servicios profesionales efectuadas durante los ejercicios fiscales 2024 y 2025, a que se refiere el artículo 25 de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora, les será aplicable el mismo tratamiento establecido en ese numeral.
+
+###### ARTÍCULO CUARTO.
+
+Para los efectos del artículo 22 del Código Fiscal, el uso de la firma electrónica avanzada estatal, entrará en vigor a partir de la fecha en que la autoridad competente declare en operación la infraestructura tecnológica necesaria para su aplicación.
+
+###### ARTÍCULO QUINTO.
+
+Lo dispuesto por el numeral 9 de la fracción V del artículo 321 de la Ley de Hacienda del Estado, también se aplicará a todos los trámites iniciados con anterioridad a la entrada en vigor de la presente reforma, únicamente para efectos de regularización y precisión del cumplimiento del servicio registral, sin que ello implique perjuicio para los derechos ya adquiridos por los usuarios.
+
+###### ARTÍCULO SEXTO.
+
+Para efectos de lo previsto en el numeral 10 de la fracción II Bis del artículo 326 de la Ley de Hacienda del Estado, las disposiciones contenidas en dicho numeral entrarán en vigor en la fecha en que inicie formalmente operaciones el espacio denominado "La Burbuja Museo del Niño".
+
+###### ARTÍCULO SÉPTIMO.
+
+Para efectos de lo previsto en la fracción XXXI del artículo 3 de la Ley de Control Vehicular para el Estado de Sonora, la tarjeta de circulación digital entrará en vigor a partir de la fecha en que la Secretaría de Hacienda del Estado declare en operación la infraestructura necesaria para su implementación. La Secretaría de Hacienda emitirá mediante Acuerdo publicado en el Boletín Oficial del Gobierno del Estado de Sonora, la declaratoria de inicio de vigencia, una vez que se cuente con la disponibilidad técnica y operativa de dicha infraestructura.
