@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-civil-para-el-estado-de-coahuila-de-74938"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-14"
-last_updated: "2021-01-26"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74938&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 14 de mayo de 2010.
 
@@ -882,6 +882,10 @@ El Consejo Estatal y los consejos municipales realizarán campañas permanentes 
 ARTÍCULO 22 A.- Todos los elementos operativos adscritos a las unidades de Protección civil y a los servicios de atención de emergencias, deberán contar con una capacitación básica común que les permita conocer el funcionamiento del Sistema Estatal de Protección Civil.
 
 Para ello, deberán efectuar un curso específico que será impartido por alguna de las instituciones registradas en la Escuela Nacional de Protección Civil, el cual contendrá las materias que les permitan adquirir los conocimientos y aptitudes generales básicas, para ejercer sus funciones en las unidades de Protección Civil y en los servicios de atención de emergencias.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+Las autoridades competentes, promoverán que se brinden capacitaciones básicas en primeros auxilios a los elementos operativos adscritos a las unidades de protección civil, en coordinación con las instituciones en la materia.
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
 
@@ -2034,3 +2038,11 @@ P.O. 26 DE ENERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 812.- SE REFORMA EL SEGUNDO PÁRRAFO AL ARTÍCULO 17 DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 316.- SE ADICIONA UN TERCER PÁRRAFO, AL ARTÍCULO 22 A, DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
