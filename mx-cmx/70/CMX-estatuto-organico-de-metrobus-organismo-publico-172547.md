@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-de-metrobus-organismo-publico-172547"
 country: "mx"
 rank: "estatuto"
 publication_date: "2024-04-15"
-last_updated: "2025-10-13"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=172547&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2024-04-09"
 ---
 # ESTATUTO ORGANICO DE "METROBUS" ORGANISMO PUBLICO DESCENTRALIZADO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE DICIEMBRE DE 2025 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DE “METROBÚS” ORGANISMO PÚBLICO DESCENTRALIZADO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE OCTUBRE DE 2025.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 12 DE DICIEMBRE DE 2015 NO APLICA AL ARTICULADO DE LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO NÚMERO 1714, PUBLICADA EN EL P.O. DE 13 DE OCTUBRE DE 2025.]</small>
 
 Estatuto publicado en el No. 1337 de la Gaceta Oficial de la Ciudad de México, el lunes 15 de abril de 2024.
 
@@ -949,3 +949,11 @@ G.O. 13 DE OCTUBRE DE 2025.
 PRIMERO.- Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México, para su debida observancia y aplicación.
 
 SEGUNDO.- El presente Aviso entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E.TRANSITORIOS DE LA “NOTA ACLARATORIA AL AVISO POR EL QUE SE REFORMA EL ESTATUTO ORGÁNICO DE “METROBÚS” DEL ORGANISMO PÚBLICO DESCENTRALIZADO, PUBLICADO EL 13 DE OCTUBRE DE 2025, EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, NÚMERO 1714”.]
+
+PRIMERO.- Publíquese el presente Nota Aclaratoria en la Gaceta de la Ciudad de México para su difusión.
+
+SEGUNDO.- La presente Nota Aclaratoria entrará en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
