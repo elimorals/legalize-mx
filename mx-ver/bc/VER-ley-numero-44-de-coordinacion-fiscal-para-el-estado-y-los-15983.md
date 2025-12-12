@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-44-de-coordinacion-fiscal-para-el-estado-y-los-15983
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2024-12-26"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15983&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 44 DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 30 de diciembre de 1999.
 
@@ -1457,9 +1457,9 @@ HIDALGO 0.00157628307
 
 TOTAL 1.00000000000
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, G.O. 12 DE DICIEMBRE DE 2025)</small>
 
-Artículo tercero.- Para el ejercicio fiscal del año 2025, la recaudación derivada de la aplicación de la Ley del Impuesto Especial sobre Producción y Servicios al consumo de gasolina y diesel, en su porcentaje correspondiente al 9/11, se distribuirá a los municipios de la Entidad en 70% con base en el factor de distribución del Fondo de Aportaciones para el Fortalecimiento de los Municipios y las Demarcaciones Territoriales del Distrito Federal (FORTAMUNDF) y en 30% con base en el Fondo de Infraestructura Social Municipal (FISM) vigentes en 2024.
+Artículo tercero. Para el ejercicio fiscal del año 2026, la recaudación derivada de la aplicación de la Ley del Impuesto Especial sobre Producción y Servicios al consumo de gasolina y diésel, en su porcentaje correspondiente al 9/11, se distribuirá a los municipios de la Entidad en 70% con base en el factor de distribución del Fondo de Aportaciones para el Fortalecimiento de los Municipios y las Demarcaciones Territoriales del Distrito Federal (FORTAMUNDF) y en 30% con base en el Fondo de Infraestructura Social Municipal (FISM) vigentes en 2025.
 
 Artículo cuarto. (DEROGADO, G.O. 9 DE JUNIO DE 2008)
 
@@ -1768,5 +1768,13 @@ G.O. 26 DE DICIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 224 QUE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 275 QUE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
