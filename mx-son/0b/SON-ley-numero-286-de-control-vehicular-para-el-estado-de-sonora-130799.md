@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-286-de-control-vehicular-para-el-estado-de-sonora-13
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-27"
-last_updated: "2024-12-27"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE CONTROL VEHICULAR PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 27 de septiembre de 2018.
 
@@ -117,7 +117,9 @@ XXIX.-Secretaría: la Secretaría de Hacienda del Poder Ejecutivo del Estado.
 
 XXX.- Número de serie: conjunto de caracteres alfanuméricos que describen las generalidades de un vehículo.
 
-XXXI.- Tarjeta de Circulación: elemento de identificación vehicular autorizado por la Secretaría de Comunicaciones y Transportes, es indispensable para la circulación e identificación, expedida por la Secretaría, que contiene las características y el número de matrícula asignado al vehículo.
+> <small>(REFORMADA, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+XXXI.- Tarjeta de Circulación: Documento de identificación vehicular, en formato físico y/o digital, autorizado por la Secretaría de Infraestructura, Comunicaciones y Transportes, expedido por la Secretaría, indispensable para la circulación e identificación del vehículo, que contiene las características y el número de matrícula asignado al mismo.
 
 XXXII.- Trámites de Control Vehicular: los que se enuncian en el Artículo 13 de la Ley.
 
@@ -146,6 +148,10 @@ XXXIX.- Comprobante Fiscal de origen: es el comprobante fiscal emitido por prime
 > <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
 XL.- Datos biométricos: Propiedades físicas, fisiológicas, de comportamiento o rasgos de la personalidad, atribuibles a una sola persona y que son medibles, tal como, las huellas digitales, el rostro, la retina, el iris, la firma autógrafa, entre otros.
+
+> <small>(ADICIONADA, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+XLI.- Constancia o documento de regularización: Documento mediante el cual se acredita la legal estancia del vehículo en el territorio nacional, por haber sido regularizado de conformidad con el Decreto de regularización correspondiente o la normatividad aplicable.
 
 ###### ARTÍCULO 4.
 
@@ -204,6 +210,10 @@ C) Las resoluciones de tribunales o autoridades competentes que hagan las veces 
 > <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
 
 D) De ser de procedencia nacional, la refactura o comprobante fiscal diferente al de origen, emitido por quien enajena el vehículo a favor del nuevo propietario. A este documento, de contar con él, se podrá adjuntar copia del comprobante que le dio origen como vehículo nuevo. Si la unidad es importada, el original del pedimento de importación.
+
+> <small>(ADICIONADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+E). La constancia o documento de regularización vehicular correspondiente, expedida por la autoridad competente, en términos del Decreto de regularización o normativa aplicable.
 
 ###### ARTÍCULO 8.
 
@@ -455,9 +465,9 @@ A) Tratándose de vehículos nuevos:
 
 2. Original del documento con el que acredite la propiedad del vehículo en los términos de la presente Ley;
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-3. Tratándose de vehículos importados, presentar pedimento de importación o acreditar la existencia del mismo en la factura correspondiente. Este último supuesto, en el caso de facturas expedidas por agencias comercializadoras de autos nuevos en territorio nacional; y
+3. Tratándose de vehículos importados, presentar pedimento de importación, mismo que deberá ser validado favorablemente conforme a lo establecido por el inciso d) del numeral 5 del artículo 312 de la Ley de Hacienda del Estado, o acreditar la existencia del mismo en la factura correspondiente. Este último supuesto, en el caso de facturas expedidas por agencias comercializadoras de autos nuevos en territorio nacional; y
 
 4. Licencia de conducir del Estado, vigente.
 
@@ -469,7 +479,9 @@ B) Tratándose de vehículos usados:
 
 2. Original del documento con el que acredite la propiedad del vehículo en los términos de la presente Ley;
 
-3. Pedimento de importación, tratándose de vehículos importados;
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+3. Pedimento de importación, tratándose de vehículos importados; o constancia o documento de regularización correspondiente, tratándose de vehículos regularizados;
 
 4. Licencia de conducir del Estado, vigente;
 
@@ -477,7 +489,9 @@ B) Tratándose de vehículos usados:
 
 6. Comprobación del pago de contribuciones vehiculares por los últimos 5 años, cuando la unidad provenga de otra entidad diferente al Estado.
 
-El trámite de referencia deberá realizarse dentro los quince días hábiles siguientes al de la fecha de adquisición, pedimento de importación al interior del país o zona fronteriza, o de la baja de placas.
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+El trámite de referencia deberá realizarse dentro los quince días hábiles siguientes al de la fecha de adquisición, emisión de la constancia o documento de regularización correspondiente, pedimento de importación al interior del país o zona fronteriza, o de la baja de placas.
 
 > <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
@@ -537,7 +551,9 @@ A) Presentar físicamente el vehículo para la inspección del mismo, así como 
 
 B) Original del documento con el que acredite la propiedad del vehículo en los términos de la presente Ley;
 
-C) Pedimento de importación, tratándose de vehículos importados;
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+C) Pedimento de importación, tratándose de vehículos importados, o bien la constancia o documento de regularización correspondiente, tratándose de vehículos regularizados;
 
 D) Licencia de conducir del Estado, vigente; y
 
@@ -565,13 +581,17 @@ Las dimensiones y características de las placas metálicas, tarjetas de circula
 
 Todo vehículo deberá circular con los elementos de identificación vehicular, la violación a este artículo será sancionada en los términos precisados en la presente Ley y el Reglamento de la misma, sin perjuicio de los procedimientos y sanciones de otra naturaleza que de dicha infracción se deriven.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 24.
 
-Las placas metálicas expedidas por el Estado son propiedad de éste, y se entregarán para uso, conservación y custodia al propietario, junto con la calcomanía de identificación vehicular y la tarjeta de circulación, el mismo día en que se realice la incorporación del vehículo en el Registro Vehicular Estatal, o se actualicen los datos del mismo, según sea el caso.
+Las placas metálicas expedidas por el Estado son propiedad de éste, y se entregarán para uso, conservación y custodia al propietario, junto con la calcomanía de identificación vehicular y la tarjeta de circulación física y/o digital, el mismo día en que se realice la incorporación del vehículo en el Registro Vehicular Estatal, o se actualicen los datos del mismo, según sea el caso.
 
 Los elementos de identificación vehicular, son intransferibles, estos deberán permanecerán (sic) en el vehículo hasta en tanto éste se enajene o cause baja.
 
-El plazo concedido para el uso y custodia de las placas metálicas, tarjeta de circulación y calcomanía de identificación vehicular, será el que establezca la Norma Oficial Mexicana correspondiente.
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+El plazo concedido para el uso y custodia de las placas metálicas, tarjeta de circulación física y/o digital y calcomanía de identificación vehicular, será el que establezca la Norma Oficial Mexicana correspondiente.
 
 ###### ARTÍCULO 25.
 
@@ -643,7 +663,9 @@ I.- Acta formulada ante el Ministerio Público, tratándose del robo o extravío
 
 II.- Resolución definitiva emitida por Tribunal competente, tratándose de documentos que acrediten la propiedad de los vehículos o documentos oficiales distintos a los mencionados en la fracción anterior, expedidos por autoridades o entes que a la fecha se encuentren extintas.
 
-Tratándose del extravío de comprobantes de pago, pedimentos de importación y, en general, documentos expedidos por autoridades existentes al momento de realizar el trámite, la persona tramitará ante dichas autoridades la reposición, o bien, copia certificada de los documentos de que se trate.
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+Tratándose del extravío de comprobantes de pago, constancia o documento de regularización correspondiente, pedimentos de importación y, en general, documentos expedidos por autoridades existentes al momento de realizar el trámite, la persona tramitará ante dichas autoridades la reposición, o bien, copia certificada de los documentos de que se trate.
 
 En el supuesto de robo de un vehículo, el Ministerio Público deberá dar el aviso inmediato a la Secretaría para los efectos legales conducentes, sin perjuicio de que el propietario pueda hacerlo acompañando los medios que así lo acrediten.
 
@@ -1356,3 +1378,35 @@ El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 0
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+B.O. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 76 POR EL QUE “SE REFORMAN LA FRACCIÓN XXXI DEL ARTÍCULO 3; EL NUMERAL 3 DEL INCISO A) DE LA FRACCIÓN I, EL NUMERAL 3 DEL INCISO B) DE LA FRACCIÓN I, EL SEGUNDO PÁRRAFO DEL INCISO B), DE LA FRACCIÓN I, EL INCISO C) DE LA FRACCIÓN VI, DEL ARTÍCULO 19; EL PRIMER Y TERCER PÁRRAFO DEL ARTÍCULO 24; Y SE ADICIONAN LA FRACCIÓN XLI AL ARTÍCULO 3; Y EL INCISO E) A LA FRACCIÓN II DEL ARTÍCULO 7, DE LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 01 de enero de 2026, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+A las contrataciones de servicios profesionales efectuadas durante los ejercicios fiscales 2024 y 2025, a que se refiere el artículo 25 de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora, les será aplicable el mismo tratamiento establecido en ese numeral.
+
+###### ARTÍCULO CUARTO.
+
+Para los efectos del artículo 22 del Código Fiscal, el uso de la firma electrónica avanzada estatal, entrará en vigor a partir de la fecha en que la autoridad competente declare en operación la infraestructura tecnológica necesaria para su aplicación.
+
+###### ARTÍCULO QUINTO.
+
+Lo dispuesto por el numeral 9 de la fracción V del artículo 321 de la Ley de Hacienda del Estado, también se aplicará a todos los trámites iniciados con anterioridad a la entrada en vigor de la presente reforma, únicamente para efectos de regularización y precisión del cumplimiento del servicio registral, sin que ello implique perjuicio para los derechos ya adquiridos por los usuarios.
+
+###### ARTÍCULO SEXTO.
+
+Para efectos de lo previsto en el numeral 10 de la fracción II Bis del artículo 326 de la Ley de Hacienda del Estado, las disposiciones contenidas en dicho numeral entrarán en vigor en la fecha en que inicie formalmente operaciones el espacio denominado “La Burbuja Museo del Niño”.
+
+###### ARTÍCULO SÉPTIMO.
+
+Para efectos de lo previsto en la fracción XXXI del artículo 3 de la Ley de Control Vehicular para el Estado de Sonora, la tarjeta de circulación digital entrará en vigor a partir de la fecha en que la Secretaría de Hacienda del Estado declare en operación la infraestructura necesaria para su implementación. La Secretaría de Hacienda emitirá mediante Acuerdo publicado en el Boletín Oficial del Gobierno del Estado de Sonora, la declaratoria de inicio de vigencia, una vez que se encuentre con la disponibilidad técnica y operativa de dicha infraestructura.
