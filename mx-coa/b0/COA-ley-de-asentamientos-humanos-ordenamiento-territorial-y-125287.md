@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asentamientos-humanos-ordenamiento-territorial-y-125287"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-26"
-last_updated: "2022-11-15"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 26 de diciembre de 2017.
 
@@ -2619,6 +2619,18 @@ VI. No se fusionen sus lotes con predios colindantes con uso de corredor urbano,
 
 VII. En las colindancias del fraccionamiento con vialidades, el muro o barda perimetral deberá tener elementos arquitectónicos que permitan la visibilidad del y hacia el interior del fraccionamiento, en al menos un trece por ciento de la longitud de los tramos de muros ciegos o bardas.
 
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+Los colonos, habitantes o arrendatarios de los fraccionamientos podrán acordar la creación de asambleas o comités para regular la convivencia, el uso de los espacios comunes y todos los aspectos que se consideren necesarios para mejorar la calidad de vida al interior de cada fraccionamiento.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+Asimismo, podrán acordar la creación de reglamentos internos para cumplir con los fines antes señalados, los cuáles serán validos cuando sean aprobados por la mayoría absoluta de los propietarios o arrendatarios del fraccionamiento, y serán obligatorios para todos. La creación de las asambleas o comités también requiere del mismo porcentaje de votación de los habitantes del fraccionamiento.
+
+> <small>(ADICIONADO [N. DE E. PERTENECE A LA FRACCIÓN VII], P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+Los reglamentos antes mencionados deberán apegarse a las leyes normas y reglamentos estatales y municipales en materia de asentamientos humanos, urbanismo, vivienda, agua potable, vialidad, seguridad pública, y respeto a los derechos humanos.
+
 Toda autorización que se otorgue en contravención con este artículo es nula de pleno derecho.
 
 ###### Artículo 180.
@@ -4348,3 +4360,11 @@ P.O. 15 DE NOVIEMBRE DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 325.- SE ADICIONAN TRES PÁRRAFOS A LA FRACCIÓN VII DEL ARTÍCULO 179 DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
