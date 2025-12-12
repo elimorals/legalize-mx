@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-los-derechos-proteccion-e-integracion-de-las-85797"
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-06"
-last_updated: "2025-10-03"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 6 de enero de 2012.
 
@@ -819,6 +819,22 @@ II.- Promover que en los proyectos de inversión a que se refiere la Ley de Fome
 
 III.- Impulsar cualquier tipo de medida con el fin de que el sector empresarial otorgue más y mejores prestaciones laborales para las personas adultas mayores.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+#### SECCIÓN X. DE LA SECRETARÍA DE CULTURA
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+Artículo 44 TER.- Corresponde a la Secretaría de Cultura:
+
+I.- Estimular a las personas adultas mayores a la creación y goce de la cultura, facilitando su acceso a través de talleres, exposiciones, concursos y eventos comunitarios, municipales, estatales, nacionales e internacionales;
+
+II.- Diseñar, promover y establecer en coordinación con el INAPAM y el DIF estatal y municipal, la política estatal en materia cultural, enfocada a este sector de la población;
+
+III.- Implementar y promover ante las instancias correspondientes, que en los eventos culturales y artísticos organizados por autoridades estatales, municipales o de iniciativa privada, se propicie la accesibilidad, la gratuidad o descuentos especiales de las personas adultas mayores;
+
+IV.- Impulsar el derecho de hacer uso de las bibliotecas públicas que facilitaran el préstamo a domicilio del material de las mismas.
+
 ## TÍTULO QUINTO. CONSEJO ESTATAL PARA LA PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES
 
 ### CAPÍTULO I. DE SU NATURALEZA, OBJETO Y FUNCIONES
@@ -1216,3 +1232,9 @@ P.O. 3 DE OCTUBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 140 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 49, 62 Y 63 DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 193 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UNA SECCIÓN X DENOMINADA DE LA SECRETARÍA DE CULTURA, ASÍ COMO A LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
