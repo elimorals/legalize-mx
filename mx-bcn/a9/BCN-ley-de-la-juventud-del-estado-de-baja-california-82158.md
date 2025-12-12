@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-juventud-del-estado-de-baja-california-82158"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-11"
-last_updated: "2025-05-13"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LA JUVENTUD DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el lunes 11 de julio de 2011.
 
@@ -433,17 +433,21 @@ Los jóvenes tienen el derecho de fortalecer y expresar sus diferentes vocacione
 
 El Gobierno deberá crear, promover y apoyar, por todos los medios a su alcance, iniciativas e instancias para que los jóvenes tengan la posibilidad y la oportunidad de identificar sus vocaciones y fortalecer las acciones para desarrollar su vocación a plenitud.
 
-#### SECCIÓN TERCERA. DERECHO A UN TRABAJO DIGNO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+#### SECCIÓN TERCERA. DERECHO AL PRIMER EMPLEO Y UN TRABAJO DIGNO
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 34.
 
-Los jóvenes tienen derecho a un trabajo digno, bien remunerado y a una protección especial del mismo, de acuerdo con su vocación, aptitudes y destrezas, de forma que les permita elevar su calidad de vida en la sociedad, de conformidad con las disposiciones laborales aplicables.
+Las y los jóvenes tienen derecho a un trabajo digno, bien remunerado y con sus prestaciones de ley, que garantice su seguridad física y emocional, el trabajo promoverá su desarrollo integral, respetando sus habilidades, vocaciones y necesidades, asegurando condiciones laborales que les permitan alcanzar su máximo potencial en un entorno equitativo y libre de discriminación.
 
-Lo anterior bajo las consideraciones de la igualdad de oportunidades y trato, en lo relativo a la inserción, remuneración sin discriminación, promoción y condiciones en el trabajo para hacer compatible el tiempo de estudio con la vida laboral, tomando en cuenta la edad de los jóvenes.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 35.
 
-El Estado y los Municipios contemplarán en sus planes y programas de gobierno estrategias y líneas de acción para impulsar el empleo juvenil, bolsas de trabajo, capacitación laboral, financiamiento para proyectos productivos, el autoempleo, así como políticas públicas en coordinación con el Gobierno Federal, que promuevan la oportunidad de trabajo para los jóvenes.
+El Estado y los Municipios, en coordinación con instituciones educativas y el sector privado y social, establecerán programas de vinculación laboral dirigida a las y los jóvenes, contemplaran en sus planes y programas de gobierno estrategias y líneas de acción para impulsar el empleo juvenil, bolsas de trabajo, capacitación laboral, financiamiento para proyectos productivos, el autoempleo, así como políticas públicas en coordinación con el Gobierno Federal, que promuevan la oportunidad de trabajo para las juventudes.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2016)</small>
 
@@ -455,9 +459,11 @@ Las políticas de empleo juvenil que formulen el Estado y los Municipios dirigid
 
 Bajo ninguna circunstancia se permitirá a los jóvenes menores de edad desempeñar un empleo que obstaculice o retarde su desarrollo físico, mental, emocional o profesional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 37.
 
-El Estado y los Municipios fomentaran el desarrollo de políticas públicas que permitirán a los jóvenes acceder a su primer empleo, atendiendo de manera especial a quienes se encuentren temporalmente desocupados.
+El Estado y los Municipios, en coordinación con instituciones educativas y el sector privado y social fomentarán políticas de contratación laboral juvenil, siempre y cuando cumplan con el perfil requerido, mediante procesos de selección transparentes y con enfoque de igualdad de oportunidades, otorgando prioridad para ocupar las vacantes disponibles a quienes les hayan prestado el servicio social.
 
 Las funciones que desempeñe un empleado joven en su primer empleo deberán ser adecuadas al nivel de formación y preparación académica.
 
@@ -467,9 +473,13 @@ Las empresas que contraten a jóvenes en la modalidad de primer empleo recibirá
 
 De igual forma se proporcionarán los beneficios económicos y estímulos que al efecto señale la normatividad fiscal y económica, a las empresas que proporcionen empleos temporales a jóvenes estudiantes durante sus periodos vacacionales.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 38.
 
-Los Poderes del Estado, los Municipios, los Organismos Constitucionales Autónomos, en el ámbito de su competencia, así como el sector social y privado, deberán impulsar el servicio social y las prácticas profesionales del sector educativo, como vínculo para generar el desarrollo profesional y laboral de los jóvenes, acercándolos a la oportunidad de conseguir su primer empleo.
+El Estado y los Municipios, en coordinación con instituciones educativas y el sector privado y social con los Organismos Constitucionales Autónomos, en el ámbito de su competencia, impulsarán el servicio social y las prácticas profesionales del sector educativo, como vínculo para generar el desarrollo profesional y laboral de las y los jóvenes, acercándolos a la oportunidad de conseguir su primer empleo.
+
+El servicio social y las prácticas profesionales deberán ser realizadas en entornos laborales seguros, éticos y supervisados, que promuevan el aprendizaje y la formación integral de las juventudes, para garantizar que las y los jóvenes adquieran competencias relevantes y demandadas en el mercado laboral actual.
 
 #### SECCIÓN CUARTA. DERECHO A LA CULTURA Y AL ARTE
 
@@ -2010,3 +2020,9 @@ P.O. 13 DE MAYO DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 93 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 83 DE LA LEY DE LA JUVENTUD DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 194 MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS, ASÍ COMO LA REFORMA A LA SECCIÓN TERCERA DEL CAPÍTULO TERCERO TODOS A LA LEY DE LA JUVENTUD DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
