@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2025-11-07"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2385,7 +2385,9 @@ Sin perjuicio de la agravación de la pena, que se imponga conforme al párrafo 
 
 Artículo 175 QUINQUIES.- Tipo y punibilidad.- Al que por cualquier medio usurpe o suplante con fines ilícitos o de lucro, la identidad de otra persona, u otorgue su consentimiento para llevar a cabo la usurpación o suplantación en su identidad, se le impondrá pena de seis meses a seis años de prisión y de cuatrocientos a seiscientos días multa.
 
-Se aumentarán en una mitad las penas previstas en el párrafo anterior, a quien además se valga de la homonimia, parecido físico o similitud de la voz para cometer el delito así como en el supuesto de que el sujeto activo del delito tenga licenciatura, ingeniería o cualquier otro grado académico reconocido en el rubro de la informática, telemática o sus afines.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+Las penas previstas en el párrafo anterior se incrementar (sic) en una mitad cuando el sujeto activo del delito se valga del uso de inteligencia artificial, homonimia, parecido físico o similitud de la voz para cometer el delito, así como en el supuesto de que el sujeto activo del delito tenga licenciatura, ingeniería o cualquier otro grado académico reconocido en el rubro de la informática, telemática o sus afines.
 
 Serán equiparables al delito de usurpación o suplantación de identidad y se impondrán las penas establecidas por este artículo, cuando se actualicen las siguientes conductas:
 
@@ -5249,9 +5251,11 @@ Se impondrá prisión de uno a siete años y multa de cincuenta a tres mil quini
 
 I.- Ilícitamente o sin aplicar las medidas de prevención o seguridad, autorice, ordene, emita, despida o descargue en la atmósfera, gases, humos, polvos, líquidos o partículas contaminantes provenientes de fuentes fijas de competencia estatal o municipal;
 
-> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-II.- Ilícitamente realice, ordene o autorice la descarga o depósito de aguas residuales, químicos o bioquímicos, desechos, residuos o sustancias contaminantes en el territorio del Estado o en aguas de competencia estatal o municipal que rebase el doble de los parámetros y límites permisibles en las normas oficiales mexicanas o en las normas técnicas estatales vigentes; y
+II.- Ilícitamente realice, ordene o autorice la descarga o depósito de aguas residuales, químicos o bioquímicos, desechos, residuos o sustancias contaminantes en el territorio del Estado o en aguas de competencia estatal o municipal que rebase el doble de los parámetros y límites permisibles en las normas oficiales mexicanas o en las normas técnicas estatales vigentes; así como a quien dolosamente y sin derecho retire, destruya o modifique fuera de especificaciones un dispositivo o sistema de control de emisiones a la atmósfera, que por regulación deba estar instalado en una fuente emisora fija o móvil.
+
+Si en la acción converge alguna de las conductas previstas en el artículo 208 TER de este Código, se aplicarán las reglas de la acumulación.
 
 > <small>(REFORMADA, P.O. 27 DE ABRIL DE 2007)</small>
 
@@ -5310,6 +5314,12 @@ VI.- Sea sancionado por la autoridad ambiental estatal competente, por incurrir 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 Cuando las conductas a que se refiere este artículo e (sic) lleven a cabo por los auditores ambientales, presentadores de servicio, peritos en monitoreo, propietarios, técnicos o encargados de centros de verificación, señalados en la Ley de Protección al Ambiente para el Estado de Baja California, la pena correspondiente se aumentara de tres hasta siete años de prisión y multa hasta cinco mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 341 Bis.
+
+Se impondrá de uno a tres años de prisión y multa equivalente de cincuenta a mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente, a quien, sin autorización de autoridad ambiental competente, recolecte, transporte o almacene residuos sujetos a condiciones particulares de manejo.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 2014)</small>
 
@@ -6920,3 +6930,15 @@ P.O. 7 DE NOVIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 158 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 325 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 179 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DEL ARTÍCULO 340 Y ADICIÓN DEL ARTÍCULO 341 BIS AL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 180 MEDIANTE EL CUAL SE APRUEBA (SIC) REFORMA AL ARTÍCULO 175 QUINQUIES DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
