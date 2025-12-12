@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-167794"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-09-11"
-last_updated: "2025-07-14"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167794&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección Segunda del Número 46 de la Gaceta de Gobierno del Estado de México, el lunes 11 de septiembre de 2023.
 
@@ -617,15 +617,25 @@ XXI. Operar, en el ámbito de su competencia y en coordinación con la Secretar�
 
 XXII. Promover políticas y acciones para la prevención y, en su caso, denuncia de actos de acoso laboral, en los sectores público, privado y social;
 
-XXIII. Promover mecanismos de conciliación entre el empleo y la familia, incluyendo el tele - trabajo y la movilidad geográfica voluntaria en razón de la proximidad de los centros de trabajo;
+> <small>(REFORMADA, G.G. 12 DE DICIEMBRE DE 2025)</small>
+
+XXIII. Promover mecanismos y políticas de conciliación entre la vida laboral, familiar y personal mediante programas y acciones permanentes de capacitación y difusión que, de manera enunciativa mas no limitativa, considere los principios de flexibilidad laboral, permisos, apoyos, cultura de desconexión, bienestar, inclusión y participación;
 
 XXIV. Instrumentar acciones de capacitación y adiestramiento para el desarrollo de competencias para el trabajo, en el ámbito de sus competencias; y considerando alianzas institucionales con organismos públicos, privados y sociales nacionales y extranjeros, anteponiendo el respeto a los derechos humanos y laborales de los trabajadores y el enaltecimiento del trabajo digno y justo;
 
 XXV. Coordinar, dirigir y vigilar los trabajos y acciones de la Procuraduría de la Defensa del Trabajo del Estado, a fin de garantizar el respeto, protección y defensa de los derechos laborales, así como la promoción de la conciliación de las partes;
 
-XXVI. Impulsar y apoyar el desarrollo social, cultural y recreativo de los trabajadores y sus familias; y
+> <small>(REFORMADA, G.G. 12 DE DICIEMBRE DE 2025)</small>
 
-XXVII. Las demás que le señalen otras leyes, reglamentos y disposiciones jurídicas aplicables, así como las que le encomiende la persona titular del Poder Ejecutivo del Estado.
+XXVI. Impulsar y apoyar el desarrollo social, cultural y recreativo de los trabajadores y sus familias;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 12 DE DICIEMBRE DE 2025)</small>
+
+XXVII. Diseñar y ejecutar un programa que integre una bolsa de trabajo para vincular a las personas que habiten en el Estado de México al sector productivo. Este programa deberá incluir mecanismos para las personas jóvenes recién egresadas del nivel educativo medio superior, técnico profesional, superior y posgrado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 12 DE DICIEMBRE DE 2025)</small>
+
+XXVIII. Las demás que le señalen otras leyes, reglamentos y disposiciones jurídicas aplicables, así como las que le encomiende la persona titular del Poder Ejecutivo del Estado.
 
 ###### Artículo 34.
 
@@ -1936,3 +1946,27 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. El Ejecutivo del Estado expedirá, en un plazo no mayor a los ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, las adecuaciones a los reglamentos necesarios para la aplicación y armonización de las porciones normativas sujetas a la misma.
 
 CUARTO. En tanto se expiden los reglamentos a que se refiere el artículo anterior se aplicarán las disposiciones reglamentarias en vigor que no sean contrarias a las previsiones del Código para la Biodiversidad del Estado de México.
+
+G.G. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 224.- POR EL QUE SE REFORMA EL ARTÍCULO 6, FRACCIÓN III, Y EL ARTÍCULO 30, FRACCIÓN XIV DE LA LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO; Y SE REFORMA EL ARTÍCULO 33, FRACCIÓN XXIII DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 235.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN XVI, LAS FRACCIONES XXIX Y XXX DEL ARTÍCULO 13, LOS INCISOS D) Y E) DE LA FRACCIÓN IV Y EL INCISO A) DE LA FRACCIÓN V DEL ARTÍCULO 31; Y SE ADICIONAN LAS FRACCIONES XXXI Y XXXII AL ARTÍCULO 13, Y EL INCISO F) A LA FRACCIÓN IV DEL ARTÍCULO 31 DE LA LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO; Y SE REFORMAN LAS FRACCIONES XXVI Y XXVII DEL ARTÍCULO 33; Y SE ADICIONA LA FRACCIÓN XXVIII AL ARTÍCULO 33 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
