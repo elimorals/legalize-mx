@@ -4,7 +4,7 @@ identifier: "NAY-ley-que-establece-el-derecho-de-via-de-una-carretera-o-12568"
 country: "mx"
 rank: "ley"
 publication_date: "1983-02-02"
-last_updated: "1983-02-02"
+last_updated: "2025-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12568&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY QUE ESTABLECE EL DERECHO DE VIA DE UNA CARRETERA O CAMINO LOCAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE ESTABLECE EL DERECHO DE VÍA Y SU APROVECHAMIENTO EN LAS VÍAS DE COMUNICACIÓN TERRESTRE DEL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 12 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE ESTABLECE EL DERECHO DE VIA DE UNA CARRETERA O CAMINO LOCAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025 (ABROGADA).
 
 Ley Publicada en la Primera Sección del Periódico Oficial del Estado de Nayarit el Miércoles 2 de Febrero de 1983.
 
@@ -90,3 +92,15 @@ Emilio M. González.- Rúbrica.
 El Secretario General de Gobierno,
 
 José Félix Torres Haro.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE ESTABLECE EL DERECHO DE VÍA Y SU APROVECHAMIENTO EN LAS VÍAS DE COMUNICACIÓN TERRESTRE DEL ESTADO DE NAYARIT”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se abroga la Ley que Establece el Derecho de Vía de una Carretera o Camino Local, publicada en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, el día 2 de febrero de 1983.
+
+TERCERO. El titular del Poder Ejecutivo del Estado, deberá expedir el Reglamento correspondiente a la presente Ley, dentro de los ciento ochenta días siguientes, a la entrada en vigor de la misma.
