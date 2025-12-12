@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2025-10-03"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -833,9 +833,15 @@ El secretario del ayuntamiento desempeñará, aparte de las funciones que le enc
 
 ARTÍCULO 101 BIS. El Ayuntamiento deberá desarrollar anualmente las jornadas del Cabildo infantil y juvenil, como espacios de participación ciudadana, deliberación y debate, que permita a niñas, niños y jóvenes de sus municipios desarrollar el análisis, la exposición y discusión social y política de asuntos de interés en su municipio, así como fomentar la integración y gestión de proyectos y propuestas en beneficio de la niñez y juventud.
 
-Estará integrado por un Presidente Municipal Juvenil, un Síndico Juvenil y por el número de Regidores juveniles que integren el Ayuntamiento correspondiente.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+El cabildo juvenil estará integrado por un Presidente Municipal Juvenil, un Síndico Juvenil y por el número de Regidores juveniles que integren el Ayuntamiento correspondiente; y el cabildo infantil se integrará de igual forma, con niños de 6 a 12 años.
 
 Su integración se realizará mediante convocatoria aprobada por el Ayuntamiento, en la que se establecerán los requisitos y procedimientos para su instalación y desarrollo de conformidad con el reglamento municipal respectivo.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+Las propuestas que se realicen en el cabildo juvenil serán registradas y analizadas por el ayuntamiento para, en su caso, implementar aquellas que generen un bienestar social.
 
 ### CAPÍTULO VI. FACULTADES Y COMPETENCIAS DEL AYUNTAMIENTO
 
@@ -5388,3 +5394,15 @@ P.O. 3 DE OCTUBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 311.- SE REFORMA EL SEGUNDO PÁRRAFO; Y SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 101 BIS DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
