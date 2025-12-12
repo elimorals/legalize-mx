@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2025-11-07"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -12587,15 +12587,23 @@ Hay arrendamiento cuando las dos partes contratantes se obligan recíprocamente,
 
 El arrendamiento no puede exceder de diez años para las fincas destinadas a habitación; y de veinte años para las fincas destinadas al comercio o al ejercicio de una industria.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 12 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 2273.
 
 La renta o precio del arrendamiento, puede consistir en una suma de dinero o en cualquier otra cosa equivalente con tal que sea cierta y determinada.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1995)</small>
+
 La renta convenida en el arrendamiento de casa destinada a su habitación, debe hacerse en moneda nacional. En caso de que se fije en moneda extranjera, se entenderá como pactada en la cantidad equivalente en moneda nacional, pero al tipo de cambio vigente en la fecha en que se celebró el contrato respectivo.
 
-Las disposiciones anteriores son de orden público e interés social y, por lo tanto irrenunciable.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+En los contratos de arrendamiento de inmueble de uso habitacional, la renta pactada únicamente podrá ser incrementada al término del periodo convenido, y dicho incremento no podrá exceder del porcentaje de la inflación acumulada reportado por la autoridad competente durante el periodo del contrato inmediato anterior, siempre que dicho porcentaje no sea mayor a un diez por ciento de la renta anteriormente pactada.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+Las disposiciones anteriores son de orden público e interés social y, por lo tanto, irrenunciable.
 
 ###### ARTICULO 2274.
 
@@ -13049,11 +13057,13 @@ VIII.- Por evicción de la cosa dada en arrendamiento.
 
 Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día prefijado sin necesidad de desahucio. Si no se ha señalado tiempo, se observará lo que disponen los artículos 2352 y 2353.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 2359.
 
-Vencido un contrato de arrendamiento, tendrá derecho el arrendatario, siempre que esté al corriente en el pago de las rentas y en su caso en el pago de los servicios públicos básicos y esenciales vinculados a la cosa arrendada, a que se le prorrogue hasta por un año ese contrato. Podrá el arrendador aumentar hasta un diez por ciento la renta anterior, siempre que demuestre que los alquileres en la zona de que se trata, han sufrido una alza después de que se celebró el contrato de arrendamiento.
+Vencido un contrato de arrendamiento, tendrá derecho el arrendatario, siempre que esté al corriente en el pago de las rentas y en su caso en el pago de los servicios públicos básicos y esenciales vinculados a la cosa arrendada, a que se le prorrogue hasta por un año ese contrato. Podrá el arrendador aumentar hasta un diez por ciento la renta anterior, siempre que demuestre que los alquileres en la zona de que se trata, han sufrido un alza después de que se celebró el contrato de arrendamiento. Tratándose del aumento para arrendamiento de inmuebles para uso habitacional, se estará a lo dispuesto en el tercer párrafo del artículo 2273 de este Código.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
 Quedan exceptuados de la obligación de prorrogar el contrato de arrendamiento, los propietarios que quieran habitar la casa o cultivar la finca cuyo arrendamiento ha vencido.
 
@@ -16946,3 +16956,13 @@ P.O. 7 DE NOVIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 160 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 286 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Baja California.
+
+P.O. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 181 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los contratos de arrendamiento de inmuebles destinados al uso habitacional que estén vigentes al momento de la entrada en vigor del presente Decreto, continuarán rigiéndose en los términos y condiciones originalmente pactados y hasta la conclusión del plazo contractual acordado.
+
+Al concluir dicho plazo, en caso de renovación, prórroga o celebración de un nuevo contrato entre las mismas partes respecto del mismo inmueble, serán aplicables las disposiciones contenidas en este Decreto.
