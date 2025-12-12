@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-juventud-del-estado-de-mexico-76478"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-31"
-last_updated: "2025-05-13"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección Quinta a la Gaceta del Gobierno del Estado de México, el martes 31 de agosto de 2010.
 
@@ -323,9 +323,11 @@ XIV. (DEROGADA, G.G. 22 DE JUNIO DE 2023)
 
 XV. Fomentar el desarrollo de planes y programas flexibles con salidas profesionales laterales o intermedias, que permitan a los jóvenes combinar el estudio y el trabajo. Bajo el principio de interés superior, celebrar convenios de vinculación con el sector público, educativo y privado, para brindar herramientas en favor del desarrollo integral de la juventud.
 
-> <small>(REFORMADA, G.G. 15 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 12 DE DICIEMBRE DE 2025)</small>
 
-XVI. Promover la inserción de los jóvenes en el empleo, mediante incentivos fiscales a empresas y al sector servicios, a fin de que incluyan dentro de sus actividades a jóvenes practicantes, impulsando la inserción laboral.
+XVI. Promover la inserción de las personas jóvenes en el empleo, mediante incentivos fiscales a empresas y al sector servicios, a fin de que incluyan dentro de sus actividades a jóvenes practicantes, impulsando la inserción laboral y dando oportunidades formales de contratación a quienes hayan concluido su servicio social o prácticas profesionales.
+
+> <small>(REFORMADO, G.G. 15 DE JUNIO DE 2016)</small>
 
 La prestación de servicio social y prácticas profesionales que realicen los educandos contarán como tiempo efectivo de experiencia laboral.
 
@@ -365,13 +367,21 @@ XXVII. Prevenir y atender, el alcoholismo, el tabaquismo, la drogadicción y la 
 
 XXVIII. Promover el reconocimiento de la participación, organización y ciudadanía juvenil, en toda su diversidad, como aspecto estratégico del desarrollo político, social y económico de la entidad;
 
-> <small>(ADICIONADA, G.G. 7 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, G.G. 12 DE DICIEMBRE DE 2025)</small>
 
-XXIX. Impulsar la formación y sensibilización continúa de los funcionarios públicos estatales y municipales en el conocimiento, respeto y apoyo al ejercicio efectivo de los derechos de los jóvenes, desde un enfoque integral, transversal y de no discriminación; y
+XXIX. Impulsar la formación y sensibilización continúa de los funcionarios públicos estatales y municipales en el conocimiento, respeto y apoyo al ejercicio efectivo de los derechos de los jóvenes, desde un enfoque integral, transversal y de no discriminación;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 7 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 12 DE DICIEMBRE DE 2025)</small>
 
-XXX. Las demás que sean necesarias para el cumplimiento del objeto de esta Ley.
+XXX. Promover convenios de colaboración entre las diferentes dependencias y organismos auxiliares del Estado y el sector empresarial con el fin de insertar a las personas jóvenes recién egresadas del nivel medio superior, técnico profesional, superior y posgrado en el sector público o privado;
+
+> <small>(ADICIONADA, G.G. 12 DE DICIEMBRE DE 2025)</small>
+
+XXXI. Impulsar el acceso a internet gratuito en todos los municipios, mediante convenios con proveedores y puntos de acceso público en comunidades rurales y colonias populares para jóvenes que estudien y/o trabajen; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 12 DE DICIEMBRE DE 2025)</small>
+
+XXXII. Las demás que sean necesarias para el cumplimiento del objeto de esta Ley.
 
 ## TITULO TERCERO. DEL INSTITUTO MEXIQUENSE DE LA JUVENTUD
 
@@ -677,17 +687,23 @@ b) Generar incentivos especiales que procuren el acceso y permanencia en el sist
 
 c) Promover la realización de actividades escolares y extra escolares que busquen disminuir la violencia en las relaciones personales de los jóvenes y promuevan los valores de respeto, tolerancia y equidad;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 5 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO, G.G. 12 DE DICIEMBRE DE 2025)</small>
 
-d) Impulsar campañas que promuevan la activación física y el deporte entre los jóvenes; y
+d) Impulsar campañas que promuevan la activación física y el deporte entre los jóvenes;
 
-> <small>(ADICIONADO [N. DE E. REUBICADO], G.G. 5 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 12 DE DICIEMBRE DE 2025)</small>
 
-e) Las demás necesarias, dentro de su ámbito de competencia, para el cumplimiento del objeto de la presente Ley.
+e) Celebrar convenios con la Secretaría del Trabajo y representantes del sector empresarial con el propósito de facilitar la inserción de las personas jóvenes recién egresadas de nivel medio superior, técnico profesional, superior y posgrado al sector productivo; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], G.G. 12 DE DICIEMBRE DE 2025)</small>
+
+f) Las demás necesarias, dentro de su ámbito de competencia, para el cumplimiento del objeto de la presente Ley.
 
 V. A la Secretaría del Trabajo le corresponde:
 
-a) Crear una bolsa de empleo especializada para jóvenes, que les ofrezca y vincule con las vacantes del sector gubernamental, público y social;
+> <small>(REFORMADO, G.G. 12 DE DICIEMBRE DE 2025)</small>
+
+a) Crear una bolsa de empleo especializada para personas jóvenes, que les ofrezca y vincule con las vacantes del sector gubernamental, público, social, privado o del área de servicios profesionales;
 
 b) Generar acciones especificas de capacitación para el trabajo a jóvenes migrantes, discapacitados, indígenas, rehabilitados de alguna adicción y que hubiesen estado recluidos en alguna institución de readaptación social, para contribuir con ello a su sana reinserción social; y
 
@@ -1002,6 +1018,14 @@ DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la ar
 G.G. 13 DE MAYO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 112.- POR EL QUE SE REFORMAN LAS FRACCIONES XI Y XII DEL ARTÍCULO 3, EL ARTÍCULO 10, LAS FRACCIONES I Y II DEL ARTÍCULO 11 Y LA FRACCIÓN XXII DEL ARTÍCULO 13; Y SE ADICIONAN LAS FRACCIONES XIII, XIV, XV Y XVI AL ARTÍCULO 3, LA FRACCIÓN III AL ARTÍCULO 11 Y LA FRACCIÓN XXII BIS AL ARTÍCULO 13 DE LA LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 235.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN XVI, LAS FRACCIONES XXIX Y XXX DEL ARTÍCULO 13, LOS INCISOS D) Y E) DE LA FRACCIÓN IV Y EL INCISO A) DE LA FRACCIÓN V DEL ARTICULO 31; Y SE ADICIONAN LAS FRACCIONES XXXI Y XXXII AL ARTÍCULO 13, Y EL INCISO F) A LA FRACCIÓN IV DEL ARTÍCULO 31 DE LA LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO; Y SE REFORMAN LAS FRACCIONES XXVI Y XXVII DEL ARTÍCULO 33; Y SE ADICIONA LA FRACCIÓN XXVIII AL ARTÍCULO 33 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
