@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-igualdad-de-trato-y-oportunidades-entre-mujeres-y-76530"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-06"
-last_updated: "2024-12-17"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 6 de septiembre de 2010.
 
@@ -103,7 +103,9 @@ I. Acciones Afirmativas: Al conjunto de medidas especiales de carácter temporal
 
 II. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-III. Conciliación entre vida familiar y laboral: A la implementación de esquemas y mecanismos que permitan a trabajadores y patrones, convenir horarios y espacios laborales de tal forma que se incrementen las probabilidades de compatibilidad entre las exigencias laborales y las familiares;
+> <small>(REFORMADA, G.G. 12 DE DICIEMBRE DE 2025)</small>
+
+III. Conciliación entre la vida laboral, familiar y personal: A la implementación de medidas, que permitan a personas trabajadoras y patronas, compatibilizar el espacio personal, familiar y laboral, a fin de equilibrar el uso de los tiempos de la vida de cada persona trabajadora en función de sus obligaciones, necesidades y prioridades, permitiéndole mantener una carrera laboral plena y ejercer el derecho al cuidado de su familia, al desarrollo de su personalidad, de su formación y al disfrute del ocio y tiempo libre;
 
 IV. Discriminación: A cualquier forma de preferencia, distinción, exclusión, repudio, desprecio, incomprensión, rechazo o restricción que, basada en el origen étnico o nacional, sexo, género, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, predilecciones de cualquier índole, estado civil o alguna otra, que tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos fundamentales en condiciones de equidad e igualdad de oportunidades y de trato de las personas, tales como:
 
@@ -471,7 +473,9 @@ XII. Promover investigaciones con perspectiva de género en materia de salud y d
 
 XIII. Fomentar la participación equilibrada y sin discriminación de mujeres y hombres en sus procesos de selección, contratación y ascensos;
 
-XIV. Proponer en el ámbito de su competencia, el otorgamiento de estímulos de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas que incorporen medidas innovadoras para propiciar la igualdad de trato y oportunidades en sus organizaciones y que proporcionen servicios que faciliten la conciliación de la vida familiar y laboral del personal a su cargo;
+> <small>(REFORMADA, G.G. 12 DE DICIEMBRE DE 2025)</small>
+
+XIV. Proponer en el ámbito de su competencia, el otorgamiento de estímulos de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas que incorporen medidas innovadoras para propiciar la igualdad de trato y oportunidades en sus organizaciones y que faciliten la conciliación entre la vida laboral, familiar y personal de las y los trabajadores a su cargo;
 
 XV. Garantizar medidas de apoyo para lograr la inserción laboral de personas en situación de exclusión social, que sufran violencia de género, que tengan alguna enfermedad grave, incurable y mortal, cuenten con alguna discapacidad, hayan ejercido la prostitución, sean inmigrantes, indígenas, adultos mayores, que hayan sido condenadas por la comisión de un delito o en general, aquellas que han sido objeto de discriminación;
 
@@ -862,3 +866,19 @@ TERCERO. Las dependencias del Ejecutivo y sus organismos auxiliares, los Poderes
 CUARTO. Las autoridades estatales y municipales realizarán las adecuaciones normativas necesarias para el cumplimiento del presente Decreto.
 
 QUINTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria y financiera; y deberán cubrirse con cargo al presupuesto aprobado al ente público competente para el ejercicio fiscal en curso y subsecuentes.
+
+G.G. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 224.- POR EL QUE SE REFORMA EL ARTÍCULO 6, FRACCIÓN III, Y EL ARTÍCULO 30, FRACCIÓN XIV DE LA LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO; Y SE REFORMA EL ARTÍCULO 33, FRACCIÓN XXIII DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
