@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2025-10-31"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE DICIEMBRE DE 2025.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -4601,11 +4601,17 @@ V. Formular programas de becas para la formación y capacitación forestal.
 
 Las anteriores acciones se considerarán enunciativas y no limitativas
 
+> <small>(ADICIONADO, G.G. 12 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 3.
+
+79 Bis. Los familiares podrán solicitar a PROBOSQUE o al área competente del Ayuntamiento, la entrega de forma gratuita de un árbol joven o retoño mostrando el acta de nacimiento de su hija o hijo presentado ante el Registro Civil, o el acta de defunción de su ascendiente o familiar, en un periodo no mayor a un año a partir de la fecha de registro, de conformidad con la disponibilidad y suficiencia presupuestal, así como las condiciones y recomendaciones técnicas que determine la autoridad competente.
+
+#### SECCION PRIMERA. DE LOS PUEBLOS HOSPITAL
+
 ###### Artículo 3.
 
 80. Se crea la figura jurídica cuyo nombre genérico es pueblos hospital en superficies con áreas forestales permanentes y bajo programa de manejo forestal sujeto de desarrollo sostenible social, económico y ambiental.
-
-#### SECCION PRIMERA. DE LOS PUEBLOS HOSPITAL
 
 ###### Artículo 3.
 
@@ -4649,13 +4655,13 @@ El Consejo Forestal Estatal emitirá su opinión respecto de dichos planes.
 
 90. El Consejo Forestal Estatal en el marco previsto por la legislación efectuará la coordinación con los diferentes órdenes de gobierno y será el encargado de promover los pueblos hospital y hacer llegar a las comunidades las políticas, acciones y programas que promuevan la generación de empleos, su fortalecimiento económico, el fomento a la conservación y el mejoramiento de la calidad de la biodiversidad y de los recursos naturales susceptibles de ser utilizados mediante su aprovechamiento sostenible.
 
-###### Artículo 3.
-
-91. El Ejecutivo Estatal y los Municipios conforme a sus atribuciones legales y en el ámbito de su competencia promoverán la participación de la sociedad en general en la planeación, diseño, aplicación y evaluación de los programas e instrumentos de la política forestal estatal para que manifiesten su opinión y propuestas respecto de los programas e instrumentos de la política forestal estatal y municipal que conduzcan a una realidad autogestora y potenciadora de las zonas forestales.
-
 ## TITULO SEXTO. DE LA PARTICIPACION CIUDADANA EN MATERIA FORESTAL
 
 ### CAPITULO I. DE LA PARTICIPACION CIUDADANA EN MATERIA FORESTAL
+
+###### Artículo 3.
+
+91. El Ejecutivo Estatal y los Municipios conforme a sus atribuciones legales y en el ámbito de su competencia promoverán la participación de la sociedad en general en la planeación, diseño, aplicación y evaluación de los programas e instrumentos de la política forestal estatal para que manifiesten su opinión y propuestas respecto de los programas e instrumentos de la política forestal estatal y municipal que conduzcan a una realidad autogestora y potenciadora de las zonas forestales.
 
 ###### Artículo 3.
 
@@ -4669,11 +4675,11 @@ El Consejo Forestal Estatal emitirá su opinión respecto de dichos planes.
 
 94. Los pueblos, pueblos hospital y comunidades indígenas participarán en la elaboración de los distintos planes y programas de desarrollo forestal del Estado y los Municipios.
 
+### CAPITULO II. DE LOS CONSEJOS EN MATERIA FORESTAL
+
 ###### Artículo 3.
 
 95. Se crea el Consejo Forestal Estatal como órgano de carácter consultivo, asesoramiento y concertación en materia de planeación, supervisión, evaluación de las políticas y aprovechamiento, conservación y restauración de los recursos forestales. Invariablemente deberá solicitársele su opinión en materia de planeación forestal, reglamentos y normas.
-
-### CAPITULO II. DE LOS CONSEJOS EN MATERIA FORESTAL
 
 ###### Artículo 3.
 
@@ -4683,14 +4689,6 @@ En los consejos regionales podrán participar representantes de las autoridades 
 
 Para la constitución de estos consejos se estará a lo establecido en el Reglamento que para el efecto se expida, además se propiciará la representación proporcional y equitativa de sus integrantes y que sus normas de operación interna respondan a las necesidades, demandas, costumbres e intereses de cada territorio o región.
 
-###### Artículo 3.
-
-97. Toda persona podrá denunciar ante la Secretaría, Autoridades Municipales o ante otras autoridades competentes, todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico al ecosistema forestal o daños a los recursos forestales, o contravenga las disposiciones del presente Libro y las demás que regulen materias relacionadas con los ecosistemas forestales, sus recursos o bienes y servicios ambientales asociados a éstos.
-
-El denunciante deberá aportar todos los elementos de prueba con que cuenten para sustentar su denuncia y se encauzará conforme al procedimiento establecido en la Ley General del Equilibrio Ecológico y Protección al Ambiente.
-
-Las denuncias a que se refiere este artículo, deberán ser turnadas a la Procuraduría Federal de Protección al Ambiente en el orden federal, o a la Fiscalía Especial contra Delitos Ambientales en el orden estatal, para el trámite que corresponda.
-
 ## TITULO SEPTIMO. DE LOS MEDIOS DE CONTROL, VIGILANCIA Y SANCION FORESTALES
 
 ### CAPITULO I
@@ -4699,9 +4697,17 @@ DE LA DENUNCIA POPULAR.
 
 ###### Artículo 3.
 
-98. De acuerdo a lo previsto en la Ley General de Desarrollo Forestal Sustentable, previo convenio entre Federación, Estados y Municipios; La Secretaría, PROBOSQUE y Gobiernos Municipales por conducto del personal autorizado podrán realizar visitas u operativos de inspección en materia forestal, con el objeto de verificar el cumplimiento de lo dispuesto en este Libro, su reglamento, las normas oficiales mexicanas aplicables y las demás disposiciones que de ellos se deriven.
+97. Toda persona podrá denunciar ante la Secretaría, Autoridades Municipales o ante otras autoridades competentes, todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico al ecosistema forestal o daños a los recursos forestales, o contravenga las disposiciones del presente Libro y las demás que regulen materias relacionadas con los ecosistemas forestales, sus recursos o bienes y servicios ambientales asociados a éstos.
+
+El denunciante deberá aportar todos los elementos de prueba con que cuenten para sustentar su denuncia y se encauzará conforme al procedimiento establecido en la Ley General del Equilibrio Ecológico y Protección al Ambiente.
+
+Las denuncias a que se refiere este artículo, deberán ser turnadas a la Procuraduría Federal de Protección al Ambiente en el orden federal, o a la Fiscalía Especial contra Delitos Ambientales en el orden estatal, para el trámite que corresponda.
 
 ### CAPITULO II. DE LAS VISITAS Y OPERATIVOS DE INSPECCION FORESTALES
+
+###### Artículo 3.
+
+98. De acuerdo a lo previsto en la Ley General de Desarrollo Forestal Sustentable, previo convenio entre Federación, Estados y Municipios; La Secretaría, PROBOSQUE y Gobiernos Municipales por conducto del personal autorizado podrán realizar visitas u operativos de inspección en materia forestal, con el objeto de verificar el cumplimiento de lo dispuesto en este Libro, su reglamento, las normas oficiales mexicanas aplicables y las demás disposiciones que de ellos se deriven.
 
 ###### Artículo 3.
 
@@ -4719,11 +4725,11 @@ Cuando de las visitas u operativos de inspección se determine que existe riesgo
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
+### CAPÍTULO II BIS. DEL DICTAMEN DE FACTIBILIDAD DE TRANSFORMACIÓN FORESTAL Y DEL CONSEJO RECTOR DE TRANSFORMACIÓN FORESTAL
+
 ###### Artículo 3.
 
 100 Bis. (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
-
-### CAPÍTULO II BIS. DEL DICTAMEN DE FACTIBILIDAD DE TRANSFORMACIÓN FORESTAL Y DEL CONSEJO RECTOR DE TRANSFORMACIÓN FORESTAL
 
 ###### Artículo 3.
 
@@ -4753,6 +4759,8 @@ Cuando de las visitas u operativos de inspección se determine que existe riesgo
 
 100 Nonies. (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
+### CAPITULO III. DE LAS MEDIDAS DE SEGURIDAD
+
 ###### Artículo 3.
 
 101. Cuando de las visitas u operativos de inspección a que se refiere el artículo anterior, se determine que existe riesgo inminente de daño o deterioro grave a los ecosistemas forestales, o bien cuando los actos u omisiones pudieran dar lugar a la imposición de sanciones administrativas, PROBOSQUE podrá ordenar las siguientes medidas de seguridad:
@@ -4767,17 +4775,15 @@ A juicio de la autoridad, se podrá designar al inspeccionado como depositario d
 
 PROBOSQUE podrá dar destino final a los productos maderables o no maderables asegurados de manera precautoria y los recursos económicos obtenidos se depositarán hasta que se resuelva el procedimiento legal y, una vez emitido el fallo y la resolución cause efectos, estos recursos se entregarán a quien beneficie el sentido de la resolución. El Reglamento determinará los mecanismos para implementar esta disposición.
 
-### CAPITULO III. DE LAS MEDIDAS DE SEGURIDAD
-
 ###### Artículo 3.
 
 102. Cuando se imponga alguna o algunas de las medidas de seguridad previstas en el artículo anterior, se indicarán, en su caso, las acciones que se deben llevar a cabo para subsanar las irregularidades que las motivaron, así como los plazos para realizarlas, a fin de que, una vez satisfechas, se ordene el retiro de las mismas.
 
+### CAPITULO IV. DE LAS INFRACCIONES
+
 ###### Artículo 3.
 
 103. Se considerarán como infracciones para efectos de este Libro, los casos previstos en la Ley General de Desarrollo Forestal Sustentable y serán sancionadas administrativamente por la Secretaría de conformidad con la misma Ley General y el Código de Procedimientos Administrativos del Estado.
-
-### CAPITULO IV. DE LAS INFRACCIONES
 
 ###### Artículo 3.
 
@@ -8832,3 +8838,11 @@ G.G. 31 DE OCTUBRE DE 2025.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 233.- POR EL QUE SE ADICIONA EL ARTÍCULO 3.79 BIS AL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO.”]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
