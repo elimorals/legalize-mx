@@ -4,7 +4,7 @@ identifier: "SON-codigo-fiscal-del-estado-de-sonora-16554"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-06-12"
-last_updated: "2025-11-13"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO FISCAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE DICIEMBRE DE 2025.
 
 Código publicado en la Segunda Sección del Boletín Oficial del Estado de Sonora, el lunes 12 de junio del 2000.
 
@@ -507,17 +507,19 @@ Cuando con motivo de la prestación de un servicio se proporcionen bienes o se o
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 22.
 
-Toda promoción que se presente ante las autoridades fiscales, deberá estar firmada por el interesado o por quien esté legalmente autorizado para ello, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella digital.
+Toda promoción que se presente ante las autoridades fiscales, deberá estar firmada por el interesado o por quien esté legalmente autorizado para ello, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella digital. Tratándose de promociones que consten en documento digital, se harán por medios electrónicos y con la firma electrónica avanzada estatal del interesado o por quien esté legalmente autorizado para ello.
 
 Las promociones deberán presentarse en las formas que al efecto apruebe la Secretaría de Finanzas, en el número de ejemplares que establezca la forma oficial y acompañar los anexos que en su caso ésta requiera. Cuando no existan formas aprobadas, el documento que se formule deberá presentarse cumpliendo por lo menos los siguientes requisitos:
 
 I.- Constar por escrito;
 
-> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-II.- El nombre, la denominación o razón social y el domicilio fiscal manifestado al Registro Estatal de Contribuyentes, para el efecto de fijar la competencia de la autoridad, y la clave que correspondió en dicho Registro. A falta de la clave antes señalada, indicar la clave del Registro Federal de Contribuyentes (RFC);
+II.- El nombre, la denominación o razón social y el domicilio fiscal manifestado al Registro Estatal de Contribuyentes, así como la clave del Registro Federal de Contribuyentes (RFC), para efecto de fijar la competencia de la autoridad;
 
 III.- Señalar la autoridad a la que se dirige y el propósito de la promoción; y,
 
@@ -607,13 +609,17 @@ II.- Que la reclamación del pago de lo indebido la efectúe el sujeto pasivo;
 
 III.- Que el sujeto pasivo no haya repercutido, trasladado o retenido en forma expresa o incluido en el precio, el monto del crédito fiscal reclamado como pago de lo indebido;
 
+> <small>(ADICIONADA, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+IV.- Que la solicitud de devolución del pago, presentada por el contribuyente cuente con los requisitos establecidos en el artículo 22 del presente ordenamiento;
+
 Los retenedores podrán solicitar la devolución siempre que ésta se haga directamente a los contribuyentes.
 
 Si el pago de lo indebido se hubiera efectuado en cumplimiento de acto de autoridad, el derecho a la devolución nace cuando dicho acto queda insubsistente.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-Cuando se solicite la devolución, ésta deberá efectuarse dentro del plazo de cincuenta días hábiles siguientes a la fecha en que se presentó la solicitud ante la autoridad fiscal competente con todos los datos, informes y documentos que comprueben la procedencia de la petición, de igual manera se deberán señalar los datos de la institución integrante del sistema financiero y el número de cuenta para transferencias electrónicas del contribuyente en dicha institución financiera debidamente integrado de conformidad con las disposiciones del Banco de México.
+Cuando se solicite la devolución, ésta deberá efectuarse dentro del plazo de cincuenta días hábiles siguientes a la fecha en que se presentó la solicitud ante la autoridad fiscal competente con todos los datos, informes y documentos que comprueben la procedencia de la petición, de igual manera se deberá agregar carátula del estado de cuenta bancario del contribuyente con vigencia no mayor a tres meses, a fin de que la autoridad se encuentre en aptitud de obtener los datos de la Institución Integrante del Sistema Financiero y el número de cuenta para transferencias electrónicas en dicha Institución Financiera, de conformidad con las disposiciones del Banco de México.
 
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -691,15 +697,25 @@ Se entenderá que es una misma contribución si se trata del mismo impuesto, con
 
 Los contribuyentes que hayan ejercido la opción a que se refiere el primer párrafo del presente artículo, que tuvieran remanente una vez efectuada la compensación, podrán continuar compensando el remanente del saldo a favor en pagos futuros o solicitar su devolución.
 
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 32.
 
-Se podrán compensar los créditos y deudas entre el Estado por una parte y la Federación y Municipios, por la otra. Tratándose de la compensación con Federación y Municipios se requerirá acuerdo previo con éstos.
+Se podrán compensar los créditos y deudas entre el Estado, por una parte, y por la otra, la Federación, Municipios, organismos descentralizados, entes públicos autónomos derivados de la constitución federal o del estado, o empresas de participación estatal mayoritaria de los tres niveles de gobierno, con excepción de las sociedades de crédito de cualquier nivel de gobierno.
+
+La compensación a que se refiere este artículo sólo procederá si existe convenio celebrado entre las partes interesadas.
+
+Los convenios a que se refiere el párrafo anterior deberán ser suscritos y dictaminados por la Secretaría Anticorrupción y Buen Gobierno, la Secretaría de la Consejería Jurídica, la Oficialía Mayor y el Instituto Superior de Auditoría y Fiscalización, en un plazo no mayor a diez días hábiles, contados a partir de la fecha de su presentación por parte de la Secretaría de Hacienda.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 33.
 
 Las personas morales, así como las personas físicas que deban presentar declaraciones periódicas o tengan la obligación de pagar, retener o de recaudar impuestos, así como, todas aquellas personas físicas o morales cuyas actividades sean reguladas por leyes administrativas en el Estado, deberán solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Hacienda, proporcionar la información relacionada con su identidad, su domicilio y en general sobre su situación fiscal, así como su dirección de correo electrónico, mediante los avisos respectivos, dentro de los treinta días siguientes al inicio de sus actividades, salvo que las leyes fiscales señalen otro plazo. Las personas obligadas a presentar su inscripción y demás avisos, lo harán en las oficinas exactoras de su jurisdicción, mismas que podrán prellenar el formato de registro indicado en el portal electrónico de la Secretaría de Hacienda, las que deberán proporcionarles su cédula de registro expedida por la Secretaría de Hacienda, la cual deberá constar en lugar visible del establecimiento y a falta de este conservarse en el domicilio del interesado. Asimismo, las personas a que se refiere este párrafo estarán obligadas a manifestar al Registro Estatal de Contribuyentes su domicilio fiscal; en el caso de cambio de domicilio fiscal, deberán presentar el aviso correspondiente, dentro del mes siguiente al día en que tenga lugar dicho cambio salvo que al contribuyente se le hayan iniciado facultades de comprobación y no se le haya notificado la resolución a que se refiere el artículo 62 Bis de este Código, en cuyo caso deberá presentar el aviso previo a dicho cambio con cinco días de anticipación. La autoridad fiscal podrá considerar como domicilio fiscal del contribuyente aquel en que se verifique alguno de los supuestos establecidos en el artículo 15 de este Código, cuando el manifestado en las solicitudes y avisos a que se refiere este artículo no corresponda a alguno de los supuestos de dicho precepto.
+
+> <small>(ADICIONADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+Los contribuyentes podrán cumplir con la obligación de presentar los avisos correspondientes al Registro Estatal de Contribuyentes, mediante el uso de medios electrónicos, autorizados por la Secretaría de Hacienda, conforme a lo dispuesto en la normatividad aplicable. La Secretaría de Hacienda podrá establecer en su manual de trámites y servicios al público a que se refiere el tercer párrafo del artículo 14 de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora, el procedimiento para el uso de medios electrónicos, así como los requisitos para tramitar el usuario de la cuenta única.
 
 Quedan exceptuados de la obligación de inscribirse los sujetos a que alude el artículo 6 de este Código, sin menoscabo de la obligación de retener o de recaudar contribuciones en los casos que lo dispongan las leyes.
 
@@ -773,6 +789,10 @@ Las autoridades fiscales podrán solicitar a los contribuyentes la información 
 
 No se considera que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando derivado de lo señalado en el párrafo anterior, soliciten a los particulares los datos, informes y documentos necesarios para corregir o actualizar el Registro Estatal de Contribuyentes o en su caso, inscribirlos de oficio a dicho registro.
 
+> <small>(ADICIONADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+Para efectos de lo dispuesto en el presente artículo, la autoridad queda facultada para realizar de oficio tanto la inscripción en el Registro Estatal de Contribuyentes a que se refiere el artículo 33 de este Código, como para efectuar los cambios previstos en el artículo 36 del presente ordenamiento.
+
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 35.
@@ -816,6 +836,10 @@ V.- De apertura o cierre de establecimientos, sucursales, locales, puestos fijos
 > <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 VI.- Cancelación en el Registro Estatal de Contribuyentes.
+
+> <small>(ADICIONADA, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+VII.- Del correo electrónico que señaló a la autoridad al momento de realizar la inscripción al Registro Estatal de Contribuyentes (REC).
 
 (REFORMADO, B.O. 29 DE DICIEMBRE DE 2006) (F. DE E., B.O. 12 DE FEBRERO DE 2007)
 
@@ -2155,6 +2179,10 @@ El plazo señalado en este artículo no está sujeto a interrupción y sólo se 
 
 El plazo de caducidad que se suspende con motivo del ejercicio de las facultades de comprobación antes mencionadas inicia con la notificación de su ejercicio y concluye cuando se notifique la resolución definitiva por parte de la autoridad fiscal o cuando concluya el plazo que establece el artículo 62 Bis de este Código para emitirla. De no emitirse la resolución, se entenderá que no hubo suspensión.
 
+> <small>(ADICIONADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+De igual forma, se suspende el plazo para que opere la figura de caducidad a que se refiere este artículo, tratándose de los adeudos generados por vehículos que hayan sido objeto de la baja administrativa prevista en el artículo 19, fracción V, último párrafo, de la Ley de Control Vehicular para el Estado de Sonora y sus lineamientos aplicables. Lo anterior, en el entendido de que el cómputo del plazo de caducidad se suspenderá a partir de la fecha en que la autoridad fiscal asigne al vehículo el estatus de baja administrativa en el sistema institucional de la Secretaría de Hacienda.
+
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 En todo caso, el plazo de caducidad que se suspende con motivo del ejercicio del (sic) las facultades de comprobación, adicionado con el plazo por el que no se suspende dicha caducidad, no podrá exceder de diez años. Tratándose de visitas domiciliarias o de revisión de la contabilidad en las oficinas de las propias autoridades, el plazo de caducidad que se suspende con motivo del ejercicio de las facultades de comprobación, adicionado con el plazo por el que no se suspende dicha caducidad, no podrá exceder de seis años con seis meses.
@@ -2883,11 +2911,21 @@ IV.- Que se hayan consentido, entendiéndose por consentimiento el de aquellos c
 
 V.- Que sean conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa diferente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 VI.- (DEROGADA, B.O. 14 DE DICIEMBRE DE 2015)
 
 VII.- Si son revocados los actos por la autoridad.
+
+> <small>(ADICIONADA, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+VIII.- Que el contribuyente manifieste desconocer;
+
+> <small>(ADICIONADA, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+IX.- Que exijan el pago de créditos fiscales determinados en resoluciones liquidatorias que hubieren sido impugnadas y hayan quedado firmes por resolución de autoridad competente, y
+
+> <small>(ADICIONADA, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+X.- Que resuelvan sobre solicitudes de prescripción de créditos fiscales determinados en resoluciones liquidatorias que hubieren sido impugnadas y hayan quedado firmes por resolución de autoridad competente.
 
 ###### ARTÍCULO 117.
 
@@ -3073,11 +3111,11 @@ Las publicaciones a que se refiere este artículo contendrán un extracto de los
 
 Se tendrá como fecha de notificación la de la última publicación.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 129.
 
-Las notificaciones por estrados se harán fijando durante diez días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación o publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezca Ju Secretarla de Hacienda; dicho plazo se contará a partir del día siguiente a aquél en que el documento fue fijado o publicado según corresponda; la autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del décimo primer día contado a partir del día siguiente a aquél en el que se hubiera fijado o publicado el documento.
+Las notificaciones por estrados se harán publicando durante diez días el documento que se pretenda notificar en la página electrónica que al efecto establezca la Secretaría de Hacienda; dicho plazo se contará a partir del día siguiente a aquél en que el documento fue publicado, la autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del décimo primer día contado a partir del día siguiente a aquél en el que se hubiera publicado el documento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2020)</small>
 
@@ -3296,6 +3334,10 @@ El término de la prescripción se inicia a partir de la fecha en que el pago pu
 Cuando se suspenda el procedimiento administrativo de ejecución en los términos del artículo 133 de este Código, también se suspenderá el plazo de la prescripción.
 
 Asimismo, se suspenderá el plazo a que se refiere este artículo cuando el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere escalado de manera incorrecta su domicilio fiscal.
+
+> <small>(ADICIONADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+De igual forma, se suspende el plazo para que opere la figura de prescripción a que se refiere este artículo, tratándose de los adeudos generados por vehículos que hayan sido objeto de la baja administrativa prevista en el artículo 19, fracción V, último párrafo, de la Ley de Control Vehicular para el Estado de Sonora y sus lineamientos aplicables. Lo anterior, en el entendido de que el cómputo del plazo de prescripción se suspenderá a partir de la fecha en que la autoridad fiscal asigne al vehículo el estatus de baja administrativa en e l sistema institucional de la Secretaría de Hacienda.
 
 El plazo para que se configure la prescripción, en ningún caso, incluyendo cuando este se haya interrumpido, podrá exceder de diez años contados a partir de que el crédito fiscal pudo ser legalmente exigido. En dicho plazo no se computarán los periodos en los que se encontraba suspendido por las causas previstas en este artículo.
 
@@ -4648,3 +4690,35 @@ B.O. 13 DE NOVIEMBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día hábil siguiente al día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 76, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL, DE LA LEY DE HACIENDA DEL ESTADO, DE LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE SONORA, DE LA LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTOS DE LOS ESTABLECIMIENTOS DESTINADOS A LA OPERACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA Y DE LA LEY DE TRÁNSITO DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 01 de enero de 2026, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+A las contrataciones de servicios profesionales efectuadas durante los ejercicios fiscales 2024 y 2025, a que se refiere el artículo 25 de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora, les será aplicable el mismo tratamiento establecido en ese numeral.
+
+###### ARTÍCULO CUARTO.
+
+Para los efectos del artículo 22 del Código Fiscal, el uso de la firma electrónica avanzada estatal, entrará en vigor a partir de la fecha en que la autoridad competente declare en operación la infraestructura tecnológica necesaria para su aplicación.
+
+###### ARTÍCULO QUINTO.
+
+Lo dispuesto por el numeral 9 de la fracción V del artículo 321 de la Ley de Hacienda del Estado, también se aplicará a todos los trámites iniciados con anterioridad a la entrada en vigor de la presente reforma, únicamente para efectos de regularización y precisión del cumplimiento del servicio registral, sin que ello implique perjuicio para los derechos ya adquiridos por los usuarios.
+
+###### ARTÍCULO SEXTO.
+
+Para efectos de lo previsto en el numeral 10 de la fracción II Bis del artículo 326 de la Ley de Hacienda del Estado, las disposiciones contenidas en dicho numeral entrarán en vigor en la fecha en que inicie formalmente operaciones el espacio denominado "La Burbuja Museo del Niño".
+
+###### ARTÍCULO SÉPTIMO.
+
+Para efectos de lo previsto en la fracción XXXI del artículo 3 de la Ley de Control Vehicular para el Estado de Sonora, la tarjeta de circulación digital entrará en vigor a partir de la fecha en que la Secretaría de Hacienda del Estado declare en operación la infraestructura necesaria para su implementación. La Secretaría de Hacienda emitirá mediante Acuerdo publicado en el Boletín Oficial del Gobierno del Estado de Sonora, la declaratoria de inicio de vigencia, una vez que se cuente con la disponibilidad técnica y operativa de dicha infraestructura.
