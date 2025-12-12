@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-10742
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-17"
-last_updated: "2025-04-25"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 2015.
 
@@ -197,7 +197,9 @@ VI. Derecho a no ser discriminado;
 
 VII. Derecho a vivir en condiciones de bienestar y a un sano desarrollo integral;
 
-VIII. Derecho a una vida libre de violencia y a la integridad personal;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+VIII. Derecho a una vida libre de violencia y a la integridad personal. Lo anterior incluye una vida libre de violencia cibernética, digital, así como todas aquellas mediante el uso de la inteligencia artificial;
 
 IX. Derecho a la protección de la salud y a la seguridad social;
 
@@ -257,9 +259,17 @@ Niñas, niños y adolescentes tienen derecho a que se les asegure prioridad en e
 
 I. Se les brinde protección y socorro en cualquier circunstancia y con la oportunidad necesaria;
 
-II. Se les atienda antes que a las personas adultas en todos los servicios, en igualdad de condiciones y
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-III. Se les considere para el diseño y ejecución de las políticas públicas necesarias para la protección de sus derechos.
+II. Se les atienda antes que a las personas adultas en todos los servicios, en igualdad de condiciones;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+III. Se les considere para el diseño y ejecución de las políticas públicas necesarias para la protección de sus derechos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+IV. En caso de encontrarse en situación de orfandad, se les dé acceso prioritario a los programas de desarrollo social con que cuente el Estado.
 
 ###### Artículo 16.
 
@@ -578,6 +588,10 @@ VIII. La pornografía impresa que se publicita de manera abierta y sin la cubier
 > <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
 
 IX. La violencia extrema contra animales, prohibiendo su asistencia o participación activa a menores de edad en eventos o espectáculos en los que esta se genera; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+IX BIS. Violencia cibernética, digital, así como todas aquellas mediante el uso de inteligencia artificial;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 11 DE ABRIL DE 2025)</small>
 
@@ -2076,3 +2090,15 @@ P.O. 25 DE ABRIL DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 88 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 84 BIS A LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 192 MEDIANTE EL CUAL SE APRUEBAN REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 195 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 15 DE LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
