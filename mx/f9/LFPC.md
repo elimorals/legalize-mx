@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "2025-11-14"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LFPC"
 
 LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE DICIEMBRE DE 2025.
 
 ÚLTIMA ACTUALIZACIÓN POR ACUERDO EXPEDIDO POR LA PROCURADURÍA FEDERAL DEL CONSUMIDOR PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2024.
 
@@ -1240,11 +1240,23 @@ IV. El proveedor evitará las prácticas comerciales engañosas respecto de las 
 
 V. El consumidor tendrá derecho a conocer toda la información sobre los términos, condiciones, costos, cargos adicionales, en su caso, formas de pago de los bienes y servicios ofrecidos por el proveedor;
 
-VI. El proveedor respetará la decisión del consumidor en cuanto a la cantidad y calidad de los productos que desea recibir, así como la de no recibir avisos comerciales, y
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+VI. El proveedor respetará la decisión del consumidor en cuanto a la cantidad y calidad de los productos que desea recibir, así como la de no recibir avisos comerciales;
 
-VII. El proveedor deberá abstenerse de utilizar estrategias de venta o publicitarias que no proporcionen al consumidor información clara y suficiente sobre los servicios ofrecidos, en especial tratándose de prácticas de mercadotecnia dirigidas a la población vulnerable, como los niños, ancianos y enfermos, incorporando mecanismos que adviertan cuando la información no sea apta para esa población.
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2025)</small>
+
+VII. El proveedor deberá abstenerse de utilizar estrategias de venta o publicitarias que no proporcionen al consumidor información clara y suficiente sobre los servicios ofrecidos, en especial tratándose de prácticas de mercadotecnia dirigidas a la población vulnerable, como los niños, ancianos y enfermos, incorporando mecanismos que adviertan cuando la información no sea apta para esa población;
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2025)</small>
+
+VIII. El proveedor deberá informar de forma clara, destacada y accesible si el servicio contratado implica cobros automáticos recurrentes, su periodicidad, monto y fecha de cobro.
+
+Los cobros señalados en el párrafo anterior, requerirán consentimiento expreso e informado de la persona consumidora. En los casos en los que, de acuerdo al contrato, proceda la renovación automática del servicio, se deberá notificar al menos con cinco días naturales de anticipación, permitiendo su cancelación sin penalización, y
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2025)</small>
+
+IX. El proveedor deberá implementar mecanismos que, sin contravenir a las disposiciones contractuales, permita a la persona consumidora cancelar el servicio, suscripción o membresía de manera inmediata.
 
 > <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2018)</small>
 
@@ -2600,11 +2612,11 @@ No procederá la acumulación de procesos cuando alguno de ellos se tramite conf
 
 Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1395.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA.]
+D.O.F. 12 DE DICIEMBRE DE 2025.
 
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONAN LAS FRACCIONES VIII Y IX AL ARTÍCULO 76 BIS DE LA LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR, EN MATERIA DE CANCELACIÓN DE SUSCRIPCIONES Y MEMBRESÍAS CON COBRO RECURRENTE”.]
 
-P.O. 16 DE JUNIO DE 2018.
+Único. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1470.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
