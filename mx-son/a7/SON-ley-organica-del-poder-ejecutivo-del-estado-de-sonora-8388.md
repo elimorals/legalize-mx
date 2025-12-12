@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "2025-12-09"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -999,15 +999,15 @@ V. Requerir la información y documentación necesaria para el ejercicio de las 
 
 VI. Tramitar y resolver, en el ámbito de su competencia, y en términos de las disposiciones aplicables, los requerimientos de autoridades judiciales, administrativas o ministeriales que se realicen en materia de combate a los delitos fiscales, de operaciones con recursos de procedencia ilícita, y combate a la delincuencia.
 
-(REFORMADO, B.O. 21 DE DICIEMBRE DE 2015) (F. DE E., B.O. 18 DE ENERO DE 2016)
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 25.
 
-Para hacer efectivos, dar seguimiento, elaborar evaluaciones integrales o ejecutar los objetivos previstos en las fracciones VI, VII ó IX del apartado A del artículo 24 de esta Ley, la Secretaría de Hacienda podrá, de manera adicional a las dependencias que resulten competentes, contratar por sí misma prestadores de servicios externos profesionales de asesoría o consultorías con cargo al presupuesto asignado a Hacienda o a las dependencias, organismos o entidades para que se elaboren diagnósticos, análisis, estudios, opiniones, valuaciones cualitativas, capacitaciones o en general servicios similares que se materialicen a través de entregables o informes, relacionados con las distintas materias, ramas, disciplinas y/o actividades de la Administración Pública Directa o Paraestatal. Las contrataciones y obligaciones contraídas entre la Secretaría de Hacienda con el prestador externo de servicios se regularán por el Código Civil del Estado de Sonora.
+Para una mayor efectividad, dar seguimiento, elaborar evaluaciones integrales o ejecutar las atribuciones previstas en el artículo 24, Apartados A, fracciones VI, VIII o IX y B, fracciones II, III, VII, IX o XIII de esta Ley, la Secretaría de Hacienda podrá, de manera adicional a las dependencias que resulten competentes, contratar por sí misma prestadores de servicios externos profesionales de cobranza, asesoría o consultorías, así como a Instituciones Calificadoras de Valores, con cargo al presupuesto asignado a la Secretaría de Hacienda o a las dependencias, organismos o entidades para que se elaboren diagnósticos, análisis, estudios, opiniones, valuaciones cualitativas, capacitaciones o en general servicios similares que se materialicen a través de entregables o informes, relacionados con las distintas materias, ramas, disciplinas y/o actividades de la Administración Pública Directa o Paraestatal. Las contrataciones y obligaciones contraídas entre la Secretaría de Hacienda con el prestador externo de servicios se regularán por el Código Civil del Estado de Sonora.
 
-Las dependencias y entidades de la Administración Pública Directa y Paraestatal, para el cumplimiento de sus fines, podrán contratar a prestadores de servicios profesionales de asesoría o consultoría con cargo a su presupuesto. Estos servicios deberán contar únicamente con el contrato y los entregables o informes que correspondan al objeto contratado, por tanto, en términos de lo dispuesto en la Ley de Fiscalización Superior para el Estado de Sonora, como sujetos de fiscalización sólo les será exigible lo previsto en este párrafo.
+Las dependencias y entidades de la Administración Pública Directa y Paraestatal, para el cumplimiento de sus fines, podrán contratar a prestadores de servicios profesionales de cobranza, asesoría o consultoría, así como a Instituciones Calificadoras de Valores, con cargo a su presupuesto. Estos servicios deberán contar únicamente con el contrato y los entregables o informes que correspondan al objeto contratado, por tanto, en término de lo dispuesto en la Ley de Fiscalización Superior para el Estado de Sonora, como sujetos de fiscalización sólo les será exigible lo previsto en este párrafo.
 
-Los contratos de prestadores de servicios profesionales de asesoría o consultoría se regularán por el Código Civil del Estado de Sonora y no le serán aplicables las reglas previstas para aquellos contratos de servicios regulados por la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal y Ley de Obras Públicas y Servicios Relacionados con la misma para el Estado de Sonora.
+Los contratos de prestadores de servicios profesionales de cobranza, asesoría o consultoría, así como los contratos celebrados con Instituciones Calificadoras de Valores, se regularán por el Código Civil del Estado de Sonora y no les serán aplicables las reglas previstas para aquellos contratos de servicios regulados por la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público del Estado de Sonora y Ley de Obras Públicas y Servicios Relacionados con las Mismas para el Estado de Sonora.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
@@ -3214,3 +3214,35 @@ A partir de la entrada en vigor del presente Decreto, la Universidad de la Segur
 ###### ARTÍCULO NOVENO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+B.O. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 76, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL, DE LA LEY DE HACIENDA DEL ESTADO, DE LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE SONORA, DE LA LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTOS DE LOS ESTABLECIMIENTOS DESTINADOS A LA OPERACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA Y DE LA LEY DE TRÁNSITO DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 01 de enero de 2026, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+A las contrataciones de servicios profesionales efectuadas durante los ejercicios fiscales 2024 y 2025, a que se refiere el artículo 25 de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora, les será aplicable el mismo tratamiento establecido en ese numeral.
+
+###### ARTÍCULO CUARTO.
+
+Para los efectos del artículo 22 del Código Fiscal, el uso de la firma electrónica avanzada estatal, entrará en vigor a partir de la fecha en que la autoridad competente declare en operación la infraestructura tecnológica necesaria para su aplicación.
+
+###### ARTÍCULO QUINTO.
+
+Lo dispuesto por el numeral 9 de la fracción V del artículo 321 de la Ley de Hacienda del Estado, también se aplicará a todos los trámites iniciados con anterioridad a la entrada en vigor de la presente reforma, únicamente para efectos de regularización y precisión del cumplimiento del servicio registral, sin que ello implique perjuicio para los derechos ya adquiridos por los usuarios.
+
+###### ARTÍCULO SEXTO.
+
+Para efectos de lo previsto en el numeral 10 de la fracción II Bis del artículo 326 de la Ley de Hacienda del Estado, las disposiciones contenidas en dicho numeral entrarán en vigor en la fecha en que inicie formalmente operaciones el espacio denominado "La Burbuja Museo del Niño".
+
+###### ARTÍCULO SÉPTIMO.
+
+Para efectos de lo previsto en la fracción XXXI del artículo 3 de la Ley de Control Vehicular para el Estado de Sonora, la tarjeta de circulación digital entrará en vigor a partir de la fecha en que la Secretaría de Hacienda del Estado declare en operación la infraestructura necesaria para su implementación. La Secretaría de Hacienda emitirá mediante Acuerdo publicado en el Boletín Oficial del Gobierno del Estado de Sonora, la declaratoria de inicio de vigencia, una vez que se cuente con la disponibilidad técnica y operativa de dicha infraestructura.
