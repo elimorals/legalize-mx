@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-cultura-fisica-y-deporte-para-el-estado-de-nayarit-74405
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-03"
-last_updated: "2016-11-08"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el sábado 3 de abril de 2010.
 
@@ -267,13 +267,17 @@ XI. Establecer los procedimientos y acciones a efecto de prevenir la violencia e
 
 XII. Fomentar la cultura física y la práctica del deporte en la población, como medio para la prevención de actos delictivos;
 
-> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-XIII. Apoyar preferentemente el deporte social y el deporte de rendimiento, y
+XIII. Apoyar preferentemente el deporte social y el deporte de rendimiento;
 
-> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-XIV. Las demás que le otorgue la presente ley y su reglamento.
+XIV. Coadyuvar en el ámbito de sus atribuciones y facultades en el impulso de acciones orientadas a la planeación y promoción del deporte inclusivo, los Juegos Nacionales Populares en las disciplinas de Artes Marciales, Boxeo y Futbol 6x6, en su vertiente popular, y demás ramas deportivas, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XIV], P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+XV. Las demás que le otorgue la presente ley y su reglamento.
 
 ###### Artículo 11.
 
@@ -414,6 +418,12 @@ Se consideran Organismos Deportivos toda agrupación de personas físicas o mora
 ###### Artículo 22.
 
 Las personas físicas y morales podrán agruparse libremente para formar algún Organismo Deportivo de los reconocidos en esta Ley, debiendo el Instituto tutelar este derecho y estimular las acciones de organización y promoción desarrolladas por dichos entes a fin de asegurar el acceso de la población a la práctica de la cultura física y el deporte.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 22 Bis.
+
+Los Organismos Deportivos, podrán promover en el ámbito de su competencia, el deporte inclusivo, la participación en los Juegos Nacionales Populares en las disciplinas de Artes Marciales, Boxeo y Futbol 6x6, en su vertiente popular, y demás ramas deportivas.
 
 ###### Artículo 23.
 
@@ -1504,3 +1514,11 @@ P.O. 8 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE NAYARIT".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE SE REFORMAN: LAS FRACCIONES XIII Y XIV DEL ARTÍCULO 10; Y SE ADICIONAN: LA FRACCIÓN XV DEL ARTÍCULO 10 Y EL ARTÍCULO 22 BIS, TODOS DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE NAYARIT”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo. Comuníquese el presente Decreto a la persona que ejerza la Dirección General del Instituto Nayarita de Cultura Física y Deporte, para los efectos legales conducentes.
