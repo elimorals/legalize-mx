@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-fiscalia-general-del-estado-de-baja-139005"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-10-31"
-last_updated: "2025-07-21"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139005&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025.
 
 Ley publicada en el No. 49 del Periódico Oficial del Estado de Baja California, el jueves 31 de octubre de 2019.
 
@@ -57,7 +57,7 @@ Fines institucionales. La Fiscalía General del Estado de Baja California tendr�
 
 Glosario. Para los efectos de esta Ley se entenderá por:
 
-I. Centro de Evaluación y Control de Confianza: Órgano de la Fiscalía General a cargo de los procesos de ingreso y permanencia del personal que la compone;
+I. (DEROGADA, P.O. 12 DE DICIEMBRE DE 2025)
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -173,11 +173,13 @@ Publicidad y transparencia. La Fiscalía General del Estado garantizará el acce
 
 ### Capítulo II. Organización de la Fiscalía General del Estado
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 8.
 
-Titularidad. El Ministerio Público en el Estado de Baja California se organizará a través de una Fiscalía General, quien ejercerá autoridad jerárquica sobre todos los servidores públicos que la conforman.
+Titularidad. El Ministerio Público en el Estado de Baja California se organizará a través de una Fiscalía General, quien ejercerá autoridad jerárquica sobre todas las personas servidoras públicas que la conforman.
 
-La presente ley, su reglamento, acuerdos, circulares y demás normatividad fijarán la función, número, adscripción, obligaciones y atribuciones de los servidores públicos que integran la Fiscalía General.
+La presente ley, su reglamento, acuerdos, circulares y demás normatividad fijarán la función, número, adscripción, obligaciones y atribuciones (sic) las personas servidoras públicas que integran la Fiscalía General.
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2021, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE XIV A XII FRACCIONES, VÉASE LITERALIDAD DEL DECRETO, PÁGINA 82.]</small>
 
@@ -205,45 +207,53 @@ e. Fiscalía Regional de Playas de Rosarito;
 
 f. Fiscalía Regional de San Quintín;
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-g. Fiscalía Especializada en Delitos Relacionados con la Violencia de Género Contra las Mujeres;
+g. Fiscalía Regional de San Felipe;
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 28 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-h. Fiscalía Especializada en Delitos Contra la Vida;
+h. Fiscalía Especializada en Delitos Relacionados con la Violencia de Género Contra las Mujeres;
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 28 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-i. Fiscalía Especializada en Narcomenudeo;
+i. Fiscalía Especializada en Delitos Contra la Vida;
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 28 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-j. Fiscalía Especializada en Derechos Humanos;
+j. Fiscalía Especializada en Narcomenudeo;
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 28 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-k. Fiscalía Especializada en Justicia para Adolescentes;
+k. Fiscalía Especializada en Derechos Humanos;
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 28 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-l. Fiscalía Especializada en Delitos Ambientales y Contra los Animales;
+l. Fiscalía Especializada en Justicia para Adolescentes;
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 28 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-m. Fiscalía de Unidades Especializadas;
+m. Fiscalía Especializada en Delitos Ambientales y Contra los Animales;
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 28 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-n. Unidad de Inteligencia Patrimonial y Económica;
+n. Fiscalía de Unidades Especializadas;
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-o. Unidad de Procedimientos de Extinción de Dominio; y,
+o. Unidad de Inteligencia Patrimonial y Económica;
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 28 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-p. Fiscalía Especializada en Delitos Contra la Tortura.
+p. Unidad de Procedimientos de Extinción de Dominio;
+
+> <small>(REFORMADO Y REUBICADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+q. Fiscalía Especializada en Delitos Contra la Tortura; y,
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+r. Fiscalía Especializada en Asuntos Indígenas.
 
 II. Fiscalía de Contraloría y Visitaduría;
 
@@ -255,9 +265,7 @@ IV. Oficialía Mayor;
 
 V. Dirección Estatal de Ciencias Forenses;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
-
-VI. Centro de Evaluación y Control de Confianza;
+VI. (DEROGADA, P.O. 12 DE DICIEMBRE DE 2025)
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -287,9 +295,9 @@ XII. Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciu
 
 XIII. Los demás que establezcan las leyes y reglamentos.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-La persona Fiscal General podrá establecer con las distintas Fiscalías y Unidades, aquellos criterios necesarios para evitar la fragmentación de las investigaciones y, en su caso, la creación de unidades mixtas de investigación.
+La persona titular de la Fiscalía General podrá establecer con las distintas Fiscalías y Unidades, aquellos criterios necesarios para evitar la fragmentación de las investigaciones y, en su caso, la creación de unidades mixtas de investigación.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 2025)</small>
 
@@ -301,11 +309,13 @@ La Fiscalía General del Estado contará con Fiscales del Ministerio Público, p
 
 Responsabilidad administrativa. La Fiscalía General del Estado contará con un Órgano Interno de Control denominado Fiscalía de Contraloría y Visitaduría, con facultades y competencia para iniciar, substanciar y resolver los procedimientos de responsabilidad administrativa en los términos previstos en la Ley de Responsabilidades Administrativas del Estado de Baja California. En el procedimiento de responsabilidad administrativa, deberá (sic) observarse los principios de legalidad, presunción de inocencia, imparcialidad, objetividad, congruencia, exhaustividad, verdad material y respeto a los derechos humanos.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 11.
 
-Reglamentación. La reglamentación de esta Ley establecerá las atribuciones de cada área de la Fiscalía General; así como las facultades y obligaciones de los servidores públicos que la integren, de conformidad con el presente ordenamiento y demás normatividad aplicable.
+Reglamentación. La reglamentación de esta Ley establecerá las atribuciones de cada área de la Fiscalía General; así como las facultades y obligaciones de las personas servidoras públicas que la integren, de conformidad con el presente ordenamiento y demás normatividad aplicable.
 
-Cada órgano a su vez, de acuerdo con su estructura funcional y presupuestal, podrá contar con las unidades necesarias; direcciones, subdirecciones, y en su caso, el Fiscal General podrá instruir la creación de Fiscalías Especializadas adicionales a las ya señaladas, siempre que sea necesario por las manifestaciones de la delincuencia, la naturaleza, complejidad o incidencia de los delitos.
+Cada órgano a su vez, de acuerdo con su estructura funcional y presupuestal, podrá contar con las unidades necesarias; direcciones, subdirecciones, y en su caso, la persona titular de la Fiscalía General podrá instruir la creación de Fiscalías Especializadas adicionales a las ya señaladas, siempre que sea necesario por las manifestaciones de la delincuencia, la naturaleza, complejidad o incidencia de los delitos.
 
 ### Capítulo III. Atribuciones y Facultades Generales
 
@@ -413,23 +423,29 @@ XV. Capacitar al personal encargado de la procuración de justicia en materia de
 
 XVI. Las demás que le confieren las leyes y reglamentos.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 15.
 
-Causas de remoción. La solicitud de remoción del Fiscal General estará a cargo del Congreso del Estado o del titular del Ejecutivo estatal. Para que se dé la remoción deberá aprobarse por el voto de las dos terceras partes de los integrantes del Congreso. La solicitud de remoción podrá ser objetada dentro de un plazo de diez días hábiles por el Ejecutivo o por el Congreso del Estado, contado a partir de la notificación del inicio del procedimiento de remoción. Si el Ejecutivo o el Congreso no se pronunciaren sobre la remoción solicitada, se entenderá que no existe objeción, y previo el procedimiento previsto en la Ley, será el Congreso quien por el voto de las dos terceras partes de sus integrantes determine su remoción. En todo caso el Congreso deberá otorgar derecho de audiencia.
+Causas de remoción. La solicitud de remoción de la persona titular de la Fiscalía General estará a cargo del Congreso del Estado o de la persona titular del Poder Ejecutivo estatal. Para que se dé la remoción deberá aprobarse por el voto de las dos terceras partes de las personas integrantes del Congreso. La solicitud de remoción podrá ser objetada dentro de un plazo de diez días hábiles por el Ejecutivo o por el Congreso del Estado, contado a partir de la notificación del inicio del procedimiento de remoción. Si el Ejecutivo o el Congreso no se pronunciaren sobre la remoción solicitada, se entenderá que no existe objeción, y previo el procedimiento previsto en la Ley, será el Congreso quien por el voto de las dos terceras partes de sus integrantes determine su remoción. En todo caso el Congreso deberá otorgar derecho de audiencia.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 16.
 
-Ausencia del Fiscal General. La ausencia del Fiscal General del Estado será suplida por el Fiscal Central y no podrá ser mayor a noventa días naturales.
+Ausencia de la o el Fiscal General. La ausencia de la persona titular de la Fiscalía General del Estado será suplida por la o el Fiscal Central y no podrá ser mayor a noventa días naturales.
 
-En caso de ausencia definitiva originada por renuncia, remoción, destitución, muerte o por haber sobrepasado el supuesto señalado en el párrafo anterior de este artículo, el Congreso del Estado iniciará el procedimiento constitucional para designar al titular de la Fiscalía General del Estado que le suceda en el cargo. Hasta en tanto se realice la designación, el Fiscal Central se encargará del despacho de los asuntos de la Fiscalía General.
+En caso de ausencia definitiva originada por renuncia, remoción, destitución, muerte o por haber sobrepasado el supuesto señalado en el párrafo anterior de este artículo, el Congreso del Estado iniciará el procedimiento constitucional para designar a la persona titular de la Fiscalía General del Estado que le suceda en el cargo. Hasta en tanto se realice la designación, la persona titular de la Fiscalía Central se encargará del despacho de los asuntos de la Fiscalía General.
 
-Los servidores públicos de la Fiscalía General del Estado serán suplidos en sus ausencias en los términos que establezca el Reglamento de la presente Ley.
+Las personas servidoras públicas de la Fiscalía General del Estado serán suplidas en sus ausencias en los términos que establezca el Reglamento de la presente Ley.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 17.
 
-Licencias y Renuncias. Las licencias y renuncias solicitadas por el Fiscal General del Estado serán resueltas por el Congreso del Estado. Las primeras no podrán ser otorgadas por más de noventa días naturales, mientras que las renuncias sólo podrán ser aceptadas por causas graves, o que imposibiliten la continuidad eficaz y efectiva en el ejercicio del cargo.
+Licencias y Renuncias. Las licencias y renuncias solicitadas por la persona titular de la Fiscalía General del Estado serán resueltas por el Congreso del Estado. Las primeras no podrán ser otorgadas por más de noventa días naturales, mientras que las renuncias sólo podrán ser aceptadas por causas graves, o que imposibiliten la continuidad eficaz y efectiva en el ejercicio del cargo.
 
-Las licencias y renuncias solicitadas por los titulares de las Fiscalías Especializadas, Direcciones, Comisiones y demás órganos de la Fiscalía General del Estado, serán resueltas por el Fiscal General del Estado. Las licencias no podrán ser otorgadas por más de noventa días naturales.
+Las licencias y renuncias solicitadas por las personas titulares de las Fiscalías Especializadas, Direcciones, Comisiones y demás órganos de la Fiscalía General del Estado, serán resueltas por la persona titular de la Fiscalía General del Estado. Las licencias no podrán ser otorgadas por más de noventa días naturales.
 
 #### Sección II. Disposiciones comunes para Servidores Públicos de la Fiscalía General
 
@@ -485,9 +501,11 @@ IV. Ejercer ni desempeñar las funciones de depositario o apoderado judicial, s�
 
 El incumplimiento a los artículos 18 y 19 de la presente Ley, se sancionará de conformidad con lo previsto en la Ley de Responsabilidades Administrativas del Estado de Baja California, sin perjuicio de aplicar en su caso, alguna otra ley que corresponda.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 20.
 
-Nombramiento y remoción de los servidores públicos de la Fiscalía General. Los servidores públicos integrantes de la Fiscalía General del Estado distintos al titular, serán nombrados o removidos por el Fiscal General conforme a la normatividad aplicable.
+Nombramiento y remoción de las personas servidoras públicas de la Fiscalía General. Las personas servidoras públicas integrantes de la Fiscalía General del Estado distintos al titular, serán nombradas o removidas por la persona titular de la Fiscalía General conforme a la normatividad aplicable.
 
 #### Sección III. Del Ministerio Público
 
@@ -605,9 +623,11 @@ Los requisitos previstos en las fracciones VI, VII, VIII, IX y X serán consider
 
 ### Capítulo IV. Atribuciones y Facultades Específicas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 24.
 
-De la Fiscalía Central. La Fiscalía Central estará a cargo de un Fiscal Central, quien tendrá las obligaciones de los servidores públicos y del Ministerio Público en particular, descritos en la presente Ley, además de aquellas atribuciones que conforme a derecho instruya el Fiscal General del Estado.
+De la Fiscalía Central. La Fiscalía Central estará a cargo del Fiscal Central, quien tendrá las obligaciones de las personas servidoras públicas y del Ministerio Público en particular, descritos en la presente Ley, además de aquellas atribuciones que conforme a derecho instruya la persona titular de la Fiscalía General del Estado.
 
 De la Fiscalía Central, dependerán a su vez, las siguientes fiscalías y unidades:
 
@@ -621,47 +641,77 @@ IV. Fiscalía Regional de Tecate;
 
 V. Fiscalía Regional de Playas de Rosarito;
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-VI. Fiscalía Especializada en Delitos Relacionados con la Violencia de Género Contra las Mujeres;
+VI. Fiscalía Regional de San Quintín;
 
-VII. Fiscalía Especializada en Delitos Contra la Vida;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-VIII. Fiscalía Especializada en Narcomenudeo;
+VII. Fiscalía Regional de San Felipe;
 
-IX. Fiscalía Especializada en Derechos Humanos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-X. Fiscalía Especializada en Justicia para Adolescentes;
+VIII. Fiscalía Especializada en Investigación de Delitos Relacionados con la Violencia de Género Contra las Mujeres;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-XI. Fiscalía Especializada en Delitos Ambientales y Contra los Animales;
+IX. Fiscalía Especializada en Delitos Contra la Vida;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-XII. Fiscalía de Unidades Especializadas;
+X. Fiscalía Especializada en Narcomenudeo;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-XIII. Unidad de Inteligencia Patrimonial y Económica;
+XI. Fiscalía Especializada en Derechos Humanos;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-XIV. Unidad de Procedimientos de Extinción de Dominio;
+XII. Fiscalía Especializada en Justicia para Adolescentes;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-XV. Fiscalía Especializada en Delitos Contra la Tortura, y
+XIII. Fiscalía Especializada en Delitos Ambientales y Contra los Animales;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-XVI. Los demás entes administrativos que determine el Fiscal General del Estado conforme a la disponibilidad presupuestal y necesidades prioritarias del servicio.
+XIV. Fiscalía de Unidades Especializadas;
 
-El Fiscal Central ejercerá el mando y autoridad jerárquica en términos de Ley, sobre los servidores públicos que formen parte de su estructura, incluidos los fiscales regionales y especializados.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-La demarcación territorial de las Fiscalías Regionales corresponderá a las mismas circunscripciones territoriales de cada municipio de la Entidad. Estas podrán atender asuntos relativos a la integración de carpetas de investigación, ejercicio de la acción penal, reserva, incompetencia, acumulación, no ejercicio de la acción penal, litigación, amparo, servicios a la comunidad, servicios administrativos, averiguaciones previas y control de procesos pendientes por abatir del sistema mixto, y otros, de conformidad con las facultades que les otorgue esta ley, el Reglamento y el Fiscal General. El Fiscal Central tendrá entre sus atribuciones coordinar a las distintas Fiscalías Regionales y Especializadas a efecto de homologar criterios de actuación, realizar la distribución de tareas prioritarias, así como asignar los recursos financieros, materiales y humanos a cada cual, de conformidad con la disponibilidad presupuestal, necesidades del servicio y bases que establezca el Reglamento de la presente Ley.
+XV. Unidad de Inteligencia Patrimonial y Económica;
 
-Cada Fiscalía Regional, contará a su vez, con las unidades especializadas, coordinaciones y demás estructura que el Reglamento de la presente Ley y el Fiscal General del Estado determinen, conforme a la disponibilidad presupuestal y necesidades prioritarias del servicio.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+XVI. Unidad de Procedimientos de Extinción de Dominio;
+
+> <small>(REFORMADA Y REUBICADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+XVII. Fiscalía Especializada en Delitos Contra la Tortura;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+XVIII. Fiscalía Especializada en Asuntos Indígenas; y,
+
+> <small>(REFORMADA Y REUBICADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+XIX. Los demás entes administrativos que determine la persona titular de la Fiscalía General del Estado conforme a la disponibilidad presupuestal y necesidades prioritarias del servicio.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+La persona titular de la Fiscalía Central ejercerá el mando y autoridad jerárquica en términos de Ley, sobre las personas servidoras públicas que formen parte de su estructura, incluidas las personas fiscales regionales y especializados.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+La demarcación territorial de las Fiscalías Regionales corresponderá a las mismas circunscripciones territoriales de cada municipio de la Entidad. Estas podrán atender asuntos relativos a la integración de carpetas de investigación, ejercicio de la acción penal, reserva, incompetencia, acumulación, no ejercicio de la acción penal, litigación, amparo, servicios a la comunidad, servicios administrativos, averiguaciones previas y control de procesos pendientes por abatir del sistema mixto, y otros, de conformidad con las facultades que les otorgue esta ley, el Reglamento y la persona titular de la Fiscalía General.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+La persona titular de la Fiscalía Central tendrá entre sus atribuciones coordinar a las distintas Fiscalías Regionales y Especializadas a efecto de homologar criterios de actuación, realizar la distribución de tareas prioritarias, así como asignar los recursos financieros, materiales y humanos a cada cual, de conformidad con la disponibilidad presupuestal, necesidades del servicio y bases que establezca el Reglamento de la presente Ley.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+Cada Fiscalía Regional, contará a su vez, con las unidades especializadas, coordinaciones y demás estructura que el Reglamento de la presente Ley y la persona titular de la Fiscalía General del Estado determinen, conforme a la disponibilidad presupuestal y necesidades prioritarias del servicio.
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2021)</small>
 
@@ -685,7 +735,9 @@ La estructura orgánica, las atribuciones y facultades específicas estarán det
 
 Fiscalía de Contraloría y Visitaduría. La Fiscalía de Contraloría y Visitaduría es el órgano interno de control de la Fiscalía General del Estado, tendrá a su cargo prevenir, corregir, investigar, substanciar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos de la Fiscalía y de particulares vinculados con faltas graves; facultad para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, y aplicación de recursos públicos; así como investigar y ejercitar la acción penal respecto de hechos u omisiones que pudieran ser constitutivos de delito.
 
-El Fiscal de Contraloría y Visitaduría será designado por el Fiscal General del Estado, y quien en el desempeño de su función se sujetará a los principios de imparcialidad, legalidad, objetividad, certeza, honestidad, profesionalismo, exhaustividad y transparencia. La Fiscalía de Contraloría y Visitaduría contará con las siguientes áreas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+La persona titular de la Fiscalía de Contraloría y Visitaduría será designada por la persona titular de la Fiscalía General del Estado, y quien en el desempeño de su función se sujetará a los principios de imparcialidad, legalidad, objetividad, certeza, honestidad, profesionalismo, exhaustividad y transparencia. La Fiscalía de Contraloría y Visitaduría contará con las siguientes áreas:
 
 > <small>(REFORMADA, P.O. 30 DE ABRIL DE 2020)</small>
 
@@ -713,9 +765,11 @@ IV. No estar suspendido ni haber sido destituido o inhabilitado por causa grave 
 
 V. Someterse a la evaluación de control de confianza correspondiente.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 27.
 
-Designación de Fiscales Especializados. Los titulares de las Fiscalías del Ministerio Público de la Fiscalía General del Estado, serán designados, y en su caso, ratificados o removidos libremente por el Fiscal General del Estado.
+Designación de Fiscales Especializados. Las personas titulares de las Fiscalías del Ministerio Público de la Fiscalía General del Estado, serán designadas, y en su caso, ratificadas o removidas libremente por la persona titular de la Fiscalía General del Estado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -767,9 +821,11 @@ V. No estar suspendido ni haber sido destituido o inhabilitado por resolución f
 
 VI. Someterse a la evaluación de control de confianza correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 32.
 
-Oficialía Mayor. La Oficialía Mayor tendrá a su cargo la administración general de los recursos económicos, materiales y humanos de la Fiscalía General del Estado. El Oficial Mayor para el ejercicio de sus funciones, tendrá bajo su mando la siguiente estructura orgánica:
+Oficialía Mayor. La Oficialía Mayor tendrá a su cargo la administración general de los recursos económicos, materiales y humanos de la Fiscalía General del Estado. La persona titular de la Oficialía Mayor para el ejercicio de sus funciones, tendrá bajo su mando la siguiente estructura orgánica:
 
 I. Coordinación General Administrativa;
 
@@ -789,67 +845,39 @@ VIII. Dirección de Bienes Asegurados y Abandonados;
 
 IX. Dirección del Servicio Profesional de Carrera, y
 
-X. Las demás que determine el Fiscal General de conformidad con las necesidades del servicio y margen presupuestal.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+X. Las demás que determine la persona titular de la Fiscalía General de conformidad con las necesidades del servicio y margen presupuestal.
 
 Las atribuciones, obligaciones, requisitos y características orgánicas de la Oficialía Mayor y las direcciones que la integran, estarán determinadas por el Reglamento de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 33.
 
-Dirección General de Ciencias Forenses. El Centro Estatal de Ciencias Forenses tendrá a su cargo, como auxiliar directo del Ministerio Público, la elaboración de dictámenes periciales, orientación, asesoría, y en general, proporcionar la información que dentro de sus atribuciones le sea requerida por el Ministerio Público en materia de investigación criminal y apreciación de pruebas; las cuales brindará mediante criterios científicos y objetivos, con absoluta independencia y en apego a protocolos y marco normativo aplicables. El Centro Estatal de Ciencias Forenses estará a cargo de un Director General, quien para el ejercicio de sus atribuciones tendrá bajo su mando la siguiente estructura orgánica:
+Dirección General de Ciencias Forenses. El Centro Estatal de Ciencias Forenses tendrá a su cargo, como auxiliar directo del Ministerio Público, la elaboración de dictámenes periciales, orientación, asesoría, y en general, proporcionar la información que dentro de sus atribuciones le sea requerida por el Ministerio Público en materia de investigación criminal y apreciación de pruebas; las cuales brindará mediante criterios científicos y objetivos, con absoluta independencia y en apego a protocolos y marco normativo aplicables. El Centro Estatal de Ciencias Forenses estará a cargo de la Dirección General, quien para el ejercicio de sus atribuciones tendrá bajo su mando la siguiente estructura orgánica:
 
 I. Dirección de Servicios Periciales;
 
 II. Dirección de Preservación de Evidencias, y
 
-III. Las demás que el Fiscal determine de acuerdo a las necesidades del servicio y margen presupuestal.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+III. Las demás que la persona titular de la Fiscalía determine de acuerdo a las necesidades del servicio y margen presupuestal.
 
 ###### Artículo 34.
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
-
 ###### Artículo 35.
 
-Centro de Evaluación y Control de Confianza. La Dirección General del Centro de Evaluación y Control de Confianza, es un órgano de la Fiscalía General del Estado, que aplicará las evaluaciones en los procesos de selección de aspirantes, ingreso, permanencia, desarrollo y promoción de Agentes del Ministerio Público, Policías de la Agencia Estatal de Investigación, Peritos y Auxiliares; asimismo, mediante convenios de colaboración, las que sean necesarias para la evaluación de los miembros y elementos de apoyo de la Fuerza Estatal de Seguridad Ciudadana, Fuerza Estatal de Seguridad y Custodia Penitenciaria, y de la Policía de los Municipios, así como personal operativo de los Prestadores de Servicios de Seguridad Privada, en términos de la Ley General del Sistema Nacional de Seguridad Pública y demás normas aplicables.
+(DEROGADO, P.O. 12 DE DICIEMBRE DE 2025)
 
-Para tal efecto, tendrá las siguientes facultades:
-
-I. Aplicar los procedimientos de evaluación y de control de confianza conforme a los criterios expedidos por el Centro Nacional de Certificación y Acreditación. En la aplicación de estos procedimientos, se deberán respetar los derechos humanos reconocidos en la Constitución Federal y en los tratados internacionales.
-
-II. Proponer lineamientos para la verificación y control de certificación;
-
-III. Proponer los lineamientos para la aplicación de los exámenes médicos, toxicológicos, psicológicos, poligráficos, socioeconómicos y demás necesarios que se consideren de conformidad con la normatividad aplicable;
-
-IV. Establecer un sistema de registro y control, que permita preservar la confidencialidad y resguardo de expedientes;
-
-V. Verificar el cumplimiento de los perfiles médico, ético y de personalidad;
-
-VI. Comprobar los niveles de escolaridad;
-
-VII. Aplicar el procedimiento de certificación aprobado por el Centro Nacional de Certificación y Acreditación;
-
-VIII. Expedir y actualizar los Certificados conforme a los formatos autorizados por el Centro Nacional de Certificación y Acreditación;
-
-IX. Informar a las autoridades competentes, sobre los resultados de las evaluaciones que practiquen;
-
-X. Solicitar que se efectúe el seguimiento individual de los evaluados, en los que se identifiquen factores de riesgo que interfieran o pongan en riesgo el desempeño de sus funciones;
-
-XI. Detectar áreas de oportunidad para establecer programas de prevención y atención que permitan solucionar la problemática identificada;
-
-XII. Proporcionar a las Instituciones de Seguridad Pública la asesoría y apoyo técnico que requieran sobre información de su competencia;
-
-XIII. Proporcionar a las autoridades competentes la información contenida en los expedientes de los evaluados, que se requieran en procesos administrativos o judiciales, con las reservas previstas en las leyes aplicables;
-
-XIV. Elaborar los informes de resultados para la aceptación o rechazo de los aspirantes, y
-
-XV. Las demás que establezcan las disposiciones legales aplicables.
-
-El Estado y los Municipios implementarán medidas de registro y seguimiento para quienes sean separados del servicio por no obtener el certificado referido en esta Ley. El Centro de Evaluación y Control de Confianza se organizará y funcionará de conformidad con el reglamento de la presente Ley.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 36.
 
-Dirección General del Sistema Estatal de Justicia Alternativa Penal. El Sistema Estatal de Justicia Alternativa Penal, es un órgano de la Fiscalía General del Estado que estará a cargo de un Director, el cual será nombrado y removido por el Fiscal General del Estado.
+Dirección General del Sistema Estatal de Justicia Alternativa Penal. El Sistema Estatal de Justicia Alternativa Penal, es un órgano de la Fiscalía General del Estado que estará a cargo de una persona Directora, la cual será nombrada y removida por la persona titular de la Fiscalía General del Estado.
 
 Tiene por objeto la promoción, difusión y aplicación de los Mecanismos Alternativos de Solución de Controversias en Materia Penal en el ámbito de competencia del Ministerio Público del Estado, de conformidad con la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal.
 
@@ -863,7 +891,9 @@ III. Dirección Zona Costa, que comprenderá los municipios de Tijuana, Tecate y
 
 IV. Dirección Zona Ensenada, y
 
-V. Las demás que establezcan las leyes, y el Fiscal General de acuerdo a las necesidades institucionales y margen presupuestal.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+V. Las demás que establezcan las leyes, y la persona titular de la Fiscalía General de acuerdo a las necesidades institucionales y margen presupuestal.
 
 Cada Dirección de Zona contará a su vez con una Unidad de Atención y Orientación Temprana, una Unidad de Medios Alternativos y una Coordinación de Atención Judicial y Penitenciaria, que se integrarán a su vez por Agentes del Ministerio Público, Facilitadores de Mecanismos Alternativos, auxiliares, notificadores y por el personal que determine el Reglamento de la Presente Ley.
 
@@ -901,9 +931,9 @@ III. Subdirección del Bachillerato General Militarizado.
 
 Las atribuciones, obligaciones, requisitos y características orgánicas de la Dirección del Instituto Estatal de Investigación y Formación Interdisciplinaria y de las subdirecciones que lo integran, estarán determinadas por el Reglamento de la presente Ley.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-Artículo 38 BIS. Patronato del Bachillerato Militarizado. Para el cumplimiento de la misión y fines del Bachillerato Militarizado se constituirá un Patronato, el cual estará integrado por un Presidente designado por el Fiscal General, el Director del Instituto Estatal de Investigación y Formación Interdisciplinaria, quien fungirá como Secretario y siete vocales designados por el Fiscal General del Estado, que deberán ser ciudadanos de reconocida solvencia moral, gozar de estimación general por la sociedad, y tener interés por las actividades educativas y la procuración de justicia, el cual contará con las siguientes atribuciones:
+Artículo 38 BIS. Patronato del Bachillerato Militarizado. Para el cumplimiento de la misión y fines del Bachillerato Militarizado se constituirá un Patronato, el cual estará integrado por una Presidencia designada por la personas (sic) titular de la Fiscalía General, la persona titular de la Dirección del Instituto Estatal de Investigación y Formación Interdisciplinaria, quien fungirá como Secretaria y siete vocales designadas por la persona titular de la Fiscalía General del Estado, que deberán ser personas ciudadanas de reconocida solvencia moral, gozar de estimación general por la sociedad, y tener interés por las actividades educativas y la procuración de justicia, el cual contará con las siguientes atribuciones:
 
 I. Realizar actividades o gestiones orientadas a obtener ingresos para el financiamiento del Bachillerato Militarizado;
 
@@ -915,9 +945,13 @@ IV. Coadyuvar con la Dirección del Instituto Estatal de Investigación y Formac
 
 V. Las demás (sic) señalen las disposiciones reglamentarias respectivas.
 
-El Patronato se organizará y funcionará de acuerdo al Reglamento Interno que expida el Fiscal General del Estado.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-Los miembros ciudadanos del Patronato durarán en su encargo el periodo correspondiente al del Fiscal General que los hubiere designado y desempeñarán su cargo con carácter honorifico.
+El Patronato se organizará y funcionará de acuerdo al Reglamento Interno que expida la persona titular de la Fiscalía General del Estado.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+La ciudadanía integrante del Patronato durará en su encargo el periodo correspondiente al de la persona titular de la Fiscalía General que las hubiere designado y desempeñarán su cargo con carácter honorifico.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -933,9 +967,11 @@ III. Unidad de Transparencia.
 
 Las atribuciones, obligaciones, requisitos y características orgánicas de la Dirección Jurídica y las áreas que la integran, estarán determinadas por el Reglamento de la presente Ley.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 40.
 
-Excusas y recusaciones. Los servidores públicos de la Fiscalía General del Estado podrán excusarse y ser recusados en los asuntos que intervengan, cuando incurran una o más causas que motivan las excusas de magistrados y jueces, cuyo trámite se regirá de acuerdo a lo previsto en el Reglamento de la presente Ley.
+Excusas y recusaciones. Las personas servidoras públicas de la Fiscalía General del Estado podrán excusarse y ser recusadas en los asuntos que intervengan, cuando incurran una o más causas que motivan las excusas de magistrados y jueces, cuyo trámite se regirá de acuerdo a lo previsto en el Reglamento de la presente Ley.
 
 ### Capítulo V. Derechos del personal y Servicio Profesional de Carrera
 
@@ -1039,15 +1075,69 @@ Al Fondo Auxiliar se integrarán también fondos ajenos que por cualquier causa 
 
 Los recursos del Fondo Auxiliar se destinarán a la capacitación y profesionalización del personal de la Fiscalía; a la adquisición de bienes muebles, equipo, material, e inmuebles necesarios para el funcionamiento o mejoras de la Fiscalía General del Estado; así como a la protección, apoyo y reparación del daño a víctimas, ofendidos y testigos, y/o responsabilidad civil institucional cuando sea legalmente procedente.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 45.
 
-Administración del Fondo Auxiliar. Para la administración del Fondo Auxiliar de la Fiscalía General, se constituirá un Consejo Técnico presidido por el Fiscal General, que tendrá una Secretaría Técnica encabezada por el Oficial Mayor, y un Contralor representado por el Fiscal de Contraloría y Visitaduría.
+Administración del Fondo Auxiliar. Para la administración del Fondo Auxiliar de la Fiscalía General, se constituirá un Consejo Técnico presidido por la persona titular de la Fiscalía General, que tendrá una Secretaría Técnica encabezada por la persona titular de la Oficialía Mayor, y una Contraloría representada por la persona titular de la Fiscalía de Contraloría y Visitaduría.
 
-Dicho Consejo deberá sesionar, de manera ordinaria cada tres meses y en forma extraordinaria, cuando sea convocado por el Fiscal General, y tendrá entre sus atribuciones la administración de los recursos económicos que constituyen el Fondo Auxiliar; realizar los actos jurídicos necesarios para los fines del Fondo; expedir las disposiciones de normatividad interna; y las demás que establezcan las leyes y el Reglamento de la presente Ley.
+Dicho Consejo deberá sesionar, de manera ordinaria cada tres meses y en forma extraordinaria, cuando sea convocado por la persona titular de la Fiscalía General, y tendrá entre sus atribuciones la administración de los recursos económicos que constituyen el Fondo Auxiliar; realizar los actos jurídicos necesarios para los fines del Fondo; expedir las disposiciones de normatividad interna; y las demás que establezcan las leyes y el Reglamento de la presente Ley.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 46.
 
-Presupuesto. El Fiscal General presentará de manera directa al Congreso del Estado, el Proyecto de Presupuesto Anual de Egresos para el Ejercicio Fiscal que corresponda, en cumplimiento a la Constitución Política de Baja California y demás disposiciones legales aplicables. Este presupuesto no podrá ser reducido respecto del autorizado para el ejercicio anterior, actualizado en términos inflacionarios y deberá garantizarse la autonomía e independencia funcional y financiera de la institución.
+Presupuesto. La persona titular de la Fiscalía General presentará de manera directa al Congreso del Estado, el Proyecto de Presupuesto Anual de Egresos para el Ejercicio Fiscal que corresponda, en cumplimiento a la Constitución Política de Baja California y demás disposiciones legales aplicables. Este presupuesto no podrá ser reducido respecto del autorizado para el ejercicio anterior, actualizado en términos inflacionarios y deberá garantizarse la autonomía e independencia funcional y financiera de la institución.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+### Capítulo VII. Del Sistema Estatal de Difusión de Alertas Móviles
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 47.
+
+Se crea el Sistema Estatal de Difusión de Alertas Móviles, con el objetivo de emitir mensajes masivos de alerta en tiempo real a través de redes móviles, mediante el uso de tecnología de difusión celular.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 48.
+
+Las alertas podrán emitirse ante:
+
+I. Situaciones de emergencia relacionadas con fenómenos naturales o antropogénicos que representen riesgo para la vida o integridad física.
+
+II. Amenazas a la seguridad pública que justifiquen informar a la población de manera inmediata.
+
+III. Alertas Amber, en los términos establecidos por la autoridad competente.
+
+IV. Cualquier otra situación extraordinaria que, a juicio fundado de la autoridad competente, implique peligro inminente para la ciudadanía.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 49.
+
+Las autoridades facultadas para solicitar la emisión de alertas serán:
+
+I. La Fiscalía General del Estado.
+
+II. La Secretaría de Seguridad Ciudadana del Estado.
+
+III. La Coordinación Estatal de Protección Civil.
+
+IV. Las autoridades municipales con competencia en materia de seguridad pública y protección civil.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 50.
+
+La Fiscalía General del Estado a través del Centro de Control, Comando, Comunicación, Cómputo, Calidad y de Contacto Ciudadano del Estado será la instancia encargada de coordinar, implementar y operar el sistema. Para ello deberá:
+
+I. Gestionar ante la autoridad federal competente en materia de telecomunicaciones, la autorización necesaria para utilizar la tecnología de difusión celular.
+
+II. Celebrar convenios de colaboración con los concesionarios de telecomunicaciones para la difusión de alertas.
+
+III. Supervisar el correcto funcionamiento del sistema y su activación conforme a los principios de legalidad, necesidad, proporcionalidad y respeto a la privacidad de las personas.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -1202,3 +1292,39 @@ SEGUNDO.- La Fiscalía General del Estado tendrá el plazo de treinta días natu
 Hasta en tanto no se realicen las modificaciones reglamentarias, toda referencia a la Fiscalía Especializada en Delitos Contra Mujeres por Razón de Género se entenderá a la Fiscalía Especializada en Delitos Relacionados con la Violencia de Género Contra las Mujeres.
 
 TERCERO.- Los contratos cuya naturaleza no sea laboral o burocrática, convenios y demás instrumentos celebrados por la Fiscalía Especializada en Delitos Contra Mujeres por Razón de Género que a la fecha de publicación del Decreto, se encuentren vigentes, continuarán surtiendo sus efectos y obligarán en sus términos a la Fiscalía Especializada en Delitos Relacionados con la Violencia de Género Contra las Mujeres, hasta en tanto no se sustituyan los derechos sobre los bienes o la materia de los mismos, o se den por terminados por cualquier medio.
+
+P.O. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 173 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE ADICIONA EL CAPÍTULO VII DENOMINADO DEL SISTEMA ESTATAL DE DIFUSIÓN DE ALERTAS MÓVILES, ASÍ COMO LA ADICIÓN DE DIVERSOS ARTÍCULOS A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO. La Fiscalía General del Estado de Baja California, deberá emitir el reglamento correspondiente en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+TERCERO. La Fiscalía General del Estado de Baja California, deberá iniciar las gestiones necesarias ante la autoridad federal competente en materia de Telecomunicaciones en un plazo máximo de 30 días naturales contados a partir de la entrada en vigor de este Decreto.
+
+P.O. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 175 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 178 MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS, ASÍ COMO DEROGACIÓN DEL ARTÍCULO 35 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO, Y DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA".]
+
+Primero.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Dentro de un plazo de 90 días naturales contados a partir de la entrada en vigor de las presentes reformas, se deberán realizar las modificaciones reglamentarias correspondientes.
+
+Tercero.- A partir de la entrada en vigor del presente Decreto la Fiscalía deberá transferir a la Oficialía Mayor de Gobierno y a la Secretaría de Hacienda los recursos financieros, humanos y materiales que estén asignados al Centro de Evaluación y Control de Confianza, a fin de que estas dependencias realicen las asignaciones que corresponden en favor de la Secretaría de Seguridad Ciudadana.
+
+La Secretaría de Hacienda y la Oficialía Mayor de Gobierno, en el ámbito de sus respectivas competencias resolverán de conformidad con la normativa aplicable, sobre los aspectos administrativos no contemplados en el presente Decreto, para la asignación de los recursos financieros, de los programas y partidas presupuestales, así como de los recursos humanos y materiales, según correspondan, para la debida ejecución del presente Decreto.
+
+Cuarto.- Los procesos de selección de aspirantes, ingreso, permanencia, desarrollo, evaluación, certificación y promoción de los Miembros de las Instituciones Policiales, que a la fecha de entrada en vigor de las presentes reformas se encuentren en curso o estén pendientes de conclusión seguirán su sustanciación, hasta su conclusión por el Centro de Evaluación y Control de Confianza a cargo de la Secretaría de Seguridad Ciudadana.
+
+Los procesos a que se refiere el párrafo anterior, relativos a los Miembros de la Agencia Estatal de Investigación, Ministerios Públicos, peritos y demás personas servidoras públicas de la Fiscalía General del Estado a quienes les resulte aplicable, serán sustanciados hasta su conclusión por la Unidad Administrativa que determine la Fiscalía General del Estado, sin perjuicio de que se puedan celebrar convenios de colaboración con la Secretaría para la sustanciación y conclusión de estos.
+
+Quinto.- Con motivo de la transferencia prevista en las presentes reformas no se aplicará la prohibición prevista en el artículo 46 de la Ley Orgánica de la Fiscalía General del Estado, respecto a la irreductibilidad presupuestal de la Fiscalía General del Estado.
+
+Sexto.- Los juicios, controversias y obligaciones de pago o de cualquier índole derivadas de resoluciones judiciales o procesos jurisdiccionales pendientes de resolver o de cumplimiento al momento de la entrada en vigor del presente decreto, en los que sea parte el Centro de Evaluación y Control de Confianza, quedarán bajo cargo y responsabilidad de la Fiscalía General del Estado hasta su total conclusión.
