@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2025-12-04"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -692,6 +692,10 @@ P07 ESPECIALIZADO EXENTO
 P08 ESCOLAR EXENTO
 
 P09 COLECTIVO $150.00
+
+> <small>(ADICIONADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+P10 MICROMOVILIDAD EXENTO
 
 > <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -1595,9 +1599,9 @@ III.- (DEROGADA, B.O. 29 DE DICIEMBRE DE 1983)
 
 IV.- Cuando no sea posible especificar en forma separada el valor de los muebles e inmuebles: 3%.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-Cuando el sujeto del impuesto acredite su calidad de jubilado, pensionado o persona adulta de 60 años o más edad, en los términos del artículo 298, fracción II del presente ordenamiento o que presta sus servicios como socorrista de Cruz Roja Mexicana, I. A. P., en cualquiera de las Delegaciones o Bases en el Estado de Sonora, con una antigüedad de, por lo menos, cuatro años, o que preste sus servicios como bombero o voluntario en cualquiera de los 72 municipios del Estado de Sonora, con una antigüedad de, por lo menos, cuatro años, se aplicará la tasa correspondiente reducida en un 50%, siempre y cuando se trate de operaciones que no excedan de seis veces el valor diario de la Unidad de Medida y Actualización general, vigente en el Estado; esta reducción será efectiva en el Impuesto que corresponda al ejercicio fiscal en curso.
+Cuando el sujeto del impuesto acredite su calidad de jubilado, pensionado o persona adulta de 60 o más años de edad, en los términos del artículo 298, fracción II del presente ordenamiento o que presta sus servicios como socorrista de Cruz Roja Mexicana, I. A. P., en cualquiera de las Delegaciones o Bases en el Estado de Sonora, con una antigüedad de, por lo menos, cuatro años, o que preste sus servicios como bombero o voluntario en cualquiera de los 72 municipios del Estado de Sonora, con una antigüedad de, por lo menos, cuatro años, se aplicará la tasa correspondiente reducida en un 50%, siempre y cuando se trate de operaciones que no excedan de seis veces el valor anual de la Unidad de Medida y Actualización vigente; esta reducción será efectiva en el impuesto que corresponda al ejercicio fiscal en curso.
 
 ###### Artículo 189 Bis.
 
@@ -2007,19 +2011,25 @@ Apartado 2
 
 Del Impuesto Estatal por la Prestación de Servicios de Juegos con Apuestas y Concursos.
 
-> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 212-M.
 
-Es objeto de este impuesto las actividades de prestación de servicios consistentes en la realización en el territorio del Estado, de juegos con apuestas, independientemente del nombre con el que se les designe, así como de todas las actividades que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, así como de juegos, concursos y sorteos, en los que el premio se obtenga por la destreza del participante o del azar o la suerte, en el uso de máquinas o que en su desarrollo utilicen imágenes visuales electrónicas como números, símbolos, figuras u otras similares.
+Es objeto de este impuesto las actividades de prestación de servicios consistentes en la realización, en el territorio del Estado, de juegos con apuestas, independientemente del nombre con el que se les designe, así como todas aquellas actividades que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento; así como la organización, explotación y operación de juegos con apuestas, concursos, rifas y sorteos en los que el premio se obtenga por la destreza del participante o por el azar o la suerte, mediante el uso de máquinas o en cuyo desarrollo se utilicen imágenes visuales electrónicas, como números, símbolos, figuras u otras similares.
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-Quedan comprendidos en los juegos con apuestas, aquellos en los que solo se reciban, capten, crucen o exploten apuestas y en los concursos aquellos en los que intervengan directa e indirectamente el azar. Así mismo, quedan comprendidos en los juegos con apuestas, los de apuestas remotas también conocidos como libros foráneos realizados por establecimientos autorizados por autoridad competente, para captar y operar cruces de apuestas en eventos, competencias deportivas y juegos permitidos por la Ley Federal de Juegos y Sorteos y su Reglamento, realizados en el extranjero o en territorio nacional, transmitidos en tiempo real y de forma simultánea en video y audio.
+Quedan comprendidos en los juegos con apuestas aquellos en los que únicamente se reciban, capten, crucen o exploten apuestas; y en los concursos, aquellos en los que intervenga directa o indirectamente el azar. Asimismo, quedan comprendidos en los juegos con apuestas aquellos en los que las apuestas se reciban a través de medios electrónicos, plataformas digitales o sistemas remotos también conocidos como libros foráneos, realizados por establecimientos autorizados por autoridad competente para captar y operar cruces de apuestas en eventos, competencias deportivas y/o juegos permitidos por la Ley Federal de Juegos y Sorteos y su Reglamento, efectuados en el extranjero o en territorio nacional , aun cuando el operador se encuentre fuera del Estado, y que tales actividades sean transmitidas en tiempo real, en audio y/o video.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+> <small>(ADICIONADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-Se considera dentro del concepto de premio a que se refiere el párrafo primero de este artículo, los premios que previo un tiempo de juego, provengan de máquinas autorizadas por la Secretaría de Gobernación, los cuales a cambio de una cantidad de dinero o ficha pagada o pre pagada, se otorgan por el prestatario del servicio en efectivo o por medio electrónico, como tarjeta de crédito o débito, monedero electrónico o trasferencia electrónica emitida desde cuentas bancarias o en vales canjeables por dinero en efectivo o bienes muebles.
+Se consideran ingresos derivados de las actividades señaladas en este artículo todas aquellas cantidades obtenidas por la venta de boletos, vales, fichas, recargas, créditos o tokens para participar en dichas actividades, así como los importes percibidos por el acceso o uso de máquinas, plataformas, dispositivos o instalaciones vinculadas a juegos con apuestas, concursos, rifas y sorteos.
+
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+Asimismo, se considera dentro del concepto de premio a que se refiere el párrafo segundo de este artículo, cualquier recompensa o retribución obtenida por los participantes, previo un tiempo de juego, cuando provengan de máquinas autorizadas por la Secretaría de Gobernación, los cuales a cambio de una cantidad de dinero o ficha pagada o pre pagada, se otorgan por el prestatario del servicio en efectivo o por medio electrónico, como tarjeta de crédito o débito, monedero electrónico, transferencia electrónica emitida desde cuentas bancarias, o en vales canjeables por dinero en efectivo o bienes muebles.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], B.O. 6 DE AGOSTO DE 2012)</small>
 
 Las máquinas a que se refiere el párrafo anterior incluyen, de manera enunciativa más no limitativa, las siguientes:
 
@@ -2041,21 +2051,41 @@ Los pagos del Impuesto Sobre Loterías, Rifas o Sorteos efectuados en los térmi
 
 M BIS.- Son sujetos de este impuesto las personas físicas, morales o unidades económicas sin personalidad jurídica, que en el territorio del Estado realicen las actividades de prestación de servicios a que se refiere el artículo 212-M de esta Ley, independientemente de que se trate de administradores, organizadores, anfitriones de algún establecimiento donde se lleve a cabo la prestación de los servicios. Son también sujetos de este impuesto las personas que paguen premios, cuando sean distintas de las mencionadas en este artículo.
 
+> <small>(ADICIONADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+Los operadores de las personas físicas y morales o unidades económicas sin personalidad jurídica y/o sin domicilio fiscal en el Estado deberán designar representante legal que fungirá como responsable solidario hasta por el monto del crédito fiscal y, se presumirá causado el impuesto derivado de sus actividades cuando las apuestas se realicen, los premios se generen y cualquiera de ellos se paguen como resultado de eventos o actividades efectuados dentro del territorio del Estado.
+
+> <small>(ADICIONADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+Para el caso de operadores que no acrediten el pago del impuesto, se presumirá una base gravable del 70% del monto total de las apuestas recibidas.
+
 > <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 212
 
 M BIS 1.- Será base de este Impuesto:
 
-> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-I.- En los juegos con apuestas, el monto total de las apuestas una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables, y en los sorteos y las actividades a que se refiere el artículo 212-M de la presente Ley, el monto total del valor de la emisión, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
+I.- En los juegos con apuestas, el monto total de las apuestas recibidas incluidas las recargas y créditos disminuido únicamente con el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables; y en los sorteos y las actividades a que se refiere el artículo 212-M de la presente Ley, el monto total del valor de la emisión, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
+
+Se entenderá por premio efectivamente pagado el valor de las cantidades en dinero, bienes, vales o servicios efectivamente entregados al ganador o acreditados en cuenta o monedero de libre disposición, mismas que deberá soportarse con la documentación comprobatoria que acredite la entrega del recurso.
+
+No se considerarán premios efectivamente pagados los devengados y no reclamados, los caducos, los reinvertidos automáticamente ni las bonificaciones o créditos promocionales otorgados por el organizador.
 
 II.- En los juegos, sorteos y actividades a que se refiere el artículo 212-M de la presente Ley, en los que la apuesta o valor de la emisión se realice mediante fichas, tarjetas, contraseñas, bandas magnéticas, dispositivos electrónicos u objetos similares, que se utilicen para apostar o participar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que realice el juego, el valor total de las cantidades equivalentes en moneda nacional que amparen dichos medios, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
 
 III.- En el caso de concursos, el monto total de los ingresos obtenidos por las inscripciones que permitan participar en el evento, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
 
+> <small>(ADICIONADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+También integrarán la base del impuesto señalado en las fracciones I, II y III del presente artículo, las cantidades percibidas por acceso o uso de máquinas o plataformas y las comisiones vinculadas, así como las operaciones mediante fichas o tokens por su valor de venta o recarga.
+
 Tratándose de premios en especie, en los eventos a que se refieren las fracciones anteriores de este artículo el monto que se podrá disminuir será el que corresponda al valor con el que se promocione el premio, en su defecto, el valor de facturación y en ausencia de ambos, el valor que tenga el premio en el mercado, así como las cantidades efectivamente devueltas a los participantes, siempre que las devoluciones se efectúen previo a la realización del evento y éstas se encuentren debidamente registradas en la contabilidad del contribuyente.
+
+> <small>(ADICIONADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+Se entenderá por devolución, las cantidades efectivamente devueltas al jugador que no formaron parte de las cantidades apostadas o jugadas, es decir que se devuelvan antes de la realización del juego, mismas que deberá soportarse con la documentación comprobatoria que lo acredite.
 
 Para efectos de este Impuesto se entiende por valor de la emisión, el monto total cuantificado en dinero o equivalente en moneda nacional, del valor nominativo de los comprobantes de participación en un sorteo.
 
@@ -2173,11 +2203,11 @@ Son sujetos del Impuesto, las personas físicas o morales que realicen las eroga
 
 La base de este Impuesto es el monto total de las erogaciones realizadas en efectivo, en especie o por cualquier otro medio que permita usar o acceder a las máquinas o participar en los juegos con apuestas, sorteos o concursos, a que se refiere el artículo 212-S de esta Ley.
 
-> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 212-R.
 
-El impuesto se calculará aplicando la tasa del 10% al monto de los pagos efectuados por la persona para participar en juegos con apuestas, sorteos o concursos, ya sean en efectivo, en especie o por cualquier otro medio, incluidos los que se realicen mediante la carga y cualquier recarga adicional, en tarjetas, bandas magnéticas, dispositivos electrónicos, fichas, contraseñas, comprobantes, monederos o cualquier otro medio que permita usar o acceder a las máquinas o participar en los juegos con apuestas, sorteos o concursos, a que se refiere el artículo 212-S de esta Ley.
+El impuesto se calculará aplicando la tasa del 15% al monto de los pagos efectuados para participar en juegos con apuestas, sorteos o concursos, ya sea en efectivo, en especie o por cualquier otro medio, incluidos los que se realicen mediante la carga y cualquier recarga adicional, en tarjetas, bandas magnéticas, dispositivos electrónicos, fichas, contraseñas, comprobantes, monederos o cualquier otro medio que permita usar o acceder a las máquinas o participar en los juegos con apuestas, sorteos o concursos, a que se refiere el artículo 212-S de esta Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE DICIEMBRE DE 2023)</small>
 
@@ -2406,6 +2436,16 @@ El beneficio establecido en la presente fracción, tendrá una vigencia de doce 
 > <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
 XV.- El tiempo extraordinario dentro de los márgenes señalados en la Ley Federal del Trabajo;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+XVI.- Remuneraciones pagadas a las personas trabajadoras del hogar, a que se refiere el artículo 331 de la Ley Federal del Trabajo.
+
+En el entendido de que no se considera persona trabajadora del hogar a:
+
+a).- Quien realice trabajo del hogar únicamente de forma ocasional o esporádica, y
+
+b).- Quien preste servicio de aseo, asistencia, atención a clientes y otros semejantes, en hoteles, casas de asistencia, restaurantes, fondas, bares, hospitales, sanatorios, colegios, internados y otros establecimientos análogos.
 
 > <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -2895,7 +2935,9 @@ VI.- Cuando de las revisiones hechas a sus declaraciones, se encuentren omisione
 
 Es objeto de este impuesto:
 
-I.- La realización de pagos por concepto de ingresos previstos en la Ley de Ingresos del Estado; y
+> <small>(REFORMADA, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+I.- La realización de los pagos por concepto de ingresos previstos en la Ley de Ingresos del Estado; y
 
 II.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
@@ -2911,11 +2953,11 @@ I.- En la situación prevista en la fracción I del Artículo 246, el monto tota
 
 II.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 249.
 
-La tasa del impuesto será de 15% sobre su base.
+La tasa del impuesto será del 15% sobre su base.
 
 ###### Artículo 250.
 
@@ -2956,6 +2998,10 @@ X.- Impuesto Sobre Traslación de Dominio de Bienes Muebles y derechos por exped
 ###### Artículo 252.
 
 El ingreso que se perciba por concepto de este impuesto se destinará íntegramente para el sostenimiento de las Universidades de Sonora, el cual se recaudará por las oficinas receptoras y se concentrará a la Tesorería General del Estado, para que ésta lo entregue a la Tesorería del Patronato de las Universidades. Del 15% que se tiene como tasa del impuesto, un 12% será entregado a la Universidad de Sonora y el 3% restante para el resto de las Universidades estatales.
+
+> <small>(ADICIONADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+La Secretaría de Hacienda descontará de los recursos que se obtengan por concepto del Impuesto para el Sostenimiento de las Universidades de Sonora, aquellas cantidades que por cualquier motivo el Estado haya devuelto a los contribuyentes causantes de la misma. Dicho descuento se efectuará a partir del mes siguiente a aquel en que se realice la devolución correspondiente.
 
 ## TITULO TERCERO. De las Contribuciones Especiales
 
@@ -3309,11 +3355,11 @@ Las contribuciones a que se refieren los artículos 284, 285, 286 y 287 de este 
 
 ### Capítulo Tercero. Contribuciones para el Consejo Estatal de Concertación para la Obra Pública
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 289.
 
-Para beneficio del Consejo Estatal de Concertación para la Obra Pública, se causará una cuota adicional sobre impuestos y derechos del Estado, equivalente a un 15% de su importe.
+Para beneficio del Consejo Estatal de Concertación para la Obra Pública, se causará una cuota adicional equivalente al 15% sobre el importe de los impuestos y derechos estatales.
 
 ###### Artículo 290.
 
@@ -3357,15 +3403,17 @@ III.- Impuesto Sobre Traslación de Dominio de Bienes Muebles y derechos por exp
 
 La recaudación que por concepto de esta contribución se obtenga en cada municipio, será principalmente para beneficio del Consejo Estatal de Concertación para la Obra Pública.
 
+> <small>(ADICIONADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+La Secretaría de Hacienda descontará de los recursos que se obtengan por concepto de la Contribución para el Consejo Estatal de Concertación para la Obra Pública, aquellas cantidades que por cualquier motivo el Estado haya devuelto a los contribuyentes causantes de la misma. Dicho descuento se efectuará a partir del mes siguiente a aquel en que se realice la devolución correspondiente.
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ### Capítulo III Bis. Contribuciones para el Fortalecimiento de la Infraestructura Educativa
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-###### Artículo 292 Bis.
-
-Se causará una cuota adicional sobre los impuestos y derechos del Estado, equivalente a un 15% de su importe, con la finalidad de conservar, crear, mantener y fortalecer infraestructura educativa, equipamiento para la prestación del servicio de educación en todos los niveles, incluyendo el servicio de transporte escolar, así como el financiamiento del programa de apoyo escolar y cualquier otro rubro del sector educativo.
+Artículo 292 BIS.- Se causará una cuota adicional sobre los impuestos y derechos del Estado, equivalente a un 15% de su importe, con la finalidad de conservar, crear, mantener y fortalecer la infraestructura educativa, el equipamiento para la prestación del servicio de educación en todos los niveles educativos, incluyendo el servicio de transporte escolar, así como el financiamiento del programa de apoyo escolar y cualquier otro rubro del sector educativo.
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -3383,29 +3431,39 @@ III.- Impuesto Sobre Traslación de Dominio de Bienes Muebles y derechos por exp
 
 > <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
+###### Artículo 292 Bis
+
+2.- Toda la recaudación que por concepto de esta contribución se obtenga, será para conservar, crear, mantener y fortalecer la infraestructura educativa, equipamiento para la prestación del servicio de educación en todos los niveles, incluyendo el servicio de transporte escolar, el financiamiento del programa de apoyo escolar y cualquier otro rubro del sector educativo.
+
+> <small>(ADICIONADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+La Secretaría de Hacienda descontará de los recursos que se obtengan por concepto de la Contribución para el Fortalecimiento de la Infraestructura Educativa, aquellas cantidades que por cualquier motivo el Estado haya devuelto a los contribuyentes causantes de la misma. Dicho descuento se efectuará a partir del mes siguiente a aquel en que se realice la devolución correspondiente.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
 ### Capítulo III Bis 1. CONTRIBUCION PARA EL FORTALECIMIENTO Y SOSTENIMIENTO DE LA CRUZ ROJA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
 Artículo 292 BIS-3.- Para el fortalecimiento y sostenimiento de la Cruz Roja, se causará una cuota adicional equivalente a 0.70 Unidades de Medida y Actualización (UMA), por cada uno de los servicios prestados relativos a la expedición de placas de vehículos, revalidaciones, licencias para conducir y permisos.
 
-> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], B.O. 14 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-Para los efectos de esta contribución, únicamente habrán de incluirse los servicios siguientes:
+Para efectos del cobro de esta contribución, únicamente se aplicará a los siguientes servicios:
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 a) Por expedición de placas de circulación.
 
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
 b) Por revalidación de placas de circulación.
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 c) Por expedición de licencias de conducir.
 
 > <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
-
-###### Artículo 292 Bis
-
-2.- Toda la recaudación que por concepto de esta contribución se obtenga, será para conservar, crear, mantener y fortalecer la infraestructura educativa, equipamiento para la prestación del servicio de educación en todos los niveles, incluyendo el servicio de transporte escolar, el financiamiento del programa de apoyo escolar y cualquier otro rubro del sector educativo.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 292 Bis
 
@@ -3415,15 +3473,33 @@ Por la expedición, canje o revalidación de placas de transporte privado, por e
 
 > <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
+###### Artículo 292 Bis
+
+5.- Toda la recaudación que por concepto de esta cuota adicional se obtenga, será para el fortalecimiento y sostenimiento de la Cruz Roja.
+
+> <small>(ADICIONADO, B.O. 3 DE OCTUBRE DE 2019)</small>
+
+La Secretaría de Hacienda deberá de rendir un informe anual al Congreso del Estado, respecto al número y montos de transferencias de recursos que recaudó por concepto de contribución para el fortalecimiento y sostenimiento de la Cruz Roja correspondiente al ejercicio inmediato anterior. El informe deberá ser presentado a más tardar el día 31 de marzo del ejercicio fiscal siguiente.
+
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+El Patronato de la Cruz Roja en el Estado, deberá rendir un informe trimestral al Congreso del Estado, mediante el cual detalle el monto total de los recursos que le fueron transferidos por el Ejecutivo del Estado, a través de la Secretaría de Hacienda, por concepto de la Contribución para el Fortalecimiento y Sostenimiento de la Cruz Roja correspondiente al trimestre ejercido, asimismo dicho Patronato, deberá rendir un informe trimestral tanto a la Secretaría de Hacienda como al Congreso del Estado, que contenga el desglose de los conceptos en los cuales fueron erogados los recursos, precisando el concepto y el monto erogado en cada caso particular, anexando, además, la factura en PDF, XML y CFDI o cualquier otro formato de comprobación que mediante Reglas de Carácter General establezca la autoridad tributaria federal que justifique cada erogación hecha con dichos recursos. El informe deberá presentarse dentro de los veinte días siguientes a la conclusión del trimestre ejercido.
+
+> <small>(ADICIONADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+La Secretaría de Hacienda descontará de los recursos que se obtengan por concepto de la Contribución para el Fortalecimiento y Sostenimiento de la Cruz Roja, aquellas cantidades que por cualquier motivo el Estado haya devuelto a los contribuyentes causantes de la misma. Dicho descuento se efectuará a partir del mes siguiente en que se realice la devolución correspondiente.
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
 ### Capítulo III Bis 2. Contribución para el Fortalecimiento y Sostenimiento de los Cuerpos de Bomberos
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
 Artículo 292 BIS-6.- Para el fortalecimiento y sostenimiento de los cuerpos de bomberos, se causará una cuota adicional equivalente a 0.60 Unidades de Medida y Actualización (UMA), por cada uno de los servicios prestados relativos a la expedición de placas de vehículos, revalidaciones, licencias para conducir y permisos.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 30 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-Para los efectos del cobro de esta contribución, únicamente habrá de incluirse en los servicios siguientes:
+Para efectos del cobro de esta contribución, únicamente se aplicará a los siguientes servicios:
 
 > <small>(ADICIONADO, B.O. 8 DE MARZO DE 2018)</small>
 
@@ -3441,20 +3517,6 @@ c).- Por expedición de licencias y permisos de conducir.
 
 ###### Artículo 292 Bis
 
-5.- Toda la recaudación que por concepto de esta cuota adicional se obtenga, será para el fortalecimiento y sostenimiento de la Cruz Roja.
-
-> <small>(ADICIONADO, B.O. 3 DE OCTUBRE DE 2019)</small>
-
-La Secretaría de Hacienda deberá de rendir un informe anual al Congreso del Estado, respecto al número y montos de transferencias de recursos que recaudó por concepto de contribución para el fortalecimiento y sostenimiento de la Cruz Roja correspondiente al ejercicio inmediato anterior. El informe deberá ser presentado a más tardar el día 31 de marzo del ejercicio fiscal siguiente.
-
-> <small>(ADICIONADO, B.O. 3 DE OCTUBRE DE 2019)</small>
-
-El patronato de la Cruz Roja en el Estado, deberá rendir un informe anual al Congreso del Estado, mediante el cual detalle el monto total de los recursos que le fueron transferidos por el Ejecutivo del Estado, a través de la Secretaría de Hacienda, por concepto de contribución para el fortalecimiento y sostenimiento de la Cruz Roja correspondiente al ejercicio inmediato anterior, así como el desglose de los conceptos en los cuales fueron erogados los recursos, precisando el concepto y el monto erogado en cada caso particular, anexando, además, la factura en PDF, XML y CFDI o cualquier otro formato de comprobación que mediante Reglas de Carácter General establezca la autoridad tributaria federal que justifique cada erogación hecha con dichos recursos. El informe deberá presentarse a más tardar el día 31 de marzo del ejercicio fiscal siguiente.
-
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 24 DE DICIEMBRE DE 2020)</small>
-
-###### Artículo 292 Bis
-
 7.- No causará la cuota adicional a que se refiere este capítulo, en los pagos que se realicen por los siguientes conceptos:
 
 > <small>(ADICIONADO, B.O. 8 DE MARZO DE 2018)</small>
@@ -3462,12 +3524,6 @@ El patronato de la Cruz Roja en el Estado, deberá rendir un informe anual al Co
 Por la expedición, canje o revalidación de placas de transporte privado, por expedición de licencias para conducir, que realicen las personas con discapacidad permanente, para acreditar la calidad de persona con discapacidad permanente, deberá exhibirse al momento del pago del derecho correspondiente, la credencial expedida por los consejos estatales o municipales, para la integración de las personas con discapacidad.
 
 > <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
-
-### Capítulo III Bis 3
-
-Contribución para el Fortalecimiento de las Instituciones de Seguridad Pública, Procuración e Impartición de Justicia y para Promover la Competitividad del Estado
-
-> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 292 Bis
 
@@ -3481,9 +3537,21 @@ En caso de que un ayuntamiento cuente con más de un cuerpo de bomberos reconoci
 
 En caso de que un ayuntamiento no cuente con un cuerpo de bomberos reconocido, se procederá a entregar los recursos recaudados al cuerpo o cuerpos de bomberos del municipio más cercano que brinde los servicios, conforme se establezca en reglas de carácter general que emita la Secretaría de Hacienda.
 
-El ayuntamiento, organismo, patronato o cualquier otro tipo de organización pública o privada, que actuando como intermediario de los cuerpos de bomberos, reciba los recursos a que se refiere este capítulo, deberá rendir un informe pormenorizado del destino de dichos recursos al Congreso del Estado de Sonora, dentro de los 30 días siguientes de haberlos recibido.
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+El ayuntamiento, organismo, patronato o cualquier otro tipo de organización pública o privada, que actuando como intermediario de los cuerpos de bomberos, reciba los recursos a que se refiere este capítulo, deberá rendir un informe trimestral al Congreso del Estado, mediante el cual detalle el monto total de los recursos que le fueron transferidos por el Ejecutivo del Estado, a través de la Secretaría de Hacienda, por concepto de la Contribución para el Fortalecimiento y Sostenimiento de los Cuerpos de Bomberos correspondiente al trimestre ejercido, asimismo el cuerpo de bomberos o quien actúe como su intermediario deberá rendir un informe trimestral tanto a la Secretaría de Hacienda como al Congreso del Estado, que contenga el desglose de los conceptos en los cuales fueron erogados los recursos, precisando el concepto y el monto erogado en cada caso particular, anexando, además, la factura en PDF, XML y CFDI o cualquier otro formato de comprobación que mediante Reglas de Carácter General establezca la autoridad tributaria federal que justifique cada erogación hecha con dichos recursos. El informe deberá presentarse dentro de los veinte días siguientes a la conclusión del trimestre ejercido.
+
+> <small>(ADICIONADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+La Secretaría de Hacienda descontará de los recursos que se obtengan por concepto de la Contribución para el Fortalecimiento y Sostenimiento de los Cuerpos de Bomberos, aquellas cantidades que por cualquier motivo el Estado haya devuelto a los contribuyentes causantes de la misma. Dicho descuento se efectuará a partir del mes siguiente en que se realice la devolución correspondiente.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+### Capítulo III Bis 3
+
+Contribución para el Fortalecimiento de las Instituciones de Seguridad Pública, Procuración e Impartición de Justicia y para Promover la Competitividad del Estado
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 292 Bis
 
@@ -3925,145 +3993,145 @@ hh) Sala de degustación para la venta exclusiva de vino regional hecho en Sonor
 
 II.- Por la revalidación:
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-a).- Fábrica $102,793.00
+a).- Fábrica $94,227.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-b).- Fábrica y comercialización de producto regional típico $6,857.00
+b).- Fábrica y comercialización de producto regional típico $6,285.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-c).- Agencia distribuidora $102,793.00
+c).- Agencia distribuidora $94,227.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-d).- Expendio $88,992.00
+d).- Expendio $81,576.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-e).- Cantina $44,498.00
+e).- Cantina $40,790.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-f).- Restaurante con bar anexo o Cine VIP $18,276.00
+f).- Restaurante con bar anexo o Cine VIP $16,753.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-f bis).- Restaurante $10,960.00
+f bis).- Restaurante $10,046.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-g).- Tienda de autoservicio $56,178.00
+g).- Tienda de autoservicio $51,497.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-h).- Tienda departamental $104,046.00
+h).- Tienda departamental $95,376.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-i).- Tienda de abarrotes $10,960.00
+i).- Tienda de abarrotes $10,046.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-j).- Centro nocturno $114,420.00
+j).- Centro nocturno $104,885.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-k).- Porteadora $8,216.00
+k).- Porteadora $7,532.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-l).- Centro de eventos o salón de baile $39,976.00
+l).- Centro de eventos o salón de baile $36,644.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-m).- Centro deportivo o recreativo $22,844.00
+m).- Centro deportivo o recreativo $20,941.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-n).- Hotel o motel $22,844.00
+n).- Hotel o motel $20,941.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-ñ).- Billar o boliche $32,897.00
+ñ).- Billar o boliche $30,155.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-o).- Centro nocturno con espectáculos de baile semidesnudos de hombres y/o mujeres, mayores de edad $ 133,490.00
+o).- Centro nocturno con espectáculos de baile semidesnudos de hombres y/o mujeres, mayores de edad $122,366.00
 
 p).- (DEROGADO, B.O. 28 DE DICIEMBRE DE 2023)
 
-> <small>(REFORMADO [N. DE E. CON SU TABLA], B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO [N. DE E. CON SU TABLA], B.O. 12 DE DICIEMBRE DE 2025)</small>
 
 q).- Fábrica de Cerveza Artesanal que se elabore por fabricantes sonorenses que tengan su principal establecimiento en el territorio del Estado de Sonora, de acuerdo a la siguiente tabla:
 
 Volumen Anual en Hectolitros Revalidación
 
-Hasta 2,000 18,817.00
+Hasta 2,000 17,249.00
 
-2,001 - 4,000 $28,226.00
+2,001 - 4,000 $25,874.00
 
-4,001 - 6,000 $37,634.00
+4,001 - 6,000 $34,498.00
 
-6,001 - 10,000 $47,044.00
+6,001 - 10,000 $43,123.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-r).- Restaurante Rural $1,883.00
+r).- Restaurante Rural $1,726.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-s).- Hoteles o Moteles Rurales $3,763.00
+s).- Hoteles o Moteles Rurales $3,450.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-t).- Auto Servicio de Productos Típicos Regionales $5,015.00
+t).- Auto Servicio de Productos Típicos Regionales $4,597.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-u).- Porteadora de Producto Regional Típico y de Cerveza Artesanal de Fabricación $5,015.00
+u).- Porteadora de Producto Regional Típico y de Cerveza Artesanal de Fabricación $4,597.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-v).- Fábricas de producto vitivinícolas y sus derivados $15,959.00
+v).- Fábricas de producto vitivinícolas y sus derivados $14,629.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-w).- Porteadora por aplicación $1,800.00
+w).- Porteadora por aplicación $1,650.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-x).- Centros de consumo $6,750.00
+x).- Centros de consumo $6,188.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-y).- Boutique de cerveza artesanal de productores que tengan su principal establecimiento fuera del territorio del Estado $11,279.00
+y).- Boutique de cerveza artesanal de productores que tengan su principal establecimiento fuera del territorio del Estado $10,339.00
 
 > <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
 
 z).- Boutique de cerveza artesanal de productores que tengan su principal establecimiento dentro del territorio del Estado de Sonora. Exento
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-aa).- Sala de Degustación para la venta exclusiva de cerveza artesanal de productores que tengan su principal establecimiento fuera del territorio del Estado $11,279.00
+aa).- Sala de Degustación para la venta exclusiva de cerveza artesanal de productores que tengan su principal establecimiento fuera del territorio del Estado $10,339.00
 
 (REPUBLICADO, B.O. 28 DE DICIEMBRE DE 2023)
 
 bb).- Sala de Degustación para la venta exclusiva de cerveza artesanal de productores que tengan su principal establecimiento dentro del territorio del Estado de Sonora. Exento.
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-cc).- Boutique de vino de productores que tengan su principal establecimiento fuera del territorio del Estado $11,279.00
+cc).- Boutique de vino de productores que tengan su principal establecimiento fuera del territorio del Estado $10,339.00
 
 (REPUBLICADO, B.O. 28 DE DICIEMBRE DE 2023)
 
 dd).- Boutique de vino regional hecho en Sonora por productores que tengan su principal establecimiento dentro del territorio del Estado de Sonora. Exento.
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-ee).- Sala de degustación para la venta exclusiva de vino de productores que tengan su principal establecimiento fuera del territorio del Estado $11,279.00
+ee).- Sala de degustación para la venta exclusiva de vino de productores que tengan su principal establecimiento fuera del territorio del Estado $10,339.00
 
 (REPUBLICADO, B.O. 28 DE DICIEMBRE DE 2023)
 
@@ -4161,145 +4229,145 @@ Después de cumplido el plazo de 1 año sin haber regularizado el trámite de la
 
 VIII.- Por él canje de licencias, en el año fiscal que corresponda:
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-a).- Fábrica $99,702.00
+a).- Fábrica $91,394.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-b).- Agencia distribuidora $99,702.00
+b).- Agencia distribuidora $91,394.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-c).- Expendio $90,007.00
+c).- Expendio $82,507.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-d).- Cantina $45,512.00
+d).- Cantina $41,720.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-e).- Restaurante $11,984.00
+e).- Restaurante $10,986.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-f).- Restaurante con bar anexo o Cine VIP $18,563.00
+f).- Restaurante con bar anexo o Cine VIP $17,016.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-g).- Tienda de autoservicio $57,214.00
+g).- Tienda de autoservicio $52,446.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-h).-Tienda departamental $100,920.00
+h).-Tienda departamental $92,510.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-i).- Tienda de abarrotes $11,984.00
+i).- Tienda de abarrotes $10,986.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-j).- Centro nocturno $115,435.00
+j).- Centro nocturno $105,816.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-k).- Centro de evento o salón de baile $39,396.00
+k).- Centro de evento o salón de baile $36,113.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-l).- Centro deportivo o recreativo $22,949.00
+l).- Centro deportivo o recreativo $21,036.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-m).- Hotel o motel $22,949.00
+m).- Hotel o motel $21,036.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-n).- Porteadora $9,244.00
+n).- Porteadora $8,473.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-ñ).- Fabrica y comercialización de producto Regional típico $7,598.00
+ñ).- Fabrica y comercialización de producto Regional típico $6,965.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-o).- Billar o boliche $33,913.00
+o).- Billar o boliche $31,087.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-p).- Centro nocturno con espectáculos de baile semidesnudos de hombres y/o mujeres, mayores de edad. $134,507.00
+p).- Centro nocturno con espectáculos de baile semidesnudos de hombres y/o mujeres, mayores de edad. $123,298.00
 
 q).- (DEROGADO, B.O. 28 DE DICIEMBRE DE 2023)
 
-> <small>(REFORMADO [N. DE E. CON SU TABLA], B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO [N. DE E. CON SU TABLA], B.O. 12 DE DICIEMBRE DE 2025)</small>
 
 r).- Fábrica de Cerveza Artesanal que se elabore por fabricantes sonorenses que tengan su principal establecimiento en el territorio del Estado de Sonora, de acuerdo a la siguiente tabla:
 
 Volumen Anual en Hectolitros Canje
 
-Hasta 2,000 $19,180.00
+Hasta 2,000 $17,581.00
 
-2,001 - 4,000 $28,766.00
+2,001 - 4,000 $26,369.00
 
-4,001 - 6,000 $38,357.00
+4,001 - 6,000 $35,160.00
 
-6,001 - 10,000 $47,945.00
+6,001 - 10,000 $43,949.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-s).- Restaurante Rural $1,919.00
+s).- Restaurante Rural $1,759.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-t).- Hoteles o Moteles Rurales $3,836.00
+t).- Hoteles o Moteles Rurales $3,517.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-u).- Fábricas de producto (sic) vitivinícolas y sus derivados $15,959.00
+u).- Fábricas de producto (sic) vitivinícolas y sus derivados $14,629.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-v).- Auto Servicio de Productos Típicos Regionales $4,788.00
+v).- Auto Servicio de Productos Típicos Regionales $4,389.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-w).- Porteadora de Producto Regional Típico y de Cerveza Artesanal de Fabricación $4,788.00
+w).- Porteadora de Producto Regional Típico y de Cerveza Artesanal de Fabricación $4,389.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-x).- Porteadora por aplicación $1,800.00
+x).- Porteadora por aplicación $1,650.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-y).- Centros de consumo $6,750.00
+y).- Centros de consumo $6,188.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-z).- Boutique de cerveza artesanal de productores que tengan su principal establecimiento fuera del territorio del Estado $11,977.00
+z).- Boutique de cerveza artesanal de productores que tengan su principal establecimiento fuera del territorio del Estado $10,979.00
 
 > <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
 
 aa).- Boutique de cerveza artesanal de productores que tengan su principal establecimiento dentro del territorio del Estado de Sonora. Exento
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-bb).- Sala de Degustación para la venta exclusiva de cerveza artesanal de productores que tengan su principal establecimiento fuera del territorio del Estado $11,977.00
+bb).- Sala de Degustación para la venta exclusiva de cerveza artesanal de productores que tengan su principal establecimiento fuera del territorio del Estado $10,979.00
 
 (REPUBLICADO, B.O. 28 DE DICIEMBRE DE 2023)
 
 cc).- Sala de Degustación para la venta exclusiva de cerveza artesanal de productores que tengan su principal establecimiento dentro del territorio del Estado de Sonora Exento.
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-dd).- Boutique de vino de productores que tengan su principal establecimiento fuera del territorio del Estado $11,977.00
+dd).- Boutique de vino de productores que tengan su principal establecimiento fuera del territorio del Estado $10,979.00
 
 (REPUBLICADO, B.O. 28 DE DICIEMBRE DE 2023)
 
 ee).- Boutique de vino regional hecho en Sonora por productores que tengan su principal establecimiento dentro del territorio del Estado de Sonora. Exento.
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-ff).- Sala de degustación para la venta exclusiva de vino de productores que tengan su principal establecimiento fuera del territorio del Estado $11,977.00
+ff).- Sala de degustación para la venta exclusiva de vino de productores que tengan su principal establecimiento fuera del territorio del Estado $10,979.00
 
 (REPUBLICADO, B.O. 28 DE DICIEMBRE DE 2023)
 
@@ -4871,13 +4939,13 @@ Las placas tipo único para todos los vehículos, se clasifican en los siguiente
 
 1.- Transporte privado, que deberán ostentar los vehículos de propulsión mecánica para uso particular:
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-a).- Por expedición, la cual se realizará al momento de tramitar el alta del vehículo en el padrón vehicular estatal, debiendo recibir las placas correspondiente. $1,487.00
+a).- Por expedición, la cual se realizará al momento de tramitar el alta del vehículo en el padrón vehicular estatal, debiendo recibir las placas correspondientes $1,614.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-b).- Por revalidación anual de placas. $981.00
+b).- Por revalidación anual de placas $1,065.00
 
 Por la revalidación extemporánea se pagará un adicional sobre el gravamen anual, el incremento por pago extemporáneo no causará impuestos adicionales, quedando de la siguiente manera:
 
@@ -4889,9 +4957,9 @@ Por la revalidación extemporánea se pagará un adicional sobre el gravamen anu
 
 4.- Más de nueve meses de su vencimiento, el 100% del gravamen anual.
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-c).- Por baja. $171.00
+c).- Por baja $186.00
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 27 DE DICIEMBRE DE 2024)</small>
 
@@ -4901,13 +4969,13 @@ Por los servicios a que se refieren los incisos a), b) y c) anteriores, tratánd
 
 2.- De servicio público local, que deberán ostentar los vehículos de propulsión mecánica que se utilicen para prestar servicios de transporte de personas o cosas dentro del Estado:
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-a).- Por expedición: $1,487.00
+a).- Por expedición: $1,614.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-b).- Por revalidación anual $684.00
+b).- Por revalidación anual $742.00
 
 Por la revalidación extemporánea se pagará un adicional sobre el gravamen anual, el incremento por pago extemporáneo no causará impuestos adicionales, quedando de la siguiente manera:
 
@@ -4919,9 +4987,9 @@ Por la revalidación extemporánea se pagará un adicional sobre el gravamen anu
 
 4.- Más de nueve meses de su vencimiento, el 100% del gravamen anual.
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-c).- Por baja $171.00
+c).- Por baja $186.00
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 28 DE DICIEMBRE DE 2023)</small>
 
@@ -4939,41 +5007,41 @@ El pago de la tarjeta de circulación no causará contribuciones adicionales ni 
 
 a).- Por inscripción en el Registro. Gratuito
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-b).- Por la verificación y validación del Número de Identificación Vehicular, se cobrará $266.00
+b).- Por la verificación y validación del Número de Identificación Vehicular, se cobrará $289.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-c).- Por la verificación y validación de factura, se cobrará $266.00
+c).- Por la verificación y validación de factura, se cobrará $289.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-d).- Por validar la documentación aduanera que acredite la legal importación, estancia o tenencia, transporte o manejo en el país de los vehículos importados en definitiva. $920.00
+d).- Por validar la documentación aduanera que acredite la legal importación, estancia o tenencia, transporte o manejo en el país de los vehículos importados en definitiva $955.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-e).- Por expedición de constancia de inscripción en el Registro Vehicular a solicitud del propietario o bien, de su representante legal, se cobrará $164.00
+e).- Por expedición de constancia de inscripción en el Registro Vehicular a solicitud del propietario o bien, de su representante legal, se cobrará $192.00
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-6.- Por expedición de permisos para circular sin placas o sin tarjeta de circulación y calcomanía, hasta por treinta días. $ 475.00
+6.- Por expedición de permisos para circular sin placas o sin tarjeta de circulación y calcomanía, hasta por treinta días $515.00
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 Tratándose de permisos para circular sin placas por el traslado de vehículos en el Estado, hasta por diez días, se aplicará el equivalente al 35% de la tarifa a que se refiere este apartado.
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-7.- Por reposición de tarjeta de circulación. $ 475.00
+7.- Por reposición de tarjeta de circulación $515.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-8.- Por el traslado de vehículos mediante la utilización de grúas a los lugares previamente designados que efectúen las autoridades en el ejercicio de sus facultades. $ 623.00
+8.- Por el traslado de vehículos mediante la utilización de grúas a los lugares previamente designados que efectúen las autoridades en el ejercicio de sus facultades $676.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-9.- Por el almacenaje de vehículos derivado de las remisiones señaladas en el punto 8 que antecede, así como por el almacenaje de otra clase de bienes, diariamente. $21.00
+9.- Por el almacenaje de vehículos derivado de las remisiones señaladas en el punto 8 que antecede, así como por el almacenaje de otra clase de bienes, diariamente $23.00
 
 > <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
@@ -5077,19 +5145,25 @@ La expedición o renovación de licencias para conducir, así como los permisos 
 
 a).- De automovilista de acuerdo a su vigencia, como sigue:
 
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-Por un año. $230.00
+Por un año $410.00
 
-Por dos años. $380.00
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-Por tres años. $517.00
+Por dos años $701.00
 
-Por cuatro años. $650.00
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+Por tres años $952.00
 
-Por cinco años. $1,000.00
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+Por cuatro años $1,195.00
+
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+Por cinco años $1,773.00
 
 (DEROGADO SÉPTIMO PÁRRAFO DEL INCISO A), B.O. 14 DE DICIEMBRE DE 2015)
 
@@ -5097,15 +5171,21 @@ Por cinco años. $1,000.00
 
 b).- De chofer de acuerdo a su vigencia, como sigue:
 
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-Por un año: $398.00
+Por un año $707.00
 
-Por dos años. $456.00
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-Por tres años. $620.00
+Por dos años $840.00
 
-Por cuatro años. $780.00
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+Por tres años $1,141.00
+
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+Por cuatro años $1,433.00
 
 (DEROGADO SEXTO PÁRRAFO DEL INCISO B), B.O. 14 DE DICIEMBRE DE 2015)
 
@@ -5113,21 +5193,29 @@ Por cuatro años. $780.00
 
 c).- De operador de servicio público de transporte de acuerdo a su vigencia, como sigue:
 
-Por dos años. $456.00
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-Por tres años. $620.00
+Por dos años $840.00
+
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+Por tres años $1,141.00
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 d).- De motociclista como sigue:
 
-> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-Por 1 año: $200.00
+Por un año $333.00
 
-Por dos años. $380.00
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-Por tres años. $517.00
+Por dos años $701.00
+
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+Por tres años $952.00
 
 > <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
 
@@ -5137,11 +5225,9 @@ Permanente $1,090.00
 
 (DEROGADO ANTERIOR SEGUNDO PÁRRAFO DEL INCISO D), B.O. 31 DE DICIEMBRE DE 2012)
 
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-2.- Licencia de Chofer provisional por 6 meses para no residentes que por motivos de trabajo estén temporalmente en el Estado, circunstancia que debe ser acreditada documentalmente ante la autoridad para su expedición:
-
-$904.00
+2.- Licencia de chofer provisional por 6 meses para no residentes que por motivos de trabajo estén temporalmente en el Estado, circunstancia que debe ser acreditada documentalmente ante la autoridad para su expedición: $1,603.00
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
@@ -5159,9 +5245,13 @@ d).- Por conducir vehículos de propulsión automotriz en los casos previstos en
 
 (DEROGADO SEGUNDO PÁRRAFO DEL INCISO D), B.O. 31 DE DICIEMBRE DE 2012)
 
-Por 1 año $1,000.00
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-Por dos años $1,500.00
+Por un año $1,838.00
+
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+Por dos años $2,753.00
 
 > <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
@@ -5195,13 +5285,13 @@ Para contar con el beneficio mencionado en el párrafo anterior el titular de la
 
 Los derechos por expedición de placas de motocicletas y motonetas, revalidación anual, permisos provisionales para transitar sin placas, reposición de tarjetas de circulación y baja de placas, se cobrarán con sujeción a las siguientes cuotas:
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-1.- Por expedición $ 714.00
+1.- Por expedición $775.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-2.- Por revalidación anual. $ 355.00
+2.- Por revalidación anual. $385.00
 
 > <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
@@ -5215,21 +5305,23 @@ c).- Más de seis meses y hasta nueve meses de su vencimiento, el 75% del gravam
 
 d).- Más de nueve meses de su vencimiento, el 100% del gravamen anual.
 
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
 3.- Permisos para la circulación de
 
 motocicletas y motonetas sin placas
 
-hasta diez días. $ 70.00
+hasta diez días $172.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-4.- Por baja. $ 171.00
+4.- Por baja $186.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-5.-Reposición de tarjeta de circulación para
+5.- Reposición de tarjeta de circulación
 
-motocicletas y motonetas. $ 146.00
+para motocicletas y motonetas $158.00
 
 > <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2024, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 28 DE DICIEMBRE DE 2023.]</small>
 
@@ -5303,6 +5395,10 @@ I.- De jurisdicción estatal o municipal:
 
 a).- Pasaje. $3,4110.00
 
+> <small>(ADICIONADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+1.- Sistemas de Micromovilidad $8,673.00
+
 b).- Carga. $1,861.00
 
 II.- De jurisdicción municipal;
@@ -5352,6 +5448,10 @@ tercera edad $1,181.00
 > <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 8.- Automóvil de alquiler colectivo $1,181.00
+
+> <small>(ADICIONADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+9.- Sistemas de Micromovilidad $1,893.00
 
 b).- Carga. $500.00
 
@@ -5470,6 +5570,24 @@ d).- Hasta con 10 unidades $10,000.00
 > <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
 7 BIS 2.- Por la autorización de las unidades que operan en el servicio de transporte especial anualmente por unidad. $3,143.00
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+7 TER.- Por el análisis jurídico, técnico y administrativo que sirve como base a la autoridad para la emisión del certificado de registro para las empresas que brindan la prestación del servicio de transporte de pasaje mercantil.
+
+Para las empresas que brindan el servicio de transporte de pasaje mercantil:
+
+a).- Hasta con 10 unidades $2,000.00
+
+b).- Hasta con 15 unidades $3,000.00
+
+c).- Hasta con 20 unidades $4,000.00
+
+d).- Con más de 20 unidades $5,000.00
+
+> <small>(ADICIONADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+7 TER 1.- Por la autorización anual para la operación de las unidades destinadas al servicio de transporte de pasaje mercantil, se causará un derecho por la cantidad de $314.00, por cada unidad.
 
 8.- (DEROGADO, B.O. 28 DE DICIEMBRE DE 2023)
 
@@ -5863,9 +5981,11 @@ Para el caso del servicio previamente solicitado de Escritorio Notarial, por cad
 
 Para hacer uso del escritorio notarial se establece una fianza por la cantidad de $90,000.00 y esta se contará, aplicará y ejecutará en los términos que para tal efecto tenga a bien emitir mediante lineamiento el Instituto Catastral y Registral para el Estado de Sonora.
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-9.- Se causará un derecho adicional equivalente al 50% sobre la cantidad fijada, siempre y cuando el peticionario del servicio lo solicite, con el fin de que el servicio registral requerido le sea entregado dentro de las 24 horas hábiles siguientes a la solicitud.
+9.- Se causará un derecho adicional equivalente al 50% sobre la cantidad fijada, siempre y cuando el peticionario del servicio lo solicite y no exista impedimento alguno por parte de la autoridad, con el fin de que el servicio registral requerido esté disponible para su entrega dentro de las 24 horas hábiles siguientes a la solicitud.
+
+Para efectos de este numeral, se entenderá que el servicio ha sido cumplido en tiempo, cuando la autoridad ponga a disposición del solicitante el trámite requerido dentro del plazo señalado, con independencia de la fecha en que éste acuda a recogerlo.
 
 > <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
@@ -5919,21 +6039,19 @@ VII.- Por el alta o actualización de datos en el servicio de alerta inmobiliari
 
 Las tarifas de este Capítulo cuando comprendan dos o más cuotas y ya sean especificadas o proporcionales, se aplicarán progresivamente y acumulativamente.
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2024, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 28 DE DICIEMBRE DE 2023.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 323.
 
-Se exceptúan de los derechos por registro de documentos públicos o privados en que se reconozca, adquiera, transmita, modifique, grave o extinga la propiedad originaria de bienes inmuebles y cualquier derecho real sobre los mismos, a que se refiere el punto 1 del Artículo 321 de este ordenamiento, al Estado, Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, a los Municipios, Organismos Descentralizados Municipales y a las instituciones de asistencia privada autorizadas por la Junta de Asistencia Privada de la Secretaría de Salud, cuando intervengan como parte activa en los actos jurídicos en ellos contenidos.
+Se exceptúan de los derechos por registro de documentos públicos o privados en que se reconozca, adquiera, transmita, modifique, grave o extinga la propiedad originaria de bienes inmuebles y cualquier derecho real sobre los mismos, a que se refiere la fracción I del artículo 321 de este ordenamiento, al Estado, Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, a los Municipios, Organismos Descentralizados Municipales y a las instituciones de asistencia privada autorizadas por la Junta de Asistencia Privada de la Secretaría de Salud, cuando intervengan como parte activa en los actos jurídicos en ellos contenidos.
 
 > <small>(REFORMADO, B.O. 10 DE NOVIEMBRE DE 2011)</small>
 
 Para efectos de este artículo se entenderá por "Estado" a los Poderes Ejecutivo, Legislativo y Judicial del Estado de Sonora, con excepción de los organismos descentralizados y empresas de participación estatal, así como cualquier ente de la Administración Pública Federal.
 
-> <small>(ADICIONADO, B.O. 10 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-Asimismo, se exceptúan de los derechos por registro de documentos públicos o privados en que se reconozca, adquiera, transmita, modifique, grave o extinga la propiedad originaria de bienes inmuebles y cualquier derecho real sobre los mismos, a que se refiere el punto 1 del artículo 321 de este ordenamiento, siempre y cuando dichos bienes sean donde se ubique el edificio del Ayuntamiento Municipal o sean destinados a la prestación de algún servicio público.
+Asimismo, se exceptúan de los derechos por registro de documentos públicos o privados en que se reconozca, adquiera, transmita, modifique, grave o extinga la propiedad originaria de bienes inmuebles y cualquier derecho real sobre los mismos, a que se refiere la fracción I del artículo 321 de este ordenamiento, siempre y cuando dichos bienes sean donde se ubique el edificio del Ayuntamiento Municipal o sean destinados a la prestación de algún servicio público.
 
 > <small>(DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -6305,15 +6423,13 @@ La información digitalizada que se produzca por el sistema estatal inmobiliario
 
 El Estado procederá a cobrar los derechos enunciados en esta fracción, siempre que exista convenio expreso con el municipio respectivo.
 
-> <small>(REFORMADA PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-II.- Servicios en materia de desarrollo urbano y ecología.
+II.- Servicios prestados en materia de Ecología y Desarrollo Sustentable.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-1.- Evaluación y Posible Autorización para el ingreso de residuos sólidos urbanos y/o de manejo especial al territorio estatal, respecto a esta autorización, se deberá informar en su caso de la salida de la entidad de tales residuos o de su lugar de confinamiento.
-
-Costo: por ingreso al estado $20,000.00
+1.- Ingreso, evaluación y resolución para el ingreso de residuos sólidos urbanos y/o de manejo especial al territorio estatal, respecto a esta autorización, se deberá informar en su caso de la salida de la entidad de tales residuos o de su lugar de confinamiento. Costo: por ingreso al estado $20,760.00
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 27 DE DICIEMBRE DE 2024)</small>
 
@@ -6361,15 +6477,15 @@ transporte concesionado por el Estado. N$3,000.00
 
 de estudio de impacto ambiental:
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-a) Ingreso, Evaluación y Posible Autorización en Materia de Riesgo Ambiental $12,665.00
+a).- Ingreso, evaluación y resolución en materia de riesgo ambiental $14,338.00
 
 b).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-c) Ingreso, Evaluación y Posible Autorización en Materia de Impacto Ambiental. $12,327.00
+c).- Ingreso, evaluación y resolución en materia de impacto ambiental $13,956.00
 
 d).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
@@ -6379,9 +6495,9 @@ e).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
 13.- Por los servicios de evaluación e información y dictamen para:
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-a).- Ingreso, evaluación y posible autorización en materia de control y contaminación de la atmosfera (licencia de funcionamiento) $11,058.
+a).- Ingreso, evaluación y resolución en materia de control y contaminación de la atmósfera (licencia de funcionamiento) $12,519.00
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
@@ -6395,9 +6511,9 @@ c).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
 a).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-b).- Prestadores de servicios ambientales. $4,789.000
+b).- Ingreso, evaluación y resolución de solicitudes de registro de prestadores de servicios ambientales, así como por las solicitudes de prórroga correspondientes $8, 788.00
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -6425,93 +6541,81 @@ fuera del límite del centro de población $3,500.00
 
 18.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2012)
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-19.- Resolución de permisos para la exploración, explotación y aprovechamiento de minerales y sustancias no reservadas a la Federación, $0.53 por cada metro cúbico extraído, tratándose de arenas, graves, tezontle, tepetate y de materiales como mármol, cantera, granito, ónix $50.00 por cada metro cúbico extraído.
+19.- Ingreso, evaluación y resolución de permisos para la exploración, explotación y aprovechamiento de minerales y sustancias no reservadas a la Federación, tratándose de arenas, gravas, tezontle, tepetate y similares $1.00 por cada metro cúbico a extraer. En el caso de materiales como mármol, cantera, granito, ónix $57.00 por cada metro cúbico a extraer.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-20.- Autorización de permiso de combustión a cielo abierto. $816.00
+20.- Ingreso, evaluación y resolución de permiso de combustión a cielo abierto $1,502.00
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-21.- Ingreso, Evaluación y Posible Resolución de autorización para la utilización de residuos de manejo especial en procesos productivos. $3,635.00
+21.- Ingreso, evaluación y resolución de permiso para la utilización de residuos de manejo especial en procesos productivos $4,116.00
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-22.- Ingreso, Evaluación y Posible Resolución de autorización para el acopio y almacenamiento de residuos de manejo especial proveniente de terceros. $$ (SIC) 3,635.00
+22.- Ingreso, evaluación y resolución de permiso para el acopio y almacenamiento de residuos de manejo especial proveniente de terceros $4,116.00
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-22 Bis.- Ingreso Evaluación y Posible Autorización para la realización de cualquiera de las actividades relacionadas con el manejo integral de los residuos de manejo especial $3,635.00
+22 Bis.- Ingreso, evaluación y resolución de permiso para la realización de cualquiera de las actividades relacionadas con el manejo integral de los residuos de manejo especial $4, 116.00
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-23.- Ingreso, Evaluación y Posible Resolución de autorización para la incineración de residuos de manejo especial. $6,411.00
+23.- Ingreso, evaluación y resolución de permiso para la incineración de residuos de manejo especial $7,258.00
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-24.- Ingreso, Evaluación y Posible Resolución de autorización para el establecimiento de confinamientos para residuos de manejo especial dentro de las instalaciones en la que estos se generen. $4,057.00
+24.- Ingreso, evaluación y resolución de permiso para el establecimiento de confinamientos para residuos de manejo especial dentro de las instalaciones en la que estos se generen $4,593.00
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-25.- Ingreso, Evaluación y Posible Resolución de autorización para el establecimiento de sitios de disposición final de residuos de manejo especial. $15,743.00
+25.- Ingreso, evaluación y resolución de permiso para el establecimiento de sitios de disposición final de residuos de manejo especial $17,823.00
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-26.- Ingreso, Evaluación y Posible Resolución de autorización para el manejo de residuos peligrosos por micro generadores. $6,905.00
+26.- Ingreso, evaluación y resolución de permiso para el manejo de residuos peligrosos por micro generadores $7,817.00
 
-> <small>(REFORMADO [N. DE E. CON SUS INCISOS], B.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-27.- Recepción, evaluación y posible resolución de la autorización para la prestación de servicios para el manejo de residuos de manejo especial. $$ (SIC) 1991.00
+27.- Ingreso, evaluación y resolución de permiso para la prestación del servicio de recolección y transporte de residuos de manejo especial, el cual se podrá otorgar con las siguientes vigencias y cuotas:
 
-Adicional al pago de derechos del permiso de prestación de servicio de transporte de residuos de manejo especial, se generará un pago de derechos por vehículo, conforme a las siguientes cuotas:
+a).- 1 año: $2,255.00
 
-a).- 1 año: $1,991.00
+b).- 2 años: $4,508.00
 
-b).- 2 años: $3,982.00
+c).- 3 años: $6,763.00
 
-c).- 3 años: $5,973.00
+d).- 4 años: $9,016.00
 
-d).- 4 años: $7,964.00
+e).- 5 años: $11,271.00
 
-e).- 5 años: $9,955.00
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+27 Bis.- Adicional al pago por permiso previsto en el numeral 27, se cobrará por cada vehículo que preste el servicio de recolección y transporte de residuos de manejo especial, la siguiente cuota: $227.00
 
-27 Bis.- Por vehículo que se registre para prestar el servicio de manejo de residuos de manejo especial, así como los vehículos utilizados para el transporte de residuos de manejo especial, obtenidos a través de la Licencia Ambiental Integral. $219.00
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
-
-28.- Ingreso, Evaluación y Posible Resolución de autorización para el co-procesamiento y tratamiento de residuos de manejo especial. $3,635.00
+28.- Ingreso, evaluación y resolución de permiso para el co-procesamiento y tratamiento de residuos de manejo especial $4,116.00
 
 > <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
 29.- Ingreso, Evaluación y Resolución de la cesión de derechos y obligaciones de las autorizaciones expedidas por la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora; siendo el 25% del pago total de las autorizaciones que se pretendan transferir.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-30.- Evaluación, Inscripción y Posible Emisión de Registro como Empresa Generadora de Residuos de Manejo Especial, conforme a las siguientes cuotas:
+30.- Ingreso, evaluación, inscripción y emisión de Registro como Empresa Generadora de Residuos de Manejo Especial, conforme a las siguientes cuotas:
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+a).- 1 año: $1,841.00
 
-a).- 1 año: $1,626.00
+b).- 2 años: $3,682.00
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+c).- 3 años: $5,523.00
 
-b).- 2 años: $3,252.00
+d).- 4 años: $7,364.00
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
-
-c).- 3 años: $4,878.00
-
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
-
-d).- 4 años: $6,504.00
-
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
-
-e).- 5 años: $8,130.00
+e).- 5 años: $9,204.00
 
 > <small>(REFORMADO [N. DE E. CON SUS INCISOS], B.O. 30 DE DICIEMBRE DE 2022)</small>
 
@@ -6527,25 +6631,83 @@ d).- 4 años: $6,556.00
 
 e).- 5 años: $8,195.00
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-32.- Recepción, Evaluación, y Posible modificación de Licencia Ambiental Integral. $8,000.00.
+32.- Ingreso, evaluación y resolución para la modificación de Licencia Ambiental Integral. $9,058.00
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-33.- Expedición de modificación o actualización de los Registros como Prestador de Servicios de Transporte de Residuos de Manejo Especial. $1,000.00
+33.- Modificación del permiso para la prestación del servicio de recolección y transporte de residuos de manejo especial. $1,132.00
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-34.- Con el permiso vigente de Prestador de Servicios para el Transporte de Residuos de Manejo Especial, o para el transporte de residuos de manejo especial se deberá hacer un pago de $219.00 pesos por vehículo adicional.
+34.- Adicionalmente al numeral anterior, en caso de incorporar uno o más vehículos adicionales para la prestación del servicio de recolección y transporte de residuos de manejo especial, el pago será de $227.00 por vehículo
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-35.- Expedición de modificación o actualización de los Registros de Generador de Residuos de Manejo Especial. $1,000.00.
+35.- Ingreso, evaluación y resolución para la modificación o actualización de los Registros de Generador de Residuos de Manejo Especial $1,132.00
+
+> <small>(ADICIONADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+36.- Curso de capacitación en gestión ambiental a empresas. Costo: $20,000.00 por curso impartido.
+
+> <small>(ADICIONADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+37.- Curso de capacitación a prestadores de servicios ambientales. $5,000.00 por persona.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+38.- Expedición y revalidación de licencias para la crianza y comercialización de perros, gatos y otros animales de compañía:
+
+a) Pequeño (1 a 10 jaulas, peceras y/o contenedores) $7,862.00
+
+b) Mediana (11 a 20 jaulas, peceras y /o contenedores) $15,723.00
+
+c) Grande (21 o más jaulas, peceras y/o contenedores) $26,205.00
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+
+> <small>(ADICIONADA, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+II Bis.- Servicios prestados por la Dirección General del Bosque Urbano La Sauceda:
+
+1.- Servicio de Go Karts por turno: Costo: $30.00
+
+2.- Servicio de Mini golf por turno: Costo: $30.00
+
+3.- Servicio de Caja de bateo, conforme al número de fichas adquiridas:
+
+a) 1 ficha $25.00
+
+b) 3 fichas $60.00
+
+c) 5 fichas $90.00
+
+d) 10 fichas $170.00
+
+4.- Comercio Foro Exterior: Espacios al aire libre diseñados para la instalación de comercios temporales durante eventos o actividades regulares. Costo mensual por espacio: $5,000.00
+
+5.- Comercio Foro Interior: Locales ubicados dentro del área cubierta del foro, adecuados para actividades comerciales permanentes o especializadas. Costo mensual por espacio: $7,000.00
+
+6.- Área Food Truck: Zonas asignadas para unidades móviles de venta de alimentos (food trucks), con acceso a servicios básicos y ubicación preferencial durante eventos o fines de semana. Costo mensual por espacio: $4,000.00
+
+7.- Kiosko - Comercio: estructuras fijas de tamaño reducido para venta de alimentos, bebidas o artículos promocionales, ideales para microempresas o emprendedores. Costo mensual por kiosko: $3,000.00
+
+8.- Corredor Espacios Comercio: área comercial lineal donde se habilitan múltiples espacios de venta para productos diversos. Costo mensual por espacio: $5,000.00
+
+9.- Por el uso y disfrute de las instalaciones de "La Burbuja Museo del Niño". Tratándose de:
+
+a) Niños menores de tres años: Gratuito
+
+b) Niños de tres a doce años: $60.00
+
+c) Adolescentes y adultos: $60.00
+
+Los pagos por los servicios señalados en los numerales del 1 al 9 de esta fracción, no causarán el Impuesto para el Sostenimiento de las Universidades de Sonora, las Contribuciones para el Consejo Estatal de Concertación para la Obra Pública ni la Contribución a la Infraestructura Educativa, establecidos en la presente Ley.
+
+Asimismo, a las tarifas contempladas en los numerales del 1 al 9 de esta fracción, no se les aplicará el factor de actualización a que se refiere el artículo 299 de esta Ley.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -7015,13 +7177,15 @@ c) De vigilancia interna. Gratuita.
 
 De los ingresos que se perciban por los derechos a que se refiere esta fracción, el veinte por ciento será destinado exclusivamente para el fortalecimiento de los programas a cargo de la Secretaría de Seguridad Pública y demás erogaciones necesarias para la adecuada y eficaz prestación del servicio.
 
-> <small>(ADICIONADA, B.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-VI.- Servicios prestados por la Secretaría de la Contraloría General.
+VI.- Servicios prestados por la Secretaría Anticorrupción y Buen Gobierno
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-1.- Por el servicio de vigilancia, inspección y control que las leyes de la materia encomiendan a la Secretaría de la Contraloría General, los proveedores y contratistas con quienes se celebren contratos de adquisiciones y servicios derivados de licitaciones públicas, de obra pública y de servicios relacionados con dichas materias, pagarán un derecho equivalente al 2 al millar sobre el importe de cada una de las estimaciones o adquisiciones derivadas de los contratos.
+1.- Por el servicio de vigilancia, inspección y control que las leyes de la materia encomiendan a la Secretaría Anticorrupción y Buen Gobierno, los proveedores y contratistas con quienes se celebren contratos de adquisiciones y servicios derivados de licitaciones públicas, de obra pública y de servicios relacionados con dichas materias, se causará un derecho equivalente al 2 al millar sobre el importe de cada una de las estimaciones o adquisiciones derivadas de los contratos.
+
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
 La Secretaría de Hacienda y las entidades paraestatales de la administración pública estatal, al hacer el pago de las estimaciones de obra o adquisiciones, retendrán el importe del derecho a que se refiere el párrafo anterior,
 
@@ -7053,9 +7217,13 @@ d).- Servicios Relacionados con Obra Pública
 
 1.- Monto presupuesto total autorizado de $806.00.00 (SIC) en adelante. $1,500.00
 
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+
 Los pagos por los derechos señalados en el presente numeral no causarán el Impuesto para el Sostenimiento de las Universidades de Sonora, las Contribuciones para el Consejo Estatal de Concertación para la Obra Pública, ni la Contribución a la Infraestructura Educativa, establecidos en la presente Ley.
 
-Los recursos que se obtengan por las bases de licitación señaladas en el presente numeral que realicen las dependencias y entidades de la Administración Pública Estatal se destinarán a la Secretaría de la Contraloría General para que realice las actividades de vigilancia respectivas.
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+Los recursos que se obtengan por las bases de licitación señaladas en el presente numeral que realicen las dependencias y entidades de la Administración Pública Estatal, podrán ser destinados por la Secretaría de Hacienda del Estado a la Secretaría Anticorrupción y Buen Gobierno para su operación y funcionamiento, o bien, a la atención de gastos prioritarios que determine la Secretaría de Hacienda.
 
 > <small>(REFORMADA [N. DE E. CON SUS NUMERALES E INCISOS], B.O. 24 DE DICIEMBRE DE 2018)</small>
 
@@ -7757,19 +7925,31 @@ Los pagos por los servicios señalados en la presente fracción no causarán el 
 
 Los recursos que se obtengan por parte del Estado por los servicios señalados en la presente fracción serán destinados a este Organismo Público Descentralizado para la operación del mismo.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS NUMERALES], B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-XVI.- Otros servicios en materia de Desarrollo Urbano y Ecología, derivados del Delfinario Sonora:
+XVI.- Otros servicios prestados en materia de Ecología y Desarrollo Sustentable, derivados del Delfinario Sonora
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
 1.- Servicio de encuentro con delfines en las instalaciones del Delfinario Sonora $1,000.00
 
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
 2.- Servicio de nado con delfines en las instalaciones del Delfinario Sonora $1,500.00
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
 3.- Servicio de terapias asistidas con delfines en las instalaciones del Delfinario Sonora, para residentes del Estado de Sonora $14,000.00
 
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
 4.- Servicio de terapias asistidas con delfines en las instalaciones del Delfinario Sonora, para personas que residan fuera del Estado de Sonora $16,000.00
 
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
 5.- Servicio de campamento de verano en las instalaciones del Delfinario Sonora $1,500.00
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], B.O. 27 DE DICIEMBRE DE 2024)</small>
 
 6.- Servicio de fotografía digital en las instalaciones del Delfinario Sonora:
 
@@ -7785,11 +7965,25 @@ e) 20 piezas fotográficas con lobo marino y/o delfín $1,500.00
 
 f) paquete ilimitado de piezas fotográficas con lobo marino y/o delfín $2,500.00
 
-7.- Derecho para el uso y disfrute de las instalaciones del delfinario Sonora de menores de edad $100.00
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], B.O. 12 DE DICIEMBRE DE 2025)</small>
 
-8.- Derecho para el uso y disfrute de las instalaciones del delfinario Sonora de mayores de edad $200.00
+7.- Servicio por el uso y disfrute de las instalaciones del Delfinario Sonora. Tratándose de:
+
+a) Niños menores de tres años: Gratuito
+
+b) Niños de tres a doce años: $100.00
+
+c) Adolescentes y adultos: $200.00
+
+8.- (DEROGADO, B.O. 12 DE DICIEMBRE DE 2025)
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
 Los pagos por los servicios señalados en los numerales 1, 2, 3, 4, 5, 6, 7 y 8 de esta fracción, no causarán el Impuesto para el Sostenimiento de las Universidades de Sonora, las Contribuciones para el Consejo Estatal de Concertación para la Obra Pública ni la Contribución a la Infraestructura Educativa, establecidos en la presente Ley.
+
+> <small>(ADICIONADO, B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+Asimismo, a las tarifas contempladas en los numerales del 1 al 8 de esta fracción, no se les aplicará el factor de actualización a que se refiere el artículo 299 de esta Ley.
 
 > <small>(ADICIONADA [N. DE E. CON SUS NUMERALES E INCISOS], B.O. 27 DE DICIEMBRE DE 2019)</small>
 
@@ -7811,21 +8005,7 @@ XVII.- Servicios prestados por la Procuraduría Ambiental del Estado de Sonora:
 
 8.- (DEROGADO, B.O. 30 DE DICIEMBRE DE 2022)
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 24 DE DICIEMBRE DE 2020)</small>
-
-9.- Expedición y revalidación de licencias para la crianza y comercialización de perros, gatos y otros animales de compañía:
-
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
-
-a) Pequeño (1 a 10 jaulas, peceras y/o contenedores) ...... $6,000.00
-
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
-
-b) Mediana (11 a 20 jaulas, peceras y/o contenedores) ...... $12,000.00
-
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
-
-c) Grande (21 o más jaulas, peceras y/o contenedores) ...... $20,000.00
+9.- (DEROGADO, B.O. 12 DE DICIEMBRE DE 2025)
 
 10.- Copia certificada de documentos que obran en los expedientes de la Procuraduría Ambiental del Estado de Sonora por hoja ..... $145.00
 
@@ -7890,6 +8070,26 @@ c).- $108.00 por copia simple de hasta 20 fojas útiles.
 > <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN XVIII]</small>
 
 Los recursos que se obtengan por parte del Estado por los servicios señalados en la presente fracción, serán destinados a este órgano público autónomo, para la operación del mismo.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], B.O. 12 DE DICIEMBRE DE 2025)</small>
+
+XIX.- Servicios prestados por la Dirección General de Operación de la Red Estatal de Telecomunicaciones de la Agencia de Transformación Digital y Telecomunicaciones del Estado de Sonora:
+
+a).- Por servicio de Telefonía
+
+Rango de costos: Desde $150.00 hasta $1,500.00
+
+b).- Por servicio de Radiocomunicación
+
+Rango de costos: Desde $300.00 hasta $8,000.00
+
+c).- Por servicio de Conectividad
+
+Rango de costos: Desde $400.00 hasta $5,000.00
+
+d).- Por renta de Infraestructura activa/pasiva
+
+Rango de costos: Desde $2,000.00 hasta $11,000.00
 
 ## TITULO QUINTO. De los Productos y de los Aprovechamientos
 
@@ -8868,3 +9068,47 @@ B.O. 4 DE DICIEMBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 74, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 01 de enero de 2026, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+B.O. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 76, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL, DE LA LEY DE HACIENDA DEL ESTADO, DE LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE SONORA, DE LA LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTOS DE LOS ESTABLECIMIENTOS DESTINADOS A LA OPERACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA Y DE LA LEY DE TRÁNSITO DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 01 de enero de 2026, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+A las contrataciones de servicios profesionales efectuadas durante los ejercicios fiscales 2024 y 2025, a que se refiere el artículo 25 de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora, les será aplicable el mismo tratamiento establecido en ese numeral.
+
+###### ARTÍCULO CUARTO.
+
+Para los efectos del artículo 22 del Código Fiscal, el uso de la firma electrónica avanzada estatal, entrará en vigor a partir de la fecha en que la autoridad competente declare en operación la infraestructura tecnológica necesaria para su aplicación.
+
+###### ARTÍCULO QUINTO.
+
+Lo dispuesto por el numeral 9 de la fracción V del artículo 321 de la Ley de Hacienda del Estado, también se aplicará a todos los trámites iniciados con anterioridad a la entrada en vigor de la presente reforma, únicamente para efectos de regularización y precisión del cumplimiento del servicio registral, sin que ello implique perjuicio para los derechos ya adquiridos por los usuarios.
+
+###### ARTÍCULO SEXTO.
+
+Para efectos de lo previsto en el numeral 10 de la fracción II Bis del artículo 326 de la Ley de Hacienda del Estado, las disposiciones contenidas en dicho numeral entrarán en vigor en la fecha en que inicie formalmente operaciones el espacio denominado "La Burbuja Museo del Niño".
+
+###### ARTÍCULO SÉPTIMO.
+
+Para efectos de lo previsto en la fracción XXXI del artículo 3 de la Ley de Control Vehicular para el Estado de Sonora, la tarjeta de circulación digital entrará en vigor a partir de la fecha en que la Secretaría de Hacienda del Estado declare en operación la infraestructura necesaria para su implementación. La Secretaría de Hacienda emitirá mediante Acuerdo publicado en el Boletín Oficial del Gobierno del Estado de Sonora, la declaratoria de inicio de vigencia, una vez que se cuente con la disponibilidad técnica y operativa de dicha infraestructura.
