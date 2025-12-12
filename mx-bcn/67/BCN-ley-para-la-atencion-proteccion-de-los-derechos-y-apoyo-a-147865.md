@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-atencion-proteccion-de-los-derechos-y-apoyo-a-14786
 country: "mx"
 rank: "ley"
 publication_date: "2021-02-19"
-last_updated: "2021-02-19"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=147865&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA ATENCIÓN, PROTECCIÓN DE LOS DERECHOS Y APOYO A LAS PERSONAS MIGRANTES DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número 12 del Periódico Oficial del Estado de Baja California, el viernes 19 de febrero de 2021.
 
@@ -55,9 +55,13 @@ La aplicación de la presente Ley corresponde al Ejecutivo del Estado, por condu
 
 Son fines de la presente Ley:
 
-I. Establecer los principios que garanticen, a través de las políticas públicas que diseñe e implemente la administración pública estatal y municipal, el marco de respeto, la protección y salvaguarda de los derechos humanos de las personas migrantes y sus familias, con especial atención a los grupos vulnerables como lo son niñas, niños y adolescentes, discapacitados, mujeres, indígenas y personas adultas mayores, así como las víctimas del delito, sin detrimento de las disposiciones previstas en la Ley de Víctimas para el Estado;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-II. Determinar las atribuciones que las autoridades estatales y municipales tienen en materia de atención a migrantes y a sus familias;
+I. Establecer los principios que garanticen, a través de las políticas públicas que diseñe e implemente la administración pública estatal y municipal, el marco de respeto, la protección y salvaguarda de los derechos humanos de las personas migrantes y sus familias, con especial atención a los grupos vulnerables como lo son niñas, niños y adolescentes, personas con discapacidad, mujeres, indígenas y personas adultas mayores, así como las víctimas del delito, sin detrimento de las disposiciones previstas en la Ley de Víctimas para el Estado;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+II. Determinar las atribuciones que las autoridades estatales y municipales tienen en materia de atención a personas migrantes y a sus familias;
 
 III. Establecer la coordinación interinstitucional entre las autoridades estatales y municipales a fin de implementar las políticas públicas en las materias de migración e interculturalidad, y
 
@@ -93,9 +97,11 @@ Las autoridades y servidores públicos del Estado y Municipios, en el ámbito de
 
 ### CAPÍTULO SEGUNDO. DE LA COADYUVANCIA EN LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS MIGRANTES
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 7.
 
-Las dependencias y entidades estatales y municipales coadyuvarán con la Autoridad Migratoria, de conformidad con la normatividad que las rige, en la protección y defensa de los derechos de los migrantes con independencia de su situación migratoria.
+Las dependencias y entidades estatales y municipales coadyuvarán con la Autoridad Migratoria, de conformidad con la normatividad que las rige, en la protección y defensa de los derechos de las personas migrantes con independencia de su situación migratoria.
 
 ###### ARTÍCULO 8.
 
@@ -103,17 +109,23 @@ El Poder Ejecutivo del Estado y los Ayuntamientos podrán celebrar convenios de 
 
 I. Instalación y funcionamiento de los grupos de atención y protección a las personas migrantes. Para el cumplimiento de lo anterior, el Poder Ejecutivo del Estado, en coordinación con las autoridades municipales, migratorias, organismos internacionales, la comunidad y las organizaciones civiles constituirá un Consejo Estatal de Asuntos Migratorios.
 
-II. Brindar atención adecuada a las personas migrantes que, por diferentes factores o la combinación de ellos, enfrentan situaciones de vulnerabilidad como son las niñas, niños y adolescentes migrantes no acompañados, las mujeres, las víctimas de delitos, las personas con discapacidad y los adultos mayores.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+II. Brindar atención adecuada a las personas migrantes que, por diferentes factores o la combinación de ellos, enfrentan situaciones de vulnerabilidad como son las niñas, niños y adolescentes migrantes no acompañados, las mujeres, las víctimas de delitos, las personas con discapacidad y las personas adultas mayores.
 
 III. Atención a las personas migrantes que son víctimas del delito, así como la prevención, persecución y su combate.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 9.
 
-Las instituciones públicas y privadas deberán proveer los servicios a su cargo a los migrantes, siempre en el marco del respeto de sus derechos e independientemente de su situación migratoria, conforme a las disposiciones legales aplicables.
+Las instituciones públicas y privadas deberán proveer los servicios a su cargo a las personas migrantes, siempre en el marco del respeto de sus derechos e independientemente de su situación migratoria, conforme a las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 10.
 
-Las dependencias y entidades del Poder Ejecutivo del Estado y de los Ayuntamientos actuaran en auxilio y coordinación de las Autoridades Migratorias, en el ámbito de sus competencias.
+Las dependencias y entidades del Poder Ejecutivo del Estado y de los Ayuntamientos actuarán en auxilio y coordinación de las Autoridades Migratorias, en el ámbito de sus competencias.
 
 ###### ARTÍCULO 11.
 
@@ -127,9 +139,11 @@ La ejecución de dichas partidas, fondos y recursos destinados a la atención de
 
 ### CAPÍTULO TERCERO. DE LA PARTICIPACIÓN SOCIAL EN LOS PROGRAMAS DE ATENCIÓN A LAS PERSONAS MIGRANTES
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 13.
 
-La comunidad y las organizaciones civiles no gubernamentales o de la sociedad civil legalmente constituida, se podrán organizar y participar, con base en el apoyo y solidaridad social y coadyuvar a la prestación de servicios asistenciales para los migrantes.
+La comunidad y las organizaciones civiles no gubernamentales o de la sociedad civil legalmente constituida, se podrán organizar y participar, con base en el apoyo y solidaridad social y coadyuvar a la prestación de servicios asistenciales para las personas migrantes.
 
 ###### ARTÍCULO 14.
 
@@ -139,17 +153,23 @@ Dicha participación podrá materializarse adicionalmente a través de las sigui
 
 I. Promoción de hábitos de conducta y de valores que contribuyan a la protección de los grupos vulnerables y a su superación;
 
-II. Incorporación, como auxiliares voluntarios, en la realización de tareas básicas de asistencia social, de atención y de apoyo a migrantes;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+II. Incorporación, como auxiliares voluntarios, en la realización de tareas básicas de asistencia social, de atención y de apoyo a personas migrantes;
 
 III. Prestación de servicios de hospedaje, albergue temporal, atención social, asesoría legal, alimentación, apoyo humanitario, o cualquier otro servicio de apoyo social a las personas migrantes;
 
-IV. Notificación de la existencia de personas migrantes que requieran de atención, apoyo y protección cuando éstos se encuentren impedidos de solicitar auxilio por sí mismos, y
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+IV. Notificación de la existencia de personas migrantes que requieran de atención, apoyo y protección cuando éstas se encuentren impedidas de solicitar auxilio por sí mismas; y,
 
 V. Otras actividades que coadyuven en la atención de las personas migrantes.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 15.
 
-El Poder Ejecutivo y los Gobiernos Municipales deberán promover políticas y mecanismos en beneficio de los particulares que otorguen apoyos a instituciones u organizaciones civiles no gubernamentales o de la sociedad civil, cuyo objeto sea el otorgamiento de apoyos gratuitos a las personas migrantes, mediante el establecimiento y otorgamiento de incentivos y facilidades administrativas, en los términos de las disposiciones legales aplicables. Dichos incentivos y facilidades podrán también beneficiar a aquellas empresas u organizaciones sociales que de manera directa otorguen apoyos gratuitos a los migrantes.
+El Poder Ejecutivo y los Gobiernos Municipales deberán promover políticas y mecanismos en beneficio de los particulares que otorguen apoyos a instituciones u organizaciones civiles no gubernamentales o de la sociedad civil, cuyo objeto sea el otorgamiento de apoyos gratuitos a las personas migrantes, mediante el establecimiento y otorgamiento de incentivos y facilidades administrativas, en los términos de las disposiciones legales aplicables. Dichos incentivos y facilidades podrán también beneficiar a aquellas empresas u organizaciones sociales que de manera directa otorguen apoyos gratuitos a las personas migrantes.
 
 ### CAPÍTULO CUARTO. DE LOS DERECHOS Y LAS OBLIGACIONES DE LAS PERSONAS MIGRANTES
 
@@ -209,9 +229,11 @@ b) Tener la oportunidad de acceder, en términos de la normatividad aplicable, a
 
 VIII. De información, dentro del que se encuentra, recibir información sobre sus derechos y las instituciones que prestan servicios a las personas migrantes en el ámbito de sus respectivas competencias.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 17.
 
-A todo migrante le serán respetados sus derechos humanos sin distinción de sexo, preferencia sexual, origen étnico, raza, color, credo religioso, edad, idioma, ideología política, posición social o económica o cualquier otra condición que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+A toda persona migrante le serán respetados sus derechos humanos sin distinción de sexo, orientación sexual, origen étnico, raza, color, credo religioso, edad, idioma, ideología política, posición social o económica o cualquier otra condición que atente contra la dignidad humana y tenga por objeto anular o menoscabar sus derechos y libertades.
 
 ###### ARTÍCULO 18.
 
@@ -219,9 +241,11 @@ Las personas migrantes podrán acceder a los servicios educativos, de identidad 
 
 En la prestación de servicios educativos y médicos, ningún acto administrativo establecerá restricciones al extranjero, mayores a las establecidas de manera general para los mexicanos.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 19.
 
-Los jueces u oficiales del Registro Civil del Estado de Baja California no podrán negar a las personas migrantes, independientemente de su situación migratoria, la autorización de los actos del estado civil ni la expedición de las actas relativas a nacimiento, reconocimiento de hijos, matrimonio, divorcio y muerte conforme a las disposiciones jurídicas y administrativas aplicables.
+Las y los jueces u oficiales del Registro Civil del Estado de Baja California no podrán negar a las personas migrantes, independientemente de su situación migratoria, la autorización de los actos del estado civil ni la expedición de las actas relativas a nacimiento, reconocimiento de hijas e hijos, matrimonio, divorcio y muerte conforme a las disposiciones jurídicas y administrativas aplicables.
 
 ###### ARTÍCULO 20.
 
@@ -303,9 +327,11 @@ V. Las demás que dispongan otros ordenamientos.
 
 ### CAPÍTULO SEXTO. DEL CONSEJO ESTATAL DE ASUNTOS MIGRATORIOS
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 29.
 
-El Consejo Estatal de Asuntos Migratorios de Baja California, es un órgano consultivo y de asesoría en materia de atención al migrante, de interés público y beneficio social, que estará presidido por el Gobernador del Estado y a su vez éste designará a un Presidente Ejecutivo cuyo cargo recaerá en el Secretario General de Gobierno, quien coordinará las acciones y los trabajos permanentes que realice el Consejo.
+El Consejo Estatal de Asuntos Migratorios de Baja California, es un órgano consultivo y de asesoría en materia de atención a personas migrantes, de interés público y beneficio social, que estará presidido por la persona Titular del Poder Ejecutivo del Estado y a su vez éste designará a una Presidencia Ejecutiva cuyo cargo recaerá en la Secretaría General de Gobierno, que coordinará las acciones y los trabajos permanentes que realice el Consejo.
 
 ###### ARTÍCULO 30.
 
@@ -331,11 +357,15 @@ IX. Promover la inclusión de las personas migrantes en programas de oportunidad
 
 X. Las demás que establezcan las leyes y reglamentos para el cumplimiento de su objetivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 12 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 31.
 
 El Consejo llevará a cabo las siguientes acciones:
 
-I. Fungir como órgano de consulta y asesoría en materia de atención al migrante;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+I. Fungir como órgano de consulta y asesoría en materia de atención a personas migrantes;
 
 II. Impulsar acciones para la atención de la población migrante;
 
@@ -363,7 +393,9 @@ XIII. Reconocer el mérito y altruismo de las personas, físicas o morales, que 
 
 XIV. Promover políticas públicas para la atención integral de las personas migrantes, de conformidad a las leyes en materia de Tratados Internacionales;
 
-XV. Convocar a todo funcionario Federal, Estatal o Municipal o Institución Privada, que, en función de su competencia, colabore en el mejoramiento a la protección de la población migrante, y
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+XV. Convocar a toda persona funcionaria Federal, Estatal o Municipal o Institución Privada, que, en función de su competencia, colabore en el mejoramiento a la protección de la población migrante; y,
 
 XVI. Las demás que sean necesarias para el cumplimiento de los fines del Consejo.
 
@@ -373,7 +405,9 @@ XVI. Las demás que sean necesarias para el cumplimiento de los fines del Consej
 
 A la Subsecretaría, corresponde la atención de los siguientes asuntos:
 
-I. Ejecutar las acciones, políticas y programas estatales en materia de atención a migrantes;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+I. Ejecutar las acciones, políticas y programas estatales en materia de atención a personas migrantes;
 
 II. Aplicar los derechos y obligaciones de las personas migrantes en el Estado, evitando circunstancias de impacto en lo relativo a seguridad pública, salud y demás aspectos sociales en los que incide esta problemática;
 
@@ -383,9 +417,13 @@ IV. Fortalecer la relación del Gobierno del Estado con el Gobierno Federal y lo
 
 V. Diseñar e implementar, conjuntamente con la Comisión Estatal de los Derechos Humanos, los esquemas necesarios que garanticen el acceso inmediato de las personas migrantes a los servicios y programas de atención operados por dicha Comisión, particularmente en los municipios;
 
-VI. Proponer, promover y participar en programas y campañas de atención a migrantes;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-VII. Divulgar, por los medios de comunicación masiva a su alcance, información relativa a las acciones, políticas y programas de atención a migrantes;
+VI. Proponer, promover y participar en programas y campañas de atención a personas migrantes;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+VII. Divulgar, por los medios de comunicación masiva a su alcance, información relativa a las acciones, políticas y programas de atención a personas migrantes;
 
 VIII. Promover y operar el intercambio de información con dependencias e instituciones nacionales e internacionales en materia de migración;
 
@@ -393,7 +431,9 @@ IX. Efectuar consultas y encuestas relacionadas con el fenómeno de la migració
 
 X. Promover y fomentar, en coordinación con dependencias y entidades federales, estatales o municipales, acciones de orientación y educación a la población referente a la problemática que representa el fenómeno de la migración;
 
-XI. Reconocer el mérito y altruismo de las personas, físicas o morales, que participan en los programas de atención a migrantes, mediante la expedición de las constancias correspondientes;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+XI. Reconocer el mérito y altruismo de las personas, físicas o morales, que participan en los programas de atención a personas migrantes, mediante la expedición de las constancias correspondientes;
 
 XII. Promover el respeto y la protección de los derechos de las personas migrantes, en su calidad de seres humanos;
 
@@ -403,7 +443,9 @@ XIII. PROMOVER LA INSCRIPCIÓN VOLUNTARIA DE MIGRANTES EN EL REGISTRO ESTATAL DE
 
 XIV. Celebrar convenios de colaboración, concertación y protocolos de atención con las autoridades migratorias del país y la sociedad civil organizada;
 
-XV. Participar como Secretario Técnico del Consejo;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+XV. Participar en la Secretaría Técnica del Consejo;
 
 (NOTA: EL 7 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 68/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN XVI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE AGOSTO DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -413,11 +455,15 @@ XVII. Coadyuvar con las autoridades correspondientes en la atención de las pers
 
 XVIII. Promover la existencia de condiciones adecuadas para la inclusión social, educativa, de salud y laboral en su permanencia en el Estado de Baja California;
 
-XIX. Promover y establecer programas, proyectos y acciones con perspectiva de género y enfoque intercultural, orientados a combatir la vulnerabilidad de los migrantes y sus familiares;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+XIX. Promover y establecer programas, proyectos y acciones con perspectiva de género y enfoque intercultural, orientados a combatir la vulnerabilidad de las personas migrantes y sus familiares;
 
 XX. Promover, en coordinación con los ayuntamientos la creación de Direcciones municipales de Atención a las personas migrantes;
 
-XXI. Organizar, coordinar y dar seguimiento a los compromisos institucionales del Titular del Ejecutivo en materia de atención a las personas migrantes y
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+XXI. Organizar, coordinar y dar seguimiento a los compromisos institucionales de la persona Titular del Poder Ejecutivo en materia de atención a las personas migrantes y;
 
 XXII. Las demás que les confieren las disposiciones jurídicas aplicables en la materia.
 
@@ -483,9 +529,13 @@ IV. Garantizar que en ningún momento las niñas, niños y adolescentes migrante
 
 V. Otorgar cuidado alternativo o acogimiento residencial en Centros de Asistencia Social públicas, privadas o asociaciones, de niñas, niños o adolescentes canalizados por el Instituto de Migración al Sistema para el Desarrollo Integral de la familia de Baja California, por conducto de la Procuraduría de Protección.
 
-VI. Coadyuvar con el Consejo y la Subsecretaría, en el ámbito de su competencia, en la implementación de acciones que permitan brindar una atención adecuada a los migrantes que por diferentes factores o la combinación de ellos, enfrentan situaciones de mayor vulnerabilidad como son las niñas, niños y adolescentes migrantes;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-VII. En caso de que, la vida, seguridad y/o libertad de niñas, niños y adolescentes migrantes se encuentren en peligro a causa de persecución o amenazas a la misma, violencia generalizada o violaciones masivas a los derechos humanos entre otros, así como en el presunto sometimiento a tortura u otros tratos crueles, inhumanos o degradantes, el Sistema para el Desarrollo Integral de la Familia de Baja California, a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado, así lo asentara en el Plan de Restitución de Derechos adoptado, informando de manera inmediata al Instituto de Migración dicha condición para el otorgamiento del asilo político, al reconocimiento de la condición de refugiado o la necesidad de solicitar la protección internacional, y contactando a la representación consular correspondiente, y
+VI. Coadyuvar con el Consejo y la Subsecretaría, en el ámbito de su competencia, en la implementación de acciones que permitan brindar una atención adecuada a las personas migrantes que por diferentes factores o la combinación de ellos, enfrentan situaciones de mayor vulnerabilidad como son las niñas, niños y adolescentes migrantes;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+VII. En caso de que, la vida, seguridad y/o libertad de niñas, niños y adolescentes migrantes se encuentren en peligro a causa de persecución o amenazas a la misma, violencia generalizada o violaciones masivas a los derechos humanos entre otros, así como en el presunto sometimiento a tortura u otros tratos crueles, inhumanos o degradantes, el Sistema para el Desarrollo Integral de la Familia de Baja California, a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado, así lo asentara en el Plan de Restitución de Derechos adoptado, informando de manera inmediata al Instituto de Migración dicha condición para el otorgamiento del asilo político, al reconocimiento de la condición de persona refugiada o la necesidad de solicitar la protección internacional, y contactando a la representación consular correspondiente; y,
 
 VIII. Las demás que señale esta ley, su reglamento y demás disposiciones jurídicas aplicables.
 
@@ -538,3 +588,11 @@ GOBERNADOR DEL ESTADO
 AMADOR RODRÍGUEZ LOZANO
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 171 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA LEY PARA LA ATENCIÓN, PROTECCIÓN DE LOS DERECHOS Y APOYO A LAS PERSONAS MIGRANTES DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
