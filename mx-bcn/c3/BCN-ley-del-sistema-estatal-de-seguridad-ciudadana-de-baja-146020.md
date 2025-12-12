@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-sistema-estatal-de-seguridad-ciudadana-de-baja-146020"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2025-11-28"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección XI del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2020.
 
@@ -639,13 +639,13 @@ La Agencia Estatal de Investigación es la Unidad Administrativa conducida por e
 
 ### CAPÍTULO VII. DE LA EVALUACIÓN Y CONTROL DE CONFIANZA
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 26.
 
-Las evaluaciones en los procesos de selección de aspirantes, ingreso, permanencia, desarrollo, evaluación, certificación y promoción de los miembros de la Agencia Estatal de Investigación, Agentes del Ministerio Público, Peritos y Elementos de Apoyo, estará a cargo del Centro de Evaluación y Control de Confianza el cual se organizará y funcionará de conformidad con la Ley Orgánica de la Fiscalía General del Estado y el Reglamento que al efecto se expida.
+Las evaluaciones en los procesos de selección de aspirantes, ingreso, permanencia, desarrollo, evaluación, certificación y promoción de los miembros de las Instituciones Policiales, Elementos de Apoyo y personal operativo de los Prestadores de Servicios de Seguridad Privada, estará a cargo del Centro de Evaluación y Control de Confianza de la Secretaría, el cual se organizará y funcionará de conformidad con esta Ley, y el Reglamento que para tal efecto se expida.
 
-Tratándose de los procesos de selección de aspirantes, ingreso, permanencia, desarrollo, evaluación, certificación y promoción de los miembros de las Instituciones Policiales, Elementos de Apoyo y personal operativo de los Prestadores de Servicios de Seguridad Privada a cargo de la Secretaría, las evaluaciones de estos se llevarán a cabo por la Unidad Administrativa que esta dependencia determine, lo anterior sin perjuicio de que se celebren con la Fiscalía General del Estado convenios de colaboración para tales fines.
+Los procesos de selección de aspirantes, ingreso, permanencia, desarrollo, evaluación, certificación y promoción de los miembros de la Agencia Estatal de Investigación, Agentes del Ministerio Público, Peritos y Elementos de Apoyo, se llevarán a cabo por la Unidad Administrativa que la Fiscalía General del Estado determine, lo anterior sin perjuicio de que se celebren con la Secretaría convenios de colaboración para tales fines.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -1563,7 +1563,9 @@ Previa a la autorización de servicios de seguridad privada, la Secretaría requ
 
 Los sujetos a que se refiere como prestador de servicios de seguridad privada en esta Ley, deberán capacitar permanentemente a su personal operativo bajo los lineamientos y programas que se establezcan en las leyes y disposiciones legales aplicables, a efecto de que éstos cuenten con los conocimientos necesarios para el eficaz desempeño de su función.
 
-Los sujetos a que se refiere el párrafo anterior, deberán someter a su personal operativo a procedimientos de evaluación y control de confianza ante el Centro de Control de Confianza, previo pago de los derechos que correspondan conforme a la Ley de Ingresos respectiva por los servicios que preste dicho centro.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+Los sujetos a que se refiere el párrafo anterior, deberán someter a su personal operativo a procedimientos de evaluación y control de confianza ante el Centro de Evaluación y Control de Confianza, previo pago de los derechos que correspondan conforme a la Ley de Ingresos respectiva por los servicios que preste dicho centro.
 
 La periodicidad para los procedimientos de evaluación y control de confianza, a que refiere el párrafo anterior, se determinará en el reglamento correspondiente.
 
@@ -3600,3 +3602,27 @@ P.O. 28 DE NOVIEMBRE DE 2025.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Dentro de un plazo de 90 días naturales, contados a partir de la entrada en vigor de la presente reforma, se deberán realizar las adecuaciones reglamentarias correspondientes.
+
+P.O. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 178 MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS, ASÍ COMO DEROGACIÓN DEL ARTÍCULO 35 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO, Y DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA”.]
+
+Primero.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+Segundo.- Dentro de un plazo de 90 días naturales contados a partir de la entrada en vigor de las presentes reformas, se deberán realizar las modificaciones reglamentarias correspondientes.
+
+Hasta en tanto se lleven a cabo las adecuaciones reglamentarias a que se refiere el presente artículo transitorio, el Centro de Evaluación y Control de Confianza del Estado de Baja California, funcionará conforme a las disposiciones reglamentarias vigentes, en lo que no se contraponga en el presente Decreto.
+
+Tercero.- La Oficialía Mayor de Gobierno y la Secretaría de Hacienda del Estado, en un plazo no mayor a 90 días naturales, deberán:
+
+a) Determinar la adscripción del personal del Centro de Evaluación y Control de Confianza del Estado de Baja California, para que atendiendo a las funciones previamente realizadas se transfieran a la Secretaría de Seguridad Ciudadana del Estado de Baja California.
+
+b) Realizar las acciones administrativas necesarias para la transferencia de la partida presupuestal, mobiliario, vehículos, equipos, tecnología, instrumentos, aparatos, maquinaria, archivos, información e instalaciones del Centro de Evaluación y Control de Confianza del Estado de Baja California a la Secretaría de Seguridad Ciudadana del Estado de Baja California, respetando las funciones que previamente se desarrollaban.
+
+Cuarto.- La transferencia de personal que se realice con motivo de las presentes reformas, será acorde a la naturaleza y forma en que presten sus servicios, respetando en todo momento sus derechos laborales. El personal de base cuya relación se encuentre tutelada por lo dispuesto en la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California, quedará a disposición de la Oficialía Mayor, respetando sus derechos adquiridos y demás prestaciones las cuales no se afectarán por el presente Decreto.
+
+Quinto.- Los contratos cuya naturaleza no sea laboral o burocrática, convenios, instrumentos jurídicos o programas que sustenten el ejercicio de recursos públicos de orden local o federal y demás compromisos suscritos por la Fiscalía General en relación con el Centro de Evaluación y Control de Confianza del Estado de Baja California, que a la fecha de publicación de las presentes reformas se encuentren vigentes, continuarán surtiendo sus efectos a cargo de la Secretaría de Seguridad Ciudadana del Estado de Baja California, hasta en tanto no sustituyan los derechos sobre los bienes o la materia de los mismos, o se den por terminados por cualquier medio.
+
+Sexto.- Los procesos de selección de aspirantes, ingreso, permanencia, desarrollo, evaluación, certificación y promoción de los Miembros de las Instituciones Policiales, que a la fecha de entrada en vigor de las presentes reformas se encuentren en curso o estén pendientes de conclusión seguirán su sustanciación, hasta su conclusión por el Centro de Evaluación y Control de Confianza a cargo de la Secretaría de Seguridad Ciudadana.
+
+Los procesos a que se refiere el párrafo anterior, relativos a los Miembros de la Agencia Estatal de Investigación, Ministerios Públicos, peritos y demás personas servidoras públicas de la Fiscalía General del Estado a quienes les resulte aplicable, serán sustanciados hasta su conclusión por la Unidad Administrativa que determine la Fiscalía General del Estado, sin perjuicio de que se puedan celebrar convenios de colaboración con la Secretaría para la sustanciación y conclusión de estos.
