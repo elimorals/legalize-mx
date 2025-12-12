@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-atencion-y-proteccion-a-migrantes-y-sus-familias-del-132
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-21"
-last_updated: "2019-12-16"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE ATENCIÓN Y PROTECCIÓN A MIGRANTES Y SUS FAMILIAS DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el viernes 21 de diciembre de 2018.
 
@@ -779,9 +779,17 @@ II. Un representante del Instituto quien fungirá como Secretaria o Secretario T
 
 III. Cinco personas de la sociedad civil conocedoras o con experiencia en la materia de migración; los cuales deberán representar a los diferentes sectores de la sociedad y serán nombrados conforme a la convocatoria que se expida para tal efecto;
 
-IV. Un representante del cabildo por cada Ayuntamiento del Estado de Nayarit, y
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-V. Un representante por cada federación de migrantes nayaritas en el extranjero siempre y cuando cuenten con el registro ante el Instituto.
+IV. Un representante del cabildo por cada Ayuntamiento del Estado de Nayarit;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+V. Un representante por cada federación de migrantes nayaritas en el extranjero siempre y cuando cuenten con el registro ante el Instituto, y
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+VI. Un representante del Poder Legislativo, designado de entre las personas integrantes de la Comisión Legislativa de Asuntos Migratorios.
 
 Al Consejo Consultivo de Migración concurrirán como invitadas permanentes personas representativas de clubes u organizaciones de migrantes nayaritas en el extranjero.
 
@@ -926,3 +934,15 @@ P.O. 16 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA EL ARTÍCULO 88 DE LA LEY DE ATENCIÓN Y PROTECCIÓN A MIGRANTES Y SUS FAMILIAS DEL ESTADO DE NAYARIT".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA EL ARTÍCULO 80 DE LA LEY DE ATENCIÓN Y PROTECCIÓN A MIGRANTES Y SUS FAMILIAS DEL ESTADO DE NAYARIT, EN MATERIA DE REPRESENTACIÓN DEL PODER LEGISLATIVO EN EL CONSEJO CONSULTIVO DE MIGRACIÓN".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. En un plazo no mayor a treinta días naturales, contados a partir de la entrada en vigor del presente, se deberán realizar las acciones necesarias para integrar al Consejo Consultivo de Migración a la persona representante del Poder Legislativo.
+
+TERCERO. En un plazo no mayor a sesenta días hábiles, contados a partir de la entrada en vigor de este instrumento, el Poder Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias necesarias para el cumplimiento del presente Decreto.
+
+CUARTO. Para su conocimiento y efectos conducentes, notifíquese el Decreto al Instituto de Atención y Protección a Migrantes y sus Familias del Estado de Nayarit, así como, a los integrantes del Consejo Consultivo de Migración.
