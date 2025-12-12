@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-688-de-personas-jovenes-del-estado-de-guerrero-17160
 country: "mx"
 rank: "ley"
 publication_date: "2024-02-20"
-last_updated: "2024-09-17"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=171607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 688 DE PERSONAS JÓVENES DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Alcance I a la Edición No. 15 del Periódico Oficial del Estado de Guerrero, el martes 20 de Febrero de 2024.
 
@@ -877,11 +877,53 @@ A la Red Juvenil le serán aplicables las disposiciones de la Ley de Transparenc
 
 Los integrantes de la Red Juvenil tienen derecho a proponer y presentar diagnósticos, programas y proyectos ante la Secretaria de la Juventud y la Niñez, relacionados con las temáticas juveniles, y en particular, a conocer de la elaboración del Plan Estatal de Desarrollo en los términos de la legislación del estado de Guerrero aplicable.
 
-## TÍTULO QUINTO. DEL DÍA ESTATAL DE LA JUVENTUD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-### CAPÍTULO I. DE LAS INSTITUCIONES CONVOCANTES Y LA CONVOCATORIA
+## TÍTULO QUINTO. DE LA RED DE PERSONAS MENTORAS Y EL DÍA ESTATAL DE LA JUVENTUD
 
-### CAPÍTULO I. DEL PODER EJECUTIVO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO I. DE LA RED DE PERSONAS MENTORAS PROFESIONALES DEL ESTADO DE GUERRERO
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 91 Bis.
+
+El objetivo de este capítulo es regular la creación, implementación y operación de la Red de Personas Mentoras Profesionales del Estado de Guerrero, con el fin de promover el desarrollo profesional, académico y social de los jóvenes mediante el acompañamiento y asesoramiento de profesionales de diversos sectores.
+
+Para los efectos de este capítulo, se entiende por Red de Personas Mentoras Profesionales el conjunto de programas, iniciativas y actividades diseñadas para vincular a personas jóvenes con profesionales experimentados en distintas áreas del conocimiento, con el propósito de facilitar su integración al mercado laboral, potenciar sus habilidades y orientar su desarrollo profesional.
+
+Podrán acceder a los programas de mentoría establecidos en este capítulo todas las personas jóvenes guerrerenses entre 18 y 29 años de edad, sin discriminación de ninguna índole, priorizando a aquellos en situación de vulnerabilidad social, económica o educativa.
+
+La mentoría será honorífica, por lo que las personas mentoras no recibirán remuneración alguna.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 91 Ter.
+
+Las funciones de la Red de Personas Mentoras Profesionales son:
+
+I. Establecer vínculos entre personas jóvenes y personas mentoras provenientes de diferentes sectores profesionales, incentivando el apoyo entre guerrerenses y personas con la intención de apoyar y colaborar, al generar canales de comunicación y puntos de encuentro que permita que se desarrollen dichos vínculos.
+
+II. Desarrollar programas de formación, talleres y asesorías personalizadas a través de personas mentoras.
+
+III. Ofrecer orientación sobre la elaboración de proyectos, currículums, entrevistas de trabajo y otros procesos relacionados con la inserción laboral.
+
+IV. Promover la creación de espacios de redes de trabajo donde las personas jóvenes puedan interactuar con profesionales y empleadores.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 91 Quater.
+
+La mentoría podrá llevarse a cabo en las siguientes modalidades:
+
+I. Mentoría presencial: encuentros cara a cara entre mentores y jóvenes en espacios institucionales o privados.
+
+II. Mentoría virtual: a través de plataformas digitales que permitan el contacto continuo y el seguimiento a distancia.
+
+III. Mentoría grupal: programas que incluyan a varias personas jóvenes bajo la orientación de un mentor o un grupo de mentores.
+
+### CAPÍTULO II. DE LAS INSTITUCIONES CONVOCANTES Y LA CONVOCATORIA
 
 ###### Artículo 92.
 
@@ -897,7 +939,7 @@ Se faculta a la Secretaría de la Juventud y la Niñez para solicitar de las dep
 
 ## TÍTULO SEXTO. DE LAS RESPONSABILIDADES DE LAS AUTORIDADES
 
-### CAPÍTULO II. DEL PODER LEGISLATIVO
+### CAPÍTULO I. DEL PODER EJECUTIVO
 
 ###### Artículo 95.
 
@@ -907,13 +949,13 @@ El Ejecutivo, en el ámbito de su competencia y de conformidad con sus recursos 
 
 El Ejecutivo a través de la Secretaria de la Juventud y la Niñez impulsará a los jóvenes para que tengan una plena participación en la vida económica, política, cultural, deportiva y social, así como para promover el respeto a sus derechos y cumplir con el objeto de esta Ley.
 
-### CAPÍTULO III. DEL PODER JUDICIAL
+### CAPÍTULO II. DEL PODER LEGISLATIVO
 
 ###### Artículo 97.
 
 El Poder Legislativo, en el ámbito de su competencia deberá revisar permanentemente, la legislación que se relacione o afecte el ámbito de los jóvenes con la finalidad de promover las iniciativas y reformas que correspondan, para garantizar el ejercicio de sus derechos; además deberá asegurar un adecuado presupuesto para el desarrollo de programas en su beneficio. Su vigilancia y observancia recaen en la Comisión de la Juventud y el Deporte
 
-### CAPÍTULO IV. DE LOS AYUNTAMIENTOS
+### CAPÍTULO III. DEL PODER JUDICIAL
 
 ###### Artículo 98.
 
@@ -933,7 +975,7 @@ III.- Capacitar y difundir entre los jueces, magistrados y órganos jurisdiccion
 
 IV. Las demás que prevea esta Ley, y demás ordenamientos jurídicos aplicables.
 
-### CAPÍTULO V. DE LOS CONSEJOS MUNICIPALES DE LA JUVENTUD
+### CAPÍTULO IV. DE LOS AYUNTAMIENTOS
 
 ###### Artículo 99.
 
@@ -947,7 +989,7 @@ Los Ayuntamientos participarán en la planeación y ejecución de la política p
 
 Los Ayuntamientos promoverán las acciones necesarias para dar cumplimiento a la presente Ley.
 
-### CAPÍTULO VI. DE LAS ATRIBUCIONES DE LA SECRETARÍA DE LA JUVENTUD Y LA NIÑEZ
+### CAPÍTULO V. DE LOS CONSEJOS MUNICIPALES DE LA JUVENTUD
 
 ###### Artículo 102.
 
@@ -979,7 +1021,7 @@ VIII. Llevar a cabo todas aquellas actividades que se requieran para el cumplimi
 
 IX. Promover espacios de opinión y consulta a la población juvenil en general de su municipio respecto de los programas municipales y presentar a las Unidades Administrativas en materia de juventud sus resultados.
 
-### CAPÍTULO VII. DEL CONSEJO ESTATAL DE LA JUVENTUD
+### CAPÍTULO VI. DE LAS ATRIBUCIONES DE LA SECRETARÍA DE LA JUVENTUD Y LA NIÑEZ
 
 ###### Artículo 105.
 
@@ -1015,15 +1057,19 @@ XIII. Entregar el Premio de la Juventud bajo las normas establecidas en esta ley
 
 XIV. Impulsar acciones que contribuyan a evitar y resolver la visión tutelar hacia las personas jóvenes;
 
-XV. Proponer al Gobierno del estado la inclusión de la perspectiva juvenil en la elaboración de los proyectos anuales de Presupuesto de Egresos;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+XV. Proponer al Gobierno del estado la inclusión de la perspectiva juvenil en la elaboración de los proyectos anuales de Presupuesto de Egresos, y
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+XVI. Integrar el Padrón de Voluntarios Profesionales que quieran participar en la Red de Mentores Profesionales del Estado, por lo que difundirá en el portal oficial de la Secretaría, los cursos, mentorías o talleres disponibles, estableciendo cuales se pueden llevar a cabo por medios digitales y en colaboración con los ayuntamientos, atendiendo a las capacidades presupuestales y de espacio de los mismos, ubicando lugares en los cuales se puedan impartir las mentorías.
 
 ###### Artículo 106.
 
 La Secretaría de la Juventud y la niñez deberá contar con los recursos humanos y materiales suficientes para garantizar el diseño, implementación y evaluación de las políticas públicas en el siguiente ejercicio fiscal después de la publicación de la presente Ley.
 
-### CAPÍTULO VIII. DE LAS SANCIONES APLICABLES A LOS SERVIDORES PÚBLICOS RESPONSABLES DE APLICAR LA PRESENTE LEY
-
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+### CAPÍTULO VII. DEL CONSEJO ESTATAL DE LA JUVENTUD
 
 ###### Artículo 107.
 
@@ -1227,6 +1273,10 @@ e) Generar foros de participación económica en los cuales las personas jóvene
 
 f) Las demás necesarias, dentro de su ámbito de competencia, para el cumplimiento del objeto de la presente Ley.
 
+### CAPÍTULO VIII. DE LAS SANCIONES APLICABLES A LOS SERVIDORES PÚBLICOS RESPONSABLES DE APLICAR LA PRESENTE LEY
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 114.
 
 Los servidores públicos del Estado de Guerrero serán responsables por todo acto u omisión que viole, infrinja, incumpla o contraríe las disposiciones de esta Ley, y la Ley No. 465 de Responsabilidades Administrativas para el Estado de Guerrero.
@@ -1296,3 +1346,27 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 SEGUNDO.- Remítase este Decreto a la Titular del Poder Ejecutivo para los efectos legales conducentes.
 
 TERCERO.- Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en el Portal Web del Congreso del Estado en los redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
+
+P.O. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 275 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 688 DE PERSONAS JÓVENES DEL ESTADO DE GUERRERO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero, para los efectos conducentes.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de la Juventud y la Niñez del Gobierno del Estado contará con 180 días naturales a partir de la entrada en vigor de este Decreto, para integrar al personal responsable de llevar a cabo el registro de personas mentoras, así como para aprobar el reglamento correspondiente, que incluya el funcionamiento de la Red de Personas Mentoras Profesionales, tomando en cuenta los requisitos que se requerirán para impartir sus mentorías y el procedimiento para llevarlas a cabo.
+
+###### ARTÍCULO CUARTO.
+
+El Instituto de Capacitación para el Trabajo del Estado de Guerrero contará con 180 días naturales a partir de la entrada en vigor de este Decreto, para invitar a personas capacitadoras especialistas a formar parte de la Red de Personas Mentoras Profesionales, con el propósito de proporcionar a la Secretaría de la Juventud y la Niñez del Gobierno del Estado de Guerrero, una lista de candidaturas a primeras personas mentoras.
+
+###### ARTÍCULO QUINTO.
+
+Publíquese para conocimiento general en la Gaceta Parlamentaria y en la página web de este Congreso del Estado de Guerrero.
