@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-a-los-animales-domesticos-del-estado-de-21669
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-08"
-last_updated: "2024-02-16"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21669&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY DE PROTECCION A LOS ANIMALES DOMESTICOS DEL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 8 de diciembre de 1997.
 
@@ -282,6 +284,94 @@ Igualmente queda prohibida la venta de toda clase de animales vivos o muertos, s
 Los expendios de animales vivos en las zonas urbanas estarán sujetos a los reglamentos que resulten aplicables, debiendo estar a cargo de un responsable que requerirá de una licencia específica de la autoridad sanitaria municipal.
 
 La exhibición y venta de animales será realizada en locales e instalaciones adecuadas para su correcto cuidado, mantenimiento y protección del sol y de la lluvia, y según las normas elementales de higiene y seguridad. En ningún caso dichas operaciones podrán efectuarse en la vía pública.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 30 BIS.- El espacio mínimo destinado a cada animal para su venta deberá determinarse conforme a su especie, peso, talla y altura para garantizar su protección y cuidado.
+
+En los procesos de venta deberá privilegiarse aquella que se realice mediante medios remotos o a través de herramientas tecnológicas que eviten el contacto físico directo entre el animal destinado a la venta y el público interesado en su adquisición, siempre y cuando se cumpla con la normatividad federal y local en materia de protección, cuidado, trato digno y respetuoso a los animales.
+
+Asimismo, cuando la exhibición de animales silvestres tenga como finalidad su venta como mascota o animal de compañía, también se privilegiará la que se pueda realizar a través de medios remotos o el uso de herramientas tecnológicas que eviten el contacto físico directo entre el ejemplar y el público interesado en su adquisición.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 30 TER.- Los establecimientos autorizados que se dediquen a la venta de animales están obligados a expedir un certificado de venta a la persona que lo adquiera, el cual deberá contener por lo menos:
+
+I. Animal o Especie de que se trate;
+
+II. Sexo y edad del animal;
+
+III. Nombre de la persona tutora responsable;
+
+IV. Domicilio de la persona tutora responsable;
+
+V. Procedencia;
+
+VI. Calendario de vacunación;
+
+VII. Certificado de libre displasia de cadera en los animales que por cuestiones y condiciones de origen puedan adquirirla; y,
+
+VIII. Las demás que establezca la normatividad aplicable.
+
+Los establecimientos están obligados a entregar a la persona compradora un manual de cuidado, albergue y dieta del animal adquirido, que incluya, además, los riesgos ambientales de su liberación al medio natural o urbano y a las faltas a las que están sujetos por el incumplimiento de las disposiciones de la presente Ley.
+
+Las crías de animales de compañía de vida silvestre, los animales de circo y los Centros de Conservación de Vida Silvestre públicos o privados no están sujetos al comercio abierto. Se deberá notificar a la autoridad correspondiente cuando sean enajenados, intercambiados, prestados o donados a terceras personas, o trasladados a otras instituciones.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 30 QUATER.- Los establecimientos dedicados a la reproducción, selección, crianza o venta de animales de compañía, deberán cumplir, sin perjuicio de las demás disposiciones que le sean aplicables, con lo siguiente:
+
+I. Cumplir con los requisitos y autorizaciones previstos en la legislación administrativa y mercantil para realizar dicha actividad. Sin perjuicio de lo anterior, deberán cumplir por lo menos, con los siguientes requisitos:
+
+a) Licencia de Funcionamiento para Establecimiento Mercantil expedida por el Ayuntamiento que corresponda.
+
+b) Domicilio legal, teléfono y correo electrónico del Establecimiento, datos que deberán estar actualizados de manera permanente.
+
+c) Nombre del representante legal del establecimiento.
+
+d) Croquis de localización y 5 fotografías que demuestren que las instalaciones son las adecuadas para el desarrollo de la actividad.
+
+e) Listado de especies que son comercializadas.
+
+II. Documentación que compruebe que se cuentan con la contratación de los servicios Médico Veterinarios para realizar las funciones pertinentes;
+
+III. Tener buenas condiciones sanitarias, adecuadas a las necesidades de los animales que alberguen;
+
+IV. Disponer de comida suficiente y adecuada, agua, lugares para dormir, personal capacitado para el cuidado de los animales, así como servicio médico veterinario en el lugar;
+
+V. Contar con instalaciones adecuadas para evitar el contagio en los casos de enfermedad, o para guardar, en su caso, periodos de cuarentena;
+
+VI. Vender los animales, registrados y esterilizados, a menos que la venta sea a otro criador registrado, desparasitados y libres de toda enfermedad, con los certificados correspondientes;
+
+VII. Contar con un médico veterinario con cédula profesional, encargado de velar por la salud, protección y cuidado de los animales de compañía;
+
+VIII. Proporcionar asesoría a la persona compradora sobre los cuidados mínimos necesarios para la protección y cuidado del animal de compañía y tenencia responsable, además de informar sobre las actitudes con base a sus caracteres;
+
+IX. Establecer en la compraventa de animales un plazo de garantía mínima de quince días por si hubiera lesiones ocultas o enfermedades en incubación;
+
+X. La compraventa de animales no podrá realizarse antes de los cuatro meses de nacidos;
+
+XI. En los establecimientos dedicados a la venta de animales prestar, sin costo alguno, por lo menos dos espacios físicos dentro de su establecimiento, así como en su publicación por medios remotos o mediante la utilización de herramientas tecnológicas, para la exhibición de animales en adopción, propiedad de alguna asociación protectora de animales legalmente constituida, a fin de fomentar la cultura de la adopción de animales de compañía abandonados.
+
+Las medidas anteriormente señaladas deberán prever las condiciones de espacio, seguridad, ventilación, iluminación, alimentación, así como las necesarias para la estancia de los animales en instalaciones de resguardo durante los periodos en los que no se encontrarán en exhibición para su comercialización.
+
+Lo previsto en el presente artículo aplicará aún en los casos en que la exhibición de los ejemplares se realice por medios remotos o a través de herramientas tecnológicas para evitar el contacto directo con el público interesado en su adquisición.
+
+XII. Las demás que establezca la normatividad vigente.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 30 QUINQUIES.- En la exhibición de animales deberá privilegiarse el uso de medios remotos o a través de herramientas tecnológicas que eviten el contacto físico directo entre el animal destinado a la venta y el público interesado en su adquisición.
+
+Durante su estancia en las instalaciones de resguardo en los periodos en los que no se encuentren en exhibición para su comercialización, los establecimientos mercantiles dedicados a la venta de animales deberán atender las necesidades básicas de bienestar de los animales, conforme a las características propias de cada especie y cumpliendo las disposiciones de las autoridades correspondientes, a las Normas Oficiales Mexicanas o, en su caso, a las normas ambientales.
+
+Aunado a lo anterior, deberán:
+
+I. Garantizar su protección y asegurarles un trato digno y respetuoso;
+
+II. Evitar el maltrato y la crueldad hacia dichas especies tanto por parte de los comerciantes, sus empleados o ayudantes, así como por parte quien los adquiere; y,
+
+III. Asegurar que los animales se mantengan resguardados, previo a su venta, en lugares que cuenten con áreas e infraestructura necesaria para su manejo, así como que quienes lleven a cabo la comercialización tengan capacidad técnica y operativa suficiente.
 
 ###### ARTICULO 31.
 
@@ -674,3 +764,11 @@ P.O. 16 DE FEBRERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO N.º 385 MEDIANTE EL CUAL, SE APRUEBA LAS (SIC) REFORMA A LOS ARTÍCULOS 2, 147, 250, 257 Y SE ADICIONA EL ARTÍCULO 84 BIS; TODOS DE LA LEY DE MOVILIDAD SUSTENTABLE Y TRANSPORTE DEL ESTADO DE BAJA CALIFORNIA; ASÍ MISMO SE REFORMAN LOS ARTÍCULOS 32, 33, 35, 36 Y SE DEROGAN LOS ARTÍCULOS 37, 38, 39 Y 40; TODOS DE LA LEY DE PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- Las presentes reformas entraran en vigor al día siguiente de su publicación (sic) Periódico Oficial del Estado de Baja California.
+
+P.O. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 174 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor a los 180 días siguientes al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Dentro de los 90 días siguientes a la entrada en vigor del presente Decreto, los gobiernos de los Ayuntamientos del Estado deberán realizar la actualización y armonización de los Reglamentos Municipales de la Ley de Protección a los Animales Domésticos del Estado de Baja California y demás disposiciones aplicables.
