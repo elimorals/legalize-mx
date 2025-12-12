@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-educacion-del-estado-de-mexico-171841"
 country: "mx"
 rank: "ley"
 publication_date: "2024-02-29"
-last_updated: "2025-07-14"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=171841&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección Segunda del Número 39 de la Gaceta del Gobierno del Estado de México, el jueves 29 de febrero de 2024.
 
@@ -164,6 +164,10 @@ V. Alentar la construcción de relaciones sociales, económicas y culturales con
 > <small>(ADICIONADA, G.G. 14 DE JULIO DE 2025)</small>
 
 VI. Fomentar la adopción de masculinidades corresponsables con la intención de generar mayor conciencia sobre la forma en que las personas se relacionan y comunican, así como el impacto que el sexismo, el machismo, la misoginia, los discursos de odio y la homofobia tienen en la generación y el ejercicio de la violencia, especialmente cuando se ejecuta en contra de niñas, niños, adolescentes y mujeres.
+
+> <small>(ADICIONADA, G.G. 12 DE DICIEMBRE DE 2025)</small>
+
+VII. Promover y fomentar la inclusión de la educación socioemocional para atender la salud mental y adicciones como eje transversal, orientada al desarrollo de habilidades para el bienestar socioemocional, estableciendo medidas prioritarias de prevención, detección temprana y atención de trastornos mentales, en coordinación con la Secretaría de Salud, a través del Instituto Mexiquense de Salud Mental y Adicciones.
 
 ###### Artículo 10.
 
@@ -1786,3 +1790,15 @@ G.G. 14 DE JULIO DE 2025.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 234 POR EL QUE SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 9 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
