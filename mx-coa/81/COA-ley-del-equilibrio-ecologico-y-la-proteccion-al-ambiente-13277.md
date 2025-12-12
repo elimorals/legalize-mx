@@ -4,7 +4,7 @@ identifier: "COA-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-13277"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-08"
-last_updated: "2024-01-30"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de diciembre de 1998.
 
@@ -171,105 +171,105 @@ XXXII.- Emisión: Descarga directa e indirecta a la atmósfera de energía, o de
 
 XXXIII.- Electrolineras o estación de carga para autos eléctricos y de vehículos híbridos recargables: Es la infraestructura urbana de carácter pública o privada alimentada de la red eléctrica, mediante la cual se dispensa de energía, para la recarga de la batería de los vehículos eléctricos.
 
-XXXIV.- Fauna silvestre: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones menores que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y por ello sean susceptibles de captura y apropiación.
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-XXXV.- Flora silvestre: Las especies vegetales así como los hongos, que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones o especímenes de estas especies que se encuentran bajo control del hombre.
+XXXIV.- Electromovilidad: Término utilizado para la utilización de todo tipo de transportes que emplea tecnologías de propulsión eléctrica, de manera parcial o total, como bicicletas, motocicletas, trenes, aviones, vehículos, entre otros, acompañándose de la infraestructura y las tecnologías de comunicación. Este tipo de vehículos pueden contener baterías para almacenar la energía o, también, pueden estar alimentados directamente a la línea eléctrica.
 
-XXXVI.- Fuente fija: Toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales, de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera.
+XXXV.- Fauna silvestre: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones menores que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y por ello sean susceptibles de captura y apropiación.
 
-XXXVII.- Fuente móvil: Cualquier máquina, aparato o dispositivo emisor de contaminantes a la atmósfera, al agua y al suelo que no tienen un lugar fijo.
+XXXVI.- Flora silvestre: Las especies vegetales, así como los hongos, que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones o especímenes de estas especies que se encuentran bajo control del hombre.
 
-XXXVIII.- Impacto ambiental: La modificación del ambiente ocasionada por la acción del hombre o de la naturaleza.
+XXXVII.- Fuente fija: Toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales, de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera.
 
-XXXIX.- Jales: Los residuos generados en las operaciones primarias de separación y concentración de minerales. Término mexicano que se aplica a los depósitos de materiales residuales que resultan del procedimiento de minerales útiles. Se trata de acumulación por la acción del hombre, que llegan a ocupar superficies de varios kilómetros cuadrados y alturas de diez o más metros.
+XXXVIII.- Fuente móvil: Cualquier máquina, aparato o dispositivo emisor de contaminantes a la atmósfera, al agua y al suelo que no tienen un lugar fijo.
 
-XL.- LGEEPA: Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+XXXIX.- Impacto ambiental: La modificación del ambiente ocasionada por la acción del hombre o de la naturaleza.
 
-XLI.- Manifestación de impacto ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental, significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo.
+XL.- Jales: Los residuos generados en las operaciones primarias de separación y concentración de minerales. Término mexicano que se aplica a los depósitos de materiales residuales que resultan del procedimiento de minerales útiles. Se trata de acumulación por la acción del hombre, que llegan a ocupar superficies de varios kilómetros cuadrados y alturas de diez o más metros.
 
-XLII.- Material genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que contenga unidades funcionales de herencia.
+XLI.- LGEEPA: Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 
-XLIII.- Material peligroso: Los elementos, substancias, compuestos, residuos o mezclas de ellos que, independientemente de su estado físico, representen un riesgo para el ambiente, la salud o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas.
+XLII.- Manifestación de impacto ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental, significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo.
 
-XLIV.- Ordenamiento Ecológico: El instrumento de política ambiental que tiene por objeto regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente y la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos.
+XLIII.- Material genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que contenga unidades funcionales de herencia.
 
-XLV.- Preservación: El conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitat naturales, así como conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de sus hábitat naturales.
+XLIV.- Material peligroso: Los elementos, substancias, compuestos, residuos o mezclas de ellos que, independientemente de su estado físico, representen un riesgo para el ambiente, la salud o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas.
 
-XLVI.- Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente.
+XLV.- Ordenamiento Ecológico: El instrumento de política ambiental que tiene por objeto regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente y la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos.
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-XLVII.- Procuraduría.- Procuraduría de Protección al Ambiente del Estado de Coahuila.
+XLVI.- Preservación: El conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitat naturales, así como conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de sus hábitats naturales.
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
-
-XLVIII.- Protección: El conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro.
+XLVII.- Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-XLIX.- Reciclaje: El proceso por el cual algunos materiales de desecho son transformados en productos nuevos, de tal manera que los desechos originales pierden su identidad y se convierten en materia prima para nuevos productos.
+XLVIII.- Procuraduría.- Procuraduría de Protección al Ambiente del Estado de Coahuila.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-L.- Recursos biológicos: Los recursos genéticos, los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano y para el ambiente.
+XLIX.- Protección: El conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-LI.- Recursos genéticos: El material genético de valor real o potencial.
+L.- Reciclaje: El proceso por el cual algunos materiales de desecho son transformados en productos nuevos, de tal manera que los desechos originales pierden su identidad y se convierten en materia prima para nuevos productos.
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+LI.- Recursos biológicos: Los recursos genéticos, los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano y para el ambiente.
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+LII.- Recursos genéticos: El material genético de valor real o potencial.
 
 (REFORMADA, P.O. 19 DE DICIEMBRE DE 2014) (F. DE E., P.O. 24 DE MARZO DE 2015)
 
-LII.- Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre.
+LIII.- Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-LIII.- Región Ecológica: La unidad del territorio estatal que comparte características ecológicas comunes.
+LIV.- Región Ecológica: La unidad del territorio estatal que comparte características ecológicas comunes.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-LIV.- Registro: El registro que se integra con la información de los establecimientos sujetos a reporte sobre sus emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos, así como de aquellas sustancias determinadas por la Secretaría, información que posteriormente se integrará el (sic) Sistema administrativo por la Autoridad Federal.
+LV.- Registro: El registro que se integra con la información de los establecimientos sujetos a reporte sobre sus emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos, así como de aquellas sustancias determinadas por la Secretaría, información que posteriormente se integrará el (sic) Sistema administrativo por la Autoridad Federal.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-LV.- Residuo: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó.
+LVI.- Residuo: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-LVI.- Residuos sólidos: Sobrantes sólidos de procesos domésticos, industriales o agrícolas.
+LVII.- Residuos sólidos: Sobrantes sólidos de procesos domésticos, industriales o agrícolas.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-LVII.- Residuos sólidos municipales: Residuos sólidos que resultan de las actividades domésticas, comerciales y de servicios en pequeña escala no considerados como peligrosos, conforme a la normatividad ambiental vigente.
+LVIII.- Residuos sólidos municipales: Residuos sólidos que resultan de las actividades domésticas, comerciales y de servicios en pequeña escala no considerados como peligrosos, conforme a la normatividad ambiental vigente.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-LVIII.- Residuo sólido no peligroso: Todo aquel que no resulte peligroso de acuerdo con los listados que para tal efecto expida la Secretaría de Medio Ambiente y Recursos Naturales.
+LVIX. - Residuo sólido no peligroso: Todo aquel que no resulte peligroso de acuerdo con los listados que para tal efecto expida la Secretaría de Medio Ambiente y Recursos Naturales.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-LIX.- Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales.
+LX.- Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-LX.- Reuso: La utilización de todos los residuos o desechos sólidos, líquidos o gaseosos que puedan ser utilizados nuevamente, ya sea en su estado actual o por medio de transformaciones físicas, químicas, mecánicas o biológicas.
+LXI.- Reuso: La utilización de todos los residuos o desechos sólidos, líquidos o gaseosos que puedan ser utilizados nuevamente, ya sea en su estado actual o por medio de transformaciones físicas, químicas, mecánicas o biológicas.
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-LXI.- Secretaría: La Secretaría de Medio Ambiente y Desarrollo Urbano; y
+LXII.- Secretaría: La Secretaría de Medio Ambiente y Desarrollo Urbano; y
 
-LXII.- (DEROGADA, P.O. 24 DE JULIO DE 2020)
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-LXIII.- (DEROGADA, P.O. 24 DE JULIO DE 2020)
-
-LXIV.- (DEROGADA, P.O. 24 DE JULIO DE 2020)
-
-> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2019)</small>
-
-LXV.- Bolsa reutilizable: Tipo de empaque que por el material del que está fabricado, tiene como fin ser usado más de cinco veces, pude (sic) ser de fibra natural o sintética.
+LXIII.- Bolsa reutilizable: Tipo de empaque que por el material del que está fabricado, tiene como fin ser usado más de cinco veces, puede ser de fibra natural o sintética.
 
 > <small>(ADICIONADA, P.O. 30 DE ENERO DE 2024)</small>
 
-LXV (SIC).- Contaminación por Ruido: Todo sonido generado por actividades humanas, que, por su intensidad, frecuencia o duración, implique riesgo, molestia, perjuicio o daño para las personas, para otros seres vivos o para el ambiente, o los que superen los niveles fijados por las normas oficiales mexicanas.
+LXIV.- Contaminación por Ruido: Todo sonido generado por actividades humanas, que, por su intensidad, frecuencia o duración, implique riesgo, molestia, perjuicio o daño para las personas, para otros seres vivos o para el ambiente, o los que superen los niveles fijados por las normas oficiales mexicanas.
 
 ###### ARTICULO 4º.
 
@@ -364,6 +364,10 @@ a) Establecer principios de reducción, reutilización y reciclaje en el manejo 
 b) Fomentar la disminución de los impactos ambientales asociados a la extracción de materiales, transformación, manufactura, distribución, uso y destino de los productos plásticos mencionados en el párrafo anterior, promoviendo el uso de materias primas provenientes de los recursos naturales renovables, reutilizables y reciclables; por lo que una vez terminada la vida útil de estos, sus residuos se incorporen para su reciclaje y reutilización, cuando esto sea posible, minimizando la disposición final;
 
 c) Instaurar acciones y recomendaciones paraevitar (sic) el uso de popotes, bolsas de plástico y poliestireno expandido.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+d) Promover, de manera general, acciones orientadas a la economía circular, fomentando el diseño, producción, uso, recuperación, reciclaje y reincorporación de materiales y productos al ciclo productivo, con el fin de minimizar la generación de residuos y optimizar el aprovechamiento de los recursos naturales.
 
 VII.- Las demás que le confiera esta ley, sus reglamentos y otras disposiciones legales.
 
@@ -3384,3 +3388,19 @@ PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publica
 SEGUNDO.- En un plazo no mayor a tres meses, contados a partir de la entrada en vigor del presente decreto, los municipios, en sus respectivos ámbitos de competencia, deberán realizar las adecuaciones legales y reglamentarias para armonizar sus marcos legales con las disposiciones de este decreto.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 321.- SE ADICIONA UN NUEVO CONTENIDO A LA FRACCIÓN XXXIV, RECORRIENDO EL ACTUAL A LA QUE SIGUE, HACIENDO LO PROPIO CON LAS DEMÁS FRACCIONES DEL ARTÍCULO 3° DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 327.- SE ADICIONA UN INCISO D) A LA FRACCIÓN VI DEL ARTÍCULO 8, DE LA LEY DE EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
