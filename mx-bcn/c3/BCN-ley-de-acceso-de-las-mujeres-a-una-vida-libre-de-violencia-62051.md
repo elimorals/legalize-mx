@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6205
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2025-07-21"
+last_updated: "2025-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -307,11 +307,15 @@ V. Violencia Sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la sex
 
 VI. Violencia Obstétrica.- Toda conducta, acción u omisión que ejerza el personal de salud o personal administrativo de manera directa o indirecta, y que afecte a las mujeres durante los procesos de embarazo, parto o puerperio, mediante la apropiación del cuerpo y procesos reproductivos de las mujeres que se expresa en un trato deshumanizador, omisión de atención oportuna y eficaz, abuso de medicalización y patologización de los procesos naturales, prácticas sin consentimiento como esterilización o realizar cesárea sin motivo, o cualquier otra que tenga como resultado la pérdida de autonomía y capacidad de decidir libremente sobre su cuerpo y sexualidad, impactando la calidad de vida de las mujeres;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-VII. Violencia Digital.- Es toda acción dolosa realizada mediante el uso de tecnologías de la información y la comunicación, por la que se exponga, distribuya, difunda, exhiba, transmita, comercialice, oferte, intercambie o comparta mensajes de texto, imágenes, audios o videos reales o simulados de contenido íntimo sexual de una persona sin su consentimiento, sin su aprobación o sin su autorización y que le cause daño psicológico o emocional, en cualquier ámbito de su vida privada o en su imagen propia.
+VII. Violencia Digital.- Es toda acción dolosa realizada mediante el uso de tecnologías de la información y la comunicación, incluyendo aquellas basadas en Inteligencia Artificial Generativa, por la que se genere, elabore, edite, altere, exponga, distribuya, difunda, exhiba, transmita, comercialice, oferte, intercambie o comparta mensajes de texto, imágenes, audios o videos reales o simulados de contenido íntimo sexual de una persona sin su consentimiento, sin su aprobación o sin su autorización y que le cause daño psicológico o emocional, en cualquier ámbito de su vida privada o en su imagen propia.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 Así como aquellos actos dolosos que causen daño a la intimidad, privacidad y/o dignidad de las mujeres incluyendo los mensajes de odio, que se cometan por medio de las tecnologías de la información y la comunicación.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 Para efectos de este tipo de violencia, se entenderá por Tecnologías de la Información y la Comunicación aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos.
 
@@ -347,9 +351,9 @@ X. Violencia Ácida: Es aquella que pretenda causar daño físico irreversible q
 
 Este tipo de violencia implica una alta carga simbólica toda vez que la finalidad es causar de forma deliberada y permanente dolor, sufrimiento y humillación a la mujer, además de causar daño físico, psicológico y emocional irreparable e irreversible, es decir, dejar una marca permanente en ella.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-XI. Violencia Simbólica.- La que a través de patrones estereotipados, mensajes, valores, iconos o signos, transmita y reproduzca dominación, cosificación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad; y,
+XI. Violencia Simbólica.- Es la expresión, emisión o difusión de patrones estereotipados, mensajes, valores, iconos o signos, que transmiten y reproducen dominación, cosificación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad, siendo difícil de distinguir y percibir; y,
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE MAYO DE 2024)</small>
 
@@ -1663,11 +1667,17 @@ XVIII. Conforme a lo previsto por la Ley General, dar seguimiento a las solicitu
 
 XIX. Difundir información sobre el funcionamiento y aprovechamiento del Registro Nacional, así como cumplir con las facultades y responsabilidades que le correspondan y que se derivan de la operación del Registro Nacional, en términos de lo dispuesto en la Ley General del Sistema Nacional de Seguridad Pública y la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-###### Artículo 44.
+###### ARTÍCULO 44.
 
-Corresponderá a la Secretaría de Cultura de Baja California, el formular, coordinar y ejecutar políticas de promoción de los derechos humanos de las mujeres, a través de las diferentes manifestaciones culturales y artísticas. Así como diseñar y promover campañas de información sobre los tipos y modalidades de la violencia contra las mujeres, y las dependencias y entidades que la atienden.
+Corresponderá a la Secretaría de Cultura de Baja California, en el ámbito de sus competencias:
+
+I. El formular, coordinar y ejecutar políticas de promoción de los derechos humanos de las mujeres, a través de las diferentes manifestaciones culturales y artísticas.
+
+II. Diseñar y promover campañas de información sobre los tipos y modalidades de la violencia contra las mujeres, y las dependencias y entidades que la atienden.
+
+III. Incorporar la perspectiva de género en la creación y difusión de contenidos culturales y artísticos, promoviendo la igualdad y la erradicación de estereotipos que perpetúen la violencia de género, realizando talleres, exposiciones, festivales y producciones audiovisuales que visibilicen y fomenten una cultura de respeto y equidad.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
@@ -1683,9 +1693,17 @@ Corresponde al Instituto Estatal Electoral del Estado, en el ámbito de sus comp
 
 I. Promover la cultura de la no violencia en el marco del ejercicio de los derechos políticos y electorales de las mujeres;
 
-II. Incorporar la perspectiva de género al monitoreo de las transmisiones sobre las precampañas y campañas electorales en los programas en radio y televisión que difundan noticias, durante los procesos electorales, y
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
 
-III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género.
+II. Incorporar la perspectiva de género al monitoreo de las transmisiones sobre las precampañas y campañas electorales en los programas en radio y televisión que difundan noticias, durante los procesos electorales;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2025)</small>
+
+IV. Implementar mecanismos de prevención y atención para las víctimas de violencia política de género, incluyendo la creación de protocolos de actuación y asesoría jurídica a las afectadas durante el proceso de denuncia y sanción.
 
 > <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
 
@@ -2226,3 +2244,15 @@ P.O. 21 DE JULIO DE 2025.
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California, con salvedad de lo dispuesto en el siguiente párrafo.
 
 Las reformas a los artículos 32, 35 BIS, 35 TER, 36, 38 BIS, 43 y a la denominación del Título Tercero, así como la adición de un Capítulo III del Título Tercero, para llamarse Capítulo III “del Programa Institucional”, entrarán en vigor el 01 de octubre de 2025.
+
+P.O. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 170 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 6 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 12 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 172 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
