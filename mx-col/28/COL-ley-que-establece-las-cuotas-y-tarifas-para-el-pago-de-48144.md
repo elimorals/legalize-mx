@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48144"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2024-09-21"
+last_updated: "2025-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48144&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ÁLVAREZ EN EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre del 2005.
 
@@ -639,7 +639,9 @@ III.- Entronque de viviendas de interés social y popular.
 
 a).- Como un apoyo a los programas de fomento a la vivienda de interés social y popular, se otorgará al fraccionador o desarrollador el 50 por ciento de descuento de los derechos de incorporación, debiendo hacer el pago en una sola exhibición y en forma anticipada.
 
-Dicho descuento se aplicará exclusivamente a los lotes que se encuentren considerados en densidad alta o habitacional unifamiliar en la clasificación H4-U, de acuerdo al plano de notificación autorizado por la Dirección de Desarrollo Urbano del Municipio al que corresponda o por la autoridad competente.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+Dicho descuento se aplicará exclusivamente a los lotes que se encuentren considerados en Habitacional unifamiliar, densidad alta, clasificación H4-U; Habitacional plurifamiliar horizontal, densidad alta, clasificación H4-H y Habitacional plurifamiliar vertical, densidad alta, clasificación H4-V, de acuerdo al plano de lotificación autorizado por la Dirección de Desarrollo Urbano del Municipio al que corresponda o por la autoridad competente.
 
 b).- Tratándose de fraccionamientos que cuenten con planta de tratamiento propia y que deseen incorporarlos a “LA CIAPACOV”, deberán presentar la solicitud así como lo siguiente: Inventario y características de la planta de tratamiento, la capacidad de la misma y, que la calidad de las aguas tratadas cumpla las normas establecidas por la Comisión Nacional del Agua y la Secretaría de Salud, además el manual de operación de la misma. Si los resultados son positivos, el desarrollador deberá cumplir con las condiciones que “LA CIAPACOV” establezca para dar trámite a la solicitud.
 
@@ -763,7 +765,9 @@ III.- Entronque de vivienda de interés social y popular.
 
 En el pago de cuotas por el concepto de entronques colectivos a las redes de alcantarillado o drenaje y como un apoyo a los programas de fomento a la vivienda de interés social y popular, se otorgará al fraccionador o desarrollador el 50 por ciento de descuento de los derechos de incorporación, debiendo hacer el pago en una sola exhibición y en forma anticipada.
 
-Dicho descuento se aplicará exclusivamente a los lotes que se encuentren considerados en densidad alta o habitacional unifamiliar en la clasificación H4-U, de acuerdo al plano de notificación autorizado por la Dirección de Desarrollo Urbano del Municipio al que corresponda o por la autoridad competente.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+Dicho descuento se aplicará exclusivamente a los lotes que se encuentren considerados en Habitacional unifamiliar, densidad alta, clasificación H4-U; Habitacional plurifamiliar horizontal, densidad alta, clasificación H4-H y Habitacional plurifamiliar vertical, densidad alta, clasificación H4-V, de acuerdo al plano de lotificación autorizado por la Dirección de Desarrollo Urbano del Municipio al que corresponda o por la autoridad competente.
 
 ###### ARTÍCULO 26.
 
@@ -1340,3 +1344,11 @@ P.O. 21 DE SEPTIEMBRE DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 13 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 216.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ÁLVAREZ, EN EL ESTADO DE COLIMA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
