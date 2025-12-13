@@ -4,7 +4,7 @@ identifier: "OAX-codigo-familiar-para-el-estado-de-oaxaca-153298"
 country: "mx"
 rank: "codigo"
 publication_date: "2021-12-04"
-last_updated: "2024-04-06"
+last_updated: "2025-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2025.
 
 Código publicado en la Décima Primera Sección del Número 49 del Periódico Oficial del Estado de Oaxaca, el sábado 4 de diciembre de 2021.
 
@@ -1453,6 +1453,10 @@ Pueden reconocer a sus hijas e hijos naturales los que tengan la edad exigida pa
 
 El menor de edad no puede reconocer a una hija o hijo sin el consentimiento del que o de los que ejerzan sobre él la patria potestad, o a falta de éstos sin la autorización judicial.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+Para el cumplimiento de lo dispuesto en el presente artículo, el Oficial del Registro Civil podrá solicitar la colaboración de las instituciones competentes en materia de protección de los Derechos de Niñas, Niños y Adolescentes, con el fin de garantizar el interés superior de la niñez y brindar acompañamiento institucional al menor de edad que pretenda realizar el reconocimiento de una hija o hijo.
+
 ###### Artículo 225.
 
 No obstante, el reconocimiento hecho por una niña, niño o adolescente es revocable si prueba que sufrió engaño al hacerlo, pudiendo intentar la revocación hasta cuatro años después de la mayor edad.
@@ -1464,6 +1468,10 @@ Puede reconocerse a la hija o hijo que no ha nacido o al que ha muerto si ha dej
 ###### Artículo 227.
 
 Los padres pueden reconocer a su hija o hijo conjunta o separadamente.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+Tratándose de las personas mexicanas residentes en el extranjero podrán reconocer la filiación de sus hijos menores de edad, mediante instrumento notarial otorgado en Oficina Consular Mexicana con los requisitos previstos en la normativa aplicable, deberá presentarlo ante el Oficial del Registro Civil para los trámites correspondientes.
 
 ###### Artículo 228.
 
@@ -1593,17 +1601,47 @@ La adopción es el acto jurídico por el cual la niña, niño y adolescente, car
 
 El acto de adopción produce efectos legales entre los adoptantes y adoptados, así como entre éstos y la familia de los primeros, como si se tratara de un hijo consanguíneo, quedando extinguida la filiación entre el adoptado y sus progenitores; subsisten, sin embargo, los impedimentos para contraer matrimonio.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 250 Bis.
+
+Podrán ser adoptados:
+
+I.- Menores de 18 años:
+
+a) Que carezcan de persona que ejerza sobre ella la patria potestad;
+
+b) Declarados judicialmente en situación de desamparo o bajo la tutela del Sistema para el Desarrollo Integral de la Familia del Estado;
+
+c) Cuyos padres o abuelos se les hayan sentenciado a la pérdida de la patria potestad; y
+
+d) Cuyos padres o tutor o quienes ejerzan la patria potestad otorguen su consentimiento;
+
+II.- Hija o hijo menor del cónyuge, concubino o concubina, que ejerza de manera individual la patria potestad y que demuestre una convivencia ininterrumpida al menos de dos años;
+
+III.- El mayor de edad declarado incapaz;
+
+IV.- Simultáneamente por un solo matrimonio o una sola persona, gemelos, mellizos, trillizos o múltiples y en general dos o más niños, niñas o adolescentes o personas con discapacidad;
+
+V.- Cuando se trate de hermanos de diferentes edades, quedará a juicio del Juez decidir sobre la conveniencia de la separación o no de éstos para darlos en adopción.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 251.
 
-Toda persona mayor de veinticinco años puede adoptar, siempre que entre el adoptante y el adoptado haya una diferencia de edad no menor de diecinueve años.
+Podrán adoptar:
 
-Podrán ser adoptados simultáneamente por un solo matrimonio o una sola persona, gemelos, mellizos, triates o múltiples y en general dos o más niños, niñas o adolescentes o personas con discapacidad.
+I.- Toda persona soltera mayor de veinticinco años, siempre que entre el adoptante y el adoptado haya una diferencia de edad no menor de diecinueve años.
 
-Cuando se trate de hermanos de diferentes edades, quedará a juicio del Juez decidir sobre la conveniencia de la separación o no de éstos para darlos en adopción.
+II.- Los cónyuges en forma conjunta, que al menos tengan dos años de casados;
+
+III.- Los concubinos en forma conjunta, que demuestren una convivencia ininterrumpida de al menos dos años;
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 252.
 
-El marido y la mujer podrán adoptar cuando los dos estén conformes en considerar al adoptado o adoptados como sus hijos. En este caso, bastará que cualquiera de los dos cónyuges sea mayor de veinticinco años, pero deberá existir la diferencia de edad de diecinueve años entre adoptantes y adoptado.
+Los cónyuges o concubinos podrán adoptar cuando los dos estén conformes en considerar a la persona adoptada o personas adoptadas como sus hijos. En este caso, bastará que cualquiera de los dos cónyuges, sea mayor de veinticinco años, pero deberá existir la diferencia de edad de diecinueve años entre adoptantes y adoptado
 
 ###### Artículo 253.
 
@@ -5770,3 +5808,13 @@ P.O. 6 DE ABRIL DE 2024.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 874.- MEDIANTE EL CUAL REFORMAN LOS ARTÍCULOS 37, 38 Y 40, LA FRACCIÓN IV DEL ARTÍCULO 44, EL ARTÍCULO 45, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 47, EL ARTÍCULO 49, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 52, LOS ARTÍCULOS 54, 61, 65 Y 67, LA FRACCIÓN IX DEL ARTÍCULO 68, LOS ARTÍCULOS 77, 104, 122, 128 Y 131, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 136, EL PÁRRAFO CUARTO DEL ARTÍCULO 137 BIS, LA FRACCIÓN III DEL ARTÍCULO 137 TER, Y EL ARTÍCULO 142; SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 22, EL PÁRRAFO CUARTO AL ARTÍCULO 66 RECORRIÉNDOSE EL SUBSECUENTE, LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 84, Y EL PÁRRAFO SEXTO AL ARTÍCULO 137 BIS; SE DEROGA LA FRACCIÓN VI DEL ARTÍCULO 44, LAS FRACCIONES III Y IV DEL ARTÍCULO 100, LA FRACCIÓN VIII DEL ARTÍCULO 105, EL ARTÍCULO 115, LA FRACCIÓN III DEL ARTÍCULO 123, Y LA FRACCIÓN IV DEL ARTÍCULO 137 TER, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto
