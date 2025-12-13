@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2025-10-11"
+last_updated: "2025-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2025.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -887,7 +887,23 @@ Reincidencia y habitualidad.
 
 72.- En las prevenciones de los dos artículos anteriores, se comprenden los casos en que uno solo de los delitos, o todos, queden en cualquier momento de la tentativa, sea cual fuere el carácter con que intervenga el responsable.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+### CAPITULO X.. Inteligencia Artificial
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+72 BIS.- Cuando se emplee la inteligencia artificial como medio comisivo en la ejecución de conductas típicas previstas en la presente legislación, la pena se incrementará en un tercio de la mínima y hasta un tercio de la máxima para cada delito.
+
+Para efectos del párrafo anterior, se entenderá por inteligencia artificial a la capacidad de los sistemas tecnológicos, informáticos, softwares o aplicaciones basadas en algoritmos, para simular o realizar tareas que requieran capacidades humanas como el razonamiento, el aprendizaje, la creatividad, la capacidad de planear y procesar datos para la realización de tareas específicas y autónomas.
+
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+## TITULO QUINTO.
+
+Aplicación de sanciones.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ### CAPITULO I.
 
@@ -954,12 +970,6 @@ Este beneficio no se concederá para los autores y partícipes tratándose del d
 Cuando la ley permita sustituir la pena o la medida de seguridad por otra de menor gravedad, el juez deberá aplicar ésta de manera preferente; de no aplicarla deberá manifestar en la sentencia las razones que tuvo para no hacerlo.
 
 Si hubiere varias sanciones, el Juez determinará el momento a partir del cual debe correr la sanción accesoria. Para ello, indicará en la sentencia si ésta correrá al mismo tiempo que la principal y se extinguirán simultáneamente; comenzará conjuntamente con ella y la excederá durante determinado tiempo; o comenzará cuando concluya la principal.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-## TITULO QUINTO.
-
-Aplicación de sanciones.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -1059,6 +1069,12 @@ En caso de muerte o insolvencia del fiador, el sentenciado estará obligado a po
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
+## TITULO SEXTO.
+
+Ejecución de sentencias.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
+
 ### CAPITULO I.
 
 Del órgano ejecutor.
@@ -1068,12 +1084,6 @@ Del órgano ejecutor.
 93.- Corresponde a la autoridad judicial la ejecución, modificación y duración de las penas y medidas de seguridad impuestas en las sentencias definitivas, dictadas por los tribunales en la forma y términos del Código Penal Federal; Código Nacional de Procedimientos Penales y la Ley Nacional de Ejecución Penal.
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE OCTUBRE DE 2020)</small>
-
-## TITULO SEXTO.
-
-Ejecución de sentencias.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ### CAPITULO II.
 
@@ -1109,6 +1119,12 @@ II.- Si fuere la de confinamiento, se conmutará por multa, desde un tercio a un
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MAYO DE 2015)</small>
 
+## TITULO SEPTIMO.
+
+Extinción de la pretensión punitiva y de la potestad de ejecutar las penas y medidas de seguridad.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LA INTEGRA, P.O. 7 DE MAYO DE 2015)</small>
+
 ### CAPITULO UNICO.
 
 De las causas de extinción.
@@ -1136,58 +1152,6 @@ VIII. Existencia de una sentencia firme anterior dictada en proceso instaurado p
 IX. El cumplimiento del criterio de oportunidad o la solución alterna correspondiente, en términos del Código Nacional de Procedimientos Penales.
 
 > <small>(REFORMADA [N. DE E. ANTES CAPÍTULO I], P.O. 7 DE MAYO DE 2015)</small>
-
-## TITULO SEPTIMO.
-
-Extinción de la pretensión punitiva y de la potestad de ejecutar las penas y medidas de seguridad.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LA INTEGRA, P.O. 7 DE MAYO DE 2015)</small>
-
-### CAPITULO I.
-
-Rebelión y Espionaje.
-
-137.- Cometen el delito de rebelión, los que se alzan en armas en contra del Gobierno del Estado, para:
-
-I.- Abolir o reformar la Constitución Política del Estado o las instituciones que de ella emanen.
-
-II.- Para reformar, destruir o impedir la integración de éstas o su libre ejercicio; o la elección de algunos de los altos funcionarios del Estado a que se refiere el artículo 139 de la Constitución Política Local.
-
-III.- Para separar o suspender de sus cargos a alguno o algunos funcionarios del Estado.
-
-IV.- Sustraer de la obediencia del Gobierno todo o parte del territorio del Estado a algunas fuerzas dependientes de dicho Gobierno.
-
-V.- Despojar de sus atribuciones a alguno de los Poderes del Estado o usurpárselas.
-
-138.- Se impondrá prisión de tres a seis años, multa de quinientos a tres mil pesos y suspensión de derechos políticos hasta por cinco años, por el delito previsto en el artículo precedente y además en los casos siguientes:
-
-I.- Al que residiendo en territorio ocupado por el Gobierno, bajo la protección y garantía de éste, proporcione voluntariamente a los rebeldes, hombres para el servicio de las armas, municiones, dinero, víveres o medios de transporte o de comunicación o impida que las tropas del Gobierno reciban esos auxilios.
-
-Si residiere en territorio ocupado por los rebeldes, la reclusión será de seis meses a tres años;
-
-II.- Al funcionario público que teniendo, por razón de su empleo o cargo, el plano de una fortificación, puerto o rada, o sabiendo el secreto de una expedición militar, revele éste o entregue aquél a los rebeldes.
-
-139.- Se aplicarán de seis meses a tres años de prisión y multa de trescientos a tres mil pesos:
-
-I.- Al que invite formal y directamente para una rebelión;
-
-II.- A los que estando bajo la protección y garantía del Gobierno, oculten o auxilien a los espías o exploradores de los rebeldes, sabiendo que lo son;
-
-III.- A los que, rotas las hostilidades y estando en las condiciones de la fracción anterior, mantengan relaciones con el enemigo, para proporcionarle noticias concernientes a las operaciones militares u otras que les sean útiles; y
-
-IV.- Al que voluntariamente sirva un empleo o cargo subalterno o comisión, en lugar ocupado por los rebeldes y por designación de éstos, ejerciendo funciones encaminadas a afirmar al Gobierno rebelde y a derribar al Constitucional.
-
-140.- A los Jefes o Agentes del Gobierno y a los rebeldes que después del combate dieren muerte a los prisioneros directamente o por medio de órdenes, se les aplicará la pena de veinticinco a treinta años de prisión.
-
-141.- A los extranjeros que cometan el delito de rebelión se les aplicará de ocho a quince años de prisión y se les prohibirá residir en territorio del Estado.
-
-142.- Los rebeldes no incurrirán en sanción por las muertes ni las lesiones inferidas en el acto de un combate; pero por todo homicidio que se cometa y por toda lesión que se cause fuera de la lucha, incurrirán en sanción, tanto el que manda ejecutar el acto antisocial, como el que lo permita y los que lo ejecuten.
-
-143.- No se aplicará sanción a los que depongan las armas antes de que se hayan roto las hostilidades o de ser tomados prisioneros, si no se hubiere cometido alguno de los delitos mencionados en el artículo que sigue.
-
-144.- Cuando en las rebeliones se cometan los delitos de homicidio, robo, secuestro, despojo, incendio, saqueo u otros delitos, se aplicarán las sanciones que por los mismos y el de rebelión corresponda, según las reglas de acumulación.
-
-145.- Cuando ya declarada la guerra entre México y otra Nación, o rotas las hostilidades, se inicie o fomente en el Estado una rebelión local, se aumentarán hasta en una tercera parte de su duración las penas establecidas en este capítulo sin que puedan exceder de cuarenta años de prisión.
 
 #### SECCION PRIMERA.
 
@@ -1389,6 +1353,52 @@ De las demás causas de extinción.
 
 Delitos contra la seguridad interior del Estado.
 
+### CAPITULO I.
+
+Rebelión y Espionaje.
+
+137.- Cometen el delito de rebelión, los que se alzan en armas en contra del Gobierno del Estado, para:
+
+I.- Abolir o reformar la Constitución Política del Estado o las instituciones que de ella emanen.
+
+II.- Para reformar, destruir o impedir la integración de éstas o su libre ejercicio; o la elección de algunos de los altos funcionarios del Estado a que se refiere el artículo 139 de la Constitución Política Local.
+
+III.- Para separar o suspender de sus cargos a alguno o algunos funcionarios del Estado.
+
+IV.- Sustraer de la obediencia del Gobierno todo o parte del territorio del Estado a algunas fuerzas dependientes de dicho Gobierno.
+
+V.- Despojar de sus atribuciones a alguno de los Poderes del Estado o usurpárselas.
+
+138.- Se impondrá prisión de tres a seis años, multa de quinientos a tres mil pesos y suspensión de derechos políticos hasta por cinco años, por el delito previsto en el artículo precedente y además en los casos siguientes:
+
+I.- Al que residiendo en territorio ocupado por el Gobierno, bajo la protección y garantía de éste, proporcione voluntariamente a los rebeldes, hombres para el servicio de las armas, municiones, dinero, víveres o medios de transporte o de comunicación o impida que las tropas del Gobierno reciban esos auxilios.
+
+Si residiere en territorio ocupado por los rebeldes, la reclusión será de seis meses a tres años;
+
+II.- Al funcionario público que teniendo, por razón de su empleo o cargo, el plano de una fortificación, puerto o rada, o sabiendo el secreto de una expedición militar, revele éste o entregue aquél a los rebeldes.
+
+139.- Se aplicarán de seis meses a tres años de prisión y multa de trescientos a tres mil pesos:
+
+I.- Al que invite formal y directamente para una rebelión;
+
+II.- A los que estando bajo la protección y garantía del Gobierno, oculten o auxilien a los espías o exploradores de los rebeldes, sabiendo que lo son;
+
+III.- A los que, rotas las hostilidades y estando en las condiciones de la fracción anterior, mantengan relaciones con el enemigo, para proporcionarle noticias concernientes a las operaciones militares u otras que les sean útiles; y
+
+IV.- Al que voluntariamente sirva un empleo o cargo subalterno o comisión, en lugar ocupado por los rebeldes y por designación de éstos, ejerciendo funciones encaminadas a afirmar al Gobierno rebelde y a derribar al Constitucional.
+
+140.- A los Jefes o Agentes del Gobierno y a los rebeldes que después del combate dieren muerte a los prisioneros directamente o por medio de órdenes, se les aplicará la pena de veinticinco a treinta años de prisión.
+
+141.- A los extranjeros que cometan el delito de rebelión se les aplicará de ocho a quince años de prisión y se les prohibirá residir en territorio del Estado.
+
+142.- Los rebeldes no incurrirán en sanción por las muertes ni las lesiones inferidas en el acto de un combate; pero por todo homicidio que se cometa y por toda lesión que se cause fuera de la lucha, incurrirán en sanción, tanto el que manda ejecutar el acto antisocial, como el que lo permita y los que lo ejecuten.
+
+143.- No se aplicará sanción a los que depongan las armas antes de que se hayan roto las hostilidades o de ser tomados prisioneros, si no se hubiere cometido alguno de los delitos mencionados en el artículo que sigue.
+
+144.- Cuando en las rebeliones se cometan los delitos de homicidio, robo, secuestro, despojo, incendio, saqueo u otros delitos, se aplicarán las sanciones que por los mismos y el de rebelión corresponda, según las reglas de acumulación.
+
+145.- Cuando ya declarada la guerra entre México y otra Nación, o rotas las hostilidades, se inicie o fomente en el Estado una rebelión local, se aumentarán hasta en una tercera parte de su duración las penas establecidas en este capítulo sin que puedan exceder de cuarenta años de prisión.
+
 ### CAPITULO II.
 
 Conspiración, sedición y otros desórdenes públicos.
@@ -1407,6 +1417,10 @@ Conspiración, sedición y otros desórdenes públicos.
 
 152.- Incurren en asonada o motín, los que, para hacer uso de un derecho, se reúnen tumultuariamente. A este delito se le aplicará la pena de dos meses a dos años y multa de cien a quinientos pesos.
 
+## TITULO SEGUNDO.
+
+Delitos contra la seguridad pública.
+
 ### CAPITULO I.
 
 Evasión de presos.
@@ -1424,10 +1438,6 @@ Si el evadido fuere un procesado o sentenciado por el delito de secuestro agrava
 156.- Si la reaprehensión del prófugo se lograre por gestiones del infractor de la evasión, se aplicará a éste de tres días a un año de prisión, según la gravedad del delito imputado al recluído o detenido.
 
 157.- Al recluído que se fugue no se le aplicará sanción alguna, sino cuando obre de concierto con otro u otros recluidos y se fugue alguno de ellos o ejerciere violencia en las personas, en cuyo caso la pena aplicable será de seis meses a tres años de prisión.
-
-## TITULO SEGUNDO.
-
-Delitos contra la seguridad pública.
 
 ### CAPITULO II.
 
@@ -1559,6 +1569,10 @@ A quién incurra en las conductas descritas en el presente artículo se le aplic
 
 Las penas a las que se refiere el presente artículo, se aumentarán hasta en una mitad de la que corresponda por el delito cometido, cuando para su perpetración se utilice a uno o varios menores de edad; o cuando el responsable sea un servidor público o haya tenido tal carácter dentro de los cinco años anteriores a la comisión de la conducta delictiva.
 
+## TITULO TERCERO.
+
+Delitos en materia de vías de comunicación y correspondencia.
+
 ### CAPITULO I.
 
 Ataques a las vías de comunicación.
@@ -1603,10 +1617,6 @@ Si en el vehículo que se incendie no se halla persona alguna, la sanción será
 
 173 Bis.- Al que fuera de los casos previstos por la ley intervenga la comunicación telefónica de terceras personas, se le aplicará prisión de uno a cinco años y de cien a doscientos días de multas.
 
-## TITULO TERCERO.
-
-Delitos en materia de vías de comunicación y correspondencia.
-
 ### CAPITULO II.
 
 Violación de correspondencia.
@@ -1620,6 +1630,10 @@ II.- Al que indebidamente intercepte una comunicación escrita que no esté diri
 175.- No se considera que obran delictuosamente los padres que abran o intercepten las comunicaciones escritas dirigidas a sus hijos menores de edad, y los tutores respecto de las personas que se hallen bajo su dependencia, y los cónyuges entre sí.
 
 176.- La disposición del artículo 166 no comprende la correspondencia que circule por la estafeta, respecto de la cual se observará lo dispuesto en la legislación Federal.
+
+## TITULO CUARTO.
+
+Delitos contra la autoridad.
 
 ### CAPITULO I.
 
@@ -1640,10 +1654,6 @@ Al que desobedezca, no acate, incumpla o infrinja una orden de protección o med
 181.- Quien debiendo ser examinado en juicio y sin que le aprovechen las excepciones establecidas en este Código o por el de Procedimientos de la materia, se niegue a declarar o a otorgar la protesta de ley, pagará una multa de quinientos a dos mil pesos. En caso de reincidencia, se impondrá prisión de uno a seis meses.
 
 182.- Cuando la ley autorice el empleo del apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumará el delito de desobediencia cuando se hubieren agotado los medios de apremio.
-
-## TITULO CUARTO.
-
-Delitos contra la autoridad.
 
 ### CAPITULO II.
 
@@ -1681,6 +1691,10 @@ En el supuesto anterior, el delito se perseguirá de oficio.
 
 188.- (DEROGADO, P.O. 10 DE NOVIEMBRE DE 2018)
 
+## TITULO QUINTO.
+
+Delitos contra la salud.
+
 ### CAPITULO I.
 
 Venta de bebidas y comestibles adulterados o alterados.
@@ -1702,10 +1716,6 @@ Si la distribución gratuita de dichos productos lo realizará algún servidor o
 191 Ter.- A las personas propietarias de los establecimientos en que se comercien productos preenvasados que han superado la fecha de caducidad que se indica en el etiquetado del productos (sic), se les impondrá la misma pena que señale el artículo anterior. En caso de reincidencia se clausurará definitivamente el establecimiento.
 
 Si estas conductas se llevaran a cabo durante o inmediatamente después de que las autoridades competentes hayan emitido formalmente alguna declaratoria de emergencia ya sea por desastre natural, crisis sanitaria o de cualquier otra índole la sanción se aumentará en una mitad.
-
-## TITULO QUINTO.
-
-Delitos contra la salud.
 
 ### CAPITULO II.
 
@@ -1744,6 +1754,12 @@ Para efectos de este artículo, se entiende cerca de escuelas, cuando la venta s
 193 Ter.- Además de las penas establecidas en el artículo anterior, en caso de reincidencia, se procederá a la cancelación del permiso o licencia.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+## TITULO SEXTO.
+
+Delitos contra la dignidad y el desarrollo de las personas menores de edad o de quienes no tienen la capacidad para comprender el significado del hecho.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
 
 ### CAPITULO I. Delitos cometidos contra el libre desarrollo de la personalidad
 
@@ -1867,12 +1883,6 @@ Cuando la terapia de conversión se hiciere contra persona menor de dieciocho a�
 
 > <small>(ADICIONADO, P.O.22 DE MAYO DE 2021)</small>
 
-## TITULO SEXTO.
-
-Delitos contra la dignidad y el desarrollo de las personas menores de edad o de quienes no tienen la capacidad para comprender el significado del hecho.
-
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)</small>
-
 ### CAPITULO IV. (SIC). Pederastia
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O.22 DE MAYO DE 2021)</small>
@@ -1927,6 +1937,10 @@ Al responsable de este delito se le impondrá pena de ocho a quince años de pri
 
 La pena prevista en el párrafo anterior se aumentará hasta en una mitad, en su mínimo y en su máximo, si la víctima perteneciere a algún pueblo o comunidad indígena o afromexicana.
 
+## TITULO SEPTIMO.
+
+Revelación de secretos.
+
 ### CAPITULO UNICO.
 
 203.- Se aplicará multa de cien a tres mil pesos o prisión de dos meses a un año, al que sin justa causa, con perjuicio de alguien y sin consentimiento del que pueda resultar perjudicado, revele algún secreto o comunicación reservada, que conoce o ha recibido con motivo de su empleo, cargo o puesto.
@@ -1935,9 +1949,11 @@ La pena prevista en el párrafo anterior se aumentará hasta en una mitad, en su
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
-## TITULO SEPTIMO.
+## TITULO OCTAVO.
 
-Revelación de secretos.
+Delitos por hechos de corrupción.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
 ### CAPITULO I.
 
@@ -1974,12 +1990,6 @@ Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confian
 206.- Para la individualización de las sanciones previstas en este Título, el juez tomará en cuenta, en su caso, el nivel jerárquico del servidor público y el grado de responsabilidad del encargo, su antigüedad en el empleo, sus antecedentes de servicio, sus percepciones, su grado de instrucción, la necesidad de reparar los daños y perjuicios causados por la conducta ilícita y las circunstancias especiales de los hechos constitutivos del delito. Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confianza será una circunstancia que podrá dar lugar a una agravación de la pena.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
-
-## TITULO OCTAVO.
-
-Delitos por hechos de corrupción.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
 ### CAPITULO I BIS.. Delitos contra la administración de justicia, cometidos por servidores públicos
 
@@ -2411,6 +2421,10 @@ II.- Estarán obligados a la reparación del daño por sus actos propios y por l
 
 221.- Igualmente serán responsables en la forma que previene el artículo 210 todos los que causen daños indebidos en el ejercicio de una profesión, o de un arte o actividad técnica.
 
+## TITULO NOVENO.
+
+Responsabilidad Profesional.
+
 ### CAPITULO II.
 
 Delitos de abogados, patronos y litigantes.
@@ -2426,10 +2440,6 @@ II.- Por abandonar la defensa de un cliente o negocio, sin motivo justificado y 
 III.- Al defensor de un inculpado, sea particular o de oficio, que sólo se concrete a aceptar el cargo y a solicitar la libertad caucional que menciona la fracción I del artículo 20 de la Constitución Federal, sin promover más pruebas ni dirigirlo en su defensa.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE OCTUBRE DE 2024)</small>
-
-## TITULO NOVENO.
-
-Responsabilidad Profesional.
 
 ### CAPITULO III.
 
@@ -2466,6 +2476,10 @@ II.- Al que enajene un sello, punzón o marca falsos, ocultando este vicio;
 III.- Al que procurándose los verdaderos sellos, punsones (sic) y marcas, haga uso indebido de ellos;
 
 IV.- Al que a sabiendas hiciere uso de los sellos o de algún otro de los objetos falsos de que habla el artículo anterior y las fracciones anteriores de éste.
+
+## TITULO DECIMO.
+
+Falsedad.
 
 ### CAPITULO II.
 
@@ -2526,10 +2540,6 @@ VI.- El que a sabiendas gestione, obtenga o haga uso para sí o para otro, de un
 > <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2021)</small>
 
 VII.- Al que obligue o coaccione a algún trabajador a firmar documentos en blanco, o de cualquier otro tipo que impliquen renuncia de los derechos del trabajador, o le imponga obligaciones a éste, con el fin de menoscabarlos o anularlos, ya sea que el trabajador labore en una empresa o institución pública o privada. En los casos que el patrón o empleador sea un servidor público, además de la sanción estipulada en el artículo 226 de este Código, se le destituirá del cargo.
-
-## TITULO DECIMO.
-
-Falsedad.
 
 ### CAPITULO III.
 
@@ -2956,6 +2966,10 @@ Delitos contra la intimidad sexual.
 Así como quien videograbe, audiograbe, fotografíe, imprima o elabore imágenes, audios o videos reales o simulados con contenido íntimo sexual de una persona a través del engaño y/o sin su consentimiento.
 
 Esta conducta se sancionará de cuatro a ocho años de prisión y multa de mil a dos mil veces el valor diario de la unidad de medida y actualización vigente al omento (sic) de que se cometa el delito. Este delito se perseguirá por querella.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+Se impondrán las mismas penas previstas en el tercer párrafo del presente artículo, a quien haciendo uso de la Inteligencia Artificial, manipule imágenes, audios o videos, de contenido íntimo sexual de una persona, para crear, hechos falsos con apariencia real, con el propósito de exponer, distribuir, difundir, exhibir, reproducir, transmitir, comercializar, ofertar, intercambiar y/o compartir a través de materiales impresos, correo electrónico, mensajes telefónicos, redes sociales o cualquier otro medio tecnológico, sin su consentimiento expreso, voluntario, genuino y deseado.
 
 Las mismas penas se aumentarán hasta en una mitad del máximo:
 
@@ -3739,6 +3753,12 @@ Este delito sólo se perseguirá por querella de la parte ofendida.
 
 > <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
 
+## TITULO DECIMO OCTAVO (SIC).
+
+Delitos contra la libertad y violación de otras garantías.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+
 ### CAPITULO II.
 
 Secuestro.
@@ -3804,12 +3824,6 @@ Si resultare otro delito en perjuicio o agravio de la víctima de secuestro, se 
 348 Bis B.- Al que realice un acto o actos simulados de secuestro tendentes a engañar a la autoridad o para obtener un lucro o causar un daño a un tercero, se le impondrá de dos a cuatro años de prisión y multa de cincuenta a cien veces el valor de la Unidad de Medida y Actualización vigente.
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 21 DE NOVIEMBRE DE 2008)</small>
-
-## TITULO DECIMO OCTAVO (SIC).
-
-Delitos contra la libertad y violación de otras garantías.
-
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
 
 ### CAPITULO III.
 
@@ -4599,16 +4613,6 @@ Delitos contra la Legitimidad de las Elecciones.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
 
-### CAPITULO II.
-
-Reglas Comunes.
-
-402.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2017)
-
-403.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2017)
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE OCTUBRE DE 2012)</small>
-
 ###### ARTÍCULO 388 Bis.
 
 Al que por cualquier sustancia o medio, realice inscripciones, dibujos, manchas, signos, símbolos, códigos, mensajes, figuras y pintas de todo tipo que alteren o modifiquen la forma original del bien mueble o inmueble de dominio público o privado, sin consentimiento del propietario o del representante legal o de quien legalmente posea la cosa, se le impondrá además de la reparación del daño, multa de treinta a trescientas veces el valor de la Unidad de Medida y Actualización vigente o prisión de seis meses a tres años.
@@ -4667,6 +4671,16 @@ Las excusas absolutorias contenidas en las fracciones I, III y IV no serán apli
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
 
+### CAPITULO II.
+
+Reglas Comunes.
+
+402.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2017)
+
+403.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2017)
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE OCTUBRE DE 2012)</small>
+
 ### CAPITULO I. Violencia familiar
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2024)</small>
@@ -4692,6 +4706,10 @@ V. Violencia sexual.- A toda acción u omisión que amenaza, pone en riesgo, les
 VI. Violencia contra los derechos reproductivos: A toda acción u omisión que limite o vulnere el derecho de las personas a decidir libre, responsable y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, a servicios de atención prenatal, servicios obstétricos de emergencia y servicios de interrupción legal y segura del embarazo en los casos permitidos por la ley.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE MARZO DE 2024)</small>
+
+## TITULO VIGESIMO SEGUNDO.. Delitos contra el derecho a una vida libre de violencia
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
 
 ### CAPITULO I BIS. Violencia Vicaria
 
@@ -4774,10 +4792,6 @@ En caso de determinarse el ejercicio de la acción penal, el Ministerio Público
 En caso de tratarse de que el ejercicio de la acción penal recaiga sobre un hombre, este deberá ser canalizado al Centro de Reeducación para Hombres que Ejercen Violencia contra las Mujeres, medida que en ningún caso excederá del tiempo impuesto en la pena de prisión independientemente de las sanciones que correspondan por cualquier otro delito.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
-
-## TITULO VIGESIMO SEGUNDO.. Delitos contra el derecho a una vida libre de violencia
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
 
 ### CAPITULO II
 
@@ -5059,6 +5073,10 @@ Cuando no sean comprobables el salario o los ingresos del deudor, la Jueza o el 
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2015)</small>
 
+## TÍTULO VIGÉSIMO TERCERO.. Delitos que atentan contra la obligación alimentaria
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+
 ### CAPITULO PRIMERO. Del Maltrato y la Crueldad Animal
 
 > <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
@@ -5119,9 +5137,9 @@ Podrá aplicarse como medida alterna de la sanción pecuniaria, que el sujeto ac
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
 
-## TÍTULO VIGÉSIMO TERCERO.. Delitos que atentan contra la obligación alimentaria
+## TITULO VIGESIMO CUARTO. De los Delitos cometidos contra la vida e integridad de los animales
 
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JULIO DE 2024)</small>
 
 ### CAPITULO SEGUNDO. De la Privación de la Vida
 
@@ -5138,10 +5156,6 @@ Se incrementará la sanción en un tercio a la señalada en el presente artícul
 Podrá aplicarse como medida alterna de la sanción pecuniaria, que el sujeto activo acuda a terapias psicológicas por el tiempo que la autoridad estime conveniente.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
-
-## TITULO VIGESIMO CUARTO. De los Delitos cometidos contra la vida e integridad de los animales
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JULIO DE 2024)</small>
 
 ### CAPÍTULO TERCERO. Del Abuso Sexual a los Animales
 
@@ -5224,6 +5238,86 @@ II. Cuando las conductas delictivas sean realizadas por persona o personas que h
 III. Cuando los datos o información contenida en un sistema informático o electrónico, se refieran a datos personales o datos personales sensibles, en términos de lo dispuesto por la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+## TITULO VIGESIMO QUINTO. Delitos contra la Libertad de Expresión
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+424.- Se aplicará la pena de seis meses a cuatro años de prisión y multa de cincuenta a doscientas unidades de medida de actualización:
+
+I. A quien por sí o por interpósita persona, utilizando la violencia física o moral, evite que se ejerza la actividad del periodista. Para efectos de esta fracción se entenderá por periodista toda persona que hace del ejercicio de las libertades de expresión y/o información su actividad principal o complementaria, entendida como la actividad de buscar y difundir información a la sociedad, y
+
+II. A quien por sí o por interpósita persona obstaculice, impida o por cualquier medio reprima la publicación, producción, distribución, circulación o difusión de algún medio de información escrito, impreso, digital o radiofónico.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+425.- Si quien realiza el acto fuera un servidor público se aumentará la sanción un año.
+
+Los delitos contenidos en este Título se perseguirán por querella.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+426.- Cuando se cometa un delito doloso en contra del cónyuge de un periodista o de sus parientes sin limitación de grado en línea recta o colateral hasta el cuarto grado, con la intención de obstaculizar, afectar, limitar o menoscabar el derecho a la información o las libertades de expresión o de imprenta, se aumentará hasta en un tercio la pena establecida para tal delito.
+
+En el caso anterior, se aumentará la pena hasta en una mitad cuando además el delito sea cometido por un servidor público en ejercicio de sus funciones.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+## TÍTULO VIGÉSIMO SEXTO. DELITOS EN MATERIA DE LAVADO DE ACTIVOS
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+427.- Se impondrá de cinco a quince años de prisión y de mil a cinco mil días multa al que, por sí o por interpósita persona:
+
+I. Convierta, transfiera o transporte recursos, derechos o bienes de cualquier naturaleza cuando tenga conocimiento de que proceden o representan el producto de actividad delictiva;
+
+II. Adquiera, posea, tenga, custodie, utilice, administre o invierta recursos, derechos o bienes de cualquier naturaleza cuando tenga conocimiento de que proceden o representan el producto de cualquier actividad delictiva, y
+
+III. Oculte, encubra o pretenda ocultar o encubrir la naturaleza, origen, ubicación, destino, movimiento, propiedad, titularidad o beneficiario final de recursos, derechos o bienes, cuando tenga conocimiento de que proceden o representan el producto de actividad delictiva;
+
+El conocimiento, la intención o finalidad requeridos como elementos subjetivos de las conductas previstas en este artículo podrán inferirse de indicios y de elementos objetivos directos o indirectos en cada caso.
+
+La actividad delictiva precedente deberá ser demostrada:
+
+a) Con la sentencia ejecutoriada del delito o delitos precedentes; o
+
+b) A través de indicios de dicha actividad y la acreditación de la inexistencia de la licitud del origen de los recursos, derechos o bienes de que se trate.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+428.- A quien mediante el asesoramiento a otro, fomente, preste ayuda, auxilie o colabore para la comisión de alguna de las conductas previstas en (sic) artículo 427 de este Código, se le aplicará de tres a diez años de prisión y de treinta a cien días multa, sin perjuicio de las sanciones que correspondan de otra índole de la penal.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+429.- Las penas previstas en este Capítulo se duplicaran, si la conducta es cometida por servidores públicos encargados de prevenir, detectar, denunciar, investigar o juzgar la comisión de delitos o ejecutar las sanciones penales, así como a los ex servidores públicos encargados de tales funciones que cometan dicha conducta en los dos años posteriores a su terminación. Además, se les impondrá inhabilitación para desempeñar empleo, cargo o comisión hasta por un tiempo igual al de la pena de prisión impuesta. La inhabilitación comenzará a correr a partir de que se haya cumplido la pena de prisión.
+
+Asimismo, las penas previstas en este Capítulo se aumentaran hasta en una mitad si quien realice cualquiera de las conductas previstas en este título utiliza a personas menores de dieciocho años de edad o personas que no tienen capacidad para comprender el significado del hecho o que no tiene capacidad para resistirlo.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+430.- Se impondrá de tres a diez años de prisión y de ochocientos a dos mil seiscientos días multa, a quien ponga a nombre de terceros recursos, derechos, valores o bienes provenientes de un delito para llevar a cabo la ocultación de estos aun cuando los terceros no tengan conocimiento de la procedencia delictiva de los recursos, derechos, valores o bienes.
+
+La misma sanción se impondrá a quien permita que se pongan bajo su nombre recursos, derechos, valores o bienes que procedan o representen el producto de actividad delictiva.
+
+El conocimiento de la actividad delictiva y la existencia de la misma se acreditarán conforme lo dispone el artículo 427.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+431.- Tratándose de la comisión por culpa grave de los delitos previstos en el artículo 427 se impondrá una pena de cuatro a catorce años de prisión y de quin entos (sic) a tres mil días multa.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+432.- Cuando la persona que realiza los actos jurídicos descritos en este título, revele a la autoridad competente la identidad de quien haya aportado los recursos o de quien se conduzca como dueño, la pena podrá ser reducida hasta en una tercera parte de la misma, sin detrimento de la aplicación de soluciones alternas o anticipadas de naturaleza procesal.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+433.- Procederá Igualmente la reducción de la pena señalada en el artículo precedente por la comisión de los delitos descritos en el presente título si la persona imputada por los mismos aporta información suficiente y eficaz para la recuperación de los recursos, derechos o bienes producto, objeto o instrumento de dichos delitos. El beneficio de la reducción de la pena se hará efectivo en tanto hubiese concluido satisfactoriamente el procedimiento correspondiente de recuperación patrimonial.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE FEBRERO DE 2020)</small>
+
+## TITULO VIGESIMO SEPTIMO.
+
+> <small>(ADICIONADO LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE FEBRERO DE 2020)</small>
 
 ### CAPITULO UNICO
 
@@ -5411,85 +5505,9 @@ El juez tomará en cuenta para la determinación del daño causado en materia am
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MARZO DE 2023)</small>
 
-## TITULO VIGESIMO QUINTO. Delitos contra la Libertad de Expresión
+## TITULO VIGESIMO OCTAVO. DELITOS CONTRA EL AMBIENTE
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-424.- Se aplicará la pena de seis meses a cuatro años de prisión y multa de cincuenta a doscientas unidades de medida de actualización:
-
-I. A quien por sí o por interpósita persona, utilizando la violencia física o moral, evite que se ejerza la actividad del periodista. Para efectos de esta fracción se entenderá por periodista toda persona que hace del ejercicio de las libertades de expresión y/o información su actividad principal o complementaria, entendida como la actividad de buscar y difundir información a la sociedad, y
-
-II. A quien por sí o por interpósita persona obstaculice, impida o por cualquier medio reprima la publicación, producción, distribución, circulación o difusión de algún medio de información escrito, impreso, digital o radiofónico.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-425.- Si quien realiza el acto fuera un servidor público se aumentará la sanción un año.
-
-Los delitos contenidos en este Título se perseguirán por querella.
-
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-426.- Cuando se cometa un delito doloso en contra del cónyuge de un periodista o de sus parientes sin limitación de grado en línea recta o colateral hasta el cuarto grado, con la intención de obstaculizar, afectar, limitar o menoscabar el derecho a la información o las libertades de expresión o de imprenta, se aumentará hasta en un tercio la pena establecida para tal delito.
-
-En el caso anterior, se aumentará la pena hasta en una mitad cuando además el delito sea cometido por un servidor público en ejercicio de sus funciones.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-## TÍTULO VIGÉSIMO SEXTO. DELITOS EN MATERIA DE LAVADO DE ACTIVOS
-
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-427.- Se impondrá de cinco a quince años de prisión y de mil a cinco mil días multa al que, por sí o por interpósita persona:
-
-I. Convierta, transfiera o transporte recursos, derechos o bienes de cualquier naturaleza cuando tenga conocimiento de que proceden o representan el producto de actividad delictiva;
-
-II. Adquiera, posea, tenga, custodie, utilice, administre o invierta recursos, derechos o bienes de cualquier naturaleza cuando tenga conocimiento de que proceden o representan el producto de cualquier actividad delictiva, y
-
-III. Oculte, encubra o pretenda ocultar o encubrir la naturaleza, origen, ubicación, destino, movimiento, propiedad, titularidad o beneficiario final de recursos, derechos o bienes, cuando tenga conocimiento de que proceden o representan el producto de actividad delictiva;
-
-El conocimiento, la intención o finalidad requeridos como elementos subjetivos de las conductas previstas en este artículo podrán inferirse de indicios y de elementos objetivos directos o indirectos en cada caso.
-
-La actividad delictiva precedente deberá ser demostrada:
-
-a) Con la sentencia ejecutoriada del delito o delitos precedentes; o
-
-b) A través de indicios de dicha actividad y la acreditación de la inexistencia de la licitud del origen de los recursos, derechos o bienes de que se trate.
-
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-428.- A quien mediante el asesoramiento a otro, fomente, preste ayuda, auxilie o colabore para la comisión de alguna de las conductas previstas en (sic) artículo 427 de este Código, se le aplicará de tres a diez años de prisión y de treinta a cien días multa, sin perjuicio de las sanciones que correspondan de otra índole de la penal.
-
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-429.- Las penas previstas en este Capítulo se duplicaran, si la conducta es cometida por servidores públicos encargados de prevenir, detectar, denunciar, investigar o juzgar la comisión de delitos o ejecutar las sanciones penales, así como a los ex servidores públicos encargados de tales funciones que cometan dicha conducta en los dos años posteriores a su terminación. Además, se les impondrá inhabilitación para desempeñar empleo, cargo o comisión hasta por un tiempo igual al de la pena de prisión impuesta. La inhabilitación comenzará a correr a partir de que se haya cumplido la pena de prisión.
-
-Asimismo, las penas previstas en este Capítulo se aumentaran hasta en una mitad si quien realice cualquiera de las conductas previstas en este título utiliza a personas menores de dieciocho años de edad o personas que no tienen capacidad para comprender el significado del hecho o que no tiene capacidad para resistirlo.
-
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-430.- Se impondrá de tres a diez años de prisión y de ochocientos a dos mil seiscientos días multa, a quien ponga a nombre de terceros recursos, derechos, valores o bienes provenientes de un delito para llevar a cabo la ocultación de estos aun cuando los terceros no tengan conocimiento de la procedencia delictiva de los recursos, derechos, valores o bienes.
-
-La misma sanción se impondrá a quien permita que se pongan bajo su nombre recursos, derechos, valores o bienes que procedan o representen el producto de actividad delictiva.
-
-El conocimiento de la actividad delictiva y la existencia de la misma se acreditarán conforme lo dispone el artículo 427.
-
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-431.- Tratándose de la comisión por culpa grave de los delitos previstos en el artículo 427 se impondrá una pena de cuatro a catorce años de prisión y de quin entos (sic) a tres mil días multa.
-
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-432.- Cuando la persona que realiza los actos jurídicos descritos en este título, revele a la autoridad competente la identidad de quien haya aportado los recursos o de quien se conduzca como dueño, la pena podrá ser reducida hasta en una tercera parte de la misma, sin detrimento de la aplicación de soluciones alternas o anticipadas de naturaleza procesal.
-
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-433.- Procederá Igualmente la reducción de la pena señalada en el artículo precedente por la comisión de los delitos descritos en el presente título si la persona imputada por los mismos aporta información suficiente y eficaz para la recuperación de los recursos, derechos o bienes producto, objeto o instrumento de dichos delitos. El beneficio de la reducción de la pena se hará efectivo en tanto hubiese concluido satisfactoriamente el procedimiento correspondiente de recuperación patrimonial.
-
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE FEBRERO DE 2020)</small>
-
-## TITULO VIGESIMO SEPTIMO.
-
-> <small>(ADICIONADO LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE FEBRERO DE 2020)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2022)</small>
 
 ### CAPITULO UNICO. La esterilización forzada, procreación asistida e inseminación artificial sin consentimiento
 
@@ -5532,10 +5550,6 @@ III. En el supuesto de que el delito se realice con violencia física o moral o 
 Cuando la víctima sea mayor de edad el delito se perseguirá por querella.
 
 ARTICULOS TRANSITORIOS:
-
-## TITULO VIGESIMO OCTAVO. DELITOS CONTRA EL AMBIENTE
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2022)</small>
 
 ## TITULO VIGESIMO NOVENO. Delitos contra la libertad reproductiva
 
@@ -6774,3 +6788,13 @@ P.O. 11 DE OCTUBRE DE 2025.
 PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 876.- MEDIANTE EL CUAL ADICIONA EL CAPÍTULO X “INTELIGENCIA ARTIFICIAL” AL TÍTULO CUARTO “PUNIBILIDADES COMPLEMENTARIAS” QUE CONTIENE EL ARTÍCULO 72 BIS, Y EL PÁRRAFO CUARTO AL ARTÍCULO 249 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su Publicación.
+
+TERCERO. Quedan sin efecto todas aquellas disposiciones contrarias al presente Decreto
