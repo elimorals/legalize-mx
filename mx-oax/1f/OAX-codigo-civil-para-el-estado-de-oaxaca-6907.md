@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2022-10-29"
+last_updated: "2025-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2025.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -163,6 +163,10 @@ La capacidad jurídica de las personas físicas se adquiere por el nacimiento y 
 
 La minoría de edad, el estado de Interdicción y demás incapacidades establecidas por la Ley, son restricciones a la personalidad jurídica que no deben menoscabar la dignidad de la persona ni atentar contra la integridad de la familia; pero los incapaces pueden ejercitar sus derechos o contraer obligaciones por medio de sus representantes.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+No obstante, lo dispuesto en el párrafo precedente, se establece una excepción en cuanto al registro de nacimiento de los hijos e hijas de madre, padre o ambos menores de edad, en el que la minoría de edad no constituirá un impedimento para la inscripción, en virtud de que dicho acto tiene por objeto privilegiar el derecho a la identidad, y el ejercicio de los derechos fundamentales desde el momento del nacimiento. Esta excepción no afectará la aplicación de las restricciones derivadas de la minoría de edad en otros procedimientos del registro civil, los cuales continuarán sujetos a las limitaciones establecidas por las disposiciones legales aplicables.
+
 ###### Artículo 23.
 
 El mayor de edad tiene la facultad de disponer libremente de su persona y de sus bienes, salvo las limitaciones que establece la ley.
@@ -293,17 +297,17 @@ Corresponde al Ejecutivo Estatal la función registral, quien la ejercerá por c
 
 Las inscripciones hechas en el Registro Civil tienen validez plena y surten sus efectos legales desde el momento de su realización, salvo disposición legal en contrario.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 37.
 
-La Institución del Registro Civil orgánicamente se integra por: La Dirección, las Oficialías, el archivo central y demás unidades administrativas que determine su reglamento interior, quienes tienen las funciones que se establecen en el presente Código y en el Reglamento del Registro Civil.
+La Institución del Registro Civil orgánicamente se integra por: La Dirección, las Oficialías, el archivo central y demás unidades administrativas, quienes tienen las funciones que se establecen en el presente Código y en las demás disposiciones normativas aplicables en la materia.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 38.
 
-El Ejecutivo del Estado, mediante acuerdo, determinará el número y ubicación de las Oficialías del Registro Civil en el Territorio de la Entidad. La jurisdicción de las mismas se determinará conforme lo establezca el reglamento interior.
+El Ejecutivo del Estado, mediante acuerdo, determinará el número y ubicación de las Oficialías del Registro Civil en el Territorio de la Entidad. La jurisdicción de las mismas se determinará conforme lo establezcan las disposiciones normativas aplicables en la materia.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -319,11 +323,11 @@ Los Oficiales del Registro Civil serán nombrados por el Gobernador del Estado a
 
 Corresponde a los Oficiales del Registro Civil, autorizar los actos del estado civil de las personas, extender las actas relativas al nacimiento, reconocimiento de hijos, adopción, tutela, matrimonio, divorcio, defunción, declaración de ausencia, presunción de muerte, pérdida o limitación de la capacidad legal para administrar bienes, y levantamiento de una nueva acta para el reconocimiento de identidad de género.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 40.
 
-En el asentamiento de las actas del Registro Civil, intervendrán: El Oficial del Registro Civil que autoriza y dá fé, los particulares o apoderados y los testigos que corroboren el dicho de los interesados, con excepción de estos últimos, en los casos de inscripción de resoluciones judiciales.
+En el asentamiento de las actas del Registro Civil, intervendrán: El Oficial del Registro Civil que autoriza y da fe, y los particulares o apoderados intervinientes en el acto.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -357,13 +361,13 @@ II. Tanto el número ordinal como el de las fechas o cualquier otro, se escribir
 
 III. No se emplearán abreviaturas al asentarse nombres de personas físicas;
 
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2025)</small>
 
-IV. No se hará raspadura alguna ni tampoco se permitirá borrar lo escrito. Cuando sea necesario testar alguna palabra se pasará sobre ella una línea de manera que quede legible. En el caso del Artículo 385 primer párrafo, la testadura se hará por completo advirtiéndose al final del acta la causa por que se ha hecho. La infracción de esta disposición se sancionará conforme lo establezca el reglamento interior;
+IV. No se hará raspadura alguna ni tampoco se permitirá borrar lo escrito. Cuando sea necesario testar alguna palabra se pasará sobre ella una línea de manera que quede legible. En el caso del Artículo 385 primer párrafo, la testadura se hará por completo advirtiéndose al final del acta la causa por que se ha hecho. La infracción de esta disposición se sancionará conforme lo establezcan las disposiciones normativas aplicables en la materia;
 
 V. Al fin de cada acta se salvará con toda claridad lo entrerrenglonado y testado;
 
-VI. Los testigos que intervengan en las actas del Registro Civil serán mayores de edad, prefiriéndose los que designen los interesados aun cuando sean sus parientes, asentándose en el acta su nombre, edad, domicilio y nacionalidad;
+VI. (DEROGADA, P.O. 13 DE DICIEMBRE DE 2025)
 
 VII. Extendida el acta, ésta será leída por el Oficial del Registro Civil a los interesados y testigos; la firmarán todos y si alguno no puede hacerlo imprimirá su huella en el espacio expresamente señalado en el formato. También se expresará que el acta fue leída y quedaron conformes los interesados con su contenido. El Oficial entregará un tanto del acta al interesado;
 
@@ -371,11 +375,11 @@ VIII. Si alguno de los interesados quisiera imponerse por sí mismo del tenor de
 
 IX. Los Apuntes dados por los interesados y los documentos que presenten se anotarán poniéndoles el número del acta y el sello del registro y se agregarán al apéndice respectivo.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 45.
 
-Si el acto comenzado se entorpeciere porque las partes se nieguen a continuarlo, o por cualquier otro motivo, se inutilizará el acta marcándola con dos líneas transversales y expresándose el motivo por el que se suspendió, razón que deberán firmar el Oficial del Registro Civil, los interesados y los testigos.
+Si el acto comenzado se entorpeciere porque las partes se nieguen a continuarlo, o por cualquier otro motivo, se inutilizará el acta marcándola con dos líneas transversales y expresándose el motivo por el que se suspendió, razón que deberán firmar el Oficial del Registro Civil y los interesados.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
@@ -389,7 +393,9 @@ La falsificación, alteración o enmienda de propia autoridad, de las actas del 
 
 No podrá asentarse en las actas ni por vía de nota o advertencia sino lo que deba ser declarado para el acto preciso a que ellas se refieren y lo que esté expresamente prevenido.
 
-Las anotaciones hechas en contravención a esta disposición, se tendrán por no puestas y harán incurrir al Oficial del Registro Civil, en las penas que el Reglamento establezca.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+Las anotaciones hechas en contravención a esta disposición, se tendrán por no puestas y harán incurrir al Oficial del Registro Civil, en las penas que establezcan las disposiciones normativas aplicables en la materia.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -397,9 +403,13 @@ Las anotaciones hechas en contravención a esta disposición, se tendrán por no
 
 Con las actas del Registro Civil se integrará un legajo que contará con un apéndice. Este apéndice estará constituido por todos los documentos relacionados con el acto registrado, los que se relacionarán con el número de control de las Actas respectivas.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 49.
 
-Si se perdiere o destruyere alguna de las Actas del Registro Civil, se sacará inmediatamente copia de los otros ejemplares existentes, bajo la responsabilidad del funcionario titular del lugar donde ocurra la pérdida, quien dará aviso a los que tengan los otros ejemplares. Esta reposición se hará en la forma que establezca el reglamento respectivo.
+Si se perdiere o destruyere alguna de las Actas del Registro Civil, se sacará inmediatamente copia de los otros ejemplares existentes, bajo la responsabilidad del funcionario titular del lugar donde ocurra la pérdida, quien dará aviso a los que tengan los otros ejemplares.
+
+Esta reposición se hará en la forma que establezcan las disposiciones normativas aplicables en la materia.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -419,9 +429,9 @@ Los formatos del Registro Civil serán autorizados y distribuidos anualmente por
 
 Toda persona puede solicitar certificación de datos y/o fotocopia certificada de las actas del Registro Civil. El Director, los Oficiales del Registro Civil y el Jefe del Archivo Central están obligados a expedirlas, de manera inmediata y sin mayor impedimento y dilación que las establecidas en el presente código, así como aquellas relativas a los documentos del apéndice, pudiéndose utilizar para tal efecto la firma autógrafa de los servidores públicos o la firma facsimilar digitalizada. El Estado garantizará la certeza de los actos que se validen con el uso de la firma facsimilar digitalizada y sancionará el incumplimiento de esta disposición.
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
 
-Ninguna otra autoridad, podrá expedir certificaciones de las actas del Registro Civil, salvo lo dispuesto por el Reglamento Interior.
+Ninguna otra autoridad, podrá expedir certificaciones de las actas del Registro Civil, salvo lo dispuesto por las disposiciones normativas aplicables.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
@@ -433,11 +443,11 @@ El estado civil de las personas sólo se comprueba con las actas y sus certifica
 
 Las actas relativas al estado civil de las personas que sean expedidas en los términos establecidos en este Código, gozarán de manera permanente de validez ante todas las autoridades del Estado, siempre y cuando se encuentren legibles por lo que ninguna autoridad podrá negar darle valor jurídico a dichas actas so pretexto de no encontrarse actualizada la fecha de expedición o el formato respectivo.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 54.
 
-Para establecer el estado civil adquirido por los mexicanos fuera de la República, bastarán las constancias que los interesados presenten en los actos relativos, sujetándose a lo previsto en el Código Federal de Procedimientos Civiles en cuanto a su legalización, debiendo insertarse en el formato correspondiente que para ese efecto se autorice en la Oficialía del Registro Civil en cuya jurisdicción se encuentre el domicilio del interesado.
+Para establecer el estado civil adquirido por los mexicanos fuera de la República, bastarán las constancias que los interesados presenten en los actos relativos, sujetándose a lo previsto en el Código Nacional de Procedimientos Civiles y Familiares en cuanto a su legalización, debiendo insertarse en el formato correspondiente que para ese efecto se autorice en la Oficialía del Registro Civil.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -479,11 +489,11 @@ Se hará referencia de las anotaciones que modifiquen el estado civil de las per
 
 Los actos y actas del estado civil del propio Oficial, de su cónyuge, ascendientes y descendientes de cualquiera de ellos, no podrán autorizarse por el mismo Oficial. Se asentarán en las formas correspondientes autorizadas por el sustituto legal.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 61.
 
-En los Municipios en los que no exista Oficial del Registro Civil, los Presidentes Municipales auxiliarán a los Oficiales de Registro Civil a cuya jurisdicción pertenezcan en el registro de Nacimientos, Defunciones y en la recepción de solicitudes de divorcios administrativos, sujetándose a las disposiciones de la presente Ley y su Reglamento.
+En los Municipios en los que no exista Oficial del Registro Civil, los Presidentes Municipales auxiliarán a los Oficiales de Registro Civil a cuya jurisdicción pertenezcan en el registro de Nacimientos, Defunciones y en la recepción de solicitudes de divorcios administrativos, sujetándose a las disposiciones de la presente Ley y en las demás disposiciones normativas aplicables en la materia.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -507,11 +517,11 @@ Para el trámite de los actos a que se refiere el artículo anterior, los intere
 
 Para la validez de los actos a que se refieren los dos artículos anteriores, es requisito esencial que en las actas respectivas se mencione la autorización concedida para levantarlas.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 65.
 
-La Dirección del Registro Civil supervisará las actuaciones de los Oficiales del Registro Civil conforme a las disposiciones del presente Código y aquellas que establezca el Reglamento del Registro Civil.
+La Dirección del Registro Civil supervisará las actuaciones de los Oficiales del Registro Civil conforme a las disposiciones del presente Código y aquellas que establezcan las demás disposiciones normativas aplicables en la materia.
 
 (REUBICADO, P.O. 20 DE FEBRERO DE 1982)
 
@@ -531,6 +541,10 @@ En los lugares donde no existan instituciones de salud cercanas o el parto fuera
 
 En los casos que el parto fuera asistido por partera tradicional, esta podrá extender una constancia de alumbramiento, que deberá contener día, hora, lugar de nacimiento, maternidad y sexo de la o el nacido, la cual no sustituye la constancia de nacimiento expedida por la autoridad municipal.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+En casos donde exista conflicto entre el municipio y sus autoridades auxiliares, y se acredite temor fundado de que la vida, integridad o seguridad de los declarantes de un nacimiento esté en peligro, las autoridades auxiliares tendrán facultad para emitir constancias de alumbramiento con validez provisional, la cual deberá ser presentada ante el Oficial del Registro Civil para los trámites correspondientes.
+
 > <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2022)</small>
 
 La Dirección del Registro Civil, para garantizar el derecho a la identidad, realizará de manera gratuita el registro de nacimiento de niñas y niños. Los oficiales del Registro Civil tendrán la obligación de expedir sin costo las dos primeras copias certificadas del acta de nacimiento.
@@ -541,11 +555,13 @@ La Dirección del Registro Civil, para garantizar el derecho a la identidad, rea
 
 La vigencia de las actas de nacimiento y las copias certificadas de las mismas que expida el registro civil y se encuentren en buen estado, sin tachaduras, borraduras o enmiendas y legibles, no estarán sujetos a plazo de caducidad alguna y los datos asentados en ellas se presumirán actualizados, salvo prueba en contrario.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 67.
 
-Tienen obligación de declarar el nacimiento el padre y la madre o cualquiera de ellos, a falta de estos, los abuelos, dentro de los ciento ochenta días de ocurrido. Si el menor no es registrado dentro de ese plazo, y hasta los seis años, el registro se considerará extemporáneo y se realizará previa autorización emitida en los términos establecidos por el reglamento del registro civil.
+Tienen la obligación de declarar el nacimiento la madre y el padre o cualquiera de ellos, a falta de estos, los abuelos, dentro del plazo de un día de nacido hasta antes de los 18 años cumplidos. Si el menor no es registrado dentro de este plazo, el registro se considerará extemporáneo y se realizará previo acuerdo de procedencia emitido por el Oficial del Registro Civil quien se cerciorará de la identidad de la persona, su no registro, así como del lugar de su nacimiento, conforme a la normativa aplicable a la materia.
+
+Tratándose de la madre o padre mexicanos residentes en el extranjero podrán registrar a su hijo o hijos menores de edad, mediante instrumento notarial otorgado en Oficina Consular Mexicana con los requisitos previstos en la normativa aplicable, deberá presentarlo ante el Oficial del Registro Civil para los trámites correspondientes.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
@@ -575,7 +591,9 @@ VII. La razón de si se ha presentado vivo o muerto;
 
 VIII. El nombre, edad, ocupación, domicilio y nacionalidad de los padres;
 
-IX. El nombre, domicilio y nacionalidad de los abuelos paternos y maternos y de los testigos;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+IX. El nombre, domicilio y nacionalidad de los abuelos paternos y maternos.
 
 X. El nombre, edad, ocupación, domicilio y nacionalidad de la persona distinta de los padres que haga la presentación, en su caso, y el grado de parentesco del registrado con esta última, y aquellos datos precisados en disposiciones legales o convenios expresos firmados sobre el particular por el Ejecutivo Estatal y otras dependencias oficiales.
 
@@ -653,11 +671,11 @@ En las actas que se asienten en los casos a que se refiere el artículo anterior
 
 Si con el expósito se hubiere encontrado papeles, alhajas u otros objetos que puedan conducir al reconocimiento de aquél, quedarán bajo la custodia del Ministerio Público, quien dará a la persona o institución ante quien se haya expuesto o que lo haya encontrado, copia del acta de averiguación y formal recibo de los objetos, documentos o alhajas encontrados con él.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 77.
 
-Se prohibe al Oficial del Registro Civil y a los testigos que conforme al Artículo 68, deban asistir al acto, hacer inquisición sobre la paternidad o maternidad. En el acta sólo se expresará lo que deban declarar las personas que presenten al niño, aunque parezcan sospechosas de falsedad, sin perjuicio de que estas sean castigadas conforme a las prescripciones del Código Penal.
+Se prohíbe al Oficial del Registro Civil hacer investigación sobre la paternidad o maternidad. En el acta sólo se expresará lo que deban declarar las personas que presenten al niño, aunque parezcan sospechosas de falsedad, sin perjuicio de que estas sean sancionadas conforme a las prescripciones del Código Penal.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -708,6 +726,14 @@ En los casos de sentencia judicial de reconocimiento de paternidad bastará la p
 ###### Artículo 84.
 
 En el Acta de Reconocimiento que se extienda con posterioridad a la del nacimiento correspondiente, se harán las anotaciones correspondientes en el acta de nacimiento original y deberá levantarse nueva acta de nacimiento en términos de lo dispuesto por el artículo 81.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+En caso de reconocimiento, se asentarán los apellidos en el orden que hayan acordado los progenitores mediante documento expreso que así lo acredite.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+El orden de los apellidos acordados se considerará para los demás hijas e hijos del mismo vínculo.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
@@ -851,9 +877,9 @@ I. Copia Certificada del Acta de Nacimiento o de algún documento expedido por A
 
 II. Certificado de estar o no inscrito en el Registro de Deudores Alimentarios morosos;
 
-III. La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
+III. (DEROGADA, P.O. 13 DE DICIEMBRE DE 2025)
 
-IV. Certificado suscrito por un Médico Titulado que asegure, bajo protesta de decir verdad, que los pretendientes no padecen sífilis, tuberculosis, ni enfermedad alguna crónica e incurable, que sea, además, contagiosa o hereditaria;
+IV. (DEROGADA, P.O. 13 DE DICIEMBRE DE 2025)
 
 V. El convenio que los pretendientes celebren con relación a sus bienes presentes y a los que adquieran durante el matrimonio cuando éste se contraiga bajo el régimen de sociedad voluntaria o de separación de bienes.
 
@@ -891,13 +917,11 @@ El Oficial del Registro Civil a quien se presente una solicitud de matrimonio qu
 
 El matrimonio se celebrará en público, dentro de los ocho días siguientes a la fecha de la solicitud que resulte procedente, en el lugar, día y hora que señale el Oficial del Registro Civil.
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 104.
 
-En el lugar, día y hora designados para la celebración del matrimonio, deberán estar presentes ante el Oficial del Registro Civil, los pretendientes o su apoderado especial constituido en escritura pública y los testigos que acrediten su identidad.
-
-Acto continuo, el Oficial del Registro Civil leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas e interrogarán a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo, podrá hacérsele saber sobre la igualdad de género, que los efectos del matrimonio recaen de manera igualitaria en ambos cónyuges tanto en el hogar como en la educación de sus descendientes, así mismo les informará sobre la naturaleza del matrimonio. En seguida preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio y si están conformes, los declarará unidos en nombre de la Ley y de la Sociedad.
+En el lugar, día y hora designados para la celebración del matrimonio, deberán estar presentes ante el Oficial del Registro Civil, los pretendientes o su apoderado especial constituido en escritura pública que acredite dicha calidad.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -923,7 +947,7 @@ VI. La declaración de los pretendientes de ser su voluntad unirse en matrimonio
 
 VII. La manifestación de los cónyuges de que contraen matrimonio bajo el régimen de sociedad conyugal o de separación de bienes;
 
-VIII. Los nombres, apellidos, edad, nacionalidad y domicilio de los testigos, así como su declaración sobre si son o no parientes de los contrayentes;
+VIII. (DEROGADA, P.O. 13 DE DICIEMBRE DE 2025).
 
 IX. Que se cumplieron las formalidades exigidas por el Artículo anterior.
 
@@ -985,11 +1009,9 @@ El Oficial del Registro Civil que sin motivo justificado retarde la celebración
 
 El Oficial del Registro Civil que reciba una solicitud de matrimonio, está plenamente autorizado para exigir de los pretendientes, bajo protesta de decir verdad todas las declaraciones que estime convenientes, a fin de asegurarse de su identidad y de su aptitud para contraer matrimonio.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
-
 ###### Artículo 115.
 
-También podrá exigir declaración bajo protesta a los testigos que los interesados presenten y a las personas que figuren como padres o tutores de los pretendientes, así como a los Médicos que suscriban el Certificado exigido en la Fracción IV del artículo 100 de este Código.
+(DEROGADO, P.O. 13 DE DICIEMBRE DE 2025)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE AGOSTO DE 2021)</small>
 
@@ -1095,11 +1117,11 @@ Ninguna inhumación o incineración se hará sin autorización escrita dada por 
 
 Toda inhumación o incineración se hará en los sitios oficialmente autorizados para ese fin, salvo que la autoridad competente autorice el depósito de las cenizas en lugar distinto y conveniente.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 122.
 
-En el acta de defunción se asentarán los datos que el Oficial del Registro Civil adquiera, le sean proporcionados o declarados y será firmada por dos testigos, prefiriéndose para el caso, los parientes si los hay, o los vecinos.
+En el acta de defunción se asentarán los datos que el Oficial del Registro Civil adquiera, le sean proporcionados o declarados y será firmada por el Oficial del Registro Civil y el declarante. La inscripción de defunción será totalmente gratuita.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -1111,7 +1133,7 @@ I. El nombre, apellido, edad, ocupación, nacionalidad, sexo y domicilio que tuv
 
 II. El estado civil de este último, y si era casado, el nombre y apellido de su cónyuge;
 
-III. Los nombres, apellidos, edad y domicilio de los testigos, y si fueren parientes, el grado en que lo sean;
+III. (DEROGADA, P.O. 13 DE DICIEMBRE DE 2025)
 
 IV. Los nombres de los padres del difunto si se supieren;
 
@@ -1143,11 +1165,11 @@ En los casos de inundación, naufragio, incendio o cualquier otro siniestro en q
 
 Cuando el Oficial del Registro Civil o quien haga sus veces, reciba la constancia a que se refiere el Artículo 125 del Código Civil de la Ciudad de México en vigor sobre la defunción de alguna persona, ocurrida en el mar, procederá a levantar el acta correspondiente, archivando el documento extendido por el Capitán o Patrono de la embarcación y anotándolo con el número que corresponda al acta en el apéndice correspondiente.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 128.
 
-Cuando alguno tenga que inhumarse en lugar distinto del de su fallecimiento, se remitirá al Oficial del Registro Civil del lugar donde deba efectuarse la inhumación, copia del acta respectiva para que la transcriba en el formato correspondiente. El remitente anotará la remisión al margen del acta original.
+Cuando alguno tenga que inhumarse en lugar distinto del de su fallecimiento, se remitirá al Oficial del Registro Civil del lugar donde deba efectuarse la inhumación, copia del acta respectiva para la expedición del documento de inhumación correspondiente.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -1161,11 +1183,11 @@ El Jefe de cualquier cuerpo o destacamento Militar o de Policía, tiene obligaci
 
 En todos los casos de muerte en las prisiones o en las casas de detención, no se hará en los registros mención de estas circunstancias y las actas solamente contendrán los requisitos que establece el Artículo 123 del presente Código.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 131.
 
-Si por haber ocurrido la muerte en despoblado, o por cualquier otro motivo no se hubiere levantado oportunamente el acta de defunción, los interesados o el Ministerio Público promoverán información testimonial ante el Juez del lugar en que haya acaecido la defunción y con esas diligencias el Oficial del Registro Civil levantará el acta omitida.
+Si por haber ocurrido la muerte en despoblado, o por cualquier otro motivo no se hubiere levantado oportunamente el acta de defunción, un familiar en línea recta y/o colateral hasta el tercer grado podrá efectuar una comparecencia manifestando bajo protesta de decir verdad, las circunstancias por las que no se efectuó el registro, ante el Oficial del Registro Civil quien realizará las diligencias correspondientes para levantar el acta omitida.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -1205,9 +1227,9 @@ Cuando se recupere la capacidad legal para administrar bienes y la patria potest
 
 La rectificación o modificación de un Acta del Estado Civil podrá hacerse en la vía administrativa o en la judicial.
 
-> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
 
-En materia de reconocimiento de identidad de género, el procedimiento será por la vía administrativa, pudiendo realizarse ante la Oficialía del Registro Civil que corresponda en los términos del Reglamento Interno.
+En materia de reconocimiento de identidad de género, el procedimiento será por la vía administrativa, pudiendo realizarse ante la Oficialía del Registro Civil que corresponda en los términos de las disposiciones normativas aplicables.
 
 > <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2022)</small>
 
@@ -1249,9 +1271,15 @@ Las personas que requieran el reconocimiento de su identidad de género, deberá
 
 Los efectos de la nueva acta de nacimiento para la identidad de género realizados, serán oponibles a terceros desde su levantamiento.
 
-El reconocimiento respectivo se llevará a cabo ante la Oficialía del Registro Civil que corresponda, cumpliendo todas las formalidades que exige el Reglamento.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+El reconocimiento respectivo se llevará a cabo ante la Oficialía del Registro Civil que corresponda, cumpliendo todas las formalidades que exigen las disposiciones normativas aplicables.
 
 Los derechos y obligaciones contraídos con anterioridad al proceso para el reconocimiento de identidad de género y a la expedición de la nueva acta, no se modifican ni se extinguen con la nueva identidad jurídica de la persona, incluidos los provenientes de las relaciones propias del derecho de familia en todos sus órdenes y grados, los que se mantendrán inmodificables.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+La reversión del reconocimiento de identidad de género, se substanciará mediante procedimiento formal y materialmente administrativo ante la dirección del registro civil. La resolución del procedimiento no modificará, extinguirá ni suspenderá relaciones jurídicas, obligaciones, derechos o responsabilidades previamente adquiridas por la persona.
 
 > <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2019)</small>
 
@@ -1263,11 +1291,11 @@ I. Solicitud debidamente requisitada;
 
 II. Copia certificada del acta de nacimiento primigenia para efecto de que se haga la reserva correspondiente;
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2025)</small>
 
-III. Original y copia fotostática de su identificación oficial, excepto cuando se trate de menores de edad, en cuyo caso se deberá presentar la identificación del padre, la madre o persona que tenga la custodia legal y;
+III . En caso de madres o padres no presentes, atendiendo a la evolución de la autonomía de las personas adolescentes, se deberá manifestar bajo protesta de decir verdad que dicha persona está ausente, desaparecido o lo que determine las disposiciones normativas aplicables;
 
-IV. Comprobante de domicilio.
+IV. (DEROGADA, P.O. 13 DE DICIEMBRE DE 2025
 
 El proceso se realizará por escrito ante la Oficialía del Registro Civil competente.
 
@@ -1373,15 +1401,13 @@ V. Falta de datos no esenciales, cuya deducción sea posible en razón a los dem
 
 VI. Actas de nacimiento en que, habiendo comparecido únicamente un progenitor, se hubiere asentado al registrado con un solo apellido, procederá la aclaración para el efecto previsto en la última parte de la fracción V del artículo 68 de este Código. En caso de que el interesado, además del apellido del progenitor que compareció al registro, haya usado continua y públicamente un segundo apellido, podrá solicitar la aclaración para el único efecto de que se agregue este último al ya existente, sin que pueda anotarse ningún dato filiatorio. La resolución que declare procedente la aclaración no modifica ni extingue las obligaciones que el interesado hubiere contraído con anterioridad.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 142.
 
-La aclaración de las actas del estado civil deberá tramitarse ante la Dirección del Registro Civil conforme a las disposiciones del Reglamento correspondiente.
+La aclaración de las actas del estado civil deberá tramitarse ante la Dirección del Registro Civil conforme a las disposiciones normativas aplicables.
 
-> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2008)</small>
-
-En el caso de la fracción VI del artículo anterior, una vez aprobada la aclaración para anotar un segundo apellido, previa la anotación marginal que se realice en los atestados correspondientes a la Oficialía del Registro Civil y Archivo Central, se dará vista al Ministerio Público, quien dentro del término de tres días hábiles podrá oponerse a la aclaración; dicha oposición que deberá ser fundada y motivada, se tramitará en los términos previstos por el Reglamento Interno del Registro Civil.
+En el caso de la fracción VI del artículo anterior, una vez aprobada la aclaración para anotar un segundo apellido, previa la anotación marginal que se realice en los atestados correspondientes a la Oficialía del Registro Civil y Archivo Central, se dará vista al Ministerio Público, quien dentro del término de tres días hábiles podrá oponerse a la aclaración; dicha oposición que deberá ser fundada y motivada, se tramitará en los términos previstos por las disposiciones normativas aplicables.
 
 > <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
@@ -15770,3 +15796,13 @@ P.O. 29 DE OCTUBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 874.- MEDIANTE EL CUAL REFORMAN LOS ARTÍCULOS 37, 38 Y 40, LA FRACCIÓN IV DEL ARTÍCULO 44, EL ARTÍCULO 45, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 47, EL ARTÍCULO 49, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 52, LOS ARTÍCULOS 54, 61, 65 Y 67, LA FRACCIÓN IX DEL ARTÍCULO 68, LOS ARTÍCULOS 77, 104, 122, 128 Y 131, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 136, EL PÁRRAFO CUARTO DEL ARTÍCULO 137 BIS, LA FRACCIÓN III DEL ARTÍCULO 137 TER, Y EL ARTÍCULO 142; SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 22, EL PÁRRAFO CUARTO AL ARTÍCULO 66 RECORRIÉNDOSE EL SUBSECUENTE, LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 84, Y EL PÁRRAFO SEXTO AL ARTÍCULO 137 BIS; SE DEROGA LA FRACCIÓN VI DEL ARTÍCULO 44, LAS FRACCIONES III Y IV DEL ARTÍCULO 100, LA FRACCIÓN VIII DEL ARTÍCULO 105, EL ARTÍCULO 115, LA FRACCIÓN III DEL ARTÍCULO 123, Y LA FRACCIÓN IV DEL ARTÍCULO 137 TER, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto
