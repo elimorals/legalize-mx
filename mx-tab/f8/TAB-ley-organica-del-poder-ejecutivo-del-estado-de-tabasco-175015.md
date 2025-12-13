@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-ejecutivo-del-estado-de-tabasco-175015"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-11-09"
-last_updated: "2025-09-24"
+last_updated: "2025-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175015&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Suplemento I del Periódico Oficial del Estado de Tabasco, el sábado 9 de noviembre de 2024.
 
@@ -591,6 +591,10 @@ X. Determinar, recaudar y cobrar los ingresos federales coordinados, con base en
 
 XI. Vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones de carácter fiscal aplicables en el Estado;
 
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+XI Bis. Resolver los asuntos de su competencia que originalmente correspondan. Además, requerir de pago cualquier póliza de fianza expedida a favor de la Secretaría o del Gobierno del Estado, incluyendo las de carácter penal, administrativas y aquellas que garanticen obligaciones fiscales;
+
 XII. Practicar visitas domiciliarias, auditorías, verificaciones, inspecciones, revisión de declaraciones, dictámenes y los demás actos que establezcan las disposiciones fiscales, para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados, en materia de las contribuciones previstas en las leyes estatales y federales, en los términos de los convenios de coordinación, colaboración y anexos respectivos;
 
 XIII. Determinar los créditos fiscales e imponer las sanciones correspondientes por violaciones a las disposiciones fiscales estatales y federales;
@@ -672,6 +676,10 @@ XLIX. Establecer en coordinación con la Secretaría Anticorrupción y Buen Gobi
 L. Proponer a la persona titular del Poder Ejecutivo, en coordinación con la dependencia involucrada y la Consejería Jurídica del Poder Ejecutivo del Estado, la disolución de las Entidades u Órganos, en razón de haber cumplido su cometido, o por la incorporación de sus funciones o atribuciones a otras instancias de la Administración Pública. En caso aprobatorio, deberá coordinarse con las Dependencias que correspondan, para atender y resolver los asuntos relacionados con recursos humanos, financieros, presupuestales y materiales, así como el patrimonio público que, en su caso, se les hubiere asignado para el cumplimiento de sus objetivos;
 
 LI. Proteger de manera conjunta con las Dependencias, Entidades y en su caso, ayuntamientos y Gobierno Federal, el patrimonio inmobiliario propiedad del Estado. Asimismo, en coordinación con el Gobierno Federal, establecer un registro;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+LI Bis. Fungir como representante del Estado ante la Secretaría de Hacienda y Crédito Público y el Sistema Nacional de Coordinación Fiscal, así como ejercer las atribuciones que al Estado le confieren el Convenio de Adhesión y sus anexos. Además, cuidar que se paguen correctamente las participaciones, aportaciones y demás recursos que corresponda a los municipios del Estado;
 
 LII. Conducir, ejecutar y vigilar el proceso de modernización e innovación gubernamental;
 
@@ -1938,3 +1946,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. A partir de la entrada en vigor del presente Decreto, cuando en cualquier ordenamiento se hagan referencias a las Unidades de Asuntos Jurídicos y Transparencia, Unidades Jurídicas, Direcciones de Asuntos Jurídicos, Direcciones de Asuntos Jurídicos y Transparencia, o cualquier otra denominación equivalente, se entenderá hecha a las "Unidades de Apoyo Jurídico".
+
+P.O. 13 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 211 POR EL QUE “SE ADICIONAN LAS FRACCIONES XI BIS Y LI BIS AL ARTÍCULO 24 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. La Secretaría de Administración y Finanzas contará con un plazo de noventa días naturales, a fin de adecuar sus ordenamientos internos necesarios que regulen el ejercicio de las facultades conferidas en este Decreto.
+
+TERCERO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
