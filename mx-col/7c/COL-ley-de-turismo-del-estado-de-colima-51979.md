@@ -4,7 +4,7 @@ identifier: "COL-ley-de-turismo-del-estado-de-colima-51979"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-23"
-last_updated: "2022-06-25"
+last_updated: "2025-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE TURISMO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Suplemento No. 8 al Periódico Oficial del Estado de Colima, el sábado 23 de septiembre de 2006.
 
@@ -195,27 +195,77 @@ XIII. Servicios Turísticos: Son aquellos proporcionados por cualquier prestador
 
 XIV. Turismo: Actividad que se presta cuando uno o más individuos se trasladan a uno o más sitios diferentes de su residencia habitual con el propósito de recreación, salud, descanso, trabajo y cultura, creando con esto beneficios económicos para la región, al consumir bienes y servicios;
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2025)</small>
 
-XV. Turista: La persona que viaja trasladándose temporalmente fuera de su lugar de residencia habitual, y que utilice alguno de los servicios a que se refiere esta ley, sin perjuicio de lo dispuesto por la Ley General de Población para los efectos migratorios; y
+XV. Turista: Persona que se desplaza temporalmente fuera de su entorno habitual, por lo menos una noche y durante menos de un año, con fines de ocio, negocios u otros motivos personales, sin ejercer una actividad remunerada en el lugar visitado; sin perjuicio de lo dispuesto por la Ley General de Población para los efectos migratorios;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2025)</small>
 
-XVI. Zona Turística: Área destinada o desarrollada principalmente para la actividad turística y en la que se prestan servicios turísticos, incluyendo zonas arqueológicas.
+XV Bis. Visitante: Persona que viaja a un sitio distinto al de su entorno habitual, con cualquier finalidad, cuyo viaje no incluye una pernoctación;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+XVI. Zona Turística: Área geográfica delimitada, natural, rural, urbana o costera, que presenta condiciones aptas principalmente para el desarrollo de la actividad turística, y en la que se prestan de manera planificada servicios turísticos, incluyendo zonas arqueológicas; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+XVII. Parques Turísticos: Espacio natural o artificial, geográficamente delimitado y planificado para ofrecer experiencias de recreación y entretenimiento a turistas, visitantes y residentes, de forma compatible con la conservación y mejora del entorno, respetando en todo momento la normatividad ambiental aplicable y las atribuciones conferidas al Instituto para el Medio Ambiente y Desarrollo Sustentable del Estado de Colima.
 
 ###### Artículo 5.
 
 Se consideran servicios turísticos los prestados a través de:
 
-I. Hoteles, moteles, albergues, y demás establecimientos y casas destinadas para el hospedaje, así como campamentos y paraderos de casas rodantes, centros culturales y de recreación, que presten servicios a turistas;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2025)</small>
 
-II. Agencias, operadores y mayoristas de viajes;
+I. Hoteles, moteles, hostales, posadas, casa de huéspedes, cabañas, bungalows, villas y demás establecimientos y casas destinadas al hospedaje, alojamiento y albergue temporal, así como campamentos y paraderos de casas rodantes, móviles o autotransportables, que presten servicios a turistas;
 
-III. Guías de Turistas;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2025)</small>
 
-IV. Restaurantes, cafeterías, bares, centros nocturnos y similares que presten servicio al turista; y
+II. Alojadores y personas anfitrionas, que serán aquellas que brinden servicios de hospedaje temporal en cualquier tipo de inmueble de su propiedad, posesión o administración en forma total o parcial, de manera permanente o eventual a través de una plataforma tecnológica o digital;
 
-V. Empresas de sistema de intercambio de Servicios Turísticos.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+III. Agencias, sub agencias, operadores y mayoristas de viajes;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+IV. Guías de turistas, de acuerdo con la clasificación que dispone el Reglamento de la Ley General de Turismo;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+V. Restaurantes, cafeterías, bares, discotecas, centros nocturnos y similares que presten servicio al turista, incluyendo más no limitándose a los que se encuentren ubicados en los lugares señalados en la fracción I de este artículo, así como en aeropuertos, terminales de autobuses, estaciones de ferrocarril, museos, zonas arqueológicas y en cualquier zona de uso turístico;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+VI. Transporte terrestre, acuático o aéreo, eventual o programado, para el servicio de turistas y de visitantes;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+VII. Empresas de turismo de naturaleza, aventura, ecoturismo, rural y comunitario;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+VIII. Empresas que se dedican a proporcionar servicios de tiempos compartidos o clubs vacacionales;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+IX. Parques acuáticos, balnearios, centros culturales y de recreación que presten servicios a turistas;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+X. Establecimientos dedicados al turismo de salud y médico;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+XI. Convenciones y exposiciones; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+XII. Otros servicios y actividades que no se encuentren comprendidos en este artículo y que por su naturaleza estén vinculados con el turismo, ya sea que la prestación de servicios turísticos sea a través de internet, plataformas digitales o tecnológicas, aplicaciones informáticas y/o similares.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+Serán prestadores de servicios turísticos las personas físicas o morales, nacionales o extranjeras, que habitualmente ofrezcan, administren, proporcionen, funjan como intermediarios o contraten con el turista los servicios turísticos a que se refiere esta Ley, dentro del territorio estatal, ya sea de forma directa o a través de terceros, incluyendo plataformas digitales o cualquier otra denominación análoga.
 
 Los prestadores de los servicios que no se encuentren comprendidos en este artículo y que por su naturaleza estén vinculados con el turismo, podrán solicitar su inscripción en el Registro Nacional de Turismo, siempre que cumplan con los requisitos que la Secretaría de Turismo del Gobierno Federal y las Normas Oficiales Mexicanas fijen por medio de las disposiciones generales.
 
@@ -395,39 +445,79 @@ V. Proponer a la autoridad competente, a los Prestadores de Servicios Turístico
 
 ### CAPITULO V. DE LA CONCURRENCIA Y COORDINACION DE LAS AUTORIDADES DEL ESTADO
 
-> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 15 Bis.
 
-Son atribuciones del Poder Ejecutivo Estatal, que se ejercerán a través de la Secretaría:
+Son atribuciones del Poder Ejecutivo Estatal, que se ejercerán a través de la Subsecretaría:
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
 
 I. Formular y conducir la política turística estatal;
 
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
 II. Promover, a través del Consejo de Promoción, la actividad turística estatal;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
 
 III. Coordinar las acciones que lleven a cabo el Ejecutivo Estatal y los Municipios, en el ámbito de sus respectivas competencias, para el desarrollo turístico del estado, mismas que estarán sujetas a la disponibilidad de los recursos aprobados en el Presupuesto de Egresos del Estado;
 
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
 IV. Atender los asuntos relacionados con la actividad turística del estado;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
 
 V. Regular las acciones para la planeación, programación, fomento y desarrollo de la actividad turística en el estado;
 
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
 VI. Coadyuvar a la aplicación de los instrumentos de política ambiental en materia de turismo;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
 
 VII. Formular las bases de coordinación entre los ámbitos de gobierno, para el establecimiento, regulación, administración y vigilancia de las Zonas de Desarrollo Turístico Sustentable;
 
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
 VIII. Promover la infraestructura y equipamiento, que contribuyan al fomento y desarrollo de la actividad turística, en coordinación con los Municipios y con la participación de los sectores social y privado, mismas que estarán sujetas a la disponibilidad de los recursos aprobados en el Presupuesto de Egresos del Estado;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+VIII Bis. Operar los sitios de interés turístico estatales, muebles e inmuebles propiedad o en resguardo del gobierno del Estado, de conformidad con las disposiciones legales aplicables y en coordinación con las autoridades facultadas para su administración;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+VIII Bis 1. Operar los Parques Turísticos del Estado, en el ámbito de su vocación turística, en coordinación con el Instituto para el Medio Ambiente y Desarrollo Sustentable del Estado de Colima y demás autoridades competentes, cuando se trate de espacios que incluyan áreas naturales protegidas, áreas de valor ambiental, elementos de biodiversidad, ecosistemas o recursos naturales sujetos a protección conforme a la Ley Ambiental para el Desarrollo Sustentable del Estado de Colima. La administración turística de estos recintos no podrá contravenir los planes de manejo, programas de conservación o declaratorias emitidas por la autoridad ambiental estatal;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+VIII Bis 2. Determinar las comunidades locales con potencial turístico, para impulsarlas y promoverlas como destinos turísticos del Estado;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
 
 IX. Promover acuerdos de cooperación y coordinación con el sector privado y social para el impulso, fomento y desarrollo de la actividad turística;
 
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
 X. Participar en programas de prevención y atención de emergencias y desastres, así como en acciones para la gestión integral de los riesgos conforme a las políticas y programas de protección civil que al efecto se establezcan;
 
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
 XI. Promover, realizar y difundir estudios, investigaciones e indicadores en materia turística;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
 
 XII. Establecer la regulación para la clasificación de establecimientos hoteleros y de hospedaje, de cumplimiento obligatorio en todo el estado;
 
 Para el ejercicio de esta atribución el Ejecutivo Estatal podrá signar convenios de colaboración con los municipios en materia de registro de clasificación, verificación del cumplimiento de la regulación a que se refiere la fracción anterior, y la imposición de las sanciones a que haya lugar;
 
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
 XIII. Promover y vigilar el cumplimiento de esta Ley y los demás ordenamientos y Normas Oficiales que de ella deriven, en el ámbito de su competencia;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
 
 XIV. Fijar e imponer, de acuerdo a esta Ley y los reglamentos correspondientes, el tipo y monto y de las sanciones por el incumplimiento y violación de las disposiciones en materia turística; y
 
@@ -473,11 +563,35 @@ Para elaborar el Atlas Turístico de Colima, la Secretaría se coordinará con o
 
 El Atlas Turístico de Colima es una herramienta para la promoción de la actividad turística, teniendo carácter público.
 
-### CAPÍTULO I. DEL PLAN ESTATAL DE TURISMO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO VII. OBSERVATORIO TURÍSTICO DEL ESTADO DE COLIMA
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 15 Bis 3.
+
+El Observatorio Turístico del Estado de Colima, será una herramienta de inteligencia competitiva, intersectorial e interdisciplinaria, para gestionar y compartir información sobre la actividad turística, que servirá para proporcionar a la sociedad un eje de análisis situacional y para sustentar la toma de decisiones informadas y estratégicas en los organismos públicos y privados vinculados con en el sector.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 15 Bis 4.
+
+El Observatorio Turístico del Estado de Colima tiene como objetivos:
+
+I. Fomentar la cultura del dato en el sector turismo como una estrategia y acción de política pública para mejorar el desempeño de los destinos, respaldada por la Subsecretaría de Turismo y por el Fideicomiso para la Promoción Turística del Estado de Colima;
+
+II. Medir y evaluar el desempeño del sector turismo desde la perspectiva de la sociedad y el gobierno, así como su aportación al desarrollo económico del Estado, aplicando sistemáticamente técnicas de monitoreo, evaluación y gestión de la información;
+
+III. Generar información al alcance de la sociedad, la academia y el gobierno, que contribuya a la planeación estratégica del sector turismo;
+
+IV. Identificar fenómenos sociales que inciden en el desarrollo del sector turístico en el Estado; y
+
+V. Promover estudios e investigaciones en materia turística y áreas estratégicas del desarrollo como competitividad y sustentabilidad.
 
 ## TÍTULO SEGUNDO
 
-### CAPÍTULO II. TURISMO SOCIAL
+### CAPÍTULO I. DEL PLAN ESTATAL DE TURISMO
 
 ###### Artículo 16.
 
@@ -501,7 +615,7 @@ Cuando los programas derivados del Plan Estatal de Turismo sean susceptibles de 
 
 La Secretaría procurará que en toda región que se pretenda desarrollar turísticamente, se realicen obras que satisfagan las necesidades fundamentales de los prestadores de servicios y de los turistas, tales como: vías de acceso, energía eléctrica, agua potable y otros inherentes a la correcta prestación del servicio, además de lo dispuesto en los Planes de Ordenamiento Ecológicos y Territorial. Para tal propósito se coordinará con las autoridades correspondientes.
 
-### CAPÍTULO III. ZONAS DE DESARROLLO TURÍSTICO PRIORITARIO
+### CAPÍTULO II. TURISMO SOCIAL
 
 ###### Artículo 21.
 
@@ -527,9 +641,7 @@ Así mismo, con la finalidad principal de movilizar a los colimenses de todos lo
 
 Los poderes públicos, los organismos autónomos, y los municipios del Estado promoverán entre sus trabajadores el turismo social.
 
-### CAPÍTULO IV. DEL PROGRAMA DE REORDENAMIENTO TURÍSTICO DEL TERRITORIO DEL ESTADO
-
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+### CAPÍTULO III. ZONAS DE DESARROLLO TURÍSTICO PRIORITARIO
 
 ###### Artículo 24.
 
@@ -545,9 +657,9 @@ La Secretaría, cuando se trate de proyectos de inversión en zonas de desarroll
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-### CAPÍTULO V. TURISMO ACCESIBLE
+### CAPÍTULO IV. DEL PROGRAMA DE REORDENAMIENTO TURÍSTICO DEL TERRITORIO DEL ESTADO
 
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2022)</small>
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 26 Bis.
 
@@ -577,9 +689,9 @@ El programa será evaluado anualmente por la Secretaría, ciento ochenta días d
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-### CAPÍTULO VI. TURISMO MÉDICO
+### CAPÍTULO V. TURISMO ACCESIBLE
 
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2022)</small>
 
 ###### Artículo 26 Bis 3.
 
@@ -643,7 +755,9 @@ La Subsecretaría y los Órganos Municipales de Turismo del Estado vigilarán qu
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-### CAPÍTULO I. DE LA PROMOCION Y FOMENTO TURÍSTICO
+### CAPÍTULO VI. TURISMO MÉDICO
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 26 Ter.
 
@@ -657,7 +771,7 @@ La Secretaría, establecerá una coordinación con las autoridades federales, es
 
 ## TÍTULO TERCERO
 
-### CAPÍTULO II. DE LA CAPACITACIÓN TURÍSTICA
+### CAPÍTULO I. DE LA PROMOCION Y FOMENTO TURÍSTICO
 
 ###### Artículo 27.
 
@@ -695,9 +809,7 @@ Cuando se trate de inversiones en el sector turístico, la Secretaría en apego 
 
 La Comisión Dictaminadora de los Programas Económicos, una vez recibida la propuesta por parte de la Secretaría, actuará de conformidad a lo previsto en el Capítulo Tercero de la ley a que se refiere el artículo anterior.
 
-### CAPÍTULO III. CULTURA TURÍSTICA
-
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+### CAPÍTULO II. DE LA CAPACITACIÓN TURÍSTICA
 
 ###### Artículo 34.
 
@@ -717,7 +829,7 @@ La Secretaría propondrá al Ejecutivo del Estado programas de capacitación, y 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-### CAPÍTULO IV. REGISTRO NACIONAL DE TURISMO
+### CAPÍTULO III. CULTURA TURÍSTICA
 
 > <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -739,7 +851,9 @@ En conjunto con la Secretaría de Cultura, se establecerán programas que tengan
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-### CAPÍTULO I. DEL TURISMO SUSTENTABLE
+### CAPÍTULO IV. REGISTRO NACIONAL DE TURISMO
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 37 Bis 3.
 
@@ -759,7 +873,7 @@ La base de datos del Registro Nacional de Turismo quedará bajo la guarda de la 
 
 ## TÍTULO CUARTO
 
-### CAPÍTULO II. TURISMO DE NATURALEZA
+### CAPÍTULO I. DEL TURISMO SUSTENTABLE
 
 ###### Artículo 38.
 
@@ -777,7 +891,7 @@ Se promoverá de manera especial la educación ambiental del turista y de los re
 
 Los centros de hospedaje que pretendan estar clasificados dentro de este capítulo, deberán contar con la infraestructura, operación y la filosofía del concepto del ecoalojamiento, el cual deberá garantizar la preservación, conservación y restauración de la naturaleza, tomando como herramienta al turismo.
 
-### CAPÍTULO I. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+### CAPÍTULO II. TURISMO DE NATURALEZA
 
 ###### Artículo 42.
 
@@ -791,6 +905,12 @@ El ecoturismo es el turismo de naturaleza en donde los viajes tiene como fin, el
 
 El turismo de Aventura es el turismo de naturaleza que considera a los viajes como fin del (sic) realizar actividades recreativas asociadas a desafíos impuestos por la naturaleza. Pudiendo ser las siguientes actividades: de Tierra: caminata, espeleísmo en roca, catonismo, ciclismo en montaña, alpinismo, rappel, cabalgata, De Agua: buceo libre, espeleobuceo, descenso en ríos, kayaquismo, pesca recreativa, De Aire: paracaidismo, vuelo en parapente, vuelo en ala delta, vuelo en globo, vuelo en ultraligero.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 44 Bis.
+
+La Subsecretaría promoverá el turismo de Naturaleza a través de la realización de actividades dentro de los Parques Turísticos del Estado, de conformidad con las características de cada uno de ellos.
+
 ###### Artículo 45.
 
 Turismo Rural es la categoría del turismo de naturaleza que considera a los viajes que tiene como fin el realizar actividades de convivencia e interacción con una comunidad rural en todas aquellas expresiones sociales, culturales y productivas cotidianas de la misma. Pudiendo ser las siguientes actividades: etnoturismo, agroturismo, talleres gastronómicos, vivencias místicas, aprendizaje de dialectos, ecoarquiología (sic), preparación y uso (sic) medicina tradicional, talleres artesanales y fotografía rural.
@@ -799,31 +919,71 @@ Turismo Rural es la categoría del turismo de naturaleza que considera a los via
 
 Las áreas naturales protegidas no podrán formar parte de las Zonas de Desarrollo Turístico Rural.
 
-### CAPÍTULO II. DE LA PROTECCIÓN Y ORIENTACIÓN AL TURISTA
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE DICIEMBRE DE 2025)</small>
 
-> <small>N. DE E. EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 3 DE MAYO DE 2014, PRECISA LA MODIFICACIÓN AL ARTÍCULO 49, SIN EMBARGO DEL ANÁLISIS REALIZADO SE ADVIERTE QUE CORRESPONDE AL ACTUAL ARTÍCULO 48.</small>
+### CAPÍTULO III. TURISMO COMUNITARIO
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 45 Bis.
+
+El turismo comunitario es una modalidad de turismo gestionado por comunidades con un rol de liderazgo en la generación y gestión de la oferta turística del destino que integra su identidad cultural, gastronomía y costumbres, patrimonio histórico, natural y biocultural, sus actividades productivas y modos de vida, consolidando el tejido turístico comunitario indígena, afromexicano, rural y forestal, pesquero, artesanal, ejidal y comunal del país.
+
+El turismo comunitario ofrece actividades y experiencias auténticas que permiten a los turistas conectar con la cultura local, contribuir a la preservación y revalorización del patrimonio biocultural, promover el orgullo comunitario y fomentar la transmisión de conocimientos y tradiciones a las futuras generaciones. Esto puede incluir, de manera enunciativa más no limitativa, la participación en festivales, la visita a hogares de familias locales y la asistencia a ceremonias tradicionales.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 45 Bis 1.
+
+Para efectos de esta Ley, se entenderá por Prestadores de Servicios Turísticos Comunitarios a las personas que ofrezcan productos o servicios a los turistas, organizados de forma individual o colectiva, caracterizados por su contribución a la preservación de la identidad, autenticidad local, el patrimonio natural y biocultural, así como al desarrollo sostenible de los territorios en los que operan.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 45 Bis 2.
+
+El procedimiento para llevar a cabo la determinación de las comunidades locales con potencial turístico contenida en la fracción VIII Bis 2 del artículo 15 Bis de la presente Ley, se regulará en el Reglamento de la misma.
+
+La Subsecretaría se coordinará con los representantes de estas comunidades para elaborar y ejecutar planes de manejo y conservación de sus recursos naturales y socioculturales, en plena congruencia con los planes y programas emitidos por otras instancias, en términos de las normas ambientales de orden territorial, forestal, social y las demás que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 45 Bis 3.
+
+La Subsecretaría, en coordinación con otras dependencias y entidades de la administración pública estatal y municipal, impulsará acciones para el fomento del turismo comunitario con los sectores social, académico, ambiental y privado para la promoción y comercialización de los productos, así como la conservación de los recursos bioculturales, de las comunidades con potencial turístico.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 45 Bis 4.
+
+La Subsecretaría, en conjunto con las dependencias y entidades de la administración pública estatal y los prestadores de servicios turísticos, promoverá la participación de los habitantes de las zonas donde se practique el turismo comunitario, con el fin de involucrarlos en el desarrollo, planificación, manejo y aprovechamiento sostenible de los recursos naturales de su entorno.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 45 Bis 5.
+
+La Subsecretaría, en colaboración con otras instancias, deberá procurar que los beneficios socioeconómicos obtenidos de la práctica del turismo comunitario se distribuyan entre la misma comunidad donde se desarrolle.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 45 Bis 6.
+
+La Subsecretaría impulsará la capacitación de los prestadores de servicios turísticos que se desempeñen en zonas donde se practique el turismo comunitario, para brindar los servicios turísticos amigables con el ambiente y la cultura de estas comunidades.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 45 Bis 7.
+
+Los prestadores de servicios turísticos deberán implementar acciones que permitan la sustentabilidad de los recursos bioculturales que se exploten a través del turismo comunitario.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 45 Bis 8.
+
+La Subsecretaría promoverá y gestionará el desarrollo de infraestructura y equipamiento para aquellas zonas donde se desarrolle el turismo comunitario, que contribuya al fomento y desarrollo de la actividad turística, sujeto a la disponibilidad de los recursos aprobados en el Presupuesto de Egresos del Gobierno del Estado.
 
 ## TÍTULO QUINTO
 
-### CAPÍTULO III. DE LA SITUACIÓN DE EMERGENCIA Y DESASTRE
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2012)</small>
-
-Artículo 52 Bis 2 (SIC).- El titular de la Secretaría, como autoridad competente conjuntamente con las autoridades que correspondan, velará por la seguridad de los turistas y los prestadores de servicios turísticos del Estado, cuando se presente alguna contingencia que ponga en riesgo la integridad física de éstos.
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2012)</small>
-
-Artículo 52 Bis 3 (SIC).- La Secretaría en coordinación con la Unidad Estatal de Protección Civil y los Ayuntamientos, establecerán programas o acciones tendientes a fomentar en los turistas, que hacer ante la presencia de fenómenos hidrometeorológicos o ante cualquier contingencia que se presente y ponga en riesgo su integridad.
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2012)</small>
-
-Artículo 52 Bis 4 (SIC).- Atendiendo a lo dispuesto en el artículo anterior, la Secretaría y los Ayuntamientos como medida preventiva difundirán entre los turistas y los prestadores de servicios turísticos, una lista detallada con los albergues y refugios acreditados por la Unidad Estatal de Protección Civil en el Estado, que pueden ser utilizados ante situaciones de emergencia.
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2012)</small>
-
-Artículo 52 Bis 5 (SIC).- La Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencias, sin perjuicio de lo que disponga la ley de la materia, vigilarán que los prestadores de servicios turísticos, cumplan con las disposiciones establecidas en la Ley de Protección Civil del Estado, para la salvaguarda e integridad de las personas.
-
-> <small>(REFORMADO Y REUBICADO [ANTES CAPÍTULO III], P.O. 30 DE JUNIO DE 2012)</small>
+### CAPÍTULO I. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
 ###### Artículo 46.
 
@@ -923,7 +1083,9 @@ XV. Disponer de lo necesario para que los inmuebles, edificaciones y servicios t
 
 XVI. Mantener actualizadas sus páginas electrónicas, con la finalidad de que contengan de manera detallada los servicios, ubicación, costo, restricciones y demás aspectos de interés para el turista.
 
-### CAPÍTULO IV. DE LA VERIFICACIÓN
+### CAPÍTULO II. DE LA PROTECCIÓN Y ORIENTACIÓN AL TURISTA
+
+> <small>N. DE E. EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 3 DE MAYO DE 2014, PRECISA LA MODIFICACIÓN AL ARTÍCULO 49, SIN EMBARGO DEL ANÁLISIS REALIZADO SE ADVIERTE QUE CORRESPONDE AL ACTUAL ARTÍCULO 48.</small>
 
 ###### Artículo 49.
 
@@ -984,6 +1146,28 @@ En los casos en que el turista resida en el extranjero podrá presentar su queja
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO No. 530 PUBLICADO EN EL P.O. DE 30 DE JUNIO DE 2012, LA UBICACIÓN DE LOS ARTÍCULOS QUE INTEGRAN ESTE CAPÍTULO, SE COLOCAN DE ACUERDO A LA FIGURA JURÍDICA QUE REGULA, POR LO QUE SE SUGIERE CONSULTAR LA PUBLICACIÓN OFICIAL.</small>
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2012)</small>
+
+### CAPÍTULO III. DE LA SITUACIÓN DE EMERGENCIA Y DESASTRE
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2012)</small>
+
+Artículo 52 Bis 2 (SIC).- El titular de la Secretaría, como autoridad competente conjuntamente con las autoridades que correspondan, velará por la seguridad de los turistas y los prestadores de servicios turísticos del Estado, cuando se presente alguna contingencia que ponga en riesgo la integridad física de éstos.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2012)</small>
+
+Artículo 52 Bis 3 (SIC).- La Secretaría en coordinación con la Unidad Estatal de Protección Civil y los Ayuntamientos, establecerán programas o acciones tendientes a fomentar en los turistas, que hacer ante la presencia de fenómenos hidrometeorológicos o ante cualquier contingencia que se presente y ponga en riesgo su integridad.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2012)</small>
+
+Artículo 52 Bis 4 (SIC).- Atendiendo a lo dispuesto en el artículo anterior, la Secretaría y los Ayuntamientos como medida preventiva difundirán entre los turistas y los prestadores de servicios turísticos, una lista detallada con los albergues y refugios acreditados por la Unidad Estatal de Protección Civil en el Estado, que pueden ser utilizados ante situaciones de emergencia.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2012)</small>
+
+Artículo 52 Bis 5 (SIC).- La Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencias, sin perjuicio de lo que disponga la ley de la materia, vigilarán que los prestadores de servicios turísticos, cumplan con las disposiciones establecidas en la Ley de Protección Civil del Estado, para la salvaguarda e integridad de las personas.
+
+> <small>(REFORMADO Y REUBICADO [ANTES CAPÍTULO III], P.O. 30 DE JUNIO DE 2012)</small>
+
+### CAPÍTULO IV. DE LA VERIFICACIÓN
 
 ###### Artículo 52.
 
@@ -1182,3 +1366,11 @@ P.O. 25 DE JUNIO DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y normativas que se opongan al presente Decreto.
+
+P.O. 13 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 214.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. La Subsecretaría de Turismo promoverá la suscripción de los convenios de coordinación necesarios a efecto de cumplir adecuadamente lo establecido en el presente Decreto.
