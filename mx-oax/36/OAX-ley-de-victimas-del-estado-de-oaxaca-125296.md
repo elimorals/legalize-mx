@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-victimas-del-estado-de-oaxaca-125296"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-09"
-last_updated: "2025-10-11"
+last_updated: "2025-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE VÍCTIMAS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de diciembre de 2017.
 
@@ -1783,6 +1783,10 @@ V. Formular denuncias o querellas;
 
 VI. Representar a la víctima en todo procedimiento jurisdiccional o administrativo derivado de un hecho victimizante.
 
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+VII. Elaborar un plan estratégico para garantizar la efectiva protección de los derechos de las víctimas en los procedimientos judiciales o administrativos en que sea designado.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2022)</small>
 
 ###### Artículo 127.
@@ -2253,6 +2257,14 @@ IX. Elaborar la propuesta de anteproyecto de presupuesto que se someta a la cons
 
 X. Las demás que sean necesarias para cumplir con el objeto de esta Ley.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 180.
+
+La Asesoría Jurídica Estatal será la instancia encargada de vigilar el correcto desempeño de las personas que sean designadas como asesores jurídicos dentro de los procedimientos jurisdiccionales o administrativos, para lo cual deberán solicitar la elaboración de un plan estratégico por cada caso que se les asigne, con el objetivo de garantizar una asesoría jurídica efectiva hacia las víctimas y una actuación profesional dentro de los procedimientos.
+
+El cumplimiento del plan estratégico elaborado por el asesor jurídico deberá ser evaluado de manera constante a efecto de verificar su efectividad y en su caso realizar las adecuaciones correspondientes.
+
 TRANSITORIOS:
 
 PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
@@ -2340,3 +2352,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su Publicación.
 
 TERCERO. Quedan sin efecto todas aquellas disposiciones contrarias al presente Decreto.
+
+P.O. 13 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 875.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN VII AL ARTÍCULO 126, Y EL ARTÍCULO 180 A LA LEY DE VÍCTIMAS DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
