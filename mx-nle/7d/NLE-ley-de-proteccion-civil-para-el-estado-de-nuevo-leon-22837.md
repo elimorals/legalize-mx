@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-civil-para-el-estado-de-nuevo-leon-22837"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-22"
-last_updated: "2023-06-15"
+last_updated: "2025-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 22 de enero de 1997.
 
@@ -232,6 +232,10 @@ VI. Fomentar la creación de los Sistemas Municipales de Protección Civil;
 VII. Constituir las Comisiones o Comités que estime necesarios para la realización de su objetivo, delegando las facultades o atribuciones correspondientes, sin perjuicio de su ejercicio directo;
 
 VIII. Promover el estudio, la investigación y la capacitación en materia de protección civil;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+VIII BIS. Promover, en coordinación con las autoridades educativas, que los docentes de educación básica del Sistema Educativo Estatal reciban, por lo menos, una vez al año, capacitación en materia de protección civil.
 
 IX. Aprobar los programas para la generación de una cultura de protección civil, gestionando ante las autoridades correspondientes su incorporación en el Sistema Educativo Estatal;
 
@@ -1424,3 +1428,9 @@ SEGUNDO. Para el cumplimiento al presente Decreto, los concesionarios deberán i
 TERCERO. Los municipios dispondrán de un plazo de hasta 180 días posteriores a la entrada en vigor del presente decreto, para homologar su reglamentación con el fin de cumplir lo preceptuado por dicho decreto.
 
 CUARTO. Se deroga cualquier disposición en lo que se oponga al presente decreto.
+
+P.O. 13 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 097. SE ADICIONA UNA FRACCIÓN VIII BIS AL ARTÍCULO 15 DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
