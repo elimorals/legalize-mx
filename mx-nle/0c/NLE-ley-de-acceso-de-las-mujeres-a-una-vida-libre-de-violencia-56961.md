@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2025-05-28"
+last_updated: "2025-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -419,6 +419,10 @@ El hostigamiento sexual es el ejercicio abusivo del poder en la relación de sub
 
 El acoso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva de hecho a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2025)</small>
+
+La violencia descrita en el párrafo anterior, puede ocurrir en espacios públicos y medios de transporte públicos sin que medie relación alguna con la persona agresora. Se manifiesta a través de una conducta física o verbal de connotación sexual no consentida ejercida sobre una o varias personas, cuya acción representa una vulneración a los derechos humanos.
+
 > <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 14 Bis.
@@ -443,9 +447,9 @@ III. La reeducación libre de estereotipos y la información de alerta sobre el 
 
 IV. El establecimiento de un banco de datos sobre las órdenes de protección y de personas sujetas a ellas, para realizar las acciones de política; y
 
-> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2025)</small>
 
-V. El diseño de políticas públicas dirigidas al desarrollo de espacios y transportes públicos libre de todo tipo de violencia contra las mujeres.
+V. El diseño de políticas públicas dirigidas al desarrollo de espacios públicos y medios de transporte público libres de todo tipo de violencia contra las mujeres.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
@@ -2522,3 +2526,9 @@ P.O. 28 DE MAYO DE 2025.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Poder Ejecutivo, las dependencias estatales y los Municipios del Estado, sujetos al presente decreto, expedirán o, en su caso, adecuarán sus reglamentos correspondientes en un plazo no mayor a 90 días naturales a la entrada en vigor del presente Decreto.
+
+P.O. 13 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 157. SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 14 BIS Y SE ADICIONA UN TERCER PÁRRAFO DEL ARTÍCULO 14 Y (SIC) DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
