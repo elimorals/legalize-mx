@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2025-01-09"
+last_updated: "2025-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "DUR"
 ---
 # LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE HACIENDA DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 14 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2024.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 9 DE ENERO DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -5102,3 +5100,17 @@ P.O. 29 DE DICIEMBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 304 QUE CONTIENE LEY DE HACIENDA DEL ESTADO DE DURANGO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El presente Decreto, entrará en vigor el día 01 de enero de 2026.
+
+TERCERO. Se abroga la Ley de Hacienda del Estado de Durango, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, número 51, de fecha 23 de diciembre de 1999, así como sus posteriores reformas.
+
+CUARTO. Los asuntos que se encuentren en tramite a la entrada en vigor de la presente Ley, serán concluidos conforme a la Ley de Hacienda que les resulte aplicable.
+
+QUINTO. Se concede un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto para que la Secretaría de Finanzas y de Administración, expida las reglas de carácter general contempladas en el presente Decreto.
