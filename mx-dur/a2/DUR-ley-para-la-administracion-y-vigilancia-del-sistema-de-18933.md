@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-administracion-y-vigilancia-del-sistema-de-18933"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-28"
-last_updated: "2024-12-29"
+last_updated: "2025-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18933&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY PARA LA ADMINISTRACION Y VIGILANCIA DEL SISTEMA DE PARTICIPACIONES Y LA COLABORACION ADMINISTRATIVA EN MATERIA FISCAL ESTATAL, DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO QUINTO DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE DURANGO Y SUS MUNICIPIOS EN MATERIA DE PARTICIPACIONES, PUBLICADA EN EL P.O. DE 14 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA LA ADMINISTRACIÓN Y VIGILANCIA DEL SISTEMA DE PARTICIPACIONES Y LA COLABORACIÓN ADMINISTRATIVA EN MATERIA FISCAL ESTATAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2025 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 28 de diciembre de 2000.
 
@@ -332,3 +334,27 @@ P.O. 29 DE DICIEMBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. DE 14 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE COORDINACIÓN FISCAL DEL ESTADO DE DURANGO Y SUS MUNICIPIOS EN MATERIA DE PARTICIPACIONES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del 01 de enero de 2026, publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cálculo de los coeficientes de distribución de participaciones a Municipios a que se refieren los artículos 5, 6, 7, 8, 9, 10, 11, 13, 14 y 15, de la presente ley, las cifras correspondientes a las recaudaciones municipales del impuesto predial y los derechos por suministro de agua de años anteriores al 2026, serán las validadas por el Comité de Vigilancia del Sistema de Participaciones en Ingresos Federales por conducto de la Unidad de Coordinación con Entidades Federativas, de los años 2021, 2022, 2023 y 2024.
+
+###### ARTÍCULO TERCERO.
+
+Para efectos del artículo 3, de la presente ley, el Fondo Estatal de Participaciones para el ejercicio 2026, tomará como base el importe del Fondo Estatal de Participaciones distribuido en el año 2025, el que se actualizará con el Índice Nacional de precios al Consumidor (INPC) del año 2025.
+
+###### ARTÍCULO CUARTO.
+
+Para los efectos del segundo párrafo inciso a) y tercer párrafo del artículo 18, de la presente ley, para el ejercicio 2026, las variables de distribución serán las aplicadas en el ejercicio 2025, determinadas conforme a la Ley para la Administración y Vigilancia del Sisterna de Participaciones y la Colaboración Administrativa en Materia Fiscal Estatal vigente al 31 de diciembre de 2025.
+
+###### ARTÍCULO QUINTO.
+
+Se abroga la Ley para la Administración y Vigilancia del Sistema de Participaciones y la Colaboración Administrativa en Materia Fiscal Estatal, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, número 52 mediante, Decreto número 359 de fecha 28 de diciembre del año 2000.
