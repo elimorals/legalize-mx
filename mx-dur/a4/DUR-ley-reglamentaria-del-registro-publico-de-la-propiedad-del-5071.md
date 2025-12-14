@@ -4,7 +4,7 @@ identifier: "DUR-ley-reglamentaria-del-registro-publico-de-la-propiedad-del-5071
 country: "mx"
 rank: "ley"
 publication_date: "1952-02-24"
-last_updated: "2018-12-25"
+last_updated: "2025-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY REGLAMENTARIA DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 24 y jueves 28 de febrero de 1952.
 
@@ -234,6 +234,10 @@ Dentro del plazo de tres días a contar del en que se reciba un documento para s
 ###### ARTICULO 29.
 
 Toda inscripción comenzará con la mención de los bienes de que se trate. A continuación se expresará su ubicación, extensión superficial, si la expresare el título, y sus linderos. Después se consignarán los demás datos a que se refiere el Artículo 2893 del Código Civil.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2025)</small>
+
+Asimismo, contará con un Folio Real nuevo o existente derivado de la digitalización del Sistema iniciado en el año 2012, siendo este un expediente electrónico y digital en el que se practican las inscripciones o anotaciones y que contiene toda la información registral referida a un mismo inmueble o persona, considerando cada uno de éstos como una unidad registral con historial jurídico propio.
 
 ###### ARTICULO 30.
 
@@ -749,6 +753,10 @@ Las certificaciones de inscripciones hipotecarias a cargo de las personas señal
 
 Cuando se expidan certificados en los que consten los gravámenes o la libertad de un inmueble, se hará referencia a las inscripciones relativas, se mencionará si hay alguna anotación preventiva o alguna nota de presentación de un documento en el que se constituya un derecho real o se establezca una limitación de dominio, vigentes en el periodo de los últimos veinte años o más a solicitud del interesado.
 
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2025)</small>
+
+Se contará con dos tipos de expedición de certificados, el primero, de manera ordinaria el cual se expedirá en un plazo de 6 días hábiles después de la fecha de su solicitud; y el segundo, de manera urgente, el cual se expedirá en un plazo de 24 horas después de la fecha de su solicitud siempre y cuando se registre su ingreso antes de las 12:00 horas y previo a su revisión. No se podrá expedir de manera urgente si se solicita con historial registral, si se tuviera que actualizar la información contenida en el sistema de los gravámenes registrados en los libros o si no contara con Folio Real del inmueble.
+
 ###### ARTICULO 114.
 
 En las certificaciones de que tratan los cuatro Artículos anteriores y en las de no existir inscripciones de especie determinada, solo se hará mención de las canceladas cuando el Juez o los interesados lo exigieren.
@@ -1220,3 +1228,11 @@ PRIMERO.- El presente decreto entró en vigor el día siguiente de su publicaci�
 SEGUNDO.- Se derogaron todas las disposiciones que se opusieron al presente Decreto.
 
 TERCERO.- En un plazo que no excederá de 03 meses contados a partir del inicio de la vigencia de este Decreto, se realizarán las adecuaciones al Reglamento correspondiente.
+
+P.O. 14 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 301 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY REGLAMENTARIA DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del primero de enero de 2026, previa publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
