@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2025-11-23"
+last_updated: "2025-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2025.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -2397,9 +2397,9 @@ ART. 406 BIS.- La alienación parental es la manipulación que un progenitor o u
 
 ART. 407.- Las hijas e hijos menores de edad no emancipados, están bajo la patria protestad mientras exista alguno de los ascendientes que deban ejercerla conforme a la ley.
 
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2023)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2025)</small>
 
-ART. 408.- La patria potestad se ejerce sobre la persona y los bienes de las hijas e hijos. Su ejercicio queda sujeto en cuanto a la guarda y educación de los menores, a las modalidades que le impriman las resoluciones que se dicten, de acuerdo con el Código de Justicia Para Menores Infractores en el Estado de Durango, en su caso.
+ART. 408.- La patria potestad se ejerce sobre la persona y los bienes de las hijas e hijos. Su ejercicio queda sujeto en cuanto a la guarda y educación de los menores, a las modalidades que le impriman las resoluciones que se dicten, conforme a las leyes aplicables en la materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2023)</small>
 
@@ -10549,7 +10549,9 @@ ART. 2877.- El ejecutivo del Estado designará las poblaciones en donde deba est
 
 ART. 2878.- El reglamento fijará el número de secciones de que se componga el Registro y la sección en que deban inscribirse los títulos que se registren.
 
-ART. 2879.- El registro será público. Los encargados de la oficina tienen la obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones constantes en los libros del Registro y de los documentos relacionados con las inscripciones, que estén archivados. También tienen la obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los libros del Registro; así como certificaciones de no existir asientos de ninguna especie o de aspecto determinado, sobre bienes señalados o a cargo de ciertas personas.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2025)</small>
+
+ART. 2879.- El registro será público. Los encargados de la oficina tienen la obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones constantes en los libros del Registro y de los documentos relacionados con las inscripciones, que estén archivados. También tienen la obligación de expedir copias certificadas en carácter ordinaria o urgente de las inscripciones o constancias que figuren en los libros del Registro; así como certificaciones de no existir asientos de ninguna especie o de aspecto determinado, sobre bienes señalados o a cargo de ciertas personas.
 
 Tratándose de testamentos ológrafos depositados en el Registro, se observará lo dispuesto en el artículo 1449.
 
@@ -10669,13 +10671,13 @@ ART. 2894.- El registrador que haga una inscripción sin cumplir con lo dispuest
 
 ART. 2895.- El registro producirá sus efectos desde el día y la hora en que el documento se hubiese presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2025)</small>
 
-ART. 2896.- Cuando vaya a otorgarse una escritura en la que se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión de bienes raíces o cualquier derecho real sobre los mismos, o que sin serlo sea inscribible, el notario o autoridad ante quien se haga el otorgamiento, podrá solicitar por una sola vez y previo el pago de los derechos correspondientes al Registro Público, un certificado sobre la existencia o inexistencia de gravámenes en relación con la misma. En esta solicitud, que surtirá efectos de aviso pre-preventivo, deberá mencionar la operación y bien de que se trate, los nombres de los contratantes y la indicación del número, tomo y sección en que estuviere inscrita la propiedad en el Registro. El registrador, con esta solicitud y sin cobro de derechos por este concepto, practicará inmediatamente la anotación de presentación al margen de la inscripción de propiedad, anotación que tendrá una vigencia por un término de treinta días hábiles a partir de la fecha de presentación de la solicitud.
+ART. 2896.- Cuando vaya a otorgarse una escritura en la que se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión de bienes raíces o cualquier derecho real sobre los mismos, o que sin serlo sea inscribible, el notario o autoridad ante quien se haga el otorgamiento, podrá solicitar por una sola vez y previo el pago de los derechos correspondientes al Registro Público, un certificado sobre la existencia o inexistencia de gravámenes en relación con la misma. En esta solicitud, que surtirá efectos de aviso pre-preventivo, deberá mencionar la operación y bien de que se trate, los nombres de los contratantes y la indicación del número, tomo y sección en que estuviere inscrita la propiedad en el Registro. El registrador, con esta solicitud y previo pago de derechos correspondientes, practicará inmediatamente la anotación de presentación al margen de la inscripción de propiedad, anotación que tendrá una vigencia por un término de treinta días hábiles a partir de la fecha de presentación de la solicitud.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2025)</small>
 
-Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo precedente, haya habido o no aviso pre-preventivo, el notario ante quien se otorgó dará aviso preventivo acerca de la operación de que se trate al Registro Público, y contendrá además de los datos mencionados en el párrafo anterior, la fecha de la escritura y la de su firma. El registrador, con el aviso citado y sin cobro de derecho alguno, practicará de inmediato la anotación de la presentación correspondiente, la cual tendrá una vigencia de ciento veinte días hábiles a partir de la fecha de la firma de la escritura. Si este se da dentro del término de treinta días a que se contrae el párrafo anterior, sus efectos preventivos se retrotraerán a la fecha de presentación de la solicitud a que se refiere el mismo párrafo; en caso contrario, sólo surtirá efectos desde la fecha en que fue presentado y según el número de entrada que le corresponda.
+Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo precedente, haya habido o no aviso pre-preventivo, el notario ante quien se otorgó dará aviso preventivo acerca de la operación de que se trate al Registro Público, y contendrá además de los datos mencionados en el párrafo anterior, la fecha de la escritura y la de su firma. El registrador, con el aviso citado y previo pago de derechos correspondientes, practicará de inmediato la anotación de la presentación correspondiente, la cual tendrá una vigencia de ciento veinte días hábiles a partir de la fecha de la firma de la escritura. Si ésta se da dentro del término de treinta días a que se contrae el párrafo anterior, sus efectos preventivos se retrotraerán a la fecha de presentación de la solicitud a que se refiere el mismo párrafo; en caso contrario, sólo surtirá efectos desde la fecha en que fue presentado y según el número de entrada que le corresponda.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
 
@@ -11516,6 +11518,22 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 23 DE NOVIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 278 QUE CONTIENE REFORMAS Y ADICIONES A DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, DEL CÓDIGO CIVIL Y DEL CÓDIGO PENAL DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 299 QUE CONTIENE REFORMAS AL CÓDIGO CIVIL DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día primero de enero de 2026 y será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 300 QUE CONTIENE REFORMAS AL ARTÍCULO 408 DEL CÓDIGO CIVIL EN MATERIA DE JUSTICIA PARA ADOLESCENTES”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
