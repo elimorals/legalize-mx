@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-proteccion-civil-del-estado-de-durango-125579"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-28"
-last_updated: "2022-11-10"
+last_updated: "2025-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE PROTECCION CIVIL DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 28 de diciembre de 2017.
 
@@ -49,9 +51,13 @@ LEY DE PROTECCIÓN CIVIL DEL ESTADO DE DURANGO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público e interés social y de observancia general por todas las autoridades, organismos, dependencias e instituciones de carácter público, social o privado, grupos voluntarios y en general para todos los habitantes del Estado de Durango, tiene por objeto regular las acciones en materia de protección civil.
+Esta ley es de orden público e interés social, y su observancia es obligatoria para todas las autoridades, organismos, dependencias e instituciones de carácter público, social o privado, así como para todas las empresas, las cuales deberán clasificarse según el riesgo conforme a su actividad económica, peligrosidad y exposición de los trabajadores, y tiene por objeto regular las acciones en materia de protección civil.
+
+Las empresas deberán clasificarse según el riesgo de trabajo conforme al Catálogo de Actividades establecido en la legislación reglamentaria correspondiente. Esta clasificación, determinará las obligaciones específicas en materia de protección civil, incluyendo la implementación de programas internos, la capacitación del personal y la contribución financiera a los fondos de protección civil.
 
 ###### ARTÍCULO 2.
 
@@ -593,9 +599,15 @@ Para el caso de las unidades hospitalarias, en la elaboración del programa inte
 
 En el caso de los establecimientos y sitios turísticos con afluencia de personas extranjeras, los particulares estarán obligados a reproducir y difundir, las medidas de seguridad en materia de protección civil, así como los protocolos que se establezcan en dicho establecimiento, en por lo menos un idioma, dialecto o lenguaje distinto al español.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 42.
 
-Los inmuebles e instalaciones fijas y móviles de las dependencias, entidades, instituciones, organismos, industrias o empresas pertenecientes a los sectores público, privado y social, a que se refiere el Reglamento de esta Ley, deberán contar con un Programa Interno de Protección Civil, el cual deberá ser elaborado, actualizado, operado y vigilado por la Unidad Interna de Protección Civil, la que podrá ser asesorada por una persona física o moral que cuente con el registro actualizado correspondiente, de acuerdo con lo que se establece en el artículo 44 de esta Ley.
+Todas las autoridades, organismos, dependencias e instituciones de carácter público, social o privado, así como las empresas clasificadas conforme a su nivel de riesgo, deberán coadyuvar y cooperar con las autoridades competentes en materia de protección civil, implementando programas internos de protección civil, los cuáles serán revisados, validados y registrados por la autoridad correspondiente de forma anual, mismos que estarán adecuados al nivel de riesgo conforme a su actividad económica, peligrosidad y exposición de los trabajadores.
+
+La validación anual será requisito indispensable para la vigencia de autorizaciones, licencias o permisos vinculados a la operación del establecimiento, y su incumplimiento podrá ser causal de sanción conforme a lo dispuesto en el presente ordenamiento.
+
+Las cuotas que las empresas deben pagar para la aprobación de programas internos de protección civil, así como programas especiales y/o programas de emergencia serán determinadas en función de su clasificación de riesgo conforme a la normativa de la materia.
 
 ###### ARTÍCULO 43.
 
@@ -1666,3 +1678,13 @@ P.O. 10 DE NOVIEMBRE DE 2022.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 302 QUE CONTIENE REFORMAS A LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presento Decreto entrará en vigor el día primero de enero de 2026, y será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Se concede un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto, para que la Coordinación Estatal de Protección Civil adecue las disposiciones reglamentarias al contenido de la presente reforma.
