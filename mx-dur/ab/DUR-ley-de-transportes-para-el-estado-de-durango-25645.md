@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transportes-para-el-estado-de-durango-25645"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-13"
-last_updated: "2025-10-23"
+last_updated: "2025-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE TRANSPORTES PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 13 de junio de 2002.
 
@@ -1341,6 +1341,12 @@ VIII. Informar oportunamente a la autoridad competente sobre cualquier irregular
 
 IX. Las demás que le establezca la Subsecretaría y otros ordenamientos legales aplicables.
 
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 95 DUODECIES BIS.- Quienes operen vehículos que presten el servicio de transporte especializado en su modalidad de ejecutivo privado, a través de plataformas tecnológicas y/o de una aplicación, deberán inscribirse ante la Subsecretaría, quien deberá llevar el registro correspondiente para tales efectos, exceptuando aquellos que cuenten con concesión de servicio público.
+
+Dicho registro deberá refrendarse de manera anual, conforme a las disposiciones reglamentarias derivadas de esta Ley, y a las que emita la propia Subsecretaría.
+
 > <small>(ADICIONADO, P.O. 27 DE JULIO DE 2023)</small>
 
 ARTÍCULO 95 TERDECIES.- El reglamento respectivo establecerá los requisitos que deberán cumplir las empresas de redes de transporte para obtener la autorización que otorga el Estado para este tipo de transporte, así como las cualidades mínimas que las plataformas tecnológicas deberán utilizar.
@@ -1972,3 +1978,15 @@ P.O. 23 DE OCTUBRE DE 2025.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y administrativas que contravengan al presente decreto.
+
+P.O. 14 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 303 POR EL QUE SE ADICIONA EL ARTÍCULO 95 DUODECIES BIS, A LA LEY DE TRANSPORTES PARA EL ESTADO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día primero de enero de 2026, previa publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
