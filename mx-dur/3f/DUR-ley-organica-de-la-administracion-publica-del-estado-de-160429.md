@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-administracion-publica-del-estado-de-160429"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2022-10-02"
-last_updated: "2024-12-26"
+last_updated: "2025-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2025.
 
 Ley publicada en el No. 79 del Periódico Oficial del Estado de Durango, el domingo 2 de octubre de 2022.
 
@@ -237,7 +237,9 @@ VII. Secretaría de Salud;
 
 VIII. Secretaría de Educación;
 
-IX. Secretaría de Contraloría;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2025)</small>
+
+IX. Secretaría de Contraloría y Transparencia Gubernamental
 
 X. Secretaria de Recursos Naturales y Medio Ambiente;
 
@@ -419,7 +421,9 @@ XXXVIII. Expedir certificados de constancias de los expedientes relativos a asun
 
 XXXIX. Dirigir, coordinar y vigilar el cumplimiento de las leyes y reglamentos en materia de organización y métodos, recursos humanos, servicios generales, adquisiciones y suministros;
 
-XL. Elaborar e implementar programas de mejoramiento administrativo, en coordinación con la Secretaría de Contraloría, con el objeto de eficientar y simplificar las funciones de las dependencias de la administración pública;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2025)</small>
+
+XL. Elaborar e implementar programas de mejoramiento administrativo, en coordinación con la Secretaría de Contraloría y Transparencia Gubernamental, con el objeto de eficientar y simplificar las funciones de las dependencias de la administración pública;
 
 XLI. Elaborar, con la participación de las demás dependencias del Poder Ejecutivo del Estado, los manuales de organización y procedimientos de las oficinas públicas;
 
@@ -523,7 +527,9 @@ V. Someter a la consideración de la persona titular del Ejecutivo, las solicitu
 
 VI. Construir, operar, vigilar y conservar los servicios de telefonía y radiotelefonía del Estado y los demás medios que no estén considerados como vías de comunicación de jurisdicción federal, así como fomentar las telecomunicaciones;
 
-VII. De acuerdo a las leyes federal y estatal de obras públicas, y en coordinación con la Secretaría de Contraloría, expedir las bases a que deberán sujetarse los concursos para la realización de obras en la entidad, debiendo informar a los participantes de los resultados de los mismos, así como vigilar el cumplimiento de los contratos celebrados;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2025)</small>
+
+VII. De acuerdo a las leyes federal y estatal en materia de obras públicas y en coordinación con la Secretaría de Contraloría y Transparencia Gubernamental, expedir las bases a que deberán sujetarse los concursos para la realización de obras en la entidad, debiendo informar a los participantes de los resultados de los mismos, así como vigilar el cumplimiento de los contratos celebrados;
 
 VIII. Formular por convocatoria en el mes de enero de cada año, un padrón por especialidades de profesionistas, empresarios de la construcción y proveedores de insumos, que comprueben solvencia moral y económica para la adjudicación y contratación de obras públicas y el suministro a las dependencias que las ejecuten;
 
@@ -553,7 +559,9 @@ XX. En coordinación con la instancia del Gobierno del Estado encargada de la pl
 
 XXI. Asesorar y apoyar a los ayuntamientos que lo soliciten, respecto de la procedencia de las solicitudes de fraccionamiento, relotificación, fusión y subdivisión de terrenos y la construcción del régimen de propiedad en condominio; así como en la supervisión de la ejecución de las obras de urbanización; atendiendo a la ley y a sus reglamentos;
 
-XXII. Proyectar las normas relativas para el mejor uso, explotación y aprovechamiento de los bienes inmuebles del Gobierno del Estado, elaborar y mantener al corriente el avalúo de dichos bienes y reunir, revisar y determinar las normas y procedimientos para realizarlo con la Secretaría de Contraloría;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2025)</small>
+
+XXII. Proyectar las normas relativas para el mejor uso, explotación y aprovechamiento de los bienes inmuebles del Gobierno del Estado, elaborar y mantener al corriente el avalúo de dichos bienes y reunir, revisar y determinar las normas y procedimientos para realizarlo con la Secretaría de Contraloría y Transparencia Gubernamental;
 
 XXIII. Tramitar, previo acuerdo con la persona titular del Ejecutivo y en coordinación con la Secretaría de Finanzas y de Administración, la adquisición, enajenación, destino o afectación de los bienes inmuebles del Poder Ejecutivo; debiendo obtener la correspondiente autorización del Congreso en los casos de enajenación;
 
@@ -967,111 +975,121 @@ XLI. En coordinación con la Secretaría de Salud, promover y coordinar programa
 
 XLII. Los demás que le fijen expresamente las leyes, reglamentos y otros ordenamientos jurídicos.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 28.
 
-A la Secretaría de Contraloría, le compete el despacho de los siguientes asuntos:
+A la Secretaría de Contraloría y Transparencia Gubernamental, le compete el despacho de los siguientes asuntos:
 
-I. Planear, organizar, operar, dirigir y coordinar el sistema estatal de control y evaluación gubernamental, para efectos preventivos y correctivos;
+I. Elaborar y conducir la política pública en materia de integridad, evaluación de la gestión gubernamental, mejora continua, transparencia en la gestión pública, rendición de cuentas, fiscalización y acciones de prevención de la corrupción;
 
-II. Expedir las normas que regulen el funcionamiento, procesos y procedimientos de control en la administración pública estatal, así como vigilar su cumplimiento, y en su caso, prestar el apoyo y asesoramiento que le sea solicitado por las dependencias;
+II. Promover los mecanismos de coordinación necesarios con los integrantes del Sistema Nacional de Fiscalización y del Sistema Local de Fiscalización para el intercambio de información, ideas y experiencias encaminadas a avanzar en el desarrollo de la auditoría y fiscalización de los recursos públicos, así como para la ejecución de acciones en los rubros relacionados con el ejercicio de los mismos; y la formulación de propuestas que mejoren la eficacia en las acciones de prevención de hechos de corrupción, faltas administrativas y el fomento de la transparencia y la rendición de cuentas en la gestión gubernamental;
 
-III. Vigilar el debido ejercicio del gasto público y verificar su congruencia con el presupuesto de egresos, practicando las auditorias, revisiones, fiscalizaciones, verificaciones e inspecciones necesarias para tal efecto a las dependencias y entidades del Poder Ejecutivo; funciones que serán de su única competencia;
+III. Emitir las normas en el ámbito de su competencia que regulen los instrumentos y procedimientos de control interno de la administración pública estatal, conforme a las mejores prácticas en materia de contrataciones y obras públicas en términos de las disposiciones jurídicas aplicables;
 
-IV. Constatar el cumplimiento, por parte de las dependencias y entidades de la administración pública estatal, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio, fondos y valores de la propiedad y/o al cuidado del Gobierno del Estado;
+IV. Emitir exhortos, recomendaciones y apercibimientos a los servidores públicos de las dependencias y entidades de la administración pública estatal, para el adecuado desempeño de sus funciones;
 
-V. Coadyuvar en el desarrollo administrativo en las dependencias y entidades de la administración pública estatal, a fin de que los recursos financieros, humanos, materiales, así como los procesos y procedimientos de las mismas, sean aplicados con los criterios de legalidad, honradez, eficiencia e imparcialidad;
+V. Emitir, en el ámbito de su competencia, las normas que regulen los instrumentos y procedimientos en materia de investigación, fiscalización y auditorías internas, transversales o externas, incluida la fiscalización o auditorías de gabinete y electrónicas o cualquier otro tipo de revisiones, así como realizar las investigaciones, actos de fiscalización o auditorías que se requieran;
 
-VI. Vigilar y supervisar, directamente o a través de los órganos de control, que las dependencias y entidades de la administración pública estatal, cumplan con las normas y disposiciones en materia de contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamiento, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales;
+VI. Auditar, revisar, supervisar y evaluar el ejercicio del gasto público de la administración pública estatal y su congruencia con el presupuesto de egresos;
 
-VII. Vigilar, directamente o a través de los órganos de control, que las dependencias y entidades de la administración pública estatal, verifiquen y actualicen periódicamente el patrimonio respectivo, propiedad del Gobierno;
+VII. Auditar, revisar, supervisar y evaluar técnica y financieramente los recursos federales ejercidos por las dependencias, órganos y entidades, derivados de los acuerdos o convenios suscritos con los órganos de fiscalización y control federales;
 
-VIII. Intervenir en las ventas, remates y donaciones de los bienes muebles e inmuebles, propiedad del Gobierno del Estado, con base a las disposiciones constitucionales, legales y reglamentarias vigentes;
+VIII. Vigilar y dar seguimiento a la ejecución de los programas federales, en las dependencias y entidades, para verificar la pertinencia y efectividad de la actuación gubernamental, enfatizando el rol detectivo, preventivo y correctivo que permita focalizar e inhibir actos de corrupción;
 
-IX. Llevar a cabo la evaluación sistemática del ejercicio de los recursos, propiedad del Gobierno del Estado, y de aquellos que por cualquier concepto tenga bajo su responsabilidad;
+IX. Establecer, regular y emitir los plazos y términos para solventar auditorías o aquellos que dentro de su ámbito de competencia no se encuentren regulados por otras disposiciones legales; así como solicitar cualquier tipo de información a las dependencias y entidades que conforman la administración pública estatal, para tal propósito;
 
-X. Informar periódicamente al Consejo Coordinador del Sistema Local Anticorrupción, así como a la persona titular del Ejecutivo, sobre el resultado de la evaluación, respecto de la gestión de las dependencias y entidades de la administración pública estatal; así como de aquellas que hayan sido objeto de fiscalización, e informar a las autoridades competentes, cuando proceda, del resultado de tales intervenciones y, en su caso, promover ante las autoridades competentes las acciones que procedan para corregir las irregularidades detectadas;
+X. Establecer los esquemas de vigilancia y control preventivo, definiendo los mecanismos de interrelación entre los diferentes instrumentos de control, tales como los órganos internos de control y las auditorías externas;
 
-XI. Establecer y mantener coordinación, a través del instrumento que se suscriba para tal efecto con las entidades fiscalizadoras de los distintos órganos de gobierno, para el establecimiento de las acciones necesarias, en el cumplimiento de sus respectivas atribuciones;
+XI. Ejercer las facultades de coordinación, control, evaluación y auditoría gubernamental, en forma directa o a través de los órganos internos de control, de las dependencias y entidades a la que se encuentren designados; así como en materia de responsabilidades administrativas, aplicar lo dispuesto por la legislación y normatividad correspondiente;
 
-XII. Promover y apoyar a los ayuntamientos de la entidad, para la implementación y funcionamiento de órganos de control municipales;
+XII. Establecer los mecanismos necesarios que prevengan actos u omisiones que puedan constituir responsabilidades administrativas e impulsar la participación ciudadana y la cultura cívica y ética que contribuya a la mejora continua;
 
-XIII. Establecer las normas y procedimientos para la entrega y recepción de las dependencias y entidades del Poder Ejecutivo del Estado;
+XIII. Organizar y coordinar el sistema de control interno y evaluar la gestión gubernamental y sus resultados, para efectos correctivos y preventivos, así como concertar con las dependencias y entidades, los indicadores para dicha evaluación, en los términos de las disposiciones jurídicas aplicables;
 
-XIV. Vigilar que se lleve a cabo, en tiempo y forma, la entrega y recepción de la administración pública estatal, de conformidad con lo estipulado en la ley de la materia;
+XIV. Evaluar el sistema de control interno institucional y proponer las medidas que permitan el cumplimiento de las metas y objetivos institucionales;
 
-XV. Designar a los auditores externos de las entidades, así como normar y controlar su desempeño;
+XV. Vigilar directamente o a través de los Órganos Internos de Control, que las dependencias y entidades cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, presupuesto, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la administración pública estatal, así como lo dispuesto para los procesos de entrega-recepción;
 
-XVI. Designar, reubicar y remover a los titulares y servidores públicos de los órganos internos de control de las dependencias y entidades de la administración pública estatal, así como a los de las áreas de auditoría, quejas y responsabilidades de tales órganos, quienes dependerán jerárquica y funcionalmente de la Secretaría de Contraloría, tendrán el carácter de autoridad y realizaran la defensa jurídica que emitan en la esfera administrativa y ante los tribunales federales y estatales, representando a la persona titular de dicha Secretaría, previo poder otorgado por esta misma.
+XVI. Promover y apoyar a los ayuntamientos de la entidad, para la implementación y funcionamiento de sus órganos de control municipales;
 
-Los titulares de los órganos internos de control de las dependencias y entidades de la administración pública estatal y de sus áreas de auditoría, quejas y responsabilidades, serán responsables de mantener el control interno de la dependencia o entidad a la que se encuentren adscritos. Asimismo, tendrán como función apoyar la política de control interno y la toma de decisiones relativas al cumplimiento de los objetivos y políticas institucionales, así como al óptimo desempeño de servidores públicos y órganos, a la modernización continua y desarrollo eficiente de la gestión administrativa y al correcto manejo de los recursos públicos;
+Brindar acompañamiento y asesoría de manera continua en materia de transparencia, acceso a la información pública y protección de datos personales a los responsables de las unidades de transparencia del ámbito municipal;
 
-XVII. Operar el sistema estatal de inconformidades, quejas y denuncias, promoviendo la participación ciudadana para que exponga las quejas, denuncias e inconformidades que se deriven de las irregularidades de la actuación del servidor público, así como las deficiencias que detecte en el servicio público;
+XVII. Intervenir en las ventas, remates y donaciones de los bienes muebles e inmuebles propiedad del Gobierno del Estado, con base en las disposiciones normativas aplicables;
 
-XVIII. Conocer y resolver las inconformidades y recursos presentados por los particulares con motivo de cualquier acto de contratación que contravenga las disposiciones que rigen las Leyes correspondientes en materia de obras públicas y de adquisiciones;
+XVIII. Elaborar el programa anual de fiscalización orientado a promover la eficacia, eficiencia, economía y legalidad en la gestión pública;
 
-XIX. Vigilar la correcta aplicación de la Ley General de Responsabilidades Administrativas y aplicar las sanciones administrativas que le correspondan;
+XIX. Operar el sistema estatal de inconformidades, quejas y denuncias, promoviendo la participación ciudadana para que exponga las quejas, denuncias e inconformidades que se deriven de las irregularidades de la actuación del servidor público, así como las deficiencias que detecte en el servicio público;
 
-XX. Conocer e investigar las conductas de los servidores públicos de la administración pública estatal que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley General de Responsabilidades Administrativas, por sí, o por conducto de los órganos internos de control que correspondan a cada área de la administración pública estatal; para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal de Justicia Administrativa del Estado de Durango y, cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
+XX. Conocer y resolver las inconformidades y recursos presentados por los particulares con motivo de cualquier acto de contratación que contravenga las disposiciones que rigen las Leyes correspondientes en materia de obras públicas y de adquisiciones;
 
-XXI. Operar el control de los avances físicos y financieros de los programas de inversión convenidos entre los gobiernos federal, estatal y municipal;
+XXI. Promover en las dependencias y entidades mecanismos de participación ciudadana, en los programas de desarrollo social y obras públicas;
 
-XXII. Supervisar el avance de las obras y vigilar su cumplimiento de acuerdo a las especificaciones programadas;
+XXII. Vigilar que las dependencias y entidades rindan los informes y remitan la información correspondiente a los órganos de fiscalización y control competentes, de conformidad con las disposiciones normativas aplicables;
 
-XXIII. Informar a la Secretaría de la Función Pública del Gobierno Federal, sobre el resultado y el seguimiento de las auditorías producto del programa de trabajo que anualmente suscriban de manera conjunta;
+XXIII. Vigilar en el ámbito de su competencia, el cumplimiento de las obligaciones de proveedores y contratistas, adquiridas con el Poder Ejecutivo, solicitándoles la información relacionada con las operaciones que realicen, y en su caso, determinar las deductivas, sanciones y revocaciones, así como promover las responsabilidades que en su caso procedan, conforme a la normatividad aplicable.
 
-XXIV. Vigilar la exacta y adecuada observancia de las Leyes que rijan en materia de adquisiciones y obras públicas;
+XXIV. Opinar sobre los proyectos de normas de contabilidad gubernamental, control presupuestal, programación, administración de recursos humanos, materiales y financieros, de austeridad, contratación de deuda o manejo de fondos y valores, que formulen las dependencias y entidades competentes, así como, sobre las iniciativas de leyes, reglamentos, acuerdos y lineamientos jurídicos que correspondan al ámbito de su competencia. Asimismo, con respecto a la normatividad que expidan las dependencias y entidades competentes para regular las adquisiciones arrendamiento de bienes y servicios, así como de obras públicas y servicios relacionados con las mismas;
 
-XXV. Proponer y establecer las medidas que considere necesarias para prevenir y combatir la corrupción, así como establecer mecanismos internos para la administración pública estatal que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
+XXV. Designar a las y los prestadores de servicios profesionales de auditorías externas gubernamentales de las dependencias y entidades, así como normar y vigilar su desempeño;
 
-XXVI. Designar y remover a los comisarios públicos y sus suplentes, en los órganos de gobierno o de vigilancia de las entidades de la administración pública paraestatal, así como a los titulares de las unidades de control interno quienes dependerán jerárquica y funcionalmente de la Secretaría de Contraloría;
+XXVI. Designar y remover a los comisarios públicos y sus suplentes, en los órganos de gobierno o de vigilancia de las entidades de la administración pública paraestatal, así como los titulares de la unidad de control interno, quienes dependerán jerárquica y funcionalmente de la Secretaría de Contraloría y Transparencia Gubernamental;
 
-XXVII. Aplicar dentro del ámbito de su competencia la Ley en materia de responsabilidades administrativas;
+XXVII. Ejercer las atribuciones que le correspondan en materia de transparencia, acceso a la información pública y protección de datos personales, de conformidad con las disposiciones jurídicas aplicables, así como conocer de los procedimientos relativos a su protección, verificación e imposición de sanciones;
 
-XXVIII. Elaborar y ejecutar programas de capacitación y evaluación permanente de los servidores públicos;
+XXVIII. Formular y conducir la política de la administración pública estatal para establecer medidas que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas, el acceso por parte de los particulares a la información que aquélla genere y la protección de datos personales, de conformidad con las disposiciones jurídicas aplicables, así como promover dichas acciones hacia la sociedad;
 
-XXIX. Establecer los mecanismos que permitan instrumentar y operar el servicio público de carrera, conforme a las disposiciones jurídicas aplicables;
+XXIX. Establecer las políticas, bases y normativa para la determinación de la información con sentido social que, en materia de anticorrupción y buen gobierno, se deba difundir;
 
-XXX. Evaluar los programas y acciones destinadas al mejoramiento de la eficiencia y calidad gubernamental en las funciones y servicios a cargo de las dependencias y entidades;
+XXX. Promover y consolidar los principios de la transparencia y acceso a la información pública, y los mecanismos de participación ciudadana evaluación (sic) de la gestión pública;
 
-XXXI. Establecer, regular y emitir los plazos y términos para solventar auditorías o aquellos que dentro de su ámbito de competencia no se encuentren regulados por otras disposiciones legales;
+XXXI. Garantizar en el ámbito de su competencia el ejercicio de los derechos de acceso a la información pública y la protección de datos personales. Conforme a los principios y bases establecidos en los artículos 6 y 16 de la Constitución Política de los Estados Unidos Mexicanos y artículo 29 de la Constitución Política del Estado Libre y Soberano del Estado de Durango;
 
-XXXII. Solicitar cualquier tipo de información a las dependencias, entidades y organismos que conforman la administración pública estatal;
+XXXII. Promover la correcta aplicación de las leyes, normas y políticas en materia de transparencia, acceso a la información pública, protección de datos personales, transparencia con sentido social y apertura institucional y datos abiertos;
 
-XXXIII. Promover y fomentar la transparencia y el acceso a la información pública en las dependencias, entidades y organismos de la administración pública estatal;
+XXXIII. Conformar y presidir el Subsistema de Transparencia del Estado de Durango y garantizar el correcto funcionamiento del mismo, de conformidad con lo dispuesto por la Ley General de Transparencia y Acceso a la Información Pública y la Ley de Transparencia y Acceso a la Información Pública del Estado de Durango y sus Municipios.
 
-XXXIV. Impulsar y promover acciones de contraloría social que coadyuven a abatir los actos de corrupción;
+XXXIV. Solicitar información a los integrantes del Comité del Subsistema de Transparencia a fin de conformar los informes correspondientes al Consejo Nacional;
 
-XXXV. Suscribir los convenios y acuerdos que sean del ámbito de su competencia;
+XXXV. Coordinarse con el Consejo Nacional y otras Autoridades Garantes para la implantación de políticas nacionales y el intercambio de mejores prácticas;
 
-XXXVI. Elaborar y revisar los proyectos de iniciativas de ley en los cuales tenga competencia;
+XXXVI. Proponer la interposición de acciones de inconstitucionalidad en contra de leyes locales que vulneren el derecho de acceso a la información y la protección de datos personales;
 
-XXXVII. Emitir los criterios y lineamientos para la elaboración de los manuales de organización y procedimientos, y vigilar que las dependencias y entidades cumplan con los mismos y demás ordenamientos legales;
+XXXVII. Emitir y difundir el Código de Ética de las personas servidoras públicas del Gobierno del Estado de Durango y las Reglas de Integridad para el ejercicio de la gestión pública, así como promover en el sector privado directrices para la emisión de sus Códigos de Ética y modelos de declaración de integridad;
 
-XXXVIII. Emitir lineamientos, manuales, circulares y demás disposiciones legales que sean del ámbito de su competencia;
+XXXVIII. Impulsar la transparencia y la publicación de datos en formatos accesibles a la ciudadanía; promoviendo la aplicación de las políticas de datos abiertos en la administración pública estatal, en términos de las disposiciones jurídicas aplicables;
 
-XXXIX. Coordinar y supervisar la evaluación del desempeño de las dependencias y entidades de la administración pública estatal;
+XXXIX. Vigilar el desarrollo administrativo integral en las dependencias y entidades, así como las normas para que los recursos humanos y patrimoniales sean aprovechados y los procedimientos técnicos sean aplicados con criterios de eficacia, eficiencia, economía, honestidad, transparencia y legalidad;
 
-XL. Ejercer las facultades que la Constitución Federal le otorga a los órganos internos de control para revisar, mediante las auditorías a que se refiere el presente artículo, el ingreso, manejo, custodia y ejercicio de recursos públicos estatales;
+XL. Impulsar la integridad de las personas servidoras públicas, así como diseñar y aplicar los programas de capacitación que promuevan la transparencia, rendición de cuentas y la mejora de la gestión pública;
 
-XLI. Establecer las medidas pertinentes de coordinación con la administración pública estatal en materia de seguimiento, control y evaluación de los recursos públicos federales;
+XLI. Emitir opiniones sobre la política, normas y criterios, en materia de planeación y administración de recursos humanos para la contratación de las personas servidoras públicas, en coordinación con las dependencias y entidades de conformidad con las normas de control de gasto en materia de servicios personales y demás disposiciones jurídicas aplicables;
 
-XLII. Emitir exhortos, recomendaciones y apercibimientos a los servidores públicos de las dependencias y entidades de la administración pública estatal, para el adecuado desempeño de sus funciones;
+XLII. Promover la formación cívica y la participación ciudadana en materia de anticorrupción y buen gobierno;
 
-XLIII. Operar y coordinar los sistemas o líneas estratégicas que en el ámbito de sus atribuciones implemente, con la finalidad de fortalecer las acciones de fiscalización, legalidad, eficiencia administrativa, transparencia, rendición de cuentas y contraloría social;
+XLIII. Impulsar y promover acciones de contraloría social con la participación de los sectores social y privado en la prevención y combate a la corrupción, mejora de la gestión pública y, en su caso, celebrar los convenios correspondientes;
 
-XLIV. Formular y conducir en apego y de conformidad con las bases de coordinación que establezca el Consejo Coordinador del Sistema Local Anticorrupción, la política general de la administración pública estatal para el combate a la corrupción, así como establecer acciones que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquélla genere; así como promover dichas acciones hacia la sociedad;
+XLIV. Intervenir, en el ámbito de su competencia en los Sistemas Nacional y Local Anticorrupción, en términos de las disposiciones jurídicas aplicables;
 
-XLV. Emitir el Código de Ética de los servidores públicos del Poder Ejecutivo y las Reglas de Integridad para el ejercicio de la función pública, conforme los lineamientos que emita el Sistema Nacional Anticorrupción;
+XLV. Promover las políticas de coordinación que implemente el Sistema Estatal Anticorrupción, en materia de combate a la corrupción en la administración pública estatal, en términos de las disposiciones jurídicas aplicables;
 
-XLVI. Supervisar la ejecución de los procedimientos de contratación pública por parte de los contratantes para garantizar que se lleva a cabo en los términos de las disposiciones en la materia, llevando a cabo las verificaciones procedentes si descubren anomalías;
+XLVI. Vigilar el cumplimiento de la política de contrataciones públicas reguladas por la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Durango y la Ley de Obra Pública y Servicios relacionados con la misma para el Estado de Durango y sus Municipios, y hacer recomendaciones con carácter preventivo en los procedimientos de contratación regulados por las leyes mencionadas, en términos de las disposiciones jurídicas aplicables;
 
-XLVII. Fungir como integrante del Sistema Nacional de Fiscalización en términos de la legislación aplicable;
+XLVII. Acceder en el ámbito de su competencia, a la información, documentación, datos e imágenes, registros y demás relacionadas en poder de la administración pública estatal que contribuyan con las investigaciones y actos de fiscalización;
 
-XLVIII. Coordinar y supervisar el sistema de control interno, establecer las bases generales para la realización de auditorías internas, transversales y externas; expedir las normas que regulen los instrumentos y procedimientos en dichas materias en las dependencias y entidades de la administración pública estatal, así como realizar las auditorías que se requieran en éstas, en sustitución o apoyo de sus propios órganos internos de control;
+XLVIII. Celebrar convenios, acuerdos y demás instrumentos jurídicos con instituciones públicas y privadas de los tres niveles de gobierno;
 
-XLIX. Llevar y normar el registro de servidores públicos de la administración pública estatal, recibir y registrar las declaraciones patrimoniales y de intereses que deban presentar, así como verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables. También registrará la información sobre las sanciones administrativas que, en su caso, les hayan sido impuestas; y
+XLIX. Nombrar y remover libremente a las personas titulares de los Órganos Internos de Control, así como al demás personal en los Órganos Internos de Control en las dependencias y entidades, los cuales dependerán jerárquica y funcionalmente de la Secretaría de Contraloría y Transparencia Gubernamental. Los Órganos Internos de Control de las dependencias atenderán los asuntos de sus Órganos Desconcentrados;
 
-L. Las demás que le encomiende la persona titular del Ejecutivo o le señalen las leyes, Reglamentos y demás normatividad aplicable.
+L. Conocer e investigar las conductas de las personas servidoras públicas de la administración pública estatal que puedan constituir responsabilidades, así como substanciar los procedimientos correspondientes, conforme a lo establecido en la Ley General de Responsabilidades Administrativas; aplicar las sanciones por faltas administrativas no graves y, cuando se trate de faltas administrativas graves, remitir el expediente respectivo ante los Tribunales correspondientes, así como presentar las denuncias por actos u omisiones presumiblemente constitutivas de delitos ante la Fiscalía Especializada en Combate a la Corrupción del Estado de Durango y demás autoridades competentes, en términos de las disposiciones jurídicas aplicables;
+
+LI. Sancionar el proceso de entrega-recepción de las dependencias y entidades, en los términos de la legislación y normatividad respectivas; así como llevar registro de las actas de entrega-recepción y de las sanciones administrativas que se deriven de las mismas;
+
+LII. Recibir y registrar las declaraciones patrimoniales y de intereses que deban presentar, así como verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones normativas aplicables.
+
+LIII. Aplicar las sanciones procedentes por el incumplimiento en la presentación extemporánea de las declaraciones de situación patrimonial y de intereses, inicial, modificación o de conclusión de encargo. De igual manera, llevar registro de la información sobre las sanciones administrativas que, en su caso, les hayan sido impuestas; y
+
+LIV. Las demás que se prevean en otras disposiciones y las que le sean encomendadas por la persona titular del Poder Ejecutivo.
 
 ###### ARTÍCULO 29.
 
@@ -1691,9 +1709,13 @@ IV. Requerir a los contribuyentes, responsables solidarios o terceros con ellos 
 
 V. Tramitar y resolver las solicitudes para el pago diferido o en parcialidades de los créditos fiscales y sus accesorios, previa garantía del interés fiscal, de conformidad con las leyes fiscales federales y estatales;
 
-VI. Llevar a cabo en los términos de la legislación fiscal federal y estatal, el Procedimiento Administrativo de Ejecución para hacer efectivos los créditos fiscales a cargo de contribuyentes, responsables solidarios, terceros con ellos relacionados y demás obligados, así como para exigir las garantías constituidas para asegurar el interés fiscal;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2025)</small>
 
-VII. Aceptar y custodiar las garantías previa calificación de las mismas, que los contribuyentes otorguen para cubrir los créditos fiscales, respecto de los cuales se aplique el Procedimiento Administrativo de Ejecución o sobre los que se autorice su pago diferido o en parcialidades, así como el de autorizar la sustitución de las citadas garantías, cancelarlas como proceda, y llevar a cabo el embargo en la vía administrativa como medio de garantía en términos de las disposiciones fiscales;
+VI. Llevar a cabo (sic) términos de la legislación fiscal federal y estatal el procedimiento administrativo de ejecución para hacer efectivos los créditos fiscales a cargo de los contribuyentes, responsables solidarios y demás obligados, incluyendo el embargo de cuentas bancarias y de inversiones a nombre de los contribuyentes deudores y responsables solidarios, terceros con ellos relacionados y demás obligados así como, para colocar sellos y marcas oficiales con los que se identifiquen los bienes embargados y hacer efectivas las garantías constituidas para asegurar el interés fiscal;
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2025)</small>
+
+VII. Tramitar, aceptar, rechazar o cancelar, según proceda, las garantías previa calificación de las mismas para asegurar el interés fiscal, así como sus ampliaciones, disminuciones o sustituciones; solicitar la práctica de avalúos en relación con los bienes que se ofrezcan para garantizar el interés fiscal; ampliar el embargo en bienes del contribuyente o responsable solidario cuando se estime que los bienes embargados son insuficientes para cubrir los créditos fiscales, o cuando la garantía del interés fiscal resulte insuficiente, y llevar a cabo el embargo en la vía administrativa como medio de garantía en términos de las disposiciones fiscales;
 
 VIII. Practicar embargos precautorios en la forma y términos que proceda conforme a las leyes fiscales, para asegurar el interés fiscal, cuando a su juicio, hubiera peligro de que el obligado se ausente o realice la enajenación de bienes o cualquier maniobra tendiente a evadir el cumplimiento de las obligaciones fiscales, así como levantarlo cuando proceda;
 
@@ -1717,7 +1739,41 @@ XVII. Solicitar a las instituciones bancarias, así como a las organizaciones au
 
 XVIII. Tramitar y ejecutar la adjudicación de bienes producto de la aplicación del Procedimiento Administrativo de Ejecución; y
 
-XIX. Las demás que las leyes y reglamentos vigentes en el Estado le atribuyan, así como aquellas que le confieran las personas titulares de la Secretaría, o de la Subsecretaría de Ingresos.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2025)</small>
+
+XVIII. Tramitar y ejecutar la adjudicación de bienes producto de la aplicación del Procedimiento Administrativo de Ejecución;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2025)</small>
+
+XIX. Enviar a los contribuyentes comunicados y, en general, realizar en el ámbito de su competencia, las acciones necesarias para promover el pago de sus créditos fiscales, sin que por ello se considere el inicio de facultades de comprobación, así como calcular y enviar propuestas de pago a los contribuyentes;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2025)</small>
+
+XX. Determinar y cobrar a los contribuyentes, responsables solidarios y demás obligados, el monto de la actualización, recargos, gastos de ejecución, honorarios y gastos extraordinarios que se causen en los procedimientos de ejecución que lleve a cabo, así como determinar y hacer efectivo el importe de los cheques no pagados de inmediato y de las indemnizaciones correspondiente (sic);
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2025)</small>
+
+XXI. Enajenar, dentro o fuera del remate, bienes y negociaciones embargados a través del procedimiento administrativo de ejecución, así como expedir el documento que ampare la enajenación de los mismos;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2025)</small>
+
+XXII. Ordenar la entrega a los adquirentes de bienes rematados del monto pagado por los mismos, cuando dichos bienes no puedan ser entregados a éstos, en términos del Código Fiscal del Estado de Durango;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2025)</small>
+
+XXIII. Transferir a la instancia competente, en términos de la legislación aplicable, los bienes embargados o asegurados en el ejercicio de sus atribuciones que hayan pasado a propiedad del Fisco Estatal o de los que pueda disponer conforme a la normativa correspondiente;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2025)</small>
+
+XXIV. Declarar el abandono de los bienes y de las cantidades a favor del Fisco Estatal en términos del Código Fiscal del Estado de Durango;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2025)</small>
+
+XXV. Tramitar y resolver las solicitudes de aclaración que presenten los contribuyentes sobre aspectos relacionados con los créditos fiscales cuyo cobro le corresponda; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XIX], P.O. 14 DE DICIEMBRE DE 2025)</small>
+
+XXVI. Las demás que las leyes y reglamentos vigentes en el Estado le atribuyan, así como aquellas que le confieran las personas titulares de la Secretaría, o de la Subsecretaría de Ingresos.
 
 ###### ARTÍCULO 45.
 
@@ -2110,3 +2166,23 @@ P.O. 26 DE DICIEMBRE DE 2024.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 14 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 297 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del primero de enero de 2026, previa publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan tedas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 298 POR EL QUE SE REFORMA LA FRACCIÓN IX, DEL ARTÍCULO 19, LA FRACCIÓN XI, DEL ARTÍCULO 21, LAS FRACCIONES VII Y XII, AL ARTÍCULO 22 Y SE REFORMA EL ARTÍCULO 28, TODOS DE LA LEY ORGANICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. Dentro del plazo no mayor a 180 días a partir de la entrada en vigor del presente decreto, el Ejecutivo del Estado expedirá las adecuaciones y reformas necesarias a la reglamentación aplicable en la materia.
+
+CUARTO. En toda normativa, reglamento y demás instrumentos jurídicos en los que se haga referencia a la Secretaría de la Contraloría, se entenderá que dicha mención corresponde a la Secretaría de la Contraloría y Transparencia Gubernamental.
