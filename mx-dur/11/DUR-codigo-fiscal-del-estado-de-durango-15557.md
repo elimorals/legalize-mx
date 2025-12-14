@@ -4,7 +4,7 @@ identifier: "DUR-codigo-fiscal-del-estado-de-durango-15557"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-12-30"
-last_updated: "2025-01-12"
+last_updated: "2025-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "DUR"
 
 CÓDIGO FISCAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2024.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 12 DE ENERO DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 30 de diciembre de 1999.
 
@@ -251,6 +249,10 @@ Cuando las Leyes establezcan que la determinación o liquidación deban ser hech
 
 Las contribuciones y sus accesorios se causarán, en su caso, y se pagarán en moneda nacional.
 
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2025)</small>
+
+Cuando no se actualicen las situaciones jurídicas o de hecho previstas en las disposiciones fiscales que obligan a presentar declaraciones, y no resulte cantidad a pagar, la obligación de presentar dichas declaraciones subsistirá.
+
 ###### ARTICULO 20.
 
 Los pagos a que se refiere al artículo anterior deberán hacerse en efectivo. Se acepta como pago en efectivo, además del efectuado en moneda de curso legal en el país, el realizado con:
@@ -315,9 +317,11 @@ Cuando el contribuyente pague, en forma espontánea, en una sola exhibición el 
 
 En ningún caso las autoridades fiscales podrán liberar a los contribuyentes de la actualización de las contribuciones o condonar total o parcialmente los recargos correspondientes.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTICULO 24.
 
-El cheque recibido por las autoridades fiscales que sea presentado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será siempre del 20% del valor de éste, y se exigirá independientemente de los demás conceptos a que se refiere el articulo anterior. Para tal efecto, la autoridad requerirá al librador del cheque para que, dentro de un plazo de siete días, efectúe el pago junto con la mencionada indemnización del 20%, o bien, acredite fehacientemente con las pruebas documentales procedentes, que se realizó el pago o que dicho pago no se realizó por causas exclusivamente imputables a la institución de crédito. Transcurrido el plazo señalado sin que se obtenga el pago o se demuestre cualquiera de los extremos antes señalados, la autoridad fiscal requerirá y cobrará el monto del cheque, la indemnización mencionada y los demás accesorios que correspondan, mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad que en su caso proceda.
+El cheque recibido por las autoridades fiscales que sea presentado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será siempre del 20% del valor de éste, y se exigirá independientemente de los demás conceptos a que se refiere el artículo anterior. Para tal efecto, la autoridad requerirá al librador del cheque para que, dentro de un plazo de tres días, efectúe el pago junto con la mencionada indemnización del 20%, o bien, acredite fehacientemente con las pruebas documentales procedentes, que se realizó el pago o que dicho pago no se realizó por causas exclusivamente imputables a la institución de crédito. Transcurrido el plazo señalado sin que se obtenga el pago o se demuestre cualquiera de los extremos antes señalados, la autoridad fiscal requerirá y cobrará el monto del cheque, la indemnización mencionada y los demás accesorios que correspondan, mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad que en su caso proceda.
 
 ###### ARTICULO 25.
 
@@ -457,9 +461,11 @@ II. Que se dicte resolución por la Secretaría de Finanzas y de Administración
 
 La compensación entre el Estado por una parte, la Federación o Municipios por la otra, podrá operar respecto a cualquier clase de créditos o deudas, si unos y otros son líquidos y exigibles y sólo si existe acuerdo entre las partes interesadas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTICULO 34.
 
-Los contribuyentes obligados a pagar mediante declaración, podrán optar por compensar las cantidades a su favor contra las que estén obligados a pagar por adeudo propio o por retención a terceros, siempre que ambas deriven de una misma contribución, incluyendo sus accesorios. Al efecto, bastará que efectúen la compensación de dichas cantidades actualizadas, conforme a lo establecido por el artículo 22 de este Código desde el mes en que se presentó la declaración hasta aquél en que la compensación se realice.
+Los contribuyentes obligados a pagar mediante declaración, podrán optar por compensar las cantidades a su favor contra las que estén obligados a pagar por adeudo propio o por retención a terceros, siempre que ambas deriven de una misma contribución, incluyendo sus accesorios. Al efecto, bastará que presente aviso de compensación ante las Autoridades Fiscales debiendo actualizar dichas cantidades, conforme a lo establecido por el artículo 22 de este Código a la fecha de dicho aviso. También se podrán compensar previo aviso a la autoridad fiscal las cantidades que, conforme a las disposiciones fiscales, se otorguen como condonación, estímulo o subsidio.
 
 Para los efectos de este Código se entenderá como una misma contribución cuando se trate del mismo impuesto, derecho o aportación especial.
 
@@ -495,11 +501,13 @@ La prescripción del crédito fiscal produce la prescripción simultánea de los
 
 La obligación de las autoridades a devolver, prescribe en los mismos términos y condiciones que el crédito fiscal.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 38.
 
-La declaratoria de prescripción de los créditos fiscales podrá realizarse de oficio por la autoridad fiscal o a petición del contribuyente de acuerdo a la normatividad aplicable y de conformidad con los lineamientos que establezca el Secretario.
+La declaratoria de prescripción de los créditos fiscales podrá realizarse de oficio por la autoridad fiscal o a petición del contribuyente de acuerdo a la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
 
 Los sujetos pasivos podrán solicitar a la autoridad fiscal que declare que ha prescrito algún crédito fiscal a su cargo, debiendo resolver en este caso la autoridad en un plazo de treinta días a partir de que se presentó la solicitud. También podrán hacerla valer vía excepción, mediante el recurso de revocación establecido en este ordenamiento.
 
@@ -825,7 +833,9 @@ Cuando un mismo contribuyente tenga diversas sucursales, bodegas o dependencias,
 
 Las personas que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes en materia de registro en el Padrón Estatal de Contribuyentes, declaraciones o avisos, ante las Recaudaciones de Rentas, así como expedir constancias o documentos, lo harán en las formas que al efecto apruebe la Secretaría de Finanzas y de Administración expresando bajo protesta de decir verdad, los datos e informes que en las mismas se precisen.
 
-Cuando las disposiciones tributarias no señalen el plazo para la presentación de las declaraciones, manifestaciones o avisos, se tendrán por establecidos el de diez días siguientes a la realización del hecho de que se trate.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2025)</small>
+
+Cuando las disposiciones tributarias no señalen el plazo para la presentación de las declaraciones, manifestaciones o avisos, se tendrá por establecido el día diecisiete del mes siguiente a la realización del hecho de que se trate.
 
 ###### ARTICULO 53.
 
@@ -841,13 +851,11 @@ IV. La fecha en que se firme el acta constitutiva.
 
 ###### ARTICULO 54.
 
-Las Recaudaciones de Rentas expedirán, dentro de los quince días siguientes a la fecha de presentación de las solicitudes, las cédulas de inscripción en el Padrón Estatal de Contribuyentes.
+(DEROGADO, P.O. 14 DE DICIEMBRE DE 2025)
 
 ###### ARTICULO 55.
 
-Mientras las cédulas de inscripción en el Padrón Estatal de Contribuyentes no sean canceladas por la autoridad competente, tendrán duración y vigencia indefinida y no requerirán ser renovadas.
-
-Cuando se cancele la cédula de inscripción en el Padrón Estatal de Contribuyentes, el interesado deberá entregarla a la recaudación de rentas correspondiente a su domicilio.
+(DEROGADO, P.O. 14 DE DICIEMBRE DE 2025)
 
 ###### ARTICULO 56.
 
@@ -875,9 +883,11 @@ IV. Escisión de sociedades. Cuando se extinga la escindente, la escindida que s
 
 Tratándose de los avisos de suspensión de actividades o liquidación de la sociedad, se deberá señalar el lugar donde se conservarán a disposición de las autoridades fiscales, los libros de contabilidad, registros y documentación comprobatoria de sus operaciones; y en su caso, de cambio de dicho lugar, deberá igualmente presentarse el aviso respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTICULO 59.
 
-En los casos en que las formas para la presentación de las declaraciones, avisos y expedición de constancias, que prevengan las disposiciones fiscales, no hubieran sido aprobadas por la Secretaria de Finanzas y de Administración, los obligados a presentarlas las formularán por escrito y por triplicado, que contenga su nombre, denominación o razón social, domicilio y clave del Padrón Estatal de Contribuyentes, así como el período y los datos relativos a la obligación que pretendan cumplir.
+En los casos en que las formas para la presentación de las declaraciones, avisos y expedición de constancias, que prevengan las disposiciones fiscales, no hubieran sido aprobadas por la Secretaría de Finanzas y de Administración, los obligados a presentarlas las formularán por escrito y por triplicado, que contenga su nombre, denominación o razón social, domicilio, así como el período y los datos relativos a la obligación que pretendan cumplir.
 
 Los contribuyentes que tengan obligación de presentar declaraciones periódicas de conformidad con las leyes fiscales, continuarán haciéndolo en tanto no presenten los avisos que correspondan para efectos del Padrón Estatal de Contribuyentes.
 
@@ -887,7 +897,9 @@ Las declaraciones, avisos, solicitud de inscripción en el Padrón Estatal de Co
 
 En los casos en que no exista en la población correspondiente al domicilio del contribuyente Recaudación de Rentas, las declaraciones, avisos, solicitudes y demás documentos a que se refiere el párrafo anterior, podrán enviarse por correo certificado del servicio postal con acuse de recibo, siempre que el envío se efectúe desde la población en que resida el contribuyente. En este caso, se tendrá como fecha de presentación la del día en que se haga la entrega a la oficina de correos.
 
-Las Recaudaciones de Rentas recibirán las declaraciones, avisos, solicitudes y demás documentos tal y como se exhiban, sin hacer observaciones, ni objeciones y devolverán copia sellada a quien las presente. Unicamente se podrá rechazar la presentación cuando no contengan el nombre, denominación o razón social del contribuyente, su clave del Padrón Estatal de Contribuyentes, su domicilio fiscal o no aparezcan firmados por el contribuyente o su representante legal debidamente acreditado, no se acompañen los anexos o tratándose de declaraciones, éstas contengan errores aritméticos; En este último caso, las oficinas podrán cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2025)</small>
+
+Las Recaudaciones de Rentas recibirán las declaraciones, avisos, solicitudes y demás documentos tal y como se exhiban, sin hacer observaciones, ni objeciones y devolverán copia sellada a quien las presente. Únicamente se podrá rechazar la presentación cuando no contengan el nombre, denominación o razón social del contribuyente, su domicilio fiscal o no aparezcan firmados por el contribuyente o su representante legal debidamente acreditado, no se acompañen los anexos o tratándose de declaraciones, éstas contengan errores aritméticos. En este último caso, las oficinas podrán cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios
 
 ###### ARTICULO 60.
 
@@ -1011,9 +1023,9 @@ Las autoridades fiscales del Estado ejercerán su competencia en el territorio d
 
 Tratándose de facultades delegadas por la Federación al Estado, las autoridades Fiscales Estatales ejercerán su competencia en todo el territorio del Estado de Durango, salvo las descritas en la fracción VIII del presente artículo.
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2025)</small>
 
-Las autoridades contempladas en la fracción VII del presente artículo, ejercerán su competencia en el territorio que marca su propio Reglamento y las demás leyes aplicables.
+Las autoridades contempladas en la fracción VIII del presente artículo, ejercerán su competencia en el territorio que marca su propio Reglamento y las demás leyes aplicables.
 
 ###### ARTICULO 66.
 
@@ -1082,6 +1094,18 @@ Son facultades del Secretario de Finanzas y de Administración del Estado las co
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 2003)</small>
 
 En ausencia temporal del Secretario de Finanzas y de Administración del Estado, desempeñará sus funciones el Subsecretario de Egresos del Estado, de acuerdo con las atribuciones que le confiere el Reglamento Interior de la propia Secretaría de Finanzas y de Administración.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 68 BIS.- Se faculta a las Autoridades Fiscales para llevar a cabo la celebración de sorteos de lotería fiscal, en los que participen las personas que determinen dichas autoridades, tomando en cuenta los siguientes lineamientos:
+
+Cuando los premios consistan en bienes, la Secretaría de Finanzas y de Administración deberá observar las normas presupuestales aplicables a la adquisición y enajenación de dichos bienes.
+
+La Secretaría de Finanzas y de Administración, mediante reglas de carácter general, establecerá las bases para los sorteos, los premios, las fechas, las personas que podrán participar y demás requisitos a que se sujetará su realización.
+
+Los sorteos a que se refiere el presente artículo deberán cumplir con lo dispuesto en la Ley Federal de Juegos y Sorteos.
+
+Se exenta de los impuestos estatales que se generen por la obtención de los premios a que se refiere el presente artículo.
 
 ###### ARTICULO 69.
 
@@ -1435,9 +1459,9 @@ VIII. Practicar revisiones electrónicas a los contribuyentes, responsables soli
 
 Las autoridades fiscales podrán ejercer estas facultades conjunta, indistinta o sucesivamente, entendiéndose que se inician con el primer acto que se notifique al contribuyente.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2025)</small>
 
-Las autoridades fiscales que estén ejerciendo alguna de las facultades previstas en las fracciones II, III y VIII de este artículo y detecten hechos u omisiones que puedan entrañar un incumplimiento en el pago de contribuciones, deberán informar por medio de Buzón Tributario al contribuyente, a su representante legal, y en el caso de las personas morales a sus órganos de dirección por conducto de aquél, en un plazo de al menos 10 días hábiles previos al del levantamiento de la última acta parcial, del oficio de observaciones o de la resolución definitiva en el caso de revisiones electrónicas, el derecho que tienen para acudir a las oficinas que estén llevando a cabo el procedimiento de que se trate, para conocer los hechos y omisiones que hayan detectado.
+Las autoridades fiscales que estén ejerciendo alguna de las facultades previstas en las fracciones II, III y VIII de este artículo y detecten hechos u omisiones que puedan entrañar un incumplimiento en el pago de contribuciones, deberán notificar por cualquier medio de los contenidos en el artículo 138 del presente Código al contribuyente, a su representante legal, y en el caso de las personas morales a sus órganos de dirección por conducto de aquél, en un plazo de al menos 10 días hábiles previos al del levantamiento de la última acta parcial, del oficio de observaciones o de la resolución definitiva en el caso de revisiones electrónicas, el derecho que tienen para acudir a las oficinas que estén llevando a cabo el procedimiento de que se trate, para conocer los hechos y omisiones que hayan detectado.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
 
@@ -1541,9 +1565,11 @@ Se tendrán por consentidos los hechos u omisiones consignados en el oficio de o
 
 VII. Cuando el contribuyente no corrija totalmente su situación fiscal conforme al oficio de observaciones o no desvirtúe los hechos u omisiones consignados en dicho documento, se emitirá la resolución que determine las contribuciones omitidas, la cual se notificará al contribuyente cumpliendo con lo señalado en la fracción I de este artículo y en el lugar especificado en dicha fracción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTICULO 83.
 
-Cuando las autoridades fiscales ejerzan las facultades de comprobación a que se refiere el artículo anterior, la revisión de la contabilidad deberá concluir dentro de un plazo máximo de seis meses contados a partir de la fecha en que se notificó al contribuyente el inicio de las facultades de comprobación.
+Cuando las autoridades fiscales ejerzan las facultades de comprobación a que se refiere el artículo anterior, la revisión de la contabilidad deberá concluir dentro de un plazo máximo de doce meses contados a partir de la fecha en que se notificó al contribuyente el inicio de las facultades de comprobación.
 
 El plazo a que se refiere el párrafo anterior, podrá ampliarse por períodos iguales hasta por dos ocasiones. El oficio mediante el cual se le notifique la prórroga correspondiente deberá cumplir con lo señalado en la fracción I del artículo 82 de este Código.
 
@@ -1901,7 +1927,7 @@ I. No solicitar la inscripción que corresponda cuando se esté obligado a ello 
 
 II. No presentar los avisos al registro o hacerlo extemporáneamente, salvo cuando la presentación sea espontánea
 
-III. No citar la clave del Padrón Estatal de Contribuyentes o utilizar alguna no asignada por la autoridad fiscal en las declaraciones, avisos, solicitudes, promociones y demás documentos que se presenten ante las autoridades fiscales, cuando se esté obligado conforme a este ordenamiento.
+III. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2025)
 
 IV. No dar cumplimiento a lo dispuesto por el segundo párrafo del artículo 56 de este Código.
 
@@ -1921,9 +1947,7 @@ VIII. No habilite el Buzón Tributario o señale los medios de contacto erróneo
 
 A quien cometa las infracciones relacionadas con el Padrón Estatal de Contribuyentes a que se refiere el artículo anterior se le impondrán las siguientes multas:
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2016)</small>
-
-I. De veinte a veinticinco UMA, a la comprendida en la fracción III.
+I. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2025)
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
@@ -1941,13 +1965,9 @@ IV. Para la señalada en la fracción VI, la multa será de treinta a cien UMA.
 
 V. Para la señalada en las fracciones VII y VIII del artículo anterior, la multa será de 100 a 150 UMA.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+ARTICULO 104 BIS.- (DEROGADO, P.O. 14 DE DICIEMBRE DE 2025)
 
-ARTICULO 104 BIS.- Se considera infracción en la que pueden incurrir los contribuyentes conforme a lo previsto en el artículo 50 BIS de este Código, el no habilitar el Buzón Tributario, no registrar o no mantener actualizados los medios de contacto conforme lo previsto en el mismo.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
-
-ARTICULO 104 TER.- A quien cometa la infracción relacionada con la no habilitación del Buzón Tributario, el no registro o actualización de los medios de contacto conforme a lo previsto en el artículo 104 BIS, se impondrá una multa de 100 a 150 UMA.
+ARTICULO 104 TER.- (DEROGADO, P.O. 14 DE DICIEMBRE DE 2025)
 
 ###### ARTICULO 105.
 
@@ -2275,7 +2295,7 @@ I. Omita solicitar su inscripción o la de un tercero en el Padrón Estatal de C
 
 II. No rinda al Padrón Estatal de Contribuyentes los informes a que se encuentre obligado o lo haga con falsedad.
 
-III. Use, para efectos fiscales, más de una clave del Padrón Estatal de Contribuyentes.
+III. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2025)
 
 IV. Se atribuya como propias actividades ajenas ante el Padrón Estatal de Contribuyentes.
 
@@ -2801,6 +2821,58 @@ b) Bienes que ya reporten cualquier gravamen real o algún embargo anterior.
 
 c) Bienes de fácil descomposición o deterioro o materias flamables.
 
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 173 BIS.- La autoridad fiscal procederá a la inmovilización de depósitos bancarios, seguros o cualquier otro depósito en moneda nacional o extranjera que se realice en cualquier tipo de cuenta que tenga a su nombre el contribuyente en las entidades financieras o sociedades cooperativas de ahorro y préstamo, o de inversiones y valores, a excepción de los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro, incluidas las aportaciones voluntarias que se hayan realizado hasta por el monto de las aportaciones efectuadas conforme a la Ley de la materia, de acuerdo con lo siguiente:
+
+I. Cuando los créditos fiscales se encuentren firmes.
+
+II. Tratándose de créditos fiscales que se encuentren impugnados y no estén debidamente garantizados, procederá la inmovilización en los siguientes supuestos:
+
+a. Cuando el contribuyente no se encuentre localizado en su domicilio o desocupe el local donde tenga su domicilio fiscal sin presentar el aviso de cambio de domicilio al Registro Estatal y/o Federal de Contribuyentes.
+
+b. Cuando no esté debidamente asegurado el interés fiscal por resultar insuficiente la garantía ofrecida.
+
+c. Cuando la garantía ofrecida sea insuficiente y el contribuyente no haya efectuado la ampliación requerida por la autoridad.
+
+d. Cuando se hubiera realizado el embargo de bienes cuyo valor sea insuficiente para satisfacer el interés fiscal o se desconozca el valor de éstos.
+
+Sólo procederá la inmovilización hasta por el importe del crédito fiscal y sus accesorios o, en su caso, hasta por el importe en que la garantía que haya ofrecido el contribuyente no alcance a cubrir los mismos a la fecha en que se lleve a cabo la inmovilización. Lo anterior, siempre y cuando, previo al embargo, la autoridad fiscal cuente con información de las cuentas y los saldos que existan en las mismas.
+
+La autoridad fiscal ordenará mediante oficio dirigido a la unidad administrativa competente de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional de Seguros y Fianzas o de la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o bien a la entidad financiera o sociedad cooperativa de ahorro y préstamo a la que corresponda la cuenta, a efecto de que éstas últimas realicen la inmovilización y conserven los fondos depositados. Para efectos de lo anterior, la inmovilización deberán realizarla a más tardar al tercer día siguiente a aquel en que les fue notificado el oficio de la autoridad fiscal.
+
+Las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores que hayan ejecutado la inmovilización de los depósitos o seguros en una o más cuentas del contribuyente, deberán informar del cumplimiento de dicha medida a la autoridad fiscal que la ordenó, a más tardar al tercer día siguiente a la fecha en que se ejecutó, señalando el número de las cuentas, así como el importe total que fue inmovilizado. La autoridad fiscal notificará al contribuyente sobre dicha inmovilización, a más tardar al tercer día siguiente a aquél en que le hubieren comunicado ésta.
+
+En los casos en que el contribuyente, la entidad financiera, sociedades de ahorro y préstamo o de inversiones y valores, haga del conocimiento de la autoridad fiscal que la inmovilización se realizó en una o más cuentas del contribuyente por un importe mayor al señalado en el segundo párrafo de este artículo, ésta deberá ordenar a más tardar dentro de los tres días siguientes a aquél en que hubiere tenido conocimiento de la inmovilización en exceso, que se libere la cantidad correspondiente. Dichas entidades o sociedades cooperativas de ahorro y préstamo o de inversiones y valores, deberán liberar los recursos inmovilizados en exceso, a más tardar al tercer día siguiente a aquél en que surta efectos la notificación del oficio de la autoridad fiscal.
+
+En caso de que en las cuentas a que se refiere el primer párrafo del presente artículo, no existan recursos suficientes para garantizar el crédito fiscal y sus accesorios, la entidad financiera o la sociedad cooperativa de ahorro y préstamo de que se trate, deberá efectuar una búsqueda en sus bases de datos y registros administrativos, a efecto de determinar si el contribuyente tiene otras cuentas con recursos suficientes para tal efecto. De ser el caso, la entidad o sociedad procederá a inmovilizar a más tardar dentro de los tres días siguientes a aquél en que se les ordene la inmovilización y conservar los recursos depositados hasta por el monto del crédito fiscal. En caso de que se actualice este supuesto, la entidad o sociedad correspondiente deberá notificarlo a la autoridad fiscal, dentro del plazo de tres días contados a partir de la fecha de inmovilización, a fin de que dicha autoridad realice la notificación que proceda conforme al párrafo anterior.
+
+La entidad financiera o la sociedad cooperativa de ahorro y préstamo deberá informar a la autoridad fiscal a que se refiere el primer párrafo de este artículo, el incremento de los depósitos por los intereses que se generen, en el mismo período y frecuencia con que lo haga al cuentahabiente.
+
+Los fondos de la cuenta del contribuyente únicamente podrán transferirse cuando el crédito fiscal relacionado, incluyendo sus accesorios quede firme, y hasta por el importe que resulte suficiente para cubrirlo a la fecha en que se realice la transferencia.
+
+En los casos en que el crédito fiscal incluyendo sus accesorios, aún no quede firme, el contribuyente titular de las cuentas inmovilizadas podrá, de acuerdo con el artículo 145 de este Código, ofrecer una garantía que comprenda el importe del crédito fiscal, incluyendo sus accesorios a la fecha de ofrecimiento. La autoridad deberá resolver y notificar al contribuyente sobre la admisión o rechazo de la garantía ofrecida, o el requerimiento de requisitos adicionales, dentro de un plazo máximo de cinco días siguientes a la presentación de la garantía. La autoridad tendrá la obligación de comunicar a la entidad financiera o la sociedad cooperativa de ahorro y préstamo el sentido de la resolución, enviándole copia de la misma, dentro del plazo de cinco días siguientes a aquél en que haya notificado dicha resolución al contribuyente, si no lo hace durante el plazo señalado, la entidad o sociedad de que se trate levantará la inmovilización de la cuenta.
+
+En ningún caso procederá la inmovilización de los depósitos o seguros, por un monto mayor al del crédito fiscal actualizado, junto con sus accesorios legales, ya sea que el embargo se trabe sobre una sola cuenta o en más de una. Lo anterior, siempre y cuando, previo al embargo, la autoridad fiscal cuente con información de las cuentas y los saldos que existan en las mismas.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 173 TER.- En los casos en que el crédito fiscal se encuentre firme, la autoridad fiscal procederá como sigue:
+
+I. Si la autoridad fiscal tiene inmovilizadas cuentas en entidades financieras o sociedades cooperativas de ahorro y préstamo, o de inversiones y valores, y el contribuyente no ofreció una forma de garantía del interés fiscal suficiente antes de que el crédito fiscal quedara firme, la autoridad fiscal ordenará a la entidad financiera o sociedad cooperativa la transferencia de los recursos hasta por el monto del crédito fiscal, o hasta por el importe en que la garantía que haya ofrecido el contribuyente no alcance a cubrir el mismo. La entidad financiera o la sociedad cooperativa de ahorro y préstamo deberán informar a la autoridad fiscal, dentro de los tres días posteriores a la orden de transferencia, el monto transferido y acompañar el comprobante que acredite el traspaso de los fondos a la cuenta de la Tesorería de la Federación o de la autoridad fiscal que corresponda.
+
+II. Si el interés fiscal se encuentra garantizado en alguna forma distinta a las establecidas en las fracciones I y III, del artículo 145 de este Código, la autoridad fiscal procederá a requerir al contribuyente para que efectúe el pago del crédito fiscal en el plazo de cinco días siguientes a la notificación del requerimiento. En caso de no efectuarlo, la autoridad fiscal podrá, indistintamente, hacer efectiva la garantía ofrecida, o proceder en los términos de la fracción anterior, a la transferencia de los recursos respectivos. En este caso, una vez que la entidad financiera o la sociedad cooperativa de ahorro y préstamo, informe a la autoridad fiscal haber transferido los recursos suficientes para cubrir el crédito fiscal, la autoridad fiscal deberá proceder en un plazo máximo de tres días, a liberar la garantía otorgada por el contribuyente.
+
+III. Si el interés fiscal se encuentra garantizado en alguna de las formas establecidas en las fracciones I y III, del artículo 145 de este Código, la autoridad fiscal procederá a hacer efectiva la garantía.
+
+IV. Si el interés fiscal no se encuentra garantizado, la autoridad fiscal podrá proceder a ordenar la transferencia de recursos en los términos de la fracción I de este artículo.
+
+En los casos indicados en este artículo, las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores deberán informar a la autoridad fiscal que ordenó la transferencia el monto transferido, a más tardar al tercer día siguiente de la fecha en que ésta se realizó. La autoridad fiscal deberá notificar al contribuyente la transferencia de los recursos, conforme a las disposiciones aplicables, a más tardar al tercer día siguiente a aquél en que se hizo de su conocimiento la referida transferencia.
+
+Si al transferirse el importe el contribuyente considera que éste es superior al crédito fiscal, deberá demostrar tal hecho ante la autoridad fiscal con prueba documental suficiente, para que dicha autoridad proceda al reintegro de la cantidad transferida en exceso en un plazo no mayor de veinte días a partir de que se notifique al contribuyente la transferencia de los recursos. Si a juicio de la autoridad fiscal las pruebas no son suficientes, se lo notificará dentro del plazo antes señalado, haciéndole saber que puede hacer valer el recurso de revocación correspondiente, o bien, presentar juicio contencioso administrativo.
+
+El fisco estatal será preferente para recibir la transferencia de fondos de las cuentas inmovilizadas de los contribuyentes para el pago de créditos provenientes de ingresos que el Estado debió percibir, en los mismos términos establecidos en el artículo 159 de este Código.
+
 ###### ARTICULO 174.
 
 Quedan exceptuados de embargo:
@@ -3049,7 +3121,9 @@ La Recaudación de Rentas con aprobación de la Secretaría de Finanzas y de Adm
 
 El documento digital en que se haga la postura, deberá contener los siguientes datos:
 
-I. Cuando se trate de personas físicas, el nombre, la nacionalidad y el domicilio del postor y, en su caso, la clave del Padrón Estatal de Contribuyentes; tratándose de personas morales, la denominación o razón social, la fecha de constitución, la clave del Padrón Estatal de contribuyentes en su caso y el domicilio fiscal.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2025)</small>
+
+I. Cuando se trate de personas físicas, el nombre, la nacionalidad y el domicilio del postor y tratándose de personas morales, la denominación o razón social, la fecha de constitución y el domicilio fiscal.
 
 II. La cantidad que se ofrezca y la forma de pago.
 
@@ -3614,3 +3688,13 @@ SEGUNDO. Se concede un plazo de 365 días naturales a partir de la entrada en vi
 TERCERO. Se concede un plazo de 180 días naturales a partir de la entrada en vigor del presente Decreto para que la Secretaría de Finanzas y de Administración, expida las reglas de carácter general relativas a la emisión de la opinión de cumplimiento de obligaciones fiscales a que se refiere el artículo 50 BIS.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 296 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del 01 de enero de 2026, publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Se concede un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto, para que la Secretaría de Finanzas y de Administración, expida las reglas de carácter general relativas al artículo 68 BIS, del Código Fiscal del Estado de Durango.
