@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-comision-de-derechos-humanos-del-estado-de-94548"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-10"
-last_updated: "2025-06-16"
+last_updated: "2025-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de junio de 2013.
 
@@ -65,7 +65,9 @@ La información en posesión de la Comisión, será tratada en términos de lo d
 
 Cuando los hechos u omisiones motivo de la queja se relacionen con los intereses de un menor de edad o incapaz, de ser posible se deberá obtener su opinión y de quien ejerza la tutela, custodia o patria potestad.
 
-Si existe riesgo de perturbar emocionalmente al menor o incapaz, el Presidente deberá ordenar la intervención de un psicólogo en la diligencia correspondiente, o bien, omitir la participación del menor o incapaz.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+Si existe riesgo de perturbar emocionalmente al menor o incapaz, la persona titular de la Presidencia deberá ordenar la intervención de un psicólogo en la diligencia correspondiente, o bien, omitir la participación del menor o incapaz.
 
 ###### ARTÍCULO 4°.
 
@@ -91,11 +93,15 @@ VI. Junta: Junta del Servicio Profesional en Derechos Humanos;
 
 VII. Ley: Ley de la Comisión de Derechos Humanos del Estado de Aguascalientes;
 
-VIII. Presidente: Presidente de la Comisión Estatal de Derechos Humanos;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+VIII. Presidencia: La persona titular de la Presidencia de la Comisión Estatal de Derechos Humanos;
 
 IX. Quejoso: Persona que considere que la Autoridad Responsable vulneró por acción u omisión sus Derechos Humanos;
 
-X. Servidor Público: Los señalados en el Artículo 73 de la Constitución Política del Estado, incluyendo a los de las administraciones públicas de los Municipios del Estado; y
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+X. Las personas servidoras públicas: Los señalados en el Artículo 73 de la Constitución Política del Estado, incluyendo a los de las administraciones públicas de los Municipios del Estado; y
 
 XI. Visitaduría: Órgano de la Comisión encargado de recibir e investigar quejas presentadas por cualquier persona, proveyendo su desahogo hasta la formulación del proyecto de resolución correspondiente.
 
@@ -109,11 +115,13 @@ La Comisión es un órgano autónomo en su gestión y presupuesto, con personali
 
 Este órgano tendrá su domicilio legal y ámbito de competencia en el Estado de Aguascalientes.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 7°.
 
-El Congreso del Estado, a través de la Comisión Legislativa, conocerá, discutirá y evaluará cada año el funcionamiento de la Comisión, así como el balance de su ejercicio, mediante el análisis del informe anual que rinda el Presidente.
+El Congreso del Estado, a través de la Comisión Legislativa, conocerá, discutirá y evaluará cada año el funcionamiento de la Comisión, así como el balance de su ejercicio, mediante el análisis del informe anual que rinda la Presidencia.
 
-En caso de que la Comisión Legislativa lo considere pertinente, el Presidente podrá ser citado a comparecer ante el Pleno Legislativo para que explique y amplíe su informe.
+En caso de que la Comisión Legislativa lo considere pertinente, la Presidencia podrá ser citado a comparecer ante el Pleno Legislativo para que explique y amplíe su informe.
 
 ### CAPÍTULO III. De las Facultades de la Comisión
 
@@ -219,7 +227,9 @@ De igual forma, en términos del artículo 7° de la Ley para Prevenir y Erradic
 
 La Comisión se integra por los siguientes funcionarios y órganos:
 
-I. El Presidente;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+I. La Presidencia;
 
 II. El Consejo;
 
@@ -239,21 +249,27 @@ VII. El Órgano Interno de Control; y
 
 VIII. Las demás direcciones, coordinaciones, departamentos, personal técnico o administrativo que señalen las disposiciones reglamentarias internas, las cuales deberán integrarse conforme al principio de paridad y equidad entre mujeres y hombres.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 12.
 
-El Presidente, el Visitador General y demás visitadores, en las actuaciones que realicen en cumplimiento de sus funciones, tendrán fe pública para certificar la veracidad de los hechos que les consten en relación con las quejas o inconformidades.
+La Presidencia, el Visitador General y demás visitadores, en las actuaciones que realicen en cumplimiento de sus funciones, tendrán fe pública para certificar la veracidad de los hechos que les consten en relación con las quejas o inconformidades.
 
 ###### ARTÍCULO 13.
 
 En el desempeño de sus funciones, el personal de la Comisión estará obligado a identificarse como tal con la credencial o documentación respectiva.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 14.
 
-El Presidente, el Secretario General y el Visitador General de la Comisión, no podrán ser detenidos ni sujetos a responsabilidad penal o administrativa, por las opiniones, recomendaciones, o actos que realicen en el ejercicio de las funciones propias de sus cargos que les asigna esta Ley.
+Las personas titulares de la Presidencia, la Secretaria General y la Visitaduría General de la Comisión, no podrán ser detenidos ni sujetos a responsabilidad penal o administrativa, por las opiniones, recomendaciones, o actos que realicen en el ejercicio de las funciones propias de sus cargos que les asigna esta Ley.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 15.
 
-Quien funja como Presidente, Secretario General o Visitador General, no podrá desempeñar otro cargo público o privado, salvo los de carácter académico. En caso de que sea Licenciado en Derecho, no podrá ejercer la abogacía fuera del cargo, salvo en casos estrictamente personales, de su cónyuge, hermanos, ascendientes o descendientes.
+Quien funja como la persona titular de la Presidencia, la persona titular de la Secretaría General o Visitaduría General, no podrá desempeñar otro cargo público o privado, salvo los de carácter académico. En caso de que sea Licenciado en Derecho, no podrá ejercer la abogacía fuera del cargo, salvo en casos estrictamente personales, de su cónyuge, hermanos, ascendientes o descendientes.
 
 ### CAPÍTULO II. De la Presidencia
 
@@ -299,23 +315,31 @@ VIII. No desempeñar, ni haber desempeñado cargo de dirección nacional o estat
 
 IX. No ser deudora o deudor alimentario moroso, salvo que acredite estar al corriente del pago o salde esa deuda.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 17.
 
-El nombramiento del Presidente se realizará en términos de lo establecido en el Artículo 62 de la Constitución Política Local y de los siguientes lineamientos:
+El nombramiento de la persona titular de la Presidencia se realizará en términos de lo establecido en el Artículo 62 de la Constitución Política Local y de los siguientes lineamientos:
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
-I. La Comisión Legislativa, sesenta días naturales antes de que concluya el período del Presidente, convocará a las asociaciones civiles que estén legalmente constituidas cuyo objeto esté vinculado con la difusión y protección de los Derechos Humanos, así como a colegios de profesionistas e instituciones de educación superior en el Estado, a fin de que presenten propuestas de aspirantes para ocupar el cargo de Presidente. Dicha convocatoria será publicada en el Periódico Oficial del Estado, por lo menos en uno de los diarios de mayor circulación en la Entidad y en la página electrónica del Congreso del Estado, asimismo, se fijará en diversos estrados de instituciones públicas y privadas que lo permitan;
+I. La Comisión Legislativa, sesenta días naturales antes de que concluya el período de la persona titular de la Presidencia, convocará a las asociaciones civiles que estén legalmente constituidas cuyo objeto esté vinculado con la difusión y protección de los Derechos Humanos, así como a colegios de profesionistas e instituciones de educación superior en el Estado, a fin de que presenten propuestas de aspirantes para ocupar el cargo de la persona titular de la Presidencia. Dicha convocatoria será publicada en el Periódico Oficial del Estado, por lo menos en uno de los diarios de mayor circulación en la Entidad y en la página electrónica del Congreso del Estado, asimismo, se fijará en diversos estrados de instituciones públicas y privadas que lo permitan;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
 
 II. Quienes propongan algún aspirante deberán anexar la documentación necesaria para acreditar que la persona cumple con los requisitos referidos en el Artículo 16 de esta Ley, así como un escrito firmado por el aspirante donde acepta participar en el proceso. La omisión de la presentación del escrito de referencia y de algún documento o su gestión para obtenerlo en los plazos señalados en la convocatoria, será causa de exclusión de la lista de candidatos a que se refiere la Fracción III. Nadie podrá realizar más de una propuesta;
 
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
+
 III. Recibidas las propuestas, la Comisión Legislativa analizará los documentos de los aspirantes para determinar quienes cumplen con los requisitos para ocupar el cargo y con base en ello elaborará una lista de candidatos.
 
-Si el Presidente tiene y hace valer su expectativa de derecho a ser reelecto, formará parte de la lista;
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
-IV. La lista de candidatos elaborada por la Comisión Legislativa, deberá publicarse para conocimiento de los interesados y la ciudadanía en general, en el Periódico Oficial del Estado, por lo menos en uno de los diarios de mayor circulación en la Entidad y en la página electrónica del Congreso del Estado;
+Si la persona titular de la Presidencia tiene y hace valer su expectativa de derecho a ser reelecto, formará parte de la lista;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+IV. La lista de candidatos elaborada por la Comisión Legislativa, deberá publicarse para conocimiento de las personas interesadas y las personas ciudadanías (sic) en general, en el Periódico Oficial del Estado, por lo menos en uno de los diarios de mayor circulación en la Entidad y en la página electrónica del Congreso del Estado;
 
 > <small>(REFORMADA [N. DE E. CON SU PÁRRAFO E INCISOS], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
@@ -329,27 +353,43 @@ b) Los candidatos presentarán un plan de trabajo y responderán los cuestionami
 
 c) Se concederá el uso de la palabra a un representante de cada una de las asociaciones, colegios e instituciones registradas, para que se manifiesten sobre los planes de trabajo y realicen propuestas relacionadas con la protección y difusión de los Derechos Humanos. Las expresiones de preferencia o rechazo a los candidatos, no serán vinculatorias para los Legisladores. Las intervenciones deberán entregarse también por escrito.
 
-VI. La Comisión Legislativa emitirá un dictamen en el que se informe al Pleno del Congreso del Estado qué candidatos cumplen con los requisitos así como las opiniones recibidas en la consulta pública, a fin de que dicho órgano soberano elija al Presidente con el voto de las dos terceras partes de los Diputados presentes en la sesión.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+VI. La Comisión Legislativa emitirá un dictamen en el que se informe al Pleno del Congreso del Estado qué candidatos cumplen con los requisitos, así como las opiniones recibidas en la consulta pública, a fin de que dicho órgano soberano elija a la persona titular de la Presidencia con el voto de las dos terceras partes de los Diputados presentes en la sesión.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
 
 En caso de no lograr la mayoría requerida, se repetirá la votación hasta por dos ocasiones más, previo receso para propiciar el dialogo parlamentario. Si luego de las tres votaciones de referencia no se obtiene la mayoría requerida para la designación, deberá desahogarse nuevamente el procedimiento previsto en el presente Artículo.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
+
 El dictamen será sometido a la consideración del Pleno del Congreso del Estado en la sesión ordinaria siguiente a la fecha en que haya sido emitido por la Comisión Legislativa y en caso de que esté en receso, se convocará inmediatamente a un período extraordinario;
 
-VII. Una vez electo el Presidente, éste rendirá la protesta de Ley ante el Congreso del Estado.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
-La designación o reelección del Presidente se debe realizar un mes antes de que termine el período del saliente. En caso de que el Presidente cese en sus funciones por alguna causa de las señaladas en el Artículo 20, se iniciará el procedimiento previsto por este Artículo.
+VII. Una vez electa la persona titular de la Presidencia, éste rendirá la protesta de Ley ante el Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+La designación o reelección de la persona titular de la Presidencia se debe realizar un mes antes de que termine el período del saliente. En caso de que la persona titular de la Presidencia cese en sus funciones por alguna causa de las señaladas en el Artículo 20, se iniciará el procedimiento previsto por este Artículo.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 18.
 
-El Presidente durará un período de cuatro años y podrá ser reelecto una vez.
+La persona titular de la Presidencia durará un período de cuatro años y podrá ser reelecto una vez.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 19.
 
-El Presidente tiene las siguientes obligaciones y atribuciones:
+La persona titular de la Presidencia tiene las siguientes obligaciones y atribuciones:
 
 I. Representar legalmente a la Comisión y delegar dicha representación en los servidores públicos de la Comisión que, por la naturaleza de sus funciones, corresponda según el caso;
 
-II. Distribuir y delegar funciones al Secretario General, Visitador General y Visitadores en términos de la reglamentación interna de la Comisión;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+II. Distribuir y delegar funciones a las personas titulares de la Secretaría General, la Visitaduría General y Visitadores en términos de la reglamentación interna de la Comisión;
 
 III. Presidir la Junta y proponerle los lineamientos generales a los que se sujetará el servicio profesional en la Comisión;
 
@@ -409,9 +449,11 @@ XXIII. Brindar asesoría jurídica por conducto del área especializada que disp
 
 XXIV. Las demás que señale la presente Ley, sus disposiciones reglamentarias y otros ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 20.
 
-El Presidente cesará en sus funciones, por cualquiera de las siguientes causas:
+La persona titular de la Presidencia cesará en sus funciones, por cualquiera de las siguientes causas:
 
 I. Conclusión de su primer período en caso de que no sea reelecto;
 
@@ -427,19 +469,21 @@ V. Negligencia, violaciones o conductas contrarias a los fines y naturaleza de l
 
 VI. Ser condenado en sentencia firme por delito doloso.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 21.
 
-Cuando el Presidente cese en sus funciones por alguna de las causales previstas en las Fracciones III, IV, V y VI del Artículo anterior, el Consejo deberá declarar vacante el cargo de Presidente.
+Cuando la persona titular de la Presidencia cese en sus funciones por alguna de las causales previstas en las Fracciones III, IV, V y VI del Artículo anterior, el Consejo deberá declarar vacante el cargo de la Presidencia.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 22.
 
-En caso de declararse vacante el cargo de Presidente, el Secretario General fungirá como encargado de despacho y en las ausencias de este último, el Visitador General.
+En caso de declararse vacante el cargo de la persona titular de la Presidencia, la persona titular de la Secretaría General fungirá como encargado de despacho y en las ausencias de este último, la persona titular (sic) Visitaduría General.
 
-La renuncia al cargo de Presidente deberá presentarse ante el Consejo y surtirá sus efectos en ese momento.
+La renuncia al cargo de la persona titular de la Presidencia deberá presentarse ante el Consejo y surtirá sus efectos en ese momento.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
-
-En las ausencias temporales del Presidente o ante la falta de su nombramiento, el Secretario General fungirá como encargado del despacho y a falta de éste el Visitador General.
+En las ausencias temporales de la persona titular de la Presidencia o ante la falta de su nombramiento, la persona titular de la Secretaría General fungirá como encargado del despacho y a falta de éste la persona titular (sic) Visitaduría General.
 
 ### CAPÍTULO III. Del Consejo
 
@@ -451,19 +495,29 @@ I. Aprobar los lineamientos generales de actuación de la Comisión;
 
 II. Aprobar las disposiciones reglamentarias y demás instrumentos que regulen el funcionamiento de la Comisión;
 
-III. Opinar sobre el proyecto del informe anual que el Presidente habrá de presentar al Congreso del Estado;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
-IV. Solicitar al Presidente toda información sobre asuntos que se encuentren en trámite o que se hayan resuelto;
+III. Opinar sobre el proyecto del informe anual que la persona titular de la Presidencia habrá de presentar al Congreso del Estado;
 
-V. Conocer el informe del Presidente respecto al ejercicio presupuestal;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
-VI. Solicitar al Presidente que interponga acción de inconstitucionalidad en términos de la Fracción II, inciso g) del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, en contra de leyes que violen Derechos Humanos y que fueren expedidas por el Congreso del Estado;
+IV. Solicitar a la persona titular de la Presidencia toda información sobre asuntos que se encuentren en trámite o que se hayan resuelto;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+V. Conocer el informe de la persona titular de la Presidencia respecto al ejercicio presupuestal;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+VI. Solicitar a la persona titular de la Presidencia que interponga acción de inconstitucionalidad en términos de la Fracción II, inciso g) del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, en contra de leyes que violen Derechos Humanos y que fueren expedidas por el Congreso del Estado;
 
 VII. Aprobar los lineamientos generales a los que se sujetarán las actividades administrativas;
 
 VIII. Aprobar el presupuesto de egresos de la Comisión;
 
-IX. Aprobar el informe del Presidente sobre el ejercicio del presupuesto de egresos de la Comisión;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+IX. Aprobar el informe de la persona titular de la Presidencia sobre el ejercicio del presupuesto de egresos de la Comisión;
 
 X. Aprobar el método de evaluación aplicable a los aspirantes a ingresar al servicio profesional;
 
@@ -471,17 +525,23 @@ XI. Aprobar los lineamientos a los que deben sujetarse las evaluaciones anuales 
 
 XII. Las demás que esta Ley y otros ordenamientos le confiera.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 24.
 
-El Consejo estará integrado por cinco consejeros cuyo cargo será honorífico, el Presidente y el Secretario General quien fungirá como Secretario Técnico.
+El Consejo estará integrado por cinco consejeros cuyo cargo será honorífico, la persona titular de la Presidencia y la persona titular de Secretaria General quien fungirá como persona titular de la Secretaría Técnica.
 
-Todos contarán con voz y voto, salvo el Secretario Técnico que únicamente tendrá voz.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
-El Presidente también lo será del Consejo y tendrá voto de calidad.
+Todos contarán con voz y voto, salvo la persona titular de la Secretaria Técnica que únicamente tendrá voz.
 
-> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
-La elección de los Consejeros se realizará de acuerdo a los siguientes lineamientos:
+La persona titular de la Presidencia también lo será del Consejo y tendrá voto de calidad.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+La elección de las personas Consejeras se realizará de acuerdo a los siguientes lineamientos:
 
 I. La Comisión Legislativa, sesenta días naturales antes de que concluya el período de los Consejeros, convocará a las asociaciones civiles que estén legalmente constituidas cuyo objeto esté vinculado con la difusión y protección de los Derechos Humanos, así como a colegios de profesionistas e instituciones de educación superior en el Estado, a fin de que presenten propuestas de aspirantes para ocupar el cargo de Consejeros. Dicha convocatoria será publicada en el Periódico Oficial del Estado, por lo menos en uno de los diarios de mayor circulación en la Entidad y en la página electrónica del Congreso del Estado, asimismo, se fijará en diversos estrados de instituciones públicas y privadas que lo permitan;
 
@@ -503,7 +563,9 @@ Durarán en el cargo cuatro años sin posibilidad de reelección en el período 
 
 El Consejo sesionará de manera ordinaria o extraordinaria y tomará sus decisiones por mayoría de votos de sus miembros presentes.
 
-Las sesiones ordinarias se verificarán una vez al mes. Las sesiones extraordinarias podrán ser convocadas por el Presidente o a solicitud de cuando menos tres miembros del Consejo, para tratar asuntos urgentes o que requieran inmediata resolución.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+Las sesiones ordinarias se verificarán una vez al mes. Las sesiones extraordinarias podrán ser convocadas por la persona titular de la Presidencia o a solicitud de cuando menos tres miembros del Consejo, para tratar asuntos urgentes o que requieran inmediata resolución.
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2022)</small>
 
@@ -549,13 +611,15 @@ XI. Las demás que esta Ley y otros ordenamientos le confiera.
 
 La Junta estará integrada por:
 
-> <small>(REFORMADA P.O. 8 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
-I. El Presidente de la Comisión, quien también lo será de la Junta;
+I. La persona titular de la Presidencia, quien también lo será de la Junta;
 
 II. Un representante del Congreso del Estado que no deberá ser Diputado, designado por la Comisión Legislativa;
 
-III. El Director de Educación en Derechos Humanos, quien fungirá como Secretario Técnico; y
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+III. La persona titular de la Dirección de Educación en Derechos Humanos, quien fungirá como la persona titular de la Secretaria Técnica; y
 
 IV. Un representante de cada dirección o coordinación que conforme la Comisión en términos de esta Ley y las disposiciones reglamentarias internas. Cada uno de estos representantes será designado por el personal adscrito a la unidad administrativa de que se trate y no podrá ser su titular.
 
@@ -563,7 +627,9 @@ IV. Un representante de cada dirección o coordinación que conforme la Comisió
 
 Para que la Junta sesione válidamente, será necesaria la presencia de por lo menos la mitad más uno de sus integrantes y sus resoluciones se tomarán por acuerdo de la mayoría de los presentes.
 
-Todos los integrantes de la Junta tendrán derecho a voz y voto. El Presidente tendrá voto de calidad en caso de empate.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+Todos los integrantes de la Junta tendrán derecho a voz y voto. La persona titular de la Presidencia tendrá voto de calidad en caso de empate.
 
 ###### ARTÍCULO 29.
 
@@ -571,21 +637,25 @@ Podrán ser convocados otros servidores públicos de la Comisión para que parti
 
 ### CAPÍTULO V. De la Secretaría General
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 30.
 
-La Comisión contará con una Secretaría General para la atención de los asuntos de carácter administrativo y operativo. Corresponde al Consejo nombrar a su titular a propuesta del Presidente.
+La Comisión contará con una Secretaría General para la atención de los asuntos de carácter administrativo y operativo. Corresponde al Consejo nombrar a la persona titular a propuesta de la Presidencia.
 
-El Secretario General deberá contar, al menos, con título profesional de licenciatura en derecho, contabilidad, administración o equivalente con tres años de ejercicio profesional al día de su designación, acreditar conocimientos en materia de Derechos Humanos, así como reunir los requisitos establecidos en el Artículo 16 de esta Ley a excepción del previsto en su Fracción II.
+La persona titular de la Secretaría General deberá contar, al menos, con título profesional de licenciatura en derecho, contabilidad, administración o equivalente con tres años de ejercicio profesional al día de su designación, acreditar conocimientos en materia de Derechos Humanos, así como reunir los requisitos establecidos en el Artículo 16 de esta Ley a excepción del previsto en su Fracción II.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 31.
 
-El Secretario General tendrá las siguientes funciones:
+La persona titular de la Secretaría General tendrá las siguientes funciones:
 
 I. Atender las necesidades administrativas de la Comisión, de acuerdo con los lineamientos generales fijados por el Consejo;
 
-II. Establecer junto con el Presidente y con aprobación del Consejo, las políticas, normas, criterios, sistemas y procedimientos para la administración de los recursos humanos, financieros y materiales de la Comisión y la prestación de servicios generales de apoyo;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+II. Establecer junto con la persona titular de la Presidencia y con aprobación del Consejo, las políticas, normas, criterios, sistemas y procedimientos para la administración de los recursos humanos, financieros y materiales de la Comisión y la prestación de servicios generales de apoyo;
 
 III. Coordinar la formulación del programa operativo anual y del proyecto de presupuesto de la Comisión y vigilar su cumplimiento;
 
@@ -599,7 +669,9 @@ VI. Autorizar las adquisiciones de acuerdo con los preceptos legales aplicables 
 
 VII. Conservar y custodiar los bienes muebles e inmuebles de la Comisión, conforme a los lineamientos establecidos por el Consejo y llevar el registro y control de los mismos;
 
-VIII. Fungir como Secretario Técnico del Consejo;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+VIII. Fungir como persona titular de la Secretaría Técnica del Consejo;
 
 > <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
 
@@ -613,9 +685,9 @@ X. Proporcionar el apoyo, asistencia y atención que requiera el Órgano Interno
 
 XI. Coadyuvar con el Órgano Interno de Control para garantizar que todas las áreas de la Comisión le proporcionen el apoyo, asistencia y atención que requiera para el debido desempeño de sus atribuciones; y
 
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
-XII. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Presidente de la Comisión.
+XII. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera a la persona titular de la Presidencia.
 
 La organización, funcionamiento y estructura administrativa de la Secretaría General se establecerá en el Reglamento Interior de la Comisión.
 
@@ -633,21 +705,31 @@ II. Iniciar a petición de parte o de oficio, investigaciones sobre la presunta 
 
 III. Realizar las actividades necesarias para lograr, por medio de la conciliación, la solución inmediata de conflictos derivados de posibles violaciones de Derechos Humanos que por su propia naturaleza así lo permitan;
 
-IV. Realizar las investigaciones y estudios necesarios para formular los proyectos de recomendación o acuerdo que se someterán a consideración del Presidente para su aprobación;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
-V. Solicitar a cualquier servidor público informes o documentos que ayuden al esclarecimiento de los hechos de la investigación; y
+IV. Realizar las investigaciones y estudios necesarios para formular los proyectos de recomendación o acuerdo que se someterán a consideración de la persona titular de la Presidencia para su aprobación;
 
-VI. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Presidente de la Comisión.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+V. Solicitar a cualquier persona Servidora Pública informes o documentos que ayuden al esclarecimiento de los hechos de la investigación; y
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+VI. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera a la persona titular de la Presidencia.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 33.
 
-Al frente de la Visitaduría estará un Visitador General nombrado por el Presidente, previa aprobación del Consejo.
+Al frente estará una persona titular de la Visitaduría General nombrado por la persona titular de la Presidencia, previa aprobación del Consejo.
 
-Para la realización de las actividades propias de la Visitaduría habrá un visitador auxiliar en materia de discriminación y demás visitadores auxiliares así como el personal de apoyo que se establezca en las disposiciones reglamentarias internas.
+Para la realización de las actividades propias de la Visitaduría habrá una persona visitadora auxiliar en materia de discriminación y demás visitadores auxiliares así como el personal de apoyo que se establezca en las disposiciones reglamentarias internas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 34.
 
-Para ser Visitador General se requiere:
+Para ser persona titular de la Visitaduría General se requiere:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
@@ -683,7 +765,9 @@ IX. Realizar evaluaciones que acuerde la Junta al personal adscrito al servicio 
 
 X. Informar a la Junta sobre los resultados de las evaluaciones aplicadas al personal adscrito al servicio profesional; y
 
-XI. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Presidente de la Comisión.
+> <small>(REFORMADA P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+XI. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera a la persona titular de la Presidencia.
 
 La Presidencia proveerá los recursos humanos y materiales necesarios para el cumplimiento del objeto de la Dirección de Educación en Derechos Humanos.
 
@@ -703,13 +787,13 @@ El Órgano Interno de Control es la instancia administrativa encargada de promov
 
 El Órgano Interno de Control, contará con la estructura orgánica que le permita cumplir con las funciones de investigación, substanciación y resolución que le corresponden, conforme a lo previsto en el artículo 115 de la Ley General de Responsabilidades Administrativas.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 37.
 
-El titular del Órgano Interno de Control de la Comisión desempeñará su encargo por un periodo de cuatro años, y podrá ser ratificado por una sola ocasión. En ese caso desempeñará el cargo por cuatro años más.
+La persona titular del Órgano Interno de Control de la Comisión desempeñará su encargo por un periodo de cuatro años, y podrá ser ratificado por una sola ocasión. En ese caso desempeñará el cargo por cuatro años más.
 
-El titular del Órgano Interno de Control será designado conforme a lo dispuesto por el artículo 27 fracción XXXVIII de la Constitución Política del Estado, y con arreglo al procedimiento previsto por las secciones Primera y Segunda del Capítulo V, del Título V de la Ley Orgánica del Poder Legislativo del Estado de Aguascalientes.
+La persona titular del Órgano Interno de Control será designado conforme a lo dispuesto por el artículo 27 fracción XXXVIII de la Constitución Política del Estado, y con arreglo al procedimiento previsto por las secciones Primera y Segunda del Capítulo V, del Título V de la Ley Orgánica del Poder Legislativo del Estado de Aguascalientes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2024)</small>
 
@@ -827,21 +911,25 @@ La interposición de quejas ante la Comisión no interrumpe ni suspende los plaz
 
 La Comisión deberá determinar si se admite o no a trámite una queja en el momento de su presentación, y si esto no es posible por la complejidad del asunto, contará con un término de sesenta horas para pronunciarse al respecto.
 
-De ser necesario, se podrá requerir al interesado para que aclare la queja en un término no mayor a cinco días hábiles contados a parir de la notificación de tal requerimiento. Si el Quejoso no aclara el asunto se enviará al archivo definitivo.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+De ser necesario, se podrá requerir a la persona interesada para que aclare la queja en un término no mayor a cinco días hábiles contados a parir de la notificación de tal requerimiento. Si el Quejoso no aclara el asunto se enviará al archivo definitivo.
 
 La Comisión suplirá, y en su caso, ampliará la queja, siempre que ello propicie una mayor protección de los Derechos Humanos.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 50.
 
-En caso de que sea evidente la inexistencia de los hechos motivo de la queja, el Presidente, mediante resolución fundada y motivada, podrá desechar de plano, notificando de tal resolución al interesado.
+En caso de que sea evidente la inexistencia de los hechos motivo de la queja, la persona titular de la Presidencia, mediante resolución fundada y motivada, podrá desechar de plano, notificando de tal resolución a la persona interesada.
 
 ###### ARTÍCULO 51.
 
 La Comisión deberá resolver sobre las quejas en un plazo no mayor de noventa días naturales contados a partir de su presentación. Si el asunto es complejo, la Visitaduría, justificando tal circunstancia, podrá solicitar al Consejo la ampliación del plazo.
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
-Cuando los hechos se traten de violaciones graves a los derechos humanos, el Presidente podrá asumir de oficio directamente la investigación de la queja, debiendo dictar la resolución final lo antes posible así como recomendar todas las medidas que resulten necesarias de entre las establecidas en los Artículos 19 Fracción XXI y 64 de esta Ley, para brindar a las víctimas la protección más amplia, de conformidad con el Artículo 1° segundo párrafo de la Constitución Política de los Estados Unidos Mexicanos.
+Cuando los hechos se traten de violaciones graves a los derechos humanos, la persona titular de la Presidencia podrá asumir de oficio directamente la investigación de la queja, debiendo dictar la resolución final lo antes posible así como recomendar todas las medidas que resulten necesarias de entre las establecidas en los Artículos 19 Fracción XXI y 64 de esta Ley, para brindar a las víctimas la protección más amplia, de conformidad con el Artículo 1° segundo párrafo de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2021)</small>
 
@@ -901,13 +989,13 @@ Admitida la queja, se le notificará a la Autoridad Responsable así como al tit
 
 La Autoridad Responsable, en un término no mayor a tres días hábiles contados a partir de que se le notifique la admisión, deberá remitir a la Comisión un informe sobre los hechos u omisiones que se le imputan. La Comisión podrá fijar un plazo menor.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
-La falta de informe o su entrega fuera del plazo otorgado, tendrá por consecuencia la presunción de que son ciertos los hechos imputados a la Autoridad Responsable y el Presidente podrá imponer una multa de cincuenta a quinientos días de salario mínimo general vigente en el Estado al funcionario requerido.
+La falta de informe o su entrega fuera del plazo otorgado, tendrá por consecuencia la presunción de que son ciertos los hechos imputados a la Autoridad Responsable y la persona titular de la Presidencia podrá imponer una multa de cincuenta a quinientos días de salario mínimo general vigente en el Estado al funcionario requerido.
 
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
-El Presidente remitirá la determinación que contenga la multa a la Secretaría de Finanzas del Gobierno del Estado para que la haga efectiva, debiendo informar sobre su ejecución en un plazo de treinta días naturales.
+La persona titular de la Presidencia remitirá la determinación que contenga la multa a la Secretaría de Finanzas del Gobierno del Estado para que la haga efectiva, debiendo informar sobre su ejecución en un plazo de treinta días naturales.
 
 ###### ARTÍCULO 60.
 
@@ -919,17 +1007,21 @@ Se admitirá cualquier clase de prueba que no sea contraria al derecho o la mora
 
 Cualquier persona que participe en la explotación de concesiones de servicios públicos, está obligado a comparecer personalmente ante la Comisión en caso de ser citados para declarar sobre cuestiones relacionadas con una queja.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 62.
 
-En el ejercicio de sus funciones, el Presidente, o bien, personal autorizado de la Secretaría General y de la Visitaduría, podrán ordenar la inspección de oficinas públicas y requerir toda información y documentación, misma que se proporcionará gratuitamente.
+En el ejercicio de sus funciones, la persona titular de la Presidencia, o bien, personal autorizado de la Secretaría General y de la Visitaduría, podrán ordenar la inspección de oficinas públicas y requerir toda información y documentación, misma que se proporcionará gratuitamente.
 
 ###### ARTÍCULO 63.
 
 Se podrá mantener en secreto la identidad del Quejoso si existe temor fundado de que peligre la vida, integridad física o bienes de él, sus dependientes económicos o parientes hasta el tercer grado; no obstante, se tendrá que revelar su identidad a la Autoridad Responsable al requerírsele informe sobre los hechos u omisiones que se le imputan y ésta deberá reservarla.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 64.
 
-El Presidente o el personal autorizado de la Visitaduría, tendrá la facultad de recomendar en cualquier momento a las autoridades que se tomen las medidas precautorias o cautelares necesarias para evitar la consumación irreparable de las violaciones denunciadas o la producción de daños de difícil reparación.
+La Presidencia o el personal autorizado de la Visitaduría, tendrá la facultad de recomendar en cualquier momento a las autoridades que se tomen las medidas precautorias o cautelares necesarias para evitar la consumación irreparable de las violaciones denunciadas o la producción de daños de difícil reparación.
 
 ### CAPÍTULO IV. De las Resoluciones
 
@@ -1003,11 +1095,11 @@ La obligación de la Autoridad Responsable de reparar el daño al Quejoso será 
 
 La Comisión informará a las instancias correspondientes sobre las recomendaciones que emita por la violación de Derechos Humanos a efecto de que se realicen los registros respectivos y el Quejoso acceda a los beneficios que establece la Ley General de Víctimas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRAFO, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 76.
 
-La Autoridad Responsable podrá repetir contra el Servidor Público que propicio el daño en términos de la Ley de Responsabilidad Patrimonial del Estado de Aguascalientes.
+La Autoridad Responsable podrá repetir contra las personas servidoras públicas que propicio (sic) el daño en términos de la Ley de Responsabilidad Patrimonial del Estado de Aguascalientes.
 
 La reparación del daño derivada de una recomendación es independiente de la que determinen los tribunales competentes en materia penal o administrativa.
 
@@ -1051,9 +1143,11 @@ En contra de las actuaciones u omisiones de la Comisión, los quejosos pueden in
 
 ### CAPÍTULO I. De la Colaboración
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 82.
 
-Todo Servidor Público tiene la obligación de colaborar con la Comisión en sus investigaciones y por tanto debe brindarle todas las facilidades para el cabal desempeño de sus funciones.
+Toda persona Servidora Pública tiene la obligación de colaborar con la Comisión en sus investigaciones y por tanto debe brindarle todas las facilidades para el cabal desempeño de sus funciones.
 
 ###### ARTÍCULO 83.
 
@@ -1063,13 +1157,13 @@ Ninguna autoridad podrá negar este acceso, incluso si se trata de documentos re
 
 ### CAPÍTULO II. De las Infracciones
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 84.
 
-Cuando los Servidores Públicos estatales o municipales no envíen la documentación requerida por la Comisión; omitan responder una recomendación; no funden, motiven o hagan pública su determinación de no aceptar o cumplir las recomendaciones; funden o motiven deficientemente su determinación de no aceptar o cumplir una recomendación; no comparezcan ante el Congreso del Estado a explicar el motivo de tal negativa; o realicen cualquier otra actuación u omisión que entorpezca las funciones de la Comisión, se les sancionará en términos de los (sic) dispuesto por la Ley General de Responsabilidades Administrativas y por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y, en su caso, la normatividad penal del Estado.
+Cuando las personas servidoras Públicos estatales o municipales no envíen la documentación requerida por la Comisión; omitan responder una recomendación; no funden, motiven o hagan pública su determinación de no aceptar o cumplir las recomendaciones; funden o motiven deficientemente su determinación de no aceptar o cumplir una recomendación; no comparezcan ante el Congreso del Estado a explicar el motivo de tal negativa; o realicen cualquier otra actuación u omisión que entorpezca las funciones de la Comisión, se les sancionará en términos de lo dispuesto por la Ley General de Responsabilidades Administrativas y por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y, en su caso, la normatividad penal del Estado.
 
-Para efectos de lo dispuesto por el párrafo anterior, la Comisión dará aviso al titular de la dependencia donde labore el Servidor Público, al órgano de control competente o al Ministerio Público, según corresponda.
+Para efectos de lo dispuesto por el párrafo anterior, la Comisión dará aviso a la persona titular de la dependencia donde labore la persona servidora pública, al órgano de control competente o al Ministerio Público, según corresponda.
 
 ###### ARTÍCULO 85.
 
@@ -1125,9 +1219,11 @@ El personal inconforme con los reportes trimestrales o con el resultado de las e
 
 La Junta integrará un expediente de cada uno de los trabajadores adscritos al servicio profesional, en el que constarán los resultados de las evaluaciones a que sean sometidos, los reportes trimestrales y cualquier otro elemento que se estime pertinente para valorar el desempeño.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 93.
 
-Los resultados de las evaluaciones aplicadas al personal adscrito al servicio profesional o a los aspirantes a integrarse a éste, deberán agregarse al informe anual que el Presidente rinda ante la Comisión Legislativa.
+Los resultados de las evaluaciones aplicadas al personal adscrito al servicio profesional o a los aspirantes a integrarse a éste, deberán agregarse al informe anual que la Presidencia rinda ante la Comisión Legislativa.
 
 ### CAPÍTULO II. Del Régimen Laboral
 
@@ -1139,11 +1235,13 @@ Los servicios que presten los trabajadores a la Comisión, se regirán en lo con
 
 Todos los trabajadores de la Comisión serán de confianza, a excepción de quienes formen parte del servicio profesional.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 96.
 
-El Presidente tendrá una percepción diaria no mayor a treinta días de salario mínimo general vigente en el Estado libre de impuestos, más otras prestaciones que por ley le correspondan.
+La persona titular de la Presidencia tendrá una percepción diaria no mayor a treinta días de salario mínimo general vigente en el Estado libre de impuestos, más otras prestaciones que por ley le correspondan.
 
-Nadie que labore para la Comisión, cualquiera que sea el esquema de contratación, recibirá una retribución económica mayor a la recibida por el Presidente pero tampoco menor al diez por ciento de la misma.
+Nadie que labore para la Comisión, cualquiera que sea el esquema de contratación, recibirá una retribución económica mayor a la recibida por la persona titular de la Presidencia, pero tampoco menor al diez por ciento de la misma.
 
 T R A N S I T O R I O S:
 
@@ -1380,3 +1478,11 @@ P.O. 16 DE JUNIO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 321.- SE REFORMA LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el 17 de enero del 2026, es decir, con posterioridad a su Publicación en el Periódico Oficial del Estado.
