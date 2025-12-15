@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1377
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-08-20"
-last_updated: "2025-05-24"
+last_updated: "2025-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 20 de agosto de 2019.
 
@@ -95,9 +95,9 @@ XV. Reglamento: Reglamento de la Ley Orgánica de la Fiscalía General de Justic
 
 XVI. Servicio de Carrera: El Servicio Profesional de Carrera Ministerial, Policial, Pericial y de Justicia Alternativa; y
 
-> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
-XVII. Unidad de Inteligencia Financiera y Económica: Unidad administrativa de la Fiscalía Especializada en Combate a la Corrupción.
+XVII. Coordinación General de la Unidad de Inteligencia Financiera y Económica: Unidad administrativa de la Fiscalía Especializada en Combate a la Corrupción.
 
 ###### Artículo 3.
 
@@ -273,9 +273,9 @@ La Fiscalía General contará para el desempeño de sus funciones cuando menos c
 
 a) (DEROGADO, P.O. 19 DE OCTUBRE DE 2021)
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
-b) Unidad Especializada en Combate al Secuestro.
+b) Unidad Especializada en Combate al Secuestro y Extorsión.
 
 c) (DEROGADO, P.O. 22 DE DICIEMBRE DE 2022)
 
@@ -447,9 +447,9 @@ VIII. Distribuir y dar trámite a la correspondencia oficial;
 
 IX. Resolver los conflictos de competencia que se presenten entre los Agentes del Ministerio Público de distintas unidades administrativas a su cargo;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
-X. Supervisar que las acciones de las unidades administrativas de Atención y Decisión Temprana, Imputado Desconocido y Tramitación Masiva de Casos, y Medios Alternativos de Solución de Controversias, en la integración de las carpetas de investigación, el ejercicio de la acción penal o su determinación final, estén alineados al Plan de Persecución Penal, así como el debido funcionamiento de la unidad administrativa a cargo de la atención y servicios a la comunidad. De igual forma, verificará por conducto de sus titulares que los Agentes del Ministerio Público Especializado en Justicia Penal para Adolescentes cumplan los mismos criterios;
+X. Supervisar las acciones de las unidades administrativas de la Dirección General de Mecanismos Alternativos de Solución de Controversias, la Dirección de Resolución de asuntos en trámite y las unidades especializadas en justicia penal para adolescentes, en la integración de las carpetas de investigación, el ejercicio de la acción penal o su determinación final, así como el debido funcionamiento de la unidad administrativa a cargo de la atención y servicios a la comunidad.
 
 XI. Supervisar, promover y verificar la correcta aplicación y sustanciación de los mecanismos alternativos de solución de controversias, por parte del órgano especializado en la materia;
 
@@ -571,9 +571,9 @@ XI. Investigar los delitos cometidos en agravio de la libertad de expresión de 
 
 XII. Investigar y perseguir los casos en que debido a la naturaleza, gravedad, impacto social y complejidad de los hechos constitutivos de delito o de las personas o derechos tutelados vulnerados, se requiera de un tratamiento especializado;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
-XIII. Investigar y perseguir los delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes, homicidio, extorsión, operaciones con recursos de procedencia ilícita y los relacionados con el delito de trata de personas;
+XIII. Investigar y perseguir los delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes, homicidio, operaciones con recursos de procedencia ilícita y los relacionados con el delito de trata de personas;
 
 XIV. Implementar acciones para prevenir y combatir los delitos, de su competencia;
 
@@ -661,9 +661,9 @@ VII. Aprobar las evaluaciones de control de confianza previstas en la legislaci�
 
 VIII. Los demás requisitos constitucionales y legales que rijan el ingreso y permanencia de las y los servidores públicos en las instituciones de seguridad pública.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
-### CAPÍTULO IV. DE LAS FISCALÍAS Y VICEFISCALÍAS ESPECIALIZADAS
+### CAPÍTULO IV. DE LAS FISCALÍAS ESPECIALIZADAS
 
 ###### Artículo 22.
 
@@ -891,9 +891,9 @@ En el Presupuesto de Egresos del Estado, se identificará el monto aprobado a la
 
 XXXI. Proponer a la consideración del o la titular de la Fiscalía General, el proyecto de rotación y sustitución de los Agentes del Ministerio Público y Policías Investigadores adscritos a la Fiscalía Especializada en Combate a la Corrupción. Dicha proyección garantizará la suficiencia de personal sustantivo para la adecuada operación de la propia Fiscalía;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
-XXXII. Coordinar a la Unidad de Inteligencia Financiera y Económica;
+XXXII. Dirigir a la Coordinación General de la Unidad de Inteligencia Financiera y Económica;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
@@ -941,7 +941,9 @@ a) Coordinación de Litigación;
 
 b) Coordinación de Operación y Supervisión; y
 
-c) Dirección de Seguimiento a Medidas, Control Judicial y Amparos.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+c) Dirección Jurídica y Amparos.
 
 C. Dirección de Administración;
 
@@ -951,7 +953,9 @@ E. Dirección de Tecnologías, Sistemas y Soporte;
 
 F. Dirección de Prevención y Difusión; y
 
-G. Unidad de Inteligencia Financiera y Económica:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+G. Coordinación General de la Unidad de Inteligencia Financiera y Económica:
 
 a) (DEROGADO, P.O. 3 DE MAYO DE 2025)
 
@@ -959,51 +963,77 @@ b) Dirección de Análisis de Información;
 
 c) Dirección de Análisis Forense; y
 
-d) Dirección Jurídica.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+d) Dirección de Análisis Jurídico.
 
 Los servidores públicos titulares de las unidades administrativas señaladas en el apartado A, incisos a), c), d) y e), así como en el apartado a) y b), contarán con funciones de Ministerio Público, conforme a lo dispuesto por las fracciones VII y VIII, del artículo 6 de esta Ley.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 27 Ter.
 
-La Unidad de Inteligencia Financiera y Económica estará adscrita a la Fiscalía Especializada en Combate a la Corrupción y será la encargada de obtener y analizar información fiscal, financiera, patrimonial y económica para generar y consolidar productos de inteligencia, que sustenten la investigación de actos que produzcan en las personas un beneficio o incremento económico injustificable, derivado de delitos por hechos de corrupción y delitos conexos.
+La Coordinación General de la Unidad de Inteligencia Financiera y Económica estará adscrita a la Fiscalía Especializada en Combate a la Corrupción y será la encargada de obtener y analizar información fiscal, financiera, patrimonial y económica para generar y consolidar productos de inteligencia, que sustenten la investigación de actos que produzcan en las personas un beneficio o incremento económico injustificable, derivado de delitos por hechos de corrupción y delitos conexos.
 
-La persona titular de la Unidad de Inteligencia Financiera y Económica, será designada por la persona titular de la Fiscalía Especializada en Combate a la Corrupción; la cual tendrá un nivel administrativo de Coordinador General.
+La persona titular de la Coordinación General de la Unidad de Inteligencia Financiera y Económica, será designada por la persona titular de la Fiscalía Especializada en Combate a la Corrupción; la cual tendrá un nivel administrativo de Coordinador o Coordinadora General.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 27 Quater.
 
-Para designar a la persona Titular de la Unidad de Inteligencia Financiera y Económica, se requiere cumplir los siguientes requisitos:
+Para designar a la persona Titular de la Coordinación General de la Unidad de Inteligencia Financiera y Económica, se requiere cumplir los siguientes requisitos:
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
 I. Ser ciudadana o ciudadano mexicano, en pleno goce y ejercicio de sus derechos civiles y políticos;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2024)</small>
+
 II. Tener por lo menos treinta años cumplidos el día de la designación;
 
-III. Contar con título profesional de licenciatura en derecho, abogacía, ciencias jurídicas, administrativas o afín con las funciones de la unidad, expedido por autoridad o institución legalmente facultada para ello y cédula profesional que acredite su registro ante autoridad competente;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+III. Contar con título profesional de licenciatura en derecho, abogacía, ciencias jurídicas, administrativas o afín con las funciones de la Coordinación General de la Unidad de Inteligencia Financiera y Económica, expedido por autoridad o institución legalmente facultada para ello y cédula profesional que acredite su registro ante autoridad competente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
 IV. Contar con experiencia profesional en materia fiscal, de derecho, financiera, contable y/o económica;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2024)</small>
+
 V. Gozar de buena reputación y no haber sido sentenciado por la comisión de delito doloso;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
 VI. En su caso, tener acreditado el Servicio Militar Nacional;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2024)</small>
+
 VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
 VIII. Aprobar las evaluaciones de control de confianza previstas en la legislación aplicable; y
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2024)</small>
+
 IX. Los demás requisitos constitucionales y legales que rijan el ingreso y permanencia de las y los servidores públicos en las instituciones de seguridad pública.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 27 Quinquies.
 
-A la Unidad de Inteligencia Financiera y Económica, le corresponden las siguientes atribuciones y obligaciones:
+A la Coordinación General de la Unidad de Inteligencia Financiera y Económica, le corresponden las siguientes atribuciones y obligaciones:
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
 I. Requerir, obtener, analizar, procesar y consolidar información financiera, fiscal, patrimonial y económica de personas físicas o morales, para la investigación de hechos ilícitos con la finalidad de aportar o remitir los productos de inteligencia al Agente del Ministerio Público;
 
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
+
 II. Proponer al Fiscal Especializado en Combate a la Corrupción la celebración de convenios con instituciones u organismos públicos o privados, nacionales o extranjeros, en el ámbito de su competencia, donde se privilegie el intercambio de información, experiencias, conocimientos y avances tecnológicos;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
 III. Requerir a las dependencias, entidades y demás órganos de la Administración Pública del Estado, de la Federación y de los municipios, la información y documentación necesaria para el ejercicio de las atribuciones que se le confieren;
 
@@ -1011,15 +1041,27 @@ III. Requerir a las dependencias, entidades y demás órganos de la Administraci
 
 IV. Suscribir los documentos relativos al ejercicio de sus atribuciones, así como certificar documentos, libros y registros, sean físicos, digitales o electrónicos, relativos a la información que haya sido generada o bien que obra en sus archivos o expedientes;
 
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
+
 V. Participar, previo acuerdo con el Fiscal Especializado en Combate a la Corrupción, en la formulación, vigilancia y cumplimiento de los convenios o acuerdos de coordinación o colaboración suscritos en los términos de las leyes, reglamentos o acuerdos aplicables;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
 VI. Realizar las diligencias necesarias para allegarse de información financiera, fiscal y patrimonial, de personas físicas y morales;
 
-VII. Colaborar en los procesos de investigación, previo acuerdo con el titular de la Fiscalía Especializada en Combate a la Corrupción, con las distintas unidades de la Fiscalía General de Justicia del Estado, conforme al ejercicio de sus funciones y atribuciones; y
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
-VIII. Las demás que sean necesarias para el ejercicio de sus funciones, las que le sean conferidas y las demás que le atribuyan expresamente el reglamento de esta ley y otras disposiciones.
+VII. Colaborar en los procesos de investigación, previo acuerdo con el titular de la Fiscalía Especializada en Combate a la Corrupción, con las distintas unidades de la Fiscalía General de Justicia del Estado, conforme al ejercicio de sus funciones y atribuciones;
 
-Los datos, documentos o cualquier otra información que obre en poder de la Unidad de Inteligencia, con motivo de las investigaciones realizadas conforme a sus funciones, tiene el carácter de reservada conforme a la (sic) Leyes en materia de transparencia y acceso a la información.
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+VIII. Brindar apoyo y colaboración a la Unidad Especializada en Combate al Secuestro y Extorsión respecto a las solicitudes y requerimientos que le sean formulados por los Agentes del Ministerio Público; y
+
+IX. Las demás que sean necesarias para el ejercicio de sus funciones, las que le sean conferidas y las demás que le atribuyan expresamente el reglamento de esta ley y otras disposiciones.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+Los datos, documentos o cualquier otra información que obre en poder de la Coordinación General de la Unidad de Inteligencia, con motivo de las investigaciones realizadas conforme a sus funciones, tiene el carácter de reservada conforme a la (sic) Leyes en materia de transparencia y acceso a la información.
 
 ###### Artículo 27 Sexies.
 
@@ -1083,23 +1125,37 @@ VIII. Coordinar a través de los Centros de Justicia para las Mujeres, estrategi
 
 IX. Las demás que le confiera el Reglamento, otras disposiciones o le encomiende la persona titular de la Fiscalía General.
 
-> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 28 Ter.
 
-La persona titular de la Fiscalía Especializada en la Investigación de Delitos de Feminicidio y Homicidios Dolosos de Mujeres, tendrá las siguientes facultades:
+La persona titular de la Fiscalía Especializada en la Investigación de Delitos de Feminicidio y Homicidio Doloso de Mujeres, tendrá las siguientes facultades:
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
 I. Ejercer las atribuciones que la Constitución General, la Constitución del Estado, las leyes, reglamentos, los protocolos y demás disposiciones jurídicas confieren al Ministerio Público en lo relativo a los hechos que las leyes consideran como delitos de su competencia;
 
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
+
 II. Dirigir, coordinar, realizar la investigación y ejercer la acción penal en lo relativo a los delitos contenidos en las disposiciones legales en materia de feminicidio y homicidio doloso en contra de mujeres;
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
 III. Supervisar que las carpetas de investigación iniciadas con motivo de delitos de feminicidio y homicidio doloso en contra de mujeres se lleven a cabo en estricto respeto a los derechos humanos
 
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
+
 IV. Conocer y decidir sobre la autorización del no ejercicio de la acción penal y las incompetencias propuestas por los Agentes del Ministerio Público;
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
 V. Implementar acciones para prevenir y combatir los delitos de su competencia;
 
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
+
 VI. Dictar las medidas de protección y providencias precautorias, tendentes a proteger a la víctima u ofendido de un riesgo inminente; y
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
 VII. Las demás que le confiera el Reglamento, otras disposiciones o le encomiende la persona titular de la Fiscalía General.
 
@@ -1697,7 +1753,9 @@ XXVIII. Las demás que sean necesarias.
 
 En el ejercicio de su encargo, los Peritos actuarán de inmediato a solicitud del Ministerio Público o de la Policía de Investigación, y gozarán de autonomía técnica, por lo que las órdenes del Ministerio Público no afectarán los criterios y sentido de sus dictámenes.
 
-Las y los Peritos serán los responsables de recolectar los indicios o elementos materiales probatorios que resulten de sus intervenciones, con apego a la legislación procesal, procediendo a su debida observación, fijación, levantamiento, embalaje y etiquetado, y los pondrán a disposición del Ministerio Público o la Policía de Investigación, así como deberán rendir los dictámenes e informes correspondientes, en el plazo establecido por el Ministerio Público a cargo.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+Las y los Peritos serán los responsables de recolectar los indicios o elementos materiales probatorios que resulten de sus intervenciones, con apego a la legislación procesal, procediendo a su debida observación, fijación, levantamiento, embalaje y etiquetado, y los pondrán a disposición del Ministerio Público o la Policía de Investigación, deberán rendir los dictámenes e informes, con la respectiva validación de la unidad especializada que corresponda, en el plazo establecido por el Ministerio Público a cargo.
 
 ### CAPÍTULO VII. DE LOS MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS
 
@@ -1715,11 +1773,11 @@ Los procedimientos establecidos en el artículo anterior, estarán a cargo de fa
 
 ### CAPÍTULO I. DEL ÓRGANO INTERNO DE CONTROL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 55.
 
-El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo las funciones de prevenir, corregir, calificar, investigar y sancionar actos u omisiones que pudieran constituir responsabilidades de las y los servidores públicos de la Fiscalía General, contempladas en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas, distintas a las de competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos estatales y federales, la correcta administración de recursos humanos y materiales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante el Agente del Ministerio Público.
+El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo las funciones de prevenir, corregir, investigar, calificar, substanciar, resolver y en su caso sancionar actos u omisiones que pudieran constituir responsabilidades administrativas de las y los servidores públicos de la Fiscalía General, contempladas en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas, distintas a las de competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos estatales y federales, la correcta administración de recursos humanos y materiales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante el Agente del Ministerio Público; ejercer las atribuciones como autoridad garante que le correspondan en materia de transparencia, acceso a la información pública y protección de datos personales de conformidad con las disposiciones jurídicas aplicables; además de promover, evaluar y fortalecer el buen funcionamiento del control interno.
 
 El Órgano Interno de Control tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto. En el desempeño de su cargo, el titular del Órgano Interno de Control se sujetará a los principios previstos en la Ley en materia de responsabilidades administrativas del Estado.
 
@@ -2205,53 +2263,85 @@ El Presupuesto de Egresos de la Fiscalía General se deberá elaborar conforme a
 
 (DEROGADO, P.O. 19 DE OCTUBRE DE 2021)
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
-### CAPÍTULO II. DE LA UNIDAD ESPECIALIZADA EN COMBATE AL SECUESTRO
+### CAPÍTULO II. DE LA UNIDAD ESPECIALIZADA EN COMBATE AL SECUESTRO Y EXTORSIÓN
 
-> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 94.
 
-La Unidad Especializada en Combate al Secuestro, será un órgano desconcentrado dependiente directamente de la persona titular de la Fiscalía General, estará integrada con personal especializado y contará con la Coordinación de Ministerios Públicos, Dirección de Administración, Capacitación y Evaluación, Dirección de Atención a Víctimas, Unidad de Manejo de Crisis y Negociación y Unidad de Operación, además de Agentes del Ministerio Público quienes serán los Titulares de las Unidades Especializadas en Combate al Secuestro, peritos y policías investigadores, así como con los recursos humanos, financieros, materiales y las áreas que sean necesarias para su efectiva operación.
+La Unidad Especializada en Combate al Secuestro y Extorsión, será un órgano desconcentrado dependiente directamente de la persona titular de la Fiscalía General, estará integrada con personal especializado y contará con la Unidad Especializada en la Investigación del Delito de Secuestro, la Unidad Especializada en la Investigación del Delito de Extorsión, Dirección de Administración, Capacitación y Evaluación, Dirección de Atención a Víctimas, Unidad de Manejo de Crisis y Negociación y Unidad de Operación, además de Agentes del Ministerio Público, peritos y policías investigadores, así como con los recursos humanos, financieros, materiales y las áreas que sean necesarias para su efectiva operación.
 
-Tiene por objeto llevar a cabo toda investigación e intervención para el esclarecimiento de los hechos que puedan ser constitutivos de los delitos en materia de secuestro, así como para dar seguimiento al juicio respectivo, con las atribuciones y obligaciones que para el Ministerio Público y Policía establecen, la Constitución General, la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado, la presente Ley Orgánica, así como las leyes, reglamentos, decretos, acuerdos y demás disposiciones aplicables.
+Tiene por objeto llevar a cabo toda investigación e intervención para el esclarecimiento de los hechos que puedan ser constitutivos de los delitos en materia de secuestro y extorsión, así como para dar seguimiento al juicio respectivo, con las atribuciones y obligaciones que para el Ministerio Público y Policía establecen, la Constitución General, la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado, la presente Ley Orgánica, así como las leyes, reglamentos, decretos, acuerdos y demás disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 95.
 
-Para ser integrante de la Unidad Especializada en Combate al Secuestro deberá reunir los requisitos establecidos para los Agentes del Ministerio Público en la presente Ley, así como lo dispuesto en el artículo 42, de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI, del artículo 73, de la Constitución Política de los Estados Unidos Mexicanos.
+Para ser integrante de la Unidad Especializada en Combate al Secuestro y Extorsión deberá reunir los requisitos establecidos para los Agentes del Ministerio Público en la presente Ley, la Constitución Política de los Estados Unidos Mexicanos y en su caso lo dispuesto en el artículo 42, de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI, del artículo 73.
 
-> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 96.
 
-La Unidad Especializada en Combate al Secuestro, tendrá las siguientes atribuciones:
+La Unidad Especializada en Combate al Secuestro y Extorsión, tendrá las siguientes atribuciones:
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2020)</small>
 
 I. Ejercer las atribuciones que la Constitución General, la Constitución del Estado, las leyes, reglamentos y demás disposiciones jurídicas confieren al Ministerio Público en lo relativo a los hechos que las leyes consideran como delitos de su competencia;
 
-II. Dirigir, coordinar, realizar la investigación y ejercer la acción penal en lo relativo a los delitos en materia de secuestro;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
-III. Implementar acciones para prevenir y combatir hechos que pudieran ser constitutivos de los delitos en materia de secuestro;
+II. Dirigir, coordinar, realizar la investigación y ejercer la acción penal en lo relativo a los delitos en materia de secuestro y extorsión;
 
-IV. Representar a la Fiscalía General ante autoridades federales o estatales, en materia de secuestro;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+III. Implementar acciones para prevenir y combatir hechos que pudieran ser constitutivos de los delitos en materia de secuestro y extorsión;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+IV. Representar a la Fiscalía General ante autoridades federales o estatales, en materia de secuestro y extorsión;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2020)</small>
 
 V. Otorgar la autorización de la operación de entrega vigilada, previo informe al Fiscal General;
 
-VI. Instrumentar estrategias en materia del delito de secuestro, así como tomar acciones para el intercambio de información sobre los asuntos relacionados;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
-VII. Dirigir el proceso de la prestación del servicio de asesoría en crisis y negociación a las víctimas y sus familiares en el delito de secuestro;
+VI. Instrumentar estrategias en materia del delito de secuestro y extorsión, así como tomar acciones para el intercambio de información sobre los asuntos relacionados;
 
-VIII. Coordinar y supervisar la realización de operativos por elementos de la policía de investigación, en la captura de presuntos responsables relacionados con el delito de secuestro;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
-IX. Desarrollar estadísticas sobre actividades relacionadas con el secuestro que permitan determinar la situación que guarda el fenómeno delictivo, así como sus tendencias;
+VII. Dirigir el proceso de la prestación del servicio de asesoría en crisis y negociación a las víctimas y sus familiares en el delito de secuestro y extorsión;
 
-X. Proporcionar la información estadística que requiera la Coordinación Nacional Antisecuestro, así como el intercambio de datos con otras instancias involucradas en el combate del delito de secuestro;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
-XI. Promover la formación y capacitación del personal de la Unidad Especializada en Combate al Secuestro y coadyuvar a la definición de los perfiles correspondientes; y
+VIII. Coordinar y supervisar la realización de operativos por elementos de la policía de investigación, en la captura de presuntos responsables relacionados con el delito de secuestro y extorsión;
 
-XII. Las demás que le confiera el Reglamento, otras disposiciones o le encomiende la persona titular de la Fiscalía General.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+IX. Desarrollar estadísticas sobre actividades relacionadas con el secuestro y extorsión que permitan determinar la situación que guarda el fenómeno delictivo, así como sus tendencias;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+X. Proporcionar la información estadística que requiera la Unidad de Antisecuestro y Antiextorsión, así como el intercambio de datos con otras instancias involucradas en el combate del delito de secuestro y extorsión;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+XI. Promover la formación y capacitación del personal de la Unidad Especializada en Combate al Secuestro y Extorsión y coadyuvar a la definición de los perfiles correspondientes; y
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+XII. Supervisar los requerimientos que formulen los Agentes del Ministerio Público a las autoridades de los tres órdenes de gobierno, respecto de información hacendaria, financiera, patrimonial, estado civil y de cualquier otra que se requiera en la investigación de los delitos de secuestro y extorsión;
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+XIII. Convocar a las autoridades de seguridad de los tres órdenes de gobierno para la integración de mesas de trabajo y la definición de estrategias para prevenir y combatir los delitos de su competencia; y
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2020)</small>
+
+XIV. Las demás que le confiera el Reglamento, otras disposiciones o le encomiende la persona titular de la Fiscalía General.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
@@ -2810,3 +2900,27 @@ P.O. 24 DE MAYO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-912 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se instruye a la Fiscalía General de Justicia del Estado de Tamaulipas, a realizar las adecuaciones presupuestales, financieras, de recursos humanos, materiales y tecnológicos, a efecto de dar cumplimiento a lo establecido en el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos en materia de extorsión que a la entrada en vigor del presente Decreto se encuentren en trámite ante la Vicefiscalía de Delitos de Alto Impacto y de Violaciones a Derechos Humanos, serán remitidos a la Unidad Especializada en Combate al Secuestro y Extorsión para el trámite correspondiente.
+
+###### ARTÍCULO QUINTO.
+
+En un plazo de 30 días hábiles contados a partir de la entrada en vigor del presente Decreto, la Fiscalía General de Justicia del Estado, deberá reformar el Reglamento de la Ley Orgánica de la Fiscalía General de Justicia del Estado de Tamaulipas, para armonizarlo con las presentes disposiciones.
