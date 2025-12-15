@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2025-07-11"
+last_updated: "2025-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "PUE"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2025 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2025.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -3969,17 +3971,11 @@ II.- Si exigió que el amenazado cometiera un delito, se acumulará a la sanció
 
 III.- Si lo que exigió fue que el amenazado dejara de ejecutar un acto lícito, se le impondrá el doble de la sanción correspondiente a la amenaza.
 
-> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 292 Bis.
 
-Comete el delito de extorsión el que con ánimo de conseguir un lucro o provecho, amenazare a otro por cualquier medio con la finalidad de causar daños morales, físicos o patrimoniales, que afecten al amenazado o a persona física o jurídica con quien éste tuviere relaciones de cualquier orden que lo determinen a protegerlos.
-
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
-
-Al culpable de este delito se le impondrán de dos a diez años de prisión y multa de cien a mil Unidades de Medida y Actualización.
-
-Si el o los responsables del delito son o fueron servidores públicos o miembros de una institución de seguridad privada que en razón de su función utilizasen los medios o circunstancias que ésta le proporciona para la comisión del delito, se aumentará en dos tercios la pena que corresponda. Se impondrá además en el primer caso, la destitución del empleo, cargo o comisión público; en el segundo supuesto se estará a lo previsto en las leyes aplicables.
+El delito en materia de extorsión, así como las penas y medidas sancionatorias aplicables, se entenderán al tipo penal en la materia previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
 #### SECCION SEGUNDA.- ALLANAMIENTO DE MORADA
 
@@ -6805,7 +6801,9 @@ Comete el delito de espionaje digital la persona que a través del uso de las te
 
 A la persona responsable de la conducta descrita en el párrafo anterior se le impondrá sanción de uno a tres años de prisión y multa de cincuenta a doscientos cincuenta días del valor diario de la Unidad de Medida y Actualización vigente al momento de la comisión del delito.
 
-(NOTA: EL 14 DE ABRIL DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2025 Y SU ACUMULADA 88/2025, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 11 DE JULIO DE 2025, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).(REFORMADO, P.O. 11 DE JULIO DE 2025)
+(NOTA: EL 14 DE ABRIL DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2025 Y SU ACUMULADA 88/2025, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 11 DE JULIO DE 2025, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2025)</small>
 
 ###### Artículo 480.
 
@@ -7982,3 +7980,11 @@ P.O. 11 DE JULIO DE 2025.
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 292 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
