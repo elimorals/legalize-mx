@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-estatal-de-160426"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2022-09-30"
-last_updated: "2025-12-08"
+last_updated: "2025-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número 56 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 30 de septiembre de 2022.
 
@@ -123,9 +123,17 @@ X. Ordenar, en términos de lo dispuesto por la Constitución Política del Esta
 
 XI. Resolver, por conducto del Titular de la Secretaría General de Gobierno, las dudas que existan sobre la distribución de competencias entre las Dependencias y asignarles, en casos extraordinarios, la responsabilidad sobre asuntos específicos;
 
-XII. Establecer y conducir el desarrollo de las políticas públicas encaminadas a garantizar los derechos humanos y fundamentales; y
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
-XIII. Las demás que expresamente le confieran esta ley y las diversas leyes del Estado.
+XII. Establecer y conducir el desarrollo de las políticas públicas encaminadas a garantizar los derechos humanos y fundamentales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+XIII. Brindar la prestación del servicio de transporte público de personas, bienes y mercancías de manera directa o a través de personas físicas o morales mediante concesiones, permisos o autorizaciones, en los términos establecidos en la Constitución Política del Estado de Aguascalientes, la Ley de Movilidad y Seguridad Vial del Estado de Aguascalientes y demás normatividad aplicable a la materia; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+XIV. Las demás que expresamente le confieran esta ley y las diversas (sic) del Estado.
 
 ###### Artículo 9°.
 
@@ -233,7 +241,7 @@ XIV. Secretaría de Comunicación y Vocería del Gobierno.- SECOVOG
 
 XV. Secretaría de Innovación y Gobierno Digital.- SIGOD
 
-XVI. Coordinación General de Movilidad.- CMOV;
+XVI. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2025)
 
 XVII. Coordinación General Ejecutiva de Gabinete.- CGEG;
 
@@ -1183,7 +1191,9 @@ LXI. Determinar la programación de la inversión para el período del Plan Esta
 
 LXII. Evaluar los resultados obtenidos en la ejecución de los proyectos de inversión;
 
-LXIII. Elaborar, en conjunto con la Coordinación General de Movilidad, el Programa Estatal de Movilidad y los demás instrumentos de planeación aplicables, así como sus actualizaciones; y
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+LXIII. Elaborar, en conjunto con la Agencia de Movilidad del Estado de Aguascalientes, el Programa Estatal de Movilidad y los demás instrumentos de planeación aplicables, así como sus actualizaciones; y
 
 LXIV. Coordinar los trabajos del Gabinete Estratégico de Gestión Urbanística, Ordenamiento Territorial, Registral y Catastral de la Comisión Estatal de Desarrollo Urbano y Ordenamiento Territorial y de los Comités y Subcomités que por alguna disposición legal le sea encomendada su representación;
 
@@ -1575,99 +1585,13 @@ XII. Coordinar y supervisar la Unidad de Firma Electrónica Avanzada a que se re
 
 XIII. Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
 
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
 #### Sección Décimo Sexta. Coordinación General de Movilidad
 
 ###### Artículo 41.
 
-A la Coordinación General de Movilidad le corresponde el despacho de los siguientes asuntos:
-
-I. Coordinar, conducir, vigilar, administrar, aplicar, evaluar y modificar las políticas de movilidad, y coadyuvar en las estrategias relativas a la construcción y mantenimiento de la infraestructura carretera y de la infraestructura y equipamiento vial;
-
-II. Aplicar las medidas necesarias para el cumplimiento de la normatividad en materia de Movilidad en el Estado de Aguascalientes;
-
-III. Fomentar e impulsar la cultura de la movilidad en el marco del respeto a los derechos humanos;
-
-IV. Promover la investigación, capacitación y modernización en materia de movilidad;
-
-V. Proponer las partidas necesarias para el Presupuesto de Egresos del Estado, para el cumplimiento de los fines establecidos en materia de Movilidad;
-
-VI. Impulsar acciones e inversiones con los sectores sociales y privados, con instituciones académicas, centros de investigación, grupos empresariales y de transportistas, y demás personas interesadas, para el mejoramiento constante del Sistema Estatal de Movilidad;
-
-VII. Promover la coordinación entre las Dependencias y Entidades de la Administración Pública del Estado y los ayuntamientos para la planeación y ejecución de infraestructura y equipamiento en beneficio de peatones, personas con movilidad limitada y ciclistas;
-
-VIII. Proponer a la persona titular del Poder Ejecutivo del Estado, el financiamiento y/o concesionamiento de obras públicas de infraestructura, equipamiento y servicios urbanos en el Estado, en materia de movilidad;
-
-IX. Establecer y promover políticas, planes y acciones tendientes a mejorar la movilidad en las vialidades estatales, así como la regulación en la prestación del servicio de transporte y su adecuado funcionamiento;
-
-X. Promover la modernización del transporte público a través del Sistema Integrado de Transporte Público Multimodal de Aguascalientes;
-
-XI. Promover la educación y difusión de la cultura de la movilidad en todos los niveles educativos, y realizar campañas de educación e información para sensibilizar a la población, a fin de fomentar el uso de los medios de transporte público y alternativos no motorizados;
-
-XII. Integrar los expedientes para la tramitación de los permisos y concesiones que otorgue la persona titular del Poder Ejecutivo del Estado, para la prestación de servicios de autotransporte en las carreteras del Estado y vías de jurisdicción Estatal, y remitirlos al Titular de la Secretaría General de Gobierno en cumplimiento de las disposiciones aplicables;
-
-XIII. Verificar e inspeccionar la operación en el Estado de los servicios de transporte contratados por medio de plataformas tecnológicas, de manera que se garantice el adecuado control, seguridad y calidad en el servicio prestado a través de estos mecanismos;
-
-XIV. Autorizar y modificar el régimen tarifario sujeto a la prestación del servicio público de transporte y establecer la forma e instrumentos de medición de tiempo, distancia y otros factores determinantes en la aplicación de tarifas, así como los mecanismos necesarios para su cobro a los usuarios, de conformidad con las disposiciones jurídicas en la materia;
-
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
-
-XV. Autorizar la transmisión del derecho de explotación de las concesiones ordinarias, de conformidad con los supuestos contemplados en la Ley de Movilidad del Estado de Aguascalientes para el seguimiento correspondiente, ante la persona Titular del Poder Ejecutivo;
-
-XVI. Analizar y, en su caso, autorizar la variación de las condiciones de la concesión o permiso para la prestación del servicio de transporte público;
-
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2023)</small>
-
-XVII. Coadyuvar con la Secretaría de Planeación, Participación y Desarrollo, en la expedición de las normas administrativas a que debe sujetarse la prestación de los servicios d e (sic) transporte;
-
-XVIII. Ejecutar los acuerdos de la persona titular del Poder Ejecutivo del Estado en materia de movilidad;
-
-XIX. Fungir, cuando se vea afectada la prestación del servicio, como instancia conciliadora en las controversias que surjan entre los concesionarios y permisionarios del servicio público y entre estos, otras autoridades o los usuarios;
-
-XX. Diseñar, planear, coordinar y evaluar las políticas públicas en materia de movilidad, seguridad vial, transporte e infraestructura de movilidad conforme a las disposiciones legales aplicables y los acuerdos que emita la persona titular del Poder Ejecutivo del Estado;
-
-XXI. Suscribir convenios de colaboración con entidades públicas de los tres órdenes de gobierno, instituciones académicas, centros de investigación, entidades privadas y demás órganos para el desarrollo de estudios, programas y proyectos que le permitan lograr los objetivos y premisas planteados en materia de movilidad;
-
-XXII. Proponer a la persona titular del Poder Ejecutivo del Estado, para su consideración y, en su caso, la validación de la participación público-privada de proyectos de prestación de servicios en materia de transporte e infraestructura de la movilidad;
-
-XXIII. Coordinar la elaboración y someter a la aprobación de la persona titular del Poder Ejecutivo del Estado el Programa Estatal de Movilidad;
-
-XXIV. Promover, impulsar y fomentar sistemas de transporte y medios alternos de movilidad que utilicen los avances tecnológicos para reducir emisiones atmosféricas, acústicas y gases de efecto invernadero;
-
-XXV. Determinar las políticas, estrategias y acciones para la organización y el funcionamiento del servicio de transporte de personas y bienes contratados a través de plataformas tecnológicas;
-
-XXVI. Diseñar y establecer los lineamientos, mecanismos y parámetros para la conformación y desarrollo del Sistema Integrado de Transporte Público Multimodal de Aguascalientes;
-
-XXVII. Coadyuvar con la Secretaría de Sustentabilidad, Medio Ambiente y Agua en el diseño y programación de planes, programas y proyectos para la reducción de contaminantes a la atmósfera y acciones de mejora de la calidad del aire;
-
-XXVIII. Promover y fomentar, en coordinación con la Secretaría de Sustentabilidad, Medio Ambiente y Agua, el uso de tecnologías sustentables en las unidades que prestan el servicio de transporte público de personas y bienes;
-
-XXIX. Expedir, en coordinación con la Secretaría General de Gobierno y los ayuntamientos, las normas técnicas y administrativas a que debe sujetarse la prestación de los servicios de transporte;
-
-XXX. Llevar a cabo la revista vehicular para comprobar el cumplimiento de las condiciones establecidas para la concesión del servicio de transporte público y establecer la forma, procedimiento y términos en que éste se desarrollará y remitir los informes correspondientes a la Autoridad que corresponda;
-
-XXXI. Adoptar las medidas necesarias en caso de que se interrumpa o suspenda el servicio de transporte público de personas, o éste no se esté prestando conforme a las disposiciones legales o reglamentarias aplicables, así como en caso fortuito o de fuerza mayor, durante el tiempo que estime necesario;
-
-XXXII. Supervisar la aplicación de las tarifas autorizadas para la prestación del servicio de transporte público, y en su caso aplicar las sanciones correspondientes;
-
-XXXIII. Autorizar, expedir y revocar las cartas de registro necesarias para que una empresa de redes de transporte promueva, administre u opere plataformas tecnológicas;
-
-XXXIV. Expedir, renovar, suspender o cancelar las fichas de identificación por medio de las cuales se autoriza a un operador, y su vehículo, para prestar el servicio de transporte de personas y bienes contratado a través de plataformas tecnológicas;
-
-XXXV. Autorizar, regular y sancionar la publicidad en los vehículos de transporte público en el Estado;
-
-XXXVI. Autorizar las tarjetas de prepago o descuento para los usuarios del transporte público de personas y celebrar los convenios con los sectores social y privado para su implementación.
-
-XXXVII. Prestar y solicitar cooperación a las autoridades de tránsito federal, y coadyuvar con las autoridades judiciales y administrativas del fuero común y federal;
-
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2023)</small>
-
-XXXVIII. Colaborar con la Secretaría de Planeación, Participación y Desarrollo, la Secretaría de Sustentabilidad, Medio Ambiente y Agua, y con los ayuntamientos en la realización de los estudios que se requieran para prevenir el impacto ambiental que pueda tener la ejecución de las obras públicas en materia de movilidad;
-
-XXXIX. Coadyuvar en la elaboración de las normas técnicas y administrativas a que deben sujetarse la construcción y operación de obras, instalaciones y programas para la prestación del servicio de transporte de competencia del Gobierno del Estado;
-
-XL. Recomendar a las autoridades municipales competentes las acciones que en materia de ingeniería vial considere necesarias; y
-
-XLI. Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de instrumentos sin perjuicio de las atribuciones de otras dependencias.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2025)
 
 #### Sección Décimo Séptima. Coordinación General Ejecutiva de Gabinete
 
@@ -2204,3 +2128,99 @@ Las menciones contenidas en otras disposiciones legales, respecto de las depende
 ###### ARTICULO DÉCIMO PRIMERO.
 
 Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE "DECRETO NÚMERO 361.- SE REFORMA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL; SE EXPIDE LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, se Abroga la Ley de Movilidad del Estado de Aguascalientes, publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, mediante el Decreto No. 288, de fecha lunes 30 de abril de 2018, así como todas sus reformas y modificaciones posteriores.
+
+ARTÍCULO TECERO. A partir de la entrada en vigencia del presente Decreto, todas las referencias que se hagan a la Ley de Movilidad del Estado de Aguascalientes, en ordenamientos jurídicos, decretos, reglamentos, acuerdos, convenios y demás disposiciones jurídicas y reglamentarias se entenderán hechas a la Ley de Movilidad y Seguridad Vial del Estado de Aguascalientes.
+
+###### ARTÍCULO CUARTO.
+
+La "Agencia de Movilidad del Estado de Aguascalientes" deberá quedar formalmente instalada y registrada para su operación y funcionamiento en un término no mayor a ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Para los efectos legales a que haya lugar, la Coordinación General de Movilidad será sustituida por la "Agencia de Movilidad del Estado de Aguascalientes" en el cumplimiento de sus obligaciones y el ejercicio de sus atribuciones en su respectiva materia, una vez que se encuentre formalmente instalada y registrada.
+
+###### ARTÍCULO QUINTO.
+
+Para el cumplimiento del presente Decreto, la persona Titular del Poder Ejecutivo del Estado deberá designar a la persona titular de la Dirección General de la Agencia de Movilidad del Estado de Aguascalientes, dentro de los quince días siguientes a la entrada en vigor del presente Decreto.
+
+La persona Titular del Poder Ejecutivo del Estado podrá expedir dicho nombramiento a la persona titular de la Coordinación General de Movilidad, exclusivamente para que lleve a cabo todos los trámites, gestiones y demás procedimientos necesarios para la formalización de la "Agencia de Movilidad del Estado de Aguascalientes" y con la finalidad de que lleve su representación legal.
+
+###### ARTÍCULO SEXTO.
+
+La Junta de Gobierno del Organismo Descentralizado denominado "Agencia de Movilidad del Estado de Aguascalientes", se deberá instalar en un término no mayor a treinta días hábiles a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+La persona titular del Poder Ejecutivo y la Junta de Gobierno de la Agencia de Movilidad del Estado de Aguascalientes, según corresponda, deberán expedir sus normas reglamentarias dentro de los noventa días posteriores a la instalación de dicho Órgano de Gobierno.
+
+Hasta en tanto no entren en vigencia las disposiciones reglamentarias derivadas del presente Decreto, serán aplicables en lo conducente las que hasta ahora se encuentran vigentes, en la medida en que no contravengan las disposiciones de esta Ley.
+
+Los municipios tendrán ciento veinte días posteriores a la entrada en vigor del Reglamento de la presente Ley para realizar las adecuaciones reglamentarias.
+
+###### ARTÍCULO OCTAVO.
+
+La persona titular del Poder Ejecutivo del Estado de Aguascalientes, a través de la Secretaría de Finanzas y de la Secretaría de Administración, según corresponda, y de acuerdo con la suficiencia presupuestal, deberá asignar los recursos necesarios para llevar a cabo los actos requeridos, a fin de que la persona designada pueda realizar los trámites y procedimientos correspondientes a su registro como Organismo Público Descentralizado.
+
+Las Unidades Administrativas de la Coordinación General de Movilidad que se transfieran a la "Agencia de Movilidad del Estado de Aguascalientes" deberán remitir los expedientes, asuntos y procedimientos pendientes a su cargo, para que sean asumidos por dicho Organismo Público Descentralizado, en los términos establecidos por los acuerdos administrativos correspondientes.
+
+Para efectos del presente artículo, la transferencia de los recursos humanos, materiales y financieros se realizará mediante acuerdos administrativos, los cuales establecerán los términos y condiciones bajo los cuales deban efectuarse dichas transferencias, y deberán publicarse dentro de los treinta días posteriores a la entrada de (sic) en vigor del presente Decreto.
+
+Los acuerdos celebrados, así como los compromisos, derechos y procedimientos que se hubieren suscrito, contraído, adquirido o desarrollado, así como las atribuciones que otras leyes les asignen, serán asumidos por la "Agencia de Movilidad del Estado de Aguascalientes", una vez que se encuentre formalmente instalada y registrada.
+
+###### ARTÍCULO NOVENO.
+
+El Ejecutivo del Estado, a través de la SEFI, podrá realizar las adecuaciones y reasignaciones presupuestales, que sean estrictamente indispensables para la implementación de este Decreto, para el ejercicio fiscal 2026.
+
+Los programas aprobados en el Presupuesto de Egresos del Estado de Aguascalientes, para el Ejercicio Fiscal del año 2025, continuarán siendo ejecutados hasta la conclusión por la Coordinación General de Movilidad.
+
+###### ARTÍCULO DÉCIMO.
+
+El Fondo Estatal de Movilidad permanecerá vigente en los términos establecidos en la Ley que se abroga descrita en el artículo segundo transitorio del presente Decreto, hasta en tanto, la "Agencia de Movilidad del Estado de Aguascalientes" entre en funciones formalmente. En caso de que dicho Fondo cuente con recursos disponibles, no ejercidos, no comprometidos ni devengados, la Secretaría de Finanzas deberá transferir el saldo remanente a la cuenta que para tal efecto aperture la "Agencia de Movilidad del Estado de Aguascalientes" y en los términos establecidos en los acuerdos correspondientes.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Para la implementación de la Ley de Movilidad y Seguridad Vial del Estado de Aguascalientes, en materia de ingresos se estará a lo siguiente:
+
+I. Los ingresos previstos en la Ley de Ingresos del Estado de Aguascalientes del Ejercicio Fiscal que se encuentre vigente, serán recaudados a través de la Secretaría de Finanzas, hasta en tanto la Agencia de Movilidad del Estado de Aguascalientes entre formalmente en funciones;
+
+II. Una vez que la "Agencia de Movilidad del Estado de Aguascalientes" inicie operaciones formalmente, los conceptos de ingresos de la Coordinación General de Movilidad (CMOV), establecidos en la Ley de Ingresos del Estado de Aguascalientes del Ejercicio Fiscal que se encuentre vigente, serán recaudados por dicha Agencia y formarán parte de sus ingresos propios; y
+
+III. Las referencias contenidas en la Ley de Ingresos del Estado de Aguascalientes del Ejercicio Fiscal que se encuentre vigente, a la Ley de Movilidad del Estado de Aguascalientes se entenderán hechas a la presente Ley y a sus artículos correlativos, para todos los efectos legales y administrativos aplicables.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Las obligaciones laborales de la Coordinación General de Movilidad, serán asumidas por la "Agencia de Movilidad del Estado de Aguascalientes", respetando los derechos de las personas trabajadoras, en términos de las disposiciones legales aplicables, así como de los acuerdos administrativos que para tal efecto se expidan por parte de la Secretaría de Administración.
+
+Los derechos laborales serán garantizados atendiendo a lo establecido en el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios, Órganos Constitucionales Autónomos y Organismos Descentralizados, en la transferencia institucional que se realice a la Dependencia o Entidad que corresponda.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+La Junta de Gobierno de la Agencia de Movilidad del Estado de Aguascalientes, deberá solicitar a la persona titular del Poder Ejecutivo del Estado, la aprobación y expedición del Programa Estatal de Movilidad, el cual deberá estar actualizado a las disposiciones del presente Decreto, y dejará sin efectos el Programa Estatal de Movilidad vigente.
+
+Así mismo, se deberán llevar a cabo todas aquellas actualizaciones a los distintos instrumentos de planeación y programación.
+
+Para la expedición del Programa Estatal de Movilidad, se deberá llevar a cabo la instalación del Observatorio Ciudadano, en los términos establecidos por el presente Decreto.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Las concesiones otorgadas bajo el imperio de las disposiciones que se derogan, continuarán su vigencia hasta su conclusión en los términos en que fueron otorgadas, de acuerdo con las siguientes reglas:
+
+I. Las obligaciones que esta Ley determina para los concesionarios, permisionarios, titulares de autorizaciones y operadores serán exigibles desde la entrada en vigor de la presente normatividad y su incumplimiento será sancionado en los términos previstos en este Decreto;
+
+II. Las concesiones y permisos otorgadas bajo el imperio de las leyes que se derogan, continuarán surtiendo sus efectos hasta su vencimiento natural; en cuyo caso, una vez ocurrido podrán ser renovadas atendiendo al régimen, vigencia, condiciones y modalidades establecidas en esta Ley para las concesiones ordinarias, siempre que se satisfagan los requisitos previstos; y
+
+III. Los trámites administrativos en materia de concesiones, permisos y autorizaciones que actualmente se encuentren en trámite o pendientes de resolución, seguirán hasta su conclusión apegándose a las formas y procedimientos de los ordenamientos jurídicos que les dieron origen.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Quedan sin efectos todas aquellas disposiciones que se opongan al contenido del presente Decreto.
