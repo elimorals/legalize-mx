@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-conducta-de-la-secretaria-de-las-mujeres-de-la-136290
 country: "mx"
 rank: "codigo"
 publication_date: "2019-05-22"
-last_updated: "2019-05-22"
+last_updated: "2025-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136290&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2019-05-16"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE LAS MUJERES DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL AVISO POR EL CUAL SE DA A CONOCER EL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE LAS MUJERES DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 15 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE LAS MUJERES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE DICIEMBRE DE 2025 (ABROGADO).
 
 Código publicado al Número 96 de la Gaceta Oficial de la Ciudad de México, el miércoles 22 de mayo de 2019.
 
@@ -615,3 +617,15 @@ SECRETARIA DE LAS MUJERES
 (Firma)
 
 MTRA. GABRIELA RODRÍGUEZ RAMÍREZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 15 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "AVISO POR EL CUAL SE DA A CONOCER EL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE LAS MUJERES DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El Código de Conducta de la Secretaría de las Mujeres de la Ciudad de México, entrará en vigor el día siguiente de la publicación del presente Aviso.
+
+TERCERO.- Se abroga el Acuerdo por el que se da a conocer el Código de Conducta de la Secretaría de las Mujeres de la Ciudad de México, publicado en la Gaceta Oficial de la Ciudad de México el 22 de mayo de 2019.
