@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2025-12-08"
+last_updated: "2025-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2025.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1221,19 +1221,9 @@ Se impondrá además de la pena, la pérdida de derechos con respecto a la víct
 
 Cuando la víctima tenga hijos menores de edad que queden en la orfandad, el responsable deberá indemnizar en concepto de reparación del daño a los representantes de los menores con el doble de la indemnización a que alude el artículo 58 del presente Código.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
-Cuando en los hechos no concurran las razones de género previstas en el presente Artículo, al que dolosamente prive de la vida a una mujer por cualquier medio, se le impondrán de 8 a 20 años de prisión y de 25 a 250 días multa, así como el pago total de la reparación de los daños y perjuicios ocasionados. Lo anterior salvo lo previsto en el artículo 107 de este Código, en relación con el delito de homicidio doloso considerado como calificado.
-
-I. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2023)
-
-II. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2023)
-
-III. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2023)
-
-IV. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2023)
-
-> <small>(DEROGADO SÉPTIMO PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+Cuando en los hechos no concurran las razones de género previstas en el presente Artículo, al que dolosamente prive de la vida a una mujer por cualquier medio, se le impondrán de 25 a 35 años de prisión y de 25 a 250 días multa, así como el pago total de la reparación de los daños y perjuicios ocasionados. Lo anterior salvo lo previsto en el artículo 107 de este Código, en relación con el delito de homicidio doloso considerado como calificado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2023)</small>
 
@@ -4630,3 +4620,19 @@ P.O. 8 DE DICIEMBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 – El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 15 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 318.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos penales iniciados con antelación a la entrada en vigor de este Decreto se regirán por las disposiciones vigentes al momento de su inicio.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
