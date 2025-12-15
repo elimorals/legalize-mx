@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-movilidad-del-estado-de-aguascalientes-128215"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-30"
-last_updated: "2025-12-08"
+last_updated: "2025-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "AGU"
 ---
 # LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+NOTA 1: [N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+NOTA 2: [N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 15 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en la Primera Sección al Número 18 del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de abril de 2018.
 
@@ -6818,3 +6820,99 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La Coordinación General de Movilidad (CMOV) contará con un plazo de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones normativas y operativas necesarias para su implementación y difusión entre las personas concesionarias y operadoras del transporte público.
+
+P.O. 15 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 361.- SE REFORMA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL; SE EXPIDE LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, se Abroga la Ley de Movilidad del Estado de Aguascalientes, publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, mediante el Decreto No. 288, de fecha lunes 30 de abril de 2018, así como todas sus reformas y modificaciones posteriores.
+
+ARTÍCULO TECERO (SIC). A partir de la entrada en vigencia del presente Decreto, todas las referencias que se hagan a la Ley de Movilidad del Estado de Aguascalientes, en ordenamientos jurídicos, decretos, reglamentos, acuerdos, convenios y demás disposiciones jurídicas y reglamentarias se entenderán hechas a la Ley de Movilidad y Seguridad Vial del Estado de Aguascalientes.
+
+###### ARTÍCULO CUARTO.
+
+La “Agencia de Movilidad del Estado de Aguascalientes” deberá quedar formalmente instalada y registrada para su operación y funcionamiento en un término no mayor a ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Para los efectos legales a que haya lugar, la Coordinación General de Movilidad será sustituida por la “Agencia de Movilidad del Estado de Aguascalientes” en el cumplimiento de sus obligaciones y el ejercicio de sus atribuciones en su respectiva materia, una vez que se encuentre formalmente instalada y registrada.
+
+###### ARTÍCULO QUINTO.
+
+Para el cumplimiento del presente Decreto, la persona Titular del Poder Ejecutivo del Estado deberá designar a la persona titular de la Dirección General de la Agencia de Movilidad del Estado de Aguascalientes, dentro de los quince días siguientes a la entrada en vigor del presente Decreto.
+
+La persona Titular del Poder Ejecutivo del Estado podrá expedir dicho nombramiento a la persona titular de la Coordinación General de Movilidad, exclusivamente para que lleve a cabo todos los trámites, gestiones y demás procedimientos necesarios para la formalización de la “Agencia de Movilidad del Estado de Aguascalientes” y con la finalidad de que lleve su representación legal.
+
+###### ARTÍCULO SEXTO.
+
+La Junta de Gobierno del Organismo Descentralizado denominado “Agencia de Movilidad del Estado de Aguascalientes”, se deberá instalar en un término no mayor a treinta días hábiles a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+La persona titular del Poder Ejecutivo y la Junta de Gobierno de la Agencia de Movilidad del Estado de Aguascalientes, según corresponda, deberán expedir sus normas reglamentarias dentro de los noventa días posteriores a la instalación de dicho Órgano de Gobierno.
+
+Hasta en tanto no entren en vigencia las disposiciones reglamentarias derivadas del presente Decreto, serán aplicables en lo conducente las que hasta ahora se encuentran vigentes, en la medida en que no contravengan las disposiciones de esta Ley.
+
+Los municipios tendrán ciento veinte días posteriores a la entrada en vigor del Reglamento de la presente Ley para realizar las adecuaciones reglamentarias.
+
+###### ARTÍCULO OCTAVO.
+
+La persona titular del Poder Ejecutivo del Estado de Aguascalientes, a través de la Secretaría de Finanzas y de la Secretaría de Administración, según corresponda, y de acuerdo con la suficiencia presupuestal, deberá asignar los recursos necesarios para llevar a cabo los actos requeridos, a fin de que la persona designada pueda realizar los trámites y procedimientos correspondientes a su registro como Organismo Público Descentralizado.
+
+Las Unidades Administrativas de la Coordinación General de Movilidad que se transfieran a la “Agencia de Movilidad del Estado de Aguascalientes” deberán remitir los expedientes, asuntos y procedimientos pendientes a su cargo, para que sean asumidos por dicho Organismo Público Descentralizado, en los términos establecidos por los acuerdos administrativos correspondientes.
+
+Para efectos del presente artículo, la transferencia de los recursos humanos, materiales y financieros se realizará mediante acuerdos administrativos, los cuales establecerán los términos y condiciones bajo los cuales deban efectuarse dichas transferencias, y deberán publicarse dentro de los treinta días posteriores a la entrada de (sic) en vigor del presente Decreto.
+
+Los acuerdos celebrados, así como los compromisos, derechos y procedimientos que se hubieren suscrito, contraído, adquirido o desarrollado, así como las atribuciones que otras leyes les asignen, serán asumidos por la “Agencia de Movilidad del Estado de Aguascalientes”, una vez que se encuentre formalmente instalada y registrada.
+
+###### ARTÍCULO NOVENO.
+
+El Ejecutivo del Estado, a través de la SEFI, podrá realizar las adecuaciones y reasignaciones presupuestales, que sean estrictamente indispensables para la implementación de este Decreto, para el ejercicio fiscal 2026.
+
+Los programas aprobados en el Presupuesto de Egresos del Estado de Aguascalientes, para el Ejercicio Fiscal del año 2025, continuarán siendo ejecutados hasta la conclusión por la Coordinación General de Movilidad.
+
+###### ARTÍCULO DÉCIMO.
+
+El Fondo Estatal de Movilidad permanecerá vigente en los términos establecidos en la Ley que se abroga descrita en el artículo segundo transitorio del presente Decreto, hasta en tanto, la “Agencia de Movilidad del Estado de Aguascalientes” entre en funciones formalmente. En caso de que dicho Fondo cuente con recursos disponibles, no ejercidos, no comprometidos ni devengados, la Secretaría de Finanzas deberá transferir el saldo remanente a la cuenta que para tal efecto aperture la “Agencia de Movilidad del Estado de Aguascalientes” y en los términos establecidos en los acuerdos correspondientes.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Para la implementación de la Ley de Movilidad y Seguridad Vial del Estado de Aguascalientes, en materia de ingresos se estará a lo siguiente:
+
+I. Los ingresos previstos en la Ley de Ingresos del Estado de Aguascalientes del Ejercicio Fiscal que se encuentre vigente, serán recaudados a través de la Secretaría de Finanzas, hasta en tanto la Agencia de Movilidad del Estado de Aguascalientes entre formalmente en funciones;
+
+II. Una vez que la “Agencia de Movilidad del Estado de Aguascalientes” inicie operaciones formalmente, los conceptos de ingresos de la Coordinación General de Movilidad (CMOV), establecidos en la Ley de Ingresos del Estado de Aguascalientes del Ejercicio Fiscal que se encuentre vigente, serán recaudados por dicha Agencia y formarán parte de sus ingresos propios; y
+
+III. Las referencias contenidas en la Ley de Ingresos del Estado de Aguascalientes del Ejercicio Fiscal que se encuentre vigente, a la Ley de Movilidad del Estado de Aguascalientes se entenderán hechas a la presente Ley y a sus artículos correlativos, para todos los efectos legales y administrativos aplicables.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Las obligaciones laborales de la Coordinación General de Movilidad, serán asumidas por la “Agencia de Movilidad del Estado de Aguascalientes”, respetando los derechos de las personas trabajadoras, en términos de las disposiciones legales aplicables, así como de los acuerdos administrativos que para tal efecto se expidan por parte de la Secretaría de Administración.
+
+Los derechos laborales serán garantizados atendiendo a lo establecido en el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios, Órganos Constitucionales Autónomos y Organismos Descentralizados, en la transferencia institucional que se realice a la Dependencia o Entidad que corresponda.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+La Junta de Gobierno de la Agencia de Movilidad del Estado de Aguascalientes, deberá solicitar a la persona titular del Poder Ejecutivo del Estado, la aprobación y expedición del Programa Estatal de Movilidad, el cual deberá estar actualizado a las disposiciones del presente Decreto, y dejará sin efectos el Programa Estatal de Movilidad vigente.
+
+Así mismo, se deberán llevar a cabo todas aquellas actualizaciones a los distintos instrumentos de planeación y programación.
+
+Para la expedición del Programa Estatal de Movilidad, se deberá llevar a cabo la instalación del Observatorio Ciudadano, en los términos establecidos por el presente Decreto.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Las concesiones otorgadas bajo el imperio de las disposiciones que se derogan, continuarán su vigencia hasta su conclusión en los términos en que fueron otorgadas, de acuerdo con las siguientes reglas:
+
+I. Las obligaciones que esta Ley determina para los concesionarios, permisionarios, titulares de autorizaciones y operadores serán exigibles desde la entrada en vigor de la presente normatividad y su incumplimiento será sancionado en los términos previstos en este Decreto;
+
+II. Las concesiones y permisos otorgadas bajo el imperio de las leyes que se derogan, continuarán surtiendo sus efectos hasta su vencimiento natural; en cuyo caso, una vez ocurrido podrán ser renovadas atendiendo al régimen, vigencia, condiciones y modalidades establecidas en esta Ley para las concesiones ordinarias, siempre que se satisfagan los requisitos previstos; y
+
+III. Los trámites administrativos en materia de concesiones, permisos y autorizaciones que actualmente se encuentren en trámite o pendientes de resolución, seguirán hasta su conclusión apegándose a las formas y procedimientos de los ordenamientos jurídicos que les dieron origen.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Quedan sin efectos todas aquellas disposiciones que se opongan al contenido del presente Decreto.
