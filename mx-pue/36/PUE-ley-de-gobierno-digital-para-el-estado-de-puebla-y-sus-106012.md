@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-gobierno-digital-para-el-estado-de-puebla-y-sus-106012"
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-11"
-last_updated: "2025-11-04"
+last_updated: "2025-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # LEY DE GOBIERNO DIGITAL PARA EL ESTADO DE PUEBLA Y SUS MUNICIPIOS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL DECRETO ÚNICO QUE REFORMA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PUBLICA DEL ESTADO DE PUEBLA, PUBLICADO EL 15 DE DICIEMBRE DE 2025, LA PRESENTE LEY HA SIDO ABROGADA.]</small>
 
 LEY DE GOBIERNO DIGITAL PARA EL ESTADO DE PUEBLA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 11 de febrero de 2015.
 
@@ -746,3 +746,25 @@ P.O. 4 DE NOVIEMBRE DE 2025.
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
 
 SEGUNDO. Se deroga toda disposición legal y reglamentaria que se oponga al presente Decreto.
+
+P.O. 15 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PUBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se abroga la Ley de Mejora Regulatoria y Buena Administración para el Estado de Puebla publicada en el Periódico Oficial del Estado el veinte de noviembre de dos mil veinte.
+
+TERCERO. Se abroga la Ley de Gobierno Digital para el Estado de Puebla y sus Municipios publicada en el Periódico Oficial del Estado el once de febrero de dos mil quince.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+QUINTO. La Persona Titular de la Gubernatura, dentro de los ciento veinte días naturales a partir de la entrada en vigor de este Decreto, expedirá las reformas al Reglamento Interior de la Secretaría Anticorrupción y Buen Gobierno, así como del Reglamento Interior de la Secretaría de Ciencia, Humanidades, Tecnología e Innovación, en términos del presente Decreto.
+
+SEXTO. En tanto se expidan los manuales administrativos, la Persona Titular de la Autoridad Local de Simplificación y Digitalización está facultada para resolver las cuestiones de procedimiento y operación que se originen por la aplicación de este ordenamiento legal, para fines de orden administrativo.
+
+SÉPTIMO. En un plazo no mayor a treinta días naturales, contados a partir de la entrada en vigor del presente Decreto, las Personas Titulares de los Sujetos Obligados Estatales y Municipales deberán designar a sus respectivos Enlaces de Simplificación y Digitalización.
+
+La designación correspondiente deberá ser notificada a la Agencia de Transformación Digital y Telecomunicaciones, y a la Autoridad Local de Simplificación y Digitalización.
+
+OCTAVO. En un plazo no mayor a treinta días naturales, contados a partir de la entrada en vigor del presente Decreto, las Personas Titulares de los Sujetos Obligados Estatales o Municipales deberán informar a la Agencia de Transformación Digital y Telecomunicaciones todas las soluciones tecnológicas que hayan sido desarrolladas directamente o a través de terceros, para que estas se integren en el Repositorio Nacional de Tecnología Pública en los términos y plazos que defina la Agencia de Transformación Digital y Telecomunicaciones.
