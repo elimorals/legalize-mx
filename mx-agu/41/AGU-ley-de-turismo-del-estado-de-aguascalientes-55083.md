@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-turismo-del-estado-de-aguascalientes-55083"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-16"
-last_updated: "2025-05-05"
+last_updated: "2025-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE TURISMO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de abril de 2007.
 
@@ -721,11 +721,11 @@ Los prestadores y operadores de servicios turísticos de naturaleza o alternativ
 
 ### CAPITULO VII. Del Turismo Social
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 44.
 
-El turismo social comprende todos aquellos instrumentos y medios, a través de los cuales se otorgan facilidades con equidad, para que las personas viajen con fines recreativos, deportivos y/o culturales en condiciones adecuadas de economía, accesibilidad, seguridad y comodidad.
+El turismo social comprende todos aquellos programas o acciones que instrumente la Secretaría a través de los cuales se facilite la participación en el turismo de los grupos de personas en situación de pobreza extrema, trabajadoras, niñas, niños y adolescentes, jóvenes, estudiantes, personas adultas mayores, mujeres en situación de violencia o madres jefas de familia y otros que, por razones físicas, económicas, sociales o culturales, tienen acceso limitado a disfrutar del patrimonio y los servicios turísticos.
 
 ###### Artículo 45.
 
@@ -1224,3 +1224,11 @@ P.O. 5 DE MAYO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 15 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 315.- SE REFORMA LA LEY DE TURISMO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
