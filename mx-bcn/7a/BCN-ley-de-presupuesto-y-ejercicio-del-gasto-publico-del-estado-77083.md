@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-presupuesto-y-ejercicio-del-gasto-publico-del-estado-770
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-22"
-last_updated: "2024-11-04"
+last_updated: "2025-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,641 +21,857 @@ state: "BCN"
 ---
 # LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PUBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO CUARTO DEL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL ESTADO DE TLAXCALA, PUBLICADO EN EL P.O. DE 2 DE JULIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 15 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LA COMISIÓN ESTATAL DE SEGURIDAD DEL ESTADO DE TLAXCALA
+LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2025 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2025 (ABROGADO).
 
-Código publicado en Tercera Sección del Periódico Oficial del Estado de Tlaxcala, el miércoles 10 de abril de 2019.
+Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 22 de octubre de 2010.
 
-Maestro Eduardo Valiente Hernández, Comisionado Estatal de Seguridad, en uso de las facultades que me confieren los artículos 21 de la Constitución Política de los Estados Unidos Mexicanos; 78 párrafo primero de la Constitución Política del Estado Libre y Soberano de Tlaxcala; 17 fracción XXVI, 24 fracción XV de la Ley de Seguridad Pública del Estado de Tlaxcala y sus Municipios; 3 del Reglamento Interior de la Comisión Estatal de Seguridad de Tlaxcala, publicado con fecha 19 de octubre de 2016, en el Tomo XCV, Segunda Época, número 42 Segunda Sección, en el Periódico Oficial del Gobierno del Estado de Tlaxcala, y
+JOSÉ GUADALUPE OSUNA MILLÁN, GOBERNADOR DEL ESTADO DE BAJA CALIFORNIA, ANUNCIO QUE EL CONGRESO DEL ESTADO HA DIRIGIDO AL SUSCRITO PARA SU PUBLICACIÓN, EL DECRETO NÚMERO 421, CUYO TEXTO ES EL SIGUIENTE:
 
-CONSIDERANDO
+LA H. XIX LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 27, FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA LOCAL, EXPIDE EL SIGUIENTE:
 
-Que el Plan Estatal de Desarrollo 2017-2021, establece que, es preciso que el poder ejecutivo, y las instituciones que lo componen, realicen cabal, eficiente y eficazmente sus funciones, garantizando que las actividades y operaciones sean estables, confiables y eficientes.
+DECRETO N° 421
 
-Que para recuperar el respeto y la credibilidad en la policía, frente a la ciudadanía es necesario contar con esquemas institucionales que permitan mantener la honestidad de sus elementos, investigar y sancionar prácticas o conductas que se encuentren fuera de la legalidad.
+UNICO.- Se expide la LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PUBLICO DEL ESTADO DE BAJA CALIFORNIA, para quedar como sigue:
 
-Que la conducta exigida de manera rigurosa a los servidores públicos, miembros de la Comisión Estatal de Seguridad, está orientada al logro del cumplimiento del deber, sujeto a los valores institucionales que rigen el servicio público, para que, en la actuación de los servidores públicos, impere invariablemente una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño propiciando una plena vocación de servicio público en beneficio de la colectividad.
-
-Que en la Comisión Estatal de Seguridad, se hace necesario prevenir que los servidores públicos incurran en contravención a los principios de actuación, debiendo disponer la adopción de un conjunto de preceptos morales, que tiendan a la evaluación de la tarea policial, en procura del reconocimiento a la formación y profesionalización que debe caracterizar a los miembros de la Comisión Estatal de Seguridad ante la ciudadanía.
-
-Que al asumir su cargo, el servidor público manifiesta su compromiso y vocación para atender los asuntos que interesan y afectan a la sociedad, adquiriendo al mismo tiempo una responsabilidad por sus actos que se refleja en la satisfacción de las necesidades colectivas. El servicio público implica responsabilidades que derivan de las funciones inherentes al cargo que se desempeña.
-
-En tal virtud, he tenido a bien expedir el siguiente:
-
-CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LA COMISIÓN ESTATAL DE SEGURIDAD
+LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-###### Artículo 1.
+###### ARTÍCULO 1.
 
-Se crea el Código de Ética de la Comisión Estatal de Seguridad, que constituye el conjunto de principios morales que normarán el correcto comportamiento del personal policial, de custodia y administrativo, adscritos a la Institución, para obtener de estos la realización de sus funciones, con apego a los valores institucionales y los patrones de honorabilidad, lealtad, legalidad y disciplina, inherentes a su condición de servidores públicos encargados de hacer cumplir la ley, en servicio a la sociedad.
+La presente Ley tiene por objeto normar y regular los presupuestos de ingresos y egresos, así como el ejercicio, evaluación, vigilancia y verificación del gasto público.
 
-###### Artículo 2.
+Son sujetos de esta Ley:
 
-El Código de Ética Policial, establece un marco normativo deontológico, que constituye el elemento básico que orienta la conducta de los miembros de la Comisión Estatal de Seguridad de Tlaxcala, ante la sociedad, resaltando los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicano (sic) y demás normatividad aplicable.
+I. El Poder Ejecutivo;
 
-###### Artículo 3.
+II. El Poder Legislativo;
 
-Los objetivos del Código de Ética son:
+III. El Poder Judicial;
 
-a) Definir y robustecer los valores éticos y morales formulados en la doctrina policial;
+IV. Los Municipios del Estado; y,
 
-b) Fortalecer la autoridad y la conducta individual de los integrantes de la Comisión Estatal de Seguridad de Tlaxcala;
+V. Los Órganos Autónomos.
 
-c) Legitimar ante la sociedad, el actuar de los servidores públicos policiales, a través de la proyección de una imagen positiva, procurando elevar el prestigio de la Institución policial en el seno de la sociedad;
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 7 DE MAYO DE 2021)</small>
 
-d) Prevenir las actividades que puedan constituir corrupción por parte de algún servidor y/o funcionario público, y;
+###### ARTÍCULO 2.
 
-e) Dar a conocer a los miembros de la Comisión Estatal de Seguridad el presente Código de Ética, como la disciplina que condiciona sus acciones en la relación que deben observar y los fines que determinan su rectitud; desarrollando una conducta ideal en ellos.
+La aplicación de la presente Ley corresponde:
 
-###### Artículo 4.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2021)</small>
 
-El personal adscrito a la Comisión Estatal de Seguridad, en cumplimiento de los principios éticos de toda profesión, tiene el deber de la autodisciplina en consonancia con las normas y preceptos establecidos en la misma, ya que los actos de cada uno de ellos estarán sometidos al escrutinio de la sociedad.
+I. En el Poder Ejecutivo: a la Secretaría de Hacienda y a la Secretaría de la Honestidad y la Función Pública, en sus respectivos ámbitos de competencia;
 
-###### Artículo 5.
+I. En el Poder Ejecutivo: al Gobernador del Estado, a través de la Oficialía Mayor de Gobierno, la Dirección de Control y Evaluación Gubernamental y la Secretaría de Planeación y Finanzas, en sus respectivos ámbitos de competencia;
 
-Este Código establece los principios rectores del accionar de los servidores y/o funcionarios públicos, dirigidos a garantizar la ejecución de procedimientos imparciales ante las actividades operativas y/o administrativas que se desarrollen al interior de la institución.
+II. En los Poderes Legislativo y Judicial, así como en los Órganos Autónomos: A sus respectivos Titulares, a través de las Unidades Administrativas equivalentes a las mencionadas en la fracción anterior, en sus respectivos ámbitos de competencia; y
 
-###### Artículo 6.
+III. En los Municipios: a los Ayuntamientos, por conducto de los Presidentes Municipales a través de la Oficialía Mayor, la Tesorería Municipal y la Sindicatura Municipal, en sus respectivos ámbitos de competencia.
 
-Los integrantes de la Comisión Estatal de Seguridad, deben ejercer su función de manera integral, honorable, decorosa, comedida y coherente, de conformidad con lo establecido en la Constitución, las leyes, los reglamentos institucionales y el presente Código.
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 4 DE NOVIEMBRE DE 2024)</small>
 
-El sentimiento del honor es la fuerza anímica que deberá impulsar a todo servidor público operativo y/o administrativo, al fiel cumplimiento del deber. La inobservancia del honor daña el prestigio institucional.
+###### ARTÍCULO 3.
 
-###### Artículo 7.
+Para los efectos de esta Ley, salvo mención expresa, se entenderá por:
 
-Este Código promueve la prevención y la lucha contra la corrupción en cualquier nivel de la organización jerárquica institucional; estimula la formación de los servidores públicos como base para la excelencia en el desarrollo de sus funciones; por lo tanto, todo miembro deberá actuar conforme a lo aquí establecido y se compromete a conducirse de manera justa, imparcial y sin discriminación; y para el caso de asuntos netamente operativos, interferir en la vida privada de los ciudadanos sólo en caso de estricta necesidad.
+I. Administración Pública Centralizada: las Dependencias adscritas a las oficinas del Ejecutivo del Estado y a los Presidentes Municipales en el Poder Ejecutivo y en los Municipios, respectivamente;
 
-Todo integrante de la Comisión Estatal de Seguridad, al recibir como retribución un salario, tiene la obligación estricta de poner toda su voluntad y esfuerzo al servicio de la sociedad.
+II. Ayuntamiento: El Órgano de Gobierno del Municipio de conformidad con la Ley del Régimen Municipal para el Estado de Baja California;
 
-Para los fines de este Código, la definición del término “corrupción” no se limita a su tipificación en el derecho penal, sino que debe entenderse como la comisión u omisión de un acto, por parte del servidor público operativo y/o administrativo, a cambio de dádivas, promesas o estímulos ilegítimos, exigidos o aceptados, una vez realizado u omitido el acto.
+III. Cabildo: la función colegiada del Ayuntamiento en sesiones realizadas para la adopción de resoluciones de conformidad con la Ley del Régimen Municipal para el Estado de Baja California y la reglamentación interior del Ayuntamiento;
 
-Los integrantes de la Comisión Estatal de Seguridad, como servidores públicos, en el desempeño de sus funciones, no deberán incurrir o consentir actos de corrupción, oponiéndose rigurosamente a todas las acciones de esa naturaleza, además de que las combatirán.
+IV. CONAC: Al Consejo Nacional de Armonización Contable;
 
-###### Artículo 8.
+V. Consejo: El Consejo Estatal para la Armonización Contable en Baja California;
 
-Los principios establecidos en el presente Código deberán ser observados y cumplidos en igualdad de condiciones tanto por el hombre y la mujer que prestan sus servicios a la Institución, sin discriminación o distinción alguna.
+VI. Dependencias: Cada una de las unidades administrativas que conforman las estructuras de organización de la Administración Pública Centralizada del Poder Ejecutivo del Estado y de los Municipios, respectivamente;
 
-###### Artículo 9.
+VII. Días: Se entenderá que son días naturales, salvo que se señale expresamente que se trata de días hábiles;
 
-Se establece que al nombrarse los términos, Comisario General, Comisario Jefe, Comisario, Inspector General, Inspector Jefe, Inspector, Subinspector, Oficial, Suboficial, Policía Primero, Policía Segundo, Policía Tercero y Policía, se hace referencia al personal masculino y femenino de la Comisión Estatal de Seguridad de Tlaxcala, que forma parte de la Carrera Policial, en relación con el artículo 40 de la Ley de Seguridad Pública del Estado de Tlaxcala y sus Municipios.
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+VIII. Ejecutivo del Estado: Persona Titular del Poder Ejecutivo en su calidad de Gobernadora o Gobernador del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+VIII BIS. Entes Públicos: Los Poderes del Estado, los Municipios del Estado, Entidades Paraestatales, Entidades Paramunicipales y los Órganos Autónomos;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+IX. Entidades: Las Entidades Paraestatales y Paramunicipales constituidas con tal carácter en la Ley Orgánica del Poder Ejecutivo del Estado de Baja California, la Ley de las Entidades Paraestatales del Estado de Baja California y en la Ley del Régimen Municipal para el Estado de Baja California, respectivamente;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+X. Entidades Paraestatales: Los Organismos Descentralizados, Empresas de Participación Estatal y Fideicomisos constituidos de conformidad con la Ley Orgánica del Poder Ejecutivo del Estado de Baja California y la Ley de las Entidades Paraestatales del Estado de Baja California;
+
+XI. Entidades Paramunicipales: Los Organismos Descentralizados, las Empresas de Participación Municipal y Fideicomisos constituidos de conformidad con la Ley del Régimen Municipal para el Estado de Baja California;
+
+XII. Ley: A la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California;
+
+XIII. Ley General de Contabilidad: A la Ley General de Contabilidad Gubernamental;
+
+XIV. Municipio: El Ayuntamiento, la Administración Pública Municipal Centralizada y las Entidades Paramunicipales en su conjunto;
+
+XV. Órganos Autónomos: los organismos públicos autónomos creados con ese carácter, dotados de autonomía técnica y de gestión por mandato constitucional o legal para decidir sobre su organización interna, recursos, funcionamiento y resoluciones;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2023)</small>
+
+XVI. Órganos de Control: La Secretaría de la Honestidad y la Función Pública, las Sindicaturas Municipales, las Contralorías Internas o Unidades Administrativas equivalentes de los sujetos de esta Ley;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2023)</small>
+
+XVII. Perspectiva de Género: Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2023)</small>
+
+XVII BIS. Igualdad de Género: Situación en la cual mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+XVIII. Poder Ejecutivo: La Administración Pública Centralizada y las Entidades Paraestatales, en su conjunto;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+XIX. Presupuesto Ciudadano: Es el desglose explicativo e ilustrado del origen, distribución, aplicación y objetivo de los recursos públicos aprobados y asignados en los presupuestos de egresos anuales de los sujetos obligados en el artículo 1 de esta ley;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+XX. Titular: Quienes tienen la máxima representación legal de los Poderes Ejecutivo, Legislativo y Judicial, de los Municipios, de las Entidades de la Administración Pública Paraestatal y Paramunicipal y de los Órganos Autónomos; en su caso, los Secretarios o Directores de Dependencias; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2014)</small>
+
+XXI. Unidad Administrativa: Cada una de las áreas operativas que conforman la estructura orgánica de los sujetos de esta Ley a la que se le confieren atribuciones y responsabilidades específicas en sus respectivos ámbitos de competencia, de conformidad con las Leyes y Reglamentos aplicables.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 4.
+
+Con el propósito de optimizar los recursos presupuestales que les sean asignados, los sujetos de esta Ley deberán planear, programar, presupuestar, controlar, evaluar y vigilar sus actividades con apego a los principios de eficiencia, eficacia, economía, perspectiva de equidad de género, transparencia y honradez para satisfacer los objetivos a los que están destinados.
+
+###### ARTÍCULO 5.
+
+La programación, presupuestación y ejercicio del gasto público de las Dependencias y Entidades Paraestatales y Paramunicipales se basará en las directrices, lineamientos y políticas que establezcan los Planes Estatal y Municipal de Desarrollo, según corresponda, y en los programas que de éstos se deriven, los cuales deberán ser congruentes con los sistemas administrativos y de control de gasto, así como con los sistemas de contabilidad gubernamental de conformidad con lo establecido en la presente Ley, la Ley General de Contabilidad, la normatividad que emita el CONAC, y demás disposiciones aplicables en la materia.
+
+Los Poderes Legislativo y Judicial, así como los Órganos Autónomos, en el ámbito de sus respectivas competencias, establecerán los lineamientos que se requieran de conformidad con lo previsto en el párrafo anterior.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2021)</small>
+
+###### ARTÍCULO 6.
+
+El Ejecutivo del Estado, a través de la Secretaría de Hacienda y los Presidentes Municipales, a través de las Tesorerías Municipales, coordinarán conforme lo establece la presente Ley, las actividades de programación, presupuestación, control, seguimiento y evaluación del gasto público, dentro de sus respectivos ámbitos de competencia.
+
+Los Poderes Legislativo y Judicial, así como los Órganos Autónomos, realizarán lo previsto en el párrafo anterior a través de sus respectivas Unidades Administrativas equivalentes.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 7.
+
+Las Dependencias del Ejecutivo del Estado y de los Municipios orientarán y coordinarán la planeación, programación, presupuestación, control y evaluación del gasto de las Entidades Paraestatales o Paramunicipales que estén agrupadas en su sector, conforme a la perspectiva de equidad de género y al acuerdo respectivo que dicten el Ejecutivo del Estado y los Ayuntamientos, con base en las políticas y programas sectoriales, institucionales y especiales derivados de los Planes Estatal y Municipales de Desarrollo, respectivamente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE MAYO DE 2021)</small>
+
+La Secretaría de Hacienda y las Tesorerías Municipales, en sus respectivos ámbitos de competencia, verificarán que los proyectos de presupuestos de las Entidades sean presentados en los términos de esta Ley y que hayan sido aprobados por sus respectivos Órganos de Gobierno y por las Dependencias Coordinadoras de Sector a la que, en su caso, correspondan.
+
+###### ARTÍCULO 8.
+
+Los Sujetos de esta Ley, generarán de manera periódica en la medida que corresponda, los estados y la información presupuestal y programática de conformidad con lo establecido en la presente Ley, la Ley General de Contabilidad, así como en la normatividad que emita el CONAC.
+
+Asimismo, las Dependencias y Entidades, así como las Unidades Administrativas de los Poderes Legislativo y Judicial y de los Órganos Autónomos, a efecto de ejercer las funciones previstas en esta Ley, deberán proporcionar a través de sus Titulares la información que les sea requerida:
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2021)</small>
+
+I.-En (sic) el Poder Ejecutivo: Por la Secretaría de Hacienda y la Secretaría de la Honestidad y Función Pública;
+
+II. En los Municipios: Por la Oficialía Mayor, la Tesorería Municipal y a la Sindicatura Municipal; y,
+
+III. En los Poderes Legislativo y Judicial, así como en los Órganos Autónomos: por sus respectivas Unidades Administrativas equivalentes.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
+
+###### ARTÍCULO 9.
+
+Es facultad de la Secretaría de Hacienda y las Tesorerías Municipales formular la Cuenta Pública Anual de la Hacienda Estatal y Municipal, así como integrar la información o consolidar los estados financieros que emanen de las Entidades paraestatales o paramunicipales incluidas en los Presupuestos de Egresos de conformidad con el Artículo 26 de esta Ley, para someterla a consideración del Ejecutivo del Estado y de los Ayuntamientos respectivamente, para su presentación al Congreso del Estado en los términos y de acuerdo a las leyes vigentes respectivas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+Los fideicomisos públicos que no cuenten con estructura administrativa, se constituirán, organizarán y funcionarán, de conformidad con las disposiciones aplicables. La dependencia o entidad con cargo a cuyo presupuesto se hayan otorgado los recursos o que coordine su operación, será responsable de reportar en los informes trimestrales y la Cuenta Pública un reporte del cumplimiento de la misión y fines de los fideicomisos, así como de los recursos ejercidos para el efecto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE NOVIEMBRE DE 2024)</small>
+
+Al extinguir los fideicomisos, las dependencias y entidades deberán enterar los recursos públicos remanentes a la Secretaría de Hacienda, Tesorerías Municipales o Unidades Administrativas equivalentes en los demás sujetos de esta Ley, en términos de las disposiciones aplicables.
+
+Para el cumplimiento de lo anterior, la Secretaría de Hacienda y las Tesorerías Municipales, dictarán las disposiciones administrativas que procedan.
+
+Así mismo, serán responsables la Secretaría de Hacienda en el Poder Ejecutivo, las Tesorerías Municipales en los Municipios, y las Unidades Administrativas equivalentes en los demás sujetos de esta Ley, de la solventación de las observaciones sobre la Cuenta Pública anual que finque el Congreso del Estado por conducto de la Auditoria Superior del Estado.
 
 ## TÍTULO SEGUNDO. DE LOS INGRESOS
 
-### CAPÍTULO I. NORMAS GENERALES
+### CAPÍTULO PRIMERO
 
-###### Artículo 10.
+De los Presupuestos de Ingresos.
 
-Los superiores jerárquicos de la Comisión Estatal de Seguridad de Tlaxcala, deberán ser para sus subordinados, modelos de los más altos niveles de comportamiento y decoro, conforme a las normas establecidas en el presente Código de Ética.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
 
-###### Artículo 11.
+###### ARTÍCULO 10.
 
-El desempeño de las funciones de los integrantes de la Comisión Estatal de Seguridad, se realizará observando los principios rectores establecidos en el presente Código, que constituyen los valores sobre los que se cimienta la carrera policial.
+Todas las Dependencias y Entidades que de sus actividades generen ingresos por conceptos de los previstos en la legislación hacendaria estatal o municipal, deberán coordinarse con la Secretaría de Hacienda y con las Tesorerías Municipales, según corresponda, para que se incorporen en la Iniciativa de Ley de Ingresos respectiva.
 
-### CAPÍTULO II. DE LOS FUNDAMENTOS DEL CÓDIGO DE ÉTICA POLICIAL
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2021)</small>
 
-###### Artículo 12.
+###### ARTÍCULO 11.
 
-La carrera policial exige patriotismo, clara concepción del cumplimiento del deber, inmaculado espíritu de sacrificio, firmeza de carácter, sentido de la responsabilidad, disciplina, veracidad, honradez, transparencia, pulcritud, valentía, obediencia, subordinación, compañerismo, preocupación por cultivar y desarrollar el más alto grado de virtudes y deberes, constituyendo un conjunto de principios que se denominan valores institucionales.
+Los Presupuestos de Ingresos de los sujetos de la presente Ley deberán incluir, en su caso, las expectativas de recaudación de impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos, deuda pública autorizada, recepción de subsidios, participaciones y de los demás ingresos provenientes del cumplimiento de su objeto legal. La Secretaría de Hacienda en el Poder Ejecutivo, las Tesorerías Municipales en los Municipios, y las Unidades Administrativas equivalentes en los demás sujetos de esta Ley, establecerán lo conducente para su oportuna y debida formulación.
 
-Las virtudes policiales del valor, lealtad, rectitud y decoro, colocan a los agentes policiales en condiciones de estimación dentro de la Institución y la sociedad a que se deben y pertenecen.
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 7 DE MAYO DE 2021)</small>
 
-###### Artículo 13.
+Los Presupuestos de Ingresos deberán ser presentados:
 
-El respeto mutuo entre superiores, iguales y subalternos es obligatorio para todo el personal de la Comisión Estatal de Seguridad de Tlaxcala, cualquiera que sea la adscripción a la cual pertenezcan, el lugar donde se encuentren, estén o no de servicio y si portan o no el uniforme. La confianza y solidaridad deben caracterizar a las personas que están bajo un régimen disciplinario.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE MAYO DE 2021)</small>
 
-###### Artículo 14.
+I. Al Ejecutivo del Estado, por conducto de la Secretaría de Hacienda:
 
-La verdad debe ser regla inviolable en el agente policial y será practicada en todos sus actos. El lenguaje respetuoso, franco, claro, llano, ya sea hablado o escrito, será la forma utilizada por los integrantes de la Comisión Estatal de Seguridad de Tlaxcala. La gravedad de las faltas contra la verdad, aumenta en relación con el perjuicio que se cause en el desempeño del servicio o a las actividades y con el grado y cargo de quien las cometa. La palabra del servidor público debe ser siempre expresión auténtica de la verdad.
+a) Los correspondientes a la Administración Pública Centralizada del Poder Ejecutivo y a las Entidades Paraestatales que reciban ingresos por conceptos de los previstos en la Ley de Ingresos del Estado, para ser enviados al Congreso del Estado conjuntamente con la Iniciativa de Ley de Ingresos del ejercicio fiscal de que se trate.
 
-###### Artículo 15.
+b) Los correspondientes a las demás Entidades Paraestatales que no recauden contribuciones y cuyos ingresos provienen de subsidios y de actividades realizadas en cumplimiento de su objeto legal, para ser enviados al Congreso del Estado conjuntamente con sus respectivos Presupuestos de Egresos.
 
-Corresponde al servidor público policial, cualquiera que sea su jerarquía, asumir con diligencia su compromiso institucional en relación al cargo que desempeña, en situaciones imprevistas tomar las acciones que correspondan a cada caso, siempre preservando la dignidad y el honor.
+II. A los Ayuntamientos, a través de las Tesorerías Municipales:
 
-### CAPÍTULO III. DE LOS CONCEPTOS Y DEFINICIONES DEL PRESENTE CÓDIGO
+a) Los correspondientes a la Administración Pública Centralizada de los Municipios y a las Entidades Paramunicipales que reciban ingresos por conceptos de los previstos en la Ley de Ingresos del Municipio de que se trate, para ser enviados al Congreso del Estado conjuntamente con la Iniciativa de Ley de Ingresos del ejercicio fiscal de que se trate.
 
-###### Artículo 16.
+b) Los correspondientes a las demás Entidades Paramunicipales que no recaudan contribuciones y cuyos ingresos provienen de subsidios y de actividades realizadas en cumplimiento de su objeto legal, para ser enviados al Congreso del Estado conjuntamente con sus respectivos Presupuestos de Egresos.
 
-La buena reputación de la que pueda gozar todo integrante de la Comisión Estatal de Seguridad, será obtenida mediante el exacto cumplimiento de sus deberes, la demostración de interés por el servicio y el ofrecimiento para ser requerido en las situaciones de mayor responsabilidad, ya que da a conocer con ello, sus condiciones de preparación, lealtad, valor y constancia.
+III. Al Congreso del Estado: los correspondientes al Poder Judicial y los Órganos Autónomos, por conducto de sus Titulares, los que enviarán conjuntamente con su proyecto de Presupuesto de Egresos del Ejercicio de que se trate.
 
-###### Artículo 17.
+IV. Tratándose del Poder Legislativo, se estará a lo dispuesto en su respectiva Ley Orgánica.
 
-La negligencia, displicencia, apatía y el desinterés en el cumplimiento de las obligaciones indican carencia de los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+### CAPÍTULO SEGUNDO
 
-###### Artículo 18.
+De las Leyes de Ingresos.
 
-Se considera falta de compromiso operativo institucional, subestimar la importancia de la carrera policial, mostrar dejadez por la preparación a través de la capacitación, reducir la actividad del servicio a lo imprescindible, llegar tarde a los actos del servicio y dar excusas infundadas.
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 7 DE MAYO DE 2021)</small>
 
-En el caso del personal administrativo, llegar continuamente tarde a sus labores diarias, utilizar el horario laboral para atender asuntos personales (sin permiso de su superior), no atender debidamente a los usuarios de los servicios de seguridad, utilizar los recursos materiales, tecnológicos y de transporte para su beneficio personal o de terceros.
+###### ARTÍCULO 12.
 
-###### Artículo 19.
+Las Iniciativas de las Leyes de Ingresos deberán ser presentadas:
 
-Los derechos humanos y la dignidad humana son inherentes de las personas, los servidores públicos de la Comisión Estatal de Seguridad, como encargados de velar por el cumplimiento de las leyes, respetarán y cumplirán en todo momento las normas y principios que sustentan tales prerrogativas.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2022)</small>
 
-### CAPÍTULO IV. DE LA ACTITUD Y RESPONSABILIDAD
+I. La del Estado, al Ejecutivo del Estado, por conducto de la Secretaría de Hacienda, para ser enviada al Congreso del Estado para su revisión y aprobación, en su caso, a más tardar el 1o. de diciembre del ejercicio fiscal inmediato anterior al que corresponde la Iniciativa.
 
-###### Artículo 20.
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2021)</small>
 
-A los servidores públicos de la Comisión Estatal de Seguridad les corresponde fomentar y fortalecer los valores éticos y morales, así como el apego a los modales profesionales en los demás integrantes de la Institución; procederán con honestidad, rectitud y altruismo, proscribiendo cualquier acto de abuso, favoritismo, corrupción o inmoralidad.
+II. Las de los Municipios, al Ayuntamiento, a través de las Tesorerías Municipales, para ser enviadas por conducto del Presidente Municipal al Congreso del Estado para su revisión y aprobación, en su caso, a más tardar el 15 de noviembre del ejercicio fiscal inmediato anterior al que corresponde la Iniciativa.
 
-###### Artículo 21.
+III. En la presentación de las Iniciativas de Leyes de Ingresos deberá incluirse:
 
-En las acciones o procedimientos realizados por los integrantes de la Comisión Estatal de Seguridad, deberá primar la justicia y proporcionalidad.
+1. Exposición de motivos en la que se señale:
 
-###### Artículo 22.
+a) La Política de Ingresos del Poder Ejecutivo o de los Ayuntamientos, según corresponda, así como los objetivos de la misma; y
 
-Los integrantes de la Comisión Estatal de Seguridad, deben rehusarse a la realización de actos que impliquen deshonor, indisciplina o deslealtad de la reputación de ellos mismos o de la institución que representan.
+b) La justificación de las variaciones que se presenten, por rubro y tipo específico de ingreso, en la base, tasa o tarifa, así como en la periodicidad de cobro.
+
+2. Comparativo del pronóstico de recaudación de ingresos al cierre del ejercicio fiscal anterior al que corresponda la Iniciativa de Ley, con el presupuesto de Ingresos estimado derivado de la aplicación de la Iniciativa de Ley, por rubro y tipo específico de ingresos, con la correspondiente justificación de los decrementos o incrementos que se presentan;
+
+3. Texto de la Iniciativa de la Ley de Ingresos comparado con el texto de la Ley de Ingresos vigente en la fecha de presentación, identificando las modificaciones al texto y determinando las variaciones en tablas, tarifas y demás bases de cobro; y,
+
+4. Tratándose de las Iniciativas de Leyes de Ingresos de los Municipios deberá agregarse:
+
+a) Acuerdo de Cabildo, certificado por la Secretaría del Ayuntamiento, en el que se haya aprobado la Iniciativa de Ley de Ingresos, la Tabla de Valores Catastrales Unitarios base del Impuesto Predial y el Presupuesto de Ingresos correspondiente al ejercicio fiscal de que se trate;
+
+b) Acta de la Sesión del Consejo Municipal del Catastro Inmobiliario, certificada por la Secretaría del Ayuntamiento, donde haya sido aprobada la Tabla de Valores Catastrales Unitarios base del Impuesto Predial del ejercicio fiscal correspondiente;
+
+c) Tabla de Valores Catastrales Unitarios base del Impuesto Predial del Proyecto de la Ley de Ingresos, comparada con la Tabla de Valores Catastrales Unitarios vigente en la fecha de presentación de la Iniciativa de Ley y en la que se motiven y expliquen las variaciones y los efectos de las modificaciones propuestas.
+
+La información a que se refiere el presente Artículo deberá ser presentada, además de forma impresa, en dispositivos electrónicos de almacenamiento de datos de uso común.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+ARTÍCULO 12 BIS.- Además de la información a que se refiere el Artículo 12 del presente ordenamiento, las leyes de ingresos contendrán apartados específicos con la información siguiente:
+
+a) Las fuentes de ingresos sean ordinarios o extraordinarios, desagregando el monto de cada una, incluyendo los recursos federales que se estime serán transferidos por la Federación a través de los fondos de participaciones y aportaciones federales, subsidios y convenios de reasignación; así como los ingresos recaudados con base en las disposiciones locales, y
+
+b) Las obligaciones de garantía o pago causante de deuda pública u otros pasivos de cualquier naturaleza con contrapartes, proveedores, contratistas y acreedores, incluyendo la disposición de bienes o expectativa de derechos sobre éstos, contraídos directamente o a través de cualquier instrumento jurídico considerado o no dentro de la estructura orgánica de la administración pública correspondiente, y la celebración de actos jurídicos análogos a los anteriores y sin perjuicio de que dichas obligaciones tengan como propósito el canje o refinanciamiento de otras o de que sea considerado o no como deuda pública en los ordenamientos aplicables. Asimismo, la composición de dichas obligaciones y el destino de los recursos obtenidos.
+
+###### ARTÍCULO 13.
+
+Las Leyes de Ingresos del Estado y de los Municipios aprobadas por el Congreso del Estado, deberán ser publicadas en el Periódico Oficial a más tardar el 31 de diciembre del ejercicio inmediato anterior al que corresponda la Ley.
+
+Cuando al primero de enero del ejercicio al que corresponda la Ley de Ingresos del Estado o del Municipio de que se trate no haya sido aprobada y publicada en el Periódico Oficial del Estado, se prorrogará la vigencia de la Ley de Ingresos del ejercicio inmediato anterior hasta en tanto sea aprobada y publicada la Ley de Ingresos del ejercicio correspondiente.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 14.
+
+Las proposiciones que se hagan al Poder Legislativo para modificar la Ley de Ingresos del Estado, Leyes Hacendarias Especiales o Decretos que rijan en la materia, serán sometidas a la Comisión competente del Congreso del Estado para su estudio y dictamen.
+
+Cuando dichas modificaciones impliquen el aumento o disminución de recursos públicos para una entidad u órgano determinado, deberá valorarse mediante análisis técnico el impacto presupuestario y la posible afectación financiera al fisco.
+
+###### ARTÍCULO 15.
+
+Los Ayuntamientos tienen de manera exclusiva la facultad de presentar al Congreso del Estado modificaciones a sus Leyes de Ingresos.
+
+### CAPÍTULO TERCERO
+
+Del Control Presupuestal de los Ingresos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2021)</small>
+
+###### ARTÍCULO 16.
+
+El Ejecutivo del Estado, a través de la Secretaría de Hacienda y los Presidentes Municipales, a través de las Tesorerías Municipales, dentro de sus respectivos ámbitos de competencia, deberán registrar sus ingresos de manera armónica, delimitada y específica. Para tales efectos se aplicará, en lo conducente el Clasificador por Rubros de Ingresos emitido por el CONAC, el cual podrán desagregar de acuerdo a sus necesidades a partir de la estructura básica del clasificador.
+
+Los Poderes Legislativo y Judicial, los Órganos Autónomos, y las Entidades Paraestatales y Paramunicipales, realizarán lo previsto en el párrafo anterior a través de sus respectivas Unidades Administrativas equivalentes.
+
+###### ARTÍCULO 17.
+
+El registro de los ingresos derivados de la aplicación de las Leyes de Ingresos del Estado y los Municipios, deberá reflejar los diferentes momentos presupuestales de los ingresos, considerando principalmente el ingreso estimado, el ingreso modificado, el ingreso devengado y el ingreso recaudado; dichas definiciones se sujetarán a lo que establezca el CONAC, y en su caso, la información complementaria que emita el Consejo.
+
+###### ARTÍCULO 18.
+
+Todos los ingresos o entradas de efectivo se ampararán sin excepción alguna, con la expedición de recibos oficiales de los sujetos de esta Ley, debidamente requisitados.
+
+###### ARTÍCULO 19.
+
+Todas las entradas de efectivo de los sujetos de la presente Ley deberán depositarse en cuentas bancarias procurando obtener los mejores rendimientos financieros, pudiendo invertirse los excedentes temporales de efectivo en instrumentos de inversión de renta fija o valores gubernamentales del Sistema Financiero Mexicano.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2019)</small>
+
+Los órganos autónomos reconocidos en Ley, podrán invertir los excedentes temporales provenientes de ingresos propios, en instrumentos de inversión diversos a los mencionados en el párrafo primero, siempre que se procuren mayores rendimientos que los de inversión de renta fija o valores gubernamentales del Sistema Financiero Mexicano, bajo mecanismos que aseguren el menor riesgo posible.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE JUNIO DE 2019)</small>
+
+Para el caso de los Órganos Autónomos que utilicen instituciones administradoras de inversión, bastará que se remitan a la Auditoría Superior del Estado de Baja California, dentro de los primeros quince días posteriores al corte del mes, el reporte correspondiente de saldos y movimientos que informen sobre la posición financiera de las inversiones; así como de manera semestral, las aperturas y cancelación de cuentas bancarias que corresponda al periodo inmediato anterior, dentro de los primeros quince días posteriores al corte respectivo.
+
+### CAPÍTULO CUARTO
+
+De los Ingresos Propios y Transitorios.
+
+###### ARTÍCULO 20.
+
+Se considerarán como ingresos propios de los sujetos de la presente Ley, los previstos en el primer párrafo del Artículo 11 de esta Ley.
+
+###### ARTÍCULO 21.
+
+Los ingresos que no correspondan a los citados en el Artículo anterior y que, por lo tanto, no representan ingresos presupuestales, se considerarán como operaciones transitorias y pueden derivarse de:
+
+I. La intermediación o gestión en actividades complementarias o de apoyo al objetivo social y que representan obligaciones con terceros;
+
+II. Las recuperaciones de cantidades entregadas en calidad de anticipos a proveedores de bienes y servicios, anticipos de obra, recuperación de adeudos de funcionarios y empleados, gastos por comprobar y operaciones similares;
+
+III. Las recuperaciones de financiamientos otorgados a terceros en cumplimento del objetivo social;
+
+IV. Retenciones o recaudación de ingresos por cuenta de terceros, retenciones al personal, depósitos y cobros anticipados;
+
+V. Créditos puente obtenidos a corto plazo para subsanar deficiencias eventuales de liquidez, no consideradas como contratación de deuda pública, de acuerdo a la Ley de la materia;
+
+VI. Inversiones por realizar de aportaciones de terceros para un fin específico; y,
+
+VII. Otros de naturaleza análoga.
+
+###### ARTÍCULO 22.
+
+Las operaciones transitorias no formarán parte del Presupuesto de Ingresos de los sujetos de esta Ley, sin embargo, sí lo serán del flujo de efectivo que deberán elaborar para la debida administración de sus recursos disponibles en numerario y que formará parte de su información financiera.
 
 ## TÍTULO TERCERO. DE LOS EGRESOS
 
-### CAPÍTULO V. DE LOS DEBERES DE LOS INTEGRANTES DE LA COMISIÓN ESTATAL DE SEGURIDAD DE TLAXCALA
+### CAPÍTULO PRIMERO
 
-###### Artículo 23.
+De los Presupuestos de Egresos.
 
-Los integrantes de la Comisión Estatal de Seguridad, cumplirán los deberes que les imponen la Constitución, las leyes y los reglamentos, protegiendo a los conciudadanos contra la violencia y otros actos perjudiciales definidos por las leyes, en conformidad con las responsabilidades propias de la función policial.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2023)</small>
 
-###### Artículo 24.
+###### ARTÍCULO 23.
 
-La obediencia a la orden de un superior no justifica violación a las leyes, a los derechos y la dignidad humana, tales como: maltratos, torturas, heridas o muertes, así como cualquier trato inhumano o degradante, razón por la que los integrantes de la Comisión Estatal de Seguridad, pueden refutar toda orden o instrucción que implique incurrir en dichos actos.
+El presupuesto de egresos comprende las erogaciones que, por concepto de gasto corriente, gasto de capital, amortización de la deuda y disminución de pasivos realizan los sujetos de la presente Ley, dichas definiciones se sujetaran a lo que establezca el CONAC, y en su caso, la información complementaria que emita el Consejo.
 
-Ningún integrante de la Comisión Estatal de Seguridad, podrá ocasionar, provocar o tolerar actos de tortura, acciones crueles, inhumanas o degradantes amparándose en la orden de un superior o circunstancias especiales, como amenaza del orden público, de la seguridad nacional, de inestabilidad política interna o cualquier otra emergencia pública, como justificación de tales actos.
+Asimismo, el presupuesto de egresos deberá formularse basado en resultados de acuerdo a los indicadores de gestión del Sistema de Evaluación del Desempeño a que se refiere la presente Ley.
 
-Los actos descritos en el párrafo anterior constituyen una ofensa a la dignidad humana y será condenado como violación de los derechos y libertades fundamentales, proclamados en la Declaración Universal de los Derechos Humanos.
+Las asignaciones presupuestales procurarán atender los resultados de la evaluación del desempeño de los sujetos de la presente Ley que realicen las instancias técnicas competentes, considerando los avances logrados en los programas, objetivos y metas.
 
-No se consideran torturas las medidas restrictivas que sean consecuencia de la privación legítima de la libertad o inherentes a ésta, ordenadas por autoridad competente.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2023)</small>
 
-###### Artículo 25.
+Los tres poderes, los municipios del Estado y los órganos autónomos llevarán a cabo la planeación, el diseño, programación, ejecución y evaluación del presupuesto, en el ámbito de su competencia, con perspectiva e igualdad de género.
 
-No deberá recibir dádivas durante el desempeño de su empleo cargo o comisión, en consecuencia, queda prohibido a todos los integrantes de la Comisión Estatal de Seguridad de Tlaxcala, aceptar obsequios de los ciudadanos, y a los superiores de sus subordinados.
+###### ARTÍCULO 24.
 
-###### Artículo 26.
+Los presupuestos se elaborarán por ramo, capítulo, concepto y partida de acuerdo a la calendarización que al efecto se establezca; dichas definiciones se sujetarán a lo que establezca el CONAC, y en su caso, la información complementaria que emita el Consejo.
 
-Queda prohibido a todos los integrantes de la Comisión Estatal de Seguridad de Tlaxcala, valerse de influencias internas o externas para obtener ascensos, designaciones, permisos u otros beneficios personales en detrimento de las normas institucionales.
+###### ARTÍCULO 25.
 
-###### Artículo 27.
+Para la integración de los Presupuestos de Egresos, los sujetos de la presente Ley deberán establecer catálogos que permitan ordenar de forma sistemática y homogénea todos los conceptos de gastos de acuerdo a la naturaleza de los mismos. Para tales efectos, se aplicará en lo conducente el Clasificador por Objeto del Gasto emitido por el CONAC, el cual podrán desagregar de acuerdo a sus necesidades a partir de la estructura básica del clasificador, así mismo, aplicarán la información complementaria que al efecto emita el Consejo.
 
-Los altos mandos y los mandos policiales de la Comisión Estatal de Seguridad de Tlaxcala, en el ejercicio de sus funciones, deberán impartir a sus subordinados, instrucciones claras y precisas, sobre la manera y las circunstancias en las cuales se debe proceder en el servicio.
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-###### Artículo 28.
+ARTÍCULO 25 BIS.- El Estado, los municipios del Estado y los órganos autónomos impulsarán la igualdad sustantiva entre mujeres y hombres a través de la incorporación de la perspectiva de género, en la planeación, diseño, elaboración, ejecución, seguimiento y evaluación del presupuesto a través de las unidades ejecutoras del gasto.
 
-Todo integrante de la Comisión Estatal de Seguridad de Tlaxcala, deberán (sic) de guardar absoluta discreción en todos los asuntos institucionales que tengan carácter confidencial de los cuales tenga conocimiento, a menos que el interés de la justicia lo obligue dar a conocer la información que celosamente debe guardar.
+Los titulares de las dependencias y entidades, u órganos serán responsables de que se ejecuten con eficiencia, eficacia, efectividad y perspectiva de género, las acciones previstas en sus respectivos programas y presupuestos.
 
-###### Artículo 29.
+Será obligatorio para todas las unidades administrativas responsables del gasto, la inclusión de programas orientados a promover la igualdad de género en sus presupuestos anuales, así como a generar un impacto diferenciado de género.
 
-Los integrantes de la Comisión Estatal de Seguridad de Tlaxcala, reconocen que la primera norma de su profesión, es la disciplina, lo cual conlleva actuar con transparencia y sujeción a un régimen de rendición de cuentas ante sus superiores, los poderes públicos y la sociedad.
+El órgano de control del estado y los municipios, así como el de los órganos autónomos, verificarán periódicamente los resultados de la ejecución de los programas y presupuestos, en materia de equidad de género.
 
-###### Artículo 30.
+Para tal efecto, las unidades responsables del gasto deberán considerar lo siguiente:
 
-La carrera policial es profesional y técnica, la capacitación es obligatoria, continua y progresiva desde el ingreso hasta la salida de la Institución, por tanto, los miembros de la Comisión Estatal de Seguridad de Tlaxcala, tienen el compromiso ineludible de capacitarse, con sujeción a los programas educativos diseñados para alcanzar su perfeccionamiento.
+I.- Incorporar en sus programas la perspectiva de género y reflejarla en la matriz de indicadores para resultados;
 
-###### Artículo 31.
+II.- Identificar y registrar la población objetivo y la atendida por dichos programas, desagregada por sexo y grupo de edad en los indicadores y en los padrones de beneficiarias y beneficiarios que corresponda;
 
-El integrante policial que tenga conocimiento de cualquier situación que atente contra los intereses del Estado, la ciudadanía o de la institución, tiene la obligación de tomar las medidas necesarias que estén a su alcance o dar parte de ello a sus superiores inmediatos, para que al efecto tomen las previsiones pertinentes.
+III.- Fomentar la perspectiva de género en el diseño y la ejecución de programas en los que, aun cuando no estén dirigidos a mitigar o solventar las desigualdades de género, se pueda identificar de forma diferenciada los beneficios específicos para mujeres y hombres;
 
-###### Artículo 32.
+IV.- En los programas bajo su responsabilidad, establecer o consolidar las metodologías de evaluación y seguimiento que generen información relacionada con indicadores para resultados con perspectiva de género;
 
-El conjunto de preceptos éticos y morales señalados en el presente Código, constituyen parte sustancial del carácter y actuación de todos los integrantes de la Institución, a la vez complementa el ordenamiento de los actos regulados por la Constitución, las Leyes, y los Tratados en materia de erradicación de toda forma de corrupción, de eliminación de los abusos y de discriminación hacia los ciudadanos en sentido general y de forma particular entre los propios integrantes de la institución policial, con relación a su conducta.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2021)</small>
 
-###### Artículo 33.
+V.- Aplicar la perspectiva de género en las evaluaciones de los programas, con los criterios que emitan la Secretaría de Hacienda y el Instituto de la Mujer del Estado de Baja California; e,
 
-El respeto a la vida, a los derechos y a la dignidad de las personas es la esencia de los principios y valores éticos de los integrantes de la Comisión Estatal de Seguridad de Tlaxcala, razón por la cual los servidores públicos operativos y administrativos deben asumir esos valores en su actuación diaria en el ámbito institucional, familiar, personal y comunitario.
+VI.- Incluir en sus programas y campañas de comunicación social, contenidos que promuevan la igualdad entre mujeres y hombres, la erradicación de la violencia de género, y de roles y estereotipos que fomenten cualquier forma de discriminación. El Instituto de la Mujer del Estado coadyuvará con las unidades administrativas responsables del gasto de las dependencias y entidades, en el contenido de estos programas y campañas.
 
-###### Artículo 34.
+###### ARTÍCULO 26.
 
-Todo servidor público operativo y administrativo, debe actuar con profundo humanismo, ya que el ser humano es el centro y razón de las actividades de la institución policial. Por tanto, debe poner especial empeño en la protección y seguridad de los derechos, libertades y garantía de la niñez, la adolescencia, las personas de la tercera edad y las personas en situación de riesgo.
+Los Presupuestos de Egresos de la Administración Pública Centralizada comprenderán también, en apartado especial, las previsiones de los subsidios, ayudas, transferencias y participaciones presupuestarias a Municipios, Entidades Paraestatales y Paramunicipales, Poderes Legislativo y Judicial, Órganos Autónomos, así como otras instituciones públicas o privadas y particulares que, en su ámbito de competencia, autoricen el Congreso del Estado y los Ayuntamientos.
 
-La expresión de humanismo por parte del servidor público operativo y administrativo, es su actitud de profundo respeto del ser humano y a su dignidad; así como su sensibilidad y solidaridad ante las personas; el respeto y promoción de los derechos humanos.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
 
-###### Artículo 35.
+###### ARTÍCULO 27.
 
-La condición de miembro de la Comisión Estatal de Seguridad de Tlaxcala, requiere vocación de servicio, aptitud, sentido de justicia, actitud, apego a la legalidad, conocimientos científicos y técnicos, serenidad, decoro, rectitud y humanismo.
+Los proyectos de Presupuestos de Egresos de la Administración Pública Centralizada, se integrarán de conformidad con la documentación, normas y lineamientos de programación y presupuestación que para el efecto establezcan la Secretaría de Hacienda y las Tesorerías Municipales, en sus respectivos ámbitos de competencia. Tratándose de los Poderes Legislativo y Judicial, así como de los Órganos Autónomos, la integración del proyecto de Presupuesto de Egresos se realizará conforme lo que establezcan las Unidades Administrativas equivalentes.
 
-Todo integrante de la Comisión Estatal de Seguridad de Tlaxcala, que realice funciones operativas y/o administrativas, ajustado a las disposiciones del presente Código de Ética, tiene derecho al apoyo tanto moral como material de la Institución, así como de la sociedad a la cual le sirve.
+###### ARTÍCULO 28.
 
-###### Artículo 36.
+Los Poderes Legislativo y Judicial, los Órganos Autónomos y las Entidades que reciban ayudas, subsidios, transferencias o participaciones de la administración centralizada, elaborarán su Proyecto de Presupuesto de Egresos con base en los montos asignados para tales conceptos y en los que se deriven de sus actividades propias.
 
-Para una correcta comprensión de los términos enunciados en el presente código, se define:
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
 
-a) DEONTOLOGÍA: Conjunto de deberes profesionales que han de inspirar la conducta de un profesional, los cuales proceden de reglas éticas y de principios morales.
+###### ARTÍCULO 29.
 
-b) ÉTICA: Es la rama de la filosofía que estudia los fundamentos de lo que se considera bueno, debido o moralmente correcto. También puede definirse como el saber acerca de una adecuada gestión de la libertad, pues tiene la diferencia entre el bien y el mal basado en los valores universales y el comportamiento humano.
+Los Poderes Legislativo y Judicial, así como los Órganos Autónomos, remitirán sus Proyectos de Presupuesto de Egresos al Ejecutivo del Estado, por conducto de la Secretaría de Hacienda, a más tardar el día 20 de noviembre del año inmediato anterior al que correspondan, para que se incorporen las ayudas, subsidios o transferencias que les correspondan en el proyecto de Presupuesto de Egresos de la Administración Pública Centralizada del Poder Ejecutivo.
 
-c) ÉTICA PROFESIONAL: Es el conjunto de normas y valores que hacen mejorar el desarrollo de las actividades de los profesionales.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
 
-d) ÉTICA POLICIAL: Parte de la filosofía que trata de la moral y las obligaciones de cada agente policial, la cual establece la conducta profesional que de manera rigurosa estos deben exhibir; orientada al logro del cumplimiento del deber mediante la recta razón inspirada en la moralidad.
+###### ARTÍCULO 30.
 
-e) CÓDIGO DE ÉTICA: Documento que fija normas que regulan los comportamientos de las personas dentro de una empresa u organización. Aunque la ética no es coactiva (no impone castigos legales), está vinculada a la moral y establece lo que es bueno o malo, el código de ética supone una normativa interna de cumplimiento obligatorio, ya que trata de regular una actividad profesional.
+La Secretaría de Hacienda será la encargada de formular, considerando las propuestas que le presenten las Dependencias y Entidades Paraestatales, los Poderes Legislativo y Judicial, así como los Órganos Autónomos, el Proyecto de Presupuesto de Egresos de la Administración Pública Centralizada del Poder Ejecutivo; y las Tesorerías Municipales, la de formular, considerando las propuestas de las Dependencias y Entidades Paramunicipales, el Proyecto de Presupuesto de Egresos de los Municipios.
 
-f) COACCIÓN POLICIAL: Es la fuerza o violencia que ejerce un integrante de la Comisión Estatal de Seguridad de Tlaxcala, a una persona para que realice o deje de realizar una acción en contra (sic) su voluntad.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
 
-g) CORRUPCIÓN ABIERTA: Acto o conducta evidente de un servidor público policial que aprovecha el ejercicio de sus obligaciones públicas para satisfacer intereses económicos personales, familiares, de allegados o que capitaliza las influencias y relaciones ligadas a su cargo, en beneficio personal.
+###### ARTÍCULO 31.
 
-h) CORRUPCIÓN ENCUBIERTA: Acto o conducta solapada o justificada con argumentos falsos, de un servidor público policial, que aprovecha el ejercicio de sus obligaciones públicas para satisfacer intereses económicos personales, familiares, allegados o bien utiliza las influencias y relaciones ligadas a su cargo, en beneficio personal.
+La Secretaría de Hacienda y las Tesorerías Municipales, en sus respectivos ámbitos de competencia, quedan facultadas para formular los Proyectos y, en su caso, los Presupuestos de Ingresos y Egresos de las Dependencias y Entidades cuando no sean formulados por éstas en los términos y plazos de Ley.
 
-i) CORRUPCIÓN ADMINISTRATIVA: Es la realización de aquellas malas prácticas relacionadas con la administración interna que pueden surgir en la Institución.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
 
-j) CORRUPCIÓN OPERATIVA: Es la acción que se presenta en la interacción irregular de los agentes policiales con los ciudadanos y/o delincuentes.
+###### ARTÍCULO 32.
 
-k) CONFLICTO DE INTERESES: Acción de choque, antagonismo o situación de difícil salida que se da, cuando quien ejerce una función policial tiene intereses privados que pueden beneficiarse de su actuación o decisión.
+La Secretaría de Hacienda y las Tesorerías Municipales, al examinar los Proyectos de Presupuestos de Egresos de las Dependencias y Entidades, verificarán que los ingresos ordinarios y, en su caso, los extraordinarios, sean suficientes para cubrir los conceptos e importes previstos en dichos Proyectos.
 
-l) CÓMPLICE: Persona que sin ser autora del delito, coopere en su planeación o ejecución.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
 
-m) DISCRECIÓN: Es la moderación que utiliza el agente policial en el manejo de información relativas (sic) al servicio; esta garantiza la moral accesoria de la personalidad del agente a quien se le confía secretos.
+###### ARTÍCULO 33.
 
-n) DEBER: En sentido abstracto, es la obligación o exigencia de la moralidad para hacer una cosa u omitirla.
+En caso de que los ingresos ordinarios y los extraordinarios no sean suficientes para cubrir los conceptos e importes previstos en los Proyectos de Presupuestos de Egresos del ejercicio de que se trate y se prevea la necesidad de contratar Deuda Pública, se deberá atender oportunamente lo establecido en la Ley que Regula los Financiamientos y Obligaciones para la Disciplina Financiera del Estado de Baja California y sus Municipios.
 
-o) EQUIDAD: Cualidad que consiste en tratar a cada uno según sus méritos o condición, evitando que el favorecer a alguien, perjudique los derechos de otros.
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 7 DE MAYO DE 2021)</small>
 
-p) EXTORSIÓN: Delito consistente en obligar a una persona a través de la utilización de violencia o intimidación, a realizar un pago a fin de pasar por alto actividades delictivas, u omitir un acto ilícito con ánimo de lucro y con la intención de producir un perjuicio de carácter patrimonial o bien de la persona intervenida, o bien de un tercero.
+###### ARTÍCULO 34.
 
-q) ESPÍRITU DE CUERPO: Conciencia, convicción y sentido de pertenencia al cuerpo policial, que propician y promueven la solidaridad, cooperación, fortaleza, unidad y cohesión de sus miembros hacia fines y objetivos institucionales; así como la lealtad a la Institución, fidelidad a sus mandos y consistencia en la observación de los principios, valores, visión y misión de la Comisión Estatal de Seguridad.
+Los Proyectos de Presupuestos de Egresos deberán ser presentados oportunamente:
 
-r) HONRADEZ: Cualidad reflexiva propia de toda persona respetuosa de su propia dignidad, la cual tiene como fin principal no engañar a los demás o engañarse a sí mismo.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2022)</small>
 
-s) HONESTIDAD: Es la cualidad humana que refleja el recto proceder con decencia, decoro, postura y urbanidad en el agente policial.
+I. Al Congreso del Estado, por conducto de la Secretaría de Hacienda, el Proyecto de Presupuesto de Egresos de la Administración Pública Centralizada del Poder Ejecutivo del Estado para su revisión y aprobación, en su caso, y los Presupuestos de Egresos aprobados por el Ejecutivo del Estado a las Entidades Paraestatales, a más tardar el 1o. de diciembre del año inmediato anterior al que correspondan;
 
-t) HUMANISMO: El humanismo se concibe dentro de su sentido más amplio y profundo como una actitud y un rol social, que el miembro de la Comisión Estatal de Seguridad de Tlaxcala, como parte de la sociedad debe exhibir, tanto dentro como fuera de su función policial, sobre la base de normas y valores de respeto por el ser humano.
+II. A los Ayuntamientos, por conducto de las Tesorerías Municipales, los Proyectos de Presupuestos de Egresos correspondientes a la Administración Pública Centralizada del Municipio y a las Entidades Paramunicipales, para su revisión y aprobación, en su caso, a más tardar el día 1o. de noviembre del año inmediato anterior al que correspondan.
 
-u) INTEGRIDAD: Acción de honestidad, transparencia, compostura y decencia en la vida laboral, personal y social del individuo. Comportamiento acorde con la ley y las normas sociales, actitud ejemplar en todos los aspectos de la vida, que fortalezcan el honor de la Institución y sus miembros ante la sociedad.
+Aprobados los Presupuestos de Egresos de la Administración Pública Centralizada del Municipio y de las Entidades Paramunicipales, deberá remitirse al
 
-v) LEGALIDAD: Es el apego irrestricto al marco legal existente, la defensa y promoción del estado de derecho, la promoción y defensa de los derechos humanos y la actuación imparcial sin distinción de raza, sexo, credo, posición política, económica o social.
+Congreso del Estado a más tardar el día 10 de diciembre de cada año, por conducto del Presidente Municipal, copias de los mismos, de sus programas y del Acta de la Sesión de Cabildo en que fueron aprobados, para su conocimiento y efecto de la revisión de la Cuenta Pública; y,
 
-w) MORAL: Es el conjunto de valores, normas y costumbres de un individuo o grupo humano determinado, que se consideran buenas.
+III. Al Congreso del Estado, los Proyectos de Presupuestos de Egresos correspondientes al Poder Judicial y a los Órganos Autónomos, por conducto de sus Titulares, a más tardar el 1o. de diciembre del año inmediato anterior al que corresponda, para su revisión y aprobación, en su caso.
 
-x) MORAL POLICIAL: Conjunto de reglas de comportamiento, normas de convivencia y de conducta humana que determina las obligaciones de los agentes policiales, y de sus relaciones entre sí y con la sociedad.
+###### ARTÍCULO 35.
 
-y) MORALIDAD: La regulación de los actos humanos de acuerdo con algunos criterios, normas y leyes.
+Al Proyecto de Presupuesto de Egresos de los sujetos de esta Ley deberá acompañarse la siguiente información:
 
-z) PATRIOTISMO: El patriotismo se entiende como el amor y lealtad a la patria, a través de la promoción, defensa y respeto a sus símbolos, a su soberanía, a sus héroes nacionales y al patrimonio histórico-cultural de la nación.
+I. Exposición de motivos, en la que se describan las condiciones económicas y sociales que prevalezcan en el Estado o Municipio, la situación financiera y hacendaria que presente y las que prevea para el futuro; así como las estrategias a implementar y los propósitos a lograr con el proyecto de Presupuesto de Egresos;
 
-aa) PRECEPTOS: Son los mandatos, instrucciones o reglas de un orden superior que pueden ser positivos o negativos, según manden o prohíban hacer algo.
+II. Descripción clara de los programas que integren el proyecto de Presupuesto de Egresos;
 
-bb) PROFESIONALISMO: Formación personal de los miembros de la Institución, con una actitud constructiva, motivada por la vocación de servicio, en correspondencia con las tendencias modernas de la ciencia y la tecnología, para elevar la capacidad de respuesta ante las demandas y necesidades de la comunidad y del Estado en el campo policial.
+III. Los indicadores de gestión necesarios para la evaluación de los resultados en la ejecución de cada programa, establecidos en los términos del Sistema de Evaluación del Desempeño previsto en la presente Ley;
 
-cc) SERVIDOR PÚBLICO OPERATIVO: Persona que brinda un servicio de utilidad social, inscrito en el Servicio Profesional de Carrera Policial, realiza una labor en beneficio de otras personas, no genera ganancias privadas más allá del salario que percibe por su trabajo policial.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-dd) SERVIDOR PÚBLICO ADMINISTRATIVO: Persona que brinda el servicio de gestión, y/o tramite de utilidad a la Comisión Estatal de Seguridad de Tlaxcala, y que no se encuentra inscrito en el Servicio Profesional de Carrera Policial, no genera ganancias privadas más allá del salario que percibe por su trabajo administrativo.
+IV. Los indicadores que reflejan en los programas la incorporación de la perspectiva de género;
 
-ee) SOBORNO: Es la dádiva en dinero, especie o favores que se le da a alguien o que alguien recibe, con el fin de que deje de hacer algo establecido en las leyes, reglamento y disposiciones o bien para que lo haga en una forma específica.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-ff) TRÁFICO DE INFLUENCIA: Es el aprovechamiento de las funciones de un cargo y de las relaciones con personas influyentes para obtener ventaja o lucro para sí mismos o para terceros.
+V. El Registro de la población objetivo, desagregada por sexo y grupo de edad;
 
-gg) VALORES: Son conceptos abstractos que no se pueden captar a través de los sentidos, sin embargo se manifiestan a través de las cosas, constituidos por aquello que se considera bueno, que beneficia a la persona. La práctica de los valores morales fomenta el cultivo de las virtudes y constituye la base del progreso espiritual y material de la organización.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-hh) VULNERABILIDAD SOCIAL: Es la situación usualmente crónica, de personas y grupos con alto grado de riesgo de recibir daños y perjurios debido a ciertas condiciones sociales o personales.
+VI. Comparativo de las metas de los programas del Presupuesto de Egresos Autorizado del ejercicio en curso, con el cierre proyectado del mismo;
 
-###### Artículo 37.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-Son responsabilidades de los integrantes de la Comisión Estatal de Seguridad de Tlaxcala:
+VII. Comparativo de las metas de los programas del ejercicio al que corresponda el proyecto de Presupuesto de Egresos con el cierre proyectado del ejercicio en curso;
 
-a) Actuar apegados a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, respeto a los derechos humanos, disciplina, servicio a la sociedad, integridad, humanismo y espíritu de cuerpo.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-b) Sujetar el ejercicio de sus funciones a los principios de actuación, lo que significa que en ningún caso, podrá amparar órdenes que entrañen la ejecución de actos que constituyan delitos o sean contrarios a la Constitución o las leyes.
+VIII. El presupuesto de egresos del ejercicio en curso devengado al momento de la presentación del proyecto de presupuesto de egresos del ejercicio siguiente, y el pronóstico de presupuesto de egresos devengado al cierre del ejercicio en curso;
 
-c) Actuar siempre con respeto, apego a la legalidad, al marco jurídico y constitucional, sin discriminación de género, edad, nacionalidad, condición social, religión, raza, ideología, filiación partidaria o de cualquier otro tipo.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-d) Respetar tanto dentro como fuera del servicio la Constitución y las leyes, así como el presente Código; debiendo hacer cuanto esté a su alcance para impedir toda violación de ellos.
+IX. Comparativo del presupuesto de egresos modificado y el pronóstico del presupuesto de egresos devengado al cierre del ejercicio en curso, con el proyecto de Presupuesto de Egresos del ejercicio posterior, por ramo, capítulo, concepto y partida, con la correspondiente justificación de las variaciones que se presentan;
 
-e) Brindar un trato digno, justo, respetuoso y sin discriminaciones a todas las personas, en especial a aquellas que presentan mayor vulnerabilidad social, tales como: personas con discapacidad, mujeres embarazadas, niñas, niños, adolescentes y personas de la tercera edad
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-f) Reconocer y respetar en todos los ciudadanos los derechos y garantías consignadas a estos en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado Libre y Soberano de Tlaxcala.
+X. En su caso, situación de la deuda pública al término del último ejercicio fiscal y estimación de las que se tendrá a la conclusión del ejercicio fiscal en curso y del inmediato siguiente, así como las cantidades y partidas que se programen para el cumplimiento de las obligaciones financieras o crediticias relativas a la deuda pública de conformidad con la Ley de la materia;
 
-g) Brindar atención especial a las víctimas de abuso sexual o violencia intrafamiliar; y proceder con la debida diligencia y prudencia en la prevención o investigación de todo acto violento contra la mujer, la niñez, las personas de tercera edad y los minusválidos, sin esperar algún tipo de retribución por tales acciones.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-h) Procurar la atención médica a las personas bajo su custodia cuyo estado de salud necesite de la inmediata asistencia, lo que implica tomar las medidas provisorias para proteger la vida y la integridad de los imputados, razón por la cual, escuchará las instrucciones de los médicos u otras personas calificadas que estimen que algún imputado debe ser colocado bajo cuidado médico.
+XI. La estructura organizacional y funciones vigentes así como, en su caso, las modificaciones propuestas;
 
-i) Buscar la superación personal en el desarrollo de sus facultades y competencias profesionales, con la finalidad de adquirir un pensamiento creativo y crítico, para brindar así un mejor servicio a la sociedad.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-j) Procurar mantenerse mental y físicamente en óptimas condiciones para el buen desempeño de sus funciones, por lo que evitarán violar las prescripciones médicas, abusar de la ingesta de bebidas alcohólicas, y en general, no utilizar sustancias psicotrópicas tendente a deteriorar su salud.
+XII. Comparativo de plazas autorizadas del ejercicio en curso con las correspondientes al Proyecto de Presupuesto de Egresos que se presenta;
 
-k) Expresar su compromiso y lealtad por la Institución, manifestando orgullo por ella y demostrándolo con su actuación donde quiera que se encuentre.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-l) Abstenerse de emitir opiniones o criterios sobre hechos, situaciones, grado de responsabilidad o culpabilidad de personas en proceso de investigación y siempre mantendrá la debida reserva, confidencialidad o en su caso, riguroso secreto respecto a la información que conozca en el ejercicio de sus funciones.
+XIII. Programa Anual de Obra Pública, en los términos de la Ley de la materia;
 
-m) Mantener una actitud firme y vigilante de toda conducta que a lo interno de la Institución pueda propiciar, administrativa u operativamente, actos que menoscaben los principios y valores éticos que rigen a la institución policial y a la sociedad misma.
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-n) Colaborar con los órganos y funcionarios auxiliándolos en los términos establecidos en las leyes.
+XIV. En su caso, el estado que guardan los contratos de erogaciones plurianuales autorizados en ejercicios anteriores que afectan el Presupuesto de Egresos para el que se solicita autorización; y,
 
-o) Proteger y promover el prestigio, el buen nombre de la institución y de toda actividad que se realice en la Comisión Estatal de Seguridad.
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-p) Impedir en el ejercicio de su profesión cualquier práctica abusiva, arbitraria o discriminatoria que entrañe agresión física o moral.
+XV. En general, toda información que se considere útil para demostrar la proposición en forma clara y completa.
 
-q) Observar en todo momento un trato correcto y esmerado en sus relaciones con los ciudadanos, a quienes procurarán auxiliar y proteger siempre que las circunstancias lo exijan o fueren requeridos para ello.
+La información a que se refiere este Artículo deberá ser presentada, además de forma impresa, en dispositivos electrónicos de almacenamiento de datos de uso común.
 
-r) Reconocer que sólo podrá utilizar su arma de cargo cuando se encuentre de servicio o en las situaciones en que exista un riesgo racionalmente grave para su vida, su integridad física o la de terceras personas.
+###### ARTÍCULO 36.
 
-s) Para evitar confusión en el desempeño de sus funciones, debe identificarse como tal en la forma reglamentaria en sus intervenciones con los ciudadanos.
+Las proposiciones que hagan los miembros del Congreso del Estado para modificar los Proyectos de Presupuestos de Egresos presentados por el Ejecutivo del Estado y los Titulares del Poder Judicial, así como de los Órganos Autónomos, serán sometidas a la Comisión competente para su estudio y dictamen.
 
-t) Velar por la vida e integridad física de todas las personas, respetando sus derechos, honor y dignidad.
+###### ARTÍCULO 37.
 
-u) Observar y dar cumplimiento de forma diligente a los trámites, plazos y requisitos exigidos por los ordenamientos jurídicos, en todas y cada una de sus actividades como servidores y funcionarios públicos.
+A toda proposición de aumento de recursos a partidas presupuestales o a la creación de partidas en los Proyectos de Presupuestos de Egresos, deberán agregarse las correspondientes iniciativas de ingresos, si con tal proposición se altera el equilibrio presupuestal. En los casos de transferencia de recursos entre partidas presupuestales o de supresión de partidas y de los recursos presupuestales asignados, deberá acompañarse de los programas de nueva creación, de los suprimidos, o los que hayan sido afectados.
 
-v) Llevar a cabo sus funciones con total dedicación profesional en cualquier tiempo y lugar.
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2014)</small>
 
-Los integrantes de la Comisión Estatal de Seguridad de Tlaxcala, son responsables de manera personal y directa por los resultados que en su actuación se produjeren, que deriven en infringir o vulnerar las normas legales, las reglamentaciones que rijan su profesión y los principios enunciados en el presente Código.
+En el cumplimiento de lo dispuesto en este artículo, el Poder Ejecutivo del Estado tomará en cuenta el carácter prioritario de la inversión pública para los fines del desarrollo estatal.
 
-###### Artículo 38.
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2014)</small>
 
-Son deberes de los integrantes de la Comisión Estatal de Seguridad de Tlaxcala:
+En todo tiempo procurará fortalecer las fuentes de financiamiento a dicha tarea y destinar recursos presupuestarios crecientes, en términos reales, para la inversión pública. Para dar cabal cumplimiento a esta disposición, el Presupuesto del Poder Ejecutivo contemplará un incremento progresivo cada año.
 
-I. Tener presente que el único medio de hacerse acreedor del buen concepto y estimación de superiores, iguales y subalternos, así como de la sociedad a la que sirve, es con el desempeño exacto en sus labores, la exhibición de una conducta intachable, la entrega al servicio, el entusiasmo por el trabajo, así como la más alta actitud de honradez y honestidad.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
 
-II. Al ejercer el mando, mostrar ante los demás servidores públicos operativos y/o administrativos, pulcritud y abnegación en el desempeño de sus funciones, dándole en todo momento, órdenes y/o instrucciones que estén apegadas a las normas y reglamentos de la Institución.
+###### ARTÍCULO 38.
 
-III. Tener un alto concepto de lealtad y veracidad en todos los actos de su vida. La falta a la verdad es considerada como una violación grave a los preceptos éticos que rigen a la Institución.
+El Ejecutivo del Estado, por conducto de la Secretaría de Hacienda y los Titulares del Poder Judicial y de los Órganos Autónomos, proporcionarán al Congreso del Estado los datos estadísticos e información que solicite y que contribuya a la mejor comprensión de sus respectivos Proyectos de Presupuesto de Egresos.
 
-IV. Tener en cuenta que la honradez, rectitud, justicia, nobleza e integridad son virtudes que deben distinguir a todo servidor público operativo y/o administrativo de la Comisión Estatal de Seguridad de Tlaxcala.
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE AGOSTO DE 2014)</small>
 
-V. Actuar con cordura y mesura, absteniéndose de dar informaciones que puedan ser utilizadas de forma maliciosa en contra de la Institución o de uno de sus integrantes.
+###### ARTÍCULO 39.
 
-VI. Actuar con honorabilidad y respeto en el desarrollo de su vida social o privada, evitando relaciones perjudícales (sic) para sí, para su familia y para la Institución.
+Una vez aprobados los Presupuestos de Egresos de los sujetos de la presente Ley por el Congreso del Estado, por el Ejecutivo del Estado, por los Ayuntamientos, en sus respectivos ámbitos de competencia, se remitirán al Ejecutivo del Estado para efectos de su publicación en el Periódico Oficial del Estado.
 
-VII. Evitar por todos los medios posibles involucrarse en incidentes que menoscaben el prestigio de la Institución a la cual se deben y pertenecen.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 1 DE AGOSTO DE 2014)</small>
 
-VIII. Conocer los preceptos contenidos en las Leyes y Reglamentos vigentes y estar al tanto de cuantas disposiciones se dicten relativas al servicio, a la disciplina y a la administración, a fin de cumplirlas y hacer que se cumplan en las partes que les correspondan.
+La publicación comprenderá el desglose a nivel de ramo, capítulo, concepto y partidas, y deberá realizarse a más tardar:
 
-IX. Dar el buen ejemplo al personal bajo su mando, con su conducta, devoción al servicio y la seriedad con la que deben manejarse todos los asuntos que sean policiales o administrativos.
+I. El 31 de diciembre del ejercicio fiscal anterior al que correspondan, los Presupuestos de Egresos de la Administración Pública Centralizada del Poder Ejecutivo del Estado y de los Municipios, de los Poderes Legislativo y Judicial, así como de los Órganos Autónomos; y,
 
-X. Conocer las Leyes y Reglamentos policiales en las partes que le corresponda; las obligaciones que les atañen a sus subordinados, así como los deberes y obligaciones.
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 1 DE AGOSTO DE 2014)</small>
 
-XI. Tratar a sus subordinados con cortesía y respeto, haciéndoles cumplir sus órdenes y/o instrucciones, así como las que reciba de sus superiores. Jamás los llamará por apodos o motes, es decir, les dará un trato digno.
+II. El 15 de enero del ejercicio al que corresponda, los Presupuestos de Egresos de las Entidades Paraestatales y Paramunicipales.
 
-XII. Velar porque sus subordinados sepan desempeñar las obligaciones y deberes que les correspondan, recordándoles que el valor y prontitud, son cualidades que deberán poseer, ya que estás constituyen el verdadero espíritu del servicio público.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 1 DE AGOSTO DE 2014)</small>
 
-XIII. Reconocer como su superior jerárquico o en funciones, a todo integrante de la institución policial que ostente un grado superior al que este posee, o que con igual rango ocupe la posición de mando dentro de la misma unidad en la que ambos prestan servicio; este obedecerá toda orden que reciba relativa al servicio y que esté enmarcada en los Reglamentos policiales.
+Los sujetos de esta Ley deberán cumplir con el mismo procedimiento de publicación del cierre presupuestal a más tardar el 30 de abril del ejercicio posterior al que corresponda el cierre presupuestal, el cual deberá contener el presupuesto inicial autorizado, las modificaciones presupuestales, el presupuesto modificado autorizado y el presupuesto ejercido.
 
-XIV. Procurar que sus subalternos procedan en igual forma que él, manteniendo vivo en ellos el espíritu de servicio, de nobleza y el estricto apego al cumplimiento del deber.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE AGOSTO DE 2014)</small>
 
-XV. Tener consideración para sus subalternos, pero también determinación y firmeza para ejercer su autoridad.
+De igual manera los sujetos obligados de esta Ley deberán de elaborar y publicar en sus respectivos portales de transparencia, sus Presupuestos ciudadanos a más tardar el 31 de enero del ejercicio que corresponda, mismos que deberán de ser revisados y actualizados por lo menos cada trimestre en caso de que existan modificaciones posteriores. La aplicación y observancia de esta norma les corresponde a los Titulares de las dependencias establecidas en el artículo 2 de esta ley. El Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California será el organismo coadyuvante en el cumplimiento de esta norma en los términos de esta Ley y de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
 
-XVI. Estudiar los procedimientos policiales a fin de obtener la preparación adecuada para desempeñar de forma eficiente sus funciones y difundir sus conocimientos entre los servidores públicos bajo sus órdenes para desarrollar en ellos el interés por este género de estudio.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 1 DE JUNIO DE 2012)</small>
 
-XVII. Reconocer como su superior jerárquico o en funciones, a todo integrante de la Institución policial que ostente un grado superior, o que con igual rango ocupe la posición de mando dentro de la misma Unidad en la que ambos prestan servicio; este acatará las órdenes relativas a sus funciones y que estén enmarcadas en los reglamentos policiales.
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2012)</small>
 
-XVIII. Ser diligente en atender las solicitudes que les realicen sus subalternos, poniendo en conocimiento del superior de mayor jerarquía, aquellas que no pudiera solucionar según sus facultades, así como las decisiones que en su momento tome ante estás.
+ARTÍCULO 39 BIS.- Si al primero de enero del ejercicio al que corresponda el Proyecto de Presupuesto de Egresos presentado en los términos de esta Ley ante la Autoridad de que se trate no haya sido aprobada, en tanto sean aprobados, continuará rigiendo el Presupuesto que hubiere estado vigente el año anterior.
 
-XIX. Cumplir con exactitud las órdenes que reciba de sus superiores, siempre que estén enmarcadas en las leyes y reglamentos.
+El Presupuesto de Egresos aprobado bajo las condiciones señaladas en el párrafo que antecede, deberá considerar los recursos ejercidos en términos del Presupuesto de Egresos vigente hasta su aprobación.
 
-###### Artículo 39.
+###### ARTÍCULO 40.
 
-La superioridad jerárquica se entiende como la autoridad que tiene un integrante de la Comisión Estatal de Seguridad de Tlaxcala, respecto a los demás integrantes, por su mayor grado o rango. Son deberes de los superiores jerárquicos:
+Los Presupuestos de Egresos de la Administración Pública Centralizada del Poder Ejecutivo, de los Poderes Legislativo y Judicial, así como de los Órganos Autónomos, serán los que contengan los Decretos que emita el Congreso del Estado.
 
-I. Promover entre los subordinados el cumplimiento de los preceptos éticos y morales en sus actuaciones públicas y privadas, validándolos con su ejemplo personal.
+Los Presupuestos de Egresos de las Entidades Paraestatales serán los que apruebe el Ejecutivo del Estado.
 
-II. Estimular en los subordinados sentimientos de honor, de sobriedad, de lealtad y de abnegación; fomentar la iniciativa, el espíritu de sacrificio, la responsabilidad e inspirar en el personal confianza y respeto al mantenerse permanentemente preocupados por su bienestar.
+Los Presupuestos de Egresos de los Municipios serán los que aprueben sus Cabildos, a iniciativa de los Presidentes Municipales.
 
-III. Motivar en sus subordinados el hábito de desarrollar un proceso permanente de aprendizaje en el campo policial y cultural, de mejoramiento y de superación en su educación personal.
+###### ARTÍCULO 41.
 
-IV. Evitar el maltrato, el abuso y la discriminación de cualquier tipo en contra de sus subordinados en cualquiera de sus formas y circunstancias.
+Los Presupuestos de Egresos que, en sus respectivos ámbitos de competencia, aprueben el Congreso del Estado, el Ejecutivo del Estado y los Ayuntamientos, no podrán contemplar ni ser modificados para cubrir compensaciones extraordinarias, o cualquier otro término con el que se les denomine, durante o por conclusión del mandato o gestión de los Titulares o Funcionarios de los sujetos de esta Ley. No quedan comprendidas en esta disposición las partidas presupuestales requeridas para el cumplimiento de las obligaciones de carácter laboral.
 
-V. Mostrar una especial atención por aquellos subordinados que enfrentan dificultades, problemas familiares o personales de cualquier tipo, procurando la búsqueda de solución a los mismos y ofrecer la orientación adecuada, conociendo de forma diferenciada las necesidades del personal masculino y femenino.
+### CAPÍTULO SEGUNDO
 
-###### Artículo 40.
+De la Programación de los Egresos.
 
-Por la jerarquía que ocupan en la Comisión Estatal de Seguridad, son deberes del Comisario General, Comisario Jefe, Comisario, Inspector General, Inspector Jefe, e Inspector; Director, Jefe de Departamento, Jefe de Oficina y Jefe de Sección de la Institución:
+###### ARTÍCULO 42.
 
-I. Constituirse en reguladores y jueces de la conducta de sus subalternos; para el efecto las omisiones y faltas de estos, las juzgarán y sancionarán con objetividad, proporcionalidad y justicia; razones por las que están obligados a ser modelos de honorabilidad, rectitud y mesura.
+Los Presupuestos de Egresos tendrán una base programática y se le dará una sustentación, lo suficientemente amplia, que abarque todas las responsabilidades de los sujetos de esta Ley.
 
-II. Proteger moral y materialmente a sus subalternos, distinguiendo sus cualidades y buena conducta, estimulándolos por todos los medios que dispongan, dándole a estos lo que por su mérito corresponda.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
 
-III. Abstenerse de participar directa o indirectamente en actividades proscritas por la Constitución y las Leyes, ya sea por medio de su influencia o valiéndose para ello de los agentes bajo su mando, o de ciudadanos; debiendo tener bien entendido que la Institución debe estar por completo al margen de tales actividades.
+La Secretaría de Hacienda, las Tesorerías Municipales y las Unidades Administrativas equivalentes de los Poderes Legislativo y Judicial, así como de los Órganos Autónomos, definirán, en sus respectivos ámbitos de competencia, la estructura programática del Presupuesto de Egresos.
 
-IV. Preocuparse por el bienestar de sus subordinados, de modo que los vean como buenos padres de familia, así como sus protectores y amigos.
+###### ARTÍCULO 43.
 
-V. Coordinar y organizar programas de orientación y capacitación, a fin de que sus subordinados comprendan plenamente sus atribuciones legales y los derechos de los ciudadanos.
+Los programas que sustenten los presupuestos de egresos deberán señalar objetivos, metas y unidades administrativas responsables de su ejecución.
 
-VI. Desarrollar una gestión que permita crear un ambiente de respeto entre sus subordinados.
+###### ARTÍCULO 44.
 
-VII. Velar porque las órdenes y/o instrucciones que sean impartidas a sus subordinados, estén basadas en las políticas y estrategias encaminadas a la protección y promoción de los valores éticos y morales.
+Para efectos del presente Capítulo, se entenderá por:
 
-VIII. Velar porque todas las denuncias e informes sobre violaciones a las Leyes se investiguen cabalmente, descartando todo acto de parcialidad o negligencia intencional motivada por algún provecho personal o de particulares.
+I. Programa: El conjunto de actividades vinculadas entre sí y relacionadas con las atribuciones y obligaciones de los responsables de su ejecución; está encaminado a la consecución de objetivos, beneficios y metas específicos; establecen unidades de medida y unidades administrativas responsables de su ejecución; y, son la base para la asignación de recursos presupuestales;
 
-IX. Conducirse con rectitud, honestidad y estricta imparcialidad, haciendo uso de sus facultades, ante las actitudes negativas que pudieran presentarse, no dejando de tomar las medidas de lugar ante cualquier tipo de infracción realizada por algún servidor público operativo y/o administrativo.
+II. Objetivo: La expresión general cualitativa de lo que se pretende alcanzar en cada programa y que es la base para la evaluación de los avances de los mismos;
 
-X. Cumplir y hacer cumplir todas las disposiciones establecidas en el presente Reglamento.
+III. Meta: La descripción concreta de las actividades que se esperan realizar en un período determinado en relación directa con los objetivos respectivos;
 
-###### Artículo 41.
+IV. Unidades Administrativas Responsables: Las Unidades Administrativas designadas para ejecutar los Programas.
 
-Los integrantes de la Comisión Estatal de Seguridad de Tlaxcala, deben exhibir una actitud personal dentro del seno de la sociedad y la familia, encaminada al fomento de aquellas normas morales y altruistas que les permitan aportar las condiciones favorables para el normal desenvolvimiento y crecimiento de las mismas.
+###### ARTÍCULO 45.
 
-### CAPÍTULO VI. DE LOS DEBERES DE LOS SUPERIORES JERÁRQUICOS
+Los sujetos de la presente Ley cuidarán que la formulación de los programas a incorporar en sus respectivos Presupuestos de Egresos, sea sobre bases reales y que los objetivos y metas planeados en los mismos atiendan las necesidades mínimas de la comunidad, de acuerdo a las prioridades establecidas por el Ejecutivo del Estado y los Ayuntamientos en los Planes de Desarrollo y a la disponibilidad de recursos humanos, materiales y financieros, así como a las condiciones de la Deuda Pública que, en su caso, tengan contratada.
 
-###### Artículo 42.
+Asimismo, los Titulares de los sujetos de esta Ley cuidarán que el alcance de sus programas, objetivos y metas sea congruente con los Presupuestos de Egresos aprobados por el Congreso del Estado, por el Titular del Ejecutivo del Estado o por los Ayuntamientos, en sus respectivos ámbitos de competencia.
 
-El integrante de la Comisión Estatal de Seguridad de Tlaxcala, debe mantener relaciones positivas y constructivas con los sectores sociales de la comunidad a la que sirve, y en la que vive; igualmente brindará su aporte personal para el logro de vida comunal socialmente sana y segura.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
 
-###### Artículo 43.
+###### ARTÍCULO 46.
 
-El integrante de la Comisión Estatal de Seguridad de Tlaxcala, actuará por iniciativa propia, a requerimiento de autoridad competente o atendiendo la petición de auxilio de algún ciudadano, en forma ágil y oportuna ante cualquier situación que atente contra el orden público y la seguridad de las personas, aún si se encuentra fuera de servicio.
+En cada una de las Dependencias y Entidades del Poder Ejecutivo y de los Municipios, los encargados de ejecutar los programas serán los responsables del avance de los mismos y deberán informar periódicamente de los resultados obtenidos, por conducto de sus Titulares, a la Secretaría de Hacienda y Tesorerías Municipales, respectivamente; en los Poderes Legislativo y Judicial, así como en los Órganos Autónomos, se dará cumplimiento a esta disposición a través de las Unidades Administrativas equivalentes.
 
-###### Artículo 44.
+### CAPÍTULO TERCERO
 
-Todo integrante de la Comisión Estatal de Seguridad de Tlaxcala, promoverá relaciones familiares armoniosas, basadas en el amor, el respeto y la solidaridad, alejado de actos de violencia, humillaciones, discriminaciones, amenazas u ofensas que lesionen los derechos humanos y las buenas relaciones familiares.
+Del Control Presupuestal de los Egresos.
 
-###### Artículo 45.
+###### ARTÍCULO 47.
 
-Todo integrante de la Comisión Estatal de Seguridad de Tlaxcala, cuidará que su participación en actos públicos o en medios de difusión oral, electrónica, escrita y/o en redes sociales, sea con el máximo respeto a su figura, salvaguardando bajo cualquier circunstancia su propio prestigio y sobre todo el de la Institución.
+Los sujetos de esta Ley deberán llevar el control presupuestal de los egresos considerando el presupuesto aprobado, el presupuesto modificado, el presupuesto comprometido, el presupuesto devengado, el presupuesto ejercido y el presupuesto pagado, dichas definiciones se sujetarán a lo que establezca el CONAC, y en su caso, la información complementaria que emita el Consejo.
 
-###### Artículo 46.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2021)</small>
 
-Los integrantes de la Comisión Estatal de Seguridad de Tlaxcala, deben respetar en todo momento y circunstancia, el buen nombre, la dignidad y la honra de los demás miembros de la Institución sin importar su jerarquía, adscripción y/o funciones, absteniéndose de utilizar expresiones o críticas injuriosas, calumniosas, difamantes o hacer juicios de valor que puedan ir en menoscabo de la reputación moral, profesional y el prestigio de éstos o de sus familiares.
+###### ARTÍCULO 48.
 
-### CAPÍTULO VII. DE LOS DEBERES DEL MANDO SUPERIOR
+La Secretaría de Hacienda en coordinación con la Secretaría de la Honestidad y la Función Pública y las Tesorerías Municipales en coordinación con las Sindicaturas Municipales, podrán solicitar, y obtener de las Dependencias y Entidades la información programática y presupuestal que se requiera para el seguimiento, evaluación y control del ejercicio del Presupuesto de Egresos, de conformidad con las prioridades y estrategias establecidas en los Planes de Desarrollo respectivos, así como la información relativa a la aplicación sustantiva de la perspectiva de equidad de género en los programas y presupuestos.
 
-###### Artículo 47.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-Todos los integrantes de la Comisión Estatal de Seguridad de Tlaxcala, deberán ser solidarios con todos los servidores públicos operativo (sic) y/o administrativos de la Institución o con aquellos en situación de retiro, brindando un trato especial a aquellos afectados por problemas de salud o enfermedades que limiten su actuar y condiciones de vida, así como con los que en el cumplimiento del deber o en ocasión del servicio, han incurrido involuntaria o circunstancialmente en hechos tipificados como delitos y se encuentren en algún proceso judicial y/o administrativo.
+En los Poderes Legislativo y Judicial, así como en los Órganos Autónomos, el seguimiento, evaluación y control del ejercicio del Presupuesto de Egresos estará en los mismos términos, a cargo de las Unidades Administrativas equivalentes a las mencionadas en el párrafo anterior.
 
-###### Artículo 48.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
 
-Los integrantes de la Comisión Estatal de Seguridad de Tlaxcala, fomentarán el respeto, equidad e integración entre los hombres y mujeres de la Institución, promoverán la igualdad y la ampliación de espacios de interacción entre ambos.
+###### ARTÍCULO 49.
 
-###### Artículo 49.
+La Secretaría de Hacienda en el Poder Ejecutivo; las Tesorerías en los Municipios; y las Unidades Administrativas equivalentes en las Entidades Paraestatales y Paramunicipales, en los Poderes Legislativo y Judicial, así como en los Órganos Autónomos, vigilarán que se realicen las acciones necesarias para mantener el equilibrio presupuestal en el caso en que durante el ejercicio de que se trate se presenten situaciones que indiquen que los ingresos reales serán inferiores a los ingresos presupuestados y, por ende, pueden resultar insuficientes para cubrir el Presupuesto de Egresos aprobado.
 
-Los integrantes de la Comisión Estatal de Seguridad de Tlaxcala, desarrollarán relaciones de carácter profesional, técnico y humano con el personal de nuevo ingreso a la carrera policial, contribuyendo con su proceso de inducción a la vida policial, para el fortalecimiento y el buen funcionamiento de la Institución.
+### CAPÍTULO CUARTO
 
-### CAPÍTULO VIII. DE LA ACTITUD DEL SERVIDOR PÚBLICO OPERATIVO Y/O ADMINISTRATIVO EN LA SOCIEDAD Y LA FAMILIA
+De las Modificaciones a los Presupuestos de Egresos.
 
-###### Artículo 50.
+###### ARTÍCULO 50.
 
-Los integrantes de la Comisión Estatal de Seguridad de Tlaxcala, en el cumplimiento de sus deberes y obligaciones, estarán sometidos a las siguientes regulaciones:
+Si algunas partidas presupuestales requieren modificarse para adecuar su disponibilidad durante la vigencia del Presupuesto de Egresos, se estará a lo siguiente:
 
-I. Evitar el tráfico de influencias y el conflicto de intereses en actividades que desarrollen o pudiesen desarrollar.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE MAYO DE 2021)</small>
 
-II. No valerse de su grado, cargo o condición como integrante de la Institución, para realizar gestiones o actividades propias del servicio policial, para beneficiarse directa o indirectamente en términos económicos o materiales, sea a sí mismo, a algún familiar o conocido.
+I. El Ejecutivo del Estado solicitará por conducto de la Secretaría de Hacienda, la autorización del Congreso del Estado, y a su vez, deberá remitir simultáneamente copia de dicha solicitud, a la Auditoría Superior del Estado de Baja California, para efectuar la creación o supresión de partidas presupuestales, así como la ampliación, transferencia o reducción de recursos en las partidas del Presupuesto de Egresos autorizado a la Administración Pública Centralizada del Poder Ejecutivo, misma que deberá obtenerse antes de ejercer la modificación solicitada; excepto cuando se trate de las siguientes modificaciones presupuestales, sobre las cuales sólo se deberá dar aviso al Congreso del Estado dentro de los quince días siguientes a la fecha en que se efectúen:
 
-III. Abstenerse de usar uniformes, distintivos, condecoraciones, escudos, banderas, lemas, papelería especializada o cualquier otro recurso técnico u electrónico perteneciente a la Institución, en actividades ajenas a la misma y que conlleven interés o lucro personal.
+a) Cuando se efectúen transferencias entre partidas presupuestales de un mismo ramo y capítulo en el Presupuesto de Egresos respectivo, siempre y cuando la transferencia presupuestal acumulada para cada partida afectada no exceda del 15% del monto autorizado para la misma en el Presupuesto de Egresos de inicio del ejercicio.
 
-IV. Respetar las Leyes, Reglamentos y disposiciones de tránsito, observando las medidas de seguridad que esto implica, mientras conducen vehículos de motor.
+b) Cuando se efectúen transferencias de distintos ramos y/o capítulos de gasto para incrementar el presupuesto de los programas de Inversión en Obra Pública; siempre y cuando la transferencia presupuestal acumulada para cada partida afectada no exceda del 15% del monto autorizado para la misma en el Presupuesto de Egresos de inicio del ejercicio, sin que en ningún caso se afecten las partidas de asistencia social.
 
-V. Abstenerse de utilizar los equipos sonoros o luminosos que se encuentran en los vehículos asignados a funciones administrativas, salvo en situaciones apremiantes o de emergencias, cuando los servidores públicos administrativos brinden el apoyo a un ciudadano víctima de un delito.
+c) Cuando se trate de partidas de ampliación automática a las que se refiere el Artículo 54 de esta Ley.
 
-VI. Hacer uso correcto de los bienes que se les hayan proporcionado para el desempeño de sus servicios, evitando que por actos indebidos, omisiones o negligencia, puedan resultar afectados.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
 
-VII. Usar armas o equipos pertenecientes a la Institución para realizar servicios de vigilancia privada, así como utilizar subalternos bajo su mando en actividades remuneradas con propósitos distintos a las misiones establecidas en las normas y Reglamentos de la Comisión Estatal de Seguridad de Tlaxcala.
+El Congreso del Estado, resolverá lo procedente, dentro de los treinta días siguientes a la recepción de la solicitud. La falta de respuesta por parte del Congreso del Estado dentro del plazo señalado será una aprobación tácita, salvo que medie requerimiento de información adicional al respecto por parte de éste o de la Auditoría Superior del Estado, prorrogándose el plazo en los mismos términos a partir de la recepción de la información requerida, por una sola ocasión, así como en caso de que se susciten situaciones de emergencia, desastre, urgencia, caso fortuito o fuerza mayor cuya afectación, a juicio de la Autoridad competente, imposibilite el debido desarrollo y cumplimiento de las labores parlamentarias que realiza el Congreso del Estado o las funciones de la Auditoría Superior del Estado; quedando en suspenso el plazo para su resolución hasta en tanto se reanuden las labores respectivas, mismo que no deberá exceder de treinta días naturales, para lo cual, el Congreso del Estado a través de la Comisión correspondiente deberá notificar a la entidad la reactivación del cómputo del plazo para la resolución de su solicitud. En tanto que para efecto de las excepciones señaladas en los incisos a), b) y c) anteriores, el Congreso del Estado resolverá lo procedente al evaluar la información de los avisos, los informes de avances de gestión y al cierre presupuestal del ejercicio.
 
-VIII. Abstenerse de permitir o encubrir a lo interno o externo de la Institución, el consumo ilegal de drogas o sustancias controladas.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
 
-IX. Abstenerse de actuar de manera agresiva o arbitraría, usar violencia física innecesaria que pueda afectar la integridad y los derechos humanos de las personas denunciantes, víctimas, sospechosos, sus propios familiares y/o usuarios de los servicios policiales y mucho menos exponerlos a ellos, así como a sus bienes a riesgos injustificados.
+Los Titulares de las Entidades Paraestatales ejercerán las modificaciones presupuestales una vez que, en su caso, les hayan sido aprobadas por el Ejecutivo del Estado, debiendo remitir al Congreso del Estado, dentro de los 15 días siguientes a su aprobación, por conducto de la Secretaría de Hacienda, la creación o supresión de partidas presupuestales, así como la ampliación, transferencia o reducción de recursos en las partidas del Presupuesto de Egresos autorizado, para conocimiento y revisión de la Cuenta Pública. Misma obligación tendrán cuando se trate de partidas de ampliación automática.
 
-X. Privarse de interferir en el desarrollo normal de los procesos investigativos policiales o judiciales, mediante cualquier acto que afecte el correcto procesamiento de los casos.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE MAYO DE 2021)</small>
 
-XI. Evitar mantener relaciones afectivas, de amistad o contractuales con personas que quieran obtener provecho y/o ventaja de sus funciones, así como a suministrarles directa o indirectamente, información con la que puedan lacerar las actividades de la Comisión Estatal de Seguridad de Tlaxcala.
+II. El Titular del Poder Judicial solicitará al Congreso del Estado la autorización correspondiente, y a su vez, deberá remitir simultáneamente copia de dicha solicitud, a la Auditoría Superior del Estado de Baja California, para efectuar la creación o supresión de partidas presupuestales, así como la ampliación, transferencia o reducción de recursos en las partidas de su Presupuesto de Egresos, misma que deberá obtenerse antes de ejercer la modificación solicitada; excepto cuando se trate de transferencias presupuestales que se efectúen dentro de un mismo grupo de gastos en el Presupuesto de Egresos, en cuyo caso sólo se deberá dar aviso al Congreso del Estado dentro de los quince días siguientes a la fecha en que se efectúen, siempre y cuando la transferencia presupuestal acumulada para cada partida afectada no exceda del 15% del monto autorizado para la misma en el Presupuesto de Egresos de inicio del ejercicio. Sobre estas transferencias el Congreso del Estado resolverá lo procedente al evaluar la información de los avisos, los informes de avances de gestión y el cierre presupuestal del ejercicio.
 
-XII. No ejercer coacción o cualquier forma ilícita de presión para obtener declaración de personas sospechosas o testigos.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
 
-XIII. Abstenerse de inducir, forzar o estimular a cualquier persona, a contratar servicios profesionales de cualquier naturaleza.
+En los casos en que se solicite ampliar el presupuesto autorizado del ejercicio del Poder Judicial, por motivos distintos a los de ampliación automática, la solicitud de autorización deberá acompañarse de la opinión de la Secretaría de Hacienda sobre la viabilidad financiera de la propuesta.
 
-XIV. No involucrarse en actividades que en forma alguna impliquen conflicto de intereses o sean incompatibles con sus deberes, funciones o responsabilidades.
+Para efectos de la resolución del Congreso del Estado se estará a lo dispuesto en el penúltimo párrafo de la fracción I del presente Artículo.
 
-###### Artículo 51.
+Tratándose de partidas de las consideradas de ampliación automática, deberá darse aviso al Congreso del Estado dentro de los 15 días siguientes a la fecha en que las mismas se efectúen.
 
-Los integrantes de la Comisión Estatal de Seguridad de Tlaxcala, deben exhibir una actitud personal dentro del seno de la sociedad y la familia, encaminada al fomento de aquellas normas morales y altruistas que les permitan aportar las condiciones favorables para el normal desenvolvimiento y crecimiento de las mismas.
+III. Tratándose del Presupuesto de Egresos del Poder Legislativo, las solicitudes de modificaciones presupuestales se tramitarán a través de las Comisiones competentes, que aprueben su presupuesto, para la consecuente resolución por el Pleno del Congreso, misma que deberá obtenerse antes de ejercer la modificación solicitada.
 
-###### Artículo 52.
+Tratándose de transferencias presupuestales que se efectúen dentro de un mismo grupo de gastos del Presupuesto de Egresos, solo deberá dar aviso al Congreso del Estado dentro de los 15 días siguientes a la fecha en que se efectúen, siempre y cuando la transferencia presupuestal acumulada para cada partida afectada no exceda del 15% del monto autorizado para la misma en el Presupuesto de Egresos de inicio de ejercicio. Sobre estas transferencias el Congreso del Estado resolverá lo procedente al evaluar la información de los avisos, los informes de avances de gestión y el cierre presupuestal del ejercicio.
 
-El integrante de la Comisión Estatal de Seguridad de Tlaxcala, debe mantener relaciones positivas y constructivas con los sectores sociales de la comunidad a la que sirve, y en la que vive; igualmente brindará su aporte personal para el logro de vida comunal socialmente sana y segura.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
 
-###### Artículo 53.
+En las modificaciones que contemplen una ampliación al Presupuesto autorizado del ejercicio, por motivos distintos a los considerados de ampliación automática, se deberá obtener la opinión de la Secretaría de Hacienda sobre la viabilidad financiera.
 
-El integrante de la Comisión Estatal de Seguridad de Tlaxcala, actuará por iniciativa propia, a requerimiento de autoridad competente o atendiendo la petición de auxilio de algún ciudadano, en forma ágil y oportuna ante cualquier situación que atente contra el orden público y la seguridad de las personas, aún si se encuentra fuera de servicio.
+Para efectos de la resolución del Congreso del Estado, se estará a lo dispuesto en el penúltimo párrafo de la fracción I del presente Artículo.
 
-###### Artículo 54.
+Tratándose de partidas de las consideradas de ampliación automática, deberá darse aviso al Congreso del Estado dentro de los 15 días siguientes a la fecha en que las mismas se efectúen.
 
-Todo integrante de la Comisión Estatal de Seguridad de Tlaxcala, promoverá relaciones familiares armoniosas, basadas en el amor, el respeto y la solidaridad, alejado de actos de violencia, humillaciones, discriminaciones, amenazas u ofensas que lesionen los derechos humanos y las buenas relaciones familiares.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE MAYO DE 2021)</small>
 
-###### Artículo 55.
+IV. El Presidente Municipal y los Titulares de las Entidades Paramunicipales solicitarán, por conducto de la Tesorería Municipal, la autorización del Ayuntamiento para efectuar la creación o supresión de partidas presupuestales, así como la ampliación, transferencia o reducción de recursos en las partidas de sus respectivos Presupuestos de Egresos, misma que deberá obtenerse antes de ejercer la modificación solicitada; excepto cuando se trate de las siguientes modificaciones presupuestales, sobre las cuales sólo se deberá dar aviso al Ayuntamiento dentro de los quince días siguientes a la fecha en que se efectúen:
 
-Todo integrante de la Comisión Estatal de Seguridad de Tlaxcala, cuidará que su participación en actos públicos o en medios de difusión oral, electrónica, escrita y/o en redes sociales, sea con el máximo respeto a su figura, salvaguardando bajo cualquier circunstancia su propio prestigio y sobretodo el de la Institución.
+a) Cuando se efectúen transferencias entre partidas presupuestales de un mismo ramo y capítulo de gasto en el Presupuesto de Egresos respectivo, siempre y cuando la transferencia presupuestal acumulada para cada partida afectada no exceda del 15% del monto autorizado para la misma en el Presupuesto de Egresos de inicio del ejercicio.
 
-### CAPÍTULO IX. DE LA RELACIÓN ENTRE LOS INTEGRANTES DE LA COMISIÓN ESTATAL DE SEGURIDAD DE TLAXCALA
+b) Cuando se efectúen transferencias de distintos capítulos de gasto para incrementar el presupuesto de los programas de Inversión en Obra Pública; siempre y cuando la transferencia presupuestal acumulada para cada partida afectada no exceda del 15% del monto autorizado para la misma en el Presupuesto de Egresos de inicio del ejercicio, sin que en ningún caso se afecten las partidas de asistencia social.
 
-###### Artículo 56.
+c) Cuando se trate de partidas de ampliación automática a las que se refiere el Artículo 54 de esta Ley.
 
-Todos (sic) integrantes de la Comisión Estatal de Seguridad de Tlaxcala, sin importar el tipo de plaza con la que cuenten, están en el deber de cumplir las órdenes legales, lógicas y reglamentariamente impartidas por sus superiores jerárquicos en cuanto al servicio se refiere, independientemente de que éstas representen un cambio de área, lugar de trabajo o de funciones, que por las necesidades del servicio se requieran.
+El Ayuntamiento resolverá lo procedente, dentro de los treinta días siguientes a la recepción de la solicitud. La falta de respuesta por parte del Ayuntamiento dentro del plazo señalado será una aprobación tácita, salvo que medie requerimiento de información adicional al respecto por parte de éste, prorrogándose el plazo en los mismos términos a partir de la recepción de la información requerida, así como en caso de que se susciten situaciones de emergencia, desastre, urgencia, caso fortuito o fuerza mayor cuya afectación, a juicio de la Autoridad competente, imposibilite el debido desarrollo y cumplimiento de las labores que realiza el Ayuntamiento; quedando en suspenso el plazo para su resolución hasta en tanto se reanuden las labores, mismo que no deberá exceder de treinta días naturales, para lo cual, el Ayuntamiento a través de la Comisión correspondiente, deberá notificar a la entidad la reactivación del cómputo del plazo para la resolución de su solicitud. En tanto que para efecto de las excepciones señaladas en los incisos a), b) y c) anteriores, el Ayuntamiento resolverá lo procedente al evaluar la información de los avisos, los informes de avances de gestión y el cierre presupuestal del ejercicio. Las modificaciones, y en su caso, la certificación del Acuerdo del Ayuntamiento en que se autoricen, deberán ser remitidas dentro de los quince días siguientes al Congreso del Estado para su conocimiento y efectos de revisión de la Cuenta Pública.
 
-###### Artículo 57.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE MAYO DE 2021)</small>
 
-Es deber de todos los integrantes de la Comisión Estatal de Seguridad de Tlaxcala, oponerse a la violación de los derechos humanos consagrados en la Constitución y las Leyes, debiendo actuar de forma diligente para prevenir, cuando la naturaleza de los hechos lesione los derechos de los ciudadanos.
+V. Los Órganos Autónomos, por conducto de su Titular, solicitarán al Congreso del Estado la autorización correspondiente, y a su vez, deberá remitir simultáneamente copia de dicha solicitud, a la Auditoría Superior del Estado de Baja California, para efectuar la creación o supresión de partidas presupuestales, así como la ampliación, transferencia o reducción de recursos en las partidas de su Presupuesto de Egresos, misma que deberá obtenerse antes de ejercer la modificación solicitada.
 
-###### Artículo 58.
+Tratándose de transferencias presupuestales que se efectúen dentro de un mismo grupo de gastos del Presupuesto de Egresos, sólo deberá dar aviso al Congreso del Estado dentro de los 15 días siguientes a la fecha en que se efectúen, siempre y cuando la transferencia presupuestal acumulada para cada partida afectada no exceda del 15% del monto autorizado para la misma en el Presupuesto de Egresos de inicio de ejercicio. Sobre estas transferencias el Congreso del Estado resolverá lo procedente al evaluar la información de los avisos, los informes de avances de gestión y el cierre presupuestal del ejercicio.
 
-Toda orden que pueda conllevar un perjuicio grave o irreparable a un tercero, deberá ser advertido inmediatamente al superior que la impartió; de mantenerse la orden, el subalterno que la recibió, podrá acudir a una autoridad superior, a fin de que tome las medidas pertinentes. Bajo ninguna circunstancia el integrante de la Comisión Estatal de Seguridad de Tlaxcala cumplirá dicha orden, si implica violación manifiesta de las Leyes establecidas, así como de los derechos y la dignidad de las personas.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
 
-###### Artículo 59.
+En los casos en que se solicite ampliar el Presupuesto autorizado del ejercicio a los Órganos Autónomos, por motivos distintos a los de ampliación automática, la solicitud de autorización deberá acompañarse de la opinión de la Secretaría de Hacienda sobre la viabilidad financiera de la propuesta.
 
-Todo integrante de la Comisión Estatal de Seguridad de Tlaxcala, es personalmente responsable de las acciones u omisiones en que haya incurrido u ordenado y que no estén normadas en la Constitución y las leyes, así como en la legislación policial.
+Para efectos de la resolución del Congreso del Estado se estará a lo dispuesto en el penúltimo párrafo de la fracción I del presente Artículo.
 
-###### Artículo 60.
+Tratándose de partidas de las consideradas de ampliación automática, deberá darse aviso al Congreso del Estado dentro de los 15 días siguientes a la fecha en que las mismas se efectúen.
 
-Ningún integrante de la Comisión Estatal de Seguridad de Tlaxcala, podrá ser sancionado penal o disciplinariamente cuando se haya rehusado a cumplir una orden ilegal.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2021)</small>
 
-###### Artículo 61.
+Las solicitudes de modificaciones a las partidas presupuestales que se presenten para su autorización al Congreso del Estado o Ayuntamiento respectivo según corresponda, deberán ser presentadas antes del quince de octubre del ejercicio fiscal que se trate. Tratándose del Poder Ejecutivo del Estado, cuando inicie su encargo constitucional, la administración entrante tendrá hasta el quince de noviembre del ejercicio de que se trate.
 
-Se considerará inobservancia a los preceptos éticos, toda acción u omisión realizada por cualquier servidor público operativo y/o administrativo, que afecte o tienda a trastornar la conducta, la moral, el honor, la buena imagen y demás principios y valores de la Comisión Estatal de Seguridad de Tlaxcala.
+###### ARTÍCULO 51.
 
-La inobservancia a los preceptos éticos, será conocida conforme a lo establecido en el Régimen Disciplinario de la Comisión Estatal de Seguridad de Tlaxcala.
+En los casos de declaratoria de emergencia por situaciones de desastres naturales, salud o seguridad pública que realice el Ejecutivo del Estado o los Presidentes Municipales, cuando así lo consideren indispensable podrán autorizar, en cualquier momento, en los Presupuestos de Egresos de las Administraciones Públicas Centralizadas y Descentralizadas de sus respectivos ámbitos de competencia, la creación o supresión de partidas, así como la transferencia, ampliación y reducción de recursos de partidas de los Presupuestos de Egresos respectivos, modificando la estructura administrativa y financiera de los programas incluidos en los mismos, debiendo informar dentro de los quince días siguientes al Congreso del Estado o al Cabildo, según corresponda, sobre la medida adoptada justificando la disposición, a efecto de que dentro de los treinta días siguientes, éstos dictaminen sobre la procedencia de la medida tomada.
 
-###### Artículo 62.
+El Congreso del Estado o Cabildo, según corresponda, para efectos de proceder a la dictaminación respectiva, podrán requerir información adicional, prorrogándose el plazo de dictaminación por una sola ocasión, en un término de treinta días contados a partir de la recepción de la información requerida.
 
-Los principios y valores éticos contenidos en el presente Código tienen un carácter enunciativo, por tanto, cualquier conducta que se considere contraria a tales preceptos, podrá considerarse violatoria al mismo y dar lugar a un proceso administrativo, sustanciado por la Unidad de Asuntos Internos, cuando se trate de personal operativo, y por la Contraloría Interna de la Comisión Estatal de Seguridad, cuando se trate de personal administrativo.
+En caso de que se susciten situaciones de emergencia, desastre, urgencia, caso fortuito o fuerza mayor cuya afectación, a juicio de las Autoridades competentes, imposibilite el debido desarrollo y cumplimiento de las labores parlamentarias que realiza el Congreso del Estado o las funciones del Ayuntamiento; quedará en suspenso el plazo para la dictaminación a que se refiere el presente Artículo, hasta en tanto se reanuden las labores respectivas, mismo que no deberá exceder de treinta días naturales, para lo cual, a través de la Comisión correspondiente, el Congreso del Estado o el Ayuntamiento según corresponda, deberá notificar a la entidad la reactivación del cómputo del plazo para la dictaminación.
 
-### CAPÍTULO XIV. DE LA COMISIÓN DE ÉTICA
+###### ARTÍCULO 52.
 
-###### Artículo 63.
+En los Presupuestos de Egresos de los sujetos de la presente Ley, se deberán hacer las adecuaciones presupuestales necesarias a fin de satisfacer las obligaciones legales derivadas de los laudos o resoluciones que se dicten en su contra en materia laboral, a efecto de ser cumplidas.
 
-La Comisión de Ética es el órgano responsable de elaborar planes y programas orientados a la prevención de la corrupción operativa y administrativa y la sujeción de las actuaciones de los integrantes de la Comisión Estatal de Seguridad de Tlaxcala, a los principios y valores contenidos en el presente código.
+###### ARTÍCULO 53.
 
-### CAPÍTULO XV. DE LA DECLARACIÓN DE COMPROMISOS
+Cualquier modificación a los programas y metas que sustentan el
 
-###### Artículo 64.
+Presupuesto de Egresos autorizado a los sujetos de esta Ley, deberá someterse, en lo conducente, al procedimiento de autorización a que se refiere el Artículo 50 de la misma.
 
-En virtud de que el principio del honor, el espíritu del servicio y el valor del sacrificio son la esencia del Servicio Público, se establece la siguiente:
+###### ARTÍCULO 54.
 
-DECLARACIÓN DE COMPROMISOS ÉTICOS, los cuales serán observados por todos los servidores públicos de la Comisión Estatal de Seguridad de Tlaxcala a fin de crear en estos un sentido de pertenencia institucional:
+Se considerarán partidas de ampliación automática las expresamente señaladas en los Presupuestos de Egresos autorizados en cada ejercicio fiscal a los sujetos de esta Ley.
 
-I. Me exigiré como integrante operativo y/o administrativo de la Comisión Estatal de Seguridad de Tlaxcala, un estricto apego a la legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos. El estandarte de mi vocación, es el escudo de mi decisión.
+Las partidas que durante el ejercicio de que se trate hayan sido ampliadas en forma automática al amparo de lo señalado en el párrafo anterior, no podrán ser reducidas ni transferidas a otras partidas del Presupuesto de Egresos, salvo que se trate de ampliaciones automáticas derivadas de transferencias de recursos federales, cuando no se contraponga a sus respectivas reglas de operación.
 
-II. Serviré con ética, profesionalismo y honor a la sociedad a la que me debo y de la que provengo.
+###### ARTÍCULO 55.
 
-III. Desempeñaré mi labor sin solicitar ni aceptar compensaciones, pagos, dádivas o gratificaciones, distintas a las que legalmente me correspondan.
+Los sujetos de la presente Ley, en todos los casos de solicitud de autorización de creación o supresión de partidas presupuestales, así como la ampliación, transferencia o reducción de recursos en las partidas de sus respectivos Presupuestos de Egresos, inclusive las de ampliación automática, deberán acompañar la información sobre los programas que se pretendan crear o suprimir y los que hayan sido o pretendan ser afectados.
 
-IV. Tengo la certeza absoluta, que al tener la vocación de ser Policía, hace que mi misión en la sociedad sea un factor importante para hacer la vida digna de ser vivida.
+### CAPÍTULO QUINTO
 
-V. Seré inteligente y disciplinado al desempeñar mi labor, para que mi fortaleza sea compromiso de servir.
+Del Ejercicio del Gasto Público.
 
-VI. Seré recto y prudente, para así lograr la confianza plena del ciudadano.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-VII. Seré ecuánime y sereno en los momentos difíciles, para lograr así un mejor desempeño de mis funciones.
+###### ARTÍCULO 56.
 
-VIII. Obedeceré las órdenes sustentadas y fundamentadas de mis superiores jerárquicos, con lealtad, eficiencia, orgullo y dignidad.
+El ejercicio del gasto público comprende el manejo y aplicación de los recursos con perspectiva de equidad de género, así como su justificación, comprobación y pago, con base en el Presupuesto de Egresos aprobado.
 
-IX. Cumpliré con la máxima prontitud y diligencia las tareas que me sean encomendadas, y me abstendré de cualquier acto u omisión que provoque la deficiencia de las mismas.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
 
-X. Desarrollaré el autocontrol y tendré constantemente presente el bienestar de los demás.
+Para tales efectos, la Secretaría de Hacienda, las Tesorerías Municipales y las Unidades Administrativas equivalentes de las Entidades, Poderes Legislativo y Judicial, así como de los Órganos Autónomos, llevarán el control presupuestal establecido en el Capítulo Tercero del presente Título.
 
-XI. Seré un ejemplo en el respeto a la ley en todo en mis labores administrativas, policiales y en todos y cada uno de mis actos, dentro del servicio y/o trabajo.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2021)</small>
 
-XII. Mantendré con carácter reservado lo que vea u oiga, que por su naturaleza sea confidencial u oficial, a menos que el cumplimento de mis obligaciones ordene lo contrario.
+###### ARTÍCULO 57.
 
-XIII. Nunca actuaré complacientemente ni permitiré que sentimientos personales, prejuicios o amistades influyan sobre mis decisiones o sobre el modo de cumplir mi deber.
+Para la ejecución del gasto público, las Dependencias y Entidades del Poder Ejecutivo y de los Municipios, deberán sujetarse a las prevenciones de esta Ley y observarán las disposiciones que al efecto expidan la Secretaría de Hacienda y las Tesorerías Municipales, dentro de sus respectivos ámbitos de competencia, así como en lo conducente, en la Ley General de Contabilidad y la normatividad que emita el CONAC.
 
-XIV. Nunca toleraré ningún tipo de delito y procuraré tenazmente la aprehensión y procesamiento de las personas que infrinjan la ley.
+Los Poderes Legislativo y Judicial, así como los Órganos Autónomos atenderán las disposiciones expedidas por sus respectivas Unidades Administrativas equivalentes a las señaladas en el párrafo anterior.
 
-XV. En todo momento haré cumplir la ley en forma cortés y apropiada, sin temor ni favor, malicia ni mala voluntad.
+###### ARTÍCULO 58.
 
-XVI. Respetaré siempre la dignidad y los derechos de las personas.
+Los sujetos de la presente Ley sólo podrán ejercer el Presupuesto de Egresos que les haya sido aprobado.
 
-XVII. Me comprometeré a seguir los objetivos e ideales implementados en la Institución a la que pertenezco.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2021)</small>
 
-XVIII. Me esforzaré en la disciplina, la lealtad, la honradez y la vocación de servicio, para que sean las mejores virtudes que me identifiquen ante la sociedad.
+###### ARTÍCULO 59.
 
-XIX. No permitiré que influyan en mis juicios y conducta, intereses que puedan perjudicar o beneficiar a personas o grupos en contra del bienestar de la sociedad.
+Toda erogación a cargo de los Presupuestos de Egresos de los sujetos de la presente Ley deberá ser indispensable, con enfoque de género, normal y propia de quien los realiza, de aplicación estricta al ramo, capítulo, concepto y partida al que corresponda, y ajustada a la descripción de la partida contra la cual se realiza el cargo. La comprobación del gasto público se efectuará con la documentación original que demuestre la entrega del pago correspondiente y que reúna los requisitos que establecen las disposiciones fiscales y las reglas generales que emitan la Secretaría de Hacienda, las Tesorerías Municipales y las Unidades Administrativas equivalentes, en el ámbito de sus respectivas competencias, las cuales se harán del conocimiento del Congreso del Estado para los efectos de la revisión de la Cuenta Pública.
 
-XX. Debo estar consciente de que, el servicio público es un patrimonio que pertenece a todos los ciudadanos y que representa una misión que sólo adquiere legitimidad cuando busca satisfacer las demandas sociales y no cuando se persiguen beneficios individuales.
+Una erogación se entenderá justificada cuando se destine a lograr los programas autorizados y existan las disposiciones y documentos legales que determinen el compromiso u obligación de hacer el pago, y que además exista la evidencia de haber sido tramitada ante las instancias facultadas para dotar de los recursos humanos, materiales o financieros.
 
-XXI. Fomentaré la credibilidad de la sociedad en las instituciones públicas y contribuiré a generar una cultura de confianza y de apego a la verdad.
+Así mismo, la Entidad tendrá la obligación de verificar que los documentos comprobatorios de las erogaciones a su cargo, que entreguen los proveedores de bienes o servicios, sean legalmente válidos de acuerdo con los requisitos establecidos en las disposiciones fiscales aplicables.
 
-XXII. No debo utilizar mi empleo para obtener algún provecho o ventaja personal o a favor de terceros.
+###### ARTÍCULO 60.
 
-XXIII. Nunca aceptaré o buscaré compensaciones o prestaciones de cualquier persona u organización que puedan comprometer mi desempeño como servidor público.
+Toda erogación o gasto público deberá contar con saldo suficiente en la partida del Presupuesto de Egresos respectivo y su ejercicio se sujetará a los requisitos que se establezcan en la normatividad respectiva.
 
-XXIV. Actuaré sin conceder preferencias o privilegios indebidos a organización o persona alguna.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2021)</small>
 
-XXV. Mi compromiso será tomar decisiones y ejercer mis funciones de manera objetiva, sin prejuicios personales y sin permitir la influencia indebida de otras personas.
+###### ARTÍCULO 61.
 
-XXVI. En todo momento me conduciré con apego a las normas jurídicas y/o administrativas, inherentes a mi función.
+La Secretaría de Hacienda, así como las Tesorerías Municipales, en el ámbito de sus respectivas competencias, serán las encargadas de recaudar los ingresos de las Dependencias, y efectuar los pagos que requieran éstas para hacer frente al ejercicio del gasto público establecido en el Presupuesto de Egresos.
 
-XXVII. Será mi obligación conocer, cumplir y hacer cumplir las disposiciones jurídicas y administrativas que regulen el ejercicio de mis funciones.
+Las Entidades manejarán sus fondos y efectuarán sus pagos a través de sus Tesorerías o Unidades Administrativas equivalentes que para el efecto establezcan. Misma disposición aplicará tratándose de los Poderes Legislativo y Judicial, así como de los Órganos Autónomos.
 
-XXVIII. Seré responsable de desempeñar mis funciones en forma adecuada y sujetarme a la evaluación de la propia sociedad.
+###### ARTÍCULO 62.
 
-XXIX. Asumiré la responsabilidad de desempeñar mis funciones, con eficacia y calidad, además de contar con plena disposición para desarrollar procesos de mejora continua.
+Las erogaciones del gasto público que realicen los sujetos de la presente Ley, deberán efectuarse con cheque nominativo y para abono en cuenta del beneficiario, salvo que se trate de las excepciones siguientes:
 
-XXX. Seré solidario y respetuoso con las personas con capacidades especiales, adultos mayores, migrantes y en general con los que menos tienen, con mis compañeros con los que interactuó, para alcanzar mi desarrollo integral como servidor público y como ciudadano.
+a) Las relativas a las remuneraciones por la prestación de servicios personales subordinados, que podrán realizarse a través de operaciones electrónicas con instituciones del Sistema Financiero Mexicano, mediante la transferencia a las respectivas cuentas individuales personales;
 
-XXXI. No permitiré que influyan en mi actuación, circunstancias ajenas que propicien el incumplimiento de la responsabilidad que debo brindar
+b) Los pagos a quienes presten servicios personales independientes que se hayan asimilado a salarios en los términos de la legislación fiscal correspondiente;
 
-XXXII. Estaré obligado como servidor público a reconocer y considerar en todo momento los derechos, libertades y cualidades inherentes a la condición humana.
+c) Los pagos realizados a proveedores de bienes y servicios y aquellos en los que exista la factibilidad de realizarse mediante transferencias electrónicas con abono a sus respectivas cuentas bancarias;
 
-XXXIII. Me convertiré en un decidido promotor de valores y principios Éticos y Morales, en el desempeño de mi cargo público la moral, la virtud, el deber, la felicidad y el buen vivir.
+d) Las relativas a gastos menores y a gastos diversos sujetos a comprobación, que podrán realizarse en efectivo siempre que se apeguen a la normatividad específica y que se realicen a través de fondos revolventes cuyos reembolsos se realicen mediante cheques nominativos o transferencias electrónicas a las cuentas individuales de los responsables de la administración de dichos fondos; y,
 
-XXXIV. Tendré especial responsabilidad, ya que a través de mi actitud, actuación y desempeño construiré la confianza de los ciudadanos en la Comisión Estatal de Seguridad de Tlaxcala.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2022)</small>
 
-XXXV. Asumiré el liderazgo dentro de Comisión Estatal de Seguridad de Tlaxcala, fomentando conductas que promuevan una cultura ética y de calidad en el servicio público.
+e) Los pagos a personas físicas beneficiarias de programas de ayudas sociales, en cuyo caso los mismos deberán realizarse a través de cheque nominativo y con la leyenda "NO NEGOCIABLE" o mediante operaciones electrónicas, de conformidad con las reglas de operación que para tales efectos emitan los sujetos de esta Ley en el ámbito de sus respectivas competencias.
 
-### CAPÍTULO XVI. REVISIONES Y MODIFICACIONES AL CÓDIGO DE ÉTICA
+###### ARTÍCULO 63.
 
-###### Artículo 65.
+Dentro de los términos legales para la presentación de la Cuenta
 
-Toda regulación no enunciada en el presente Código y que se considere favorable para el mejoramiento de los principios y valores que deben exhibir los integrantes de la Comisión Estatal de Seguridad de Tlaxcala, será propuesta por la Comisión de Ética, para la ponderación del Consejo de Honor y Justicia, a fin de realizar las modificaciones y adiciones que consideren de lugar para su posterior inclusión.
+Pública Anual ante el Congreso del Estado, deberá adjuntarse la información relativa al cierre del ejercicio presupuestal y programático, precisando las modificaciones realizadas durante el ejercicio, señalando las autorizaciones y avisos que las sustentan en los términos de esta Ley.
 
-SANCIONES ADMINISTRATIVAS
+###### ARTÍCULO 64.
 
-La inobservancia de los preceptos de ética y conducta considerados en el presente Código serán sancionados conforme a lo dispuesto en la Ley General de Responsabilidades Administrativas publicada en el Diario Oficial de la Federación, el 18 de julio de 2016.
+Las asignaciones consignadas en los Presupuestos de Egresos aprobados a los sujetos de la presente Ley, señalan el límite máximo de las erogaciones del que no podrán excederse.
+
+En el ejercicio fiscal que resulte excedente de ingresos sobre egresos, cualquiera que sea la causa de éste, de las Entidades que reciben subsidio o aportación de las Administraciones Públicas Centralizadas del Poder Ejecutivo y de los Municipios, se aplicará a cuenta del subsidio o aportación que les corresponda en el siguiente ejercicio fiscal, cuando no sean reprogramados y ejercidos en el mismo ejercicio.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
+
+###### ARTÍCULO 65.
+
+El Ejecutivo del Estado y los Ayuntamientos determinarán la forma en que deberán invertirse los subsidios que se otorguen a las Entidades, instituciones públicas o privadas y particulares, quienes proporcionarán a la Secretaría de la Honestidad y Función Pública o a la Sindicatura Municipal, según corresponda, la información que se les solicite sobre la aplicación de los mismos.
 
 ###### ARTÍCULO 66.
 
@@ -695,7 +911,9 @@ La Oficialía Mayor de la Secretaría de Hacienda informará a la Secretaría de
 
 En los Poderes Legislativo y Judicial así como en los Órganos Autónomos, igual responsabilidad de mantener un registro de personal tendrán las Unidades Administrativas equivalentes a las mencionadas en el párrafo anterior.
 
-### CAPÍTULO X. DEL CUMPLIMIENTO DEL DEBER
+### CAPÍTULO SEXTO
+
+De los Egresos Propios y Transitorios.
 
 ###### ARTÍCULO 71.
 
@@ -721,7 +939,11 @@ VII. Otros de naturaleza análoga.
 
 Las operaciones transitorias no formarán parte del Presupuesto de Ingresos y Egresos de los sujetos de esta Ley, sin embargo, si lo serán del flujo de efectivo que deberán elaborar para la debida administración de sus recursos disponibles en numerario y que formará parte de su información financiera.
 
-### CAPÍTULO XI. DE LA ACTITUD DEL SERVIDOR PÚBLICO OPERATIVO Y/O ADMINISTRATIVO EN LA SOCIEDAD Y LA FAMILIA
+### CAPÍTULO SÉPTIMO
+
+De las Erogaciones Plurianuales.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 7 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 73.
 
@@ -759,7 +981,11 @@ Los montos de las erogaciones plurianuales contratadas al amparo del presente Ar
 
 DE LOS SISTEMAS DE EVALUACIÓN.
 
-### CAPÍTULO XII. DE LAS ÓRDENES Y SU CUMPLIMIENTO
+### CAPÍTULO PRIMERO
+
+Del Sistema de Evaluación del Desempeño.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 74.
 
@@ -811,7 +1037,11 @@ Las autoridades competentes en materia de evaluación del gasto público deberá
 
 Los resultados de la Evaluación del Desempeño deberán ser considerados en la asignación de recursos presupuestales.
 
-### CAPÍTULO XIII. DE LA INOBSERVANCIA A LOS PRINCIPIOS ÉTICOS
+### CAPÍTULO SEGUNDO
+
+De la Evaluación del Gasto Público.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 80.
 
@@ -1185,29 +1415,63 @@ Los responsables garantizarán a través de embargo precautorio y en forma indiv
 
 Las responsabilidades que se constituyan tendrán por objeto indemnizar por los daños y perjuicios que se ocasionen a la Hacienda Pública de los sujetos de esta Ley, las que tendrán el carácter de créditos fiscales.
 
-## TRANSITORIOS
+## ARTICULOS TRANSITORIOS
 
-PRIMERO.- El presente Código entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+PRIMERO.- La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado, con las salvedades plasmadas en los artículos Transitorios subsecuentes.
 
-SEGUNDO.- El presente Código de Ética de la Comisión Estatal de Seguridad de Tlaxcala, deberá darse a conocer a todos los integrantes de la Comisión, en un término no mayor de diez días hábiles, posteriores a su publicación oficial.
+SEGUNDO.- Las disposiciones previstas en la presente Ley que se derivan de regulaciones contenidas en la Ley General de Contabilidad Gubernamental y/o en las normas emitidas por el CONAC, entrarán en vigor en las fechas a partir de las cuales las disposiciones transitorias de la citada Ley las consideran de aplicación obligatoria.
 
-TERCERO.- El Comité de Ética e Integridad, referida en el presente Código, iniciara sus funciones quince días posteriores a la entrada en vigor de este instrumento.
+En tanto suceda lo anterior, se seguirá aplicando en lo conducente la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Baja California que se abroga.
 
-CUARTO.- Los planes y programas orientados a la prevención de la corrupción; deberán ser formulados a los treinta días naturales posteriores a la publicación de este Código.
+TERCERO.- Se abroga la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Baja California, publicada en el Periódico Oficial del Estado No. 30, el día 20 de Septiembre de 1992, a partir de la entrada en vigor de la presente Ley. Los asuntos que se encuentren en trámite o en proceso al entrar en vigor la Ley materia del presente Decreto, se seguirán tramitando hasta su conclusión en términos de la referida Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Baja California.
 
-QUINTO.- El presente Código entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+CUARTO.- El Consejo deberá instalarse en un plazo no mayor a treinta días naturales y emitir sus reglas de operación en un plazo no mayor de sesenta días naturales, ambos contados a partir de la entrada en vigor de la presente Ley, en términos del artículo Primero Transitorio.
 
-Dado en la Cuidad de Tlaxcala de Xicohténcatl, a los veintiséis días del mes de marzo de dos mil diecinueve.
+QUINTO.- Los representantes de los Poderes Legislativo y Judicial, así como de los Municipios, Órganos Autónomos y Órgano de Fiscalización Superior del Estado que integran el Consejo, deberán notificar su representación al Secretario Técnico en un plazo no mayor a veinte días naturales contados a partir de la entrada en vigor de la presente Ley, en términos del artículo Primero Transitorio.
 
-MAESTRO EDUARDO VALIENTE HERNÁNDEZ
+SEXTO.- Las Unidades Administrativas competentes de los sujetos de la presente Ley, en el ámbito de sus respectivas competencias, deberán concluir la implementación del Sistema de Evaluación del Desempeño a que se refiere el Capítulo Primero del Título Cuarto de esta Ley, con la debida anticipación, para efecto de propiciar que los recursos presupuestales del ejercicio fiscal 2013, se asignen en sus respectivos presupuestos, con base a los resultados de las Evaluaciones del Desempeño realizadas.
 
-COMISIONADO ESTATAL DE SEGURIDAD
+SÉPTIMO.- Por lo que respecta a la Información Financiera que integra los Informes de Avance de Gestión y Cuenta Pública a que se refiere el Artículo 82 de esta Ley, se entregara dicha información conforme a la nueva estructura, a partir del 01 de enero de 2012. Por lo que respecta a los Ayuntamientos y entidades paramunicipales, entregarán dicha información conforme a la nueva estructura a partir del 01 de enero de 2013.
 
-Rúbrica y sello
+DADO en el Salón de Sesiones "Lic. Benito Juárez García" del H. Poder Legislativo del Estado de Baja California, en la Ciudad de Mexicali, B.C., a los siete días del mes de septiembre del año dos mil diez.
 
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+DIP. JUAN MANUEL GASTÉLUM BUENROSTRO
 
-P.O. DE 2 DE JULIO DE 2025.
+P R E S I D E N T E
+
+DIP. CARLOS ALONSO ANGULO RENTERIA
+
+S E C R E T A R I O
+
+DE CONFORMIDAD CON LO DISPUESTO POR LA FRACCIÓN I DEL ARTÍCULO 49 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, IMPRÍMASE Y PUBLÍQUESE.
+
+MEXICALI, BAJA CALIFORNIA, A LOS QUINCE DIAS DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL DIEZ.
+
+JOSÉ GUADALUPE OSUNA MILLÁN.
+
+GOBERNADOR DEL ESTADO.
+
+CUAUHTÉMOC CARDONA BENAVIDES.
+
+SECRETARIO GENERAL DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE JUNIO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 2012.
+
+Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2012.
+
+PRIMERO.- Las presentes Reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Dentro de un plazo que no excederá de 160 días naturales, contados a partir de la entrada en vigor de las presentes reformas, los Poderes Ejecutivo, Legislativo y Judicial del Estado, y los organismos autónomos, en los términos de las presentes reformas, deberán planear, diseñar, ejecutar y evaluar sus correspondientes presupuestos, con perspectiva de equidad de género.
+
+P.O. 3 DE MAYO DE 2013.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1237,17 +1501,7 @@ P.O. 7 DE NOVIEMBRE DE 2014.
 
 P.O. 28 DE JUNIO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL ESTADO DE TLAXCALA”.]
-
-Artículo Primero. El presente Código de Conducta de la Secretaría de Seguridad Ciudadana, se aprobó en la Primera Sesión Ordinaría celebrada el 10 de abril de 2025.
-
-Artículo Segundo. El presente Código de Conducta entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
-
-Artículo Tercero. Se abroga el Código Conducta de la Comisión Estatal de Seguridad, de fecha diecisiete de abril de dos mil diecinueve, publicado en el Periódico Oficial del Gobierno del Estado Tlaxcala, Tomo XCVIII, Segunda Época.
-
-Artículo Cuarto. Se abroga el Código de Ética de la Comisión Estatal de Seguridad de fecha diez de abril de dos mil diecinueve, publicado en el Periódico Oficial del Gobierno del Estado Tlaxcala, Tomo XCVIII, Segunda Época.
-
-Artículo Quinto. El Presente Código de Conducta de la Secretaría de Seguridad Ciudadana, deberá darse a conocer a las personas servidoras públicas integrantes de la Secretaría, así como hacerlo extensivo a toda persona que se encuentre cumpliendo actividades con motivo de la realización de servicio social, prácticas profesionales y de otras personas que no se reconozcan como personas servidoras públicas de la Secretaría.
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 349 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 19 DE LA LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ###### ARTÍCULO ÚNICO.
 
@@ -1304,3 +1558,29 @@ P.O. 1 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 324 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS DE LOS ARTÍCULOS 3, 23 Y 92 BIS DE LA LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 4 DE NOVIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 13 MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA QUE REFORMA LOS ARTÍCULOS 3 Y 9 DE LA LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.”
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS”.]
+
+PRIMERO. La presente Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Baja California y sus Municipios entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del del Estado de Baja California, con la salvedad plasmada en el párrafo segundo del Artículo Transitorio siguiente.
+
+SEGUNDO. Se abroga la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California, publicada en el Periódico Oficial del Estado No. 45, de fecha 22 de octubre de 2010, a partir de la entrada en vigor de la presente Ley.
+
+Los asuntos que se encuentren en trámite o en proceso a la entrada en vigor de la presente Ley, se seguirán tramitando hasta su conclusión en términos de la referida Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California.
+
+TERCERO. Las menciones que, en las leyes, reglamentos, decretos y cualquier disposición administrativa, así como en contratos, convenios y cualquier instrumento jurídico se hagan a la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California, se entenderán referidas a la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Baja California y sus Municipios.
+
+CUARTO. Los lineamientos para la instrumentación de los Anexos Transversales en los Presupuestos de Egresos, señalados en la presente Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Baja California y sus Municipios, deberán publicarse dentro del término de 180 días naturales a la entrada en vigor de la misma.
+
+Los Entes Públicos aplicarán los Anexos Transversales a partir del Presupuesto de Egresos del Ejercicio Fiscal 2027, de conformidad con su disponibilidad presupuestal.
+
+QUINTO. Los Entes Públicos que por cualquier motivo conserven recursos provenientes de subsidios, ayudas o transferencias recibidos en Ejercicios Fiscales anteriores a la entrada en vigor de la presente Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Baja California y sus Municipios, deberán realizar el reintegro de los recursos a la Secretaría de Hacienda o a la Tesorería Municipal, según sea el caso, a más tardar dentro de los primeros 15 días del mes de febrero del año 2026. De no dar cumplimiento al reintegro en el término previsto, la Secretaría de Hacienda o la Tesorería Municipal, según corresponda, lo aplicarán a cuenta del subsidio o aportación del Techo Financiero aprobado para el Ejercicio Fiscal 2026.
