@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-mejora-regulatoria-y-buena-administracion-para-el-145189
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-20"
-last_updated: "2020-11-20"
+last_updated: "2025-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE MEJORA REGULATORIA Y BUENA ADMINISTRACION PARA EL ESTADO DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 34, Y LAS FRACCIONES XXVIII, XXX, XXXII Y XXXIV DEL 44; SE DEROGA LA FRACCIÓN XXXI DEL ARTÍCULO 44; Y ADICIONA LA FRACCIÓN XXVIII BIS AL ARTÍCULO 44, TODOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE 15 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE MEJORA REGULATORIA Y BUENA ADMINISTRACIÓN PARA EL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Número 12 del Periódico Oficial del Estado de Puebla, el viernes 20 de noviembre de 2020.
 
@@ -1470,3 +1472,27 @@ NOVENO. Se abroga la Ley de Mejora Regulatoria para el Estado de Puebla, publica
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Cuatro Veces Heroica Puebla de Zaragoza, a los diez días del mes de noviembre de dos mil veinte. Diputada Presidenta. NORA YESSICA MERINO ESCAMILLA. Rúbrica. Diputado Vicepresidente. NIBARDO HERNÁNDEZ SÁNCHEZ. Rúbrica. Diputado Vicepresidente. RAYMUNDO ATANACIO LUNA. Rúbrica. Diputada Secretaria. LILIANA LUNA AGUIRRE. Rúbrica. Diputada Secretaria. NANCY JIMÉNEZ MORALES. Rúbrica.
 
 Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los diecisiete días del mes de noviembre de dos mil veinte. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. El Secretario de Gobernación. CIUDADANO DAVID MÉNDEZ MÁRQUEZ. Rúbrica. La Secretaria de Planeación y Finanzas. CIUDADANA MARÍA TERESA CASTRO CORRO. Rúbrica. La Secretaria de Administración. CIUDADANA ROSA DE LA PAZ URTUZUÁSTEGUI CARRILLO. Rúbrica. La Secretaria de la Función Pública. CIUDADANA AMANDA GÓMEZ NAVA. Rúbrica. La Secretaria de Economía. CIUDADANA OLIVIA SALOMÓN VIBALDO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 34, Y LAS FRACCIONES XXVIII, XXX, XXXII Y XXXIV DEL 44; SE DEROGA LA FRACCIÓN XXXI DEL ARTÍCULO 44; Y ADICIONA LA FRACCIÓN XXVIII BIS AL ARTÍCULO 44, TODOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se abroga la Ley de Mejora Regulatoria y Buena Administración para el Estado de Puebla publicada en el Periódico Oficial del Estado el veinte de noviembre de dos mil veinte.
+
+TERCERO. Se abroga la Ley de Gobierno Digital para el Estado de Puebla y sus Municipios publicada en el Periódico Oficial del Estado el once de febrero de dos mil quince.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+QUINTO. La Persona Titular de la Gubernatura, dentro de los ciento veinte días naturales a partir de la entrada en vigor de este Decreto, expedirá las reformas al Reglamento Interior de la Secretaría Anticorrupción y Buen Gobierno, así como del Reglamento Interior de la Secretaría de Ciencia, Humanidades, Tecnología e Innovación, en términos del presente Decreto.
+
+SEXTO. En tanto se expidan los manuales administrativos, la Persona Titular de la Autoridad Local de Simplificación y Digitalización está facultada para resolver las cuestiones de procedimiento y operación que se originen por la aplicación de este ordenamiento legal, para fines de orden administrativo.
+
+SÉPTIMO. En un plazo no mayor a treinta días naturales, contados a partir de la entrada en vigor del presente Decreto, las Personas Titulares de los Sujetos Obligados Estatales y Municipales deberán designar a sus respectivos Enlaces de Simplificación y Digitalización.
+
+La designación correspondiente deberá ser notificada a la Agencia de Transformación Digital y Telecomunicaciones, y a la Autoridad Local de Simplificación y Digitalización.
+
+OCTAVO. En un plazo no mayor a treinta días naturales, contados a partir de la entrada en vigor del presente Decreto, las Personas Titulares de los Sujetos Obligados Estatales o Municipales deberán informar a la Agencia de Transformación Digital y Telecomunicaciones todas las soluciones tecnológicas que hayan sido desarrolladas directamente o a través de terceros, para que estas se integren en el Repositorio Nacional de Tecnología Pública en los términos y plazos que defina la Agencia de Transformación Digital y Telecomunicaciones.
