@@ -4,7 +4,7 @@ identifier: "LFTSE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1963-12-28"
-last_updated: "2025-11-14"
+last_updated: "2025-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LFTSE"
 
 LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 28 de diciembre de 1963.
 
@@ -717,6 +717,50 @@ Asimismo, a nadie se le puede obligar a formar parte de un sindicato, a no forma
 > <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 La elección de las directivas sindicales se hará mediante voto personal, libre, directo y secreto de los afiliados, previa convocatoria que se emitirá con una anticipación no menor a quince días y que se difundirá entre todos los miembros del sindicato. El sindicato deberá notificar la convocatoria al Tribunal Federal de Conciliación y Arbitraje con la misma anticipación, el cual podrá verificar el procedimiento de elección por conducto de los servidores públicos o fedatarios que designe para tal efecto. Las elecciones que no cumplan estos requisitos serán nulas.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 69 BIS.- Los sindicatos deberán gozar de adecuada protección contra todo acto de injerencia por parte de las personas servidoras públicas en su constitución, funcionamiento, administración y libre desarrollo de las elecciones sindicales, las condiciones de elegibilidad, la reelección y/o la destitución de las directivas de los sindicatos. Cualquier contravención a estas disposiciones será considerada falta administrativa grave y sancionada en los términos de la Ley General de Responsabilidades Administrativas.
+
+Se entenderán como acto de injerencia sindical, entre otras, las siguientes conductas:
+
+I. Coaccionar, inducir o amenazar a personas trabajadoras o agremiadas para participar o abstenerse de participar en eventos de campaña sindical, o para votar por una planilla, dirigente o sindicato determinado.
+
+II. Ejercer presión o intimidación jerárquica sobre subordinados para que expresen públicamente su apoyo o rechazo a determinada candidatura sindical.
+
+III. Obligar o condicionar la asistencia a actos, mítines o reuniones sindicales con fines de proselitismo.
+
+IV. Condicionar la prestación de servicios institucionales, apoyos, licencias o permisos laborales a la emisión del voto o apoyo hacia una planilla sindical.
+
+V. Ofrecer beneficios laborales, ascensos, estímulos o promociones a cambio de apoyo o voto sindical.
+
+VI. Negar, suspender o limitar derechos o programas internos, capacitaciones, bonos o reconocimientos como represalia por no apoyar determinada opción sindical.
+
+VII. Utilizar programas institucionales o apoyos sociales para inducir o coaccionar el voto sindical.
+
+VIII. Destinar, utilizar o permitir el uso de fondos, bienes, servicios o personal institucional para favorecer o perjudicar a determinada planilla, corriente o dirigencia sindical.
+
+IX. Difundir propaganda, mensajes o material institucional que promueva o desacredite a una candidatura o grupo sindical.
+
+X. Permitir el uso de instalaciones, vehículos, redes o infraestructura pública para actos de campaña o propaganda sindical.
+
+XI. Proporcionar apoyo o servicios institucionales para actividades de campaña sindical.
+
+XII. Realizar aportaciones o solicitar contribuciones a subordinados para financiar campañas o actividades sindicales.
+
+XIII. Usar recursos o programas institucionales con la finalidad de posicionar o promover ante la base trabajadora a una persona servidora pública o dirigente sindical.
+
+XIV. Negarse sin causa justificada a entregar información solicitada por la autoridad sindical o laboral competente, relacionada con el desarrollo de elecciones o procesos democráticos sindicales.
+
+XV. Omitir colaborar o prestar auxilio en los procesos de verificación, vigilancia o supervisión sindical cuando la autoridad lo requiera.
+
+XVI. Omitir actuar con imparcialidad durante los procesos electorales sindicales, afectando la equidad entre candidaturas.
+
+XVII. Actuar con parcialidad o favorecer públicamente a determinada candidatura.
+
+XVIII. Intervenir indebidamente en la equidad del proceso sindical, alterando la neutralidad institucional.
+
+XIX. Utilizar su cargo para influir en la opinión de las personas trabajadoras, afectando la libertad del voto sindical.
 
 ###### ARTICULO 70.
 
@@ -1909,3 +1953,11 @@ Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor 
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
 
 Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+
+D.O.F. 15 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO 69 BIS A LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL, Y SE ADICIONA UN ARTÍCULO 64 QUÁTER A LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Dentro de los 45 días siguientes a la entrada en vigor del presente Decreto y de conformidad con lo previsto en el mismo, las Legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias, deberán realizar las adecuaciones normativas correspondientes.
