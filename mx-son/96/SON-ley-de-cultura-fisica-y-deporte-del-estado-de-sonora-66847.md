@@ -4,7 +4,7 @@ identifier: "SON-ley-de-cultura-fisica-y-deporte-del-estado-de-sonora-66847"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-16"
-last_updated: "2021-03-01"
+last_updated: "2025-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección IV del Boletín Oficial del Estado de Sonora, el lunes 16 de febrero de 2009.
 
@@ -66,6 +66,60 @@ V.- Ordenar y regular a las Asociaciones y Sociedades Deportivas, Deportivo-Recr
 VI.- Promover en la práctica de actividades físicas, recreativas y deportivas el aprovechamiento, protección y conservación adecuada del medio ambiente; y
 
 VII.- Garantizar a todas las personas, sin distinción de género, edad, capacidades diferentes o condición social, la igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen.
+
+> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 2° Bis.
+
+Los Ayuntamientos podrán exentar del pago de contribuciones municipales a aquellos eventos deportivos sin fines de lucro que realicen las asociaciones deportivas, instituciones educativas, gobierno o fundaciones en el Estado.
+
+Se consideran eventos deportivos sin fines de lucro los siguientes:
+
+I.- Eventos de fomento a la salud física y deporte:
+
+a).- Carreras recreativas o familiares.
+
+b).- Rodadas ciclistas comunitarias.
+
+c).- Festivales deportivos escolares o comunitarios.
+
+d).- Clases masivas de activación física en parques o plazas públicas.
+
+II.- Eventos deportivos con fines sociales o solidarios:
+
+a).- Maratones o torneos a beneficio de sectores vulnerables de la sociedad.
+
+b).- Eventos para la inclusión de personas con discapacidad.
+
+c).- Juegos deportivos en comunidades marginadas.
+
+d).- Campañas contra el bullying, obesidad infantil o adicciones mediante el deporte o cualquier fin social o solidario.
+
+III.- Eventos deportivos educativos:
+
+a).- Olimpiadas escolares o intercolegiales.
+
+b).- Torneos universitarios y estudiantiles sin ánimo de lucro.
+
+c).- Encuentros deportivos promovidos por asociaciones civiles educativas.
+
+IV.- Eventos deportivos por causas medio ambientales:
+
+a).- Carreras o competencias por el medio ambiente.
+
+b).- Eventos de ciclismo urbano o movilidad sustentable.
+
+c).- Triatlones o caminatas ecológicas.
+
+V.- Eventos deportivos culturales o tradiciones:
+
+a).- Juegos deportivos indígenas.
+
+b).- Encuentros deportivos comunitarios tradicionales.
+
+c).- Eventos deportivos dentro de fiestas patronales o ferias culturales.
+
+VI.- Cualquier otro evento cuyo objetivo no sea lucrar.
 
 ###### Artículo 3°.
 
@@ -1418,3 +1472,11 @@ B.O. 1 DE MARZO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 15 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 68 (SIC), QUE ADICIONA UN ARTÍCULO 2 BIS A LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
