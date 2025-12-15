@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2025-12-08"
+last_updated: "2025-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2025.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -5682,6 +5682,10 @@ IV.- La maquinaria, instrumentos y animales propios para el cultivo agrícola, e
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
 V.- Un vehículo automotriz cuya propiedad esté debidamente acreditada y que en su primera factura de enajenación la suma de su valor total y del Impuesto al Valor Agregado no exceda las 4515 veces el valor diario de la unidad de medida y actualización.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+Cuando se adquiera un bien inmueble de los señalados en las fracciones I y II del presente artículo, la persona titular de la notaría que otorgue fe del acto, estará obligada a informar a la persona adquiriente la posibilidad de constituir dicho bien como patrimonio de familia.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
@@ -18406,3 +18410,9 @@ P.O. 8 DE DICIEMBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 15 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 316.- SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 746 DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
