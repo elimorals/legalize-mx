@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-prevenir-y-erradicar-la-trata-de-personas-en-el-118681
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-30"
-last_updated: "2023-05-08"
+last_updated: "2025-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA PREVENIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Primera Sección al Número 5 del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de enero de 2017.
 
@@ -679,6 +679,18 @@ IX.- La generación de alternativas para obtener recursos y financiar las accion
 
 X.- El establecimiento de la metodología de evaluación y seguimiento de las actividades que deriven de este programa, fijando indicadores para evaluar los resultados, en coordinación con la Comisión Ordinaria Legislativa de Lucha Contra la Trata de Personas.
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 45 BIS.- El Programa Estatal para Prevenir y Erradicar la Trata de Personas deberá contemplar, además de los elementos generales establecidos en el artículo anterior, contará al menos con las siguientes líneas de acción operativas, por conducto del secretario técnico, la Comisión Interinstitucional:
+
+I. Establecer mecanismos de colaboración formal con la Fiscalía General del Estado y la Secretaría de Seguridad Pública del Estado, para contar con Información recabada, en las instancias de colaboración previstas en la Ley General del Sistema Nacional de Seguridad Pública sobre la dinámica del delito de la trata de personas en el país;
+
+II. Promover convenios de colaboración con instancias competentes en materia de ciberseguridad, para el monitoreo permanente a cargo de la policía cibernética de la secretaría de seguridad pública del Estado para y (sic) detección en la red de informática mundial denominada internet riesgos de trata de personas, en particular a través de las acciones que resulten de la información a que se refiere la fracción anterior;
+
+III. Capacitación permanente al personal de áreas municipales como mercados, licencias y reglamentos para identificar posibles señales de alerta asociadas a actividades de trata de personas, en particular a través de las acciones que resulten de la información a que se refiere la fracción anterior; y
+
+IV. Diseñar e implementar campañas permanentes de sensibilización y protección que permita prevenir la victimización elevando el nivel de seguridad de los grupos vulnerables en función de la información recabada en términos de lo dispuesto en la fracción I de este artículo.
+
 ### CAPÍTULO IV. El Fondo Estatal para la Protección y Asistencia a las Víctimas en Materia de Trata de Personas
 
 ###### ARTÍCULO 46.
@@ -786,3 +798,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 15 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 322.- SE ADICIONA EL ARTÍCULO 45 BIS A LA LEY PARA PREVENIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
