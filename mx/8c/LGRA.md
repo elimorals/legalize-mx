@@ -4,7 +4,7 @@ identifier: "LGRA"
 country: "mx"
 rank: "ley_general"
 publication_date: "2016-07-18"
-last_updated: "2025-01-02"
+last_updated: "2025-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115700&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -26,7 +26,7 @@ abbreviation: "LGRA"
 
 LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el lunes 18 de julio de 2016.
 
@@ -725,6 +725,12 @@ Son faltas administrativas graves las violaciones a las disposiciones sobre fide
 ###### Artículo 64 Ter.
 
 Es falta administrativa grave, la omisión de enterar las cuotas, aportaciones, cuotas sociales o descuentos ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en los términos que señalan los artículos 21 y 22 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 64 Quáter.
+
+Será responsable de injerencia sindical la persona servidora pública que, por sí o por terceros, incurra en las conductas previstas en la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional o en las leyes equivalentes de las entidades federativas.
 
 ### Capítulo III. De los actos de particulares vinculados con faltas administrativas graves
 
@@ -2165,3 +2171,11 @@ D.O.F. 2 DE ENERO DE 2025.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 15 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO 69 BIS A LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL, Y SE ADICIONA UN ARTÍCULO 64 QUÁTER A LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Dentro de los 45 días siguientes a la entrada en vigor del presente Decreto y de conformidad con lo previsto en el mismo, las Legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias, deberán realizar las adecuaciones normativas correspondientes.
