@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-agua-para-el-estado-de-aguascalientes-17314"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-24"
-last_updated: "2025-11-10"
+last_updated: "2025-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de julio de 2000.
 
@@ -183,9 +183,13 @@ VI. La contaminación de los recursos hídricos conllevará la responsabilidad d
 
 VII. Las autoridades implementarán las acciones necesarias para que el desarrollo de los centros urbanos se realice promoviendo el ordenamiento territorial y los mecanismos necesarios para proporcionar los servicios públicos, procurando en todo momento el equilibrio hídrico de conformidad con esta Ley;
 
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE DICIEMBRE DE 2025)</small>
 
-VIII. Las autoridades en el ámbito de su competencia, procurarán la reutilización e incremento de la captación del agua de lluvia en todo el territorio estatal; y
+VIII. Las autoridades, en el ámbito de su competencia, procurarán la captación, reutilización e incremento del aprovechamiento del agua de lluvia en todo el territorio estatal.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+Asimismo, se fomentará la instalación de sistemas para la captación y reutilización de aguas pluviales en todos los edificios públicos de nueva creación, así como en las unidades habitacionales y colonias, que no cuenten con abastecimiento continuo o donde no exista una red de agua potable; y
 
 > <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
@@ -2722,5 +2726,13 @@ P.O. 10 DE NOVIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 276.- SE REFORMA LA LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 15 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 317.- SE REFORMA LA LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
