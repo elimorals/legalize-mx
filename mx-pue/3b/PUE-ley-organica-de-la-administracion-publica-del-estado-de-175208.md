@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-175208"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-11-28"
-last_updated: "2025-07-31"
+last_updated: "2025-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Tercera Edición Vespertina del Número 18 del Periódico Oficial del Estado de Puebla, el jueves 28 de noviembre de 2024.
 
@@ -691,7 +691,9 @@ A la Secretaría Anticorrupción y Buen Gobierno le corresponde el despacho de l
 
 I. Auditar e inspeccionar el ejercicio del gasto público estatal y su congruencia con la Ley de Egresos del Estado, así como con la debida adecuación del marco normativo que debe regir su ejercicio y el cumplimiento de los objetivos de la planeación; concertar con las dependencias y entidades de la Administración Pública Estatal y solicitar a la autoridad competente o a terceros, dictámenes, peritajes, avalúos y cualquier valoración técnica o económica de documentos e información relacionada con las acciones a que se refiere esta fracción;
 
-II. Organizar, supervisar y coordinar el Sistema de Control Interno de la Administración Pública del Estado y coadyuvar con la Secretaría de Planeación, Finanzas y Administración como instancia técnica competente, en la implementación del Sistema de Evaluación del Desempeño; así como coadyuvar con la Secretaría de Ciencia, Humanidades, Tecnología e Innovación respecto del programa de mejora regulatoria y desregulación en la Administración Pública Estatal, además de recibir los informes de resultados y recomendar el mejoramiento de los indicadores para la evaluación de la gestión gubernamental, en los términos de las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+II. Organizar, supervisar y coordinar el Sistema de Control Interno de la Administración Pública del Estado y coadyuvar con la Secretaría de Planeación, Finanzas y Administración como instancia técnica competente, en la implementación del Sistema de Evaluación del Desempeño; así como recomendar el mejoramiento de los indicadores para la evaluación de la gestión gubernamental, en los términos de las disposiciones aplicables;
 
 III. Expedir las normas y políticas que regulen los instrumentos, procedimientos de control interno y de contraloría social en la Administración Pública Estatal, para lo cual podrá requerir de las dependencias competentes que expidan normas complementarias para el ejercicio del control administrativo. Lo anterior, sin menoscabo de las bases y principios de coordinación y recomendaciones emitidas por el Comité Coordinador del Sistema Nacional Anticorrupción y el Comité Coordinador Estatal del Sistema Estatal Anticorrupción;
 
@@ -1567,19 +1569,31 @@ XXVI. Integrar y actualizar la información estadística relacionada con el ámb
 
 XXVII. Revisar, evaluar y actualizar periódicamente las políticas y estrategias de apoyo en materia de ciencias, humanidades, tecnología e innovación, con la finalidad de analizar su impacto en la solución de los problemas del Estado y en la generación del conocimiento;
 
-XXVIII. Diseñar, coordinar y evaluar las políticas y acciones establecidas en la Estrategia de Transformación Digital del Gobierno del Estado, conforme a su normatividad, lineamientos y demás disposiciones administrativas en materia de gestión de datos, gobierno digital, tecnologías de la información, desarrollo tecnológico, conectividad y telecomunicaciones y, en general, respecto a la innovación pública, aplicables a todas las dependencias y entidades de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+XXVIII. Diseñar, dirigir y evaluar las políticas y acciones establecidas en la Estrategia de Transformación Digital del Gobierno del Estado, conforme a su normatividad, lineamientos y demás disposiciones administrativas en materia de gestión de datos, gobierno digital, tecnologías de la información, desarrollo tecnológico, conectividad y telecomunicaciones y, en general, respecto a la innovación pública, aplicables a todas las dependencias y entidades de la Administración Pública Estatal;
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+XXVIII BIS. Coordinar y articular con la Autoridad Nacional de Simplificación y Digitalización, las acciones conducentes para el cumplimiento de la Ley Nacional para Eliminar Trámites Burocráticos, así como la legislación y normatividad en la materia;
 
 XXIX. Dictaminar, en los términos que la política en la materia señale, la factibilidad para la adquisición de tecnologías de la información, de gestión de datos, conectividad y telecomunicaciones de las dependencias y entidades de la Administración Pública Estatal;
 
-XXX. Establecer e implementar las políticas, programas y lineamientos en materia de mejora regulatoria y simplificación administrativa en la Administración Pública Estatal, conforme a las leyes estatales y generales aplicables;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
-XXXI. Establecer las políticas, programas y lineamientos en materia de mejora regulatoria y desregulación en la Administración Pública Estatal;
+XXX. Establecer e implementar la normatividad en materia de simplificación administrativa, digitalización de trámites y servicios, buenas prácticas regulatorias, desarrollo y fortalecimiento de capacidades tecnológicas públicas en la Administración Pública Estatal, conforme a la legislación y normatividad aplicable;
 
-XXXII. Participar, de manera coordinada con las dependencias y entidades de la Administración Pública Estatal responsables de su integración y administración, en el establecimiento y control de plataformas, sistemas y registros electrónicos o informáticos, de conformidad con sus atribuciones en materia de mejora regulatoria y simplificación administrativa, gobierno digital e innovación pública;
+XXXI. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2025)
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+XXXII. Participar de manera coordinada y en el ámbito de su competencia con las dependencias y entidades de la Administración Pública Estatal, en el establecimiento y control de plataformas, sistemas y registros electrónicos o informáticos en materia de simplificación administrativa, digitalización de trámites y servicios, buenas prácticas regulatorias, desarrollo y fortalecimiento de capacidades tecnológicas públicas, gobierno digital e innovación pública;
 
 XXXIII. Implementar y administrar el Registro de Trámites y Servicios Estatales y Municipales que presten las dependencias y entidades de la Administración Pública Estatal y municipales, así como difundirlo a través de medios digitales, tomando las medidas de seguridad necesarias para su operación;
 
-XXXIV. Implementar, administrar y difundir el Registro Único de Personas Acreditadas para la gestión de trámites y servicios de manera digital, adoptando las medidas de seguridad necesarias para su operación mantenimiento y protección;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+XXXIV. Emitir la normatividad conducente para la implementación, administración y difusión del Registro Único de Personas Acreditadas para la gestión de trámites y servicios de manera digital, adoptando las medidas de seguridad necesarias para su operación mantenimiento y protección;
 
 XXXV. Gestionar la obtención de donativos, aportaciones económicas y materiales, para el impulso y fortalecimiento de las actividades a su cargo;
 
@@ -2350,3 +2364,25 @@ DÉCIMO OCTAVO. El Comité del Subsistema de Transparencia deberá instalarse a 
 DÉCIMO NOVENO. El Subsistema de Transparencia propondrá las reglas de operación y funcionamiento del Comité, para que sean aprobadas en la instalación de dicho Comité.
 
 VIGÉSIMO. Se suspenden por un plazo de cuarenta y cinco días hábiles contados a partir de la entrada en vigor del presente Decreto, todos y cada uno de los trámites, procedimientos y los medios de impugnación establecidos en la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla, la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Puebla, y demás normativa aplicable, con excepción de la recepción y atención de las solicitudes de acceso a la información y solicitudes de acceso, rectificación, cancelación y oposición de datos personales, que se tramitan a través de la Plataforma Nacional de Transparencia o por el medio en que fue recepcionado.
+
+P.O. 15 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 34, Y LAS FRACCIONES XXVIII, XXX, XXXII Y XXXIV DEL 44; SE DEROGA LA FRACCIÓN XXXI DEL ARTÍCULO 44; Y ADICIONA LA FRACCIÓN XXVIII BIS AL ARTÍCULO 44, TODOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se abroga la Ley de Mejora Regulatoria y Buena Administración para el Estado de Puebla publicada en el Periódico Oficial del Estado el veinte de noviembre de dos mil veinte.
+
+TERCERO. Se abroga la Ley de Gobierno Digital para el Estado de Puebla y sus Municipios publicada en el Periódico Oficial del Estado el once de febrero de dos mil quince.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+QUINTO. La Persona Titular de la Gubernatura, dentro de los ciento veinte días naturales a partir de la entrada en vigor de este Decreto, expedirá las reformas al Reglamento Interior de la Secretaría Anticorrupción y Buen Gobierno, así como del Reglamento Interior de la Secretaría de Ciencia, Humanidades, Tecnología e Innovación, en términos del presente Decreto.
+
+SEXTO. En tanto se expidan los manuales administrativos, la Persona Titular de la Autoridad Local de Simplificación y Digitalización está facultada para resolver las cuestiones de procedimiento y operación que se originen por la aplicación de este ordenamiento legal, para fines de orden administrativo.
+
+SÉPTIMO. En un plazo no mayor a treinta días naturales, contados a partir de la entrada en vigor del presente Decreto, las Personas Titulares de los Sujetos Obligados Estatales y Municipales deberán designar a sus respectivos Enlaces de Simplificación y Digitalización.
+
+La designación correspondiente deberá ser notificada a la Agencia de Transformación Digital y Telecomunicaciones, y a la Autoridad Local de Simplificación y Digitalización.
+
+OCTAVO. En un plazo no mayor a treinta días naturales, contados a partir de la entrada en vigor del presente Decreto, las Personas Titulares de los Sujetos Obligados Estatales o Municipales deberán informar a la Agencia de Transformación Digital y Telecomunicaciones todas las soluciones tecnológicas que hayan sido desarrolladas directamente o a través de terceros, para que estas se integren en el Repositorio Nacional de Tecnología Pública en los términos y plazos que defina la Agencia de Transformación Digital y Telecomunicaciones.
