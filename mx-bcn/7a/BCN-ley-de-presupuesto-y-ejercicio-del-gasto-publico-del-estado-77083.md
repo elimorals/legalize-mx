@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-presupuesto-y-ejercicio-del-gasto-publico-del-estado-770
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-22"
-last_updated: "2024-11-04"
+last_updated: "2025-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PUBLICO DEL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 15 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2025 (ABROGADO).
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 22 de octubre de 2010.
 
@@ -1562,3 +1564,23 @@ P.O. 4 DE NOVIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 13 MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA QUE REFORMA LOS ARTÍCULOS 3 Y 9 DE LA LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.”
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS”.]
+
+PRIMERO. La presente Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Baja California y sus Municipios entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del del Estado de Baja California, con la salvedad plasmada en el párrafo segundo del Artículo Transitorio siguiente.
+
+SEGUNDO. Se abroga la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California, publicada en el Periódico Oficial del Estado No. 45, de fecha 22 de octubre de 2010, a partir de la entrada en vigor de la presente Ley.
+
+Los asuntos que se encuentren en trámite o en proceso a la entrada en vigor de la presente Ley, se seguirán tramitando hasta su conclusión en términos de la referida Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California.
+
+TERCERO. Las menciones que, en las leyes, reglamentos, decretos y cualquier disposición administrativa, así como en contratos, convenios y cualquier instrumento jurídico se hagan a la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California, se entenderán referidas a la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Baja California y sus Municipios.
+
+CUARTO. Los lineamientos para la instrumentación de los Anexos Transversales en los Presupuestos de Egresos, señalados en la presente Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Baja California y sus Municipios, deberán publicarse dentro del término de 180 días naturales a la entrada en vigor de la misma.
+
+Los Entes Públicos aplicarán los Anexos Transversales a partir del Presupuesto de Egresos del Ejercicio Fiscal 2027, de conformidad con su disponibilidad presupuestal.
+
+QUINTO. Los Entes Públicos que por cualquier motivo conserven recursos provenientes de subsidios, ayudas o transferencias recibidos en Ejercicios Fiscales anteriores a la entrada en vigor de la presente Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Baja California y sus Municipios, deberán realizar el reintegro de los recursos a la Secretaría de Hacienda o a la Tesorería Municipal, según sea el caso, a más tardar dentro de los primeros 15 días del mes de febrero del año 2026. De no dar cumplimiento al reintegro en el término previsto, la Secretaría de Hacienda o la Tesorería Municipal, según corresponda, lo aplicarán a cuenta del subsidio o aportación del Techo Financiero aprobado para el Ejercicio Fiscal 2026.
