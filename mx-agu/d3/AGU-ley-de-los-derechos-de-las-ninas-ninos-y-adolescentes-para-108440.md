@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2025-11-24"
+last_updated: "2025-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -423,9 +423,9 @@ XVIII. Derecho a la seguridad jurídica, al debido proceso y a conocer y ser inf
 
 XIX. Derechos de niñas, niños y adolescentes migrantes;
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
-XX. Derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, en términos de lo previsto en la Ley Federal de Telecomunicaciones y Radio- difusión;
+XX. Derecho de acceso a las tecnologías de la información y comunicación;
 
 > <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2024)</small>
 
@@ -1811,13 +1811,31 @@ III. La consideración de criterios en el diseño del espacio público e infraes
 
 IV. La promoción de espacios y zonas de juego, deportivas y recreativas públicas seguras, accesibles y suficientes, en función de la edad, la diversidad funcional o situación de discapacidad u otras circunstancias, que garanticen su derecho al deporte, al juego, al esparcimiento y el sano desarrollo.
 
-### CAPÍTULO ÚNICO. De Quienes Ejercen la Patria Potestad, Tutela o Guarda y Custodia de Niñas, Niños y Adolescentes
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO XXII. Derecho de Acceso a las Tecnologías de la Información y Comunicación
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 94 Quater.
+
+Niñas, niños y adolescentes gozan del derecho de acceso universal a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, establecido en la Constitución Política de los Estados Unidos Mexicanos y en la Ley Federal de Telecomunicaciones y Radiodifusión. Se garantizará el acceso y uso seguro del Internet, como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento, no discriminación, entre otros, de conformidad con el principio de interdependencia, en términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 94 Quinquies.
+
+El Estado garantizará a niñas, niños y adolescentes su integración a la sociedad de la información y el conocimiento, acorde a los fines establecidos en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Aguascalientes, mediante una política de inclusión digital universal en condiciones de equidad, asequibilidad, disponibilidad, accesibilidad y calidad.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 94 Sexies.
+
+Las madres, padres y quienes tengan a su cargo el cuidado de niñas, niños y adolescentes, instruirán el conocimiento y uso responsable de las tecnologías de la información y comunicación, y deberán velar para que los riesgos derivados del acceso a tal derecho, no afecten o impidan objetivamente su desarrollo integral, por lo que, en caso de que se vulneren sus derechos, ejercerán las acciones legales y medidas pertinentes para garantizar el interés superior de la niñez.
 
 ## TÍTULO TERCERO. DE LAS OBLIGACIONES
 
-### CAPÍTULO ÚNICO. De los Centros de Asistencia Social
-
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2022)</small>
+### CAPÍTULO ÚNICO. De Quienes Ejercen la Patria Potestad, Tutela o Guarda y Custodia de Niñas, Niños y Adolescentes
 
 ###### Artículo 95.
 
@@ -1935,7 +1953,9 @@ No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, ni
 
 ## TÍTULO CUARTO. DE LA PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-### CAPÍTULO I. De las Autoridades
+### CAPÍTULO ÚNICO. De los Centros de Asistencia Social
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2022)</small>
 
 ###### Artículo 100.
 
@@ -2079,7 +2099,7 @@ La Procuraduría de Protección Local será coadyuvante de la Procuraduría de P
 
 ## TÍTULO QUINTO. DE LA PROTECCIÓN Y RESTITUCIÓN INTEGRAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-### CAPÍTULO II. De la Distribución de Competencias
+### CAPÍTULO I. De las Autoridades
 
 ###### Artículo 107.
 
@@ -2087,9 +2107,7 @@ Las autoridades estatales y municipales, incluyendo los organismos constituciona
 
 Las políticas públicas emprendidas por dichas autoridades garantizarán el ejercicio de los derechos de niñas, niños y adolescentes, para lo cual deberán observar el interés superior y asegurar la asignación prioritaria de recursos en términos de las disposiciones aplicables.
 
-### CAPÍTULO III. Del Sistema Local de Protección
-
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2020)</small>
+### CAPÍTULO II. De la Distribución de Competencias
 
 ###### Artículo 108.
 
@@ -2201,9 +2219,9 @@ XIV. Promover políticas públicas a favor de las niñas, niños y adolescentes 
 
 XV. Las demás que establezcan los ordenamientos locales y aquellas que deriven de los acuerdos que, de conformidad con la Ley General, se asuman en el Sistema Nacional DIF y el Sistema DIF Estatal.
 
-### CAPÍTULO IV. De la Secretaría Ejecutiva
+### CAPÍTULO III. Del Sistema Local de Protección
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2020)</small>
 
 ###### Artículo 111.
 
@@ -2379,7 +2397,9 @@ El Sistema Local de Protección Integral se reunirá cuando menos dos veces al a
 
 Para el mejor cumplimiento de sus funciones, el Sistema Local de Protección constituir comisiones encargadas de atender asuntos o materias específicas y emitirá los lineamientos para su integración, organización y funcionamiento, las cuales deberán ser publicadas en el Periódico Oficial del Estado.
 
-### CAPÍTULO V. De la Procuraduría de Protección Local
+### CAPÍTULO IV. De la Secretaría Ejecutiva
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 116.
 
@@ -2447,7 +2467,7 @@ IV. Contar con al menos cinco años de experiencia en las áreas correspondiente
 
 V. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
 
-### CAPÍTULO VI. De los Sistemas Municipales de Protección
+### CAPÍTULO V. De la Procuraduría de Protección Local
 
 ###### Artículo 118.
 
@@ -2583,7 +2603,7 @@ El nombramiento del citado Procurador, deberá ser aprobado por la Junta de Gobi
 
 El Reglamento Interior del Sistema DIF Estatal, conforme a la demanda de servicio que se registre y a la disponibilidad presupuestal, podrá establecer la creación de unidades que permita la desconcentración regional de la Procuraduría de Protección Local, a efecto de que logre la mayor presencia y cobertura posible en los Municipios del Estado.
 
-### CAPÍTULO VII. De la Comisión Estatal de Derechos Humanos
+### CAPÍTULO VI. De los Sistemas Municipales de Protección
 
 ###### Artículo 122.
 
@@ -2649,15 +2669,13 @@ XV. Realizar de manera permanente y continua, campanas de información y divulga
 
 XVI. Las demás que les confieran otras disposiciones aplicables.
 
-### CAPÍTULO VIII. Del Programa Local
+### CAPÍTULO VII. De la Comisión Estatal de Derechos Humanos
 
 ###### Artículo 124.
 
 La Comisión Estatal de Derechos Humanos del Estado de Aguascalientes, deberá establecer áreas especializadas para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes.
 
-### CAPÍTULO IX. Niñas y Niños que Viven con sus Madres en los Centros Penitenciarios
-
-> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+### CAPÍTULO VIII. Del Programa Local
 
 ###### Artículo 125.
 
@@ -2671,9 +2689,9 @@ Los Sistemas Local y Municipales contarán con órganos consultivos de apoyo, en
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-### CAPÍTULO X. Del Registro Nacional de Obligaciones Alimentarias
+### CAPÍTULO IX. Niñas y Niños que Viven con sus Madres en los Centros Penitenciarios
 
-> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 126 Bis.
 
@@ -2683,9 +2701,9 @@ Para los efectos a que se refiere este artículo, se considerará a las niñas y
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE MAYO DE 2025)</small>
 
-### CAPÍTULO ÚNICO. De las Infracciones y Sanciones Administrativas
+### CAPÍTULO X. Del Registro Nacional de Obligaciones Alimentarias
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
 
 ###### Artículo 126 Ter.
 
@@ -2776,6 +2794,10 @@ VI. Los que se realicen ante notario público relativos a la compraventa de bien
 VII. En las solicitudes de matrimonio, el juez del Registro Civil hará del conocimiento si alguno de los contrayentes se encuentra inscrito en el Registro, mencionando la situación que guardan respecto de las obligaciones que tiene.
 
 ## TÍTULO SEXTO. DE LAS INFRACCIONES ADMINISTRATIVAS
+
+### CAPÍTULO ÚNICO. De las Infracciones y Sanciones Administrativas
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
 
 ###### Artículo 127.
 
@@ -3600,3 +3622,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 15 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 314.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
