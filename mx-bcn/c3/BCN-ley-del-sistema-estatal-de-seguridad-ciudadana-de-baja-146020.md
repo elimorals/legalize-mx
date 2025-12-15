@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-sistema-estatal-de-seguridad-ciudadana-de-baja-146020"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2025-12-12"
+last_updated: "2025-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección XI del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2020.
 
@@ -181,7 +181,13 @@ XXIV.- Sistema Nacional: El Sistema Nacional de Seguridad Pública;
 
 XXV.- Sistema Estatal de Información: El Sistema Estatal de Información sobre Seguridad Ciudadana;
 
-XXVI.- Separación definitiva: La terminación de la relación administrativa entre los Miembros y las Instituciones de Seguridad con motivo de la prestación de sus servicios por falta de requisitos de permanencia y por cualquiera otro de los casos previstos en esta Ley.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+XXVI.- Separación definitiva: La terminación de la relación administrativa entre los Miembros y las Instituciones de Seguridad con motivo de la prestación de sus servicios por falta de requisitos de permanencia y por cualquiera otro de los casos previstos en esta Ley, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+XXVII.- Fideicomiso: EI Fideicomiso Público de Seguridad Social sin estructura, creado por el Poder Ejecutivo del Estado de Baja California, para el otorgamiento de prestaciones de seguridad social en favor de los Miembros de las Instituciones Policiales a su cargo, sujeto a las aportaciones realizadas por las Instituciones de Seguridad que correspondan, así como a la suficiencia presupuestal del Estado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -3211,9 +3217,15 @@ Las Instituciones de Seguridad Pública, conforme a lo dispuesto en esta Ley y l
 
 Sin perjuicio de que se establezcan otra clase de medidas dentro de sus respectivos ámbitos de competencia, los municipios del Estado, la persona titular del Poder Ejecutivo, de la Secretaría y de la Fiscalía General del Estado, buscarán la coparticipación de recursos con la federación, con el fin de implementar y fortalecer el derecho a la seguridad social de los Miembros, sus familiares y dependientes económicos; con lo que se garantice la entrega de manera directa y oportuna, en los porcentajes o formas dispuestos en la normatividad aplicable, respecto a los plazos establecidos para el beneficio de los Miembros.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 202.
 
-Las instituciones de Seguridad Pública podrán determinar vía convenio con la institución de seguridad social correspondiente, el otorgamiento de las prestaciones de seguridad social en los términos de esta Ley y la demás normatividad aplicable.
+Las prestaciones de seguridad social previstas en el Capítulo II de este Título, a cargo del Poder Ejecutivo del Estado en favor de los Miembros de sus Instituciones Policiales, se garantizarán a través del Fideicomiso y de las disposiciones normativas que de él deriven o de la institución de seguridad social según corresponda, conforme a los términos y condiciones previstos en esta Ley.
+
+Asimismo, los Municipios que tengan a su cargo alguna Institución Policial, así como la Fiscalía respecto de quienes les resulte aplicable la obligación de garantizar las prestaciones de seguridad social previstas en el Capítulo II de este Título, podrán celebrar un convenio para adherirse al Fideicomiso de conformidad con los mecanismos previstos en el mismo y las disposiciones normativas que de él deriven, o la institución de seguridad social, según corresponda, para el otorgamiento de las prestaciones de seguridad social que les correspondan en los términos y condiciones previstos en esta Ley y la demás normatividad aplicable.
+
+El Fideicomiso podrá realizar convenios de subrogación con instituciones públicas o privadas a fin de que, por conducto de éstas, brinde las prestaciones de seguridad social a las que hacen (sic) referencia el artículo 206 de la presente Ley.
 
 ###### ARTÍCULO 203.
 
@@ -3285,17 +3297,25 @@ XII. Remuneración anual que deberá pagarse en la primera quincena de diciembre
 
 Si con motivo del inicio de un procedimiento de separación definitiva o responsabilidad administrativa se ordena la suspensión preventiva del Miembro, éste, sus familiares y dependientes continuarán gozando de las prestaciones de seguridad social hasta en tanto no quede firme la correspondiente resolución conforme a las disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 208.
 
-La persona titular del Poder Ejecutivo, la Secretaría, la Fiscalía General y Municipios cubrirán al Instituto de Seguridad Social que corresponda, las aportaciones sobre la remuneración base de cotización, asimismo todo Miembro deberá aportar al Instituto de Seguridad Social que corresponda la cuota obligatoria de la remuneración base, dichas aportaciones se aplicarán en los rubros siguientes:
+Las aportaciones que deban cubrir el Poder Ejecutivo, los Municipios que tengan a su cargo alguna Institución Policial, así como las que la Fiscalía deba cubrir respecto de quienes les resulte aplicable y las cuotas de quienes gozarán de las prestaciones de seguridad social previstas en esta Ley, se determinarán sobre la remuneración base de cotización y se aplicarán en los rubros siguientes:
 
 I. Para cubrir seguros de enfermedades no profesionales y de Maternidad;
 
 II. Para cubrir íntegramente el seguro de accidentes del Servicio y Enfermedades Profesionales, y
 
 III. El régimen de pensiones.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 208 BIS.- La persona titular del Poder Ejecutivo por conducto de la dependencia o entidad que tenga a su cargo alguna Institución Policial Estatal cubrirá para el cumplimiento de sus fines al Fideicomiso y las disposiciones normativas que de él deriven, o al Instituto de Seguridad Social según corresponda, las cuotas y aportaciones a que se refiere el artículo anterior.
+
+En su caso, los Municipios que tengan a su cargo alguna Institución Policial, así como la Fiscalía respecto de quienes les resulte aplicable, cubrirán al Instituto de Seguridad Social según corresponda las cuotas y aportaciones a que se refiere el artículo anterior.
+
+Los Municipios que tengan a su cargo alguna institución Policial, así como la Fiscalía respecto de quienes les resulte aplicable, cuando se adhieran al Fideicomiso deberán cubrir la aportación que corresponda en los términos del convenio respectivo y las disposiciones normativas derivadas del Fideicomiso.
 
 ###### ARTÍCULO 209.
 
@@ -3349,9 +3369,11 @@ Las pensiones sólo podrán ser afectadas por mandato judicial. Será nula toda 
 
 Para el cómputo de los años de servicio, se considerará solamente el tiempo efectivo que el Miembro haya prestado sus servicios a la Institución de Seguridad Pública de su adscripción.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 216.
 
-El tiempo de contribución se acreditará con la constancia que expida el Instituto de Seguridad Social que corresponda, encargado de administrar el Fondo de Pensiones, previa consulta del expediente personal y del sistema de registro que para tal efecto se tenga.
+El tiempo de contribución se acreditará con la constancia que expida el Fideicomiso o el Instituto de Seguridad Social según corresponda, encargado de administrar el Fondo de Pensiones, previa consulta del expediente personal y del sistema de registro que para tal efecto se tenga.
 
 ###### ARTÍCULO 217.
 
@@ -3367,9 +3389,11 @@ IV. Para la concubina o concubino si contraen nupcias, viven en nuevo concubinat
 
 ### CAPÍTULO IV. RESPONSABILIDAD Y OBLIGACIONES A CARGO DE LAS INSTITUCIONES POLICIALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 218.
 
-Corresponde a la Institución Policial:
+Corresponde a la dependencia o entidad que tenga a su cargo alguna Institución Policial:
 
 I. Mantener actualizada la plantilla de integrantes adscritos a la Institución Policial;
 
@@ -3377,7 +3401,9 @@ II. Informar el nombre de beneficiarios señalados por el Miembro, por orden de 
 
 III. Informar el nombre de los Miembros que se inhabilitan por riesgo, por causas ajenas al servicio, por cesantía, jubilación y muerte a más tardar diez días naturales posteriores al hecho;
 
-IV. Enterar a los Institutos de Seguridad Social de las cuotas para pensión retenidas a los Miembros de instituciones policiales;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+IV. Enterar las cuotas o aportaciones para pensión retenidas, a los Miembros de instituciones policiales a los Institutos de Seguridad Social o al Fideicomiso en términos del artículo 208 BIS de esta Ley, según corresponda;
 
 V. Enterar sin dilación las cuotas y aportaciones patronales derivados de la aplicación de esta Ley;
 
@@ -3385,11 +3411,15 @@ VI. Archivar los recibos e importes de las retenciones que debieron hacerse;
 
 VII. Las que le señalen la presente Ley y demás disposiciones normativas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 219.
 
-La Institución de Seguridad Publica deberá remitir al Instituto respectivo, la relación de los Miembros sujetos al pago de cuotas actualizada en los meses de enero y julio correspondientes.
+La dependencia o entidad del Poder Ejecutivo que tenga a su cargo alguna Institución Policial Estatal y los Municipios que tengan a su cargo alguna Institución Policial, así como la Fiscalía respecto de quienes les resulte aplicable y que se encuentren adheridos deberán remitir al Fideicomiso la relación de los Miembros beneficiarios del mismo en los términos que este disponga.
 
-Asimismo, la Institución de Seguridad Pública enterará al Instituto de Seguridad Social respectivo, de las cuotas y aportaciones dentro de los 10 días naturales posteriores al pago de prestaciones habituales del Miembro y en la fecha en que ocurran:
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
+En su caso, la autoridad que tenga a su cargo alguna Institución de Seguridad Pública deberá remitir al Instituto de Seguridad Social respectivo, la relación, de los Miembros sujetos al pago de cuotas actualizada en los meses de enero y julio correspondientes, asimismo, deberá enterar a dicho Instituto, las cuotas y aportaciones dentro de los 10 días naturales posteriores al pago de prestaciones habituales del Miembro y en la fecha en que ocurran:
 
 I. Las altas y bajas de los Miembros;
 
@@ -3425,9 +3455,11 @@ Corresponde al Comité de Género, vigilar que se cumpla en todos sus términos 
 
 ### CAPÍTULO V. OTROS BENEFICIOS COMPLEMENTARIOS DE SEGURIDAD SOCIAL
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 222.
 
-Los Miembros podrán disfrutar de los servicios que brinde el Instituto de Seguridad Social respectivo, el cual otorgará todas las facilidades y promoverá con la Institución de Seguridad Pública respectiva los Convenios de Incorporación necesarios para que puedan acceder efectivamente a los beneficios que otorga.
+Los Miembros podrán disfrutar de los servicios que brinde el Fideicomiso o el Instituto de Seguridad Social respectivo, los cuales otorgarán todas las facilidades y promoverá con la Institución de Seguridad Pública respectiva los Convenios de Incorporación necesarios para que puedan acceder efectivamente a los beneficios que otorga.
 
 ###### ARTÍCULO 223.
 
@@ -3626,3 +3658,11 @@ Quinto.- Los contratos cuya naturaleza no sea laboral o burocrática, convenios,
 Sexto.- Los procesos de selección de aspirantes, ingreso, permanencia, desarrollo, evaluación, certificación y promoción de los Miembros de las Instituciones Policiales, que a la fecha de entrada en vigor de las presentes reformas se encuentren en curso o estén pendientes de conclusión seguirán su sustanciación, hasta su conclusión por el Centro de Evaluación y Control de Confianza a cargo de la Secretaría de Seguridad Ciudadana.
 
 Los procesos a que se refiere el párrafo anterior, relativos a los Miembros de la Agencia Estatal de Investigación, Ministerios Públicos, peritos y demás personas servidoras públicas de la Fiscalía General del Estado a quienes les resulte aplicable, serán sustanciados hasta su conclusión por la Unidad Administrativa que determine la Fiscalía General del Estado, sin perjuicio de que se puedan celebrar convenios de colaboración con la Secretaría para la sustanciación y conclusión de estos.
+
+P.O. 15 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 198 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 5, 202, 208, 216, 218, 219, 222 Y ADICIÓN DEL ARTÍCULO 208 BIS A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- En tanto no se emita un nuevo instrumento, el Fideicomiso a que se refiere el presente decreto, será el constituido por el Poder Ejecutivo del Estado de conformidad con el "Programa para el otorgamiento de prestaciones de Seguridad Social en favor de los Miembros de las Instituciones Policiales del Estado", publicado en el Periódico Oficial del Estado en fecha veintiuno de julio de dos mil veintitrés.
