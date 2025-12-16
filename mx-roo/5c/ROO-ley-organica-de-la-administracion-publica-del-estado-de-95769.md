@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-95769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-08-19"
-last_updated: "2025-11-25"
+last_updated: "2025-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número 67 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 19 de agosto de 2013.
 
@@ -777,7 +777,9 @@ XVIII. Dentro del ámbito de su competencia, practicar visitas domiciliarias, au
 
 XIX. Establecer los estímulos y facilidades fiscales que promuevan el desarrollo social y económico del Estado, en coordinación con las dependencias y entidades relacionadas con los sectores de producción y desarrollo social del Estado, en el marco de la legislación y los planes y programas vinculados con la materia;
 
-XX. Sin perjuicio de la competencia que en este rubro corresponda a los Municipios, expedir la documentación para que los vehículos y sus conductores circulen, conforme a las leyes y reglamentos del Estado, así como organizar y actualizar el Registro de Vehículos del Estado; asimismo integrar el padrón de vehículos de los servicios públicos de autotransporte, en todas sus modalidades;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+XX. Sin perjuicio de la competencia que en este rubro corresponda a los Municipios, a través del Servicio de Administración Tributaria del Estado de Quintana Roo, expedir la documentación para que los vehículos y sus conductores circulen conforme a las leyes y reglamentos del Estado; así como integrar, organizar, administrar y actualizar el Registro Estatal Vehicular; expedir permisos o autorizaciones provisionales para la circulación de vehículos sin placas; asimismo, integrar, el padrón de vehículos de los servicios públicos de autotransporte en todas sus modalidades;
 
 XXI. Participar en la elaboración del Plan Estatal de Desarrollo, fijando las políticas relativas a los ingresos y, en coordinación con las demás dependencias competentes, las políticas de egresos, que deberán seguir los programas de las dependencias y entidades del Estado.
 
@@ -2055,9 +2057,9 @@ L.- Tramitar el procedimiento de conciliación y la instancia de inconformidad, 
 
 LI.- Diseñar, coordinar, controlar, supervisar y evaluar las políticas en materia de gobierno digital, inclusión digital, tecnologías de la información, gobernanza tecnológica, y Gobierno Abierto, a través de la Agencia de Transformación Digital del Estado de Quintana Roo, para su uso y aprovechamiento en la Administración Pública Estatal;
 
-> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-LII.- Coordinar, supervisar, regular, vigilar y ejecutar las políticas y el proceso en materia de mejora regulatoria en el Estado, a través de la Agencia de Transformación Digital del Estado de Quintana Roo, de conformidad con lo establecido en la ley de la materia;
+LII.- Coordinar, supervisar, regular, vigilar y ejecutar las políticas en materia de simplificación administrativa, digitalización de trámites y servicios, buenas prácticas regulatorias, desarrollo y fortalecimiento de capacidades tecnológicas públicas en el Estado, a través de la Agencia de Transformación Digital del Estado de Quintana Roo, de conformidad con lo establecido en las disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2025)</small>
 
@@ -3050,3 +3052,19 @@ VIGÉSIMO PRIMERO. No se podrán reducir o ampliar en la normatividad interna de
 VIGÉSIMO SEGUNDO. La Secretaría de Finanzas y Planeación y la Secretaría Anticorrupción y Buen Gobierno, dictarán los lineamientos y disposiciones de carácter general en el ámbito de sus respectivas competencias que se estimen necesarios, en todo aquello que no se haya considerado expresamente en el presente Decreto y su régimen transitorio.
 
 VIGÉSIMO TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 186 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO; LA LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO; LA LEY DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD PARA EL ESTADO DE QUINTANA ROO; LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE QUINTANA ROO; LA LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO; LA LEY DE PRESTACIÓN DE SERVICIOS INMOBILIARIOS DEL ESTADO DE QUINTANA ROO; LA LEY ORGÁNICA DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN DEL ESTADO DE QUINTANA ROO; Y LA LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE QUINTANA ROO Y SE ABROGA LA LEY DE MEJORA REGULATORIA DEL ESTADO DE QUINTANA ROO Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 188 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LA LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA Y LA LEY DE MOVILIDAD, TODAS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones legales de igual o inferior jerarquía que se opongan al presente Decreto.
