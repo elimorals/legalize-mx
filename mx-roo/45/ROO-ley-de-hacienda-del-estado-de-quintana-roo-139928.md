@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-139928"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-18"
-last_updated: "2025-06-10"
+last_updated: "2025-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 18 de diciembre de 2019.
 
@@ -205,9 +205,11 @@ La presente Ley es reglamentaria de los artículos 36 fracción II y 115 de la C
 
 La hacienda pública del Estado de Quintana Roo, percibirá en cada ejercicio fiscal para cubrir el gasto público y demás obligaciones a cargo del Gobierno Estatal, los ingresos por concepto de impuestos, derechos, por venta de bienes, prestación de servicios, productos, aprovechamientos, participaciones, aportaciones, convenios, incentivos derivados de la colaboración fiscal federal, empréstitos, y otros que anualmente se establezcan en la Ley de Ingresos del Estado de Quintana Roo.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 3.
 
-Los ingresos fiscales y los no tributarios que se establecen en este ordenamiento se regularán por lo que en el mismo se señale y por el Código Fiscal del Estado de Quintana Roo.
+Los ingresos fiscales y los no tributarios, así como las obligaciones fiscales que se establecen en este ordenamiento se regularán por lo que en el mismo se señale, por el Código Fiscal del Estado de Quintana Roo, el Reglamento del Código Fiscal del Estado de Quintana Roo y las Reglas de Carácter General que para el efecto emita la autoridad fiscal.
 
 ###### Artículo 4.
 
@@ -415,9 +417,9 @@ En el caso de operaciones consignadas en escritura pública, los Notarios Públi
 
 La relevación a que se refiere el párrafo anterior operará, siempre que las personas físicas dedicadas a actividades empresariales declaren ante las y los Notarios Públicos o Fedatarios que el inmueble forma parte del activo de su actividad empresarial. Para tal efecto se deberá integrar al testimonio notarial la documentación siguiente:
 
-> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-I. Licencia de funcionamiento estatal vigente expedida por el SATQ;
+I. Constancia de Obligaciones Fiscales Estatales, vigente expedida por el SATQ;
 
 > <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2025)</small>
 
@@ -451,7 +453,9 @@ Si para calcular el impuesto señalado, los contribuyentes o los notarios públi
 
 Los notarios públicos deberán verificar que los avalúos que sirvan de base para el cálculo del impuesto a que se refiere esta sección, hubieren sido realizados por Peritos Valuadores Inmobiliarios para Fines Fiscales inscritos en el Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales, ante el SATQ.
 
-Además, los notarios públicos deberán constatar que los avalúos a que se refiere el párrafo anterior cuenten con la validación del SATQ.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+Además, los notarios públicos deberán constatar que los avalúos a que se refiere el párrafo anterior cuenten con la validación del SATQ, y que estos hayan sido emitidos en fecha anterior al otorgamiento del instrumento público.
 
 > <small>(REFORMADO, P.O. 24 DE JULIO DE 2024)</small>
 
@@ -943,7 +947,9 @@ De las Obligaciones y del Pago
 
 Los sujetos del impuesto que regula esta sección y, en su caso, los responsables solidarios a que se refiere la fracción 1 del artículo 54 de esta ley, además de las obligaciones establecidas en el Código, tendrán las siguientes:
 
-I. Exhibir el original del documento que ampare la propiedad del vehículo objeto de la adquisición, especificando la fecha de enajenación, nombre, Registro Federal de Contribuyentes y domicilio del adquiriente; además deberá proporcionar copias simples del mismo por ambos lados, dentro de los treinta días siguientes a la fecha del endoso o a la de adquisición, y
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+I. Exhibir el original del documento que ampare la propiedad del vehículo objeto de la adquisición, especificando la fecha de enajenación, nombre, demostrar estar inscrito en el Registro Estatal de Contribuyentes y domicilio del adquiriente; además deberá proporcionar copias simples del mismo por ambos lados, dentro de los treinta días siguientes a la fecha del endoso o a la de adquisición, y
 
 II. Presentar el comprobante de domicilio del adquirente, que a criterio de la Secretaría se
 
@@ -1001,7 +1007,9 @@ De los Sujetos
 
 Ter. Son sujetos de este impuesto las personas físicas o morales que realicen en el territorio del Estado de Quintana Roo la venta final de bebidas con contenido alcohólico al último adquiriente en envase cerrado, para su consumo o posterior comercialización en envase abierto, a excepción de la cerveza en todas sus presentaciones, aguamiel y productos de su fermentación.
 
-Aquellos contribuyentes que adquieran bebidas con contenido alcohólico en envase cerrado, para su posterior comercialización en envase abierto, estarán obligados a efectuar la retención del Impuesto a la Venta Final de Bebidas con Contenido Alcohólico en envase cerrado, cuando no acrediten que sus proveedores cuenten con inscripción en el Registro Estatal de Contribuyentes en el Estado de Quintana Roo. La retención corresponderá a la tasa prevista en el artículo 60 Quinquies, sin incluir el Impuesto al Valor Agregado y el Impuesto Especial Sobre Producción y Servicios, mismo que se consignará en la constancia de retención que tramitará el cliente en el formato que dará a conocer la Secretaría por conducto del SATQ mediante reglas de carácter general.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+Aquellos contribuyentes que adquieran bebidas con contenido alcohólico en envase cerrado, para su posterior comercialización en envase abierto, estarán obligados a efectuar la retención del Impuesto a la Venta Final de Bebidas con Contenido Alcohólico en envase cerrado, cuando no acrediten que sus proveedores cuenten con su Constancia de Obligaciones Fiscales Estatales, en el Estado de Quintana Roo. La retención corresponderá a la tasa prevista en el artículo 60 Quinquies, sin incluir el Impuesto al Valor Agregado y el Impuesto Especial Sobre Producción y Servicios, mismo que se consignará en la constancia de retención que tramitará el cliente en el formato que dará a conocer la Secretaría por conducto del SATQ mediante reglas de carácter general.
 
 El entero de la retención se efectuará mediante declaración mensual que se presentará a más tardar el día 17 del mes siguiente al que correspondan las retenciones, mediante los formatos que la Secretaría de a conocer por conducto del SATQ mediante reglas de carácter general.
 
@@ -1083,19 +1091,21 @@ Decies. Los Municipios tendrán participación del 20% del monto de la recaudaci
 
 La distribución será en términos del artículo 23-Bis de la Ley de Coordinación Fiscal del Estado de Quintana Roo.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-#### SECCIÓN TERCERA. Del Impuesto Sobre las Erogaciones por Participar en Actividades con Animales Acuáticos
+#### SECCIÓN TERCERA. Del Impuesto Sobre las Erogaciones por Participar en Actividades con Cetáceos
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 Del objeto
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 60
 
-Undecies. Es objeto de este impuesto la erogación que se haga por participar en actividades que se realicen con animales acuáticos, entre estas la recreación, relajación, educación, terapia, natación y cualquiera que requiera una interacción física con animales acuáticos en cautiverio, ya sea que se desarrollen en instalaciones naturales o artificiales dentro del territorio del Estado.
+Undecies. Es objeto de este impuesto la erogación que se haga por participar en actividades que se realicen con cetáceos, entre estas la recreación, relajación, educación, terapia, natación, siempre y cuando el contacto físico entre humanos y cetáceos esté limitado a conductas de nado libre, interacciones supervisadas por una o un entrenador, técnico, manejador o asistente, prohibiendo estrictamente cualquier otra actividad que comprometa su integridad, asegurando en todo momento el trato digno y respetuoso de estos mamíferos, y cualquier interacción deberá ser supervisada y controlada, ya sea que se desarrolle en instalaciones naturales o artificiales dentro del territorio del Estado que cumplan con los requisitos de la Ley General de Vida Silvestre y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 Para estos efectos se considera que se da el supuesto de la erogación efectiva por las actividades citadas, los anticipos, intereses, penalizaciones o cualquier otro concepto relacionado que derive de dichas actividades.
 
@@ -1121,9 +1131,13 @@ Terdecies. Será base de este impuesto, las erogaciones que hagan las personas f
 
 Cuando las erogaciones se realicen de manera conjunta por más de una persona, el impuesto se considerará de manera individual por cada una de ellas.
 
-Cada erogación por participar en actividades que se realicen con animales acuáticos se considerará de manera independiente, aún si esta fue adquirida de forma conjunta con servicios adicionales como accesos a parques, balnearios, centros recreativos, alimentación, bebidas, transportación, entre otros.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-Cuando las actividades que se realicen con animales acuáticos, sean proporcionadas en conjunto con el servicio de hospedaje, la persona retenedora deberá realizar el desglose de los servicios adicionales, como alimentación, transportación y otros similares, incluyendo el hospedaje; en concordancia con lo señalado en el artículo 10 de la Ley del Impuesto al Hospedaje del Estado de Quintana Roo.
+Cada erogación por participar en actividades que se realicen con cetáceos se considerará de manera independiente, aún si esta fue adquirida de forma conjunta con servicios adicionales como accesos a parques, balnearios, centros recreativos, alimentación, bebidas, transportación, entre otros.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+Cuando las actividades que se realicen con cetáceos, sean proporcionadas en conjunto con el servicio de hospedaje, la persona retenedora deberá realizar el desglose de los servicios adicionales, como alimentación, transportación y otros similares, incluyendo el hospedaje; en concordancia con lo señalado en el artículo 10 de la Ley del Impuesto al Hospedaje del Estado de Quintana Roo.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
@@ -1165,11 +1179,13 @@ Del Pago
 
 Septendecies. Las personas retenedoras del impuesto deberán enterar las retenciones efectuadas mediante la presentación de declaraciones mensuales definitivas, a más tardar el día 10 del mes siguiente a aquel en que se causó, en las formas autorizadas por la Secretaría a través del SATQ, conforme a los medios electrónicos dispuestos por este, mismas que se darán a conocer mediante reglas de carácter general.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 60
 
-Octodecies. La persona retenedora que preste los servicios para el desarrollo de actividades con animales acuáticos que realice cancelación de servicios comprometidos por los que haya recibido anticipos u otorgue descuentos o bonificaciones, compensará en las siguientes declaraciones de pagos mensuales definitivos el monto de dichos conceptos del total de los ingresos por los que deba pagar el impuesto siempre que expresamente se haga constar que el presente impuesto se hubiere retenido, se cancele o se restituya, según sea el caso.
+Octodecies. La persona retenedora que preste los servicios para el desarrollo de actividades con cetáceos que realice cancelación de servicios comprometidos por los que haya recibido anticipos u otorgue descuentos o bonificaciones, compensará en las siguientes declaraciones de pagos mensuales definitivos el monto de dichos conceptos del total de los ingresos por los que deba pagar el impuesto, siempre que expresamente se haga constar que el presente impuesto se hubiere retenido, se cancele o se restituya, según sea el caso.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 De los ingresos que se obtengan por la recaudación del presente impuesto, se destinará el 40% del total de la recaudación al Fideicomiso sin estructura denominado Fondo de Protección de Especies Marinas.
 
@@ -1187,11 +1203,15 @@ I. Presentar aviso de alta de la obligación en su carácter de retenedora, util
 
 II Presentar los avisos y cumplir con las obligaciones que se señalan en el Código, en los formatos oficiales presentados ante el Registro Estatal de Contribuyentes y en los plazos establecidos en el propio Código;
 
-III. Expedir comprobantes fiscales, señalando en los mismos, el impuesto retenido a que se refiere este capítulo, a quien reciba los servicios para el desarrollo de actividades con animales acuáticos;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+III. Expedir comprobantes fiscales, señalando en los mismos, el impuesto retenido a que se refiere este capítulo, a quien reciba los servicios para el desarrollo de actividades con cetáceos;
 
 IV. Llevar contabilidad de conformidad con el Código Fiscal del Estado de Quintana Roo, y
 
-V. Proporcionar mensualmente en las formas autorizadas por la Secretaría a través del SATQ, conforme a los medios electrónicos dispuestos por este, la información que se refiere a ingresos en efectivo, por cheques y transferencias derivadas de depósitos, anticipos, intereses y penas convencionales por la prestación o pagos del servicio para el desarrollo de actividades que se realicen con animales acuáticos, a más tardar el día 10 del mes posterior al que corresponda dicha información.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+V. Proporcionar mensualmente en las formas autorizadas por la Secretaría a través del SATQ, conforme a los medios electrónicos dispuestos por este, la información que se refiere a ingresos en efectivo, por cheques y transferencias derivadas de depósitos, anticipos, intereses y penas convencionales por la prestación o pagos del servicio para el desarrollo de actividades que se realicen con cetáceos, a más tardar el día 10 del mes posterior al que corresponda dicha información.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
@@ -1295,15 +1315,121 @@ Son los ingresos que se recauden en el ejercicio corriente, por impuestos pendie
 
 Bis. Son los ingresos que se perciben por conceptos no incluidos en los tipos anteriores, de conformidad con la legislación aplicable en la materia.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIÓN, ENCABEZADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+## TÍTULO II BIS. DE LAS CONTRIBUCIONES DE MEJORA
+
+> <small>(ADICIONADO CON LA SECCIÓN, ENCABEZADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO I. DE LAS CONTRIBUCIONES DE MEJORA DE ZONAS PRIORITARIAS DE GESTIÓN TURÍSTICA SUSTENTABLE
+
+> <small>(ADICIONADA CON LOS ENCABEZADOS Y ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+#### SECCIÓN ÚNICA. De las Contribuciones de Mejora de Zonas Prioritarias de Gestión Turística Sustentable
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+De los sujetos
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 69 Ter.
+
+Son sujetos de esta contribución, los propietarios o poseedores de los inmuebles ubicados dentro de la Zona Prioritaria de Gestión Turística Sustentable donde se ejecuten la o las obras públicas a que se refiere el artículo 69 Quáter de esta Ley.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+Del objeto
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 69 Quáter.
+
+Es objeto de esta contribución el beneficio que se derive para los propietarios o poseedores de inmuebles, con motivo de la ejecución de la o las obras públicas por parte del Gobierno del Estado de Quintana Roo o de sus entidades paraestatales, de conformidad con lo previsto en la Ley de Obras Públicas y Servicios Relacionados con las mismas del Estado de Quintana Roo.
+
+Para efectos del presente capítulo, se entenderá por inmuebles, los predios urbanos, suburbanos y rústicos, así como los pisos, departamentos, viviendas o locales que formen parte de un condominio, ubicados en una Zona Prioritaria de Gestión Turística Sustentable.
+
+No se pagará esta contribución por el beneficio que obtenga la Federación, el Estado y los Municipios, por sus bienes de dominio público ubicados en una Zona Prioritaria de Gestión Turística Sustentable, que se encuentren directamente afectos al uso común de conformidad con las disposiciones aplicables, salvo que tales bienes sean utilizados por Entidades Paraestatales o por particulares bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+De la base
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 69 Quinquies.
+
+La base de esta contribución será el costo de la o las obras públicas estatales, misma que se distribuirá conforme a lo establecido en el artículo 69 Sexies de esta Ley.
+
+El costo de la o las obras públicas se dará a conocer mediante Acuerdo Específico que emita la persona Titular de la Secretaría de Turismo, mismo que se publicará en el Periódico Oficial del Estado de Quintana Roo.
+
+En dicho Acuerdo Específico se establecerá:
+
+I. La zona prioritaria en donde se ejecuten la o las obras públicas a realizar, así como el costo total, que deberá incluir los gastos relacionados para su ejecución como son los estudios técnicos y demás erogaciones que lo integran;
+
+II. La tarifa que contiene los rangos y tasas de contribución aplicables de acuerdo con lo establecido en el artículo 69 Sexies;
+
+III. Si los sujetos de la contribución deberán cubrir el costo total o parcial de la o las obras públicas a realizar;
+
+IV. El plazo de ejecución de la o las obras públicas y el tiempo de recuperación de la inversión, y
+
+V. Las características generales de cada obra pública.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+Del Procedimiento para la Determinación de la Contribución de Mejora
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 69 Sexies.
+
+El valor de la o las obras que se señale en el Acuerdo Específico que emita la persona Titular de la Secretaría de Turismo, se distribuirá en proporción al cociente del valor base de los inmuebles que se ubiquen dentro de la Zona Prioritaria de Gestión Turística Sustentable, por la tasa de contribución correspondiente al sujeto obligado, respecto de la suma de los valores base por la tasa de contribución de todos los sujetos obligados.
+
+El valor base será elegido entre el valor catastral, el bancario, el valor establecido en el último acto de enajenación, el valor de la adquisición o el último valor declarado por el contribuyente, el que resulte mayor respecto de los inmuebles ubicados en la Zona Prioritaria de Gestión Turística Sustentable.
+
+El monto anual de contribución se calculará conforme a las siguientes fórmulas:
+
+> <small>[N. DE E. VÉASE FÓRMULAS EN EL P.O. DE 16 DE DICIEMBRE DE 2025, PÁGINA 119.]</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+De la época de pago
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 69 Septies.
+
+Los sujetos obligados deberán pagar la contribución de mejora dentro de los tres primeros meses posteriores a la fecha de entrada en vigor del Acuerdo Específico por el que se dé a conocer el costo de la o las obras públicas.
+
+El pago deberá realizarse en una sola exhibición a través de los medios autorizados que se darán a conocer en el Acuerdo Específico.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+Del destino
+
+###### Artículo 69 Octies.
+
+Los ingresos que se obtengan por lo recaudado de la contribución de mejora deberán transferirse al Fideicomiso para el Fortalecimiento a la Actividad Turística en Quintana Roo y se destinarán exclusivamente para cubrir los gastos originados con motivo de la o las obras públicas a ejecutarse en la Zona Prioritaria de Gestión Turística Sustentable que corresponda.
+
+Cuando el monto efectivamente recaudado por concepto de contribución de mejora no alcance el costo total de la o las obras públicas previsto en el Acuerdo Específico, el Estado podrá aportar el faltante en el siguiente ejercicio fiscal.
+
+En ningún caso el importe de la contribución de mejora excederá el costo de la o las obras previsto en el Acuerdo Específico, ni podrá destinarse a fines distintos de la misma.
+
+En caso de que el costo de la o las obras públicas ejecutadas sea menor al costo previsto en el Acuerdo Específico, los remanentes deberán destinarse a la ejecución de obras públicas complementarias dentro de la Zona Prioritaria de Gestión Turística Sustentable en la cual se ubiquen los sujetos de la contribución de mejora.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO II. DE LAS CONTRIBUCIONES DE MEJORAS CAUSADAS EN EJERCICIOS FISCALES ANTERIORES
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 69 Nonies.
+
+Son los ingresos que se recaudan en el ejercicio corriente, por contribuciones de mejoras pendientes de liquidación o pago causadas en ejercicios fiscales anteriores, no incluidas en la Ley de Ingresos del Estado de Quintana Roo vigente.
+
 ## TÍTULO III. DE LOS PRODUCTOS
 
 ### CAPÍTULO I. PRODUCTOS
-
-### CAPÍTULO II. DE LOS PRODUCTOS DE EJERCICIOS FISCALES ANTERIORES
-
-## TÍTULO IV. DE LOS APROVECHAMIENTOS
-
-### CAPÍTULO I. DE LOS APROVECHAMIENTOS EN GENERAL
 
 ###### Artículo 70.
 
@@ -1341,21 +1467,21 @@ XII. Otros diversos de los señalados en las fracciones anteriores que perciba e
 
 (DEROGADO, P.O. 22 DE DICIEMBRE DE 2021)
 
-### CAPÍTULO II. DE LOS APROVECHAMIENTOS PATRIMONIALES
+### CAPÍTULO II. DE LOS PRODUCTOS DE EJERCICIOS FISCALES ANTERIORES
 
 ###### Artículo 72.
 
 Son los ingresos que se recaudan en el ejercicio corriente, por productos pendientes de liquidación o pago causados en ejercicios fiscales anteriores, no incluidos en la Ley de Ingresos del Estado de Quintana Roo.
 
-## TÍTULO V. DE LOS INGRESOS POR VENTA DE BIENES, PRESTACIÓN DE SERVICIOS Y OTROS INGRESOS
+## TÍTULO IV. DE LOS APROVECHAMIENTOS
 
-### CAPÍTULO III. DE LOS ACCESORIOS DE LOS APROVECHAMIENTOS
+### CAPÍTULO I. DE LOS APROVECHAMIENTOS EN GENERAL
 
 ###### Artículo 73.
 
 Son los ingresos que se perciben por funciones de derecho público, cuyos elementos pueden no estar previstos en una Ley, sino en una disposición administrativa de carácter general, provenientes de multas e indemnizaciones no fiscales, reintegros, juegos y sorteos, donativos, entre otros.
 
-### CAPÍTULO IV. DE LOS APROVECHAMIENTOS DE EJERCICIOS FISCALES ANTERIORES
+### CAPÍTULO II. DE LOS APROVECHAMIENTOS PATRIMONIALES
 
 ###### Artículo 74.
 
@@ -1365,19 +1491,19 @@ Son los ingresos que percibe el Estado por uso o enajenación de bienes muebles,
 
 Bis. (DEROGADO, P.O. 23 DE DICIEMBRE DE 2022)
 
-### CAPÍTULO I. DE LOS INGRESOS POR VENTA DE BIENES Y PRESTACIÓN DE SERVICIOS DE ENTIDADES PARAESTATALES Y FIDEICOMISOS NO EMPRESARIALES Y NO FINANCIEROS
+### CAPÍTULO III. DE LOS ACCESORIOS DE LOS APROVECHAMIENTOS
 
 ###### Artículo 75.
 
 Son los ingresos que percibe el Estado, por concepto de recargos, sanciones, garantías, gastos de ejecución e indemnizaciones, entre otros, asociados a los aprovechamientos, cuando éstos no se cubran oportunamente de conformidad con la legislación aplicable en la materia.
 
-### CAPÍTULO II. DE LOS INGRESOS POR VENTA DE BIENES Y PRESTACIÓN DE SERVICIOS DE ENTIDADES PARAESTATALES EMPRESARIALES NO FINANCIERAS CON PARTICIPACIÓN ESTATAL MAYORITARIA
+### CAPÍTULO IV. DE LOS APROVECHAMIENTOS DE EJERCICIOS FISCALES ANTERIORES
 
 ###### Artículo 76.
 
 Son los ingresos que se recauden en el ejercicio corriente, por aprovechamientos pendientes de liquidación o pago causados en ejercicios fiscales anteriores, no incluidos en la Ley de Ingresos del Estado de Quintana Roo.
 
-## TÍTULO VI. DE LAS PARTICIPACIONES, APORTACIONES, CONVENIOS, INCENTIVOS DERIVADOS DE LA COLABORACIÓN FISCAL
+## TÍTULO V. DE LOS INGRESOS POR VENTA DE BIENES, PRESTACIÓN DE SERVICIOS Y OTROS INGRESOS
 
 ###### Artículo 77.
 
@@ -1385,7 +1511,7 @@ Son los ingresos propios obtenidos por las entidades de la administración públ
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO III. DE LOS INGRESOS POR VENTA DE BIENES Y PRESTACIÓN DE SERVICIOS DE LOS PODERES LEGISLATIVO Y JUDICIAL Y DE LOS ÓRGANOS AUTÓNOMOS
+### CAPÍTULO I. DE LOS INGRESOS POR VENTA DE BIENES Y PRESTACIÓN DE SERVICIOS DE ENTIDADES PARAESTATALES Y FIDEICOMISOS NO EMPRESARIALES Y NO FINANCIEROS
 
 ###### Artículo 78.
 
@@ -1395,33 +1521,33 @@ Son los ingresos propios obtenidos por las entidades paraestatales y fideicomiso
 
 Las entidades paraestatales y fideicomisos en la realización de actividades correspondientes a las áreas estratégicas o prioritarias del Estado, mediante la prestación de diversos servicios públicos o sociales, obtendrán sus ingresos mediante el cobro de los rubros, conceptos, cuotas y tarifas que señale su órgano de gobierno respectivo, los cuales deberán ser publicados en el Periódico Oficial del Estado para su vigencia y aplicabilidad.
 
-### CAPÍTULO I. DE LAS PARTICIPACIONES
+### CAPÍTULO II. DE LOS INGRESOS POR VENTA DE BIENES Y PRESTACIÓN DE SERVICIOS DE ENTIDADES PARAESTATALES EMPRESARIALES NO FINANCIERAS CON PARTICIPACIÓN ESTATAL MAYORITARIA
 
 ###### Artículo 80.
 
 Son los ingresos propios obtenidos por las Entidades Paraestatales Empresariales No Financieras con Participación Estatal Mayoritaria por sus actividades de producción, comercialización o prestación de servicios.
 
-### CAPÍTULO II. DE LAS APORTACIONES
+### CAPÍTULO III. DE LOS INGRESOS POR VENTA DE BIENES Y PRESTACIÓN DE SERVICIOS DE LOS PODERES LEGISLATIVO Y JUDICIAL Y DE LOS ÓRGANOS AUTÓNOMOS
 
 ###### Artículo 81.
 
 Son los ingresos propios obtenidos por los Poderes Legislativo y Judicial y los Órganos Autónomos por sus actividades de producción, comercialización o prestación de servicios.
 
-## TÍTULO VII. DE LAS TRANSFERENCIAS, ASIGNACIONES, SUBSIDIOS Y SUBVENCIONES
+## TÍTULO VI. DE LAS PARTICIPACIONES, APORTACIONES, CONVENIOS, INCENTIVOS DERIVADOS DE LA COLABORACIÓN FISCAL
 
-### CAPÍTULO III. DE LOS CONVENIOS
+### CAPÍTULO I. DE LAS PARTICIPACIONES
 
 ###### Artículo 82.
 
 Son los ingresos que recibe el Estado, derivados de la adhesión al Sistema Nacional de Coordinación Fiscal, así como las que correspondan a sistemas estatales de coordinación fiscal, determinados por las leyes correspondientes.
 
-### CAPÍTULO IV. DE LOS INCENTIVOS DERIVADOS DE LA COLABORACIÓN FISCAL
+### CAPÍTULO II. DE LAS APORTACIONES
 
 ###### Artículo 83.
 
 Son los ingresos que recibe el Estado previstos en la Ley de Coordinación Fiscal, cuyo gasto está condicionado a la consecución y cumplimiento de los objetivos que para cada tipo de aportación establece la legislación aplicable a la materia.
 
-### CAPÍTULO V. DE LOS INGRESOS EXTRAORDINARIOS
+### CAPÍTULO III. DE LOS CONVENIOS
 
 ###### Artículo 84.
 
@@ -1429,29 +1555,35 @@ Son los ingresos que recibe el Estado, derivados de convenios de coordinación, 
 
 Las dependencias y entidades que durante el ejercicio fiscal celebren convenios con la federación, que impliquen ingresos para la hacienda pública estatal, deberán comunicarlos formalmente a la Secretaría mediante el mecanismo que para ello establezca.
 
-### CAPÍTULO I. DE LAS TRANSFERENCIAS Y ASIGNACIONES
+### CAPÍTULO IV. DE LOS INCENTIVOS DERIVADOS DE LA COLABORACIÓN FISCAL
 
 ###### Artículo 85.
 
 Son los ingresos que recibe el Estado derivados del ejercicio de facultades delegadas por la Federación y/o municipios mediante la celebración de convenios de colaboración administrativa en materia fiscal que comprenden las funciones de recaudación, fiscalización y administración de ingresos federales y/o municipales y por las que a cambio, el Estado recibe incentivos económicos que implican la retribución de su colaboración.
 
-### CAPÍTULO II. DE LOS SUBSIDIOS Y SUBVENCIONES
+### CAPÍTULO V. DE LOS INGRESOS EXTRAORDINARIOS
 
 ###### Artículo 86.
 
 Los ingresos extraordinarios que tendrá derecho a recibir el Estado además de los señalados en la presente ley o en cualquier otra ley fiscal estatal, se obtendrán por: aportaciones extraordinarias de la Federación, de entidades públicas o de los sectores social o privado.
 
-## TÍTULO VIII. DE LOS INGRESOS DERIVADOS DE FINANCIAMIENTOS
+## TÍTULO VII. DE LAS TRANSFERENCIAS, ASIGNACIONES, SUBSIDIOS Y SUBVENCIONES
 
-### CAPÍTULO ÚNICO. DEL FINANCIAMIENTO INTERNO
+### CAPÍTULO I. DE LAS TRANSFERENCIAS Y ASIGNACIONES
 
 ###### Artículo 87.
 
 Son los ingresos que reciben los entes públicos con el objeto de sufragar gastos inherentes a sus atribuciones.
 
+### CAPÍTULO II. DE LOS SUBSIDIOS Y SUBVENCIONES
+
 ###### Artículo 88.
 
 Son los ingresos destinados para el desarrollo de actividades prioritarias de interés general, que reciben los entes públicos mediante asignación directa de recursos, con el fin de favorecer a los diferentes sectores de la sociedad para apoyar en sus operaciones, mantener los niveles en los precios, apoyar el consumo, la distribución y comercialización de bienes, motivar la inversión, cubrir impactos financieros, promover la innovación tecnológica, y para el fomento de las actividades agropecuarias, industriales o de servicios.
+
+## TÍTULO VIII. DE LOS INGRESOS DERIVADOS DE FINANCIAMIENTOS
+
+### CAPÍTULO ÚNICO. DEL FINANCIAMIENTO INTERNO
 
 ###### Artículo 89.
 
@@ -1596,5 +1728,15 @@ P.O. 10 DE JUNIO DE 2025.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 125 POR EL QUE SE ADICIONAN DIVERSAS PROPORCIONES NORMATIVAS AL ARTÍCULO 24 DE LA LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones legales de igual o inferior jerarquía que se opongan al presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 195 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO".]
+
+## ARTÍCULOS TRANSITORIOS
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones legales de igual o inferior jerarquía que se opongan al presente Decreto.
