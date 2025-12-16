@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-fiscalia-especializada-en-combate-a-la-17698
 country: "mx"
 rank: "ley_organica"
 publication_date: "2025-01-10"
-last_updated: "2025-01-10"
+last_updated: "2025-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=176986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número 2 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 10 de enero de 2025.
 
@@ -905,7 +905,9 @@ IX. Elaborar, en coordinación con las unidades administrativas de la Fiscalía 
 
 X. Implementar los controles administrativos que sean necesarios para el adecuado funcionamiento de la Fiscalía Especializada;
 
-XI. Procurar la constante simplificación de procedimientos, mejora regulatoria y modernización administrativa de la Fiscalía Especializada;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+XI. Procurar la constante simplificación administrativa y digitalización de trámites y servicios, buenas prácticas regulatorias, desarrollo, fortalecimiento de capacidades tecnológicas públicas y modernización administrativa de la Fiscalía Especializada;
 
 XII. Gestionar la capacitación y el adiestramiento del personal administrativo de la Fiscalía Especializada;
 
@@ -1272,3 +1274,13 @@ DIPUTADO SECRETARIO:
 LIC. SAULO AGUILAR BERNÉS.
 
 En cumplimiento a lo dispuesto por la fracción II del Artículo 91 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, y para su debida publicación y observancia, promulgo el presente Decreto número 085 en la Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Chetumal, Quintana Roo, a 10 de enero de 2025.- Lic. María Elena H. Lezama Espinosa.- Rúbrica.- Conforme a los artículos 93 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, y 11 de la Ley Orgánica de la Administración Pública del Estado de Quintana Roo, refrendado por la Secretaria de Gobierno, Lic. María Cristina Torres Gómez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 186 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO; LA LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO; LA LEY DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD PARA EL ESTADO DE QUINTANA ROO; LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE QUINTANA ROO; LA LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO; LA LEY DE PRESTACIÓN DE SERVICIOS INMOBILIARIOS DEL ESTADO DE QUINTANA ROO; LA LEY ORGÁNICA DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN DEL ESTADO DE QUINTANA ROO; Y LA LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE QUINTANA ROO Y SE ABROGA LA LEY DE MEJORA REGULATORIA DEL ESTADO DE QUINTANA ROO Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
