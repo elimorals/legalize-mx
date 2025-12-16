@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2025-06-20"
+last_updated: "2025-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2025.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 20 DE JUNIO DE 2025 NO APLICA AL ARTICULADO DEL DECRETO NO. 66-325 PUBLICADO EN EL P.O. DEL 17 DE JUNIO DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -817,13 +815,11 @@ XIII.- Pagos de servicio de transporte;
 
 XIV.- Pagos de primas de seguros para gastos médicos o de vida;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-XV.- Pagos realizados a las personas por los servicios que presten a un prestatario, cuando sean asimilados a salarios de conformidad al Capítulo I del Título IV de la Ley del Impuesto sobre la Renta, siempre que dichos servicios se lleven a cabo en las instalaciones o por cuenta de este último;
+XV.- Pagos realizados a las personas por los servicios que presten a un prestatario, cuando sean asimilados a salarios de conformidad al Capítulo I del Título IV de la Ley del Impuesto sobre la Renta, siempre que dichos servicios se lleven a cabo en las instalaciones o por cuenta de este último; y
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
-
-XVI.- El valor del importe que se le pague a las personas físicas o morales que contraten, subcontraten o reciban la prestación del trabajo personal subordinado;
+XVI.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2025)
 
 XVII.- (DEROGADA, P.O. 23 DE MAYO DE 2017)
 
@@ -839,13 +835,15 @@ Son sujetos de este impuesto las personas físicas o morales que realicen los pa
 
 La Federación, el Estado, los Municipios, los organismos autónomos y las entidades paraestatales federales, estatales o municipales están obligados al pago de este impuesto.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-Son responsables solidarios del pago de este impuesto quienes contraten, subcontraten o reciban la prestación del trabajo personal subordinado, no obstante que el pago se realice por conducto de terceros o intermediarios.
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+Las personas físicas o morales que contraten o subcontraten servicios especializados o de ejecución de obras especializadas proporcionados por un contratista en términos de la normatividad aplicable, aun cuando la erogación por concepto de remuneración al trabajo personal subordinado se realice a través de otra persona, tendrán la obligación de dar aviso a la Secretaría de Finanzas dentro de los 15 días hábiles siguientes en el que se celebre el contrato de prestación de servicios, o en su caso se apliquen modificaciones al mismo.
 
-Se entiende por subcontratación, el trabajo por medio del cual un contratista, subcontratista, comisionista, asociado, afiliado, intermediario, consignatario o cualquier otra persona física o moral que desempeñe función análoga, ejecuta obras o presta servicios con trabajadores bajo su dependencia, a favor de otra persona física o moral que resulta beneficiaria de los servicios contratados y lleven a cabo la actividad a la que esta se dedique.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+Se entiende por servicios especializados o de ejecución de obras especializadas, todos aquellos que no forman parte del objeto social ni de la actividad económica preponderante del beneficiario de estos.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
@@ -869,9 +867,7 @@ b) La que resulte de considerar, por cada trabajador a su servicio, el importe d
 
 c) La que resulte de aplicar el 40 por ciento a los importes consignados en las estimaciones de obra o en los comprobantes que esté obligado a expedir en los términos de las disposiciones fiscales federales, tratándose de contribuyentes que realicen obras de construcción, aún en los casos en que no hubieran celebrado los contratos correspondientes. El porcentaje mencionado podrá ser menor cuando el contribuyente compruebe que el tipo de obra realizada implica una menor proporción de mano de obra; y
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
-
-d) El valor del importe que se le pague a las personas físicas o morales que contraten, subcontraten o reciban la prestación del trabajo personal subordinado.
+d) (DEROGADO, P.O. 16 DE DICIEMBRE DE 2025)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -947,73 +943,41 @@ VI.- Conservar la documentación comprobatoria del pago de las remuneraciones ob
 
 VII.- Registrar su calidad de contribuyentes, para efectos de pago y control, según sea el caso, si la administración principal de su empresa está fuera del Estado, pero establezcan sucursales, bodegas, agencias, oficinas u otras dependencias dentro del territorio del propio Estado, cuando se encuentren gravadas por este impuesto o cuando sólo tengan las otras obligaciones;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2017)</small>
+VIII.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2025)
 
-VIII.- Las personas físicas o morales que contraten, subcontraten o reciban la prestación del trabajo personal subordinado, deberán retener el impuesto a que se refiere este capítulo a los contribuyentes cuyo domicilio esté ubicado dentro o fuera del territorio del Estado, cuando éstos pongan a su disposición, personal que lleve a cabo la actividad a la que se dedique, siempre que el servicio personal subordinado se preste en el territorio de esta entidad y que las cantidades que el prestador del servicio erogue a favor de sus trabajadores o quienes presten servicios personales independientes, den lugar a las erogaciones gravadas por este impuesto;
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
-
-En tratándose de las personas físicas o morales que operen con comisionistas, asociados, afiliados, intermediarios, consignatarios o cualquier otra persona física o moral que desempeñe función análoga, deberán obtener de éstos copia de los comprobantes por concepto del pago del Impuesto Sobre Remuneraciones al Trabajo Personal Subordinado, así como del pago de las cuotas obrero patronales al Instituto Mexicano del Seguro Social. Los comisionistas, asociados, afiliados, intermediarios, consignatarios o cualquier otra persona física o moral que desempeñe función análoga o como se les señale, están obligados a entregar al contratante los comprobantes y la información a que se refiere este párrafo.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
-
-Los contratantes a que se refiere el párrafo anterior, deberán informar en la declaración mensual a que se refiere el artículo 50 de esta Ley, el número de empleados según sea el caso, el impuesto pagado y folio de la declaración de sus comisionistas, asociados, afiliados, intermediarios, consignatarios o cualquier otra persona física o moral que desempeñe función análoga.
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
-
-IX.- Presentar el aviso de inscripción para efectos de control, las personas físicas o morales que reciban las prestaciones del trabajo subordinado y que no hagan las erogaciones objeto de este impuesto, exhibiendo copia del contrato de prestación de servicio ante la oficina de recaudación fiscal que corresponda a su domicilio, y proporcionar los datos que identifiquen a la persona que haga dichas erogaciones, así como el número de trabajadores que presten el trabajo subordinado;
+IX.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2025)
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
 X.- Presentar declaración anual informativa a más tardar en el mes de mayo del siguiente año, en las formas aprobadas que dé a conocer la autoridad. Esta declaración deberá presentarse en todos los casos, incluyendo a las personas físicas o morales que contraten, subcontraten o reciban la prestación del trabajo personal subordinado así como aquellos en que no se estuvo obligado a efectuar el pago de este impuesto; y
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
-
-XI.- Las personas físicas y morales que lleven a cabo la retención de este impuesto deberán expedir la constancia correspondiente por cada una de las operaciones que realice, en las formas aprobadas que dé a conocer la autoridad.
-
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+XI.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2025)
 
 ###### Artículo 51 Bis.
 
-Los retenedores a que se refiere el artículo anterior, tendrán las siguientes obligaciones:
-
-I.- Retener el impuesto que se cause conforme a las disposiciones contenidas en este Capítulo y expedir al contribuyente constancia de la retención en el momento en que ésta se efectúe o durante los 15 días siguientes a la fecha en que se efectuó dicha retención. Para estos efectos, se utilizará el formato o forma oficial que autorice y dé a conocer la Secretaría de Finanzas.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
-
-La retención se efectuará en el momento en que se pague la contraprestación por los servicios contratados;
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
-
-II.- Declarar y enterar el impuesto retenido, en los términos a que se refiere el artículo 50 de esta Ley; y
-
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
-
-III.- Presentar declaración anual informativa, en los términos a que se refiere el artículo 51, fracción X de la presente Ley.
-
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2025)
 
 ###### Artículo 51 Ter.
 
-La retención a que se refiere la fracción I del artículo anterior, se determinará conforme a lo siguiente:
-
-I.- Si en el comprobante que le expida la persona física o moral que le proporciona la prestación de servicios personales, se especifica en forma expresa y por separado el o los importes de los conceptos establecidos en el artículo 45 de esta Ley, dichos montos serán la base para el cálculo de la retención; y
-
-II.- En el supuesto de que los prestadores de servicios a que se refiere el artículo 51 fracción VIII de esta Ley, no expidan alguno de los comprobantes a que se refiere este artículo, la base para la retención será el total de las contraprestaciones efectivamente pagadas por los servicios contratados en el mes que corresponda.
-
-La base a que se refieren las fracciones I y II del presente artículo, se determinará sin incluir los impuestos que se trasladen en forma expresa y por separado en el comprobante, independientemente de la denominación con que se designen.
-
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2025)
 
 ###### Artículo 51 Quater.
 
-El impuesto retenido en los términos del artículo 51 de la presente Ley, se podrá acreditar contra el impuesto a pagar que resulte en el cálculo de pago mensual definitivo, de conformidad con lo dispuesto en este Capítulo.
-
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2025)
 
 ###### Artículo 51 Quinquies.
 
-Las personas físicas o morales a que se refiere el artículo 51 fracciones VIII y IX que no cumplieron con sus obligaciones en tiempo, deberán en forma extemporánea presentar aviso de inscripción, informar en la declaración mensual el número de empleados así como el impuesto pagado por la empresa subcontratada.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2025)
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 51 Sexies.
+
+Las personas físicas o morales que contraten o subcontraten servicios especializados o de ejecución de obras especializadas proporcionadas por un contratista señaladas en la fracción X del artículo que antecede, tendrán las siguientes obligaciones:
+
+I.- Solicitar su registro ante la Secretaría de Finanzas, presentando el aviso señalado en el artículo 46, párrafo tercero de la presente ley, el cual, deberá contener como anexo el original o copia certificada del contrato respectivo, informando el número de trabajadores que presten los servicios correspondientes, así como la denominación o razón social, Registro Federal de Contribuyentes y domicilio del contratista.
+
+La Secretaría podrá requerir a las personas físicas o morales a que se refiere el primer párrafo del presente artículo, la presentación del aviso antes citado, a fin de que den cumplimiento en un plazo de 15 días hábiles.
 
 ###### Artículo 52.
 
@@ -1051,13 +1015,17 @@ i) El ahorro, cuando se integre por un depósito de cantidad igual del trabajado
 
 j) La alimentación y la habitación cuando se entreguen en forma onerosa a trabajadores. Se entiende que son onerosas estas prestaciones, cuando el cobro de cada una de ellas represente, como mínimo, el 20 por ciento de un día de salario mínimo, por cada día de trabajo;
 
-(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012) (F. DE E., P.O. 17 DE ENERO DE 2013)
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-k) Las despensas en especie, siempre que reúnan los requisitos de deducibilidad del Título II de la Ley de Impuesto sobre la Renta. No se considerarán incluidos los vales, bonos u otros de naturaleza análoga; y
+k) Las despensas en especie, siempre que reúnan los requisitos de deducibilidad del Título II de la Ley de Impuesto sobre la Renta. No se considerarán incluidos los vales, bonos u otros de naturaleza análoga;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-l).- Los pagos de primas por seguros de vida de Técnicos o Dirigentes, a que se refiere el segundo párrafo de la fracción XII del artículo 27 de la Ley del Impuesto sobre la Renta.
+l) Los pagos de primas por seguros de vida de Técnicos o Dirigentes, a que se refiere el segundo párrafo de la fracción XII del artículo 27 de la Ley del Impuesto sobre la Renta; y
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+m) Remuneraciones pagadas a personas con discapacidad.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -1387,11 +1355,17 @@ V. Cuando no sea posible determinar la base gravable en los términos de la frac
 
 DEL OBJETO
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-Artículo 52 Quinvicies.- Son objeto de esta contribución las emisiones de compuestos y gases de efecto invernadero, provenientes de fuentes fijas, dentro del territorio del Estado.
+Artículo 52 Quinvicies.- Son objeto de esta contribución las emisiones de compuestos y gases de efecto invernadero a la atmósfera de las sustancias generadas dentro del territorio del Estado.
 
-Para los efectos de este artículo, se consideran como emisiones de compuestos y gases de efecto invernadero, la expulsión directa de bióxido de carbono, metano, óxido nitroso, hidrofluorocarbonos, perfluorocarbonos y hexafluoruro de azufre, ya sea unitariamente o de cualquier combinación de ellos.
+Para los efectos de esta contribución se consideran emisiones directas, las emisiones de compuestos y gases de efecto invernadero, por la operación de las fuentes fijas sujetas a reporte.
+
+Para los efectos de reporte esta contribución se considera emisiones de compuestos y gases de efecto invernadero a la atmósfera, la expulsión directa de los siguientes: bióxido de carbono, metano, óxido nitroso, hidrofluorocarbonos, perfluorocarbonos y hexafluoruro de azufre, ya sea unitariamente o de cualquier combinación de ellos, las cuales están sujetas a reportes en el Registro de Emisiones y Transferencias de Contaminantes (RETC), Registro Nacional de Emisiones (RENE) y/o en el Registro Estatal Ambiental.
+
+Entiéndase por compuestos de efecto invernadero los gases de efecto invernadero, sus precursores y partículas que absorben y emiten radiación infrarroja a la atmósfera.
+
+Por cuanto a gases de efecto invernadero, son aquellos componentes gaseosos de la atmósfera, tanto naturales como antropógenos, que absorben y emiten radiación infrarroja.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
@@ -1403,6 +1377,10 @@ Artículo 52 Sexvicies.- Son sujetos y están obligados al pago de esta contribu
 
 También quedan comprendidos como sujetos de este impuesto, la Federación, el Estado y los Municipios, los organismos descentralizados y desconcentrados federales, estatales y municipales, las empresas productivas del Estado, las empresas de participación estatal mayoritaria de carácter federal y estatal, las empresas de participación municipal mayoritaria, los fideicomisos constituidos por dependencias y entidades de la administración pública federal, del Estado y Municipal, así como las personas de derecho público con autonomía derivada de la Constitución Federal o del Estado.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+Para efectos del párrafo anterior se entenderá como fuentes fijas, aquellas con ubicación física permanente en un sitio determinado que en su operación o desarrollo de su actividad emite compuestos o gases de efecto invernadero, esta definición incluye aquellos sitios o instalaciones en donde se desarrollen actividades industriales, comerciales, de servicios, agropecuarias y forestales; sitios de disposición final de residuos sólidos y plantas de tratamiento de aguas residuales.
+
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
 DE LA BASE
@@ -1411,63 +1389,15 @@ DE LA BASE
 
 Artículo 52 Septenvicies.- La base de este impuesto es la masa expresada en toneladas de bióxido de carbono equivalente (tCO2e), de las emisiones gravadas que se realicen desde la o las instalaciones o fuentes fijas.
 
-Para la determinación de la base gravable, el contribuyente la realizará mediante medición directa o estimación de las emisiones de compuestos y gases de efecto invernadero que genere y, en su caso, se tomará como referencia el último Registro Nacional de Emisiones (RENE) de la Secretaría de Medio Ambiente y Recursos Naturales del Gobierno Federal, así como de los reportes de emisiones del Registro Estatal Ambiental a cargo de la Secretaría de Desarrollo Urbano y Medio Ambiente del Gobierno del Estado de Tamaulipas.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-Las emisiones gravadas de compuestos y gases de efecto invernadero del contribuyente se deberán reportar ante la Secretaría de Desarrollo Urbano y Medio Ambiente del Gobierno del Estado de Tamaulipas a través de la Cédula de Operación Anual y/o formatos que incluyan los detalles sobre el uso de combustibles, y su emisión de compuestos y gases de efecto invernadero hacia la atmósfera.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-Para la determinación de las toneladas emitidas, el contribuyente realizará la conversión de los gases establecidos en el artículo 52 Quinvicies de esta Ley en bióxido de carbono equivalente (CO2e), multiplicando la tonelada del tipo de gas emitido por el factor del potencial de calentamiento global (GWP por sus siglas en inglés) conforme a la tabla siguiente:
+> <small>(REFORMADO [N. DE E. CON SU TABLA], P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-Compuestos y Composición molecular Equivalencia CO2
+Para la determinación de las toneladas emitidas, los sujetos de este impuesto realizarán la conversión a bióxido de carbono equivalente de cualquiera de los gases establecidos en al (sic) artículo 52 Quinvicies de esta Ley, así como en el presente, lo cual se realizará multiplicando cada tonelada del tipo de gas emitido por la equivalencia correspondiente conforme a la tabla siguiente:
 
-gases de efecto (GWP)
-
-invernadero
-
-Bióxido de CO2 1
-
-carbono
-
-Metano CH4 28
-
-Óxido Nitroso N2O 273
-
-HFC-23 14,590
-
-HFC-32 770
-
-HFC-43-10-mee 1,599
-
-HFC-125 3,744
-
-HFC-134a 1,526
-
-Hidrofluoro-
-
-carbonos HFC-143a 5,807
-
-HFC-152a 164
-
-HFC-227ea 3,602
-
-HFC-236fa 8,689
-
-HFC-245fa 962
-
-HFC-365mfc 913
-
-CF4 7,379
-
-Perfluorocar-
-
-bonos C2F6 12,410
-
-C4F10 10,022
-
-C6F14 8,617
-
-Hexafluoruro
-
-de azufre SF6 25,184
+> <small>[N. DE E. VÉASE TABLA EN LA EDICIÓN VESPERTINA DEL P.O. DE 16 DE DICIEMBRE DE 2025, PÁGINA 4.]</small>
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
@@ -1487,17 +1417,17 @@ DEL ENTERO
 
 Artículo 52 Novovicies.- El contribuyente deberá realizar el entero del impuesto en los lugares, formas y medios autorizados por la Secretaría, mediante declaración mensual a más tardar el día 17 del mes siguiente en que se causó la contribución.
 
-Para los efectos de este artículo, el contribuyente podrá calcular sus emisiones y determinar sus contribuciones mediante las siguientes formas y previa aprobación de la Secretaría de Desarrollo Urbano y Medio Ambiente:
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-a) Pruebas de laboratorio;
+Para los efectos de este artículo, el contribuyente deberá calcular sus emisiones y determinar sus contribuciones a través de:
 
-b) Estimación directa;
+1. El Acuerdo publicado en el Diario Oficial de la Federación en fecha 03/09/2015, que establece las particularidades técnicas y las fórmulas para la aplicación de metodologías para el cálculo de emisiones de gases o compuestos de efecto invernadero.
 
-c) Con base en el informe al Registro Nacional de Emisiones (RENE) de la Secretaría de Medio Ambiente y Recursos Naturales del Gobierno Federal; o
+2. Conversión de los gases establecidos en el artículo 52 Quinvicies de esta Ley en bióxido de carbono equivalente, de acuerdo al segundo párrafo del artículo 52 Septenvicies de la presente Ley.
 
-d) Con los reportes de emisiones del Registro Estatal Ambiental de Tamaulipas.
+3. Multiplicando cada tonelada del tipo de gas emitido (LA BASE) por la tarifa impositiva señalada en el artículo 52 Octovicies de esta Ley.
 
-Para efectos de los incisos c) y d) el contribuyente deberá basarse para el cálculo mensual de la contribución en el último informe y/o reporte declarado; y, en su caso, deberá de realizar el cálculo anual determinando mensualmente la parte proporcional correspondiente.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
@@ -1537,7 +1467,7 @@ II. Los contribuyentes podrán reducir de la base gravable hasta el 25% de las t
 
 III. En el caso que se demuestre que el contribuyente ha alcanzado la neutralidad de carbono, se podrá exentar en su totalidad el pago del impuesto.
 
-Para la procedencia del estímulo, los contribuyentes deberán acreditar ante la Secretaría, la adquisición de los sellos de bajo carbono otorgados y transferidos a través del mecanismo establecido por la Secretaría de Desarrollo Urbano y Medio Ambiente del Gobierno del Estado de Tamaulipas, relativos a la reducción, compensación y neutralización de emisiones de compuestos y gases de efecto invernadero a la atmósfera.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
@@ -1587,7 +1517,7 @@ con gas natural
 
 Para la procedencia del estímulo, los contribuyentes deberán informar en su Libro de Registro de Emisiones la cantidad de toneladas de bióxido de carbono equivalente generadas por el uso de gas natural, así como la metodología utilizada para su cuantificación. De igual manera, deberá conservar la documentación que ampare la metodología empleada para el cálculo de las emisiones.
 
-Los contribuyentes que opten por realizar la aplicación del estímulo fiscal señalado en este artículo, no podrán aplicar adicionalmente la exención señalada en el artículo 52 Quatertricies. Una vez que el contribuyente elija la opción de aplicación del estímulo fiscal, no podrá cambiar la opción elegida durante el ejercicio fiscal que corresponda.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
@@ -1605,31 +1535,11 @@ Artículo 52 Quintricies.- Para efectos de lo establecido en la Sección I de es
 
 DEL DESTINO DEL IMPUESTO
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-###### Artículo 52.
+Artículo 52 Sextricies. Los ingresos que se obtengan de la recaudación de la contribución establecida en este Capítulo se destinarán, en su totalidad, al Fideicomiso de Administración e Inversión “Fondo para el Cambio Climático del Estado de Tamaulipas” para implementar acciones de mitigación al cambio climático.
 
-Sextricies.- Los ingresos que se obtengan de la recaudación de la contribución establecida en este Capítulo se destinarán preferentemente a:
-
-I. Acciones para la adaptación al cambio climático atendiendo prioritariamente a los grupos sociales ubicados en las zonas más vulnerables del Estado;
-
-II. Proyectos que contribuyan simultáneamente a la mitigación y adaptación al cambio climático, incrementando el capital natural, con acciones orientadas, entre otras: a revertir la deforestación y degradación; conservar y restaurar suelos para mejorar la captura de carbono; implementar prácticas agropecuarias sustentables; recargar los mantos acuíferos; preservar la integridad de humedales; promover la conectividad de los ecosistemas a través de corredores biológicos, conservar la vegetación riparia y para aprovechar sustentablemente la biodiversidad;
-
-III. Desarrollo y ejecución de acciones y proyectos de mitigación, reducción y compensación de emisiones de gases de efecto invernadero conforme a las prioridades de la Estrategia Estatal de Cambio Climático de Tamaulipas, el Programa Estatal de Cambio Climático y los programas municipales;
-
-IV. Promoción de programas, planes y acciones para reducir la vulnerabilidad del Estado frente al cambio climático en materia de atención y protección a grupos y zonas vulnerables, uso del suelo, infraestructura y otros aspectos que se consideren en la Estrategia Estatal de Cambio Climático de Tamaulipas;
-
-V. Programas de educación, sensibilización, concientización y difusión de información y de una cultura de mitigación y adaptación;
-
-VI. Proyectos de investigación, innovación y desarrollo tecnológico;
-
-VII. Estudios y evaluaciones en materia de cambio climático;
-
-VIII. Programas de inspección y vigilancia ambientales; y
-
-IX. Los demás proyectos y acciones en materia de cambio climático que la Comisión Intersecretarial de Cambio Climático del Estado de Tamaulipas consideren estratégicos.
-
-Las actividades y obligaciones consideradas en este artículo deberán tomar en cuenta criterios de equidad de género, inclusión social, participación ciudadana, y la integración de comunidades indígenas, pueblos afromexicanos, juventudes e infancias.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
 ## TITULO III. DE LOS DERECHOS
 
@@ -1763,7 +1673,9 @@ c).- Por cada imagen digitalizada, se pagará el dos por ciento del valor diario
 
 XIV.- Por la expedición de la constancia de cumplimiento de obligaciones fiscales, el importe de tres veces el valor de la Unidad de Medida y Actualización.
 
-Esta constancia se referirá al cumplimiento formal de obligaciones fiscales, incluyendo los derechos de control vehicular, así como a la inexistencia de créditos fiscales determinados en materia de ingresos estatales y federales coordinados.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+Esta constancia se referirá al cumplimiento formal de obligaciones fiscales, incluyendo los derechos de control vehicular, así como a la inexistencia de créditos fiscales determinados en materia de ingresos estatales y federales coordinados; cuya vigencia será de 30 días naturales a partir de la fecha de su expedición.
 
 El servicio comprende el análisis que deriva en un resultado específico, ya sea positivo o negativo.
 
@@ -2057,9 +1969,7 @@ Los servicios que se presten en el Instituto Registral y Catastral del Estado de
 
 I.- La inscripción o registro de títulos, ya se trate de documentos públicos o privados, protocolización de informaciones ad-perpetuam, resoluciones judiciales, administrativas, o de cualquier otra clase por virtud de las cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles, o de contratos no mercantiles de enajenación de bienes inmuebles, sobre el valor 8 al millar; por lo que hace a la inscripción de Cancelaciones de cualquier índole, se pagará el importe de diez veces el valor diario de la Unidad de Medida y Actualización por inscripción practicada; en ningún caso la cantidad a pagar será mayor a quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
-
-Por el servicio urgente de inscripción o registro de los servicios citados en el párrafo anterior, y que cuenten con número de finca, adicionalmente pagaran el importe de quince veces el valor diario de la Unidad de Medida y Actualización, por cada propiedad; cuando se solicite el trámite con carácter de urgente, el cual se entregará dentro del término de 24 horas contadas a partir de la hora de su presentación y/o ingreso;
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE DICIEMBRE DE 2020)</small>
 
@@ -2179,9 +2089,7 @@ XVI. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2014)
 
 XVII. Por la expedición de Certificados con Reserva de Prioridad y/o avisos preventivos en los cuales se adquiera, trasmita, modifique o extinga el dominio o la posesión total o parcial de bienes inmuebles, o de contratos no mercantiles de enajenación de bienes inmuebles, el importe de diez veces el valor diario de la Unidad de Medida y Actualización, por cada propiedad;
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
-
-Por el servicio urgente para la expedición de certificados con reserva de prioridad y avisos preventivos, en el cual la solicitud cuente con número de finca, adicionalmente pagarán el importe de quince veces el valor diario de la Unidad de Medida y Actualización, por cada propiedad; el cual será entregado al día siguiente;
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -2273,6 +2181,10 @@ XXX. Por la revisión previa de cualquier tipo de documentos que en lo subsecuen
 
 Salvo aquellos documentos que contengan más de veinte y no excedan de cien datos de registro o números de finca, el importe de veinte veces el valor diario de la Unidad de Medida y Actualización; y los casos en que el documento cuente con más de cien datos de registro o números de finca, el importe de treinta veces el valor diario de la Unidad de Medida y Actualización.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+Por los derechos establecidos en las fracciones I, II, III, IV, V, VI, VIII, IX, XI, XII, XIII, XIV, XV, XVII, XVIII, XX, XXII, XXIII, XXIV que cuenten con número de finca, podrán solicitar el servicio urgente pagando adicionalmente el importe de quince veces el valor diario de la Unidad de Medida y Actualización; por cada propiedad, mismo que se entregará dentro del término de 24 horas contadas a partir de la hora de su presentación y/o ingreso.
+
 ###### Artículo 65.
 
 Para la determinación y cobro de los derechos que establece el artículo anterior, se observarán las reglas siguientes:
@@ -2317,13 +2229,11 @@ I. Por la inscripción de las escrituras, de terrenos que no excedan de 250 metr
 
 Para que se otorgue el beneficio señalado, el contribuyente debe acreditar no ser propietario de otro bien inmueble con constancia expedida por el Instituto Registral y Catastral del Estado.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2022)</small>
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-II. Por la inscripción de actos traslativos de dominio y de garantías reales o fiduciarias, cuando el monto de la operación sea de doscientos mil pesos a setecientos mil pesos, pagará por derechos de registro el monto de tres veces el valor diario de la Unidad de Medida y Actualización y se destine a la construcción o adquisición de vivienda a través de los programas de apoyo a la vivienda que se instrumenten por el Gobierno Federal, Estatal, Municipal y Organismos Públicos Descentralizados, así como también aquellas adquisiciones que se realicen a través de instituciones financieras o concedidas por los patrones a sus trabajadores.
+I Bis. Así como la adquisición de bienes inmuebles a través de los programas de apoyo a la vivienda que se instrumenten por el Gobierno Federal, Estatal, Municipal y Organismos Públicos Descentralizados, instituciones financieras o concedidas por los patrones a sus trabajadores pagará por derechos de registro el monto de tres veces el valor diario de la Unidad de Medida y Actualización cuando la superficie de terreno sea de 250 metros cuadrados de terreno o menor;
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2022)</small>
-
-Por la inscripción de actos traslativos de dominio y de garantías reales o fiduciarias, cuando el monto de la operación sea mayor a setecientos mil pesos pagará por concepto de derechos de registro el 8 al millar;
+II. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2025)
 
 III. Por la inscripción de la cancelación de reserva de dominio solicitada por los organismos citados en la fracción anterior;
 
@@ -2745,15 +2655,17 @@ Con base en las tarifas previstas en este precepto, el Ejecutivo del Estado, por
 
 I. Servicios de control vehicular, que se prestan:
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-a).- Por ingreso o refrendo anual en el padrón de vehículos de motor o remolques, dieciocho veces el valor diario de la Unidad de Medida y Actualización; y
+a).- Por el ingreso o refrendo anual en el padrón de vehículos de motor de combustión interna, eléctricos, híbridos o remolques, veinte veces el valor diario de la Unidad de Medida y Actualización; y
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-b).- Por expedición, reposición o canje de placas de vehículos de motor o remolques, de servicio particular y de servicio público de transporte, cinco veces el valor diario de la Unidad de Medida y Actualización;
+b).- Por expedición, reposición o canje de placas de vehículos de motor de combustión interna, eléctricos, híbridos o remolques, de servicio particular y de servicio público de transporte, cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-Las personas físicas o morales que adquieran vehículos de motor o remolques, nuevos o usados, que no cuenten con placas vigentes del Estado de Tamaulipas, deberán efectuarlo dentro de los quince días siguientes a la fecha de adquisición.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+Las personas físicas o morales que adquieran vehículos de motor de combustión interna, eléctricos, híbridos o remolques, nuevos o usados, que no cuenten con placas vigentes del Estado de Tamaulipas, deberán efectuarlo dentro de los quince días hábiles siguientes a la fecha de adquisición.
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
@@ -2913,37 +2825,49 @@ XVII. Por la expedición de licencia de conducir para:
 
 1.- Chofer particular:
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-a).- Vigencia Permanente, quince veces el valor diario de la Unidad de Medida y Actualización.
+a).- Vigencia Permanente, diecisiete veces el valor diario de la Unidad de Medida y Actualización.
 
 b).- (DEROGADO, P.O. 19 DE JULIO DE 2022)
 
 c).- (DEROGADO, P.O. 19 DE JULIO DE 2022)
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+d).- Vigencia de 2 años, diez veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 2.- Automovilista:
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-a).- Vigencia Permanente, doce veces el valor diario de la Unidad de Medida y Actualización.
+a).- Vigencia Permanente, catorce veces el valor diario de la Unidad de Medida y Actualización.
 
 b).- (DEROGADO, P.O. 19 DE JULIO DE 2022)
 
 c).- (DEROGADO, P.O. 19 DE JULIO DE 2022)
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+d).- Vigencia de 2 años, ocho veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 3.- Motociclista:
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-a).- Vigencia Permanente, doce veces el valor diario de la Unidad de Medida y Actualización.
+a).- Vigencia Permanente, catorce veces el valor diario de la Unidad de Medida y Actualización.
 
 b).- (DEROGADO, P.O. 19 DE JULIO DE 2022)
 
 c).- (DEROGADO, P.O. 19 DE JULIO DE 2022)
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+d).- Vigencia de 2 años, ocho veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -2955,9 +2879,15 @@ c).- (DEROGADO, P.O. 19 DE JULIO DE 2022)
 
 Tratándose de extranjeros la vigencia de la licencia de conducir, no podrá ser mayor a la fecha de vencimiento del documento que acredite la legal estancia en el país.
 
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-XVII Bis.- Por la reposición de licencia de conducir diez veces el valor diario de la Unidad de Medida y Actualización;
+Los ciudadanos que cuenten con licencia de conducir con vigencia permanente deberán acudir a la Oficina Fiscal cada 5 años contados a partir de la expedición inicial de la misma a efecto de realizar el examen de valoración integral, sin que por ello pierda la calidad de permanente, debiendo pagar únicamente el costo de reposición.
+
+XVII Bis.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2025)
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+XVII Ter.- Por la expedición de licencia de conducir digital se pagará el importe de dos veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2024)</small>
 
@@ -3011,9 +2941,9 @@ XXVI.- Por la expedición anual del Certificado de Persona Operadora Titular o A
 
 XXVII.- Por ingreso en el Padrón de Maquinaria Pesada, con vigencia de 2 años, 5 veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-XXVIII.- Por el refrendo en el Padrón de Maquinaria Pesada, con vigencia de 2 años, 3 veces el valor diario de la Unidad de Medida y Actualización; y
+XXVIII.- Por el refrendo en el Padrón de Maquinaria Pesada, con vigencia de 2 años, 3 veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
@@ -3027,9 +2957,13 @@ Para efectos de lo anterior, la Secretaría de Finanzas establecerá el formato 
 
 Tratándose de la venta de motocicletas, los distribuidores y comerciantes estarán obligados a informar en la declaración los datos sobre el registro que se haga en el Padrón Vehicular de la Entidad, así como la nomenclatura de placas de circulación, el folio de la tarjeta de circulación y la Entidad que matriculó.
 
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN XXIX, P.O. 20 DE DICIEMBRE DE 2024]</small>
+> <small>(REFORMADO [N. DE E. PERTENECE A LA FRACCIÓN XXIX], P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-El incumplimiento de esta obligación se considerará infracción conforme lo establecido en el artículo 81, y será sancionado en términos del artículo 82, ambos del Código Fiscal del Estado de Tamaulipas.
+El incumplimiento de esta obligación se considerará infracción conforme lo establecido en el artículo 81, y será sancionado en términos del artículo 82, ambos del Código Fiscal del Estado de Tamaulipas; y
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+XXX.- Por la expedición del certificado de autenticidad de auto antiguo para la obtención de placas del mismo con vigencia de tres años, que emita la Secretaría de Finanzas, doce veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
@@ -3384,6 +3318,10 @@ b).- Por la actualización anual del Plan de Manejo, quince veces el valor diari
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
 XXV. Por la obtención del sello bajo en carbono del Estado de Tamaulipas en cualquiera de sus modalidades, treinta y cinco veces la Unidad de Medida de Actualización vigente y tendrá una vigencia de un año.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+Por los servicios prestados en las fracciones I, numeral I, IX, X, XI numerales 1, 2, 3, 4 y penúltimo párrafo, se pagará adicionalmente por dictaminación técnica el importe de veinticinco veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 76.
 
@@ -3749,13 +3687,19 @@ VI. Multas y sanciones a establecimientos por incumplimiento a la Ley de Protecc
 
 VII. Por la capacitación, actualización, especialización y profesionalización de integrantes de empresas privadas de protección y vigilancia, se pagarán, diariamente por cada elemento, el importe equivalente a seis veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-VIII. Por la certificación anual a empresas privadas que presten servicios de protección y vigilancia, se pagará el importe equivalente a ciento cuarenta y cinco veces el valor diario de la Unidad de Medida y Actualización; y
+VIII. Por la certificación anual a empresas privadas que presten servicios de protección y vigilancia, se pagará el importe equivalente a ciento cuarenta y cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-IX.- Por la aplicación de cada examen que las Instituciones de Seguridad Privada requieran para evaluar a los elementos que las conforman a razón de veinticinco veces el valor diario de la Unidad de Medida y Actualización, por cada evaluación.
+IX. Por la aplicación de cada examen que las Instituciones de Seguridad Privada requieran para evaluar a los elementos que las conforman a razón de veinticinco veces el valor diario de la Unidad de Medida y Actualización, por cada evaluación, y
+
+> <small>(ADICIONADA [N. DE E. CON SU INCISO], P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+X. Por los servicios de seguridad, custodia, traslado de valores y vigilancia a personas físicas o morales, públicas o privadas prestados por la Policía Auxiliar de la Secretaría de Seguridad Pública del Estado, se causarán derechos conforme a lo siguiente:
+
+a) Por hora, por cada elemento se pagará el importe equivalente a una vez el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2022)</small>
 
@@ -3865,25 +3809,29 @@ El servicio por publicaciones en el Periódico Oficial del Estado, causará dere
 
 I.- Precio del Periódico Oficial.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-1. Ejemplar del día, cuarenta por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
+1.- Por ejemplar del Periódico Oficial de sección legislativa o judicial, se pagará lo siguiente:
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+a).- Hasta 20 páginas, una vez el valor diario de la Unidad de Medida y Actualización;
 
-2. Ejemplar atrasado, ochenta por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
+b).- De 21 a 30 páginas, dos veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+c).- De 31 a 50 páginas, tres veces el valor diario de la Unidad de Medida y Actualización;
 
-3. Ejemplar extraordinario o con anexo hasta 20 páginas, 60 por ciento de una vez el valor diario de la Unidad de Medida y Actualización; de 21 a 50 páginas, dos veces el valor diario de la Unidad de Medida y Actualización; y con más de 50 páginas, cinco veces el valor diario de la Unidad de Medida y Actualización;
+d).- De 51 a 200 páginas, cuatro veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+e).- De 201 a 600 páginas, seis veces el valor diario de la Unidad de Medida y Actualización; y
 
-4. Suscripción semestral, treinta y un veces el valor diario de la Unidad de Medida y Actualización. El pago deberá efectuarse con un mes de anticipación a los siguientes períodos optativos: enero a junio y de julio a diciembre, o de abril a septiembre y de octubre a marzo; y
+f).- De 601 páginas en adelante, siete veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+2.- (DEROGADO, P.O. 16 DE DICIEMBRE DE 2025)
 
-5.- Por el envío de ejemplares a domicilio dentro del país se cobrará, dos veces y media el valor diario de la Unidad de Medida y Actualización.
+3.- (DEROGADO, P.O. 16 DE DICIEMBRE DE 2025)
+
+4.- (DEROGADO, P.O. 16 DE DICIEMBRE DE 2025)
+
+5.- (DEROGADO, P.O. 16 DE DICIEMBRE DE 2025)
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -5050,3 +4998,23 @@ P.O. 17 DE JUNIO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-907 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE GASTO PÚBLICO Y DE LA LEY PARA LA OPERACIÓN Y FUNCIONAMIENTO DE ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor el 01 de enero de 2026.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo no mayor a 120 días contados a partir de la entrada en vigor del presente Decreto, se realizarán adecuaciones administrativas y normativas necesarias a que haya lugar.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo de 30 días naturales, contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Finanzas en coordinación con la Secretaría de Desarrollo Urbano y Medio Ambiente, deberán publicar en el Periódico Oficial del Estado, las Reglas Generales del Impuesto Ambiental.
