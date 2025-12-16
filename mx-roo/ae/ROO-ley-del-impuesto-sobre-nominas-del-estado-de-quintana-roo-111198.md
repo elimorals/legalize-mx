@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-impuesto-sobre-nominas-del-estado-de-quintana-roo-11119
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2024-12-23"
+last_updated: "2025-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DEL IMPUESTO SOBRE NÓMINAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Quintana Roo, el martes 15 de diciembre de 2015.
 
@@ -47,7 +47,9 @@ LEY DEL IMPUESTO SOBRE NÓMINAS DEL ESTADO DE QUINTANA ROO.
 
 La presente ley es de carácter general y aplicable en el Estado de Quintana Roo.
 
-Los ingresos fiscales que se establecen en este ordenamiento se regularán por lo que en el mismo se señalen y por el Código Fiscal del Estado de Quintana Roo.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+Los ingresos y obligaciones fiscales, que se establecen en este ordenamiento se regularán por lo que en el mismo se señale, por el Código Fiscal del Estado de Quintana Roo, el Reglamento del Código Fiscal del Estado y de las Disposiciones de Carácter general que para el efecto emita la autoridad fiscal.
 
 Las violaciones a las disposiciones expresas en este ordenamiento serán sancionadas de conformidad con lo dispuesto en el Código Fiscal del Estado de Quintana Roo.
 
@@ -57,15 +59,15 @@ Para los efectos de la presente Ley, se entenderá por:
 
 I. CONTRATISTA: Persona física o moral que realiza una obra o presta un servicio con trabajadores bajo su dependencia, a favor de un contratante, quien fija las tareas del contratista y lo supervisa en el desarrollo de los servicios o la ejecución de las obras contratadas.
 
-II. CONTRATANTE: Persona física o moral que recibe los servicios de un contratista.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+II. CONTRATANTE: Persona física o moral que recibe los servicios especializados o de ejecución de obras especializadas de un contratista.
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE DICIEMBRE DE 2018)</small>
 
 III. CONSTRUCCIÓN: Obras de construcción, remodelaciones, edificaciones de obra, acabados y/o modificaciones.
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2018)</small>
-
-IV. INTERMEDIARIO: Toda persona que interviene en la contratación de los servicios de otra para ejecutar un trabajo en beneficio de un patrón.
+IV. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2025)
 
 V. PERSONA FÍSICA: Individuo que realiza las situaciones jurídicas o de hecho previstas en la presente Ley.
 
@@ -78,6 +80,10 @@ VII. SATQ: Al Servicio de Administración Tributaria del Estado de Quintana Roo.
 VIII. SECRETARÍA: A la Secretaría de Finanzas y Planeación.
 
 IX. SECRETARIO: Al Titular de la Secretaría de Finanzas y Planeación.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+IX BIS. SERVICIOS ESPECIALIZADOS O DE EJECUCIÓN DE OBRAS ESPECIALIZADAS: Son aquellos que reúnen elementos o factores distintivos de la actividad que desempeña la contratista, que se encuentran sustentados, entre otros, en la capacitación, certificaciones, permisos o licencias que regulan la actividad, equipamiento, tecnología, activos, maquinaria, nivel de riesgo, rango salarial promedio y experiencia, los cuales aportan valor agregado a la contratante.
 
 X. UNIDAD ECONÓMICA: Al conjunto de personas que realicen actividades empresariales con motivo de la celebración de un acto o negocio jurídico, cuando como consecuencia del mismo no surja una persona moral diferente de quienes la constituyan en los términos del derecho común; las unidades económicas tendrán personalidad jurídica para los efectos del derecho fiscal y se considerarán, para efectos fiscales sujetos pasivos de las obligaciones tributarias previstas en esta Ley. Las unidades económicas deberán nombrar un representante común ante las autoridades fiscales.
 
@@ -97,53 +103,45 @@ Son también objeto de este impuesto las erogaciones hechas de manera ocasional 
 
 Las disposiciones mencionadas en el párrafo anterior se sujetarán a lo establecido en los artículos 292, 293, 294, 304, 305 y 306 de la Ley Federal del Trabajo.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 3.
 
-Cuando las erogaciones en efectivo o en especie por concepto de remuneraciones al trabajo personal subordinado, independientemente de la designación que se les dé, bajo la dependencia o dirección de un patrón, sean efectuadas de forma directa o a través de contratistas, intermediarios, terceros o cualquiera que sea su denominación, deriven de construcción por obra o tiempo determinado, se sujetarán a lo siguiente:
+Cuando las erogaciones en efectivo o en especie por concepto de remuneraciones al trabajo personal subordinado especializado, sean efectuadas de forma directa o a través de contratistas, deriven de la construcción por obra especializada o tiempo determinado con el fin de ejecutar obras, construcciones, remodelaciones o edificaciones, se sujetarán a lo siguiente:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2018)</small>
+I. El contratista deberá presentar, mediante la forma autorizada disponible en la página electrónica de la Secretaría, el Aviso de Inicio de Obra ante la oficina autorizada por la Secretaría que corresponda al domicilio en donde se realizarán los trabajos, dentro del plazo de cinco días hábiles previos al inicio de la construcción, o dentro de los cinco días posteriores a la firma del Contrato de Obra, lo que suceda primero, para lo cual deberán realizar su inscripción ante el Registro Estatal de Contribuyentes y obtener la Constancia correspondiente;
 
-I. Deberán presentar, mediante la forma autorizada disponible en la página electrónica de la Secretaría, el Aviso de Inicio de Obra ante la oficina autorizada por la Secretaría que corresponda al domicilio en donde se realizarán los trabajos, dentro del plazo de 5 días hábiles previos al inicio de la construcción, o dentro de los cinco días posteriores a la firma del Contrato de Obra, lo que suceda primero, en el que informarán lo siguiente:
+Para el Aviso de Inicio de Obra deberá proporcionar e informar lo siguiente:
 
-a) Fecha de inicio de los trabajos;
+a. Acreditación de la personalidad;
 
-b) Tipo de obra a ejecutar;
+b. Formato de aviso en el que se anexa croquis de localización, y
 
-c) Ubicación de la obra;
+c. Licencia de construcción emitida por la autoridad municipal correspondiente, acompañada de los planos autorizados.
 
-d) Número de trabajadores y oficio o profesión a desempeñar de cada uno de éstos;
+II. La tasa del 4% se aplicará sobre el total de las erogaciones por concepto de mano de obra, pudiendo enterarse mediante pagos mensuales o conforme a lo previsto en el artículo 11 de la presente Ley;
 
-e) Importe diario de percepciones de cada trabajador;
+III. En el supuesto de que el contratista realice las actividades previstas en este artículo en el Estado y no cuente con Registro Estatal de Contribuyentes y la Constancia de Obligaciones Fiscales Estatales, el contratante estará obligado a presentar el aviso señalado en la fracción I así como de retener y enterar el impuesto sobre nóminas, correspondiente;
 
-f) Tiempo de duración de la obra y
+IV. El cumplimiento del pago del Impuesto Sobre Nóminas deberá garantizarse mediante depósito en efectivo o carta de crédito ante la oficina autorizada por la Secretaría que corresponda a su domicilio; cuyo monto será la sumatoria de la estimación de la contribución a enterar durante el periodo que dure la obra;
 
-g) Costo total de mano de obra.
+V. En caso de omitir la obligación prevista en la fracción I de este artículo, la Secretaría requerirá al contratista, o en su caso al contratante, para que dentro de los seis días hábiles siguientes a aquél en que surta efectos la notificación, proporcione la documentación necesaria para determinar el impuesto a cargo, debiendo exhibir y proporcionar, con independencia del Aviso de Inicio de Obra a que se refiere el presente artículo, la licencia de construcción expedida por la autoridad municipal competente;
 
-h) Bitácora y/o Estimaciones de construcción.
+VI. Transcurrido el plazo anterior sin que los sujetos obligados hubieren proporcionado la documentación señalada en la fracción I de este artículo, la autoridad fiscal competente considerará que las contribuciones no enteradas son las que resulten de aplicar la tasa del 4% sobre una cantidad equivalente a cuatro veces la UMA elevado al periodo por el que se omitió la contribución por cada uno de los trabajadores bajo su dependencia de manera directa o a través de un contratista, tercero o cualquiera que sea su denominación o hasta el 100% de la contribución omitida actualizada desde el mes en que se debió pagar; más las actualizaciones y recargos que se generen.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+Lo anterior con independencia de los enteros mensuales que deban realizarse hasta la conclusión de la obra;
 
-Para efectos de lo propuesto en el presente artículo, la tasa del 4% se aplicará sobre el total de las erogaciones por concepto de mano de obra, pudiendo enterarlo mediante pagos mensuales o conforme a lo previsto en el artículo 11 de la presente Ley.
+VII. Los propietarios o poseedores de bienes inmuebles, que realicen la edificación de una sola vivienda de interés social para su habitación personal, cuyo monto global no exceda de 6,624 veces la UMA no causarán este impuesto; tampoco lo causarán los propietarios o poseedores que realicen modificaciones y/o remodelaciones a una vivienda de interés social, cuando la obra no exceda de un monto de 927 veces la UMA. El documento con el que se acreditan los supuestos antes referidos, lo será la Licencia de Construcción y la Cédula Catastral correspondientes, que expida la autoridad municipal correspondiente.
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2018)</small>
+En caso de no acreditar el supuesto previsto en esta fracción, le será aplicable el procedimiento previsto en las fracciones I a la VI del presente artículo, y serán responsables solidarios por el adeudo que se genere en caso de incumplimiento, y
 
-II. El cumplimiento del pago del Impuesto Sobre Nóminas deberá garantizarse mediante depósito en efectivo o carta de crédito ante la oficina autorizada por la Secretaría que corresponda a su domicilio; cuyo monto será la sumatoria de la estimación de la contribución a enterar durante el periodo que dure la obra.
+VIII. Los contratistas están obligados a presentar, mediante las formas autorizadas por el SATQ, el Aviso de Incidencias de Obra, correspondiente a la suspensión, reanudación, modificación, cancelación y terminación de la obra, así como por la contratación de servicios especializados adicionales, dentro de los cinco días hábiles siguientes a la fecha de la incidencia; para ello deberán proporcionar e informar lo siguiente:
 
-III. En caso de omitir la obligación prevista en la fracción I de este artículo, la Secretaría requerirá a los sujetos a que se refiere el primer párrafo del presente artículo para que dentro de los seis días hábiles siguientes a aquél en que surta efectos la notificación, proporcionen la documentación necesaria para determinar el impuesto a cargo, debiendo exhibir y proporcionar, con independencia del Aviso de Inicio de Obra a que se refiere el presente artículo, la licencia de construcción expedida por la autoridad municipal competente.
+a) Formulario del Trámite;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2022)</small>
+b) Acreditación de la personalidad, y
 
-IV. Transcurrido el plazo anterior sin que los sujetos obligados hubieren proporcionado la documentación señalada en la fracción I de este artículo, la autoridad fiscal competente considerará que las contribuciones no enteradas son las que resulten de aplicar la tasa del 4% sobre una cantidad equivalente a cuatro veces la UMA elevado al periodo por el que se omitió la contribución por cada uno de los trabajadores bajo su dependencia de manera directa o a través de un intermediario, contratista, tercero o cualquiera que sea su denominación; más las actualizaciones y recargos que se generen;
-
-Lo anterior con independencia de los enteros mensuales que deban realizarse hasta la conclusión de la obra.
-
-V. Los propietarios o poseedores de bienes inmuebles, que realicen la edificación de una sola vivienda de interés social para su habitación personal, cuyo monto global no exceda de 6,624 veces la UMA no causarán este impuesto; tampoco lo causarán los propietarios o poseedores que realicen modificaciones y/o remodelaciones a una vivienda de interés social, cuando la obra no exceda de un monto de 927 veces la UMA. El documento con el que se acreditan los supuestos antes referidos, lo será la Licencia de Construcción y la Cédula Catastral correspondientes, que expida la autoridad municipal correspondiente.
-
-En caso de no acreditar el supuesto previsto en esta fracción, le será aplicable el procedimiento previsto en las fracciones I a la IV del presente artículo.
-
-Los propietarios de inmuebles que contraten los servicios de personas físicas o morales para trabajos de construcción, con excepción de lo establecido en la fracción anterior, deberán informar a la Secretaría dentro del plazo previsto en el primer párrafo de la fracción I de éste artículo, la fecha de inicio de operaciones, así como el tipo del servicio contratado y serán responsables solidarios por el adeudo que se genere en caso de incumplimiento.
+c) Licencia de construcción emitida por la autoridad municipal, en la modalidad correspondiente a la incidencia que se pretenda acreditar, acompañada en su caso de los planos autorizados.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -151,27 +149,35 @@ Los propietarios de inmuebles que contraten los servicios de personas físicas o
 
 Son sujetos pasivos de este impuesto las personas físicas, morales o unidades económicas, que realicen las erogaciones a que se refiere el artículo 2 de la presente Ley, aun cuando tengan su domicilio fuera del Estado.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-Los sujetos a que se refiere el párrafo anterior que contraten la prestación de servicios especializados de personal o de ejecución de obras especializadas a través de un tercero, cualquiera que sea su denominación, domiciliado dentro o fuera del territorio del Estado, deberán presentar Aviso en el que se especificará el nombre, denominación o razón social, registro federal de contribuyentes, domicilio fiscal en el Estado de Quintana Roo de su prestador, tipo de servicio especializado o de ejecución de obras especializadas que se haya contratado, el número de empleados, con independencia del tiempo por el que fueron contratados, el monto de la operación contratada, la vigencia del contrato, el cual deberá ser ratificado ante la autoridad fiscal competente dentro de los dos primeros meses del siguiente ejercicio fiscal, en los medios dispuestos por la Secretaría.
+También son sujetos de este impuesto las personas físicas, morales o unidades económicas que presten servicios especializados o de ejecución de obras especializadas, mediante acuerdo de voluntades verbal o a través de instrumento jurídico, aun cuando dichos contribuyentes tengan domicilio fuera del territorio del Estado, siempre y cuando las actividades económicas se presten en el interior del mismo.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-Cuando se contraten servicios especializados de personal o de ejecución de obras especializadas para más de un establecimiento, se deberá presentar aviso por cada uno mediante las formas aprobadas por la Secretaría en el que se especifique que la persona con la que suscribió el contrato de prestación de servicios se encuentra registrada en el Registro Estatal de Contribuyentes; en caso de no hacerlo, la autoridad fiscal competente tendrá por inscrito en el Registro Estatal de Contribuyentes al prestador con la obligación del Impuesto Sobre Nóminas.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-Asimismo, deberán presentar el Aviso de Alta o Aumento de Obligación como Retenedor.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-El plazo para presentar el Aviso de Alta o Aumento de Obligaciones como Retenedor del Impuesto Sobre Nóminas se realizará de forma simultánea con el Aviso a que se refiere el segundo párrafo del presente artículo, dentro de los tres días siguientes a la fecha de la firma del contrato. En el mismo plazo deberá informar a la autoridad sobre cualquier cambio al citado aviso.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+Previo a la celebración del instrumento jurídico, los contratistas, deberán inscribirse en el Registro de Prestadoras de Servicios Especializados de Personal o de Ejecución de Obras Especializadas que al efecto lleva la Secretaría, a través del SATQ para obtener su número de folio y referirlo en el contrato que al efecto celebre con la persona física, moral o unidad económica a la que le brinde este tipo de servicio, en términos del artículo 24 TER del Código Fiscal del Estado.
 
-Las personas físicas, morales o unidades económicas que desempeñen actividades comerciales, industriales, de servicios y de inversión de capital, mediante acuerdo de voluntades verbal o a través de instrumento jurídico, con independencia de la denominación que se le dé, deberán presentar dentro de los tres días siguientes a la celebración del mismo, el aviso mediante los medios electrónicos dispuestos por la Secretaría, a través del SATQ o acudiendo de forma personal ante las oficinas autorizadas que corresponda al domicilio de su establecimiento, informando el nombre de la persona física, moral o unidad económica con la que celebró dicho acto, el número de empleados que se encuentran bajo su dirección y/o dependencia, por los cuales efectúa erogaciones económicas por concepto de remuneraciones al trabajo personal subordinado, así como el tipo de trabajo especializado a desempeñar u obra especializada a ejecutar. En caso de omisión a la presentación del referido aviso, serán responsables solidarios las personas físicas, morales o unidades económicas con quien celebró dicho acto jurídico.
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+Artículo 4 BIS. Los sujetos que contraten la prestación de servicios especializados deberán presentar dentro de los cinco días siguientes a la celebración del instrumento jurídico o del acuerdo de voluntades verbal, el Aviso correspondiente; el cual deberá ser ratificado ante la autoridad fiscal competente dentro de los dos primeros meses del siguiente ejercicio fiscal, en los medios dispuestos por la Secretaría. Asimismo, está obligado a dar Aviso cuando la relación contractual que brindó la prestación de servicios especializados se concluya, termine o extinga.
 
-Asimismo, previo a la celebración del instrumento jurídico, deberán inscribirse en el Registro de Prestadoras de Servicios Especializados de Personal o de Ejecución de Obras Especializadas que al efecto lleva la Secretaría, a través del SATQ para obtener su número de folio y referirlo en el contrato que al efecto celebre con la persona física, moral o unidad económica a la que le brinde este tipo de servicio.
+Cuando se contraten servicios especializados para más de un establecimiento, se deberá presentar aviso por cada uno.
+
+Los contratantes serán responsables solidarios con quien celebraron dicho acto jurídico, ante el incumplimiento de las obligaciones que le corresponden en esta Ley, de conformidad con el artículo 23 del Código Fiscal del Estado de Quintana Roo.
+
+Adquieren el carácter de retenedor los sujetos que contraten la prestación de servicios especializados a través de un contratista o tercero, cualquiera que sea su denominación, domiciliados en otra entidad federativa, cuya realización genere la prestación de trabajo personal dentro del territorio del Estado y no cuente con su Registro Estatal de Contribuyentes y la Constancia correspondiente.
+
+Para los efectos de la retención se estará en lo dispuesto en el Título VI, "De las Retenciones" de la presente Ley.
+
+Los avisos y obligaciones que establece el presente artículo se realizarán en las formas, medios y con los requisitos, que establezca la Secretaría a través del SATQ, a través de las disposiciones de carácter general que emita.
 
 ## TÍTULO III. DE LA BASE Y DE LA TASA
 
@@ -195,21 +201,25 @@ De la recaudación del impuesto antes referido, se destinará al fideicomiso pú
 
 El monto antes referido, podrá alcanzarse a través de otros ingresos que para tal efecto la Secretaría determine.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+Artículo 6 BIS. El cálculo del impuesto cuando exista una prestación de servicios especializados o de ejecución de obras especializadas se determinará conforme al procedimiento establecido en el artículo 16 TER de la presente Ley.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE ENERO DE 2017)</small>
 
 ## TÍTULO IV. DE LA ÉPOCA DE PAGO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 7.
 
-Las personas físicas, morales o unidades económicas, aun cuando tengan su domicilio fuera del Estado, así como los intermediarios laborales cualquiera que sea su denominación deberán efectuar pagos mensuales que tendrán el carácter de definitivos a más tardar el día 10 del mes siguiente a aquel en el que se causó el impuesto, mediante las formas autorizadas por la Secretaría, a través de los medios dispuestos por ésta.
+Las personas físicas, morales o unidades económicas, deberán efectuar pagos mensuales que tendrán el carácter de definitivos a más tardar el día 10 del mes siguiente a aquel en el que se causó el impuesto, mediante las formas autorizadas por la Secretaría, a través de los medios electrónicos dispuestos por ésta. Dicha obligación prevalece al contratante cuando adquiere el carácter de retenedor, de conformidad con el artículo 4 BIS de esta Ley.
 
-Quedan incluidas las personas físicas, morales y unidades económicas que sin estar domiciliadas en el Estado, tengan personal subordinado en el territorio de este, en sucursales, bodegas, agencias, unidades económicas, dependencias, y cualquier ente o figura que permita tener personal subordinado dentro del mismo.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+Quedan incluidas las personas físicas, morales y unidades económicas que, sin estar domiciliadas en el Estado, tengan personal subordinado en el territorio de este, en sucursales, bodegas, agencias, unidades económicas, dependencias, y cualquier ente o figura que permita tener personal subordinado dentro del mismo; para lo cual deberá obtener su Registro Estatal de Contribuyentes y la Constancia de Obligaciones Fiscales Estatales.
 
-Están obligados a presentar aviso en términos del segundo párrafo del artículo 4 de esta ley quienes contraten a empresas que presten servicios especializados de personal o de ejecución de obras especializadas, para ejecutarlos con elementos propios y suficientes para cumplir con las obligaciones que deriven de las relaciones con sus trabajadores. Cualquiera que sea la forma de pago de las remuneraciones que efectúen estas personas con motivo de la prestación de servicios de personas físicas a personas físicas, morales o unidades económicas, serán sujetas del pago de este impuesto.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -221,11 +231,13 @@ La obligación de presentar declaraciones mensuales subsistirá aun cuando no hu
 
 El pago mensual será la cantidad que resulte de aplicar a las erogaciones previstas en el artículo 2 de esta ley por cada período en que se efectúe el pago, la tasa del 4%, hasta alcanzar un monto equivalente al proporcional del ingreso aprobado en la Ley de Ingresos del ejercicio fiscal que corresponda, en el entendido que el recurso que exceda dicho monto será destinado a los conceptos y en los términos establecidos en el artículo 14 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 9.
 
-Los retenedores de este impuesto, deberán presentar Declaración Informativa mensual, en las formas que al efecto determine la Secretaría, a través de los medios electrónicos dispuestos por ésta.
+Quienes contraten la prestación de servicios especializados o de ejecución de obras especializadas, deberán presentar Declaración Informativa cuatrimestral a más tardar el día 10 de los meses de enero, mayo y septiembre, en las formas, medios y requisitos que al efecto determine la Secretaría, a través del SATQ, mediante las disposiciones de carácter general; para tales efectos el contratista deberá remitir el comprobante del entero del impuesto correspondiente. El alta de la presente obligación deberá realizarse dentro de los cinco días hábiles posteriores a la fecha de su actualización.
+
+Para la verificación del cumplimiento del impuesto y de las obligaciones establecidas en la presente Ley, la Secretaría a través del SATQ, celebrará convenios de colaboración, para el intercambio de información y la realización de acciones de verificación conjuntas, en su respectivo ámbito de competencia.
 
 ###### Artículo 10.
 
@@ -283,11 +295,27 @@ IV. Las personas físicas, morales o unidades económicas que para efectos de im
 
 V. Cuando los contribuyentes detecten diferencias en sus pagos, deberán presentar declaraciones complementarias. Asimismo, cuando por motivo del ejercicio de las facultades de comprobación fiscal deberán presentarse declaraciones de corrección por los periodos omitidos.
 
-VI. Para los efectos previstos en el artículo 4 segundo párrafo de esta ley, quienes contraten servicios de administración de personal a personas físicas o morales que para efectos de impuestos federales tengan su domicilio fiscal en otra Entidad Federativa, deberán conservar en su domicilio fiscal a disposición de las autoridades fiscales, copias de la documentación, nóminas, listas de raya o cualquier otro medio de captura de información relacionado con este impuesto por un período de cinco años, contados a partir de la fecha en que se presentaron o debieron haberse presentado las declaraciones con ellas relacionadas, así como de su documentación contable fiscal relacionada con este impuesto.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+VI. Para los efectos previstos en el artículo 4 Bis de esta ley, quienes contraten la prestación de servicios especializados, que para efectos de impuestos federales tengan su domicilio fiscal en otra Entidad Federativa, deberán conservar en su domicilio fiscal a disposición de las autoridades fiscales, copias de la documentación, nóminas, listas de raya o cualquier otro medio de captura de información relacionado con este impuesto por un período de cinco años, contados a partir de la fecha en que se presentaron o debieron haberse presentado las declaraciones con ellas relacionadas, así como de su documentación contable fiscal relacionada con este impuesto.
 
 > <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 VII. Previo a cada contratación para la prestación de servicios especializados o de ejecución de obras especializadas deberá requerirle a su prestador acredite estar inscrito en el Registro de Prestadoras de Servicios Especializados de Personal o de Ejecución de Obras Especializadas de la Secretaría, a través del SATQ a que se refiere el artículo 24-Ter del Código Fiscal del Estado de Quintana Roo.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+VIII. En los casos en que contraten servicios especializados o de ejecución de obras especializadas, los contribuyentes deberán:
+
+a. Requerir a su prestador de servicios la Constancia de Obligaciones Fiscales Estatales;
+
+b. Requerir copia de su inscripción del Registro de Prestadoras de Servicios Especializados de Personal o de Ejecución de Obras Especializadas;
+
+c. Solicitar al contratista el comprobante del entero del impuesto;
+
+d. Conservar la documentación que acredite dicha inscripción o, en su caso, la que justifique la retención efectuada cuando el prestador no cuente con dicho registro, y
+
+e. Mantener a disposición de la autoridad fiscal, por un periodo de cinco años, las nóminas, listas de raya, comprobantes de pago, contratos y cualquier otro documento relacionado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2018)</small>
 
@@ -297,7 +325,7 @@ Los sujetos de este impuesto que tengan una o más sucursales dentro del Estado,
 
 En las declaraciones que se presenten en los términos del párrafo que antecede, deberán consignarse los datos concernientes al número de sucursales por las que se declarará y la ubicación de las mismas, así como el número de trabajadores por cada sucursal y los montos generados por cada una de ellas.
 
-Tratándose de intermediarios laborales deberán manifestar el número de empleados e impuesto causado por cada uno de los establecimientos donde se le hubiese contratado.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS QUE LO INTEGRAN, P.O. 17 DE ENERO DE 2017)</small>
 
@@ -307,23 +335,25 @@ Tratándose de intermediarios laborales deberán manifestar el número de emplea
 
 ### CAPÍTULO I. DE LAS RETENCIONES EN LO GENERAL
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 14.
 
-Quienes realicen pagos y erogaciones por cuenta de terceros gravados por este impuesto, a personas que presten servicios en el Estado, estarán obligados a retener el impuesto correspondiente y a enterarlo en la oficina autorizada por la Secretaría que corresponda al lugar en que se realice el pago en los términos y plazos establecidos por el artículo 7 de esta ley.
+Los contribuyentes que contraten servicios especializados o ejecución de obras especializadas en el territorio del Estado estarán obligados a retener y enterar el impuesto cuando el prestador del servicio o contratista no se encuentre inscrito en el Registro Estatal de Contribuyentes y en consecuencia no tenga la Constancia de Obligaciones Fiscales Estatales.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+La retención deberá efectuarse sobre las erogaciones gravadas realizadas en el Estado y enterarse en los plazos previstos por el artículo 7 de esta ley, a través de los medios autorizados por la Secretaría.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 15.
 
-Las personas a que se refiere el artículo anterior están obligadas a presentar aviso de inscripción ante la oficina autorizada por la Secretaría, a través del SATQ correspondiente a la jurisdicción del lugar donde se realicen los pagos por cuenta de terceros, debiendo proporcionar a ésta, el comprobante de retención.
+Las personas a que se refiere el artículo anterior están obligadas a presentar aviso de alta de la obligación como retenedor ante la oficina autorizada por la Secretaría, a través del SATQ correspondiente a la jurisdicción del lugar donde se realicen los pagos por cuenta de terceros, debiendo proporcionar a ésta, el comprobante de retención.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 16.
 
-Las dependencias y organismos auxiliares de la Administración Pública Federal, Estatal o Municipal que contraten obra pública con empresas foráneas o locales, tendrán la obligación de retener este impuesto a dichas empresas al efectuar el pago correspondiente de la obra y posteriormente enterarlo a la Secretaría mediante las formas autorizadas a través de las formas electrónicas dispuestas por la Secretaría y conforme a los medios previstos en el párrafo tercero del artículo 18 del Código Fiscal del Estado.
+Las dependencias y organismos auxiliares de la Administración Pública Federal, Estatal o Municipal que contraten obra pública con empresas foráneas o locales deberán dar el Aviso de Inicio de Obra señalado en el artículo 3 de ésta Ley; verificando la inscripción del prestador en el Registro Estatal de Contribuyentes y que cuente con la Constancia de Obligaciones Fiscales Estatales, así como de su Registro de Prestadoras de Servicios Especializados o de Ejecución de Obras Especializadas; siempre y cuando el contratista no presente el aviso previsto en el artículo 3. En caso de que dicho prestador no cuenta (sic) con la Constancia, la dependencia u organismo deberá retener el impuesto correspondiente.
 
 Para determinar la cantidad a retener se tomará como base del impuesto, la cantidad establecida por concepto de la mano de obra enterada en el presupuesto autorizado de la obra pública, aplicando la tasa señalada en el artículo 6 de esta ley, por cada pago de estimaciones por trabajos ejecutados, que se otorgue a la empresa constructora a cuenta de pago final y hasta la terminación de la obra.
 
@@ -335,9 +365,9 @@ El pago del impuesto retenido, deberá efectuarse dentro de los 10 días del mes
 
 ### CAPÍTULO II. DE LAS RETENCIONES POR PRESTACIÓN DE SERVICIOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-Artículo 16 BIS. Las personas físicas, morales o unidades económicas con domicilio fiscal en el Estado, que contraten la prestación de servicios especializados de personal o de ejecución de obras especializadas por la que se tenga la obligación de pagar el impuesto, con personas domiciliadas dentro o fuera del territorio del Estado, deberán:
+Artículo 16 BIS. Las personas físicas, morales o unidades económicas con domicilio fiscal en el Estado que contraten servicios especializados o ejecución de obras especializadas gravados por esta Ley con personas domiciliadas fuera del Estado deberán:
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
@@ -371,13 +401,23 @@ Los retenedores de este impuesto tendrán, además de las obligaciones señalada
 
 I. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2017)
 
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+I BIS. Presentar aviso de alta o aumento de obligaciones por el inicio de la retención del impuesto, de forma simultánea con el Aviso a que se refiere el primer párrafo del artículo 4 BIS de esta ley, dentro de los cinco días siguientes a la fecha de la firma del contrato. En el mismo plazo deberá informar a la autoridad sobre cualquier cambio al citado aviso;
+
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2024)</small>
 
 II. Presentar declaraciones mensuales del impuesto retenido y enterarlo a más tardar el día 10 del mes siguiente a aquel en que se efectúa la retención, en caso de no hacerlo se harán acreedores a las sanciones previstas en el Código Fiscal del Estado con independencia de la responsabilidad penal a que diere lugar.
 
 Las declaraciones a que se refiere el párrafo anterior, se presentarán aun cuando no exista contribución a pagar, mientras no se presente el aviso de disminución de obligaciones como retenedor;
 
-III. Llevar registros contables, que permitan identificar los importes de las retenciones que de conformidad con este título estén obligados a efectuar.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+III. Llevar registros contables, que permitan identificar los importes de las retenciones que de conformidad con este título estén obligados a efectuar, y
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+IV. Entregar, al contratista, la constancia de retención correspondiente.
 
 > <small>(ADICIONADO, P.O. 17 DE ENERO DE 2017)</small>
 
@@ -424,6 +464,10 @@ e) Instituciones de asistencia o de beneficencia autorizadas por las leyes en la
 f) Sociedades cooperativas de consumo.
 
 g) Las asociaciones civiles organizadas con fines científicos, políticos, religiosos, culturales o deportivos.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+h) La Administración Pública Centralizada y los Organismos Públicos Descentralizados en el Estado de Quintana Roo.
 
 No se considerarán para estos fines las instituciones educativas a menos que sus servicios sean gratuitos.
 
@@ -526,3 +570,11 @@ PRIMERO. El presente Decreto entrará en vigor el primer día del mes de enero d
 SEGUNDO. Para efectos de lo dispuesto en el segundo párrafo del Artículo 6, la Secretaría, dentro del plazo de 270 días naturales, contados a partir de la entrada en vigor del presente Decreto, deberá realizar las gestiones jurídicas y administrativas ante la institución fiduciaria, para la modificación al contrato del fideicomiso constituido para el fortalecimiento de la seguridad del Estado.
 
 TERCERO. Se derogan todas las disposiciones legales de igual o inferior jerarquía que se opongan al presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 190 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO SOBRE NÓMINAS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo,
+
+SEGUNDO. Se derogan todas las disposiciones legales de igual o inferior jerarquía que se opongan al presente decreto.
