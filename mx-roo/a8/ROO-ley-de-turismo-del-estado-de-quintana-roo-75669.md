@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-turismo-del-estado-de-quintana-roo-75669"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-28"
-last_updated: "2024-03-05"
+last_updated: "2025-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75669&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE TURISMO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 28 de junio de 2010.
 
@@ -1513,9 +1513,9 @@ III. Fecha de inicio de operaciones o apertura del establecimiento turístico;
 
 IV. Tipo de los servicios que se prestan y su categoría conforme a las normas aplicables;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MARZO DE 2024)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-V. Licencia de Funcionamiento y Registro Estatal de Contribuyentes, y
+V. Constancia de Obligaciones Fiscales Estatales y Registro Estatal de Contribuyentes, y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE MARZO DE 2024)</small>
 
@@ -2170,3 +2170,11 @@ Cuarto. La Comisión Ejecutiva de Turismo emitirá en un plazo no mayor a 90 dí
 Quinto. Para el cumplimiento de lo previsto en la fracción XXX del artículo 6, la Secretaría dentro de un plazo de 180 días naturales, contados a partir del inicio de la vigencia de (sic) presente decreto, deberá realizar las gestiones jurídicas y administrativas necesarias para constituir el Fondo de Apoyo para los Turistas, Visitantes y Prestadores de Servicios Turísticos en Situación de Emergencia, Desastres y Contingencias.
 
 Sexto. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto
+
+P.O. 16 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 194 POR EL QUE SE REFORMA UNA DISPOSICIÓN DE LA LEY DE TURISMO DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones legales de igual o inferior jerarquía que se opongan al presente Decreto.
