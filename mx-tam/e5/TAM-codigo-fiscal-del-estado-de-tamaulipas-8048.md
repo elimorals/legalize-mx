@@ -4,7 +4,7 @@ identifier: "TAM-codigo-fiscal-del-estado-de-tamaulipas-8048"
 country: "mx"
 rank: "codigo"
 publication_date: "1991-12-28"
-last_updated: "2024-12-20"
+last_updated: "2025-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 28 de diciembre de 1991.
 
@@ -255,11 +255,11 @@ Cuando las leyes fiscales establezcan que las contribuciones se calcularán por 
 
 En los casos en que una sociedad entre en liquidación, sea fusionada o se escinda, siempre que la sociedad escindente desaparezca, el ejercicio fiscal terminará anticipadamente en la fecha en que entre en liquidación, sea fusionada o se escinda, respectivamente. En el primer caso, se considerará que habrá un ejercicio por todo el tiempo en que la sociedad esté en liquidación. En el caso de fusión, la sociedad que subsista o surja presentará las declaraciones de la sociedad que desaparece.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 13.
 
-En los plazos fijados en días no se contarán los sábados, ni los domingos; como tampoco el 1° de enero; el primer lunes de febrero; el tercer lunes de marzo; el 1° y 5 de mayo; el 16 de septiembre; el tercer lunes de noviembre; el 1° de octubre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal; y, el 25 de diciembre.
+En los plazos fijados en días no se contarán los sábados, ni los domingos; como tampoco el 1° de enero; el primer lunes de febrero en conmemoración del 5 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; el 1° y 5 de mayo; el 16 de septiembre; el tercer lunes de noviembre en conmemoración del 20 de noviembre; el 1° de octubre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal; y, el 25 de diciembre.
 
 Tampoco se contará en dichos plazos, los días en que tengan vacaciones generales las autoridades fiscales estatales, excepto cuando se trate de plazos para la presentación de declaraciones y pago de contribuciones, exclusivamente, en cuyos casos esos días se consideran hábiles. No son vacaciones generales si se llegan a otorgar en forma escalonada.
 
@@ -272,6 +272,10 @@ Cuando los plazos se fijen por mes o por año, sin especificar que sean de calen
 No obstante lo dispuesto en los párrafos anteriores, si el último día del plazo o en la fecha determinada, las oficinas ante las que se vaya a hacer el trámite permanecen cerradas durante el horario normal de labores, o se trate de un día inhábil, se prorrogará el plazo hasta el siguiente día hábil. Lo dispuesto en este artículo es aplicable, inclusive cuando se autorice a las instituciones de crédito para recibir declaraciones o pagos.
 
 Las autoridades fiscales podrán habilitar los días inhábiles. Esta circunstancia deberá comunicarse a los particulares y no alterará el cálculo de plazos.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+Las autoridades fiscales podrán suspender los plazos por causa de fuerza mayor o caso fortuito. Dicha suspensión deberá darse a conocer mediante disposiciones de carácter general.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
@@ -2399,6 +2403,10 @@ V.- Se dicten en el procedimiento administrativo de ejecución, cuando se alegue
 
 VI.- Determinen el valor de los bienes embargados, a que se refiere el artículo 169.
 
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+VII.- Afecten el interés jurídico de terceros, en los casos a que se refiere el artículo 127 de este Código.
+
 ###### ARTICULO 117.
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 1995)
@@ -2411,11 +2419,11 @@ La interposición del recurso de revocación será optativa para el interesado a
 
 > <small>(DEROGADO ULTIMO PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 119.
 
-El escrito de interposición del recurso deberá presentarse ante la autoridad que emitió o ejecutó el acto impugnado, dentro de los treinta días siguientes a la fecha en que surta efecto su notificación.
+El escrito de interposición del recurso deberá presentarse ante la autoridad que emitió o ejecutó el acto impugnado, dentro de los treinta días siguientes a la fecha en que surta efecto su notificación, excepto lo dispuesto en el artículo 126 de este Código, en que el escrito del recurso deberá presentarse dentro del plazo que en el mismo se señala.
 
 Si el particular tiene su domicilio fuera de la población en que radique la autoridad que emitió o ejecutó el acto impugnado, el escrito de interposición del recurso podrá presentarse en la Oficina Fiscal más cercana a dicho domicilio o enviarlo a la autoridad que emitió o ejecutó el acto, por correo certificado con acuse de recibo, siempre que el envío se efectúe desde el lugar en que resida el recurrente. En estos casos, se tendrá como fecha de presentación del escrito respectivo, la del día en que se entregue a la oficina exactora o se deposite en la oficina de correos.
 
@@ -2437,7 +2445,9 @@ II.- Los agravios que le cause la resolución o el acto impugnado.
 
 III.- Las pruebas y los hechos controvertidos de que se trata.
 
-Cuando no se haga alguno de los señalamientos anteriores, la autoridad fiscal requerirá al promovente para que en el plazo de cinco días los indique, en caso de incumplimiento, se tendrá por no presentado el recurso.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+Cuando no se satisfaga lo establecido en las fracciones I, II y III, la autoridad fiscal requerirá al promovente para que dentro del plazo de cinco días cumpla con dichos requisitos. Si dentro de dicho plazo no se expresan los agravios que le cause la resolución o acto impugnado, la autoridad fiscal desechará el recurso; si no se señala el acto que se impugna se tendrá por no presentado el recurso; si el requerimiento que se incumple se refiere al señalamiento de los hechos controvertidos o al ofrecimiento de pruebas, el promovente perderá el derecho a señalar los citados hechos o se tendrán por no ofrecidas las pruebas, respectivamente.
 
 Cuando no se gestione en nombre propio, la representación de los interesados deberá acreditarse de conformidad con el artículo 20.
 
@@ -2457,7 +2467,9 @@ Cuando las pruebas documentales no obren en poder del recurrente, si éste no hu
 
 La autoridad fiscal, a petición del recurrente, recabará las pruebas que obren en el expediente en que se haya originado el acto impugnado, siempre que el interesado no hubiere tenido oportunidad de obtenerlas.
 
-En el caso de que no se acompañen al escrito de interposición del recurso de los documentos a que se refiere la fracción IV de este Artículo, se tendrán por no ofrecidas las pruebas respectivas. Cuando no se acompañen algunos de los documentos a que se refieren las demás fracciones de este precepto, la autoridad fiscal requerirá al promovente para que en el plazo de cinco días los presente, su falta de presentación dará lugar a que se tenga por no interpuesto el recurso.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+Cuando no se acompañe alguno de los documentos a que se refieren las fracciones anteriores, la autoridad fiscal requerirá al promovente para que los presente dentro del término de cinco días. Si el promovente no los presentare dentro de dicho término y se trata de los documentos a que se refieren las fracciones I a la III, se tendrá por no interpuesto el recurso; si se trata de las pruebas a que se refiere la fracción IV, las mismas se tendrán por no ofrecidas.
 
 ###### ARTICULO 123.
 
@@ -2478,6 +2490,18 @@ V.- Que sean conexos a otro que haya sido impugnado por medio de algún recurso 
 VI.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2018)
 
 VII.- Si son revocados los actos por la autoridad.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+VIII.- Que el contribuyente manifieste desconocer.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+IX.- Que exijan el pago de los créditos fiscales determinados en resoluciones liquidatorias que hubieren sido impugnadas y hayan quedado firmes por resolución de autoridad competente.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+X.- Que resuelvan sobre solicitudes de prescripción de créditos fiscales determinados en resoluciones liquidatorias que hubieren sido impugnadas y hayan quedado firmes por resolución de autoridad competente.
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 1997)</small>
 
@@ -2505,11 +2529,11 @@ El interesado podrá optar por impugnar un acto a través del recurso de revocac
 
 El recurso de revocación no procederá contra actos que tengan por objeto hacer efectivas fianzas otorgadas en garantía de obligaciones fiscales a cargo de terceros.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 126.
 
-Cuando el recurso de revocación se interponga porque el procedimiento administrativo de ejecución no se ajustó a la ley, las violaciones cometidas antes del remate sólo podrán hacerse valer hasta antes de la publicación de la convocatoria en primera almoneda, salvo que se trate de actos de ejecución sobre bienes legalmente inembargables, de actos de imposible reparación material, o de lo previsto por el artículo 128 de éste Código, casos en que el plazo para interponer el recurso se computará a partir del día siguiente al en que surta efecto la notificación del requerimiento de pago o del día siguiente al de la diligencia de embargo.
+Cuando el recurso de revocación se interponga porque el procedimiento administrativo de ejecución no se ajustó a la ley, las violaciones cometidas antes del remate sólo podrán hacerse valer hasta el momento de la publicación de la convocatoria de remate, y dentro de los diez días siguientes a la fecha de publicación de la citada convocatoria, salvo que se trate de actos de ejecución sobre bienes legalmente inembargables, de actos de imposible reparación material, o de lo previsto por el artículo 128 de éste Código, casos en que el plazo para interponer el recurso se computará a partir del día siguiente al en que surta efecto la notificación del requerimiento de pago o del día siguiente al de la diligencia de embargo.
 
 Si las violaciones tuvieron lugar con posterioridad a la mencionada convocatoria o se trate de venta de bienes fuera de subasta, el recurso se hará valer contra la resolución que finque el remate o la que autorice la venta fuera de subasta.
 
@@ -2649,11 +2673,11 @@ Tratándose de actos relativos al procedimiento administrativo de ejecución, el
 
 Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán a cargo de quien incurrió en el incumplimiento los honorarios que establezca el Reglamento de este Código.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 137.
 
-Las notificaciones por estrados se realizarán fijando el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación durante diez días; o publicando el documento citado, durante el mismo plazo en la página electrónica que al efecto establezcan las autoridades fiscales. Dicho plazo se contará a partir del día siguiente a aquél en que el documento fue fijado o publicado, según corresponda; la autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del décimo primer día contado a partir del día siguiente a aquél en el que se hubiera publicado el documento.
+Las notificaciones por estrados se realizarán publicando el documento que se pretenda notificar durante diez días en la página electrónica que al efecto establezcan las autoridades fiscales. Dicho plazo se contará a partir del día siguiente a aquél en que el documento fue publicado; la autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del décimo primer día contado a partir del día siguiente a aquél en el que se hubiera publicado el documento.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
@@ -2823,15 +2847,23 @@ El crédito fiscal se extingue por prescripción en el término de cinco años.
 
 El término de la prescripción se inicia a partir de la fecha en que el pago pudo ser legalmente exigido y se podrá oponer como excepción en los recursos administrativos. El término para que se consuma la prescripción se interrumpe con cada gestión de cobro que el acreedor notifique o haga saber al deudor o por el reconocimiento expreso o tácito de éste respecto de la existencia del crédito. Se considera gestión de cobro cualquier actuación de la autoridad dentro del procedimiento administrativo de ejecución, siempre que se haga del conocimiento del deudor.
 
-No se extinguen por prescripción las obligaciones ni los créditos a favor del fisco, en los casos que habiendo obligación de presentar avisos y manifestaciones ante las autoridades fiscales, éstos se omitieren.
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
-
-La declaratoria de prescripción de los créditos fiscales podrá realizarse de oficio por la autoridad recaudadora o a petición del contribuyente.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 Cuando se suspenda el procedimiento administrativo de ejecución en los términos del artículo 142 de este Código, también se suspenderá el plazo de la prescripción.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+Del mismo modo, se suspenderá el plazo a que se refiere este artículo cuando el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente, o cuando hubiere señalado de manera incorrecta su domicilio fiscal.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+El plazo para que se configure la prescripción, en ningún caso, incluyendo cuando este se haya interrumpido podrá exceder de diez años contados a partir de que el crédito fiscal pudo ser legalmente exigido. En dicho plazo no se computarán los periodos en los que se encontraba suspendido por las causas previstas en este artículo.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+La declaratoria de prescripción de los créditos fiscales podrá realizarse de oficio por la autoridad recaudadora o a petición del contribuyente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -3786,3 +3818,23 @@ Se Derogan las disposiciones normativas que se opongan al presente Decreto.
 La Secretaría de Finanzas del Gobierno del Estado deberá prever los mecanismos y otorgar las facilidades administrativas y operativas necesarias a los distribuidores y comerciantes de motocicletas para el cumplimiento de lo dispuesto en el primer párrafo de la fracción XXVII del artículo 73 de la Ley de Hacienda del Estado de Tamaulipas que se reforma por este Decreto. Dichas medidas deberán garantizar que los trámites de emplacamiento se realicen de manera eficiente y expedita, evitando retrasos injustificados, facilitando el cumplimiento de esta disposición.
 
 En un plazo no mayor a 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Finanzas deberá emitir las directrices y lineamientos específicos para la implementación de este Decreto, asegurando su eficacia y operatividad, debiendo preverse alternativas de cumplimiento al mismo en caso de retraso en los procesos de registro y emplacamiento vehicular.
+
+P.O. 16 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-907 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE GASTO PÚBLICO Y DE LA LEY PARA LA OPERACIÓN Y FUNCIONAMIENTO DE ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor el 01 de enero de 2026.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo no mayor a 120 días contados a partir de la entrada en vigor del presente Decreto, se realizarán adecuaciones administrativas y normativas necesarias a que haya lugar.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo de 30 días naturales, contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Finanzas en coordinación con la Secretaría de Desarrollo Urbano y Medio Ambiente, deberán publicar en el Periódico Oficial del Estado, las Reglas Generales del Impuesto Ambiental.
