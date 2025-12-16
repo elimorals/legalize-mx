@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-movilidad-del-estado-de-quintana-roo-129124"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-14"
-last_updated: "2025-01-29"
+last_updated: "2025-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129124&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 14 de junio de 2018.
 
@@ -79,7 +79,9 @@ El servicio de transporte contratado a través de plataformas tecnológicas o di
 
 El tránsito y vialidad Estatal y Municipal, estarán regulados por el Reglamento de Tránsito correspondiente. Los Ayuntamientos, en el ejercicio de sus atribuciones de planeación, regulación y supervisión, se sujetarán a lo establecido en esta Ley y demás disposiciones normativas que de ella deriven, así como a lo dispuesto en el Programa Integral de Movilidad y el Programa Integral de Seguridad Vial, debiendo, entre otros aspectos, hacer las adecuaciones correspondientes a su reglamentación municipal en los términos previstos en este ordenamiento.
 
-En la observancia de esta Ley se atenderán y aplicarán, en lo conducente, las disposiciones aplicables en las materias de equilibrio ecológico y la protección al ambiente, en particular la evaluación del impacto ambiental, las emisiones contaminantes a la atmósfera, la prevención y control del ruido y el manejo integral de residuos; asentamientos humanos; obras públicas; protección de derechos humanos; mejora regulatoria, y todas las demás que se vinculen directamente con la materia de movilidad a que se refiere el presente ordenamiento.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+En la observancia de esta Ley se atenderán y aplicarán, en lo conducente, las disposiciones aplicables en las materias de equilibrio ecológico y la protección al ambiente, en particular la evaluación del impacto ambiental, las emisiones contaminantes a la atmósfera, la prevención y control del ruido y el manejo integral de residuos; asentamientos humanos; obras públicas; protección de derechos humanos; simplificación administrativa y digitalización de trámites y servicios, buenas prácticas regulatorias, desarrollo y fortalecimiento de capacidades tecnológicas públicas, y todas las demás que se vinculen directamente con la materia de movilidad a que se refiere el presente ordenamiento.
 
 ###### Artículo 4.
 
@@ -3851,7 +3853,7 @@ V. Planificar y ordenar el tránsito Estatal, proponiendo a través del Titular 
 
 VI. Ordenar la inspección y disponer las medidas de seguridad técnica adecuadas para una vigilancia, supervisión y control de vehículos automotores para preservar el ambiente y salvaguardar la seguridad de las personas;
 
-VII. Expedir autorizaciones provisionales para circular sin placas o en los casos que determine el (sic) presente Ley y el Reglamento de Tránsito correspondiente;
+VII. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2025)
 
 VIII. Mediante convenios con los Ayuntamientos respectivos, ejercer el control estadístico sobre actualización en hechos de tránsito;
 
@@ -3887,7 +3889,7 @@ g) Planificar, coordinar y ordenar el tránsito municipal proponiendo al Preside
 
 h) (DEROGADO, P.O. 28 DE ABRIL DE 2023)
 
-i) Expedir autorizaciones provisionales para circular sin placas en los casos que determine la presente Ley y el Reglamento de Tránsito correspondiente;
+i) (DEROGADO, P.O. 16 DE DICIEMBRE DE 2025)
 
 j) Implementar nuevas modalidades en el manejo del tránsito, mediante convenios de coordinación con autoridades federales, estatales y otros Ayuntamientos;
 
@@ -4590,3 +4592,19 @@ P.O. 29 DE ENERO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 186 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO; LA LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO; LA LEY DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD PARA EL ESTADO DE QUINTANA ROO; LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE QUINTANA ROO; LA LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO; LA LEY DE PRESTACIÓN DE SERVICIOS INMOBILIARIOS DEL ESTADO DE QUINTANA ROO; LA LEY ORGÁNICA DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN DEL ESTADO DE QUINTANA ROO; Y LA LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE QUINTANA ROO Y SE ABROGA LA LEY DE MEJORA REGULATORIA DEL ESTADO DE QUINTANA ROO Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 188 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LA LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA Y LA LEY DE MOVILIDAD, TODAS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones legales de igual o inferior jerarquía que se opongan al presente Decreto.
