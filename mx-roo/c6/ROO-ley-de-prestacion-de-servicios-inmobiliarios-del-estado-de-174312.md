@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-prestacion-de-servicios-inmobiliarios-del-estado-de-1743
 country: "mx"
 rank: "ley"
 publication_date: "2024-09-06"
-last_updated: "2024-09-06"
+last_updated: "2025-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174312&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PRESTACIÓN DE SERVICIOS INMOBILIARIOS DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Extraordinario Número 175 del Periódico Oficial del Estado de Quintana Roo, el viernes 6 de septiembre de 2024.
 
@@ -469,9 +469,11 @@ V. Coadyuvar en la integración, actualización y supervisión del sistema infor
 
 ### CAPÍTULO ÚNICO. DEL SISTEMA INFORMÁTICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 24.
 
-La Secretaría de Desarrollo Territorial Urbano Sustentable, operará la base de datos, para su consulta pública a través del Sistema Informático que podrá ser creado y administrado de manera colaborativa con el Instituto Quintanarroense de Innovación y Tecnología y deberá cumplir con la funcionalidad establecida en la presente Ley y sus disposiciones reglamentarias.
+La Secretaría de Desarrollo Territorial Urbano Sustentable, operará la base de datos, para su consulta pública a través del Sistema Informático que podrá ser creado y administrado de manera colaborativa con la Agencia de Transformación Digital del Estado de Quintana Roo y deberá cumplir con la funcionalidad establecida en la presente Ley y sus disposiciones reglamentarias.
 
 Las funciones mínimas que deberá contener en base a las tecnologías de la información y comunicación, el sistema informático entre otras es el despliegue de:
 
@@ -485,7 +487,9 @@ IV. El Padrón de Consulta de las personas prestadoras de Servicios Inmobiliario
 
 V. Programas y calendarios de capacitación;
 
-VI. Cumplir con el estado de derecho de la ley de datos personales, transparencia y mejora regulatoria;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+VI. Cumplir con el estado de derecho de conformidad con lo previsto por la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo, la Ley de Protección de Datos personales en Posesión de Sujetos Obligados del Estado de Quintana Roo, y Ley Nacional para Eliminar Trámites Burocráticos;
 
 VII. Buzón de avisos y notificaciones para personas usuarias, y
 
@@ -610,3 +614,13 @@ Diputada Secretaria:
 Lic. Guillermina Verdejo Rosas.
 
 En cumplimiento a lo dispuesto por la fracción II del Artículo 91 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, y para su debida publicación y observancia, promulgo el presente Decreto número 229 en la Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Chetumal, Quintana Roo, a 07 de mayo de 2024,- Lic. María Elena H. Lezama Espinosa, Gobernadora del Estado.- Rúbrica.- Conforme a los artículos 93 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, y 11 de la Ley Orgánica de la Administración Pública del Estado de Quintana Roo, refrendado por la Secretaria de Gobierno, Lic. María Cristina Torres Gómez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 186 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO; LA LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO; LA LEY DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD PARA EL ESTADO DE QUINTANA ROO; LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE QUINTANA ROO; LA LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO; LA LEY DE PRESTACIÓN DE SERVICIOS INMOBILIARIOS DEL ESTADO DE QUINTANA ROO; LA LEY ORGÁNICA DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN DEL ESTADO DE QUINTANA ROO; Y LA LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE QUINTANA ROO Y SE ABROGA LA LEY DE MEJORA REGULATORIA DEL ESTADO DE QUINTANA ROO Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
