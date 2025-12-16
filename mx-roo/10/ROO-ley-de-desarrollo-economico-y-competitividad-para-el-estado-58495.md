@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-desarrollo-economico-y-competitividad-para-el-estado-584
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-17"
-last_updated: "2024-06-06"
+last_updated: "2025-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número 83 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 17 de diciembre de 2007.
 
@@ -81,7 +81,7 @@ VI. Capital Humano.- Conjunto de capacidades productivas que un individuo adquie
 
 VII. Centro de Articulación Productiva.- Organismo orientado al apoyo de la Micro, Pequeña y Mediana Empresa, mediante la prestación de servicios de consultoría y asesoría, cuyos objetivos serán articular los procesos productivos, fortalecer las empresas, propiciar la sustitución de importaciones y vincular la oferta con la demanda tanto en el mercado interno como el extranjero;
 
-VIII. CEMER.- Comisión Estatal de Mejora Regulatoria de Quintana Roo;
+VIII. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2025)
 
 IX. CENER.- Comisión de Energía de Quintana Roo;
 
@@ -239,7 +239,9 @@ k) La creación de esquemas de asociación e integración que fortalezcan la pos
 
 l) La vinculación de los programas, instrumentos, productos, herramientas y acciones para elevar la competitividad de las empresas;
 
-m) La mejora regulatoria, para crear un entorno altamente favorable y competitivo para impulsar las actividades económicas;
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+m) La simplificación administrativa, digitalización de trámites y servicios, buenas prácticas regulatorias, desarrollo y fortalecimiento de capacidades tecnológicas públicas en el Estado para crear un entorno altamente favorable y competitivo para impulsar las actividades económicas;
 
 n) Los programas para la explotación de los productos elaborados en el Estado;
 
@@ -409,7 +411,9 @@ IV.- Promover esquemas de capacitación de acuerdo con las necesidades, el poten
 
 V.- Contener objetivos a corto, mediano y largo plazos;
 
-VI.- Promover propuestas de mejora regulatoria que creen un ambiente de negocios propicio para la atracción de inversiones;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+VI.- Promover propuestas de simplificación administrativa, digitalización de trámites y servicios, buenas prácticas regulatorias, desarrollo y fortalecimiento de capacidades tecnológicas públicas que creen un ambiente de negocios propicio para la atracción de inversiones;
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
@@ -445,7 +449,9 @@ VIII.- Información económica y de mercados;
 
 IX.- Financiamiento; y
 
-X.- Mejora Regulatoria.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+X.- Simplificación administrativa, digitalización de trámites y servicios, buenas prácticas regulatorias, desarrollo y fortalecimiento de capacidades tecnológicas públicas.
 
 ### CAPÍTULO III. DE LAS CADENAS DE VALOR Y SU ARTICULACIÓN PRODUCTIVA
 
@@ -603,15 +609,17 @@ VIII.- Promover la regularización de las relaciones laborales, desalentando las
 
 (DEROGADO, P.O. 4 DE MAYO DE 2012)
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
 ### CAPÍTULO IX. DE LA MEJORA REGULATORIA
 
 ###### Artículo 35.
 
-La mejora regulatoria es un proceso corresponsable de las Dependencias del Estado y Entidades Paraestatales, así como de los Ayuntamientos y del Sector Privado, que tiene como fin impulsar la simplificación, desregulación, perfeccionamiento, eficacia y modernización de las leyes, reglamentos, procedimientos y demás disposiciones que impacten la actividad empresarial, así como la atracción y realización de proyectos de inversión.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2025)
 
 ###### Artículo 36.
 
-La Comisión a través de la Secretaría, se apoyará en la Comisión Estatal de Mejora Regulatoria (CEMER) para la formulación de las propuestas en materia de mejora regulatoria, mismas que buscarán reducir los tiempos o costos derivados de las disposiciones a que se refiere el artículo anterior.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2025)
 
 ### CAPÍTULO X. DE LA SUFICIENCIA ENERGÉTICA Y SU USO EFICIENTE
 
@@ -2042,3 +2050,11 @@ P.O. 6 DE JUNIO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 186 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO; LA LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO; LA LEY DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD PARA EL ESTADO DE QUINTANA ROO; LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE QUINTANA ROO; LA LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO; LA LEY DE PRESTACIÓN DE SERVICIOS INMOBILIARIOS DEL ESTADO DE QUINTANA ROO; LA LEY ORGÁNICA DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN DEL ESTADO DE QUINTANA ROO; Y LA LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE QUINTANA ROO Y SE ABROGA LA LEY DE MEJORA REGULATORIA DEL ESTADO DE QUINTANA ROO Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
