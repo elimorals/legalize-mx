@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2025-10-03"
+last_updated: "2025-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -1047,7 +1047,11 @@ XXXI. Vigilar la realización de los actos cívicos escolares de acuerdo con el 
 
 XXXII. Imponer sanciones a las escuelas que infrinjan las disposiciones legales, locales y nacionales en materia educativa; y
 
-XXXIII. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+XXXIII. Diseñar, implementar y supervisar, en coordinación con su órgano interno de control, la Comisión Estatal de Derechos Humanos, y la Fiscalía General del Estado, los protocolos para la atención de denuncias contra personal docente, garantizando la presunción de inocencia, el respeto al debido proceso administrativo y medidas de protección laboral así como la verificación objetiva de hechos, la protección de datos personales y las medidas de reparación integral en casos de sentencia ejecutoriada o auto de sobreseimiento del delito imputado; y
+
+XXXIV. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2003)</small>
 
@@ -2316,3 +2320,9 @@ P.O. 3 DE OCTUBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor a los 180 días siguientes de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0328.- QUE REFORMA EL ARTÍCULO 86, Y ADICIONA EL ARTÍCULO 88 BIS, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ; Y REALIZA ADICIÓN AL ARTÍCULO 40, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA (SIC) ESTADO DE SAN LUIS POTOSÍ.”
+
+ÚNICO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
