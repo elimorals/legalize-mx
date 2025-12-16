@@ -4,7 +4,7 @@ identifier: "ROO-ley-sobre-venta-y-consumo-de-bebidas-alcoholicas-en-el-56065"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-18"
-last_updated: "2024-12-23"
+last_updated: "2025-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número 33 Extraordinario al Periódico Oficial del Estado de Quintana Roo, el lunes 18 de junio de 2007.
 
@@ -47,9 +47,9 @@ LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE QUINTANA ROO
 
 Las disposiciones de la presente Ley son de orden público, interés social y de observancia general en el Estado de Quintana Roo y tiene por objeto regular la venta, consumo y/o distribución de bebidas alcohólicas y cualquier otra acción que conduzca a la realización de dichas actividades, de conformidad con lo establecido en la presente Ley.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-El consumo que se regulará en la presente Ley será en los casos específicos que se señalan en la misma, y para ello se deberá contar con un permiso especial y cubrir el pago previsto en la Ley de Derechos del Estado de Quintana Roo, y en su caso, con instalaciones que cuenten con servicios mínimos para garantizar la Seguridad Técnica y Protocolos de Seguridad Interna a que se refiere la fracción X del artículo 4 de esta Ley, enlazadas con la Secretaría de Seguridad Pública en su operación.
+El consumo que se regulará en la presente Ley será en los casos específicos que se señalan en la misma, y para ello se deberá contar con un permiso especial y cubrir el pago previsto en la Ley de Derechos del Estado de Quintana Roo, y en su caso, con instalaciones que cuenten con servicios mínimos para garantizar la Seguridad Técnica y Protocolos de Seguridad Interna a los que se refiere la fracción X del artículo 4 de esta Ley, enlazadas con la Secretaría de Seguridad en su operación.
 
 ###### ARTÍCULO 2.
 
@@ -71,7 +71,9 @@ Para los efectos de esta Ley, se consideran bebidas alcohólicas aquellas que co
 
 Para los efectos de esta Ley, se entenderá por:
 
-I.- El Ejecutivo: Al Gobernador del Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+I.- El Ejecutivo: La persona titular del Poder Ejecutivo del Estado de Quintana Roo;
 
 > <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
@@ -93,17 +95,17 @@ V.- Venta al mayoreo: Es la actividad comercial de compraventa de bebidas alcoh�
 
 VI.- Venta al menudeo: Es la actividad comercial de compra-venta de bebidas alcohólicas cuya finalidad está dirigida únicamente al último consumidor o público en general. En el caso de cerveza cuando la venta sea menor a dos hectolitros por cliente, por día y tratándose de destilados y demás bebidas alcohólicas, cuando la venta sea menor a quince litros por cliente, por día;
 
-> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-VII. Secretaría de Seguridad: A la Secretaría de Seguridad Pública del Estado de Quintana Roo;
-
-> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
-
-VIII. Dictamen de Anuencia: Documento que acredita el cumplimiento de los lineamientos mínimos de Seguridad Técnica y los Protocolos de Seguridad Interna;
+VII.- Secretaría de Seguridad: A la Secretaría de Seguridad Ciudadana del Estado de Quintana Roo;
 
 > <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
 
-IX. Establecimientos de Consumo Responsable: A los establecimientos que cuenten con certificación expedida por la Secretaría de Seguridad, la que se obtiene por participar en programas de prevención, información y consumo responsable de bebidas alcohólicas, y acrediten lo siguiente:
+VIII.- Dictamen de Anuencia: Documento que acredita el cumplimiento de los lineamientos mínimos de Seguridad Técnica y los Protocolos de Seguridad Interna;
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
+
+IX.- Establecimientos de Consumo Responsable: A los establecimientos que cuenten con certificación expedida por la Secretaría de Seguridad, la que se obtiene por participar en programas de prevención, información y consumo responsable de bebidas alcohólicas, y acrediten lo siguiente:
 
 a. Que ofrezcan el servicio de transporte alternativo, por su propia cuenta, a fin de trasladar a las personas que consuman bebidas alcohólicas en este establecimiento hasta su domicilio;
 
@@ -117,15 +119,15 @@ e. Que no hayan sido sancionados, durante el último año, por actos relacionado
 
 > <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
 
-X. Seguridad Técnica: Conjunto de disposiciones que tutelan la vida e integridad corporal humana, así como el estado del equipo, enlaces de comunicación y demás condiciones de funcionamiento mecánico, tratándose de seguridad mínima, en los servicios de empresas con giro de venta, consumo y/o distribución de bebidas alcohólicas, y en general servicios y procedimientos mínimos para garantizar y obtener una imagen gravada, o su interconexión con el "Centro de Comando, Control, Comunicaciones y Cómputo" conforme a los protocolos de seguridad interna para validación de la Secretaría de Seguridad, y los requisitos, perfiles y estándares del personal de seguridad privada para operar los protocolos.
+X.- Seguridad Técnica: Conjunto de disposiciones que tutelan la vida e integridad corporal humana, así como el estado del equipo, enlaces de comunicación y demás condiciones de funcionamiento mecánico, tratándose de seguridad mínima, en los servicios de empresas con giro de venta, consumo y/o distribución de bebidas alcohólicas, y en general servicios y procedimientos mínimos para garantizar y obtener una imagen gravada, o su interconexión con el "Centro de Comando, Control, Comunicaciones y Cómputo" conforme a los protocolos de seguridad interna para validación de la Secretaría de Seguridad, y los requisitos, perfiles y estándares del personal de seguridad privada para operar los protocolos.
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-XI. Venta en línea y/o a domicilio: Venta de bebidas alcohólicas por parte del titular de una licencia a un consumidor a través de una plataforma tecnológica o digital o llamada telefónica, que puede incluir el envío de éstas hasta su domicilio.
+XI.- Venta en línea y/o a domicilio: Venta de bebidas alcohólicas por parte del titular de una licencia a un consumidor a través de una plataforma tecnológica o digital o llamada telefónica, que puede incluir el envío de éstas hasta su domicilio.
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-XII. Plataforma tecnológica o digital: Programas descargables en teléfonos móviles o instrumentos electrónicos a través de las cuales se pueden descargar o recibir datos o comunicaciones de voz a través de la telefonía celular o internet, y que, para efectos de la presente Ley, permiten a la persona física o moral propietaria o usuaria de la misma, administrar y operar en su carácter de gestor, intermediario, promotor, facilitador o cualquier otra actividad análoga, comprar y vender bebidas alcohólicas en la modalidad "en línea y/o a domicilio".
+XII.- Plataforma tecnológica o digital: Programas descargables en teléfonos móviles o instrumentos electrónicos a través de las cuales se pueden descargar o recibir datos o comunicaciones de voz a través de la telefonía celular o internet, y que, para efectos de la presente Ley, permiten a la persona física o moral propietaria o usuaria de la misma, administrar y operar en su carácter de gestor, intermediario, promotor, facilitador o cualquier otra actividad análoga, comprar y vender bebidas alcohólicas en la modalidad "en línea y/o a domicilio".
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
 
@@ -157,39 +159,55 @@ Para llevar a cabo la actividad señalada en el Artículo 1 de la presente Ley, 
 
 Los derechos por el otorgamiento, modificación, transferencia, refrendo, renovación o reposición de la Licencia de Bebidas Alcohólicas, y por el otorgamiento del Permiso Provisional o Especial a que se refiere esta Ley, se causarán con base a las tarifas establecidas en la Ley de Derechos del Estado de Quintana Roo.
 
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 7.
 
-A falta de disposición expresa en esta Ley, siempre que no contravenga la misma, serán aplicables supletoriamente las disposiciones del Código Fiscal del Estado y en su defecto las normas del derecho común, y en materia de Seguridad Técnica, la Ley de Seguridad Pública del Estado de Quintana Roo, así como los Lineamientos y Protocolos que emita la Secretaría de Seguridad.
+A falta de disposición expresa en esta Ley, siempre que no contravenga la misma, serán aplicables supletoriamente las disposiciones del Código Fiscal del Estado de Quintana Roo y en su defecto las normas del derecho común, y en materia de Seguridad Técnica, la Ley de Seguridad Ciudadana del Estado de Quintana Roo, así como los Lineamientos y Protocolos que emita la Secretaría de Seguridad.
 
 ###### ARTÍCULO 8.
 
 Son autoridades del Estado de Quintana Roo competentes para la aplicación y observancia de esta ley:
 
-I.- El Gobernador;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+I.- El Ejecutivo;
 
-II.- El Secretario de Finanzas y Planeación;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-III.- El Procurador Fiscal;
+II.- La persona titular de la Secretaría;
 
-IV.- El Subsecretario de Ingresos;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-V.- El Director General de Ingresos;
+III.- La persona titular de la Procuraduría Fiscal de la Secretaría;
 
-VI.- EL Director General de Licencias de Bebidas Alcohólicas;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-VII.- Los Recaudadores de Rentas;
+IV.- La persona titular de la Subsecretaría de Ingresos de la Secretaría;
 
-VIII.- Los Jefes del Departamento de Ejecución;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-IX.- Los Inspectores y Notificadores - Ejecutores.
+V.- La persona titular de la Dirección General de Ingresos de la Secretaría;
 
-> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-X. El Secretario de Seguridad Pública.
+VI.- La persona titular de la Dirección General de Licencias de Bebidas Alcohólicas de la Secretaría;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+VII.- La persona titular de la Dirección de Recaudación de la Dirección General del Servicio de Administración Tributaria del Estado de Quintana Roo del Municipio que corresponda;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+VIII.- Las personas titulares de las Jefaturas de Departamento de Ejecución de la Dirección General del Servicio de Administración Tributaria del Estado de Quintana Roo;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+IX.- Las personas Inspectoras y notificadoras – Ejecutoras de la Dirección General del Servicio de Administración Tributaria del Estado de Quintana Roo, y
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+X.- La persona titular de la Secretaría de Seguridad.
 
 > <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL DÉCIMO SEGUNDO TRANSITORIO DEL DECRETO 306, PUBLICADO EN EL P.O. DE 19 DE AGOSTO DE 2013, TODAS LAS MENCIONES A LA COMISIÓN ESTATAL DE MEJORA REGULATORIA EN LA LEY DE MEJORA REGULATORIA PARA EL ESTADO QUINTANA ROO O EN OTRAS DISPOSICIONES NORMATIVAS, A PARTIR DE LA VIGENCIA DEL PRESENTE DECRETO SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE LA GESTIÓN PÚBLICA.]</small>
 
@@ -213,7 +231,7 @@ VII.- Solicitar el auxilio de la fuerza pública;
 
 VIII.- Facilitar la información a quien lo solicite de acuerdo con lo que establezca la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo;
 
-IX.- Someter a Dictamen de la Comisión Estatal de Mejora Regulatoria cualquier adición, modificación o cancelación que se practique en el contenido de esta ley, para salvaguardar lo establecido en la Ley Estatal de Mejora Regulatoria;
+IX.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2025)
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2011)</small>
 
@@ -395,9 +413,13 @@ I. Venta de bebidas alcohólicas en envase abierto o al copeo, exclusivamente co
 
 II. Venta de bebidas alcohólicas en envase abierto o al copeo;
 
-III. Venta de bebidas alcohólicas en envase cerrado;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-IV. Venta de bebidas alcohólicas en envase cerrado para su distribución al mayoreo, y
+III. Venta de bebidas alcohólicas en envase cerrado al menudeo;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+IV. Venta al menudeo de bebidas alcohólicas en envase cerrado y venta de bebidas alcohólicas para su distribución al mayoreo, y
 
 V. Bodega o almacén de bebidas alcohólicas como sucursal sin venta directa al público.
 
@@ -1113,7 +1135,9 @@ La seguridad interna de las instalaciones en que se opere con licencia, permiso 
 
 Los Titulares de una licencia, permiso provisional o especial para la venta de bebidas alcohólicas, deberán poner en práctica programas de Seguridad Técnica y colaborar en los dispositivos de Seguridad Pública en las operaciones de la Secretaría de Seguridad con los equipos y cámaras en óptimas condiciones de operación que en su caso, permitan su enlace con el Centro de Comando, Control, Comunicaciones y Cómputo.
 
-Asimismo, la Secretaría de Seguridad hará del conocimiento de la Secretaría, cualquier situación en que los Titulares de una Licencia, Permiso Provisional o Especial para la venta de bebidas alcohólicas, no cuenten con la validación o refrendo trimestral del Dictamen de Anuencia, o sin los equipos y cámaras de vigilancia en óptimas condiciones de operación, o no hayan atendido o realizado el Protocolos (sic) de Seguridad Interna o el Protocolo de Seguridad Pública que corresponda, para la cancelación de la Licencia de Funcionamiento.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+Asimismo, la Secretaría de Seguridad hará del conocimiento de la Secretaría, cualquier situación en que las personas Titulares de una Licencia, Permiso Provisional o Especial para la venta de bebidas alcohólicas, no cuenten con la validación o refrendo trimestral del Dictamen de Anuencia, o sin los equipos y cámaras de vigilancia en óptimas condiciones de operación, o no hayan atendido o realizado los Protocolos de Seguridad Interna o el Protocolo de Seguridad Pública que corresponda, para la cancelación de la Constancia de Obligaciones Fiscales Estatales.
 
 Para la Validación o revisión ordinaria cada tres meses o extraordinarias o refrendo anual del Dictamen de Anuencia de la Secretaría de Seguridad a que hace referencia el artículo 4 fracción VIII de la presente Ley que acredita el cumplimiento de los lineamientos mínimos de Seguridad Técnica y los Protocolos de Seguridad Interna, se estará al siguiente procedimiento:
 
@@ -1137,17 +1161,29 @@ V. Salvo que en otra disposición legal o administrativa de carácter general se
 
 Se crea el Comité Local de Seguridad Técnica que estará integrado de la siguiente manera:
 
-I. El Titular de la Subsecretaría de Seguridad Pública del Estado, quien lo Presidirá indistintamente;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-II. El Titular de la Dirección de Registro y Supervisión a Empresas y Servicios de Seguridad Privada, quien fungirá como el Secretario Técnico del Comité;
+I. La persona Titular de la Subsecretaría de Seguridad Ciudadana de la Secretaría de Seguridad, quien ocupará la presidencia indistintamente.
 
-III. El Titular de la Dirección General de Auditoría Fiscal de la Secretaría, quien fungirá como vocal;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-IV. El Titular de la Secretaría o Dirección de Seguridad Pública Municipal correspondiente, quien fungirá como vocal;
+II. La persona Titular de la Dirección de Registro y Supervisión a Empresas y Servicios de Seguridad Privada de la Secretaría de Seguridad, quien ocupará la Secretaría Técnica del Comité;
 
-V. El Titular de la Dirección de Fiscalización Municipal correspondiente, quien fungirá como vocal.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-Los miembros del Comité Local de Seguridad tendrán el carácter de honoríficos sin retribución o emolumento alguno, por cada miembro propietario se designará un suplente, los cuales tendrán derecho a voz y voto, en caso de empate el Presidente tendrá voto de calidad.
+III. La persona Titular de la Dirección General del Servicio de Administración Tributaria del Estado de Quintana Roo, quien fungirá como persona vocal;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+IV. La persona Titular de la Secretaría o Dirección de Seguridad Ciudadana Municipal correspondiente, quien fungirá como persona vocal;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+V. La persona Titular de la Dirección de Fiscalización Municipal correspondiente, quien fungirá como persona vocal.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+Las personas integrantes del Comité Local de Seguridad ocuparan sus cargos con carácter honorífico sin retribución o emolumento alguno, por cada persona propietaria se designará una persona suplente, las cuales tendrán derecho a voz y voto, en caso de empate, la persona que ocupe la Presidencia tendrá voto de calidad.
 
 > <small>(ADICIONADO, P.O. 10 DE ENERO DE 2019)</small>
 
@@ -1502,5 +1538,21 @@ P.O. 23 DE DICIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 074 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE QUINTANA ROO”.]
 
 PRIMERO. El presente Decreto entrará en vigor el primer día del mes de enero de 2025.
+
+SEGUNDO. Se derogan todas las disposiciones legales de igual o inferior jerarquía que se opongan al presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 186 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO; LA LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO; LA LEY DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD PARA EL ESTADO DE QUINTANA ROO; LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE QUINTANA ROO; LA LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO; LA LEY DE PRESTACIÓN DE SERVICIOS INMOBILIARIOS DEL ESTADO DE QUINTANA ROO; LA LEY ORGÁNICA DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN DEL ESTADO DE QUINTANA ROO; Y LA LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE QUINTANA ROO Y SE ABROGA LA LEY DE MEJORA REGULATORIA DEL ESTADO DE QUINTANA ROO Y SUS MUNICIPIOS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 191 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones legales de igual o inferior jerarquía que se opongan al presente Decreto.
