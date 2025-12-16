@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-impuesto-al-hospedaje-del-estado-de-quintana-roo-124988
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-27"
-last_updated: "2024-12-23"
+last_updated: "2025-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LA LEY DEL IMPUESTO AL HOSPEDAJE DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Extraordinario al Número 146 del Periódico Oficial del Estado de Quintana Roo, el miércoles 27 de diciembre de 2017.
 
@@ -45,9 +45,11 @@ LA LEY DEL IMPUESTO AL HOSPEDAJE DEL ESTADO DE QUINTANA ROO
 
 ## TÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de carácter general y aplicable en el Estado de Quintana Roo y le serán complementarias las disposiciones del Código Fiscal del Estado de Quintana Roo.
+La presente Ley es de carácter general y aplicable en el Estado de Quintana Roo y le serán complementarias las disposiciones del Código Fiscal del Estado de Quintana Roo, el Reglamento del Código Fiscal del Estado de Quintana Roo y las Disposiciones de Carácter General que para el efecto emita la autoridad fiscal.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -131,9 +133,9 @@ VI. Los demás establecimientos en donde se brinde albergue temporal de personas
 
 Para efectos de la causación de este impuesto, solo se considerará el albergue sin incluir a los alimentos y demás servicios relacionados con los mismos.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-En los supuestos previstos en las fracciones anteriores de este artículo, cuando intervenga una persona física o moral en su carácter de intermediario, promotor o facilitador en el cobro de las contraprestaciones por servicios de hospedaje a través de plataforma tecnológica o digital y en caso de que se cubra por este medio, está obligada a retener y a enterar el impuesto a las personas a las que se preste el servicio de hospedaje, utilizando las formas autorizadas por la Secretaría a través de los medios electrónicos dispuestos por ésta, debiendo proporcionar al Anfitrión, constancia de dicha retención.
+En los supuestos previstos en las fracciones anteriores de este artículo, cuando intervenga una persona física o moral en su carácter de intermediario, promotor o facilitador en el cobro de las contraprestaciones por servicios de hospedaje a través de plataforma tecnológica o digital, y en caso de que el pago se realice por este medio, dicha persona estará obligada a retener y enterar el impuesto a las personas a las que se preste el servicio de hospedaje. Además, deberá expedir al anfitrión una constancia de la retención dentro de los 5 días siguientes a la fecha que se efectuó el pago correspondiente de dicha retención, en el formato que para tal efecto autorice la Secretaría a través del SATQ, en los medios electrónicos dispuestos por dicho órgano administrativo desconcentrado.
 
 > <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2019)</small>
 
@@ -155,21 +157,21 @@ El impuesto se causará en el momento de pago por la prestación del servicio de
 
 Son sujetos del impuesto, las personas físicas, morales o unidades económicas que paguen los servicios señalados en el artículo 4 de esta Ley.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-Cuando el servicio de hospedaje se brinde a través de un anfitrión, este deberá solicitar su inscripción ante el Registro Estatal de Contribuyentes y obtener la Licencia de Funcionamiento por cada uno de los establecimientos en donde se brinde el servicio de hospedaje, cumpliendo con todos y cada uno de los requisitos previstos en las disposiciones fiscales del Estado.
+Cuando el servicio de hospedaje se brinde a través de un anfitrión, este deberá solicitar su inscripción ante el Registro Estatal de Contribuyentes y obtener la Constancia de Obligaciones Fiscales Estatales, por cada uno de los establecimientos en donde se brinde el servicio de hospedaje, cumpliendo con todos y cada uno de los requisitos previstos en las disposiciones fiscales del Estado.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-Las plataformas tecnológicas o digitales que intervengan como intermediario, promotor o facilitador en el cobro de las contraprestaciones por servicios de hospedaje, deberán inscribirse en el Registro Estatal de Contribuyentes y obtener la Licencia de Funcionamiento con el carácter de retenedor, a efecto de coadyuvar en el cumplimiento de lo establecido en el artículo 11 de la Ley, y de conformidad con los lineamientos que para ello emita la Secretaría.
+Las plataformas tecnológicas o digitales que intervengan como intermediario, promotor o facilitador en el cobro de las contraprestaciones por servicios de hospedaje, deberán inscribirse en el Registro Estatal de Contribuyentes y obtener la Constancia de Obligaciones Fiscales Estatales, con el carácter de retenedor, a efecto de coadyuvar en el cumplimiento de lo establecido en el artículo 11 de la Ley, y de conformidad con los lineamientos que para ello emita la Secretaría.
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 Cuando se lleve a cabo la inscripción a que se refiere este párrafo, las plataformas digitales deberán designar ante el SATQ un representante legal y proporcionar un domicilio en el territorio del Estado de Quintana Roo, para efectos de notificación y vigilancia del cumplimiento de las obligaciones fiscales.
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-El SATQ dará a conocer en su página de Internet y en el Periódico Oficial del Estado de Quintana Roo, durante el mes de marzo de cada ejercicio fiscal, la lista de plataformas digitales que se encuentren inscritos (sic) en el Registro Estatal de Contribuyentes o tengan renovación vigente.
+El SATQ dará a conocer en su página de Internet y en el Periódico Oficial del Estado de Quintana Roo, durante el mes de marzo de cada ejercicio fiscal, la lista de plataformas digitales que cuenten con la Constancia de Obligaciones Fiscales Estatales o tengan renovación vigente.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
 
@@ -191,7 +193,9 @@ V. La denominación de la plataforma tecnológica o digital a través de la cual
 
 VI. Fecha de apertura o inicio de funcionamiento de la casa, departamento o demás modalidades a que se refiere (sic) las fracciones V y VI del artículo 4 de esta ley, y
 
-VII. Licencia de funcionamiento.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+VII. Constancia de Obligaciones Fiscales Estatales.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
 
@@ -235,9 +239,9 @@ Cuando se omita efectuar el desglose a que se refiere el párrafo anterior, la b
 
 Los prestadores de servicios tendrán la obligación de determinar, retener y enterar el impuesto, en forma expresa y por separado, a las personas que paguen los servicios objeto de esta contribución, ya sea que dichos pagos se efectúen por los beneficiarios directos del servicio o a través de terceros por conducto de agencias de viaje, intermediario, promotor, facilitador, o cualquier denominación que se le asigne.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-En el caso de que el cobro se realice a través de una plataforma tecnológica o digital que actúa como intermediario, ésta deberá realizar la determinación, retención y entero del impuesto a la autoridad fiscal, utilizando las formas autorizadas por la Secretaría a través de los medios electrónicos dispuestos por ésta, emitiendo el comprobante de cumplimiento al prestador del servicio de hospedaje.
+En el caso de que el cobro se realice a través de una plataforma tecnológica o digital que actúa como intermediario, ésta deberá realizar la determinación, retención y entero del impuesto a la autoridad fiscal, utilizando las formas autorizadas por la Secretaría a través del SATQ, en los medios electrónicos dispuestos por dicho órgano administrativo desconcentrado. Asimismo, deberá emitir la constancia de la retención en el formato autorizado por la Secretaría a través del SATQ.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
 
@@ -420,5 +424,13 @@ P.O. 23 DE DICIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 076 POR EL QUE SE REFORMAN Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO AL HOSPEDAJE DEL ESTADO DE QUINTANA ROO”.]
 
 PRIMERO. El presente Decreto entrará en vigor el primer día del mes de enero de 2025.
+
+SEGUNDO. Se derogan todas las disposiciones legales de igual o inferior jerarquía que se opongan al presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 189 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO Al HOSPEDAJE DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones legales de igual o inferior jerarquía que se opongan al presente Decreto.
