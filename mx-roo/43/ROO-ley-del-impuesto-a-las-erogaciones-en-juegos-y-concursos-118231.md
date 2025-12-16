@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-impuesto-a-las-erogaciones-en-juegos-y-concursos-118231
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-15"
-last_updated: "2016-12-15"
+last_updated: "2025-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DEL IMPUESTO A LAS EROGACIONES EN JUEGOS Y CONCURSOS DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el jueves 15 de diciembre de 2016.
 
@@ -47,7 +47,9 @@ LEY DEL IMPUESTO A LAS EROGACIONES EN JUEGOS Y CONCURSOS DEL ESTADO DE QUINTANA 
 
 La presente Ley es de carácter general y aplicable en el Estado de Quintana Roo, tiene por objeto regular el impuesto a las erogaciones en juegos y concursos.
 
-Los ingresos fiscales que se establecen en este ordenamiento se regularán por lo que en el mismo se señalen y por el Código Fiscal del Estado de Quintana Roo.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+Los ingresos y obligaciones fiscales, que se establecen en este ordenamiento se regularán por lo que en el mismo se señale, por el Código Fiscal del Estado de Quintana Roo, el Reglamento del Código Fiscal del Estado de Quintana Roo y las disposiciones de carácter general que para el efecto emita la autoridad fiscal.
 
 Las violaciones a las disposiciones expresas de este ordenamiento serán sancionadas de conformidad con lo dispuesto en el Código Fiscal del Estado de Quintana Roo.
 
@@ -85,11 +87,15 @@ El impuesto se pagará mediante retención que efectuará el operador del establ
 
 ## TÍTULO VI. DE LAS OBLIGACIONES DIVERSAS DE LOS CONTRIBUYENTES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 6.
 
-Los operadores de los establecimientos en los que se realicen los juegos o concursos o en los que se instalen las máquinas de juegos, en adición a la obligación de retener y enterar el impuesto a que se refiere el artículo 5, están obligados a:
+Las personas operadoras de los establecimientos en los que se realicen los juegos o concursos o en los que se instalen las máquinas de juegos, en adición a la obligación de retener y enterar el impuesto a que se refiere el artículo 5, están obligadas a:
 
-I.- Empadronarse en el Registro Estatal de Contribuyentes;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+I.- Inscribirse en el Registro Estatal de Contribuyentes y obtener su Constancia de Obligaciones Fiscales Estatales;
 
 II.- Expedir comprobantes por cada contraprestación que cobren, incluyendo la carga y recarga, que otorguen a quienes utilicen las máquinas de juegos, en la que conste expresamente y por separado el importe retenido; y
 
@@ -136,3 +142,13 @@ EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 FRANCISCO XAVIER LÓPEZ MENA.
 
 (RUBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 193 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO A LAS EROGACIONES EN JUEGOS Y CONCURSOS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
