@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108837"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2025-10-09"
+last_updated: "2025-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 2 de junio de 2015.
 
@@ -113,9 +113,9 @@ VII. Certificado de Idoneidad: El documento expedido por el Sistema Estatal para
 
 VIII. Comisión Estatal: La Comisión de Derechos Humanos del Estado de Campeche;
 
-> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-VIII Bis. Crianza positiva: Conjunto de prácticas de cuidado, protección, formación y guía que ayudan al desarrollo, bienestar y crecimiento saludable y armonioso de las niñas, niños y adolescentes, tomando en cuenta su edad, facultades, características, cualidades, intereses, motivaciones, límites y aspiraciones, todo en un marco de respeto a sus derechos, a cargo de las personas que tienen bajo su responsabilidad a niñas, niños y adolescentes derivado de la patria potestad, tutela, guarda y custodia, la enseñanza, la educación, la salud, acogimiento residencial o cualquier otro encargo de orientación, educación, cuidado o crianza;
+VIII Bis. Crianza positiva: Conjunto de prácticas de cuidado, protección, formación y guía que ayudan al desarrollo, bienestar y crecimiento saludable y armonioso de las niñas, niños y adolescentes, tomando en cuenta su edad, facultades, características, cualidades, intereses, motivaciones, límites y aspiraciones, sin recurrir a castigos corporales ni tratos humillantes y crueles, salvaguardando el interés superior de la niñez, todo en un marco de respeto a sus derechos, a cargo de las personas que tienen bajo su responsabilidad a niñas, niños y adolescentes derivado de la patria potestad, tutela, guarda y custodia, la enseñanza, la educación, la salud, acogimiento residencial o cualquier otro encargo de orientación, educación, cuidado o crianza;
 
 > <small>(ADICIONADA, P.O. 11 DE JULIO DE 2024)</small>
 
@@ -609,9 +609,11 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas atribu
 
 Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y sustentable, y en condiciones que permitan su desarrollo, bienestar, crecimiento saludable y armonioso, tanto físico como mental, material, espiritual, ético, cultural y social.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 43.
 
-Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo. Las autoridades estatales y municipales, en el ámbito de sus respectivas atribuciones, coadyuvarán a dicho fin mediante la adopción de las medidas apropiadas.
+Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de adoptar prácticas de crianza positiva y de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo. Las autoridades estatales y municipales, en el ámbito de sus respectivas atribuciones, coadyuvarán a dicho fin mediante la adopción de las medidas apropiadas.
 
 ###### Artículo 44.
 
@@ -619,13 +621,19 @@ Se establece como edad mínima para contraer matrimonio los dieciocho años.
 
 ### CAPÍTULO OCTAVO. DERECHO DE ACCESO A UNA VIDA LIBRE DE VIOLENCIA Y A LA INTEGRIDAD PERSONAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 45.
 
-Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda forma de violencia y a que se resguarde su integridad personal, a fin de lograr las mejores condiciones de bienestar y el libre desarrollo de su personalidad.
+Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda forma de violencia, a ser cuidados mediante una crianza positiva, respetuosa de todos sus derechos y a que se resguarde su integridad personal, a fin de lograr las mejores condiciones de bienestar y el libre desarrollo de su personalidad.
 
 > <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2021)</small>
 
 Queda prohibido que quienes tengan trato con niñas, niños y adolescentes ejerzan cualquier tipo de violencia en su contra, en particular el castigo corporal y humillante. Entendiéndose por castigo corporal o físico todo aquel acto cometido en contra de niñas, niños y adolescentes en el que se utilice la fuerza física, incluyendo golpes con la mano o con algún objeto, empujones, pellizcos, mordidas, tirones de cabello o de las orejas, obligar a sostener posturas incómodas, quemaduras, ingesta de alimentos hirviendo u otros productos o cualquier otro acto que tenga como objeto causar dolor o malestar, aunque sea leve. Y por castigo humillante cualquier trato ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizador y de menosprecio, y cualquier acto que tenga como objetivo provocar dolor, amenaza, molestia o humillación cometido en contra de niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, y de cualquier otra índole que brinde asistencia a niñas, niños y adolescentes, sin que, en modo alguno, se autorice a estos el uso del castigo corporal ni el castigo humillante.
 
 ###### Artículo 46.
 
@@ -648,6 +656,10 @@ VI. El trabajo en adolescentes mayores de quince años que pueda perjudicar su s
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2023)</small>
 
 VII. La incitación, coacción o reclutamiento para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+VII Bis. El castigo corporal y humillante; y
 
 VIII. Todas las formas de violencia que atenten e impidan su correcto desarrollo integral, promoviendo medios efectivos que impidan su participación activa y pasiva en eventos y espectáculos en los que se promueva toda forma de violencia.
 
@@ -1313,9 +1325,9 @@ III. Asegurar que cursen la educación obligatoria, participar en su proceso edu
 
 IV. Impartir en consonancia con la evolución de sus facultades, dirección y orientación apropiada a las niñas, niños y adolescentes, sin que ello pueda justificar limitación, vulneración o restricción alguna en el ejercicio de sus derechos;
 
-> <small>(REFORMADA, P.O. 26 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-V. Asegurar y ofrecer un entorno afectivo, comprensivo y sin violencia para el pleno, armonioso y libre desarrollo de su personalidad, mediante la crianza positiva basada en el cuidado y en las relaciones respetuosas y participativas;
+V. Asegurar y ofrecer un entorno afectivo, comprensivo y sin violencia para el pleno, armonioso y libre desarrollo de su personalidad, mediante la crianza positiva basada en el cuidado y en las relaciones respetuosas y participativas, sin que, se emplee el uso del castigo corporal, ni el trato humillante y/o denigrante;
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2024)</small>
 
@@ -1351,7 +1363,9 @@ II. Que las autoridades migratorias verifiquen la existencia de la autorización
 
 III. Que la directiva y personal de instituciones de salud, asistencia social, académicas, deportivas, religiosas o de cualquier otra índole, se abstengan de ejercer cualquier forma de violencia, maltrato, perjuicio, agresión, daño, abuso, acoso y explotación en contra de niñas, niños o adolescentes, y que formulen programas e impartan cursos de formación permanente para prevenirlas y erradicarlas; y
 
-IV. Que quienes tengan trato con niñas, niños y adolescentes se abstengan de ejercer cualquier tipo de violencia en su contra, en particular el castigo corporal.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+IV. Queda prohibido que quienes tengan trato con niñas, niños y adolescentes ejerzan cualquier tipo de violencia en su contra, en particular el castigo corporal y humillante.
 
 ###### Artículo 102.
 
@@ -1413,7 +1427,9 @@ V. Orientación y educación apropiada a su edad, encaminadas a lograr un desarr
 
 VI. Disfrutar en su vida cotidiana, del descanso, recreación, juego, esparcimiento y actividades que favorezcan su desarrollo integral;
 
-VII. Servicios de calidad y calidez, por parte de personal capacitado, calificado, apto y suficiente, con formación enfocada en los derechos de la niñez;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+VII. Servicios de calidad y calidez, por parte de personal capacitado, calificado, apto y suficiente, con formación enfocada en los derechos de la niñez y en la crianza positiva;
 
 VIII. Las personas responsables y el personal de los Centros de Asistencia Social se abstendrán de realizar actividades que afecten la integridad física y psicológica de las niñas, niños y adolescentes. De igual manera, los responsables evitarán que el personal que realice actividades diversas al cuidado de las niñas, niños y adolescentes, tenga contacto con éstos;
 
@@ -1633,7 +1649,9 @@ XIII. Proteger los derechos de niñas, niños y adolescentes, cuando los mismos 
 
 XIV. Impulsar la cooperación y coordinación de las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, en materia de protección y restitución de derechos de niñas, niños y adolescentes para establecer los mecanismos necesarios para ello;
 
-XV. Celebrar los convenios de colaboración con los Sistemas DIF Municipales, así como con organizaciones e instituciones de los sectores público, privado y social;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+XV. Celebrar los convenios de colaboración con los Sistemas DIF Municipales, así como con organizaciones e instituciones de los sectores público, privado y social a fin de otorgar herramientas de apoyo para fortalecer la crianza positiva entre las familias y comunidades, a través de materiales digitales, talleres permanentes y capacitación al personal en la materia;
 
 XVI. Promover la formación, capacitación y profesionalización del personal de instituciones vinculadas con la protección y restitución de los derechos de niñas, niños y adolescentes, así como para realizar y apoyar estudios e investigaciones en la materia;
 
@@ -2360,3 +2378,11 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las autoridades estatales, municipales, organismos autónomos y jurisdiccionales contarán con un plazo máximo de 180 días naturales a partir de la entrada en vigor del presente decreto para ajustar su normatividad, protocolos de actuación, lineamientos institucionales y formatos oficiales, a efecto de dar cumplimiento a las disposiciones contenidas en la presente Ley en materia de lectura fácil y acceso efectivo a la información para niñas, niños y adolescentes.
 
 TERCERO.- Las autoridades estatales, municipales, organismos autónomos y jurisdiccionales del estado de Campeche que intervengan en procedimientos administrativos o jurisdiccionales en los que participen niñas, niños o adolescentes, deberán capacitar a su personal en comunicación accesible, derechos de la infancia y lectura fácil, dentro de los 180 días naturales siguientes a la entrada en vigor del presente decreto.
+
+P.O. 16 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 154 POR EL QUE “SE REFORMA LA FRACCIÓN VIII BIS DEL ARTÍCULO 4; EL ARTÍCULO 43; EL PÁRRAFO PRIMERO DEL ARTÍCULO 45; LA FRACCIÓN V DEL ARTÍCULO 99; LA FRACCIÓN IV DEL ARTÍCULO 101; LA FRACCIÓN VII DEL ARTÍCULO 105; LA FRACCIÓN XV DEL ARTÍCULO 114 Y, SE ADICIONAN EL PÁRRAFO TERCERO AL ARTÍCULO 45; LA FRACCIÓN VII BIS AL ARTÍCULO 46, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias del marco normativo local en lo que se opongan al presente decreto.
