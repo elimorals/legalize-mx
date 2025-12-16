@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-asentamientos-humanos-ordenamiento-territorial-y-129946"
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-16"
-last_updated: "2025-08-20"
+last_updated: "2025-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129946&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quinta Roo, el jueves 16 de agosto de 2018.
 
@@ -2621,7 +2621,9 @@ V. La satisfacción de las necesidades complementarias, generadas por las invers
 
 VI. La protección del patrimonio natural y cultural de los Centros de Población;
 
-VII. La mejora regulatoria y simplificación de los trámites administrativos que se requieran para la ejecución de acciones e inversiones de desarrollo urbano;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+VII. La simplificación administrativa y digitalización de trámites y servicios, buenas prácticas regulatorias, desarrollo y fortalecimiento de capacidades tecnológicas públicas que se requieran para la ejecución de acciones e inversiones de desarrollo urbano;
 
 VIII. El fortalecimiento de las administraciones públicas estatal y municipales para el desarrollo urbano;
 
@@ -2691,7 +2693,9 @@ Se promoverá: la legalidad, eficiencia, objetividad, calidad, imparcialidad, eq
 
 La Secretaría establecerá los lineamientos para la participación de especialistas que coadyuven y tengan una función responsable en el proceso de evaluación del impacto territorial, así como en otros temas para el cumplimiento y aplicación del presente ordenamiento.
 
-Igualmente, en los términos de la Ley de Mejora Regulatoria del Estado de Quintana Roo, se impulsarán programas y apoyos para mejorar la administración y gestión estatal y municipal del desarrollo urbano que propicien la uniformidad en trámites, permisos y autorizaciones en la materia, para disminuir sus costos, tiempos e incrementar la transparencia. Igualmente fomentará la adopción de tecnologías de la información y comunicación en los procesos administrativos que se relacionen con la gestión y administración territorial y los servicios urbanos.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+En los términos de la Ley Nacional para Eliminar Trámites Burocráticos, se propiciará la homologación de trámites, permisos y autorizaciones en la materia, para disminuir sus costos, tiempos e incrementar la transparencia, con el objetivo de impulsar programas y apoyos para mejorar la administración y gestión estatal y municipal del desarrollo urbano. De igual manera, fomentará la adopción de tecnologías de la información y comunicación en los procesos administrativos que se relacionen con la gestión y administración territorial y los servicios urbanos.
 
 ## Título Duodécimo. De las Bases Generales para la Ejecución de Acciones Urbanísticas
 
@@ -3508,3 +3512,11 @@ Las solicitudes que fueron presentadas previo a la entrada en vigor del presente
 CUARTO. Las obligaciones previstas en el artículo 46, párrafo primero de la Ley de Acciones Urbanísticas del Estado de Quintana Roo, en su porción normativa "con excepción a conjuntos urbanos tipo condominio" derivado de la sentencia de la controversia constitucional 471/2023, entrarán en vigor una vez que los Municipios emitan las disposiciones generales para su aplicación.
 
 QUINTO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 186 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO; LA LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO; LA LEY DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD PARA EL ESTADO DE QUINTANA ROO; LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE QUINTANA ROO; LA LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO; LA LEY DE PRESTACIÓN DE SERVICIOS INMOBILIARIOS DEL ESTADO DE QUINTANA ROO; LA LEY ORGÁNICA DE LA FISCALIA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN DEL ESTADO DE QUINTANA ROO; Y LA LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE QUINTANA ROO Y SE ABROGA LA LEY DE MEJORA REGULATORIA DEL ESTADO DE QUINTANA ROO Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
