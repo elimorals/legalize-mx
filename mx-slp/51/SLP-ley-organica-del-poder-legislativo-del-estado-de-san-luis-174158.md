@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-17415
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-08-21"
-last_updated: "2025-10-16"
+last_updated: "2025-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 21 de agosto de 2024.
 
@@ -35,7 +35,7 @@ La Sexagésima Tercera Legislatura Constitucional del Estado Libre y Soberano de
 
 EXPOSICIÓN DE MOTIVOS
 
-[…]
+[...]
 
 PRIMERO. Se expide la Ley Orgánica del Poder Legislativo del Estado de San Luis Potosí, en los siguientes términos:
 
@@ -467,6 +467,10 @@ La Diputación Permanente tiene la facultad de convocar a periodos extraordinari
 
 En los periodos extraordinarios únicamente podrán tratarse los asuntos especificados en la convocatoria. Las sesiones durarán el tiempo que sea necesario para desahogar los asuntos en cuestión.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+La apertura del periodo extraordinario se hará mediante la declaratoria de la persona que Presida la Directiva una vez que exista quórum legal, y declarará su clausura cuando hayan sido desahogados todos los asuntos enlistados en la convocatoria.
+
 ###### ARTÍCULO 37.
 
 Si un periodo extraordinario se prolonga hasta el inicio del periodo ordinario, cesará el primero y se dará preferencia en este periodo, a los asuntos que se estaban tratando.
@@ -683,9 +687,11 @@ VIII. Conducir, coordinar y vigilar los trabajos de las coordinaciones General d
 
 IX. Proponer al Pleno la designación, y la remoción en su caso, de la persona que Coordine el Instituto de Investigación y Evaluación Legislativa;
 
-X. Emitir de oficio o a petición de algún diputado o diputada, o promovente de una iniciativa, excitativa para que las comisiones resuelvan los asuntos de su competencia dentro del plazo establecido en esta Ley;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-XI. Disponer la implementación eficaz del software incrustado, denominado Sistema de Mensajería del Congreso, y
+X. Emitir de oficio o a petición de algún diputado o diputada, o promovente de una iniciativa, excitativa para que las comisiones resuelvan los asuntos de su competencia dentro del plazo establecido en esta Ley, y
+
+XI. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2025)
 
 XII. Las demás que le atribuyen esta Ley, el Reglamento y otras disposiciones legales aplicables.
 
@@ -719,7 +725,9 @@ II. Presidir las sesiones de manera puntual y conforme al orden del día aprobad
 
 III. Abrir las sesiones, suspenderlas y clausurarlas;
 
-IV. Citar oportunamente a los diputados a través de las secretarías;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+IV. Citar oportunamente a las y los diputados, por sí misma, o a través de las Secretarías, pudiendo para ello, hacer uso de medios tecnológicos;
 
 V. Declarar el quórum y la falta del mismo, procediendo conforme lo indican esta Ley y el Reglamento;
 
@@ -1029,9 +1037,11 @@ Son comisiones especiales, las que por disposición del Congreso del Estado se i
 
 Las Comisiones Permanentes y Temporales, son integradas por las y los diputados, constituidas por el Pleno, que tienen por objeto el estudio, análisis y elaboración de dictámenes, comunicaciones, informes, opiniones, resoluciones y acuerdos.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 84.
 
-Las comisiones de cortesía, son las designadas durante una sesión solemne por quien ejerce la Presidencia del Congreso del Estado, para conducir a los representantes de los otros Poderes del Estado, a personas invitadas especiales, o funcionarias que deben rendir protesta ante el Congreso.
+Las comisiones de cortesía podrán ser designadas durante una sesión solemne por quien ejerza la Presidencia del Congreso del Estado, a fin de recibir o conducir, a representantes de los otros Poderes del Estado, personas invitadas especiales, o funcionarias y funcionarios que deban rendir protesta ante el Congreso, cuando fuere necesario que asistan a la sesión, observando lo aplicable establecido en el artículo 22 del reglamento
 
 ###### ARTÍCULO 85.
 
@@ -1891,27 +1901,21 @@ La antelación de la publicación de la gaceta podrá ser dispensada, en los cas
 
 No podrán publicarse en la Gaceta los asuntos tratados en las sesiones privadas.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
 ### CAPÍTULO V. Del Software Incrustado Denominado Sistema de Mensajería del Congreso
 
 ###### ARTÍCULO 145.
 
-El Congreso del Estado contará con un software incrustado denominado Sistema de Mensajería del Congreso, tendrá la función de recibir, notificar, clasificar, ordenar, registrar, organizar, gestionar, centralizar, digitalizar y controlar la información relativa al trabajo parlamentario del Congreso.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2025)
 
 ###### ARTÍCULO 146.
 
-La Coordinación General de Servicios Parlamentarios; la Coordinación de Asesoría y Apoyo Técnico a Comisiones y Comités; la Unidad de Informática Legislativa; y en su caso, la Oficialía de Partes, proveerán la información que corresponda, al Sistema de Mensajería del Congreso.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2025)
 
 ###### ARTÍCULO 147.
 
-A través del Sistema de Mensajería del Congreso se podrá realizar lo siguiente:
-
-I. Enviar los citatorios correspondientes para notificar a las diputadas y los diputados, así como al personal del Congreso, sobre las reuniones de Pleno, de la Diputación Permanente; reuniones de comisiones, comités, así como cualquier otra actividad oficial de los órganos precitados;
-
-II. Presentar iniciativas, conforme las formalidades que establecen, la Constitución; la presente Ley; el Reglamento, y demás ordenamientos aplicables;
-
-III. Publicar la Gaceta Parlamentaria; las iniciativas; los puntos de acuerdo, así como los decretos y acuerdos aprobados, y
-
-IV. Registrar la asistencia de las diputadas y los diputados a las sesiones del Pleno.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2025)
 
 T R A N S I T O R I O S
 
@@ -1996,3 +2000,15 @@ P.O. 16 DE OCTUBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 0285.- QUE REFORMA EL ARTÍCULO 16, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ.
 
 ÚNICO. El presente Decreto entrará en vigor el día de su publicación del el (sic) Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 16 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0326.- QUE REALIZA ADICIÓN A LOS ARTÍCULOS 36 Y 84, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ; Y REFORMA LOS ARTÍCULOS 22 Y 143, DEL REGLAMENTO DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día de su publicación del el (sic) Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 16 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 0327.- QUE REFORMA LOS ARTÍCULOS 53 Y 57 Y REALIZA DEROGACIÓN EN EL ARTÍCULO 53, EL TÍTULO DÉCIMO EL CAPÍTULO V Y SUS ARTÍCULOS 145, 146 Y 147 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ; REFORMA LOS ARTÍCULOS 10, 33, 34, 40, 41, 42, 52, 63, 64, 65, 67, 132, 137, ADICIONA EL ARTÍCULO 9 BIS Y AL ARTÍCULO 63 Y REALIZA DEROGACIONES EN LOS ARTÍCULOS 42, 47, 48, 49 Y 163, DEL REGLAMENTO DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
