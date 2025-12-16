@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-salud-del-estado-de-quintana-roo-12303"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2023-11-07"
+last_updated: "2025-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE SALUD DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -2097,11 +2097,11 @@ Las Autoridades Sanitarias del Estado y las Educativas en el ámbito de sus resp
 
 El Gobierno del Estado, en coordinación con otras instituciones públicas federales o municipales, promoverá que en los lugares en que se presten servicios públicos, se dispongan facilidades para las personas discapacitadas.
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 146.
 
-La Unidad "Administración del Patrimonio de la Beneficencia Pública del Estado de Quintana Roo", es un Organismo Desconcentrado de los Servicios Estatales de Salud, cuyas funciones están contempladas en su Decreto de creación.
+La Administración del Patrimonio de la Beneficencia Pública del Estado de Quintana Roo, es un Organismo Desconcentrado de la Secretaría de Salud, cuyas funciones están contempladas en su Decreto de creación vigente.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2010)</small>
 
@@ -4086,3 +4086,11 @@ P.O. 7 DE NOVIEMBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 187 POR EL QUE SE REFORMA EL ARTÍCULO 146 DE LA LEY DE SALUD DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
