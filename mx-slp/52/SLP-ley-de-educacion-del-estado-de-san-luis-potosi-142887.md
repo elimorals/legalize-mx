@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-142887"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-14"
-last_updated: "2025-11-11"
+last_updated: "2025-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de mayo de 2020.
 
@@ -1023,7 +1023,9 @@ I. Priorizar su labor para el logro de metas y objetivos centrados en el aprendi
 
 II. Fortalecer su desarrollo y superación profesional mediante la formación, capacitación y actualización;
 
-III. Fomentar el respeto a la labor docente y a su persona por parte de las autoridades educativas, de los educandos, madres y padres de familia o tutores y sociedad en general; así como fortalecer su liderazgo en la comunidad;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+III. Fomentar el respeto a la labor docente y a su persona por parte de las autoridades educativas, de los educandos, madres y padres de familia o tutores y sociedad en general, con el propósito de preservar la convivencia pacífica y garantizar entornos escolares libres de violencia; así como fortalecer su liderazgo en la comunidad;
 
 IV. Reconocer su experiencia, así como su vinculación y compromiso con la comunidad y el entorno donde labora, para proponer soluciones de acuerdo a su contexto educativo;
 
@@ -1050,6 +1052,14 @@ Las autoridades educativas estatal y municipal, en el ámbito de sus respectivas
 Al efecto deberán observarse los criterios para la reducción de la carga administrativa del personal con funciones docente, técnico docente, de asesoría técnica pedagógica, de dirección o supervisión, que emita la autoridad educativa federal, en términos del artículo 14 de la Ley General del Sistema para la Carrera de las Maestras y los Maestros.
 
 En las actividades de supervisión las autoridades educativas darán prioridad, respecto de los aspectos administrativos, a los apoyos técnicos, didácticos y demás para el adecuado desempeño de la función docente. Asimismo, se fortalecerá la capacidad de gestión de las autoridades escolares y la participación de las madres y padres de familia o tutores.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 88 BIS. Las autoridades educativas estatales y municipales deberán actuar con apego a los derechos humanos y la dignidad del personal docente que hayan sido denunciados por presuntos actos de violencia, acoso u hostigamiento en contra de docentes.
+
+Así mismo, deberán llevar a cabo los protocolos pertinentes que garanticen procedimientos imparciales para esclarecer los hechos, preservando preferentemente los derechos fundamentales de la víctima, así como en relación con la persona denunciada la presunción de inocencia, el respeto al debido proceso administrativo y medidas de protección laboral frente a actos de violencia, hostigamiento o señalamientos públicos no acreditados.
+
+En caso de que en el procedimiento instaurado en contra de personal docente no se compruebe su responsabilidad se procederá a realizar las medidas correspondientes con la finalidad de reestablecer los derechos laborales al trabajador de la educación.
 
 ### Capítulo II. Admisión, Promoción y Reconocimiento en Educación Básica y en Educación Media Superior
 
@@ -2212,3 +2222,9 @@ P.O. 11 DE NOVIEMBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0328.- QUE REFORMA EL ARTÍCULO 86, Y ADICIONA EL ARTÍCULO 88 BIS, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ; Y REALIZA ADICIÓN AL ARTÍCULO 40, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTADO DE SAN LUIS POTOSÍ”.]
+
+ÚNICO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
