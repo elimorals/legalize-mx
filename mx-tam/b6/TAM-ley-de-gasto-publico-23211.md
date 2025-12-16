@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-gasto-publico-23211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-25"
-last_updated: "2025-11-21"
+last_updated: "2025-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE GASTO PUBLICO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE GASTO PÚBLICO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de diciembre de 2001.
 
@@ -805,6 +807,46 @@ El ejercicio del gasto público comprende el manejo y aplicación de los recurso
 
 Los órganos autónomos estarán impedidos de realizar inversiones en títulos, valores o acciones de bolsa sujetos a riesgo o variación de mercado.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+###### ARTICULO 46 Ter.
+
+El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, podrá ampliar automáticamente los presupuestos aprobados para el ejercicio fiscal en curso, realizando las erogaciones adicionales a las autorizadas, hasta por el total de los ingresos ordinarios y extraordinarios que correspondan a ese ejercicio.
+
+La ampliación de las partidas presupuestales aprobadas para el ejercicio fiscal en curso, se ajustará a lo dispuesto en los artículos 8 y 14 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+###### ARTICULO 46 Quater.
+
+El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, podrá efectuar reducciones a los montos de los presupuestos aprobados para el ejercicio fiscal en curso, cuando se presenten contingencias que repercutan en una disminución de los ingresos presupuestados, así como las que se deriven de la aplicación de medidas de austeridad, racionalidad y atención a renglones prioritarios.
+
+Lo anterior, se ajustará a lo dispuesto en los artículos 13, fracción VI y 15 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+###### ARTICULO 46 Quinquies.
+
+El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, podrá asignar los recursos que se obtengan con exceso de lo previsto en la Ley de Ingresos del Estado, lo anterior, deberá realizarse de manera estricta, de conformidad con los artículos 13 y 14 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+###### ARTICULO 46 Sexies.
+
+De los movimientos que se efectúen en los términos de los artículos 46 Ter, 46 Quater y 46 Quinquies de esta Ley, el Ejecutivo informará al Congreso del Estado al rendir la Cuenta Pública del Gobierno del Estado de Tamaulipas.
+
+Lo anterior, deberá ajustarse a lo dispuesto en los artículos 8, 13, 14 y 15 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+###### ARTICULO 46 Septies.
+
+El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas podrá realizar transferencias o modificaciones presupuestales, siempre que dichas adecuaciones no incrementen el monto total del Presupuesto de Egresos autorizado y sus ampliaciones en su caso, ni disminuyan las asignaciones destinadas a programas prioritarios.
+
+Las transferencias deberán justificarse debidamente y efectuarse conforme a los Decretos aplicables y criterios de disciplina financiera, sostenibilidad presupuestaria, eficiencia y racionalidad del gasto, quedando sujetas a la disponibilidad de ingresos y a las previsiones contenidas en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, deberá informar al Congreso del Estado de las transferencias efectuadas en la cuenta pública, precisando los montos y el impacto en las metas de los programas presupuestarios correspondientes.
+
 (NOTA: EL 5 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 9 DE OCTUBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
@@ -1488,3 +1530,23 @@ A partir de la entrada en vigor del presente Decreto los órganos constitucional
 ###### ARTÍCULO SEXTO.
 
 Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No.66-907 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE GASTO PÚBLICO Y DE LA LEY PARA LA OPERACIÓN Y FUNCIONAMIENTO DE ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor el 01 de enero de 2026.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo no mayor a 120 días contados a partir de la entrada en vigor del presente Decreto, se realizarán adecuaciones administrativas y normativas necesarias a que haya lugar.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo de 30 días naturales, contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Finanzas en coordinación con la Secretaría de Desarrollo Urbano y Medio Ambiente, deberán publicar en el Periódico Oficial del Estado, las Reglas Generales del Impuesto Ambiental.
