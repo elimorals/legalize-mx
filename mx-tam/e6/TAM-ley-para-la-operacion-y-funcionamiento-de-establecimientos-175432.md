@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-operacion-y-funcionamiento-de-establecimientos-1754
 country: "mx"
 rank: "ley"
 publication_date: "2024-12-20"
-last_updated: "2024-12-20"
+last_updated: "2025-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175432&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY PARA LA OPERACIÓN Y FUNCIONAMIENTO DE ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número Extraordinario 41 del Periódico Oficial del Estado de Tamaulipas, el viernes 20 de diciembre de 2024.
 
@@ -179,7 +179,9 @@ XV. Depósito: Establecimiento en donde se enajenan Bebidas Alcohólicas en enva
 
 XVI. Envasadora: Negociación que se dedica al envasamiento de Bebidas Alcohólicas para su Enajenación en envase cerrado sin enfriar y al mayoreo el cual deberá contar con las instalaciones e infraestructura acorde con su objeto;
 
-XVII. Establecimiento con Cruce o Captación de Apuestas: Establecimiento en el que se realizan juegos con cruce o captación de apuestas incluidos sorteos, independientemente de la denominación que se les dé, así como apuestas remotas para eventos o competencias deportivas y para los cuales se requiera permiso conforme a lo dispuesto por la Ley Federal de Juegos y Sorteos y su Reglamento;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+XVII. Establecimiento con Cruce o Captación de Apuestas: Establecimiento en el que se realizan juegos con cruce o captación de apuestas incluidos sorteos, independientemente de la denominación que se les dé, así como apuestas remotas para eventos o competencias deportivas y para los cuales se requiera permiso conforme a lo dispuesto por la Ley Federal de Juegos y Sorteos y su Reglamento y en el que complementariamente se puedan enajenar bebidas alcohólicas para su consumo en el interior del mismo lugar;
 
 XVIII. Fábrica: Lugar de elaboración y envasamiento de Bebidas Alcohólicas cuyo conjunto de operaciones, son objeto de aprobación, vigilancia y control sanitario en los términos de la Ley de Salud Federal y Estatal. Su infraestructura e instalaciones especiales coinciden en su totalidad con los fines específicos de elaboración, debiendo contar con una superficie mayor a los 250 metros cuadrados;
 
@@ -345,7 +347,9 @@ En los casos de los Cines VIP, Hoteles o Moteles, Restaurantes y Restaurantes Ba
 
 IX. Los Salones de Fiestas y Eventos, de lunes a sábado de las diez a las dos horas del día siguiente y los domingos de las diez a las veinticuatro horas; y
 
-X. Las Palapas o Salones con Alberca de las diez a las dos horas del día siguiente.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
+
+X. Las Palapas o Salones con Alberca de lunes a sábado de las diez a las dos horas del día siguiente y los domingos de las diez a las veinticuatro horas.
 
 Para los giros referidos en el presente artículo, el 15 de septiembre, 24 y 31 de diciembre se observará el horario establecido al sábado.
 
@@ -413,7 +417,7 @@ I. Presentar solicitud por escrito, bajo protesta de decir verdad, en las formas
 
 II. Ser mayor de edad y estar en pleno goce y ejercicio de sus derechos, y en caso de ser una persona moral, estar debidamente constituida conforme a las leyes de los Estados Unidos Mexicanos;
 
-III. Gozar de buena reputación y no estar sujeto a condena por la comisión de delito doloso;
+III. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2025)
 
 IV. Si es extranjero deberá comprobar mediante documento oficial, su legal estancia en el país;
 
@@ -421,15 +425,17 @@ V. Declaración del domicilio fiscal en términos del artículo 11 del Código F
 
 VI. Declaración del tipo de giro, nombre, razón o denominación social y, en su caso, nombre comercial del Establecimiento;
 
-VII. Croquis o plano en que se indique, en forma clara y precisa, la ubicación del Establecimiento incluyendo, los nombres de las calles que corresponden a la manzana o área de ubicación del Establecimiento;
+VII. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2025)
 
 VIII. Licencia o constancia expedida por la autoridad sanitaria de la jurisdicción que corresponda, en la que se acredite que el local reúne los requisitos sanitarios en vigor;
 
 IX. Constancia expedida por el Ayuntamiento respecto al cumplimiento de los requisitos en materia del uso de la construcción o edificación del Establecimiento y de las distancias a que se refiere la fracción XII de este artículo;
 
-X. Constancia de no adeudos fiscales, expedida por la Oficina Fiscal del Estado, así como de estar inscrito en el Registro Estatal de Contribuyentes;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
-XI. Fotografías impresas a color, tanto del exterior como del interior del local, que muestren la totalidad del mismo, incluyendo sus instalaciones de atención al cliente, cocina, instalaciones sanitarias, entre otras, según su caso;
+X. Constancia de Cumplimiento de Obligaciones Fiscales, expedida por la Oficina Fiscal del Estado, así como estar inscrito en el Registro Estatal De Contribuyentes;
+
+XI. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2025)
 
 XII. Los Establecimientos que expendan Bebidas Alcohólicas, con los giros de Agencia Distribuidora, Almacén, Bar, Billar o Boliche, Centro Nocturno, Cantina, Centro de Espectáculos, Cervecería, Envasadora, Depósito, Fábrica, Microfábrica y Licorería, deberán estar ubicados a una distancia fuera de un perímetro de doscientos metros de otro similar, de planteles educativos, centros culturales, hospitales, sanatorios, hospicios, asilos, centros asistenciales, centros de trabajo con más de cien empleados, templos religiosos, centros de convivencia o instalaciones deportivas, edificios públicos o de asistencia social, así como en zonas residenciales, exceptuando sus áreas comerciales; quienes operen Establecimientos en contravención a lo señalado en esta fracción, serán sancionados de acuerdo a lo establecido en el artículo 72, fracción IV de esta Ley;
 
@@ -1048,3 +1054,25 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los dieciséis días del mes de diciembre del año dos mil veinticuatro.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS.- AMÉRICO VILLARREAL ANAYA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HÉCTOR JOEL VILLEGAS GONZÁLEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-907 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE GASTO PÚBLICO Y DE LA LEY PARA LA OPERACIÓN Y FUNCIONAMIENTO DE ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor el 01 de enero de 2026.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo no mayor a 120 días contados a partir de la entrada en vigor del presente Decreto, se realizarán adecuaciones administrativas y normativas necesarias a que haya lugar.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo de 30 días naturales, contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Finanzas en coordinación con la Secretaría de Desarrollo Urbano y Medio Ambiente, deberán publicar en el Periódico Oficial del Estado, las Reglas Generales del Impuesto Ambiental.
