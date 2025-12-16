@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-servicio-de-administracion-tributaria-del-estado-de-132
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2024-08-08"
+last_updated: "2025-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 31 de diciembre de 2018.
 
@@ -223,7 +223,9 @@ e. Difundir entre los contribuyentes las disposiciones de carácter general que 
 
 f. Realizar estudios y proyectos técnicos de investigación en el área de su competencia y mejorar los métodos y técnicas de orientación al contribuyente.
 
-XIV. Promover la correcta y oportuna inscripción en el registro estatal de contribuyentes de las personas físicas y morales que se ubiquen en las situaciones jurídicas previstas y expedir las licencias de funcionamiento.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2026)</small>
+
+XIV. Promover la correcta y oportuna inscripción en el registro estatal de contribuyentes de las personas físicas y morales que se ubiquen en las situaciones jurídicas previstas y expedir las Constancias de Obligaciones Fiscales Estatales;
 
 XV. Realizar la difusión de las formas oficiales para el cumplimiento de las obligaciones fiscales de los contribuyentes para facilitar su uso eficiente;
 
@@ -287,9 +289,9 @@ XXXII. Ordenar la suspensión del procedimiento administrativo de ejecución, cu
 
 XXXIII. Realizar los actos jurídicos necesarios para la defensa del interés fiscal de la Hacienda Pública del Estado, de la Federación y de los municipios, estos dos últimos derivados de los convenios de colaboración administrativa en materia fiscal;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2026)</small>
 
-XXXIV. Conocer y resolver las solicitudes de condonación de multas y recargos derivados de incumplimientos fiscales de contribuciones derivadas del convenio de colaboración administrativa celebrado con la federación y los Municipios conforme a lo establecido en el Código Fiscal de la Federación y el Código Fiscal Municipal del Estado de Quintana Roo; o condonación y reducción de multas y recargos estatales conforme al Código Fiscal del Estado, así como a otra normatividad aplicable;
+XXXIV. Conocer y resolver las solicitudes de reducción de multas y recargos generadas como consecuencia de incumplimientos fiscales de contribuciones derivadas del convenio de colaboración administrativa celebrado con la federación y los municipios conforme a lo establecido en el Código Fiscal de la Federación y el Código Fiscal Municipal del Estado de Quintana Roo; así como la reducción de multas y recargos estatales conforme al Código Fiscal del Estado, u otra normatividad aplicable;
 
 XXXV. Resolver sobre las solicitudes de prescripción de créditos fiscales y extinción de facultades de las autoridades fiscales federales relacionados con contribuciones comprendidas en los convenios de colaboración administrativa en materia fiscal federal o convenios con los municipios, así como las derivadas de las contribuciones estatales, en apego a las disposiciones del Código Fiscal de la Federación y del Estado respectivamente;
 
@@ -297,11 +299,15 @@ XXXVI. Ordenar y practicar, en la forma y términos que conforme a las leyes pro
 
 XXXVII. Diseñar, administrar y operar los sistemas electrónicos de información fiscal del Estado, que le permita desarrollar las funciones encargadas de una manera ágil, segura y de calidad para atender los objetivos que tiene asignados, medir el desempeño en el cumplimiento de sus metas y obtener los indicadores de gestión y estratégicos, para informar a la SEFIPLAN, los resultados obtenidos sobre el ejercicio de sus facultades y de la eficiencia en la administración tributaria;
 
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2026)</small>
+
+XXXVII BIS. Instrumentar la utilización de medios tecnológicos, electrónicos y de registro audiovisual, con fines de transparencia y documentación de actos de comprobación;
+
 XXXVIII. Crear y mantener actualizada la página electrónica del SATQ - SEFIPLAN para realizar la orientación, difusión y capacitación a los Contribuyentes sobre la normatividad fiscal existente en el Estado.
 
-> <small>(REFORMADA, P.O. 24 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2026)</small>
 
-XXXIX. Analizar y realizar las modificaciones de las formas oficiales que se utilicen para la inscripción al Registro Estatal de Contribuyentes, gestión de expedición de licencias de funcionamiento, presentación de declaraciones provisionales, anuales, el pago de contribuciones y demás relacionadas con las obligaciones estatales del contribuyente;
+XXXIX. Analizar y realizar las modificaciones de las formas oficiales que se utilicen para la inscripción al Registro Estatal de Contribuyentes, gestión de expedición de Constancias de Obligaciones Fiscales Estatales, presentación de declaraciones provisionales, anuales, el pago de contribuciones y demás relacionadas con las obligaciones estatales de la persona contribuyente;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE JULIO DE 2024)</small>
 
@@ -319,9 +325,13 @@ XLII. Convocar, previo curso correspondiente, a los peritos valuadores inscritos
 
 XLIII. Revisar y validar los avalúos que emitan los peritos valuadores inscritos en el Registro Estatal de Peritos Inmobiliarios para Fines Fiscales, a excepción de lo previsto en el artículo 15-E del Código Fiscal del Estado de Quintana Roo;
 
-> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2026)</small>
 
-XLIV. Sancionar a los peritos valuadores inscritos en el Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales conforme a lo previsto en la Ley de Valuaciones del Estado de Quintana Roo, y
+XLIV. Sancionar a los peritos valuadores inscritos en el Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales conforme a lo previsto en la Ley de Valuación para el Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2026)</small>
+
+XLIV BIS. Integrar, organizar, administrar y actualizar el Registro Estatal Vehicular, así como expedir permisos o autorizaciones provisionales para la circulación de vehículos sin placas, y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE JULIO DE 2024)</small>
 
@@ -667,9 +677,17 @@ XLIV. Convocar, previo curso correspondiente, a los peritos valuadores inscritos
 
 XLV. Revisar y validar los avalúos que emitan los peritos valuadores inscritos en el Registro Estatal de Peritos Inmobiliarios para Fines Fiscales, a excepción de lo previsto en el artículo 15-E del Código Fiscal del Fiscal del Estado de Quintana Roo;
 
-> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2026)</small>
 
-XLVI. Sancionar a los peritos valuadores inscritos en el Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales conforme a lo previsto en la Ley de Valuación del Estado de Quintana Roo, y
+XLVI. Sancionar a los peritos valuadores inscritos en el Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales conforme a lo previsto en la Ley de Valuación para el Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2026)</small>
+
+XLVI BIS. Integrar, organizar, administrar y actualizar el Registro Estatal Vehicular, así como expedir permisos o autorizaciones provisionales para la circulación de vehículos sin placas;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2026)</small>
+
+XLVI TER. Utilizar los medios tecnológicos, electrónicos y de registro audiovisual en el ejercicio de las facultades de comprobación, bajo los lineamientos y protocolos que para el efecto se emitan, y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE AGOSTO DE 2024)</small>
 
@@ -1036,3 +1054,11 @@ P.O. 8 DE AGOSTO DE 2024.
 PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. En un plazo de ciento ochenta días naturales contados a partir de la vigencia del presente Decreto, la persona Titular del Poder Ejecutivo del Estado y el Servicio de Administración Tributaria del Estado de Quintana Roo, en el ámbito de sus atribuciones deberán llevar a cabo la armonización a su Reglamento y sus manuales de organización y de procedimientos, conforme a lo establecido en el presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 188 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LA LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA Y LA LEY DE MOVILIDAD, TODAS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones legales de igual o inferior jerarquía que se opongan al presente Decreto.
