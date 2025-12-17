@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-nayarit-77
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-23"
-last_updated: "2023-03-28"
+last_updated: "2025-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77445&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el sábado 23 de octubre de 2010.
 
@@ -635,9 +635,17 @@ XXV. Constituir fideicomisos destinados al impulso de la investigación científ
 
 XXVI. Promover la capacitación, especialización y actualización de conocimientos en materia de ciencia, tecnología e innovación;
 
-XXVII. Establecer, promover y mantener actualizada la información y documentación científica y tecnológica de recursos humanos, materiales, organizativos y financieros, destinados a la investigación científica, al desarrollo tecnológico y la innovación en la Entidad, y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-XXVIII. Las demás que le confieran otras disposiciones legales para el cumplimiento de sus fines.
+XXVII. Establecer, promover y mantener actualizada la información y documentación científica y tecnológica de recursos humanos, materiales, organizativos y financieros, destinados a la investigación científica, al desarrollo tecnológico y la innovación en la Entidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XXVIII. Suscribir convenios de colaboración con las autoridades del Sistema Educativo Estatal, con la finalidad de desarrollar investigación que genere herramientas tecnológicas y de innovación que apoyen la alfabetización inicial, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XXIX. Las demás que le confieran otras disposiciones legales para el cumplimiento de sus fines.
 
 ### Capítulo II. Integración y funcionamiento
 
@@ -1044,3 +1052,13 @@ P.O. 28 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA LAS FRACCIONES V Y XVI DEL ARTÍCULO 15 DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE ELIMINACIÓN DE BRECHAS DE GÉNERO EN LA CIENCIA, TECNOLOGÍA E INNOVACIÓN".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE ALFABETIZACIÓN INICIAL".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo. Comuníquese el presente Decreto a la Secretaría de Educación y a los Servicios de Educación Pública, ambos del Estado de Nayarit, para su conocimiento y efectos conducentes.
+
+Tercero. Comuníquese el presente Decreto al Consejo de Ciencia y Tecnología del Estado de Nayarit, COCYTEN, para su conocimiento y efectos conducentes.
