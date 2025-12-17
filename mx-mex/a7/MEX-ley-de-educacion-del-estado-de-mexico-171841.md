@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-educacion-del-estado-de-mexico-171841"
 country: "mx"
 rank: "ley"
 publication_date: "2024-02-29"
-last_updated: "2025-12-12"
+last_updated: "2025-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=171841&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección Segunda del Número 39 de la Gaceta del Gobierno del Estado de México, el jueves 29 de febrero de 2024.
 
@@ -883,9 +883,11 @@ Las autoridades educativas, en el ámbito de sus respectivas competencias podrá
 
 Asimismo, se fomentará e impulsará el respeto, reconocimiento, valoración e importancia de la agricultura en la vida del ser humano.
 
+> <small>(REFORMADO, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 86.
 
-Las autoridades educativas, en el ámbito de sus respectivas competencias, y los particulares con autorización o con reconocimiento de validez oficial de estudios, contribuirán al desarrollo de una cultura de la salud, promoviendo la educación física, la práctica del deporte, los hábitos de higiene y de sana alimentación, promoverán y fomentarán la educación sobre salud bucodental, la práctica de hábitos de higiene dental. Así como la educación sexual y reproductiva, la salud e higiene menstrual y la prevención de adicciones a través del conocimiento de sus causas, riesgos y consecuencias, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez.
+Las autoridades educativas, en el ámbito de sus respectivas competencias, y los particulares con autorización o con reconocimiento de validez oficial de estudios, contribuirán al desarrollo de una cultura de la salud, promoviendo la educación física, la práctica del deporte, los hábitos de higiene y de sana alimentación, promoverán y fomentarán la educación sobre salud bucodental, la práctica de hábitos de higiene dental. Así como la educación sexual y reproductiva, mediante campañas permanentes a favor del respeto a la diversidad sexual y la no discriminación, adecuadas a la edad, autonomía progresiva, desarrollo cognitivo y madurez de los educandos fomentando en ellos la realización de estudios de laboratorio para detectar infecciones de transmisión sexual. La salud e higiene menstrual y la prevención de adicciones a través del conocimiento de sus causas, riesgos y consecuencias, de acuerdo con su edad, desarrollo evolutivo, cognoscitivo y madurez.
 
 ###### Artículo 87.
 
@@ -1802,3 +1804,11 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 254.- POR EL QUE SE ADICIONA EL SEGUNDO PÁRRAFO AL ARTÍCULO 1.6, LAS FRACCIONES XIX BIS Y XX BIS AL ARTÍCULO 2.16, Y LAS FRACCIONES XII BIS, XII TER Y XII QUATER AL ARTÍCULO 2.21 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO; SE REFORMA EL ARTÍCULO 86 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO; Y SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 9 DE LA LEY PARA PREVENIR, COMBATIR Y ELIMINAR ACTOS DE DISCRIMINACIÓN EN EL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
