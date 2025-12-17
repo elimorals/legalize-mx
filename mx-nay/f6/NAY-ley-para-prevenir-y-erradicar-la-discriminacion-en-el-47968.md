@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-prevenir-y-erradicar-la-discriminacion-en-el-47968"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-10"
-last_updated: "2020-02-28"
+last_updated: "2025-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACION EN EL ESTADO DE NAYARIT
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE ENERO DE 2026 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el sábado 10 de diciembre de 2005.
 
@@ -82,6 +84,104 @@ Cada una de las autoridades y de los órganos públicos estatales, de manera coo
 ###### Artículo 6.
 
 Para los efectos de esta Ley se entiende por discriminación, toda distinción, exclusión o restricción que, basada en las causas previstas en el artículo 2 del presente ordenamiento, que tenga por efecto impedir, menoscabar o anular el reconocimiento o el ejercicio de los derechos y libertades fundamentales de las personas, y la igualdad real de oportunidades de los individuos.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 6 Bis.
+
+Serán consideradas conductas discriminatorias, de manera enunciativa y no limitativa:
+
+I. Impedir el acceso a la educación pública o privada, así como becas e incentivos para la permanencia en los centros educativos, en los términos de las disposiciones aplicables, por razones de origen étnico o social, nacionalidad, características genéticas, discapacidades, condición social o económica, condiciones de salud, embarazo, lengua, opiniones, orientación sexual, género, estado civil, edad, apariencia física, ocupación o actividad, antecedentes penales o cualquier otro supuesto en el que se encuentre el alumno o alguno de sus ascendientes o descendientes directos;
+
+II. Establecer contenidos, métodos o instrumentos pedagógicos en que se asignen papeles contrarios a la equidad o que difundan o induzcan una condición de subordinación;
+
+III. Prohibir o negar el libre acceso, permanencia o ascenso al empleo por preferencia religiosa, sexual, identidad o filiación política o por tener poca antigüedad en el ámbito laboral, debido a la edad de la persona. En el caso de las mujeres, condicionar las oportunidades referidas a la realización en cualquier momento de pruebas de gravidez o embarazo;
+
+IV. Establecer diferencias en las remuneraciones, prestaciones y condiciones laborales para trabajos iguales;
+
+V. Negar o coartar el acceso a los programas de capacitación para el trabajo y de formación profesional;
+
+VI. Negar o limitar la información sobre los derechos sexuales y reproductivos o impedir el libre ejercicio de la determinación del número y espaciamiento de los hijos e hijas;
+
+VII. Negar o condicionar los servicios de atención médica, o impedir la participación en las decisiones a los sujetos de atención sobre su tratamiento médico o terapéutico dentro de sus posibilidades y medios;
+
+VIII. Restringir o negar información al interesado o, en su caso, a sus padres o tutores, sobre algún padecimiento, sus consecuencias, alternativas, posibles tratamientos a los que pueda acceder, riesgos y pronósticos, así como su historial médico. Este se deberá manejar en forma confidencial;
+
+IX. Efectuar o exigir pruebas de detección de cualquier tipo de enfermedad, en particular de VIH, sin previa información de su contenido y significado en forma explícita y comprensible y sin el previo consentimiento de la persona interesada o, en su caso, de los padres o tutores;
+
+X. Impedir a una persona la participación en condiciones equitativas en asociaciones civiles, políticas o de cualquier otra índole, con excepción de los casos que expresamente determine la ley;
+
+XI. Negar o condicionar el derecho de participación política y, específicamente, el derecho al sufragio, la elegibilidad y el acceso a todos los cargos públicos, así como la participación en el diseño y ejecución de políticas y programas de gobierno, en los casos y bajo los términos que establezcan las disposiciones aplicables;
+
+XII. Impedir el ejercicio de los derechos de propiedad, administración y disposición de bienes de cualquier otro tipo, salvo los casos que la ley o la autoridad legalmente restrinja;
+
+XIII. Impedir, negar, retardar u obstaculizar el derecho de acceso a la procuración e impartición de justicia;
+
+XIV. Impedir negar o restringir el derecho a ser oídos y vencidos, a la defensa o asistencia; y a la asistencia de personas intérpretes o traductoras en los procedimientos administrativos o judiciales, de conformidad con las normas aplicables; así como el derecho de las niñas y niños a ser escuchados;
+
+XV. Incitar o cometer actos de violencia, maltrato, tortura o detención arbitraria;
+
+XVI. Aplicar cualquier tipo de uso o costumbre que atente contra la dignidad e integridad humana;
+
+XVII. Impedir la libre elección de cónyuge o pareja;
+
+XVIII. Ofender, ridiculizar o promover la violencia en los supuestos a que se refiere el artículo 2 de esta Ley, a través de mensajes e imágenes en los medios de comunicación;
+
+XIX. Limitar la libre expresión de las ideas, creencias, conciencia o religión, o de prácticas o costumbres, siempre que estas no atenten contra el orden público;
+
+XX. Restringir el acceso a la información, salvo en aquellos supuestos que sean establecidos por las leyes en la materia e instrumento (sic) jurídicos internacionales aplicables;
+
+XXI. Obstaculizar el disfrute y ejercicio de las condiciones mínimas necesarias para el crecimiento y desarrollo saludable, especialmente de las niñas y niños;
+
+XXII. Impedir el acceso a la seguridad social y a sus beneficios o establecer limitaciones para la contratación de seguros médicos, salvo en los casos que la ley así lo disponga;
+
+XXIII. Limitar el derecho a la alimentación, vivienda y esparcimiento, conforme a las leyes aplicables en la materia;
+
+XXIV. Impedir el acceso a cualquier servicio público o privado, así como limitar el acceso y libre desplazamiento en los espacios públicos, por razones de origen étnico o social, nacionalidad, características genéticas, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, opiniones, orientación sexual, género, estado civil, edad, apariencia física, ocupación o actividad, antecedentes penales o cualquier otro supuesto;
+
+XXV. Negar a cualquier persona, por considerar su orientación sexual, alojamiento o iguales condiciones de alojamiento en cualquier lugar público destinado al hospedaje de personas, hoteles, moteles o en cualquier otro lugar público, inclusive centros de diversión o esparcimiento;
+
+XXVI. La falta de accesibilidad en el entorno físico, el transporte, la información, tecnología y comunicaciones, en servicios e instalaciones abiertos al público o de uso público;
+
+XXVII. La denegación de ajustes razonables que garanticen, en igualdad de condiciones, el goce o ejercicio de los derechos de las personas con discapacidad;
+
+XXVIII. Impedir, negar, restringir o condicionar el acceso de las personas con discapacidad a establecimientos públicos con personas o animales de apoyo o asistencia;
+
+XXIX. Obstruir cualquier medida de accesibilidad en el entorno físico, el transporte, la información, tecnología y comunicaciones, en servicios e instalaciones abiertos al público o de uso público y demás elementos destinados a la accesibilidad y movilidad de las personas con discapacidad;
+
+XXX. Cualquier acto que, considerando la orientación sexual, propicien la restricción o la intención de restringir las opciones de cualquier comprador o arrendatario para comprar o rentar la vivienda;
+
+XXXI. Impedir el acceso al transporte público, debido a su orientación sexual;
+
+XXXII. La explotación o trato denigrante o abusivo de que sea objeto cualquier persona, minoría, grupo o colectivo;
+
+XXXIII. Restringir la participación en actividades deportivas, recreativas o culturales, así como establecer diferencias en las remuneraciones, apoyos, becas, estímulos y/o compensaciones entre los atletas y los atletas paraolímpicos;
+
+XXXIV. Restringir o limitar a los indígenas y extranjeros el uso de su lengua o idioma, usos, costumbres y cultura, en actividades públicas o privadas, en términos de las disposiciones aplicables;
+
+XXXV. Incitar al odio, violencia, rechazo, burla, difamación, injuria, persecución o la exclusión, en los términos del artículo 2 de esta Ley;
+
+XXXVI. Estigmatizar o negar derechos a personas con adicciones; que han estado o se encuentren en centros de reclusión, o en instituciones de atención a personas con discapacidad mental o psicosocial;
+
+XXXVII. Realizar o promover el maltrato físico o psicológico por la apariencia física, forma de vestir, hablar, gesticular o por asumir públicamente su orientación o preferencia sexual, identidad de género, ideológica, política, religiosa o cualquier otra;
+
+XXXVIII. La falta de accesibilidad en el entorno físico, el transporte, la información, tecnología y comunicaciones, en servicios e instalaciones abiertos al público o de uso público;
+
+XXXIX. La denegación de ajustes razonables que garanticen, en igualdad de condiciones, el goce o ejercicio de los derechos de las personas con discapacidad;
+
+XL. Impedir, negar, restringir o condicionar el acceso de las personas con discapacidad a establecimientos públicos con personas o animales de apoyo o asistencia;
+
+XLI. Obstruir cualquier medida de accesibilidad en el entorno físico, el transporte, la información, tecnología y comunicaciones, en servicios e instalaciones abiertos al público o de uso público y demás elementos destinados a la accesibilidad y movilidad de las personas con discapacidad;
+
+XLII. Impedir el acceso a establecimientos mercantiles por distinción, exclusión o restricción, basada en el origen étnico o social, nacionalidad o lugar de origen, color o cualquier otra característica genética, sexo, lengua, identidad de género, estado civil, ocupación o actividad;
+
+XLIII. Impedir o restringir el ejercicio de los derechos humanos consagrados en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Nayarit, los instrumentos internacionales de los que México es parte, así como los demás ordenamientos que los regulen, a las personas que tengan cualquier modificación corporal, como lo son tatuajes en partes visibles o no visibles, perforaciones, implantes, u otra condición física;
+
+XLIV. En general, cualquier otra conducta discriminatoria en términos del artículo 2 de este ordenamiento, de la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Nayarit, de la Ley de los Derechos de las Personas Adultas Mayores para el Estado de Nayarit y la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Nayarit;
+
+XLV. El no procurar por parte de las dependencias y entidades del Poder Ejecutivo, los Poderes Legislativo y Judicial, los Organismos Constitucionales Autónomos, así como los Municipios, la atención de traductores e intérpretes en el caso que sea necesario, y
+
+XLVI. En general cualquier otro acto u omisión discriminatorio en términos del artículo 2 de esta Ley.
 
 ###### Artículo 7.
 
@@ -1054,3 +1154,9 @@ SEGUNDO.- La Secretaría General de Gobierno tendrá hasta un año posterior a l
 TERCERO.- La Secretaría General de Gobierno contará con 180 días posteriores a la publicación de este Decreto para emitir el Reglamento del Consejo para Prevenir y Erradicar la Discriminación para el Estado de Nayarit.
 
 CUARTO.- La Comisión de Defensa de los Derechos Humanos hasta en tanto no entre en funciones el Consejo para Prevenir y Erradicar la Discriminación para el Estado de Nayarit, seguirá desarrollando sus funciones en materia de prevención y erradicación de la Discriminación en el Estado.
+
+P.O. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA EL ARTÍCULO 6 BIS A LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE NAYARIT”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
