@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6457
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-20"
-last_updated: "2025-07-14"
+last_updated: "2025-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el jueves 20 de noviembre de 2008.
 
@@ -1363,6 +1363,10 @@ XII. Promover la cultura de denuncia de la violencia de género en el marco de l
 
 XIII. Diseñar un Modelo integral de atención a los Derechos Humanos y la ciudadanía de las mujeres que deberán instrumentar las instituciones, las unidades de atención y los refugios que atiendan a víctimas.
 
+> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+XIV. Incluir a las niñas, adolescentes y mujeres que se encuentran en situación de ofendidos o víctimas de violencia en los programas sociales estatales, con la información del Banco Estatal de Datos e Información de Casos de Violencia contra las niñas, adolescentes y mujeres.
+
 ###### Artículo 38.
 
 El Ejecutivo Estatal propondrá en el Presupuesto de Egresos del Estado, asignar una partida presupuestaria para garantizar el cumplimiento de los objetivos del Sistema y del Programa previstos en la presente Ley.
@@ -1795,7 +1799,13 @@ X. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones
 
 XI. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
 
-XII. Las demás previstas para el cumplimiento de la presente Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+XII. Priorizar el acceso de las niñas, adolescentes y mujeres que se encuentran en situación de violencia a los programas sociales estatales para el pleno desarrollo de su vida.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+XIII. Las demás previstas para el cumplimiento de la presente Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
@@ -2135,7 +2145,13 @@ VIII. En los casos de violencia familiar, las mujeres que tengan hijas y/o hijos
 
 IX. Ser valoradas y educadas libres de estereotipos de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación, o que las revictimice; y
 
-X. Las demás que deriven de esta Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+X. Acceder prioritariamente a los programas sociales estatales disponibles, de acuerdo con las Reglas de Operación respectivas.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+XI. Las demás que deriven de esta Ley.
 
 ###### Artículo 57.
 
@@ -2802,3 +2818,15 @@ G.G. 14 DE JULIO DE 2025.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 46 Y LA FRACCIÓN X DEL ARTÍCULO 56; Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 37, LA FRACCIÓN XIII AL ARTÍCULO 46 Y LA FRACCIÓN XI AL ARTÍCULO 56 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCIÓN II BIS DEL ARTÍCULO 12 DE LA LEY DE BIENESTAR Y DESARROLLO SOCIAL DEL ESTADO DE MÉXICO".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
