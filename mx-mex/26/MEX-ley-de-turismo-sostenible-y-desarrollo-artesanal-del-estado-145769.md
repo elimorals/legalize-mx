@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-turismo-sostenible-y-desarrollo-artesanal-del-estado-145
 country: "mx"
 rank: "ley"
 publication_date: "2021-01-06"
-last_updated: "2024-04-05"
+last_updated: "2025-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE TURISMO SOSTENIBLE Y DESARROLLO ARTESANAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección Primera al Número 4 de la Gaceta del Gobierno del Estado de México, el miércoles 6 de enero de 2021.
 
@@ -1259,11 +1259,21 @@ XX. Respetar a sus competidores y evitar la competencia desleal;
 
 XXI. Garantizar y brindar al visitante información, seguridad y auxilio en los servicios turísticos ofertados;
 
-XXII. Exhibir en un lugar visible los datos del enlace electrónico de acceso al módulo de quejas virtual que la Secretaría deberá operar; y
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2025)</small>
 
-XXIII. En caso de que el prestador del servicio turístico incumpla con uno de los servicios ofrecidos o pactados, o con la totalidad de los mismos, será sancionado en términos de la normatividad vigente aplicable, y
+XXII. Exhibir en un lugar visible los datos del enlace electrónico de acceso al módulo de quejas virtual que la Secretaría deberá operar;
 
-XXIV. Observar estrictamente las disposiciones de la Ley General, su reglamento, la presente Ley y demás disposiciones en materia de turismo.
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+XXIII. En caso de que el prestador del servicio turístico incumpla con uno de los servicios ofrecidos o pactados, o con la totalidad de los mismos, será sancionado en términos de la normatividad vigente aplicable;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+XXIV. Implementar el Protocolo para la protección de niñas, niños y adolescentes en la prestación de servicios de hospedaje o alojamiento, así como llevar a cabo medidas de seguridad para salvaguardar la integridad y la vida de niñas, niños y adolescentes, incluyendo las acciones de prevención o detención de posibles delitos contra los mismos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+XXV. Observar estrictamente las disposiciones de la Ley General, su reglamento, la presente Ley y demás disposiciones en materia de turismo.
 
 ###### Artículo 103.
 
@@ -1730,3 +1740,13 @@ DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la A
 DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
 
 DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
+
+G.G. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 249.- POR EL QUE SE REFORMAN LAS FRACCIONES XXII, XXIII Y XXIV DEL ARTÍCULO 102, Y SE ADICIONA LA FRACCIÓN XXV AL ARTÍCULO 102 DE LA LEY DE TURISMO SOSTENIBLE Y DESARROLLO ARTESANAL DEL ESTADO DE MÉXICO, Y SE REFORMAN LAS FRACCIONES I, II Y VIII DEL ARTÍCULO 50, Y SE ADICIONAN LAS FRACCIONES IX, X, XI, XII Y XIII AL ARTÍCULO 50 DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Protocolo a que hace referencia la fracción XII del artículo 50 de la Ley de Competitividad y Ordenamiento Comercial del Estado de México, deberá ser emitido por las instancias correspondientes en un periodo no mayor a 180 días hábiles contados a partir de la entrada en vigor del presente Decreto.
