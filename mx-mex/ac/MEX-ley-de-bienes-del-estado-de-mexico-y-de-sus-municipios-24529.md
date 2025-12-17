@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-bienes-del-estado-de-mexico-y-de-sus-municipios-24529"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-07"
-last_updated: "2024-04-05"
+last_updated: "2025-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE BIENES DEL ESTADO DE MÉXICO Y DE SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 17 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta del Gobierno el 7 de marzo del 2000.
 
@@ -143,7 +143,17 @@ XIII. Llevar el Registro Administrativo de la Propiedad Pública Estatal o Munic
 
 XIV. Dictar las normas a las que deberá sujetarse la vigilancia, cuidado, administración y aprovechamiento de los bienes del dominio público y privado;
 
-XV. Elaborar un programa de aprovechamiento de los bienes que integran el patrimonio estatal o municipal; y
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+XV. Elaborar e implementar un programa de aprovechamiento de los bienes que integran el patrimonio estatal o municipal, así como un programa que considere la disposición final de los bienes que integran el patrimonio estatal o municipal que hayan cumplido con los procedimientos administrativos para su desafectación, desincorporación y baja contable y de inventario; señalando de manera enunciativa más no limitativa a todos aquellos muebles ferrosos y no ferrosos, equipos, y en general bienes no fungibles, en desuso, mal estado, obsoletos o con una vida útil mayor a diez años de antigüedad que se conservan en instalaciones como bodegas, terrenos o en espacios gubernamentales.
+
+Se exceptúan de la declaración de baja de inventario y del procedimiento de disposición final:
+
+a) Equipo en uso y buen estado, que no tenga sustitución; aunque tenga más de diez años;
+
+b) Equipo con garantías en trámite, pendientes de resolver o presentar reclamo;
+
+c) Equipo que contenga materiales peligrosos para la población o el ambiente.
 
 XVI. Expedir las disposiciones administrativas para el cumplimiento de esta ley.
 
@@ -737,13 +747,13 @@ Tratándose de muebles, éstos serán considerados en lo individual y en conjunt
 
 Para cambiar el uso, destino o usuario de los bienes de dominio público, los poderes Legislativo y Judicial, informarán al Ejecutivo del Estado, para que la Oficialía Mayor realice los actos jurídicos que se requieran.
 
-> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO, G.G. 17 DE DICIEMBRE DE 2025)</small>
 
-Las dependencias, organismos y entidades públicas, estatales y municipales deberán solicitarlo a la Oficialía Mayor o a los ayuntamientos, exponiendo las razones y conveniencia que sustenten la petición, misma que podrá ser autorizada considerando los beneficios o utilidad que tenga la administración con el cambio respectivo.
+Las dependencias, organismos y entidades públicas, estatales y municipales deberán solicitarlo a la Oficialía Mayor o a los ayuntamientos, motivando, justificando y exponiendo las razones y conveniencia que sustenten la petición mediante dictamen técnico, misma que podrá ser autorizada considerando los beneficios o utilidad que tenga la administración con el cambio respectivo.
 
-> <small>(ADICIONADO, G.G. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 17 DE DICIEMBRE DE 2025)</small>
 
-En todo caso deberá procurarse que en la determinación del destino final de bienes que formaron parte del patrimonio de las dependencias, organismos y entidades públicas estatales y municipales, se tenga en cuenta la posibilidad para la obtención de un beneficio económico que pueda ser aprovechado para la realización de las tareas de las administraciones públicas respectivas.
+En todo caso deberá procurarse que en la determinación del destino final de bienes que formaron parte del patrimonio de las dependencias, organismos y entidades públicas estatales y municipales, se tenga en cuenta la obtención de un beneficio económico que pueda ser aprovechado para la realización de las tareas de las administraciones públicas respectivas.
 
 > <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
@@ -1116,3 +1126,13 @@ DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la A
 DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
 
 DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
+
+G.G. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 257.- POR EL QUE SE REFORMA LA FRACCIÓN XV DEL ARTÍCULO 5, Y LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 53 DE LA LEY DE BIENES DEL ESTADO DE MÉXICO Y DE SUS MUNICIPIOS".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- La Oficialía Mayor deberá elaborar el programa anual de deschatarrización dentro de los 180 días hábiles siguientes a la entrada en vigor del presente Decreto.
