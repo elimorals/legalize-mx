@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-administracion-publica-para-el-estado-de-165
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-03-31"
-last_updated: "2023-03-31"
+last_updated: "2025-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Alcance Tres Número 13 del Periódico Oficial del Estado de Hidalgo, el viernes 31 de marzo de 2023.
 
@@ -79,7 +79,9 @@ Para efectos de la presente Ley, se entenderá en singular o plural por:
 
 I.- Dependencia: A las Dependencias de la Administración Pública Centralizada del Estado de Hidalgo;
 
-II.- Entidad: A los Organismos Descentralizados, Empresas de Participación Estatal y Fideicomisos Públicos que tienen el carácter de Entidades Paraestatales del Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+II.- Entidad: A las Entidades Paraestatales que se determinan con tal carácter en la Ley de Entidades Paraestatales del Estado de Hidalgo;
 
 III.- Persona Titular del Poder Ejecutivo del Estado: A la Gobernadora o Gobernador Constitucional del Estado de Hidalgo, y
 
@@ -95,15 +97,19 @@ La Persona Titular del Poder Ejecutivo del Estado contará con las siguientes De
 
 I.- Secretarías de Gabinete;
 
-II.- Secretaría del Despacho de la Persona Titular del Poder Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+II.- Secretaría del Despacho del Poder Ejecutivo del Estado;
 
 III.- Oficialía Mayor, y
 
 IV.- Unidad de Planeación y Prospectiva.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 6.
 
-La Persona Titular del Poder Ejecutivo del Estado se auxiliará de las Entidades de la Administración Pública Paraestatal, que consistirán en Organismos Descentralizados, Empresas de Participación Estatal y Fideicomisos Públicos.
+La Persona Titular del Poder Ejecutivo del Estado se auxiliará de las Entidades de la Administración Pública Paraestatal, señaladas en la Ley de Entidades Paraestatales del Estado de Hidalgo.
 
 ###### Artículo 7.
 
@@ -137,9 +143,11 @@ IV.- Cuando sea necesario, la dotación de recursos para su funcionamiento.
 
 La Persona Titular del Poder Ejecutivo del Estado determinará los asuntos específicos en que las Dependencias y Entidades de la Administración Pública Estatal deban coordinarse entre sí, así como con las Administraciones Municipales y en el marco del Sistema Nacional de Planeación, con dependencias y entidades de la Administración Pública Federal, mediante la celebración de los acuerdos correspondientes.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 10.
 
-La Persona Titular del Poder Ejecutivo del Estado podrá establecer áreas específicas para la difusión de los mensajes a la ciudadanía sobre programas, acciones y proyectos gubernamentales, de acuerdo con la normatividad establecida en la materia.
+La Persona Titular del Poder Ejecutivo del Estado podrá establecer áreas específicas de comunicación social para la difusión de los mensajes a la ciudadanía sobre programas, acciones y proyectos gubernamentales, de acuerdo con la normatividad establecida en la materia.
 
 ###### Artículo 11.
 
@@ -335,15 +343,17 @@ XXX.- Organizar, dirigir y vigilar el funcionamiento del Instituto de la Funció
 
 XXXI.- Dar trámite a los nombramientos que expida la Persona Titular del Poder Ejecutivo del Estado para el ejercicio de las funciones notariales, llevar un registro de los mismos, vigilar su funcionamiento y administrar el Archivo General de Notarías del Estado;
 
-XXXII.- Supervisar que las publicaciones impresas, las transmisiones de radio y televisión locales, y la exhibición de películas cinematográficas, se mantengan dentro de los límites de respeto a la vida privada, a la paz, a la moral pública, a la dignidad personal y no ataquen derechos de terceros ni provoquen la comisión de algún delito o perturben el orden público;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XXXII.- Supervisar que las transmisiones de radio y televisión locales, y la exhibición de películas cinematográficas, se mantengan dentro de los límites de respeto a la vida privada, a la paz, a la moral pública, a la dignidad personal y no ataquen derechos de terceros ni provoquen la comisión de algún delito o perturben el orden público;
 
 XXXIII.- Promover, fomentar y fortalecer los planes y programas que contribuyan a la igualdad, participación política y seguridad entre mujeres y hombres;
 
 XXXIV.- Coordinar la vinculación de los municipios, con las Dependencias estatales y federales, en el establecimiento de infraestructura, unidades de servicio y acciones que impulsen el desarrollo regional;
 
-XXXV.- Formular, regular y conducir la política de comunicación social para difundir la imagen del Estado y el quehacer gubernamental, así como el Plan de Trabajo, objetivos y metas de las Dependencias y Entidades de la Administración Pública Estatal, coordinando las relaciones con los medios de comunicación;
+XXXV.- (DEROGADA, P.O. 17 DE DICIEMBRE DE 2025)
 
-XXXVI.- Orientar, autorizar, coordinar, supervisar y evaluar los programas de comunicación social de las Dependencias y Entidades de la Administración Pública Estatal, para la difusión de mensajes sobre programas y actividades gubernamentales;
+XXXVI.- (DEROGADA, P.O. 17 DE DICIEMBRE DE 2025)
 
 XXXVII.- Ejecutar la política pública en materia de diversidad sexual;
 
@@ -1221,7 +1231,9 @@ XXII.- Impulsar, en los términos de los convenios que al efecto se suscriban, l
 
 XXIII.- Estudiar, adoptar e implementar las medidas necesarias para combatir las enfermedades transmisibles y las adicciones; así como la prevención de accidentes;
 
-XXIV.- Formular y dirigir el contenido de la política de comunicación en temas de difusión, promoción y prevención de la salud, estableciendo mecanismos de coordinación y vinculación con el área de comunicación social de la Persona Titular del Poder Ejecutivo del Estado y con la Secretaría de Gobierno, y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XXIV.- Formular y dirigir el contenido de la política de comunicación en temas de difusión, promoción y prevención de la salud, estableciendo mecanismos de coordinación y vinculación con el área de comunicación social del Poder Ejecutivo del Estado, y
 
 XXV.- Las demás que en relación a su competencia, le señale la Persona Titular del Poder Ejecutivo del Estado, las leyes, reglamentos, decretos, acuerdos, convenios y disposiciones vigentes en el Estado.
 
@@ -1413,7 +1425,9 @@ XXVIII.- Crear comisiones, comités o grupos de trabajo temporales o permanentes
 
 XXIX.- Las demás que, en relación a su competencia, le señale la Persona Titular del Poder Ejecutivo del Estado, las leyes, reglamentos, decretos, acuerdos, convenios y disposiciones vigentes en el Estado.
 
-### CAPÍTULO III. DE LA SECRETARÍA DEL DESPACHO DE LA PERSONA TITULAR DEL PODER EJECUTIVO DEL ESTADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO III. DE LA SECRETARÍA DEL DESPACHO DEL PODER EJECUTIVO DEL ESTADO
 
 ###### Artículo 43.
 
@@ -1495,7 +1509,9 @@ XIV.- Estipular los mecanismos para ejercer actos de dominio, inspección y vigi
 
 XV.- Elaborar y emitir de manera conjunta con la Secretaría de Hacienda, la Secretaría de Contraloría y la Unidad de Planeación y Prospectiva, las políticas y medidas de austeridad, racionalidad y optimización presupuestal que deberán de observar las Dependencias y Entidades del Poder Ejecutivo del Estado en el ejercicio del gasto público, para las acciones de gobierno que determine la Persona Titular del Poder Ejecutivo del Estado a través de la Comisión Intersecretarial de Gasto Público y Financiamiento;
 
-XVI.- Implementar, aplicar y dar seguimiento al sistema de capacitación y profesionalización de las personas servidoras públicas de las Dependencias y Entidades del Poder Ejecutivo del Estado, en coordinación con la Secretaría de Contraloría y la Secretaría del Despacho de la Persona Titular del Poder Ejecutivo del Estado, a través de la Academia para la Transformación;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XVI.- Implementar, aplicar y dar seguimiento al sistema de capacitación y profesionalización de las personas servidoras públicas de las Dependencias y Entidades del Poder Ejecutivo del Estado, en coordinación con la Secretaría de Contraloría y la Secretaría del Despacho del Poder Ejecutivo del Estado, a través de la Academia para la Transformación;
 
 XVII.- Controlar y administrar las partidas centralizadas del Poder Ejecutivo del Estado en apego al marco normativo vigente, coadyuvando en el uso racional de los recursos públicos;
 
@@ -1679,7 +1695,9 @@ II.- Las reuniones extraordinarias se convocarán en cualquier momento por la Pe
 
 ## TÍTULO TERCERO. DEL SECTOR PARAESTATAL
 
-### CAPÍTULO ÚNICO. ORGANISMOS DESCENTRALIZADOS, EMPRESAS DE PARTICIPACIÓN ESTATAL Y FIDEICOMISOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO ÚNICO. ORGANISMOS DESCENTRALIZADOS, EMPRESAS DE PARTICIPACIÓN ESTATAL, FIDEICOMISOS Y ORGANISMOS AUXILIARES DEL PODER EJECUTIVO
 
 ###### Artículo 51.
 
@@ -1702,6 +1720,10 @@ Se asimilan a las empresas de participación estatal mayoritaria, las sociedades
 ###### Artículo 53.
 
 Son fideicomisos públicos del Estado, aquellos que constituya el Gobierno del Estado, con el propósito de auxiliar al Poder Ejecutivo en funciones administrativas, con una estructura orgánica análoga a las otras especies de entidades y con un comité técnico.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Artículo 53 BIS.- Los Organismos Auxiliares son los entes jurídicos con personalidad jurídica, autonomía administrativa, técnica, de gestión, operativa y de ejecución, con o sin patrimonio propio, creados mediante decreto administrativo emitido por la Persona Titular del Poder Ejecutivo.
 
 ###### Artículo 54.
 
@@ -1776,3 +1798,23 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 LIC. JULIO RAMÓN MENCHACA SALAZAR
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 392 – LXVI POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO, EN MATERIA DE ESTRUCTURA Y FUNCIONAMIENTO DE LA ADMINISTRACIÓN ESTATAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las menciones contenidas en leyes, reglamentos, decretos, acuerdos y disposiciones de cualquier naturaleza, hechas a la Secretaría del Despacho de la Persona Titular del Poder Ejecutivo del Estado, se entenderán referidas a la Secretaría del Despacho del Poder Ejecutivo del Estado.
+
+TERCERO. La Persona Titular del Poder Ejecutivo del Estado, en un plazo no mayor a treinta días naturales posteriores a la entrada en vigor del presente, expedirá el Decreto mediante el cual se establezca el ente público al que se hace referencia en el Artículo 10 de la Ley Orgánica de la Administración Pública del Estado de Hidalgo, en el cual se determinará su organización y atribuciones.
+
+Hasta tanto se dé cumplimiento a lo descrito en el párrafo anterior, las dependencias y entidades encargadas continuarán operando de conformidad con sus atribuciones en la materia.
+
+CUARTO. En el Decreto a que hace referencia el Transitorio Tercero del presente, se establecerá un Comité encargado de la transferencia de los recursos humanos, financieros y materiales con los que cuenten las dependencias y entidades que actualmente son responsables, y cuyos asuntos cambien de adscripción por disposición o consecuencia del mismo.
+
+QUINTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán su despacho por la Dependencia o Entidad responsable de los mismos, conforme a las disposiciones jurídicas aplicables.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
