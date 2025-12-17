@@ -4,7 +4,7 @@ identifier: "HID-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-1098
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-14"
-last_updated: "2025-08-22"
+last_updated: "2025-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 14 de septiembre de 2015.
 
@@ -145,11 +145,13 @@ XXVII. PRECIO MÁXIMO DE REFERENCIA: Es el precio que la unidad convocante estar
 
 XXVIII. PROVEEDOR: El que se encuentre inscrito en el Padrón de Proveedores que contempla esta Ley y cuenta con el registro correspondiente, salvo las excepciones previstas en ésta;
 
-XXIX. REGISTRO DE PROVEEDOR: Documento público y gratuito, que acredita a una persona física o moral como proveedor de los convocantes;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XXIX. REGISTRO DE PROVEEDOR: Documento público que acredita a una persona física o moral como proveedor de los convocantes;
 
 XXX. REGLAMENTO: El Reglamento de esta Ley;
 
-> <small>(REFORMADA, P. O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 XXXI. SECRETARÍA: La Secretaría de Finanzas Públicas;
 
@@ -355,6 +357,12 @@ X. Aplicar y coadyuvar al cumplimiento de esta Ley y demás disposiciones aplica
 
 Las Entidades, los Ayuntamientos y Organismos Públicos Autónomos, deberán establecer Comités de Adquisiciones, Arrendamientos y Servicios cuya integración, funcionamiento y facultades, se sujetarán a lo establecido en la presente Ley y demás disposiciones aplicables, en lo que no contravenga los ordenamientos legales que los rigen.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 24 Bis.
+
+Las entidades paraestatales podrán determinar que los procedimientos de contratación se realicen a través del Comité de Adquisiciones, Arrendamientos y Servicios del Sector Público del Poder Ejecutivo, cuando así lo disponga su titular.
+
 ###### Artículo 25.
 
 Los convocantes, bajo su responsabilidad, podrán convocar, adjudicar o contratar adquisiciones, arrendamientos y servicios, con cargo a su presupuesto autorizado y sujetándose al calendario de gasto correspondiente.
@@ -373,9 +381,13 @@ Para los efectos del párrafo anterior, las dependencias y entidades observarán
 
 La Contraloría integrará y mantendrá actualizado el Padrón de Proveedores.
 
-El Registro en el Padrón de Proveedores será gratuito. Los proveedores deberán actualizar los datos que exige esta Ley.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-Toda persona podrá presentar proposiciones, debiendo acreditar a más tardar hasta el acto del fallo, que cuenta con su registro en el Padrón de Proveedores.
+El registro en el Padrón de Proveedores tendrá vigencia de dos años y el costo de los trámites de inscripción, modificación y revalidación será conforme a los montos establecidos en la Ley Estatal de Derechos. Los proveedores deberán actualizar los datos que exige la Ley.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Toda persona podrá presentar proposiciones, debiendo acreditar a más tardar en el acto de presentación y apertura de proposiciones, que cuenta con su registro activo en el Padrón de Proveedores con la o las especialidades correspondientes al procedimiento de contratación.
 
 El Padrón de Proveedores podrá ser consultado en los medios electrónicos, mediante disposiciones de carácter administrativo establezca la Contraloría.
 
@@ -393,13 +405,27 @@ IV. En todos los casos se deberá acreditar la personalidad del representante;
 
 V. Especialidad; acreditando mediante la exhibición de los documentos actualizados, que es productor o comerciante legalmente establecido;
 
-VI. Cédula profesional del responsable técnico, para el caso de prestación de servicios que así lo requieran; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-VII. Señalar domicilio en el Estado de Hidalgo y correo electrónico para oír y recibir notificaciones.
+VI. Cédula profesional del responsable técnico, para el caso de prestación de servicios que así lo requieran;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+VII. Señalar domicilio en el Estado de Hidalgo y correo electrónico para oír y recibir notificaciones;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+VIII. Pago de derechos, según corresponda, y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+IX. Demás información y/o documentación, que, en su caso, se requiera por disposición federal y estatal.
 
 Ingresados los documentos antes referidos y el formato respectivo, se proporcionará automáticamente un número provisional de registro al interesado, el cual estará sujeto a verificación.
 
-La Contraloría resolverá conceder o negar la inscripción en un plazo no mayor de diez días naturales, siguientes a aquel en que fueron presentados los requisitos antes mencionados. En caso de que la Contraloría no resuelva en el plazo establecido, la inscripción se tendrá por aceptada.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+La Contraloría resolverá conceder o negar la inscripción en un plazo no mayor de diez días hábiles, siguientes a aquel en que fueron presentados los requisitos antes mencionados. En caso de que la Contraloría no resuelva en el plazo establecido, la inscripción se tendrá por aceptada.
 
 Transcurrido el plazo a que se refiere el párrafo anterior, sin que se produzca respuesta alguna, se tendrá por inscrito al solicitante o por modificada su clasificación.
 
@@ -635,9 +661,15 @@ Previo a la publicación de la convocatoria a la licitación pública, los convo
 
 Los comentarios y opiniones que se reciban al proyecto de convocatoria, serán analizados por el convocante a efecto de, en su caso, considerarlas para enriquecer el proyecto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 41.
 
-La publicación de la convocatoria a la licitación pública se realizará a través de los medios electrónicos que mediante disposiciones de carácter administrativo establezca la Contraloría y su obtención será gratuita. Además, simultáneamente se enviará para su publicación en el Periódico Oficial del Estado, un resumen de la convocatoria a la licitación que deberá contener, entre otros elementos, el objeto de la licitación, el volumen a adquirir, el número de licitación, las fechas previstas para llevar a cabo el procedimiento de contratación y cuándo se publicó en los medios electrónicos que mediante disposiciones de carácter administrativo establezca la Contraloría; asimismo, el convocante pondrá a disposición de los licitantes copia del texto de la convocatoria.
+La publicación de la convocatoria a la licitación pública se realizará a través de los medios electrónicos que mediante disposiciones de carácter administrativo establezca la Contraloría. Asimismo, se publicará en los medios electrónicos que determinen las dependencias y entidades, cuando resulte aplicable. La obtención de la convocatoria estará sujeta al pago del valor establecido, conforme al tabulador vigente en la Ley Estatal de Derechos.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Simultáneamente se enviará al Periódico Oficial del Estado, un resumen de la convocatoria para su publicación, el cual deberá contener, entre otros elementos: el objeto de la licitación, el volumen a adquirir, el número de licitación, las fechas previstas para llevar a cabo el procedimiento de contratación y la fecha de su publicación en los medios electrónicos referidos. Asimismo, el convocante pondrá a disposición de los licitantes copia del texto de la convocatoria, previa acreditación del pago correspondiente.
 
 ###### Artículo 42.
 
@@ -801,7 +833,9 @@ En los casos en que no existan proveedores nacionales, en el Reglamento podrá e
 
 En los supuestos y con sujeción a las formalidades que prevén los artículos 55 y 57 de esta Ley, los convocantes bajo su responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos de adquisiciones, arrendamientos o de servicios a través de los procedimientos de invitación a cuando menos tres personas o de adjudicación directa.
 
-La selección del procedimiento de excepción que realicen los convocantes deberá fundarse y motivarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad, honradez y transparencia que resulten procedentes para obtener las mejores condiciones para el Estado. El razonamiento del o los criterios mencionados y la motivación para el ejercicio de la opción, deberá constar por escrito y ser firmado por el titular del área usuaria o solicitante de los bienes, arrendamientos o servicios. Lo mismo aplicará, cuando se opte por no solicitar el dictamen a que se refiere la fracción IV del artículo 23 de esta Ley, exclusivamente en las fracciones II, III, IV, VII, VIII y XVI, del artículo 55 de este mismo ordenamiento.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+La selección del procedimiento de excepción que realicen los convocantes deberá fundarse y motivarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad, honradez y transparencia que resulten procedentes para obtener las mejores condiciones para el Estado. El razonamiento del o los criterios mencionados y la motivación para el ejercicio de la opción, deberá constar por escrito y ser firmado por la persona titular del área usuaria o solicitante de los bienes, arrendamientos o servicios. Lo mismo aplicará, cuando se opte por no solicitar el dictamen a que se refiere la fracción IV del artículo 23 de esta Ley, exclusivamente en las fracciones II, III, IV, VII, VIII, XVI y XVIII del artículo 55 de este mismo ordenamiento.
 
 En cualquier supuesto, se invitará a personas que cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que sean necesarios y cuyas actividades comerciales o profesionales se relacionen con los bienes arrendamientos o servicios, objeto del contrato que pretenda celebrarse.
 
@@ -845,9 +879,17 @@ XIV. Se trate de los servicios prestados por una persona física a que se refier
 
 XV. Se trate de la suscripción de contratos específicos que deriven de un Contrato Marco;
 
-XVI. Se trate de adquisiciones de armamento necesario para el desempeño de las funciones propias de las áreas de seguridad pública; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-XVII. Se trate de medicamentos, material de curación y equipo especial para los hospitales, clínicas, ó necesarios para los servicios de salud en caso de emergencia decretada por autoridad competente.
+XVI. Se trate de adquisiciones de armamento necesario para el desempeño de las funciones propias de las áreas de seguridad pública;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XVII. Se trate de medicamentos, material de curación y equipo especial para los hospitales, clínicas, o necesarios para los servicios de salud en caso de emergencia decretada por autoridad competente, y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XVIII. Se trate de servicios relacionados con comunicación social.
 
 Las contrataciones a que se refiere este artículo, se realizarán preferentemente a través de procedimientos de invitación a cuando menos tres personas, en los casos previstos en sus fracciones V, VI, VII, VIII y IX.
 
@@ -1027,9 +1069,13 @@ III. El cumplimiento de los contratos. Esta garantía será del diez por ciento 
 
 Las modalidades para garantizar en términos de este artículo se establecerán en el Reglamento.
 
-En los casos señalados en los artículos 55, fracciones II, IV, VI, VII y XIV, así como el artículo 57 de esta Ley, el servidor público que deba firmar el contrato, bajo su responsabilidad, podrá exceptuar al proveedor, de presentar la garantía de cumplimiento del mismo, en el caso de que las entregas sean inmediatas.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-La garantía de seriedad prevista en este artículo se presentará al momento de llevar a cabo la presentación y apertura de proposiciones; la de anticipo se presentará previamente a la entrega de éste, a más tardar en la fecha establecida en el contrato y la de cumplimiento del contrato deberá presentarse en el plazo o fecha previstos en la convocatoria a la licitación; en su defecto, a más tardar dentro de los tres días hábiles siguientes a la firma del mismo, salvo que la entrega de los bienes, arrendamientos o la prestación de los servicios se realice dentro del citado plazo.
+En los casos señalados en el artículo 55, fracciones II y IV, los convocantes, bajo su responsabilidad, podrán exceptuar al proveedor de presentar la garantía de cumplimiento del contrato, en el caso de que las entregas sean inmediatas.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+La garantía de seriedad prevista en este artículo se presentará al momento de llevar a cabo la presentación y apertura de proposiciones; la de anticipo se presentará previamente a la entrega de éste, a más tardar en la fecha establecida en el contrato y la de cumplimiento del contrato deberá presentarse en el plazo o fecha previstos en la convocatoria a la licitación; en su defecto, a la firma del contrato en caso de que las entregas sean inmediatas a la suscripción, o a más tardar dentro de los tres días hábiles siguientes a la firma del mismo.
 
 ###### Artículo 67.
 
@@ -1536,3 +1582,13 @@ P.O. 22 DE AGOSTO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 324 – LXVI POR EL QUE SE REFORMA EL PÁRRAFO QUINTO DEL ARTÍCULO 33 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE HIDALGO, EN MATERIA DE ELEVACIÓN DE PUNTOS DENTRO DE LAS LICITACIONES PÚBLICAS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 394 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE HIDALGO, EN MATERIA DE REGULACIÓN DEL REGISTRO DE PROVEEDORES Y PROCEDIMIENTOS DE CONTRATACIÓN DE SERVICIOS PÚBLICOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Las autoridades que de conformidad con la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público del Estado de Hidalgo sean competentes para la aplicación de las disposiciones del presente Decreto, contarán con un plazo de ciento ochenta días naturales, contados a partir de su entrada en vigor, para realizar la armonización normativa que corresponda al ámbito de su competencia.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
