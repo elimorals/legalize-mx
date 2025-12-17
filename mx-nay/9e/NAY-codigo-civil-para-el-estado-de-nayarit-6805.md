@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2025-11-20"
+last_updated: "2025-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2025.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -2195,11 +2195,25 @@ Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes
 
 Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a las necesidades de los hijos, a la subsistencia y a la educación de éstos, hasta en tanto no cese la obligación de proporcionarlos en términos del artículo 301 de este Código.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 281.
 
-En los casos de divorcio, el juez resolverá sobre el pago de alimentos a favor del cónyuge que, teniendo la necesidad de recibirlos, durante el matrimonio se haya dedicado preponderantemente a las labores del hogar, al cuidado de los hijos, esté imposibilitado para trabajar o carezca de bienes. Este derecho se extingue cuando la parte acreedora se una en matrimonio o en concubinato o haya transcurrido un término igual a la duración del matrimonio.
+En los casos de divorcio, el juez deberá resolver lo relativo al pago de alimentos a favor del cónyuge que, teniendo la necesidad de recibirlos, durante el matrimonio se haya dedicado preponderantemente a las labores del hogar, al cuidado de los hijos, esté imposibilitado para trabajar o carezca de bienes propios.
+
+La pensión alimenticia compensatoria se fijará conforme a las circunstancias particulares del caso, considerando:
+
+I. La dedicación a las labores del hogar y/o al cuidado de los hijos;
+
+II. La situación económica de las partes;
+
+III. La capacidad de la persona acreedora, de hacerse de medios suficientes para satisfacer sus necesidades inmediatas de subsistencia, y
+
+IV. La duración del matrimonio.
+
+La acción para reclamar la pensión alimenticia compensatoria prescribirá en un plazo igual al que haya durado el matrimonio, contado a partir de que cause ejecutoria la sentencia de divorcio.
+
+En la determinación del monto y temporalidad de la pensión, el juez deberá observar los principios de proporcionalidad y razonabilidad, tomando en consideración las condiciones económicas y personales de las partes, la duración del matrimonio y cualquier otra circunstancia relevante que garantice la igualdad sustantiva y evite actos de discriminación.
 
 > <small>(ADICIONADO, P.O. 5 DE MAYO DE 2007)</small>
 
@@ -2471,9 +2485,9 @@ Artículo 316 A.- Los integrantes de la familia, en particular niñas, niños y 
 
 Artículo 316 B.- El juez con jurisdicción en la materia, tiene por ministerio de ley la protección de la familia debiendo adoptar las medidas pertinentes para asegurarla en caso de violencia familiar, dando vista de inmediato al ministerio público las conductas que pudieran ser constitutivas de delito.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-Artículo 316 C.- Violencia familiar es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera psicológica, física, patrimonial, económica o sexual a un miembro de ella, incluyendo el castigo corporal y humillante contra niñas, niños y adolescentes, dentro o fuera del dominio de ésta, cuyo agresor tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
+Artículo 316 C.- Violencia familiar es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, emocional, sexual, patrimonial o económica, a un miembro de ella incluyendo el castigo corporal y humillante contra niñas, niños y adolescentes, y que sea ejercido dentro o fuera del domicilio familiar por una persona con quien exista o haya existido un vínculo de parentesco por consanguinidad, afinidad o civil; por matrimonio, concubinato, noviazgo, relación de hecho o relación sexual, presente o pasada.
 
 > <small>(ADICIONADO, P.O. 5 DE MAYO DE 2007)</small>
 
@@ -2498,6 +2512,14 @@ IV.- Violencia económica.- Afectación a su economía, manifestada a través de
 > <small>(ADICIONADA, P.O. 5 DE MAYO DE 2007)</small>
 
 V.- Violencia Sexual.- Es el acto abusivo de poder u omisión intencional que atenta contra la libertad sexual o la dignidad de la persona.
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+VI.- Violencia Vicaria.- Aquella violencia contra la víctima que ejerce quien mantenga o haya mantenido una relación de matrimonio, concubinato o relación de hecho, y que por sí o por interpósita persona utilice como medio a sus descendientes, ascendientes, personas significativas para la víctima, personas con discapacidad o enfermedad que se encuentren bajo su cuidado, como instrumento para causar daño a su integridad física, psíquica, emocional, patrimonial o económica a la pareja dentro del matrimonio, concubinato o relación de hecho, así como con quien se guardó alguna relación de las anteriores.
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+VII.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 > <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
 
@@ -16862,3 +16884,15 @@ P.O. 20 DE NOVIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONAR (SIC) EL ARTÍCULO 1144 BIS AL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT, EN MATERIA DE IMPRESCRIPTIBILIDAD DE LA ACCIÓN PARA RECLAMAR LA INDEMNIZACIÓN DEL DAÑO MORAL CON MOTIVO DE DELITOS SEXUALES CONTRA NIÑAS, NIÑOS Y ADOLESCENTES”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ARTÍCULO 316 C DEL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT, EN MATERIA DE VIOLENCIA VICARIA”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO 281 DEL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT, EN MATERIA DE PENSIÓN ALIMENTICIA COMPENSATORIA”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
