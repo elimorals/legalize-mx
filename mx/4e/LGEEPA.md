@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2025-11-14"
+last_updated: "2025-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -302,11 +302,11 @@ XXI. La formulación y ejecución de acciones de mitigación y adaptación al ca
 
 XXII. Las demás que esta Ley u otras disposiciones legales atribuyan a la Federación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 6o.
 
-Las atribuciones que esta Ley otorga a la Federación, serán ejercidas por el Poder Ejecutivo Federal a través de la Secretaría y, en su caso, podrán colaborar con ésta las Secretarías de Defensa Nacional y de Marina cuando por la naturaleza y gravedad del problema así lo determine, salvo las que directamente corresponden al Presidente de la República por disposición expresa de la Ley.
+Las atribuciones que esta Ley otorga a la Federación, serán ejercidas por el Poder Ejecutivo Federal a través de la Secretaría y, en su caso, podrán colaborar con ésta las Secretarías de Defensa Nacional y de Marina, así como la Guardia Nacional, cuando por la naturaleza y gravedad del problema así lo determine, salvo las que directamente corresponden al Presidente de la República por disposición expresa de la Ley.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -1411,6 +1411,10 @@ En el establecimiento, administración y manejo de las áreas naturales protegid
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 Para tal efecto, la Secretaría podrá suscribir con los interesados los convenios de concertación o acuerdos de coordinación que correspondan.
+
+> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2025)</small>
+
+En las actividades de inspección y vigilancia en las áreas naturales protegidas terrestres de competencia de la Federación, la Secretaría podrá solicitar la intervención de la Guardia Nacional.
 
 > <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
@@ -3208,7 +3212,7 @@ Cuando la Secretaría deba resolver un asunto sobre el cual los órganos a que s
 
 ### CAPITULO II. Inspección y Vigilancia
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 160.
 
@@ -3228,7 +3232,7 @@ Tratándose de materias referidas en esta Ley que se encuentran reguladas por le
 
 ###### ARTICULO 161.
 
-La Secretaría realizará los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente ordenamiento, así como de las que del mismo se deriven.
+La Secretaría realizará los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente ordenamiento, así como de las que del mismo se deriven. Para tal efecto, la Secretaría podrá solicitar la intervención de la Guardia Nacional, previa suscripción de los convenios o acuerdos de colaboración que correspondan.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -3272,9 +3276,11 @@ Si la persona con quien se entendió la diligencia o los testigos, se negaren a 
 
 La persona con quien se entienda la diligencia estará obligada a permitir al personal autorizado el acceso al lugar o lugares sujetos a inspección en los términos previstos en la orden escrita a que se hace referencia en el artículo 162 de esta Ley, así como a proporcionar toda clase de información que conduzca a la verificación del cumplimiento de esta Ley y demás disposiciones aplicables, con excepción de lo relativo a derechos de propiedad industrial que sean confidenciales conforme a la Ley. La información deberá mantenerse por la autoridad en absoluta reserva, si así lo solicita el interesado, salvo en caso de requerimiento judicial.
 
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTICULO 166.
 
-La autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la diligencia, independientemente de las sanciones a que haya lugar.
+La autoridad competente podrá solicitar el auxilio de la fuerza pública o, en su caso, la intervención de la Guardia Nacional, para efectuar la visita de inspección, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la diligencia, independientemente de las sanciones a que haya lugar.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -4265,3 +4271,11 @@ Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor 
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
 
 Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+
+D.O.F. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, EN RELACIÓN CON LA PARTICIPACIÓN DE LA GUARDIA NACIONAL EN TAREAS DE INSPECCIÓN Y VIGILANCIA”.]
+
+Primero. El presente Decreto entrará en vigor el día natural siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. En un plazo máximo de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo Federal deberá realizar las modificaciones que, en su caso, procedan al Reglamento de la Ley de la Guardia Nacional, a efecto de dar cabal cumplimiento a lo dispuesto en el presente Decreto.
