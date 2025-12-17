@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-competitividad-y-ordenamiento-comercial-del-estado-10396
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-18"
-last_updated: "2024-04-05"
+last_updated: "2025-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 18 de diciembre de 2014.
 
@@ -941,9 +941,13 @@ Las actividades económicas complementarias deberán de ajustar su horario a las
 
 Las unidades económicas en las que se preste el servicio de hospedaje con algún otro servicio deberán contar para su operación con locales que formen parte de la construcción, separados por muros, canceles, mamparas o desniveles, construidos o instalados de modo que eviten molestias, tanto a los huéspedes en sus habitaciones, como a las personas que vivan en inmuebles aledaños, y observarán las disposiciones siguientes:
 
-I. Exhibir en lugar visible para el público, con caracteres legibles, la tarifa de hospedaje, horario de vencimiento del servicio, la tarifa de las actividades económicas autorizadas y el aviso de que cuenta con caja de seguridad para la guarda de valores.
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2025)</small>
 
-II. Llevar el control de llegadas y salidas de huéspedes con anotación en libros, tarjetas de registro interno o sistema computarizado, en los que incluya nombre, ocupación, origen, procedencia y lugar de residencia, los menores de edad deberán ser registrados.
+I. Exhibir en lugar visible para el público, con caracteres legibles, la tarifa de hospedaje, horario de vencimiento del servicio, la tarifa de las actividades económicas autorizadas, el aviso de que cuenta con caja de seguridad para la guarda de valores; así como carteles, infografías o material informativo sobre la prevención de la explotación sexual de niñas, niños y adolescentes, la trata de personas y las medidas para salvaguardar su integridad.
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+II. Llevar el control mediante registro de llegadas y salidas de todos los huéspedes, incluyendo niñas, niños y adolescentes, con anotación en libros, tarjetas de registro o sistema computarizado, en los que incluya nombre, ocupación, origen, procedencia y lugar de residencia.
 
 III. Colocar en cada una de las habitaciones, en un lugar visible, un ejemplar del reglamento interno de la unidad económica sobre la prestación de los servicios.
 
@@ -955,7 +959,31 @@ VI. Mantener limpios camas, ropa de cama, pisos, muebles, servicios sanitarios y
 
 VII. Garantizar la accesibilidad y disponibilidad de preservativos a los usuarios.
 
-VIII. Las demás que le confieran esta Ley y otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+VIII. Contar con personal capacitado y sensibilizado por las instancias competentes, en temas de prevención, combate y erradicación de la trata de personas y la explotación sexual de niñas, niños y adolescentes en el contexto de viajes y turismo; así como los derechos de la niñez y la adolescencia, a fin de que puedan acceder a la información que les apoye a identificar y denunciar posibles situaciones de riesgo.
+
+> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+IX. Promover la cultura de denuncia y, en su caso, denunciar, ante la posible identificación de actos relacionados con la trata de personas y la explotación sexual de niñas, niños y adolescentes.
+
+> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+X. Las personas prestadoras de servicios de hospedaje o alojamiento, deberán solicitar identificación oficial con fotografía que acredite la mayoría de edad de las personas turistas, en caso de personas extranjeras, se requerirá pasaporte o documento oficial con el que ingresaron al país, en caso de que se encuentren acompañadas de niñas, niños y adolescentes, las personas prestadoras de hospedaje deberán requerir los documentos que acrediten la filiación, parentesco, la patria potestad, tutela o guarda y custodia de los mismos, o en su caso, la autorización de quienes legalmente ostente la guarda o custodia. Lo anterior se deberá acreditar de conformidad con los documentos que se señalen en el Protocolo que al efecto se emita.
+
+> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+XI. Observar el Protocolo para la protección de niñas, niños y adolescentes en la prestación de servicios de hospedaje o alojamiento, que será emitido por la Secretaría de Cultura y Turismo, el Sistema para el Desarrollo Integral de la Familia del Estado de México a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México, la Fiscalía General de Justicia del Estado de México, la Secretaría Ejecutiva del Sistema de Protección Integral de Niñas, Niños y Adolescentes, la Secretaría de Seguridad, la Secretaría de Desarrollo Económico y la Comisión de los Derechos Humanos del Estado de México.
+
+El protocolo deberá contemplar, al menos las medidas y acciones para prevenir, detectar, reportar, y denunciar los casos de abuso y explotación sexual de niñas, niños y adolescentes, así como los medios y mecanismos para solicitar la asistencia de la Procuraduría de Protección de Niñas, Niños, y Adolescentes del Estado de México, y en su caso la respectiva intervención ante la Fiscalía General de Justicia del Estado de México, incluyendo las acciones para prestar auxilio inmediato a la niña, niño o adolescente que se encuentre en riesgo de sufrir abuso, trata o explotación sexual, privilegiando en todo momento el interés superior de las niñas, niños y adolescentes.
+
+> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+XII. Instalar y mantener activas cámaras de vigilancia en exteriores y áreas comunes, a fin de salvaguardar la seguridad de huéspedes y personal. Las videograbaciones deberán conservarse y mantenerse por lo menos 60 días naturales, respetando en todo caso las disposiciones en materia de protección de datos personales.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN VIII], G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+XIII. Las demás que le confieran esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 51.
 
@@ -3008,3 +3036,13 @@ DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la A
 DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
 
 DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
+
+G.G. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 249.- POR EL QUE SE REFORMAN LAS FRACCIONES XXII, XXIII Y XXIV DEL ARTÍCULO 102, Y SE ADICIONA LA FRACCIÓN XXV AL ARTÍCULO 102 DE LA LEY DE TURISMO SOSTENIBLE Y DESARROLLO ARTESANAL DEL ESTADO DE MÉXICO, Y SE REFORMAN LAS FRACCIONES I, II Y VIII DEL ARTÍCULO 50, Y SE ADICIONAN LAS FRACCIONES IX, X, XI, XII Y XIII AL ARTÍCULO 50 DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Protocolo a que hace referencia la fracción XII del artículo 50 de la Ley de Competitividad y Ordenamiento Comercial del Estado de México, deberá ser emitido por las instancias correspondientes en un periodo no mayor a 180 días hábiles contados a partir de la entrada en vigor del presente Decreto.
