@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-educacion-del-estado-de-nayarit-6855"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-13"
-last_updated: "2025-09-15"
+last_updated: "2025-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 13 de julio de 1994.
 
@@ -559,13 +559,21 @@ d) Promover la generosidad en el uso de los recursos, en vistas de promover la s
 
 XLIV.- Promover que la orientación vocacional proporcionada en los niveles secundaria y bachillerato sea impartida de manera preferente por profesionistas en psicología educativa o carreras afines, que cuenten con título y cédula profesional;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-XLV.- Implementar las acciones necesarias para recuperar o continuar con los planes y programas educativos, cuando a causa de desastres naturales o contingencias sanitarias se impida garantizar el acceso a la educación de forma habitual y ordinaria, y
+XLV.- Implementar las acciones necesarias para recuperar o continuar con los planes y programas educativos, cuando a causa de desastres naturales o contingencias sanitarias se impida garantizar el acceso a la educación de forma habitual y ordinaria;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-XLVI.- Las demás que fijen las leyes o normas aplicables en la materia.
+XLVI.- Impulsar la alfabetización inicial, entendida como el proceso en el que las niñas y los niños, progresivamente adquieren conocimientos y habilidades de lenguaje generales que se desarrollan en la oralidad y son luego capitalizados al aprender a leer y escribir;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XLVII.- Suscribir convenios de colaboración con el Consejo de Ciencia y Tecnología del Estado de Nayarit, con la finalidad de desarrollar herramientas tecnológicas y de innovación que apoyen la alfabetización inicial, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XVLIII.- Las demás que fijen las leyes o normas aplicables en la materia.
 
 > <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
@@ -601,9 +609,17 @@ XIII.- Operar y, en su caso, diseñar programas locales o regionales de reconoci
 
 XIV.- Organizar y operar el Servicio de Asesoría y Acompañamiento a las escuelas de conformidad con los lineamientos generales que la autoridad educativa federal a (sic) determine;
 
-XV.- Para fortalecer las capacidades, conocimientos y competencias del personal de nuevo ingreso al servicio público educativo, realizar una valoración y reconocimiento diagnóstico, en los términos que señale la Ley respectiva, al término de su primer ciclo escolar, y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-XVI.- Las demás que le correspondan conforme a esta Ley y otras disposiciones aplicables.
+XV.- Para fortalecer las capacidades, conocimientos y competencias del personal de nuevo ingreso al servicio público educativo, realizar una valoración y reconocimiento diagnóstico, en los términos que señale la Ley respectiva, al término de su primer ciclo escolar;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XVI.- Impulsar capacitaciones, talleres, foros y demás actividades de formación para maestras y maestros con la finalidad de fortalecer sus habilidades y conocimientos sobre el uso de herramientas tecnológicas aplicables en la alfabetización inicial, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XVII.- Las demás que le correspondan conforme a esta Ley y otras disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
@@ -1026,6 +1042,10 @@ El Sistema Educativo Estatal impulsará y apoyará la difusión e investigación
 > <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
 
 ARTICULO 48 A.- La autoridad educativa estatal buscará los mecanismos necesarios a fin de incorporar a personal capacitado en la investigación educativa, estableciendo convenios y relaciones de colaboración en caso de ser necesarios, con organismos, dependencias, institutos educativos de nivel superior, tanto nacionales como internacionales, o asociaciones civiles, con el propósito de realizar trabajos y propuestas tendientes al mejoramiento de la calidad de la educación en la entidad.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 48 B.- El Sistema Educativo Estatal en colaboración con el Consejo de Ciencia y Tecnología del Estado de Nayarit, impulsarán la investigación tecnológica y de innovación, vinculada a desarrollar herramientas tecnológicas que apoyen la alfabetización inicial.
 
 ### CAPITULO V. DE LA PARTICIPACION DE LA SOCIEDAD EN LA EDUCACION
 
@@ -2024,3 +2044,13 @@ P.O. 15 DE SEPTIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO 27 DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE LENGUAJE INCLUSIVO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE ALFABETIZACIÓN INICIAL".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo. Comuníquese el presente Decreto a la Secretaría de Educación y a los Servicios de Educación Pública, ambos del Estado de Nayarit, para su conocimiento y efectos conducentes.
+
+Tercero. Comuníquese el presente Decreto al Consejo de Ciencia y Tecnología del Estado de Nayarit COCYTEN, para su conocimiento y efectos conducentes.
