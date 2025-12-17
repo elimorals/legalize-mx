@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2025-11-25"
+last_updated: "2025-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE DICIEMBRE DE 2025.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -3179,6 +3179,14 @@ Las penas a que se refieren los dos artículos anteriores, se aumentarán hasta 
 
 Esta conducta será perseguida de oficio.
 
+> <small>(ADICIONADO, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 211 Quinquies 1.
+
+Se impondrán las mismas penas previstas en el primer párrafo del artículo 211 Ter, a quien haciendo uso de la inteligencia artificial, manipule imágenes, audios o videos de contenido íntimo sexual, para crear hechos falsos con apariencia real, con el propósito de almacenar, exponer, distribuir, difundir, exhibir, reproducir, transmitir, comercializar, ofertar, intercambiar y/o compartirlos a través de materiales impresos, correo electrónico, mensajes telefónicos, redes sociales o cualquier otro medio tecnológico, sin consentimiento expreso, voluntario, genuino y deseado de las personas que en ellos aparecen.
+
+Para efectos del párrafo anterior, se entenderá por inteligencia artificial cualquier aplicación, programa o tecnología que tenga la capacidad de analizar fotografías, audios, videos o cualquier otro material gráfico, y efectúe ajustes automáticos para hacerles cualquier tipo de alteración o modificación.
+
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 5 DE MARZO DE 2021)</small>
 
 ### CAPITULO VII. DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD Y LA IDENTIDAD SEXUAL
@@ -4315,19 +4323,23 @@ DELITOS CONTRA LA LIBERTAD SEXUAL
 
 ### CAPITULO I. HOSTIGAMIENTO Y ACOSO SEXUAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, G.G. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 269.
 
-Comete el delito de hostigamiento sexual, quien con fines de lujuria asedie a persona de cualquier sexo que le sea subordinada, valiéndose de su posición derivada de sus relaciones laborales, docentes, domésticas o cualquiera otra que implique jerarquía; y se le impondrán de seis meses a dos años de prisión o de treinta a ciento veinte días multa.
+Comete el delito de hostigamiento sexual, quien realice una conducta de naturaleza sexual no consentida a persona de cualquier sexo que le sea subordinada, que lesione su dignidad o que sea indeseable para quien la recibe, valiéndose de su posición derivada de sus relaciones laborales, docentes, domésticas o cualquiera otra que implique jerarquía; y se le impondrán de dos a seis años de prisión o de cien a ochocientas veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+Si el sujeto activo fuera persona servidora pública y utilizare los medios o circunstancias que el cargo le proporciona, además de la pena señalada, será destituida del cargo y se le inhabilitará para desempeñar empleos, cargos o comisiones en el servicio público de uno a tres años.
 
-Si el sujeto activo fuera servidor público y utilizare los medios o circunstancias que el cargo le proporciona, además de la pena señalada, será destituido del cargo y se le inhabilitará para desempeñar empleos, cargos o comisiones en el servicio público de uno a tres años.
+Tratándose de una persona servidora pública de institución educativa pública o personal que se desempeñe en institución educativa privada y utilizare los medios o circunstancias que el cargo le proporciona, la pena señalada en el primer párrafo se incrementará en una mitad, será destituida del cargo y se le inhabilitará para desempeñar empleos, cargos o comisiones en el servicio público de uno a diez años.
 
-> <small>(ADICIONADO, G.G. 5 DE ABRIL DE 2024)</small>
+Cuando la conducta prevista en este artículo sea realizada de manera reiterada, o aprovechándose de cualquier circunstancia que produzca desventaja, indefensión o riesgo inminente para la víctima la pena se incrementará en una mitad.
 
-Tratándose de una persona servidora pública de institución educativa pública o personal que se desempeñe en institución educativa privada y utilizare los medios o circunstancias que el cargo le proporciona, la pena señalada en el primer párrafo se incrementará en una mitad, será destituido del cargo y se le inhabilitará para desempeñar empleos, cargos o comisiones en el servicio público de uno a diez años.
+La persona servidora pública integrante de instituciones policiales, de procuración o administración de justicia que se niegue a recibir la denuncia de la víctima del delito previsto en este artículo, siempre que corresponda al ámbito de su competencia, o la persuada, disuada o intimide para no interponerla, se le impondrán de dos a seis años de prisión y de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización, además de la destitución e inhabilitación por un plazo igual al de la pena de prisión impuesta, para ejercer empleo, cargo o comisión públicos.
+
+Este delito se perseguirá de oficio.
+
+En la interpretación y aplicación de este delito deberá considerarse la perspectiva de género y los contextos de vulnerabilidad de la víctima.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE NOVIEMBRE DE 2025)</small>
 
@@ -4373,43 +4385,61 @@ En la interpretación y aplicación de este delito deberá considerarse la persp
 
 ### CAPITULO II. ABUSO SEXUAL
 
-> <small>(REFORMADO, G.G. 14 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, G.G. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 270.
 
-Comete el delito de abuso sexual:
+Comete el delito de abuso sexual quien realice, en el ámbito público o privado, cualquier acto sexual sin el consentimiento de la víctima y sin el propósito de llegar a la cópula, o a quien lo realice en su presencia, la obligue a observarlo o la haga ejecutarlo sobre sí, en otra persona o para el propio sujeto activo. También se considera abuso sexual cuando se obligue a la víctima a exhibir su cuerpo. A quien cometa este delito, se le impondrá pena de tres a siete años de prisión y de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+Para efectos del presente artículo, se entiende por acto sexual los tocamientos, caricias, roces corporales, exhibiciones o representaciones sexuales explicitas. Asimismo, no se considerará que existe consentimiento, cuando la voluntad de la persona haya sido anulada o viciada por violencia, intimidación, engaño, amenaza, abuso de confianza, autoridad o situación de vulnerabilidad.
 
-I. Quien ejecute en una persona un acto erótico o sexual sin su consentimiento y sin el propósito de llegar a la cópula o a quien lo realice en su presencia o haga ejecutarlo para sí o en otra persona. A quien cometa este delito, se le impondrá pena de dos a cuatro años de prisión y de doscientos a cuatrocientos días multa.
+El consentimiento no podrá presumirse del silencio, la pasividad o la falta de resistencia física de la víctima.
 
-> <small>(ADICIONADO, G.G. 20 DE OCTUBRE DE 2023)</small>
+Asimismo, se impondrá la obligación de acudir a talleres reeducativos con perspectiva de género y no violencia contra las mujeres y/o prestar trabajo en favor del Estado o de instituciones de beneficencia pública a fin de favorecer medidas de no repetición y promover un cambio cultural a favor de la igualdad sustantiva entre mujeres y hombres. El cumplimiento de esta obligación es de especial relevancia para la procedencia y continuidad de la suspensión condicional.
 
-La reparación de los daños y perjuicios ocasionados deberá ser integral.
+Adicional a las sanciones establecidas en este artículo, se impondrá al sujeto activo el cumplimiento de la reparación integral del daño, que deberá incluir, entre otras medidas establecidas en la Ley de Víctimas del Estado de México, la atención psicológica especializada para la víctima, hasta su total recuperación.
 
-> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+Este delito se perseguirá de oficio.
 
-II. Quien ejecute en una persona menor de edad o que no tenga la capacidad de comprender las cosas o de resistir al hecho, un acto erótico o sexual sin el propósito de llegar a la cópula o a quien lo realice en su presencia o haga ejecutarlo para sí o en otra persona. A quien cometa este delito, se le impondrá pena de ocho a quince años de prisión y de quinientos a mil días multa.
+Quien realice las conductas previstas en el primer párrafo del presente artículo en una persona menor de edad o que no tenga la capacidad de comprender el hecho o de resistirse al mismo, se le impondrá pena de ocho a quince años de prisión y de quinientas a mil veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, G.G. 20 DE OCTUBRE DE 2023)</small>
+Es obligación de quien ejerza la patria potestad de las niñas, niños y adolescentes, hacer del conocimiento o denunciar ante las instancias competentes, cualquier presunto caso de abuso sexual en su contra.
 
-La reparación de los daños y perjuicios ocasionados deberá ser integral.
+La persona servidora pública integrante de instituciones policiales, de procuración o administración de justicia que se niegue a recibir la denuncia de la víctima del delito previsto en este artículo, siempre que corresponda al ámbito de su competencia, o la persuada, disuada o intimide para no interponerla, se le impondrán de dos a seis años de prisión y de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización, además de la destitución e inhabilitación por un plazo igual al de la pena de prisión impuesta, para ejercer empleo, cargo o comisión públicos.
 
-> <small>(ADICIONADO, G.G. 20 DE OCTUBRE DE 2023)</small>
+En la interpretación y aplicación de este delito deberá considerarse la perspectiva de género y los contextos de vulnerabilidad de la víctima.
+
+> <small>(REFORMADO, G.G. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 270 Bis.
 
-Las penas previstas para el abuso sexual se aumentarán hasta en una tercera parte en su mínimo y máximo, cuando:
+Las penas previstas para el abuso sexual se aumentarán hasta en una tercera parte en su mínimo y máximo, cuando el delito se cometa en cualquiera de las siguientes circunstancias:
 
-I. Se hiciere uso de la violencia física o moral;
+I. Con violencia física, psicológica o moral;
 
-II. El delito fuere cometido por uno de los cónyuges, por un ascendiente contra su descendiente, por éste contra aquél, por un hermano contra otro, por el tutor en contra de su pupilo o por el padrastro, madrastra, concubina, concubinario, amasio o amasia en contra del hijastro o hijastra. Además de la pena de prisión, el culpable perderá la patria potestad o la tutela, en los casos en que la ejerciere sobre la víctima;
+II. Por dos o más personas;
 
-III. Cuando el delito sea cometido por quienes tengan o hayan tenido relación con la víctima por motivos laborales, docentes, médicos, domésticos, religiosos o cualquier otro que implique confianza o subordinación. Además de la pena de prisión, si el delito es contra una persona menor de edad, el condenado será destituido del cargo o empleo, inhabilitado o suspendido hasta por el término de cinco años en el ejercicio de su profesión, independientemente de las sanciones a que se haga acreedor, y
+III. En un lugar despoblado, solitario o poco accesible;
 
-IV. Cuando el ofendido tenga alguna discapacidad, que limite las actividades de su vida diaria e impida su desarrollo individual y social.
+IV. Cuando exista o haya existido entre el agresor y la víctima una relación de confianza, sentimental, de parentesco por consanguinidad, afinidad o legal, laboral, educativa, docente, médica, doméstica, de formación deportiva, artística, o religiosa, así como cualquier otra que implique confianza o subordinación;
 
-Es obligación de quien ejerza la patria potestad de las niñas, niños y adolescentes, hacer del conocimiento o denunciar ante las instancias competentes, cualquier presunto caso de abuso sexual en su contra.
+V. Cuando se realice por persona que tenga a la víctima bajo su responsabilidad, custodia, guarda, tutela, cuidado o dependencia económica. En estos casos además de las penas aplicables, perderá la tutela, guarda, custodia, o patria potestad de la víctima;
+
+VI. Cuando el ofendido tenga alguna discapacidad;
+
+VII. Cuando se realice por persona servidora pública aprovechando su empleo, cargo o comisión. En este caso, además de la pena de prisión, la persona agresora será destituida del cargo, empleo o comisión e inhabilitada para el ejercicio de servicio público por un plazo igual al de la pena privativa de la libertad sin perjuicio de otras sanciones administrativas o civiles que correspondan;
+
+VIII. Cuando se realice por profesionista aprovechando su empleo, cargo o comisión. En este caso, además de la pena de prisión, la persona agresora será inhabilitada para el ejercicio de la profesión por un plazo igual al de la pena privativa de la libertad sin perjuicio de otras sanciones administrativas o civiles que correspondan;
+
+IX. Cuando se realice por ministro de culto aprovechando su cargo, función o comisión;
+
+X. Cuando la víctima se encuentre bajo los efectos de alcohol, fármacos, narcóticos u otras sustancias que afecten su voluntad o discernimiento;
+
+XI. Cuando la víctima se encuentre en estado de embarazo o puerperio;
+
+XII. Cuando se cometa contra personas por su orientación sexual, identidad de género o expresión de género; y
+
+XIII. Cuando la víctima se encuentre en estado de indefensión.
 
 ### CAPITULO III. ESTUPRO
 
@@ -8108,3 +8138,19 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto, perdiendo vigor al momento de esta publicación.
+
+G.G. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 244.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 269, 270 Y 270 BIS DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 247.·POR EL QUE SE ADICIONA UN ARTÍCULO 211 QUINQUIES 1 AL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
