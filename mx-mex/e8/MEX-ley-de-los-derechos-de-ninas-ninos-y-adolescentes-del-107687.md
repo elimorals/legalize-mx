@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107687"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-07"
-last_updated: "2025-09-30"
+last_updated: "2025-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 7 de mayo de 2015.
 
@@ -295,7 +295,9 @@ VII. Derecho a vivir en condiciones de bienestar y a un sano desarrollo integral
 
 VIII. Derecho a una vida libre de violencia y a la integridad personal.
 
-IX. Derecho a la protección de la salud y a la seguridad social.
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+IX. Derecho a la alimentación nutritiva, suficiente y de calidad; a la protección de la salud y a la seguridad social.
 
 X. Derecho a la inclusión de niñas, niños y adolescentes con discapacidad.
 
@@ -348,6 +350,10 @@ Las autoridades municipales establecerán unidades de primer contacto para la at
 > <small>(ADICIONADO, G.G. 11 DE MAYO DE 2023)</small>
 
 Es obligación de las y los servidores públicos, sin importar su nivel o calidad, el hacer del conocimiento o denunciar ante las instancias competentes, cualquier presunto caso de violencia en contra de niñas, niños o adolescentes, teniendo como prioridad la protección integral de la niñez y su interés superior.
+
+> <small>(ADICIONADO, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+En situaciones de emergencia o desastres, las autoridades estatales y municipales, en coordinación con las instituciones competentes, deberán garantizar la protección integral de niñas, niños y adolescentes, a través de la prevención y mitigación de desastres, priorizando su integridad física y emocional, así como su acceso a servicios básicos como alimentación, salud y educación. Estas acciones se realizarán en el marco de los programas y políticas públicas existentes, sin generar erogaciones adicionales al presupuesto, y en apego a las facultades y atribuciones de las dependencias involucradas.
 
 ### Capítulo Segundo. Del Derecho de Prioridad
 
@@ -603,11 +609,15 @@ Se entenderá por castigo corporal o físico a todo acto cometido en contra de n
 
 El castigo humillante es cualquier trato ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizador y de menosprecio, y cualquier acto que tenga como objetivo provocar dolor físico o psicológico amenaza, molestia o humillación cometido en contra de niñas, niños y adolescentes.
 
-### Capítulo Noveno. Derecho a la Protección de la Salud y a la Seguridad Social
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+### Capítulo Noveno. Derecho a la Alimentación, Protección de la Salud y a la Seguridad Social
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 31.
 
-Niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel posible de salud, así como a recibir la prestación de servicios de atención médica gratuita y de calidad, de conformidad con la legislación aplicable.
+Niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel posible de salud, así como a una alimentación nutritiva, suficiente y de calidad, que les permita el sano crecimiento, desarrollo físico y mental óptimo, además de recibir la prestación de servicios de atención médica gratuita y de calidad, de conformidad con la legislación aplicable.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, se coordinarán a fin de:
 
@@ -637,7 +647,9 @@ VII. Establecer las medidas tendientes a prevenir embarazos de niñas y adolesce
 
 VIII. Asegurar la prestación de servicios de atención médica gratuita, respetuosa, efectiva e integral a las mujeres durante el embarazo, parto y puerperio, así como para sus hijas e hijos.
 
-IX. Impulsar programas de prevención e información, de asistencia para combatir la desnutrición crónica y aguda, sobrepeso y obesidad, así como otros trastornos de conducta alimentaria mediante la promoción de una alimentación adecuada y equilibrada, el consumo de agua potable, el fomento del ejercicio físico y estilos de vida saludable.
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+IX. Impulsar programas de prevención, información y de asistencia para combatir la desnutrición crónica y aguda, sobrepeso y obesidad, así como otros trastornos de conducta alimentaria que afecten su óptimo crecimiento y desarrollo físico y mental, mediante el fomento de una alimentación nutritiva, suficiente y de calidad que cubra las necesidades nutricionales, el consumo de agua potable, el fomento del ejercicio físico y estilos de vida saludable.
 
 > <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
@@ -1665,7 +1677,7 @@ La Procuraduría de Protección tendrá las atribuciones siguientes:
 
 > <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], G.G. 30 DE SEPTIEMBRE DE 2025)</small>
 
-I. Procurar la protección integral de niñas, niños y adolescentes así como recibir, atender y dar seguimiento de manera prioritaria a casos de maltrato y violencia en su contra , de acuerdo con lo previsto por la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de México, los tratados internacionales en los que el Estado Mexicano sea parte, la Ley General, esta Ley y demás disposiciones jurídicas aplicables, dicha protección integral deberá abarcar, por lo menos:
+I. Procurar la protección integral de niñas, niños y adolescentes así como recibir, atender y dar seguimiento de manera prioritaria a casos de maltrato y violencia en su contra, de acuerdo con lo previsto por la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de México, los tratados internacionales en los que el Estado Mexicano sea parte, la Ley General, esta Ley y demás disposiciones jurídicas aplicables, dicha protección integral deberá abarcar, por lo menos:
 
 a. Atención médica y psicológica.
 
@@ -2405,7 +2417,7 @@ TERCERO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que
 
 G.G. 6 DE SEPTIEMBRE DE 2021.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 326.- POR EL QUE SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO, LAS FRACCIONES I, IV Y V DEL ARTÍCULO 61 , LAS FRACCIONES I Y IV DEL ARTÍCULO 62, LOS ARTÍCULOS 64 Y 66; SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 62 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 326.- POR EL QUE SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO, LAS FRACCIONES I, IV Y V DEL ARTÍCULO 61, LAS FRACCIONES I Y IV DEL ARTÍCULO 62, LOS ARTÍCULOS 64 Y 66; SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 62 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
@@ -2610,3 +2622,23 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO. Las instancias competentes, en un periodo no mayor a 180 días hábiles contados a partir de la entrada en vigor de este Decreto, deberán actualizar los protocolos de atención a que hace referencia el presente Decreto para contemplar la intervención de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México.
+
+G.G. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 255.- POR EL QUE SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 10, LA DENOMINACIÓN DEL CAPÍTULO NOVENO DEL TÍTULO SEGUNDO, EL PÁRRAFO PRIMERO Y LA FRACCIÓN IX DEL ARTÍCULO 31 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las erogaciones que se generen con motivo de este Decreto se realizarán con cargo a los recursos presupuestarios aprobados expresamente para esos fines por la Legislatura del Estado.
+
+CUARTO. El Congreso del Estado deberá realizar las adecuaciones legislativas que correspondan, en un plazo máximo de noventa días a partir de la entrada en vigor del presente Decreto.
+
+G.G. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 256.- POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 11 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
