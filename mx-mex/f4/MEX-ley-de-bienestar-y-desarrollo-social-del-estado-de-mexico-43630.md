@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-bienestar-y-desarrollo-social-del-estado-de-mexico-43630
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2025-04-29"
+last_updated: "2025-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43630&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE BIENESTAR Y DESARROLLO SOCIAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 29 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 17 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno, el viernes 31 de diciembre de 2004.
 
@@ -365,9 +365,9 @@ I. Las regiones, municipios, microrregiones, zonas de atención prioritaria e in
 
 II. A la población indígena, mujeres, niñas, niños, adolescentes, adultos mayores, familias de los migrantes, personas con discapacidad, población en situación de calle, o que se encuentren en situación de vulnerabilidad social;
 
-> <small>(ADICIONADA, G.G. 20 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2025)</small>
 
-II Bis. A las mujeres en condición de pobreza extrema y pobreza moderada;
+II Bis. A las mujeres en condición de pobreza extrema, pobreza moderada y que hayan sufrido violencia en cualquiera de sus diferentes tipos y modalidades que señala la ley vigente;
 
 III. A los grupos que lo requieran según condiciones de desastre, dinámica geográfica y social del Estado.
 
@@ -1286,3 +1286,15 @@ SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 TERCERO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Ley de Desarrollo Social del Estado de México se entenderán hechas a la Ley de Bienestar y Desarrollo Social del Estado de México.
 
 CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
+
+G.G. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 250.- POR EL QUE SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 46 Y LA FRACCIÓN X DEL ARTÍCULO 56; Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 37, LA FRACCIÓN XIII AL ARTÍCULO 46 Y LA FRACCIÓN XI AL ARTÍCULO 56 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, Y SE REFORMA LA FRACCIÓN II BIS DEL ARTÍCULO 12 DE LA LEY DE BIENESTAR Y DESARROLLO SOCIAL DEL ESTADO DE MÉXICO".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
