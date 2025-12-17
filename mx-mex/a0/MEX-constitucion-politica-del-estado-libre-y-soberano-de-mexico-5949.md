@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2025-11-04"
+last_updated: "2025-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE DICIEMBRE DE 2025.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -337,9 +337,9 @@ Las Autoridades Garantes Estatales en materia de transparencia, acceso a la info
 
 IX. La inobservancia de las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
 
-> <small>(REFORMADO, G.G. 3 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, G.G. 17 DE DICIEMBRE DE 2025)</small>
 
-Toda persona tiene derecho a una alimentación adecuada.
+Toda persona tiene derecho a una alimentación nutritiva, suficiente y de calidad.
 
 > <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2010)</small>
 
@@ -5606,3 +5606,11 @@ Se respetarán los derechos laborales de las personas trabajadoras adscritas al 
 Las personas Comisionadas del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios, que continúen en su cargo, concluirán sus funciones a la entrada en vigor de la legislación a la que aluden el Artículo Tercero Transitorio, en los términos que se prevean en tales disposiciones, salvo aquellos cuya vigencia de sus nombramientos concluya previamente a la entrada en vigor de dicha legislación.
 
 A partir de la entrada en vigor de la legislación señalada en el Artículo Tercero Transitorio, las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación al Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios se entenderán hechas o conferidas a los entes públicos que adquieran tales atribuciones o funciones, según corresponda.
+
+G.G. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 243.- DECLARATORIA DE APROBACIÓN DE LA MINUTA DE PROYECTO DE DECRETO POR EL QUE SE REFORMA EL PÁRRAFO CUADRAGÉSIMO SÉPTIMO DEL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO".]
+
+PRIMERO. Publíquese en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
