@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10910
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-08"
-last_updated: "2025-07-15"
+last_updated: "2025-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el miércoles 8 de julio de 2015.
 
@@ -1107,17 +1107,21 @@ XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de n
 
 XXII. Implementar acciones para proporcionar a las niñas, niños y adolescentes formación de inteligencia emocional;
 
-> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-XXIII. Diseñar programas para concientizar sobre la importancia de la educación inicial en el desarrollo de las capacidades de las niñas y los niños, y
+XXIII. Diseñar programas para concientizar sobre la importancia de la educación inicial en el desarrollo de las capacidades de las niñas y los niños;
 
-> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-XXIV. Establecer mecanismos para que las autoridades educativas, escolares y los particulares con autorización o reconocimiento de validez oficial de estudios, notifiquen a la Procuraduría de Protección Estatal, los casos de asistencia irregular, abandono o deserción escolar que se identifiquen respecto de los alumnos que cursen educación básica y media superior en los centros educativos.
+XXIV. Impulsar programas de capacitación para maestras y maestros en materia de alfabetización inicial, con el objetivo de garantizar la creación de ambientes alfabetizadores en beneficio de un desarrollo integral para la niñez, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XXV. Establecer mecanismos para que las autoridades educativas, escolares y los particulares con autorización o reconocimiento de validez oficial de estudios, notifiquen a la Procuraduría de Protección Estatal, los casos de asistencia irregular, abandono o deserción escolar que se identifiquen respecto de los alumnos que cursen educación básica y media superior en los centros educativos.
 
 Ante dicha notificación será aplicable el procedimiento establecido en el artículo 116 de la presente Ley, y en su caso, la activación de las instancias jurisdiccionales necesarias a fin de garantizar los derechos de las niñas, niños y adolescentes.
 
-> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN XXIV, P.O. 17 DE MAYO DE 2023.]</small>
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN XXV, P.O. 17 DE MAYO DE 2023.]</small>
 
 En caso contrario, se estará a lo dispuesto en el Capítulo Único del Título Sexto de la presente Ley, con independencia de aquellas conductas que pudieran ser consideradas como delitos conforme a la normatividad en la materia.
 
@@ -2394,3 +2398,11 @@ P.O. 15 DE JULIO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO. Para su conocimiento y efectos conducentes, notifíquese el Decreto a la Secretaría de Educación y a los Servicios de Educación Pública, ambos del Estado de Nayarit.
+
+P.O. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NAYARIT, EN MATERIA DE ALFABETIZACIÓN INICIAL”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo. Comuníquese el presente Decreto a la Secretaría de Educación y a los Servicios de Educación Pública, ambos del Estado de Nayarit, para su conocimiento y efectos conducentes.
