@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2025-07-09"
+last_updated: "2025-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2025.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -717,11 +717,11 @@ El Estado y sus ayuntamientos están obligados a reparar los daños causados por
 
 El Estado impulsará políticas que promuevan la creación de empleos para activar el crecimiento económico sostenible de todas las personas, así como para incrementar los niveles de producción e innovación tecnológica en el Estado. Se implementarán mecanismos para la producción sostenible de alimentos.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 15.
 
-Los gobiernos estatal y municipal promoverán el establecimiento y creación de Industrias sostenibles y la investigación e innovación científica. Se impulsará el turismo sostenible y se protegerá los derechos y la integridad del turista en Chiapas.
+Los gobiernos estatal y municipal promoverán el establecimiento y creación de Industrias sostenibles y la investigación e innovación científica. Se reconocerá al turismo como una actividad estratégica para el desarrollo económico, social y cultural del Estado, impulsando su crecimiento de manera sostenible y responsable; asimismo, se protegerán los derechos, la seguridad y la integridad del turista en Chiapas.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -5332,3 +5332,11 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
 
 Artículo Tercero.- Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, el Honorable Congreso del Estado, deberá llevar a cabo las modificaciones a la Ley Orgánica de la Universidad de Ciencias y Artes de Chiapas, a efecto de armonizarla con el presente Decreto.
+
+P.O. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 035 POR EL QUE SE REFORMA EL ARTÍCULO 15 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS; EN MATERIA DE RECONOCIMIENTO ESTRATÉGICO A LA ACTIVIDAD TURÍSTICA”.]
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
