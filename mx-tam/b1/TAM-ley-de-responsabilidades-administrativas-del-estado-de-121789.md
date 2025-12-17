@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-responsabilidades-administrativas-del-estado-de-121789"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-02"
-last_updated: "2025-06-18"
+last_updated: "2025-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Anexo al Extraordinario Número 10 del Periódico Oficial del Estado de Tamaulipas, el viernes 2 de junio de 2017.
 
@@ -73,9 +73,13 @@ Para efectos de esta Ley se entenderá por:
 
 I. Auditoría Superior: La Auditoría Superior del Estado de Tamaulipas;
 
-II. Autoridad investigadora: La autoridad en la Contraloría Gubernamental, los órganos internos de control y la Auditoría Superior del Estado, encargadas de la investigación de faltas administrativas;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-III. Autoridad substanciadora: La autoridad en la Contraloría Gubernamental, los órganos internos de control, el Congreso del Estado en términos de Ley y la Auditoría Superior del Estado, que, en el ámbito de su competencia, dirigen y conducen el procedimiento de responsabilidades administrativas desde la admisión del informe de presunta responsabilidad administrativa y hasta la conclusión de la audiencia inicial. La función de la autoridad substanciadora, en ningún caso podrá ser ejercida por una autoridad investigadora;
+II. Autoridad investigadora: la autoridad en la Secretaría, los órganos internos de control y la Auditoría Superior del Estado, encargadas de la investigación de faltas administrativas;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+III. Autoridad substanciadora: la autoridad en la Secretaría, los órganos internos de control, el Congreso del Estado en términos de Ley y la Auditoría Superior del Estado, que, en el ámbito de su competencia, dirigen y conducen el procedimiento de responsabilidades administrativas desde la admisión del informe de presunta responsabilidad administrativa y hasta la conclusión de la audiencia inicial. La función de la autoridad substanciadora, en ningún caso podrá ser ejercida por una autoridad investigadora;
 
 IV. Autoridad resolutora: Tratándose de faltas administrativas no graves lo será la unidad de responsabilidades administrativas o el servidor público asignado en los órganos internos de control, así como el Congreso del Estado en términos de ley. Para las faltas administrativas graves, así como para las faltas de particulares, lo será el Tribunal competente;
 
@@ -83,7 +87,9 @@ V. Comité Coordinador: Instancia a la que hace referencia el artículo 154 de l
 
 VI. Conflicto de Interés: La posible afectación del desempeño imparcial y objetivo de las funciones de los Servidores Públicos en razón de intereses personales, familiares o de negocios;
 
-VII. Contraloría: La Contraloría Gubernamental del Estado;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+VII. Secretaría: la Secretaría Anticorrupción y Buen Gobierno;
 
 VIII. Constitución: La Constitución Política del Estado Libre y Soberano de Tamaulipas;
 
@@ -91,7 +97,9 @@ IX. Declarante: El Servidor Público obligado a presentar declaración de situac
 
 X. Denunciante: La persona física o moral, o el Servidor Público que acude ante las autoridades investigadoras a que se refiere la presente Ley, con el fin de denunciar actos u omisiones que pudieran constituir o vincularse con faltas administrativas, en términos de los artículos 91 y 93 de esta Ley;
 
-XI. Ente público: Los poderes Legislativo y Judicial, los órganos constitucionales autónomos, las dependencias y entidades de la Administración Pública Estatal, los municipios del Estado y sus dependencias y entidades, los órganos jurisdiccionales que no formen parte de los poderes judiciales, así como cualquier otro ente sobre el que tenga control cualquiera de los poderes y órganos públicos citados de los dos órdenes de gobierno;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XI. Ente público: Los poderes Legislativo y Judicial, la Fiscalía General de Justicia, los órganos constitucionales autónomos, las dependencias y entidades de la Administración Pública Estatal, los municipios del Estado y sus dependencias y entidades, los órganos jurisdiccionales que no formen parte de los poderes judiciales, así como cualquier otro ente sobre el que tenga control cualquiera de los poderes y órganos públicos citados de los dos órdenes de gobierno;
 
 XII. Entidades: Los organismos públicos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos que tengan el carácter de entidad paraestatal a que se refieren los artículos 1, 41, 42 y 43 de la Ley Orgánica de la Administración Pública del Estado de Tamaulipas; y los organismos y empresas paramunicipales creados con este carácter por el Congreso del Estado;
 
@@ -101,7 +109,9 @@ XIV. Expediente de presunta responsabilidad administrativa: El expediente deriva
 
 XV. Faltas administrativas: Las faltas administrativas graves, las faltas administrativas no graves; así como las faltas de particulares, conforme a lo dispuesto en esta Ley;
 
-XVI. Falta administrativa no grave: Las faltas administrativas de los Servidores Públicos en los términos de la presente Ley, cuya sanción corresponde a la Contraloría Gubernamental, y a los órganos internos de control;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XVI. Falta administrativa no grave: las faltas administrativas de las personas servidoras públicas en los términos de la presente Ley, cuya sanción corresponde a la Secretaría, y a los órganos internos de control;
 
 XVII. Falta administrativa grave: Las faltas administrativas de los Servidores Públicos catalogadas como graves en los términos de la presente Ley, cuya sanción corresponde al Tribunal de Justicia Administrativa del Estado de Tamaulipas;
 
@@ -157,9 +167,11 @@ V. Cuenten, al menos, con los mismos deberes de diligencia y lealtad aplicables 
 
 ### Capítulo II. Principios y directrices que rigen la actuación de los Servidores Públicos
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 6.
 
-Todos los entes públicos están obligados a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, y la actuación ética y responsable de cada servidor público.
+Todos los entes públicos están obligados a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, y la actuación ética y responsable de cada persona servidora pública, en el marco del respeto a los derechos humanos, la buena administración pública y la perspectiva de género.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2025)</small>
 
@@ -183,9 +195,27 @@ VII. Promover, respetar, proteger y garantizar los derechos humanos establecidos
 
 VIII. Corresponder a la confianza que la sociedad les ha conferido; tendrán una vocación absoluta de servicio a la sociedad, y preservarán el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general;
 
-IX. Evitar y dar cuenta de los intereses que puedan entrar en conflicto con el desempeño responsable y objetivo de sus facultades y obligaciones; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-X. Abstenerse de realizar cualquier trato o promesa privada que comprometa al Estado.
+IX. Evitar y dar cuenta de los intereses que puedan entrar en conflicto con el desempeño responsable y objetivo de sus facultades y obligaciones;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+X. Se abstendrán de asociarse con inversionistas, contratistas o empresarios nacionales o extranjeros, para establecer cualquier tipo de negocio privado que afecte el desempeño imparcial y objetivo en razón de intereses personales o familiares, hasta el cuarto grado por consanguinidad o afinidad hasta el segundo grado;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XI. Separarse legalmente de los activos e intereses económicos que afecten de manera directa el ejercicio de sus responsabilidades en el servicio público y que constituyan conflicto de intereses, de acuerdo con lo establecido en esta Ley, en forma previa a la asunción de cualquier empleo, cargo o comisión;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XII. Abstenerse de intervenir o promover, por sí o por interpósita persona, en la selección, nombramiento o designación para el servicio público de personas con quienes tenga parentesco por filiación hasta el cuarto grado o por afinidad hasta el segundo grado; y
+
+XIII. Abstenerse de realizar cualquier trato o promesa privada que comprometa al Estado.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+La separación de activos o intereses económicos a que se refiere la fracción XI de este artículo, deberá comprobarse mediante la exhibición de los instrumentos legales conducentes, mismos que deberán incluir una cláusula que garantice la vigencia de la separación durante el tiempo de ejercicio del cargo y hasta por un año posterior a haberse retirado del empleo, cargo o comisión.
 
 ### Capítulo III. Autoridades competentes para aplicar la presente Ley
 
@@ -199,7 +229,9 @@ El Sistema Estatal Anticorrupción establecerá las bases y principios de coordi
 
 En el ámbito de su competencia, serán autoridades facultadas para aplicar la presente Ley:
 
-I. La Contraloría Gubernamental;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+I. La Secretaría;
 
 II. Los Órganos internos de control;
 
@@ -215,11 +247,15 @@ V. Tratándose de las responsabilidades administrativas de los Servidores Públi
 
 VI. El Congreso del Estado, a través de sus Comisiones, tratándose de las responsabilidades administrativas de los servidores públicos miembros de los Ayuntamientos, será competente para investigar e imponer las sanciones que correspondan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 10.
 
-La Contraloría y los órganos internos de control, tendrán a su cargo, en el ámbito de su competencia, la investigación, substanciación y calificación de las faltas administrativas.
+La Secretaría y los órganos internos de control, tendrán a su cargo, en el ámbito de su competencia, la investigación, substanciación y calificación de las faltas administrativas.
 
-Tratándose de actos u omisiones que hayan sido calificados como faltas administrativas no graves, la Contraloría y los órganos internos de control serán competentes para iniciar, substanciar y resolver los procedimientos de responsabilidad administrativa en los términos previstos en esta Ley.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Tratándose de actos u omisiones que hayan sido calificados como faltas administrativas no graves, la Secretaría y los órganos internos de control serán competentes para iniciar, substanciar y resolver los procedimientos de responsabilidad administrativa en los términos previstos en esta Ley.
 
 En el supuesto de que las autoridades investigadoras determinen en su calificación la existencia de faltas administrativas, así como la presunta responsabilidad del infractor, deberán elaborar el informe de presunta responsabilidad administrativa y presentarlo a la autoridad substanciadora para que proceda en los términos previstos en esta Ley.
 
@@ -257,41 +293,53 @@ La atribución del Tribunal para imponer sanciones a particulares en términos d
 
 ### Capítulo I. Mecanismos Generales de Prevención
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 15.
 
-Para prevenir la comisión de faltas administrativas y hechos de corrupción, la Contraloría y los órganos internos de control, considerando las funciones que a cada uno le corresponden y previo diagnóstico que al efecto realicen, podrán implementar acciones para orientar el criterio que en situaciones específicas deberán observar los Servidores Públicos en el desempeño de sus empleos, cargos o comisiones, en coordinación con el Sistema Estatal Anticorrupción.
+Para prevenir la comisión de faltas administrativas y hechos de corrupción, la Secretaría y los órganos internos de control, considerando las funciones que a cada uno le corresponden y previo diagnóstico que al efecto realicen, podrán implementar acciones para orientar el criterio que en situaciones específicas deberán observar las personas servidoras públicas en el desempeño de sus empleos, cargos o comisiones, en coordinación con el Sistema Estatal Anticorrupción.
 
-En la implementación de las acciones referidas, los órganos internos de control de la Administración Pública del Estado de Tamaulipas deberán atender los lineamientos generales que emita la Contraloría, en sus respectivos ámbitos de competencia. En los órganos constitucionales autónomos, los órganos internos de control respectivos, emitirán los lineamientos señalados.
+En la implementación de las acciones referidas, los órganos internos de control de la administración pública del estado de Tamaulipas deberán atender los lineamientos generales que emita la Secretaría, en sus respectivos ámbitos de competencia. En los órganos constitucionales autónomos, los órganos internos de control respectivos, emitirán los lineamientos señalados.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 16.
 
-Los servidores públicos deberán observar el código de ética que al efecto sea emitido por la Contraloría o los órganos internos de control, conforme a los lineamientos que emita el Sistema Estatal Anticorrupción, para que en su actuación impere una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño.
+Las personas servidoras públicas deberán observar el código de ética que al efecto sea emitido por la Secretaría o los órganos internos de control, conforme a los lineamientos que emita el Sistema Estatal Anticorrupción, para que en su actuación impere una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño.
 
-El código de ética a que se refiere el párrafo anterior, deberá hacerse del conocimiento de los Servidores Públicos de la dependencia o entidad de que se trate, así como darle la máxima publicidad.
+El código de ética a que se refiere el párrafo anterior, deberá hacerse del conocimiento de las personas servidoras públicas de la dependencia o entidad de que se trate, así como darle la máxima publicidad.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 17.
 
-Los órganos internos de control deberán evaluar anualmente el resultado de las acciones específicas que hayan implementado conforme a este Capítulo y proponer, en su caso, las modificaciones que resulten procedentes, informando de ello a la Contraloría en los términos que ésta establezca.
+Los órganos internos de control deberán evaluar anualmente el resultado de las acciones específicas que hayan implementado conforme a este Capítulo y proponer, en su caso, las modificaciones que resulten procedentes, informando de ello a la Secretaría en los términos que ésta establezca.
 
 ###### Artículo 18.
 
 Los órganos internos de control deberán valorar las recomendaciones que haga el Comité Coordinador del Sistema Estatal Anticorrupción a las autoridades, con el objeto de adoptar las medidas necesarias para el fortalecimiento institucional en su desempeño y control interno y con ello la prevención de faltas administrativas y hechos de corrupción. Deberán informar a dicho órgano de la atención que se dé a éstas y, en su caso, sus avances y resultados.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 19.
 
-Los entes públicos deberán implementar los mecanismos de coordinación que, en términos de la Ley del Sistema Estatal Anticorrupción, determine el Comité Coordinador del Sistema Estatal Anticorrupción e informar a dicho órgano de los avances y resultados que estos tengan, a través de sus órganos internos de control.
+Los entes públicos deberán implementar los mecanismos de coordinación que, en términos de la Ley del Sistema Estatal Anticorrupción, determine el Comité Coordinador del Sistema Estatal Anticorrupción e informar a dicho órgano de los avances y resultados que estos tengan, a través de sus órganos internos de control o instancia interna equivalente.
 
 ###### Artículo 20.
 
 Para la selección de los integrantes de los órganos internos de control se deberán observar, además de los requisitos establecidos para su nombramiento, un sistema que garantice la igualdad de oportunidades en el acceso a la función pública con base en el mérito y los mecanismos más adecuados y eficientes para su adecuada profesionalización, atrayendo a los mejores candidatos para ocupar los puestos a través de procedimientos transparentes, objetivos y equitativos. Los titulares de los órganos internos de control, de los órganos constitucionales autónomos, así como de las unidades especializadas que los conformen, serán nombrados en términos de sus respectivas leyes.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 21.
 
-La Contraloría podrá suscribir convenios de colaboración con las personas físicas o morales que participen en contrataciones públicas, así como con las cámaras empresariales u organizaciones industriales o de comercio, con la finalidad de orientarlas en el establecimiento de mecanismos de autorregulación que incluyan la instrumentación de controles internos y un programa de integridad que les permita asegurar el desarrollo de una cultura ética en su organización.
+La Secretaría podrá suscribir convenios de colaboración con las personas físicas o morales que participen en contrataciones públicas, así como con las cámaras empresariales u organizaciones industriales o de comercio, con la finalidad de orientarlas en el establecimiento de mecanismos de autorregulación que incluyan la instrumentación de controles internos y un programa de integridad que les permita asegurar el desarrollo de una cultura ética, honestidad y buenas prácticas en su organización.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 22.
 
-En el diseño y supervisión de los mecanismos a que se refiere el artículo anterior, se considerarán las mejores prácticas internacionales sobre controles, ética e integridad en los negocios, además de incluir medidas que inhiban la práctica de conductas irregulares, que orienten a los socios, directivos y empleados de las empresas sobre el cumplimiento del programa de integridad y que contengan herramientas de denuncia y de protección a denunciantes.
+En el diseño y supervisión de los mecanismos a que se refiere el artículo anterior, se considerarán las mejores prácticas internacionales sobre controles, ética, honradez e integridad en los negocios, además de incluir medidas que inhiban la práctica de conductas irregulares, que orienten a los socios, directivos y empleados de las empresas sobre el cumplimiento del programa de integridad y que contengan herramientas de denuncia y de protección a denunciantes.
 
 ###### Artículo 23.
 
@@ -353,19 +401,25 @@ La información relacionada con las declaraciones de situación patrimonial y de
 
 Las declaraciones patrimoniales y de intereses serán públicas salvo los rubros cuya publicidad pueda afectar la vida privada o los datos personales protegidos por la Constitución. Para tal efecto, el Comité Coordinador, a propuesta del Comité de Participación Ciudadana, emitirá los formatos respectivos, garantizando que los rubros que pudieran afectar los derechos aludidos queden en resguardo de las autoridades competentes.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 30.
 
-La Contraloría y los órganos internos de control, según sea el caso, deberán realizar una verificación aleatoria de las declaraciones patrimoniales que obren en el sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, así como de la evolución del patrimonio de los Servidores Públicos. De no existir ninguna anomalía expedirán la certificación correspondiente, la cual se anotará en dicho sistema. En caso contrario, iniciarán la investigación que corresponda.
+La Secretaría y los órganos internos de control, según sea el caso, deberán realizar una verificación aleatoria de las declaraciones patrimoniales que obren en el sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, así como de la evolución del patrimonio de las personas servidoras públicas. De no existir ninguna anomalía expedirán la certificación correspondiente, la cual se anotará en dicho sistema. En caso contrario, iniciarán la investigación que corresponda.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 31.
 
-La Contraloría, así como los órganos internos de control de los entes públicos, según corresponda, serán responsables de inscribir y mantener actualizada en el sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, la información correspondiente a los declarantes a su cargo. Asimismo, verificarán la situación o posible actualización de algún conflicto de Interés, según la información proporcionada, llevarán el seguimiento de la evolución y la verificación de la situación patrimonial de dichos declarantes, en los términos de la presente Ley. Para tales efectos, la Contraloría podrá firmar convenios con las distintas autoridades que tengan a su disposición datos, información o documentos que puedan servir para verificar la información declarada por los Servidores Públicos.
+La Secretaría, así como los órganos internos de control de los entes públicos, según corresponda, serán responsables de inscribir y mantener actualizada en el sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, la información correspondiente a los declarantes a su cargo. Asimismo, verificarán la situación o posible actualización de algún conflicto de interés, según la información proporcionada, llevarán el seguimiento de la evolución y la verificación de la situación patrimonial de dichos declarantes, en los términos de la presente Ley. Para tales efectos, la Secretaría podrá firmar convenios con las distintas autoridades que tengan a su disposición datos, información o documentos que puedan servir para verificar la información declarada por las personas servidoras públicas.
 
 #### Sección Segunda. De los sujetos obligados a presentar declaración patrimonial y de intereses
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 32.
 
-Estarán obligados a presentar las declaraciones de situación patrimonial y de intereses, bajo protesta de decir verdad y ante la Contraloría, o su respectivo Órgano Interno de Control, todos los Servidores Públicos, en los términos previstos en la presente Ley. Asimismo, deberán presentar su declaración fiscal anual, en los términos que disponga la legislación de la materia.
+Estarán obligados a presentar las declaraciones de situación patrimonial y de intereses, bajo protesta de decir verdad y ante la Secretaría, o su respectivo Órgano Interno de Control, todas las personas servidoras públicas, en los términos previstos en la presente Ley. Asimismo, deberán presentar su declaración fiscal anual, en los términos que disponga la legislación de la materia.
 
 #### Sección tercera. Plazos y mecanismos de registro al sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal
 
@@ -385,11 +439,15 @@ III. Declaración de conclusión del encargo, dentro de los sesenta días natura
 
 En el caso de cambio de dependencia o entidad en el mismo orden de gobierno, únicamente se dará aviso de dicha situación y no será necesario presentar la declaración de conclusión.
 
-La Contraloría o los órganos internos de control, según corresponda, podrán solicitar a los Servidores Públicos una copia de la declaración del Impuesto Sobre la Renta del año que corresponda, si éstos estuvieren obligados a presentarla o, en su caso, de la constancia de percepciones y retenciones que les hubieren emitido alguno de los entes públicos, la cual deberá ser remitida en un plazo de tres días hábiles a partir de la fecha en que se reciba la solicitud.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+La Secretaría o los órganos internos de control, según corresponda, podrán solicitar a las personas servidoras públicas una copia de la declaración del Impuesto Sobre la Renta del año que corresponda, si éstos estuvieren obligados a presentarla o, en su caso, de la constancia de percepciones y retenciones que les hubieren emitido alguno de los entes públicos, la cual deberá ser remitida en un plazo de tres días hábiles a partir de la fecha en que se reciba la solicitud.
 
 Si transcurridos los plazos a que se refieren las fracciones I, II y III de este artículo, no se hubiese presentado la declaración correspondiente, sin causa justificada, se iniciará inmediatamente la investigación por presunta responsabilidad por la comisión de las faltas administrativas correspondientes y se requerirá por escrito al declarante el cumplimiento de dicha obligación.
 
-Tratándose de los supuestos previstos en las fracciones I y II de este artículo, en caso de que la omisión en la declaración continúe por un periodo de treinta días naturales siguientes a la fecha en que hubiere notificado el requerimiento al declarante, la Contraloría o los órganos internos de control, según corresponda, declararán que el nombramiento o contrato ha quedado sin efectos, debiendo notificar lo anterior al titular del ente público correspondiente para separar del cargo al servidor público.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Tratándose de los supuestos previstos en las fracciones I y II de este artículo, en caso de que la omisión en la declaración continúe por un periodo de treinta días naturales siguientes a la fecha en que hubiere notificado el requerimiento al declarante, la Secretaría o los órganos internos de control, según corresponda, declararán que el nombramiento o contrato ha quedado sin efectos, debiendo notificar lo anterior al titular del ente público correspondiente para separar del cargo a la persona servidora pública.
 
 El incumplimiento por no separar del cargo al servidor público por parte del titular de alguno de los entes públicos, será causa de responsabilidad administrativa en los términos de esta Ley.
 
@@ -397,17 +455,25 @@ Para el caso de omisión, sin causa justificada, en la presentación de la decla
 
 Para la imposición de las sanciones a que se refiere este artículo deberá sustanciarse el procedimiento de responsabilidad administrativa por faltas administrativas previsto en el Título Segundo del Libro Segundo de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 34.
 
-Las declaraciones de situación patrimonial deberán ser presentadas a través de medios electrónicos, empleándose medios de identificación electrónica. En el caso de municipios que no cuenten con las tecnologías de la información y comunicación necesarias para cumplir lo anterior, podrán emplearse formatos impresos, siendo responsabilidad de los órganos internos de control y la Contraloría verificar que dichos formatos sean digitalizados e incluir la información que corresponda en el sistema de evolución patrimonial y de declaración de intereses.
+Las declaraciones de situación patrimonial deberán ser presentadas a través de medios electrónicos, empleándose medios de identificación electrónica. En el caso de municipios que no cuenten con las tecnologías de la información y comunicación necesarias para cumplir lo anterior, podrán emplearse formatos impresos, siendo responsabilidad de los órganos internos de control y la Secretaría verificar que dichos formatos sean digitalizados e incluir la información que corresponda en el sistema de evolución patrimonial y de declaración de intereses.
 
-La Contraloría tendrá a su cargo el sistema de certificación de los medios de identificación electrónica que utilicen los Servidores Públicos, y llevarán el control de dichos medios.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+La Secretaría tendrá a su cargo el sistema de certificación de los medios de identificación electrónica que utilicen las personas servidoras públicas, y llevarán el control de dichos medios.
 
 Asimismo, el Comité Coordinador, a propuesta del Comité de Participación Ciudadana, emitirá las normas y los formatos impresos; de medios magnéticos y electrónicos, bajo los cuales los declarantes deberán presentar las declaraciones de situación patrimonial, así como los manuales e instructivos, observando lo dispuesto por el artículo 29 de esta Ley.
 
-Para los efectos de los procedimientos penales que se deriven de la aplicación de las disposiciones del presente Título, son documentos públicos aquellos que emita la Contraloría para ser presentados como medios de prueba, en los cuales se contenga la información que obre en sus archivos documentales y electrónicos sobre las declaraciones de situación patrimonial de los Servidores Públicos.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-Los Servidores Públicos competentes para recabar las declaraciones patrimoniales deberán resguardar la información a la que accedan observando lo dispuesto en la legislación en materia de transparencia, acceso a la información pública y protección de datos personales.
+Para los efectos de los procedimientos penales que se deriven de la aplicación de las disposiciones del presente Título, son documentos públicos aquellos que emita la Secretaría para ser presentados como medios de prueba, en los cuales se contenga la información que obre en sus archivos documentales y electrónicos sobre las declaraciones de situación patrimonial de las personas servidoras públicas.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Las personas servidoras públicas competentes para recabar las declaraciones patrimoniales deberán resguardar la información a la que accedan observando lo dispuesto en la legislación en materia de transparencia, acceso a la información pública y protección de datos personales.
 
 ###### Artículo 35.
 
@@ -415,35 +481,47 @@ En la declaración inicial y de conclusión del encargo se manifestarán los bie
 
 En las declaraciones de modificación patrimonial se manifestarán sólo las modificaciones al patrimonio, con fecha y valor de adquisición. En todo caso se indicará el medio por el que se hizo la adquisición.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 36.
 
-La Contraloría y los órganos internos de control, estarán facultadas para llevar a cabo investigaciones o auditorías para verificar la evolución del patrimonio de los declarantes.
+La Secretaría y los órganos internos de control, estarán facultadas para llevar a cabo investigaciones o auditorías para verificar la evolución del patrimonio de los declarantes.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 37.
 
-En los casos en que la declaración de situación patrimonial del declarante refleje un incremento en su patrimonio que no sea explicable o justificable en virtud de su remuneración como servidor público, la Contraloría y los órganos internos de control inmediatamente solicitarán sea aclarado el origen de dicho enriquecimiento. De no justificarse la procedencia de dicho enriquecimiento, la Contraloría y los órganos internos de control procederán a integrar el expediente correspondiente para darle trámite conforme a lo establecido en esta Ley, y formularán, en su caso, la denuncia correspondiente ante el Ministerio Público.
+En los casos en que la declaración de situación patrimonial del declarante refleje un incremento en su patrimonio que no sea explicable o justificable en virtud de su remuneración como persona servidora pública, la Secretaría y los órganos internos de control inmediatamente solicitarán sea aclarado el origen de dicho enriquecimiento. De no justificarse la procedencia de dicho enriquecimiento, la Secretaría y los órganos internos de control procederán a integrar el expediente correspondiente para darle trámite conforme a lo establecido en esta Ley, y formularán, en su caso, la denuncia correspondiente ante el Ministerio Público.
 
-Los Servidores Públicos de los centros públicos de investigación, instituciones de educación y las entidades de la Administración Pública del Estado, a que se refiere el artículo 39 de la Ley de Fomento a la Investigación Científica y Tecnológica del Estado de Tamaulipas, que realicen actividades de investigación científica, desarrollo tecnológico e innovación podrán realizar actividades de vinculación con los sectores público, privado y social, y recibir beneficios, en los términos que para ello establezcan los órganos de gobierno de dichos centros, instituciones y entidades, con la previa opinión de la Contraloría Gubernamental, sin que dichos beneficios se consideren como tales para efectos de lo contenido en el artículo 52 de esta Ley.
+Las personas servidoras públicas de los centros públicos de investigación, instituciones de educación y las entidades de la Administración Pública del Estado, de conformidad con las disposiciones aplicables en la materia que se refiere el artículo 39 de la Ley de Fomento a la Investigación Científica y Tecnológica del Estado de Tamaulipas, que realicen actividades de investigación científica, desarrollo tecnológico e innovación podrán realizar actividades de vinculación con los sectores público, privado y social, y recibir beneficios, en los términos que para ello establezcan los órganos de gobierno de dichos centros, instituciones y entidades, con la previa opinión de la Secretaría, sin que dichos beneficios se consideren como tales para efectos de lo contenido en el artículo 52 de esta Ley.
 
-Las actividades de vinculación a las que hace referencia el párrafo anterior, además de las previstas en el citado artículo 39 de la Ley de Fomento a la Investigación Científica y Tecnológica del Estado de Tamaulipas, incluirán la participación de investigación científica y desarrollo tecnológico con terceros; transferencia de conocimiento; licenciamientos; participación como socios accionistas de empresas privadas de base tecnológica o como colaboradores o beneficiarios en actividades con fines de lucro derivadas de cualquier figura de propiedad intelectual perteneciente a la propia institución, centro o entidad, según corresponda. Dichos Servidores Públicos incurrirán en conflicto de intereses cuando obtengan beneficios por utilidades, regalías o por cualquier otro concepto en contravención a las disposiciones aplicables en la Institución.
+Las actividades de vinculación a las que hace referencia el párrafo anterior, además de las previstas las disposiciones legales especializadas en la materia, incluirán la participación de investigación científica y desarrollo tecnológico con terceros; transferencia de conocimiento; licenciamientos; participación como socios accionistas de empresas privadas de base tecnológica o como colaboradores o beneficiarios en actividades con fines de lucro derivadas de cualquier figura de propiedad intelectual perteneciente a la propia institución, centro o entidad, según corresponda. Dichas personas servidoras públicas incurrirán en conflicto de intereses cuando obtengan beneficios por utilidades, regalías o por cualquier otro concepto en contravención a las disposiciones aplicables en la Institución.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 38.
 
-Los declarantes estarán obligados a proporcionar a la Contraloría y los órganos internos de control, la información que se requiera para verificar la evolución de su situación patrimonial, incluyendo la de sus cónyuges, concubinas o concubinarios y dependientes económicos directos.
+Los declarantes estarán obligados a proporcionar a la Secretaría y los órganos internos de control, la información que se requiera para verificar la evolución de su situación patrimonial, incluyendo la de sus cónyuges, concubinas o concubinarios y dependientes económicos directos o integrantes de sociedades de convivencia.
 
-Sólo el titular de la Contraloría Gubernamental o los Servidores Públicos en quien deleguen esta facultad podrán solicitar a las autoridades competentes, en los términos de las disposiciones aplicables, la información en materia fiscal, o la relacionada con operaciones de depósito, ahorro, administración o inversión de recursos monetarios.
+Sólo el titular de la Secretaría o las personas servidoras públicas en quien deleguen esta facultad podrán solicitar a las autoridades competentes, en los términos de las disposiciones aplicables, la información en materia fiscal, o la relacionada con operaciones de depósito, ahorro, administración o inversión de recursos monetarios.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 39.
 
-Para los efectos de la presente Ley y de la legislación penal, se computarán entre los bienes que adquieran los declarantes o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge, concubina o concubinario y sus dependientes económicos directos, salvo que se acredite que éstos los obtuvieron por sí mismos.
+Para los efectos de la presente Ley y de la legislación penal, se computarán entre los bienes que adquieran los declarantes o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge, concubina o concubinario y sus dependientes económicos directos o integrantes de sociedad de convivencia, salvo que se acredite que éstos los obtuvieron por sí mismos.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 40.
 
-En caso de que los Servidores Públicos, sin haberlo solicitado, reciban de un particular de manera gratuita la transmisión de la propiedad o el ofrecimiento para el uso de cualquier bien, con motivo del ejercicio de sus funciones, deberán informarlo inmediatamente a la Contraloría o al Órgano Interno de Control. En el caso de recepción de bienes, los Servidores Públicos procederán a poner los mismos a disposición de las autoridades competentes en materia de administración y enajenación de bienes públicos.
+En caso de que las personas servidoras públicas, sin haberlo solicitado, reciban de un particular de manera gratuita la transmisión de la propiedad o el ofrecimiento para el uso de cualquier bien, con motivo del ejercicio de sus funciones, deberán informarlo inmediatamente a la Secretaría o al Órgano Interno de Control. En el caso de recepción de bienes, las personas servidoras públicas procederán a poner los mismos a disposición de las autoridades competentes en materia de administración y enajenación de bienes públicos.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 41.
 
-La Contraloría y los órganos internos de control, según corresponda, tendrán la potestad de formular la denuncia al Ministerio Público a la Fiscalía Especializada en Combate a la Corrupción del Estado de Tamaulipas, en su caso, cuando el sujeto a la verificación de la evolución de su patrimonio no justifique la procedencia lícita del incremento notoriamente desproporcionado de éste, representado por sus bienes, o de aquéllos sobre los que se conduzca como dueño, durante el tiempo de su empleo, cargo o comisión.
+La Secretaría y los órganos internos de control, según corresponda, tendrán la potestad de formular la denuncia al Ministerio Público a la Fiscalía Especializada en Combate a la Corrupción del Estado de Tamaulipas, en su caso, cuando el sujeto a la verificación de la evolución de su patrimonio no justifique la procedencia licita del incremento notoriamente desproporcionado de éste, representado por sus bienes, o de aquéllos sobre los que se conduzca como dueño, durante el tiempo de su empleo, cargo o comisión.
 
 ###### Artículo 42.
 
@@ -461,17 +539,21 @@ La información a que se refiere el presente artículo deberá ser puesta a disp
 
 #### Sección quinta. Del protocolo de actuación en contrataciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 44.
 
-El Comité Coordinador expedirá el protocolo de actuación que la Contraloría y los órganos internos de control implementarán.
+El Comité Coordinador expedirá el protocolo de actuación que la Secretaría y los órganos internos de control implementarán.
 
 Dicho protocolo de actuación deberá ser cumplido por los Servidores Públicos inscritos en el sistema específico de la Plataforma Digital Nacional a que se refiere el presente Capítulo y, en su caso, aplicarán los formatos que se utilizarán para que los particulares formulen un manifiesto de vínculos o relaciones de negocios, personales o familiares, así como de posibles Conflictos de Interés, bajo el principio de máxima publicidad y en los términos de la normatividad aplicable en materia de transparencia.
 
 El sistema específico de la Plataforma Digital Nacional a que se refiere el presente Capítulo incluirá la relación de particulares, personas físicas y morales, que se encuentren inhabilitados para celebrar contratos con los entes públicos derivado de procedimientos administrativos diversos a los previstos por esta Ley.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 45.
 
-La Contraloría o los órganos internos de control deberán supervisar la ejecución de los procedimientos de contratación pública por parte de los contratantes para garantizar que se lleva a cabo en los términos de las disposiciones en la materia, llevando a cabo las verificaciones procedentes si descubren anomalías.
+La Secretaría o los órganos internos de control deberán supervisar la ejecución de los procedimientos de contratación pública por parte de los contratantes para garantizar que se lleva a cabo en los términos de las disposiciones en la materia, llevando a cabo las verificaciones procedentes si descubren anomalías.
 
 #### Sección sexta. De la declaración de intereses
 
@@ -479,7 +561,9 @@ La Contraloría o los órganos internos de control deberán supervisar la ejecuc
 
 Se encuentran obligados a presentar declaración de intereses todos los Servidores Públicos que deban presentar la declaración patrimonial en términos de esta Ley.
 
-Al efecto, la Contraloría y los órganos internos de control se encargarán de que las declaraciones sean integradas al sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Al efecto, la Secretaría y los órganos internos de control se encargarán de que las declaraciones sean integradas al sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal.
 
 ###### Artículo 47.
 
@@ -497,11 +581,15 @@ La declaración de intereses deberá presentarse en los plazos a que se refiere 
 
 ### Capítulo I. De las faltas administrativas no graves de los Servidores Públicos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 49.
 
-Incurrirá en falta administrativa no grave el servidor público cuyos actos u omisiones incumplan o transgredan lo contenido en las obligaciones siguientes:
+Incurrirá en falta administrativa no grave la persona servidora pública cuyos actos u omisiones incumplan o transgredan lo contenido en las obligaciones siguientes:
 
-I. Cumplir con las funciones, atribuciones y comisiones encomendadas, observando en su desempeño disciplina y respeto, tanto a los demás Servidores Públicos como a los particulares con los que llegare a tratar, en los términos que se establezcan en el código de ética a que se refiere el artículo 16 de esta Ley;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+I. Cumplir con las funciones, atribuciones y comisiones encomendadas, observando en su desempeño disciplina y respeto, tanto a las demás personas servidoras públicas como a los particulares con los que llegare a tratar, en los términos que se establezcan en el código de ética a que se refiere el artículo 16 de esta Ley, y los de conducta, según corresponda;
 
 II. Denunciar los actos u omisiones que en ejercicio de sus funciones llegare a advertir, que puedan constituir faltas administrativas, en términos del artículo 93 de la presente Ley;
 
@@ -513,13 +601,23 @@ IV. Presentar en tiempo y forma las declaraciones de situación patrimonial y de
 
 V. Registrar, integrar, custodiar y cuidar la documentación e información que por razón de su empleo, cargo o comisión, tenga bajo su responsabilidad, e impedir o evitar su uso, divulgación, sustracción, destrucción, ocultamiento o inutilización indebidos;
 
-VI. Supervisar que los Servidores Públicos sujetos a su dirección, cumplan con las disposiciones de este artículo;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+VI. Supervisar que las personas servidoras públicas sujetas a su dirección, cumplan con las disposiciones de este artículo;
 
 VII. Rendir cuentas sobre el ejercicio de las funciones, en términos de las normas aplicables;
 
-VIII. Colaborar en los procedimientos judiciales y administrativos en los que sea parte, y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-IX. Cerciorarse, antes de la celebración de contratos de adquisiciones, arrendamientos o para la enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza o la contratación de obra pública o servicios relacionados con ésta, que el particular manifieste bajo protesta de decir verdad que no desempeña empleo, cargo o comisión en el servicio público o, en su caso, que a pesar de desempeñarlo, con la formalización del contrato correspondiente no se actualiza un conflicto de interés. Las manifestaciones respectivas deberán constar por escrito y hacerse del conocimiento del Órgano Interno de Control, previo a la celebración del acto en cuestión. En caso de que el contratista sea persona moral, dichas manifestaciones deberán presentarse respecto a los socios o accionistas que ejerzan control sobre la sociedad.
+VIII. Colaborar en los procedimientos judiciales y administrativos en los que sea parte;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+IX. Cerciorarse, antes de la celebración de contratos de adquisiciones, arrendamientos o para la enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza o la contratación de obra pública o servicios relacionados con ésta, que el particular manifieste bajo protesta de decir verdad que no desempeña empleo, cargo o comisión en el servicio público o, en su caso, que a pesar de desempeñarlo, con la formalización del contrato correspondiente no se actualiza un conflicto de interés. Las manifestaciones respectivas deberán constar por escrito y hacerse del conocimiento del Órgano Interno de Control, previo a la celebración del acto en cuestión. En caso de que el contratista sea persona moral, dichas manifestaciones deberán presentarse respecto a los socios o accionistas que ejerzan control sobre la sociedad; y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+X. Sin perjuicio de la obligación anterior, previo a realizar cualquier acto jurídico que involucre el ejercicio de recursos públicos con personas jurídicas, revisar su constitución y, en su caso, sus modificaciones cori (sic) el fin de verificar que sus socios, integrantes de los consejos de administración o accionistas que ejerzan control no incurran en conflicto de interés.
 
 Para efectos de esta Ley se entiende que un socio o accionista ejerce control sobre una sociedad cuando sean administradores o formen parte del consejo de administración, o bien conjunta o separadamente, directa o indirectamente, mantengan la titularidad de derechos que permitan ejercer el voto respecto de más del cincuenta por ciento del capital, tengan poder decisorio en sus asambleas, estén en posibilidades de nombrar a la mayoría de los miembros de su órgano de administración o por cualquier otro medio tengan facultades de tomar las decisiones fundamentales de dichas personas morales.
 
@@ -539,17 +637,29 @@ La Autoridad resolutora podrá abstenerse de imponer la sanción que corresponda
 
 Las conductas previstas en el presente Capítulo constituyen faltas administrativas graves de los Servidores Públicos, por lo que deberán abstenerse de realizarlas, mediante cualquier acto u omisión.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 52.
 
-Incurrirá en cohecho el servidor público que exija, acepte, obtenga o pretenda obtener, por sí o a través de terceros, con motivo de sus funciones, cualquier beneficio no comprendido en su remuneración como servidor público, que podría consistir en dinero; valores; bienes muebles o inmuebles, incluso mediante enajenación en precio notoriamente inferior al que se tenga en el mercado; donaciones; servicios; empleos y demás beneficios indebidos para sí o para su cónyuge, parientes consanguíneos, parientes civiles o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen parte.
+Incurrirá en cohecho la persona servidora pública que exija, acepte, obtenga o pretenda obtener, por sí o a través de terceros, con motivo de sus funciones, cualquier beneficio no comprendido en su remuneración como servidor o servidora pública, que podría consistir en dinero; valores; bienes muebles o inmuebles, incluso mediante enajenación en precio notoriamente inferior al que se tenga en el mercado; donaciones; servicios; empleos y demás beneficios indebidos para sí o para su cónyuge, parientes consanguíneos, parientes civiles o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen parte.
+
+También incurrirá en cohecho, la persona servidora pública que se abstenga de devolver el pago en demasía de su legítima remuneración de acuerdo a los tabuladores que al efecto resulten aplicables, dentro de los 30 días naturales siguientes a su recepción.
 
 ###### Artículo 53.
 
 Cometerá peculado el servidor público que autorice, solicite o realice actos para el uso o apropiación para sí o para las personas a las que se refiere el artículo anterior, de recursos públicos, sean materiales, humanos o financieros, sin fundamento jurídico o en contraposición a las normas aplicables.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+En términos de lo dispuesto por el párrafo anterior, las personas servidoras públicas no podrán disponer del servicio de miembros de alguna corporación policiaca, seguridad pública o de las fuerzas armadas, en el ejercicio de sus funciones, para otorgar seguridad personal, salvo en los casos en que la normativa que regule su actividad lo contemple o por las circunstancias se considere necesario proveer de dicha seguridad, siempre que se encuentre debidamente justificada a juicio del titular de las propias corporaciones de seguridad y previo informe al Órgano interno de control respectivo o a la Secretaría.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 54.
 
-Será responsable de desvío de recursos públicos el servidor público que autorice, solicite o realice actos para la asignación o desvío de recursos públicos, sean materiales, humanos o financieros, sin fundamento jurídico o en contraposición a las normas aplicables.
+Será responsable de desvío de recursos públicos la persona servidora pública que autorice, solicite o realice actos para la asignación o desvío de recursos públicos, sean materiales, humanos o financieros, sin fundamento jurídico o en contraposición a las normas aplicables.
+
+Se considerará desvío de recursos públicos, el otorgamiento o autorización, para sí o para otros, del pago de una remuneración en contravención con los tabuladores que a efecto resulten aplicables, así como el otorgamiento o autorización, para sí o para otros, de pagos de jubilaciones, pensiones o haberes de retiro, liquidaciones por servicios prestados, préstamos o créditos que no estén previstos en ley, decreto legislativo, contrata (sic) colectivo, contrato ley o condiciones generales de trabajo.
 
 ###### Artículo 55.
 
@@ -579,9 +689,21 @@ Será obligación del jefe inmediato determinar y comunicarle al servidor públi
 
 Será responsable de contratación indebida el servidor público que autorice cualquier tipo de contratación, así como la selección, nombramiento o designación, de quien se encuentre impedido por disposición legal o inhabilitado por resolución de autoridad competente para ocupar un empleo, cargo o comisión en el servicio público o inhabilitado para realizar contrataciones con los entes públicos, siempre que en el caso de las inhabilitaciones, al momento de la autorización, éstas se encuentren inscritas en el sistema nacional de servidores públicos y particulares sancionados de la Plataforma Digital Nacional.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Incurrirá en la responsabilidad dispuesta en el párrafo anterior, la persona servidora pública que intervenga o promueva, por sí o por interpósita persona, en la selección, nombramiento o designación de personas para el servicio público en función de intereses de negocios.
+
 ###### Artículo 60.
 
 Incurrirá en enriquecimiento oculto u ocultamiento de conflicto de interés el servidor público que falte a la veracidad en la presentación de las declaraciones de situación patrimonial o de intereses, que tenga como fin ocultar, respectivamente, el incremento en su patrimonio o el uso y disfrute de bienes o servicios que no sea explicable o justificable, o un conflicto de interés.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 60 Bis.
+
+Comete simulación de acto jurídico la persona servidora pública que utilice personalidad jurídica distinta a la suya para obtener, en beneficio propio o de algún familiar hasta el cuarto grado por consanguinidad o afinidad, recursos públicos en forma contraria a la ley.
+
+Esta falta administrativa se sancionará con inhabilitación de cinco a diez años.
 
 ###### Artículo 61.
 
@@ -596,6 +718,18 @@ Será responsable de encubrimiento el servidor público que cuando en el ejercic
 ###### Artículo 63.
 
 Cometerá desacato el servidor público que, tratándose de requerimientos o resoluciones de autoridades fiscalizadoras, de control interno, judiciales, electorales o en materia de defensa de los derechos humanos o cualquier otra competente, proporcione información falsa, así como no dé respuesta alguna, retrase deliberadamente y sin justificación la entrega de la información, a pesar de que le hayan sido impuestas medidas de apremio conforme a las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 63 Bis.
+
+Cometerá nepotismo la persona servidora pública que, valiéndose de las atribuciones o facultades de su empleo, cargo o comisión, directa o indirectamente, designe, nombre o intervenga para que se contrate como personal de confianza, de estructura, de base o por honorarios en el ente público en que ejerza sus funciones, a personas con las que tenga lazos de parentesco por consanguinidad hasta el cuarto grado, de afinidad hasta el segundo grado, o vínculo de matrimonio o concubinato.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 63 Ter.
+
+Es falta administrativa grave, la omisión de enterar las cuotas, aportaciones o descuentos ante el Instituto de Previsión y Seguridad Social del Estado de Tamaulipas, en los términos que señalan los artículos 21 y 22 de la Ley del Instituto de Previsión y Seguridad Social del Estado de Tamaulipas.
 
 ###### Artículo 64.
 
@@ -643,7 +777,9 @@ También se considerará colusión cuando los particulares acuerden o celebren c
 
 Cuando la infracción se hubiere realizado a través de algún intermediario con el propósito de que el particular obtenga algún beneficio o ventaja en la contratación pública de que se trate, ambos serán sancionados en términos de esta Ley.
 
-Las faltas referidas en el presente artículo resultarán aplicables respecto de transacciones comerciales internacionales. En estos supuestos la Contraloría será la autoridad competente para realizar las investigaciones que correspondan y podrá solicitar a las autoridades competentes la opinión técnica referida en el párrafo anterior, así como a un estado extranjero la información que requiera para la investigación y substanciación de los procedimientos a que se refiere esta Ley, en los términos previstos en los instrumentos internacionales de los que ambos estados sean parte y demás ordenamientos aplicables.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Las faltas referidas en el presente artículo resultarán aplicables respecto de transacciones comerciales internacionales. En estos supuestos la Secretaría será la autoridad competente para realizar las investigaciones que correspondan y podrá solicitar a las autoridades competentes la opinión técnica referida en el párrafo anterior, así como a un estado extranjero la información que requiera para la investigación y substanciación de los procedimientos a que se refiere esta Ley, en los términos previstos en los instrumentos internacionales de los que ambos estados sean parte y demás ordenamientos aplicables.
 
 Para efectos de este artículo se entienden como transacciones comerciales internacionales, los actos y procedimientos relacionados con la contratación, ejecución y cumplimiento de contratos en materia de adquisiciones, arrendamientos, servicios de cualquier naturaleza, obra pública y servicios relacionados con la misma; los actos y procedimientos relativos al otorgamiento y prórroga de permisos o concesiones, así como cualquier otra autorización o trámite relacionados con dichas transacciones, que lleve a cabo cualquier organismo u organización públicos de un estado extranjero o que involucre la participación de un servidor público extranjero y en cuyo desarrollo participen, de manera directa o indirecta, personas físicas o morales de nacionalidad mexicana.
 
@@ -667,9 +803,11 @@ A los particulares que se encuentren en situación especial conforme al presente
 
 ### Capítulo V. De la prescripción de la responsabilidad administrativa
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 74.
 
-Para el caso de faltas administrativas no graves, las facultades de la Contraloría o de los órganos internos de control para imponer las sanciones prescribirán en tres años, contados a partir del día siguiente al que se hubieren cometido las infracciones, o a partir del momento en que hubieren cesado.
+Para el caso de faltas administrativas no graves, las facultades de la Secretaría o de los órganos internos de control para imponer las sanciones prescribirán en tres años, contados a partir del día siguiente al que se hubieren cometido las infracciones, o a partir del momento en que hubieren cesado.
 
 Cuando se trate de faltas administrativas graves o faltas de particulares, el plazo de prescripción será de siete años, contados en los mismos términos del párrafo anterior.
 
@@ -685,9 +823,11 @@ Los plazos a los que se refiere el presente artículo se computarán en días na
 
 ### Capítulo I. Sanciones por faltas administrativas no graves
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 75.
 
-En los casos de responsabilidades administrativas distintas a las que son competencia del Tribunal, la Contraloría o los órganos internos de control impondrán las sanciones administrativas siguientes:
+En los casos de responsabilidades administrativas distintas a las que son competencia del Tribunal, la Secretaría o los órganos internos de control impondrán las sanciones administrativas siguientes:
 
 I. Amonestación pública o privada;
 
@@ -697,7 +837,9 @@ III. Destitución de su empleo, cargo o comisión, y
 
 IV. Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas.
 
-La Contraloría y los órganos internos de control podrán imponer una o más de las sanciones administrativas señaladas en este artículo, siempre y cuando sean compatibles entre ellas y de acuerdo a la trascendencia de la falta administrativa no grave.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+La Secretaría y los órganos internos de control podrán imponer una o más de las sanciones administrativas señaladas en este artículo, siempre y cuando sean compatibles entre ellas y de acuerdo a la trascendencia de la falta administrativa no grave.
 
 La suspensión del empleo, cargo o comisión que se imponga podrá ser de uno a treinta días naturales.
 
@@ -717,15 +859,19 @@ En caso de reincidencia de faltas administrativas no graves, la sanción que imp
 
 Se considerará reincidente al que habiendo incurrido en una infracción que haya sido sancionada y hubiere causado ejecutoria, cometa otra del mismo tipo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 77.
 
-Corresponde a la Contraloría o a los órganos internos de control imponer las sanciones por faltas administrativas no graves, y ejecutarlas. La Contraloría o los órganos internos de control podrán abstenerse de imponer la sanción que corresponda siempre que el servidor público:
+Corresponde a la Secretaría o a los órganos internos de control imponer las sanciones por faltas administrativas no graves, y ejecutarlas. La Secretaría o los órganos internos de control podrán abstenerse de imponer la sanción que corresponda siempre que las personas servidoras públicas:
 
 I. No haya sido sancionado previamente por la misma falta administrativa no grave; y
 
 II. No haya actuado de forma dolosa.
 
-La Contraloría o los órganos internos de control dejarán constancia de la no imposición de la sanción a que se refiere el párrafo anterior.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+La Secretaría o los órganos internos de control dejarán constancia de la no imposición de la sanción a que se refiere el párrafo anterior.
 
 ### Capítulo II. Sanciones para los Servidores Públicos por Faltas Graves
 
@@ -768,6 +914,12 @@ IV. Las condiciones exteriores y los medios de ejecución;
 V. La reincidencia en el incumplimiento de obligaciones, y
 
 VI. El monto del beneficio derivado de la infracción que haya obtenido el responsable.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 80 Bis.
+
+Si el beneficio indebidamente obtenido u otorgado a que hacen referencia los artículos 52, segundo párrafo, y 54, segundo párrafo, de esta Ley, no excede el equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización, y además se ha devuelto la cantidad entregada o depositada en demasía conforme al tabulador aplicable, la falta administrativa será considerada no grave.
 
 ### Capítulo III. Sanciones por Faltas de particulares
 
@@ -949,9 +1101,11 @@ III. Arresto hasta por treinta y seis horas.
 
 La Auditoría Superior y los órganos internos de control investigarán y, en su caso, substanciarán en los términos que determina esta Ley, los procedimientos de responsabilidad administrativa correspondientes. Asimismo, en los casos que procedan, presentarán la denuncia correspondiente ante el Ministerio Público competente.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 99.
 
-En caso de que la Auditoría Superior tenga conocimiento de la presunta comisión de faltas administrativas distintas a las señaladas en el artículo anterior, dará vista a la Contraloría o a los órganos internos de control que correspondan, a efecto de que procedan a realizar la investigación correspondiente.
+En caso de que la Auditoría Superior tenga conocimiento de la presunta comisión de faltas administrativas distintas a las señaladas en el artículo anterior, dará vista a la Secretaría o a los órganos internos de control que correspondan, a efecto de que procedan a realizar la investigación correspondiente.
 
 ### Capítulo III. De la calificación de faltas administrativas
 
@@ -1053,9 +1207,11 @@ La admisión del informe de presunta responsabilidad administrativa interrumpir�
 
 En caso de que con posterioridad a la admisión del informe las autoridades investigadoras adviertan la probable comisión de cualquier otra falta administrativa imputable a la misma persona señalada como presunto responsable, deberán elaborar un diverso informe de presunta responsabilidad administrativa y promover el respectivo procedimiento de responsabilidad administrativa por separado, sin perjuicio de que, en el momento procesal oportuno, puedan solicitar su acumulación.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 115.
 
-La autoridad a quien se encomiende la substanciación y, en su caso, resolución del procedimiento de responsabilidad administrativa, deberá ser distinto de aquél o aquellos encargados de la investigación. Para tal efecto, la Contraloría, los órganos internos de control y la Auditoría Superior del Estado, contarán con la estructura orgánica necesaria para realizar las funciones correspondientes a las autoridades investigadoras y substanciadoras, y garantizarán la independencia entre ambas en el ejercicio de sus funciones.
+La autoridad a quien se encomiende la substanciación y, en su caso, resolución del procedimiento de responsabilidad administrativa, deberá ser distinto de aquél o aquellos encargados de la investigación. Para tal efecto, la Secretaría, los órganos internos de control y la Auditoría Superior del Estado, contarán con la estructura orgánica necesaria para realizar las funciones correspondientes a las autoridades investigadoras y substanciadoras, y garantizarán la independencia entre ambas en el ejercicio de sus funciones.
 
 ###### Artículo 116.
 
@@ -1427,9 +1583,11 @@ Las notificaciones se tendrán por hechas a partir del día hábil siguiente en 
 
 Las notificaciones podrán ser hechas a las partes personalmente o por los estrados de la autoridad substanciadora o, en su caso, de la resolutora.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 189.
 
-Las notificaciones personales surtirán sus efectos al día hábil siguiente en que se realicen. Las autoridades substanciadoras o resolutoras del asunto, según corresponda, podrán solicitar mediante exhorto, la colaboración de la Contraloría y los órganos internos de control, o de los Tribunales, para realizar las notificaciones personales que deban llevar a cabo respecto de aquellas personas que se encuentren en lugares que se hallen fuera de su jurisdicción.
+Las notificaciones personales surtirán sus efectos al día hábil siguiente en que se realicen. Las autoridades substanciadoras o resolutoras del asunto, según corresponda, podrán solicitar mediante exhorto, la colaboración de la Secretaría y los órganos internos de control, o de los Tribunales, para realizar las notificaciones personales que deban llevar a cabo respecto de aquellas personas que se encuentren en lugares que se hallen fuera de su jurisdicción.
 
 ###### Artículo 190.
 
@@ -1609,7 +1767,9 @@ IX. La existencia o inexistencia que en términos de esta Ley constituyen faltas
 
 X. Los puntos resolutivos, donde deberá precisarse la forma en que deberá cumplirse la resolución.
 
-### Capítulo II. Del procedimiento de responsabilidad administrativa ante la Contraloría y Órganos Internos de Control
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+### Capítulo II. Del procedimiento de responsabilidad administrativa ante la Secretaría Anticorrupción y Buen Gobierno y Órganos Internos de Control
 
 ###### Artículo 208.
 
@@ -1663,9 +1823,11 @@ V. La resolución, deberá notificarse personalmente al presunto responsable. En
 
 #### Sección Primera. De la revocación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 210.
 
-Los Servidores Públicos que resulten responsables por la comisión de faltas administrativas no graves en los términos de las resoluciones administrativas que se dicten conforme a lo dispuesto en el presente Título por la Contraloría o los órganos internos de control, podrán interponer el recurso de revocación ante la autoridad que emitió la resolución dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación respectiva.
+Las personas servidoras públicas que resulten responsables por la comisión de faltas administrativas no graves en los términos de las resoluciones administrativas que se dicten conforme a lo dispuesto en el presente Título por la Secretaría o los órganos internos de control, podrán interponer el recurso de revocación ante la autoridad que emitió la resolución dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación respectiva.
 
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
@@ -1683,7 +1845,9 @@ III. Si el escrito de interposición del recurso de revocación no cumple con al
 
 La prevención tendrá el efecto de interrumpir el plazo que tiene la autoridad para resolver el recurso, por lo que comenzará a computarse a partir del día siguiente a su desahogo; y
 
-IV. Desahogadas las pruebas, si las hubiere, la Contraloría, el titular del órgano interno de control o el servidor público en quien delegue esta facultad, dictará resolución dentro de los treinta días hábiles siguientes, notificándolo al interesado en un plazo no mayor de setenta y dos horas.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+IV. Desahogadas las pruebas, si las hubiere, la Secretaría, la persona titular del órgano interno de control o la persona servidora pública en quien delegue esta facultad, dictará resolución dentro de los treinta días hábiles siguientes, notificándolo al interesado en un plazo no mayor de setenta y dos horas.
 
 ###### Artículo 212.
 
@@ -1757,23 +1921,27 @@ Se exceptúan del párrafo anterior, los Agentes del Ministerio Público, perito
 
 #### Sección Cuarta. De la Revisión
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 220.
 
-Las resoluciones definitivas que emita el Tribunal, podrán ser impugnadas por la Contraloría, los órganos internos de control de los entes públicos estatales o la Auditoría Superior del Estado, interponiendo el recurso de revisión, mediante escrito que se presente ante el Pleno del propio Tribunal, dentro de los diez días hábiles siguientes a aquél en que surta sus efectos la notificación respectiva.
+Las resoluciones definitivas que emita el Tribunal, podrán ser impugnadas por la Secretaría, los órganos internos de control de los entes públicos estatales o la Auditoría Superior del Estado, interponiendo el recurso de revisión, mediante escrito que se presente ante el Pleno del propio Tribunal, dentro de los diez días hábiles siguientes a aquél en que surta sus efectos la notificación respectiva.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 221.
 
-Las sentencias definitivas que emitan (sic) el Tribunal, podrán ser impugnadas por la Contraloría, los órganos internos de control o las (sic) Auditoría Superior del Estado, en los términos que lo prevean las leyes locales.
+Las sentencias definitivas que emitan (sic) el Tribunal, podrán ser impugnadas por la Secretaría, los órganos internos de control o las (sic) Auditoría Superior del Estado, en los términos que lo prevean las leyes locales.
 
 ### Capítulo IV. De la Ejecución
 
 #### Sección Primera. Cumplimiento y ejecución de sanciones por faltas administrativas no graves
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 222.
 
-La ejecución de las sanciones por faltas administrativas no graves se llevará a cabo de inmediato, una vez que sean impuestas por la Contraloría o los órganos internos de control, y conforme se disponga en la resolución respectiva.
+La ejecución de las sanciones por faltas administrativas no graves se llevará a cabo de inmediato, una vez que sean impuestas por la Secretaría o los órganos internos de control, y conforme se disponga en la resolución respectiva.
 
 ###### Artículo 223.
 
@@ -1789,7 +1957,9 @@ Las sanciones económicas impuestas por el Tribunal constituirán créditos fisc
 
 Cuando haya causado ejecutoria una sentencia en la que se determine la plena responsabilidad de un servidor público por faltas administrativas graves, el Magistrado, sin que sea necesario que medie petición de parte y sin demora alguna, girará oficio por el que comunicará la sentencia respectiva así como los puntos resolutivos de esta para su cumplimiento, de conformidad con las siguientes reglas:
 
-I. Cuando el servidor público haya sido suspendido, destituido o inhabilitado, se dará vista a su superior jerárquico y a la Contraloría; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+I. Cuando la persona servidora pública haya sido suspendida, destituida o inhabilitada, se dará vista a su superior jerárquico y a la Secretaría; y
 
 II. Cuando se haya impuesto una indemnización y/o sanción económica al responsable, se dará vista a las autoridades competentes del Estado, de los municipios o de los entes públicos, según corresponda.
 
@@ -1888,3 +2058,19 @@ P.O. 18 DE JUNIO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-916 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La competencia se normará por la materia de su denominación. En este sentido, la unidad anteriormente denominada Contraloría Gubernamental, que ahora pasa a ser la Secretaría Anticorrupción y Buen Gobierno, conservará la competencia sobre los asuntos que se encuentren en trámite conforme a disposiciones anteriores a la entrada en vigor del presente ordenamiento.
+
+###### ARTÍCULO TERCERO.
+
+Las Investigaciones y Procedimientos de Responsabilidad Administrativa iniciados por la Contraloría Gubernamental, continuarán su Investigación, Substanciación y Resolución, hasta su conclusión por la Secretaría Anticorrupción y Buen Gobierno del Estado de Tamaulipas, en el ámbito de su competencia y con fundamento en las disposiciones normativas vigentes al momento de su inicio, sin perjuicio de las atribuciones conferidas por el nuevo marco jurídico aplicable.
