@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-el-sistema-estatal-de-asistencia-social-9746"
 country: "mx"
 rank: "ley"
 publication_date: "1986-10-18"
-last_updated: "2023-06-06"
+last_updated: "2025-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 18 de octubre de 1986.
 
@@ -545,45 +545,35 @@ El Presidente del Patronato rendirá un informe anual de las actividades realiza
 
 El Patronato celebrará dos sesiones ordinarias al año y las extraordinarias que se requieran de conformidad con el Reglamento respectivo.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 27.
 
-La Junta de Gobierno estará integrada por:
+La Junta de Gobierno se integrará de la siguiente manera:
 
-I.- El Secretario de Salud, quien la presidirá;
+I.- La persona titular de la Secretaría de Salud, quien la presidirá;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+II.- La persona titular de la Secretaría General de Gobierno;
 
-II.- El Secretario General de Gobierno;
+III.- La persona titular de la Secretaría de Finanzas;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+IV.- La persona titular de la Secretaría de Desarrollo Rural, Pesca y Acuacultura;
 
-III.- El Secretario de Finanzas;
+V.- La persona titular de la Secretaría de Bienestar Social;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+VI.- La persona titular de la Secretaría de Educación; y
 
-IV.- El Secretario de Desarrollo Rural;
+VII.- La persona titular de la Secretaría de Administración.
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+La persona titular de la Dirección General del organismo y la persona titular de la Comisaría asistirán a las sesiones de la Junta de Gobierno y en ellas sólo tendrán derecho a voz.
 
-V.- El Secretario de Bienestar Social;
+La persona titular de la Presidencia de la Junta de Gobierno, de acuerdo con el tema que se trate, podrá invitar a las y los representantes de dependencias y entidades estatales, instituciones públicas federales, estatales o municipales, así como de organizaciones de los sectores social o privado, quienes tendrán derecho de voz.
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+Las y los integrantes de la Junta de Gobierno nombrarán a la persona suplente, quien deberá desempeñar una función del nivel administrativo de Subsecretaría.
 
-VI.- El Secretario de Educación; y
+Las y los integrantes de la Junta de Gobierno nombrarán a la persona suplente, quien deberá desempeñar una función del nivel administrativo de Subsecretaría. (sic)
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
-
-VII.- La Contraloría Gubernamental.
-
-El Director General del organismo y el Comisario asistirán a las sesiones de la Junta de Gobierno y en ellas sólo tendrán derecho a voz.
-
-El Presidente de la Junta de Gobierno, de acuerdo con el tema que se trate, podrá invitar a los representantes de dependencias y entidades estatales, instituciones públicas federales, estatales o municipales, así como de organizaciones de los sectores social o privado, quienes tendrán derecho de voz.
-
-Los integrantes de la Junta de Gobierno nombrarán a su respectivo suplente, quien deberá desempeñar una función del nivel administrativo de Subsecretario.
-
-La Junta de Gobierno contará con un Secretario Técnico, designado por la misma, a propuesta del Director General.
+La Junta de Gobierno contará con una Secretaría Técnica, designada por la misma, a propuesta de la persona titular de la Dirección General.
 
 ###### ARTICULO 28.
 
@@ -659,11 +649,11 @@ IX.- Establecer Centros de Mediación previo acuerdo de la Junta de Gobierno, en
 
 X.- Las demás que sean necesarias para el ejercicio de las anteriores.
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 33.
 
-El Comisario será designado y removido libremente por el Gobernador del Estado y estará adscrito jerárquica, técnica y funcionalmente a la Contraloría Gubernamental. Deberá ser ciudadano mexicano y tener una experiencia profesional no menor de cinco años.
+La persona titular de la Comisaría será designada y removida libremente por la persona titular del Poder Ejecutivo del Estado y estará adscrita jerárquica, técnica y funcionalmente a la Secretaría Anticorrupción y Buen Gobierno. Deberá contar con ciudadanía mexicana y tener una experiencia profesional no menor de cinco años.
 
 ###### ARTICULO 34.
 
@@ -982,3 +972,11 @@ P.O. 6 DE JUNIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-915 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 27 Y 33 DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación (sic) el Periódico Oficial del Estado.
