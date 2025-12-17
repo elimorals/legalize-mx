@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-social-para-los-servidores-publicos-del-23245"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-03"
-last_updated: "2024-04-05"
+last_updated: "2025-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "MEX"
 ---
 # LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-> <small>[N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS TRANSITORIOS SEGUNDO Y TERCERO DEL DECRETO NÚMERO 9 PUBLICADO EN LA G.G. DE 31 DE DICIEMBRE DE 2018, SE MANTIENE EN VIGOR EL PRESENTE ORDENAMIENTO, DERIVADO DE LA ABROGACIÓN DEL DECRETO NÚMERO 317 PUBLICADO EN LA G.G. EL 10 DE AGOSTO DE 2018.]</small>
+[NOTA 1: DE CONFORMIDAD CON LOS ARTÍCULOS TRANSITORIOS SEGUNDO Y TERCERO DEL DECRETO NÚMERO 9 PUBLICADO EN LA G.G. DE 31 DE DICIEMBRE DE 2018, SE MANTIENE EN VIGOR EL PRESENTE ORDENAMIENTO, DERIVADO DE LA ABROGACIÓN DEL DECRETO NÚMERO 317 PUBLICADO EN LA G.G. EL 10 DE AGOSTO DE 2018.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 3 de enero de 2002.
 
@@ -147,11 +149,17 @@ Las instituciones públicas deberán remitir al Instituto, en un plazo no mayor 
 
 Los derechohabientes y las Instituciones públicas están obligados a proporcionar al Instituto, los datos que les soliciten relacionados con la aplicación de esta ley.
 
+> <small>(REFORMADO, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTICULO 8.
 
-Los familiares o dependientes económicos del servidor público y del pensionado, para recibir las prestaciones señaladas, deberán registrarse ante el Instituto, y este, llevará el registro y control de vigencia de derechos, y sólo se negará el servicio cuando no se haya cumplido con el registro, excepto en casos de urgencia medica.
+Para recibir las prestaciones que conforme a esta Ley correspondan, los familiares o dependientes económicos del servidor público y pensionado, deberán afiliarse ante el Instituto para el control de la vigencia de derechos.
 
-La edad, las relaciones familiares, la dependencia económica y los demás requisitos que sean necesarios para acreditar los derechos, se comprobarán con arreglo a las disposiciones legales, administrativas o las que señalen el uso o la costumbre y a los estudios socioeconómicos que para tal efecto realice el Instituto.
+En caso de requerir atención médica sin haber cumplido con el requisito de afiliación, el Instituto se encontrará imposibilitado hasta en tanto se encuentren vigentes sus derechos; excepto en los casos de urgencia médica, para lo cual se atenderán conforme a las disposiciones aplicables.
+
+Los requisitos que sean necesarios para acreditar los derechos relativos a las prestaciones que correspondan conforme a esta ley, se comprobarán de conformidad con las disposiciones legales, reglamentarias y administrativas aplicables, así como los estudios socioeconómicos que para tal efecto realice el Instituto.
+
+Cuando el Instituto con motivo del ejercicio de sus atribuciones, determine que han cambiado las condiciones o requisitos, bajo los cuales se otorgó una afiliación a los derechohabientes; podrá suspender, modificar o revocar en cualquier momento la misma, previo otorgamiento de garantía de audiencia, de conformidad con las formalidades establecidas en las disposiciones legales aplicables.
 
 ###### ARTICULO 9.
 
@@ -267,45 +275,61 @@ El gobierno y la administración del Instituto estarán a cargo del Consejo Dire
 
 El Consejo Directivo estará integrado por:
 
-> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2025)</small>
 
-I. Una Presidencia, que estará a cargo de la persona titular de la Oficialía Mayor;
+I. Una Presidencia, que estará a cargo de la persona titular de la Dependencia a la que se encuentre sectorizado el Instituto.
 
-II. Doce vocales que serán:
+> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+II. Una Secretaría Técnica, que será la persona designada por el Consejo Directivo, a propuesta de la Presidencia.
 
-1. Una persona representante del Poder Legislativo, una del Poder Judicial, una representante de la Secretaría de Finanzas y una representante de la Secretaría de Salud.
+> <small>(REFORMADA [N. DE E. CON SUS NUMERALES], G.G. 17 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+III. Catorce vocales que serán:
 
-2. Una persona representante de los organismos auxiliares.
+1. Una persona representante del Poder Legislativo que será el o la presidenta de la Junta de Coordinación Política.
 
-> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+2. Una persona representante del Poder Judicial.
 
-3. Una persona representante de los ciento veinticinco municipios designada por insaculación.
+3. Una persona representante de la Secretaría de Finanzas.
 
-> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+4. Una persona representante de la Oficialía Mayor.
 
-4. Cinco personas representantes de los servidores públicos; dos designados por el Sindicato Único de Trabajadores de los Poderes, Municipios, e Instituciones Descentralizadas del Estado de México, y dos por el Sindicato de Maestros al Servicio del Estado de México, un representante de los sindicatos universitarios del Estado de México.
+5. Una persona representante de la Secretaría de Salud que será el o la Secretaria del ramo.
 
-> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+6. Una persona representante de los Organismos Auxiliares.
 
-5. Una persona representante de la agrupación mayoritaria de pensionados.
+7. Una persona representante de los 125 municipios que el Consejo designará por insaculación.
 
-> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+8. Cinco personas que representen a las personas servidoras públicas afiliadas a las asociaciones sindicales, de acuerdo a lo siguiente: dos del Sindicato Único de Trabajadores de los Poderes, Municipios, e Instituciones Descentralizadas del Estado de México (SUTEYM), que serán el o la Secretaria General y el o la Secretaria de Servicios Médicos o Prestaciones, dos designados por el Sindicato de Maestros al Servicio del Estado de México (SMSEM) y; un representante de los sindicatos universitarios que será el o la Secretaria General.
 
-III. Una comisaría, que estará a cargo de la persona representante de la Secretaría de la Contraloría, quien tendrá la obligación de practicar auditorias permanentes a las reservas financieras, del ISSEMYM y mantener informado de los resultados al Consejo.
+9. Dos personas representantes de la Unión de Pensionados y Pensionistas, A.C., preferentemente uno del Valle de Toluca y otro del Valle de México.
 
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN III, G.G. 5 DE ABRIL DE 2024]</small>
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2025)</small>
 
-La comisaría participará en las sesiones del Consejo sólo con voz. La persona titular de la Dirección General del Instituto participará únicamente con voz informativa.
+IV. Una Comisaría, que estará a cargo de la persona representante de la Secretaría de la Contraloría.
 
-Los vocales durarán en su encargo tres años, pudiendo ser ratificados o removidos libremente por quien los hubiere designado.
+> <small>(REFORMADO, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+La Comisaría participará en las sesiones del Consejo sólo con voz. La persona titular de la Dirección General del Instituto participará únicamente con voz informativa.
+
+> <small>(ADICIONADO, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+La Comisaría, tendrá la obligación de practicar auditorías permanentes a las reservas financieras del Instituto y mantener informado de los resultados al Consejo Directivo.
+
+> <small>(ADICIONADO, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+Será invitada permanente a las sesiones del Consejo Directivo, una persona representante de la Consejería Jurídica, la cual contará con voz, pero sin voto.
+
+> <small>(REFORMADO, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+Los vocales durarán en su cargo tres años, pudiendo ser ratificados o removidos libremente por quien los hubiera designado.
+
+> <small>(REFORMADO, G.G. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 17.
 
-Por cada miembro del Consejo Directivo se designará un suplente, con excepción del presidente.
+Por cada una de las personas integrantes del Consejo Directivo, se designará una persona suplente, propuesta por la persona propietaria y será aprobada por dicho Consejo, con excepción de la Presidencia y la Secretaría Técnica.
 
 ###### ARTICULO 18.
 
@@ -355,9 +379,11 @@ XVII. Adquirir y enajenar bienes muebles e inmuebles para el cumplimiento de sus
 
 XVIII. Las demás que le confieren esta ley y sus disposiciones reglamentarias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTICULO 21.
 
-El Director General del Instituto, será designado por el Gobernador del Estado, a propuesta de una terna presentada por el Consejo Directivo, debiendo ser profesionista con probada experiencia en administración pública, preferentemente con formación académica en administración pública y/o sistemas de salud, y tendrá las atribuciones siguientes:
+La persona titular de la Dirección General del Instituto, será designada por la persona Titular del Poder Ejecutivo del Estado, informando dicha designación al Consejo Directivo, debiendo cumplir con el requisito de ser profesionista de probada experiencia en administración pública, con formación académica comprobable, a través de título profesional o estudios de posgrado en la rama jurídica, económica, contable o administrativa, o bien en sistemas de salud o de seguridad social; quien tendrá las atribuciones siguientes:
 
 I. Ejecutar los acuerdos del Consejo Directivo e informarle oportunamente de su cumplimiento;
 
@@ -561,11 +587,13 @@ Las cuotas y aportaciones obligatoria tienen el carácter fiscal.
 
 El Instituto tiene atribuciones para determinar los créditos fiscales y las bases de su liquidación, así como para fijarlos en cantidad líquida, notificarlos y percibirlos de conformidad con la presente ley.
 
-> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO, G.G. 17 DE DICIEMBRE DE 2025)</small>
 
-El cobro de créditos fiscales a favor del Instituto, se aplicará a través de la Secretaría de Finanzas, en términos de lo que señala el Código de Procedimientos Administrativos del Estado de México.
+El cobro de créditos fiscales a favor del Instituto se aplicará a través de la Secretaría de Finanzas, en términos del Código Financiero del Estado de México y Municipios.
 
-Los créditos fiscales a cargo de las instituciones públicas se actualizarán con los recargos y sanciones que establece el Código Financiero del Estado de México y Municipios.
+> <small>(REFORMADO, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+Los créditos fiscales a cargo de las instituciones públicas se actualizarán por el transcurso del tiempo, adicionalmente se causarán los recargos y multas correspondientes, conforme a las disposiciones establecidas en el Código Financiero del Estado de México y Municipios, y en la Ley de Ingresos del Estado de México del Ejercicio Fiscal correspondiente.
 
 ###### ARTICULO 37.
 
@@ -871,17 +899,25 @@ Los pensionados y pensionistas tendrán derecho al pago de una gratificación an
 
 Una tercera parte de esta gratificación se cubrirá en forma previa al primer período vacacional anual de los servidores públicos en activo y las dos terceras partes restantes, simultáneamente cuando se efectúe el pago a los servidores públicos en activo.
 
+> <small>(REFORMADO, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTICULO 72.
 
-En todo momento, el servidor público podrá solicitar al Instituto, el cálculo del monto estimado de su pensión del sistema solidario de reparto, contando el Instituto con un plazo de treinta días para dar respuesta.
+En cualquier momento, las personas servidoras públicas podrán consultar en la plataforma digital que para tal efecto habilite el Instituto, los periodos cotizados del sistema solidario de reparto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 73.
 
-El Instituto resolverá respecto al otorgamiento de una pensión del sistema solidario de reparto en un plazo de treinta días contados a partir de la fecha en que reciba la solicitud con la documentación correspondiente.
+El Instituto resolverá el otorgamiento de una pensión del sistema solidario de reparto, a través de la emisión del dictamen correspondiente, en un plazo de treinta días hábiles contados a partir de la fecha en que se reciba la solicitud, con excepción de los trámites de pensión que impliquen la verificación de los años cotizados al Instituto, y demás requisitos, de conformidad con las disposiciones legales aplicables.
 
-Si en el término señalado no se ha otorgado la pensión, el Instituto queda obligado a efectuar el pago de la pensión probable que se determine, sin perjuicio de continuar el trámite para el otorgamiento de la pensión definitiva.
+> <small>(REFORMADO, G.G. 17 DE DICIEMBRE DE 2025)</small>
 
-Cuando el Instituto hubiese realizado un pago indebido a causa de alguna omisión o error, la persona que recibió el pago indebido deberá devolverlo o podrá convenir la forma de restituirlo. Cuando el pago indebido sea ocasionado por información proporcionada por la institución pública, el Instituto se resarcirá con cargo al presupuesto de la misma.
+Una vez emitido el dictamen de pensión a que hace referencia el párrafo anterior, el Instituto procederá a programar el pago, siempre y cuando se haya recibido la aceptación expresa y la baja correspondiente al servicio público, y demás requisitos aplicables.
+
+> <small>(REFORMADO, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+En el caso en que el Instituto haya realizado un pago indebido, la persona que lo haya recibido, estará obligada a reintegrarlo dentro del plazo de diez días contados a partir del requerimiento efectuado o bien podrá convenir con el Instituto la forma de devolverlo. Cuando el pago indebido sea ocasionado por información que la institución pública haya proporcionado, el Instituto lo restituirá con cargo al presupuesto de dicha Institución.
 
 El órgano competente del Poder Legislativo, o en su caso de la institución pública proporcionará al Instituto y a los servidores públicos la información que requieran para llevar a cabo los trámites para el otorgamiento de las pensiones correspondientes.
 
@@ -2086,3 +2122,45 @@ DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la A
 DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
 
 DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
+
+G.G. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 240.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS Y OTROS ORDENAMIENTOS".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el 01 de enero de 2026.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por este Decreto.
+
+CUARTO. A efecto de respetar el principio de proporcionalidad tributaria establecido en el artículo 31 fracción IV de la Constitución Política de los Estados Unidos Mexicanos, aplicable a la determinación del Impuesto sobre Adquisición de Inmuebles y Otras Operaciones Traslativas de Dominio de Inmuebles, generado durante los Ejercicios Fiscales de 2021, 2022, 2023 y 2024, que no se haya declarado en el plazo legal establecido en el artículo 116 del Código Financiero del Estado de México y Municipios; la autoridad fiscal, para efectos de su cobro, aplicará la tarifa prevista en el artículo 115 del mismo Código, vigente para el Ejercicio Fiscal 2025. Lo anterior, siempre y cuando, no hayan caducado sus facultades para determinar dichos créditos fiscales, de conformidad con lo dispuesto por el artículo 53 del citado Código.
+
+QUINTO. Lo previsto en los ARTÍCULOS TERCERO Y CUARTO entrará en vigor con este Decreto, exceptuándose su aplicación, tratándose de conjuntos urbanos, condominios o proyectos habitacionales respecto de los cuales hayan celebrado convenios o instrumentos de coordinación en los que el Estado y los Municipios intervengan, en cuyo caso se aplicará a partir de la fecha de la suscripción respectiva, sin que ello implique aplicación retroactiva ni afectación a derechos adquiridos, de conformidad con la normativa aplicable.
+
+Se contará con un plazo de ciento veinte días hábiles a partir de la entrada en vigor de los ARTÍCULOS TERCERO Y CUARTO del presente Decreto, para que se emitan y/o adecuen las disposiciones administrativas aplicables, en el entendido, que para aquellos actos jurídicos derivados de convenios o instrumentos de coordinación ya celebrados en los que el Estado y los Municipios intervengan, se aplicarán las disposiciones de los Artículos referidos.
+
+Los Ayuntamientos en los términos de los convenios o instrumentos de coordinación que celebren, deberán realizar las modificaciones necesarias para considerar la reducción o exención del cumplimiento a los conjuntos urbanos, condominios o proyectos habitacionales de los siguientes requisitos:
+
+1. Del número mínimo de cajones de estacionamiento.
+
+2. Establecer unidades habitacionales con superficie mínima de 60 metros cuadrados.
+
+3. Áreas de desplante no mayores al 60% de la superficie total del predio.
+
+4. Edificaciones de hasta 4 niveles y la incorporación de usos mixtos en las plantas bajas.
+
+Siempre y cuando, no se comprometa o generen riesgos o afectaciones en materia de protección civil o movilidad, de conformidad con la normativa aplicable.
+
+Las Dependencias e instancias competentes, establecerán los lineamientos generales necesarios para la ejecución en el Estado de los Programas de Vivienda Social Gubernamental, en su caso.
+
+La Consejería Jurídica establecerá los lineamientos para la participación de las personas notarias públicas del Estado de México en el desarrollo de Programas de Vivienda Social Gubernamental, para que, de forma gratuita, realicen los procedimientos de escrituración y regularización de los inmuebles previstos en el presente Artículo, debiendo determinar de forma equitativa y regionalizada la asignación de dichos procedimientos.
+
+SEXTO. La Consejería Jurídica, el Instituto de la Función Registral del Estado de México, la Secretaría de Finanzas y los Municipios, en el ámbito de sus respectivas competencias y según corresponda, proveerán lo necesario para dar cumplimiento a lo previsto en el ARTÍCULO SEXTO del presente Decreto de acuerdo con lo señalado en las Reglas de Operación que al efecto se emitan.
+
+Respecto de las operaciones de regularización previstas en los Programas establecidos en el ARTÍCULO SEXTO de este Decreto, no se causará el pago del Impuesto sobre Adquisición de Inmuebles y otras Operaciones Traslativas de Dominio de Inmuebles previsto en la Sección Segunda del Capítulo Primero del Título Cuarto del Código Financiero del Estado de México y Municipios, ni el pago de derechos previstos en los artículos 73 fracciones I, II y III, 95, 100, 101 y 102 de dicho Código, así como aquellos que se generen por la actualización de certificaciones previstas en el cuarto párrafo del artículo 116 del Código citado, pudiéndose presentar dichas certificaciones vigentes al momento de la operación pendiente de inscribir o, en su caso, sólo se presentarán las que se determinen en los Programas respectivos, a efecto de poder beneficiar y apoyar a la población a la que van dirigidos.
+
+El Instituto Hacendario del Estado de México, en coordinación con la Consejería Jurídica, llevará a cabo acciones de capacitación y asesoría orientadas a promover el cumplimiento y adecuada implementación de los Programas de regularización a que se refiere el ARTÍCULO SEXTO del presente Decreto.
+
+En caso de que las autoridades municipales actúen en contravención a lo establecido en el ARTÍCULO SEXTO del presente Decreto u obstaculicen la ejecución de los Programas previstos en dicho artículo, la Consejería Jurídica podrá hacerlo del conocimiento de los órganos internos de control municipales o de la Contraloría del Poder Legislativo, según corresponda, para los efectos administrativos que resulten procedentes.
+
+SÉPTIMO. Se deja sin efectos lo dispuesto en el ARTÍCULO QUINTO del Decreto Número 225, publicado en el Periódico Oficial “Gaceta del Gobierno”, el 28 de diciembre de 2023, a partir de la entrada en vigor del presente Decreto.
