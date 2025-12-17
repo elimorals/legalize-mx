@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-prevenir-combatir-y-eliminar-actos-de-53772"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-17"
-last_updated: "2024-05-21"
+last_updated: "2025-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA PREVENIR, COMBATIR Y ELIMINAR ACTOS DE DISCRIMINACIÓN EN EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 17 de enero de 2007.
 
@@ -264,6 +264,18 @@ VIII. Para fomentar la igualdad y la no discriminación en el ejercicio del serv
 a) Programas permanentes de capacitación, actualización y especialización para los servidores públicos, estatales y municipales.
 
 b) Acciones tendentes para difundir dichos programas.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+IX. Para fomentar la igualdad y no discriminación a las personas con VIH:
+
+a) Garantizar el ejercicio pleno de sus derechos;
+
+b) Garantizar igualdad de oportunidad laboral;
+
+c) Brindar un trato respetuoso, integral y cordial; y
+
+d) Garantizar su derecho a la protección de la salud libre de estigmas y discriminación.
 
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO EN MATERIA DE PREVENCIÓN Y ELIMINACIÓN DE TODAS LAS FORMAS DE DISCRIMINACIÓN
 
@@ -610,3 +622,11 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan todas las disposiciones de menor o igual jerarquía que contravengan lo dispuesto por el presente decreto.
+
+G.G. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 254.- POR EL QUE SE ADICIONA EL SEGUNDO PÁRRAFO AL ARTÍCULO 1.6, LAS FRACCIONES XIX BIS Y XX BIS AL ARTÍCULO 2.16, Y LAS FRACCIONES XII BIS, XII TER Y XII QUATER AL ARTÍCULO 2.21 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO; SE REFORMA EL ARTÍCULO 86 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO; Y SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 9 DE LA LEY PARA PREVENIR, COMBATIR Y ELIMINAR ACTOS DE DISCRIMINACIÓN EN EL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
