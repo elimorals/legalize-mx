@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-843-del-sistema-estatal-de-seguridad-publica-148081"
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-01"
-last_updated: "2021-03-01"
+last_updated: "2025-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 843 DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 489 DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 17 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY NÚMERO 843 DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE DICIEMBRE DE 2025 (ABROGADO).
 
 Ley publicada en el Extraordinario 84 de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 1 de marzo de 2021.
 
@@ -4074,3 +4076,29 @@ Cuitláhuac García Jiménez
 Gobernador del Estado
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 489 DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Se abroga la Ley del Sistema Estatal de Seguridad Pública para el Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave el primero de marzo de dos mil veintiuno, así como todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo establecido en esta Ley.
+
+TERCERO. El Poder Ejecutivo del Estado, por conducto de la Secretaría de Seguridad Pública, deberá expedir dentro de los 120 días naturales siguientes a la entrada en vigor de esta Ley, las disposiciones reglamentarias necesarias para su debida aplicación.
+
+CUARTO. Los órganos, unidades administrativas e instancias creadas en la Ley anterior continuarán en funciones hasta tanto se expidan las nuevas disposiciones y se instalen formalmente las previstas en esta Ley.
+
+QUINTO. El Consejo Estatal de Seguridad Pública y la Secretaría Ejecutiva del Sistema y del Consejo Estatal de Seguridad Pública deberán adecuar su estructura y funcionamiento a lo previsto en la presente Ley, en un plazo no mayor de 90 días naturales contados a partir de su entrada en vigor.
+
+SEXTO. Los procesos de reclutamiento, selección, formación, evaluación, certificación, permanencia y régimen disciplinario iniciados antes de la entrada en vigor de esta Ley, continuarán tramitándose conforme a las disposiciones vigentes al momento de su inicio, hasta su conclusión.
+
+SÉPTIMO. Los convenios de coordinación, colaboración o concertación celebrados por el Estado o los Municipios con la Federación o con otras entidades federativas, permanecerán vigentes hasta en tanto no sean modificados o sustituidos en términos de la presente Ley.
+
+OCTAVO. Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor de la presente Ley se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento.
+
+NOVENO. El Poder Ejecutivo del Estado y los Ayuntamientos deberán implementar las acciones necesarias para garantizar la armonización de reglamentos municipales y demás disposiciones locales con la presente Ley, en un plazo no mayor de un año contado a partir de su entrada en vigor.
+
+DÉCIMO. Todas las referencias normativas hechas en leyes, reglamentos, decretos, acuerdos, circulares o disposiciones administrativas a la Ley del Sistema Estatal de Seguridad Pública de primero de marzo de dos mil veintiuno, se entenderán hechas a la presente Ley.
