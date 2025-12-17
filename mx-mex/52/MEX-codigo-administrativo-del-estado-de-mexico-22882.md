@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2025-09-30"
+last_updated: "2025-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE DICIEMBRE DE 2025.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -156,6 +156,10 @@ XII. Las demás que establezcan este Código y otras disposiciones aplicables.
 ###### Artículo 1.
 
 6.- Al ejercer las atribuciones previstas en este Código, las autoridades estatales y municipales deberán aplicar los principios de legalidad, igualdad, imparcialidad, buena fe, veracidad, honradez, respeto, audiencia, publicidad, economía, información, transparencia, jerarquía, desconcentración, descentralización, desregulación, previsión, coordinación, cooperación, eficacia y eficiencia, y abstenerse de comportamientos que impliquen vías de hecho contrarias a las finalidades de las materias reguladas en este ordenamiento.
+
+> <small>(ADICIONADO, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+El ejercicio de sus atribuciones será bajo un enfoque de transversalidad y no discriminación.
 
 ## TITULO TERCERO. Del acto administrativo
 
@@ -1321,9 +1325,17 @@ XVIII. Atención médica a las personas que padezcan obesidad mórbida a través
 
 XIX. Atención médica a las personas que padezcan diabetes, así como brindar de manera permanente el tratamiento requerido de conformidad con las disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+XIX Bis. Atención médica a las personas que padezcan enfermedades de transmisión sexual y personas con VIH;
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 21 DE JUNIO DE 2022)</small>
 
 XX. Detección, prevención, tratamiento y seguimiento del cáncer de mama y en su caso la mastectomía y mamoplastia reconstructiva, incluidas prótesis de calidad, atención médica y psicológica integral durante todo el proceso, y
+
+> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+XX Bis. Detección y tratamiento de enfermedades de transmisión sexual y personas con VIH;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE DICIEMBRE DE 2023)</small>
 
@@ -1402,6 +1414,18 @@ XI. Diseñar e implementar políticas públicas que promuevan la prevención, el
 > <small>(ADICIONADA, G.G. 1 DE DICIEMBRE DE 2023)</small>
 
 XII. Diseñar e implementar políticas públicas que atiendan la salud, el bienestar, el ejercicio de la sexualidad y los proyectos individuales de vida, trabajo y convivencia de niñas, adolescentes, mujeres y personas menstruantes, mediante las cuales se les respeten todos sus derechos humanos y no sufran discriminación, desigualdad ni violencia.
+
+> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+XII Bis. Garantizar el acceso universal y gratuito para la prevención y tratamiento de enfermedades, para la población no derechohabiente de la Entidad, con énfasis en los grupos de atención prioritaria;
+
+> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+XII Ter. Promover los derechos sexuales y de salud reproductiva entre la población, así como las obligaciones del personal de salud;
+
+> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+XII Quater. Impulsar campañas permanentes de seguimiento continuo en favor de la no discriminación;
 
 > <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2025)</small>
 
@@ -4133,6 +4157,12 @@ XXXIX. Polígono de Redensificación Urbana: Es una superficie de uso urbano sub
 
 XXXIX Bis. Rehabilitación: A la transformación de espacios públicos urbanos, caracterizados por ser lugares inseguros, focos de contaminación, basureros, centros de comercio informal, en espacios públicos de convivencia social;
 
+> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+XXXIX Ter. Programa de Vivienda Social Gubernamental: Al instrumento Público mediante el cual las instancias gubernamentales establecen acciones, actividades y asignan los recursos necesarios para garantizar el derecho humano a una vivienda adecuada para personas en condición de vulnerabilidad social, mediante el desarrollo de proyectos habitacionales.
+
+Los programas de vivienda social pueden ser de índole federal y estatal.
+
 XL. Relotificación: Al acto por el cual a dos o más lotes o áreas privativas, según corresponda, se le modifican las dimensiones o las ubicaciones originalmente establecidas en la autorización del conjunto urbano, subdivisión o condominio, sin que se incremente el área vendible ni el número de viviendas o lotes.
 
 XLI. Reservas: A las áreas urbanizables previstas en los planes de desarrollo urbano para el crecimiento de un centro de población.
@@ -5583,7 +5613,33 @@ Los fedatarios públicos no podrán dar fe ni intervenir en ese tipo de operacio
 
 Tratándose de la constitución, ampliación y delimitación de la zona de urbanización ejidal y su reserva de crecimiento, así como de la regularización de la tenencia de predios que cuenten con asentamientos humanos irregulares, la asamblea ejidal o de comuneros deberá ajustarse a lo establecido en este Libro, su reglamento y los planes municipales de desarrollo urbano, así como en lo previsto por las normas oficiales mexicanas aplicables en la materia. En estos casos se requerirá la intervención de los municipios respectivos.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+#### SECCIÓN NOVENA. De la Excepción de los Instrumentos Estatales de Control del Desarrollo Urbano
+
+> <small>(ADICIONADO, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 5.
+
+53 Bis.- Los desarrollos habitacionales que se inicien, o conjuntos urbanos o condominios que se incorporen de manera total o parcial a un Programa de Vivienda Social Gubernamental, estarán sujetos a las normas particulares siguientes:
+
+I. Los desarrollos habitacionales que se inicien al amparo de un Programa de Vivienda Social Gubernamental, se exceptuarán del cumplimiento de las autorizaciones correspondientes y de las respectivas obligaciones administrativas de conjuntos urbanos y condominios, siempre que tal situación se encuentre establecida en los convenios o instrumentos de coordinación en los que el Estado sea parte.
+
+II. Los conjuntos urbanos y condominios que se incorporen de manera total o parcial, a un Programa de Vivienda Social Gubernamental, estarán exentos del cumplimiento de las autorizaciones correspondientes y de las respectivas obligaciones administrativas, en la proporción correspondiente del área que se integre al Programa.
+
+III. En caso de no existir un convenio o instrumento de coordinación que determine las excepciones, los proyectos estarán exentos de la autorización, tratándose de desarrollos habitacionales iniciales, y de dar cumplimiento a las autorizaciones y sus respectivas obligaciones administrativas en la parte proporcional, en los casos de conjuntos urbanos y condominios que se incorporen a un Programa de Vivienda Social Gubernamental; siempre y cuando, en ambos casos, los proyectos se localicen en la zona que defina la instancia gubernamental encargada de su desarrollo.
+
+> <small>(ADICIONADO, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 5.
+
+53 Ter.- Los proyectos provenientes de un Programa de Vivienda Social Gubernamental, que conforme a las disposiciones previstas en este Libro, no requieran la emisión de la autorización de conjunto urbano o de condominio, únicamente requerirán la presentación de los planos de lotificación que amparen el inicio, ejecución y conclusión del desarrollo habitacional, para efectos de protocolización e inscripción ante el Instituto de la Función Registral del Estado de México y demás trámites administrativos.
+
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPÍTULO SEGUNDO. De los Instrumentos Municipales de Control del Desarrollo Urbano
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 #### SECCIÓN PRIMERA. De la Cédula Informativa de Zonificación
 
@@ -5599,19 +5655,15 @@ Para su obtención, los interesados deberán incluir en la solicitud respectiva,
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
+#### SECCIÓN SEGUNDA. De la Licencia de Uso del Suelo
+
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
+
 ###### Artículo 5.
 
 55.- El uso y aprovechamiento con fines urbanos o la edificación en cualquier predio ubicado en la entidad, requerirá licencia de uso del suelo de conformidad con lo dispuesto en este Libro y su Reglamento.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-### CAPÍTULO SEGUNDO. De los Instrumentos Municipales de Control del Desarrollo Urbano
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-#### SECCIÓN SEGUNDA. De la Licencia de Uso del Suelo
-
-> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
@@ -5661,11 +5713,31 @@ IV. Tratándose de cambios a usos del suelo de impacto urbano, se requerirá de 
 
 Cuando se trate de cambios a usos de suelo de impacto urbano, los municipios deberán remitir mensualmente de manera física o electrónica al sistema estatal, copia certificada signada con firma autógrafa, electrónica avanzada o sello electrónico en su caso, de las autorizaciones de cambio de uso del suelo, de densidad, de los coeficientes de ocupación y utilización del suelo y de altura de edificaciones que hayan expedido.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 10 DE ENERO DE 2018)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+#### SECCIÓN CUARTA. De la Excepción de los Instrumentos Municipales de Control del Desarrollo Urbano
+
+> <small>(ADICIONADO, G.G. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 5.
 
-57 Bis.- En materia de resiliencia urbana, se observará lo siguiente:
+57 Bis.- Los desarrollos habitacionales que se inicien, o conjuntos urbanos o condominios que se incorporen de manera total o parcial a un Programa de Vivienda Social Gubernamental, estarán sujetos a las normas particulares siguientes:
+
+I. Los desarrollos habitacionales que se inicien al amparo de un Programa de Vivienda Social Gubernamental, quedarán exceptuados de obtener Licencias de Uso del Suelo, Cambios de Uso del Suelo y Cédulas Informativas de Zonificación, siempre que se encuentre previamente establecido en los convenios o instrumentos de coordinación en los que el Estado sea parte.
+
+II. Los conjuntos urbanos y condominios que se incorporen a un Programa de Vivienda Social Gubernamental de manera parcial o total, estarán exentos del cumplimiento de las autorizaciones correspondientes y de las respectivas obligaciones administrativas, en la proporción correspondiente al área que se integre al Programa.
+
+III. En caso de no existir un convenio o instrumento de coordinación que determine las excepciones, los desarrollos habitacionales y conjuntos urbanos y condominios, estarán exentos de obtener autorizaciones y en su caso dar cumplimiento a las obligaciones administrativas en la parte proporcional que incorporen al programa, siempre y cuando los mismos se localicen en la zona que defina la instancia gubernamental encargada de su desarrollo.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 10 DE ENERO DE 2018)</small>
+
+### CAPÍTULO TERCERO. De la Resiliencia Urbana
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 5.57 BIS], G.G. 17 DE DICIEMBRE DE 2025)
+
+###### Artículo 5.
+
+57 Bis A.- En materia de resiliencia urbana, se observará lo siguiente:
 
 I. Los planes de desarrollo urbano que integran el sistema estatal de planeación urbana, identificarán las zonas de riesgos para el asentamiento humano y, establecerán las regulaciones a que estarán sujetas.
 
@@ -5681,9 +5753,9 @@ VI. Las autoridades estatales y municipales, en el ámbito de sus respectivas at
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 10 DE ENERO DE 2018)</small>
 
-#### SECCION PRIMERA. Del otorgamiento de las concesiones y permisos
+### CAPÍTULO CUARTO. De la Movilidad Urbana
 
-> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
@@ -5703,19 +5775,19 @@ VI. Las demás acciones en la materia, que resulten acordes a las característic
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-#### SECCION SEGUNDA. De las obligaciones de los concesionarios y permisionarios
+## TÍTULO CUARTO. Del Sistema Estatal de Información del Desarrollo Urbano
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPÍTULO ÚNICO. Del Sistema Estatal
+
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 5.
 
 58.- La Secretaría establecerá y mantendrá actualizado el Sistema Estatal, el cual tendrá por objeto recabar, organizar, generar y aplicar en los procesos de planeación, regulación, control y evaluación del desarrollo urbano, la información relativa a los asentamientos humanos y el desarrollo urbano de los centros de población en el territorio estatal.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-### CAPÍTULO TERCERO. De la Resiliencia Urbana
-
-> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
@@ -5745,21 +5817,17 @@ La organización, funcionamiento y consulta del Sistema Estatal se determinará 
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPÍTULO CUARTO. De la Movilidad Urbana
-
-> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2018)</small>
-
 ###### Artículo 5.
 
 60.- Las autoridades estatales y municipales en materia de desarrollo urbano, deberán remitir de manera mensual al Sistema Estatal, la información y documentación certificada de las autorizaciones que generen en el ámbito de su competencia y que conforme al artículo anterior deban integrarse a dicho sistema.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-## TÍTULO CUARTO. Del Sistema Estatal de Información del Desarrollo Urbano
+## TÍTULO QUINTO. De las Medidas de Seguridad, Infracciones y Sanciones
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPÍTULO ÚNICO. Del Sistema Estatal
+### CAPÍTULO PRIMERO. De las Medidas de Seguridad
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -5786,6 +5854,10 @@ IV. Cualquiera otra acción o medida que tienda a garantizar el orden legal y el
 Las autoridades de desarrollo urbano para hacer cumplir las medidas de seguridad que determinen, podrán requerir la intervención de la fuerza pública y la participación de las autoridades administrativas que sean necesarias.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPÍTULO SEGUNDO. De las Infracciones y Sanciones
+
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 5.
 
@@ -5815,14 +5887,6 @@ Las autoridades estatales y municipales en materia de desarrollo urbano podrán 
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-## TÍTULO QUINTO. De las Medidas de Seguridad, Infracciones y Sanciones
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-### CAPÍTULO PRIMERO. De las Medidas de Seguridad
-
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
 ###### Artículo 5.
 
 64.- Las sanciones se impondrán sin perjuicio de la responsabilidad civil o penal que pudieran resultar por los hechos o actos constitutivos de la infracción.
@@ -5834,54 +5898,6 @@ La demolición parcial o total que ordene la autoridad competente será ejecutad
 Atendiendo a la naturaleza de la sanción, y una vez que se acredite su cumplimiento, la Secretaría o el Municipio, en los casos que proceda, dictarán lo conducente.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE JUNIO DE 2022)</small>
-
-###### Artículo 5.
-
-69.- La explotación de bancos de materiales para la construcción se sujetará a las normas básicas siguientes:
-
-I. La explotación sólo podrá efectuarse en áreas urbanizables no programadas y en áreas no urbanizables;
-
-II. No deberá alterar o dañar los elementos naturales del área de influencia, ni tampoco la infraestructura existente en su entorno;
-
-III. Contará con acceso a carreteras federales, estatales o municipales;
-
-IV. Se ejecutará a cielo abierto en ladera, prohibiéndose efectuarla en forma de túneles o galerías. La inclinación de los taludes deberá corresponder al ángulo de reposo natural del material que se explote y sus condiciones de saturación de humedad;
-
-V. Se dejará libre de explotación una franja no menor de veinte metros de ancho en todo el perímetro de las colindancias del predio o mayor según fueren las características del material. Cuando en el predio o en alguno de sus linderos se encontrara una zona de restricción federal o estatal, la franja se contará a partir del límite de dicha zona o del correspondiente derecho de vía;
-
-VI. Se rehabilitará el terreno laboreado para su aprovechamiento posterior sin riesgo de derrumbes o daños a terceros.
-
-### CAPÍTULO SEGUNDO. De las Infracciones y Sanciones
-
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-###### Artículo 5.
-
-70.- A la solicitud de autorización de explotación de bancos de materiales para la construcción, se acompañará:
-
-I. Dictamen favorable de impacto regional, que emita la Secretaría de Desarrollo Urbano y Obras Públicas;
-
-II. Título que acredite la propiedad, inscrito en el Registro Público de la Propiedad o carta de aceptación del comisariado ejidal o de bienes comunales, tratándose de predios sujetos a régimen ejidal o comunal, respectivamente;
-
-III. En su caso, el título de la concesión pública o el contrato privado que permitan al solicitante llevar a cabo la explotación;
-
-IV. Proyecto de explotación, procedimiento para la ejecución de las faenas mismas y, en su caso, programa de obras de rehabilitación del suelo, los cuales requerirán de la responsiva de perito inscrito en el Registro Estatal de Desarrollo Urbano.
-
-###### Artículo 5.
-
-71.- La Secretaría de Desarrollo Urbano y Obras Públicas establecerá y operará el Registro Estatal de Desarrollo Urbano, que incluirá al menos las secciones relativas a:
-
-I. Planes de desarrollo urbano y sus programas;
-
-II. Peritos;
-
-III. Explotación de bancos de materiales para la construcción;
-
-IV. Conjuntos urbanos, fusiones y subdivisiones de predios, lotificaciones para condominios y las relotificaciones correspondientes;
-
-V. Apertura, prolongación o ampliación de vías públicas.
-
-La reglamentación de este Libro regulará la integración, organización y funcionamiento del registro.
 
 # LIBRO SEXTO. De la Protección Civil y Gestión Integral del Riesgo
 
@@ -7445,9 +7461,9 @@ VIII. Las demás señaladas por otros ordenamientos jurídicos aplicables.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-#### SECCION TERCERA. De los derechos de los concesionarios y permisionarios
+#### SECCION PRIMERA. Del otorgamiento de las concesiones y permisos
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7.
 
@@ -7639,9 +7655,9 @@ En el caso del Servicio Público Auxiliar de Guarda, Custodia y Depósito de Veh
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-#### SECCIÓN CUARTA. De los prestadores de servicios electrónicos y proveedores privados de transporte
+#### SECCION SEGUNDA. De las obligaciones de los concesionarios y permisionarios
 
-> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7.
 
@@ -7731,7 +7747,7 @@ IX. Las demás que establezcan otras disposiciones legales y administrativas.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-#### SECCION PRIMERA. De los equipos de salvamento y arrastre
+#### SECCION TERCERA. De los derechos de los concesionarios y permisionarios
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -7763,9 +7779,9 @@ III. Los demás que le otorguen otras disposiciones jurídicas.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 12 DE AGOSTO DE 2015)</small>
 
-#### SECCION SEGUNDA. De la prestación del servicio
+#### SECCIÓN CUARTA. De los prestadores de servicios electrónicos y proveedores privados de transporte
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 7.
 
@@ -7817,7 +7833,7 @@ No será limitado el número de unidades mínimo o máximo, ni se impondrán req
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-#### SECCION PRIMERA. Condiciones del servicio
+#### SECCION PRIMERA. De los equipos de salvamento y arrastre
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -7851,7 +7867,7 @@ Las unidades deben contar con una placa legible e indeleble de 0.15 m por 0.20 m
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-#### SECCION SEGUNDA. De los lugares de depósito
+#### SECCION SEGUNDA. De la prestación del servicio
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -7905,7 +7921,7 @@ La Secretaría de Movilidad elaborará y comunicará a los permisionarios, los f
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-#### SECCION TERCERA. De la recepción de los vehículos
+#### SECCION PRIMERA. Condiciones del servicio
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -7925,7 +7941,7 @@ En los lugares, en los que no se cuente con establecimientos autorizados para pr
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON EL ARTÍCULO QUE LA INTEGRA, G.G. 24 DE AGOSTO DE 2012)</small>
 
-#### SECCION CUARTA. De la custodia, conservación y devolución de los vehículos
+#### SECCION SEGUNDA. De los lugares de depósito
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -7953,9 +7969,9 @@ VII. Las demás previstas en la Norma Técnica respectiva y demás disposiciones
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-#### SECCION PRIMERA. Consideraciones Generales
+#### SECCION TERCERA. De la recepción de los vehículos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7.
 
@@ -8019,9 +8035,9 @@ La Secretaría de Movilidad elaborará y comunicará a los concesionarios, forma
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-#### SECCIÓN SEGUNDA. De la declaración de abandono, enajenación y reciclaje de vehículos
+#### SECCION CUARTA. De la custodia, conservación y devolución de los vehículos
 
-> <small>(REFORMADO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7.
 
@@ -8057,9 +8073,9 @@ De no lograrse la conciliación, la Secretaría de Movilidad emitirá la resoluc
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-#### SECCION PRIMERA. De las facultades de la Secretaría del Campo
+#### SECCION PRIMERA. Consideraciones Generales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 7.
 
@@ -8079,9 +8095,9 @@ Los vehículos, tráileres, autobuses y cualquier tipo de remolques a que se ref
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 19 DE NOVIEMBRE DE 2015)</small>
 
-#### SECCION SEGUNDA. Del Instituto de Investigación y Capacitación Agropecuaria, Acuícola y Forestal del Estado de México
+#### SECCIÓN SEGUNDA. De la declaración de abandono, enajenación y reciclaje de vehículos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 7.
 
@@ -9129,7 +9145,9 @@ VIII. La certificación en la calidad, inocuidad y producción orgánica de los 
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-#### SECCION PRIMERA. Del Consejo Consultivo Económico Estatal
+#### SECCION PRIMERA. De las facultades de la Secretaría del Campo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 9.
 
@@ -9159,7 +9177,9 @@ VI. (DEROGADA, G.G. 2 DE JUNIO DE 2023)
 
 VII. La integración de un directorio de profesionistas individuales o asociados para facilitar a los productores la contratación de los servicios técnicos y de asesoría que requieran.
 
-#### SECCION SEGUNDA. De los consejos consultivos económicos regionales y municipales
+#### SECCION SEGUNDA. Del Instituto de Investigación y Capacitación Agropecuaria, Acuícola y Forestal del Estado de México
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE JUNIO DE 2016)</small>
 
 ###### Artículo 9.
 
@@ -9499,9 +9519,7 @@ IX. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-#### SECCION PRIMERA. Disposiciones generales
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+#### SECCION PRIMERA. Del Consejo Consultivo Económico Estatal
 
 ###### Artículo 10.
 
@@ -9517,9 +9535,7 @@ IX. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-#### SECCION SEGUNDA. De la licitación pública
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+#### SECCION SEGUNDA. De los consejos consultivos económicos regionales y municipales
 
 ###### Artículo 10.
 
@@ -10205,7 +10221,7 @@ IV. Las demás que establezca el Reglamento respectivo.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-#### SECCION TERCERA. De las excepciones a la licitación pública
+#### SECCION PRIMERA. Disposiciones generales
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -10225,7 +10241,7 @@ II. Adjudicación directa.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-#### SECCION CUARTA. De la invitación restringida
+#### SECCION SEGUNDA. De la licitación pública
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -10337,7 +10353,7 @@ Lo dispuesto en este artículo será aplicable para los procedimientos de invita
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-#### SECCION QUINTA. De la adjudicación directa
+#### SECCION TERCERA. De las excepciones a la licitación pública
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -10357,7 +10373,9 @@ El procedimiento de invitación restringida se desarrollará en los términos de
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-#### SECCION PRIMERA. Disposiciones generales
+#### SECCION CUARTA. De la invitación restringida
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 12.
 
@@ -10381,7 +10399,9 @@ II. Las obras o servicios a contratar, no rebasen los montos establecidos por el
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-#### SECCION SEGUNDA. De la licitación pública
+#### SECCION QUINTA. De la adjudicación directa
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 12.
 
@@ -11019,7 +11039,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-#### SECCION TERCERA. De las excepciones a la licitación pública
+#### SECCION PRIMERA. Disposiciones generales
 
 ###### Artículo 13.
 
@@ -11031,7 +11051,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-#### SECCION CUARTA. De la invitación restringida
+#### SECCION SEGUNDA. De la licitación pública
 
 ###### Artículo 13.
 
@@ -11079,7 +11099,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-#### SECCION QUINTA. De la adjudicación directa
+#### SECCION TERCERA. De las excepciones a la licitación pública
 
 ###### Artículo 13.
 
@@ -11087,7 +11107,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-#### SECCIÓN SEXTA. De la Subasta Inversa Electrónica
+#### SECCION CUARTA. De la invitación restringida
 
 ###### Artículo 13.
 
@@ -11107,7 +11127,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-#### SECCION PRIMERA. De la subasta pública
+#### SECCION QUINTA. De la adjudicación directa
 
 ###### Artículo 13.
 
@@ -11123,9 +11143,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-#### SECCION PRIMERA. Del comité consultivo estatal de normalización técnica de la construcción
-
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+#### SECCIÓN SEXTA. De la Subasta Inversa Electrónica
 
 ###### Artículo 13.
 
@@ -11153,9 +11171,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-#### SECCION SEGUNDA. De la expedición de las normas técnicas
-
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+#### SECCION PRIMERA. De la subasta pública
 
 ###### Artículo 13.
 
@@ -14467,6 +14483,10 @@ XI. Las demás que le confieran otras disposiciones legales.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
+#### SECCION PRIMERA. Del comité consultivo estatal de normalización técnica de la construcción
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 18.
 
 8.- La Secretaría instaurará el Comité Consultivo Estatal de Normalización Técnica de la Construcción, como órgano técnico de carácter interinstitucional que tendrá por objeto elaborar, revisar y actualizar las Normas Técnicas, con el fin de que las construcciones satisfagan condiciones de seguridad, habitabilidad, calidad, higiene, funcionalidad, sustentabilidad e integración al contexto e imagen urbana.
@@ -14542,6 +14562,10 @@ Las sesiones serán válidas con la asistencia de cuando menos tres cuartas part
 Los acuerdos del Comité deberán tomarse por consenso; de no ser esto posible, se tomarán por el voto de por lo menos la mitad más uno de los miembros presentes, en caso de empate, el Presidente contará con voto de calidad.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+#### SECCION SEGUNDA. De la expedición de las normas técnicas
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 18.
 
@@ -19362,3 +19386,53 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO. Las instancias competentes, en un periodo no mayor a 180 días hábiles contados a partir de la entrada en vigor de este Decreto, deberán actualizar los protocolos de atención a que hace referencia el presente Decreto para contemplar la intervención de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México.
+
+G.G. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 240.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS Y OTROS ORDENAMIENTOS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el 01 de enero de 2026.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por este Decreto.
+
+CUARTO. A efecto de respetar el principio de proporcionalidad tributaria establecido en el artículo 31 fracción IV de la Constitución Política de los Estados Unidos Mexicanos, aplicable a la determinación del Impuesto sobre Adquisición de Inmuebles y Otras Operaciones Traslativas de Dominio de Inmuebles, generado durante los Ejercicios Fiscales de 2021, 2022, 2023 y 2024, que no se haya declarado en el plazo legal establecido en el artículo 116 del Código Financiero del Estado de México y Municipios; la autoridad fiscal, para efectos de su cobro, aplicará la tarifa prevista en el artículo 115 del mismo Código, vigente para el Ejercicio Fiscal 2025. Lo anterior, siempre y cuando, no hayan caducado sus facultades para determinar dichos créditos fiscales, de conformidad con lo dispuesto por el artículo 53 del citado Código.
+
+QUINTO. Lo previsto en los ARTÍCULOS TERCERO Y CUARTO entrará en vigor con este Decreto, exceptuándose su aplicación, tratándose de conjuntos urbanos, condominios o proyectos habitacionales respecto de los cuales hayan celebrado convenios o instrumentos de coordinación en los que el Estado y los Municipios intervengan, en cuyo caso se aplicará a partir de la fecha de la suscripción respectiva, sin que ello implique aplicación retroactiva ni afectación a derechos adquiridos, de conformidad con la normativa aplicable.
+
+Se contará con un plazo de ciento veinte días hábiles a partir de la entrada en vigor de los ARTÍCULOS TERCERO Y CUARTO del presente Decreto, para que se emitan y/o adecuen las disposiciones administrativas aplicables, en el entendido, que para aquellos actos jurídicos derivados de convenios o instrumentos de coordinación ya celebrados en los que el Estado y los Municipios intervengan, se aplicarán las disposiciones de los Artículos referidos.
+
+Los Ayuntamientos en los términos de los convenios o instrumentos de coordinación que celebren, deberán realizar las modificaciones necesarias para considerar la reducción o exención del cumplimiento a los conjuntos urbanos, condominios o proyectos habitacionales de los siguientes requisitos:
+
+1. Del número mínimo de cajones de estacionamiento.
+
+2. Establecer unidades habitacionales con superficie mínima de 60 metros cuadrados.
+
+3. Áreas de desplante no mayores al 60% de la superficie total del predio.
+
+4. Edificaciones de hasta 4 niveles y la incorporación de usos mixtos en las plantas bajas.
+
+Siempre y cuando, no se comprometa o generen riesgos o afectaciones en materia de protección civil o movilidad, de conformidad con la normativa aplicable.
+
+Las Dependencias e instancias competentes, establecerán los lineamientos generales necesarios para la ejecución en el Estado de los Programas de Vivienda Social Gubernamental, en su caso.
+
+La Consejería Jurídica establecerá los lineamientos para la participación de las personas notarias públicas del Estado de México en el desarrollo de Programas de Vivienda Social Gubernamental, para que, de forma gratuita, realicen los procedimientos de escrituración y regularización de los inmuebles previstos en el presente Artículo, debiendo determinar de forma equitativa y regionalizada la asignación de dichos procedimientos.
+
+SEXTO. La Consejería Jurídica, el Instituto de la Función Registral del Estado de México, la Secretaría de Finanzas y los Municipios, en el ámbito de sus respectivas competencias y según corresponda, proveerán lo necesario para dar cumplimiento a lo previsto en el ARTÍCULO SEXTO del presente Decreto de acuerdo con lo señalado en las Reglas de Operación que al efecto se emitan.
+
+Respecto de las operaciones de regularización previstas en los Programas establecidos en el ARTÍCULO SEXTO de este Decreto, no se causará el pago del Impuesto sobre Adquisición de Inmuebles y otras Operaciones Traslativas de Dominio de Inmuebles previsto en la Sección Segunda del Capítulo Primero del Título Cuarto del Código Financiero del Estado de México y Municipios, ni el pago de derechos previstos en los artículos 73 fracciones I, II y III, 95, 100, 101 y 102 de dicho Código, así como aquellos que se generen por la actualización de certificaciones previstas en el cuarto párrafo del artículo 116 del Código citado, pudiéndose presentar dichas certificaciones vigentes al momento de la operación pendiente de inscribir o, en su caso, sólo se presentarán las que se determinen en los Programas respectivos, a efecto de poder beneficiar y apoyar a la población a la que van dirigidos.
+
+El Instituto Hacendario del Estado de México, en coordinación con la Consejería Jurídica, llevará a cabo acciones de capacitación y asesoría orientadas a promover el cumplimiento y adecuada implementación de los Programas de regularización a que se refiere el ARTÍCULO SEXTO del presente Decreto.
+
+En caso de que las autoridades municipales actúen en contravención a lo establecido en el ARTÍCULO SEXTO del presente Decreto u obstaculicen la ejecución de los Programas previstos en dicho artículo, la Consejería Jurídica podrá hacerlo del conocimiento de los órganos internos de control municipales o de la Contraloría del Poder Legislativo, según corresponda, para los efectos administrativos que resulten procedentes.
+
+SÉPTIMO. Se deja sin efectos lo dispuesto en el ARTÍCULO QUINTO del Decreto Número 225, publicado en el Periódico Oficial “Gaceta del Gobierno”, el 28 de diciembre de 2023, a partir de la entrada en vigor del presente Decreto.
+
+G.G. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 254.- POR EL QUE SE ADICIONA EL SEGUNDO PÁRRAFO AL ARTÍCULO 1.6, LAS FRACCIONES XIX BIS Y XX BIS AL ARTÍCULO 2.16, Y LAS FRACCIONES XII BIS, XII TER Y XII QUATER AL ARTÍCULO 2.21 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO; SE REFORMA EL ARTÍCULO 86 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO; Y SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 9 DE LA LEY PARA PREVENIR, COMBATIR Y ELIMINAR ACTOS DE DISCRIMINACIÓN EN EL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
