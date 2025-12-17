@@ -4,7 +4,7 @@ identifier: "TAB-ley-del-sistema-anticorrupcion-del-estado-de-tabasco-180373"
 country: "mx"
 rank: "ley"
 publication_date: "2025-06-11"
-last_updated: "2025-06-11"
+last_updated: "2025-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2025.
 
 Ley publicada en el suplemento k de la edición 8636 del Periódico Oficial del Estado de Tabasco, el miércoles 11 de junio de 2025.
 
@@ -89,7 +89,7 @@ XI. Establecer las bases mínimas para crear e implementar sistemas electrónico
 
 Para los efectos de la presente Ley se entenderá por:
 
-I. Comisión de Selección: la que se constituya en términos de esta Ley, para nombrar a las personas integrantes del Comité de Participación Ciudadana;
+I. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2025)
 
 II. Comité Coordinador: la instancia encargada de la coordinación y eficacia del Sistema Estatal;
 
@@ -211,7 +211,7 @@ IV. La persona titular de la Secretaría Anticorrupción y Buen Gobierno del Est
 
 V. Una persona representante del Tribunal de Disciplina Judicial;
 
-VI. La persona titular de Transparencia para el Pueblo del Estado de Tabasco;
+VI. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2025)
 
 VII. La persona que ostente la presidencia del Tribunal de Justicia Administrativa del Estado de Tabasco; y
 
@@ -247,9 +247,11 @@ Los miembros del Comité Coordinador podrán emitir voto particular de los asunt
 
 El Comité de Participación Ciudadana tiene como objetivo coadyuvar, en términos de esta Ley, al cumplimiento de los objetivos del Comité Coordinador, así como ser la instancia de vinculación con la ciudadanía, las organizaciones de la sociedad civil, colegios, barras de profesionistas e instituciones académicas relacionadas con las materias del Sistema Estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 15.
 
-El Comité de Participación Ciudadana estará integrado por cinco ciudadanos de probidad y prestigio reconocidos, que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción.
+El Comité de Participación Ciudadana estará integrado por hasta cinco ciudadanos de probidad, reconocidos por su participación en asuntos de interés público, con sentido social, de corresponsabilidad y transparencia, o que se hayan destacado por su contribución a la rendición de cuentas o el combate a la corrupción.
 
 Sus integrantes deberán reunir los siguientes requisitos:
 
@@ -259,9 +261,13 @@ II. Tener veinticinco años de edad, al día de la designación;
 
 III. Tener residencia efectiva en el Estado de Tabasco;
 
-IV. Contar con experiencia en materias de transparencia, evaluación, fiscalización, rendición de cuentas o combate a la corrupción;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-V. Poseer al día de la designación, título profesional de nivel licenciatura o contar con los conocimientos y experiencia relacionados con la materia de esta Ley, que le permitan el adecuado desempeño de sus funciones;
+IV. Contar con experiencia en participación ciudadana, transparencia, evaluación, fiscalización, rendición de cuentas, contraloría social o combate a la corrupción;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+V. Contar con los conocimientos y experiencia relacionados con la materia de esta Ley, que le permitan el adecuado desempeño de sus funciones;
 
 VI. Gozar de buena reputación y no estar inhabilitado o condenado por algún delito, o declarada como persona deudora alimentaria;
 
@@ -275,7 +281,9 @@ X. No ser ministro de culto religioso, a menos que se haya separado de dicho min
 
 XI. No ser titular de alguna dependencia del Poder Ejecutivo del Estado, ni Fiscal General del Estado o integrante del Tribunal de Disciplina Judicial; ni servidor público federal con rango superior a director general o equivalente; ni regidor, secretario o tesorero de ayuntamiento o equivalente; a menos que se haya separado de su cargo con cuando menos un año antes del día de su designación.
 
-Las personas integrantes del Comité de Participación Ciudadana no podrán ocupar, durante el tiempo de su gestión, un empleo, cargo o comisión de cualquier naturaleza, en los gobiernos federal, local o municipal.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Las personas integrantes del Comité de Participación Ciudadana no podrán ocupar, durante el tiempo de su gestión, cargos públicos en los gobiernos federal, estatal o municipal con excepción de aquellos desempeñados en instituciones académicas.
 
 Durarán en su encargo cinco años, sin posibilidad de reelección. Sólo podrán ser removidos por alguna de las causas establecidas en la Ley General de Responsabilidades Administrativas, respecto de actos de particulares vinculados con faltas administrativas graves.
 
@@ -285,41 +293,61 @@ El cargo como personas integrantes del Comité de Participación Ciudadana será
 
 En la conformación del Comité de Participación Ciudadana se procurará que prevalezca la equidad de género.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 17.
 
-Las personas integrantes del Comité de Participación Ciudadana serán nombradas conforme al siguiente procedimiento:
+La designación de las personas que integren el Comité de Participación Ciudadana se realizará mediante convocatoria pública emitida por la Comisión Ordinaria de Gobernación y Puntos Constitucionales del Congreso del Estado, garantizando los principios de legalidad, imparcialidad, transparencia, equidad de género y no discriminación.
 
-I. El Congreso del Estado constituirá una Comisión de Selección integrada por tres ciudadanos, designados para un periodo de tres años, de la siguiente manera:
+I. La convocatoria será abierta a la ciudadanía y dirigida a:
 
-a) Convocará a las principales instituciones públicas de educación superior y de investigación en el Estado, para proponer candidatas y candidatos a fin de integrar la Comisión de Selección, para lo cual deberán enviar los documentos que acrediten los requisitos de ley y el perfil solicitado en la convocatoria, en un plazo no mayor a quince días, para seleccionar a tres personas basándose en los elementos decisorios plasmados en la convocatoria.
+a) Instituciones de educación superior y de investigación en el Estado;
 
-b) Convocará a organizaciones de la sociedad civil en el Estado, especializadas en materia de fiscalización, de rendición de cuentas y combate a la corrupción, colegios de profesionistas, y asociaciones u organizaciones empresariales, para seleccionar a las dos personas restantes, en los mismos términos del inciso anterior.
+b) Organizaciones de la sociedad civil especializadas en fiscalización, rendición de cuentas y combate a la corrupción, colegios de profesionistas y asociaciones empresariales legalmente constituidas; y
 
-El cargo como persona integrante de la Comisión de Selección será honorario. Quienes funjan como tales no podrán ser designados como personas integrantes del Comité de Participación Ciudadana por un periodo de tres años contados a partir de la disolución de la Comisión de Selección.
+c) Ciudadanos que hayan participado en la promoción de la integridad, la transparencia o en el seguimiento y vigilancia de los asuntos públicos.
 
-II. Una vez integrada, la Comisión de Selección deberá emitir una convocatoria con el objeto de realizar una amplia consulta en el Estado, dirigida a la sociedad en general, para que los interesados presenten postulaciones de aspirantes a ocupar el cargo de integrante del Comité de Participación Ciudadana.
+II. La convocatoria contendrá las etapas completas del procedimiento, los plazos improrrogables, los requisitos legales que deben cumplir las personas aspirantes y los documentos que acrediten su cumplimiento, y se publicará en el Periódico Oficial del Estado, en la página oficial de Internet del Congreso, en medios de comunicación de alcance estatal y, en su caso, en la Gaceta Legislativa del Congreso.
 
-En dicha convocatoria pública se definirán la metodología, plazos y criterios de selección de los integrantes del citado Comité, para lo cual se deberá considerar, al menos, lo siguiente:
+III. Una vez abierto el período de registro, se recibirán las solicitudes y la documentación comprobatoria del cumplimiento de los requisitos. La Secretaría de Asuntos Parlamentarios entregará los expedientes a la Comisión referida, la cual revisará el cumplimiento de los requisitos.
 
-a) El método de registro y evaluación de las personas aspirantes;
+IV. La Comisión desechará, mediante acuerdo por escrito, las solicitudes de quienes no cumplan los requisitos, señalando los incumplimientos, y elaborará un acuerdo que contendrá:
 
-b) Hacer pública la lista de las personas aspirantes;
+a) La lista de aspirantes que cumplan con los requisitos;
 
-c) Hacer públicos los documentos que hayan sido entregados para su inscripción, en versiones públicas;
+b) El calendario de comparecencias; y
 
-d) Hacer público el calendario de audiencias;
+c) Los plazos para recoger la documentación de las personas aspirantes cuya solicitud haya sido desechada.
 
-e) Podrán efectuarse audiencias públicas, a las que se invitará a participar a investigadores, académicos y a organizaciones de la sociedad civil, especialistas en la materia; y
+V. Concluidas las comparecencias, la Comisión formulará el dictamen con la lista de candidatas y candidatos aptos, para que se someta al Pleno la propuesta de designación.
 
-f) El plazo en que se deberán hacer las designaciones correspondientes, las cuales se realizarán por el voto de la mayoría de las personas integrantes de la Comisión de Selección, en sesión pública.
-
-En caso de que se generen vacantes imprevistas, el proceso de selección de la nueva persona integrante no podrá exceder el límite de noventa días naturales, y la persona que resulte electa desempeñará el encargo por el tiempo restante de la vacante a ocupar.
+VI. En la sesión correspondiente del Congreso se presentará la propuesta al Pleno para su discusión y votación. Una vez aprobado el dictamen, las personas designadas rendirán protesta constitucional ante el Pleno o la Comisión Permanente del Congreso.
 
 ###### Artículo 18.
 
 Los integrantes del Comité de Participación Ciudadana se rotarán anualmente la representación ante el Comité Coordinador.
 
 De presentarse la ausencia temporal de la persona representante ante el Comité Coordinador, el Comité de Participación Ciudadana nombrará de entre las personas que lo integren a quien deba sustituirlo durante el tiempo de su ausencia. Esta suplencia no podrá ser mayor a seis meses. En caso de que la ausencia sea mayor, ocupará su lugar la persona al cual le correspondería el periodo anual siguiente y así sucesivamente.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+La Secretaría Técnica deberá informar a las personas integrantes del Comité de Participación Ciudadana, mediante los correos electrónicos que estas autoricen, cuando la persona representante del Comité registre más de tres inasistencias injustificadas a las sesiones. En tal caso, el Comité de Participación Ciudadana deberá efectuar la designación de una nueva persona representante. En caso de que el Comité omita realizar la designación correspondiente, la Secretaría Técnica comunicará dicha omisión al Congreso del Estado, a efecto de que este de manera inmediata, asuma la facultad de designación y, proceda a nombrar a la nueva persona representante del Comité de Participación Ciudadana.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+En caso de fallecimiento o renuncia de alguna de las personas integrantes del Comité de Participación Ciudadana, la Secretaría Técnica deberá informar de manera inmediata al Congreso del Estado, a fin de que, dentro de un plazo máximo de 20 días hábiles, emita la convocatoria correspondiente para la designación de la o las nuevas personas integrantes, quienes únicamente ejercerán el cargo por el tiempo restante de la vacante a ocupar.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Al concluir su encargo, las personas que hayan fungido como integrantes del Comité de Participación Ciudadana deberán hacer entrega formal a la persona representante en funciones del propio Comité de toda la documentación, archivos y expedientes relacionados con las funciones desempeñadas durante su gestión, dentro de un plazo máximo de diez días hábiles, con la finalidad de garantizar su resguardo y la continuidad administrativa.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+En caso de que no exista persona representante en funciones, la entrega deberá realizarse a la Secretaría Técnica.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+El incumplimiento de esta obligación estará sujeto a la aplicación de las medidas correspondientes conforme a la normatividad aplicable en la materia.
 
 ###### Artículo 19.
 
@@ -347,7 +375,9 @@ VIII. Proponer mecanismos de articulación entre organizaciones de la sociedad c
 
 IX. Proponer reglas y procedimientos mediante los cuales se recibirán las propuestas, peticiones, solicitudes y denuncias fundadas y motivadas que la sociedad civil pretenda hacer llegar al Órgano Superior de Fiscalización del Estado; así como a los Órganos Internos de Control de los Entes Públicos;
 
-X. Opinar sobre el programa anual de trabajo del Comité Coordinador;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+X. Opinar, a través de su representante, sobre el programa anual de trabajo del Comité Coordinador;
 
 XI. Realizar observaciones a los proyectos de informe anual del Comité Coordinador;
 
@@ -381,15 +411,21 @@ II. Preparar el orden del día con los temas a tratar en cada sesión; y
 
 III. Dar seguimiento a los Acuerdos y Resoluciones del Comité.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+La Secretaría Técnica coadyuvará en la organización, desarrollo y seguimiento de las sesiones del Comité de Participación Ciudadana, así como en la gestión y presentación de los asuntos que éste someta a consideración del Comité Coordinador.
+
 ###### Artículo 22.
 
 El Comité de Participación Ciudadana podrá solicitar al Comité Coordinador la formulación de exhortos públicos cuando algún acuerdo, resolución o recomendación relacionados con hechos de corrupción, requieran ser aclarados para mejor información en cuanto a sus alcances y consecuencias. Los exhortos tendrán por objeto requerir a las autoridades competentes información sobre la atención al asunto de que se trate.
 
 ### CAPÍTULO IV. DE LA SECRETARÍA TÉCNICA DEL SISTEMA ESTATAL ANTICORRUPCIÓN
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 23.
 
-La Secretaría Técnica será una Unidad Administrativa de la Secretaría Anticorrupción y Buen Gobierno, cuya persona titular será la encargada de proveerle al Comité Coordinador la asistencia técnica para el desempeño de sus atribuciones, conforme a lo dispuesto por la presente Ley.
+La Secretaría Técnica será una Unidad Administrativa adscrita a la Secretaría Anticorrupción y Buen Gobierno, con autonomía técnica, cuya persona titular será la encargada de proveer al Comité Coordinador la asistencia técnica para el desempeño de sus atribuciones, así como de actuar como instancia de apoyo y coordinación técnica entre los integrantes del Sistema Estatal conforme a lo dispuesto por la presente Ley, y demás disposiciones aplicables.
 
 ###### Artículo 24.
 
@@ -453,7 +489,9 @@ I. Auxiliar al Comité Coordinador;
 
 II. Ejecutar y dar seguimiento a los acuerdos y resoluciones del Comité Coordinador;
 
-III. Elaborar los instrumentos jurídicos, llevando el archivo correspondiente de los mismos en términos de las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+III. Ejercer la representación técnica y funcional del Sistema Estatal para la suscripción de convenios, acuerdos o demás instrumentos jurídicos necesarios para el cumplimiento de sus fines y objetivos;
 
 IV. Elaborar los anteproyectos de metodologías, indicadores y políticas integrales para ser sometidas a la consideración del Comité Coordinador;
 
@@ -465,9 +503,21 @@ VII. Requerir que los entes y personas servidoras públicas obligadas, aporten l
 
 VIII. Coordinar las plataformas digitales que establecerá el Comité Coordinador, en términos de esta Ley, así como controlar el acceso a las mismas por parte de los miembros del Comité Coordinador;
 
-IX. Brindar capacitación y asesoría a los Entes Públicos y al Comité de Participación Ciudadana en materia anticorrupción, así como difundir la cultura de integridad y combate a la corrupción; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-X. Las que señalen las Leyes, Reglamentos, Decretos, Acuerdos y demás disposiciones administrativas aplicables, con las únicas salvedades a que se contrae este ordenamiento.
+IX. Brindar capacitación y asesoría a los Entes Públicos y al Comité de Participación Ciudadana en materia anticorrupción, así como difundir la cultura de integridad y combate a la corrupción;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+X. Difundir y promover la cultura de la transparencia, la rendición de cuentas y el acceso a la información pública, en coordinación con las autoridades competentes en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XI. Elaborar y registrar los acuerdos, convenios o demás instrumentos jurídicos que se suscriban, llevando el archivo correspondiente en términos de las disposiciones aplicables; y
+
+> <small>(ADICIONADO [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN X], P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XII. Las que señalen las leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas aplicables, con las únicas salvedades a que se contrae este ordenamiento.
 
 ## TÍTULO TERCERO. DE LA PARTICIPACIÓN DE LOS ENTES PÚBLICOS DEL ESTADO EN EL SISTEMA NACIONAL DE FISCALIZACIÓN Y EN LA INTEGRACIÓN DE LA PLATAFORMA DIGITAL NACIONAL
 
@@ -640,3 +690,19 @@ SECRETARIO DE GOBIERNO
 JESÚS MANUEL ARGÁEZ DE LOS SANTOS
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 217 POR EL QUE SE “SE REFORMAN LOS ARTÍCULOS 15, PÁRRAFOS PRIMERO, SEGUNDO, FRACCIONES IV Y V, Y TERCERO; 17; 20, FRACCIÓN X; 23; 27, FRACCIONES III, IX Y X; SE ADICIONAN LOS PÁRRAFOS TERCERO, CUARTO, QUINTO, SEXTO Y SÉPTIMO AL ARTÍCULO 18; UN PÁRRAFO SEGUNDO AL ARTÍCULO 21; LAS FRACCIONES XI Y XII AL ARTÍCULO 27; Y SE DEROGA LA FRACCIÓN I DEL ARTÍCULO 3; Y LA FRACCIÓN VI DEL ARTÍCULO 10, TODOS DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se abroga el Decreto 236, publicado en el Suplemento G, Periódico Oficial del Estado, Edición 8512 de fecha 3 de abril de 2024, y se declara disuelta la Comisión de Selección.
+
+TERCERO. Para llevar a cabo la designación de los nuevos integrantes del Comité de Participación Ciudadana, el Congreso del Estado, a través de la Comisión Ordinaria de Gobernación y Puntos Constitucionales deberá emitir, dentro de los noventa días naturales contados a partir de la entrada en vigor del presente Decreto, la convocatoria pública a que se refiere el artículo 17 de la Ley del Sistema Anticorrupción del Estado de Tabasco.
+
+Una vez concluido el procedimiento derivado de la convocatoria, el Congreso del Estado procederá de inmediato a realizar el nombramiento y la toma de protesta de las personas integrantes del Comité de Participación Ciudadana, conforme a la normatividad aplicable.
+
+CUARTO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
