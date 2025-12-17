@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-comision-de-impacto-estatal-145754"
 country: "mx"
 rank: "ley"
 publication_date: "2021-01-05"
-last_updated: "2024-04-05"
+last_updated: "2025-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LA COMISIÓN DE IMPACTO ESTATAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 5 de enero de 2021.
 
@@ -70,6 +70,12 @@ IV. Evaluación Técnica de Impacto: Al análisis efectuado por las dependencias
 V. Instituto: Al Instituto de Verificación Administrativa del Estado de México;
 
 VI. Ley: A la Ley de la Comisión de Impacto Estatal;
+
+> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+VI Bis. Programa de Vivienda Social Gubernamental: Al instrumento Público mediante el cual las instancias gubernamentales establecen acciones, actividades y asignan los recursos necesarios para garantizar el derecho humano a una vivienda adecuada para personas en condición de vulnerabilidad social, mediante el desarrollo de proyectos habitacionales.
+
+Los programas de vivienda social pueden ser de índole federal y estatal.
 
 VII. Proyecto Nuevo: A proyectos que requieran por primera vez la emisión de la Evaluación de Impacto Estatal;
 
@@ -413,6 +419,18 @@ Si de alguna de las Evaluaciones Técnicas de Impacto se advierte la improcedenc
 
 Solo se expedirá la Evaluación de Impacto Estatal cuando cada una de las instancias responsables de emitir la Evaluación Técnica de Impacto, en el ámbito de su competencia la emitan en sentido favorable, respecto del proyecto nuevo, ampliación o actualización de que se trate.
 
+> <small>(ADICIONADO, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 24 Bis.
+
+Los desarrollos urbanos habitacionales nuevos que se inicien, o conjuntos urbanos o condominios que se incorporen de manera total o parcial a un Programa de Vivienda Social Gubernamental, estarán sujetos a las normas particulares siguientes:
+
+I. Los desarrollos habitacionales que se inicien al amparo del Programa de Vivienda Social Gubernamental se exceptuarán de la obtención de la Evaluación de Impacto Estatal, siempre que se encuentre previamente establecido en los convenios o instrumentos de coordinación en los que el Estado sea parte.
+
+II. Los conjuntos urbanos y condominios que tengan como antecedente una Evaluación de Impacto Estatal y que se incorporen al programa de manera parcial o total, estarán exentos del cumplimiento de las autorizaciones correspondientes y de las respectivas obligaciones administrativas, en la proporción correspondiente al área que se integre al Programa.
+
+III. En caso de no existir un convenio o instrumento de coordinación que determine las excepciones correspondientes, los proyectos estarán exentos de la Evaluación de Impacto Estatal y en su caso, de dar cumplimiento a las autorizaciones y sus respectivas obligaciones administrativas en la proporción correspondiente al área que se integre al Programa, siempre y cuando los mismos se localicen en la zona que defina la instancia gubernamental encargada de su desarrollo.
+
 ## Titulo Cuarto. De las Responsabilidades
 
 ###### Artículo 25.
@@ -534,3 +552,45 @@ DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la A
 DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
 
 DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
+
+G.G. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 240.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS Y OTROS ORDENAMIENTOS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el 01 de enero de 2026.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por este Decreto.
+
+CUARTO. A efecto de respetar el principio de proporcionalidad tributaria establecido en el artículo 31 fracción IV de la Constitución Política de los Estados Unidos Mexicanos, aplicable a la determinación del Impuesto sobre Adquisición de Inmuebles y Otras Operaciones Traslativas de Dominio de Inmuebles, generado durante los Ejercicios Fiscales de 2021, 2022, 2023 y 2024, que no se haya declarado en el plazo legal establecido en el artículo 116 del Código Financiero del Estado de México y Municipios; la autoridad fiscal, para efectos de su cobro, aplicará la tarifa prevista en el artículo 115 del mismo Código, vigente para el Ejercicio Fiscal 2025. Lo anterior, siempre y cuando, no hayan caducado sus facultades para determinar dichos créditos fiscales, de conformidad con lo dispuesto por el artículo 53 del citado Código.
+
+QUINTO. Lo previsto en los ARTÍCULOS TERCERO Y CUARTO entrará en vigor con este Decreto, exceptuándose su aplicación, tratándose de conjuntos urbanos, condominios o proyectos habitacionales respecto de los cuales hayan celebrado convenios o instrumentos de coordinación en los que el Estado y los Municipios intervengan, en cuyo caso se aplicará a partir de la fecha de la suscripción respectiva, sin que ello implique aplicación retroactiva ni afectación a derechos adquiridos, de conformidad con la normativa aplicable.
+
+Se contará con un plazo de ciento veinte días hábiles a partir de la entrada en vigor de los ARTÍCULOS TERCERO Y CUARTO del presente Decreto, para que se emitan y/o adecuen las disposiciones administrativas aplicables, en el entendido, que para aquellos actos jurídicos derivados de convenios o instrumentos de coordinación ya celebrados en los que el Estado y los Municipios intervengan, se aplicarán las disposiciones de los Artículos referidos.
+
+Los Ayuntamientos en los términos de los convenios o instrumentos de coordinación que celebren, deberán realizar las modificaciones necesarias para considerar la reducción o exención del cumplimiento a los conjuntos urbanos, condominios o proyectos habitacionales de los siguientes requisitos:
+
+1. Del número mínimo de cajones de estacionamiento.
+
+2. Establecer unidades habitacionales con superficie mínima de 60 metros cuadrados.
+
+3. Áreas de desplante no mayores al 60% de la superficie total del predio.
+
+4. Edificaciones de hasta 4 niveles y la incorporación de usos mixtos en las plantas bajas.
+
+Siempre y cuando, no se comprometa o generen riesgos o afectaciones en materia de protección civil o movilidad, de conformidad con la normativa aplicable.
+
+Las Dependencias e instancias competentes, establecerán los lineamientos generales necesarios para la ejecución en el Estado de los Programas de Vivienda Social Gubernamental, en su caso.
+
+La Consejería Jurídica establecerá los lineamientos para la participación de las personas notarias públicas del Estado de México en el desarrollo de Programas de Vivienda Social Gubernamental, para que, de forma gratuita, realicen los procedimientos de escrituración y regularización de los inmuebles previstos en el presente Artículo, debiendo determinar de forma equitativa y regionalizada la asignación de dichos procedimientos.
+
+SEXTO. La Consejería Jurídica, el Instituto de la Función Registral del Estado de México, la Secretaría de Finanzas y los Municipios, en el ámbito de sus respectivas competencias y según corresponda, proveerán lo necesario para dar cumplimiento a lo previsto en el ARTÍCULO SEXTO del presente Decreto de acuerdo con lo señalado en las Reglas de Operación que al efecto se emitan.
+
+Respecto de las operaciones de regularización previstas en los Programas establecidos en el ARTÍCULO SEXTO de este Decreto, no se causará el pago del Impuesto sobre Adquisición de Inmuebles y otras Operaciones Traslativas de Dominio de Inmuebles previsto en la Sección Segunda del Capítulo Primero del Título Cuarto del Código Financiero del Estado de México y Municipios, ni el pago de derechos previstos en los artículos 73 fracciones I, II y III, 95, 100, 101 y 102 de dicho Código, así como aquellos que se generen por la actualización de certificaciones previstas en el cuarto párrafo del artículo 116 del Código citado, pudiéndose presentar dichas certificaciones vigentes al momento de la operación pendiente de inscribir o, en su caso, sólo se presentarán las que se determinen en los Programas respectivos, a efecto de poder beneficiar y apoyar a la población a la que van dirigidos.
+
+El Instituto Hacendario del Estado de México, en coordinación con la Consejería Jurídica, llevará a cabo acciones de capacitación y asesoría orientadas a promover el cumplimiento y adecuada implementación de los Programas de regularización a que se refiere el ARTÍCULO SEXTO del presente Decreto.
+
+En caso de que las autoridades municipales actúen en contravención a lo establecido en el ARTÍCULO SEXTO del presente Decreto u obstaculicen la ejecución de los Programas previstos en dicho artículo, la Consejería Jurídica podrá hacerlo del conocimiento de los órganos internos de control municipales o de la Contraloría del Poder Legislativo, según corresponda, para los efectos administrativos que resulten procedentes.
+
+SÉPTIMO. Se deja sin efectos lo dispuesto en el ARTÍCULO QUINTO del Decreto Número 225, publicado en el Periódico Oficial “Gaceta del Gobierno”, el 28 de diciembre de 2023, a partir de la entrada en vigor del presente Decreto.
