@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2025-12-12"
+last_updated: "2025-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE DICIEMBRE DE 2025.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -4083,9 +4083,13 @@ XVI. Las demás que le atribuyan las disposiciones legales y los convenios o acu
 
 18. La dirección y administración de PROBOSQUE estará a cargo de un Consejo Directivo y una Dirección General.
 
-> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO, G.G. 17 DE DICIEMBRE DE 2025)</small>
 
-El Consejo Directivo se integrará en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con seis vocales que son las personas representantes de la Secretaría y de las Secretarías de Finanzas, Desarrollo Económico, Desarrollo Urbano e Infraestructura, Movilidad y del Medio Ambiente y Desarrollo Sostenible; así como una Comisaría, que será la representante de la Secretaría de la Contraloría.
+El Consejo Directivo se integrará en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y contará con una presidencia, que estará a cargo de la persona titular de la Secretaría, y con siete vocalías que serán las personas representantes de la Secretaría, de la Oficialía Mayor y de las Secretarías de Finanzas, de Desarrollo Económico, de Desarrollo Urbano e Infraestructura, de Movilidad y del Medio Ambiente y Desarrollo Sostenible, así como, una Comisaría, que será una persona representante de la Secretaría de la Contraloría.
+
+> <small>(ADICIONADO, G.G. 17 DE DICIEMBRE DE 2025)</small>
+
+Será invitada permanente a las sesiones del Consejo Directivo, una persona representante de la Consejería Jurídica, la cual contará con voz, pero sin voto.
 
 > <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
@@ -8846,3 +8850,11 @@ G.G. 12 DE DICIEMBRE DE 2025.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 246.- POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 3.18, Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 3.18, RECORRIÉNDOSE LOS SUBSECUENTES DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
