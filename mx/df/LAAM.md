@@ -4,7 +4,7 @@ identifier: "LAAM"
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-25"
-last_updated: "2011-06-01"
+last_updated: "2025-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39908&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAAM"
 
 LEY DE ASCENSOS DE LA ARMADA DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 25 de junio de 2004.
 
@@ -42,17 +42,17 @@ LEY DE ASCENSOS DE LA ARMADA DE MEXICO
 
 ### CAPITULO UNICO. Bases generales
 
-> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 1o.
 
-La presente Ley tiene por objeto regular los ascensos del personal de la Armada de México y será aplicable en igualdad de oportunidades entre mujeres y hombres. Ascensos es el acto mediante el cual el Mando promueve al militar en servicio activo al grado superior en el orden jerárquico dentro de la escala que fija la Ley Orgánica de la Armada de México.
+La presente Ley tiene por objeto regular los ascensos del personal de la Armada de México y será aplicable en igualdad de oportunidades entre mujeres y hombres. Ascenso es el acto mediante el cual el Mando promueve al personal militar en servicio activo al grado superior en el orden jerárquico dentro de la escala que fija la Ley Orgánica de la Armada de México.
 
-> <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 2o.
 
-Es facultad del Mando Supremo ascender a los Vicealmirantes, Contralmirantes, Capitanes de Navío y Capitanes de Fragata, de conformidad con lo dispuesto por el artículo 89, fracción IV de la Constitución Política de los Estados Unidos Mexicanos y la presente Ley.
+Es facultad del Mando Supremo ascender al personal de Vicealmirantes, Contralmirantes, Capitanes de Navío y Capitanes de Fragata, de conformidad con lo dispuesto por el artículo 89, fracción IV de la Constitución Política de los Estados Unidos Mexicanos y la presente Ley.
 
 > <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2010)</small>
 
@@ -76,9 +76,11 @@ II. (DEROGADA, D.O.F. 27 DE AGOSTO DE 2010)
 
 Los ascensos a que se refieren los artículos 3o. y 4o. de la presente Ley, serán conferidos de acuerdo a los resultados obtenidos en el concurso de selección para ascenso.
 
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTICULO 6o.
 
-El personal de Oficiales de la milicia auxiliar solamente podrá ser ascendido por adecuación de grado en términos de lo dispuesto por la Ley Orgánica de la Armada de México, por méritos especiales o en los supuestos a que se refiere el artículo 37 de la presente Ley.
+El personal de Oficiales de la milicia auxiliar solamente podrá ser ascendido por adecuación de grado en términos de lo dispuesto por la Ley Orgánica de la Armada de México, por méritos especiales, de forma excepcional en tiempo de paz o en los supuestos a que se refiere el artículo 37 de la presente Ley.
 
 ###### ARTICULO 7o.
 
@@ -94,11 +96,11 @@ II.- Tiempo de guerra, y
 
 III.- Por méritos especiales.
 
-> <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 9o.
 
-Cuando se obtenga un ascenso por méritos especiales o por las causas establecidas para tiempo de guerra, el ascendido deberá cumplir con lo previsto en esta Ley y demás disposiciones para ese grado, a efecto de poder tomar parte en promociones posteriores.
+Cuando se obtenga un ascenso por méritos especiales o por las causas establecidas para tiempo de guerra, el personal ascendido deberá cumplir con lo previsto en esta Ley y demás disposiciones para ese grado, a efecto de poder tomar parte en promociones posteriores.
 
 ###### ARTICULO 10.
 
@@ -116,11 +118,11 @@ En igualdad de competencia profesional determinada por el promedio de las califi
 
 El personal naval que sea ascendido por haber obtenido alguna de las vacantes existentes, ocupará su nuevo lugar escalafonario atendiendo a la prelación que ocupaba en el grado anterior.
 
-> <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 13.
 
-El Alto Mando ordenará al Estado Mayor General de la Armada y a la unidad administrativa correspondiente, la formulación anual del escalafón de Almirantes, Capitanes y Oficiales de la milicia permanente, así como el del personal de la milicia auxiliar. Citados escalafones serán difundidos a todo el personal de la Institución.
+El Alto Mando ordenará a la Jefatura de Operaciones Navales y a la unidad administrativa correspondiente, la formulación anual del escalafón del personal de Almirantes, Capitanes y Oficiales de la milicia permanente, así como de la milicia auxiliar. Los citados escalafones serán difundidos a todo el personal de la Institución.
 
 > <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2010)</small>
 
@@ -128,17 +130,19 @@ El Alto Mando ordenará al Estado Mayor General de la Armada y a la unidad admin
 
 Los órganos asesores auxiliarán al Alto Mando en el proceso para calificar, seleccionar y proponer al personal naval para ascenso, de Marinero hasta Capitán de Corbeta. Para los ascensos de Capitán de Fragata hasta Vicealmirante, el Alto Mando se auxiliará de los órganos asesores designados para integrar el expediente y reunir los elementos de juicio relativos a los aspectos que determina el artículo 18 de esta Ley, los que serán sometidos a la consideración del Mando Supremo.
 
-Los órganos asesores para el proceso de ascensos serán el Estado Mayor General de la Armada y la Comisión Coordinadora para Ascensos en términos de las disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2025)</small>
+
+Los órganos asesores para el proceso de ascensos serán la Jefatura de Operaciones Navales y la Comisión Coordinadora para Ascensos en términos de las disposiciones aplicables.
 
 ## TITULO SEGUNDO. De los ascensos en tiempo de paz
 
 ### CAPÍTULO I. Generalidades
 
-> <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 15.
 
-Los ascensos en tiempo de paz tienen por objeto cubrir las vacantes de la Armada de México con personal apto e idóneo para desempeñar las labores del grado inmediato superior.
+Los ascensos en tiempo de paz tienen por objeto cubrir las vacantes de la Armada de México con personal apto e idóneo para desempeñar las labores del grado inmediato superior, los cuales se determinarán en la promoción general regulada en el Reglamento de la presente Ley y en el Manual de Normas y Procedimientos de la Comisión Coordinadora correspondiente o de forma excepcional por el Alto Mando.
 
 > <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2010)</small>
 
@@ -160,17 +164,17 @@ El Reglamento de esta Ley establecerá las bases para definir la comprobación d
 
 Los ascensos a los grados de Capitán de Navío, Contralmirante, Vicealmirante y Almirante, serán conferidos por el Mando Supremo, atendiendo preferentemente al mérito, aptitud, competencia profesional y conducta militar y civil, así como antigüedad en el grado.
 
-> <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 19.
 
-Cuando un miembro de la Armada sea excluido por estar imposibilitado para participar en el concurso de selección por enfermedad u otras causas de fuerza mayor comprobadas, será convocado para determinar su derecho al ascenso, al desaparecer las causas que motivaron la exclusión, siempre y cuando pueda concursar dentro del periodo que al efecto se establezca.
+Cuando una persona militar de la Armada sea excluida por estar imposibilitada para participar en el concurso de selección por enfermedad u otras causas de fuerza mayor comprobadas, será convocada para determinar su derecho al ascenso, al desaparecer las causas que motivaron la exclusión, siempre y cuando pueda concursar dentro del periodo que al efecto se establezca.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 20.
 
-Cuando un miembro de la Armada se encuentre en cualquiera de los supuestos siguientes, se considerará el grado que ostente como grado tope:
+Cuando una persona militar de la Armada se encuentre en cualquiera de los supuestos siguientes, se considerará el grado que ostente como grado tope:
 
 I.- Haber sido convocado por tres veces al concurso de selección para ascenso y renunciar a ellos;
 
@@ -180,15 +184,15 @@ II.- No haber sido convocado tres veces al concurso de selección para ascenso p
 
 III.- Haber sido convocado y participado en tres concursos de selección para ascenso sin obtener el promedio de calificación mínima aprobatoria, y
 
-> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2025)</small>
 
-IV.- Cualquier combinación de las fracciones I, II y III anteriores que sumen tres de los supuestos indicados, ostentando el militar un mismo grado.
+IV.- Cualquier combinación de las fracciones I, II y III anteriores que sumen tres de los supuestos indicados y que la persona militar ostente un mismo grado.
 
-> <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 21.
 
-El grado tope se comunicará por escrito, por el Estado Mayor General de la Armada al personal núcleo de los Cuerpos y por la Unidad Administrativa correspondiente al personal núcleo de los servicios y las escalas de los Cuerpos y Servicios.
+El grado tope se comunicará por escrito por la Jefatura de Operaciones Navales al personal núcleo de los Cuerpos y por la unidad administrativa correspondiente al personal núcleo de los servicios y las escalas de los Cuerpos y Servicios.
 
 ### CAPITULO II. De los ascensos de las clases y marinería
 
@@ -314,11 +318,13 @@ I.- Vacantes existentes en el grado;
 
 II.- Personal de Capitanes de Fragata que no se encuentra en los supuestos que prevé el artículo 51, y
 
-III.- La lista de los Capitanes de Fragata se integrará conforme a los criterios establecidos en el artículo 18 de esta Ley.
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2010)</small>
+III.- La lista del personal de Capitanes de Fragata se integrará conforme a los criterios establecidos en el artículo 18 de esta Ley.
 
-Dicha lista será elaborada por el Estado Mayor General y los criterios establecidos corresponderán al grado del participante.
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2025)</small>
+
+Dicha lista será elaborada por la Jefatura de Operaciones Navales y los criterios establecidos corresponderán al grado de la persona participante.
 
 ### CAPITULO V. De los ascensos de Almirantes
 
@@ -332,25 +338,31 @@ I.- Vacantes existentes en cada grado;
 
 II.- Personal de los grados de Capitán de Navío, Contralmirante y Vicealmirante que no se encuentren en los supuestos que prevé el artículo 51, y
 
-III.- La lista de los Capitanes de Navío, Contralmirantes y Vicealmirantes se integrará conforme a los criterios establecidos en el artículo 18 de esta Ley.
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2010)</small>
+III.- La lista del personal de Capitanes de Navío, Contralmirantes y Vicealmirantes se integrará conforme a los criterios establecidos en el artículo 18 de esta Ley.
 
-Dicha lista será elaborada por el Estado Mayor General y los criterios establecidos corresponderán al grado del participante.
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2025)</small>
+
+Dicha lista será elaborada por la Jefatura de Operaciones Navales y los criterios establecidos corresponderán al grado de la persona participante.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 27 DE AGOSTO DE 2010)</small>
 
 ### CAPITULO VI. Del concurso de selección para ascenso a Cabo hasta Capitán de Fragata
 
-> <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 34.
 
-El concurso de selección para ascenso tiene por objeto determinar el orden de prelación de los convocados, conforme a lo siguiente:
+El concurso de selección para ascenso tiene por objeto determinar el orden de prelación del personal convocado, conforme a lo siguiente:
+
+> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2010)</small>
 
 I. Para Clases y Marinería se determinará de acuerdo a los resultados de los exámenes que menciona el artículo 35 y conforme al Manual de Normas y Procedimientos de la Comisión Coordinadora correspondiente, y
 
-II. Para Oficiales, incluyendo el ascenso de Capitán de Corbeta a Capitán de Fragata, se llevarán de acuerdo con el Manual de Normas y Procedimientos de la Comisión Coordinadora correspondiente. En el establecimiento del orden de prelación en cada grado, núcleo y escala, se atenderán los conceptos de mérito, aptitud, competencia profesional, conducta militar y civil, así como a los resultados de los exámenes que establece el artículo 35, correspondientes al grado que ostenta el convocado.
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2025)</small>
+
+II.- Para el personal de Oficiales y para el ascenso de Capitán de Corbeta a Capitán de Fragata, se llevará de acuerdo con el Manual de Normas y Procedimientos de la Comisión Coordinadora correspondiente. En el establecimiento del orden de prelación en cada grado, núcleo y escala, se atenderán los conceptos de mérito, aptitud, competencia profesional, conducta militar y civil, así como a los resultados de los exámenes que establece el artículo 35, correspondientes al grado que ostenta la persona convocada.
 
 a) (DEROGADO, D.O.F. 27 DE AGOSTO DE 2010)
 
@@ -392,9 +404,11 @@ Las normas para el concurso de selección para ascenso se harán del conocimient
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTICULO 37.
 
-Los ascensos en tiempo de guerra se otorgarán a los miembros de la Armada de México, para:
+Los ascensos en tiempo de guerra se otorgarán al personal de la Armada de México, para:
 
 I.- Premiar actos de reconocido valor o de extraordinarios méritos en el desarrollo de operaciones de guerra;
 
@@ -434,25 +448,33 @@ IV.- Efectuar actos en los que se demuestre un alto valor, espíritu de cuerpo o
 
 Las propuestas para ascensos en los casos mencionados en el artículo anterior, serán formuladas por el Mando de quien dependa el personal considerado, fundamentando las causas que las justifiquen.
 
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTICULO 43.
 
-El Estado Mayor General de la Armada efectuará el estudio para determinar si proceden o no la propuestas a que se refieren los artículos 38 y 42 de la presente Ley.
+La Jefatura de Operaciones Navales efectuará el estudio para determinar la procedencia de la propuesta a que se refieren los artículos 38 y 42 de la presente Ley.
 
 ###### ARTICULO 44.
 
 Para ascender por méritos especiales, no se requiere que el personal reúna los requisitos establecidos para el ascenso en tiempo de paz.
 
-> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 44 Bis.
 
-Cuando algún miembro del personal de la Armada de México pierda la vida como consecuencia de actos del servicio excepcionalmente meritorios, en condiciones de heroísmo, sobresaliente capacidad profesional o entrega total al servicio a la patria, el Consejo del Almirantazgo Reducido reunirá los elementos de juicio que acrediten las circunstancias extraordinarias y, de ser el caso, propondrá al Alto Mando el ascenso post mortem del militar.
+Cuando algún miembro del personal de la Armada de México pierda la vida como consecuencia de actos del servicio excepcionalmente meritorios, en condiciones de heroísmo, sobresaliente capacidad profesional o entrega total al servicio a la patria, el Consejo del Almirantazgo Reducido reunirá los elementos de juicio que acrediten las circunstancias extraordinarias y, de ser el caso, propondrá al Alto Mando el ascenso post mortem.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2011)</small>
 
 De estimarlo procedente, el Alto Mando presentará a consideración del Mando Supremo el ascenso en cuestión.
 
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2011)</small>
+
 La Secretaría remitirá al Senado de la República, un informe que contenga las consideraciones y valoraciones para el otorgamiento de este tipo de ascensos, dentro de los tres meses siguientes al mismo.
 
-Los derechohabientes de los militares ascendidos en los términos del presente artículo, tendrán derecho a las prestaciones sociales correspondientes al grado inmediato superior concedido, independientemente de los años de servicio y años en el grado que haya cumplido.
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2025)</small>
+
+Las personas derechohabientes del personal militar ascendido en los términos del presente artículo, tendrán derecho a las prestaciones sociales correspondientes al grado inmediato superior concedido, independientemente de los años de servicio y años en el grado que haya cumplido.
 
 ## TITULO QUINTO. Despachos y Nombramientos
 
@@ -480,17 +502,17 @@ IV.- Cuerpo o Servicio al que pertenezca, y
 
 V.- Pertenencia a la milicia permanente.
 
-> <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 47.
 
-Los despachos de los Almirantes y Capitanes de Navío serán legalizados con las firmas del Mando Supremo y del Alto Mando y llevarán el gran sello de la Nación.
+Los despachos del personal de Almirantes y de Capitanes de Navío serán legalizados con las firmas del Mando Supremo y del Alto Mando y llevarán el gran sello de la Nación.
 
-> <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 48.
 
-Los despachos de los Capitanes de Corbeta y Fragata, así como de los Oficiales, serán legalizados con las firmas del Alto Mando y de los servidores públicos de las Unidades Administrativas correspondientes.
+Los despachos del personal con el grado de Capitán de Corbeta y Fragata, así como de la categoría de Oficiales, serán legalizados con las firmas del Alto Mando y de las personas servidoras públicas de las unidades administrativas correspondientes.
 
 ### CAPITULO II. Nombramientos
 
@@ -554,27 +576,37 @@ X.- Suspenso en sus derechos escalafonarios para fines de ascenso determinado po
 
 ### CAPITULO II. Inconformidades
 
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTICULO 52.
 
-Inconformidad es la acción que ejerce el militar ante la Junta Naval por sentirse afectado en sus derechos por exclusión del concurso de selección para ascenso o por postergación.
+El personal naval podrá interponer el recurso de inconformidad ante la Junta Naval por sentirse afectado en sus derechos, por exclusión del concurso de selección para ascenso o por postergación.
 
 ###### ARTICULO 53.
 
 El personal de la Armada de México tendrá un plazo de 30 días naturales siguientes a la fecha de recepción del documento por el que se le comunique la exclusión o la postergación, para manifestar su inconformidad. Las formalidades esenciales para substanciar el procedimiento de la inconformidad se sujetará a lo dispuesto en las disposiciones reglamentarias que se emitan.
 
-> <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 54.
 
-En caso de procedencia de la inconformidad por exclusión, el Alto Mando ordenará la evaluación del interesado colocándolo en el orden de prelación que le corresponda. Si ya fue efectuada la promoción y hubiere obtenido un lugar con derecho a alguna de las vacantes existentes, la situación de exclusión del concurso de selección para ascenso, será considerada como postergación.
+En caso de procedencia del recurso de inconformidad por exclusión, el Alto Mando ordenará que se incluya al personal interesado en el proceso de selección, debiendo realizar las evaluaciones que correspondan, aun si ya finalizaron los periodos que se establezcan para tal fin, colocándolo en el orden de prelación que le corresponda.
+
+> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2025)</small>
+
+En el caso de que haya concluido la promoción y derivado del resultado de las evaluaciones obtenga un lugar con derecho a alguna de las vacantes existentes, la situación de exclusión del concurso de selección para ascenso será considerada como postergación, con los efectos señalados en el artículo 55 de la presente Ley.
+
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 55.
 
-En caso de procedencia de la inconformidad por postergación, se ordenará el ascenso del postergado conservando sus derechos de antigüedad y lugar escalafonario, debiendo retribuírsele las diferencias de haberes y demás percepciones que haya dejado de recibir.
+En caso de procedencia de la inconformidad por postergación, se ordenará el ascenso del personal postergado quien no perderá su antigüedad, ni su lugar escalafonario correspondiente en el nuevo grado y se le retribuirán las diferencias de haberes y demás percepciones que haya dejado de recibir.
+
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 56.
 
-Cuando la Junta Naval emita dictamen de no procedencia, se le hará comunicación debidamente fundada y motivada al que se inconformó, si persistiera la inconformidad, la resolución emitida por la Junta Naval será analizada por el Consejo del Almirantazgo Reducido, sin que proceda en este caso, recurso posterior.
+Cuando la Junta Naval emita dictamen de no procedencia, se le hará comunicación debidamente fundada y motivada al personal que se inconformó, si persistiera la inconformidad, la resolución emitida por la Junta Naval será analizada por el Consejo del Almirantazgo Reducido, sin que proceda en este caso, recurso posterior.
 
 ## TRANSITORIOS
 
@@ -621,3 +653,15 @@ D.O.F. 1 DE JUNIO DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- El Presidente de la República podrá conferir ascensos post mortem que estén motivados por actos realizados con anterioridad a la entrada del presente Decreto, con sujeción a las disposiciones del mismo.
+
+D.O.F. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASCENSOS DE LA ARMADA DE MÉXICO”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Ejecutivo Federal expedirá las modificaciones del Reglamento de la presente Ley y demás disposiciones administrativas que resulten necesarias para el cumplimiento del presente Decreto, en un plazo que no excederá de 180 días naturales, contados a partir del día siguiente de su publicación.
+
+Tercero.- Las erogaciones que deriven por la implementación del presente Decreto se cubrirán con cargo al presupuesto aprobado de la Secretaría de Marina, por lo que no se autorizarán ampliaciones líquidas de recursos a su presupuesto en el presente ejercicio fiscal ni en años subsecuentes.
+
+Cuarto.- Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto, relacionados con las modificaciones a los preceptos legales contemplados en la misma, se resolverán de conformidad con las disposiciones que les dieron origen.
