@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2025-11-24"
+last_updated: "2025-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -1049,9 +1049,9 @@ VII. Vigilar que no se permita el acceso de los menores de edad a los establecim
 
 VIII. Proponer al Ayuntamiento las medidas para hacer cumplir los reglamentos relativos que resguarden la paz, la tranquilidad y el orden público;
 
-> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 17 DE DICIEMBRE DE 2025)</small>
 
-IX. Promover la capacitación, formación y el desempeño de las personas que integran la Policía Municipal, fundadas en el servicio a la sociedad, la disciplina, el respeto a los derechos humanos, el imperio de la Ley, el mando superior y en todo lo conducente a la perspectiva de género.
+IX. Promover la capacitación, formación y el desempeño de las personas que integran la Policía Municipal, fundadas en el servicio a la sociedad, la disciplina, el respeto a los derechos humanos, el imperio de la Ley, el mando superior y en todo lo conducente a la perspectiva de género; así como supervisar que la persona encargada de la seguridad pública municipal, cuente con la acreditación de las pruebas de evaluación de control y confianza expedidas por los órganos públicos facultados para su aplicación;
 
 X. Procurar que los elementos de la policía municipal sepan leer y escribir y, en caso de analfabetismo, promover su asistencia a los cursos de educación básica para adultos;
 
@@ -1843,11 +1843,11 @@ Las dependencias, entidades, órganos y servidores públicos de los Ayuntamiento
 
 Estarán exceptuados de lo dispuesto por el párrafo anterior, los actos y procedimientos administrativos en materia laboral, electoral, de procuración de justicia y los de nombramiento y remoción de los servidores públicos municipales, los que se regirán por las leyes especiales y reglamentos municipales que regulen dichas materias.
 
-> <small>(REFORMADO, G.O. 13 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, G.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 68.
 
-Con base en lo dispuesto en esta Ley, el ayuntamiento deberá aprobar disposiciones reglamentarias para el nombramiento de servidores públicos titulares de las dependencias centralizadas o de órganos desconcentrados, así como de aquellos que desempeñen un empleo o cargo de naturaleza directiva en el Ayuntamiento, que realicen funciones relativas a los servicios públicos municipales, observando el principio de paridad de género y garantizando a las mujeres y hombres su acceso bajo las mismas oportunidades. Al efecto, los titulares de la Secretaría del Ayuntamiento, la Tesorería Municipal, la Dirección de Obras Públicas y la Contraloría deberán contar con título profesional legalmente expedido y cédula profesional, afines a la naturaleza del cargo y con una antigüedad mínima de un año al día de su designación. Para cualquier otro cargo, en caso de no contarse con la documentación antes referida, será necesario tener experiencia acreditada en el ramo, a juicio de quien se encuentre facultado para nombrarlo.
+Con base en lo dispuesto en esta Ley, el Ayuntamiento deberá aprobar disposiciones reglamentarias para el nombramiento de servidores públicos titulares de las dependencias centralizadas o de órganos desconcentrados, así como de aquellos que desempeñen un empleo o cargo de naturaleza directiva en el Ayuntamiento, que realicen funciones relativas a los servicios públicos municipales, observando el principio de paridad de género y garantizando a las mujeres y hombres su acceso bajo las mismas oportunidades. Al efecto, los titulares de la Secretaría del Ayuntamiento, la Tesorería Municipal, la Dirección de Obras Públicas y la Contraloría deberán contar con título profesional legalmente expedido y cédula profesional, afines a la naturaleza del cargo y con una antigüedad mínima de un año al día de su designación. Tratándose de las personas encargadas de la seguridad pública municipal, deberán cumplir con los requisitos establecidos en la presente Ley y demás disposiciones legales aplicables. Para cualquier otro cargo, en caso de no contar con la documentación antes referida, será necesario tener experiencia acreditada en el ramo, a juicio de quien se encuentre facultado para nombrarlo.
 
 ### CAPÍTULO II. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL CENTRALIZADA
 
@@ -2211,11 +2211,25 @@ Artículo 73 Sedecies. Las dependencias y entidades proporcionarán los informes
 
 #### SECCIÓN QUINTA. Del Jefe o Comandante de la Policía Municipal
 
-> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO, G.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 73 Septies Decies.
 
-La persona titular de la Policía Municipal, quien será nombrado conforme a lo dispuesto por la presente Ley, deberá acreditar el curso de formación inicial para policía preventivo y contar con la certificación correspondiente, previo cumplimiento de los procedimientos de evaluación de control de confianza, solicitados en la carrera policial y de profesionalización.
+Cada Ayuntamiento contará con una persona encargada de la seguridad pública municipal, quien deberá sujetarse a los principios previstos en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y sus leyes complementarias, asimismo tendrá las siguientes atribuciones y obligaciones:
+
+I. Preservar, mantener y restablecer la tranquilidad y seguridad de la ciudadanía;
+
+II. Vigilar el debido cumplimiento del Bando de Policía y Gobierno;
+
+III. Colaborar, en los términos establecidos por las leyes aplicables, con el Ministerio Público y con las autoridades jurisdiccionales y administrativas de los órdenes federal y estatal, para el ejercicio de sus funciones;
+
+IV. Coadyuvar en la prevención de los delitos y demás conductas antisociales;
+
+V. Coordinar sus actividades con las demás corporaciones policiales de la Federación y del Estado, de conformidad con las disposiciones legales aplicables, y
+
+VI. Las demás que le confiera esta Ley, reglamentos y las disposiciones jurídicas aplicables.
+
+Para ocupar el citado cargo, la persona designada deberá acreditar los procesos de evaluación de control de confianza, la certificación institucional y contar con experiencia de al menos tres años en materia de seguridad, y demás disposiciones legales aplicables.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
@@ -4658,3 +4672,13 @@ G.O. 24 DE NOVIEMBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 492 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Los Ayuntamientos deberán realizar las adecuaciones correspondientes a su marco normativo, mismas que deberán expedirse dentro de los noventa días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
