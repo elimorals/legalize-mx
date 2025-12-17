@@ -4,7 +4,7 @@ identifier: "HID-ley-de-entidades-paraestatales-del-estado-de-hidalgo-95591"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-29"
-last_updated: "2024-09-17"
+last_updated: "2025-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95591&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 29 de julio de 2013.
 
@@ -99,17 +99,25 @@ IV.- Desincorporación: La disolución, liquidación, extinción, fusión, escis
 
 V.- Dependencias Globalizadoras: La Secretaría Ejecutiva de la Política Pública Estatal, la Secretaría de Finanzas Públicas, la Secretaría de Contraloría y la Unidad de Planeación y Prospectiva;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-VI.- Director General: La persona titular de cada una de las Entidades Paraestatales;
+VI.- Persona Titular: La persona titular de cada una de las Entidades Paraestatales;
 
 VII.- Entidad Paraestatal:
 
 a. Organismos Descentralizados;
 
-b. Empresas de Participación Estatal Mayoritaria; y
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-c. Fideicomisos Públicos en los que el fideicomitente sea el Estado;
+b. Empresas de Participación Estatal Mayoritaria;
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+c. Fideicomisos Públicos en los que el fideicomitente sea el Estado; y
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+d. Organismos Auxiliares del Poder Ejecutivo.
 
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -141,6 +149,10 @@ El agrupamiento de las Entidades Paraestatales se hará considerando el objeto d
 
 La vinculación institucional con el Ejecutivo del Estado de las Entidades Paraestatales no sectorizadas, será a través del servidor público que el Gobernador del Estado designe para tal efecto, quien suplirá sus ausencias en la Junta de Gobierno.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Los organismos auxiliares formularan sus programas y proyectos, conforme lo determine el decreto de su creación y en términos que disponga la Persona Titular del Poder Ejecutivo.
+
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 6.
@@ -170,6 +182,16 @@ Para el cumplimiento de lo antes establecido, la Dependencia Coordinadora de Sec
 Las Entidades Paraestatales deberán proporcionar a las Dependencias Globalizadoras y al Comisario Público la información y datos que estas les soliciten a través de la Dependencia Coordinadora de Sector donde se encuentren agrupadas.
 
 Para el cumplimiento de lo antes establecido, la Dependencia Coordinadora de Sector conjuntamente con las Dependencias Globalizadoras, harán compatibles los requerimientos de información que se demanden a las Entidades Paraestatales, racionalizando los flujos de información.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 7 Ter.
+
+Las Entidades Paraestatales deberán proporcionar la información y datos de manera completa, oportuna y veraz, que le solicite (sic) Oficialía Mayor en el ámbito de su competencia, independientemente del informe trimestral que la Persona Titular deba enviar en términos del Reglamento de la presente Ley.
+
+Tratándose de bienes inmuebles del dominio privado, previo a su enajenación deberán dar aviso a Oficialía Mayor; respecto de los inmuebles sujetos al régimen del dominio público se sujetarán a lo dispuesto en la fracción VI del artículo 8 de la Ley de Bienes del Estado de Hidalgo.
+
+Las Entidades Paraestatales previo a sus movimientos en materia de recursos humanos deberán informar a Oficialía Mayor y a la Secretaría del Despacho del Poder Ejecutivo del Estado. Dichas Dependencias podrán solicitar en cualquier momento documentación y datos relacionados con la administración del personal.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -231,7 +253,9 @@ III Bis.- Vigilar la congruencia entre el presupuesto de ingresos estimado, modi
 
 IV.- Aprobar la suscripción o celebración de créditos para el financiamiento de la Entidad Paraestatal, sin perjuicio de cumplir con las disposiciones establecidas en la Legislación de Deuda Pública Estatal y observar los lineamientos que dicten las autoridades competentes en materia de manejo de disponibilidades financieras;
 
-V.- Expedir las normas o bases generales con arreglo a las cuales, cuando fuere necesario, el Director General pueda disponer de los activos fijos de la Entidad Paraestatal que no correspondan a las operaciones propias del objeto de la misma;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+V.- Expedir las normas o bases generales con arreglo a las cuales, cuando fuere necesario, la Persona Titular pueda disponer de los activos fijos de la Entidad Paraestatal que no correspondan a las operaciones propias del objeto de la misma;
 
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -239,7 +263,9 @@ VI.- Aprobar, anualmente, los estados financieros y la información programátic
 
 VII.- Aprobar de acuerdo con la normatividad y el Reglamento de esta Ley las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar la Entidad Paraestatal con terceros en obras públicas, servicios relacionados con las mismas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles.
 
-El Director General y en su caso, los servidores públicos que deban intervenir de conformidad con las normas orgánicas de la misma, realizarán tales actos bajo su responsabilidad, con sujeción a los (sic) directrices fijadas por el Órgano de Gobierno;
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+La Persona Titular y en su caso, los servidores públicos que deban intervenir de conformidad con las normas orgánicas de la misma, realizarán tales actos bajo su responsabilidad, con sujeción a las directrices fijadas por el Órgano de Gobierno;
 
 VIII.- Aprobar la estructura básica de la organización de la Entidad Paraestatal, y las modificaciones que procedan a la misma. Tratándose de Organismos Descentralizados, el Estatuto Orgánico correspondiente y sus modificaciones;
 
@@ -251,7 +277,9 @@ IX.- Proponer al Ejecutivo Estatal por conducto de la Secretaría Ejecutiva de l
 
 X.- Autorizar la creación de comités o subcomités especializados o comités de apoyo institucional. No se podrán autorizar comités de obra pública si la Entidad Paraestatal no tiene la facultad de construir obra pública de conformidad con la Ley de la materia;
 
-XI.- Nombrar y remover, a propuesta del Director General, a los servidores públicos de la Entidad Paraestatal que ocupen cargos con dos niveles administrativos inmediatos inferiores al de aquél. En materia de fijación de sueldos y prestaciones, apegarse a lo establecido en el Presupuesto de Egresos del Estado de Hidalgo y demás normatividad aplicable en la materia, así como conceder licencias y las demás que señale su Estatuto Orgánico;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XI.- Nombrar y remover, a propuesta de la Persona Titular, a los servidores públicos de la Entidad Paraestatal que ocupen cargos con dos niveles administrativos inmediatos inferiores al de aquél. En materia de fijación de sueldos y prestaciones, apegarse a lo establecido en el Presupuesto de Egresos del Estado de Hidalgo y demás normatividad aplicable en la materia, así como conceder licencias y las demás que señale su Estatuto Orgánico;
 
 XII.- Nombrar y remover a propuesta de su presidente, al secretario y prosecretario del Órgano de Gobierno quienes podrán ser miembros o no del mismo;
 
@@ -263,9 +291,13 @@ XIII.- Aprobar la constitución de reservas en las entidades que conforman la ad
 
 La constitución e integración de reservas a que se refiere la presente fracción, será procedente siempre que los ingresos excedentes, las utilidades, los rendimientos financieros o los remanentes que sean autorizados por la Secretaría de Finanzas Públicas con base a las disposiciones que se establezcan en la Ley de Ingresos del ejercicio fiscal de que se trate, y una vez ingresado a las arcas del Gobierno del Estado, podrá proponer la aplicación de estos recursos en proyectos autorizados por la Secretaria Ejecutiva de la Política Pública del Estado;
 
-XIV.- Establecer, con sujeción a las disposiciones legales aplicables, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que la Entidad Paraestatal requiera para la prestación de sus servicios, de conformidad con la Ley de Bienes del Estado;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-XV.- Analizar y aprobar, en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda a los comisarios;
+XIV.- Establecer, con sujeción a las disposiciones legales aplicables, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que la Entidad Paraestatal requiera para la prestación de sus servicios, de conformidad con lo dispuesto en la presente Ley, así como en la Ley de Bienes del Estado de Hidalgo;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XV.- Analizar y aprobar, en su caso, los informes periódicos que rinda la Persona Titular con la intervención que corresponda a los comisarios;
 
 XVI.- Acordar con sujeción a las disposiciones legales aplicables, los donativos o pagos extraordinarios y verificar que los mismos se apliquen precisamente a los fines señalados en las instrucciones de la Dependencia Coordinadora de Sector correspondiente;
 
@@ -279,11 +311,11 @@ XVIII.- Supervisar el cumplimiento de las medidas adoptadas para el ejercicio de
 
 XIX.- Verificar que los titulares de las Entidades Paraestatales realicen las acciones pertinentes que permitan la implantación de los programas y proyectos en materia de racionalidad, disciplina y eficiencia presupuestal.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 15.
 
-El Director General de cada una de las Entidades Paraestatales, será nombrado por el Titular del Poder Ejecutivo o a indicación de éste por el Titular de la Dependencia Coordinadora de Sector y tendrán las facultades y obligaciones siguientes:
+La Persona Titular de cada una de las Entidades Paraestatales, será nombrado por el Titular del Poder Ejecutivo o a indicación de éste por el Titular de la Dependencia Coordinadora de Sector y tendrán las facultades y obligaciones siguientes:
 
 I.- Administrar y representar legalmente a la Entidad Paraestatal;
 
@@ -291,7 +323,9 @@ I.- Administrar y representar legalmente a la Entidad Paraestatal;
 
 I Bis.- Implementar una administración ágil, eficiente y eficaz sujetándose a lo establecido en esta Ley, en la Ley Orgánica de la Administración Pública para el Estado de Hidalgo y el Proceso de Planeación para el desarrollo del Estado;
 
-II.- Formular los Programas, de acción, financiero y operativo anual, así como los presupuestos de ingresos y egresos y presentarlos para su aprobación al Órgano de Gobierno. Si dentro de los plazos correspondientes el Director General no diere cumplimiento a esta obligación, sin perjuicio de su correspondiente responsabilidad, el Órgano de Gobierno procederá al desarrollo e integración de tales instrumentos;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+II.- Formular los Programas, de acción, financiero y operativo anual, así como los presupuestos de ingresos y egresos y presentarlos para su aprobación al Órgano de Gobierno. Si dentro de los plazos correspondientes a la Persona Titular no diere cumplimiento a esta obligación, sin perjuicio de su correspondiente responsabilidad, el Órgano de Gobierno procederá al desarrollo e integración de tales instrumentos;
 
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -307,7 +341,9 @@ VII.- Establecer sistemas eficientes para la administración del personal, de lo
 
 VIII.- Establecer un sistema de indicadores que permita evaluar la gestión en base a resultados;
 
-IX.- Proponer al Órgano de Gobierno el nombramiento o la remoción de los dos niveles administrativos inmediatos inferiores al del Director General, la fijación de sueldos y demás prestaciones de conformidad a lo establecido en el Presupuesto de Egresos del Estado de Hidalgo y demás normatividad aplicable en la materia;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+IX.- Proponer al Órgano de Gobierno el nombramiento o la remoción de los dos niveles administrativos inmediatos inferiores al de la Persona Titular, la fijación de sueldos y demás prestaciones de conformidad a lo establecido en el Presupuesto de Egresos del Estado de Hidalgo y demás normatividad aplicable en la materia;
 
 > <small>(ADICIONADA, P.O. 17 DE MAYO DE 2024)</small>
 
@@ -349,11 +385,11 @@ XXI.- Sustituir y revocar poderes generales o especiales; y
 
 XXII.- Las que señalen las otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas aplicables, con las limitaciones o restricciones que establece esta Ley y el Reglamento de la misma.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 16.
 
-Los Directores Generales atenderán las observaciones, requerimientos y recomendaciones que determinen las entidades fiscalizadoras, incluyendo al Órgano Interno de Control de la Entidad Paraestatal, debiendo corregir deficiencias y presentando al Órgano de Gobierno informes periódicos sobre su corrección y sobre el Programa de Calidad Institucional y Mejora Continua de la Gestión de la Entidad Paraestatal.
+Las Personas Titulares atenderán las observaciones, requerimientos y recomendaciones que determinen las entidades fiscalizadoras, incluyendo al Órgano Interno de Control de la Entidad Paraestatal, debiendo corregir deficiencias y presentando al Órgano de Gobierno informes periódicos sobre su corrección y sobre el Programa de Calidad Institucional y Mejora Continua de la Gestión de la Entidad Paraestatal.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -389,7 +425,9 @@ II.- Su domicilio legal;
 
 III.- El objeto, conforme a lo señalado en el artículo 18 de esta Ley;
 
-IV.- La manera de integrar el Órgano de Gobierno, así como de designar al Director General y a los servidores públicos con los dos niveles inmediatos inferiores a éste último;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+IV.- La manera de integrar el Órgano de Gobierno, así como de designar a la Persona Titular y a los servidores públicos con los dos niveles inmediatos inferiores a este último;
 
 V.- Las facultades y obligaciones del Órgano de Gobierno, especificando cuáles facultades son indelegables;
 
@@ -403,9 +441,11 @@ IX.- Las relaciones laborales entre el Organismo Descentralizado y sus trabajado
 
 X.- Plazo para que el Órgano de Gobierno expida el Estatuto Orgánico, el cual no deberá ser mayor a sesenta días a partir de la creación del Organismo Descentralizado.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 20.
 
-La administración de los Organismos Descentralizados estará a cargo de un Órgano de Gobierno, que podrá ser una Junta de Gobierno o su equivalente, y un Director General.
+La administración de los Organismos Descentralizados estará a cargo de un Órgano de Gobierno, que podrá ser una Junta de Gobierno o su equivalente, y de una Persona Titular.
 
 ###### Artículo 21.
 
@@ -447,9 +487,13 @@ El secretario técnico, sólo gozará de voz, pero no de voto, y su participaci�
 
 En ningún caso podrán ser miembros del Órgano de Gobierno del Organismo Descentralizado:
 
-I.- El Director General;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-II.- Los cónyuges y las personas que tengan parentesco por consanguinidad hasta el cuarto grado o afinidad hasta el segundo grado o civil con cualquiera de los miembros del Órgano de Gobierno o con el Director General;
+I.- La Persona Titular;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+II.- Los cónyuges y las personas que tengan parentesco por consanguinidad hasta el cuarto grado o afinidad hasta el segundo grado o civil con cualquiera de los miembros del Órgano de Gobierno o con la Persona Titular;
 
 III.- Las personas que tengan intereses contrarios o litigios en proceso con el organismo de que se trate;
 
@@ -483,9 +527,11 @@ Los Organismos Descentralizados que no cumplan los objetivos señalados en el ar
 
 Los procesos de constitución y desincorporación se realizarán con base en el Reglamento de esta Ley y de acuerdo a la normatividad que para tal efecto se emita, coordinado por la Comisión Intersecretarial creada para tal efecto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 27.
 
-El Director General del Organismo Descentralizado será designado por el Gobernador del Estado o a indicación de éste, a través de la Dependencia Coordinadora de Sector, o bien, por el Órgano de Gobierno, debiendo recaer tal nombramiento en persona que reúna los siguientes requisitos:
+La Persona Titular del Organismo Descentralizado será designado por el Gobernador del Estado o a indicación de éste, a través de la Dependencia Coordinadora de Sector, o bien, por el Órgano de Gobierno, debiendo recaer tal nombramiento en persona que reúna los siguientes requisitos:
 
 I.- Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos políticos; y
 
@@ -495,11 +541,11 @@ II.- Haber desempeñado actividades profesionales, de servicio público o admini
 
 III.- No tener alguno de los impedimentos que para ser miembro del Órgano de Gobierno señalan las fracciones III, IV y V del Artículo 24 de esta Ley.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 28.
 
-Los Directores Generales realizarán las acciones correspondientes, para atender las observaciones y recomendaciones que se determinen y presentarán al Órgano de Gobierno, informes periódicos sobre su atención, corrección y sobre el Programa de Calidad Institucional y Mejora Continua de la Gestión de los Organismos Descentralizados.
+Las Personas Titulares realizarán las acciones correspondientes, para atender las observaciones y recomendaciones que se determinen y presentarán al Órgano de Gobierno, informes periódicos sobre su atención, corrección y sobre el Programa de Calidad Institucional y Mejora Continua de la Gestión de los Organismos Descentralizados.
 
 Los demás servidores públicos de los Organismos Descentralizados, responderán dentro de su ámbito de competencia, sobre el adecuado funcionamiento de los sistemas que controlan las operaciones a su cargo.
 
@@ -535,9 +581,11 @@ V. El acuerdo que señale las bases de desincorporación de la entidad, de confo
 
 VI. Los demás documentos o actos que determine el reglamento de este ordenamiento.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 31.
 
-Para acreditar la personalidad y facultades, según se trate, de los miembros del Órgano de Gobierno, del secretario del órgano, del Director General y de los apoderados generales para actos de dominio y de administración de los Organismos Descentralizados, bastará con exhibir una certificación de la inscripción de su nombramiento o mandato en el Registro Público de Organismos Descentralizados.
+Para acreditar la personalidad y facultades, según se trate, de los miembros del Órgano de Gobierno, del secretario del órgano, de la Persona Titular y de los apoderados generales para actos de dominio y de administración de los Organismos Descentralizados, bastará con exhibir una certificación de la inscripción de su nombramiento o mandato en el Registro Público de Organismos Descentralizados.
 
 ###### Artículo 32.
 
@@ -563,7 +611,9 @@ Son Empresas de Participación Estatal Mayoritaria de la Administración Públic
 
 I.- Que el Estado o una o más Entidades Paraestatales, conjunta o separadamente, aporten o sean propietarias de más del 50% del capital social; y
 
-II.- Que el Estado o una o más Entidades Paraestatales, les corresponda la facultad de nombrar a la mayoría de los miembros de los Consejos de Administración o su equivalente, o bien designar al Presidente o Director General de las mismas, o cuando tengan facultades para vetar los acuerdos del Órgano de Gobierno respectivo.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+II.- Que el Estado o una o más Entidades Paraestatales, les corresponda la facultad de nombrar a la mayoría de los miembros de los Consejos de Administración o su equivalente, o bien designar al Presidente o la Persona Titular de las mismas, o cuando tengan facultades para vetar los acuerdos del Órgano de Gobierno respectivo.
 
 Se asimilan a las Empresas de Participación Estatal Mayoritaria, las sociedades y asociaciones civiles en las que la mayoría de los socios sean el Estado o Entidades de la Administración Pública del Estado o servidores públicos de éstas, que participen en razón de sus cargos, se obliguen a realizar o realicen aportaciones económicas preponderantes.
 
@@ -601,9 +651,11 @@ Dicho Consejo de Administración será presidido por el titular de la Dependenci
 
 Los Consejos de Administración o sus equivalentes de las Empresas de Participación Estatal Mayoritaria, además de las facultades específicas que se le otorguen en los estatutos y en la legislación aplicable en la materia, tendrán las facultades señaladas en el artículo 14 de esta Ley, en lo que resulten compatibles, con las actividades de aquellas que sean propias de las asambleas ordinarias o extraordinarias.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 40.
 
-Los Directores Generales o sus equivalentes de las Empresas de Participación Estatal Mayoritaria, además de las facultades y obligaciones que se les atribuyen en los estatutos y legislación aplicable a su objeto social, tendrán las que se mencionan en artículo 15 de esta Ley.
+La Persona Titular o sus equivalentes de las Empresas de Participación Estatal Mayoritaria, además de las facultades y obligaciones que se les atribuyen en los estatutos y legislación aplicable a su objeto social, tendrán las que se mencionan en artículo 15 de esta Ley.
 
 ###### Artículo 41.
 
@@ -635,7 +687,9 @@ Los fideicomisos públicos que tienen el carácter de Entidades Paraestatales, s
 
 En los Fideicomisos Públicos constituidos o que se pretendan constituir por el Estado, la Secretaría de Finanzas Públicas fungirá como representante del fideicomitente.
 
-Los Comités Técnicos y los Directores Generales de los Fideicomisos Públicos que sean Entidades Paraestatales, se ajustarán en cuanto a su Estructura Desarrollo y Operación a las disposiciones que en el Capítulo II de esta Ley se establecen para los Órganos de Gobierno y para los Directores Generales, en cuanto sea compatible a su naturaleza.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Los Comités Técnicos y la Persona Titular de los Fideicomisos Públicos que sean Entidades Paraestatales, se ajustarán en cuanto a su Estructura Desarrollo y Operación a las disposiciones que en el Capítulo II de esta Ley se establecen para los Órganos de Gobierno y para las Personas Titulares, en cuanto sea compatible a su naturaleza.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -677,13 +731,65 @@ En los contratos constitutivos de fideicomisos de la Administración Pública Es
 
 El Ejecutivo Estatal podrá disponer que se constituyan fideicomisos cuya finalidad sea la realización de actividades de promoción y desarrollo social o regional, industrial, comercial o de servicios y la de brindar apoyos financieros u otorgar garantías a favor de las empresas que inviertan en el desarrollo e infraestructura del Estado; las que, podrán recibir aportaciones de empresas sociales o privadas para el logro de sus fines. En estos casos, los fideicomisos en ningún caso tendrán el carácter de Entidades de la Administración Pública Estatal y por lo tanto, no se les aplicarán las disposiciones legales y administrativas relativas, ni aún las de carácter presupuestario o relacionadas con el gasto público.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO V BIS. DE LOS ORGANISMOS AUXILIARES DEL PODER EJECUTIVO
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 50 Bis.
+
+Los Organismos Auxiliares son los entes con personalidad jurídica, autonomía administrativa, técnica, de gestión, operativa y de ejecución, con o sin patrimonio propio, creados mediante decreto administrativo emitido por la Persona Titular del Poder Ejecutivo, en términos del presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 50 Ter.
+
+Para los efectos de esta Ley, se consideran Organismos Auxiliares del Poder Ejecutivo: los institutos, las comisiones y las coordinaciones, así como los demás organismos que desde su Decreto de creación se les considere con esta naturaleza. Los organismos auxiliares tendrán por objeto, la realización de actividades estratégicas, funciones administrativas y de servicios para el desarrollo del Estado, mismas que le asignará la Persona Titular del Ejecutivo a través de su Decreto de creación.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 50 Quáter.
+
+El Decreto de creación de los Organismos Auxiliares, deberán contemplar entre otros, los siguientes aspectos:
+
+I.- La denominación del Organismo Auxiliar;
+
+II.- Su domicilio legal;
+
+III.- El objeto;
+
+IV.- Las facultades y obligaciones de la persona titular;
+
+V.- Su integración y organización;
+
+VI.- Sus órganos de evaluación y vigilancia, incluyendo sus facultades y obligaciones;
+
+VII.- El régimen laboral a que se sujetarán sus relaciones de trabajo; y
+
+VIII.- La forma como se integrará su patrimonio en caso de contar con el.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 50 Quinquies.
+
+La persona titular del Organismo Auxiliar será designada por la Persona Titular del Ejecutivo, quien deberá reunir los requisitos establecidos en el artículo 27 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 50 Sexies.
+
+La administración de los Organismos Auxiliares estará a cargo de la persona titular.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 50 Septies.
+
+La persona titular del Organismo Auxiliar para el ejercicio de sus facultades y atribuciones, se apegará a lo establecido en su Decreto de Creación.
+
 ### CAPÍTULO VI. DEL DESARROLLO Y OPERACIÓN DE LAS ENTIDADES PARAESTATALES
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
-
-### CAPÍTULO VII. DE LA EVALUACIÓN Y CONTROL DE LAS ENTIDADES
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 51.
 
@@ -727,9 +833,9 @@ Respecto a la percepción de subsidios y transferencias, la Entidad Paraestatal 
 
 Las Entidades Paraestatales en lo tocante al ejercicio de sus presupuestos, concertación y cumplimiento de compromisos, registro de operaciones; rendimiento de informes sobre estados financieros e integración de datos para efecto de cuenta pública deberán estar, en primer término, a lo dispuesto por esta Ley y su Reglamento, así como a los lineamientos y obligaciones establecidas en las demás disposiciones legales vigentes.
 
-### CAPÍTULO VIII. DE LAS SUPLENCIAS DEL DIRECTOR
+### CAPÍTULO VII. DE LA EVALUACIÓN Y CONTROL DE LAS ENTIDADES
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 57.
 
@@ -799,13 +905,21 @@ En aquellas empresas en las que participe el Estado con la suscripción del 25% 
 
 La Unidad de Planeación y Prospectiva podrá realizar visitas a las Entidades Paraestatales, así como solicitar la entrega de información de naturaleza fiscal, administrativa, financiera, presupuestal, jurídica y cualquier otra que fuera solicitada para su evaluación. La Secretaria de Finanzas Publicas podrá solicitar a la Unidad de Planeación y Prospectiva la información necesaria para la adecuada supervisión de los procesos administrativos, de control y del gasto, para que de esa manera sean eficientes los procesos de ejecución del gasto.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO VIII. DE LAS SUPLENCIAS DE LAS PERSONAS TITULARES
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 63.
 
-Cuando la ausencia del Director General no exceda de 30 días, el despacho y la resolución de los asuntos de las Entidades Paraestatales estarán a cargo del Servidor Público que designe la persona titular de la Dependencia Coordinadora de Sector, mediante documento oficial.
+Cuando la ausencia de la Persona Titular no exceda de 30 días, el despacho y la resolución de los asuntos de las Entidades Paraestatales estarán a cargo del Servidor Público que designe la persona titular de la Dependencia Coordinadora de Sector, mediante documento oficial.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 64.
 
-Cuando la ausencia del Director General sea mayor a 30 días el Gobernador del Estado designará al servidor público que estará al frente de la misma.
+Cuando la ausencia de la Persona Titular sea mayor a 30 días el Gobernador del Estado designará al servidor público que estará al frente de la misma.
 
 ## TRANSITORIOS
 
@@ -888,3 +1002,9 @@ P.O. 17 DE SEPTIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1124 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 17 DE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 393 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE HIDALGO, EN MATERIA DE ORGANISMOS AUXILIARES".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
