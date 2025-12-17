@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-tribunal-electoral-del-estado-de-hidalgo-10497
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-22"
-last_updated: "2018-07-30"
+last_updated: "2025-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 22 de diciembre de 2014.
 
@@ -103,11 +103,19 @@ El Tribunal residirá en la Ciudad de Pachuca de Soto, Hidalgo y tendrá jurisdi
 
 Para el cumplimiento de sus atribuciones, ejercerá el presupuesto que le asigne el Congreso del Estado y se ejercerá de conformidad con las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 9.
 
-Las resoluciones del Pleno se tomarán por unanimidad o por mayoría de votos; los Magistrados solo podrán abstenerse de votar cuando tenga impedimento legal. En caso de empate, el Presidente, o quien ejerza la presidencia en el momento de la votación, tendrá voto de calidad.
+Las resoluciones del Pleno se tomarán por unanimidad o por mayoría de votos; las Magistraturas solo podrán abstenerse de votar cuando tengan impedimento legal. En caso de empate, quien ejerza la Presidencia en el momento de la votación, tendrá voto de calidad.
 
-Cuando algún Magistrado disintiere de la mayoría, dentro de los tres días siguientes, podrá formular voto particular o concurrente el cual se engrosará al final de la resolución respectiva.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Cuando alguna Magistratura disintiere de la mayoría, podrá formular voto particular, cuando no apruebe el sentido de la resolución en su totalidad, o concurrente, cuando comparte el sentido, pero disiente de las consideraciones que la sustentan.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Estos votos serán engrosados al final de la resolución, siempre que hayan sido anunciados en la sesión correspondiente y presentados ante la Secretaría General al finalizar la misma, en documento físico debidamente firmado de manera autógrafa.
 
 ###### Artículo 10.
 
@@ -686,3 +694,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los magistrados electorales locales en funciones a la entrada en vigor del presente Decreto y que fueron electos el 10 de diciembre de 2015 por un periodo de 3 años, continuarán en su encargo por el tiempo en que fueron designados por el Senado de la República.
 
 TERCERO. Notifíquese el presente Decreto a la Cámara de Senadores del Congreso de la Unión, para los efectos legales conducentes.
+
+P.O. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 395 - LXVI POR EL QUE SE REFORMAN EL PRIMER Y SEGUNDO PÁRRAFO, Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 9 DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE HIDALGO, EN MATERIA DE VOTOS PARTICULARES Y CONCURRENTES".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
