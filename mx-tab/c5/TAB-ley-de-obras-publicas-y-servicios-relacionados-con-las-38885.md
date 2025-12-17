@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-obras-publicas-y-servicios-relacionados-con-las-38885"
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-07"
-last_updated: "2024-12-16"
+last_updated: "2025-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2025.
 
 Ley publicada en el suplemento al Periódico Oficial del Estado de Tabasco, el miércoles 7 de abril de 2004.
 
@@ -53,7 +53,9 @@ LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE TAB
 
 La presente Ley es de orden público y tiene por objeto regular el gasto y las acciones relativas a la planeación, programación, presupuestación, contratación, ejecución, conservación, mantenimiento, demolición y control de las Obras Públicas, así como de los Servicios relacionados con las mismas, que realicen:
 
-I.- Las Dependencias del Poder Ejecutivo, señaladas en el artículo 26 de su Ley Orgánica;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+I.- Las Dependencias señaladas en el artículo 19 de la Ley. Orgánica del Poder Ejecutivo del Estado de Tabasco;
 
 II.- Los Ayuntamientos, cuando ejecuten obras con cargo parcial o total a fondos del Gobierno del Estado, a sus recursos propios o de aquellos provenientes de aportaciones federales, transferencia de fondos, en los términos del artículo 10 de esta Ley;
 
@@ -63,77 +65,113 @@ IV.- Las Empresas de participación estatal mayoritaria de la Administración P�
 
 V.- Los Fideicomisos en los que el fideicomitente sea la Administración Pública Estatal o Municipal.
 
-Las Dependencias y Entidades no podrán otorgar mandatos o celebrar actos o cualquier tipo de contratos que contravengan lo previsto en este ordenamiento.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+La Secretaría Anticorrupción emitirá las políticas, bases y lineamientos para llevar a cabo los procedimientos de contratación a que se refiere esta Ley, así como para promover la estandarización de las contrataciones públicas, que deberán observar las Dependencias y Entidades.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Previa autorización de la Secretaría Anticorrupción, las Dependencias y Entidades podrán emitir lineamientos de contratación específicos para precisar situaciones particulares en relación con los actos vinculados con las obras públicas y los servicios relacionados con las mismas a contratar.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 2.
 
 Para los efectos de la presente Ley se entenderá por:
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+I.- Cámara: La Cámara de la industria que corresponda;
 
-I.- Secretaría: La Secretaría de Planeación y Finanzas del Gobierno del Estado o la Dirección de Finanzas del Municipio que corresponda;
+II.- Certificados de avance de obra: Son los documentos que certifican el reconocimiento de obra multianual ejecutada, amparados por las estimaciones correspondientes;
 
-II.- Contraloría: La Secretaría de Contraloría del Gobierno del Estado o la Contraloría Municipal;
+III.- CICOP: Comité Intersecretarial Consultivo de la Obra Pública;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+IV.- Colegio: Asociación legalmente constituida por miembros de una determinada profesión o especialidad;
 
-III.- SOTOP: La Secretaría de Ordenamiento Territorial y Obras Públicas del Gobierno del Estado;
+V.- Comité Municipal: El Comité de la Obra Pública Municipal;
 
-IV.- COPLADET: El Comité de Planeación para el Desarrollo del Estado de Tabasco;
+VI.- Comité: El Comité de la Obra Pública;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+VII.- Compranet Tabasco: Sistema Electrónico de Información Pública de Contrataciones;
 
-V.- SERNAPAM: La Secretaría de Energía, Recursos Naturales y Protección Ambiental del Gobierno del Estado;
+VIII.- Contraloría: La Contraloría Municipal;
 
-VI.- Dependencias: Las referidas en la fracción I del artículo 1 de esta Ley;
+IX.- Contratista: La persona física o jurídica colectiva, que celebre contratos de obra pública y de servicios relacionados con las mismas;
 
-VII.- Entidades: Las señaladas en las fracciones de la II a la V del artículo 1 de esta Ley;
+X.- Convocante: La Dependencia o Entidad que realiza procedimientos de contratación, mediante cualquiera de las modalidades de acuerdo con las disposiciones de esta Ley;
 
-VIII.- Comité: El Comité de la Obra Pública;
+XI.- COPLADET: El Comité de Planeación para el Desarrollo del Estado de Tabasco;
 
-IX.- Comité Municipal: El Comité de la Obra Pública Municipal;
+XII.- Cotizante: la persona física o jurídica colectiva que presenta su cotización en el procedimiento de contratación bajo la modalidad de adjudicación directa;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+XIII.- Dependencias: Las referidas en la fracción I del artículo 1 de esta Ley;
 
-X.- Registro Único de Contratistas: Listado de las personas físicas o jurídicas colectivas que se dediquen al ramo de la construcción o servicios relacionados;
+XIV.- Entidades: Las señaladas en las fracciones de la II a la V del artículo 1 de esta Ley;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+XV.- Licitante: La persona física o jurídica colectiva que participe en cualquier procedimiento de contratación bajo las modalidades de licitación pública, invitación a cuando menos tres personas y adjudicación directa;
 
-XI.- SECONET: Sistema Electrónico de Contrataciones del Estado de Tabasco;
+XVI.- Obras de gran complejidad: aquéllas cuya ejecución o el sitio donde se vayan a realizar presenten dificultades técnicas o de seguridad para el desarrollo de los trabajos, así como las que señala el artículo 3, fracción IV de la presente Ley, en las cuales se considerará que el avance del desarrollo de los estudios y proyectos estará constituido por una propuesta conceptual;
 
-XII.- CICOP.- Comité Intersecretarial Consultivo de la Obra Pública;
+XVII.- Ofertas subsecuentes de descuentos: la modalidad de contratación que podrá ser utilizada en las licitaciones públicas y en las invitaciones a cuando menos tres personas, en la cual los licitantes, concluido el acto de presentación y apertura de proposiciones, tienen la posibilidad de realizar durante un periodo de tiempo determinado, uno o más ofrecimientos posteriores que mejoren el precio ofertado en forma inicial, sin que ello signifique la posibilidad de variar las especificaciones o características originalmente contenidas en su propuesta técnica;
 
-XIII.- Convocante: La Dependencia o Entidad que realiza una licitación de acuerdo con las disposiciones de esta Ley;
+XVIII.- Proyecto arquitectónico: el que define la forma, estilo, distribución y el diseño funcional de una obra. Se expresará por medio de planos, modelos digitales, maquetas, perspectivas, dibujos artísticos, entre otros;
 
-XIV.- Contratista: La persona física o jurídica colectiva, que celebre contratos de obra pública y de servicios relacionados con la misma;
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-XV.- Cámara: La Cámara de la industria que corresponda;
+XIX.- Proyecto ejecutivo: el conjunto de planos, modelos digitales y documentos que conforman el proyecto arquitectónico y el de ingeniería de una obra, el catálogo de conceptos, así como las descripciones e información suficientes para que ésta se pueda llevar a cabo;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-XVI.- Colegio: Asociación legalmente constituida por miembros de una determinada profesión o especialidad;
+XX.- Proyecto de ingeniería: el que comprende los planos constructivos, modelos digitales, memorias de cálculo y descriptivas, especificaciones generales y particulares aplicables, así como plantas, alzados, secciones y detalle, que permitan llevar a cabo una obra civil, eléctrica, mecánica o de cualquier otra especialidad;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-XVII.- Licitante: La persona física o jurídica colectiva que participe en cualquier procedimiento de licitación pública, o por invitación; y
+XXI.- Registro Único de Contratistas: Listado de las personas físicas o jurídicas colectivas que se dediquen al ramo de la construcción o servicios relacionados;
 
-XVIII.- Llave en mano: Obra o servicio público realizada y financiada por un particular desde su programación, proyecto, construcción, hasta la puesta en marcha y entrega en operación, a una dependencia o entidad, encargada por ésta.
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+XXII.- Secretaría Anticorrupción: La Secretaría Anticorrupción y Buen Gobierno;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XXIII.- Secretaría: La Secretaría de Administración y Finanzas del Gobierno del Estado o la Dirección de Finanzas del Municipio que corresponda; y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XXIV.- SOTOP: La Secretaría de Ordenamiento Territorial y Obras Públicas del Gobierno del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 3.
 
-Para los efectos de esta Ley, se considera Obra Pública:
+Para efectos de esta Ley, se consideran obras públicas, los trabajos que tengan por objeto construir, instalar, ampliar, adecuar, remodelar, restaurar, conservar, mantener, modificar y demoler bienes inmuebles. Asimismo quedan comprendidos dentro de las obras públicas, los siguientes conceptos:
 
-I.- La construcción, reconstrucción, modificación, remodelación, instalación o mantenimiento de bienes inmuebles e infraestructura, que por su naturaleza o por disposición de la Ley, sean destinados a un servicio público o al uso común;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+I.- El mantenimiento y la restauración de bienes muebles incorporados o adheridos a un inmueble, cuando implique modificación en la distribución arquitectónica de espacios; en las instalaciones eléctricas, sanitarias, hidráulicas o de cualquier especialidad, así como en la estructura del propio inmueble;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 II.- Los trabajos de mejoramiento, conservación, preservación o restauración del suelo, subsuelo, agua y aire;
 
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
 III.- La fabricación, instalación, montaje, colocación o aplicación, incluyendo las pruebas de operación de bienes muebles que deben incorporarse, adherirse o destinarse a un inmueble, siempre y cuando dichos bienes sean proporcionados por la convocante al contratista; o bien, cuando incluyan la adquisición y su precio sea menor al de los trabajos que se contraten;
 
-IV.- Los proyectos integrales o llave en mano, a que se refieren las fracciones de este artículo; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-V.- Todos aquellos de naturaleza análoga.
+IV.- Los proyectos integrales en los cuales el contratista se obliga desde el diseño de la obra hasta la terminación total de su construcción, incluyéndose, cuando se requiera, investigaciones previas, estudios, diseños, elaboración del proyecto ejecutivo y proyectos de todo tipo; ejecución de la obra civil, considerando la producción, fabricación, traslado e instalación de elementos necesarios para la obra; equipamiento; capacitación; pruebas e inicio de operación de la obra construida, la transferencia de tecnología, así como la adquisición suministro, integración, equipamiento, puesta en operación de bienes muebles especializados, incluidos, vehículos automotores, embarcaciones, trenes, mobiliario, equipo médico especializado, entre otros cuando resulten indispensables para la operación de la obra o del servicio público y estén previstos expresamente en el proyecto;
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Las Dependencias y Entidades que requieran de proyectos integrales preferentemente celebrarán contratos mixtos;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+V.- Los trabajos de infraestructura agropecuaria; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+VI.- Todos aquellos de naturaleza análoga.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2006)</small>
 
@@ -149,9 +187,13 @@ II.- La planeación y el diseño, incluyendo los trabajos que tengan por objeto 
 
 III.- Los estudios técnicos de mecánica de suelos, topografía, ambientales, ecológicos y de Ingeniería de tránsito.
 
-IV.- (DEROGADA, P.O. 25 DE NOVIEMBRE DE 2006)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-V.- Los trabajos de coordinación, supervisión, control y verificación de obra; de laboratorio de análisis y control de calidad; de laboratorio de geotecnia, de resistencia de materiales y radiografías industriales; de preparación de especificaciones de acuerdo a las normas de construcción, presupuestación o la elaboración de cualquier otro documento o trabajo para la adjudicación del contrato de obra correspondiente;
+IV.- Los estudios económicos y de planeación de preinversión, factibilidad técnico económica, ecológica o social, de evaluación, adaptación, tenencia de la tierra, financieros, de desarrollo y restitución de la eficiencia de las instalaciones, así como de investigación de mercado;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+V.- Los trabajos de gerencia de proyecto, de coordinación, supervisión y control de obra; de laboratorio de análisis y control de calidad; de laboratorio de geotecnia, de resistencia de materiales y radiografías industriales; de preparación de especificaciones de construcción, presupuestación o la elaboración de cualquier otro documento o trabajo para la adjudicación del contrato de obra correspondiente; y
 
 VI.- (DEROGADA, P.O. 25 DE NOVIEMBRE DE 2006)
 
@@ -173,9 +215,9 @@ La aplicación de esta Ley será sin perjuicio de lo dispuesto en cualquier Trat
 
 El Comité Intersecretarial Consultivo de la Obra Pública (CICOP), fungirá exclusivamente como órgano de asesoría y consulta para el establecimiento de políticas generales, prioridades, objetivos y metas en la materia, así como para la aplicación de esta Ley en el ámbito de las dependencias y entidades del Poder Ejecutivo.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-El CICOP se integra con representantes permanentes que serán los Titulares de la SOTOP, quien lo presidirá; de la Secretaría y de la Contraloría.
+El CICOP se integra con representantes permanentes que serán los Titulares de la SOTOP, quien lo presidirá; de la Secretaría y de la Secretaría Anticorrupción. Cada integrante podrá nombrar un suplente en caso de ausencia.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -183,15 +225,15 @@ El CICOP invitará a sus sesiones a representantes de otras Dependencias y Entid
 
 El ejecutivo estatal emitirá el reglamento para el funcionamiento del CICOP.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 7.
 
-La Contraloría integrará el Registro Único de Contratistas y fijará los criterios y procedimientos de clasificación, de acuerdo a su especialidad, así como a su capacidad técnica y económica, verificando que los inscritos en el mismo estén al corriente en el cumplimiento de sus obligaciones fiscales en el Estado.
+La Secretaría Anticorrupción integrará el Registro Único de Contratistas y fijará los criterios y procedimientos de clasificación, de acuerdo con su especialidad, así como a su capacidad técnica y económica, verificando que los inscritos en el mismo estén al corriente en el cumplimiento de sus obligaciones fiscales en el Estado.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-La Contraloría hará del conocimiento de las Dependencias, las Entidades y el público en general, el listado de las personas inscritas en el Registro Único de Contratistas.
+El listado de las personas inscritas en el Registro Único de Contratistas deberá estar a disposición de cualquier interesado, en el portal de internet de la Secretaría Anticorrupción, salvo en aquellos casos que se trate de información de naturaleza reservada, en los términos establecidos en la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco.
 
 La clasificación a que se refiere este artículo deberá de considerarse por las Dependencias y Entidades en las convocatorias y en todos los procedimientos para la contratación de las Obras Públicas y Servicios relacionados con las mismas.
 
@@ -199,11 +241,11 @@ La clasificación a que se refiere este artículo deberá de considerarse por la
 
 Los ayuntamientos y demás entes públicos obligados tendrán acceso al Registro Único de Contratistas, a efecto de verificar que las personas que participen en los procesos de licitación correspondientes se hallen al corriente en el cumplimiento de sus obligaciones fiscales en el Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 8.
 
-La Contraloría, por sí misma o a petición de las Dependencias o Entidades suspenderá temporalmente el registro de los contratistas cuando:
+La Secretaría Anticorrupción, por sí misma o a petición de las Dependencias o Entidades suspenderá temporalmente el registro de los contratistas cuando:
 
 I.- Se les declare en estado de quiebra, suspensión de pagos o sujetos a concurso de acreedores;
 
@@ -213,11 +255,11 @@ III.- Se registre incumplimiento a obligaciones adquiridas con los diferentes ni
 
 IV.- Incumplan lo dispuesto en el artículo 50, segundo párrafo de esta Ley, respecto a la limitación de contratación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 9.
 
-La Contraloría, por sí misma o a petición de las Dependencias o Entidades, cancelará el registro de los contratistas cuando:
+La Secretaría Anticorrupción, por sí misma o a petición de las Dependencias o Entidades, cancelará el registro de los contratistas cuando:
 
 I.- La información que hubieren proporcionado para la inscripción o revalidación resulte falsa, o hayan actuado con dolo o mala fe en una licitación o ejecución de obra;
 
@@ -229,19 +271,25 @@ IV.- Hayan celebrado contratos en contravención a lo dispuesto por esta Ley, po
 
 V.- Se les declare incapacitados legalmente para contratar.
 
-###### Artículo 10.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-El gasto de la Obra Pública y los Servicios relacionados con la misma, se sujetará a lo previsto en el Presupuesto General de Egresos del Estado y de los Municipios y en la Ley Estatal de Presupuesto, Contabilidad y Gasto Público, así como en los convenios de obra que se celebren.
+###### Articulo 10.
+
+El gasto de la Obra Pública y los Servicios relacionados con la misma, se sujetará a lo previsto en el Presupuesto General de Egresos del Estado y de los Municipios y en la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Tabasco y sus Municipios, así como en los convenios de obra que se celebren.
 
 Las obras con cargo total o parcial a recursos provenientes de los fondos de aportaciones federales, registrados en las leyes estatales y los reglamentos municipales como ingresos propios, se sujetarán a lo previsto en esta Ley.
 
 Para los casos de obras con cargo total o parcial a fondos derivados de transferencias, reasignaciones o subsidios provenientes de las Dependencias y Entidades de la Administración Pública Federal, el Estado y los Municipios se sujetarán a la normatividad aplicable y a los convenios específicos que para cada programa se signen.
 
-La Secretaría y la Contraloría, dentro del ámbito de sus respectivas competencias, estarán facultadas para interpretar la Ley para efectos administrativos, siendo esta última quien dictará las disposiciones administrativas necesarias para el adecuado cumplimiento de ésta Ley, tomando en cuenta la opinión de las otras Dependencias e instancias estatales y municipales, cuando corresponda. Tales disposiciones, se publicarán en el Periódico Oficial.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+La Secretaría y la Secretaría Anticorrupción, dentro del ámbito de sus respectivas competencias, estarán facultadas para interpretar la Ley para efectos administrativos, siendo esta última quien dictará las disposiciones administrativas necesarias para el adecuado cumplimiento de esta Ley, tomando en cuenta la opinión de las otras Dependencias e instancias estatales y municipales, cuando corresponda. Tales disposiciones, se publicarán en el Periódico Oficial.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 11.
 
-Por conducto de la Contraloría, el Poder Ejecutivo Estatal fijará en las disposiciones reglamentarias los criterios de aplicación de la presente Ley, sin perjuicio de la intervención que a otras Dependencias y Entidades corresponda, conforme a esta u otras disposiciones legales. En el caso de los Ayuntamientos se sujetará a lo dispuesto en las facultades reglamentarias insertas en la Ley Orgánica de los Municipios del Estado de Tabasco.
+Por conducto de la Secretaría Anticorrupción, el Poder Ejecutivo Estatal fijará en las disposiciones reglamentarias los criterios de aplicación de la presente Ley, sin perjuicio de la intervención que a otras Dependencias y Entidades corresponda, conforme a esta u otras disposiciones legales. En el caso de los Ayuntamientos se sujetará a lo dispuesto en las facultades reglamentarias insertas en la Ley Orgánica de los Municipios del Estado de Tabasco.
 
 ###### Artículo 12.
 
@@ -253,9 +301,11 @@ Las facultades conferidas por esta Ley a los Titulares de las Dependencias podr�
 
 Corresponde a las Dependencias y Entidades llevar a cabo los procedimientos para contratar y ejecutar las obras públicas y servicios relacionados con las mismas.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 14.
 
-En los casos de Obras Públicas y Servicios relacionados con las mismas, financiados con créditos otorgados al Gobierno Estatal o Municipal, o con su aval, los procedimientos, requisitos y demás disposiciones para su contratación serán establecidos por la Secretaría y la Contraloría, aplicando en lo procedente lo dispuesto por esta Ley, debiendo precisarse en las convocatorias, invitaciones, bases y contratos correspondientes.
+En los casos del (sic) Obras Públicas y Servicios relacionados con las mismas, financiados con créditos otorgados al Gobierno Estatal o Municipal, o con su aval, los procedimientos, requisitos y demás disposiciones para su contratación serán los establecidos en la Ley de Deuda Pública del Estado de Tabasco y sus Municipios y en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 ###### Artículo 15.
 
@@ -279,7 +329,9 @@ Ninguna de las obras o servicios a que se refiere el párrafo anterior, podrá e
 
 Las controversias que se susciten entre las Dependencias y Entidades con los particulares con motivo de la aplicación de esta Ley, o de los contratos celebrados con base en ella, serán resueltas conforme a lo estipulado en el Título Octavo de este ordenamiento.
 
-Lo anterior sin perjuicio de lo establecido en los Tratados en que el Estado Mexicano sea parte. En todo caso, agotar previamente el recurso de inconformidad ante la Contraloría, que en la esfera administrativa, presenten los particulares en relación con los actos antes referidos.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Lo anterior sin perjuicio de lo establecido en los Tratados en que el Estado Mexicano sea parte. En todo caso, se deberá agotar previamente el recurso de inconformidad ante la Secretaría Anticorrupción o Contraloría en el ámbito de sus competencias que, en la esfera administrativa, presenten los particulares en relación con los actos antes referidos.
 
 Lo dispuesto por este artículo se aplicará a los organismos descentralizados, sólo cuando sus leyes no regulen de manera expresa la forma en que podrán resolver controversias.
 
@@ -299,11 +351,11 @@ En la vigilancia de la obra pública y los servicios relacionados con la misma, 
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 19.
 
-Para la planeación de la Obra Pública y de los Servicios relacionados con las mismas, las Dependencias y Entidades deberán:
+La planeación de la Obra Pública y de los Servicios relacionados con las mismas, que pretendan realizar las Dependencias y Entidades, deberá ejecutarse conforme a los plazos y calendarios presupuestales autorizados y ajustarse a:
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -311,13 +363,13 @@ I.- Cumplir los lineamientos establecidos en los Sistemas Nacional, Estatal y Mu
 
 II.- Considerar, de manera jerarquizada, las necesidades estatales, regionales, municipales y de beneficio social, ambiental y económico que estos representen, así como también tomar en cuenta en los proyectos las características ambientales, climáticas y geográficas de la región donde deba realizarse la obra pública;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-III.- Respetar las disposiciones legales y reglamentarias, tomando en consideración los programas de desarrollo urbano, social y económico con la intervención que le corresponde a la SOTOP, de conformidad con lo que establece el artículo 35, fracción X, de la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco; y en el ámbito municipal a la Dependencia o Entidad competente conforme a la Ley Orgánica de los Municipios del Estado de Tabasco;
+III.- Respetar las disposiciones legales y reglamentarias, tomando en consideración los programas de desarrollo urbano, social y económico con la intervención que le corresponde a la SOTOP, en los términos de la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco; y en el ámbito municipal a la Dependencia o Entidad competente conforme a la Ley Orgánica de los Municipios del Estado de Tabasco;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-IV.- Considerar, en cuanto a los programas de desarrollo urbano, los requisitos de áreas y predios para la obra pública, previa consulta con la SOTOP y con la Dirección de Obras, Asentamientos y Servicios Municipales del Ayuntamiento que corresponda. Así mismo, observar las políticas y programas de ordenamiento territorial y ecológico local, y de provisiones, usos, reservas y destinos de áreas y predios que se hubieren hecho, conforme a lo dispuesto por la Ley de Ordenamiento Sustentable del Territorio del Estado de Tabasco y su Reglamento;
+IV.- Considerar, en cuanto a los programas de desarrollo urbano, los requisitos de áreas y predios para la obra pública, previa consulta con la SOTOP y con la Dirección de Obras, Ordenamiento Territorial y Servicios Municipales del Ayuntamiento que corresponda: Así mismo, observar las políticas y programas de ordenamiento territorial y ecológico local, y de provisiones, usos, reservas y destinos de áreas y predios que se hubieren hecho, conforme a lo dispuesto por la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Tabasco;
 
 V.- Considerar la disponibilidad de recursos, con relación a las necesidades de la obra;
 
@@ -333,9 +385,17 @@ X.- Considerar los costos de mantenimiento y operación de la obra, así como su
 
 XI.- Considerar y prevenir los impactos ambientales que genere la construcción y operación de la obra, conforme a las leyes en la materia y restituyendo en la medida de lo posible y en cada caso, las condiciones originales;
 
-XII.- Tomar en cuenta, en su caso, la opinión de la comunidad sobre la obra así como la disposición para aportar económicamente o colaborar en la misma; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-XIII.- Prever las instalaciones, en su caso, para que las personas discapacitadas puedan acceder y transitar por los inmuebles que sean construidos, las que podrán consistir en rampas, pasamanos, asideras y otras instalaciones análogas o necesarias para facilitar su uso; así como las demás disposiciones exigidas por las leyes o reglamentos, en la materia.
+XII.- Tomar en cuenta, en su caso, la opinión de la comunidad sobre la obra así como la disposición para aportar económicamente o colaborar en la misma;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XIII.- Prever las instalaciones, en su caso, para que las personas discapacitadas puedan acceder y transitar por los inmuebles que sean construidos, las que podrán consistir en rampas, pasamanos, asideras y otras instalaciones análogas o necesarias para facilitar su uso; así como las demás disposiciones exigidas por las leyes o reglamentos, en la materia; y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XIV.- Los lineamientos de planeación de obras públicas y servicios relacionados con las mismas que emita la Secretaría Anticorrupción.
 
 > <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
@@ -361,29 +421,49 @@ Para tal efecto, las Dependencias y Entidades podrán contratar los servicios, d
 
 El programa de la Obra Pública indicará las fechas previstas de iniciación y terminación de todas sus fases, considerando las acciones previas a su iniciación, características ambientales, hidro-climatológicas y geográficas de la región donde deba realizarse.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 22.
 
-Las Dependencias y Entidades que realicen Obras Públicas y Servicios relacionados con las mismas, sea por contrato o por administración directa, así como los contratistas con quienes aquellas contraten, observarán las disposiciones que en materia de asentamientos humanos, desarrollo urbano y construcción rijan en el ámbito estatal y municipal.
+Las Dependencias y Entidades que realicen Obras Públicas y Servicios relacionados con las mismas, sea por contrato o por administración directa, así como los contratistas con quienes aquellas contraten, observarán las disposiciones que en materia de asentamientos humanos, ordenamiento territorial, desarrollo urbano y construcción rijan en el ámbito federal, estatal y municipal.
 
-Las Dependencias y Entidades, cuando sea el caso, previamente a la realización de los trabajos deberán tramitar y obtener de las autoridades competentes los dictámenes, permisos, licencias, autorizaciones, derechos de bancos de materiales, así como los derechos de propiedad, incluyendo derechos de vía y expropiación de inmuebles sobre los cuales se ejecutarán las Obras Públicas. En las bases de licitación se precisarán, en su caso, aquellos trámites que corresponderá realizar al contratista, siempre que estos no se contrapongan con los antes establecidos, mismos que se incluirán en el costo de los trabajos correspondientes.
+Las Dependencias y Entidades, cuando sea el caso, previamente a la realización de los trabajos deberán tramitar y obtener de las autoridades competentes los dictámenes, permisos, licencias, autorizaciones, derechos de bancos de materiales, así como los derechos de propiedad, incluyendo derechos de vía y expropiación de inmuebles sobre los cuales se ejecutarán las Obras Públicas.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Las Dependencias y Entidades, designarán al servidor público que cumpla con los requisitos establecidos en la normatividad aplicable, para que funja como Director Responsable de Obra, únicamente para los trámites referidos en el presente artículo, previo al procedimiento de contratación del que se trate, en los términos dispuesto por el Reglamento.,
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+En las bases del procedimiento de contratación de que se trate, se precisarán, en su caso, aquellos trámites que corresponderá realizar al contratista, siempre que estos no se contrapongan con los antes establecidos, mismos que se incluirán en el costo de los trabajos correspondientes.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 23.
 
-Las Dependencias y Entidades estarán obligadas a considerar los efectos que sobre el medio ambiente pueda causar la ejecución de la Obra Pública, con sustento en los estudios de impacto ambiental previstos por la Ley de Protección Ambiental del Estado de Tabasco. Los proyectos deberán incluir las obras necesarias para que se preserven o restituyan en forma equivalente las condiciones ambientales, cuando éstas pudieren deteriorarse, y se dará la intervención que corresponda a la SERNAPAM y a las Dependencias y Entidades federales y municipales competentes, para la emisión de los dictámenes respectivos.
+Las Dependencias y Entidades estarán obligadas a considerar los efectos que sobre el medio ambiente pueda causar la ejecución de la Obra Pública, con sustento en los estudios de impacto ambiental previstos por la Ley de Protección Ambiental del Estado de Tabasco. Los proyectos deberán incluir las obras necesarias para que se preserven o restituyan en forma equivalente las condiciones ambientales, cuando éstas pudieren deteriorarse, y se dará la intervención que corresponda a la Secretaría de Medio Ambiente y Desarrollo Sostenible y a las Dependencias y Entidades federales y municipales competentes para la emisión de los dictámenes respectivos.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 24.
 
-La programación de los recursos de las Obras Públicas y los Servicios relacionados con las mismas no podrán rebasar un ejercicio presupuestal, salvo que se cuente con autorización de la Secretaría, el COPLADET, la Tesorería Municipal, o su equivalente, según sea el caso, en los términos del artículo 25 de la Ley Estatal de Presupuesto, Contabilidad y Gasto Público.
+La programación de los recursos de las Obras Públicas y los Servicios relacionados con las mismas no podrán rebasar un ejercicio presupuestal, salvo que se cuente con autorización de la Secretaría, el COPLADET, la Tesorería Municipal, o su equivalente, según sea el caso, en los términos del artículo 29 de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Tabasco y sus Municipios.
 
 ###### Artículo 25.
 
 Las Dependencias y Entidades, podrán convocar, licitar, adjudicar o llevar a cabo Obras Públicas y Servicios relacionados con las mismas, una vez que cuenten con la aprobación o autorización de los recursos.
 
-Además, se requerirá contar con los estudios, proyectos, las normas y especificaciones de construcción y cotizaciones, con las cuales se actualizará el presupuesto vigente de la Dependencia, el programa de ejecución y, en su caso, el programa de suministros, teniendo lo anterior totalmente, o bien, con el avance en su desarrollo, que permita a los licitantes preparar una propuesta solvente y ejecutar ininterrumpidamente los trabajos hasta su conclusión.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-En casos excepcionales y previa aprobación del Titular, por escrito, las Dependencias y Entidades podrán convocar sin contar con dicha autorización.
+Además se requerirá contar, entre otros, con la ingeniería básica, los estudios, proyectos, especificaciones de construcción, normas de calidad y el programa de ejecución totalmente terminados, o bien, en el caso de obras públicas de gran complejidad, con un avance en su desarrollo que permita a los licitantes preparar una proposición solvente y ejecutar los trabajos hasta su conclusión en forma ininterrumpida, en concordancia con el programa de ejecución convenido.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+En casos excepcionales, la Secretaría en términos de las disposiciones aplicables podrá autorizar a las Dependencias y Entidades que convoquen o inicien los procedimientos de contratación de obras y servicios relacionados con las mismas, sin contar con la suficiencia presupuestaria. En caso de que otorgue dicha autorización la Dependencia o Entidad de que se trate debe tramitar las adecuaciones presupuestarias que correspondan para contar con la suficiencia presupuestaria previo a la emisión del fallo o a la adjudicación.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+En casos excepcionales, previo a la autorización de su presupuesto, las Dependencias y Entidades podrán solicitar a la Secretaría su aprobación para convocar, adjudicar y formalizar contratos cuya vigencia inicie en el ejercicio fiscal siguiente de aquél en el que se formalizan. Los referidos contratos estarán sujetos a la disponibilidad presupuestaria del año en el que se prevé el inicio de su vigencia, por lo que sus efectos estarán condicionados a la existencia de los recursos presupuestarios respectivos, sin que la no realización de la referida condición suspensiva origine responsabilidad alguna para las partes. Cualquier pacto en contrario a lo dispuesto en este párrafo se considerará nulo.
 
 ###### Artículo 26.
 
@@ -393,11 +473,11 @@ I.- Por contrato; y
 
 II.- Por administración directa, de acuerdo a lo establecido en el Título Quinto de la presente Ley.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 27.
 
-Las Dependencias y Entidades deberán enviar, posteriormente al acto de entrega-recepción, a la Secretaría de Administración, copia de los títulos de propiedad si los hubiere y los datos sobre la localización y construcción de las obras públicas, para que se incluyan en los registros de los bienes inmuebles del Estado o Municipio y, en su caso, para la inscripción en el Registro Público de la Propiedad y del Comercio del Estado.
+Las Dependencias y Entidades deberán enviar, posteriormente al acto de entrega-recepción, a la Secretaría, copia de los títulos de propiedad si los hubiere y los datos sobre la localización y construcción de las obras públicas, para que se incluyan en los registros de los bienes inmuebles del Estado o Municipio y, en su caso, para la inscripción en el Registro Público de la Propiedad y del Comercio del Estado.
 
 ###### Artículo 28.
 
@@ -411,17 +491,23 @@ Las Dependencias y Entidades pondrán a disposición de los interesados, a más 
 
 El citado programa será de carácter informativo, no implicará compromiso alguno de contratación y podrá ser adicionado, modificado, suspendido o cancelado, sin responsabilidad alguna para la Dependencia o Entidad de que se trate.
 
-Para efectos informativos, el COPLADET integrará y publicará los Programas Anuales de obras públicas y servicios relacionados con las mismas en el Periódico Oficial del Estado a más tardar el día anteriormente citado, para lo cual podrá requerir a las Dependencias y Entidades la información que sea necesaria respecto de las modificaciones a dichos programas.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Para efectos informativos, el COPLADET integrará y publicará los Programas Anuales de obras públicas y servicios relacionados con las mismas en el Periódico Oficial del Estado a más tardar el día anteriormente citado.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Asimismo, la Dependencia o Entidad deberá actualizar las modificaciones al Programa Anual de su competencia, a más tardar el último día hábil de cada trimestre y publicarlo en su página electrónica.
 
 ## TÍTULO TERCERO. De los Procedimientos de Contratación
 
 ### CAPÍTULO PRIMERO. Generalidades
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 30.
 
-Bajo su responsabilidad, las Dependencias y Entidades podrán contratar Obras Públicas y Servicios relacionados con las mismas, mediante los procedimientos que a continuación se señalan:
+Bajo su responsabilidad, las Dependencias y Entidades podrán contratar Obras Públicas y Servicios relacionados con las mismas, mediante los procedimientos de contratación que aseguren al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, siendo estos los siguientes:
 
 I.- Licitación Pública;
 
@@ -431,31 +517,39 @@ II.- Invitación a cuando menos tres personas; o
 
 III.- Adjudicación directa.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-En los procedimientos de contratación, deberán establecerse los mismos requisitos y condiciones para los participantes, especialmente por lo que se refiere a tiempo y lugar de entrega, plazos de ejecución, normatividad aplicable en términos de la Ley Federal sobre Metrología y Normalización, forma y tiempo de pago, penas convencionales, anticipos y garantías; debiendo las Dependencias y Entidades proporcionar a todos los interesados igual acceso a la información relacionada con dichos procedimientos, a fin de evitar favorecer a algún participante.
+En los procedimientos de contratación, deberán establecerse los mismos requisitos y condiciones para los participantes, especialmente por lo que se refiere a tiempo y lugar de entrega, plazos de ejecución, normatividad aplicable en términos de la Ley de Infraestructura de la Calidad, forma y tiempo de pago, penas convencionales, anticipos y garantías; debiendo las Dependencias y Entidades proporcionar a todos los interesados igual acceso a la información relacionada con dichos procedimientos, a fin de evitar favorecer a algún participante.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 Las Dependencias y Entidades determinarán, de acuerdo con lo establecido en el artículo 34 de esta Ley, el carácter estatal, nacional o internacional de los procedimientos de contratación y los criterios para determinar el contenido nacional de los trabajos a contratar, en razón de las reservas, medidas de transición u otros supuestos establecidos en los Tratados en que México sea parte.
 
-La Contraloría pondrá a disposición pública, a través de los medios de difusión electrónica que establezca, la información correspondiente a las convocatorias y bases de las licitaciones, en un plazo no menor a siete días naturales antes del cierre de la venta de bases y, en su caso, sus modificaciones, así como las actas de las juntas de aclaraciones y de visita a instalaciones, los fallos de dichas licitaciones o las cancelaciones de éstas, y los datos relevantes de los contratos adjudicados, sean por licitación, invitación o adjudicación directa.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+La Secretaría Anticorrupción pondrá a disposición pública, a través de los medios de difusión electrónica que establezca, la información correspondiente a las convocatorias y bases de las licitaciones, en un plazo no menor a siete días naturales antes del cierre de la venta de bases y, en su caso, sus modificaciones, así como las actas de las juntas de aclaraciones y de visita a instalaciones, los fallos de dichas licitaciones o las cancelaciones de éstas, y los datos relevantes de los contratos adjudicados, sean por licitación, invitación o adjudicación directa.
 
-Previa opinión del Comité Intersecretarial Consultivo de Obra Pública, la SOTOP podrá autorizar el procedimiento de adjudicación directa, en los casos y con las excepciones procedentes a las disposiciones de este artículo, previstas en el Reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Los titulares de las Dependencias y Entidades, o en su caso en quien deleguen esas facultades, podrán autorizar el procedimiento de adjudicación directa, en los casos y con las excepciones procedentes a las disposiciones de este artículo, previstas en el Reglamento de esta Ley.
 
 ###### Artículo 31.
 
 Los contratos de Obras Públicas y Servicios relacionados con las mismas, por regla general se adjudicarán a través de licitaciones públicas, mediante convocatoria, para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado, las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, de acuerdo con lo que establece la presente Ley.
 
-El sobre a que hace referencia este artículo podrá entregarse, a elección del licitante, en el lugar de celebración del acto de presentación y apertura de proposiciones; o bien, si así lo establece la convocante en las bases de los procedimientos de licitación, por medios de comunicación electrónica, conforme a las disposiciones administrativas que establezca previamente la Contraloría.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-En el caso de las proposiciones presentadas por medios de comunicación electrónica, el sobre será generado mediante el uso de tecnologías que resguarden la confidencialidad de la información de tal forma que sea inviolable, conforme a las disposiciones técnicas que al efecto establezca la Contraloría.
+El sobre a que hace referencia este artículo podrá entregarse, a elección del licitante, en el lugar de celebración del acto de presentación y apertura de proposiciones; o bien, si así lo establece la convocante en las bases de los procedimientos de contratación, por medios de comunicación electrónica, conforme a las disposiciones administrativas que establezca previamente la Secretaría Anticorrupción.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+En el caso de las proposiciones presentadas por medios de comunicación electrónica, el sobre será generado mediante el uso de tecnologías que resguarden la confidencialidad de la información de tal forma que sea inviolable, conforme a las disposiciones administrativas que al efecto establezca la Secretaría Anticorrupción.
 
 Las proposiciones presentadas deberán ser firmadas en forma autógrafa por los licitantes o sus apoderados; en el caso de que éstas sean enviadas a través de medios de comunicación electrónica, en sustitución de la firma autógrafa, se emplearán medios de identificación electrónica, los cuales producirán los mismos efectos que las leyes otorgan a los documentos correspondientes y, en consecuencia, tendrán el mismo valor probatorio.
 
-La Contraloría operará y se encargará del sistema de certificación de los medios de identificación electrónica que utilicen los licitantes y será responsable de ejercer el control de estos medios, salvaguardando la confidencialidad de la información que se remita por esta vía.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+La Secretaría Anticorrupción operará y se encargará del sistema de certificación de los medios de identificación electrónica que utilicen los licitantes y será responsable de ejercer el control de estos medios, salvaguardando la confidencialidad de la información que se remita por esta vía.
 
 ###### Artículo 32.
 
@@ -513,7 +607,9 @@ I.- El nombre, denominación o razón social de la Dependencia o Entidad convoca
 
 II.- La forma en que los licitantes deberán acreditar su existencia y capacidad legal, la experiencia y capacidad técnica y financiera, así como la especialidad requerida de acuerdo al Registro Único de Contratistas, que se exija para participar en la licitación, de acuerdo con las características, complejidad y magnitud de los trabajos;
 
-III.- La indicación de los lugares, fechas y horarios en que los interesados podrán obtener las bases de la licitación y, en su caso, el costo y forma de pago de las mismas. Cuando las bases impliquen un costo, éste será fijado sólo en razón de la recuperación de las erogaciones por publicación de la convocatoria y de la reproducción de los documentos que se entreguen; los interesados podrán revisarlas previamente a su pago, el cual será requisito para participar en la licitación. Igualmente, los interesados podrán consultar y adquirir las bases de las licitaciones por los medios de difusión electrónica que establezca la Contraloría;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+III.- La indicación de los lugares, fechas y horarios en que los interesados podrán obtener las bases de la licitación y, en su caso, el costo y forma de pago de estas. Cuando las bases impliquen un costo, éste será fijado sólo en razón de la recuperación de las erogaciones por publicación de la convocatoria y de la reproducción de los documentos que se entreguen; los interesados podrán revisarlas previamente a su pago, el cual será requisito para participar en la licitación o procedimiento de que se trate. Igualmente, los interesados podrán consultar y adquirir, las bases de las licitaciones por los medios de difusión electrónica que establezca la Secretaría Anticorrupción;
 
 IV.- La fecha, hora y lugar de celebración del acto de presentación y apertura de proposiciones y de la visita al sitio de realización de los trabajos;
 
@@ -529,9 +625,17 @@ IX.- Los porcentajes de los anticipos que se otorgarán;
 
 X.- La indicación de que no podrán participar las personas que se encuentren en los supuestos del artículo 54 de esta Ley;
 
-XI.- Determinación, en su caso, del porcentaje de contenido nacional; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-XII.- Los demás requisitos generales que en su momento dicte la autoridad competente, previa consulta al Comité de Obra Pública, buscando una equidad y transparencia en el procedimiento.
+XI.- Determinación, en su caso, del porcentaje de contenido nacional;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XII.- Precisar que será requisito el que los licitantes entreguen dentro del sobre una declaración, bajo protesta de decir verdad, de no encontrarse en alguno de los supuestos establecidos por los artículos 54 y 81 de esta Ley. Tratándose de personas jurídicas colectivas, su representante legal deberá de manifestar con el escrito antes referido que tanto el licitante, como los socios o asociados, no se encuentran inhabilitados; y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XIII.- Los demás requisitos generales que en su momento dicte la autoridad competente, previa consulta al Comité de Obra Pública, buscando una equidad y transparencia en el procedimiento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -539,7 +643,9 @@ XII.- Los demás requisitos generales que en su momento dicte la autoridad compe
 
 Las convocatorias se publicarán, por una sola vez en el Periódico Oficial y por medios electrónicos.
 
-En todos los casos a que se refiere este artículo, se deberán hacer las publicaciones y la difusión por medios electrónicos, con un mínimo de siete días naturales antes de la fecha de cierre de venta de las bases correspondientes. El control de la difusión por medios electrónicos, estará a cargo de la Contraloría.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+En todos los casos a que se refiere este artículo, se deberán hacer las publicaciones y la difusión por medios electrónicos, con un mínimo de siete días naturales antes de la fecha de cierre de venta de las bases correspondientes. El control de la difusión por medios electrónicos, estará a cargo de la Secretaría Anticorrupción.
 
 ###### Artículo 37.
 
@@ -555,7 +661,13 @@ III.- Fecha, hora y lugar de la junta de aclaraciones o modificaciones a las bas
 
 IV.- Fecha, hora y lugar para la presentación y apertura de las propuestas, comunicación del fallo y firma del contrato;
 
-V.- Señalamiento de que será causa de descalificación el incumplimiento de alguno de los requisitos establecidos en las bases de la licitación, así como la comprobación de que algún licitante ha acordado con otro u otros elevar el costo de los trabajos, o cualquier otro acuerdo que tenga como fin obtener una ventaja sobre los demás licitantes;
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+V.- Señalamiento de que será causa de descalificación el incumplimiento de alguno de los requisitos establecidos en las bases de la licitación, así como la comprobación de que algún licitante ha acordado con otro u otros elevar el costo de los trabajos, o cualquier otro acuerdo que tenga como fin obtener una ventaja sobre los demás licitantes.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+En el caso de que no se haya señalado de manera expresa la causa de desechamiento, no será procedente el desechamiento de la proposición;
 
 VI.- Indicación de que las propuestas se presentarán en idioma español y en su caso, el idioma adicional que señale la convocatoria, con su traducción al idioma español;
 
@@ -583,15 +695,21 @@ XV.- Datos sobre la garantía, así como, en su caso, porcentajes, forma y térm
 
 XVI.- Lugar, fecha y hora para la visita al sitio de realización de los trabajos, la que se deberá llevar a cabo previa a la junta de aclaraciones, siendo ambas obligatorias, con un mínimo de nueve días naturales antes de la apertura de la propuesta y previo al cierre de venta de bases;
 
-XVII.- Información específica sobre las partes de los trabajos que podrán subcontratarse;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XVII.- Información específica sobre las partes de los trabajos que podrán subcontratarse, sin que sea factible subcontratar más del cuarenta y nueve por ciento del importe total del contrato;
 
 XVIII.- Plazo de ejecución de los trabajos determinados en días naturales, indicando la fecha de inicio de los mismos;
 
 XIX.- Modelo de contrato, a que se sujetan las partes;
 
-XX.- Tratándose de contratos a precio alzado o llave en mano, las condiciones y forma de pago;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-XXI.- Tratándose de contratos a precios unitarios, en su parte correspondiente, el procedimiento de ajuste de costos que deberá aplicarse;
+XX.- Tratándose de contratos a precio alzado, las condiciones y forma de pago;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XXI.- Tratándose de contratos a precios unitarios y en los mixtos en su parte correspondiente el procedimiento de ajuste de costos que deberá aplicarse;
 
 XXII.- El catálogo de conceptos, cantidades y unidades de medición, que debe ser firmado por el responsable del proyecto;
 
@@ -599,13 +717,33 @@ XXIII.- La relación de conceptos de trabajo más significativos, de los cuales 
 
 XXIV.- La sanción por falta de firma del contrato;
 
-XXV.- Términos y condiciones de entrega de propuesta; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-XXVI.- Los demás requisitos generales que deberán cumplir, según las características, complejidad y magnitud de los trabajos, previa consulta al Comité de Obra Pública, los cuales no deberán limitar la libre participación de los interesados.
+XXV.- Términos y condiciones de entrega de propuesta;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XXVI.- Precisar que será requisito el que los licitantes presenten un escrito en el que manifiesten bajo protesta de decir verdad, que al resultar ganador en el procedimiento de contratación de que se trate, no podrá subcontratar a otro licitante que haya participado en el mismo procedimiento;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XXVII.- Precisar que será requisito que los licitantes presenten un escrito en el que manifiesten que por sí mismos, o a través de interpósita persona, se abstendrán de adoptar conductas para que los servidores públicos de la Dependencia o Entidad, induzcan o alteren las evaluaciones de las propuestas.
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XXVIII.- Precisar que será requisito que los licitantes presenten un escrito en el que manifiesten, que no ejecuta con otro participante acciones que impliquen o tengan por objeto obtener un beneficio, ventaja indebida en el procedimiento o sobre los demás licitantes, u ocasionar un daño a la Hacienda Pública, o al patrimonio de los entes públicos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XXIX.- Los demás requisitos generales que deberán cumplir, según las características, complejidad y magnitud de los trabajos, previa consulta al Comité de Obra Pública, los cuales no deberán limitar la libre participación de los interesados.
 
 Si las modificaciones a las bases de licitación, por su magnitud lo ameritan, debidamente fundados los motivos, se convocará a una nueva licitación.
 
 En los casos de trabajos financiados con créditos otorgados al Gobierno Estatal o Municipal, según sea el caso, los requisitos y demás disposiciones para su contratación deberán considerar los términos de la Ley de Deuda Pública del Estado y Municipios que sean aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Tratándose de las obras establecidas en el artículo 3 fracción IV de la Ley bajo la modalidad de contrato mixto, y que no se cuente con el Proyecto Ejecutivo, las Dependencias o Entidades podrán establecer en las bases que las partidas que serán consideradas a precio unitario, se presenten para su valoración cumpliendo los requisitos para la modalidad de precio alzado, sujeto a su desarrollo conforme al Proyecto Ejecutivo contratado y autorizado. El contratista no podrá iniciar los trabajos respectivos hasta en tanto se haya autorizado parcial o totalmente los catálogos de conceptos que permitan la ejecución de la obra bajo la modalidad de precio unitario. Las autorizaciones respectivas serán formalizadas en el contrato mediante convenios.
 
 ###### Artículo 38.
 
@@ -677,13 +815,17 @@ VI.- Se levantará un acta, en la que se harán constar las propuestas aceptadas
 
 VII.- Se señalarán fecha, lugar y hora en que se dará a conocer el fallo de la licitación; la fecha deberá quedar comprendida dentro de los diez días naturales siguientes contados a partir de la fecha de apertura de las propuestas, y podrá diferirse por única vez, siempre que el nuevo plazo fijado no exceda de veinte días naturales contados a partir del plazo establecido originalmente para el fallo;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-VIII.- En junta pública se dará a conocer el fallo de la licitación, a la que libremente podrán asistir los licitantes que hubieren participado en la presentación y apertura de propuestas. En sustitución de esta junta, la convocante podrá optar por comunicar por escrito el fallo de la licitación a cada uno de los licitantes, siempre que se haga a todos ellos en la misma fecha establecida para ello; y
+VIII.- En junta pública se dará a conocer el fallo de la licitación, a la que libremente podrán asistir los licitantes que hubieren participado en la presentación y apertura de propuestas. En sustitución de esta junta, la convocante podrá optar por comunicar por escrito el fallo de la licitación a cada uno de los licitantes, siempre que se haga a todos ellos en la misma fecha establecida para ello;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-IX.- En el mismo acto de fallo, o de manera adjunta a la comunicación referida en la fracción anterior, la convocante informará por escrito a los licitantes las razones por las cuales su propuesta, en su caso, no resultó ganadora; asimismo, se levantará el acta de fallo de la licitación, que firmarán los participantes, a quienes se entregará copia de la misma; la falta de algunas firmas no invalidará su contenido y efectos;
+IX.- En el mismo acto de fallo, o de manera adjunta a la comunicación referida en la fracción anterior, la convocante informará por escrito a los licitantes las razones por las cuales su propuesta, en su caso, no resultó ganadora; asimismo, se levantará el acta de fallo de la licitación, que firmarán los participantes, a quienes se entregará copia de la misma; la falta de algunas firmas no invalidará su contenido y efectos; y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+X.- Los licitantes sólo podrán presentar una proposición en cada procedimiento de contratación; tratándose de representantes legales de los licitantes personas jurídicas colectivas, únicamente podrán presentar proposiciones en representación de un solo licitante. Una vez iniciado el acto de presentación y apertura de proposiciones, las ya presentadas no podrán ser modificadas, retiradas o dejarse sin efecto por los licitantes.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -699,9 +841,9 @@ Para hacer la evaluación de las proposiciones las Dependencias y Entidades debe
 
 En tal sentido se dará conocimiento al Comité de la Obra Pública, previamente establecido conforme a lo dispuesto en esta Ley y de acuerdo a las funciones que señale el Reglamento.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-Tratándose de obras públicas, deberán verificar, entre otros aspectos, el cumplimiento de las condiciones legales exigidas al licitante; que los recursos propuestos por el licitante sean los necesarios para ejecutar satisfactoriamente, conforme al programa de ejecución, las cantidades de trabajo establecidas; y que el análisis, cálculo e integración de los precios sean acordes con las condiciones de costos vigentes en la zona o región donde se ejecuten los trabajos. En su caso, podrán utilizarse mecanismos de puntos y porcentajes en su evaluación.
+Tratándose de servicios relacionados con las obras públicas, deberán verificar, entre otros aspectos, el cumplimiento de las condiciones legales exigidas al licitante; que el personal propuesto por el licitante cuente con la experiencia y capacidad, así como con los recursos necesarios para la realización de los trabajos solicitados por la convocante en los respectivos términos de referencia; y que los tabuladores de sueldos, la integración de las plantillas y el tiempo de ejecución correspondan al servicio ofertado. Atendiendo a las características propias de cada servicio, siempre y cuando se demuestre su conveniencia, se utilizarán mecanismos de puntos y porcentajes para evaluar las propuestas.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -717,21 +859,25 @@ La convocante emitirá un dictamen fundado y motivado que servirá como base par
 
 Contra la resolución que contenga el fallo, los licitantes podrán inconformarse en los términos del Título Octavo de esta Ley.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Cuando la convocante detecte en la proposición un error mecanográfico, aritmético o de cualquier otra naturaleza que no afecte el resultado de la evaluación, podrá llevar a cabo su rectificación siempre que la corrección no implique la modificación de precios unitarios o importes de actividades de obra o servicio en precio alzado o de ambos, en este supuesto, la convocante no deberá desechar la proposición y dejará constancia de la corrección efectuada en la documentación soporte utilizada para emitir el fallo que se integrará al expediente de contratación respectivo, asentando los datos que para el efecto proporcione la o las personas servidoras públicas responsables de la evaluación.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 43.
 
-Las Dependencias y Entidades no adjudicarán el contrato cuando, a su juicio, las posturas presentadas no reúnan los requisitos de las bases de la licitación o sus precios unitarios no fueren aceptables por razones de mercado o las propuestas rebasen el techo financiero aprobado, debiendo expedir una segunda convocatoria.
+Las Dependencias y Entidades no adjudicarán el contrato cuando, a su juicio, las posturas presentadas no reúnan los requisitos de las bases de la licitación o sus precios unitarios no fueren aceptables por razones de mercado o las propuestas rebasen el presupuesto base de la Dependencia o Entidad. Las Dependencias y Entidades podrán cancelar una licitación por caso fortuito o fuerza mayor cuando existan circunstancias justificadas, que provoquen la extinción de la necesidad de contratar los trabajos, o que de continuarse con el procedimiento de contratación se pudiera ocasionar un daño o perjuicio a la propia Dependencia o Entidad. La determinación de dar por cancelada la licitación, deberá precisar el acontecimiento que motiva la decisión, la cual se hará del conocimiento de los licitantes y no será procedente contra ella recurso alguno, sin embargo, podrán interponer la inconformidad en términos del Título Octavo, Capítulo Primero de esta Ley.
 
-La convocante podrá cancelar una licitación por caso fortuito o de fuerza mayor, lo cual se notificará por el mismo medio en que se convocó.
+Salvo en las cancelaciones por caso fortuito y fuerza mayor, la Dependencia o Entidad cubrirá a los licitantes los gastos no recuperables que, en su caso, procedan en términos de lo dispuesto por el Reglamento de esta Ley.
 
 ### CAPÍTULO CUARTO. De las Excepciones a la Licitación Pública
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 44.
 
-Las Dependencias y Entidades, bajo su responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos a través de las modalidades de invitación a cuando menos cinco personas o de adjudicación directa.
+Las Dependencias y Entidades, bajo su responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos a través de las modalidades de invitación a cuando menos tres personas o de adjudicación directa.
 
 La opción que las Dependencias y Entidades ejerzan deberá motivarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
 
@@ -745,7 +891,9 @@ III.- El nombre o razón social y nacionalidad del contratista; y
 
 IV.- En forma explícita, las razones técnicas, legales y económicas que den lugar al ejercicio de la opción.
 
-En estos casos, el Titular del área responsable, o en quien delegue dicha facultad, a más tardar el último día hábil de cada mes, enviará a la Secretaría y a la Contraloría, un informe relativo a las contratos formalizados en el mes calendario inmediato anterior, acompañando copia del dictamen aludido en el tercer párrafo de este artículo.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+En estos casos, el Titular del área responsable, o en quien delegue dicha facultad, a más tardar el último día hábil de cada mes, enviará a la Secretaría y a la Secretaría Anticorrupción o Contraloría según corresponda, un informe relativo a los contratos formalizados en el mes calendario inmediato anterior, acompañando copia del dictamen aludido en el tercer párrafo de este artículo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -777,6 +925,10 @@ VI.- Se hubiere rescindido el contrato respectivo por causas imputables al contr
 
 VII.- Se haya declarado desierta una licitación pública, siempre que se mantengan los requisitos establecidos en la convocatoria respectiva;
 
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+VII Bis.- En el supuesto de que un procedimiento (sic) contratación bajo la modalidad de invitación a cuando menos tres personas haya sido declarado desierto, la persona titular del área responsable de la contratación en la Dependencia o Entidad, o en su caso en quien delegue esa facultad, podrá llevar a cabo el procedimiento de contratación a través de la adjudicación directa, siempre que no se modifiquen los requisitos establecidos originalmente.
+
 VIII.- Se trate de trabajos de conservación, mantenimiento, restauración, reparación y demolición de inmuebles, en los que no sea posible precisar su alcance, establecer el catálogo de conceptos, cantidades de trabajo, determinar las especificaciones correspondientes o elaborar el programa de ejecución;
 
 > <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2018)</small>
@@ -799,6 +951,14 @@ XI.- SE TRATE DE OBRAS Y SERVICIOS RELACIONADOS CON LAS MISMAS, QUE SEAN NECESAR
 
 XII.- SE TRATE DE OBRAS Y SERVICIOS RELACIONADOS CON LAS MISMAS QUE SEAN CONVENIDOS CON LA FEDERACIÓN O CON LAS EMPRESAS PRODUCTIVAS DEL ESTADO PARA LA REALIZACIÓN DE PROYECTOS ESTRATÉGICOS RESPECTO A LAS ACTIVIDADES EN MATERIA ENERGÉTICA PREVISTOS POR LAS LEYES DE LA MATERIA.
 
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XIII.- Se trate del reconocimiento de trabajos extraordinarios no considerados en los alcances de los contratos a precio alzado; y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XIV.- En el supuesto que no se hubiera firmado el contrato y no se cumplan las condiciones para la asignación conforme a lo establecido en el artículo 50 tercer párrafo de esta Ley.
+
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 En todo caso se convocará a la o las personas que cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que sean necesarios, de acuerdo a las características de los trabajos a ejecutar y se apruebe previamente por el Comité de la Obra Pública.
@@ -815,13 +975,19 @@ En el supuesto de que en dos ocasiones un procedimiento de invitación a cuando 
 
 CON LA EXCEPCIÓN DE LOS CASOS PREVISTOS EN EL ARTÍCULO 45, FRACCIONES IV, XI Y XII DE ESTA LEY, las Dependencias y Entidades, bajo su responsabilidad, podrán contratar Obra Pública y Servicios relacionados con las mismas, a través de los procedimientos de adjudicación directa o invitación a cuando menos tres personas, cuando el importe de cada operación no exceda los montos máximos que se establezcan en el Reglamento de esta Ley en la inteligencia de que, en ningún caso, este importe deberá fraccionarse para quedar comprendido en los supuestos a que se refiere este artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 47.
 
-Los procedimientos de contratación mediante invitación a cuando menos cinco personas en los casos de los artículos 30, párrafo primero, fracción II, 45 y 46, de la presente Ley, se sujetarán a lo siguiente:
+Los procedimientos de contratación mediante invitación a cuando menos tres personas en los casos de los artículos 30, párrafo primero, fracción II, 45 y 46, de la presente Ley, se sujetarán a lo siguiente:
 
 I.- El acto de presentación y apertura de propuestas se llevará a cabo en una etapa, para lo cual la apertura del sobre deberá hacerse con la presencia de los correspondientes licitantes; la falta de asistencia de uno, varios o todos los licitantes, no será motivo de suspensión de este acto, en la hora y fecha señalada, siempre que hayan sido notificados;
 
 II.- Para llevar a cabo la adjudicación correspondiente, se deberá contar con un mínimo de tres propuestas que hubiesen sido aceptadas en los términos del artículo 42;
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+En caso de que no se presenten el mínimo de proposiciones señalado en el párrafo anterior, se podrá optar por declarar desierta la invitación, o bien, continuar con el procedimiento y evaluar las proposiciones presentadas. En caso de que sólo se haya presentado una propuesta, la convocante podrá adjudicarle el contrato si después de la evaluación resulta solvente porque reúne las condiciones requeridas;
 
 III.- En las bases o invitaciones se indicarán, según la naturaleza, monto y complejidad de los trabajos, y aquellos aspectos que correspondan al artículo 37;
 
@@ -831,23 +997,85 @@ V.- Los plazos para la presentación de las propuestas se fijarán para cada pro
 
 VI.- A las demás disposiciones de esta Ley que, en lo conducente, resulten aplicables.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 47 Bis.
+
+El procedimiento de adjudicación directa que se realice bajo los supuestos a que se refieren los artículos 44 y 46 de esta Ley, inicia con la solicitud de la cotización y termina con la notificación de la adjudicación del contrato, o bien con la determinación de la Dependencia o Entidad de no realizar la adjudicación.
+
+El cotizante presentará junto con su cotización, el escrito para acreditar su existencia legal y personalidad jurídica para efectos de la suscripción de las cotizaciones.
+
+Previo al inicio del procedimiento de adjudicación directa, bajo alguno de los supuestos a que se refieren los artículos 44 y 46 de esta Ley, en la solicitud de la cotización se deberá establecer el plazo que tendrá el cotizante para proporcionar la respuesta correspondiente, así como el plazo para la entrega de la misma, de igual forma entregarse las bases del procedimiento de contratación, que contendrán como mínimo lo dispuesto en el artículo 37 de esta Ley, no siendo aplicable las fracciones III, IV, V, VIII y XVI.
+
+El procedimiento de adjudicación directa se regirá por lo siguiente:
+
+I. La cotización que reciba la Dependencia o Entidad, deberá ratificar los términos y condiciones establecidos en las bases de dicha modalidad y validarse con la firma del cotizante. El cotizante presentará domicilio o un medio electrónico para oír y recibir las notificaciones;
+
+II. La cotización deberá sostenerse por el cotizante, y éste se encontrará obligado por la misma por un plazo no inferior a veinte días hábiles, contados a partir del día siguiente a la fecha de recepción de la cotización.
+
+La persona titular del área responsable de la contratación deberá evaluar la cotización y emitir un dictamen en el cual se hará constar el análisis que acredita su solvencia técnica y económica para la adjudicación del contrato;
+
+III. La Dependencia o Entidad notificará al cotizante, la aceptación de la misma, debiendo señalar la fecha para la firma del contrato, misma que deberá quedar comprendida dentro de los quince días naturales siguientes al de la notificación a que se refiere esta fracción.
+
+En caso de que la Dependencia o Entidad contratante no notifique su aceptación dentro de los quince días naturales siguientes en que se recibió la cotización, se entenderá que no aceptó dicha cotización, concluyendo el procedimiento;
+
+IV. La solicitud de cotización no genera obligación para la Dependencia o Entidad contratante de celebrar contrato con la persona a la que le ha sido solicitada la misma, ni otorga a ésta ningún derecho para la celebración del contrato, ni para percibir contraprestación alguna; y
+
+V. Las Dependencias o Entidades contratantes, para fomentar la participación de las micro, pequeñas y medianas empresas, podrán aceptar una cotización conjunta cuando las que la presenten tengan tal carácter. Para lo anterior, deberán presentar el convenio en los términos a que se refiere el artículo 40 de esta Ley.
+
+En la cotización conjunta solo podrán participar las personas que hayan recibido la solicitud de cotización por parte de la convocante.
+
 ## TÍTULO CUARTO. De los Contratos
 
 ### CAPÍTULO PRIMERO. De la Contratación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 48.
 
-Para los efectos de esta Ley, los contratos de Obras Públicas y de Servicios relacionados con las mismas podrán ser de dos tipos:
+Para los efectos de esta Ley, las condiciones de pago en los contratos de Obras Públicas y de Servicios relacionados con las mismas podrán ser de tres tipos:
 
-I.- Sobre la base de precios unitarios, en cuyo caso el importe de la remuneración o pago total que deba cubrirse al contratista se hará por unidad de concepto de trabajo terminado; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+I.- Sobre la base de precios unitarios, en cuyo caso el importe de la remuneración o pago total que deba cubrirse al contratista se hará por unidad de concepto de trabajo terminado.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Los precios unitarios que se pacten permanecerán fijos durante la vigencia del contrato;
 
 II.- A precio alzado, en cuyo caso el importe de la remuneración o pago total fijo que deba cubrirse al contratista, será por los trabajos totalmente terminados y ejecutados en el plazo establecido.
 
 Las proposiciones que presenten los contratistas para la celebración de estos contratos, tanto en sus aspectos técnicos como económicos, deberán estar desglosadas por lo menos en cinco actividades principales.
 
-Las Dependencias y Entidades podrán incorporar en las bases de licitación las modalidades de contratación que tiendan a garantizar al Estado las mejores condiciones en la ejecución de los trabajos, siempre que con ello no desvirtúen el tipo de contrato que se haya licitado.
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-Los trabajos cuya ejecución comprendan más de un ejercicio presupuestal deberán formularse en un solo contrato, por la vigencia que resulte necesaria para la ejecución de los trabajos, quedando únicamente sujetos a la autorización presupuestal para cada ejercicio, en los términos del artículo 25 de la Ley Estatal de Presupuesto, Contabilidad y Gasto Público.
+Las actividades principales que se pacten permanecerán fijas durante la vigencia del contrato; y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+III.- Mixtos, cuando contengan una parte de los trabajos sobre la base de precios unitarios y otra, a precio alzado. Las Dependencias y Entidades que celebren contratos mixtos deberán ajustarse a las disposiciones que se establecen en la presente Ley para los contratos sobre la base de precios unitarios y para los contratos a precio alzado en su parte correspondiente. En el contrato mixto se indicarán las actividades que correspondan a cada tipo de contrato, a efecto de identificar de forma precisa lo que se ejecutará de acuerdo a la condición de pago establecida.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Las Dependencias y Entidades podrán incorporar en las bases del procedimiento de contratación del que se trate, la condición de pago que tiendan a garantizar al Estado las mejores condiciones en la ejecución de los trabajos.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Los trabajos cuya ejecución comprendan más de un ejercicio presupuestal deberán formularse en un solo contrato, por la vigencia que resulte necesaria para la ejecución de los trabajos, y las erogaciones correspondientes deberán incluirse en los subsecuentes Presupuestos de Egresos, en los términos del artículo 29 de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Tabasco y sus Municipios.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Los contratos a los que se refiere el párrafo anterior podrán celebrarse bajo la modalidad de pago a plazos preestablecidos, realizados en amortizaciones periódicas programadas durante más de un ejercicio fiscal. Bajo esta modalidad se podrán emitir certificados de avance de obra con base en las estimaciones autorizadas, en los cuales se documentarán las fechas y montos de pago, incluyendo el costo por diferimiento, en su caso, así como los términos y condiciones a los que estarán sujetos.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Los compromisos plurianuales derivados de los contratos de obras públicas y servicios relacionados con las mismas, bajo la modalidad de pagos a plazos preestablecidos tendrán preferencia respecto a otras previsiones de gasto, debiéndose incluir en los presupuestos de egresos de los ejercicios subsecuentes hasta la liquidación total de los contratos respectivos.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 48 Bis.
+
+En los casos de obras de gran complejidad o aquellas que se refiere la fracción VIII del artículo 45 de esta Ley, con excepción de los trabajos de mantenimiento y a los que no sea posible determinar con precisión el alcance y cantidades de trabajo, así como la totalidad de sus especificaciones, y por consiguiente tampoco resulte factible definir con exactitud un catálogo de conceptos, se podrán celebrar contratos sobre la base de precios unitarios, siempre y cuando, para cada caso específico, se definan una serie de precios unitarios y una relación de insumos que sirvan de base o referencia para la ejecución de los trabajos y para la conformación de los conceptos no previstos de origen que se requieran de acuerdo a las necesidades de la obra. De resultar estrictamente necesario, la Dependencia o Entidad podrá ordenar el inicio en la ejecución de los trabajos de manera previa a la celebración del contrato.
 
 ###### Artículo 49.
 
@@ -867,7 +1095,9 @@ VI.- La forma y términos de garantizar la correcta inversión de los anticipos 
 
 VII.- Los plazos, forma y lugar de pago de las estimaciones de trabajos ejecutados y, cuando corresponda, de los ajustes de costos;
 
-VIII.- Las penas convencionales por atraso en la ejecución de los trabajos por causas imputables a los contratistas, determinadas únicamente en función de los trabajos no ejecutados conforme al programa convenido, las que en ningún caso podrán ser superiores, en su conjunto, al monto de la garantía de cumplimiento. Así como los términos, forma y porcentajes para aplicar las penas convencionales;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+VIII.- Las penas convencionales por atraso en la ejecución de los trabajos por causas imputables a los contratistas, determinadas únicamente en función de los trabajos no ejecutados conforme al programa convenido, las que en ningún caso podrán ser superiores, en su conjunto, al monto de la garantía de cumplimiento, asimismo las penas convencionales por la omisión de la presentación de las estimaciones fuera del plazo referido en el artículo 57 de la Ley. Así como los términos, forma y porcentajes para aplicar las penas convencionales;
 
 IX.- Los términos en que el contratista, en su caso, reintegrará las cantidades que, en cualquier forma, hubiere recibido en exceso por la contratación o durante la ejecución de los trabajos, para lo cual se utilizará el procedimiento establecido en el artículo 58 de este ordenamiento;
 
@@ -875,17 +1105,29 @@ X.- El procedimiento de ajuste de costos que deberá ser el determinado desde la
 
 XI.- Las causales y el procedimiento mediante los cuales la Dependencia o Entidad podrá dar por rescindido el contrato en los términos del artículo 64 de esta Ley;
 
-XII.- La descripción pormenorizada de los trabajos que se deban ejecutar, debiendo acompañar como parte integrante del contrato, en el caso de las obras, los proyectos, planos, especificaciones, programas y presupuestos; tratándose de servicios, los términos de referencia; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-XIII.- Los procedimientos mediante los cuales las partes, entre sí, resolverán las discrepancias futuras y previsibles, exclusivamente sobre problemas específicos de carácter técnico y administrativo, que de ninguna manera, impliquen una audiencia de conciliación.
+XII.- La descripción pormenorizada de los trabajos que se deban ejecutar, debiendo acompañar como parte integrante del contrato, en el caso de obras, los proyectos, planos, especificaciones, programas y presupuestos; tratándose de servicios, los términos de referencia;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XIII.- Los procedimientos mediante los cuales las partes, entre sí, resolverán las discrepancias futuras y previsibles, exclusivamente sobre problemas específicos de carácter técnico y administrativo, que de ninguna manera, impliquen una audiencia de conciliación;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XIV.- La obligación del contratista para mantenerse al corriente de sus obligaciones fiscales durante la vigencia del contrato, para lo cual deberá acreditar la opinión u opiniones positivas que le emita la autoridad fiscal competente, en los plazos que le determine la Dependencia o Entidad contratante; y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XV.- Precisar que la vigencia del contrato iniciará con la suscripción del mismo por el contratista y finalizará cuando se firme el acta de extinción de derechos y obligaciones de las partes.
 
 Para los efectos de esta Ley, el contrato, sus anexos y la bitácora de los trabajos son los instrumentos que vinculan a las partes en sus derechos y obligaciones.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 50.
 
-La adjudicación del contrato obligará a la Dependencia o Entidad y a la persona en quien hubiere recaído, a formalizar el documento relativo dentro de los diez días naturales después de la entrega de las garantías correspondientes.
+La notificación del fallo obligará a la Dependencia o Entidad y a la persona física o jurídica colectiva a quien se haya adjudicado, a firmar el contrato, en la fecha, hora y lugar previstos en el propio fallo, o bien en la convocatoria a la licitación pública y en defecto de tales previsiones, dentro de los quince días naturales siguientes al de la citada notificación.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -901,11 +1143,11 @@ El contratista a quien se adjudique el contrato, no podrá hacerlo ejecutar por 
 
 Los derechos y obligaciones que se deriven de los contratos no podrán cederse en forma parcial o total en favor de cualquier otra persona, con excepción de los derechos de cobro sobre las estimaciones por trabajos ejecutados, en cuyo caso se deberá contar con el consentimiento de la Dependencia o Entidad de que se trate.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 51.
 
-Los contratistas que celebren los contratos a que se refiere esta Ley, a través de cheque certificado no negociable con la leyenda "para abono en cuenta del beneficiario", a nombre de la Secretaría de Planeación y Finanzas del Gobierno del Estado de Tabasco; fianzas expedidas por afianzadoras de cobertura nacional legalmente constituidas, para lo cual deberá estarse a lo establecido en el Reglamento de esta Ley y demás normatividad aplicable; seguro de caución conforme a la Ley de Instituciones de Seguros y de Fianzas vigente y demás normatividad aplicable; así como cualquier otra garantía, siempre que sea de fácil ejecución, deberán garantizar:
+Los contratistas que celebren los contratos a que se refiere esta Ley, a través de cheque certificado no negociable con la leyenda "para abono en cuenta del beneficiario", a nombre de la Secretaría de Administración y Finanzas del Gobierno del Estado de Tabasco; fianzas expedidas por afianzadoras de cobertura nacional legalmente constituidas, para lo cual deberá estarse a lo establecido en el Reglamento de esta Ley y demás normatividad aplicable; seguro de caución conforme a la Ley de Instituciones de Seguros y de Fianzas vigente y demás normatividad aplicable; así como cualquier otra garantía, siempre que sea de fácil ejecución, deberán garantizar:
 
 I.- Los anticipos que, en su caso, reciban. Estas garantías deberán constituirse dentro de los quince días naturales siguientes a la fecha de notificación del fallo y por la totalidad del monto de los anticipos; y
 
@@ -949,37 +1191,59 @@ V.- Cuando los trabajos rebasen más de un ejercicio presupuestal y se inicien e
 
 En ejercicios subsecuentes, la entrega del anticipo deberá hacerse dentro de los tres meses siguientes al inicio de cada ejercicio, previa entrega de la garantía correspondiente. El atraso en la entrega de los anticipos será motivo para ajustar el costo financiero pactado en el contrato, y
 
-VI.- No se otorgarán anticipos para los convenios que se celebren en términos del artículo 62 de esta Ley, salvo para aquellos que alude el último párrafo del mismo; ni para los importes resultantes de los ajustes de costos del contrato o convenios que se generen durante el ejercicio presupuestal de que se trate.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+VI.- No se otorgarán anticipos para los convenios que se celebren en términos del artículo 62 de esta Ley, ni para los importes resultantes de los ajustes de costos del contrato o convenios que se generen durante el ejercicio presupuestal que se trate, salvo cuando se trate de contratos cuyos trabajos se refieran al mantenimiento o restauración de los inmuebles a que hace mención el artículo 5 de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, en los que no sea posible determinar el catálogo de conceptos, las cantidades de trabajo, las especificaciones correspondientes o el programa de ejecución.
 
 Para la amortización del anticipo en el supuesto de que sea rescindido el contrato, el saldo por amortizar se reintegrará a la Dependencia o Entidad en un plazo no mayor de diez días naturales, contados a partir de la fecha en que le sea comunicada al contratista la determinación de dar por rescindido el contrato y que, en su caso, se hayan agotado por el contratista las instancias de inconformidad al acto señalado.
 
 El contratista que no reintegre el saldo por amortizar en el plazo señalado cubrirá los cargos que resulten conforme con lo indicado en el artículo 58 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 54.
 
-Las Dependencias y Entidades se abstendrán de recibir propuestas o celebrar contrato alguno en las materias a que se refiere esta Ley, con las personas siguientes:
+Las Dependencias y Entidades se abstendrán de adjudicar y formalizar contrato alguno en las materias a que se refiere esta Ley, con las personas físicas o jurídicas colectivas siguientes:
 
 I.- Aquellas en que el servidor público que intervenga en cualquier etapa del procedimiento de contratación tenga interés personal, familiar o de negocios, incluyendo aquellas de las que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte por un lapso de un año anterior a la fecha de inicio de cargo;
 
-II.- Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Contraloría conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado; así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+II.- Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Secretaría Anticorrupción o Contraloría en el ámbito de sus competencias, conforme a la Ley General de Responsabilidades Administrativas; así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
 
 III.- Aquellos contratistas que, por causas imputables a ellos mismos, la Dependencia o Entidad convocante les hubiere rescindido administrativamente un contrato dentro de un lapso de un año calendario contado a partir de la notificación de la rescisión;
 
-IV.- Las que se encuentren inhabilitadas por resolución de la Contraloría, en los términos del Título Séptimo de este ordenamiento;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+IV.- Las que se encuentren inhabilitadas por resolución de la Secretaría Anticorrupción o Contraloría en el ámbito de sus competencias, en los términos del Título Séptimo de este ordenamiento;
 
 V.- Aquéllas que hayan sido declaradas en suspensión de pagos, estado de quiebra o sujetas a concurso de acreedores;
 
 VI.- Los licitantes que participen en un mismo procedimiento de contratación, que se encuentren vinculados entre sí por algún socio o asociado común;
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Se entenderá que es socio o asociado común, aquella persona física o jurídico colectiva que en el mismo procedimiento de contratación es reconocida como tal en las actas constitutivas, estatutos o en sus reformas o modificaciones de dos o más empresas licitantes o en cualquier otro documento en que se le reconozca con tal calidad, por tener una participación accionaria en el capital social;
+
 VII.- Las que pretendan participar en un procedimiento de contratación y, previamente, hayan realizado o se encuentren realizando por sí o a través de empresas que formen parte del mismo grupo empresarial, en virtud de otro contrato, el proyecto; trabajos de dirección, coordinación, supervisión y control de obra e instalaciones; laboratorio de análisis y control de calidad, geotecnia, mecánica de suelos y de resistencia de materiales; radiografías industriales; preparación de especificaciones de construcción; presupuesto de los trabajos; selección o aprobación de materiales, equipos y procesos, o la elaboración de cualquier otro documento vinculado con el procedimiento, en que se encuentran interesadas en participar;
 
 VIII.- Aquéllas que por sí o a través de empresas que formen parte del mismo grupo empresarial, pretendan ser contratadas para la elaboración de dictámenes, peritajes y avalúos, cuando éstos hayan de ser utilizados para resolver discrepancias derivadas de los contratos en los que dichas personas o empresas sean partes;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-IX.- Las que no se encuentren al corriente en sus obligaciones fiscales en el Estado; y
+IX.- Las que no se encuentren al corriente en sus obligaciones fiscales en el Estado;
 
-X.- Las demás que por cualquier causa se encuentren impedidas para ello por disposición de ley.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+X.- Las que participen en el mismo procedimiento de contratación de que se trate, sea persona física o jurídica colectiva y que se encuentre en participación conjunta con otro licitante;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XI.- Las que participen en un mismo procedimiento de contratación, que se encuentren vinculados entre sí por representantes legales, apoderados legales, administrador único o cualquier otra figura que se le reconozca con tal calidad, en las actas constitutivas, estatutos o en sus reformas o modificaciones; y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+XII.- Las demás que por cualquier causa se encuentren impedidas para ello por disposición de ley.
 
 ### CAPÍTULO SEGUNDO. De la Ejecución
 
@@ -987,33 +1251,55 @@ X.- Las demás que por cualquier causa se encuentren impedidas para ello por dis
 
 La ejecución de los trabajos deberá iniciarse en la fecha señalada en el contrato respectivo, y la Dependencia o Entidad contratante, previamente, pondrá a la disposición del contratista el o los inmuebles en que deban llevarse a cabo. El incumplimiento de la Dependencia o Entidad prorrogará en igual plazo la fecha originalmente pactada para la conclusión de los trabajos. La entrega deberá constar por escrito.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+El programa de ejecución convenido en el contrato y sus modificaciones será la base conforme al cual se medirá el avance en la ejecución de los trabajos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 56.
 
-Las Dependencias y Entidades establecerán la residencia de obra y la supervisión, por escrito, con anterioridad a la iniciación de las mismas, la cual deberá recaer en un servidor público designado por la Dependencia o Entidad, quien fungirá como su representante ante el contratista y será el responsable directo de la supervisión, vigilancia, control y revisión de los trabajos, incluyendo la aprobación de las estimaciones presentadas por los contratistas. La residencia de obra deberá estar ubicada en el sitio de ejecución de los trabajos.
+Las Dependencias y Entidades establecerán la residencia de obra y, en su caso, la supervisión, por escrito con anterioridad a la iniciación de las mismas, la cual deberá recaer en un servidor público designado por la Dependencia o Entidad, quien fungirá como su representante ante el contratista y será el responsable directo de la supervisión, vigilancia, control y revisión de los trabajos, incluyendo la aprobación de las estimaciones presentadas por los contratistas. La residencia de obra deberá estar ubicada en el sitio de ejecución de los trabajos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-Por su parte, y con anterioridad al inicio de los trabajos respectivos, el contratista designará a un superintendente, quien debe contar con cédula profesional que acredite sus conocimientos en materia de obra pública, con capacidad y experiencia comprobables en los trabajos a realizar, mismo que fungirá como director responsable de la obra.
+Por su parte, y con anterioridad al inicio de los trabajos respectivos, el contratista designará a un superintendente, quien debe contar con cédula profesional a fines a los trabajos a realizar y tener la capacidad y experiencia comprobables.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 El superintendente tiene facultades, en su calidad de representante del contratista referido en el párrafo anterior y como responsable directo de la ejecución de tales trabajos, para escuchar y recibir toda clase de notificaciones relacionadas, aún las de carácter personal, así como tomar las decisiones que se requieran en todo lo relativo al cumplimiento del contrato correspondiente para garantizar la correcta ejecución de las obras consideradas en esta Ley.
 
-Cuando la supervisión sea realizada por contrato, la aprobación de las estimaciones para efectos de pago deberá ser autorizada por la misma, y ser únicamente avalada por la residencia de obra de la Dependencia o Entidad, donde la supervisión externa tendrá toda la responsabilidad que esto implica.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Cuando la supervisión sea realizada por contrato, la aprobación de las estimaciones para efectos de pago deberá ser autorizada por la residencia de obra de la Dependencia o Entidad.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+La supervisión será responsable solidaria junto con el residente o residentes de obra o de servicios, del alcance del objeto de su contrato, incluyendo la autorización de las estimaciones del contrato de obra que supervisan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 57.
 
-Las estimaciones de los trabajos ejecutados se deberán formular con una periodicidad no mayor de treinta días naturales. El contratista deberá presentarlas a la residencia de obra dentro de los seis días naturales siguientes a la fecha de corte para el pago de las estimaciones que hubiere fijado la Dependencia o Entidad en el contrato, acompañadas de la documentación que acredite la procedencia de su pago; la residencia de obra, para realizar la revisión y autorización de las estimaciones, contará con un plazo no mayor de diez días naturales siguientes a su presentación. En el supuesto de que surjan diferencias técnicas o numéricas que no puedan ser autorizadas dentro de dicho plazo, éstas se resolverán e incorporarán en la siguiente estimación.
+Las estimaciones de los trabajos ejecutados se deberán formular con una periodicidad no mayor a un mes. El contratista deberá presentarlas a la residencia de obra dentro de los seis días naturales siguientes a la fecha de corte para el pago de las estimaciones que hubiere fijado la Dependencia o Entidad en el contrato, acompañadas de la documentación que acredite la procedencia de su pago; la residencia de obra, para realizar la revisión y autorización de las estimaciones, contará con un plazo no mayor de quince días naturales siguientes a su presentación. En el supuesto de que surjan diferencias técnicas o numéricas que no puedan ser autorizadas dentro de dicho plazo, éstas se resolverán e incorporarán en la siguiente estimación.
 
-Las estimaciones por trabajos ejecutados que deberán pagarse directamente por la Dependencia o Entidad, bajo su responsabilidad, se efectuará en un plazo no mayor a diez días naturales, contados a partir de la fecha en que hayan sido autorizadas por la residencia de la obra de que se trate.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-Las Dependencias y Entidades radicarán en la Secretaría las estimaciones en un plazo máximo de cinco días naturales a partir de la autorización por parte de la residencia.
+Las estimaciones por trabajos ejecutados que deberán pagarse directamente por la Dependencia o Entidad, bajo su responsabilidad, se efectuará en un plazo no mayor a veinte días naturales, contados a partir de la fecha en que hayan sido autorizadas por la residencia de la obra de que se trate.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Las Dependencias y Entidades radicarán en la Secretaría las estimaciones en un plazo máximo de cinco días hábiles a partir de la autorización por parte de la residencia.
 
 Cuando el pago corresponda a la Secretaría, este se hará en un plazo no mayor a veinte días naturales, contados a partir de su recepción por la misma Secretaría.
 
 Los pagos de cada una de las estimaciones por trabajos ejecutados son independientes entre sí y, por lo tanto, cualquier tipo y secuencia será sólo para efecto de control administrativo.
 
 En los proyectos de infraestructura productiva de largo plazo, la forma de estimar los trabajos y los plazos para su pago deberán establecerse en las bases de licitación y en el contrato correspondiente.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+En la modalidad de contratos de obra pública cuyo pago se pacte a plazos preestablecidos, a los que se refiere el quinto párrafo del artículo 48 de esta Ley, la Dependencia o Entidad contratante podrá emitir certificados de avance de obra con base en estimaciones aprobadas. Los certificados estarán amparados en estimaciones autorizadas por trabajos ejecutados y se cubrirán en las fechas y por los montos establecidos en los mismos. La obligación de pago documentada en los certificados seguirá siendo exigibles y permanecerán vigentes con independencia del estado, suspensión, atraso o entrega de la obra, así como de la terminación anticipada o rescisión del contrato de obra pública, por cualquier causa.
 
 ###### Artículo 58.
 
@@ -1027,6 +1313,30 @@ No se considerará pago en exceso cuando las diferencias que resulten a cargo de
 
 Cuando a partir de la presentación de propuestas ocurran circunstancias de orden económico no previstas en el contrato, que determinen un aumento o reducción de los costos de los trabajos aún no ejecutados conforme al programa pactado, dichos costos, cuando procedan, deberán ser ajustados atendiendo al procedimiento de ajuste de costos acordado por las partes en el contrato, de acuerdo con lo establecido por el artículo 60 de esta Ley. El aumento o reducción correspondiente deberá constar por escrito.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+El procedimiento de ajustes de costos sólo procederá para los contratos a base de precios unitarios o la parte de los mixtos de esta naturaleza.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Cuando el porcentaje del ajuste de los costos sea al alza, será el contratista quien lo promueva, dentro de los sesenta días naturales siguientes a la publicación de los índices aplicables al mes correspondiente, mediante la presentación por escrito de la solicitud, estudios y documentación que la soporten. Si el referido porcentaje es a la baja, será la Dependencia o Entidad quien lo determinará en el mismo plazo, con base en la documentación comprobatoria que lo justifique, salvo en el caso del procedimiento de ajuste señalado en la fracción III del artículo 60 de esta Ley, conforme al cual, invariablemente la Dependencia o Entidad deberá efectuarlo, con independencia de que sea al alza o a la baja.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Una vez transcurrido el plazo establecido en el párrafo anterior, se perderá la posibilidad de solicitar el ajuste de costos por parte de los contratistas y de realizarlo a la baja por parte de la Dependencia o Entidad.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+La Dependencia o Entidad, dentro de los sesenta días naturales siguientes a que el contratista promueva debidamente el ajuste de costos, deberá emitir por oficio la resolución que proceda; en caso contrario, la solicitud se tendrá por aprobada.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Cuando la documentación mediante la que se promuevan los ajustes de costos sea deficiente o incompleta, la Dependencia o Entidad apercibirá por escrito al contratista para que, en el plazo de diez días hábiles a partir de que le sea requerido, subsane el error o complemente la información solicitada. Transcurrido dicho plazo, sin que el promovente diera respuesta al apercibimiento, o no lo atendiere en forma correcta, se tendrá como no presentada la solicitud de ajuste de costos.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+El reconocimiento por ajuste de costos en aumento o reducción se deberá incluir en el pago de las estimaciones, considerando el último porcentaje de ajuste que se tenga autorizado.
+
 No darán lugar a ajuste de costos, las cuotas compensatorias a que, conforme a la ley de la materia, pudiera estar sujeta la importación de bienes contemplados en la realización de los trabajos.
 
 ###### Artículo 60.
@@ -1038,6 +1348,10 @@ I.- La revisión de cada uno de los precios del contrato para obtener el ajuste;
 II.- La revisión de un grupo de precios, que multiplicados por sus correspondientes cantidades de trabajo por ejecutar, representen cuando menos el ochenta por ciento del importe total faltante del contrato; y
 
 III.- En el caso de trabajos en los que se tenga establecida la proporción en que intervienen los insumos en el total del costo directo de los mismos, el ajuste respectivo podrá determinarse mediante la actualización de los costos de los insumos que intervienen en dichas proporciones.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Para los procedimientos señalados en las fracciones I y II del presente artículo, los contratistas serán responsables de promover los ajustes de costos, a efecto de que la Dependencia o Entidad los revise, en su caso solicite correcciones a los mismos, y dictamine lo procedente. Esto sin perjuicio de que las Dependencias y Entidades puedan realizar los estudios periódicos necesarios.
 
 ###### Artículo 61.
 
@@ -1055,39 +1369,81 @@ II.- Los incrementos o decrementos de los costos de los insumos serán calculado
 
 III.- Los precios originales del contrato permanecerán fijos hasta la terminación de los trabajos contratados. El ajuste se aplicará a los costos directos, conservando constantes los porcentajes de indirectos y utilidad originales durante el ejercicio del contrato; el costo por financiamiento estará sujeto a las variaciones de la tasa de interés que el contratista haya considerado en su propuesta; y
 
-IV.- A los demás lineamientos que para tal efecto emitirá la Secretaría y la Contraloría.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+IV.- A los demás lineamientos que para tal efecto emitirá la Secretaría y la Secretaría Anticorrupción.
+
+REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)
 
 ###### Artículo 62.
 
-Las Dependencias y Entidades, podrán, dentro de su presupuesto autorizado, bajo su responsabilidad y por razones fundadas y explícitas, modificar el monto o plazo de los contratos sobre la base de precios unitarios, mediante convenios, siempre y cuando éstos, considerados conjunta o separadamente, no rebasen el veinte por ciento del monto o del plazo pactados en el contrato, ni impliquen variaciones sustanciales al proyecto original, ni se celebren para eludir en cualquier forma el cumplimiento de la Ley o los Tratados.
+Las Dependencias y Entidades, podrán, dentro de su presupuesto autorizado, bajo su responsabilidad y por razones fundadas y explícitas, modificar el monto o plazo de los contratos sobre la base de precios unitarios y los mixtos en la parte correspondiente, mediante convenios, siempre y cuando éstos no impliquen variaciones sustanciales al objeto del proyecto original.
 
-Si las modificaciones exceden el porcentaje indicado pero no varían el objeto del proyecto, se podrá celebrar un convenio único entre las partes respecto de las nuevas condiciones.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-Este convenio deberá ser autorizado bajo la responsabilidad del Titular del área responsable de la contratación de los trabajos.
+Las Dependencias y Entidades deberán justificar de manera fundada y explícita las razones para la modificación de los contratos. Dichas modificaciones no podrán, en modo alguno, afectar las condiciones que se refieran a la naturaleza y características esenciales del objeto del contrato original, ni convenirse para eludir en cualquier forma el cumplimiento de esta Ley o de los tratados.
 
-Dichas modificaciones no podrán, en modo alguno, afectar las condiciones que se refieran a la naturaleza y características esenciales del objeto del contrato original, ni convenirse para eludir en cualquier forma el cumplimiento de esta Ley o de los Tratados.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Los convenios señalados en los párrafos anteriores deberán ser autorizados por el servidor público que se determine en las políticas, bases y lineamientos de la Dependencia o Entidad de que se trate.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+En el caso de requerirse modificaciones en los términos y condiciones originales del contrato, que no representen incremento o disminución en el monto o plazo contractual, las partes deberán celebrar los convenios respectivos.
 
 Los contratos a precio alzado no podrán ser modificados en monto, ni estarán sujetos a ajustes de costos, en plazo, salvo circunstancias naturales o de fuerza mayor.
 
-Sin embargo, las Dependencias y Entidades deberán reconocer incrementos o requerir reducciones, cuando con posterioridad a la adjudicación de un contrato a precio alzado se presenten circunstancias económicas de tipo general, que sean ajenas a la responsabilidad de las partes y que por tal razón no pudieron haber sido objeto de consideración en la propuesta que sirvió de base para la adjudicación del contrato correspondiente, como son, entre otras: variaciones en la paridad cambiaria de la moneda o cambios en los precios nacionales o internacionales, que provoquen directamente un aumento o reducción en los costos de los insumos de los trabajos no ejecutados conforme al programa originalmente pactado.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Sin embargo, cuando con posterioridad a la adjudicación de un contrato a precio alzado o la parte de los mixtos de esta naturaleza, se presenten circunstancias económicas de tipo general que sean ajenas a la responsabilidad de las partes y que por tal razón no pudieron haber sido objeto de consideración en la proposición que sirvió de base para la adjudicación del contrato correspondiente; como son, entre otras: variaciones en la paridad cambiaria de la moneda o cambios en los precios nacionales o internacionales, que provoquen directamente un aumento o reducción en los costos de los insumos de los trabajos no ejecutados conforme al programa de ejecución; las Dependencias y Entidades deberán reconocer incrementos o requerir reducciones, de conformidad con las disposiciones que, en su caso, emita la Secretaría Anticorrupción.
 
 Lo dispuesto en el párrafo anterior se regirá por los lineamientos que expida la Contraloría, los cuales deberán considerar, entre otros aspectos, los mecanismos con que cuentan las partes para hacer frente a estas situaciones.
 
-Una vez que se tengan determinadas las posibles modificaciones al contrato respectivo, la celebración oportuna de los convenios será responsabilidad de la Dependencia o Entidad de que se trate.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Una vez que se tengan determinadas las posibles modificaciones al contrato respectivo, la suscripción de los convenios será responsabilidad de la Dependencia o Entidad de que se trate, misma que no deberá exceder de cuarenta y cinco días naturales, contados a partir de la mencionada determinación.
 
 De las autorizaciones a que se refiere este artículo, el Titular del área responsable de la contratación de los trabajos informará al órgano interno de control en la Dependencia o Entidad de que se trate. Al efecto, a más tardar el último día hábil de cada mes, deberá presentarse un informe que se referirá a las autorizaciones otorgadas en el mes calendario inmediato anterior.
 
-Cuando durante la ejecución de los trabajos se requiera la realización de cantidades o conceptos de trabajo adicionales a los previstos originalmente, las Dependencias y Entidades podrán autorizar el pago de las estimaciones de los trabajos ejecutados, vigilando que dichos incrementos no rebasen el presupuesto autorizado en el contrato y, si fuera el caso, se celebrará el convenio respectivo, siempre que se cuente con la disponibilidad presupuestal correspondiente.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Cuando durante la ejecución de los trabajos se requiera la realización de cantidades o conceptos de trabajo adicionales a los previstos originalmente, las Dependencias y Entidades podrán autorizar el pago de las estimaciones de los trabajos ejecutados, previamente a la celebración de los convenios respectivos, vigilando que dichos incrementos no rebasen el presupuesto autorizado en el contrato.
 
 Tratándose de cantidades adicionales, éstas se pagarán a los precios unitarios pactados originalmente; tratándose de los conceptos no previstos en el catálogo de conceptos del contrato, sus precios unitarios deberán ser conciliados y autorizados, previo a su realización y se procederá al pago correspondiente.
 
-No será aplicable el porcentaje que se establece en el primer párrafo de este artículo, cuando se trate de contratos cuyos trabajos se refieran al mantenimiento o restauración de los inmuebles a que hace mención el artículo 5o. de la Ley Federal sobre Monumentos y Zonas Arqueológicas, Artísticas e Históricas, en los que no sea posible determinar el catálogo de conceptos, las cantidades de trabajo, las especificaciones correspondientes o el programa de ejecución.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Cuando la modificación en los convenios implique aumento o reducción por una diferencia superior al cincuenta por ciento del importe original del contrato o del plazo de ejecución o de ambos, el contratista dentro de un plazo de quince días naturales contados a partir de la fecha del acto de recepción física de los trabajos, podrá solicitar el ajuste de costos indirectos y del financiamiento a la Dependencia o Entidad de que se trate. En el mismo plazo, la Dependencia o Entidad podrá solicitar el ajuste de costos indirectos y del financiamiento a la baja.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Una vez transcurrido el plazo establecido en el párrafo anterior, se perderá la posibilidad de solicitar el ajuste de costos indirectos y del financiamiento por parte de los contratistas y de realizarlo a la baja por parte de la Dependencia o Entidad.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+La Dependencia o Entidad dentro de un plazo de quince días naturales siguientes a la fecha de la solicitud del contratista solicitará la autorización de la Secretaría Anticorrupción para revisar los costos indirectos y del financiamiento originalmente pactados y determinar la procedencia de ajustarlos.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Previa autorización de la Secretaría Anticorrupción, el Área responsable de la ejecución de los trabajos junto con el contratista, deberán revisar los costos indirectos y del financiamiento originalmente pactados y determinar la procedencia de ajustarlos a las nuevas condiciones en caso de que éstas se presenten.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+En el caso de que las Dependencias o Entidades o los entes fiscalizadores derivado de su revisión, detecten que se ejecutaron trabajos conforme al proyecto ejecutivo, especificaciones de construcción y normas de calidad, pero, no sean consistentes con las cantidades de los insumos incluidos en los análisis de precios unitarios pactados, el contratista deberá analizar, calcular e integrar los conceptos de trabajo no previstos en el catálogo original de que se trate, para determinar la procedencia de su pago o la devolución del pago en exceso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 63.
 
-Las Dependencias y Entidades podrán suspender temporalmente, en todo o en parte, los trabajos contratados por cualquier causa justificada. Los Titulares de las Dependencias y los órganos de gobierno de las Entidades designarán a los Servidores Públicos que podrán ordenar la suspensión y determinar, en su caso, la temporalidad de ésta, la cual no podrá ser mayor de veinte días naturales.
+Las Dependencias y Entidades podrán suspender temporalmente, en todo o en parte, los trabajos contratados por cualquier causa justificada. Los Titulares de las Dependencias y los órganos de gobierno de las Entidades designarán a los Servidores Públicos que podrán ordenar la suspensión y determinar, en su caso, la temporalidad de ésta, la cual no podrá ser indefinida.
 
-Asimismo, podrán dar por terminados anticipadamente los contratos cuando concurran razones de interés general, existan causas justificadas que le impidan la continuación de los trabajos y se demuestre que de continuar con las obligaciones pactadas se ocasionaría un daño o perjuicio grave al Estado o Municipio, o bien, no sea posible determinar la temporalidad de la suspensión de los trabajos a que se refiere este artículo.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Asimismo, podrán dar por terminados anticipadamente los contratos cuando concurran razones de interés general, existan causas justificadas que le impidan la continuación de los trabajos y se demuestre que de continuar con las obligaciones pactadas se ocasionaría un daño o perjuicio grave al Estado; se determine la nulidad de actos que dieron origen al contrato, con motivo de la resolución de una inconformidad o intervención de oficio emitida por la Secretaría Anticorrupción o por resolución de autoridad judicial competente, o bien, no sea posible determinar la temporalidad de la suspensión de los trabajos a que se refiere este artículo.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+En estos supuestos, la Dependencia o Entidad reembolsará al contratista los gastos no recuperables en que haya incurrido, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con la operación correspondiente.
 
 ###### Artículo 64.
 
@@ -1095,11 +1451,25 @@ Las Dependencias y Entidades podrán rescindir administrativamente los contratos
 
 El procedimiento de rescisión se llevará a cabo conforme a lo siguiente:
 
-I.- Se iniciará a partir de que al contratista le sea comunicado el incumplimiento en que haya incurrido, para que en un plazo de veinte días naturales exponga lo que a su derecho convenga y aporte, en su caso, las pruebas que estime pertinentes;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-II.- Transcurrido el plazo a que se refiere la fracción anterior, se resolverá considerando los argumentos y pruebas que hubiere hecho valer; y
+I.- Se iniciará a partir de que al contratista le sea comunicado el incumplimiento en que haya incurrido, para que en un plazo de quince días hábiles exponga lo que a su derecho convenga y aporte, en su caso, las pruebas que estime pertinentes;
 
-III.- La determinación de dar o no por rescindido el contrato deberá ser debidamente fundada, motivada y comunicada al contratista dentro de los diez días naturales siguientes al plazo señalado en la fracción I de este artículo.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+II.- Transcurrido el término a que se refiere la fracción anterior, la Dependencia o Entidad contará con un plazo de diez días hábiles para resolver, considerando los argumentos y pruebas que hubiere hecho valer el contratista; y
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+III.- La determinación de dar o no por rescindido el contrato deberá ser debidamente fundada, motivada y comunicada al contratista dentro de dicho plazo.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Las Dependencias y Entidades podrán, bajo su responsabilidad, suspender el trámite del procedimiento de rescisión, cuando se hubiere iniciado un procedimiento de conciliación respecto del contrato materia de la rescisión.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Notificada la rescisión, la Dependencia o Entidad podrá adjudicar un nuevo contrato, a quien ofrezca las mejores condiciones, con la finalidad de continuar y concluir la obra o servicio relacionado con la misma, considerando los trabajos pendientes por ejecutar que se establezcan en el acta circunstanciada de la rescisión.
 
 ###### Artículo 65.
 
@@ -1108,6 +1478,10 @@ En la suspensión, rescisión administrativa o terminación anticipada de los co
 I.- Cuando se determine la suspensión de los trabajos o se rescinda el contrato por causas imputables a la Dependencia o Entidad, ésta pagará los trabajos ejecutados, así como los gastos no recuperables y los materiales y equipos que hayan sido adquiridos, siempre que estén debidamente comprobados y se relacionen directamente con el contrato de que se trate;
 
 II.- En caso de rescisión del contrato por causas imputables al contratista, una vez emitida la determinación respectiva, la Dependencia o Entidad precautoriamente y desde el inicio de la misma, se abstendrá de cubrir los importes resultantes de trabajos ejecutados aún no liquidados, hasta que se otorgue el finiquito que proceda, lo que deberá efectuarse dentro de los treinta días naturales siguientes a la fecha de la comunicación de dicha determinación, a fin de proceder, en su caso, a hacer efectivas las garantías que procedan. En el finiquito deberá preverse el sobrecosto de los trabajos aún no ejecutados que se encuentren atrasados conforme al programa vigente, así como lo relativo a la recuperación de los materiales y equipos que, en su caso, le hayan sido entregados;
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Las Dependencias y Entidades podrán optar entre aplicar las penas convencionales o el sobrecosto que resulte de la rescisión, debiendo fundamentar y motivar las causas de la aplicación de uno o de otro;
 
 III.- Cuando se den por terminados anticipadamente los contratos, la Dependencia o Entidad pagará al contratista los trabajos ejecutados, así como los gastos no recuperables, siempre que estén debidamente comprobados y se relacionen directamente con el contrato de que se trate; y
 
@@ -1121,35 +1495,39 @@ El contratista estará obligado a devolver a la Dependencia o Entidad, en un pla
 
 De ocurrir los supuestos establecidos en el artículo anterior, la Dependencia y Entidad comunicará al contratista la suspensión, rescisión o terminación anticipada del contrato; posteriormente, lo harán del conocimiento de su órgano interno de control, a más tardar el último día hábil de cada mes, mediante un informe en el que se referirán los supuestos ocurridos en el mes calendario inmediato anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 67.
 
-El contratista asentará en bitácora y comunicará por escrito a la Dependencia o Entidad, la conclusión de los trabajos que le fueron encomendados, para que ésta, dentro de un plazo que no exceda de diez días naturales, verifique la debida terminación de los mismos conforme a las condiciones establecidas en el contrato. Al finalizar la verificación de los trabajos, la Dependencia o Entidad contará con un plazo de quince días naturales para proceder a su recepción física, mediante el levantamiento del acta correspondiente, quedando los trabajos bajo su responsabilidad; en el supuesto que la Dependencia o Entidad no realizare la recepción en los plazos establecidos, éstas, se darán por recepcionadas.
+El contratista asentará en bitácora y comunicará por escrito a la Dependencia o Entidad, la conclusión de los trabajos que le fueron encomendados, para que ésta, dentro del plazo pactado, verifique la debida terminación de los mismos conforme a las condiciones establecidas en el contrato. Al finalizar la verificación de los trabajos, la Dependencia o Entidad contará con un plazo de quince días naturales para proceder a su recepción física, mediante el levantamiento del acta correspondiente, quedando los trabajos bajo su responsabilidad; en el supuesto que la Dependencia o Entidad no realizare la recepción en los plazos establecidos, éstas se darán por recibidas.
 
-Recibidos físicamente los trabajos, las partes deberán elaborar dentro del plazo estipulado en el contrato, el finiquito de los trabajos, en el que se harán constar los créditos a favor y en contra que resulten para cada uno de ellos, describiendo el concepto general que les dio origen y el saldo resultante.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Recibidos físicamente los trabajos, las partes dentro del término estipulado en el contrato, el cual no podrá exceder de sesenta días naturales a partir de la recepción de los trabajos, deberán elaborar el finiquito de estos, en el que se hará constar los créditos a favor y en contra que resulten para cada uno de ellos, describiendo el concepto general que les dio origen y el saldo resultante.
 
 De existir desacuerdo entre las partes respecto al finiquito, o bien, el contratista no acuda con la Dependencia o Entidad para su elaboración dentro del plazo señalado en el contrato, ésta procederá a elaborarlo, debiendo comunicar su resultado al contratista dentro de un plazo de diez días naturales, contado a partir de su emisión; una vez notificado el resultado de dicho finiquito al contratista, éste tendrá un plazo de quince días naturales para alegar lo que a su derecho corresponda, si transcurrido este plazo no realiza alguna gestión, se dará por aceptado.
 
 Determinado el saldo total, la Dependencia o Entidad pondrá a disposición del contratista el pago correspondiente, mediante su ofrecimiento o la consignación respectiva, o bien, solicitará el reintegro de los importes resultantes; debiendo, en forma simultánea, levantar el acta administrativa correspondiente.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 68.
 
-A la conclusión de las Obras Públicas, las Dependencias y Entidades deberán registrar en las oficinas de Catastro correspondientes y del Registro Público de la Propiedad y del Comercio, los títulos de propiedad de aquellos inmuebles que se hayan adquirido con motivo de la construcción de las mismas y, en su caso, deberán remitir a la Secretaría de Administración o a la Oficina Municipal competente los títulos de propiedad para su inscripción o inclusión en el catálogo o inventario de los bienes muebles e inmuebles y recursos del Estado o del Municipio, según corresponda, dando cuenta de ello al Órgano Superior de Fiscalización, para los efectos conducentes.
+A la conclusión de las Obras Públicas, las Dependencias y Entidades deberán registrar en las oficinas de Catastro correspondientes y del Registro Público de la Propiedad y el Comercio, los títulos de propiedad de aquellos inmuebles que se hayan adquirido con motivo de la construcción de las mismas y, en su caso, deberán remitir a la Secretaría o a la Oficina Municipal competente los títulos de propiedad para su inscripción o inclusión en el catálogo o inventario de los bienes muebles e inmuebles y recursos del Estado o del Municipio, según corresponda, dando cuenta de ello al Órgano Superior de Fiscalización, para los efectos conducentes.
 
 ###### Artículo 69.
 
 Concluidos los trabajos, el contratista quedará obligado a responder de los defectos que resultaren en los mismos, de los vicios ocultos y de cualquier otra responsabilidad en que hubiere incurrido, en los términos señalados en el contrato respectivo y en la legislación aplicable.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-Los trabajos se garantizarán durante un plazo de 365 días naturales por el cumplimiento de las obligaciones a que se refiere el párrafo anterior, por lo que previamente a la recepción de los trabajos, los contratistas, a su elección, deberán otorgar cheque certificado no negociable con la leyenda "para abono en cuenta del beneficiario", a nombre de la Secretaría de Planeación y Finanzas del Gobierno del Estado de Tabasco, por el equivalente al diez por ciento del monto total ejercido de los trabajos; constituir fianza por el equivalente al diez por ciento del monto total ejercido de los trabajos; presentar una carta de crédito irrevocable por el equivalente al cinco por ciento del monto total ejercido de los trabajos; aportar recursos líquidos por una cantidad equivalente al cinco por ciento del mismo monto en fideicomisos especialmente constituidos para ello; o bien, constituir seguro de caución conforme a la Ley de Instituciones de Seguros y de Fianzas vigente y demás normatividad aplicable.
+Los trabajos se garantizarán durante un plazo de doce meses por el cumplimiento de las obligaciones a que se refiere el párrafo anterior, por lo que previamente a la recepción de los trabajos, los contratistas, a su elección, deberán constituir fianza por el equivalente al diez por ciento del monto total ejercido de los trabajos; presentar una carta de crédito irrevocable por el equivalente al cinco por ciento del monto total ejercido de los trabajos, o bien, aportar recursos líquidos por una cantidad equivalente al cinco por ciento del mismo monto en fideicomisos especialmente constituidos para ello.
 
 Los recursos aportados en fideicomiso deberán invertirse en instrumentos de renta fija.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-Los contratistas, en su caso, deberán retirar sus aportaciones en fideicomiso y los respectivos rendimientos, transcurridos 365 días a partir de la fecha de recepción de los trabajos. En igual plazo quedará automáticamente cancelada la fianza, carta de crédito irrevocable, cheque o seguro de caución, según sea al caso.
+Los contratistas, en su caso, deberán retirar sus aportaciones en fideicomiso y los respectivos rendimientos, transcurridos doce meses a partir de la fecha de recepción de los trabajos. En igual plazo quedará automáticamente cancelada la fianza, carta de crédito irrevocable, cheque o seguro de caución, según sea al caso.
 
 Quedarán a salvo los derechos de las Dependencias y Entidades para exigir el pago de las cantidades no cubiertas de la indemnización que a su juicio corresponda, una vez que se hagan efectivas las garantías constituidas conforme a este artículo.
 
@@ -1199,7 +1577,9 @@ Cuando se requieran equipos, instrumentos, elementos prefabricados terminados, m
 
 El Titular de la Dependencia o Entidad, emitirá los acuerdos de ejecución de obras públicas por administración directa.
 
-Previamente a la ejecución de cada obra pública por administración directa, deberá emitirse el informe respectivo del Titular de la Dependencia o Entidad y ser presentado al Comité para su autorización en su caso, de la Obra Pública del cual formarán parte, la descripción pormenorizada de los trabajos que se deban ejecutar, los proyectos, planos, especificaciones, programas de ejecución y suministro y el presupuesto correspondiente, los cuales deberán de estar firmados por el responsable del proyecto.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Previamente a la realización de los trabajos por administración directa, el titular del área responsable de la ejecución de los trabajos emitirá el acuerdo respectivo, del cual formarán parte, entre otros aspectos, la descripción pormenorizada de los trabajos que se deban ejecutar, los proyectos, planos, especificaciones, programas de ejecución y suministro y el presupuesto correspondiente.
 
 La Contraloría o los órganos internos de control, previamente a la ejecución de las Obras Públicas por administración directa, verificarán también que se cuente con el presupuesto correspondiente, los programas de ejecución, de utilización de recursos humanos y de utilización de maquinaria y equipo de construcción.
 
@@ -1211,29 +1591,39 @@ La ejecución de los trabajos estará a cargo de la Dependencia o Entidad a trav
 
 La Dependencia o Entidad deberá prever y proveer todos los recursos humanos, técnicos, materiales y económicos necesarios para que la ejecución de los trabajos se realice de conformidad con lo previsto en los proyectos, planos y especificaciones técnicas, los programas de ejecución y suministro y los procedimientos de ejecución, firmados por el Titular o en quien se haya delegado esta responsabilidad y por el responsable del proyecto.
 
-En la ejecución de obras por administración directa serán aplicables en lo conducente, las disposiciones de esta Ley; se podrán realizar supervisiones de los trabajos por supervisores externos.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+En la ejecución de obras por administración directa serán aplicables en lo conducente, las disposiciones de esta Ley.
 
 ## TÍTULO SEXTO. De la Información y Verificación
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 77.
 
-La forma y términos en que las Dependencias y Entidades deberán remitir a la Secretaría y a la Contraloría y demás instancias que correspondan, la información relativa a los actos y contratos materia de esta Ley, en un plazo no mayor a diez días naturales, serán establecidos de manera sistemática y coordinada por dichas Dependencias, en el ámbito de sus respectivas atribuciones.
+La forma y términos en que las Dependencias y Entidades deberán remitir a la Secretaría y a la Secretaría Anticorrupción o Contraloría y demás instancias que correspondan, la información relativa a los actos y contratos materia de esta Ley, en un plazo no mayor a diez días naturales, serán establecidos de manera sistemática y coordinada por dichas Dependencias, en el ámbito de sus respectivas atribuciones.
 
 Para tal efecto, las Dependencias y Entidades conservarán en forma ordenada y sistemática toda la documentación comprobatoria de dichos actos y contratos, de acuerdo al artículo octavo de la Ley de Administración de Documentos del Poder Ejecutivo del Estado de Tabasco.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 78.
 
-La Contraloría y demás instancias que correspondan, en el ejercicio de sus respectivas facultades, podrán verificar, en cualquier tiempo, que las Obras Públicas y Servicios relacionados con las mismas se realicen conforme a lo establecido en esta Ley o en otras disposiciones aplicables. Si la Contraloría determina la nulidad total del procedimiento de contratación por causas imputables a la convocante, la dependencia o entidad reembolsará a los licitantes los gastos no recuperables en que hayan incurrido, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con la operación correspondiente.
+La Secretaría Anticorrupción o Contraloría y demás instancias que correspondan, en el ejercicio de sus respectivas facultades, podrán verificar, en cualquier tiempo, que las Obras Públicas y Servicios relacionados con las mismas se realicen conforme a lo establecido en esta Ley o en otras disposiciones aplicables. Si la Secretaría Anticorrupción o Contraloría en el ámbito de sus competencias, determina la nulidad total del procedimiento de contratación por causas imputables a la convocante, la Dependencia o Entidad reembolsará a los licitantes los gastos no recuperables en que hayan incurrido, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con la operación correspondiente.
 
 La falta de verificación no impedirá la procedencia del pago de los trabajos realizados y autorizados por la Dependencia o Entidad responsable de su ejecución.
 
-La Contraloría en el ejercicio de sus facultades, podrá realizar las visitas e inspecciones que estime pertinentes a las Dependencias y Entidades que realicen Obras Públicas y Servicios relacionados con las mismas, e igualmente podrá solicitar de los Servidores Públicos, todos los datos e informes relacionados con los actos de que se trate, así como intervenir en cualquier acto que contravenga las disposiciones que rigen las materias objeto de esta Ley.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+La Secretaría Anticorrupción o Contraloría en el ejercicio de sus facultades, podrá realizar las visitas e inspecciones que estime pertinentes a las Dependencias y Entidades que realicen Obras Públicas y Servicios relacionados con las mismas, e igualmente podrá solicitar de los Servidores Públicos, todos los datos e informes relacionados con los actos de que se trate, así como intervenir en cualquier acto que contravenga las disposiciones que rigen las materias objeto de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 79.
 
-En caso de una controversia, la comprobación de la calidad de los trabajos se hará en los laboratorios, instituciones, empresas o con las personas físicas que determine la Contraloría en los términos que establece la Ley de Metrología y Normalización, y que podrán ser aquellos con los que cuente la Dependencia o Entidad, o bien, cualquier tercero con la capacidad necesaria para practicar la comprobación a que se refiere este artículo.
+En caso de una controversia, la comprobación de la calidad de los trabajos se hará en los laboratorios, instituciones, empresas o con las personas físicas que determine la Secretaría Anticorrupción o Contraloría en el ámbito de sus competencias, en los términos que establece la Ley de Infraestructura de la Calidad, y que podrán ser aquellos con los que cuente la Dependencia o Entidad, o bien, cualquier tercero con la capacidad necesaria para practicar la comprobación a que se refiere este artículo.
 
 El resultado de las comprobaciones se hará constar en un dictamen que será firmado por quien haya hecho la comprobación, y el representante de la Dependencia o Entidad si hubiere intervenido.
 
@@ -1241,37 +1631,49 @@ El resultado de las comprobaciones se hará constar en un dictamen que será fir
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 80.
 
-Los licitantes, contratistas o Servidores Públicos que infrinjan las disposiciones contenidas en esta Ley y en el Reglamento de la misma por sí o por interpósita persona, serán sancionados por la Contraloría con multa equivalente a la cantidad de diez hasta mil unidades de medida y actualización elevado al mes a la fecha de la infracción, tomando como monto máximo el cinco por ciento del importe de la propuesta entregada o el promedio de las propuestas presentadas en la licitación correspondiente.
+Los licitantes, contratistas o Servidores Públicos que infrinjan las disposiciones contenidas en esta Ley y en el Reglamento de la misma por sí o por interpósita persona, serán sancionados por la Secretaría Anticorrupción o Contraloría en el ámbito de sus competencias, con multa equivalente a la cantidad de diez hasta mil unidades de medida y actualización elevado al mes a la fecha de la infracción, tomando como monto máximo el cinco por ciento del importe de la propuesta entregada o el promedio de las propuestas presentadas en la licitación correspondiente.
 
-Sin perjuicio de lo anterior, la Contraloría podrá proponer a las Dependencias o Entidades, la suspensión de los actos y procedimientos previstos en la Ley, o en su caso, inicie el procedimiento de rescisión administrativa del contrato respectivo.
+Sin perjuicio de lo anterior, la Secretaría Anticorrupción o Contraloría en el ámbito de sus competencias, podrá proponer a las Dependencias o Entidades, la suspensión de los actos y procedimientos previstos en la Ley, o en su caso, inicie el procedimiento de rescisión administrativa del contrato respectivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO CON SUS FRACCIONES, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 81.
 
-La Contraloría, además de la sanción a que se refiere el artículo anterior, inhabilitará temporalmente para participar en procedimientos de contratación o celebrar contratos regulados por esta Ley, a un licitante o contratista cuando:
+La Secretaría Anticorrupción o Contraloría en el ámbito de sus competencias, además de la sanción a que se refiere el artículo anterior, inhabilitará temporalmente para participar en procedimientos de contratación o celebrar contratos regulados por esta Ley, a un licitante o contratista cuando:
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 I.- Injustificadamente o por causas imputables a ellos mismos no formalicen el contrato adjudicado por la convocante;
 
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
 II.- Se encuentren en el supuesto establecido por la fracción III del artículo 54 de esta Ley, respecto de dos o más Dependencias o Entidades;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 III.- No cumplan con sus obligaciones contractuales por causas imputables a ellos mismos y que, como consecuencia, causen daños o perjuicios graves a la Dependencia o Entidad de que se trate; y
 
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
 IV.- Proporcionen información falsa, o actúen con dolo o mala fe en algún procedimiento de contratación.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-La inhabilitación que imponga la Contraloría no será menor de noventa días ni mayor de dos años, plazo que comenzará a contarse a partir del día siguiente a la fecha en que la resolución se haga del conocimiento de las Dependencias y Entidades, mediante la publicación de la circular respectiva en el Periódico Oficial del Estado y se le notifique por escrito al Contratista en el domicilio fiscal señalado en el Registro Único de Contratistas.
+La inhabilitación que imponga la Secretaría Anticorrupción o Contraloría, en el ámbito de sus competencias, no será menor de noventa días ni mayor de dos años, plazo que comenzará a contarse a partir del día siguiente a la fecha en que la resolución se haga del conocimiento de las Dependencias y Entidades, mediante la publicación de la circular respectiva en el Periódico Oficial del Estado y se le notifique por escrito al Contratista en el domicilio fiscal señalado en el Registro Único de Contratistas.
 
-Las Dependencias y Entidades, dentro de los quince días siguientes a la fecha en que tengan conocimiento de alguna infracción a las disposiciones de esta Ley, y previo al desahogo de los procedimientos de alegatos correspondientes, remitirán a la Contraloría la documentación comprobatoria de los hechos presumiblemente constitutivos de la infracción.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Las Dependencias y Entidades, dentro de los quince días siguientes a la fecha en que tengan conocimiento de alguna infracción a las disposiciones de esta Ley, y previo al desahogo de los procedimientos de alegatos correspondientes, remitirán a la Secretaría Anticorrupción o Contraloría en el ámbito de sus competencias la documentación comprobatoria de los hechos presumiblemente constitutivos de la infracción.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 82.
 
-La Contraloría impondrá las sanciones, considerando:
+La Secretaría Anticorrupción o Contraloría en el ámbito de sus competencias impondrá las sanciones, considerando:
 
 I.- Los daños o perjuicios que se hubieren producido o puedan producirse;
 
@@ -1281,11 +1683,15 @@ III.- La gravedad de la infracción; y
 
 IV.- Las condiciones del infractor.
 
-La Contraloría impondrá las sanciones administrativas de que trata este Título, con base en las disposiciones de esta Ley.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+La Secretaría Anticorrupción o Contraloría, en el ámbito de sus competencias impondrá las sanciones administrativas de que trata este Título, con base en las disposiciones de esta Ley.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 83.
 
-La Contraloría aplicará las sanciones que procedan, conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Tabasco, a los servidores públicos que infrinjan las disposiciones de este ordenamiento; así como lo señalado en el primer párrafo del artículo 80 de esta Ley.
+La Secretaría Anticorrupción o Contraloría en el ámbito de sus competencias, aplicará las sanciones que procedan, conforme a lo dispuesto por la Ley General de Responsabilidades Administrativas, a los servidores públicos que infrinjan las disposiciones de este ordenamiento; así como lo señalado en el primer párrafo del artículo 80 de esta Ley.
 
 ###### Artículo 84.
 
@@ -1299,15 +1705,23 @@ Cuando se haya incurrido en infracción por causa de fuerza mayor o de caso fort
 
 ### CAPÍTULO PRIMERO. De las Inconformidades
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 86.
 
-Las personas afectadas podrán inconformarse ante la Contraloría Estatal o Municipal, según sea el caso, por cualquier acto del procedimiento de contratación que contravenga las disposiciones que rigen las materias objeto de esta Ley.
+Las personas afectadas podrán inconformarse ante la Secretaría Anticorrupción o Contraloría, según sea el caso, por cualquier acto del procedimiento de contratación que contravenga las disposiciones que rigen las materias objeto de esta Ley.
 
-La inconformidad será presentada, a elección del promovente, por escrito o a través de medios remotos de comunicación electrónica que al efecto establezca la Contraloría, dentro de los quince días naturales siguientes a aquél en que ocurra el acto o el inconforme tenga conocimiento de éste; quienes opten por realizarlo por medios remotos de comunicación electrónica, deberán ratificarlo personalmente dentro de los cinco días naturales posteriores al vencimiento del plazo de presentación.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-Transcurrido el plazo establecido en este artículo, concluye para los afectados el derecho a inconformarse, sin perjuicio de que la Contraloría pueda actuar en cualquier tiempo en términos de ley.
+La inconformidad será presentada, a elección del promovente, por escrito o a través de medios remotos de comunicación electrónica que al efecto establezca la Secretaría Anticorrupción o Contraloría, en el ámbito de sus competencias, dentro de los quince días naturales siguientes a aquél en que ocurra el acto o el inconforme tenga conocimiento de éste; quienes opten por realizarlo por medios remotos de comunicación electrónica, deberán ratificarlo personalmente dentro de los cinco días naturales posteriores al vencimiento del plazo de presentación.
 
-Lo anterior, sin perjuicio de que las personas interesadas previamente manifiesten a la Contraloría, por escrito o a través de medios remotos de comunicación electrónica, las irregularidades que a su juicio se hayan cometido en el procedimiento de contratación, a fin de que las mismas sean corregidas.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Transcurrido el plazo establecido en este artículo, concluye para los afectados el derecho a inconformarse, sin perjuicio de que la Secretaría Anticorrupción o Contraloría, en el ámbito de sus competencias, pueda actuar en cualquier tiempo en términos de ley.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Lo anterior, sin perjuicio de que las personas interesadas previamente manifiesten a la Secretaría Anticorrupción o Contraloría según corresponda, por escrito o a través de medios remotos de comunicación electrónica, las irregularidades que a su juicio se hayan cometido en el procedimiento de contratación, a fin de que las mismas sean corregidas.
 
 La inconformidad presentada será desechada cuando el promovente no acredite la personalidad que ostenta.
 
@@ -1323,25 +1737,41 @@ Cuando una inconformidad se resuelva como no favorable al promovente por resulta
 
 En las inconformidades que se presenten a través de medios remotos de comunicación electrónica, deberán utilizarse medios de identificación electrónica en sustitución de la firma autógrafa.
 
-Dichas inconformidades, la documentación que las acompañe y la manera de acreditar la personalidad del promovente, se sujetarán a las disposiciones técnicas que para efectos de la transmisión expida la Contraloría, en cuyo caso producirán los mismos efectos que las leyes otorgan a los medios de identificación y documentos correspondientes.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Dichas inconformidades, la documentación que las acompañe y la manera de acreditar la personalidad del promovente, se sujetarán a las disposiciones técnicas que para efectos de la transmisión expida la Secretaría Anticorrupción o Contraloría, en cuyo caso producirán los mismos efectos que las leyes otorgan a los medios de identificación y documentos correspondientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 89.
 
-La Contraloría podrá, de oficio o en atención a las inconformidades a que se refiere el artículo 86 del presente ordenamiento, realizar las investigaciones que resulten pertinentes, a fin de verificar que los actos de cualquier procedimiento de contratación se ajustan a las disposiciones de esta Ley, dentro de un plazo que no excederá de veinte días naturales contados a partir de la fecha en que tenga conocimiento del acto irregular. Realizada la investigación dentro del plazo establecido, deberá emitir la resolución correspondiente dentro de los veinte días naturales siguientes.
+La Secretaría Anticorrupción o Contraloría en el ámbito de sus competencias, podrá de oficio o en atención a las inconformidades a que se refiere el artículo 86 del presente ordenamiento, realizar las investigaciones que resulten pertinentes, a fin de verificar que los actos de cualquier procedimiento de contratación se ajustan a las disposiciones de esta Ley, dentro de un plazo que no excederá de veinte días naturales contados a partir de la fecha en que tenga conocimiento del acto irregular. Realizada la investigación dentro del plazo establecido, deberá emitir la resolución correspondiente dentro de los veinte días naturales siguientes.
 
-La Contraloría podrá requerir información a las Dependencias o Entidades correspondientes, quienes deberán remitirla dentro de los diez días naturales siguientes a la recepción del requerimiento respectivo.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-Una vez admitida la inconformidad o iniciadas las investigaciones, la Contraloría deberá hacerlo del conocimiento del o los afectados y de terceros que pudieran resultar perjudicados, para que dentro del plazo a que alude el párrafo anterior manifiesten lo que a su interés convenga. Transcurrido dicho plazo sin que el tercero perjudicado haga manifestación alguna, se tendrá por precluido su derecho.
+La Secretaría Anticorrupción o Contraloría en el ámbito de sus competencias, podrá requerir información a las Dependencias o Entidades correspondientes, quienes deberán remitirla dentro de los diez días naturales siguientes a la recepción del requerimiento respectivo.
 
-Durante la investigación de los hechos a que se refiere este artículo, la Contraloría podrá suspender el procedimiento de contratación, cuando se advierta que existen o pudieren existir actos contrarios a las disposiciones de esta Ley o a las que de ella deriven, o bien, que de continuarse con el procedimiento de contratación pudiera producirse daños o perjuicios a la Dependencia o Entidad de que se trate.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
-La suspensión no debe causar perjuicio al interés social, ni contravenir disposiciones de orden público. La Dependencia o Entidad deberá informar dentro de los tres días hábiles siguientes a la notificación de la suspensión, aportando la justificación del caso, si con la misma no se causa perjuicio al interés social o bien, se contravienen disposiciones de orden público, para que la Contraloría resuelva lo que proceda.
+Una vez admitida la inconformidad o iniciadas las investigaciones, la Secretaría Anticorrupción o Contraloría en el ámbito de sus competencias, deberá hacerlo del conocimiento del o los afectados y de terceros que pudieran resultar perjudicados, para que dentro del plazo a que alude el párrafo anterior manifiesten lo que a su interés convenga. Transcurrido dicho plazo sin que el tercero perjudicado haga manifestación alguna se tendrá por precluido su derecho.
 
-Cuando sea el inconforme quien solicite la suspensión, éste deberá garantizar los daños y perjuicios que pudiera ocasionar, mediante fianza por el monto que fije la Contraloría, de conformidad con los lineamientos que al efecto expida; sin embargo, el tercero perjudicado podrá dar contrafianza equivalente a la que corresponda a la fianza, en cuyo caso quedará sin efecto la suspensión.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Durante la investigación de los hechos a que se refiere este artículo, la Secretaría Anticorrupción o Contraloría en el ámbito de sus competencias, podrá suspender el procedimiento de contratación, cuando se advierta que existen o pudieren existir actos contrarios a las disposiciones de esta Ley o a las que de ella deriven, o bien, que de continuarse con el procedimiento de contratación pudiera producirse daños o perjuicios a la Dependencia o Entidad de que se trate.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+La suspensión no debe causar perjuicio al interés social, ni contravenir disposiciones de orden público. La Dependencia o Entidad deberá informar dentro de los tres días hábiles siguientes a la notificación de la suspensión, aportando la justificación del caso, si con la Misma no se causa perjuicio al interés sodal o bien, se contravienen disposiciones de orden público, para que la Secretaría Anticorrupción o Contraloría en el ámbito de sus competencias, resuelva lo que proceda.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Cuando sea el inconforme quien solicite la suspensión, éste deberá garantizar los daños y perjuicios que pudiera ocasionar, mediante fianza por el monto que fije la Secretaría Anticorrupción o Contraloría en el ámbito de sus competencias, de conformidad con los lineamientos que al efecto expida; sin embargo, el tercero perjudicado podrá dar contrafianza equivalente a la que corresponda a la fianza, en cuyo caso quedará sin efecto la suspensión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 90.
 
-La resolución que emita la Contraloría tendrá por consecuencia:
+La resolución que emita la Secretaría Anticorrupción o Contraloría en el ámbito de sus competencias, tendrá por consecuencia:
 
 I.- La nulidad del acto o actos irregulares estableciendo, cuando proceda, las directrices necesarias para que el mismo se reponga conforme a esta Ley;
 
@@ -1349,25 +1779,35 @@ II.- La nulidad total del procedimiento; y
 
 III.- La declaración relativa a lo infundado de la inconformidad.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 91.
 
-En contra de la resolución de inconformidad que dicte la Contraloría, se podrá impugnar ante las instancias jurisdiccionales competentes.
+En contra de la resolución de inconformidad que dicte la Secretaría Anticorrupción o Contraloría en el ámbito de sus competencias, se podrá impugnar ante las instancias jurisdiccionales competentes.
 
 ### CAPÍTULO SEGUNDO. Del Procedimiento de Conciliación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 92.
 
-Los contratistas podrán presentar quejas ante la Contraloría, con motivo del incumplimiento de los términos y condiciones pactados en los contratos que tengan celebrados con las Dependencias y Entidades.
+Los contratistas podrán presentar quejas ante la Secretaría Anticorrupción o Contraloría en el ámbito de sus competencias, con motivo del incumplimiento de los términos y condiciones pactados en los contratos que tengan celebrados con las Dependencias y Entidades.
 
-Una vez recibida la queja respectiva, la Contraloría señalará día y hora para que tenga verificativo la audiencia de conciliación y citará a las partes. Dicha audiencia se deberá celebrar dentro de los diez días naturales siguientes a la fecha de recepción de la queja.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+Una vez recibida la queja respectiva, la Secretaría Anticorrupción o Contraloría en el ámbito de sus competencias, señalará día y hora para que tenga verificativo la audiencia de conciliación y citará a las partes. Dicha audiencia se deberá celebrar dentro de los diez días naturales siguientes a la fecha de recepción de la queja.
 
 La asistencia a la audiencia de conciliación será obligatoria para ambas partes, por lo que la inasistencia por parte del contratista traerá como consecuencia el tenerlo por desistido de su queja; y a su vez, la inasistencia del representante de la Dependencia o Entidades, se entenderá por aceptada y procedente la queja.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 93.
 
-En la audiencia de conciliación, la Contraloría tomando en cuenta los hechos manifestados en la queja y los argumentos que hiciere valer la Dependencia o Entidad respectiva, determinará los elementos comunes y los puntos de controversia y exhortará a las partes para conciliar sus intereses, conforme a las disposiciones de esta Ley, sin prejuzgar sobre el conflicto planteado.
+En la audiencia de conciliación, la Secretaría Anticorrupción o Contraloría en el ámbito de sus competencias, tomando en cuenta los hechos manifestados en la queja y los argumentos que hiciere valer la Dependencia o Entidad respectiva, determinará los elementos comunes y los puntos de controversia y exhortará a las partes para conciliar sus intereses, conforme a las disposiciones de esta Ley, sin prejuzgar sobre el conflicto planteado.
 
-En caso de que sea necesario, la audiencia se podrá realizar en varias sesiones. Para ello, la Contraloría señalará los días y horas para que tengan verificativo. El procedimiento de conciliación deberá agotarse en un plazo no mayor de cuarenta días naturales contados a partir de la fecha en que se haya celebrado la primera sesión.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
+
+En caso de que sea necesario, la audiencia se podrá realizar en varias sesiones. Para ello, la Secretaría Anticorrupción o Contraloría en el ámbito de sus competencias, señalará los días y horas para que tengan verificativo. El procedimiento de conciliación deberá agotarse en un plazo no mayor de cuarenta días naturales contados a partir de la fecha en que se haya celebrado la primera sesión.
 
 De toda diligencia deberá levantarse acta circunstanciada en la que consten los resultados de las actuaciones.
 
@@ -1600,3 +2040,17 @@ SEGUNDO.- Las menciones y atribuciones contenidas en otras leyes, reglamentos y,
 TERCERO.- Las autoridades correspondientes deberán llevar a cabo los ajustes normativos y presupuestales necesarios para implementar las disposiciones del presente Decreto.
 
 CUARTO.- Se derogan todas aquellas disposiciones jurídicas que sean contrarias a lo establecido en el presente Decreto.
+
+P.O. 17 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 218 POR EL QUE "SE REFORMAN: LOS ARTÍCULOS 1, FRACCIÓN I Y PÁRRAFO SEGUNDO; 2; 3, PÁRRAFO PRIMERO; Y LAS FRACCIONES I, IV, V Y VI; 4, FRACCIONES IV Y V; 6, PÁRRAFO SEGUNDO; 7, PÁRRAFOS PRIMERO Y SEGUNDO; 8, PÁRRAFO PRIMERO; 9, PÁRRAFO PRIMERO; 10, PÁRRAFOS PRIMERO Y CUARTO; 11; 14; 17, PÁRRAFO SEGUNDO; 19 PÁRRAFO PRIMERO; Y LAS FRACCIONES III, IV, XII Y XIII; 22; 23; 24; 25, PÁRRAFOS SEGUNDO Y TERCERO; 27; 29, PÁRRAFO TERCERO; 30, PÁRRAFOS PRIMERO, SEGUNDO, CUARTO Y QUINTO; 31, PÁRRAFOS SEGUNDO, TERCERO Y QUINTO; 35, FRACCIONES III Y XII; 36, PÁRRAFO SEGUNDO; 37, FRACCIONES V, XVII, XX, XXI, XXV Y XXVI; 41, FRACCIONES VIII Y IX; 42, PÁRRAFO TERCERO; 43; 44, PÁRRAFOS PRIMERO Y CUARTO; 47, PÁRRAFO PRIMERO; 48, LOS PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO; Y LA FRACCIÓN I; 49, FRACCIONES VIII, XII Y XIII; 50, PÁRRAFO PRIMERO; 51, PÁRRAFO PRIMERO; 53, FRACCIÓN VI; 54, PÁRRAFO PRIMERO; Y LAS FRACCIONES II, IV Y X; 56, PÁRRAFOS PRIMERO Y CUARTO; 57, PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO; 61, FRACCIÓN IV; 62, PÁRRAFOS PRIMERO, SEGUNDO, TERCERO, CUARTO, SEXTO, OCTAVO, DÉCIMO Y DÉCIMO PRIMERO; 63, PÁRRAFOS SEGUNDO Y TERCERO; 64, FRACCIONES I, II Y III; 67, PÁRRAFOS PRIMERO Y SEGUNDO; 68; 69, PÁRRAFOS SEGUNDO Y CUARTO; 74, PÁRRAFO SEGUNDO; 76, PÁRRAFO SEGUNDO; 77, PÁRRAFO PRIMERO; 78, PÁRRAFOS PRIMERO Y TERCERO; 79, PÁRRAFO PRIMERO; 80; 81; PÁRRAFOS PRIMERO Y SEGUNDO; 82, PÁRRAFOS PRIMERO Y SEGUNDO; 83; 86, PÁRRAFOS PRIMERO, SEGUNDO, TERCERO Y CUARTO; 88, PÁRRAFO SEGUNDO; 89, PÁRRAFOS PRIMERO, SEGUNDO, TERCERO, CUARTO, QUINTO Y SEXTO; 90, PÁRRAFO PRIMERO; 91; Y 93, PÁRRAFOS PRIMERO Y SEGUNDO. SE ADICIONAN: UN PÁRRAFO TERCERO AL ARTÍCULO 1; LAS FRACCIONES XIX, XX, XXI, XXII. XXIII Y XXIV AL ARTÍCULO 2; UN PÁRRAFO SEGUNDO A LA FRACCIÓN IV DEL ARTÍCULO 3; LA FRACCIÓN XIV AL ARTÍCULO 19; LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 22; UN PÁRRAFO CUARTO AL ARTÍCULO 25; UN PÁRRAFO CUARTO AL ARTÍCULO 29; LA FRACCIÓN XIII AL ARTÍCULO 35; UN PÁRRAFO CUARTO, UN PÁRRAFO SEGUNDO A LA FRACCIÓN V; Y LAS FRACCIONES XXVII, XXVIII Y XXIX AL ARTÍCULO 37; LA FRACCIÓN X AL ARTÍCULO 41; UN PÁRRAFO DÉCIMO AL ARTÍCULO 42; UN PÁRRAFO TERCERO AL ARTÍCULO 43; LAS FRACCIONES VII BIS, XIII Y XIV AL ARTÍCULO 45; UN PÁRRAFO SEGUNDO A LA FRACCIÓN II AL ARTÍCULO 47; EL ARTÍCULO 47 BIS; UN PÁRRAFO SEGUNDO A LA FRACCIÓN I; UN PÁRRAFO TERCERO A LA FRACCIÓN II; LA FRACCIÓN III; Y LOS PÁRRAFOS CUARTO Y QUINTO AL ARTÍCULO 48; EL ARTÍCULO 48 BIS; Y LAS FRACCIONES XIV Y XV AL ARTÍCULO 49; UN SEGUNDO PÁRRAFO A LA FRACCIÓN VI; Y LAS FRACCIONES XI Y XII AL ARTÍCULO 54; UN PÁRRAFO SEGUNDO AL ARTÍCULO 55; UN PÁRRAFO QUINTO AL ARTÍCULO 56; UN SÉPTIMO PÁRRAFO AL ARTÍCULO 57; LOS PÁRRAFOS SEGUNDO, TERCERO, CUARTO, QUINTO, SEXTO Y SÉPTIMO, RECORRIÉNDOSE EN SU ORDEN EL SUBSECUENTE, AL ARTÍCULO 59; UN PÁRRAFO SEGUNDO AL ARTÍCULO 60; LOS PÁRRAFOS DÉCIMO SEGUNDO, DÉCIMO TERCERO, DÉCIMO CUARTO Y DÉCIMO QUINTO AL ARTÍCULO 62; UN PÁRRAFO TERCERO AL ARTÍCULO 63; LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 64; Y UN SEGUNDO PÁRRAFO A LA FRACCIÓN II AL ARTÍCULO 65; TODOS DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Los contratos celebrados antes de la entrada en vigor del presente Decreto continuarán regulándose hasta su terminación por las disposiciones de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, según corresponda, vigentes al momento de su celebración.
+
+TERCERO. Los procedimientos de contratación y suscripción del contrato que se encuentren en trámite a la fecha de entrada en vigor de la presente Ley continuarán tramitándose hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
+
+CUARTO. En un plazo no mayor a ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, se deberán realizar todas las adecuaciones reglamentarias que resulten necesarias.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
