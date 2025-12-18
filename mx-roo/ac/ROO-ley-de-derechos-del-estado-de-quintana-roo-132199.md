@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-derechos-del-estado-de-quintana-roo-132199"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2025-12-16"
+last_updated: "2025-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 31 de diciembre de 2018.
 
@@ -263,9 +263,17 @@ Escrituras Públicas o Actas Notariales 30.00
 
 II. Por la expedición de constancias 5.75
 
-III. La expedición de copias certificadas, causará
+> <small>(REFORMADO [N. DE E, ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-los derechos conforme a lo siguiente:
+III. La expedición de copias certificadas, causará los
+
+derechos conforme a lo siguiente, exceptuando de ello
+
+a aquellas solicitadas por las Dependencias de la
+
+Administración Pública Central del Estado de Quintana
+
+Roo o sus Órganos Administrativos Desconcentrados.
 
 a) Por la primera hoja 4.03
 
@@ -398,6 +406,12 @@ Alimentario Moroso. 3.50
 XIV. Por la expedición del Certificado de
 
 Registro de Deudor Alimentario Moroso. 3.50
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+XV. Por la expedición de la Constancia de Descendencia y/o
+
+No Descendencia. 3.50.
 
 ###### Artículo 20.
 
@@ -533,7 +547,11 @@ con anotación marginal 5.50
 
 i) Trámite de actas certificadas de otras entidades federativas:
 
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 18 DE DICIEMBRE DE 2025)</small>
+
 1. Reconocimiento o adopción 2.75
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 18 DE DICIEMBRE DE 2025)</small>
 
 2. Matrimonio, defunción, divorcio o inscripción de actos 6.50
 
@@ -542,6 +560,10 @@ i) Trámite de actas certificadas de otras entidades federativas:
 j) Procedimiento de reconocimiento de
 
 identidad de género. 5.50
+
+1. (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025) (sic)
+
+2. (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025) (sic)
 
 ###### Artículo 22.
 
@@ -613,21 +635,65 @@ valuador 15.00
 
 #### SECCIÓN QUINTA. DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 29.
 
-Los servicios que se presten en el Registro Público de la Propiedad y del Comercio causarán derechos conforme a la tarifa siguiente:
+Los servicios que se presten en el Registro Público de la Propiedad y del Comercio, relativos a la sección inmobiliaria, mobiliaria o de personas jurídicas o morales no mercantiles causarán derechos conforme a las tarifas siguientes:
 
 CONCEPTO UMA
 
-I. Por solicitud de análisis y calificación de documentos que contengan actos inscribibles, por cada acto o negocio jurídico del que deba de emitirse una calificación dentro de cada folio registral a que se refiera el documento presentado. 65.00
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+I. Por solicitud de análisis y calificación de documentos
+
+que contengan actos inscribibles, por cada acto o negocio
+
+jurídico del que deba de emitirse una calificación dentro de
+
+cada folio registral a que se refiera el documento
+
+presentado, con excepción de aquellas solicitadas por
+
+las Dependencias de la Administración Pública Central del
+
+Estado de Quintana Roo y sus Órganos Administrativos
+
+Desconcentrados, cuando la inscripción correspondiente
+
+se realice en beneficio del patrimonio del propio
+
+Gobierno del Estado. 65.00
+
+> <small>(REFORMADA P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 II. Por solicitud de análisis y calificación de documentos que contengan actos anotables ya sean preventiva o definitivamente por cada acto o negocio jurídico del que deba de emitirse una calificación dentro de cada folio registral a que se refiera el documento presentado. 65.00
 
-III. Por solicitud de asiento de presentación de aviso preventivo con vigencia de 30 y de 90 días. 12.00
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-IV. Por la expedición de copias certificadas relativas a los actos que obren en el programa informático por hoja. 2.00
+III. Por solicitud de asiento de presentación de primer
+
+aviso preventivo con vigencia de 30 días o segundo
+
+aviso preventivo con vigencia de 90 días. 12.00
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+IV. Por la expedición de copias certificadas relativas a
+
+los actos que obren en el programa informático por hoja,
+
+con excepción de aquellas solicitadas por las
+
+Dependencias de la Administración Pública Central del
+
+Estado de Quintana Roo y sus Órganos Administrativos
+
+Desconcentrados, cuando la inscripción correspondiente
+
+se realice en beneficio del patrimonio del propio Gobierno
+
+del Estado. 2.00
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
@@ -643,9 +709,15 @@ b) Por folio: en el que se certificarán los actos que reporte el sistema por di
 
 Cuando el servicio solicitado corresponda a inmuebles ubicados en Delegación distinta al de la ubicación del solicitante: 8.00
 
+> <small>(REFORMADA P.O. 18 DE DICIEMBRE DE 2019)</small>
+
 VI. Por expedición de constancias de asiento registral por folio 5.00
 
+> <small>(REFORMADA P.O. 18 DE DICIEMBRE DE 2019)</small>
+
 VII. Por búsqueda que se realice a través del Programa Informático para la expedición de constancia de propiedad y no propiedad, por cada nombre buscado 5.00
+
+> <small>(REFORMADA P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 VIII. Por el depósito de testamentos
 
@@ -657,13 +729,41 @@ c) Si el depósito se hace fuera de las horas de oficina. 15.00
 
 d) Por búsqueda para la emisión de informe de existencia de depósito de testamento. 10.00
 
+> <small>(REFORMADA P.O. 18 DE DICIEMBRE DE 2019)</small>
+
 IX. Por la ratificación de documentos privados en el caso a que se refiere el artículo 2599 y 3162 fracción III del Código Civil para el Estado Libre y Soberano de Quintana Roo y la constancia de la misma. 15.00
 
-X. Por el análisis y calificación de actos relativos a anotaciones de actas aclaratorias consistentes en rectificación de ubicación, medidas, colindancias, clave catastral, localidad, coordenadas y vialidad. 5.00
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+X. Por el análisis y calificación de actos relativos a
+
+anotaciones de actas aclaratorias consistentes en
+
+rectificación que realice la autoridad competente respecto
+
+a la ubicación, medidas, colindancias, clave catastral,
+
+localidad, coordenadas y vialidad, municipio y cualquier
+
+otro dato análogo. 5.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+En el supuesto que la rectificación verse sobre errores
+
+atribuibles a los fedatarios públicos, se pagarán derechos
+
+conforme a lo establecido en la fracción I de este artículo.
+
+> <small>(REFORMADA P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 XI. Por cancelación de avisos preventivos que anuncian la formalización de actos ordenados por los Notarios. 8.00
 
+> <small>(REFORMADA P.O. 18 DE DICIEMBRE DE 2019)</small>
+
 XII. Por inscripción del acta de matrimonio por cuanto hace al régimen patrimonial de aquél. 30.00
+
+> <small>(REFORMADA P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 XIII. Por cada foja de los documentos a que se refieren las fracciones I y II de este artículo. 0.20
 
@@ -681,11 +781,21 @@ XV. Por el servicio de alta de una Notaría Pública, como usuario en el sistema
 
 XVI. Por el servicio de alta de notarías foráneas para la verificación de los instrumentos notariales por 12 meses 85.00
 
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+XVII. Expedición de certificados de libertad o de
+
+existencia de Gravamen 5.00
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 30.
 
-Los servicios que se presten en el Registro Público del Comercio causarán derechos de acuerdo a la tarifa siguiente:
+Los servicios que se presten en el Registro Público de la Propiedad y del Comercio, relativos a la sección de Comercio, causarán derechos de acuerdo con las tarifas siguientes:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 509 A LA 513.]</small>
+
+> <small>[N. DE E. VÉASE REFORMA A TABLA EN EL P.O. DE 18 DE DICIEMBRE DE 2025, PÁGINA 13.]</small>
 
 ###### Artículo 31.
 
@@ -737,13 +847,13 @@ Lo dispuesto en la fracción I, inciso c) del presente artículo, se aplicará �
 
 II. Venta de ejemplares.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-a) Por cada página en blanco y negro. 0.25
+a). Por cada página en blanco y negro. 0.08
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-b) Por cada página a color. 0.50
+b). Por cada página a color. 0.15
 
 c) (DEROGADO, P.O. 23 DE DICIEMBRE DE 2024)
 
@@ -971,6 +1081,50 @@ Artículo. 32 Quáter. Por el servicio que otorga el Centro Estatal de Evaluaci�
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO I-BIS. DE LA SECRETARÍA DE LAS MUJERES
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 33.
+
+Bis. Por los servicios que preste la Secretaría de las Mujeres, se causarán los derechos, conforme a las tarifas siguientes:
+
+Concepto Tarifa (UMA)
+
+Curso de preparación para la evaluación en
+
+estándares de competencia laboral con
+
+perspectiva de género por persona 13.25
+
+Evaluación de Estándar de Competencia 21.39
+
+Gestión de Certificado de Estándar de
+
+Competencia Nivel 2 9.35
+
+Gestión de Certificado de Estándar de
+
+Competencia Nivel 3 10.6
+
+Gestión de Certificado de Estándar de
+
+Competencia Nivel 4 14.26
+
+Gestión para la Renovación, reexpedición y
+
+duplicado de certificados impresos 7.15
+
+Gestión de acreditación de la Entidad
+
+Certificadora 291.27
+
+Gestión de reconocimiento oficial y validación
+
+de Centros de Evaluación 32.23
+
 > <small>(REFORMADO [N. DE E. ANTES SECCIÓN TERCERA], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ### CAPÍTULO II. DE LA SECRETARÍA DE FINANZAS Y PLANEACIÓN
@@ -980,10 +1134,6 @@ Artículo. 32 Quáter. Por el servicio que otorga el Centro Estatal de Evaluaci�
 APARTADO A
 
 EXPEDICIÓN DE LICENCIAS DE FUNCIONAMIENTO
-
-### CAPÍTULO III. DE LA SECRETARÍA DE DESARROLLO TERRITORIAL URBANO SUSTENTABLE
-
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 34.
 
@@ -1073,9 +1223,11 @@ IV. Venta de bebidas alcohólicas en envase cerrado para su distribución al may
 
 V. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2024)
 
-(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024) (F. DE E., P.O. 16 DE ENERO DE 2025)
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-VI. Licencia adicional de venta en línea y/o a domicilio 604.00
+VI. Servicio en línea y/o a domicilio para su
+
+distribución a mayoreo 604.00
 
 CONCEPTO TARIFA
 
@@ -1155,7 +1307,13 @@ CONCEPTO TARIFA
 
 6. PERMISOS ESPECIALES. UMA
 
-I. Cuando se enajenen bebidas alcohólicas en envase cerrado con presentación de artesanía mexicana, denominados souvenirs; 240.00
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+I. Cuando se enajenen bebidas alcohólicas en
+
+envase cerrado con presentación de
+
+artesanía mexicana, denominados souvenirs; 240.00
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2022)</small>
 
@@ -1427,59 +1585,107 @@ Los servicios prestados por el Instituto Geográfico y Catastral del Estado, cau
 
 CONCEPTO UMA
 
-I. Por la subdivisión de predios:
+I. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2025)
 
-a) cuando resulten dos lotes 4.60
+a) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
-b) Cuando resulten más de dos lotes, por lote excedente 4.00
+b) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
 II. Expedición de croquis y planos:
 
-a) Plano de localización impreso tamaño carta o
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-archivo digital (formato PDF) 3.00
+a) Plano de localización impreso tamaño carta y
 
-b) Plano con georreferenciación impreso
+archivo digital (formato PDF) 6.00
 
-tamaño carta o archivo digital (formato PDF). 6.00
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-c) Planos de colonias o regiones urbanas,
+b) Plano con georreferenciación impreso tamaño
 
-impreso en tamaño doble carta, 45x60 cm o
+carta y archivo digital (formato PDF). 8.00
 
-archivo digital (formato PDF) 8.00
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-d) Planos de localidades urbanos, impreso en
+c) Plano de colonias o regiones urbanas, archivo digital (formato PDF) o impreso.
 
-tamaño 45x60 cm, 60x90 cm, 60x120 cm o
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-archivo digital (formato PDF) 10.00
+1. Hoja tamaño 45x60 cm 10.00
 
-e) Planos municipales, impresos en
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-tamaño en 45x60 cm, 60x90 cm, 60x120 cm o
+2. Hoja tamaño 90x60 cm 11.00
 
-archivo digital (formato PDF) 12.00
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-f) Planos estatales, impreso en
+3. Hoja tamaño 90x120 cm 12.00
 
-tamaño 45x60 cm, 60x90 cm, 60x120 cm o
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-archivo digital (formato PDF) 15.00
+d) Plano de localidad urbana, archivo digital (formato PDF) o impreso.
 
-g) Planos de localidades rurales impreso
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-en tamaño 45x60 cm, 60x90 cm, 60x120 cm
+1. Hoja tamaño 45x60 cm 10.00
 
-o archivo digital (formato PDF) 10.00
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-h) Por Ortofoto en archivo digital (formato PDF) 15.00
+2. Hoja tamaño 80x60 cm 11.00
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-i) Croquis de ubicación del predio 1.00
+3. Hoja tamaño 90x120 cm 12.00
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+e) Plano municipal, archivo digital (formato PDF) o impreso.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+1. Hoja tamaño 45x60 cm 10.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+2. Hoja tamaño 90x60 cm 11.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+3. Hoja tamaño 90x120cm 12.00
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+f) Plano estatal, archivo digital (formato PDF) o impreso.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+1. Hoja tamaño 90x60 cm 15.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+2. Hoja tamaño 90x120 cm 16.00
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+g) Planos de localidad rural, archivo digital (formato PDF) o impreso.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+1. Hoja tamaño 45x60 cm 10.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+2. Hoja tamaño 90x60 cm 11.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+3. Hoja tamaño 90x120 cm 12.00
+
+h) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
+
+i) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
 j) Km2 de ortoimagen de archivo generada
 
@@ -1489,171 +1695,61 @@ Archivo en formato GeoTIFF, 5 cm de tamaño
 
 de pixel, georreferenciada en UTM, zona 16 norte,
 
-ITRF08, metros. 10.00.
+ITRF08, metros. 15.00.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+k) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
-k) Km2 de ortoimagen de archivo generada
+l) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
-con vehículo aéreo no tripulado a escala 1:1,500.
+m) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
-Archivo en formato GeoTIFF, 5 cm de tamaño
+n) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
-de pixel, georreferenciada en UTM, zona 16 norte,
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-ITRF08, metros. 10.00
+o) Por tres horas de mapeo terrestre 3D, externo o
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+interno. Se entrega un archivo en formato LAS,
 
-l) Km2 de ortoimagen nueva, generada con
+que incluye el entorno externo o interno,
 
-vehículo aéreo no tripulado a escala 1:1,500.
+georreferenciado y con puntos colorizados a partir
 
-Archivo en formato GeoTIFF, 5 cm de tamaño
+de imágenes fotográficas. 100.00
 
-pixel, georreferenciada en UTM, zona 16 norte,
+p) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
-ITRF08, metros. Incluye gastos de traslado
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-y viáticos. 25.00
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
-
-m) Hora de levantamiento LIDAR terrestre,
-
-3mm de precisión, con puntos de referencia
-
-geodésica cm con corrección a la RGNA o
-
-RGNP del INEGI. Se entrega nube de puntos
-
-en formato LAS colorizada a partir de
-
-imágenes fotográficas. Incluye gastos de traslado
-
-y viáticos hasta 250 de distancia en carretera
-
-a partir de Chetumal. 50.00
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
-
-n) Hora de levantamiento LIDAR terrestre,
-
-3mm de precisión, con puntos de referencia
-
-geodésica cm con corrección a la RGNA o
-
-RGNP del INEGI. Se entrega nube de puntos
-
-en formato LAS colorizada a partir de
-
-imágenes fotográficas. Incluye gastos de
-
-traslado y viáticos, de 250 a 500 kms de distancia
-
-en carretera a partir de Chetumal. 80.00
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
-
-o) 3 horas de mapeo 3D externo e interno
-
-para preservación digital de monumentos,
-
-edificaciones, BIM, evaluación de proyectos,
-
-análisis de riesgos, entre otros. El servicio
-
-integra mapeo 3D con vehículo aéreo no
-
-tripulado y 3hrs de levantamiento LIDAR
-
-con estación terrestre. Se entrega archivo
-
-en formato LAS que incluye el mundo externo
-
-e interno, georreferenciado y puntos colorizados
-
-a partir de imágenes fotográficas. Incluye gastos
-
-de traslado y viáticos considerando hasta
-
-250 kms de distancia en carretera a partir
-
-de Chetumal. 100.00
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
-
-p) 3 horas de mapeo 3D externo e interno
-
-para preservación digital de monumentos,
-
-edificaciones, BIM, evaluación de proyectos,
-
-análisis de riesgos, entre otros. El servicio
-
-integra mapeo 3D con vehículo aéreo
-
-no tripulado y 3hrs de levantamiento LIDAR
-
-con estación terrestre. Se entrega archivo
-
-en formato LAS que incluye el mundo
-
-externo e interno, georreferenciado y
-
-puntos colorizados a partir de imágenes
-
-fotográficas. Incluye gastos de traslado y
-
-viáticos, de 250 a 500 kms de distancia
-
-de Chetumal. 145.00
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
-
-q) Km2 de archivo digital vectorial de predios,
+q) Hectárea de archivo digital vectorial de predios,
 
 en formato digital shapefile, a escala 1:2000,
 
-con atributos de área, perímetro, estado,
+con atributos de área, perímetro, estado, municipio,
 
-municipio, localidad, manzana y lote.
+localidad, manzana y lote. Georreferenciado en UTM,
 
-Georreferenciado en UTM, zona 16 norte,
+zona 16 norte, ITRF08, metros. 10.00
 
-ITRF08, metros. Km2 de archivo digital
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-vectorial de predios, en formato digital
+r) Hora de asesoría o capacitación especializada
 
-shapefile, a escala 1:2000, con atributos
+en materia de geodesia, cartografía, fotogrametría,
 
-de área, perímetro, estado, municipio,
+sistemas de información geográfica, percepción
 
-localidad, manzana y lote. Georreferenciado
+remota pasiva, percepción remota pasiva,
 
-en UTM, zona 16 norte, ITRF08, metros. 10.00
+LIDAR, CAD o con catastro multifinalitario. Grupos
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+máximo 10 personas 15.00
 
-r) Hora de asesoría o capacitación
-
-especializada en materia de geodesia,
-
-cartografía, fotogrametría, sistemas de
-
-información geográfica, percepción remota pasiva,
-
-percepción remota pasiva (sic), LIDAR,
-
-CAD o minería de datos relacionados con
-
-catastro multifinalitario. 15.00
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
 s) Colocación de punto de control georreferenciado
 
-con GPS de doble banda. Costo. 17.00
+con GNSS de doble banda sin monumentación. 17.00
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
@@ -1663,35 +1759,59 @@ que resulte entre la distancia de la sede
 
 del IGECE al lugar de prestación por servicio 10.00
 
-III. Por copias de planos:
+> <small>(ADICIONADO[N. DE E. CON SUS NUMERALES], P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-a) En papel bond blanco y negro.
+u) Elaboración de mapas temáticos, archivo digital (formato PDF) o impreso.
 
-1. Tamaño carta 3.00
+1. Tamaño 45x60 cm 10.00
 
-2. Tamaño doble carta 5.00
+2. Tamaño 90x60 cm 11.00
 
-3. Tamaño 45x60 cm 6.00
+3. Tamaño 90x120 cm 12.00
 
-4. Tamaño 90x60 cm 8.00
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-5. Tamaño 90x120 cm 10.00
+v) Cédula de identificación de la red geodésica estatal. 2.00
 
-b) Copias en papel bond a color.
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-1. Tamaño carta 4.00
+w) Monumentación de vértice geodésico 18.00
 
-2. Tamaño doble carta 6.00
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-3. Tamaño 45x60 cm 8.00
+x) Colocación de mojonera 10.00
 
-4. Tamaño 90x60 cm 10.00
+III. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2025)
 
-5. Tamaño 90x120 cm 12.00
+a) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
-IV. Por expedición de certificados de valor catastral 4.00
+1. (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
-V. Por la práctica de avalúos del suelo que realicen peritos designados por el IGECE a solicitud del interesado, se ajustará a lo siguiente:
+2. (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
+
+3. (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
+
+4. (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
+
+5. (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
+
+b) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
+
+1. (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
+
+2. (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
+
+3. (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
+
+4. (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
+
+5. (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
+
+IV. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2025)
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+V. Por la práctica de avalúos comerciales que realicen peritos a solicitud del interesado, se ajustará a lo siguiente:
 
 a) Terrenos Urbanos
 
@@ -1715,7 +1835,9 @@ del IGECE al lugar de prestación por
 
 servicio se cobrarán: 10.00
 
-b) Predios rústicos
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+b) Terrenos Rurales
 
 1. Hasta de una hectárea 50.00
 
@@ -1775,35 +1897,31 @@ predios urbanos, lotes de 5001 hasta
 
 VII. Los servicios catastrales no previstos en esta sección, pagarán una cuota que no excederá del costo de los mismos, la que será fijada por el Gobierno del Estado.
 
-VIII. Constancias de inexistencia de registro
+VIII. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2025)
 
-en la plataforma Catastral. 6.00
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-Por cada 25 kilómetros o fracción adicional,
+IX. Constancias de Registro en la plataforma Catastral 6.00
 
-que resulte entre la distancia de la sede del
-
-IGECE al lugar de prestación por servicio se cobrarán: 10.00
-
-IX. Constancias de Registro 6.00
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
 X. Realización de vuelo fotogramétrico georreferenciado mediante RPAS (equipo aéreo no tripulado) según lo siguiente:
 
-a) Predios de 1 a 80 hectáreas. 370.00
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-b) Predio de más de 80 hectáreas más 15.00 UMA
+a) Predios de 1 a 40 hectáreas. 200.00
 
-el costo del inciso a). por cada
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-5 hectáreas
-
-adicionales.
+b) Por cada 5 hectáreas el costo del inciso a). 15.00
 
 XI. Por dictámenes técnicos en agrimensura o planimetría 60.00
 
 XII. Por cada 25 kilómetros o fracción adicional, que resulte entre la distancia de la sede del IGECE al lugar de prestación por servicio se cobrarán: 10.00
 
-XIII. Constancia de Actualización de datos catastrales 8.00
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+XIII. Constancia de Actualización de datos catastrales 6.00
 
 ###### Artículo 51.
 
@@ -1903,13 +2021,13 @@ e) San Miguelito (Nacionales) 1.50
 
 f) San Miguelito (Extranjeros) 4.25
 
-VIII Municipio de Cozumel:
+VIII. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2025)
 
 CONCEPTO UMA
 
-a) San Gervasio (Nacionales) 1.50
+a) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
-b) San Gervasio (Extranjeros 4.25
+b) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
 Pagarán el 50% de los derechos a que se refieren los incisos a) y c) de la fracción I, incisos a), c) y e) de las fracciones II, IV y VII, inciso a) de las fracciones III, V, VI y VIII de este artículo las personas mayores de 60 años, menores de 10 años, jubilados, pensionados, discapacitados, profesores y estudiantes en activo, así como los pasantes o investigadores que cuenten con permiso del Instituto Nacional de Antropología e Historia, para realizar estudios afines a los museos, monumentos y zonas arqueológicas a que se refiere este artículo.
 
@@ -2007,11 +2125,11 @@ El Gobierno del Estado podrá utilizar hasta un 5% del patrimonio del fideicomis
 
 #### SECCIÓN DÉCIMA PRIMERA. DE LOS SERVICIOS PARA EL TRÁMITE DEL PERMISO DE PESCA-DEPORTIVA
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 51
 
-Decies. Por el servicio para la gestión y trámite para la expedición del permiso individual para efectuar la pesca deportivo-recreativa en embarcaciones y de manera subacuática, se causará un derecho con una tarifa de 2.5 UMA.
+Decies. Por el servicio para la gestión y trámite para la expedición del permiso individual para efectuar la pesca deportivo-recreativa en embarcaciones y de manera subacuática, se causará un derecho con una tarifa de 0.50 UMA.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
@@ -2049,7 +2167,9 @@ En el caso de los Peritos Valuadores Inmobiliarios para fines fiscales que reali
 
 > <small>(REFORMADO [N. DE E. ANTES SECCIÓN CUARTA], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO IV. DE LA SECRETARÍA DE OBRAS PÚBLICAS
+### CAPÍTULO III. DE LA SECRETARÍA DE DESARROLLO TERRITORIAL URBANO SUSTENTABLE
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 #### SECCIÓN PRIMERA. DE LA SECRETARÍA DE DESARROLLO TERRITORIAL URBANO SUSTENTABLE
 
@@ -2373,9 +2493,7 @@ Las dependencias y entidades de la administración pública paraestatal, estará
 
 > <small>(REFORMADO [N. DE E. ANTES SECCIÓN QUINTA], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO V. DE LA SECRETARÍA DE ECOLOGÍA Y MEDIO AMBIENTE
-
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+### CAPÍTULO IV. DE LA SECRETARÍA DE OBRAS PÚBLICAS
 
 ###### Artículo 55.
 
@@ -2401,9 +2519,9 @@ Contratistas del Estado de Quintana Roo. 37.00
 
 > <small>(REFORMADO [N. DE E. ANTES SECCIÓN SEXTA], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO VI. DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO, RURAL Y PESCA
+### CAPÍTULO V. DE LA SECRETARÍA DE ECOLOGÍA Y MEDIO AMBIENTE
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 #### SECCIÓN PRIMERA. DE LA SECRETARÍA DE ECOLOGÍA Y MEDIO AMBIENTE
 
@@ -2689,39 +2807,51 @@ I. Por los servicios relacionados con la materia de Prevención y Control de la 
 
 a) Por análisis y verificación documental para acreditar el Permiso Anual para el vehículo automotor para el Transporte de Aguas Residuales y Aguas Residuales Tratadas
 
-1. Aguas de tipo especial 50.00
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-2. Aguas azules 40.00
+1. Aguas de tipo especial 70.00
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+2. Aguas azules 60.00
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 b) Por análisis y verificación documental para acreditar el Refrendo Anual del Permiso del vehículo automotor para el Transporte de Aguas Residuales y Aguas Residuales Tratadas
 
-1. Aguas de tipo especial 30.00
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-2. Aguas azules 25.00
+1. Aguas de tipo especial 50.00
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+2. Aguas azules 40.00
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 c)·Por análisis y verificación documenta! para acreditar el Refrendo Extemporáneo Anual del Permiso del vehículo automotor para el Transporte de Aguas Residuales y Aguas Residuales Tratadas.
 
-1. Aguas de tipo especial 80.00
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-2. Aguas azules 70.00
+1. Aguas de tipo especial 90.00
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+2. Aguas azules 80.00
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-d) Por análisis y resolución de la Cédula de Desempeño Ambiental, que opera de acuerdo a la Licencia de Funcionamiento Ambiental 150.00
+d) Por análisis y resolución de la Cédula de Desempeño Ambiental, que opera de acuerdo a la Licencia de Funcionamiento Ambiental 300.00
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-e) Por refrendo y resolución de la Cédula de Desempeño Ambiental, que opera de acuerdo a la Licencia de Funcionamiento Ambiental 75.00
+e) Por refrendo y resolución de la Cédula de Desempeño Ambiental, que opera de acuerdo a la Licencia de Funcionamiento Ambiental 150.00
 
 f) (DEROGADO, P.O. 22 DE DICIEMBRE DE 2021)
 
 g) Por solicitud extemporánea del refrendo de la Cédula de Desempeño Ambiental que opera de acuerdo a la Licencia de Funcionamiento ambiental 200.00
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
 h) Por análisis y calificación documental para
 
@@ -2729,9 +2859,9 @@ acreditar la inscripción al Registro Estatal de
 
 Prestadores de Servicios en Materia de Prevención y
 
-Control de la Contaminación. 50.00
+Control de la Contaminación. 100.00
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
 i) Por análisis y calificación documental para acreditar el
 
@@ -2739,7 +2869,7 @@ Refrendo Anual del Registro Estatal de Prestadores de
 
 Servicios en Materia de Prevención y
 
-Control de la Contaminación Ambiental. 40.00
+Control de la Contaminación Ambiental. 80.00
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
@@ -2931,23 +3061,19 @@ f) Estudiantes con credencial vigente, Profesores e
 
 Investigadores de la Universidad de Quintana Roo Exentos
 
-3. Acceso al cenote:
+3. (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
-a) Locales Chemuyil-Akumal-Tulum) (sic) 0.2367
+a) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
-b) Quintanarroenses 0.3551
+b) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
-c) Nacionales 0.5918
+c) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
-d) Extranjeros 0.7101
+d) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
-e) Menores de 8 años, mayores de 65 años y
+e) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
-personas con discapacidad Exentos
-
-f) Estudiantes con credencial vigente, Profesores
-
-e Investigadores de la Universidad de Quintana Roo Exentos
+f) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
@@ -2981,15 +3107,15 @@ personas con discapacidad. EXENTO
 
 a) Por autorización anual a prestadores de servicios náuticos, acuático-recreativo, de bajo impacto. 4.6041
 
-b) Por ingreso diario a zonas de aprovechamientos de bajo impacto; pesca deportiva, pesca de liberación y/o actividades similares en las épocas establecidas. 8.0571
+b) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-IV. SANTUARIO DEL MANATI (BAHÍA DE CHETUMAL).
+IV. RESERVA ESTATAL SANTUARIO DEL MANATÍ BAHÍA DE CHETUMAL.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-1. Admisión al Público (CARMA)
+1. Admisión al Público
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2024)</small>
 
@@ -3017,7 +3143,7 @@ personas con discapacidad. EXENTO
 
 a) Por autorización anual a prestadores de servicios Ecoturísticos, turismo alternativo y/o similares. 5.1796
 
-b) Por concepto de ingreso diario en zonas de aprovechamiento de bajo impacto, pesca deportiva, pesca de liberación y/o similares en las épocas establecidas. 4.6041
+b) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
 c) Por concepto de provisión anual de servicios ecosistémicos únicamente para establecimientos fijos o móviles que opera con fines de lucro dentro del ANP. 57.5508
 
@@ -3101,9 +3227,9 @@ Estarán exentos del pago de los derechos a que se refiere el presente artículo
 
 > <small>(REFORMADO [N. DE E. ANTES SECCIÓN NOVENA], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO VII. SECRETARÍA DE EDUCACIÓN
+### CAPÍTULO VI. DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO, RURAL Y PESCA
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 65.
 
@@ -3131,7 +3257,7 @@ IX. Verificación de animales, productos y subproductos para ingreso al Estado. 
 
 > <small>(REFORMADO [N. DE E. ANTES SECCIÓN DÉCIMA], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO VIII. DE LA SECRETARÍA DE SALUD
+### CAPÍTULO VII. SECRETARÍA DE EDUCACIÓN
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -3205,7 +3331,9 @@ III. Peritos valuadores. 17.25
 
 > <small>(REFORMADO [N. DE E. ANTES SECCIÓN DÉCIMA PRIMERA], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO IX. DE LA SECRETARÍA DE LA CONTRALORÍA
+### CAPÍTULO VIII. DE LA SECRETARÍA DE SALUD
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 #### SECCIÓN ÚNICA. EN HOSPITALES Y JURISDICCIONES SANITARIAS
 
@@ -3245,55 +3373,77 @@ Los servicios médicos asistenciales que se otorguen a la población con segurid
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-> <small>(REFORMADO [N. DE E. ANTES SECCIÓN DÉCIMA TERCERA], P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-### CAPÍTULO X. DE LA OFICIALÍA MAYOR
+### CAPÍTULO IX. DE LA SECRETARÍA ANTICORRUPCIÓN Y BUEN GOBIERNO
 
 ###### Artículo 71.
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE LA CONTRALORÍA
+#### SECCIÓN PRIMERA. DE LA SECRETARÍA ANTICORRUPCIÓN Y BUEN GOBIERNO
 
 ###### Artículo 72.
 
 Por la constancia de no inhabilitación, 1.00 UMA.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 73.
 
-Por el análisis de la documentación para participar en la designación de despacho externo que realizan auditorías externas sobre estados financieros y/o con extensión fiscal, 6.20 UMA.
+Por el análisis de la documentación para participar en la designación de despacho externo que realice auditorías externas sobre estados financieros y/o con extensión fiscal, 6.20 UMA.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 #### SECCIÓN SEGUNDA. DE LA VERIFICACIÓN, CONTROL Y FISCALIZACIÓN DE OBRA PÚBLICA
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 73
 
-Bis. Por la verificación, control y fiscalización que las leyes en la materia encomiendan a la Secretaría de la Contraloría y al Órgano de Fiscalización Superior del Estado, los contratistas con quien se celebren los contratos de Obra Pública Estatal o para los servicios relacionados con la misma, cuyo financiamiento se realice con recursos propios o con empréstitos otorgados directamente al Gobierno del Estado o en los que éste sea aval, pagarán un derecho equivalente al 5 al millar sobre el importe de cada una de las estimaciones de trabajo.
+Bis. Por la verificación, control y fiscalización que las leyes en la materia encomiendan a la Secretaría Anticorrupción y Buen Gobierno y al Órgano de Fiscalización Superior del Estado, los contratistas con quien se celebren los contratos de Obra Pública Estatal o para los servicios relacionados con la misma, cuyo financiamiento se realice con recursos propios o con empréstitos otorgados directamente al Gobierno del Estado o en los que éste sea aval, pagarán un derecho equivalente al 5 al millar sobre el importe de cada una de las estimaciones de trabajo.
 
-Las dependencias y organismos auxiliares de la Administración Pública Estatal al hacer el pago de las estimaciones de obra que le corresponda, retendrán el derecho a que se refiere el párrafo anterior y lo enterarán a la oficina, establecimiento o institución de crédito autorizada por la Secretaría, quien a su vez registrará el 50% de todo lo recaudado por este concepto a favor de la partida presupuestal de la Secretaría de la Contraloría y se aplicará a gastos inherentes a sus operaciones de verificación y control de la Obra Pública en términos de la Ley de Presupuesto y Gasto Público del Estado de Quintana Roo. El otro 50% de todo lo recaudado por este concepto será transferido por la Secretaría al Órgano de Fiscalización Superior del Estado para su integración al Fondo para el Fortalecimiento de la Fiscalización Superior.
+Las dependencias y organismos auxiliares de la Administración Pública Estatal al hacer el pago de las estimaciones de obra que le corresponda, retendrán el derecho a que se refiere el párrafo anterior y lo enterarán a la oficina, establecimiento o institución de crédito autorizada por la Secretaría, quien a su vez registrará el 50% de todo lo recaudado por este concepto a favor de la partida presupuestal de la Secretaría Anticorrupción y Buen Gobierno y se aplicará a gastos inherentes a sus operaciones de verificación y control de la Obra Pública en términos de la Ley de Presupuesto y Gasto Público del Estado de Quintana Roo. El otro 50% de todo lo recaudado por este concepto será transferido por la Secretaría al Órgano de Fiscalización Superior del Estado para su integración al Fondo para el Fortalecimiento de la Fiscalización Superior.
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE JULIO DE 2021)</small>
 
-### CAPÍTULO XI. DE LA SECRETARIA DE SEGURIDAD CIUDADANA
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)</small>
+### CAPÍTULO X. DE LA OFICIALÍA MAYOR
 
 ###### Artículo 74.
 
 (DEROGADO, P.O. 16 DE JULIO DE 2021)
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO X-BIS. DE LA CONSEJERÍA JURÍDICA DEL PODER EJECUTIVO
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 74
+
+Bis. Por los servicios que preste la Consejería Jurídica del Poder Ejecutivo, se causarán los derechos, conforme a las tarifas siguientes:
+
+CONCEPTO UMA
+
+I. Curso de Alineación el Estándar de
+
+Competencia 13.25
+
+II. Evaluación de Alineación al Estándar de
+
+Competencia 21.20
+
+III. Certificado de Alineación al Estándar de
+
+Competencia 10.60
+
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA SU DENOMINACIÓN], P.O. 21 DE DICIEMBRE DE 2023)</small>
 
-### CAPÍTULO II. DE LOS SERVICIOS QUE PRESTAN LAS ENTIDADES
+### CAPÍTULO XI. DE LA SECRETARIA DE SEGURIDAD CIUDADANA
 
-> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
-
-### CAPÍTULO ÚNICO.
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 75.
 
@@ -3731,7 +3881,9 @@ VI. ACCIONES FORMATIVAS DE DESARROLLO DEL TALENTO DIGITAL
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO I. FISCALÍA GENERAL DEL ESTADO
+### CAPÍTULO II. DE LOS SERVICIOS QUE PRESTAN LAS ENTIDADES
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 #### SECCIÓN PRIMERA. INSTITUTO DE LA CULTURA Y LAS ARTES DE QUINTANA ROO
 
@@ -4001,7 +4153,7 @@ INSTITUTO PARA EL DESARROLLO DEL PUEBLO MAYA Y LAS COMUNIDADES INDÍGENAS DEL ES
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-### CAPITULO II. INSTITUTO DE ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO
+### CAPÍTULO ÚNICO.
 
 ###### Artículo 117.
 
@@ -4013,7 +4165,7 @@ INSTITUTO PARA EL DESARROLLO DEL PUEBLO MAYA Y LAS COMUNIDADES INDÍGENAS DEL ES
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-### CAPITULO III. TRIBUNAL DE JUSTICIA ADMINISTRATIVA
+### CAPÍTULO I. FISCALÍA GENERAL DEL ESTADO
 
 ###### Artículo 118.
 
@@ -4021,7 +4173,7 @@ INSTITUTO PARA EL DESARROLLO DEL PUEBLO MAYA Y LAS COMUNIDADES INDÍGENAS DEL ES
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO IV. COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO
+### CAPITULO II. INSTITUTO DE ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO
 
 ###### Artículo 119.
 
@@ -4029,9 +4181,7 @@ INSTITUTO PARA EL DESARROLLO DEL PUEBLO MAYA Y LAS COMUNIDADES INDÍGENAS DEL ES
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+### CAPITULO III. TRIBUNAL DE JUSTICIA ADMINISTRATIVA
 
 ###### Artículo 120.
 
@@ -4039,9 +4189,7 @@ INSTITUTO PARA EL DESARROLLO DEL PUEBLO MAYA Y LAS COMUNIDADES INDÍGENAS DEL ES
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO I. OTROS DERECHOS
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+### CAPÍTULO IV. COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO
 
 ###### Artículo 121.
 
@@ -4053,9 +4201,9 @@ INSTITUTO PARA EL DESARROLLO DEL PUEBLO MAYA Y LAS COMUNIDADES INDÍGENAS DEL ES
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE ABRIL DE 2019)</small>
 
-### CAPÍTULO II. ACCESORIOS DE LOS DERECHOS
+### CAPÍTULO ÚNICO
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 122.
 
@@ -4129,7 +4277,7 @@ Cualquier institución pública estatal no prevista en la presente ley, que pres
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO III. DERECHOS CAUSADOS EN EJERCICIOS FISCALES ANTERIORES PENDIENTES DE LIQUIDACIÓN O PAGO
+### CAPÍTULO I. OTROS DERECHOS
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -4175,11 +4323,19 @@ para escrituraciones. 9.0
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
+### CAPÍTULO II. ACCESORIOS DE LOS DERECHOS
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 124.
 
 Son los ingresos que se perciben por concepto de recargos, sanciones, gastos de ejecución, indemnizaciones, entre otros, asociados a los derechos, cuando éstos no se cubran oportunamente, de conformidad con la legislación aplicable en la materia.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+### CAPÍTULO III. DERECHOS CAUSADOS EN EJERCICIOS FISCALES ANTERIORES PENDIENTES DE LIQUIDACIÓN O PAGO
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 125.
 
@@ -4574,3 +4730,11 @@ P.O. 16 DE DICIEMBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 196 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones legales de igual o inferior jerarquía que se opongan al presente Decreto.
