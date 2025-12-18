@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2025-11-03"
+last_updated: "2025-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2025.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -3071,7 +3071,7 @@ A quien ejerza los actos propios de una profesión o especialidad sin tener tít
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE MARZO DE 2016)</small>
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO I
 
 CORRUPCIÓN DE MENORES E INCAPACES.
 
@@ -3079,33 +3079,17 @@ EXPLOTACIÓN SEXUAL
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
 
-### CAPÍTULO ÚNICO. LENOCINIO
+### CAPÍTULO II. DELITOS CONTRA LA EXPRESIÓN O IDENTIDAD DE GÉNERO Y LA ORIENTACIÓN SEXUAL
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ## TÍTULO QUINTO. DE LOS DELITOS CONTRA EL DESARROLLO DE LAS PERSONAS MENORES E INCAPACES
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-### CAPÍTULO I. DELITO CONTRA LA LIBRE EXPRESIÓN
+### CAPÍTULO ÚNICO. LENOCINIO
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2025)</small>
-
-Artículo 240 d.- Se impondrá de uno a seis años de prisión y de diez a sesenta días multa, a quien:
-
-I.- Utilice la violencia o el acoso para impedir que se ejerza la actividad periodística.
-
-II.- Obstaculice, impida o reprima ilícitamente el ejercicio de la libertad de expresión como derecho inherente a la actividad periodística.
-
-III.- Obstaculice, impida o reprima la libertad de expresión.
-
-Cuando en la comisión de este delito intervenga un servidor público, la pena de prisión se aumentará de una mitad del mínimo a una mitad del máximo; y se le inhabilitará para ocupar cargo, empleo o comisión públicos por un término igual al de la sanción privativa de la libertad impuesta.
-
-La punibilidad prevista en este artículo se aplicará siempre que el hecho no constituya otro delito de mayor gravedad.
-
-El presente delito se perseguirá por querella.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 236.
 
@@ -3151,7 +3135,47 @@ A quien emplee a un menor de dieciocho años o a un incapaz en cantinas, bares, 
 
 Las sanciones que señalan los artículos anteriores se aumentarán hasta en una mitad más cuando el delito se cometa por quien tenga parentesco por consanguinidad en línea recta o colateral hasta el segundo grado, por afinidad o civil o habite en el mismo domicilio con la víctima aunque no existiera parentesco alguno, así como por el tutor o curador. Además, se le impondrá la pérdida de la patria potestad respecto de todos sus descendientes y el derecho a alimentos que le correspondiera por su relación con la víctima.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO I. DELITO CONTRA LA LIBRE EXPRESIÓN
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2025)</small>
+
+Artículo 240 d.- Se impondrá de uno a seis años de prisión y de diez a sesenta días multa, a quien:
+
+I.- Utilice la violencia o el acoso para impedir que se ejerza la actividad periodística.
+
+II.- Obstaculice, impida o reprima ilícitamente el ejercicio de la libertad de expresión como derecho inherente a la actividad periodística.
+
+III.- Obstaculice, impida o reprima la libertad de expresión.
+
+Cuando en la comisión de este delito intervenga un servidor público, la pena de prisión se aumentará de una mitad del mínimo a una mitad del máximo; y se le inhabilitará para ocupar cargo, empleo o comisión públicos por un término igual al de la sanción privativa de la libertad impuesta.
+
+La punibilidad prevista en este artículo se aplicará siempre que el hecho no constituya otro delito de mayor gravedad.
+
+El presente delito se perseguirá por querella.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE JUNIO DE 2025)</small>
+
+###### Artículo 239
+
+a.- Además de las sanciones impuestas a quienes incurran en los delitos descritos en este capítulo, quedarán inhabilitados para ser tutores o curadores.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+Artículo 239 b. A quien imparta u obligue a un menor de edad o incapaz a recibir esfuerzos para corregir la orientación sexual, o la identidad o expresión de género, se le impondrá de dos a seis años de prisión y de veinte a sesenta días multa. Este delito se perseguirá de oficio.
+
+Se entiende por esfuerzos para corregir la orientación sexual, o la identidad o expresión de género, aquellas prácticas en las que se emplea violencia física, moral o psicoemocional y se utilicen tratos crueles, inhumanos o degradantes que atenten contra la dignidad humana, consistentes en sesiones psicológicas, psiquiátricas, médicas o cualquier método o tratamiento, que tengan por objeto anular o menoscabar la expresión o identidad de género o la orientación sexual de la víctima.
+
+Cuando el sujeto activo del delito sea el padre, madre o tutor de la víctima, la pena aplicable será de veinte a sesenta días multa y tratamiento psicoterapéutico integral por el tiempo que determine el juez.
+
+El consentimiento informado otorgado por la víctima mayor de edad excluye a este delito.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 2011)</small>
+
+## TÍTULO SEXTO. DEL DELITO DE LENOCINIO
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 2011)</small>
 
 ### CAPÍTULO II. DELITO CONTRA LA PROMOCIÓN O DEFENSA DE DERECHOS HUMANOS
 
@@ -3168,20 +3192,6 @@ Cuando en la comisión de este delito intervenga un servidor público, la pena d
 La punibilidad prevista en este artículo se aplicará siempre que el hecho no constituya otro delito de mayor gravedad.
 
 El presente delito se perseguirá por querella, salvo cuando los ofendidos sean personas defensoras de derechos humanos involucrados en el proceso de búsqueda de personas desaparecidas, caso en el cual se perseguirá de oficio.
-
-###### Artículo 239
-
-a.- Además de las sanciones impuestas a quienes incurran en los delitos descritos en este capítulo, quedarán inhabilitados para ser tutores o curadores.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 2011)</small>
-
-## TÍTULO SEXTO. DEL DELITO DE LENOCINIO
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 2011)</small>
-
-### CAPÍTULO I. REBELIÓN
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 240.
 
@@ -3207,11 +3217,11 @@ c.- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 26 DE JUNIO DE 2025)</small>
 
+### CAPÍTULO I. REBELIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+
 ### CAPÍTULO II. SEDICIÓN
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
-
-### CAPÍTULO III. MOTÍN
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -3219,7 +3229,7 @@ c.- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
 ## TÍTULO PRIMERO. DE LOS DELITOS CONTRA LA SEGURIDAD DEL ESTADO
 
-### CAPÍTULO IV. TERRORISMO
+### CAPÍTULO III. MOTÍN
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -3237,29 +3247,29 @@ III.- Separar de sus cargos a alguno de los funcionarios del Estado, mencionados
 
 No se aplicará sanción por el delito de rebelión a quien habiéndose alzado deponga las armas antes de ser tomado prisionero.
 
-### CAPÍTULO V. REGLAS GENERALES
+### CAPÍTULO IV. TERRORISMO
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 243.
 
 A quienes en forma tumultuaria y violenta resistan o ataquen a la autoridad para impedir u obstaculizar el ejercicio de sus funciones, se les aplicará de tres meses a tres años de prisión y de tres a treinta días multa.
 
-### CAPÍTULO I. COHECHO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+### CAPÍTULO V. REGLAS GENERALES
 
 ###### Artículo 244.
 
 A quienes para ejercitar un derecho o pretendido derecho tumultuariamente empleen violencia en las personas o en las cosas, se les aplicará de seis meses a dos años de prisión y de cinco a veinte días multa.
 
-### CAPÍTULO II. PECULADO
+### CAPÍTULO I. COHECHO
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 245.
 
 A quien por cualquier medio realice actos en contra de las personas, las cosas o servicios al público, que produzcan alarma, temor o terror en la población o en un sector de ella, para perturbar la paz pública, menoscabar la autoridad del Estado o presionar a la autoridad para que tome una determinación, se le impondrá prisión de tres a quince años y de treinta a ciento cincuenta días multa.
 
-### CAPÍTULO III. CONCUSIÓN
+### CAPÍTULO II. PECULADO
 
 > <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
@@ -3273,9 +3283,9 @@ Tratándose de personas extranjeras se aumentará hasta un tercio de la punibili
 
 ## TÍTULO SEGUNDO. DE LOS DELITOS POR HECHOS DE CORRUPCIÓN
 
-### CAPÍTULO IV. ENRIQUECIMIENTO ILÍCITO
+### CAPÍTULO III. CONCUSIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 247.
 
@@ -3285,17 +3295,17 @@ Al servidor público que por sí o por medio de otro solicite, reciba o acepte p
 
 A quien dé o haga promesas, dádivas o ventajas a un servidor público para que haga u omita un acto lícito o ilícito relacionado con sus funciones, se le aplicará la misma pena de prisión establecida en el párrafo anterior.
 
-### CAPÍTULO V. USURPACIÓN DE FUNCIONES PÚBLICAS
+### CAPÍTULO IV. ENRIQUECIMIENTO ILÍCITO
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 248.
 
 Al servidor público que disponga de un bien que hubiere recibido en razón de su cargo, se le impondrá de dos a diez años de prisión y de veinte a cien días multa.
 
-### CAPÍTULO VI. TRÁFICO DE INFLUENCIAS
+### CAPÍTULO V. USURPACIÓN DE FUNCIONES PÚBLICAS
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 258], P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 249.
 
@@ -3303,9 +3313,9 @@ Al servidor público que con tal carácter, exija por sí o por medio de otro, d
 
 Si lo exigido indebidamente se convirtiera en provecho propio o de un particular, la pena será de tres a nueve años de prisión y de treinta a noventa días multa.
 
-### CAPÍTULO VII. ABUSO DE AUTORIDAD
+### CAPÍTULO VI. TRÁFICO DE INFLUENCIAS
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 261], P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 258], P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 250.
 
@@ -3317,9 +3327,9 @@ Para efectos del párrafo anterior, se computarán entre los bienes que adquiera
 
 Las mismas sanciones se aplicarán a quien haga figurar como suyos bienes que el servidor público adquiera o haya adquirido ilícitamente, a sabiendas de esa circunstancia.
 
-### CAPÍTULO VIII. EJERCICIO ILÍCITO DEL SERVICIO PÚBLICO
+### CAPÍTULO VII. ABUSO DE AUTORIDAD
 
-> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 261], P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 251.
 
@@ -3329,7 +3339,7 @@ Se sancionará con prisión de tres a doce años y de treinta a ciento veinte d�
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO X], P.O. 24 DE SEPTIEMBRE DE 2018)
 
-### CAPÍTULO IX. USO ILÍCITO DE ATRIBUCIONES Y FACULTADES
+### CAPÍTULO VIII. EJERCICIO ILÍCITO DEL SERVICIO PÚBLICO
 
 > <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
@@ -3349,7 +3359,7 @@ V.- A quien, sin estar autorizado legalmente para intervenir en un negocio públ
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO XIII], P.O. 24 DE SEPTIEMBRE DE 2018)
 
-### CAPÍTULO X. AFECTACIÓN DEL SERVICIO PÚBLICO
+### CAPÍTULO IX. USO ILÍCITO DE ATRIBUCIONES Y FACULTADES
 
 > <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
@@ -3359,7 +3369,7 @@ Al servidor público que dolosamente, con motivo de sus funciones exceda el lím
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
-### CAPÍTULO XI. REGLAS COMUNES
+### CAPÍTULO X. AFECTACIÓN DEL SERVICIO PÚBLICO
 
 > <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
@@ -3375,9 +3385,9 @@ A quienes incurran en las conductas señaladas en las fracciones anteriores, se 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
-### CAPÍTULO I. ABANDONO DE FUNCIONES PÚBLICAS
+### CAPÍTULO XI. REGLAS COMUNES
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 252], P.O. 24 DE SEPTIEMBRE DE 2018)
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 253
 
@@ -3393,9 +3403,9 @@ A quienes incurran en las conductas señaladas en las fracciones anteriores, se 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
-### CAPÍTULO II. FALSEDAD ANTE UNA AUTORIDAD
+### CAPÍTULO I. ABANDONO DE FUNCIONES PÚBLICAS
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 253], P.O. 24 DE SEPTIEMBRE DE 2018)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 252], P.O. 24 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 253
 
@@ -3409,9 +3419,9 @@ Al que cometa el delito a que se refiere el presente artículo, se le impondrán
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
-### CAPÍTULO III. VARIACIÓN DE NOMBRE O DOMICILIO
+### CAPÍTULO II. FALSEDAD ANTE UNA AUTORIDAD
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 254], P.O. 24 DE SEPTIEMBRE DE 2018)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 253], P.O. 24 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 253
 
@@ -3433,9 +3443,9 @@ e.- Cuando el responsable tenga el carácter de particular, el juez deberá impo
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO VI DEL TÍTULO SEGUNDO], P.O. 24 DE SEPTIEMBRE DE 2018)
 
-### CAPÍTULO IV. DESOBEDIENCIA, RESISTENCIA Y EXIGENCIA DE PARTICULARES
+### CAPÍTULO III. VARIACIÓN DE NOMBRE O DOMICILIO
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 255], P.O. 24 DE SEPTIEMBRE DE 2018)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 254], P.O. 24 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 254.
 
@@ -3443,9 +3453,9 @@ A quien injustificadamente abandone las funciones públicas que legalmente tenga
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO VII], P.O. 24 DE SEPTIEMBRE DE 2018)
 
-### CAPÍTULO V. OPOSICIÓN A QUE SE EJECUTE ALGUNA OBRA O TRABAJOS PÚBLICOS
+### CAPÍTULO IV. DESOBEDIENCIA, RESISTENCIA Y EXIGENCIA DE PARTICULARES
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 259], P.O. 24 DE SEPTIEMBRE DE 2018)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 255], P.O. 24 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 255.
 
@@ -3455,9 +3465,9 @@ Lo previsto en este artículo no es aplicable a quien tenga el carácter de incu
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO VIII DEL TÍTULO SEGUNDO], P.O. 24 DE SEPTIEMBRE DE 2018)
 
-### CAPÍTULO VI. QUEBRANTAMIENTO DE SELLOS
+### CAPÍTULO V. OPOSICIÓN A QUE SE EJECUTE ALGUNA OBRA O TRABAJOS PÚBLICOS
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 260], P.O. 24 DE SEPTIEMBRE DE 2018)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 259], P.O. 24 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 256.
 
@@ -3465,9 +3475,9 @@ A quien para eludir el cumplimiento de un mandato de autoridad, oculte su nombre
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO IX DEL TÍTULO SEGUNDO], P.O. 24 DE SEPTIEMBRE DE 2018)
 
-### CAPÍTULO VII. AFECTACIÓN AL ORDENAMIENTO TERRITORIAL
+### CAPÍTULO VI. QUEBRANTAMIENTO DE SELLOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2023)</small>
+(REUBICADO [N. DE E. ANTES ARTÍCULO 260], P.O. 24 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 257.
 
@@ -3487,9 +3497,9 @@ A quien por medio de la violencia física o moral exija a una autoridad la ejecu
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO XI DEL TÍTULO SEGUNDO], P.O. 24 DE SEPTIEMBRE DE 2018)
 
-### CAPÍTULO VIII. DESAPARICIÓN FORZADA DE PERSONAS
+### CAPÍTULO VII. AFECTACIÓN AL ORDENAMIENTO TERRITORIAL
 
-> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2023)</small>
 
 ###### Artículo 260.
 
@@ -3497,7 +3507,9 @@ A quien con actos materiales entorpezca o se oponga a la ejecución de obras o t
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO XII DEL TÍTULO SEGUNDO], P.O. 24 DE SEPTIEMBRE DE 2018)
 
-### CAPÍTULO IX. DISPOSICIONES COMUNES
+### CAPÍTULO VIII. DESAPARICIÓN FORZADA DE PERSONAS
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 261.
 
@@ -3505,9 +3517,7 @@ A quien quebrante sellos puestos por orden de una autoridad, se le aplicará de 
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO XIV DEL TÍTULO SEGUNDO], P.O. 24 DE SEPTIEMBRE DE 2018)
 
-### CAPÍTULO I. TORTURA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+### CAPÍTULO IX. DISPOSICIONES COMUNES
 
 ###### Artículo 262.
 
@@ -3533,9 +3543,9 @@ A quien autorice la ejecución de construcciones susceptibles de ser ocupadas po
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO XV DEL TÍTULO SEGUNDO], P.O. 24 DE SEPTIEMBRE DE 2018)
 
-### CAPÍTULO II. INTIMIDACIÓN
+### CAPÍTULO I. TORTURA
 
-> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 262
 
@@ -3549,9 +3559,9 @@ b.- Si se suspende el ocultamiento de manera espontánea dentro de las setenta y
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO XVI DEL TÍTULO SEGUNDO], P.O. 24 DE SEPTIEMBRE DE 2018)
 
-### CAPÍTULO III. DELITOS DE ABOGADOS, PATRONOS Y LITIGANTES
+### CAPÍTULO II. INTIMIDACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### Artículo 263.
 
@@ -3561,9 +3571,9 @@ Para los efectos de este Código, se reputarán como servidores públicos a los 
 
 ## TÍTULO CUARTO. DE LOS DELITOS CONTRA LA PROCURACIÓN Y ADMINISTRACIÓN DE JUSTICIA
 
-### CAPÍTULO IV. FRAUDE PROCESAL
+### CAPÍTULO III. DELITOS DE ABOGADOS, PATRONOS Y LITIGANTES
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 264.
 
@@ -3583,7 +3593,7 @@ No se considerarán tortura los dolores o sufrimientos que sean consecuencia ún
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE JULIO DE 2017)</small>
 
-### CAPÍTULO V. FALSAS DENUNCIAS
+### CAPÍTULO IV. FRAUDE PROCESAL
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -3593,9 +3603,9 @@ Comete el delito de intimidación el servidor público que por sí, o por interp
 
 Al que cometa el delito de intimidación se le impondrán de dos años a nueve años de prisión y de treinta a cien días multa.
 
-### CAPÍTULO VI. ATRIBUCIÓN INDEBIDA DE INDICIOS
+### CAPÍTULO V. FALSAS DENUNCIAS
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 265.
 
@@ -3621,17 +3631,17 @@ VI.- Como representante del inculpado, de la víctima o del ofendido, se absteng
 
 El supuesto previsto por la fracción I de este artículo, se perseguirá por querella.
 
-### CAPÍTULO VII. EVASIÓN DE DETENIDOS, INCULPADOS O SENTENCIADOS
+### CAPÍTULO VI. ATRIBUCIÓN INDEBIDA DE INDICIOS
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 266.
 
 A quien altere, falsee o simule documentos o actos que provoquen una resolución judicial o administrativa, se le aplicará de tres a nueve años de prisión y de treinta a noventa días multa.
 
-### CAPÍTULO VIII. QUEBRANTAMIENTO DE SANCIONES
+### CAPÍTULO VII. EVASIÓN DE DETENIDOS, INCULPADOS O SENTENCIADOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 267.
 
@@ -3641,9 +3651,9 @@ Cuando esté pendiente el proceso que se instruya por el delito atribuido, se su
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE JUNIO DE 2011)</small>
 
-### CAPÍTULO IX. ENCUBRIMIENTO
+### CAPÍTULO VIII. QUEBRANTAMIENTO DE SANCIONES
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 267
 
@@ -3655,9 +3665,9 @@ a.- Se aplicará de dos a siete años de prisión y de veinte a setenta días mu
 
 (REUBICADO, ANTES CAPÍTULO V, P.O. 3 DE JUNIO DE 2011)
 
-### CAPÍTULO X. EJERCICIO ARBITRARIO DEL PROPIO DERECHO
+### CAPÍTULO IX. ENCUBRIMIENTO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 269.
 
@@ -3687,9 +3697,9 @@ Al detenido, inculpado o sentenciado que se evada, no se le aplicarán las sanci
 
 (REUBICADO, ANTES CAPÍTULO VI, P.O. 3 DE JUNIO DE 2011)
 
-### CAPÍTULO I. DEFRAUDACIÓN FISCAL
+### CAPÍTULO X. EJERCICIO ARBITRARIO DEL PROPIO DERECHO
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 273.
 
@@ -3699,7 +3709,9 @@ A quien quebrante una pena no privativa de libertad, se le aplicará una sanció
 
 (REUBICADO, ANTES CAPÍTULO VII, P.O. 3 DE JUNIO DE 2011)
 
-### CAPÍTULO II. REGLAS COMUNES PARA LOS DELITOS CONTRA LA HACIENDA PÚBLICA
+### CAPÍTULO I. DEFRAUDACIÓN FISCAL
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 274.
 
@@ -3759,7 +3771,7 @@ La excusa no favorecerá a quien obre por motivos reprobables o emplee medios de
 
 (REUBICADO, ANTES CAPÍTULO VIII, P.O. 3 DE JUNIO DE 2011)
 
-### CAPÍTULO I. DELITOS ELECTORALES
+### CAPÍTULO II. REGLAS COMUNES PARA LOS DELITOS CONTRA LA HACIENDA PÚBLICA
 
 ###### Artículo 278.
 
@@ -3771,9 +3783,7 @@ Este delito se perseguirá por querella.
 
 ## TÍTULO QUINTO. DE LOS DELITOS CONTRA LA HACIENDA PÚBLICA
 
-### CAPÍTULO II. DELITOS DE VIOLENCIA POLÍTICA
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+### CAPÍTULO I. DELITOS ELECTORALES
 
 ###### Artículo 279.
 
@@ -3793,9 +3803,9 @@ II.- Haga mal uso de los incentivos fiscales o los aplique para fines distintos 
 
 A quien después de haber dado aviso de traspaso o de cambio de nombre, continúe realizando las operaciones gravadas sin estar amparadas con una nueva autorización para operar o que realice operaciones gravadas bajo el nombre anterior, se le impondrá prisión de uno a cinco años.
 
-### CAPÍTULO I. DELITOS CONTRA LA PRESERVACIÓN Y PROTECCIÓN AL AMBIENTE
+### CAPÍTULO II. DELITOS DE VIOLENCIA POLÍTICA
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 282.
 
@@ -3815,9 +3825,9 @@ La autoridad fiscal sólo podrá otorgar el perdón cuando las personas procesad
 
 > <small>(REFORMADO EN SU NUMERACIÓN, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-### CAPÍTULO II. DELITOS CONTRA LA GESTIÓN AMBIENTAL
+### CAPÍTULO I. DELITOS CONTRA LA PRESERVACIÓN Y PROTECCIÓN AL AMBIENTE
 
-> <small>(REFORMADO Y REUBICADO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 ###### Artículo 284.
 
@@ -3939,7 +3949,7 @@ Se impondrán hasta quinientos días multa a los ministros de culto religioso qu
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-### CAPÍTULO III. REGLAS COMUNES A LOS DELITOS CONTRA EL AMBIENTE
+### CAPÍTULO II. DELITOS CONTRA LA GESTIÓN AMBIENTAL
 
 > <small>(REFORMADO Y REUBICADO, P.O. 12 DE JUNIO DE 2007)</small>
 
@@ -3961,9 +3971,9 @@ Las sanciones a que se refiere el primer párrafo de este artículo se aumentar�
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
-### CAPÍTULO IV. DELITOS CONTRA LA VIDA Y LA INTEGRIDAD DE LOS ANIMALES
+### CAPÍTULO III. REGLAS COMUNES A LOS DELITOS CONTRA EL AMBIENTE
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 ###### Artículo 290.
 
@@ -3986,6 +3996,10 @@ IV.- Ocasione un incendio que dañe a los recursos, vegetación, cuencas hidrol�
 Cuando en la comisión de este delito intervenga un servidor público, la pena de prisión se aumentará en una mitad y se le inhabilitará de uno a cuatro años para ocupar cargo, empleo o comisión públicos.
 
 > <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2007)</small>
+
+### CAPÍTULO IV. DELITOS CONTRA LA VIDA Y LA INTEGRIDAD DE LOS ANIMALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 292.
 
@@ -4572,3 +4586,9 @@ P.O. 3 DE NOVIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 90 DE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE REFORMA EL INCISO A), DE LA FRACCIÓN II; Y SE ADICIONA UNA FRACCIÓN III, AMBOS DEL ARTÍCULO 221 A, DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 18 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 112 DE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA LA NUMERACIÓN DEL CAPÍTULO ÚNICO, DEL TÍTULO QUINTO, DE LA SECCIÓN TERCERA DEL LIBRO SEGUNDO, PARA QUEDAR COMO CAPÍTULO I. SE ADICIONA A ESTE TÍTULO QUINTO UN CAPÍTULO II DENOMINADO DELITOS CONTRA LA EXPRESIÓN O IDENTIDAD DE GÉNERO Y LA ORIENTACIÓN SEXUAL, INTEGRADO POR UN ARTÍCULO 239 B DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
