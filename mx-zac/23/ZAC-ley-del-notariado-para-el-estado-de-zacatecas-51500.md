@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-notariado-para-el-estado-de-zacatecas-51500"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-02"
-last_updated: "2015-03-28"
+last_updated: "2025-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DEL NOTARIADO PARA EL ESTADO DE ZACATECAS
 
 > <small>N. DE E. DE CONFORMIDAD CON EL CONSIDERANDO ÚNICO DEL DECRETO GUBERNATIVO MEDIANTE EL CUAL SE REPONE EL ACTO PROMULGATORIO DE LA LEY DEL NOTARIADO PARA EL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 28 DE MARZO DE 2015, SE PRECISA QUE EL ORDENAMIENTO QUE NOS OCUPA SUFRE EL VICIO FORMAL DE CREACIÓN PUES FUE OMITIDO POR PARTE DEL SECRETARIO DEL RAMO EL REFRENDO A DICHA NORMA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 2 de agosto de 2006.
 
@@ -149,7 +149,9 @@ Se establecen como facultades del titular del Poder Ejecutivo del Estado, las qu
 
 I. Determinar la creación de nuevas notarías o declarar vacantes para que sean cubiertas, para satisfacer los requerimientos que del servicio demande la sociedad;
 
-II. Delegar en licenciados en derecho el ejercicio de la función notarial en el Estado;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+II. Delegar en personas con licenciatura en derecho el ejercicio de la función notarial en el Estado de manera ordinaria o, excepcionalmente, de manera directa, con las restricciones que impone esta Ley;
 
 III. Vigilar que los notarios públicos cumplan con esta Ley y aplicar las sanciones previstas en la misma;
 
@@ -481,9 +483,15 @@ Cada notario obtendrá cada dos años, una constancia de actualización notarial
 
 ### CAPÍTULO III. De los Aspirantes a Notario
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 50.
 
-El ingreso al notariado tendrá lugar mediante el sistema de oposición, que se compone por dos exámenes, el de aspirante a notario y el de notario.
+El ingreso al notariado tendrá lugar de manera ordinaria, mediante el sistema de oposición, que se compone por dos exámenes: el de aspirante a notario y el de notario.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+De manera extraordinaria, podrá tener lugar mediante la designación directa del titular del Poder Ejecutivo durante su periodo de mandato, hasta por un máximo de dos notarias y dos notarios, cuando a su juicio la necesidad del servicio lo requiera.
 
 ###### Artículo 51.
 
@@ -650,6 +658,54 @@ III. Proveerse a su costa del sello de autorizar y de los folios o Libros de pro
 IV. Registrar ante el Tribunal Superior de Justicia, la Secretaría General de Gobierno, la Coordinación General Jurídica, la Dirección de Notarías, la Dirección de Catastro y Registro Público de la Propiedad y el Colegio de Notarios, el sello de autorizar, su firma y antefirma; y
 
 V. Otorgar la garantía a que se refiere el presente ordenamiento.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 66 Bis.
+
+La persona a la que se le otorgue la patente de notario o notaria mediante la designación directa deberá presentar ante la Dirección de Notarias y el Colegio de Notarios un calendario de estudio y trabajo, con duración máxima de 20 meses, dentro de los cuales deberá:
+
+a) Adecuar el espacio físico en el que prestará los servicios notariales, conforme a la normatividad aplicable;
+
+b) Prepararse para el ejercicio de la función notarial mediante actividades formativas, académicas y prácticas que acrediten su profesionalización.
+
+El Colegio de Notarios podrá hacer observaciones al calendario y vigilará su cumplimiento.
+
+Concluido el plazo, la persona titular de la notaria deberá rendir un informe sobre el cumplimiento de metas y objetivos tanto a la Dirección de Notarias como al Colegio de Notarios.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 66 Ter.
+
+La persona titular del Poder Ejecutivo deberá tomar en cuenta la trayectoria jurídica tanto en el litigio o en la administración pública de las personas a las que otorgue, de manera extraordinaria, la patente de una notaría.
+
+Para ser beneficiario del proceso de manera extraordinaria, mediante la designación directa, se deberán acreditar los siguientes requisitos:
+
+I. Ser mexicano o mexicana por nacimiento;
+
+II. Tener, al momento de la designación, no menos de veintiséis y no más de sesenta años de edad;
+
+III. Residir en el estado, por lo menos, cinco años anteriores a la designación;
+
+IV. Estar en pleno ejercicio de sus derechos y gozar de facultades físicas y mentales;
+
+V. Gozar de honestidad profesional;
+
+VI. No ser ministro o ministra de culto religioso;
+
+VII. Tener título de licenciado o licenciada en derecho y cédula profesional;
+
+VIII. Acreditar un ejercicio profesional de cinco años contados a partir de la expedición de la cédula profesional;
+
+IX. No haber sido cesado en el ejercicio de la función notarial en algún estado de la República;
+
+X. No estar sujeto a proceso ni haber sido condenado por sentencia ejecutoriada por delito intencional;
+
+XI. No tener parentesco por consanguinidad hasta el cuarto grado, de afinidad hasta el segundo grado, o vínculo de matrimonio o concubinato con la persona titular del Poder Ejecutivo del Estado;
+
+XII. No haber sido Gobernador o Gobernadora del Estado; Senadora o Senador, Diputada o Diputado federal o local; miembro de algún Ayuntamiento o de órgano de Dirección de Partido Político, durante el año previo a la designación, y
+
+XIII. No estar inscrito o tener registro vigente como persona deudora alimentaria morosa que atente contra las obligaciones alimentarias, ya sea en el Estado de Zacatecas o en cualquier otra entidad, salvo que acredite estar al corriente del pago.
 
 ## TÍTULO IV. Elementos Materiales de la Función Notarial
 
@@ -1852,3 +1908,15 @@ P.O. 28 DE MARZO DE 2015.
 Primero.- El presente Decreto Gubernativo entrará en vigor el mismo día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Segundo.- El Reglamento de la Ley del Notariado del Estado de Zacatecas, publicado en el Suplemento al número 35 del Periódico Oficial, Órgano del Gobierno del Estado en fecha 30 de Abril de 2008, así como su correspondiente reforma publicada en fecha 26 de Septiembre de 2009, subsisten en su (sic) términos, en razón a que ambos instrumentos retoman la norma que en este decreto se transcribe, y como ha quedado señalado en el Considerando, deviene de un proceso legislativo que la califica de perfecta y valida, aunado a esto, el Reglamento como su posterior reforma, cuentan con el correspondiente refrendo por parte del Secretario del Ramo, y por tanto, tales instrumentos no requieren la reposición del acto promulgatorio.
+
+P.O. 18 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 315.- SE REFORMA LA LEY DEL NOTARIADO PARA EL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
