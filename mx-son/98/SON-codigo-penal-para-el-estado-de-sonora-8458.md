@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2023-09-25"
+last_updated: "2025-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE DICIEMBRE DE 2025.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -3389,23 +3389,17 @@ Para que el perdón concedido por la víctima u ofendido, o representante de los
 
 ### CAPITULO IV. Violencia Familiar
 
-> <small>(REFORMADO, B.O. 29 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 234-A.
 
 Por violencia familiar se entiende todo acto de poder u omisión intencional dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional, sexual, económica y/o patrimonialmente a cualquier miembro de la familia, y que pueda causar maltrato físico, verbal, psicológico, sexual, económico y/o daño patrimonial, en los términos de la Ley de Prevención y Atención de la Violencia familiar.
 
-(REFORMADO, B.O. 13 DE JUNIO DE 2019) (F. DE E., P.O. 27 DE JUNIO DE 2019)
-
 Comete el delito de violencia familiar el cónyuge, excónyuge, concubina o concubino, exconcubina o exconcubino o quién tenga o haya tenido una relación de hecho; pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado; pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, tutor o curador que realice cualquiera de los actos descritos en el párrafo anterior. Tratándose de menores de edad, la sanción será la prevista en el artículo 234 E de este Código Penal.
-
-> <small>(REFORMADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
 
 Al que cometa el delito de violencia familiar se le impondrán de uno a seis años de prisión, y pérdida de los derechos que tenga respecto de la víctima, incluidos los de alimentos, de carácter sucesorio y prohibición de ir a un lugar determinado o residir en él, con excepción de los casos de violencia familiar por motivos económicos.
 
-> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
-
-Se aplicará la misma pena del párrafo anterior, a quien cometa el delito de violencia familiar (sic) medio de sistemas de comunicación o programas que sean resultado de la evolución tecnológica, telefonía celular, así como todos aquellos que permitan el intercambio de información.
+Se aplicará la misma pena del párrafo anterior, a quien cometa el delito de violencia familiar por medio de sistemas de comunicación o programas que sean resultado de la evolución tecnológica, telefonía celular, así como todos aquellos que permitan el intercambio de información.
 
 Asimismo, cuando la víctima se trate de un menor, será condenado a la pérdida, limitación o suspensión de la patria potestad, según las circunstancias del caso, a juicio del juez. Si el delito se cometiera en contra de la víctima, por su condición de género, se aumentará la pena que corresponda hasta en una tercera parte.
 
@@ -3413,15 +3407,9 @@ En todo caso, el victimario deberá sujetarse a un tratamiento psicológico espe
 
 Si se rehabilita, podrá recuperar el derecho de alimentos por resolución judicial.
 
-> <small>(REFORMADO, B.O. 16 DE MARZO DE 2021)</small>
-
 Este delito se perseguirá de oficio.
 
-> <small>(DEROGADO NOVENO PÁRRAFO, B.O. 16 DE MARZO DE 2021)</small>
-
-> <small>(DEROGADO DÉCIMO PÁRRAFO, B.O. 16 DE MARZO DE 2021)</small>
-
-> <small>(REFORMADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+Cuando las conductas descritas en el presente capítulo se cometan en contra de una mujer embarazada o una persona con discapacidad, la pena se aumentará hasta en una mitad en su mínimo y en su máximo.
 
 Las penas contenidas en este capítulo se duplicarán cuando haya reincidencia o cuando el imputado de los delitos descritos en este capítulo haya obtenido con anterioridad el beneficio de la suspensión condicional del proceso por el mismo delito.
 
@@ -6138,6 +6126,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se abroga el Decreto número 112, aprobado el día 09 de marzo de 2023.
+
+B.O. 18 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 72 POR EL QUE “SE REFORMA EL ARTÍCULO 234-A DEL CÓDIGO PENAL DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
 ###### ARTICULO QUINTO.
 
