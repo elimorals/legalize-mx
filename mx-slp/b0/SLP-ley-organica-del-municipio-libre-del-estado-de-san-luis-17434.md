@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2025-11-14"
+last_updated: "2025-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -652,6 +652,10 @@ XIV. Intervenir en la regularización de la tenencia de la tierra urbana en los 
 XV. Señalar un destino diverso a las partidas presupuestales no agotadas, cumpliendo en todo caso con lo previsto en la Ley de Deuda Pública del Estado y Municipios de San Luis Potosí;
 
 XVI. Celebrar convenios para la seguridad social de sus trabajadores con las instituciones del ramo;
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+Sin perjuicio de lo anterior, los ayuntamientos deberán garantizar que las personas integrantes de los cuerpos de seguridad pública municipal accedan de manera efectiva a prestaciones de retiro, jubilación o pensión, mediante esquemas operados por instituciones públicas de seguridad social que consideren su naturaleza funcional y condiciones de riesgo, en el que se observen criterios de viabilidad financiera, continuidad institucional y transparencia, conforme a los lineamientos que para su operación, seguimiento y evaluación emita el cabildo;
 
 XVII. Proveer lo necesario en auxilio de las autoridades competentes, para el cumplimiento de las disposiciones en materia del servicio militar nacional y seguridad pública;
 
@@ -3698,3 +3702,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Una vez entrado en vigor el presente Decreto, los municipios contaran con un término de quince días hábiles, para nombrar a las y los integrantes de la Comisión Permanente Municipal de Asuntos de la Mujer, de acuerdo a las disposiciones de la propia Ley Orgánica del Municipio Libre del Estado de San Luis Potosí.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0334.- QUE REALIZA ADICIÓN AL ARTÍCULO 114, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; EN MATERIA DE SEGURIDAD SOCIAL DIGNA DE LOS MIEMBROS DE LOS CUERPOS POLICIALES MUNICIPALES; REALIZA ADICIÓN AL ARTÍCULO 31, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; Y REALIZA ADICIÓN AL ARTÍCULO 57, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Los ayuntamientos de la Entidad deberán realizar los ajustes normativos internos necesarios para la implementación de esta reforma constitucional y legal, en un plazo no mayor a ciento veinte días contados a partir de su entrada en vigor.
+
+TERCERO. Los derechos pensionarios adquiridos con anterioridad a la entrada en vigor de esta reforma se respetarán conforme al régimen aplicable al momento de su otorgamiento, sin perjuicio de que los beneficiarios puedan optar voluntariamente por incorporarse a los nuevos esquemas que se establezcan.
+
+CUARTO. En el ejercicio fiscal siguiente a la entrada en vigor de esta reforma, los ayuntamientos deberán prever en sus respectivos proyectos de presupuesto de egresos una partida específica para el financiamiento de los esquemas de previsión social aplicables a las personas integrantes de los cuerpos de seguridad pública municipal.
