@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-civil-para-el-estado-de-tamaulipas-22002"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-05"
-last_updated: "2023-12-11"
+last_updated: "2025-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "TAM"
 ---
 # LEY DE PROTECCION CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+NOTA 1: [N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+NOTA 2: [N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 18 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:11 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:18 DE DICIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 5 de junio de 2001.
 
@@ -1864,3 +1866,87 @@ P.O. 11 DE DICIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 66-911 MEDIANTE EL CUAL SE EXPIDE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Protección Civil para el Estado de Tamaulipas, expedida mediante Decreto número 427, del 23 de mayo del 2001 y publicada en el Periódico Oficial del Estado, número 67, de fecha 5 de junio de 2001.
+
+###### ARTÍCULO TERCERO.
+
+El Gobierno del Estado a propuesta de la Coordinación Estatal de Protección Civil, en un plazo no mayor a 90 días deberá emitir el Reglamento de la Ley de Protección Civil para el Estado de Tamaulipas. Las disposiciones reglamentarias y administrativas de Protección Civil se seguirán aplicando en lo que no se opongan a esta Ley, en tanto se emite el Reglamento y demás disposiciones.
+
+###### ARTÍCULO CUARTO.
+
+El Gobierno del Estado y los Ayuntamientos deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos y demás normas en un plazo que no exceda de 90 días contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+La implementación de la Ley de Protección Civil para el Estado de Tamaulipas, que se expide mediante el presente Decreto, se realizará conforme a la disponibilidad presupuestal y al presupuesto asignado en cada ejercicio fiscal.
+
+###### ARTÍCULO SEXTO.
+
+Los desastres y las emergencias que hayan ocurrido con anterioridad a la entrada en vigor de la Ley, se atenderán conforme a los recursos financieros y a las disposiciones administrativas vigentes a la fecha en que sucedieron.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Sistema Estatal de Protección Civil, así como el Consejo Estatal de Protección Civil, deberán quedar instalados en un plazo no mayor a 60 días a partir de la publicación del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+El Consejo Estatal de Protección Civil contará con un plazo de 90 días a partir de su instalación para emitir su Reglamento.
+
+###### ARTÍCULO NOVENO.
+
+La Secretaría General de Gobierno, realizará las modificaciones a su estructura que sean necesarias para el cumplimiento de esta Ley en un plazo no mayor a 90 días a partir de la publicación del presente Decreto.
+
+###### ARTÍCULO DÉCIMO.
+
+Los Programas Estatal y municipales de Protección Civil deberán ser emitidos en un plazo no mayor a 120 días a partir de la publicación del presente Decreto.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Para efecto del Capítulo I, del Título Sexto del presente Decreto, la Secretaría General de Gobierno, tendrá un plazo de 180 días para emitir las reglas de distribución de víveres y los lineamientos de fomento de la cultura de Protección Civil, a partir de la publicación del presente Decreto.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+El Ejecutivo Estatal en coordinación con la Secretaría de Finanzas, establecerá las reglas de operación y montos para la creación del Fondo Estatal de Protección Civil en un plazo no mayor a 180 días a partir de la publicación del presente Decreto.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+La profesionalización de las personas servidoras públicas será en etapas, de conformidad con las reglas que para tal efecto determine la Secretaría General de Gobierno y deberá concluirse en un plazo que no podrá exceder de 3 años contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Se asignará de acuerdo a la capacidad presupuestal, recursos para el Fondo Estatal de Protección Civil, el cual será progresivo y hasta por el máximo que se establezca en su respectivo Decreto de creación.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Los municipios realizarán las modificaciones necesarias a los recursos humanos, materiales y financieros para dar cumplimiento al presente Decreto, con base en su capacidad presupuestal.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Las direcciones y secretarías de los municipios, destinadas a la atención de la materia de Protección Civil, pasarán a la denominación de coordinaciones municipales de Protección Civil, y sus recursos humanos, materiales y financieros serán trasladados a dicha coordinación.
+
+###### ARTÍCULO DECIMO SÉPTIMO.
+
+Los terceros acreditados contarán con un plazo de un año, a partir de la publicación del presente Decreto para acreditar la capacitación correspondiente de conformidad con lo dispuesto en la presente Ley.
+
+###### ARTÍCULO DÉCIMO OCTAVO.
+
+Los municipios del Estado deberán emitir el reglamento interno de su Coordinación de Protección Civil, en un plazo que no podrá exceder de 90 días contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DÉCIMO NOVENO.
+
+La Secretaría General de Gobierno, la Secretaría Anticorrupción y Buen Gobierno y la Coordinación Estatal de Protección Civil, realizarán las modificaciones necesarias a los recursos humanos, materiales y financieros para dar cumplimiento al presente Decreto, con base en el presupuesto asignado para el presente ejercicio fiscal.
+
+###### ARTÍCULO VIGÉSIMO.
+
+Los procedimientos de sanciones o infracciones iniciados previo a la entrada en vigor del presente Decreto, concluirán conforme a la legislación vigente al momento de su inicio.
