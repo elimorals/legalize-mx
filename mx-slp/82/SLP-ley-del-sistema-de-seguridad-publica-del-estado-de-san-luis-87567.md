@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2025-10-14"
+last_updated: "2025-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -1318,6 +1318,10 @@ V. Recibir un trato digno y decoroso con pleno respeto a sus derechos humanos;
 VI. Percibir la remuneración acorde a las funciones, riesgos, rangos y puestos respectivos, así como las prestaciones previstas como mínimas para los trabajadores al servicio del Estado; estos conceptos no podrán ser disminuidos durante el ejercicio de su encargo;
 
 VII. Disfrutar las prestaciones y servicios de seguridad social, garantizando un sistema de retiro digno;
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+Los ayuntamientos deberán garantizar que las personas integrantes de los cuerpos de seguridad pública municipal accedan de manera efectiva a prestaciones de retiro, jubilación o pensión, mediante esquemas operados por instituciones públicas de seguridad social que consideren su naturaleza funcional y condiciones de riesgo, observando en todo momento los criterios de viabilidad financiera, continuidad institucional y transparencia, conforme a los lineamientos que para su operación, seguimiento y evaluación emita el cabildo;
 
 VIII. Contar con sistemas de seguros que contemplen el fallecimiento, desaparición, o la incapacidad total o permanente acaecida en el cumplimiento de sus funciones;
 
@@ -3266,3 +3270,15 @@ P.O. 14 DE OCTUBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 0276.- QUE REALIZA ADICIÓN AL ARTÍCULO 154, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día de su publicación del (sic) el Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 18 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0334.- QUE REALIZA ADICIÓN AL ARTÍCULO 114, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; EN MATERIA DE SEGURIDAD SOCIAL DIGNA DE LOS MIEMBROS DE LOS CUERPOS POLICIALES MUNICIPALES; REALIZA ADICIÓN AL ARTÍCULO 31, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; Y REALIZA ADICIÓN AL ARTÍCULO 57, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Los ayuntamientos de la Entidad deberán realizar los ajustes normativos internos necesarios para la implementación de esta reforma constitucional y legal, en un plazo no mayor a ciento veinte días contados a partir de su entrada en vigor.
+
+TERCERO. Los derechos pensionarios adquiridos con anterioridad a la entrada en vigor de esta reforma se respetarán conforme al régimen aplicable al momento de su otorgamiento, sin perjuicio de que los beneficiarios puedan optar voluntariamente por incorporarse a los nuevos esquemas que se establezcan.
+
+CUARTO. En el ejercicio fiscal siguiente a la entrada en vigor de esta reforma, los ayuntamientos deberán prever en sus respectivos proyectos de presupuesto de egresos una partida específica para el financiamiento de los esquemas de previsión social aplicables a las personas integrantes de los cuerpos de seguridad pública municipal.
