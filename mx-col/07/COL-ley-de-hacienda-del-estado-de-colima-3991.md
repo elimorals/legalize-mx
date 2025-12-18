@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2025-08-30"
+last_updated: "2025-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -649,9 +649,9 @@ Artículo 41 O.- Cuando no se efectúen las retenciones a que se refiere el art�
 
 Artículo 41 P.- Es base de este impuesto el monto total de las erogaciones efectuadas en dinero o en especie a que se refiere el artículo 41 M.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-Artículo 41 Q.- El impuesto se determinará aplicando a la base que resulte conforme al artículo anterior o en su caso el artículo 41 O, la tasa del 2%.
+Artículo 41 Q.- El impuesto se determinará aplicando a la base que resulte conforme al artículo anterior o en su caso el artículo 41 O, la tasa del 3%.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
@@ -4011,6 +4011,20 @@ V. Por el uso de instalaciones para eventos:
 
 4.- Auditorio Multifuncional, por día 125.000
 
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+VI.- Por el uso diario de espacio comercial dentro de las unidades deportivas y el Estadio Colima, por metro cuadrado ................................................... 2.000
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+VII.- Por el uso de espacios para instalación de lonas publicitarias dentro de las unidades deportivas y el Estadio Colima:
+
+a) De uno a tres metros cuadrados, por mes. 22.097
+
+b) De tres a seis metros cuadrados, por mes. 35.354
+
+c) De seis metros en adelante, por mes. 44.193
+
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 Los ingresos que se obtengan de los diversos conceptos establecidos en el presente artículo, serán destinados íntegramente a la conservación y mejoramiento físico de las instalaciones de las unidades deportivas, José María Morelos, Gustavo Vázquez Montes, Rey Colimán y el Estadio Colima.
@@ -6257,9 +6271,9 @@ ambiental (MADA) 80.000
 
 5.- En su modalidad de riesgo ambiental (MARA) 40.000
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-6.- Por el otorgamiento del certificado de cabal cumplimiento de las condicionantes establecidas en la Ley Ambiental para el Desarrollo Sustentable del Estado de Colima 70.000
+6.- Por el otorgamiento de la certificación de cabal cumplimiento de las condicionantes establecidas en la Ley Ambiental para el Desarrollo Sustentable del Estado de Colima 30.000
 
 IV.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2023)
 
@@ -6267,13 +6281,13 @@ IV.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2023)
 
 V.- Por la inscripción o refrendo en el Registro Estatal de Prestadores de Servicios Ambientales, de las personas físicas o morales que realicen manifiestos de impacto o riesgo, diagnóstico o informes de factibilidad, anualmente:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-1. Por la inscripción 260.000
+1. Por la inscripción 130.000
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-2. Por el refrendo 160.000
+2. Por el refrendo 80.000
 
 VI.- Por la inscripción o refrendo en el Registro Estatal de Prestadores de Servicios Ambientales, de los laboratorios ambientales que realicen análisis de contaminantes, anualmente 300.000
 
@@ -6438,6 +6452,10 @@ especiales (PMRME) 10.000
 XIX.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2023)
 
 XX.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2023)
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+XXI.- Por la obtención del sello bajo en carbono a que se refiere el artículo 41 Z BIS 28, numeral 2, de la Ley de Hacienda del Estado de Colima. 17.000
 
 No se pagarán los derechos establecidos en las fracciones I, II, III, IV y VII de este artículo, cuando los servicios de que se trate estén destinados a la realización de obras públicas.
 
@@ -7934,3 +7952,11 @@ P.O. 30 DE AGOSTO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día 01 de septiembre de 2025, previa publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 18 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 199.- POR EL QUE SE APRUEBA REFORMAR Y ADICIONAR DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día 1o. de enero del año 2026, previa publicación en el Periódico Oficial “El Estado de Colima”.
