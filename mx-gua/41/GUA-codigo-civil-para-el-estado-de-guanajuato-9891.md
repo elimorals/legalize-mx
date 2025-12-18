@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2025-11-03"
+last_updated: "2025-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2025.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -239,11 +239,11 @@ El Registro Civil es una institución de orden público e interés social a trav
 
 El funcionamiento del Registro Civil está a cargo de la Dirección General del Registro Civil, cuya estructura, organización y facultades se regulará en el Reglamento del Registro Civil, éste determinará, además, los servidores dotados de fe pública en el ejercicio de la función registral civil.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
 ###### Art. 37.
 
-Los Oficiales del Registro Civil tienen a su cargo autorizar los actos del estado civil y extender las actas relativas a nacimientos, matrimonios y defunciones; así como realizar las anotaciones en las actas respectivas en los casos de reconocimiento de hijos, reconocimiento de la identidad de género, adopción simple, divorcio, e inscripción de las ejecutorias que declaren la ausencia, la presunción de muerte, la tutela y la pérdida o limitación de la capacidad legal para administrar bienes.
+Los Oficiales del Registro Civil tienen a su cargo autorizar los actos del estado civil y extender las actas relativas a nacimientos, matrimonios y defunciones; así como realizar las anotaciones en las actas respectivas en los casos de reconocimiento de hijos, reconocimiento de la identidad de género, adopción, divorcio, e inscripción de las ejecutorias que declaren la ausencia, la presunción de muerte, la tutela y la pérdida o limitación de la capacidad legal para administrar bienes.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -783,41 +783,25 @@ La persona interesada podrá solicitar la rectificación de actas tantas veces l
 
 ### Capítulo IV. De las anotaciones derivadas de la adopción simple
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
-
 ###### Art. 88.
 
-Ejecutoriada la resolución judicial que autorice la adopción, el Juez remitirá copia certificada de la misma al Oficial del Registro Civil, a efecto de que se realice la anotación correspondiente en el acta de nacimiento, previo pago de derechos.
-
-Tratándose de sentencias de adopción dictadas por tribunales extranjeros, se estará a lo dispuesto por el Código Federal de Procedimientos Civiles.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
 ###### Art. 89.
 
-La omisión de registro de la adopción para los efectos del artículo anterior no quita a ésta sus efectos legales.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
 ###### Art. 90.
 
-La anotación de la adopción simple se asentará en el acta de nacimiento y contendrá los siguientes datos:
-
-I. Nombres, apellidos y nacionalidad del o de los adoptantes;
-
-II. Número de expediente y fecha de la resolución, fecha en que causó ejecutoria, puntos resolutivos, y tribunal o autoridad que la dicta; y
-
-III. Nombre y firma del Oficial y sello de la Oficialía del Registro Civil.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
 ###### Art. 91.
 
 (DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
-
 ###### Art. 92.
 
-El Juez o Tribunal que resuelva que una adopción queda sin efecto, remitirá dentro del término de ocho días copia certificada de su resolución al Oficial del Registro Civil, para que cancele la anotación de adopción que obra en el acta de nacimiento.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
 ### Capítulo V. De las actas de tutela
 
@@ -1443,13 +1427,17 @@ Declarada la nulidad, el juez deberá remitir copia de la sentencia al Oficial d
 
 ### Capítulo I. De los requisitos para contraer matrimonio
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
 ###### Art. 143.
 
-El matrimonio debe celebrarse ante los funcionarios que establece la ley y con las formalidades que ella exige.
+El matrimonio deberá celebrarse ante los funcionarios que establece la ley y con las formalidades que ella exige.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
 ###### Art. 144.
 
-Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta.
+Matrimonio es la unión libre de dos personas, que tiene como objeto realizar una comunidad de vida, en la que los cónyuges se procuran respeto, igualdad y ayuda mutua.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2018)</small>
 
@@ -1549,21 +1537,27 @@ El sostenimiento, administración, dirección y atención del hogar se distribui
 
 En el supuesto de que alguno de los cónyuges estuviere imposibilitado para trabajar y careciere de bienes propios, los gastos serán por cuenta del otro cónyuge y se cubrirán con bienes de él.
 
-En caso de que el marido y la mujer no estuvieren conformes sobre alguno de los puntos indicados, el Juez de lo Civil competente procurará avenirlos, si no lo lograre, resolverá sin necesidad de juicio lo que fuere más conveniente atendiendo a las circunstancias y características personales de cada uno de ellos.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+En caso de que las personas cónyuges no estuvieren conformes sobre alguno de los puntos indicados, el Juez de lo Civil competente procurará avenirlos, si no lo lograre, resolverá sin necesidad de juicio lo que fuere más conveniente atendiendo a las circunstancias y características personales de cada uno de ellos.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
 ###### Art. 162.
 
-La mujer tendrá siempre derecho preferente sobre los productos de los bienes del marido y sobre sus sueldos, salarios o emolumentos por las cantidades que corresponde para la alimentación de ella y de sus hijos menores. También tendrá derecho preferente sobre los bienes propios del marido para la satisfacción del mismo objeto. La mujer puede pedir el aseguramiento de los bienes para hacer efectivos estos derechos.
+El cónyuge tendrá siempre derecho preferente sobre los productos de los bienes del otro cónyuge y sobre sus sueldos, salarios o emolumentos por las cantidades que correspondan para su alimentación y la de sus hijos menores. También tendrá derecho preferente sobre los bienes propios del otro cónyuge para la satisfacción del mismo objeto. El cónyuge puede pedir el aseguramiento de los bienes para hacer efectivos estos derechos.
 
 ###### Art. 163.
 
-El marido tendrá el derecho que a la mujer concede el artículo anterior, en los casos en que ésta tenga obligación de contribuir en todo o en parte para los gastos de la familia y del hogar.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
 ###### Art. 164.
 
-El marido y la mujer tendrán en el hogar autoridad y consideraciones iguales; por lo tanto, de común acuerdo arreglarán todo lo relativo a la educación y establecimiento de los hijos y a la administración de los bienes que a éstos pertenezcan.
+Las personas cónyuges tendrán en el hogar autoridad y consideraciones iguales; por lo tanto, en caso de que hubiera hijos, de común acuerdo, arreglarán todo lo relativo a la educación, establecimiento y la administración de los bienes que a estos pertenezcan.
 
-En caso de que el marido y la mujer no estuvieren conformes sobre alguno de los puntos indicados, el Juez de lo Civil correspondiente procurará avenirlos, y si no lo lograre, resolverá sin forma de juicio, lo que fuere más conveniente a los intereses de los hijos.
+En caso de que las personas cónyuges no estuvieren conformes sobre alguno de los puntos indicados, el Juez de lo Civil correspondiente procurará avenirlos, y si no lo lograre, resolverá sin forma de juicio, lo que fuere más conveniente a los intereses de los hijos.
 
 ###### Art. 165.
 
@@ -1583,9 +1577,11 @@ En caso de que el marido y la mujer no estuvieren conformes sobre alguno de los 
 
 Cada cónyuge podrá oponerse a que el otro desempeñe acciones que lesionen el desarrollo integral y estructura de la familia. En todo caso el Juez de lo Civil competente sin necesidad de juicio, resolverá los (sic) que sea procedente.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
 ###### Art. 169.
 
-El marido y la mujer mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones u oponer las excepciones que a ellos corresponden sin que para tal objeto necesite el esposo del consentimiento de la esposa ni ésta de la autorización de aquél, salvo lo que se estipule en las capitulaciones matrimoniales, sobre administración de los bienes.
+Las personas cónyuges tienen capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones u oponer las excepciones que a ellos corresponden sin que para tal objeto necesiten consentimiento o autorización de su cónyuge, salvo lo que se estipule en las capitulaciones matrimoniales, sobre administración de los bienes.
 
 ###### Art. 170.
 
@@ -1603,9 +1599,11 @@ El marido y la mujer mayores de edad, tienen capacidad para administrar, contrat
 
 El contrato de compraventa sólo puede celebrarse entre los cónyuges cuando el matrimonio esté sujeto a régimen de separación de bienes.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
 ###### Art. 174.
 
-El marido y la mujer podrán ejercitar los derechos y acciones que tengan el uno en contra del otro; pero la prescripción entre ellos no corre mientras dure el matrimonio.
+Las personas cónyuges podrán ejercitar los derechos y acciones que tengan el uno en contra del otro; pero la prescripción entre ellos no corre mientras dure el matrimonio.
 
 ###### Art. 175.
 
@@ -2569,9 +2567,11 @@ Ejecutoriada una sentencia de divorcio, el Juez de Primera Instancia de lo Civil
 
 ### Capítulo I. Del parentesco
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
 ###### Art. 346.
 
-La ley no reconoce más parentesco que los de consanguinidad, afinidad y el civil.
+La ley no reconoce más parentesco que los de consanguinidad y afinidad.
 
 ###### Art. 347.
 
@@ -2581,15 +2581,11 @@ El parentesco de consanguinidad es el que existe entre personas que descienden d
 
 El parentesco de afinidad es el que se contrae por el matrimonio, entre el varón y los parientes de la mujer y entre la mujer y los parientes del varón.
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
 ###### Art. 349.
 
-El parentesco civil es el que nace de la adopción plena o de la adopción simple.
-
-En la adopción simple el parentesco, existe entre el adoptante y el adoptado.
-
-En la adopción plena, el parentesco confiere los mismos derechos y obligaciones que los derivados del parentesco consanguíneo.
+En la adopción, el parentesco confiere los mismos derechos y obligaciones que los derivados del parentesco consanguíneo.
 
 ###### Art. 350.
 
@@ -3335,11 +3331,11 @@ II.- Quien ejerza la tutela.
 
 Si el menor que se va a adoptar tiene más de catorce años, también se requiere su consentimiento para la adopción.
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
 ###### Art. 453.
 
-El consentimiento deberá referirse a la adopción simple o a la adopción plena, según el caso, y deberá manifestarse ante el Juez competente, quién hará saber de manera que no quede dudas a los que deban dar su consentimiento, sobre el contenido y alcance del acto.
+El consentimiento referido a la adopción deberá manifestarse ante el Juez competente, quien hará saber de manera que no quede dudas a los que deban dar su consentimiento, sobre el contenido y alcance del acto.
 
 > <small>(REFORMADO, P.O. 30 DE JULIO DE 1996)</small>
 
@@ -3353,15 +3349,15 @@ Si las personas señaladas en el artículo 452 no consienten en la adopción, de
 
 El trámite de la adopción se hará conforme a lo establecido en los artículos 874, 875 y 876 del Código de Procedimientos Civiles.
 
-> <small>(ADICIONADO, P.O. 30 DE JULIO DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-### Capítulo VI. De la adopción plena
+### Capítulo VI. De la adopción
 
-> <small>(REFORMADO Y REUBICADO, P.O. 30 DE JULIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
 ###### Art. 456.
 
-Con la adopción plena, el adoptado se integra plenamente como miembro de la familia del adoptante, adquiriendo lazos de parentesco con todos los parientes de éste, como si hubiera filiación consanguínea. Correlativamente se extinguirán todos los vínculos consanguíneos con la familia del adoptado, subsistiendo los impedimentos para contraer matrimonio.
+Con la adopción la persona adoptada se integra plenamente como miembro de la familia del adoptante, adquiriendo lazos de parentesco con todos los parientes de éste, como si hubiera filiación consanguínea. Correlativamente se extinguirán todos los vínculos consanguíneos con la familia de la persona adoptada, subsistiendo los impedimentos para contraer matrimonio.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 30 DE JULIO DE 1996)</small>
 
@@ -3369,123 +3365,85 @@ Con la adopción plena, el adoptado se integra plenamente como miembro de la fam
 
 El adoptado llevará los apellidos del o de los adoptantes.
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
 ###### Art. 458.
 
-La resolución judicial que apruebe la adopción plena, contendrá la orden al Oficial del Registro Civil, para que cancele en su caso el acta de nacimiento del adoptado así como para que levante el acta de nacimiento en la que figuren como padres, él o los adoptantes; como hijo, el adoptado y como abuelos, los padres de aquél o aquellos, y demás datos que se requieran conforme a la ley, sin hacer mención sobre la adopción.
+La resolución judicial que apruebe la adopción contendrá la orden al Oficial del Registro Civil, para que cancele en su caso el acta de nacimiento de la persona adoptada así como para que levante el acta de nacimiento en la que figuren como padre o madre, él, la o los adoptantes; como hijo, la persona adoptada y como abuelos, los padres de aquél o aquellos, y demás datos que se requieran conforme a la ley, sin hacer mención sobre la adopción.
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 1996)</small>
 
 El duplicado del expediente y a resolución judicial se guardarán en el apéndice del acta quedando absolutamente prohibido dar información sobre ellos, salvo orden de Juez competente.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 30 DE JULIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
 ###### Art. 459.
 
-La adopción plena es irrevocable cuando cause ejecutoria la sentencia que la pronuncie.
+La adopción es plena e irrevocable cuando cause ejecutoria la sentencia que la pronuncie.
 
-> <small>(ADICIONADO, P.O. 30 DE JULIO DE 1996)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
 ### Capítulo VII. De la adopción simple
 
-> <small>(REFORMADO Y REUBICADO, P.O. 30 DE JULIO DE 1996)</small>
-
 ###### Art. 460.
 
-Los derechos y obligaciones que nacen de la adopción simple, así como el parentesco que de ella resulta, se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimentos de matrimonio, respecto de los cuales se observará lo dispuesto en el artículo 154.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 30 DE JULIO DE 1996)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
 ###### Art. 461.
 
-Los derechos y obligaciones que resultan del parentesco por consanguinidad no se extinguen por la adopción simple, excepto la patria potestad que será transferida al adoptante.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
 ###### Art. 462.
 
-El adoptado llevará los apellidos del adoptante, haciéndose las anotaciones correspondientes en el acta de nacimiento sobre la adopción.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 30 DE JULIO DE 1996)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
 ###### Art. 463.
 
-Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando una adopción, quedará ésta consumada.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
 ###### Art. 464.
 
-El Juez que apruebe la adopción, remitirá el duplicado del expediente y la resolución judicial al Oficial del Registro Civil del lugar, para que realice la anotación correspondiente, previo pago de derechos.
-
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2008)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
 ###### Art. 464-A.
 
-El menor o el incapacitado que haya sido adoptado, podrá impugnar la adopción cumplidos los catorce años y hasta alcanzar la mayoría de edad, o a la fecha en que haya desaparecido la incapacidad, respectivamente.
-
-> <small>(ADICIONADO, P.O. 30 DE JULIO DE 1996)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
 ###### Art. 464-B.
 
-La adopción simple puede revocarse:
-
-I.- Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere o se trate de un incapaz, es necesario que consientan en la revocación las personas que prestaron su consentimiento, conforme al artículo 452; y
-
-II.- Por ingratitud del adoptante o del adoptado.
-
-> <small>(ADICIONADO, P.O. 30 DE JULIO DE 1996)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
 ###### Art. 464-C.
 
-En el caso de la fracción I del artículo anterior, el Juez decretará que la adopción queda revocada si convencido de la espontaneidad con que se solicitó la revocación encuentra que ésta es conveniente para los intereses morales y materiales del adoptado.
-
-> <small>(ADICIONADO, P.O. 30 DE JULIO DE 1996)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
 ###### Art. 464-D.
 
-Para los efectos de la fracción II del artículo 464-B, se considera ingrato al adoptante o al adoptado:
-
-I.- Si comete algún delito intencional que merezca una pena mayor de un año de prisión contra la persona, la honra o los bienes del adoptante o del adoptado, según el caso, de su cónyuge, de sus ascendientes o descendientes;
-
-II.- Si el adoptado acusa judicialmente al adoptante, o viceversa, de algún delito que pudiera ser perseguido de oficio, aunque lo pruebe, a no ser que hubiere sido cometido contra el mismo adoptado o adoptante, en su caso, su cónyuge, sus descendientes o ascendientes; y
-
-III.- Si el adoptante o el adoptado rehusan darse alimentos, cuando alguno ha caído en pobreza.
-
-> <small>(ADICIONADO, P.O. 30 DE JULIO DE 1996)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
 ###### Art. 464-E.
 
-La acción de revocación de la adopción por causa de ingratitud no puede ser renunciada anticipadamente, y prescribe en un año, contado a partir de que se comete el acto de ingratitud, o bien, desde que se adquiera la mayoría de edad o desaparezca la incapacidad.
-
-> <small>(ADICIONADO, P.O. 30 DE JULIO DE 1996)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
 ###### Art. 464-F.
 
-En el caso de ingratitud del adoptante o del adoptado, la adopción deja de producir efectos desde que se comete el acto de ingratitud, aunque la resolución judicial que declare revocada la adopción sea posterior.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
 ###### Art. 464-G.
 
-La resolución judicial que revoque la adopción deja sin efectos ésta, restituyendo la situación jurídica que guardaba antes de la adopción, salvo lo contenido en el artículo 462 de este Código.
-
-> <small>(ADICIONADO, P.O. 30 DE JULIO DE 1996)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
 ###### Art. 464-H.
 
-La resolución que dicte el Juez aprobando la revocación, se comunicará al Oficial del Registro Civil del lugar en que aquella se hizo para que cancele el acta de adopción.
-
-> <small>(ADICIONADO, P.O. 30 DE JULIO DE 1996)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
 ###### Art. 464-I.
 
-El procedimiento para la revocación por la causal prevista en la fracción I del artículo 464-B, se sujetará a lo previsto por el artículo 730 del Código de Procedimientos Civiles.
-
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2008)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
 ###### Art. 464-J.
 
-La adopción simple podrá convertirse en plena, debiendo obtenerse el consentimiento del adoptado si éste hubiere cumplido catorce años. Si fuere menor de esa edad se requiere el consentimiento de quien hubiese consentido en la adopción, siempre y cuando sea posible obtenerlo; de lo contrario el juez deberá resolver atendiendo al interés superior del menor.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 13 DE JUNIO DE 2008)</small>
 
@@ -3615,13 +3573,15 @@ A falta de padres, ejercerán la patria potestad sobre el hijo reconocido los as
 
 A falta de quienes ejerzan la representación originaria de niñas, niños y adolescentes, o cuando por otra causa así lo determine el órgano jurisdiccional competente con base en el interés superior de la niñez, la representación en suplencia corresponderá a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 1996)</small>
-
 ###### Art. 473.
 
-La patria potestad sobre el hijo adoptivo la ejercen únicamente las personas que lo adoptan, en la adopción simple.
+(DEROGADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2025)
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
 En la adopción plena, la patria potestad se ejerce en los términos señalados en este Código para los hijos consanguíneos.
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 1996)</small>
 
 La menor o incapacitada que procree un hijo, ejercerá la patria potestad a través de sus padres o tutor que la represente.
 
@@ -17828,3 +17788,17 @@ P.O. 3 DE NOVIEMBRE DE 2025.
 Inicio de la vigencia
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 18 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 111 DE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 143; 144; 161, TERCER PÁRRAFO; 162; 164; 169 Y 174. SE DEROGA EL ARTÍCULO 163, DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 113 DE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES Y LA DENOMINACIÓN DE UN CAPÍTULO DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO, Y SE DEROGAN MÚLTIPLES PRECEPTOS DEL MISMO ORDENAMIENTO".]
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Los procedimientos iniciados y las sentencias emitidas con fundamento en la legislación civil vigente deberán concluirse y ejecutarse, respectivamente, conforme a la misma.
