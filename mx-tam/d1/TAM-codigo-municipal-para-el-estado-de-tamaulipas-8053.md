@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2025-11-26"
+last_updated: "2025-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -2091,7 +2091,7 @@ Son objeto de este impuesto: Los predios urbanos, suburbanos y rústicos localiz
 
 ###### ARTICULO 105.
 
-- Para los efectos de este impuesto se considera:
+Para los efectos de este impuesto se considera:
 
 I.- Predios:
 
@@ -2114,6 +2114,10 @@ IV.- Construcciones en ruinas, las que por su deterioro físico o por sus precar
 V.- Valor catastral, el que fija de cada predio la Secretaría de Finanzas, por medio de la Dirección de Catastro.
 
 VI.- Son construcciones y mejoras que se destinan a la guarda del predio: bodegas para almacenaje de productos agrícolas e implementos, talleres, silos, presas, cercas y casas habitación para trabajadores que tiendan a incrementar y facilitar la productividad del mismo.
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+VII.- Predial mínimo, el monto que por este impuesto al menos deberán cubrir los contribuyentes, y este se establezca en la Ley de Ingresos Municipal respectiva para el ejercicio fiscal de que se trate.
 
 DE LOS SUJETOS
 
@@ -2164,6 +2168,10 @@ Los pagos podrán hacerse en una sola exhibición, pudiéndose autorizar por el 
 A los contribuyentes que sean jubilados o pensionados de cualquier sistema de seguridad social en el país, tengan alguna discapacidad, sean adultos mayores de sesenta años de edad o sean ejidatarios o campesinos con derechos a salvo, el Ayuntamiento podrá autorizar una bonificación hasta del 50% de la cuota del impuesto con relación exclusivamente a un predio urbano, independientemente de que realicen el pago anticipado.
 
 Este precepto no se interpretará en términos de conceder al mismo contribuyente una bonificación por su situación individual y otra por pago anticipado.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+Los contribuyentes pagarán el impuesto mínimo que establezca el Ayuntamiento en su ley de ingresos respectiva, previa aprobación por el Congreso del Estado, en los términos previstos en este artículo y demás disposiciones aplicables.
 
 ###### ARTICULO 110.
 
@@ -7260,3 +7268,11 @@ P.O. 26 DE NOVIEMBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-940 MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 105; Y UN PÁRRAFO QUINTO AL ARTÍCULO 109, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación (sic) el Periódico Oficial del Estado.
