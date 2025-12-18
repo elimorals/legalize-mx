@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2025-10-09"
+last_updated: "2025-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2025.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -1225,7 +1225,9 @@ XLIII.- Nombrar y remover libremente al Oficial Mayor y a los empleados del Cong
 
 XLIV.- Calificar las excusas que expongan el Gobernador, diputados al Congreso local y miembros de los ayuntamientos de los municipios del Estado, para no desempeñar los cargos para los que han sido electos;
 
-XLV.- Conceder amnistías e indultos por los delitos del orden común;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+XLV.- Conceder amnistías por delitos del fuero común, en términos de la ley de la materia;
 
 XLVI.- Cuidar que en los días fijados por las leyes se celebren las elecciones que previenen esta Constitución y la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -1591,13 +1593,17 @@ XXVII.- Otorgar y revocar las concesiones y comisiones que le competan;
 
 XXVIII.- Someter a la consulta de los ciudadanos del Estado los actos que determine, a través del referéndum, y plebiscito;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-XXIX.- Representar al Estado en sus relaciones con el Gobierno Federal, con los gobiernos de otros Estados, con los ayuntamientos, y con otros organismos y entidades de derecho público y privado, y
+XXIX.- Representar al Estado en sus relaciones con el Gobierno Federal, con los gobiernos de otros Estados, con los ayuntamientos, y con otros organismos y entidades de derecho público y privado;
 
-> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-XXX.- Las demás que le confieran la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ellas emanen.
+XXX.- Conceder indultos por delitos del fuero común, para lo cual creará una Comisión Interdisciplinaria para tal efecto, en términos de la ley de la materia; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+XXXI.- Las demás que le confieran la Constitución Política de los Estados Unidos Mexicanos, es la (sic) Constitución y las leyes que de ellas emanen.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2332,6 +2338,10 @@ XI.- Los Ayuntamientos serán electos cada tres años. Se integrarán con un Pre
 XII.- Los ayuntamientos de la Entidad, con base en sus respectivos presupuestos de egresos, y nóminas municipales, deberán crear un fondo de pensiones que dependerá de la tesorería municipal, y será vigilado por los órganos de control interno de la propia administración. Este fondo deberá contar con recursos suficientes para garantizar las jubilaciones, pensiones, y retiro de los trabajadores que, con ese carácter, tengan derecho a tales prestaciones; será constituido por las aportaciones de los trabajadores y del municipio. El cabildo aprobará el Reglamento para su administración y manejo.
 
 Se faculta al ayuntamiento para celebrar convenios con instituciones públicas o privadas de seguridad social, para el manejo, y ejecución de su fondo de pensiones, siempre que lo apruebe cuando menos las dos terceras partes de los integrantes del cabildo y, la posterior autorización del Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+Sin perjuicio de lo establecido en los párrafos precedentes, los ayuntamientos deberán garantizar que las personas integrantes de los cuerpos de seguridad pública municipal accedan de manera efectiva a prestaciones de retiro, jubilación o pensión, mediante esquemas operados por instituciones públicas de seguridad social que consideren su naturaleza funcional y condiciones de riesgo, observando criterios de viabilidad financiera, continuidad institucional y transparencia, conforme a los lineamientos que para su operación, seguimiento y evaluación emita el cabildo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2021)</small>
 
@@ -4102,3 +4112,25 @@ P.O. 9 DE OCTUBRE DE 2025.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0333.- QUE REFORMA LOS ARTÍCULOS 57 Y 80; Y REALIZA ADICIÓN AL ARTÍCULO 80, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, EN MATERIA DE AMNISTÍA E INDULTO”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. El Congreso del Estado deberá expedir la Ley de Amnistía e Indulto del Estado de San Luis Potosí, en un plazo no mayor a ciento ochenta días naturales, contados a partir de la entrada en vigor de este Decreto.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2025.
+
+## N. DE E. TRANSITORIOS DEL “DECRETO 0334.- QUE REALIZA ADICIÓN AL ARTÍCULO 114, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; EN MATERIA DE SEGURIDAD SOCIAL DIGNA DE LOS MIEMBROS DE LOS CUERPOS POLICIALES; REALIZA ADICIÓN AL ARTÍCULO 31, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; Y REALIZA ADICIÓN AL ARTÍCULO 57, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Los ayuntamientos de la Entidad deberán realizar los ajustes normativos internos necesarios para la implementación de esta reforma constitucional y legal, en un plazo no mayor a ciento veinte días contados a partir de su entrada en vigor.
+
+TERCERO. Los derechos pensionarios adquiridos con anterioridad a la entrada en vigor de esta reforma se respetarán conforme al régimen aplicable al momento de su otorgamiento, sin perjuicio de que los beneficiarios puedan optar voluntariamente por incorporarse a los nuevos esquemas que se establezcan.
+
+CUARTO. En el ejercicio fiscal siguiente a la entrada en vigor de esta reforma, los ayuntamientos deberán prever en sus respectivos proyectos de presupuesto de egresos una partida específica para el financiamiento de los esquemas de previsión social aplicables a las personas integrantes de los cuerpos de seguridad pública municipal.
