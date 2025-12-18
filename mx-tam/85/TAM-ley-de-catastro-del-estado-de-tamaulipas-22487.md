@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-catastro-del-estado-de-tamaulipas-22487"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-30"
-last_updated: "2021-12-21"
+last_updated: "2025-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 30 de octubre del 2001.
 
@@ -845,6 +845,10 @@ Dentro del área homogénea pueden existir franjas, denominadas bandas o corredo
 
 Para determinar una banda de valor se considerarán, entre otras características: las condiciones de los servicios públicos, la circulación peatonal o vehicular, las características de las actividades económicas que se desarrollen, el uso de suelo, la existencia de vialidades de alta velocidad, canales conductores de aguas residuales, panteones, barrancas y otros factores que puedan modificar el valor de la franja, respecto del que corresponda al área homogénea.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 83 BIS.- Los Ayuntamientos podrán actualizar anualmente, como mínimo, sus propuestas de tablas de valores unitarios de suelo y construcciones, tomando como base la inflación anual generada, conforme a la variación del Índice Nacional de Precios al Consumidor (INPC), publicado por el Instituto Nacional de Estadística y Geografía.
+
 ### CAPITULO IV. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
 
 ###### ARTICULO 84.
@@ -1238,3 +1242,11 @@ P.O. 21 DE DICIEMBRE DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-941 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 83 BIS A LA LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación el Periódico Oficial del Estado.
