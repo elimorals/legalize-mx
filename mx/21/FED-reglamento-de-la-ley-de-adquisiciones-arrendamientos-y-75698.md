@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-adquisiciones-arrendamientos-y-75698"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-07-28"
-last_updated: "2024-02-14"
+last_updated: "2025-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75698&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2010-07-13"
 ---
 # REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PUBLICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO, PUBLICADO EN EL D.O.F. DE 18 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PUBLICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE DICIEMBRE DE 2025 (ABROGADO).
 
 Reglamento publicado en la Octava Sección del Diario Oficial de la Federación, el miércoles 28 de julio de 2010.
 
@@ -2270,3 +2272,47 @@ D.O.F. 14 DE FEBRERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 4 DEL REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO”.]
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, publicado en el Diario Oficial de la Federación el 28 de julio de 2010, y sus modificaciones posteriores.
+
+TERCERO. Se derogan las demás disposiciones que se opongan al presente Reglamento.
+
+CUARTO. Se abrogan los Acuerdos siguientes:
+
+I. “ACUERDO por el que se emiten los Lineamientos para el trámite del procedimiento de conciliación a que se refiere la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; la Ley de Obras Públicas y Servicios Relacionados con las Mismas, y la Ley de Asociaciones Público Privadas”, publicado en el Diario Oficial de la Federación el 6 de junio de 2024;
+
+II. “ACUERDO por el que se emiten los Lineamientos para la tramitación del procedimiento de sanción por infracciones a la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; la Ley de Obras Públicas y Servicios Relacionados con las Mismas; y la Ley de Asociaciones Público Privadas”, publicado en el Diario Oficial de la Federación el 7 de junio de 2024, y
+
+III. “ACUERDO por el que se emiten los Lineamientos de la instancia de inconformidad contra actos derivados de la licitación pública e invitación a cuando menos tres personas, a que se refiere la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; y la Ley de Obras Públicas y Servicios Relacionados con las Mismas”, publicado en el Diario Oficial de la Federación el 7 de junio de 2024.
+
+QUINTO. Los procedimientos de contratación iniciados antes de la entrada en vigor del presente Reglamento, así como los contratos derivados de éstos, se sustanciarán y concluirán de conformidad con las disposiciones vigentes al momento de la publicación de la convocatoria o del envío de la primera invitación.
+
+Los contratos celebrados con anterioridad a la vigencia de este ordenamiento, continuarán rigiéndose por las disposiciones que les fueron aplicables al momento de su formalización.
+
+SEXTO. Para los efectos de la aplicación supletoria a que se refieren los artículos 13 y 91 de la Ley y 9 de este Reglamento, se aplicará el Código Federal de Procedimientos Civiles, hasta en tanto entre en vigor en el orden federal el Código Nacional de Procedimientos Civiles y Familiares.
+
+SÉPTIMO. Dentro de los 180 días naturales siguientes a la entrada en vigor del presente Reglamento, se deberá emitir el Decreto para regular la integración y funcionamiento de la Comisión Intersecretarial de Contrataciones Públicas Sostenibles de la Administración Pública Federal.
+
+OCTAVO. Dentro de los 90 días hábiles siguientes a la entrada en vigor del presente Reglamento, se deberán emitir los lineamientos aplicables para promover la agilización del pago a proveedores a que hace referencia el artículo 10, fracción III del presente Reglamento y del Registro único de participantes.
+
+NOVENO. A efecto de dar cumplimiento a lo establecido en el artículo 83, fracción III, inciso i) de este Reglamento, en tanto no se habilite en la Plataforma la funcionalidad que permita gestionar, a través del Portal del Servicio de Administración Tributaria, la obtención de las opiniones de cumplimiento de obligaciones fiscales de los proveedores, las dependencias y entidades deberán solicitar a los proveedores, el documento que acredite su cumplimiento, previo a la firma del contrato.
+
+DÉCIMO. Las disposiciones relativas a la publicación del rotulón en la Plataforma Digital de Contrataciones Públicas a que se refiere el último párrafo del artículo 174 de este Reglamento, entrarán en vigor en la fecha de inicio de operación del módulo correspondiente conforme al aviso que dé a conocer la Secretaría Anticorrupción y Buen Gobierno en el Diario Oficial de la Federación.
+
+DÉCIMO PRIMERO. A partir de la entrada en vigor del presente Reglamento, la Secretaría de Hacienda y Crédito Público, contará con un plazo de 90 días hábiles para actualizar los acuerdos marco que a la fecha se encuentren celebrados.
+
+DÉCIMO SEGUNDO. Dentro de los 90 días hábiles siguientes a la entrada en vigor del presente Reglamento, la Secretaría deberá actualizar el “Acuerdo por el que se establece la obligatoriedad de Registro de Contratos y Operaciones de adquisiciones, arrendamientos y servicios del sector público en la Bitácora Electrónica de Seguimiento de Adquisiciones y sus Lineamientos”, publicado en el Diario Oficial de la Federación el 1 de octubre de 2021 y sus reformas del 22 de agosto de 2022 y 18 de junio de 2024.
+
+DÉCIMO TERCERO. Los procedimientos de inconformidad, sanción y conciliación que se encuentren en trámite a la fecha de entrada en vigor de este Reglamento, deberán substanciarse y concluirse de conformidad con las disposiciones vigentes al momento de su inicio.
+
+DÉCIMO CUARTO. Las personas físicas y morales inscritas en el Registro Único de Proveedores, a que hacía referencia el artículo 105 del Reglamento de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público que se abroga, pasarán a formar parte del Registro Único de Participantes conservando su historial en materia de contrataciones y su cumplimiento.
+
+Para el caso de las personas físicas y morales registradas en la Plataforma previo a los ajustes tecnológicos que permitan contar con el Registro Único de Participantes, contarán con un plazo de 90 días hábiles, para complementar la información que les permita formar parte del citado Registro Único de Participantes.
+
+DÉCIMO QUINTO. Las erogaciones que se generen por el cumplimiento del presente Reglamento, se realizarán con cargo al presupuesto aprobado a los ejecutores de gasto que intervienen en el mismo, por lo que no se autorizarán ampliaciones líquidas a sus presupuestos para el presente ejercicio fiscal o subsecuentes.
