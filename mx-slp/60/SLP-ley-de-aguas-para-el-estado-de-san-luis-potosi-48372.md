@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2025-10-03"
+last_updated: "2025-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -1285,7 +1285,9 @@ No obstante las disposiciones anteriores, el Titular del Poder Ejecutivo del Est
 
 Los servicios públicos serán prestados en condiciones que aseguren su continuidad, regularidad, calidad y cobertura, de manera que se busque la satisfacción de las necesidades de los usuarios y la protección del medio ambiente.
 
-El municipio será responsable del tratamiento de las aguas residuales generadas por los sistemas a su cargo, previa su descarga a cuerpos receptores de propiedad nacional, estatal o municipal, conforme a la legislación aplicable.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+El municipio, y cuando fuera el caso, en conjunto con el organismo operador, serán responsables del tratamiento de las aguas residuales generadas por los sistemas a su cargo, previa su descarga a cuerpos receptores de propiedad nacional, estatal o municipal, conforme a la legislación aplicable.
 
 > <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2020)</small>
 
@@ -1306,6 +1308,28 @@ III. Industrial, y
 > <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2020)</small>
 
 IV. Los demás que determinen las autoridades del agua.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 76 BIS. La responsabilidad prevista en el párrafo segundo del artículo 76 de esta Ley para el Municipio, y cuando fuera el caso, en conjunto con el Organismo Operador respectivo, de tratar el agua residual generado (sic) por su sistema previo a su descarga a los cuerpos receptores, deberá hacerse con base en lo dispuesto por los artículos 117 y 123 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente; 85, 88 BIS fracción II, 88 BIS I párrafo tercero y 91 BIS párrafo segundo de la Ley de Aguas Nacionales; y 85 de la Ley Ambiental del Estado de San Luis Potosí; así como por la Norma Oficial Mexicana NOM-001-SEMARNAT-2021, que establece los límites permisibles de contaminantes en las descargas de aguas residuales en cuerpos receptores propiedad de la nación, y con criterios técnicos, ambientales y sociales.
+
+Las acciones de tratamiento que refiere el párrafo anterior de este artículo, deberán ser planeadas, programadas y presupuestas en las formas y términos que prevén las leyes correspondientes, incluyéndolas en el Plan Municipal de Desarrollo y programa municipal respectivo, y asignando recursos en el presupuesto de egresos.
+
+En la planeación y programación de las acciones de tratamiento que se alude en (sic) párrafo que antecede de este numeral, se deberá prever:
+
+I. El diagnóstico de las fuentes municipales de descargas que puedan impactar cuerpos de agua;
+
+II. El listado de descargas sanitarias que emite el Municipio;
+
+III. El diseño e implementación de medidas de limpieza, reconducción o tratamiento previo a las descargas municipales a los cuerpos receptores, para evitar el daño ambiental recurrente, conforme a las normas oficiales mexicanas, y
+
+IV. Los mecanismos de evaluación y mejora progresiva.
+
+El Director Municipal de Agua Potable o equivalente, y el Director General del Organismo Operador, presentará al Cabildo o la Junta de Gobierno, según el caso, así como su publicación, informes anuales de los avances de las acciones previstas en los planes y programas municipales en materia de tratamiento de las aguas residuales que se descargan a los cuerpos receptores, y remitirlos al Congreso del Estado y a la Comisión Estatal del Agua en la misma periodicidad para su conocimiento.
+
+Para el cumplimiento de esta disposición, el Municipio o el Organismo Operador podrán celebrar convenios de colaboración técnica con la Comisión Estatal del Agua, la Secretaría de Ecología y Gestión Ambiental, instituciones educativas, organismos de la sociedad civil o entidades federales especializadas.
+
+El Instituto de Fiscalización Superior del Estado, en la revisión de la cuenta pública que corresponda, verificará el cumplimiento de dichos planes y programas mediante la práctica de auditorías de desempeño.
 
 ###### ARTICULO 77.
 
@@ -4036,3 +4060,15 @@ P.O. 3 DE OCTUBRE DE 2025.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente decreto.
+
+P.O. 18 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0329.- QUE REFORMA EL ARTÍCULO 76; Y SE ADICIONA EL ARTÍCULO 76 BIS, DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO. Las acciones de planeación, programación y presupuestación en materia de tratamiento de sus aguas residuales previo a su descarga a sus cuerpos receptores, que prevé el párrafo segundo del artículo 76 Bis de este Decreto, entrarán en vigencia en enero de 2027, para tal efecto, se deberán hacer todas las modificaciones a los instrumentos de planeación y programación municipal, así como las previsiones presupuestales, para que los municipios y organismos operadores puedan realizar esta obligación.
+
+CUARTO. Con base en las atribuciones previstas en el artículo 8° en sus fracciones III inciso b) y XXVII, de la Ley de Aguas para el Estado de San Luis Potosí, la Comisión Estatal del Agua, asesora y orientará a los municipios y organismos operadores, para que lleven a cabo las acciones de planeación, programación y presupuestación para la implementación del tratamiento de las aguas residuales previo a su descarga a los cuerpos receptores.
