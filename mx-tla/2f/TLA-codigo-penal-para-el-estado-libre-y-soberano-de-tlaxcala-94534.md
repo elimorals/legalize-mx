@@ -4,7 +4,7 @@ identifier: "TLA-codigo-penal-para-el-estado-libre-y-soberano-de-tlaxcala-94534"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-31"
-last_updated: "2025-10-17"
+last_updated: "2025-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2025.
 
 Código publicado en el No. 2 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 31 de mayo de 2013.
 
@@ -3097,6 +3097,8 @@ XI. Existe odio cuando el sujeto activo lo comete por prejuicio, por uno o más 
 
 El aborto es la expulsión del producto de la preñez antes del tiempo en que el feto puede vivir.
 
+(NOTA: EL 2 DE DICIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 89/2024, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 11 DE OCTUBRE DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 116 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 242.
@@ -3114,6 +3116,8 @@ Cuando faltare el consentimiento de la mujer, la prisión será en todo caso de 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
 
 Si el aborto lo causare un médico, cirujano, comadrón o partera, además de las sanciones que le correspondan conforme a este artículo, se le suspenderá de uno a tres años en el ejercicio de su profesión.
+
+(NOTA: EL 2 DE DICIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 89/2024, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE ABRIL DE 2015, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 105 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2015)</small>
 
@@ -3241,11 +3245,9 @@ Se impondrá de dos a cuatro años de prisión y multa de ciento cuarenta y cuat
 
 La pena de prisión se aumentará en una mitad, cuando la privación de la libertad se realice con violencia, la víctima sea menor de doce años o mayor de sesenta años o discapacitado.
 
-> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2022)</small>
-
 ###### Artículo 260.
 
-Cuando la privación de la libertad se lleve a cabo únicamente para cometer los delitos de extorsión o robo, la pena será de cinco a veinte años de prisión y multa de trescientas sesenta a mil cuatrocientas cuarenta veces el valor de la Unidad de Medida y Actualización, independientemente de las demás penas que resulten.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
 ### CAPÍTULO IV. RETENCIÓN O SUSTRACCIÓN DE MENORES O INCAPACES
 
@@ -3289,77 +3291,29 @@ A quien prive a otro de su libertad personal, con el propósito de realizar un a
 
 Si dentro de las veinticuatro horas siguientes, el sujeto activo pone en libertad a la víctima, sin haber practicado el acto sexual, la pena será de seis meses a tres años de prisión y multa de treinta y seis a doscientas dieciséis veces el valor de la Unidad de Medida y Actualización.
 
-### CAPÍTULO VI. EXTORSIÓN
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2022)</small>
+### CAPÍTULO VI. EXTORSIÓN
 
 ###### Artículo 268.
 
-Se impondrá de dos a ocho años de prisión y multa de ciento cuarenta y cuatro a quinientas setenta y seis veces el valor de la Unidad de Medida y Actualización, a quien, sin derecho, por cualquier medio, obligue a otro a dar, hacer, tolerar o dejar de hacer algo, con ánimo de lucro para sí o para otro o causando un perjuicio patrimonial, moral o psicológico, en contra de una persona o personas.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
 ###### Artículo 269.
 
-Las penas previstas en el artículo anterior, se aumentarán en dos terceras partes y además, se impondrá la destitución del empleo, cargo o comisión públicos, inhabilitación de uno a cinco años para ejercer cargos o comisiones públicas y en su caso, la suspensión del derecho para ejercer actividades en corporaciones de seguridad privada, cuando el delito se realice por servidor público o quien sea o haya sido miembro de alguna corporación de seguridad pública o privada.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2022)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
 ###### Artículo 270.
 
-Además de las penas señaladas en el artículo 268 de este código, se impondrá de cuatro a diez años de prisión y multa de doscientas ochenta y ocho a setecientas veinte veces el valor de la Unidad de Medida y Actualización, cuando en la comisión del delito:
-
-I. Intervenga una o más personas armadas o portando instrumentos peligrosos;
-
-II. Se emplee violencia;
-
-III. Se cometa por vía telefónica, cualquier medio de comunicación mediante los cuales se pueda realizar la emisión, transmisión o recepción de signos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza, que se efectúe por hilos, radioelectricidad, medios ópticos, físicos, vía satelital u otros sistemas electromagnéticos;
-
-IV. Si el sujeto activo del delito de extorsión, se encuentra privado de su libertad personal, y
-
-V. Si es cometido en contra de un menor de edad o de una persona que no tenga la capacidad de comprender el significado del hecho, o bien en una persona mayor de sesenta años.
-
-> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2025)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
 ###### Artículo 270 Bis.
 
-A quien, por sí o por interpósita persona, por medio de amenazas o ejerciendo violencia física o moral, obligue a cualquier persona a dar, hacer, dejar de hacer o tolerar cualquier acción u omisión, respecto de alguna obligación civil o mercantil, con el propósito de obtener un pago o beneficio de cualquier tipo, para sí o para un tercero, se le impondrá una pena de diez a quince años de prisión y multa de dos mil a tres mil veces el valor de la Unidad de Medida y Actualización. Esta conducta se perseguirá por querella.
-
-Las penas previstas en este artículo se incrementarán hasta en una mitad, cuando:
-
-I. Se realice por persona servidora en funciones.
-
-Esta conducta se considerará grave en términos de la Ley General de Responsabilidades Administrativas;
-
-II. Se realice por un miembro de una empresa de seguridad privada;
-
-III. Se cometa utilizando como medio comisivo la vía telefónica, el correo electrónico o cualquier otro medio de comunicación electrónica o mensajería de plataforma virtual;
-
-IV. Se cometa empleando imágenes, mensajes escritos, audios o videos;
-
-V. Se realice por persona que se ostente como integrante o miembro de un grupo u organización delictivo, aún cuando no lo sea;
-
-VI. Se realice desde el interior de cualquier centro penitenciario o de reinserción social;
-
-VII. Se realice en contra de personas dedicadas al comercio;
-
-VIII. Se realice en contra de personas dedicadas al transporte de personas o mercancías;
-
-IX. Se realice en contra de personas menores de dieciocho o mayores de sesenta años;
-
-X. Se realice a través de personas menores de dieciocho años;
-
-XI. Se realice ocasionando daños;
-
-XII. Se realice con la utilización de armas, instrumentos aptos para agredir u objetos de utilería similares a armas de fuego, y
-
-XIII. Se provoque un hecho de tránsito con la finalidad de obtener inmediatamente dinero por concepto de reparación de daños.
-
-> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2025)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
 ###### Artículo 270 Ter.
 
-A quien, sin contar con autorización de las autoridades financieras conforme a la legislación aplicable, se dedique habitualmente a préstamo de dinero, otorgamiento de crédito, financiamiento o cualquier acción que implique el otorgamiento de recursos económicos, aprovechándose de la necesidad económica, estado de pobreza, error o desconocimiento de persona alguna, le hiciera dar garantía o prometer cualquier ventaja desproporcional económica con las condiciones de préstamo, se le impondrá de uno a siete años de prisión y multa de cinco mil a ocho mil veces el valor de la Unidad de Medida y Actualización.
-
-Las penas establecidas en el presente artículo se incrementarán hasta en un tercio cuando se realice ejerciendo medios coactivos, intimidación o amenazas.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
 ### CAPÍTULO VII. ASALTO
 
@@ -3508,6 +3462,14 @@ A quien cometa el delito de requerimiento extrajudicial ilícito de pago se le i
 ###### Artículo 283 Ter 1.
 
 A quien utilice medios ilícitos o efectúe actos de hostigamiento para lograr el cobro de una deuda civil o mercantil propia, de un tercero o de quien funja como endosatario, se le impondrá de uno a cuatro años de prisión y multa de dos mil a tres mil veces el valor de la Unidad de Medida y Actualización; con independencia de las sanciones que correspondan si para tal efecto se emplearon documentación, sellos falsos o se usurparon funciones públicas o de profesión.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 283 Ter 2.
+
+A quien, sin contar con autorización de las autoridades financieras conforme a la legislación aplicable, se dedique habitualmente a préstamo de dinero, otorgamiento de crédito, financiamiento o cualquier acción que implique el otorgamiento de recursos económicos, aprovechándose de la necesidad económica, estado de pobreza, error o desconocimiento de persona alguna, le hiciera dar garantía o prometer cualquier ventaja desproporcional económica con las condiciones de préstamo, se le impondrá de uno a siete años de prisión y multa de cinco mil a ocho mil veces el valor de la Unidad de Medida y Actualización.
+
+Las penas establecidas en el presente artículo se incrementarán hasta en un tercio cuando se realice ejerciendo medios coactivos o amenazas.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE AGOSTO DE 2020)</small>
 
@@ -5535,7 +5497,9 @@ XIV. Aborto contenido en el párrafo tercero del artículo 242;
 
 XV. Feminicidio previsto en los artículos 229, 229 bis y 229 ter;
 
-XVI. Extorsión previsto en los artículos 268 al 270;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+XVI. Extorsión previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
 
 XVII. Robo Calificado previsto en los artículos 328, 329 fracción VI y 330;
 
@@ -6184,3 +6148,27 @@ Los procedimientos penales que se hayan iniciado antes de la entrada en vigor de
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido de este Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 252.- SE REFORMA, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA Y LA LEY ORGÁNICA DE LA FGJE".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los noventa días hábiles siguientes a la entrada en vigor del presente Decreto, la titular de la Fiscalía General de Justicia del Estado, deberá crear la Unidad Especializada de Atención a los Delitos de Extorsión adscrita a la Fiscalía General de Justicia del Estado de Tlaxcala.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los noventa días hábiles siguientes a la entrada en vigor del presente Decreto, la titular de la Fiscalía General de Justicia del Estado, deberá expedir las adecuaciones necesarias a su Reglamento Interno para la operación y funcionamiento de la Unidad Especializada de Atención a los Delitos de Extorsión.
+
+###### ARTÍCULO CUARTO.
+
+Hasta en tanto entra en funciones la Unidad Especializada de Atención a los Delitos de Extorsión, la atención de los delitos previstos en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, se realizará a través de la Fiscalía Especializada en el Combate al Secuestro.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
