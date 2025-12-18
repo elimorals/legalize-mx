@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-102869"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-10-11"
-last_updated: "2025-09-13"
+last_updated: "2025-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2025.
 
 Código publicado en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2014.
 
@@ -1501,9 +1501,9 @@ Es imprescriptible la acción persecutoria en los siguientes casos:
 
 I. Por el delito de homicidio doloso, en todas sus formas y modalidades tipificadas en los artículos 120, 121 en relación al 124 Bis, 123 Bis, 124, 134 y 135, así como para los delitos de Violación, en todas sus formas y modalidades tipificadas por los artículos 144 al 147, Abuso Sexual, tipificado en los artículos 149 a 151, tratándose de víctimas menores de edad, y Pederastia, tipificado en el artículo 178, todos de este Código.
 
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-II. Por los delitos de peculado tipificados por los artículos 237 y 237 BIS, cohecho, enriquecimiento ilegítimo y desaparición forzada de personas; y
+II. Por los delitos de peculado tipificados por los artículos 237 y 237 BIS, cohecho y enriquecimiento ilegítimo; y
 
 III. Cuando el delito cometido atente contra el derecho a recibir alimentos de los menores e incapaces.
 
@@ -2035,7 +2035,7 @@ Según el caso, se impondrán las penas señaladas en los artículos anteriores,
 
 ### CAPÍTULO III. ABUSO SEXUAL
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 148.
 
@@ -2049,35 +2049,91 @@ Sólo se procederá contra el activo, previa querella de la víctima u ofendido,
 
 ###### ARTÍCULO 149.
 
-Al que sin el consentimiento de una persona y sin el propósito directo o inmediato de llegar a la cópula ejecute en ella un acto erótico sexual o la obligue a ejecutarlo, se le impondrá prisión de dos a ocho años y multa por el importe equivalente de doscientas a trescientas unidades de medida y actualización.
+Comete el delito de abuso sexual quien, sin el consentimiento de una persona y sin el propósito directo o inmediato de llegar a la cópula, realice cualquier acto de naturaleza sexual, la obligue a observarlo o a ejecutarlo sobre sí, para un tercero o para el propio sujeto activo. Se le impondrá prisión de tres a nueve años y multa por el importe equivalente de doscientas a trescientas cincuenta unidades de medida y actualización.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+Para efectos de este artículo, se entienden por actos de naturaleza sexual a los tocamientos, manoseos o roces corporales de connotación sexual, o los que representen actos explícitamente sexuales u obliguen a la víctima a representarlos.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+También se considera abuso sexual cuando se obligue a la víctima a exhibir su cuerpo sin su consentimiento.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+El consentimiento no podrá presumirse del silencio, la pasividad o la falta de resistencia física de la víctima.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 150.
 
-Al responsable del delito de abuso sexual, cuando el pasivo sea menor de dieciocho años de edad y mayor de catorce años de edad, se le impondrá una pena de tres a ocho años de prisión y multa por el importe equivalente de doscientas a trescientas cincuenta unidades de medida y actualización.
+Al responsable del delito de abuso sexual, cuando el pasivo sea menor de dieciocho años de edad y mayor de catorce años de edad, se le impondrá una pena de cuatro a diez años de prisión y multa por el importe equivalente de doscientas cincuenta a cuatrocientas unidades de medida y actualización.
 
-De igual forma, cuando el pasivo sea menor de catorce años de edad, o no tenga capacidad de comprender el significado del hecho o en quien por cualquier causa no pueda resistirlo, al responsable del delito se le impondrá de cuatro a ocho años de prisión y multa por el importe equivalente de doscientas cincuenta a cuatrocientas unidades de medida y actualización.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+De igual forma, cuando el pasivo sea menor de catorce años de edad, o no tenga capacidad de comprender el significado del hecho o en quien por cualquier causa no pueda resistirlo, al responsable del delito se le impondrá de cinco a diez años de prisión y multa por el importe equivalente de trescientas a cuatrocientas unidades de medida y actualización.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 151.
 
-Sólo se procederá contra el activo, previa querella de la víctima u ofendido, y tratándose de menores, por conducto de quienes ejerzan la patria potestad, tutores, representantes de hecho o de derecho y a falta de estos por el Procurador de la Defensa del Menor y la Familia.
+El delito de abuso sexual se investigará y perseguirá de oficio.
 
-Cuando el sujeto pasivo sea menor de catorce años de edad, o carezca de capacidad para comprender el significado del hecho, el delito se perseguirá de oficio no admitiendo el perdón del ofendido o de sus legítimos representantes.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+La autoridad investigadora podrá hacerse del conocimiento del hecho por cualquier medio, incluyendo la comunicación directa de la víctima u ofendido; o de terceras personas; la notificación realizada por instituciones públicas o privadas; la información proporcionada por autoridades que operen líneas de atención, emergencia o asistencia; o por cualquier otra forma en que se adviertan hechos que pudieran constituir abuso sexual. En todos los casos, la autoridad deberá iniciar de inmediato las actuaciones correspondientes, conforme a sus atribuciones y bajo el principio de debida diligencia.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE OCTUBRE DE 2018)</small>
 
 Las penas previstas en los artículos 149 y 150, se aumentarán hasta en un tercio más de lo establecido, cuando en el abuso sexual concurra alguna de las circunstancias siguientes:
 
-I.- Cuando se ejerza violencia en el sujeto pasivo;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-II.- Cuando fuere cometido por persona que tenga relación de parentesco por consanguinidad, afinidad o civil, con el ofendido. Además de la pena de prisión, el culpable perderá la patria potestad o la tutela, en los casos en que le ejerciere sobre la víctima, así como los derechos sucesorios con respecto del ofendido;
+I.- Cuando se ejerza violencia física o psicológica en el sujeto pasivo;
 
-III.- Cuando fuere cometido por persona que tenga (sic) ofendido, bajo su custodia, guarda o educación o aproveche confianza en el depositada;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2025)</small>
 
-IV.- Cuando fuere cometido por quien desempeñe un cargo o empleo público o ejerza su profesión, utilizando los medios o circunstancia que ellos le proporcionen. Además de la pena de prisión el sentenciado será destituido del cargo o empleo o suspendido por el término igual al de la pena de prisión; y
+II.- Cuando fuere cometido por persona que tenga relación de parentesco por consanguinidad, afinidad o civil, con el sujeto pasivo. Además de la pena de prisión, el culpable perderá la patria potestad o la tutela, en los casos en que la ejerciere sobre la víctima, así como los derechos sucesorios con respecto de ésta;
 
-V.- Cuando el delito fuere cometido dentro las instalaciones de alguna asociación religiosa u organismo de la sociedad civil, cuyo objeto social consista en prestar auxilio, refugio o tratamiento psicológico o físico a otras personas, o hubiese sido cometido por ministros de culto religioso.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+III.- Cuando fuere cometido por persona que tenga al sujeto pasivo bajo su custodia, guarda, tutela o educación o aproveche la confianza en ella depositada;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+IV.- Cuando fuere cometido por quien desempeñe un cargo o empleo público o ejerza su profesión, utilizando los medios o circunstancias que ellos le proporcionen. Además de la pena de prisión, el sentenciado será destituido del cargo o empleo o suspendido por el término igual al de la pena de prisión;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+V.- Cuando el delito fuere cometido dentro de las instalaciones de alguna asociación religiosa u organismo de la sociedad civil, cuyo objeto social consista en prestar auxilio, refugio o tratamiento psicológico o físico a otras personas, o hubiese sido cometido por ministros de culto religioso;
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+VI.- Cuando el delito fuere cometido con intervención directa o inmediata de dos o más personas;
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+VII.- Cuando el delito se cometa en razón de la orientación sexual, identidad de género o expresión de género de la víctima;
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+VIII.- Cuando el delito fuere cometido a bordo de un vehículo de servicio público o privado para traslado de personas, o en vehículos contratados mediante plataformas tecnológicas;
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+IX.- Cuando la víctima se encuentre bajo los efectos de alcohol, fármacos, narcóticos u otras sustancias que afecten su voluntad o discernimiento;
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+X.- Cuando la víctima se encuentre en estado de embarazo o puerperio, sea una persona adulta mayor o con discapacidad; y
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+XI.- Cuando la víctima se encuentre en estado de indefensión; entendiéndose a este como la situación de desprotección real o incapacidad que imposibilite su defensa, ya sea por la dificultad de comunicación para recibir auxilio, por razón de la distancia a un lugar habitado o porque exista algún impedimento físico o material para solicitar el auxilio.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
+Adicional a las penas previstas en este capítulo, se impondrá al sujeto activo el cumplimiento de la reparación integral del daño, que deberá incluir, entre otras medidas establecidas en la Ley para la Protección de Víctimas en el Estado de Colima, la atención psicológica especializada para la víctima, hasta su total recuperación.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JULIO DE 2025)</small>
 
@@ -2175,8 +2231,6 @@ A quien sin consentimiento de la mujer mayor de dieciocho años de edad o aún c
 
 ### CAPÍTULO I. DESAPARICIÓN FORZADA DE PERSONAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
-
 ###### ARTÍCULO 155.
 
 A quien sin consentimiento de una mujer mayor de dieciocho años de edad, o aún con el consentimiento de una menor de esa edad o de una incapaz para comprender el significado del hecho o para resistirlo, la embarace por inseminación artificial o cualquier método de reproducción asistida, se le aplicarán de tres a ocho años de prisión y multa de quinientas a mil unidades de medida y actualización y, en su caso, inhabilitación para ejercer su profesión por un tiempo igual al de la pena de prisión impuesta cuando ésta esté relacionada con las ciencias de la salud o afines, y tratándose de servidores públicos inhabilitación para el desempeño del empleo, cargo o comisión, por un tiempo igual al de la pena de prisión impuesta.
@@ -2189,6 +2243,8 @@ Cuando entre el activo y la pasivo exista relación de matrimonio, concubinato o
 
 ## TÍTULO CUARTO. DELITOS CONTRA LA LIBERTAD PERSONAL
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
 ### CAPÍTULO II. PRIVACIÓN ILEGAL DE LA LIBERTAD
 
 (NOTA: EL 22 DE NOVIEMBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 213/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 1 DE DICIEMBRE DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
@@ -2197,23 +2253,11 @@ Cuando entre el activo y la pasivo exista relación de matrimonio, concubinato o
 
 ###### ARTÍCULO 157.
 
-Al servidor público del Estado de Colima o de sus municipios que con motivo de sus atribuciones, detenga o mantenga oculta a una o varias personas o bien, autorice, apoye o consienta que otros lo hagan sin reconocer la existencia de tal privación de la libertad o niegue información sobre su paradero, impidiendo con ello el ejercicio de los recursos legales y las garantías procesales procedentes, se le impondrá de quince a cuarenta años de prisión, y multa por un importe equivalente de trescientas a mil unidades de medida y actualización, destitución y privación para el desempeño de cualquier cargo, empleo o comisión público.
-
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
-
-Al particular que por orden, autorización o con el apoyo de un servidor público participe en los actos descritos en el párrafo anterior, se le impondrán de ocho a quince años de prisión y multa por un importe equivalente de doscientas a seiscientas unidades de medida y actualización.
-
-La oposición, negativa o desacato hacia la autoridad competente luego de haber sido requerido por ésta para tener libre e inmediato acceso al lugar donde haya motivos para creer que se pueda encontrar a una persona desaparecida, por parte del servidor público responsable del mismo, será sancionada con la destitución de su cargo, comisión o empleo públicos, sin perjuicio de la aplicación de las penas por los demás delitos en que pudiera incurrir con motivo de su conducta.
-
-Las sanciones previstas en los párrafos que anteceden se disminuirán en una tercera parte, cuando el sujeto activo suministre información que permita esclarecer los hechos y, en una mitad, cuando contribuya a lograr la aparición con vida de la víctima o víctimas.
-
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
-
-Si la víctima fuere liberada espontáneamente dentro de los cinco días siguientes a su detención, la pena será de dos a ocho años de prisión y una multa de cien a trescientas unidades de medida y actualización, sin perjuicio de aplicar la pena que corresponda a actos ejecutados u omitidos que constituyan por sí mismos delitos.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
 ###### ARTÍCULO 158.
 
-Se equipara al delito de desaparición forzada de personas y se sancionará con las mismas penas previstas en el artículo anterior, la ocultación de familiares de víctimas de este delito o nacidos de una madre víctima de desaparición forzada, durante el cautiverio.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
 ### CAPÍTULO III. RAPTO
 
@@ -2991,8 +3035,6 @@ ARTÍCULO 201 BIS. Comete el delito de Fraude Familiar quien, en detrimento de l
 
 ### CAPÍTULO VI. EXTORSIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
-
 ###### ARTÍCULO 202.
 
 A quien fraccione, divida en lotes, transfiera o prometa transferir la propiedad, la posesión o cualquier otro derecho de un inmueble urbano o rústico, careciendo del previo permiso de la autoridad administrativa correspondiente, o cuando teniéndolo no cumpla con los términos en que fue otorgado, se le impondrán de dos a ocho años de prisión y de trescientos (sic) a mil unidades de medida y actualización como multa.
@@ -3009,45 +3051,15 @@ I. Si el objeto de fraccionar o dividir un lote se hace en consecuencia de adjud
 
 II. Cuando se trata de donaciones y compraventas realizadas entre parientes, en línea ascendente hasta el segundo grado, descendente hasta el tercer grado, cónyuges, concubinos y entre hermanos.
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2025)</small>
+
 ### CAPÍTULO VII. DESPOJO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 204.
 
-Comete el delito de extorsión, el que mediante el uso de la violencia física o moral obligue a otro a dar, hacer, no hacer o tolerar algo con la finalidad de obtener un lucro para sí o para otro, causando un perjuicio patrimonial a la víctima, por lo que se le impondrá de cinco a diez años de prisión y multa por un importe equivalente de doscientas a setecientas unidades de medida y actualización.
-
-Se incrementará la pena antes mencionada en los casos siguientes:
-
-I. De siete a diez años de prisión si se comete:
-
-a) Siendo la víctima del delito persona menor de dieciocho años, que no tenga capacidad para comprender o entender el significado del hecho, que no tenga capacidad para resistirlo, o persona mayor de sesenta años;
-
-b) Cuando el sujeto activo del delito tenga alguna relación de confianza, laboral, parentesco, de negocios con la víctima o con sus familiares;
-
-c) Utilizando como medio comisivo la vía telefónica, el correo electrónico o cualquier otro sistema de comunicación mediante los cuales se pueda realizar cualquier emisión, transmisión, recepción de datos, señales, escritos, imágenes, voz, sonidos conteniendo información de cualquier naturaleza o medio;
-
-> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2020)</small>
-
-d) Cuando utilizando como medio comisivo la vía telefónica, el correo electrónico o cualquier otro medio de comunicación electrónica, se empleen imágenes, audios o videos de contenido sexual íntimo;
-
-e) Desde un Centro de Reinserción Social en el que se encuentre recluido;
-
-f) El autor del delito obtenga en forma continua o permanente, dinero o bienes por concepto de cobro de cuotas de cualquier índole, adicionales a los conseguidos originalmente por el ilícito; o
-
-g) Se realice cualquier tipo de transferencia bancaria de dinero en efectivo, cheques, obligaciones, o cualquier otra transacción mercantil en moneda nacional o extrajera (sic), de bienes o servicios a una o diversas cuentas nacionales o extranjeras; y
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
-
-II. De ocho a quince años de prisión y multa por un importe equivalente de trescientas a mil unidades de medida y actualización, conforme a lo siguiente:
-
-a) Si el sujeto activo es trabajador de institución bancaria, crediticia, empleado de empresa de comunicación telefónica, de radio comunicación, de telecomunicación, encargadas de transmisión o recepción de datos, que por razón de su empleo manejen información de clientes o tengan acceso a la misma, y la utilicen de cualquier forma o la sustraigan para sí o para terceros con el objeto de obtener un lucro o beneficio por medio de la extorsión en sus diversas modalidades;
-
-b) Si el sujeto activo es miembro o pertenece al Sistema de Seguridad Pública Estatal que tenga a su cargo funciones de seguridad, prevención, persecución, investigación, sanción del delito, administración de justicia, reinserción social o sea miembro de las fuerzas armadas; se le impondrá además, privación para ejercer derechos o funciones públicas; y
-
-c) Si el sujeto activo haya pertenecido a las instituciones de los Sistemas de Seguridad Pública.
-
-Se equipara a la extorsión y se le aplicará la misma pena establecida en el primer párrafo de este artículo, a quien intimide a la víctima, a sus familiares, a sus representantes o gestores, para que no colaboren con las autoridades competentes durante el procedimiento de investigación o en las etapas subsecuentes del proceso penal.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
 ### CAPÍTULO VIII. DAÑOS
 
@@ -4960,3 +4972,33 @@ P.O. 13 DE SEPTIEMBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 18 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 219.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 18 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 220.- POR EL QUE SE APRUEBA REFORMAR LA FRACCIÓN II DEL ARTÍCULO 114 Y DEROGAR LOS ARTÍCULOS 157, 158 Y 204 DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Toda referencia al delito de extorsión contemplada en el Código Penal para el Estado de Colima, o en cualquier otra disposición, se entenderá hecha al delito de extorsión previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, a partir de la entrada en vigor de este Decreto, el órgano jurisdiccional, podrá efectuar la traslación del tipo en beneficio de la persona a sentenciar, de conformidad con la conducta delictiva de extorsión, sus modalidades o agravantes que se hayan acreditado. Tratándose de persona sentenciada, el juez de ejecución podrá considerar la revisión de las penas que se hayan impuesto para efectuar, en su caso, la traslación del tipo, siempre que la conducta, modalidades o agravantes proceda y resultase en su beneficio.
+
+CUARTO. Las disposiciones relativas a los delitos de extorsión previstas en el Código Penal del Estado de Colima vigente a la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por el delito de extorsión, sus modalidades, agravantes y sanciones, salvo lo dispuesto en el artículo anterior en lo relativo a la traslación del tipo y adecuación de la pena.
+
+Los procedimientos penales en materia de extorsión, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del mismo.
+
+QUINTO. Los centros penitenciarios del Estado dentro del plazo establecido en el artículo Séptimo transitorio de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, deberán establecer los procedimientos y tecnologías de inhibición de entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen a que se refiere el artículo 38 de dicha Ley General.
+
+SEXTO. La Secretaría de Seguridad Pública, dentro de los 120 días siguientes a la entrada en vigor del presente Decreto, diseñará e implementará una estrategia para prevenir y combatir el delito de extorsión, en los términos del Título Quinto de la mencionada Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión.
+
+SÉPTIMO. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, a partir de la entrada en vigor de este Decreto, el órgano jurisdiccional, podrá efectuar la traslación del tipo en beneficio de la persona a sentenciar, de conformidad con la conducta delictiva de Desaparición Forzada de Personas, sus modalidades o agravantes que se hayan acreditado. Tratándose de persona sentenciada, el juez de ejecución podrá considerar la revisión de las penas que se hayan impuesto para efectuar, en su caso, la traslación del tipo, siempre que la conducta, modalidades o agravantes proceda y resultase en su beneficio.
+
+OCTAVO. Las disposiciones relativas a los delitos de Desaparición Forzada de Personas previstas en el Código Penal del Estado de Colima vigente a la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por el delito de Desaparición Forzada de personas, sus modalidades, agravantes y sanciones, salvo lo dispuesto en el artículo anterior en lo relativo a la traslación del tipo y adecuación de la pena.
+
+Los procedimientos penales en materia de Desaparición Forzada de personas, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del mismo.
