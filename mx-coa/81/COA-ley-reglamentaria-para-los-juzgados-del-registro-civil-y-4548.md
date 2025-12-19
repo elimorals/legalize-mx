@@ -4,7 +4,7 @@ identifier: "COA-ley-reglamentaria-para-los-juzgados-del-registro-civil-y-4548"
 country: "mx"
 rank: "ley"
 publication_date: "1906-01-20"
-last_updated: "1964-09-16"
+last_updated: "2025-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "COA"
 ---
 # LEY REGLAMENTARIA PARA LOS JUZGADOS DEL REGISTRO CIVIL Y CAMPOS MORTUORIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-NOTA 1: [N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+[NOTA 1: CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
-NOTA 2: [N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY REGLAMENTARIA DE LAS OFICIALIAS DEL REGISTRO CIVIL DEL ESTADO DE COAHUILA, PUBLICADA EN EL P.O. DE 16 DE SEPTIEMBRE DE 1964, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]
+[NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 330, PUBLICADO EN EL P.O. DE 19 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 LEY REGLAMENTARIA PARA LOS JUZGADOS DEL REGISTRO CIVIL Y CAMPOS MORTUORIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 1964 (DEROGADA).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en la versión comercial del Periódico Oficial del Estado de Coahuila, el sábado 20 de enero de 1906.
 
@@ -562,3 +562,19 @@ Entre tanto se expide una nueva reglamentación para los campos mortuorios, qued
 ###### ARTICULO TERCERO.
 
 Este Decreto entrará en vigor a los tres días de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 330.- SE ABROGA LA LEY REGLAMENTARIA PARA LOS JUZGADOS DEL REGISTRO CIVIL Y CAMPOS MORTUORIOS DEL ESTADO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA, EL 20 DE ENERO DE 1906 Y SUS REFORMAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+No se afectarán ni modificarán las situaciones jurídicas concretas, ni los derechos adquiridos que se hayan originado durante la vigencia de la ley que se abroga o al amparo de la misma, ni las decisiones judiciales ejecutoriadas que se hayan dictado con fundamento en sus disposiciones. Para tal efecto, las autoridades competentes deberán garantizar la intangibilidad de aquéllos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a este Decreto.
