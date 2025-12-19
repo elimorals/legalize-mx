@@ -4,7 +4,7 @@ identifier: "LEVCT"
 country: "mx"
 rank: "ley"
 publication_date: "1972-05-25"
-last_updated: "2004-12-10"
+last_updated: "2025-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=823&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LEVCT"
 ---
 # LEY SOBRE ELABORACION Y VENTA DE CAFE TOSTADO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE DESARROLLO SUSTENTABLE DE LA CAFETICULTURA, PUBLICADA EN EL D.O.F. DE 19 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY SOBRE ELABORACION Y VENTA DE CAFE TOSTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE DICIEMBRE DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 25 de mayo de 1972.
 
@@ -177,3 +179,19 @@ El presente Decreto entrará en vigor a los 60 días de su publicación en el Di
 ###### ARTÍCULO SEGUNDO
 
 A partir de la entrada en vigor de este Decreto, la Secretaría de Economía iniciará, en consulta con el sector cafetalero nacional, y en los términos de la Ley Federal sobre Metrología y Normalización, el proceso que conduzca a la expedición de normas oficiales mexicanas en materia de etiquetado y calidades para mezclas de café y de café mezclado con otros productos.
+
+D.O.F. 19 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE DESARROLLO SUSTENTABLE DE LA CAFETICULTURA".]
+
+Primero. La presente Ley entrará en vigor a los ciento ochenta días de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se deberán armonizar con arreglo a la presente Ley la normatividad relacionada a la actividad cafetalera.
+
+Tercero. La Secretaría, en un plazo no mayor de un año, contado a partir de la publicación de este Decreto, emitirá los lineamientos para el funcionamiento de la Comisión.
+
+Cuarto. La integración al Sistema Nacional de Registro Agropecuario del Registro de Personas Productoras, Acopiadoras, Industriales, Comercializadoras, Exportadoras e Importadoras Nacionales de Café se llevará a cabo de manera progresiva y con el apoyo del Comité Nacional Sistema Producto Café.
+
+Quinto. Se abroga la Ley sobre Elaboración y Venta de Café Tostado, publicada en el Diario Oficial de la Federación el 25 de mayo de 1972.
+
+Sexto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto corresponderán a las dependencias y entidades competentes y se realizarán con cargo a su presupuesto aprobado por la Cámara de Diputados para el ejercicio fiscal que corresponda.
