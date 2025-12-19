@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-inclusion-de-las-personas-con-discapacidad-en-10238
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-12"
-last_updated: "2024-10-24"
+last_updated: "2025-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 12 de septiembre de 2014.
 
@@ -303,7 +303,9 @@ III. Tener igualdad de oportunidades laborales para ejercer la profesión, ofici
 
 IV. Gozar de consideraciones y facilidades para el uso del transporte, estacionamientos y espectáculos;
 
-V. El libre acceso y desplazamiento en vía pública y servicios;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2025)</small>
+
+V. El libre acceso y desplazamiento en vía pública y servicios, incluyendo a las personas con discapacidad que cuenten con animales de servicio, asistencia y/o de terapia;
 
 VI. Participar en los programas de cultura, deporte y recreación;
 
@@ -350,6 +352,16 @@ Las personas con discapacidad tienen derecho a una debida defensa, así como a q
 ###### Artículo 13 Ter.
 
 Las instituciones de procuración, administración e impartición de justicia del Estado de Michoacán de Ocampo, deberán contar con peritos y personal especializados en las diversas discapacidades, apoyo de intérpretes de Lengua de Señas Mexicana, así como la emisión de documentos en Sistema de Escritura Braille.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 13 Quater.
+
+Los proveedores de bienes y servicios no podrán negar su servicio o establecer preferencias y discriminación alguna a las personas con discapacidad que cuenten con animales de servicio, asistencia y/o de terapia.
+
+Para efectos del presente artículo, se entenderá por animal de servicio, asistencia o de terapia, aquel que esté debidamente entrenado para auxiliar a una persona con discapacidad en el desarrollo de sus actividades diarias, brindándole autonomía, seguridad o acompañamiento emocional, según corresponda.
+
+El Estado establecerá un mecanismo oficial de registro, acreditación y emisión de constancias para las personas con discapacidad que cuenten con este tipo de animales, con la finalidad de garantizar su libre tránsito y acceso sin discriminación, así como para brindar certeza a los prestadores de bienes y servicios.
 
 ### CAPÍTULO II. SALUD Y ASISTENCIA SOCIAL
 
@@ -1368,3 +1380,11 @@ SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 TERCERO. El Consejo Michoacano para la Inclusión de las Personas con Discapacidad, dará seguimiento a la creación y promoción del Centro de Capacitación Laboral para Personas con Discapacidad, que se establece en el Plan de Desarrollo Integral del Estado de Michoacán de Ocampo.
 
 CUARTO. Los Poderes Legislativo, Ejecutivo y Judicial, los Ayuntamientos y aquellos organismos descentralizados y empresas de participación estatal y municipal que con motivo de la entrada en vigor del presente Decreto, tendrán que incluir en el Proyecto de Presupuesto de Egresos; los recursos para la implementación y ejecución de la política pública derivada de el presente Decreto, tomando en consideración la participación en el reparto de estos recursos, de conformidad con los ordenamientos legales aplicables.
+
+P.O. 19 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NUMERO 252 POR EL QUE “SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 12 Y SE ADICIONA EL ARTÍCULO 13 QUATER A LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. El Titular del Poder Ejecutivo del Estado, a través de la dependencia competente, dispondrá en un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor del presente Decreto, lo necesario para establecer el mecanismo de registro y acreditación de los animales de servicio, asistencia y/o de terapia, a fin de dar cumplimiento a lo previsto en el artículo 13 Quater de ésta Ley.
