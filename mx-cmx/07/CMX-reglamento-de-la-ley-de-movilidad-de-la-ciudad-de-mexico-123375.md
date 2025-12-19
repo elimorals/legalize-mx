@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-movilidad-de-la-ciudad-de-mexico-123375
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-09-15"
-last_updated: "2025-10-10"
+last_updated: "2025-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123375&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-09-15"
 
 REGLAMENTO DE LA LEY DE MOVILIDAD DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 10 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 19 DE DICIEMBRE DE 2025.
 
 Reglamento publicado en el Número 156 Bis de la Gaceta Oficial de la Ciudad de México, el 15 de septiembre de 2017.
 
@@ -3836,7 +3836,9 @@ PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de M�
 
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación.
 
-TERCERO. Las licencias para conducir tipo A con vigencia permanente, establecidas en la fracción I, inciso a) del artículo 126, serán expedidas a partir del 16 de noviembre de 2024 y hasta el 31 de diciembre de 2025, por lo que se realizarán las modificaciones normativas pertinentes una vez que dicho periodo concluya, sin que ello implique que las licencias emitidas durante el mismo pierdan su validez.
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+TERCERO. Las licencias para conducir tipo A con vigencia permanente, establecidas en la fracción I, inciso a) del artículo 126, serán expedidas a partir del 16 de noviembre de 2024 y hasta el 31 de diciembre de 2026, por lo que se realizarán las modificaciones normativas pertinentes una vez que dicho periodo concluya, sin que ello implique que las licencias emitidas durante el mismo pierdan su validez.
 
 CUARTO. Las Licencias Tipo A con vigencia permanente expedidas conforme al Reglamento de Tránsito del Distrito Federal, publicado en la Gaceta Oficial del entonces Distrito Federal, el 30 de diciembre de 2003, mantendrán su carácter permanente.
 
@@ -3851,3 +3853,13 @@ PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO. Se derogan todas aquellas disposiciones administrativas que se opongan a lo contenido en el presente Decreto.
+
+G.O. 19 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO MODIFICATORIO AL DECRETO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE MOVILIDAD DE LA CIUDAD DE MÉXICO, EN MATERIA DE LICENCIAS PARA CONDUCIR".]
+
+PRIMERO. Publíquese el presente acuerdo modificatorio en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente acuerdo modificatorio entrará en vigor el día siguiente de su publicación.
+
+TERCERO. Con excepción de la modificación señalada en el presente acuerdo modificatorio, subsisten como vigentes las demás disposiciones del “Decreto por el que se adicionan y reforman diversas disposiciones del Reglamento de la Ley de Movilidad de la Ciudad de México, en materia de licencias para conducir”.
