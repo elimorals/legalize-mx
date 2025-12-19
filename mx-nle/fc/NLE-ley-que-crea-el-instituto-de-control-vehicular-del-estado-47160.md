@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-instituto-de-control-vehicular-del-estado-47160
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2025-02-18"
+last_updated: "2025-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 2 de diciembre de 2005.
 
@@ -523,13 +523,15 @@ La rectificación de las inscripciones procederá cuando en ellas se advierta er
 
 Las autoridades competentes del Instituto dictaminarán la procedencia de las rectificaciones a petición de cualquiera de las partes, e inclusive de oficio, previa audiencia de todos los interesados y sin perjuicio de las acciones legales que correspondan a las partes.
 
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 18.
 
-La información relativa a los registros será pública, con las reservas que esta misma Ley señala; el Instituto podrá emitir constancias, certificaciones y demás resoluciones respecto de la existencia o no de registros, así como de la información pública que contengan.
+La información relativa a los registros será pública, a excepción de aquella que se encuentre clasificada como reservada o confidencial en los términos de esta misma Ley, o cualquier otra legislación aplicable; el Instituto podrá emitir constancias, certificaciones y demás resoluciones respecto de la existencia o no de registros, así como de la información pública que contengan; respetando en todo momento los supuestos de reserva y confidencialidad de la información.
 
-La información reservada sólo podrá ser revelada por el Instituto al titular del registro, a quien acredite consentimiento expreso del titular del registro; y a las autoridades competentes en materia de procuración y administración de justicia, seguridad pública, fiscal, caminos, transporte, tránsito y vialidad, siempre que la soliciten en ejercicio de sus funciones.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2025)</small>
+
+La información clasificada como reservada o confidencial sólo podrá ser revelada por el Instituto al titular del registro, a quien acredite consentimiento expreso del titular del registro; y a las autoridades competentes en materia de procuración y administración de justicia, seguridad pública, fiscal, caminos, transporte, tránsito y vialidad, siempre que la soliciten en ejercicio de sus funciones.
 
 ###### Artículo 19.
 
@@ -597,9 +599,9 @@ IX. Tratándose de vehículos de procedencia extranjera, o de otra entidad feder
 
 X. Tratándose de vehículos inscritos en el Estado de Nuevo León, Constancia de Registro Vehicular debidamente expedida por el ICV;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2025)</small>
 
-XI. Folio único de la licencia para conducir del conductor habitual del vehículo.
+XI. Folio único de la licencia para conducir vigente del Estado de Nuevo León, del conductor habitual del vehículo.
 
 Cuando se trate de personas físicas la información a que refiere la fracción III contenida en el registro podrá ser reservada a petición del interesado.
 
@@ -775,11 +777,11 @@ Los titulares de las licencias son responsables del pago de las multas que se le
 
 No procederá el refrendo o la reposición de las licencias para conducir en tanto se encuentren vigentes sanciones que le hayan sido impuestas a su titular.
 
-> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 32 Bis.
 
-Los propietarios de vehículo eléctricos e híbridos, estarán exentos de la obligación de pago del refrendo vehicular anual.
+Los propietarios de vehículos eléctricos, estarán exentos de la obligación de pago de refrendo vehicular anual tratándose de vehículos nuevos, aplicable por una sola ocasión luego de su inscripción en la Sección Primera: Vehículos.
 
 ### Capítulo VII. De la inscripción de gravámenes sobre vehículos
 
@@ -957,6 +959,12 @@ Artículo Vigésimo Cuarto.- Durante el ejercicio fiscal 2025, tratándose de ve
 
 En cualquier tiempo en que el Instituto advierta que el registro se asentó en contravención de disposiciones legales o que un tercero acredite la legítima propiedad del vehículo, el Instituto lo revocará, quedando sin efectos los medios de identificación vehicular, y certificaciones que haya emitido respecto de aquél, dando vista a la Fiscalía General de Justicia del Estado de Nuevo León para los efectos que procedan.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2025)</small>
+
+Artículo Vigésimo Quinto.- Durante el ejercicio fiscal 2026, tratándose de vehículos cuyo modelo sea 2016 o años anteriores, en los que no se cuente con documento idóneo que legalmente acredite la adquisición del mismo, conforme lo que disponen los artículos 14, 22 y 23, fracción VIII, de esta Ley, el interesado podrá solicitar su registro, presentando algún otro medio de prueba con el cual justifique la legal posesión, cumpliendo con los requisitos que al efecto establezca el propio Instituto, siempre que el vehículo no cuente con reporte de robo y se acredite la importación legal en caso de vehículos extranjeros, debiendo realizar el pago de los derechos correspondientes.
+
+En cualquier tiempo en que el Instituto advierta que el registro se asentó en contravención de disposiciones legales o que un tercero acredite la legítima propiedad del vehículo, el Instituto lo revocará, quedando sin efectos los medios de identificación vehicular, y certificaciones que haya emitido respecto de aquél, dando vista a la Fiscalía General de Justicia del Estado de Nuevo León para los efectos que procedan.
+
 Por lo tanto envíese al Ejecutivo del Estado, para su promulgación y publicación en el Periódico Oficial del Estado.
 
 Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su capital, a los treinta días del mes de noviembre de 2005. PRESIDENTE: DIP. CÉSAR AGUSTÍN SERNA ESCALERA: DIP. SECRETARIA: ALICIA MARGARITA AYALA MEDINA: DIP. SECRETARIO: JULIO REYES RAMÍREZ.- Rúbricas.
@@ -1112,3 +1120,9 @@ P.O. 18 DE FEBRERO DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 074. SE REFORMAN LAS FRACCIONES I, VI, XI Y XVI DEL ARTÍCULO 3, LA FRACCIÓN IV DEL ARTÍCULO 4, LAS FRACCIONES VI Y XI DEL ARTÍCULO 11, EL ARTÍCULO 12, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 17, EL ARTÍCULO 18, EL ARTÍCULO 20, PRIMER PÁRRAFO DEL ARTÍCULO 21, FRACCIONES IX DEL ARTÍCULO 23, PÁRRAFOS PRIMERO, SEGUNDO Y CUARTO DEL ARTÍCULO 25, Y SE ADICIONAN LAS FRACCIONES XVII Y XVIII DEL ARTÍCULO 3, FRACCIÓN VIII DEL ARTÍCULO 4, LAS FRACCIONES XII Y XIII DEL ARTÍCULO 11, LAS FRACCIONES X Y XI DEL ARTÍCULO 23, UN PÁRRAFO QUINTO DEL ARTÍCULO 25, Y UN ARTÍCULO VIGÉSIMO CUARTO TRANSITORIO; TODOS DE LA LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA POR MODIFICACIÓN EL INCISO A), B) Y C) DE LA FRACCIÓN I DEL ARTÍCULO 8 DE LA LEY QUE REGULA LA EXPEDICIÓN DE LICENCIAS PARA CONDUCIR DEL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO. El presente Decreto entrará en vigor el 01 de enero del año 2025.
+
+P.O. 19 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 179. SE REFORMAN LOS ARTÍCULOS, 18 PRIMER Y SEGUNDO PÁRRAFOS; 21 PRIMER PÁRRAFO; 23 FRACCIÓN XI; 32 BIS; Y SE ADICIONA UN ARTÍCULO VIGÉSIMO QUINTO TRANSITORIO; TODOS DE LA LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN; Y SE REFORMAN LOS ARTÍCULOS 4 FRACCIÓN I, 12 PRIMER PÁRRAFO; 14 PRIMERO, CUARTO Y QUINTO PÁRRAFOS; 15 PRIMERO Y SEGUNDO PÁRRAFOS; 16; 17 Y 18 SEGUNDO PÁRRAFO; Y SE ADICIONA AL ARTÍCULO 15 CON UN TERCER PÁRRAFO; TODOS DE LA LEY QUE REGULA LA EXPEDICIÓN DE LICENCIAS PARA CONDUCIR DEL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO. El presente Decreto entrará en vigor el 01 de enero del año 2026.
