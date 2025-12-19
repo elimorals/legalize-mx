@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-fondo-de-cultura-economica-126553"
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-02-21"
-last_updated: "2018-02-21"
+last_updated: "2025-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126553&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2017-12-05"
 ---
 # ESTATUTO ORGANICO DEL FONDO DE CULTURA ECONOMICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ESTATUTO ORGÁNICO DEL FONDO DE CULTURA ECONÓMICA, PUBLICADO EN EL D.O.F. DE 19 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL FONDO DE CULTURA ECONÓMICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2025 (ABROGADO).
 
 Estatuto publicado en la Segunda Sección al Número 16 del Diario Oficial de la Federación, el miércoles 21 de febrero de 2018.
 
@@ -768,3 +770,45 @@ TERCERO.- A la entrada en vigor del presente Estatuto Orgánico, se abroga el Es
 CUARTO.- Se instruye al Director General para que, dentro de los trescientos sesenta y cinco días naturales siguientes a la entrada en vigor del presente Estatuto, realice las modificaciones correspondientes a su normativa interna conforme a lo previsto en el mismo.
 
 Ciudad de México, a 5 de diciembre de 2017.- El Presidente Suplente, Otto Granados Roldán.- Rúbrica.- El Secretario Técnico, Alejandro Pérez Corzo.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 19 DE DICIEMBRE DE 2025.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL “AVISO MEDIANTE EL CUAL SE DA A CONOCER LA LIGA ELECTRÓNICA QUE REDIRIGE AL ESTATUTO ORGÁNICO 2025 DEL FONDO DE CULTURA ECONÓMICA”, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+AVISO MEDIANTE EL CUAL SE DA A CONOCER LA LIGA ELECTRÓNICA QUE REDIRIGE AL ESTATUTO ORGÁNICO 2025 DEL FONDO DE CULTURA ECONÓMICA.
+
+FRANCISCO IGNACIO TAIBO MAHOJO, Director General del Fondo de Cultura Económica, con fundamento en lo dispuesto por el artículo 15, antepenúltimo párrafo, 58 fracción VIII de la Ley Federal de las Entidades Paraestatales; 8vo fracción I, del Decreto por el que se crea el organismo descentralizado Fondo de Cultura Económica y se ordena la disolución y liquidación de la empresa de participación estatal mayoritaria del mismo nombre; y la H. Junta de Gobierno del Fondo de Cultura Económica se aprueba lo siguiente:
+
+Estatuto Orgánico del Fondo de Cultura Económica 2025
+
+Se da a conocer a las autoridades y personas servidoras públicas y público en general, para todos los efectos legales y administrativos a que haya lugar, el hipervínculo electrónico para consulta del Estatuto Orgánico del Fondo de Cultura Económica, el cual tiene por objeto actualizar las disposiciones y los principios que sustentan el desarrollo y cumplimiento de las funciones esenciales y complementarias de este sujeto obligado mismo que podrá consultarse en la liga electrónica referida en el presente aviso:
+
+Denominación: Estatuto Orgánico del Fondo de Cultura Económica 2025.
+
+Emisor: Fondo de Cultura Económica.
+
+Fecha de emisión: 3 de marzo de 2025 aprobado por la H. Junta de Gobierno.
+
+Medio de Consulta: El documento se encuentra publicado para su difusión y consulta en el sitio de internet, en la siguiente liga:
+
+https://www.fondodeculturaeconomica.com/subdirectorios_site/Normateca/Estatuto%20Org%C3%A1nico%202025%20(03.03.2025).pdf
+
+Liga adicional: www.dof.gob.mx/2025/SEP/ESTATUTOORGANICOFCE_03032025.pdf
+
+Ciudad de México, a 20 de noviembre del 2025.- Director General del Fondo de Cultura Económica, Francisco Ignacio Taibo Mahojo.- Rúbrica.
+
+## TRANSITORIOS
+
+PRIMERO. El presente Estatuto Orgánico entrará en vigor al día siguiente de su aprobación por la Junta Directiva del Fondo de Cultura Económica.
+
+SEGUNDO. Una vez que el Estatuto Orgánico entre en vigor, deberá ser publicado en el Diario Oficial de la Federación.
+
+TERCERO. A la entrada en vigor del presente Estatuto Orgánico, se abroga el Estatuto Orgánico del Fondo de Cultura Económica, publicado en el Diario Oficial de la Federación el 21 de febrero de 2018.
+
+CUARTO. Las áreas o unidades administrativas con denominaciones nuevas o distintas que aparecen en el presente Estatuto Orgánico y que tienen competencia en asuntos que anteriormente correspondían a otras unidades, se harán cargo de los mismos, y continuarán su substanciación o dictarán las resoluciones respectivas.
+
+QUINTO. Se instruye a la o el Director General para que, dentro de los trescientos sesenta y cinco días naturales siguientes a la entrada en vigor del presente Estatuto, realice las modificaciones correspondientes a su normativa interna conforme a lo previsto en el mismo.
+
+Se delega a la o el Director General la emisión y suscripción del Estatuto Orgánico.
