@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-148967
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-03-30"
-last_updated: "2025-11-20"
+last_updated: "2025-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Octava Sección en el Número 39 del Periódico Oficial del Estado de Michoacán, el martes 30 de marzo de 2021.
 
@@ -1285,9 +1285,17 @@ VII. Promover la incorporación de las mujeres al desarrollo mediante el apoyo a
 
 VIII. Coadyuvar con la instancia municipal de la mujer para brindar atención y asesoría jurídica, laboral, psicológica, emocional, nutricional, médica-ginecológica, dental a las mujeres que así lo requieran y a las víctimas de violencia;
 
-IX. Coadyuvar de manera interinstitucional con las direcciones del municipio de manera coordinada a fin de establecer programas de educación tendientes a erradicar las diferentes expresiones de violencia de género, fomentando una cultura de paz y respeto a los derechos humanos; y,
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2025)</small>
 
-X. Las demás que le señale esta Ley u otras disposiciones aplicables.
+IX. Coadyuvar de manera interinstitucional con las direcciones del municipio de manera coordinada a fin de establecer programas de educación tendientes a erradicar las diferentes expresiones de violencia de género, fomentando una cultura de paz y respeto a los derechos humanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE DICIEMBRE DE 2025)</small>
+
+X. Promover la implementación de salas de lactancia en espacios públicos, con el fin de que las madres pueden (sic) amamantar, extraer su leche y conservarla de manera higiénica en ambientes y condiciones idóneas y salubres; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XI. Las demás que le señale esta Ley u otras disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 30 DE MARZO DE 2023)</small>
 
@@ -3684,3 +3692,9 @@ P.O. 20 DE NOVIEMBRE DE 2025.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo. Los Municipios que actualmente cuentan con la distinción de pueblos mágicos, otorgada por la Secretaría de Turismo Federal, contarán con ciento ochenta días para emitir las disposiciones reglamentarias necesarias para dar cumplimiento a este Decreto, el cual no será retroactivo.
+
+P.O. 19 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 251 POR EL QUE "SE REFORMAN LAS FRACCIONES IX Y X; Y, SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 55 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
