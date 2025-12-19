@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-sistema-de-seguridad-ciudadana-de-la-ciudad-de-137369"
 country: "mx"
 rank: "ley"
 publication_date: "2019-08-01"
-last_updated: "2024-03-27"
+last_updated: "2025-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137369&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-08-01"
 
 LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE DICIEMBRE DE 2025.
 
 Ley publicada en el No. 147 bis de la Gaceta Oficial de la Ciudad de México, el jueves 1 de agosto de 2019.
 
@@ -84,6 +84,10 @@ VIII. Constitución Federal: Constitución Política de los Estados Unidos Mexic
 
 IX. Coordinador del Gabinete: Coordinador del Gabinete de Seguridad Ciudadana y Procuración de Justicia;
 
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+IX Bis. Cuerpos policiales: a las agrupaciones que integran las Policías de la Secretaría y la Fiscalía, que realizan principalmente las funciones de inteligencia, prevención, proximidad social, atención a víctimas, investigación, reacción, seguridad y custodia, así como las que determine la normatividad aplicable;
+
 X. Demarcación: base de la división territorial y de la organización político administrativa de la Ciudad de México.
 
 XI. Fiscalía: Fiscalía General de Justicia de la Ciudad de México;
@@ -99,6 +103,10 @@ XV. Instituciones de Procuración de Justicia: Instituciones que integran al Min
 XVI. Instituciones de Seguridad Ciudadana: Instituciones Policiales, de Procuración de Justicia, del Sistema Penitenciario y dependencias encargadas de la seguridad ciudadana en la Ciudad
 
 XVII. Instituciones Policiales: cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva y, en general, todas las dependencias encargadas de la seguridad ciudadana en la Ciudad;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XVII Bis. Instituto y/o Universidad: al Instituto de Formación Profesional y Estudios Superiores de la Fiscalía y/o a la Universidad de la Policía, al Centro de Formación y Desarrollo Policial de la Policía Bancaria e Industrial y al Instituto de Educación Superior de la Policía Auxiliar de la Ciudad de México de la Secretaría, órganos desconcentrados y Unidades Administrativas de las Instituciones de Seguridad Ciudadana, encargadas entre otras atribuciones de la formación y actualización especializada de las personas aspirantes y servidoras públicas con funciones ministerial, pericial y policial;
 
 XVIII. La Agencia: Agencia Digital de Innovación Pública;
 
@@ -128,19 +136,27 @@ XXX. Secretariado Ejecutivo: Secretariado Ejecutivo del Sistema de Seguridad Ciu
 
 XXXI. Secretario Ejecutivo: persona Titular del Secretariado Ejecutivo del Sistema de Seguridad Ciudadana de la Ciudad de México;
 
-XXXII. Servicio Profesional: Servicio Profesional de Carrera tanto de los cuerpos policiales de la Secretaría como los de la Fiscalía. Sistema de carácter obligatorio y permanente conforme al cual se establecen los lineamientos que definen los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción, reconocimiento y reingreso, así como la separación o baja del servicio de los integrantes de las Instituciones de seguridad ciudadana de la Ciudad.
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-XXXIII. Sistema Nacional: Sistema Nacional de Seguridad Pública; y
+XXXII. Servicio Profesional de Carrera: al Servicio Profesional de Carrera tanto de la Secretaría como de la Fiscalía. Sistema integral con carácter obligatorio, conformado por los procesos institucionales de ingreso, profesionalización, evaluación, certificación individual, promoción, estímulos, permanencia y separación. Mediante el cual se garantiza la igualdad de condiciones y de oportunidades, así como la mejora en la eficacia y eficiencia en las funciones que desempeñan las personas servidoras públicas de las Instituciones de Seguridad Ciudadana, y por ende la mejora en la seguridad de la ciudadanía;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XXXIII. Sistema Nacional: al Sistema Nacional de Seguridad Pública;
 
 XXXIV. Sistema Unificado de Información de la Ciudad de México: Sistema al que hace referencia la Fracción LXVII del artículo sexto de la Ley de Operación e Innovación Digital;
 
-XXXV. Sistema: Sistema de Seguimiento para la Seguridad Ciudadana de la Ciudad de México, es el conjunto instrumentos, mecanismos y actividades, organizados y sistematizados que proponen y coadyuvan en el diseño de políticas públicas estrategias y protocolos; en los mecanismos de evaluación de resultados, en los criterios para el servicio profesional de carrera y que establece los lineamientos relativos al manejo de datos de incidencia delictiva.
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
+XXXV. Sistema: al Sistema de Seguimiento para la Seguridad Ciudadana de la Ciudad de México, es el conjunto (sic) instrumentos, mecanismos y actividades, organizados y sistematizados que proponen y coadyuvan en el diseño de políticas públicas estrategias y protocolos; en los mecanismos de evaluación de resultados, en los criterios para el servicio profesional de carrera y que establece los lineamientos relativos al manejo de datos de incidencia delictiva, y
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XXXVI. Unidad(es) Administrativa(s): a las Unidades Administrativas, Unidades Administrativas de Apoyo Técnico Operativo, Unidades Administrativas Policiales, Unidades Administrativas de Apoyo Técnico Operativo Policial, Órganos Colegiados y Órgano Desconcentrado de la Secretaría, así como a la Estructura Orgánica de la Fiscalía.
 
 ###### Artículo 3.
 
-A falta de previsión expresa en la presente Ley, en materia de procedimientos administrativos disciplinarios se estará a lo dispuesto en la Ley de Responsabilidades Administrativas de la Ciudad de México.
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2025)
 
 ###### Artículo 4.
 
@@ -158,7 +174,9 @@ V. La convivencia pacífica entre todas las personas, y
 
 VI. La máxima publicidad, la transparencia y la protección de datos personales en posesión de sujetos obligados.
 
-Lo anterior sin perjuicio de los principios que prevé el artículo 21, noveno párrafo, de la Constitución Federal, que son:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+Lo anterior sin perjuicio de los principios siguientes:
 
 a) Legalidad;
 
@@ -168,9 +186,21 @@ c) Eficiencia;
 
 d) Profesionalismo;
 
-e) Honradez; y
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-f) Respeto a los derechos humanos reconocidos en la propia Constitución.
+e) Honradez;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+f) Perspectiva de género;
+
+> <small>(ADICIONADO [N. DE E. ADICIONADO], G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+g) Protección de la persona y su dignidad, e
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+h) Respeto a los derechos humanos con enfoque diferenciado e incluyente reconocidos en la Constitución Federal.
 
 Las instituciones de seguridad ciudadana deberán fomentar la participación ciudadana y la rendición de cuentas, así como el principio de proximidad gubernamental y el derecho a la buena administración.
 
@@ -708,29 +738,133 @@ XXVI. Las que en el ámbito de sus respectivas competencias le confiera la perso
 
 ### Capítulo II. Gabinete de Seguridad Ciudadana y Procuración de Justicia de la Ciudad
 
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 31.
 
-La persona Titular de la Jefatura de Gobierno constituirá el Gabinete de Seguridad Ciudadana y Procuración de Justicia con la finalidad de establecer estrategias de planeación, programación, organización coordinación y evaluación de la política en materia de seguridad ciudadana conforme a los lineamientos del Plan General de Desarrollo de la Ciudad de México, del Programa de Gobierno de la Ciudad de México, así como los demás programas que deriven de éstos.
+La persona Titular de la Jefatura de Gobierno constituirá el Gabinete de Seguridad Ciudadana y Procuración de Justicia que será la instancia de decisión ejecutiva y de coordinación inmediata de las Instituciones de Seguridad Ciudadana de la Ciudad de México.
 
 ###### Artículo 32.
 
 El Gabinete de Seguridad se integrará por las personas titulares de:
 
-I. La Jefatura de Gobierno;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-II. La Secretaría;
+I. La Jefatura de Gobierno, quien lo presidirá;
 
-III. La Fiscalía; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-IV. La Secretaría de Gobierno.
+II. La Consejería Jurídica y de Servicios Legales;
 
-Contará con personal de apoyo que determine la persona titular de la Jefatura de Gobierno, entre de los que se encontrarán las personas titulares de la Coordinación del Gabinete; de C5; de la Coordinación General de Comunicación Social, de la Agencia, de la Consejería Jurídica y de Servicios Legales.
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-También podrán asistir al Gabinete de Seguridad los invitados que determine la persona titular de la Jefatura de Gobierno, y un representante del Gobierno Federal que podrá asistir como invitado permanente.
+III. La Secretaría;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+IV. La Fiscalía;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+V. La Secretaría de Gobierno;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+VI. El Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+VII. La Jefatura General de la Policía de Investigación;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+VIII. La representación de la Secretaría de Gobernación en la Ciudad;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+IX. La representación de la Secretaría de Seguridad y Protección Ciudadana en la Ciudad;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+X. La representación de la Secretaría de la Defensa Nacional en la Ciudad;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XI. La representación de la Secretaría de Marina en la Ciudad;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XII. La representación de la Guardia Nacional en la Ciudad;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XIII. La representación del Centro Nacional de Inteligencia, y
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XIV. La delegación de los programas de bienestar del gobierno federal en la Ciudad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+El Presidente del Tribunal Superior de Justicia de la Ciudad será invitado permanente.
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+Dicho Gabinete de Seguridad contará con el personal de apoyo que determine la persona Titular de la Jefatura de Gobierno, entre los que se encontrarán las personas Titulares de la Coordinación del Gabinete; de la Coordinación General de Comunicación Social y de la Agencia.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+Podrán asistir al Gabinete de Seguridad las personas Titulares de las Alcaldías y los invitados que determine la persona Titular de la Jefatura de Gobierno, atendiendo a la naturaleza de los asuntos a tratar.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 33.
 
-La organización y funcionamiento del Gabinete de Seguridad Ciudadana y Procuración de Justicia se establecerá conforme al reglamento correspondiente.
+El Gabinete de Seguridad tendrá los siguientes objetivos:
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+I. Establecer estrategias de planeación, programación, organización, coordinación y evaluación de la política en materia de seguridad ciudadana conforme a los lineamientos del Plan General de Desarrollo de la Ciudad de México, del Programa de Gobierno de la Ciudad de México y los demás programas que deriven de éstos, así como de la Estrategia Nacional de Seguridad Pública;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+II. Conocer y analizar los datos relacionados con los delitos de alto impacto, así como las tendencias de incidencia delictiva de la Ciudad y sus demarcaciones territoriales;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+III. Analizar los casos de alto impacto ocurridos en la Ciudad;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+IV. Coordinar las acciones orientadas a la atención de las causas de las violencias y la construcción de la paz;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+V. Informar de las acciones operativas relevantes llevadas a cabo por las instituciones que lo conforman;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+VI. Informar de los asuntos relevantes en materia de gobernabilidad de la Ciudad y sus demarcaciones territoriales;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+VII. Diseñar e implementar acciones operativas;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+VIII. Evaluar de forma permanente las acciones operativas implementadas;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+IX. Coordinar acciones con la Fiscalía y el Poder Judicial de la Ciudad sin perjuicio de su autonomía y del principio de independencia judicial, y
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+X. Las demás que sean necesarias para su operación y funcionamiento.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+La organización y funcionamiento del Gabinete de Seguridad se establecerá conforme al reglamento correspondiente y deberá sesionar de forma ordinaria todos los días hábiles y, de forma extraordinaria, las veces que convoque su presidencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 24 DE DICIEMBRE DE 2019)</small>
 
@@ -806,9 +940,15 @@ Los Gabinetes de Seguridad de las Alcaldías podrán invitar a las reuniones de 
 
 Asimismo, se extenderán invitaciones al Poder Ejecutivo Federal y al Gobierno de la Ciudad de México para enviar representantes a participar de manera permanente en las reuniones de los Gabinetes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 37.
 
-La organización y funcionamiento de los Gabinetes de demarcación se establecerá en el Reglamento correspondiente.
+La organización y funcionamiento de los Gabinetes de Seguridad Ciudadana de Demarcación Territorial se establecerán en el reglamento correspondiente.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+Las demarcaciones territoriales podrán establecer Gabinetes de Seguridad Ciudadana Regionales integrados por dos o más Alcaldías, los cuales serán presididos, de manera rotativa, por la persona Titular de las Alcaldías que lo integren, su operación y funcionamiento se regirá conforme a lo dispuesto por los artículos 35 y 36 de la presente Ley.
 
 ### Capítulo IV. Gabinetes de las Coordinaciones Territoriales
 
@@ -970,11 +1110,15 @@ VII. El buen trato y los derechos de las personas.
 
 Los cuerpos policiales tendrán las siguientes funciones:
 
-I. De inteligencia: recopilar y analizar la información para establecer patrones delictivos, georreferenciar los mismos y presentar acciones y estrategias para la eficacia de la prevención e investigación de los delitos;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+I. De inteligencia: recopilar y analizar la información para establecer patrones criminales, georreferenciar los mismos, así como tendencias delictivas para presentar acciones y estrategias para la eficacia de la prevención e investigación de los delitos;
 
 II. De prevención: ejecutar las acciones necesarias para evitar la comisión de delitos e infracciones administrativas, a partir de realizar acciones de difusión, concientización, atención, disuasión, inspección, vigilancia y vialidad;
 
-III. De proximidad social: actividad auxiliar de las funciones de prevención, a través de la proactividad y la colaboración con otros actores sociales, bajo una política de colaboración interna e interinstitucional que fortalezca la gobernabilidad en la Ciudad y sus alcaldías;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+III. De proximidad social: actividad auxiliar de las funciones de prevención de las violencias y del delito, a través de la proactividad y la colaboración con otros actores sociales, bajo una política de colaboración interna e interinstitucional que fortalezca la gobernabilidad en la Ciudad y sus Alcaldías;
 
 IV. De atención a víctimas: proveer información, orientación y acompañamiento jurídico y psicosocial a las víctimas, con el objeto de facilitar su acceso al derecho a la verdad, a la justicia y a la reparación integral del daño;
 
@@ -982,7 +1126,9 @@ V. De investigación: recolección, clasificación, registro, análisis, evaluac
 
 VI. De reacción: garantizar, mantener y restablecer la paz y el orden público, además de ejecutar los mandamientos ministeriales y judiciales;
 
-VII. De custodia: consiste en la protección de las personas privadas de su libertad de los centros de reinserción social, así como de los intervinientes en el proceso penal y, de requerirse, el traslado y la vigilancia de los imputados, del personal de los tribunales y sus instalaciones; y
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+VII. De seguridad y custodia: consiste en la protección de las personas privadas de su libertad de los centros de reinserción social, así como de los intervinientes en el proceso penal y, de requerirse, el traslado y la vigilancia de los imputados, del personal de los tribunales y sus instalaciones, y
 
 VIII. Las que le señalen las demás disposiciones normativas aplicables.
 
@@ -992,9 +1138,9 @@ VIII. Las que le señalen las demás disposiciones normativas aplicables.
 
 La organización de los cuerpos policiales se establece en razón del tramo de responsabilidad de la ingeniería institucional diseñada en la Constitución de la Ciudad y demás disposiciones legales, de la siguiente manera:
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-I. Bajo la responsabilidad de la Secretaría se encuentra la Policía de Proximidad que se divide en: Policía Preventiva, Policía Auxiliar, Policía de Control de Tránsito, Policía Bancaria e Industrial, Policía Cívica, Policía Turística, Policía de la Brigada de Vigilancia Animal, Cuerpos Especiales, y las demás que determinen la normatividad aplicable.
+I. Bajo la responsabilidad de la Secretaría se encuentra la integración de los siguientes cuerpos policiales de seguridad ciudadana: Policía Preventiva, Policía Auxiliar, Policía Bancaria e Industrial, y los demás que determine la normatividad aplicable, de conformidad con sus atribuciones y funciones en el ámbito de sus respectivas competencias, y
 
 II. Bajo la responsabilidad de la Fiscalía: Policía de investigación.
 
@@ -1002,17 +1148,15 @@ II. Bajo la responsabilidad de la Fiscalía: Policía de investigación.
 
 (DEROGADO, G.O. 2 DE SEPTIEMBRE DE 2021)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 55.
 
-Las policías: preventiva, auxiliar, de tránsito, cívica, turística, bancaria e industrial y cuerpos especiales, desempeñarán sus funciones bajo la dirección y mando directo de la Secretaría observando las disposiciones establecidas en la normatividad federal y local en la materia, regulando su funcionamiento interno a través de su correspondiente Ley Orgánica, Reglamentos, Acuerdos, Protocolos y demás instrumentos jurídico-administrativos que se emitan para tal efecto.
+La Policía Preventiva estará conformada por los siguientes cuerpos policiales: Policía de Proximidad, Policía de Control de Tránsito, Policía Turística, Policía de la Brigada de Vigilancia Animal, Policía de Inteligencia e Investigación, Policía de Seguridad y Custodia, y Cuerpos Especiales, entre otros. Asimismo, desempeñarán sus funciones bajo la dirección y mando directo de la Secretaría observando las disposiciones establecidas en la normatividad federal y local en la materia, regulando su funcionamiento interno a través de su correspondiente Ley Orgánica, Reglamentos, Acuerdos, Protocolos y demás instrumentos jurídico-administrativos que se emitan para tal efecto.
 
-> <small>(ADICIONADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+De igual forma, la Policía Auxiliar y la Policía Bancaria e Industrial desempeñarán sus funciones bajo la dirección y mando directo de la Secretaría observando las disposiciones establecidas en la normatividad federal y local en la materia, regulando su funcionamiento interno mediante la normatividad descrita en el párrafo anterior.
 
-De igual forma, como parte de la función de seguridad ciudadana, la Secretaría tendrá bajo su dirección y responsabilidad el cuerpo de vigilancia y custodia de los Centros Penitenciarios, Centro de Sanciones Administrativas y de Integración Social y Centros Especializados, organizado jerárquica y disciplinariamente en los términos de su Reglamento y demás disposiciones legales aplicables.
-
-Los ingresos que se generen por los servicios prestados por las policías auxiliar y bancaria e industrial, deberán enterarse a favor de la Tesorería de la Ciudad.
+Los ingresos que se generen por los servicios prestados por la Policía Auxiliar y la Policía Bancaria e Industrial, deberán enterarse a favor de la Tesorería de la Ciudad.
 
 > <small>(ADICIONADO, G.O. 27 DE MAYO DE 2022)</small>
 
@@ -1052,83 +1196,275 @@ Los integrantes de los cuerpos policiales deberán llenar un Informe Policial Ho
 
 ### Capítulo I. De las Obligaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 59.
 
-Con el objeto de garantizar el cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, los integrantes de las Instituciones de Seguridad Ciudadana tendrán las siguientes obligaciones:
+Con el objeto de garantizar el cumplimiento de los principios constitucionales, así como los previstos en la presente Ley, las personas servidoras públicas de las Instituciones de Seguridad Ciudadana que pertenezcan al Servicio Profesional de Carrera, tendrán las siguientes obligaciones:
 
-I. Conducirse con dedicación, disciplina, apego al orden jurídico, principios de actuación policial y respeto a los derechos humanos reconocidos en la Constitución Federal y en la Constitución de la Ciudad;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-II. Preservar la secrecía de los asuntos que por razón del desempeño de su función conozcan, en términos de las disposiciones aplicables;
+I. Cursar y aprobar los programas de profesionalización en el empleo de métodos de investigación que garanticen la recopilación técnica y científica de indicios y evidencias, impartidos por los Institutos o Universidades de las Instituciones de Seguridad Pública que correspondan;
 
-III. Obtener y mantener actualizado el CUP, según las disposiciones aplicables;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, G.O. 21 DE OCTUBRE DE 2022)</small>
+II. Fomentar la disciplina, responsabilidad, decisión, integridad, espíritu de cuerpo y profesionalismo, en sí mismo y en sus subalternos;
 
-IV. Asistir a cursos de inducción, formación, capacitación, especialización y aquellos en materia de derechos humanos, al menos una vez al año, siempre y cuando exista suficiencia presupuestal, a fin de adquirir y actualizar los conocimientos teóricos y prácticos que conlleven a su profesionalización.
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-V. Prestar auxilio a las personas amenazadas por algún peligro o que hayan sido víctimas u ofendidos de algún delito, así como brindar protección a sus bienes y derechos. Su actuación será congruente, oportuna y proporcional al hecho;
+III. Designar domicilio en la Ciudad de México para oír y recibir toda clase de notificaciones y documentos, y mantener actualizado el mismo en los términos que señalen las disposiciones respectivas;
 
-VI. Cumplir sus funciones con absoluta imparcialidad y sin discriminación alguna;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-VII. Abstenerse en todo momento de infligir o tolerar actos de tortura, aun cuando se trate de una orden superior o se argumenten circunstancias especiales, tales como amenaza a la seguridad ciudadana, urgencia de las investigaciones o cualquier otra; al conocimiento de ello, lo denunciará inmediatamente ante la autoridad competente;
+IV. Cumplir y hacer cumplir con diligencia las órdenes que reciba con motivo del desempeño de sus funciones, evitando todo acto u omisión que produzca deficiencia en su cumplimiento;
 
-VIII. Observar un trato respetuoso con todas las personas, debiendo abstenerse de todo acto arbitrario y de limitar indebidamente las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico realice la población;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-IX. Desempeñar sus funciones sin solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente. En particular se opondrán a cualquier acto de corrupción y, en caso de tener conocimiento de alguno, deberán denunciarlo;
+V. Evitar dañar, extraviar o hacer mal uso del arma de cargo y de cualquier otro equipo proporcionado por las Instituciones de Seguridad Ciudadana para el cumplimiento de su servicio, a causa de negligencia, descuido o imprudencia;
 
-X. Abstenerse de ordenar o realizar la detención de persona alguna sin cumplir con los requisitos previstos en los ordenamientos constitucionales y legales aplicables;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-XI. Velar por la vida e integridad física de las personas detenidas que tengan bajo su custodia o responsabilidad, así como de los bienes que tengan bajo su resguardo;
+VI. Atender con la debida diligencia y celeridad las quejas o solicitudes de auxilio de la ciudadanía, excepto cuando la petición exceda su competencia;
 
-XII. Actualizarse en el empleo de métodos de investigación que garanticen la recopilación técnica y científica de indicios y evidencias;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-XIII. Utilizar los protocolos en materia de investigación y de cadena de custodia emitidos para tal efecto;
+VII. Evitar ausentarse del servicio durante su turno o jornada sin motivo o causa justificada;
 
-XIV. Participar en operativos y mecanismos de coordinación con otras Instituciones en la materia y procuración de justicia, así como brindarles en su caso, el apoyo que conforme a derecho proceda;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-XV. Preservar, conforme a las disposiciones aplicables, las pruebas e indicios de probables hechos delictivos o de faltas administrativas de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente;
+VIII. Abstenerse de utilizar estereotipos de género para dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso a los procesos de promoción, condecoración, estímulos y recompensas por razones de género;
 
-XVI. Abstenerse de disponer de los bienes asegurados para beneficio propio o de terceros;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-XVII. Someterse y aprobar las evaluaciones periódicas para acreditar el cumplimiento de los requisitos de permanencia previstos en la Ley General, así como obtener y mantener vigente la certificación respectiva;
+IX. Remitir a la instancia que corresponda la información recabada, en el cumplimiento de sus funciones o en el desempeño de sus actividades, para su análisis y registro. Asimismo, entregar la información que le sea solicitada por otras Instituciones de Seguridad Pública, en términos de las disposiciones aplicables;
 
-XVIII. Informar a su superior jerárquico de manera inmediata, los actos y omisiones, que pudieran ser constitutivos de delito por parte del personal a su cargo o iguales en categoría jerárquica;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-XIX. Cumplir y hacer cumplir con diligencia las órdenes que reciba con motivo del desempeño de sus funciones, evitando todo acto u omisión que produzca deficiencia en su cumplimiento;
+X. Abstenerse de aplicar correctivos disciplinarios injustificados a sus subalternos;
 
-XX. Fomentar la disciplina, responsabilidad, decisión, integridad, espíritu de cuerpo y profesionalismo, en sí mismo y en el personal bajo su mando;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-XXI. Abstenerse de realizar conductas que desacrediten su persona o la imagen de las Instituciones de Seguridad Ciudadana, dentro o fuera del servicio;
+XI. Colaborar con las autoridades que así se lo soliciten en situaciones de grave riesgo, catástrofes o desastres, prestando el auxilio necesario a la ciudadanía;
 
-XXII. Abstenerse de realizar conductas que contravengan los principios constitucionales y legales que rigen la actuación policial;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-XXIII. Inscribir las detenciones en el Registro Administrativo de Detenciones conforme a las disposiciones aplicables;
+XII. Coadyuvar en la atención, prevención, investigación y persecución de delitos bajo el mando y conducción del Ministerio Público, realizando todas las acciones necesarias, pertinentes y razonables para el esclarecimiento de los hechos y la protección de víctimas;
 
-XXIV. Evitar dañar, extraviar o hacer mal uso del arma de cargo y de cualquier otro equipo proporcionado por la Institución para el cumplimiento de su servicio, a causa de negligencia, descuido o imprudencia;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-XXV. Abstenerse de sustraer, ocultar, alterar o dañar información u otros bienes en perjuicio de las instituciones;
+XIII. Abstenerse de realizar o tolerar actos de hostigamiento sexual o acoso sexual, con independencia del sexo, identidad o expresión de género, características u orientación sexuales, de las personas involucradas en tales casos en cualquiera de sus ámbitos;
 
-XXVI. Abstenerse, conforme a las disposiciones aplicables, de dar a conocer por cualquier medio a quien no tenga derecho, documentos, registros, imágenes, constancias, estadísticas, reportes o cualquier otra información reservada o confidencial de la que tenga conocimiento en ejercicio y con motivo de su empleo, cargo o comisión;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-XXVII. Atender con diligencia la solicitud de informe, queja o auxilio de la ciudadanía, o de sus propios subordinados, excepto cuando la petición rebase su competencia, en cuyo caso deberá turnarlo al área que corresponda;
+XIV. Conducirse con dedicación, disciplina, apego al orden jurídico, principios de actuación policial y respeto a los derechos humanos reconocidos en la Constitución Federal, en la Constitución de la Ciudad y en la demás normatividad aplicable;
 
-XXVIII. Abstenerse de introducir a las instalaciones de sus instituciones bebidas embriagantes, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo cuando sean producto de detenciones, cateos, aseguramientos u otros similares, y que previamente exista la autorización correspondiente si es el caso;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-XXIX. Abstenerse de consumir en las instalaciones de sus instituciones o en actos del servicio, bebidas embriagantes, o presentarse al servicio con aliento alcohólico;
+XV. Preservar la secrecía de los asuntos de los que tenga conocimiento en ejercicio y con motivo de su empleo, cargo o comisión, en términos de las disposiciones aplicables; por lo que deberá abstenerse de revelar, divulgar y/o dar a conocer por cualquier otro medio a quien no tenga derecho de manera indebida documentos, registros, imágenes, constancias, estadísticas, reportes o cualquier otra información reservada, confidencial y/o aquella información que se genere o maneje de forma ordinaria;
 
-XXX. Abstenerse de consumir, dentro o fuera del servicio, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo los casos en que el consumo de los medicamentos controlados sea autorizado mediante prescripción médica, avalada por los servicios médicos de las Instituciones de Seguridad Ciudadana;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-XXXI. Evitar ausentarse del servicio sin motivo o causa justificada;
+XVI. Recibir la notificación, presentarse, participar y concluir:
 
-XXXII. Designar domicilio en la Ciudad de México para oír y recibir toda clase de notificaciones y documentos, y mantener actualizado el mismo en los términos que señalen las disposiciones respectivas;
+a) La certificación de competencias básicas policiales;
 
-XXXIII. No permitir que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio; y,
+b) La evaluación del desempeño, y
 
-XXXIV. Las demás que establezcan las disposiciones legales aplicables.
+c) El proceso de evaluación de control de confianza.
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XVII. Abstenerse de poseer, portar o usar el arma de cargo fuera del servicio;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XVIII. Prestar auxilio a las personas amenazadas por algún peligro o que hayan sido víctimas u ofendidos de algún delito, así como brindar protección a sus bienes y derechos. Su actuación será congruente, oportuna y proporcional al hecho;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XIX. Abstenerse en todo momento de infligir o tolerar actos de tortura, aun cuando se trate de una orden superior o se argumenten circunstancias especiales, tales como amenaza a la seguridad ciudadana, urgencia de las investigaciones o cualquier otra; ante el conocimiento de ello, lo denunciará inmediatamente ante la autoridad competente;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XX. Desempeñar sus funciones sin solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente. En particular se opondrán a cualquier acto de corrupción y, en caso de tener conocimiento de alguno, deberán denunciarlo ante la autoridad competente;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XXI. Abstenerse de ordenar y/o realizar la detención de persona alguna o vehículo sin cumplir con los requisitos previstos en los ordenamientos constitucionales y legales aplicables;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XXII. Velar por la vida e integridad física de las personas detenidas que tengan bajo su custodia o responsabilidad, así como de los bienes que tengan bajo su resguardo;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XXIII. Utilizar los protocolos en materia de investigación y de cadena de custodia emitidos para tal efecto;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XXIV. Participar en operativos y mecanismos de coordinación con otras Instituciones en la materia y procuración de justicia, así como brindarles en su caso, el apoyo que conforme a derecho proceda;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XXV. Preservar, conforme a las disposiciones aplicables, las pruebas e indicios de probables hechos delictivos o de faltas administrativas de forma que no se afecte su fiabilidad y se facilite la correcta tramitación del procedimiento correspondiente;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XXVI. Abstenerse de disponer de los bienes asegurados para beneficio propio o de terceros;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XXVII. Abstenerse de utilizar en el ejercicio de sus funciones un arma distinta a la que le fue proporcionada para el servicio;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XXVIII. Informar a su superior jerárquico y/o a la Unidad Administrativa de Asuntos Internos encargada de la supervisión e investigación de la actuación policial de manera inmediata, los actos u omisiones, que pudieran ser constitutivos de delito por parte de sus subalternos o iguales en categoría jerárquica;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XXIX. Poner a disposición inmediata de la autoridad competente, a cualquier persona que se tenga conocimiento que ha sido señalada como probable responsable de algún delito o infracción administrativa, conforme a las disposiciones normativas aplicables;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XXX. Abstenerse de sustraer, ocultar, alterar o dañar información u otros bienes en perjuicio de las Instituciones de Seguridad Ciudadana;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XXXI. Abstenerse de introducir a las instalaciones de sus instituciones o sus centros de trabajo bebidas embriagantes, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal o controlado; salvo cuando sean producto de detenciones, cateos, aseguramientos u otros similares, y que previamente exista la autorización correspondiente si es el caso, o bien, en los casos en que el consumo de los medicamentos controlados sea autorizado mediante prescripción médica;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XXXII. Abstenerse de consumir en las instalaciones de sus instituciones o en actos del servicio, bebidas embriagantes, o presentarse al servicio con aliento alcohólico;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XXXIII. Abstenerse de consumir, dentro o fuera del servicio, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal o controlado, salvo los casos en que el consumo de los medicamentos controlados sea autorizado mediante prescripción médica;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XXXIV. Evitar que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrán hacerse acompañar de dichas personas al realizar actos del servicio;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XXXV. Evitar poner en peligro a los particulares a causa de imprudencia, descuido, negligencia o abandono del servicio;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XXXVI. Abstenerse de presentar por sí o por interpósita persona ante las Unidades Administrativas o autoridades competentes, documentación alterada, apócrifa, carente de validez, sin antecedentes, sin registro, inexistente, o bien, cualquier otra calificación análoga, determinada así por la autoridad facultada para tal efecto;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XXXVII. Abstenerse de obligar a sus subalternos a entregarles dinero o cualquier otro tipo de dádivas a cambio de permitirles el goce de las prestaciones a que todo policía tiene derecho;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XXXVIII. Abstenerse de facilitar el vestuario, equipo de protección, equipo electrónico Hand Held, placas, gafetes, brazalete con la leyenda “Autorizado para infraccionar” u otros componentes del uniforme para que los utilice otro integrante no autorizado para ello o persona ajena a sus instituciones;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XXXIX. Evitar causar daño por negligencia o falta inexcusable a los vehículos, equipo electrónico Hand Held, Radares Móviles y demás equipo asignado durante su jornada de servicio, así como no reparar el daño en caso de ocasionarlo;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XL. Abstenerse de alterar por acción, omisión o negligencia el lugar de los hechos o del hallazgo sin que exista causa justificada, u ocultar la evidencia recabada;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XLI. Hacer uso de la fuerza de manera proporcional, racional, congruente, oportuna y con respeto a los derechos humanos. Para tal efecto, deberá apegarse a la Ley Nacional sobre el Uso de la Fuerza, así como a las demás disposiciones normativas aplicables, realizándose conforme a derecho;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XLII. Abstenerse dentro o fuera del servicio de mezclar las prendas de los diferentes uniformes entre sí ni con las de civil o con algún distintivo institucional, ni asistir uniformado a establecimientos mercantiles cuyo giro principal sea la realización de juegos con apuestas y sorteos, bares, cantinas, antros, discotecas, casinos, espacios de diversión nocturnos, cabarets, cervecerías, chelerías o peñas, así como establecimientos dedicados al entretenimiento para adultos y/o con bailes eróticos u otros centros de este tipo, a menos que medie orden expresa para el desempeño de sus funciones o en caso de flagrancia;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XLIII. Abstenerse de cometer, participar, tolerar o encubrir violaciones a los derechos humanos y actos de discriminación, así como el abuso o maltrato animal;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XLIV. Abstenerse de realizar y/o participar en actos de exhibicionismo corporal, lascivos y/o eróticos, además de practicar actos sexuales durante su turno o jornada de servicio, o bien, cuando se encuentre en instalaciones de las Instituciones de Seguridad Ciudadana, su centro de trabajo o vehículos oficiales, así como cuando tenga a su resguardo vehículos o semovientes para la realización de sus funciones;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XLV. Abstenerse de utilizar dispositivos móviles con fines de entretenimiento durante su turno o jornada de servicio,
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XLVI. Evitar dentro o fuera del servicio, toda acción dolosa o con escarnio realizada mediante el uso de materiales impresos, correo electrónico, mensajes telefónicos, redes sociales, plataformas digitales o cualquier medio tecnológico, por el que se exponga, distribuya, difunda, exhiba, reproduzca, transmita, comercialice, oferte, intercambie y/o comparta imágenes, audios o videos, reales o simulados o creados con uso de la inteligencia artificial de contenido obsceno, difamatorio, profano, calumnioso, amenazante, acosador, abusivo, odioso y/o embarazoso derivado del desempeño de sus funciones, que atente contra la integridad, dignidad, intimidad, libertad, vida privada de las personas tanto en el ámbito privado como en el público;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XLVII. Abstenerse dentro o fuera del servicio de realizar cualquier acción mediante el uso de redes sociales, plataformas digitales o cualquier medio tecnológico, por el que se exponga, distribuya, difunda, exhiba, reproduzca, transmita, comercialice, oferte, intercambie y/o comparta imágenes, audios o videos, reales o simulados o creados con uso de la inteligencia artificial, portando el uniforme, equipo, insignias, identificaciones, vehículos o semovientes de las Instituciones de Seguridad Ciudadana, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XLVIII. Las demás que establezcan las disposiciones legales aplicables.
 
 En el cumplimiento a sus obligaciones, los integrantes priorizarán el convencimiento, así como la solución pacífica de los conflictos, y en su actuación respetarán los derechos humanos de todos y todas; incluidos las víctimas, los testigos e indiciados.
 
 El uso de la fuerza se sujetará a las disposiciones de la Ley Nacional sobre el Uso de la Fuerza. Será excepcional, se utilizará como último recurso y se sujetará a los principios constitucionales de legalidad, necesidad, proporcionalidad, racionalidad y oportunidad, en estricto apego a los derechos humanos. Adicionalmente, los integrantes de las instituciones de seguridad ciudadana observarán los principios de prevención y de rendición de cuentas y vigilancia, que prevé la Ley Nacional sobre el Uso de la Fuerza.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 59 Bis.
+
+Los cuerpos policiales en el ámbito de sus respectivas competencias tendrán la responsabilidad de atender a lo dispuesto en el Código Nacional de Procedimientos Penales y demás disposiciones aplicables relativo al desempeño de sus funciones.
+
+Además de lo señalado en el artículo anterior, los cuerpos policiales tendrán específicamente las obligaciones siguientes:
+
+I. Recibir denuncias anónimas e inmediatamente hacerlo del conocimiento del Ministerio Público a efecto de que éste coordine la investigación en su caso;
+
+II. Realizar detenciones en los casos que autoriza la normatividad aplicable, haciendo saber a la persona detenida los derechos que ésta le otorga;
+
+III. Actuar bajo el mando del Ministerio Público en el aseguramiento de bienes relacionados con la investigación de los delitos;
+
+IV. Entrevistar a las personas que pudieran aportar algún dato o elemento para la investigación;
+
+V. Responder al superior jerárquico que lo solicite e informar al superior jerárquico inmediato de ser el caso, sobre la ejecución de las órdenes directas que reciba, respetando preponderantemente la línea de mando;
+
+VI. Impedir que se consumen los delitos o que los hechos produzcan consecuencias ulteriores. Especialmente estará obligada a realizar todos los actos necesarios para evitar una agresión real, actual o inminente y sin derecho en protección de bienes jurídicos de las personas a quienes tiene la obligación de proteger;
+
+VII. Informar sin dilación por cualquier medio al Ministerio Público o los jueces cívicos, según sea el caso, sobre la detención de cualquier persona, e inscribirla inmediatamente en el registro que al efecto establezcan las disposiciones aplicables;
+
+VIII. Practicar bajo la conducción del Ministerio Público las inspecciones y otros actos de investigación, así como reportar sus resultados al mismo. En aquellos que se requiera autorización judicial, deberá solicitarla a través del Ministerio Público;
+
+IX. Requerir a las autoridades competentes y solicitar a las personas físicas o morales, informes y documentos para fines de la investigación. En caso de negativa, informar al Ministerio Público para que determine lo conducente;
+
+X. Proporcionar atención a víctimas u ofendidos o testigos del delito. Para tal efecto, deberá:
+
+a) Prestar protección y auxilio inmediato, de conformidad con las disposiciones aplicables, tratándose de medidas u órdenes de protección inmediata para las mujeres, adolescentes, niñas y niños, se aplicará de manera supletoria con la Ley de Acceso de las Mujeres a una Vida Libre de Violencia de la Ciudad (sic) México;
+
+b) Informar a la víctima u ofendido sobre los derechos que en su favor se establecen;
+
+c) Procurar que reciban atención médica y psicológica cuando sea necesaria;
+
+d) Adoptar las medidas que se consideren necesarias, en el ámbito de su competencia, tendientes a evitar que se ponga en peligro su integridad física y psicológica, y
+
+e) Tratándose de delitos por razón de género, se deberán aplicar los protocolos previstos para tales efectos.
+
+XI. Dar cumplimiento a los mandamientos ministeriales y jurisdiccionales que les sean instruidos, tratándose del cumplimiento de las medidas u órdenes de protección para las mujeres, adolescentes, niñas y niños, deberán estar a lo previsto en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia de la Ciudad (sic) México;
+
+XII. Registrar en el Informe Policial Homologado y demás documentos, los datos de las actividades e investigaciones que realice, de conformidad con las disposiciones aplicables. Para tal efecto se podrá apoyar en los conocimientos que resulten necesarios, sin que por ello dicho informe adquiera el carácter de informes periciales;
+
+XIII. Implementar y proporcionar medidas u órdenes de protección de las mujeres, adolescentes, niñas y niños en términos de lo dispuesto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia de la Ciudad de México y el Código Nacional de Procedimientos Penales;
+
+XIV. Recibir reportes y/o denuncias sobre hechos que puedan ser constitutivos de delito e infracciones cívicas, realizar los actos apremiantes necesarios e informar al Ministerio Público y juzgados cívicos por cualquier medio y de forma inmediata de las diligencias practicadas. Con independencia de lo anterior, las autoridades competentes podrán hacer del conocimiento de la Unidad Administrativa de Asuntos Internos encargada de la supervisión e investigación de la actuación policial, para que en el ámbito de su competencia lleve a cabo la indagatoria correspondiente;
+
+XV. Preservar el lugar de los hechos o del hallazgo y en general, realizar todos los actos necesarios para garantizar la integridad de los indicios. En su caso deberá dar aviso a la Policía con capacidades para procesar el lugar de los hechos o del hallazgo y al Ministerio Público conforme a las disposiciones previstas en esta Ley y en la legislación aplicable;
+
+XVI. Recolectar y resguardar objetos relacionados con la investigación de los delitos, en los términos de la fracción anterior;
+
+XVII. Además de las obligaciones señaladas en el presente artículo, el personal policial de la Secretaría tendrá las siguientes:
+
+a) Mantener actualizado el Kárdex policial;
+
+b) Abstenerse de tapar u ocultar en forma parcial o total, su gafete de identificación oficial durante su servicio;
+
+c) Abstenerse de ejercer violencia contra las mujeres, entendida como toda acción u omisión que, basada en su género y derivada del uso y/o abuso del poder, tenga por objeto o resultado un daño o sufrimiento físico, psicológico, patrimonial o sexual, tanto en el ámbito público o privado, que limite su acceso a una vida libre de violencia, y
+
+d) Abstenerse de realizar cualquier distinción, exclusión o restricción contra las mujeres por razón de género, edad, salud, características físicas, posición social, económica, condición étnica, nacionalidad, religión, opinión, identidad u orientación sexual, estado civil, o cualquier otra que atente contra su dignidad humana, que tengan por objeto menoscabar o anular el goce o ejercicio de sus derechos; y
+
+XVIII. Las demás que les confieran esta Ley (sic) otras disposiciones aplicables.
 
 ### Capítulo II. De los Derechos
 
@@ -1136,7 +1472,7 @@ El uso de la fuerza se sujetará a las disposiciones de la Ley Nacional sobre el
 
 ###### Artículo 60.
 
-Los integrantes de las Instituciones de Seguridad Ciudadana en el ejercicio de sus funciones tendrán los siguientes derechos:
+Los integrantes de las Instituciones de Seguridad Ciudadana en el ejercicio de sus funciones, tendrán los siguientes derechos:
 
 I. Percibir la remuneración suficiente y digna, así como las demás prestaciones que se destinen en favor de los servidores públicos de la Ciudad, las cuales no podrán disminuirse, salvo por las deducciones y los descuentos que procedan en términos de las disposiciones y resoluciones aplicables, por mandato judicial o por dejar de ejercer un cargo en la estructura de mando de la corporación; en cumplimiento al principio de presunción de inocencia, si un servidor público se encuentra suspendido temporalmente con motivo de un procedimiento administrativo o penal con motivo de sus funciones, deberá continuar percibiendo un ingreso mínimo vital. Asimismo, no deberá presentarse públicamente como responsable de la falta que se le impute.
 
@@ -1166,7 +1502,9 @@ XI. Ser recluido en áreas especiales, en los casos en que sean sujetos a prisi�
 
 XII. Cuando por el cumplimiento del deber incurran en responsabilidad civil, la institución a la que pertenezcan responderá solidariamente;
 
-XIII. Gozar de los beneficios de la seguridad social en los términos que determinen las disposiciones aplicables; los cuales deberán ser acordes a la función policial y a los riesgos inherentes al servicio;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XIII. Gozar de los beneficios de la seguridad social en los términos que determinen las disposiciones aplicables y/o el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, los cuales deberán ser acordes a la función policial y a los riesgos inherentes al servicio. En caso de encontrarse en recuperación o tratamiento por lesiones derivado del cumplimiento de su servicio, de ser posible, se les destinará a realizar labores administrativas, y
 
 XIV. Recibir permisos, licencias, vacaciones, aguinaldo y todas aquellas prestaciones a que tenga derecho en los términos de las disposiciones aplicables;
 
@@ -1424,6 +1762,18 @@ La permanencia de las y los servidores públicos del servicio profesional estar�
 
 Se considerará como personal de la rama administrativa a aquél que ha obtenido su nombramiento en una plaza presupuestal de las instituciones de seguridad ciudadana, preste sus servicios de manera regular y no pertenezca al Servicio Profesional.
 
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 81 Bis.
+
+Las Instituciones de Seguridad Ciudadana deberán emitir la normativa específica para el establecimiento de los procesos de desarrollo, la que deberá incluir, de manera enunciativa, más no limitativa:
+
+I. Reglamento del Servicio Profesional de Carrera, que incluya los procesos institucionales de ingreso, profesionalización, evaluación, certificación individual, promoción, estímulos, permanencia y separación del cargo por incumplimiento a los requisitos de permanencia, y
+
+II. Reglamento del Régimen Disciplinario, que incluya disposiciones normativas que regulan las obligaciones, los correctivos disciplinarios, las sanciones y los procedimientos para su aplicación.
+
+Asimismo, las Instituciones de Seguridad Ciudadana deberán desarrollar un expediente electrónico en donde se registren todos los datos e incidencias relacionadas con el Servicio Profesional de Carrera de las personas servidoras públicas que lo integren.
+
 ### Capítulo II. Servicio Profesional de Carrera
 
 ###### Artículo 82.
@@ -1438,11 +1788,7 @@ La formación y desempeño de los integrantes de las Instituciones Policiales se
 
 ###### Artículo 83.
 
-En la Secretaría habrá Comisiones Técnicas de Profesionalización y de Selección y Promoción.
-
-Las Comisiones Técnicas de Profesionalización se encargarán de elaborar, evaluar y actualizar el Programa de Profesionalización. Dichas comisiones se integrarán en la forma que señalen las reglas para el establecimiento y operación del sistema de carrera policial, que emitan las personas titulares de la Jefatura de Gobierno pudiendo participar en ellas representantes de instituciones académicas o de educación superior.
-
-Con excepción de lo dispuesto en el párrafo anterior, la operación del servicio profesional de carrera quedará a cargo de las Comisiones Técnicas de Selección y Promoción, las cuales serán autónomas en su funcionamiento y gozarán de las más amplias facultades para examinar a los integrantes, sus expedientes y hojas de servicios. Dichas comisiones se integrarán y funcionarán en la forma que señalen las reglas antes citadas y se auxiliarán por personal especializado que determine las aptitudes físicas, psicológicas y académicas de los integrantes de las Instituciones de Seguridad Ciudadana.
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2025)
 
 ###### Artículo 84.
 
@@ -1478,33 +1824,49 @@ IX. Un régimen disciplinario justo e imparcial, y
 
 X. La identidad y el sentido de pertenencia, a partir del desarrollo de condiciones físicas, estructurales y de difusión de las experiencias vitales que generen un sentido de identidad en el personal sustantivo de las Instituciones de Seguridad Ciudadana.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 24 DE DICIEMBRE DE 2019)</small>
+> <small>[N. DE E. MEDIANTE REFORMA PUBLICADA EN LA G.O. DE 19 DE DICIEMBRE DE 2025, SE DEROGA LA FRACCIÓN III Y SUS INCISOS A, B Y C; Y SE RECORREN LAS SUBSECUENTES FRACCIONES.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 85.
 
-La conclusión del servicio de un integrante es la terminación de su nombramiento o la cesación de sus efectos legales, por las siguientes causas:
+La conclusión del Servicio Profesional de Carrera de un integrante es la terminación de su nombramiento o la cesación de sus efectos legales, por las siguientes causas:
 
-I. Separación, por incumplimiento a cualquiera de los requisitos de permanencia previstos en la Ley General, o cuando en los procesos de promoción concurran las siguientes circunstancias:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-a) Si hubiere sido convocado a tres procesos consecutivos de promoción sin que haya participado en los mismos, o que, habiendo participado en dichos procesos, no hubiese obtenido el grado inmediato superior que le correspondería por causas imputables a él;
+I. Ordinaria, que comprende:
 
-b) Que haya alcanzado la edad máxima correspondiente a su jerarquía, de acuerdo con lo establecido en las disposiciones aplicables, y
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-c) Que del expediente del integrante no se desprendan méritos suficientes para conservar su permanencia;
+a) Baja por renuncia;
 
-II. Destitución, por incurrir en responsabilidad en el desempeño de sus funciones o incumplimiento de sus obligaciones, de conformidad con las disposiciones relativas al régimen disciplinario, o
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-III. Baja por:
+b) Baja por muerte;
 
-a) Renuncia;
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-b) Muerte o incapacidad permanente, o
+c) Baja por incapacidad permanente para el desempeño de las funciones, o
 
-c) Jubilación o Retiro.
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+d) Baja por Jubilación o retiro.
 
-Los casos a que se refiere la fracción I y II del presente artículo serán del conocimiento y resolución de la Comisión de Honor y Justicia de las Instituciones de Seguridad Ciudadana o área administrativa equivalente u homóloga; en tanto que los relativos a la fracción III será competencia la Oficialía Mayor de la Institución de Seguridad, según corresponda.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+II. Extraordinaria, que comprende:
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+a) Separación, por incumplimiento a cualquiera de los requisitos de permanencia previstos en la Ley General, en la presente Ley o en la normatividad aplicable; o
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+b) Remoción, por incurrir en responsabilidad en el desempeño de sus funciones o incumplimiento de sus obligaciones, de conformidad con las disposiciones relativas al régimen disciplinario.
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+En los procedimientos previstos en la fracción I del presente artículo, será competencia de la Oficialía Mayor en la Secretaría o área administrativa equivalente u homóloga en la Fiscalía; respecto a la fracción II, inciso a, será competente para resolver la Comisión del Servicio Profesional de Carrera Policial de la Secretaría u Órgano Colegiado equivalente u homólogo en la Fiscalía; en tanto a lo relativo a la fracción II, inciso b, la competencia para resolver estará a cargo de la Comisión de Honor y Justicia de la Secretaría u Órgano Colegiado equivalente u homólogo en la Fiscalía.
 
 ###### Artículo 86.
 
@@ -1526,47 +1888,7 @@ Los integrantes de los cuerpos Policiales podrán ser separados de su cargo si n
 
 ###### Artículo 90.
 
-Los cuerpos policiales en el ámbito de sus respectivas competencias tendrán la responsabilidad de atender a lo dispuesto en el Código Nacional de Procedimientos Penales y demás disposiciones aplicables relativo al desempeño de sus atribuciones.
-
-La policía, en términos de lo dispuesto en el Código Nacional de Procedimientos Penales, en sus respectivos ámbitos de competencia, tendrá las siguientes funciones:
-
-I. Recibir las denuncias sobre hechos que puedan ser constitutivos de delito e informar al Ministerio Público por cualquier medio y de forma inmediata de las diligencias practicadas;
-
-II. Recibir denuncias anónimas e inmediatamente hacerlo del conocimiento del Ministerio Público a efecto de que éste coordine la investigación;
-
-III. Realizar detenciones en los casos que autoriza la normatividad aplicable, haciendo saber a la persona detenida los derechos que ésta le otorga;
-
-IV. Impedir que se consumen los delitos o que los hechos produzcan consecuencias ulteriores. Estará obligada a realizar todos los actos necesarios para evitar una agresión real, actual o inminente y sin derecho en protección de bienes jurídicos de las personas a quienes tiene la obligación de proteger;
-
-V. Actuar bajo el mando del Ministerio Público en el aseguramiento de bienes relacionados con la investigación de los delitos;
-
-VI. Informar sin dilación por cualquier medio al Ministerio Público sobre la detención de cualquier persona, e inscribir inmediatamente las detenciones en el registro que al efecto establezcan las disposiciones aplicables;
-
-VII. Practicar las inspecciones y otros actos de investigación, así como reportar sus resultados al Ministerio Público. En aquellos que se requiera autorización judicial, deberá solicitarla a través del Ministerio Público;
-
-VIII. Preservar el lugar de los hechos o del hallazgo y en general, realizar todos los actos necesarios para garantizar la integridad de los indicios. En su caso deberá dar aviso a la Policía con capacidades para procesar la escena del hecho y al Ministerio Público conforme a las disposiciones previstas en esta Ley y en la legislación aplicable;
-
-IX. Recolectar y resguardar objetos relacionados con la investigación de los delitos, en los términos de la fracción anterior;
-
-X. Entrevistar a las personas que pudieran aportar algún dato o elemento para la investigación;
-
-XI. Requerir a las autoridades competentes y solicitar a las personas físicas o morales, informes y documentos para fines de la investigación. En caso de negativa, informará al Ministerio Público para que determine lo conducente;
-
-XII. Proporcionar atención a víctimas u ofendidos o testigos del delito. Para tal efecto, deberá:
-
-a) Prestar protección y auxilio inmediato, de conformidad con las disposiciones aplicables;
-
-b) Informar a la víctima u ofendido sobre los derechos que en su favor se establecen;
-
-c) Procurar que reciban atención médica y psicológica cuando sea necesaria, y
-
-d) Adoptar las medidas que se consideren necesarias, en el ámbito de su competencia, tendientes a evitar que se ponga en peligro su integridad física y psicológica;
-
-XIII. Dar cumplimiento a los mandamientos ministeriales y jurisdiccionales que les sean instruidos;
-
-XIV. Emitir el informe policial y demás documentos, de conformidad con las disposiciones aplicables. Para tal efecto se podrá apoyar en los conocimientos que resulten necesarios, sin que ello tenga el carácter de informes periciales, y
-
-XV. Las demás que le confieran esta Ley (sic) otras disposiciones aplicables.
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2025)
 
 ###### Artículo 91.
 
@@ -1624,55 +1946,341 @@ X. El cambio de un integrante de un área operativa a otra de distinta especiali
 
 XI. Las instancias establecerán los procedimientos relativos a cada una de las etapas de la Carrera Policial.
 
-El servicio de carrera Policial es independiente de los nombramientos para desempeñar cargos administrativos o de dirección que el integrante llegue a ejercer en las Instituciones de Seguridad Ciudadana. En ningún caso habrá inamovilidad en los cargos administrativos y de dirección.
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-### Capítulo V. Del Programa de Profesionalización y Certificación
+El Servicio Profesional de Carrera de las Instituciones de Seguridad Ciudadana es independiente de los nombramientos para desempeñar cargos administrativos o de dirección que la persona servidora pública llegue a desempeñar en dichas instituciones. En ningún caso habrá inamovilidad en los cargos administrativos y de dirección.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+La antigüedad de las personas servidoras públicas de las Instituciones Policiales comprenderá todos sus años de servicio, incluidos aquellos en que haya ocupado un cargo de confianza.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+En términos de las disposiciones aplicables, las personas Titulares de las Instituciones Policiales podrán habilitar temporalmente a personas servidoras públicas adscritas a Unidades Administrativas que pertenezcan o no al Servicio Profesional de Carrera Policial, desarrollar funciones policiales y que cuenten con personal policial a su mando.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+La habilitación es una asignación temporal de cargo de estructura y/o grado jerárquico que se realiza en favor de las personas servidoras públicas y será durante el plazo que permanezcan en dicho cargo, limitado al desempeño del nombramiento que tengan asignada (sic), por lo que pueden ser relevadas libremente.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+Una vez concluida la habilitación y en caso de ser procedente, se incorporará a la persona servidora pública al grado jerárquico y derechos inherentes al Servicio Profesional de Carrera Policial que ostentaba antes de dicha habilitación.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 95 Bis.
+
+El reclutamiento es la primera etapa del proceso institucional de ingreso a cargo del Instituto o la Universidad, que inicia con la publicación de la Convocatoria y el registro de inscripción para ocupar las plazas vacantes dentro de las Instituciones de Seguridad Ciudadana.
+
+Esta etapa concluye con la recepción de los documentos de las personas aspirantes interesadas en la citada Convocatoria y la verificación del cumplimiento de los requisitos señalados en la Ley General, en la presente Ley, en las demás disposiciones legales y en la propia Convocatoria, así como con la emisión de un registro de inscripción para aquellas personas aspirantes que cumplan en tiempo y forma.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 95 Ter.
+
+La selección es la segunda etapa del proceso institucional de ingreso, que consiste en la aplicación de los criterios y las evaluaciones que prevé la Convocatoria de acuerdo con los perfiles de puesto de las Instituciones de Seguridad Ciudadana, cuyo objetivo es seleccionar a las personas aspirantes que cumplan los requisitos señalados en la Convocatoria y obtengan resultados aprobatorios en las evaluaciones aplicadas, lo que permita identificar a aquellas personas aspirantes susceptibles de desempeñarse como personal ministerial, pericial y policial, mostrando una vocación de servicio que las califique como idóneas de ingresar al Servicio Profesional de Carrera.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 95 Quater.
+
+La formación inicial es la etapa del proceso institucional de ingreso, que también forma parte del proceso institucional de profesionalización, mediante la cual, el Instituto y la Universidad imparten los programas de Formación Inicial a los aspirantes seleccionados, según el perfil, y puedan realizar sus actividades de manera profesional, eficaz y responsable, con sustentos éticos, cívicos, técnicos y tácticos apegados al respeto a los derechos humanos y los principios de actuación señalados en el artículo 21 de la Constitución Federal.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 95 Quinquies.
+
+El ingreso es el proceso institucional que consiste en la incorporación a las Instituciones de Seguridad Ciudadana, de las y los cadetes que concluyeron satisfactoriamente las etapas de reclutamiento, selección y formación inicial. La conclusión satisfactoria de estas etapas precisa el cumplimiento y la aprobación de los requisitos y las actividades previstas en la presente Ley y demás normatividad aplicable.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 95 Sexies.
+
+La permanencia es el proceso institucional mediante el cual se verifica el cumplimiento constante de los requisitos establecidos en la Ley General, la presente Ley y demás normatividad aplicable, para que las personas servidoras públicas de las Instituciones de Seguridad Ciudadana puedan continuar activas en el Servicio Profesional de Carrera.
+
+Son requisitos de ingreso y permanencia en las Instituciones de Seguridad Ciudadana, los siguientes:
+
+A. De Ingreso:
+
+I. Ser de ciudadanía mexicana en pleno ejercicio de sus derechos políticos y civiles;
+
+II. Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal;
+
+III. En su caso, tener acreditado el Servicio Militar Nacional;
+
+IV. Acreditar que ha concluido, al menos, los estudios siguientes:
+
+a) En el caso de personas aspirantes a las áreas de investigación, estudios concluidos de nivel superior;
+
+b) Tratándose de personas aspirantes a las áreas de proximidad o prevención, estudios de nivel medio superior;
+
+V. Concluir y aprobar el proceso institucional de ingreso;
+
+VI. Contar con los requisitos de edad y los perfiles de personalidad, ético, socioeconómico, médico y físico que exijan las disposiciones aplicables;
+
+VII. Aprobar el proceso de evaluación de control de confianza;
+
+VIII. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+
+IX. No padecer alcoholismo;
+
+X. Someterse a exámenes para comprobar la ausencia de alcoholismo, uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+
+XI. No haber participado, favorecido o encubierto, de ninguna forma, la comisión de violaciones graves a los derechos humanos; no contar con resolución judicial ejecutoriada en la que se haya acreditado como victimario de violencia contra las mujeres, niñas, niños, adolescentes o personas adultas mayores, ni haber cometido abuso o maltrato animal;
+
+XII. No estar suspendida o inhabilitada, ni haber sido destituida por resolución firme como persona servidora pública;
+
+XIII. No tener en su contra sentencia ejecutoria que imponga la suspensión de los derechos o prerrogativas de la ciudadanía;
+
+XIV. No encontrarse como persona inscrita en el Registro de Deudores Alimentarios Morosos de la Ciudad de México o su equivalente en otras entidades federativas, y
+
+XV. Los demás que establezcan otras disposiciones legales aplicables.
+
+B. De Permanencia:
+
+I. Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso;
+
+II. Mantener actualizado su Certificado Único Policial;
+
+III. No superar la edad máxima de servicio que establezcan las disposiciones aplicables;
+
+IV. Acreditar que ha concluido, al menos, los estudios siguientes:
+
+a) En el caso de integrantes de las áreas de investigación, estudios concluidos de nivel superior, y
+
+b) Tratándose de integrantes de las áreas de proximidad o prevención, estudios de nivel medio superior;
+
+V. Aprobar los cursos de formación, capacitación y profesionalización;
+
+VI. Aprobar el proceso de evaluación de control de confianza;
+
+VII. Aprobar las evaluaciones del desempeño y la certificación de competencias básicas;
+
+VIII. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+
+IX. No padecer alcoholismo;
+
+X. Someterse a exámenes para comprobar la ausencia de alcoholismo, uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+
+XI. No haber participado, favorecido o encubierto, de ninguna forma, la comisión de violaciones graves a los derechos humanos; no contar con resolución judicial ejecutoriada en la que se haya acreditado como victimario de violencia contra las mujeres, niñas, niños, adolescentes o personas adultas mayores, ni haber cometido abuso o maltrato animal;
+
+XII. No estar suspendida o inhabilitada, ni haber sido destituida por resolución firme como persona servidora pública;
+
+XIII. No ausentarse del servicio sin causa justificada, por un periodo de tres días consecutivos o de cinco días discontinuos dentro de un término de treinta días, contados a partir de la primera inasistencia.
+
+En el caso de que la persona servidora pública realice turno o actividad equivalente conforme a las necesidades del servicio y que éste le sea debidamente notificado por escrito, a partir de la primera inasistencia se tomarán los días siguientes como inasistencias de manera consecutiva y no podrán justificarse como los días discontinuos referidos en el párrafo anterior;
+
+XIV. No tener en su contra sentencia ejecutoria que imponga la suspensión de los derechos o prerrogativas de la ciudadanía;
+
+XV. No tener sentencia firme por la comisión de delitos dolosos;
+
+XVI. No encontrarse como persona inscrita en el Registro de Deudores Alimentarios Morosos de la Ciudad de México o su equivalente en otras entidades federativas, y
+
+XVII. Los demás que establezcan otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 95 Septies.
+
+Las instancias responsables del Servicio Profesional de Carrera en las Instituciones de Seguridad Ciudadana fomentarán la vocación de servicio mediante la promoción y reconocimiento en las mismas para satisfacer las expectativas de desarrollo profesional de las personas servidoras públicas.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 95 Octies.
+
+El régimen de estímulos es el proceso institucional, mediante el cual se otorgan incentivos económicos a las personas servidoras públicas de las Instituciones de Seguridad Ciudadana, con la finalidad de elevar la calidad y efectividad en el desempeño de sus funciones, incrementar las posibilidades de promoción y desarrollo, así como fortalecer su identidad institucional de alentar su actuación cuando ésta cumpla con los principios de legalidad, objetividad, eficiencia, profesionalismo y honradez, así como por la perspectiva de género, el federalismo cooperativo, la protección de la persona, su dignidad y el respeto a los derechos humanos, con enfoque diferenciado e incluyente, reconocidos en la Constitución Federal.
+
+Todo estímulo otorgado por las Instituciones de Seguridad Ciudadana será acompañado de una constancia que acredite su otorgamiento, la que deberá ser integrada al expediente de la persona servidora pública y en su caso, con la autorización de portación de la condecoración o distintivo correspondiente.
+
+Lo anterior, deberá sujetarse a la suficiencia presupuestaria con la que cuenten para crear nuevas vacantes, permanentes o eventuales, el pago de estimulos y demás prestaciones.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 95 Nonies.
+
+La promoción es el proceso institucional mediante el cual se otorga a las personas servidoras públicas de las Instituciones de Seguridad Ciudadana, un ascenso al grado o nivel inmediato superior al que ostenten, dentro de la jerarquía o categoría prevista en las disposiciones legales aplicables.
+
+Las promociones sólo podrán conferirse atendiendo a la normatividad aplicable y cuando exista una vacante para la jerarquía o categoría superior inmediata correspondiente a su grado o nivel.
+
+Las Instituciones de Seguridad Ciudadana establecerán las modalidades y reglas específicas para la promoción de grado o nivel de las personas servidoras públicas. Entre estas modalidades se deberá establecer, al menos, la de concurso por convocatoria abierta. Para el establecimiento de las reglas específicas deberán considerarse, al menos: el cumplimiento de los requisitos de permanencia, el nivel de estudios, la profesionalización continua, el tiempo cumplido en el grado o nivel actual, la antigüedad en la Institución, los reconocimientos y condecoraciones obtenidas, así como el resultado de la evaluación del desempeño.
+
+De manera enunciativa más no limitativa, los procesos de promoción deberán regirse por los principios de legalidad, transparencia e igualdad sustantiva entre hombres y mujeres, privilegiando que, del total de lugares ofertados en dichos procesos, se destine para mujeres, al menos, el porcentaje que estas representen en el estado de fuerza o la plantilla de personas servidoras públicas que integran la Institución de Seguridad Ciudadana.
+
+Al personal que sea promovido, le será ratificada su nueva jerarquía o categoría mediante la expedición de la constancia de grado o nivel correspondiente.
+
+Para ocupar un grado o nivel dentro de las Instituciones de Seguridad Ciudadana, se deberán reunir los requisitos establecidos por esta Ley y las disposiciones normativas aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+### Capítulo V. De la Profesionalización, Evaluación y Certificación Individual
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 96.
 
-El Programa de Profesionalización es el instrumento en el que se establecen los lineamientos, programas, actividades y contenidos mínimos para la profesionalización del personal de las Instituciones de Seguridad Ciudadana. Dicho Programa será aprobado por el o la Secretaria y será revisado anualmente para su mejora continua y deberá apegarse al Programa Rector de Profesionalización aprobado por el Consejo Nacional de Seguridad Pública;
+La profesionalización es el proceso institucional permanente y progresivo que se integra por las etapas de formación inicial, actualización, especialización y alta dirección, para desarrollar al máximo las competencias, capacidades, habilidades actitudes y valores de las personas servidoras públicas de las Instituciones de Seguridad Ciudadana.
 
-Las Instituciones de Seguridad Ciudadana serán responsables de la formación, capacitación y actualización de sus integrantes. Estas actividades se realizarán conforme al Programa de Profesionalización.
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADO, G.O. 15 DE JUNIO DE 2023)</small>
+El Programa de Profesionalización deberá contemplar la planeación anual de los programas específicos y planes de estudio de profesionalización relativos a la formación inicial y continua, de acuerdo con los requisitos mínimos establecidos en el Programa Rector de Profesionalización, conforme a la siguiente clasificación:
 
-El programa de Profesionalización podrá contener actividades y contenidos para la capacitación, adiestramiento y actualización en materia de primeros auxilios.
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+I. Formación inicial: Es el programa mediante el cual se forma a quienes habrán de incorporarse al Servicio Profesional de Carrera, con el objeto de que realicen las actividades propias de las funciones ministerial, pericial o policial, y
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+II. Formación continua: Tiene como finalidad el desarrollo de herramientas teóricas, metodológicas y prácticas que fortalezcan e incrementen las competencias logradas en la formación inicial para el desempeño de las funciones ministerial, pericial o policial. A su vez estos programas se clasifican en Actualización, Especialización y Altos Mandos:
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+a) Actualización: Programa mediante el cual se capacita al personal ministerial, pericial o policial, para actualizar en forma permanente y continua, los conocimientos y habilidades que se requieren para el ejercicio de la función ministerial, pericial o policial;
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+b) Especialización: Programa diseñado para que el personal ministerial, pericial o policial en funciones desarrolle las competencias profesionales para brindar atención específica orientada a una determinada área del trabajo ministerial, pericial o policial, acorde a las necesidades del servicio y su contexto; o bien mediante programas educativos que permitan profesionalizar al personal ministerial, pericial o policial para obtener un grado académico de licenciatura, especialidad, maestría o doctorado que coadyuve a fortalecer su perfil ministerial, pericial o policial y competencias en materia de seguridad ciudadana, y
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+c) Altos mandos: Programas diseñados para el desarrollo de competencias y habilidades, del personal que ocupa, o que es susceptible de ocupar, cargos de liderazgo y alto mando.
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+Para su validez, los programas propuestos por el Instituto y/o la Universidad deberán obtener previamente el registro y autorización del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, para su posterior impartición.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+Los Programas de Profesionalización deberán mantenerse actualizados de conformidad con la normatividad que emita el Sistema Nacional y demás disposiciones aplicables en la Ciudad de México, así como en las áreas científicas afines a su labor, con el fin de procurar que el personal ministerial, pericial o policial cuente con un antecedente teórico conceptual que les permita realizar sus labores con eficacia y excelencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 97.
 
-Los Integrantes de las Instituciones de Seguridad Ciudadana deberán someterse y aprobar los procesos de evaluación de control de confianza, del desempeño y de competencias, de conformidad con lo dispuesto en esta Ley, la Ley General y demás normas aplicables.
+La evaluación es el proceso institucional del Servicio Profesional de Carrera Policial que permite valorar los conocimientos, habilidades, competencias y aquellos aspectos necesarios para ejercer la función policial, y que comprende entre otras, las siguientes evaluaciones: de control de confianza, del desempeño, de competencias básicas, de competencias profesionales, de conocimientos, así como las demás que establezca la normatividad aplicable.
 
-El proceso de evaluación de control de confianza tendrá por objeto verificar que los servidores públicos de las Instituciones de Seguridad Ciudadana cumplen con los requisitos de ingreso y permanencia en la Institución, así como el apego a los principios previstos en el artículo cuarto de la presente Ley.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-El proceso de evaluación del desempeño comprenderá el comportamiento, el cumplimiento en el ejercicio de las funciones y los demás aspectos que establezcan las normas aplicables.
+> <small>(DEROGADO TERCERO PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-El proceso de evaluación de competencias tendrá por objeto determinar que los servidores públicos cuentan con los conocimientos, las habilidades, destrezas y aptitudes necesarios para desempeñar su función de forma eficiente, de conformidad con los estándares establecidos para ello.
+> <small>(DEROGADO CUARTO PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-La vigencia de las evaluaciones de control de confianza, de competencias básicas o profesionales y del desempeño será de tres años.
+> <small>(DEROGADO QUINTO PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+> <small>[N. DE E. MEDIANTE REFORMA PUBLICADA EN LA G.O. DE 19 DE DICIEMBRE DE 2025, SE ELIMINÓ EL PRIMER PÁRRAFO Y SE RECORREN LOS SUBSECUENTES PÁRRAFOS.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 98.
 
-La certificación es el proceso mediante el cual los Integrantes de las Instituciones de Seguridad Ciudadana se someten a las evaluaciones de control de confianza, del desempeño y de competencias, en los procedimientos de ingreso, promoción y permanencia, para comprobar el cumplimiento de las obligaciones establecidas en esta Ley.
+El proceso de evaluación de control de confianza tiene por objeto verificar que la persona evaluada cumple con el objeto de la certificación individual como un requisito de ingreso, promoción y permanencia, y, con el perfil requerido, así como, descartar factores de riesgo que incidan en el desempeño de las funciones y actividades encomendadas, a través de las siguientes evaluaciones:
 
-El proceso de evaluación de control de confianza también deberá identificar los factores de riesgo que interfieran, repercutan o pongan en peligro el desempeño de las funciones policiales con el fin de garantizar la calidad de los servicios, enfocándose a los siguientes aspectos:
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-I. Cumplimiento de los requisitos de edad y el perfil físico, médico y de personalidad que exijan las convocatorias de ingreso y las disposiciones normativas aplicables;
+I. Médica: Para obtener información relativa a la historia clínica, exploración física, y un análisis de los estudios de laboratorio de acuerdo con la naturaleza de la función que la persona evaluada desarrolla o desarrollará. Se centra en la detección de padecimientos que se vinculan directamente con las actividades que desempeña la persona evaluada. Este procedimiento, también tiene por objeto identificar factores de riesgo en la salud de las personas evaluadas, para lo cual, de ser el caso, se le informa a la persona evaluada su estado de salud actual mencionándole las recomendaciones médicas que se encuentren encauzadas a preservar su salud e indicándole que deberá acudir a la institución médica a la que se encuentre afiliada, con la intención de someterse a un seguimiento y tratamiento médico adecuado. La negligencia y omisión de la persona evaluada respecto de ello será considerado un factor de riesgo;
 
-II. Observancia de un desarrollo patrimonial justificado, en el que sus egresos guarden adecuada proporción con sus ingresos;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-III. Ausencia de alcoholismo o el no uso de sustancias psicoactivas que produzcan efectos similares, y
+II. Toxicológica: Para identificar drogas de abuso en el organismo, misma que se realiza a través de un análisis semicuantitativo/cualitativo (presuntivo), que permite indagar sobre el consumo de drogas de carácter legal o ilegal y que generan adicción o alteración en el sistema nervioso o en la salud, cuyo consumo afecta y vulnera el desempeño de sus funciones;
 
-IV. Ausencia de vínculos con organizaciones delictivas.
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-Las Instituciones de Seguridad Ciudadana serán responsables de que sus integrantes obtengan y actualicen el CUP respectivo y contratarán únicamente al personal que cuente con el requisito de certificación expedido por el Centro.
+III. Patrimonial y del entorno social: Para identificar riesgos en el entorno de la persona evaluada, mediante la investigación en distintas fuentes de los ámbitos familiar, escolar, laboral, social, económico, financiero, de vivienda, patrimonial, así como jurídico y administrativo, investigación que se fortalece mediante la verificación del entorno en sitio y la consulta de referencias en cualquier ámbito. Para la consecución de esta evaluación, será necesaria la recopilación de información, documentos y datos a través de la Plataforma “Hoja de Vida V-Life”;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+IV. Psicológica: Para profundizar en el estudio de las características de personalidad, capacidades y competencias requeridas para el cumplimiento de las funciones del puesto, según el cargo que ostenta o que desempeñará la persona evaluada, así como detectar áreas de riesgo conductuales derivadas de la naturaleza de la función, y
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+V. Poligráfica: Para identificar, confirmar o descartar conductas de riesgo que impacten los objetivos institucionales, a través de la obtención y verificación de información que incluye una entrevista profunda sobre temas de interés institucional, de acuerdo a la función, cargo y el contexto de la persona evaluada, así como la aplicación técnica, sistemática, estandarizada y validada internacionalmente, que monitorea y registra simultáneamente, cambios fisiológicos que se presentan en el organismo ante un estímulo psicológico.
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+Derivado del proceso de evaluación de control de confianza, se emitirá un solo resultado integral, único y definitivo.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+El proceso de evaluación de control de confianza será aplicado por el Centro de Evaluación y Control de Confianza, con la periodicidad que establezca la normatividad en la materia atendiendo las disposiciones normativas que rigen su actuación y establecerá los mecanismos y lineamientos para emitir los resultados de dicho proceso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 99.
 
-El Centro será el responsable de efectuar el proceso de evaluación de control de confianza para el ingreso, permanencia y promoción de los Integrantes de las Instituciones de Seguridad Ciudadana, así como de la acreditación de las instituciones y empresas de seguridad privada que presten sus servicios dentro de la Ciudad, de conformidad con las disposiciones aplicables.
+La evaluación del desempeño es el mecanismo de verificación periódica, que tiene por objeto valorar el ejercicio y cumplimiento de las funciones del puesto del personal ministerial, pericial o policial, misma que permitirá medir el apego cualitativo y cuantitativo a los principios de legalidad, objetividad, eficiencia, profesionalismo y honradez, así como por la perspectiva de género, la protección de la persona, su dignidad y el respeto a los derechos humanos, con enfoque diferenciado e incluyente, reconocidos en la Constitución Federal y en los tratados internacionales de los que el Estado Mexicano sea parte, así como a la disciplina que rige la actuación y su contribución al logro de los objetivos institucionales, a fin de:
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+I. Valorar la productividad, resultados, eficacia, eficiencia y transparencia en la prestación del servicio del personal ministerial, pericial o policial;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+II. Identificar áreas de oportunidad para fortalecer su profesionalización y desarrollo ministerial, pericial o policial;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+III. Aplicar acciones correctivas y preventivas para alcanzar el cumplimiento de los objetivos del desempeño individual e institucional, respetando los principios constitucionales y legales señalados en la presente Ley, e
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+IV. Implementar los mecanismos de control pertinentes para seguimiento y mejora del desempeño.
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 100.
 
-La certificación de todos los integrantes de las Instituciones de Seguridad Ciudadana y la acreditación de las empresas de seguridad privada en la Ciudad estarán a cargo del Centro. Dichos integrantes deberán de ser evaluados de conformidad con los requisitos y procedimientos que para cada uno de ellos estén señalados en la presente Ley y demás disposiciones aplicables.
+La evaluación de competencias básicas consiste en la recolección, procesamiento y valoración del grado en que el personal ministerial, pericial o policial posee el conjunto de saberes conceptuales, procedimentales y actitudinales que lo habilitan para desempeñar de manera eficiente la función ministerial, pericial o policial, de acuerdo al perfil de puesto y a los criterios establecidos en el Programa Rector de Profesionalización. La capacitación y evaluación estará a cargo del Instituto o la Universidad, según corresponda.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 100 Bis.
+
+La evaluación de competencias profesionales consiste en la medición y valoración de conjuntos de conocimientos, habilidades, actitudes y valores con que cuenta el personal ministerial, pericial o policial para el desempeño eficiente de las actividades y funciones ministeriales, periciales o policiales, que se desarrollan mediante los programas de formación inicial y continua.
+
+La formación continua con fines de certificación de competencias profesionales podrá ser impartida por el Instituto, la Universidad, así como por instancias capacitadoras externas.
+
+La obtención de resultados aprobatorios de evaluaciones de competencias profesionales, derivarán en la certificación de la competencia, mediante certificados físicos o electrónicos que podrá emitir el Instituto, la Universidad, o bien, instancias certificadoras externas.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 100 Ter.
+
+Las personas servidoras públicas de las Instituciones de Seguridad Ciudadana deberán someterse y aprobar las evaluaciones de control de confianza, del desempeño y de competencias, de conformidad con lo dispuesto en la Ley General, esta Ley y demás normas aplicables.
+
+La aprobación de las evaluaciones de control de confianza, competencias básicas o profesionales, formación inicial y del desempeño, son requisitos para la obtención de la certificación correspondiente. Las Instituciones de Seguridad Ciudadana son responsables de llevar a cabo las acciones necesarias para la aplicación de dichas evaluaciones.
+
+El personal ministerial, pericial o policial que no acredite las evaluaciones de control de confianza o que no cumpla con los requisitos para obtener y mantener su certificación correspondiente, será sujeto del procedimiento administrativo de separación en términos de lo dispuesto en la Ley General, la presente Ley y demás normatividad aplicable.
+
+La vigencia de las evaluaciones de control de confianza, de competencias básicas o profesionales y del desempeño será de tres años.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 100 Quater.
+
+La certificación individual es el proceso institucional por el que las personas servidoras públicas de las Instituciones de Seguridad Ciudadana se someten a las evaluaciones para comprobar conocimientos, habilidades, aptitudes y competencias, para el correcto desempeño de sus labores conforme a los perfiles establecidos por el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 100 Quinquies.
+
+El Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública es el encargado de establecer la política nacional en materia de certificación individual de las personas servidoras públicas de las Instituciones de Seguridad Ciudadana.
+
+La citada política deberá incluir los tipos de acreditación y la clasificación de los grados de certificación institucional que podrán obtener las Instituciones de Seguridad Ciudadana, así como los estándares y las evaluaciones necesarias para su otorgamiento.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 100 Sexies.
+
+El certificado individual de las personas servidoras públicas de las Instituciones de Seguridad Ciudadana será indispensable para los procesos institucionales de profesionalización, promoción y permanencia.
+
+El Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública será responsable de emitir y publicar, tanto los perfiles requeridos, como el proceso de certificación individual, el que deberá basarse en instrumentos de medición cuantitativos y cualitativos, sustentados en metodologías razonables y actualizadas.
+
+Las Instituciones de Seguridad Ciudadana reconocerán la vigencia y validez de los certificados individuales debidamente expedidos y registrados, conforme a las disposiciones de la Ley General y demás aplicables.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 100 Septies.
+
+La certificación de las personas servidoras públicas de las Instituciones de Seguridad Ciudadana, así como de las personas capacitadoras y evaluadoras de las empresas que pretendan obtener el registro ante la Secretaría para proporcionar servicios de capacitación al personal operativo que preste servicios o realice actividades de seguridad privada en la Ciudad de México, estarán a cargo del Centro de Evaluación y Control de Confianza. Dichas personas deberán de ser evaluadas de conformidad con los requisitos y procedimientos que para cada uno de ellos estén señalados en la presente Ley y demás disposiciones aplicables.
 
 ### Capítulo VI. Del Régimen Disciplinario
 
@@ -1684,145 +2292,337 @@ La actuación de los integrantes de las Instituciones de Seguridad Ciudadana se 
 
 Los integrantes de las Instituciones de Seguridad Ciudadana en todos sus niveles jerárquicos observarán la disciplina como la base de su funcionamiento y organización, por lo que sus integrantes deberán sujetar su conducta a la observancia de las leyes, órdenes y jerarquías, así como a la obediencia y al alto concepto del honor, de la justicia y de la ética.
 
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+La disciplina comprende el aprecio de sí mismo, la pulcritud, la cultura cívica, el rechazo a los vicios, la puntualidad en el servicio, la exactitud en la obediencia, el pleno respeto a las leyes y reglamentos, así como a la perspectiva de género y a los derechos humanos, por lo que las personas integrantes de las Instituciones de Seguridad Ciudadana deberán apegarse a su estricta observancia.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+La disciplina demanda respeto y consideración mutua entre quien ostente un mando y sus subalternos.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 102 Bis.
+
+El régimen disciplinario se ajustará a los principios establecidos en la Constitución Federal, la Constitución de la Ciudad, la Ley General, la presente Ley, así como los ordenamientos legales aplicables y comprenderá las obligaciones, las correcciones disciplinarias, las sanciones y los procedimientos para su aplicación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 103.
 
-Para los efectos del artículo anterior y sin perjuicio de lo que se prevea en otras disposiciones legales y reglamentarias, los correctivos disciplinarios y sanciones a que se harán acreedores los miembros de las Instituciones de Seguridad Ciudadana serán:
+Sin perjuicio de lo que se prevea en otras disposiciones legales y reglamentarias, los correctivos disciplinarios y las sanciones aplicables por incurrir en responsabilidad en el desempeño de sus funciones o incumplimiento de sus obligaciones previstas en esta Ley a que se harán acreedoras las personas servidoras públicas de las Instituciones de Seguridad Ciudadana serán:
 
 I. Correctivos disciplinarios:
 
-1. Amonestación.
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-2. Arresto hasta por treinta y seis horas
+1. Amonestación verbal;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+2. Trabajo en favor de la comunidad de seis a doce horas;
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+3. Trabajo en favor de la comunidad de doce a dieciocho horas;
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+4. Arresto de doce horas;
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+5. Arresto de veinticuatro horas, y
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+6. Arresto de treinta y seis horas.
 
 II. Sanciones:
 
-1. Suspensión, y
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-2. Destitución.
+1. Amonestación;
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+2. Suspensión sin goce de sueldo, y
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+3. Remoción.
 
 Las leyes orgánicas respectivas y los reglamentos interiores de las Instituciones de Seguridad Ciudadana establecerán las autoridades competentes y los procedimientos para su aplicación, en lo no previsto por esta Ley.
 
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+La aplicación de los correctivos disciplinarios y las sanciones deberá registrarse en el expediente personal de la persona servidora pública infractora.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+La imposición de los correctivos disciplinarios y las sanciones que determinen las autoridades competentes se hará con independencia de las que correspondan por responsabilidad civil, penal o administrativa, en que incurran las personas servidoras públicas de las Instituciones de Seguridad Ciudadana de conformidad con la legislación aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 104.
 
-Los correctivos disciplinarios serán aplicados de manera fundada y motivada por el superior inmediato en la línea o cadena de mando respectiva, mediante mecanismos ágiles y sencillos, sin que esto implique arbitrariedad en el ejercicio de esta facultad, por lo que su contravención podrá ser objeto de sanción en términos de esta Ley.
+Los correctivos disciplinarios son medidas impuestas de manera fundada y motivada por el superior jerárquico que ejerza el mando directo sobre la persona servidora pública de la Institución de Seguridad Ciudadana que cometa infracciones al régimen disciplinario que no ameriten una sanción. Su finalidad es preservar la disciplina, el respeto, el orden y la adecuada prestación del servicio, asegurando el cumplimiento de los deberes y obligaciones de las personas servidoras públicas de las Instituciones de Seguridad Ciudadana. Su aplicación debe observar los principios de legalidad, proporcionalidad, necesidad y debido proceso, garantizando el derecho de audiencia de la persona servidora pública ante la persona Titular de la Unidad Administrativa a la que se encuentre adscrita.
 
-Las unidades de asuntos internos aplicarán los correctivos disciplinarios en los asuntos de su conocimiento y en el caso de conductas que deban ser sancionadas con la suspensión o destitución deberán remitir el expediente correspondiente debidamente integrado al órgano colegiado competente para que resuelva lo que en derecho corresponda.
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 24 DE DICIEMBRE DE 2019)</small>
+Los correctivos disciplinarios se podrán imponer de manera verbal y deberán formalizarse por escrito de manera fundada y motivada, por el superior jerárquico por cargo, orden o comisión, o por el superior jerárquico en grado, nivel, rama o categoría cuando se encuentren en actos de servicio, respetando la línea de mando, mediante mecanismos ágiles y sencillos.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+El arresto que se haya impuesto de manera verbal al infractor durante su jornada de servicio deberá ser notificado por escrito una vez concluida ésta, por alguno de los servidores públicos señalados en el párrafo anterior. Una vez impuesto el arresto de manera verbal, el infractor no podrá retirarse de las instalaciones de la Unidad Administrativa de su adscripción, hasta en tanto le sea notificado por escrito el arresto, el cual comenzará a correr desde el momento de la notificación verbal, en caso de que el elemento sancionado no se encuentre en jornada de servicio y haya permanecido en las instalaciones de la Unidad Administrativa a la que esté adscrito.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 104 Bis.
+
+La amonestación verbal es el correctivo disciplinario que consiste en la llamada de atención que se hace a la persona servidora pública de las Instituciones de Seguridad Ciudadana por el superior jerárquico por cargo, orden o comisión, al que se encuentre subordinada, o por el superior jerárquico en grado, nivel, rama o categoría cuando se encuentre en actos de servicio; previo a la imposición de un trabajo en favor de la comunidad o de un arresto.
+
+El superior jerárquico por cargo, orden o comisión, al que se encuentre subordinada la persona servidora pública de las Instituciones de Seguridad Ciudadana, o el superior jerárquico en grado, nivel, rama o categoría cuando se encuentre en actos de servicio; podrá imponer la amonestación verbal, cuando la persona servidora pública de las Instituciones de Seguridad Ciudadana no cuente con antecedentes de la aplicación de un correctivo disciplinario relacionado con otras conductas similares que hayan ameritado su imposición.
+
+La amonestación verbal quedará registrada mediante una constancia, emitida por el superior jerárquico por cargo, orden o comisión, al que se encuentre subordinada la persona servidora pública de las Instituciones de Seguridad Ciudadana, o por el superior jerárquico en grado, nivel, rama o categoría cuando se encuentre en actos de servicio, en la cual se plasmarán entre otros datos: la fecha, la hora, el lugar, el fundamento y la causa de su imposición.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 104 Ter.
+
+El trabajo en favor de la comunidad es el correctivo disciplinario que consiste en la prestación de servicios honoríficos de orientación, limpieza, conservación, restauración u ornato, en lugares localizados dentro de las instalaciones de las Instituciones de Seguridad Ciudadana donde se hubiere cometido la infracción, considerando lo siguiente:
+
+I. Limpieza, pintura o restauración dentro de las Instituciones de Seguridad Ciudadana, en apoyo a la Unidad Administrativa encargada de los recursos materiales, abastecimiento y servicios o Unidad Administrativa homóloga;
+
+II. Limpieza, pintura o restauración de los bienes dañados por la persona servidora pública de las Instituciones de Seguridad Ciudadana o de la misma naturaleza, en apoyo a la Unidad Administrativa encargada de los recursos materiales, abastecimiento y servicios o Unidad Administrativa homóloga;
+
+III. Elaboración e instalación de obras de ornato en lugares de uso común dentro de las instalaciones de las Instituciones de Seguridad Ciudadana donde se hubiere cometido la infracción;
+
+IV. Elaboración e instalación de obras de balizamiento, limpia o reforestación en lugares de uso común dentro de las instalaciones de las Instituciones de Seguridad Ciudadana donde se hubiere cometido la infracción;
+
+V. Impartición de pláticas a vecinos o educandos, relacionadas con la convivencia ciudadana o realización de actividades relacionadas con la profesión, oficio u ocupación de la persona servidora pública infractora, y
+
+VI. Asistir a los cursos, terapias, talleres dirigidos a enmendar su comportamiento, en materias como autoestima, escuela para padres, relación de pareja, cultura de la paz, prevención de las adicciones, prevención de la violencia familiar, equidad de género y cultura vial, entre otros.
+
+El trabajo en favor de la comunidad se efectuará a través del número de horas que deberá cumplir la persona servidora pública infractora dentro de las instalaciones de las Instituciones de Seguridad Ciudadana y fuera de la jornada de servicio, a fin de enmendar su comportamiento.
+
+Las Unidades Administrativas y Estructura Orgánica de las Instituciones de Seguridad Ciudadana enviarán a la persona Titular de la Unidad Administrativa encargada de los recursos materiales, abastecimiento y servicios o Unidad Administrativa homóloga, propuestas de trabajo en favor de la comunidad para que sean cumplidas por las personas servidoras públicas infractoras.
+
+El trabajo en favor de la comunidad se llevará a cabo bajo la supervisión del superior jerárquico por cargo, orden o comisión, al que se encuentre subordinada la persona servidora pública de las Instituciones de Seguridad Ciudadana, o el superior jerárquico en grado, nivel, rama o categoría cuando se encuentre en actos de servicio.
+
+Las personas Titulares de las Unidades Administrativas y Estructura Orgánica de las Instituciones de Seguridad Ciudadana, proporcionarán los recursos materiales y financieros necesarios para la ejecución del trabajo en favor de la comunidad, por lo que deberán verificar la disposición de los mismos con la persona Titular de la Unidad Administrativa encargada de los recursos materiales, abastecimiento y servicios o Unidad Administrativa homóloga. Asimismo, mensualmente harán del conocimiento los lugares, horarios y actividades en donde podrá realizarse el trabajo en favor de la comunidad.
+
+El trabajo en favor de la comunidad quedará registrado mediante un boletín, en el cual se plasmarán entre otros datos: la fecha, hora de inicio, conclusión, lugar de cumplimiento del mismo, el fundamento y la causa de su imposición.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 105.
 
-Mediante la amonestación el superior jerárquico advierte al subordinado la omisión o falta en el cumplimiento de sus deberes, invitándolo a corregirse. Será de palabra y constará por escrito. Quien amoneste lo hará de tal manera que ninguna persona de menor jerarquía a la del amonestado conozca de la aplicación de la medida y observará la discreción que exige la disciplina.
+El arresto es el correctivo disciplinario que se impondrá a las personas servidoras públicas de las Instituciones de Seguridad Ciudadana, por incurrir en responsabilidad en el desempeño de sus funciones o incumplimiento de sus obligaciones y cuyos actos u omisiones constituyan infracciones a la disciplina, el orden, y la adecuada prestación del servicio, puede ser:
 
-El arresto consiste en el confinamiento del integrante sancionado en espacios especiales, deberá cumplirse fuera de los horarios de servicio y quedará un registro mediante una boleta de arresto en la cual se plasmará la fecha, hora de inicio, conclusión y lugar de cumplimiento del mismo, así como el fundamento y la causa de su imposición.
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+I. Sin perjuicio del servicio, que consiste en realizar de manera ordinaria su servicio dentro o fuera de las instalaciones de las Instituciones de Seguridad Ciudadana, tiempo que se computará como parte del correctivo, al término del cual, si no ha concluido con las horas totales de dicho correctivo disciplinario, se concentrará en su Unidad Administrativa de adscripción o comisión para concluirlo, y
 
-Previo a la imposición del arresto, y con el propósito de determinar si el subordinado es acreedor a éste, el superior jerárquico deberá otorgarle derecho de audiencia, a efecto de hacerle del conocimiento los hechos que se le atribuyen, para que éste exprese lo que a su derecho convenga.
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+II. Con perjuicio del servicio, en cuyo caso, la persona servidora pública infractora desempeñará sus actividades exclusivamente dentro de las instalaciones de las Instituciones de Seguridad Ciudadana y no se le asignará servicio alguno.
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+El arresto quedará registrado mediante una boleta, en la cual se plasmarán entre otros datos: la fecha, hora de inicio, conclusión, lugar de cumplimiento del mismo, el fundamento y la causa de su imposición.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 105 Bis.
+
+Las personas servidoras públicas de las Instituciones de Seguridad Ciudadana que se inconformen con el trabajo en favor de la comunidad o el arresto, una vez cumplidos, podrán interponer recurso de rectificación mediante escrito presentado ante la Unidad Administrativa de las Instituciones de Seguridad Ciudadana competente para sustanciar los procedimientos administrativos disciplinarios, dentro del término de cinco días hábiles contados a partir del cumplimiento del correctivo disciplinario de que se trate, acompañado de las pruebas que estime pertinentes.
+
+Posteriormente, la Unidad Administrativa a que se refiere el párrafo anterior, solicitará al superior jerárquico por cargo, orden o comisión, al que se encuentre subordinada la persona servidora pública infractora, o el superior jerárquico en grado, nivel, rama o categoría cuando se encuentre en actos de servicio, quien impuso el correctivo disciplinario, un informe pormenorizado, en donde deberá señalar la fundamentación y motivación que dio origen a la aplicación de dicho correctivo, remitiendo para tal efecto copia certificada de las constancias que acrediten su dicho. Asimismo, se expondrán las razones por las que se estime improcedente el recurso interpuesto por la persona servidora pública de que se trate. Dicho informe deberá ser rendido dentro de las cuarenta y ocho horas siguientes a su notificación.
+
+La falta o deficiencia del informe requerido dará lugar a que los hechos descritos por la persona servidora pública recurrente se presuman ciertos, salvo prueba en contrario.
+
+Una vez rendido el informe pormenorizado por parte del superior jerárquico por cargo, orden o comisión, o el superior jerárquico en grado, nivel, rama o categoría cuando se encuentre en actos de servicio, quien impuso el correctivo disciplinario, dentro del término de diez días hábiles, se desahogarán los medios de prueba ofrecidos por la persona servidora pública de que se trate y se turnará el expediente respectivo, en el caso de la Secretaría a la Comisión de Honor y Justicia y en el caso de la Fiscalía al Órgano Colegiado equivalente u homólogo, quien resolverá el recurso en un término de veinte días hábiles, señalando los motivos y fundamentos sobre la imposición del correctivo disciplinario. Contra dicha resolución no procederá recurso alguno en sede administrativa.
+
+Si la resolución es favorable, su efecto será que el antecedente del correctivo disciplinario, incluyendo su amonestación verbal, no se integre al expediente de la persona servidora pública recurrente, quedando obligado el superior jerárquico por cargo, orden o comisión, o el superior jerárquico en grado, nivel, rama o categoría cuando se encuentre en actos de servicio, quien impuso el correctivo disciplinario, a compensar las horas del trabajo en favor de la comunidad o del arresto cumplido con horas de descanso en igualdad de proporción.
+
+Cuando no se presente el recurso de rectificación en el término señalado o si la resolución confirma el correctivo disciplinario, será remitida copia certificada de la misma a la Oficialía Mayor de la Secretaría o Unidad Administrativa equivalente u homóloga en la Fiscalía para su registro.
+
+En todos los casos se tomarán (sic) en cuenta la interposición de medios de impugnación ante las autoridades jurisdiccionales de conformidad con los plazos establecidos en sus respectivas leyes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 106.
 
-Contra el arresto que apliquen los superiores jerárquicos procederá el recurso de rectificación ante la Comisión de Honor y Justicia respectivo, la cual deberá presentarse dentro de los cinco días hábiles siguientes a su aplicación.
+La amonestación es el acto por el cual se advierte a la persona servidora pública de las Instituciones de Seguridad Ciudadana sobre la acción u omisión indebida que cometió en el desempeño de sus funciones, de conformidad con las disposiciones relativas al régimen disciplinario al incurrir en alguna de las infracciones consideradas como no graves conforme al artículo 108 Ter de esta Ley.
 
-El recurso de rectificación no suspenderá los efectos del arresto, pero tendrá por objeto que dicho correctivo no aparezca en el expediente u hoja de servicio del integrante, sin perjuicio de las sanciones a las que se haga acreedor el superior jerárquico que lo impuso injustificadamente. La resolución del recurso de rectificación es definitiva en sede administrativa.
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+Mediante ella se informan las consecuencias de sus actos y se le exhorta a que enmiende su conducta para no incurrir en una nueva infracción, apercibida de que, en caso contrario, se hará acreedora a una sanción mayor. La aplicación de esta sanción se hará, en público o en privado.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+Dependerá de la naturaleza de la infracción aplicar la forma de amonestación, pero, en todo caso, procederá la amonestación pública cuando la persona servidora pública infractora se niegue a recibir la notificación de la resolución.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+La amonestación pública se hará frente a dos personas servidoras públicas de la Unidad Administrativa de adscripción de la persona servidora pública infractora, quienes deberán ostentar el mismo o mayor grado, nivel, rama, categoría, cargo o comisión que la persona servidora pública sancionada. Nunca se amonestará a una persona servidora pública en presencia de subalternos en grado, nivel, rama, categoría, cargo o comisión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 107.
 
-La suspensión temporal de funciones se determinará por la Comisión de Honor y Justicia y podrá ser de carácter preventivo o correctivo atendiendo a las causas que la motiven.
+La suspensión sin goce de sueldo es la interrupción temporal de la relación administrativa existente entre la persona servidora pública infractora y la Institución de Seguridad Ciudadana, la cual podrá ser de quince o treinta días naturales, de conformidad con las disposiciones relativas al régimen disciplinario, al incurrir en alguna de las infracciones consideradas como no graves conforme al artículo 108 Ter de esta Ley.
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-La suspensión temporal de carácter preventivo procederá contra el integrante que se encuentre sujeto a investigación administrativa o penal, por actos u omisiones de los que puedan derivarse presuntas responsabilidades o imputaciones y cuya permanencia en el servicio, a juicio de la Comisión de Honor y Justicia, pudiera afectar a las Instituciones de Seguridad Ciudadana o a la comunidad en general. Dicha suspensión subsistirá hasta que el asunto de que se trate quede total y definitivamente resuelto en la instancia final del procedimiento correspondiente.
+En caso de ser suspendida bajo esta modalidad, la persona servidora pública infractora no deberá prestar sus servicios y, en consecuencia, la Institución de Seguridad Ciudadana no le cubrirá sus percepciones, en virtud de lo cual la persona servidora pública infractora deberá entregar su identificación, municiones, armamento, equipo, documentación y demás bienes de la Institución de Seguridad Ciudadana que se le hubieren ministrado bajo su resguardo para el cumplimiento de sus obligaciones.
 
-En caso de que el integrante resulte sin responsabilidad, se le reintegrarán los salarios y prestaciones que hubiese dejado de percibir hasta ese momento, con motivo de la suspensión preventiva y en caso contrario se declarará la sanción que conforme a las constancias resulte procedente aplicar.
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-La suspensión temporal de carácter correctivo procederá contra el integrante que en forma reiterada o particularmente indisciplinada ha incurrido en faltas cuya naturaleza no amerita la destitución. Dicha suspensión no podrá exceder de treinta días naturales.
+Concluida la suspensión sin goce de sueldo, la persona servidora pública infractora se presentará en su Unidad Administrativa de adscripción, situación que el superior jerárquico informará mediante oficio ante la Unidad Administrativa de las Instituciones de Seguridad Ciudadana competente para sustanciar los procedimientos administrativos disciplinarios, respecto a la reincorporación al servicio, a efecto de archivar el asunto como total y definitivamente concluido. En caso de que la persona servidora pública infractora no se presente en su Unidad Administrativa de adscripción, el superior jerárquico dará la vista correspondiente a las autoridades competentes para los efectos legales a que haya lugar.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 107 Bis.
+
+La sanción prevista en el artículo anterior es distinta a la suspensión temporal como medida precautoria que, en su caso ordene, en el caso de la Secretaría la Comisión de Honor y Justicia y en el caso de la Fiscalía el Órgano Colegiado equivalente u homólogo, a aquella persona servidora pública que se encuentre sujeta a investigación administrativa o penal, por actos u omisiones de los que puedan derivarse presuntas responsabilidades o imputaciones y cuya permanencia en el servicio, mediante acuerdo de las Unidades Administrativas citadas en el ámbito de su respectiva competencia, pudiera afectar a las Instituciones de Seguridad Ciudadana o a la comunidad en general. Dicha suspensión subsistirá hasta que el asunto de que se trate quede total y definitivamente resuelto en la instancia final del procedimiento disciplinario correspondiente.
+
+En caso de que la persona servidora pública resulte sin responsabilidad, se le reintegrarán las percepciones y prestaciones que hubiese dejado de percibir hasta ese momento, con motivo de la suspensión temporal aplicada como medida precautoria y en caso contrario se declarará la sanción que conforme al procedimiento disciplinario resulte procedente para su ejecución.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 108.
 
-La destitución es la remoción del integrante por incurrir en responsabilidad en el desempeño de sus funciones o en faltas graves por incumplimiento de sus obligaciones. Los integrantes de las Instituciones de Seguridad Ciudadana podrán ser destituidos por las siguientes (sic)
+La remoción es la terminación de la relación administrativa entre la Institución de Seguridad Ciudadana y la persona servidora pública, por incurrir en responsabilidad en el desempeño de sus funciones o incumplimiento de sus obligaciones, de conformidad con las disposiciones relativas al régimen disciplinario al incurrir en alguna de las infracciones consideradas como graves establecidas en el artículo 108 Ter de esta Ley.
 
-causas:
+I. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-I. Por ausentarse del servicio durante un periodo de tres días consecutivos o de cinco días dentro de un término de treinta días naturales sin permiso o causa justificada;
+II. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-II. Abstenerse o negarse, en forma expresa o tácita, a recibir la notificación para participar, se abstenga de presentarse, o habiendo iniciado, abandone:
+III. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-a) Los cursos de capacitación a que sea convocado,
+IV. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-b) El proceso de evaluación de control de confianza del Centro o
+V. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-c) La evaluación del desempeño;
+VI. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-III. La sentencia condenatoria por delito doloso que haya causado ejecutoria;
+VII. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2019)</small>
+VIII. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-IV. Por falta grave a los principios de actuación y obligaciones a que hacen mención los artículos 4 y 59 de esta Ley, así como a las normas de disciplina que se establezcan en cada una de las Instituciones Policiales.
+IX. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-V. Por incurrir en faltas de probidad y honradez durante y fuera del servicio.
+X. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-VI. Por portar o usar el arma de cargo fuera del servicio;
+XI. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-VII. Utilizar en el ejercicio de sus funciones un arma distinta a la que le fue proporcionada para el servicio;
+XII. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-VIII. Cuando por descuido o negligencia extravíe su arma de cargo;
+XIII. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-IX. Por poner en peligro a los particulares a causa de imprudencia, descuido, negligencia o abandono del servicio;
+XIV. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-X. No atender con la debida diligencia y celeridad la solicitud de auxilio de la ciudadanía;
+XV. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-XI. Introducir a las instalaciones de la Institución bebidas embriagantes, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado;
+XVI. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-XII. Por asistir a sus labores en estado de ebriedad, o bajo el influjo del alcohol, o por consumirlo durante el servicio o en su centro de trabajo:
+XVII. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-XIII. Consumir, dentro o fuera del servicio, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo los medicamentos controlados que le sean autorizados mediante prescripción médica avalada por los servicios médicos de la institución;
+XVIII. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-XIV. Por desacato injustificado a las órdenes de sus superiores;
+XIX. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-XV. Por revelar o divulgar de manera indebida asuntos reservados o confidenciales, de los que tenga conocimiento por razón del desempeño de su función;
+XX. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-XVI. Dar a conocer por cualquier otro medio a quien no tenga derecho, documentos, registros, imágenes, constancias, estadísticas, reportes o cualquier otra información reservada o confidencial de la que tenga conocimiento en ejercicio y con motivo de su empleo, cargo o comisión;
+XXI. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-XVII. Por presentar documentación alterada, apócrifa o carente de validez, determinada así por la autoridad o instancia que la emitió;
+XXII. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-XVIII. Por aplicar a sus subalternos en forma dolosa o reiterada, correctivos disciplinarios notoriamente injustificados;
+XXIII. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-XIX. Por obligar a sus subalternos a entregarles dinero o cualquier otro tipo de dádivas a cambio de permitirles el goce de las prestaciones a que todo policía tiene derecho;
+XXIV. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-XX. Facilitar el vestuario, equipo de protección, equipo electrónico Hand Held, placas, gafetes, chaleco con la leyenda "Autorizado para infracciones" u otros elementos del uniforme para que los utilice otro elemento no autorizado para ello o persona ajena a la corporación;
+XXV. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-XXI. Causar daño por negligencia o falta inexcusable a los vehículos, equipo electrónico Hand Held, Radares Móviles y demás equipo asignado, cuando el elemento operativo policial se niegue a reparar el daño;
+XXVI. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-XXII. Todo acto arbitrario o que limite indebidamente las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico realice la población;
+XXVII. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-XXIII. Ordenar o realizar la detención de persona o vehículo sin cumplir con los requisitos previstos en los ordenamientos constitucionales y legales aplicables;
+XXVIII. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-XXIV. Disponer de los bienes asegurados para beneficio propio o de terceros;
+XXIX. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-XXV. Omitir informar a su superior jerárquico sobre las omisiones, actos indebidos o constitutivos de delito, de subordinados o iguales en categoría jerárquica; o no poner a disposición inmediatamente de la autoridad competente, a los elementos señalados como presuntos responsables de algún ilícito;
+XXX. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-XXVI. Afectar por acción u omisión el lugar de los hechos delictivos sin que exista causa justificada, u ocultar la evidencia recabada;
+XXXI. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-XXVII. Sustraer, ocultar, alterar, dañar o extraviar información o bienes en perjuicio de la institución;
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-XXVIII. Permitir que personas ajenas a la institución realicen actos inherentes a las atribuciones que tenga encomendadas, así como el hacerse acompañar de dichas personas al realizar actos del servicio;
+###### Artículo 108 Bis.
 
-XXIX. Hacer uso de la fuerza de forma irracional y desproporcionada, así como la falta de respeto a los derechos humanos que determine la autoridad competente;
+Los factores de graduación podrán ser los siguientes:
 
-XXX. Asistir uniformado a bares, cantinas, centros de apuestas y juegos, prostíbulos u otros centros de este tipo, si no media orden expresa para el desempeño de sus funciones o en caso de flagrancia; y
+a) Gravedad de la infracción;
 
-XXXI. Por aquellas otras causas que determinen las disposiciones normativas en la materia.
+b) Daños causados a la Institución;
+
+c) Daños infligidos a la ciudadanía;
+
+d) Condiciones socioeconómicas de la persona servidora pública infractora;
+
+e) Cargo, comisión, grado, nivel, rama, categoría jerárquica y antigüedad;
+
+f) Reincidencia;
+
+g) Circunstancias de ejecución;
+
+h) Intencionalidad o negligencia;
+
+i) Perjuicios originados al servicio;
+
+j) Daños producidos a otras personas servidoras públicas
+
+k) Grado de participación, y
+
+l) Daños causados al material, equipo, infraestructura, semovientes y/o cualquier otra especie animal.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 108 Ter.
+
+Para determinar la gravedad de las infracciones al régimen disciplinario, se estará a lo siguiente:
+
+A. Se consideran infracciones no graves aquellas en cuyos actos u omisiones una persona servidora pública, de manera culposa o negligente, no observa dedicación y/o respeto en su desempeño, las cuales darán lugar a una amonestación; así como aquellas en cuyos actos u omisiones, una persona servidora pública afecta la deontología de las Instituciones de Seguridad Ciudadana o atenta contra la ciudadanía, las cuales darán lugar a una suspensión sin goce de sueldo.
+
+Conforme a los supuestos establecidos en los artículos 59 y 59 Bis de la presente Ley, se consideran infracciones no graves las siguientes:
+
+I. Las que se pretendan sancionar con amonestación, cuando se incumplan con las obligaciones previstas en las fracciones I, II y III del artículo 59, así como I, II, III, IV y XVII, incisos a y b del artículo 59 Bis de la presente Ley, y
+
+II. Las que se pretendan sancionar con suspensión sin goce de sueldo, cuando se incumplan con las obligaciones previstas en las fracciones IV, V, VI, VII, VIII, IX, X, XI y XII del artículo 59, así como V, VI, VII, VIII, IX, X, XI, XII y XVII, incisos c y d del artículo 59 Bis de la presente Ley.
+
+B. Se consideran infracciones graves aquellas en donde una persona servidora pública, comete acciones u omisiones que pueden derivar en conductas delictivas o que causen un detrimento a las Instituciones de Seguridad Ciudadana, las cuales tendrán como consecuencia la remoción.
+
+Conforme a los supuestos establecidos en los artículos 59 y 59 Bis de la presente Ley, se consideran infracciones graves las siguientes:
+
+I. Las que se pretendan sancionar con remoción, cuando se incumplan con las obligaciones previstas en las fracciones XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII, XXXIX, XL, XLI, XLII, XLIII, XLIV, XLV, XLVI y XLVII del artículo 59, así como y (sic) XIII, XIV, XV y XVI del artículo 59 Bis de la presente Ley.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 108 Quater.
+
+Las sanciones de amonestación, suspensión y remoción por infracciones a las obligaciones establecidas en la Ley General, la presente Ley y demás normatividad aplicable, serán impuestas mediante resolución formal, en el caso de la Secretaría por la Comisión de Honor y Justicia y en el caso de la Fiscalía por el Órgano Colegiado equivalente u homólogo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 109.
 
-La Secretaría contará con una Unidad de Asuntos Internos encargada de la supervisión de la actuación policial con la finalidad de verificar el cumplimiento de las obligaciones de los integrantes de la Policía de la Ciudad de México, con pleno respeto a sus derechos humanos.
+Las Instituciones de Seguridad Ciudadana contarán con una Unidad Administrativa de Asuntos Internos encargada, entre otras atribuciones, de la supervisión e investigación de la actuación policial con la finalidad de verificar el cumplimiento de las obligaciones de las personas servidoras públicas, con base en los principios establecidos en la Constitución Federal, la Ley General y la presente Ley.
 
 Habrá un Consejo Asesor Externo de carácter ciudadano encargado de revisar la actuación de la Unidad de Asuntos Internos en casos de actuación policial de alto impacto en la opinión pública o de aquellos en que así lo determinen las personas titulares de la Jefatura de Gobierno o de la Secretaría. Se integrará por Consejeros Ciudadanos del Consejo Ciudadano para la Seguridad Ciudadana y Procuración de Justicia, así como por académicos y expertos de la sociedad civil, conforme lo disponga la Ley Orgánica de la Secretaría de Seguridad Ciudadana. Los resultados de sus investigaciones serán entregados a las personas titulares de la Jefatura de Gobierno y de la Secretaría.
 
@@ -1840,11 +2640,11 @@ III. Al Mérito.
 
 En cada caso, se otorgará un estímulo económico adicional, ajustándose a las disponibilidades presupuestales del caso.
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 111.
 
-La Condecoración al Valor Policial consistente en medalla y diploma, se conferirá a quienes salven la vida de una o varias personas o realicen las funciones encomendadas por la Ley con grave riesgo para su vida o su salud. En casos excepcionales, las personas titulares de la Jefatura de Gobierno o de la Fiscalía, según sea el caso, a propuesta de la Comisión de Honor y Justicia y en atención a la respectiva hoja de servicios, determinarán la promoción del elemento policial a la jerarquía inmediata superior.
+La Condecoración al Valor Policial consistente en medalla y diploma, se conferirá a quienes salven la vida de una o varias personas o realicen las funciones encomendadas por la Ley con grave riesgo para su vida o su salud. En casos excepcionales, las personas Titulares de la Jefatura de Gobierno, de la Secretaría o de la Fiscalía, según sea el caso, a propuesta de la Comisión de Honor y Justicia en el caso de la Secretaría u Órgano Colegiado equivalente u homólogo en el caso de la Fiscalía, y en atención a la respectiva hoja de servicios, determinarán la promoción de la persona servidora pública policial a la jerarquía o categoría inmediata superior.
 
 ###### Artículo 112.
 
@@ -1868,99 +2668,385 @@ Las características de las condecoraciones y el procedimiento para su otorgamie
 
 Los estímulos y recompensas se ajustarán a lo establecido en el Decreto de Presupuesto de Egresos, en lo relativo a su disponibilidad presupuestal, y se otorgarán a los integrantes que se hayan distinguido por su asistencia, puntualidad, buena conducta, antigüedad, disposición y eficacia en el desempeño de sus funciones.
 
-### Capítulo VIII. Comisión de Honor y Justicia
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+### Capítulo VIII. Comisiones del Servicio Profesional de Carrera Policial y de Honor y Justicia
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 116.
 
-En las Instituciones de Seguridad Ciudadana existirá un Comisión de Honor y Justicia, que será el órgano colegiado competente para conocer y resolver sobre:
+Los procedimientos de separación tienen una naturaleza jurídica diferente de los disciplinarios.
 
-I. Las faltas graves en que incurran el personal policial a los principios de actuación previstos en la presente Ley y demás disposiciones aplicables;
+I. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-II. La suspensión temporal de carácter preventivo o correctivo de los integrantes;
+II. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-III. La destitución de los integrantes;
+III. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-IV. El recurso de rectificación, y
+IV. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-V. El otorgamiento de condecoraciones y determinar, con arreglo a la disponibilidad presupuestal, estímulos, incentivos, reconocimientos y recompensas, sin perjuicio de las atribuciones de otras autoridades en esta materia.
+V. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+En los procedimientos de separación, sólo se verificará el cumplimiento de los requisitos de permanencia, por lo que no comparten la naturaleza punitiva de los procedimientos disciplinarios, que se materializan cuando las personas servidoras públicas de las Instituciones de Seguridad Ciudadana incurren en responsabilidad en el desempeño de sus funciones o incumplimiento de sus obligaciones.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+El procedimiento de separación por incumplimiento de los requisitos de permanencia, no se clasificará como un procedimiento disciplinario, con base en la diferencia establecida en el párrafo anterior.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+En materia de procedimientos de separación, será competente para resolver la Comisión del Servicio Profesional de Carrera Policial en la Secretaría u Órgano Colegiado equivalente u homólogo en la Fiscalía. A falta de previsión expresa en la presente Ley, se aplicará supletoriamente lo dispuesto en la Ley de Procedimiento Administrativo de la Ciudad de México y el Código Nacional de Procedimientos Civiles y Familiares.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+En materia de procedimientos disciplinarios, será competente para resolver la Comisión de Honor y Justicia en la Secretaría u Órgano Colegiado equivalente u homólogo en la Fiscalía. A falta de previsión expresa en la presente Ley, se aplicará supletoriamente lo dispuesto en la Ley de Responsabilidades Administrativas de la Ciudad de México y el Código Nacional de Procedimientos Penales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 117.
 
-La Comisión de Honor y Justicia velará por la honorabilidad y reputación de las Instituciones de Seguridad Ciudadana. Para tal efecto, gozará de las más amplias facultades para examinar los expedientes u hojas de servicio de los policías y para practicar las diligencias que le permitan allegarse de los elementos necesarios para dictar su resolución, según se disponga en la normatividad aplicable.
+La atribución de la Unidad Administrativa competente para sustanciar el procedimiento de separación en las Instituciones de Seguridad Ciudadana, prescribirá en tres años para notificar el inicio de dicho procedimiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+El término de la prescripción será continuo y se contará desde el día siguiente en que se efectuó la probable conducta con la que se pretende acreditar que la persona servidora pública de las Instituciones de Seguridad Ciudadana incumplió con el o los requisitos de permanencia si fuere consumado o, desde que cesó si fuere continuo hasta la notificación del acuerdo de inicio de procedimiento que se realice a la persona servidora pública probable infractora.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+La atribución de la Unidad Administrativa competente para sustanciar el procedimiento disciplinario en las Instituciones de Seguridad Ciudadana, prescribirá para notificar el inicio de dicho procedimiento:
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+I. En tres años, para infracciones no graves que se pretendan sancionar con amonestación o con suspensión sin goce de sueldo, y
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+II. En siete años, para infracciones graves que se pretendan sancionar con remoción;
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+El término de la prescripción será continuo y se contará desde el día siguiente en que se efectuó la probable conducta con la que se pretende acreditar que la persona servidora pública de las Instituciones de Seguridad Ciudadana incurrió en responsabilidad en el desempeño de sus funciones o incumplimiento de sus obligaciones si fuere consumada o, desde que cesó si fuere continua hasta la notificación del acuerdo de inicio de procedimiento que se realice a la persona servidora pública probable infractora.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+La prescripción se interrumpirá con la notificación del acuerdo de inicio de procedimiento de separación o disciplinario según corresponda.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+En el caso de actualizarse la prescripción, la Unidad Administrativa que tenga conocimiento de la misma dará vista a las autoridades competentes para los efectos legales a que haya lugar.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+En ningún caso, en los procedimientos de separación o disciplinarios podrá dejar de actuarse por más de un año sin causa justificada; en caso de actualizarse dicha inactividad, se decretará, a solicitud de la persona servidora pública probable infractora o de oficio, la caducidad de la instancia.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+Los plazos a los que se refiere el presente artículo se computarán en días naturales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 118.
 
-La Comisión de Honor y Justicia de la Secretaría estará integrada por:
+El procedimiento de separación que se instruya a las personas servidoras públicas de las Instituciones de Seguridad Ciudadana por incumplimiento a los requisitos de permanencia, mismo que resolverá la Comisión del Servicio Profesional de Carrera Policial en la Secretaría u Órgano Colegiado equivalente u homólogo en la Fiscalía, se iniciará por solicitud fundada y motivada de la persona Titular de la Unidad Administrativa que tenga conocimiento del probable incumplimiento a cualquiera de los requisitos de permanencia, dirigida a la Unidad Administrativa competente sustanciadora, remitiendo para tal efecto las constancias en las que se pretenda acreditar el citado incumplimiento de la persona servidora pública probable infractora.
 
-I. Un Presidente, que será designado por la persona titular de la Secretaría;
+I. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-II. Un Secretario, que será designado por el o la presidenta de este Consejo y deberá contar con título de licenciado en derecho expedido por autoridad o institución legalmente facultada para ello;
+II. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-III. Un representante de la Subsecretaría de Operación Policial de la Secretaría;
+III. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2019)</small>
+IV. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-IV. Un representante de la Subsecretaría de Control de Tránsito de la Secretaría;
+V. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-V. Un representante de la Policía Auxiliar;
+VI. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-VI. Un representante de la Policía Bancaria e Industrial;
+VII. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-VII. Dos representantes del Consejo Ciudadano;
+VIII. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-VIII. Dos representantes de organizaciones civiles que atiendan el tema de Seguridad Ciudadana.
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-Tendrán derecho a voto todos los integrantes con excepción del Secretario. Para cada uno de estos cargos, también se designará un suplente. Los acuerdos y resoluciones de la Comisión de Honor y Justicia se tomarán por unanimidad de votos o con la mitad más uno de sus integrantes presentes y, en caso de empate, la persona titular de la presidencia tendrá voto de calidad.
+La Unidad Administrativa competente sustanciadora, podrá solicitar a otras Unidades Administrativas o a la misma remitente, informes, peticiones o requerimientos que permitan robustecer las constancias remitidas para mejor proveer respecto a iniciar el procedimiento de separación o determinar su improcedencia.
 
-Serán invitados permanentes: la Comisión de Derechos Humanos de la Ciudad de México; un representante del Consejo Nacional y un representante de los cuerpos policiales.
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+Una vez analizadas las constancias de mérito, la Unidad Administrativa competente sustanciadora, resolverá sobre la procedencia o improcedencia a iniciar el procedimiento de separación contra la persona servidora pública probable infractora.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+En el caso de resultar improcedente, la Unidad Administrativa competente sustanciadora devolverá las constancias a la Unidad Administrativa remitente y no será admisible ningún medio de impugnación, por lo que dicha determinación es definitiva en sede administrativa. Si resultase procedente, la Unidad Administrativa competente sustanciadora resolverá qué Unidad Administrativa sustanciará el procedimiento de separación, respetando en todo momento las formalidades esenciales del mismo.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+Para los efectos de los procedimientos de separación, las actuaciones y diligencias se practicarán en días y horas hábiles, por lo que no se computarán los días sábados, los domingos, ni los días que sean determinados inhábiles por los ordenamientos legales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 118 Bis.
 
-En los asuntos a que se refieren las fracciones I a III del artículo 116 de esta Ley se abrirá un expediente con las constancias que existan sobre el particular y se sujetarán al siguiente procedimiento:
+Emitido el acuerdo de inicio del procedimiento de separación, la Unidad Administrativa competente sustanciadora, citará a la persona servidora pública probable infractora a través de la Unidad Administrativa de adscripción donde desempeñe sus funciones, a efecto de que comparezca ante la citada Unidad Administrativa competente sustanciadora para notificarle el referido acuerdo de inicio de procedimiento de separación.
 
-I. Se notificará personalmente al integrante el inicio del procedimiento en el domicilio que haya señalado conforme al artículo 59, fracción XXXII de esta Ley.
+I. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-II. En la notificación se le informará la naturaleza y causa del procedimiento a fin de que conozca los hechos que se le imputan y pueda defenderse por sí o por su defensor concediéndole diez días hábiles para que ofrezca las pruebas pertinentes y señalándole lugar, día y hora para la celebración de la audiencia de pruebas y alegatos. Serán admisibles toda clase de pruebas, excepto la confesional de la autoridad y las que fueren en contra del derecho.
+II. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-III. En dicha audiencia se desahogarán las pruebas admitidas y el interesado podrá presentar en forma verbal o por escrito los alegatos que a su derecho convengan. Una vez integrado el expediente, la Comisión de Honor y Justicia dictará su resolución debidamente fundada y motivada dentro de los veinte días hábiles siguientes, misma que será notificada personalmente al interesado en el domicilio antes indicado o en el que haya designado durante la secuela del procedimiento, misma que tendrá que ser dentro del territorio de la Ciudad de México.
+III. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-IV. La resolución que emita la Comisión de Honor y Justicia tomará en consideración a la falta cometida, la jerarquía y los antecedentes del integrante sujeto a procedimiento, así como las pruebas desahogadas.
+IV. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-V. De todo lo actuado se levantará constancia por escrito.
+V. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2025)
 
-Las resoluciones de la Comisión de Honor y Justicia se agregarán a los expedientes u hojas de servicio de los integrantes de las Instituciones de Seguridad Ciudadana.
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-La substanciación del procedimiento administrativo disciplinario se realizará por la unidad administrativa encargada de brindar el apoyo, soporte y coadyuvancia a la Comisión de Honor y Justicia, pero en todos los casos la resolución será emitida por dicho órgano colegiado.
+Asimismo, las constancias que integran el expediente administrativo, serán notificadas a la persona servidora pública probable infractora, a través del personal habilitado, que para tal efecto designe la persona Titular de la Unidad Administrativa competente sustanciadora.
 
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+En caso de que la persona servidora pública probable infractora se negara a recibir la notificación, se asentará dicha situación en el acta de notificación que para tal efecto se elabore, y se llevará a cabo dicha notificación por instructivo, en la que se asentará que las subsecuentes notificaciones se realizarán por estrados, en un lugar visible al público dentro de las instalaciones que ocupe la Unidad Administrativa competente sustanciadora.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+En la notificación se le hará del conocimiento a la persona servidora pública probable infractora el incumplimiento a los requisitos de permanencia que se le impute, el lugar, el día y la hora en que tendrá verificativo la audiencia y su derecho a ofrecer pruebas y formular alegatos, por sí o asistida de una defensa.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+La audiencia se celebrará en el plazo de quince días hábiles posteriores a la notificación, plazo en el que la persona servidora pública probable infractora podrá imponerse de los autos del expediente que se haya integrado y le serán facilitados para su consulta.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 118 Ter.
 
-En contra de las resoluciones de la Comisión de Honor y Justicia se podrá interponer el recurso de revisión ante la persona titular de la Secretaría o Fiscalía General según sea el caso, dentro de los tres días hábiles siguientes a la notificación de la resolución. En el escrito correspondiente, el recurrente expresará los agravios que estime pertinentes y aportará las pruebas que procedan. Interpuesto el recurso de revisión dentro del plazo señalado y, admitido que sea, el o la persona titular de la Secretaría o Fiscalía General, lo resolverán dentro de los diez días hábiles siguientes. La resolución del recurso de revisión es definitiva en sede administrativa.
+La persona servidora pública probable infractora deberá señalar domicilio para oír y recibir notificaciones dentro de la Ciudad de México, apercibiéndole que en caso de no hacerlo las subsecuentes notificaciones se realizarán por estrados, en un lugar visible al público dentro de las instalaciones que ocupe la Unidad Administrativa competente sustanciadora.
 
-La resolución del recurso se agregará al expediente u hoja de servicios correspondiente.
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-La Ley de Responsabilidades Administrativas de la Ciudad de México, será de aplicación supletoria en la substanciación del procedimiento descrito en el artículo anterior, así como para la substanciación del recurso de revisión.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-###### Artículo 118 Quáter.
+###### Artículo 118 Quater.
 
-En el caso de destitución, si la autoridad jurisdiccional resolviere que fue injustificada, el Gobierno de la Ciudad sólo estará obligado a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
+El día y hora en que tenga verificativo la audiencia de la persona servidora pública probable infractora, se declarará formalmente abierta la misma y enseguida, se registrarán los datos personales y administrativos, así como su protesta para conducirse con verdad. En el caso de la defensa o persona de confianza designada por la persona servidora pública probable infractora, se le protestará en el cargo conferido y se registrarán sus datos personales.
 
-> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+Acto seguido, se procederá a dar lectura a las constancias relativas a la imputación y pruebas de cargo, con la finalidad de que la persona servidora pública probable infractora esté en posibilidad de una adecuada defensa.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+Posteriormente, se concederá el uso de la palabra a la persona servidora pública probable infractora y a su defensa, los que expondrán en forma concreta y específica lo que a su derecho convenga. Consiguientemente, ofrecerá las pruebas de descargo.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 118 Quinquies.
+
+Son admisibles como medio de prueba:
+
+I. La documental pública;
+
+II. La documental privada;
+
+III. La testimonial;
+
+IV. Las fotografías, escritos y, en general, todos aquellos elementos aportados por los descubrimientos de la ciencia y/o tecnológicos;
+
+V. La presuncional legal y humana, y
+
+VI. Todas aquellas que sean permitidas por la ley.
+
+No es admisible la confesional a cargo de la autoridad.
+
+Las pruebas se admitirán siempre que guarden relación inmediata con los hechos materia de la litis y sólo en cuanto fueren conducentes para el eficaz esclarecimiento de los hechos y se encuentren ofrecidas conforme a derecho.
+
+Sólo los hechos están sujetos a prueba. Si la prueba ofrecida por la persona servidora pública probable infractora es la testimonial, quedará a su cargo la presentación de los testigos. Si el oferente no puede presentar a los testigos, deberá señalar su domicilio y solicitará a la instancia que los cite. Esta los citará por una sola ocasión, en caso de incomparecencia se declarará desierta la prueba.
+
+Serán desechadas aquellas pruebas que se obtengan de manera ilícita o que sean contrarias a la moral y al derecho.
+
+Si la Unidad Administrativa equivalente u homóloga sustanciadora considera necesario, por lo extenso o particular de las pruebas ofrecidas, cerrará la audiencia, levantando el acta correspondiente, y establecerá un término para su desahogo.
+
+En caso contrario, se procederá a la formulación de alegatos y posteriormente al cierre de instrucción del procedimiento de separación.
+
+Una vez cerrada la instrucción del procedimiento de separación, en un término no mayor a veinte días hábiles contados a partir del día siguiente al mismo, se turnará el expediente respectivo a la Comisión del Servicio Profesional de Carrera Policial en la Secretaría u Órgano Colegiado equivalente u homólogo en la Fiscalía para su resolución.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 118 Sexies.
+
+La resolución del procedimiento de separación, será emitida por la Comisión del Servicio Profesional de Carrera Policial en la Secretaría u Órgano Colegiado equivalente u homólogo en la Fiscalía en un término no mayor a diez días hábiles contados a partir del día siguiente de su recepción.
+
+La resolución que se dicte deberá estar debidamente fundada y motivada, contener una relación sucinta de los hechos, una valoración de todas y cada una de las pruebas aportadas, así como señalarse el término con el que cuenta para interponer el recurso de revisión y la autoridad ante la cual puede ser presentado.
+
+La resolución se notificará de manera personal a la persona servidora pública, a través del personal habilitado, que para tal efecto designe la persona Titular de la Unidad Administrativa competente sustanciadora, en auxilio de la Comisión del Servicio Profesional de Carrera Policial en la Secretaría u Órgano Colegiado equivalente u homólogo en la Fiscalía.
+
+Contra las resoluciones de la Comisión del Servicio Profesional de Carrera Policial en la Secretaría u Órgano Colegiado equivalente u homólogo en la Fiscalía, se podrá interponer el recurso de revisión ante la persona Titular de la Institución de Seguridad Ciudadana respectiva, dentro de los tres días hábiles siguientes a la notificación de la resolución.
+
+En el escrito correspondiente, la persona servidora pública recurrente expresará los agravios y ofrecerá las pruebas que estime pertinentes. Serán admisibles toda clase de pruebas, excepto la confesional de la autoridad. Asimismo, serán desechadas aquellas pruebas que se obtengan de manera ilícita o que sean contrarias a la moral y al derecho.
+
+Interpuesto el recurso de revisión dentro del plazo señalado, la persona Titular de la Institución de Seguridad Ciudadana respectiva, a través de su representante legal, llevará a cabo todas y cada una de las diligencias correspondientes al citado recurso.
+
+La procedencia o improcedencia del recurso se determinará en un plazo máximo de cinco días hábiles, mediante el acuerdo que corresponda, contados a partir de que la autoridad revisora reciba los autos del procedimiento de separación.
+
+En caso de improcedencia, se notificará a la persona servidora pública de que se trate, a través del personal adscrito a la citada representación legal y se informará mediante oficio conducente a la Unidad Administrativa competente sustanciadora, quien, en auxilio de la Comisión del Servicio Profesional de Carrera Policial en la Secretaría u Órgano Colegiado equivalente u homólogo en la Fiscalía, ejecutará la resolución.
+
+En caso de ser procedente, informará su admisión a la Unidad Administrativa competente sustanciadora, quien, en auxilio de la Comisión del Servicio Profesional de Carrera Policial en la Secretaría u Órgano Colegiado equivalente u homólogo en la Fiscalía, suspenderá la ejecución de la resolución, derivado de la interposición del recurso de mérito.
+
+Posteriormente, se resolverá el recurso de revisión dentro de los veinte días hábiles siguientes y se notificará a la persona servidora pública de que se trate, a través del personal adscrito a la citada representación legal. La resolución del recurso de revisión es definitiva en sede administrativa.
+
+Finalmente, se informará la resolución definitiva mediante oficio conducente a la Unidad Administrativa competente sustanciadora, quien, en auxilio de la Comisión del Servicio Profesional de Carrera Policial en la Secretaría u Órgano Colegiado equivalente u homólogo en la Fiscalía, ejecutará la misma.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 118 Septies.
+
+Los acuerdos dictados durante la sustanciación del procedimiento de separación, serán firmados y autenticados por las personas servidoras públicas Titulares de una dirección y/o subdirección de área, equivalente u homólogo, respectivamente, adscritas a la Unidad Administrativa competente sustanciadora.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 119.
 
-La Comisión de Honor y Justicia de la Fiscalía y del Sistema Penitenciario se sujetarán a lo establecido en el Reglamento que al efecto emitan tanto la Fiscalía como la Secretaría.
+El procedimiento disciplinario que se instruya a las personas servidoras públicas de las Instituciones de Seguridad Ciudadana por responsabilidad en el desempeño de funciones o incumplimiento de obligaciones, mismo que resolverá la Comisión de Honor y Justicia en la Secretaría u Órgano Colegiado equivalente u homólogo en la Fiscalía, se iniciará por solicitud fundada y motivada de la persona Titular de la Unidad Administrativa de Asuntos Internos competente, dirigida a la Unidad Administrativa competente sustanciadora, remitiendo para tal efecto el expediente de investigación con la calificación de la infracción cometida por hechos en el que la persona servidora pública probablemente incurra en responsabilidad en el desempeño de sus funciones o incumplimiento de sus obligaciones.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+La Unidad Administrativa competente sustanciadora, resolverá sobre la procedencia o improcedencia a iniciar el procedimiento disciplinario contra la persona servidora pública probable infractora.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+En el caso de resultar improcedente, la Unidad Administrativa equivalente u homóloga sustanciadora devolverá el expediente de investigación a la Unidad Administrativa de Asuntos Internos competente. Si resultase procedente, la Unidad Administrativa competente sustanciadora resolverá qué Unidad Administrativa sustanciará el procedimiento disciplinario, respetando en todo momento las formalidades esenciales del mismo.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+Para los efectos de los procedimientos disciplinarios, las actuaciones y diligencias se practicarán en días y horas hábiles, por lo que no se computarán los días sábados, los domingos, ni los días que sean determinados inhábiles por los ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 119 Bis.
+
+El Acuerdo que emita la Unidad Administrativa competente sustanciadora respecto a la improcedencia del inicio del procedimiento disciplinario, podrá ser impugnado por la Unidad Administrativa de Asuntos Internos competente, mediante el recurso de reclamación ante la misma, dentro del término de diez días hábiles contados a partir de la notificación y recepción del expediente de investigación respectivo.
+
+En el recurso de reclamación, la Unidad Administrativa sustentante expresará los razonamientos sobre la procedencia del procedimiento disciplinario y aportará las pruebas que considere necesarias.
+
+En el recurso de reclamación, la Unidad Administrativa de Asuntos Internos competente expresará los razonamientos sobre la procedencia del procedimiento disciplinario, adjuntando las pruebas que considere necesarias, y la Unidad Administrativa competente sustanciadora remitirá el expediente a la Comisión de Honor y Justicia en la Secretaría u Órgano Colegiado equivalente u homólogo en la Fiscalía, para su resolución.
+
+La Comisión de Honor y Justicia en la Secretaría u Órgano Colegiado equivalente u homólogo en la Fiscalía, en un término no mayor a veinte días hábiles a partir de la interposición del mismo emitirá la resolución a través de la cual confirme o revoque el acuerdo de improcedencia del inicio del procedimiento disciplinario solicitado, contra la cual no procederá medio de impugnación alguno.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 119 Ter.
+
+Emitido el acuerdo de inicio del procedimiento disciplinario, la Unidad Administrativa competente sustanciadora, citará a la persona servidora pública probable infractora a través de la Unidad Administrativa de adscripción donde desempeñe sus funciones, a efecto de que comparezca ante la citada Unidad Administrativa competente sustanciadora para notificarle el referido acuerdo de inicio de procedimiento disciplinario.
+
+Asimismo, el expediente de investigación y constancias que integran el expediente administrativo, serán notificadas a la persona servidora pública probable infractora, a través del personal habilitado, que para tal efecto designe la persona Titular de la Unidad Administrativa competente sustanciadora.
+
+En caso de que la persona servidora pública probable infractora se negara a recibir la notificación, se asentará dicha situación en el acta de notificación que para tal efecto se elabore, y se llevará a cabo dicha notificación por instructivo, en la que se asentará que las subsecuentes notificaciones se realizarán por estrados, en un lugar visible al público dentro de las instalaciones que ocupe la Unidad Administrativa competente sustanciadora.
+
+En la notificación se le hará del conocimiento a la persona servidora pública probable infractora el incumplimiento de la obligación o responsabilidad en el desempeño de sus funciones que se le impute, el lugar, el día y la hora en que tendrá verificativo la audiencia y su derecho a ofrecer pruebas y formular alegatos, por sí o asistida de una defensa.
+
+La audiencia se celebrará en el plazo de quince días hábiles posteriores a la notificación, plazo en el que la persona servidora pública probable infractora podrá imponerse de los autos del expediente que se haya integrado y le serán facilitados para su consulta.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 119 Quater.
+
+La persona servidora pública probable infractora deberá señalar domicilio para oír y recibir notificaciones dentro de la Ciudad de México, apercibiéndole que en caso de no hacerlo las subsecuentes notificaciones se realizarán por estrados, en un lugar visible al público dentro de las instalaciones que ocupe la Unidad Administrativa competente sustanciadora.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 119 Quinquies.
+
+En los procedimientos disciplinarios, la Comisión de Honor y Justicia en la Secretaría u Órgano Colegiado equivalente u homólogo en la Fiscalía, podrá determinar mediante acuerdo la suspensión temporal del empleo, cargo o comisión de la persona servidora pública probable infractora como medida precautoria, previo o con posterioridad a la notificación del inicio del procedimiento, si a su juicio es conveniente para la continuación del procedimiento por afectar a las Instituciones de Seguridad Ciudadana o a la comunidad en general.
+
+Esta medida no prejuzga sobre la responsabilidad o incumplimiento que se impute, debiéndose asentar expresamente esta salvedad.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 119 Sexies.
+
+El día y hora en que tenga verificativo la audiencia de la persona servidora pública probable infractora, se declarará formalmente abierta la misma y enseguida, se registrarán los datos personales y administrativos, así como su protesta para conducirse con verdad. En el caso de la defensa o persona de confianza designada por la persona servidora pública probable infractora, se le protestará en el cargo conferido y se registrarán sus datos personales.
+
+Acto seguido, se procederá a dar lectura a las constancias relativas a la imputación y pruebas de cargo, con la finalidad de que la persona servidora pública probable infractora esté en posibilidad de una adecuada defensa.
+
+Posteriormente, se concederá el uso de la palabra a la persona servidora pública probable infractora y a su defensa, los que expondrán en forma concreta y específica lo que a su derecho convenga. Consiguientemente, ofrecerá las pruebas de descargo.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 119 Septies.
+
+Son admisibles como medio de prueba:
+
+I. La documental pública;
+
+II. La documental privada;
+
+III. La testimonial;
+
+IV. Las fotografías, escritos y, en general, todos aquellos elementos aportados por los descubrimientos de la ciencia y/o tecnológicos;
+
+V. La presuncional legal y humana, y
+
+VI. Todas aquellas que sean permitidas por la ley.
+
+No es admisible la confesional a cargo de la autoridad.
+
+Las pruebas se admitirán siempre que guarden relación inmediata con los hechos materia de la litis y sólo en cuanto fueren conducentes para el eficaz esclarecimiento de los hechos y se encuentren ofrecidas conforme a derecho.
+
+Sólo los hechos están sujetos a prueba. Si la prueba ofrecida por la persona servidora pública probable infractora es la testimonial, quedará a su cargo la presentación de los testigos. Si el oferente no puede presentar a los testigos, deberá señalar su domicilio y solicitará a la instancia que los cite. Esta los citará por una sola ocasión, en caso de incomparecencia declarará desierta la prueba.
+
+Serán desechadas aquellas pruebas que se obtengan de manera ilícita o que sean contrarias a la moral y al derecho.
+
+Si la Unidad Administrativa equivalente u homóloga sustanciadora considera necesario, por lo extenso o particular de las pruebas ofrecidas, cerrará la audiencia, levantando el acta correspondiente, y establecerá un término para su desahogo.
+
+En caso contrario, se procederá a la formulación de alegatos y posteriormente al cierre de instrucción del procedimiento disciplinario.
+
+Una vez cerrada la instrucción del procedimiento disciplinario, en un término no mayor a veinte días hábiles contados a partir del día siguiente al mismo, se turnará el expediente respectivo a la Comisión de Honor y Justicia en la Secretaría u Órgano Colegiado equivalente u homólogo en la Fiscalía para su resolución.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 119 Octies.
+
+La resolución del procedimiento disciplinario, será emitida por la Comisión de Honor y Justicia en la Secretaría u Órgano Colegiado equivalente u homólogo en la Fiscalía en un término no mayor a diez días hábiles contados a partir del día siguiente de su recepción.
+
+La resolución que se dicte deberá estar debidamente fundada y motivada, contener una relación sucinta de los hechos, una valoración de todas y cada una de las pruebas aportadas, así como señalarse el término con el que cuenta para interponer el recurso de revisión y la autoridad ante la cual puede ser presentado.
+
+La resolución se notificará de manera personal a la persona servidora pública, a través del personal habilitado, que para tal efecto designe la persona Titular de la Unidad Administrativa competente sustanciadora, en auxilio de la Comisión de Honor y Justicia u Órgano Colegiado equivalente u homólogo en la Fiscalía.
+
+Contra las resoluciones de la Comisión de Honor y Justicia u Órgano Colegiado equivalente u homólogo en la Fiscalía, se podrá interponer el recurso de revisión ante la persona Titular de la Institución de Seguridad Ciudadana respectiva, dentro de los tres días hábiles siguientes a la notificación de la resolución.
+
+En el escrito correspondiente, la persona servidora pública recurrente expresará los agravios y ofrecerá las pruebas que estime pertinentes. Serán admisibles toda clase de pruebas, excepto la confesional de la autoridad. Asimismo, serán desechadas aquellas pruebas que se obtengan de manera ilícita o que sean contrarias a la moral y al derecho.
+
+Interpuesto el recurso de revisión dentro del plazo señalado, la persona Titular de la Institución de Seguridad Ciudadana respectiva, a través de su representante legal, llevará a cabo todas y cada una de las diligencias correspondientes al citado recurso.
+
+La procedencia o improcedencia del recurso se determinará en un plazo máximo de cinco días hábiles, mediante el acuerdo que corresponda, contados a partir de que la autoridad revisora reciba los autos del procedimiento disciplinario.
+
+En caso de improcedencia, se notificará a la persona servidora pública de que se trate, a través del personal adscrito a la citada representación legal y se informará mediante oficio conducente a la Unidad Administrativa competente sustanciadora, quien, en auxilio de la Comisión de Honor y Justicia u Órgano Colegiado equivalente u homólogo en la Fiscalía, ejecutará la resolución.
+
+En caso de ser procedente, informará su admisión a la Unidad Administrativa competente sustanciadora, quien, en auxilio de la Comisión de Honor y Justicia u Órgano Colegiado equivalente u homólogo en la Fiscalía, suspenderá la ejecución de la resolución, derivado de la interposición del recurso de mérito.
+
+Posteriormente, se resolverá el recurso de revisión dentro de los veinte días hábiles siguientes y se notificará a la persona servidora pública de que se trate, a través del personal adscrito a la citada representación legal. La resolución del recurso de revisión es definitiva en sede administrativa.
+
+Finalmente, se informará la resolución definitiva mediante oficio conducente a la Unidad Administrativa competente sustanciadora, quien, en auxilio de la Comisión de Honor y Justicia u Órgano Colegiado equivalente u homólogo en la Fiscalía, ejecutará la misma.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 119 Nonies.
+
+Los acuerdos dictados durante la sustanciación del procedimiento disciplinario, serán firmados y autenticados por las personas servidoras públicas Titulares de una dirección y/o subdirección de área, equivalente u homólogo, respectivamente, adscritas a la Unidad Administrativa competente sustanciadora.
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 120.
 
-El reglamento correspondiente regulará las controversias que se susciten con relación a los procedimientos de la Carrera Policial y el Régimen Disciplinario.
+En el caso de que la autoridad jurisdiccional resolviera que la separación o remoción fue injustificada, el Gobierno de la Ciudad de México sólo estará obligado a pagar la indemnización y demás prestaciones a que tenga derecho la persona servidora pública separada o removida, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 120 Bis.
+
+Las leyes orgánicas de las Instituciones de Seguridad Ciudadana, así como sus reglamentos interiores definirán la competencia, funciones y atribuciones de las autoridades que intervengan en los procedimientos administrativos de separación y disciplinarios, de conformidad con lo establecido en la Constitución Federal, la Constitución de la Ciudad, la Ley General, esta Ley y demás disposiciones aplicables.
 
 ### Capítulo IX. Sistema de Acreditación y Control de Confianza
 
@@ -2571,3 +3657,25 @@ PRIMERO. Remítase a la persona Titular de la Jefatura de Gobierno para su publi
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 19 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICAN: LAS FRACCIONES XXXII, XXXIII Y XXXV DEL ARTÍCULO 2; EL PÁRRAFO SEGUNDO, ASÍ COMO LOS INCISOS E Y F DEL ARTÍCULO 4; LOS ARTÍCULOS 31, LAS FRACCIONES I, II, III Y IV, ASÍ COMO LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 32; EL PÁRRAFO PRIMERO DEL ARTÍCULO 33; EL PÁRRAFO PRIMERO DEL ARTÍCULO 37; LAS FRACCIONES I, III Y VII DEL ARTÍCULO 52; LA FRACCIÓN I DEL ARTÍCULO 53; EL ARTÍCULO 55; EL PÁRRAFO PRIMERO, ASÍ COMO SUS FRACCIONES I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII Y XXXIV DEL ARTÍCULO 59, LA FRACCIÓN XIII DEL ARTÍCULO 60; LOS PÁRRAFOS PRIMERO Y SEGUNDO, ASÍ COMO LAS FRACCIONES, I, INCISOS A, B Y C Y II DEL ARTÍCULO 85; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 95; LA DENOMINACIÓN DEL CAPÍTULO V DEL TÍTULO DÉCIMO; LOS PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO DEL ARTÍCULO 96; EL PÁRRAFO PRIMERO DEL ARTÍCULO 97; SE MODIFICAN Y SE RECORREN EN SU ORDEN LOS ACTUALES PÁRRAFOS SEGUNDO Y TERCERO PARA QUEDAR COMO PÁRRAFOS PRIMERO Y SEGUNDO, RESPECTIVAMENTE, ASÍ COMO LAS FRACCIONES I, II, III Y IV DEL ARTÍCULO 98; EL PÁRRAFO PRIMERO DEL ARTÍCULO 99; LOS ARTÍCULOS 100, EL PÁRRAFO PRIMERO, ASÍ COMO LAS FRACCIONES I, NUMERALES 1 Y 2, II, NUMERALES 1 Y 2 DEL ARTÍCULO 103; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 104; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 105; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 106, LOS PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO DEL ARTÍCULO 107; EL PÁRRAFO PRIMERO DEL ARTÍCULO 108; EL PÁRRAFO PRIMERO DEL ARTÍCULO 109; EL ARTÍCULO 111; LA DENOMINACIÓN DEL CAPÍTULO VIII DEL TÍTULO DÉCIMO; EL PÁRRAFO PRIMERO DEL ARTÍCULO 116; EL PÁRRAFO PRIMERO DEL ARTÍCULO 117; LOS PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO DEL ARTÍCULO 118; LOS PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO DEL ARTÍCULO 118 BIS, EL PÁRRAFO PRIMERO DEL ARTÍCULO 118 TER; EL PÁRRAFO PRIMERO DEL ARTÍCULO 118 QUATER; EL PÁRRAFO PRIMERO DEL ARTÍCULO 119 Y EL ARTÍCULO 120; SE ADICIONAN: LAS FRACCIONES IX BIS, XVII BIS Y XXXVI AL ARTÍCULO 2; LOS INCISOS G Y H AL ARTÍCULO 4; LAS FRACCIONES V, VI, VII, VIII, IX, X, XI, XII, XIII Y XIV, ASÍ COMO EL PÁRRAFO CUARTO AL ARTÍCULO 32; LAS FRACCIONES I, II, III, IV, V, VI, VII, VIII, IX Y X, ASÍ COMO EL PÁRRAFO SEGUNDO AL ARTÍCULO 33; EL PÁRRAFO SEGUNDO AL ARTÍCULO 37; LAS FRACCIONES XXXV, XXXVI, XXXVII, XXXVIII, XXXIX, XL, XLI, XLII, XLIII, XLIV, XLV, XLVI, XLVII Y XLVIII AL ARTÍCULO 59; LOS ARTÍCULOS 59 BIS Y 81 BIS; EL INCISO D DE LA FRACCIÓN I, ASÍ COMO LOS INCISOS A Y B DE LA FRACCIÓN II AL ARTÍCULO 85; LOS PÁRRAFOS TERCERO, CUARTO, QUINTO Y SEXTO AL ARTÍCULO 95; LOS ARTÍCULOS 95 BIS, 95 TER, 95 QUATER, 95 QUINQUIES, 95 SEXIES, 95 SEPTIES, 95 OCTIES Y 95 NONIES; LAS FRACCIONES I Y II ENTRE LOS PÁRRAFOS SEGUNDO Y TERCERO, LOS INCISOS A, B Y C DE LA FRACCIÓN II, ASÍ COMO EL PÁRRAFO CUARTO AL ARTÍCULO 96; LA FRACCIÓN V Y EL PÁRRAFO TERCERO AL ARTÍCULO 98; LAS FRACCIONES I, II, III Y IV AL ARTÍCULO 99; LOS ARTÍCULOS 100 BIS, 100 TER, 100 QUATER, 100 QUINQUIES, 100 SEXIES, 100 SEPTIES, LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 102; EL ARTÍCULO 102 BIS; LOS NUMERALES 3, 4, 5 Y 6 DE LA FRACCIÓN I, EL NUMERAL 3 DE LA FRACCIÓN II, ASÍ COMO LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 103; EL PÁRRAFO TERCERO AL ARTÍCULO 104; LOS ARTÍCULOS 104 BIS, 104 TER, LAS FRACCIONES I Y II ENTRE LOS PÁRRAFOS PRIMERO Y SEGUNDO AL ARTÍCULO 105; EL ARTÍCULO 105 BIS; LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 106; EL ARTÍCULO 107 BIS; LOS ARTÍCULOS 108 BIS, 108 TER, 108 QUATER, LOS PÁRRAFOS SEGUNDO, TERCERO, CUARTO Y QUINTO DEL ARTÍCULO 116; LOS PÁRRAFOS SEGUNDO, TERCERO, CUARTO, QUINTO, SEXTO, SÉPTIMO Y OCTAVO, ASÍ COMO LAS FRACCIONES I Y II ENTRE LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 117; LOS PÁRRAFOS CUARTO Y QUINTO AL ARTÍCULO 118; LOS PÁRRAFOS CUARTO Y QUINTO AL ARTÍCULO 118 BIS; LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 118 QUATER; LOS ARTÍCULOS 118 QUINQUIES, 118 SEXIES Y 118 SEPTIES; LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO AL ARTÍCULO 119; LOS ARTÍCULOS 119 BIS, 119 TER, 119 QUATER, 119 QUINQUIES, 119 SEXIES, 119 SEPTIES, 119 OCTIES; 119 NONIES Y 120 BIS; SE DEROGAN: LOS ARTÍCULOS 3 Y 83; LA FRACCIÓN III Y SUS INCISOS A, B Y C DEL ARTÍCULO 85; EL ARTÍCULO 90; LOS PÁRRAFOS SEGUNDO, TERCERO, CUARTO Y QUINTO DEL ARTÍCULO 97; EL PÁRRAFO TERCERO DEL ARTÍCULO 105; EL PÁRRAFO CUARTO DEL ARTÍCULO 107; LAS FRACCIONES I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX Y XXXI DEL ARTÍCULO 108; LAS FRACCIONES I, II, III, IV Y V DEL ARTÍCULO 116; LAS FRACCIONES I, II, III, IV, V, VI, VII Y VIII DEL ARTÍCULO 118; LAS FRACCIONES I, II, III, IV Y V DEL ARTÍCULO 118 BIS, Y LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 118 TER, TODOS DE LA LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase el presente Decreto a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se derogan aquellas disposiciones que contravengan el presente decreto.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto, las referencias hechas a la Comisión de Honor y Justicia, al Consejo de Honor y Justicia, a la Comisión Técnica de Profesionalización, así como a la Comisión Técnica de Selección y Promoción; o a las Unidades Administrativas y/o Unidades Administrativas de Apoyo Técnico-Operativo de su adscripción en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas, así como en contratos o convenios, respecto de las atribuciones que se transfieren por virtud del presente Decreto, se entenderán realizadas a la Comisión de Honor y Justicia y a la Comisión del Servicio Profesional de Carrera Policial u Órganos Colegiados equivalentes u homólogos en las Instituciones de Seguridad Ciudadana de la Ciudad de México en al ámbito de sus respectivas competencias.
+
+QUINTO. Las Instituciones de Seguridad Ciudadana de la Ciudad de México contarán con 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones a los reglamentos y emitir las disposiciones correspondientes; hasta en tanto, las disposiciones actuales continúan vigentes y podrán ser aplicadas por la Secretaría de Seguridad Ciudadana de la Ciudad de México y la Fiscalía General de Justicia de la Ciudad de México.
+
+SEXTO. Los asuntos o procedimientos que a la entrada en vigor del presente Decreto se encuentren en trámite y deban ser atendidos por las Unidades Administrativas y/u Órgano Colegiado equivalente u homólogo en las Instituciones de Seguridad Ciudadana de la Ciudad de México que sean objeto de transferencia, serán resueltos por la Institución de Seguridad Ciudadana en al ámbito de sus respectivas competencias, dentro de los plazos establecidos al efecto, a excepción de los trámites urgentes o sujetos a plazo improrrogable.
+
+SÉPTIMO. La Secretaría de Seguridad Ciudadana deberá establecer las bases para la organización y operación del Servicio Profesional de Carrera Policial de las personas servidoras públicas integrantes de los cuerpos policiales, a que se refiere el presente decreto.
+
+OCTAVO. Las erogaciones que se se (sic) generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o creación de estructuras orgánicas, estas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizan ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes.
+
+Los procesos de formación, actualización y especialización de las personas servidoras públicas del Sistema Penitenciario se alinearán al Servicio Profesional de Carrera Policial que para tal efecto determine la persona titular de la Secretaría de Seguridad Ciudadana.
