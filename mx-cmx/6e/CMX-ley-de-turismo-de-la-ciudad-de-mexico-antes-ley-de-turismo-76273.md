@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-turismo-de-la-ciudad-de-mexico-antes-ley-de-turismo-7627
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-30"
-last_updated: "2025-06-27"
+last_updated: "2025-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76273&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-08-23"
 
 LEY DE TURISMO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 30 de agosto de 2010.
 
@@ -1168,11 +1168,13 @@ VII Ter. Cumplir las obligaciones en materia fiscal establecidas en la normativi
 
 VIII. Las demás que se señalen en esta Ley y en las demás leyes aplicables de la Ciudad de México.
 
-> <small>(ADICIONADO, G.O. 4 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 60 Bis.
 
-Todos los prestadores de servicios que brinden el servicio de hospedaje y estancia temporal, además de las obligaciones establecidas en la presente ley, deberán implementar medidas de seguridad para la protección de niñas, niños y adolescentes, previa prestación del servicio. Para tal efecto, deberán al menos, realizar lo siguiente:
+Todas las personas prestadoras de servicios que brinden el servicio de hospedaje y estancia temporal, además de las obligaciones establecidas en la presente ley, deberán implementar medidas de seguridad para la protección de mujeres, niñas, niños y adolescentes, previa prestación del servicio. Para tal efecto, deberán al menos, realizar lo siguiente:
+
+> <small>(ADICIONADA, G.O. 4 DE ABRIL DE 2024)</small>
 
 I. Solicitar la exhibición de credencial de elector o de cualquier otro documento oficial que demuestre la mayoría de edad;
 
@@ -1180,13 +1182,13 @@ I. Solicitar la exhibición de credencial de elector o de cualquier otro documen
 
 II. Autorizar el ingreso de niñas, niños y adolescentes a las habitaciones o inmuebles de uso habitacional destinado a la prestación del servicio de hospedaje o estancia turística eventual, exclusivamente en compañía de quien acredite mediante documento idóneo tener parentesco, o ser quien ejerza la patria potestad, tutela o guarda y custodia;
 
-> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-III. Notificar a las autoridades correspondientes, en caso de advertir la posible comisión de un delito; y
+III. Dar aviso a las autoridades correspondientes, en caso de advertir la posible comisión de un delito; para tal efecto, la Secretaría de Seguridad Ciudadana comunicará mediante un folio al Ministerio Público correspondiente sobre su intervención; y
 
-> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-IV. Capacitar y sensibilizar a su personal en la prevención y rechazo de cualquier acto de abuso sexual infantil, explotación sexual infantil con o sin fines comerciales, o cualquier otro tipo de explotación, y demás conductas punibles establecidas en las disposiciones aplicables.
+IV. Capacitar y sensibilizar a su personal en la prevención, atención y erradicación de cualquier acto de violencia contra las mujeres, niñas, niños y adolescentes, abuso sexual infantil, explotación sexual infantil con o sin fines comerciales, o cualquier otro tipo de explotación, y demás conductas punibles establecidas en las disposiciones aplicables.
 
 ###### Artículo 61.
 
@@ -1208,39 +1210,69 @@ II. Identificar los inmuebles de uso habitacional donde se brinde el servicio de
 
 III. Integrar una base de datos confiable que permita a las autoridades vigilar el correcto funcionamiento en la prestación de este servicio, así como el pago de las contribuciones correspondientes de conformidad con la presente Ley y el Código Fiscal de la Ciudad de México.
 
-> <small>(ADICIONADO, G.O. 4 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 61 Ter.
 
-Son obligaciones de los Anfitriones:
+Son obligaciones de las personas anfitrionas:
+
+> <small>(ADICIONADA, G.O. 4 DE ABRIL DE 2024)</small>
 
 I. Registrase en el Padrón de Anfitriones de la Ciudad de México;
 
+> <small>(ADICIONADA, G.O. 4 DE ABRIL DE 2024)</small>
+
 II. Inscribir los inmuebles de uso habitacional que ponen a disposición de los turistas;
+
+> <small>(ADICIONADA, G.O. 4 DE ABRIL DE 2024)</small>
 
 III. Proporcionar a los turistas información clara, cierta y detallada de las características, precios y reglas de uso del inmueble ofertado;
 
+> <small>(ADICIONADA, G.O. 4 DE ABRIL DE 2024)</small>
+
 IV. Exhibir en un sitio visible del inmueble los números de emergencia de la Ciudad de México, los números de contacto para solicitar la asistencia del Anfitrión o un representante, así como la constancia y folio del inmueble otorgado por la Secretaría;
+
+> <small>(ADICIONADA, G.O. 4 DE ABRIL DE 2024)</small>
 
 V. Proporcionar semestralmente a la Secretaría, en los meses de enero y julio de cada año, un reporte del número de ocasiones en las que se han ocupado los inmuebles, la cantidad de noches ocupadas durante el periodo a reportar; proporcionar información falsa o ser omiso en la entrega de los informes de referencia, será motivo de baja del padrón;
 
+> <small>(ADICIONADA, G.O. 4 DE ABRIL DE 2024)</small>
+
 VI. Contar con instalaciones seguras e higiénicas para el uso de los turistas;
+
+> <small>(ADICIONADA, G.O. 4 DE ABRIL DE 2024)</small>
 
 VII. Informar a los vecinos inmediatos sobre el uso turístico de los inmuebles ofertados y proporcionar números de contacto para recibir reportes sobre el mal uso o situaciones de emergencia sobre dichos inmuebles;
 
+> <small>(ADICIONADA, G.O. 4 DE ABRIL DE 2024)</small>
+
 VIII. Garantizar los requisitos de seguridad, atendiendo la normatividad en materia de gestión integral de riesgos y protección civil;
 
-> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-VIII Bis. Capacitar y sensibilizar a su personal y/o prestador de servicio en la prevención y rechazo de cualquier acto de abuso sexual infantil, explotación sexual infantil con o sin fines comerciales, o cualquier otro tipo de explotación, y demás conductas punibles establecidas en las disposiciones aplicables;
+VIII Bis. Capacitar y sensibilizar con perspectiva de género y enfoque de derechos humanos a su personal y/o prestador de servicio en la prevención, atención y erradicación de cualquier acto de violencia contra las mujeres, niñas, niños y adolescentes, abuso sexual infantil, explotación sexual infantil con o sin fines comerciales, o cualquier otro tipo de explotación, y demás conductas punibles establecidas en las disposiciones aplicables;
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+Asimismo, deberá colocar en lugar visible, un cartel que contenga las medidas específicas y un número telefónico de emergencia para la prevención y atención de la violencia de género, y la información correspondiente respecto a la forma, autoridad competente y procedimiento para la presentación de denuncias relacionadas con violencia de género, trata de personas o cualquier otra conducta que requiera la intervención inmediata de las autoridades, que para tal efecto emitan la Secretaría de las Mujeres (SEMUJERES) y la Fiscalía en coordinación con otras dependencias de la Ciudad de México.
+
+> <small>(ADICIONADA, G.O. 4 DE ABRIL DE 2024)</small>
 
 IX. Cumplir con las obligaciones en materia fiscal establecidas en la normatividad aplicable;
 
+> <small>(ADICIONADA, G.O. 4 DE ABRIL DE 2024)</small>
+
 X. Registrar ante la Secretaría, en el Padrón de Anfitriones, número telefónico y correo electrónico para la recepción y solución de quejas por parte de vecinos y turistas relacionadas con el inmueble ofertado;
+
+> <small>(ADICIONADA, G.O. 4 DE ABRIL DE 2024)</small>
 
 XI. Proteger los datos personales proporcionados por los turistas en términos de lo dispuesto por la Ley de la materia;
 
+> <small>(ADICIONADA, G.O. 4 DE ABRIL DE 2024)</small>
+
 XII. Vigilar que no se ocupen las viviendas para actividades que alteren el orden público o afecten el interés social en las comunidades anfitrionas; y
+
+> <small>(ADICIONADA, G.O. 4 DE ABRIL DE 2024)</small>
 
 XIII. Las demás que se señalen en esta Ley, su Reglamento y en las demás leyes aplicables en la Ciudad de México.
 
@@ -1458,11 +1490,11 @@ El proceso de verificación se realizará conforme a (sic) Ley de Procedimiento 
 
 Las infracciones que los prestadores de servicios turísticos cometan a lo dispuesto en la Ley General y a las disposiciones que deriven de ella, serán sancionadas por la Secretaría atendiendo a los convenios de coordinación que se celebren con el Ejecutivo Federal a que se refiere la Ley General.
 
-> <small>(REFORMADO, G.O. 4 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 76.
 
-Las infracciones que los prestadores de servicios turísticos, anfitriones o plataformas tecnológicas cometan a lo dispuesto en esta Ley y a las disposiciones que deriven de ella, serán sancionados previo procedimiento sustanciado por el Instituto de Verificación Administrativa de la Ciudad de México con amonestación, multa o suspensión, de confromidad (sic) con la presente Ley y su Reglamento.
+Las infracciones que cometan las personas prestadoras de servicios turísticos, de hospedaje, anfitrionas, así como aquellas que operen a través de plataformas tecnológicas, a lo dispuesto en esta Ley y en las disposiciones que de ella deriven, serán sancionadas previo procedimiento sustanciado por el Instituto de Verificación Administrativa de la Ciudad de México, con amonestación, multa o suspensión, de conformidad con la presente Ley y su Reglamento.
 
 ###### Artículo 77.
 
@@ -1477,6 +1509,16 @@ I. Multa de 25 a 100 veces la Unidad de Cuenta de la Ciudad de México vigente, 
 II. Suspensión de 15 días naturales por segunda reincidencia a las obligaciones establecidas en el artículo 60 fracciones II, III y IV.
 
 III. No podrán participar de los incentivos, estímulos, premios y reconocimientos que otorga la Secretaría, por incumplimiento a lo dispuesto en el artículo 60.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 77 Bis.
+
+La imposición de sanciones a que se refiere el artículo 76, se aplicará a las personas prestadoras de servicios turísticos, de hospedaje, anfitrionas, así como aquellas que operen a través de plataformas tecnológicas, con base en los siguientes criterios:
+
+El incumplimiento a lo dispuesto en el artículo 60 Bis, fracciones III y IV, así como en el artículo 61 Ter, fracción VIII Bis, se sancionará con multa de 3,000 a 10,000 veces la Unidad de Medida y Actualización vigente y clausura temporal inmediata de quince a treinta días naturales.
+
+Tratándose de establecimientos mercantiles que presten servicios de hospedaje, se sancionará con clausura permanente en caso de reincidencia.
 
 > <small>(REFORMADO, G.O. 4 DE ABRIL DE 2024)</small>
 
@@ -1583,3 +1625,21 @@ Artículo Primero. Remítase el presente Decreto a la persona titular de la Jefa
 Artículo Segundo. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 Artículo Tercero. Las autoridades competentes, en un plazo no mayor a 180 días a partir de la entrada en vigor del presente Decreto, realizarán las adecuaciones reglamentarias correspondientes.
+
+G.O. 19 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LA FRACCIÓN XXV DEL ARTÍCULO 2, LAS FRACCIONES II, III Y IV DEL ARTÍCULO 23, EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 31 Y EL ARTÍCULO 64; Y SE ADICIONAN UN SEGUNDO PÁRRAFO A LA FRACCIÓN II Y LAS FRACCIONES II BIS, II TER, IV BIS Y IV TER AL ARTÍCULO 23, EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 31, EL ARTÍCULO 31 TER, EL ARTÍCULO 66 TER Y UN SEGUNDO PÁRRAFO AL INCISO A) DEL ARTÍCULO 68 DE LA LEY DE ESTABLECIMIENTOS MERCANTILES DE LA CIUDAD DE MÉXICO; SE REFORMAN EL PRIMER PÁRRAFO Y LAS FRACCIONES III Y IV DEL ARTÍCULO 60 BIS; EL PRIMER PÁRRAFO Y LA FRACCIÓN VIII BIS DEL ARTÍCULO 61 TER Y EL ARTÍCULO 76; Y SE ADICIONAN UN SEGUNDO PÁRRAFO A LA FRACCIÓN VIII BIS DEL ARTÍCULO 61 TER Y EL ARTÍCULO 77 BIS DE LA LEY DE TURISMO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor a los 120 días naturales siguientes al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. El Gobierno de la Ciudad de México realizará las adecuaciones pertinentes al Reglamento de la Ley de Establecimientos Mercantiles para la Ciudad de México y al Reglamento de la Ley de Turismo de la Ciudad de México en un plazo de 60 días naturales siguientes a la publicación del decreto en la Gaceta Oficial de la Ciudad de México.
+
+CUARTO. La Secretaría de las Mujeres y la Fiscalía General de Justicia de la Ciudad de México en coordinación con las autoridades competentes tendrán un plazo de 30 días naturales siguientes a la publicación del presente decreto para expedir y publicar “el Protocolo” al que se refiere el artículo 23, fracción IV Bis de la Ley de Establecimientos Mercantiles para la Ciudad de México.
+
+A partir de la publicación de dicho protocolo, se otorgará un plazo de 60 días naturales para que los establecimientos mercantiles puedan acreditar el cumplimiento del mismo.
+
+QUINTO. Se otorgará a los establecimientos mercantiles con giro de hospedaje un término de 195 días, contados a partir de la publicación del presente decreto, para dar cumplimiento a lo establecido en el artículo 31 Ter de la Ley de Establecimientos Mercantiles para la Ciudad de México.
+
+SEXTO. Las multas contempladas en la Ley de Establecimientos Mercantiles para la Ciudad de México donde aparece como unidad de cobro la “Unidad de Cuenta de la Ciudad de México” deberá entenderse que se refiere a la Unidad de Medida y Actualización vigente al momento de la comisión de las hipótesis previstas.
