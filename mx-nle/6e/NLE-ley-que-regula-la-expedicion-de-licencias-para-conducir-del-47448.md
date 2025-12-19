@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-regula-la-expedicion-de-licencias-para-conducir-del-474
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-30"
-last_updated: "2025-02-18"
+last_updated: "2025-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE REGULA LA EXPEDICIÓN DE LICENCIAS PARA CONDUCIR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de diciembre de 2005.
 
@@ -87,7 +87,9 @@ XI. Vehículo: Cualquier medio automotor de transporte terrestre de personas o d
 
 Son obligaciones de la Autoridad Estatal competente en materia de expedición de licencias:
 
-I. Expedir las licencias para conducir, reposiciones o renovaciones de las mismas, a las personas que así lo soliciten previo el cumplimiento de los requisitos correspondientes;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2025)</small>
+
+I. Expedir las licencias para conducir o renovaciones de las mismas, a las personas que así lo soliciten previo el cumplimiento de los requisitos correspondientes;
 
 II. Celebrar convenios, en representación del Ejecutivo del Estado, con los municipios de Nuevo León para el cumplimiento de la presente Ley;
 
@@ -205,11 +207,11 @@ Las licencias para conducir de chofer son las que se expiden a los conductores d
 
 El titular de la licencia de chofer estará facultado para conducir vehículos de acuerdo a lo mencionado en el párrafo anterior, así como para los usos señalados en el artículo 9 de la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 12.
 
-Las licencias especiales son las que se expiden a los conductores de vehículos que presten el servicio público de transporte, de acuerdo a lo dispuesto en la Ley de Transporte para la Movilidad Sustentable del Estado de Nuevo León.
+Las licencias especiales son las que se expiden a los conductores de vehículos que presten el servicio público de transporte, de acuerdo a lo dispuesto en la Ley de Movilidad Sostenible, de Accesibilidad y Seguridad Vial para el Estado de Nuevo León.
 
 El titular de la licencia especial estará facultado para conducir vehículos en la modalidad correspondiente al servicio que se señale en la licencia, así como para los usos señalados en los artículos 9º y 11 de la presente Ley.
 
@@ -217,9 +219,11 @@ El titular de la licencia especial estará facultado para conducir vehículos en
 
 La vigencia de las licencias para conducir de las personas de dieciséis años o mayores pero menores de dieciocho años en ningún caso podrá exceder de dos años. Cuando los titulares de dichas licencias cumplan los dieciocho años de edad, podrán solicitar ante la autoridad estatal competente en materia de expedición de licencias cualquiera de los otros tipos de licencia, previo cumplimiento de los requisitos correspondientes que ésta Ley señale.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 14.
 
-Para autorizar la expedición de licencias para conducir, reposición o renovación de la misma, los solicitantes, según su edad, deberán acreditar, según corresponda, lo siguiente:
+Para autorizar la expedición de licencias para conducir o renovación de la misma, los solicitantes, según su edad, deberán acreditar, según corresponda, lo siguiente:
 
 (VÉASE ARCHIVO ANEXO)
 
@@ -251,11 +255,13 @@ j) Pago de derechos estatales: Recibo oficial.
 
 Para el trámite de expedición de licencia, la acreditación de los requisitos correspondientes señalados en las fracciones I a X del presente artículo deberá realizarse ante la autoridad municipal del domicilio del solicitante. El requisito señalado en la fracción X de este artículo también se acreditará ante la autoridad estatal competente en materia de expedición de licencias así como los requisitos dispuestos en las fracciones XI y XII.
 
-En caso de trámites de reposición o renovación de las licencias para conducir, la acreditación de los requisitos señalados en el presente artículo deberá realizarse ante la autoridad estatal competente en materia de expedición de licencias.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+En caso de trámites de renovación de las licencias para conducir, la acreditación de los requisitos señalados en el presente artículo deberá realizarse ante la autoridad estatal competente en materia de expedición de licencias.
 
-Para la expedición de licencias especiales, reposición o renovación de las mismas, se deberá presentar a la autoridad estatal competente en materia de expedición de licencias la autorización de la Agencia, de acuerdo a lo dispuesto en la Ley de Transporte para la Movilidad Sustentable del Estado de Nuevo León.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2025)</small>
+
+Para la expedición de licencias especiales o renovación de las mismas, se deberá presentar a la autoridad estatal competente en materia de expedición de licencias la autorización de la Agencia, de acuerdo a lo dispuesto en la Ley de Movilidad Sostenible, de Accesibilidad y Seguridad Vial para el Estado de Nuevo León.
 
 > <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
 
@@ -267,29 +273,35 @@ El curso de manejo deberá incluir una presentación audiovisual, por medio de l
 
 Se les podrá condonar hasta el 50% de los derechos a los que hace referencia los incisos h) y j) del artículo anterior, a quien acredite la propiedad de un vehículo eléctrico o híbrido.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 15.
 
-Las licencias podrán ser renovadas hasta por dos ocasiones consecutivas cuando la autoridad estatal competente revise la Base de Datos y se desprenda de esta que el conductor no tiene impedimento judicial o administrativo para conducir vehículos.
+Las licencias podrán ser renovadas siempre que la autoridad estatal competente revise la Base de Datos y se desprenda de esta que el conductor no tiene impedimento judicial o administrativo para conducir vehículos.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 19 DE DICIEMBRE DE 2025)</small>
 
-El conductor deberá acreditar los requisitos que señala el artículo 14 fracciones VII, IX y XI de la presente Ley, y en el caso de licencias especiales acreditar además los requisitos que establece la Ley de Transporte para la Movilidad Sustentable del Estado y su Reglamento, cuando:
+El conductor deberá acreditar los requisitos que señala el artículo 14 fracciones VII, IX y XI de la presente Ley, y en el caso de licencias especiales acreditar además los requisitos que establece la Ley de Movilidad Sostenible, de Accesibilidad y Seguridad Vial para el Estado de Nuevo León y su Reglamento, cuando su registro indique:
 
-I. Pierda la consecutividad de la renovación;
+I. La comisión de dos o más infracciones consideradas como graves según la normativa de vialidad y tránsito de cada municipio; o
 
-II. Realice las dos renovaciones consecutivas, o
+II. Pierda la consecutividad de la renovación en los registros de la Autoridad Estatal;
 
-III. Su registro indique la comisión de infracciones consideradas como graves conforme a las disposiciones establecidas en las Leyes o Reglamentos.
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2025)</small>
+
+Para el cumplimiento de la presente disposición, la Autoridad Estatal contará con un Padrón de Conductores Infractores, el cual será integrado por la información de las infracciones cometidas por los conductores que circulan en el Estado de Nuevo León, misma que deberá ser compartida por la Autoridad Municipal.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 16.
 
-La autoridad estatal competente en materia de expedición de licencias podrá verificar la información proporcionada para los trámites señalados en el artículo 14 de esta Ley, conforme a los sistemas y procedimientos informáticos que resulten aplicables y, en su caso, solicitará las aclaraciones pertinentes. En los casos en que la autoridad estatal competente en materia de expedición de licencias detecte que la información proporcionada para el trámite de licencia, reposición o renovación de la misma es falsa, procederá a dar parte al Ministerio Público para los efectos legales que procedan.
+La autoridad estatal competente en materia de expedición de licencias podrá verificar la información proporcionada para los trámites señalados en el artículo 14 de esta Ley, conforme a los sistemas y procedimientos informáticos que resulten aplicables y, en su caso, solicitará las aclaraciones pertinentes. En los casos en que la autoridad estatal competente en materia de expedición de licencias detecte que la información proporcionada para el trámite de licencia o renovación de la misma es falsa, procederá a dar parte al Ministerio Público para los efectos legales que procedan.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 17.
 
-En los casos de extravío o robo de la licencia, se podrá solicitar reposición de la misma ante la autoridad estatal competente en materia de expedición de licencias, mediante la acreditación del requisito que señala el Artículo 14 fracción XI de esta Ley y en el caso de licencias especiales acreditar además los requisitos que establece la Ley de Transporte para la Movilidad Sustentable del Estado y su reglamento.
+En los casos de extravío o robo de la licencia, se podrá solicitar la renovación de la misma ante la autoridad estatal competente en materia de expedición de licencias, mediante la acreditación del requisito que señala el Artículo 14 fracción XI de esta Ley y en el caso de licencias especiales acreditar además los requisitos que establece la Ley de Movilidad Sostenible, de Accesibilidad y Seguridad Vial para el Estado de Nuevo León y su reglamento.
 
 ###### Artículo 18.
 
@@ -329,9 +341,9 @@ b) Número de licencia; y
 
 c) Tipo de licencia, de acuerdo a lo dispuesto en el artículo 8º de la presente Ley.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2025)</small>
 
-En el caso de las licencias especiales se deberá incluir el tipo de vehículo y la modalidad de servicio que se autoriza a prestar de acuerdo a lo dispuesto en la Ley de Transporte para la Movilidad Sustentable del Estado de Nuevo León.
+En el caso de las licencias especiales se deberá incluir el tipo de vehículo y la modalidad de servicio que se autoriza a prestar de acuerdo a lo dispuesto en la Ley de Movilidad Sostenible, de Accesibilidad y Seguridad Vial para el Estado de Nuevo León.
 
 La calidad de donador de órganos o tejidos se registrará en la licencia siempre y cuando el titular de la misma así lo autorice voluntaria y expresamente mediante un formulario que le proporcionará la autoridad estatal competente en materia de expedición de licencias.
 
@@ -556,3 +568,9 @@ P.O. 18 DE FEBRERO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 074. SE REFORMAN LAS FRACCIONES I, VI, XI Y XVI DEL ARTÍCULO 3, LA FRACCIÓN IV DEL ARTÍCULO 4, LAS FRACCIONES VI Y XI DEL ARTÍCULO 11, EL ARTÍCULO 12, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 17, EL ARTÍCULO 18, EL ARTÍCULO 20, PRIMER PÁRRAFO DEL ARTÍCULO 21, FRACCIONES IX DEL ARTÍCULO 23, PÁRRAFOS PRIMERO, SEGUNDO Y CUARTO DEL ARTÍCULO 25, Y SE ADICIONAN LAS FRACCIONES XVII Y XVIII DEL ARTÍCULO 3, FRACCIÓN VIII DEL ARTÍCULO 4, LAS FRACCIONES XII Y XIII DEL ARTÍCULO 11, LAS FRACCIONES X Y XI DEL ARTÍCULO 23, UN PÁRRAFO QUINTO DEL ARTÍCULO 25, Y UN ARTÍCULO VIGÉSIMO CUARTO TRANSITORIO; TODOS DE LA LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA POR MODIFICACIÓN EL INCISO A), B) Y C) DE LA FRACCIÓN I DEL ARTÍCULO 8 DE LA LEY QUE REGULA LA EXPEDICIÓN DE LICENCIAS PARA CONDUCIR DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO. El presente Decreto entrará en vigor el 01 de enero del año 2025.
+
+P.O. 19 DE DICIEMBRE DE 2025
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 179. SE REFORMAN LOS ARTÍCULOS, 18 PRIMER Y SEGUNDO PÁRRAFOS; 21 PRIMER PÁRRAFO; 23 FRACCIÓN XI; 32 BIS; Y SE ADICIONA UN ARTÍCULO VIGÉSIMO QUINTO TRANSITORIO; TODOS DE LA LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN; Y SE REFORMAN LOS ARTÍCULOS 4 FRACCIÓN I, 12 PRIMER PÁRRAFO; 14 PRIMERO, CUARTO Y QUINTO PÁRRAFOS; 15 PRIMERO Y SEGUNDO PÁRRAFOS; 16; 17 Y 18 SEGUNDO PÁRRAFO; Y SE ADICIONA AL ARTÍCULO 15 CON UN TERCER PÁRRAFO; TODOS DE LA LEY QUE REGULA LA EXPEDICIÓN DE LICENCIAS PARA CONDUCIR DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO. El presente Decreto entrará en vigor el 01 de enero del año 2026.
