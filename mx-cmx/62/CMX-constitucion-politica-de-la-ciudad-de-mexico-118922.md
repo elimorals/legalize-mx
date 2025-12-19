@@ -4,7 +4,7 @@ identifier: "CMX-constitucion-politica-de-la-ciudad-de-mexico-118922"
 country: "mx"
 rank: "constitucion"
 publication_date: "2017-02-05"
-last_updated: "2025-08-27"
+last_updated: "2025-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118922&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-02-05"
 
 CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE DICIEMBRE DE 2025.
 
 Constitución publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación y en el Número 1 de la Gaceta Oficial de la Ciudad de México, el domingo 5 de febrero de 2017.
 
@@ -305,6 +305,10 @@ E. Derecho a la privacidad y a la protección de los datos personales
 > <small>(REFORMADO, G.O. 2 DE JUNIO DE 2022)</small>
 
 4. Toda persona tiene derecho al acceso, rectificación, cancelación y portabilidad de sus datos personales, así como a manifestar su oposición respecto del tratamiento de estos, en los términos que disponga la ley. Su manejo se regirá por los principios de veracidad, licitud, consentimiento, información, calidad, finalidad, lealtad, proporcionalidad y responsabilidad.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+5. La defensa y garantía del derecho de acceso a la información pública, privacidad y protección de datos personales en posesión de sujetos obligados, estará a cargo de la Secretaría de la Contraloría General de la Ciudad de México a través del órgano desconcentrado que para tal efecto prevea la ley, así como de las autoridades garantes que corresponda.
 
 F. Derecho a un gobierno democrático y a la participación política paritaria
 
@@ -2982,7 +2986,7 @@ b) Comisión de Derechos Humanos de la Ciudad de México;
 
 c) Fiscalía General de Justicia;
 
-d) Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales;
+d) (DEROGADO, G.O. 19 DE DICIEMBRE DE 2025)
 
 e) Instituto Electoral de la Ciudad de México;
 
@@ -3074,25 +3078,9 @@ l) Rendir informes anuales ante el Congreso y la sociedad sobre sus actividades 
 
 m) Las demás que determinen esta Constitución y la ley.
 
-Artículo 49
+###### ARTÍCULO 49.
 
-Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales.
-
-1. Es el organismo garante de los derechos de acceso a la información pública y la protección de datos personales, y su titularidad estará a cargo de cinco personas comisionadas. En su funcionamiento se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
-
-2. Las comisionadas y comisionados deberán ser ciudadanos mexicanos con reconocido prestigio en los sectores público y social, así como en los ámbitos académico y profesional, con experiencia mínima de cinco años en las materias de derecho a la información y de protección de datos personales, y que no pertenezcan o militen en algún partido político o hayan sido candidatas o candidatos a ocupar un cargo de elección popular, durante los cuatro años anteriores al día de su designación. La o el presidente del Instituto será designado por las y los propios comisionados mediante voto secreto, por un periodo de tres años, sin posibilidad de reelección, ya sea sucesiva o alternada.
-
-3. El pleno del Instituto será la instancia responsable de conocer y resolver los recursos de revisión interpuestos por los particulares en contra de las resoluciones tomadas por los sujetos obligados a la transparencia: Poderes Legislativo, Ejecutivo y Judicial de la Ciudad; organismos autónomos, partidos políticos, fideicomisos y fondos públicos, así como cualquier persona física, moral o sindicatos que reciban y ejerzan recursos públicos o realicen actos de autoridad en el ámbito de la Ciudad.
-
-La interposición de estos recursos se hará en los términos que establezcan las leyes, así como las medidas de apremio y sanciones aplicables. Las resoluciones que tome el pleno del órgano garante serán vinculatorias, definitivas e inatacables para los sujetos obligados.
-
-4. Toda autoridad y persona servidora pública estará obligada a coadyuvar con el órgano garante para el buen desempeño de sus funciones.
-
-5. Cuando una mayoría de las personas comisionadas lo apruebe, el organismo garante podrá interponer acciones de inconstitucionalidad contra disposiciones normativas que vulneren los derechos de acceso a la información pública en la Ciudad de México.
-
-6. El organismo podrá emitir recomendaciones y proponer reglas modelo a los diversos órganos del poder público en materia de tecnologías de gobierno y de sus posibles afectaciones a la privacidad de los particulares.
-
-7. La falta de cumplimiento de las resoluciones del pleno del Instituto, será causa de responsabilidad administrativa para las personas servidoras públicas responsables. Para lo anterior, el Instituto promoverá las acciones que correspondan ante las autoridades competentes.
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2025)
 
 Artículo 50
 
@@ -4092,9 +4080,9 @@ Del Sistema Anticorrupción de la Ciudad de México
 
 1. La Ciudad de México contará con un Sistema Anticorrupción, instancia de coordinación de las autoridades competentes en la prevención, detección, investigación y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-2. El Sistema Anticorrupción contará con un Comité Coordinador, conformado por las personas titulares de la entidad de fiscalización, de la Fiscalía Especializada en Combate a la Corrupción; del Tribunal de Justicia Administrativa, del Instituto de Transparencia y Acceso a la Información, del Consejo de Evaluación, del órgano de control del Congreso y de la secretaría encargada del control interno, todos de la Ciudad de México; así como por un representante del Tribunal de Disciplina Judicial y por un representante del Comité de Participación Ciudadana del Sistema, quien lo presidirá.
+2. El Sistema Anticorrupción contará con un Comité Coordinador, conformado por las personas titulares de la entidad de fiscalización, de la Fiscalía Especializada en Combate a la Corrupción; del Tribunal de Justicia Administrativa, del Consejo de Evaluación, del órgano de control del Congreso y de la Secretaría de la Contraloría General, todos de la Ciudad de México; así como por un representante del Tribunal de Disciplina Judicial y por un representante del Comité de Participación Ciudadana del Sistema, quien lo presidirá.
 
 Corresponderá al Comité Coordinador del Sistema, sin perjuicio de las facultades otorgadas a cada uno de los órganos que lo integran:
 
@@ -4909,3 +4897,35 @@ G.O. 27 DE AGOSTO DE 2025.
 PRIMERO. Remítase el presente decreto a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 19 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA EL NUMERAL 5 DEL APARTADO E) DEL ARTÍCULO 7; SE DEROGAN EL INCISO D) DEL APARTADO A) DEL ARTÍCULO 46; Y EL ARTÍCULO 49; Y SE REFORMA EL NUMERAL 2 DEL ARTÍCULO 63, TODOS DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+La derogación del inciso D) del apartado A) del artículo 46 y del artículo 49, la reforma del numeral 2, del artículo 63, así como la adición del numeral 5 del Apartado E del artículo 7, todos de la Constitución Política de la Ciudad de México, entrarán en vigor hasta que sea expedida la legislación a la que hace referencia el Tercer Transitorio de este Decreto.
+
+TERCERO. El Congreso de la Ciudad de México tendrá un plazo máximo de ciento ochenta días naturales para realizar las adecuaciones necesarias a las leyes que correspondan para dar cumplimiento a este decreto.
+
+CUARTO. A partir de la entrada en vigor de la legislación a la que hace referencia el Segundo Transitorio, las funciones del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México serán asumidas por la Secretaría de la Contraloría General de la Ciudad de México, a través del órgano desconcentrado que para tal efecto prevea la ley, así como a las autoridades garantes que corresponda.
+
+Los recursos humanos, financieros, materiales y tecnológicos, así como los registros, padrones, plataformas y sistemas electrónicos del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México pasarán a formar parte de la Secretaría de la Contraloría General a través del órgano desconcentrado que para tal efecto prevea la ley y de las autoridades garantes que corresponda, en los términos del presente Decreto y de la legislación secundaria que al efecto se emita.
+
+Los asuntos en trámite al momento de entrar en vigor la legislación secundaria serán concluidos por la Secretaría de la Contraloría General a través del órgano desconcentrado que para tal efecto prevea la ley y por las autoridades garantes que corresponda, conforme a la normatividad aplicable y sin menoscabo de los derechos de las personas promoventes.
+
+QUINTO. Los derechos laborales de las personas servidoras públicas serán respetados en términos de la legislación aplicable. Los recursos humanos con que cuente el Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, a partir de la entrada en vigor de la legislación a la que hace referencia el Segundo transitorio, pasarán a formar parte de la Secretaría de la Contraloría General a través del órgano desconcentrado que para tal efecto prevea la ley y de las autoridades garantes que corresponda.
+
+SEXTO. Con la entrada en vigor del presente Decreto se suspenderán los plazos con los que contaba el Pleno del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad para resolver los asuntos de su competencia hasta en tanto entre en vigor la legislación a la que hace referencia el Tercer Transitorio.
+
+SÉPTIMO. Todas las menciones que en los textos normativos se haga a la Secretaría de la Contraloría General del Distrito Federal, a la Secretaría encargada del órgano de control interno o sus equivalentes, se entenderán referidas a la Secretaría de la Contraloría General de la Ciudad de México.
+
+OCTAVO: El Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, en coordinación con la Secretaría de la Contraloría General llevará a cabo los actos administrativos necesarios para realizar la transferencia de los recursos materiales, presupuestales, financieros y capital humano a la Secretaría de la Contraloría General a través del órgano administrativo desconcentrado que para tal efecto prevea la ley.
+
+La Secretaría de Administración y Finanzas determinará lo conducente para que el Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México lleve a cabo la transferencia de los recursos remanentes a la Secretaría de la Contraloría General, autorizados.
+
+NOVENO: Las obligaciones que en su caso se generen con motivo de la entrada en vigor del presente Decreto se cubrirán mediante movimientos compensados conforme a las disposiciones jurídicas aplicables con cargo al presupuesto autorizado a las Unidades Responsables del Gasto, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes.
+
+DÉCIMO. Con excepción de las disposiciones a que hace referencia el segundo párrafo del segundo transitorio de este Decreto, se derogan todas las disposiciones que se opongan al presente.
