@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-civil-para-el-estado-de-coahuila-de-74938"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-14"
-last_updated: "2025-12-12"
+last_updated: "2025-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74938&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 14 de mayo de 2010.
 
@@ -601,6 +601,10 @@ Asimismo, la Subsecretaría será competente para inspeccionar a todos los estab
 
 l) Instalaciones donde se desarrollan de manera temporal, las actividades, cursos o campamentos de verano, independientemente que dichas instalaciones cuenten con el dictamen de seguridad y operación de otro giro.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2025)</small>
+
+m) Los anteriores establecimientos, edificaciones, inmuebles y/o cualquier otro que por sus características y magnitudes sean similares, que cuenten con elevadores o plataformas destinadas al transporte de personas.
+
 X. Auxiliar, previa solicitud de los ayuntamientos, en las acciones que realicen para la atención de emergencias y desastres;
 
 XI. Coordinar sus acciones con las autoridades federales, de otras entidades federativas y municipales, así como con grupos voluntarios y, en general, con los sectores social y privado, para prevenir y controlar situaciones de emergencias o desastres;
@@ -675,9 +679,11 @@ XXXVI. Verificar que las personas físicas o morales, cuya actividad sea la fabr
 
 XXXVII. Emitir protocolos especiales de actuación en materia de prevención y atención de siniestros, ocasionados por la instalación y/o funcionamiento de juegos mecánicos dentro de una kermés, independientemente que dichas instalaciones cuenten con el dictamen de seguridad y operación de otro giro, y en su caso, aplicar las medidas y/o sanciones, que considere adecuadas; y
 
-> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE DICIEMBRE DE 2025)</small>
 
-XXXVIII. Las demás que establezcan la presente ley y otras disposiciones aplicables.
+XXXVIII. Prestar el apoyo con la vigilancia, inspección y capacitación para la actuación ante siniestros, emergencias o accidentes en inmuebles, edificaciones o establecimientos que cuenten con elevadores, plataformas, ascensores o cualquier mecanismo destinado al transporte de personas.
+
+XXXIX. Las demás que establezcan la presente Ley y otras disposiciones aplicables.
 
 ###### ARTÍCULO 13.
 
@@ -750,6 +756,10 @@ n) Granjas para ganadería, porcicultura, avicultura, cunicultura y apicultura;
 ñ) Centrales de correos, teléfonos, telégrafos, estaciones y torres de radio, televisión y sistemas de microondas, y
 
 o) Aquellos en los que la Subsecretaría le solicite apoyo al municipio en tareas de inspección.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2025)</small>
+
+p) Los anteriores establecimientos, edificaciones, inmuebles y/o cualquier otro que por sus características y magnitudes sean similares, que cuenten con elevadores o plataformas destinadas al transporte de personas.
 
 > <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2017)</small>
 
@@ -969,9 +979,13 @@ XV. Dar aviso a la autoridad en caso de realizar un cambio de domicilio, nombre 
 
 XVI. Cuando se trate de una kermés, deberán presentar previo a su realización, el protocolo especial de actuación en materia de prevención y atención de siniestros, ocasionados por la instalación y/o funcionamiento de juegos mecánicos, ante las autoridades de protección civil que corresponda, para su revisión y en su caso aprobación, conforme a las atribuciones contempladas en los artículos 12 y 13 de esta Ley. El contenido del protocolo estará previsto en las disposiciones reglamentarias que para tal efecto se emitan.
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE DICIEMBRE DE 2025)</small>
 
-XVII. Las demás que establezcan la presente ley y otras disposiciones aplicables.
+XVII. Cuando se contemple la construcción, instalación y funcionamiento de ascensores, elevadores o plataformas destinadas al transporte de personas, deberá comprobar la capacitación con que cuenta el personal adecuado para su operación, prevención y la atención de cualquier siniestro, emergencia o accidente relativo a este.
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XVII], P.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XVIII. Las demás que determinen la presente Ley, las autoridades competentes y otras disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2017)</small>
 
@@ -1117,9 +1131,11 @@ Toda persona que se instale en un lugar sujeto a restricciones especiales, confo
 
 Tal presunción no podrá ser invocada por una autoridad pública, si ésta autorizó la instalación en el lugar sin informar a la persona del riesgo. Esto no implica que la autoridad deje de prestar el auxilio correspondiente en caso de emergencia o desastre.
 
-###### ARTÍCULO 30.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2025)</small>
 
-Los administradores, gerentes, poseedores, arrendatarios o propietarios de inmuebles que, por su propia naturaleza o por el uso a que sean destinados, reciban una afluencia permanente de personas, están obligados a preparar un programa específico de protección civil, conforme a las disposiciones de la presente ley y las que de ella deriven.
+###### Artículo 30.
+
+Los administradores, gerentes, poseedores, arrendatarios o propietarios de inmuebles que, por su propia naturaleza, por usar elevadores o plataformas destinadas al transporte de personas o por el uso a que sean destinados, reciban una afluencia permanente de personas, están obligados a preparar un programa específico de protección civil, conforme a las disposiciones de la presente Ley, las leyes y disposiciones federales aplicables y las que de todas estas deriven.
 
 Asimismo, deberán orientar a los usuarios del inmueble sobre métodos y acciones para evitar o minimizar los daños en caso de que se presenten emergencias o desastres.
 
@@ -1150,6 +1166,16 @@ I. Instalar detectores de monóxido de carbono y extractores de humo en las coch
 II. Colocar en lugares visibles señalización en donde se advierta que se debe apagar el motor del vehículo debido a que puede causar muerte por inhalación de monóxido de carbono; y
 
 III. Verificar que los vehículos estacionados en el interior de las cocheras cerradas adjuntas a las habitaciones estén completamente apagados.
+
+> <small>(ADICIONADO,[N. DE E. CON LAS FRACCIONES QUE LO INTEGRAN] P.O. 19 DE DICIEMBRE DE 2025)</small>
+
+Artículo 33 B.- Los inmuebles, edificaciones y demás establecimientos que cuenten con elevadores o plataformas destinadas al transporte de personas, deberán, además de lo dispuesto por esta Ley, implementar las siguientes medidas de prevención y atención en materia de protección civil:
+
+I. Designar una persona capacitada, certificada y en constante preparación, exclusivamente para el mantenimiento, atención y operación del equipo y sus funciones;
+
+II. Tener una línea de contacto directa e inmediata con la empresa proveedora del elevador o plataforma de traslado, con los servicios médicos, así como con las autoridades de seguridad pública y protección civil correspondientes al lugar; y
+
+III. Verificar diariamente las condiciones físicas, técnicas y operativas del elevador o plataforma de traslado.
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
 
@@ -1685,6 +1711,10 @@ El inspector deberá comprobar si el establecimiento cuenta con los programas de
 
 Tratándose de centros educativos y de salud, deberá verificar el cumplimiento de los planes de contingencia de disturbios.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2025)</small>
+
+Tratándose de inmuebles, edificaciones o establecimientos que cuenten con elevadores o plataformas destinadas al transporte de personas, deberá realizar una prueba mecánica de estos, así como proceder al requerimiento de los documentos oficiales para su funcionamiento.
+
 ###### ARTÍCULO 83.
 
 En el caso de obstaculización u oposición a la práctica de la visita, la autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuarla, sin perjuicio de que se apliquen las sanciones que correspondan.
@@ -2046,3 +2076,15 @@ P.O. 12 DE DICIEMBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 19 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 329.- "SE REFORMA LA FRACCIÓN XXXVIII RECORRIENDO LA ACTUAL A LA FRACCIÓN XXXIX DEL ARTÍCULO 12, LA FRACCIÓN XVII RECORRIENDO LA ACTUAL A LA FRACCIÓN XVIII DEL ARTÍCULO 26 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 30 Y SE ADICIONA EL INCISO M) A LA FRACCIÓN IX DEL ARTÍCULO 12, EL INCISO P) A LA FRACCIÓN XV DEL ARTÍCULO 13, EL ARTÍCULO 33 B Y UN TERCER PÁRRAFO AL ARTÍCULO 82, TODOS ESTOS DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación.
