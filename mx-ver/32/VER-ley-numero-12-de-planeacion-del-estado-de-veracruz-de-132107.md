@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-12-de-planeacion-del-estado-de-veracruz-de-132107"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-28"
-last_updated: "2018-12-28"
+last_updated: "2025-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132107&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 12 DE PLANEACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 28 de diciembre de 2018.
 
@@ -343,7 +343,9 @@ III. Elaborar y, una vez aprobado, entregar copia al Titular de la Subsecretarí
 
 IV. Convenir con el Ejecutivo del Estado, su participación en el proceso de planeación del desarrollo, de acuerdo con lo establecido en esta Ley;
 
-V. Remitir el Programa de Desarrollo Metropolitano Municipal a la Comisión Permanente de Desarrollo Metropolitano del Congreso del Estado, para su conocimiento, opinión y observaciones; sin perjuicio de las facultades que en la materia correspondan a la autoridad competente en materia territorial y ambiental;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+V. Remitir el Programa de Desarrollo Metropolitano Municipal al Congreso del Estado, para su conocimiento, opinión y observaciones; sin perjuicio de las facultades que en la materia correspondan a la autoridad competente en materia territorial y ambiental;
 
 VI. Publicar y ejecutar, previa aprobación del Cabildo, su Programa de Desarrollo Metropolitano Municipal, y
 
@@ -533,9 +535,11 @@ El Gobernador del Estado, al enviar a la Legislatura del Estado las iniciativas 
 
 ### CAPÍTULO VI. PLANES MUNICIPALES DE DESARROLLO Y SUS PROGRAMAS
 
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 44.
 
-Los planes municipales de desarrollo de cada uno de los municipios del Estado deberán tener una visión estratégica integral para el desarrollo sostenible a mediano y largo plazo, armonizados con las estrategias estatales, nacionales e internacionales. Su elaboración o, en su caso, actualización, aprobación y publicación tendrá un plazo improrrogable de cuatro meses, contado a partir de la fecha de la toma de posesión de los Ayuntamientos respectivos. Antes de su publicación en la Gaceta Oficial, los Municipios remitirán su plan municipal de desarrollo o la actualización a la mitad de su periodo constitucional al Congreso del Estado.
+Los planes municipales de desarrollo de cada uno de los municipios del Estado deberán tener una visión estratégica integral para el desarrollo sostenible a mediano y largo plazo, armonizados con las estrategias estatales, nacionales e internacionales. Su elaboración y entrega al Congreso del Estado se hará dentro de los primeros cuatro meses, posteriores a la fecha de la toma de posesión de los Ayuntamientos respectivos. Una vez finalizado dicho plazo, el Congreso del Estado, dentro de los dos meses siguientes, procederá a su estudio, análisis y aprobación.
 
 ###### ARTÍCULO 45.
 
@@ -543,11 +547,11 @@ El Plan Municipal contendrá el diagnóstico, objetivos, estrategias, indicadore
 
 Los programas que se deriven del Plan Municipal deberán realizarse conforme a la metodología que implica la Gestión para Resultados. En caso de incumplimiento de la ejecución de cualquiera de las obligaciones a realizar dentro del mismo, se estará a lo dispuesto por el régimen de responsabilidades aplicable.
 
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 46.
 
-El Plan Municipal de Desarrollo deberá revisarse y, en su caso, actualizarse de acuerdo con las nuevas realidades del municipio a la mitad de su periodo constitucional, con base a los resultados obtenidos en sus indicadores estratégicos y de gestión, con el seguimiento y evaluación realizados al mismo o cuando haya actualizaciones en el Plan Veracruzano de Desarrollo.
-
-Tratándose de las actualizaciones a que refiere el párrafo anterior, deberán informarse al COPLADEB, en los plazos señalados en la presente Ley.
+El Plan Municipal de Desarrollo deberá revisarse y, en su caso, actualizarse de acuerdo con las nuevas realidades del municipio, con base a los resultados obtenidos en sus indicadores estratégicos y de gestión, con el seguimiento y evaluación realizados al mismo o cuando haya actualizaciones en el Plan Veracruzano de Desarrollo. La actualización del instrumento de planeación deberá informarse al Congreso del Estado y al COPLADEB, en un plazo de quince días hábiles posteriores a su aprobación por el Cabildo.
 
 ###### ARTÍCULO 47.
 
@@ -706,3 +710,13 @@ Cuitláhuac García Jiménez
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 19 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 494 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PLANEACIÓN Y DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, AMBAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto iniciará su vigencia el día de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto
