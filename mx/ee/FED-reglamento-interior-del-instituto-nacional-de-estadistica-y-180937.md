@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-nacional-de-estadistica-y-180
 country: "mx"
 rank: "reglamento"
 publication_date: "2025-07-31"
-last_updated: "2025-07-31"
+last_updated: "2025-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180937&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2025-07-22"
 
 REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2025.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 31 de julio de 2025.
 
@@ -199,7 +199,13 @@ a) Diez Direcciones Regionales, las cuales operarán en la sede y con competenci
 
 XII. Coordinación General de Estrategia Digital, y
 
-XIII. Coordinación General de Medición de Pobreza y Evaluación Integral de la Política de Desarrollo Social.
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O.F. 19 DE DICIEMBRE DE 2025)</small>
+
+XIII. Dirección General de Evaluación y Medición de Pobreza:
+
+a) Dirección General Adjunta de Evaluación Integral de la Política de Desarrollo Social, y
+
+b) Dirección General Adjunta de Medición de Pobreza.
 
 El Instituto contará, además, con las áreas y las personas servidoras públicas a que hace referencia el artículo 14 de este Reglamento, cuyas atribuciones deberán contenerse y especificarse en los Manuales de Organización de las unidades administrativas del Instituto.
 
@@ -2321,33 +2327,91 @@ VII. Acordar con la Dirección General de Informática la priorización de las s
 
 VIII. Las facultades que expresamente le otorga el artículo 13 de este Reglamento a su titular.
 
-### Capítulo XX. De la Coordinación General de Medición de Pobreza y Evaluación Integral de la Política de Desarrollo Social
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE DICIEMBRE DE 2025)</small>
+
+### Capítulo XX. De la Dirección General de Evaluación y Medición de Pobreza
+
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 57.
 
-Son atribuciones específicas de la Coordinación General de Medición de Pobreza y Evaluación Integral de la Política de Desarrollo Social, las siguientes:
+Son atribuciones específicas de la Dirección General de Evaluación y Medición de Pobreza, las siguientes:
 
-I. Coordinar la programación y los procesos de diseño, captación, actualización, organización, procesamiento, integración y compilación de información para medición de pobreza, conforme a las metodologías que se definan, así como realizar estudios e investigaciones en la materia;
+I. Coordinar y supervisar la programación y los procesos de diseño, captación, actualización, organización, procesamiento, integración y compilación de información para la evaluación integral de la política de desarrollo social y medición de pobreza, así como realizar estudios e investigaciones en la materia, en los términos establecidos en la LGDS;
 
 II. Coordinar la evaluación integral de la Política de Desarrollo Social conforme a las disposiciones legales y normativas aplicables;
 
-III. Elaborar y actualizar lineamientos y criterios técnicos para definición, identificación y medición de la pobreza, en los términos que establece el artículo 36 de la LGDS;
+III. Elaborar y actualizar lineamientos y criterios técnicos para la definición, identificación y medición de pobreza, en los términos que establece el artículo 36 de la LGDS;
 
-IV. Proponer los lineamientos, criterios y metodologías para la evaluación integral de la Política de Desarrollo Social;
+IV. Proponer a la Presidencia del Instituto los lineamientos, criterios y metodologías para la evaluación integral de la Política de Desarrollo Social y medición de pobreza;
 
-V. Definir las temáticas y metodologías de evaluación integral de la Política de Desarrollo Social, que serán puestas a consulta a los sectores público social y privado, y analizar, en su caso, la procedencia de las propuestas;
+V. Definir las temáticas de la evaluación integral de la Política de Desarrollo Social y, coordinar los procesos de consulta con los sectores público, social y privado y, en su caso, analizar la procedencia de las propuestas;
 
-VI. Proponer los requerimientos mínimos de experiencia y solidez de las instituciones evaluadoras externas, en materia de la Política de Desarrollo Social, así como coordinar las actividades que éstas realicen por encargo del Instituto;
+VI. Proponer los mecanismos de aseguramiento de la calidad y los requerimientos mínimos de experiencia y solidez de las instituciones evaluadoras externas en materia de la Política de Desarrollo Social, así como coordinar las actividades que éstas realicen por encargo del Instituto;
 
-VII. Requerir a las dependencias federales, entidades federativas y municipios la información necesaria para llevar a cabo medición de pobreza, así como la evaluación integral de la Política de Desarrollo Social;
+VII. Requerir a las dependencias federales, entidades federativas y municipios la información necesaria para llevar a cabo las funciones de la evaluación integral de la Política de Desarrollo Social;
 
-VIII. Establecer acuerdos y convenios con las autoridades de desarrollo social federales, de entidades federativas, municipios y demarcaciones territoriales y, en su caso, con organizaciones de los sectores social, privado y académico, así como organismos internacionales para promover la evaluación integral de la Política de Desarrollo Social;
+VIII. Establecer acuerdos y convenios con las autoridades de desarrollo social federales, de entidades federativas, municipios y demarcaciones territoriales y, en su caso, con organizaciones de los sectores social, privado y académico, así como organismos internacionales para promover la evaluación integral de la Política de Desarrollo Social y la utilización de la información derivada de medición de pobreza;
 
 IX. Definir los criterios técnicos que orienten la determinación de las zonas de atención prioritaria;
 
-X. Integrar la propuesta de programa anual, así como el informe de los resultados de medición de pobreza y la evaluación integral de la Política de Desarrollo Social, que el Instituto está obligado a rendir en términos de lo dispuesto por la LGDS, y
+X. Integrar la propuesta de programa anual, así como los informes de resultados de medición de pobreza y de la evaluación integral de la Política de Desarrollo Social, que el Instituto está obligado a rendir en términos de lo dispuesto por la LGDS, y
 
 XI. Las facultades que expresamente le otorga el artículo 13 de este Reglamento a su titular.
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2025)</small>
+
+###### ARTÍCULO 57 Bis.
+
+Son atribuciones específicas de la Dirección General Adjunta de Evaluación Integral de la Política de Desarrollo Social, las siguientes:
+
+I. Dirigir las actividades y procesos de planeación, programación, diseño, recopilación, actualización, organización, procesamiento, integración, armonización, compilación, validación, evaluación y análisis de información para la evaluación integral de la Política de Desarrollo Social;
+
+II. Realizar las propuestas de lineamientos, criterios y metodologías para la evaluación integral de la Política de Desarrollo Social;
+
+III. Verificar la realización de actividades y el cumplimiento de las disposiciones en materia de evaluación por parte de las instituciones evaluadoras externas;
+
+IV. Dirigir la consulta y el análisis de las propuestas de los sectores público, social y privado para identificar los requerimientos de la evaluación integral de la Política de Desarrollo Social;
+
+V. Gestionar con las dependencias federales, entidades federativas y municipios la transferencia de la información necesaria para llevar a cabo la evaluación integral de la Política de Desarrollo Social;
+
+VI. Promover el uso de la información en materia de evaluación integral de la Política de Desarrollo Social por parte de las personas responsables de impulsar la Política de Desarrollo Social, contribuyendo en la construcción de evidencia para el diseño, implementación, evaluación y seguimiento de la Política de Desarrollo Social, en los tres niveles de gobierno;
+
+VII. Diseñar criterios y establecer medidas para el tratamiento de la información para la evaluación integral de la Política de Desarrollo Social, así como establecer los mecanismos necesarios para asegurar la calidad de la evaluación;
+
+VIII. Proporcionar la asistencia técnica y la colaboración con las personas responsables e involucradas con la Política de Desarrollo Social, para favorecer la comprensión y el uso adecuado de la información generada por el Instituto, y
+
+IX. Las facultades que expresamente le otorga a su titular el artículo 15 de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2025)</small>
+
+###### ARTÍCULO 57 Ter.
+
+Son atribuciones específicas de la Dirección General Adjunta de Medición de Pobreza, las siguientes:
+
+I. Dirigir las actividades de programación, actualización, organización, procesamiento, integración y compilación de información para medición de pobreza, en los términos establecidos en la LGDS;
+
+II. Desarrollar conceptos, definiciones, clasificaciones, nomenclaturas, abreviaturas, identificadores, directorios, símbolos y demás elementos que permitan garantizar la homogeneidad y comparación de la información para medición de pobreza;
+
+III. Realizar las propuestas de lineamientos y criterios técnicos para la definición, identificación y medición de pobreza, en los términos que establecen los artículos 36 y 37 de la LGDS;
+
+IV. Realizar la estimación y el análisis de los resultados de medición de pobreza;
+
+V. Dirigir estudios e investigaciones en materia de medición de pobreza;
+
+VI. Desarrollar técnicas y metodologías para la generación de estadísticas e indicadores sobre medición de pobreza;
+
+VII. Realizar la propuesta de criterios técnicos que sirvan de orientación para el establecimiento de las zonas de atención prioritaria;
+
+VIII. Desarrollar propuestas de diseño estadístico de proyectos de encuestas, métodos y procedimientos inferenciales para medición de pobreza;
+
+IX. Promover el uso de la información en materia de pobreza multidimensional por parte de las personas responsables de propiciar su goce, contribuyendo en la construcción de evidencia para el diseño, implementación, evaluación y seguimiento de la Política de Desarrollo Social, en los tres niveles de gobierno;
+
+X. Diseñar criterios y establecer medidas para el tratamiento de la información para medición de pobreza, así como establecer herramientas de control y análisis del procesamiento;
+
+XI. Dirigir la asistencia técnica y la colaboración con las personas responsables e involucradas con los programas de desarrollo social, para favorecer la comprensión y el uso adecuado de la información generada por el Instituto, y
+
+XII. Las facultades que expresamente le otorga a su titular el artículo 15 de este Reglamento.
 
 ### Capítulo XXI. De la Vigilancia del Instituto
 
@@ -2642,3 +2706,15 @@ QUINTO.- Las referencias que se haga en los nombramientos de personal, perfiles 
 El presente Reglamento se aprobó en términos del Acuerdo 10ª/III/2025, aprobado en la Décima sesión 2025 de la Junta de Gobierno del Instituto Nacional de Estadística y Geografía, celebrada el 22 de julio de 2025.- Presidenta: Graciela Márquez Colín.- Vicepresidentes: Adrián Franco Barrios, Mauricio Márquez Corona, José Arturo Blancas Espejo y Rosa Isabel Islas Arredondo.
 
 Ciudad de México, a 22 de julio de 2025.- Hace constar lo anterior el Director General de Asuntos Jurídicos, Jorge Ventura Nevares, en ejercicio de la atribución que le confiere lo dispuesto por la fracción IV, del artículo 46 del Reglamento Interior del Instituto Nacional de Estadística y Geografía.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 19 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE “REFORMA AL REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor el 1.° de enero de 2026. Se ordena su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Atendiendo a las modificaciones realizadas, a partir de la entrada en vigor de la presente reforma, toda disposición normativa, acuerdo u ordenamiento que haga referencia a la Coordinación General de Medición de Pobreza y Evaluación Integral de la Política de Desarrollo Social se entenderán hechas a la Dirección General de Evaluación y Medición de Pobreza.
+
+TERCERO.- La Dirección General de Administración del Instituto realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a la Unidad Administrativa que por virtud de las presentes reformas al Reglamento se crea, se encuentren disponibles para el cumplimiento de sus atribuciones, de conformidad con la normatividad administrativa aplicable, atendiendo a la disponibilidad presupuestaria del Instituto.
