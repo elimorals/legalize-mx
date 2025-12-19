@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2025-12-17"
+last_updated: "2025-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -663,13 +663,17 @@ XLIX. Determinar y expedir los indicadores de desempeño; y
 
 L. Aprobar el Programa Municipal de Protección de Niñas, Niños y Adolescentes que le proponga el Sistema Municipal de Protección Integral: fortalecer la estructura y coadyuvar en la operación tanto de la Secretaría Ejecutiva de dicho Sistema, así como de la Procuraduría Municipal de Protección, ambas, de niñas, niños y adolescentes, en los términos previstos en la legislación de la materia y demás disposiciones aplicables;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 19 DE DICIEMBRE DE 2025)</small>
 
 LI. Instalar la Casa Municipal de las Artesanías, el Consejo Municipal de Desarrollo Artesanal y, en su caso, el Subcomité Municipal de Desarrollo Artesanal, de conformidad con lo establecido en la Ley de Fomento a la Actividad Artesanal del Estado, así como integrar un padrón de personas artesanas del Municipio; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 20 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-LII. Las demás que expresamente le confieran esta ley y demás leyes del Estado.
+LII. Crear, de conformidad con su disponibilidad presupuestal, la casa de día para adultos mayores, que brinde servicios de atención integral durante el día, promoviendo la convivencia, el desarrollo de actividades recreativas, culturales, deportivas y terapéuticas, así como atención geriátrica y nutricional básica, en los términos que establezcan los reglamentos municipales correspondientes y en coordinación con el Sistema Municipal para el Desarrollo Integral de la Familia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+LIII. Las demás que expresamente le confieran esta ley y demás leyes del Estado.
 
 ### CAPÍTULO IV. DEL PRESIDENTE MUNICIPAL
 
@@ -4682,3 +4686,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los Ayuntamientos deberán realizar las adecuaciones correspondientes a su marco normativo, mismas que deberán expedirse dentro de los noventa días hábiles siguientes a la entrada en vigor del presente Decreto.
 
 TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.O. 19 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 493 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
