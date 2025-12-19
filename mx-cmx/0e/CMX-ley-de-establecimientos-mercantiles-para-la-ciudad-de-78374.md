@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-establecimientos-mercantiles-para-la-ciudad-de-78374"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-20"
-last_updated: "2023-08-04"
+last_updated: "2025-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78374&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2011-01-14"
 
 LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 4 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 19 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 20 de enero de 2011.
 
@@ -184,9 +184,9 @@ XXIII. Solicitud de Permiso: acto a través del cual una persona física o moral
 
 XXIV. Suspensión Temporal de Actividades: El acto a través del cual la autoridad, como consecuencia de un incumplimiento a la normatividad correspondiente, ordena suspender las actividades de forma inmediata de un establecimiento mercantil en tanto se subsana el incumplimiento;
 
-> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-XXV. Sistema de Seguridad: Personal y conjunto de equipos y sistemas tecnológicos con el que deben contar los establecimientos mercantiles de impacto zonal para brindar seguridad integral a sus clientes, usuarios y personal. El Sistema de Seguridad deberá ser aprobado por escrito por la Secretaría de Seguridad Ciudadana de la Ciudad de México;
+XXV. Sistema de Seguridad: Personal y conjunto de equipos y sistemas tecnológicos con el que deben contar los establecimientos mercantiles con giro de servicio de hospedaje y los de impacto zonal para brindar seguridad integral a sus clientes, usuarios y personal. El Sistema de Seguridad deberá ser aprobado por escrito por la Secretaría de Seguridad Ciudadana de la Ciudad de México.
 
 XXVI. Titulares: Las personas físicas o morales, a nombre de quien se le otorga el Aviso o Permiso y es responsable del funcionamiento del establecimiento mercantil;
 
@@ -972,19 +972,51 @@ En campos para Casas Móviles, Casas de Huéspedes, Hostales y Albergues no podr
 
 Los establecimientos mercantiles a que se refiere este artículo podrán destinar un porcentaje de sus habitaciones para fumadores, que no podrá ser mayor al 25 % del total.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 23.
 
-Los establecimientos mercantiles en los que se preste el servicio de hospedaje con algún otro servicio, deberán contar para su operación con locales que formen parte de la construcción, separados por muros, canceles, mamparas o desniveles, construidos o instalados de modo que eviten molestias tanto a los huéspedes en sus habitaciones como a las personas que vivan en inmuebles aledaños, y observarán las siguientes disposiciones:
+Los establecimientos mercantiles en los que se preste el servicio de hospedaje con algún otro servicio, deberán contar para su operación con locales que formen parte de la construcción, separados por muros, canceles, mamparas o desniveles, construidos o instalados de modo que eviten molestias tanto a las personas huéspedes en sus habitaciones como a las personas que vivan en inmuebles aledaños, y observarán las siguientes disposiciones:
 
 > <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
 I. Exhibir en lugar visible para el público, con caracteres legibles, la tarifa de hospedaje, horario de vencimiento del servicio, la tarifa de los giros autorizados; identificar de conformidad con lo señalado en la Ley de Protección a la Salud de los No Fumadores vigente en la Ciudad de México las áreas destinadas a los fumadores, y el aviso de que cuenta con caja de seguridad para la guarda de valores;
 
-II. Llevar el control de llegadas y salidas de huéspedes con anotación en libros, tarjetas de registro o sistema computarizado, en los que incluya nombre, ocupación, origen, procedencia y lugar de residencia. Todos los menores de edad deberán ser registrados;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-III. Colocar en cada una de las habitaciones, en un lugar visible, un ejemplar del reglamento interno del establecimiento mercantil sobre la prestación de los servicios;
+II. Solicitar a cada una de las personas huéspedes o visitantes una identificación oficial vigente con fotografía para realizar su registro de entrada en libros o sistemas computarizados, asentando los siguientes datos: nombre completo, domicilio y hora de ingreso. En el caso de niñas, niños y adolescentes, deberán ser registradas validando su identidad mediante documento oficial, así como asentar en el mismo la referencia del parentesco o relación que guarde la persona adulta acompañante, quien será registrada como responsable.
 
-IV. Solicitar, en caso de urgencia, los servicios médicos para la atención de los huéspedes;
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+Cuando una mujer sea víctima de violencia, y no cuente con identificación oficial vigente con fotografía para su registro, el establecimiento podrá autorizar su hospedaje de manera excepcional, con el propósito de salvaguardar su integridad y derechos; dando aviso inmediato a la Fiscalía y demás autoridades competentes.
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+II Bis. Registrar la hora de salida de cada una de las personas huéspedes o visitantes, debiendo verificar que el número de personas que entraron coincida con el número de personas que salen. En caso de que alguna persona siga utilizando el servicio, el personal del establecimiento deberá verificar de forma inmediata e indubitable, ya sea vía telefónica o de manera presencial en la habitación, que dichos huéspedes o visitantes siguen disfrutando del servicio. En el supuesto de que no sea atendido el llamado de verificación, deberán dar aviso inmediato a la autoridad competente.
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+II Ter. Registrar en libros o sistemas computarizados, el número de la placa de los vehículos de todas las personas que ingresen, registrando el nombre de la persona conductora, los datos de su identificación oficial y en caso de ser huéspedes o visitantes, el número de la habitación;
+
+Los registros a los que se refieren las fracciones II, II Bis, y II Ter para cualquier establecimiento que preste servicios de hospedaje, incluyendo plataformas tecnológicas, deberán ser resguardados por un periodo de un año, garantizando la protección de datos personales en términos de la normativa aplicable;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+III. En cada habitación, así como en las áreas comunes incluyendo recepción, pasillos y estacionamiento, deberán colocarse en lugar visible, un ejemplar del reglamento interno relativo a la prestación de los servicios, así como el cartel que contenga las medidas específicas y un número telefónico de emergencia para la prevención y atención de la violencia de género, y la información correspondiente respecto a la forma, autoridad competente y procedimiento para la presentación de denuncias relacionadas con violencia de género, trata de personas o cualquier otra conducta que requiera la intervención inmediata de las autoridades, que para tal efecto emita de forma coordinada las autoridades competentes.
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+IV. Solicitar, en caso de urgencia, los servicios médicos o de seguridad ciudadana para la atención de las personas huéspedes o visitantes, ante la probable comisión de algún delito la Secretaría de Seguridad Ciudadana comunicará, mediante un folio al ministerio público correspondiente sobre su intervención;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+IV Bis. Las personas titulares y/o responsables de establecimientos mercantiles con giro de hospedaje, deberán observar, capacitar y difundir entre su personal el “Protocolo de Actuación para Establecimientos de Hospedaje: espacios seguros y libres de violencia por razones de género para mujeres, niñas, niños y adolescentes (actualizado)” en adelante “el Protocolo”, el cual será emitido por las autoridades competentes y tendrá por objeto que el personal de los establecimientos de hospedaje tomen las medidas pertinentes para prevenir y, en su caso, dar atención primaria a las personas huéspedes o visitantes víctimas de violencia de género dentro del propio establecimiento;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+IV Ter. Instalar sistemas de videovigilancia en cada acceso y salida vehicular del establecimiento, así como en las áreas de uso común, estacionamientos y accesos peatonales. Las imágenes captadas por dichos sistemas deberán tener la resolución, calidad y nitidez suficientes que permitan la plena identificación de los rostros de las personas que transiten o permanezcan en el establecimiento. Las grabaciones deberán conservarse y resguardarse por un periodo mínimo de noventa días naturales.
+
+Queda expresamente prohibida la instalación de cámaras, sistemas o dispositivos de videovigilancia en el interior de habitaciones, sanitarios, vestidores o cualquier espacio de uso íntimo o privado. Las grabaciones generadas en áreas públicas sólo podrán ser entregadas a autoridad competente previa solicitud formal y motivada, mandato judicial y/o ministerial;
 
 V. Garantizar la seguridad de los valores que se entreguen para su guarda y custodia en la caja del establecimiento mercantil; para lo cual deberán contratar un seguro que garantice los valores depositados;
 
@@ -1230,9 +1262,13 @@ XI. Constancias de no Adeudos de Predial y Agua;
 
 XII. Pago de derechos efectuado y datos de la oficina receptora.
 
-> <small>(REFORMADO, G.O. 19 DE ENERO DE 2023)</small>
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-Una vez cubiertos los requisitos señalados en el presente artículo, el Aviso se tendrá por presentado y el Titular del Establecimiento estará en condiciones de aperturar y deberá cumplir con las disposiciones de protección civil.
+Tratándose de establecimientos mercantiles que presten servicios de hospedaje, deberán cumplir con lo dispuesto en los artículos 2, fracción XXV, y 23 de la presente Ley.
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+Una vez cubiertos los requisitos señalados en el presente artículo y en los demás que indique la presente Ley, así como las disposiciones en materia de protección civil y el correspondiente programa de seguridad, después de haber concluido el Aviso en el Sistema se tendrá por presentado y la persona titular del establecimiento podrá iniciar operaciones.
 
 > <small>(ADICIONADO, G.O. 19 DE ENERO DE 2023)</small>
 
@@ -1271,6 +1307,12 @@ XII. Datos de la aprobación del Sistema de Seguridad, y nombre y cargo del serv
 Una vez cubiertos los requisitos señalados en el presente artículo, la Alcaldía indicará en el Sistema si es procedente o no el Permiso, y notificará al interesado en un término de 5 días hábiles; en caso de ser procedente, el interesado deberá cubrir los derechos correspondientes y una vez acreditado el pago, se otorgará el Permiso.
 
 En caso de ser otorgado el Permiso, el Titular del Establecimiento estará en condiciones de aperturar y cumplir con las disposiciones de protección civil.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 31 Ter.
+
+Los establecimientos mercantiles con giro de hospedaje, deberán contar con seguridad privada capacitada y registrada ante la Secretaría de Seguridad Ciudadana de la Ciudad de México.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS FRACCIONES], G.O. 19 DE ENERO DE 2023)</small>
 
@@ -1804,11 +1846,11 @@ Cuando se detecte la expedición o venta de bebidas alcohólicas en contravenci�
 
 El aseguramiento de bebidas se llevará a cabo con el traslado de las mismas al sitio de almacenaje destinado por la Autoridad, previo inventario del aseguramiento, del cual se entregará copia de manera inmediata al titular del establecimiento o evento de que se trate.
 
-> <small>(REFORMADO, G.O. 19 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 64.
 
-Se sancionará con el equivalente de 25 a 125 veces la Unidad de Cuenta de la Ciudad de México vigente, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 10 apartado A fracciones VIII, IX inciso a) y XV, y; 10 apartado B fracción I; 11 fracción VIII; 15 fracciones I, II y IV; 23 fracciones I, II, III, IV, VI y VII; 28 párrafo primero, segundo, cuarto y quinto; 40 fracciones II y III; 42 fracciones I y II; 43 fracciones II, IV, V, VI, VII y VIII; 45; 56 fracciones IV, V, VI y VIII, y 57 de la presente Ley.
+Se sancionará con el equivalente de 25 a 125 veces la Unidad de Medida y Actualización vigente, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 10 apartado A fracciones VIII, IX inciso a) y XV, y; 10 apartado B fracción I; 11 fracción VIII; 15 fracciones I, II y IV; 23 fracciones I, VI y VII; 28 párrafos primero, segundo, cuarto y quinto; 40 fracciones II y III; 42 fracciones I y II; 43 fracciones II, IV, V, VI, VII y VIII; 45; 56 fracciones IV, V, VI y VIII, y 57 de la presente Ley.
 
 > <small>(REFORMADO, G.O. 21 DE ABRIL DE 2023)</small>
 
@@ -1840,6 +1882,20 @@ c) Para los establecimientos de impacto zonal se impondrá una multa de 250 a 25
 
 Además de dichas sanciones, la autoridad competente deberá dar vista y remitirá al titular del establecimiento mercantil sancionado, con el Consejo para Prevenir y Eliminar la Discriminación, a fin de que, de conformidad con la normativa aplicable, se emitan las medidas de no repetición que se estimen conducentes, y dará seguimiento conjuntamente con el Consejo del cumplimiento de las mismas.
 
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 66 Ter.
+
+El incumplimiento de lo dispuesto en la fracción II del artículo 23 de esta ley se sancionará con multa de 1,000 a 5,000 veces la Unidad de Medida y Actualización vigente y la clausura temporal de hasta quince días naturales en caso de reincidencia.
+
+El incumplimiento de lo dispuesto en las fracciones II Bis, II Ter, IV, IV Bis y IV Ter del artículo 23 y en el artículo 31 Ter se sancionarán con multa de 3,000 a 10,000 veces la Unidad de Medida y Actualización vigente y clausura temporal inmediata de quince a treinta días naturales; en caso de reincidencia procederá la clausura permanente.
+
+Las alcaldías resolverán conforme a la Ley del Procedimiento Administrativo de la Ciudad de México, fundando y motivando la sanción impuesta con base en los criterios de proporcionalidad, gravedad de la infracción y reincidencia; dando oportunidad para que la persona interesada exponga lo que a su derecho convenga, y en su caso, aporte las pruebas con las que cuente.
+
+El Instituto de Verificación Administrativa de la Ciudad de México (INVEA) en coordinación con las alcaldías y demás autoridades competentes llevarán a cabo visitas de verificación ordinarias y extraordinarias, para comprobar el cumplimiento de las disposiciones previstas en los artículos 23 y 31 Ter de esta Ley, con pleno respeto a los derechos humanos de las personas titulares, responsables, trabajadoras, huéspedes y visitantes.
+
+La ejecución de las sanciones será realizada por el Instituto de Verificación Administrativa de la Ciudad de México, en coordinación con las alcaldías y demás autoridades competentes.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 67.
@@ -1856,9 +1912,13 @@ En caso de que se detectare falsedad en los términos de este artículo, la Alca
 
 Se sancionará a los titulares de establecimientos de impacto vecinal y zonal que hubieren proporcionado información falsa, no cuenten con los documentos cuyos datos hubieren ingresado al Sistema o éstos fueren falsos, no cuenten con programa interno de protección civil en los términos de la normatividad de gestión integral de riesgos y protección civil, o no cuenten con el visto bueno de la Secretaría de Gobierno a que se refiere el artículo 27 Bis de esta Ley, de la siguiente forma:
 
-> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2025)</small>
 
-a) Para los establecimientos de impacto vecinal multa de 5,000 a 15,000 veces la Unidad de Medida y Actualización de la Ciudad de México vigente.
+a) Para los establecimientos de impacto vecinal multa de 5,000 a 15,000 veces la Unidad de Medida y Actualización vigente.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+En caso de que la información proporcionada sea falsa o inexistente y esté relacionada con las fracciones II, II Bis, II Ter, IV Bis y IV Ter del artículo 23, y no se haya dado aviso a las autoridades en tiempo y forma de la comisión de un hecho probablemente delictivo, o se haya cometido al interior del establecimiento algún delito relacionado con feminicidio, transfeminicidio o violencia sexual, ocasionado por una omisión dolosa o culposa del personal del establecimiento, se aplicará la clausura permanente. En caso del delito de trata de personas se procederá conforme a lo contemplado en la Ley Nacional de Extinción de Dominio, y el inmueble pasará a ser utilizado por la Comisión Ejecutiva de Atención a Víctimas de la Ciudad de México, como albergue o refugio para mujeres, niñas, niños y adolescentes víctimas de violencias.
 
 > <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
@@ -2305,3 +2365,21 @@ G.O. 4 DE AGOSTO DE 2023.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 19 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LA FRACCIÓN XXV DEL ARTÍCULO 2, LAS FRACCIONES II, III Y IV DEL ARTÍCULO 23, EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 31 Y EL ARTÍCULO 64; Y SE ADICIONAN UN SEGUNDO PÁRRAFO A LA FRACCIÓN II Y LAS FRACCIONES II BIS, II TER, IV BIS Y IV TER AL ARTÍCULO 23, EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 31, EL ARTÍCULO 31 TER, EL ARTÍCULO 66 TER Y UN SEGUNDO PÁRRAFO AL INCISO A) DEL ARTÍCULO 68 DE LA LEY DE ESTABLECIMIENTOS MERCANTILES DE LA CIUDAD DE MÉXICO; SE REFORMAN EL PRIMER PÁRRAFO Y LAS FRACCIONES III Y IV DEL ARTÍCULO 60 BIS; EL PRIMER PÁRRAFO Y LA FRACCIÓN VIII BIS DEL ARTÍCULO 61 TER Y EL ARTÍCULO 76; Y SE ADICIONAN UN SEGUNDO PÁRRAFO A LA FRACCIÓN VIII BIS DEL ARTÍCULO 61 TER Y EL ARTÍCULO 77 BIS DE LA LEY DE TURISMO DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor a los 120 días naturales siguientes al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. El Gobierno de la Ciudad de México realizará las adecuaciones pertinentes al Reglamento de la Ley de Establecimientos Mercantiles para la Ciudad de México y al Reglamento de la Ley de Turismo de la Ciudad de México en un plazo de 60 días naturales siguientes a la publicación del decreto en la Gaceta Oficial de la Ciudad de México.
+
+CUARTO. La Secretaría de las Mujeres y la Fiscalía General de Justicia de la Ciudad de México en coordinación con las autoridades competentes tendrán un plazo de 30 días naturales siguientes a la publicación del presente decreto para expedir y publicar "el Protocolo" al que se refiere el artículo 23, fracción IV Bis de la Ley de Establecimientos Mercantiles para la Ciudad de México.
+
+A partir de la publicación de dicho protocolo, se otorgará un plazo de 60 días naturales para que los establecimientos mercantiles puedan acreditar el cumplimiento del mismo.
+
+QUINTO. Se otorgará a los establecimientos mercantiles con giro de hospedaje un término de 195 días, contados a partir de la publicación del presente decreto, para dar cumplimiento a lo establecido en el artículo 31 Ter de la Ley de Establecimientos Mercantiles para la Ciudad de México.
+
+SEXTO. Las multas contempladas en la Ley de Establecimientos Mercantiles para la Ciudad de México donde aparece como unidad de cobro la "Unidad de Cuenta de la Ciudad de México" deberá entenderse que se refiere a la Unidad de Medida y Actualización vigente al momento de la comisión de las hipótesis previstas.
