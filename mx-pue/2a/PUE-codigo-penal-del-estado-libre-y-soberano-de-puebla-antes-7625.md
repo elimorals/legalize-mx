@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2025-12-15"
+last_updated: "2025-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "PUE"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2025 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2025.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 19 DE DICIEMBRE DE 2025.]</small>
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -7988,3 +7988,15 @@ P.O. 15 DE DICIEMBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+> <small>(F. DE E., P.O. 19 DE DICIEMBRE DE 2025)</small>
+
+TERCERO. Los procedimientos penales y administrativos iniciados antes de la entrada en vigor del presente Decreto se desarrollarán y resolverán conforme a la normatividad vigente al momento de la comisión de los hechos posiblemente constitutivos de delito o de responsabilidad administrativa, según corresponda.
+
+> <small>(F. DE E., P.O. 19 DE DICIEMBRE DE 2025)</small>
+
+CUARTO. Las autoridades competentes deberán efectuar las adecuaciones orgánicas y presupuestales necesarias para dar cumplimiento a lo dispuesto en el Artículo Décimo Transitorio de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, publicada en e l Diario Oficial de la Federación el veintiocho de noviembre de dos mil veinticinco.
+
+> <small>(F. DE E., P.O. 19 DE DICIEMBRE DE 2025)</small>
+
+QUINTO. Las autoridades competentes deberán emitir, en un plazo no mayor de ciento ochenta días hábiles a partir de la publicación del presente Decreto, los procedimientos y tecnologías de inhibición de entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen a que se refiere el Artículo Séptimo Transitorio de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos publicada en el Diario Oficial de la Federación el veintiocho de noviembre de dos mil veinticinco.
