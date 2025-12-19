@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2025-01-29"
+last_updated: "2025-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -484,6 +484,10 @@ XXXIX. (DEROGADA, G.O. 3 DE NOVIEMBRE DE 2016)
 > <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2020)</small>
 
 XXXIX Bis. Aprobar el Plan Veracruzano de Desarrollo, y conocer la evaluación que haga el titular del Poder Ejecutivo anualmente de su avance, en los términos de la ley respectiva;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2025)</small>
+
+XXXIX Ter. Aprobar los instrumentos de planeación que le sean sometidos para tal efecto, en términos de la Ley de Planeación del Estado de Veracruz de Ignacio de la Llave;
 
 XL. Cambiar su sede, provisionalmente, si para ello existe el acuerdo de las dos terceras partes del total de los Diputados presentes, notificando su determinación a los Poderes Ejecutivo y Judicial;
 
@@ -2144,3 +2148,11 @@ G.O. 29 DE ENERO DE 2025.
 PRIMERO. El presente Decreto iniciará su vigencia el día de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+G.O. 19 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 494 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PLANEACIÓN Y DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, AMBAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto iniciará su vigencia el día de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto
