@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-del-sistema-de-seguridad-publica-del-72764"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-16"
-last_updated: "2025-11-04"
+last_updated: "2025-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE COORDINACION DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 20 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 16 de junio de 2009.
 
@@ -2706,3 +2708,53 @@ Cualquier trámite administrativo y/o judicial del ámbito federal o estatal de 
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
 Los instrumentos jurídicos, convenios, contratos acuerdos interinstitucionales o actos equivalentes, se entenderán como vigentes y obligarán en sus términos a las partes, sin perjuicio del derecho que tienen las mismas de ratificarlos, modificarlos o rescindirlos.
+
+P.O. 20 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-944 MEDIANTE EL CUAL SE EXPIDE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas, expedida mediante Decreto LX-710, por la Sexagésima Legislatura Constitucional del Congreso del Estado Libre y Soberano de Tamaulipas, publicado en el Periódico Oficial del Estado No. 71, el 16 de junio de 2009.
+
+###### ARTÍCULO TERCERO.
+
+Se instruye a la Secretaría de Seguridad Pública a realizar las adecuaciones de estructura, reglamentarias, administrativas y demás normatividad necesaria, a efecto de dar cumplimiento a lo establecido en el presente Decreto, las cuales deberán quedar concluidas en un plazo no mayor a 120 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+La Fiscalía General de Justicia del Estado de Tamaulipas, deberá realizar las adecuaciones normativas necesaria (sic), a efecto de dar cumplimiento a lo establecido en el presente Decreto, las cuales deberán quedar concluidas en un plazo no mayor a 120 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, instituido mediante Decreto LX-710 publicado en el Periódico Oficial del Estado No. 71, el 16 de junio de 2009, continuará en funciones conforme a las atribuciones, obligaciones y competencias establecidas en el presente Decreto y conservará los recursos humanos, materiales presupuestales y tecnológicos a su cargo.
+
+Asimismo se instruye al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública a realizar las adecuaciones de estructura, reglamentarias, administrativas y demás normatividad necesaria a efecto de dar cumplimiento a lo establecido en el presente Decreto, las cuales deberán quedar concluidas en un plazo no mayor a 120 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+En tanto no se emita la normatividad jurídica y administrativa indispensable para el funcionamiento de la Secretaría de Seguridad Pública, del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública y sus Unidades Administrativas, se seguirán aplicando las disposiciones legales y administrativas vigentes al momento de la entrada en vigor del presente Decreto, en lo que no se opongan al mismo.
+
+###### ARTÍCULO SÉPTIMO.
+
+Una vez aprobada la estructura orgánica la Secretaría de Seguridad Pública y el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, deberán establecer los procedimientos a efecto de trasladar, en su caso, los recursos que consideren necesarios de las áreas que se extinguen a las que se crean o las que se modifican, respectivamente para dar cumplimento al presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+La Secretaría de Seguridad Pública y el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, de acuerdo a sus atribuciones deberán realizar las acciones necesarias a efecto de instalar el Consejo Estatal de Seguridad Pública, las Mesas de Paz y demás instancias de coordinación, en u plazo no mayor a 120 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO NOVENO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto se resolverán conforme a las disposiciones legales vigentes al momento de inicio de su tramitación.
+
+###### ARTÍCULO DÉCIMO.
+
+El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública deberá integrar el Sistema Estatal de Información en u plazo no mayor a 120 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Las personas titulares del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública y de sus unidades administrativas, continuarán en el cargo en tanto no se realice una nueva designación en los términos previstos en la presente Ley.
