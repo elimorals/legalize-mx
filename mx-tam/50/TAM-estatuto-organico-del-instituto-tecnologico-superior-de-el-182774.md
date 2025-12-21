@@ -4,7 +4,7 @@ identifier: "TAM-estatuto-organico-del-instituto-tecnologico-superior-de-el-1827
 country: "mx"
 rank: "estatuto"
 publication_date: "2025-12-10"
-last_updated: "2025-12-10"
+last_updated: "2025-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=182774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO TECNOLOGICO SUPERIOR DE EL MANTE, TAMAULIPAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE DICIEMBRE DE 2025 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DE EL INSTITUTO TECNOLÓGICO SUPERIOR DE EL MANTE
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 21 DE DICIEMBRE DE 2025.]</small>
 
 Estatuto publicado en el Anexo al Número 148 del Periódico Oficial del Estado de Tamaulipas, el miércoles 10 de diciembre de 2025.
 
@@ -37,7 +37,9 @@ CONSIDERANDO
 
 En virtud de la fundamentación y motivación expuesta, se ha tenido a bien expedir el siguiente:
 
-ESTATUTO ORGÁNICO DE EL ISTITUTO (SIC) TECNOLÓGICO SUPERIOR DE EL MANTE.
+> <small>(F. DE E., P.O. 21 DE DICIEMBRE DE 2025)</small>
+
+ESTATUTO ORGÁNICO DE EL INSTITUTO TECNOLÓGICO SUPERIOR DE EL MANTE.
 
 ## TÍTULO PRIMERO
 
