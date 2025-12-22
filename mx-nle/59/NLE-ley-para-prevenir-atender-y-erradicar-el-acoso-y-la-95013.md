@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-prevenir-atender-y-erradicar-el-acoso-y-la-95013"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-01"
-last_updated: "2025-11-07"
+last_updated: "2025-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA PREVENIR, ATENDER Y ERRADICAR EL ACOSO Y LA VIOLENCIA ESCOLAR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 1 de julio de 2013.
 
@@ -1011,7 +1011,11 @@ XII. Dos representantes de Asociaciones de Padres de familia en el Estado, a inv
 
 XIII. Dos investigadores educativos de educación básica y media superior, a invitación del Presidente del Consejo.
 
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 22 DE DICIEMBRE DE 2025)</small>
+
 Los tres integrantes municipales podrán participar previa invitación del Presidente del Consejo y durarán en el cargo un año.
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 22 DE DICIEMBRE DE 2025)</small>
 
 Los integrantes señalados en la fracción X, XI, XII y XIII durarán en el ejercicio de esta representación un año, pudiendo ser reelectos por otro año más.
 
@@ -1236,3 +1240,9 @@ P.O. 7 DE NOVIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 139. SE REFORMAN LAS FRACCIONES III Y IV DEL ARTÍCULO 8; PRIMER PÁRRAFO DEL ARTÍCULO 13; LA FRACCIÓN I DEL ARTÍCULO 27; PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 35; PRIMER PÁRRAFO DEL ARTÍCULO 63; Y LOS ARTÍCULOS 64; 67; 68 Y 86, DE LA LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 51; EL PRIMER PÁRRAFO DEL ARTÍCULO 55 Y LA FRACCIÓN V DEL ARTÍCULO 60, DE LA LEY PARA PREVENIR, ATENDER Y ERRADICAR EL ACOSO Y LA VIOLENCIA ESCOLAR DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO. El presente Decreto entrará en vigor al siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 158. SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 8; EL PRIMER PÁRRAFO DEL ARTÍCULO 13, LA FRACCIÓN I DEL ARTÍCULO 27; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 35, EL PRIMER PÁRRAFO DEL ARTÍCULO 63, Y LOS ARTÍCULOS 64; 67; 68 DE LA LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEÓN; Y SE ADICIONAN DOS PÁRRAFOS AL ARTÍCULO 60 DE LA LEY PARA PREVENIR, ATENDER Y ERRADICAR EL ACOSO Y LA VIOLENCIA ESCOLAR DEL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO. El presente Decreto entrará en vigor al (sic) siguiente de su publicación en el Periódico Oficial del Estado.
