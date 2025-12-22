@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-prevencion-atencion-integral-y-control-de-las-16730
 country: "mx"
 rank: "ley"
 publication_date: "2023-08-07"
-last_updated: "2025-06-30"
+last_updated: "2025-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167306&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1380 +21,1924 @@ state: "AGU"
 ---
 # LEY PARA LA PREVENCION, ATENCION INTEGRAL Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE AGUASCALIENTES
 
-LEY PARA LA PREVENCIÓN, ATENCIÓN INTEGRAL Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE AGUASCALIENTES
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2025.
+LEY NÚMERO 561 DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-Ley publicada en la Primera Sección del Número 32 del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de agosto de 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
 
-MARÍA TERESA JIMÉNEZ ESQUIVEL, Gobernadora Constitucional del Estado de Aguascalientes, a sus habitantes sabed:
+Ley publicada en la Gaceta Oficial del Estado de Veracruz, el lunes 13 de abril de 2015.
 
-Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
+Al margen un sello que dice: Estados Unidos Mexicanos.—Gobernador del Estado de Veracruz de Ignacio de la Llave.
 
-La LXV Legislatura del Congreso del Estado Libre y Soberano de Aguascalientes, en virtud de su función y facultad constitucional, ha tenido a bien expedir el siguiente:
+Xalapa-Enríquez, marzo 30 de 2015
 
-Decreto Número 412
+Oficio número 088/2015
 
-###### ARTÍCULO PRIMERO.
+Javier Duarte de Ochoa, Gobernador del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, a sus habitantes sabed:
 
-Se crea la Ley para la Prevención, Atención Integral y Control de las Adicciones para el Estado de Aguascalientes, para quedar como sigue:
+Que la Sexagésima Tercera Legislatura del Honorable Congreso del Estado se ha servido dirigirme la siguiente Ley para su promulgación y publicación.
 
-LEY PARA LA PREVENCIÓN, ATENCIÓN INTEGRAL Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE AGUASCALIENTES
+Al margen un sello que dice: Estados Unidos Mexicanos.—Poder Legislativo.—Estado Libre y Soberano de Veracruz de Ignacio de la Llave.
 
-## TÍTULO PRIMERO. FUNDAMENTOS BÁSICOS
+LA SEXAGÉSIMA TERCERA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN USO DE LA FACULTAD QUE LE CONFIEREN LOS ARTÍCULOS 33 FRACCIÓN I Y 38 DE LA CONSTITUCIÓN POLÍTICA LOCAL; 18 FRACCIÓN I Y 47 SEGUNDO PÁRRAFO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; 75 Y 76 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO; Y EN NOMBRE DEL PUEBLO, EXPIDE LA SIGUIENTE:
 
-### CAPÍTULO PRIMERO. Disposiciones generales
+L E Y Número 561
+
+DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 1.
 
-Las disposiciones de la presente Ley son de orden público, interés social y de observancia general en el Estado de Aguascalientes. Los derechos que deriven de ella serán aplicables a todas las personas que habitan y transitan en el Estado de Aguascalientes con un enfoque de derechos humanos y de perspectiva de género, teniendo por objeto lo siguiente:
-
-I.- Establecer las bases de política pública en materia de atención integral para personas con problemas de adicciones, a partir de un enfoque preventivo, con irrestricto respeto a los derechos humanos y que atienda las necesidades diferenciadas en función del género;
-
-II.- Definir la coordinación de políticas, programas y acciones para la atención integral de personas con consumo perjudicial de sustancias psicoactivas;
-
-III.- Prever servicios para la atención integral de personas con consumo perjudicial de sustancias psicoactivas, que contemple los modelos de intervención profesional, de ayuda mutua y mixtos, atendiendo a la diversidad social, los variados contextos y características donde se presenta la problemática de consumo y la situación en particular de la persona con consumo perjudicial de sustancias psicoactivas, considerándola como sujeto de derechos;
-
-IV.- Establecer los principios, procedimientos y criterios para la creación, fortalecimiento, supervisión, monitoreo, evaluación y actualización de servicios de educación, atención y asistencia para la prevención, reducción de daño y tratamiento del consumo perjudicial de sustancias psicoactivas;
-
-V.- Promover la participación social como un factor de corresponsabilidad en la prevención y reducción del consumo perjudicial de sustancias psicoactivas, para eliminar la discriminación hacia las personas con consumo de dichas sustancias, favoreciendo el libre desarrollo de su personalidad y ejercicio de sus derechos;
-
-VI.- Fomentar la sana convivencia familiar y en la comunidad, promoviendo un ambiente libre de consumo perjudicial de sustancias psicoactivas en el Estado mediante acciones preventivas, poniendo especial atención a la población infantil y juvenil para disminuir los factores de riesgo;
-
-VII.- Delinear la política general de prevención del consumo perjudicial de sustancias psicoactivas en el Estado, a través de un enfoque educativo en la sociedad para identificar, evitar, reducir, regular o eliminar su consumo como riesgo para la salud, así como sus consecuencias físicas, psíquicas, económicas, familiares y sociales;
-
-VIII.- Promover la generación de conocimiento científico y académico respecto al consumo perjudicial de sustancias psicoactivas, así como de su prevención, reducción de daño y asistencia médica, con la finalidad de contar con elementos científicos en los procesos relacionados con la aplicación de la presente Ley;
-
-IX.- Establecer métodos y estrategias que respeten los derechos humanos de las personas con consumo perjudicial de sustancias psicoactivas, diseñando alternativas de prevención, tratamiento, rehabilitación e integración comunitaria, con la participación de los diversos sectores sociales, ubicando la problemática materia de la presente Ley como un fenómeno que impacta en la estructura social;
-
-X.- Integrar una Red Interinstitucional que agrupe a las instituciones públicas, privadas y organizaciones de la sociedad civil relacionadas con la atención integral del consumo perjudicial de sustancias psicoactivas; y
-
-XI.- Regular el funcionamiento de los Centros de atención de adicciones e implementar mecanismos para la verificación, supervisión, monitoreo y su respectiva revalidación, así como colaborar en el ejercicio de las atribuciones de las autoridades municipales, locales y federales competentes en dicha materia.
+La presente Ley es de orden público y observancia general en el Estado de Veracruz de Ignacio de la Llave y tiene por objeto regular el tránsito de vehículos y personas en las vialidades que no sean de competencia federal, así como el estacionamiento de vehículos, la seguridad vial y sus organismos auxiliares.
 
 ###### Artículo 2.
 
-Los habitantes del Estado, independientemente de su edad, género, condición económica o social, orientación sexual, identidad étnica, discapacidad o cualquiera otro, tienen derecho a la protección integral de la salud.
+Los Ayuntamientos aplicarán y vigilarán el estricto cumplimiento de esta Ley, por conducto de las unidades administrativas de tránsito y seguridad vial o su equivalente, y ajustarán a las disposiciones de la misma sus reglamentos en la materia. Podrán prestar el servicio público de tránsito directamente o de manera coordinada con el Gobierno del Estado.
 
-La prestación de servicios en materia de prevención que ofrezca el Gobierno del Estado será de manera gratuita, eficiente, oportuna y de calidad. En el caso de que se apliquen cuotas de recuperación por la prestación de los servicios de tratamiento, rehabilitación e integración comunitaria que establece la presente Ley, su recaudación se ajustará a lo que dispongan los instrumentos jurídicos aplicables, tomando en cuenta la condición socio económica de las personas que los reciban.
+Cuando el servicio se transfiera por convenio al Gobierno del Estado, la aplicación de la Ley y su Reglamento se realizará a través de la Dirección General de Tránsito y Seguridad Vial, dependiente de la Secretaría de Seguridad Pública.
 
 ###### Artículo 3.
 
-Para los fines de esta Ley, se entenderá por:
+Para los efectos de esta Ley, se entenderá por:
 
-I.- Adicción o dependencia: Estado psicofísico causado por la interacción de un organismo vivo con un fármaco, alcohol, tabaco u otra droga, caracterizado por modificación del comportamiento y otras reacciones que comprenden siempre un impulso irreprimible por tomar dicha sustancia en forma continua o periódica, a fin de experimentar sus efectos psíquicos y a veces para evitar el malestar producido por la privación;
+I. Alcoholímetro: El Instrumento de medición, equipado con una impresora térmica ligera para hacer constar el resultado, que permite determinar cuantitativamente si el conductor se encuentra bajo el influjo de bebidas alcohólicas, así como el grado de toxicidad;
 
-II.- Administración Pública: Las dependencias y entidades que conforman la Administración Pública del Estado de Aguascalientes;
+II. Amonestación verbal: La advertencia al infractor sobre una sanción mayor en caso de reincidencia;
 
-III.- Adolescentes: Son las personas que tienen entre 12 y menos de 18 años de edad;
+III. Base de Servicio o Parada: Los espacios físicos permisionados a los prestadores del servicio público de transporte de pasajeros o carga, para el ascenso, descenso, transferencia de usuarios, carga y descarga de mercancía y, en su caso, contratación del servicio;
 
-IV.- Atención integral del consumo perjudicial de sustancias psicoactivas: Todas las acciones sociales y sanitarias necesarias de corto, mediano y largo plazo, que tengan por objeto contribuir en el mejoramiento de la calidad de vida y las condiciones para el ejercicio pleno de los derechos de las personas con consumo perjudicial de sustancias psicoactivas, con el fin de superar las afectaciones en el área familiar, ocupacional, social, económica, legal o física que en cada caso sea causa de dicho consumo;
+IV. Boleta de Infracción: El documento en el que se describe una infracción a esta Ley o su Reglamento, el precepto legal violado y la sanción a la que se hace acreedor el infractor, y que especificará las circunstancias de modo, lugar y tiempo en que se cometió la infracción;
 
-V.- Centros de Atención de Adicciones: Establecimientos de carácter público, privado o social, fijos o móviles, cualquiera que sea su denominación, que proporcionen servicios para la atención específica de personas con problema de consumo perjudicial de sustancias o adicción a sustancias psicoactivas, y que, en cualquier caso, operan bajo un modelo de atención profesional, de ayuda mutua o mixto;
+V. Conductor: La persona que guía un vehículo o que tiene control físico sobre él cuando éste se encuentra en movimiento;
 
-VI.- Clausura: Acto administrativo a través del cual la autoridad como consecuencia del incumplimiento de la normatividad aplicable, ordena la interrupción de las actividades del Centro de Atención de Adicciones, pudiendo ser de carácter temporal o permanente;
+VI. Congestionamiento vial: La afectación de la vialidad por un volumen excesivo de vehículos o por alguna causa humana o natural, que impide la circulación normal en un espacio determinado;
 
-VII.- Clausura Permanente: Acto administrativo a través del cual la autoridad, como consecuencia del incumplimiento grave o reiterado a la normatividad aplicable, ordena no seguir realizando las actividades del Centro de Atención de Adicciones de forma inmediata;
+VII. Depósito de Vehículos: El lugar en donde se resguardan todo tipo de vehículos remitidos y asegurados por la autoridad vial, ya sea por la comisión de un probable delito o de una infracción a la presente Ley o su Reglamento;
 
-VIII.- Clausura Temporal: Aquella que interrumpe actividades de manera provisional en tanto se subsanan las irregularidades detectadas en el Centro de Atención de Adicciones;
+VIII. Dirección: La Dirección General de Tránsito y Seguridad Vial, dependiente de la Secretaría de Seguridad Pública del Estado;
 
-IX.- Comité Municipal. El Comité contra las adicciones de cada uno de los municipios del Estado de Aguascalientes;
+IX. Dirección de Transporte: La Dirección General de Transporte del Estado, dependiente de la Secretaría de Seguridad Pública del Estado;
 
-X.- COFEPRIS: Comisión Nacional Contra Riesgos Sanitarios;
+X. Director: El Director General de Tránsito y Seguridad Vial;
 
-XI.- CONADIC: A la Comisión Nacional contra las Adicciones;
+XI. Director de Transporte: El Director General de Transporte del Estado;
 
-XII.- Congreso: Congreso del Estado de Aguascalientes;
+XII. Dispositivos para el control de la seguridad vial: Los medios físicos empleados para regular y guiar el tránsito de vehículos, peatones y semovientes, tales como semáforos, señalamientos, marcas, reductores de velocidad, inmovilizadores de vehículos, medios electrónicos, instrumentos tecnológicos, programas y otros similares;
 
-XIII.- Consejo: Consejo contra las adicciones para el Estado de Aguascalientes;
+XIII. Estacionamientos: Los espacios públicos o privados con acceso al público destinados al aparcamiento o guarda de vehículos, ya sean gratuitos, de tarifa, o controlados en la vía pública por parquímetros;
 
-XIV.- Consentimiento informado: Es el acuerdo por escrito, mediante el cual la persona usuaria del servicio, familiar más cercano en vínculo o, en su caso, representante legal, autoriza su participación en el tratamiento, con pleno conocimiento de los procedimientos y riesgos a los que se someterá, por libre elección y sin coacción alguna. Por lo que se refiere a investigación, se atenderá lo dispuesto en el artículo 100, fracción IV de la Ley General de Salud.
+XIV. Estado: El Estado de Veracruz de Ignacio de la Llave;
 
-XV.- Consumo perjudicial de sustancias psicoactivas: Es el rubro genérico que agrupa diversos patrones de uso y abuso de estas sustancias, ya sean medicamentos o tóxicos naturales, químicos o sintéticos que actúan sobre el Sistema Nervioso Central;
+XV. Infracción: La transgresión de lo dispuesto en la presente Ley o su Reglamento, o en las disposiciones normativas en materia de seguridad vial del ámbito municipal;
 
-XVI.- Comisión: La Comisión Estatal contra las Adicciones;
+XVI. Infraestructura vial: El conjunto de elementos que integran la vialidad, que tienen una finalidad de beneficio general y permiten su mejor funcionamiento o imagen visual;
 
-XVII.- Detección temprana: La estrategia que combina la identificación voluntaria por parte de las personas respecto de factores de riesgos, síntomas o daños ocasionados por el consumo perjudicial de sustancias psicoactivas, para su derivación a tratamiento o intervención específica oportuna y voluntaria;
+XVII. Instituciones policiales: Las corporaciones policiales y fuerzas de seguridad estatales, y demás órganos auxiliares de la función de seguridad pública del Estado, incluyendo tránsito y seguridad vial, seguridad penitenciaria, custodia y traslado tanto a los centros de reinserción social como de internamiento para adolescentes y de vigilancia de audiencias judiciales; así como las corporaciones policiales de los municipios, comprendiendo en ese caso tránsito y seguridad vial;
 
-XVIII.- Disminución del daño: El procedimiento especializado cuyo propósito es evitar la continuación y buscar la reducción de daños fisiológicos y conductuales asociados al consumo perjudicial de sustancias psicoactivas;
+XVIII. Ley: La Ley de Tránsito y Seguridad Vial para el Estado de Veracruz de Ignacio de la Llave;
 
-XIX.- Enfoque de derechos humanos en las políticas públicas: Principio que contempla el diseño, ejecución y evaluación de políticas públicas que tengan como objetivo la promoción y respeto de los derechos humanos y su realización progresiva; respecto a la atención integral del consumo perjudicial de sustancias psicoactivas, contempla la autonomía, dignidad y protección integral de todos los derechos de las personas con consumo de dichas sustancias;
+XIX. Nomenclatura vial: El conjunto de elementos y objetos visuales que se colocan en la vialidad para indicar los nombres de las calles, colonias, pueblos, barrios, vías y espacios públicos de las ciudades, así como su numeración, con el propósito de su identificación y ubicación por parte de los usuarios;
 
-XX.- Estado: Estado de Aguascalientes;
+XX. Operador: La persona contratada por el concesionario o permisionario para conducir las unidades con las que se preste alguno de los servicios de transporte público;
 
-XXI.- Estilo de vida: Conjunto de patrones de comportamiento que define e identifica a una persona o un grupo, a través de lo que hace y expresa, que se genera en la familia, la escuela y otros sitios de convivencia mediante la socialización, proceso diario en el que se interactúa con los padres, las autoridades y la comunidad e influida por los medios de comunicación;
+XXI. Parquímetro: La máquina destinada a regular el tiempo de estacionamiento de los vehículos en la vía pública, mediante el pago de una cuota;
 
-XXII.- Gobierno: El Gobierno del Estado de Aguascalientes;
+XXII. Peatón o transeúnte: La persona que transita por las vías públicas, mediante sus propios medios naturales de locomoción, o en su caso valiéndose de una silla de ruedas o auxiliado por cualquier prótesis, aparato, artefacto o dispositivo ortopédico manejado por ellos o por otra persona;
 
-XXIII.- Grupos de ayuda mutua: La agrupación que ofrece servicios, integrada por personas que viven situaciones similares en recuperación, cuyo propósito fundamental es apoyar a las que consumen sustancias psicoactivas, con base en la experiencia compartida de los miembros del grupo, para lograr la abstinencia de dichas sustancias;
+XXIII. Persona con discapacidad: Aquella con capacidad disminuida o limitada temporal o permanentemente en sus facultades físicas, intelectuales o sensoriales, que la imposibilita a realizar por sí misma las actividades necesarias para su normal desempeño físico, mental, social, ocupacional y económico;
 
-XXIV.- Ingreso involuntario: Al ingreso de una persona con trastorno adictivo a sustancias psicoactivas a un Establecimiento Residencial, que no es capaz de solicitar la ayuda por cuenta propia, debido a complicaciones severas que ponen en riesgo su vida, la que puede ser solicitada por el padre, madre, representante legal, tutor o médico tratante previo diagnostico;
+XXIV. Poder Ejecutivo: El Poder Ejecutivo del Estado;
 
-XXV.- Ingreso obligatorio: Al ingreso de una persona a un Establecimiento Residencial a solicitud de la autoridad legal competente, siempre (sic) cuando la usuaria o usuario lo amerite y de acuerdo al examen que le sea aplicado por el personal de la salud;
+XXV. Policía Vial: El personal operativo, integrante de las instituciones policiales, adscritos a la Secretaría de Seguridad Pública, y su equivalente en los Ayuntamientos del Estado, que se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, facultado para realizar las funciones de control, supervisión y vigilancia ciudadana, mantener la seguridad y brindar el apoyo vial, así como prevenir la comisión de delitos por parte de conductores, operadores del servicio de transporte público, peatones propietarios de semovientes, y para aplicar las sanciones previstas por infracciones a esta Ley, su Reglamento y demás disposiciones aplicables y, en su caso, poner a disposición de la autoridad competente a quienes detengan en flagrancia;
 
-XXVI.- Ingreso voluntario: Al ingreso de una persona a los servicios que presta un Establecimiento Residencial por voluntad propia, con plena conciencia y avalado por el profesional de la salud;
+XXVI. Reglamento: El Reglamento de esta Ley;
 
-XXVII.- ISSEA: Al Instituto de Servicios del (sic) Salud del Estado de Aguascalientes;
+XXVII. Ruta: La delimitación del recorrido autorizado para la prestación del servicio de transporte público;
 
-XXVIII.- Joven: El sujeto de derecho cuya edad comprende el rango entre los 18 y los 29 años de edad, identificado como un actor social estratégico para la transformación y el mejoramiento del Estado;
+XXVIII. (DEROGADA, G.O. 26 DE JUNIO DE 2017)
 
-XXIX. Ley: La Ley para la Prevención, Atención Integral y Control de las Adicciones para el Estado de Aguascalientes;
+XXIX. Secretario: El Secretario de Seguridad Pública del Estado;
 
-XXX.- Ley Local: A la Ley de Salud del Estado de Aguascalientes;
+XXX. Secretaría: La Secretaría de Seguridad Pública del Estado;
 
-XXXI.- Ley General: A la Ley General de Salud;
+XXXI. Sefiplan: La Secretaría de Finanzas y Planeación del Estado;
 
-XXXII. Medida de Seguridad: Acción implementada por la autoridad administrativa con la finalidad de eliminar o prevenir el riesgo detectado, cuya temporalidad subsistirá hasta en tanto desaparezca el peligro;
+XXXII. Seguridad vial: El objetivo de la coordinación para la prevención y vigilancia de las vialidades competencia del Estado, con la finalidad de evitar accidentes viales o la minimización de sus efectos, especialmente para la vida, la salud y bienes de las personas, fomentando la responsabilidad de los usuarios de la vía pública conforme a las normas reguladoras del tránsito, lo que incluye el uso de tecnologías apropiadas para dicho fin, así como la prevención de delitos en las vialidades;
 
-XXXIII.- Modelo de atención de Ayuda Mutua: Al proceso de acompañamiento que ofrece el Establecimiento Residencial en base en la experiencia compartida, que facilita el progreso de usuarias y usuarios en el tratamiento y rehabilitación, estableciendo metas y objetivos;
+XXXIII. Semovientes: Los animales que se desplazan en las vías públicas;
 
-XXXIV.- Modelo de atención Mixto: Al proceso basado en la experiencia del equipo profesional de la salud y el de acompañamiento de personas en recuperación avanzada;
+XXXIV. Señalización vial: El conjunto de elementos y objetos visuales de contenido informativo, indicativo, restrictivo, preventivo, prohibitivo o de cualquier otro carácter, colocados por las autoridades competentes en la vialidad y que forman parte de la infraestructura vial;
 
-XXXV.- Modelo de atención Profesional: Al proceso de atención que se ofrece a través de un equipo de profesionales de la salud en consulta externa, urgencias y hospitalización;
+XXXV. Servicio de transporte público: El que, por concesión o permiso del Estado, se brinda para satisfacer necesidades colectivas, prestado al público mediante el pago de una tarifa;
 
-XXXVI.- Monitoreo: La actuación de carácter administrativo que consiste en vigilar, supervisar y observar de manera general el funcionamiento y operación de los Centros de Atención de Adicciones;
+XXXVI. Tarifa: La cantidad en numerario que pagará el usuario como contraprestación por el servicio de transporte público;
 
-XXXVII.- Niña o Niño: Todo ser humano de hasta 12 años;
+XXXVII. Terminal: El punto de salida y retorno de las unidades del servicio de transporte público;
 
-XXXVIII.- Norma oficial Mexicana: Norma Oficial Mexicana 028-SSA2-2009, para la prevención, tratamiento y control de las adicciones.
+XXXVIII. Tránsito: El desplazamiento de personas, vehículos y semovientes por las vialidades públicas o privadas;
 
-XXXIX.- Participación Ciudadana: El derecho de las y los ciudadanos y habitantes del Estado, para intervenir y participar, individual y colectivamente, en las decisiones públicas, en la formulación, ejecución, y evaluación de las políticas, programas y actos de gobierno y en la identificación y solución de problemas comunes;
+XXXIX. Usuario: La persona que utiliza las vías públicas, ya sea como conductor, peatón o pasajero;
 
-XL.- Participación social en la salud: Es el proceso que permite involucrar a la población, a las autoridades locales, a las instituciones públicas y a los sectores social y privado en la planeación, programación, ejecución y evaluación de los programas y acciones de salud, con el propósito de lograr un mayor impacto y fortalecer el Sistema Estatal de Salud;
+XL. Vehículo particular: El medio de transporte no público que pertenece en propiedad a personas físicas o morales, quienes son responsables de su cuidado, mantenimiento y uso;
 
-XLI.- Persona usuaria del servicio: Es toda aquella persona que requiera y obtenga la prestación de cualquier tipo de servicio relacionado con el uso, abuso o dependencia de sustancias psicoactivas.
+XLI. Vehículo de transporte público de pasajeros: El medio de transporte de tracción mecánica, a través del cual el Estado satisface la necesidad del traslado de pasajeros, por sí o a través de concesionarios, que debe ofrecerse con seguridad, en forma continua, uniforme, regular, permanente e ininterrumpida a una persona o grupo de personas determinado, o al público en general. Puede ser urbano, suburbano, foráneo, taxi, turismo, recreativo, escolar y de empresas;
 
-XLII.- Persona con problemas de consumo perjudicial de sustancias psicoactivas: La persona que consume sustancias psicoactivas ocasional o cotidianamente, con variación en las cantidades y consecuencias individuales y colectivas y que puede llegar a la adicción o dependencia de drogas;
+XLII. Vehículo de transporte de carga: El medio de transporte a motor o de cualquier otra forma de propulsión que sirve para el traslado de bienes muebles en general. Esta categoría comprende grúas, pipas, vehículos adaptados con equipo de refrigeración, góndolas y vehículos paletizados, entre otros, así como la maquinaria que requiere conducción o traslado por las vialidades y especialización en su conducción y operación;
 
-XLIII.- Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+XLIII. Vehículos de emergencia: Los destinados a la prestación de servicios de emergencia médica, los de protección civil que presten auxilio en caso de emergencia, siniestro o desastre, las motocicletas de apoyo vial, los vehículos de bomberos y los de la policía cuando estén atendiendo alguna emergencia, en cuyo caso circularán con las luces encendidas y la sirena abierta;
 
-XLIV.- Prevención: El conjunto de acciones dirigidas a identificar, evitar, reducir o regular el consumo perjudicial de sustancias psicoactivas, así como los riesgos sanitarios, sus consecuencias físicas, psíquicas, económicas, familiares y sociales;
+XLIV. Vía pública: Las carreteras, puentes, brechas y caminos vecinales, las avenidas, bulevares, calles, callejones, calzadas y banquetas, plazas, paseos, zonas peatonales, pasos a desnivel y andadores comprendidos dentro de los límites del Estado;
 
-XLV.- Programa Estatal: El programa para la atención integral de personas con problemas de consumo perjudicial de sustancias psicoactivas del Estado de Aguascalientes;
+XLV. Vía pública de competencia estatal: Las vialidades comprendidas dentro del territorio del Estado que no sean de competencia federal y las que en su totalidad o en su mayor parte sean construidas por el Estado, con fondos estatales o por particulares mediante concesión estatal, excepto aquellas que se encuentren dentro de las áreas urbanas de los municipios cuando el mando y operación de tránsito y seguridad vial de los mismos no recaiga en la Secretaría;
 
-XLVI.- Programa Nacional: Programa contra la farmacodependencia y consumo de estupefacientes y psicotrópicos, previsto en la Ley General de Salud;
+XLVI. Vialidad: El conjunto integrado de vías de uso común que conforman la traza que comunica por transporte terrestre al Estado con otras entidades y al interior con sus municipios, permitiendo el traslado en vehículos de personas, todo tipo de carga comercial o industrial y semovientes;
 
-XLVII.- Reducción del daño: El conjunto de acciones dirigidas a evitar o reducir situaciones de riesgo y limitar los daños asociados al consumo perjudicial de sustancias psicoactivas, por lo que se articula necesariamente con la prevención y el tratamiento. No pretende necesariamente la abstinencia;
+XLVII. Vialidad urbana: En las zonas urbanas y suburbanas, las carreteras, puentes, bulevares, avenidas, calles, caminos, callejones, calzadas, banquetas, plazas, paseos, zonas peatonales, pasos a desnivel, andadores y toda su infraestructura vial, cuya función es facilitar el tránsito eficiente y seguro de personas y vehículos; y
 
-XLVIII.- Rehabilitación: El proceso por el cual una persona que presenta trastornos asociados con sustancias psicoactivas alcanza un estado óptimo de salud, funcionamiento psicológico y bienestar social;
-
-XLIX.- Reinserción social: Es el conjunto de acciones dirigidas a promover un estilo de vida mejor al de quien usa, abusa o depende de sustancias psicoactivas y a lograr un mejor funcionamiento interpersonal y social.
-
-L.- Responsable del Centro de Atención de Adicciones: para el efecto se estará a lo dispuesto en la Ley General de Salud y en el Reglamento de la Ley General de Salud en Materia de Prestación de Servicios de Atención Médica.
-
-LI.- Secretaría: Secretaría de Salud del Estado de Aguascalientes;
-
-LII.- Sistema de Salud del Estado: El conjunto de unidades administrativas, órganos desconcentrados y organismos descentralizados del Gobierno y de personas físicas o morales de los sectores social y privado que presten servicios de salud, así como a los mecanismos de coordinación de acciones que se suscriban con dependencias o entidades del Estado;
-
-LIII.- SISVEA: Al Sistema de Vigilancia Epidemiológica de las Adicciones; es el órgano oficial en materia de investigación sobre las adicciones por lo que genera información actualizada sobre el comportamiento epidemiológico, su difusión y conformación de los programas de prevención y protección de salud afines;
-
-LIV.- Supervisión: Diligencia administrativa para corroborar el cumplimiento de las medidas de seguridad;
-
-LV.- Sustancia psicoactiva: Toda sustancia que altera algunas funciones psicológicas y a veces físicas, que al ser consumida reiteradamente tiene la probabilidad de dar origen a una adicción. Estos productos incluyen las sustancias, estupefacientes y psicotrópicos clasificados en la Ley General de Salud, aquellos de uso médico, los de uso industrial, los derivados de elementos de origen natural, los de diseño, así como el tabaco y el alcohol;
-
-LVI.- Tratamiento: Es el conjunto de acciones que tienen por objeto conseguir la abstinencia o, en su caso, la reducción del consumo de las sustancias psicoactivas, reducir los riesgos y daños que implican el uso o abuso de dichas sustancias, abatir los padecimientos asociados al consumo e incrementar el grado de bienestar físico, mental y social, tanto del que usa, abusa o depende de sustancias psicoactivas, como de su familia; y
-
-LVII.- Visita de Verificación: Diligencia de carácter administrativo que ordena la autoridad competente con el objeto de comprobar el cumplimiento de las disposiciones legales y reglamentarias respecto de las actividades reguladas que se realicen en los Centros de Atención de Adicciones.
+XLVIII. Zona privada con acceso al público: El área especial de naturaleza jurídica privada, en donde se preste el servicio de estacionamiento público o privado, así como todo lugar privado en donde se realice el tránsito de personas o vehículos.
 
 ###### Artículo 4.
 
-La prestación de servicios en los términos y modalidades establecidas en la presente Ley, se realizará atendiendo a lo dispuesto en los lineamientos que emitan la Norma Oficial Mexicana, organismos internacionales, la Ley General, la Ley Local y demás instrumentos jurídicos aplicables.
+En el caso de zonas privadas con acceso al público, se aplicará este ordenamiento, por lo que el propietario, administrador, representante legal o vigilante de dicha zona debe permitir el ingreso de la autoridad. En el caso de flagrancia, la policía vial o las instituciones policiales deberán ingresar para atender la emergencia.
 
 ###### Artículo 5.
 
-Las personas con trastornos adictivos por el consumo perjudicial de sustancias psicoactivas, son sujetos plenos de derecho en virtud de la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales, por lo que tienen derecho a:
-
-I.- Acceder voluntariamente a los servicios de detección, prevención, tratamiento y rehabilitación, como parte de la atención integral del consumo de sustancias psicoactivas, en los términos previstos en la presente Ley;
-
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2025)</small>
-
-II.- Recibir tratamiento en una institución u organismo especializado avalado de acuerdo con las leyes aplicables, conforme a los principios médicos científicamente aceptados y con pleno respeto a los derechos humanos, para lo cual la persona usuaria del servicio deberá ser valorada a su ingreso por un médico dentro de un plazo no mayor de cuarenta y ocho horas, garantizando con ello una atención oportuna y adecuada a su condición;
-
-III.- Ser atendidas de manera oportuna, eficiente y con calidad por personal especializado, con respeto a sus derechos, dignidad, vida privada, integridad física y mental, usos y costumbres;
-
-IV.- A que se integre un expediente con todo un proceso asistencial;
-
-V.- Recibir información suficiente, clara, oportuna, veraz y apropiada, según su edad, género o identidad étnica, respecto a su estado de salud;
-
-VI.- Se respete la confidencialidad de la información relacionada a su estado de salud y protección de datos personales, conforme a la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Aguascalientes y sus Municipios, con la Ley Federal de Protección de Datos Personales en Posesión de los Particulares y con la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados;
-
-VII.- Obtener información precisa y clara sobre el padecimiento, tratamiento que recibirá e indicaciones que deberá seguir para su adecuada evolución;
-
-VIII.- A la firma de su consentimiento informado para su tratamiento y rehabilitación en el que se establezcan los derechos y obligaciones de las partes, así como la participación e intervención que tendrán los familiares o persona responsable de la persona consumidora durante el proceso asistencial;
-
-IX.- Acudir ante las instancias correspondientes, para presentar y recibir respuesta, en los términos de las disposiciones aplicables, de las quejas, inconformidades y sugerencias que exponga sobre la prestación de la materia;
-
-X.- Recibir atención médica en caso de urgencia;
-
-XI.- Solicitar la expedición de un certificado médico;
-
-XII.- Recibir los cuidados paliativos por parte de un equipo profesional multidisciplinario, en caso de ser necesario;
-
-XIII.- Suspender el programa de tratamiento y rehabilitación, y abandonar cuando así lo deseen las unidades médicas bajo su completa responsabilidad; y
-
-XIV.- Los demás que le sean reconocidos en el funcionamiento de los sistemas de atención integral del consumo perjudicial de sustancias psicoactivas y de salud en el Estado.
+En lo no previsto por la presente Ley se aplicará supletoriamente el Código de Procedimientos Administrativos para el Estado.
 
 ###### Artículo 6.
 
-Las personas usuarias de los servicios de atención integral con problemas de consumo perjudicial de sustancias psicoactivas, deberán observar lo siguiente:
+La policía vial coadyuvará con las demás áreas operativas de las instituciones policiales, así como con otras autoridades, administrativas o judiciales, ya sean federales, estatales, municipales o del fuero militar, encargadas de la prevención, persecución de delitos e impartición de justicia, en términos de lo que dispongan las leyes aplicables.
 
-I. Cumplir las disposiciones normativas aplicables en la prestación de los servicios que se derivan de la presente Ley, tanto las de carácter general como las de funcionamiento del tratamiento bajo la modalidad residencial, donde se brinde la atención;
+## TÍTULO SEGUNDO. DE LAS AUTORIDADES DE TRÁNSITO Y SEGURIDAD VIAL
 
-II. Seguir el tratamiento e indicaciones que el personal médico le señale con relación a su estado de salud;
-
-III. Participar activamente en los programas y actividades de prevención, fomento y cuidado de su salud;
-
-IV. Procurar cuidado y diligencia en el uso y conservación de las instalaciones, materiales y equipos que se pongan a su disposición; y
-
-V. Las demás que les sean asignadas por las disposiciones legales aplicables.
-
-## TÍTULO SEGUNDO. DEL SISTEMA ESTATAL DE PREVENCIÓN DE LAS ADICCIONES, TRATAMIENTO, DISMINUCIÓN DE DAÑO Y REINSERCIÓN SOCIAL DE PERSONAS CONSUMIDORAS DE SUSTANCIAS PSICOACTIVAS
-
-DISPOSICIONES GENERALES
-
-### CAPÍTULO SEGUNDO. DE LOS DERECHOS Y OBLIGACIONES DE LAS PERSONAS CON CONSUMO PERJUDICIAL DE SUSTANCIAS PSICOACTIVAS
+### CAPÍTULO I. DE LAS AUTORIDADES ESTATALES
 
 ###### Artículo 7.
 
-Las personas usuarias cuyo ingreso a un centro de atención de adicciones sea voluntario, involuntario, obligatorio o en cumplimiento de una medida alternativa al proceso judicial, cuentan con los mismos derechos y obligaciones reconocidos en la presente Ley, para lo cual deberá apegarse a lo establecido en las disposiciones respectivas de este ordenamiento jurídico.
+Son autoridades estatales en materia de tránsito y seguridad vial:
 
-### CAPÍTULO TERCERO. DE LA DISTRIBUCIÓN DE COMPETENCIAS
+I. El Gobernador del Estado;
+
+II. El Secretario;
+
+III. El Titular de Sefiplan;
+
+IV. El Director;
+
+V. El Director de Transporte; y
+
+VI. Los servidores públicos dependientes de la Secretaría, que ordenen o ejecuten actos administrativos con el fin de conservar el orden, preservar la tranquilidad pública y cuidar que se cumplan las disposiciones de esta Ley y su Reglamento.
+
+### CAPÍTULO II. DE LA DISTRIBUCIÓN DE COMPETENCIAS
 
 ###### Artículo 8.
 
-El Gobierno y la sociedad asumen la obligación de sensibilizar, prevenir, disminuir el daño, tratar y reinsertar a la vida productiva a personas con problemas de adicción, mediante la promoción de Centros de atención de adicciones, que otorguen tratamiento individualizado, progresivo y profesional, que deberá comprender los aspectos físico, mental y emocional, en su caso, conjuntamente con los padres, tutores, cónyuges, hijos o quienes mantengan lazos firmes de unión con personas consumidoras de sustancias psicoactivas.
+El Secretario, además de las que le confiere la Ley Orgánica del Poder Ejecutivo del Estado, tendrá en materia de tránsito y seguridad vial las atribuciones siguientes:
+
+I. De carácter delegable:
+
+a) Ejecutar los acuerdos que el Gobernador del Estado dicte en materia de tránsito y seguridad vial;
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+Coordinarse con la Secretaría de Educación de Veracruz para otorgar y hacer efectivas las becas de transporte para personas con discapacidad transitoria y definitiva que se encuentren inscritos en cualquier nivel educativo tanto oficial como particular, que cuenten con la autorización de estudios y/o reconocimiento de validez oficial de estudios.
+
+b) Ejercer los recursos financieros que se aporten para la operación y funcionamiento de la Dirección;
+
+c) Promover, ante la autoridad competente, la construcción de ciclovías y el cierre de vialidades para destinarlas al uso peatonal;
+
+d) Establecer programas, así como llevar a cabo todas las acciones necesarias, destinadas a niños, niñas y adolescentes, escolares, personas con discapacidad, adultos mayores y mujeres embarazadas, para que les sea fácil, seguro y cómodo el acceso al transporte público de pasajeros y el desplazamiento en las vialidades, a través de rampas, elevadores, exclusividad de espacios, y cualquier adecuación que resulte idónea, coordinando la instalación de infraestructura, equipamiento y señalamientos que se requieran para cumplir con lo anterior;
+
+e) Instrumentar de manera permanente, en coordinación con otras dependencias, programas y campañas de educación vial y cortesía urbana, que ayuden a mejorar la cultura vial, así como las condiciones en que se presta el servicio de transporte en todas sus modalidades en el Estado, fomentar la prevención de accidentes a través de la concientización y cultura urbana en los veracruzanos; y expedir los acuerdos, manuales y lineamientos para los programas en materia de educación vial;
+
+f) Mantener un registro actualizado de peritos acreditados en materia de tránsito y seguridad vial;
+
+g) Prestar los servicios públicos de seguridad vial, peritaje, arrastre, depósito de vehículos y auxilio vial, en los casos y términos que establezca el Reglamento;
+
+h) Mantener actualizados y en número suficiente los equipos de transmisión y de señalización; así como uniformes, armamento, vehículos terrestres, aeronaves y en general los medios materiales necesarios para el cumplimiento de las funciones regulares, especiales y de urgencia;
+
+i) Tramitar, por conducto de la Dirección, los recursos administrativos que le competan; y
+
+j) Las demás que establezcan esta Ley, su Reglamento y normativa aplicable.
+
+II. De carácter no delegable:
+
+a) Asignar los recursos humanos y materiales necesarios para garantizar la seguridad vial, distribuyéndolos a las distintas unidades que integren la Dirección;
+
+(NOTA: EL 17 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, APARTADO C.1, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2015, DECLARÓ LA INVALIDEZ DEL INCISO b) DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 18 DE SEPTIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+b) PROPONER, AL GOBERNADOR DEL ESTADO, LAS TARIFAS DE LOS ESTACIONAMIENTOS PÚBLICOS, TOMANDO EN CUENTA EL SALARIO MÍNIMO VIGENTE EN LA ZONA DE QUE SE TRATE, ASÍ COMO LA OFERTA Y DEMANDA DEL SERVICIO;
+
+c) En caso de una emergencia o contingencia, disponer del uso de todos los-vehículos de transporte público de pasajeros y de carga, en beneficio de la población, coordinándose para este fin con la Secretaría de Protección Civil, y coadyuvar con las autoridades federales, civiles y militares;
+
+d) Establecer medidas tendientes a prevenir accidentes viales;
+
+e) Supervisar que la calificación de infracciones, sanciones o amonestaciones que imponga la policía vial sean inhibitorias y se ajusten a los términos de la Ley y su Reglamento;
+
+f) Designar y remover libremente al titular de la Dirección;
+
+g) Cumplir y hacer cumplir, en la esfera de su competencia, los ordenamientos estatales y federales sobre protección al ambiente, equilibrio ecológico y control de la contaminación generada por vehículos automotores;
+
+h) Autorizar el uso de torretas con los colores destinados para tal fin, exclusivamente en los vehículos de emergencia, auxilio vial, los destinados a la conservación y mantenimiento de la vía pública e infraestructura urbana y demás servicios auxiliares, en los términos de la Ley y el Reglamento;
+
+i) Celebrar acuerdos y convenios en materia de tránsito y seguridad vial, por acuerdo del Gobernador del Estado, con dependencias y organismos de los sectores público, privado y social, así como con los ayuntamientos, en los términos que establezcan las leyes;
+
+j) Designar a los titulares de subdirecciones y delegaciones de tránsito y seguridad vial, conforme a las disposiciones reglamentarias;
+
+k) Otorgar, modificar, suspender y revocar autorizaciones para la prestación de servicios auxiliares de seguridad vial, en los términos previstos por esta Ley, su Reglamento y demás disposiciones en la materia; y
+
+l) Las demás que establezcan esta Ley, su Reglamento y las normas aplicables.
 
 ###### Artículo 9.
 
-Las disposiciones de esta Ley, se aplicarán sin perjuicio de las contenidas en otras normas sobre cuestiones específicas que se relacionan con las materias que regula este ordenamiento.
+El Titular de Sefiplan, además de las que le confiere la Ley Orgánica del Poder Ejecutivo del Estado, tendrá las atribuciones siguientes:
+
+I. Proveer, de conformidad con la normativa aplicable, la expedición y entrega de los instrumentos y valores referentes al control vehicular, así como expedir calcomanías, placas de circulación, hologramas, localizadores satelitales u otros dispositivos tecnológicos, de acuerdo con las normas oficiales mexicanas y demás aplicables, así como con los programas que en su caso emitan las autoridades competentes;
+
+II. En coordinación con la Secretaría, mantener actualizado el padrón vehicular estatal, registros, archivos y controles relativos a la expedición de placas metálicas, tarjetas de circulación y demás datos sobre vehículos y conductores, a la conclusión de cada ejercicio mensual, en los términos que dispongan la normativa aplicable;
+
+III. Recaudar los ingresos que para la Hacienda del Estado se generen por la aplicación de la presente Ley, su Reglamento y demás disposiciones atinentes;
+
+IV. Recaudar los conceptos que por sanciones pecuniarias en materia de tránsito y seguridad vial se generen; y
+
+V. Las demás que establezcan esta Ley y su Reglamento.
 
 ###### Artículo 10.
 
-La atención integral sobre el consumo perjudicial de sustancias psicoactivas es un asunto prioritario de la política pública del Estado. Los principios de actuación del Gobierno del Estado en la aplicación de la presente Ley son los siguientes:
+Son atribuciones de la Dirección las siguientes:
 
-I.- La prevalencia del interés general de la sociedad en el diseño de las políticas públicas de atención integral de personas con problemas de consumo perjudicial de sustancias psicoactivas;
+I. Aplicar esta Ley y su Reglamento en las vías públicas de competencia estatal, así como sancionar o amonestar por las infracciones a las normas de tránsito y seguridad vial que se cometan en las mismas;
 
-II.- La prevención y disminución de los factores de riesgo del consumo perjudicial de sustancias psicoactivas como eje rector de la política que se derive de la aplicación de la presente Ley;
+II. Garantizar el adecuado uso de los recursos humanos, financieros y materiales, en materia de tránsito y seguridad vial;
 
-III.- La identificación, prevención y atención de las causas que generan el consumo perjudicial de sustancias psicoactivas para su eliminación dentro del ámbito de competencias;
+III. Preservar el orden público y la seguridad vial;
 
-IV.- El enfoque transversal de las políticas y acciones para la atención integral del consumo perjudicial de sustancias psicoactivas;
+IV. Prevenir la comisión de delitos en las vialidades de competencia estatal, estableciendo la coordinación necesaria entre la policía vial y las demás áreas operativas de las policías;
 
-V.- La promoción y respeto de los derechos humanos en la prestación de servicios, diseño y aplicación de políticas que se deriven de la atención integral de personas con problemas de consumo perjudicial de sustancias psicoactivas, reconociendo a las personas como sujetos de derechos;
+V. Mantener las vialidades libres de obstáculos, objetos o vehículos abandonados, que impidan, dificulten u obstaculicen el tránsito vehicular y peatonal, excepto en aquellos casos autorizados previamente por escrito;
 
-VI.- La incorporación de la perspectiva de género en el diseño y aplicación de la presente ley, reconociendo las necesidades diferenciadas entre mujeres y hombres;
+VI. Garantizar la seguridad de los usuarios de los servicios del transporte público de pasajeros;
 
-VII.- La atención especial de la población infantil y juvenil en el diseño de acciones para la atención integral de personas con problemas de consumo perjudicial de sustancias psicoactivas, identificados como grupos de riesgo;
+VII. Avisar oportunamente a los usuarios, sobre cualquier obstrucción o uso extraordinario de la vialidad, así como las rutas alternativas; y
 
-VIII.- La educación como mecanismo para fortalecer la responsabilidad individual y social en la construcción y pertenencia de una cultura de prevención del consumo perjudicial de sustancias psicoactivas;
-
-IX.- La coordinación con las autoridades respectivas de la Administración Pública Federal y Municipal la concertación de acciones con los sectores social y privado, para el diseño y aplicación de programas y acciones materia de la presente Ley;
-
-X.- La actuación coordinada de la Administración Pública del Estado, a través de la incorporación de acciones específicas complementarias en los programas educativos, sociales, culturales y de desarrollo a cargo de las diferentes dependencias, entidades y órganos que la conforman;
-
-XI.- La cobertura universal y equitativa de los servicios previstos en la presente Ley a las personas que habitan y transitan el Estado, considerando las necesidades generales y particulares de atención integral del consumo perjudicial de sustancias psicoactivas;
-
-XII.- La prestación integral de los servicios previstos en la presente Ley, que contempla desde las acciones de prevención hasta la integración comunitaria de las personas usuarias del servicio;
-
-XIII.- El respeto al consentimiento informado de las personas usuarias de los servicios que se deriven de la presente Ley, que implica otorgamiento de información suficiente respecto de los procedimientos a emplear y los riesgos que involucran;
-
-XIV.- La reserva de identidad y protección de datos personales de las personas usuarias de los servicios contemplados en la atención integral de personas con problemas de consumo perjudicial de sustancias psicoactivas; y
-
-XV.- La participación social en las acciones de prevención del consumo perjudicial de sustancias psicoactivas.
+VIII. Aplicar, en el ámbito de su competencia, la presente Ley, su Reglamento y todas las disposiciones en materia de seguridad pública en general y de tránsito y seguridad vial en específico.
 
 ###### Artículo 11.
 
-El Gobierno, los Municipios y el Consejo, fomentarán la colaboración de las figuras de representación ciudadana establecidas en la legislación en la materia, así como cualquier otro mecanismo de participación comunitaria, de las Asociaciones de Madres y Padres de Familia y Consejos Escolares de Participación Social en el desarrollo de programas en las comunidades, colonias, barrios y unidades habitacionales, para contribuir en la participación informada, permanente y responsable de las personas y de la comunidad en los programas de atención integral del consumo perjudicial de sustancias psicoactivas, particularmente a través de las siguientes acciones:
-
-I.- Promoción de hábitos de conducta, que contribuyan a prevenir cualquier tipo de consumo perjudicial de sustancias psicoactivas, e intervenir, a través de programas de promoción y mejoramiento de la salud, en la prevención de enfermedades y accidentes relacionados con el consumo de dichas sustancias;
-
-II.- Incorporación de manera voluntaria en la realización de tareas de asistencia social y participación en determinadas actividades de operación de los servicios de prevención, bajo la dirección de las autoridades correspondientes;
-
-III.- Colaboración en la prevención y control de riesgos sanitarios;
-
-IV.- Formulación de sugerencias para mejorar los servicios de atención integral del consumo perjudicial de sustancias psicoactivas; y
-
-V.- Las demás actividades que coadyuven a la protección de la salud y al fomento de la cultura de la prevención del consumo perjudicial de sustancias psicoactivas, de conformidad a las disposiciones aplicables.
-
-La participación social activa e informada en los programas y servicios contemplados en la atención integral de personas con problemas de consumo perjudicial de sustancias psicoactivas es prioritaria, y tiene por objeto fortalecer la estructura y funcionamiento del Consejo, a través de las figuras de participación ciudadana y los diversos mecanismos de organización social y comunitaria.
+La policía vial procederá a la detención, por flagrancia, de aquellas personas que se encuentren cometiendo un delito o una infracción a esta Ley o su Reglamento, en los casos previstos, y las pondrá inmediatamente, a disposición de la autoridad competente.
 
 ###### Artículo 12.
 
-Las Dependencias, Órganos Desconcentrados, y Entidades que integran la Administración Pública del Estado y los Municipios, en el ámbito de sus respectivas competencias, desarrollarán acciones para dar cumplimiento al objeto de la presente Ley y demás disposiciones aplicables en la materia, utilizando incluso las nuevas tecnologías de información y comunicación.
+Son atribuciones del Director:
+
+I. Controlar y supervisar las actividades en materia de tránsito y seguridad vial;
+
+II. Ejecutar los programas de tránsito y seguridad vial, en términos de ley y de los acuerdos que para tal fin emita el Secretario;
+
+III. Proponer al Secretario programas en materia de tránsito y seguridad vial relativos a los peatones, conductores, operarios y pasajeros del transporte particular y público, y al resto de los usuarios de las vías públicas;
+
+IV. Proponer al Secretario las medidas que considere necesarias para optimizar los servicios de tránsito y seguridad vial a que se refieren la presente Ley y su Reglamento;
+
+V. Sugerir al Secretario la actualización, especialización y mejora de los programas de capacitación y adiestramiento, dirigidos al personal de la Dirección;
+
+VI. Elaborar estadísticas sobre infracciones y accidentes automovilísticos que sucedan en la vía pública de competencia estatal o en zonas privadas con acceso al público;
+
+VII. Mantener, actualizar y vigilar, en coordinación con Sefiplan, los registros, archivos y controles del área a su cargo, relativos a la expedición de las placas de circulación, tarjetas de circulación y demás datos sobre los vehículos y conductores;
+
+VIII. Proponer al Secretario la modificación, suspensión, revocación y ejercicio de autorizaciones para la prestación de servicios auxiliares de seguridad vial, en los términos previstos por esta Ley, su Reglamento y demás disposiciones en la materia;
+
+IX. Vigilar el cumplimiento de las disposiciones contenidas en la presente Ley y su Reglamento;
+
+X. Imponer las sanciones aplicables por infracciones a esta Ley o su Reglamento;
+
+XI. Resolver, de conformidad con lo establecido en el Código de Procedimientos Administrativos para el Estado, los recursos que se interpongan en contra de la aplicación de las disposiciones contenidas en esta Ley y su Reglamento;
+
+XII. Vigilar el cumplimiento de las disposiciones contenidas en la ley de la materia y demás normativa aplicable, cuando los vehículos que prestan el servicio público de transporte, en todas sus modalidades, circulen en vialidades competencia del Estado;
+
+XIII. Ejecutar los mandamientos de autoridades judiciales y administrativas, cuando éstas así lo soliciten, de conformidad con la normativa aplicable;
+
+XIV. Proponer al Secretario la designación o remoción de los servidores públicos que integren la plantilla del personal de la Dirección; y
+
+XV. Las demás que le confieran esta Ley, su Reglamento y otros ordenamientos.
 
 ###### Artículo 13.
 
-Son atribuciones y obligaciones del Gobierno del Estado:
+El personal de la Dirección que desempeñe funciones o actividades en la materia que regulan esta Ley y su Reglamento será dependiente de la Secretaría y se regirá por lo señalado en las disposiciones siguientes:
 
-I.- Elaborar y ejecutar programas, así como diseñar nuevos mecanismos y modelos de atención, sensibilización, prevención y erradicación de las adicciones con perspectiva de género;
+I. El personal operativo y administrativo tendrá el carácter de auxiliar de la función de seguridad pública del Estado y, para todos los efectos laborales y administrativos, será considerado de confianza;
 
-II.- Desarrollar los mecanismos necesarios para el cumplimiento de esta Ley, a través de las dependencias y organismos que corresponda en su caso;
+II. El personal operativo se sujetará a los exámenes de evaluación y control de confianza, previstos en la Ley del Sistema Estatal de Seguridad Pública para los integrantes de las instituciones de seguridad pública, sin perjuicio de lo que establezcan otros ordenamientos legales;
 
-III.- Incluir una partida presupuestal que garantice a las dependencias y entidades cumplir con los objetivos señalados por la presente ley;
+III. El personal operativo podrá realizar funciones administrativas de acuerdo con las necesidades del servicio; para estos efectos, se entenderá por personal operativo el policía vial nombrado para prestar sus servicios en las vías públicas y ejercer actos de autoridad, y por personal operativo administrativo, el policía vial que, por necesidades del servicio, tenga que readscribirse para realizar trabajos propios del manejo interno y trámites de las oficinas;
 
-IV.- Celebrar convenios de coordinación y concertación con la participación que corresponda a las dependencias y entidades de gobierno, tanto estatal como municipal, con organismos nacionales e internacionales en materia de prevención y erradicación de las adicciones;
+IV. El personal administrativo está integrado por aquellos servidores públicos de confianza que prestan sus servicios para el manejo interno, trámites y actividades propias de oficina;
 
-V.- Realizar, mediante los medios de comunicación, campañas de sensibilización y prevención sobre las adicciones, con la finalidad de informar a la población sobre las leyes, medidas y programas que existen en la materia y los recursos disponibles; y
+V. El personal operativo tiene la obligación de asistir a los cursos de capacitación, adiestramiento, actualización y especialización; estos cursos los organizará la Academia Estatal de Policía, adscrita a la Secretaría;
 
-VII (SIC).- Las demás que esta Ley y otros ordenamientos legales le otorguen.
+VI. El salario del personal será fijado en el presupuesto de egresos que corresponda. Quien ascienda de grado o jerarquía tendrá un incremento a su sueldo;
+
+VII. La jornada de trabajo del personal operativo se establecerá de conformidad con el apartado B, fracción I, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y en atención a las necesidades del servicio y a su adscripción;
+
+VIII. La jornada de trabajo del personal administrativo se ajustará de conformidad con el apartado B, fracción I del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, así como a los horarios de los trabajadores de confianza del Gobierno del Estado; y
+
+IX. La conducta del personal operativo se basará en los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en el Reglamento del Régimen Disciplinario para los Integrantes de las Instituciones Policiales de la Secretaría de Seguridad Pública; así como los Lineamientos de Conducta Profesional y de Valores Institucionales de la Secretaría de Seguridad Pública; dichas normas de conducta deberán contener disposiciones relativas a:
+
+a) Grados jerárquicos;
+
+b) Reconocimientos y estímulos;
+
+c) Evaluación;
+
+d) Faltas; y
+
+e) Sanciones.
 
 ###### Artículo 14.
 
-Corresponde a la Secretaría, como autoridad competente en el Estado de Aguascalientes en materia de salubridad general, a través del ISSEA:
-
-I.- Establecer políticas y lineamientos en materia de salud en atención a las adicciones, mismas que deberán aplicarse en todo el Estado;
-
-II.- Coordinar la prestación del servicio médico y asistencial a personas con alguna adicción, a través del Sistema Estatal de Salud;
-
-III.- Coadyuvar en la promoción de principios encaminados a la formación de una cultura del cuidado de la salud y el fomento de actividades cívicas, deportivas y culturales, tendientes a la erradicación de las adicciones, con perspectiva de género;
-
-IV.- Planear, autorizar, implementar, desarrollar y vigilar, acciones y programas de prevención y tratamiento en todo lo concerniente a la erradicación de las adicciones y el cuidado de personas con problemas de adicción;
-
-V.- Capacitar a los Centros de atención de adicciones, para que cumplan con los requisitos establecidos en la normatividad aplicable, con el propósito de que brinden los servicios de atención contra las adicciones;
-
-VI.- La vigilancia sanitaria, a través de la supervisión y evaluación, de los Centros de atención de adicciones, de acuerdo a lo establecido en las Leyes General y Estatal de Salud, sus reglamentos, la Norma Oficial Mexicana y la presente Ley;
-
-VII.- Realizar visitas de verificación a los Centros de Atención de adicciones, para comprobar el cumplimiento de la presente Ley y las demás disposiciones generales aplicables;
-
-VIII.- Solicitar a la CONADIC el registro de los Centros de atención de adicciones que cumplan los requisitos establecidos en la presente ley, para el reconocimiento correspondiente;
-
-IX.- Proporcionar los recursos humanos y materiales para cumplir las funciones de registro y vigilancia de los Centros de Atención de adicciones, con el fin de asegurar se cumplan y respeten los derechos humanos de las personas usuarias;
-
-X.- Desarrollar y administrar una plataforma digital para el registro de Centros de atención de adicciones públicos, sociales o privados, con el fin de dar seguimiento inmediato al cumplimiento de la presente Ley y demás disposiciones jurídicas aplicables;
-
-XI.- Crear un padrón de instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de adicciones, que contenga las características de atención, condiciones y requisitos para acceder a los servicios que ofrecen;
-
-XII.- Realizar estudios e investigación en materia de adicciones para conocer la prevalencia y obtener parámetros de medición y evaluación en la materia; y
-
-XIII.- Las demás que se deriven de la presente Ley.
+El personal operativo está facultado para conocer de las infracciones a esta Ley y su Reglamento, así como para elaborar las boletas de infracción correspondientes.
 
 ###### Artículo 15.
 
-Corresponde a la Secretaría de Seguridad Pública:
+Se hará uso de los implementos tecnológicos y financieros existentes que permitan realizar el cobro de las sanciones por infracciones a esta Ley y su Reglamento. El personal operativo podrá realizar dicho cobro al momento de su imposición, siempre y cuando el infractor cuente con la tarjeta bancaria de crédito o débito que le permita realizar el pago, emitiendo en el acto el comprobante correspondiente.
 
-I.- Auxiliar a las autoridades competentes en el cumplimiento de esta Ley y demás disposiciones aplicables que de ella deriven;
+Bajo ninguna circunstancia podrá el personal operativo aceptar el pago en efectivo de una infracción al momento de su imposición.
 
-II.- Celebrar acuerdos de colaboración con los ayuntamientos de la Entidad, a fin de cumplir con el objetivo de esta Ley, su reglamento y demás disposiciones aplicables;
+Sefiplan podrá celebrar convenios con particulares para facilitar a los infractores el pago de la multa a la que se hayan hecho acreedores, ya sea en tiendas de servicio, autoservicio, de conveniencia, departamentales o en aquellas que reúnan los requisitos establecidos por Sefiplan para realizar dichos cobros.
 
-III.- Aplicar los programas de prevención para el mejor cumplimiento del objeto de esta Ley, con perspectiva de género, así como apoyar y asesorar a los organismos públicos, en materia de seguridad;
-
-IV.- Crear y desarrollar programas, así como realizar las acciones que competen en materia de seguridad; así mismo, coordinarse, en su caso, con las demás dependencias del gobierno estatal, según su esfera de competencia, y con los municipios de la Entidad y la sociedad; brindando apoyo con medidas de seguridad y asesoría cuando sea necesario;
-
-V.- Elaborar y ejecutar programas preventivos, así como diseñar nuevos modelos de prevención y erradicación de las adicciones, según su esfera de competencia; y
-
-VI.- Las demás que se deriven de la presente ley.
+Asimismo, el personal operativo deberá conservar el orden, preservar la tranquilidad pública, prevenir la comisión de delitos y garantizar el tránsito y la seguridad vial, cumpliendo y haciendo cumplir las disposiciones de esta Ley y su Reglamento.
 
 ###### Artículo 16.
 
-Corresponde al Instituto de Educación del Estado:
+De conformidad con lo que establece el artículo 77 segundo párrafo de la Ley del Sistema Estatal de Seguridad Pública para el Estado, el personal administrativo no operativo se encuentra exento del alcance del Régimen Disciplinario de la Secretaría de Seguridad Pública y de las Comisiones y Comités de Honor y Justicia, por lo que no pertenece al Servicio Profesional de Carrera Policial y no está sujeto a la disciplina, horarios o necesidades del servicio operativo de la Dirección o de las instituciones policiales.
 
-I.- Auxiliar en la elaboración, supervisión y promoción de programas en materia de sensibilización, prevención y educación en contra de las adicciones, en los espacios educativos, con perspectiva de género;
-
-II.- Colaborar conjuntamente con la Secretaría y los sectores público, privado y social, a fin de cumplir el objeto de esta ley;
-
-III.- Impulsar dentro de los planteles educativos, y en coordinación con los Centros de Atención de Adicciones, una cultura y sensibilización enfocadas a la prevención de las adicciones, con perspectiva de género;
-
-IV.- Promover la educación dentro de los Centros de Atención de adicciones, a través de convenios con los mismos, para facilitar el acceso a la educación escolarizada y/o abierta;
-
-V.- Implementar en los programas educativos, contenido que tenga como fin promover la cultura de la prevención de las adicciones; y
-
-VI.- Las demás que le otorgue esta Ley y otras disposiciones legales aplicables.
-
-### CAPÍTULO PRIMERO. DEL PROGRAMA ESTATAL
+### CAPÍTULO III. DE LAS AUTORIDADES DE TRÁNSITO Y SEGURIDAD VIAL MUNICIPALES
 
 ###### Artículo 17.
 
-En la esfera de su competencia, corresponde a los Municipios:
-
-I.- Diseñar, formular y aplicar, en coordinación con el Consejo, la política municipal orientada a la sensibilización, prevención y erradicación de las adicciones;
-
-II.- Brindar capacitación sobre las adicciones, en coordinación con las autoridades encargadas de la prevención y atención de las mismas, al personal del Ayuntamiento, a fin de mejorar la atención y asistencia que se otorga a las personas consumidoras de sustancias psicoactivas;
-
-III.- Realizar las acciones necesarias, en el ámbito de su competencia, para el cumplimiento del Programa a que se refiere la presente Ley;
-
-IV.- Elaborar programas de prevención y proyectos culturales, sociales y deportivos, que promuevan la prevención y erradicación de las adicciones;
-
-V.- Promover la participación de organismos públicos, privados y de la sociedad civil, en los programas y acciones de apoyo en la prevención y erradicación de las adicciones; y
-
-VI.- Las demás previstas para el cumplimiento de esta Ley.
+Conforme a lo dispuesto por la Constitución Federal y la del Estado, así como las leyes que de ambas emanen, los ayuntamientos tendrán a su cargo el servicio público de tránsito municipal, con la denominación que cada uno determine y, en su caso, podrán suscribir convenios de coordinación con el Gobierno del Estado para ceder, de manera temporal, la prestación del servicio de tránsito y seguridad vial al Ejecutivo a través de la Secretaría, o bien, para que éste se preste o ejerza de manera conjunta y coordinada entre ambos órdenes de gobierno.
 
 ###### Artículo 18.
 
-El Sistema Estatal para la Prevención de las Adicciones, tendrá por objeto la conjunción de esfuerzos, instancias, instrumentos, políticas, servicios y acciones interinstitucionales para la atención eficiente y concertada de la población con consumo perjudicial de sustancias psicoactivas, así como la sensibilización y prevención de adicciones en la sociedad.
+Son autoridades municipales en materia de tránsito y seguridad vial:
+
+I. El Presidente Municipal;
+
+II. Los ediles de la Comisión del ramo;
+
+III. El Titular de la Unidad Administrativa de Tránsito y Seguridad Vial o su equivalente; y
+
+IV. Los servidores públicos dependientes del Ayuntamiento, que ordenen o ejecuten actos administrativos con el fin de conservar el orden, preservar la tranquilidad pública y cuidar que se cumplan las disposiciones de esta Ley y el reglamento correspondiente;.
 
 ###### Artículo 19.
 
-Para ejecutar el Programa Nacional, la Secretaría se coordinará con las instancias federales y municipales en el ámbito de sus respectivas competencias en términos de lo que establece la Ley General y demás disposiciones legales aplicables.
+Los ayuntamientos, en el ámbito de su competencia, tendrán las siguientes atribuciones en materia de tránsito y seguridad vial:
 
-## TÍTULO TERCERO. DE LA ATENCIÓN INTEGRAL DEL CONSUMO PERJUDICIAL DE SUSTANCIAS PSICOACTIVAST
+I. Celebrar convenios en materia de tránsito y seguridad vial, conforme a lo dispuesto en esta Ley;
 
-### CAPÍTULO SEGUNDO. DEL CONSEJO ESTATAL
+II. Disponer reglamentariamente, en el ámbito de su competencia, lo necesario para la observancia de esta Ley;
+
+III. Realizar actos administrativos en materia de tránsito y seguridad vial municipal, con base a las disposiciones de esta Ley y su reglamentación;
+
+IV. Ordenar la elaboración de los estudios técnicos necesarios que requieran los servicios viales, dentro de su jurisdicción y competencia;
+
+V. Cumplir y hacer cumplir esta Ley y la reglamentación de la materia, para lo cual podrán solicitar la colaboración de otras autoridades, en la forma prevista en esta Ley, su Reglamento y demás disposiciones legales aplicables;
+
+VI. Ordenar la implementación de programas de educación vial que garanticen la seguridad de las personas y de su patrimonio, en las vías públicas o zonas privadas con acceso al público, que sean de su competencia;
+
+VII. Establecer medidas tendientes a evitar contravenciones a esta Ley y a la reglamentación de la materia y prevenir accidentes en las vías públicas de su competencia;
+
+VIII. Ejercer el mando directo de la unidad administrativa encargada del control y operación del servicio de tránsito y seguridad vial o su equivalente en el municipio, con la finalidad de que actúen de manera coordinada y desarrollen sus funciones con eficacia y eficiencia;
+
+IX. Expedir, por conducto de la unidad administrativa encargada del control y operación del servicio de tránsito y seguridad vial en el municipio, las boletas de infracciones a conductores y vehículos; y
+
+X. Las demás que les confieran esta Ley, su Reglamento y otras disposiciones aplicables.
+
+## TÍTULO TERCERO. DE LA SEGURIDAD VIAL
+
+### CAPÍTULO I. DE LA CIRCULACIÓN EN LAS VÍAS PÚBLICAS
 
 ###### Artículo 20.
 
-El Consejo, conforme lo dispone la Ley General y el Programa Nacional, elaborará el Programa Estatal, el cual será de observancia obligatoria para los prestadores de servicios de salud en el Estado, en los establecimientos de los sectores público, privado y social que realicen actividades preventivas, de tratamiento y de control de las adicciones, considerando los siguientes aspectos:
+La Secretaría y los ayuntamientos aplicarán y vigilarán el cumplimiento de esta Ley y sus respectivos reglamentos, a efecto de que, en las vialidades públicas y privadas de su competencia, el tránsito por las mismas sea adecuado y seguro para peatones, pasajeros y conductores de vehículos.
 
-I.- La prevención, tratamiento de las adicciones y, en su caso, la rehabilitación de la persona con consumo perjudicial de sustancias psicoactivas;
+En la vía pública las preferencias de paso de los vehículos se determinarán de conformidad con el Reglamento.
 
-II.- La educación sobre los efectos del uso de sustancias psicoactivas, así como sus consecuencias en las relaciones sociales;
-
-III.- La educación e instrucción a la familia y a la comunidad sobre la forma de reconocer los síntomas derivados del uso de sustancias psicoactivas y adoptar las medidas oportunas para su prevención y tratamiento;
-
-IV.- La investigación de las causas de las sustancias psicoactivas, así como del consumo y de las acciones para controlarlas;
-
-V.- Campañas de información y sensibilización basadas en estudios científicos, alertando de manera adecuada sobre los efectos y daños físicos, así como psicológicos del consumo perjudicial de sustancias psicoactivas;
-
-VI.- La superación de la adicción a las sustancias psicoactivas, a través del fomento de la participación comunitaria y familiar, y el reconocimiento de la importancia de los grupos de ayuda mutua; y
-
-VII.- Subsidios para el tratamiento residencial de las adicciones, para apoyar a personas con trastornos relacionados con el consumo perjudicial de sustancias psicoactivas que no cuentan con recursos económicos para costear dicho tratamiento.
+El Gobierno del Estado y, en su caso, los ayuntamientos se responsabilizarán del mantenimiento de la señalización y las vialidades, las cuales deberán permanecer siempre funcionales y en buen estado; por lo que serán responsables de los daños y perjuicios que se ocasionen a los usuarios, por la falta de mantenimiento.
 
 ###### Artículo 21.
 
-Las políticas públicas, programas y acciones en materia de prevención, tratamiento, rehabilitación e integración comunitaria como parte de la atención integral del consumo perjudicial de sustancias psicoactivas en el Estado, deberán promover el desarrollo integral e individual de las personas y regirse por los principios multidisciplinarios, de transversalidad y de permanencia, con estricto respeto a los derechos humanos e incorporando la perspectiva de género.
+El Gobierno del Estado, a través de la Secretaría, y en su caso los ayuntamientos promoverán en el ámbito de su competencia las acciones necesarias para que las vialidades peatonales, los corredores, andenes y, en general, la infraestructura de conexión de los diversos medios de transporte, se mantengan en un buen estado, con el fin de garantizar a los usuarios un tránsito seguro por éstas, llevando a cabo las medidas necesarias para que en las vialidades se establezcan facilidades para el acceso de la población infantil y escolar, así como de personas con discapacidad, adultos mayores y mujeres embarazadas.
 
 ###### Artículo 22.
 
-Los ejes, lineamientos y disposiciones relacionadas con la prevención, el tratamiento y la rehabilitación como parte de la atención integral del consumo perjudicial de sustancias psicoactivas, así como la integración comunitaria de las personas, se contendrán en el Programa Estatal, el cual deberá ser en todo momento sistemático y apegado a un proceso de investigación, planeación, operación, seguimiento y evaluación.
+En la vía pública se prohíbe:
 
-### CAPÍTULO TERCERO. DE LA COMISIÓN
+I. La exhibición de vehículos para su venta, con las excepciones establecidas en el Reglamento;
+
+II. Depositar objetos, materiales de construcción o de cualquier otra índole, que dificulten o impidan el tránsito vehicular y peatonal, excepto en casos previamente autorizados por escrito;
+
+III. Abandonar vehículos o remolques deteriorados, inservibles, con fallas mecánicas o indicios de no rodamiento por más de setenta y dos horas. Para el retiro de los mismos se procederá conforme lo establece el artículo 154, fracción II, de esta Ley;
+
+IV. Fijar cualquier tipo de propaganda en los dispositivos para el control de la seguridad vial, en el equipamiento urbano o que impida la visibilidad de los mismos;
+
+V. Establecer puestos ambulantes, casetas telefónicas, bases de servicio o parada, casetas de vigilancia o de seguridad privada, plumas, cadenas o maceteros que impidan el paso, anuncios, espectaculares, señalamientos no oficiales, jardineras, portones, máquinas expendedoras de productos o servicios u otros objetos que obstaculicen el libre tránsito, sin autorización y permiso por escrito de la autoridad competente; con excepción de los buzones oficiales de correspondencia y las tomas de agua para bomberos;
+
+VI. Reparar vehículos cuando esta actividad se realice de manera habitual o permanente;
+
+VII. Instalar boyas, topes o cualquier objeto, sin permiso de la autoridad competente, así como colocar o fijar objetos para apartar áreas de estacionamiento; y
+
+VIII. Las demás actividades que determinen esta Ley u otras disposiciones legales aplicables.
+
+### CAPÍTULO II. DE LAS SEÑALES PARA EL CONTROL DE LA SEGURIDAD VIAL
+
+> <small>(REFORMADO, G.O. 7 DE MARZO DE 2017)</small>
 
 ###### Artículo 23.
 
-El Programa Estatal es el conjunto de acciones sistemáticas basadas en la certeza científica, dirigidas a evitar el consumo perjudicial de sustancias psicoactivas, reducir los factores de riesgo y daños ocasionados que se deriven de su consumo, promoviendo estilos de vida saludables en la población, además de brindar atención y, en su caso, tratamiento de manera oportuna e integral a las personas que lo requieran, proporcionando la rehabilitación adecuada y los medios y alternativas para su integración social, mismo que debe estar apegado al Programa Nacional.
-
-El Programa Estatal será elaborado por el Consejo, en colaboración con instancias y organizaciones relacionadas con la materia objeto de la presente Ley; establecerá una estrategia anual con objetivos y líneas de acción prioritarias, tomando en cuenta las características de cada sector social.
+Únicamente la Secretaría, a través de la Dirección, y en su caso, los ayuntamientos en el ejercicio de sus atribuciones y atendiendo a las necesidades inherentes, podrán colocar en la vía pública las señales, dispositivos, objetos electrónicos, mecánicos y de innovación tecnológica que se requieran para facilitar el tránsito adecuado de vehículos y su aparcamiento, así como verificar el cumplimiento de la presente Ley y su Reglamento.
 
 ###### Artículo 24.
 
-El Programa Estatal fomentará la corresponsabilidad social, con la finalidad de incorporar de manera activa a los diversos sectores sociales en la promoción de la salud y la prevención de los factores de riesgo, como lineamientos para evitar los efectos adversos ocasionados por el consumo perjudicial de sustancias psicoactivas; para tal efecto deberá considerar lo siguiente:
-
-I.- La Coordinación Intersectorial, promoviendo la participación activa de sectores público, privado y social, con el objetivo de fomentar la corresponsabilidad que permita la toma adecuada de decisiones y genere medios y alternativas para la atención oportuna en materia de sustancias psicoactivas;
-
-II.- La Vinculación Interinstitucional, impulsando la integración de instituciones públicas, privadas, organismos no gubernamentales y organizaciones sociales para la realización de acciones conjuntas a fin de lograr mayor impacto y eficiencia en la aplicación del Programa Estatal fortaleciendo redes interinstitucionales con esquemas de referencia y contra referencia; y
-
-III.- Las Redes comunitarias, que agrupen y organicen a personas en torno a la atención y participación social en materia de atención integral del consumo perjudicial de sustancias psicoactivas.
+Todos los señalamientos viales se ajustarán a las especificaciones dispuestas en las normas oficiales mexicanas relativas y aplicables.
 
 ###### Artículo 25.
 
-Los lineamientos, como principios rectores en los que se deberá sustentar el Programa Estatal, son los siguientes:
+La Dirección o, en su caso, los Ayuntamientos, conforme al artículo anterior, dispondrán la instalación de señales viales preventivas, restrictivas e informativas.
 
-I.- Lineamientos Científicos, que incluyen:
+Las señales preventivas tienen por objeto advertir la existencia y naturaleza de un peligro o el cambio de situación en la vía pública.
 
-a) Fundamentos en modelos teóricos;
+Las señales restrictivas tienen por objeto indicar determinadas limitaciones o prohibiciones que regulan el tránsito.
 
-b) Priorizar las zonas y grupos de alto riesgo;
+Las señales informativas tienen por objeto orientar al usuario sobre destinos, lugares, servicios y distancias.
 
-c) Investigación de nuevos modelos y técnicas de prevención y detección oportuna y atención del consumo perjudicial de sustancias psicoactivas;
+La Dirección y los ayuntamientos, en su caso, están obligados a colocar inmediatamente cualquiera de estas señales, si se trata de obras o construcciones públicas.
 
-d) Profesionalización y actualización continua del personal responsable;
-
-e) Procedimientos para la detección, orientación y consejería respecto al consumo perjudicial de sustancias psicoactivas; y
-
-f) Procesos de retroalimentación para dar seguimiento, monitoreo y evaluación de la atención integral del consumo perjudicial de sustancias psicoactivas, que incorpore a instituciones públicas, privadas, organismos no gubernamentales y organizaciones sociales; y
-
-II.- Lineamientos Éticos:
-
-a) Promoción y respeto de los derechos humanos;
-
-b) Respeto a las decisiones de la persona y a su consentimiento informado;
-
-c) Garantizar la confidencialidad de la información, y
-
-d) Otorgar información precisa y adecuada.
+Si se ocasionare un accidente por falta de señalamientos, la Dirección o el ayuntamiento, según corresponda, responderá por los daños ocasionados. La Dirección o, en su caso, el ayuntamiento, será responsable solidariamente con el constructor de la obra si ésta es pública. Si la obra es privada será responsabilidad única del constructor, siempre y cuando no exista responsabilidad civil por dolo o negligencia de algún servidor público, en cuyo caso éste también será responsable solidario.
 
 ###### Artículo 26.
 
-El Consejo, en colaboración con el Gobierno, la Administración Pública Federal, instituciones públicas, privadas, organismos no gubernamentales y organizaciones sociales relacionadas con la materia de la presente Ley, desarrollará anualmente los objetivos, estrategias y líneas de acción prioritarias que se deriven del Programa Estatal, para lo cual sistematizará su aplicación contando con un manual de procedimientos.
+Los usuarios de las vías públicas observarán estrictamente lo indicado por las señales viales previstas en el artículo que antecede y demás normativa aplicable.
 
 ###### Artículo 27.
 
-Para el desarrollo y aplicación de los objetivos, estrategias y líneas de acción prioritarias a los que se refiere la presente Ley, se deberán considerar las siguientes etapas:
+En las vías públicas de carácter municipal, los ayuntamientos, en el ámbito de su competencia, estarán obligados a mantener y preservar en estado óptimo las señales, dispositivos, objetos electrónicos, mecánicos o de innovación tecnológica que se hayan instalado para la seguridad vial, así como aquellas referidas a la nomenclatura de la vialidad, independientemente de la autoridad que preste el servicio de seguridad vial.
 
-I.- Investigación orientada al análisis y diagnóstico de las dimensiones del consumo perjudicial de sustancias psicoactivas, así como las características, necesidades y recursos del contexto y de la población a intervenir;
-
-II.- Planeación, la cual deberá definir la metodología de la intervención preventiva comprendiendo programas de acción, objetivos, metas, estrategias y definición de competencias para la operación del Programa Estatal;
-
-III.- Operación del Programa Estatal mediante el desarrollo de estrategias, técnicas y actividades dirigidas a la población objetivo;
-
-IV.- Integración para el desarrollo y aplicación de estrategias que fomenten la participación de instituciones privadas, públicas, académicas y organizaciones de la sociedad civil;
-
-V.- Seguimiento para verificar el desarrollo de las líneas de acción, con la finalidad de valorar el funcionamiento del Programa Estatal y sus componentes, realizando permanentemente correlaciones con la planeación a efecto de ubicar diferencias y ofrecer alternativas de cambio; y
-
-VI.- Evaluación para la recopilación, análisis e interpretación de la información, que se derive de la aplicación del Programa Estatal.
-
-### CAPÍTULO PRIMERO. DE LAS MODALIDADES Y ESTRATEGIAS PARA LA PREVENCIÓN DEL CONSUMO PERJUDICIAL DE SUSTANCIAS PSICOACTIVAS
+### CAPÍTULO III. DE LOS PEATONES Y PASAJEROS
 
 ###### Artículo 28.
 
-El Consejo es un órgano de asesoría y consulta permanente para la creación, desarrollo, promoción y apoyo de los diferentes programas y políticas destinados a la sensibilización, prevención y tratamiento de personas con alguna adicción en el Estado.
+Las personas que en calidad de peatones transiten por las vías públicas están obligadas a cumplir las disposiciones de esta Ley y su Reglamento, así como las de los ordenamientos municipales que, en su caso, se expidan.
+
+Los peatones tienen derecho de preferencia al transitar por las vías públicas del Estado, cruzarán de manera obligatoria por las zonas de paso peatonal y tendrán preferencia de paso en los cruceros que carezcan de señales o de dispositivos para el control de la seguridad vial, excepto cuando sean controlados por personal operativo de la policía vial, en cuyo caso cumplirán las indicaciones de éste.
 
 ###### Artículo 29.
 
-El Consejo tendrá como sede la capital del Estado, sin perjuicio de que ocasionalmente sus miembros acuerden la determinación de otra sede.
+Los peatones tendrán preferencia de paso sobre el tránsito vehicular cuando:
+
+I. Hayan iniciado su movimiento para atravesar la vía pública, siempre que se trate de cruceros o zonas señaladas para ese efecto, de acuerdo con lo que disponga el Reglamento;
+
+II. Hagan uso de los pasos peatonales, excepto cuando se trate de vehículos de emergencia y seguridad pública en servicios de urgencia;
+
+III. Los señalamientos o dispositivos viales permitan el paso simultáneo de vehículos y peatones;
+
+IV. Exista un semáforo u otro dispositivo para el control del tránsito que les permita hacerlo;
+
+V. Hagan uso de la señal favorable del semáforo y no alcancen a cruzar la totalidad de la vía pública;
+
+VI. Los vehículos deban dar vuelta para entrar a otra vía pública y existan peatones cruzando ésta;
+
+VII. Transiten sobre el acotamiento, porque no exista zona peatonal;
+
+VIII. Transiten en tropas en formación, comitivas organizadas o filas escolares;
+
+IX. Transiten por la acera o banqueta y algún conductor deba cruzarla para entrar o salir de una cochera, estacionamiento o calle privada; y
+
+X. En los demás casos que establezca el Reglamento y otras disposiciones legales aplicables.
+
+La policía vial a cargo del control de la circulación deberá prestar todas las facilidades y seguridad necesaria para atender y facilitar el cruce a las personas con discapacidad, deteniendo a los vehículos para cederles el paso.
+
+Los conductores tendrán la obligación de ceder el paso a los peatones en todo momento.
 
 ###### Artículo 30.
 
-Como un mecanismo de seguimiento del Programa Estatal, el Consejo establecerá los procesos para garantizar la transversalidad y coordinación para el cumplimiento de los objetivos, estrategias y líneas de acción prioritarias que se desarrollen de manera anual.
+El peatón deberá:
+
+I. Desplazarse sobre la acera o banqueta y, en caso de que ésta no exista, por un extremo lateral del área de rodamiento, procurando hacerlo en sentido contrario a la circulación de vehículos;
+
+II. Obedecer las indicaciones de la policía vial o los dispositivos para el control de la seguridad vial para atravesar el arroyo vehicular;
+
+III. Cruzar las intersecciones que no estén controladas por semáforos o policía vial, con las medidas precautorias para su seguridad;
+
+IV. En áreas rurales, ceder el paso a los vehículos que se le aproximen;
+
+V. Transitar a su lado derecho en las aceras para no entorpecer la circulación de los demás peatones;
+
+VI. Utilizar obligatoriamente los puentes y pasos peatonales que existan en las vías públicas;
+
+VII. Abordar o descender de los vehículos sin invadir la superficie de rodamiento;
+
+VIII. Abordar o descender de los vehículos del servicio público de transporte de pasajeros únicamente por la derecha, cuando el vehículo se haya detenido y, en su caso, sólo en la base de servicio o parada establecida;
+
+IX. Cruzar las vías públicas de manera rápida, si le es posible, y en las esquinas o pasos peatonales; y
+
+X. Cumplir con las obligaciones que establezcan el Reglamento y otras disposiciones legales aplicables.
 
 ###### Artículo 31.
 
-El Consejo será integrado por las personas titulares de las siguientes instancias de gobierno:
+El peatón tiene prohibido:
 
-I.- La Secretaría de Salud; quien lo presidirá.
+I. Pretender abordar un vehículo que se encuentre en movimiento o en circulación;
 
-II.- La Comisión;
+II. Lanzar o arrojar objetos a los vehículos;
 
-III.- La Secretaría General de Gobierno;
+III. Obstaculizar las labores de los cuerpos de seguridad o de rescate en un área de siniestro;
 
-IV.- La Secretaría de Seguridad Pública;
+IV. Abordar en estado de ebriedad, o bajo la influencia de estupefacientes o psicotrópicos, vehículos del servicio de transporte público de pasajeros;
 
-V.- La Secretaría de Desarrollo Social;
+V. Interferir o impedir que la policía vial realice su función o trabajo;
 
-VI.- La Secretaría de Finanzas;
+VI. Abordar o descender de un vehículo a mitad de la calle o avenida, lejos de la acera o banqueta, o cuando se encuentre en más de una fila;
 
-VII.- La Secretaría de Desarrollo Económico, Ciencia y Tecnología;
+VII. Cruzar o invadir intempestivamente la vía pública;
 
-VIII.- La Secretaría de la Familia;
+VIII. Alterar el orden o la seguridad vial;
 
-IX.- El Instituto de Educación del Estado de Aguascalientes;
+IX. Atravesar diagonalmente los cruceros; y
 
-X.- El Instituto de la Juventud del Estado de Aguascalientes;
-
-XI.- EL Instituto del Deporte del Estado de Aguascalientes;
-
-XII.- El Instituto Aguascalentense de las Mujeres;
-
-XIII.- El Sistema para el Desarrollo Integral de la Familia;
-
-XIV.- La Procuraduría para la Protección de los Derechos de las Niñas, Niños y Adolescentes;
-
-XV.- La Fiscalía General del Estado;
-
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2025)</small>
-
-XVI.- La Comisión de Derechos Humanos del Estado de Aguascalientes;
-
-XVII.- Los municipios del Estado; y
-
-XVIII.- Un representante del Congreso del Estado, nombrado por la Comisión de Salud Pública y Asistencia Social.
-
-Las personas titulares asistirán a las reuniones del Consejo, los (sic) cuales podrán nombrar a un suplente quien deberá tener como cargo mínimo un nivel inmediato inferior al propio. La Secretaría Técnica del Consejo, recaerá en la Comisión. El Consejo emitirá sus los (sic) lineamientos de operación.
+X. Arrojar, depositar o abandonar desperdicios o cualquier otro objeto fuera de los depósitos o contenedores establecidos para tal fin.
 
 ###### Artículo 32.
 
-El Consejo tiene las siguientes atribuciones:
-
-I.- Colaborar y servir de órgano de consulta permanente para el establecimiento de políticas y acciones que se establezcan en el Estado en materia de atención de adicciones;
-
-II.- Promover el trato con valores éticos, cívicos y morales en las personas con adicción, en estricto apego a los derechos humanos y los principios de no discriminación;
-
-III.- Proponer a las dependencias y entidades involucradas en los programas contra el uso, consumo y dependencia de sustancias psicoactivas, las acciones pertinentes que coadyuven al eficaz cumplimiento de los mismos;
-
-IV.- Proponer acciones de seguimiento derivadas de la ejecución de los programas mencionados, evaluar sus resultados y, en su caso, formular las adecuaciones y modificaciones que procedan;
-
-V.- Recomendar medidas sobre el control de la publicidad relativa a las sustancias psicoactivas;
-
-VI.- Promover en forma permanente actividades de análisis e investigación que apoyen las acciones contra la dependencia de sustancias psicoactivas;
-
-VII.- Recomendar las acciones indispensables para la prevención de los problemas de salud pública provocados por el uso, consumo y dependencia de sustancias psicoactivas y difundirlas, promoverlas y apoyarlas;
-
-VIII.- Sugerir los mecanismos de coordinación entre las autoridades federales, estatales y municipales para la eficaz ejecución de los programas;
-
-IX. Promover la integración de grupos de trabajo tendientes a la implementación de acciones en materia de prevención, tratamiento y rehabilitación; y
-
-X.- Las demás que se deriven de la presente ley.
+El Poder Ejecutivo, en términos de lo dispuesto en la legislación aplicable o los ayuntamientos, en el ámbito de su competencia, deberán garantizar mediante la infraestructura e instalación de los señalamientos viales necesarios, el tránsito seguro de los peatones y pasajeros en las vialidades, ya sea mediante corredores, andenes, semáforos, puentes, pasos a nivel o desnivel y otros dispositivos, así como las protecciones necesarias. La autoridad que resulte competente evitará que las vialidades en todo su conjunto y, en específico, las destinadas al uso de peatones o pasajeros, sean obstaculizadas o invadidas; en consecuencia, retirarán los objetos que las obstaculicen o invadan.
 
 ###### Artículo 33.
 
-Los Ayuntamientos dispondrán de las medidas administrativas para la conformación de Comités municipales, los cuales serán integrados por un representante de cada una de las dependencias y entidades que conforman el Consejo Interdependencial, tales como representantes de las áreas de desarrollo social, desarrollo económico, salud, educación, cultura, deporte, seguridad pública, gobierno y participación ciudadana; así como por representantes de los sectores social y privado que realicen actividades de atención de adicciones en el territorio del Municipio de que se trate.
+Las aceras o banquetas estarán destinadas únicamente al tránsito de peatones; todo obstáculo en las mismas deberá ser retirado de manera inmediata; en caso de que los peatones, con motivo de alguna discapacidad, se desplacen en aparatos que cuenten con motor, se sujetarán a lo establecido en el Reglamento.
 
 ###### Artículo 34.
 
-Los Comités municipales serán órganos de coordinación y consulta para:
-
-I.- La integración y actualización del diagnóstico del Municipio en materia de adicciones;
-
-II.- Implementación y seguimiento del Programa Estatal;
-
-III.- La coordinación para la atención integral del consumo perjudicial de sustancias psicoactivas en el territorio que comprende el Municipio;
-
-IV.- La promoción de proyectos de trabajo interinstitucionales e intersectoriales para la atención integral del consumo perjudicial de sustancias psicoactivas y su financiamiento;
-
-V.- Participar y coadyuvar con el Consejo, en la elaboración de los criterios, lineamientos y normas técnicas en materia de prevención, tratamiento e integración comunitaria de los usuarios de sustancias psicoactivas; y
-
-VI.- Las demás que le sean asignadas por las disposiciones legales aplicables.
+El Reglamento de esta Ley deberá establecer condiciones que favorezcan el tránsito de niños, adolescentes, adultos mayores, mujeres embarazadas y personas con discapacidad en las vías públicas del Estado.
 
 ###### Artículo 35.
 
-El Consejo mantendrá vinculación permanente con los Comités Municipales, brindando apoyo y asesoría para que dichos órganos colegiados puedan dar cumplimiento a sus objetivos.
+Los pasajeros no obstruirán la visibilidad del conductor ni interferirán los controles de manejo; asimismo, observarán las disposiciones contenidas en esta Ley y su Reglamento, así como en los ordenamientos municipales que, en su caso, se expidan.
 
 ###### Artículo 36.
 
-La Comisión desarrollará las acciones en materia de prevención y tratamiento de las adicciones en el Estado, que disponga la Secretaría, el Consejo o que determine ella misma en el ámbito de sus atribuciones.
+El conductor, el operador y los pasajeros de toda clase de vehículos deberán utilizar cinturones de seguridad. La falta de éstos se sancionará en términos del reglamento respectivo.
 
-### CAPÍTULO SEGUNDO. DE LA INTERVENCIÓN, TRATAMIENTO Y REHABILITACIÓN DE PERSONAS CONSUMIDORAS DE SUSTANCIAS PSICOACTIVAS
+Cuando se transporte en un vehículo particular a un pasajero menor de cinco años de edad, el conductor tendrá la obligación de asegurarlo en una silla portainfante en el asiento trasero.
+
+Los menores de doce años viajarán en los asientos traseros de los vehículos y utilizarán el cinturón de seguridad.
+
+### CAPÍTULO IV. DE LOS VEHÍCULOS
 
 ###### Artículo 37.
 
-Corresponde a la Comisión:
+Los vehículos se clasificarán, según su capacidad para desplazar carga, de la manera siguiente:
 
-I.- Impulsar e implementar acciones tendientes a la prevención, atención y reinserción social en materia de adicciones;
+I. Ligeros: Aquellos que tienen capacidad para desplazar hasta 3.5 toneladas de carga. Dentro de esta categoría se encuentran los siguientes:
 
-II.- Autorizar, formalmente, el funcionamiento de los Centros de Atención de adicciones;
+a) Vehículos de tracción animal, los cuales son únicamente para usos agrícolas, turísticos y de paseo, siempre y cuando no se contravengan disposiciones en contra del maltrato animal que la ley de la materia señale. En la prestación de servicios públicos, está prohibido utilizar animales para tracción de vehículos de carga.
 
-III.- Vigilar y supervisar los procedimientos utilizados para tratamiento en los Centros de atención de adicciones;
+b) Bicicletas y triciclos.
 
-IV.- Gestionar la captación de recursos y donativos para el fortalecimiento de los programas de atención a las adicciones;
+c) Motocicletas:
 
-V.- Promover acciones de sensibilización en la sociedad acerca de las adicciones y, a su vez, hacerla partícipe en la prevención de las mismas, por medio del desarrollo de campañas y programas dentro de su competencia;
+1. Motocicleta;
 
-VI.- Contribuir a que las personas con problemas de adicción participen activa y conscientemente en los programas que tiendan a satisfacer sus necesidades básicas y desarrollar sus capacidades;
+2. Bicimoto;
 
-VII.- Canalizar a las personas sujetas a alguna medida judicial relacionada con alguna adicción, a los Centros de atención de personas consumidoras de sustancias psicoactivas;
+3. Motoneta, trimoto y cuatrimoto; y
 
-VIII.- Coadyuvar con los organismos públicos, privados y sociales en la implementación de programas de atención a las adicciones;
+4. Otros similares, cuyo cilindraje de motor los distinga, y se encuentren clasificados en el Reglamento.
 
-IX.- Revisar y autorizar los modelos de atención de ayuda mutua, modelo de atención mixto o modelo de atención profesional, que implementen las instituciones públicas, privadas y sociales con el fin de verificar su apego a los criterios establecidos por la normatividad aplicable;
+d) Automóviles:
 
-X.- Coordinar los programas de prevención y atención a las adicciones que realicen las dependencias estatales;
+1. Sedán;
 
-XI.- Implementar programas de sensibilización en materia de derechos humanos para los responsables y personal de los Centros de Atención de adicciones;
+2. Deportivo;
 
-XII.- Proponer la Celebración de convenios de colaboración con instituciones nacionales e internacionales de los sectores social y privado, y con personas físicas que se dediquen a la prevención, tratamiento, atención y reinserción social en materia de adicciones, con el fin de que quienes requieran de asistencia, puedan, conforme a sus necesidades, características, posibilidades económicas, acceder a los servicios que todas estas instituciones o personas físicas ofrecen.
+3. Limosina o extra largo;
 
-XIII.- Realizar estudios socioeconómicos a personas con problemas de adicción, que requieran atención en los Centros de atención de adicciones;
+4. Vehículo tubular; y
 
-XIV.- Implementar acciones de capacitación para las personas responsables y el personal de los Centros de Atención de adicciones;
+5. Otros, que se encuentren clasificados en el Reglamento.
 
-XV.- Impulsar, en coordinación con el sector público y privado, la reintegración al mercado laboral de las personas que recibieron tratamiento en materia de adicciones;
+e) Camionetas:
 
-XVI.- Apoyar a las autoridades municipales en la conformación de los Comités municipales;
+1. Tipo pick up;
 
-XVII.- Fomentar, en coordinación con las instituciones especializadas, públicas y privadas, la realización de investigaciones sobre las adicciones, que permitan nuevos modelos para su prevención, control y tratamiento;
+2. Panel;
 
-XVIII.- Organizar cursos, talleres, seminarios y conferencias sobre la prevención, control y tratamiento de las adicciones;
+3. Tipo vanette; y
 
-XIX.- Aplicar esta Ley, la Ley General, la Ley Estatal y las normas oficiales aplicables en la materia, así como las normas que para la materia se expidan;
+4. Otros, que se encuentren clasificados en el Reglamento.
 
-XX.- Implementar los acuerdos adoptados por el Consejo, desarrollando materialmente las acciones necesarias para su cumplimiento; y
+II. Pesados: Aquellos que tienen capacidad para desplazar más de 3.5 toneladas de carga. Dentro de esta categoría se encuentran los siguientes:
 
-XXI.- Las demás señaladas en esta Ley y en los ordenamientos aplicables, así como aquellas que resulten necesarias para el cumplimiento de sus fines.
+a) Camiones:
+
+1. Autobús;
+
+2. Ómnibus;
+
+3. Microbús;
+
+4. De volteo;
+
+5. De estacas;
+
+6. Tubular;
+
+7. Torton;
+
+8. Tráiler;
+
+9. Remolque y doble semirremolque; y
+
+10. Similares, que se encuentren clasificados en el Reglamento y otras leyes en la materia.
+
+b) Maquinaria especializada:
+
+1. Revolvedora;
+
+2. Pipa;
+
+3. Trilladora;
+
+4. Montacargas;
+
+5. Grúa;
+
+6. Agrícola; y
+
+7. Similares, que se encuentren clasificados en el Reglamento y otras leyes en la materia.
+
+Si los vehículos clasificados como ligeros son modificados en sus características para aumentar su capacidad de carga y con ello rebasan las 3.5 toneladas, serán considerados como vehículos pesados para todos los efectos que procedan.
 
 ###### Artículo 38.
 
-Las dependencias, órganos desconcentrados y entidades que integran la administración pública del Estado y los Municipios, en el ámbito de sus respectivas competencias, desarrollarán acciones de prevención del consumo perjudicial de sustancias psicoactivas.
+Todo vehículo que transite en las vías públicas del Estado se encontrará en condiciones de funcionamiento mecánicas y técnicas satisfactorias, y estará provisto de los dispositivos siguientes:
 
-Con base a un enfoque transversal, de derechos humanos y la incorporación de la perspectiva de género, considerarán la prevención como eje rector de la política de la atención integral del consumo perjudicial de sustancias psicoactivas, previendo que, en el desarrollo del ejercicio de sus funciones, se contenga elementos para dar cumplimiento a esta disposición.
+I. Vehículos automotores:
+
+a) Un espejo retrovisor interior y dos espejos retrovisores laterales;
+
+b) Faros o luces que expresamente señale esta Ley o su Reglamento;
+
+c) Cinturones de seguridad para el conductor y los pasajeros;
+
+d) Claxon con una amplitud de sonido que no cause molestias a terceros;
+
+e) Silenciador en el sistema de escape;
+
+f) Velocímetro con iluminación para uso nocturno;
+
+g) Parabrisas y dos limpiaparabrisas;
+
+h) Llanta de refacción y herramientas indispensables para efectuar el cambio de ésta;
+
+i) Equipo de señalización para los casos de emergencia, así como un extintor de fuego;
+
+j) Silla portainfante, en caso de transportar a niños menores de cinco años; y
+
+k) Los demás que establezcan esta Ley, su Reglamento y otras disposiciones legales aplicables.
+
+II. Bicicletas, triciclos y vehículos de tracción animal:
+
+a) Frenos en buen estado de funcionamiento;
+
+b) Un faro delantero que emita luz blanca, para circulación nocturna;
+
+c) Un reflejante de color rojo en la parte posterior; y
+
+d) Los demás que establezcan esta Ley, su Reglamento y otras disposiciones legales aplicables.
+
+III. Bicimotos, motocicletas, triciclos y cuatrimotos:
+
+a) Un faro en la parte delantera con mecanismo para el cambio de luz baja a la de alta intensidad y viceversa;
+
+b) Dos espejos retrovisores laterales;
+
+c) Una lámpara indicadora de frenado de luz roja reflejante, luces direccionales e intermitentes en la parte trasera;
+
+d) Silenciador en el sistema de escape; y
+
+e) Los demás que establezcan esta Ley, su Reglamento y otras disposiciones legales aplicables.
+
+Los usuarios de motocicletas, triciclos automotores, bicimotos y cuatrimotos portarán casco protector. De igual forma, los usuarios de bicicletas y triciclos procurarán utilizarlo.
+
+Los usuarios de bicicletas, triciclos y motocicletas que se dediquen al reparto de mercancías o a la prestación de servicios deberán utilizar chaleco reflejante.
 
 ###### Artículo 39.
 
-La prevención deberá estar dirigida a toda la sociedad, pero en especial a las poblaciones en situación de vulnerabilidad y de alto riesgo, tomando en cuenta principalmente a las niñas, niños, adolescentes y jóvenes. El tratamiento contra las adicciones no deberá ser considerado un castigo para la persona usuaria del servicio, sino que deberá ser tratada reconociéndose siempre su dignidad como persona y considerando que padece una enfermedad crónica, recurrente, progresiva y en ocasiones mortal.
+Los vehículos automotores estarán provistos de lo siguiente:
+
+I. Dos faros principales frontales que proyecten luz blanca y de un mecanismo para el cambio de luz baja a la de alta intensidad y viceversa;
+
+II. Dos luces indicadoras de frenado en la parte trasera, cubiertas con micas de color rojo, o una sola tratándose de motocicletas, visibles a una distancia de, al menos, doscientos metros;
+
+III. Dos luces direccionales de color ámbar o rojo en la parte frontal y en la parte trasera con proyección de luces intermitentes;
+
+IV. Luces de destello intermitente para emergencias;
+
+V. Dos cuartos frontales de luz amarilla y dos traseros de luz roja;
+
+VI. Luz blanca que ilumine la placa posterior; y
+
+VII. Luz blanca de reversa.
+
+Los conductores estarán obligados a accionar los faros o luces indicados en este artículo, de acuerdo con las condiciones de visibilidad o medidas de advertencia a terceros, conforme a lo señalado por otras disposiciones aplicables. Se prohíbe utilizar en los vehículos faros o luces que afecten la visibilidad de los demás conductores.
+
+Se exceptúan de lo previsto en el presente artículo los vehículos de tracción animal, bicicletas, triciclos y motocicletas, que tendrán que estar provistos de las luces que establezcan específicamente esta Ley, el Reglamento y otras disposiciones legales aplicables.
+
+La falta o no funcionalidad de estos implementos será sancionada conforme a esta Ley y su Reglamento.
 
 ###### Artículo 40.
 
-En el Programa Estatal, los objetivos, estrategias y líneas de acción prioritarias que se establezcan a partir de la presente Ley, el Consejo establecerá las bases de coordinación para el desarrollo de acciones de la Administración Pública del Estado.
+El uso de sirenas, estrobos y torretas de color rojo, azul o ámbar se reserva exclusivamente para los vehículos oficiales de las instituciones de seguridad pública, de emergencia, de auxilio vial y de empresas de seguridad privada.
+
+En los vehículos destinados a la conservación y mantenimiento de la vía pública e infraestructura urbana, únicamente podrán utilizarse torretas color ámbar, previo permiso que otorgue la Secretaría.
+
+El uso no autorizado de los aditamentos señalados en este artículo será motivo de la infracción que señale el Reglamento y se retirará el vehículo de la circulación, remitiéndolo al depósito que corresponda.
+
+La instalación de “topes” o “tumbaburros” en los parachoques o defensas de los vehículos será para uso de los de la Secretaría; sólo podrán colocarse en vehículos de carga o de seguridad privada, con el permiso de la Secretaría y previo pago de los derechos correspondientes.
 
 ###### Artículo 41.
 
-Para realizar las acciones de prevención, es necesario tomar en cuenta, los aspectos macro y micro sociales de las poblaciones objetivo, tales como las dimensiones epidemiológicas, disponibilidad de servicios y programas preventivos, representación social, zona geográfica, su cultura, usos y costumbres, contextos familiares, aspectos legislativos, así como las características de las personas entre las que destacan su edad y género, las sustancias psicoactivas de uso, los patrones de consumo y problemas asociados.
+Según el origen y finalidad del transporte, los vehículos podrán ser de:
+
+I. Servicio de transporte particular;
+
+II. Servicio de transporte público;
+
+III. Servicio social;
+
+IV. Servicio oficial; y
+
+V. Emergencia.
 
 ###### Artículo 42.
 
-El Consejo fomentará que las instituciones públicas, privadas, organismos no gubernamentales y organizaciones sociales relacionadas con la materia de la presente Ley, así como las figuras de representación ciudadana establecidas en la legislación en la materia y cualquier otro mecanismo de participación comunitaria, colaboren en la aplicación de modalidades y estrategias de prevención, de acuerdo al Programa Estatal.
+Para efectos del artículo anterior, se entenderá por:
+
+I. Vehículos de servicio de transporte particular: los destinados a satisfacer las necesidades de traslado de sus propietarios o legales poseedores, ya sean éstos personas físicas o morales; su circulación será libre por las vías públicas, sin más limitación que el cumplimiento, por parte de sus propietarios, conductores u operadores, de todas las normas establecidas por esta Ley, su Reglamento y demás normativa aplicable.
+
+En los vehículos de servicio de transporte particular, en caso de que sus conductores sean personas con discapacidad, se incluirán las especificaciones y modificaciones técnicas necesarias derivadas de las limitantes físicas de dichos conductores, así como placas o calcomanías expedidas por la autoridad competente, para que sus usuarios tengan derecho a los beneficios señalados en los reglamentos correspondientes;
+
+II. Vehículos del servicio de transporte público: los destinados a la prestación de dicho servicio por concesión o permiso del Estado, en las diversas modalidades que establezca la ley de la materia;
+
+III. Vehículos de servicio social: los que cumplen funciones de seguridad y asistencia que no dependen de instituciones gubernamentales;
+
+IV. Vehículos de servicio oficial: los que están asignados a instituciones gubernamentales; y
+
+V. Vehículos de emergencia: los destinados a la prestación de servicios de urgencia médica, de protección civil, que presten auxilio en caso de emergencia, siniestro o desastre; las patrullas y motocicletas de apoyo vial, los vehículos de bomberos y los de las policías.
 
 ###### Artículo 43.
 
-Como modalidades de prevención, se consideran tres tipos de intervención en función del riesgo y características de la población, siendo los siguientes:
+Los vehículos contarán con cinturones de seguridad para todos sus ocupantes.
 
-I.- Universal: dirigida a la población en general y se lleva a cabo mediante la promoción de la salud para crear conocimiento y orientar sobre la problemática del consumo perjudicial de sustancias psicoactivas y para las formas de prevención;
-
-II.- Selectiva: enfocada a grupos expuestos a factores de riesgo biológicos, psicológicos, sociales y ambientales asociados al consumo perjudicial de sustancias psicoactivas; y
-
-III.- Indicada: dirigida a grupos de población con sospecha de consumo y personas usuarias con consumo crónico, o de quienes exhiben factores de alto riesgo que incrementan la posibilidad de desarrollar consumo perjudicial o la adicción al consumo perjudicial de sustancias psicoactivas.
+Los ocupantes de vehículos particulares deberán hacer uso del cinturón de seguridad. Tratándose de vehículos destinados al transporte público, el Reglamento de esta Ley establecerá, dependiendo de la modalidad del servicio, los casos en que deberá usarse.
 
 ###### Artículo 44.
 
-El Consejo propondrá, de acuerdo a la revisión y el estudio del contexto socio económico de la población, intervenciones preventivas, con el objetivo de llevar a cabo una atención efectiva para cada ambiente social; para tal efecto, fomentará la colaboración de las figuras de representación ciudadana establecidas en la legislación de la materia, así como cualquier otro mecanismo de participación comunitaria, de las asociaciones de madres y padres de familia y consejos escolares de participación social.
+Se prohíbe el uso de polarizados, entintados o película antiasalto obscura, así como de pintura o cualquier material que se adhiera a los cristales de los vehículos o cualquier otro aditamento que, por su uso o colocación, obstaculice o reduzca la visibilidad hacia el interior o exterior de los mismos.
 
-El trabajo preventivo por contextos contemplará la coordinación con los programas públicos, privados y sociales relacionados con la materia, para la operación de estrategias en común que permitan incidir de manera favorable en el entorno social.
+Sólo se permitirá la circulación de vehículos con estas características cuando el oscurecimiento o entintado de los cristales derive del diseño de fabricación y conste en la factura correspondiente, así como en la tarjeta de circulación, o cuando por prescripción médica se señale la necesidad de reducción de visibilidad u oscurecimiento de los cristales por motivos de salud, circunstancia que deberá acreditarse con el certificado correspondiente y señalarse en la tarjeta de circulación.
+
+Bajo ninguna circunstancia, el parabrisas ni las ventanas delanteras de un vehículo podrán estar totalmente polarizados.
 
 ###### Artículo 45.
 
-Las estrategias de prevención que deberán contemplar principalmente los objetivos, estrategias y líneas de acción prioritarias del Programa Estatal, son las siguientes:
-
-I. Detección temprana;
-
-II. Canalización oportuna;
-
-III. Referencia y contrarreferencia;
-
-IV. Información;
-
-V. Desarrollo de competencias o habilidades sociales;
-
-VI. Formación de personas multiplicadoras o promotoras;
-
-VII. Reducción de riesgos y daños asociados al consumo perjudicial de sustancias psicoactivas; y
-
-VIII. Intervención breve.
+Al conductor o propietario que en presencia de la autoridad retire por sí mismo de los cristales el material descrito en el artículo anterior, sólo se le infraccionará y no se le retirará de la circulación; tal situación se hará constar en la boleta de infracción.
 
 ###### Artículo 46.
 
-La detección temprana es una estrategia evaluativa y voluntaria que combina la identificación del consumo perjudicial de sustancias psicoactivas y los riesgos o daños ocasionados por ello, así como del tratamiento oportuno. Como parte de la misma, deberá elaborarse una impresión diagnóstica de la persona a la que se le brinde atención y que haya expresado su consentimiento informado por escrito, con el fin de identificar los efectos adversos que produce o puede producir el consumo perjudicial de sustancias psicoactivas para su salud y el bienestar personal.
+Todo vehículo, para poder circular en las vialidades de competencia estatal o municipal, contará con póliza de responsabilidad civil o daños a terceros vigente que ampare, al menos, los daños que se ocasionen a pasajeros o a terceros en su persona o en sus bienes.
+
+Los montos amparados por la póliza a que se refiere este artículo, en los casos de vehículos del servicio particular, no podrán ser inferiores a nueve mil días de salario por concepto de daños a terceros.
+
+En los casos de vehículos del servicio de transporte público, ya sea de pasajeros o de carga, los montos de las pólizas deberán amparar, por lo menos, por concepto de daños a usuarios, peatones, conductores o a terceros y sus bienes, nueve mil días de salario y por cada pasajero mil quinientos días de salario.
+
+Los concesionarios y permisionarios de los servicios de transporte público, para dar cumplimiento a lo previsto en el presente artículo, en vez de adquirir póliza de seguro, podrán constituir fondos de garantía, por empresa o asociación, cuyos montos en ningún caso serán inferiores a cien mil días de salario.
+
+Ninguna unidad vehicular podrá circular en las vialidades de competencia estatal, sin póliza de responsabilidad, daños a terceros o amparada por el fondo de garantía correspondiente.
+
+La Dirección retirará de la circulación y llevará al correspondiente depósito de vehículos, cualquier unidad que circule sin póliza de responsabilidad, daños a terceros o sin estar comprendida en un fondo de garantía, en los términos prescritos en el presente artículo y sólo entregará la unidad a su propietario o representante legal una vez que se haya satisfecho dicho requisito.
+
+Los gastos generados por concepto de arrastre y depósito de vehículos, derivados de la contravención a lo establecido en el presente artículo, correrán a cargo de los propietarios de los mismos.
 
 ###### Artículo 47.
 
-La canalización oportuna implica dirigir a la persona para que se le brinde la atención necesaria, de acuerdo a las características, patrón de consumo perjudicial psicoactivas y tipo de las mismas, así como los daños asociados, de acuerdo al enfoque de derechos humanos y las disposiciones sobre la prestación de servicios establecidas en la presente Ley.
+El Poder Ejecutivo, por conducto de Sefiplan, expedirá o refrendará con la periodicidad que señale, los documentos, placas de circulación, engomados, calcomanías y hologramas a que se hace referencia en la presente Ley y en su Reglamento, previo el cumplimiento de los requisitos y pago de derechos correspondientes. Al efecto, Sefiplan publicará oportunamente el calendario de expedición de documentos, calcomanías, placas y hologramas.
+
+Los documentos y placas de circulación serán entregados en uso y custodia al interesado, por lo que éste tendrá la obligación de devolverlos al momento de efectuar las renovaciones correspondientes.
 
 ###### Artículo 48.
 
-La referencia y contrarreferencia se presenta cuando los recursos del establecimiento no permitan la atención de la persona usuaria, debiéndose remitir a otro en el que se asegure su atención, tomando en cuenta las necesidades de la persona, el tipo de sustancia utilizada, edad, género, patrones de consumo, síndrome de dependencia de las sustancias psicoactivas y problemas asociados al consumo.
+Los documentos y placas de circulación a que se refiere el artículo que antecede, así como los engomados y hologramas, son intransferibles a otros vehículos. Para el caso de enajenación, adjudicación o cualquier otro medio de traslación de la propiedad de un vehículo, el enajenante presentará a Sefiplan el aviso correspondiente. El adquirente realizará, a su vez, el registro del cambio de propietario, de conformidad con lo que establece el artículo 60, Apartado B, fracciones II, II Bis y IV del Código Financiero para el Estado, para no hacerse acreedor a las sanciones que ese propio Código establezca.
 
 ###### Artículo 49.
 
-La información estará enfocada en brindar orientación documentada y actualizada a la población en general sobre los factores de riesgo y daños asociados al consumo perjudicial psicoactivas, así como los elementos de protección que disminuyan su influencia, además difundirá la adopción de estilos de vida saludables y los objetivos, estrategias, líneas de acción prioritarias y logros alcanzados del Programa Estatal.
+Los vehículos con placas de circulación de otras entidades federativas, en las que las leyes o reglamentos permitan el polarizado, entintado o película antiasalto, podrán circular siempre que sea de paso por el Estado y al transitar lo hagan con, al menos, las ventanas delanteras abiertas, salvo inclemencias ambientales. El Reglamento determinará, en su caso, los demás dispositivos y medidas que en su uso deberán observar los vehículos señalados en este artículo.
 
 ###### Artículo 50.
 
-El desarrollo de competencias o habilidades sociales reforzará aptitudes y recursos sociales que constituyan un elemento preventivo ante el inicio del consumo perjudicial psicoactivas, promoviendo el desarrollo de capacidades para la sana convivencia social, resolución de problemas personales y familiares, pensamiento libre y crítico, reforzar habilidades y valores para enfrentar dificultades de la vida cotidiana.
+Todos los vehículos que transiten por el territorio del Estado llevarán a la vista y en el lugar diseñado para ese fin, placas de circulación vigentes expedidas por la autoridad competente.
 
-Para la realización de esta estrategia, se fomentará la participación de instituciones públicas, privadas, organismos no gubernamentales y organizaciones sociales relacionadas con la materia de la presente Ley, así como las figuras de representación ciudadana establecidas en la legislación en la materia y cualquier otro mecanismo de participación comunitaria.
+Las placas de circulación se clasificarán, según el vehículo al que se destinen, para:
+
+I. Particulares;
+
+II. Particulares conducidos por discapacitados o que los transportan;
+
+III. En venta o demostración;
+
+IV. De servicio público de transporte;
+
+V. Clásicos o de colección;
+
+VI. Remolques; y
+
+VII. Motocicletas, bicimotos, trimotos, cuatrimotos y de ruedas motorizadas para personas con discapacidad.
+
+Se exceptúan de lo anterior los vehículos de tracción humana y animal.
+
+Las mujeres embarazadas dispondrán de espacios exclusivos de estacionamiento en la vía pública y en zonas privadas; al efecto, podrán contar con tarjetones especiales, expedidos por la autoridad competente.
+
+La vigencia de las placas de circulación podrá ser permanente o provisional.
 
 ###### Artículo 51.
 
-La formación de personas multiplicadoras o promotoras estará dirigida a la capacitación de las figuras de representación ciudadana establecidas en la legislación en la materia y cualquier otro mecanismo de participación comunitaria, como elementos estratégicos en la difusión de mensajes y acciones dirigidas a la prevención del consumo perjudicial de sustancias psicoactivas.
+Para transitar en el Estado, todo vehículo contará con lo siguiente:
 
-### CAPÍTULO TERCERO. DE LA INTEGRACIÓN COMUNITARIA
+I. Tarjeta de circulación vigente;
+
+II. Placas de circulación o permiso provisional vigentes;
+
+III. El engomado correspondiente a la placa de circulación actual;
+
+IV. Hologramas o engomados con localizador satelital o chip de seguridad e identificación de vehículos, en su caso;
+
+V. Holograma de verificación vehicular de contaminantes vigente; y
+
+VI. Póliza de garantía de pago de daños vigente.
+
+La falta de cualquiera de los requerimientos citados deberá notificarse a la Dirección, así como a Sefiplan, para los efectos a que haya lugar. Para su reposición, previo pago de los derechos correspondientes, el interesado deberá presentar constancia expedida por autoridad competente, que acredite su robo, pérdida o destrucción.
+
+### CAPÍTULO V. DE LA PREVENCIÓN DE LA CONTAMINACIÓN
 
 ###### Artículo 52.
 
-La reducción de riesgos y daños asociados al consumo perjudicial de sustancias psicoactivas, se enfocará a disminuir los factores de riesgo de dicho consumo, desarrollando acciones para ampliar la asistencia social.
+Los vehículos que transiten en las vías públicas de competencia estatal serán sometidos a revisiones periódicas o que se efectúen mediante operativos de tránsito y seguridad vial, que tengan como finalidad verificar las emisiones de ruidos y contaminantes que generen, así como las condiciones físicas, eléctricas y mecánicas; esas revisiones las realizará el personal de las dependencias o establecimientos autorizados al efecto.
+
+La Secretaría, en coordinación con las autoridades encargadas de la protección al medio ambiente, realizará el control y vigilancia del cumplimiento a las disposiciones en la materia.
 
 ###### Artículo 53.
 
-La intervención breve implica la motivación de las personas, la potencialización de sus capacidades y la utilización de los elementos de su comunidad, para generar un cambio conductual a favor de su salud, con el fin de prevenir y disminuir la progresión del consumo perjudicial de sustancias psicoactivas y de los factores de riesgo asociados.
+Los vehículos contarán con dispositivos especiales para prevenir y controlar la emisión de ruidos y gases que ocasionen contaminación ambiental, conforme a la normativa federal y estatal en la materia, así como a las disposiciones reglamentarias y normas oficiales correspondientes, además de portar el holograma respectivo.
+
+La Dirección coadyuvará en la vigilancia de esta disposición con las autoridades competentes.
 
 ###### Artículo 54.
 
-El ISSEA es la instancia normativa respecto a la intervención, tratamiento y rehabilitación del consumo perjudicial de sustancias psicoactivas, para ello establecerá las bases, lineamientos, criterios técnicos, objetivos, modalidades, métodos, modelos y estrategias que deberán cumplir los Centros de atención de adicciones y en general, quienes integran el Sistema de Salud del Estado, que presten el servicio directo en las materias de tratamiento y rehabilitación de las personas consumidoras de sustancias psicoactivas en el Estado.
+La Dirección ordenará el retiro de la circulación de los vehículos que no porten la constancia de haber acreditado la verificación vehicular y de aquellos que, aun contando con esa acreditación, emitan humo negro, azul o ruido en exceso.
 
-La prestación de servicios de tratamiento y rehabilitación al consumo perjudicial de sustancias psicoactivas se realizará atendiendo a lo dispuesto en los lineamientos que emitan organismos internacionales, la Ley General, la Ley Estatal, la presente ley y la Normas (sic) Oficial Mexicana y demás instrumentos jurídicos aplicables.
+En su caso, las unidades serán trasladadas a los depósitos de vehículos y puestas a disposición de la Secretaría de Medio Ambiente del Estado, para los efectos correspondientes.
 
 ###### Artículo 55.
 
-El tratamiento y la rehabilitación a personas que consuman sustancias psicoactivas, respetará los derechos humanos e incorporará la perspectiva de género, siguiendo los estándares de ética médica y profesionalismo en la prestación de servicios de salud y cuidando su integridad física y mental.
+Para la detección de vehículos que, aun portando el engomado de verificación vehicular, rebasen los límites de ruido máximo permitidos por las normas oficiales mexicanas, la Dirección se coordinará con las autoridades estatales en materia ambiental.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
-
-PARA EL TRATAMIENTO Y REHABILITACIÓN DEL CONSUMO PERJUDICIAL DE SUSTANCIAS PSICOACTIVAS EN LOS CENTRO (SIC) DE ATENCIÓN DE ADICCIONES
+### CAPÍTULO VI. DE LAS LICENCIAS Y PERMISOS PARA CONDUCIR
 
 ###### Artículo 56.
 
-El tratamiento de personas consumidoras de sustancias psicoactivas se llevará a cabo bajo la modalidad no residencial o residencial.
-
-Los tratamientos bajo la modalidad residencial, son aquellos (sic) se llevan a cabo en los Centros de atención a las adicciones y la modalidad no residencial podrán llevarse a cabo a través de lo siguiente:
-
-I.- Atención de urgencias;
-
-II. Atención ambulatoria en centros mixtos y profesionales;
-
-III. Atención ambulatoria de ayuda mutua, y
-
-IV. Atención ambulatoria alternativa.
+Para la conducción de cualquier vehículo de motor, se requiere obtener y portar la licencia o permiso vigente, que para tal fin expida la Secretaría a través de la Dirección de Transporte, de acuerdo con las modalidades y requisitos que señale la ley en materia de transporte público.
 
 ###### Artículo 57.
 
-En ninguno de los tratamientos se permitirán grabaciones de audio, video o fotografías, sin explicar su finalidad y previo consentimiento informado y por escrito de la persona usuaria del servicio, tutor o representante legal.
+Las licencias o permisos otorgados por autoridades competentes de la Federación, entidades federativas o el extranjero tendrán validez en el Estado, en los términos en que las mismas sean concedidas y mientras se encuentren vigentes.
 
 ###### Artículo 58.
 
-La Comisión promoverá con los centros de trabajo e instituciones educativas, el otorgamiento de facilidades necesarias para que las personas en tratamiento a que se refiere la presente Ley, acudan a las instituciones públicas y privadas responsables de otorgar dichos servicios.
+Las licencias o permisos para conducir vehículos de motor expedidos por la Dirección de Transporte se clasificarán en las categorías y tipos que determine la ley de la materia.
 
 ###### Artículo 59.
 
-El ISSEA celebrará convenios con instituciones públicas y privadas para orientar y capacitar a las personas usuarias de los servicios de la atención integral del consumo perjudicial de sustancias psicoactivas, con la finalidad de reinsertarlos en el ámbito laboral.
+Los conductores y operadores deberán portar la licencia de la categoría y tipo que corresponda al vehículo que estén utilizando; ésta será la única manera de acreditar que cuentan con capacidad de conducir el mismo.
 
 ###### Artículo 60.
 
-En los programas sociales que diseñe y aplique la Administración Pública del Estado y los Municipios, se contemplarán acciones encaminadas a la terapia ocupacional y a la formación de habilidades para el trabajo, que induzcan al empleo y al autoempleo de las personas usuarias de los Centros de Atención de Adicciones.
-
-Las acciones descritas en el párrafo que antecede, deberán ser informadas a la Comisión para que sean difundidas entre las personas usuarias de los Centros de Atención de Adicciones para promover su reinserción laboral.
-
-Asimismo, las instituciones que lleven a cabo las acciones referidas deberán reportar periódicamente a la Comisión sobre los avances, con la finalidad de recabar información útil en el diseño de políticas públicas objeto de la presente ley.
+Cuando el titular de una licencia, por prescripción médica, deba usar lentes, prótesis o aparatos ortopédicos, estas circunstancias se harán constar en la misma.
 
 ###### Artículo 61.
 
-La integración comunitaria tiene como finalidad reintegrar a la persona con consumo perjudicial de sustancias psicoactivas a la sociedad y que cuente con alternativas para mejorar sus condiciones de vida que le permitan incidir en su bienestar.
+Son causas para retener una licencia y remitirla a la Dirección de Transporte, para su cancelación definitiva, las siguientes:
+
+I. Cuando el titular sea sancionado por segunda vez en un año, por conducir un vehículo en estado de ebriedad o bajo la influencia de estupefacientes, psicotrópicos u otras sustancias tóxicas;
+
+II. Cuando se compruebe que la información otorgada por el titular de la licencia o permiso para conducir es falsa, o que alguno de los documentos presentados para su obtención es apócrifo; se dará vista al Ministerio Público para la responsabilidad que le resulte;
+
+III. Cuando por motivo de su negligencia, impericia, irresponsabilidad o falta de cuidado, el titular cause lesiones que pongan en peligro la vida de los usuarios;
+
+IV. Cuando se cause la muerte de una persona, imprudencial o intencionalmente, con motivo de la conducción de un vehículo;
+
+V. Cuando se ha dejado de tener la aptitud física o mental necesaria para conducir vehículos de motor;
+
+VI. Cuando se haya suspendido la licencia dos o más veces en el periodo de dos años;
+
+VII. Por actualizar alguna hipótesis prevista en el Código Penal para el Estado, durante la prestación del servicio público de transporte. En caso de que se demuestre la participación del operario de la concesión, en la comisión de delitos contra la salud o delincuencia organizada, ya sea de carácter intencional o por encubrimiento, además de cancelársele la licencia, no volverá a otorgársele otra en la categoría de chofer;
+
+VIII. Por ser el responsable, en segunda ocasión, de accidentes con saldos de lesionados;
+
+IX. Por alterar los datos contenidos en la licencia;
+
+X. Por resolución judicial que cause ejecutoria; y
+
+XI. Cuando el titular sea operario del transporte público de pasajeros en cualquiera de sus modalidades y conduzca en estado de ebriedad, bajo el influjo de estupefacientes u otras sustancias tóxicas.
 
 ###### Artículo 62.
 
-La Comisión fomentará la participación de instituciones públicas, privadas, organismos no gubernamentales y organizaciones sociales relacionadas con la materia de la presente Ley, así como de las Dependencias, Órganos Desconcentrados y Entidades que integran la Administración Pública del Estado y Municipios, para el desarrollo de acciones de integración comunitaria, los cuales tendrán como objetivos los siguientes:
+Son causas para retener una licencia o permiso para conducir y remitirla a la Dirección de Transporte para suspender en forma temporal de su uso a un conductor, por un término de seis a doce meses, las siguientes:
 
-I.- Conjuntar recursos, experiencias y conocimientos de instituciones públicas, privadas, organismos no gubernamentales y organizaciones sociales relacionadas con la materia de la presente Ley, para emprender acciones de desarrollo social e impulsar la participación ciudadana;
+I. Acumular tres infracciones a la presente Ley o su Reglamento en el transcurso de un año;
 
-II.- Generar redes de apoyo en materia de empleo, ayuda económica temporal, salud, apoyo psicológico, recreación, orientación y representación legal, servicios de estancias infantiles y educación con la finalidad de brindar las condiciones necesarias para llevar a cabo un proceso de atención especializada;
+II. Incumplir la reparación del daño causado por un vehículo conducido por él;
 
-III.- Promover la corresponsabilidad entre el Gobierno y la sociedad en la atención a la población vulnerable del Estado, a través de convenios con instancias que vinculen su trabajo a las políticas públicas en materia de asistencia social;
+III. Abandonar el lugar de un accidente que él ocasionó, excepto si resultó lesionado y fue trasladado para su atención médica;
 
-IV.- Sumar esfuerzos y recursos con organizaciones civiles y privadas para promover y fomentar programas de prevención y atención a grupos de alto riesgo y en condición de vulnerabilidad;
+IV. Consentir que otra persona utilice su licencia o permiso para conducir;
 
-V.- Promover la integración comunitaria de niños, niñas, adolescentes y jóvenes, que se encuentren en situación de riesgo, para prevenir y protegerlos de la violencia, el delito, el consumo perjudicial de sustancias psicoactivas, garantizar el ejercicio pleno de sus derechos, así como generar una mejor convivencia del ámbito familiar y social;
+V. Alterar la tarifa de transporte público o negar injustificadamente la prestación del servicio;
 
-VI.- Promover la continuidad en la formación académica de niños, niñas, adolescentes y jóvenes, con la finalidad de potenciar sus capacidades, estimulando estrategias a favor de la permanencia, continuidad y eficiencia terminal de la educación;
+VI. Por resolución judicial que cause ejecutoria; y
 
-VII.- Apoyar proyectos diseñados y desarrollados para niños, niñas, adolescentes y jóvenes que contribuyan a mejorar las condiciones de vida de su entorno;
-
-VIII.- Promover el desarrollo de la creatividad, capacidades, habilidades y conocimientos de niños, niñas, adolescentes y jóvenes para la búsqueda de soluciones a problemas comunes;
-
-IX.- Prevenir comportamientos que detonen riesgo y proteger a niños, niñas, adolescentes y jóvenes de las zonas de mayor incidencia delictiva del Estado;
-
-X.- Ofrecer a niños, niñas, adolescentes y jóvenes alternativas de educación, capacitación para el trabajo, cultura, deporte, recreación, servicios institucionales y prácticas comunitarias, para que mejoren sus condiciones de vida y ejerzan sus derechos de manera plena;
-
-XI.- Estimular la formación de redes juveniles que promuevan el desarrollo y ejercicio de los derechos de las y los jóvenes;
-
-XII.- Impulsar la actividad cultural y el trabajo desarrollado por artistas, promotores culturales, grupos de vecinos y colectivos comunitarios, en zonas de alta marginalidad del Estado, como estrategia de prevención del consumo perjudicial de sustancias psicoactivas;
-
-XIII.- Coadyuvar en la formación de redes culturales ciudadanas;
-
-XIV.- Fomentar la intervención, apropiación y recuperación de espacios públicos con la organización de actividades comunitarias;
-
-XV.- Formar asistentes educativos para desarrollar e implementar un modelo de atención que considere los factores y determinantes de la situación social, familiar, cultural, educativa, física, sexual y reproductiva, intelectual y mental de niños, niñas, adolescentes y jóvenes estudiantes para generar un esquema de atención integral grupal;
-
-XVI.- Realizar de manera conjunta con las empresas y su personal, acciones de capacitación, consulta y formación que permitan contribuir al sostenimiento del empleo, al mejoramiento de las condiciones de seguridad e higiene, así como salariales de los trabajadores de las micro, pequeñas y medianas empresas, grupos productivos y cooperativas en el Estado; y
-
-XVII.- Los demás para lograr los objetivos de la presente Ley.
+VII. Las demás previstas en la normativa aplicable.
 
 ###### Artículo 63.
 
-Los Centros de Atención de Adicciones, de acuerdo con lo establecido por la Comisión y el Programa Estatal, establecerán estrategias para dar seguimiento a las personas que, de ser el caso, egresen de dichos lugares, facilitando la información y brindando orientación acerca de las opciones de los diversos proyectos, programas y actividades enunciadas en el artículo anterior que se desarrollen en su comunidad.
+Los propietarios que permitan que sus vehículos automotores sean conducidos por personas carentes de licencia o permiso para ello serán solidariamente responsables de las infracciones que se cometan.
+
+Las licencias o permisos de conducir vehículos son intransferibles y sus titulares serán responsables por el mal uso que se haga de los mismos, excepto en los casos de robo o extravío oportunamente denunciados.
 
 ###### Artículo 64.
 
-Los Centros de atención de adicciones que presten servicios de atención residencial para el tratamiento y rehabilitación del consumo perjudicial de sustancias psicoactivas, sean de carácter público, social o privado, que presten servicios terapéuticos, deberán de garantizar que toda persona con trastornos adictivo (sic) a drogas psicoactivas que solicite atención, sea accesible, diversificada, profesional y de carácter interdisciplinario, para lo cual implementará programas individualizados, basados en evidencia científica conforme a la Norma Oficial Mexicana, los lineamientos que establezca la CONADIC, además de lo siguiente:
+Los permisos para conducir que se expidan a menores de edad sólo serán válidos en un horario comprendido entre las seis y las veintidós horas, fuera del cual sus titulares tendrán prohibido conducir. En ningún caso se otorgarán a menores de dieciséis años.
 
-I.- Acta constitutiva;
+Estos permisos no autorizarán a sus titulares a conducir vehículos de servicio de transporte público de pasajeros o de carga.
 
-II.- Registro Federal de Contribuyentes;
-
-III.- Aviso de Funcionamiento expedido por el ISSEA y Licencia Sanitaria expedida por el Municipio correspondiente;
-
-IV.- Contar con el registro como institución especializada ante el CONADIC;
-
-V.- Licencia de uso del suelo expedido por la autoridad competente;
-
-VI.- Programa general de trabajo avalado por el CONADIC, o en su caso por la Secretaría, en el que se contemple el tratamiento médico o psicosocial basado en principios científicos, sociales y éticos;
-
-VII.- Reglamento Interno;
-
-VIII.- Manuales técnico-administrativos y de organización interna;
-
-IX.- Guía operativa de referencia y contra-referencia a otros establecimientos de mayor complejidad, de acuerdo con el cuadro clínico;
-
-X.- Infraestructura e instalaciones y equipo apropiado para el desarrollo de sus funciones, de acuerdo con el tipo de modelo de atención que brinden;
-
-XI.- Equipo de cómputo con las especificaciones necesarias para la implementación del software para el registro de las personas usuarias;
-
-XII.- Instalaciones específicas necesarias y equipo para dar atención a las personas usuarias, estableciendo perfectamente la división de acuerdo con su edad, género, y en su caso, situación de discapacidad; tales como consultorio médico, dormitorios, servicios sanitarios, salas de uso común, cocina y comedor equipados, área de lavado, entre otros que permitan brindar una atención digna y de calidad;
-
-XIII.- Personal capacitado y suficiente para llevar a cabo las funciones del Centro;
-
-XIV.- Programa de atención integral y específico para las personas, que habrá de comprender la instalación de un ambiente físico apropiado, limpio y seguro, además de un tratamiento médico o psicosocial, de acuerdo con los principios científicos, sociales y éticos aplicables;
-
-XV.- Ambiente y acciones que promuevan la participación activa de las personas usuarias del servicio en su tratamiento, actividades físicas, y las demás que sean necesarias en el proceso de rehabilitación de la persona usuaria;
-
-XVI.- Buzón de quejas y sugerencias para personas usuarias del servicio y familiares, consistentes en un buzón de quejas y sugerencias, formatos para plasmar las mismas, así como bitácora que garantice el que sean tomadas en cuenta para la solución, vigilancia y seguimiento de las mismas;
-
-XVII.- Programas de participación de las personas integrantes del núcleo familiar en el proceso de rehabilitación de las personas usuarias del servicio, con la finalidad de hacerlas corresponsables en dicho proceso de atención;
-
-XVIII.- Directorio de instituciones y servicios para la referencia o canalización de personas en situaciones de urgencia, tratamiento y rehabilitación, avalado por el CONADIC;
-
-XV (SIC).- Constancia del Responsable del Centro de Atención de Adicciones. En aquellos que operen bajo el modelo de Ayuda Mutua o Mixto, la constancia deberá acreditar como mínimo 2 años de antigüedad en el proceso de rehabilitación y un año de experiencia como encargado; en los Centros de Atención de Adicciones que operen bajo el modelo profesional, el responsable deberá presentar cédula o título como profesional de la salud;
-
-Si el Centro de Atención de Adicciones atiende a mujeres exclusivamente, la responsable y la encargada deberán ser mujer; si el Centro de Atención de Adicciones atiende a hombres y mujeres, del responsable y encargado, al menos uno deberá ser mujer;
-
-XVI.- Cartel de los Derechos de las personas usuarias y cartel que contenga los criterios de exclusión;
-
-XVII.- Cronograma de Actividades con tareas específicas para cada género y grupo etario;
-
-XVIII.- Croquis de las instalaciones del Centro de Atención de Adicciones;
-
-XIX.- Ambiente físico apropiado, limpio y seguro, adecuadas condiciones de iluminación, ventilación y mantenimiento
-
-XX.- Menú avalado por un profesional de la salud. La alimentación suministrada a las personas usuarias debe ser balanceada, de buen aspecto, en cantidad suficiente para una adecuada nutrición de acuerdo con el estado de salud de la persona usuaria y servida en utensilios higiénicos, de acuerdo con el artículo 111 de la Ley de Salud del Estado de Aguascalientes;
-
-XXI.- Programa interno de protección civil avalado por el municipio correspondiente;
-
-XXII.- Información sobre el costo directo o indirecto y total del tratamiento, así como su duración, que se deberá proporcionar al ingreso del Centro de Atención de Adicciones o cuando cualquier persona lo solicite;
-
-XXIII.- Receta médica de toda medicación suministrada a la persona usuaria que deberá ser registrada en el expediente o en una bitácora;
-
-XXIV.- Carta compromiso de continuidad de tratamiento para las personas usuarias que ingresen al Centro de Atención de Adicciones con una prescripción médica o con un esquema de tratamiento previo. Debiendo implementar una bitácora de suministro de medicamentos para suministrarlos en las dosis y horarios prescritos, pudiendo ser interrumpidos previa valoración médica;
-
-XXV.- Toda información proporcionada por la persona usuaria y/o familiares de la misma, así como la consignada por escrito en su expediente, deberá manejarse bajo los principios de confidencialidad y secreto profesional;
-
-XXVI.- La información sobre el proceso del tratamiento no se revelará a persona alguna, si no es con el consentimiento escrito de la persona usuaria, salvo los casos previstos por la ley;
-
-XXVII.- En ningún proceso de tratamiento se permitirán grabaciones de audio, video o fotografías, salvo que exista consentimiento previo y por escrito de la persona usuaria o de su representante legal, para ello se le deberá informar la finalidad; y
-
-XXVIII.- Notificar mensualmente al SISVEA, mediante el llenado de cuestionarios, sobre consumo de drogas para cada usuario de nuevo ingreso registrado, siempre respetando el anonimato de la persona usuaria.
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2025)</small>
-
-###### Artículo 64 Bis.
-
-Los centros de atención de adicciones deberán garantizar que la admisión de usuarios no exceda su capacidad instalada y operativa, la cual será determinada en función de su infraestructura, recursos humanos, equipamiento y condiciones de habitabilidad, de acuerdo con los lineamientos establecidos por la autoridad competente. Para ello, el ISSEA deberá realizar evaluaciones periódicas que acrediten su capacidad de atención efectiva, asegurando que cada usuario reciba tratamiento adecuado y digno.
-
-### CAPÍTULO SEGUNDO
-
-DE LA VERIFICACIÓN, SUPERVISIÓN Y SEGUIMIENTO DE LAS ACCIONES DE LOS CENTROS DE ATENCIÓN DE LAS PERSONAS CON PROBLEMAS DE CONSUMO PERJUDICIAL DE SUSTANCIAS PSICOACTIVAS
-
-#### SECCIÓN PRIMERA. DE LA VERIFICACIÓN
+### CAPÍTULO VII. DE LAS OBLIGACIONES DE LOS CONDUCTORES
 
 ###### Artículo 65.
 
-La Secretaría, a través de la Comisión revisará el cumplimiento de los requisitos a que se refiere el artículo anterior, para la constitución y funcionamiento de los Centros de atención de adicciones
+Las personas que conduzcan un vehículo en la vía pública deberán portar:
+
+I. Su licencia o permiso para conducir vigente, que deberá corresponder a la categoría y tipo de vehículo que conduce;
+
+II. La tarjeta de circulación que acredite el registro del vehículo ante la autoridad competente;
+
+III. La póliza de responsabilidad civil o seguro de daños a terceros;
+
+IV. En los vehículos, las placas de circulación expedidas por la autoridad competente, los engomados, calcomanías y hologramas correspondientes o, en su caso, el permiso temporal para circular sin ellos, colocados en los lugares que determine el Reglamento de esta Ley; y
+
+V. Cuando se trate de conductores de vehículos del servicio de transporte público de pasajeros, además de los requisitos anteriores, también portarán la tarjeta de identificación que expedirá la Secretaría a quienes hayan aprobado la evaluación respectiva.
 
 ###### Artículo 66.
 
-El ISSEA emitirá los protocolos que serán observados en los Centros de Atención de Adicciones. Las personas responsables de éstos estarán obligados (sic) a observarlos, para garantizar condiciones dignas y seguras a las personas que lleven tratamiento bajo la modalidad residencial, así como a otras personas ajenas a los Centros, debiendo al menos, considerar lo siguiente:
-
-I.- El ingreso, tratamiento, contención, egreso, seguimiento y consejería;
-
-II.- Integración del expediente clínico;
-
-III.- Manejo de disturbios colectivos, evasiones, incidencias, lesiones, muertes o cualquier otra alteración del orden interno;
-
-IV.- Ingreso de visitantes;
-
-V.- Atención a grupos en situación vulnerable como niños, niñas, adolescentes, mujeres y personas adultas mayores;
-
-VI.- Prevención e intervención de todo tipo de violencia, discriminación y suicidios;
-
-VII.- Ministración de medicamentos;
-
-VIII.- Enfermedades trasmisibles o contagiosas;
-
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2025)</small>
-
-IX.- Proceso de referencia y contra referencia;
-
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2025)</small>
-
-X.- De quejas y sugerencias realizadas por personas usuarias o familiares de estas; y
-
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2025)</small>
-
-XI.- La capacidad de atención de usuarios.
+Los conductores deberán respetar los dispositivos para el control de la seguridad vial fijados por la autoridad correspondiente, las indicaciones de la policía vial y los límites de velocidad que establezca el reglamento correspondiente.
 
 ###### Artículo 67.
 
-El ingreso y permanencia de la persona usuaria en un Centro de atención de adicciones, deberá ser voluntario, salvo los casos contemplados en los diversos ordenamientos aplicables. De acuerdo con la Norma Oficial Mexicana, el ingreso voluntario requiere de solicitud de la persona usuaria por escrito, haciendo constar el motivo de la solicitud; en caso de ser menor de edad se requiere de la solicitud por escrito de sus padres, representante legal o tutor.
+Se prohíbe equipar vehículos con señales luminosas o audibles reservadas a vehículos oficiales o de servicio social, así como a sus conductores seguir a vehículos en servicio de emergencia, detenerse o estacionarse a una distancia que pueda significar riesgo o entorpecer la actividad del personal de dichos vehículos.
 
 ###### Artículo 68.
 
-El ingreso en forma involuntaria se presenta cuando de acuerdo con los criterios de dependencia a sustancias contemplados en los Manuales Diagnósticos y Estadísticos de los Trastornos Mentales y la Clasificación Internacional de Enfermedades Mentales, la persona usuaria no esté en aptitud legal para tomar la decisión de internarse, para ello se requerirá por escrito la solicitud de un familiar responsable, tutor o representante legal.
+Se prohíbe conducir vehículos con temeridad y, con ello, poner en peligro la vida o la integridad de los usuarios.
+
+También se prohíbe al conducir comunicarse telefónicamente o utilizar cualquier medio tecnológico que implique distracción, sin recurrir a accesorios que permitan el no utilizar las manos en el uso de dichos dispositivos.
 
 ###### Artículo 69.
 
-Todo tratamiento bajo la modalidad residencial deberá ser notificado por el responsable o encargado del Centro de Atención de Adicciones a la Fiscalía General del Estado, en un plazo no mayor de 24 horas posteriores a la admisión. Tratándose de persona menor de edad, se debe obtener adicionalmente consentimiento por escrito de quienes ejercen la patria potestad, del representante legal o tutor. En caso de que la persona menor se encuentre en situación de abandono el encargado o responsable del Centro de atención de adicciones, también se (sic) será notificado a la Fiscalía General del Estado.
+Se prohíbe utilizar claxon, instalar mofles, balas o escapes que no sean de fábrica o que excedan los decibeles permitidos por las disposiciones reglamentarias en la materia.
 
 ###### Artículo 70.
 
-El ingreso obligatorio se lleva a cabo cuando lo solicita la autoridad legal competente, siempre y cuando la persona usuaria lo amerite de acuerdo con el examen médico que le sea practicado.
-
-Tratándose de una persona menor de 16 años, sólo se le ingresará cuando existan programas y espacios adecuados e independientes, de acuerdo con la edad y sexo, de lo contrario deberá ser referida a los centros encargados de la atención a personas menores;
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2025)</small>
-
-###### Artículo 70 Bis.
-
-Dentro de los quince días hábiles de ingresada la persona usuaria del servicio y de manera constante según sus necesidades, será evaluada por el equipo de salud del establecimiento; el médico certificará la evolución y asentará en la historia clínica su valoración sobre la continuidad de tratamiento residencial o no residencial.
+Los conductores del servicio de transporte público de carga tendrán prohibido circular a más de cuarenta kilómetros por hora y siempre deberán hacerlo en el carril de extrema derecha, salvo cuando el Reglamento disponga otra cosa.
 
 ###### Artículo 71.
 
-Los Centros de Atención de Adicciones deberán informar a la persona usuaria o en su caso al padre o madre, quien ejerce la patria potestad, representante legal o tutor, sobre lo siguiente:
+Los conductores del servicio de transporte público de pasajeros, urbano, suburbano o foráneo, no deberán subir pasaje en zonas no autorizadas, y circularán respetando los límites máximos de velocidad, en el carril de extrema derecha, sin rebasar a otros vehículos del mismo tipo de servicio. Además, respetarán las rutas establecidas por la Secretaría y los horarios de servicio.
 
-I.- El funcionamiento, reglamentación y horas de visita del Centro de atención de adicciones;
-
-II.- Los Derecho (sic) y obligaciones de las personas usuarias;
-
-III.- El método, tiempo de tratamiento y proceso de recuperación al que se va a someter a la persona usuaria;
-
-IV.- El costo total del tratamiento; y
-
-V.- Toda aquella información adicional que le sea requerida.
+Los conductores encenderán las luces interiores del vehículo siempre que la seguridad de los pasajeros lo requiera y se abstendrán de reproducir música con volumen elevado.
 
 ###### Artículo 72.
 
-En el caso de ingreso a los Centros de atención de adicciones de niñas, niños o adolescentes, se deberán observar las disposiciones previstas en la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes, debiendo garantizar el consentimiento informado del padre, la madre, representante legal o tutor, así como dar aviso a la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes en el Estado de Aguascalientes, dentro de las 24 horas siguientes, para los efectos conducentes.
+Se prohíbe conducir en estado de ebriedad o bajo el influjo de estupefacientes u otras sustancias tóxicas o psicotrópicas.
 
 ###### Artículo 73.
 
-Cuando se tenga conocimiento de que un niño, niña o adolescente tiene trastorno adictivo a drogas psicoactivas y su padre o madre no le brindan la ayuda o atención necesaria para recibir el tratamiento indicado, cualquier persona que tenga conocimiento de la situación, podrá acudir ante la referida Procuraduría para que inicie el procedimiento de protección correspondiente.
+La Dirección instalará de manera aleatoria, en las vías públicas de competencia estatal, puestos de revisión para detectar la presencia de alcohol en aire espirado en los conductores de unidades vehiculares, tanto del servicio particular como del transporte público, mediante la aplicación de una prueba con alcoholímetro y confirmando el resultado por un médico en los casos en que ésta resulte positiva, la cual deberá determinarse en proporción.
+
+Si la presencia excede el límite permitido de 0.4 (cero punto cuatro) miligramos por litro en la sangre, el infractor se hará acreedor a una multa de sesenta a cien salarios mínimos vigentes en la capital del Estado, a cuyo importe se sumarán los conceptos generados por el arrastre y los días que el vehículo permanezca en el depósito para vehículos. Lo anterior, sin perjuicio de la aplicación de las demás sanciones previstas en otras disposiciones normativas aplicables.
+
+Los conductores del transporte público que infrinjan lo dispuesto en este artículo serán remitidos a la autoridad competente.
 
 ###### Artículo 74.
 
-El egreso de la persona usuaria del Centro de Atención de Adicciones podrá ser por los siguientes motivos:
+Para determinar que se han sobrepasado los límites permitidos de alcohol, se considerarán como medios de prueba el control o test de alcoholemia (BAC) o la prueba respiratoria practicada por la autoridad.
 
-I.- Por haber cumplido los objetivos del tratamiento bajo la modalidad residencial;
-
-II.- Por traslado a otra institución;
-
-III.- A solicitud de la persona usuaria, con excepción de los casos de ingresos obligatorios e involuntarios;
-
-IV.- A solicitud del familiar autorizado, representante legal o tutor y con el consentimiento de la persona usuaria;
-
-V.- Por abandono del servicio o en su caso de hospitalización sin autorización médica, debiéndose notificar a la Fiscalía General del Estado;
-
-VI.- Por disposición de la autoridad legal competente; y
-
-VII.- Por defunción.
+El procedimiento y protocolos de actuación de las pruebas sobre mínimo y máximo de alcohol, así como para imposición de las sanciones correspondientes, se establecerán en el Reglamento de la presente Ley.
 
 ###### Artículo 75.
 
-La hoja de egreso del usuario debe contener los siguientes datos:
-
-a) Fecha y hora de egreso;
-
-b) Descripción del estado general de la persona usuaria;
-
-c) Nombre y firma de conformidad de la persona que egresa; del familiar más cercano en vínculo, representante legal o tutor, según corresponda, y del encargado del Centro de Atención de Adicciones;
-
-d) En caso de que la persona usuaria sea menor de edad, se debe contar además con la firma de conformidad de la persona que ejerza la patria potestad, representante legal o tutor, según sea el caso.
+Los conductores y pasajeros de vehículos tendrán prohibido arrojar o abandonar sobre la vía pública objetos o desechos sólidos. La contravención a esta disposición será sancionada conforme al reglamento correspondiente.
 
 ###### Artículo 76.
 
-Los Centros de Atención de Adicciones de ayuda mutua, deberán cubrir los siguientes requisitos:
-
-I.- Contar con aviso de funcionamiento emitido por la autoridad competente;
-
-II.- Contar con responsable legal y encargado;
-
-III.- Contar con lineamientos y disposiciones por escrito del proceso de recuperación al que se va a incorporar la persona usuaria, del funcionamiento del establecimiento, así como tener en lugar visible los criterios de exclusión sobre padecimientos que no pueden atender, y
-
-IV.- Cumplir con las disposiciones que (sic) establecidas por esta ley.
+Los conductores y los propietarios de vehículos, en términos de lo dispuesto por esta Ley, estarán solidariamente obligados a responder por los daños y perjuicios causados a terceros en su persona y patrimonio, así como por las infracciones cometidas, salvo en el caso de que se configuren de manera posterior al robo de la unidad y éste haya sido denunciado.
 
 ###### Artículo 77.
 
-Los Centros de Atención de Adicciones que ofrezcan tratamiento ambulatorio de ayuda mutua, además de los requisitos previstos en la Ley General, la Ley Local y la Norma Oficial Mexicana, deberán observar lo siguiente:
+Los conductores, además de las obligaciones señaladas en los artículos anteriores, deberán:
 
-I.- Contar con un responsable del servicio;
+I. Mostrar a las autoridades de tránsito y seguridad vial, cuando se les solicite, la licencia o permiso para conducir, así como la documentación requerida para la circulación del vehículo;
 
-II.- Que el tratamiento garantice el respeto a los derechos humanos, preserve la dignidad y la integridad física y mental de las personas usuarias;
+II. Abstenerse de conducir cuando estén impedidos para hacerlo por circunstancias de salud o de cualquier otra causa que implique disminución de sus facultades físicas o mentales;
 
-III.- Derivar a la persona al servicio correspondiente, si no se cuenta con la capacidad resolutiva y de atención al diagnóstico de la persona usuaria; y
+III. Transportar en la unidad sólo el número de personas especificadas en la tarjeta de circulación correspondiente;
 
-IV.- Cumplir con las disposiciones que (sic) establecidas por esta ley.
+IV. No llevar entre o sobre las piernas personas, mascotas u objetos que obstruyan su visibilidad;
+
+V. No ofender a las autoridades ni causar molestias a otros usuarios con ruidos, señas u otras actitudes y acatar estrictamente las normas sobre uso de bocinas, silbatos, escapes, cambios de luces y accesorios del vehículo, señaladas en el Reglamento;
+
+VI. Conservar una distancia prudente respecto del vehículo que les preceda;
+
+VII. No entorpecer la marcha de columnas militares, escolares, desfiles cívicos, cortejos fúnebres y manifestaciones públicas;
+
+VIII. Disminuir la velocidad y, de ser preciso, detener la marcha del vehículo, así como tomar las precauciones necesarias ante la concentración de peatones o vehículos en puestos de revisión;
+
+IX. Respetar las reglas de circulación, especialmente las que se refieren a preferencias de paso, velocidad y uso restringido de las vías públicas;
+
+X. Someterse a los exámenes médicos, teóricos y prácticos exigidos por esta Ley, su Reglamento y demás disposiciones aplicables;
+
+XI. No obstruir la circulación de otros vehículos y de las personas, así como abstenerse de invadir las áreas de rodamiento o las zonas reservadas para el paso peatonal;
+
+XII. Evitar que personas carentes de licencia o permiso para manejar o sin capacidad física o mental conduzcan los vehículos a su cargo;
+
+XIII. Detenerse en retenes y puestos de revisión instalados por la autoridad competente y autorizar la inspección de su vehículo; y
+
+XIV. En general, acatar las disposiciones de esta Ley y de su Reglamento.
 
 ###### Artículo 78.
 
-Los Centros de Atención de Adicciones que practiquen tratamientos alternativos o complementarios cuya finalidad sea la reducción del daño ocasionado por el consumo perjudicial de sustancias psicoactivas, deberán cubrir los requisitos establecidos en la Norma Oficial Mexicana, así como contar con el aviso de funcionamiento ante las autoridades respectivas y contar con la autorización correspondiente de la Comisión para poder funcionar.
-
-De manera adicional, deberán tener un programa por escrito, el cual debe estar basado en la ciencia y contar con el aval técnico de las autoridades respectivas y la opinión favorable de la Comisión.
+Queda prohibido a conductores de vehículos de emergencia o de servicio social u oficial hacer uso de señales luminosas o audibles especiales cuando no se dirijan a atender una urgencia o a realizar acciones preventivas.
 
 ###### Artículo 79.
 
-Los centros de atención médica que lleven a cabo el tratamiento con agonistas de sustitución, además de los requisitos previstos en la Ley General, la Ley Local y la Norma Oficial Mexicana, deben observar los siguientes requisitos:
-
-I.- Estar registrados y avalados por las autoridades respectivas y registrados ante la Comisión;
-
-II.- Ser parte de tratamientos integrales, buscando al final la abstinencia de la sustancia o la disminución de las consecuencias producidas por el consumo perjudicial de sustancias, e
-
-III.- Involucrar y corresponsabilizar a las personas integrantes del núcleo familiar en la rehabilitación de la persona con consumo perjudicial de sustancias psicoactivas.
+Todo conductor tendrá la obligación de detenerse cuando así se lo indique un policía vial; sin embargo, tendrá derecho a exigir que el policía vial que lo detenga se identifique plenamente y le señale conforme a esta Ley y su Reglamento, la causa por la que está siendo detenido y, en su caso, la infracción cometida y la sanción a la que se ha hecho acreedor.
 
 ###### Artículo 80.
 
-El personal que labora en los Centros de Atención de Adicciones, deberá observar lo siguiente:
+Los conductores tendrán prohibido:
 
-I.- Vigilar, proteger y dar seguridad a las personas usuarias del servicio mientras permanezcan en el mismo;
+I. Circular sobre banquetas, camellones, andadores, ciclovías y demás rutas peatonales;
 
-II.- Mantener una relación con las personas usuarias del servicio basada en el respeto a su persona, a sus derechos humanos, integridad física y mental, así como a sus pertenencias;
+II. Circular en carriles de contraflujo y de uso exclusivo, en términos de la presente Ley y su Reglamento;
 
-III.- Informar sobre el costo directo, indirecto total o la gratuidad del tratamiento, así como su duración, en el momento del ingreso o cuando cualquier persona solicite información;
+III. Circular en reversa más de diez metros, salvo que no sea posible circular hacia adelante;
 
-IV.- Suministrar a las personas usuarias del servicio, sólo la medicación prescrita por un médico especializado, registrándola en su expediente clínico, así como el nombre del médico que la receta;
+IV. Circular en reversa en intersecciones, accesos controlados y curvas;
 
-V.- Consignar por escrito en el expediente de la persona usuaria, toda información proporcionada a ella o sus familiares, debiendo manejarse bajo las normas de confidencialidad y el secreto profesional: y
+V. Circular por el carril izquierdo, impidiendo con ello que los vehículos puedan rebasar;
 
-VI.- Abstenerse de brindar información sobre el proceso del tratamiento a persona o autoridad alguna, si no es con el consentimiento escrito de la persona usuaria o del tutor, familiar más cercano en vínculo o representante legal, en caso de tratarse de un menor, salvo los casos previstos por la legislación correspondiente.
+VI. Rebasar por el carril de tránsito opuesto en los siguientes casos:
 
-### CAPÍTULO TERCERO. DE LAS INFRACCIONES Y SANCIONES
+a) Que sea posible rebasarlo en el mismo sentido de su circulación;
+
+b) Que el carril de circulación contrario no ofrezca una clara visibilidad;
+
+c) Que la vía no esté libre de tránsito en una distancia suficiente para permitir efectuar la maniobra sin riesgo;
+
+d) Que se acerque a la cima de una pendiente o a una curva; o
+
+e) Que se encuentre a treinta metros o menos de distancia de un crucero o de un paso de ferrocarril.
+
+VII. Rebasar por la derecha a otro vehículo que transite en el mismo sentido, a excepción de que el vehículo al cual pretenda rebasar disminuya su velocidad para dar vuelta a la izquierda o entorpezca indebidamente la circulación;
+
+VIII. Dar vuelta en "U" en lugares con señal prohibitiva;
+
+IX. Transportar personas en la parte exterior de la carrocería o en lugares no especificados para ello, excepto si se trata de vehículos de emergencia o cuando la finalidad del transporte requiera de ello, en número y en condiciones tales que garanticen su integridad física;
+
+X. Circular con el parabrisas roto o estrellado, en caso que distorsione la visibilidad al interior o exterior del vehículo;
+
+XI. Permitir que los pasajeros dejen abiertas las puertas del vehículo por el lado de la circulación o abrirlas sin cerciorarse de que no existe peligro para otros usuarios de la vía. Los conductores sólo podrán abrir la que les corresponde con la debida precaución, sin entorpecer la circulación y por el tiempo estrictamente necesario para su ascenso o descenso;
+
+XII. Exceder los límites de velocidad legalmente establecidos;
+
+XIII. Instalar o utilizar antirradares o detectores de radares en los vehículos;
+
+XIV. Generar, de manera constante, ruido con el sistema de escape del vehículo que supere los setenta y cinco decibeles en las vialidades;
+
+XV. Avanzar sobre una intersección cuando adelante no haya espacio suficiente para que el vehículo no interfiera la circulación, aunque el semáforo lo permita;
+
+XVI. Circular por la vía pública maquinaria pesada u objetos sin ruedas de cualquier género que puedan dañar el piso, suelo o pavimento;
+
+XVII. Invadir las zonas delimitadas por líneas paralelas o diagonales que separen o canalicen el flujo vehicular en los carriles de circulación;
+
+XVIII. Circular con placas y tarjeta de circulación que correspondan a otros vehículos;
+
+XIX. Hacer uso del perifoneo y propaganda sin la autorización correspondiente; y
+
+XX. Participar en competencias de velocidad no autorizadas en las vías públicas.
+
+### CAPÍTULO VIII. DE LA CIRCULACIÓN DE LOS VEHÍCULOS
 
 ###### Artículo 81.
 
-El ingreso de las personas a los Centros de Atención de Adicciones con modelos profesional y mixto podrá ser voluntario, involuntario, obligatorio y como medida alternativa al proceso judicial.
+Los usuarios se abstendrán de realizar en las vías públicas actos que constituyan peligro para las demás personas o sus bienes.
 
-En el ingreso a los Centros de ayuda mutua será estrictamente voluntario, podrá darse el ingreso como medida alternativa al proceso judicial en los Centros que operen bajo este modelo que estén reconocidos por las autoridades respectivas y se sujeten a las disposiciones establecidas en la presente Ley y demás legislación aplicable.
+Para la realización de eventos deportivos y desplazamientos de caravanas de vehículos o peatones en las vías públicas, los organizadores podrán solicitar oportunamente por escrito a la Dirección, o en su caso, a la autoridad municipal competente, el apoyo necesario para que se despejen las vías y se establezcan rutas alternas a la circulación.
 
 ###### Artículo 82.
 
-El gobierno del Estado dispondrá los mecanismos y facilidades administrativas para fomentar la creación de Centros de Atención de Adicciones por parte de los sectores social y privado. La Comisión brindará asesoría a quien lo solicite respecto de las características y requisitos que deberán cumplir para su creación y operación.
+El transporte de sustancias o materiales peligrosos en la vía pública se realizará en los términos de la legislación aplicable. Cuando éstos sean trasladados por zonas urbanas, la Secretaría establecerá las condiciones y horarios para su transporte.
 
 ###### Artículo 83.
 
-El ISSEA, a través del área correspondiente, llevará acabo el monitoreo de los Centros de Atención de Adicciones, a través de visitas con el objetivo de verificar y supervisar que cumplan con las disposiciones establecidas en la Ley General, la Ley Local, la Norma Oficial Mexicana, la presente Ley y los demás instrumentos jurídicos aplicables en la prestación de sus servicios.
+Todo vehículo particular, del transporte público de pasajeros y de carga, que circule en la vía pública, deberá estar en buen estado mecánico.
+
+Se retirará de la circulación y se pondrán a disposición de la autoridad competente los vehículos cuyos números de serie, de motor o carrocería sean alterados o cuyas placas no correspondan a las asentadas en el registro correspondiente.
 
 ###### Artículo 84.
 
-Las visitas a que se refiere el artículo anterior pueden ser:
-
-I.- Visita de Censo: Son las visitas que se realizan para verificar la existencia del Centro y se requisita la ficha de identificación para el censo;
-
-II.- Visita de Diagnóstico de necesidades: Son las visitas que se realizan por primera vez con el objetivo es (sic) valorar las condiciones generales del mismo aplicando por primera vez en el año, la cédula de supervisión de acuerdo al modelo de atención identificado;
-
-III.- Visita de Seguimiento: Se refieren a las visitas subsecuentes cuyo propósito es la aplicación de la cédula para monitorear el progreso del establecimiento en apego a la normatividad vigente;
-
-IV.- Visita de Vigilancia Sanitaria: Son aquellas visitas que se realizan a establecimientos en los que se tiene reporte o antecedentes de prácticas contrarias a las disposiciones normativas o que no cumplen con la norma sanitaria, que se acompañan con personal de COEPRIS (sic) Estatal; y
-
-V.- Visita de Seguimiento de quejas. Son aquellas que realiza después de haber recibido de manera directa y específica una queja a un establecimiento residencial.
+Las ambulancias, los vehículos de bomberos, del Ejército, de la Marina y de las instituciones policiales, cuando circulen en ejercicio de sus funciones o para la atención de una emergencia, tendrán preferencia de paso en la vía pública. Exclusivamente estos vehículos podrán utilizar luces o códigos de color rojo, azul, naranja y blanco.
 
 ###### Artículo 85.
 
-Las visitas se podrán realizar para determinar la necesidad de orientación, capacitación y aplicación de medidas de seguridad dependiendo de las irregularidades detectadas; y para la verificación de infraestructura del establecimiento, alimentación y atención médica.
-
-Las referidas visitas solo podrán ser realizadas por personal verificador con identificación vigente expedida por la autoridad competente y podrán llevarse a cabo de manera coordinada con la autoridad estatal o municipal, atendiendo al ámbito de su competencia y de acuerdo a la intervención que deban tener de acuerdo con la presente Ley.
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2025)</small>
-
-Durante las diligencias, deberán acompañar a los verificadores, los funcionarios de la Comisión de Derechos Humanos del Estado de Aguascalientes, del Consejo u otras autoridades competentes que el ISSEA instruya para tal efecto.
+El Reglamento establecerá las normas de seguridad y los requisitos necesarios para la circulación en la vía pública de los vehículos particulares, del transporte público de pasajeros en todas sus modalidades y de carga, así como las relativas a las condiciones de seguridad necesaria para sus ocupantes, de otros vehículos y de peatones, como el buen estado de funcionamiento del motor, limpiadores de parabrisas, silenciador, herramientas para casos de emergencia, extintor, espejos, claxon, sistema de frenos, luces, velocímetro y los demás que sean propios de cada vehículo y del fin al que estén destinados.
 
 ###### Artículo 86.
 
-Si de la verificación se observa algún incumplimiento de las disposiciones señaladas o que no brinden un trato digno y de respeto a los derechos humanos de las personas que se encuentren en tratamiento, se dictarán las medidas de seguridad y sanciones que correspondan conforme a la presente Ley y la normatividad aplicable.
-
-En caso de oposición al realizar la visita de verificación o monitoreo o supervisión de medidas de seguridad, por parte de los Centros de atención de adicciones, la autoridad competente, podrá hacer uso de la fuerza pública para el efectivo cumplimiento de sus atribuciones.
+Los propietarios de semovientes no permitirán que éstos se desplacen en la vía pública sin la supervisión de pastores, jinetes o sus equivalentes, quienes deberán sujetarse a las disposiciones de esta Ley y su Reglamento.
 
 ###### Artículo 87.
 
-Los Centros de atención de adicciones a que se refiere esta Ley, serán objeto de visitas de verificación, monitoreo o supervisión de manera periódica, en los siguientes casos:
-
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2025)</small>
-
-I.- De oficio, las cuales deberán realizarse al menos una vez cada seis meses, sin perjuicio de aquellas que puedan efectuarse en cualquier momento por razones fundadas o a petición de parte; o
-
-II.- Cuando medie queja o denuncia de particulares o a petición de autoridad;
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2025)</small>
-
-El incumplimiento injustificado de las verificaciones de oficio por parte del ISSEA derivará en sanciones administrativas conforme a la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
-
-#### SECCIÓN SEGUNDA. SUPERVISIÓN Y SEGUIMIENTO
+Cuando se presenten situaciones que perturben la paz pública o trastornen la circulación vehicular, tanto en las áreas de rodamiento como en las reservadas para el uso peatonal, las autoridades de tránsito y seguridad vial tomarán las medidas necesarias para regular y controlar el desplazamiento vehicular, en tanto perdure la emergencia. Se implementarán operativos para el control de la seguridad vial y señalamientos de circulación, en coordinación con otras autoridades competentes.
 
 ###### Artículo 88.
 
-El ISSEA instrumentará acciones para llevar a cabo el registro de los Centros de atención de adicciones que brinden sus servicios en el Estado, actualizando y difundiendo mediante medios electrónicos un padrón de los mismos.
+Los límites máximos y mínimos de velocidad para la circulación de vehículos en la vía pública se fijarán en esta Ley y su Reglamento, de acuerdo con las normas internacionales.
 
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2025)</small>
-
-Este padrón deberá ser difundido de manera accesible para garantizar que la población tenga la información confiable sobre los establecimientos especializados en el tratamiento de adicciones que se ubican dentro del Estado y son reconocidos por la Comisión Nacional contra las Adicciones.
+Los vehículos de transporte de carga circularán, en su caso, por carreteras o autopistas de libramiento para evitar el paso por zonas urbanas, excepto cuando en éstas se encuentre el destino de la carga; en este caso, se sujetarán al horario que establezca el reglamento correspondiente.
 
 ###### Artículo 89.
 
-La Comisión dará seguimiento de los programas, estrategias y acciones que realicen los Centros de atención de adicciones, para evaluar los resultados obtenidos y opinar sobre el cumplimiento de los objetivos para los que fueron creados.
-
-Las acciones en materia de seguimiento y evaluación deben orientarse hacia la estructura, proceso, resultado e impacto de los programas de prevención, tratamiento, rehabilitación, participación comunitaria, enseñanza, capacitación e investigación sobre el consumo perjudicial de sustancias psicoactivas.
-
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2025)</small>
+Los vehículos registrados en otro país podrán circular libremente en la vía pública, si lo hacen con permiso de importación o internación temporal otorgado por las autoridades competentes y cuentan con las placas y la tarjeta de circulación o documento equivalente vigente, correspondientes a su lugar de origen.
 
 ###### Artículo 90.
 
-El ISSEA diseñará mecanismos para que los establecimientos especializados en atención a las adicciones integren un reporte trimestral de sus actividades, el cual por lo menos deberá contener el número de las personas internadas, las causas de su internamiento, el avance que tengan en su rehabilitación y el promedio de personas que se atienden en función del personal contratado.
+Los vehículos destinados a la prestación del servicio de transporte público de pasajeros colectivo circularán por las rutas autorizadas en la concesión respectiva y los taxis lo harán en su jurisdicción, y podrán circular fuera de ella por causas justificadas o cuando estén fuera de servicio.
 
-### CAPÍTULO CUARTO. DEL RETIRO DE SELLOS DE CLAUSURA TEMPORAL DE ACTIVIDADES
+### CAPÍTULO IX. DE LAS PARADAS Y TERMINALES
+
+(NOTA: EL 17 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, APARTADO C.1, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 18 DE SEPTIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 ###### Artículo 91.
 
-Para establecer las sanciones de conformidad con la presente Ley y la normatividad aplicable, el ISSEA fundamentará y motivará sus resoluciones considerando para su individualización, lo establecido en el artículo 418 de la Ley General, así como en las disposiciones legales aplicables.
+La ubicación de las bases de servicio o paradas para ascenso y descenso del transporte público de pasajeros en la vía pública será fijada POR LA DIRECCIÓN, OBTENIENDO EL VISTO BUENO DE LAS AUTORIDADES MUNICIPALES, procurando que se encuentren como mínimo a quinientos metros una de otra, que cuenten con cobertizo, la señalización correspondiente y la accesibilidad para personas con discapacidad, adultos mayores y mujeres en periodo de gestación o lactancia.
 
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2025)</small>
+Podrán establecerse paradas de transición, de preferencia para los accesos a zonas urbanas densas, los cuales contarán con lugares para estacionamiento donde los usuarios podrán dejar sus vehículos y utilizar servicios de transporte público de pasajeros en cualquiera de sus modalidades Dichas paradas de transición deberán contar con servicios de sanitarios, iluminadas y con seguridad y vigilancia; también podrán concesionarse espacios en las mismas para establecer tiendas de conveniencia, de autoservicio y pagos de servicios, entre otras.
 
-###### Artículo 91 Bis.
-
-Los representantes legales de los centros de atención de adicciones, serán responsables de las omisiones administrativas que se cometan por la prestación de los servicios, sin que ello impida que pueda fincarse cualquier tipo de responsabilidad respecto de los trabajadores del centro.
+(NOTA: EL 17 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, APARTADO C.1, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 18 DE SEPTIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 ###### Artículo 92.
 
-La contravención a la presente ley y demás normativa aplicable, dependiendo de la gravedad del asunto, dará lugar a:
+Los ayuntamientos, CON APOYO DE LA DIRECCIÓN, señalarán los lugares de la vía pública en donde se podrán estacionar vehículos, indicando qué tipo de vehículos y el tiempo de estacionamiento en su caso.
 
-I.- La imposición de medidas de seguridad;
+(NOTA: EL 17 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, APARTADO C.1, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 18 DE SEPTIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2025)</small>
+En caso de que el ayuntamiento autorice el uso de parquímetros en áreas determinadas de la vía pública, para sujetar a medición de tiempo y al pago de una cuota el estacionamiento de vehículos, DARÁ AVISO A LA DIRECCIÓN, con la finalidad de que ésta apoye la instalación de señalamientos y otros implementos necesarios para su óptimo funcionamiento.
 
-II.- La clausura, ya sea permanente o temporal;
+Cuando se estacionen vehículos donde se encuentren instalados parquímetros o cualquier otro sistema que mida el tiempo de estacionamiento en la vía pública, la Dirección se apegará al procedimiento que para ese fin establezcan los ordenamientos municipales y el Reglamento.
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2025)</small>
-
-III.- La revocación de las autorizaciones otorgadas; o
-
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2025)</small>
-
-IV.- La imposición de una multa.
+A falta de señalamiento, los conductores se estacionarán en los lugares en donde exista acotamiento suficiente, sin entorpecer la circulación de otros vehículos, ni los accesos, rampas o lugares exclusivos para personas con discapacidad o mujeres embarazadas, paradas, ni otro elemento de la infraestructura vial al servicio de los demás usuarios.
 
 ###### Artículo 93.
 
-Las medidas de seguridad procederán cuando se den los siguientes supuestos:
-
-I.- Por no contar con valoraciones médicas;
-
-II.- Por no contar con las instalaciones adecuadas para recibir a personas de acuerdo a su género, edad, sexo y capacidades diferentes;
-
-III.- Cuando las condiciones físicas o de salud no les permitan permanecer en el centro de atención de adicciones;
-
-IV.- Por inadecuadas condiciones del Centro de atención de adicciones;
-
-V.- Por exceder el tiempo del tratamiento en el consentimiento informado;
-
-VI.- Por hacinamiento;
-
-VII.- Por presentar alguna condición física o de salud de los usuarios que no les permita permanecer en el mismo; y
-
-VIII.- Por no contar con un tratamiento adecuado de acuerdo a la población existente en el centro de Atención de adicciones.
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2025)</small>
-
-###### Artículo 93 Bis.
-
-En la imposición de las medidas de seguridad señaladas en el artículo anterior, se apercibirá al centro para que, de manera inmediata, inicie los trámites pertinentes a fin de regularizar su operación.
-
-En tanto no acredite el cumplimiento íntegro de la normatividad aplicable, le quedará estrictamente prohibido admitir nuevos usuarios.
+Cuando, por circunstancias extraordinarias, se requiera estacionarse en el área de rodamiento de las vías públicas, los conductores colocarán los señalamientos preventivos, restrictivos y demás que sean necesarios para garantizar la seguridad de los peatones y de otros vehículos.
 
 ###### Artículo 94.
 
-La sanción para la falta de cumplimiento a lo dispuesto en el artículo anterior, podrán aplicarse las medidas de seguridad siguientes:
-
-I.- La suspensión de trabajos o servicios;
-
-II.- La suspensión de mensajes publicitarios en materia de salud;
-
-III.- La emisión de mensajes publicitarios que advierta peligros de daños a la salud;
-
-IV.- El aseguramiento y destrucción de objetos, productos o substancias;
-
-V.- La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio; y
-
-VI.- Las demás de índole sanitaria que determinen las autoridades sanitarias competentes, que puedan evitar que se causen o continúen causando riesgos o daños a la salud.
+La Secretaría y los ayuntamientos, en el ámbito de su competencia, podrán restringir y sujetar a horarios y rutas determinadas la circulación de vehículos de carga, públicos o particulares, con o sin carga, en razón de la naturaleza de las vialidades, el tipo de carga, peso y dimensiones del vehículo, la intensidad del tránsito, la seguridad vial y el interés público.
 
 ###### Artículo 95.
 
-La clausura permanente procederá en los siguientes casos:
+Las maniobras de carga y descarga deberán realizarse sin entorpecer los flujos peatonales y de vehículos, dentro de predios o negocios que cuenten con rampa o acceso adecuado y con espacio interior suficiente.
 
-I.- Cuando exista maltrato físico o psicológico a las personas usuarias u otros actos violatorios de los derechos humanos, sin perjuicio de las sanciones que establezcan otras disposiciones legales;
-
-II.- Cuando el Centro sea reincidente en la comisión u omisión de las observaciones hechas por la Secretaría;
-
-III.- Por conductas que impliquen la comisión de un delito sin perjuicio de las sanciones que establezcan otras disposiciones legales; o
-
-IV.- Cuando se compruebe que las actividades que se realicen en un establecimiento violan las disposiciones sanitarias, constituyendo un peligro grave para la salud.
+Los ayuntamientos autorizarán los lugares y horarios para lo señalado en el párrafo anterior.
 
 ###### Artículo 96.
 
-La clausura temporal procederá en los siguientes casos:
+Para el ascenso o descenso de pasajeros, los conductores de vehículos destinados a la prestación del servicio de transporte público de pasajeros en todas sus modalidades se detendrán a la orilla de la vía, únicamente en los lugares autorizados, a efecto de no ocupar la superficie de rodamiento.
 
-I.- Cuando exista maltrato verbal o psicológico a las personas usuarias;
+En las zonas rurales, lo harán en las áreas destinadas para ello y, en su defecto, en un lugar fuera de la superficie de rodamiento.
 
-II.- Cuando la alimentación no sea adecuada o se elabore o proporcione en condiciones de insalubridad;
-
-III.- Cuando se haga caso omiso a un acuerdo de requerimiento con apercibimiento; o
-
-IV.- Por suministrar sustancias prohibidas durante el tratamiento a los usuarios.
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2025)</small>
-
-###### Artículo 96 Bis.
-
-El ISSEA podrá imponer una multa de 100 a 1000 veces el valor diario de la Unidad de Medida y Actualización, cuando el Centro de Atención de Adicciones no cuente con el registro como institución especializada ante el CONADIC.
-
-En la imposición de la multa se apercibirá al infractor para que de forma inmediata realice los trámites correspondientes a efecto de regularizar su funcionamiento.
+Los conductores tomarán las precauciones necesarias para garantizar la seguridad de los pasajeros y de los demás vehículos.
 
 ###### Artículo 97.
 
-Las medidas de seguridad podrán dictarse en cualquier etapa del procedimiento administrativo. En lo no previsto por esta ley se estará a lo dispuesto por la Ley de Procedimiento Administrativo para el Estado de Aguascalientes y demás disposiciones aplicables.
+Las terminales son los lugares donde los concesionarios o permisionarios que presten el servicio público de transporte de pasajeros o de carga, sujetos o no a itinerarios previamente establecidos, estacionan sus vehículos antes de iniciar o al terminar el recorrido de las rutas autorizadas.
+
+Sólo los vehículos con los que se presta el servicio de transporte público de pasajeros en las modalidades de taxi, escolar y para personal de empresas, conforme a la clasificación establecida en la ley de la materia, podrán utilizar la vía pública como lugar de ascenso y descenso de pasajeros, siempre y cuando no obstruyan el tránsito ni perjudiquen a terceros.
 
 ###### Artículo 98.
 
-Se procederá al retiro de sellos de clausura temporal, dependiendo de la causa que la haya originado dando cumplimiento a lo previsto en la presente Ley y demás normativa aplicable.
+Las terminales deberán ubicarse fuera de las vías públicas, en los términos y bajo la aprobación de la Secretaría.
+
+Los lugares en donde se establezcan terminales del transporte público de pasajeros o centrales de carga deberán reunir las condiciones que garanticen la libre circulación de peatones y vehículos y nunca cerca de hospitales, escuelas, templos o zonas residenciales.
 
 ###### Artículo 99.
 
-El ISSEA tendrá en todo momento la atribución de supervisar que subsista el estado de clausura temporal impuesta en los Centros de Atención de Adicciones. Cuando se detecte, por medio de inspección ocular o queja, que el Centro no tiene sellos, se ordenará su reposición. En caso de quebrantamiento del estado de clausura, se procederá a dar vista a la autoridad competente.
+El estacionamiento de vehículos en las vías públicas se permitirá en las zonas, horarios y formas en que la Dirección o el Ayuntamiento determinen, según el flujo vehicular y las dimensiones de las vías públicas.
 
 ###### Artículo 100.
 
-La revocación de aviso de funcionamiento se iniciará cuando del análisis documental se detecte que el Centro de atención de adicciones se encuentra dentro de las hipótesis previstas en la presente Ley y la normativa aplicable.
+La Dirección retirará el vehículo que se encuentre estacionado en lugar prohibido o en doble fila, los que no reúnan los requisitos legales, incumplan lo dispuesto en esta Ley o que representen peligro o daño a las vías públicas o sus usuarios o cuando el mismo se encuentre abandonado.
+
+### CAPÍTULO X. DE LOS ESTACIONAMIENTOS
+
+(NOTA: EL 17 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, APARTADO C.1, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 18 DE SEPTIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 ###### Artículo 101.
 
-El ISSEA citará a la persona responsable del Centro de atención de adicciones mediante notificación personal en la que se le hagan saber las causas que han originado la instauración del procedimiento, otorgándole un término de diez días hábiles, para que por escrito presente sus objeciones y pruebas o en caso de ser necesario, las anuncie para que se preparen, si es que así se requiriere.
+Corresponde a la Dirección llevar a cabo el registro de estacionamientos y la emisión de los lineamientos y manuales técnicos para regular su operación, de conformidad con lo establecido en este ordenamiento y demás disposiciones jurídicas aplicables.
 
-La audiencia tendrá por objeto la admisión y desahogo de las pruebas ofrecidas, así como la recepción de los alegatos que formule el interesado por sí o por medio de sus representantes o personas autorizadas, los alegatos verbales no podrán exceder de treinta minutos.
+El Secretario podrá otorgar autorizaciones para el establecimiento de estacionamientos en predios particulares, a solicitud de sus propietarios, de acuerdo con las disposiciones municipales, esta Ley y el Reglamento.
 
-Concluida la audiencia, comparezcan o no las personas interesadas, el ISSEA emitirá la resolución del asunto, dentro del término de veinte días hábiles, debiéndose valorar las pruebas ofrecidas, haciendo los razonamientos jurídicos sobre el valor y alcance jurídico de las mismas.
+Aquellos estacionamientos privados que den un servicio complementario, podrán operar como públicos, con apego a la reglamentación respectiva.
 
-## TÍTULO CUARTO. DE LOS CENTROS DE ATENCIÓN DE ADICCIONES
+###### Artículo 102.
+
+Los estacionamientos tendrán las instalaciones necesarias para garantizar la seguridad de las personas y los vehículos; contarán con espacios exclusivos para uso de personas con discapacidades y mujeres embarazadas y tendrán, en su caso, rampas, escaleras o elevadores para ellas; deberán estar debidamente iluminados y señalados los espacios de estacionamiento para cada vehículo, y contarán con sanitarios.
+
+Asimismo, deberán disponer de las instalaciones necesarias para proporcionar el servicio de manera segura a los usuarios de motocicletas y bicicletas.
+
+(NOTA: EL 17 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, APARTADO C.1, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 18 DE SEPTIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+###### Artículo 103.
+
+La Secretaría, en coordinación con los ayuntamientos, promoverá la operación de estacionamientos, privilegiando su ubicación en zonas cercanas a las terminales del servicio público de transporte de pasajeros.
+
+###### Artículo 104.
+
+Cuando se susciten infracciones o accidentes viales, o se pretenda cumplimentar el aseguramiento de algún vehículo que sea ordenado por autoridad competente al interior de los estacionamientos, las autoridades de tránsito y seguridad vial podrán ingresar a ellos en términos de esta Ley y su Reglamento.
+
+(NOTA: EL 17 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, APARTADO C.1, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 18 DE SEPTIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+###### Artículo 105.
+
+Las condiciones que hicieron posible obtener la autorización para la prestación del servicio de estacionamiento no podrán ser modificadas por el particular, sin previo consentimiento por escrito de la autoridad que se la otorgó. Las autorizaciones no son transferibles a terceros.
+
+###### Artículo 106.
+
+Los prestadores del servicio de estacionamiento tendrán las obligaciones siguientes:
+
+I. Sujetarse a las tarifas establecidas;
+
+II. Marcar los espacios que garanticen el adecuado estacionamiento de cada vehículo, conforme a las especificaciones reglamentarias;
+
+III. No rebasar la capacidad de vehículos que contenga la autorización correspondiente, de acuerdo con las especificaciones a que se refiere la fracción anterior;
+
+(NOTA: EL 17 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, APARTADO C.1, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 18 DE SEPTIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+IV. RESERVAR, COMO MÍNIMO, EL VEINTE POR CIENTO DEL CUPO DEL ESTACIONAMIENTO A VEHÍCULOS PENSIONADOS POR MES;
+
+V. Reservar, como mínimo, el diez por ciento de la capacidad total del estacionamiento a vehículos conducidos o que transporten personas con discapacidad o mujeres embarazadas;
+
+(NOTA: EL 17 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, APARTADO C.1, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 18 DE SEPTIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+VI. CONTAR CON SEGURO DE COBERTURA AMPLIA PARA GARANTIZAR A LOS USUARIOS EL PAGO DE LOS DAÑOS PARCIALES, PÉRDIDA TOTAL O ROBO DEL VEHÍCULO;
+
+(NOTA: EL 17 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, APARTADO C.1, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 18 DE SEPTIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+VII. ENTREGAR A LOS USUARIOS EL RECIBO QUE ACREDITE EL INGRESO DE SU VEHÍCULO, EN EL QUE SE SEÑALE, CON RELOJ MARCADOR, LA HORA DE ENTRADA Y SALIDA, EL NÚMERO DE PLACAS DE CIRCULACIÓN Y LOS DATOS DEL SEGURO A QUE SE REFIERE LA FRACCIÓN ANTERIOR;
+
+VIII. Colocar en lugar visible las tarifas y el horario a que está sujeto el estacionamiento, el nombre del responsable y sus datos de localización, así como el número telefónico de la Dirección para que presenten sus quejas;
+
+IX. Contar con señales informativas, restrictivas y preventivas externas e internas, correspondientes al estacionamiento;
+
+X. Colocar un aviso suficientemente visible y en lugar estratégico, para informar al público cuando el inmueble se encuentre a su máxima capacidad;
+
+XI. Permitir la entrada y colaborar con el personal autorizado para verificar el cumplimiento de la presente Ley y su Reglamento; y
+
+XII. Las demás que establezcan la presente Ley, su Reglamento y otras disposiciones aplicables.
+
+###### Artículo 107.
+
+Las personas encargadas de acomodar los vehículos en los estacionamientos deberán contar con la respectiva licencia de conducir vigente y cumplir los requisitos y obligaciones que señale el Reglamento.
+
+###### Artículo 108.
+
+A los prestadores del servicio de estacionamiento al público de vehículos en inmuebles particulares que acumulen tres sanciones pecuniarias, señaladas en el Reglamento, se les podrá suspender la autorización hasta por tres meses y, en caso de reincidencia, la clausura será definitiva.
+
+###### Artículo 109.
+
+Los ayuntamientos y la Dirección, en el ámbito de su competencia, supervisarán los estacionamientos y sancionarán a quienes infrinjan las disposiciones previstas en esta Ley y su Reglamento.
+
+### CAPÍTULO XI. DE LOS SERVICIOS AUXILIARES DE LA SEGURIDAD VIAL
+
+###### Artículo 110.
+
+Son servicios auxiliares de la seguridad vial los siguientes:
+
+I. Vehículos de carga especializada para el arrastre y salvamento de vehículos;
+
+II. Depósito de vehículos; y
+
+III. En general, los que auxilien y complementen la seguridad vial
+
+###### Artículo 111.
+
+El Gobierno del Estado dotará a la Secretaría de los servicios auxiliares necesarios para prestar el servicio, dentro de sus posibilidades presupuestales; en caso de ser insuficientes los servicios auxiliares de la seguridad vial, el Secretario, previa convocatoria pública, podrá otorgar autorizaciones a personas físicas o morales, para prestar dichos servicios, en los términos previstos por esta Ley, su Reglamento y las demás disposiciones legales en la materia. Las autorizaciones no serán transferibles a terceros.
+
+Los ayuntamientos, mediante convenio con el Gobierno del Estado, podrán operar y administrar el servicio de grúas en los términos que suscriban, siempre que sus capacidades técnica y presupuestal así lo permitan.
+
+###### Artículo 112.
+
+Las autorizaciones se otorgarán por un término máximo de cinco años y se darán atendiendo a las necesidades y los estudios técnicos que realice la Secretaría por conducto de la Dirección para tal fin. Por regla general, ampararán la prestación del servicio auxiliar del que se trate en una sola localidad; el Reglamento determinará en qué supuestos podrá haber excepciones a este principio.
+
+Queda prohibido prestar el servicio amparado por la autorización en una localidad distinta a la establecida en la misma, así como prestar un servicio distinto a aquel para el que originalmente se otorgó. La infracción de esta disposición será causa de suspensión de la autorización y, en caso de reincidencia, se revocará.
+
+Los operarios encargados de los vehículos de carga especializada para el arrastre y de los depósitos de vehículos serán responsables de cualquier daño físico, mecánico o de funcionamiento que pudiera causársele al vehículo objeto del arrastre, para lo cual se contará con el inventario correspondiente.
+
+Cada arrastre únicamente llevará un vehículo.
+
+La Secretaría podrá modificar las condiciones establecidas en las autorizaciones conforme al procedimiento previsto en la Ley, su Reglamento y demás disposiciones en la materia.
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+Los servicios auxiliares de seguridad vial deberán estar dotados de cámaras de video para garantizar la integridad de los vehículos y evitar actos de corrupción.
+
+###### Artículo 113.
+
+Sin perjuicio de lo previsto en el artículo precedente, la prestación de los servicios auxiliares de la seguridad vial quedará sujeta a los requerimientos hechos para tal efecto por la Dirección.
+
+###### Artículo 114.
+
+En los casos en que de manera inmediata deba satisfacerse una demanda extraordinaria de alguno de los servicios auxiliares, el Secretario podrá extender permisos temporales para tal efecto, que no excederán de treinta días, en cuyos supuestos cumplirán con los requisitos establecidos en esta Ley.
+
+Dichos permisos dejarán de surtir sus efectos cuando el plazo fijado en ellos originalmente se haya agotado o cuando cese la demanda extraordinaria que los motivó, calificada por el Secretario, debiéndose notificar a los interesados por conducto de la Dirección.
+
+Los permisos a que se refiere este artículo no otorgarán más derechos que aquellos que estén expresamente amparados en los mismos y no podrán ser transferidos a terceros. Cuando se incurra en alguno de los supuestos de suspensión o revocación de las autorizaciones contenidos en la presente Ley, los permisos se cancelarán de manera definitiva.
+
+### CAPÍTULO XII. DE LA REQUISA
+
+###### Artículo 115.
+
+El Secretario, previo acuerdo del Ejecutivo del Estado, podrá ordenar la requisa de los bienes destinados a la prestación de los servicios auxiliares de la seguridad vial, de manera fundada y motivada, de conformidad con lo que al efecto establece la Ley de Expropiación, Ocupación Temporal y Limitación de Dominio de Bienes de Propiedad Privada para el Estado, en todo o parte del territorio estatal, a fin de garantizar la prestación de los mismos y satisfacer las necesidades de la población en general, en los casos siguientes:
+
+I. Cuando se presente un desastre natural, alteración del orden público o se prevea algún peligro inminente para la paz y la seguridad interior del Estado; o
+
+II. Cuando prevalezca un deterioro generalizado de la calidad, seguridad, oportunidad, permanencia o continuidad en la prestación de los servicios auxiliares de la seguridad vial.
+
+###### Artículo 116.
+
+El Gobierno del Estado podrá utilizar el personal que estuviere encargado de la operación de los vehículos utilizados para la prestación de los servicios auxiliares requisados, con pleno respeto a sus derechos laborales. La requisa se mantendrá mientras subsistan las condiciones que la motivaron.
+
+###### Artículo 117.
+
+El Gobierno del Estado podrá indemnizar a los titulares de las autorizaciones afectados hasta en un cincuenta por ciento de los daños que la requisa les hubiere causado. La indemnización se cubrirá con base en el avalúo que practique la Secretaría, dentro de un plazo máximo de noventa días, contado a partir del siguiente a aquel en que hubiere sido dejada sin efecto la medida.
+
+Si los autorizados no estuvieren de acuerdo sobre el monto de la indemnización, se nombrarán peritos por ambas partes para efectos de determinar el monto de la misma.
+
+## TÍTULO CUARTO. DE LA CAPACITACIÓN VIAL
+
+### CAPÍTULO I. DE LA CAPACITACIÓN Y EDUCACIÓN VIAL
+
+###### Artículo 118.
+
+La Secretaría, en coordinación con otras dependencias o entidades de la Administración Pública, o con los concesionarios y permisionarios del servicio de transporte público, mediante la celebración de convenios, promoverá las acciones necesarias en materia de educación vial para peatones, conductores, usuarios y población en general, haciendo uso de los diferentes medios de comunicación y de los avances tecnológicos.
+
+La Secretaría coordinará con las dependencias y entidades correspondientes el diseño e instrumentación de programas permanentes de seguridad, educación vial y prevención de accidentes, que tengan como propósito fundamental crear en los habitantes del Estado, conciencia, hábitos y cultura de respeto a los ordenamientos legales, en materia de tránsito y seguridad vial y de transporte.
+
+###### Artículo 119.
+
+La Secretaría instrumentará con las autoridades educativas correspondientes, la incorporación a los planes de estudio de materias que contengan temas de seguridad y educación vial, en los niveles educativos de preescolar, primaria y secundaria.
+
+###### Artículo 120.
+
+La Secretaría, a través de la Dirección, creará la infraestructura necesaria para impartir cursos teórico prácticos sobre seguridad, educación vial a peatones y ciclistas, cursos de manejo para aspirantes a obtener licencias o permisos para conducir, cursos de capacitación vial para operadores o conductores del servicio de transporte de pasajeros en todas sus modalidades y de carga; así como cursos, seminarios y conferencias dirigidas a niños y jóvenes, con el fin de promover y difundir en la comunidad una cultura de educación vial.
+
+###### Artículo 121.
+
+La Dirección de Transporte contará con la infraestructura necesaria, tal como aulas, simuladores, pistas y todo lo necesario para poder realizar el examen para la obtención de la licencia y permiso de conducir, cuyo contenido y procedimiento de aplicación se sujetará a lo dispuesto en el Reglamento. Asimismo, la Dirección de Transporte contará con el servicio médico especializado para determinar la salud y capacidad física de los aspirantes. En caso de no acreditar dicho examen, el aspirante deberá esperar un año para poder volver a solicitar una nueva oportunidad.
+
+Una vez presentado el examen previsto en este artículo, y de acuerdo a los resultados obtenidos por el aspirante, la Dirección de Transporte procederá con el trámite de expedición de la licencia o permiso que corresponda conforme a la normativa aplicable.
+
+Como alternativa a lo anterior, los conductores podrán acreditar un curso impartido por una escuela de manejo autorizada por la Secretaría conforme a lo establecido en la presente Ley y la demás normativa aplicable, presentando la constancia de acreditación correspondiente ante la Dirección de Transporte para los efectos procedentes.
+
+###### Artículo 122.
+
+La Secretaría establecerá los programas y cursos de capacitación, así como los exámenes médicos y teórico-prácticos a los que deberán someterse una vez al año los conductores y operadores del transporte público en cada una de sus modalidades.
+
+### CAPÍTULO II. DE LAS ESCUELAS DE MANEJO
+
+###### Artículo 123.
+
+La Secretaría otorgará las autorizaciones para el establecimiento de escuelas de manejo o enseñanza para conducir vehículos, previo cumplimiento de las disposiciones relativas señaladas en el Reglamento y de los requisitos que en el ámbito de su competencia determine el ayuntamiento. Dichas autorizaciones no son transferibles a terceros.
+
+###### Artículo 124.
+
+Las personas físicas o las personas morales constituidas conforme a las leyes del país, que obtengan la autorización a que se refiere el artículo anterior, tendrán las obligaciones siguientes:
+
+I. Contar con vehículos apropiados para la enseñanza de conducir, que tengan los dispositivos de seguridad descritos en esta Ley y su Reglamento;
+
+II. Contar con póliza de seguro de cobertura amplia, que garantice la reparación de los daños que se pudieren ocasionar a terceros, de conformidad con lo establecido en esta Ley;
+
+III. Supervisar que los responsables de impartir la enseñanza de manejo, además de contar con la licencia de conducir, asistan a los cursos de capacitación que imparta la Dirección y aprueben los exámenes que para tal fin señale el Reglamento de esta Ley;
+
+IV. Sujetarse a las tarifas, horarios, zonas y demás condiciones de carácter técnico que señalen las autoridades de seguridad vial;
+
+V. Otorgar a quien apruebe sus cursos una constancia de acreditación que tendrá validez para obtener la licencia o permiso para conducir en la modalidad que proceda; y
+
+VI. Cumplir con las demás obligaciones que establezcan la presente Ley y su Reglamento.
+
+###### Artículo 125.
+
+Las autorizaciones a las que se refiere este Capítulo tendrán vigencia de un año y podrán revalidarse por un periodo igual, cuantas veces lo soliciten a la Dirección, siempre y cuando hayan cumplido las obligaciones establecidas en la presente Ley y su Reglamento.
+
+###### Artículo 126.
+
+A las escuelas de manejo que, de acuerdo al Reglamento de esta Ley, acumulen tres sanciones pecuniarias, se les podrá suspender la autorización hasta por tres meses y, en caso de reincidencia, se les cancelará.
+
+###### Artículo 127.
+
+La Dirección supervisará que las escuelas de manejo cumplan con las disposiciones previstas en esta Ley y su Reglamento, mediante visitas de inspección que se ajustarán a lo previsto en dichos cuerpos normativos y la demás normativa aplicable para tal efecto; de igual manera, aplicará las sanciones a que se hagan acreedores quienes infrinjan sus disposiciones, de conformidad con lo que establezca el Reglamento.
+
+###### Artículo 128.
+
+La persona física o moral que pretenda dedicarse a impartir cursos y clases de manejo deberá obtener la autorización correspondiente ante la Secretaría, previo cumplimiento de los requisitos establecidos por ésta y realizado el pago de derechos que corresponda.
+
+###### Artículo 129.
+
+La escuela de manejo, independientemente de su condición o régimen jurídico, deberá contar con las instalaciones necesarias y el equipamiento adecuado para llevar a cabo la impartición de los cursos o clases teórico prácticas sobre manejo y mecánica básica, que comprenderán simuladores, aulas y demás elementos que determine la Secretaría, destinados a aquellas personas que pretendan obtener una licencia o permiso para conducir, así como para realizar cursos de actualización para conductores dedicados al servicio de transporte público.
+
+Ninguna escuela de manejo podrá, bajo ninguna circunstancia, impartir sus cursos o ejercer prácticas de manejo en las vías primarias del Estado.
+
+Los responsables de las escuelas de manejo contarán con un registro de la cantidad de cursos impartidos y del número de participantes de cada curso o clase y lo reportarán a la Dirección cada cuatro meses.
+
+## TÍTULO QUINTO. DE LOS ACCIDENTES VIALES
+
+### CAPÍTULO ÚNICO. DE LOS ACCIDENTES VIALES
+
+###### Artículo 130.
+
+El accidente vial es un evento que ocurre a consecuencia de una falla mecánica, de una acción u omisión del conductor, peatón o pasajero, en el que intervienen uno o más vehículos en las vialidades, que puede ocasionar daños a dichos bienes o a los de terceros, así como lesiones o la muerte a personas o animales.
+
+###### Artículo 131.
+
+Los ayuntamientos y la Dirección, en el ámbito de su competencia, conocerán de los accidentes viales e impondrán las sanciones a que se hagan acreedores los responsables de las infracciones que se cometan, de conformidad con las disposiciones legales y reglamentarias aplicables.
+
+###### Artículo 132.
+
+Cuando en un accidente vial tomare conocimiento de los hechos cualquier otra autoridad, deberá comunicarlo de inmediato a la Dirección, la cual en el caso de daños, lesiones o ambos, deberá fijar por cualquier medio manual, mecánico o electrónico las huellas de frenado, posición final de las unidades y demás circunstancias que sean necesarias para la elaboración del parte de accidente de la policía vial; realizado lo anterior, debe despejarse la vialidad para garantizar la seguridad vial y la libre circulación. El procedimiento señalado se hará sin crear peligro para los usuarios.
+
+Se exceptúa el procedimiento descrito en el párrafo anterior, cuando en el accidente resultare algún fallecido, ya que se deben preservar los indicios para los efectos legales correspondientes, y una vez que la autoridad correspondiente hubiere tomado conocimiento de los mismos, la policía vial deberá despejar la vía para que exista fluidez en su circulación.
+
+En todo caso, la intervención se hará sin crear peligro para los usuarios, tomando las providencias necesarias a fin de señalar y proteger el lugar del accidente, aplicando los protocolos establecidos por la Secretaría para el aseguramiento del lugar de los hechos, cadena de custodia y demás que resulten aplicables en los casos en los que se presuma la comisión de un delito.
+
+En los casos en que las partes que intervinieron en un accidente no convinieren respecto a la forma de pago de los daños causados, no habiendo lesionados, se entregará una copia del parte a cada uno de los que en dicho evento intervinieron, así como el folio de infracción a que haya lugar en su caso, y se dejarán a salvo sus derechos, para los efectos de que sus aseguradoras resuelvan lo procedente, bien sea entre ellas o, en su defecto, acudan a la instancia judicial que consideren pertinente.
+
+Al momento de confirmar la policía vial que no hay lesionados y se tenga indicio del responsable del accidente, los vehículos deberán ser movidos de la vialidad para permitir la circulación.
+
+###### Artículo 133.
+
+Si en un accidente vial resultaren personas con lesiones de las previstas en las fracciones III, IV, V y VI del artículo 137 del Código Penal para el Estado y se presumiere que alguno de los conductores manejaba en estado de ebriedad o bajo el influjo de estupefacientes, sustancias toxicas o psicotrópicas, la Dirección solicitará de inmediato la intervención de un médico legista para que expida el certificado correspondiente.
+
+Ante la negativa de la persona para ser sometida al examen médico, el legista realizará un informe donde asentará tal hecho y se concretará a describir las condiciones que dicho sujeto presente de acuerdo a la apreciación que por los sentidos pueda observar.
+
+En los casos en que no se actualice la hipótesis anterior, la certificación del estado de embriaguez del conductor y de las lesiones de menor grado será realizada por el médico de apoyo de la Dirección, en las mismas condiciones señaladas en el párrafo anterior; asimismo, se dará vista a la fiscalía correspondiente de manera inmediata.
+
+###### Artículo 134.
+
+Los conductores que intervengan en un accidente vial, cuando no resulten lesionados, permanecerán en el lugar de los hechos y se abstendrán de mover o retirar los vehículos de su posición final, hasta que la policía vial tome conocimiento del accidente. Ésta realizará las acciones necesarias para permitir el flujo vehicular y asentará los hechos que constate por escrito, procediendo entonces a mover los vehículos.
+
+Si con motivo del accidente resultaren daños, cualquiera que sea su monto, y el conductor responsable presenta aliento alcohólico, pero la presencia de alcohol en aire exhalado es menor al rango señalado en el reglamento para estos casos, los involucrados podrán convenir sobre la reparación de los mismos, en presencia de la policía vial, bajo la formalidad que se establece en esta Ley y su Reglamento.
+
+Igual procedimiento se seguirá en los casos en que, como consecuencia del accidente, bajo las mismas circunstancias, alguna de las personas que participaren resultare con lesiones de las previstas en las fracciones I y II del artículo 137 del Código Penal para el Estado.
+
+En todos los casos, la policía vial procurará que los interesados lleguen a un acuerdo, orientándolos sobre la responsabilidad en que hubieren incurrido y el valor aproximado de los daños o características de las lesiones. Si lo solicitan, se les concederá un plazo hasta de setenta y dos horas para que resuelvan lo que mejor convenga a sus intereses, lapso durante el cual las unidades serán trasladadas al depósito de vehículos para su resguardo.
+
+###### Artículo 135.
+
+La Dirección pondrá a disposición del fiscal competente a la persona que al conducir un vehículo automotor, en estado de ebriedad o bajo el influjo de estupefacientes o sustancias tóxicas, hubiere causado daños a terceros por ese motivo o que, encontrándose en condiciones normales, hubiere provocado alguna de las lesiones previstas en las fracciones III, IV, V y VI del artículo 137 del Código Penal para el Estado, o la muerte.
+
+###### Artículo 136.
+
+En caso de que, en un accidente vial a que se refiere el artículo anterior, se causaren lesiones de las previstas en las fracciones I y II del artículo 137 del Código Penal para el Estado y el valor de los daños se estimare inferior a quinientos días de salario, se podrá formular un acuerdo reparatorio que contenga:
+
+I. Los datos de identificación de las partes, su firma o huella, así como los de los ajustadores o representantes de sus respectivas aseguradoras;
+
+II. Descripción de los vehículos que participaron en el accidente;
+
+III. Descripción de los daños que resultaron;
+
+IV. El certificado médico de lesiones, si las hubiere;
+
+V. Las posibles causas de los hechos y su descripción;
+
+VI. Aceptación de la responsabilidad de quien se comprometa a hacer el pago;
+
+VII. La forma de pago a satisfacción del afectado; y
+
+VIII. Firma y sello de la autoridad que intervenga.
+
+Formulados el acuerdo reparatorio y la infracción correspondiente, las partes podrán retirarse con sus vehículos y se entregará, a cada una, copia del acuerdo como garantía para el cumplimiento del mismo y su respectiva infracción. El acuerdo que se realice tendrá efectos de título ejecutivo.
+
+###### Artículo 137.
+
+Si quien hubiere aceptado la responsabilidad del pago de la reparación del daño en un acuerdo reparatorio no cumpliere en los términos de éste, y el afectado pretendiera lograr el pago de dicha reparación, la Dirección proporcionará a éste todos los elementos a su alcance para que, por sus medios y en coordinación con su aseguradora, acudan ante la instancia que corresponda para los efectos de demandar o denunciar ante la autoridad competente la responsabilidad que derive del hecho vial en que participaron.
+
+###### Artículo 138.
+
+El conductor o propietario del vehículo que intervenga en un accidente, en el que no hubiere daños a terceros, podrá retirar él mismo el vehículo, previo consentimiento de la Dirección.
+
+###### Artículo 139.
+
+Las autoridades de la Dirección llevarán un control estadístico, debidamente pormenorizado, de los accidentes viales que ocurran y de las infracciones que se cometan en el ámbito territorial de su competencia.
+
+###### Artículo 140.
+
+La persona que resulte responsable de un accidente vial deberá reparar los daños y perjuicios derivados del mismo a favor de las personas afectadas en su integridad física, salud y bienes.
+
+###### Artículo 141.
+
+El propietario o poseedor de semovientes deberá reparar los daños y perjuicios que ocasionen éstos, cuando se determine que son responsables de un accidente vial.
+
+###### Artículo 142.
+
+El peatón que, por su imprudencia o falta de cuidado, ocasione un accidente vial al no hacer uso de la infraestructura o elementos viales instalados para garantizar su integridad, será responsable solidario de los daños que se ocasionen.
+
+Si los daños recayeran únicamente sobre su persona, y la imprudencia o falta de cuidado se encuentra debidamente probada en el parte de accidente emitido por la Dirección, se le considerará responsable de los mismos, sin perjuicio de la responsabilidad penal en que se pudiera incurrir.
+
+## TÍTULO SEXTO. DEL TRANSPORTE
+
+### CAPÍTULO ÚNICO. DEL TRANSPORTE EN GENERAL
+
+###### Artículo 143.
+
+El transporte en el Estado es de pasajeros y de carga y podrá ser de servicio público o particular. El servicio público y su prestación está sujeto a lo estipulado en la Ley de Transporte y las demás disposiciones aplicables.
+
+El transporte de pasajeros es el que tiene por objeto el traslado seguro, cómodo, eficiente, oportuno y moderno de personas y del equipaje que lleven consigo.
+
+El transporte de carga es el que tiene por objeto el traslado y entrega de bienes muebles, comerciales o industriales en vehículos apropiados que así lo garanticen.
+
+###### Artículo 144.
+
+Corresponde a la Dirección coordinar, dirigir, vigilar y sancionar a los concesionarios y permisionarios en materia de transporte de pasajeros y de carga, ya sea público o privado y en cualquiera de sus modalidades, por cuanto hace a su circulación por las vialidades del Estado, así como lo referente al tránsito y seguridad vial.
+
+Por cuanto hace a su operación y al servicio que prestan a los usuarios, a la Dirección únicamente le corresponden las facultades de verificación y vigilancia previstas en esta Ley, su Reglamento, la Ley de Transporte y la demás normativa aplicable.
+
+###### Artículo 145.
+
+La Dirección verificará y vigilará, que en la prestación del servicio, los concesionarios y permisionarios cumplan con lo siguiente:
+
+I. Que el servicio se preste en los términos y condiciones señalados en la concesión o permiso concedido de conformidad con esta Ley y su Reglamento, así como la Ley de Transporte y la demás normativa aplicable;
+
+II. Que los vehículos se encuentren en óptimas condiciones de seguridad, calidad, equipamiento e higiene para el servicio;
+
+III. Que los vehículos del servicio de transporte público de pasajeros urbano y suburbano, viajen con las luces interiores encendidas;
+
+IV. Que cuentan con la póliza prevista en el artículo 46 de esta Ley para garantizar a los usuarios y a terceros los daños que se les pudieren ocasionar con motivo del servicio;
+
+V. Que los operadores den un trato correcto a los usuarios, lo que no limita a la policía vial de verificar y exigir dicho cumplimiento cuando se detecte un mal servicio o un trato inadecuado a los usuarios;
+
+VI. Que muestren a la policía vial los documentos que éstos les requieran durante la prestación del servicio;
+
+VII. Que se cumpla con las disposiciones aplicables en materia de protección al ambiente;
+
+VIII. Que presten el servicio de manera gratuita, cuando así lo ordene la Secretaría, por causas de fuerza mayor, caso fortuito, desastres naturales, contingencias o causas análogas;
+
+IX. Que todo conductor de una unidad de servicio de transporte público cuente con licencia para conducir tipo “A”; asimismo, constatar que los conductores de las unidades del servicio público de transporte hayan recibido y cursado debidamente la capacitación que en materia vial imparta la Secretaría;
+
+X. Que todo conductor u operador de unidades de servicio de transporte público, porte la tarjeta de identificación señalada en el artículo 65, fracción V de la presente Ley; y
+
+XI. Las demás condiciones que establezcan esta Ley, su Reglamento, la Ley de Transporte y todas las disposiciones aplicables en la materia.
+
+## TÍTULO SÉPTIMO. DE LA OBSERVANCIA DE LA LEY
+
+### CAPÍTULO I. DE LAS INFRACCIONES Y SANCIONES
+
+###### Artículo 146.
+
+La acción u omisión que contravenga esta Ley y su Reglamento se considerará como una infracción administrativa, y se sancionará de conformidad a lo previsto en los mismos.
+
+###### Artículo 147.
+
+Los policías viales podrán imponer, por contravención a las disposiciones contenidas en la presente Ley y su Reglamento, así como a los reglamentos municipales cuando proceda, las sanciones señaladas en la presente Ley.
+
+###### Artículo 148.
+
+Los conductores que cometan alguna infracción a esta Ley o su Reglamento y realicen una acción u omisión que dé o pueda dar lugar a la tipificación de un delito, serán puestos a disposición de la autoridad competente por conducto de la policía vial que tuvo conocimiento del hecho, sin perjuicio de las sanciones que les corresponda por la infracción vial.
+
+En caso de que los infractores a que se refiere el párrafo anterior sean menores de edad, el policía vial que tenga conocimiento del caso deberá, además, hacerlo del conocimiento de los padres o tutores para los efectos que correspondan.
+
+###### Artículo 149.
+
+La Secretaría y los ayuntamientos, en el ámbito de su competencia, podrán implementar operativos para prevenir infracciones a esta Ley y su Reglamento, utilizando instrumentos especializados o de innovaciones tecnológicas que para tal fin se autoricen.
+
+###### Artículo 150.
+
+La persona que viole diversas disposiciones de esta Ley y demás reglamentarias, será sancionada por la infracción mayor.
+
+###### Artículo 151.
+
+Las sanciones que se aplicarán por contravenir las disposiciones a esta Ley, su Reglamento y las demás disposiciones aplicables, serán las siguientes:
+
+I. Amonestación verbal;
+
+II. Multa;
+
+III. Retiro y retención de vehículos; y
+
+IV. Arresto administrativo inconmutable hasta por treinta y seis horas.
+
+El Reglamento de esta Ley determinará las conductas que ameriten las sanciones previstas en las fracciones anteriores.
+
+La Dirección podrá recomendar a la Dirección de Transporte, cuando así lo amerite por contravención a esta Ley o su Reglamento, la suspensión o cancelación de las concesiones, autorizaciones, licencias y permisos para conducir.
+
+###### Artículo 152.
+
+Las Infracciones se clasificarán en las categorías siguientes:
+
+I. Leves;
+
+II. Graves;
+
+III. Muy Graves; y
+
+IV. Especiales.
+
+> <small>(REFORMADO, G.O. 26 DE JUNIO DE 2017)</small>
+
+###### Artículo 153.
+
+El acto por medio del cual se impongan multas, deberá estar fundado y motivado y se aplicará en Unidades de Medidas y Actualización (UMA), graduándose conforme a lo siguiente:
+
+I. Leves, cuando no se pone en riesgo la vida o el patrimonio de personas: de cinco a quince;
+
+II. Graves, cuando sin poner en riesgo la vida, se afecten la integridad física, el patrimonio de las personas o el interés colectivo: de dieciséis a treinta;
+
+III. Muy graves, cuando se actualice cualquiera de los siguientes supuestos:
+
+a) Cuando además de poner en peligro la vida o la integridad física, se ocasionen daños a más de una persona, o se afecte la vía pública o la infraestructura urbana, o
+
+b) Cuando se conduzca en estado de ebriedad. En ambos casos: de treinta y uno a cuarenta; y
+
+IV. Especiales, cuando se actualice cualquiera de los siguientes supuestos:
+
+a) Cuando con motivo de la conducción de un vehículo se ocasionaren lesiones, produciendo al ofendido la pérdida de cualquier extremidad, órgano o disfunción, se cause una deformidad incorregible, se ocasione incapacidad permanente para trabajar: de cuarenta y uno a cien; y
+
+b) Cuando se cause la muerte, de ciento uno a doscientos.
+
+Cuando con una misma conducta se infrinjan dos o más disposiciones de esta Ley o de su Reglamento, se anotarán en la boleta de infracción los folios correspondientes.
+
+> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+El pago de las multas dará lugar a descuentos sobre el valor total, siempre y cuando se dé dentro de los siguientes plazos: el setenta y cinco por ciento dentro de los primeros cinco días; el cincuenta por ciento dentro de los días sexto al décimo, el veinticinco por ciento dentro del día undécimo al decimoquinto y el diez por ciento dentro de los días decimosexto al vigésimo. Los plazos se computarán en días hábiles y correrán al día posterior de su imposición, salvo cuando se conduzca en estado de ebriedad, caso en el que no habrá descuento.
+
+Las multas impuestas a los conductores con motivo de las infracciones a la Ley, no implican la omisión en la observancia de las disposiciones penales aplicables, respecto de aquellos casos en los que se acredite la comisión de un delito.
+
+###### Artículo 154.
+
+Las siguientes medidas preventivas podrán ser impuestas con el carácter de sanción, en los términos siguientes:
+
+I. La detención del vehículo, por consecuencia del incumplimiento de los preceptos de esta Ley y su Reglamento, se realizará cuando pueda derivarse un riesgo grave para la circulación, las personas o sus bienes, en los casos en que:
+
+a) El conductor se niegue a someterse a las pruebas que se establezcan para la detección de posibles intoxicaciones por alcohol, drogas, psicotrópicos y demás sustancias similares, o
+
+b) El vehículo no cuente con la póliza de seguro a que se refiere esta Ley; y
+
+II. El retiro del vehículo de la vía pública, siempre que éste constituya un peligro, cause graves perturbaciones a la circulación de vehículos, peatones o al funcionamiento de algún servicio público o pueda presumirse racionalmente su abandono; en este último caso, deberá mediar queja vecinal, de acuerdo al procedimiento siguiente:
+
+a) Conforme a los datos existentes en el padrón vehicular, la autoridad ejecutora notificará a los propietarios el lugar en donde se encuentre depositada la unidad; de ser imposible la localización del propietario, la notificación se realizará por estrados y en ambos casos en la página electrónica de la autoridad que corresponda.
+
+b) Los vehículos retirados permanecerán en el depósito en tanto los propietarios se presenten y acrediten su propiedad; y
+
+c) En el caso de los vehículos abandonados que hayan sido instrumento, objeto o producto de un delito, se procederá conforme a lo dispuesto en la Ley de Extinción de Dominio para el Estado.
+
+###### Artículo 155.
+
+Las multas que impongan la Dirección o su equivalente de los ayuntamientos deberán cubrirse dentro de los treinta días hábiles siguientes a su notificación.
+
+###### Artículo 156.
+
+Las multas impuestas por la policía vial por cualquier infracción a esta Ley o su Reglamento, se notificarán por regla general en el momento inmediato de su comisión al conductor, dándole a conocer la disposición que se esté violando.
+
+La notificación de las infracciones podrá efectuarse en un momento posterior, por los diferentes medios que para ese fin establezca el Reglamento, de conformidad con la normativa aplicable.
+
+Lo anterior aplicará, entre otros casos, cuando el conductor no se encuentre en el momento del hecho, la circulación vehicular no lo permita, concurran factores meteorológicos adversos, haya obras u otras circunstancias en que la detención del vehículo pueda originar un riesgo concreto o cuando la autoridad haya tenido conocimiento de los hechos a través de dispositivos tecnológicos especializados u otros instrumentos que permitan conocer la conducta infractora.
+
+###### Artículo 157.
+
+Las autoridades municipales que presten el servicio público de tránsito y seguridad vial o su equivalente, cuando con motivo de sus funciones recojan licencias de conducir, informarán mensualmente a la Dirección sobre las licencias retenidas y, en caso de que éstas no hayan sido recogidas por su titular en un lapso de cuarenta y cinco días, le serán remitidas a la Secretaría para los efectos legales conducentes.
+
+###### Artículo 158.
+
+Cuando se cometa una infracción y la Dirección conozca del hecho en flagrancia, los elementos de la policía vial podrán recoger la licencia o permiso para conducir, la tarjeta de circulación del vehículo, o en su caso la autoridad de seguridad vial determinará el retiro del vehículo de la vía pública, en términos de lo dispuesto por esta Ley y su Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 159.
+
+Cuando un vehículo sea retirado de la vía pública, el conductor o propietario estará obligado a cubrir el costo de la maniobra y arrastre realizado por la grúa oficial, autorizada, permisionada o concesionada, así como el monto de la pensión que se genere en el depósito vehicular por el resguardo del vehículo, de conformidad con las tarifas autorizadas por la Secretaría, que no deben exceder de las establecidas por el Código de Derechos vigente en el Estado por la prestación oficial de estos servicios.
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+Se exceptúan de lo anterior, aquellos conductores que no resulten responsables por la comisión de alguna infracción a esta Ley o su Reglamento, y no realicen una acción u omisión que dé o pueda dar lugar a la tipificación de un delito.
+
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 3 DE OCTUBRE DE 2018)</small>
+
+###### Artículo 160.
+
+Para la aplicación de las multas, el policía vial que conozca de la infracción correspondiente procederá como sigue:
+
+I. Se identificará plenamente, indicando su nombre y cargo, y mostrará su placa y credencial que lo acredita como elemento activo de la Secretaría;
+
+II. Comunicará al infractor o propietario del vehículo la infracción cometida;
+
+III. Solicitará la entrega de los siguientes documentos: licencia vigente, tarjeta de circulación y póliza de responsabilidad civil o seguro contra daños a terceros vigente, para su revisión;
+
+IV. Formulará la boleta de infracción correspondiente, donde se asentarán la o las infracciones cometidas a la presente Ley o su Reglamento, señalando el o los artículos contravenidos. Asimismo, asentará su cargo, nombre y firma, la fecha de elaboración, la hora, un breve relato de la falta y la categoría de la multa que corresponda; además, recabará la firma al infractor y ante la negativa a firmar, procederá a consignarlo dentro de la misma boleta de infracción;
+
+V. En el caso de negativa a firmar la boleta de infracción por parte del conductor, ésta se hará llegar a su domicilio a través de correo certificado o correo electrónico, según la información que se tenga en la base de datos de la Secretaría; en el caso de de (sic) vehículos de otra entidad federativa o país, para garantizar el cumplimiento por parte del infractor, se procederá de conformidad con la fracción VII del presente artículo;
+
+VI. Si el policía vial cuenta con terminal electrónica que le permita emitir la boleta de infracción correspondiente y realizar el cobro de la multa en el lugar de los hechos, no conservará en garantía ningún documento del conductor, sólo le hará el cobro con tarjeta de débito o crédito, según sea el caso, nunca en efectivo y solicitará se le firme el comprobante bancario respectivo, así como la boleta de infracción;
+
+VII. Cometida una infracción, formulada la boleta de infracción, firmada por ambas partes de ser el caso y entregada en original al infractor, ante la flagrancia conservará como garantía de pago de la multa uno de los siguientes documentos: la licencia, el permiso para conducir o la tarjeta de circulación. A falta de lo anterior, se procederá en términos de lo previsto en esta Ley o su Reglamento;
+
+VIII. La boleta de infracción contendrá la leyenda impresa relativa a que el infractor o el responsable solidario descrito en esta Ley tendrá derecho de interponer el recurso de revocación, así como el plazo en el cual deberá interponerse y ante qué autoridad; y
+
+IX. En caso de que el infractor se diere a la fuga, se asentará este hecho en la boleta de infracción, dejando la infracción a su disposición en la Dirección para los efectos a que haya lugar; transcurrido el tiempo previsto en esta Ley, se procederá de acuerdo a lo señalado en la misma y su Reglamento.
+
+###### Artículo 161.
+
+Para la aplicación y ejecución de las demás sanciones, se notificará al infractor o responsable solidario personalmente, mediante correo certificado o correo electrónico, en el domicilio que se encuentre registrado ante la Secretaría, la infracción cometida, la sanción que pretende aplicarse y la indicación de que, a partir de la recepción de la notificación, cuenta con diez días hábiles improrrogables para formular los alegatos y presentar las pruebas que en su defensa juzgue convenientes.
+
+Dentro del término de quince días hábiles, contado a partir de la recepción de los alegatos y pruebas a los que se refiere el párrafo anterior, o finalizado el plazo que la misma indica sin que éstos se hubieren presentado, la autoridad dictará, debidamente fundada y motivada, la resolución que corresponda, notificándola al infractor o al responsable solidario personalmente o en el domicilio que se haya notificado; en caso de no obedecerla se adoptarán las medidas necesarias para la ejecución.
+
+###### Artículo 162.
+
+El procedimiento a través del cual se impondrán las sanciones por conductas que violen disposiciones de la presente Ley y su Reglamento, captadas por cualquier dispositivo o medio tecnológico, será el siguiente:
+
+I. Las actas contendrán el nombre y domicilio del propietario del vehículo, de conformidad con el Registro Vehicular correspondiente; placa, marca y modelo del vehículo; lugar, fecha y hora en que fue cometida la infracción; descripción de la infracción cometida y la especificación de las disposiciones violadas, así como nombre y firma de la autoridad facultada para imponer la sanción.
+
+II. La prueba física que arroje el dispositivo tecnológico, en la cual conste la conducta infractora, se contendrá en el acta de infracción, y
+
+III. Se notificará dicha acta de infracción en el domicilio de la persona que aparezca como propietario del vehículo.
+
+### CAPÍTULO II. DE LAS VISITAS DE INSPECCIÓN
+
+###### Artículo 163.
+
+La Dirección podrá practicar visitas de inspección a fin de vigilar el cumplimiento de las disposiciones relativas a las autorizaciones previstas en esta Ley y su Reglamento, con respecto a estacionamientos, prestación de los servicios auxiliares de la seguridad vial y escuelas de manejo y, en su caso, determinar la procedencia de la imposición de alguna de las sanciones aplicables a sus titulares por infracciones a esos ordenamientos.
+
+###### Artículo 164.
+
+Para la práctica de una inspección, se requerirá una orden de visita, expedida por el Secretario, en la que se especificarán las disposiciones cuyo cumplimiento habrá de inspeccionarse.
+
+Las visitas de inspección se practicarán en días y horas hábiles, por elementos de la policía vial designados por la Dirección, quienes exhibirán identificación oficial vigente.
+
+Las personas físicas o morales sujetas a una inspección deberán ser notificadas personalmente de la misma, estarán obligadas a proporcionar todos los datos o informes que les sean requeridos y permitirán el acceso a sus instalaciones conforme a la orden de visita de inspección. La información que proporcionen tendrá carácter confidencial.
+
+###### Artículo 165.
+
+De toda visita de inspección se levantará acta circunstanciada, en presencia de dos testigos propuestos por la persona que hubiese atendido la visita o por el servidor público autorizado para la práctica de la misma, si aquélla se hubiere negado a designarlos.
+
+En el acta que se levante con motivo de una visita de inspección se hará constar lo siguiente:
+
+I. Lugar, fecha y hora en que se practicó;
+
+II. Objeto de la visita;
+
+III. Fecha de la orden respectiva, así como los datos de identificación y la firma del servidor público que la practicó;
+
+IV. Nombre y carácter o personalidad jurídica de la persona que atendió la visita de inspección, así como su declaración o negativa a permitirla;
+
+V. Nombre, domicilio y firma de las personas designadas como testigos; y
+
+VI. Descripción de los hechos, datos y omisiones derivados del objeto de la visita.
+
+Una vez elaborada el acta, el policía vial que la hubiese levantado proporcionará una copia de la misma a la persona que atendió la visita, aun en el caso de que ésta se hubiera negado a firmarla, hecho que no afectará su validez.
+
+En caso de alguna infracción a las disposiciones de la presente Ley y su Reglamento o la demás normativa aplicable, el visitado contará con un término de diez días hábiles, a fin de que presente las pruebas y defensas que estime conducentes. Con vista en ellas o a falta de su presentación, la autoridad que haya girado la orden de visita dictará la resolución que corresponda.
+
+## TÍTULO OCTAVO. DE LOS MEDIOS DE IMPUGNACIÓN
+
+### CAPÍTULO ÚNICO. DEL RECURSO DE REVOCACIÓN
+
+###### Artículo 166.
+
+Contra los actos y resoluciones que se dicten en materia de tránsito y seguridad vial procederá el recurso de revocación, en los términos establecidos por esta Ley y el Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave.
 
 ## TRANSITORIOS
 
-###### ARTÍCULO PRIMERO.
+PRIMERO. La presente Ley entrará en vigor el día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO. Se deroga la Ley número 589 de Tránsito y Transporte para el Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del Estado de Veracruz el día lunes 6 de noviembre de 2006, excepto su Título Tercero y demás disposiciones relativas a la materia de transporte público, en tanto se emite la ley correspondiente.
 
-###### ARTÍCULO SEGUNDO.
+TERCERO. El Ejecutivo del Estado y en su caso, los ayuntamientos, expedirán o adecuarán los reglamentos respectivos par a (sic) el cumplimiento de la Ley, en un plazo no mayor a seis meses de la entrada en vigor de la misma.
 
-Se derogan todas las disposiciones que se opongan a la presente Ley.
+CUARTO. Los recursos humanos, materiales y financieros de la Dirección General de Tránsito del Estado, se transfieren a partir de la puesta en vigor de la presente Ley, a la Dirección General de Tránsito y Seguridad Vial, con pleno respeto a los derechos de sus trabajadores.
 
-###### ARTÍCULO TERCERO.
+QUINTO. En un plazo no mayor de noventa días naturales, contado a partir del inicio de vigencia de esta Ley, el Congreso del Estado adecuará las disposiciones del Código de Derechos para el Estado de Veracruz de Ignacio de la Llave a lo señalado en este ordenamiento.
 
-Los Municipios del Estado de Aguascalientes tienen ciento veinte días hábiles, a partir de la entrada en vigor del presente Decreto para actualizar su marco normativo conforme a lo dispuesto en la presente Ley.
+DADA EN EL SALÓN DE SESIONES DE LA LXIII LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO, EN LA CIUDAD DE XALAPA-ENRÍQUEZ, VERACRUZ DE IGNACIO DE LA LLAVE, A LOS VEINTISÉIS DÍAS DEL MES DE MARZO DEL AÑO DOS MIL QUINCE.
 
-###### ARTÍCULO CUARTO.
+OCTAVIA ORTEGA ARTEAGA
 
-El actual Consejo contra las adicciones para el Estado de Aguascalientes, creado mediante el acuerdo respectivo, publicado en fecha 04 de octubre de 2010, continuará ejerciendo sus funciones de acuerdo (sic) las disposiciones del presente Decreto y se establece un plazo de sesenta días naturales para realizar las adecuaciones correspondientes a su reglamentación interna, debiendo publicarlo en la (sic) Periódico Oficial del Estado de Aguascalientes.
+DIPUTADA PRESIDENTA
 
-###### ARTÍCULO QUINTO.
+RÚBRICA.
 
-El ISSEA contará con un plazo de ciento veinte días, contados a partir de la publicación del presente Decreto, para emitir los Protocolos que serán observados en los Centros de Atención de Adicciones.
+ANA CRISTINA LEDEZMA LÓPEZ
 
-###### ARTÍCULO SEXTO.
+DIPUTADA SECRETARIA
 
-En el caso de los Centros privados o sociales de atención a personas con problema de consumo perjudicial de sustancias psicoactivas, que actualmente no cumplan con aviso de funcionamiento y/o incumplan alguno de los requerimientos para su funcionamiento, tendrán un plazo de doce meses, contados a partir de la entrada en vigor del presente Decreto para obtenerlo o regularizar su funcionamiento con forme (sic) a las disposiciones de la presente ley.
+RÚBRICA.
 
-Durante el plazo previsto en el párrafo que antecede, dichos Centros deberán registrarse de manera temporal ante la Comisión, con la finalidad de que puedan continuar prestando el servicio. Dicho registro temporal estará sujeto a los lineamientos establecidos en el Reglamento de la presente Ley.
+Por lo tanto, en atención a lo dispuesto por el artículo 49 fracción II de la Constitución Política del Estado, y en cumplimiento del oficio SG/00000510 de las diputadas presidente y secretaria de la Sexagésima Tercera Legislatura del Honorable Congreso del Estado, mando se publique y se le dé cumplimiento. Residencia del Poder Ejecutivo Estatal, a los treinta días del mes de marzo del año dos mil quince.
 
-###### ARTÍCULO SÉPTIMO.
+A t e n t a m e n t e
 
-La persona titular del Poder Ejecutivo, en un plazo de noventa días, contados a partir la entrada en vigor del presente Decreto, emitirá la reglamentación correspondiente.
+Dr. Javier Duarte de Ochoa
 
-Al Ejecutivo para su promulgación y publicación.
+Gobernador del Estado
 
-Dado en el Salón de Sesiones “Soberana Convención Revolucionaria de Aguascalientes”, del Palacio Legislativo, a los veintinueve días del mes de junio del año dos mil veintitrés
+Rúbrica.
 
-Lo que tenemos el honor de comunicar a Usted, para los efectos Constitucionales conducentes.
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-Aguascalientes, Ags., a 29 de junio del año 2023.
+G.O. 7 DE MARZO DE 2017.
 
-ATENTAMENTE.
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 254 QUE REFORMA EL ARTÍCULO 23 DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
 
-LA MESA DIRECTIVA
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
-SALVADOR MAXIMILIANO RAMÍREZ HERNÁNDEZ
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-DIPUTADO PRESIDENTE
+Tercero. El Ejecutivo del Estado, en un plazo de sesenta días naturales, expedirá las adecuaciones necesarias al Reglamento de la Ley de Tránsito y Seguridad Vial para el estado de Veracruz de Ignacio de la Llave.
 
-GLADYS ADRIANA RAMÍREZ AGUILAR
+G.O. 26 DE JUNIO DE 2017.
 
-DIPUTADA PRIMER SECRETARIA
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 297 QUE DEROGA LA FRACCIÓN XXVIII DEL ARTÍCULO 3, Y REFORMA EL ARTÍCULO 153 DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
-CUAUHTÉMOC ESCOBEDO TEJADA
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
-DIPUTADO SEGUNDO SECRETARIO
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35, 36, 46 fracción I y 49 párrafo segundo de la Constitución Política del Estado de Aguascalientes, para su debida publicación y observancia, “Promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 28 de julio de 2023”.- La Gobernadora del Estado de Aguascalientes, C. María Teresa Jiménez Esquivel.- Rúbrica.- El Secretario General de Gobierno, Mtro. Florentino de Jesús Reyes Berlié.- Rúbrica.
+Tercero. El Ejecutivo del Estado contará con un plazo de 60 días naturales contado a partir de la entrada en vigor del presente Decreto, a efecto de realizar las modificaciones reglamentarias correspondientes.
 
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+Cuarto. A la entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en la ley, se entenderán referidas a la Unidad de Medida y Actualización.
 
-P.O. 30 DE JUNIO DE 2025.
+G.O. 23 DE NOVIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 206.- SE REFORMA LA LEY PARA LA PREVENCIÓN, ATENCIÓN INTEGRAL Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE AGUASCALIENTES”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 338 QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
-###### ARTÍCULO ÚNICO.
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 11 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 701 POR EL QUE SE REFORMA El ARTÍCULO 153 EN SU PENÚLTIMO PÁRRAFO DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. El reglamento de esta Ley deberá ser adecuado en el término de noventa días naturales a partir de la vigencia del presente Decreto.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 3 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 709 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y DEROGA EL TERCERO DEL ARTÍCULO 159 DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ".]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano de Gobierno del Estado.
+
+Segundo. El Ejecutivo publicará en la Gaceta Oficial, órgano del Gobierno del Estado, en un plazo no mayor a 60 días hábiles las tarifas autorizadas y desagregadas por la prestación de cada uno de los servicios auxiliares de seguridad vial que se cobrarán en forma oficial, por el permisionario o concesionario con el fin de transparentar esta actividad en beneficio de los usuarios.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 733 QUE ADICIONA EL ARTÍCULO 91 BIS DE LA LEY DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 22 DE LA LEY PARA LA INTEGRACIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; Y SE ADICIONA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN I INCISO A) AL ARTÍCULO 8 DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
