@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-51070"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-07-05"
-last_updated: "2024-12-31"
+last_updated: "2025-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
 
@@ -121,7 +121,9 @@ Para efectos de la presente Ley se entenderá por:
 
 I. Ley, a la Ley General de Hacienda del Estado de Morelos;
 
-II. Secretaría, a la Secretaría de Hacienda del Poder Ejecutivo Estatal;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+II. Secretaría, a la Secretaría de Administración y Finanzas del Poder Ejecutivo Estatal;
 
 III. Código, al Código Fiscal para el Estado de Morelos;
 
@@ -131,13 +133,17 @@ IV. Reglas, a las reglas de carácter general emitidas por la Secretaría;
 
 V. Asociación en Participación, al conjunto de personas que realizan actividades empresariales con motivo de la celebración de un convenio, y siempre que las mismas, por disposición legal o del propio convenio, participen de las utilidades o de las pérdidas derivadas de dicha actividad;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-VI. Unidades económicas, a las sucesiones, los fideicomisos y las asociaciones en participación a que se refiere la Ley General de Sociedades Mercantiles, o cualquiera otra forma de asociación, aun cuando no sean reconocidas como personas jurídicas conforme otras disposiciones legales aplicables, y
+VI. Unidades económicas, a las sucesiones, los fideicomisos y las asociaciones en participación a que se refiere la Ley General de Sociedades Mercantiles, o cualquiera otra forma de asociación, aun cuando no sean reconocidas como personas jurídicas conforme otras disposiciones legales aplicables;
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-VII. UMA, a la Unidad de Medida y Actualización, referencia económica diaria en pesos para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales, de las entidades federativas y de la Ciudad de México, así como en las disposiciones jurídicas que emanen de todas las anteriores.
+VII. UMA, a la Unidad de Medida y Actualización, referencia económica diaria en pesos para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales, de las entidades federativas y de la Ciudad de México, así como en las disposiciones jurídicas que emanen de todas las anteriores, y
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+VIII. Padrón Estatal de Contribuyentes, al Padrón de Contribuyentes del Estado.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
@@ -1377,9 +1383,9 @@ El impuesto se causará en el momento que se realice el pago por remuneraciones 
 
 TASA
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-Artículo 58 BIS-4. El impuesto sobre erogaciones por remuneraciones al trabajo personal se determinará aplicando la tasa del 2.5% sobre el monto total de las erogaciones efectuadas por concepto de remuneraciones al trabajo personal.
+Artículo 58 BIS-4.- El impuesto sobre erogaciones por remuneraciones al trabajo personal se determinará aplicando la tasa del 3.0% sobre el monto total de las erogaciones efectuadas por concepto de remuneraciones al trabajo personal.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -1707,13 +1713,13 @@ III. Llevar un registro pormenorizado de las ventas a que se refiere el Artícul
 
 IV. Expedir comprobantes que reúnan los requisitos fiscales, sin que el impuesto establecido en este Capítulo se traslade en forma expresa y por separado.
 
-> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-### CAPÍTULO SÉPTIMO QUINQUIES
+### CAPÍTULO SÉPTIMO QUINQUIES. DE LOS IMPUESTOS ECOLÓGICOS
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-#### SECCIÓN ÚNICA. DEL IMPUESTO POR EMISIÓN DE GASES A LA ATMÓSFERA
+#### SECCIÓN I. DEL IMPUESTO POR EMISIÓN DE GASES A LA ATMÓSFERA
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
@@ -1785,9 +1791,11 @@ Hexafluoro de azufre SF6 22,200
 
 CUOTA
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-ARTÍCULO 58 QUINQUIES-4. El impuesto a que se refiere esta Sección, se causará en el momento que los contribuyentes realicen emisiones a la atmósfera, gravadas por este impuesto que afecten el territorio del Estado, aplicando una cuota impositiva por el equivalente a 250 pesos por tonelada emitida de bióxido de carbono o la conversión del mismo, establecida en el artículo anterior.
+Artículo 58 QUINQUIES-4.- El impuesto a que se refiere esta Sección, se causará en el momento que los contribuyentes realicen emisiones a la atmósfera, gravadas por este impuesto que afecten el territorio del Estado, aplicando una cuota impositiva por el equivalente a 0.88 UMA por tonelada emitida de bióxido de carbono o la conversión del mismo, establecida en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 Aquellos contribuyentes que participen en el Sistema de Comercio de Emisiones conforme a lo señalado en el artículo 94 de la Ley General de Cambio Climático, estarán sujetos al pago de una cuota fija anual, conforme a la siguiente tabla de referencia:
 
@@ -1809,9 +1817,11 @@ EQUIVALENTE EQUIVALENTE
 
 PAGO
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-ARTÍCULO 58 QUINQUIES-5. Los contribuyentes realizarán a cuenta de este impuesto, pagos definitivos mensuales, que se presentarán a más tardar el día 17 del mes siguiente que corresponda al mismo, mediante los formularios que para esos efectos apruebe y publique la Secretaría.
+Artículo 58 QUINQUIES-5.- Los contribuyentes realizarán a cuenta de este impuesto, pagos definitivos trimestrales, que se presentarán a más tardar el día 17 de los meses de abril, julio, octubre y enero, mediante los formularios que para esos efectos apruebe y publique la Secretaría.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 Lo anterior se establece, sin perjuicio de las multas, responsabilidades o sanciones que establezcan las disposiciones jurídicas aplicables en materia de equilibrio ecológico y protección al ambiente, u otras responsabilidades penales, civiles o administrativas y demás disposiciones que resulten aplicables por el riesgo de pérdida de vida humana, así mismo por deterioro que causa a la salud pública y el daño al ambiente.
 
@@ -1835,13 +1845,205 @@ IV. En su caso, datos de concentración resultantes de los monitores o mecanismo
 
 V. Cualquier otro que se establezca mediante publicación reglamentaria por parte de la Secretaría o de la Secretaría encargada del Medio Ambiente.
 
-### CAPÍTULO OCTAVO. DEL IMPUESTO ADICIONAL
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO SÉPTIMO SEXIES. DE LOS IMPUESTOS CEDULARES SOBRE LOS INGRESOS DE LAS PERSONAS FÍSICAS
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+#### SECCIÓN I. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Artículo 58 SEXIES-1.- Están obligadas al pago de los impuestos cedulares establecidos en esta Ley, las personas físicas que, en territorio del Estado de Morelos, obtengan ingresos en efectivo, en bienes, en crédito, en servicios o en cualquier otro tipo, por realizar las siguientes actividades:
+
+I. Por el otorgamiento del uso o goce temporal de bienes inmuebles, y
+
+II. Por la enajenación de bienes inmuebles.
+
+También están obligadas al pago de estos impuestos, las personas físicas no residentes en el Estado, que realicen las actividades mencionadas en el territorio de la Entidad.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Artículo 58 SEXIES-2.- Los contribuyentes sujetos de los impuestos cedulares previstos en esta Ley, deberán inscribirse o actualizar sus obligaciones fiscales ante el Padrón Estatal de Contribuyentes de conformidad con su régimen de tributación ante el Registro Federal de Contribuyentes.
+
+Para efectos del párrafo anterior, la Secretaría podrá inscribir a los contribuyentes o actualizar sus obligaciones ante el Padrón Estatal de Contribuyentes, cuando por cualquier medio o información a la que tenga acceso advierta que no han presentado el aviso respectivo ante el Padrón Estatal de Contribuyentes.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Artículo 58 SEXIES-3.- Para los efectos del presente Capítulo, a falta de disposición expresa se aplicará supletoriamente, adicionalmente a la legislación fiscal del Estado, la Ley del Impuesto Sobre la Renta, siempre y cuando la disposición de dicho ordenamiento de carácter federal no contravenga esta Ley.
+
+Los contribuyentes que corresponden a una persona moral considerada como Coordinado, en términos de lo dispuesto en el Titulo II, Capítulo VII de la Ley del Impuesto Sobre la Renta, podrán, a través de este, calcular y enterar el Impuesto Cedular, así como cumplir con las obligaciones fiscales por cada uno de sus integrantes de acuerdo a lo dispuesto en el presente Capítulo.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+#### SECCIÓN II. DEL IMPUESTO CEDULAR POR EL OTORGAMIENTO DEL USO O GOCE TEMPORAL DE BIENES INMUEBLES
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA , P.O. 22 DE DICIEMBRE DE 2025)</small>
 
 OBJETO
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+Artículo 58 SEXIES-4.- Es objeto de este impuesto los ingresos por otorgar el uso o goce temporal de bienes inmuebles ubicados en el territorio del Estado de Morelos.
+
+Para los efectos de este impuesto se consideran ingresos por otorgar el uso o goce temporal de bienes inmuebles los siguientes:
+
+I. Los provenientes del arrendamiento o subarrendamiento y en general, por otorgar a título oneroso el uso o goce temporal de bienes inmuebles en cualquier otra forma, y
+
+II. Los rendimientos de certificados de participación inmobiliaria no amortizables.
+
+Se consideran ingresos los percibidos en efectivo, bienes, servicios y crédito. Tratándose de los ingresos en crédito se declararán y se calculará el impuesto que les corresponda hasta el mes de calendario en el que sean cobrados.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+SUJETO
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Artículo 58 SEXIES-5.- Están obligados al pago de este impuesto, las personas físicas que perciban ingresos por otorgar el uso o goce temporal de bienes inmuebles ubicados en el territorio del Estado de Morelos, con independencia de la Entidad Federativa en la que el contribuyente tenga su domicilio fiscal.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Artículo 58 SEXIES-6.- En lo relativo a los ingresos y deducciones se atenderá, adicionalmente a lo previsto en esta Ley, a lo establecido en el apartado correspondiente a Disposiciones Generales y a los Capítulos III y X, ambos del Título IV y al Título VII, de la Ley del Impuesto Sobre la Renta.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA , P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+BASE
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Artículo 58 SEXIES-7.- La base de este impuesto considerará los mismos ingresos y las mismas deducciones que se establecen en el Capítulo III del Título IV de la Ley del Impuesto Sobre la Renta, en lo referente a los ingresos por arrendamiento y en general por otorgar el uso o goce temporal de bienes inmuebles, excepto la deducción del propio impuesto cedular a que se refiere esta Sección.
+
+La base se determinará disminuyendo de la totalidad de los ingresos las deducciones autorizadas conforme al párrafo anterior.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA , P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+TASA Y PAGO
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Artículo 58 SEXIES-8.- Los sujetos obligados que obtengan ingresos de los señalados en esta Sección, efectuarán pagos mensuales a cuenta del impuesto del ejercicio correspondiente, a más tardar el día veinte del mes inmediato posterior a aquél al que corresponda el pago, en las oficinas recaudadoras correspondientes a la ubicación de los inmuebles, instituciones bancarias autorizadas, centros autorizados o medios electrónicos autorizados por la Secretaría.
+
+El pago provisional se determinará aplicando a la Base, es decir, a la totalidad de los ingresos obtenidos en el mes por el que se declara menos las deducciones del mismo periodo, a que se refiere el artículo anterior. Al resultado obtenido se le aplicará la tasa del 3%.
+
+Tratándose de subarrendamiento, sólo se considerará la deducción por el importe de las rentas del mes que pague el subarrendador al arrendador.
+
+Los contribuyentes deberán presentar sus declaraciones mensuales provisionales en términos de lo dispuesto en este numeral, aun cuando no exista impuesto a pagar y continuarán haciéndolo hasta en tanto no presenten los avisos que en su caso correspondan para efectos del Padrón Estatal de Contribuyentes.
+
+El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingresos obtenidos, las deducciones autorizadas correspondientes al mismo periodo. A la utilidad fiscal que se obtenga, se le aplicará la tasa prevista en el párrafo segundo del presente artículo. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales. La declaración anual a que se refiere este párrafo se presentará a más tardar el 03 de mayo del año siguiente.
+
+Cuando se trate de personas morales residentes en el Estado, éstas deberán retener por concepto del impuesto correspondiente, el monto que resulte de aplicar la tasa del 1.5%, sobre el monto de los pagos que les efectúen, sin deducción alguna, debiendo proporcionar a los contribuyentes constancia de la retención; dichas retenciones deberán enterarse, en su caso, conjuntamente con los pagos que se realicen conforme al Capítulo Séptimo Bis de esta Ley.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA , P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+OBLIGACIONES
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Artículo 58 SEXIES-9.- Los sujetos obligados que obtengan ingresos de los señalados en esta Sección, además de efectuar los pagos del impuesto, tendrán las siguientes obligaciones:
+
+I. Solicitar su inscripción en el Padrón Estatal de Contribuyentes;
+
+II. Registrar ante las oficinas recaudadoras correspondientes el contrato de arrendamiento respectivo dentro de los diez días siguientes a aquel en que se hubiera celebrado;
+
+III. Expedir comprobantes por las contraprestaciones recibidas, mismos que deberán reunir los requisitos fiscales;
+
+IV. Llevar los libros, registros, documentación que establezcan las leyes fiscales del Estado y sistemas de contabilidad, de conformidad con el Código;
+
+V. Conservar la contabilidad y los comprobantes de los asientos respectivos; así como aquellos necesarios para acreditar que se ha cumplido con las obligaciones fiscales, y
+
+VI. Presentar declaraciones provisionales y anual.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+#### SECCIÓN III. DEL IMPUESTO CEDULAR POR LA ENAJENACIÓN DE BIENES INMUEBLES
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA , P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+OBJETO
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Artículo 58 SEXIES-10.- Es objeto de este impuesto los ingresos que se obtengan por la enajenación de bienes inmuebles que se ubiquen en el territorio del Estado de Morelos.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA , P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+SUJETO
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Artículo 58 SEXIES-11.- Están obligados al pago de este impuesto, las personas físicas que perciban ingresos por la enajenación de bienes inmuebles que se ubiquen en el territorio del Estado de Morelos, con independencia de la Entidad Federativa en la que el contribuyente tenga su domicilio fiscal o se realice la operación.
+
+Para los efectos de este Capítulo, se consideran ingresos por enajenación de inmuebles, los que deriven de:
+
+I. Toda transmisión de propiedad, aún en la que el enajenante se reserve el dominio del bien enajenado o el usufructo del mismo;
+
+II. Las adjudicaciones, aun cuando se realicen a favor del acreedor;
+
+III. La aportación a una sociedad o asociación;
+
+IV. La que se realiza a través del fideicomiso, en los siguientes casos:
+
+a) En el acto en el que el fideicomitente designe o se obliga a designar fideicomisario diverso de él y siempre que no tenga derecho a readquirir del fiduciario los bienes, y
+
+b) En el acto en el que el fideicomitente pierda el derecho a readquirir los bienes del fiduciario, si se hubiera reservado tal derecho.
+
+V. La cesión de los derechos que se tengan sobre los bienes afectos al fideicomiso, en cualquiera de los siguientes momentos:
+
+a) En el acto en el que el fideicomisario designado ceda sus derechos o dé instrucciones al fiduciario para que transmita la propiedad de los bienes a un tercero. En estos casos se considerará que el fideicomisario adquiere los bienes en el acto de su designación y que los enajena en el momento de ceder sus derechos o de dar dichas instrucciones, y
+
+b) En el acto en el que el fideicomitente ceda sus derechos si entre éstos se incluye el que los bienes se transmitan a su favor.
+
+VI. La transmisión de dominio de un bien tangible o del derecho para adquirirlo que se efectúe a través de enajenación de títulos de crédito, o de la cesión de derechos que los representen.
+
+Lo dispuesto en esta fracción no es aplicable a las acciones o partes sociales.
+
+En los casos de permuta se considerará que hay dos enajenaciones.
+
+Se considerará como ingreso el monto de la contraprestación obtenida en efectivo, bienes, servicio, inclusive en crédito, con motivo de la enajenación; cuando por la naturaleza de la transmisión no haya contraprestación, se atenderá al valor comercial según avalúo practicado por corredor público titulado, institución de crédito o especialista en valuación, autorizado al efecto por las autoridades fiscales estatales.
+
+No se considerarán ingresos por enajenación, los que deriven de la transmisión de propiedad de inmuebles por causa de muerte o por donación.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA , P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+BASE
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Artículo 58 SEXIES-12.- La base de este impuesto considerará los mismos ingresos y las mismas deducciones que se establecen en la Sección I, de los Capítulo (sic) IV y X, del Título IV de la Ley del Impuesto sobre la Renta, en lo referente a los ingresos por la enajenación de bienes inmuebles, excepto la deducción del propio impuesto cedular a que se refiere esta Sección.
+
+La base gravable será el monto de la ganancia obtenida de la diferencia entre los ingresos por enajenación de bienes inmuebles y las deducciones autorizadas conforme al párrafo anterior.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN , P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+TASA Y PAGO
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Artículo 58 SEXIES-13.- Los contribuyentes que obtengan ingresos por la enajenación de bienes inmuebles efectuarán el pago del impuesto por cada una de las operaciones que realicen, aplicando la tasa del 3% sobre la base gravable determinada de conformidad con lo dispuesto en el artículo que antecede y se enterará mediante declaración que se presentará dentro de los 15 días hábiles siguientes a la fecha de enajenación.
+
+En el caso de operaciones consignadas en escritura pública, los fedatarios, bajo su responsabilidad calcularán y retendrán el impuesto a que se refiere este (sic) Sección y lo enterarán dentro de los 15 días hábiles siguientes a la fecha en que se autorice definitivamente la escritura. Quedan relevados de la obligación de efectuar el cálculo y entero del impuesto, cuando la enajenación de inmuebles se realice por personas físicas dedicadas a actividades empresariales, debiendo observarse al efecto lo dispuesto por la Ley del Impuesto Sobre la Renta y sus disposiciones reglamentarias.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Artículo 58 SEXIES-14.- En su caso, los contribuyentes podrán solicitar la práctica de un avalúo por corredor público titulado, institución de crédito o especialista en valuación. La Secretaría estará facultada para practicar, ordenar o tomar en cuenta, el avalúo del bien objeto de la enajenación.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA , P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+EXENCIONES
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Artículo 58 SEXIES-15.- No se pagará el impuesto por enajenación de bienes inmuebles en los siguientes supuestos:
+
+I. Cuando se trate de enajenación de casa habitación conforme a los términos previstos en el artículo 93, fracción XIX, inciso a) de la Ley del Impuesto sobre la Renta, y
+
+II. Cuando se trate de enajenación de derechos parcelarios, conforme a los términos del artículo 93, fracción XXVIII de la Ley del Impuesto sobre la Renta.
+
+### CAPÍTULO OCTAVO. DEL IMPUESTO ADICIONAL
+
+OBJETO
 
 ###### Artículo 59.
 
@@ -1875,7 +2077,9 @@ TASA
 
 ## TÍTULO TERCERO. DE LAS CONTRIBUCIONES ESPECIALES
 
-### CAPÍTULO SEGUNDO. CONTRIBUCIONES ESPECIALES POR OBRAS PÚBLICAS DE BENEFICIO DIRECTO
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 65.
 
@@ -1893,7 +2097,7 @@ Las autoridades fiscales podrán autorizar, conforme a reglas de carácter gener
 
 Los contribuyentes que prefieran hacer el pago total de la liquidación a su cargo en una sola exhibición, tendrán derecho a un descuento del 12% sobre el monto del pago anticipado.
 
-### CAPÍTULO TERCERO. CONTRIBUCIONES ESPECIALES POR OBRAS PÚBLICAS DE BENEFICIO COLECTIVO
+### CAPÍTULO SEGUNDO. CONTRIBUCIONES ESPECIALES POR OBRAS PÚBLICAS DE BENEFICIO DIRECTO
 
 ###### Artículo 67.
 
@@ -1963,9 +2167,7 @@ El monto de las cuotas, en cada caso concreto deben pagarse, distribuyendo el co
 
 Para los efectos de este Capítulo cuando se trate de obra de pavimentación o reparación, su duración mínima será de diez años y en consecuencia, no se podrá acordar un nuevo cobro por el mismo concepto durante este plazo.
 
-### CAPÍTULO PRIMERO. REGISTRO PÚBLICO DE LA PROPIEDAD
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+### CAPÍTULO TERCERO. CONTRIBUCIONES ESPECIALES POR OBRAS PÚBLICAS DE BENEFICIO COLECTIVO
 
 ###### Artículo 70.
 
@@ -2079,363 +2281,297 @@ En ningún caso se pagarán contribuciones de mejoras por obras iguales realizad
 
 ## TÍTULO CUARTO. DE LOS DERECHOS
 
-### CAPÍTULO SEGUNDO. REGISTRO PÚBLICO DEL COMERCIO
+### CAPÍTULO PRIMERO. REGISTRO PÚBLICO DE LA PROPIEDAD
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 76.
 
 Los servicios que se presten en materia de Registro Público de la Propiedad causarán derechos y se pagarán previamente por los interesados conforme a esta Ley.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 77.
 
-Los servicios que se presten en materia de registro público de la propiedad causarán derechos y se pagarán previamente por los interesados conforme a esta Ley, en los términos siguientes:
+Los servicios que se presten en materia de registro público de la propiedad causarán derechos y se pagarán previamente por los interesados conforme a esta Ley, con base en los términos siguientes:
 
-Tarifa
+Tarifa en UMA
 
-en UMA
+I. Por la calificación de todo documento que se
 
-I. Por la calificación de todo
+devuelva sin que se preste el servicio solicitado
 
-documento que se devuelva sin
+por omisión de requisitos, impedimento legal, por
 
-que se preste el servicio
-
-solicitado por omisión de
-
-requisitos, impedimento legal,
-
-por contener datos incorrectos
-
-o a petición del interesado,
+contener datos incorrectos o a petición del interesado,
 
 por cada vez: 2.50
 
 II. Por la inscripción de:
 
-a) Documentos, resoluciones
+a) Documentos, resoluciones judiciales o
 
-judiciales o administrativas
+administrativas y testimonios notariales en
 
-y testimonios notariales en
+los cuales se establezca, declare, transfiera,
 
-los cuales se establezca,
+adquiera o modifique el dominio, o la posesión
 
-declare, transfiera, adquiera
+de bienes inmuebles o derechos reales, incluyendo
 
-o modifique el dominio, o la
+los fideicomisos traslativos de dominio, por cada
 
-posesión de bienes inmuebles
+inmueble a que se refiere esta fracción: 85.00
 
-o derechos reales, incluyendo
+La primera inscripción de la propiedad será gratuita
 
-los fideicomisos traslativos
+y los derechos por el registro de los actos traslativos
 
-de dominio, por cada inmueble
+subsecuentes se causarán en términos de este inciso
 
-a que se refiere esta fracción: 85.00
+Esta misma tarifa aplicará a la compraventa con
 
-La primera inscripción de la propiedad será gratuita y los derechos por el registro de los actos traslativos subsecuentes se causarán en términos de este inciso.
+reserva de dominio; a la compraventa de la nuda
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+propiedad con reserva del usufructo; así como a la
 
-Esta misma tarifa aplicará a la compraventa con reserva de dominio; a la compraventa de la nuda propiedad con reserva del usufructo; así como a la adjudicación de bienes por cambio, substitución, disolución o terminación de la sociedad conyugal en cualquiera de las formas establecidas en el Código Familiar para el Estado Libre y Soberano de Morelos o aplicación de bienes por gananciales cuando el adquiriente no sea titular registral;
+adjudicación de bienes por cambio, substitución,
 
-b) Hipoteca, por cada inmueble
+disolución o terminación de la sociedad conyugal
 
-en que se deba hacer el registro: 85.00
+en cualquiera de las formas establecidas en el
 
-c) La sustitución de deudor o
+Código Familiar para el Estado Libre y Soberano
 
-de acreedor, en cualquier caso: 9.00
+de Morelos o aplicación de bienes por gananciales
 
-d) El registro de cédulas
+cuando el adquiriente no sea titular registral;
 
-hipotecarias: 25.50
+b) Hipoteca, por cada inmueble en que se deba
+
+hacer el registro: 85.00
+
+c) La sustitución de deudor o de acreedor, en
+
+cualquier caso: 9.00
+
+d) El registro de cédulas hipotecarias: 25.50
 
 III. En materia de patrimonio familiar, por la inscripción de:
 
-a) La constitución de patrimonio
+a) La constitución de patrimonio familiar: 1.50
 
-familiar: 1.50
+b) La cancelación del patrimonio familiar: 1.50
 
-b) La cancelación del patrimonio
+IV. Por la inscripción de fideicomisos y contratos
 
-familiar: 1.50
+de arrendamiento:
 
-IV. Por la inscripción de fideicomisos y contratos de arrendamiento:
+a) Fideicomisos de administración o de garantía,
 
-a) Fideicomisos de administración
+por cada inmueble que se afecte: 28.50
 
-o de garantía, por cada inmueble
+b) Cancelación de estos fideicomisos, por cada
 
-que se afecte: 28.50
+inmueble que se afecte: 11.50
 
-b) Cancelación de estos fideicomisos,
+c) Contratos de arrendamiento de inmuebles 28.50
 
-por cada inmueble que se afecte: 11.50
+V. En materia de fraccionamientos y condominios,
 
-c) Contratos de arrendamiento
+por la inscripción de:
 
-de inmuebles: 28.50
+a) Fraccionamiento, lotificación, fusión, división o
 
-V. En materia de fraccionamientos y condominios, por la inscripción de:
+subdivisión de un inmueble, por cada lote o fracción: 9.00
 
-a) Fraccionamiento, lotificación,
+Constitución de régimen de propiedad en condominio
 
-fusión, división o subdivisión de
+o, en su caso, de su modificación por cada unidad
 
-un inmueble, por cada lote o fracción: 9.00
+condominal: 9.00
 
-b) Constitución de régimen de
+VI. Tratándose de contratos de prenda o comodato,
 
-propiedad en condominio o, en
+de contratos sobre bienes muebles o de los que
 
-su caso, de su modificación por
+establezcan condición suspensiva o resolutoria o de
 
-cada unidad condominal: 9.00
-
-VI. Tratándose de contratos de prenda o comodato, de contratos sobre bienes muebles o de los que establezcan condición suspensiva o resolutoria o de cualquiera otra modalidad:
+cualquiera otra modalidad:
 
 a) Por su inscripción 56.50
 
-b) Por la inscripción de
+b) Por la inscripción de documentos que extingan
 
-documentos que extingan
+los actos mencionados en la fracción anterior: 9.00
 
-los actos mencionados en
+VII. Tratándose de contratos de compraventa con
 
-la fracción anterior: 9.00
-
-VII. Tratándose de contratos de compraventa con reserva de dominio sobre bienes inmuebles:
+reserva de dominio sobre bienes inmuebles:
 
 a) Por su inscripción: 56.50
 
-b) Por la inscripción de
+b) Por la inscripción de documentos en que se
 
-documentos en que se haga
+haga constar la cancelación de la reserva de
 
-constar la cancelación de
+dominio sobre bienes inmuebles: 56.50
 
-la reserva de dominio sobre
+VIII. Tratándose de sociedades o asociaciones
 
-bienes inmuebles:
+civiles, por la inscripción de:
 
-56.50
+a) Documentos en que se constituya una asociación
 
-VIII. Tratándose de sociedades o asociaciones civiles, por la inscripción de:
+o sociedad civil, o de sus aumentos: 28.50
 
-a) Documentos en que se
+b) Acta de asamblea de las personas morales
 
-constituya una asociación
+mencionadas: 13.50
 
-o sociedad civil, o de sus
+c) Fusión de sociedades y asociaciones civiles: 28.50
 
-aumentos: 28.50
+d) Cada uno de los actos de disolución, liquidación
 
-b) Acta de asamblea de las
-
-personas morales mencionadas: 13.50
-
-c) Fusión de sociedades y
-
-asociaciones civiles: 28.50
-
-d) Cada uno de los actos de
-
-disolución, liquidación o
-
-cancelación del asiento
-
-correspondiente a una
+o cancelación del asiento correspondiente a una
 
 sociedad o asociación civil: 17.00
 
-IX. Por la inscripción de instrumentos de representación legal:
+IX. Por la inscripción de instrumentos de
 
-a) Poderes o sustituciones
+representación legal:
 
-de los mismos, por cada inmueble: 9.00
+a) Poderes o sustituciones de los mismos, por cada
 
-b) Revocación de poderes, por
+inmueble: 9.00
 
-cada inmueble: 3.50
+b) Revocación de poderes, por cada inmueble: 3.50
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+C) Cambio, designación o asignación de algún
 
-c) Cambio, designación o
+tipo de representación legal, en cualquier instrumento 9.00
 
-asignación de algún tipo de
+X. Por la inscripción de fianzas, contrafianzas u
 
-representación legal, en
-
-cualquier instrumento 9.00
-
-X. Por la inscripción de fianzas,
-
-contrafianzas u obligaciones
-
-solidarias con el fiador: 11.50
+obligaciones solidarias con el fiador: 11.50
 
 XI. Por la expedición de:
 
-a) Certificados de libertad o
+a) Certificados de libertad o existencia de gravámenes: 4.50
 
-existencia de gravámenes: 3.50
+b) Certificados de libertad o existencia de gravámenes,
 
-b) Certificados de libertad o
+con efectos de aviso preventivo: 11.00
 
-existencia de gravámenes, con
+c) Certificados de libertad o existencia de gravámenes,
 
-efectos de aviso preventivo: 10.50
+con efectos de aviso preventivo: 11.50
 
-c) Certificados de inexistencia
-
-de registro: 11.50
-
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
-
-d) Constancias de no propiedad: 2.50
-
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+d) Certificados de inexistencia de registro: 2.50
 
 e) Constancias de inscripción de propiedad: 7.00
 
-f) Informes y constancias
+f) Informes y constancias solicitadas por autoridades
 
-solicitadas por autoridades
+y organismos no exceptuados por la ley: 8.00
 
-y organismos no exceptuados
+g) Certificados de búsqueda de antecedentes registrales: 11.50
 
-por la ley: 7.00
+h) Copias certificadas de documentos registrales
 
-g) Certificados de búsqueda
-
-de antecedentes registrales: 11.50
-
-h) Copias certificadas de
-
-documentos registrales o
-
-que obren en el archivo: 7.00
+o que obren en el archivo: 7.00
 
 i) Copias transcritas: 11.50
 
-XII. Por el depósito de
+XII. Por el depósito de testamentos ológrafos: 6.00
 
-testamentos ológrafos: 6.00
+XIII. Por la expedición de informes respecto
 
-XIII. Por la expedición de
+al registro o depósito de testamentos que se
 
-informes respecto al registro
+rindan a solicitud de jueces o notarios, por
 
-o depósito de testamentos que
+cada testador: 12.00
 
-se rindan a solicitud de jueces
+XIV. Por la cancelación de embargos, hipotecas,
 
-o notarios, por cada testador: 11.50
+cédulas hipotecarias y fianzas: 9.00
 
-XIV. Por la cancelación de
+XV. Por la anotación de los datos de registro en
 
-embargos, hipotecas, cédulas
+un testimonio notarial adicional: 6.00
 
-hipotecarias y fianzas: 9.00
+XVI. Por la inscripción de testimonios notariales
 
-XV. Por la anotación de los
+que rectifiquen o aclaren el registro de otro testimonio: 9.00
 
-datos de registro en un
+XVII. Inscripción de rectificación y reposición
 
-testimonio notarial adicional: 6.00
+de inscripciones: 9.00
 
-XVI. Por la inscripción de
+XVIII. Por cada una de las consultas de libros, folio
 
-testimonios notariales que
+real electrónico, y consultas en internet, que corresponda
 
-rectifiquen o aclaren el
+al total de anotaciones y registros de una sola propiedad: 2.00
 
-registro de otro testimonio: 9.00
+XIX. Por concepto de certificación de documentos
 
-XVII. Inscripción de rectificación
+y firmas, distintos de los establecidos en el inciso h),
 
-y reposición de inscripciones: 9.00
+de la fracción XI del presente artículo, se causarán
 
-XVIII. Por cada una de las
+los derechos establecidos en el Capítulo Décimo
 
-consultas de libros, folio
+Séptimo del presente Título;
 
-real electrónico, y consultas
+XX. Por concepto de verificación en campo de
 
-en internet, que corresponda al
+un inmueble: 6.00
 
-total de anotaciones y registros
+XXI. Por la inscripción de embargos administrativos,
 
-de una sola propiedad: 1.50
-
-XIX. Por concepto de certificación de documentos y firmas, distintos de los establecidos en el inciso h), de la fracción XI del presente artículo, se causarán los derechos establecidos en el Capítulo Décimo Séptimo del presente Título;
-
-XX. Por concepto de verificación
-
-en campo de un inmueble: 6.00
-
-XXI. Por la inscripción de
-
-embargos administrativos, en
-
-materia fiscal, laborales o
-
-judiciales: 28.50
+en materia fiscal, laborales o judiciales: 28.50
 
 XXII. Inscripción de servidumbre: 11.50
 
-XXII (SIC). Cancelación de
+XXIII. Cancelación de servidumbre: 11.50
 
-servidumbre: 11.50
+XXIV. Inscripción de modificación de medidas: 11.50
 
-XXIII. Inscripción de modificación
+XXV. Anotación preventiva de demanda: 11.50
 
-de medidas: 11.50
+XXVI. Cancelación de anotación preventiva: 11.50
 
-XXIV. Anotación preventiva de
+XXVII. Reversión de propiedad, por inmueble: 11.50
 
-demanda: 11.50
+XXVIII. Inscripción de modificación de fideicomiso,
 
-XXV. Cancelación de anotación
+por inmueble: 11.50
 
-preventiva: 11.50
+XXIX. Cancelación de usufructo vitalicio: 11.50
 
-XXVI. Reversión de propiedad, por
+XXX. Inscripción de cancelación de litigio: 11.50
 
-inmueble: 11.50
+XXXI Inscripción de cancelación de anotación judicial: 11.50
 
-XXVII. Inscripción de modificación
+XXXII. Ratificación de firmas: 11.50
 
-de fideicomiso, por inmueble: 11.50
+XXXIII. Por la inscripción, anotación, cancelación,
 
-XXVIII. Cancelación de usufructo
+expedición de documentos o informes de cualquier
 
-vitalicio: 11.50
+otro acto no especificado en este artículo, se cobrará: 11.50
 
-XXIX. Inscripción de cancelación de
+XXXIV. Por concepto de certificación de documentos
 
-litigio: 11.50
+y firmas, distintos de los establecidos en el inciso h),
 
-XXX. Inscripción de cancelación de
+de la fracción XI del presente artículo, se causarán los
 
-anotación judicial: 11.50
+derechos establecidos en el Capítulo Décimo Séptimo
 
-XXXI. Ratificación de firmas: 11.50
-
-XXXII. Por la inscripción, anotación,
-
-cancelación, expedición de documentos
-
-o informes de cualquier otro acto no
-
-especificado en este artículo, se
-
-cobrará: 11.50
+del presente Título; 15.00
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
@@ -2473,7 +2609,9 @@ III. Por los informes o certificaciones que soliciten las autoridades competente
 
 IV. Los instrumentos jurídicos, bien sean públicos o privados, que otorguen las instituciones oficiales de cualquier nivel de Gobierno, en tratándose de la enajenación o regularización de vivienda de interés social o popular, y
 
-V. Por la búsqueda de antecedentes registrales, expedición de certificados de libertad o existencia de gravámenes así como por la inscripción de embargos, solicitados por autoridades estatales con atribuciones en materia de recaudación, fiscalización o defensa del interés de la hacienda pública estatal.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+V. Por la búsqueda de antecedentes registrales, expedición de certificados de libertad o existencia de gravámenes, así como por la inscripción de embargos, solicitados por autoridades estatales con atribuciones en materia de recaudación, fiscalización o defensa del interés de la hacienda pública estatal, así como por la unidad administrativa del Poder Ejecutivo Estatal, que tenga a su cargo el patrimonio inmobiliario estatal.
 
 > <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
@@ -2485,7 +2623,7 @@ Para los efectos de este capítulo, las cantidades retenidas por los Fedatarios 
 
 Los fedatarios públicos que, conforme a las disposiciones fiscales, retengan los derechos a que se refiere el artículo 77, deberán enterarlos en un plazo que no excederá de 15 días hábiles, contados a partir del día siguiente al que se hubiera realizado el pago de Impuesto sobre Adquisición de Bienes Inmuebles. El incumplimiento en el entero de las cantidades retenidas, dentro del plazo señalado, originará la causación de recargos en el porcentaje que se establece en la Ley de Ingresos del Gobierno del Estado de Morelos para el ejercicio que corresponda.
 
-### CAPÍTULO TERCERO. SERVICIOS DE ARCHIVO Y NOTARIALES
+### CAPÍTULO SEGUNDO. REGISTRO PÚBLICO DEL COMERCIO
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -2633,7 +2771,7 @@ V. Están exentos del pago de los derechos que establece este Capítulo: la Fede
 
 Para los efectos de este Capítulo, las cantidades retenidas por los Fedatarios Públicos respecto de escrituras autorizadas en un ejercicio fiscal determinado, podrán enterarse conforme a los montos vigentes en dicho ejercicio fiscal, siempre y cuando el entero sea realizado a más tardar el 28 de febrero o día hábil siguiente del ejercicio fiscal posterior a aquel en que se realizó la retención.
 
-### CAPÍTULO CUARTO. SERVICIOS DE LA DIRECCIÓN GENERAL DEL REGISTRO CIVIL
+### CAPÍTULO TERCERO. SERVICIOS DE ARCHIVO Y NOTARIALES
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -2697,51 +2835,9 @@ el Capítulo Décimo Séptimo del presente Título.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
-### capítulo décimo séptimo del presente título.
+### CAPÍTULO CUARTO. SERVICIOS DE LA DIRECCIÓN GENERAL DEL REGISTRO CIVIL
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
-
-XV (SIC). Cancelación de Registro 14.00
-
-> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2022)</small>
-
-XVI. Levantamiento de acta de nacimiento por
-
-reasignación de concordancia sexo genérica. 10
-
-> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2024)</small>
-
-XVII Por Registro de Defunciones de conformidad
-
-con las disposiciones aplicables en la materia por el
-
-Código Familiar para el Estado de Morelos.
-
-A) Permiso para exhumación 7
-
-B) Permiso para cremación 5
-
-C) Permiso para traslado de un cadáver dentro
-
-del estado de Morelos 3
-
-D) Permiso de traslado de un cadáver fuera del
-
-Estado de Morelos 5
-
-E) Permiso de traslado de Cenizas dentro del
-
-Estado de Morelos 3
-
-F) Permiso de traslado de Cenizas fuera del
-
-Estado de Morelos 5
-
-G) Por declaración de Ausencia 5
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TERCERA DISPOSICIÓN TRANSITORIA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 83.
 
@@ -2851,17 +2947,59 @@ XIII. Copia certificada del registro en el libro: 2.26
 
 y firmas se causarán los derechos establecidos en el
 
-### CAPÍTULO QUINTO. SERVICIOS DE CONTROL VEHICULAR
+### capítulo décimo séptimo del presente título.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+XV (SIC). Cancelación de Registro 14.00
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
+XVI. Levantamiento de acta de nacimiento por
+
+reasignación de concordancia sexo genérica. 10
+
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+XVII Por Registro de Defunciones de conformidad
+
+con las disposiciones aplicables en la materia por el
+
+Código Familiar para el Estado de Morelos.
+
+A) Permiso para exhumación 7
+
+B) Permiso para cremación 5
+
+C) Permiso para traslado de un cadáver dentro
+
+del estado de Morelos 3
+
+D) Permiso de traslado de un cadáver fuera del
+
+Estado de Morelos 5
+
+E) Permiso de traslado de Cenizas dentro del
+
+Estado de Morelos 3
+
+F) Permiso de traslado de Cenizas fuera del
+
+Estado de Morelos 5
+
+G) Por declaración de Ausencia 5
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TERCERA DISPOSICIÓN TRANSITORIA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 83 Bis.
 
 No se causará este derecho, cuando se realicen anotaciones marginales por procedimiento de corrección administrativa de la Dirección General del Registro Civil, derivada de la aclaración de las actas por errores mecanográficos, manuscritos, ortográficos o de reproducción gráfica, que no afecte los datos esenciales contenidos en el acta.
 
-### CAPÍTULO SEXTO. SERVICIOS RELACIONADOS CON EL DESARROLLO SUSTENTABLE
+### CAPÍTULO QUINTO. SERVICIOS DE CONTROL VEHICULAR
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 84.
 
@@ -2979,9 +3117,11 @@ C) Reexpedición de Tarjeta de Circulación y Holograma
 
 de servicio particular: 4.00
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
 D) Certificaciones de documentos para circular y
 
-expedición de constancias: 1.50
+expedición de constancias: 2.00
 
 E) Baja de registro en el padrón vehicular estatal
 
@@ -3024,6 +3164,12 @@ K) Revisión y validación de documentos que acrediten la propiedad
 de vehículos automotores nuevos, adquiridos en agencias automotrices
 
 ubicadas fuera del territorio del estado de Morelos: 10.25
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+L) Permisos para adaptaciones y conversiones
+
+del transporte público: 2.00
 
 IV. Concesiones del servicio público de transporte y su renovación:
 
@@ -3257,7 +3403,11 @@ menores de 18 años:
 
 2. Motociclista: 6.40
 
-F) Reposición de licencia para manejar vehículos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+F) Reposición de licencia con vigencia determinada
+
+para manejar vehículos:
 
 1. Chofer: 3.40
 
@@ -3266,6 +3416,12 @@ F) Reposición de licencia para manejar vehículos:
 3. Motociclista: 3.40
 
 4. Operador certificado: 3.40
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+G) Reposición de Licencia permanente de automovilista
+
+para manejar vehículos particulares: 8.50
 
 > <small>(ADICIONADA [N. DE E. CON SUS INCISOS Y NUMERALES], P.O. 17 DE NOVIEMBRE DE 2022)</small>
 
@@ -3286,6 +3442,10 @@ B) Con vigencia de cinco años:
 2 Automovilista 7.90
 
 3 Motociclista 6.90
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+El pago no otorga derecho a la prestación del servicio ante el incumplimiento de alguno de los requisitos previstos por la normativa, por lo que, en su caso, los particulares tienen expedito su derecho a la devolución conforme al Código.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -3353,9 +3513,9 @@ Artículo 84 BIS-3. No obstante lo dispuesto por el artículo 84 BIS, en el ejer
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
-### CAPÍTULO SÉPTIMO. SERVICIOS DE VERIFICACIÓN VEHICULAR
+### CAPÍTULO SEXTO. SERVICIOS RELACIONADOS CON EL DESARROLLO SUSTENTABLE
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 85.
 
@@ -3448,6 +3608,14 @@ vehicular 2.00
 verificación vehicular obligatoria Mínima Máxima
 
 o ser ostensiblemente contaminante: 12.00 16.00
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+7 Multa por circular sin contar con la verificación Mínima Máxima
+
+vehicular obligatoria vigente o ser ostensiblemente
+
+contaminante. 20 25
 
 II. En materia de impacto ambiental:
 
@@ -3785,17 +3953,43 @@ especial:
 
 urbanos y de manejo especial:
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-7.1. Registro de plan de manejo de residuos
+7.1 Registro de plan de manejo de residuos sólidos
 
-sólidos urbanos y de manejo especial: 20.00
+urbanos y de manejo especial por cantidad de
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+residuos que se genera al año:
 
-7.2. Actualización cada tercer año posterior al
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-registro: 10.00
+7.1.1 Hasta 400 kilogramos en peso bruto al año. 20.00
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+7.1.2 Desde 401 kilogramos hasta 9.99 toneladas. 30.00
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+7.1.3 Igual o más de 10 toneladas. 40.00
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+7.2 Actualización cada tercer año por cantidad de
+
+residuos que se genera al año:
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+7.2.1 Hasta 400 kilogramos en peso bruto al año. 10.00
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+7.2.2 Desde 401 kilogramos hasta 9.99 toneladas. 20.00
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+7.2.3 Igual o más de 10 toneladas. 30.00
 
 7.3. Por cada metro cuadrado a constituir
 
@@ -4565,23 +4759,43 @@ Chapultepec:
 
 5. Muro de escalar: La cantidad en UMA equivalente a $10.00
 
-> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 29 DE ENERO DE 2020)</small>
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-C) Atracciones propias del
+6. Orquidiario La cantidad en UMA equivalente a $10.00
 
-parque estatal urbano barranca
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-de Chapultepec:
+7. Juegos infantiles no mecánicos La cantidad en UMA equivalente a $10.00
 
-1. Tren: La cantidad en UMA equivalente a $10.00
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-2. Cabaña: La cantidad en UMA equivalente a $10.00
+8. Teatro de Títeres La cantidad en UMA equivalente a $10.00
 
-3. Planetario: La cantidad en UMA equivalente a $10.00
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-4. Eurobongie: La cantidad en UMA equivalente a $10.00
+9. Telescopio Público La cantidad en UMA equivalente a $10.00
 
-5. Telaraña La cantidad en UMA equivalente a $10.00
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+10. Tren La cantidad en UMA equivalente a $10.00
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+11. Cabaña La cantidad en UMA equivalente a $10.00
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+12. Planetario La cantidad en UMA equivalente a $10.00
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+13. Eurobongie La cantidad en UMA equivalente a $10.00
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+14. Telaraña La cantidad en UMA equivalente a $10.00
+
+C) (DEROGADO, P.O. 22 DE DICIEMBRE DE 2025)
 
 D) Otros servicios del parque
 
@@ -4589,25 +4803,11 @@ estatal urbano barranca de
 
 Chapultepec:
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+1. (DEROGADO, P.O. 22 DE DICIEMBRE DE 2025)
 
-1. Acceso a trotapista de
+2. (DEROGADO, P.O. 22 DE DICIEMBRE DE 2025)
 
-6:00 a 9:00 (corredores) La cantidad en UMA equivalente a $2.00
-
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
-
-2. Acceso a trotapista de
-
-6:00 a 9:00 horas paquete
-
-de 30 días (corredores): La cantidad en UMA equivalente a $50.00
-
-3. Renta de local comercial
-
-por metro cuadrado (mensual por
-
-metro cuadrado): 1.50
+3. (DEROGADO, P.O. 22 DE DICIEMBRE DE 2025)
 
 4. Exposiciones semifijas
 
@@ -4618,6 +4818,26 @@ metro cuadrado): 1.50
 de exposiciones registrados (sic) en el
 
 Programa estatal Mercado Verde Morelos EXENTAS
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+6 Foro Tlahuica (por evento)
+
+a) Sin fines de lucro 103
+
+b) Con fines de lucro 207.8
+
+c) Con fines de lucro 2 o más funciones 350
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+7 Otros espacios (por evento)
+
+a) Sin fines de lucro 103
+
+b) Con fines de lucro 207.8
+
+c) Con fines de lucro 2 o más funciones 350
 
 > <small>(ADICIONADA [N. DE E. CON SU INCISO Y NUMERALES], P.O. 25 DE MARZO DE 2019)</small>
 
@@ -4641,15 +4861,9 @@ del estado de Morelos.
 
 (DEROGADO, P.O. 26 DE DICIEMBRE DE 2012)
 
-### CAPÍTULO SÉPTIMO BIS. DE LOS SERVICIOS EN MATERIA DE AGUA Y SANEAMIENTO
+### CAPÍTULO SÉPTIMO. SERVICIOS DE VERIFICACIÓN VEHICULAR
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
-
-Artículo 93 bis. Los servicios que presta la Comisión Estatal del Agua causarán derechos y se pagarán previamente por los interesados conforme a esta Ley, con base en los términos siguientes:
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2016, PÁGINAS DE LA 45 A LA 46.]</small>
-
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 87.
 
@@ -4701,9 +4915,15 @@ Los ingresos que perciba el Estado por los servicios de verificación vehicular,
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
-### CAPÍTULO OCTAVO. SERVICIOS DE LA POLICÍA INDUSTRIAL, BANCARIA Y AUXILIAR
+### CAPÍTULO SÉPTIMO BIS. DE LOS SERVICIOS EN MATERIA DE AGUA Y SANEAMIENTO
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+Artículo 93 bis. Los servicios que presta la Comisión Estatal del Agua causarán derechos y se pagarán previamente por los interesados conforme a esta Ley, con base en los términos siguientes:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2016, PÁGINAS DE LA 45 A LA 46.]</small>
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 93 Bis
 
@@ -4791,9 +5011,9 @@ servicio al público con contacto indirecto u ocasional, por metro cúbico: 0.05
 
 Para determinar el costo del servicio de consultoría y asesoría a que se refiere el párrafo anterior, se deberá considerar el tiempo invertido en el desarrollo de los trabajos e investigación que realice la Comisión Estatal de Agua con motivo del servicio solicitado.
 
-### CAPÍTULO NOVENO. DEL CONTROL DE LOS SERVICIOS DE SEGURIDAD PRIVADA
+### CAPÍTULO OCTAVO. SERVICIOS DE LA POLICÍA INDUSTRIAL, BANCARIA Y AUXILIAR
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 94.
 
@@ -4893,7 +5113,9 @@ b) Riesgo Medio: los servicios prestados en los que se requiera portar armamento
 
 c) Riesgo Alto: los servicios prestados en los lugares en los que se resguarden valores, para los que sea indispensable portar armamento.
 
-### CAPÍTULO NOVENO BIS. DE LOS SERVICIOS DE EVALUACIÓN DE CONTROL DE CONFIANZA
+### CAPÍTULO NOVENO. DEL CONTROL DE LOS SERVICIOS DE SEGURIDAD PRIVADA
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 95.
 
@@ -4975,9 +5197,7 @@ revalidación 10
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
-### CAPÍTULO DÉCIMO. DE LOS SERVICIOS PRESTADOS POR INSTITUCIONES EDUCATIVAS PRIVADAS
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+### CAPÍTULO NOVENO BIS. DE LOS SERVICIOS DE EVALUACIÓN DE CONTROL DE CONFIANZA
 
 ###### Artículo 96 Bis.
 
@@ -4985,7 +5205,7 @@ revalidación 10
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE OCTUBRE DE 2010)</small>
 
-### CAPÍTULO DÉCIMO BIS. DE LOS SERVICIOS DE EDUCACIÓN DE NIVEL BÁSICO Y NORMAL PRESTADOS POR INSTITUCIONES PRIVADAS
+### CAPÍTULO DÉCIMO. DE LOS SERVICIOS PRESTADOS POR INSTITUCIONES EDUCATIVAS PRIVADAS
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -5307,9 +5527,9 @@ C) Por sustentante del Examen único de educación superior
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-### CAPÍTULO DÉCIMO PRIMERO. REGISTRO DE TÍTULOS PROFESIONALES, EXPEDICIÓN DE CÉDULAS Y CONEXOS
+### CAPÍTULO DÉCIMO BIS. DE LOS SERVICIOS DE EDUCACIÓN DE NIVEL BÁSICO Y NORMAL PRESTADOS POR INSTITUCIONES PRIVADAS
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 99 Bis
 
@@ -5449,11 +5669,9 @@ XXIX. Cambio de nombre de escuela
 
 particular (por nivel educativo): 18.00
 
-### CAPÍTULO DÉCIMO SEGUNDO. REGISTRO DE CONTRATOS DE ARRENDAMIENTO Y OTROS CONTRATOS
+### CAPÍTULO DÉCIMO PRIMERO. REGISTRO DE TÍTULOS PROFESIONALES, EXPEDICIÓN DE CÉDULAS Y CONEXOS
 
-RELATIVOS A INMUEBLES
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 100.
 
@@ -5591,7 +5809,11 @@ XIV. Otros servicios 1.00
 
 Están exentos del pago de derechos los profesores que ejerzan su actividad, única y exclusivamente al servicio de establecimientos oficiales o incorporados al Gobierno Federal o al Gobierno del Estado de Morelos.
 
-### CAPÍTULO DÉCIMO TERCERO. SERVICIOS CATASTRALES
+### CAPÍTULO DÉCIMO SEGUNDO. REGISTRO DE CONTRATOS DE ARRENDAMIENTO Y OTROS CONTRATOS
+
+RELATIVOS A INMUEBLES
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 103.
 
@@ -5607,7 +5829,7 @@ la fracción anterior: 2.00
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO DÉCIMO CUARTO. DE LOS SERVICIOS TÉCNICOS EN MATERIA INMOBILIARIA
+### CAPÍTULO DÉCIMO TERCERO. SERVICIOS CATASTRALES
 
 ###### Artículo 104.
 
@@ -5619,15 +5841,25 @@ la fracción anterior: 2.00
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO DÉCIMO QUINTO. DE LOS SERVICIOS PRESTADOS EN MATERIA DE CARRETERAS DE CUOTA DEL ESTADO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+### CAPÍTULO DÉCIMO CUARTO. DE LOS SERVICIOS TÉCNICOS EN MATERIA INMOBILIARIA
 
 ###### Artículo 106.
 
 (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+### CAPÍTULO DÉCIMO QUINTO. DE LOS SERVICIOS PRESTADOS EN MATERIA DE CARRETERAS DE CUOTA DEL ESTADO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 107.
+
+Por los servicios de carreteras de cuota del Estado de Morelos se cobrarán las cuotas de peaje y el derecho de vía, mediante las tarifas que se aprueben por el Organismo Operador y que se sometan a la validación de la Secretaría, de acuerdo con el Reglamento o los Lineamientos que para tal efecto emita el Ejecutivo Estatal.
+
+Los ingresos recaudados por los derechos a que se refiere el párrafo anterior serán destinados para el cumplimiento del objeto del mismo Organismo.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ### CAPÍTULO DÉCIMO QUINTO BIS
 
@@ -5639,39 +5871,27 @@ Artículo 107 BIS. Por el uso o aprovechamiento del derecho de vía en caminos, 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
-###### Artículo 107.
-
-Por los servicios de carreteras de cuota del Estado de Morelos se cobrarán las cuotas de peaje y el derecho de vía, mediante las tarifas que se aprueben por el Organismo Operador y que se sometan a la validación de la Secretaría, de acuerdo con el Reglamento o los Lineamientos que para tal efecto emita el Ejecutivo Estatal.
-
-Los ingresos recaudados por los derechos a que se refiere el párrafo anterior serán destinados para el cumplimiento del objeto del mismo Organismo.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
 ### CAPÍTULO DÉCIMO SEXTO. DE LOS SERVICIOS DE VIGILANCIA, INSPECCIÓN Y CONTROL, ASÍ COMO EN MATERIA DE HABILITACIÓN PARA EL SERVICIO PÚBLICO
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-### CAPÍTULO DÉCIMO SEXTO BIS
-
-DE LOS SERVICIOS DE EXPEDICIÓN DE CONSTANCIAS POR (SIC) TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS PARA CONTRATACIÓN DE SERVIDORES PÚBLICOS Y CELEBRACIÓN DE CONTRATOS CON PARTICULARES.
 
 ###### Artículo 108.
 
 Por el servicio de vigilancia, inspección y control que las leyes en la materia encomiendan a la Secretaría de la Contraloría, los contratistas con quienes se celebren contratos de obra pública y de servicios relacionados con la misma, pagarán un derecho equivalente del 5.0 al millar sobre el importe de cada una de las estimaciones de trabajo; así mismo los proveedores con quienes se celebren contratos de prestación de servicios pagarán un derecho del 2.0 al millar sobre el importe del contrato adjudicado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 108 Bis.
 
-Por la expedición de oficios de habilitación, así como de otras constancias necesarias, por parte de la Secretaría de la Contraloría del Poder Ejecutivo Estatal, para la contratación de servidores públicos, se causarán y pagarán derechos por la cantidad equivalente a 1.50 UMA.
+Por la expedición de oficios de habilitación, así como de otras constancias necesarias, por parte de la Secretaría de la Contraloría del Poder Ejecutivo Estatal, para la contratación de las personas servidores públicos, se causarán y pagarán derechos por la cantidad equivalente a 1.80 UMA.
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO DE REFORMAS NÚMERO 98, PUBLICADO EN EL P.O. DE 25 DE MARZO DE 2019, SE ADVIERTE LA MODIFICACIÓN AL PRESENTE CAPÍTULO, EN EL QUE SE PRECISA QUE ÚNICAMENTE QUEDARÁ INTEGRADO POR EL ARTÍCULO 108 TER; SIN EMBARGO, NO SE MENCIONA MODIFICACIÓN AL ARTÍCULO 108 BIS 1.]</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE MARZO DE 2019)</small>
 
-### CAPÍTULO DÉCIMO SÉPTIMO. LEGALIZACIÓN DE FIRMAS, CERTIFICADOS, CERTIFICACIONES, CONSTANCIAS Y COPIAS
+### CAPÍTULO DÉCIMO SEXTO BIS
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+DE LOS SERVICIOS DE EXPEDICIÓN DE CONSTANCIAS POR (SIC) TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS PARA CONTRATACIÓN DE SERVIDORES PÚBLICOS Y CELEBRACIÓN DE CONTRATOS CON PARTICULARES.
 
 ###### Artículo 108 Bis
 
@@ -5685,9 +5905,9 @@ Por concepto de las diversas constancias que expida el Tribunal de Justicia Admi
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-### CAPÍTULO DÉCIMO OCTAVO. DE LA RECUPERACIÓN DE LOS MATERIALES UTILIZADOS EN EL PROCESO DE RESPUESTA A LAS SOLICITUDES DE ACCESO A LA INFORMACIÓN PÚBLICA
+### CAPÍTULO DÉCIMO SÉPTIMO. LEGALIZACIÓN DE FIRMAS, CERTIFICADOS, CERTIFICACIONES, CONSTANCIAS Y COPIAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 109.
 
@@ -5777,7 +5997,9 @@ Las copias certificadas que soliciten entre sí las diversas autoridades del Gob
 
 Así mismo, no se causarán los derechos por los servicios de trámite a que se refiere el artículo 109 de la presente Ley, cuando sean solicitados por el Servicio de Administración Tributaria, órgano desconcentrado de la Secretaría de Hacienda y Crédito Público, para asuntos oficiales de su competencia, siempre y cuando sean solicitados por escrito, mediante el cual justifique y acredite su petición.
 
-### CAPÍTULO DÉCIMO NOVENO. DE LOS SERVICIOS EN MATERIA DE INNOVACIÓN, CIENCIA Y TECNOLOGÍA
+### CAPÍTULO DÉCIMO OCTAVO. DE LA RECUPERACIÓN DE LOS MATERIALES UTILIZADOS EN EL PROCESO DE RESPUESTA A LAS SOLICITUDES DE ACCESO A LA INFORMACIÓN PÚBLICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 113.
 
@@ -5817,7 +6039,15 @@ Los solicitantes que proporcionen el material señalado en los incisos a) y b) d
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO VIGÉSIMO. DE LOS SERVICIOS EN MATERIA DE TURISMO Y CULTURA
+### CAPÍTULO DÉCIMO NOVENO. DE LOS SERVICIOS EN MATERIA DE INNOVACIÓN, CIENCIA Y TECNOLOGÍA
+
+###### Artículo 114 Bis.
+
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2015)
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO VIGÉSIMO. DE LOS SERVICIOS DE TURISMO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
@@ -5831,15 +6061,21 @@ I. 137.00 UMA por un año por espacio.
 
 II. 69.00 UMA por semestre por espacio.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO VIGÉSIMO BIS. DE LOS SERVICIOS EN MATERIA DE CULTURA
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 Artículo 114 TER-1. Los servicios que preste la Secretaría de Cultura, se pagarán previamente por los interesados conforme a esta ley, con base en los términos siguientes:
 
-> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2025)</small>
 
 I) Centro Cultural Jardín Borda:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE NOVIEMBRE DE 2022, PÁGINA 45.]</small>
+
+> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2025, PÁGINA 46.]</small>
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2023)</small>
 
@@ -5855,29 +6091,37 @@ C* 50% para la producción y 50% para la Secretaría de Cultura.
 
 El monto para calcular el porcentaje que corresponderá a cada parte, será determinado del ingreso bruto menos comisiones e impuestos que tengan que pagarse.
 
-> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2025)</small>
 
 II) El Museo Casa Emiliano Zapata, en Anenecuilco, Morelos:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE NOVIEMBRE DE 2022, PÁGINA 46.]</small>
 
-> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2025, PÁGINAS 46 Y 47.]</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2025)</small>
 
 III) El Museo de la Revolución del Sur, cuartel de Zapata (Tlaltizapán):
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE NOVIEMBRE DE 2022, PÁGINA 46.]</small>
 
-> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2025, PÁGINA 47.]</small>
 
-IV) El Museo Ex Hacienda de Chinameca:
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+IV) El Museo del Agrarismo, Ex Hacienda de Chinameca:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE NOVIEMBRE DE 2022, PÁGINA 46.]</small>
 
-> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2025, PÁGINA 47.]</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2025)</small>
 
 V) El Museo de la Independencia Sitio de Cuautla:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE NOVIEMBRE DE 2022, PÁGINA 47.]</small>
+
+> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2025, PÁGINA 48.]</small>
 
 VI) (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
@@ -5929,17 +6173,175 @@ El monto para calcular el porcentaje que corresponderá a cada parte, será dete
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
-###### Artículo 114 Bis.
-
-(DEROGADO, P.O. 8 DE DICIEMBRE DE 2015)
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE NOVIEMBRE DE 2022)</small>
-
 ### CAPITULO VIGÉSIMO PRIMERO. DE LOS SERVICIOS EN MATERIA DE PROTECCIÓN CIVIL
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
-### CAPITULO VIGÉSIMO SEGUNDO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARIA DE ADMINISTRACIÓN
+###### Artículo 114 Quater.
+
+Por la evaluación del programa interno de protección civil a que se refieren los artículos 135 y 136 de la Ley Estatal de Protección Civil de Morelos correspondientes a los inmuebles e instalaciones fijas y móviles previstas en el artículo 139 de la misma Ley, se causará un derecho por la cantidad equivalente a 32.00 UMA.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 114 Quater
+
+1. Por la evaluación del programa específico de Protección Civil para la realización de eventos públicos y espacios de concentración masiva, a que se refieren los artículos 127 y 135 de la Ley Estatal de Protección Civil de Morelos y 117 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se pagará un derecho por la cantidad equivalente a 55.00 UMA.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 114 Quater
+
+2. Por la evaluación del programa específico de Protección Civil, para proyectos de construcción, remodelación, reparación, reconstrucción o demolición de Riesgo Alto, que se refieren los artículos 135 y 143 de la Ley Estatal de Protección Civil de Morelos y 120 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 55.00 UMA.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 114 Quater
+
+3. Por la evaluación y aprobación al análisis de vulnerabilidad y riesgo, a que se refieren los artículos 42 y 43, del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 46.00 UMA.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 114 Quater
+
+4. Por la visita de inspección y visto bueno, en cumplimiento de la seguridad para prevenir y evitar riesgos en instalaciones donde exista concentración masiva de personas a que se refiere el artículo 129, de la Ley Estatal de Protección Civil de Morelos, se pagará un derecho por la cantidad equivalente a 60.00 UMA.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 114 Quater
+
+5. Por la visita de inspección, verificación y visto bueno al predio donde se construya todo desarrollo habitacional, así como a Proyectos de construcción e instalación, existentes o de nueva creación, a que se refieren los artículos 98, y 100 de la Ley Estatal de Protección Civil de Morelos y 62 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 46.00 UMA.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 114 Quater
+
+6. Por visita de inspección y opinión en materia de riesgo, para proyectos e instalaciones existentes o de nueva creación, a que se refieren los artículos 93 y 98 de la Ley Estatal de Protección Civil de Morelos, 61, 66 y 203 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 46.00 UMA.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 114 Quater
+
+7. Por la visita de inspección y visto bueno a los proyectos de construcción e instalación, existentes o de nueva creación, a que se refiere el artículo 98 de la Ley Estatal de Protección Civil de Morelos y 204 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 46.00 UMA.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 114 Quater
+
+8. Por la visita de inspección, y visto bueno a los establecimientos, instalaciones, edificaciones e inmuebles que estén en operación y funcionamiento, a que se refiere los artículos 190, 191 y 192 de la Ley Estatal de Protección Civil de Morelos y 190 y 204 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 46.00 UMA.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 114 Quater
+
+9. Por la visita de inspección y opinión en materia de riesgo, para el trámite de la opinión favorable para los permisos regulados por la Ley Federal de Armas de Fuego y Explosivos, a que se refieren los artículos 96 de la Ley Estatal de Protección Civil de Morelos, 67, 68 y 69 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 46.00 UMA.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 114 Quater
+
+10. Por la visita de inspección, y visto bueno para verificar al transporte que utilice gas L.P. o gas natural para carburación, por cada unidad vehicular, a que se refieren los artículos 91 y 193 de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 15.00 UMA.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 114 Quater
+
+11. Por la visita de inspección, y visto bueno para verificar vehículos que transportan gas L.P., gas natural, materiales, sustancias peligrosas o los regulados por la Ley Federal de Armas de Fuego y Explosivos, por cada unidad vehicular, a que se refieren los artículos 91 y 193 de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 15.00 UMA.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 114 Quater
+
+12. Por el registro como asesor, para la elaboración de programa interno y específico en materia de protección civil a que se refieren los artículos 163 de la Ley Estatal de Protección Civil de Morelos y 153 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 69.00 UMA.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 114 Quater
+
+13. Por el registro como asesor, para la elaboración de estudios de vulnerabilidad y riesgos en materia de protección civil a que se refieren los artículos 163 de la Ley Estatal de Protección Civil de Morelos y 153 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 89.00 UMA.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Artículo 114 QUATER-14. Por el registro como capacitador en materia de protección civil a que se refieren los artículos 163 de la Ley Estatal de Protección Civil de Morelos y 154 y 155 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 89 UMA.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 114 Quater
+
+15. La capacitación en materia de protección civil que brinde la Coordinación Estatal de Protección Civil Morelos. o en su caso, la Escuela Estatal de Protección Civil, causarán derechos con base en la siguiente tabla de conceptos:
+
+Núm. CONCEPTO TARIFA UMA
+
+1 Por cursos en materia de protección civil para el sector 7
+
+privado, en la modalidad presencial, virtual o mixta, con
+
+duración máxima de 20 horas.
+
+2 Por los talleres en materia de protección civil para el sector 5
+
+privado, en la modalidad presencial, virtual o mixta, con
+
+duración máxima de 8 horas.
+
+3 Por diplomado en protección civil nivel básico en la 60
+
+modalidad presencial, virtual o mixta con duración
+
+mínima de 120 horas.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 114 Quater
+
+16. Por el registro, certificación y autorización del libro bitácora, que documenten el control y registro de las actividades y acciones en materia de protección civil siguientes, se causará un derecho por la cantidad equivalente a 5.00 UMA:
+
+a) De las asociadas al registro de asesor;
+
+b) De las asociadas al registro capacitador; y
+
+c) De documentos y evidencia fotográfica del desarrollo de los simulacros.
+
+Por las actividades y acciones a que refiere este artículo en relación con los artículos 3, fracción XIII, 85 párrafo tercero de la Ley Estatal de Protección Civil de Morelos y 47, 50 y 165 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 5.00 UMA.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 114 Quater
+
+17. Por el servicio de vigilancia en materia de seguridad y prevención en protección civil, durante el desarrollo de un evento de concentración masiva con fines de lucro, se causará un derecho por la cantidad equivalente a:
+
+TURNO HORARIO TIEMPO POR
+
+CADA ELEMENTO OPERATIVO
+
+MATUTINO- 08:00 a las
+
+VESPERTINO 16:00 horas 6.00
+
+Vespertino- 16:00 a las
+
+Nocturno 24:00 horas 8.00
+
+Nocturno- 24:00 a las
+
+Matutino 08:00 horas 10.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+###### Artículo 114 Quater
+
+18. Por cada evaluación de simulacros, realizada en términos de los artículos 86 de la Ley Estatal de Protección Civil de Morelos, así como 48, 49 o 52 del Reglamento de la misma, se causará un derecho por la cantidad equivalente a 5.00 UMA.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 114 Quater
+
+19. Por la copia certificada que emita la Coordinación Estatal de Protección Civil Morelos, conforme al artículo 23 fracción XII del Estatuto Orgánico de la Coordinación Estatal de Protección Civil Morelos se causará un derecho por la cantidad equivalente a 2.00 UMA.
+
+No se causarán los derechos a que se refiere este capítulo, por los servicios que se presten a las entidades de la administración pública del estado, con motivo de actividades sin fines de lucro.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO VIGÉSIMO SEGUNDO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
@@ -6135,181 +6537,9 @@ C) A PARTIR DE CINCUENTA Y
 
 UN HOJAS: 0.10
 
-###### Artículo 114 Quater.
-
-Por la evaluación del programa interno de protección civil a que se refieren los artículos 135 y 136 de la Ley Estatal de Protección Civil de Morelos correspondientes a los inmuebles e instalaciones fijas y móviles previstas en el artículo 139 de la misma Ley, se causará un derecho por la cantidad equivalente a 32.00 UMA.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
-
-###### Artículo 114 Quater
-
-1. Por la evaluación del programa específico de Protección Civil para la realización de eventos públicos y espacios de concentración masiva, a que se refieren los artículos 127 y 135 de la Ley Estatal de Protección Civil de Morelos y 117 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se pagará un derecho por la cantidad equivalente a 55.00 UMA.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
-
-###### Artículo 114 Quater
-
-2. Por la evaluación del programa específico de Protección Civil, para proyectos de construcción, remodelación, reparación, reconstrucción o demolición de Riesgo Alto, que se refieren los artículos 135 y 143 de la Ley Estatal de Protección Civil de Morelos y 120 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 55.00 UMA.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
-
-###### Artículo 114 Quater
-
-3. Por la evaluación y aprobación al análisis de vulnerabilidad y riesgo, a que se refieren los artículos 42 y 43, del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 46.00 UMA.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
-
-###### Artículo 114 Quater
-
-4. Por la visita de inspección y visto bueno, en cumplimiento de la seguridad para prevenir y evitar riesgos en instalaciones donde exista concentración masiva de personas a que se refiere el artículo 129, de la Ley Estatal de Protección Civil de Morelos, se pagará un derecho por la cantidad equivalente a 60.00 UMA.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
-
-###### Artículo 114 Quater
-
-5. Por la visita de inspección, verificación y visto bueno al predio donde se construya todo desarrollo habitacional, así como a Proyectos de construcción e instalación, existentes o de nueva creación, a que se refieren los artículos 98, y 100 de la Ley Estatal de Protección Civil de Morelos y 62 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 46.00 UMA.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
-
-###### Artículo 114 Quater
-
-6. Por visita de inspección y opinión en materia de riesgo, para proyectos e instalaciones existentes o de nueva creación, a que se refieren los artículos 93 y 98 de la Ley Estatal de Protección Civil de Morelos, 61, 66 y 203 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 46.00 UMA.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
-
-###### Artículo 114 Quater
-
-7. Por la visita de inspección y visto bueno a los proyectos de construcción e instalación, existentes o de nueva creación, a que se refiere el artículo 98 de la Ley Estatal de Protección Civil de Morelos y 204 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 46.00 UMA.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
-
-###### Artículo 114 Quater
-
-8. Por la visita de inspección, y visto bueno a los establecimientos, instalaciones, edificaciones e inmuebles que estén en operación y funcionamiento, a que se refiere los artículos 190, 191 y 192 de la Ley Estatal de Protección Civil de Morelos y 190 y 204 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 46.00 UMA.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
-
-###### Artículo 114 Quater
-
-9. Por la visita de inspección y opinión en materia de riesgo, para el trámite de la opinión favorable para los permisos regulados por la Ley Federal de Armas de Fuego y Explosivos, a que se refieren los artículos 96 de la Ley Estatal de Protección Civil de Morelos, 67, 68 y 69 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 46.00 UMA.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
-
-###### Artículo 114 Quater
-
-10. Por la visita de inspección, y visto bueno para verificar al transporte que utilice gas L.P. o gas natural para carburación, por cada unidad vehicular, a que se refieren los artículos 91 y 193 de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 15.00 UMA.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
-
-###### Artículo 114 Quater
-
-11. Por la visita de inspección, y visto bueno para verificar vehículos que transportan gas L.P., gas natural, materiales, sustancias peligrosas o los regulados por la Ley Federal de Armas de Fuego y Explosivos, por cada unidad vehicular, a que se refieren los artículos 91 y 193 de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 15.00 UMA.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
-
-###### Artículo 114 Quater
-
-12. Por el registro como asesor, para la elaboración de programa interno y específico en materia de protección civil a que se refieren los artículos 163 de la Ley Estatal de Protección Civil de Morelos y 153 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 69.00 UMA.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
-
-###### Artículo 114 Quater
-
-13. Por el registro como asesor, para la elaboración de estudios de vulnerabilidad y riesgos en materia de protección civil a que se refieren los artículos 163 de la Ley Estatal de Protección Civil de Morelos y 153 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 89.00 UMA.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
-
-Artículo 114 QUATER-14. Por el registro como capacitador en materia de protección civil a que se refieren los artículos 163 de la Ley Estatal de Protección Civil de Morelos y 154 y 155 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 89 UMA.
-
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
-
-###### Artículo 114 Quater
-
-15. La capacitación en materia de protección civil que brinde la Coordinación Estatal de Protección Civil Morelos. o en su caso, la Escuela Estatal de Protección Civil, causarán derechos con base en la siguiente tabla de conceptos:
-
-Núm. CONCEPTO TARIFA UMA
-
-1 Por cursos en materia de protección civil para el sector 7
-
-privado, en la modalidad presencial, virtual o mixta, con
-
-duración máxima de 20 horas.
-
-2 Por los talleres en materia de protección civil para el sector 5
-
-privado, en la modalidad presencial, virtual o mixta, con
-
-duración máxima de 8 horas.
-
-3 Por diplomado en protección civil nivel básico en la 60
-
-modalidad presencial, virtual o mixta con duración
-
-mínima de 120 horas.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
-
-###### Artículo 114 Quater
-
-16. Por el registro, certificación y autorización del libro bitácora, que documenten el control y registro de las actividades y acciones en materia de protección civil siguientes, se causará un derecho por la cantidad equivalente a 5.00 UMA:
-
-a) De las asociadas al registro de asesor;
-
-b) De las asociadas al registro capacitador; y
-
-c) De documentos y evidencia fotográfica del desarrollo de los simulacros.
-
-Por las actividades y acciones a que refiere este artículo en relación con los artículos 3, fracción XIII, 85 párrafo tercero de la Ley Estatal de Protección Civil de Morelos y 47, 50 y 165 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 5.00 UMA.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2020)</small>
-
-###### Artículo 114 Quater
-
-17. Por el servicio de vigilancia en materia de seguridad y prevención en protección civil, durante el desarrollo de un evento de concentración masiva con fines de lucro, se causará un derecho por la cantidad equivalente a:
-
-TURNO HORARIO TIEMPO POR
-
-CADA ELEMENTO OPERATIVO
-
-MATUTINO- 08:00 a las
-
-VESPERTINO 16:00 horas 6.00
-
-Vespertino- 16:00 a las
-
-Nocturno 24:00 horas 8.00
-
-Nocturno- 24:00 a las
-
-Matutino 08:00 horas 10.00
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
-
-###### Artículo 114 Quater
-
-18. Por cada evaluación de simulacros, realizada en términos de los artículos 86 de la Ley Estatal de Protección Civil de Morelos, así como 48, 49 o 52 del Reglamento de la misma, se causará un derecho por la cantidad equivalente a 5.00 UMA.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2020)</small>
-
-###### Artículo 114 Quater
-
-19. Por la copia certificada que emita la Coordinación Estatal de Protección Civil Morelos, conforme al artículo 23 fracción XII del Estatuto Orgánico de la Coordinación Estatal de Protección Civil Morelos se causará un derecho por la cantidad equivalente a 2.00 UMA.
-
-No se causarán los derechos a que se refiere este capítulo, por los servicios que se presten a las entidades de la administración pública del estado, con motivo de actividades sin fines de lucro.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE DICIEMBRE DE 2015)</small>
-
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
-
-### CAPÍTULO SEGUNDO. ENAJENACIÓN, ARRENDAMIENTO, USO O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES
-
 ## TÍTULO QUINTO. DE LOS PRODUCTOS
 
-### CAPÍTULO TERCERO
-
-UTILIDAD POR ACCIONES Y PARTICIPACIONES EN SOCIEDADES O EMPRESAS, RENDIMIENTO POR OTRAS INVERSIONES EN CRÉDITOS Y VALORES, Y RECUPERACIONES DE INVERSIONES EN ACCIONES, CRÉDITOS Y VALORES
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 115.
 
@@ -6333,9 +6563,7 @@ VII. Almacenaje; y
 
 VIII. Otros no especificados.
 
-### CAPÍTULO CUARTO. PRODUCTOS DE PUBLICACIONES
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+### CAPÍTULO SEGUNDO. ENAJENACIÓN, ARRENDAMIENTO, USO O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES
 
 ###### Artículo 116.
 
@@ -6355,13 +6583,19 @@ Los ingresos por productos derivados del arrendamiento, uso o explotación de bi
 
 Los beneficiarios efectuarán pagos provisionales mensuales a más tardar el día 10 de cada mes, mediante declaración que presentarán en las oficinas autorizadas. El pago provisional será una doceava parte del monto del producto anual.
 
-### CAPÍTULO QUINTO. ALMACENAJE
+### CAPÍTULO TERCERO
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+UTILIDAD POR ACCIONES Y PARTICIPACIONES EN SOCIEDADES O EMPRESAS, RENDIMIENTO POR OTRAS INVERSIONES EN CRÉDITOS Y VALORES, Y RECUPERACIONES DE INVERSIONES EN ACCIONES, CRÉDITOS Y VALORES
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 119.
 
 Las utilidades por acciones y participaciones en sociedades o empresas, el rendimiento por otras inversiones en sociedades o empresas, el rendimiento por otras inversiones en créditos y valores, y las recuperaciones e inversiones en acciones, créditos y valores, se considerarán productos en su calidad de ingresos financieros del Estado y su captación, manejo y administración se llevará a cabo por la Secretaría, con base en la línea de política económica que dicte el Ejecutivo del Estado.
+
+### CAPÍTULO CUARTO. PRODUCTOS DE PUBLICACIONES
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 120.
 
@@ -6482,6 +6716,10 @@ Los edictos, avisos, sentencias y demás documentos que se deban publicar en el 
 ###### Artículo 121.
 
 El monto de los productos no especificados se determinará por la Secretaría.
+
+### CAPÍTULO QUINTO. ALMACENAJE
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 122.
 
@@ -7122,3 +7360,17 @@ CUARTA. La Secretaría de Hacienda expedirá a más tardar el día 30 de enero d
 Los municipios deberán informar a la Secretaría de Hacienda del Poder Ejecutivo a más tardar el 15 de enero de 2025, los datos de la Cuenta Bancaria Productiva Específica a que se refiere el artículo 15 que por virtud de este Decreto se reforma en la Ley de Coordinación Hacendaria del Estado de Morelos.
 
 QUINTA. Se derogan todas las disposiciones legales y normativas que contravengan lo señalado en el presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NOVECIENTOS NOVENTA Y SIETE.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE MORELOS, DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS, DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE MORELOS, DE LA LEY GENERAL DE BIENES DEL ESTADO DE MORELOS Y DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto a la Gobernadora del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del 01 de enero de 2026, previa publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERA. La Secretaría de Administración y Finanzas expedirá a más tardar el día 30 de enero de 2026, los Lineamientos, en que se establezcan las condiciones y requisitos que deberán observar los municipios en el ejercicio de los recursos el Fondo de Aportaciones Estatales para el Fomento de los Municipios.
+
+Los municipios deberán informar a la Secretaría de Administración y Finanzas del Poder Ejecutivo a más tardar el 15 de enero de 2026, los datos de la Cuenta Bancaria Productiva Específica a que se refiere el artículo 15 que por virtud de este Decreto se reforma a la Ley de Coordinación Hacendaria del Estado de Morelos.
+
+CUARTA. Se derogan todas las disposiciones legales y normativas que contravengan lo señalado en el presente Decreto.
