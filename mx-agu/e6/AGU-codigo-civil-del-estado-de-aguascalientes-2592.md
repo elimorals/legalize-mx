@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2025-12-15"
+last_updated: "2025-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2025.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -2581,9 +2581,9 @@ Asimismo, es deber de los progenitores garantizar el derecho de niñas, niños y
 
 III.- Con relación a las personas declaradas en estado de interdicción o con discapacidad sin posibilidad de trabajar, comprenden también lo necesario para lograr, en lo posible, su habilitación o rehabilitación y su desarrollo e inclusión social; y
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-IV.- Con relación a las personas adultas mayores que sean incapaces de satisfacer sus necesidades elementales, además de todo lo necesario para su atención geriátrica, se procurará que los alimentos se les proporcionen, integrándolos a la familia.
+IV.- Con relación a las personas adultas mayores que carezcan de capacidad económica para satisfacer sus necesidades elementales, además de todo lo necesario para su atención geriátrica, integral, discapacidad o sano esparcimiento, se procurará que los alimentos se les proporcionen, integrándolos a la familia.
 
 ###### Artículo 331.
 
@@ -18416,3 +18416,11 @@ P.O. 15 DE DICIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 316.- SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 746 DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 346.- SE REFORMA EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
