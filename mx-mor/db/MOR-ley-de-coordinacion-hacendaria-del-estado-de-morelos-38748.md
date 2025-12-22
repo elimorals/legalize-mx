@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-coordinacion-hacendaria-del-estado-de-morelos-38748"
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-07"
-last_updated: "2024-12-31"
+last_updated: "2025-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 7 de abril de 2004.
 
@@ -119,7 +119,7 @@ Las autoridades hacendarias municipales, en el ejercicio de las facultades y fun
 
 ### CAPÍTULO III. De las Participaciones
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 6.
 
@@ -133,23 +133,19 @@ III. Del Impuesto Especial sobre Producción y Servicios, el 22% del total;
 
 IV. Del Impuesto Sobre Automóviles el 22% del total incluyendo el Fondo de Compensación de dicho impuesto;
 
-V. Del Impuesto Especial Sobre Producción y Servicios a la venta de gasolinas y diésel y, en su caso su respectivo fondo de compensación, el 22% del total, en forma proporcional al coeficiente que resulte de dividir el total de la población de cada municipio, entre el total de la población de los municipios del estado de Morelos de acuerdo con la última información oficial de población que hubiere dado a conocer el Instituto Nacional de Estadística y Geografía;
+V. Del Fondo de Fiscalización y Recaudación, anticipos y diferencias, que disponga la Ley de Coordinación Fiscal, el 22% del total;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+VI. Del Impuesto Sobre la Renta por enajenación de bienes inmuebles, el 22% del total;
 
-VI. Del Fondo de Fiscalización y Recaudación, anticipos y diferencias, que disponga la Ley de Coordinación Fiscal, y del Impuesto sobre la renta por enajenación de bienes inmuebles, el 22% del total; en forma proporcional al coeficiente que resulte de dividir el total de las participaciones que incluya el Fondo General de Participaciones, el Fondo de Fomento Municipal, el Fondo de Fiscalización y Recaudación, el Impuesto Especial Sobre Producción y Servicios y la Cuota por Venta Final de Combustibles efectivamente recibidas por cada municipio, entre el total de las participaciones pagadas por los fondos anteriormente citados, a todos los municipios en el ejercicio fiscal inmediato anterior;
+VII. Del Impuesto Especial Sobre Producción y Servicios a la venta de gasolinas y diésel y, en su caso su respectivo fondo de compensación, el 22% del total, en forma proporcional al coeficiente que resulte de dividir el total de la población de cada municipio, entre el total de la población de los municipios del estado de Morelos de acuerdo con la última información oficial de población que hubiere dado a conocer el Instituto Nacional de Estadística y Geografía;
 
-VII. De la recaudación que se obtenga del Impuesto Sobre la Renta efectivamente enterado a la federación, correspondiente al salario del personal que preste o desempeñe un servicio personal subordinado en dependencias del municipio, así como en sus respectivos organismos autónomos y entidades paramunicipales, siempre que el salario sea efectivamente pagado por los entes mencionados con cargo a sus participaciones y otros ingresos locales, el 100%.
+VIII. De la recaudación que se obtenga del Impuesto Sobre la Renta efectivamente enterado a la Federación, correspondiente al salario del personal que preste o desempeñe un servicio personal subordinado en dependencias del municipio, así como en sus respectivos organismos autónomos y entidades paramunicipales, siempre que el salario sea efectivamente pagado por los entes mencionados con cargo a sus participaciones y otros ingresos locales, el 100%. Para efectos del párrafo anterior, se considera la recaudación que se obtenga por el Impuesto Sobre la Renta, una vez descontadas las devoluciones por dicho concepto. Para que resulte aplicable lo dispuesto en el primer párrafo de esta fracción, los municipios deberán enterar a la federación el 100% de la retención que deben efectuar del Impuesto sobre la Renta correspondiente a los ingresos por salarios que paguen con cargo a los recursos federales, así como cumplir con los requisitos fiscales en materia de expedición de Comprobantes Fiscales Digitales por internet;
 
-Para efectos del párrafo anterior, se considera la recaudación que se obtenga por el Impuesto Sobre la Renta, una vez descontadas las devoluciones por dicho concepto.
+IX. De los ingresos que por concepto de participaciones en ingresos federales le distribuya la federación al Gobierno del Estado, por cualquier otro concepto que no establezca la forma de repartirlo, se distribuirá a los municipios el 22%;
 
-Para que resulte aplicable lo dispuesto en el primer párrafo de esta fracción, los municipios deberán enterar a la federación el 100% de la retención que deben efectuar del Impuesto sobre la Renta correspondiente a los ingresos por salarios que paguen con cargo a los recursos federales, así como cumplir con los requisitos fiscales en materia de expedición de Comprobantes Fiscales Digitales por internet; y,
+X. Los ingresos que reciba el Estado, derivados del Fondo de Estabilización de los Ingresos de las Entidades Federativas, se distribuirán de conformidad con los mismos coeficientes que se utilizan para la distribución de los ingresos del Fondo General de Participaciones, Fondo de Fomento Municipal y Fondo de Fiscalización y Recaudación, según corresponda al Fondo referenciado a la Recaudación Federal Participable, por el cual se reciba el resarcimiento.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
-
-VIII. De los ingresos que por concepto de participaciones en ingresos federales le distribuya la federación al Gobierno del Estado, por cualquier otro concepto que no establezca la forma de repartirlo, se distribuirá a los municipios el 22% en forma proporcional al coeficiente que resulte de dividir el total de las participaciones efectivamente recibidas por cada municipio, entre el total de las participaciones pagadas a todos los municipios en el ejercicio fiscal inmediato anterior.
-
-Los ingresos que reciba el Estado, derivados del Fondo de Estabilización de los Ingresos de las Entidades Federativas, se distribuirán de conformidad con los mismos coeficientes que se utilizan para la distribución de los ingresos del Fondo General de Participaciones, Fondo de Fomento Municipal y Fondo de Fiscalización y Recaudación, según corresponda al Fondo referenciado a la Recaudación Federal Participable, por el cual se reciba el resarcimiento.
+Salvo disposición en contrario, los fondos señalados en las fracciones I, II, III, IV, V, VI y IX, del presente artículo, se distribuirán entre los municipios de la Entidad, aplicando la fórmula de distribución de participaciones contenida en el artículo 7 de la presente Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2019)</small>
 
@@ -233,55 +229,73 @@ La afectación de aportaciones federales y sus accesorios como garantía o fuent
 
 El Congreso del Estado a través del Órgano técnico de fiscalización será el responsable de supervisar, vigilar, fiscalizar, constatar e informar de la correcta aplicación de los recursos de los fondos de aportaciones federales que reciban el estado y los municipios, así como fincar, en su caso, las responsabilidades correspondientes.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 15.
 
 Se crea el Fondo de Aportaciones Estatales para el Fomento Municipal (FAEFOM), que se integrará, solamente para efectos de referencia, con los siguientes porcentajes y conceptos:
 
-I. 1.5% de las estimaciones por Ingresos Propios, Participaciones Federales e Incentivos Económicos derivados de la colaboración fiscal, que integraban el Fondo de Aportaciones Estatales para el Desarrollo Económico (FAEDE).
+I. 1.5% de las estimaciones por Ingresos Propios, Participaciones Federales e Incentivos Económicos derivados de la colaboración fiscal;
 
 II. 1.5% de las estimaciones por los siguientes fondos participables del Ramo 28:
 
-a) Fondo General de Participaciones
+a) Fondo General de Participaciones;
 
-b) Participación específica en el IEPS
+b) Participación específica en el IEPS;
 
-c) Fondo de Fiscalización y Recaudación
+c) Fondo de Fiscalización y Recaudación;
 
-d) Cuotas IEPS de Combustibles
+d) Cuotas IEPS de Combustibles;
 
-e) Impuesto sobre Automóviles Nuevos (ISAN)
+e) Impuesto sobre Automóviles Nuevos (ISAN);
 
-f) Fondo de Compensación de ISAN
+f) Fondo de Compensación de ISAN;
 
-g) ISR por enajenación de inmuebles
+g) ISR por enajenación de inmuebles;
 
-La asignación de los recursos del Fondo de Aportaciones Estatales para el Fomento Municipal entre los municipios de la Entidad, se realizará en forma proporcional al coeficiente que resulte de dividir el total efectivamente pagado a cada uno de los municipios por los fondos señalados en la fracción II del presente artículo, entre el total de las de las participaciones pagadas a todos los municipios por dichos fondos participables.
+La asignación de los recursos del Fondo de Aportaciones Estatales para el Fomento Municipal entre los municipios de la Entidad, se realizará conforme a lo siguiente:
+
+El 35% del Fondo, se asignará a los municipios, de acuerdo con los datos oficiales emitidos por el Instituto Nacional de Estadística y Geografía (INEGI), para las unidades de producción agropecuaria activas que deriven del más reciente Censo Agropecuario.
+
+El 65% del Fondo, se asignará a los municipios conforme al coeficiente que resulte de la fórmula que establece el artículo 6° de la presente Ley de Coordinación Hacendaria del Estado de Morelos, misma que se integra por las variables de población, grado de marginación, recaudación de ingresos propios de los municipios y el factor de inversa proporcional, para el ejercicio fiscal en que se deba aplicar la asignación de los recursos del Fondo de Aportaciones Estatales para el Fomento Municipal.
 
 El ejercicio de los recursos del Fondo de Aportaciones Estatales para el Fomento Municipal, se realizará por las autoridades municipales en los porcentajes y destinos de gasto siguientes:
 
 Concepto de Gasto Porcentaje
 
-Apoyos Agropecuarios 50%
+Apoyos Agropecuarios 70%
 
-Infraestructura municipal 30%
+Infraestructura municipal 25%
 
-Cumplimiento a Sentencias y Laudos en materia laboral 20%
+Cumplimiento a Laudos y Sentencias que
 
-La Secretaría de Hacienda del Poder Ejecutivo expedirá los Lineamientos, en que se establezcan las condiciones y requisitos que deberán observar los municipios en el ejercicio de los recursos del Fondo de Aportaciones Estatales para el Fomento de los Municipios.
+versen sobre las prestaciones que deriven
+
+de la relación laboral de los municipios con
+
+los elementos de vialidad y seguridad pública
+
+municipal. 5%
+
+Sin perjuicio de lo anterior, los porcentajes establecidos para Apoyos Agropecuarios y para Infraestructura municipal podrán ser modificados, siempre y cuando se obtenga la aprobación del Cabildo o Concejo Municipal y la autorización del Congreso del Estado, aportando los elementos que justifiquen plenamente la solicitud de reasignación de los recursos del Fondo. En todo caso, el porcentaje mínimo del Fondo que debe ser aplicado por los municipios para los Apoyos Agropecuarios y para la Infraestructura municipal no podrá ser menor al 20%.
+
+En aquellos casos en que los recursos que deban destinarse al Cumplimiento de Laudos y Sentencias que versen sobre las prestaciones que deriven de la relación laboral de los municipios con los elementos de vialidad y seguridad pública municipal, sean inferiores a las obligaciones del Municipio por este concepto, o bien, cuando el Municipio no cuente con obligaciones en este rubro, los recursos por este concepto podrán destinarse a Apoyos Agropecuarios o a Infraestructura municipal, con aprobación del Cabildo Municipal y deberá informarse oficialmente de esta modificación, debidamente justificada, a la Secretaría de Administración y Finanzas y a la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, a más tardar, dentro de los diez posteriores a la aprobación del Cabildo o Concejo Municipal.
+
+La Secretaría de Administración y Finanzas del Poder Ejecutivo Estatal expedirá los Lineamientos, en que se establezcan las condiciones y requisitos que deberán observar los municipios en el ejercicio de los recursos del Fondo de Aportaciones Estatales para el Fomento de los Municipios.
 
 La ministración de los recursos a los municipios se realizará de manera mensual, por partes iguales, a más tardar el día último hábil de cada mes, con excepción del mes de diciembre, en que se deberá ministrar dentro de los primeros cinco días hábiles de dicho mes.
 
-Los recursos del Fondo de Aportaciones Estatales para el Fomento Municipal, deberán ser registrados por los municipios en Cuenta Bancaria Productiva Específica y proporcionar, a más tardar el 15 de enero del ejercicio fiscal correspondiente, los datos de dichas cuentas a la Secretaría. Los rendimientos financieros que produzca la Cuenta referida, se deberán aplicar a la ampliación de metas de los programas y proyectos autorizados.
+Los recursos del Fondo de Aportaciones Estatales para el Fomento Municipal, deberán ser registrados por los municipios en Cuenta Bancaria Productiva Específica y proporcionar, a más tardar el 15 de enero del ejercicio fiscal correspondiente, los datos de dichas cuentas a la Secretaría de Administración y Finanzas. Los rendimientos financieros que produzca la Cuenta referida, se deberán aplicar a la ampliación de metas de los programas y proyectos autorizados.
 
-En aquellos casos en que los recursos que deban destinarse al Cumplimiento a Sentencias y Laudos en materia laboral sean superiores a las obligaciones del Municipio por este concepto, o bien, cuando el Municipio no cuente con obligaciones en este rubro, los recursos por este concepto podrán destinarse a Infraestructura municipal.
+Asimismo, los recursos del Fondo de Aportaciones Estatales para el Fomento Municipal que no hayan sido comprometidos al 31 de diciembre de cada ejercicio, así como los recursos remanentes del Fondo, deberán ser reintegrados a la Tesorería General del Estado, a más tardar el 31 de enero del ejercicio fiscal siguiente.
 
-Sin perjuicio de lo anterior, y con la debida justificación, los municipios podrán solicitar la autorización del Congreso del Estado para la reasignación de los porcentajes de cada concepto de gasto establecidos en el presente Fondo.
+Para el ejercicio de los recursos en Infraestructura Municipal, invariablemente y de manera previa a su aplicación, los municipios deberán inscribir los proyectos en el Registro y Operación de la Cartera de Programas y Proyectos de Inversión del Gobierno del Estado que lleva la Secretaría de Administración y Finanzas del Poder Ejecutivo Estatal.
 
-Los recursos del Fondo de Aportaciones Estatales para el Fomento Municipal que no hayan sido comprometidos al 31 de diciembre de cada ejercicio, deberán ser reintegrados a la Tesorería General del Estado, a más tardar el 31 de enero del ejercicio fiscal siguiente.
+Para el caso de los Apoyos Agropecuarios, invariablemente y de manera previa a la aplicación de los recursos, los municipios deberán registrar los apoyos ante la Secretaría de Desarrollo Agropecuario del Gobierno del Estado, con el nombre de los beneficiarios, concepto del apoyo, rama de la producción que se apoya, temporalidad de la entrega de los apoyos, el importe de los apoyos por cada productor, así como los objetivos y metas alcanzados.
 
-El ejercicio de los recursos del Fondo de Aportaciones Estatales para el Fomento Municipal deberá ser informado a la Secretaría de Hacienda de manera trimestral, a más tardar el último día hábil del mes siguiente a aquel en que venzan los trimestres de los períodos enero-marzo, abril-junio, julio-septiembre y octubre-diciembre. En dicho informe se deberá incluir el programa o proyecto en que se han aplicado los recursos del Fondo de Aportaciones Estatales para el Fomento Municipal, el número de beneficiarios, el importe del programa o proyecto y los objetivos y metas alcanzados.
+El ejercicio de los recursos del Fondo de Aportaciones Estatales para el Fomento Municipal deberá ser informado a la Secretaría de Administración y Finanzas y a la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos de manera trimestral, a más tardar, el último día hábil del mes siguiente a aquel en que venzan los trimestres de los períodos enero-marzo, abril-junio, julio-septiembre y octubre-diciembre.
+
+En dicho informe se deberá incluir el programa o proyecto en que se han aplicado los recursos del Fondo de Aportaciones Estatales para el Fomento Municipal, el número de beneficiarios, el importe del programa o proyecto y los objetivos y metas alcanzados.
 
 ###### Artículo 15 Bis.
 
@@ -872,3 +886,17 @@ CUARTA. La Secretaría de Hacienda expedirá a más tardar el día 30 de enero d
 Los municipios deberán informar a la Secretaría de Hacienda del Poder Ejecutivo a más tardar el 15 de enero de 2025, los datos de la Cuenta Bancaria Productiva Específica a que se refiere el artículo 15 que por virtud de este Decreto se reforma en la Ley de Coordinación Hacendaria del Estado de Morelos.
 
 QUINTA. Se derogan todas las disposiciones legales y normativas que contravengan lo señalado en el presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2025.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NOVECIENTOS NOVENTA Y SIETE POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE MORELOS, DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS, DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE MORELOS, DE LA LEY GENERAL DE BIENES DEL ESTADO DE MORELOS Y DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS".]</small>
+
+PRIMERA. Remítase el presente Decreto a la Gobernadora del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del 01 de enero de 2026, previa publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERA. La Secretaría de Administración y Finanzas expedirá a más tardar el día 30 de enero de 2026, los Lineamientos, en que se establezcan las condiciones y requisitos que deberán observar los municipios en el ejercicio de los recursos el (sic) Fondo de Aportaciones Estatales para el Fomento de los Municipios.
+
+Los municipios deberán informar a la Secretaría de Administración y Finanzas del Poder Ejecutivo a más tardar el 15 de enero de 2026, los datos de la Cuenta Bancaria Productiva Específica a que se refiere el artículo 15 que por virtud de este Decreto se reforma a la Ley de Coordinación Hacendaria del Estado de Morelos.
+
+CUARTA. Se derogan todas las disposiciones legales y normativas que contravengan lo señalado en el presente Decreto.
