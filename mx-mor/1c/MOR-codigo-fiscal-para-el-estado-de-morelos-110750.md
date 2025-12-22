@@ -4,7 +4,7 @@ identifier: "MOR-codigo-fiscal-para-el-estado-de-morelos-110750"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-12-09"
-last_updated: "2023-12-29"
+last_updated: "2025-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FISCAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2025.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 9 de diciembre de 2015.
 
@@ -83,9 +83,9 @@ VI. Reglamento, al Reglamento del Código;
 
 VII. Reglas, a las Reglas de carácter general emitidas por la Secretaría;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-VIII. Secretaría, a la Secretaría de Hacienda del Poder Ejecutivo Estatal, y
+VIII. Secretaría, a la Secretaría de Administración y Finanzas del Poder Ejecutivo Estatal.
 
 > <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -387,6 +387,10 @@ La práctica de diligencias por las autoridades fiscales deberá efectuarse en d
 
 Las autoridades fiscales para la práctica de requerimientos de documentación, visitas domiciliarias, intervenciones, procedimiento administrativo de ejecución, notificaciones y embargos precautorios, podrán habilitar los días y horas inhábiles, cuando la persona con quien se va a practicar la diligencia realice actividades por las que deba pagar contribuciones en días u horas inhábiles o bien cuando no sea localizable en días y horas hábiles. También se podrá continuar en días u horas inhábiles una diligencia iniciada en días y horas hábiles, cuando la continuación tenga por objeto el aseguramiento de contabilidad o de bienes del particular.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+El buzón tributario se regirá conforme al horario de la Zona Centro de México, de conformidad con la Ley de los Husos Horarios en los Estados Unidos Mexicanos.
+
 ### CAPÍTULO IV. DE LAS ENAJENACIONES, LOS ARRENDAMIENTOS FINANCIEROS Y LAS ACTIVIDADES EMPRESARIALES
 
 ###### Artículo 29.
@@ -512,6 +516,20 @@ XIV. Portal Electrónico de la Secretaría, al sitio electrónico en la Internet
 XV. Sello Digital, al mensaje electrónico que acredita que un Documento Digital fue recibido por la autoridad correspondiente y estará sujeto a la misma regulación aplicable al uso de una firma electrónica, y
 
 XVI. Transferencia Electrónica de Fondos, al pago de créditos fiscales y sus accesorios que por instrucción de los contribuyentes o de terceros relacionados, a través de la afectación de su cuenta bancaria a favor del Gobierno del estado de Morelos, se realiza por institución financiera, en forma electrónica.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Artículo 35 BIS. Las personas físicas y morales inscritas en el registro estatal de contribuyentes tendrán asignado un buzón tributario, consistente en un sistema de comunicación electrónico ubicado en la página de Internet de la Secretaría, a través del cual:
+
+I. La autoridad fiscal realizará la notificación de cualquier acto o resolución administrativa que emita, en documentos digitales, incluyendo cualquiera que pueda ser recurrido y podrá enviar mensajes de interés, y
+
+II. Los contribuyentes presentarán promociones, solicitudes, avisos, o darán cumplimiento a requerimientos de la autoridad, a través de documentos digitales y podrán realizar consultas sobre su situación fiscal, debiendo contar con la firma electrónica avanzada a que se refiere este Código.
+
+Las personas físicas y morales que tengan asignado un buzón tributario deberán consultarlo dentro de los tres días hábiles siguientes a aquél en que reciban un aviso electrónico enviado por la Secretaría a cualquiera de los mecanismos de comunicación que el contribuyente registre de los que se den a conocer mediante reglas de carácter general. La autoridad enviará por única ocasión, mediante los mecanismos elegidos, un aviso de confirmación que servirá para corroborar la autenticidad y correcto funcionamiento de éste.
+
+Para efectos de lo previsto en el párrafo anterior, los contribuyentes deberán habilitar el buzón tributario, registrar y mantener actualizados los medios de contacto, de acuerdo con el procedimiento que al efecto establezca la Secretaría mediante reglas de carácter general.
+
+Cuando el contribuyente no habilite el buzón tributario o señale medios de contacto erróneos o inexistentes, o bien, no los mantenga actualizados, se entenderá que se opone a la notificación y la autoridad podrá notificarle conforme a lo señalado en la fracción III, del artículo 138, de este Código.
 
 ###### Artículo 36.
 
@@ -1119,9 +1137,11 @@ V. La cantidad y clase de mercancía enajenada, descripción del servicio o iden
 
 VI. El traslado de los impuestos estatales que correspondan en forma expresa y separada.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 75.
 
-Los contribuyentes que realicen operaciones con el público en general, respecto de las actividades por las que se deban pagar contribuciones estatales, podrán expedir comprobantes fiscales digitales con las condiciones y requisitos que permitan al contribuyente su acreditamiento y deducibilidad universal en su caso.
+Los contribuyentes que realicen operaciones con el público en general, respecto de las actividades por las que se deban pagar contribuciones estatales, deberán expedir comprobantes fiscales digitales con las condiciones y requisitos que permitan al contribuyente su acreditamiento y deducibilidad universal en su caso.
 
 ###### Artículo 76.
 
@@ -1239,43 +1259,35 @@ IV. Habiendo vencido el plazo para presentar alguna declaración, provisional o 
 
 La prohibición establecida en este artículo no será aplicable a los particulares que se encuentren en los supuestos de las fracciones I y II de este artículo, siempre que celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades; tampoco será aplicable lo dispuesto en la fracción III de este artículo, cuando no tengan obligación de inscribirse en el Padrón de Contribuyentes del Estado.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 84.
 
-La Administración Pública Estatal, Centralizada y Paraestatal, en ningún caso contratará adquisiciones, arrendamientos, servicios u obra pública con los particulares que:
+Los Poderes Ejecutivo, Legislativo y Judicial, los Organismos Públicos Autónomos, los Órganos de relevancia constitucional, los Municipios, las Entidades de la Administración Pública Paraestatal y Paramunicipal, así como cualquier otro ente del Estado o Municipio, con independencia de su naturaleza, que ejerza recursos públicos estatales, en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública con las personas físicas, morales o unidades económicas, que:
 
 I. Tengan a su cargo créditos fiscales firmes;
 
 II. Tengan a su cargo créditos fiscales determinados, firmes o no, que no se encuentren pagados o garantizados en alguna de las formas permitidas por este Código;
 
-III. No se encuentren inscritos en el Registro Federal de Contribuyentes o en el Padrón de Contribuyentes del Estado, y
+III. No se encuentren inscritos en el Registro Federal de Contribuyentes o en el Padrón de Contribuyentes del Estado;
 
-IV. Habiendo vencido el plazo para presentar alguna declaración, provisional o no, y con independencia de que en la misma resulte o no cantidad a pagar, ésta no haya sido presentada. Lo dispuesto en esta fracción no es aplicable tratándose de omisión en la presentación de declaraciones que sean exclusivamente informativas.
+IV. Habiendo vencido el plazo para presentar alguna declaración, provisional o no, y con independencia de que en la misma resulte o no cantidad a pagar, ésta no haya sido presentada. Lo dispuesto en esta fracción también aplicará a la falta de cumplimiento de cualquier declaración informativa;
 
-> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2022)</small>
-
-V. Estando inscritos en el registro federal de contribuyentes, se encuentren como no localizados;
-
-> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+V. Estando inscritos en el Registro Federal de Contribuyentes y en el Padrón de Contribuyentes del Estado, se encuentren como no localizados;
 
 VI. Tengan sentencia condenatoria firme por algún delito fiscal. El impedimento para contratar será por un periodo igual al de la pena impuesta, a partir de que cause firmeza la sentencia;
 
-> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2022)</small>
-
-VII. No hayan desvirtuado la presunción de emitir comprobantes fiscales que amparan operaciones inexistentes o transmitir indebidamente pérdidas fiscales y, por tanto, se encuentren en los listados a que se refieren los artículos 69-B cuarto párrafo o 69-B Bis, noveno párrafo del Código Fiscal de la Federación;
-
-> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+VII. No hayan desvirtuado la presunción de emitir comprobantes fiscales que amparan operaciones inexistentes transmitir indebidamente pérdidas fiscales y, por tanto, se encuentren en los listados a que se refieren los artículos 69-B cuarto párrafo o 69-B Bis, noveno párrafo del Código Fiscal de la Federación;
 
 VIII. Hayan manifestado en las declaraciones de pagos provisionales, retenciones, definitivos o anuales, ingresos y retenciones que no concuerden con los comprobantes fiscales digitales por internet, expedientes, documentos o bases de datos que lleven las autoridades fiscales, tenga en su poder o a las que tengan acceso.
 
-La prohibición establecida en este artículo no será aplicable a los particulares que se encuentren en los supuestos de las fracciones I y II de este artículo, siempre que celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo con los recursos que obtengan por enajenación, arrendamiento, servicios u obra pública que se pretendan contratar y que no se ubiquen en algún otro de los supuestos contenidos en este artículo.
+Los particulares que tengan derecho al otorgamiento de subsidios o estímulos y que se ubiquen en los supuestos de las fracciones I y II de este artículo, no se considerarán comprendidos en dichos supuestos, cuando celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo. Cuando se ubiquen en los supuestos de las fracciones III, IV y VIII, los particulares contarán con un plazo de quince días hábiles para corregir su situación fiscal, a partir del día hábil siguiente a aquel en que la autoridad les notifique la irregularidad detectada.
 
-Para estos efectos, en el convenio se establecerá que las Secretarías, Dependencias y Entidades de la Administración Pública Estatal, retengan una parte de la contraprestación para ser enterada al Fisco para el pago de los adeudos correspondientes.
+Los proveedores a quienes se adjudique el contrato, para poder subcontratar, deberán solicitar y entregar a la contratante la opinión de cumplimiento de las obligaciones fiscales federales y estatales, que se obtienen a través de la página de Internet del Servicio de Administración Tributaria y de la Secretaría, respectivamente, o en el caso de la Secretaría, también en las oficinas de la autoridad recaudadora.
 
-Igual obligación tendrán los municipios cuando realicen dichas contrataciones con cargo total o parcial a fondos federales o estatales.
+Para participar como proveedores de los sujetos señalados en el primer párrafo de este artículo, los contribuyentes estarán obligados a autorizar al Servicio de Administración Tributaria, a las autoridades fiscales federales en materia de seguridad social y a las autoridades fiscales estatales, para que hagan público el resultado de la opinión del cumplimiento, a través del procedimiento que así se establezca por dichas autoridades, además de cumplir con lo establecido en las fracciones anteriores.
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
-
-Los proveedores a quienes se adjudique el contrato, para poder subcontratar, deberán solicitar y entregar a la contratante la constancia de cumplimiento de las obligaciones fiscales del subcontratante, que se obtiene a través de la página de Internet del Servicio de Administración Tributaria.
+Los contribuyentes que requieran obtener la opinión del cumplimiento de obligaciones fiscales federales y estatales, para realizar alguna operación comercial o de servicios, para obtener subsidios y estímulos, para realizar algún trámite fiscal u obtener alguna autorización en materia de impuestos, así como para las contrataciones por adquisición de bienes, arrendamiento, prestación de servicio y obra pública que vayan a realizar con los sujetos señalados en el primer párrafo de este artículo, deberán hacerlo mediante el procedimiento que así se establezca por dichas autoridades, a través de las reglas de carácter general.
 
 ## TÍTULO CUARTO. DE LAS AUTORIDADES FISCALES
 
@@ -1461,15 +1473,23 @@ VIII. Allegarse (sic) las pruebas necesarias para formular la denuncia, querella
 
 IX. Revisar las manifestaciones y avalúos de inmuebles que presenten los contribuyentes y, en caso de encontrar errores de carácter aritméticos, de clasificación, de aplicación de valores, de superficie de terreno de construcción, o del número de niveles, determinar las diferencias que procedan;
 
-X. Verificar el número de personas que ingresan a los espectáculos públicos, balnearios y parques acuáticos, así como el monto de los ingresos que se perciban y la forma en que se manejan los boletos;
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-XI. Verificar los ingresos que se perciban en la celebración de loterías, rifas, sorteos, concursos y juegos permitidos con apuestas;
+X. Practicar visitas domiciliarias a los contribuyentes, con el fin de verificar el cumplimiento de las obligaciones fiscales, relativas a la operación de las máquinas, sistemas, registros electrónicos y de controles volumétricos, que estén obligados a llevar conforme lo establecen las disposiciones fiscales;
 
-XII. Determinar presuntivamente las contribuciones omitidas en términos de este Código;
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-XIII. Realizar en términos de los convenios de colaboración administrativa en materia fiscal federal celebrados con el Gobierno Federal, o los convenios de colaboración administrativa celebrados con los Gobiernos de los municipios del Estado, el ejercicio de las facultades de comprobación que en este Código se prevén, así como las que correspondan respecto de actividades en materia federal, estatal o municipal, y
+XI. Practicar visitas domiciliarias a los contribuyentes, a fin de verificar el número de operaciones que deban ser registradas como ingresos y, en su caso, el valor de los actos o actividades, el monto de cada una de ellas, así como la fecha y hora en que se realizaron, durante el periodo de tiempo que dure la verificación;
 
-XIV. Imponer multas a los contribuyentes, responsables solidarios o terceros con ellos relacionados, por infracciones a las disposiciones fiscales.
+XII. Verificar el número de personas que ingresan a los espectáculos públicos, balnearios y parques acuáticos, así como el monto de los ingresos que se perciban y la forma en que se manejan los boletos;
+
+XIII. Verificar los ingresos que se perciban en la celebración de loterías, rifas, sorteos, concursos y juegos permitidos con apuestas;
+
+XIV. Determinar presuntivamente las contribuciones omitidas en términos de este Código;
+
+XV. Realizar en términos de los convenios de colaboración administrativa en materia fiscal federal celebrados con el Gobierno Federal, o los convenios de colaboración administrativa celebrados con los Gobiernos de los municipios del Estado, el ejercicio de las facultades de comprobación que en este Código se prevén, así como las que correspondan respecto de actividades en materia federal, estatal o municipal, y
+
+XVI. Imponer multas a los contribuyentes, responsables solidarios o terceros con ellos relacionados, por infracciones a las disposiciones fiscales.
 
 Las autoridades fiscales podrán ejercer estas facultades conjunta, indistinta o sucesivamente, entendiéndose que se inician con el primer acto que se notifique al contribuyente.
 
@@ -1501,6 +1521,8 @@ Para efectos de este artículo, las autoridades judiciales y los cuerpos de segu
 
 El apoyo a que se refiere el párrafo anterior consistirá en efectuar las acciones necesarias para que las autoridades fiscales de conformidad con las leyes aplicables, ingresen al domicilio fiscal, establecimientos, sucursales, locales, puestos fijos o semifijos, lugares donde se almacenen mercancías y en general cualquier local o establecimiento que se utilicen para el desempeño de las actividades de los contribuyentes, para estar en posibilidad de iniciar actos de fiscalización, del procedimiento administrativo de ejecución, o continuar con los mismos; brindar la seguridad necesaria al personal actuante, y en su caso, asegurar que los bienes embargados o asegurados se entreguen al depositario o depositarios designados por la autoridad competente.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 102.
 
 Cuando las personas obligadas a presentar declaraciones, avisos y demás documentos no lo hagan dentro de los plazos señalados en las disposiciones fiscales, las autoridades fiscales exigirán la presentación del documento respectivo ante las oficinas correspondientes, procediendo en forma simultánea o sucesiva a realizar uno o varios de los actos siguientes:
@@ -1509,13 +1531,15 @@ I. Tratándose de la omisión en la presentación de una declaración provisiona
 
 Cuando la omisión sea de una declaración de las que se conozca de manera fehaciente la cantidad a la que le es aplicable la tasa o cuota respectiva, la propia autoridad fiscal podrá hacer efectiva al contribuyente con carácter de provisional, definitiva o del ejercicio una cantidad igual a la contribución que a éste corresponda determinar, sin que el pago lo libere de presentar la o las declaraciones omitidas.
 
-Si el contribuyente o responsable solidario presenta la o las declaraciones omitidas antes de que se le haga efectiva la cantidad resultante, conforme a lo previsto en esta fracción, queda liberado de hacer el pago determinado; si la o las declaraciones se presentan después de haberse efectuado el pago determinado por la autoridad, éste se ajustará conforme al importe que se tenga que pagar con la o las declaraciones que se presenten;
+Si el contribuyente o responsable solidario presenta la o las declaraciones omitidas antes de que se le haga efectiva la cantidad resultante, conforme a lo previsto en esta fracción, queda liberado de hacer el pago determinado. Si la declaración se presenta después de haberse notificado al contribuyente la cantidad determinada por la autoridad conforme a esta fracción, dicha cantidad se disminuirá del importe que se tenga que pagar con la declaración que se presente, debiendo cubrirse, en su caso, la diferencia que resulte entre la cantidad determinada por la autoridad y el importe a pagar en la declaración. En caso de que en la declaración resulte una cantidad menor a la determinada por la autoridad fiscal, la diferencia pagada por el contribuyente únicamente podrá ser compensada en declaraciones subsecuentes.
 
 II. Embargar precautoriamente los bienes o la negociación cuando el contribuyente haya omitido presentar declaraciones en los últimos tres ejercicios o cuando no atienda tres requerimientos de la autoridad, por una misma omisión, en los términos de la fracción III de este artículo. El embargo quedará sin efecto cuando el contribuyente cumpla con el requerimiento o dos meses después de practicado si no obstante el incumplimiento, las autoridades fiscales no inician el ejercicio de sus facultades de comprobación, y
 
 III. Imponer la multa que corresponda en los términos de este Código y requerir la presentación del documento omitido en un plazo de quince días. Si no se atiende el requerimiento se impondrá una multa por cada requerimiento no atendido. La autoridad en ningún caso formulará más de tres requerimientos por una misma omisión.
 
-En los casos de esta fracción y agotados los actos señalados en la misma, se pondrán los hechos en conocimiento de la autoridad competente, para que se proceda por desobediencia a mandato legítimo de autoridad competente.
+La determinación del crédito fiscal que realice la autoridad con motivo del incumplimiento en la presentación de declaraciones en los términos del presente artículo, podrá hacerse efectiva a través del procedimiento administrativo de ejecución a partir del tercer día siguiente a aquél en el que sea notificado el adeudo respectivo, en este caso el recurso de revocación sólo procederá contra el propio procedimiento administrativo de ejecución y en el mismo podrán hacerse valer agravios contra la resolución determinante del crédito fiscal.
+
+En caso del incumplimiento a tres o más requerimientos respecto de la misma obligación, se pondrán los hechos en conocimiento de la autoridad competente, para que se proceda por desobediencia a mandato legítimo de autoridad competente.
 
 ###### Artículo 103.
 
@@ -1695,23 +1719,25 @@ VIII. Cuando el personal actuante hubiera recabado la información necesaria par
 
 IX. Si en el cierre del acta final de la visita no estuviere presente el visitado o su representante se le dejará citatorio para que esté presente a una hora determinada del día siguiente, si no se presentare, el acta final se levantará ante quien estuviere presente en el lugar visitado. En ese momento cualquiera de los visitadores que haya intervenido en la visita, el visitado o la persona con quien se entiende la diligencia y los testigos firmarán el acta de la que se dejará copia al visitado. Si el visitado, la persona con quien se entendió la diligencia o los testigos no comparecen a firmar el acta, se niegan a firmarla, o el visitado o la persona con quien se entendió la diligencia se niegan a aceptar copia del acta, dicha circunstancia se asentará en la propia acta sin que ello afecte la validez y valor probatorio de la misma.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 112.
 
-Para los efectos de lo dispuesto por la fracción V del artículo 99 de este Código, las visitas domiciliarias se realizarán conforme a lo siguiente:
+Para los efectos de lo dispuesto por las fracciones V, X y XI del artículo 99 de este Código, las visitas domiciliarias se realizarán conforme a lo siguiente:
 
-I. La orden que deberá reunir los requisitos establecidos en el artículo 106 de este Código;
+I. La orden de visita deberá reunir los requisitos establecidos en el artículo 106 de este Código;
 
-II. Se llevará a cabo en el domicilio fiscal de los contribuyentes, establecimientos, sucursales, agencias, locales, puestos o bases fijos y semifijos en la vía pública, siempre que se encuentren abiertos al público en general, donde se realicen enajenaciones, presten servicios o contraten el uso o goce temporal de bienes;
+II. Se llevará a cabo en el domicilio fiscal, establecimientos, sucursales, locales, oficinas, bodegas, almacenes, puestos fijos y semifijos en la vía pública, de los contribuyentes, así como de terceros con ellos relacionados, siempre que se encuentren abiertos al público en general, donde se realicen enajenaciones, presten servicios o contraten el uso o goce temporal de bienes, o donde se realicen actividades administrativas en relación con los mismos, así como en los lugares donde se almacenen las mercancías o en donde se realicen las actividades relacionadas con las concesiones o autorizaciones;
 
 III. Al presentarse los visitadores al lugar en donde deba practicarse la diligencia, entregarán la orden de verificación al visitado, a su representante legal, al encargado o a quien se encuentre al frente del lugar visitado, indistintamente, y con dicha persona se entenderá la visita de inspección;
 
-IV. Los visitadores se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, los visitadores los designarán, haciendo constar esta situación en el acta que levanten, sin que esta circunstancia invalide los resultados de la inspección;
+IV. Los visitadores se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, los visitadores los designarán, haciendo constar esta situación en el acta o actas que levanten, sin que esta circunstancia invalide los resultados de la inspección;
 
-V. En toda visita domiciliaria se levantará acta en la que se harán constar, en forma circunstanciada, los hechos u omisiones conocidos por los visitadores, en los términos de este Código y, en su caso, las irregularidades detectadas durante la inspección;
+V. En toda visita domiciliaria se levantará acta o actas en las que se harán constar en forma circunstanciada los hechos u omisiones conocidos por los visitadores, en los términos de este Código o, en su caso, las irregularidades detectadas durante la inspección;
 
-VI. Si al cierre del acta de visita domiciliaria el visitado o la persona con quien se entendió la diligencia o los testigos se niegan a firmar el acta, o el visitado o la persona con quien se entendió la diligencia se niega a aceptar copia de la misma, dicha circunstancia se asentará en la propia acta, sin que esto afecte su validez y valor probatorio, dándose por concluida la visita domiciliaria, y
+VI. Si al cierre de cada una de las actas de visita domiciliaria el visitado o la persona con quien se entendió la diligencia o los testigos se niegan a firmar las mismas, o el visitado o la persona con quien se entendió la diligencia se niega a aceptar copia del acta, dicha circunstancia se asentará en cada una de ellas, sin que esto afecte la validez y valor probatorio de las mismas; debiendo continuarse con el procedimiento de visita, o bien, dándose por concluida la visita domiciliaria, y
 
-VII. Si con motivo de la visita domiciliaria a que se refiere este artículo, las autoridades fiscales conocieron incumplimientos a las disposiciones fiscales, se procederá a la formulación de la resolución correspondiente. Previamente se deberá conceder al contribuyente un plazo de tres días para desvirtuar la comisión de la infracción presentando las pruebas y formulando los alegatos correspondientes. Si se observa que el visitado no se encuentra inscrito en el Registro a que se refiere este artículo, la autoridad requerirá los datos necesarios para su inscripción, sin perjuicio de las sanciones y demás consecuencias legales derivadas de dicha omisión.
+VII. Si con motivo de la visita domiciliaria a que se refiere este artículo, las autoridades conocieron incumplimientos a las disposiciones fiscales, se procederá a la formulación de la resolución correspondiente. Previamente se deberá conceder al contribuyente, así como a terceros con ellos relacionados, un plazo de tres días hábiles para desvirtuar la comisión de la infracción presentando las pruebas y formulando los alegatos correspondientes. Si se observa que el visitado no se encuentra inscrito en el Registro a que se refiere este artículo, la autoridad requerirá los datos necesarios para su inscripción, sin perjuicio de las sanciones y demás consecuencias legales derivadas de dicha omisión.
 
 La resolución a que se refiere esta fracción deberá emitirse en un plazo que no excederá de seis meses contados a partir del vencimiento del plazo otorgado al contribuyente, señalado en el párrafo que antecede.
 
@@ -2017,23 +2043,93 @@ Las copias o reproducciones de microfilm de documentos que tengan en su poder la
 
 Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como los demás créditos fiscales, deberán pagarse o garantizarse, junto con sus accesorios, dentro del término de quince días siguientes a la fecha en que surta efecto su notificación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 134.
 
-Las autoridades fiscales a petición de los contribuyentes y en casos de que tengan notoria condición económica desfavorable, demostrada a juicio de las propias autoridades, podrán autorizar el pago a plazos, ya sea diferido o en parcialidades, de las contribuciones omitidas y de sus accesorios, sin que dicho plazo exceda de treinta y seis meses para pago en parcialidades y doce meses para pago diferido. Durante el plazo concedido se causarán recargos sobre el saldo insoluto en los términos del artículo 47 de este Código.
+Las autoridades fiscales, a petición de los contribuyentes, podrán autorizar el pago a plazos, ya sea en parcialidades o diferido, de las contribuciones omitidas y de sus accesorios sin que dicho plazo exceda de doce meses para pago diferido y de treinta y seis meses para pago en parcialidades, siempre y cuando los contribuyentes:
 
-Las autoridades fiscales al autorizar el pago a plazos podrán exigir se garantice el interés fiscal si la situación económica del contribuyente lo permite.
+I. Presenten solicitud ante la Secretaría en el formato que se establezca para tales efectos.
 
-Cesará la autorización para pagar a plazo en forma diferida o en parcialidades, cuando:
+La modalidad del pago a plazos elegida por el contribuyente en el formato de la solicitud de autorización de pago a plazos podrá modificarse para el crédito de que se trate por una sola ocasión, siempre y cuando el plazo en su conjunto no exceda del plazo máximo establecido en el presente artículo.
 
-I. Desaparezca o resulte insuficiente la garantía del interés fiscal, sin que el contribuyente otorgue nueva garantía o amplíe la que resulte insuficiente;
+II. Paguen el 20% del monto total del crédito fiscal al momento de la solicitud de autorización del pago a plazos, mediante la presentación de la declaración correspondiente. El monto total del adeudo se integrará por la suma de los conceptos siguientes:
 
-II. El contribuyente sea declarado en quiebra o solicite su liquidación judicial, o
+a) El monto de las contribuciones omitidas actualizado desde el mes en que se debieron pagar y hasta aquél en que se solicite la autorización.
 
-III. El contribuyente no pague tres parcialidades sucesivas.
+b) Las multas que correspondan actualizadas desde el mes en que se debieron pagar y hasta aquél en que se solicite la autorización, y
 
-Cuando no se cubra alguna parcialidad dentro de la fecha o plazo fijado el contribuyente estará obligado a pagar recargos por falta de pago oportuno, conforme a lo establecido por el artículo 47 de este Código, calculados sobre la cantidad no pagada, debiendo cubrir además los recargos que se causen conforme a la autorización concedida sobre el saldo cuyo monto no incluirá el importe de la parcialidad que causó los recargos conforme al artículo 47 de este Código.
+c) Los accesorios distintos de las multas que tenga a su cargo el contribuyente a la fecha en que solicite la autorización.
+
+La actualización que corresponda al periodo mencionado se efectuará conforme a lo previsto por el artículo 46 de este Código.
+
+Las autoridades fiscales, a petición de los contribuyentes que corrijan su situación fiscal durante cualquier etapa dentro del ejercicio de facultades de comprobación y hasta antes de que se emita la resolución que determine el crédito fiscal, podrán autorizar el pago a plazos de las contribuciones omitidas y de sus accesorios, ya sea en forma diferida o en parcialidades, en condiciones distintas a las previstas en el primer párrafo de este artículo, cuando el 40% del monto del adeudo a corregir informado por la autoridad durante el ejercicio de las facultades de comprobación represente más de la utilidad fiscal del último ejercicio fiscal en que haya tenido utilidad fiscal, para lo cual se deberá seguir el procedimiento siguiente:
+
+1. El contribuyente presentará la solicitud, así como un proyecto de pagos estableciendo fechas y montos concretos;
+
+2. La autoridad, una vez recibida la solicitud y el proyecto de pagos procederá a efectuar la valoración y emitirá una resolución de aceptación o negación de la propuesta de pagos, según corresponda, dentro del plazo de quince días hábiles contados a partir del día siguiente a aquel en que se recibió la solicitud, y
+
+3. Una vez que surta efectos la notificación de la resolución, en caso de que se haya autorizado la propuesta, el contribuyente tendrá la obligación de efectuar los pagos en los montos y las fechas en que se le haya autorizado. En caso de incumplimiento con alguno de dichos pagos, la autoridad procederá a requerir el pago del remanente a través del procedimiento administrativo de ejecución.
+
+En el caso de que en la resolución a que se refiere el numeral tercero se haya negado la autorización del proyecto de pago presentado por el contribuyente, la autoridad fiscal procederá a concluir el ejercicio de facultades de comprobación y emitirá la resolución determinativa de crédito fiscal que corresponda.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Artículo 134 BIS. Para los efectos de la autorización a que se refiere el artículo 134, se estará a lo siguiente:
+
+I. Tratándose de la autorización del pago a plazos en parcialidades, el saldo que se utilizará para el cálculo de las parcialidades será el resultado de disminuir el pago correspondiente al 20% señalado en la fracción II del artículo 134, del monto total del adeudo a que hace referencia dicha fracción.
+
+El monto de cada una de las parcialidades deberá ser igual y pagadas en forma mensual y sucesiva, para lo cual se tomará como base el saldo del párrafo anterior, el plazo elegido por el contribuyente en su solicitud de autorización de pago a plazos y la tasa mensual de recargos por prórroga que incluye actualización de acuerdo a la Ley de Ingresos del Gobierno del Estado de Morelos vigente en la fecha de la solicitud de autorización de pago a plazos en parcialidades.
+
+Cuando no se paguen oportunamente los montos de los pagos en parcialidades autorizados, el contribuyente estará obligado a pagar recargos por los pagos extemporáneos sobre el monto total de las parcialidades no cubiertas actualizadas, de conformidad con los artículos 46 y 47 de este Código, por el número de meses o fracción de mes desde la fecha en que se debió realizar el pago y hasta que éste se efectúe;
+
+II. Tratándose de la autorización del pago a plazos de forma diferida, el monto que se diferirá será el resultado de restar el pago correspondiente al 20% señalado en la fracción II del artículo 134, del monto total del adeudo a que hace referencia dicha fracción.
+
+El monto a liquidar por el contribuyente, se calculará adicionando al monto referido en el párrafo anterior, la cantidad que resulte de multiplicar la tasa de recargos por prórroga que incluye actualización de acuerdo a la Ley de Ingresos del Gobierno del Estado de Morelos vigente en la fecha de la solicitud de autorización de pago a plazos de forma diferida, por el número de meses, o fracción de mes transcurridos desde la fecha de la solicitud de pago a plazos de forma diferida y hasta la fecha señalada por el contribuyente para liquidar su adeudo y por el monto que se diferirá.
+
+El monto para liquidar el adeudo a que se hace referencia en el párrafo anterior, deberá cubrirse en una sola exhibición a más tardar en la fecha de pago especificada por el contribuyente en su solicitud de autorización de pago a plazos.
+
+III. Una vez recibida la solicitud de autorización de pago a plazos, ya sea en parcialidades o diferido, de las contribuciones omitidas y de sus accesorios, la autoridad exigirá la garantía del interés fiscal en relación al 80% del monto total del adeudo al que se hace referencia en la fracción II del artículo 134 de este Código, más la cantidad que resulte de aplicar la tasa de recargos por prórroga y por el plazo solicitado de acuerdo a lo dispuesto en las fracciones I y II del artículo 134 BIS de este Código.
+
+IV. Se revocará la autorización para pagar a plazos en parcialidades o en forma diferida, cuando:
+
+a) No se otorgue, desaparezca o resulte insuficiente la garantía del interés fiscal, en los casos que no se hubiere dispensado, sin que el contribuyente dé nueva garantía o amplíe la que resulte insuficiente;
+
+b) El contribuyente se encuentre sometido a un procedimiento de concurso mercantil o sea declarado en quiebra;
+
+c) Tratándose del pago en parcialidades el contribuyente no cumpla en tiempo y monto con tres parcialidades o, en su caso, con la última, y
+
+d) Tratándose del pago diferido, se venza el plazo para realizar el pago y éste no se efectúe.
+
+En los supuestos señalados en los incisos anteriores las autoridades fiscales requerirán y harán exigible el saldo mediante el procedimiento administrativo de ejecución.
+
+El saldo no cubierto en el pago a plazos se actualizará y causará recargos, de conformidad con lo establecido en los artículos 46 y 47 de este Código, desde la fecha en que se haya efectuado el último pago conforme a la autorización respectiva;
+
+V. Los pagos efectuados durante la vigencia de la autorización se deberán aplicar al periodo más antiguo, en el siguiente orden:
+
+a) Recargos por prórroga;
+
+b) Recargos por mora;
+
+c) Accesorios en el siguiente orden:
+
+1. Multas;
+
+2. Gastos extraordinarios;
+
+3. Gastos de ejecución;
+
+4. Recargos, y
+
+5. Indemnización a que se refiere el séptimo párrafo del artículo 47 de este Código.
+
+d) Monto de las contribuciones omitidas, a las que hace referencia el inciso a) de la fracción II del artículo 134 de este Código.
+
+VI. No procederá la autorización a que se refiere este artículo tratándose de contribuciones que debieron pagarse en el año de calendario en curso o las que debieron pagarse en los seis meses anteriores al mes en el que se solicite la autorización.
+
+La autoridad fiscal podrá determinar y cobrar el saldo de las diferencias que resulten por la presentación de declaraciones, en las cuales, sin tener derecho al pago a plazos, los contribuyentes hagan uso en forma indebida de dicho pago a plazos, entendiéndose como uso indebido cuando se solicite cubrir las contribuciones y aprovechamientos que debieron pagarse en el año de calendario en curso o las que debieron pagarse en los seis meses anteriores, al mes en el que se solicite la autorización; cuando procediendo el pago a plazos, no se presente la solicitud de autorización correspondiente en los plazos establecidos en las reglas de carácter general que establezca la Secretaría a través de su página oficial, y cuando dicha solicitud no se presente con todos los requisitos a que se refiere el artículo 134 de este Código.
+
+Durante el periodo que el contribuyente se encuentre pagando a plazos en los términos de las fracciones I y II del presente artículo, las cantidades determinadas, no serán objeto de actualización, debido a que la tasa de recargos por prórroga la incluye, salvo que el contribuyente se ubique en alguna causal de revocación, o cuando deje de pagar en tiempo y monto alguna de las parcialidades, supuestos en los cuales se causará ésta de conformidad con lo previsto por el artículo 46 de este Código, desde la fecha en que debió efectuar el último pago y hasta que éste se realice.
 
 No procederá la autorización a que se refiere este artículo tratándose de contribuciones que deban pagarse en el año de calendario en curso, o de las que debieron haberse pagado en los últimos seis meses del año de calendario inmediato anterior.
 
@@ -2083,11 +2179,43 @@ Los contribuyentes, transcurridos los plazos a que se refiere este artículo, po
 
 Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin embargo, dichas autoridades deberán probar los hechos que motiven los actos o resoluciones cuando el afectado los niegue lisa y llanamente, a menos que la negativa implique la afirmación de otro hecho.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 137.
 
-La autoridad que por el ejercicio de sus funciones intervenga en los diversos trámites relacionados con la aplicación de las disposiciones tributarias estará obligada a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales estatales, a las autoridades judiciales en procesos del orden penal o a los tribunales competentes que conozcan de pensiones alimenticias, o en el supuesto previsto en el artículo 131 de este Código.
+Las personas servidoras públicas que intervengan en los trámites que regule este Código, están obligadas a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o terceros relacionados con ellos; así como, los obtenidos en el ejercicio de las facultades de comprobación, procedimientos administrativos y jurisdiccionales originados por la aplicación del mismo.
+
+Lo anterior no será aplicable cuando se presenten los siguientes supuestos:
+
+I. De manera expresa lo disponga el Código;
+
+II. Lo requiera la autoridad competente para la administración o defensa de los intereses de la hacienda pública;
+
+III. La que soliciten las autoridades judiciales o administrativas encargadas de la procuración de justicia;
+
+IV. Los créditos fiscales, que se encuentren en los siguientes supuestos:
+
+a) Firmes;
+
+b) En controversia que no estén garantizados;
+
+c) Que no estén pagados o cese la autorización del pago a plazos, y
+
+d) Determinados a contribuyentes no localizados.
+
+V. Información otorgada a terceros que auxilien a las autoridades fiscales en la búsqueda y localización de contribuyentes, y
+
+VI. La información que requieran las Dependencias u órganos internos de control, respecto de la presunta comisión de delitos fiscales y de cualquier otra naturaleza, así como para determinar las responsabilidades administrativas de las personas servidoras públicas.
+
+Dicha confidencialidad tampoco comprenderá la información relativa a los créditos fiscales de los contribuyentes que las autoridades fiscales proporcionen a las sociedades de información crediticia que obtengan autorización de la Secretaría de Hacienda y Crédito Público de conformidad con la Ley para Regular las Agrupaciones Financieras, ni la que se proporcione para efectos de la notificación por terceros.
+
+La Secretaría publicará en su página de Internet el nombre, denominación o razón social y clave del Registro Federal de Contribuyentes o del Registro Estatal de Contribuyentes, según corresponda, de aquéllos que se ubiquen en la fracción IV de este artículo.
+
+Los contribuyentes que estuvieran inconformes con la publicación de sus datos podrán llevar a cabo el procedimiento de aclaración que la Secretaría determine mediante las Reglas de Carácter General que al efecto emita y publique, en el Periódico Oficial “Tierra y Libertad”, en el cual podrán aportar las pruebas que a su derecho convenga.
+
+La autoridad fiscal deberá resolver el procedimiento en un plazo de quince días, contados a partir del día siguiente al que se reciba la solicitud correspondiente y, en caso de aclararse dicha situación, la Secretaría procederá a eliminar la información publicada que corresponda.
+
+El uso, manejo y transmisión de datos personales a que se refieren los párrafos anteriores se sujetará a las disposiciones que para tal efecto señale la Ley de la materia.
 
 ## TÍTULO QUINTO. DE LOS PROCEDIMIENTOS ADMINISTRATIVOS
 
@@ -2099,15 +2227,29 @@ La autoridad que por el ejercicio de sus funciones intervenga en los diversos tr
 
 Las notificaciones de los actos administrativos se harán:
 
-I. Personalmente, por correo certificado o mensaje de datos con acuse de recibo, cuando se trate de citatorios, requerimientos, multas, notificaciones de embargos, solicitudes de informes o documentos, y de actos administrativos que puedan ser recurridos.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-En el caso de notificaciones electrónicas por documento digital, podrán realizarse en el Buzón Tributario del Portal Electrónico de la Secretaría mediante correo electrónico institucional, conforme al Reglamento.
+I. Por buzón tributario, personalmente o por correo certificado, cuando se trate de citatorios, requerimientos, multas, notificaciones de embargos, solicitudes de informes o documentos, y de actos administrativos que puedan ser recurridos.
 
-El acuse de recibo consistirá en el documento digital con Firma Electrónica que transmita el destinatario al abrir la notificación electrónica que le hubiera sido enviada, para lo cual cuenta con un plazo de tres días hábiles, ya que en caso de no generar el acuse de recibo previsto en éste párrafo, se entenderá que surte efectos la notificación a partir del cuarto día hábil siguiente a aquel al que le haya sido enviada la notificación electrónica al contribuyente.
+La notificación electrónica de documentos digitales se realizará en el buzón tributario conforme lo dispuesto en este Código, la Ley de Transformación Digital del Estado de Morelos y las Reglas de carácter general que emita la Secretaría.
 
-Las notificaciones electrónicas estarán disponibles en el Portal Electrónico de la Secretaría establecido al efecto por las autoridades fiscales y podrán imprimirse para el interesado, dicha impresión contendrá un sello digital que lo autentifique.
+El acuse de recibo consistirá en el documento digital con firma electrónica que transmita el destinatario al abrir el documento digital que le hubiera sido enviado.
 
-Las notificaciones en el Buzón Tributario, serán emitidas anexando el sello digital correspondiente;
+Las notificaciones electrónicas, se tendrán por realizadas cuando se genere el acuse de recibo electrónico en el que conste la fecha y hora en que el contribuyente se autenticó para abrir el documento a notificar.
+
+Previo a la realización de la notificación electrónica, al contribuyente le será enviado un aviso mediante los mecanismos designados por éste en términos del tercer párrafo del artículo 35 Bis de este Código.
+
+Los contribuyentes contarán con tres días hábiles para abrir los documentos digitales pendientes de notificar. Dicho plazo se contará a partir del día siguiente a aquél en que le sea enviado el aviso al que se refiere el párrafo anterior.
+
+En caso de que el contribuyente no abra el documento digital en el plazo señalado, la notificación electrónica se tendrá por realizada al cuarto día hábil, contado a partir del día siguiente a aquél en que le fue enviado el referido aviso.
+
+La clave de seguridad será personal, intransferible y de uso confidencial, por lo que el contribuyente será responsable del uso que dé a la misma para abrir el documento digital que le hubiera sido enviado.
+
+El acuse de recibo también podrá consistir en el documento digital con firma electrónica avanzada que genere el destinatario de documento remitido al autenticarse en el medio por el cual le haya sido enviado el citado documento.
+
+Las notificaciones electrónicas estarán disponibles en el portal de Internet establecido al efecto por las autoridades fiscales y podrán imprimirse para el interesado, dicha impresión contendrá un sello digital que lo autentifique.
+
+Las notificaciones en el buzón tributario serán emitidas anexando el sello digital correspondiente.
 
 II. Por correo ordinario, por telegrama, cuando se trate de actos distintos de los señalados en la fracción anterior;
 
@@ -2183,7 +2325,9 @@ Las notificaciones realizadas en términos de este artículo se consideran efect
 
 En materia fiscal, así como en los casos de contratos administrativos, autorizaciones, permisos y concesiones, podrán garantizarse los intereses del Fisco, ante la autoridad fiscal que cuenta con atribuciones para substanciar o llevar a cabo el procedimiento administrativo de ejecución, en cualquiera de las siguientes formas:
 
-I. Depósito de dinero en la Secretaría o en las instituciones de crédito autorizadas para tal efecto;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+I. Billete de depósito por institución autorizada, Depósito de dinero en la Secretaría o en las instituciones de crédito autorizadas para tal efecto;
 
 II. Prenda o hipoteca;
 
@@ -2191,13 +2335,19 @@ III. Fianza otorgada por institución autorizada, la que no gozará de los benef
 
 IV. Obligación solidaria asumida por tercero que compruebe su idoneidad y solvencia;
 
-V. Embargo en la vía administrativa; o,
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+V. Embargo en la vía administrativa de negociaciones, bienes muebles tangibles e inmuebles, excepto predios rústicos, o
 
 VI. Títulos valor o cartera de créditos del propio contribuyente, en caso de que se demuestre la imposibilidad de garantizar la totalidad del crédito mediante cualquiera de las fracciones anteriores, los cuales se aceptarán al valor que se determine por la Secretaría.
 
-La garantía deberá comprender, además de las contribuciones y su actualización, los accesorios causados y los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá ampliarse la garantía por el importe de los recargos correspondientes a los doce meses siguientes.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-La Secretaría vigilará que las garantías sean suficientes, tanto en el momento de su aceptación como con posterioridad, y si no lo fueren exigirá su ampliación o procederá al secuestro de otros bienes, previo requerimiento al particular para que mejore la garantía otorgada.
+La garantía deberá comprender, además de las contribuciones y su actualización, los accesorios causados y los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá actualizarse su importe cada año y ampliarse la garantía para que cubra el crédito actualizado y el importe de los recargos, incluso los correspondientes a los doce meses siguientes.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+La Secretaría vigilará que las garantías sean suficientes, tanto en el momento de su aceptación como con posterioridad, y si no lo fueren, exigirá su ampliación. En los casos en que los contribuyentes, a requerimiento de la autoridad fiscal, no lleven a cabo la ampliación o sustitución de garantía suficiente, ésta procederá al secuestro o embargo de otros bienes para garantizar el interés fiscal.
 
 En los casos en que de acuerdo con la Ley de Justicia Administrativa del Estado de Morelos, o en su caso, la Ley de Amparo, se solicite ante el órgano jurisdiccional competente la suspensión contra actos relativos a determinación, liquidación, ejecución o cobro de contribuciones, aprovechamientos y otros créditos de naturaleza fiscal, el interés fiscal se deberá garantizar ante la autoridad hacendaria que cuente con atribuciones para substanciar el procedimiento administrativo de ejecución, por cualquiera de los medios previstos en este código.
 
@@ -2254,6 +2404,136 @@ II. En los demás casos, la preferencia corresponderá al Fisco que tenga el car
 ###### Artículo 154.
 
 Las controversias que surjan entre el Fisco estatal y los Fiscos municipales sobre preferencia en el cobro de los créditos a que este Código se refiere se decidirán por el Tribunal Superior de Justicia del Estado, tomando en cuenta las garantías constituidas y siguiendo las reglas contenidas en las fracciones I y II del artículo anterior.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Artículo 154 BIS. Para los efectos del artículo 148 de este Código, la garantía del interés fiscal se otorgará a favor del Gobierno del Estado de Morelos o de las tesorerías municipales.
+
+Las garantías del interés fiscal subsistirán hasta que proceda su cancelación en los términos del Código.
+
+Los gastos que se originen con motivo del ofrecimiento de la garantía del interés fiscal deberán ser cubiertos por el interesado, inclusive los que se generen cuando sea necesario realizar la práctica de avalúos.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Artículo 154 TER. Para los efectos del artículo 148 fracción II de este Código, la prenda o hipoteca se constituirán conforme a lo siguiente:
+
+I. La prenda se constituirá sobre bienes muebles por el 75% de su valor, siempre que estén libres de gravámenes hasta por ese porcentaje y deberá inscribirse en el registro que corresponda cuando los bienes en que recaiga o el propio contrato de prenda estén sujetos a esta formalidad.
+
+No se aceptarán en prenda los bienes de fácil descomposición o deterioro, los que se encuentren embargados, ofrecidos en garantía, o con algún gravamen o afectación, los sujetos al régimen de copropiedad, cuando no sea posible que el Gobierno del Estado de Morelos asuma de manera exclusiva la titularidad de todos los derechos, los afectos a algún fideicomiso, los que por su naturaleza o por disposición legal estén fuera del comercio y aquéllos que sean inembargables en términos del Código, así como las mercancías de procedencia extranjera, cuya legal estancia no esté acreditada en el país, los semovientes, las armas prohibidas y las materias y sustancias inflamables, contaminantes, radioactivas o peligrosas.
+
+La garantía a que se refiere esta fracción podrá otorgarse mediante prenda bursátil relativa a inversiones en valores a cargo del Gobierno del Estado de Morelos inscritos en el Registro Nacional de Valores, siempre que se designe como beneficiario único a la autoridad fiscal a favor de la cual se otorgue la garantía, y
+
+II. La hipoteca se constituirá sobre bienes inmuebles por el 75% del valor de avalúo o del valor catastral. A la solicitud respectiva se deberá acompañar el certificado del Registro Público de la Propiedad que corresponda, expedido con un máximo de tres meses de anticipación a la fecha de la solicitud, en el que no aparezca anotado algún gravamen ni afectación urbanística o agraria. En el supuesto de que el inmueble reporte gravámenes, la suma del monto total de éstos y el interés fiscal a garantizar no podrá exceder del 75% del valor.
+
+El otorgamiento de la garantía a que se refiere esta fracción se hará mediante escritura pública que deberá inscribirse en el Registro Público de la Propiedad que corresponda y contener los datos del crédito fiscal que se garantice.
+
+El otorgante podrá garantizar con la misma hipoteca los recargos futuros o ampliar la garantía cada año.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Artículo 154 QUATER. Para los efectos del artículo 148, fracción III de este Código, la póliza en la que se haga constar la fianza deberá contener los textos únicos que se (sic) señale la autoridad exactora de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Artículo 154 QUINQUIES. Para los efectos del artículo 148, fracción IV de este Código, para que un tercero asuma la obligación solidaria de garantizar el interés fiscal, deberá sujetarse a lo siguiente:
+
+I. Manifestar su voluntad de asumir la obligación solidaria, mediante escrito firmado ante fedatario público o ante la autoridad fiscal que tenga encomendado el cobro del crédito fiscal, en este último caso la manifestación deberá realizarse ante la presencia de dos testigos. Además, el escrito a que se refiere esta fracción deberá detallar los bienes sobre los cuales recaerá primeramente la obligación solidaria asumida.
+
+El escrito a que se refiere el párrafo anterior deberá ser firmado por el interesado y tratándose de personas morales, por el administrador único o, en su caso, por la totalidad de los miembros del Consejo de Administración. Cuando en los estatutos sociales de la persona moral interesada el Presidente del Consejo de Administración tenga conferidas las mismas facultades de administración que el propio consejo, bastará la firma de dicho Presidente para tener por cumplido el requisito. Las personas a que se refiere este párrafo deberán contar con el certificado de firma electrónica avanzada expedido por el Servicio de Administración Tributaria o por un prestador de servicios de certificación autorizado;
+
+II. Tratándose de personas morales, el monto de la garantía deberá ser menor al 10% de su capital social pagado y la persona moral de que se trate no deberá haber tenido pérdida fiscal para efectos del impuesto sobre la renta en los dos últimos ejercicios fiscales regulares o, en su caso, ésta no deberá haber excedido del 10% de su capital social pagado, y
+
+III. Tratándose de persona física, el monto de la garantía deberá ser menor al 10% de sus ingresos declarados en el ejercicio fiscal inmediato anterior, sin incluir el 75% de los ingresos declarados para los efectos del impuesto sobre la renta como actividades empresariales o del 10% del capital afecto a su actividad empresarial, en su caso.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Artículo 154 SEXIES. Para que un tercero asuma la obligación de garantizar el interés fiscal por cuenta de otro en alguna de las formas a que se refiere el artículo 148, fracciones II y V de este Código, deberá cumplir con los requisitos que para cada garantía se establecen en este Código o en las reglas de carácter general.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Artículo 154 SEPTIES. Para los efectos del artículo 148, fracción V de este Código, el embargo en la vía administrativa se sujetará a las reglas siguientes:
+
+I. Se practicará a solicitud del contribuyente, quien deberá presentar los documentos y cumplir con los requisitos que señale la autoridad exactora de la Secretaría, mediante reglas de carácter general;
+
+II. El contribuyente señalará los bienes de su propiedad sobre los que deba trabarse el embargo, debiendo ser suficientes para garantizar el interés fiscal y cumplir los requisitos y porcentajes que establece el artículo 154 TER de este Código;
+
+III. Tratándose de personas físicas, el depositario de los bienes será el contribuyente y en el caso de personas morales, su representante legal. Cuando a juicio de la autoridad fiscal exista peligro de que el depositario se ausente, enajene u oculte los bienes o realice maniobras tendientes a evadir el cumplimiento de sus obligaciones, podrá removerlo del cargo; en este supuesto, los bienes se depositarán con la persona que designe la autoridad fiscal;
+
+IV. Deberá inscribirse en el Registro Público que corresponda el embargo de los bienes que estén sujetos a esta formalidad, y
+
+V. Antes de la práctica de la diligencia de embargo en la vía administrativa, deberán cubrirse los gastos de ejecución y gastos extraordinarios que puedan ser determinados en términos de los artículos 168 y 169 de este Código. El pago así efectuado tendrá el carácter de definitivo y en ningún caso procederá su devolución una vez practicada la diligencia.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Artículo 154 OCTIES. Para los efectos del artículo 148, fracción V de este Código, los contribuyentes que hayan optado por corregir su situación fiscal, que espontáneamente paguen sus créditos fiscales a plazo y elijan ofrecer como garantía del crédito fiscal el embargo en la vía administrativa de la negociación, deberán presentar una solicitud acompañada de la copia del documento por el que ejercieron la opción de pago a plazo del crédito fiscal de que se trate.
+
+En la solicitud a que se refiere el párrafo anterior se deberá señalar, bajo protesta de decir verdad, lo siguiente:
+
+I. El monto de las contribuciones actualizadas por las que se optó por pagar a plazo, indicando si se trata de pago diferido o en parcialidades, excluyendo de dicho monto el 20% a que se refiere el artículo 134, fracción II de este Código;
+
+II. La contribución a la que corresponda el crédito fiscal de que se trate y el periodo de causación;
+
+III. El monto de los accesorios causados a la fecha de la solicitud del embargo, identificando la parte que corresponda a recargos, multas y a otros accesorios;
+
+IV. Los bienes de activo fijo que integran la negociación, así como el valor de los mismos pendiente de deducir en el impuesto sobre la renta, actualizado desde que se adquirieron y hasta el mes inmediato anterior al de presentación de la citada solicitud de embargo;
+
+V. Las inversiones que el contribuyente tenga en terrenos, los títulos valor que representen la propiedad de bienes y los siguientes activos:
+
+a) Otros títulos valor;
+
+b) Piezas de oro o de plata que hubieren tenido el carácter de moneda nacional o extranjera y las piezas denominadas "onzas troy", y
+
+c) Cualquier bien intangible, aun cuando se trate de inversiones o bienes que no estén afectos a las actividades por las cuales se generó el crédito fiscal, especificando las características de las inversiones que permitan su identificación.
+
+VI. Los gravámenes o adeudos de los señalados en el artículo 152, fracción I, de este Código, que reporte la negociación, indicando el importe del adeudo y sus accesorios reclamados, así como el nombre y el domicilio de sus acreedores.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Artículo 154 NONIES. La garantía del interés fiscal que se ofrezca ante la autoridad fiscal competente para cobrar coactivamente créditos fiscales, será objeto de calificación y de aceptación, en su caso.
+
+Para calificar la garantía del interés fiscal, la autoridad fiscal deberá verificar que se cumplan los requisitos que establecen en este Código en cuanto a la clase de la garantía ofrecida, el motivo por el cual se otorgó y que su importe cubre los conceptos que señala el artículo 148 de este Código.
+
+Cuando no se cumplan los requisitos a que se refiere este párrafo la autoridad fiscal requerirá al promovente a fin de que, en un plazo de quince días hábiles, contados a partir del día siguiente a aquél en que se le notifique dicho requerimiento, cumpla con el requisito omitido, en caso contrario no se aceptará la garantía.
+
+El plazo establecido en el artículo 148, quinto párrafo de este Código, se suspenderá hasta que se emita la resolución en la que se determine la procedencia o no de la garantía del interés fiscal.
+
+La autoridad fiscal podrá aceptar la garantía ofrecida por el contribuyente aun y cuando ésta no sea suficiente para garantizar el interés fiscal de acuerdo con lo establecido en el artículo 148 de este Código, instaurando el procedimiento administrativo de ejecución por el monto no garantizado.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Artículo 154 DECIES. Para garantizar el interés fiscal sobre un mismo crédito fiscal podrán combinarse las diferentes formas que al efecto establece el artículo 148 de este Código, así como sustituirse entre sí, en cuyo caso antes de cancelarse la garantía original deberá constituirse la garantía sustituta, siempre y cuando la garantía que se pretende sustituir no sea exigible.
+
+La garantía constituida podrá garantizar uno o varios créditos fiscales siempre que la misma comprenda los conceptos previstos en el segundo párrafo del artículo 148 de este Código.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Artículo 154 UNDECIES. La cancelación de la garantía del interés fiscal procederá en los casos siguientes:
+
+I. Por sustitución de garantía;
+
+II. Por el pago del crédito fiscal;
+
+III. Cuando en definitiva quede sin efectos la resolución que dio origen al otorgamiento de la garantía;
+
+IV. Cuando se cumpla la fecha de la vigencia de la garantía, y
+
+V. En cualquier otro caso en que deba cancelarse de conformidad con las disposiciones fiscales.
+
+La garantía del interés fiscal podrá disminuirse o sustituirse por una menor en la misma proporción en que se reduzca el crédito fiscal por pago parcial del mismo, o por cumplimiento a una resolución definitiva dictada por autoridad competente en la que se haya declarado la nulidad lisa y llana o revocado la resolución que determina el crédito fiscal, dejando subsistente una parte del mismo.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Artículo 154 DUODECIES. El contribuyente o el tercero que tenga interés jurídico podrá presentar solicitud de cancelación de garantía ante la Autoridad Fiscal que la haya exigido o recibido, a la que deberá acompañar los documentos que acrediten la procedencia de la cancelación.
+
+La autoridad fiscal cancelará las garantías ofrecidas cuando se actualice cualquiera de los supuestos previstos en el artículo 154 UNDECIES, informando de dicha situación al contribuyente que ofreció la garantía.
+
+Las garantías que se hubieran inscrito en el Registro Público que corresponda, se cancelarán mediante oficio de la autoridad fiscal al citado registro.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Artículo 154 TERDECIES. Las autoridades fiscales podrán dispensar de la garantía del interés fiscal a los ejecutores de gasto en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+Cuando los contribuyentes a que se refiere el párrafo anterior interpongan medios de defensa en contra de la resolución que determine un crédito fiscal, se suspenderá el procedimiento administrativo de ejecución, así como el plazo a que se refiere el artículo 56 de este Código.
 
 ### CAPÍTULO III. DEL EMBARGO PRECAUTORIO Y EL ASEGURAMIENTO DE BIENES
 
@@ -2527,9 +2807,17 @@ VI. Motivo de la sanción;
 
 VII. Número de expediente del cual se origina la sanción económica o multa impuesta;
 
-VIII. Fecha de la determinación o acuerdo con resolución del cual se origina la sanción económica o multa impuesta; y,
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-IX. Fecha de notificación al infrantor de la sanción económica o multa impuesta.
+VIII. Fecha de la determinación o acuerdo con resolución del cual se origina la sanción económica o multa impuesta;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+IX. Fecha de notificación al infractor de la sanción económica o multa impuesta, y
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+X. Clave del Registro Federal de Contribuyentes o en su caso, Clave Única de Registro de Población.
 
 En caso de que la autoridad solicitante omita el señalamiento de los datos requeridos para el inicio del procedimiento administrativo de ejecución, se requerirá a ésta los datos para que, en el plazo de cinco días hábiles contados a partir de la fecha de su solicitud, sean enviados; si transcurrido dicho plazo no son proporcionados, la autoridad exactora emitirá un acuerdo de certificación y se procederá a la devolución de los documentos dentro de las cuarenta y ocho horas siguientes, haciéndolo del conocimiento al superior jerárquico de la autoridad solicitante. La autoridad solicitante podrá presentar de nueva cuenta la solicitud para reiniciar el cobro coactivo de la sanción económica o la multa impuesta.
 
@@ -2540,6 +2828,22 @@ La autoridad solicitante deberá anexar copia certificada de la determinación, 
 El ejecutor designado por el jefe de la oficina exactora se constituirá en el domicilio del deudor y deberá identificarse ante la persona con quien se practicará la diligencia de requerimiento de pago y de embargo de bienes, con intervención de la negociación, en su caso, cumpliendo las formalidades que se señalan para las notificaciones personales en los artículos 138 y 144 de este Código. De esta diligencia se levantará acta pormenorizada de la que se entregará copia a la persona con quien se entienda la misma. El acta deberá llenar los requisitos a que se refiere el artículo 95 de este ordenamiento.
 
 Si la notificación del crédito fiscal adeudado o del requerimiento de pago, en su caso, se hizo por edictos, la diligencia se entenderá con la autoridad municipal o local que resulte competente, de conformidad con la circunscripción de los bienes, salvo que en el momento de iniciarse la diligencia compareciere el deudor, en cuyo caso se entenderá con él.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Artículo 171 BIS. La autoridad fiscal, tratándose de créditos exigibles, podrá llevar a cabo el embargo de bienes, por buzón tributario, estrados o edictos, siempre que se trate de los siguientes:
+
+I. Depósitos bancarios, componentes de ahorro o inversión asociados a seguros de vida que no formen parte de la prima que haya de erogarse para el pago de dicho seguro, o cualquier otro depósito en moneda nacional o extranjera que se realicen en cualquier tipo de cuenta que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro y préstamo;
+
+II. Acciones, bonos, cupones vencidos, valores mobiliarios y en general créditos de inmediato y fácil cobro a cargo de entidades o dependencias de la Federación, Estados y Municipios y de instituciones o empresas de reconocida solvencia;
+
+III. Bienes inmuebles, y
+
+IV. Bienes intangibles.
+
+Para tal efecto, la autoridad fiscal previamente emitirá declaratoria de embargo en la que detallará los bienes afectados, misma que hará del conocimiento del deudor a través de buzón tributario, por estrados o por edictos, según corresponda.
+
+Una vez que surta efectos la notificación del embargo, se continuará con el procedimiento administrativo de ejecución.
 
 ###### Artículo 172.
 
@@ -3169,11 +3473,13 @@ La aplicación de las sanciones administrativas, por infracciones a las disposic
 
 Los funcionarios o empleados públicos ante quienes con motivo de sus funciones se exhiba algún libro, objeto o documento que implique el incumplimiento a las leyes fiscales, harán la denuncia respectiva a las autoridades fiscales para no incurrir en responsabilidad.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 236.
 
-En cada infracción de las señaladas en este Código se aplicarán las sanciones correspondientes, garantizando el debido respeto a los derechos humanos de los particulares, conforme a las reglas siguientes:
+Dentro de los límites fijados por este Código, las autoridades fiscales al imponer multas por la comisión de las infracciones señaladas en las leyes fiscales deberán fundar y motivar su resolución y tener en cuenta lo siguiente:
 
-I. La autoridad fiscal al imponer la sanción que corresponda tomará en cuenta la importancia de la infracción, las condiciones del contribuyente y la conveniencia de destruir prácticas, tanto para evadir el cumplimiento de la prestación fiscal, cuanto (sic) para infringir en cualquier forma, las disposiciones legales o reglamentarias;
+I. La autoridad fiscal al imponer la sanción que corresponda tomará en cuenta la importancia de la infracción, las condiciones del contribuyente y la conveniencia de destruir prácticas, tanto para evadir el cumplimiento de la prestación fiscal, cuanto para infringir en cualquier forma, las disposiciones legales o reglamentarias;
 
 II. La autoridad fiscal deberá fundar y motivar debidamente su resolución siempre que imponga sanciones;
 
@@ -3189,7 +3495,37 @@ V. En el caso de infracciones continuas y de que no sea posible determinar el mo
 
 VI. En el caso de que alguna persona sea responsable de diversas infracciones, aun cuando sean de la misma naturaleza, y no deriven de un mismo acto u omisión, por cada una de ellas se le aplicará la multa respectiva, sea cual fuere la suma de todas las sanciones;
 
-VII. Cuando se estime que la infracción cometida es leve y que no ha tenido como consecuencia la evasión del impuesto, se impondrá el mínimo de la sanción que corresponda, apercibiéndose al infractor de que se le castigará como reincidente si volviere a incurrir en la infracción;
+VII. Cuando se omita una contribución fiscal que corresponda a los actos o contratos que se hagan constar en escritura pública o minuta extendida ante Corredor Público titulado, la sanción se impondrá exclusivamente a los notarios o corredores y los otorgantes sólo quedarán obligados a pagar los impuestos omitidos. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los interesados al Notario o Corredor, la sanción se aplicará a los mismos interesados;
+
+1. Se considerará como agravante el hecho de que el infractor sea reincidente.
+
+Se da la reincidencia cuando:
+
+a) Tratándose de infracciones que tengan como consecuencia la omisión en el pago de contribuciones, la segunda o posteriores veces que se sancione al infractor por la comisión de una infracción que tenga esa consecuencia, y
+
+b) Tratándose de infracciones que no impliquen omisión en el pago de contribuciones, la segunda o posteriores veces que se sancione al infractor por la comisión de una infracción establecida en este Código.
+
+Para determinar la reincidencia, se considerarán únicamente las infracciones cometidas dentro de los últimos cinco años;
+
+2. También será agravante en la comisión de una infracción, cuando se dé cualquiera de los siguientes supuestos:
+
+a) Que se haga uso de documentos falsos o en los que hagan constar operaciones inexistentes;
+
+b) Que se utilicen, sin derecho a ello, documentos expedidos a nombre de un tercero para deducir su importe al calcular las contribuciones o para acreditar cantidades trasladadas por concepto de contribuciones;
+
+c) Que se lleven dos o más sistemas de contabilidad con distinto contenido;
+
+d) Se lleven dos o más libros sociales similares con distinto contenido;
+
+e) Que se destruya, ordene o permita la destrucción total o parcial de la contabilidad;
+
+f) Que se microfilmen o graben en discos ópticos o en cualquier otro medio que autorice la Secretaría mediante disposiciones de carácter general, documentación o información para efectos fiscales sin cumplir con los requisitos que establecen las disposiciones relativas.
+
+El agravante procederá sin perjuicio de que los documentos microfilmados o grabados en discos ópticos o en cualquier otro medio de los autorizados, en contravención de las disposiciones fiscales, carezcan de valor probatorio, y
+
+g) Divulgar, hacer uso personal o indebido de la información confidencial proporcionada por terceros independientes que afecte su posición competitiva, a que se refiere el a que se refiere el artículo 111, fracción I y 115, fracción IV de este Código.
+
+3. Se considera también agravante, la omisión en el entero de contribuciones que se hayan retenido o recaudado de los contribuyentes.
 
 VIII. Cuando se omita una contribución fiscal que corresponda a los actos o contratos que se hagan constar en escritura pública o minuta extendida ante Corredor Público titulado, la sanción se impondrá exclusivamente a los notarios o corredores y los otorgantes sólo quedarán obligados a pagar los impuestos omitidos. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los interesados al Notario o Corredor, la sanción se aplicará a los mismos interesados;
 
@@ -3213,35 +3549,57 @@ II. Obtener o usar más de un número del registro que corresponda, para el cump
 
 III. Señalar como domicilio fiscal para efectos del Padrón de Contribuyentes del Estado, un lugar distinto del que corresponda conforme al artículo 18 de este Código; se impondrá multa por la cantidad equivalente de 28.50 a 93.50 UMA;
 
-IV. No presentar o no proporcionar, fuera de los plazos legales o fuera de los plazos señalados en los requerimientos, los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, libros o documentos que exijan las leyes fiscales o bien presentarlos incompletos o con errores; se impondrá multa por la cantidad equivalente de 9.50 a 28.50 UMA;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-V. No presentar o no proporcionar o hacerlo extemporáneamente las facturas, recibos, notas de venta y otros comprobantes de las compras efectuadas; se impondrá multa por la cantidad equivalente de 9.50 a 28.50 UMA
+IV. No presentar las declaraciones, los avisos, manifestaciones, solicitudes, datos, informes, libros o documentos que exijan las leyes fiscales o bien presentarlos incompletos o con errores; o presentarlos fuera de los plazos legales o fuera de los plazos señalados en los requerimientos, se impondrá multa por la cantidad equivalente de 28.50 a 93.50 UMA;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+V. No presentar o no proporcionar o hacerlo extemporáneamente las facturas, recibos, notas de venta y otros comprobantes de las compras efectuadas; se impondrá multa por la cantidad equivalente de 28.50 a 93.50 UMA;
 
 VI. No solicitar oportunamente los permisos, placas, cédulas de registro, boletas de registro o cualquier otro documento exigido por las disposiciones fiscales o hacerlo fuera de los plazos legales; no tenerlos en los lugares que señalen dichas disposiciones; no devolverlos oportunamente dentro del plazo establecido, o no citar su número de registro o de cuenta, en declaraciones, manifestaciones, avisos o cualquiera otras gestiones o solicitudes que hagan ante las autoridades fiscales; se impondrá multa por la cantidad equivalente de 9.50 a 28.50 UMA;
 
 VII. No comparecer ante las autoridades fiscales o hacerlo fuera del plazo de Ley o fuera de los plazos señalados en los requerimientos a presentar, comprobar o aclarar los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, libros, constancias o documentos que exijan las disposiciones fiscales, se impondrán las siguientes multas:
 
-a) Por el primer requerimiento, hasta por la cantidad equivalente a 9.50 UMA.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-b) Por el segundo requerimiento, hasta por la cantidad equivalente a 19.00 UMA, y
+a) Por el primer requerimiento, hasta por la cantidad equivalente a 28.50 UMA.
 
-c) Por el tercer requerimiento, hasta por la cantidad equivalente a 28.50 UMA.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+b) Por el segundo requerimiento, hasta por la cantidad equivalente a 46.50 UMA, y
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+c) Por el tercer requerimiento, hasta por la cantidad equivalente a 93.50 UMA.
 
 Los requerimientos a que se refiere esta fracción, deberán cumplirse dentro de los quince días siguientes de su notificación y en ningún caso excederán de tres requerimientos para una misma omisión;
 
-VIII. Presentar alterados los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, copias, libros o documentos a que se refiere la fracción IV de este artículo; se impondrá multa por la cantidad equivalente de 9.50 a 56.50 UMA;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-IX. Destruir o inutilizar los libros o archivos antes de los plazos que por Ley deben conservarse; se impondrá multa por la cantidad equivalente de 9.50 a 56.50 UMA;
+VIII. Presentar alterados los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, copias, libros o documentos a que se refiere la fracción IV de este artículo; se impondrá multa por la cantidad equivalente de 28.50 a 93.50 UMA;
 
-X. No realizar los inventarios y balances que se les soliciten o practicarlos fuera de los plazos que las leyes dispongan; se impondrá multa por la cantidad equivalente de 9.50 a 56.50 UMA;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-XI. No registrar los contratos que señalen las leyes fiscales; se impondrá multa por la cantidad equivalente de 9.50 a 56.50 UMA;
+IX. Destruir o inutilizar los libros o archivos antes de los plazos que por Ley deben conservarse; se impondrá multa por la cantidad equivalente de 28.50 a 93.50 UMA;
 
-XII. No suministrar los datos e informes que legalmente exijan las autoridades fiscales; no mostrar los libros, documentos, registros o impedir a las mismas autoridades la entrada a los almacenes, depósitos, bodegas o cualquier otra dependencia de la negociación o empresa, o en general negarse a proporcionar los elementos necesarios para el esclarecimiento de los hechos, o resistirse por cualquier otro medio a la investigación fiscal, para comprobar la situación de la empresa o negociación visitada, así como no conservar la contabilidad o parte de ella y la correspondencia a disposición de las autoridades fiscales en el plazo que establecen las leyes fiscales; se impondrá multa por la cantidad equivalente de 9.50 a 56.50 UMA;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+X. No realizar los inventarios y balances que se les soliciten o practicarlos fuera de los plazos que las leyes dispongan; se impondrá multa por la cantidad equivalente de 28.50 a 93.50 UMA;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+XI. No registrar los contratos que señalen las leyes fiscales; se impondrá multa por la cantidad equivalente de 28.50 a 93.50 UMA;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+XII. No suministrar los datos e informes que legalmente exijan las autoridades fiscales; no mostrar los libros, documentos, registros o impedir a las mismas autoridades la entrada a los almacenes, depósitos, bodegas o cualquier otra dependencia de la negociación o empresa, o en general negarse a proporcionar los elementos necesarios para el esclarecimiento de los hechos, o resistirse por cualquier otro medio a la investigación fiscal, para comprobar la situación de la empresa o negociación visitada, así como no conservar la contabilidad o parte de ella y la correspondencia a disposición de las autoridades fiscales en el plazo que establecen las leyes fiscales; se impondrá multa por la cantidad equivalente de 28.50 a 93.50 UMA;
 
 XIII. Resistirse por cualquier medio a las visitas domiciliarias, no suministrar los datos o informes que legalmente puedan exigir las autoridades fiscales; no mostrar los sistemas de contabilidad, documentos, registros o impedir el acceso a los almacenes, depósitos, bodegas o cualquiera otra dependencia, y, en general, negarse a proporcionar los elementos que se requieren para comprobar la situación fiscal del visitado, en relación con el objeto de la visita; se impondrá multa por la cantidad equivalente de 28.50 a 93.50 UMA;
 
-XIV. Faltar a la obligación de expedir facturas, notas de venta o comprobantes de las operaciones que realice o documento que señalen las leyes fiscales; no exigirlos cuando se tenga la obligación de hacerlo, no consignar por escrito los datos que de acuerdo con las leyes fiscales deban consignarse en esa forma; se impondrá multa por la cantidad equivalente de 9.50 a 37.50 UMA.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+XIV. Faltar a la obligación de expedir facturas, notas de venta o comprobantes de las operaciones que realice o documento que señalen las leyes fiscales; no exigirlos cuando se tenga la obligación de hacerlo, no consignar por escrito los datos que de acuerdo con las leyes fiscales deban consignarse en esa forma; se impondrá multa por la cantidad equivalente de 28.50 a 93.50 UMA.
 
 En caso de reincidencia la autoridad fiscal podrá clausurar la negociación de tres a diez días;
 
@@ -3283,31 +3641,51 @@ I. No inscribirse en el padrón o registro de contribuyentes que corresponda o c
 
 II. No proporcionar o no aclarar oportunamente los avisos, informes, datos o documentos, que les fueron requeridos por las autoridades fiscales:
 
-a) Por el primer requerimiento: con multa por la cantidad equivalente de hasta 9.50 UMA;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-b) Por el segundo requerimiento: con multa por la cantidad equivalente de hasta 19.00 UMA, y
+a) Por el primer requerimiento: con multa por la cantidad equivalente de hasta 28.50 UMA;
 
-c) Por el tercer requerimiento: con multa por la cantidad equivalente de hasta 28.50 UMA.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+b) Por el segundo requerimiento: con multa por la cantidad equivalente de hasta 46.50 UMA, y
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+c) Por el tercer requerimiento: con multa por la cantidad equivalente de hasta 93.50 UMA.
 
 Los requerimientos a que se refiere esta fracción, deberán cumplirse dentro de los quince días siguientes a la fecha de su notificación y en ningún caso excederán de tres requerimientos;
 
-III. Cuando no presente las declaraciones, informes o documentos necesarios para la determinación o pago del adeudo fiscal; con multa por la cantidad equivalente de 9.50 a 56.50 UMA;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-IV. Presentar los avisos, informes, datos o documentos a que se refiere la fracción anterior, incompleta o inexacta; con multa por la cantidad equivalente de 9.50 a 56.50 UMA;
+III. Cuando no presente las declaraciones, informes o documentos necesarios para la determinación o pago del adeudo fiscal; con multa por la cantidad equivalente de 28.50 a 93.50 UMA;
 
-V. No prestar ayuda a las autoridades fiscales para la determinación y cobro de prestaciones fiscales en los casos en que tengan obligación de hacerlo, conforme a las disposiciones de la materia; con multa por la cantidad equivalente de 9.50 a 56.50 UMA;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-VI. Presentar alterados los avisos, informes, datos o documentos a que se refiere la fracción II de este artículo; con multa por la cantidad equivalente de 9.50 a 56.50 UMA;
+IV. Presentar los avisos, informes, datos o documentos a que se refiere la fracción anterior, incompleta o inexacta; con multa por la cantidad equivalente de 28.50 a 93.50 UMA;
 
-VII. Autorizar o hacer constar en calidad de contadores, peritos o testigos, datos falsos en documentos, inventarios, balances o asientos; con multa por la cantidad equivalente de 9.50 a 56.50 UMA;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-VIII. Intervenir en cualquier forma en la alteración de documentos, inscripciones de cuentas, asientos o datos falsos en los libros o registros relativos a la contabilidad o en algún hecho preparatorio de los apuntados; con multa por la cantidad equivalente de 9.50 a 56.50 UMA;
+V. No prestar ayuda a las autoridades fiscales para la determinación y cobro de prestaciones fiscales en los casos en que tengan obligación de hacerlo, conforme a las disposiciones de la materia; con multa por la cantidad equivalente de 28.50 a 93.50 UMA;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+VI. Presentar alterados los avisos, informes, datos o documentos a que se refiere la fracción II de este artículo; con multa por la cantidad equivalente de 28.50 a 93.50 UMA;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+VII. Autorizar o hacer constar en calidad de contadores, peritos o testigos, datos falsos en documentos, inventarios, balances o asientos; con multa por la cantidad equivalente de 28.50 a 93.50 UMA;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+VIII. Intervenir en cualquier forma en la alteración de documentos, inscripciones de cuentas, asientos o datos falsos en los libros o registros relativos a la contabilidad o en algún hecho preparatorio de los apuntados; con multa por la cantidad equivalente de 28.50 a 93.50 UMA;
 
 IX. Presentar declaraciones, informes o documentos alterados, falsificados, incompletos o con errores que traigan consigo la evasión total o parcial de una prestación fiscal; con multa por la cantidad equivalente de 28.50 a 117 UMA;
 
 X. Auxiliar o inducir al contribuyente para que eluda el pago de alguna prestación fiscal o para que infrinja las leyes fiscales, contribuir a la alteración, inscripción de cuentas, asientos o datos falsos en los libros de contabilidad o en los documentos que se expidan; con multa por la cantidad equivalente de 28.50 a 117.00 UMA;
 
-XI. No suministrar los datos e informes que exijan las autoridades fiscales, no mostrar los libros, documentos, registros, bodegas, depósitos, locales o cajas de valores o, en general, los elementos necesarios para el esclarecimiento de los hechos o resistirse por cualquier otro medio a la investigación fiscal; con multa por la cantidad equivalente de 9.50 a 56.50 UMA;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+XI. No suministrar los datos e informes que exijan las autoridades fiscales, no mostrar los libros, documentos, registros, bodegas, depósitos, locales o cajas de valores o, en general, los elementos necesarios para el esclarecimiento de los hechos o resistirse por cualquier otro medio a la investigación fiscal; con multa por la cantidad equivalente de 28.50 a 93.50 UMA;
 
 XII. Adquirir, ocultar, retener o enajenar productos, mercancías o artículos, a sabiendas de que no se cubrieron los impuestos causados; con multa por la cantidad equivalente de 28.50 a 117 UMA;
 
@@ -3426,6 +3804,26 @@ Cuando la comisión de una o varias infracciones de las señaladas en los artíc
 ###### Artículo 244.
 
 Tratándose de la omisión de contribuciones por error aritmético en las declaraciones, se impondrá una multa del 20% al 25% de las contribuciones omitidas. En caso de que dichas contribuciones se paguen junto con sus accesorios, dentro de los quince días hábiles siguientes a la fecha en que surta sus efectos la notificación de la diferencia respectiva, la multa se reducirá a la mitad, sin que para ello se requiera resolución administrativa.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Artículo 244 BIS. Tratándose de los contribuyentes que se encuentren en los siguientes supuestos:
+
+I. Tengan créditos fiscales firmes,
+
+II. Se encuentren como no localizados en el Padrón Estatal de Contribuyentes, y
+
+III. Tengan créditos fiscales exigibles sin garantizar el interés fiscal o sin pagos.
+
+Serán sujetos de las siguientes medidas de apremio, las cuales podrán aplicarse simultáneamente y de forma indistinta:
+
+I. La Secretaría publicará en su página de Internet el nombre, denominación o razón social y clave del Registro Federal de Contribuyentes o del registro estatal de contribuyentes, según corresponda, de aquéllos que se ubiquen en la fracción IV del artículo 137 de este Código;
+
+II. Inmovilización de los trámites vehiculares en la Coordinación General de Movilidad y Transporte del Estado de Morelos;
+
+III. Su información será remitida para ser integrada en el Buró de Crédito y Círculo de Crédito, y
+
+IV. El embargo del 20% del excedente del salario mínimo actualizado.
 
 ### CAPÍTULO II. DE LOS DELITOS FISCALES
 
@@ -3594,6 +3992,14 @@ Igual sanción, de acuerdo al valor de dichos bienes, se aplicará al depositari
 ###### Artículo 260.
 
 Se impondrá sanción de tres meses a seis años de prisión a los depositarios designados respecto de la documentación asegurada en el desarrollo de las facultades de comprobación de las autoridades fiscales, cuando debiendo mantenerla a disposición de la autoridad, no lo hagan, la oculten o la destruyan.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Asimismo, al depositario o interventor designado por las autoridades fiscales que, con perjuicio del fisco estatal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de $200,000.00; cuando exceda, la sanción será de tres a nueve años de prisión.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Igual sanción, de acuerdo al valor de dichos bienes, se aplicará al depositario que los oculte o no los ponga a disposición de la autoridad competente.
 
 ###### Artículo 261.
 
@@ -3766,3 +4172,17 @@ PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado
 SEGUNDA. El presente Decreto entrará en vigor a partir del 01 de enero de 2024, previa publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2025.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NOVECIENTOS NOVENTA Y SIETE POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE MORELOS, DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS, DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE MORELOS, DE LA LEY GENERAL DE BIENES DEL ESTADO DE MORELOS Y DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS".]</small>
+
+PRIMERA. Remítase el presente Decreto a la Gobernadora del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del 01 de enero de 2026, previa publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERA. La Secretaría de Administración y Finanzas expedirá a más tardar el día 30 de enero de 2026, los Lineamientos, en que se establezcan las condiciones y requisitos que deberán observar los municipios en el ejercicio de los recursos el (sic) Fondo de Aportaciones Estatales para el Fomento de los Municipios.
+
+Los municipios deberán informar a la Secretaría de Administración y Finanzas del Poder Ejecutivo a más tardar el 15 de enero de 2026, los datos de la Cuenta Bancaria Productiva Específica a que se refiere el artículo 15 que por virtud de este Decreto se reforma a la Ley de Coordinación Hacendaria del Estado de Morelos.
+
+CUARTA. Se derogan todas las disposiciones legales y normativas que contravengan lo señalado en el presente Decreto.
