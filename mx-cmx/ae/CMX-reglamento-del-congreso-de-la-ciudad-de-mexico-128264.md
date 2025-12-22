@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-congreso-de-la-ciudad-de-mexico-128264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-04"
-last_updated: "2025-12-08"
+last_updated: "2025-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128264&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-12-20"
 
 REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE DICIEMBRE DE 2025.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -862,13 +862,17 @@ V. De Pueblos y Barrios Originarios y Comunidades Indígenas Residentes;
 
 VI. De Las Personas que pertenezcan o se identifiquen con poblaciones Lésbico, Gay, Bisexual, Transexual, Transgénero, Travesti, Intersexual, Asexual, personas no binarias, así como de otras orientaciones sexuales, identidades y expresiones de género y características sexuales no normativas;
 
-> <small>(REFORMADA, G.O. 28 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2025)</small>
 
-VII. Del Medio Ambiente, y
+VII. Del Medio Ambiente;
 
-> <small>(ADICIONADA, G.O. 28 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2025)</small>
 
-VIII. De Participación de la Vida Cultural de la Ciudad.
+VIII. De Participación de la Vida Cultural de la Ciudad, y
+
+> <small>(ADICIONADA, G.O. 22 DE DICIEMBRE DE 2025)</small>
+
+IX. Del Comercio Popular.
 
 ###### Artículo 59.
 
@@ -898,13 +902,17 @@ V. De Pueblos, Barrios Originarios y Comunidades Indígenas Residentes, para el 
 
 VI. De Igualdad de Género y de Derechos Humanos, el Parlamento de Las Personas que pertenezcan o se identifiquen con poblaciones Lésbico, Gay, Bisexual, Transexual, Transgénero, Travesti, Intersexual, Asexual, personas no binarias, así como de otras orientaciones sexuales, identidades expresiones de género y características sexuales no normativas;
 
-> <small>(REFORMADA, G.O. 28 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2025)</small>
 
-VII. De Preservación del Medio Ambiente, Cambio Climático y Protección Ecológica, para el Parlamento del Medio Ambiente, y
+VII. Preservación del Medio Ambiente, Cambio Climático y Protección Ecológica, para el Parlamento del Medio Ambiente;
 
-> <small>(ADICIONADA, G.O. 28 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2025)</small>
 
-VIII. De los Derechos Culturales, el Parlamento de Participación de la Vida Cultural de la Ciudad.
+VIII. De los derechos Culturales, el Parlamento de la Vida Cultural de la Ciudad, y
+
+> <small>(ADICIONADA, G.O. 22 DE DICIEMBRE DE 2025)</small>
+
+IX. De Desarrollo Rural, Abasto y Distribución de Alimentos y de Desarrollo Económico, el Parlamento del Comercio Popular.
 
 ###### Artículo 60.
 
@@ -6749,3 +6757,13 @@ SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publ
 TERCERO. De conformidad con lo aprobado por la Junta de Coordinación Política, la presente medalla se entregará solo una vez durante la presente Legislatura, lo cual se realizará durante el segundo periodo de sesiones del segundo año de ejercicio, en una Sesión Solemne del Pleno.
 
 CUARTO. El Acuerdo AC/CCDMX/III/JUCOPO/1A/031/2024 se considera vigente y la Junta de Coordinación Política de conformidad con el resolutivo SEXTO del Acuerdo deberá modificar el mismo estableciendo la Medalla al Mérito a la Salud.
+
+G.O. 22 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES VII Y VIII, Y SE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 58; SE REFORMAN LAS FRACCIONES VII Y VIII, Y SE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 59, AMBOS DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. El Parlamento del Comercio Popular se realizará de conformidad con el Artículo 58 del Reglamento del Congreso de la Ciudad de México, a partir del Primer Receso, del Segundo Año de ejercicio del Congreso de la Ciudad de México, III Legislatura.
