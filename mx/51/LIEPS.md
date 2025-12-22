@@ -4,7 +4,7 @@ identifier: "LIEPS"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "2025-11-07"
+last_updated: "2025-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=447&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -72,7 +72,7 @@ La Federación, la Ciudad de México, los Estados, los Municipios, los organismo
 
 El impuesto a que hace referencia esta Ley no se considera violatorio de precios o tarifas, incluyendo los oficiales.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE EL "ACUERDO 180/2024 POR EL QUE SE ACTUALIZAN LAS CUOTAS QUE SE ESPECIFICAN EN MATERIA DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS PARA 2025", PUBLICADO EN EL D.O.F. DE 27 DE DICIEMBRE DE 2024.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE EL "ACUERDO POR EL QUE SE ACTUALIZAN LAS CUOTAS QUE SE ESPECIFICAN EN MATERIA DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS PARA 2026", PUBLICADO EN EL D.O.F. DE 22 DE DICIEMBRE DE 2025.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -326,7 +326,7 @@ Para los efectos de esta fracción, la tasa se aplicará al valor de la enajenac
 
 Las exportaciones a las que se les aplica la tasa del 0%, producirán los mismos efectos legales que los actos o actividades por los que se deba pagar el impuesto conforme a esta Ley y los productores que exporten serán considerados como contribuyentes del impuesto que establece esta Ley por los bienes a que se refiere esta fracción.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE EL "ACUERDO 180/2024 POR EL QUE SE ACTUALIZAN LAS CUOTAS QUE SE ESPECIFICAN EN MATERIA DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS PARA 2025", PUBLICADO EN EL D.O.F. DE 27 DE DICIEMBRE DE 2024.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE EL "ACUERDO POR EL QUE SE ACTUALIZAN LAS CUOTAS QUE SE ESPECIFICAN EN MATERIA DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS PARA 2026", PUBLICADO EN EL D.O.F. DE 22 DE DICIEMBRE DE 2025.]</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -3351,3 +3351,9 @@ a) Tratándose de la enajenación de bienes o de la prestación de servicios que
 b) En el caso de la enajenación de bienes o de la prestación de servicios que con anterioridad a la fecha de la entrada en vigor del presente Decreto no hayan estado afectas al pago del impuesto especial sobre producción y servicios y que con posterioridad a la fecha mencionada queden afectas al pago de dicho impuesto, no se estará obligado al pago del citado impuesto, siempre que los bienes o los servicios se hayan entregado o proporcionado antes de la fecha mencionada y el pago de las contraprestaciones respectivas se realice dentro de los diez días naturales inmediatos posteriores a dicha fecha.
 
 Se exceptúa del tratamiento establecido en los incisos anteriores a las actividades que se lleven a cabo entre contribuyentes que sean partes relacionadas, de conformidad con lo dispuesto por la Ley del Impuesto sobre la Renta, sean o no residentes en México.
+
+D.O.F. 22 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE ACTUALIZAN LAS CUOTAS QUE SE ESPECIFICAN EN MATERIA DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS PARA 2026”.]
+
+ÚNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2026.
