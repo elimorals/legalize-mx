@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ciencia-tecnologia-innovacion-y-emprendimiento-para-1604
 country: "mx"
 rank: "ley"
 publication_date: "2022-09-30"
-last_updated: "2025-11-21"
+last_updated: "2025-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160432&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y EMPRENDIMIENTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Extraordinario del Número 56 del Periódico Oficial del Estado de Aguascalientes, el viernes 30 de septiembre de 2022.
 
@@ -59,11 +59,11 @@ Tiene por objeto garantizar el ejercicio del derecho humano a la ciencia conform
 
 Toda persona de forma individual y colectiva, tiene derecho a participar y acceder al progreso humanístico, científico y tecnológico, así como a gozar de sus beneficios sociales, en los términos de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-###### Artículo 2°.
+###### Artículo 2º.
 
-La presente Ley tiene como objetivos:
+La presente Ley tiene por objetivos:
 
 > <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
 
@@ -154,6 +154,10 @@ I. Acceso abierto: Elemento del derecho humano a la ciencia garantizado en la fr
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JULIO DE 2025)</small>
 
 II. Centros Públicos: Centros Públicos de Investigación Humanística y Científica, Desarrollo Tecnológico e Innovación;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+II BIS. Ciberseguridad: Conjunto de herramientas, políticas, directrices, métodos de gestión de riesgos, acciones, prácticas idóneas, garantías y tecnologías que se utilizan para proteger la disponibilidad, integridad y confidencialidad de los activos de la infraestructura conectada. Busca asegurar que la información y los sistemas digitales estén protegidos contra cualquier tipo de amenaza digital. Esto incluye la implementación de medidas preventivas, la detección de amenazas y la respuesta a incidentes para minimizar los riesgos de daño o pérdida;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JULIO DE 2025)</small>
 
@@ -1033,9 +1037,17 @@ III. Analizar, estudiar y proponer mejoras sobre las disposiciones legales en la
 
 IV. Revisar y presentar las propuestas de los diversos sectores de la sociedad, que deseen emitir alguna propuesta o sugerencia en materia de emprendimiento, ciencia, tecnología e innovación; y verificar que se hagan llegar a los interesados para su atención o solución;
 
-V. Formular sugerencias tendientes a vincular el desarrollo del ecosistema emprendedor, tecnológico y la innovación en el sector productivo y de servicios, así como la vinculación entre la investigación científica y la educación conforme a los lineamientos que esta misma Ley y otros ordenamientos establecen; y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-VI. Las demás que le solicite la Junta de Gobierno o el Instituto.
+V. Formular sugerencias tendientes a vincular el desarrollo del ecosistema emprendedor, tecnológico y la innovación en el sector productivo y de servicios, así como la vinculación entre la investigación científica y la educación conforme a los lineamientos que esta misma Ley y otros ordenamientos establecen;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+VI. Monitorear la evolución de la inteligencia artificial, identificar los sectores y puestos de trabajo con mayor riesgo de ser afectados en el Estado y generar recomendaciones para la adaptación del capital humano; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN VI], P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+VII. Las demás que le solicite la Junta de Gobierno o el Instituto.
 
 ###### Artículo 42.
 
@@ -1079,11 +1091,11 @@ En el entendido de que dicho porcentaje se aplicará adicionalmente al presupues
 
 El Instituto gestionará ante los órganos de finanzas, organismos públicos y privados, nacionales e internacionales, apoyos económicos que deberán aplicarse a proyectos de emprendimiento, innovación, ciencia y tecnología.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 46.
 
-Cada dependencia o entidad de la Administración Pública Estatal, podrá aportar anualmente al Instituto recursos económicos, en atención a la prioridad, el costo y el impulso que el correspondiente sector determine para sus proyectos de inversión en desarrollo del ecosistema emprendedor, innovación, ciencia y tecnología, con el fin de aplicarse en el apoyo a proyectos de innovación, investigación humanística, científica y desarrollo tecnológico de su sector, bajo la administración del Instituto y la estructura del fondo que más convenga a la inversión.
+Cada dependencia o entidad de la Administración Pública Estatal, podrá aportar anualmente al Instituto recursos económicos, en atención a la prioridad, el costo y el impulso que el correspondiente sector determine para sus proyectos de inversión en desarrollo del ecosistema emprendedor, innovación, ciencia y tecnología, con el fin de aplicarse en el apoyo a proyectos de innovación, investigación humanística, investigación científica, desarrollo tecnológico, inteligencia artificial y ciberseguridad de su sector, bajo la administración del Instituto y la estructura del fondo que más convenga a la inversión.
 
 La constitución, inversión y manejo de los fondos financieros del Instituto serán presentados en el presupuesto anual para aprobación de la Junta de Gobierno, los cuales se sujetarán a los acuerdos tomados por ésta y se conformarán con las aportaciones hechas por el Poder Ejecutivo del Estado, las diferentes dependencias estatales y/u organismos públicos descentralizados estatales y organismos constitucionales autónomos, para la atención de las prioridades de innovación, investigación y desarrollo tecnológico que cada una haya presentado.
 
@@ -1115,13 +1127,15 @@ II. La canalización de recursos se considerará como erogaciones devengadas del
 
 III. Los beneficiarios podrán ser las personas físicas o jurídicas colectivas que previamente hayan sido seleccionadas por la institución, dependencia o entidad otorgante, previa opinión favorable del Instituto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 50.
 
-La concurrencia de los recursos provenientes del sector público o privado, destinados al financiamiento de las actividades de emprendimiento, ciencia, tecnología e innovación que se realicen en el Estado, serán intransferibles a otra actividad distinta por lo que deberá aplicarse exclusiva y obligatoriamente al fomento de las actividades directamente vinculadas a la realización de proyectos específicos de emprendimiento, investigación humanística, científica, modernización, innovación y desarrollos tecnológicos; becas y formación de recursos humanos especializados; divulgación de ciencia y la tecnología; creación, desarrollo o consolidación de grupos o centros de investigación, fortalecimiento del ecosistema emprendedor, así como para otorgar estímulos y reconocimientos a personas dedicadas al emprendimiento, la innovación, la investigación o al desarrollo de tecnología.
+La concurrencia de los recursos provenientes del sector público o privado, destinados al financiamiento de las actividades de emprendimiento, ciencia, tecnología, innovación, inteligencia artificial y ciberseguridad que se realicen en el Estado, serán intransferibles a otra actividad distinta por lo que deberá aplicarse exclusiva y obligatoriamente al fomento de las actividades directamente vinculadas a la realización de proyectos específicos de emprendimiento, investigación humanística, científica, modernización, innovación, inteligencia artificial, ciberseguridad y desarrollos tecnológicos; becas y formación de recursos humanos especializados; divulgación de ciencia y la tecnología; creación, desarrollo o consolidación de grupos o centros de investigación, fortalecimiento del ecosistema emprendedor, así como para otorgar estímulos y reconocimientos a personas dedicadas al emprendimiento, la innovación, la inteligencia artificial, la ciberseguridad, la investigación o al desarrollo de tecnología.
 
-Los órganos de gobierno de las instituciones, centros y entidades podrán establecer apoyos y criterios conforme a los cuales el personal de los mismos pueda realizar la incubación, aceleración o escalamiento de emprendimientos de alto impacto económico, social o ecológico y empresas tecnológicas de innovación en coordinación con la propia organización, institución, centro o entidad, según corresponda y, en su caso; con terceros.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Los órganos de gobierno de las instituciones, centros y entidades podrán establecer apoyos y criterios conforme a los cuales el personal de los mismos pueda realizar la incubación, aceleración o escalamiento de emprendimientos de alto impacto económico, social o ecológico y empresas tecnológicas de innovación; inteligencia artificial y ciberseguridad en coordinación con la propia organización, institución, centro o entidad, según corresponda y, en su caso; con terceros.
 
 Los términos, requisitos y criterios a que se refiere el presente artículo serán establecidos por los órganos de gobierno o equivalente, también determinarán lo relativo a los derechos de propiedad intelectual y los beneficios que correspondan a instituciones de educación, centros y otras entidades u organizaciones en relación a lo dispuesto en este artículo.
 
@@ -1129,9 +1143,9 @@ Los términos, requisitos y criterios a que se refiere el presente artículo ser
 
 Las actividades a que se refiere el artículo anterior deberán estar orientadas a:
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-I. Promover e impulsar el emprendimiento, la innovación, la investigación humanística, científica, el desarrollo tecnológico y el aprovechamiento de los resultados de estos, en aplicaciones tecnológicas que amplíen los horizontes de competitividad y globalización de la planta productiva;
+I. Promover e impulsar el emprendimiento, la innovación, la investigación humanística, científica, el desarrollo tecnológico, la inteligencia artificial, la ciberseguridad y el aprovechamiento de los resultados de estos, en aplicaciones tecnológicas que amplíen los horizontes de competitividad y globalización de la planta productiva;
 
 II. Promover la capacitación y actualización continua de los recursos humanos del Estado, a fin de formar, en el mediano plazo, cuadros de primer nivel en el área técnica y profesional capaces de fortalecer el ecosistema emprendedor e innovador local, así como integrarse o encabezar grupos, centros de investigación, desarrollo tecnológico y empresas, orientando su incorporación hacia las áreas o disciplinas que más convengan al desarrollo económico y social en el Estado;
 
@@ -1147,11 +1161,11 @@ Las reasignaciones de recursos de un proyecto que por necesidades del servicio r
 
 ### CAPÍTULO II. Fondos
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 53.
 
-El objeto de cada fondo invariablemente será el otorgamiento de apoyos y financiamientos para: actividades directamente vinculadas al desarrollo del ecosistema emprendedor del estado, así como de la investigación humanística, científica, tecnológica e innovación; becas y formación de recursos humanos especializados; desarrollo al impulso del fomento a las vocaciones emprendedoras, innovadoras, humanistas, científicas y tecnológicas; realización de proyectos específicos de emprendimiento de alto impacto económico, social, ecológico, de investigación científica, modernización, innovación, y desarrollos tecnológicos; divulgación de casos de éxito emprendedor, de la ciencia, la tecnología e innovación; creación, desarrollo o consolidación de grupos o centros de investigación, así como otorgar estímulos y reconocimientos a personas dedicadas al emprendimiento, la innovación, y la investigación, así como a personas dedicadas al desarrollo de tecnología, en ambos casos asociados a la evaluación de sus actividades y resultados.
+El objeto de cada fondo invariablemente será el otorgamiento de apoyos y financiamientos para: actividades directamente vinculadas al desarrollo del ecosistema emprendedor del estado, así como de la investigación humanística, científica, tecnológica e innovación; becas y formación de recursos humanos especializados, inteligencia artificial y ciberseguridad; desarrollo al impulso del fomento a las vocaciones emprendedoras, innovadoras, científicas y tecnológicas; realización de proyectos específicos de emprendimiento de alto impacto económico, social, ecológico, de investigación científica, modernización, innovación, y desarrollos tecnológicos; divulgación de casos de éxito emprendedor, de la ciencia, la tecnología e innovación; creación, desarrollo o consolidación de grupos o centros de investigación, así como otorgar estímulos y reconocimientos a personas dedicadas al emprendimiento, la innovación, y la investigación, así como a personas dedicadas al desarrollo de tecnología, en ambos casos asociados a la evaluación de sus actividades y resultados.
 
 ### CAPÍTULO III. Estímulos Fiscales
 
@@ -1181,7 +1195,9 @@ En el ámbito de sus respectivas competencias y de acuerdo con las necesidades d
 
 I. Promover la conservación, consolidación, actualización y desarrollo de la infraestructura destinada al desarrollo del ecosistema emprendedor e innovador, así como la divulgación y difusión de la ciencia y la tecnología en general;
 
-II. Fomentar la realización de actividades que propicien el intercambio de información en materia de emprendimiento, innovación, ciencia y tecnología, el intercambio de ideas, compartimiento, enlace y el desarrollo del conocimiento;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+II. Fomentar la realización de actividades que propicien el intercambio de información en materia de emprendimiento, innovación, ciencia, tecnología, inteligencia artificial, ciberseguridad, el intercambio de ideas, compartimiento, enlace y el desarrollo del conocimiento;
 
 III. Impulsar la creación de programas y espacios formativos, recreativos e interactivos, con la finalidad de desarrollar en la población en general el interés por la formación en materia de emprendimiento, innovación, ciencia y tecnología; y
 
@@ -1317,11 +1333,11 @@ Las Unidades de Vinculación, y Transferencia de Tecnología y Conocimiento o la
 
 Los recursos que le sean asignados presupuestariamente deberán de destinarse exclusivamente a generar y ejecutar proyectos en materia de desarrollo emprendedor, tecnológico, investigación e innovación, así como a promover su vinculación con los sectores productivos del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 68.
 
-Las instituciones de educación, los Centros Públicos de Investigación, las entidades de la administración pública y las organizaciones de la sociedad civil que realicen actividades de fortalecimiento al ecosistema emprendedor, investigación humanística, científica, desarrollo tecnológico e innovación promoverán conjuntamente con los sectores público y privado la conformación de asociaciones estratégicas, alianzas tecnológicas, consorcios, unidades de vinculación y transferencia de conocimiento, nuevas empresas privadas de base tecnológica y redes regionales de innovación en las cuales se incorporarán los desarrollos tecnológicos e innovaciones realizadas en dichas instituciones de educación, centros y entidades, así como del personal académico, de investigación y especializado adscritos a la institución, centro o entidad, que participen en la parte sustantiva del proyecto.
+Las instituciones de educación, los Centros Públicos de Investigación, las entidades de la administración pública y las organizaciones de la sociedad civil que realicen actividades de fortalecimiento al ecosistema emprendedor, investigación humanística, científica, desarrollo tecnológico, innovación, inteligencia artificial y ciberseguridad, promoverán conjuntamente con los sectores público y privado la conformación de asociaciones estratégicas, alianzas tecnológicas, consorcios, unidades de vinculación y transferencia de conocimiento, nuevas empresas privadas de base tecnológica y redes regionales de innovación en las cuales se incorporarán los desarrollos tecnológicos e innovaciones realizadas en dichas instituciones de educación, centros y entidades, así como del personal académico, de investigación y especializado adscritos a la institución, centro o entidad, que participen en la parte sustantiva del proyecto.
 
 Con relación a lo dispuesto en el párrafo anterior, los órganos de gobierno de las instituciones de educación, Centros, entidades u organizaciones de la sociedad civil aprobarán y establecerán lo siguiente:
 
@@ -1353,7 +1369,9 @@ Para promover la comercialización de los derechos de propiedad intelectual e in
 
 Los órganos de gobierno de los centros públicos de investigación estatales y de los centros de investigación privados con los que exista asociación estratégica, alianza tecnológica o convenio de colaboración vigentes, sesionarán cuando menos dos veces al año, y tendrán las facultades que les confiere el instrumento legal de su creación y las siguientes atribuciones no delegables:
 
-I. Aprobar y evaluar los programas, agenda y proyectos académicos, de emprendimiento, de investigación, desarrollo tecnológico e innovación a propuesta del director o su equivalente y de los miembros de la comunidad de investigación del propio centro;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+I. Aprobar y evaluar los programas, agenda y proyectos académicos, de emprendimiento, de investigación, desarrollo tecnológico, innovación, inteligencia artificial y ciberseguridad a propuesta del director o su equivalente y de los miembros de la comunidad de investigación del propio centro;
 
 II. Aprobar la distribución del presupuesto anual definitivo de la entidad y el programa de inversiones, de acuerdo con el monto total autorizado de su presupuesto;
 
@@ -1415,9 +1433,11 @@ Los apoyos a que se refiere el Artículo anterior se otorgarán por un tiempo de
 
 El emprendimiento, la innovación y la investigación humanística, científica y tecnológica que el Gobierno del Estado apoye buscará contribuir significativamente a desarrollar la economía local, así como a fortalecer el sistema de educación y de capacitación de alta calidad.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 73.
 
-Con el objeto de integrar el emprendimiento, investigación y educación, los centros de investigación, organizaciones e instituciones especializadas y las instituciones de educación superior promoverán, a través de las herramientas que consideren pertinentes, la actualización de los conocimientos y habilidades que respondan a la innovación, los cambios científicos y tecnológicos de nuestro tiempo.
+Con el objeto de integrar el emprendimiento, investigación y educación, los centros de investigación, organizaciones e instituciones especializadas y las instituciones de educación superior promoverán, a través de las herramientas que consideren pertinentes, la actualización de los conocimientos y habilidades que respondan a la innovación, inteligencia artificial, ciberseguridad, y a los cambios científicos y tecnológicos de nuestro tiempo.
 
 > <small>(REFORMADO, P.O. 14 DE JULIO DE 2025)</small>
 
@@ -1425,11 +1445,11 @@ Con el objeto de integrar el emprendimiento, investigación y educación, los ce
 
 El Gobierno del Estado, a través del Instituto reconocerá los logros sobresalientes de quienes realicen proyectos de emprendimiento o investigación humanística, científica y tecnológica, además procurará apoyos para que su actividad contribuya a mantener y fortalecer el desarrollo económico.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 75.
 
-El Gobierno del Estado, a través del Instituto, promoverá ante los sectores social y privado, la creación de centros, grupos, consorcios y redes de investigación y desarrollo tecnológico para el fomento del ecosistema emprendedor e innovador, de la investigación humanística, científica y tecnológica y la solución de problemas en el sector productivo.
+El Gobierno del Estado, a través del Instituto, promoverá ante los sectores social y privado, la creación de centros, grupos, consorcios y redes de investigación y desarrollo tecnológico para el fomento del ecosistema emprendedor e innovador, de la investigación humanista, científica, tecnológica, de la inteligencia artificial, la ciberseguridad y la solución de problemas en el sector productivo.
 
 ### CAPÍTULO III. Coordinación y Desconcentración
 
@@ -1696,3 +1716,11 @@ P.O. 21 DE NOVIEMBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes
+
+P.O. 22 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 342.- SE REFORMA LA LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y EMPRENDIMIENTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
