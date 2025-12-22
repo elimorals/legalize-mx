@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-prevencion-atencion-integral-y-control-de-las-16730
 country: "mx"
 rank: "ley"
 publication_date: "2023-08-07"
-last_updated: "2025-06-30"
+last_updated: "2025-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167306&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA LA PREVENCIÓN, ATENCIÓN INTEGRAL Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Primera Sección del Número 32 del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de agosto de 2023.
 
@@ -1123,6 +1123,10 @@ En el ingreso a los Centros de ayuda mutua será estrictamente voluntario, podr�
 
 El gobierno del Estado dispondrá los mecanismos y facilidades administrativas para fomentar la creación de Centros de Atención de Adicciones por parte de los sectores social y privado. La Comisión brindará asesoría a quien lo solicite respecto de las características y requisitos que deberán cumplir para su creación y operación.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Todos los Centros de Atención de Adicciones, tanto públicos como privados, estarán obligados a informar de manera mensual al ISSEA sobre los ingresos y egresos de personas en tratamiento. Esta obligación deberá cumplirse mediante los medios electrónicos y en los formatos establecidos por el Instituto, sin necesidad de que medie una visita de inspección.
+
 ### CAPÍTULO SEGUNDO
 
 DE LA VERIFICACIÓN, SUPERVISIÓN Y SEGUIMIENTO DE LAS ACCIONES DE LOS CENTROS DE ATENCIÓN DE LAS PERSONAS CON PROBLEMAS DE CONSUMO PERJUDICIAL DE SUSTANCIAS PSICOACTIVAS
@@ -1398,3 +1402,11 @@ P.O. 30 DE JUNIO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 22 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 343.- SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 82 DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN INTEGRAL Y CONTROL DE LAS ADICIONES (SIC) EN EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
