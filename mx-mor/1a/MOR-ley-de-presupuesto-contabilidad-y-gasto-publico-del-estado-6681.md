@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-6681
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-08"
-last_updated: "2019-08-28"
+last_updated: "2025-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 8 de febrero de 1995.
 
@@ -65,7 +65,7 @@ LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE MORELOS
 
 La presente Ley es de orden público y de observancia general y tiene por objeto normar las acciones relativas a la programación, presupuestación, aprobación, ejercicio, control, contabilidad y evaluación de los ingresos y egresos públicos.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 2.
 
@@ -99,21 +99,25 @@ XIII. Entes Públicos o Ejecutores del Gasto, a los Poderes Ejecutivo, Legislati
 
 XIV. Gasto Corriente, a las erogaciones que no tienen como contrapartida la creación de un activo, incluyendo, de manera enunciativa, el gasto en servicios personales, materiales y suministros, y los servicios generales, así como las transferencias, asignaciones, subsidios, donativos y apoyos;
 
-XV. Gasto Público, a la totalidad de erogaciones aprobadas en el Presupuesto de Egresos del Gobierno del Estado y adicionalmente, las amortizaciones a la Deuda Pública;
+XV. Gasto No Programable, a las erogaciones a cargo del Gobierno del Estado y los ayuntamientos que derivan del cumplimiento de obligaciones legales o de su respectivo presupuesto de egresos que no corresponden directamente a los programas para proveer bienes y servicios públicos, así como aquellos recursos federales con destino específico de gasto, como parte de la descentralización de las funciones de la Federación de acuerdo a la Ley de Coordinación Fiscal;
 
-XVI. Ley de Ingresos, a la que apruebe el Congreso del Estado anualmente, a iniciativa del Titular del Poder Ejecutivo Estatal;
+XVI. Gasto Programable, a las erogaciones que se destinan al cumplimiento de los fines y funciones propias del Estado, que se encuentran directamente relacionados con los programas a cargo de los ejecutores del gasto previamente establecidos, para alcanzar los objetivos y metas, y así proveer de bienes y servicios los cuales tienen un efecto directo en la actividad económica y social de la población;
 
-XVII. Organismos Públicos Autónomos, a los creados o reconocidos con tal carácter en la Constitución Política del Estado Libre y Soberano de Morelos;
+XVII. Gasto Público, a la totalidad de erogaciones aprobadas en el Presupuesto de Egresos del Gobierno del Estado y adicionalmente, las amortizaciones a la Deuda Pública;
 
-XVIII. Órganos de relevancia constitucional, a los Órganos que sin ser Organismo Público Autónomo (sic), por su importancia y funciones son creados en la Constitución Política del Estado Libre y Soberano de Morelos;
+XVIII. Ley de Ingresos, a la que apruebe el Congreso del Estado anualmente, a iniciativa del Titular del Poder Ejecutivo Estatal;
 
-XIX. Poder Ejecutivo, al conjunto de unidades que componen la Administración Pública Central y Paraestatal;
+XIX. Organismos Públicos Autónomos, a los creados o reconocidos con tal carácter en la Constitución Política del Estado Libre y Soberano de Morelos;
 
-XX. Presupuesto de Egresos, al que contenga el Decreto aprobado por el Congreso del Estado a iniciativa del Titular del Poder Ejecutivo Estatal para el ejercicio fiscal que corresponda;
+XX. Órganos de relevancia constitucional, a los Órganos que sin ser Organismo Público Autónomo, por su importancia y funciones son creados en la Constitución Política del Estado Libre y Soberano de Morelos;
 
-XXI. Secretaría, a la Secretaría de Hacienda del Poder Ejecutivo Estatal, y
+XXI. Poder Ejecutivo, al conjunto de unidades que componen la Administración Pública Central y Paraestatal;
 
-XXII. Sistema de Evaluación del Desempeño, al conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de las metas y objetivos, con base en indicadores de desempeño, que permitan conocer el impacto social de los programas y proyectos.
+XXII. Presupuesto de Egresos, al que contenga el Decreto aprobado por el Congreso del Estado a iniciativa del Titular del Poder Ejecutivo Estatal para el ejercicio fiscal que corresponda;
+
+XXIII. Secretaría, a la Secretaría de Administración y Finanzas del Poder Ejecutivo Estatal, y
+
+XXIV. Sistema de Evaluación del Desempeño, al conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de las metas y objetivos, con base en indicadores de desempeño, que permitan conocer el impacto social de los programas y proyectos.
 
 Cualquier otro término que no se integre en el presente articulado se deberá entender en los términos del glosario de la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y, en su caso, del Presupuesto de Egresos del Gobierno del Estado del ejercicio fiscal que corresponda.
 
@@ -469,6 +473,14 @@ El ejercicio del Gasto Público comprende el manejo y aplicación de los recurso
 
 La comprobación del Gasto Público se efectuará con la documentación original que demuestre la entrega del pago correspondiente, que reúna los requisitos que reglamenten: la Secretaría en el Poder Ejecutivo; la Comisión de Hacienda, Presupuesto y Cuenta Pública en el Poder Legislativo; el Consejo de la Judicatura en el Poder Judicial; el órgano de gobierno en las Entidades Paraestatales y Paramunicipales y las Tesorerías Municipales en los Ayuntamientos.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Artículo 34 BIS. El gasto programable se integra por los capítulos de gasto: servicios personales; materiales y suministros; servicios generales; transferencias, asignaciones, subsidios y otras ayudas; bienes muebles, inmuebles e intangibles; inversión pública, inversiones financieras y otras provisiones, sin considerar las erogaciones en dichos capítulos con destino específico de gasto como parte de la descentralización de las funciones de la Federación de acuerdo a la Ley de Coordinación Fiscal.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Artículo 34 TER. El gasto no programable se integra por las participaciones y aportaciones federales que se transfieren a los municipios y las aportaciones a las entidades paraestatales como parte de la descentralización de las funciones de la Federación, así como la amortización, el servicio y el costo financiero de la deuda.
+
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 35.
@@ -499,17 +511,21 @@ Toda erogación del Estado deberá contar con saldo suficiente en la partida del
 
 Las asignaciones consignadas en el Presupuesto de Egresos señalan el límite máximo de las erogaciones, que no podrán excederse, salvo que se trate de partidas o conceptos de gasto de ampliación automática, o de partidas correspondientes a empréstitos o a contratos de colaboración público privada en los casos en que deban ajustar su monto de manera automática previstos en el Artículo 32 de la Constitución Política del Estado Libre y Soberano de Morelos. En el caso de las partidas o concepto de gasto de ampliación automática no será necesario agotarlas si ello no se requiere.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 40.
 
-En el caso de que se requieran ampliaciones presupuestales:
+En el caso de que se requieran ampliaciones presupuestales, se estará a lo siguiente:
 
-I. El Ejecutivo del Estado solicitará la autorización respectiva al Congreso del Estado, y
+I. Los Entes públicos, con excepción de los Municipios, deberán presentar su solicitud de ampliación presupuestal ante el Ejecutivo del Estado, ante quien deberán justificar su solicitud y exhibir la información y documentación que acredite fehacientemente que no cuenta con recursos suficientes para el cumplimiento de la obligación por la que requiere recursos adicionales a los aprobados en el Presupuesto de Egresos.
 
-II. El Presidente Municipal solicitará la autorización respectiva al Cabildo correspondiente.
+En caso de que no sea remitida de manera correcta y completa la información y documentación señalada en el párrafo que antecede, el Ejecutivo del Estado requerirá al Ente Público la documentación faltante, en el supuesto de que no la exhiba, se tendrá por no presentada la solicitud y se dará cuenta de ello al Congreso del Estado.
 
-Las adecuaciones presupuestales y el acta de la sesión de Cabildo en que se autoricen, dentro de los quince días siguientes al de la sesión serán enviadas por el Presidente Municipal al Congreso del Estado para su conocimiento y efectos de la revisión de la Cuenta Pública.
+Si del análisis a la información y documentación presentada por el Ente Público, se acredita que éste cuenta con la capacidad para afrontar el cumplimiento de la obligación por la que requiere recursos adicionales, se rechazará la solicitud de ampliación presupuestal y se comunicará tal determinación al Congreso del Estado.
+
+En caso de que se acredite por el Ente Público la necesidad de la ampliación presupuestal, el Ejecutivo del Estado emitirá un Dictamen Técnico y remitirá la solicitud respectiva al Congreso del Estado, a efecto de que éste autorice en su caso, la ampliación presupuestal y modificación al Presupuesto de Egresos, y
+
+II. Tratándose de ampliaciones presupuestales de los Municipios, el Presidente Municipal realizará la solicitud al Cabildo. Las adecuaciones presupuestales y el acta de la sesión de Cabildo en que se autoricen, dentro de los quince días siguientes al de la sesión serán enviadas por el Presidente Municipal al Congreso del Estado para su conocimiento y efectos de la revisión de la Cuenta Pública.
 
 En los casos a que se refiere este artículo se requerirá identificar la fuente de ingresos correspondiente.
 
@@ -896,3 +912,17 @@ SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publi
 TERCERA. Las reformas realizadas por virtud del DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO, publicado en el Periódico Oficial “Tierra y Libertad”, número 5695 alcance, el 10 de abril de 2019, que no han sido objeto de derogación por virtud del presente instrumento; continuarán surtiendo sus efectos a partir de la vigencia del citado Decreto.
 
 CUARTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NOVECIENTOS NOVENTA Y SIETE.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE MORELOS, DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS, DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE MORELOS, DE LA LEY GENERAL DE BIENES DEL ESTADO DE MORELOS Y DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto a la Gobernadora del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del 01 de enero de 2026, previa publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERA. La Secretaría de Administración y Finanzas expedirá a más tardar el día 30 de enero de 2026, los Lineamientos, en que se establezcan las condiciones y requisitos que deberán observar los municipios en el ejercicio de los recursos el Fondo de Aportaciones Estatales para el Fomento de los Municipios.
+
+Los municipios deberán informar a la Secretaría de Administración y Finanzas del Poder Ejecutivo a más tardar el 15 de enero de 2026, los datos de la Cuenta Bancaria Productiva Específica a que se refiere el artículo 15 que por virtud de este Decreto se reforma a la Ley de Coordinación Hacendaria del Estado de Morelos.
+
+CUARTA. Se derogan todas las disposiciones legales y normativas que contravengan lo señalado en el presente Decreto.
