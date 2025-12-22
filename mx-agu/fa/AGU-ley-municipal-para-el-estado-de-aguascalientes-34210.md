@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2025-10-20"
+last_updated: "2025-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -624,6 +624,10 @@ LXIII. Reglamentar, en el ámbito de su competencia, las medidas de seguridad ne
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE OCTUBRE DE 2025)</small>
 
 LXIV. Las demás que le confieran la presente Ley y otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Los Ayuntamientos, en el ámbito de sus atribuciones, podrán establecer en sus Bandos y Reglamentos mecanismos de orientación, acompañamiento psicosocial y medidas restaurativas para atender las faltas administrativas cometidas por niñas, niños y adolescentes. Dichas medidas deberán involucrar, en su caso, a madres, padres o personas tutoras, con el objeto de fortalecer la corresponsabilidad familiar y promover la educación cívica, evitando sanciones punitivas desproporcionadas.
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 2019)</small>
 
@@ -2413,6 +2417,14 @@ VII. En caso de que la falta administrativa implique algún acto de acoso callej
 
 Las sanciones establecidas en las Fracciones II y V del presente Artículo podrán ser conmutadas voluntariamente por el infractor por servicio comunitario siempre que acredite inequívocamente su identidad y domicilio; dicho servicio deberá ser por el mismo número de horas que el arresto impuesto; invariablemente, la autoridad municipal competente determinará la procedencia de la solicitud de conmutación, señalando los días, horas y lugares en que deba realizarse el servicio, los cuales no deberán coincidir con el horario laboral del infractor y sólo hasta la ejecución del mismo cancelará la sanción.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Tratándose de faltas administrativas cometidas por niñas, niños y adolescentes, la autoridad municipal privilegiará medidas restaurativas, educativas y preventivas, en sustitución de las sanciones de multa o arresto previstas en este artículo, conforme al principio del interés superior de la niñez.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+En caso de reincidencia de niñas, niños o adolescentes en faltas administrativas, cuando la autoridad municipal determine que dicha conducta se origina o se agrava por el incumplimiento reiterado de los deberes de cuidado, vigilancia o acompañamiento de madres, padres o personas tutoras, el Ayuntamiento podrá prever en su Bando de Policía y Gobierno la imposición de sanciones administrativas a éstos, priorizando medidas de carácter educativo, de orientación familiar o de servicio comunitario, en coordinación con el Sistema DIF Municipal y la Procuraduría de Protección de Niñas, Niños y Adolescentes, garantizando en todo momento el derecho de audiencia y el principio del interés superior de la niñez.
+
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2010)</small>
 
 Artículo 179 BIS.- Para efectos del último párrafo del Artículo que antecede se consideran servicios comunitarios, la prestación voluntaria y gratuita de las siguientes actividades:
@@ -2427,7 +2439,13 @@ IV. Prestar personalmente a la comunidad un servicio gratuito que esté relacion
 
 Si el infractor no realiza los servicios comunitarios, la autoridad municipal competente emitirá en su contra una orden de presentación, dejará sin efecto la conmutación, y le aplicará el arresto o multa que se le había impuesto. Si realizó parcialmente el servicio comunitario, únicamente se le podrá aplicar el arresto o multa de forma proporcional a la parte que dejo de cumplir.
 
-La ejecución de los servicios comunitarios será realizada en términos del Reglamento que el efecto emitan los Ayuntamientos del Estado.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Cuando los servicios comunitarios se apliquen como medida restaurativa respecto de adolescentes, se diseñarán con enfoque educativo y de no estigmatización, procurando su reinserción social, la participación de madres, padres o tutores y el acompañamiento psicosocial. En el caso de niñas y niños, únicamente podrán implementarse medidas de orientación, apoyo familiar o acompañamiento psicosocial, evitando cualquier forma de trabajo o prestación de servicios comunitarios.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+La ejecución de las medidas restaurativas y, en su caso, de los servicios comunitarios, se realizará conforme a los Bandos y Reglamentos Municipales, y a los lineamientos que para tal efecto emitan los Ayuntamientos del Estado, en coordinación con la Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2010)</small>
 
@@ -2966,3 +2984,27 @@ P.O. 20 DE OCTUBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 22 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 348.- SE REFORMA LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos deberán adecuar sus bandos y reglamentos para incorporar las medidas restaurativas previstas en este Decreto, en un plazo no mayor a ciento ochenta días naturales contados a partir de su entrada en vigor.
+
+###### ARTÍCULO TERCERO.
+
+La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes, en coordinación con el Sistema DIF Estatal y los Sistemas DIF Municipales, emitirá los lineamientos orientadores para la aplicación de las medidas restaurativas y de corresponsabilidad familiar, en un plazo no mayor a noventa días naturales a partir de la publicación del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Sistema DIF Estatal, en coordinación con los Sistemas DIF Municipales, desarrollará en un plazo no mayor a ciento veinte días naturales los programas de orientación, apoyo psicosocial y fortalecimiento familiar que sirvan de base para la implementación de las medidas restaurativas.
+
+###### ARTÍCULO QUINTO.
+
+Los Ayuntamientos, en coordinación con el Sistema DIF Estatal, deberán capacitar a jueces cívicos y personal operativo en enfoque restaurativo, derechos humanos e interés superior de la niñez, en un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
