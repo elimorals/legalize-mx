@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-servicio-civil-del-estado-de-morelos-17928"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-06"
-last_updated: "2025-10-29"
+last_updated: "2025-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2025.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE OCTUBRE DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2000.
 
@@ -115,15 +115,15 @@ LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS
 
 La presente Ley es de observancia general y obligatoria para el Gobierno Estatal y los Municipios del Estado de Morelos y tiene por objeto determinar los derechos y obligaciones de los trabajadores a su servicio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 2.
 
 El trabajador al servicio del Estado, es la persona física que presta un servicio subordinado en forma permanente o transitoria, en virtud de nombramiento expedido a su favor por alguno de los Poderes del Estado, por un Municipio, o por una Entidad Paraestatal o Paramunicipal. Tienen ese mismo carácter quienes laboran sujetos a lista de raya o figuran en las nóminas de las anteriores instituciones.
 
-Dado que por la naturaleza de su función, al ser depositarios de un poder, u ostentar la representación de un organismo y por carecer de la condición de subordinación, quedan excluidos de la definición prevista en el párrafo que antecede, el Gobernador, los Magistrados Numerarios, Supernumerarios e integrantes del Consejo de la Judicatura del Tribunal Superior de Justicia, los Magistrados integrantes del Tribunal Contencioso Administrativo y del Tribunal Unitario de Justicia para Adolescentes, así como los Magistrados integrantes del Tribunal Estatal Electoral; los Diputados locales, los Presidentes Municipales, Síndicos y Regidores integrantes de los 33 Cabildos de la Entidad, los Titulares de las Dependencias que integran la Administración Pública Paraestatal y Paramunicipal.
+Gozan de prestaciones burocráticas diversas a las establecidas en la presente Ley, quienes perciban sus emolumentos derivados de un convenio de colaboración con la Federación que establezca prestaciones específicas y sustentadas en normatividad federal o colectiva de la misma naturaleza a las que señala la presente Ley y sean financiadas total o parcialmente con recursos federales.
+
+Dado que por la naturaleza de su función, al ser depositarios de un poder, u ostentar la representación de un organismo y por carecer de la condición de subordinación, quedan excluidos de la definición prevista en el párrafo primero, el Gobernador, los Magistrados Numerarios, Supernumerarios e integrantes del Consejo de la Judicatura del Tribunal Superior de Justicia, los Magistrados integrantes del Tribunal Contencioso Administrativo y del Tribunal Unitario de Justicia para Adolescentes, así como los Magistrados integrantes del Tribunal Estatal Electoral; los Diputados locales, los Presidentes Municipales, Síndicos y Regidores integrantes de los 33 Cabildos de la Entidad, los Titulares de las Dependencias que integran la Administración Pública Paraestatal y Paramunicipal.
 
 ###### Artículo 3.
 
@@ -517,11 +517,13 @@ El salario descrito en el párrafo anterior no podrá modificarse atendiendo a c
 
 Los trabajadores al servicio del Gobierno del Estado o de los Municipios, tendrán derecho a un aguinaldo anual de 90 días de salario. El aguinaldo estará comprendido en el presupuesto anual de egresos y se pagará en dos partes iguales, la primera a más tardar el 15 de diciembre y la segunda a más tardar el 15 de enero del año siguiente. Aquéllos que hubieren laborado una parte del año, tendrán derecho a recibir la parte proporcional de acuerdo con el tiempo laborado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2013)</small>
+No serán considerados en el párrafo que antecede, quienes perciban sus emolumentos derivado (sic) de un convenio de colaboración que establezca prestaciones diversas a las que señala la presente Ley y sean financiadas total o parcialmente con recursos federales atendiendo al contenido de la norma o convenio específico.
 
-Dado que por la naturaleza de su función, al ser depositarios de un poder u ostentar la representación de un organismo y por carecer de la condición de subordinación, quedan excluidos para gozar de esta prerrogativa de Ley, el Gobernador, los Magistrados Numerarios, Supernumerarios e integrantes del Consejo de la Judicatura del Tribunal Superior de Justicia, los Magistrados integrantes del Tribunal Contencioso Administrativo y del Tribunal Unitario de Justicia para Adolescentes, así como los Magistrados integrantes del Tribunal Estatal Electoral; los Diputados locales, los Presidentes Municipales, Síndicos y Regidores integrantes de los 33 Cabildos de la Entidad, los Titulares de las Dependencias que integran la Administración Pública Paraestatal y Paramunicipal.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+Dado que por la naturaleza de su función, al ser depositarios de un poder u ostentar la representación de un organismo y por carecer de la condición de subordinación, quedan excluidos para gozar de esta prerrogativa de Ley, la Persona Titular del Poder Ejecutivo Estatal, los Magistrados Numerarios, Supernumerarios e integrantes del Consejo de la Judicatura del Tribunal Superior de Justicia, los Magistrados integrantes del Tribunal Contencioso Administrativo y del Tribunal Unitario de Justicia para Adolescentes, así como los Magistrados integrantes del Tribunal Estatal Electoral; los Diputados locales, los Presidentes Municipales, Síndicos y Regidores integrantes de los 33 Cabildos de la Entidad, los Titulares de las Dependencias que integran la Administración Pública Paraestatal y Paramunicipal.
 
 ## TÍTULO QUINTO. DE LOS DERECHOS Y DE LAS OBLIGACIONES
 
@@ -917,11 +919,11 @@ CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVA
 
 EL H. CONGRESO DEL ESTADO DEBERÁ EXPEDIR EL DECRETO CORRESPONDIENTE A PARTIR DE LA FECHA EN QUE SE TENGA POR RECIBIDA LA DOCUMENTACIÓN NECESARIA PARA SU TRAMITACIÓN, EN UN TÉRMINO DE TREINTA DÍAS DURANTE EL PERÍODO ORDINARIO DE SESIONES. EN CASO DE QUE LA LEGISLATURA SE ENCUENTRE EN RECESO, DEBERÁ CONTABILIZARSE DICHO TÉRMINO A PARTIR DE QUE INICIE EL PERÍODO ORDINARIO DE SESIONES INMEDIATO.
 
-> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 57 Bis.
 
-La Comisión de Trabajo, Previsión y Seguridad Social del Congreso del Estado de Morelos y los Cabildos Municipales, en su caso, al momento de realizar el trámite de otorgamiento de una pensión a los trabajadores al servicio del Estado y de los Municipios de nuestro Estado, tienen la facultad de realizar la investigación correspondiente tendiente a comprobar fehacientemente los datos que acrediten la antigüedad necesaria para el goce de la misma.
+La Comisión de Trabajo, Previsión y Seguridad Social del Congreso del Estado de Morelos y los Cabildos Municipales, en su caso, al momento de realizar el trámite de otorgamiento de una pensión a los trabajadores al servicio del Estado y de los Municipios de nuestro Estado, que establece el artículo 2, párrafo primero, de esta Ley, con excepción de quienes se encuentran en el supuesto de lo dispuesto por el artículo 2, segundo párrafo, de la presente Ley, tienen la facultad de realizar la investigación correspondiente tendiente a comprobar fehacientemente los datos que acrediten la antigüedad necesaria para el goce de la misma.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
@@ -949,9 +951,11 @@ La Secretaría encargada de la Hacienda Pública Estatal deberá publicar en el 
 
 Asimismo, la Secretaría encargada de la Hacienda Pública Estatal deberá publicar en el Periódico Oficial “Tierra y Libertad”, los formatos y medios electrónicos por los que se dé cumplimiento a lo dispuesto por este artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 58.
 
-La pensión por jubilación se otorgará a los trabajadores que hayan prestado sus servicios en cualquiera de los tres Poderes del Estado y/o de los Municipios, de conformidad con las siguientes disposiciones:
+La pensión por jubilación se otorgará a los trabajadores al servicio del Estado, que hayan prestado sus servicios en cualquiera de los tres Poderes del Estado o de los Municipios, con excepción de quienes se encuentran en el supuesto de lo dispuesto por el artículo 2, segundo párrafo, de esta Ley, con las siguientes disposiciones:
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2005)</small>
 
@@ -1930,3 +1934,17 @@ PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo Estatal 
 SEGUNDA. El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2025.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NOVECIENTOS NOVENTA Y SIETE POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE MORELOS, DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS, DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE MORELOS, DE LA LEY GENERAL DE BIENES DEL ESTADO DE MORELOS Y DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS".]</small>
+
+PRIMERA. Remítase el presente Decreto a la Gobernadora del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del 01 de enero de 2026, previa publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERA. La Secretaría de Administración y Finanzas expedirá a más tardar el día 30 de enero de 2026, los Lineamientos, en que se establezcan las condiciones y requisitos que deberán observar los municipios en el ejercicio de los recursos el (sic) Fondo de Aportaciones Estatales para el Fomento de los Municipios.
+
+Los municipios deberán informar a la Secretaría de Administración y Finanzas del Poder Ejecutivo a más tardar el 15 de enero de 2026, los datos de la Cuenta Bancaria Productiva Específica a que se refiere el artículo 15 que por virtud de este Decreto se reforma a la Ley de Coordinación Hacendaria del Estado de Morelos.
+
+CUARTA. Se derogan todas las disposiciones legales y normativas que contravengan lo señalado en el presente Decreto.
