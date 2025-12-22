@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1247
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-12-06"
-last_updated: "2025-05-10"
+last_updated: "2025-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nuevo León, el miércoles 6 de diciembre de 2017.
 
@@ -61,9 +61,9 @@ V. Fiscalía Especializada en Delitos Electorales: La Fiscalía Especializada en
 
 VI. Fiscal Especializado en Delitos Electorales: La persona titular de la Fiscalía Especializada en Delitos Electorales;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-VII. Fiscalías Especializadas: La Fiscalía Especializada en Combate a la Corrupción del Estado de Nuevo León, la Fiscalía Especializada en Delitos Electorales del Estado de Nuevo León; la Fiscalía Especializada Antisecuestros, la Fiscalía Especializada en Feminicidios; la Fiscalía Especializada en Tortura, la Fiscalía Especializada en Inteligencia Financiera, la Fiscalía Especializada en Materia Ambiental, y las demás Fiscalías Especializadas de la Fiscalía General de Justicia del Estado de Nuevo León;
+VII. Fiscalías Especializadas: La Fiscalía Especializada en Combate a la Corrupción del Estado de Nuevo León, la Fiscalía Especializada en Delitos Electorales del Estado de Nuevo León; la Fiscalía Especializada Antisecuestros, la Fiscalía Especializada en Feminicidios y Delitos Cometidos contra la Mujer; la Fiscalía Especializada en Tortura, la Fiscalía Especializada en Inteligencia Financiera, la Fiscalía Especializada en Materia Ambiental, y las demás Fiscalías Especializadas de la Fiscalía General de Justicia del Estado de Nuevo León;
 
 VIII. Ley: La Ley Orgánica de la Fiscalía General de Justicia del Estado de Nuevo León;
 
@@ -209,7 +209,9 @@ IV. Fiscalía Especializada en Delitos Electorales;
 
 V. Fiscalía Especializada Antisecuestros;
 
-VI. Fiscalía Especializada en Feminicidios;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+VI. Fiscalía Especializada en Feminicidios y Delitos Cometidos contra las Mujeres;
 
 > <small>(ADICIONADA, P.O. 12 DE MAYO DE 2021)</small>
 
@@ -1408,3 +1410,9 @@ SEGUNDO.- Se establece un plazo de hasta 30 días naturales contados a partir de
 TERCERO.- La Fiscalía General de Justicia del Estado de Nuevo León, expedirá las reformas a su Reglamento Interno, para dar cumplimiento a las disposiciones de la Ley Orgánica de la Fiscalía General de Justicia del Estado de Nuevo León que por este Decreto se modifican, en un plazo no mayor a noventa días a partir de la entrada en vigor del mismo.
 
 CUARTO.- El Poder Ejecutivo del Estado, a través de la Secretaría de Finanzas y Tesorería General del Estado, deberá proveer las partidas presupuestales necesarias para la implementación de las presentes disposiciones, en el primer presupuesto de Egresos del Estado que se apruebe de forma posterior a la entrada en vigor del presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 159. SE REFORMAN LAS FRACCIONES VII DEL ARTÍCULO 2 Y VI DEL ARTÍCULO 10 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO: El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
