@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-de-asesoria-y-defensoria-publica-del-29330"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-17"
-last_updated: "2024-07-01"
+last_updated: "2025-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29330&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DEL INSTITUTO DE ASESORÍA Y DEFENSORÍA PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de marzo de 2003.
 
@@ -913,13 +913,11 @@ El ejercicio de los recursos del Instituto se ajustará siempre a los criterios 
 
 ### CAPITULO UNICO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 35.
 
-El Instituto contará con un órgano de vigilancia a través de un Comisario Público y su respectivo suplente, quienes serán designados por el titular de la Secretaría de Fiscalización y Rendición de Cuentas del Estado.
+El Instituto contará con un órgano de vigilancia a través de un Comisario Público y su respectivo suplente, quienes serán designados por la persona Titular del Poder Ejecutivo, quien escuchará y analizará las propuestas que le formulen la persona titular de la Secretaría General de Gobierno y la Contraloría del Estado, para tal efecto.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -969,13 +967,17 @@ VI. Las demás que establece esta Ley, el estatuto y demás disposiciones legale
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTICULO 37.
 
-El personal del Instituto se regirá por las disposiciones del Estatuto de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes y de sus Municipios.
+El personal del Instituto se regirá por las disposiciones del Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios, Órganos Constitucionales Autónomos y Organismos Descentralizados del Estado de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 38.
 
-El personal del Instituto estará incorporado en los términos de la Ley de Seguridad y Servicios Sociales para los Trabajadores Públicos del Estado de Aguascalientes.
+El personal del Instituto estará incorporado en los términos de la Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1244,3 +1246,11 @@ P.O. 1 DE JULIO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 22 DE DICIEMBRE DE 2025.
+
+> <small>[N. DE E. TRANSTORIO DEL “DECRETO NÚMERO 347.- SE REFORMA LA LEY DEL INSTITUTO DE ASESORÍA Y DEFENSORÍA PÚBLICA DEL ESTADO DE AGUASCALIENTES”.]</small>
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
