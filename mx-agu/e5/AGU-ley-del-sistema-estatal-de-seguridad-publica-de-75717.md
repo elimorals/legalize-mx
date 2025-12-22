@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-seguridad-publica-de-75717"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-02"
-last_updated: "2025-09-22"
+last_updated: "2025-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de agosto de 2010.
 
@@ -1117,13 +1117,17 @@ b) Proporcionar atención a víctimas, ofendidos y testigos del delito;
 
 XL. Hacer uso de la fuerza pública dentro de los límites y en los casos y circunstancias que establece la presente Ley, las demás disposiciones legales aplicables y procedimientos previamente establecidos, así como los lineamientos, manuales y acuerdos que al efecto expidan las Instituciones de Seguridad Pública;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-XLI. Proporcionar y cumplimentar medidas u órdenes de protección de las mujeres, adolescentes y niñas en términos de lo dispuesto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes y el Código Nacional de Procedimientos Penales; y
+XLI. Proporcionar y cumplimentar medidas u órdenes de protección de las mujeres, adolescentes y niñas en términos de lo dispuesto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes y el Código Nacional de Procedimientos Penales;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE JULIO DE 2025)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-XLII. Las demás que establezcan el Código y otras disposiciones legales o reglamentarias aplicables.
+XLII. Actuar en todo momento con perspectiva de género, enfoque de derechos humanos y enfoque diferenciado, considerando las condiciones particulares de las personas pertenecientes a grupos de situación de vulnerabilidad, y garantizar la no revictimización en sus intervenciones; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE DICIEMBRE DE 2025)</small>
+
+XLIII. Las demás que establezcan el Código y otras disposiciones legales reglamentarias aplicables.
 
 ###### Artículo 42.
 
@@ -3088,5 +3092,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 22 DE SEPTIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 247.- SE REFORMAN (SIC) LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 22 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 344.- SE REFORMA LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
