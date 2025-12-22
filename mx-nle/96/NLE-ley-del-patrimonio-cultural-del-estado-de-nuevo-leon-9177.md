@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-patrimonio-cultural-del-estado-de-nuevo-leon-9177"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-23"
-last_updated: "2025-11-07"
+last_updated: "2025-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9177&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE REGIRÁ TODO LO RELATIVO AL PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 23 de diciembre de 1991.
 
@@ -109,9 +109,9 @@ I.- El Gobernador del Estado;
 
 II.- La Secretaría General de Gobierno;
 
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-III.- La Secretaría de Igualdad e Inclusión;
+III.- La Secretaría de Cultura;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
@@ -165,11 +165,11 @@ El Sector Educativo, las Juntas de Protección y Conservación y los Institutos 
 
 Los Ayuntamientos promoverán la formación de asociaciones civiles y juntas vecinales, así como la organización de representantes de los sectores más significativos de la población, como órganos auxiliares para impedir el deterioro o destrucción del patrimonio y promover su enriquecimiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 13o.
 
-La Secretaría de Igualdad e Inclusión cuidará de que el pueblo tenga acceso al disfrute de los bienes culturales del Estado que puedan ser objeto de exposiciones o se encuentren en museos, bibliotecas o cualquier establecimiento público.
+La Secretaría de Cultura cuidará de que el pueblo tenga acceso al disfrute de los bienes culturales del Estado que puedan ser objeto de exposiciones o se encuentren en museos, bibliotecas o cualquier establecimiento público.
 
 Así mismo, instituirá dentro del sistema educativo los cursos que sean necesarios para dar a conocer a las nuevas generaciones los valores culturales y despertar en ellas el amor por dichos valores.
 
@@ -359,9 +359,9 @@ Cualquier transmisión de propiedad requerirá previo permiso de la Secretaría 
 
 La adscripción al patrimonio cultural del estado, de un bien propiedad de los organismos públicos descentralizados, de las empresas paraestatales o paramunicipales y de las personas físicas o morales privadas, producirá los siguientes efectos:
 
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-I.- Solo podrá ser gravado u objeto de actos de traslación de dominio previo aviso por escrito a la Secretaría de Igualdad e Inclusión y a la Junta de Protección y Conservación;
+I.- Solo podrá ser gravado u objeto de actos de traslación de dominio previo aviso por escrito a la Secretaría de Cultura y a la Junta de Protección y Conservación;
 
 > <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
@@ -415,15 +415,15 @@ En los casos del artículo anterior, serán solidaria y mancomunadamente respons
 
 REPRODUCCIONES:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 35o.
 
-La reproducción de bienes adscritos al patrimonio cultural requiere el consentimiento por escrito del propietario de la dependencia de la Secretaría de Igualdad e Inclusión del estado.
+La reproducción de bienes adscritos al patrimonio cultural requiere el consentimiento por escrito del propietario de la dependencia de la Secretaría de Cultura del estado.
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
-Toda reproducción deberá llevar inscrita en forma indeleble la siguiente leyenda "Reproducción autorizada por la Secretaría de Igualdad e Inclusión del estado de Nuevo León".
+Toda reproducción deberá llevar inscrita en forma indeleble la siguiente leyenda "Reproducción autorizada por la Secretaría de Cultura del estado de Nuevo León".
 
 ###### ARTICULO 36o.
 
@@ -573,19 +573,19 @@ Las partes que intervengan en actos traslativos de dominio de bienes muebles ads
 
 Son aplicables en lo conducente a la inscripción de declaratorias de zonas protegidas, las disposiciones de este capítulo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 63.
 
-La Secretaría de Igualdad e Inclusión del Estado o la Junta de Protección y Conservación, correspondiente, en su caso, formularán los inventarios y catálogos de los bienes adscritos al patrimonio cultural o que se encuentren dentro de la zona protegida.
+La Secretaría de Cultura del Estado o la Junta de Protección y Conservación, correspondiente, en su caso, formularán los inventarios y catálogos de los bienes adscritos al patrimonio cultural o que se encuentren dentro de la zona protegida.
 
 Para este efecto los encargados de los Registros Públicos de la Propiedad, deben enviarle de inmediato copias de los asientos registrales a que se refiere el artículo 55 de esta Ley.
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 64.
 
-Deberán anexarse a las declaratorias de adscripción de bienes culturales o de zonas protegidas, los inventarios y catálogos respectivos, de los cuales la Secretaría de Igualdad e Inclusión del Estado llevará un registro.
+Deberán anexarse a las declaratorias de adscripción de bienes culturales o de zonas protegidas, los inventarios y catálogos respectivos, de los cuales la Secretaría de Cultura del Estado llevará un registro.
 
 ### CAPITULO XI
 
@@ -599,17 +599,17 @@ La declaración de bienes culturales se hará mediante decreto del Ejecutivo del
 
 La protección de los valores culturales a que se refiere esta Ley, comprende las acciones de investigar, rescatar, actualizar, preservar y difundir su conocimiento, tanto por las autoridades y órganos de apoyo, como por los particulares interesados.
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 67.
 
-Las acciones a que se refiere el artículo anterior, estarán a cargo de la Secretaría de Igualdad e Inclusión del Estado, de los órganos de apoyo y de los particulares interesados, y su finalidad será considerar los valores culturales del Estado como factor de integración de sus habitantes y expansión de la propia civilización.
+Las acciones a que se refiere el artículo anterior, estarán a cargo de la Secretaría de Cultura del Estado, de los órganos de apoyo y de los particulares interesados, y su finalidad será considerar los valores culturales del Estado como factor de integración de sus habitantes y expansión de la propia civilización.
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 68.
 
-La Secretaría de Igualdad e Inclusión del Estado, elaborará un catálogo que contenga la descripción de las tradiciones, costumbres, trajes típicos o cualquiera otra manifestación, que por sus características merezca ser adscrita al Patrimonio Cultural.
+La Secretaría de Cultura del Estado, elaborará un catálogo que contenga la descripción de las tradiciones, costumbres, trajes típicos o cualquiera otra manifestación, que por sus características merezca ser adscrita al Patrimonio Cultural.
 
 ### CAPITULO XII
 
@@ -868,3 +868,9 @@ P.O. 7 DE NOVIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 139. SE REFORMAN LAS FRACCIONES III Y IV DEL ARTÍCULO 8; PRIMER PÁRRAFO DEL ARTÍCULO 13; LA FRACCIÓN I DEL ARTÍCULO 27; PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 35; PRIMER PÁRRAFO DEL ARTÍCULO 63; Y LOS ARTÍCULOS 64; 67; 68 Y 86, DE LA LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 51; EL PRIMER PÁRRAFO DEL ARTÍCULO 55 Y LA FRACCIÓN V DEL ARTÍCULO 60, DE LA LEY PARA PREVENIR, ATENDER Y ERRADICAR EL ACOSO Y LA VIOLENCIA ESCOLAR DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO. El presente Decreto entrará en vigor al siguiente (sic) de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 158. SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 8; EL PRIMER PÁRRAFO DEL ARTÍCULO 13, LA FRACCIÓN I DEL ARTÍCULO 27; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 35, EL PRIMER PÁRRAFO DEL ARTÍCULO 63, Y LOS ARTÍCULOS 64; 67; 68 DE LA LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEÓN; Y SE ADICIONAN DOS PÁRRAFOS AL ARTÍCULO 60 DE LA LEY PARA PREVENIR, ATENDER Y ERRADICAR EL ACOSO Y LA VIOLENCIA ESCOLAR DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO. El presente Decreto entrará en vigor al (sic) siguiente de su publicación en el Periódico Oficial del Estado.
