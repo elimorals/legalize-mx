@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-427-del-sistema-de-coordinacion-hacendaria-del-76227
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-13"
-last_updated: "2024-12-31"
+last_updated: "2025-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76227&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY NUMERO 427 DEL SISTEMA DE COORDINACION HACENDARIA DEL ESTADO DE GUERRERO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY NÚMERO 427 DEL SISTEMA DE COORDINACIÓN HACENDARIA DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 13 de agosto de 2010.
 
@@ -549,11 +551,29 @@ Estas Participaciones en ningún caso podrán ser embargadas y sólo podrán afe
 
 También, podrán ser afectadas como garantía de pago de las obligaciones en materia de seguridad social previa autorización del Congreso a favor del Instituto de Seguridad Social de los Servidores Públicos del Estado de Guerrero, cuando exista mora acreditable de 60 días naturales, del entero de las cuotas, aportaciones y descuentos.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2025)</small>
+
+Procederá la compensación de participaciones e incentivos que se realice respecto de las obligaciones que el estado y sus municipios tengan con la Federación, cuando exista acuerdo entre las partes. Asimismo, procederá la compensación de las participaciones correspondientes a los municipios, por las obligaciones que los ayuntamientos y sus entes públicos, en términos de las disposiciones legales aplicables, tenga con el estado, cuando así se haya convenido.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2025)</small>
+
+A fin de salvaguardar el principio de estabilidad de las finanzas públicas, para llevar a cabo la celebración de convenios por medio de los cuales los municipios a través de sus ayuntamientos, así como los entes públicos de sus administraciones paraestatales convengan la compensación de participaciones o incentivos respecto a obligaciones con la Federación, se deberá contar con la participación del gobierno del estado.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2025)</small>
+
+En estos casos, el ayuntamiento deberá convenir previamente con el estado que éste lleve a cabo la retención a través de la Secretaría, de los comprometidos directamente por el ayuntamiento o bien por los entes públicos municipales con la Federación, y que hayan sido objeto de compensación por parte de la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2025)</small>
+
+Las entidades paraestatales de la administración pública estatal, a efecto de celebrar los actos jurídicos a través de los cuales convengan la afectación o compensación de participaciones con la Federación, deberán convenir previamente con el gobierno del estado la forma en que se llevará a cabo la recuperación de los recursos que, por concepto de participaciones federales, la Secretaría de Hacienda y Crédito Público afecte o compense al estado por este concepto.
+
 ### CAPÍTULO II. DE LA COLABORACIÓN ADMINISTRATIVA EN MATERIA DE INGRESOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 35.
 
-El Ejecutivo del Estado, por conducto de la Secretaría, podrá celebrar con los municipios de la Entidad, Convenios de Colaboración administrativa respecto de la Hacienda pública Estatal y Municipal, así como en materia de Ingresos Federales Coordinados.
+El ejecutivo del estado, por conducto de la Secretaría, podrá celebrar con los municipios de la Entidad, convenios de colaboración administrativa respecto de la Hacienda Pública Estatal y Municipal, así como en materia de Ingresos Federales Coordinados, a fin de promover acciones que permitan a los municipios obtener participaciones extraordinarias de los Ingresos Fiscales Propios que recaude el estado; convenir compensaciones en sus participaciones por el incumplimiento en el pago de sus obligaciones fiscales derivadas de contribuciones federales coordinadas o estatales a cargo, siempre que dicho incumplimiento haya sido determinado mediante resolución firme emitida por autoridad competente; así también, los municipios podrán celebrar convenios para ceder la potestad de cobro de sus ingresos propios como lo señala el Código Fiscal del Estado, a fin de mejorar e incrementar sus recaudaciones propias.
 
 Los Convenios que celebren el Estado y sus Municipios se suscribirán por el Titular del Ejecutivo del Estado, el Secretario General de Gobierno y el Secretario de Finanzas y Administración, así como por el Presidente Municipal, el Secretario General del Ayuntamiento, el Síndico de Hacienda en caso de que tenga dos el Municipio, y el Tesorero correspondiente.
 
@@ -1078,3 +1098,13 @@ PRIMERO. Las reformas, adiciones y derogaciones relativas al presente Decreto, e
 SEGUNDO. Comuníquese el presente Decreto a la Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
 
 TERCERO. Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado de Guerrero para su observancia y conocimiento general.
+
+P.O. 23 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 297 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 427 DEL SISTEMA DE COORDINACIÓN HACENDARIA DEL ESTADO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día 01 de enero del año 2026.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Remítase a la Titular del Poder Ejecutivo del Estado, para los efectos legales conducentes y su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
