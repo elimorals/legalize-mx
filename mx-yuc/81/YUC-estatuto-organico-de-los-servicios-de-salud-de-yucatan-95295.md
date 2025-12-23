@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-de-los-servicios-de-salud-de-yucatan-95295"
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-07-15"
-last_updated: "2021-11-12"
+last_updated: "2025-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DE LOS "SERVICIOS DE SALUD DE YUCATÁN"
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE DICIEMBRE DE 2025.
 
 Estatuto publicado en el Diario Oficial del Estado de Yucatán, el lunes 15 de julio de 2013.
 
@@ -579,7 +579,7 @@ X. (DEROGADA, D.O. 12 DE NOVIEMBRE DE 2021)
 
 XI. (DEROGADA, D.O. 12 DE NOVIEMBRE DE 2021)
 
-XII. Coordinación Estatal de Caravanas de la Salud;
+XII. (DEROGADA, D.O. 23 DE DICIEMBRE DE 2025)
 
 XIII. Coordinación Estatal de Enfermería, y
 
@@ -679,7 +679,9 @@ VIII. Establecer y supervisar los programas autorizados de adquisiciones, conser
 
 IX. Proponer acciones de racionalización y optimización de los programas de adquisición, conservación y mantenimiento de bienes muebles del Organismo;
 
-X. Coordinar los procesos de adquisición de bienes, arrendamientos y contratación de servicios del Organismo, de conformidad con las disposiciones legales y normativas aplicables;
+> <small>(REFORMADA, D.O. 23 DE DICIEMBRE DE 2025)</small>
+
+X. Autorizar los procesos de adquisición de bienes, arrendamientos y contratación de servicios del Organismo; así como solicitar a la Dirección de Asuntos Jurídicos elaborar, modificar, prorrogar o cancelar contratos, promover, suspender o rescindir anticipadamente contratos, autorizar la ejecución de penas convencionales, reclamar o liberar garantías de conformidad con las disposiciones legales y normativas aplicables;
 
 XI. Promover ante la Dirección de Asuntos Jurídicos la regularización de bienes inmuebles propiedad del Organismo;
 
@@ -705,9 +707,21 @@ La Dirección de Administración, para el estudio, planeación y despacho de los
 
 I. Subdirección de Recursos Humanos;
 
-II. Subdirección de Recursos Materiales, y
+> <small>(REFORMADA, D.O. 23 DE DICIEMBRE DE 2025)</small>
 
-III. Subdirección de Procesos Internos.
+II. Subdirección de Recursos Materiales;
+
+> <small>(REFORMADA, D.O. 23 DE DICIEMBRE DE 2025)</small>
+
+III. Subdirección de Procesos Internos;
+
+> <small>(ADICIONADA, D.O. 23 DE DICIEMBRE DE 2025)</small>
+
+IV. Subdirección de Seguimiento de Contratos, y
+
+> <small>(ADICIONADA, D.O. 23 DE DICIEMBRE DE 2025)</small>
+
+V. Subdirección de Almacenes, Control Patrimonial y Archivo Institucional.
 
 De igual forma, esta Dirección contará con los departamentos, oficinas y demás unidades administrativas que apruebe el Director General dentro del presupuesto que le sea asignado a esta Dirección y el esquema autorizado por la Junta de Gobierno.
 
@@ -1280,3 +1294,15 @@ Este acuerdo entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Inscripción en el Registro de Entidades Paraestatales
 
 El director general de los Servicios de Salud de Yucatán, en un plazo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo, deberá realizar la inscripción de las modificaciones efectuadas por este acuerdo al Estatuto orgánico de los Servicios de Salud de Yucatán en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas.
+
+D.O. 23 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO SSY 03/2025 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DE LOS SERVICIOS DE SALUD DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+La persona titular de la Dirección General de los Servicios de Salud de Yucatán, en un plazo máximo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo, deberá realizar la inscripción en el Registro de Entidades Paraestatales que lleva la Secretaria de Administración y Finanzas, el Acuerdo por el que se modifica el Estatuto Orgánico de los Servicios de Salud de Yucatán.
