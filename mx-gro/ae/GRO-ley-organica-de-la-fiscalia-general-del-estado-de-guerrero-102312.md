@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-de-la-fiscalia-general-del-estado-de-guerrero-1023
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-08-01"
-last_updated: "2024-03-12"
+last_updated: "2025-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102312&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUERRERO. NÚMERO 500
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2025.
 
 Ley publicada en el alcance del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -313,11 +313,15 @@ i). Traslado de la víctima u ofendido a refugios o albergues temporales, así c
 
 j). El regreso de la víctima u ofendido a su domicilio, una vez que se salvaguarde su integridad.
 
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2025)</small>
+
+XXXIV. Iniciar y coordinar de manera inmediata las acciones de búsqueda de personas desaparecidas, sin que esté condicionada por plazo alguno, sin ninguna demora o dilación y de manera expedita, una vez que se tenga conocimiento del hecho por cualquier medio o se tengan indicios de que una persona haya sido sometida a una desaparición, atendiendo en todo momento lo dispuesto en el Protocolo Homologado para la Búsqueda de Personas Desaparecidas y No Localizadas, expedido por el Sistema Nacional de Búsqueda de Personas.
+
 > <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
 
-XXXIV. Iniciar de manera inmediata la investigación y búsqueda de la mujer o mujeres desaparecidas, una vez que tenga conocimiento del hecho delictivo de manera oficiosa o previa denuncia, debiendo observar lo dispuesto por la Ley Número 553 de Acceso de las Mujeres a una Vida Libre de Violencia del Estado Libre y Soberano de Guerrero, así como los protocolos de actuación en la materia. El incumplimiento de esta disposición será considerada (sic) como grave, en materia de responsabilidad del servidor público; y
+XXXV. Iniciar de manera inmediata la investigación y búsqueda de la mujer o mujeres desaparecidas, una vez que tenga conocimiento del hecho delictivo de manera oficiosa o previa denuncia, debiendo observar lo dispuesto por la Ley Número 553 de Acceso de las Mujeres a una Vida Libre de Violencia del Estado Libre y Soberano de Guerrero, así como los protocolos de actuación en la materia. El incumplimiento de esta disposición será considerada (sic) como grave, en materia de responsabilidad del servidor público; y
 
-XXXV. Las demás funciones que le atribuyan otras disposiciones legales, aplicables a diversas materias del derecho.
+XXXVI. Las demás funciones que le atribuyan otras disposiciones legales, aplicables a diversas materias del derecho.
 
 > <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
@@ -1846,3 +1850,13 @@ PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicac
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
 
 TERCERO.- Comuníquese al Ejecutivo del Estado para los efectos legales conducentes.
+
+P.O. 23 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 287 POR EL QUE SE ADICIONA LA FRACCIÓN XXXIV Y RECORREN LAS FRACCIONES SUBSECUENTES DEL ARTÍCULO 11 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUERRERO, NÚMERO 500".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
+
+TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
