@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-817-para-las-personas-con-discapacidad-del-84760"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-20"
-last_updated: "2024-08-09"
+last_updated: "2025-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 817 PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE GUERRERO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 20 de diciembre de 2011.
 
@@ -615,9 +615,13 @@ III. Educación general y especial; y
 
 IV. Rehabilitación socioeconómica y laboral
 
-V. La evaluación y seguimiento del proceso de rehabilitación desde el punto de vista físico, psicológico y laboral para ubicar al discapacitado de acuerdo con su aptitud y actitud ante el trabajo.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2025)</small>
 
-En todo proceso de rehabilitación deberán incluirse tanto a la persona discapacitada como a sus familiares.
+V. La evaluación y seguimiento del proceso de rehabilitación desde el punto de vista físico, psicológico y laboral para ubicar a la persona con discapacidad de acuerdo con su aptitud y actitud ante el trabajo.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2025)</small>
+
+En todo proceso de rehabilitación deberán incluirse tanto a la persona con discapacidad como a sus familiares.
 
 ###### ARTÍCULO 42.
 
@@ -671,7 +675,9 @@ V. Diseñar y ejecutar programas de estímulos a los docentes que destaquen en l
 
 VI. Garantizar el acceso al lenguaje de señas y sistema braille, así como la edición, producción y existencia de libros y videos con ambos sistemas en todas las bibliotecas;
 
-VII. Apoyar los proyectos innovadores que incorporen conocimientos, métodos y técnicas vanguardistas, que generen resultados exitosos tendientes a lograr que las niñas y niños y jóvenes no sean discapacitados ni física ni mentalmente;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2025)</small>
+
+VII. Promover proyectos innovadores que integren conocimientos, métodos y técnicas de vanguardia para generar resultados exitosos, enfocados en atender de manera integral las necesidades de niñas, niños y jóvenes con alguna discapacidad, fomentando su desarrollo pleno y reduciendo los factores que puedan afectar su bienestar físico y mental;
 
 VIII. Fomentar la educación a distancia, aprovechando los avances tecnológicos que la comunicación actual ofrece;
 
@@ -1184,3 +1190,13 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Remítase este Decreto a la Gobernadora del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
 
 TERCERO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en la Gaceta Oficial del Poder Legislativo del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
+
+P.O. 23 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 290 POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 41 Y LA FRACCIÓN VII DEL ARTÍCULO 50 DE LA LEY NÚMERO 817 PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE GUERRERO".]
+
+PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO: Remítase a la Titular del Poder Ejecutivo para su conocimiento y su publicación en el Periódico Oficial del Gobierno del Estado para conocimiento general.
+
+TERCERO: Publíquese en la página web oficial del Congreso del Estado Libre y Soberano de Guerrero, para conocimiento general.
