@@ -4,7 +4,7 @@ identifier: "GRO-ley-que-establece-las-bases-para-el-procedimiento-al-que-14740"
 country: "mx"
 rank: "ley"
 publication_date: "1988-06-17"
-last_updated: "2019-12-20"
+last_updated: "2025-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY QUE ESTABLECE LAS BASES PARA EL PROCEDIMIENTO AL QUE DEBERÁ AJUSTARSE LA INSCRIPCIÓN DE LOS PREDIOS SUB-URBANOS Y RÚSTICOS EN EL REGISTRO PÚBLICO DE LA PROPIEDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 17 de junio de 1988.
 
@@ -71,11 +71,11 @@ Esta Ley tiene por objeto establecer las bases a las que debe ajustarse el proce
 
 Para los efectos de esta Ley se considerarán predios Sub urbanos, los que están localizados en las áreas adyacentes o periféricas de un centro de Población y que son susceptibles de urbanizarse y rústicos, aquellos predios que están destinados al uso agrícola, ganadero y forestal, dividiéndose el primero en “de riego, jugo o humedad” y “de temporal”, y el segundo en “cultivado”, “de agostadero” y “cerril”.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 4o.
 
-Quienes estén en posesión de predios sub urbanos y rústicos, que tengan una extensión no mayor de 30 hectáreas en cualquier calidad y cuyo valor no exceda de la cantidad de $1,000,000.00 (Un Millón de Pesos 00/100 M.N.), reuniendo los requerimientos de tiempo y condiciones exigidas para prescribirlos, y no posean un Título de Propiedad, o teniéndolo y éste sea defectuoso, podrán regularizar su situación legal mediante la presentación de una solicitud por escrito dirigida al Titular del Poder ejecutivo, acompañado de la totalidad de los documentos siguientes:
+Quienes estén en posesión de predios suburbanos y rústicos, que tengan una extensión no mayor de 30 hectáreas y no menor a 500 m2 en cualquier calidad y cuyo valor no exceda la cantidad de $2´000,000.00 (Dos millones de pesos 00/100 M.N.), exclusivos del medio rural y no destinados a uso turístico, particularmente aquellos que colinden con la Zona Federal, así como Federal Marítimo Terrestre, que no se encuentre en la zona urbana, y que reúnan los requerimientos en tiempo y condiciones exigidas para su prescripción, y no posean un título de propiedad, o teniéndolo este sea defectuoso, podrán regularizar su situación legal mediante solicitud ante la Coordinación General de Catastro, acompañada de la totalidad de los documentos siguientes:
 
 I. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2019)
 
@@ -99,9 +99,9 @@ VI. Contrato de compra venta, a nombre de la persona que pretende regularizar su
 
 VII. Constancia de no Afectación Agraria expedida por el Registro Agrario Nacional.
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2025)</small>
 
-VIII. Cuando el predio que se pretende regularizar colinde con Zona Federal, deberá presentar una constancia de no afectación, expedido (sic) por las dependencias federales correspondientes.
+VIII. Cuando el predio que se pretende regularizar colinde con la Zona Federal, así como Federal Marítima Terrestre, deberá presentar una Constancia de No Afectación expedida por dependencias federales correspondientes, quedando estrictamente prohibida la regularización de las zonas marítimas propiedad de la Nación.
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
@@ -136,6 +136,10 @@ El Gobierno del Estado por conducto de la Coordinación General de Catastro valo
 ###### ARTICULO 8o.
 
 Si durante el procedimiento y hasta entes de la resolución se presentase persona alguna alegando derechos sobre el procedimiento objeto de la promoción, acreditando interés jurídico, el procedimiento se suspenderá, quedando a salvo los derechos de los interesados para que los hagan valer ante la autoridad judicial competente.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2025)</small>
+
+Quedan excluidos de los beneficios que otorga esta Ley, los predios cuya posesión se obtuvo a partir de hechos ilícitos y todos los que no pueden poseerse a título de dueño en virtud de cualquier otra disposición legal, previa resolución de la autoridad competente.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2019)</small>
 
@@ -212,3 +216,15 @@ PRIMERO.- Las reformas, adiciones y derogaciones relativas al presente Decreto, 
 SEGUNDO.- Remítase al Poder Ejecutivo para los efectos legales conducentes.
 
 TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado, así como en la página oficial del Poder Legislativo, para su observancia y conocimiento general.
+
+P.O. 23 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 300 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY QUE ESTABLECE LAS BASES PARA EL PROCEDIMIENTO AL QUE DEBERÁ AJUSTARSE LA INSCRIPCIÓN DE LOS PREDIOS SUB-URBANOS Y RÚSTICOS EN EL REGISTRO PÚBLICO DE LA PROPIEDAD”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día 01 de enero de 2026.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Remítase a la titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero, y los efectos legales conducentes.
+
+CUARTO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, para su conocimiento general.
