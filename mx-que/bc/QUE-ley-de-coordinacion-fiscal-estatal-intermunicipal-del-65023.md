@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-coordinacion-fiscal-estatal-intermunicipal-del-65023"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-13"
-last_updated: "2024-12-23"
+last_updated: "2025-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY DE COORDINACIÓN FISCAL ESTATAL INTERMUNICIPAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 13 de diciembre de 2008.
 
@@ -33,7 +33,9 @@ LIC. FRANCISCO GARRIDO PATRÓN, Gobernador Constitucional del Estado de Queréta
 
 LA QUINCUAGÉSIMA QUINTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE LOS ARTÍCULOS 17 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERETARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto, la Quincuagésima Quinta Legislatura del Estado de Querétaro, aprueba la siguiente:
 
@@ -117,7 +119,13 @@ Para determinar el porcentaje que a cada municipio corresponde, por concepto del
 
 (RPM) + (RIM) + (RMS) + (RZM) = Porcentaje por municipio.
 
-Tratándose de la distribución a los municipios de la recaudación por concepto del Impuesto Especial sobre Producción y Servicios por la enajenación de gasolinas o diesel, a que se refiere el penúltimo párrafo del artículo 4o-A. de la Ley de Coordinación Fiscal, se considerará el setenta por ciento atendiendo a los niveles de población, conforme a lo señalado en la fracción I del artículo anterior. El treinta por ciento restantes se distribuirá de acuerdo a los ingresos propios, en los términos de la fracción II del artículo anterior.
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 23 DE DICIEMBRE DE 2025)</small>
+
+Tratándose de la distribución a los municipios de la recaudación por concepto del Impuesto Especial sobre Producción y Servicios por la enajenación de gasolinas o diésel, a que se refiere el penúltimo párrafo del artículo 4o-A. de la Ley de Coordinación Fiscal, se considerará el setenta por ciento atendiendo a los niveles de población, conforme a lo señalado en la fracción I del artículo anterior. El treinta por ciento restante se distribuirá de acuerdo a lo siguiente:
+
+I. El veinte por ciento se asignará de acuerdo con la zonificación para los municipios del Estado en los términos que establece el artículo 12 de la presente Ley, y
+
+II. El diez por ciento restante se distribuirá de acuerdo a los ingresos propios, en los términos de la fracción II del artículo anterior.
 
 Cuando la Legislatura del Estado determine un porcentaje mayor al veinte por ciento del total de las participaciones federales, el excedente será repartido como lo señale la misma, de acuerdo a la Ley de Bases, Montos y Plazos para la Distribución de Participaciones Federales a los Municipios del Estado de Querétaro, conforme a los cuales se distribuirán las participaciones federales de cada año.
 
@@ -1406,5 +1414,21 @@ XL. Para los Asentamientos en proceso de regularización con la Comisión de Reg
 De los recursos obtenidos por concepto de los derechos establecidos en las fracciones III a la XII del artículo 168 de la Ley de Hacienda del Estado de Querétaro se destinará, por cada operación realizada conforme a dichas disposiciones, un monto de $5.00 (cinco pesos 00/100 M.N.), para la ejecución de acciones en materia de protección al ambiente, preservación y restauración del equilibrio ecológico de las entidades pertenecientes a la Comisión Ambiental de la Megalópolis durante la vigencia del convenio que para tal efecto se celebre entre el Poder Ejecutivo del Estado de Querétaro y la Secretaría de Medio Ambiente y Recursos Naturales.
 
 ###### ARTÍCULO OCTAVO.
+
+Envíese al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 23 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA LA LEY DE COORDINACIÓN FISCAL ESTATAL INTERMUNICIPAL DEL ESTADO DE QUERÉTARO".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día 01 de enero de 2026, ordenándose su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
 
 Envíese al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
