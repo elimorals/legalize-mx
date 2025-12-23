@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-483-de-instituciones-y-procedimientos-101753"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2023-06-09"
+last_updated: "2025-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 483 DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el lunes 30 de junio de 2014.
 
@@ -335,7 +335,9 @@ Si del resultado de la elección de mayoría relativa no se obtiene la paridad d
 
 Hecho lo anterior, se procederá a asignar una diputación a cada género de manera alternada y respetando el orden de prelación de la lista.
 
-Ningún partido político deberá contar con más de 28 diputados por ambos principios. En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2025)</small>
+
+Ningún partido político deberá contar con más de 28 diputados por ambos principios. En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación estatal efectiva. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación estatal efectiva más el ocho por ciento. Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación estatal efectiva que le corresponda menos ocho puntos porcentuales.
 
 Las vacantes de las diputadas y diputados electos por el principio de representación proporcional serán cubiertas por los suplentes de la fórmula electa correspondiente. Si la vacante se presenta respecto de la fórmula completa, será cubierta por aquella fórmula de candidatas o candidatos del mismo partido y que corresponda al mismo género que siga en el orden de la lista respectiva, después de habérsele asignado las diputadas o los diputados que le hubieren correspondido.
 
@@ -8016,3 +8018,13 @@ CUARTO.- El Instituto Electoral y de Participación Ciudadana, a la entrada en v
 QUINTO.- Envíese un ejemplar del presente Decreto al Instituto Electoral y de Participación Ciudadana y al Tribunal Electoral, ambos del Estado de Guerrero, para los efectos conducentes.
 
 SEXTO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado y en la página web del Congreso del Estado, para conocimiento general y efectos legales procedentes.
+
+P.O. 23 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 285 POR EL QUE SE REFORMA EL PÁRRAFO SEXTO DEL ARTÍCULO 13 DE LA LEY NÚMERO 483 DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
+
+TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
