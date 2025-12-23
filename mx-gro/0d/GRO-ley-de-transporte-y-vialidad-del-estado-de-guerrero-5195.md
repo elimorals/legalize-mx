@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-transporte-y-vialidad-del-estado-de-guerrero-5195"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2024-09-13"
+last_updated: "2025-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY DE TRANSPORTE Y VIALIDAD DEL ESTADO DE GUERRERO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE TRANSPORTE Y VIALIDAD DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 6 de junio de 1989.
 
@@ -519,27 +521,19 @@ La Dirección General de Tránsito, Caminos, Puertos y Aeropuertos del Estado, m
 
 Las licencias de manejo que se expidan a personas menores de edad no podrán tener una vigencia superior a 180 días.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 28.
 
-La Secretaría de Finanzas y Administración a través de la Subsecretaría de Ingresos, ejercerá el control en todo el territorio del Estado, de las formas que se utilicen en la expedición de licencias para conducir vehículos de motor o eléctricos, mismas que deberán estar debidamente foliadas.
+La Secretaría de Finanzas y Administración, por conducto de la Subsecretaría de Ingresos, ejercerá en todo el territorio del Estado el control de las formas valoradas utilizadas para la expedición de licencias homologadas para conducir vehículos, así como de los permisos provisionales para circular sin placas por treinta días, tanto para el servicio público como para el privado. Dichos formatos deberán estar debidamente foliados, conforme a los lineamientos que emita la propia Secretaría.
 
-> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+Las autoridades competentes en materia de tránsito, tanto del ámbito estatal como municipal, deberán adquirir las formas valoradas a través del portal electrónico de la Secretaría de Finanzas y Administración o mediante los mecanismos que ésta determine. La Subsecretaría de Ingresos llevará el registro y control de los folios digiales y los distribuirá electrónicamente a dichas autoridades.
 
-El control técnico estará a cargo de la Comisión Técnica de Transporte y Vialidad.
+El pago de los derechos e impuestos adicionales derivados de la expedición de licencias, permisos y demás conceptos vinculados se realizará exclusivamente a través del portal electrónico de la Secretaría de Finanzas y Administración, o por los mecanismos autorizados por ésta.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+Las autoridades competentes en materia de tránsito del Estado y de los municipios deberán informar a la Secretaría de Finanzas y Administración, por conducto de la Subsecretaría de Ingresos, sobre el total de licencias expedidas, permisos otorgados, conceptos cobrados y folios digitales utilizados, de conformidad con los plazos y lineamientos que al efecto se emitan.
 
-Las Direcciones Generales de Tránsito Estatal y Municipales solicitarán la impresión de formas para licencias, permisos; y todos los demás conceptos señalados en la Ley de Ingresos vigente, a la Subsecretaría de Ingresos, la cual llevará el registro y control de folios que sean distribuidos por las Administraciones Fiscales tanto a la Dirección General de Tránsito, Caminos, Puertos y Aeropuertos como a sus Delegaciones en el Estado y Municipales.
-
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2018)</small>
-
-Asimismo, el pago de los derechos e impuestos adicionales que se originen por la expedición de licencias, permisos y los demás conceptos a que hace referencia el párrafo que antecede, deberá hacerse exclusivamente en la Administración Fiscal de la Secretaría de Finanzas y Administración de su jurisdicción correspondiente.
-
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2018)</small>
-
-La Dirección General de Tránsito, Caminos, Puertos y Aeropuertos del Estado y sus delegaciones, y las direcciones de tránsito municipales en el Estado, informarán mensualmente a la Secretaría de Finanzas y Administración sobre el total de licencias expedidas, permisos otorgados y otros conceptos cobrados, así como, los números de folios utilizados por medio de cortes de efectos y cortes de ingresos.
+Las licencias de conducir homologadas en el Estado deberán ser validadas por la Dirección General del Centro Estatal de Información e Inteligencia Policial, conforme a los lineamientos del Sistema Nacional de Seguridad Pública, y registradas en dicho Sistema para su consulta y verificación por las autoridades competentes.
 
 ### CAPITULO V. DE LOS VEHICULOS
 
@@ -2138,3 +2132,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Para su conocimiento y efectos legales conducentes, remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado.
 
 TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en el portal electrónico del Congreso del Estado, para su conocimiento general y efectos legales procedentes.
+
+P.O. 23 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 299 POR EL QUE SE REFORMA EL ARTÍCULO 28 DE LA LEY DE TRANSPORTE Y VIALIDAD DEL ESTADO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrará en vigor el primero de enero del año 2026.
+
+SEGUNDO. La Secretaría de Finanzas y Administración deberá emitir los lineamientos a que se refiere el artículo 28 reformado, dentro de los 30 días naturales a su entrada en vigor, y los dará a conocer a las autoridades estatales y municipales en materia de tránsito y de expedición de licencias de conducir y permisos para circular sin placas por un término de 30 días.
+
+TERCERO. Se derogan todas las disposiciones y ordenamientos fiscales que se opongan al presente Decreto.
+
+CUARTO. Remítase a la Titular del Poder Ejecutivo del Estado, para los efectos legales conducentes y su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
