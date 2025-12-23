@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-495-del-registro-civil-del-estado-de-guerrero-79768"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-04"
-last_updated: "2024-03-12"
+last_updated: "2025-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 495 DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado en Alcance I, el Martes 4 de enero de 2011.
 
@@ -402,6 +402,22 @@ II. Por la creación de nuevos municipios que obligue al cambio de número de la
 ###### Artículo 31.
 
 Cuando se autorice la apertura de una Oficialía del Registro Civil la Coordinación Técnica del Sistema Estatal del Registro Civil deberá asignar una clave que la identifique. Cuando en un municipio exista más de una oficialía, deberán de identificarse con el número progresivo que le corresponda a cada una de ellas, de acuerdo a su fecha de creación.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMRE DE 2025)</small>
+
+###### Artículo 31 Bis.
+
+En los casos de creación de nuevos municipios en el estado, la Coordinación Técnica del Sistema Estatal del Registro Civil, deberá garantizar la continuidad de los servicios registrales y la conservación integra de los acervos.
+
+Para tal efecto:
+
+I. La Coordinación Técnica del Sistema Estatal del Registro Civil, autorizará la apertura de las oficialías del registro civil correspondiente, asignándole una clave identificadora única en términos del artículo 23 de esta Ley;
+
+II. Las oficialías que se apertura por la creación de un nuevo municipio, iniciara sus funciones registrales con el primer folio progresivo; Acta 0001, Libro 0001 y el año en curso; y
+
+III. Las oficialías de la cabecera municipal de donde se desagregaron las localidades para formar parte del nuevo municipio, conservaran en su sede los libros, apéndices y archivos de los actos registrales de las localidades desagregadas, garantizando su resguardo, integridad y validez jurídica.
+
+La Coordinación Técnica del Sistema Estatal del Registro Civil será responsable de supervisar y certificar mediante acta circunstanciada el proceso de asignación de clave garantizando que en ningún caso se afecte la validez de los actos registrales previamente realizados.
 
 ###### Artículo 32.
 
@@ -1702,3 +1718,13 @@ SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para para (sic) 
 TERCERO.- Remítase a las Administraciones Públicas Estatal y Municipales, así como a Órganos Autónomos del Estado y con Autonomía Técnica, para su conocimiento general y efectos correspondientes para su debida y exacta observancia.
 
 CUARTO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
+
+P.O. 23 DE DICIEMRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 291 POR EL QUE SE ADICIONA EL ARTÍCULO 31 BIS, A LA LEY NÚMERO 495 DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
