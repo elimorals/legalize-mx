@@ -4,7 +4,7 @@ identifier: "GRO-codigo-fiscal-del-estado-de-guerrero-numero-420-162710"
 country: "mx"
 rank: "codigo"
 publication_date: "2022-12-27"
-last_updated: "2024-12-31"
+last_updated: "2025-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=162710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # CODIGO FISCAL DEL ESTADO DE GUERRERO NUMERO 420
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO FISCAL DEL ESTADO DE GUERRERO NÚMERO 420
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2025.
 
 Código publicado en la Edición Número 103 del Alcance V del Periódico Oficial del Estado de Guerrero, el martes 27 de diciembre de 2022.
 
@@ -233,17 +235,21 @@ Tratándose de la verificación de bienes y de mercancías en transporte, se con
 
 Las autoridades fiscales para la práctica de visitas domiciliarias, del procedimiento administrativo de ejecución, de notificaciones y de embargos precautorios, podrán habilitar los días y horas inhábiles, cuando la persona con quien se va a practicar la diligencia realice las actividades por las que deba pagar contribuciones en días u horas inhábiles. También se podrá continuar en días y horas inhábiles, una diligencia iniciada en días y horas hábiles, cuando la continuación tenga por objeto el aseguramiento de contabilidad o de bienes del particular.
 
-El buzón tributario se regirá conforme al horario de la Zona Centro de México, de conformidad con la Ley del Sistema de Horario en los Estados Unidos Mexicanos y demás normatividad aplicable.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2025)</small>
+
+El buzón tributario se regirá conforme al horario de la Zona Centro de México, de conformidad con la Ley de los Husos Horarios en los Estados Unidos Mexicanos y demás normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 17.
 
-Para los efectos de los artículos 153, 163, 164, 165 y 173 del presente Código, cuando se notifiquen resoluciones administrativas que consten en documentos impresos o digitales firmados con la Firma Electrónica Avanzada (FIEL), de los funcionarios competentes o tratándose del acuse de recibo con sello digital que se emite en la notificación electrónica, los contribuyentes podrán comprobar la integridad y autoría de acuerdo con lo siguiente:
+Para los efectos de los artículos 153, 163, 164, 165 y 173 del presente Código, cuando se notifiquen resoluciones administrativas que consten en documentos impresos o digitales firmados con la Firma Electrónica Avanzada, de las personas funcionarias competentes o tratándose del acuse de recibo con sello digital que se emite en la notificación electrónica, las personas contribuyentes podrán comprobar la integridad y autoría de acuerdo con lo siguiente:
 
-I. Para realizar la verificación de la integridad y autoría de documentos impresos firmados con la FIEL del funcionario competente, se estará a lo previsto en el Código Fiscal de la Federación, y
+I. Para realizar la verificación de la integridad y autoría de documentos impresos firmados con la Firma Electrónica Avanzada de la persona funcionaria competente, se estará a lo previsto en el Código Fiscal de la Federación, y
 
-II. Para realizar la verificación de la integridad y autoría de documentos digitales firmados con la FIEL del funcionario competente, o bien, del acuse de recibo que se emite en la notificación electrónica, se estará a lo dispuesto en el Código Fiscal de la Federación.
+II. Para realizar la verificación de la integridad y autoría de documentos digitales firmados con la Firma Electrónica Avanzada de la persona funcionaria competente, o bien, del acuse de recibo que se emite en la notificación electrónica, se estará a lo dispuesto en el Código Fiscal de la Federación.
 
-Se considera Firma Electrónica Avanzada (FIEL): el conjunto de datos y caracteres que permite la identificación del firmante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente al mismo y a los datos a los que se refiere, lo que permite que sea detectable cualquier modificación ulterior de éstos, la cual produce los mismos efectos jurídicos que la firma autógrafa.
+Se considera Firma Electrónica Avanzada: el conjunto de datos y caracteres que permite la identificación del firmante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente al mismo y a los datos a los que se refiere, lo que permite que sea detectable cualquier modificación ulterior de éstos, la cual produce los mismos efectos jurídicos que la firma autógrafa.
 
 ###### Artículo 18.
 
@@ -1125,9 +1131,33 @@ Los sujetos que tengan obligación de presentar declaraciones, manifestaciones y
 
 Si se tiene que declarar más de una obligación, pero en alguna de ellas no hay cantidad a pagar, se deberá anotar “0” en el renglón de la obligación en que se dé dicho supuesto.
 
-Las declaraciones, manifestaciones o avisos, se presentarán en las oficinas exactoras del Estado y en todos los casos se devolverá al interesado una copia sellada.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2025)</small>
 
-Los contribuyentes podrán presentar declaraciones complementarias para corregir, y en su caso, pagar los impuestos omitidos y sus accesorios, los cuales se considerarán espontáneos siempre que no medie requerimiento y no se hayan iniciado las facultades de comprobación. Para lo dispuesto en este párrafo, se entiende que media requerimiento o se han iniciado las facultades de comprobación, incluso cuando se haya dejado citatorio para entender la diligencia al día hábil siguiente al de la realización de la cita.
+Las declaraciones, manifestaciones o avisos, se presentarán en las oficinas fiscales, en las instituciones bancarias o por los medios electrónicos autorizados en el estado de Guerrero, según corresponda, y en todos los casos se devolverá a la persona interesada una copia sellada.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2025)</small>
+
+Las personas contribuyentes podrán presentar declaraciones complementarias para corregir, y en su caso, pagar los impuestos omitidos y sus accesorios, los cuales se considerarán espontáneos siempre que no medie requerimiento y no se hayan iniciado las facultades de comprobación. Para lo dispuesto en este párrafo, se entiende que media requerimiento o se han iniciado las facultades de comprobación, incluso cuando se haya dejado citatorio para entender la diligencia al día hábil siguiente al de la realización de la cita.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2025)</small>
+
+Las declaraciones que presenten las personas contribuyentes solo se podrán modificar hasta en tres ocasiones, mismas que se considerarán complementarias, siempre que no se haya iniciado el ejercicio de las facultades de comprobación.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 23 DE DICIEMBRE DE 2025)</small>
+
+No obstante, lo dispuesto en el párrafo anterior, la persona contribuyente podrá modificar en más de tres ocasiones las declaraciones correspondientes, en los siguientes casos:
+
+I. Incrementen la base gravable;
+
+II. Se hayan iniciado las facultades de comprobación y corrija su situación a satisfacción de la autoridad fiscal pagando las diferencias adeudadas o determinadas, y
+
+III. Cuando la presentación de la declaración que modifica a la original se establezca como obligación por disposición expresa de ley.
+
+Lo dispuesto en los párrafos anteriores no limita las facultades de comprobación de la autoridad fiscal.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2025)</small>
+
+La modificación de las declaraciones se efectuará mediante la presentación de la declaración que sustituya la anterior, debiendo contener todos los datos que se requieran aun cuando se modifique solo alguno de ellos, señalando que se trata de una declaración complementaria, indicando número de referencia, fecha y en su caso el importe pagado de la declaración que se corrige.
 
 ###### Artículo 89.
 
@@ -1299,9 +1329,9 @@ a) La autoridad fiscal realizará la notificación de cualquier acto o resoluci�
 
 b) Las personas contribuyentes presentarán promociones, solicitudes, avisos, o darán cumplimiento a requerimientos de la autoridad, a través de documentos digitales, y podrán realizar consultas sobre su situación fiscal.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2025)</small>
 
-c) La Secretaría de Finanzas y Administración podrá utilizar como un medio de identificación, registro y clasificación de las personas contribuyentes, la Cedula Única de Registro Poblacional, el Registro Federal de Contribuyentes y la e.firma emitida por el Servicio de Administración Tributaria.
+c) La Secretaría de Finanzas y Administración podrá utilizar como un medio de identificación, registro y clasificación de las personas contribuyentes, la Constancia de la Clave Única de Registro de Población, el Registro Federal de Contribuyentes y la Firma Electrónica Avanzada emitida por la autoridad competente en materia de transformación digital.
 
 d) El dictamen fiscal a que se refiere el artículo 106 del presente Código, deberá presentarse a través del Buzón Tributario a que se refiere la presente fracción.
 
@@ -2535,6 +2565,30 @@ Se impondrá pena de tres meses a seis años de prisión al depositario o interv
 
 La acción administrativa del Fisco del Estado, para la pena de los infractores a las leyes caduca en un plazo de cinco años, que se contará a partir del día siguiente a aquél en que se haya cometido la infracción. Si ésta fuera de carácter continuo o continuado, el término correrá a partir del día siguiente en que hubiese cesado la consumación o se hubiese realizado la última conducta o hecho, respectivamente, desde el día siguiente a aquél en que se hubiere cesado.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 150 Bis.
+
+Se impondrá sanción de cuatro meses a dos años de prisión, a la persona y/o tercero que en perjuicio al Fisco del estado realice por acción u omisión y sin autorización de su superior, modifique, destruya, altere, copie o provoque perdida de información contenida en sistemas o equipos de informática pertenecientes a la autoridad fiscal, que estén protegidos por algún sistema de seguridad.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 150 Bis 1.
+
+Son responsables las personas servidoras públicas y se considerará falta administrativa grave, cuando:
+
+I. A través del uso de contraseñas, claves o registros otorgadas por la institución; modifique o altere datos mediante medios electrónicos que comprometan la regularización de la persona contribuyente ante dicha institución, se le impondrá una multa equivalente de 80 a 100 UMAS o una pena de 3 meses a 2 años de prisión;
+
+II. Transfiera, posea o utilice datos identificativos de otra persona con la intención de cometer, intentar o favorecer cualquier actividad ilícita, para beneficio propio o de un tercero, se le impondrá una multa de 80 a 120 UMAS o una pena de 6 meses a 2 años de prisión;
+
+III. Por sí mismo o por tercera persona destruya, sustraiga, oculte o utilice de manera ilícita información o documentación, que se encuentre bajo su custodia a la cual tenga acceso o conocimiento, en razón de su cargo o comisión, se le impondrá una multa de 60 a 90 UMAS hasta una pena de 1 año de prisión;
+
+IV. Teniendo conocimiento por razón de su empleo, cargo o comisión, provoque un daño al patrimonio o los intereses de la dependencia o de la administración pública, por cualquier acto u omisión y no proporcione información a su superior jerárquico o evite realizarlo, se le impondrá una multa de 120 a 160 UMAS hasta una pena de 2 años de prisión, y
+
+V. Apruebe un pago, suscriba el comprobante u orden de pago por servicios prestados no autorizados por su superior jerárquico, se le impondrá una multa de 80 a 100 UMAS o una pena de 1 año de prisión.
+
+La sanción se aplicará de acuerdo con el valor de los bienes y del perjuicio cometido.
+
 ## TÍTULO CUARTO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
 ### CAPÍTULO I. DE LAS NOTIFICACIONES
@@ -2581,6 +2635,46 @@ f) Por buzón tributario.
 
 Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán a cargo de quien incurrió en el incumplimiento, honorarios por la cantidad de 5.29 unidades de medidas y actualización.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2025)</small>
+
+La notificación electrónica de documentos digitales se realizará en el buzón tributario conforme a los lineamientos que para tales efectos establezca la Secretaría de Finanzas y Administración. La facultad mencionada podrá también ser ejercida por los organismos fiscales autónomos.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2025)</small>
+
+El acuse de recibo consistirá en el documento digital con firma electrónica avanzada que transmita la persona destinataria al abrir el documento digital que le haya sido enviado.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2025)</small>
+
+Las notificaciones electrónicas, se tendrán por realizadas cuando se genere el acuse de recibo electrónico en el que conste la fecha y hora en que la persona contribuyente se autenticó para abrir el documento a notificar.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2025)</small>
+
+Previo a la realización de la notificación electrónica, a la persona contribuyente le será enviado un aviso mediante el mecanismo designado por éste, en términos del segundo párrafo del inciso d) de la fracción XIV del artículo 91 de este Código.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2025)</small>
+
+Las personas contribuyentes contarán con tres días para abrir los documentos digitales pendientes de notificar. Dicho plazo se contará a partir del día siguiente a aquél en que le sea enviado el aviso al que se refiere el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2025)</small>
+
+En caso de que la persona contribuyente no abra el documento digital en el plazo señalado, la notificación electrónica se tendrá por realizada al cuarto día, contado a partir del día siguiente a aquél en que le fue enviado el referido aviso.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2025)</small>
+
+La clave de seguridad será personal, intransferible y de uso confidencial, por lo que la persona contribuyente será responsable del uso que dé a la misma para abrir el documento digital que le haya sido enviado.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2025)</small>
+
+El acuse de recibo también podrá consistir en el documento digital con firma electrónica avanzada que genere la persona destinataria del documento remitido al autenticarse en el medio por el cual le haya sido enviado el citado documento.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2025)</small>
+
+Las notificaciones electrónicas estarán disponibles en el portal de Internet establecido al efecto por las autoridades fiscales y podrán imprimirse para la persona interesada, dicha impresión contendrá un sello digital que lo autentifique.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2025)</small>
+
+Las notificaciones en el buzón tributario serán emitidas anexando el sello digital correspondiente, conforme a lo señalado en el artículo 153, fracción VI de este Código.
+
 ###### Artículo 152.
 
 Las notificaciones también podrán hacerse en las oficinas de las autoridades fiscales, si las personas a quienes se tiene que notificar se presentaren en las mismas. Gozarán de plena validez y legalidad, la notificación realizada con quien deba entenderse, aun cuando no se efectúe en el domicilio respectivo o en las oficinas de las autoridades fiscales, siempre y cuando se apegue a lo dispuesto por (sic) artículo 16 del presente ordenamiento.
@@ -2593,9 +2687,9 @@ Los actos administrativos que se deban notificar contarán con los elementos sig
 
 I. Constar por escrito en documento impreso o digital.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2025)</small>
 
-Tratándose de actos administrativos que consten en documentos digitales y deban ser notificados personalmente o por medio del buzón tributario, deberán transmitirse codificados a las personas destinatarias signadas con la firma electrónica de la persona servidora pública competente que los emita.
+Tratándose de actos administrativos que consten en documentos digitales y deban ser notificados personalmente o por medio del buzón tributario, deberán transmitirse codificados a las personas destinatarias signadas con la firma electrónica avanzada avalada por la autoridad competente en materia de transformación digital.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
@@ -2893,9 +2987,11 @@ El embargo de bienes raíces, de derechos reales o negociaciones de cualquier g�
 
 El aseguramiento de bienes podrá realizarse a petición de la persona interesada para garantizar un crédito fiscal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 172.
 
-La autoridad fiscal, tratándose de créditos exigibles, podrá llevar a cabo el embargo de bienes, por buzón tributario, estrados o edictos, siempre que se trate de los siguientes:
+La autoridad fiscal, tratándose de créditos firmes y exigibles, podrá llevar a cabo el embargo de bienes, por buzón tributario, estrados o edictos, siempre que se trate de los siguientes:
 
 I. Depósitos bancarios, componentes de ahorro o inversión asociados a seguros de vida que no formen parte de la prima que haya de erogarse para el pago de dicho seguro, o cualquier otro depósito en moneda nacional o extranjera que se realicen en cualquier tipo de cuenta que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro y préstamo.
 
@@ -3419,9 +3515,13 @@ I. Se interpondrá por el recurrente, el cual deberá satisfacer los requisitos 
 
 Cuando no se haga alguno de los señalamientos anteriores, la autoridad fiscal requerirá al promovente para que en el plazo de diez días lo indique; en caso de incumplimiento, se tendrá por no presentado el recurso.
 
-El recurrente podrá presentar su Recurso Administrativo de Revocación por escrito ante la autoridad que emitió el acto, por Buzón Tributario o de forma directa ante la Procuraduría Fiscal dependiente de la Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración; mediante las reglas de carácter general que al efecto expida la Secretaría de Finanzas y Administración.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2025)</small>
 
-Para el Buzón Tributario, su presentación se sujetará a la verificación de la firma electrónica, expresando el recurrente su opción al momento de presentar su recurso.
+El recurrente podrá presentar su Recurso Administrativo de Revocación por escrito ante la autoridad que emitió el acto, por Buzón Tributario o de forma directa ante la Procuraduría Fiscal dependiente de la Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración; mediante los lineamientos que al efecto expida la Secretaría de Finanzas y Administración.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2025)</small>
+
+Para el Buzón Tributario, su presentación se sujetará a la verificación de la firma electrónica avanzada, expresando el recurrente su opción al momento de presentar su recurso.
 
 Cuando el recurrente haya optado cualquiera de las opciones, por ninguna causa podrá variarla.
 
@@ -3622,3 +3722,19 @@ TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrer
 CUARTO. Los asuntos en trámite y los recursos de revocación que se encuentren pendientes por resolver a la entrada en vigor del presente Decreto continuarán su trámite hasta su conclusión conforme a las disposiciones con que se iniciaron.
 
 QUINTO. Los créditos fiscales generados antes de la vigencia del Código Fiscal del Estado de Guerrero Número 420, publicado en el Periódico Oficial del Gobierno del Estado de Guerrero, de fecha 27 de diciembre del 2022, pero que aún no se hayan notificado se sujetarán a las disposiciones y ordenamientos legales aplicables en el momento en que se generaron.
+
+P.O. 23 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 296 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE GUERRERO NÚMERO 420".]
+
+PRIMERO. El presente Decreto entrará en vigor el primero de enero del año 2026.
+
+SEGUNDO. Los asuntos en trámite y los recursos de revocación que se encuentren pendientes por resolver a la entrada en vigor del presente Decreto continuarán su trámite hasta su conclusión conforme a las disposiciones con que se iniciaron.
+
+TERCERO. Los créditos fiscales generados antes de la vigencia del Código Fiscal del Estado de Guerrero Número 420, publicado en el Periódico Oficial del Gobierno del Estado de Guerrero, de fecha 27 de diciembre del 2022, pero que aún no se hayan notificado se sujetarán a las disposiciones y ordenamientos legales aplicables en el momento en que se generaron.
+
+CUARTO. La Secretaría de Finanzas y Administración deberá emitir los lineamientos previstos en el presente Decreto dentro de los treinta días posteriores a su entrada en vigor.
+
+QUINTO. Se derogan todas las disposiciones y ordenamientos fiscales que se opongan al presente Decreto.
+
+SEXTO. Remítase a la Titular del Poder Ejecutivo del Estado, para los efectos legales conducentes y su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
