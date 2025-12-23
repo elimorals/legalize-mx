@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-manejo-de-los-recursos-publicos-del-estado-de-10428
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2023-06-30"
+last_updated: "2025-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 20 de diciembre de 2014.
 
@@ -1010,6 +1010,12 @@ Son subsidios, los recursos económicos que se otorgan para el desarrollo de act
 Los subsidios serán autorizados por los titulares de las Dependencias o Entidades que designe el Gobernador o el Ayuntamiento, según sea el caso. Dichos titulares, como ejecutores de gasto, serán responsables de la emisión del programa que justifique el otorgamiento de subsidios, así como del ejercicio de los fondos públicos y del cumplimiento de las metas y objetivos previstos en dicho programa, así como de las demás obligaciones que al efecto prevean esta Ley y demás disposiciones aplicables.
 
 Tratándose de designaciones a titulares de Entidades, será suficiente, para su ejecución, el acuerdo que para tal efecto expida el Gobernador o el Ayuntamiento, según sea el caso, a favor del Director General o equivalente correspondiente, a que hacen referencia los artículos 21 y 23 la Ley de la Administración Pública Paraestatal del Estado de Querétaro y, en lo conducente, la Ley Orgánica Municipal del Estado de Querétaro.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 73 Bis.
+
+Los subsidios para cubrir impactos financieros destinados a sectores de la sociedad, podrán además otorgarse con el fin de aminorar las cargas económicas de manera parcial de los sujetos obligados al pago de contribuciones, conforme a la política tributaria que al efecto emitan los gobiernos estatal o municipales mediante el respectivo programa.
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
@@ -2454,3 +2460,19 @@ Artículo Primero. La presente Ley entrará en vigor el día siguiente de su pub
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por la presente Ley.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 23 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY POR LA QUE SE ADICIONA EL ARTÍCULO 73 BIS DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día 01 de enero de 2026, ordenándose su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Envíese al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
