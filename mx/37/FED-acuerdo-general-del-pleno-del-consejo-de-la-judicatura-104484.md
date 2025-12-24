@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-104484"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-15"
-last_updated: "2025-07-03"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104484&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2015-01-06"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2025.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 15 de enero de 2015.
 
@@ -1711,9 +1711,9 @@ VIII. En los casos en que los domicilios de las autoridades a notificar estén a
 
 IX. En caso de que se tenga registro o evidencia de que el domicilio con el que se cuenta no corresponde a la autoridad, a quien se le deba realizar la entrega o bien éste sea inexistente, la UNC deberá devolver los oficios al órgano jurisdiccional, a efecto de que adopte las medidas necesarias para evitar dilaciones. Esta circunstancia deberá informarla a todos los órganos jurisdiccionales a los que presta servicio para evitar el desaprovechamiento de recursos y realizará el registro correspondiente en los sistemas de gestión;
 
-X. Las UNC contarán con un sistema automatizado de gestión que genere rutas, que se asignarán de forma aleatoria y eficiente, de acuerdo con el número de personas notificadoras, autoridades y los domicilios de dichas autoridades. Este sistema permitirá el seguimiento a la ruta generada y facilitará la gestión de las notificaciones. Además, permitirá registrar el número de oficios entregados y la salida de la dependencia, a fin de dar seguimiento puntual al desempeño de sus actividades;
+X. (DEROGADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE DEROGA DIVERSAS PORCIONES NORMATIVAS DEL SIMILAR DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON EL SISTEMA AUTOMATIZADO DE GESTIÓN DE LAS UNIDADES DE NOTIFICADORES COMUNES (SIGNOT), D.O.F. 24 DE DICIEMBRE DE 2025)
 
-XI. Las y los notificadores registrarán en el sistema la finalización de la ruta correspondiente, así como las notificaciones realizadas en dichas jornadas, las incidencias presentadas y el registro de información de aquellos oficios que no pudieron notificarse;
+XI. (DEROGADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE DEROGA DIVERSAS PORCIONES NORMATIVAS DEL SIMILAR DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON EL SISTEMA AUTOMATIZADO DE GESTIÓN DE LAS UNIDADES DE NOTIFICADORES COMUNES (SIGNOT), D.O.F. 24 DE DICIEMBRE DE 2025)
 
 XII. La devolución de las constancias y de los oficios que no pudieron ser notificados, se hará en los horarios de funcionamiento de la UNC, a más tardar al día hábil siguiente de su notificación o de aquel en que haya quedado registrada la imposibilidad de su entrega, y deberán entregarse directamente al personal que el órgano jurisdiccional designe para tal efecto;
 
@@ -6924,3 +6924,13 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
 
 TERCERO. Las Direcciones Generales de Gestión Judicial y de Tecnologías de la Información deberán llevar a cabo las acciones necesarias en el Sistema Integral de Gestión de Expedientes para el debido cumplimiento de este Acuerdo.
+
+D.O.F. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE DEROGA DIVERSAS PORCIONES NORMATIVAS DEL SIMILAR DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON EL SISTEMA AUTOMATIZADO DE GESTIÓN DE LAS UNIDADES DE NOTIFICADORES COMUNES (SIGNOT)”.]
+
+PRIMERO. El presente Acuerdo General entrará en vigor el 1 de enero de 2026.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; en el Sistema Integral de Seguimiento de Expedientes y en el Sistema Integral de Gestión de Expedientes, así como en el portal del Órgano de Administración Judicial en Intranet e Internet.
+
+TERCERO. La Dirección General de Tecnologías de la Información del Órgano de Administración Judicial realizará la programación necesaria en el SIGNOT con la finalidad de que a partir de 2026 se prescinda del SIREM y SIREM Móvil.
