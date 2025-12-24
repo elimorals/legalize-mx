@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-la-creacion-de-la-empresa-paraestatal-que-se-22244"
 country: "mx"
 rank: "ley"
 publication_date: "1985-01-02"
-last_updated: "1985-01-02"
+last_updated: "2025-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22244&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY PARA LA CREACION DE LA EMPRESA PARAESTATAL QUE SE DENOMINARA PRODUCTOS DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO SEISCIENTOS ONCE.- POR EL QUE SE ABROGA LA LEY PARA LA CREACIÓN DE LA EMPRESA PARAESTATAL QUE SE DENOMINARÁ "PRODUCTOS DE MORELOS”, PUBLICADO EN EL P.O. DE 24 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA LA CREACION DE LA EMPRESA PARAESTATAL QUE SE DENOMINARA "PRODUCTOS DE MORELOS"
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el 2 de enero de 1985.
 
@@ -324,3 +326,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 Lic. David Jiménez González
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS ONCE.- POR EL QUE SE ABROGA LA LEY PARA LA CREACIÓN DE LA EMPRESA PARAESTATAL QUE SE DENOMINARÁ "PRODUCTOS DE MORELOS”.]
+
+PRIMERA.– El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Estado de Morelos.
+
+SEGUNDA.– Remítase el presente Decreto a la titular del Poder Ejecutivo Estatal, para los efectos constitucionales procedentes.
+
+TERCERO.- Remítase copia del presente Decreto a la Secretaría de Hacienda y a la Secretaría de Administración, para su conocimiento y efectos administrativos conducentes
