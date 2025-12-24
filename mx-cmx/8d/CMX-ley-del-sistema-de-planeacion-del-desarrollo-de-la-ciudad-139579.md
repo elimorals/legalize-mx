@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-sistema-de-planeacion-del-desarrollo-de-la-ciudad-13957
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-20"
-last_updated: "2025-08-27"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139579&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-12-18"
 
 LEY DEL SISTEMA DE PLANEACIÓN DEL DESARROLLO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el viernes 20 de diciembre de 2019.
 
@@ -101,6 +101,10 @@ X. Instituto: Instituto de Planeación Democrática y Prospectiva de la Ciudad d
 XI. Instrumentos de planeación: el Plan General de Desarrollo de la Ciudad de México, el Programa General de Ordenamiento Territorial y los de cada Alcaldía; el Programa de Gobierno de la Ciudad de México; los programas sectoriales, especiales e institucionales; los programas de gobierno de las Alcaldías; y los programas parciales de las colonias, pueblos y barrios originarios y comunidades indígenas residentes;
 
 XII. Ley de Derechos: Ley Constitucional de Derechos Humanos y sus Garantías de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XII. Bis. Ley de Economía Circular: Ley de Economía Circular de la Ciudad de México.
 
 XIII. Ley: Ley del Sistema de Planeación del Desarrollo de la Ciudad de México;
 
@@ -1179,3 +1183,11 @@ G.O. 27 DE AGOSTO DE 2025.
 PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XIV TER, DEL ARTÍCULO 3 DE LA LEY PARA EL DESARROLLO ECONÓMICO DE LA CIUDAD DE MÉXICO; SE ADICIONA LA FRACCIÓN XII. BIS, AL ARTÍCULO 2 DE LA LEY DEL SISTEMA DE PLANEACIÓN DEL DESARROLLO DE LA CIUDAD DE MÉXICO; SE ADICIONA UNA FRACCIÓN XXV BIS. AL ARTÍCULO 4 DE LA LEY AMBIENTAL DE LA CIUDAD DE MÉXICO; SE ADICIONA UNA FRACCIÓN XV TER. AL ARTÍCULO 3 Y SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 6 DE LA LEY DE RESIDUOS SÓLIDOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. - Remítase a la Persona Titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
