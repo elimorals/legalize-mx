@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-el-desarrollo-de-la-competitividad-de-la-micro-68070"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2021-03-02"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68070&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,9 @@ issue_date: "2009-04-22"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL DISTRITO FEDERAL
+LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 23 de abril de 2009.
 
@@ -42,67 +42,125 @@ DECRETO POR EL QUE SE EXPIDE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE L
 
 Se crea la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa del Distrito Federal en los siguientes términos:
 
-LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DE LA CIUDAD DE MÉXICO
 
 ### CAPÍTULO PRIMERO. DEL ÁMBITO DE APLICACIÓN Y OBJETO DE LA LEY
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta Ley tienen por objeto promover apoyar la viabilidad, productividad, competitividad y sustentabilidad de las micro, pequeñas y medianas empresas radicadas en el Distrito Federal, así como incrementar su participación en el mercado nacional e internacional, logrando para ello el crecimiento de las cadenas productivas con la finalidad de fomentar y preservar el empleo y el bienestar económico de los habitantes del Distrito Federal.
+Las disposiciones de esta Ley tienen por objeto promover apoyar la viabilidad, productividad, competitividad y sustentabilidad de las micro, pequeñas y medianas empresas radicadas en la Ciudad de México, así como incrementar su participación en el mercado nacional e internacional, logrando para ello el crecimiento de las cadenas productivas con la finalidad de fomentar y preservar el empleo y el bienestar económico de los habitantes de la Ciudad de México.
 
-La Ley es de observancia general en todo el territorio del Distrito Federal y sus disposiciones son de orden público e interés social.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+La Ley es de observancia general en todo el territorio de la Ciudad de México y sus disposiciones son de orden público e interés social.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 2.
 
-La autoridad encargada de la aplicación de esta Ley es la Secretaría de Desarrollo Económico del Gobierno del Distrito Federal, quien en el ámbito de su competencia, celebrará convenios para establecer los procedimientos de coordinación en materia de apoyo a la micro, pequeña y mediana empresa, entre las autoridades federales, estatales, municipales y delegacionales, para propiciar la planeación del desarrollo integral del Distrito Federal en congruencia con el Plan General de Desarrollo del Distrito Federal y los instrumentos jurídicos.
+La autoridad encargada de la aplicación de esta Ley es la Secretaría de Desarrollo Económico del Gobierno de la Ciudad de México, quien en el ámbito de su competencia, celebrará convenios para establecer los procedimientos de coordinación en materia de apoyo a la micro, pequeña y mediana empresa, entre las autoridades federales, estatales, municipales y las alcaldías, para propiciar la planeación del desarrollo integral de la Ciudad de México en congruencia con el Plan General de Desarrollo de la Ciudad de México y los instrumentos jurídicos.
 
-La Secretaría de Desarrollo Económico del Gobierno del Distrito Federal en el ámbito de su competencia, podrá convenir con particulares para concertar las acciones necesarias para la coordinación en materia de apoyos a la micro, pequeña y mediana empresa.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+La Secretaría de Desarrollo Económico del Gobierno de la Ciudad de México en el ámbito de su competencia, podrá convenir con particulares para concertar las acciones necesarias para la coordinación en materia de apoyos a la micro, pequeña y mediana empresa.
 
 ###### Artículo 3.
 
 Para los efectos de esta Ley, se entiende por:
 
-I.- Actividades de Fomento: Acciones económicas, jurídicas, sociales, comerciales, de capacitación o tecnológicas, que contribuyen al desarrollo y grado de competencia de las MIPYMES, que establezca el Reglamento de esta Ley;
+I. Actividades de Fomento: Acciones económicas, jurídicas, sociales, comerciales, de capacitación o tecnológicas, que contribuyen al desarrollo y grado de competencia de las MIPYMES, que establezca el Reglamento de esta Ley;
 
-II.- Agrupamientos Empresariales: MIPYMES interconectadas, proveedores especializados y de servicios, así como instituciones asociadas dentro de una región del territorio del Distrito Federal.
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-III.- Cadenas Productivas: Sistemas productivos que integran conjuntos de empresas que añaden valor agregado a productos o servicios a través de las fases del proceso económico;
+II. Administración Pública. Al conjunto de dependencias, órganos y entidades que componen la Administración Pública Centralizada y Paraestatal de la Ciudad de México;
 
-IV.- Capacitación: Servicio empresarial que consiste en la impartición de cursos, talleres y metodologías, con la finalidad de mejorar las capacidades y habilidades de los recursos humanos de las empresas que reciben la atención;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADA, G.O. 7 DE DICIEMBRE DE 2017)</small>
+III. Agrupamientos Empresariales: MIPYMES interconectadas, proveedores especializados y de servicios, así como instituciones asociadas dentro de una región del territorio de la Ciudad de México;
 
-V.- Comercio de barrio. Persona o negocio que vende bienes y servicios al consumidor final y que para el desarrollo de su actividad cuenta con las características de una micro empresa de actividad comercial.
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-VI.- Competitividad para las Mipymes: Es el desempeño de las micro, pequeñas y medianas empresas, vinculado a la creación de las condiciones necesarias para potencializar sus capacidades, tanto de innovación de procesos, como en el impulso de la investigación y desarrollo de nuevos productos; para el aumento de la productividad; el fortalecimiento de la rentabilidad, la capacitación, la innovación y la participación en los mercados, con base en ventajas asociadas a productos o servicios, así como a las condiciones que ofertan.
+IV. Alcaldías: Los órganos político-administrativos de cada una de las demarcaciones territoriales;
 
-VII.- Consultoría: Servicio empresarial que consiste en la transferencia de conocimientos, metodologías y aplicaciones, con la finalidad de mejorar los procesos de la empresa que recibe la atención;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-VIII.- El Consejo: El Consejo del Distrito Federal para la Competitividad de la Micro, Pequeña y Mediana Empresa;
+V. Cadenas Productivas: Sistemas productivos que integran conjuntos de empresas que añaden valor agregado a productos o servicios a través de las fases del proceso económico;
 
-IX.- Ley: La Ley para la Competitividad de la Micro, Pequeña y Mediana Empresa del Distrito Federal;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-X.- Mediana empresa: La unidad económica que cuenta para el desarrollo de su actividad de 21 a 100 empleados en el caso de actividad comercial, de 51 a 100 empleados en el caso de servicios y de 101 a 500 empleados en el caso de la industria;
+VI. Capacitación: Servicio empresarial que consiste en la impartición de cursos, talleres y metodologías, con la finalidad de mejorar las capacidades y habilidades de los recursos humanos de las empresas que reciben la atención;
 
-XI.- Micro empresa: La unidad económica que para el desarrollo de su actividad cuenta hasta con 5 empleados en el caso de actividad comercial, hasta con 20 empleados en el caso de servicios y hasta con 30 empleados en el caso de la industria;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XII.- MIPYMES: Micro, pequeñas y medianas empresas, legalmente constituidas, con base en la estratificación establecida en las Reglas para Fomentar y Promover la Participación de Micro, Pequeñas y Medianas Empresas nacionales y Locales, en las Adquisiciones, Arrendamientos y Prestación de Servicios que realice la Administración Pública del Distrito Federal, publicadas en la Gaceta Oficial del Distrito Federal el 13 de noviembre de 2003;
+VII. Comercio de barrio: Persona o negocio que vende bienes y servicios al consumidor final y que para el desarrollo de su actividad cuenta con las características de una micro empresa de actividad comercial.
 
-XIII.- Organizaciones Empresariales: Las Cámaras Empresariales y sus Confederaciones en su carácter de organismos de interés público; así como las asociaciones, instituciones y agrupamientos que representen a las MIPYMES como interlocutores ante las autoridades del Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XIV.- Pequeña empresa: La unidad económica que cuenta para el desarrollo de su actividad de 6 a 20 empleados en el caso de actividad comercial, de 21 a 50 empleados en el caso de servicios y de 31 a 100 empleados en el caso de la industria, y
+VIII. Competitividad para las MIPYMES: Es el desempeño de las micro, pequeñas y medianas empresas, vinculado a la creación de las condiciones necesarias para potencializar sus capacidades, tanto de innovación de procesos, como en el impulso de la investigación y desarrollo de nuevos productos; para el aumento de la productividad; el fortalecimiento de la rentabilidad, la capacitación, la innovación y la participación en los mercados, con base en ventajas asociadas a productos o servicios, así como a las condiciones que ofertan.
 
-XV.- Plan: Plan Estratégico para la Competitividad del Distrito Federal; el cual contendrá esquemas para la ejecución de acciones y participación de la (sic) autoridades del Distrito Federal;
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XVI.- Reglamento: El Reglamento de esta Ley;
+IX. El Congreso: Congreso de la Ciudad de México;
 
-XVII.- Secretaria: Secretaría de Desarrollo Económico del Distrito Federal;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XVIII.- Sector Público: Dependencias y Entidades de la Administración Pública del Distrito Federal;
+X. Consultoría: Servicio empresarial que consiste en la transferencia de conocimientos, metodologías y aplicaciones, con la finalidad de mejorar los procesos de la empresa que recibe la atención;
 
-XIX.- Sectores: Los sectores privado y social;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XX.- Sistema: El Sistema Local para la Competitividad de la Micro, Pequeña y Mediana Empresa; y
+XI. El Consejo: El Consejo de la Ciudad de México para la Competitividad de la Micro, Pequeña y Mediana Empresa;
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XII. Empresa emergente o Startup: La empresa de nueva creación que comercializa productos y/o servicios generalmente a través del uso intensivo de las tecnologías de la información y la comunicación, con un modelo de negocio escalable el cual le permite un crecimiento rápido y sostenido en el tiempo;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XIII. Ley: La Ley para la Competitividad de la Micro, Pequeña y Mediana Empresa de la Ciudad de México;
+
+> <small>(REFORMADA, [N. DE E. REUBICADA], G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XIV. Mediana empresa: La unidad económica que cuenta para el desarrollo de su actividad de 21 a 100 empleados en el caso de actividad comercial, de 51 a 100 empleados en el caso de servicios y de 101 a 500 empleados en el caso de la industria;
+
+> <small>(REFORMADA, [N. DE E. REUBICADA], G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XV. Micro empresa: La unidad económica que para el desarrollo de su actividad cuenta hasta con 5 empleados en el caso de actividad comercial, hasta con 20 empleados en el caso de servicios y hasta con 30 empleados en el caso de la industria;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XVI. MIPYMES: Micro, pequeñas y medianas empresas, legalmente constituidas, de los sectores industrial, comercial y de servicios que cumplan con lo establecido en la Ley Para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, en el Artículo 3, Fracción III;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XVII. Organizaciones Empresariales: Las Cámaras Empresariales y sus Confederaciones en su carácter de organismos de interés público; así como las asociaciones, instituciones y agrupamientos que representen a las MIPYMES como interlocutores ante las autoridades de la Ciudad de México.
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XVIII. Pequeña empresa: La unidad económica que cuenta para el desarrollo de su actividad de 6 a 20 empleados en el caso de actividad comercial, de 21 a 50 empleados en el caso de servicios y de 31 a 100 empleados en el caso de la industria;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XIX. Plan: Plan Estratégico para la Competitividad de la Ciudad de México; el cual contendrá esquemas para la ejecución de acciones y participación de las autoridades de la Ciudad de México;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XX. Reglamento: El Reglamento de esta Ley;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XXI. Secretaría: Secretaría de Desarrollo Económico de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XXII. Sectores: Los sectores privado y social; y
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XXIII. Sistema: El Sistema Local para la Competitividad de la Micro, Pequeña y Mediana Empresa.
 
 ###### Artículo 4.
 
@@ -112,11 +170,15 @@ I. Establecer:
 
 a) Las condiciones para la planeación y ejecución de las actividades encaminadas al desarrollo de las MIPYMES en el marco de esta Ley;
 
-b) Las bases para la participación del Gobierno del Distrito Federal y de los Sectores para el desarrollo de las MIPYMES;
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+b) Las bases para la participación del Gobierno de la Ciudad de México, las alcaldías y de los Sectores para el desarrollo de las MIPYMES;
 
 c) Los instrumentos para la evaluación y actualización de las políticas, programas, instrumentos y actividades de fomento para la productividad y competitividad de las MIPYMES, que proporcionen la información necesaria para la toma de decisiones en materia de apoyo empresarial, y
 
-d) Las premisas para que la Secretaría elabore las políticas con visión de largo plazo, para elevar la productividad y competitividad nacional e internacional de las MIPYMES establecidas en el Distrito Federal.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+d) Las premisas para que la Secretaría elabore las políticas con visión de largo plazo, para elevar la productividad y competitividad nacional e internacional de las MIPYMES establecidas en la Ciudad de México.
 
 II. Promover:
 
@@ -124,7 +186,9 @@ a) Un entorno favorable para que las MIPYMES sean competitivas en los mercados n
 
 b) La creación de una cultura empresarial y de procedimientos, prácticas y normas que contribuyan al avance de la calidad en los procesos de producción, distribución, mercadeo y servicio al cliente de las MIPYMES;
 
-c) El acceso al financiamiento para las MIPYMES, la capitalización de las empresas, incremento de la producción, constitución de nuevas empresas y consolidación de las existentes, en concordancia con lo establecido en la Ley para el Fomento del Desarrollo Económico del Distrito Federal;
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+c) El acceso al financiamiento para las MIPYMES, la capitalización de las empresas, incremento de la producción, constitución de nuevas empresas y consolidación de las existentes, en concordancia con lo establecido en la Ley para el Desarrollo Económico de la Ciudad de México;
 
 d) Apoyos para el desarrollo de las MIPYMES en todo el territorio nacional, basados en la participación de los sectores;
 
@@ -132,11 +196,25 @@ e) La adquisición de productos y contratos de servicios competitivos de las MIP
 
 f) Las condiciones para la creación y consolidación de las cadenas productivas;
 
-g) Esquemas para la modernización, innovación y desarrollo tecnológico en las MIPYMES, mediante el apoyo y financiamiento del Instituto de Ciencia y Tecnología del Distrito Federal;
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-h) Que la creación y desarrollo de las MIPYMES sea en el marco de la normativa ecológica y que éstas contribuyan al desarrollo sustentable y equilibrado de largo plazo, y
+g) Esquemas para la modernización, innovación y desarrollo tecnológico en las MIPYMES, mediante el apoyo y financiamiento de la Secretaría de Educación, Ciencia, Tecnología e Innovación;
 
-i) La cooperación y asociación de las MIPYMES, a través de sus cámaras empresariales en el ámbito del Distrito Federal, así como de sectores y cadenas productivas.
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+h) Promover campañas de difusión sobre alternativas de financiamiento;
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+i) Que la creación y desarrollo de las MIPYMES sea en el marco de la normativa ecológica y que éstas contribuyan al desarrollo sustentable y equilibrado de largo plazo;
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+j) La cooperación y asociación de las MIPYMES, a través de sus cámaras empresariales en el ámbito de la Ciudad de México, así como de sectores y cadenas productivas, y
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+k) Promover el desarrollo de las Empresas Emergentes o Startups de la Ciudad de México para que sus productos o servicios generados tengan oportunidad de comercializarse en grandes cadenas comerciales y en empresas de mayor tamaño.
 
 ### CAPÍTULO SEGUNDO. DEL FOMENTO ECONÓMICO DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA
 
@@ -148,9 +226,11 @@ La Secretaría elaborará el Programa Local de Competitividad, en el marco de la
 
 La Secretaría en el ámbito de su competencia, en coordinación con el consejo promoverá la participación del Gobierno Federal, instancias del gobierno Local y de las cámaras empresariales para facilitar a las MIPYMES el acceso a Programas previstos en el artículo 11 de la presente Ley.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 7.
 
-La Secretaría en coordinación con los Sectores y el consejo diseñará, fomentará y promoverá la creación de instrumentos y mecanismos de garantía, así como de otros esquemas que faciliten el acceso al financiamiento a las MIPYMES.
+La Secretaría en coordinación con los Sectores y el consejo diseñará, fomentará y promoverá la creación de instrumentos y mecanismos de garantía, así como de otros esquemas que faciliten el acceso al financiamiento a las MIPYMES, en igualdad de oportunidades para mujeres y hombres.
 
 ###### Artículo 8.
 
@@ -174,23 +254,35 @@ La planeación y ejecución de las políticas y acciones de fomento para la comp
 
 I. Propiciar la participación y toma de decisiones del sector público, en un marco de federalismo económico;
 
-II. Procurar esquemas de apoyo a las MIPYMES a través de la concurrencia de recursos federales y del Distrito Federal, así como de las cámaras empresariales del Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-III. Enfocar los esfuerzos de acuerdo con las necesidades, el potencial y las vocaciones existentes en el Distrito Federal;
+II. Procurar esquemas de apoyo a las MIPYMES a través de la concurrencia de recursos federales y de la Ciudad de México, así como de las cámaras empresariales de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+III. Enfocar los esfuerzos de acuerdo con las necesidades, el potencial y las vocaciones existentes en la Ciudad de México, atendiendo la perspectiva de género e impulsando en todo momento la igualdad entre mujeres y hombres;
 
 IV. Contener objetivos a corto, mediano y largo plazo;
 
-V. Contener propuestas de mejora y simplificación normativa en materia de desarrollo y apoyo a las MIPYMES, en complemento a lo dispuesto en la Ley de Fomento para el Desarrollo Económico del Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+V. Contener propuestas de mejora y simplificación normativa en materia de desarrollo y apoyo a las MIPYMES, en complemento a lo dispuesto en la Ley de Fomento para el Desarrollo Económico de la Ciudad de México;
 
 VI. Enfocar estrategias y proyectos de modernización, innovación y desarrollo tecnológico para las MIPYMES;
 
 VII. Propiciar nuevos instrumentos de información, comparación y apoyo a las MIPYMES, considerando las tendencias internacionales de los países con los que México tenga mayor interacción comercial;
 
-VIII. Contar con mecanismos de medición de avances para evaluar el impacto de las políticas de apoyo a las MIPYMES, y
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-IX. Promover que las dependencias y entidades de la Administración Pública del Distrito Federal y de las delegaciones federales radicadas en el territorio del Distrito Federal realicen la planeación de sus adquisiciones de bienes, contratación de servicios y realización de obra pública para destinarlas a las MIPYMES de manera gradual, hasta alcanzar un mínimo del 35%, conforme a la normativa aplicable.
+VIII. Contar con mecanismos de medición de avances para evaluar el impacto de las políticas de apoyo a las MIPYMES;
 
-Con el objeto de lograr la coordinación efectiva de los programas de fomento a las MIPYMES y lograr una mayor efectividad en la aplicación de los recursos, todos los convenios serán firmados por el Gobierno del Distrito Federal, a través de la Secretaría competente.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IX. Promover que las dependencias y entidades de la Administración Pública de la Ciudad de México y de las delegaciones federales radicadas en el territorio de la Ciudad de México realicen la planeación de sus adquisiciones de bienes, contratación de servicios y realización de obra pública para destinarlas a las MIPYMES de manera gradual, hasta alcanzar un mínimo del 35%, conforme a la normativa aplicable, y;
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Con el objeto de lograr la coordinación efectiva de los programas de fomento a las MIPYMES y lograr una mayor efectividad en la aplicación de los recursos, todos los convenios serán firmados por el Gobierno de la Ciudad de México, a través de la Secretaría competente.
 
 ###### Artículo 11.
 
@@ -204,15 +296,21 @@ III. Promover la integración y apoyo a las cadenas productivas, cámaras empres
 
 IV. Promover una cultura tecnológica en las MIPYMES; modernización, innovación y desarrollo tecnológico;
 
-V. Desarrollo de proveedores y distribuidores con las MIPYMES;
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-VI. Consolidación de oferta exportable;
+V. Promover una educación y cultura financiera;
 
-VII. Información general en materia económica acorde a las necesidades de las MIPYMES;
+VI. Desarrollo de proveedores y distribuidores con las MIPYMES;
 
-VIII. Fomento para el desarrollo sustentable en el marco de la normativa ecológica aplicable, y
+VII. Consolidación de oferta exportable;
 
-IX. Canalización de recursos de fondos federales para la adquisición de maquinaria y equipo de las MIPYMES del Distrito Federal.
+VIII. Información general en materia económica acorde a las necesidades de las MIPYMES;
+
+IX. Fomento para el desarrollo sustentable en el marco de la normativa ecológica aplicable, y
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+X. Canalización de recursos de fondos federales para la adquisición de maquinaria y equipo de las MIPYMES de la Ciudad de México.
 
 Adicionalmente, el consejo, propondrá a la Secretaría esquemas para facilitar a ésta el acceso al financiamiento público y privado a las MIPYMES y determinará los mecanismos para la obtención de créditos para su crecimiento y competitividad.
 
@@ -224,11 +322,17 @@ I. Promover ante las instancias competentes, que los programas y apoyos previsto
 
 II. Impulsar un entorno favorable para la creación, desarrollo y crecimiento con calidad de las MIPYMES;
 
-III. Promover con los órganos político administrativos del Distrito Federal, la celebración de convenios para coordinar las acciones e instrumentos de apoyo a las MIPYMES de conformidad con los objetivos de la presente Ley, en el marco de la normatividad aplicable;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-IV. Evaluar de manera conjunta con los órganos político administrativos del Distrito Federal, los resultados de los convenios a que se refiere el inciso anterior para formular nuevas acciones. Lo anterior, sin perjuicio de las facultades de las autoridades competentes en la materia;
+III. Promover con las alcaldías de la Ciudad de México, la celebración de convenios para coordinar las acciones e instrumentos de apoyo a las MIPYMES de conformidad con los objetivos de la presente Ley, en el marco de la normatividad aplicable;
 
-V. Evaluar anualmente el desempeño de la competitividad del Distrito Federal con relación al entorno nacional e internacional;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IV. Evaluar de manera conjunta con las alcaldías de la Ciudad de México, los resultados de los convenios a que se refiere el inciso anterior para formular nuevas acciones. Lo anterior, sin perjuicio de las facultades de las autoridades competentes en la materia;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+V. Evaluar anualmente el desempeño de la competitividad de la Ciudad de México con relación al entorno nacional e internacional;
 
 VI. Proponer la actualización de los programas de manera continua para establecer objetivos en el corto, mediano y largo plazo;
 
@@ -236,23 +340,35 @@ VII. Realizar la función de coordinación a que se refiere la presente Ley, par
 
 VIII. Desarrollar a través de los instrumentos con que cuenta y los que genere, un sistema general de información y consulta para la planeación de acciones de los sectores y cadenas productivas, mejor posicionados o con más posibilidades de competitividad;
 
-IX. Proponer a través de las instancias competentes, la homologación de la normativa y trámites, por lo que se refiere a la materia de la presente Ley, y
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-X. Diseñar un esquema de seguimiento e identificación de resultados de los Programas de apoyo establecidos por el Gobierno del Distrito Federal.
+IX. Proponer a través de las instancias competentes, la homologación de la normativa y trámites, por lo que se refiere a la materia de la presente Ley;
 
-> <small>(ADICIONADA, G.O. 14 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+X. Diseñar un esquema de seguimiento e identificación de resultados de los Programas de apoyo establecidos por el Gobierno de la Ciudad de México, y
+
+> <small>(REFORMADA [N. DE. E. REPUBLICADA], G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 XI. Diseñar la instrumentación de convenios de coordinación con Instituciones Superiores Públicas y Colegios de Profesionistas especialistas en el ramo, a efecto de que estos elaboren los estudios de viabilidad técnica, económica y financiera de los proyectos para los cuales se soliciten los apoyos y entrega del FONDO PyME.
 
-Para tal efecto, las dependencias y entidades de la Administración Pública del Distrito Federal proporcionarán la información que corresponda en términos de la normativa aplicable.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Para tal efecto, las dependencias y entidades de la Administración Pública de la Ciudad de México proporcionarán la información que corresponda en términos de la normativa aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 13.
 
-La Secretaría promoverá la participación de los 16 órganos político administrativos del Distrito Federal, y por conducto del Consejo, la de las cámaras empresariales, a través de los convenios que celebre para la consecución de los objetivos de la presente Ley, de acuerdo a lo siguiente:
+La Secretaría promoverá la participación de las alcaldías de la Ciudad de México, y por conducto del Consejo, la de las cámaras empresariales, a través de los convenios que celebre para la consecución de los objetivos de la presente Ley, de acuerdo a lo siguiente:
 
-I. Un entorno local favorable para la creación, desarrollo y crecimiento con calidad de las MIPYMES considerando las necesidades, el potencial y vocación del Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-II. Celebrar acuerdos con las dependencias y entidades de la Administración Pública del Distrito Federal, para una promoción coordinada de las acciones de fomento para la competitividad de las MIPYMES, que desarrollen propuestas y la concurrencia de programas y proyectos;
+I. Un entorno local favorable para la creación, desarrollo y crecimiento con calidad de las MIPYMES considerando las necesidades, el potencial y la vocación de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+II. Celebrar acuerdos con las dependencias y entidades de la Administración Pública de la Ciudad de México, para una promoción coordinada de las acciones de fomento para la competitividad de las MIPYMES, que desarrollen propuestas y la concurrencia de programas y proyectos;
 
 III. Participar en el desarrollo de un sistema general de información y consulta para la planeación sobre los sectores y cadenas productivas;
 
@@ -260,11 +376,15 @@ IV. Diseñar esquemas que fomenten el desarrollo de proveedores locales del sect
 
 V. La generación de políticas y programas de apoyo a las MIPYMES en sus respectivos ámbitos de competencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 14.
 
-La Secretaria en coordinación con el Consejo promoverá la participación del sector público local y de los Sectores para la consecución de los objetivos de esta Ley, a través de los convenios que celebre, de acuerdo a lo siguiente:
+La Secretaría en coordinación con el Consejo promoverá la participación del sector público local y de los Sectores para la consecución de los objetivos de esta Ley, a través de los convenios que celebre, de acuerdo con lo siguiente:
 
-I. La formación de una cultura empresarial enfocada al desarrollo de la competitividad en las MIPYMES a través de la detección de necesidades en capacitación, asesoría y consultoría;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+I. La formación de una cultura empresarial con perspectiva de género enfocada al desarrollo de la competitividad en las MIPYMES a través de la detección de necesidades en capacitación, asesoría y consultoría;
 
 II. El fomento a la constitución de incubadoras de empresas, y a la iniciativa y creatividad de los emprendedores;
 
@@ -296,9 +416,11 @@ XIII. La ejecución y evaluación de una estrategia para generar las condiciones
 
 Para el cumplimiento de los objetivos de la presente Ley se establece el Sistema.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 16.
 
-El Sistema comprende el conjunto de acciones que realice el sector público del Distrito Federal y los sectores que participen en los objetivos de esta Ley para el desarrollo de las MIPYMES, considerando las opiniones del Consejo y coordinados por la Secretaría en el ámbito de su competencia.
+El Sistema comprende el conjunto de acciones que realice el sector público de la Ciudad de México y los sectores que participen en los objetivos de esta Ley para el desarrollo de las MIPYMES, considerando las opiniones del Consejo y coordinados por la Secretaría en el ámbito de su competencia.
 
 ### CAPÍTULO CUARTO. DEL CONSEJO LOCAL PARA LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA
 
@@ -306,37 +428,37 @@ El Sistema comprende el conjunto de acciones que realice el sector público del 
 
 El Consejo es la instancia que promueve, analiza y da seguimiento a los esquemas, programas, instrumentos y acciones que deben desarrollarse en apoyo a las MIPYMES.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 18.
 
 El Consejo estará conformado por los siguientes integrantes:
 
-I. El Secretario de Desarrollo Económico del Gobierno del Distrito Federal, quien lo presidirá;
+I. La persona titular de la Secretaría de Desarrollo Económico de la Ciudad de México, quien lo presidirá;
 
-II. El Secretario de Finanzas del Gobierno del Distrito Federal;
+II. La persona titular de la Secretaría de Administración y Finanzas de la Ciudad de México;
 
-III. El Secretario de Educación del Gobierno del Distrito Federal;
+III. La persona titular de la Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México;
 
-IV. El Secretario del Trabajo y Fomento al Empleo del Gobierno del Distrito Federal;
+IV. La persona titular de la Secretaría del Trabajo y Fomento al Empleo de la Ciudad de México;
 
-V. El Secretario de Turismo del Gobierno del Distrito Federal;
+V. La persona titular de la Secretaría de Turismo de la Ciudad de México;
 
-VI. El Secretario del Medio Ambiente del Gobierno del Distrito Federal;
+VI. La persona titular de la Secretaría del Medio Ambiente de la Ciudad de México;
 
-VII. El Oficial Mayor del Gobierno del Distrito Federal;
+VII. Una persona representante de cada una de las Alcaldías; y
 
-VIII. El Director del Instituto de Ciencia y Tecnología del Distrito Federal;
-
-IX. Un representante de cada uno de los órganos político administrativos del Distrito Federal; y
-
-X. Cinco Organismos empresariales, representados por sus Presidentes.
+VIII. Cinco Organismos empresariales, representados por sus presidentas o presidentes.
 
 El Consejo podrá invitar a participar en las sesiones, con voz pero sin voto, a los delegados de las dependencias federales y especialistas en los temas a discusión.
 
-Por cada uno de los miembros propietarios se deberá nombrar un suplente. En el caso de las dependencias, órganos y entidades de la Administración Pública del Distrito Federal, así como de los órganos político administrativos, deberá tener al menos el nivel de director general o su equivalente.
+Por cada uno de los miembros propietarios se deberá nombrar un suplente. En el caso de las dependencias, órganos y entidades de la Administración Pública de la Ciudad de México, así como de las alcaldías, deberá tener al menos el nivel de director general o su equivalente.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 19.
 
-El Consejo contará con un Secretario Técnico, que será designado por el Secretario de Desarrollo Económico entre alguno de sus colaboradores, quien dará seguimiento a los acuerdos que emanen de dicha instancia; informará semestralmente al Consejo y a la Asamblea Legislativa del Distrito Federal sobre la evolución de los programas y los resultados alcanzados; y se coordinará con los demás Consejos Estatales en lo conducente.
+El Consejo contará con una Secretaría Técnica, que será designada por la persona titular de la Secretaría de Desarrollo Económico entre alguno de sus colaboradores, quien dará seguimiento a los acuerdos que emanen de dicha instancia, informará semestralmente al Consejo y al Congreso sobre la evolución de los programas y los resultados alcanzados; y se coordinará con los demás Consejos Estatales en lo conducente.
 
 ###### Artículo 20.
 
@@ -346,23 +468,31 @@ El Consejo sesionará válidamente con la asistencia de por lo menos la mitad m�
 
 Las resoluciones se tomarán por mayoría de votos de los miembros presentes, teniendo el Presidente el voto de calidad en caso de empate.
 
-El Presidente, a través del secretario técnico, convocará a las sesiones ordinarias con un mínimo de cinco días hábiles de anticipación. En el caso de las extraordinarias, se convocará con tres días hábiles de anticipación.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+El Presidente, a través de la secretaría técnica, convocará a las sesiones ordinarias con un mínimo de cinco días hábiles de anticipación. En el caso de las extraordinarias, se convocará con tres días hábiles de anticipación.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 21.
 
-El domicilio del Consejo será en el Distrito Federal y sesionará en las instalaciones de la Secretaría, siempre que éste no acuerde una sede alterna.
+El domicilio del Consejo estará en la Ciudad de México y sesionará en las instalaciones de la Secretaría, siempre que éste no acuerde una sede alterna.
 
 ###### Artículo 22.
 
 El Consejo, tendrá las siguientes atribuciones generales en materia de Competitividad:
 
-I. Actuar como órgano consultivo en el seguimiento y aplicación del Plan Estratégico para la Competitividad del Distrito Federal, velando por su cumplimiento y la consecución de sus objetivos;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+I. Actuar como órgano consultivo en el seguimiento y aplicación del Plan Estratégico para la Competitividad de la Ciudad de México, velando por su cumplimiento y la consecución de sus objetivos;
 
 II. Promover que los actores económicos de los sectores público, privado, académico, científico-tecnológico y otros, cuya actividad tiene impacto directo en la competitividad, generación de empleo y en la calidad de vida de los habitantes de la Ciudad de México, participen en el Consejo;
 
 III. Dar seguimiento al cumplimiento de las decisiones y acciones recomendadas dentro de su marco de acción;
 
-IV. Analizar y proponer la adopción de políticas en materia de competitividad para el Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IV. Analizar y proponer la adopción de políticas en materia de competitividad para la Ciudad de México;
 
 V. Impulsar iniciativas innovadoras y de alto impacto para la generación de empleos y de riqueza en la Ciudad de México, a través de remuneraciones que respondan al desarrollo y aplicación individual de habilidades, capacidades y productividad;
 
@@ -370,21 +500,39 @@ VI. Proponer proyectos educativos y científicos sustentables que propendan a la
 
 VII. Diseñar y promover acciones que tengan como objetivo incrementar constante y ordenadamente la competitividad de la Ciudad de México, para consolidar su posición en términos de capacidad de atracción y retención de inversiones y de generación de empleo a nivel nacional e internacional;
 
-VIII. Recibir propuestas para la competitividad provenientes tanto de servidores públicos o autoridades del Distrito Federal, como de particulares, y una vez evaluadas ser presentadas al seno de alguna de sus comisiones o del pleno del Consejo;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-IX. Proponer a las autoridades competentes que adopten las medidas positivas para el fomento al desarrollo y a la competitividad;
+VIII. Recibir propuestas para la competitividad provenientes tanto de servidores públicos o autoridades de la Ciudad de México, como de particulares, y una vez evaluadas, se presenten al seno de alguna de sus comisiones o del pleno del Consejo;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IX. Proponer a las autoridades competentes que adopten las medidas positivas para fomentar el desarrollo y la competitividad;
 
 X. Diseñar los indicadores para la evaluación de las políticas públicas con perspectiva de competitividad;
 
-XI. Diseñar, difundir y evaluar el Plan Estratégico para la Competitividad en el Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XII. Expedir reconocimientos a quienes se distingan por la instrumentación de medidas en materia de competitividad y a favor de la igualdad de oportunidades en el Distrito Federal;
+XI. Diseñar, difundir y evaluar el Plan Estratégico para la Competitividad en la Ciudad de México;
 
-XIII. Solicitar la realización de estudios sobre los ordenamientos jurídicos vigentes, y proponer, en su caso, las modificaciones que correspondan en materia de competitividad local;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XIV. Divulgar los compromisos asumidos por el Estado Mexicano en los instrumentos internacionales que establecen disposiciones en materia de competitividad, así como promover su cumplimiento por parte de los entes públicos del Distrito Federal; y
+XII. Expedir reconocimientos a quienes se distingan por la instrumentación de medidas en materia de competitividad y a favor de la igualdad de oportunidades en la Ciudad de México;
 
-XV. Las demás que le encomiende el Jefe de Gobierno del Distrito Federal, para favorecer la operación y aplicación de los acuerdos tomados al seno del Consejo.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XIII. Solicitar la realización de estudios sobre los ordenamientos jurídicos vigentes, y proponer en su caso, las modificaciones que correspondan en materia de competitividad local;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XIV. Divulgar los compromisos asumidos por el Estado Mexicano en los instrumentos internacionales que establecen disposiciones en materia de competitividad, así como promover su cumplimiento por parte de los entes públicos de la Ciudad de México;
+
+> <small>(ADICIONADA, 24 DE DICIEMBRE DE 2025)</small>
+
+XV. Promover mecanismos para el cumplimiento de los objetivos de esta Ley; y
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XVI. Las demás que le encomiende la persona titular de la Jefatura de Gobierno de la Ciudad de México, para favorecer la operación y aplicación de los acuerdos tomados al seno del Consejo.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
@@ -392,47 +540,51 @@ XV. Las demás que le encomiende el Jefe de Gobierno del Distrito Federal, para 
 
 DEL ESTUDIO DE VIABILIDAD TÉCNICA, ECONÓMICA Y FINANCIERA DE LOS PROYECTOS PARA LOS CUALES SE SOLICITEN LOS APOYOS Y ENTREGA DEL FONDO PYME.
 
-> <small>(ADICIONADO, G.O. 14 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 23.
 
-Para la entrega de estímulos y aprobación de programas será necesario que los solicitantes entreguen un estudio de viabilidad técnica, económica y financiera de los proyectos para los cuales se solicitaron los apoyos del FONDO PYME. Dicho estudio se ejecutará de conformidad con el Artículo 47 de la Ley de Fomento para el Desarrollo Económico del Distrito Federal.
+Para la entrega de estímulos y aprobación de programas será necesario que los solicitantes entreguen un estudio de viabilidad técnica, económica y financiera de los proyectos para los cuales se solicitaron los apoyos del FONDO PYME. Dicho estudio se ejecutará de conformidad con la Ley para el Desarrollo Económico de la Ciudad de México.
 
-> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+Artículo 23 BIS.- (DEROGADO, G.O. 24 DE DICIEMBRE DE 2025)
 
-Artículo 23 BIS. Las autoridades en la materia publicarán los lineamientos y guías necesarias para facilitar la elaboración del estudio de viabilidad técnica económica y financiera,_a las personas solicitantes. Las instituciones académicas podrán firmar convenios de colaboración con el Consejo Local para la Competitividad de la Micro, Pequeña y Mediana Empresa, a fin de realizar estudios académicos para la constitución e impulso de las Micro, Pequeñas y Medianas Empresas.
-
-> <small>(ADICIONADO, G.O. 14 DE SEPTIEMBRE DE 2012)</small>
+> <small>(ADICIONADO [N. DE E. ANTES ARTÍCULO 23 BIS], G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 24.
 
-Los estudios de viabilidad técnica, económica y financiera para los cuales se solicitaron los apoyos del FONDO PyME, serán realizados por Instituciones Públicas y Colegios de Profesionales en el ramo.
+Las autoridades en la materia publicarán los lineamientos y guías necesarias para facilitar la elaboración del estudio de viabilidad técnica económica y financiera, a las personas solicitantes. Las instituciones académicas podrán firmar convenios de colaboración con el Consejo Local para la Competitividad de la Micro, Pequeña y Mediana Empresa, a fin de realizar estudios académicos para la constitución e impulso de las Micro, Pequeñas y Medianas Empresas.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 7 DE DICIEMBRE DE 2017)</small>
 
 ### CAPÍTULO VII (SIC). DEL FORTALECIMIENTO A LOS COMERCIOS DE BARRIO
 
-> <small>(ADICIONADO, G.O. 7 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 24], G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 25.
 
-La Secretaría de Ciencia, Tecnología e Innovación en conjunto con la Secretaría, llevarán a cabo acciones específicas para facilitar el uso de tecnología, la capacitación y la gestión a los comercios de barrio establecidos en la Ciudad de México.
+Los estudios de viabilidad técnica, económica y financiera para los cuales se solicitaron los apoyos del FONDO PyME, serán realizados por Instituciones Públicas y Colegios de Profesionales en el ramo.
 
-> <small>(ADICIONADO, G.O. 7 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 25], G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 26.
 
-El objetivo de estas acciones es que estos comercios obtengan las condiciones necesarias de competitividad en el mercado, a través de la innovación en sus procesos y el uso de herramientas tecnológicas. Con el fin de fomentar el desarrollo económico local y la generación de empleos.
+La Secretaría de Ciencia, Tecnología e Innovación en conjunto con la Secretaría, llevarán a cabo acciones específicas para facilitar el uso de tecnología, la capacitación y la gestión a los comercios de barrio establecidos en la Ciudad de México.
 
-> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 26], G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 27.
 
-La Secretaría de Educación, Ciencia, Tecnología e Innovación, proporcionará para estos efectos la infraestructura tecnológica y apoyo a la seguridad cibernética necesaria para el correcto desarrollo de las acciones a los comercios de barrio establecidos en la Ciudad de México, con el objetivo de impulsar su crecimiento, desarrollo y consolidación.
+El objetivo de estas acciones es que los comercios obtengan las condiciones necesarias de competitividad en el mercado, a través de la innovación en sus procesos y el uso de herramientas tecnológicas. Con el fin de fomentar el desarrollo económico local y la generación de empleos.
 
-> <small>(ADICIONADO, G.O. 7 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 27], G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 28.
+
+La Secretaría de Educación, Ciencia, Tecnología e Innovación, proporcionará para estos efectos la infraestructura tecnológica y apoyo a la seguridad cibernética necesaria para el correcto desarrollo de las acciones a los comercios de barrio establecidos en la Ciudad de México, con el objetivo de impulsar su crecimiento, desarrollo y consolidación.
+
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 28], G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 29.
 
 La Secretaría, a través del uso de sus instrumentos y entidades, proveerá para la ejecución de las acciones, fondos y capacitación necesarios y eficientes para cumplir con el objetivo.
 
@@ -483,3 +635,15 @@ G.O. 2 DE MARZO DE 2021.
 PRIMERO.- Remítase a la Jefa de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICA LA DENOMINACIÓN DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL DISTRITO FEDERAL PARA QUEDAR LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DE LA CIUDAD DE MÉXICO; SE REFORMAN EL PÁRRAFO PRIMERO, SEGUNDO DEL ARTÍCULO 1; PÁRRAFO PRIMERO, SEGUNDO DEL ARTÍCULO 2; LA FRACCIÓN III, VI, VII, VIII, X, XI, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII AL ARTÍCULO 3; LA FRACCIÓN I, INCISO B), D), LA FRACCIÓN II, INCISO C), G), I), J) AL ARTÍCULO 4, LA FRACCIÓN II, III, V, IX Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 10; SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 11 RECORRIÉNDOSE A LA SUBSECUENTE; LA FRACCIÓN III , IV, V, X , XI Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 12; AL PÁRRAFO PRIMERO, FRACCIÓN I, Y II AL ARTÍCULO 13; LA FRACCIÓN I, II, III, IV, V, VI, VIII Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 18; AL ARTÍCULO 19, AL ARTÍCULO 21; LA FRACCIÓN I, II, VIII, XI, XII, XIV, XV, AL ARTÍCULO 23, SE ADICIONAN LAS FRACCIÓNES II, IV, IX Y XII DEL ARTÍCULO 3, H), K) DE LA FRACCIÓN II DEL ARTÍCULO 4, FRACCIÓN XV AL ARTÍCULO 22 Y EL ARTÍCULO 24 RECORRIENDO LOS ARTÍCULOS SUBSECUENTES Y SE DEROGA EL ARTÍCULO 23 BIS Y SE REFORMA EL ARTÍCULO 26, TODOS DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL DISTRITO FEDERAL".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. La reglamentación que derive de las modificaciones en esta Ley, deberá ser expedidas dentro de los ciento ochenta días hábiles siguientes a su entrada en vigor.
+
+CUARTO. Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo al presupuesto aprobado a las unidades responsables del gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
