@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-obras-publicas-de-la-ciudad-de-mexico-antes-ley-de-12824
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-29"
-last_updated: "2024-03-15"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12824&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-11-18"
 
 LEY DE OBRAS PÚBLICAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -104,7 +104,9 @@ VI. Órganos Desconcentrados: los Órganos Administrativos diferentes de los Ór
 
 VII. Alcaldías: los Órganos Político- Administrativos en cada una de las demarcaciones territoriales en que se divide la Ciudad de México;
 
-VIII. Reglamento: el Reglamento de la Ley de Obras Públicas del Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VIII. Reglamento: El Reglamento de la Ley de Obras Públicas de la Ciudad de México;
 
 > <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2022)</small>
 
@@ -210,17 +212,17 @@ II. Estudios técnicos.- Trabajos de investigación especifica, interpretación 
 
 III. Proyectos.- Planeación y diseños de ingeniería civil, industrial, electromecánica y de cualquier otra especialidad de la ingeniería; la planeación, y diseños urbanos, arquitectónicos, de restauración, gráficos, industriales y artísticos, y de cualquier otra especialidad de la arquitectura y del diseño;
 
-> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-IV. Supervisión de obras.- revisión de planos, especificaciones y procedimientos de construcción; coordinación y dirección de obras, cuantificación o revisión de volumetría, preparación y elaboración de documentos para las licitaciones; verificación de programas propuestos por los contratistas, control de calidad de las obras incluyendo laboratorios de análisis y control de calidad, mecánica de suelos, resistencia de materiales, radiografías industriales, cuantificación de volúmenes ejecutados, revisión, conciliación y aprobación de números generadores y verificación del cumplimiento respecto a programas; verificación del cumplimiento de esta Ley y de las disposiciones que de ella emanen, así como del contrato de que se trate; recepción, liquidación y finiquito de la obra, integración de grupos técnico - administrativos, capacitación, actualización continua, acorde con las disposiciones de la dependencia, órgano desconcentrado, alcaldía o entidad;
+IV. Supervisión de Obras.- Revisión de planos, especificaciones y procedimientos de construcción; coordinación y dirección de obras, cuantificación o revisión de volumetría, preparación y elaboración de documentos para las licitaciones; verificación de programas propuestos por los contratistas, control de calidad de las obras incluyendo laboratorios de análisis y control de calidad, mecánica de suelos, resistencia de materiales, radiografías industriales, cuantificación de volúmenes ejecutados, revisión, conciliación y aprobación de números generadores y verificación del cumplimiento respecto a programas; verificación del cumplimiento de esta Ley y de las disposiciones que de ella emanen, así como del contrato de que se trate; recepción, liquidación y finiquito de la obra, integración de grupos técnico-administrativos, capacitación, actualización continua, acorde con las disposiciones de la dependencia, órgano desconcentrado, Alcaldía o entidad;
 
-> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-V. Coordinación de supervisión.- actividades consistentes en el establecimiento de criterios, procedimientos y normas de operación con el fin de lograr la concurrencia armónica de todos los elementos que participan en la ejecución de proyectos, obras y otros trabajos objeto de los contratos; dichas actividades se basan en la concertación interdisciplinaria para organizar y conjuntar información sistemática de las diversas obras cuya supervisión se coordina. Tal información, proporcionada por las respectivas residencias de supervisión de obra, se verificará mediante vistas periódicas a obras y a otros sitios de trabajo, asistencia a juntas de coordinación y avances de obras y de actividades, corroborando que las supervisiones cumplan con sus funciones. Con objeto de poder evaluar e interpretar esta información se elaborarán informes del estado que guardan las obras que se coordinan, que incluirán el desempeño de las supervisiones, para permitir a la dependencia, órgano desconcentrado, alcaldía o entidad, la oportuna toma de decisiones y lograr que las obras se ejecuten conforme los proyectos, especificaciones, programas y presupuestos;
+V. Coordinación de Supervisión.- Actividades consistentes en el establecimiento de criterios, procedimientos y normas de operación con el fin de lograr la concurrencia armónica de todos los elementos que participan en la ejecución de proyectos, obras y otros trabajos objeto de los contratos; dichas actividades se basan en la concertación interdisciplinaria para organizar y conjuntar información sistemática de las diversas obras cuya supervisión se coordina. Tal información, proporcionada por las respectivas residencias de supervisión de obra, se verificará mediante visitas periódicas a obras y a otros sitios de trabajo, asistencia a juntas de coordinación y avances de obras y de actividades, corroborando que las supervisiones cumplan con sus funciones. Con objeto de poder evaluar e interpretar esta información se elaborarán informes del estado que guardan las obras que se coordinan, que incluirán el desempeño de las supervisiones, para permitir a la dependencia, órgano desconcentrado, Alcaldía o entidad, la oportuna toma de decisiones y lograr que las obras se ejecuten conforme los proyectos, especificaciones, programas y presupuestos;
 
-> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-VI. Gerencia de obra.- trabajos con un enfoque integrador que propicien con eficacia y eficiencia alcanzar los objetivos y propósitos que para un proyecto tiene la dependencia, órgano desconcentrado, alcaldía o entidad, y que colateralmente incluyan los correspondientes a las Fracciones IV y VII de este Artículo, asimismo ejecutará las acciones pertinentes para la realización oportuna de proyectos específicos;
+VI. Gerencia de Obra.- Trabajos con un enfoque integrador que propicien con eficacia y eficiencia alcanzar los objetivos y propósitos que para un proyecto tiene la dependencia, órgano desconcentrado, Alcaldía o entidad, y que colateralmente incluyan los correspondientes a las fracciones IV y VII de este artículo, asimismo ejecutará las acciones pertinentes para la realización oportuna de proyectos específicos;
 
 VII. Supervisión de estudios y proyectos.- Verificación del cumplimiento de programas propuestos por los contratistas, control de calidad de ejecución de los trabajos, verificación de cumplimiento de esta ley y de las disposiciones que de ella emanen, del contrato específico, su recepción, liquidación y finiquito;
 
@@ -234,9 +236,9 @@ X. Todos los servicios que se vinculen con las acciones y el objeto de esta Ley.
 
 C. Proyecto integral: Es aquel en el cual el contratista se obliga desde el diseño de la obra hasta su terminación total, incluyendo investigaciones previas, estudios, diseños, elaboración del proyecto ejecutivo y proyectos de todo tipo, la obra civil, producción, fabricación, traslado, instalación, equipamiento, bienes muebles, construcción total de la obra, capacitación, pruebas e inicio de operación del bien construido, incluyendo, cuando se requiera, transferencia de tecnología.
 
-> <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-Esta ley no será aplicable a los proyectos de prestación de servicios a largo plazo regulados por la Ley de Adquisiciones para el Distrito Federal y el Código Financiero del Distrito Federal, ni a las concesiones reguladas por la Ley del Régimen Patrimonial y del Servicio Público.
+Esta ley no será aplicable a los proyectos de prestación de servicios a largo plazo regulados por la Ley de Adquisiciones para la Ciudad de México y el Código Financiero de la Ciudad de México, ni a las concesiones reguladas por la Ley del Régimen Patrimonial y del Servicio Público.
 
 > <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2022)</small>
 
@@ -264,9 +266,11 @@ Será responsabilidad de las dependencias. órganos desconcentrados, alcaldías 
 
 La persona titular de la Jefatura de Gobierno de la Ciudad de México, establecerá las políticas necesarias para la adopción e instrumentación de las acciones que se deban llevar a cabo en cumplimiento de esta Ley, y para que se observen criterios que promuevan la simplificación administrativa, la descentralización de las funciones y la efectiva delegación de facultades.
 
-###### Artículo 8º.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-En lo no previsto por esta Ley, será aplicable el Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, el Código de Procedimientos Civiles para el Distrito Federal y la Ley del Régimen Patrimonial y del Servicio Público.
+###### Artículo 8°.
+
+En lo no previsto por esta Ley, será aplicable el Código Civil para la Ciudad de México en materia común y para toda la república en materia federal, el Código Nacional de Procedimientos Civiles y Familiares y la Ley del Régimen Patrimonial y del Servicio Público.
 
 > <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2022)</small>
 
@@ -814,17 +818,17 @@ b) En el caso de servicios relacionados con la obra pública, un informe de acue
 
 c) En el caso de proyecto integral, un informe de acuerdo con lo señalado en el Artículo 29, Fracción VIII, Inciso c.
 
-> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-La admisión de la propuesta técnica por haber cumplido con los requisitos de la convocatoria, no implicará su aceptación definitiva, la cual deberá otorgarse una vez que la dependencia, órgano desconcentrado, delegación o entidad lleve a cabo la revisión detallada de las propuestas admitidas.
+La admisión de la propuesta técnica por haber cumplido con los requisitos de la convocatoria, no implicará su aceptación definitiva, la cual deberá otorgarse una vez que la dependencia, órgano desconcentrado, Alcaldía o entidad lleve a cabo la revisión detallada de las propuestas admitidas.
 
 B. El sobre relativo a la propuesta económica, con todos los documentos que la integran firmados por representante legal y foliados, contendrá:
 
 I. Garantía de seriedad y carta compromiso de la propuesta completa;
 
-> <small>(REFORMADA, G.O. 11 DE MARZO DE 2003)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-II. Catálogo de conceptos por partidas, con unidades de medición, cantidades de trabajo, precios unitarios, importes parciales y monto propuesto; el catálogo de conceptos deberá presentarse en el formato proporcionado en las bases por la dependencia, órgano desconcentrado, delegación o entidad, sin modificación alguna, con la excepción de que todas sus hojas deberán contener la razón social del concursante, firma del representante legal, y, en su caso, su logotipo. Respecto a proyectos integrales, catálogo de actividades principales separadas en los rubros de: investigaciones, estudios, proyecto, supervisión, construcción de la obra e inicio de operación, con sus importes parciales, y el monto propuesto;
+II. Catálogo de conceptos por partidas, con unidades de medición, cantidades de trabajo, precios unitarios, importes parciales y monto propuesto; el catálogo de conceptos deberá presentarse en el formato proporcionado en las bases por la dependencia, órgano desconcentrado, Alcaldía o entidad, sin modificación alguna, con la excepción de que todas sus hojas deberán contener la razón social del concursante, firma del representante legal, y, en su caso, su logotipo. Respecto a proyectos integrales, catálogo de actividades principales separadas en los rubros de: investigaciones, estudios, proyecto, supervisión, construcción de la obra e inicio de operación, con sus importes parciales, y el monto propuesto;
 
 III. Análisis de precios:
 
@@ -850,9 +854,9 @@ c) En el caso de proyecto integral, la maquinaria y equipos relativos, serán lo
 
 VI. Carta de conocimiento de haber tomado en cuenta los requerimientos de las bases y de aceptación del modelo del contrato.
 
-> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-La admisión de la propuesta económica por haber cumplido con los requisitos de las bases, no implicará su aceptación definitiva, la cual deberá otorgarse una vez que la dependencia, órgano desconcentrado, delegación o entidad lleve a cabo la revisión detallada de las propuestas admitidas.
+La admisión de la propuesta económica por haber cumplido con los requisitos de las bases, no implicará su aceptación definitiva, la cual deberá otorgarse una vez que la dependencia, órgano desconcentrado, Alcaldía o entidad lleve a cabo la revisión detallada de las propuestas admitidas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE NOVIEMBRE DE 2022)</small>
 
@@ -1004,9 +1008,9 @@ I. En el caso de obra, que la misma incluya la información, documentos y requis
 
 En este caso, no será factible introducir precalificación alguna ni cambio del procedimiento señalado en los Artículos 33 y 39 de la presente Ley;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 30 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-II. En el caso de servicios relacionados con la obra pública, se incluya la información, documentos y demás requisitos solicitados en las bases del concurso, en la que se tomarán fundamentalmente en cuenta la presentación técnica de su propuesta y su experiencia. Verificarán que el programa de realización del servicio sea factible de realizar con los recursos considerados por el concursante, que la propuesta del servicio garantice el cumplimiento de los términos de referencia, normas para la realización de estudios o proyectos, leyes, normas y reglamentos aplicables, programas delegacionales, limitantes establecidas y de desarrollo del trabajo, usos del suelo, y demás referencias establecidas por la dependencia, órgano desconcentrado, alcaldía o entidad.
+II. En el caso de servicios relacionados con la obra pública, se incluya la información, documentos y demás requisitos solicitados en las bases del concurso, en la que se tomarán fundamentalmente en cuenta la presentación técnica de su propuesta y su experiencia. Verificarán que el programa de realización del servicio sea factible de realizar con los recursos considerados por el concursante, que la propuesta del servicio garantice el cumplimiento de los términos de referencia, normas para la realización de estudios o proyectos, leyes, normas y reglamentos aplicables, programas de Alcaldías, limitantes establecidas y de desarrollo del trabajo, usos del suelo, y demás referencias establecidas por la dependencia, órgano desconcentrado, alcaldía o entidad.
 
 En el caso de proyectos, se verificará que los estudios, las memorias descriptivas y de cálculo y el anteproyecto estén debidamente desarrollados, así como que la relación de la inversión estimada para la construcción del proyecto, su costo de mantenimiento, conservación y operación entre el costo de la propuesta sea la más rentable.
 
@@ -1326,9 +1330,9 @@ I. Los ajustes se calcularán para el incremento o decremento del costo de los i
 
 Cuando el atraso sea por causa imputable al contratista se procederá con el ajuste de costos exclusivamente para la obra que debiera estar pendiente de ejecutar conforme el programa originalmente pactado;
 
-> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-II. Los incrementos o decrementos de los costos de los insumos, serán calculados según las variaciones autorizadas en los índices que determine la Secretaría de Contraloría y Desarrollo Administrativo, o en su defecto con base en los publicados por el Banco de México, considerando las restricciones establecidas en los pactos económicos que el Gobierno Federal formalice con los sectores sociales. Cuando no se encuentren dentro de los publicados, la dependencia, órgano desconcentrado, alcaldía o entidad procederá a calcularlos con base en los precios que investigue, utilizando los lineamientos y metodología que expida la Secretaría;
+II. Los incrementos o decrementos de los costos de los insumos, serán calculados según las variaciones autorizadas en los índices que determine la Secretaría de la Contraloría, o en su defecto con base en los publicados por el Banco de México, considerando las restricciones establecidas en los pactos económicos que el Gobierno Federal formalice con los sectores sociales. Cuando no se encuentren dentro de los publicados, la dependencia, órgano desconcentrado, alcaldía o entidad procederá a calcularlos con base en los precios que investigue, utilizando los lineamientos y metodología que expida la Secretaría;
 
 III. Los precios de los conceptos permanecerán fijos hasta la terminación de los trabajos contratados. El ajuste se aplicará a los costos directos, conservando constantes los porcentajes de indirectos y utilidad originales durante el ejercicio del contrato; el costo por financiamiento estará sujeto a las variaciones de la tasa de interés propuesta, y
 
@@ -1402,9 +1406,9 @@ Cuando existan circunstancias imputables a la Administración Pública de la Ciu
 
 En cualquiera de los casos mencionados en este artículo, se deberá atender los aspectos de regulación de costos que se indiquen en las Políticas.
 
-> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-Cuando ocurran eventos que motiven la necesidad de modificar los contratos, las dependencias, órganos desconcentrados, alcaldías y entidades deberán elaborar el dictamen que justifique la celebración del convenio.
+Cuando ocurran eventos que motiven la necesidad de modificar los contratos, las dependencias, órganos desconcentrados, Alcaldías y entidades deberán elaborar el dictamen que justifique la celebración del convenio.
 
 > <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2022)</small>
 
@@ -1981,3 +1985,11 @@ PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promu
 SEGUNDO. El presente decreto entrará en vigor a los 90 días naturales posteriores a su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. La Persona Titular de la Jefatura de Gobierno de la Ciudad de México, en un plazo de 90 días contados a partir de la entrada en vigor del presente Decreto, deberá actualizar y armonizar la normatividad aplicable en la Ciudad de México.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 2º FRACCIÓN VIII; 3º APARTADO B, FRACCIONES IV, V Y VI Y ÚLTIMO PÁRRAFO DEL CITADO ARTÍCULO; 8º; 33 APARTADOS A, FRACCIÓN X, INCISO C), PÁRRAFO SEGUNDO Y B, FRACCIONES II Y VI PÁRRAFO SEGUNDO; 40 FRACCIÓN II, PÁRRAFO PRIMERO; 54 FRACCIÓN II Y 56 ÚLTIMO PÁRRAFO (SIC) LEY DE OBRAS PÚBLICAS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la Persona Titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
