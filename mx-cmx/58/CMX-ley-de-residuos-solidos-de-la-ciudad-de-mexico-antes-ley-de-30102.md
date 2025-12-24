@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-residuos-solidos-de-la-ciudad-de-mexico-antes-ley-de-301
 country: "mx"
 rank: "ley"
 publication_date: "2003-04-22"
-last_updated: "2025-10-24"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30102&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,1764 +20,2010 @@ issue_date: "2003-04-05"
 ---
 # LEY DE RESIDUOS SOLIDOS DE LA CIUDAD DE MEXICO -- ANTES LEY DE RESIDUOS SOLIDOS DEL DISTRITO FEDERAL --
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL
 
-LEY DE RESIDUOS SÓLIDOS DE LA CIUDAD DE MÉXICO
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE JULIO DE 2013.
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 24 DE OCTUBRE DE 2025.
+Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 31 de diciembre de 2009.
 
-Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 22 de abril de 2003.
+(Al margen superior un escudo que dice: Ciudad de México.- Capital en Movimiento)
 
-(Al margen superior izquierdo dos escudos que dicen GOBIERNO DEL DISTRITO FEDERAL.- México - La Ciudad de la Esperanza.- JEFE DE GOBIERNO DEL DISTRITO FEDERAL)
+DECRETO POR EL QUE SE EXPIDE LA LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL.
 
-DECRETO POR EL QUE SE CREA LA LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL
+MARCELO LUIS EBRARD CASAUBON, Jefe de Gobierno del Distrito Federal, a sus habitantes sabed:
 
-ANDRÉS MANUEL LÓPEZ OBRADOR, Jefe de Gobierno del Distrito Federal, a sus habitantes sabed:
-
-Que la Honorable Asamblea Legislativa del Distrito Federal II Legislatura, se ha servido dirigirme el siguiente:
+Que la H. Asamblea Legislativa del Distrito Federal, V Legislatura se ha servido dirigirme el siguiente:
 
 DECRETO
 
-(Al margen superior izquierdo el escudo nacional que dice: ESTADOS UNIDOS MEXICANOS - ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.- II LEGISLATURA)
+(Al margen superior izquierdo el Escudo Nacional que dice: ESTADOS UNIDOS MEXICANOS.- ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.- V LEGISLATURA)
 
-LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL,
+ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-II LEGISLATURA
+V LEGISLATURA
 
-DECRETA:
+D E C R E T A
 
-DECRETO POR EL QUE SE CREA LA LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL
+DECRETO POR EL QUE SE EXPIDE LA LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE OCTUBRE DE 2025)</small>
+Ú N I C O.- Se expide la Ley de Presupuesto y Gasto Eficiente del Distrito Federal, para quedar como sigue:
 
-LEY DE RESIDUOS SÓLIDOS DE LA CIUDAD DE MÉXICO
+LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL
 
-## TÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
+# LIBRO PRIMERO. DE LOS INGRESOS Y DEL PRESUPUESTO DE EGRESOS
 
-### CAPÍTULO ÚNICO. DEL OBJETO DE LEY
+## TÍTULO PRIMERO. Disposiciones Generales
 
-> <small>(REFORMADO, G.O. 3 DE ABRIL DE 2023)</small>
+### CAPÍTULO I. Objeto, definiciones y Unidades Responsables del Gasto
 
-###### Artículo 1°.
+###### ARTÍCULO 1.
 
-La presente Ley es de observancia general en la Ciudad de México, sus disposiciones son de orden público e interés social, y tiene por objeto regular la gestión integral de los residuos sólidos considerados como no peligrosos, así como la prestación del servicio público de limpia.
+La presente Ley es de orden público e interés general y tiene por objeto regular y normar las acciones en materia de programación, presupuestación, aprobación, ejercicio, contabilidad gubernamental, emisión de información financiera, control y evaluación de los ingresos y egresos públicos del Distrito Federal.
 
-###### Artículo 2°.
+La presente Ley es de observancia obligatoria para las Dependencias, Delegaciones, Órganos Desconcentrados, Entidades, Órganos Autónomos y Órganos de Gobierno del Distrito Federal.
 
-Son de aplicación supletoria las disposiciones contenidas en otras leyes, reglamentos, normas y demás ordenamientos jurídicos relacionados con las materias que regula la presente Ley.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-###### Artículo 3°.
+Los sujetos obligados a cumplir las disposiciones de esta Ley deberán observar que la administración de los recursos públicos se realice con base en criterios de legalidad, honestidad, austeridad, eficiencia, eficacia, economía, racionalidad, resultados, transparencia, control, rendición de cuentas, con una perspectiva que fomente la equidad de género y con un enfoque de respeto a los derechos humanos.
 
-Para los efectos de la presente Ley se entiende por:
+La Contraloría General del Distrito Federal, la Contaduría Mayor de Hacienda de la Asamblea Legislativa y la instancia competente de cada Órgano de Gobierno y Órgano Autónomo, fiscalizarán y vigilarán en el ámbito de sus respectivas competencias, el estricto cumplimiento de las disposiciones de esta Ley por parte de los sujetos obligados, conforme a las disposiciones legales que las facultan.
 
-I. Acopio: La acción tendiente a reunir residuos sólidos en un lugar determinado y apropiado para su recolección, tratamiento o disposición final;
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-II. Almacenamiento: El depósito temporal de los residuos sólidos en contenedores previos a su recolección, tratamiento o disposición final;
+###### ARTÍCULO 2.
 
-III. Almacenamiento selectivo o separado: La acción de depositar los residuos sólidos en los contenedores diferenciados;
+Para efectos de esta Ley, se entenderá por:
 
-> <small>(REFORMADA, G.O. 3 DE ABRIL DE 2023)</small>
+Administración Pública: Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que integran la Administración Pública del Distrito Federal;
 
-IV. Aprovechamiento del valor o valorización: El conjunto de acciones cuyo objetivo es mantener los materiales contenidos en los residuos en los ciclos económicos, productivos o comerciales, mediante su recuperación, reutilización, remanufactura, reparación, rediseño, reprocesamiento, reciclaje, tratamiento y coprocesamiento;
+Adecuaciones Presupuestarias: Modificaciones que se realizan durante el ejercicio fiscal a las estructuras presupuestales aprobadas por la Asamblea, así como a los calendarios presupuestales autorizados, siempre que permitan un mejor cumplimiento de los objetivos, metas y resultados de las vertientes de gasto aprobadas en el presupuesto;
 
-> <small>(ADICIONADA, G.O. 25 DE JUNIO DE 2019)</small>
+Analítico de Claves Presupuestales: Es el listado que muestra la desagregación del Gasto Público de la Administración Pública a nivel de capítulo y concepto, partida y partida genérica.
 
-IV Bis. Biodegradable: Material que es capaz de descomponerse en dióxido de carbono, metano, agua, componentes inorgánicos o biomasa, como resultado de la acción de microorganismos;
+Analítico de Plazas: El cual integra el desglose, separación y clasificación de las plazas presupuestarias que tiene asignadas una entidad de la Administración Pública.
 
-V. Biogás: El conjunto de gases generados por la descomposición microbiológica de la materia orgánica;
+Anteproyectos de Presupuesto: Estimaciones que las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades de la Administración Pública efectúan de las erogaciones necesarias para el desarrollo de sus programas, para que con base en éstos la Secretaría, integre, elabore y consolide el Proyecto de Presupuesto de Egresos;
 
-> <small>(REFORMADA, G.O. 25 DE JUNIO DE 2019)</small>
+Asamblea: Asamblea Legislativa del Distrito Federal;
 
-VI. Biopolímero: Es un polímero de origen natural que puede ser sintetizado por microorganismos u obtenido de fuentes animales o plantas. Son básicamente generados de recursos renovables tales como el Ácido Poliláctico (PLA) y el Polihidroxialcanoato (PHA) de forma enunciativa, más no limitativa, y por regla general son fácilmente biodegradables y compostables, pero pueden no serlo;
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
-VII. (DEROGADA, G.O. 8 DE SEPTIEMBRE DE 2014)
+Catálogo de Unidades Responsables: Relación de claves con la que se identifica la denominación de las Unidades Responsables del Gasto que realizan erogaciones con cargo al Presupuesto de Egresos;
 
-> <small>(ADICIONADA, G.O. 3 DE ABRIL DE 2023)</small>
+Código: Código Fiscal del Distrito Federal;
 
-VII Bis. Centros de acopio instalaciones autorizadas por la Secretaría para la prestación de servicios a terceros en donde se reciben, cuantifican, reúnen, separan, trasvasan y almacenan temporalmente residuos de la construcción y demolición de una o diferentes fuentes para ser recuperados y reutilizados en los términos de la normatividad aplicable, o enviados a instalaciones autorizadas para su tratamiento, reciclaje, reutilización, coprocesamiento o disposición final.
+Consejo de Evaluación: Consejo de Evaluación del Desarrollo Social del Distrito Federal;
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+Contaduría Mayor: Contaduría Mayor de Hacienda de la Asamblea;
 
-VIII. Composta: El producto resultante del proceso de composteo;
+Contraloría: Contraloría General del Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 25 DE JUNIO DE 2019)</small>
+Coordinadora de Sector: Dependencia que en cada caso coordina un agrupamiento de Órganos Desconcentrados y/o Entidades;
 
-VIII Bis. Compostable: Material susceptible a biodegradarse como mínimo al 90 por ciento en 6 meses, si es sometido a un ambiente rico de dióxido de carbono o en contacto con materiales orgánicos, al cabo de 3 meses la masa del material debe estar constituida como mínimo por el 90% de fragmentos de dimensiones inferiores a 2 milímetros;
+CONAC: Consejo Nacional de Armonización Contable;
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+Constitución: Constitución Política de los Estados Unidos Mexicanos;
 
-IX. Composteo: El proceso de descomposición aeróbica de la materia orgánica mediante la acción de microorganismos específicos;
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+Contrato Multianual: Instrumento jurídico a través del cual se establecen compromisos presupuestales que exceden el periodo anual del presupuesto, que cuenta con la autorización expresa y por escrito de la Secretaría;
 
-X. Consumo Sustentable: El uso de bienes y servicios que responde a necesidades básicas y proporciona una mejor calidad de vida, al tiempo que minimizan el uso de recursos naturales, materiales tóxicos y emisiones de desperdicios y contaminantes durante todo el ciclo de vida, de tal manera que se origina una forma responsable de disminuir riesgos en las necesidades de de (sic) futuras generaciones;
+Corto Plazo: Periodo que comprende de 1 y hasta 3 años;
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+Cuenta Comprobada: Documentos relativos a un periodo determinado, integrados por el resumen de operaciones de caja o de pólizas de ingresos o egresos;
 
-XI. Contenedor: El recipiente destinado al depósito temporal de los residuos sólidos;
+Cuenta por Liquidar Certificada: Instrumento mediante el cual los servidores públicos facultados de las Dependencias, Delegaciones, Órganos Desconcentrados, Entidades, Órganos Autónomos y Órganos de Gobierno, autorizan el pago de los compromisos adquiridos con cargo a su Presupuesto de Egresos;
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+Cuenta Pública: Cuenta de la Hacienda Pública Local;
 
-XII. Criterios: Los lineamientos obligatorios contenidos en la presente Ley para orientar las acciones de gestión integral de los residuos sólidos, que tendrán el carácter de instrumentos de política ambiental;
+Decreto: Decreto de Presupuesto de Egresos del Distrito Federal que anualmente autoriza la Asamblea;
 
-> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+Delegaciones: Órganos Político-Administrativos en cada una de las demarcaciones territoriales en que se divide el Distrito Federal;
 
-XII Bis. Daño al ambiente: Pérdida, cambio, deterioro, menoscabo, afectación o modificación adversos y mesurables de los hábitats, de los ecosistemas, de los elementos y recursos naturales, de sus condiciones químicas, físicas y biológicas, de las relaciones e interacción que se dan entre éstos, así como de los servicios ambientales que proporcionan.
+Dependencias: Unidades administrativas que integran la Administración Pública Centralizada, de conformidad con la Ley Orgánica;
 
-> <small>(REFORMADA, G.O. 21 DE OCTUBRE DE 2022)</small>
+Entidades: Organismos descentralizados, empresas de participación estatal mayoritaria y los fideicomisos públicos del sector paraestatal del Distrito Federal;
 
-XIII. Alcaldías: Los órganos político administrativos de cada demarcación territorial en las que se divide la Ciudad de México;
+Entidades Coordinadas: Las que se designen formando parte de un sector determinado;
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+Estatuto: Estatuto de Gobierno del Distrito Federal;
 
-XIV. Disposición final: La acción de depositar o confinar permanentemente residuos sólidos en sitios o instalaciones cuyas características prevean afectaciones a la salud de la población y a los ecosistemas y sus elementos;
+Gaceta: Gaceta Oficial del Distrito Federal;
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+Informe Trimestral: Informe sobre la ejecución y cumplimiento de los presupuestos y programas aprobados, que el Jefe de Gobierno presenta cada tres meses a la Asamblea;
 
-XV. Estaciones de transferencia: Las instalaciones para el trasbordo de los residuos sólidos de los vehículos de recolección a los vehículos de transferencia;
+Ingresos Excedentes: Recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos o en su caso respecto de los Ingresos Propios de las Entidades;
 
-> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XV Bis. Certificado de Empresas Ambientalmente Responsables: El certificado otorgado por la Secretaría, a empresas y prestadores de servicio en cuya actividad aplica métodos, prácticas, técnicas y procesos que ayudan a reutilizar, reusar, reciclar, tratar y minimizar los residuos sólidos, donde todas estas actividades son compatibles y aceptadas como amigables para el medio ambiente, son seguras, de bajo riesgo para la población en general y beneficio de la misma, en términos de la Ley Ambiental de la Ciudad de México, su Reglamento y demás disposiciones aplicables.
+Ingresos Propios: Recursos que por cualquier concepto obtengan las Entidades, distintos a los recursos por concepto de subsidios, aportaciones y transferencias;
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+Jefe de Gobierno: Jefe de Gobierno del Distrito Federal;
 
-XVI. Generación: La acción de producir residuos sólidos a través de procesos productivos o de consumo;
+Largo Plazo: Periodo que comprende más de 6 años;
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+Ley: Ley de Presupuesto y Gasto Eficiente del Distrito Federal;
 
-XVII. Generadores de alto volumen: Las personas físicas o morales que generen un promedio igual o superior a 50 kilogramos diarios en peso bruto total de los residuos sólidos o su equivalente en unidades de volumen;
+Ley de Ingresos: Ley de Ingresos del Distrito Federal, que anualmente autoriza la Asamblea;
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+Ley de Planeación: Ley de Planeación del Desarrollo del Distrito Federal;
 
-XVIII. Gestión integral: El conjunto articulado e interrelacionado de acciones y normas operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación para el manejo de los residuos sólidos, desde su generación hasta la disposición final;
+Ley General: Ley General de Contabilidad Gubernamental;
 
-> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+Ley Orgánica: Ley Orgánica de la Administración Pública del Distrito Federal;
 
-XIX. Impactos ambientales significativos: Aquellos realizados por las actividades humanas que sobrepasen los límites permisibles en las normas oficiales mexicanas, las normas ambientales para la Ciudad de México, la ley ambiental, la ley General, los reglamentos y demás disposiciones jurídicas aplicables, o bien aquellos producidos por efectos naturales que implique daños al ambiente;
+Mediano Plazo: Periodo que comprende más de 3 y hasta 6 años;
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+Oficialía: Oficialía Mayor del Gobierno del Distrito Federal;
 
-XX. Ley General: La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+Órganos Autónomos: La Universidad Autónoma de la Ciudad de México, el Instituto Electoral, el Tribunal Electoral, la Comisión de Derechos Humanos, el Tribunal de lo Contencioso Administrativo, la Junta Local de Conciliación y Arbitraje y el Instituto de Acceso a la Información Pública, todos del Distrito Federal;
 
-> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+Órganos de Gobierno: La Asamblea y el Tribunal Superior de Justicia, ambos del Distrito Federal;
 
-XXI. Ley Ambiental: La Ley Ambiental de la Ciudad de México;
+Órganos Desconcentrados: Los que con este carácter se establezcan conforme a la Ley Orgánica y su Reglamento, que integran la Administración Pública Desconcentrada;
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+Presupuesto Autorizado: Asignaciones presupuestarias anuales comprendidas en el Decreto autorizadas por la Asamblea;
 
-XXII. Lixiviados: Los líquidos que se forman por la reacción, arrastre o filtrado de los materiales que constituyen los residuos sólidos y que contienen sustancias en forma disuelta o en suspensión que pueden infiltrarse en los suelos o escurrirse fuera de los sitios en los que se depositen residuos sólidos y que puede dar lugar a la contaminación del suelo y de cuerpos de agua;
+Presupuesto basado en Resultados: Estrategia para asignar recursos en función del cumplimiento de objetivos previamente definidos, determinados por la identificación de demandas a satisfacer, así como por la evaluación periódica que se haga de su ejecución con base en indicadores de desempeño;
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+Presupuesto Comprometido: Provisiones de recursos que las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades constituyen con cargo a su presupuesto, para atender los compromisos derivados de cualquier acto y/o instrumento jurídico, tales como las reglas de operación de los programas, otorgamiento de subsidios, aportaciones a fideicomisos u otro concepto que signifique una obligación, compromiso o potestad de realizar una erogación;
 
-XXIII. Manejo Integral: Las actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
+Presupuesto Devengado: Reconocimiento de las obligaciones de pago por parte de las Unidades Responsables del Gasto a favor de terceros que se deriven por los compromisos o requisitos cumplidos por éstos conforme a las disposiciones aplicables, por mandato de tratados, leyes o decretos y por resoluciones y sentencias definitivas;
 
-> <small>(ADICIONADA, G.O. 3 DE ABRIL DE 2023)</small>
+Presupuesto Ejercido: Importe de las erogaciones respaldadas por los documentos comprobatorios una vez autorizadas para su pago con cargo al presupuesto autorizado o modificado, determinadas por el acto de recibir el bien o el servicio, independientemente de que éste se haya pagado o no;
 
-XXIII Bis. Manifiesto de entrega – recepción: Es el documento
+Presupuesto Modificado: Presupuesto que resulta de aplicar las adecuaciones presupuestarias al presupuesto autorizado, de conformidad con lo que establece esta Ley;
 
-> <small>(ADICIONADA, G.O. 3 DE ABRIL DE 2023)</small>
+Presupuesto Pagado: Erogaciones realizadas para efectos del cumplimiento efectivo de la obligación;
 
-XXIII Ter. Materiales reciclados: Aquellos materiales contenidos en los residuos que son transformados y reincorporados en los ciclos productivos mediante un proceso de reciclaje.
+Programas de Inversión: Acciones que implican erogaciones de gasto de capital destinadas tanto a obra pública, infraestructura, adquisición y modificación de inmuebles, adquisiciones de bienes muebles asociadas a estos programas, rehabilitaciones que impliquen un aumento en la capacidad o vida útil de los activos de infraestructura e inmuebles, equipamiento y mantenimiento;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], G.O. 3 DE ABRIL DE 2023)</small>
+Programa Delegacional: Programas de desarrollo de las demarcaciones territoriales del Distrito Federal; Programa General: Programa General de Desarrollo del Distrito Federal. Documento rector que contiene las directrices generales del desarrollo social, económico y del ordenamiento territorial;
 
-XXIII Quáter. Microplásticos: Fragmentos de plástico de tamaño inferior a 5 milímetros.
+Programa Operativo: Programa Operativo de la Administración Pública del Distrito Federal referente a su actividad conjunta y que cuantifica los objetivos, metas, programas, resultados y programas delegacionales para la asignación de recursos presupuestales;
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+Programa Operativo Anual: Documento que sirve de base para la integración de los Anteproyectos de Presupuesto anuales de las propias Dependencias, Órganos Desconcentrados, Delegaciones y Entidades;
 
-XXIV. Minimización: El conjunto de medidas tendientes a evitar la generación de los residuos sólidos y aprovechar, tanto sea posible, el valor de aquellos cuya generación no sea posible evitar;
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+Proyectos de Inversión: Acciones realizadas por las Dependencias, Delegaciones, Órganos Desconcentrados y Entidades, que son registradas en la cartera de proyectos de inversión que administra la Secretaría, que implican erogaciones de gasto de capital y que son destinadas a la adquisición de activos requeridos para atender una necesidad o problemática pública específica; el desarrollo de proyectos específicos y la construcción, adquisición y modificación de inmuebles, así como las rehabilitaciones que impliquen un aumento en la capacidad o vida útil de los activos de infraestructura e inmuebles
 
-XXV. Plan de Manejo: El Instrumento cuyo objetivo es minimizar la generación y maximizar la valorización de residuos sólidos urbanos y residuos de manejo especial, bajo criterios de eficiencia ambiental, tecnológica, económica y social, diseñado bajo los principios de responsabilidad compartida y manejo integral, que considera el conjunto de acciones, procedimientos y medios viables e involucra a productores, importadores, exportadores, distribuidores, comerciantes, consumidores, usuarios de subproductos y grandes generadores de residuos, según corresponda, así como a los tres niveles de gobierno;
+Proyecto de Presupuesto: Documento que elabora, integra y consolida la Secretaría y que contiene la estimación de gastos a efectuar por parte de las Unidades Responsables del Gasto para el año inmediato siguiente, mismo que el Jefe de Gobierno presenta a la Asamblea para su aprobación;
 
-> <small>(ADICIONADA, G.O. 3 DE ABRIL DE 2023)</small>
+Reglamento: Reglamento de la Ley de Presupuesto y Gasto Eficiente del Distrito Federal;
 
-XXV Bis. Planta de Reciclaje de Residuos de la Construcción y de la Demolición (PR-RCD): Instalación cuyo objetivo es transformar los residuos de la construcción, demolición y excavación en agregados reciclados y subproductos para reincorporarlos a un ciclo de vida, a fin de evitar que se desperdicien estos residuos potencialmente útiles, reducir el consumo de materiales naturales, así como el uso de energía;
+Reglamento Interior: Reglamento Interior de la Administración Pública del Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 3 DE ABRIL DE 2023)</small>
+Responsabilidad Financiera: Observancia de los principios y las disposiciones de esta Ley, la Ley de Ingresos, el Presupuesto de Egresos del Distrito Federal, el Código y los ordenamientos jurídicos aplicables que procuren la recaudación, el equilibrio presupuestario, la disciplina fiscal y el cumplimiento de las metas aprobadas por la Asamblea;
 
-XXV Ter. Plataforma digital de trazabilidad: Plataforma informática que permite establecer la gestión integral de los residuos de manejo especial a partir de los datos registrados en los manifiestos de entrega-recepción.
+Resultado: Conjunto de objetivos relacionados entre sí tendientes a crear una transformación de una determinada situación;
 
-> <small>(ADICIONADA, G.O. 3 DE ABRIL DE 2023)</small>
+Secretaría: Secretaría de Finanzas del Distrito Federal;
 
-XXV Quáter. Prestador de servicios para el manejo de residuos: personas físicas o morales que cuentan con el respectivo permiso, licencia o autorización otorgado por la Secretaría, para cualquiera de las siguientes actividades: recolectar, transportar, acopiar y/o reciclar residuos sólidos y de manejo especial;
+Sector: Agrupamiento de Entidades Coordinadas por la Secretaría y que en cada caso designe el Jefe de Gobierno;
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+Sistema de Evaluación del Desempeño: Conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión que permitan conocer el impacto social de los programas y de los proyectos;
 
-XXVI. Planta de selección y tratamiento: La instalación donde se lleva a cabo cualquier proceso de selección y tratamiento de los residuos sólidos para su valorización o, en su caso, disposición final;
+Tesorería: Tesorería del Distrito Federal, y (sic)
 
-> <small>(ADICIONADA, G.O. 25 DE JUNIO DE 2019)</small>
+Unidades Responsables del Gasto: Órganos Autónomos y de Gobierno, Dependencias, Órganos Desconcentrados, Delegaciones y Entidades y cualquier otro órgano o unidad que realicen erogaciones con cargo al Presupuesto de Egresos.
 
-XXVI Bis. Plástico. Material fabricado a partir de una amplia gama de polímeros orgánicos, fósiles y no fósiles, tales como el tereftalato de polietileno (PET), el polipropileno (PP), el polietileno de baja densidad (PEBD), el polietileno de alta densidad (PEAD), el poliestireno (PS), poliestireno expandido (PSE), el policloruro de vinilo (PVC) y policarbonato que pueden moldearse mientras es suave y luego volverse a su forma rígida o ligeramente rígida e incluso elástica;
+Vertiente de gasto: Conjunto de actividades relacionadas entre sí en las que se ejercen recursos para el logro del objetivo que les da sentido y dirección, a fin de alcanzar un resultado específico en beneficio de una población objetivo a través de una unidad responsable del gasto;
 
-> <small>(ADICIONADA, G.O. 25 DE JUNIO DE 2019)</small>
+###### ARTÍCULO 3.
 
-XXVI Ter. Plásticos degradables: Materiales plásticos a los que se incluyen aditivos catalizadores que propician su descomposición en múltiples etapas. Incluye los plásticos oxodegradables, fotodegradables, hidrodegradables y termodegradables, de manera enunciativa más no limitativa;
+La Secretaría interpretará para efectos administrativos las disposiciones de esta Ley y establecerá para las Dependencias, Delegaciones, Entidades y Órganos Desconcentrados, con la participación de la Contraloría, en el ámbito de su competencia, las medidas conducentes para aplicar correctamente lo dispuesto en esta Ley y en su Reglamento.
 
-> <small>(ADICIONADA, G.O. 25 DE JUNIO DE 2019)</small>
+En el caso de los Órganos Autónomos y de Gobierno, sus respectivas unidades de administración podrán establecer las medidas conducentes para interpretar y aplicar correctamente lo dispuesto en esta Ley, las cuales para su vigencia deberán publicarse en la Gaceta.
 
-XXVI Quater. Productos plásticos de un solo uso: Productos que se fabrican total o parcialmente a partir de plástico y que no están concebidos para lograr, dentro de su vida útil, múltiples rotaciones al ser devueltos al productor para su recarga o ser reutilizados para el mismo propósito con que fueron concebidos, tales como bolsas, tenedores, cuchillos, cucharas, palitos mezcladores, platos, popotes o pajitas, bastoncillos para hisopos de algodón, globos y varillas para globos, vasos y sus tapas, charolas para transportar alimentos, aplicadores de tampones, fabricados total o parcialmente de plásticos, de manera enunciativa más no limitativa;
+###### ARTÍCULO 4.
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+El gasto público en el Distrito Federal, se basará en el Presupuesto de Egresos aprobado por la Asamblea y comprenderá las erogaciones por concepto de gasto corriente, inversión física, inversión financiera, responsabilidad patrimonial, así como pagos de pasivo o deuda que realizan las Unidades Responsables del Gasto.
 
-XXVII. Pepena: La acción de recoger entre los residuos sólidos aquellos que tengan valor en cualquier etapa del sistema de manejo;
+Las Unidades Responsables del Gasto están obligadas a rendir cuentas por la administración de los recursos públicos en los términos de la presente Ley y de las demás disposiciones aplicables.
 
-> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+###### ARTÍCULO 5.
 
-XXVIII. Procuraduría: La Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México;
+La autonomía presupuestaria y de gestión otorgada a los Órganos Autónomos y de Gobierno a través de la Constitución, Estatuto o, en su caso, de disposición expresa contenida en las respectivas leyes de su creación, comprende:
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+I. Aprobar sus proyectos de presupuesto y enviarlos a la Secretaría para su integración al proyecto de Presupuesto de Egresos, observando las previsiones de ingresos que les comunique la Secretaría y los criterios generales en los cuales se fundamente el Decreto;
 
-XXIX. Producción Sustentable: Aquella que incluye aspectos de reducción en el uso de energía, materias primas y materiales tóxicos, así como procesos más eficientes para la obtención de beneficios ambientales y económicos y una producción más limpia;
+II. Será responsabilidad exclusiva de las unidades administrativas y de los servidores públicos competentes, manejar, administrar y ejercer sus presupuestos sujetándose a sus propias leyes, así como a las normas que al respecto se emitan en congruencia con lo previsto en esta Ley, en todo aquello que no se oponga a las normas que rijan su organización y funcionamiento.
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XXX. Recolección: La acción de recibir los residuos sólidos de sus generadores y trasladarlos a las instalaciones para su transferencia, tratamiento o disposición final;
+Asimismo, elaborarán sus calendarios presupuestales y deberán comunicarlos a la Secretaría a más tardar el 20 de enero del ejercicio fiscal correspondiente, los cuales estarán en función de la capacidad financiera del Distrito Federal y deberán ser publicados en la Gaceta a más tardar dentro de los 10 días hábiles siguientes a la fecha de su comunicación.
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+III. Autorizar las adecuaciones a sus presupuestos para el mejor cumplimiento de sus programas, previa aprobación de su órgano competente y de acuerdo con la normatividad correspondiente, sin exceder sus presupuestos autorizados y cumpliendo con las metas y objetivos de sus programas operativos;
 
-XXXI. Recolección selectiva o separada: La acción de recolectar los residuos sólidos de manera separada en orgánicos, inorgánicos y de manejo especial;
+IV. Coadyuvar con la disciplina presupuestaria, determinando los ajustes que correspondan en sus presupuestos en caso de disminución de ingresos, observando en lo conducente lo establecido en esta Ley y en la normatividad aplicable, y
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+V. Llevar contabilidad y elaborar los informes correspondientes, en términos del Libro Segundo de la presente Ley.
 
-XXXII. Reciclaje: La transformación de los materiales o subproductos contenidos en los residuos sólidos a través de distintos procesos que permiten restituir su valor económico;
+Los Órganos Autónomos y de Gobierno deberán publicar trimestralmente en su página de internet y en la Gaceta los ingresos del periodo distintos a las transferencias del Gobierno del Distrito Federal, incluyendo sus rendimientos financieros, el destino y saldo de los fideicomisos en los que participen, en los términos de las disposiciones generales aplicables.
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+La información a que se refiere el párrafo anterior deberá remitirse a la Secretaría para su integración en los informes trimestrales y en la Cuenta Pública.
 
-XXXIII. Relleno sanitario: La obra de infraestructura que aplica métodos de ingeniería para la disposición final de los residuos sólidos ubicados en sitios adecuados al ordenamiento ecológico, mediante el cual los residuos sólidos se depositan y compactan al menor volumen práctico posible y se cubren con material natural o sintético para prevenir y minimizar la generación de contaminantes al ambiente y reducir los riesgos a la salud;
+Los Órganos Autónomos y de Gobierno deberán seguir en lo conducente las disposiciones de esta Ley, de las leyes de su creación y demás normatividad aplicable en la materia.
 
-> <small>(ADICIONADA, G.O. 3 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
-XXXIII Bis. Residuos de la construcción y demolición: Materiales, productos o subproductos generados durante las actividades de construcción tales como: construcción, modificación, remodelación, ampliación, adecuación, rehabilitación, restauración, reparación, sustitución de infraestructura, conservación, mantenimiento, instalación demolición u otras; así como el producto proveniente de la excavación cuando se haya alterado en sus condiciones físicas, químicas y biológicas originales.
+###### ARTÍCULO 6.
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+La Asamblea autorizará la afectación o retención de participaciones federales asignadas al Distrito Federal, para el pago de obligaciones contraídas por el Distrito Federal, de acuerdo con el siguiente procedimiento:
 
-XXXIV. Residuos urbanos: Los generados en casa habitación, unidad habitacional o similares que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques, los provenientes de cualquier otra actividad que genere residuos sólidos con características domiciliarias y los resultantes de la limpieza de las vías públicas y áreas comunes, siempre que no estén considerados por esta Ley como residuos de manejo especial;
+I. El Jefe de Gobierno enviará a la Asamblea la solicitud correspondiente indicando:
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+a) Compromiso de pago que se pretende contraer;
 
-XXXV. Residuos Orgánicos: Todo residuo sólido biodegradable;
+b) Monto total a pagar;
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+c) Calendario de pagos;
 
-XXXVI. Residuos Inorgánicos: Todo residuo que no tenga características de residuo orgánico y que pueda ser susceptible a un proceso de valorización para su reutilización y reciclaje, tales como vidrio, papel, cartón, plásticos, laminados de materiales reciclables, aluminio y metales no peligrosos y demás no considerados como de manejo especial;
+d) Fuente de garantía, y e) Mecanismos de pago.
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+II. La Asamblea, dentro de un plazo de 30 días, contados a partir de la presentación de la solicitud, deberá emitir el dictamen correspondiente. En todo caso, se aprobará por mayoría simple de los votos de los legisladores presentes en la Sesión.
 
-XXXVII. Residuos sólidos: El material, producto o subproducto que sin ser considerado como peligroso, se descarte o deseche y que sea susceptible de ser aprovechado o requiera sujetarse a métodos de tratamiento o disposición final;
+No se reconocerán compromisos adquiridos sin la autorización de la Asamblea.
 
-> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2025)</small>
+La Secretaría llevará un Registro Único de Compromisos y Garantías que afecten los ingresos del Distrito Federal.
 
-XXXVII Bis. Residuos Textiles: material textil o producto fabricado con textiles que ya no se utiliza o se considera no apto para su función original, como ropa, calzado, bolsas, entre otros;
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE NOVIEMBRE DE 2010)</small>
+El Jefe de Gobierno, a través de la Secretaría, informará trimestralmente a la Asamblea de la cartera y evolución de los compromisos y garantías autorizados, con los cuales se hayan afectado los ingresos del Distrito Federal en los términos previstos en la Ley de Coordinación Fiscal y del presente artículo. En el informe se detallarán los compromisos contraídos y las garantías otorgadas, así como las fuentes de pago o garantía.
 
-XXXVIII. Responsabilidad Compartida: El principio mediante el cual se reconoce que los residuos sólidos urbanos y de manejo especial son generados a partir de la realización de actividades que satisfacen necesidades de la sociedad, mediante cadenas de valor tipo producción, proceso, envasado, distribución, consumo de productos, y que, en consecuencia, su manejo integral es una corresponsabilidad social y requiere la participación conjunta, coordinada y diferenciada de productores, distribuidores, consumidores, usuarios de subproductos, y de los tres órganos de gobierno según corresponda, bajo un esquema de factibilidad de mercado y eficiencia ambiental, tecnológica, económica y social;
+Podrán incluirse las obligaciones derivadas de los convenios de seguridad social entre el Gobierno Federal y la Administración Pública.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
-XXXIX. Reciclaje: La transformación de los materiales o subproductos contenidos en los residuos sólidos a través de distintos procesos que permiten restituir su valor económico;
+En el caso de las Entidades, Órganos Autónomos y de Gobierno, éstos deberán garantizar en su presupuesto el cumplimiento de estas obligaciones de seguridad social. En caso de que no cubran los adeudos en los plazos correspondientes y se hayan agotado los procesos de conciliación de pagos en los términos y condiciones que establezca la Ley Federal en la materia, la Secretaría queda facultada para enterar los recursos a la autoridad federal competente y afectar directamente el presupuesto que les autorice la Asamblea por el equivalente a las cantidades adeudadas, a fin de no afectar las participaciones del Distrito Federal.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XL. Reutilización: El empleo de un residuo sólido sin que medie un proceso de transformación; con la función que desempeñaba anteriormente o con otros fines;
+ARTÍCULO 6 BIS.- Cuando derivado del incumplimiento de obligaciones directamente atribuibles a las Unidades Responsables del Gasto, la Federación realice una afectación en las participaciones en ingresos federales que le asigna al Distrito Federal, las Dependencias, Órganos Desconcentrados, Delegaciones, Entidades, Órganos de Gobierno y Autónomos que lo hayan generado, deberán realizar el ajuste correspondiente a su presupuesto conforme a lo que determine la Secretaría.
 
-> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+###### ARTÍCULO 7.
 
-XLI. Secretaría: La Secretaría del Medio Ambiente de la Ciudad de México;
+La Secretaría operará un sistema informático de planeación de recursos gubernamentales a fin de optimizar y simplificar las operaciones de registro presupuestal y de trámite de pago, además de concentrar la información presupuestaria, financiera y contable de la Administración Pública.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XLII. Tratamiento: El procedimiento mecánico, físico, químico, biológico o térmico, mediante el cual se cambian las características de los residuos sólidos, con la posibilidad de reducir su volumen o peligrosidad; y
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades incorporarán al referido sistema, la información programática, presupuestal, financiera y contable conforme al Reglamento y a las disposiciones generales que para tal fin emita la Secretaría.
 
-> <small>(ADICIONADA, G.O. 3 DE ABRIL DE 2023)</small>
+Asimismo, respecto de los registros contables y la información financiera, éstos quedaran regulados en el Libro Segundo de la presente Ley.
 
-XLII BIS. Unidad de inspección: Persona física o moral que realiza actos de verificación debidamente acreditada por alguna Entidad de Acreditación autorizada por la Secretaría de Economía y aprobada por la Secretaría.
+Los Órganos Autónomos y de Gobierno coordinarán con la Secretaría la instrumentación del sistema en el ámbito de sus respectivas competencias.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE NOVIEMBRE DE 2010)</small>
+###### ARTÍCULO 8.
 
-XLIII. Valorización: El principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el contenido energético de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de eficiencia ambiental, tecnológica y económica.
+Las Unidades Responsables del Gasto estarán facultadas para realizar los trámites presupuestarios y de pago y, en su caso, emitir las autorizaciones correspondientes en los términos de esta Ley, a través del sistema a que se refiere el artículo anterior, para lo cual, en sustitución de la firma autógrafa, se emplearán los medios de identificación electrónica. En los casos excepcionales que determine la Secretaría podrán realizarse los trámites mediante la utilización de documentos impresos con la correspondiente firma autógrafa del servidor público competente.
 
-###### Artículo 4°.
+El uso de los medios de identificación electrónica producirá los mismos efectos que las leyes otorgan a los documentos equivalentes con firma autógrafa y, en consecuencia, tendrán el mismo valor probatorio.
 
-Son autoridades competentes para la aplicación de la presente Ley, y ejercerán las atribuciones de conformidad con la distribución de facultades que este ordenamiento, su reglamento y demás disposiciones jurídicas aplicables establecen:
+Los servidores públicos de las Unidades Responsables del Gasto están obligados a llevar un estricto control de los medios de identificación electrónica, así como de cuidar la seguridad y protección de los equipos y sistemas electrónicos, la custodia de la documentación comprobatoria y justificatoria y en su caso, de la confidencialidad de la información en ellos contenida.
 
-> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-I. La persona titular de la Jefatura de Gobierno de la Ciudad de México;
+###### ARTÍCULO 9.
 
-II. La Secretaría;
+La Secretaría y la Contraloría en el ámbito de su competencia deberán establecer programas, políticas y directrices para promover la eficiencia y eficacia en la gestión pública, tomando en consideración un enfoque en materia de equidad de género y derechos humanos, a través de acciones que modernicen y mejoren la prestación de los servicios públicos, promuevan la productividad en el desempeño de las funciones de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades y reduzcan gastos de operación.
 
-III. La Secretaría de Obras y Servicios;
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
-IV. La Secretaría de Salud;
+###### ARTÍCULO 10.
 
-V. La Procuraduría; y
+La Administración Pública impulsará la igualdad entre mujeres y hombres a través de la incorporación de la perspectiva de género en la planeación, diseño, elaboración, ejecución, seguimiento y evaluación del presupuesto basado en resultados a través de las Unidades Responsables del Gasto.
 
-> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+Será obligatorio para todas las Unidades Responsables del Gasto, la inclusión de programas orientados a promover la igualdad de género en sus presupuestos anuales, considerando directamente a atender las necesidades de las mujeres, así como a generar un impacto diferenciado de género.
 
-VI. Las Alcaldías.
+Para tal efecto, deberán considerar lo siguiente:
 
-###### Artículo 5°.
+I. Incorporar el enfoque de género y reflejarlo en los indicadores para resultados de los programas bajo su responsabilidad;
 
-Corresponde a la o el Jefe de Gobierno el ejercicio de las siguientes facultades:
+II. Identificar y registrar la población objetivo y la atendida por dichos programas, diferenciada por sexo y grupo de edad en los indicadores para resultados y en los padrones de beneficiarias y beneficiarios que corresponda;
 
-I. Prestar el servicio público de limpia a través de las entidades, dependencias y órganos que al efecto señale la presente Ley;
+III. Fomentar el enfoque de género en el diseño y la ejecución de programas en los que, aún cuando no estén dirigidos a mitigar o solventar desigualdades de género, se puede identificar de forma diferenciada los beneficios específicos para mujeres y hombres;
 
-> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+IV. En los programas bajo su responsabilidad, establecer o consolidar las metodologías de evaluación y seguimiento que generen información relacionada con indicadores para resultados con enfoque de género;
 
-II. Aprobar el Programa de Gestión Integral de los Residuos Sólidos, de conformidad con lo dispuesto en la Ley del Sistema de Planeación del Desarrollo de la Ciudad de México;
+V. Aplicar el enfoque de género en las evaluaciones de los programas, con los criterios que emitan el Instituto de las Mujeres del Distrito Federal y el Consejo de Evaluación;
 
-III. Expedir los ordenamientos que se deriven de la presente ley;
+VI. Incluir en sus programas y campañas de comunicación social contenidos que promuevan la igualdad entre mujeres y hombres, la erradicación de la violencia de género, y de roles y estereotipos que fomenten cualquier forma de discriminación, observando lo dispuesto por el artículo 83, fracción I de la Ley. El Instituto de las Mujeres del Distrito Federal coadyuvará con las Unidades Responsables del Gasto en el contenido de estos programas y campañas, y
 
-IV. Celebrar convenios de coordinación en materia de manejo de los residuos sólidos y prestación del servicio público de limpia con la Federación, entidades federativas y municipios;
+VII. Elaborar diagnósticos sobre la situación de las mujeres en los distintos ámbitos de su competencia.
 
-> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+La Secretaría, en coordinación con el Instituto de las Mujeres del Distrito Federal, y con base en la información que proporcionen las Unidades Responsables del Gasto, remitirá a la Comisión de Equidad de Género de la Asamblea, un informe trimestral de los avances financieros y programáticos de las actividades institucionales contenidas en el Anexo a que refiera el Reglamento, a más tardar a los 45 días naturales de concluido el trimestre que corresponda.
 
-V. Proponer el pago de derechos por la prestación del servicio público de limpia correspondiente en las disposiciones del Código Fiscal de la Ciudad de México; y
+Dicho informe deberá contener las oportunidades de mejora que realice el Instituto de las Mujeres del Distrito Federal, en cuanto al impacto de las actividades mencionadas.
 
-VI. Las demás que en la materia le otorguen esta Ley y otros ordenamientos jurídicos aplicables.
+Las Unidades Responsables del Gasto promoverán acciones para ejecutar el Programa contenido en la Ley de Igualdad Sustantiva entre Mujeres y Hombres en el Distrito Federal.
 
-###### Artículo 6°.
+El Instituto de las Mujeres del Distrito Federal, en coordinación con la Secretaría podrá emitir recomendaciones a la Administración Pública sobre las oportunidades de mejora en materia de presupuesto con perspectiva de género, así como los programas y acciones encaminadas a disminuir las brechas de igualdad entre mujeres y hombres.
 
-Corresponde a la Secretaría el ejercicio de las siguientes facultades:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
-I. Integrar a la política ambiental las disposiciones complementarias que esta Ley establece en materia de gestión integral de los residuos sólidos, así como su aplicación;
+###### ARTÍCULO 11.
 
-II. Formular, evaluar y cumplir, en el marco de su competencia, con las disposiciones del Programa de Gestión Integral de los Residuos Sólidos que esta Ley establece;
+Con la finalidad de cumplir con el programa de Derechos Humanos del Distrito Federal, será obligatorio para todas las Unidades Responsables de Gasto, la inclusión del enfoque de derechos humanos en la ejecución, seguimiento y evaluación del presupuesto basado en resultados.
 
-III. Coordinarse con la Secretaría de Obras y Servicios en la aplicación de las disposiciones complementarias para la restauración, prevención y control de la contaminación del suelo generada por el manejo de los residuos sólidos que establecen esta Ley y demás disposiciones jurídicas aplicables;
+Asimismo, deberán integrar en sus anteproyectos de Presupuesto de Egresos, recursos para el eficaz cumplimiento de sus objetivos y metas del programa de derechos humanos del Distrito Federal, para tal efecto, deberán considerar lo siguiente:
 
-> <small>(REFORMADA, G.O. 3 DE ABRIL DE 2023)</small>
+I.- La realización y el seguimiento de las acciones encaminadas a mejorar los proyectos y los programas de gobierno en materia de desarrollo humano y régimen democrático;
 
-IV. Emitir opinión sobre el diseño, construcción, operación y cierre de estaciones de transferencia, plantas de selección y tratamiento, plantas de reciclaje y sitios de disposición final de los residuos sólidos.
+II.- Que las políticas públicas en materia presupuestal, se sustenten en un enfoque de derechos humanos;
 
-> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+III.- Que los servidores públicos, en la aplicación de los programas, asignación de recursos y evaluación de los resultados, consideren los principios de no discriminación e igualdad.
 
-V. Integrar un inventario de los residuos sólidos y sus fuentes generadoras, en coordinación con la Secretaría de Obras y Servicios y las Alcaldías;
+### CAPÍTULO II. Fideicomisos Públicos
 
-VI. Integrar a la política de información y difusión en materia ambiental los asuntos derivados de la generación y manejo de los residuos sólidos;
+###### ARTÍCULO 12.
 
-VII. Promover la investigación, desarrollo y aplicación de tecnologías, equipos, sistemas y procesos que eliminen, reduzcan o minimicen la liberación al ambiente y la transferencia de uno a otro de sus elementos, de contaminantes provenientes del manejo de los residuos sólidos;
+Son fideicomisos públicos los que constituya el Gobierno del Distrito Federal por conducto de la Secretaría en su carácter de fideicomitente único de la Administración Pública. Los fideicomisos públicos tendrán como propósito auxiliar al Jefe de Gobierno o a los Jefes Delegacionales, mediante la realización de actividades prioritarias o de las funciones que legalmente les corresponden.
 
-> <small>(ADICIONADA, G.O. 3 DE ABRIL DE 2023)</small>
+Se asimilarán a los fideicomisos públicos en términos de transparencia y rendición de cuentas, aquellos que constituyan los Órganos Autónomos y de Gobierno a los que se les asignen recursos del Presupuesto de Egresos.
 
-VII Bis. Fomentar, en coordinación con la Secretaría de Obras y Servicios, la valorización y retorno de los materiales recuperados a los ciclos productivos;
+Los fideicomisos públicos y los que se asimilen a éstos, deberán registrarse ante la Secretaría en los términos y condiciones que se establecen en la presente Ley y su Reglamento.
 
-> <small>(ADICIONADA, G.O. 3 DE ABRIL DE 2023)</small>
+###### ARTÍCULO 13.
 
-VII Ter. Promover la investigación, desarrollo y aplicación de tecnologías, equipos, sistemas informáticos y procesos que permita identificar y establecer la gestión integral de los residuos sólidos urbanos y los de manejo especial;
+Para constituir, modificar o extinguir fideicomisos públicos, cuando así convenga al interés público, las Dependencias, Delegaciones, Órganos Desconcentrados y Entidades deberán contar con la aprobación del Jefe de Gobierno, emitida por conducto de la Secretaría.
 
-> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+La constitución, modificación y extinción de los fideicomisos públicos del Distrito Federal, deberán informarse en un apartado específico en el Informe Trimestral y en la Cuenta Pública.
 
-VIII. Emitir los criterios, lineamientos, reglas y/o normas ambientales para la Ciudad de México con relación a la operación, recolección, transporte, almacenamiento, reciclaje, tratamiento, industrialización y disposición final de residuos sólidos, así como para establecer las condiciones de seguridad, requisitos y limitaciones en el manejo de los residuos sólidos que presenten riesgo para el ser humano, el equilibrio ecológico y el ambiente;
+Cuando los fideicomisos públicos no cuenten con la autorización y registro de la Secretaría, procederá su extinción o liquidación.
 
-> <small>(ADICIONADA, G.O. 3 DE ABRIL DE 2023)</small>
+Cuando se extingan los fideicomisos públicos a que se refiere esta Ley, los recursos financieros deberán enterarse a la Secretaría.
 
-VIII Bis. Implementar Sistemas de información, que permita (sic) conocer el origen, ruta y destino final de los residuos;
+###### ARTÍCULO 14.
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+A fin de asegurar la transparencia y rendición de cuentas, los Órganos Autónomos y de Gobierno deberán publicar trimestralmente en su página de internet y en la Gaceta, sus ingresos incluyendo los rendimientos financieros, egresos, destino y saldo de cualquier fideicomiso en los que participen.
 
-IX. Suscribir convenios o acuerdos con cámaras industriales, comerciales y de otras actividades productivas, con grupos sociales, organizaciones no gubernamentales, así como con dependencias públicas u organismos privados, para llevar a cabo acciones tendientes a cumplir con los objetivos de la presente ley y su reglamento;
+Asimismo, deberán informar a la Secretaría, el ejercicio de los recursos públicos aportados a dichos fideicomisos, para efectos de la Cuenta Pública.
 
-> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2025)</small>
+###### ARTÍCULO 15.
 
-IX Bis. Suscribir convenios, sujetos a disponibilidad presupuestal, con las cámaras industriales, comerciales y de otras actividades productivas que se dediquen a la fabricación y venta de textiles, para llevar a cabo, de manera conjunta y previamente analizada, acciones que promuevan la recolección, el tratamiento, el reciclaje, la reutilización, el coprocesamiento y la disposición final de los residuos textiles.
+Las Unidades Responsables del Gasto sólo podrán otorgar recursos públicos a los fideicomisos, conforme a lo siguiente:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 18 DE ABRIL DE 2022)</small>
+I. Con autorización indelegable de su titular y en el caso de las Entidades, con la autorización previa de su órgano de gobierno, con excepción de los fideicomisos constituidos por mandato de Ley o de normatividad federal, en cumplimiento a convenios suscritos con la Federación o Entidades federativas, así como las aportaciones y transferencias realizadas por la Secretaría;
 
-X. Implementar permanentemente, entre la población, programas de difusión y promoción de la cultura de la separación de los residuos, así como su reducción, reutilización y reciclaje, en los que participen los sectores industriales y comerciales.
+II. Previo informe a la Secretaría, y
 
-> <small>(ADICIONADO, G.O. 18 DE ABRIL DE 2022)</small>
+III. Que se encuentren autorizados los recursos en el Presupuesto de Egresos.
 
-Dichos programas de difusión y promoción deberán incluir, de forma provisional, el manejo de los residuos sólidos o de manejo especial que deriven de un evento, contingencia o emergencia sanitaria.
+Las Unidades Responsables del Gasto enviarán de manera trimestral a la Asamblea por conducto de la Secretaría, los informes sobre el estado que guardan los fideicomisos, las modificaciones a su objeto, las variaciones a los recursos disponibles, así como una relación del uso de recursos por destino y tipo de gasto.
 
-> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2025)</small>
+### CAPÍTULO III. Del Equilibrio Presupuestario y de los Principios de Responsabilidad Financiera
 
-X Bis. Promover programas de recolección de residuos textiles, en consonancia con los (sic) establecido en la Ley de Economía Circular de la Ciudad de México, para su tratamiento, reciclaje, reutilización, coprocesamiento y disposición final.
+###### ARTÍCULO 16.
 
-> <small>(REFORMADA, G.O. 25 DE JUNIO DE 2019)</small>
+Los proyectos de Ley de Ingresos y de Presupuesto de Egresos para cada ejercicio fiscal se elaborarán con base en los resultados que se pretendan alcanzar conforme al avance y cumplimiento del Programa General, al análisis del desempeño económico del Distrito Federal y las perspectivas económicas para el año que se presupuesta, de conformidad con lo establecido en esta Ley y su Reglamento.
 
-XI. Establecer los criterios, lineamientos y normas ambientales para la Ciudad de México referentes a la producción y el consumo sustentable de plásticos, los cuales deberán atender a las características específicas requeridas para cada producto y sujetarse a lineamientos técnicos y científicos, basados en un proceso de análisis de las tecnologías vigentes; éstos deberán emitirse considerando la opinión de los productores y distribuidores.
+###### ARTÍCULO 17.
 
-Dichos criterios, lineamientos y normas ambientales para la Ciudad de México deberán garantizar la disminución de los impactos ambientales asociados a la extracción de materiales, transformación, manufactura, distribución, uso y destino de estos plásticos, promoviendo el uso de materias primas provenientes de productos reciclados post consumo y de recursos naturales renovables, para que una vez terminada la vida útil de estos, sus residuos se incorporen en los procesos productivos para su reciclaje y reutilización, minimizando su disposición final.
+El gasto propuesto por el Jefe de Gobierno en el proyecto de Presupuesto de Egresos, aprobado por la Asamblea y que se ejerza en el año fiscal por las Unidades Responsables del Gasto, deberá guardar el equilibrio presupuestario.
 
-> <small>(ADICIONADA, G.O. 25 DE JUNIO DE 2019)</small>
+Circunstancialmente, y con la finalidad de hacer frente a las condiciones económicas y sociales que privan en el país, las iniciativas de Ley de Ingresos podrá prever ingresos cuya recuperación sea inminente de ocurrir al inicio del año fiscal siguiente.
 
-XI Bis. Establecer precios de garantía a cargo de los fabricantes, distribuidores y comercializadores de productos elaborados con plásticos, para promover su reciclaje una vez que se convierten en residuos;
+Dicho monto se consignará en la iniciativa de Ley de Ingresos bajo el rubro de “Recuperaciones Pendientes”.
 
-> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2025)</small>
+Por contra partida, para mantener el balance fiscal y equilibrio presupuestal en el presupuesto de Egresos se deberá establecer cuales asignaciones presupuestales serán susceptibles de considerarse para el diferimiento de su pago. En caso de registrase ingresos excedentes a lo aprobado en la Ley de Ingresos, los montos correspondientes disminuirán en la misma medida los diferimientos señalados.
 
-XI Bis 1. Impulsar campañas de concientización a la ciudadanía, para el correcto desechamiento y la correcta disposición final de residuos textiles, promoviendo acciones que permitan su intercambio y reutilización.
+###### ARTÍCULO 18.
 
-> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+Toda iniciativa de ley, decreto, o proyecto de reglamento y acuerdo que presente el Jefe de Gobierno deberá contar con una evaluación del impacto presupuestario realizada por la Secretaría, cuando éstas impliquen afectaciones a la Hacienda Pública.
 
-XII. Promover la investigación y el desarrollo de tecnologías que permitan prevenir, controlar y abatir la contaminación causada por la generación de residuos sólidos, incluyendo el causado por el uso de bolsas de plástico y de productos plásticos de poliestireno expandido; se deberá fomentar la participación de todos los sectores de la sociedad mediante la difusión de información y promoción de actividades de cultura, educación y capacitación ambientales sobre el manejo integral de residuos sólidos;
+En el caso de que dichas iniciativas impliquen erogaciones adicionales y con el propósito de guardar el equilibrio presupuestal, se deberá señalar su fuente de financiamiento ya sea mediante la cancelación o suspensión de programas; la creación de nuevas contribuciones o bien, por eficiencia recaudatoria.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE NOVIEMBRE DE 2010)</small>
+###### ARTÍCULO 19.
 
-XIII. Llevar un registro actualizado de los planes de manejo a los que esta Ley y su reglamento hacen referencia;
+El Jefe de Gobierno, por conducto de la Secretaría, podrá autorizar erogaciones adicionales a las aprobadas en el Presupuesto de Egresos con cargo a los Ingresos Excedentes que, en su caso, resulten de los aprobados en la Ley de Ingresos o bien, ante la expectativa de la captación de mayores ingresos.
 
-XIV. Inspeccionar y vigilar, en el ámbito de su competencia, el cumplimiento de las disposiciones de la presente Ley, su reglamento y demás aplicables;
+Los excedentes que resulten de los Ingresos Propios de las Entidades, se destinarán a aquellas que los generen.
 
-> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-XV. Aplicar las medidas de seguridad e imponer las sanciones que correspondan por violaciones o incumplimiento a este ordenamiento, en el ámbito de su competencia;
+Las ampliaciones presupuestales que a través de la Secretaría autorice el Jefe de Gobierno serán para fines específicos y no podrán reorientarse a proyectos distintos para los que fueron aprobados, por lo que en caso de incumplimiento del programa o proyecto, se procederá a efectuar la reducción líquida presupuestal correspondiente, justificando las causas que impidieron la ejecución de los programas y proyectos.
 
-> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+###### ARTÍCULO 20.
 
-XVI. La atención de los demás asuntos que en materia de los residuos sólidos le conceda esta Ley y otros ordenamientos en concordancia con ella y que no estén expresamente atribuidos a la Federación;
+En caso de que los ingresos sean menores a los programados, el Jefe de Gobierno, por conducto de la Secretaría, podrá aplicar medidas de disciplina y equilibrio presupuestal, ordenando las reducciones al Presupuesto de Egresos, cuidando en todo momento el mantenimiento de los servicios públicos y los programas sociales.
 
-> <small>(REFORMADA, G.O. 21 DE OCTUBRE DE 2022)</small>
+En el caso de que la contingencia que motive los ajustes represente una reducción equivalente de hasta el 5% de los ingresos previstos en el calendario mensual de recaudación publicado en la Gaceta, el Jefe de Gobierno, a través de la Secretaría, enviará a la Asamblea en los siguientes 10 días hábiles a que se haya determinado la disminución de ingresos, un informe que contenga el monto de gasto programable reducido y su composición, desagregado por Unidades Responsables del Gasto.
 
-XVII. Promover la certificación de empresas ambientalmente responsables para aquellas que por su convicción, autorregulación, mejora continua en sus procesos productivos, comercialización y venta de servicios, minimicen o reduzcan la generación de residuos. Esta certificación también deberá ser atribuible a los recolectores, acopiadores y comercializadores de residuos, que promuevan un manejo ambientalmente adecuado de los residuos y que no representen riesgos a la población;
+En el caso de que la contingencia represente una reducción que supere el 5% de los ingresos, el Jefe de Gobierno, a través de la Secretaría, enviará a la Asamblea en los siguientes 10 días hábiles a que se haya determinado la disminución de ingresos, una propuesta con el monto de gasto a reducir y su composición por Unidades Responsables del Gasto. La Asamblea, en un plazo de 10 días hábiles a partir de la recepción de la propuesta, la analizará con el fin de proponer en su caso, modificaciones en el marco de las disposiciones generales aplicables y la información disponible. El Jefe de Gobierno, a través de la Secretaría, con base en la opinión de la Asamblea, resolverá lo conducente informando de ello a la misma. En caso de que la Asamblea no emita opinión dentro de dicho plazo, será procedente la propuesta enviada por el Jefe de Gobierno.
 
-> <small>(REFORMADA, G.O. 21 DE OCTUBRE DE 2022)</small>
+Los Órganos Autónomos y de Gobierno, de conformidad con las disposiciones de esta Ley deberán coadyuvar al cumplimiento de las normas de disciplina y de equilibro presupuestarios a que se refiere el presente artículo y el artículo 5 de esta Ley, a través de ajustes en sus respectivos presupuestos. Asimismo, deberán reportar los ajustes realizados en el informe trimestral y en la Cuenta Pública.
 
-XVIII. Autorizar y registrar a los establecimientos mercantiles y de servicios relacionados con la recolección, manejo, tratamiento, reutilización, reciclaje y disposición final de los residuos sólidos y vigilar su funcionamiento; y
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-> <small>(ADICIONADA, G.O. 21 DE OCTUBRE DE 2022)</small>
+Para el caso de las Delegaciones, la Secretaría se coordinará con éstas, para que en el ámbito de sus respectivas competencias, analicen, autoricen y apliquen las medidas de disciplina y equilibrio presupuestal que plantee el Jefe de Gobierno.
 
-XIX. Fomentar el aprovechamiento de los residuos sólidos urbanos en procesos de generación de energía limpia, en coordinación con la Secretaría de Obras y Servicios y las alcaldías.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE ABRIL DE 2023)</small>
+###### ARTÍCULO 21.
 
-###### Artículo 7°.
+En el ejercicio de sus presupuestos, las Dependencias, Órganos Desconcentrados y Entidades se sujetarán estrictamente a los calendarios de presupuesto autorizados por la Secretaría, los cuales serán anuales con base mensual y estarán en función de la capacidad financiera del Distrito Federal.
 
-Corresponde a la Secretaría de Obras y Servicios el ejercicio de las siguientes facultades:
+Las Dependencias, Órganos Desconcentrados y Entidades remitirán a la Secretaría sus proyectos de calendarios en los términos y plazos establecidos por el Reglamento.
 
-I. Planear, organizar, normar, controlar y vigilar la prestación del servicio público de limpia en sus etapas de barrido y recolección en vías primarias, transferencia, tratamiento y disposición final de los residuos sólidos;
+La Secretaría autorizará los calendarios tomando en consideración las necesidades institucionales y la oportunidad en la ejecución de los recursos para el mejor cumplimiento de los objetivos de los Programas, dando prioridad a los programas sociales y de infraestructura.
 
-II. Formular, ejecutar, vigilar y evaluar el Programa para la Prestación de los Servicios de Limpia de su competencia con base en los lineamientos establecidos en el Programa de Gestión Integral de los Residuos Sólidos;
+En el caso de las Delegaciones, la Secretaría y éstas en el ámbito de sus respectivas competencias analizarán, elaborarán, determinarán y autorizarán los calendarios presupuestales anuales.
 
-III. Planear y ejecutar las obras y prestación del servicio público de limpia en más de una demarcación territorial o cuando se trate de alta especialidad técnica, de conformidad con las disposiciones jurídicas aplicables;
+La Secretaría queda facultada para elaborar los calendarios de presupuesto de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades cuando no le sean presentados en los términos que establezca el Reglamento.
 
-IV. Establecer los criterios y normas técnicas para la construcción, conservación y mantenimiento de la infraestructura y equipamiento para el manejo, tratamiento y disposición final de los residuos sólidos;
+Los calendarios de presupuesto deberán comunicarse por la Secretaría a las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades durante el mes de enero del ejercicio fiscal a que corresponda.
 
-V. (DEROGADA, G.O. 8 DE SEPTIEMBRE DE 2014)
+Queda prohibido a las Unidades Responsables de Gasto, contraer compromisos que rebasen el monto de sus presupuestos autorizados o efectuar erogaciones que impidan el cumplimiento de acuerdo con sus actividades institucionales aprobadas.
 
-VI. Llevar a cabo los estudios que sustenten la necesidad de otorgar concesiones para la prestación del servicio público de limpia y, en los casos viables otorgar la concesión correspondiente con base en las disposiciones jurídicas aplicables;
+Los calendarios de presupuesto deberán publicarse en la Gaceta Oficial del Distrito Federal.
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+###### ARTÍCULO 22.
 
-VII. Realizar los estudios y proyectos de obras de infraestructura para el manejo integral de los residuos sólidos de su competencia;
+La Secretaría publicará en la Gaceta, a más tardar el 31 de enero del ejercicio fiscal de que se trate, el calendario mensual de recaudación desglosado por cada concepto de ingresos, de conformidad con lo establecido en la Ley de Ingresos aprobada por la Asamblea. Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades cuya prestación de servicios dé origen a la recaudación de impuestos, aprovechamientos, derechos y productos, realizarán la previsión de los ingresos conforme a dicho calendario.
 
-VIII. Diseñar, construir, organizar, operar y mantener las estaciones de transferencia, plantas de selección y tratamiento, y sitios para la disposición final de los residuos sólidos, con base en el Programa de Gestión Integral de los Residuos Sólidos;
+## TÍTULO SEGUNDO. De la Programación, Presupuestación y Aprobación
 
-> <small>(ADICIONADA, G.O. 3 DE ABRIL DE 2023)</small>
+### CAPÍTULO I. De la Programación y Presupuestación
 
-VIII Bis. Recuperar, clasificar, especificar y utilizar materiales reciclados de la construcción y demolición en la ejecución de obras de su competencia.
+###### ARTÍCULO 23.
 
-IX. Participar en la celebración de convenios para el traslado de los residuos sólidos desde o hacia otras entidades federativas, así como la inspección y vigilancia de dicho traslado;
+Las reglas de carácter general para la integración de los Anteproyectos de Presupuesto, serán emitidas por la Secretaría, de conformidad con lo dispuesto en esta Ley, el Reglamento y demás ordenamientos aplicables.
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+###### ARTÍCULO 24.
 
-X. Restaurar y recuperar el suelo contaminado por las actividades del manejo integral de los residuos sólidos y prestación del servicio público de limpia de su competencia, en concordancia con las disposiciones complementarias o lineamientos técnicos, establecidos por la Secretaría;
+La programación y presupuestación del gasto público comprende:
 
-XI. Inspeccionar y vigilar, en el ámbito de su competencia, el cumplimiento de las disposiciones de la presente Ley, su Reglamento y demás aplicables;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-XII. Aplicar las medidas de seguridad e imponer las sanciones que correspondan por violaciones o incumplimiento a este ordenamiento, en el ámbito de su competencia;
+I. Las actividades que deberán realizar las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades para dar cumplimiento a los objetivos, políticas, estrategias, prioridades, metas y resultados con base en indicadores de desempeño, contenidos en los programas sectoriales que se derivan del Programa General y, en su caso, de las directrices que el Jefe de Gobierno expida en tanto se elabore dicho Programa;
 
-> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+II. Las previsiones de gasto público para cubrir los recursos humanos, materiales, financieros y de otra índole, necesarios para el desarrollo de las actividades señaladas en la fracción anterior, y
 
-XIII. Atender los asuntos en materia de los residuos sólidos que se generen entre la Ciudad de México y una o más entidades federativas, en coordinación con las autoridades competentes; y
+III. Las actividades y sus respectivas previsiones de gasto público correspondiente a los Órganos Autónomos y de Gobierno.
 
-> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+###### ARTÍCULO 25.
 
-XIV. Atender los demás asuntos que en materia de los residuos sólidos le concedan esta Ley y otros ordenamientos jurídicos aplicables y que no estén expresamente atribuidos a la Federación o a otras dependencias o entidades de la administración pública de la Ciudad de México.
+La programación y presupuestación anual del gasto público se realizará con apoyo en los Anteproyectos de Presupuesto que elaboren las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades para cada ejercicio fiscal y con base en:
 
-> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+I. Las políticas del Programa General y los programas sectoriales establecidos en la Ley de Planeación, y (sic)
 
-###### Artículo 8º.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-Corresponde a la Secretaría de Salud de la Ciudad de México, en el ámbito de su competencia, emitir recomendaciones y, en coordinación con la Secretaría y la Secretaría de Obras y Servicios, determinar la aplicación de las medidas de seguridad, dirigidas a evitar riesgos y daños a la salud de la población, derivados del manejo integral, almacenamiento, tratamiento y disposición final de los residuos sólidos.
+II. Las políticas de gasto público que determine el Jefe de Gobierno, a través de la Secretaría. y
 
-###### Artículo 8°.
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-Corresponde a la Secretaría de Salud del Distrito Federal, en el ámbito de su competencia, emitir recomendaciones y, en coordinación con la Secretaría y la Secretaría de Obras y Servicios, determinar la aplicación de las medidas de seguridad, dirigidas a evitar riesgos y daños a la salud de la población, derivados del manejo integral, almacenamiento, tratamiento y disposición final de los residuos sólidos.
+III. La evaluación de los avances logrados en el cumplimiento de los objetivos y metas del Programa General y los avances sectoriales con base al Sistema de Evaluación del Desempeño, las metas y avances físicos financieros del ejercicio fiscal anterior y los pretendidos para el siguiente ejercicio.
 
-###### Artículo 9°.
+El anteproyecto se elaborará por Dependencia, Órgano Desconcentrado, Delegación y Entidad estimando los costos para alcanzar los resultados cuantitativos y cualitativos previstos en las metas, así como los indicadores necesarios para medir su cumplimiento.
 
-Corresponde a la Procuraduría la atención de las denuncias ciudadanas que cualquier persona le presente por violaciones o incumplimiento a las disposiciones de la presente Ley, dándole curso legal en los términos de su Ley Orgánica.
+El Anteproyecto de Presupuesto de las Entidades incluirá en su flujo de efectivo, la previsión de sus ingresos incluyendo en su caso, el endeudamiento neto, los subsidios, aportaciones y transferencias, la disponibilidad inicial y la disponibilidad final.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE AGOSTO DE 2025)</small>
+###### ARTÍCULO 26.
 
-###### Artículo 10°.
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades formularán su Anteproyecto de Presupuesto de Egresos, atendiendo a los criterios presupuestales y, en su caso, a las previsiones de ingresos que les comunique la Secretaría, con base en su Programa Operativo Anual, los cuales deberán ser congruentes entre sí. Adicionalmente, para el caso de las Entidades, sus anteproyectos deberán ser aprobados por su órgano de gobierno.
 
-Corresponde a las Alcaldías el ejercicio de las siguientes facultades:
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
-I. Formular, ejecutar, vigilar y evaluar el programa delegacional de prestación del servicio público de limpia de su competencia, con base en los lineamientos establecidos en el Programa de Gestión Integral de los Residuos Sólidos;
+Asimismo, las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades deberán prever en sus respectivos Anteproyectos de Presupuesto, los importes correspondientes al pago de contribuciones, aprovechamientos y productos, ya sea de carácter local o federal, que por disposición de ley estén obligados a enterar.
 
-II. Prestar el servicio público de limpia en sus etapas de barrido de las áreas comunes y vialidades secundarias, la recolección de los residuos sólidos, su transporte a las estaciones de transferencia, plantas de tratamiento y selección o a sitios de disposición final, de conformidad con las normas ambientales en la materia y los lineamientos que al efecto establezca la Secretaría de Obras y Servicios;
+La Secretaría queda facultada para formular los Anteproyectos de Presupuesto de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades cuando no le sean presentados en los plazos que al efecto se les hubiesen señalado o cuando no se apeguen a los criterios presupuestales de eficiencia y eficacia previstos en la legislación aplicable, así como a las previsiones de ingresos comunicados.
 
-III. Erradicar la existencia de tiraderos clandestinos de los residuos sólidos;
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+###### ARTÍCULO 27.
 
-IV. Orientar a la población sobre las prácticas de reducción, reutilización y reciclaje, separación en la fuente y aprovechamiento y valorización de los residuos sólidos;
+La Secretaría podrá efectuar las modificaciones que considere necesarias a los anteproyectos de presupuesto, comunicándoles a las Dependencias, Órganos Desconcentrados, y Entidades, los ajustes que habrán de realizar a los mismos en función de la cifra definitiva proyectada de ingresos, de conformidad con el Reglamento.
 
-V. Promover programas de capacitación a los servidores públicos, así como de fomento y orientación a la población sobre la gestión integral de los residuos sólidos;
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+Para el caso de las Delegaciones, la Secretaría se coordinará con éstas a efecto de acordar los ajustes planteados durante los primeros 15 días naturales del mes de Enero de cada ejercicio, a efecto de respetar la congruencia entre los objetivos del programa de Gobierno Delegacional y la aplicación del marco normativo y procedimental.
 
-VI. Instalar el equipamiento para el depósito separado y selectivo de los residuos sólidos en áreas públicas, áreas comunes y espacios públicos, así como en lugares donde técnicamente se determine viable o necesario la instalación de los mismos y garantizar periódicamente su buen estado y funcionamiento;
+###### ARTÍCULO 28.
 
-VII. Organizar administrativamente el servicio público de limpia de su competencia, el nombramiento del personal necesario y proporcionar los elementos, equipos, útiles y, en general, todo el material indispensable para la prestación de dicho servicio;
+Las asignaciones presupuestales para las Delegaciones se integrarán tomando en cuenta los siguientes criterios:
 
-VIII. Establecer las rutas, horarios y frecuencias en que debe prestarse el servicio de recolección selectiva de los residuos sólidos de su competencia pudiendo, una vez escuchados los vecinos, modificarlos de acuerdo a las necesidades de dicho servicio;
+a) Población;
 
-IX. Atender oportunamente las quejas del público sobre la prestación del servicio público de limpia de su competencia y dictar las medidas necesarias para su mejor y pronta solución;
+b) Marginación;
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+c) Infraestructura, y
 
-X. Solicitar autorización de la Secretaría de Obras y Servicios para el otorgamiento de las declaraciones de apertura, licencias y autorizaciones de funcionamiento de los establecimientos mercantiles y de servicios relacionados con el manejo, tratamiento, reutilización, reciclaje y disposición final de los residuos sólidos, definidos en el reglamento de la presente Ley;
+d) Equipamiento urbano.
 
-XI. Solicitar a la Secretaria de Obras y Servicios la realización de estudios con relación a las propuestas que éstas le envíen para otorgar concesiones para la prestación del servicio público de limpia de competencia de la delegación y, en su caso, aprobar dichas concesiones;
+La Secretaría deberá emitir las reglas, políticas y metodología en que se sustenten los criterios de distribución, la justificación del peso que se otorga a cada rubro y los ponderadores, considerando los indicadores públicos, oficiales, disponibles recientes, información que deberá publicarse en la Gaceta.
 
-XII. Participar, bajo la coordinación de la Secretaría de Obras y Servicios, en la atención de los asuntos de los efectos que genere la realización de los servicios de limpia que se realicen en la delegación y que afecten o puedan afectar a otra delegación o municipio;
+Los recursos provenientes de las aportaciones federales deberán cuantificarse de manera independiente, respecto de los montos que se asignen a las Delegaciones.
 
-XIII. Inspeccionar y vigilar, en el ámbito de su competencia, el cumplimiento de las disposiciones de la presente Ley su reglamento y demás aplicables;
+La Secretaría dará a conocer a las Delegaciones las reglas, políticas y metodología para que éstas manifiesten lo conducente, dentro del ámbito de su competencia.
 
-XIV. Aplicar las medidas de seguridad e imponer las sanciones que correspondan por violaciones o incumplimiento a este ordenamiento, en el ámbito de su competencia;
+###### ARTÍCULO 29.
 
-XV. Integrar a la política delegacional de información y difusión en materia ambiental los asuntos relacionados con la realización del servicio público de limpia de su competencia; y
+La Secretaría procurará que los techos presupuestales que se asignen a las Delegaciones cubran los requerimientos mínimos de operación de los servicios públicos que prestan, así como el mantenimiento y conservación de la infraestructura existente.
 
-> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
-XV Bis. Ejecutar programas de recolección de residuos textiles, para su tratamiento, reciclaje, reutilización, coprocesamiento y disposición final en consonancia con lo establecido en la Ley de Economía Circular de la Ciudad de México;
+Los recursos adicionales que se otorguen deberán ser orientados preferentemente a la ampliación de infraestructura y acciones de seguridad pública.
 
-> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2025)</small>
+Los Jefes Delegacionales determinarán su Programa de Inversión con base en las disponibilidades presupuestales del techo comunicado por la Secretaría y atendiendo a las necesidades de equipamiento y ampliación de la infraestructura que requieran.
 
-XV Bis 1. Realizar campañas de concientización a la ciudadanía, para el correcto desechamiento y la correcta disposición final de residuos textiles, promoviendo acciones que permitan su intercambio y reutilización.
+Los programas sociales que implementen las Delegaciones deberán coordinarse con el Sector Central con el fin de unificar padrones de beneficiarios para evitar su duplicidad con el propósito de maximizar el impacto económico y social de los mismos. Para materializar lo anterior, las Delegaciones deberán observar lo dispuesto en el artículo 102 de esta Ley.
 
-XVI. Atender los demás asuntos que en materia de los residuos sólidos le conceda esta ley y otros ordenamientos jurídicos aplicables.
+> <small>(DEROGADO QUINTO PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+> <small>(DEROGADO SEXTO PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-###### Artículo 11.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
-La Secretaría, en coordinación con la Secretaría de Obras y Servicios y con opinión de las Alcaldías, formulará y evaluará el Programa de Gestión Integral de los Residuos Sólidos, mismo que integrará los lineamientos, acciones y metas en materia de manejo integral de los residuos sólidos y la prestación del servicio público de limpia con base en los siguientes criterios:
+ARTÍCULO 29 BIS.- En caso de que la Asamblea apruebe recursos adicionales para las Unidades Responsables del Gasto, a los propuestos por la Secretaría, se contendrán en un Anexo específico dentro del Presupuesto de Egresos donde se detallen los proyectos o acciones a realizar para el ejercicio fiscal que corresponda.
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+La Secretaría elaborará un formato de seguimiento del ejercicio de los recursos a los que se refiere el párrafo anterior, a efecto de que las Unidades Responsables del Gasto informen sobre los avances de su ejercicio. La información se incorporará en un capítulo especial del Informe de Avance Trimestral que envía la Secretaría a la Asamblea.
 
-I. Adoptar medidas para la reducción de la generación de los residuos sólidos, su reutilización y reciclaje, su separación en la fuente de origen, su recolección y transporte separados, así como su adecuado aprovechamiento, tratamiento y disposición final;
+### CAPÍTULO II. De los Aspectos Generales de los Programas
 
-II. Promover la reducción de la cantidad de los residuos sólidos que llegan a disposición final;
+###### ARTÍCULO 30.
 
-III. Adoptar medidas preventivas, considerando los costos y beneficios de la acción u omisión, cuando exista evidencia científica que compruebe que la liberación al ambiente de residuos sólidos pueden causar daños a la salud o al ambiente;
+El Programa Operativo contendrá líneas programáticas, objetivos específicos, acciones, responsables y corresponsables de su ejecución, metas y prioridades que se desprendan de los programas de manera integral, para la realización de los objetivos globales de desarrollo, así como los indicadores de desempeño.
 
-IV. Prevenir la liberación de los residuos sólidos que puedan causar daños al ambiente o a la salud humana y la transferencia de contaminantes de un medio a otro;
+###### ARTÍCULO 31.
 
-V. Prever la infraestructura necesaria para asegurar que los residuos sólidos se manejen de manera ambientalmente adecuada;
+El Programa Operativo se basará en el contenido de los programas sectoriales, delegacionales, institucionales y especiales que deban ser elaborados conforme a la Ley de Planeación. Su vigencia será de tres años, aunque sus previsiones y proyecciones se podrán referir a un plazo mayor y será presentado para su aprobación por la Secretaría.
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+###### ARTÍCULO 32.
 
-VI. Promover la cultura, educación y capacitación ambientales, así como la participación del sector social, privado y laboral, para el manejo integral, la reutilización y el reciclaje de los residuos sólidos;
+En la elaboración del Programa Operativo podrán participar diversos grupos sociales y la ciudadanía, a través de la consulta pública, del control y evaluación y de la concertación e inducción conforme a la Ley de Planeación, a fin de que la ciudadanía exprese sus opiniones tanto en la formulación, como en la actualización y ejecución de dicho Programa Operativo. También, podrá participar la Asamblea, mediante los acuerdos que sobre esta materia emita.
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+###### ARTÍCULO 33.
 
-VII. Fomentar la responsabilidad compartida entre productores, distribuidores y consumidores en la reducción de la generación de los residuos sólidos y asumir el costo de su manejo integral;
+En materia de Proyectos de Inversión, las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades tendrán la responsabilidad de llevar a cabo:
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+I. La vinculación de estos proyectos con lo establecido en el Programa General;
 
-VIII. Fomentar la participación activa de las personas, la sociedad civil organizada y el sector privado en el manejo integral de los residuos sólidos;
+II. Los estudios de la demanda social, el grado de cobertura o avance de las acciones institucionales respecto del total de las necesidades sociales correspondientes, diagnóstico sobre los beneficios que se esperan obtener con la ejecución del programa de inversión física y la generación de empleos directos e indirectos;
 
-IX. Armonizar las políticas de ordenamiento territorial y ecológico con el manejo integral de los residuos sólidos, identificando áreas apropiadas para la ubicación de infraestructura;
+III. Informar a la Secretaría, el periodo total de ejecución del proyecto, los responsables del mismo, fecha de inicio y conclusión, monto total de dicho proyecto y lo previsto para el ejercicio presupuestal correspondiente, así como los importes considerados para la operación y mantenimiento de dicho proyecto, a realizar en años posteriores, y
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+IV. Para el caso de los proyectos en proceso, el total de la inversión realizada, las metas y resultados obtenidos al término del ejercicio inmediato anterior.
 
-X. Fomentar la generación, sistematización y difusión de información del manejo integral de los residuos sólidos para la toma de decisiones;
+###### ARTÍCULO 34.
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+Las Dependencias, Órganos Desconcentrados y Entidades elaborarán Programas Operativos Anuales para la ejecución del Programa General de Desarrollo del Distrito Federal y de los programas de mediano plazo, desagregando su contenido atendiendo al destino y alcance de los mismos, a la fecha en que se ejecutarán, debiendo presentar los indicadores que serán utilizados para la evaluación de cada programa.
 
-XI. Definir las estrategias sectoriales e intersectoriales para la minimización y prevención de la generación y el manejo integral de los residuos sólidos, conjugando las variables económicas, sociales, culturales, tecnológicas, sanitarias y ambientales en el marco de la sustentabilidad;
+Las Delegaciones elaborarán sus Programas Operativos Anuales, los cuales serán la base para la integración de sus Anteproyectos de Presupuesto anuales. Los Comités Mixtos de Planeación del Desarrollo de las Delegaciones, vigilarán que la elaboración de los Programas Operativos Anuales delegacionales sean congruentes con la planeación y programación previas; que se ajusten al presupuesto aprobado por la Asamblea y que su aplicación se realice conforme a las disposiciones vigentes.
 
-XII. Promover medidas para evitar el depósito, descarga, acopio y selección de los residuos sólidos en áreas o en condiciones no autorizadas;
+Las Entidades deberán presentar sus Programas Operativos Anuales para aprobación del Jefe de Gobierno por conducto de los titulares de sus órganos de gobierno, vigilando su congruencia con los programas sectoriales.
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+La Asamblea, a través de las comisiones de Hacienda Pública, y de Presupuesto y Cuenta Pública, podrán requerir información, a efecto de contar con elementos que permitan realizar observaciones a los procedimientos técnicos y operativos para la elaboración de los programas a que se refiere este artículo.
 
-XIII. Promover sistemas de reutilización y reciclaje, depósito retorno u otros similares que reduzcan la generación de residuos, en el caso de productos o envases que después de ser utilizados generen residuos en alto volumen o que originen impactos ambientales significativos.
+###### ARTÍCULO 35.
 
-> <small>(ADICIONADA, G.O. 24 DE JULIO DE 2012)</small>
+El Programa Operativo y aquéllos que de él deriven, especificarán las acciones que serán objeto de coordinación con los estados y municipios circunvecinos de las zonas conurbadas y serán obligatorios para las Dependencias, Órganos Desconcentrados y Delegaciones de la Administración Pública, en el ámbito de sus respectivas competencias. Conforme a las disposiciones legales que resulten aplicables, la obligatoriedad del Programa Operativo y aquellos que de él deriven será extensiva a las Entidades. Para estos efectos, los titulares de las Dependencias, en el ejercicio de las atribuciones de coordinadores de sector, proveerán lo conducente ante los órganos de gobierno de las propias Entidades.
 
-XIII BIS. Establecer las medidas adecuadas entre los diversos sectores productivos, a fin de que se realice previo a su disposición final, la destrucción o la inutilización de los envases que contuvieron sustancias nocivas para la salud, una vez que estos han terminado su vida útil, evitando su posterior uso para almacenar o transportar productos de consumo humano;
+### CAPÍTULO III. De la Ley de Ingresos y el Presupuesto de Egresos
 
-XIV Establecer las medidas adecuadas para reincorporar al ciclo productivo materiales o sustancias reutilizables o reciclables y para el desarrollo de mercados de subproductos para la valorización de los residuos sólidos;
+###### ARTÍCULO 36.
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+El Presupuesto de Ingresos es el documento que contiene la estimación de contribuciones, aprovechamientos, productos y demás ingresos que durante un año de calendario deba percibir el Distrito Federal, de conformidad con la Constitución, con el Estatuto, en esta Ley y demás disposiciones aplicables en la materia y que servirá de base para la elaboración de la Iniciativa de Ley de Ingresos.
 
-XV. Fomentar el desarrollo y uso de tecnologías sustentables o amigables con el medio ambiente, así como métodos, prácticas, procesos de producción, comercialización, reutilización y reciclaje que favorezcan la minimización y valorización de los residuos sólidos.
+###### ARTÍCULO 37.
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+Sólo mediante ley podrá afectarse un ingreso a un fin específico.
 
-XVI. Establecer acciones orientadas a recuperar los sitios contaminados por el inadecuado manejo de los residuos sólidos;
+###### ARTÍCULO 38.
 
-XVII. Establecer las condiciones que deberán cumplirse para el cierre de estaciones de transferencia, plantas de selección y tratamiento y rellenos sanitarios, de manera que no existan suelos contaminados por el manejo de los residuos sólidos y medidas para monitorear dichos sitios, ulterior al cierre, con plazos no menores a diez años posteriores a su cierre;
+La Ley de Ingresos y el Presupuesto de Egresos serán los que apruebe la Asamblea, con base anual a partir del 1° de enero del año que corresponda.
 
-XVIII. Evitar el manejo y disposición de residuos de manejo especial líquidos o semisólidos, sin que hayan sido sometidos a procesos para deshidratarlos, neutralizarlos y estabilizarlos;
+Las iniciativas de Ley de Ingresos y Presupuesto de Egresos serán presentadas por el Jefe de Gobierno a la Asamblea para su análisis y aprobación, a más tardar el 30 de noviembre de cada año o hasta el 20 de diciembre del año en que en dicho mes, inicie el periodo constitucional correspondiente.
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2013)</small>
 
-XVIII BIS.- Fomentar que la producción y el consumo de productos plásticos y poliestireno expandido se sujeten a los criterios y normas de sustentabilidad establecidos en la fracción XI del artículo 6º de la presente ley;
+La Asamblea Legislativa deberá aprobar dichas iniciativas a más tardar el 20 de diciembre cuando dichos proyectos sean presentados el 30 de noviembre y a más tardar, el 27 de diciembre cuando se presenten el 20 de diciembre.
 
-> <small>(REFORMADA, G.O. 21 DE OCTUBRE DE 2022)</small>
+Cuando por alguna situación extraordinaria, al iniciar el ejercicio fiscal del año siguiente no exista una Ley de Ingresos y/o Decreto aprobado, con el propósito de no interrumpir la prestación de los servicios públicos, en tanto no se aprueben, la Secretaría procederá a actualizar, conforme a las disposiciones del artículo 18 del Código, del ejercicio fiscal del año anterior, en cuanto al gasto mínimo de operación y la ejecución de obras en proceso.
 
-XIX. Evitar la disposición final de los residuos sólidos que sean incompatibles y puedan provocar reacciones que liberen gases, provoquen incendios o explosiones o que pueden solubilizar las sustancias potencialmente tóxicas contenidas en ellos;
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-> <small>(ADICIONADA, G.O. 21 DE OCTUBRE DE 2022)</small>
+###### ARTÍCULO 39.
 
-XIX BIS. El aprovechamiento de los residuos sólidos urbanos en procesos de generación de energía limpia; y
+A toda proposición por parte de la Asamblea de aumento o creación de vertientes de gasto, conceptos o partidas al proyecto de Presupuesto de Egresos, deberá agregarse la correspondiente iniciativa de ingreso o la cancelación y/o suspensión de otras vertientes de gasto, si con tal proposición se altera el equilibrio presupuestal.
 
-XX. Los demás que establezca el Reglamento y otros ordenamientos aplicables.
+###### ARTÍCULO 40.
 
-> <small>(REFORMADO, G.O. 21 DE OCTUBRE DE 2022)</small>
+El proyecto de Ley de Ingresos contendrá:
 
-La Secretaría, la Secretaría de Obras y Servicios y las Alcaldías ejecutarán, en el marco de su competencia, los contenidos del Programa de Gestión Integral de los Residuos Sólidos.
+I. La estimación de los ingresos correspondientes al cierre del ejercicio en curso;
 
-> <small>(REFORMADO, G.O. 21 DE OCTUBRE DE 2022)</small>
+II. Los ingresos provenientes de la coordinación fiscal;
 
-Los programas de carácter metropolitano que acuerde el Gobierno de la Ciudad de México consideraran las disposiciones que esta Ley establece para la gestión integral de los residuos sólidos.
+III. La estimación de aquellos ingresos considerados como virtuales;
 
-###### Artículo 11 Bis.
+IV. Los Ingresos Propios previstos por las Entidades, así como los ingresos de aplicación automática;
 
-(REFORMADO [N. DE E. DEROGADO], G.O. 26 DE NOVIEMBRE DE 2010)
+V. (DEROGADA, G.O. 31 DE DICIEMBRE DE 2012)
 
-### CAPÍTULO I. DE LAS FACULTADES
+VI. El monto del presupuesto de costos por recaudación fiscal;
 
-###### Artículo 12.
+VII. Los ingresos relativos a los adeudos de ejercicios anteriores;
 
-La Secretaría de Obras y Servicios y las delegaciones formularán, ejecutarán y evaluarán los programas correspondientes a la prestación de los servicios de limpia de sus respectivas competencias con base en el Programa de Gestión Integral de los Residuos Sólidos, así como en las disposiciones que establecen esta Ley, su reglamento y demás disposiciones jurídicas aplicables.
+VIII. Las expectativas de ingresos por financiamiento, y
 
-En la elaboración de los programas a los que se refiere el presente Capítulo, las autoridades competentes promoverán la participación de la sociedad.
+IX. Los demás ingresos a recaudar.
 
-> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+No se tomarán en cuenta los ingresos extraordinarios, ni tampoco se considerará cualquier otro ingreso clasificado como no recurrente, ni el monto estimado de reducciones en el pago de contribuciones.
 
-###### Artículo 13.
+Los recursos que generen las Delegaciones por ingresos de recursos de aplicación automática se considerarán parte integrante de su presupuesto.
 
-La Secretaría de Obras y Servicios, al elaborar el programa de prestación del servicio público de limpia de su competencia, deberá considerar las disposiciones contendidas en esta Ley, su reglamento, las normas oficiales mexicanas, las normas ambientales para la Ciudad de México, el Programa de Gestión Integral de los Residuos Sólidos, los criterios y normas técnicas para la prestación del servicio público de limpia, y otros ordenamientos jurídicos aplicables.
+A la base de estimación de cierre a que se refiere la fracción I de este artículo, se le aplicará, para el caso de actualización de cuotas o tarifas, el factor que para tal efecto se estime de conformidad con el Código. Asimismo, con base en las variables económicas se calculará el comportamiento de aquellas contribuciones en las que por su naturaleza así proceda.
 
-> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+La Iniciativa de Ley de Ingresos deberá contener, invariablemente, la estimación de cierre del ejercicio a que se refiere el párrafo anterior, a fin de que en la valoración de la Asamblea respecto de los montos de la Ley de Ingresos, disponga de los elementos de juicio necesarios para formular el dictamen correspondiente.
 
-###### Artículo 14.
+###### ARTÍCULO 41.
 
-La Secretaría de Obras y Servicios, en coordinación con la Secretaría y las Secretarías de Desarrollo Económico y de Finanzas, promoverá incentivos económicos para aquellas personas que desarrollen acciones de prevención, minimización, valorización, reutilización y reciclaje, así como para la inversión en tecnología y utilización de prácticas, métodos o procesos que coadyuven a mejorar el manejo integral de los residuos sólidos.
+El proyecto de Presupuesto de Egresos se integrará con los siguientes elementos:
 
-> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+I. Exposición de Motivos en la que señalen los efectos económicos y sociales que se pretenden lograr;
 
-###### Artículo 15.
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-En aquellos casos en que sea técnica y económicamente factible, la persona titular de la Jefatura de Gobierno de la Ciudad de México, a través de las autoridades competentes, promoverá la creación de mercados de subproductos que establezcan mecanismos que involucren la participación de los productores, distribuidores, comercializadores y consumidores en la valorización de los materiales y productos que se conviertan en residuos sólidos.
+II. El gasto neto total que en éste se especifique, así como la clasificación administrativa, por resultados, la clasificación por tipo de gasto y el desglose de las actividades, obras y servicios públicos previstos en los programas a cargo de las Unidades Responsables de Gasto que el propio presupuesto señale;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-###### Artículo 15 Bis.
+III. Descripción clara de las vertientes de gasto, resultados y subresultados que sean base del proyecto en los que se señalen objetivos, metas y prioridades, así como las Unidades responsables de su ejecución;
 
-La Secretaría promoverá e implementará la formación y operación de sistemas y mecanismos de intercambio de residuos sólidos generados por los habitantes de la Ciudad de México, por productos agrícolas que provean los productores autorizados por aquélla.
+IV. Descripción del presupuesto con enfoque de equidad de género, derechos humanos y sustentabilidad; este último se contendrá en un Anexo específico de las actividades institucionales del Resultado correspondiente que realicen las Unidades Responsables del Gasto;
 
-> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+V. La identificación expresa de las actividades institucionales que se llevarán a cabo para el cumplimiento de los resultados contenidos en el presupuesto de las Unidades Responsables del Gasto, precisando los recursos involucrados para su obtención;
 
-Asimismo, la Secretaría en coordinación con la Secretaría de Obras y Servicios, la Secretaría de Desarrollo Económico y las Alcaldías, determinará los criterios y medios necesarios para que dichos mecanismos conlleven a un mayor aprovechamiento de los residuos sólidos, favorezcan la economía de la población participante y garanticen el consumo sustentable en la Ciudad.
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-> <small>(ADICIONADO, G.O. 18 DE NOVIEMBRE DE 2015)</small>
+VI. Explicación y comentarios de las vertientes de gasto consideradas como prioritarias, así como las obras y adquisiciones cuya ejecución abarque dos o más ejercicios fiscales;
 
-Aunado a lo anterior, la Secretaría deberá crear, actualizar y difundir el catálogo de bienes que podrán ser motivo de cambio por los residuos sólidos que la población entregue en los sitios que se definan para tal efecto.
+VII. Estimación de los ingresos y de los gastos del ejercicio fiscal para el que se propone;
 
-> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+VIII. Estimación de los ingresos y gastos del ejercicio fiscal en curso;
 
-### CAPÍTULO I BIS. DE LA COMISIÓN PARA LA GESTIÓN INTEGRAL DE RESIDUOS SÓLIDOS DE LA CIUDAD DE MÉXICO
+IX. Los montos de endeudamiento propuestos al Congreso de la Unión;
 
-> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+X. Los proyectos de Presupuesto de Egresos de los Órganos Autónomos especificando los montos de los recursos públicos que sometan a consideración de la Asamblea;
 
-###### Artículo 10 Bis.
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-La persona titular de la Jefatura de Gobierno creará la Comisión para la Gestión Integral de Residuos Sólidos de la Ciudad de México, como órgano interinstitucional de coordinación, monitoreo, seguimiento y evaluación de las políticas, acciones y programas instrumentados por la Administración Pública de la Ciudad de México en materia de generación, encierro, acopio, transferencia, selección, tratamiento, manejo, aprovechamiento, valorización y disposición final de residuos.
+XI. Los montos de los recursos públicos que correspondan a los Órganos de Gobierno;
 
-> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-###### Artículo 10 Bis 1.
+XII.- Analítico de Claves Presupuestales;
 
-La Comisión será presidida por el Jefe de Gobierno y estará integrada por los titulares de:
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-I. La Secretaría del Medio Ambiente;
+XIII.- Analítico de plazas;
 
-II. La Secretaría de Obras y Servicios;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
-III. La Secretaría de Salud;
+XIV. Catálogo de Unidades Responsables, y
 
-> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+XV. En general, toda la información presupuestal que se considere útil para sustentar el proyecto en forma clara y completa.
 
-IV. La Secretaría de Administración y Finanzas;
+La Secretaría podrá solicitar a las Unidades Responsables del Gasto toda la información que considere necesaria para la elaboración del Presupuesto de Egresos a que se refiere este capítulo, respetando la autonomía presupuestaria y de gestión de los Órganos de Gobierno y Autónomos, conforme a esta Ley.
 
-> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+###### ARTÍCULO 42.
 
-V. La Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México;
+En el año en que termina su encargo, el Jefe de Gobierno saliente deberá elaborar los anteproyectos de Iniciativa de Ley de Ingresos y del Decreto en apoyo al Jefe de Gobierno electo, incluyendo sus recomendaciones, a efecto de que éste los presente a la Asamblea a más tardar en la fecha y en los términos a que se refiere el artículo 122 Apartado C, Base Primera, fracción V, inciso b) de la Constitución.
 
-VI. La Procuraduría Ambiental y del Ordenamiento Territorial;
+## TÍTULO TERCERO. Del Ejercicio del Gasto Público
 
-> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+### CAPÍTULO I. Del Ejercicio
 
-VII. La persona titular de la Jefatura de Gobierno de la Ciudad de México podrá invitar a dos integrantes de la Comisión de Preservación del Medio Ambiente, Cambio Climático y Protección Ecológica del Congreso de la Ciudad de México, quienes participarán únicamente con derecho a voz.
+###### ARTÍCULO 43.
 
-> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+El Presupuesto de Egresos será el que contenga el Decreto que apruebe la Asamblea a iniciativa del Jefe de Gobierno, para expensar, durante el periodo de un año contado a partir del 1° de enero del ejercicio fiscal correspondiente, el gasto neto total que en éste se especifique, así como la clasificación administrativa, por resultados y económica y el desglose de las actividades, obras y servicios públicos previstos en los programas a cargo de las Unidades Responsables del Gasto que el propio presupuesto señale.
 
-Los integrantes de la Comisión, deberán designar a un representante con cargo mínimo en la Administración Pública de la Ciudad de México de Director General o su homólogo, quien participará en sus sesiones de manera permanente, con derecho de voz y voto.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
-Cuando a juicio de la Comisión resulte conveniente contar con la opinión o asesoría de las dependencias y entidades federales, estatales o municipales, así como de especialistas, instituciones educativas y de investigación, organizaciones sociales e internacionales, este órgano colegiado podrá invitarlas a participar en sus sesiones y actividades de forma permanente o temporal, únicamente con derecho de voz.
+###### ARTÍCULO 44.
 
-> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+Los titulares de las Unidades Responsables del Gasto y los servidores públicos encargados de su administración adscritos a la misma Unidad Responsable del Gasto, serán los responsables del manejo y aplicación de los recursos, del cumplimiento de los calendarios presupuestales autorizados, metas y de las vertientes de gasto contenidas en el presupuesto autorizado; de que se cumplan las disposiciones legales vigentes para el ejercicio del gasto; de que los compromisos sean efectivamente devengados, comprobados y justificados; de la guarda y custodia de los documentos que los soportan; de llevar un estricto control de los medios de identificación electrónica y de llevar el registro de sus operaciones conforme a las disposiciones aplicables en la materia, con sujeción a los capítulos, conceptos y partidas del clasificador por objeto del gasto que expida la Secretaría.
 
-En ausencia de la persona titular de la Jefatura de Gobierno de la Ciudad de México fungirá como Presidente quien determine. Los representantes de los titulares de las Dependencias y Entidades serán el enlace entre éstas y la Comisión, a efecto de lograr una mayor eficiencia y eficacia en el cumplimiento de los acuerdos asumidos.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+Las Unidades Responsables del Gasto deberán contar con sistemas de control presupuestario que promuevan la programación, presupuestación, ejecución, registro e información del gasto de conformidad con los criterios establecidos en el párrafo tercero del artículo 1 de esta Ley, así como que contribuyan al cumplimiento de los objetivos y metas aprobados en el Presupuesto de Egresos.
 
-###### Artículo 10 Bis 2.
+La Secretaría emitirá las reglas de carácter general para los procedimientos del ejercicio presupuestal, con apego a lo dispuesto en esta Ley.
 
-Corresponde a la Comisión para la Gestión Integral de los Residuos Sólidos de la Ciudad de México entre otras el ejercicio de las siguientes facultades:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+###### ARTÍCULO 45.
 
-I. Proponer y, en su caso, definir los mecanismos y criterios de coordinación y transversalidad de los programas y acciones de la administración pública de la Ciudad de México que se vinculen con la generación, manejo, tratamiento, minimización, aprovechamiento y disposición final de residuos, así como revisar y dar seguimiento al cumplimiento de los objetivos y metas establecidos en ellos;
+Los titulares de las Dependencias, Órganos Desconcentrados, Delegaciones, Entidades, Órganos de Gobierno y Autónomos del Distrito Federal, así como los servidores públicos adscritos a estas Unidades Responsables del Gasto encargados de la administración de los recursos asignados, que ejerzan recursos aprobados en el Decreto, tendrán la obligación de cubrir las contribuciones, aprovechamientos y productos federales y locales correspondientes y, en su caso, sus accesorios, con cargo a sus presupuestos de conformidad con las disposiciones aplicables.
 
-II. Proponer a las instancias federales y estatales la adopción de estrategias y políticas metropolitanas enfocadas a atender de manera integral el tema de los residuos;
+Para el caso de las Entidades que realicen operaciones con el Registro Federal de Contribuyentes del Gobierno del Distrito Federal, las operaciones se consolidarán y se contabilizarán en el sector central, para tal efecto, las Entidades deberán ajustarse a las disposiciones establecidas en esta Ley, en lo que a Dependencias, Órganos Desconcentrados y Delegaciones se refiere.
 
-III. Presentar al Jefe de Gobierno los resultados de las investigaciones, estudios y diagnósticos elaborados por los integrantes o invitados de la Comisión, cuyo objeto consista en mejorar el diseño, planeación y generación de proyectos, programas y acciones gubernamentales en materia de generación, manejo, tratamiento, aprovechamiento y disposición final de residuos;
+Los titulares de las Dependencias, Delegaciones y Órganos Desconcentrados, así como las Entidades que realicen sus operaciones con el Registro Federal de Contribuyentes del Gobierno del Distrito Federal, deberán remitir oportunamente a la Secretaría la información necesaria para que la Oficialía cumpla dentro de los plazos legales con la obligación de tramitar la declaración del Impuesto al Valor Agregado; de igual forma, deberán remitir correcta y oportunamente a la Oficialía la información necesaria para que ésta cumpla dentro de los plazos legales, con la obligación de tramitar ante la Secretaría el pago del Impuesto Sobre la Renta.
 
-> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+Si la falta de cumplimiento de dichas obligaciones a cargo del Gobierno del Distrito Federal se origina por causas imputables a las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que realicen operaciones con el Registro Federal de Contribuyentes del Gobierno del Distrito Federal, los servidores públicos facultados que no hayan enviado oportunamente la información serán responsables del pago de actualizaciones, recargos, multas y demás accesorios que en su caso se generen. La Secretaría o la Oficialía, según corresponda, harán del conocimiento de la Contraloría la falta de cumplimiento.
 
-IV. Proponer a las dependencias y entidades de la administración pública de la Ciudad de México, la suscripción de convenios, contratos o cualquier instrumento jurídico con los sectores público, privado y social, que contribuyan a la solución de los problemas creados por los residuos sólidos, desde su generación hasta su disposición final;
+###### ARTÍCULO 46.
 
-V. Proponer y, en su caso, presentar a las autoridades competentes los proyectos de modificaciones legislativas, reglamentarias y administrativas que actualicen y hagan más eficiente el marco normativo aplicable en materia de generación, encierro, acopio, transferencia, selección, tratamiento, manejo, aprovechamiento, valorización y disposición final de residuos.
+En casos excepcionales y debidamente justificados, la Secretaría podrá autorizar que las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades establezcan compromisos presupuestales en los contratos de obras públicas, de adquisiciones o de otra índole que celebren, cuya ejecución comprenda más de un ejercicio. En estos casos, el cumplimiento de los compromisos quedará sujeto a la disponibilidad presupuestal de los años en que se continúe su ejecución.
 
-VI. Fomentar la participación de los sectores público, privado y social en la instrumentación de los programas, proyectos y acciones gubernamentales en materia de generación, encierro, acopio, transferencia, selección, tratamiento, manejo, aprovechamiento, valorización y disposición final de residuos.
+Las Entidades deberán contar con la autorización previa de su órgano de gobierno.
 
-> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+Sólo en casos debidamente justificados en los que se acrediten causas ajenas al contratante o contratista, la Secretaría expedirá autorizaciones multianuales sobre proyectos iniciados bajo una base anual, siempre que haya disponibilidad presupuestal.
 
-VII. Diseñar estrategias financieras que generen recursos al Gobierno de la Ciudad de México, a través de los mecanismos económicos previstos en los instrumentos nacionales e internacionales y, en su caso, proponer su ejecución a las autoridades competentes;
+Para los años presupuestales subsecuentes, los compromisos de pago adquiridos por las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades en ejercicios anteriores, conforme a lo previsto en este artículo, gozarán de preferencia respecto de nuevos compromisos que las mismas pretendan adquirir. Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades deberán cuidar bajo su responsabilidad que los pagos que se efectúen con cargo a sus presupuestos aprobados se realicen con sujeción a la preferencia establecida en este artículo.
 
-> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+La Secretaría previo análisis del gasto consignado en los Anteproyectos de Presupuesto, podrá expedir autorizaciones previas para que las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que los soliciten estén en posibilidad de efectuar trámites y contraer compromisos que les permitan iniciar o continuar, a partir del primero de enero del año siguiente, aquellos proyectos, servicios y obras, que por su importancia y características así lo requieran, pero en todos los casos, tanto las autorizaciones que otorgue la Secretaría como los compromisos que con base en ellas se contraigan, estarán condicionados a la aprobación del Presupuesto de Egresos correspondiente y a las disposiciones que emita la propia Secretaría.
 
-VIII. Informar periódicamente a la persona titular de la Jefatura de Gobierno de la Ciudad de México y al Congreso de la Ciudad de México, los avances de los programas, acciones y resultados de la Comisión;
+La Secretaría informará en la Cuenta Pública, en capítulo por separado, respecto de lo dispuesto en el primer párrafo de este artículo.
 
-IX. Aprobar la creación, modificación o cancelación de las subcomisiones que considere necesarias para el mejor cumplimiento de sus atribuciones;
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades podrán convocar, adjudicar o llevar a cabo adquisiciones, arrendamientos y prestación de servicios así como obra pública, solamente cuando cuenten con recursos disponibles dentro de su presupuesto aprobado.
 
-> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+La Secretaría, en casos excepcionales, podrá autorizar que las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, convoquen adquisiciones, arrendamientos y prestación de servicios u obra pública, sin contar con saldo disponible en su presupuesto, por lo que deberán iniciar de manera inmediata los trámites necesarios para asegurar la suficiencia presupuestal previa al fallo o adjudicación.
 
-X. Conocer, revisar y, en su caso, dar seguimiento a las acciones y programas de gestión integral de los residuos que diseñen o ejecuten las dependencias y entidades de la administración pública de la Ciudad de México;
+###### ARTÍCULO 47.
 
-XI. Acordar la planeación y ejecución de programas o proyectos que por su grado de especificidad técnica requieran ser atendidos por la Comisión y sus integrantes;
+El ejercicio del presupuesto se sujetará estrictamente a los montos y calendarios presupuestales aprobados, así como a las disponibilidades de la hacienda pública, los cuales estarán en función de la capacidad financiera del Distrito Federal. En el ejercicio del gasto público, las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades deberán de cumplir con esta Ley, quedando facultada la Secretaría para no reconocer adeudos ni pagos por cantidades reclamadas o erogaciones efectuadas en contravención a lo dispuesto en este artículo.
 
-XII. Fomentar la participación ciudadana mediante campañas educativas, informativas y de manejo responsable de los residuos sólidos;
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-XIII. Aprobar su Reglamento Interno; y
+La Secretaria instrumentará lo que corresponda a efecto de que los pagos a proveedores, prestadores de servicios contratistas o cualquier otro beneficiario, se lleven a cabo en un máximo de 20 días naturales, contados a partir de la fecha en que sea ingresada al sistema la solicitud de trámite de la Cuenta por Liquidar Certificada, o bien dentro de las fechas limites de cierre que para el efecto emita la Secretaria.
 
-XIV. Las demás que el Jefe de Gobierno le asigne.
+###### ARTÍCULO 48.
 
-> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+Las adecuaciones a los calendarios presupuestales que tengan por objeto anticipar la disponibilidad de recursos sólo podrán ser autorizadas por la Secretaría; en consecuencia, las Unidades Responsables del Gasto deberán llevar a cabo el registro y control de su ejercicio presupuestario, sujetando sus compromisos de pago a sus calendarios aprobados.
 
-###### Artículo 10 Bis 3.
+###### ARTÍCULO 49.
 
-La Comisión se reunirá en sesiones ordinarias bimestrales y en sesiones extraordinarias cuando las circunstancias así lo ameriten. La convocatoria de la sesión respectiva deberá ser notificada a los miembros de la Comisión por su Presidente o Secretario Técnico, a más tardar cinco días hábiles antes de la celebración de la misma.
+Para que las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades estén en posibilidades de ejercer los recursos de inversión deberán registrar sus proyectos en la cartera de proyectos de inversión que integre la Secretaría, en los términos del Reglamento.
 
-###### Artículo 16.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
-Los programas de educación formal y no formal que desarrollen o fomenten los centros o instituciones educativas de competencia de la Ciudad de México, así como las asociaciones o instituciones legalmente constituidas, establecerán mecanismos orientados a fomentar una cultura de manejo integral de los residuos sólidos que promuevan, además, la separación seleccionada de dichos residuos y su valorización.
+Asimismo, las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que ejerzan gasto para programas y proyectos de inversión, serán responsables de dar seguimiento a los programas y proyectos de inversión en ejecución y de reportar a la Secretaría, la información de éstos en los términos que establezca dicha Secretaría.
 
-###### Artículo 17.
+a) (DEROGADO, G.O. 31 DE DICIEMBRE DE 2012)
 
-Los programas de difusión en materia ambiental de la Secretaría y de las delegaciones incluirán campañas periódicas para fomentar la reducción de la cantidad y peligrosidad, la separación obligatoria y la valorización de los residuos sólidos.
+b) (DEROGADO, G.O. 31 DE DICIEMBRE DE 2012)
 
-###### Artículo 18.
+Para tales efectos, deberán observar los lineamientos que al respecto emita la Secretaría.
 
-La Secretaría, la Secretaría de Obras y Servicios y las delegaciones, en el ámbito de sus respectivas competencias, promoverán la participación de todos los sectores de la sociedad mediante:
+> <small>(DEROGADO CUARTO PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
-I. Su participación en el fomento y apoyo en la conformación, consolidación y operación de grupos intersectoriales para el diseño e instrumentación de los programas en materia de los residuos sólidos;
+###### ARTÍCULO 50.
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+Para el ejercicio de recursos relacionados con servicios prestados entre Dependencias, Órganos Desconcentrados y Delegaciones deberá contarse con un documento justificante del gasto, no siendo necesario celebrar contratos entre ellas y se deberá observar lo siguiente:
 
-II. La difusión de información y promoción de actividades de cultura, educación y capacitación ambientales relacionados con el manejo integral de los residuos sólidos;
+I. Cuando no exista erogación material de fondos se afectará la partida que reporte la erogación mediante el documento presupuestario respectivo, abonando a la fracción de la Ley de Ingresos que corresponda;
 
-III. La promoción de proyectos pilotos y de demostración destinados a generar elementos de información para sustentar programas en materia de los residuos sólidos; y
+II. En los casos que exista erogación material de fondos por pagos que deban efectuarse a terceros, se afectará la partida correspondiente, y
 
-IV. La promoción de las demás acciones que determine el reglamento de la presente Ley.
+III. Las Dependencias y Órganos Desconcentrados efectuarán el pago de impuestos, derechos y servicios de acuerdo con lo previsto en la fracción I.
 
-###### Artículo 19.
+###### ARTÍCULO 51.
 
-Las autoridades establecidas en el artículo 4° de la presente Ley sistematizarán y pondrán a disposición del público la información obtenida en el ejercicio de sus funciones vinculadas a la generación y manejo integral de los residuos sólidos, y la prestación de los servicios de limpia a su cargo, mediante los mecanismos establecidos en el capítulo correspondiente de la Ley Ambiental, sin perjuicio de la debida reserva de aquella información protegida por las leyes.
+Las Dependencias, Delegaciones, Órganos Desconcentrados y Entidades al contraer compromisos deberán observar, además de las disposiciones legales aplicables, lo siguiente:
 
-> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+I. Que cuenten con suficiencia presupuestal en la o las partidas que se vayan a afectar, previo a la celebración del compromiso;
 
-###### Artículo 20.
+II. Que no impliquen obligaciones anteriores a la fecha en que se suscriban, y
 
-La Secretaría solicitará periódicamente a la autoridad federal toda la información que considere necesaria sobre el manejo y transporte de residuos peligrosos en el territorio de la Ciudad de México. Dicha información la incluirá en el Sistema de Información Ambiental.
+III. Que no impliquen obligaciones con cargo a presupuestos de años posteriores, salvo previa autorización de la Secretaría en los términos de la presente Ley.
 
-###### Artículo 21.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
-Toda persona que genere residuos sólidos tiene la propiedad y responsabilidad del manejo integral de estos, así como de los perjuicios y daños que puedan ocasionar, hasta el momento en que son entregados al servicio de recolección, o depositados en los contenedores o sitios autorizados para tal efecto por la autoridad competente.
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades en ningún caso contratarán obra pública, adquisiciones, arrendamientos o servicios, ni otorgarán las figuras a que se refiere la Ley del Régimen Patrimonial y del Servicio Público, con personas físicas o morales que no se encuentren al corriente en el cumplimiento de sus obligaciones fiscales tanto las de carácter local como las derivadas de los ingresos federales coordinados con base en el Convenio de colaboración administrativa en materia fiscal celebrado con el Gobierno Federal.
 
-###### Artículo 22.
+###### ARTÍCULO 52.
 
-Para la prevención de la generación, valorización y manejo de los residuos sólidos, se incluirá en el reglamento las disposiciones para formular planes de manejo, guías y lineamientos para generadores de alto volumen de los residuos sólidos.
+Para la ejecución del gasto público, el Distrito Federal no otorgará garantías ni efectuará depósitos para el cumplimiento de sus obligaciones de pago con cargo a su Presupuesto de Egresos, salvo lo dispuesto en el artículo 6 de esta Ley.
 
-> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+###### ARTÍCULO 53.
 
-## TÍTULO SEGUNDO. DE LA COMPETENCIA
+El ejercicio del gasto público por concepto de adquisiciones, servicios generales y obras, se formalizará con los compromisos correspondientes a través de la adjudicación, expedición y autorización de contratos de obras públicas, pedidos, contratos y convenios para la adquisición de bienes y servicios, convenios y presupuestos en general, así como la revalidación de éstos, en los casos que determinen las normas legales aplicables, mismos que deberán reunir iguales requisitos que los pedidos y contratos para que tengan el carácter de justificantes.
 
-### CAPÍTULO II. DE LAS DISPOSICIONES COMPLEMENTARIAS DE LA POLÍTICA AMBIENTAL
+En el caso de adquisiciones y obras públicas, las Dependencias, Órganos Desconcentrados y Delegaciones deberán contar con los programas y presupuestos de adquisiciones y de obras respectivos, de conformidad con las disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE OCTUBRE DE 2022)</small>
+Para el caso de obras públicas y adquisiciones que se financien con recursos federales a través de convenios, éstas no estarán sujetas a los criterios que emita el Distrito Federal, debiéndose aplicar únicamente la legislación federal vigente.
 
-###### Artículo 23.
+###### ARTÍCULO 54.
 
-Las personas físicas o morales responsables de la producción, recolección, manejo, tratamiento, reciclaje, reutilización, distribución o comercialización de bienes que, una vez terminada su vida útil, originen residuos sólidos en alto volumen, de manejo especial o que produzcan desequilibrios significativos al medio ambiente, cumplirán, además de las obligaciones que se establezcan en el Reglamento, con las siguientes disposiciones:
+Para que los pedidos, contratos y convenios tengan el carácter de documentos justificantes deberán sujetarse a lo siguiente:
 
-I. Instrumentar planes de manejo de los residuos sólidos en sus procesos de producción, prestación de servicios o en la utilización de envases y embalajes, así como su fabricación o diseño, comercialización o utilización que contribuyan a la minimización de los residuos sólidos y promuevan la reducción de la generación en la fuente, su valorización o disposición final, que ocasionen el menor impacto ambiental posible;
+I. Señalar con precisión su vigencia, importe total, plazo de terminación o entrega de la obra, los servicios o bienes contratados, así como la fecha y condiciones para su pago. En los casos que por la naturaleza del contrato no se pueda señalar un importe determinado, se deberán estipular las bases para fijarlo;
 
-II. Adoptar sistemas eficientes de recuperación o retorno de los residuos sólidos derivados de la comercialización de sus productos finales;
+II. Excepto por el pago de costos financieros, en caso de retrasos en los pagos que deban realizar las Dependencias, Órganos Desconcentrados y Delegaciones bajo los contratos que celebren, en ningún caso se aceptará la estipulación de penas convencionales, ni intereses moratorios a cargo de las Dependencias, Órganos Desconcentrados y Delegaciones;
 
-III. Privilegiar el uso de envases y embalajes para que una vez utilizados sean susceptibles de valorización mediante procesos de reutilización y reciclaje.
+III. En los casos procedentes, deberá existir la garantía correspondiente, y
 
-El Reglamento determinará los bienes a los que se refiere este artículo; y
+IV. Cumplir con lo establecido en el artículo 51 de esta Ley.
 
-IV. Cumplir con lo establecido (sic) las normas ambientales emitidas por la Secretaría.
+###### ARTÍCULO 55.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE ABRIL DE 2023)</small>
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que efectúen gasto público con cargo al Presupuesto de Egresos estarán obligados a proporcionar a la Secretaría la información que les solicite.
 
-###### Artículo 24.
+En los casos de los Órganos Autónomos y de Gobierno, a fin de garantizar la transparencia y rendición de cuentas enviarán a la Secretaría la información correspondiente para la integración de los informes a que se refiere esta Ley.
 
-Es responsabilidad de toda persona física o moral, en la Ciudad de México:
+###### ARTÍCULO 56.
 
-I. Separar, reducir y evitar la generación de los residuos sólidos;
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades remitirán a la Secretaría, dentro de los primeros diez días de cada mes, un reporte mensual sobre los recursos fiscales, crediticios y provenientes de transferencias federales, que se encuentren comprometidos al cierre de mes inmediato anterior. La Secretaría podrá solicitar a la Contraloría la verificación de dichos compromisos y en el caso de que estos no se encuentren debidamente formalizados, la Secretaría podrá reasignar los recursos que no se encuentren comprometidos.
 
-II. Barrer diariamente las banquetas, andadores y pasillos y mantener limpios de residuos sólidos los frentes de sus viviendas o establecimientos industriales o mercantiles, así como los terrenos de su propiedad que no tengan construcción, a efecto de evitar contaminación y molestias a los vecinos;
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
-III. Fomentar la reutilización y reciclaje de los residuos sólidos;
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades tendrán como fecha límite para comprometer recursos, a más tardar el 31 de octubre tratándose de obra pública por contrato y el 15 de noviembre para el resto de los conceptos de gasto, salvo los casos particulares en que los Convenios Federales establezcan fechas de compromiso específicas para los recursos federales o aquellos recursos que sirvan como contraparte (pari passu).
 
-> <small>(ADICIONADA, G.O. 3 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
-III Bis. Entregar sus residuos de la construcción y de la demolición a un prestador de servicio de manejo de transporte.
+Quedan exceptuados de los plazos anteriores los compromisos que se financien con recursos adicionales al presupuesto originalmente autorizado, los derivados de obligaciones de carácter laboral, judicial y contingencias, debidamente justificadas de acuerdo a las reglas que emita la Secretaría, así como los recursos autogenerados y propios de Entidades, siempre y cuando sean adicionales al presupuesto originalmente autorizado.
 
-IV. Cumplir con las disposiciones específicas, criterios, normas y recomendaciones técnicas;
+> <small>(DEROGADO CUARTO PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
-V. Almacenar los residuos sólidos con sujeción a las normas sanitarias y ambientales para evitar daño a terceros y facilitar la recolección;
+La Secretaría comunicará las fechas de los trámites presupuestales para el cierre del ejercicio.
 
-> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+###### ARTÍCULO 57.
 
-VI. Poner en conocimiento de las autoridades competentes las infracciones que se estimen se hubieran cometido contra la normatividad de los residuos sólidos;
+Para la ejecución del gasto público, las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades deberán sujetarse a las previsiones de esta Ley, su Reglamento y demás normatividad aplicable.
 
-> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+###### ARTÍCULO 58.
 
-VI Bis. Informar de los tipos y cantidades de residuos sólidos generados en los formatos que la autoridad determine;
+Las Dependencias, Órganos Desconcentrados y Delegaciones deberán llevar un registro del ejercicio de su gasto autorizado de acuerdo con las disposiciones de esta Ley, así como a las normas que para tal efecto dicte el Jefe de Gobierno, por conducto de la Secretaría, a fin de que consolide la contabilidad general de egresos del Distrito Federal.
 
-> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+###### ARTÍCULO 59.
 
-VI Ter. Disponer de información probatoria e informar a la autoridad competente sobre el manejo adecuado de sus residuos en los casos que la recolección de estos sea realizado por un establecimiento mercantil privado relacionado con la recolección, manejo, tratamiento reutilización, reciclaje y disposición final de los residuos sólidos; y
+Las Unidades Responsables del Gasto que realicen erogaciones financiadas con endeudamiento deberán apegarse a la normatividad vigente en la materia.
 
-VII. Las demás que establezcan los ordenamientos jurídicos aplicables.
+###### ARTÍCULO 60.
 
-###### Artículo 25.
+Las Unidades Responsables del Gasto informarán a la Secretaría, a más tardar el día 15 de enero de cada año, el monto y características de su pasivo circulante al fin del año anterior.
 
-Queda prohibido por cualquier motivo:
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
-I. Arrojar o abandonar en la vía pública, áreas comunes, parques, barrancas, y en general en sitios no autorizados, residuos sólidos de cualquier especie;
+ARTÍCULO 60 BIS.- Los compromisos pendientes de pago reportados en tiempo y forma en el pasivo circulante enviado en su oportunidad a la Secretaría, así como los correspondientes a las partidas de manejo centralizado, y que no hayan sido tramitados y pagados a los contratistas, proveedores y prestadores de servicios por causas no imputables a las Dependencias, Órganos Desconcentrados y Delegaciones, serán cubiertos por la Secretaría con los remanentes que se presenten en el cierre del ejercicio en el cual se originaron los adeudos y no representarán un cargo al presupuesto autorizado de las Dependencias, Órganos Desconcentrados y Delegaciones en ejercicios subsecuentes.
 
-II. Depositar animales muertos, residuos sólidos que despidan olores desagradables o aquellos provenientes de la construcción en los contenedores instalados en la vía publica para el arrojo temporal de residuos sólidos de los transeúntes;
+###### ARTÍCULO 61.
 
-III. Quemar a cielo abierto o en lugares no autorizados cualquier tipo de los residuos sólidos;
+Las Entidades recibirán por conducto de la Secretaría, los fondos, subsidios y transferencias con cargo al Presupuesto de Egresos del Distrito Federal, conforme a lo que señala esta Ley y a las reglas de carácter general que emita la Secretaría. Asimismo, los manejarán, administrarán y ejercerán de acuerdo con las normas que rijan su funcionamiento.
 
-IV. Arrojar o abandonar en lotes baldíos, a cielo abierto o en cuerpos de aguas superficiales o subterráneas, sistemas de drenaje, alcantarillado o en fuentes públicas, residuos sólidos de cualquier especie;
+La ministración de estas aportaciones a las Entidades, se hará como complemento a sus Ingresos Propios y conforme al calendario presupuestal mensual autorizado por la Secretaría, deduciendo las disponibilidades financieras de las Entidades.
 
-V. Pepenar residuos sólidos de los recipientes instalados en la vía pública y dentro de los sitios de disposición final y sus alrededores;
+La Secretaría para autorizar la ministración de recursos por concepto de subsidios, aportaciones y transferencias a las Entidades deberá:
 
-VI. Instalar contenedores de los residuos sólidos en lugares no autorizados;
+I. Verificar que el monto correspondiente sea congruente con el calendario presupuestal respectivo, y
 
-VII. Fijar propaganda comercial o política en el equipamiento urbano destinado a la recolección de los residuos sólidos, así como fijar en los recipientes u otro mobiliario urbano destinado al depósito y recolección colores alusivos a algún partido político;
+II. Analizar el estado presupuestal para determinar los niveles de disponibilidad de recursos que hagan procedente el monto de estos en el momento en que se otorguen, de conformidad con los calendarios presupuestales autorizados.
 
-VIII. Fomentar o crear basureros clandestinos;
+El manejo financiero de los recursos recibidos por concepto de transferencias y aportaciones deberá ser congruente con los objetivos y metas de los programas a cargo de las Entidades, debiendo éstas destinar dichos recursos para cubrir precisamente las obligaciones para las cuales fueron autorizados.
 
-IX. Confinar residuos sólidos fuera de los sitios destinados para dicho fin en parques, áreas verdes, áreas de valor ambiental, áreas naturales protegidas, zonas rurales o áreas de conservación ecológica;
+### CAPÍTULO II. De la Ministración, el Pago y la Concentración de Recursos
 
-X. Tratar térmicamente los residuos sólidos recolectados, sin considerar las disposiciones jurídicas aplicables;
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-XI. Diluir o mezclar residuos sólidos o industriales peligrosos en cualquier líquido y su vertimiento al sistema de alcantarillado, a cualquier cuerpo de agua o sobre suelos con o sin cubierta vegetal;
+###### ARTÍCULO 62.
 
-> <small>(REFORMADA, G.O. 25 DE JUNIO DE 2019)</small>
+La Secretaría atenderá las solicitudes de pago o de fondos que las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades autoricen con cargo a sus presupuestos para el financiamiento de sus vertientes de gasto, en razón de sus disponibilidades financieras y conforme al calendario presupuestal previamente aprobado.
 
-XI Bis. La comercialización, distribución y entrega de bolsas de plástico al consumidor, en los puntos de venta de bienes o productos, excepto si son compostables. Se excluyen, las bolsas de plástico necesarias por razones de higiene o que prevengan el desperdicio de alimentos siempre y cuando no existan alternativas compostables.
+Por lo que hace a los órganos de gobierno y autónomos, la Secretaría ministrará los fondos autorizados por la Asamblea, conforme el calendario financiero previamente aprobado, en términos de lo dispuesto en esta Ley.
 
-La comercialización, distribución y entrega de tenedores, cuchillos, cucharas, palitos mezcladores, platos, popotes o pajitas, bastoncillos para hisopos de algodón, globos y varillas para globos, vasos y sus tapas, charolas para transportar alimentos, aplicadores de tampones, fabricados total o parcialmente de plásticos, diseñados para su desecho después de un solo uso, excepto los que sean compostables.
+###### ARTÍCULO 63.
 
-Queda excluida la comercialización, distribución y entrega de popotes para asistencia médica.
+Todas las erogaciones se harán por medio de una Cuenta por Liquidar Certificada la cual deberá ser elaborada y autorizado su pago por el servidor público facultado para ello o bien, podrá encomendar por escrito la autorización referida a otro servidor público de la propia Unidad Responsable del Gasto.
 
-La comercialización, distribución y entrega de productos que contengan microplásticos añadidos intencionalmente.
+###### ARTÍCULO 64.
 
-La comercialización, distribución y entrega de cápsulas de café de un solo uso fabricadas con materiales plásticos de bajo potencial de aprovechamiento.
+La ministración se efectuará por conducto de la Secretaría a través de Cuentas por Liquidar Certificadas, elaboradas y autorizadas por los servidores públicos competentes de las Unidades Responsables del Gasto ya sea por sí o a través de las instituciones de crédito o sociedades nacionales de crédito autorizadas para tal efecto.
 
-XII. Mezclar residuos peligrosos con residuos sólidos e industriales no peligrosos; y
+###### ARTÍCULO 65.
 
-> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+Las Unidades Responsables del Gasto deberán remitir sus Cuentas por Liquidar Certificadas a través del sistema electrónico que opere la Secretaría.
 
-XIII. Confinar o depositar en sitios de disposición final residuos en estado líquido o con contenidos líquidos que excedan los máximos permitidos por las normas oficiales mexicanas o las normas ambientales de la Ciudad de México.
+Las Cuentas por Liquidar Certificadas cumplirán con los requisitos que se establezcan en el Reglamento y en las demás disposiciones que con apego a lo dispuesto en esta Ley, emita la Secretaría para los procedimientos del ejercicio presupuestal.
 
-> <small>(ADICIONADA, G.O. 24 DE JULIO DE 2012)</small>
+Los servidores públicos de las Unidades Responsables del Gasto que hayan autorizado los pagos a través de las Cuentas por Liquidar Certificadas son los directamente responsables de la elaboración, generación, tramitación, gestión e información que en éstas se contenga.
 
-XIV. Utilizar envases que hayan contenido sustancias tóxicas con fines distintos para los que fueron creados, como almacenar o trasportar productos para consumo humano.
+###### ARTÍCULO 66.
 
-> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+La Secretaría efectuará los pagos autorizados por las Unidades Responsables del Gasto con cargo a sus presupuestos aprobados y los que por otros conceptos deban realizarse directamente o por conducto de los auxiliares a que se refiere el Código, en función de sus disponibilidades presupuestales y financieras con que cuente la Secretaría, con base en lo previsto en esta Ley y demás disposiciones aplicables.
 
-Las violaciones a lo establecido en este artículo se sancionarán de conformidad con lo dispuesto en esta Ley, sin perjuicio de lo establecido en la Ley de Cultura Cívica de la Ciudad de México y demás ordenamientos jurídicos aplicables.
+###### ARTÍCULO 67.
 
-###### Artículo 26.
+Con el objeto de obtener las mejores condiciones en cuanto a precio, calidad, oportunidad en la adquisición de bienes o contratación de servicios y generar ahorros, las unidades administrativas consolidadoras podrán establecer compromisos a determinadas partidas de gasto con cargo a los presupuestos aprobados de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades conforme a sus requerimientos y que los cargos se realicen de manera centralizada o consolidada a través de la unidad administrativa o Entidad que haya formalizado los compromisos.
 
-Los propietarios, directores responsables de obra, contratistas y encargados de inmuebles en construcción o demolición, son responsables solidarios en caso de provocarse la diseminación de materiales, escombros y cualquier otra clase de residuos sólidos, así como su mezcla con otros residuos ya sean de tipo orgánico o peligrosos.
+Las unidades administrativas consolidadoras instrumentarán el compromiso basándose en la suficiencia presupuestal que las propias Dependencias, Órganos Desconcentrados, Delegaciones y Entidades proporcionen. Éstas serán las responsables de prever la disponibilidad de los recursos en las partidas presupuestales para la realización de los pagos, de conformidad con la información proporcionada por la unidad administrativa o Entidad que en su caso, realice los pagos centralizados.
 
-El frente de las construcciones o inmuebles en demolición deberán mantenerse en completa limpieza, quedando prohibido almacenar escombros y materiales en la vía pública.
+La unidad administrativa consolidadora informará a las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades el importe de los cargos centralizados o consolidados que afectaron sus presupuestos conforme a sus requerimientos indicados en las adhesiones, a fin de que conozcan sus compromisos y puedan determinar su disponibilidad presupuestal, economías y calendarios. Asimismo, informará a las Contralorías Internas para el seguimiento correspondiente.
 
-Los responsables deberán transportar los escombros en vehículos adecuados que eviten su dispersión durante el transporte a los sitios que determine la Secretaría de Obras y Servicios.
+###### ARTÍCULO 68.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 3 DE ABRIL DE 2023)</small>
+Los pagos que afecten el Presupuesto de Egresos de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades sólo podrán hacerse efectivos en tanto no prescriba la acción respectiva conforme al Código y demás disposiciones aplicables.
 
-Las personas físicas o morales que se señalan en el artículo anterior, deben contar con un convenio o contrato vigente con una planta de reciclaje de residuos de la construcción y demolición que garantice el reciclaje de los residuos a generar en sus procesos productivos y deberá presentarlo ante la Secretaría y la Alcaldía correspondiente, para la obtención de los permisos de construcción o demolición pertinentes.
+###### ARTÍCULO 69.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 3 DE ABRIL DE 2023)</small>
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades deberán cuidar, bajo su responsabilidad, que los pagos que autoricen con cargo a sus presupuestos aprobados se realicen con sujeción a los siguientes requisitos:
 
-Los residuos generados en obras de construcción, tales como: construcción, modificación, remodelación, amplificación, restauración, reparación, sustitución de infraestructura, conservación, mantenimiento, instalación, demolición u otras deberán separarse en la fuente generadora y ser objeto de una (sic) Plan de Manejo, conforme a lo establecido en el marco jurídico aplicable.
+I. Que correspondan a compromisos efectivamente devengados con excepción de los anticipos previstos en esta Ley y en otros ordenamientos aplicables;
 
-((REFORMADO, G.O. 26 DE NOVIEMBRE DE 2010)
+II. Que se efectúen dentro de los límites de los calendarios presupuestales autorizados por la Secretaría, y
 
-###### Artículo 26 Bis.
+III. Que se encuentren debidamente justificados y comprobados con los documentos originales respectivos, entendiéndose por justificantes los documentos legales que determinen la obligación de hacer un pago y, por comprobantes, los documentos que demuestren la entrega de las sumas de dinero correspondientes.
 
-Las bolsas de plástico que se entreguen a título gratuito, de manera onerosa o con motivo de cualquier acto comercial, para transportación, carga o traslado del consumidor final, deberán cumplir con los criterios y normas de producción y consumo sustentable señalados en la fracción XI del artículo 6º de la presente ley.
+###### ARTÍCULO 70.
 
-Productores, distribuidores, y usuarios de las bolsas a las que se refiere este artículo, deberán propiciar las acciones relativas a la maximización en la valorización o reciclaje mediante la participación en los programas que para tal efecto establezca la Secretaría.
+Para cubrir los compromisos que efectivamente se hayan cumplido y no hubieren sido cubiertos al 31 de diciembre de cada año, las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades deberán atender a lo siguiente para su trámite de pago:
 
-###### Artículo 26 Bis 1.
+I. Que se encuentren debidamente contabilizados al 31 de diciembre del ejercicio correspondiente;
 
-(REFORMADO [N. DE E. DEROGADO], G.O. 26 DE NOVIEMBRE DE 2010)
+II. Que exista suficiencia presupuestal para esos compromisos en el año en que se cumplieron;
 
-> <small>(ADICIONADO, G.O. 3 DE ABRIL DE 2023)</small>
+III. Que se informe a la Secretaría, a más tardar el día 15 de enero de cada año, en los términos del artículo 60 de esta Ley, el monto y características de su pasivo circulante, y
 
-###### Artículo 26 Ter.
+IV. Que se radiquen en la Secretaría los documentos que permitan efectuar los pagos respectivos, a más tardar el último día de enero del año siguiente al del ejercicio al que corresponda el gasto.
 
-La Secretaría, implementará Sistemas de información que permitan conocer el origen, ruta y destino final de los residuos de la construcción y demolición
+De no cumplir con los requisitos antes señalados, dichos compromisos se pagarán con cargo al presupuesto del año siguiente, sin que esto implique una ampliación al mismo.
 
-###### Artículo 27.
+Para el caso de que las estimaciones de ingresos no se cumplan, la Secretaría determinará el registro presupuestal que corresponda.
 
-La Secretaria elaborará y mantendrá actualizado, en los términos del reglamento, un inventario que contenga la clasificación de los residuos sólidos y sus tipos de fuentes generadoras, con la finalidad de:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
-I. Orientar la toma de decisiones tendientes a la prevención, control y minimización de dicha generación;
+###### ARTÍCULO 71.
 
-II. Proporcionar a quien genere, recolecte, trate o disponga finalmente los residuos sólidos, indicadores acerca de su estado físico y propiedades o características inherentes que permitan anticipar su comportamiento en el ambiente;
+Los recursos remanentes de los ejercicios anteriores serán considerados ingresos para todos los efectos y deberán destinarse a mejorar el balance fiscal, excepto los remanentes federales ya que tienen un fin específico.
 
-III. Dar a conocer la relación existente entre las características físicas, químicas o biológicas inherentes a los residuos sólidos, y la probabilidad de que ocasionen o puedan ocasionar efectos adversos a la salud humana, al ambiente o a los bienes en función de sus volúmenes, sus formas de manejo y la exposición que de éste se derive; y
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-IV. Identificar las fuentes generadoras, los diferentes tipos de los residuos sólidos, los distintos materiales que los constituyen y los aspectos relacionados con su valorización.
+De la misma manera, los recursos derivados de economías en el pago de servicios de la deuda pública, deberán aplicarse a disminuir el saldo neto de la misma.
 
-###### Artículo 28.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
-Para los efectos del artículo anterior, la categorización de los residuos sólidos que deberá contener dicho inventario podrá considerar las características físicas, químicas o biológicas que los hacen:
+No es aplicable lo dispuesto en este artículo, tratándose de recursos presupuestales propios de las Entidades, así como aquellos transferidos con el carácter de aportaciones a los fines de los Fideicomisos Públicos.
 
-I. Inertes;
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-II. Fermentables;
+Las unidades responsables del gasto que por cualquier motivo al término del ejercicio fiscal que corresponda conserve fondos presupuestales o recursos que no hayan sido devengados y, en su caso, los rendimientos obtenidos, los enterarán a la Secretaría dentro de los 15 días naturales siguientes al cierre del ejercicio. Las Unidades responsables del gasto que hayan recibido recursos federales, así como sus rendimientos financieros y que al día 31 de diciembre no hayan sido devengados, en el caso en que proceda su devolución, los enterarán a la Secretaría dentro de los 10 días naturales siguientes al cierre del ejercicio, salvo que las disposiciones federales establezcan otra fecha.
 
-III. De alto valor calorífico y capaces de combustión;
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-IV. Volátiles;
+De los remanentes a los que se refieren los párrafos anteriores, se destinará una cantidad equivalente al 20% del total para el Fondo de Prevención y Atención de Contingencias y Emergencias Epidemiológicas y Sanitarias para el Distrito Federal.
 
-V. Solubles en distintos medios;
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-VI. Capaces de salinizar suelos;
+A efecto de acceder a los recursos de dicho fondo, la Secretaría de Salud del Distrito Federal informará a la Asamblea sobre la presencia de una contingencia sanitaria, o bien, sobre situaciones que a su juicio ameriten realizar acciones para prevenirla.
 
-VII. Capaces de provocar incrementos excesivos de la carga orgánica en cuerpos de agua y el crecimiento excesivo de especies acuáticas que ponga en riesgo la supervivencia de otras;
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-VIII. Persistentes; y
+En caso de que alguna dependencia de la Administración Pública del Distrito Federal distinta a la señalada en el presente artículo identifique circunstancias que puedan derivar en una contingencia sanitaria, deberán dar aviso a la Secretaría de Salud remitiendo un informe detallado que justifique la necesidad de aplicar recursos de dicho Fondo para la Prevención o Atención de esa situación.
 
-IX. Bioacumulables.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-###### Artículo 29.
+La Asamblea por conducto de las Comisiones de Presupuesto y Cuenta Pública y de Salud y Asistencia Social, deberá emitir la opinión respectiva para la utilización de los recursos solicitados, de acuerdo a la suficiencia presupuestal del Fondo mencionado.
 
-Para los efectos de esta Ley, los residuos sólidos se clasifican en:
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-I. Residuos urbanos; y
+El destino de los recursos al que se refiere el presente artículo respecto al Fondo de Prevención y Atención de Contingencias y Emergencias Epidemiológicas y Sanitarias para el Distrito Federal, no excluye la asignación de presupuesto específico aprobado por la Asamblea, las reasignaciones que la Secretaría de Salud realice dentro de su presupuesto autorizado, incluso, los recursos que provengan de cualquier otro programa, fondo federal o del sector privado y no podrán destinarse a fines distintos.
 
-> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-II. Residuos de manejo especial considerados como no peligrosos y sean competencia de la Ciudad de México.
+Los Órganos de Gobierno deberán informar a la Asamblea dentro de los primeros 5 días de enero de cada año, los fondos presupuestales o recursos provenientes del Gobierno del Distrito Federal y, en su caso, los rendimientos obtenidos, que al término del ejercicio anterior conserven. Asimismo, deberán informar a la Asamblea los recursos remanentes del ejercicio fiscal anterior, así como proponerle su aplicación y destino a más tardar el 5 de marzo siguiente. La Asamblea o cuando ésta se encuentre en receso, su órgano competente, deberá resolver lo conducente en un plazo que no excederá de quince días naturales y, de no ser así, se considerará como parte del presupuesto, por lo que serán descontados de las ministraciones que se les realicen, de conformidad con lo dispuesto por el artículo 62 de esta Ley. Para tal efecto, la Asamblea comunicará a la Secretaría lo que resuelva al respecto.
 
-### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+Queda prohibido realizar erogaciones, así como constituir o participar en fideicomisos, mandatos o análogos, al final del ejercicio con cargo a ahorros y economías del Presupuesto de Egresos que tengan por objeto evitar el reintegro de recursos a que se refiere este artículo. El servidor público que incumpla con esta prohibición, será sancionado en los términos del capítulo II del título Tercero de la Ley Federal de Responsabilidades de los Servidores Públicos.
 
-###### Artículo 30.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-Son residuos urbanos los que se refiere la fracción XXXI del artículo 3° de la presente Ley, así como los residuos provenientes de las actividades de limpieza y cuidado de áreas verdes a las que se refiere la Ley Ambiental.
+De los movimientos que se efectúen en los términos de este artículo, el Jefe de Gobierno informará a la Asamblea en cada Informe Trimestral y al rendir la Cuenta Pública.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE OCTUBRE DE 2025)</small>
+###### ARTÍCULO 72.
 
-###### Artículo 31.
+Solamente se podrán efectuar pagos por anticipo en los siguientes casos:
 
-Son residuos de manejo especial, siempre y cuando no estén considerados como peligrosos de conformidad con las disposiciones federales aplicables, y sean competencia de la Ciudad de México, los siguientes:
+I. Los establecidos en la Ley de Adquisiciones y en la Ley de Obras Públicas, ambas del Distrito Federal, cuando las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades celebren contratos de adquisiciones o de obra pública;
 
-I. Los provenientes de servicios de salud, generados por establecimientos que realicen actividades médico-asistenciales a las poblaciones humanas o animales, centros de investigación, desarrollo o experimentación en el área de farmacología y salud;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
-II. Los cosméticos y alimentos no aptos para el consumo generados por establecimientos comerciales, de servicios o industriales;
+II. En casos excepcionales, podrá anticiparse el pago de viáticos, sin que excedan del importe que el empleado vaya a devengar en un periodo de 30 días, y
 
-III. Los generados por las actividades agrícolas, forestales y pecuarias incluyendo los residuos de insumos utilizados en esas actividades;
+III. Los demás que establezcan otros ordenamientos legales.
 
-IV. Los de servicios de transporte, generados como consecuencia de las actividades que se realizan en terminales de transporte;
+Los anticipos que se otorguen en términos de este artículo, deberán informarse a la Secretaría a fin de llevar a cabo el registro presupuestal correspondiente.
 
-V. Los residuos de la demolición, mantenimiento y construcción civil en general;
+Los interesados reintegrarán en todo caso las cantidades anticipadas que no hubieran devengado o erogado.
 
-VI. Los residuos tecnológicos provenientes de las industrias de informática, fabricantes de productos electrónicos o de vehículos automotores y otros que al transcurrir su vida útil y que, por sus características, requieran de un manejo específico;
+###### ARTÍCULO 73.
 
-VII. Los lodos deshidratados;
+Para cada ejercicio fiscal, la Asamblea deberá aprobar en el Decreto una partida presupuestal específica que será destinada a cumplimentar las resoluciones definitivas pronunciadas por los órganos jurisdiccionales competentes.
 
-VIII. Los neumáticos usados, muebles, enseres domésticos usados en gran volumen, plásticos y otros materiales de lenta degradación;
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-IX. Los de laboratorios industriales, químicos, biológicos, de producción o de investigación;
+En caso de que la partida presupuestal referida, autorizada por la Asamblea para cada ejercicio fiscal, fuere insuficiente para darles cumplimiento a las resoluciones definitivas, el Jefe de Gobierno, por conducto de la Secretaría, podrá solicitar a la Asamblea una ampliación a la partida correspondiente para cumplimentar dichas resoluciones. La Asamblea, para autorizar la ampliación deberá tomar en cuenta que no se afecten las vertientes de gasto del Presupuesto de Egresos y lo permitan las condiciones económicas de la hacienda pública.
 
-X. Los demás que determine el Reglamento.
+###### ARTÍCULO 74.
 
-> <small>(REFORMADO, G.O. 2 DE NOVIEMBRE DE 2017)</small>
+Las garantías que se otorguen ante autoridades judiciales y las que reciban las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades por licitaciones o adjudicaciones de obras, adquisiciones, contratos administrativos, anticipos, permisos, autorizaciones, concesiones, prórrogas y otras obligaciones de naturaleza no fiscal, se regirán por esta Ley y su Reglamento, así como por las disposiciones administrativas que expida la Secretaría.
 
-###### Artículo 32.
+Los Órganos Autónomos y de Gobierno, por conducto de sus respectivas unidades de administración, establecerán en el ámbito de su competencia, los requisitos aplicables a las garantías que se constituyan a su favor.
 
-Los residuos de manejo especial estarán sujetos a los planes de manejo conforme a las disposiciones que establezca esta Ley, su reglamento y los ordenamientos jurídicos de carácter local y federal que al efecto se expidan para su manejo, tratamiento y disposición final.
+###### ARTÍCULO 75.
 
-Los generadores de residuos de manejo especial deberán instrumentar planes de manejo, mismos que deberán ser autorizados por la Secretaría y contemplar programas de postconsumo para aquellos residuos cuya naturaleza así lo permita.
+Las garantías que deban constituirse a favor de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades por actos y contratos que comprendan varios ejercicios fiscales, deberán sujetarse a lo siguiente:
 
-Los planes de manejo a que hace referencia el párrafo anterior deberán instrumentarse e implementarse de acuerdo a la normatividad aplicable, con acciones concretas que permitan el correcto tratamiento de los residuos de manejo especial que se generen.
+En los contratos que comprendan varios ejercicios fiscales, deberá estipularse la obligación para el contratista, proveedor o prestador de servicios de presentar una fianza por el 10% del importe del ejercicio inicial y se incrementará con el 10% del monto autorizado para cada uno de los ejercicios subsecuentes, en la inteligencia de que mediante dicha fianza, deberán quedar garantizadas todas las obligaciones que en virtud del contrato asuma el contratista, proveedor o prestador de servicios.
 
-La Secretaría promoverá la participación de la ciudadanía, a través de campañas de difusión, para prevenir la generación de residuos de manejo especial, así como para la prevención de la contaminación por este tipo de residuos.
+Para el caso de proyectos de coinversión, así como los de prestación de servicios a largo plazo en los que no se autoricen recursos públicos por parte del Gobierno del Distrito Federal, en los primeros ejercicios en que se lleve a cabo el proyecto, los contratistas, proveedores, prestador de servicios o inversionista proveedor deberán garantizar el cumplimiento del vehículo o contrato con cuando menos el importe del 1% de su monto inicial.
 
-> <small>(ADICIONADO, G.O. 3 DE ABRIL DE 2023)</small>
+A partir del ejercicio en que se autoricen recursos públicos al contratista, proveedor o prestador de servicios o inversionista proveedor deberá garantizar mediante fianza cuando menos el 10% del monto que se autorice en dicho ejercicio. Asimismo, deberá garantizarse mediante fianza cuando menos el 10% de los montos autorizados para cada uno de los ejercicios siguientes, para que al final del contrato se encuentre garantizado por lo menos el 10% del monto total de los recursos públicos autorizados al contratista, proveedor, prestador de servicios o inversionista proveedor.
 
-###### Artículo 32 Bis.
+La fianza de cumplimiento continuará vigente como mínimo 5 años y no deberá ser cancelada por parte de la autoridad a favor de quien se expida sino hasta que hayan quedado cubiertos los vicios ocultos que pudiere tener el proyecto.
 
-En la ejecución de obra pública que realice la administración pública de la Ciudad de México, así como en la privada se deberán utilizar materiales reciclados, productos del reciclaje de los residuos de construcción y demolición de conformidad con la normativa aplicables.
+Tratándose de contratos de prestación de servicios a largo plazo, la Comisión de Presupuestación, Evaluación del Gasto Público y Recursos de Financiamiento del Distrito Federal podrá autorizar al contratista, proveedor o prestador de servicios o inversionista proveedor la presentación de una garantía distinta a la fianza sujeta a los requisitos a que se refiere el párrafo anterior.
 
-Asimismo, deberán recolectar y transportar los residuos de la construcción y demolición autorizadas por la Secretaría, debiendo cumplir con las disposiciones que establecen las normas ambientales de la Ciudad de México en esta materia.
+La Secretaría resolverá las solicitudes de autorización que presenten las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades para admitir otra forma de garantía o eximir de ésta, respecto de actos y contratos que celebren materia de este artículo.
 
-###### Artículo 33.
+### CAPÍTULO III. De las Adecuaciones Presupuestarias
 
-Todo generador de residuos sólidos debe separarlos en orgánicos e inorgánicos, dentro de sus domicilios, empresas, establecimientos mercantiles, industriales y de servicios, instituciones públicas y privadas, centros educativos y dependencias gubernamentales y similares, para ello deberán separar sus residuos sólidos de manera diferenciada y selectiva, de acuerdo a la subclasificación de residuos que establece el reglamento de la presente Ley.
+###### ARTÍCULO 76.
 
-Estos residuos sólidos, deben depositarse en contenedores separados para su recolección por el servicio público de limpia, con el fin de facilitar su aprovechamiento, tratamiento y disposición final, o bien, llevar aquellos residuos sólidos valorizables directamente a los establecimientos de reutilización y reciclaje.
+Las adecuaciones presupuestarias comprenderán las relativas a:
 
-El Reglamento definirá la subclasificación que deberá aplicar para la separación obligatoria de residuos sólidos, con base a las disposiciones del presente artículo para cada una de las clasificaciones establecidas, así como para los distintos tipos de generadores.
+I. La estructura presupuestal aprobada por la Asamblea;
 
-> <small>(REFORMADO, G.O. 21 DE OCTUBRE DE 2022)</small>
+II. Los calendarios presupuestales autorizados, y
 
-###### Artículo 33 Bis.
+III. Ampliaciones y reducciones líquidas al Presupuesto de Egresos.
 
-La Secretaría y las Alcaldías deberán aplicar el método de separación de residuos en orgánicos e inorgánicos y de manera selectiva para el servicio de recolección, la cual será diferenciada conforme a los criterios señalados por las autoridades.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-La Administración Pública de la Ciudad de México establecerá campañas de difusión sobre los métodos de separación y recolección y recolección de residuos aplicables en cada una de las Alcaldías.
+###### ARTÍCULO 77.
 
-> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+Las adecuaciones presupuestarias, se realizarán siempre que permitan un mejor cumplimiento de los objetivos y metas de las vertientes de gasto a cargo de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, mismas que tomarán en cuenta:
 
-###### Artículo 33 Bis 1.
+I. El resultado de la evaluación que realicen respecto del cumplimiento de los objetivos y metas que lleven a cabo mensualmente, y
 
-La Secretaría y la Secretaría de Obras y Servicios, en conjunto con las delegaciones, fomentarán que las instituciones educativas, empresas, establecimientos mercantiles, industriales y de servicios, instituciones públicas y privadas, centros educativos y dependencias gubernamentales y similares, lleven a cabo la separación de residuos, mediante el sistema de recolección diferenciada y selectiva.
+II. Las situaciones coyunturales, contingentes y extraordinarias que incidan en el desarrollo de las vertientes de gasto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE OCTUBRE DE 2022)</small>
+###### ARTÍCULO 78.
 
-###### Artículo 34.
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que para el ejercicio del gasto público requieran efectuar adecuaciones presupuestarias, deberán tramitarlas a través del sistema electrónico que establezca la Secretaría, mismo en que se efectuará la autorización correspondiente, para lo cual, en sustitución de la firma autógrafa, se emplearán los medios de identificación electrónica que harán constar su validez y autorización, o bien, en los casos que determine la Secretaría podrán presentarlas de manera impresa.
 
-La Secretaría de Obras y Servicios y las Alcaldías, en el marco de sus respectivas competencias, instrumentarán los sistemas de depósito y recolección separada de los residuos sólidos, así como de aprovechamiento, tratamiento y disposición final, de conformidad con lo señalado en el Reglamento y el Programa de Gestión Integral de los Residuos Sólidos.
+Las adecuaciones que presenten las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades a través del sistema electrónico o de manera impresa, deberán cumplir con los requisitos que establezca el Reglamento.
 
-Los recipientes y contenedores que las autoridades dispongan en la vía pública deberán ser diferenciados para residuos urbanos en orgánicos e inorgánicos.
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-> <small>(ADICIONADO, G.O. 21 DE OCTUBRE DE 2022)</small>
+La Secretaria otorgará las autorizaciones de las adecuaciones, en un máximo de diez días naturales, a partir de que sean solicitadas en el sistema electrónico, o bien remitir de manera oficial en este mismo plazo, los motivos por los que no se procede la adecuación, conforme a la normatividad vigente.
 
-Asimismo, dichas autoridades se coordinarán para colocar conforme a las necesidades de la demarcación territorial, contenedores diferenciados para depositar las heces de animales de compañía y mascotas en parques y jardines.
+Las autorizaciones que emita la Secretaría utilizando los medios de identificación electrónica que se establezcan conforme a este precepto en sustitución de la firma autógrafa, producirán los mismos efectos que las leyes otorgan a las autorizaciones de las adecuaciones presupuestarias con firma autógrafa.
 
-###### Artículo 35.
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que utilicen el sistema electrónico aceptarán en la forma que se prevea en las disposiciones que emita la Secretaría las consecuencias y alcance probatorio de los medios de identificación electrónica y deberán conservar los archivos electrónicos que se generen en los plazos que establezcan las disposiciones legales aplicables.
 
-Los residuos de manejo especial, deberán separarse conforme a la clasificación establecida en el artículo 31 de la presente Ley, dentro de las instalaciones donde se generen, así como en las plantas de selección y tratamiento, con la finalidad de identificar aquellos que sean susceptibles de valorización.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-### CAPÍTULO II. DEL INVENTARIO DE LOS RESIDUOS SÓLIDOS Y SUS FUENTES GENERADORAS
+###### ARTÍCULO 79.
 
-###### Artículo 36.
+El Jefe de Gobierno, por conducto de la Secretaría, podrá modificar el contenido orgánico y financiero de las vertientes de gasto de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades incluidas en el Presupuesto de Egresos cuando por razones de interés social, económico o de seguridad pública, lo considere necesario.
 
-La prestación del servicio de limpia en la Ciudad de México constituye un servicio público que estará a cargo de la Administración Pública de la Ciudad de México, a través de la Secretaría de Obras y Servicios y las Alcaldías, en los términos de esta Ley y demás ordenamientos jurídicos aplicables. El servicio público de limpia comprende:
+Si como consecuencia de dicha modificación el Jefe de Gobierno, por conducto de la Secretaría, instruye a las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades a tramitar adecuaciones presupuestarias y no lo hicieren, la Secretaría aplicará dichas adecuaciones y las notificará a las mismas. En el caso de las Delegaciones, tendrán 3 días para hacerlo o manifestar lo que a su derecho corresponda. En caso contrario la Secretaría las aplicará por su cuenta.
 
-(REPUBLICADA, G.O. 24 DE OCTUBRE DE 2025)
+De igual forma actuará la Secretaría para el caso que por disposición legal se encuentren obligadas a presentar adecuaciones y no las efectúen dentro de los plazos legales establecidos.
 
-I. El barrido de vías públicas, áreas comunes y vialidades, así como la recolección de los residuos sólidos; y
+Cuando el ajuste alcance o rebase en forma acumulada el 10% del presupuesto anual asignado a cada Dependencia, Órgano Desconcentrado, Delegación y Entidad, el Jefe de Gobierno, por conducto de la Secretaría, deberá solicitar la opinión de la Asamblea para que ésta manifieste lo conducente, informando en un capítulo especial del Informe de Avance Trimestral, la conciliación de las modificaciones realizadas, explicando a detalle los fundamentos, motivos y razonamientos de tales ajustes.
 
-(REPUBLICADA, G.O. 24 DE OCTUBRE DE 2025)
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-II. La transferencia, aprovechamiento, tratamiento y disposición final de los residuos sólidos.
+###### ARTÍCULO 80.
 
-> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+Los Órganos Autónomos y de Gobierno, a través de sus respectivas unidades de administración, previa autorización de su órgano competente, podrán autorizar adecuaciones a sus respectivos presupuestos siempre que permitan un mejor cumplimiento de los objetivos de las vertientes de gasto a su cargo, siempre y cuando, emitan las normas aplicables.
 
-###### Artículo 36 Bis.
+Dichas adecuaciones, deberán ser informadas al Jefe de Gobierno, por conducto de la Secretaría, para efectos de la integración de los Informes Trimestrales y de la Cuenta Pública.
 
-En lo que refiere al servicio público de limpia a cargo de las Alcaldías, particularmente en el barrido manual y recolección domiciliaria y en el entendido de lo dispuesto en el artículo 36 de esta Ley, queda absolutamente prohibido a terceros bajo cualquier figura, agrupación, organización, razón social o a título individual y que no estén debidamente registrados y autorizados ante la Secretaría que presten, ofrezcan y ejecuten cualquier acción o actividad relacionada con el servicio público de limpia, toda vez que este, corresponde única y exclusivamente a las autoridades competentes de la Administración Pública de la Ciudad de México, a través de los lineamientos y organización que se tiene para el manejo integral de los residuos sólidos urbanos, la recolección selectiva y todas aquellas medidas y coordinación que sostienen los trabajadores de limpia con las autoridades. La contravención a este artículo será sancionada conforme a lo previsto en esta Ley, y en los ordenamientos aplicables vigentes.
+### CAPÍTULO IV. De la Disciplina Presupuestaria
 
-> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-###### Artículo 36 Ter.
+###### ARTÍCULO 81.
 
-Quedan exceptuados de la disposición contenida en el Artículo 36 Bis las empresas que hayan obtenido su registro, actualización y vigencia en el padrón autorizado por la Secretaría y que se dediquen a servicios relacionados con la recolección a grandes generadores, recolección especializada y recolección de residuos de la construcción, en cuyo caso es indispensable, comprobar mensualmente, los controles inherentes a la recolección, manejo, transferencia, tratamiento y disposición final, a efecto de validar que su operación se enmarque en las disposiciones ambientales adecuadas y establecidas para tal propósito.
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, así como los Órganos Autónomos y de Gobierno sin menoscabo de su autonomía, en el ejercicio de sus respectivos presupuestos, deberán tomar medidas para racionalizar el gasto destinado a las actividades administrativas y de apoyo, sin afectar el cumplimiento de las metas de las vertientes de gasto aprobadas en el Decreto de Presupuesto de Egresos.
 
-> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+Los recursos generados como resultado de la aplicación de dichas medidas deberán destinarse, en primer lugar a mitigar, en su caso, el déficit presupuestal de origen y, en segundo lugar, las vertientes de gasto prioritarias del ejecutor de gasto que los genere, previa autorización de la Secretaría o de la instancia competente, tratándose de los Órganos Autónomos y de Gobierno.
 
-###### Artículo 36 Quater.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
-Los grandes generadores de residuos sólidos urbanos están obligados a:
+###### ARTÍCULO 82.
 
-> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+Esta Ley establece los criterios de economía y gasto eficiente que regirán para la elaboración, control y ejercicio anual del presupuesto que realicen las Dependencias, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal y los Órganos Autónomos y de Gobierno. Se aplicará sin perjuicio de lo dispuesto por otros ordenamientos legales y la Contraloría, en el ámbito de su competencia, interpretará y vigilará su debida observancia para las Dependencias, Delegaciones, Órganos Desconcentrados y Entidades.
 
-I. Contratar los servicios de recolección con las empresas autorizadas para tal efecto, a las cuales se hace mención en el artículo 36 Ter; mismas que a su vez deberán cubrir el pago de derechos establecidos en el Código Fiscal de la Ciudad de México, si hacen uso de la infraestructura del Gobierno de la Ciudad de México;
+Los Órganos Autónomos y de Gobierno, respetando su autonomía, evaluarán y ajustarán dichos criterios con la finalidad de optimizar sus presupuestos.
 
-> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+Se establece como criterio de gasto eficiente, que toda adquisición tenga racionalidad económica, que sea necesaria, que cumpla un fin predeterminado, que no sea redundante y que su costo monetario sea inferior al beneficio que aporte.
 
-II. Cubrir el pago de derechos establecidos en el Código Fiscal de la Ciudad de México y cumplir con los lineamientos de traslado de residuos sólidos urbanos si es que lo hacen mediante sus propios medios; y
+###### ARTÍCULO 83.
 
-> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+En materia de gastos de publicidad, vehículos, viajes oficiales, bienes y servicios, se estará a lo siguiente:
 
-III. Solicitar a la Alcaldía correspondiente o a la Secretaría de Obras y Servicios, la recolección respectiva, cubriendo en todo momento el pago de derechos establecidos en el Código Fiscal de la Ciudad de México.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+I. Publicidad: el gasto de publicidad en televisión radio y prensa, que lleve a cabo la Administración Pública Centralizada, no podrá rebasar el 0.30% del total del Presupuesto de Egresos autorizado por la Asamblea en el Decreto correspondiente.
 
-Lo anterior, en términos de lo dispuesto en el artículo 243 y demás disposiciones aplicables del Código Fiscal de la Ciudad de México.
+Cada mes deberá publicarse en los sitios de Internet de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades el número de contratos y convenios que se hayan generado, debiendo mencionar el tipo de servicio de medios de difusión contratado, la temporalidad del mismo y su costo.
 
-> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+II. Vehículos: Los vehículos oficiales al servicio de servidores públicos de la Administración Pública del Distrito Federal, sólo podrán sustituirse en cualquiera de los siguientes casos:
 
-Artículo 36 Quintus. La Secretaría de Obras y Servicios respecto de su ámbito de competencia en el servicio público de limpia, particularmente en las etapas de barrido manual y mecánico, recolección de residuos sólidos urbanos y limpieza de vialidades primarias, operación de estaciones de transferencia, sistema de acarreos y operación de la disposición final, en cuanto a su quehacer cotidiano, mantenimiento y proyectos específicos, podrá ejecutarlo con recursos propios en cuanto a personal, maquinaria y equipo o a través de contratos con empresas especializadas en la materia.
+a) Si tienen, al menos, seis años de uso;
 
-> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+b) En caso de robo o pérdida total, una vez que sea reintegrado su valor por el seguro correspondiente, y
 
-Artículo 36 Sextus. Cualquier otra problemática o particularidad que se presente de manera emergente, no prevista en la ley y relacionada con el servicio público de limpia que sea necesario resolver y determinar, será facultad de las autoridades competentes y de la Comisión según sea el caso.
+c) Cuando el costo de mantenimiento acumulado sea igual o mayor a su valor de enajenación presente.
 
-###### Artículo 37.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
-En la prestación del servicio público de limpia se deberán cumplir las disposiciones de esta Ley, su reglamento, los programas correspondientes y demás disposiciones jurídicas aplicables, haciéndolas del conocimiento de su personal de servicio y a quienes se lo presten. Asimismo, se deberán establecer medidas preventivas para atender emergencias en caso de riesgos de acuerdo con las disposiciones jurídicas aplicables.
+Las unidades nuevas que se adquieran no podrán costar más de 110 veces el salario mínimo mensual vigente en el Distrito Federal, y por sus características técnicas y mecánicas deberán estar en condiciones de obtener el holograma doble cero o mejor en su primer verificación de emisiones contaminantes.
 
-###### Artículo 38.
+Solo podrán exceder el costo señalado en el párrafo anterior, los vehículos blindados que se adquieran, de acuerdo con lo establecido en el penúltimo párrafo del artículo 86 de la presente Ley.
 
-Todo generador de los residuos sólidos tiene la obligación de entregarlos al servicio de limpia.
+Los vehículos oficiales al servicio de servidores públicos de la Administración Pública del Distrito Federal deberán de sustituirse o darse de baja cuando:
 
-El servicio de recolección domiciliaria en casa habitación, unidades habitacionales y demás edificaciones destinadas a vivienda, así como los establecimientos mercantiles considerados como contribuyentes de ingresos menores, se realizará de manera gratuita.
+a) Tengan doce años de uso, o
 
-> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+b) Cuando el costo de mantenimiento acumulado sea igual o mayor al doble de su valor de adquisición, actualizado por inflación.
 
-Los establecimientos mercantiles y de servicios distintos a los establecidos en el párrafo anterior, empresas, fábricas, tianguis, mercados sobre ruedas autorizados, mercados públicos, centros de abasto, concentraciones comerciales, industrias y similares, así como las dependencias y entidades federales, que generen residuos sólidos en alto volumen, deberán pagar las tarifas correspondientes por los servicios de recolección y recepción de residuos sólidos que establece el Código Fiscal de la Ciudad de México.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
-###### Artículo 39.
+III. Viajes oficiales: con excepción del Jefe de Gobierno, sólo se podrán autorizar hasta dos viajes oficiales anuales al extranjero por Dependencia, Órgano Desconcentrado o Entidad.
 
-Los camiones recolectores de los residuos sólidos, así como los destinados para la transferencia de dichos residuos a las plantas de selección y tratamiento o a los sitios de disposición final, deberán disponer de contenedores seleccionados conforme a la separación selectiva que esta Ley establece.
+En el caso de los Jefes Delegacionales queda prohibido realizar viajes al extranjero durante su gestión.
 
-###### Artículo 40.
+En todos los casos, los funcionarios que efectúen el viaje oficial deberán remitir un informe del propósito de su viaje, los gastos efectuados y de los resultados obtenidos a la Asamblea dentro del plazo de 15 días hábiles, una vez concluido el mismo.
 
-Las delegaciones dispondrán contenedores para el depósito de los residuos sólidos de manera separada conforme a lo establecido en la presente Ley, en aquellos sitios que por su difícil accesibilidad o por su demanda así lo requiera, procediendo a su recolección.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
-Ninguna persona podrá disponer de los residuos sólidos depositados en dichos contenedores y quien lo realice será sancionado y remitido a la autoridad competente.
+IV. Bienes y Servicios: Las Dependencias, Delegaciones, Órganos Desconcentrados y Entidades deberán sujetar el gasto de los servicios de telefonía y fotocopiado, energía eléctrica, combustibles, arrendamientos, viáticos, honorarios, alimentación, mobiliario, remodelación de oficinas, equipo de telecomunicaciones, bienes informáticos, pasajes, congresos, convenciones, exposiciones, seminarios, estudios e investigaciones, a lo estrictamente indispensable.
 
-Asimismo, los generadores de los residuos sólidos a los que se refiere este artículo tienen la obligación de trasladar dichos residuos hasta el sitio que se determine para la prestación del servicio de recolección. Si los usuarios no cumplen con esta obligación serán infraccionados en los términos de la presente Ley.
+Todo servidor público de quien se determine que utiliza los servicios arriba enlistados para uso no vinculado a su cargo en cantidad excesiva, deberá reembolsar el doble de su costo, sin menoscabo de las responsabilidades del orden civil o penal que pudieran derivar de la violación del presente ordenamiento.
 
-###### Artículo 41.
+La Contraloría establecerá las medidas necesarias para determinar que un servidor público utiliza los servicios arriba enlistados para uso no vinculado a su cargo. La Secretaría en coordinación con la Oficialía, establecerá los valores unitarios que se consideran un uso excesivo y hará públicos los costos de referencia para el reembolso correspondiente.
 
-Las delegaciones deberán colocar en las vías y áreas públicas los contenedores para el depósito separado de residuos sólidos producidos por los transeúntes o usuarios de los sitios citados, en número y capacidad acordes a las necesidades pertinentes. Asimismo, se obliga a las delegaciones a dar mantenimiento a los contenedores y proceder a la recolección de dichos residuos en forma constante y permanente, conforme lo que establezca el Reglamento y el Programa de Prestación del Servicio público de limpia correspondiente.
+Los bienes informáticos no podrán tener más de 5 años de uso. En su caso, se adoptarán soluciones de software abierto y/o software libre siempre que sea posible.
 
-> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+La adquisición de bienes y servicios de uso generalizado podrá llevarse a cabo de manera consolidada, con el objeto de obtener las mejores condiciones en cuanto a precio, calidad y oportunidad, en los términos previstos por esta Ley y demás disposiciones aplicables.
 
-###### Artículo 42.
+Ninguna adquisición podrá autorizarse si el precio propuesto es superior a 1.3 veces el precio promedio del mercado de la misma, a pesar de que sea la propuesta ganadora de una licitación.
 
-Los contenedores de residuos urbanos deberán mantenerse dentro del predio de la persona que lo habita o del establecimiento de que se trate y sólo se sacarán a la vía pública o áreas comunes el tiempo necesario para su recolección el día y hora señalados por el servicio público de limpia. Dichos contenedores deberán satisfacer las necesidades de servicio del inmueble, y cumplir con las condiciones de seguridad e higiene, de conformidad con la Ley de Salud de la Ciudad de México y demás ordenamientos aplicables.
+Lo dispuesto en este Capítulo no será aplicable a las adquisiciones financiadas, total o parcialmente con cargo a recursos federales, quedando sujetas a la normatividad federal aplicable, siempre y cuando dicha normatividad prevea las adquisiciones reguladas por esta Ley.
 
-> <small>(REFORMADO, G.O. 3 DE ABRIL DE 2023)</small>
+Los servidores públicos que no cumplan con lo establecido en este artículo incurrirán en falta grave.
 
-###### Artículo 42 Bis.
+### CAPÍTULO V. Pago de Remuneraciones y Servicios Personales
 
-Para su operación en la Ciudad de México, los prestadores de servicio para el manejo de residuos deberán de contar con la autorización correspondiente por parte de la Secretaría. La contravención a lo dispuesto en el presente artículo será motivo de las medidas de seguridad y/o sanciones que resulten aplicables.
+###### ARTÍCULO 84.
 
-> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+El pago de remuneraciones al personal de la Administración Pública Centralizada y Desconcentrada se efectuará por conducto de las Dependencias, Órganos Desconcentrados y Delegaciones que la integran, de conformidad con lo previsto en esta Ley y las normas jurídicas aplicables.
 
-###### Artículo 42 Ter.
+###### ARTÍCULO 85.
 
-Los prestadores de servicio de recolección privada de otros Estados que operen en la Ciudad de México, deberán registrarse ante la Secretaría y deberán presentar su plan de manejo en los formatos que esta autoridad determine.
+La Oficialía será responsable de que se lleve un registro del personal al servicio de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que realicen gasto público y para tal efecto estará facultada para dictar las reglas correspondientes.
 
-## TÍTULO TERCERO. DE LA PREVENCIÓN Y MINIMIZACIÓN DE LA GENERACIÓN DE LOS RESIDUOS SÓLIDOS
+Asimismo, las Dependencias, Órganos Desconcentrados y Delegaciones deberán mantener actualizados sus registros internos de plazas, empleos, los compromisos y pagos respectivos.
 
-### CAPÍTULO III. DE LA CLASIFICACIÓN DE LOS RESIDUOS SÓLIDOS
+###### ARTÍCULO 86.
 
-###### Artículo 43.
+El pago de remuneraciones al personal se hará conforme al puesto o categoría que se les asigne, de conformidad con los tabuladores autorizados por la Oficialía.
 
-La Secretaría de Obras y Servicios diseñará el sistema de transferencia, selección y tratamiento de los residuos sólidos, procurando la construcción y operación en número suficiente en cada delegación conforme a la cantidad de residuos que se generan en cada demarcación territorial, contando con el personal suficiente para su manejo.
+El sueldo neto que reciba el Jefe de Gobierno no podrá ser mayor a 54 veces al salario mínimo general vigente en esta entidad federativa. Los Secretarios; Jefes Delegacionales y los Subsecretarios; los Directores Generales u homólogos, percibirán en el desempeño de su encargo, una remuneración no mayor a 53, 51 y 49 veces el salario mínimo mensual vigente en el Distrito Federal, respectivamente.
 
-###### Artículo 44.
+En el Proyecto de Presupuesto de Egresos se deberá presentar el tabulador de sueldos y salarios de mandos medios y superiores de la Administración Pública u homólogos.
 
-El ingreso de personas o vehículos a las estaciones de transferencia y plantas de selección y tratamiento de los residuos sólidos tienen acceso restringido conforme a lo que el Reglamento y las normas ambientales establezcan y no podrán convertirse en centros de almacenamiento permanente.
+Ningún servidor público de la Administración Pública, de sus Dependencias, Delegaciones, Órganos Desconcentrados y Entidades, podrá percibir remuneraciones mayores a las señaladas en esta Ley.
 
-###### Artículo 45.
+No se autorizarán bonos o percepciones extraordinarias, gastos de representación ni la contratación de seguros de gastos médicos privados para servidor público alguno, del Gobierno del Distrito Federal.
 
-Para la operación y mantenimiento de las estaciones de transferencia y plantas de selección y tratamiento, así como centros de composteo, se deberá contar con:
+Solamente contarán con Secretario Particular el Jefe de Gobierno, los Secretarios, Jefes Delegaciones y los Subsecretarios o puestos homólogos. Queda prohibida la creación de plazas de Secretario Privado o equivalente.
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+Sólo habrá, como máximo, cinco asesores por Secretaría.
 
-I. Personal previamente capacitado para reconocer la peligrosidad y riesgo de los residuos que manejan y darles un manejo integral, seguro y ambientalmente adecuado;
+Únicamente podrán disponer de escolta, en caso de ser necesario y por el plazo que se determine, los servidores públicos de la Secretaría de Seguridad Pública y de la Procuraduría General de Justicia del Distrito Federal, así como aquellos servidores públicos que la requieran en atención a sus funciones y/o temas concretos que atiendan, y sólo por el plazo que se determine, previa autorización del Jefe de Gobierno.
 
-II. Programa de preparación y respuesta a emergencias y contingencias que involucren a los residuos sólidos urbanos;
+Los servidores públicos de la Secretaría de Seguridad Pública y de la Procuraduría General de Justicia del Distrito Federal, y aquellos que en atención a sus funciones y/o temas concretos que atiendan, y, si lo requieren, podrán utilizar automóviles blindados, previa autorización del Jefe de Gobierno.
 
-III. Bitácora en la cual se registren los residuos que se reciben, indicando tipo, peso o volumen, destino y fecha de entrada y salida de los mismos;
+Los servidores públicos que no cumplan con lo establecido en este artículo incurrirán en falta grave.
 
-IV. Area para segregar y almacenar temporalmente los residuos, por tiempos acordes con lo que establezcan las disposiciones respectivas; y
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
-V. Los demás requisitos que determine el Reglamento y normas aplicables.
+ARTÍCULO 86 BIS.- Los Órganos de Gobierno y Autónomos ajustarán sus criterios de economía y gasto eficiente con el fin de que el sueldo de los servidores y funcionarios públicos no sea mayor al salario del Jefe de Gobierno del Distrito Federal que es cincuenta y cuatro veces el salario mínimo general vigente en el Distrito Federal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE OCTUBRE DE 2025)</small>
+###### ARTÍCULO 87.
 
-###### Artículo 46.
+No procederá hacer pago alguno por concepto de servicios personales a servidores públicos de mandos medios y superiores de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades cuyas estructuras orgánicas básicas o las modificaciones a las mismas, no hubieran sido aprobadas y dictaminadas por la Contraloría.
 
-Las plantas de selección y tratamiento de los residuos sólidos que pertenezcan a la Ciudad de México, deberán contar con la infraestructura tecnológica de vanguardia necesaria, para la realización del trabajo especializado que permita generar energía renovable y limpia.
+###### ARTÍCULO 88.
 
-> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+La Oficialía estará facultada para dictar reglas de carácter general en las que se establezca:
 
-Asimismo, deberán contar con básculas y sistemas para llevar el control de los residuos depositados, así como con un sistema adecuado de control de ruidos, olores y emisión de partículas que garantice el adecuado manejo integral de los residuos sólidos y minimicen los impactos al ambiente y a la salud humana.
+I. Los casos en que proceda aceptar la compatibilidad para el desempeño de dos o más empleos o comisiones con cargo a los presupuestos de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, sin perjuicio del estricto cumplimiento de las tareas, horarios y jornadas de trabajo que correspondan. Los interesados podrán optar por el empleo o comisión que les convenga cuando se dictamine que sus empleos no son compatibles;
 
-###### Artículo 47.
+II. Los requisitos para efectuar el pago de las remuneraciones al personal, y
 
-El personal que labore en las estaciones de transferencia y plantas de selección y tratamiento deberá estar debidamente acreditado por la Secretaría de Obras y Servicios.
+III. Los casos en que proceda la creación de nuevas plazas. Las reglas a que se refiere esta fracción deberá expedirlas conjuntamente la Contraloría y la Secretaría en el ámbito de sus competencias.
 
-###### Artículo 48.
+###### ARTÍCULO 89.
 
-Las instalaciones de tratamiento térmico autorizadas deberán cumplir con lo establecido por la legislación vigente, sus reglamentos, las normas oficiales mexicanas y demás ordenamientos jurídicos aplicables.
+Cuando algún servidor público perteneciente a las Dependencias, Órganos Desconcentrados y Delegaciones, fallezca y tuviere cuando menos una antigüedad en el servicio de seis meses, quien se haga cargo de los gastos de inhumación, percibirá hasta el importe de cuatro meses de los sueldos y salarios integrales, así como haberes que estuviere percibiendo en esa fecha.
 
-Los administradores o propietarios de dichas plantas deberán realizar reportes mensuales y enviar dicha información a la autoridad competente para su evaluación y control.
+Con excepción del personal docente, las pagas de defunción sólo se cubrirán en una sola plaza, aún cuando la persona fallecida hubiese ocupado dos o más de éstas, en cuyo caso se cubrirán con base en la que tenga una mayor remuneración.
 
-> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+Para que se tenga derecho a las pagas de defunción es indispensable que la persona fallecida no se hubiere encontrado disfrutando de licencia sin goce de sueldo superior a tres meses, excepto cuando se trate de licencia por enfermedad.
 
-La Secretaría emitirá norma ambiental para la Ciudad de México en los términos establecidos en el artículo 37 de la Ley Ambiental de la Ciudad de México y demás aplicables, que establezca los requisitos o especificaciones, condiciones, parámetros y límites permisibles en el desarrollo de una actividad humana relacionada con el tratamiento térmico de los residuos sólidos y que sus emisiones puedan causar daños al ambiente y la salud humana, quedando restringida la emisión de dioxinas y furanos a la atmósfera que rebasen los límites establecidos en la normatividad federal y de la Ciudad de México aplicable, derivadas de tratamientos térmicos e incineradores.
+###### ARTÍCULO 90.
 
-Cualquier persona puede denunciar ante la autoridad correspondiente cuando se trate de violaciones a las disposiciones del presente artículo en los términos del Capítulo IV del Título Séptimo de esta Ley.
+Los créditos a cargo del Distrito Federal se extinguen por prescripción en el término de tres años contados a partir de la fecha en que el acreedor pueda legalmente exigir su pago, salvo que otras leyes aplicables establezcan un plazo diferente, en cuyo caso se estará a lo que dichas leyes dispongan.
 
-###### Artículo 49.
+Transcurrido el término a que se refiere el párrafo anterior, la autoridad competente hará la declaratoria de prescripción de los créditos respectivos, conforme a los antecedentes que para tal efecto remitan las dependencias y órganos desconcentrados.
 
-Los residuos sólidos que no puedan ser tratados por medio de los procesos establecidos por esta Ley, deberán ser enviados a los sitios de disposición final.
+El término para que se consume la prescripción a que refiere el párrafo primero se interrumpirá por gestiones de cobro escritas de parte de quien tenga derecho de exigir el pago.
 
-###### Artículo 50.
+La acción para exigir el pago de las remuneraciones del personal dependiente del Gobierno del Distrito Federal, que a continuación se indican, prescribirá en un año contado a partir de la fecha en que sean devengadas o se tenga derecho a percibirlas:
 
-La selección de los sitios para disposición final, así como la construcción y operación de las instalaciones deberá sujetarse a lo estipulado en las normas oficiales mexicanas y demás ordenamientos jurídicos aplicables.
+I. Los sueldos, salarios, honorarios, emolumentos, sobresueldos, compensaciones y demás remuneraciones del personal, y
 
-> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2010)</small>
+II. Las recompensas a cargo del erario del Distrito Federal.
 
-###### Artículo 51.
+La prescripción sólo se interrumpe por gestión de cobro hecha por escrito.
 
-Los sitios de disposición final tendrán un acceso restringido a materiales reutilizables o reciclables y deberá recibir un menor porcentaje de residuos orgánicos. Además, emplearán mecanismos para instalar sistemas de extracción de biogás y tratamiento de lixiviados para su recolección.
+###### ARTÍCULO 91.
 
-> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+Los movimientos que realicen las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades a sus estructuras orgánicas ocupacionales y salariales, así como a las plantillas de personal, deberán realizarse mediante adecuaciones presupuestarias compensadas, las que en ningún caso incrementarán el presupuesto regularizable para servicios personales del ejercicio fiscal inmediato siguiente, salvo en el caso de la creación de plazas que autorice la Oficialía, la Contraloría y la Secretaría en el ámbito de sus respectivas atribuciones.
 
-Los sitios de disposición final de los residuos sólidos que pertenezcan a la Ciudad de México, deberán contar con infraestructura tecnológica de vanguardia necesaria, para la realización del trabajo especializado que permita generar energía renovable y limpia.
+###### ARTÍCULO 92.
 
-###### Artículo 52.
+Las remuneraciones adicionales por jornadas u horas extraordinarias, primas dominicales y guardias, no excederán a los límites legales, a las estrictamente indispensables y deberán cubrirse con cargo al presupuesto aprobado por la Asamblea, salvo los casos extraordinarios que autorice previamente la Oficialía en el ámbito de su competencia y posteriormente la Secretaría.
 
-Queda prohibida la selección o pepena de los residuos sólidos en los sitios destinados para relleno sanitario.
+Tratándose de remuneraciones adicionales por jornadas y por horas extraordinarias y otras prestaciones del personal que labora en las Entidades que se rijan por contratos colectivos de trabajo, los pagos se efectuarán de acuerdo con las estipulaciones contractuales.
 
-###### Artículo 53.
+Las remuneraciones adicionales referidas, así como otras prestaciones se regularán por las disposiciones que establezcan la Oficialía y la Secretaría y en el caso de las Entidades además por las disposiciones que emita su órgano de gobierno.
 
-La Secretaría de Obras y Servicios deberá establecer programas de capacitación periódica a los trabajadores que laboren en los sitios de disposición final.
+Las contrataciones de trabajadores eventuales se sujetarán a los lineamientos que emita la Oficialía y al presupuesto aprobado por la Asamblea, salvo los casos extraordinarios que autorice previamente la Oficialía y posteriormente la Secretaría, o cuando se cubran con recursos adicionales de aplicación automática, en éste último caso, se deberá contar con la autorización de la Oficialía y en el caso de las Delegaciones únicamente del Jefe Delegacional.
 
-El personal que labore en los sitios de disposición final deberá estar debidamente acreditado por la Secretaría de Obras y Servicios.
+En ningún supuesto se deberá otorgar remuneración adicional a los miembros que participen en los Órganos de Gobierno o de vigilancia, comités o subcomités instalados, al interior de la Administración Pública.
 
-###### Artículo 54.
+###### ARTÍCULO 93.
 
-Los rellenos sanitarios que hayan cumplido su vida útil se destinarán únicamente como parques, jardines, centros de educación ambiental o sitios para el fomento de la recreación y la cultura.
+Las plazas de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, que con motivo de la aplicación de la Norma que regula el apoyo económico para los trabajadores activos de base que causen baja por pensión del servicio durante el presente ejercicio fiscal, no podrán ser ocupadas.
 
-###### Artículo 55.
+###### ARTÍCULO 94.
 
-Los productores y comercializadores cuyos productos y servicios generen residuos sólidos susceptibles de valorización mediante procesos de reutilización o reciclaje realizarán planes de manejo que establezcan las acciones para minimizar la generación de sus residuos sólidos, su manejo responsable y para orientar a los consumidores sobre las oportunidades y beneficios de dicha valorización para su aprovechamiento.
+No se permitirán traspasos de recursos que en cualquier forma afecten las asignaciones del capítulo de servicios personales aprobadas por la Asamblea, excepto los casos que autorice la Secretaría, de conformidad con la normatividad aplicable. Asimismo, cuando se trate de readscripción de plazas, se deberá efectuar la transferencia de asignaciones presupuestales del capítulo de servicios personales a la Delegación o a la Dependencia a la que se adscriban.
 
-###### Artículo 56.
+###### ARTÍCULO 95.
 
-La Secretaría de Obras y Servicios, en coordinación con la Secretaría y la Secretaría de Desarrollo Económico, en cumplimiento a lo señalado en el programa de Gestión Integral de los Residuos Sólidos, instrumentarán programas para la utilización de materiales o subproductos provenientes de los residuos sólidos a fin de promover mercados para su aprovechamiento, vinculando al sector privado, organizaciones sociales y otros agentes económicos.
+Procederá la transferencia de asignaciones presupuestales a otras Delegaciones o al sector central, tratándose de readscripciones de plazas de base y cuando la propia Delegación solicite transferir sus recursos.
 
-> <small>(REFORMADO, G.O. 26 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-###### Artículo 57.
+### CAPÍTULO VI. De los Subsidios, Donativos, Apoyos y Ayudas
 
-Las dependencias y entidades del Gobierno de la Ciudad de México, las Alcaldías, el Congreso de la Ciudad de México, el Tribunal Superior de Justicia de la Ciudad de México y demás órganos autónomos, establecerán en sus oficinas y dependencias sistemas de manejo ambiental, los cuales tendrán por objeto prevenir, minimizar y evitar la generación de residuos y aprovechar su valor.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
-Para tal efecto, se promoverá la adquisición y uso de objetos desechables elaborados a partir de materia orgánica, biodegradable o de bajo impacto ecológico.
+###### ARTÍCULO 96.
 
-###### Artículo 58.
+Los subsidios que sean otorgados por el Distrito Federal con cargo al Presupuesto de Egresos, se sustentarán en resoluciones administrativas dictadas por autoridad competente o en acuerdos de carácter general que se publicarán en la Gaceta.
 
-Las autoridades fomentarán programas para que los establecimientos de mayoristas, tiendas de departamentos y centros comerciales se cuente con espacios y servicios destinados a la recepción de materiales y subproductos de los residuos sólidos valorizables.
+En esos acuerdos se establecerán facilidades administrativas para el cumplimiento de obligaciones fiscales.
 
-###### Artículo 59.
+###### ARTÍCULO 97.
 
-Todo establecimiento mercantil, industrial y de servicios que se dedique a la reutilización o reciclaje de los residuos sólidos deberán:
+Los subsidios, donativos, apoyos y ayudas deberán sujetarse a criterios de solidaridad social, equidad de género, transparencia, accesibilidad, objetividad, corresponsabilidad y temporalidad.
 
-I. Obtener autorización de las autoridades competentes;
+A fin de asegurar la transparencia, eficacia, eficiencia y no discrecionalidad en el uso y otorgamiento de subsidios, apoyos y ayudas a la población, se deberán sustentar en reglas de operación, las cuales deberán:
 
-II. Ubicarse en lugares que reúnan los criterios que establezca la normatividad aplicable;
+I. Identificar con claridad, transparencia y objetividad a la población objetivo, por grupo, género y Delegación;
 
-III. Instrumentar un plan de manejo aprobado por la Secretaría para la operación segura y ambientalmente adecuada de los residuos sólidos que valorice;
+II. Señalar el calendario de gasto;
 
-IV. Contar con programas para prevenir y responder a contingencias o emergencias ambientales y accidentes;
+III. Señalar los montos por beneficiario o el porcentaje del costo del proyecto o acción a subsidiar o apoyar;
 
-V. Contar con personal capacitado y continuamente actualizado; y
+IV. Señalar con claridad los requisitos para el acceso a los beneficios del programa, así como los procedimientos para su verificación deberán ser objetivos, transparentes, no discrecionales y equitativos;
 
-VI. Contar con garantías financieras para asegurar que al cierre de las operaciones en sus instalaciones, éstas queden libres de residuos y no presenten niveles de contaminación que puedan representar un riesgo para la salud humana y el ambiente.
+V. Señalar la temporalidad, así como las circunstancias bajo las cuales se procederá a la suspensión de los beneficios;
 
-###### Artículo 60.
+VI. Incorporar, en su caso, acciones de corresponsabilidad por parte de los beneficiarios, con el propósito de hacer patente la relevancia del apoyo y la responsabilidad social de su otorgamiento y uso;
 
-Los residuos sólidos que hayan sido seleccionados y remitidos a los mercados de valorización y que por sus características no puedan ser procesados, deberán enviarse para su disposición final.
+VII. Incorporar el enfoque de equidad de género;
 
-###### Artículo 61.
+VIII. Procurar que el procedimiento para el acceso y cumplimiento de los requisitos por parte de la población beneficiaria, no le representen a ésta una elevada dificultad y costo en su cumplimiento, cuidando en todo momento, la objetividad, confiabilidad y veracidad de la información;
 
-La Secretaria de Obras y Servicios diseñará, construirá, operará y mantendrá centros de composteo o de procesamiento de residuos urbanos orgánicos, de conformidad con lo que establece el Programa de Gestión Integral de los Residuos Sólidos y el Programa de Prestación del Servicio de Limpia correspondiente.
+IX. Procurar que el procedimiento y mecanismo para el otorgamiento de los beneficios sea el medio más eficaz y eficiente y, de ser posible, permita que otras acciones puedan ser canalizadas a través de éste;
 
-Las delegaciones podrán encargarse de las actividades señaladas en el párrafo anterior, procurando que las (sic) composta producida se utilice, preferentemente, en parques, jardines, áreas verdes, áreas de valor ambiental, áreas naturales protegidas y otras que requieran ser regeneradas.
+X. Garantizar que los recursos se canalicen exclusivamente a la población objetivo;
 
-### CAPÍTULO IV. DE LA SEPARACIÓN DE LOS RESIDUOS SÓLIDOS
+XI. Especificar los indicadores que permitan la evaluación del cumplimiento de sus objetivos, su desempeño e impacto en la población beneficiaria, así como el costo administrativo de su operación, y
 
-> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+XII. Obligarse a publicar el padrón de beneficiarios. En el caso de que no cuenten con dicho padrón, deberán manejarse mediante convocatoria abierta, la cual deberá publicarse en la Gaceta y en periódicos de amplia circulación y en las oficinas del gobierno y en ningún caso se podrán etiquetar o predeterminar.
 
-###### Artículo 62.
+Podrán otorgarse subsidios, apoyos o ayudas a personas físicas o morales individuales, siempre que medie autorización previa del titular de las Dependencias, Órganos Desconcentrados, Delegaciones o Entidades, en la que se justifique la procedencia del otorgamiento.
 
-La Secretaría de Desarrollo Económico, en coordinación con la Secretaría de Obras y Servicios y con las delegaciones que tengan autorización de operar centros de composteo, promoverá el fomento de mercados para la comercialización del material que resulte de los composteros.
+Los titulares de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que ejerzan recursos por los conceptos a que se refiere este artículo, deberán crear un padrón único de beneficiarios de los programas sociales cuya ejecución esté a su cargo.
 
-###### Artículo 63.
+Se exceptúa de lo anterior los subsidios, apoyos o ayudas que se otorguen excepcionalmente, a personas físicas o morales siempre que medie autorización previa del titular de las Dependencias, Órganos Desconcentrados, Delegaciones o Entidades en las que se justifique la procedencia del otorgamiento.
 
-Los controles sobre las características apropiadas de los materiales para la producción de composta o criterios para cada tipo de composta, se fijarán en el reglamento, debiendo identificar las particularidades de los tipos de que por sus características pueda ser comercializada o donada.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-La composta que no pueda ser aprovechada deberá ser enviada a los rellenos sanitarios para su disposición final.
+###### ARTÍCULO 98.
 
-> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+El Jefe de Gobierno, previa autorización de la Asamblea, podrá autorizar subsidios con cargo al Presupuesto de Egresos. Dichos subsidios sólo se aprobarán para la consecución de los objetivos de las vertientes de gasto contenidos en el presupuesto señalado o bien, cuando se considere de beneficio social y para el pago de las contribuciones establecidas en los capítulos I, II, III, IV, V, VI, VIII y IX en sus secciones Primera, Tercera, Cuarta, Quinta y Octava, del Título Tercero del Libro Primero del Código.
 
-###### Artículo 64.
+La autorización a que se refiere el párrafo anterior y el acuerdo de carácter general a que se refiere el artículo 96, no será necesaria en caso de resoluciones individuales.
 
-Toda persona que lleve a cabo procesos de tratamiento de residuos urbanos orgánicos para composta debe cumplir con las disposiciones que establecen las normas oficiales mexicanas y las normas ambientales para la Ciudad de México en esta materia.
+###### ARTÍCULO 99.
 
-###### Artículo 65.
+En la resolución que otorgue el subsidio se determinará la forma en que deberá aplicarse el mismo por parte del subsidiado, quien proporcionará a la Secretaría la información que se les solicite sobre la aplicación que haga de los mismos.
 
-Es responsabilidad de toda persona que genere y maneje residuos sólidos, hacerlo de manera que no implique daños a la salud humana ni al ambiente.
+###### ARTÍCULO 100.
 
-En caso de que la generación, manejo y disposición final de los residuos sólidos produzca contaminación del medio ambiente, independientemente de las sanciones penales o administrativas que procedan, quien preste el servicio quedará sujeto a las disposiciones de la Ley de Responsabilidad Ambiental de la Ciudad de México.
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades podrán otorgar subsidios, donativos, apoyos y/o ayudas, a los fideicomisos, siempre y cuando cumplan con lo que a continuación se señala y lo dispuesto en su Reglamento.
 
-###### Artículo 66.
+I. Los subsidios, donativos, apoyos y ayudas en numerario deberán otorgarse en los términos de esta Ley y su Reglamento;
 
-Las autoridades competentes podrán aplicar las siguientes medidas de seguridad cuando las operaciones y procesos empleados durante la recolección, transporte, transferencia, tratamiento, o disposición final representen riesgos significativos para la salud humana o el ambiente:
+II. Los recursos se identificarán específicamente en una subcuenta que deberá reportarse en el informe trimestral, conforme lo establezca el Reglamento, identificando los ingresos, incluyendo rendimientos financieros del periodo, egresos, así como su destino y el saldo;
 
-I. Asegurar los materiales, residuos o sustancias contaminantes, vehículos, utensilios e instrumentos directamente relacionados con la conducta a que da lugar la imposición de la medida de seguridad, según lo previsto en el párrafo primero de este artículo;
+III. En el caso de fideicomisos constituidos por particulares, la suma de los recursos públicos otorgados no podrá representar más del 50% del saldo en su patrimonio neto, salvo en el caso de que se cuente con autorización de los titulares para incrementar ese porcentaje, informando de ello a la Secretaría y a la Contraloría, y
 
-II. Asegurar, aislar, suspender o retirar temporalmente en forma parcial o total, según corresponda, los bienes, equipos y actividades que generen riesgo significativo o daño;
+IV. Si existe compromiso recíproco de los particulares y del Distrito Federal para otorgar recursos al patrimonio y aquéllos incumplen, el Gobierno del Distrito Federal, por conducto de la Dependencia, Órgano Desconcentrando, Delegación y Entidad con cargo a cuyo presupuesto se hayan otorgado los recursos, suspenderá las aportaciones subsecuentes.
 
-III. Clausurar temporal, parcial o totalmente las instalaciones en que se manejen o se preste el servicio correspondiente que den lugar a los supuestos a que se refiere el primer párrafo de este artículo; y
+Los recursos aportados mantienen su naturaleza jurídica de recursos públicos, para efectos de su fiscalización y transparencia.
 
-IV. Suspender las actividades, en tanto no se mitiguen los daños causados.
+###### ARTÍCULO 101.
 
-> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades podrán otorgar apoyos, donativos y ayudas para beneficio social o interés público o general, a personas físicas o morales sin fines de carácter político, siempre que cuenten con suficiencia presupuestal y se cumplan con los requisitos que señale el Reglamento.
 
-V. Imponer el monto de la garantía en lo referente a los residuos de la construcción, su manejo se apegue a lo establecido en la Ley Ambiental, la presente Ley y los ordenamientos aplicables.
+Los apoyos, ayudas y los donativos deberán ser autorizados expresamente por el titular de la Dependencia, Delegación y Órgano Desconcentrado. Tratándose de Entidades la autorización la otorgará su órgano de gobierno. La facultad para otorgar la autorización será indelegable.
 
-La autoridad correspondiente podrá solicitar el auxilio de la fuerza pública para ejecutar cualquiera de las acciones anteriores.
+Las Dependencias, Delegaciones, Órganos Desconcentrados y Entidades deberán informar a la Contraloría, en el ámbito de sus respectivas competencias, el monto global y los beneficios de las ayudas, apoyos y donativos otorgados.
 
-> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
-Las medidas de seguridad previstas en este capítulo, se sujetarán a lo dispuesto en la Ley del Procedimiento Administrativo de la Ciudad de México y demás ordenamientos aplicables.
+###### ARTÍCULO 102.
 
-###### Artículo 67.
+Con el propósito de elevar el impacto de los recursos, evitar duplicidades en las acciones y en el otorgamiento de beneficios, las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades deberán someter a la aprobación del Comité de Planeación del Desarrollo, previsto en la Ley de Planeación del Desarrollo del Distrito Federal, la creación y operación de programas de desarrollo social que otorguen subsidios, apoyos y ayudas a la población del Distrito Federal. De igual forma, deberán someter a su aprobación cualquier modificación en el alcance o modalidades de sus programas, cambios en la población objetivo, o cualquier otra acción que implique variaciones en los criterios de selección de beneficiarios, montos o porcentajes de subsidios, apoyos y ayudas.
 
-Los infractores de la presente Ley, o quienes induzcan directa o indirectamente a alguien a infringirla, serán sancionados con arreglo a lo dispuesto en este Capítulo, de acuerdo a lo siguiente:
+En caso de creación o modificación de los programas sociales de las Delegaciones, a que se refiere el párrafo anterior, el Comité de Planeación del Desarrollo, comunicará a sus titulares, su resolución en un plazo de 10 días hábiles, para que éstos manifiesten lo conducente dentro de los cinco días hábiles siguientes a la fecha de notificación. En caso, de que durante dicho plazo el titular de la Delegación respectiva no se manifieste, quedará firme la resolución emitida por el Comité de Planeación del Desarrollo.
 
-I. Cuando los daños causados al ambiente se produzcan por actividades debidas a diferentes personas, la autoridad competente imputará individualmente esta responsabilidad y sus efectos económicos;
+Las Delegaciones proporcionarán al Comité de Planeación del Desarrollo, a más tardar el 31 de enero, la relación de programas o acciones que tengan tales propósitos, a fin de que dicho Comité emita opinión sobre la posible duplicidad de esfuerzos y lo haga del conocimiento de las Delegaciones como de las Dependencias, Órganos Desconcentrados y Entidades, a más tardar en el mes de febrero.
 
-II. Cuando el generador o poseedor de los residuos, o prestador del servicio, los entregue a persona física o jurídica distinta de las señaladas en esta Ley; o
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, a través de la Secretaría, deberán comunicar a la Asamblea dentro del informe a que se refiere el artículo 135 de esta Ley, de los avances en la operación de los programas, la población beneficiaria, el monto de los recursos otorgados, la distribución por Delegación y colonia.
 
-III. Cuando sean varios los responsables y no sea posible determinar el grado de participación de cada uno en la realización de la infracción, solidariamente compartirán la responsabilidad.
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades deberán elaborar las reglas de operación de sus programas de conformidad con los lineamientos que emita el Consejo de Evaluación, mismos que deberán apegarse a lo dispuesto en la Ley de Desarrollo Social para el Distrito Federal y publicarse en el Órgano de difusión local.
 
-La imposición de cualquier sanción prevista por la presente Ley no excluye la responsabilidad civil o penal y la eventual indemnización o reparación de daños y perjuicios que puedan recaer sobre el sancionado.
+En el caso de que el Comité de Planeación del Desarrollo no apruebe la creación y operación de programas de desarrollo social las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, deberán reasignar el gasto conforme a las disposiciones aplicables.
 
-###### Artículo 68.
+La Contraloría en el ámbito de su competencia verificará que el gasto a que se refiere este artículo guarde congruencia con lo dispuesto en esta Ley y en el Presupuesto de Egresos para el Distrito Federal.
 
-Las sanciones administrativas podrán ser:
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-I. Amonestación;
+ARTÍCULO 102 BIS.- En un anexo del Presupuesto de Egresos se deberán señalar los programas de beneficio social, a través de los cuales se otorguen subsidios, especificando las respectivas reglas de operación con el objeto de cumplir lo previsto en el tercer párrafo del articulo 1 de esta Ley; asimismo, se deberá especificar la Dependencia, Órgano Desconcentrado, Delegación o Entidad que tendrá a su cargo la operación de cada programa.
 
-II. Multa;
+Asimismo, el Consejo de Evaluación para la emisión de los lineamientos a que se refiere el párrafo quinto del artículo 102 de esta Ley, deberá considerar entre otros parámetros los siguientes:
 
-III. Arresto; y
+a) El cuerpo de las reglas de operación deberá contener los lineamientos, metodologías, procedimientos, manuales, formatos, modelos de convenio, convocatorias y cualesquiera de naturaleza análoga;
 
-IV. Las demás que señalen las leyes o reglamentos.
+b) Deberán establecer los criterios de selección de los beneficiarios, instituciones o localidades objetivo.
 
-###### Artículo 69.
+Estos deben ser precisos, definibles, mensurables y objetivos;
 
-Las sanciones cometidas por la violación de las disposiciones de la presente Ley, se aplicarán conforme a lo siguiente:
+c) Debe describirse completamente el mecanismo de selección o asignación, con reglas claras y consistentes con objetivos de política del programa, para ello deberán anexar un diagrama de flujo del proceso de selección;
 
-I. Amonestación cuando por primera vez se incumplan con las disposiciones contenidas en los artículos 25 fracción V y 33 de esta Ley;
+d) Para todos los tramites deberá especificarse textualmente el nombre del trámite que indique la acción a realizar;
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+e) Se deberán establecer los casos o supuestos que dan derecho a realizar el trámite;
 
-II. Multa de 20 a 200 veces la Unidad de Cuenta de la Ciudad de México vigente contra quien por segunda ocasión realice alguna de las conductas descritas en la fracción anterior o por violaciones a lo dispuesto por los artículos 25 fracciones I, II y VI; 26 segundo y tercer párrafos; 40 segundo y tercer párrafos; y 42 de la presente Ley;
+f) Debe definirse la forma de realizar el trámite;
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+g) Sólo podrán exigirse los datos y documentos anexos estrictamente necesarios para tramitar la solicitud y acreditar si el potencial beneficiario cumple con los criterios de elegibilidad;
 
-III. Multa de 150 a mil veces la Unidad de Cuenta de la Ciudad de México vigente (sic) las violaciones a lo dispuesto por los artículos 25 fracciones III, IV, VII y VIII; 38 tercer párrafo; 55 y 59 de la presente Ley y la ley Federal de Responsabilidades de los Servidores Públicos; y
+h) Se deberán definir con precisión los plazos que tiene el supuesto beneficiario, para realizar el tramite, así como el plazo de prevención y el plazo máximo de resolución de la autoridad, y (sic)
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+i) Se deberán especificar las unidades administrativas ante quienes se realiza el tramite o, en caso, si hay algún mecanismo alterno.
 
-III Bis. Multa de 500 a dos mil veces la Unidad de Cuenta de la Ciudad de México vigente por la violación a lo dispuesto en el artículo 25 fracción XI BIS; y
+j) Las reglas de operación deberán ser simples y precisas con el objeto de facilitar la eficiencia y la eficacia en la aplicación de los recursos y en la operación de los programas.
 
-> <small>(REFORMADA, G.O. 3 DE ABRIL DE 2023)</small>
+Las evaluaciones se realizaran conforme al programa anual que al efecto establezca el Consejo.
 
-IV. Multa de 500 a 20,000 veces la Unidad de Medida y Actualización vigente por la violación a lo dispuesto por los artículos 25 fracción IX, X, XI, XII Y XIII; 32 Bis, 36 Bis, 36 Ter y 36 Quáter de la presente ley.
+###### ARTÍCULO 103.
 
-###### Artículo 70.
+La Secretaría de Desarrollo Social a través del Consejo de Evaluación deberá coordinar el estudio de las características y necesidades de los programas de beneficio social, a cargo de las Dependencias, Delegaciones, Órganos Desconcentrados y Entidades, con el propósito de establecer el mecanismo o instrumento más adecuado para el otorgamiento y ejercicio del beneficio o ayuda, por parte de los beneficiarios.
 
-En la imposición de sanciones se tomarán en cuenta los siguientes criterios:
+Dicho estudio deberá resaltar las ventajas y facilidades para los beneficiarios, así como los ahorros a favor de las Dependencias, Órganos Desconcentrados, Delegaciones o Entidades que tengan bajo su manejo los programas de subsidios y apoyos, en el procedimiento de entrega y ejercicio del beneficio.
 
-I. La trascendencia social, sanitaria o ambiental y el perjuicio cansado por la infracción cometida;
+Se deberá informar a la Asamblea de los resultados de tal estudio a más tardar el 30 de junio, el cual contendrá, además, el plan de acción, los tiempos y metas, los cuales procurarán no exceder el ejercicio fiscal vigente.
 
-II. El ánimo de lucro ilícito y la cuantía del beneficio obtenido en la comisión de la infracción;
+###### ARTÍCULO 104.
 
-> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que reciban donativos en dinero deberán enterar los recursos a la Tesorería; asimismo, para su aplicación deberán solicitar la ampliación correspondiente a su presupuesto conforme a las normas aplicables.
 
-III. El carácter intencional o negligente de la acción u omisión constitutiva de la infracción;
+## TÍTULO CUARTO. Inversiones a Largo Plazo
 
-> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-IV. La reincidencia en la comisión de infracciones, la gravedad de la conducta y la intención con la cual fue cometida; y
+### CAPÍTULO I. Del Presupuesto Plurianual
 
-> <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
+###### ARTÍCULO 105.
 
-V. Los casos en que el monto de la multa impuesta será conmutada por medidas de compensación las cuales serán destinadas al Fondo Ambiental Público de la Ciudad de México.
+Los mecanismos plurianuales de gasto son todos aquellos instrumentos legales, financieros y económicos previstos en esta ley y otros ordenamientos legales que permiten al Distrito Federal diseñar, ejecutar y evaluar una política presupuestal de mediano y largo plazo y, en específico, presentar Presupuestos Plurianuales, realizar proyectos de prestación de servicios a largo plazo o arrendamientos a largo plazo y proyectos de coinversión, sin perjuicio de cualquier otra figura análoga determinada o determinable en la normatividad.
 
-###### Artículo 71.
+El Jefe de Gobierno integrará en el proyecto de Presupuesto de Egresos las asignaciones a dichos instrumentos. Las asignaciones que apruebe la Asamblea estarán garantizadas y no estarán sujetas a la disponibilidad presupuestal de los ejercicios siguientes. Corresponderá al Jefe de Gobierno proponer los mecanismos para garantizar los recursos necesarios para su financiamiento en los ejercicios fiscales que comprendan su ejecución.
 
-Independientemente de la responsabilidad de reparar el daño de conformidad con las normas aplicables, los infractores de esta ley estarán sujetos a las sanciones previstas en esta Ley, de conformidad con lo dispuesto en la Ley de Procedimiento Administrativo. En todo caso, tratándose de los asuntos de esta Ley, las actas que levante la autoridad correspondiente por violaciones a ésta, podrán ser en el lugar o en el momento en que se detecte la falta.
+Para efectos informativos, el Presupuesto de Egresos establecerá las obligaciones de pago previstas en los Presupuestos Plurianuales, los contratos de prestación de servicios a largo plazo o arrendamientos a largo plazo y proyectos de coinversión para los ejercicios fiscales subsecuentes.
 
-###### Artículo 72.
+La Asamblea aprobará en el Presupuesto de Egresos de cada ejercicio fiscal, las erogaciones para el pago de las contraprestaciones derivadas de los Presupuestos Plurianuales, los contratos de prestación de servicios a largo plazo o arrendamientos a largo plazo y proyectos de coinversión.
 
-Cuando proceda la clausura, el personal comisionado para ejecutarla procederá a levantar acta circunstanciada de la diligencia, observando las disposiciones aplicables a la realización de inspecciones.
+###### ARTÍCULO 106.
 
-En los casos en que se imponga como sanción la clausura temporal, la autoridad deberá indicar al infractor las medidas de mitigación y acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización.
+El Jefe de Gobierno, a través de la Secretaría, tendrá la facultad para presentar un presupuesto plurianual como instrumento de carácter indicativo que sirva de guía en la política presupuestal de mediano y largo plazo, a fin de que sea un marco referencial del plan plurianual de inversiones públicas.
 
-###### Artículo 73.
+Dicho instrumento contendrá las previsiones de ingresos, gasto e inversiones además de otras variables macroeconómicas que permitan formar una agenda de gestión presupuestaria plurianual.
 
-En caso de que se expidan licencias, permisos, autorizaciones o concesiones contraviniendo esta Ley, serán nulas y no producirán efecto legal alguno, y los servidores públicos responsables serán sancionados conforme a lo dispuesto en la legislación de la materia.
+En la formulación de este instrumento participarán los sectores público, social y privado conforme a la normatividad en la materia.
 
-###### Artículo 74.
+El Jefe de Gobierno, por conducto de la Secretaría, enviará a la Asamblea, con fines indicativos, una estimación de tres años de los ingresos y egresos que pretenda recaudar y gastar la Administración Pública, con el propósito de conocer y anticipar las estrategias fiscales y de gasto necesarias para su implementación en el tiempo.
 
-Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, su reglamento, y disposiciones que de ella emanen, podrán ser impugnadas, mediante el recurso de inconformidad conforme a las reglas establecidas en la Ley de Procedimiento Administrativo de la Ciudad de México.
+Dicha previsión deberá considerar aquellos elementos económicos y sociales relevantes para la consecución del escenario previsto, o en su defecto un programa tendiente a promover su consolidación.
 
-###### Artículo 75.
+###### ARTÍCULO 107.
 
-Toda persona, grupos sociales, organizaciones no gubernamentales, asociaciones y sociedades podrán denunciar ante la Procuraduría y autoridades competentes todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al ambiente o a los recursos naturales derivados del manejo inadecuado de los residuos sólidos, o contravenga las disposiciones de la presente Ley y de los demás ordenamientos que regulen materias relacionadas con la misma.
+Los Presupuestos Plurianuales integrarán las necesidades básicas de operación y prestación de servicios públicos que comprendan las asignaciones presupuestales necesarias para su consecución en el mediano plazo.
 
-### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
+Una vez determinados los mínimos de operación, éstos, dentro de la presentación del Proyecto de Presupuesto de Egresos se revisarán anualmente con el propósito de llevar a cabo los ajustes necesarios para su actualización, de acuerdo con la evolución económica internacional, nacional y local.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE OCTUBRE DE 2025)</small>
+De igual forma, podrán gozar de asignaciones plurianuales aquellos programas integrales que tengan por objeto llevar a cabo cambios estructurales a las decisiones políticas y económicas fundamentales del Distrito Federal, siempre y cuando, el Jefe de Gobierno, por conducto de la Secretaría proponga conjuntamente la estrategia de financiamiento necesaria para su instrumentación.
 
-###### Artículo 76.
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-La denuncia ciudadana, podrá ejercitarse por cualquier persona, basta que se presente por escrito y contenga:
+### CAPÍTULO II. De prestación de Servicios a Largo Plazo y Arrendamientos a Largo Plazo
 
-I. El nombre o razón social, domicilio completo y teléfono si lo tiene, del denunciante o, en su caso, de su representante legal;
+###### ARTÍCULO 108.
 
-II. Los actos, hechos u omisiones denunciados;
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades en los proyectos y contratos de prestación de servicios a largo plazo, deberán observar las reglas de carácter general y los lineamientos emitidos por la Secretaría, la que podrá autorizar los modelos y proyectos de prestación de servicios y arrendamientos a largo plazo que pretendan celebrar, sujetando su disponibilidad a lo dispuesto en el artículo 105 de esta Ley.
 
-III. Los datos que permitan identificar al presunto infractor o localizar la fuente contaminante, y
+En los procedimientos de adjudicación y formalización de los contratos de prestación de servicios a largo plazo, las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades deberán apegarse a lo establecido en la Ley de Adquisiciones para el Distrito Federal y su Reglamento.
 
-IV. Las pruebas que el denunciante pueda ofrecer.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-Asimismo, podrá formularse la denuncia por vía telefónica, en cuyo supuesto el servidor público que la reciba, levantará acta circunstanciada, y el denunciante deberá ratificarla por escrito, cumpliendo con los requisitos establecidos en el presente artículo, en un término de tres días hábiles siguientes a la formulación de la denuncia, sin perjuicio de que la Procuraduría, investigue de oficio los hechos constitutivos de la denuncia.
+###### ARTÍCULO 109.
 
-###### Artículo 77.
+Los recursos relacionados con los pagos que realicen las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades como contraprestación por los servicios recibidos al amparo de un contrato de prestación de servicios a largo plazo o para arrendamientos de largo plazo se registrarán conforme a lo previsto en el Clasificador por Objeto del Gasto del Distrito Federal y tendrán preferencia respecto a otras previsiones de naturaleza similar.
 
-La Procuraduría deberá manifestar las consideraciones adoptadas respecto de la información proporcionada por el denunciante, al momento de resolver la denuncia.
+###### ARTÍCULO 110.
 
-### CAPÍTULO II. DEL BARRIDO Y LA RECOLECCIÓN DE RESIDUOS SÓLIDOS
+Tratándose de garantías que deban constituirse en contratos de prestación de servicios a largo plazo, se estará a lo dispuesto por el artículo 75 de esta Ley.
 
-### CAPÍTULO III. DE LA TRANSFERENCIA Y TRATAMIENTO DE RESIDUOS SÓLIDOS
+###### ARTÍCULO 111.
 
-### CAPÍTULO IV. DE LA DISPOSICIÓN FINAL
+Los Órganos de Gobierno podrán contemplar en su anteproyecto de presupuesto, recursos para la celebración de proyectos y contratos de prestación de servicios a largo plazo.
 
-## TÍTULO CUARTO. DEL SERVICIO PÚBLICO DE LIMPIA
+Los Órganos de Gobierno observarán en lo conducente una perspectiva de mediano y largo plazo con relación a los mecanismos de programación, presupuestación y pago de las obligaciones derivadas al amparo de un proyecto de prestación de servicios a largo plazo. En consecuencia, tomarán en cuenta y se adecuarán a las líneas del Presupuesto Plurianual y la respectiva estrategia integral de inversión pública en infraestructura del Distrito Federal.
 
-### CAPÍTULO I. DEL RECICLAJE
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+En caso de incumplimiento de las obligaciones de pago de proyectos y contratos de prestación de servicios a largo plazo por parte de los Órganos de Gobierno, la Secretaría podrá afectar directamente las ministraciones correspondientes al pago de las contraprestaciones derivadas de los proyectos, contratos de prestación de servicios a largo plazo que les correspondan al Órgano de Gobierno respectivo, conforme al presupuesto autorizado por la Asamblea, hasta por el monto debido, sin perjuicio de las responsabilidades administrativas correspondientes.
 
-### CAPÍTULO II. DEL COMPOSTEO
+### CAPÍTULO III. De los proyectos de coinversión
 
-### CAPÍTULO ÚNICO. DE LA CONTAMINACIÓN DEL SUELO POR RESIDUOS SÓLIDOS
+###### ARTÍCULO 112.
 
-> <small>(REFORMADO, G.O. 18 DE JULIO DE 2024)</small>
+Las Entidades, de conformidad con sus funciones y objeto, podrán participar en proyectos de coinversión para instrumentar esquemas de financiamiento de infraestructura pública y satisfactores sociales.
 
-## TÍTULO QUINTO. DE LA VALORIZACIÓN Y COMPOSTEO DE LOS RESIDUOS SÓLIDOS
+###### ARTÍCULO 113.
 
-### CAPÍTULO I. DE LAS MEDIDAS DE SEGURIDAD
+Los proyectos de coinversión son aquellos encaminados al desarrollo de satisfactores sociales, infraestructura, obras, servicios, arrendamientos y adquisiciones requeridos para incrementar la calidad de vida de los habitantes de la Ciudad de México, en donde la participación de la Administración Pública será mediante la asociación con personas físicas o morales o mediante la aportación de los derechos sobre bienes muebles e inmuebles del dominio público o privado a través de las figuras previstas en la Ley del Régimen Patrimonial y del Servicio Público y la Ley de Adquisiciones para el Distrito Federal y demás normatividad aplicable.
 
-## TÍTULO SEXTO. DE LAS DISPOSICIONES COMPLEMENTARIAS DE LA RESTAURACIÓN, PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL SUELO
+Las Entidades no destinarán recursos presupuestales para el financiamiento directo de los satisfactores sociales, infraestructura, obras, servicios, arrendamientos y adquisiciones realizados bajo el amparo de los proyectos de coinversión, salvo autorización expresa de la Secretaría y de la Contraloría, en cuyo caso, deberá observarse para su contratación, la normatividad aplicable en materia de obra pública, así como de adquisiciones, arrendamientos y prestación de servicios.
 
-### CAPÍTULO II. DE LAS SANCIONES
+###### ARTÍCULO 114.
 
-### CAPÍTULO III. DEL RECURSO DE INCONFORMIDAD
+Corresponde a la Secretaría emitir las reglas para determinar la participación de la Administración Pública en los proyectos de coinversión, así como la creación de fondos líquidos multianuales o mecanismos financieros que garanticen o mitiguen los riesgos de los proyectos en los casos que se justifique. La Comisión de Presupuestación, Evaluación del Gasto Público y Recursos de Financiamiento del Distrito Federal autorizará y ordenará la creación de los mecanismos a que se refiere este artículo, de acuerdo con lo que establezcan las reglas que emita la Secretaría.
 
-> <small>(REFORMADO, G.O. 24 DE OCTUBRE DE 2025)</small>
+###### ARTÍCULO 115.
 
-### CAPÍTULO IV. DE LA DENUNCIA CIUDADANA
+La evaluación financiera y presupuestal de los proyectos de coinversión corresponderá a la Secretaría.
 
-> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+## TÍTULO QUINTO. De la evaluación del gasto
 
-## TÍTULO SÉPTIMO. DE LAS MEDIDAS DE SEGURIDAD, SANCIONES, RECURSO DE INCONFORMIDAD Y DENUNCIA CIUDADANA
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-## ARTICULOS TRANSITORIOS
+### CAPÍTULO ÚNICO. De la evaluación de los ingresos y egresos
 
-PRIMERO - Esta Ley entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-SEGUNDO.- Se abroga el Reglamento para el Servicio Público de Limpia en el Distrito Federal, publicado en el Diario Oficial de la Federación, el 27 de julio de 1989 y se derogan todas las disposiciones que se opongan a la presente Ley. El Reglamento para el Servicio Público de Limpia en el Distrito Federal permanecerá vigente en todo lo que no se oponga a la presente Ley y en tanto el Gobierno del Distrito Federal expide el Reglamento de la presente Ley.
+###### ARTÍCULO 116.
 
-> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+El control y la evaluación de los ingresos y egresos se basarán en esta Ley, en la Ley General y la normatividad aplicable.
 
-TERCERO.- Las disposiciones que esta Ley establece en materia de separación de los residuos sólidos, recolección selectiva de dichos residuos y la instrumentación de planes de manejo, así como las sanciones previstas a este respecto en el artículo 69 de la presente Ley se aplicarán a partir del 1 de octubre de 2004. En consecuencia, la Secretaría, la Secretaría de Obras y Servicios y las Delegaciones iniciarán paulatinamente a partir del 1 de enero de 2004 la implantación de medidas y mecanismos tendientes a organizar la estructura e instalar la infraestructura necesaria para cumplir estas disposiciones e iniciarán una campaña masiva para difundir entre la población las disposiciones de esta Ley y educar cívicamente a la población en cuanto a las ventajas de su cumplimiento, de acuerdo a los recursos presupuestales asignados.
+###### ARTÍCULO 117.
 
-El calendario de aplicación de estas disposiciones deberá publicarse en el programa de gestión integral de residuos sólidos al que se refiere el artículo 11 de la presente Ley, durante el primer semestre de 2004.
+La Contraloría deberá elaborar e instrumentar un programa de revisión a efecto de vigilar que los objetivos y metas en materia de ingresos se cumplan, informando de ello trimestralmente a la Asamblea.
 
-Para la elaboración de dicho calendario de aplicación y vigilar el cumplimiento de sus acuerdos, se constituirá un Comité Técnico conformado por siete Diputados de la Asamblea Legislativa designados por la Comisión de Gobierno y por un representante de cada una de las siguientes entidades: Secretaría de Gobierno, Secretaría del Medio Ambiente, Secretaría de Obras y Servicios, Secretaría de Salud y Procuraduría Ambiental y de Ordenamiento Territorial.
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-Dicho Comité Técnico efectuará su primera sesión durante los primeros quince días del mes de enero de 2004, a convocatoria de la Secretaría del Medio Ambiente del Gobierno del Distrito Federal.
+ARTÍCULO 117 BIS.- La Secretaría realizará la evaluación económica de los ingresos y egresos en función de los calendarios presupuestarios y mediante el informe trimestral que remitan las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades.
 
-Los días 28 de febrero, 30 de abril y 30 de junio de 2004 la Secretaría informará a la Asamblea Legislativa del Distrito Federal de los avances concretos realizados en la aplicación y promoción de los programas mencionados.
+La evaluación se realizará a través de la revisión del avance del cumplimiento de los objetivos y metas presupuestales, tomando como referencia las mediciones previstas en el artículo 135 de esta Ley, a fin de conocer el resultado de la aplicación de los recursos presupuestales, generando la información para atender en su caso lo previsto en el artículo 49 de la Ley de Coordinación Fiscal.
 
-> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+###### ARTÍCULO 118.
 
-CUARTO.- La Secretaría de Obras y Servicios deberá concluir a más tardar el 30 de abril de 2004 la elaboración del registro de los establecimientos mercantiles y de servicios relacionados con la recolección, manejo, tratamiento, reutilización, reciclaje y disposición final de los residuos sólidos.
+El Jefe de Gobierno, por conducto de la Secretaría, esta obligado a proporcionar, dentro del informe trimestral, la información siguiente a la Asamblea:
 
-QUINTO.- En tanto se expiden las disposiciones administrativas que se deriven de la presente Ley, seguirán en vigor las que han regido hasta ahora en lo que no la contravengan.
+I. Ingresos de aplicación automática generados en las Delegaciones, y
 
-SEXTO.- Todos los actos, procedimientos y recursos administrativos relacionados con la materia de esta Ley, que se hubieren iniciado bajo la vigencia de otros ordenamientos, se tramitarán y resolverán conforme a los mismos.
+II. Las reglas generales y reglas específicas emitidas por la Secretaría durante todo el periodo de informe.
 
-> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+###### ARTÍCULO 119.
 
-SÉPTIMO.- El Jefe de Gobierno expedirá el reglamento de la presente Ley a más tardar el día 30 de mayo de 2004.
+La Contraloría deberá formular las observaciones y recomendaciones que considere pertinentes, tanto a la unidad administrativa que haya generado el ingreso, como a la Secretaría con el propósito de mejorar la eficiencia en la recaudación de los ingresos estimados.
 
-> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+###### ARTÍCULO 120.
 
-OCTAVO.- La Secretaría, la Secretaría de Obras y Servicios y las Delegaciones deberán expedir a más tardar el 30 de mayo de 2004 los programas que esta Ley establece.
+La Contraloría deberá remitir por escrito a la Asamblea, la información relacionada con:
 
-NOVENO.- Publíquese en el Diario Oficial de la Federación para su mayor difusión.
+I. Las observaciones generadas durante el ejercicio fiscal inmediato anterior en términos de lo dispuesto por el artículo anterior en correlación con el artículo 117 de la Ley, en un plazo que no deberá exceder del 6 de marzo del ejercicio fiscal siguiente;
 
-Recinto Legislativo a 20 de marzo de 2003.
+II. La Contraloría deberá revisar los rubros de ingresos que no hayan obtenido las metas anuales o trimestrales correspondientes. En ambos casos deberán presentarse las medidas correctivas que haya propuesto la Contraloría, para que, ésta a su vez, informe a la Asamblea, y
 
-POR LA MESA DIRECTIVA.- DIP. ALEJANDRO DIEZ BARROSO REPIZO, PRESIDENTE.- DIP. ROLANDO ALFONSO SOLÍS OBREGÓN, SECRETARIO.- (Firmas)
+III. Un reporte de los ingresos en especie en que se determine si correspondieron a la estimación anual y a su calendario autorizado y si los recursos captados se aplicaron conforme a lo dispuesto en el Presupuesto de Egresos.
 
-En cumplimiento de lo dispuesto por los artículos 122. apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48,49 y 67 fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los cinco días del mes de abril del dos mil tres.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, LIC. ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, CLAUDIA SHEINBAUM PARDO - FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, CÉSAR BUENROSTRO HERNÁNDEZ - FIRMA.- LA SECRETARIA DE SALUD, ASA CRISTINA LAURELL.- FIRMA.
+# LIBRO SEGUNDO. DE LA CONTABILIDAD GUBERNAMENTAL
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+## TÍTULO PRIMERO. De la Contabilidad
+
+### CAPÍTULO I. Disposiciones Generales
+
+###### ARTÍCULO 121.
+
+La contabilidad gubernamental se sujetará a las disposiciones de la Ley General, para lo cual observará los criterios generales de armonización que al efecto se emitan, así como las normas y lineamientos para la generación de información financiera.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 122.
+
+El desarrollo y operación del sistema contable para las Dependencias, Órganos Desconcentrados y Delegaciones, así como la emisión de la normatividad contable para efectos administrativos, estarán a cargo de la Secretaría.
+
+El desarrollo y operación de los sistemas de contabilidad de las Entidades, estará a cargo de las mismas y se requerirá la autorización del plan de cuentas por parte de la Secretaría.
+
+El desarrollo y operación de los sistemas de contabilidad de los Órganos de Gobierno y Autónomos, estarán a cargo de su órgano competente.
+
+###### ARTÍCULO 123.
+
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, suministrarán a la Secretaría con la periodicidad que ésta lo determine, la información presupuestal, programática, contable y financiera que requiera.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 124.
+
+La información financiera, presupuestal, programática y contable que emane consolidadamente del sistema y de los registros auxiliares de las Dependencias, Órganos Desconcentrados, Delegaciones y en el caso de las Entidades de sus estados financieros, será la que sirva de base para que la Secretaría elabore los informes trimestrales así como de formular la Cuenta Pública del Distrito Federal y someterlos a la consideración del Jefe de Gobierno para su presentación en los términos de la Constitución y del Estatuto.
+
+La información contable financiera de aquellas Entidades que operen con el Registro Federal de Contribuyentes del Gobierno del Distrito Federal, será consolidada por la Secretaría.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2012)</small>
+
+Los Órganos Autónomos y de Gobierno remitirán oportunamente los estados financieros e información a que se refiere el párrafo anterior a la Asamblea Legislativa quien enviará por conducto de la Secretaría al Jefe de Gobierno para su incorporación, en capítulo por separado, a los Informes Trimestrales y Cuenta Pública.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2012)</small>
+
+Dicha información deberá permitir el análisis de los resultados obtenidos en el año y comparación con las previsiones contenidas en el presupuesto de egresos del año de que se trate, respecto de:
+
+I.- El alcance y contenido de los programas, funciones y actividades institucionales bajo su responsabilidad;
+
+II.- Explicación y comentarios de los avances de subprogramas y especialmente de aquellos considerados como prioritarios, especiales y de las adquisiciones cuya ejecución abarque dos o más ejercicios fiscales, y
+
+III.- Estimación de todos los ingresos que se recibieron conforme a sus leyes y de los gastos del ejercicio fiscal a nivel de capítulo, concepto y partida presupuestal.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2012)</small>
+
+Los órganos referidos en este artículo, de acuerdo con el formato que para el efecto les envíe la Secretaría, elaborarán los trimestrales y la cuenta pública para informar los resultados de las líneas programáticas, objetivos específicos, acciones responsables de su ejecución, así como la temporalidad y especialidad de las acciones para las que se asignaron recursos, en función de las disponibilidades y necesidades contenidas en los balances de recursos humanos, materiales y financieros.
+
+###### ARTÍCULO 125.
+
+La contabilidad de las operaciones deberá estar respaldada por los documentos justificantes y comprobatorios originales.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+Será responsabilidad de los titulares de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, así como de los servidores públicos encargados de su administración, la recepción, guarda, custodia y conservación de los documentos justificantes y comprobatorios del gasto, así como de los registros auxiliares e información relativa, y en el caso de las Entidades, de sus libros de contabilidad, en términos de las disposiciones aplicables.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+Los Órganos Autónomos y de Gobierno, definirán al interior las responsabilidades para dar cumplimiento a esta disposición, en los términos que aplique la presente Ley, así como la Ley General.
+
+###### ARTÍCULO 126.
+
+Será responsabilidad de las Unidades Responsables de Gasto la confiabilidad de las cifras consignadas en la contabilidad.
+
+### CAPÍTULO II. De los Catálogos de Cuentas y del Registro Contable de las Operaciones
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 127.
+
+El plan de cuentas deberá permitir la armonización de la información contable del Distrito Federal, en los términos de la normatividad aplicable.
+
+###### ARTÍCULO 128.
+
+Las Entidades que realicen operaciones con el Registro Federal de Contribuyentes del Gobierno del Distrito Federal, consolidarán y contabilizarán dichas operaciones en el Sector Central, para lo cual deberán ajustarse a las disposiciones que en esta materia establece la Ley para las Dependencias y Órganos Desconcentrados.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 129.
+
+La Secretaría, Entidades, Órganos de Gobierno y Autónomos contabilizarán las operaciones financieras y presupuestales en sus libros principales de contabilidad, que serán en su caso los denominados diario, mayor e inventarios y balances. Cuando el Sistema electrónico emita de forma impresa dichos libros, éstos tendrán la misma validez.
+
+La contabilización de las operaciones financieras y presupuestales tendrá que efectuarse dentro de los treinta días siguientes a la fecha de su realización y tendrán que estar respaldadas por los documentos comprobatorios y justificativos originales.
+
+###### ARTÍCULO 130.
+
+La observancia de esta Ley, en materia de contabilidad, no releva a las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades de cumplir con lo dispuesto en otros ordenamientos legales aplicables.
+
+### CAPÍTULO III. De la Contabilidad de Fondos y Valores
+
+###### ARTÍCULO 131.
+
+La Secretaría concentrará, revisará, integrará, controlará y registrará la información contable del movimiento de los fondos y valores de la propiedad o al cuidado del Distrito Federal y, en su oportunidad, producirá los estados financieros que se requieran para su integración en la Cuenta Pública del Distrito Federal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 132.
+
+La Secretaría preverá que en el sistema contable se realice el registro de fondos y valores del Distrito Federal, con base en la normatividad aplicable, a fin de:
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+I. Captar la información del ingreso, administración de fondos y valores y del egreso efectuado para proceder a su contabilización;
+
+II. Establecer y mantener los registros necesarios que provean la información para el análisis económico, financiero y de toma de decisiones, y
+
+III. Aportar los elementos que permitan determinar la responsabilidad de los servidores públicos en materia de manejo de fondos y valores mediante controles contables y administrativos.
+
+###### ARTÍCULO 133.
+
+Los fondos que resulten del ejercicio de los derechos patrimoniales, inherentes a los valores que representen inversiones financieras del Distrito Federal, deberán registrarse en el sistema de contabilidad a que se refiere el presente Título.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 134.
+
+La Secretaría por conducto de la unidad administrativa responsable de concentrar los fondos y valores propiedad o al cuidado del Distrito Federal, formulará las cuentas comprobadas y registrará los asientos que correspondan en el sistema contable, para efectos de la Cuenta Pública del Distrito Federal.
+
+## TÍTULO SEGUNDO. De la Cuenta Pública del Distrito Federal
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 135.
+
+Las Unidades Responsables del Gasto deberán remitir a la Secretaría el Informe Trimestral a que se refiere el Estatuto, dentro de los 15 días naturales siguientes de concluido cada trimestre, que contenga información cuantitativa y cualitativa sobre la ejecución de sus presupuestos aprobados y la evaluación de los mismos. Los criterios para la integración de la información serán definidos por la Secretaría y comunicados por ésta antes de la conclusión del periodo a informar.
+
+En la información cuantitativa y cualitativa las Unidades Responsables del Gasto harán referencia a los siguientes aspectos:
+
+I. La eficacia que determina cuantitativamente el grado o la medida del cumplimiento de las metas de sus actividades institucionales;
+
+II. La eficacia registrada en el ejercicio de los recursos financieros en relación con los previstos en un periodo determinado;
+
+III. La eficiencia con que se aplicaron los recursos financieros para la consecución de las metas de sus actividades institucionales;
+
+IV. La congruencia entre los gastos promedios por unidad de meta previstos y los erogados en sus actividades institucionales;
+
+V. El grado de cobertura e impacto de las acciones sobre la población y grupos sociales específicos;
+
+VI. Los indicadores para medir el avance de los objetivos y metas de los programas, y
+
+VII. Los demás que considere la Secretaría.
+
+En caso de que el último día para rendir el informe a que se refiere el párrafo primero sea inhábil, se presentará al día hábil siguiente.
+
+La información a la que se refiere este artículo, será responsabilidad del titular, así como de los servidores públicos encargados de la administración y aplicación de los recursos asignados, conforme al Reglamento Interior y demás normatividad aplicable.
+
+###### ARTÍCULO 136.
+
+Las Dependencias, Órganos Desconcentrados y Delegaciones deberán proporcionar a la Secretaría la siguiente información:
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+I. Mensualmente, dentro de los primeros diez días del mes siguiente.
+
+a) Conciliación del ejercicio presupuestal, y
+
+b) Estado analítico de ingresos en caso de ser áreas generadoras; en caso contrario, la información deberá ser proporcionada por el área competente de la Secretaría.
+
+II. Mensualmente, dentro de los primeros cinco días del mes siguiente, el reporte correspondiente al pago de contribuciones en materia del impuesto al valor agregado generado por los actos o actividades realizadas por las Dependencias, Órganos Desconcentrados y Delegaciones, conforme las instrucciones y formatos que para tal efecto establezca la Secretaría.
+
+III. Mensualmente, dentro de los primeros siete días del mes siguiente, el reporte correspondiente al cumplimiento de obligaciones del Gobierno del Distrito Federal, relacionadas con la declaración informativa sobre el pago, retención, acreditamiento y traslado del impuesto al valor agregado en las operaciones con sus proveedores, conforme a las instrucciones y formatos que para tal efecto establezca la Secretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+IV. Trimestralmente
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+a) Información sobre el avance de metas por vertientes de gasto. En caso de desviaciones a las metas se deberán especificar las causas que las originen;
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+
+b) Información sobre la aplicación por concepto de erogaciones imprevistas y gastos de orden social, especificando el objeto del gasto, importes autorizados y acciones que las generaron, y
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+
+c) Información sobre la ejecución de los recursos por subsidios, ayudas, donaciones y aportaciones autorizados y ministrados a instituciones, personas físicas o morales, especificando importes, causas y finalidades de las erogaciones.
+
+d) (DEROGADO, G.O. 30 DE DICIEMBRE DE 2010)
+
+e) (DEROGADO, G.O. 30 DE DICIEMBRE DE 2010)
+
+V. A más tardar en la segunda quincena de febrero de cada año, la información al 31 de diciembre del año inmediato anterior, que comprenderá lo siguiente:
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+
+a) Resultado de los inventarios físicos practicados a los bienes muebles e inmuebles, con indicación de cantidad, descripción de bienes, valor unitario, partida presupuestal y costo total, conforme a las instrucciones y formatos que para tal efecto establezca la Secretaría, y
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+
+b) Informes de las bajas de activos fijos ocurridas durante el período, señalando cantidad, descripción del bien, valor unitario, partida presupuestal, costo total y destino final debidamente justificado, conforme a las instrucciones y formatos que para tal efecto establezca la Secretaría.
+
+VI. Otra información complementaria que le solicite la Secretaría, en la forma y plazos que ésta determine.
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2010)</small>
+
+VII. Semestralmente.
+
+a) Resultado de los inventarios físicos, incluyendo las altas y bajas ocurridas durante el período que se informa, practicados a los bienes muebles e inmuebles, conforme a las instrucciones y formatos que para tal efecto establezca la Secretaría, y
+
+b) Resultado de los inventarios físicos, incluyendo saldo final del período anterior, las altas, bajas ocurridas durante el período que se informa y saldo final, practicados a los almacenes de bienes consumibles, conforme a las instrucciones y formatos que para tal efecto establezca la Secretaría.
+
+Los Jefes Delegacionales deberán enviar la información prevista en este artículo al Jefe de Gobierno, por conducto de la Secretaría.
+
+###### ARTÍCULO 137.
+
+Las Entidades, salvo lo previsto en el artículo 45, deberán enviar a la Secretaría la siguiente información:
+
+I. Mensualmente, dentro de los primeros 10 días del mes siguiente:
+
+a) Balance general o estado de situación financiera;
+
+b) Estado de resultados;
+
+c) Estado de costos de producción y ventas;
+
+d) Estado de cambios en la situación financiera;
+
+e) Estado analítico de ingresos;
+
+f) Estado de variaciones al patrimonio;
+
+g) Estado de variaciones al activo fijo;
+
+h) Estado de situación del Presupuesto de Egresos;
+
+i) Flujo de efectivo;
+
+j) Conciliación del ejercicio presupuestal;
+
+k) Informe presupuestal del flujo de efectivo, y
+
+l) Estado del endeudamiento bajo su administración.
+
+II. Trimestralmente:
+
+a) Estado de endeudamiento;
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+b) Información sobre el avance de metas, por vertientes de gasto en especial prioritarias, estratégicas y multisectoriales. En caso de desviaciones a las metas, se deberán especificar las causas que las originen;
+
+c) Información sobre la ejecución de los recursos por subsidios, ayudas, donaciones y aportaciones autorizados y ministrados a instituciones, personas físicas o morales, especificando importes, causas y finalidades de las erogaciones, e
+
+d) Información sobre la aplicación por concepto de erogaciones imprevistas y gastos de orden social, especificando el objeto del gasto, importes autorizados y acciones que las generaron, y
+
+III. Otra información complementaria que les solicite la Secretaría, en la forma y plazos que ésta determine.
+
+La información a que se refiere este artículo deberá contar con la aprobación de la respectiva Dependencia coordinadora de sector.
+
+En caso de que la Secretaría no reciba la información o la que reciba no cumpla con la forma y plazos establecidos por ésta, la podrá solicitar directamente a las Entidades coordinadas.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 138.
+
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que participen en la realización de vertientes de gasto prioritarias reportarán trimestralmente a la Secretaría dentro de los primeros quince días del mes siguiente, las realizaciones financieras y de metas a nivel de programa y actividad institucional que tengan a su cargo, conforme a los requerimientos que para el efecto establezca la Secretaría.
+
+###### ARTÍCULO 139.
+
+La Secretaría dará a conocer a las Unidades Responsables del Gasto de quienes deba recabar información, a más tardar el día quince de enero de cada año, las instrucciones y formatos para obtener los datos necesarios para la integración de la Cuenta Pública del año anterior.
+
+###### ARTÍCULO 140.
+
+Con base en los estados financieros y demás información financiera, presupuestal y contable que emane de los registros de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades comprendidas en el Presupuesto de Egresos, la Secretaría integrará la Cuenta Pública y la someterá a la consideración del Jefe de Gobierno para su presentación en los términos de la Constitución y del Estatuto.
+
+Las áreas competentes de los Órganos Autónomos y Órganos de Gobierno, remitirán a más tardar dentro de los primeros 3 días hábiles del mes de mayo, los estados financieros dictaminados e información a que se refiere el párrafo anterior al Jefe de Gobierno, para que éste ordene su incorporación a la Cuenta Pública del Distrito Federal, en capítulo por separado.
+
+###### ARTÍCULO 141.
+
+Para los efectos del artículo anterior, las Dependencias, Órganos Desconcentrados y Delegaciones deberán proporcionar a la Secretaría, para la integración de la Cuenta Pública:
+
+I. Anualmente, a más tardar el 31 de marzo:
+
+a) Estado de ejercicio del presupuesto;
+
+Asimismo, el área competente de la Secretaría, deberá proporcionar:
+
+b) Estado analítico de ingresos, y
+
+c) Estado de financiamiento;
+
+II. Informe de Cuenta Pública conforme a las instrucciones y formatos a que se refiere el artículo 139, y
+
+III. Otra información complementaria que solicite la Secretaría.
+
+Los Jefes Delegacionales deberán entregar la información señalada al Jefe de Gobierno, por conducto de la Secretaría.
+
+La información a que se refiere este artículo, deberá estar suscrita por el titular de la Dependencia, Órgano Desconcentrado o Delegación de que se trate.
+
+###### ARTÍCULO 142.
+
+Las Entidades deberán proporcionar a la Secretaría para la integración de la Cuenta Pública:
+
+I. Anualmente, a más tardar el 31 de marzo:
+
+a) Balance general o estado de situación financiera;
+
+b) Balance general o estado de situación financiera comparativo;
+
+c) Flujo de efectivo;
+
+d) Estado de cambios en la situación financiera;
+
+e) Estado de resultados;
+
+f) Estado de resultados comparativo;
+
+g) Estado de costos, producción y ventas;
+
+h) Estado de situación del Presupuesto de Egresos;
+
+i) Estado analítico de ingresos;
+
+j) Estado del pasivo titulado;
+
+k) Estado de variaciones al patrimonio;
+
+l) Estado de los impactos de los ajustes de auditoria;
+
+m) Estado de variaciones al activo fijo;
+
+n) Dictamen de contador público externo;
+
+o) Conciliación del ejercicio presupuestal;
+
+p) Informe presupuestal de flujo de efectivo, y
+
+q) Informe de presupuesto comprometido.
+
+II. Informe de Cuenta Pública conforme a las instrucciones y formatos a que se refiere el artículo 139;
+
+III. Información para integrar los apartados de análisis y avance presupuestales, y
+
+IV. Otra información complementaria que solicite la Secretaría.
+
+La información a que se refiere este artículo, deberá estar suscrita por el titular de la Entidad y los de sus órganos encargados del manejo y ejercicio de sus recursos, contar con el dictamen de contador público externo, así como con la aprobación de la respectiva Dependencia Coordinadora de Sector, por cuyo conducto se hará llegar a la Secretaría, sin perjuicio de que en caso de incumplimiento la solicite directamente a las Entidades Coordinadas.
+
+###### ARTÍCULO 143.
+
+Los titulares de las Entidades, así como los de sus órganos encargados del manejo y ejercicio de sus recursos, serán directamente responsables de la información presupuestal, financiera, programática y contable proporcionada a la Secretaría para la integración de la Cuenta Pública.
+
+###### ARTÍCULO 144.
+
+Las Entidades que lleven a cabo el registro de sus operaciones financieras y presupuestales en sistemas electrónicos deberán suministrar la información requerida por la Secretaría para la integración de la Cuenta Pública, en la forma y medios por ella señalados.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 145.
+
+La Secretaría agrupará, cuando sea necesario, la información armonizada contablemente que le proporcionen las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades para efectos de consolidación y presentación de la Cuenta Pública. Asimismo, la Secretaría para efectos de consolidación presupuestal, estados financieros y presentación de la Cuenta Pública, podrá determinar los ajustes requeridos al presupuesto modificado de cierre.
+
+# LIBRO TERCERO. DE LAS RESPONSABILIDADES
+
+###### ARTÍCULO 146.
+
+Los servidores públicos que no cumplan con alguna de las disposiciones previstas en esta Ley y en su Reglamento, serán sancionados en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos, con independencia de las responsabilidades de carácter civil, penal, laboral y/o resarcitoria.
+
+###### ARTÍCULO 147.
+
+La Contraloría, la Contaduría Mayor y la instancia competente de cada Órgano de Gobierno y Órgano Autónomo ejercerán las atribuciones que conforme a su competencia les correspondan en materia de responsabilidades.
+
+###### ARTÍCULO 148.
+
+Para iniciar el Procedimiento de Responsabilidad Resarcitoria, se estará a lo dispuesto por el Título II del Libro Cuarto del Código, de las Responsabilidades Resarcitorias.
+
+###### ARTÍCULO 149.
+
+Cualquier persona que tenga conocimiento de la violación a las disposiciones de esta Ley y su Reglamento, deberá dar aviso a los titulares de las Unidades Responsables del Gasto e informarán a la autoridad competente cuando las infracciones a esta Ley impliquen la comisión de una conducta sancionada en los términos de este título.
+
+## TRANSITORIOS
+
+Primero. El presente Decreto entrará en vigor a partir del 1° de enero del 2010.
+
+Segundo. A partir de la entrada en vigor de esta Ley se abroga la Ley de Austeridad y Gasto Eficiente para el Distrito Federal.
+
+Tercero. A partir de la entrada en vigor de esta Ley, las leyes que remitan a los preceptos del Código Financiero del Distrito Federal, se entenderán referidas a los correspondientes de la Ley de Presupuesto y Gasto Eficiente del Distrito Federal, así como, en lo conducente, al Código Fiscal del Distrito Federal.
+
+Cuarto. Las Unidades Responsables de Gasto se apegarán en lo conducente al Plan de Cuentas emitido por el CONAC.
+
+Quinto. Quedan sin efectos las disposiciones legales e interpretaciones que contravengan o se opongan a lo preceptuado en esta Ley.
+
+Sexto. El Reglamento de la presente Ley se publicará a los 45 días posteriores a su entrada en vigor, mientras tanto estará vigente el Código Financiero del Distrito Federal vigente en el ejercicio fiscal 2009, en tanto no se oponga a esta Ley.
+
+Séptimo. Los Órganos de Gobierno y Autónomos deberán elaborar y determinar lineamientos tendientes a optimizar sus presupuestos y el gasto eficiente, y presentarlo ante la Asamblea Legislativa del Distrito Federal en el primer trimestre del año, para ser incorporado en la presente Ley.
+
+Recinto de la Asamblea Legislativa del Distrito Federal, a los veintitrés días del mes de diciembre del año dos mil nueve.- POR LA MESA DIRECTIVA.- DIP. LIZBETH EUGENIA ROSAS MONTERO, PRESIDENTA.- DIP. MARÍA DE LOURDES AMAYA REYES, SECRETARIA.- RAFAEL CALDERÓN JIMÉNEZ, SECRETARIO.- FIRMAS.
+
+En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintiocho días del mes de diciembre del año dos mil nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE LEAL FERNANDEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, FERNANDO JOSÉ ABOITIZ SARO.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE FINANZAS, MARIO MARTÍN DELGADO CARRILLO.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, RAÚL ARMANDO QUINTERO MARTÍNEZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- EL SECRETARIO DE TURISMO, ALEJANDRO ROJAS DÍAZ DURÁN.- FIRMA.- LA SECRETARIA DE CULTURA, ELENA CEPEDA DE LEÓN.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, ELÍAS MIGUEL MORENO BRIZUELA.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, BENITO MIRÓN LINCE.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MARIO MIGUEL CARRILLO HUERTA.- FIRMA.- SECRETARÍA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, MARÍA ROSA MÁRQUEZ CABRERA.- FIRMA.
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-G.O. 10 DE FEBRERO DE 2004.
+G.O. 19 DE OCTUBRE DE 2010.
 
-Primero.- El presente Decreto entrará en vigor el día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
 
-Segundo.- Túrnese al jefe de Gobierno del Distrito Federal única y exclusivamente para su publicación en la Gaceta Oficial del Distrito Federal y publíquese también en el Diario Oficial de la Federación para su mayor difusión.
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
-G.O. 18 DE AGOSTO DE 2009.
+TERCERO.- El Jefe de Gobierno deberá publicar en la Gaceta Oficial los lineamientos para la operación del Fondo de Prevención y Atención de Contingencias y Emergencias Epidemiológicas y Sanitarias para el Distrito Federal.
 
-PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+G.O. 30 DE DICIEMBRE DE 2010.
 
-SEGUNDO. Las sanciones por la violación a disposiciones del presente decreto se aplicarán a los doce meses siguientes de su entrada en vigor.
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación.
 
-TERCERO. El programa de sustitución de plástico a que hace referencia el presente decreto deberá crearse con la participación de la comunidad científica y académica a través del Instituto de Ciencia y Tecnología, el sector productivo, asociaciones civiles y organismos representativos en un término máximo de seis meses contados a partir de la entrada en vigor del presente decreto.
+SEGUNDO.- El presente Decreto entrará en vigor a partir del 1° de enero de 2011.
 
-CUARTO. La Asamblea Legislativa del Distrito Federal deberá implementar una campaña permanente para dar a conocer a la ciudadanía en general, los derechos y obligaciones que se derivan por la entrada en vigor del presente decreto. Para tal fin, se deberá prever en el Presupuesto de Egresos una partida suficiente para poder llevar a cabo acciones de promoción y publicidad en medios electrónicos e impresos.
+TERCERO.- Las remuneraciones señaladas en la presente Ley serán revisadas anualmente, y podrán ser modificadas, en el proceso de emisión del Decreto del Presupuesto de Egresos del Distrito Federal.
 
-QUINTO. El Gobierno del Distrito Federal a través de la Secretaría del Medio Ambiente y de Desarrollo Económico ambas del Distrito Federal, deberán implementar un programa de apoyos a efecto de que las empresas que actualmente producen las bolsas y empaques de plástico, puedan adecuar las tecnologías que tienen a efecto de atender las demandas ambientales y legales implementadas en la presente reforma.
+CUARTO.- En ningún caso podrán aplicarse las disposiciones referidas en el artículo 86 Bis de forma retroactiva, ni en perjuicio de los derechos laborales adquiridos por los servidores públicos con motivo de su encargo.
 
-SEXTO. El Gobierno del Distrito Federal y las Delegaciones efectuarán una campaña de difusión del presente decreto.
+QUINTO.- Por única vez, se autoriza a la Secretaría para que afecte el derecho a recibir hasta el 40% de las cantidades remanentes del Fideicomiso Maestro irrevocable de administración y fuente de pago F/838, como garantía o fuente de pago de las obligaciones contraídas con motivo del "Contrato de Prestación de Servicios a Largo Plazo para poner a disposición del Sistema de Transporte Colectivo un lote de 30 trenes nuevos de rodadura férrea que circularán en la Línea 12 del Metro de la Ciudad de México" cuya contratación es responsabilidad exclusiva del Gobierno del Distrito Federal.
 
-SÉPTIMO. El Jefe de Gobierno del Distrito Federal deberá actualizar las disposiciones reglamentarias a más tardar noventa días después de la entrada en vigor del presente decreto.
+Para tales efectos, el Jefe de Gobierno enviará a la Asamblea a más tardar el 31 de enero del 2011 la siguiente información:
 
-OCTAVO. El Instituto de Ciencia y Tecnología del Distrito Federal instrumentará un programa de asesoramiento al sector productivo para el desarrollo de materiales sustitutos del plástico a más tardar en 120 días de la entrada en vigor del presente decreto.
+a) Compromiso de pago que se contrae;
 
-G.O. 26 DE NOVIEMBRE DE 2010.
+b) Monto a pagar;
 
-PRIMERO. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
+c) Calendario de pagos;
 
-SEGUNDO. Las disposiciones reglamentarias de la presente ley deberán ser publicadas después de los noventa días naturales a la entrada en vigor de este Decreto.
+d) Fuente de garantía, y
 
-TERCERO. La Secretaria contará con un plazo de seis meses contados a partir de la entrada en vigor del presente decreto para emitir los criterios y las normas a los que se refiere la fracción XI del artículo 6º del presente Decreto; dichos criterios y normas entraran en vigor doce meses después de su publicación.
+e) Mecanismos de pago.
 
-CUARTO. Se derogan todas aquellas disposiciones que contravengan el contenido del presente Decreto.
+G.O. 20 DE ABRIL DE 2011.
 
-QUINTO. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
-G.O. 23 DE DICIEMBRE DE 2010.
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
 
-PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+G.O. 29 DE DICIEMBRE DE 2011.
 
-SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y, para su mayor difusión, en el Diario Oficial de la Federación.
+PRIMERO.- El presente decreto entrará en vigor a partir del 1º de enero de 2012
 
-G.O. 24 DE JULIO DE 2012.
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación.
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+TERCERO.- Los recursos remanentes del ejercicio fiscal 2011, correspondientes a las Entidades, así como a los Fideicomisos Públicos, se considerarán ingresos propios, por lo que no les será aplicable lo dispuesto en el artículo 71 del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Presupuesto y Gasto Eficiente del Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal el 30 de diciembre de 2010.
 
-SEGUNDO.- Publíquese para su mayor difusión en el Diario Oficial de la Federación.
+CUARTO.- La Secretaría deberá integrar al Proyecto de Presupuesto un apartado que contenga la conciliación de vertientes de gasto respecto de subfunciones.
 
-G.O. 8 DE SEPTIEMBRE DE 2014.
+Deberá publicar trimestralmente:
 
-PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, para su debida observancia y aplicación.
+- La conciliación trimestral de vertientes de gasto y subfunciones.
 
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+- Y a partir de la cuenta pública de 2012 deberán anexar un apartado con dicha conciliación.
 
-TERCERO.- La Secretaría del Medio Ambiente del Distrito Federal contará con un plazo de 60 días hábiles contados a partir de la entrada en vigor del presente Decreto para llevar a cabo la implementación del Registro de establecimientos mercantiles y de servicios que se refiere la fracción XVIII del artículo 6º del presente Decreto.
+G.O. 31 DE DICIEMBRE DE 2012.
 
-CUARTO.- Una vez transcurridos los 60 días hábiles señalados en el artículo TERCERO transitorio del presente Decreto; los titulares de establecimientos mercantiles y de servicios contarán con un plazo de 90 días para efectuar ante la Secretaría del Medio Ambiente del Distrito Federal su registro.
+PRIMERO.- El presente Decreto entrara en vigor a partir del 1° de enero de 2013.
 
-QUINTO.- En consecuencia, la Secretaría del Medio Ambiente, la Secretaría de Obras y Servicios y las Delegaciones iniciarán en el ámbito de su respectiva competencia y de manera coordinada la implementación de medidas y mecanismos tendientes a organizar la estructura e instalar la infraestructura necesaria para el cumplimiento a estas disposiciones e iniciarán una campaña para difundirlas entre la población.
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación.
 
-SEXTO.- El Jefe de Gobierno del Distrito Federal contará con un plazo de 90 días hábiles contados a partir de la entrada en vigor del presente Decreto para realizar los cambios necesarios a la normatividad en la materia y adecuarlos al contenido del presente Decreto.
+G.O. 30 DE JULIO DE 2013.
 
-SÉPTIMO.- Se derogan todas aquellas disposiciones que contravengan el contenido del presente Decreto.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
 
-G.O. 28 DE NOVIEMBRE DE 2014.
-
-PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
-
-SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal.
-
-TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
-
-CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
-
-G.O. 18 DE NOVIEMBRE DE 2015.
-
-PRIMERO.- Túrnese el presente Decreto, al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial del Distrito Federal.
-
-SEGUNDO.- El presente Decreto entrará en vigor el 30 de enero del 2015. La entrada en vigor quedará sujeta a la suficiencia presupuestal que para tal efecto describe el presente Decreto, y que apruebe la Asamblea Legislativa del Distrito Federal, en el siguiente Presupuesto de Egresos del Distrito Federal para el Ejercicio Fiscal 2015.
-
-TERCERO.- El Jefe de Gobierno del Distrito Federal contará con sesenta días posteriores a la entrada en vigor de dicho Decreto, para expedir las modificaciones reglamentarias y administrativas necesarias aplicables.
-
-CUARTO.- Las Secretarías del Medio Ambiente y de Desarrollo Económico del Gobierno del Distrito Federal así como las Delegaciones, deberán diseñar e implementar una campaña permanente para dar a conocer a la ciudadanía en general, la forma de operación y participación en los sistemas de intercambio de residuos sólidos por productos en especie tratados en el presente Decreto; previéndose las partidas presupuestales pertinentes para llevar a cabo las mencionadas acciones en medios electrónicos e impresos.
-
-QUINTO.- La Secretaría de Medio Ambiente del Gobierno del Distrito Federal, deberá solicitar la suficiencia presupuestal suficiente con el fin de iniciar y hacer cumplir las modificaciones que indica el presente Decreto.
-
-G.O. 2 DE NOVIEMBRE DE 2017.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL”.]
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente hábil de su publicación en la Gaceta Oficial de la Ciudad de México.
-
-SEGUNDO. Publíquese en la Gaceta Oficial de la Ciudad de México, para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
-
-G.O. 26 DE ABRIL DE 2019.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 57 DE LA LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL".]
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
-
-SEGUNDO.- Dentro de un plazo de 90 días naturales, posteriores a la entrada en vigor del presente Decreto, el Gobierno de la Ciudad de México deberá realizar las adecuaciones reglamentarias y normativas con la finalidad de dar cumplimiento al mismo.
-
-TERCERO.- El Gobierno de la Ciudad de México, las Alcaldías, el Congreso de la Ciudad de México, el Tribunal Superior de Justicia de la Ciudad de México y demás órganos autónomos, cubrirán las erogaciones que, en su caso se generen con motivo de la entrada en vigor del presente decreto con cargo al presupuesto aprobado por el Congreso de la Ciudad de México para el presente ejercicio fiscal y los subsecuentes.
-
-G.O. 25 DE JUNIO DE 2019.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN LAS FRACCIONES IV BIS, VIII BIS, XXIII BIS, XXVI BIS, XXVI TER, XXVI QUATER AL ARTÍCULO 3 Y UNA FRACCIÓN XI BIS AL ARTICULO 6; ASIMISMO, SE REFORMAN LAS FRACCIONES VI DEL ARTÍCULO 3, XI DEL ARTICULO 6 Y XI BIS DEL ARTICULO 25, TODAS EN LA LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL".]
-
-Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno de la Ciudad de México.
-
-Segundo. Dentro de los doce meses siguientes a la publicación del presente Decreto, la Secretaría de Medio Ambiente de la Ciudad de México, realizará la actualización y armonización de la normatividad aplicable en materia de Residuos Sólidos en la Ciudad de México, así como de los criterios de producción y consumo sustentable de los productos plásticos biodegradables y de los compostables.
-
-Asimismo, dentro de los 180 días siguientes a la publicación del presente decreto, la Secretaría de Medio Ambiente de la Ciudad de México iniciará la elaboración de la Norma Ambiental para la producción y consumo sustentable de los productos plásticos biodegradables y de los compostables.
-
-Tercero. Las modificaciones al Artículo 25 fracción XI BIS surtirán efecto de acuerdo al siguiente calendario.
-
-La prohibición de:
-
-La comercialización, distribución y entrega de bolsas de plástico al consumidor, en los puntos de venta de bienes o productos, excepto si son compostables. Se excluyen, las bolsas de plástico necesarias por razones de higiene o que prevengan el desperdicio de alimentos siempre y cuando no existan alternativas de plástico compostable, a partir de 2020.
-
-La comercialización, distribución y entrega de tenedores, cuchillos, cucharas, palitos mezcladores, platos, popotes o pajitas, bastoncillos para hisopos de algodón, globos y varillas para globos, vasos y sus tapas, charolas para transportar alimentos, aplicadores de tampones, fabricados total o parcialmente de plásticos, diseñados para su desecho después de un solo uso, excepto los que sean compostables, a partir del 1 de enero de 2021.
-
-La comercialización, distribución y entrega de productos que contengan microplásticos añadidos intencionalmente, a partir del 1 enero de 2021.
-
-La comercialización, distribución y entrega de cápsulas de café de un solo uso fabricadas con materiales plásticos de bajo potencial de aprovechamiento, a partir del 1 enero de 2021.
-
-Cuarto. A partir de la publicación del presente Decreto, la Secretaría de Medio Ambiente de la Ciudad de México iniciará, promoverá e implementará programas de cultura ambiental y concientización dirigidos a la ciudadanía sobre el impacto negativo del abuso en el consumo de los plásticos de un solo uso, y las alternativas que existen para evitarlo, incluyendo su reutilización y reciclaje. Para tal efecto el Congreso de la Ciudad de México, deberá considerar en el Presupuesto de Egresos una partida suficiente para llevar a cabo dichas acciones.
-
-Quinto. La Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México deberá instrumentar dentro de los 180 días posteriores a la publicación del presente decreto, un programa de asesoramiento a los productores de plástico de un solo uso, a efecto de que realicen una reconversión tecnológica, en la que se desarrollen alternativas de plásticos compostables. Para tal efecto se deberá prever en el Presupuesto de Egresos una partida suficiente para llevar a cabo dichas acciones.
-
-Sexto. Se derogan todas aquellas disposiciones que contravengan el contenido del presente decreto.
-
-G.O. 18 DE ABRIL DE 2022.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO A LA FRACCIÓN X DEL ARTÍCULO 6 DE LA LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL".]
-
-Primero.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
-
-Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
-
-G.O. 21 DE OCTUBRE DE 2022.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN VIII BIS AL ARTÍCULO 42 DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 3º; SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 34, AMBOS DE LA LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL”.]
-
-PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
-
-SEGUNDO. El presente Decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
-
-G.O. 21 DE OCTUBRE DE 2022.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICAN LAS FRACCIONES XVII Y XVIII DEL ARTÍCULO 6; LA FRACCIÓN XIX Y LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 11; EL ARTÍCULO 33 BIS; Y SE ADICIONA UNA FRACCIÓN XIX AL ARTÍCULO 6; ASÍ COMO UNA FRACCIÓN XIX BIS AL ARTÍCULO 11, TODOS DE LA LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL”.]
-
-PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
-
-SEGUNDO. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
-
-TERCERO. El Gobierno de la Ciudad de México emitirá los lineamientos necesarios para instrumentar el presente Decreto en un plazo no mayor a 120 días naturales. Dado a los 30 días del mes de agosto de 2022 y firmado para constancia y conformidad de los integrantes de la Comisión de Preservación del Medio Ambiente, Cambio Climático y Protección Ecológica.
-
-G.O. 3 DE ABRIL DE 2023.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA EL ARTÍCULO 1; SE MODIFICA LA FRACCIÓN IV Y SE ADICIONAN LAS FRACCIONES VII BIS, XXIII BIS, XXIII TER, XXIII QUATER, XXV BIS, XXV TER, XXV QUATER, XXXIII BIS Y XLII BIS DEL ARTÍCULO 3; SE MODIFICA LA FRACCIÓN IV Y SE ADICIONAN LAS FRACCIONES VII BIS, VII TER, VIII BIS DEL ARTÍCULO 6; SE ADICIONA LA FRACCIÓN VIII BIS DEL ARTÍCULO 7; SE MODIFICA EL ARTÍCULO 24 Y SE ADICIONA UNA FRACCIÓN III BIS; SE MODIFICA EL ARTÍCULO 26; SE ADICIONAN LOS ARTÍCULO 26 TER Y 32 BIS; SE MODIFICA EL ARTÍCULO 42 BIS Y SE MODIFICA LA FRACCIÓN IV DEL ARTÍCULO 69; TODOS DE LA LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL”.]
-
-Primero. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
-
-Segundo. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
-
-Tercero. La Secretaría de Obras y Servicios de la Ciudad de México tendrá un plazo de 90 días, contados a partir de la entrada en vigor del presente Decreto, para actualizar y armonizar la normatividad aplicable y el tabulador de precios para especificar los conceptos que deberán incorporar materiales reciclados y eliminar aquellos que contemplen el uso de materiales de minas.
-
-Cuarto. La Secretaría del Medio Ambiente de la Ciudad de México tendrá un plazo de 90 días, contados a partir de la entrada en vigor del presente Decreto, para actualizar y armonizar la normatividad aplicable en materia de Residuos Sólidos en la Ciudad de México.
-
-Quinto. La Secretaría del Medio Ambiente de la Ciudad de México tendrá un plazo de 90 días, contados a partir de la entrada en vigor del presente Decreto, para establecer y aplicar las bases para la implementación de la plataforma digital de trazabilidad para la gestión integral de los residuos de la construcción y demolición. La plataforma será supervisada y vigilada por la misma.
-
-Sexto. La Plataforma digital de trazabilidad deberá garantizar la trazabilidad en todas las fases del proceso de gestión de los residuos de manejo especial. La plataforma deberá contar con la información necesaria y en su caso información adicional.
-
-G.O. 18 DE JULIO DE 2024.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 65 DE LA LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL; SE DEROGAN LOS ARTÍCULOS 221, 222, 223 Y 224 DEL CAPÍTULO VI DEL TÍTULO SÉPTIMO DE LA LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN LA CIUDAD DE MÉXICO; SE EXPIDE LA LEY DE RESPONSABILIDAD AMBIENTAL DE LA CIUDAD DE MÉXICO”.]
-
-PRIMERO. Remítase el presente Decreto a la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
-
-TERCERO. El Reglamento de la presente Ley se expedirá en un plazo máximo de 180 días hábiles contados a partir de la entrada en vigor del presente Decreto.
-
-CUARTO. El Consejo de la Judicatura del Poder Judicial de la Ciudad de México definirá el número de Juzgados Civiles de Proceso Oral y Salas de lo Civil especializados en materia ambiental, de acuerdo con las necesidades y el presupuesto con el que cuente.
-
-QUINTO. El Consejo de la Judicatura del Poder Judicial de la Ciudad de México definirá el número de Juzgados Penales y Salas de lo Penal especializados en materia ambiental, que conozcan de los procedimientos derivados de la comisión de delitos contra el ambiente, la gestión ambiental y los que atenten en contra de los elementos artificiales del ambiente en la Ciudad de México, de acuerdo con las necesidades y el presupuesto con el que cuente.
-
-SEXTO. En tanto entra en vigor en la Ciudad de México el Código Nacional de Procedimientos Civiles y Familiares, se seguirán aplicando supletoriamente las disposiciones de la legislación en materia de procedimientos civiles vigente en la Ciudad de México, de conformidad con el artículo 9 del presente Decreto.
-
-G.O. 27 DE AGOSTO DE 2025.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN UNA FRACCIÓN XXXVII BIS AL ARTÍCULO 3; LAS FRACCIONES IX BIS; X BIS Y XI BIS 1 AL ARTÍCULO 6 Y LAS FRACCIONES XV BIS Y XV BIS 1 AL ARTÍCULO 10, ASIMISMO, SE REFORMA EL PRIMER PÁRRAFO AL ARTÍCULO 10, TODOS DE LA LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL”.]
-
-PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
-
-SEGUNDO. El presente Decreto entrará en vigor a los 365 días siguientes de su publicación en la Gaceta Oficial de la Ciudad de México.
-
-TERCERO. Dentro de los 180 días siguientes a la publicación del presente Decreto, el Gobierno de la Ciudad de México realizará la actualización y armonización reglamentaria correspondiente.
-
-CUARTO. Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
-
-G.O. 24 DE OCTUBRE DE 2025.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 3º, FRACCIONES XV BIS, XIX, XXI, XXVIII, Y XLI; 4º, FRACCIONES I Y VI; 5º, FRACCIONES II Y V; 6º, FRACCIONES V Y VIII; 7º, FRACCIONES XIII Y XIV; 8º; 10 BIS; 10 BIS 1, FRACCIONES IV, V, VII, Y SEGUNDO Y CUARTO PÁRRAFOS; 10 BIS 2, FRACCIONES I, IV, VII, VIII Y X; 13; 15; 15 BIS PÁRRAFOS PRIMERO Y SEGUNDO; 16; 20; 25, FRACCIÓN XIII Y ÚLTIMO PÁRRAFO; 29, FRACCIÓN II; 31 PRIMER PÁRRAFO; 36, PRIMER PÁRRAFO; 36 BIS; 36 QUATER, FRACCIONES I, II, III Y ÚLTIMO PÁRRAFO; 38, ÚLTIMO PÁRRAFO¸ 42; 42 TER; 46, PRIMER PÁRRAFO; 48, PÁRRAFO TERCERO; 51, SEGUNDO PÁRRAFO; 64; 66, ÚLTIMO PÁRRAFO; 70, FRACCIÓN V, Y 74, ASÍ COMO LA DENOMINACIÓN DE LA LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL”.]
-
-PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
