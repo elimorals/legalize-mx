@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-deuda-publica-del-estado-de-tabasco-y-sus-municipios-486
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2019-12-21"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY DE DEUDA PUBLICA DEL ESTADO DE TABASCO Y SUS MUNICIPIOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE DEUDA PÚBLICA DEL ESTADO DE TABASCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el sábado 31 de diciembre de 2005.
 
@@ -33,7 +35,7 @@ Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
 
 LA QUINCUAGESIMA OCTAVA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 36 FRACCIONES I Y XXXIX DE LA CONSTITUCION POLITICA LOCAL; Y
 
-...
+[...]
 
 DECRETO 0103
 
@@ -75,93 +77,177 @@ IV. Las Empresas de Participación Estatal o Municipal Mayoritaria; y
 
 V. Los Fideicomisos en el que el Fideicomitente sea alguno de los Entes Públicos señalados en las fracciones anteriores.
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 3.
 
-Para los efectos de esta Ley además de los conceptos del glosario establecido en los artículos 2 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios; y 3 de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Tabasco, se entenderá por:
+Para los efectos de esta Ley además de los conceptos del glosario establecido en los artículos 2 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios; y 3 de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Tabasco y sus Municipios, se entenderá por:
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
 I. Aportaciones Federales: las aportaciones que en ingresos federales correspondan al Estado y a los Municipios conforme a lo establecido en la Ley de Coordinación Fiscal y demás ordenamientos aplicables;
 
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
 II. Asociaciones Público-Privadas: las previstas en la Ley de Asociaciones Público Privadas del Estado de Tabasco y sus Municipios;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
 III. Ayuntamiento: la autoridad encargada de ejercer el gobierno de cada Municipio;
 
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
 IV. Balance presupuestario: la diferencia entre los Ingresos totales incluidos en la Ley de Ingresos, y los Gastos totales considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
 V. Balance presupuestario de recursos disponibles: la diferencia entre los Ingresos de libre disposición, incluidos en la Ley de Ingresos, más el Financiamiento Neto y los Gastos no etiquetados considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda;
 
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
 VI. Congreso del Estado: el Congreso del Estado Libre y Soberano de Tabasco;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VI bis. Constitución Política del Estado: la Constitución Política del Estado Libre y Soberano de Tabasco;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
 VII. Deuda Contingente: cualquier Financiamiento sin fuente o garantía de pago definida, que sea asumida de manera solidaria o subsidiaria por El Estado de Tabasco con sus Municipios, organismos descentralizados y empresas de participación estatal mayoritaria y fideicomisos, locales o municipales y, por los propios Municipios con sus respectivos organismos descentralizados y empresas de participación municipal mayoritaria;
 
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
 VIII. Deuda Estatal Garantizada: el Financiamiento del Estado de Tabasco y de sus Municipios, con garantía del Gobierno Federal, de acuerdo con lo establecido en el Capítulo IV del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
 IX. Deuda Pública: Cualquier financiamiento contratado por entes públicos del Estado de Tabasco y sus municipios
 
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
 X. Disciplina Financiera: la observancia de los principios y las disposiciones en materia de responsabilidad hacendaria y financiera, la aplicación de reglas y criterios en el manejo de recursos y contratación de Obligaciones por los Entes Públicos, que aseguren una gestión responsable y sostenible de sus finanzas públicas, generando condiciones favorables para el crecimiento económico y el empleo y la estabilidad del sistema financiero;
 
-XI. Ejecutivo del Estado: el Gobernador Constitucional del Estado de Tabasco;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XI. Ejecutivo del Estado: el Gobernador o Gobernadora del Estado Libre y Soberano de Tabasco;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
 XII. Endeudamiento Neto Estatal: es el resultado de restar a las contrataciones de financiamientos las amortizaciones pagadas en el mismo ejercicio fiscal;
 
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
 XIII. Endeudamiento Neto Municipal: es el resultado de restar a las contrataciones de, financiamientos las amortizaciones pagadas en el mismo ejercicio fiscal;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
 XIV. Entes Públicos: los poderes Ejecutivo, Legislativo y Judicial, los organismos autónomos de las Entidades Federativas; los Municipios; los organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos de las Entidades Federativas y los Municipios, así como cualquier otro ente sobre el que las Entidades Federativas y los Municipios tengan control sobre sus decisiones o acciones.
 
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
 XV. Entidades Paraestatales: los organismos públicos descentralizados estatales, las empresas de participación estatal mayoritaria y los fideicomisos públicos estatales;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
 XVI. Entidades Paramunicipales: los organismos públicos descentralizados municipales, las empresas de participación municipal mayoritaria y los fideicomisos públicos municipales;
 
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
 XVII. Estado: el Estado Libre y Soberano de Tabasco;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
 XVIII. Fideicomisos: Son aquéllos que por contrato o mediante acuerdo expreso constituyen el Estado o los Municipios, con el propósito de que sirvan de auxilio en el ejercicio de las atribuciones legales que tienen conferidas cada uno de ellos para impulsar las áreas prioritarias del desarrollo;
 
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
 XIX. Financiamiento: toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, a cargo de los Entes Públicos, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
 XX. Financiamiento Neto: la diferencia entre las disposiciones realizadas de un Financiamiento y las amortizaciones efectuadas de la Deuda Pública;
 
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
 XXI. Ingresos de libre disposición: los Ingresos locales y las participaciones federales, así como los recursos que, en su caso, reciban del Fondo de Estabilización de los Ingresos de las Entidades Federativas en los términos del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y cualquier otro recurso que no esté destinado a un fin específico;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
 XXII. Ingresos totales: la totalidad de los Ingresos de libre disposición, las Transferencias federales etiquetadas y el Financiamiento Neto;
 
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
 XXIII. Instituciones Financieras: instituciones de crédito, sociedades financieras de objeto múltiple, casas de bolsa, almacenes generales de depósito, uniones de crédito, instituciones de seguros, sociedades mutualistas de seguros, sociedades cooperativas de ahorro y préstamo, sociedades financieras populares y sociedades financieras comunitarias y cualquiera otra sociedad autorizada por la Secretaría o por cualesquiera de las Comisiones Nacionales para organizarse y operar como tales, siempre y cuando la normatividad que les resulte aplicable no les prohíba el otorgamiento de créditos;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
 XXIV. Ley: la presente Ley de Deuda Pública del Estado de Tabasco y sus Municipios;
 
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
 XXV. Ley de Disciplina Financiera: La ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
 XXVI. Línea Global de Financiamiento: Autorización que expide el Congreso del Estado en un solo decreto a favor del Estado y dos o más Municipios, o dos o más Municipios, para la instrumentación de operaciones de Deuda Pública que promuevan estructuras jurídico-financieras, con la intención de obtener mejores condiciones de financiamiento a su favor, respondiendo cada entidad por las obligaciones de deuda que, en su caso, considere conveniente contraer, con características similares para todos los municipios que decidan participar;
 
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
 XXVII. Municipios: los Municipios que integran el Estado conforme al artículo 3 de la Constitución Política del Estado;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
 XXVIII. Obligaciones: los compromisos de pago a cargo de los Entes Públicos derivados de los Financiamientos y de las Asociaciones Público-Privadas;
 
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
 XXIX. Obligaciones a corto plazo: cualquier Obligación contratada con Instituciones financieras a un plazo menor o igual a un año;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
 XXX. Operaciones Financieras de Cobertura: las operaciones que tiendan a evitar o reducir riesgos económico-financieros derivados de la contratación de financiamientos;
 
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
 XXXI. Participaciones Federales: las participaciones que en ingresos federales correspondan al Estado y a los Municipios conforme a lo establecido en la Ley de Coordinación Fiscal y en las demás legislaciones aplicables;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
 XXXII. Reestructuración: la celebración de actos jurídicos que tengan por objeto modificar las condiciones originalmente pactadas en un Financiamiento;
 
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
 XXXIII. Refinanciamiento: la contratación de uno o varios Financiamientos cuyos recursos se destinen a liquidar total o parcialmente uno o más Financiamientos previamente contratados;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
 XXXIV. Registro Estatal: el Registro de Deuda Pública del Estado de Tabasco y sus Municipios;
 
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
 XXXV. Registro Público Único: el Registro para la inscripción de Obligaciones y Financiamientos que contraten los Entes Públicos, previsto en la Ley de Disciplina Financiera;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XXXVI. Secretaría: La Secretaría de Finanzas;
+XXXVI. Secretaría: La Secretaría de Administración y Finanzas;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
 XXXVII. Sistema de Alertas: la publicación hecha por la Secretaría sobre los indicadores de endeudamiento de los Entes Públicos;
 
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
 XXXVIII. Techo de Financiamiento Neto: el límite de Financiamiento Neto anual que podrá contratar un Ente Público, con Fuente de pago de Ingresos de libre disposición. Dicha Fuente de pago podrá estar afectada a un vehículo específico de pago, o provenir directamente del Presupuesto de Egresos, y
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
 XXXIX. Unidades de Inversión: la Unidad de cuenta establecida en el Decreto por el que se establecen las obligaciones que podrán denominarse en Unidades de Inversión y reforma y adición a diversas disposiciones del Código Fiscal de la Federación y de la Ley del Impuesto sobre la Renta publicado en el Diario Oficial de la Federación el 1 de abril de 1995; y
 
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
 XL. Valores: los títulos de crédito o cualesquier otro instrumento de deuda considerado como valor en la Ley del Mercado de Valores y en las demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
 
 A falta de disposición expresa en esta Ley, se aplicarán supletoriamente la Ley de Disciplina Financiera de Estados y Municipios (sic), Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Ley Federal de Deuda Pública, la Ley General de Contabilidad Gubernamental y la Ley de Coordinación Fiscal. Para efectos administrativos, se estará a la interpretación de la Secretaría.
 
@@ -299,7 +385,9 @@ Artículo 8 bis-1. Los Entes Públicos estarán obligados a contratar los Financ
 
 Una vez celebrados los instrumentos jurídicos relativos, a más tardar en los 10 días posteriores a la inscripción en el Registro Público Único, el Ente Público deberá publicar en su página oficial de Internet dichos instrumentos. Asimismo, el Ente Público presentará en los informes trimestrales a que se refiere la Ley General de Contabilidad Gubernamental y en su respectiva cuenta pública, la información detallada de cada Financiamiento u Obligación contraída en los términos de este Capítulo, incluyendo como mínimo, el importe, tasa, plazo, comisiones y demás accesorios pactados.
 
-Adicionalmente a lo anterior, el Ejecutivo del Estado deberá presentar la siguiente información y documentación al Congreso del Estado, por conducto de la Comisión Orgánica de Hacienda y Presupuesto, a más tardar en los 10 días posteriores a la inscripción en el Registro Público Único,
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Adicionalmente a lo anterior, el Ejecutivo del Estado deberá presentar la siguiente información y documentación al Congreso del Estado, por conducto de la Comisión Ordinaria de Hacienda y Finanzas, a más tardar en los 10 días posteriores a la inscripción en el Registro Público Único:
 
 I. Importe del Financiamiento u Obligación;
 
@@ -503,7 +591,9 @@ Artículo 25 bis-1. Los Municipios y sus Entes Públicos estarán obligados a co
 
 Una vez celebrados los instrumentos jurídicos relativos, a más tardar en los 10 días posteriores a la inscripción en el Registro Público Único, el Municipio o Ente Público deberá publicar en su página oficial de Internet dichos instrumentos. Asimismo, deberá presentar en los informes trimestrales a que se refiere la Ley General de Contabilidad Gubernamental y en su respectiva cuenta pública, la información detallada de cada Financiamiento u Obligación contraída en los términos de este Capítulo, incluyendo como mínimo, el importe, tasa, plazo, comisiones y demás accesorios pactados.
 
-Adicionalmente a lo anterior, el Municipio deberá presentar la siguiente información y documentación al Congreso del Estado, por conducto de la Comisión Orgánica de Hacienda y Presupuesto, a más tardar en los 10 días posteriores a la inscripción en el Registro Público Único,
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Adicionalmente a lo anterior, el Municipio deberá presentar la siguiente información y documentación al Congreso del Estado, por conducto de la Comisión Ordinaria de Hacienda y Finanzas, a más tardar en los 10 días posteriores a la inscripción en el Registro Público Único:
 
 I. Importe del Financiamiento u Obligación;
 
@@ -761,11 +851,11 @@ El Titular de la Unidad responsable del Registro Estatal, expedirá las certific
 
 ### Capítulo Único. De las Responsabilidades con relación a la Deuda Pública Estatal y Deuda Pública Municipal
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 51.
 
-Los actos u omisiones que impliquen el incumplimiento a los preceptos establecidos en la Ley de Disciplina Financiera, la presente Ley y demás disposiciones aplicables en la materia, serán sancionados de conformidad con lo previsto en la legislación en materia de responsabilidades administrativas de los servidores públicos y demás disposiciones aplicables, en términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos y del Título Séptimo de la Constitución Política del Estado Libre y Soberano de Tabasco.
+Los actos u omisiones que impliquen el incumplimiento a los preceptos establecidos en la Ley de Disciplina Financiera, la presente Ley y demás disposiciones aplicables en la materia, serán sancionados de conformidad con lo previsto en la legislación en materia de responsabilidades administrativas de los servidores públicos y demás disposiciones aplicables, en términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos y del Título Séptimo de la Constitución Política del Estado.
 
 > <small>(ADICIONADO, P.O. 8 DE MARZO DE 2017)</small>
 
@@ -1002,3 +1092,27 @@ DÉCIMO. Con fundamento en el artículo 116 del Código Fiscal del Estado, se de
 Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
 
 DÉCIMO PRIMERO. Cuando se trate de Impuestos y Derechos municipales en los que se coordine el Estado con los ayuntamientos municipales para que el primero cobre y administre por cuenta del municipio, los descuentos e incentivos fiscales se ajustarán a lo que previamente acuerden las partes.
+
+P.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 190 POR EL QUE "SE REFORMAN: LOS ARTÍCULOS 3, PÁRRAFO PRIMERO, FRACCIONES XI Y XXXVI; 8 BIS-1, PÁRRAFO TERCERO; 25 BIS-1, PÁRRAFO TERCERO; Y 51. SE ADICIONA LA FRACCIÓN VI BIS AL ARTÍCULO 3. TODOS DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE TABASCO Y SUS MUNICIPIOS".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día uno del mes de enero del año dos mil veintiséis, sin perjuicio de lo dispuesto en los artículos transitorios siguientes.
+
+SEGUNDO. Quedan sin efectos todas aquellas disposiciones que se opongan al presente Decreto.
+
+TERCERO. Cuando se disponga por mandato legal de la autoridad competente, tratándose de la transferencia de servicios públicos que preste el Gobierno del Estado y se trasladen a la autoridad municipal o, en su caso, de la municipalización de servicios públicos que el Gobierno del Estado tenga que entregar al Gobierno Municipal que corresponda y por cuyos servicios se establezca en la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2026 el concepto tributario, habrá de considerarse para los fines legales pertinentes, que una vez cumplidas las formalidades del caso, tales contribuciones se entenderán de competencia hacendaria de la autoridad municipal y sin necesidad de un nuevo Decreto habrán de tenerse insertas en el texto de la Ley de Ingresos del Municipio que corresponda o cualquier ordenamiento legal en que así proceda.
+
+Para el caso de aquellas contribuciones de carácter municipal, que mediante convenios sean transferidas al Gobierno del Estado, de conformidad con la Ley de Coordinación Fiscal y Financiera del Estado de Tabasco, se entenderán de la competencia hacendaría estatal y sin necesidad de un nuevo Decreto habrán de tenerse insertadas en el texto de la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2026 o cualquier otro ordenamiento legal en que así proceda.
+
+CUARTO. La Ley de ingresos del Estado de Tabasco para el Ejercicio Fiscal 2026 no contempla los recursos refrendados del ejercicio fiscal 2025, mismos que se reflejarán en el Presupuesto General de Egresos del Estado de Tabasco para el Ejercicio Fiscal 2026.
+
+QUINTO. En el caso de los organismos públicos descentralizados y empresas de participación estatal mayoritaria, firmarán convenios de colaboración con la Secretaría de Administración y Finanzas, para que mediante plataforma web administrada por esa Secretaría, se supervisen e informen en tiempo real sus ingresos por concepto de derechos, productos y aprovechamientos, conforme a los mecanismos y lineamientos que en materia de ingresos se establezcan por esa misma dependencia.
+
+SEXTO. El Registro Estatal de Gestores Vehiculares deberá crearse en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+SÉPTIMO. La Secretaría de Administración y Finanzas, a través de la Subsecretaría de Ingresos, deberá emitir los lineamientos para regular lo concerniente al Registro Estatal de Gestores Vehiculares, dentro de los 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+OCTAVO. Con fundamento en el artículo 116 del Código Fiscal del Estado de Tabasco, se declara la prescripción de los créditos y obligaciones fiscales derivados de las contribuciones por concepto de Impuesto Vehicular Estatal, refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, y canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, así como sus accesorios, anteriores al ejercicio fiscal 2021, que se encuentren en el sistema del Registro Estatal de Vehículos de la Secretaría de Administración y Finanzas, siempre y cuando no hayan sido requeridas por la autoridad fiscal mediante cualquier acción, gestión de cobro o cualquier acto administrativo, o se encuentre suspendido en términos del mismo artículo.
+
+Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco, se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
