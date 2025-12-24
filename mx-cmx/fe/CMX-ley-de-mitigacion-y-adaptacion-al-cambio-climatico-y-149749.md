@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-mitigacion-y-adaptacion-al-cambio-climatico-y-149749"
 country: "mx"
 rank: "ley"
 publication_date: "2021-06-09"
-last_updated: "2023-11-28"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149749&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-06-07"
 
 LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIMÁTICO Y DESARROLLO SUSTENTABLE DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número 614 de la Gaceta Oficial de la Ciudad de México, el miércoles 9 de junio de 2021.
 
@@ -66,7 +66,9 @@ V. Instrumentar los mecanismos que promuevan la participación informada, incluy
 
 VI. Asegurar que las acciones de mitigación y adaptación al cambio climático coadyuven al equilibrio de la biodiversidad, los ecosistemas y sus servicios, para proteger y mejorar la calidad de vida de la población;
 
-VII. Reducir el riesgo y las condiciones de vulnerabilidad de la población en zonas rurales y urbanas, de la infraestructura, de los sistemas productivos y de los ecosistemas, frente a los efectos adversos del cambio climático, mejorar su resiliencia, así como crear y fortalecer las capacidades locales de prevención, acción y respuesta;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VII. Reducir el riesgo y las condiciones de vulnerabilidad de la población en zonas rurales y urbanas, de la infraestructura, de los sistemas productivos y de los ecosistemas, frente a los efectos adversos del cambio climático, mejorar su resiliencia, así como crear y fortalecer las capacidades locales de prevención, acción, adaptación y respuesta empleando el enfoque de análisis interseccional correspondiente;
 
 VIII. Fomentar una cultura ambiental ciudadana, por medio del acceso a (sic) información y promoción de la participación, que favorezca la transformación de patrones, hábitos y costumbres de producción y consumo, amigables con el medio ambiente y la sustentabilidad;
 
@@ -92,13 +94,19 @@ XIV. Desarrollar políticas públicas locales para prevenir y mitigar los efecto
 
 En todo lo no previsto en la presente Ley, se aplicarán de manera supletoria la Ley General de Cambio Climático, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, Tratados Internacionales en los que el Estado Mexicano sea parte, a falta de disposición expresa en ellas, se estará a lo dispuesto en otras leyes, reglamentos, normas y demás ordenamientos jurídicos relacionados al presente ordenamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 4.
 
-Para efectos de esta Ley, se estará a las definiciones de los conceptos que contienen la Ley General de Cambio Climático, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley Ambiental de Protección a la Tierra, así como de la Ley de Gestión Integral de Riesgos y Protección Civil, ambas vigentes en la Ciudad de México, además de las siguientes:
+Para efectos de esta Ley, se estará a las definiciones de los conceptos que contienen la Ley General de Cambio Climático, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley Ambiental, así como de la Ley de Gestión Integral de Riesgos y Protección Civil, ambas vigentes en la Ciudad de México, además de las siguientes:
 
 I. Adaptación: medidas encaminadas a reducir la vulnerabilidad de los sistemas naturales y humanos ante los efectos reales o esperados del cambio climático;
 
 II. Alcaldías: Órganos político-administrativos de cada demarcación territorial de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+II Bis. Análisis interseccional en el cambio climático: Método de análisis que identifica como diferentes individuos y grupos se relacionan de manera diferenciada con el cambio climático debido a su situación en estructuras de poder basadas en categorizaciones sociales dinámicas y específicas del contexto;
 
 III. Atlas de Riesgos: Sistema integral de información de la Ciudad de México, que conjunta los Atlas de Riesgos de las Alcaldías, sobre los daños y pérdidas esperados, resultado de un análisis espacial y temporal, sobre la interacción entre los Peligros, la Vulnerabilidad, la exposición y los Sistemas Expuestos;
 
@@ -142,7 +150,9 @@ XX. Fondo: Fondo Ambiental para el Cambio Climático;
 
 XXI. Fuente: organización, establecimiento o instalación, pública o privada, en donde se realizan actividades industriales, comerciales, agropecuarias, de servicios o aprovechamiento de recursos naturales, procesos, actividades o mecanismos que liberan gases o compuestos de efecto invernadero a la atmósfera;
 
-XXII. Grupos en condiciones de vulnerabilidad ante el cambio climático: aquellos limitados en su capacidad de anticipar, enfrentar, resistir y recuperarse usando sólo sus propios recursos, ante un evento amenazante producto del cambio climático que altera el desarrollo de la sociedad y su entorno;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XXII. Grupos en condiciones de vulnerabilidad ante el cambio climático: aquellos limitados en su capacidad de anticipar, enfrentar, resistir, adaptarse y recuperarse usando sólo sus propios recursos, ante un evento amenazante producto del cambio climático que altera el desarrollo de la sociedad y su entorno;
 
 XXIII. Información ambiental: cualquier información ya sea escrita, visual, electrónica o en forma de base de datos, que emitan o posean las autoridades de la Ciudad de México, en materia de gestión ambiental, bienes, recursos y servicios ambientales, así como de las actividades o medidas que les afectan o pueden afectarles;
 
@@ -151,6 +161,10 @@ XXIV. Infraestructura verde: red planificada e interconectada de espacios verdes
 a) Espacios verdes: todo tipo de zonas verdes, parques, jardines, vegetación de galería, arbolado urbano, azoteas verdes, jardines verticales, y otros elementos físicos de espacios terrestres con cobertura vegetal.; (sic) y
 
 b) Espacios azules: ríos, arroyos, humedales integrados a las (sic) ciudad, terrazas o suelos porosos para captación de aguas, jardines que captan agua de lluvias y las infiltran, y los sistemas de gestión de agua como presas y vasos reguladores.
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XXIV Bis. Interseccionalidad: Intersección entre género y otras categorías diferenciales en la vida de los individuos y grupos sociales específicos, sumado a sus prácticas sociales, prácticas institucionales e ideologías culturales, y los resultados de estas interacciones en términos de poder;
 
 XXV. Instrumentos de mercado: aquellos instrumentos económicos de la Política de la Ciudad de México en materia de cambio climático que modifican el precio de bienes o servicios existentes, o aquellos que crean mercados específicos para la valoración de los servicios de mitigación y adaptación al cambio climático. Son mecanismos de mercado los sistemas de intercambio de emisiones con tope de emisión, los mercados voluntarios de carbono, los programas de subsidios como el pago por servicios ambientales o las tarifas preferenciales para la producción de energía renovable, así como los gravámenes a la generación de emisiones de gases y compuestos de efecto invernadero y otros que se determinen;
 
@@ -550,9 +564,11 @@ XV. Infraestructura verde; y
 
 XVI. Los demás que las autoridades y los instrumentos al efecto estimen prioritarios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 19.
 
-La Administración Pública de la Ciudad de México y las Alcaldías en el ámbito de sus competencias coordinada y estratégicamente seleccionarán, diseñarán e implementarán medidas de adaptación a partir de un análisis multicriterio con perspectivas ecológicas, sociales y económicas que contemple al menos los siguientes criterios de priorización y ponderación:
+La Administración Pública de la Ciudad de México y las Alcaldías en el ámbito de sus competencias coordinada y estratégicamente seleccionarán, diseñarán e implementarán medidas de adaptación a partir de un análisis multicriterio con perspectivas ecológicas, sociales, interseccionales y económicas que contemple al menos los siguientes criterios de priorización y ponderación:
 
 I. Integración y transversalización de la Política de la Ciudad de México en materia de adaptación ante el cambio climático en el conjunto de condiciones, actividades, procedimientos, instancias e instituciones del Sistema de Planeación del Desarrollo de la Ciudad de México;
 
@@ -1475,3 +1491,13 @@ Primero. Remítase a la persona titular de la Jefatura de Gobierno para su promu
 Segundo. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 Tercero. La Secretaría del Medio Ambiente de la Ciudad de México tendrá un plazo de 180 días, contados a partir de la entrada en vigor del presente Decreto, para actualizar y armonizar la normatividad aplicable en materia de Mitigación y adaptación al Cambio Climático y Desarrollo Sustentable de la Ciudad de México.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA Y ADICIONA DIVERSOS PÁRRAFOS Y FRACCIONES DE LA LEY AMBIENTAL DE LA CIUDAD DE MÉXICO, ASÍ COMO DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIMÁTICO Y DESARROLLO SUSTENTABLE DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor el día siguiente al de su publicación.
+
+TERCERO. Las obligaciones que, en su caso, se generen con motivo del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales.
