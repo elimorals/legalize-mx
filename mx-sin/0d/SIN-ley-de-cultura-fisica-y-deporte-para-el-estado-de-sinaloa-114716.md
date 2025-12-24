@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-cultura-fisica-y-deporte-para-el-estado-de-sinaloa-11471
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-18"
-last_updated: "2023-06-21"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 18 de mayo de 2016.
 
@@ -77,11 +77,15 @@ XII. Garantizar que los deportistas con algún tipo de discapacidad no sean obje
 
 El ejercicio y desarrollo del derecho a la cultura física y el deporte tienen como base los siguientes principios:
 
-I. La cultura física y la práctica del deporte son un derecho fundamental para todos;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+I. La cultura física y la práctica del deporte son un derecho fundamental para todos y todas;
 
 II. La cultura física y la práctica del deporte constituyen un elemento esencial de la educación;
 
-III. El derecho a la cultura física y al deporte constituye un estímulo para el desarrollo afectivo, físico, intelectual y social de todos, además de ser un factor de equilibrio y autorrealización;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+III. El derecho a la cultura física y al deporte constituye un estímulo para el desarrollo afectivo, físico, mental, intelectual y social de todas las personas, además de ser un factor de equilibrio y autorrealización;
 
 IV. Los programas en materia de cultura física y deporte deben responder a las necesidades individuales y sociales, existiendo una responsabilidad pública en el fomento cualitativo y cuantitativo de la cultura física y el deporte;
 
@@ -110,6 +114,30 @@ XII. La existencia de una adecuada cooperación a nivel estatal es necesaria par
 XIII. Fomentar actitudes solidarias, propiciar la cultura de paz, de la legalidad y la no violencia en cualquier tipo de sus manifestaciones.
 
 La presente Ley reconoce al deporte en todas sus modalidades y categorías, incluyendo al desarrollado por el sector estudiantil, al deporte para personas con discapacidad y al deporte para personas adultas mayores en plenitud.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Artículo 3 BIS. Se consideran principios rectores en observancia, interpretación y aplicación de esta Ley:
+
+I. Igualdad sustantiva: Derecho al acceso al mismo trato y oportunidades en el ámbito deportivo; para su reconocimiento, goce o ejercicio de sus derechos humanos y libertades fundamentales sin discriminación, en atención especial a los grupos más vulnerables;
+
+II. Inclusión: Derecho de todas las personas a las mismas oportunidades de practicar la cultura física y deporte independientemente de su género, orientación e identidad sexual, cultura, religión, edad, entre otras;
+
+III. Individualidad: Se tendrá la capacidad de adaptación de cada plan de ejercicio a cada una y uno de los deportistas, en consideración con su recorrido deportivo y sus perspectivas del futuro;
+
+IV. No discriminación: Derecho de todas y todos los deportistas a ser tratadas de manera igualitaria, sin exclusión, distinción o restricción arbitraria, protegiendo y garantizando el derecho a la dignidad humana;
+
+V. Participación activa: Derecho de todas y todos los deportistas a la oportunidad, los medios, el espacio y el apoyo necesario para intervenir en las actividades, cultura física y deporte;
+
+VI. Progresión: Aumento de tensión psíquica, de volumen y la intensidad de los ejercicios de entrenamiento realizados en el entrenamiento deportivo, generando resultados satisfactorios;
+
+VII. Resiliencia: Habilidad de afrontamiento y fortaleza mental que contribuye a la recuperación de lesiones físicas y mentales en beneficio de un alto rendimiento;
+
+VIII. Respeto: Reconocimiento del libre desarrollo de las y los deportistas, garantizando un trato digno por su personalidad individual y colectiva;
+
+IX. Responsabilidad: Capacidad de las y los deportistas de asumir consecuencias y decisiones en beneficio individual y colectivo; y
+
+X. Trabajo en equipo: Habilidad de las y los deportistas para fortalecer la identidad grupal, así como mejorar la comunicación y el potencial colectivo.
 
 ###### Artículo 4.
 
@@ -183,7 +211,11 @@ El Estado y los Municipios fomentarán la activación física, cultura física y
 
 ###### Artículo 7.
 
-El Estado y los Municipios en el ámbito de sus respectivas competencias, promoverán el adecuado ejercicio del derecho de todas y todos los sinaloenses a la cultura física y a la práctica del deporte.
+El Estado y los Municipios en el ámbito de sus respectivas competencias, promoverán el adecuado ejercicio del derecho de todas y todos los sinaloenses a la cultura física y a la práctica del deporte..
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Asimismo, deberán priorizar y fomentar la salud física y mental de las y los deportistas, para lo cual realizarán capacitaciones, talleres, cursos en modalidad presencial o virtual, en materia de salud mental y la identificación de trastornos mentales, en beneficio de las y los deportistas.
 
 ###### Artículo 8.
 
@@ -193,11 +225,15 @@ Las Dependencias y Entidades de la Administración Pública Estatal en el ámbit
 
 En el Plan Estatal de Desarrollo se deberá incorporar el desarrollo de la cultura física y el deporte, considerando las disposiciones previstas en la Ley General y la presente Ley.
 
-### Capítulo II. De los Derechos y Obligaciones de los Deportista (sic)
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+### Capítulo II. De los Derechos y Obligaciones de las y los Deportistas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 10.
 
-Son derechos del deportista:
+Son derechos de las y los deportistas:
 
 I. Practicar el o los deportes de su elección, utilizando las instalaciones deportivas de propiedad estatal o municipal, en los términos de Ley;
 
@@ -215,9 +251,17 @@ VII. Ejercer su derecho de voto en el seno de su asociación u organización a l
 
 VIII. Desempeñar cargos directivos, siempre y cuando haya sido elegido en asamblea de clubes, ligas, consejos deportivos, asociaciones y federaciones deportivas;
 
-IX. Solicitar en los términos y condiciones de la normatividad aplicable, toda clase de estímulos en becas, premios, reconocimientos y recompensas en dinero o en especie; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-X. Las demás que les otorgue la Ley General, la presente Ley, su Reglamento y las demás disposiciones legales aplicables.
+IX. Solicitar en los términos y condiciones de la normatividad aplicable, toda clase de estímulos en becas, premios, reconocimientos y recompensas en dinero o en especie;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+X. Recibir asistencia física y mental, sólo en los casos en que estén adscritos al ISDE y al SIEDE; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XI. Las demás que les otorgue la Ley General, la presente Ley, su Reglamento y las demás disposiciones legales aplicables.
 
 ###### Artículo 11.
 
@@ -245,9 +289,11 @@ X. Utilizar el equipamiento oficial, los medios de transporte y el alojamiento d
 
 XI. Las demás que les otorgue la Ley General, la presente Ley, su Reglamento y las demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 12.
 
-El ISDE mediante los mecanismos administrativos y presupuestales y de acuerdo con su capacidad financiera, deberá garantizar que los deportistas adscritos a su cargo y responsabilidad formativa, educativa y representativa, de quienes practiquen alguna actividad deportiva oficialmente reconocida por el Programa Estatal, cuenten con la seguridad médica, nutrimental, seguro de vida, lesiones e invalidez, de conformidad con lo establecido en el Reglamento de la Ley y demás disposiciones aplicables.
+El ISDE mediante los mecanismos administrativos y presupuestales y de acuerdo con su capacidad financiera, deberá garantizar que las y los deportistas adscritos a su cargo y responsabilidad formativa, educativa y representativa, de quienes practiquen alguna actividad deportiva oficialmente reconocida por el Programa Estatal, cuenten con la seguridad médica, salud mental, nutrimental, seguro de vida, lesiones e invalidez, de conformidad con lo establecido en el Reglamento de la Ley y demás disposiciones aplicables.
 
 ## Título Segundo. De los Sistemas de Cultura Física y Deporte, y de los Sectores Público, Social y Privado
 
@@ -300,6 +346,10 @@ VII. Garantizar el acceso a los jóvenes a la práctica deportiva y al disfrute 
 VIII. Promover y garantizar la práctica del deporte en los jóvenes, ya sea como medio para aprovechar productivamente el tiempo libre o como profesión; y
 
 IX. Las demás que les otorgue la Ley General, la presente Ley, su Reglamento y las demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+En todas las políticas, planes y programas, se deberá de fomentar, promover y estimular la salud física y mental de las y los deportistas, como el respeto, la no discriminación y la inclusión e igualdad sustantiva, en atención especial a los grupos vulnerables, como lo son las mujeres, personas adultas mayores, personas con discapacidad y personas de la comunidad LGBTTTIQ. Además, deberá de considerar implementar el uso de un lenguaje incluyente y no sexista.
 
 ###### Artículo 17.
 
@@ -937,9 +987,11 @@ El ISDE promoverá en coordinación con la SEPyC y las autoridades federales dep
 
 El ISDE coordinará las acciones necesarias a fin de que los integrantes del SIEDE obtengan los beneficios que por el desarrollo e investigación en estas ciencias se adquieran.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 83.
 
-Los deportistas integrantes del SIEDE tendrán derecho a recibir atención médica. Para tal efecto, las autoridades estatales y municipales promoverán los mecanismos de concertación con las instituciones públicas o privadas que integren el sector salud.
+Las y los deportistas integrantes del SIEDE tendrán derecho a recibir atención médica y salud mental. Para tal efecto, las autoridades estatales y municipales promoverán los mecanismos de concertación con las instituciones públicas o privadas que integren el sector salud.
 
 Los deportistas y los entrenadores que integren el padrón de deportistas de alto rendimiento dentro del Registro Estatal, así como aquellos considerados como talentos deportivos que integren selecciones estatales, contarán con el derecho establecido en el párrafo anterior.
 
@@ -1466,3 +1518,11 @@ P.O. 21 DE JUNIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. El Titular del Poder Ejecutivo del Estado deberá emitir las modificaciones a las disposiciones reglamentarias que deriven del presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 269 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
