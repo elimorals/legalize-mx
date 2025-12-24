@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-132071"
 country: "mx"
 rank: "codigo"
 publication_date: "2018-12-31"
-last_updated: "2024-12-28"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "CHH"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE ENERO DE 2026 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Código publicado en el Folleto Anexo al Número 104 del Periódico Oficial del Estado de Chihuahua, el lunes 31 de diciembre de 2018.
 
@@ -405,15 +407,21 @@ Para que sea procedente la previsión anterior, será necesario que la entidad p
 
 Para cubrir los gastos públicos y demás obligaciones a su cargo, el Estado percibirá, en cada ejercicio fiscal, los ingresos establecidos en la Ley de Ingresos para el Estado. Solo mediante Ley podrá destinarse una contribución a un gasto público específico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 38.
 
-Para efectos de las disposiciones fiscales, son contribuciones los impuestos, las contribuciones especiales, y los derechos, las que se definen como:
+Para efectos de las disposiciones fiscales, son contribuciones los impuestos, las contribuciones de mejoras, los derechos y las aportaciones de seguridad social, las que se definen como:
 
 I. Impuestos: Son las contribuciones establecidas en ley que deben pagar las personas físicas y morales que se encuentran en la situación jurídica o de hecho prevista por la misma y que sean distintas de las aportaciones de seguridad social, contribuciones de mejoras y derechos.
 
 II. Contribuciones de mejoras: Son las establecidas en Ley a cargo de las personas físicas y morales que se beneficien de manera directa por obras públicas.
 
 III. Derechos: Son las contribuciones establecidas en Ley por el uso o aprovechamiento de los bienes del dominio público, así como por recibir servicios que presta el Estado en sus funciones de derecho público, excepto cuando se presten por organismos descentralizados u órganos desconcentrados cuando en este último caso, se trate de contraprestaciones que no se encuentren previstas en las Leyes Fiscales respectivas. También son derechos las contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del Estado.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IV. Aportaciones de Seguridad Social: Son las contribuciones establecidas en Ley a cargo de personas que son sustituidas por el Estado en el cumplimiento de obligaciones fijadas por la Ley en materia de seguridad social o a las personas que se beneficien en forma especial por servicios de seguridad social proporcionados por el mismo Estado.
 
 Los recargos, las sanciones impuestas por autoridades fiscales y la indemnización a que se refiere el artículo 26 de este Código son accesorios de las contribuciones y participan de la naturaleza de estas.
 
@@ -733,9 +741,11 @@ Las promociones o instancias, así como las peticiones que formulen los interesa
 
 Cuando la autoridad requiera al promovente para que cumpla los requisitos que hubiere omitido en su promoción, o proporcione los elementos necesarios para resolver, este contará con un término de diez días para cumplir dicho requerimiento. En este caso, el plazo para que las autoridades fiscales resuelvan, comenzará a correr desde que el requerimiento haya sido cumplido. En caso que no se dé cumplimiento al requerimiento en el plazo señalado se tendrá por no presentada la promoción o instancia respectiva.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 56.
 
-Las resoluciones administrativas en materia fiscal de carácter individual favorables a un particular, solo podrán ser modificadas por el Tribunal mediante juicio iniciado por las autoridades fiscales.
+Las resoluciones administrativas en materia fiscal de carácter individual favorables a un particular, solo podrán ser modificadas por el Tribunal Estatal de Justicia Administrativa mediante juicio iniciado por las autoridades fiscales.
 
 ###### Artículo 57.
 
@@ -801,7 +811,9 @@ La Secretaría establecerá mediante Reglas de carácter general los avisos que 
 
 A fin de realizar las aclaraciones pertinentes sin ejercer los medios de impugnación previstos en las disposiciones legales, los particulares podrán acudir mediante escrito libre que entregarán personalmente ante las autoridades fiscales que hubiesen emitido la resolución que se pretende aclarar, dentro de un plazo de seis días siguientes a aquel en que haya surtido efectos la notificación de las resoluciones a que se refiere el artículo 97 de este Código, así como en los demás casos que la autoridad fiscal determine mediante Reglas.
 
-La promoción realizada en términos del párrafo anterior, deberá ser resuelta por la autoridad en un plazo de quince días contados a partir de aquel en que se hubiese presentado conjuntamente con la información y documentos que la autoridad haya establecido en las Reglas aplicables.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+La promoción realizada en términos del párrafo anterior, deberá ser resuelta por la autoridad en un plazo de tres meses contados a partir de aquel en que se hubiese presentado conjuntamente con la información y documentos que la autoridad haya establecido en las Reglas aplicables.
 
 Lo previsto en este artículo no constituye instancia, ni interrumpe ni suspende los plazos para que los particulares puedan interponer los medios de defensa.
 
@@ -1119,11 +1131,19 @@ Asimismo, con la finalidad de fortalecer la administración y recaudación de lo
 
 La condonación o reducción de impuestos solamente podrá concederse por decreto del Congreso del Estado expedido con aplicación general, y únicamente en los casos en que por fuerza mayor o por accidentes naturales ocurridos en el Estado, los causantes hayan sufrido perjuicios considerables que afecten tanto su situación económica como los diversos elementos que haya tenido en cuenta la ley para establecer los impuestos de que se trate. Sin embargo, tratándose de rezagos, o sea de impuestos que se perciban en años posteriores al en que el crédito se haya generado, el Gobernador del Estado y el Secretario de Hacienda, podrán condonarlos o reducirlos cuando lo consideren justo y equitativo en los términos de la fracción XXV del artículo 93 de la Constitución Política del Estado. El acuerdo en que se autorice esta medida deberá precisar su aplicación y alcance, así como la región o regiones en cuyo beneficio se dicte y será publicado en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 88-A.
 
-La Secretaría de Hacienda, una vez apreciados discrecionalmente los motivos que tuvo la autoridad para la imposición de sanciones y las demás circunstancias del caso, podrá condonar las multas por infracciones a las disposiciones fiscales y la indemnización por falta de pago inmediato de un cheque expedido para cubrir un crédito fiscal; así mismo, podrán ser condonados los derechos por servicios que preste el Estado. Las condonaciones anteriormente mencionadas solo podrán realizarse de manera particular en cada caso que específicamente le sea planteado a la Secretaría mencionada, y nunca con efectos generales, salvo los casos en que la Secretaría elabore y ejecute programas tendientes a incrementar los ingresos del Estado. Contra estas resoluciones no cabrá recurso alguno.
+La Secretaría de Hacienda, una vez apreciados discrecionalmente los motivos que tuvo la autoridad para la imposición de sanciones y las demás circunstancias del caso, podrá condonar las multas por infracciones a las disposiciones fiscales y la indemnización por falta de pago inmediato de un cheque expedido para cubrir un crédito fiscal; así mismo, podrán ser condonados los derechos por servicios que preste el Estado. Las condonaciones anteriormente mencionadas solo podrán realizarse de manera particular en cada caso que específicamente le sea planteado a la Secretaría mencionada, y nunca con efectos generales, salvo los casos en que la Secretaría elabore y ejecute programas tendientes a incrementar los ingresos del Estado.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+La solicitud de condonación de multas dará lugar a la suspensión del procedimiento administrativo de ejecución, si así se pide y se garantiza el interés fiscal.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+La solicitud de condonación, no procede respecto de multas que ya hubieran sido pagadas, y no constituirá instancia, por tanto, las resoluciones que dicte la Secretaría al respecto, no podrán ser impugnadas por los medios de defensa que establece este Código.
 
 ###### Artículo 88-B.
 
@@ -2429,6 +2449,10 @@ III. Designar en términos de las disposiciones aplicables los bienes sobre los 
 
 IV. El depositario de los bienes embargados deberá manifestar en el acta respectiva la aceptación del cargo y designar el domicilio en que realizará la guarda y custodia de los mismos.
 
+> <small>(ADICIONADO [N. DE E. PERTENECE A LA FRACCIÓN IV], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Cuando éste se niegue a manifestar el domicilio, será señalado por el personal designado para la ejecución.
+
 ###### Artículo 173.
 
 Las controversias que surjan entre el Fisco Estatal y los municipales, relativos al derecho de preferencia para recibir el pago de los créditos fiscales, se resolverán por los Tribunales Judiciales del Estado, tomando en cuenta las garantías constituidas y conforme a lo siguiente:
@@ -2459,6 +2483,10 @@ II. Por la de embargo, incluyendo el señalado en la fracción V del artículo 1
 
 III. Por la de remate, enajenación fuera de remate o adjudicación al Fisco Estatal.
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IV. Por cada uno de los citatorios que sea (sic) necesarios realizar para la práctica de las diligencias anteriores.
+
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
 Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a ocho Unidades de Medida y Actualización, se cobrará esta cantidad.
@@ -2477,11 +2505,13 @@ Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo p
 
 Los ingresos recaudados por concepto de gastos de ejecución, se destinarán a la autoridad fiscal para: el otorgamiento de incentivos a la productividad; financiar programas de formación de funcionarios fiscales; la adquisición, adecuación y renta de bienes y la contratación de servicios destinados a mejorar la administración tributaria y la atención al contribuyente; financiar programas de fomento con el público en general respecto del cumplimiento de las obligaciones fiscales; así mismo para cubrir los gastos de cobranza; salvo que por ley estén destinados a otros fines. El destino de estos ingresos será con independencia del presupuesto que para los fines correspondientes tengan asignado las autoridades fiscales estatales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 176.
 
-No se ejecutarán los actos administrativos cuando se garantice el interés fiscal cumpliendo con los requisitos establecidos en este Código; tampoco se ejecutará el acto que determine un crédito fiscal hasta que venza el plazo establecido en ley para su cumplimiento. Si después de iniciado el procedimiento administrativo de ejecución y cuando ya se hubiera trabado embargo sobre bienes del deudor, se garantizan por el contribuyente en los términos de este Código, los créditos fiscales adeudados, a petición de este, se podrá levantar el embargo correspondiente.
+No se ejecutarán los actos administrativos cuando se garantice el interés fiscal cumpliendo con los requisitos establecidos en este Código; tampoco se ejecutará el acto que determine un crédito fiscal hasta que venza el plazo establecido en ley para su cumplimiento. Si después de iniciado el procedimiento administrativo de ejecución y cuando ya se hubiera trabado embargo sobre bienes del deudor, se garantizan por el contribuyente en los términos de este Código, los créditos fiscales adeudados, a petición de este, se suspenderá el procedimiento administrativo de ejecución.
 
-Se libera de la obligación de garantizar el interés fiscal, cuando el contribuyente hubiere interpuesto en tiempo y forma el recurso de revocación, debiendo el interesado acreditar ante la autoridad fiscal que lo interpuso dentro del plazo legal establecido para hacerlo, a fin de suspender el procedimiento administrativo de ejecución. Si después de resuelto el recurso de revocación subsiste la obligación de pago, el deudor deberá pagar o garantizar el crédito fiscal en términos de este Código en un plazo de diez días siguientes a aquel a que haya surtido efectos la notificación de la resolución respectiva.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 No se exigirá garantía adicional si en el procedimiento administrativo de ejecución ya se hubieran embargado bienes suficientes para garantizar el interés fiscal o cuando el contribuyente declare bajo protesta de decir verdad que son los únicos bienes que posee. En el caso de que la autoridad compruebe por cualquier medio que esta declaración es falsa podrá exigir garantía adicional, sin perjuicio de las sanciones que correspondan.
 
@@ -2499,9 +2529,7 @@ También se suspenderá la ejecución del acto que determine un crédito fiscal 
 
 Las autoridades fiscales continuarán con el procedimiento administrativo de ejecución a fin de obtener el pago del crédito fiscal, cuando en el procedimiento judicial de concurso mercantil se hubiere celebrado convenio estableciendo el pago de los créditos fiscales y éstos no sean pagados dentro de los diez días siguientes a la celebración de dicho convenio, o cuando no se dé cumplimiento al pago con la prelación establecida en este Código. Asimismo, las autoridades fiscales podrán continuar con dicho procedimiento cuando se inicie la etapa de quiebra en el procedimiento de concurso mercantil en los términos de la ley correspondiente.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2019)</small>
-
-En todos los casos, cuando hubiere negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán promover el incidente de suspensión de la ejecución ante el Tribunal Estatal de Justicia Administrativa que conozca del juicio respectivo.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 #### Sección Segunda. Del Requerimiento de Pago y Embargo
 
@@ -2875,7 +2903,9 @@ En toda postura deberá ofrecerse de contado, cuando menos la parte suficiente p
 
 Si el importe de la postura legal y las que resulten de las pujas realizadas es menor al interés fiscal, solo se rematarán de contado los bienes embargados.
 
-La autoridad exactora podrá enajenar a plazos los bienes embargados en los casos excepcionales debidamente justificados. En este supuesto, el embargado quedará liberado de la obligación de pago hasta por la cantidad en que hubieren sido enajenados los bienes correspondientes.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+La autoridad exactora podrá enajenar a plazos los bienes embargados en los casos y condiciones que establezca el reglamento de este Código. En este supuesto, el embargado quedará liberado de la obligación de pago hasta por la cantidad en que hubieren sido enajenados los bienes correspondientes.
 
 Si del producto del remate se obtiene una cantidad mayor al adeudo existente, el remanente aun en caso de enajenación a plazos, deberá ser entregado al deudor a partir de la fecha en que se haya realizado.
 
@@ -3143,6 +3173,22 @@ V. Que sean conexos a otro que haya sido impugnado por medio de algún recurso o
 
 VI. Que hayan sido materia de resolución en recurso de revocación, siempre que se trate del mismo acto recurrido, aunque las violaciones sean distintas.
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VII. Si son revocados los actos o resoluciones por la autoridad emisora.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VIII. Que el contribuyente manifieste desconocer.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IX. Que exijan el pago de créditos fiscales determinados en resoluciones liquidatorias que hubieren sido impugnadas y hayan quedado firmes por resolución de autoridad competente.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+X. Que resuelvan sobre solicitudes de prescripción de créditos fiscales determinados en resoluciones liquidatorias que hubieren sido impugnadas y hayan quedado firmes por resolución de autoridad competente.
+
 ###### Artículo 237.
 
 Procede el sobreseimiento en los casos siguientes:
@@ -3291,11 +3337,7 @@ Siempre que se omita el pago de una contribución cuya determinación correspond
 
 ###### Artículo 250.
 
-La Secretaría podrá condonar las multas por infracciones a las disposiciones fiscales, para lo cual apreciará discrecionalmente las circunstancias del caso, los motivos que tuvo la autoridad que impuso la sanción.
-
-La solicitud dará lugar a la suspensión del procedimiento administrativo de ejecución, si así se pide y se garantiza el interés fiscal.
-
-La solicitud de condonación de multas, no procede respecto de multas que ya hubieran sido pagadas, y no constituirá instancia, por tanto, las resoluciones que dicte la Secretaría al respecto, no podrán ser impugnadas por los medios de defensa que establece este Código.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2025)
 
 ###### Artículo 251.
 
@@ -3580,3 +3622,19 @@ El presente Decreto entrará en vigor el día primero de enero del año dos mil 
 ###### ARTÍCULO SEGUNDO.
 
 Las contribuciones extraordinarias a que se refieren los Decretos 266/94/XI/ P.E. y 842/2012 VI P.E., publicados en el Periódico Oficial del Estado de Chihuahua del 30 de abril de 1994 y del 22 de septiembre de 2012, respectivamente, se determinarán tomando como base de las mismas, el impuesto sobre nóminas causado, considerando la tasa del 3%.
+
+P.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVIII/RFLYC/0462/2025 I P.O.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero del mes de enero del año dos mil veintiséis, sin perjuicio de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Durante los ejercicios fiscales de 2026 y 2027, en lugar de aplicar la tasa establecida en el artículo 75 de la Ley de Hacienda del Estado de Chihuahua, sobre el monto mensual de las erogaciones a que se refiere el artículo 74 de la citada Ley, se aplicará la tasa del 4%.
+
+Los ingresos adicionales que se obtengan por la aplicación de la tasa señalada en el párrafo anterior, deberán aplicarse preferentemente al rubro de inversión pública productiva y el remanente, a lo dispuesto en el artículo 14 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+Las contribuciones extraordinarias a que se refieren los Decretos 266/94/XI/P.E. y 842/2012 VI P.E., publicados en el Periódico Oficial del Estado de Chihuahua del 30 de abril de 1994 y del 22 de septiembre de 2012, respectivamente, se determinarán tomando como base de las mismas, el impuesto sobre nóminas causado, considerando la tasa del 3%.
