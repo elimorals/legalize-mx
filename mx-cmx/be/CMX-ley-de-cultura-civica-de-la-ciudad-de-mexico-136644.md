@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-cultura-civica-de-la-ciudad-de-mexico-136644"
 country: "mx"
 rank: "ley"
 publication_date: "2019-06-07"
-last_updated: "2025-08-27"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136644&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-06-07"
 
 LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número 108 Bis de la Gaceta Oficial de la Ciudad de México, el viernes 7 de junio de 2019.
 
@@ -593,6 +593,10 @@ X. Realizar la exhibición de órganos sexuales con la intención de molestar o 
 > <small>(ADICIONADA, G.O. 1 DE AGOSTO DE 2019)</small>
 
 XI. Vejar, intimidar, maltratar físicamente o incitar a la violencia contra un integrante de las instituciones de Seguridad Ciudadana.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Cuando se trate de un pariente colateral consanguíneo o afín hasta el cuarto grado, las sanciones aplicables se incrementarán hasta en una mitad.
 
 > <small>(REFORMADO, G.O. 7 DE JUNIO DE 2019)</small>
 
@@ -1923,3 +1927,15 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- La Consejería Jurídica y de Servicios Legales de la Ciudad de México establecerá los supuestos y procedimientos mediante los cuales las personas podrán presentar quejas por infracciones cívicas a través de medios digitales, en coordinación con las instancias administrativas correspondientes.
 
 CUARTO. Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL, ASÍ COMO SE REFORMA LA LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO, EN MATERIA DE GÉNERO Y ACCESO A UNA VIDA LIBRE DE VIOLENCIAS PARA LAS MUJERES”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto con base en los delitos previstos en los Títulos Quinto y Octavo del Libro Segundo del Código Penal para el Distrito Federal se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+CUARTO.- La Fiscalía General de Justicia de la Ciudad de México deberá armonizar sus protocolos de investigación y atención a víctimas, en un plazo no mayor a 120 días.
