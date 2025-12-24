@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-valuacion-para-el-estado-de-tabasco-83609"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-28"
-last_updated: "2022-04-23"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83609&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE VALUACIÓN PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Suplemento H del Periódico Oficial del Estado de Tabasco, el miércoles 28 de septiembre de 2011.
 
@@ -47,11 +47,11 @@ LEY DE VALUACIÓN PARA EL ESTADO DE TABASCO.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 1.
 
-·Las disposiciones de esta Ley son de orden público e interés social de observancia general en todo el territorio del estado de Tabasco. Su aplicación compete al Poder Ejecutivo del Estado por conducto de la Secretaría de Finanzas.
+Las disposiciones de esta Ley son de orden público e interés social de observancia general en todo el territorio del estado de Tabasco. Su aplicación compete al Poder Ejecutivo del Estado por conducto de la Secretaría de Administración y Finanzas.
 
 En todo lo no previsto en este ordenamiento, y en cuanto no se oponga a éste, se aplicarán supletoriamente en este orden las disposiciones de los Códigos Civil y de Procedimientos Civiles para el Estado de Tabasco; Código Fiscal del Estado de Tabasco; Ley de Catastro del Estado de Tabasco y las normas mexicanas y reglas de carácter general en materia de valuación.
 
@@ -63,7 +63,9 @@ I. Establecer y regular las bases para el ejercicio de las actividades que reali
 
 II. Regular, controlar y vigilar la práctica de la valuación como una actividad profesional y determinar los requisitos para su ejercicio;
 
-III. Establecer el Registro Estatal de Valuadores;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+III. Establecer el Registro de Valuadores del Estado de Tabasco;
 
 IV. Definir derechos y obligaciones de los valuadores;
 
@@ -91,13 +93,13 @@ III. Ley: La Ley de Valuación Para el Estado de Tabasco;
 
 IV. Registro: El Registro de Valuadores del Estado de Tabasco;
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-V. Secretaría: La Secretaría de Finanzas del Poder Ejecutivo del Estado; y
+V. Secretaría: La Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado; y
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-VI. Valuador: Persona física capacitada y legalmente facultada para realizar trabajos de valuación que cuenta con los conocimientos teóricos y prácticos que le permiten desempeñar su labor, con título universitario otorgado por instituciones educativas en nivel superior y con sus cédulas expedidas por la Dirección General de Profesiones dependiente de la Secretaría de Educación Pública; autorizada como tal por la Secretaría e inscrita en el Registro, previo haber cumplido con todos y cada uno de los requisitos que esta Ley establece para obtener dicha acreditación. También podrán ser valuadores las personas que cuenten con título de licenciatura, que ejerzan en forma empírica, y cuenten con el aval de algún colegio de valuadores.
+VI. Valuador o Perito Valuador: Persona física capacitada y legalmente facultada para realizar trabajos de valuación que cuenta con los conocimientos teóricos y prácticos que le permiten desempeñar su labor, con título universitario otorgado por instituciones educativas en nivel superior y con sus cédulas expedidas por la Dirección General de Profesiones dependiente de la Secretaría de Educación Pública; autorizada como tal por la Secretaría e inscrita en el Registro, previo haber cumplido con todos y cada uno de los requisitos que esta Ley establece para obtener dicha acreditación. También podrán ser valuadores las personas que cuenten con título de licenciatura, que ejerzan en forma empírica, y cuenten con el aval de algún colegio de valuadores.
 
 ###### Artículo 5.
 
@@ -141,7 +143,9 @@ III. Elaborar y actualizar el Registro;
 
 IV. Facilitar la consulta del Registro a las dependencias, entidades e instancias o autoridades competentes que requieran trabajos de valuación para efectuar los trámites conducentes; así como a los particulares que lo soliciten;
 
-V. Emitir lineamientos y reglas de carácter general tendientes a homologar los criterios técnicos que se apliquen a la valuación o dictámenes, así como proponer a la Coordinación General de Asuntos Jurídicos las reformas necesarias a los ordenamientos legales orientados al mejoramiento del servicio de valuación profesional;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+V. Emitir lineamientos y reglas de carácter general tendientes a homologar los criterios técnicos que se apliquen a la valuación o dictámenes, así como proponer a la Consejería Jurídica del Poder Ejecutivo del Estado las reformas necesarias a los ordenamientos legales orientados al mejoramiento del servicio de valuación profesional;
 
 VI. Celebrar acuerdos y convenios de coordinación, colaboración o concertación con los entes públicos de los tres órdenes de gobierno, así como con instituciones de educación superior y organizaciones civiles con funciones afines, que tiendan a mejorar la prestación de los servicios de valuación en el Estado;
 
@@ -193,7 +197,9 @@ Se establece el Registro, como un instrumento de orden público e interés gener
 
 Para ejercer la actividad valuatoria en el Estado de Tabasco, los interesados, deberán inscribirse en el Registro ante la Secretaría, debiendo anexar a ésta los documentos que acrediten el cumplimiento de los siguientes requisitos:
 
-a) Tener cédula de especialista ó maestría en valuación expedida por la Dirección General de Profesiones de la Secretaría de Educación Pública o contar con el aval del Colegio Profesional al que pertenezca, en caso de ejercer conocimientos empíricos;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+a) Tener cédula de especialista o maestría en valuación expedida por la Dirección General de Profesiones de la Secretaría de Educación Pública o contar con el aval del Colegio Profesional al que pertenezca, en caso de ejercer conocimientos empíricos;
 
 b) Tener título y cédula profesional en licenciatura afín al área del conocimiento de la valuación, expedidos por la Dirección General de Profesiones de la Secretaría de Educación Pública;
 
@@ -227,11 +233,17 @@ Para la operación del Registro, la Secretaría se auxiliará de un Consejo Cons
 
 El Consejo Consultivo estará integrado por:
 
-I.- Un Presidente que será la persona titular de la Secretaría;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-II.- Un Secretario Técnico que será el Subsecretario de Ingresos de la Secretaría;
+I.- La persona titular de la Secretaría, quien presidirá;
 
-III.- Tres vocales que serán servidores públicos de la Secretaría, nombrados por su titular;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+II.- La persona titular de la Subsecretaría de Ingresos de la Secretaría, quien ocupará la Secretaría Técnica;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+III.- Tres vocales que serán personas servidoras públicas de la Secretaría, nombradas por su titular;
 
 IV.- Dos vocales que corresponderán a los presidentes de las asociaciones o colegios profesionales en materia de valuación constituidos en el Estado, que tengan el mayor número de miembros; y
 
@@ -269,11 +281,11 @@ La Secretaría instrumentará un sistema comprobatorio de registro y resolución
 
 Una vez que el solicitante cumpla los requisitos previstos en esta Ley, la Secretaría examinará la solicitud y documentos y resolverá lo conducente en un término de veinte días hábiles contados a partir de la recepción de la misma. En caso de concederse la inscripción se asentará en el Registro y se extenderá al interesado la constancia respectiva en un plazo que no exceda de cinco días hábiles.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 17.
 
-La constancia de inscripción a que se refiere el artículo anterior deberá contener las firmas de autorización de la persona titular de la Secretaría, del Subsecretario de Ingresos de la Secretaría, además de la del propio interesado, requisitos sin los cuales carecerá de validez.
+La constancia de inscripción a que se refiere el artículo anterior deberá contener las firmas de autorización de la persona titular de la Secretaría, de la Subsecretaría de Ingresos de la Secretaría, además de la del propio interesado, requisitos sin los cuales carecerá de validez.
 
 Dicha constancia autoriza al valuador para el ejercicio de esta actividad. El valuador deberá asentar en todos sus actos de valuación los datos del registro o autorización, conforme a lo señalado en el Reglamento de esta Ley.
 
@@ -335,9 +347,11 @@ q) Sello debidamente autorizado, y
 
 k) (sic) Reporte fotográfico.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 22.
 
-El Valuador deberá emitir de manera personal el avalúo que se le haya solicitado, no pudiendo delegar esa función, debiendo además definir o clarificar en forma técnica el asunto o asuntos sobre los que se solícita su intervención.
+El Valuador deberá emitir de manera personal el avalúo que se le haya solicitado, no pudiendo delegar esa función, debiendo además definir o clarificar en forma técnica el asunto o asuntos sobre los que se solicita su intervención.
 
 ###### Artículo 23.
 
@@ -614,3 +628,27 @@ Una vez realizadas las adecuaciones a que refiere el párrafo anterior, la Secre
 CUARTO. A partir de la fecha de entrada en vigor del presente Decreto, cuando en las leyes, reglamentos, acuerdos, Decretos y demás disposiciones normativas se haga referencias (sic) a la Comisión del Registro Estatal de Valuadores, se entenderán hechas a la Secretaría.
 
 QUINTO. A partir de la entrada en vigor del presente Decreto, los asuntos administrativos que con motivo de este Decreto deban pasar de la Comisión del Registro Estatal de Valuadores a la Secretaría, permanecerán en el último trámite que hubieren alcanzado.
+
+P.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 190 POR EL QUE "SE REFORMAN: LOS ARTÍCULOS 1, PÁRRAFO PRIMERO; 2, FRACCIÓN III; 4, FRACCIONES V Y VI; 7, FRACCIÓN V; 13, INCISO A); 14 BIS, PÁRRAFO SEGUNDO, FRACCIONES I, II Y III; 17, PÁRRAFO PRIMERO; Y 22. TODOS DE LA LEY DE VALUACIÓN PARA EL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día uno del mes de enero del año dos mil veintiséis, sin perjuicio de lo dispuesto en los artículos transitorios siguientes.
+
+SEGUNDO. Quedan sin efectos todas aquellas disposiciones que se opongan al presente Decreto.
+
+TERCERO. Cuando se disponga por mandato legal de la autoridad competente, tratándose de la transferencia de servicios públicos que preste el Gobierno del Estado y se trasladen a la autoridad municipal o, en su caso, de la municipalización de servicios públicos que el Gobierno del Estado tenga que entregar al Gobierno Municipal que corresponda y por cuyos servicios se establezca en la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2026 el concepto tributario, habrá de considerarse para los fines legales pertinentes, que una vez cumplidas las formalidades del caso, tales contribuciones se entenderán de competencia hacendaria de la autoridad municipal y sin necesidad de un nuevo Decreto habrán de tenerse insertas en el texto de la Ley de Ingresos del Municipio que corresponda o cualquier ordenamiento legal en que así proceda.
+
+Para el caso de aquellas contribuciones de carácter municipal, que mediante convenios sean transferidas al Gobierno del Estado, de conformidad con la Ley de Coordinación Fiscal y Financiera del Estado de Tabasco, se entenderán de la competencia hacendaría estatal y sin necesidad de un nuevo Decreto habrán de tenerse insertadas en el texto de la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2026 o cualquier otro ordenamiento legal en que así proceda.
+
+CUARTO. La Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2026 no contempla los recursos refrendados del ejercicio fiscal 2025, mismos que se reflejarán en el Presupuesto General de Egresos del Estado de Tabasco para el Ejercicio Fiscal 2026.
+
+QUINTO. En el caso de los organismos públicos descentralizados y empresas de participación estatal mayoritaria, firmarán convenios de colaboración con la Secretaría de Administración y Finanzas, para que mediante plataforma web administrada por esa Secretaría, se supervisen e informen en tiempo real sus ingresos por concepto de derechos, productos y aprovechamientos, conforme a los mecanismos y lineamientos que en materia de ingresos se establezcan por esa misma dependencia.
+
+SEXTO. El Registro Estatal de Gestores Vehiculares deberá crearse en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+SÉPTIMO. La Secretaría de Administración y Finanzas, a través de la Subsecretaría de Ingresos, deberá emitir los lineamientos para regular lo concerniente al Registro Estatal de Gestores Vehiculares, dentro de los 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+OCTAVO. Con fundamento en el artículo 116 del Código Fiscal del Estado de Tabasco, se declara la prescripción de los créditos y obligaciones fiscales derivados de las contribuciones por concepto de Impuesto Vehicular Estatal, refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, y canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, así como sus accesorios, anteriores al ejercicio fiscal 2021, que se encuentren en el sistema del Registro Estatal de Vehículos de la Secretaría de Administración y Finanzas, siempre y cuando no hayan sido requeridas por la autoridad fiscal mediante cualquier acción, gestión de cobro o cualquier acto administrativo, o se encuentre suspendido en términos del mismo artículo.
+
+Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco, se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
