@@ -4,7 +4,7 @@ identifier: "YUC-ley-general-de-hacienda-del-estado-de-yucatan-47970"
 country: "mx"
 rank: "ley_general"
 publication_date: "2005-12-29"
-last_updated: "2025-01-06"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "YUC"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2024.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE 6 DE ENERO DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el jueves 29 de diciembre de 2005.
 
@@ -3227,17 +3225,9 @@ VIII.- Por la recepción y trámite de escrituras autorizadas y testimonios expe
 
 Las suscripciones y publicaciones en el diario oficial del estado, causarán derechos conforme a lo siguiente:
 
-I.- Suscripciones por un año:
+I.- (DEROGADA, D.O. 24 DE DICIEMBRE DE 2025)
 
-a) Sin suplemento 22.11 UMA
-
-b) Con suplemento 28.84 UMA
-
-II.- Suscripciones por un semestre:
-
-a) Sin suplemento 11.54 UMA
-
-b) Con suplemento 15.39 UMA
+II.- (DEROGADA, D.O. 24 DE DICIEMBRE DE 2025)
 
 III.- Publicaciones, por:
 
@@ -3257,15 +3247,9 @@ d) Media plana 8.00 UMA
 
 e) Un cuarto de plana 5.00 UMA
 
-IV.- Por ejemplar:
+> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2025)</small>
 
-a) Del día sin suplemento 0.14 UMA
-
-b) Suplemento del día por hoja 0.01 UMA
-
-c) De fecha anterior sin suplemento 0.21 UMA
-
-d) Por el suplemento de fecha anterior por hoja 0.01 UMA
+IV.- Por integrar un documento al repositorio digital 15.00 UMA
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -5512,3 +5496,15 @@ Artículo tercero. Excepción
 Durante el ejercicio fiscal 2025, las personas físicas, personas morales y unidades económicas que tengan la obligación de retener el impuesto sobre erogaciones por remuneración al trabajo personal, de conformidad con el artículo 22 Bis de la Ley General de Hacienda del Estado de Yucatán, no tendrán la obligación de realizar la retención cuando subcontraten servicios especializados o de ejecución de obras especializadas, y estarán eximidas de las obligaciones señaladas en el artículo 27-E de la ley referida.
 
 Así mismo, durante el ejercicio fiscal 2025, los intermediarios, contratistas, terceros o cualquiera que sea su denominación, que presten servicios especializados o de ejecución de obras especializadas, no estarán obligados a presentar el aviso a que se refiere el artículo 22 Ter de la Ley General de Hacienda del Estado de Yucatán, ni estarán obligados a realizar el desglose en el comprobante fiscal de los conceptos por los cuales se cause el impuesto sobre erogaciones por remuneración al trabajo personal, así como tampoco a suministrar la información a que se refiere el artículo 27-F de la citada ley.
+
+D.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 137/2025 POR EL QUE SE MODIFICAN LA LEY DEL DIARIO OFICIAL DEL GOBIERNO DEL ESTADO DE YUCATÁN, LA LEY DE ACTOS Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE YUCATÁN, LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN Y LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN".]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derogación expresa
+
+Se derogan todas las disposiciones de igual o menor rango que se opongan al contenido del presente decreto.
