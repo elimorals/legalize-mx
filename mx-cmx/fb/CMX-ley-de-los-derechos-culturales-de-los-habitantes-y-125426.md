@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-culturales-de-los-habitantes-y-125426"
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-22"
-last_updated: "2024-03-27"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125426&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-01-08"
 
 LEY DE LOS DERECHOS CULTURALES DE LOS HABITANTES Y VISITANTES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número 245 de la Gaceta Oficial de la Ciudad de México, el lunes 22 de enero de 2018.
 
@@ -232,7 +232,9 @@ El arte y la ciencia son libres, en su creación, transmisión, manifestación y
 
 Los pueblos y barrios originarios, así como los productores culturales populares, tienen derecho a la protección de sus saberes ancestrales, así como a la salvaguarda de sus costumbres, diseños, arte y artesanías en general, música, lenguas, rituales, festividades, modos de vida, arte culinario y de todo su patrimonio cultural material e inmaterial. El Gobierno, por medio de la Secretaría y el Instituto desarrollará los mecanismos, programas e instrumentos legislativos para proteger los derechos de los pueblos y barrios originarios y de su enorme patrimonio cultural.
 
-La persona titular de la Jefatura de Gobierno de la Ciudad de México dotará de los recursos presupuestales necesarios para el desarrollo de esta ley en término de lo estipulado en el capítulo II, artículo 19, fracción IV de la Ley de Fomento Cultural del Distrito Federal.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+La persona titular de la Jefatura de Gobierno de la Ciudad de México dotará de los recursos presupuestales necesarios para el desarrollo de esta ley en término de lo estipulado en el capitulo II, artículo 19, fracción IV de la Ley de Fomento Cultural de la Ciudad de México.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 20 DE MAYO DE 2019)</small>
 
@@ -569,3 +571,11 @@ G.O. 27 DE MARZO DE 2024.
 Primero. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 12, PÁRRAFO TERCERO, DE LA LEY DE LOS DERECHOS CULTURALES DE LAS PERSONAS HABITANTES Y VISITANTES DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
