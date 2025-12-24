@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-gobierno-municipal-del-estado-de-sinaloa-22823"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-26"
-last_updated: "2024-01-26"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial de Estado de Sinaloa, el lunes 26 de noviembre de 2001.
 
@@ -69,9 +69,11 @@ IV. Regular el uso y aprovechamiento de los bienes municipales; y
 
 V. Emitir el Reglamento que señale las demarcaciones que para efectos administrativos se establezcan en el territorio municipal.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 4.
 
-El territorio del Estado se divide en dieciocho municipios con las denominaciones siguientes: Choix, El Fuerte, Ahome, Guasave, Sinaloa, Mocorito, Angostura, Salvador Alvarado, Badiraguato, Culiacán, Navolato, Cosalá, Elota, San Ignacio, Mazatlán, Concordia, Rosario y Escuinapa, con la extensión y límites que actualmente les corresponden.
+El territorio del Estado se divide en veinte municipios con las denominaciones siguientes: Ahome, El Fuerte, Choix, Guasave, Juan José Ríos, Sinaloa, Angostura, Salvador Alvarado, Mocorito, Badiraguato, Culiacán, Navolato, Eldorado, Elota, Cosalá, San Ignacio, Mazatlán, Concordia, Rosario y Escuinapa, con la extensión y límites que actualmente les corresponden.
 
 ###### Artículo 5.
 
@@ -991,13 +993,13 @@ X. Trabajo y Previsión Social;
 
 XI. Acción Social y Cultural;
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XII. Juventud y Deporte;
+XII. Juventud, Cultura Física y Deporte;
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XIII. De Equidad, Género y Familia;
+XIII. Igualdad, Género, Diversidad Sexual e Inclusión;
 
 > <small>(REFORMADA, P.O. 8 DE MAYO DE 2015)</small>
 
@@ -1019,17 +1021,29 @@ XVII. Protección Civil;
 
 XVIII. Derechos Humanos y Grupos Vulnerables;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XIX. Participación Ciudadana;
+XIX. Transparencia, Anticorrupción y Participación Ciudadana;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XX. Comunidades y Asuntos Indígenas; y
+XX. Comunidades y Asuntos Indígenas;
 
-> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XXI. De Desarrollo Social.
+XXI. Bienestar y Desarrollo Sustentable;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XXII. Desarrollo Económico;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XXIII. Atención a la Familia, Niñas, Niños y Adolescentes; y
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XXIV. Bienestar Animal.
 
 Las Comisiones Permanentes tendrán la competencia que se derive de su denominación, en relación a las áreas respectivas de la administración pública municipal y en su caso, a la materia de su conocimiento.
 
@@ -1391,13 +1405,19 @@ Artículo 67 Bis J. Los servidores públicos adscritos al órgano interno de con
 
 Las Sindicaturas y Comisarías a que se refiere el artículo 11 de esta Ley, serán administradas por Síndicos y Comisarios, respectivamente, nombrados y removidos libremente por el Ayuntamiento mediante consulta popular que se celebrará en Asamblea General convocada para tal efecto en Sindicaturas con menos de siete mil quinientos habitantes y mediante Plebiscito en Sindicaturas con más de siete mil quinientos habitantes.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Para tal efecto en el nombramiento de Síndicos y Comisarios, los ayuntamientos deberán observar el principio de paridad de género.
+
 Los Ayuntamientos realizarán la consulta popular mediante cualquiera de los siguientes medios y de acuerdo a sus bases:
 
 I. PLEBISCITO.
 
 A). El Ayuntamiento convocará a los habitantes de la Sindicatura y de las Comisarías con veinte días de anticipación a un Plebiscito para recoger las opiniones de la población sobre la designación de Síndicos y Comisarios Municipales.
 
-B). A partir de la convocatoria, los vecinos dentro de los diez días siguientes, propondrán a personas idóneas para ocupar los cargos de Síndicos y Comisarios Municipales, quienes deberán reunir los requisitos constitucionales para dichos cargos.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+B). A partir de la convocatoria, los vecinos dentro de los diez días siguientes, de conformidad con el principio de paridad, propondrán a personas idóneas para ocupar los cargos de Síndicos y Comisarios Municipales, quienes deberán reunir los requisitos constitucionales para dichos cargos.
 
 C). Diez días antes de la realización del Plebiscito, las personas propuestas darán a conocer a la población sus planes y programas para el desempeño de sus funciones.
 
@@ -1409,7 +1429,9 @@ A). Los Ayuntamientos convocarán con veinte días de anticipación a la designa
 
 B). La Asamblea General tendrá por objeto conocer las opiniones de los habitantes de la Sindicatura o Comisaría, sobre las personas idóneas para ocupar los cargos de Síndico y Comisario Municipal, respectivamente.
 
-C). Dentro de los diez días siguientes a la convocatoria, los vecinos de la Sindicatura o Comisarías registrarán ante el propio Ayuntamiento a las personas que consideren idóneas, mismos que deben reunir los requisitos establecidos en la Constitución.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+C). Dentro de los diez días siguientes a la convocatoria, los vecinos de la Sindicatura o Comisarías registrarán ante el propio Ayuntamiento a las personas que consideren idóneas, de conformidad con el principio de paridad, mismos que deben reunir los requisitos establecidos en la Constitución.
 
 D). Dentro de los últimos diez días previos a la Asamblea General, las personas propuestas desarrollarán labor vecinal domiciliaria en búsqueda de apoyo a su designación.
 
@@ -1541,6 +1563,10 @@ IV. Un estudio actuarial de las pensiones de sus trabajadores, el cual como mín
 
 Las proyecciones y resultados a que se refieren las fracciones I y II, respectivamente, comprenderán sólo un año para el caso de los Municipios con una población menor a 200,000 habitantes, de acuerdo con el último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía. Dichos Municipios contarán con el apoyo técnico de la Secretaría de Administración y Finanzas del Estado para cumplir lo previsto en el artículo.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Al elaborar los proyectos de presupuestos de egresos, las dependencias que integran la Administración Pública Municipal deberán tomar en consideración la perspectiva de género, para lo cual incluirán los objetivos anuales, estrategias y metas de sus actividades institucionales, de manera que éstos puedan ser evaluados con indicadores correspondientes a perspectiva de género, con el objetivo de lograr la igualdad sustantiva entre mujeres y hombres en las políticas públicas institucionales que les competen a los municipios, a través de sus presupuestos.
+
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 Artículo 78 Bis A. La Hacienda Municipal será regulada por la Ley de la materia y cuya aplicación corresponderá a las personas autorizadas de acuerdo con las Leyes Fiscales del Municipio y Convenios de Coordinación con la Federación y el Estado.
@@ -1579,9 +1605,17 @@ I. El monto de las partidas globales cuya suma será igual a los ingresos progra
 
 II. El gasto en sueldos y prestaciones al personal deberá cuantificarse bajo criterios de racionalidad, a fin de que se destinen recursos suficientes a los servicios y a las inversiones para mejorar los mismos;
 
-III. Partidas que se asignen para cumplir prioridades; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-IV. El monto total asignado a cada una de sus respectivas Alcaldías.
+III. Partidas que se asignen para cumplir prioridades;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IV. El monto total asignado a cada una de sus respectivas Alcaldías; y
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+V. Haber sido elaborado con perspectiva de género, incorporando los objetivos anuales, estrategias y metas de sus actividades institucionales, de manera que éstos puedan ser evaluados con indicadores correspondientes a perspectiva de género.
 
 ### CAPÍTULO XIV. DE LA POTESTAD REGLAMENTARIA
 
@@ -2150,3 +2184,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los Ayuntamientos deberán adecuar su reglamentación interna necesaria a efecto de establecer los criterios y el procedimientos (sic) para la asignación, modificación o sustitución de la nomenclatura de vías públicas y espacios públicos de los municipios dentro de un plazo de 90 días hábiles a partir de la fecha de la publicación del presente Decreto.
 
 TERCERO. Se derogan todas aquellas disposiciones secundarias que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 263 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTICULO SEGUNDO.
+
+Para el debido cumplimiento del presente Decreto, los Ayuntamientos en un plazo de noventa días naturales posteriores a su publicación, deberán integrar las Comisiones Permanentes y realizar las adecuaciones normativas correspondientes.
