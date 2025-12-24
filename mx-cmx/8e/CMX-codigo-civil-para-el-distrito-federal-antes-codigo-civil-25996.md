@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2025-11-21"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -27,7 +27,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -2870,6 +2870,10 @@ IV.- Por lo que hace a los adultos mayores que carezcan de capacidad económica,
 El obligado a proporcionar alimentos cumple su obligación, asignando una pensión al acreedor alimentista o integrándolo a la familia. En caso de conflicto para la integración, corresponde a la Jueza o Juez de lo Familiar fijar la manera de ministrar los alimentos, según las circunstancias.
 
 Aquella persona que incumpla con lo señalado con el párrafo anterior por un periodo de sesenta días se constituirá en deudor alimentario moroso. La Jueza o Juez de lo Familiar ordenará al Registro Civil su inscripción en el Registro de Deudores Alimentarios Morosos, proporcionando al Registro los datos de identificación del deudor alimentario que señala el artículo 323 Séptimus, los cuales le serán proporcionados al Juez por el acreedor alimentario.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+El pago de los alimentos, de acuerdo con las circunstancias y condiciones de cada caso, podrá retrotraerse a la fecha de nacimiento de la obligación o bien, incluso hasta la fecha de nacimiento del acreedor alimentista, incluyendo los gastos del parto. El derecho a recibir alimentos de manera retroactiva es imprescriptible y por tanto pueden ser reclamados en cualquier momento.
 
 El deudor alimentario moroso que acredite ante la Jueza o Juez que han sido pagados en su totalidad los adeudos a que se refiere el párrafo anterior, podrá solicitar al mismo la cancelación de la inscripción.
 
@@ -15690,3 +15694,13 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia del delito de despojo, previsto en el Código Penal para el Distrito Federal, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
 
 CUARTO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN TERCER PÁRRAFO, RECORRIÉNDOSE LOS SUBSECUENTES, AL ARTÍCULO 309 DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO. - Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. - Se derogan todas las disposiciones que contravengan el presente decreto.
