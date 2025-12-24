@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-residuos-solidos-de-la-ciudad-de-mexico-antes-ley-de-301
 country: "mx"
 rank: "ley"
 publication_date: "2003-04-22"
-last_updated: "2025-10-24"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30102&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2003-04-05"
 
 LEY DE RESIDUOS SÓLIDOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 24 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 22 de abril de 2003.
 
@@ -139,6 +139,10 @@ XV. Estaciones de transferencia: Las instalaciones para el trasbordo de los resi
 > <small>(REFORMADA, G.O. 24 DE OCTUBRE DE 2025)</small>
 
 XV Bis. Certificado de Empresas Ambientalmente Responsables: El certificado otorgado por la Secretaría, a empresas y prestadores de servicio en cuya actividad aplica métodos, prácticas, técnicas y procesos que ayudan a reutilizar, reusar, reciclar, tratar y minimizar los residuos sólidos, donde todas estas actividades son compatibles y aceptadas como amigables para el medio ambiente, son seguras, de bajo riesgo para la población en general y beneficio de la misma, en términos de la Ley Ambiental de la Ciudad de México, su Reglamento y demás disposiciones aplicables.
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XV Ter. ECONOMÍA CIRCULAR: Sistema económico que busca erradicar el valor destruido en las cadenas económicas y que parte de la disminución del consumo de materias primas vírgenes, con el objetivo de minimizar el desperdicio de materiales, completando las cadenas económicas y ambientales del flujo de recursos, garantizando reducir el impacto al ambiente derivado de las actividades económicas de fabricación y consumo a través de líneas de acción como la incorporación de productos de bajo impacto ambiental, la eficiencia energética, el rediseño de productos, el reciclaje, la creación de empleos y la dignificación de los mismos, la equidad social, la inclusión de los sectores vulnerados, el acceso universal a los derechos humanos fundamentales y el desarrollo de nuevas tecnologías.
 
 > <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
@@ -442,9 +446,9 @@ XVII. Promover la certificación de empresas ambientalmente responsables para aq
 
 XVIII. Autorizar y registrar a los establecimientos mercantiles y de servicios relacionados con la recolección, manejo, tratamiento, reutilización, reciclaje y disposición final de los residuos sólidos y vigilar su funcionamiento; y
 
-> <small>(ADICIONADA, G.O. 21 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XIX. Fomentar el aprovechamiento de los residuos sólidos urbanos en procesos de generación de energía limpia, en coordinación con la Secretaría de Obras y Servicios y las alcaldías.
+XIX. Fomentar el aprovechamiento de los residuos sólidos urbanos en procesos de generación de energía limpia, en coordinación con la Secretaría de Obras y Servicios y las alcaldías, conforme la Ley de Economía Circular de la Ciudad de México.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE ABRIL DE 2023)</small>
 
@@ -1777,3 +1781,11 @@ G.O. 24 DE OCTUBRE DE 2025.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XIV TER, DEL ARTÍCULO 3 DE LA LEY PARA EL DESARROLLO ECONÓMICO DE LA CIUDAD DE MÉXICO; SE ADICIONA LA FRACCIÓN XII. BIS, AL ARTÍCULO 2 DE LA LEY DEL SISTEMA DE PLANEACIÓN DEL DESARROLLO DE LA CIUDAD DE MÉXICO; SE ADICIONA UNA FRACCIÓN XXV BIS. AL ARTÍCULO 4 DE LA LEY AMBIENTAL DE LA CIUDAD DE MÉXICO; SE ADICIONA UNA FRACCIÓN XV TER. AL ARTÍCULO 3 Y SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 6 DE LA LEY DE RESIDUOS SÓLIDOS DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
