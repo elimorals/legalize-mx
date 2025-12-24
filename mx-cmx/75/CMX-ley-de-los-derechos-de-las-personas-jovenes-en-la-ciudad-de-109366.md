@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-las-personas-jovenes-en-la-ciudad-de-109
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-13"
-last_updated: "2023-06-12"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109366&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES EN LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de agosto de 2015.
 
@@ -1726,9 +1726,13 @@ I. Contribuir al desarrollo integral de la juventud en su demarcación;
 
 II. Planear, organizar, desarrollar, administrar, supervisar y dar seguimiento a los servicios de Atención, Orientación y Quejas de la Juventud, en el ámbito de su competencia, y vincular las políticas públicas, programas, planes, proyectos y acciones del Gobierno dirigidas a las personas jóvenes, en coordinación con las distintas instancias de gobierno y la sociedad en general mediante convenios, tomando en cuenta la situación que vive en ese momento la juventud en cada demarcación territorial;
 
-> <small>(REFORMADA, G.O. 8 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-III. Ejecutar y dar seguimiento al Plan General de Trabajo Territorial en materia de Juventud desde una perspectiva transversal e incluyente en su demarcación y que deberá sujetarse a lo que establezca el Plan Estratégico en materia de juventud.
+III. Ejecutar y dar seguimiento al Plan General de Trabajo Territorial en materia de Juventud desde una perspectiva transversal e incluyente en su demarcación y que deberá sujetarse a lo que establezca el Plan Estratégico en materia de juventud, y
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IV. Las demás contempladas en la Ley Orgánica de Alcaldías de la Ciudad de México.
 
 ## TÍTULO SÉPTIMO. DE LA PARTICIPACIÓN CIUDADANA EN LAS POLÍTICAS DE JUVENTUD
 
@@ -2059,3 +2063,13 @@ G.O. 12 DE JUNIO DE 2023.
 Primero. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo. El presente decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 36 DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO; SE REFORMA LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 29; LA FRACCIÓN III DEL ARTÍCULO 151; Y SE ADICIONA UNA FRACCIÓN IV AL ARTÍCULO 151 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES EN LA CIUDAD DE MÉXICO”.]
+
+Primero. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Tercero. Las Alcaldías podrán llevar a cabo mediante gastos compensados los ajustes presupuestarios y hacer las prevenciones para los siguientes ejercicios fiscales a efecto de implementar planes y programas de atención a la salud mental de las personas jóvenes dentro de su demarcación territorial.
