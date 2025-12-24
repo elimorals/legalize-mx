@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-al-cine-mexicano-de-la-ciudad-de-mexico-66372"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-17"
-last_updated: "2023-05-29"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66372&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2009-02-12"
 
 LEY DE FOMENTO AL CINE MEXICANO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 17 de febrero de 2009.
 
@@ -356,13 +356,17 @@ VIII. Informar al Congreso de la Ciudad de México a través de su Comisión de 
 
 IX. Las demás que le otorgue esta Ley y otros ordenamientos jurídicos aplicables.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 5 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-## TÍTULO TERCERO. DEL FOMENTO, PROMOCIÓN Y DESARROLLO DEL CINE MEXICANO EN LA CIUDAD DE MÉXICO
+## TÍTULO TERCERO
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 5 DE ABRIL DE 2018)</small>
+DEL FOMENTO, PROMOCIÓN Y DESARROLLO DEL CINE MEXICANO EN LA CIUDAD DE MÉXICO.
 
-### CAPÍTULO I. DEL PROGRAMA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DE FOMENTO, PROMOCION Y DESARROLLO DEL CINE MEXICANO
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO I
+
+DEL PROGRAMA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DE FOMENTO, PROMOCIÓN Y DESARROLLO DEL CINE MEXICANO.
 
 > <small>(REFORMADO, G.O. 5 DE ABRIL DE 2018)</small>
 
@@ -478,9 +482,11 @@ VII. Políticas y estrategias de fomento, promoción y desarrollo cultural del c
 
 VIII. Programación presupuestal
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 5 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-### CAPÍTULO II. DE LOS PROGRAMAS DELEGACIONALES DE FOMENTO, PROMOCIÓN Y DESARROLLO DEL CINE MEXICANO EN LA CIUDAD DE MÉXICO
+### CAPÍTULO II
+
+DE LOS PROGRAMAS DE ALCALDÍAS DE FOMENTO, PROMOCIÓN Y DESARROLLO DEL CINE MEXICANO EN LA CIUDAD DE MÉXICO.
 
 > <small>(REFORMADO, G.O. 5 DE ABRIL DE 2018)</small>
 
@@ -494,9 +500,11 @@ Las Alcaldías elaborarán e instrumentarán, en coordinación con la Secretarí
 
 Los Programas de las Alcaldías deberán armonizar sus objetivos, acciones y estrategias al Programa de Fomento, Promoción y Desarrollo del Cine Mexicano para la Ciudad de México. Su vigencia no excederá del periodo constitucional que le corresponda al Alcalde que lo emita.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 5 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-### CAPÍTULO III. DEL FIDEICOMISO DE PROMOCIÓN Y DESARROLLO DEL CINE MEXICANO EN LA CIUDAD DE MÉXICO
+### CAPÍTULO III
+
+DEL FIDEICOMISO DE PROMOCIÓN Y DESARROLLO DEL CINE MEXICANO EN LA CIUDAD DE MÉXICO.
 
 > <small>(REFORMADO, G.O. 5 DE ABRIL DE 2018)</small>
 
@@ -657,3 +665,11 @@ G.O. 29 DE MAYO DE 2023.
 Primero. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LAS DENOMINACIONES DEL TÍTULO TERCERO Y DE LOS CAPÍTULOS I, II Y III DE LA LEY DE FOMENTO AL CINE MEXICANO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
