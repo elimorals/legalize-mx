@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-registro-civil-del-estado-de-yucatan-92396"
 country: "mx"
 rank: "ley"
 publication_date: "2013-02-19"
-last_updated: "2024-04-26"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el martes 19 de febrero de 2013.
 
@@ -549,13 +549,11 @@ Los oficiales no podrán en ningún caso realizar indagatoria o hacer señalamie
 
 Elección del orden de los apellidos
 
-(NOTA: EL 20 DE MAYO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 115/2024, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE MAYO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 40.
 
-Cuando ambas personas progenitoras acudan ante el Oficial a registrar a su primera hija o hijo, podrán escoger, de común acuerdo, el orden en que se colocarán los apellidos de su descendiente, los cuales corresponderán ÚNICA Y EXCLUSIVAMENTE al primero o segundo de sus apellidos, SIN POSIBILIDAD DE CREAR APELLIDOS COMPUESTOS O QUE SE INSCRIBAN MÁS DE DOS APELLIDOS SIMPLES DE UNA SOLA PERSONA.
+Cuando ambas personas progenitoras acudan ante el Oficial a registrar a su primera hija o hijo, podrán escoger, de común acuerdo, el orden en que se colocarán los apellidos de su descendiente, los cuales corresponderán al primero o segundo de sus apellidos.
 
 > <small>(REFORMADO, D.O. 26 DE ABRIL DE 2024)</small>
 
@@ -1954,3 +1952,15 @@ Artículo segundo. El Poder Ejecutivo del Estado deberá realizar las modificaci
 Clausula derogatoria
 
 Artículo tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a este decreto.
+
+D.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 137/2025 POR EL QUE SE MODIFICAN LA LEY DEL DIARIO OFICIAL DEL GOBIERNO DEL ESTADO DE YUCATÁN, LA LEY DE ACTOS Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE YUCATÁN, LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN Y LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN".]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derogación expresa
+
+Se derogan todas las disposiciones de igual o menor rango que se opongan al contenido del presente decreto.
