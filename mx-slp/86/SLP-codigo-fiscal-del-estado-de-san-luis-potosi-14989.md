@@ -4,7 +4,7 @@ identifier: "SLP-codigo-fiscal-del-estado-de-san-luis-potosi-14989"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-08-05"
-last_updated: "2022-11-22"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO FISCAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 5 de agosto de 1999.
 
@@ -223,6 +223,22 @@ Son ingresos derivados de financiamiento, los empréstitos obtenidos por el Esta
 
 Es crédito fiscal, la determinación que haga en su favor la autoridad fiscal de contribuciones y/o accesorios a cargo de un contribuyente o responsable solidario. Cuando las leyes así lo señalen, podrá darse el carácter de crédito fiscal a otros adeudos de particulares en favor del Estado o municipios, únicamente para efectos de la aplicación del procedimiento administrativo de ejecución.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 18 BIS.- Para efectos de su cobro mediante el procedimiento administrativo de ejecución, las sanciones pecuniarias firmes impuestas por autoridades administrativas del Poder Ejecutivo del Estado, distintas de la autoridad fiscal, tendrán el carácter de crédito fiscal, siempre que se satisfagan los requisitos siguientes:
+
+I. Que la sanción haya sido debidamente notificada al infractor conforme a las disposiciones aplicables y que la resolución que la imponga haya quedado firme;
+
+II. Que la autoridad administrativa que emitió la sanción remita a la Secretaría de Finanzas, dentro de los cinco días hábiles siguientes a que la misma haya quedado firme, la resolución correspondiente acompañada del expediente o documentación necesaria para su ejecución;
+
+III. Que el infractor no haya efectuado el pago dentro de los quince días hábiles, contados a partir de que la autoridad administrativa lo haya requerido;
+
+IV. Que la Secretaría de Finanzas, con base en la documentación remitida, emita la determinación del crédito fiscal correspondiente, únicamente para efectos de su cobro mediante el procedimiento administrativo de ejecución.
+
+Las sanciones pecuniarias a que se refiere este artículo no modificarán su naturaleza jurídica, conservando el carácter de sanciones administrativas impuestas por autoridad competente; sin embargo, serán exigibles en los términos del artículo 80 fracción III de este Código.
+
+La Secretaría de Finanzas establecerá las reglas administrativas necesarias para la recepción, registro y control de las sanciones pecuniarias a que se refiere este artículo.
+
 ###### ARTICULO 19.
 
 Las contribuciones deben pagarse en los plazos establecidos en las leyes respectivas. A falta de disposición expresa, se pagarán, en los casos en que se calculen por periodos, a más tardar el día quince del mes inmediato siguiente al fin del periodo. Si se trata de contribuciones que se causen por hechos o actos esporádicos, se deberán pagar, salvo norma específica, dentro de los quince días siguientes al de su causación o al último día en que haya ocurrido ésta, tratándose de actos continuos.
@@ -235,9 +251,9 @@ El pago de las contribuciones se hará en las cajas recaudadoras autorizadas, en
 
 Las contribuciones y sus accesorios se causarán y pagarán en moneda nacional.
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-Se aceptarán como medios de pago el dinero en efectivo, los cheques certificados, los giros postales, telegráficos o bancarios, transferencias electrónicas o cualquier medio de pago autorizado por el Banco de México; tratándose de pago en especie, los casos que expresamente autorice la autoridad fiscal, a solicitud del contribuyente; se aceptará el pago con tarjeta de crédito o débito, debiendo cubrir el contribuyente la comisión que establezca la institución de crédito respectiva.
+Se aceptarán como medios de pago el dinero en efectivo, cheques certificados, giros postales, telegráficos o bancarios, transferencias electrónicas, tarjetas de crédito o débito, así como cualquier otro medio autorizado por el Banco de México. No podrán trasladarse al contribuyente cargos, comisiones o costos adicionales derivados del uso de tarjetas de crédito, débito o cualquier otro medio electrónico de pago, debiendo la autoridad absorber tales costos conforme a las disposiciones aplicables.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -260,6 +276,32 @@ Las autoridades fiscales estatales podrán considerar como días inhábiles, ade
 El horario hábil para llevar a cabo notificaciones y actos dentro de los procedimientos administrativos de comprobación y/o ejecución, es el comprendido entre las ocho y las veinte horas. Cuando se inicie un procedimiento de fiscalización o de ejecución en horario hábil, podrá concluirse en horario inhábil, sin afectar su validez.
 
 Las autoridades fiscales podrán habilitar los días y las horas inhábiles, cuando las actividades del contribuyente lo justifiquen, debiendo expresarse el motivo en la resolución respectiva. Esta circunstancia deberá comunicarse a los particulares y no alterará el cálculo de plazos legales.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 22 BIS.- Del uso del Buzón Fiscal del Estado como medio de comunicación.
+
+El Buzón Fiscal del Estado es un medio electrónico de comunicación entre la Secretaría de Finanzas y los contribuyentes. Su uso por parte de la autoridad será opcional y complementario, sin perjuicio de los demás medios previstos en este Código.
+
+Las personas físicas y morales obligadas al cumplimiento de disposiciones fiscales estatales deberán activar su Buzón Fiscal y registrar los datos de contacto que determine la Secretaría de Finanzas, dentro de los plazos previstos en los artículos transitorios del Decreto correspondiente. Los datos de contacto deberán mantenerse actualizados.
+
+El contribuyente deberá registrar, al menos, un correo electrónico y un número de teléfono móvil. Antes de depositar un documento en el Buzón Fiscal, la autoridad enviará un aviso previo a los medios de contacto registrados.
+
+Los documentos que la autoridad deposite en el Buzón Fiscal se considerarán notificados:
+
+a) cuando el contribuyente los abra en el sistema; o
+
+b) al cuarto día natural siguiente al envío del aviso previo, si no los abre.
+
+El uso del Buzón Fiscal no limita los demás medios de notificación establecidos en este Código.
+
+Los documentos enviados o recibidos a través del Buzón Fiscal tendrán plena validez jurídica. La firma electrónica utilizada por la autoridad o el contribuyente producirá los mismos efectos legales que la firma autógrafa.
+
+La Secretaría de Finanzas garantizará la conservación, integridad y seguridad de la información enviada o recibida mediante el Buzón Fiscal, conforme a las disposiciones de carácter general que emita.
+
+Los actos administrativos notificados mediante el Buzón Fiscal deberán cumplir con los requisitos previstos en el artículo 46 de este Código.
+
+La Secretaría de Finanzas emitirá las reglas que regulen el funcionamiento, uso, autenticación, seguridad tecnológica y conservación de la información del Buzón Fiscal.
 
 ## TITULO SEGUNDO. DE LAS OBLIGACIONES Y DERECHOS DE LOS CONTRIBUYENTES
 
@@ -360,6 +402,10 @@ Todo contribuyente está obligado a señalar un domicilio para el cumplimiento d
 Cuando las leyes respectivas lo establezcan, los contribuyentes deberán registrarse en él o en los padrones o registros que correspondan, manifestando la información que les sea solicitada. Asimismo, estarán obligados a presentar los avisos referentes a las modificaciones que ocurran en la información respectiva, utilizando para ello los formatos autorizados por la autoridad fiscal. A falta de un plazo determinado por la ley, se tendrán quince días para cumplir con esta obligación, contados a partir de que ocurra el primer acto que de lugar a ésta.
 
 Tendrán igualmente la obligación de citar en toda declaración, aviso o promoción, que hagan ante la dependencia o autoridad respectiva, el número de registro o clave que les sea asignado en el padrón o registro correspondiente; así como de conservar en su domicilio o establecimiento, el documento comprobatorio del cumplimiento de las obligaciones de registro o aviso.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+El contribuyente deberá mantener actualizados los medios de contacto registrados en el Buzón Fiscal del Estado y presentar el aviso correspondiente cuando estos cambien, dentro del plazo que establezca la Secretaría de Finanzas mediante disposiciones de carácter general.
 
 ###### ARTICULO 29.
 
@@ -1034,6 +1080,14 @@ III. Por estrados: Cuando se trate de convocatorias o avisos generales;
 IV. Por edictos: Cuando la persona a quien se pretende notificar haya abandonado su domicilio sin dar a aviso y se desconozca su paradero, cuando su domicilio se encuentre fuera del territorio nacional, cuando el interesado hubiere fallecido y se desconozca al representante de la sucesión; y, cuando el interesado se oponga u obstaculice el ejercicio de las facultades de las autoridades, y
 
 V. Por instructivo: En los casos en que el contribuyente, su representante o la persona con quien se entienda la diligencia se nieguen a recibir la notificación.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 72 BIS.- La Secretaría de Finanzas podrá realizar notificaciones mediante el Buzón Fiscal del Estado, conforme a lo dispuesto en el artículo 22 Bis de este Código.
+
+Las notificaciones surtirán efectos cuando el contribuyente abra el documento correspondiente en el sistema, o bien al cuarto día natural contado a partir del envío del aviso previo a los medios de contacto registrados, si no lo abre.
+
+La notificación mediante el Buzón Fiscal no limita el uso de los demás medios establecidos en este Título.
 
 ###### ARTICULO 73.
 
@@ -1931,9 +1985,17 @@ I. No inscribirse o no registrarse en el padrón de contribuyentes a que se est�
 
 II. No presentar los avisos al padrón de contribuyentes que corresponda, cuando exista algún cambio en la información originalmente proporcionada o hacerlo en forma incompleta o con errores;
 
-III. No señalar domicilio fiscal o señalar uno que no corresponda conforme a este Código, así como no dar aviso de cambio del mismo, y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-IV. No citar la clave que corresponda en el padrón de contribuyentes, en los avisos, declaraciones y demás promociones que presente el contribuyente o responsable solidario.
+III. No señalar domicilio fiscal o señalar uno que no corresponda conforme a este Código, así como no dar aviso de cambio del mismo;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IV. No citar la clave que corresponda en el padrón de contribuyentes, en los avisos, declaraciones y demás promociones que presente el contribuyente o responsable solidario, y
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+V. No activar el Buzón Fiscal del Estado o no registrar los medios de contacto dentro de los plazos establecidos en las disposiciones aplicables.
 
 ###### ARTICULO 150.
 
@@ -1947,13 +2009,17 @@ I. Multa de treinta y cinco a setenta veces el valor diario de la Unidad de Medi
 
 II. Multa de quince a cuarenta veces el valor diario de la Unidad de Medida y Actualización vigente, a la prevista en la fracción II;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-III. Multa de diez a sesenta veces el valor diario de la Unidad de Medida y Actualización vigente, a la prevista en la fracción III, y
+III. Multa de diez a sesenta veces el valor diario de la Unidad de Medida y Actualización vigente, a la prevista en la fracción III;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-IV. Multa de cinco a diez veces el valor diario de la Unidad de Medida y Actualización vigente, a la prevista en la fracción IV.
+IV. Multa de cinco a diez veces el valor diario de la Unidad de Medida y Actualización vigente, a la prevista en la fracción IV, y
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+V. La infracción prevista en la fracción V del artículo 149 se sancionará con multa de diez a cuarenta veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 ###### ARTICULO 151.
 
@@ -2552,3 +2618,15 @@ P.O. 22 DE NOVIEMBRE DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0337.- QUE REFORMA LOS ARTÍCULOS 36 SEXTIES, 38, 64, 84, 85, 88, 89 Y 90, REALIZA ADICIÓN A LOS ARTÍCULOS 38 Y 64, Y HACE DEROGACIONES EN LOS ARTÍCULOS 64 Y 121, DE LA LEY DE HACIENDA DEL ESTADO DE SAN LUIS POTOSÍ; REFORMA LOS ARTÍCULOS 20, 149, 150 Y REALIZA ADICIONES A LOS ARTÍCULOS 18 BIS, 22 BIS, 28, 72 BIS, 149 Y 150, DEL CÓDIGO FISCAL PARA EL ESTADO DE SAN LUIS POTOSÍ; Y EXPIDE LA LEY DE INGRESOS DEL ESTADO DE SAN LUIS POTOSÍ, PARA EL EJERCICIO FISCAL 2026".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Secretaría de Finanzas emitirá las reglas de operación, funcionamiento, seguridad tecnológica, autenticación y conservación de la información del Buzón Fiscal del Estado, dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto.
+
+TERCERO. Las personas morales deberán activar su Buzón Fiscal y registrar sus medios de contacto dentro de los noventa días naturales siguientes a la publicación de las reglas de operación. Asimismo, las personas físicas con obligaciones fiscales estatales deberán hacerlo dentro de los ciento veinte días naturales siguientes a dicha publicación.
+
+CUARTO. La Secretaría de Finanzas podrá utilizar el Buzón Fiscal del Estado de manera gradual, como medio complementario de notificación, sin perjuicio de los demás medios establecidos en este Código.
