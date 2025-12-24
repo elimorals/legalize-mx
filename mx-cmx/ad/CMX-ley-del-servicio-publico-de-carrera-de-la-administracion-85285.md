@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-servicio-publico-de-carrera-de-la-administracion-85285"
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-26"
-last_updated: "2021-02-17"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85285&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2012-01-13"
 
 LEY DEL SERVICIO PÚBLICO DE CARRERA DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 26 de enero de 2012.
 
@@ -884,9 +884,11 @@ VI. Incentivos; y
 
 VII. Reconocimientos.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 70.
 
-La separación del Servicio será ordinaria y extraordinaria y condicionará la permanencia del servidor público de confianza de la Administración Pública del Distrito Federal, de acuerdo a las leyes y normas aplicables en materia laboral y de responsabilidades administrativas.
+La separación del Servicio será ordinaria y extraordinaria y condicionará la permanencia del servidor público de confianza de la Administración Pública de la Ciudad de México, de acuerdo a las leyes y normas aplicables en materia laboral y de responsabilidades administrativas.
 
 ###### Artículo 71.
 
@@ -983,3 +985,11 @@ G.O. 17 DE FEBRERO DE 2021.
 PRIMERO. Remítase a la persona Titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 70, DE LA LEY DEL SERVICIO PÚBLICO DE CARRERA DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la Persona Titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
