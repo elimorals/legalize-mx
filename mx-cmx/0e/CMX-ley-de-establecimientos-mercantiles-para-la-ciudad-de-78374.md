@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-establecimientos-mercantiles-para-la-ciudad-de-78374"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-20"
-last_updated: "2025-12-19"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78374&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2011-01-14"
 
 LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 19 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 20 de enero de 2011.
 
@@ -462,9 +462,11 @@ V. Cumplir con los horarios de funcionamiento que fije la Ley y no permitir que 
 
 VI. Cumplir la suspensión de actividades en las fechas y horarios específicos que determine la Secretaría de Gobierno;
 
-> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-VII. Evitar aglomeraciones en la entrada principal, salidas y salidas de emergencia salidas de emergencia (sic) que obstruyan la vialidad, el paso peatonal o que pongan en riesgo la seguridad de los usuarios o peatones.
+VII. Evitar aglomeraciones en la entrada principal, salidas y salidas de emergencia que obstruyan la vialidad, el paso peatonal o que pongan en riesgo la seguridad de los usuarios o peatones;
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
 Las salidas de emergencia deberán estar debidamente señaladas al interior de los establecimientos mercantiles, y cuando las características del mismo lo permitan deberán ser distintas al acceso principal de conformidad con la normativa en gestión integral de riesgos y protección civil;
 
@@ -1132,7 +1134,9 @@ III. Desarrollar un plan de acción social a favor del consumo responsable de be
 
 IV. Nombrar expresamente al o los dependientes del Establecimiento Mercantil por medio del Sistema, el titular podrá cambiar, al o los dependientes nombrados por lo menos tres días antes de que surta efecto dicho cambio. El o los dependientes serán solidariamente responsables del cumplimiento de la sanción o sanciones de que se traten; y
 
-V. Esta obligado a contratar elementos de seguridad acreditados por la Secretaría de Seguridad Pública del Distrito Federal, quienes deberán primordialmente vigilar se lleve a cabo lo establecido en la fracción VIII del apartado B del artículo 10 fracción (sic) de la presente Ley.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+V. Está obligado a contratar elementos de seguridad acreditados por la Secretaría de Seguridad Ciudadana de la Ciudad de México, quienes deberán primordialmente vigilar se lleve a cabo lo establecido en la fracción VIII del apartado B del artículo 10 de la presente Ley.
 
 > <small>(ADICIONADO, G.O. 14 DE FEBRERO DE 2012)</small>
 
@@ -1146,11 +1150,13 @@ Además, son considerados de impacto zonal: estadios, bares, cantinas, antros, d
 
 Estos establecimientos deberán cumplir con las obligaciones contenidas en el apartado A y en las fracciones I, III, IV, VI, IX y X del apartado B del Artículo 10, así como las del artículo 13 de esta Ley, y obtener el visto bueno de la Secretaría de Gobierno.
 
-Queda prohibida la entrada a menores de edad a este tipo de establecimientos mismos que no podrán ubicarse a menos de trescientos metros de centros educativos, ni en inmuebles que conforme a los Programas de Desarrollo Urbano del Distrito Federal tengan zonificación habitacional.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+Queda prohibida la entrada a menores de edad a este tipo de establecimientos mismos que no podrán ubicarse a menos de trescientos metros de centros educativos, ni en inmuebles que conforme a los Programas de Desarrollo Urbano de la Ciudad de México tengan zonificación habitacional.
 
-La vigilancia del cumplimiento de las obligaciones a cargo de los Titulares de los establecimientos previstos en el presente artículo, está a cargo del Instituto de Verificación Administrativa de la Ciudad de México, quien ordenará la práctica de visitas de verificación administrativa y sustanciará el procedimiento respectivo, conforme a la Ley del Instituto, de Verificación Administrativa de la Ciudad de México, la Ley de Procedimiento Administrativo, de la Ciudad de México, el Reglamento de Verificación Administrativa del Distrito Federal y el Reglamento de la Ley de Establecimientos Mercantiles, todos de la Ciudad de México, vigente en Materia de Aforo y de Seguridad en Establecimientos de Impacto Zonal. Dichas visitas podrán ser realizadas con el apoyo de la Secretaría de Gestión Integral de Riesgos y Protección Civil.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+La vigilancia del cumplimiento de las obligaciones a cargo de los Titulares de los establecimientos previstos en el presente artículo, está a cargo del Instituto de Verificación Administrativa de la Ciudad de México, quien ordenará la práctica de visitas de verificación administrativa y sustanciará el procedimiento respectivo, conforme a la Ley del Instituto, de Verificación Administrativa de la Ciudad de México, la Ley de Procedimiento Administrativo, de la Ciudad de México, el Reglamento de Verificación Administrativa del Distrito Federal y el Reglamento de la Ley de Establecimientos Mercantiles, todos vigentes en la Ciudad de México, en Materia de Aforo y de Seguridad en Establecimientos de Impacto Zonal. Dichas visitas podrán ser realizadas con el apoyo de la Secretaría de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México.
 
 ### CAPITULO III
 
@@ -2383,3 +2389,11 @@ A partir de la publicación de dicho protocolo, se otorgará un plazo de 60 día
 QUINTO. Se otorgará a los establecimientos mercantiles con giro de hospedaje un término de 195 días, contados a partir de la publicación del presente decreto, para dar cumplimiento a lo establecido en el artículo 31 Ter de la Ley de Establecimientos Mercantiles para la Ciudad de México.
 
 SEXTO. Las multas contempladas en la Ley de Establecimientos Mercantiles para la Ciudad de México donde aparece como unidad de cobro la "Unidad de Cuenta de la Ciudad de México" deberá entenderse que se refiere a la Unidad de Medida y Actualización vigente al momento de la comisión de las hipótesis previstas.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 10, APARTADO A, FRACCIÓN VII, PÁRRAFO PRIMERO; 27, APARTADO A, FRACCIÓN V; Y 27 BIS, PÁRRAFOS CUARTO Y QUINTO, TODOS DE LA LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la Persona Titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
