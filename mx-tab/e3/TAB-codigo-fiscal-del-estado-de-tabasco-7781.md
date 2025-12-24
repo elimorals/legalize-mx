@@ -4,7 +4,7 @@ identifier: "TAB-codigo-fiscal-del-estado-de-tabasco-7781"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-09-25"
-last_updated: "2025-06-28"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO FISCAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Tabasco, el sábado 25 de septiembre de 1993.
 
@@ -97,11 +97,11 @@ A los productos no le son aplicables, para los efectos de su cobro, las disposic
 
 Participaciones son los ingresos que el Gobierno del Estado de Tabasco tiene derecho a percibir del Gobierno Federal, conforme a las leyes y convenios de coordinación que se hayan suscrito o suscriban para tales efectos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 6.
 
-Son créditos fiscales los que tenga derecho a percibir el Gobierno del Estado o sus organismos descentralizados, que provengan de contribuciones, aprovechamientos, multas y accesorios, incluyendo los que deriven de responsabilidades que tenga derecho a exigir de servidores públicos o de los particulares, así como, aquéllos a los que las leyes les den ese carácter.
+Son créditos fiscales los que tenga derecho a percibir el Estado o sus organismos descentralizados, que provengan de contribuciones, aprovechamientos, multas y accesorios, incluyendo los que deriven de responsabilidades que tenga derecho a exigir de servidores públicos o de los particulares, así como, aquéllos a los que las leyes les den ese carácter.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
@@ -507,11 +507,11 @@ Si el promovente no se encuentra en los supuestos a que se refiere la fracción 
 
 Cuando no se cumplan los requisitos a que se refiere este artículo, se estará a lo dispuesto en el artículo 19, antepenúltimo párrafo de este Código.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 20.
 
-En ningún trámite administrativo se admitirá la gestión de negocios. La representación de las personas físicas o jurídicas colectivas ante las autoridades fiscales se hará mediante escritura pública o mediante carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las autoridades fiscales, notario o fedatario público, acompañando copia de la identificación del contribuyente o representante legal, previo cotejo con su original.
+En ningún trámite administrativo se admitirá la gestión de negocios, con excepción de lo dispuesto en el párrafo quinto de este artículo. La representación de las personas físicas o jurídicas colectivas ante las autoridades fiscales se hará mediante escritura pública o mediante carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las autoridades fiscales, notario o fedatario público, acompañando copia de la identificación del contribuyente o representante legal, previo cotejo con su original.
 
 Los particulares o sus representantes podrán autorizar por escrito a personas para que a su nombre reciban notificaciones. Las personas así autorizadas podrán ofrecer, rendir pruebas y presentar promociones relacionadas con ellas.
 
@@ -520,6 +520,20 @@ Quien promueva a nombre de otro deberá acreditar que la representación le fue 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
 Cuando las promociones deban ser presentadas en documentos digitales por los representantes o los autorizados, el documento digital correspondiente deberá contener firma electrónica avanzada de dichas personas.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Cuando se trate de gestores para trámites vehiculares deberán presentar:
+
+I. Inscripción vigente en el Registro Estatal de Gestores Vehiculares. Para tales efectos, los gestores solo podrán realizar el trámite cuando no cuenten con una suspensión en el Registro;
+
+II. Carta poder simple firmada por la persona titular del trámite vehicular a realizarse; y
+
+III. Originales o copias de las identificaciones vigentes del otorgante y testigos.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Cuando los trámites vehiculares sean realizados por una persona física en nombre de un familiar, no será considerado gestor vehicular. En este caso, deberá acreditar el parentesco en línea recta, ascendente, descendente, o colateral hasta el tercer grado a través de documento idóneo y además deberá exhibir los requisitos previstos en las fracciones II y III del párrafo anterior.
 
 ###### Artículo 21.
 
@@ -2365,19 +2379,23 @@ IV. Presentar declaraciones o solicitudes que sin derecho hayan dado lugar a una
 
 V. No presentar aviso de cambio de domicilio o presentarlo fuera de los plazos que señala este Código, salvo, cuando la presentación se efectúe en forma espontánea;
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-VI. Impedir a (sic) que se practique la verificación de cumplimiento de obligaciones en el domicilio fiscal, sucursal, instalaciones, edificios, parques industriales, clínicas, hospitales, conjuntos habitacionales, almacenes y cualquiera que sea el lugar en donde se presuma la existencia de personal que reciba por su trabajo, el pago a que hace referencia el artículo 26 de la Ley de Hacienda del Estado de Tabasco; y
+VI. Impedir a (sic) que se practique la verificación de cumplimiento de obligaciones en el domicilio fiscal, sucursal, instalaciones, edificios, parques industriales, clínicas, hospitales, conjuntos habitacionales, almacenes y cualquiera que sea el lugar en donde se presuma la existencia de personal que reciba por su trabajo, el pago a que hace referencia el artículo 26 de la Ley de Hacienda del Estado de Tabasco;
 
-> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-VII. Tratándose de establecimientos que comercialicen motocicletas, motocarros, motonetas y vehículos recreativos todo terreno, que no retengan y enteren el pago del derecho establecido en el artículo 85, fracción I, incisos b) y c) de la Ley de Hacienda del Estado de Tabasco, y cuando se dé el supuesto previsto en el cuarto párrafo del artículo 81-A de la Ley de Hacienda del Estado de Tabasco.
+VII. Tratándose de establecimientos que comercialicen motocicletas, motocarros, motonetas y vehículos recreativos todo terreno, que no retengan y enteren el pago del derecho establecido en el artículo 85, fracción I, incisos b) y c) de la Ley de Hacienda del Estado de Tabasco, y cuando se dé el supuesto previsto en el cuarto párrafo del artículo 81-A de la Ley de Hacienda del Estado de Tabasco; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VIII. No entregar las placas vencidas dentro del término señalado en la Ley de Hacienda del Estado de Tabasco o no acreditar la imposibilidad de hacerlo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 69.
 
-A quien cometa las infracciones relacionadas con las obligaciones de presentar declaraciones, solicitudes o avisos, así como de pagar las contribuciones a las que se encuentren sujetos o de expedir las constancias a que se refiere el artículo 68, se impondrán las multas siguientes:
+A quien cometa las infracciones relacionadas con las obligaciones de presentar declaraciones, solicitudes o avisos, así como de pagar las contribuciones a las que se encuentren sujetos o de expedir las constancias y demás obligaciones a que se refiere el artículo 68, se impondrán las multas siguientes:
 
 I. Para la señalada en la fracción I:
 
@@ -2405,13 +2423,21 @@ III. Tratándose de las señaladas en las fracciones III y V, de diez a cincuent
 
 IV. Para la señalada en la fracción IV, la multa será el 30% de la devolución indebida;
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-V. Tratándose de la señalada en la fracción VI, la multa será de cincuenta veces el valor diario de la Unidad de Medida y Actualización; y
+V. Tratándose de la señalada en la fracción VI, la multa será de cincuenta veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-VI. Tratándose de la señalada en la fracción VII, la multa será de cincuenta veces el valor diario de la Unidad de Medida y Actualización.
+VI. Tratándose de la señalada en la fracción VII, la multa será de cincuenta veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VII. Por la infracción prevista en la fracción VIII, se impondrá una multa equivalente a veinte veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VII, P.O. 24 DE DICIEMBRE DE 2025]</small>
+
+La imposición de esta sanción no exime al contribuyente de la obligación de devolver las placas referidas, ni de las demás responsabilidades que establezcan otros ordenamientos legales.
 
 ###### Artículo 70.
 
@@ -3865,15 +3891,21 @@ b). Se dicten en el procedimiento administrativo de ejecución, cuando se alegue
 
 c). Afecten el interés jurídico de terceros, en los casos a que se refiere el artículo 171 Quinquies de este Código.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 167.
 
-La interposición del recurso de revocación se hará antes de acudir al Tribunal de lo Contencioso Administrativo del Estado.
+La interposición del recurso de revocación se hará antes de acudir al Tribunal de Justicia Administrativa del Estado de Tabasco.
 
-El interesado podrá optar por impugnar una resolución definitiva o acto a través del recurso de revocación o promover, directamente juicio ante el Tribunal de lo Contencioso Administrativo del Estado. Deberá intentar la misma vía elegida si pretende impugnar un acto administrativo que sea antecedente o consecuente de otro; en el caso de resoluciones dictadas en cumplimiento de las emitidas en recursos administrativos, el contribuyente podrá impugnar dicho acto, por una sola vez, a través de la misma vía.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-Si la resolución dictada en el recurso de revocación se combate ante el Tribunal de lo Contencioso Administrativo del Estado, la impugnación del acto conexo deberá hacerse valer ante el Tribunal de lo Contencioso Administrativo del Estado que conoce del juicio respectivo.
+El interesado podrá optar por impugnar una resolución definitiva o acto a través del recurso de revocación o promover, directamente juicio ante el Tribunal de Justicia Administrativa del Estado de Tabasco. Deberá intentar la misma vía elegida si pretende impugnar un acto administrativo que sea antecedente o consecuente de otro; en el caso de resoluciones dictadas en cumplimiento de las emitidas en recursos administrativos, el contribuyente podrá impugnar dicho acto, por una sola vez, a través de la misma vía.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Si la resolución dictada en el recurso de revocación se combate ante el Tribunal de Justicia Administrativa del Estado de Tabasco, la impugnación del acto conexo deberá hacerse valer ante el Tribunal de Justicia Administrativa del Estado de Tabasco que conoce del juicio respectivo.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 Cuando un recurso se interponga ante autoridad fiscal incompetente, ésta lo turnará a la que sea competente.
 
@@ -3969,15 +4001,29 @@ I. Que no afecten el interés jurídico del recurrente;
 
 II. Que sean resoluciones dictadas en recurso administrativo o en cumplimiento de sentencias;
 
-III. Que hayan sido impugnados ante el Tribunal de lo Contencioso Administrativo del Estado;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+III. Que hayan sido impugnados ante el Tribunal de Justicia Administrativa del Estado de Tabasco;
 
 IV. Que se hayan consentido, entendiéndose por consentimiento el de aquellos contra los que no se promovió el recurso en el plazo señalado al efecto;
 
 V. Que sean conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa diferente;
 
-VI. Si son revocados los actos por la autoridad; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-VII. Que no amplíen el recurso administrativo o si en la ampliación no se expresa agravio alguno, tratándose de lo previsto por la fracción II, del artículo 186 de este Código.
+VI. Si son revocados los actos por la autoridad;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VII. Que el contribuyente manifieste desconocer;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VIII. Que exijan el pago de créditos fiscales determinados en resoluciones liquidatorias que hubieren sido impugnadas y hayan quedado firmes por resolución de autoridad competente; y
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IX. Que resuelvan sobre solicitudes de prescripción de créditos fiscales determinados en resoluciones liquidatorias que hubieren sido impugnadas y hayan quedado firmes por resolución de autoridad competente.
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -4083,35 +4129,13 @@ El tercero que afirme ser propietario de los bienes o negociaciones, o titular d
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-#### Sección Sexta. Impugnación de las Notificaciones
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+#### Sección Sexta. Impugnación de las Notificaciones
 
 ###### Artículo 186.
 
-Cuando se alegue que un acto administrativo no fue notificado o que lo fue ilegalmente, siempre que se trate de los recurribles conforme al artículo 166, se estará a las reglas siguientes:
-
-I. Si el particular afirma conocer el acto administrativo, la impugnación contra la notificación se hará valer mediante la interposición del recurso administrativo que proceda, en el que manifestará la fecha en que lo conoció.
-
-En caso de que también impugne el acto administrativo, los agravios se expresarán en el citado recurso, conjuntamente con los que se formulen contra la notificación;
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
-
-II. Si el particular niega conocer el acto, manifestará tal desconocimiento interponiendo el recurso administrativo ante la autoridad fiscal competente para notificar dicho acto. La citada autoridad le dará a conocer el acto junto con la notificación que del mismo se hubiere practicado, para lo cual el particular señalará en el escrito del propio recurso, el domicilio en que se le debe dar a conocer y el nombre de la persona facultada al efecto. Si no hace alguno de los señalamientos mencionados, la autoridad citada dará a conocer el acto y la notificación por estrados.
-
-El particular tendrá un plazo de veinte días a partir del día siguiente al en que la autoridad se los haya dado a conocer, para ampliar el recurso administrativo, impugnando el acto y su notificación o sólo esta última;
-
-III. La autoridad competente para resolver el recurso administrativo estudiará los agravios expresados contra la notificación, previamente al examen de la impugnación que, en su caso, se haya hecho del acto administrativo; y
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
-
-IV. Si se resuelve que no hubo notificación o que fue ilegal, tendrá al recurrente como sabedor del acto administrativo, desde la fecha en que manifestó conocerlo o en que se le dio a conocer en los términos de la fracción II de este artículo, quedando sin efectos todo lo actuado en base a aquélla y procederá al estudio de la impugnación que, en su caso, hubiese formulado en contra de dicho acto.
-
-Si resuelve que la notificación fue legalmente practicada y, como consecuencia de ello, la impugnación contra el acto se interpuso extemporáneamente, se sobreseerá dicho recurso por improcedente.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
-
-En el caso de actos regulados por otras leyes estatales, la impugnación de la notificación efectuada por autoridades fiscales se hará mediante el recurso administrativo que en su caso establezcan dichas leyes y de acuerdo con lo previsto por este artículo.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2025)
 
 #### Sección Séptima. Trámite y Resolución de los Recursos
 
@@ -4133,7 +4157,9 @@ Las demás pruebas quedarán a la prudente apreciación de la autoridad.
 
 Si por el enlace de las pruebas rendidas y de las presunciones formadas, las autoridades adquieren convicción distinta acerca de los hechos materia del recurso, podrán valorar las pruebas sin sujetarse a lo dispuesto en este artículo, debiendo en ese caso fundar razonadamente esta parte de su resolución.
 
-Para el trámite, desahogo y valoración de las pruebas ofrecidas y admitidas, serán aplicables las disposiciones legales que rijan para el juicio ante el Tribunal de lo Contencioso Administrativo del Estado, a través del cual se puedan impugnar las resoluciones que pongan fin al recurso de revocación, en tanto no se opongan a lo dispuesto en este Capítulo.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Para el trámite, desahogo y valoración de las pruebas ofrecidas y admitidas, serán aplicables las disposiciones legales que rijan para el juicio ante el Tribunal de Justicia Administrativa del Estado de Tabasco, a través del cual se puedan impugnar las resoluciones que pongan fin al recurso de revocación, en tanto no se opongan a lo dispuesto en este Capítulo.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -4155,7 +4181,9 @@ La autoridad podrá corregir los errores que advierta en la cita de los precepto
 
 No se podrán revocar o modificar los actos administrativos en la parte no impugnada por el recurrente.
 
-La resolución expresará con claridad los actos que se modifiquen y, si la modificación es parcial, se indicará el monto del crédito fiscal correspondiente. Asimismo, en dicha resolución deberán señalarse los plazos en que la misma puede ser impugnada en el juicio ante el Tribunal de lo Contencioso Administrativo del Estado. Cuando en la resolución se omita el señalamiento de referencia, el contribuyente contará con el doble del plazo que establecen las disposiciones legales para interponer el juicio ante el Tribunal de lo Contencioso Administrativo del Estado.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+La resolución expresará con claridad los actos que se modifiquen y, si la modificación es parcial, se indicará el monto del crédito fiscal correspondiente. Asimismo, en dicha resolución deberán señalarse los plazos en que la misma puede ser impugnada en el juicio ante el Tribunal de Justicia Administrativa del Estado de Tabasco. Cuando en la resolución se omita el señalamiento de referencia, el contribuyente contará con el doble del plazo que establecen las disposiciones legales para interponer el juicio ante el Tribunal de Justicia Administrativa del Estado de Tabasco.
 
 ###### Artículo 190.
 
@@ -5122,3 +5150,27 @@ P.O. 28 DE JUNIO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que sean contrarias a lo establecido al presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 190 POR EL QUE “SE REFORMAN: LOS ARTÍCULOS 6, PÁRRAFO PRIMERO; 20, PÁRRAFO PRIMERO; 68, FRACCIONES VI Y VII; 69, PÁRRAFO PRIMERO, FRACCIONES V Y VI; 167, PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO; 171, FRACCIONES III, VI Y VII; 187, PÁRRAFO OCTAVO; Y 189, PÁRRAFO CUARTO. SE ADICIONAN: LOS PÁRRAFOS QUINTO Y SEXTO AL ARTÍCULO 20; LA FRACCIÓN VIII AL ARTÍCULO 68; LA FRACCIÓN VII AL ARTÍCULO 69; Y LAS FRACCIONES VIII Y IX AL ARTÍCULO 171. SE DEROGAN: EL ARTÍCULO 186 Y LA SECCIÓN SEXTA DENOMINADA IMPUGNACIÓN DE LAS NOTIFICACIONES, DEL CAPÍTULO III, TÍTULO V. TODOS DEL CÓDIGO FISCAL DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día uno del mes de enero del año dos mil veintiséis, sin perjuicio de lo dispuesto en los artículos transitorios siguientes.
+
+SEGUNDO. Quedan sin efectos todas aquellas disposiciones que se opongan al presente Decreto.
+
+TERCERO. Cuando se disponga por mandato legal de la autoridad competente, tratándose de la transferencia de servicios públicos que preste el Gobierno del Estado y se trasladen a la autoridad municipal o, en su caso, de la municipalización de servicios públicos que el Gobierno del Estado tenga que entregar al Gobierno Municipal que corresponda y por cuyos servicios se establezca en la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2026 el concepto tributario, habrá de considerarse para los fines legales pertinentes, que una vez cumplidas las formalidades del caso, tales contribuciones se entenderán de competencia hacendaria de la autoridad municipal y sin necesidad de un nuevo Decreto habrán de tenerse insertas en el texto de la Ley de Ingresos del Municipio que corresponda o cualquier ordenamiento legal en que así proceda.
+
+Para el caso de aquellas contribuciones de carácter municipal, que mediante convenios sean transferidas al Gobierno del Estado, de conformidad con la Ley de Coordinación Fiscal y Financiera del Estado de Tabasco, se entenderán de la competencia hacendaría estatal y sin necesidad de un nuevo Decreto habrán de tenerse insertadas en el texto de la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2026 o cualquier otro ordenamiento legal en que así proceda.
+
+CUARTO. La Ley de ingresos del Estado de Tabasco para el Ejercicio Fiscal 2026 no contempla los recursos refrendados del ejercicio fiscal 2025, mismos que se reflejarán en el Presupuesto General de Egresos del Estado de Tabasco para el Ejercicio Fiscal 2026.
+
+QUINTO. En el caso de los organismos públicos descentralizados y empresas de participación estatal mayoritaria, firmarán convenios de colaboración con la Secretaría de Administración y Finanzas, para que mediante plataforma web administrada por esa Secretaría, se supervisen e informen en tiempo real sus ingresos por concepto de derechos, productos y aprovechamientos, conforme a los mecanismos y lineamientos que en materia de ingresos se establezcan por esa misma dependencia.
+
+SEXTO. El Registro Estatal de Gestores Vehiculares deberá crearse en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+SÉPTIMO. La Secretaría de Administración y Finanzas, a través de la Subsecretaría de Ingresos, deberá emitir los lineamientos para regular lo concerniente al Registro Estatal de Gestores Vehiculares, dentro de los 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+OCTAVO. Con fundamento en el artículo 116 del Código Fiscal del Estado de Tabasco, se declara la prescripción de los créditos y obligaciones fiscales derivados de las contribuciones por concepto de Impuesto Vehicular Estatal, refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, y canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, así como sus accesorios, anteriores al ejercicio fiscal 2021, que se encuentren en el sistema del Registro Estatal de Vehículos de la Secretaría de Administración y Finanzas, siempre y cuando no hayan sido requeridas por la autoridad fiscal mediante cualquier acción, gestión de cobro o cualquier acto administrativo, o se encuentre suspendido en términos del mismo artículo.
+
+Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco, se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
