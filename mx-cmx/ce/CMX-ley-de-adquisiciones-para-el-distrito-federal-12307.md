@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-adquisiciones-para-el-distrito-federal-12307"
 country: "mx"
 rank: "ley"
 publication_date: "1998-09-28"
-last_updated: "2018-02-26"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12307&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-09-18"
 
 LEY DE ADQUISICIONES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 26 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 28 de septiembre de 1998.
 
@@ -988,6 +988,12 @@ XIII.- Aquellas que presenten garantías, que no resulte posible hacerlas efecti
 
 XIV.- Cuando se compruebe por la convocante durante o después del procedimiento de licitación o invitación restringida o de la celebración o dentro de la vigencia de los contratos, que algún proveedor acordó con otro u otros elevar los precios de los bienes o servicios;
 
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XIV Bis.- Las que, en los últimos tres años, hayan sido determinadas responsables por actos discriminatorios por medio de sentencia ejecutoriada o no cumplan con las resoluciones administrativas emitidas por las autoridades competentes.
+
+Corresponde a la parte interesada manifestar bajo protesta de decir verdad no encontrarse en este supuesto; y
+
 > <small>(ADICIONADA, G.O. 7 DE ABRIL DE 2011)</small>
 
 XV.- Las demás que por cualquier causa se encuentren impedidas para ello por disposición legal;
@@ -1879,3 +1885,11 @@ PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México y para su may
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO.- se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XIV BIS AL ARTÍCULO 39 DE LA LEY DE ADQUISICIONES PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO. Remítase a la Persona Titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
