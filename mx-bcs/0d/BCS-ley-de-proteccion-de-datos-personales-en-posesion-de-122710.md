@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-proteccion-de-datos-personales-en-posesion-de-122710"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-17"
-last_updated: "2017-07-17"
+last_updated: "2025-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY DE PROTECCION DE DATOS PERSONALES EN POSESION DE SUJETOS OBLIGADOS PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 24 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE DICIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 17 de julio de 2017.
 
@@ -1580,3 +1582,57 @@ CARLOS MENDOZA DAVIS
 SECRETARIO GENERAL DE GOBIERNO
 
 ALVARO DE LA PEÑA ANGULO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3256 SE EXPIDE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día 01 de enero de 2026, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Se abroga la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Baja California Sur expedida por el Congreso del Estado mediante decreto número 2461 y publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur de fecha 17 de julio de 2017.
+
+Asimismo, se derogan todas las disposiciones de igual o menor jerarquía que se opongan o contravengan lo dispuesto en el presente Decreto.
+
+TERCERO.- El Titular del Poder Ejecutivo, por conducto de la Secretaría de la Contraloría y Transparencia Gubernamental deberá expedir el Reglamento de esta Ley y los lineamientos generales necesarios para su implementación a más tardar el 31 de diciembre de 2025.
+
+CUARTO.- En términos del Decreto Número 3178 de reforma constitucional local, a partir de la entrada en vigor de este decreto se entenderá extinto el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur. La Secretaría asumirá las funciones previstas en esta Ley y las Autoridades garantes ejercerán las atribuciones que les confiere el Título Octavo.
+
+QUINTO. El comité de Transición a que hace alusión el régimen transitorio de la nueva ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur, tendrá también la responsabilidad de llevar a cabo todas las acciones que resulten necesarias para dar paso a las obligaciones que en materia de protección de datos personales en posesión de sujetos obligados tendrá la Secretaría de la Contraloría y Transparencia Gubernamental.
+
+SEXTO. Los procedimientos, recursos de revisión, verificaciones, denuncias, medidas de apremio, sanciones y demás asuntos en trámite a la entrada en vigor de esta Ley continuarán sin interrupción ante la Secretaría o la Autoridad competente, conservando su estado procesal y plazos. Los actos válidamente realizados conservarán su eficacia jurídica.
+
+SÉPTIMO. Los sujetos obligados deberán:
+
+a) Ajustar su aviso de privacidad integral y simplificado a los artículos 20 a 22, dentro de 90 días naturales;
+
+b) Contar con Documento de Seguridad, inventario de tratamientos y bitácora de vulneraciones conforme a los artículos 27 a 33, dentro de 120 días naturales.
+
+OCTAVO. Los contratos, convenios o instrumentos con personas encargadas o proveedores de cómputo en la nube deberán adecuarse a los artículos 53, 57 y 58 de esta Ley dentro de los 180 días naturales siguientes a su publicación, incorporando cláusulas de confidencialidad, seguridad, supresión y transparencia en subcontrataciones.
+
+NOVENO. Los sujetos obligados que ya operen tratamientos intensivos o relevantes deberán elaborar y presentar la Evaluación de Impacto en Protección de Datos Personales prevista en el artículo 68 dentro de los 180 días naturales siguientes a la publicación de esta Ley, salvo los supuestos de excepción del artículo 73, debidamente fundados y motivados.
+
+DÉCIMO. La Secretaría emitirá, a más tardar el 31 de diciembre de 2025, lineamientos sobre:
+
+I. Avisos de privacidad;
+
+II. Ejercicio de derechos ARCO y portabilidad;
+
+III. Medidas de seguridad administrativa, física y técnica;
+
+IV. Procedimiento de verificación;
+
+V. Mejores prácticas y certificación;
+
+VI. Evaluación de impacto; y
+
+VII. Transferencias y remisiones.
+
+DÉCIMO PRIMERO. los sujetos obligados deberán asegurar la operación continua e interoperabilidad con la Plataforma Nacional de Transparencia, garantizando la migración y actualización de cuentas, perfiles y módulos vinculados al ejercicio de derechos ARCO en un plazo de 60 días naturales contados desde la publicación de esta Ley.
+
+DÉCIMO SEGUNDO. La Secretaría de Finanzas y Administración del Gobierno del Estado de Baja California Sur, deberá proveer para el año 2026 los recursos suficientes y necesarios para el cumplimiento de este Decreto.
+
+DÉCIMO TERCERO. Todas las referencias normativas a la "Autoridad garante estatal" o al "Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur" contenidas en leyes, reglamentos, decretos, acuerdos o cualquier disposición, se entenderán hechas a la Secretaría y a las Autoridades garantes a que se refiere esta Ley, según sus competencias.
+
+DÉCIMO CUARTO. En lo que no se oponga a la presente Ley, permanecerán vigentes los criterios, acuerdos y lineamientos técnicos del Instituto extinto y de autoridades federales competentes, hasta en tanto la Secretaría emita las disposiciones locales correspondientes.
