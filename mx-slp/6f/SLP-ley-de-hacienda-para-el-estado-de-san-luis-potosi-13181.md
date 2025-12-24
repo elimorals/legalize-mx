@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2025-01-31"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -837,9 +837,9 @@ Para los efectos de este impuesto se considera emisión a la atmósfera la expul
 
 ARTICULO 36 QUINQUE. Son sujetos y están obligados al pago de este impuesto los que define la fracción XI del artículo 36 TER de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-ARTICULO 36 SEXTIES. La base de este impuesto es la cuantía de carga contaminante de las emisiones directas gravadas que se realicen desde la o las instalaciones o fuentes fijas expresadas en toneladas.
+ARTICULO 36 SEXTIES. La base de este impuesto es la cuantía de carga contaminante de las emisiones directas gravadas que se realicen desde fuentes fijas expresadas en toneladas.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
@@ -999,9 +999,9 @@ III. Por anotaciones marginales en actas del Registro Civil de juicios por sente
 
 IV. Por la expedición de copias de actas certificadas del estado civil se pagarán derechos en UMA vigente, como sigue:
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-a) Por la expedición de actas certificadas del Registro Civil en el interior del Estado a través de sus centros electrónicos o ventanillas se pagarán 0.50; si se expide a través de algún centro electrónico fuera del Estado se pagará 1.14; si se expide por las páginas web oficiales de Gobierno del Estado o del Gobierno Federal se pagará 0.90 y si se expide por el Archivo Histórico del Estado se pagará 0.5.
+a) Por la expedición de actas certificadas del Registro Civil en el interior del Estado a través de sus centros electrónicos o ventanillas se pagarán 0.71; si se expide a través de los centros electrónicos de cobro de la Secretaría de Finanzas se pagarán 0.71; si se expide a través de algún centro electrónico fuera del Estado se pagará 1.14; si se expide por las páginas web oficiales de Gobierno del Estado o del Gobierno Federal se pagará 0.90 y si se expide por el Archivo Histórico del Estado se pagará 0.5.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
@@ -1023,11 +1023,13 @@ V. Por la certificación de la copia fiel del libro duplicado se pagara 2.2;
 
 VI. Por resolución de enmienda administrativa en actas del Registro Civil, de conformidad a lo establecido en el artículo 136 de la Ley del Registro Civil, se pagarán 5.26;
 
-VII. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2012)
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2016)</small>
+VII. Por resolución de rectificación administrativa en actas del registro civil de conformidad a lo establecido en el artículo 137 bis de la ley de registro civil se pagarán 10.52
 
-VIII. Por anotación marginal de enmienda administrativa en actas del Registro Civil se pagarán 0.85;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VIII. Por anotación marginal de rectificación administrativa o enmienda administrativa en actas del Registro Civil se pagarán 0.85;
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
@@ -1509,9 +1511,9 @@ Existe obligación de efectuar canje de placas cada tres años, de conformidad c
 
 La reposición de placas para el servicio público y particular debe realizarse dentro de los cinco días siguientes al de la notificación de extravío a la autoridad correspondiente, debiendo pagar 20 veces el valor de la UMA vigente.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-Los propietarios de los vehículos de servicio particular a que se refiere el inciso a) de la fracción I de este artículo, cuyo valor incluyendo el impuesto al valor agregado sea de hasta $350,000.00 pesos, no pagarán los derechos previstos para la dotación de placas.
+Los propietarios de los vehículos de servicio particular a que se refiere el inciso a) de la fracción I de este artículo, cuyo valor incluyendo el impuesto al valor agregado sea de hasta $350,000.00 pesos, no pagarán los derechos previstos para la dotación de placas, salvo en el caso de vehículos provenientes de otras entidades federativas o de vehículos importados y regularizados, los cuales deberán cubrir el pago íntegro por la dotación de placas, independientemente de su valor comercial.
 
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2021)</small>
 
@@ -1521,33 +1523,7 @@ Tratándose de vehículos usados deberá tomarse en cuenta el factor de deprecia
 
 Para el caso de los propietarios de remolques, y así como de motocicletas y motonetas hasta de 350 c.c. de cilindro, a que se refiere (sic) los incisos, b) y c) de la fracción I de este artículo, no pagarán los derechos previstos para la dotación de placas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-II. Expedición de permiso para circular sin placa o sin tarjeta de circulación, por día:
-
-Tipo Servicio Servicio
-
-público particular
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-a) Automóviles, camionetas, camiones 0.74 0.74
-
-y ómnibus
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-b) Remolque 0.55 0.55
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-c) Motocicletas y motonetas 0.38 0.38
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-d) Bicicletas de motor 0.17 0.17
-
-Recibir
+II. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2025)
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2024)</small>
 
@@ -1609,17 +1585,9 @@ c) Motocicletas y motonetas 2.13 2.13
 
 d) Bicicletas de Motor 0.20 0.20
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+VII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2025)
 
-VII. Dotación de holograma para identificar facturas electrónicas a vehículos nuevos, cuando realice el movimiento de alta se cobrará 3.3 veces el valor de la UMA vigente, la que deberá adquirirse dentro de los quince días siguientes a la fecha de compra del vehículo.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
-
-La incorporación del holograma antes aludido a la factura electrónica, la valida como original y única para efectos de control vehicular. Entiéndase por factura electrónica la que es expedida conforme a las disposiciones fiscales y resoluciones administrativas emitidas por la Secretaría de Hacienda y Crédito Público.
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-VIII. Reposición de holograma para identificar facturas electrónicas a vehículos nuevos, la que deberá efectuarse dentro de los cinco días posteriores a la fecha del acta o documento donde conste su extravío o destrucción, se cobrará 3.3 veces el valor de la UMA vigente.
+VIII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2025)
 
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
@@ -1633,13 +1601,17 @@ X. Por validación de pagos realizados en otra Entidad Federativa se cobrará 6.
 
 XI. Por expedición de constancia de licencia de conducir se cobrará 3.5 veces el valor de la UMA vigente.
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XII. Por expedición de constancia de control vehicular se cobrará 3.5 veces el valor de la UMA vigente, y
+XII. Por expedición de constancia de control vehicular se cobrará 3.5 veces el valor de la UMA vigente;
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XIII. Por corrección de datos en el Registro Estatal Vehicular se cobrará 3.2 veces el valor de la UMA vigente.
+XIII. Por corrección de datos en el Registro Estatal Vehicular se cobrará 3.2 veces el valor de la UMA vigente, y
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XIV. Por la reproducción fotostática o digital de documentos necesarios para la integración de expedientes administrativos de trámites a cargo de la Secretaría de Finanzas, cuando el usuario presente únicamente originales, se pagará 0.02 por foja.
 
 ###### ARTICULO 65.
 
@@ -2259,9 +2231,9 @@ El monto del cobro se realizará en función de los tabuladores establecidos, lo
 
 Por los servicios que a continuación se señalan, se pagará el derecho de impacto ambiental de obras o actividades cuya evaluación corresponda al Gobierno del Estado, conforme a las siguientes tarifas expresadas UMA vigente:
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-I. Por la recepción, evaluación y, en su caso, la autorización de informe preventivo de impacto ambiental, cuando el proyecto se encuentre con uso de suelo definido y no se contraponga con el establecido por los Ayuntamientos, en su plan de centro de población, y existan normas oficiales mexicanas que regulen su operación, 110.
+I. Por la recepción, evaluación y, en su caso, la autorización de informe preventivo de impacto ambiental, cuando el proyecto se encuentre con uso de suelo definido y no se contraponga con el establecido por los Ayuntamientos, en su plan de centro de población, y existan normas oficiales mexicanas que regulen su operación, 120.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
@@ -2281,13 +2253,13 @@ III. Por el otorgamiento de la autorización de la manifestación del impacto am
 
 IV. Por el otorgamiento de la autorización de la manifestación del impacto ambiental, en su modalidad regional, 165;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-V. Por la evaluación y resolución de la solicitud de modificación de proyectos autorizados en materia de impacto ambiental, 55;
+V. Por la evaluación y resolución de la solicitud de modificación de proyectos autorizados en materia de impacto ambiental, 60;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-VI. Por la evaluación y la resolución de la solicitud de renovación de términos y plazos establecidos en la autorización de impacto ambiental, 33, y
+VI. Por la evaluación y la resolución de la solicitud de renovación de términos y plazos establecidos en la autorización de impacto ambiental, 45, y
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
@@ -2299,17 +2271,17 @@ VII. Por el análisis y la contestación de solicitud de exención, exclusión o
 
 Por el otorgamiento del permiso de operación para la prevención y control de la contaminación de la atmósfera, a las fuentes fijas de jurisdicción estatal que emitan olores, gases o partículas sólidas o líquidas a la atmósfera, se pagará el derecho de prevención y control de la contaminación, conforme a las siguientes tarifas expresadas en UMA vigente:
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-I. Por la recepción y evaluación de solicitud de permiso, 35.2, y
+I. Por la recepción y evaluación de solicitud de permiso, 55, y
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 II. Actualización del permiso de operación, 22.
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-III. Por la recepción y la evaluación de la cédula de Operación Anual para la renovación del permiso de operación, 22, y
+III. Por la recepción y la evaluación de la cédula de Operación Anual para la renovación del permiso de operación, 30, y
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
@@ -2371,9 +2343,9 @@ VI. Por la renovación o modificación del registro otorgado, se pagará la mita
 
 ARTICULO 88 BIS. Por la evaluación de cada solicitud y, en su caso, el registro del plan de manejo de residuos de manejo especial, se pagará el derecho de prevención de la generación y la valorización de los residuos, conforme a las siguientes tarifas expresadas en UMA vigente:
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-I. Registro del plan de manejo de residuos de manejo especial, de acuerdo a la NOM-161-SEMARNAT-2011, 12;
+I. Registro del plan de manejo de residuos de manejo especial, de acuerdo a la NOM161SEMARNAT-2011, 40;
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
@@ -2383,21 +2355,17 @@ II. Registro del plan de manejo de residuos de manejo especial de pequeños gene
 
 III. Por la renovación o la modificación del registro otorgado, se pagará la mitad de la tarifa establecida en el presente artículo.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 89.
 
-Por la evaluación y, en su caso, aprobación de los programas para la prevención de accidentes, para quienes realicen actividades riesgosas, pagarán el derecho conforme a la tarifa de 55 veces el valor de la UMA vigente.
+Por la evaluación y, en su caso, aprobación de los programas para la prevención de accidentes, para quienes realicen actividades riesgosas, pagarán el derecho conforme a la tarifa de 65 veces el valor de la UMA vigente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 90.
 
-Por la evaluación y, en su caso, aprobación del estudio de riesgo, para quienes realicen actividades riesgosas, pagarán el derecho conforme a la tarifa de 55 veces el valor de la UMA vigente.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
-
-Por la solicitud de modificación o ampliación de las resoluciones del estudio de riesgo ambiental, se pagará el 50% de la tarifa establecida en el presente artículo.
+Por la evaluación y, en su caso, aprobación del estudio de riesgo, para quienes realicen actividades riesgosas, pagarán el derecho conforme a la tarifa de 65 veces el valor de la UMA vigente.
 
 ### CAPITULO VI. OTROS SERVICIOS
 
@@ -3103,29 +3071,15 @@ Las formas valoradas y los planos se venderán conforme a la siguiente tarifa ex
 
 FORMA O PLANO VALOR
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+I. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2025)
 
-I. Juego de formas para alta y baja de vehículos motorizados. 1.00
+II. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2025)
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+III. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2025)
 
-II. Juego de formas de solicitud de Registro Estatal Vehicular. 1.00
+IV. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2025)
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-III. Juego de formas de solicitud de inspección en el Padrón 1.00
-
-Mercantil, Industrial y de Servicios.
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-IV. Juego de formas de solicitud de licencia para manejo de 1.00
-
-vehículos motorizados.
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-V. Juego de formas de preliquidaciones de control vehicular. 1.00
+V. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2025)
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -3762,3 +3716,11 @@ P.O. 31 DE ENERO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0337.- QUE REFORMA LOS ARTÍCULOS 36 SEXTIES, 38, 64, 84, 85, 88, 89 Y 90, REALIZA ADICIÓN A LOS ARTÍCULOS 38 Y 64, Y HACE DEROGACIONES EN LOS ARTÍCULOS 64 Y 121, DE LA LEY DE HACIENDA DEL ESTADO DE SAN LUIS POTOSÍ; REFORMA LOS ARTÍCULOS 20, 149, 150 Y REALIZA ADICIONES A LOS ARTÍCULOS 18 BIS, 22 BIS, 28, 72 BIS, 149 Y 150, DEL CÓDIGO FISCAL PARA EL ESTADO DE SAN LUIS POTOSÍ; Y EXPIDE LA LEY DE INGRESOS DEL ESTADO DE SAN LUIS POTOSÍ, PARA EL EJERCICIO FISCAL 2026”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
