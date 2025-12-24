@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-instituciones-y-procedimientos-electorales-para-10160
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-30"
-last_updated: "2025-11-12"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101609&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,9 @@ state: "MOR"
 
 [NOTA 2: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS EN MATERIA DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO Y PARIDAD, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL OCHO DE JUNIO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/].
 
-[NOTA 3: EL 25 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 90/2025, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO CUATROCIENTOS TREINTA Y TRES, POR EL QUE SE REFORMA EL ARTÍCULO 24 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS Y SE REFORMAN DIVERSAS DISPOSICIONES Y SE ADICIONA EL ARTÍCULO 14 BIS DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE ESA ENTIDAD, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL DIECISIETE DE JULIO DE DOS MIL VEINTICINCO, EN MATERIA DE REPRESENTACIÓN EFECTIVA, EQUITATIVA Y PROPORCIONAL, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/].
-
 CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el lunes 30 de junio de 2014.
 
@@ -265,19 +263,17 @@ VIII. Se ejercerán libres de violencia política contra las mujeres en razón d
 
 IX. Los derechos político-electorales de la ciudadanía se ejercerán libres de toda clase de discriminación en términos del artículo primero constitucional.
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 6. Tendrán derecho a votar los ciudadanos morelenses que cuenten con credencial para votar con fotografía o, una resolución favorable del Tribunal Electoral del Poder Judicial de la Federación, y no se encuentren dentro de los supuestos siguientes:"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 6.
 
-TENDRÁN DERECHO A VOTAR LA CIUDADANÍA MORELENSE QUE CUENTEN CON CREDENCIAL PARA VOTAR CON FOTOGRAFÍA Y NO SE ENCUENTREN DENTRO DE LOS SUPUESTOS SIGUIENTES:
+Tendrán derecho a votar los ciudadanos morelenses que cuenten con credencial para votar con fotografía o, una resolución favorable del Tribunal Electoral del Poder Judicial de la Federación, y no se encuentren dentro de los supuestos siguientes:
 
 I. Estar sujeto a proceso criminal privado de su libertad;
 
 II. Estar purgando condena corporal;
 
-III. Estar sujeto a interdicción judicial o interno en establecimiento para toxicómanos o enfermos mentales;
+III. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2025)
 
 IV. Estar prófugo de la justicia, desde que se dicte orden de aprehensión hasta la prescripción de la acción penal;
 
@@ -4563,19 +4559,15 @@ Las fórmulas de candidatura, propietarios y suplentes, deberán ser del mismo g
 
 Los partidos políticos podrán registrar lista de candidatas o candidatos de representación proporcional, siempre y cuando hubiesen obtenido el registro de candidaturas a Diputaciones de mayoría relativa, por lo menos en las dos terceras partes de los distritos uninominales del Estado, de manera directa, participando en coalición o en candidaturas comunes.
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 182. Dentro de los plazos establecidos por este Código, los partidos políticos podrán libremente sustituir a los candidatos que hubiesen registrado. Concluidos aquéllos, sólo por acuerdo podrá hacerse sustitución de candidatos por causa de muerte, inhabilitación, incapacidad o renuncia. Los partidos políticos podrán solicitar ante el Consejo Estatal, fuera de los casos previstos, la cancelación del registro de uno o varios de sus candidatos.
-
-Cuando la renuncia del candidato fuera notificada por este al Consejo Estatal, se hará del conocimiento del partido o coalición que lo registró para que proceda, en su caso, a la sustitución. En caso de que la renuncia sea entregada por el partido político al Instituto Morelense, este solicitará al renunciante la ratificación de firma y contenido, en caso de que desconozca su firma se tendrá por no interpuesta la renuncia.
-
-Para la corrección o sustitución, en su caso, de las boletas electorales, se estará a lo dispuesto en este Código."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 182.
 
-Dentro de los plazos establecidos por este Código, los partidos políticos podrán libremente sustituir a las y los candidatos que hubiesen registrado. Concluidos aquéllos, sólo por acuerdo podrá hacerse sustitución de candidatas y candidatos por causa de muerte, inhabilitación, incapacidad o renuncia. Los partidos políticos podrán solicitar ante el Consejo Estatal, fuera de los casos previstos, la cancelación del registro de uno o varios de sus candidatas y candidatos.
+Dentro de los plazos establecidos por este Código, los partidos políticos podrán libremente sustituir a los candidatos que hubiesen registrado. Concluidos aquéllos, sólo por acuerdo podrá hacerse sustitución de candidatos por causa de muerte, inhabilitación o renuncia. Los partidos políticos podrán solicitar ante el Consejo Estatal, fuera de los casos previstos, la cancelación del registro de uno o varios de sus candidatos.
 
 Cuando la renuncia de la candidata o candidato fuera notificada por este al Consejo Estatal, se hará del conocimiento del partido, coalición o candidatura independiente que lo registró para que proceda, en su caso, a la sustitución. En caso de que la renuncia sea entregada por el partido político, coalición o candidatura independiente al Instituto Morelense, este solicitará al renunciante la ratificación de firma y contenido, en caso de que desconozca su firma se tendrá por no interpuesta la renuncia.
+
+Para la corrección o sustitución, en su caso, de las boletas electorales, se estará a lo dispuesto en este Código.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2023)</small>
 
@@ -5073,9 +5065,11 @@ d) Los funcionarios del Instituto Morelense que fueren enviados por el Consejo E
 
 Los representantes generales permanecerán en las casillas el tiempo necesario para cumplir con las funciones que les fija el artículo 124 de este Código; no podrán interferir el libre desarrollo de la votación ni pretender asumir las funciones propias de los integrantes de la mesa directiva. El presidente de la mesa directiva podrá conminarlos a cumplir con sus funciones y, en su caso, podrá ordenar su retiro cuando el representante deje de cumplir su función, coaccione a los electores, o en cualquier forma afecte el desarrollo normal de la votación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 214.
 
-En ningún caso se permitirá el acceso a las casillas a personas que se encuentren privadas de sus facultades mentales, intoxicadas, bajo el influjo de enervantes, embozadas o armadas.
+En ningún caso se permitirá el acceso a las casillas a personas que se encuentren intoxicadas, bajo el influjo de enervantes, embozadas o armadas.
 
 Tampoco tendrán acceso a las casillas, salvo que sea para ejercer su derecho de voto, miembros de corporaciones o fuerzas de seguridad pública, dirigentes de partidos políticos, candidatos o representantes populares.
 
@@ -8332,3 +8326,13 @@ P.O. 12 DE NOVIEMBRE DE 2025.
 PRIMERO. El presente Decreto, entrara en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado.
 
 SEGUNDO. Remítase el presente Decreto a la persona titular del Poder Ejecutivo del Estado para los efectos correspondientes.
+
+P.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS SIETE.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 6, 182 Y 214 DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto a la Gobernadora Constitucional del Estado, para los efectos señalados en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado.
+
+TERCERA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
