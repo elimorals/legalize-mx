@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-huertos-urbanos-de-la-ciudad-de-mexico-145943"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-31"
-last_updated: "2022-09-30"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145943&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2020-12-29"
 
 LEY DE HUERTOS URBANOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número 505 de la Gaceta Oficial de la Ciudad de México, el jueves 31 de diciembre de 2020.
 
@@ -256,9 +256,11 @@ Las Alcaldías deben remitir de manera semestral a la Secretaría del Medio Ambi
 
 ### CAPÍTULO I. DE LOS HUERTOS URBANOS PÚBLICOS
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 15.
 
-Los huertos urbanos situados en terrenos de dominio público tienen la misma naturaleza jurídica de los establecidos en el artículo 2 fracción X de la Ley de Desarrollo Urbano del Distrito Federal.
+Los huertos urbanos situados en terrenos de dominio público tienen la misma naturaleza jurídica de los establecidos en el artículo 2 fracción X de la Ley de Desarrollo Urbano vigente en la Ciudad de México.
 
 ###### Artículo 16.
 
@@ -387,3 +389,11 @@ G.O. 30 DE SEPTIEMBRE DE 2022.
 Primero. Remítase a la Jefa de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo. El presente Decreto entra en vigor al día siguiente de su publicación.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 15, DE LA LEY DE HUERTOS URBANOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
