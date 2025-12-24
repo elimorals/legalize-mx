@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-reconocimiento-de-los-derechos-de-las-personas-146185"
 country: "mx"
 rank: "ley"
 publication_date: "2021-01-15"
-last_updated: "2024-06-07"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146185&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-01-14"
 
 LEY DE RECONOCIMIENTO DE LOS DERECHOS DE LAS PERSONAS MAYORES Y DEL SISTEMA INTEGRAL PARA SU ATENCIÓN DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número 515 Bis de la Gaceta Oficial de la Ciudad de México, el viernes 15 de enero de 2021.
 
@@ -172,6 +172,8 @@ XVI. Valorización de la persona mayor y reconocimiento de su papel en la socied
 
 Todas las personas mayores en la Ciudad de México gozan de los derechos establecidos en la Constitución General, en los tratados internacionales de los que el Estado Mexicano sea parte, en la Constitución Política de la Ciudad y en la legislación secundaria.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 6°.
 
 Sin perjuicio de los derechos señalados en los ordenamientos jurídicos mencionados en el artículo anterior se reconocen como derechos de las personas mayores de manera enunciativa y no limitativa, los siguientes:
@@ -202,7 +204,9 @@ XII. Derecho a la salud en general, especializada y al consentimiento libre e in
 
 XIII. Derecho a la alimentación;
 
-XIV. Derecho a la educación y a la cultura;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XIV. Derecho a la educación, a la cultura y al acceso y utilización de las tecnologías de la información y la comunicación;
 
 XV. Derecho a la recreación, al esparcimiento y al deporte;
 
@@ -266,7 +270,9 @@ Las autoridades de la Ciudad colaborarán en la búsqueda y obtención de inform
 
 Las personas mayores tienen derecho a una vida digna y el derecho a vivir con dignidad en la vejez, mismos que serán respetados, reconocidos y protegidos en condiciones de igualdad con otros sectores de la población.
 
-Las personas mayores tienen derecho a una muerte digna de conformidad con lo establecido en la Constitución Política, Ley General de Salud, la Ley de Salud del Distrito Federal, la Ley de Voluntad Anticipada para el Distrito Federal y demás ordenamientos aplicables en la materia.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Las personas mayores tienen derecho a una muerte digna de conformidad con lo establecido en la Constitución Política, Ley General de Salud, la Ley de Salud de la Ciudad de México, la Ley de Voluntad Anticipada vigente de la Ciudad de México y demás ordenamientos aplicables en la materia.
 
 Para garantizar el pleno ejercicio de estos derechos, se deberá favorecer su acceso a los cuidados integrales y a los cuidados paliativos y manejar apropiadamente los problemas relacionados con el miedo a la muerte de los enfermos terminales.
 
@@ -642,13 +648,21 @@ III. Establecer convenios específicos de colaboración con instituciones y orga
 
 La Administración Pública, a través de la Secretaría y las alcaldías implementarán mecanismos de comunicación y vinculación para garantizar a las personas mayores su cobertura alimentaria que sea nutricionalmente balanceada, brindando atención especial a las que se encuentren en desventaja económica, situación de vulnerabilidad o en estado de abandono.
 
-#### Sección XIV. Derecho a la educación y la cultura
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+#### Sección XIV. Derecho a la Educación, la Cultura, la Inclusión y Alfabetización Digital
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 50.
 
 En la Ciudad las personas mayores tienen derecho a recibir educación en igualdad de condiciones que los integrantes de otros sectores de la población, en cualquier nivel educativo y sin discriminación, que potencie sus capacidades, habilidades y conocimientos para la participación y desarrollo integral.
 
+Asimismo, se fomentará su derecho de acceso y aprovechamiento de las tecnologías de la información y la comunicación, fomentando su alfabetización digital como herramienta para el ejercicio pleno de sus derechos y su inclusión en la sociedad.
+
 De igual forma tendrán derecho a preservar y transmitir su identidad cultural, a participar en la vida cultural y artística de la comunidad, al disfrute de los beneficios del progreso científico y tecnológico y de otros, producto de la diversidad cultural, así como a compartir sus conocimientos y experiencias con otras generaciones, en cualquiera de los contextos en los que se desarrolle.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 51.
 
@@ -662,7 +676,11 @@ III. Fomentar en las instituciones de educación superior de la Ciudad la impart
 
 IV. Incluir en los planes y programas de estudio del sistema educativo de la ciudad los conocimientos relacionados con los derechos de las personas mayores, el respeto, aprecio y reconocimiento a sus aportaciones y los relativos para alcanzar un envejecimiento activo y saludable, y
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 V. Desarrollar, en forma prioritaria, programas educativos especialmente orientados a las personas mayores para capacitarlas en el uso de las tecnologías de la información y comunicación, con el propósito de minimizar la brecha digital e incrementar su integración social y comunitaria.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 52.
 
@@ -676,21 +694,29 @@ II. Desarrollar centros educativos y recreativos para las personas mayores, en l
 
 A las personas mayores les asiste el derecho de elegir integrarse a las actividades educativas y culturales implementadas para la población en general, o las desarrolladas específicamente para este sector de la población.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 54.
 
 Las personas mayores tienen el derecho de hacer uso de las bibliotecas públicas, las cuales facilitarán el préstamo a domicilio del material con el que cuenten, con la presentación de una identificación personal, y garantizarán la accesibilidad a través de procedimientos e instalaciones adecuadas a las necesidades de movilidad de las personas mayores.
 
+El derecho a recibir atención y orientación por parte del personal capacitado de la Red de Bibliotecas Públicas de la Ciudad de México, con el fin de tener acceso a la red de internet público y utilizar las tecnologías de la información y la comunicación a disposición de los usuarios.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 55.
 
-La administración pública a través de la Secretaría de Cultura y las alcaldías, estimularán la participación de las personas mayores en diversas actividades culturales e implementarán las medidas necesarias para asegurar el acceso preferencial a bienes y servicios culturales a precios accesibles.
+La administración pública a través de la Secretaría de Cultura, la Secretaría de Educación, Ciencia, Tecnología e Innovación y las Alcaldías, estimularán la participación de las personas mayores en diversas actividades culturales y educativas, e implementarán las medidas necesarias para asegurar el acceso preferencial a bienes y servicios culturales, educativos y tecnológicos a precios accesibles.
 
 Las autoridades señaladas, en su respectivo ámbito de competencias, deberán:
 
 I. Diseñar programas culturales orientados al desarrollo y utilización del potencial creativo, artístico e intelectual de las personas mayores para el enriquecimiento cultural de la sociedad constituyéndolos en agentes transmisores de valores, conocimientos y experiencias;
 
-II. Impulsar la participación de las organizaciones de personas mayores en la planificación, realización y divulgación de proyectos educativos y culturales, y
+II. Impulsar la participación de las organizaciones de personas mayores en la planificación, realización y divulgación de proyectos educativos y culturales;
 
-III. Incentivar, mediante acciones de reconocimiento y estímulo, los aportes de la persona mayor a las diferentes expresiones artísticas y culturales.
+III. Incentivar, mediante acciones de reconocimiento y estímulo, los aportes de la persona mayor a las diferentes expresiones artísticas y culturales; y
+
+IV. Fomentar programas, acciones y proyectos orientados a personas mayores para la adquisición de conocimientos, habilidades y competencias sobre el uso y aprovechamiento de las tecnologías de la información y la comunicación.
 
 #### Sección XV. Derecho a la recreación, al esparcimiento y al deporte
 
@@ -722,9 +748,11 @@ De conformidad con la legislación penal, será sancionada toda conducta orienta
 
 Queda prohibido cualquier acto de discriminación cometido en contra de las personas mayores en el ejercicio de su derecho al patrimonio personal.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 59.
 
-Sin perjuicio de las condiciones establecidas en el Código Civil para el Distrito Federal, para considerar válido el consentimiento que otorguen las personas mayores respecto a la disposición de los bienes de su propiedad o su patrimonio, éste deberá ser completamente informado, lo que implica explicarle en forma amplia, completa y sin tecnicismos las consecuencias, alternativas y los procedimientos relacionados con el mismo, garantizando en todo momento su autonomía, protección y cuidado en la toma de decisiones relacionadas con su patrimonio personal y familiar.
+Sin perjuicio de las condiciones establecidas en el Código Civil vigente de la Ciudad de México para considerar válido el consentimiento que otorguen las personas mayores respecto a la disposición de los bienes de su propiedad o su patrimonio, éste deberá ser completamente informado, lo que implica explicarle en forma amplia, completa y sin tecnicismos las consecuencias, alternativas y los procedimientos relacionados con el mismo, garantizando en todo momento su autonomía, protección y cuidado en la toma de decisiones relacionadas con su patrimonio personal y familiar.
 
 ###### Artículo 60.
 
@@ -1607,3 +1635,21 @@ G.O. 7 DE JUNIO DE 2024.
 PRIMERO. - Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 13 PÁRRAFO SEGUNDO Y 59, DE LA LEY DE RECONOCIMIENTO DE LOS DERECHOS DE LAS PERSONAS MAYORES Y DEL SISTEMA INTEGRAL PARA SU ATENCIÓN DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. - Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 6, SU SECCIÓN XIV, 50, 51, 52, 54 Y 55, TODOS DE LA LEY DE RECONOCIMIENTO DE LOS DERECHOS DE LAS PERSONAS MAYORES Y DEL SISTEMA INTEGRAL PARA SU ATENCIÓN DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
