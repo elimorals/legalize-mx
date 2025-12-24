@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-prevencion-social-del-delito-y-la-violencia-de-la-103032
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-28"
-last_updated: "2017-07-05"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103032&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2014-10-06"
 ---
 # LEY DE PREVENCION SOCIAL DEL DELITO Y LA VIOLENCIA DE LA CIUDAD DE MEXICO -- ANTES LEY DE PREVENCION SOCIAL DEL DELITO Y LA VIOLENCIA PARA EL DISTRITO FEDERAL--
 
-LEY DE PREVENCIÓN SOCIAL DEL DELITO Y LA VIOLENCIA PARA EL DISTRITO FEDERAL
+LEY DE PREVENCIÓN SOCIAL DEL DELITO Y LA VIOLENCIA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 28 de octubre de 2014.
 
@@ -52,25 +52,33 @@ DECRETO POR EL QUE SE EXPIDE LA LEY DE PREVENCIÓN SOCIAL DEL DELITO Y LA VIOLEN
 
 Se expide la Ley de Prevención Social del Delito y la Violencia para el Distrito Federal, para quedar como sigue:
 
-LEY DE PREVENCIÓN SOCIAL DEL DELITO Y LA VIOLENCIA PARA EL DISTRITO FEDERAL.
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+LEY DE PREVENCIÓN SOCIAL DEL DELITO Y LA VIOLENCIA DE LA CIUDAD DE MÉXICO.
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, de interés social y tiene por objeto establecer las bases para la articulación de programas, proyectos y acciones tendientes a la prevención social del delito y de la violencia en el Distrito Federal, instrumentando las medidas necesarias para evitar su realización.
+La presente Ley es de orden público, de interés social y tiene por objeto establecer las bases para la articulación de programas, proyectos y acciones tendientes a la prevención social del delito y de la violencia en la Ciudad de México, instrumentando las medidas necesarias para evitar su realización.
 
 ###### Artículo 2.
 
 La prevención social del Delito y la Violencia se entenderá como el conjunto de políticas, estrategias e intervenciones orientadas a reducir el riesgo de que se produzcan efectos perjudiciales para las personas y la sociedad, incluido el temor a la delincuencia, así como a intervenir para influir en sus múltiples causas y manifestaciones.
 
-El Gobierno del Distrito Federal, en coordinación con las Delegaciones, desarrollará políticas e intervenciones integrales a través de medidas de cooperación permanentes, estructuradas y concretas, mismas que se coordinarán con las estrategias para el desarrollo social, económico, político y cultural.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+El Gobierno de la Ciudad de México, en coordinación con las Alcaldías, desarrollará políticas e intervenciones integrales a través de medidas de cooperación permanentes, estructuradas y concretas, mismas que se coordinarán con las estrategias para el desarrollo social, económico, político y cultural.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 3.
 
-De manera enunciativa y no limitativa, formarán parte de la Política de prevención social del delito y la violencia, los programas, estrategias y acciones del Gobierno y las Delegaciones, vinculadas a la seguridad pública, procuración de justicia, economía, trabajo, educación, cultura, derechos humanos y desarrollo social; particularmente, las orientadas a comunidades, familias, jóvenes, niñas y niños, mujeres y grupos vulnerables.
+De manera enunciativa y no limitativa, formarán parte de la Política de prevención social del delito y la violencia, los programas, estrategias y acciones del Gobierno de la Ciudad de México y las Alcaldías, vinculadas a la seguridad pública, procuración de justicia, economía, trabajo, educación, cultura, derechos humanos y desarrollo social; particularmente, las orientadas a comunidades, familias, jóvenes, niñas y niños, mujeres y grupos vulnerables.
 
-La planeación, programación, implementación y evaluación de las políticas públicas, programas y acciones se realizará por el Gobierno y las Delegaciones, por conducto de las dependencias, entidades y oficinas que en razón de sus atribuciones, deban contribuir directa o indirectamente al cumplimiento de esta Ley.
+La planeación, programación, implementación y evaluación de las políticas públicas, programas y acciones se realizará por el Gobierno de la Ciudad de México y las Alcaldías, por conducto de las dependencias, entidades y oficinas que, en razón de sus atribuciones, deban contribuir directa o indirectamente al cumplimiento de esta Ley.
 
 ###### Artículo 4.
 
@@ -78,11 +86,17 @@ La prevención social del Delito y la Violencia deberá observar como mínimo lo
 
 I. Respeto irrestricto a los derechos humanos;
 
-II. Integralidad. El Gobierno y las Delegaciones, en sus ámbitos de atribuciones, desarrollarán políticas públicas eficaces integrales, que conciban a la prevención social como un todo sistémico y no la suma de estrategias y acciones aisladas;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-III. Intersectorialidad y transversalidad. Consiste en articular, homologar y complementar los programas, políticas públicas, estrategias y acciones del Gobierno y las Delegaciones, en rubros vinculados a la materia de esta Ley;
+II. Integralidad. El Gobierno de la Ciudad de México y las Alcaldías, en sus ámbitos de atribuciones, desarrollarán políticas públicas eficaces integrales, que conciban a la prevención social como un todo sistémico y no la suma de estrategias y acciones aisladas;
 
-IV. Trabajo conjunto. Comprende el desarrollo de acciones conjuntas entre el Gobierno y las Delegaciones, así como la participación ciudadana y comunitaria de manera solidaria;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+III. Intersectorialidad y transversalidad. Consiste en articular, homologar y complementar los programas, políticas públicas, estrategias y acciones del Gobierno de la Ciudad de México y las Alcaldías, en rubros vinculados a la materia de esta Ley;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IV. Trabajo conjunto. Comprende el desarrollo de acciones conjuntas entre el Gobierno de la Ciudad de México y las Alcaldías, así como la participación ciudadana y comunitaria de manera solidaria;
 
 V. Continuidad. Implica la secuencia de las políticas públicas y acciones de gobierno a fin de garantizar los cambios socioculturales en el mediano y largo plazos, a través del fortalecimiento de los mecanismos de participación ciudadana y comunitaria, la asignación de presupuesto, el monitoreo y evaluación de resultados;
 
@@ -100,23 +114,39 @@ Para efectos de la presente Ley se entenderá por:
 
 I. Autoprotección: Conjunto sistemático de prevenciones y de actuaciones aplicables y encaminadas a evitar riesgos y garantizar su propia seguridad;
 
-II. Consejo: Consejo de Prevención Social del Delito y la Violencia del Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-III. Consejos Delegacionales: Los Consejos Delegacionales para la Prevención del Delito y la Violencia del Distrito Federal;
+II. Consejo: Consejo de Prevención Social del Delito y la Violencia de la Ciudad de México;
 
-IV. Delegaciones: Los órganos político-administrativos de las demarcaciones territoriales en que se divide el Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-V. Delegados: Los titulares de los órganos político-administrativos de las demarcaciones territoriales en que se divide el Distrito Federal;
+III. Consejos de las Alcaldías: Los Consejos de las Alcaldías para la Prevención del Delito y la Violencia de la Ciudad de México;
 
-VI. Delito: Toda acción u omisión expresamente prevista y sancionada por el Código Penal para el Distrito Federal y leyes para el Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-VII. Gobierno: El Gobierno del Distrito Federal;
+IV. Alcaldías: Los órganos político-administrativos de las demarcaciones territoriales en que se divide la Ciudad de México;
 
-VIII. Ley de Participación Ciudadana: La Ley de Participación Ciudadana del Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+V. Persona titular de la Alcaldía: Los titulares de los órganos político-administrativos de las demarcaciones territoriales en que se divide la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VI. Delito: Toda acción u omisión expresamente prevista y sancionada por el Código Penal vigente de la Ciudad de México y leyes para la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VII. Gobierno: El Gobierno de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VIII. Ley de Participación Ciudadana: La Ley de Participación Ciudadana de la Ciudad de México;
 
 IX. Participación Ciudadana y Comunitaria: La participación de los diferentes sectores y grupos de la sociedad civil, organizada y no organizada, así como de la comunidad académica; y
 
-X. Programa Preventivo: El Programa para la Prevención Social del Delito y la Violencia en el Distrito Federal.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+X. Programa Preventivo: El Programa para la Prevención Social del Delito y la Violencia en la Ciudad de México.
 
 ###### Artículo 6.
 
@@ -184,55 +214,93 @@ III. Medidas administrativas encaminadas a disminuir la disponibilidad de medios
 
 IV. Estrategias para prevenir la repetición de casos de victimización.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO DE REFORMAS PUBLICADO EN LA G.O. DE 24 DE DICIEMBRE DE 2025, PÁGINA 106.]</small>
+
 ###### Artículo 11.
 
 La prevención en el ámbito psicosocial tiene como objetivo incidir en las motivaciones individuales respecto de condiciones delictivas o de violencia, con referencia a los individuos, la familia, la escuela y la comunidad, que incluye como mínimo:
 
 I. Impulsar el diseño y aplicación de programas formativos en habilidades para la vida, dirigidos principalmente a la población en situación de riesgo y vulnerabilidad;
 
+> <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DE LA FRACCIÓN V, G.O. 24 DE DICIEMBRE DE 2025]</small>
+
 II. La inclusión de la prevención de la violencia, la delincuencia y de las adicciones en las políticas públicas del Gobierno y las Delegaciones en materia de educación, y
 
 III. El fortalecimiento de las capacidades institucionales que aseguren la sostenibilidad de los programas de prevención social.
+
+IV. ... (SIC)
+
+> <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DE LA FRACCIÓN II, G.O. 24 DE DICIEMBRE DE 2025]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+V. La inclusión de la prevención de la violencia, la delincuencia y de las adicciones en las políticas públicas del Gobierno y las Alcaldías en materia de educación, y
+
+VI. ... (SIC)
 
 ###### Artículo 12.
 
 La atención inmediata y efectiva a víctimas del delito y la violencia, en términos del impacto emocional, físico y el proceso legal, estará sujeta a las disposiciones existentes para ese objeto y siempre se velará por sus derechos y su seguridad en forma prioritaria.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 13.
 
-La impartición de justicia por la comisión de infracciones administrativas estará sujeta a lo previsto en la Ley de Cultura Cívica del Distrito Federal.
+La impartición de justicia por la comisión de infracciones administrativas estará sujeta a lo previsto en la Ley de Cultura Cívica de la Ciudad de México.
 
 ### CAPÍTULO TERCERO. DE LAS INSTANCIAS DE COORDINACIÓN
 
-#### Sección Primera. Del Consejo de Prevención Social del Delito y la Violencia del Distrito Federal
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+#### Sección Primera. Del Consejo de Prevención Social del Delito y la Violencia de la Ciudad de México
 
 ###### Artículo 14.
 
 El diseño, implementación, evaluación y supervisión de las políticas públicas en materia de prevención social del Delito y la Violencia estarán a cargo del Consejo, órgano honorario que se integrará de la siguiente manera:
 
-I. El Jefe de Gobierno, quien fungirá como su Presidente;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-II. El Presidente de la Mesa Directiva de la Asamblea Legislativa del Distrito Federal;
+I. La persona titular de la Jefatura de Gobierno, quien fungirá como su persona Presidenta;
 
-III. El Presidente del Tribunal Superior de Justicia del Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-IV. El Procurador General de Justicia del Distrito Federal, quien fungirá como Secretario Ejecutivo;
+II. La persona Presidenta de la Mesa Directiva del Congreso de la Ciudad de México;
 
-V. El Coordinador General del Gabinete de Gobierno y Seguridad Pública;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-VI. Los titulares de:
+III. La persona Presidenta del Tribunal Superior de Justicia de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IV. La persona Fiscal General de Justicia de la Ciudad de México, quien fungirá como Secretaria Ejecutiva;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+V. La persona a cargo de la Coordinación General del Gabinete de Gobierno y Seguridad Pública;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VI. Las personas titulares de:
 
 a) La Secretaría de Gobierno;
 
-b) La Secretaría de Seguridad Pública;
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-c) La Secretaría de Desarrollo Social;
+b) La Secretaría de Seguridad Ciudadana;
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+c) Secretaría de Inclusión y Bienestar Social;
 
 d) La Secretaría de Trabajo y Fomento al Empleo;
 
-e) La Secretaría de Educación;
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-f) La Secretaría de Transportes y Vialidad;
+e) Secretaria de Educación, Ciencia Tecnología e Innovación;
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+f) La Secretaría de Movilidad;
 
 g) La Secretaría de Salud;
 
@@ -240,17 +308,27 @@ h) La Secretaría de Turismo;
 
 i) La Consejería Jurídica y de Servicios Legales;
 
-j) El Instituto de las Mujeres de la Ciudad de México, y
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-k) El Instituto de la Juventud del Distrito Federal.
+j) La Secretaría de las Mujeres de la Ciudad de México, y
 
-VII. Los 16 Jefes Delegacionales, que tendrán además la representación de los Consejos Delegacionales.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+k) El Instituto de la Juventud de la Ciudad de México.
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VII. Las dieciséis personas titulares de las Alcaldías, que tendrán además la representación de los Consejos de las Alcaldías.
 
 Todos los integrantes del Comité tendrán voz y voto.
 
-El Jefe de Gobierno podrá designar un suplente, de entre los integrantes de este Consejo que pertenezcan al gobierno del Distrito Federal, quien ejercerá las atribuciones que corresponden a aquél. Los demás integrantes deberán asistir a las sesiones del Consejo en forma personal.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-El Presidente de la Comisión de Derechos Humanos del Distrito Federal será invitado permanentemente, con derecho sólo a voz.
+La titular de la Jefatura de Gobierno podrá designar un suplente, de entre los integrantes de este Consejo que pertenezcan al Gobierno de la Ciudad de México, quien ejercerá las atribuciones que corresponden a aquella. Los demás integrantes deberán asistir a las sesiones del Consejo en forma personal.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+La persona Presidenta de la Comisión de Derechos Humanos de la Ciudad de México será invitada permanentemente, con derecho sólo a voz.
 
 El Consejo contará con un Secretario Ejecutivo para organizar y sistematizar los trabajos del Consejo.
 
@@ -282,11 +360,17 @@ Son atribuciones del Consejo:
 
 I. Elaborar y aprobar el Programa Preventivo, y todos aquéllos vinculados con esta materia;
 
-II. Establecer vínculos de coordinación y celebrar convenios de apoyo con entidades del sector público, así como con organizaciones del sector social y privado, a fin de integrar los esfuerzos en el objetivo común de la prevención del delito en el Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-III. Aprobar las políticas, programas, estrategias y acciones que deberá instrumentar la Administración Pública del Distrito Federal, vinculadas a la prevención social del Delito y la Violencia;
+II. Establecer vínculos de coordinación y celebrar convenios de apoyo con entidades del sector público, así como con organizaciones del sector social y privado, a fin de integrar los esfuerzos en el objetivo común de la prevención del delito en la Ciudad de México;
 
-IV. Analizar e integrar políticas públicas en materia de prevención del delito en el Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+III. Aprobar las políticas, programas, estrategias y acciones que deberá instrumentar la Administración Pública de la Ciudad de México, vinculadas a la prevención social del Delito y la Violencia;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IV. Analizar e integrar políticas públicas en materia de prevención del delito en la Ciudad de México;
 
 V. Implementar programas para:
 
@@ -314,7 +398,9 @@ g) Diagnósticos socio demográficos.
 
 VII. Promover la inclusión de contenidos relativos a la prevención del delito en los programas educativos, de salud y de desarrollo social;
 
-VIII. Fomentar la participación ciudadana y comunitaria en la prevención del delito en el Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VIII. Fomentar la participación ciudadana y comunitaria en la prevención del delito en la Ciudad de México;
 
 IX. Promover la investigación científica y el intercambio de información entre organismos e instituciones a nivel nacional e internacional relacionadas con la prevención social del delito y la violencia;
 
@@ -324,15 +410,19 @@ XI. Las demás establecidas en la presente Ley.
 
 #### Sección Segunda. Atribuciones de los integrantes del Consejo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 17.
 
-El Presidente del Consejo tendrá las siguientes atribuciones:
+La persona Presidenta del Consejo tendrá las siguientes atribuciones:
 
 I. Convocar a las sesiones y presidirlas;
 
 II. Ejercer el voto de calidad en caso de empate;
 
-III. Promover en todo tiempo la efectiva coordinación y funcionamiento de las instancias de prevención social del Delito y la Violencia en el Distrito Federal; y
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+III. Promover en todo tiempo la efectiva coordinación y funcionamiento de las instancias de prevención social del Delito y la Violencia en la Ciudad de México; y
 
 IV. Las demás que le sean conferidas por esta Ley o que acuerde el Consejo.
 
@@ -340,7 +430,9 @@ IV. Las demás que le sean conferidas por esta Ley o que acuerde el Consejo.
 
 El Coordinador a que se refiere la fracción V del Artículo 14 del presente ordenamiento, tendrá las siguientes atribuciones:
 
-I. Proponer al Presidente del Consejo los contenidos temáticos que se desahogarán en las sesiones del Consejo;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+I. Proponer a la persona Presidenta del Consejo los contenidos temáticos que se desahogarán en las sesiones del Consejo;
 
 II. Definir estrategias que contribuyan y fortalezcan la prevención del delito;
 
@@ -360,59 +452,81 @@ III. Llevar la lista de asistencia de cada sesión del Consejo y declarar la exi
 
 IV. Solicitar a los miembros del Consejo los informes que sean necesarios para el cumplimiento del objetivo de esa instancia;
 
-V. Redactar las actas correspondientes a las sesiones ordinarias y extraordinarias y firmarlas de manera conjunta con el Presidente del Consejo;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+V. Redactar las actas correspondientes a las sesiones ordinarias y extraordinarias y firmarlas de manera conjunta con la persona Presidenta del Consejo;
 
 VI. Llevar el registro y seguimiento de los acuerdos aprobados por el Consejo, y
 
 VII. Las demás que le encomiende el Consejo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 20.
 
-Los integrantes del Consejo tendrán las siguientes atribuciones:
+Las personas integrantes del Consejo tendrán las siguientes atribuciones:
 
 I. Ser convocados oportunamente a las sesiones del Consejo;
 
 II. Participar en las deliberaciones y votar en las sesiones del Consejo;
 
-III. Formular propuestas de acuerdos que permitan el mejor funcionamiento de la prevención del delito y la violencia en el Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-IV. Solicitar al Presidente del Consejo convoque a sesión extraordinaria de dicha instancia;
+III. Formular propuestas de acuerdos que permitan el mejor funcionamiento de la prevención del delito y la violencia en la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IV. Solicitar a la persona Presidente de Consejo que convoque a sesión extraordinaria de dicha instancia;
 
 V. Presentar al Consejo la información relativa al cumplimiento de las atribuciones que les correspondan en materia de prevención social del Delito y la Violencia; y
 
 VI. Las demás que le encomiende el Consejo.
 
-#### Sección Tercera. De los Consejos Delegacionales para la Prevención Social del Delito y la Violencia
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+#### Sección Tercera. De los Consejos de las Alcaldías para la Prevención Social del Delito y la Violencia
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 21.
 
-Las Delegaciones deberan formar su Consejo de Prevención Social del Delito y la Violencia, asesorados por el Secretario Ejecutivo para atender problemas específicos de inseguridad en su demarcación, con el objeto de llevar a cabo diagnósticos y realizar el diseño, implementación, evaluación y supervisión de las políticas delegacionales en materia de prevención social del delito y la violencia.
+Las Alcaldías deberán formar su Consejo de Prevención Social del Delito y la Violencia, asesorados por el Secretario Ejecutivo para atender problemas específicos de inseguridad en su demarcación, con el objeto de llevar a cabo diagnósticos y realizar el diseño, implementación, evaluación y supervisión de las políticas de las alcaldías en materia de prevención social del delito y la violencia.
 
-Asimismo, se podrán conformar Consejos Delegacionales de Prevención social del Delito y la Violencia que incluyan a dos o más Delegaciones.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Asimismo, se podrán conformar Consejos de las Alcaldías de Prevención social del Delito y la Violencia que incluyan a dos o más Alcaldías.
 
 En los supuestos donde exista una problemática que abarque a municipios limítrofes del Estado de México o del Estado de Morelos, se podrán realizar estrategias de participación conjunta con el apoyo del propio Consejo.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 22.
 
-Los Consejos Delegacionales funcionarán con las mismas características del Consejo.
+Los Consejos de las Alcaldías funcionarán con las mismas características del Consejo.
 
-En su integración participarán el Jefe o Jefa Delegacional, quien presidirá el Consejo Delegacional y los subdelegados y jefes de las oficinas delegacionales cuyas atribuciones estén vinculadas a la materia de esta Ley.
+En su integración participarán la persona titular de la Alcaldía, quien presidirá el Consejo de las Alcaldías cuyas atribuciones estén vinculadas a la materia de esta Ley.
 
-En el caso de Consejos que comprendan dos o más Delegaciones, tendrán una Presidencia rotativa anual, que corresponderá a cada uno de los Jefes Delegacionales que se conformen.
+En el caso de Consejos que comprendan dos o más Alcaldías, tendrán una Presidencia rotativa anual, que corresponderá a cada una de las personas titulares de las Alcaldías.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 23.
 
-Los mecanismos de trabajo a nivel delegacional considerarán la participación comunitaria en el diseño de estrategias locales que contemplen los objetivos, prioridades, tiempos, recursos, resultados esperados, calendario de acción, responsables e instituciones involucradas, formuladas a partir de los resultados de un diagnóstico de la inseguridad de los ámbitos territoriales específicos.
+Los mecanismos de trabajo a nivel de las Alcaldías considerarán la participación comunitaria en el diseño de estrategias locales que contemplen los objetivos, prioridades, tiempos, recursos, resultados esperados, calendario de acción, responsables e instituciones involucradas, formuladas a partir de los resultados de un diagnóstico de la inseguridad de los ámbitos territoriales específicos.
 
 Asimismo, se establecerá un vínculo de participación directa con los órganos de representación vecinal electos conforme a la Ley de Participación Ciudadana, con el propósito de acordar estrategias de acción e implementación de programas en materia de prevención social del Delito y la Violencia.
 
 ### CAPÍTULO CUARTO. DE LA COORDINACIÓN DE PROGRAMAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 24.
 
-El Gobierno y las Delegaciones, en el ámbito de sus respectivas atribuciones, deberán incluir la Prevención Social del Delito y la Violencia en sus programas, atendiendo a los objetivos generales del Programa Preventivo.
+El Gobierno de la Ciudad de México y las Alcaldías, en el ámbito de sus respectivas atribuciones, deberán incluir la Prevención Social del Delito y la Violencia en sus programas, atendiendo a los objetivos generales del Programa Preventivo.
 
-Los Programas del Gobierno y las Delegaciones que incidan en la Prevención Social del Delito y la Violencia se diseñarán conforme a lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Los Programas del Gobierno de la Ciudad de México y de las Alcaldías que incidan en la Prevención Social del Delito y la Violencia se diseñarán conforme a lo siguiente:
 
 I. Considerarán la participación interinstitucional con enfoque multidisciplinario, enfatizando la colaboración con instituciones académicas y de investigación;
 
@@ -420,7 +534,9 @@ II. Evitarán duplicidades o contradicciones entre las estrategias y acciones qu
 
 III. Estarán orientados a contrarrestar, neutralizar o disminuir los factores de riesgo y las consecuencias, daño e impacto social y comunitario de la violencia, infracciones administrativas y delitos;
 
-IV. Tenderán a lograr un efecto multiplicador, fomentando la participación de servidores del Gobierno, las Delegaciones y demás instituciones públicas del Distrito Federal; y
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IV. Tenderán a lograr un efecto multiplicador, fomentando la participación de servidores del Gobierno de la Ciudad de México, las Alcaldías y demás instituciones públicas de la Ciudad de México; y
 
 V. Incentivarán la participación ciudadana y comunitaria, para un adecuado diagnóstico, diseño, implementación y evaluación de las políticas públicas encaminadas a esta materia.
 
@@ -428,11 +544,11 @@ V. Incentivarán la participación ciudadana y comunitaria, para un adecuado dia
 
 Las políticas de prevención social deberán ser evaluadas con la participación de instituciones académicas, profesionales, especialistas en la materia y organizaciones de la sociedad civil.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, [N. DE E. REPUBLICADO], G.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 26.
 
-En el cumplimiento del objeto de esta Ley, el Gobierno y las Delegaciones, en el ámbito de sus atribuciones, deberán:
+En el cumplimiento del objeto de esta Ley, el Gobierno de la Ciudad de México y las Alcaldías, en el ámbito de sus atribuciones, deberán:
 
 I. Proporcionar información a las comunidades para enfrentar los problemas derivados del delito, siempre que no violente los principios de confidencialidad y reserva;
 
@@ -450,19 +566,23 @@ VII. Realizar estudios periódicos sobre victimización y delincuencia; y
 
 VIII. Impulsar la participación ciudadana y comunitaria en la Prevención Social del Delito y la Violencia.
 
-> <small>(ADICIONADO, G.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 26 Bis.
 
-El Gobierno de Ciudad de México, atenderá el desarme voluntario, a través de las acciones y/o Programas conforme a los lineamientos que la Secretaría de Desarrollo Social emita para su implementación.
+El Gobierno de la Ciudad de México atenderá el desarme voluntario a través de las acciones y/o programas que conforme a los lineamientos emita para su implementación.
 
-### CAPÍTULO QUINTO. DEL PROGRAMA PREVENTIVO PARA LA PREVENCIÓN SOCIAL DEL DELITO Y LA VIOLENCIA DEL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO QUINTO. DEL PROGRAMA PREVENTIVO PARA LA PREVENCIÓN SOCIAL DEL DELITO Y LA VIOLENCIA DE LA CIUDAD DE MÉXICO
 
 #### Sección Primera. De su Naturaleza y Objetivos
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 27.
 
-El Programa Preventivo es el documento programático que articula las estrategias institucionales y líneas de acción del Gobierno y las Delegaciones que inciden en la Prevención Social del Delito y la Violencia.
+El Programa Preventivo es el documento programático que articula las estrategias institucionales y líneas de acción del Gobierno de la Ciudad de México y las Alcaldías que inciden en la Prevención Social del Delito y la Violencia.
 
 ###### Artículo 28.
 
@@ -492,13 +612,17 @@ IX. El monitoreo y evaluación continuos.
 
 El Consejo evaluará trimestralmente los resultados del Programa Preventivo, a fin de contar con un mecanismo de actualización permanente de las políticas, estrategias y líneas de acción referidas a la Prevención Social del Delito y la Violencia.
 
-Los integrantes del Consejo enviarán al Secretario Ejecutivo un reporte de los resultados de los programas institucionales a su cargo, a más tardar catorce días naturales anteriores a la fecha de la sesión trimestral.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Las personas integrantes del Consejo enviarán al Secretario Ejecutivo un reporte de los resultados de los programas institucionales a su cargo, a más tardar catorce días naturales anteriores a la fecha de la sesión trimestral.
 
 ###### Artículo 30.
 
 En las sesiones trimestrales del Consejo, el Secretario Ejecutivo rendirá un informe pormenorizado de los logros y avances de los programas institucionales, quien lo hará público en los términos que establezcan las disposiciones aplicables.
 
-Para la evaluación de las acciones referidas en los programas, se convocará a la Comisión de Derechos Humanos del Distrito Federal, instituciones académicas y organizaciones de la sociedad civil.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Para la evaluación de las acciones referidas en los programas, se convocará a la Comisión de Derechos Humanos de la Ciudad de México, instituciones académicas y organizaciones de la sociedad civil.
 
 Los resultados de las evaluaciones determinarán la continuidad de los programas.
 
@@ -508,15 +632,21 @@ Los resultados de las evaluaciones determinarán la continuidad de los programas
 
 La participación comunitaria tiene como finalidad la colaboración con las autoridades para que se cumpla con los objetivos que se plantean en esta Ley.
 
-Para ello, se fomentará la organización de los ciudadanos y de los órganos de representación ciudadana para que participen en la planeación, diseño, evaluación, ejecución y seguimiento de las políticas públicas vinculadas con la Prevención Social del Delito y la Violencia, la cultura de la legalidad y la solución de conflictos a través de la comunicación y la tolerancia, realizar actividades que se vinculen con la seguridad pública y la procuración de justicia, con la finalidad de que se coordinen los esfuerzos para mantener el orden público y se fortalezca el tejido social, ello dentro del marco de la Ley de Participación Ciudadana del Distrito Federal.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Para ello, se fomentará la organización de los ciudadanos y de los órganos de representación ciudadana para que participen en la planeación, diseño, evaluación, ejecución y seguimiento de las políticas públicas vinculadas con la Prevención Social del Delito y la Violencia, la cultura de la legalidad y la solución de conflictos a través de la comunicación y la tolerancia, realizar actividades que se vinculen con la seguridad pública y la procuración de justicia, con la finalidad de que se coordinen los esfuerzos para mantener el orden público y se fortalezca el tejido social, ello dentro del marco de la Ley de Participación Ciudadana de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 32.
 
-El Consejo estimulará la organización y participación de la ciudadanía, para asegurar la intervención activa de la comunidad en las diferentes tareas que implica la implementación de las políticas de prevención social del Delito y la Violencia, así como reforzar la cultura de la legalidad. Para ello, se incentivará el conocimiento y cumplimiento de normatividad vigente en el Distrito Federal, que se relacione con el tema así como la presente Ley.
+El Consejo estimulará la organización y participación de la ciudadanía, para asegurar la intervención activa de la comunidad en las diferentes tareas que implica la implementación de las políticas de prevención social del Delito y la Violencia, así como reforzar la cultura de la legalidad. Para ello, se incentivará el conocimiento y cumplimiento de normatividad vigente en la Ciudad de México, que se relacione con el tema, así como la presente Ley.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 33.
 
-Los Consejos Delegacionales promoverán mecanismos para que la ciudadanía participe e intervenga en las diferentes fases que conllevan las políticas de Prevención Social del Delito y la Violencia.
+Los Consejos de las Alcaldías promoverán mecanismos para que la ciudadanía participe e intervenga en las diferentes fases que conllevan las políticas de Prevención Social del Delito y la Violencia.
 
 ###### Artículo 34.
 
@@ -538,9 +668,11 @@ El incumplimiento en el ejercicio de las obligaciones de los servidores público
 
 El Consejo dictará el acuerdo que así lo determine e instruirá al Secretario Ejecutivo para que remita el expediente respectivo al superior jerárquico del infractor, a fin de que se inicie el procedimiento que corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 38.
 
-La Dependencia o Entidad del Gobierno o las Delegaciones que haya impuesto alguna sanción a sus subordinados por incumplimiento a las disposiciones de esta Ley, deberá comunicarlo al Consejo por conducto del Secretario Ejecutivo.
+La Dependencia o Entidad del Gobierno de la Ciudad de México o de las Alcaldías que haya impuesto alguna sanción a sus subordinados por incumplimiento a las disposiciones de esta Ley, deberán comunicarlo al Consejo por conducto de la persona Secretaria Ejecutiva.
 
 El Secretario Ejecutivo dará cuenta al Consejo con las sanciones que se impongan, en la siguiente sesión que sea convocada.
 
@@ -589,3 +721,11 @@ SEGUNDO.- Publíquese en la Gaceta Oficial de (sic) Ciudad de México, para su c
 TERCERO.- La Asamblea Legislativa del Distrito Federal para el ejercicio fiscal 2018, debe destinar recursos suficientes a la Secretaría de Desarrollo Social, para la implementación de la Acción Interinstitucional denominada “Por Tu Familia, Desarme Voluntario” y su modalidad “Por Tu Familia, Desarme Voluntario te Acompaña Desde Tu Casa”.
 
 CUARTO.- La Secretaría de Finanzas realizará las gestiones necesarias para la asignación presupuestal a la Secretaría de Desarrollo Social.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA DENOMINACIÓN Y DIVERSAS DISPOSICIONES DE LA LEY DE PREVENCIÓN SOCIAL DEL DELITO Y LA VIOLENCIA PARA EL DISTRITO FEDERAL PARA QUEDAR COMO LEY DE PREVENCIÓN SOCIAL DEL DELITO Y LA VIOLENCIA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.para (sic) quedar como sigue: (sic)
