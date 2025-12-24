@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-notariado-para-la-ciudad-de-mexico-128986"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-11"
-last_updated: "2025-11-21"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128986&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2018-05-21"
 
 LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el lunes 11 de junio de 2018.
 
@@ -328,9 +328,17 @@ II. Ser informados por los Notarios de las exenciones, beneficios fiscales y fac
 
 III. Obtener información por parte del Notario en cualquier etapa del procedimiento que realiza ante éste;
 
-IV. Recibir copia de la solicitud de entrada y trámite al Registro Público de la Propiedad y de Comercio o del documento que haga sus veces, así como a ser informado acerca del estado que guarda el trámite registral; y
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-V. Solicitar y obtener el original o copia certificada de los documentos con los que se acredite el pago de los impuestos y derechos generados por la operación celebrada.
+IV. Recibir copia de la solicitud de entrada y trámite al Registro Público de la Propiedad y de Comercio o del documento que haga sus veces, así´ como a ser informado acerca del estado que guarda el trámite registral;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+V. Solicitar y obtener el original o copia certificada de los documentos con los que se acredite el pago de los impuestos y derechos generados por la operación celebrada, y
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VI. Recibir del Notario, de manera clara, comprensible y accesible, toda la información necesaria sobre el alcance, efectos y consecuencias jurídicas de los actos que celebren.
 
 ###### Artículo 17.
 
@@ -3383,3 +3391,13 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia del delito de despojo, previsto en el Código Penal para el Distrito Federal, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
 
 CUARTO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES IV Y V Y SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 16 DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
