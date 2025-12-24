@@ -4,7 +4,7 @@ identifier: "SIN-ley-en-materia-de-desaparicion-forzada-de-personas-137676"
 country: "mx"
 rank: "ley"
 publication_date: "2019-07-22"
-last_updated: "2019-07-22"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137676&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA ESTATAL DE BÚSQUEDA DE PERSONAS DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 22 de julio de 2019.
 
@@ -143,7 +143,9 @@ Las acciones, medidas y procedimientos establecidos en esta Ley son diseñados, 
 
 I. Efectividad y exhaustividad: Las diligencias que se realicen para la búsqueda de la Persona Desaparecida o No Localizada se harán de manera inmediata, oportuna, transparente, con base en información útil y científica, encaminadas a la localización y, en su caso, identificación, atendiendo a todas las posibles líneas de investigación. Bajo ninguna circunstancia se podrán invocar condiciones particulares de la Persona Desaparecida o No Localizada, o la actividad que realizaba previa o al momento de la desaparición para no ser buscada de manera inmediata;
 
-II. Debida diligencia: Las autoridades deben utilizar los medios necesarios para realizar con prontitud aquellas actuaciones esenciales y oportunas dentro de un plazo razonable para lograr el objeto de esta Ley, en especial la búsqueda de la Persona Desaparecida o No Localizada; así como la ayuda, atención, asistencia, derecho a la verdad, justicia y reparación integral a fin de que la víctima sea tratada y considerada como titular de derechos. En toda investigación y proceso penal que se inicie por los delitos previstos en la Ley General, las autoridades deben garantizar su desarrollo de manera autónoma, independiente, inmediata, imparcial, eficaz, y realizados con oportunidad, exhaustividad, respeto de derechos humanos y máximo nivel de profesionalismo;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+II. Debida diligencia: Las autoridades deben utilizar los medios necesarios para realizar con prontitud aquellas actuaciones esenciales y oportunas dentro de un plazo razonable para lograr el objeto de esta Ley, en especial la búsqueda de la Persona Desaparecida o No Localizada; así como la ayuda, atención, asistencia, derecho a la verdad, memoria, justicia y reparación integral a fin de que la víctima sea tratada y considerada como titular de derechos. En toda investigación y proceso penal que se inicie por los delitos previstos en la Ley General, las autoridades deben garantizar su desarrollo de manera autónoma, independiente, inmediata, imparcial, eficaz, y realizados con oportunidad, exhaustividad, respeto de derechos humanos y máximo nivel de profesionalismo;
 
 III. Enfoque diferencial y especializado: Al aplicar esta Ley, las autoridades deben tener en cuenta la existencia de grupos de población con características particulares o con mayor situación de vulnerabilidad en razón de su origen étnico o nacional, idioma o lengua, religión, edad, género, preferencia u orientación sexual, identidad de género, condición de discapacidad, condición social, económica, histórica y cultural, así como otras circunstancias diferenciadoras y que requieran de una atención especializada que responda a las particularidades y grado de vulnerabilidad de las víctimas. De igual manera, tratándose de las acciones, mecanismos y procedimientos para la búsqueda, localización y desarrollo de las investigaciones, las autoridades deberán tomar en cuenta las características, contexto y circunstancias de la comisión de los delitos previstos en la Ley General;
 
@@ -1438,3 +1440,13 @@ EFRÉN ENCINAS TORRES
 El Secretario de Seguridad Pública
 
 CRISTÓBAL CASTAÑEDA CAMARILLO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 270 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA LA LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA ESTATAL DE BUSQUEDAS DE PERSONAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
