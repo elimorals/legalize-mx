@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-de-la-ciudad-de-mexico-150515"
 country: "mx"
 rank: "ley"
 publication_date: "2021-08-09"
-last_updated: "2025-08-27"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150515&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2021-08-06"
 
 LEY DE SALUD DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en el No. 657 de la Gaceta Oficial de la Ciudad de México, el lunes 9 de agosto de 2021.
 
@@ -106,7 +106,9 @@ V. Perspectiva de Género: Es método de análisis, social, cultural, antropoló
 
 VI. Progresividad: obligación del Gobierno de generar gradualmente un progreso en la promoción, respeto, protección y garantía del derecho a la salud, de tal forma, que siempre esté en constante evolución y bajo ninguna regresividad;
 
-VII. No discriminación: garantía de igualdad de derechos, de trato y respeto a la dignidad de todas las personas con independencia de su situación social, económica, cultural, religiosa, política, étnica, sexo, la orientación o identidad sexual, el color de su piel, su edad, su condición ciudadana, su género o cualquier otra característica;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VII. No discriminación: garantía de igualdad de derechos, de trato y respeto a la dignidad de todas las personas con independencia de su situación social, económica, cultural, religiosa, política, étnica, sexo, la orientación, expresión de género, características sexuales o identidad sexual, el color de su piel, su edad, su condición ciudadana, su género o cualquier otra característica;
 
 VIII. Solidaridad: ayuda mutua, con énfasis en el servicio a las personas en grupos de atención prioritaria o necesitadas, así como la colaboración, interacción y servicio que contribuyen al crecimiento y desarrollo de todos los seres humanos y a la búsqueda del bien común, y
 
@@ -133,6 +135,10 @@ V. La extensión de actitudes solidarias y responsables de la población en la p
 VI. El disfrute de servicios de salud que satisfagan eficaz y oportunamente las necesidades de la población, en los términos de la legislación aplicable. Tratándose de personas que carezcan de seguridad social, la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados a través del Instituto de Salud para el Bienestar;
 
 VII. El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud;
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VII Bis. El diseño y ejecución de políticas específicas para la atención integral a la salud de las personas LGBTTTI+.
 
 VIII. El desarrollo de la enseñanza e investigación científica y tecnológica para la salud, y
 
@@ -169,6 +175,10 @@ XI. La promoción del mejoramiento de la nutrición y de las condiciones de alim
 > <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2022)</small>
 
 XII. La asistencia médica a los grupos de atención prioritaria, de manera especial, las personas de identidad indígena, afrodescendientes, las niñas y niños, las mujeres y personas con capacidad de gestar, las personas mayores en áreas de atención geriátrica, personas con discapacidad, y todas aquellas reconocidas (sic) la Constitución Política de la Ciudad de México, así como a los integrantes de los pueblos, barrios originarios y comunidades indígenas residentes.
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XII Bis. La atención integral a la salud física, comunitaria, mental, sexual y reproductiva de las personas LGBTTTI+, sin discriminación alguna.
 
 XIII. La atención integral del consumo de sustancias psicoactivas, particularmente al tabaco, la cannabis, el alcohol y la farmacodependencia;
 
@@ -414,6 +424,10 @@ VIII. Recibir tratamiento médico conforme a los principios médicos científica
 
 IX. Ser atendidos con respeto a sus derechos, su dignidad, su vida privada, su cultura y sus valores en todo momento;
 
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IX Bis. En el caso de las personas LGBTTTI+, ser atendidas en las unidades especializadas de la Secretaría y hospitales del Sistema de Salud de la Ciudad de México, sin exigir medio probatorio alguno, que acredite la identidad con la que se han autodeterminado.
+
 X. Tener la seguridad y la certeza de la continuidad en la atención médica recibida;
 
 XI. Tener la seguridad de que la información sobre su estado de salud será confidencial y protegida;
@@ -454,7 +468,11 @@ XXVIII. Recibir el medicamento que requiera de acuerdo al catálogo de medicamen
 
 XXIX. A la atención integral de cáncer de mama, con base a los criterios que establezca la Secretaría y disposiciones establecidas en la Ley para la Atención Integral del Cáncer de Mama vigente, y
 
-XXX. Los demás que le sean reconocidos en las disposiciones legales aplicables.
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XXX. Acceder al servicio público de atención prehospitalaria de urgencias médicas; y,
+
+XXXI. Los demás que le sean reconocidos en las disposiciones legales aplicables.
 
 ###### Artículo 13.
 
@@ -537,6 +555,10 @@ VIII. Colaborar con el bienestar social de la población, mediante el otorgamien
 IX. Fomentar el sano desarrollo de las familias y de las comunidades, así como a la integración social y al crecimiento físico y mental de las niñas, niños y adolescentes;
 
 X. Apoyar el mejoramiento de los determinantes sociales de salud-enfermedad, asociados al medio ambiente que propicien el desarrollo satisfactorio de la vida;
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+X Bis. Desarrollar políticas, protocolos, investigación y acciones específicas para atender las necesidades de salud de las personas LGBTTTI+.
 
 XI. Impulsar un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud;
 
@@ -1389,6 +1411,10 @@ VI. La aplicación de programas preventivos en materia de salud sexual y salud r
 > <small>(ADICIONADA, G.O. 2 DE MAYO DE 2025)</small>
 
 VI. Bis. El fomento a la salud sexual y el bienestar de las mujeres, la operación de programas de información, prevención y atención para quienes cursan las etapas del climaterio;
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VI. Ter. El fomento a la salud sexual y el bienestar, así como la operación de programas de información, prevención y atención para quienes cursan las etapas del climaterio masculino o andropausia.
 
 VII. El fomento de la paternidad y la maternidad responsable;
 
@@ -2973,3 +2999,31 @@ G.O. 27 DE AGOSTO DE 2025.
 PRIMERO.- Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN VI TER AL ARTÍCULO 68 DE LA LEY DE SALUD DE LA CIUDAD DE MÉXICO, EN MATERIA DE PREVENCIÓN Y ATENCIÓN DE LA SALUD MASCULINA SOBRE ANDROPAUSIA”.]
+
+PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán, con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+TERCERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XXX DEL ARTÍCULO 12, RECORRIÉNDOSE LA SUBSECUENTE, DE LA LEY DE SALUD DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+TERCERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
