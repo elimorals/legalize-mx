@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-actos-y-procedimientos-administrativos-del-estado-de-711
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-07"
-last_updated: "2021-01-04"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE ACTOS Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de diciembre de 2009.
 
@@ -154,6 +154,10 @@ XV.- De ser el caso, que se expida de manera congruente con lo solicitado y que 
 ###### Artículo 7.
 
 Los actos administrativos de carácter general, tales como reglamentos, decretos, acuerdos, circulares, formatos, lineamientos, criterios, metodologías, instructivos, directivas, reglas, manuales y cualquiera de naturaleza análoga a los anteriores, que expidan las dependencias y que afecten a particulares, deben publicarse en el Diario Oficial del Gobierno del Estado para que produzcan efectos jurídicos.
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Las dependencias y entidades de la Administración Pública estatal deberán publicar en el Diario Oficial del Gobierno del Estado de Yucatán los datos que permitan la identificación de las normas que emitan, tales como: la denominación de la norma; su emisor; la fecha de emisión y la materia de que trate, salvo que el ordenamiento jurídico en el que se sustente su expedición o la ley exija la publicación completa de la norma. Invariablemente el texto íntegro de la norma emitida se difundirá por la institución pública que corresponda en el Repositorio Digital del Diario Oficial del Gobierno del Estado de Yucatán en términos de lo previsto en la Ley del Diario Oficial del Gobierno del Estado de Yucatán.
 
 > <small>(ADICIONADO, D.O. 4 DE ENERO DE 2021)</small>
 
@@ -1340,3 +1344,15 @@ El Consejo Estatal de Mejora Regulatoria de Yucatán deberá ajustar su integrac
 Quinto. Actualización del órgano colegiado en materia de medio ambiente
 
 El Consejo Estatal de Consultoría y Evaluación Ambiental deberá realizar los ajustes administrativos necesarios para cambiar su denominación a Consejo Estatal para la Protección del Medio Ambiente, en virtud de este decreto. Entre tanto, podrá continuar funcionando de manera regular, de acuerdo con la Ley de Protección al Medio Ambiente del Estado de Yucatán y su reglamento.
+
+D.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 137/2025 POR EL QUE SE MODIFICAN LA LEY DEL DIARIO OFICIAL DEL GOBIERNO DEL ESTADO DE YUCATÁN, LA LEY DE ACTOS Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE YUCATÁN, LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN Y LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derogación expresa
+
+Se derogan todas las disposiciones de igual o menor rango que se opongan al contenido del presente decreto.
