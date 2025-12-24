@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-y-bienestar-de-los-animales-de-la-ciudad-2357
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-26"
-last_updated: "2025-06-27"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23573&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2002-01-08"
 ---
 # LEY DE PROTECCION Y BIENESTAR DE LOS ANIMALES DE LA CIUDAD DE MEXICO -- ANTES LEY DE PROTECCION A LOS ANIMALES DE LA CIUDAD DE MEXICO -- ANTES LEY DE PROTECCION A LOS ANIMALES DEL DISTRITO FEDERAL --
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 26 de febrero de 2002.
 
@@ -48,11 +50,11 @@ LEY DE PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE LA CIUDAD DE MÉXICO
 
 ### Capítulo I. De las Disposiciones Generales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE MARZO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 1°.
 
-La presente Ley es de observancia general en la Ciudad de México, sus disposiciones son de orden público e interés social, tienen por objeto proteger a los animales como seres sintientes, garantizar su bienestar, brindarles atención, buen trato, manutención, alojamiento, desarrollo natural, salud y evitarles el maltrato, la crueldad, el sufrimiento, la zoofilia y la deformación de sus características físicas, así como garantizar la sanidad animal, la salud pública y los cinco dominios del bienestar animal, siendo estos la nutrición, el ambiente, la salud, el comportamiento y el estado mental.
+La presente Ley es de observancia general en la Ciudad de México, sus disposiciones son de orden público e interés social, tienen por objeto proteger, conservar y cuidar a los animales como seres sintientes, garantizar su bienestar, brindarles atención, buen trato, manutención, alojamiento, desarrollo natural, salud y evitarles el maltrato, la crueldad, el sufrimiento, la zoofilia y la deformación de sus características físicas, así como garantizar la sanidad animal, la salud pública y los cinco dominios del bienestar animal, siendo estos la nutrición, el ambiente, la salud, el comportamiento y el estado mental.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], G.O. 27 DE JUNIO DE 2017)</small>
 
@@ -595,6 +597,10 @@ VII. En el caso de las personas benefactoras de animales comunitarios, brindarle
 Son obligaciones de las personas tutoras responsables con relación a sus de animales de compañía:
 
 I. Inscribir al animal, en el RUAC directamente o durante las campañas masivas en materia de vacunación, antirrábicas, sanitarias para el control y erradicación de enfermedades zoonóticas, de desparasitación y de esterilización que lleven a cabo las autoridades de la Ciudad de México. La omisión de esta disposición dará origen a las sanciones de carácter administrativo establecidas en la presente Ley;
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Para el caso de establecimientos mercantiles, albergues o refugios para perros y gatos, la obligación establecida en el párrafo inmediato anterior, deberá ser cumplida por la persona adquiriente del animal;
 
 II. Proporcionar agua limpia y fresca a libre acceso;
 
@@ -1142,21 +1148,21 @@ Los animales de compañía entregados voluntariamente serán incorporados a un p
 
 La Secretaría de Salud y las Alcaldías, según corresponda, autorizarán la presencia como observadores de hasta dos representantes de las asociaciones protectoras de animales legalmente constituidas y registradas que así lo soliciten al efectuar visitas de verificación, así como cuando se realice eutanasia en las instalaciones públicas destinadas para dicho fin y cuando estas se realicen a establecimientos que manejen animales.
 
-> <small>(ADICIONADO, G.O. 18 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 16 Bis.
 
-La participación ciudadana de los habitantes será fundamental para difundir la cultura y protección a los animales, y esta podrá darse a través de los comités ciudadanos y consejos del pueblo electos en los términos del artículo 171 fracción IV de la Ley de Participación Ciudadana del Distrito Federal.
+La participación ciudadana de los habitantes será fundamental para difundir la cultura y protección a los animales, y esta podrá darse a través de los comités ciudadanos y consejos del pueblo electos en los términos del artículo 171 fracción IV de la Ley de Participación Ciudadana de la Ciudad de México.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE OCTUBRE DE 2006)</small>
 
 ### Capítulo IV. De las disposiciones complementarias al Fondo Ambiental Público
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 17.
 
-El Fondo Ambiental Público al que se refiere la Ley Ambiental de Protección a la Tierra del Distrito Federal destinará recursos para:
+El Fondo Ambiental Público al que se refiere la Ley Ambiental de la Ciudad de México destinará recursos para:
 
 > <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -1350,6 +1356,14 @@ IV. La venta de animales vivos a menores de dieciocho años de edad, si no está
 
 V. La venta y explotación de animales en la vía pública o en vehículos;
 
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+V Bis. La exhibición física de perros y gatos en cualquier tipo de estructura o mobiliario que no permita el movimiento o la expresión natural de su conducta dentro de establecimientos mercantiles legalmente constituidos;
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+V Ter. Comercializar perros y gatos, provenientes de criaderos o criadores que no se encuentren legalmente establecidos;
+
 VI. La venta de animales vivos en tiendas departamentales, tiendas de autoservicio y, en general, en cualquier otro establecimiento cuyo giro comercial autorizado sea diferente al de la venta de animales;
 
 > <small>(REFORMADA, G.O. 27 DE MARZO DE 2024)</small>
@@ -1472,13 +1486,25 @@ Previa venta de cualquier animal, el vendedor deberá entregar al comprador un c
 
 Asimismo, entregará un certificado de salud en el cual conste y dé fe que el animal se encuentra libre de enfermedad aparente y que se encuentra libre de displasias y demás enfermedades degenerativas, incluyendo en el mismo el calendario de vacunación correspondiente, que registre las vacunas que le fueron suministradas al animal y las vacunas a realizar, por parte del comprador.
 
-> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 27 Bis.
 
-El espacio mínimo por animal debe contemplarse según la especie, peso, talla y altura para garantizar su protección y cuidado.
+La comercialización y adopción de perros y gatos deberá realizarse mediante cita previa concertada por la persona interesada con el establecimiento mercantil, a través de un centro de atención telefónica o de una plataforma digital operada por dicho establecimiento.
 
-La venta podrá realizarse por medio de catálogos, siempre y cuando se cumpla con la normatividad federal y local en materia de protección, cuidado y trato digno y respetuoso a los animales.
+Previo a la cita, el establecimiento deberá garantizar que los animales permanezcan en un área específicamente destinada para su estancia habitual, bajo condiciones adecuadas de bienestar, alojamiento, sanidad, seguridad y protección, conforme a los lineamientos que emita la Secretaría. Dicha área deberá encontrarse dentro del territorio de la Ciudad de México y contar con la presencia permanente de un Médico Veterinario Zootecnista en legal ejercicio de la profesión, asegurar el cumplimiento de los cinco dominios del bienestar animal y estar sujeta a inspección y verificación periódica por parte de la autoridad competente.
+
+Durante la realización de la cita, la interacción entre la persona interesada y el animal deberá efectuarse en un espacio de atención al público destinado exclusivamente para ese propósito, que garantice condiciones adecuadas de bienestar animal y el cumplimiento de la normatividad aplicable. En todo momento deberá encontrarse presente un Médico Veterinario Zootecnista responsable de supervisar el manejo y la atención de los animales.
+
+Concluida la cita, los animales deberán regresar al área destinada para su estancia habitual, quedando prohibida su pernocta en el espacio de atención al público o en cualquier otro distinto al de dicha estancia habitual.
+
+La persona adquirente podrá, dentro de las setenta y dos horas siguientes a la entrega del animal, devolverlo al establecimiento mercantil cuando, por cualquier causa, determine que no puede asumir su tutela.
+
+En estos casos, el establecimiento deberá cerciorarse de que la persona compradora devuelva al ejemplar en condiciones acordes con el bienestar animal.
+
+En dicho caso, el establecimiento podrá cobrar una cuota por concepto de reintegración, destinada a garantizar la atención, cuidado y adecuada colocación del ejemplar, conforme a la normatividad aplicable.
+
+Una vez que haya sido devuelto el ejemplar, en caso de que el establecimiento detecte que este presenta afectaciones a su bienestar, se abstendrá de realizar una nueva venta a la misma persona por un periodo de tres años posteriores a la devolución.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 27 DE MARZO DE 2024)</small>
 
@@ -1568,37 +1594,37 @@ II. Asimismo, se coordinará con la Agencia de Atención Animal para la sincroni
 
 III. Tener buenas condiciones sanitarias, adecuadas a las necesidades de los animales que alberguen;
 
-> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-IV. Disponer de comida suficiente y adecuada, agua, lugares para dormir, personal capacitado para el cuidado de los animales, así como servicio médico veterinario en el lugar;
+IV. Disponer de alimento suficiente y adecuado, agua limpia y en cantidad necesaria y servicio médico veterinario; así como de personal capacitado para el manejo y cuidado de los animales. En aquellos lugares en los que los animales tengan estancia permanente, se deberá contar, además, con áreas destinadas para el descanso y resguardo de los mismos;
 
 > <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2017)</small>
 
 V. Disponer de instalaciones adecuadas para evitar el contagio en los casos de enfermedad, o para guardar, en su caso, períodos de cuarentena;
 
-> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-VI. Vender los animales, registrados, esterilizados, a menos que la venta sea a otro criador registrado, desparasitados y libres de toda enfermedad, con los certificados correspondientes;
+VI. Para el caso de perros y gatos, se deberán comercializar únicamente animales esterilizados, desparasitados, clínicamente sanos e identificados mediante microchip, el cual, deberá estar referenciado en el certificado de compra que para tal efecto se expida;
 
-> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-VII. Disponer de un médico veterinario con cédula profesional, encargado de velar por la salud, protección y cuidado de los animales de compañía;
+VII. Contar con un médico veterinario en legal ejercicio de la profesión, encargado de velar por la salud y cuidado de los animales de compañía;
 
-> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-VIII. Dar asesoría al comprador sobre los cuidados mínimos necesarios para la protección y cuidado del animal de compañía y tenencia responsable, además de informar sobre las actitudes con base a sus caracteres;
+VIII. Proporcionar al comprador información veraz, suficiente y comprensible sobre los cuidados mínimos necesarios para el bienestar y tutela responsable del animal de compañía adquirido, incluyendo sus características fisiológicas y conductuales, asociadas a su edad, sexo, raza y necesidades específicas, entre otras;
 
-> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-IX. Establecer en la compraventa de animales un plazo de garantía mínima de quince días por si hubiera lesiones ocultas o enfermedades en incubación;
+IX. Establecer, en la comercialización de animales, un plazo mínimo de quince días naturales contados a partir de la entrega, durante el cual el comprador podrá hacer valer el derecho a reclamar atención médico-veterinaria o las medidas de protección necesarias en caso de lesiones ocultas o enfermedades en período de incubación que se manifiesten durante el período señalado. Para el caso de enfermedades congénitas el adquiriente contará con un plazo de 9 meses para hacer valer lo antes señalado;
 
-> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-X. La compraventa de animales no podrá realizarse antes de los cuatro meses de nacidos;
+X. La comercialización de animales no podrá realizarse antes de los cuatro meses de nacidos;
 
-> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XI. En los establecimientos dedicados a la venta de animales prestar, sin costo alguno, por lo menos dos espacios dentro de su establecimiento para la exhibición de animales en adopción, propiedad de alguna asociación protectora de animales legalmente constituida, a fin de fomentar la cultura de la adopción de animales de compañía abandonados; y
+XI. En los establecimientos dedicados a la comercialización de animales prestar, sin costo alguno, por lo menos dos espacios dentro de su establecimiento para la interacción humano-animal de animales en adopción, propiedad de alguna asociación protectora de animales legalmente constituida, con el objetivo de fomentar la cultura de la adopción de animales de compañía abandonados; y
 
 > <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2017)</small>
 
@@ -2274,9 +2300,9 @@ c). Multa de 21 a 30 veces la Unidad de Medida y Actualización vigente, o arres
 
 d) Multa de 300 a 600 veces la Unidad de Medida y Actualización vigente, y arresto administrativo de 25 a 36 horas, por violaciones a lo dispuesto por el artículo 25, fracciones XXVI, XXVII y XXVIII de la presente Ley.
 
-> <small>(REFORMADA, G.O. 27 DE MARZO DE 2024)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-IV. Corresponde a la Procuraduría, siguiendo el procedimiento regulado por el artículo 56 párrafo primero de la presente Ley, imponer multa de 1 a 150 veces la Unidad de Medida y Actualización vigente por violaciones a lo dispuesto en los artículos 27, 27 Bis, 28, 28 Bis, 35 y 39 de la presente Ley.
+IV. Corresponde a la Procuraduría, siguiendo el procedimiento regulado por el artículo 56 párrafo primero de la presente Ley, imponer multa de 150 a 3000 veces la Unidad de Medida y Actualización vigente por violaciones a lo dispuesto en los artículos 25, fracciones V Bis y V Ter, 27, 27 Bis, 28, 28 Bis, 35 y 39 de la presente Ley.
 
 > <small>(REFORMADO, G.O. 27 DE MARZO DE 2024)</small>
 
@@ -2971,3 +2997,33 @@ G.O. 27 DE JUNIO DE 2025.
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN EL NUMERAL 5, DEL APARTADO B DEL ARTÍCULO 8; LOS NUMERALES 1, 2 Y PÁRRAFO PRIMERO E INCISO C) DEL NUMERAL 3, DEL APARTADO B DEL ARTÍCULO 13; EL INCISO E) DEL NUMERAL 2 DEL ARTÍCULO 23 DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO; ASIMISMO, SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 1 DE LA LEY DE PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO: Remítase a la persona titular de la Jefatura de Gobierno para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO: El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO: Las obligaciones que, en su caso se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN EL ARTÍCULO 27 BIS; LAS FRACCIONES IV, VI, VII, VIII, IX, X Y XI DEL ARTÍCULO 28 BIS; Y LA FRACCIÓN IV DEL ARTÍCULO 65; ASIMISMO, SE ADICIONAN UN PÁRRAFO SEGUNDO A LA FRACCIÓN I DEL ARTÍCULO 4 BIS 1; LAS FRACCIONES V BIS Y V TER AL ARTÍCULO 25, TODAS DE LA LEY DE PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor a los 365 días naturales siguientes a los de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Dentro de los ciento ochenta días hábiles siguientes a la publicación del presente Decreto, el Gobierno de la Ciudad de México realizará la actualización y armonización reglamentaria correspondiente.
+
+CUARTO. Dentro de los ciento ochenta días hábiles siguientes a la publicación del presente Decreto, la Secretaría de Medio Ambiente de la Ciudad de México emitirá los lineamientos que deberán cumplir las locaciones o espacios en los que los animales destinados a la comercialización deberán (sic) bajo condiciones adecuadas de bienestar, alojamiento, sanidad, seguridad y protección.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 16 BIS Y PÁRRAFO PRIMERO DEL ARTÍCULO 17 DE LA LEY DE PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
