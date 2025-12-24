@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-coordinacion-fiscal-del-estado-de-chihuahua-y-sus-131737
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-24"
-last_updated: "2024-12-28"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "CHH"
 ---
 # LEY DE COORDINACION FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE ENERO DE 2026 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 24 de noviembre de 2018.
 
@@ -185,11 +189,13 @@ La Reunión Estatal se integrará por el Secretario y cada Ayuntamiento, por med
 
 El Secretario podrá ser suplido por el Subsecretario de Ingresos o por la persona que este designe y los Tesoreros Municipales, por la persona que al efecto designen.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 13.
 
-La Reunión Estatal sesionará al menos una vez al año, previa convocatoria por escrito emitida por el Presidente, en la que señale los asuntos que serán tratados.
+La Reunión Estatal sesionará al menos una vez al año, previa convocatoria por escrito y/o medios electrónicos emitida por el Presidente, en la que señale los asuntos que serán tratados.
 
-La Reunión Estatal podrá ser convocada a sesiones extraordinarias, previamente y por escrito, por el Secretario, la Comisión Permanente, o por al menos las dos terceras partes de los integrantes de la misma. En el proceso de renovación de Ayuntamientos, la Reunión Estatal se reunirá por lo menos en dos ocasiones, una durante el primer mes del inicio del trienio y la segunda en el mes en que ordinariamente se lleve a cabo la sesión anual.
+La Reunión Estatal podrá ser convocada a sesiones extraordinarias, previamente por escrito y/o medios electrónicos, por el Secretario, la Comisión Permanente, o por al menos las dos terceras partes de los integrantes de la misma. En el proceso de renovación de Ayuntamientos, la Reunión Estatal se reunirá por lo menos en dos ocasiones.
 
 ###### ARTÍCULO 14.
 
@@ -279,9 +285,11 @@ IX. Llevar a cabo las gestiones para dar cumplimiento a los acuerdos de la Reuni
 
 X. Las demás que determine la Reunión Estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 20.
 
-La Comisión Permanente celebrará reuniones ordinarias, cada tres meses, cuya convocatoria deberá realizarse por escrito cuando menos con diez días de anticipación, de común acuerdo por el Coordinador Estatal y el Coordinador Municipal, y de manera extraordinaria las que convoque el Coordinador Estatal dentro de las setenta y dos horas previas a la realización de la misma.
+La Comisión Permanente celebrará reuniones ordinarias, cada tres meses, cuya convocatoria deberá realizarse por escrito y/o medios electrónicos, de común acuerdo por el Coordinador Estatal y el Coordinador Municipal, y de manera extraordinaria las que convoque el Coordinador Estatal.
 
 Las reuniones que celebre la Comisión Permanente, se realizarán, preferentemente, de manera itinerante en las diferentes Regiones del Estado, previo acuerdo de sus integrantes.
 
@@ -892,5 +900,21 @@ P.O. 28 DE DICIEMBRE DE 2024.
 El presente Decreto entrará en vigor el día primero de enero del año dos mil veinticinco, sin perjuicio de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
+
+Las contribuciones extraordinarias a que se refieren los Decretos 266/94/XI/ P.E. y 842/2012 VI P.E., publicados en el Periódico Oficial del Estado de Chihuahua del 30 de abril de 1994 y del 22 de septiembre de 2012, respectivamente, se determinarán tomando como base de las mismas, el impuesto sobre nóminas causado, considerando la tasa del 3%.
+
+P.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO LXVIII/RFLYC/0462/2025 I P.O. POR EL QUE "SE REFORMAN LOS ARTÍCULOS 13 Y 20, PÁRRAFO PRIMERO, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero del mes de enero del año dos mil veintiséis, sin perjuicio de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Durante los ejercicios fiscales de 2026 y 2027, en lugar de aplicar la tasa establecida en el artículo 75 de la Ley de Hacienda del Estado de Chihuahua, sobre el monto mensual de las erogaciones a que se refiere el artículo 74 de la citada Ley, se aplicará la tasa del 4%.
+
+Los ingresos adicionales que se obtengan por la aplicación de la tasa señalada en el párrafo anterior, deberán aplicarse preferentemente al rubro de inversión pública productiva y el remanente, a lo dispuesto en el artículo 14 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 Las contribuciones extraordinarias a que se refieren los Decretos 266/94/XI/ P.E. y 842/2012 VI P.E., publicados en el Periódico Oficial del Estado de Chihuahua del 30 de abril de 1994 y del 22 de septiembre de 2012, respectivamente, se determinarán tomando como base de las mismas, el impuesto sobre nóminas causado, considerando la tasa del 3%.
