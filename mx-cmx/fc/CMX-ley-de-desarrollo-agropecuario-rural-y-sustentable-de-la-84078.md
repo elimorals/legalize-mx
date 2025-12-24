@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-agropecuario-rural-y-sustentable-de-la-84078"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-08"
-last_updated: "2023-06-15"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84078&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2011-12-07"
 
 LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 8 de diciembre de 2011.
 
@@ -560,11 +560,11 @@ En la planificación del desarrollo de la Ciudad de México se deberá incorpora
 
 En la planificación y realización de las acciones a cargo de las dependencias y entidades de la administración pública, conforme a sus respectivas esferas de competencia, así como en el ejercicio de las atribuciones que las leyes confieran a la Secretaría para regular, promover, restringir, prohibir, orientar y en general inducir las acciones de los particulares en los campos económico y social, se observarán los lineamientos de política agropecuaria y rural que establezca el Plan General de Desarrollo de la Ciudad de México y los programas correspondientes.
 
-> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 17.
 
-La Secretaría promoverá la participación del Consejo Rural en la elaboración de los programas de desarrollo rural sustentable que tengan por objeto el desarrollo agropecuario y rural, según lo establecido en esta Ley, el Reglamento, la Ley Ambiental de Protección a la Tierra en el Distrito Federal y las demás disposiciones jurídicas aplicables.
+La Secretaría promoverá la participación del Consejo Rural en la elaboración de los programas de desarrollo rural sustentable que tengan por objeto el desarrollo agropecuario y rural, según lo establecido en esta Ley, el Reglamento, la Ley Ambiental de la Ciudad de México y las demás disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO, G.O. 2 DE MARZO DE 2020)</small>
 
@@ -1191,5 +1191,13 @@ G.O. 15 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN LAS FRACCIONES III BIS Y V BIS AL ARTÍCULO 2, LA FRACCIÓN XXI AL ARTÍCULO 15, ASÍ COMO UN PÁRRAFO SEGUNDO AL ARTÍCULO 31; SE REFORMAN DIVERSAS FRACCIONES DEL ARTÍCULO 2 DE LA LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DE LA CIUDAD DE MÉXICO".]
 
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL SE REFORMA EL ARTÍCULO 17 DE LA LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la Jefatura de Gobierno para su promulgación y su publicación en la Gaceta Oficial en (sic) la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
