@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-instituto-de-planeacion-democratica-y-142204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2020-03-13"
-last_updated: "2025-08-27"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142204&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2020-03-12"
 
 LEY ORGÁNICA DEL INSTITUTO DE PLANEACIÓN DEMOCRÁTICA Y PROSPECTIVA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número 303 Bis de la Gaceta Oficial de la Ciudad de México, el viernes 13 de marzo de 2020.
 
@@ -190,7 +190,9 @@ La Junta de Gobierno sesionará de manera ordinaria trimestralmente y de manera 
 
 La Junta de Gobierno sesionará válidamente con la asistencia de la mitad más uno de sus integrantes, y sus decisiones se tomarán por mayoría simple de los presentes. En casos de empate, la Presidencia tendrá voto de calidad.
 
-En ausencia debidamente justificada de la persona titular de la Jefatura de Gobierno, ocupará la Presidencia de la Junta de Gobierno la persona titular de la Secretaría de Gobierno.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+En ausencia debidamente justificada de la persona titular de la Jefatura de Gobierno, ocupará la Presidencia de la Junta de Gobierno la persona titular de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana.
 
 > <small>(REFORMADO, G.O. 27 DE AGOSTO DE 2025)</small>
 
@@ -569,3 +571,11 @@ G.O. 27 DE AGOSTO DE 2025.
 PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 7 DE LA LEY ORGÁNICA DEL INSTITUTO DE PLANEACIÓN DEMOCRÁTICA Y PROSPECTIVA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
