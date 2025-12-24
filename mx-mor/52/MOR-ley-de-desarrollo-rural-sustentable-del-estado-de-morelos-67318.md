@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-rural-sustentable-del-estado-de-morelos-67318
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-04"
-last_updated: "2025-04-09"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67318&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de marzo de 2009.
 
@@ -51,13 +51,17 @@ Se considera de interés público el desarrollo rural sustentable que incluye la
 
 Las disposiciones de esta Ley excluyen las actividades forestales, las que se regulan a través de la Ley de Desarrollo Forestal Sustentable del Estado de Morelos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 2.
 
 Esta Ley tiene por objeto:
 
 I. Instrumentar la política de Estado para el campo, fortaleciendo la soberanía y seguridad agroalimentarias;
 
-II. Impulsar el desarrollo rural en forma integral y sustentable;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+II. Impulsar el desarrollo rural de forma integral y sustentable, bajo un enfoque agroecológico, que permita optimizar las interacciones entre los recursos naturales, las personas productoras y sus comunidades, garantizando la sostenibilidad a largo plazo;
 
 III. Impulsar un proceso de transformación social y económica que reconozca la vulnerabilidad del sector, que conduzca al mejoramiento sostenido y sustentable de las condiciones de vida de la población rural, fortaleciendo la soberanía y seguridad alimentaria, a través de elevar la producción, la productividad, la rentabilidad, la competitividad, el ingreso y el empleo de la población rural;
 
@@ -65,7 +69,9 @@ IV. Crear las condiciones para que las actividades productivas relacionadas con 
 
 V. Asegurar el manejo sostenido de los recursos naturales, que se emplean en las actividades productivas relacionadas con el desarrollo rural, mediante el uso múltiple y racional de los mismos, buscando la diversificación productiva y la participación activa de las comunidades indígenas, ejidatarios, pequeños propietarios y demás personas físicas y morales que se desempeñen en el sector;
 
-VI. Asegurar el desarrollo rural mediante el proceso de planeación a todos los niveles, definiendo un programa estatal que permita conseguir los resultados esperados, mediante el seguimiento y evaluación sistemática por parte de los actores involucrados en el mismo;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VI. Asegurar el desarrollo rural mediante un proceso de planeación coordinado entre los órdenes de gobierno, definiendo un programa estatal que integre la transición agroecológica como eje transversal de las políticas y estrategias productivas, como parte de este, para conseguir los resultados esperados mediante el seguimiento y evaluación sistemática por parte de los actores involucrados en el mismo.
 
 VII. Impulsar el fortalecimiento y profesionalismo de los productores y sus organizaciones, a fin de que sean interlocutores directos entre la sociedad y el gobierno, participando en la correcta implementación de las políticas, programas, proyectos y todas las actividades inherentes al desarrollo rural en el Estado;
 
@@ -89,99 +95,103 @@ XIV. Diseñar e implementar los apoyos directos, estímulos fiscales, créditos,
 
 Para los beneficios de esta Ley en el ámbito estatal, son sujetos, los pequeños productores, incluyendo a los de autoconsumo, los ejidos, comunidades indígenas y las organizaciones o asociaciones de carácter nacional, estatal, regional, municipal y localidades de pobladores del medio rural que se constituyan o estén constituidas de conformidad con las leyes vigentes y, en general, toda persona física o moral que, de manera individual o colectiva, realice preponderantemente actividades en el medio rural.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 4.
 
 Para los efectos de esta Ley, se entiende por:
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2019)</small>
+I. Actividades rurales:
 
-I. Actividades rurales: Los procesos productivos primarios basados en recursos naturales renovables como son: agricultura, ganadería, silvicultura, pesca, acuacultura y apicultura; de transformación y de servicios del sector rural;
+II. Actividades económicas:
 
-II. Actividades económicas: Las actividades agropecuarias y otras actividades productivas, industriales, comerciales y de servicios;
+III. Actividades Agropecuarias. Los procesos productivos primarios basados en recursos naturales renovables: agricultura, ganadería y acuacultura;
 
-III. Actores de la sociedad rural: Personas físicas o morales de los sectores social y privado que integran la sociedad rural;
+IV. Actores de la sociedad rural: Personas físicas o morales de los sectores social y privado que integran a la sociedad rural, incluyendo a los participantes en la producción, transporte, distribución y comercialización de productos agropecuarios;
 
-IV. Agricultura orgánica: El sistema integral de gestión de la producción que fomenta y mejora la salud del agro sistema, y en particular la biodiversidad, los ciclos biológicos y la actividad biológica del suelo;
+V. Agroecología: es el conjunto integral de elementos, para alcanzar objetivos comunes, en diseño y gestión de las interacciones ecológicas en los sistemas agropecuarios, sociales, políticos y culturales, con aplicación práctica de conceptos y principios basados en diversas técnicas, experiencia e innovaciones que incluyen los conocimientos locales y tradicionales, además de la ciencia moderna para conseguir una relación sostenible, y armónica con la naturaleza, para lograr la viabilidad económica de las zonas rurales y la sociedad en general;
 
-V. Autogestión: Capacidad de las personas en lo individual y en forma organizada de elegir y ejercer plenamente sus derechos sociales para planear y actuar en la construcción de su propio desarrollo;
+VI. Autoconsumo: Toda aquella producción destinada para satisfacer las necesidades productivas y alimenticias;
 
-VI. Organización coadyuvante: Organismos que inciden en el sector rural en apoyo a las autoridades competentes y concurrentes, emanados de un ordenamiento legal;
+VII. Bienestar Social:
 
-VII. Autoridad competente: el Titular del Poder Ejecutivo del Estado, La Secretaría de Desarrollo Agropecuario y los Municipios;
+VIII. Comercio justo:
 
-VIII. Autoridad concurrente: las dependencias y entidades que inciden en el sector rural en el ámbito de sus competencias;
+IX. Comisión:
 
-IX. Bienestar Social: Satisfacción de las necesidades materiales y culturales de la población, incluidas entre otras, la seguridad social, vivienda, educación, salud, empleo e infraestructura de servicios básicos;
+X. Comité Técnico:
 
-X. Comercio justo: La representación más directa y solidaria entre el consumidor y el productor, al eliminar la intermediación excesiva, procurando un trato comercial más justo tanto para el productor como para el consumidor;
+XI. Consejo Mexicano:
 
-XI. Comisión: La Comisión Intersecretarial para el desarrollo rural del Estado de Morelos;
+XII. Consejo Estatal:
 
-XII. Comité Técnico: El órgano de apoyo al Consejo Estatal de Desarrollo Rural Sustentable;
+XIII. Consejo Regional:
 
-XIII. Consejo Mexicano: El Consejo Mexicano para el Desarrollo Rural Sustentable;
+VIV (SIC). Consejo Municipal:
 
-XIV. Consejo Estatal: El Consejo Estatal para el Desarrollo Rural Sustentable (CEDERS);
+XV. Consejo Comunitario:
 
-XV. Consejo Regional: El Consejo para el Desarrollo Rural Sustentable de cada una de las Regiones del Estado de Morelos (CONREDERS);
+XVI. Concurrencia:
 
-XVI. Consejo Municipal: El Consejo Municipal para el Desarrollo Rural Sustentable (COMUDERS);
+XVII. Desarrollo Rural Sustentable:
 
-XVII. Consejo Comunitario: El Consejo que en cada localidad se constituye para el desarrollo rural sustentable (COCODERS);
+XVIII. Desertificación:
 
-XVIII. Concurrencia: La acción e inversión conjunta de esfuerzos y recursos entre sociedad y entre diferentes órdenes de gobierno; en el logro de los objetivos del desarrollo rural sustentable;
+XIX. Espacio de Transición Agroecológica (ETA): Comunidad de aprendizaje donde se genera conocimiento e interacción colaborativa, desde el encuentro con el otro, intercambio de saberes de campesino a campesino, con enfoque agroecológico.
 
-XIX. Desarrollo Rural Sustentable: El mejoramiento integral del bienestar social de la población y de las acciones económicas en el territorio comprendido fuera de los núcleos considerados urbanos de acuerdo con las disposiciones aplicables, asegurando la conservación permanente de los recursos naturales, la biodiversidad y los servicios ambientales de dicho territorio;
+XX. Entidad Parafinanciera:
 
-XX. Desertificación: La pérdida de la capacidad productiva de las tierras, causada por el hombre, en cualquiera de los ecosistemas existentes en el territorio del Estado de Morelos;
+XXI. Estado:
 
-XXI. Entidad Parafinanciera: Organismo privado, acreditado ante la Banca para realizar operaciones de crédito en beneficio de sus asociados;
+XXII. Estímulos Fiscales:
 
-XXII. Estado: El Estado Libre y Soberano de Morelos;
+XXIII. Integral:
 
-XXIII. Estímulos Fiscales: Los incentivos otorgados por el Estado a través de beneficios preferentes en el ejercicio de la tributación;
+XXIV. Investigación y transferencia de tecnología:
 
-XXIV. Integral: La articulación social, económica, ambiental y cultural que propicia el desarrollo del sector rural de manera sostenible y sustentable;
+XXV. Ley:
 
-XXV. Investigación y transferencia de tecnología: La investigación y la modernización tecnológicas aplicadas a las actividades rurales, así como las acciones que tengan por objeto el fomento de productividad, calidad, inocuidad, mejoramiento genético, protección, control y erradicación de enfermedades de las especies vegetales y animales; así como todas aquellas acciones que permitan disponer de mayor eficiencia y eficacia de los procesos productivos y de servicios en el medio rural;
+XXVI. Marginalidad:
 
-XXVI. Ley: La Ley de Desarrollo Rural Sustentable del Estado de Morelos;
+XXVII. Órdenes de Gobierno:
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+XXVIII. Organismos Genéticamente Modificados:
 
-XXVII. Marginalidad: La definida de acuerdo con los criterios establecidos por el Instituto Nacional de Estadística y Geografía y el Consejo Nacional de Población (CONAPO);
+XXIX. Participación ciudadana:
 
-XXVIII. Órdenes de Gobierno: Los gobiernos Federal, Estatal y Municipal;
+XXX. Personas Productoras: A todas las personas que desempeñen directamente una explotación y/o realice una actividad agropecuaria;
 
-XXIX. Organismos Genéticamente Modificados: Cualquier organismo que posea una combinación de material genético que se haya obtenido mediante la aplicación de la biotecnología moderna;
+XXXI. Persona Titular del Poder Ejecutivo Estatal: La persona depositaria del ejercicio del Poder Ejecutivo del Estado Libre y Soberano de Morelos, de conformidad con el artículo 57 de la Constitución Política del Estado Libre y Soberano de Morelos;
 
-XXX. Participación ciudadana: Derecho de los ciudadanos para participar de manera permanente, integral y sistemática en la política económica y social para el desarrollo rural;
+XXXII. Persona Titular de la Secretaría: La Persona Titular de la Secretaría de Desarrollo Agropecuario del Poder Ejecutivo Estatal;
 
-XXXI. Productos básicos y estratégicos: Aquellos que forman parte de la dieta de la mayoría de la población o diferenciada por regiones y los productos agropecuarios cuyo proceso productivo se relaciona con segmentos significativos de la población rural u objetivos estratégicos estatales y/o nacionales, definidos por la ley o por considerarlos así por el Consejo Estatal;
+XXXIII. Practicas Agroecológicas: Conjunto de actividades y conocimientos que hacen posible hacer un cambio en las comunidades, desde lo productivo, social, político y económico, tomando como base el uso de recursos locales y saberes tradicionales, para reducir la dependencia de insumos externos, con la finalidad de fomentar la salud del suelo, aprovechamiento del agua y conservar la biodiversidad respetando los ciclos ecológicos.
 
-XXXII. Programa Especial Concurrente. El programa especial Concurrente para el desarrollo rural sustentable que incluye el conjunto de Programas Sectoriales relacionados con las materias motivo de esta Ley, de las dependencias federales y estatales para el Estado de Morelos y para los Municipio;
+XXXIV. Productos básicos y estratégicos:
 
-XXXIII. Programas Sectoriales: Los programas específicos tanto del Gobierno Federal como Estatal que establecen las políticas, objetivos, presupuestos e instrumentos para cada uno de los ámbitos del desarrollo rural sustentable;
+XXXV. Programa Especial Concurrente.
 
-XXXIV. Recursos naturales: Todos aquellos bienes naturales renovables y no renovables susceptibles de aprovechamiento a través de los procesos productivos rurales y proveedores de servicios ambientales como son: tierras, bosques, recursos minerales, agua, recursos genéticos, comunidades vegetativas y animales;
+XXXVI. Programa Estatal de Transición Agroecológica (PETA): Programa derivado del plan estatal y sectorial de desarrollo agropecuario y acuícola, que conjunta de forma integral la ecología y aspectos sociales para establecer innovaciones agroalimentarias con respecto al medio ambiente y participación de las personas productoras agropecuarias y la sociedad en general.
 
-XXXV. Secretaría: Secretaría de Desarrollo Agropecuario;
+XXXVII. Programas Sectoriales:
 
-XXXVI. Seguridad Alimentaria: El abasto oportuno, suficiente e incluyente de los alimentos a la población;
+XXXVIII. Recursos naturales:
 
-XXXVII. Servicio: Institución pública responsable de la ejecución de programas y acciones especificas en una materia;
+XXXIX. Secretaría:
 
-XXXVIII. Servicios Ambientales: Los beneficios que obtiene la sociedad de los recursos naturales, tales como la provisión y calidad del agua, la captura de contaminantes, generación de oxígeno, la mitigación del efecto de los fenómenos naturales adversos, el paisaje y la recreación entre otros, estipulados en las leyes específicas de la materia;
+XL. Seguridad Alimentaria:
 
-XXXIX. Silvicultura: La teoría y práctica de controlar el establecimiento, composición, constitución, crecimiento y desarrollo de los ecosistemas forestales para la continua producción de bienes y servicios;
+XLI. Servicio:
 
-XL. Sistema: Mecanismo de concurrencia y coordinación de las funciones de las diversas dependencias e instancias públicas y privadas, en donde cada una de ellas participa de acuerdo con sus atribuciones y competencias para lograr un determinado propósito;
+XLII. Servicios Ambientales:
 
-XLI. Sistema Producto o Cadena Productiva: Es un sistema con una incidencia operativa que conduce a tratar los aspectos de organización y regulación de la oferta (abarcando las actividades de producción, transformación y distribución de los productos agroalimentarios) y facilita el control de calidad a lo largo de toda la cadena productiva; cadena que incluye a todos los agentes (públicos y privados) y operaciones (de producción, transformación, distribución, financiación) que participan en la elaboración y transporte de un producto o grupo de productos hasta la etapa final de utilización. Incorpora también los mecanismos de regulación del flujo de productos e insumos;
+XLIII. Sistema:
 
-XLII. Soberanía Alimentaria: La libre determinación del país en materia de producción, abasto y acceso de alimentos a toda la población, garantía de tener los alimentos que la población requiere mediante su propia producción; y
+XLIV. Sistema Producto o Cadena Productiva:
 
-XLIII. Sustentabilidad: La sustentabilidad ambiental, referida a la necesidad de que el impacto del proceso de desarrollo no destruya de manera irreversible la capacidad de carga del ecosistema.
+XLV. Soberanía Alimentaria: y
+
+XLVI. Sustentabilidad:
 
 ### CAPÍTULO II. DE LAS AUTORIDADES COMPETENTES, CONCURRENTES Y COADYUVANTES
 
@@ -227,43 +237,51 @@ VIII. Secretaría de Desarrollo Sustentable.
 
 Las cuales serán coordinadas para los efectos de la presente Ley por la Secretaría de Desarrollo Agropecuario, como Comisión Estatal Intersecretarial que en su conjunto buscarán la concurrencia de sus programas, proyectos y acciones a favor del desarrollo rural sustentable.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 7.
 
 Son organizaciones coadyuvantes en el desarrollo rural, las emanadas de sus respectivos ordenamientos legales:
 
 I. Consejo Estatal de Desarrollo Rural Sustentable;
 
-II. Consejos Regionales de el Desarrollo Rural Sustentable;
+II. Consejo Estatal de Agroecología;
 
-III. Consejos Municipales de Desarrollo Rural Sustentable;
+III. Consejos Regionales de el (sic) Desarrollo Rural Sustentable;
 
-IV. Consejos Comunitarios de Desarrollo Rural Sustentable;
+IV. Consejos Municipales de Desarrollo Rural Sustentable;
 
-V. Comités por sistema producto;
+V. Consejos Comunitarios de Desarrollo Rural Sustentable;
 
-VI. Uniones de Ejidos;
+VI. Comités por sistema producto;
 
-VII. Consejos estatales de productores por rama productiva;
+VII. Uniones de Ejidos;
 
-VIII. Uniones Ganaderas Estatales;
+VIII. Consejos estatales de productores por rama productiva;
 
-IX. Organizaciones Campesinas con cobertura regional o estatal;
+IX. Uniones Ganaderas Estatales;
 
-X. Comités Estatales de Sanidad Vegetal y animal;
+X. Organizaciones Campesinas con cobertura regional o estatal;
 
-XI. Fundación Produce de Morelos;
+XI. Comités Estatales de Sanidad Vegetal y animal;
 
-XII. Sistemas y servicios especializados de apoyo al sector rural; y
+XII. Fundación Produce de Morelos;
 
-XIII. Las que acrediten y autorice el Consejo Estatal.
+XIII. Sistemas y servicios especializados de apoyo al sector rural;
+
+XIV. Los Espacios de Transición Agroecológica (ETAs); y
+
+XV. Las que acrediten y autorice el Ejecutivo Estatal por conducto de la Secretaría.
 
 ###### Artículo 8.
 
 La aplicación de esta Ley, corresponde al ejecutivo estatal, por conducto de la Secretaría de Desarrollo Agropecuario, la que se coordinará con las demás Dependencias del ejecutivo estatal y federal, con los gobiernos municipales y con las organizaciones de productores, en materia de desarrollo rural, de acuerdo a sus respectivas atribuciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 9.
 
-Son atribuciones del Titular del Poder Ejecutivo del Estado, entre otras:
+Son atribuciones de la Persona Titular del Poder Ejecutivo del Estado, entre otras:
 
 I. Asignar en el presupuesto de egresos estatal los recursos suficientes para el desarrollo rural, que en términos reales será superior al del ejercicio inmediato anterior;
 
@@ -279,9 +297,9 @@ VI. Expedir los reglamentos que se deriven de esta Ley, para el logro de los obj
 
 VII. Prever los fondos contingentes para apoyo e indemnización de daños generados por siniestros naturales, daño ambiental y causas ajenas a las actividades productivas, que afecten al sector rural del Estado;
 
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-VIII. Contribuir a la Soberanía y seguridad alimentaria, mediante el impulso de la producción agropecuaria del estado;
+VIII. Fomentar la Soberanía y Seguridad Alimentaria, siguiendo los ejes rectores y transversales del Plan Estatal de Desarrollo, mediante el impulso de la producción agropecuaria y las practicas agroecológicas en el Estado;
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2022)</small>
 
@@ -299,6 +317,8 @@ X. Las demás que le otorguen la presente ley, reglamentos; normatividad aplicab
 
 Es compromiso indeclinable en el Estado de Morelos, la creación, promoción y ejecución de una política de Estado, cuyos programas y acciones tengan como fin supremo, la contribución del campo morelense a la soberanía y seguridad alimentaria, así como el desarrollo de las potencialidades rurales que eleven la calidad de vida de su población, asegurando el crecimiento social, económico y sustentable de la entidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 11.
 
 Las políticas, las normas y medidas que se observarán en el desarrollo rural sustentable, tendrán como propósitos:
@@ -307,13 +327,15 @@ I. Promover el bienestar social y económico, de los productores, de sus comunid
 
 II. Crear las condiciones para que las actividades productivas relacionadas con el desarrollo rural tengan un margen suficiente de rentabilidad, que permita acceder a los estándares mínimos de bienestar a las familias campesinas;
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-III. Rescatar la cultura tradicional de las comunidades campesinas, relacionada con la producción armónica de bienes de origen agropecuario, acuícola y apícola, de forma múltiple y diversificada;
+III. Rescatar la cultura tradicional de las comunidades campesinas, relacionada con la producción armónica de bienes de origen agropecuario, acuícola y apícola, de forma múltiple, agroecológica y diversificada;
 
 IV. Generar las bases que permitan recuperar la rentabilidad de las actividades agroalimentarias en el ámbito comercial, mediante la capitalización y modernización de las mismas;
 
-V. Asegurar el manejo sostenido de los recursos naturales que se emplean en la producción agropecuaria, mediante el uso múltiple de los mismos, buscando la diversificación productiva y la participación activa de las comunidades indígenas, ejidatarios, productores rurales y demás personas físicas y morales que se desempeñen en el sector;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+V. Asegurar el manejo sostenido de los recursos naturales que se emplean en la producción agropecuaria, mediante el uso múltiple de los mismos, la práctica de la agroecología, para buscar la diversificación productiva y la participación activa de las comunidades indígenas, ejidatarios, personas productoras rurales y demás personas físicas y morales que se desempeñen en el sector;
 
 VI. Asegurar el desarrollo del sector agroalimentario y rural mediante el proceso de planeación a todos los niveles, definiendo un programa estatal que permita conseguir los resultados esperados, mediante el seguimiento y evaluación sistemática por parte de los actores involucrados en el mismo;
 
@@ -333,21 +355,27 @@ XII. Promover la capitalización del sector mediante obras de infraestructura b�
 
 XIII. Promover ante la sociedad la cultura que permita dignificar la actividad del campesino, como base del sustento social que genera los alimentos que esta consume;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XIV. Diseñar e implementar los apoyos directos, estímulos fiscales, créditos, fianzas, seguros, fondos, fideicomisos, o cualquier otro instrumento económico que permitan el desarrollo de la infraestructura productiva a lo largo de las cadenas, así como el fortalecimiento de esquemas modernos de comercialización y mercado, que permitan el fortalecimiento y la defensa del productor; y,
+XIV. Diseñar e implementar los apoyos directos, estímulos fiscales, créditos, fianzas, seguros, fondos, fidecomisos (sic) o cualquier otro instrumento económico que permitan el desarrollo de la infraestructura productiva a lo largo de las cadenas, así como el fortalecimiento de la agroecología con circuitos cortos de comercialización, hasta esquemas modernos de mercado, que permitan el fortalecimiento y la defensa del productor: y,
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE SEPTIEMBRE DE 2022)</small>
 
 XV. Contribuir a la Soberanía y seguridad alimentaria, mediante el impulso de la producción agropecuaria del estado.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 12.
 
-El desarrollo rural sustentable estará fincado sobre la base de la planeación democrática, participativa y corresponsable de los sectores público, privado y social, así como en el ordenamiento ecológico estatal, regional, municipal y local.
+El desarrollo rural sustentable se basará en una planeación democrática, participativa e incluyente, con la corresponsabilidad de los sectores público, privado y social; esta planificación deberá alinearse con el Plan Nacional de Desarrollo, Plan Estatal de Desarrollo y el Plan Sectorial de la materia.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 13.
 
-El análisis y planeación de los productos agroalimentarios se realizará con base en la organización de los productores para rama productiva, los Sistema Producto como un sistema con una incidencia operativa que conduzca a tratar los aspectos de organización y regulación de la oferta (abarcando las actividades de producción, transformación y distribución de los productos agroalimentarios) y facilite el control de calidad a lo largo de toda la cadena alimentaria; cadena que incluye a todos los agentes (públicos y privados) y operaciones (de producción, transformación, distribución, financiación) que participan en la elaboración y transporte de un producto o grupo de productos hasta la etapa final de utilización. Debe Incorporar también los mecanismos de regulación del flujo de productos e insumos.
+El análisis y planeación de los productos agroalimentarios se realizara con base en la organización de personas productoras para la rama productiva, los Sistema Producto como un sistema con una incidencia operativa que conduzca a tratar los aspectos de organización y regulación de la oferta (abarcando las actividades de producción, transformación y distribución de los productos agroalimentarios) y facilite el control de calidad a lo largo de toda la cadena alimentaria; cadena que incluye a todos los agentes (públicos y privados) y operaciones (de producción, transformación, distribución, distribución (sic), financiación) que participan en la elaboración y transporte de un producto o grupo de productos hasta la etapa final de utilización. Debe Incorporar también los mecanismos de regulación del flujo de productos e insumos.
+
+El Programa Estatal de transición Agroecológica (PETA) a través de los Espacios de Transición Agroecológica (ETAs) será considerado como Sistema Agroecológico y podrán recibir los apoyos de acuerdo con la suficiencia presupuestaria de la Secretaría.
 
 ###### Artículo 14.
 
@@ -359,11 +387,13 @@ El análisis y planeación de los productos agroalimentarios se realizará con b
 
 Se Establecerá el Sistema Estatal de Planeación del Desarrollo Rural, que permita la integración y concurrencia de recursos de las secretarías y organismos con ámbito de atención en el sector rural, para potenciar acciones y resultados; evitando duplicidades, apoyos aislados y pulverizados, así como promover la coordinación entre los tres ámbitos de gobierno y la concertación de éstos con los distintos sectores de la sociedad organizada, para la definición e implementación de políticas, planes, programas y proyectos, que permitan alcanzar el desarrollo rural sustentable.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 16.
 
-La rectoría de la planeación estatal corresponde al Ejecutivo Estatal, a los Ayuntamientos en sus respectivos ámbitos de injerencia, con la coadyuvancia de dependencias y entidades de la administración pública.
+La rectoría de la planeación estatal corresponde al Ejecutivo Estatal, a los ayuntamientos en sus respectivos ámbitos de injerencia, con la coadyuvancia de dependencias y entidades de la administración pública.
 
-La planeación del desarrollo rural corresponde al Consejo Estatal, a los Consejos Regionales, a los Consejos Municipales y a los Consejos Comunitarios dentro de sus respectivos territorios, en el marco de las disposiciones de la Ley Federal de Desarrollo Rural Sustentable y a Ley de Planeación del Estado de Morelos y demás normatividad aplicable.
+La planeación del desarrollo rural corresponde al Ejecutivo Estatal por conducto de la Secretaría en coadyuvancia con los Consejos Estatal, Regional, Municipal y Comunitarios, así como de una persona representante del Consejo Estatal de Agroecología, los Espacios de Transición Agroecológica (ETAs) organizaciones y personas productoras que realicen prácticas agroecológicas, así como los mencionados en el artículo 7 del presente ordenamiento, en el marco de las disposiciones de la Ley Federal de Desarrollo Rural Sustentable, la Ley de Planeación del Estado de Morelos y demás normatividad aplicable.
 
 ###### Artículo 17.
 
@@ -372,6 +402,8 @@ Se considera que la unidad básica de la programación del desarrollo rural del 
 ###### Artículo 18.
 
 Las Regiones para el Desarrollo Rural serán la base de la organización territorial y administrativa de las dependencias del gobierno estatal, para la realización del Programa Especial Concurrente y los Programas Sectoriales que de él derivan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 19.
 
@@ -391,27 +423,91 @@ VI. Región Sur con; Tlaltizapán, Puente de Ixtla, Zacatepec, Jojutla y Tlaquil
 
 VII. Región Poniente con; Miacatlán, Coatlán del Rió, Tetecala, Mazatepec y Amacuzac.
 
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+III. Región Noreste con: Yecapixtla, Ocuituco, Tetela del Volcán, Zacualpan de Amilpas, Temoac y Hueyapan;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IV. Región Centro con: Yautepec, Cuautla y Ayala;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+V. Región Oriente con: Jantetelco, Jonacatepec de Leandro Valle, Tepalcingo y Axochiapan;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VI. Región Sur con; Tlaltizapán de Zapata, Puente de Ixtla, Zacatepec, Jojutla, Tlaquiltenango y Xoxocotla; y
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VII. Región Poniente con; Miacatlán, Coatlán del Rio, Tetecala, Mazatepec, Amacuzac y Coatetelco.
+
+> <small>(REFORMADA [N. DE E. ADICIONADO], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+En cualquiera de las regiones se deberá promover la agroecología a través de los Espacios de Transición Agroecológica (ETAs), organizaciones y personas productoras, que busquen transitar hacia la agroecología.
+
 ###### Artículo 20.
 
 La demarcación territorial de las regiones podrá ser modificada por la Secretaría con la participación del Consejo Estatal de Desarrollo Rural Sustentable, tomando en consideración las afinidades ecológicas, económicas, culturales y sociales de los municipios.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 21.
 
-Se crea el Comité Técnico Consultivo, como órgano de apoyo al Consejo Estatal, con representantes que éste determine y que cuenten con amplio reconocimiento y capacidad técnica demostrada, y con la participación permanente de un representante de la Comisión de Desarrollo Agropecuario del Congreso del Estado, el cual tendrá derecho a voz pero no a voto.
+Se crea el Comité Técnico Consultivo, como órgano de apoyo al Consejo Estatal, por conducto de la Secretaría, mismo que se integrará con personas representantes que la Secretaría determine y que cuenten con amplio reconocimiento y capacidad técnica demostrada, y con la participación permanente de un representante de la Comisión de Desarrollo Agropecuario del Congreso del Estado, el cual tendrá derecho a voz, pero no a voto.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+Asimismo, este Comité podrá crear los Subcomités Técnicos Especializados en las áreas que considere necesarias, los cuales actuarán como instancias de apoyo. Estos Subcomités estarán integrados por personas representantes con experiencia y vinculación en la materia correspondiente; asimismo, a sus reuniones asistirán como invitados permanentes las personas representantes de las Secretarías del Poder Ejecutivo Estatal y de las Comisiones del Congreso del Estado de Morelos, quienes tendrán derecho a voz, siempre que su participación esté relacionada con el tema del subcomité.
 
-Dentro de este mismo, se creará un Subcomité Técnico Especializado en turismo rural, que estará integrado por empresas de turismo comunitario rural y/o prestadores de servicios turísticos de la materia, como un área de apoyo del Comité Técnico Consultivo.
+Para la integración del Comité Técnico y sus respectivos Subcomités, la Persona Titular de la Secretaría o de la Dirección General designada, emitirá la convocatoria a las instancias que se consideren necesarias para su integración.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+El Comité Técnico, será presidido por la Persona Titular de la Secretaría, y en el caso de los Subcomités Técnicos Especializados podrán ser presididos por la Persona Titular de la Secretaría o en su defecto por la persona titular de la Dirección General afín al comité, designado por la Persona Titular de la Secretaría.
 
-A las reuniones del Subcomité Técnico Especializado asistirán como invitados permanentes los representantes de la Secretaría de Turismo Estatal y de la Comisión de Turismo del Congreso del Estado de Morelos, con derecho a voz solamente.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 22.
 
-El Comité Técnico y el Subcomité Técnico especializado serán presididos por el Secretario de Desarrollo Agropecuario.
+Se crea el Consejo Estatal de Agroecología como un órgano de carácter consultivo, técnico y de participación ciudadana. Su objeto primordial será proponer, opinar, emitir recomendaciones y dar seguimiento a las políticas, programas, proyectos e instrumentos de planeación relacionados con la transición agroecológica en el Estado. Este Consejo operará con un enfoque territorial, sustentable, inclusivo y con pertinencia cultural, y tendrá las siguientes funciones:
+
+I. Proponer los lineamientos, criterios y estrategias para el impulso de la producción agroecológica en el marco del desarrollo rural sustentable;
+
+II. Emitir opiniones técnicas y recomendaciones respecto a las políticas públicas, programas y proyectos que incidan en la transición agroecológica del Estado;
+
+III. Participar en la formulación, evaluación y seguimiento de los instrumentos de planeación, normativa y mecanismos de financiamiento con enfoque agroecológico;
+
+IV. Promover la vinculación entre las instituciones académicas, de investigación, productores, pueblos y comunidades indígenas, y demás actores del territorio;
+
+V. Fomentar los procesos de capacitación, innovación y transferencia de conocimientos en agroecología; y
+
+VI. Las demás que se establezcan en su reglamento de integración y funcionamiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 22 Bis.
+
+La integración del Consejo Estatal de Agroecología será representativa, interinstitucional y multisectorial, todos ellos con carácter honorífico, conforme a la siguiente estructura:
+
+I. Presidencia: A cargo de la persona titular del Poder Ejecutivo del Estado.
+
+II. Secretaría Ejecutiva: A cargo de la persona titular de la Secretaría de Desarrollo Agropecuario, quien suplirá a la Presidencia en el Consejo.
+
+III. Secretaría Técnica: A cargo de la persona designada por la Persona Titular de la Secretaría, con funciones de coordinación operativa y seguimiento de acuerdos.
+
+IV. Vocalías con voz y voto, representadas por:
+
+f (sic). Una persona representante de la Secretaría de Agricultura y Desarrollo Rural (SADER) con presencia en el Estado;
+
+g. Personas productoras u organizaciones del medio rural que apliquen prácticas agroecológicas;
+
+h. Instituciones de educación superior y centros públicos de investigación con sede en el Estado, con enfoque agroecológico;
+
+i. Personas representantes de los pueblos y comunidades indígenas del Estado;
+
+j. Instituciones públicas, organismos y entidades cuyo objeto y ámbito de actuación esté orientado a la atención, promoción o defensa de los derechos e intereses de dichos pueblos y comunidades;
+
+k. Sistemas producto, redes o asociaciones vinculadas a la agroecología.
+
+V. Personas invitadas permanentes o especiales: Con voz, pero sin voto, tales como organismos internacionales, personas expertas o instituciones privadas, previa aprobación del Consejo y la Secretaría.
 
 ###### Artículo 23.
 
@@ -423,9 +519,11 @@ La planeación del desarrollo rural tomará en cuenta la tipología de los produ
 
 ### CAPÍTULO III. DE LA COORDINACIÓN Y CONCERTACIÓN PARA EL DESARROLLO RURAL
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 25.
 
-El Consejo Estatal propondrá la creación y las medidas necesarias, para la integración, implementación y operación de los sistemas y servicios previstos en la legislación federal en la materia, en esta Ley y los que se consideren necesarios para apoyar y orientar el desarrollo rural integral sustentable del Estado, por regiones, productos o procesos específicos.
+El Ejecutivo Estatal, a través de la Secretaría y en coadyuvancia con el Consejo Estatal propondrá la creación y las medidas necesarias, para la integración, implementación y operación de los sistemas y servicios previstos en la legislación federal en la materia, así como los previstos en la Ley y los que se consideren necesarios para apoyar y orientar el desarrollo rural integral sustentable del Estado, por regiones, productos o procesos específicos.
 
 ###### Artículo 26.
 
@@ -489,6 +587,8 @@ VI. Servicio Estatal de Capacitación y Asistencia Técnica Rural Integral; y
 
 VII. Los que determine el Consejo Estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 27.
 
 Los acuerdos y convenios que celebre el Gobierno del Estado, por conducto de las dependencias y entidades correspondientes, con el Gobierno Federal y Municipal deberán referirse, entre otros, a las siguientes materias:
@@ -497,7 +597,9 @@ I. La creación y consolidación de un sistema financiero y de administración d
 
 II. La formulación, articulación e instrumentación de programas de apoyo al acopio, industrialización y comercialización de productos y subproductos agropecuarios, pesqueros y no renovables;
 
-III. Fomento a la investigación, capacitación y transferencia tecnológica;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+III. Fomento a la investigación, capacitación y transferencia tecnológica con enfoque agroecológico, de conformidad con el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo, el Programa Sectorial y el Plan Municipal de Desarrollo;
 
 IV. Impulso al desarrollo agroindustrial;
 
@@ -531,9 +633,13 @@ XI. Las demás necesarias para el cumplimiento del objeto de esta Ley.
 
 La Secretaría de Desarrollo Agropecuario concertará acuerdos y convenios para la administración de recursos financieros entre la Federación, el Estado, los municipios y organizaciones no gubernamentales; sin menoscabo de la observancia de las reglas de operación y de los programas especiales concurrentes para el desarrollo rural.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 29.
 
-La presente Ley es concordante con la Ley Federal de Desarrollo Rural Sustentable en el señalamiento de atención prioritaria a regiones con menor grado de desarrollo, grupos poblacionales marginados, jóvenes, mujeres, adultos mayores, jornaleros agrícolas, personas con discapacidades e indígenas y consecuentemente, se deberá prever el gasto para estos rubros.
+La presente ley es concordante con la Ley Federal de Desarrollo Rural Sustentable en el señalamiento de atención prioritaria a regiones con menor grado de desarrollo, grupos poblaciones (sic) marginados, jóvenes, mujeres, adultos, mayores, jornaleros agrícolas, personas con discapacidades e indígenas y consecuentemente, se deberá prever el gasto para estos rubros.
+
+En razón a los Objetivos de Desarrollo Sostenible, en sus objetivos, 2 (sic) Hambre cero, 3 Salud y bienestar, 12 (sic) Producción y consumo sostenibles, finalmente el objetivo 13 Acción por el clima, las acciones y programas derivados de la transición agroecológica, también serán objeto de inversión en el presupuesto de egresos de la Secretaría, por lo que se deberá prever el gasto correspondiente.
 
 ### CAPÍTULO IV. DE LA FEDERALIZACIÓN Y DESCENTRALIZACIÓN
 
@@ -555,13 +661,19 @@ III. Los Consejos Municipales de Desarrollo Rural Sustentable (COMUDERS); y
 
 IV. Los Consejos Comunitarios de Desarrollo Rural Sustentable (COCODERS).
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 32.
 
-El Consejo Estatal será presidido por el Titular del Poder Ejecutivo del Estado, el Secretario Ejecutivo será el Secretario de Desarrollo Agropecuario y suplente del Titular del Poder Ejecutivo, en el Consejo Estatal; y podrá fungir como Secretario Técnico, el Delegado en el Estado, de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación. Su integración deberá ser representativa de la composición económica y social de la entidad y un representante de la legislatura local podrá ser miembro permanente con voz pero sin voto; todos ellos con carácter honorífico. Para la integración del Consejo Estatal se atenderá lo estipulado en el Capítulo III, del Título II de la Ley Federal de Desarrollo Rural Sustentable, además de las exigencias propias del Estado.
+El Consejo Estatal será presidido por la Persona Titular del Poder Ejecutivo Estatal, el Secretario Ejecutivo será la Persona Titular de la Secretaría, asimismo será suplente de la Persona Titular del Poder Ejecutivo Estatal en el Consejo Estatal; podrá fungir como Secretario Técnico, la Persona Representante de la Oficina de Representación de la Secretaría de Agricultura y Desarrollo Rural en la Entidad Federativa. Su integración deberá ser representativa de la composición económica y social de la entidad y una persona representante de la Comisión de Desarrollo Agropecuario del Congreso del Estado, que podrán ser miembros permanentes con voz, pero sin voto; todos ellos con carácter honorífico. Para la integración del Consejo Estatal se atenderá lo estipulado en el Capítulo III, del Título II de la Ley de Desarrollo Rural Sustentable, además de las exigencias propias del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 33.
 
-Son atribuciones del Consejo Estatal del Desarrollo Rural Sustentable, entre otras que señala la Ley, establecer a través de la información y metodología disponibles en las diferentes dependencias y entidades públicas y privadas, una tipología de productores y sujetos del ámbito rural elegibles para canalizar adecuadamente los apoyos del desarrollo rural.
+Son atribuciones del Consejo Estatal del Desarrollo Rural Sustentable, entre otras que señala la Ley, proponer a la Secretaría el establecimiento de una tipología de personas productoras y sujetos del ámbito rural elegibles, con base en la información y metodologías disponibles en las diferentes dependencias y entidades públicas y privadas, siendo facultad de la Secretaría su evaluación y aprobación, con la finalidad de canalizar de manera adecuada los apoyos destinados al desarrollo rural.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 El ámbito general de participación del Consejo en el análisis y definición de acciones lo constituyen las materias de desarrollo rural previstas en esta Ley, entre las que se identifican las siguientes.
 
@@ -581,25 +693,45 @@ VII. Bienestar social rural;
 
 VIII. Lucha contra la desertificación y degradación de los recursos naturales;
 
-IX. Investigación y transferencia tecnológica;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IX. Investigación, transferencia tecnológica y agroecología;
 
 X. Registro agropecuario;
 
-XI. Inspección y certificación de semillas;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XII. Normalización e inspección de productos agropecuarios y del almacenamiento;
+XI. Inspección, y certificación de semillas, así como prácticas de mejoramiento y conservación de materiales nativos;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XII. Normalización e inspección de productos agropecuarios y agroecológicos;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 XIII. Sanidad, inocuidad, calidad agropecuaria y alimentaria;
 
-XIV. Capacitación y asistencia técnica rural integral;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XIV. Capacitación y acompañamiento técnico rural integral;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 XV. Asuntos Agrarios que afectan al Desarrollo Rural Sustentable, y
 
-XVI. Los demás que se consideren en el propio Consejo Estatal.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XVI. Fomentar, difundir, promover y acompañar el Programa Estatal de Transición Agroecológica (PETA);
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XVII. Los demás que se consideren en el propio Consejo Estatal.
 
 ###### Artículo 34.
 
 Los Consejos Regionales de Desarrollo Rural Sustentable, se integrarán atendiendo a lo estipulado para los Consejos Distritales para el Desarrollo Rural Sustentable en los Capítulos III y IV del Título Segundo de la Ley Federal de Desarrollo Rural Sustentable, además de las que señale la Ley y demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 35.
 
@@ -629,21 +761,31 @@ XI. Constituirse en la fuente principal de obtención y difusión de cifras y es
 
 XII. Apoyar la participación plena de los municipios en la planeación, definición de prioridades, operación y evaluación de las acciones del desarrollo rural sustentable en forma intermunicipal y microrregional; y
 
-XIII. Las demás que les asignen esta Ley, los reglamentos de la misma y los convenios que conforme a dichos ordenamientos se celebren.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XIII. Fomentar y asesorar en el marco del Programa Estatal de Transición Agroecológica (PETA), mediante las acciones de transición para el cumplimiento de sus objetivos; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XIV. Las demás que les asignen esta Ley, los reglamentos de la misma y los convenios que conforme a dichos ordenamientos se celebren.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 36.
 
-El Consejo Municipal de Desarrollo Rural Sustentable podrá ser presidido por el Presidente Municipal y participarán servidores públicos del Gobierno Estatal, representantes en el Municipio, de las dependencias federales, de la Comisión Intersecretarial para el Desarrollo Rural Sustentable y representantes de las organizaciones sociales y privadas con cobertura en el Municipio.
+El Consejo Municipal de Desarrollo Rural Sustentable podrá ser presidido por la persona titular de la Presidencia Municipal y participarán las personas servidoras públicas del Gobierno Estatal, personas representantes en el Municipio, de las dependencias federales, de la Comisión Intersecretarial para el Desarrollo Rural Sustentable y personas representantes de las organizaciones sociales y privadas con cobertura en el Municipio.
 
-> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2023)</small>
+Además, contará con la participación permanente de una persona representante de la Comisión de Desarrollo Agropecuario del Congreso del Estado de Morelos y con dos personas representantes de los Espacios de Transición Agroecológica (ETAs) que se encuentren funcionando en el municipio, con derecho a voz únicamente.
 
-Además, contará con la participación permanente de un representante de la Comisión de Desarrollo Agropecuario del Congreso del Estado, el cual tendrá derecho a voz pero no a voto.
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 37.
 
 Es atribución del Consejo Municipal de Desarrollo Rural Sustentable participar dentro de su jurisdicción en:
 
-I. La planeación de desarrollo rural integral y sustentable;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+I. La planeación y coordinación de estrategias para el desarrollo rural integral, sustentable y participativo con un enfoque agroecológico, asegurando la inclusión de todos los actores relevantes en cada proceso;
 
 II. El diseño de estrategias para el desarrollo rural;
 
@@ -663,9 +805,15 @@ IX. Evaluación; y
 
 X. Difusión.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 38.
 
-El Consejo Comunitario para el Desarrollo Rural Sustentable, es la figura organizativa local y su órgano de decisión es la Asamblea Comunitaria y podrán ser las unidades básicas de intervención social, que a través de Convenios de Concertación participaran con los Consejos de Desarrollo municipal, autoridades municipales, las instituciones estatales y federales en las acciones para superar la pobreza. Los Consejos Comunitarios para el Desarrollo Rural Sustentable podrán ser presididos por el Delegado o Ayudante Municipal, respetando las costumbres de cada pueblo y formas de organización sin distinción política o cultural, que sea base de una sociedad nueva, más organizada, participativa y abierta a todos los grupos.
+El Consejo Comunitario para el Desarrollo Rural Sustentable, es la figura organizativa local y su órgano de decisión es la Asamblea Comunitaria y podrán ser las unidades básicas de intervención social, que a través de Convenios de Concertación participaran con los Consejos de Desarrollo municipal, autoridades municipales, las instituciones estatales y federales en las acciones para superar la pobreza y fomento de la agroecología. Los Consejos Comunitarios para el Desarrollo Rural Sustentable podrán ser presididos por la persona electa como Delegado o Ayudante Municipal, respetando los usos y costumbres de cada pueblo y formas de organización sin distinción política o cultural, que sea base de una sociedad nueva, más organizada, participativa y abierta a todos los grupos.
+
+Además, contará con dos personas representantes de los Espacios de Transición Agroecológica (ETAs) que se encuentren funcionando en el municipio, con derecho a voz únicamente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 39.
 
@@ -675,7 +823,9 @@ I. Representar la voluntad de la comunidad;
 
 II. Apoyar y en su caso realizar el Plan de Desarrollo Comunitario;
 
-III. Hacer propuestas para la realización de obras y acciones en beneficio de la comunidad, de acuerdo a los lineamientos del Programa Especial Concurrente (PEC) y mediante el método de planeación participativa;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+III. Hacer propuestas para la realización de obras y acciones en beneficio de la comunidad, de acuerdo a los lineamientos del Programa Estatal de Transición Agroecológica (PETA) y mediante el método de planeación participativa;
 
 IV. Presentar al Consejo de Municipal de Desarrollo Rural las propuestas para la realización de proyectos productivos, obras y acciones que requiera la comunidad;
 
@@ -689,9 +839,11 @@ VIII. Dar mantenimiento permanente a las obras y verificar su adecuada operació
 
 IX. Elaborar el Reglamento Interno del Consejo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 40.
 
-Es competencia de la Secretaría de Desarrollo Agropecuario:
+Es competencia de la Secretaría;
 
 I. Coordinar las instancias, procesos y acciones que promuevan el desarrollo rural integral sustentable en el Estado, observando la normatividad de las dependencias y entidades concurrentes y coadyuvantes;
 
@@ -699,7 +851,9 @@ II. Integrar y ejecutar el Programa Estatal de Desarrollo Rural Sustentable con 
 
 III. Participar en la planeación, programación, presupuestación, control, seguimiento y evaluación de obras e inversiones, para el aprovechamiento sustentable de los recursos del medio rural del Estado;
 
-IV. Fomentar y apoyar los Programas de Investigación en: agricultura, ganadería, acuacultura, apicultura, avicultura, así como de investigación social y divulgación de técnicas y sistemas innovadores que mejoren la productividad en el sector;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IV. Fomentar y apoyar los Programas de Investigación en agricultura, agroecología, ganadería, acuacultura, apicultura, avicultura, así como de investigación social y divulgación de técnicas y sistemas innovadores que mejoren la productividad en el sector;
 
 V. Formular el proyecto de presupuesto de egresos del sector rural, atendiendo a las sugerencias y opiniones del Consejo Estatal;
 
@@ -739,7 +893,9 @@ XXI. Impulsar la creación y fortalecimiento de la agroindustria, incrementar el
 
 XXII. Participar en la vigilancia, prevención y combate de incendios; en el control del pastoreo en las zonas boscosas y en la realización de todas las labores de investigación, protección y repoblación que se estimen convenientes y necesarias para la conservación de los recursos forestales de la entidad y supervisar las que ejecuten los particulares, en los términos de los convenios que se celebren con la Federación y los municipios del Estado, y atendiendo las disposiciones establecidas en la Ley de Desarrollo Forestal del Estado de Morelos;
 
-XXIII. Promover la cultura empresarial en el sector rural;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XXIII. Promover la cultura empresarial y agroecológica en el sector rural;
 
 XXIV. Apoyar y fortalecer económica, jurídica y operacionalmente, con base en la factibilidad presupuestaria, a las organizaciones rurales y organismos auxiliares, para el mejor cumplimiento de sus objetivos en favor del desarrollo rural;
 
@@ -973,37 +1129,53 @@ Artículo 66 UNDECIES.- (DEROGADO POR LA DISPOSICIÓN TRANSITORIA SÉPTIMA DE LA
 
 ### CAPÍTULO IV. DE LA CULTURA Y PRODUCCIÓN TRADICIONAL EN EL DESARROLLO RURAL
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 67.
 
 El rescate de la cultura tradicional para hacer producir la tierra, conservando los recursos naturales tiene como propósitos:
 
-I. Garantizar que los métodos tradicionales de producción y conservación de los recursos naturales, tengan la misma importancia económica y social que la agricultura de carácter comercial;
+I. Garantizar que la agroecología, los métodos tradicionales y el conocimiento campesino de producción y conservación de los recursos naturales, tengan la misma importancia económica y social que la agricultura de carácter convencional y/o comercial;
 
-II. Fortalecer el modelo de producción diversificado para el autoconsumo, que eleve significativamente el nivel de nutrición de las comunidades rurales en el corto y largo plazo, consolidando la identidad y cohesión social;
+II. Fortalecer el modelo de producción bajo el Sistema Milpa y agroecológico para el autoconsumo, que eleve significativamente el nivel de nutrición de las comunidades rurales en el corto y largo plazo, consolidando la identidad y cohesión social;
 
-III. Mostrar que son viables los modelos alternativos y propios, que consideran a la tierra no sólo como un medio de producción, sino como un espacio de recreación e identidad cultural, social, económica, política; y
+III. Mostrar que son viables los modelos agroecológicos como una alternativa sostenible, el conocimiento campesino ancestral, que consideran al suelo como un medio de producción, y como un organismo vivo que proporciona identidad cultural, social, económica, política; y
 
-IV. Reconocer que los productores rurales y la población rural en general, han hecho grandes aportes con el conocimiento empírico sobre el ambiente, desarrollo y aplicación de tecnologías adecuadas, adaptación de cultivos, aprovechamiento de plantas para fines medicinales, ornamentales e industriales, no solo para su propio desarrollo, sino también aportando valores sociales y culturales a la sociedad en su conjunto.
+IV. Reconocer que las campesinas, campesinos, integrantes de las comunidades indígenas y la población rural en general, han hecho grandes aportes con el conocimiento tácito y empírico sobre el ambiente, desarrollo y aplicación de tecnologías adecuadas, así como la adaptación de cultivos, aprovechamiento de plantas para fines medicinales, ornamentales y comerciales, no solo para su propio desarrollo, sino también aportando valores sociales y culturales a la sociedad en su conjunto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 68.
 
-La Secretaría en coordinación con las Dependencias de la administración pública estatal o federal que corresponda, los gobiernos municipales, los productores rurales y sus organizaciones, realizará en materia de cultura tradicional e identidad cultural las siguientes acciones:
+La Secretaría en coordinación con las Dependencias de la administración pública estatal o federal que corresponda, los gobiernos municipales, las personas productoras rurales y sus organizaciones, realizará en materia de cultura tradicional e identidad cultural las siguientes acciones:
 
 I. Elaborar los estudios técnicos, socioeconómicos y de etnodesarrollo, que permitan identificar los métodos de producción y conservación que realizan las comunidades rurales, mediante sus formas tradicionales;
 
 II. Realizar y validar la investigación científica existente, que permita identificar los elementos culturales que cohesionan a la comunidad;
 
-III. Diseñar e implementar los programas y apoyos, dirigidos a rescatar la cultura e identidad relacionada con la producción y conservación tradicional, que incluya el fortalecimiento de sus formas tradicionales de gobierno y de toma de decisiones, la capacitación de núcleos dirigentes en cuestiones culturales, recuperación de la lengua autóctona y preservación de la memoria histórica; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-IV. Fortalecer la identidad cultural de los productores rurales, incluidas las comunidades indígenas, a fin de que puedan expresar y desarrollar sus modos de producción y conservación de los recursos, así como su idioma, tradición, toma de decisiones, como expresión de una cultura propia.
+III. Diseñar e implementar los programas y apoyos, dirigidos a rescatar la cultura e identidad relacionada con la producción y conservación tradicional, que incluya el fortalecimiento de sus formas tradicionales de gobierno y de toma de decisiones, la capacitación de núcleos dirigentes en cuestiones culturales, recuperación de la lengua autóctona y preservación de la memoria histórica;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IV. Fortalecer la identidad cultural de las personas productoras rurales, incluidas las comunidades indígenas, a fin de que puedan expresar y desarrollar sus modos de producción y conservación de los recursos, así como su idioma, tradición, toma de decisiones, como expresión de una cultura propia; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+V. Fomentar la integración de prácticas agroecológicas dentro de los modelos de producción y conservación tradicionales, promoviendo la sostenibilidad de los recursos naturales y la resiliencia ante el cambio climático.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 69.
 
-Los proyectos específicos que se concertarán con las comunidades rurales para su implementación, serán definidos con la participación de los propios beneficiarios, como condición básica para apoyar los modelos de producción y conservación tradicional, que contemplan el manejo integral y diversificado de sus recursos.
+Los proyectos específicos que se concertarán con las comunidades rurales para su implementación, serán definidos con la participación de los propios beneficiarios, como condición básica para apoyar los modelos de producción y conservación tradicional, que contemplan el manejo integral y diversificado de sus recursos, incluyendo prácticas agroecológicas que garanticen la sostenibilidad de los ecosistemas locales y la resiliencia ante factores ambientales adversos.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 70.
 
-Las Instituciones de enseñanza e investigación deberán incorporar a sus programas, el apoyo para sistematizar el conocimiento tradicional y acelerar la adecuación y transferencia de tecnología apropiada.
+Las Instituciones de enseñanza e investigación deberán incorporar a sus programas, el apoyo para sistematizar el conocimiento tradicional y acelerar la adecuación y transferencia de tecnología apropiada, incluida la agroecología, con el objetivo de promover prácticas agrícolas y ganaderas sostenibles que respeten al medio ambiente y fomenten la biodiversidad.
 
 ### CAPÍTULO V. DE LA SUSTENTABILIDAD
 
@@ -1015,13 +1187,17 @@ La Secretaría, el Comité Intersecretarial y el Consejo Estatal, formularán un
 
 En la entidad queda restringido la extracción, uso, manejo, producción y/o almacenaje de sustancias o mezclas de las mismas, con características de corrosividad y/o explosividad y/o toxicidad y/o inflamabilidad y/o biológico infecciosas, de conformidad con las normas oficiales mexicanas y demás normatividad aplicable, en procesos productivos o de servicios o de investigación que pongan en riesgo las tierras, agua y la calidad de vida de los habitantes del Estado.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 72.
 
-Los gobiernos Federal, Estatal y Municipales, cuando así lo convengan con los productores, fomentarán el uso más pertinente de la tierra, con base a sus características y potencial productivo, así como las técnicas más adecuadas para la conservación y mejoramiento de las tierras, las cuencas y de las microcuencas.
+Los Órdenes de Gobierno, cuando así lo convengan con las personas productoras, fomentarán el uso más pertinente de la tierra, con base a sus características y potencial productivo, así como las técnicas más adecuadas para la conservación y mejoramiento de las tierras, las cuencas y de las microcuencas, priorizando el uso de prácticas agroecológicas que optimicen la conservación del suelo, agua, que contribuyan a la sostenibilidad a largo plazo.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 73.
 
-La Secretaría en coordinación con las dependencias y entidades competentes y con la participación del Consejo Estatal, establecerá las medidas de regulación y fomento, conducentes a la asignación de la carga de ganado, adecuada a la capacidad de las tierras de pastoreo y al mejoramiento de su condición, de acuerdo con la tecnología disponible y las recomendaciones técnicas respectivas, que propicien la conservación o incremento de la productividad, de acuerdo con la aptitud de las tierras y las condiciones socioeconómicas de los productores.
+La Secretaría, en coordinación con las dependencias y entidades competentes y con la participación del Consejo Estatal, establecerá las medidas de regulación y fomento conducentes a la asignación de la carga de ganado adecuada a la capacidad de las tierras de pastoreo y al mejoramiento de su condición, de acuerdo con la tecnología disponible y las recomendaciones técnicas respectivas, que propicien la conservación o incremento de la productividad, de acuerdo con la aptitud de las tierras y las condiciones socioeconómicas de las personas productoras, promoviendo al mismo tiempo prácticas agroecológicas en el manejo ganadero que favorezcan la conservación de los ecosistemas.
 
 ###### Artículo 74.
 
@@ -1231,9 +1407,11 @@ De las recuperaciones de los apoyos financieros otorgados por la Dirección Gene
 
 Para la consolidación de un Sistema propio y según lo dispuesto en la legislación federal y estatal; el Estado se integra al Sistema Nacional de Investigación y Transferencia Tecnológica para el Desarrollo Rural Sustentable, mediante convenios con el mismo Sistema Nacional, con las organizaciones de productores, con los organismos, instituciones, empresas, agentes públicos y privados que desarrollen y tengan competencia, de carácter estatal y local, en la investigación científica y transferencia tecnológica.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 95.
 
-El Ejecutivo Estatal, a través de la Secretaría y los propios productores, estructurarán el Sistema Estatal de Investigación y Transferencia Tecnológica para el Desarrollo Rural Sustentable, orientado a los propósitos siguientes:
+El Ejecutivo Estatal, a través de la Secretaría y las personas productoras, estructurarán el Sistema Estatal de Investigación y Transferencia Tecnológica para el Desarrollo Rural Sustentable, orientado a los propósitos siguientes:
 
 I. Fomentar el uso de la ciencia y la tecnología, en los productores y demás agentes de las cadenas productivas agropecuarias y agroindustriales;
 
@@ -1253,7 +1431,9 @@ V. Aprovechar la experiencia científica para apoyar proyectos prioritarios, inc
 
 VI. Facilitar la investigación y la transferencia tecnológica para la eficaz reconversión productiva hacia cultivos, especies pecuarias, apícola y acuícolas, entre otros, que sean competitivas, fortalezcan la producción, incorporen mayor valor agregado y consoliden las cadenas productivas para elevar la calidad de vida en el medio rural; y
 
-VII. Evaluar, validar, registrar y difundir tecnologías, procesos, insumos equipos y servicios técnicos.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VII. Evaluar, validar, registrar y difundir tecnologías, procesos, insumos, equipos y servicios técnicos, incluyendo tecnologías agroecológicas que promuevan la sostenibilidad y la preservación del medio ambiente.
 
 ###### Artículo 96.
 
@@ -1331,6 +1511,8 @@ La Secretaría desarrollará la política de formación, capacitación y asesor�
 
 Las acciones y programas en formación, capacitación, asesoría y transferencia de tecnología se formularán y ejecutarán bajo criterios de sustentabilidad, integralidad, inclusión y participación. Se vinculará a todas las fases, incluyendo diagnóstico, planeación, producción, organización, transformación, comercialización y desarrollo humano; incorporando, en todos los casos, a los productores organizados por especialidad productiva y a los diversos agentes del sector rural y atenderán con prioridad a aquellos que se encuentran en zonas con mayor rezago económico y social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 107.
 
 EL Sistema Estatal de Formación, Capacitación y Asesoría Técnica Rural Integral, tendrá como propósitos fundamentales los objetivos siguientes:
@@ -1353,7 +1535,13 @@ VIII. Proporcionar a los productores y agentes de la sociedad rural conocimiento
 
 IX. Preparar a los productores para acceder a la información de mercados y mecanismos de acceso a los mismos, y
 
-X. En general contribuir a elevar el nivel educativo y tecnológico en el medio rural.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+X. Contribuir a elevar el nivel educativo y tecnológico en el medio rural; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XI. Priorizar la implementación de los Espacios de Transición Agroecológica (ETAs), promoviendo su expansión y fortalecimiento como espacios de formación integral agroecológica.
 
 ###### Artículo 108.
 
@@ -1374,6 +1562,8 @@ VI. Instituciones de capacitación, extensión y asesoría técnica del sector p
 VII. Centros de educación técnica y de capacitación de la Secretaría de Educación Pública; e
 
 VIII. Instituciones de nivel medio superior y superior estatales y nacionales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 109.
 
@@ -1397,17 +1587,29 @@ VIII. Apoyar con recursos humanos, materiales y financieros para la capacitació
 
 IX. Promover la aplicación de procesos de certificación de competencia laboral;
 
-X. Establecer los procedimientos de evaluación continua y la integración de un padrón calificado de prestadores de servicios profesionales; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XI. Las demás atribuciones necesarias para el cumplimiento de los propósitos que le determina esta Ley.
+X. Establecer los procedimientos de evaluación continua y la integración de un padrón calificado de prestadores de servicios profesionales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XI. Desarrollar e implementar los Espacios de Transición Agroecológica (ETAs), garantizando su coordinación con los COMUDERS y COCODERS para su correcta implementación; y
+
+> <small>(REFORMADA Y REUBICADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XI (SIC). Las demás atribuciones necesarias para el cumplimiento de los propósitos que le determina esta Ley.
 
 ###### Artículo 110.
 
 La Secretaría, en coordinación con los gobiernos de los municipios, impulsará el Sistema Estatal de Formación, Capacitación y Asesoría Técnica Rural Integral, de manera que se establezca una relación directa entre profesionales y técnicos con los productores, promoviendo un mercado de servicios especializado en el sector y un trato preferencial y diferenciado a los productores ubicados en zonas de marginación rural.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 111.
 
-El Gobierno Estatal fomentará la generación de capacidades de asesoría técnica entre las organizaciones de productores, mismos que podrán ser objeto de apoyo por parte del Sistema Estatal de Formación, Capacitación y Asesoría Técnica Rural Integral.
+El Poder Ejecutivo Estatal fomentará la generación de capacidades de asesoría técnica entre las organizaciones de personas productoras, mismos que podrán ser objeto de apoyo por parte del Sistema Estatal de Formación, Capacitación y Asesoría Técnica Rural Integral. Los Espacios de Transición Agroecológica (ETAs) desempeñarán un papel fundamental en la capacitación y asesoría técnica, promoviendo el intercambio de experiencias y la transferencia de conocimientos sobre prácticas agrícolas sostenibles.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 112.
 
@@ -1425,7 +1627,13 @@ V. Creación y consolidación de empresas rurales;
 
 VI. Desarrollo Rural Comunitario; y
 
-VII. Las demás materias que impulsen el desarrollo rural integral sustentable.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VII. Formación agroecológica, prácticas agrícolas sostenibles y desarrollo de capacidades organizativas en los Espacios de Transición Agroecológica (ETAs); y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VIII. Las demás materias que impulsen el desarrollo rural integral sustentable.
 
 ## TÍTULO CUARTO. DE LA ORGANIZACIÓN PRODUCTIVA, EL DESARROLLO SOCIAL, EL DERECHO CIUDADANO DE DENUNCIA Y LA CONTRALORÍA SOCIAL
 
@@ -1780,3 +1988,15 @@ PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, 
 SEGUNDA.- El presente Decreto, entrará en vigor, a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
 
 TERCERA.- Se derogan las disposiciones de igual o menor rango que se opongan a la presente reforma.
+
+P.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS NUEVE POR EL QUE SE RECONOCE A LA AGROECOLOGIA COMO COADYUVANTE EN LA SEGURIDAD ALIMENTARIA DEL ESTADO DE MORELOS, MEDIANTE REFORMAS A DISTINTOS ARTÍCULOS DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE MORELOS".]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto, entrará en vigor, a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERO.- Se derogan las disposiciones de igual o menor rango que se opongan a la presente reforma.
+
+CUARTA.- La Secretaría de Desarrollo Agropecuario, en un plazo no mayor a 180 días hábiles a partir de la vigencia del presente decreto, deberán de actualizar su reglamento respectivo.
