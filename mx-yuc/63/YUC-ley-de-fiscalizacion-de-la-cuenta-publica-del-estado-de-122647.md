@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-fiscalizacion-de-la-cuenta-publica-del-estado-de-122647"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2024-08-05"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el martes 18 de julio de 2017.
 
@@ -65,7 +65,9 @@ Para los efectos de esta ley, se entenderá por:
 
 I. Auditoría superior: la Auditoría Superior del Estado de Yucatán.
 
-II. Autonomía de Gestión: La facultad de la Unidad, para decidir sobre su organización interna, estructurada y funcionamiento.
+> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2025)</small>
+
+II. Autonomía de gestión: la facultad de la Unidad para decidir sobre su organización interna, estructura, funcionamiento y resoluciones, así como la administración de sus recursos humanos, materiales y financieros que utilice para la ejecución de sus atribuciones, en los términos contenidos en la Constitución Política del Estado de Yucatán y esta ley;
 
 III. Autonomía Técnica: La facultad de la Unidad, para decidir sobre la planeación, programación, ejecución, informes, seguimiento y resolución en el proceso de evaluación y vigilancia a la Auditoría.
 
@@ -449,7 +451,9 @@ Las ausencias temporales o definitivas del auditor superior del estado serán su
 
 Requisitos para ser auditor
 
-Para ser auditor superior del estado, se requiere cumplir con los requisitos establecidos en el artículo 43 Bis de la Constitución Política del Estado de Yucatán.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Para ser auditor superior del estado, se requiere cumplir con los requisitos establecidos en el artículo 43 Ter de la Constitución Política del Estado de Yucatán.
 
 El candidato deberá entregar, además de la documentación requerida, una declaración de intereses conforme a los lineamientos que el Congreso del Estado determine para ésta.
 
@@ -1820,3 +1824,21 @@ Artículo Quinto. Por única ocasión, la primera rendición del Informe anual d
 Cálculo del presupuesto
 
 Artículo Sexto. El presupuesto asignado a la Fiscalía Especializada en Combate a la Corrupción para el año siguiente a su entrada en funciones se calculará dividiendo el primer presupuesto asignado entre el número de meses durante los cuales se ejerció dicho presupuesto, y multiplicando el resultado por doce, tomando en consideración lo dispuesto en el artículo 6, fracción I, de la Ley Orgánica de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, con el fin de garantizar la correcta operatividad y funciones de la referida fiscalía.
+
+D.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 130/2025 POR EL QUE SE MODIFICAN LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE YUCATÁN Y LA LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA DEL ESTADO DE YUCATÁN".]
+
+Entrada en vigor.
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, a excepción de las referencias al Código Nacional de Procedimientos Civiles y Familiares, que lo harán cuando lo haga el referido código conforme a la declaratoria que, al efecto, emita el Congreso, previa solicitud del Poder Judicial del Estado.
+
+Actos en trámite
+
+Artículo segundo. Los convenios, actos jurídicos y asuntos pendientes y en trámite, así como las obligaciones contraídas y los derechos adquiridos, que por su propia naturaleza subsistan con posterioridad al día en que entre en vigor este decreto continuarán su trámite de conformidad con las disposiciones legales y normativas aplicables al momento de su inicio.
+
+Nombramiento
+
+Artículo tercero. El Congreso deberá expedir la convocatoria para la designación del titular del órgano de control interno del Tribunal de Justicia Administrativa del Estado de Yucatán dentro de un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+La persona titular del órgano de control interno del Tribunal de Justicia Administrativa del Estado de Yucatán en funciones, continuará ejerciendo el cargo hasta en tanto el Congreso realice el nombramiento a que se refiere el primer párrafo de este artículo.
