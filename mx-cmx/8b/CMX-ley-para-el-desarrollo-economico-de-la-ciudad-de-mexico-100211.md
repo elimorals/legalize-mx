@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-el-desarrollo-economico-de-la-ciudad-de-mexico-100211"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-10"
-last_updated: "2023-06-15"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100211&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2014-04-08"
 
 LEY PARA EL DESARROLLO ECONÓMICO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 15 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 10 de abril de 2014.
 
@@ -171,6 +171,10 @@ XIV. Economía social y solidaria: Tiene como objeto establecer mecanismos para 
 > <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2023)</small>
 
 XIV Bis. Emprendimiento: Acción de una persona física o moral para iniciar un proceso, para crear o transformar un proyecto de negocio en actividad productiva y empresarial, mediante de (sic) la creación o mejora de un producto o servicio, a partir de una propuesta innovadora, creativa o busque atender un problema específico.
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XIV Ter. Economía circular: Sistema económico que busca erradicar el valor destruido en las cadenas económicas y que parte de la disminución del consumo de materias primas vírgenes, con el objetivo de minimizar el desperdicio de materiales, completando las cadenas económicas y ambientales del flujo de recursos, garantizando reducir el impacto al ambiente derivado de las actividades económicas de fabricación y consumo a través de líneas de acción como la incorporación de productos de bajo impacto ambiental, la eficiencia energética, el rediseño de productos, el reciclaje, la creación de empleos y la dignificación de los mismos, la equidad social, la inclusión de los sectores vulnerados, el acceso universal a los derechos humanos fundamentales y el desarrollo de nuevas tecnologías;
 
 XV. Estímulos: Los instrumentos jurídicos, administrativos, fiscales y financieros que se emiten para promover y facilitar el desarrollo de las actividades económicas sujetas a fomento;
 
@@ -466,7 +470,9 @@ Para el cumplimiento de los objetivos y metas del Programa Sectorial, la Secreta
 
 I. Programas Institucionales, que están orientados a inducir la modernización e integración de las cadenas productivas y distributivas mediante instrumentos y acciones específicas. Estos programas incluirán los de fomento industrial; abasto y distribución; aprovechamiento territorial, y de fomento del sector servicios, entre otros;
 
-II. Programas Especiales, que involucren a más de una Dependencia o Alcaldía, aquellos orientados a materias específicas o a grupos sociales que por su problemática requieran de un tratamiento específico. Estos comprenderán, entre otros, los siguientes: desregulación y simplificación administrativa; fomento a la micro, mediana y pequeña empresa, así como a la empresa familiar; de fomento a las empresas sociales; de fomento a las exportaciones y la industria maquiladora; de infraestructura productiva; así como aquellos determinadas (sic) por las áreas de gestión estratégica en el suelo urbano y de conservación en congruencia con la Ley del Sistema de Planeación del Desarrollo de la Ciudad de México, la Ley de Desarrollo Urbano del Distrito Federal, la Ley Ambiental de Protección a la Tierra en el Distrito Federal y los programas de desarrollo urbano del Distrito Federal, además de procurar posicionar a las industrias creativas en la Ciudad de México;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+II. Programas Especiales, que involucren a más de una Dependencia o Alcaldía, aquellos orientados a materias específicas o a grupos sociales que por su problemática requieran de un tratamiento específico. Estos comprenderán, entre otros, los siguientes: desregulación y simplificación administrativa; fomento a la micro, mediana y pequeña empresa, así como a la empresa familiar; de fomento a las empresas sociales; de fomento a las exportaciones y la industria maquiladora; de infraestructura productiva; así como aquellos determinadas (sic) por las áreas de gestión estratégica en el suelo urbano y de conservación en congruencia con la Ley del Sistema de Planeación del Desarrollo de la Ciudad de México, la Ley de Desarrollo Urbano vigente en la Ciudad de México, la Ley Ambiental de Ciudad de México y los programas de desarrollo urbano vigentes en la Ciudad de México, además de procurar posicionar a las industrias creativas en la Ciudad de México;
 
 III. Programas estratégicos, que atenderán las necesidades específicas de un sector, rama o industria en la Ciudad, con la finalidad de propiciar la innovación tecnológica en los procesos de desarrollo económico para obtener una productividad más elevada o una transformación organizativa de la o las empresas en cuestión. Los programas estratégicos se concebirán como los instrumentos de planeación e intervención para modernización productiva de los establecimientos y empresas asentadas en la Capital;
 
@@ -1045,3 +1051,19 @@ G.O. 15 DE JUNIO DE 2023.
 PRIMERO. Túrnese el Presente Decreto a la Persona Titular de la Jefatura de Gobierno, para los efectos de su publicación en la Gaceta Oficial del Gobierno de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno de la Ciudad de México.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 18 DE LA LEY PARA EL DESARROLLO ECONÓMICO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XIV TER, DEL ARTÍCULO 3 DE LA LEY PARA EL DESARROLLO ECONÓMICO DE LA CIUDAD DE MÉXICO; SE ADICIONA LA FRACCIÓN XII. BIS, AL ARTÍCULO 2 DE LA LEY DEL SISTEMA DE PLANEACIÓN DEL DESARROLLO DE LA CIUDAD DE MÉXICO; SE ADICIONA UNA FRACCIÓN XXV BIS. AL ARTÍCULO 4 DE LA LEY AMBIENTAL DE LA CIUDAD DE MÉXICO; SE ADICIONA UNA FRACCIÓN XV TER. AL ARTÍCULO 3 Y SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 6 DE LA LEY DE RESIDUOS SÓLIDOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
