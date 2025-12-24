@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-agua-potable-morelos-9351"
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-26"
-last_updated: "2023-02-15"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ESTATAL DE AGUA POTABLE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 26 de julio de 1995.
 
@@ -469,29 +469,23 @@ III.- Un Director General; y
 
 IV.- Un Comisario.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTICULO 20.
 
 La Junta de Gobierno se integra con:
 
-I.- El Presidente Municipal, quien lo presidirá;
+I.- La persona titular de la Presidencia Municipal, quien lo presidirá;
 
-> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+II.- La persona titular de la Sindicatura Municipal y las personas titulares de las Regidurías que tengan en su encargo la representación de las comisiones de Servicios Públicos Municipales, de Protección Ambiental, de Bienestar Social, de Hacienda, y de la Coordinación de Organismos descentralizados;
 
-II.- El Síndico y los Regidores que tengan en su encargo la representación de las comisiones de Servicios Públicos Municipales, el Regidor de Protección Ambiental, el Regidor de Bienestar Social, y el Regidor de Hacienda;
+III.- Una persona en representación de la Entidad Superior de Auditoria y Fiscalización del Estado de Morelos;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+IV.- La persona titular de la Presidencia del Consejo Consultivo del organismo, nombrado en los términos de este ordenamiento;
 
-III.- Un Representante de la Entidad Superior de Auditoria y Fiscalización del Estado de Morelos;
+V.- Una persona en Representación de la Comisión Nacional del Agua u organismos que desempeñen su función, a quien se invitará a participar en la junta.
 
-IV.- El Presidente del Consejo Consultivo del organismo, nombrado en los términos de este ordenamiento;
-
-> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
-
-V.- Un Representante de la Comisión Nacional del Agua u organismos que desempeñen su función, a quien se invitará a participar en la junta.
-
-Por cada representante propietario se nombrará al respectivo suplente.
-
-Se podrá invitar a asistir a representantes de las dependencias federales o estatales, así como del Municipio cuando se trate de algún asunto de su competencia. También podrá invitarse a otros representantes de los usuarios que formen parte del Consejo Consultivo. Los invitados tendrán derecho de voz, pero no de voto.
+Por cada representación de persona propietaria se nombrará a la respectiva persona suplente.
 
 ###### ARTICULO 21.
 
@@ -2414,3 +2408,13 @@ Primero.- Remítase el presente decreto al titular del Poder Ejecutivo Estatal p
 Segundo.- El presente decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 Tercero.- En un plazo máximo de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo del Gobierno del Estado de Morelos, así como los municipios armonizarán las legislaciones de su competencia en materia de agua potable.
+
+P.O. 24 DE DICIEMBRE DE 2025.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO NÚMERO SEISCIENTOS DIECINUEVE POR EL QUE REFORMA EL ARTÍCULO 20 DE LA LEY ESTATAL DE AGUA POTABLE DEL ESTADO DE MORELOS”.]</small>
+
+PRIMERA. Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
