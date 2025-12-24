@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-ejecutivo-del-estado-de-tabasco-175015"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-11-09"
-last_updated: "2025-12-13"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175015&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Suplemento I del Periódico Oficial del Estado de Tabasco, el sábado 9 de noviembre de 2024.
 
@@ -151,7 +151,9 @@ X. Nombrar y remover libremente a las personas servidoras públicas y al persona
 
 XI. Autorizar la comparecencia o rendición de información al Congreso por parte de las personas titulares de las Dependencias, Órganos y Entidades, cuando se discuta en aquel una ley o asunto relativo de su competencia; y
 
-XII. Dirigir, coordinar, sistematizar, vigilar y emitir las normas, directrices y criterios en materia de Gobierno Digital para la Administración Pública, por sí o a través de la Secretaría de Administración y Finanzas.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XII. Implementar, supervisar y vigilar las disposiciones en materia de simplificación, digitalización, mejora regulatoria y gobierno digital, a través de la Agencia Estatal de Transformación Digital, en términos del artículo 13 de la Ley Nacional para Eliminar los Trámites Burocráticos.
 
 ###### Artículo 9.
 
@@ -323,6 +325,10 @@ I. La Coordinación de Asesores;
 
 II. La Representación del Gobierno del Estado en la Ciudad de México;
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+II Bis. La Agencia Estatal de Transformación Digital;
+
 III. La Coordinación General de Comunicación Social y Vocería, y
 
 IV. Las demás que resulten necesarias para el cumplimiento de sus atribuciones.
@@ -423,9 +429,53 @@ XXXVI. Asesorar a las Dependencias y Entidades para la correcta operación y uso
 
 XXXVII. Dar seguimiento a indicadores relevantes de temas de carácter económico, social y político que le encomiende la persona titular del Poder Ejecutivo del Estado;
 
-XXXVIII. Proveer a la persona titular del Poder Ejecutivo de la información y datos necesarios para sus actividades, toma de decisiones y asistencia a giras o eventos; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XXXIX. Las demás que se prevean en otras disposiciones normativas y las que le sean encomendadas por la persona titular del Poder Ejecutivo.
+XXXVIII. Proveer a la persona titular del Poder Ejecutivo de la información y datos necesarios para sus actividades, toma de decisiones y asistencia a giras o eventos;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XXXIX. Coordinar e implementar la política en materia de simplificación, mejora regulatoria y digitalización, de acuerdo con lo previsto en la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XL. Conducir, ejecutar y vigilar el proceso de modernización e innovación gubernamental;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XLI. Impulsar, implementar, coordinar, sistematizar y vigilar el desarrollo, uso y aprovechamiento estratégico de las Tecnologías de la Información y las Comunicaciones para la consolidación de un Gobierno Digital en la Administración Pública;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XLII. Coordinar y vigilar la correcta administración de la red intergubernamental de Internet;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XLIII. Colaborar con las Dependencias, Entidades y Órganos, en el desarrollo, operación, vigilancia y control de los sistemas informáticos gubernamentales vinculados directamente con sus atribuciones, favoreciendo su interrelación tanto con los respectivos sistemas federales, como con los municipales y la ciudadanía;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XLIV. Dirigir los programas regulares de asistencia y supervisión informática, con el propósito de verificar el adecuado uso de los equipos tecnológicos y de comunicaciones, la existencia de los licenciamientos correspondientes, así como la pertinencia y adecuada asignación de las nuevas adquisiciones que realicen las Dependencias y Entidades;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XLV. Establecer Llave Tabasco como el mecanismo de autenticación e identificación en medios digitales;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XLVI. Promover acciones para la cooperación en materia de buenas prácticas regulatorias, simplificación y digitalización de Trámites y Servicios, y desarrollo de capacidades tecnológicas públicas;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XLVII. Brindar asesoría técnica y capacitación en materia de simplificación y digitalización;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XLVIII. Emitir las políticas, lineamientos, reglas, manuales y demás instrumentos jurídicos análogos en materia de simplificación y digitalización; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XLIX. Las demás que se prevean en otras disposiciones normativas y las que le sean encomendadas por la persona titular del Poder Ejecutivo.
 
 ###### Artículo 22.
 
@@ -641,7 +691,7 @@ XXXIII. Presidir el Comité de Compras del Poder Ejecutivo, en los términos de 
 
 XXXIV. Proponer a la persona titular del Poder Ejecutivo, medidas técnicas y políticas para el seguimiento sectorial, la organización interna, desarrollo administrativo, modernización de la actuación y funcionamiento de la Administración Pública;
 
-XXXV. Diseñar, coordinar y normar las políticas y criterios para el desarrollo, simplificación e innovación en materia de administración interna que debe observar la Administración Pública;
+XXXV. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2025)
 
 XXXVI. Supervisar la aplicación de las medidas de desconcentración y descentralización administrativa, que resulten de los procesos de actualización de la Administración Pública, en coordinación con las demás Dependencias Globalizadoras;
 
@@ -681,15 +731,15 @@ LI. Proteger de manera conjunta con las Dependencias, Entidades y en su caso, ay
 
 LI Bis. Fungir como representante del Estado ante la Secretaría de Hacienda y Crédito Público y el Sistema Nacional de Coordinación Fiscal, así como ejercer las atribuciones que al Estado le confieren el Convenio de Adhesión y sus anexos. Además, cuidar que se paguen correctamente las participaciones, aportaciones y demás recursos que corresponda a los municipios del Estado;
 
-LII. Conducir, ejecutar y vigilar el proceso de modernización e innovación gubernamental;
+LII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2025)
 
-LIII. Impulsar, implementar, coordinar, sistematizar y vigilar el desarrollo, uso y aprovechamiento estratégico de las Tecnologías de la Información y las Comunicaciones para la consolidación de un Gobierno Digital en la Administración Pública;
+LIII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2025)
 
-LIV. Coordinar y vigilar la correcta administración de la red intergubernamental de Internet;
+LIV. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2025)
 
-LV. Colaborar con las Dependencias y Entidades, en el desarrollo, operación, vigilancia y control de los sistemas informáticos gubernamentales vinculados directamente con sus atribuciones, favoreciendo su interrelación tanto con los respectivos sistemas federales, como con los municipales y la ciudadanía;
+LV. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2025)
 
-LVI. Dirigir los programas regulares de asistencia y supervisión informática, con el propósito de verificar el adecuado uso de los equipos tecnológicos y de comunicaciones, la existencia de los licenciamientos correspondientes, así como la pertinencia y adecuada asignación de las nuevas adquisiciones que realicen las Dependencias y Entidades;
+LVI. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2025)
 
 LVII. Coordinar y supervisar la regulación de la administración y destino de los bienes asegurados, abandonados o decomisados en juicios y procedimientos de índole penal o administrativa, conforme a lo establecido en las disposiciones aplicables;
 
@@ -1009,7 +1059,7 @@ XXV. Brindar asesoría y capacitación a los prestadores de servicios y producto
 
 XXVI. Fomentar que las dependencias de los diferentes órdenes de gobierno participen en los programas turísticos y económicos del Estado;
 
-XXVII. Fungir como órgano de consulta en las materias de simplificación administrativa y mejora regulatoria, así como coordinar e implementar las funciones que prevé la legislación atinente en la Administración Pública;
+XXVII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2025)
 
 XXVIII. Proponer a la persona titular del Poder Ejecutivo la declaración de zonas turísticas y económicas y elaborar los proyectos de reglamentos correspondientes, asegurando la conservación y promoción del patrimonio cultural y natural, así como el mayor aprovechamiento de las zonas turísticas existentes en la entidad, con la participación de las Dependencias y Entidades competentes;
 
@@ -1956,3 +2006,31 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La Secretaría de Administración y Finanzas contará con un plazo de noventa días naturales, a fin de adecuar sus ordenamientos internos necesarios que regulen el ejercicio de las facultades conferidas en este Decreto.
 
 TERCERO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 219 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 8, FRACCIÓN XII; 21, FRACCIÓN XXXVIII. SE ADICIONAN UNA FRACCIÓN II BIS AL ARTÍCULO 20; LAS FRACCIONES XXXIX, XL, XLI, XLII, XLIII, XLIV, XLV, XLVI, XLVII, XLVIII Y XLIX AL ARTÍCULO 21. SE DEROGAN LAS FRACCIONES XXXV, LII, LIII, LIV, LV Y LVI DEL ARTÍCULO 24; LA FRACCIÓN XXVII DEL ARTÍCULO 27. TODOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor el 1 de enero del 2026.
+
+SEGUNDO. Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
+
+TERCERO. Se abroga la Ley de Mejora Regulatoria para el Estado de Tabasco y sus Municipios, su Reglamento y demás lineamientos que emanen de dicha legislación.
+
+CUARTO. En un plazo no mayor a 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones al Reglamento de la Ley de Gobierno Digital y Firma Electrónica para el Estado de Tabasco y sus Municipios.
+
+QUINTO. En un plazo no mayor a 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo deberá realizar las adecuaciones a los reglamentos interiores de la Secretaría de Administración y Finanzas, y la Secretaría de Turismo y Desarrollo Económico.
+
+SEXTO. En un plazo no mayor a 90 días hábiles, la Agencia Estatal de Transformación Digital deberá expedir los lineamientos y demás normatividad que considere pertinente para la implementación del presente Decreto.
+
+SÉPTIMO. En un plazo no mayor a 15 días hábiles, la Secretaría de Turismo y Desarrollo Económico deberá transferir a la Agencia Estatal de Transformación Digital los expedientes de la Comisión Estatal de Mejora Regulatoria.
+
+La persona titular de la Comisión Estatal de Mejora Regulatoria deberá entregar a la Agencia Estatal de Transformación Digital una relación con toda la documentación relativa al ejercicio de sus atribuciones, en términos de las disposiciones aplicables.
+
+OCTAVO. Todos los asuntos en trámite por parte de la Comisión Estatal de Mejora Regulatoria adscrita a la Secretaría de Turismo y Desarrollo Económico y de la Coordinación General de Modernización Administrativa e Innovación Gubernamental adscrita a la Secretaría de Administración y Finanzas, previos a la entrada en vigor del presente Decreto, serán resueltos por la Agencia Estatal de Transformación Digital, en el ámbito de su respectiva competencia.
+
+NOVENO. A partir de la entrada en vigor del presente Decreto, cuando en cualquier ordenamiento se haga referencia a la Coordinación General de Modernización Administrativa e Innovación Gubernamental o a la Comisión Estatal de Mejora Regulatoria, se entenderán hechas a la Agencia Estatal de Transformación Digital.
+
+DÉCIMO. La Secretaría de Administración y Finanzas deberá realizar las adecuaciones presupuestarias y administrativas necesarias para la implementación del presente Decreto.
+
+DÉCIMO PRIMERO. El Consejo Estatal deberá quedar instalado dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
