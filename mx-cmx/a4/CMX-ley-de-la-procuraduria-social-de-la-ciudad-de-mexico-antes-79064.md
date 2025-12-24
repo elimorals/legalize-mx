@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-la-procuraduria-social-de-la-ciudad-de-mexico-antes-7906
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-03"
-last_updated: "2024-11-29"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79064&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2011-02-02"
 ---
 # LEY DE LA PROCURADURIA SOCIAL DE LA CIUDAD DE MEXICO -- ANTES LEY DE LA PROCURADURIA SOCIAL DEL DISTRITO FEDERAL--
 
-LEY DE LA PROCURADURÍA SOCIAL DEL DISTRITO FEDERAL
+LEY DE LA PROCURADURIA SOCIAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 3 de febrero de 2011.
 
@@ -46,7 +46,9 @@ DECRETO POR EL QUE SE EXPIDE LA LEY DE LA PROCURADURÍA SOCIAL DEL DISTRITO FEDE
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
 
-LEY DE LA PROCURADURÍA SOCIAL DEL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+LEY DE LA PROCURADURIA SOCIAL DE LA CIUDAD DE MÉXICO
 
 ## TÍTULO PRIMERO. DE LA NATURALEZA Y OBJETO DE LA PROCURADURÍA SOCIAL
 
@@ -56,11 +58,11 @@ LEY DE LA PROCURADURÍA SOCIAL DEL DISTRITO FEDERAL
 
 La presente ley es de orden público e interés general.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 2o.
 
-La Procuraduría Social del Distrito Federal es un Organismo Público Descentralizado de la Administración Pública de la Ciudad de México, con personalidad jurídica y patrimonio propios.
+La Procuraduría Social de la Ciudad de México es un Organismo Público Descentralizado de la Administración Pública de la Ciudad de México, con personalidad jurídica y patrimonio propios.
 
 En el desempeño de sus funciones no recibirá instrucciones o indicaciones de autoridad o servidor público alguno.
 
@@ -68,63 +70,91 @@ En el desempeño de sus funciones no recibirá instrucciones o indicaciones de a
 
 La Procuraduría Social tiene por objeto:
 
-a) Ser una instancia accesible a los particulares, agrupaciones, asociaciones, organizaciones y órganos de representación ciudadana electos en las colonias o pueblos originarios del Distrito Federal, para la defensa de sus derechos sociales y los relacionados con las actuaciones, funciones y prestación de servicios a cargo de la Administración Pública del Distrito Federal, permisionarios y concesionarios, observando en todo momento los principios de legalidad, imparcialidad, eficiencia, eficacia, honestidad, transparencia, y demás relativos y aplicables.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+a) Ser una instancia accesible a los particulares, agrupaciones, asociaciones, organizaciones y órganos de representación ciudadana electos en las colonias o pueblos originarios de la Ciudad de México, para la defensa de sus derechos sociales y los relacionados con las actuaciones, funciones y prestación de servicios a cargo de la Administración Pública de la Ciudad de México, permisionarios y concesionarios, observando en todo momento los principios de legalidad, imparcialidad, eficiencia, eficacia, honestidad, transparencia, y demás relativos y aplicables.
 
 Quedan exceptuados lo referente a las materias electoral, laboral, responsabilidad de servidores públicos, derechos humanos, así como los asuntos que se encuentren sujetos al trámite jurisdiccional.
 
-b) Procurar y coadyuvar al cumplimiento de la Ley de Propiedad en Condominios (sic) de Inmuebles para el Distrito Federal, a través de las funciones, servicios y procedimientos que emanen de esta Ley.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-c) Crear, instrumentar, difundir y aplicar mecanismos de participación ciudadana y sana convivencia entre todos aquellos que habiten en un condominio y/o participen en la Asamblea General que refiere la Ley de Propiedad en Condominios (sic) de Inmuebles para el Distrito Federal.
+b) Procurar y coadyuvar al cumplimiento de la Ley de Propiedad en Condominios (sic) de Inmuebles vigente para la Ciudad de México, a través de las funciones, servicios y procedimientos que emanen de esta Ley.
 
-> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+c) Crear, instrumentar, difundir y aplicar mecanismos de participación ciudadana y sana convivencia entre todos aquellos que habiten en un condominio y/o participen en la Asamblea General que refiere la Ley de Propiedad en Condominios (sic) de Inmuebles vigente para la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 4o.
 
-Los procedimientos que se substancien en la Procuraduría Social, estarán regidos por los principios de imparcialidad, economía procesal, celeridad, sencillez, eficacia, legalidad, publicidad, buena fe, accesibilidad, información, certidumbre jurídica y gratuidad, y en los casos no contemplados en esta Ley se aplicará de manera supletoria la Ley de Procedimiento Administrativo de la Ciudad de México y Código Nacional de Procedimientos Civiles y Familiares.
+Los procedimientos que se substancien en la Procuraduría Social, estarán regidos por los principios de imparcialidad, economía procesal, celeridad, sencillez, eficacia, legalidad, publicidad, buena fe, accesibilidad, información, certidumbre jurídica y gratuidad, y en los casos no contemplados en esta Ley se aplicará de manera supletoria la Ley de procedimiento Administrativo de la Ciudad de México y Código de Procedimientos Civiles vigente en la Ciudad de México.
 
 ###### Artículo 5o.
 
 Para efectos de la presente Ley, se entenderá por:
 
-I. Administración Pública: Administración Pública del Distrito Federal pudiendo ser Centralizada, Desconcentrada y Paraestatal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-II. Concesionario: Persona física o moral que presta un servicio público en virtud de una concesión otorgada por la Administración Pública del Distrito Federal;
+I. Administración Pública: Administración Pública de la Ciudad de México pudiendo ser Centralizada, Desconcentrada y Paraestatal;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+II. Concesionario: Persona física o moral que presta un servicio público en virtud de una concesión otorgada por la Administración Pública de la Ciudad de México.
 
 III. Consejo de Gobierno: Consejo de Gobierno y Órgano Rector de la Procuraduría Social;
 
-IV. Jefe de Gobierno: Jefe de Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IV. Jefe de Gobierno: La o el Jefe de Gobierno de la Ciudad de México;
 
 V. Ley: Ley de la Procuraduría Social;
 
-VI. Permisionario: Persona física o moral que tiene permiso para prestar un servicio público y/o tiene en posesión un inmueble propiedad de la Administración Pública del Distrito Federal y que es otorgado por esta;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-VII. Procurador: Procurador o Procuradora Social del Distrito Federal;
+VI. Permisionario: Persona física o moral que tiene permiso para prestar un servicio público y/o tiene en posesión un inmueble propiedad de la Administración Pública de la Ciudad de México y que es otorgado por esta;
 
-VIII. Particular: Ciudadano, condómino, poseedor, administrador condómino o profesional, vecino, agrupaciones, asociaciones u organizaciones, comités ciudadanos y consejos del pueblo electos en las colonias y pueblos originarios del Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-IX. Queja: Es la presentada por cualquier particular ante la Procuraduría Social, para intervenir respecto a los actos u omisiones en las funciones y prestación de servicios de la Administración Pública del Distrito Federal, sus concesionarios o permisionarios, asimismo en relación a los conflictos que se susciten en materia condominal;
+VII. Procurador: Procurador o Procuradora Social de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VIII. Particular: Ciudadano, condómino, poseedor, administrador condómino o profesional, vecino, agrupaciones, asociaciones u organizaciones, comités ciudadanos y consejos del pueblo electos en las colonias y pueblos originarios de la Ciudad de México.
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IX. Queja: Es la presentada por cualquier particular ante la Procuraduría Social, para intervenir respecto a los actos u omisiones en las funciones y prestación de servicios de la Administración Pública de la Ciudad de México, sus concesionarios o permisionarios, asimismo en relación a los conflictos que se susciten en materia condominal;
 
 X. Quejoso: Es todo aquel particular que presenten (sic) una queja;
 
-XI. Recomendación: Es aquella que emite la Procuraduría Social a cualquiera de los órganos de la Administración Pública del Distrito Federal, concesionarios o permisionarios, con la finalidad de que se ciñan a los establecido (sic) en las disposiciones jurídicas aplicables en su materia;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XI. Recomendación: Es aquella que emite la Procuraduría Social a cualquiera de los órganos de la Administración Pública de la Ciudad de México, concesionarios o permisionarios, con la finalidad de que se ciñan a los (sic) establecido en las disposiciones jurídicas aplicables en su materia;
 
 XII. Reglamento: Reglamento de la Ley de la Procuraduría Social;
 
 XIII. Requerido Condominal: Es el condómino, poseedor, administrador o integrante del comité de vigilancia o comités cualesquiera sean estos, y que sea señalado por un quejoso; y
 
-XIV. Sugerencia: Es aquella propuesta que emite la Procuraduría Social a cualquiera de los Órganos de la Administración Pública del Distrito Federal, concesionarios o permisionarios, para una pronta y ágil atención de los particulares.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XIV. Sugerencia: Es aquella propuesta que emite la Procuraduría Social a cualquiera de los Órganos de la Administración Pública de la Ciudad de México, concesionarios o permisionarios, para una pronta y ágil atención de los particulares.
 
 ###### Artículo 6o.
 
 La Procuraduría será la instancia administrativa para recepción, trámite, seguimiento y conclusión de las quejas a que se refiere esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 7o.
 
-El patrimonio de la Procuraduría se integra con los bienes muebles e inmuebles que se destinen para el cumplimiento de su objeto, con las partidas que anualmente se le asignen en el Presupuesto de Egresos del Distrito Federal, así como por las donaciones que se le otorguen.
+El patrimonio de la Procuraduría se integra con los bienes muebles e inmuebles que se destinen para el cumplimiento de su objeto, con las partidas que anualmente se le asignen en el Presupuesto de Egresos de la Ciudad de México, así como por las donaciones que se le otorguen.
 
 La Procuraduría administrará su patrimonio con transparencia y de conformidad con las disposiciones legales aplicables y programas aprobados.
 
-La Procuraduría atendiendo a las previsiones del ingreso y del gasto público del Distrito Federal, elaborará su proyecto de presupuesto y lo enviará al Jefe de Gobierno, para que éste ordene su incorporación al proyecto de Presupuesto de Egresos del Distrito Federal.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+La Procuraduría atendiendo a las previsiones del ingreso y del gasto público de la Ciudad de México, elaborará su proyecto de presupuesto y lo enviará al Jefe de Gobierno, para que éste ordene su incorporación al proyecto de Presupuesto de Egresos de la Ciudad de México.
 
 ###### Artículo 8o.
 
@@ -158,7 +188,9 @@ Para ocupar el cargo de Procurador se requiere:
 
 I. Ser ciudadano mexicano por nacimiento;
 
-II. Residir en el Distrito Federal cuando menos un año antes a su designación;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+II. Residir en la Ciudad de México cuando menos un año antes a su designación;
 
 III. Ser mayor de 30 años;
 
@@ -178,7 +210,9 @@ Son facultades del Procurador;
 
 I. Crear, dirigir y coordinar las acciones que realice la Procuraduría en el desempeño de las atribuciones que le confiere esta Ley;
 
-II. Establecer políticas y programas en la Procuraduría, con la finalidad de brindar una mejor atención a los particulares, haciéndolo del conocimiento del Jefe de Gobierno y Asamblea Legislativa del Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+II. Establecer políticas y programas en la Procuraduría, con la finalidad de brindar una mejor atención a los particulares, haciéndolo del conocimiento de la o el Jefe de Gobierno y Congreso de la Ciudad de México;
 
 III. Ser representante legal de la Procuraduría;
 
@@ -194,7 +228,9 @@ VIII. Aprobar, suscribir, y celebrar convenios con agrupaciones, asociaciones, i
 
 IX. Nombrar, promover y remover a los servidores públicos de la Procuraduría, que no tengan señalada otra forma de nombramiento, promoción y remoción en esta Ley;
 
-X. Delegar las facultades en servidores públicos subalternos, sin perjuicio de su ejercicio directo, mediante manuales administrativos que serán publicados en la Gaceta Oficial del Distrito Federal, y de conformidad con los ordenamientos jurídicos aplicables;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+X. Delegar las facultades en servidores públicos subalternos, sin perjuicio de su ejercicio directo, mediante manuales administrativos que serán publicados en la Gaceta Oficial de la Ciudad de México, y de conformidad con los ordenamientos jurídicos aplicables;
 
 XI. Denunciar ante el Ministerio Público de actos u omisiones que puedan ser constitutivos de ilícitos o en su caso ante las autoridades correspondientes;
 
@@ -204,11 +240,13 @@ XIII. Elaborar y Presentar el proyecto de Reglamento de la Procuraduría Social 
 
 XIV. Demás que le confiera esta Ley, su Reglamento y otros ordenamientos que lo faculten para tal efecto.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 14.
 
-El Procurador enviará al Jefe de Gobierno y a la Asamblea Legislativa del Distrito Federal, en el mes de septiembre un informe anual sobre las actividades que la Procuraduría haya realizado en dicho período.
+El Procurador enviará al Jefe de Gobierno y al Congreso de la Ciudad de la Ciudad (sic) de México, en el mes de septiembre un informe anual sobre las actividades que la Procuraduría haya realizado en dicho período.
 
-El informe deberá ser publicado en la Gaceta Oficial del Distrito Federal, y contendrá un resumen descriptivo sobre las quejas, investigaciones, conciliaciones, procedimientos, resoluciones, sugerencias y recomendaciones emitidas; asimismo cuales fueron aceptadas o rechazadas por las autoridades; quejas en tramite y pendientes por resolver, así como estadísticas e información que considere de interés.
+El informe deberá ser publicado en la Gaceta Oficial de la Ciudad de México, y contendrá un resumen descriptivo sobre las quejas, investigaciones, conciliaciones, procedimientos, resoluciones, sugerencias y recomendaciones emitidas; asimismo cuales fueron aceptadas o rechazadas por las autoridades; quejas en trámite y pendientes por resolver, así como estadísticas e información que considere de interés.
 
 ###### Artículo 15.
 
@@ -224,7 +262,9 @@ En el supuesto del párrafo anterior, así como en la separación del cargo o de
 
 El Consejo de Gobierno será de carácter plural y multidisciplinario, integrándose por:
 
-I. El Jefe de Gobierno del Distrito Federal o la persona que este designe, quién presidirá la sesión;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+I. La o el Jefe de Gobierno de la Ciudad de México o la persona que este designe, quién presidirá la sesión;
 
 II. El Secretario de Gobierno o la persona que este designe;
 
@@ -250,7 +290,9 @@ IV. Velar que la actuación de esta Procuraduría se rija por los principios se�
 
 V. Opinar sobre el Informe del Procurador respecto al ejercicio administrativo y presupuestal;
 
-VI. Opinar sobre el proyecto de Informe Anual que el Procurador enviará al Jefe de Gobierno y a la Asamblea Legislativa del Distrito Federal.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VI. Opinar sobre el proyecto de Informe Anual que el Procurador enviará al Jefe de Gobierno y al Congreso de la Ciudad de México.
 
 > <small>(REFORMADO, G.O. 25 DE JUNIO DE 2014)</small>
 
@@ -282,7 +324,9 @@ b) Cumplir con las funciones de arbitraje, conciliación o amigable composición
 
 c) Substanciar los procedimientos de conciliación, arbitraje, aplicación de sanción y los recursos de inconformidad, señalados en esta Ley;
 
-d) Instrumentar y difundir mecanismos de participación ciudadana y sana convivencia entre todos aquellos que habiten en un condominio y/o participen en la Asamblea General que refiere la Ley de Propiedad en Condominios (sic) de Inmuebles para el Distrito Federal; y
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+d) Instrumentar y difundir mecanismos de participación ciudadana y sana convivencia entre todos aquellos que habiten en un condominio y/o participen en la Asamblea General que refiere la Ley de Propiedad en Condominios (sic) de Inmuebles vigente para la Ciudad de México; y
 
 e) Todas aquellas propias aquellas (sic) de su encargo.
 
@@ -292,7 +336,9 @@ La Procuraduría tendrá competencia en lo siguiente:
 
 A. En materia de atención ciudadana, orientación y quejas;
 
-I. Ser instancia para atender, recibir y orientar las quejas e inconformidades que presenten los particulares por los actos u omisiones de la Administración Pública del Distrito Federal, concesionarios o permisionarios;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+I. Ser instancia para atender, recibir y orientar las quejas e inconformidades que presenten los particulares por los actos u omisiones de la Administración Pública de la Ciudad de México, concesionarios o permisionarios;
 
 II. Orientar gratuitamente a los particulares en materia administrativa, jurídica, social e inmobiliaria, asimismo en asuntos relacionados con trámites relativos a desarrollo urbano, salud, educación y cualquier otro servicio público;
 
@@ -310,9 +356,13 @@ VIII. Implementar programas especiales de atención y asesoría en la defensa de
 
 B. En materia Condominal:
 
-I. Observar el debido cumplimiento de la Ley de Propiedad en Condómino de Inmuebles para el Distrito Federal y su Reglamento, asimismo cuando lo soliciten los interesados orientar, informar y asesorar sobre el reglamento interno de los condominios, escrituras constitutivas o traslativas de dominio y acuerdos o resoluciones consideradas en asamblea general;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-II. Orientar, informar y asesorar a los condóminos, poseedores o compradores en lo relativo a la celebración de actos jurídicos que tiendan a la adquisición y/o administración de inmuebles, de conformidad a lo establecido en la Ley de Propiedad en Condominio para Inmuebles en el Distrito Federal;
+I. Observar el debido cumplimiento de la Ley de Propiedad en Condómino (sic) de Inmuebles vigente para la Ciudad de México y su Reglamento, asimismo cuando lo soliciten los interesados orientar, informar y asesorar sobre el reglamento interno de los condominios, escrituras constitutivas o traslativas de dominio y acuerdos o resoluciones consideradas en asamblea general;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+II. Orientar, informar y asesorar a los condóminos, poseedores o compradores en lo relativo a la celebración de actos jurídicos que tiendan a la adquisición y/o administración de inmuebles, de conformidad a lo establecido en la Ley de Propiedad en Condominio para Inmuebles vigente en la Ciudad de México;
 
 III. Registrar las propiedades constituidas bajo el Régimen de Propiedad en Condominio, requiriéndole a quien otorgue la escritura constitutiva del condominio y Colegio de Notarios notifiquen a la Procuraduría la información sobre dichos inmuebles;
 
@@ -320,37 +370,59 @@ IV. Registrar los nombramientos de los administradores de los condominios y expe
 
 V. Requerir a las constructoras o desarrolladoras inmobiliarias el registro del Régimen de Propiedad en Condominio, así como su registro ante la Procuraduría;
 
-VI. Autorizar y registrar el libro de la asamblea general, de conformidad con la Ley de Propiedad en Condominio para Inmuebles en el Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-VII. Orientar y capacitar a los condóminos, poseedores y/o administradores, en la celebración, elaboración y distribución de convocatorias para la celebración de asambleas generales, de conformidad con la Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal; asimismo y a petición de éstos asistir a la sesión de la asamblea general en calidad de asesor;
+VI. Autorizar y registrar el libro de la asamblea general, de conformidad con la Ley de Propiedad en Condominio para Inmuebles vigente en la Ciudad de México;
 
-VIII. Capacitar y certificar a los administradores condóminos y administradores profesionales dependiendo sus servicios que presten de conformidad con lo establecido en la Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-IX. Recibir y atender las quejas por el probable incumplimiento de la Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal y su Reglamento; interpretación de la Escritura Constitutiva, del Régimen de Propiedad en Condominio, del reglamento interno del condominio, de los acuerdos de la asamblea, y demás que se presenten;
+VII. Orientar y capacitar a los condóminos, poseedores y/o administradores, en la celebración, elaboración y distribución de convocatorias para la celebración de asambleas generales, de conformidad con la Ley de Propiedad en Condominio de Inmuebles vigente para la Ciudad de México; asimismo y a petición de éstos asistir a la sesión de la asamblea general en calidad de asesor;
 
-X. Substanciar los procedimientos conciliatorio, arbitral, administrativo de aplicación de sanciones y recurso de inconformidad en atención a los casos enunciados en la fracción anterior; asimismo aplicar los medios de apremio y procedimiento administrativo de aplicación de sanciones de conformidad con esta Ley, y de manera supletoria lo establecido en la Ley de Procedimiento Administrativo del Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XI. Coadyuvar con las autoridades de la Administración Pública, con la finalidad de resolver pronta y eficaz las quejas relacionadas al incumplimiento de la Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal;
+VIII. Capacitar y certificar a los administradores condóminos y administradores profesionales dependiendo sus servicios que presten de conformidad con lo establecido en la Ley de Propiedad en Condominio de Inmuebles vigente para la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IX. Recibir y atender las quejas por el probable incumplimiento de la Ley de Propiedad en Condominio de Inmuebles vigente para la Ciudad de México y su Reglamento; interpretación de la Escritura Constitutiva, del Régimen de Propiedad en Condominio, del reglamento interno del condominio, de los acuerdos de la asamblea, y demás que se presenten;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+X. Substanciar los procedimientos conciliatorio, arbitral, administrativo de aplicación de sanciones y recurso de inconformidad en atención a los casos enunciados en la fracción anterior; asimismo aplicar los medios de apremio y procedimiento administrativo de aplicación de sanciones de conformidad con esta Ley, y de manera supletoria lo establecido en la Ley de Procedimiento Administrativo de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XI. Coadyuvar con las autoridades de la Administración Pública, con la finalidad de resolver pronta y eficaz las quejas relacionadas al incumplimiento de la Ley de Propiedad en Condominio de Inmuebles vigente para la Ciudad de México;
 
 XII. Una vez agotados los procedimientos establecidos en esta Ley y afecto de resarcir los daños ocasionados al quejoso la Procuraduría orientará e indicará la vía o autoridad ante la cual el quejoso deberá acudir;
 
 XIII. Organizar y promover cursos, talleres, foros de consulta y asesoría, con la finalidad de fomentar la sana convivencia a través de la cultura condominal y así prevenir conflictos; y
 
-XIV. Las demás que se establezcan en la Ley de Propiedad en Condómino de Inmuebles para el Distrito Federal, su Reglamento y demás ordenamientos.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XIV. Las demás que se establezcan en la Ley de Propiedad en Condómino (sic) de Inmuebles vigente para la Ciudad de México, su Reglamento y demás ordenamientos.
 
 C. En materia de recomendaciones y sugerencias:
 
-I. Emitir recomendaciones debidamente fundadas y motivadas, a los titulares de los Órganos de la Administración Pública del Distrito Federal, concesionarios o permisionarios, como resultado de la investigación de las quejas presentadas por los particulares;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-II. Emitir sugerencias debidamente fundadas y motivadas a los titulares de los Órganos de la Administración Pública del Distrito Federal, concesionarios o permisionarios, para que realice cambios que tengan como consecuencia una pronta y ágil atención de las peticiones que les realizan particulares;
+I. Emitir recomendaciones debidamente fundadas y motivadas, a los titulares de los Órganos de la Administración Pública de la Ciudad de México, concesionarios o permisionarios, como resultado de la investigación de las quejas presentadas por los particulares;
 
-III. Difundir y publicar las recomendaciones emitidas, a través de la Gaceta Oficial del Distrito Federal y los medios de comunicación que considere pertinentes; y
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+II. Emitir sugerencias debidamente fundadas y motivadas a los titulares de los Órganos de la Administración Pública de la Ciudad de México, concesionarios o permisionarios, para que realice cambios que tengan como consecuencia una pronta y ágil atención de las peticiones que les realizan particulares.
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+III. Difundir y publicar las recomendaciones emitidas, a través de la Gaceta Oficial de la Ciudad de México y los medios de comunicación que considere pertinentes; y
 
 IV. Elaborar encuestas y sondeos de opinión para sugerir las modificaciones a los procedimientos administrativos, cuya finalidad es lograr la simplificación y mejor atención a los ciudadanos.
 
 D. En materia social y afines:
 
-I. Conocer, difundir y fomentar los programas sociales del Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+I. Conocer, difundir y fomentar los programas sociales del Gobierno de la Ciudad de México.
 
 II. Conciliar e intervenir en las controversias que se susciten por la aplicación del marco que les regule, entre las autoridades de los Órganos de la Administración Pública y particulares;
 
@@ -370,11 +442,15 @@ Las Oficinas Desconcentradas desarrollaran las siguientes atribuciones conferida
 
 I. Orientar y asesorar gratuitamente en materia administrativa, jurídica, social e inmobiliaria, asimismo en asuntos relacionados con trámites relativos a desarrollo urbano, salud, educación y cualquier otro servicio público;
 
-II. Ser instancia para atender, recibir y orientar las quejas e inconformidades que presenten los particulares por los actos u omisiones de los Órganos de la Administración Pública, también las que susciten de la interpretación de la Ley de Propiedad en Condominios (sic) de Inmuebles para el Distrito Federal y su Reglamento; asimismo substanciara los procedimientos a que hace referencia esta Ley;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+II. Ser instancia para atender, recibir y orientar las quejas e inconformidades que presenten los particulares por los actos u omisiones de los Órganos de la Administración Pública, también las que susciten de la interpretación de la Ley de Propiedad en Condominios (sic) de Inmuebles vigente para la Ciudad de México y su Reglamento; asimismo substanciara los procedimientos a que hace referencia esta Ley;
 
 III. Orientación y asesoría en la organización para la Constitución del Régimen de Propiedad en Condominio;
 
-IV. Difundir y fomentar los programas sociales del Gobierno del Distrito Federal, así como los encaminados a promover la cultura condominal para la Constitución del Régimen de Propiedad en Condominio;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IV. Difundir y fomentar los programas sociales del Gobierno de la Ciudad de México, así como los encaminados a promover la cultura condominal para la Constitución del Régimen de Propiedad en Condominio;
 
 V. Realizar el Registro de Administradores.
 
@@ -382,13 +458,17 @@ V. Realizar el Registro de Administradores.
 
 La Procuraduría contará con un servicio vía telefónica de atención al público en el que recibirán los reportes relacionados con bacheo, fugas de agua, drenaje, desazolve, alumbrado público y desechos sólidos, en vía de queja. Para tal efecto se establecerán los procedimientos para su debida atención.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 27.
 
-La Procuraduría Social, promoverá permanentemente la participación y colaboración entre los habitantes de la ciudad encaminada a la formación social, para lo cual podrá suscribir convenios e instrumentos legales de coordinación interinstitucional y de concertación social con agrupaciones, asociaciones, instituciones públicas o privadas y organizaciones civiles o sociales, comités ciudadanos y consejos del pueblo electos en las colonias y pueblos originarios del Distrito Federal y demás que considere necesarios.
+La Procuraduría Social, promoverá permanentemente la participación y colaboración entre los habitantes de la ciudad encaminada a la formación social, para lo cual podrá suscribir convenios e instrumentos legales de coordinación interinstitucional y de concertación social con agrupaciones, asociaciones, instituciones públicas o privadas y organizaciones civiles o sociales, comités ciudadanos y consejos del pueblo electos en las colonias y pueblos originarios de la Ciudad de México y demás que considere necesarios.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 28.
 
-La Procuraduría Social también deberá promover con la más amplia difusión sus funciones y servicios entre los habitantes del Distrito Federal, sus programas de acción social, así como de las recomendaciones y sugerencias emitidas, todo ello con la finalidad de lograr el mayor acceso de la ciudadanía a las instancias democráticas de transparencia, gestoría y queja.
+La Procuraduría Social también deberá promover con la más amplia difusión sus funciones y servicios entre los habitantes de la Ciudad de México, sus programas de acción social, así como de las recomendaciones y sugerencias emitidas, todo ello con la finalidad de lograr el mayor acceso de la ciudadanía a las instancias democráticas de transparencia, gestoría y queja.
 
 ## TÍTULO TERCERO. DE LAS QUEJAS Y SU PROCEDIMIENTO
 
@@ -430,7 +510,9 @@ La Procuraduría dentro de sus facultades y atribuciones intervendrá en los asu
 
 Si los servidores públicos de los Órganos de la Administración Pública no atienden la solicitud de información, compromiso de atención y/o sugerencia, derivada de la queja, la Procuraduría solicitará la intervención del superior jerárquico correspondiente, para obtener el cumplimiento de las mismas. Situación que ocurrirá de igual forma en el caso de los concesionarios o permisionarios.
 
-Si subsiste el incumplimiento, el Procurador lo hará del conocimiento del Jefe de Gobierno del Distrito Federal y de la Contraloría General del Distrito Federal.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Si subsiste el incumplimiento, el Procurador lo hará del conocimiento de la o el Jefe de Gobierno de la Ciudad de México y de la Contraloría General de la Ciudad de México.
 
 ###### Artículo 37.
 
@@ -462,9 +544,11 @@ En el caso de las fracciones I y II de ser necesario se subsanaran las deficienc
 
 Inmediatamente observe la Procuraduría la incompetencia para conocer de la queja, orientara al quejoso de la autoridad a la que deberá acudir para su atención.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 41.
 
-La Procuraduría turnará a la Contraloría General del Distrito Federal, las quejas que se hagan de su conocimiento y que a su juicio impliquen o supongan una responsabilidad atribuible a servidores públicos, en los términos de la legislación aplicable, informando de ello al interesado.
+La Procuraduría turnará a la Contraloría General de la Ciudad de México, las quejas que se hagan de su conocimiento y que a su juicio impliquen o supongan una responsabilidad atribuible a servidores públicos, en los términos de la legislación aplicable, informando de ello al interesado.
 
 #### SECCIÓN SEGUNDA. De la Improcedencia, Sobreseimiento y Conclusión de la Queja
 
@@ -478,7 +562,9 @@ II. Actos relacionados con la seguridad del Estado;
 
 III. Asuntos que se encuentren sujetos a trámite de impugnación ante un Órgano Administrativo o en trámite jurisdiccional, o bien, relacionados con una averiguación previa ante el Ministerio Público;
 
-IV. Cuestiones concernientes a la relación de trabajo entre los servidores públicos y la Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IV. Cuestiones concernientes a la relación de trabajo entre los servidores públicos y la Administración Pública de la Ciudad de México.
 
 V. Actos de los que haya tenido conocimiento el particular, seis meses antes a la fecha de la presentación de la queja; y
 
@@ -600,7 +686,9 @@ Una vez que la recomendación o sugerencia haya sido emitida, se notificará de 
 
 La cual, deberá responder si la acepta o no en un plazo de 10 días hábiles. En caso de aceptarla dispondrá de un plazo de 30 días en el caso de la recomendación y 15 días en el caso de la sugerencia, para tomar las medidas necesarias para el cumplimiento.
 
-De no ser aceptada la recomendación o sugerencia, el Procurador deberá hacer del conocimiento de la opinión pública, la negativa u omisión del o los Órganos de la Administración, concesionario o permisionario, a través de su publicación en la Gaceta Oficial del Distrito Federal y los medios de comunicación que considere necesarios.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+De no ser aceptada la recomendación o sugerencia, el Procurador deberá hacer del conocimiento de la opinión pública, la negativa u omisión del o los Órganos de la Administración, concesionario o permisionario, a través de su publicación en la Gaceta Oficial de la Ciudad de México y los medios de comunicación que considere necesarios.
 
 ###### Artículo 60.
 
@@ -610,9 +698,11 @@ Las recomendaciones y sugerencias que emita la Procuraduría, en ningún caso ad
 
 Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 61.
 
-La Procuraduría conocerá de las quejas por violaciones a la presente Ley, Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal y su Reglamento y demás disposiciones relativas y aplicables, que presenten:
+La Procuraduría conocerá de las quejas por violaciones a la presente Ley, Ley de Propiedad en Condominio de Inmuebles para la Ciudad de México y su Reglamento y demás disposiciones relativas y aplicables, que presenten:
 
 I.- Los condóminos o residentes;
 
@@ -628,9 +718,11 @@ Para tal efecto la Procuraduría llevará a cabo audiencias de conciliación, la
 
 La presentación de la queja no implica interrupción de términos para la prescripción de las acciones legales correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 63.
 
-Las quejas podrán presentarse en la Procuraduría, Oficinas Desconcentradas en la Delegación correspondiente, unidades móviles de forma escrita, por comparecencia, o medio electrónico.
+Las quejas podrán presentarse en la Procuraduría, Oficinas Desconcentradas en la Alcaldía correspondiente, unidades móviles de forma escrita, por comparecencia, o medio electrónico.
 
 Para el caso de la queja formulada por medio electrónico esta deberá ratificarse en un plazo no mayor a 3 días hábiles a partir de su presentación.
 
@@ -722,7 +814,9 @@ En caso de que se suspenda la audiencia, el conciliador señalará día y hora p
 
 Los convenios celebrados por las partes serán aprobados por la Procuraduría cuando no vayan en contra de la ley.
 
-Aún cuando no medie reclamación, la Procuraduría estará facultada para aprobar los convenios propuestos por condóminos, poseedores, comités de vigilancia o administradores, en términos de la Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal, previa ratificación de firmas.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Aún cuando no medie reclamación, la Procuraduría estará facultada para aprobar los convenios propuestos por condóminos, poseedores, comités de vigilancia o administradores, en términos de la Ley de Propiedad en Condominio de Inmuebles vigente para la Ciudad de México, previa ratificación de firmas.
 
 ###### Artículo 77.
 
@@ -756,15 +850,17 @@ IV. Determinación del asunto motivo del arbitraje;
 
 V. Fecha para celebrar la audiencia de fijación de las reglas del procedimiento.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 82.
 
-Las resoluciones sólo admitirán la aclaración, y se harán a conciencia, verdad sabida y buena fe guardada, buscando preservar el interés general de lo establecido en la Ley de Propiedad en Condominio de inmuebles para el Distrito Federal.
+Las resoluciones sólo admitirán la aclaración, y se harán a conciencia, verdad sabida y buena fe guardada, buscando preservar el interés general de lo establecido en la Ley de Propiedad en Condominio de inmuebles vigente para la Ciudad de México.
 
-> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 83.
 
-Se aplicará supletoriamente lo dispuesto por la Ley de Procedimiento Administrativo para la Ciudad de México y el Código Nacional de Procedimientos Civiles y Familiares en los procedimientos a que se refiere esta Ley.
+Se aplicará supletoriamente lo dispuesto por la Ley de Procedimiento Administrativo de la Ciudad de México y el Código de Procedimientos Civiles vigente en la Ciudad de México en los procedimientos a que se refiere esta Ley.
 
 #### SECCIÓN TERCERA. De la Amigable Composición en Materia de Arrendamiento
 
@@ -782,9 +878,11 @@ El mediador deberá dirigir la controversia a conciencia y buena fé guardada, s
 
 ### CAPÍTULO I. DEL REGISTRO DE LIBROS DE ACTAS Y ADMINISTRADORES DE CONDOMINIOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 86.
 
-Los administradores de los condominios en el Distrito Federal, estarán obligados a inscribir su registro ante la Procuraduría cuando:
+Los administradores de los condominios en la Ciudad de México, estarán obligados a inscribir su registro ante la Procuraduría cuando:
 
 I. Sus nombramientos consten en los libros de actas de las Asambleas de Condóminos, aprobados por esta Procuraduría;
 
@@ -794,9 +892,11 @@ III. Sus nombramientos sean acordados en la vía conciliatoria
 
 Por incumplimiento del presente artículo, la Procuraduría aplicará las medidas de apremio establecidas en la presente Ley.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 87.
 
-En el caso de construcción nueva y se constituya bajo el Régimen de Propiedad en condominio, el primer administrador será designado por el propietario del condominio, hasta en tanto sea elegido un administrador condómino o profesional, registrándolo ante la procuraduría en un plazo previsto en la Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal.
+En el caso de construcción nueva y se constituya bajo el Régimen de Propiedad en condominio, el primer administrador será designado por el propietario del condominio, hasta en tanto sea elegido un administrador condómino o profesional, registrándolo ante la procuraduría en un plazo previsto en la Ley de Propiedad en Condominio de Inmuebles vigente para la Ciudad de México.
 
 ###### Artículo 88.
 
@@ -808,7 +908,9 @@ Se expedirán constancias y copias certificadas de los documentos inscritos en e
 
 La Procuraduría implementará planes, programas de capacitación y certificación para los administradores profesionales.
 
-Por tal motivo la Procuraduría vigilará y sancionará su encargo delegado por los condóminos, para el cumplimiento del presente ordenamiento, Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal, su Reglamento y las demás disposiciones relativas y aplicables.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Por tal motivo la Procuraduría vigilará y sancionará su encargo delegado por los condóminos, para el cumplimiento del presente ordenamiento, Ley de Propiedad en Condominio de Inmuebles vigente para la Ciudad de México, su Reglamento y las demás disposiciones relativas y aplicables.
 
 ## TÍTULO QUINTO. DE LAS SANCIONES
 
@@ -818,11 +920,9 @@ Por tal motivo la Procuraduría vigilará y sancionará su encargo delegado por 
 
 Para el desempeño de sus funciones, la Procuraduría Social, podrá emplear los siguientes medios de apremio:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-I. Multa por el equivalente de hasta cincuenta veces la Unidad de Cuenta de la Ciudad de México vigente en el Distrito Federal, la cual podrá duplicarse en caso de reincidencia, podrán imponerse nuevas multas por cada día que transcurra;
+I. Multa por el equivalente de hasta cincuenta veces la Unidad de Cuenta de la Ciudad de México vigente en la Ciudad de México, la cual podrá duplicarse en caso de reincidencia, podrán imponerse nuevas multas por cada día que transcurra;
 
 II. El auxilio de la fuerza pública;
 
@@ -834,9 +934,11 @@ Una vez aplicada la multa, la Procuraduría realizará las gestiones necesarias 
 
 ### CAPÍTULO II. PROCEDIMIENTO ADMINISTRATIVO DE APLICACIÓN DE SANCIONES
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 92.
 
-La Procuraduría sancionará económicamente a los condóminos, poseedores o administradores que hayan incurrido en violaciones a la Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal y disposiciones que de ella emanen.
+La Procuraduría sancionará económicamente a los condóminos, poseedores o administradores que hayan incurrido en violaciones a la Ley de Propiedad en Condominio de Inmuebles vigente para la Ciudad de México y disposiciones que de ella emanen.
 
 ###### Artículo 93.
 
@@ -848,15 +950,15 @@ II. Las actas levantadas por la autoridad; y
 
 III. Los testimonios notariados.
 
-> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 94.
 
-El procedimiento de aplicación de sanciones a que se refieren los dos artículos anteriores, se substanciará de conformidad a lo dispuesto en la Ley de Procedimiento Administrativo de la Ciudad de México y en su caso Código Nacional de Procedimientos Civiles y Familiares.
+El procedimiento de aplicación de sanciones a que se refieren los dos artículos anteriores, se substanciará de conformidad a lo dispuesto en la Ley de Procedimiento Administrativo de la Ciudad de México y en su caso Código de Procedimientos Civiles vigente en la Ciudad de México.
 
 ### CAPÍTULO III. DE LA INCOMFORMIDAD (SIC)
 
-> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 95.
 
@@ -905,3 +1007,11 @@ G.O. 29 DE NOVIEMBRE DE 2024.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación, salvo en los casos específicos a que se refieren los artículos 1º y 2º de la Declaratoria de vigencia del Código Nacional de Procedimientos Civiles y Familiares en la Ciudad de México publicada el día 9 de agosto de 2024, casos en los cuales entrarán en vigor conforme a las fechas que señale dicha declaratoria.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LA DENOMINACIÓN DE LA LEY DE LA PROCURADURÍA SOCIAL DEL DISTRITO FEDERAL PARA QUEDAR COMO “LEY DE LA PROCURADURÍA SOCIAL DE LA CIUDAD DE MÉXICO” ASÍ COMO LOS ARTÍCULOS 2, PRIMER PÁRRAFO; 3 INCISOS A) PRIMER PÁRRAFO, B) Y C); 4; 5 FRACCIONES I, II, IV, VI, VII, VIII, IX, XI Y XIV; 7, PÁRRAFOS PRIMERO Y TERCERO; 11, FRACCIÓN II; 13 FRACCIONES II Y X; 14; 17, FRACCIÓN I; 19 FRACCIÓN VI; 22, INCISO D); 23, APARTADOS A, FRACCIÓN I, B FRACCIONES I, II, VI, VII, VIII, IX, X, XI Y XIV, C, FRACCIONES I, II Y III, Y D FRACCIÓN I; 25, FRACCIONES II Y IV; 27; 28; 36, PÁRRAFO SEGUNDO; 41; 42, FRACCIÓN IV; 59, PÁRRAFO ÚLTIMO; 61, PÁRRAFO PRIMERO; 63, PÁRRAFO PRIMERO 76, PÁRRAFO SEGUNDO; 82; 83; 86, PÁRRAFO PRIMERO; 87; 89, PÁRRAFO SEGUNDO; 90, FRACCIÓN I; 92; 94, Y 95 DE LA LEY DE LA PROCURADURÍA SOCIAL DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
