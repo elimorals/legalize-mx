@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-comondu-del-estado-de-2326
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2025-07-10"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COMONDÚ DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 5 de noviembre de 2001.
 
@@ -193,19 +193,21 @@ Los causantes no quedaran liberados de la obligación de presentar las manifesta
 
 Están obligados al pago del impuesto sobre adquisición de bienes inmuebles establecidos en esta ley, las personas físicas o morales que adquieran inmuebles que consistan en el suelo o en las construcciones adheridas a él, ubicados en el territorio del municipio de Comondú, así como los derechos relacionados con los mismos a que este capitulo se refiere.
 
-> <small>(REFORMADO, B.O. 15 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
 
-El impuesto se calculara a la tasa del 2% al valor de transacción comercial del inmueble.
+El impuesto se calculará a la tasa del 3% al valor de transacción comercial del inmueble.
 
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
 
-Cuando el bien que se adquiera sea terreno y construcción destinada a casa-habitación, el impuesto se calculará aplicando la tasa del 2% del valor del inmueble, después de reducirlo en cinco veces el valor de la Unidad de Medida y Actualización elevado al año.
+Cuando el bien que se adquiera sea terreno y construcción destinada a casa-habitación, el impuesto se calculará aplicando la tasa del 3% del valor del inmueble, después de reducirlo en cinco veces el valor diario de la Unidad de Medida y Actualización elevado al año.
 
 > <small>(REFORMADO, B.O. 15 DE FEBRERO DE 2006)</small>
 
 En caso de adquisición de casa-habitación de interés social, quedaran exentas del pago del impuesto siempre y cuando el adquiriente demuestre no tener el y o su cónyuge otra propiedad.
 
-En el caso de adquisición por donación o sucesión entre cónyuges o parientes en línea directa ascendente o descendente, el impuesto se calculara aplicando la tasa del 1% sobre el valor del avalúo.
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+En el caso de adquisición por donación o sucesión entre cónyuges o parientes en línea directa ascendente o descendente, el Impuesto se calculará aplicando la tasa del 1.5% sobre el valor del avalúo.
 
 Al cederse los derechos hereditarios o enajenarse bienes de la sucesión, el impuesto correspondiente a la adquisición por causa de muerte se calculara aplicando la tasa prevista en el primer párrafo de este artículo, independientemente de que cause por el cesionario, por la sucesión o por el adquirente.
 
@@ -1753,21 +1755,21 @@ Por la ocupación de la vía pública, el Ayuntamiento se reservará la facultad
 
 T A R I F A
 
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2025)</small>
 
-I.- Automóviles de sitio o taxis por metro lineal anualmente 1 vez el valor diario de la Unidad de Medida y Actualización.
+I.- Automóviles de sitio o taxis por metro lineal anualmente 2 veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2025)</small>
 
-II.- Estacionamientos para particulares que vivan frente al estacionamiento solicitado, por metro lineal anualmente 1 vez el valor diario de la Unidad de Medida y Actualización.
+II.- Estacionamientos para particulares que vivan frente al estacionamiento solicitado, por metro lineal anualmente 2 veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2025)</small>
 
-III.- Estacionamientos exclusivos para uso comercial anualmente por metro lineal 3 veces el valor diario de la Unidad de Medida y Actualización.
+III.- Estacionamientos exclusivos para uso comercial anualmente por metro lineal 5 veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2025)</small>
 
-IV.- Estacionamiento o uso de la vía pública para carga y descarga en establecimientos comerciales, diariamente 0.5 del valor diario de la Unidad de Medida y Actualización.
+IV.- Estacionamiento o uso de la vía pública para carga y descarga en establecimientos comerciales, diariamente 1 vez el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
@@ -2171,65 +2173,83 @@ Distribuidora al
 
 mayoreo de vino y licor 293.8
 
-III. Cambio de domicilio de establecimiento con venta y consumo de bebidas alcohólicas.
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2025)</small>
 
-Para efectos de cambio de domicilio, previa autorización por parte del Ayuntamiento, se cobrará el 20% sobre el valor de la licencia según corresponda en la Fracción I del Artículo 115 de esta Ley.
+III.- Cambio de domicilio de establecimiento con venta y consumo de bebidas alcohólicas.
 
-IV. Autorización de funcionamiento de horario extraordinario a giro con venta y consumo de bebidas alcohólicas por hora
+Para efectos de cambio de domicilio, previa autorización por parte del Ayuntamiento, se cobrará el 20% sobre el valor de la licencia según corresponda en la Fracción I del Artículo 101 de esta Ley.
 
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2025)</small>
 
-Establecimientos Costo por hora en veces
+IV.- Autorización de funcionamiento de horario extraordinario a giro con venta y consumo de bebidas alcohólicas por hora.
 
-el valor diario de la Unidad
+Establecimientos Costo por hora en veces el
 
-de Medida y Actualización
+valor diario de la Unidad de
 
-Hoteles y moteles por 1
+Medida y Actualización
 
-cada establecimiento
+Hoteles y moteles por cada 2
 
-Super mercado con venta 1
+establecimiento
 
-de vino, licor y cerveza
+Súper mercado con venta de 2
 
-Minisuper o abarrotes con 1
+vino, licor y cerveza
 
-venta vino, licor y cerveza
+Minisúper o abarrotes con 2
 
-Minisuper o abarrotes con 1
+venta (sic) vino, licor y cerveza
+
+Minisúper o abarrotes con 2
 
 venta de cerveza
 
-Restaurante bar 1
+Restaurante bar 6
 
-Bar 2
+Bar 6
 
-Centros nocturnos 2
+Centros nocturnos 6
 
-Cabarets 2
+Cabarets 6
 
-Salones de baile 2
+Salones de baile 6
 
-Discotecas 2
+Discotecas 6
 
-Depósitos 1
+Depósitos 6
 
-Cantinas 2
+Cantinas 3
 
-Ultramarinos o licorería 1
+Ultramarinos o licorería 2
 
-Cervecería 1
+Cervecería 2
+
+> <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+V.-Cambio de propietario de 50 a 100 UMA;
+
+> <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VI.- Cambio de nombre comercial de 50 UMA, y
+
+> <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VII.- En el cambio o ampliación de giro se cobrará de acuerdo a la diferencia que exista entre el giro vigente y el nuevo giro que pretenda.
 
 A los establecimientos de distribución al mayoreo de cervezas, vinos y licores, agencias y sub-agencias no se les otorgará tiempo extraordinario para su funcionamiento.
 
-(REUBICADO, B.O. 15 DE FEBRERO DE 2006)
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 102.
 
-Los derechos por la expedición de licencia de giros comerciales a que se refiere el artículo anterior se pagarán previamente al otorgamiento de las mismas, sin que ello implique la autorización para el funcionamiento del giro, entre tanto no sea expedida la licencia correspondiente.
+Los derechos por la expedición de licencia a que se refiere el artículo anterior se pagarán previamente al otorgamiento de las mismas, sin que ello implique la autorización para el funcionamiento del giro, entre tanto no sea expedida la licencia correspondiente.
 
 Las licencias de revalidación se pagarán durante los meses de enero, febrero y marzo de cada año y tratándose de licencias eventuales se cubrirán los derechos al momento de la prestación del servicio.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Por la recepción, análisis y revisión de solicitudes de permisos nuevos, cambio de giro, cambio de nombre o razón social, sucesión de derechos y obligaciones, así como la emisión de permisos y certificados que por dichos conceptos y similares extienda el Municipio para la operación de establecimientos venta almacenaje, distribución o consumo de bebidas alcohólicas, estarán sujetos al pago de 10 veces el valor de la Unidad de Medida y Actualización, por cada trámite.
 
 (REUBICADO, B.O. 15 DE FEBRERO DE 2006)
 
@@ -2251,7 +2271,9 @@ El ayuntamiento podrá cancelar la licencia para el funcionamiento de establecim
 
 a) aquellos establecimientos que en su funcionamiento o su ubicación ofendan la moral, las buenas costumbres o por así requerirlo el interés social.
 
-b) al no solicitar su revalidación anual en los plazos señalados en el articulo 89 de esta ley.
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+b).- Al no solicitar su revalidación anual en los plazos señalados en el artículo 102 de esta ley.
 
 c) que el establecimiento funcione en un lugar distinto al autorizado.
 
@@ -2259,11 +2281,11 @@ d) los establecimientos que expendan bebidas alcohólicas a menores de edad.
 
 e) los establecimientos que no reúnan los requisitos contemplados de la secretaría de salubridad y asistencia.
 
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 106.
 
-Los derechos por los servicios de inspección fiscal serán causados por los trabajos que se deriven de cualquier acto de inspección que se realice en el municipio a solicitud expresa hecha a cualquier dependencia municipal por cualquier persona física o moral que lo solicite y/o cuando la autoridad lo dicte conveniente, los derechos se cobrarán de 1 a 3 veces el valor diario de la Unidad de Medida y Actualización.
+Los derechos por los servicios de inspección fiscal serán causados por los trabajos que se deriven de cualquier acto de inspección que se realice en el municipio a solicitud expresa hecha a cualquier dependencia municipal por cualquier persona física o moral que lo solicite y/o cuando la autoridad lo dicte conveniente. Los derechos se cobrarán de 3 a 5 veces el valor diario de la Unidad de Medida y Actualización.
 
 (REUBICADO, ANTES CAPÍTULO SÉPTIMO, B.O. 15 DE FEBRERO DE 2006)
 
@@ -2287,15 +2309,15 @@ Sujeto. son sujetos de este derecho las personas físicas o morales tenedoras o 
 
 Base. la base del pago de estos derechos será:
 
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
 
-En la vía pública anunciando cualquier tipo de producto 1.3 % del valor diario de la Unidad de Medida y Actualización por metro cuadrado.
+En la vía pública anunciando cualquier tipo de producto 1.7% del valor diario de la Unidad de Medida y Actualización por metro cuadrado.
 
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 110.
 
-Los anuncios semifijos o eventuales pagarán este derecho al equivalente a un 2% del valor diario de la Unidad de Medida y Actualización por metro cuadrado.
+los anuncios semifijos o eventuales soportadas (sic) en estructura diseñada especialmente para este fin, en la vía pública o visible desde la vía pública pagarán este derecho al equivalente a un 3% del valor diario de la Unidad de Medida y Actualización por metro cuadrado.
 
 (REUBICADO, B.O. 15 DE FEBRERO DE 2006)
 
@@ -2317,19 +2339,75 @@ b). Los que deriven de las entidades gubernamentales en sus funciones de derecho
 
 c). El anuncio principal del establecimiento destinado a anunciar su propio negocio y productos que expendan, a excepción de bebidas alcohólicas y/o cigarros.
 
+> <small>(ADICIONADO CON LA SECCIÓN Y LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+### CAPITULO SEXTO BIS. OTROS DERECHOS
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+#### SECCIÓN ÚNICA. DEL SANEAMIENTO AMBIENTAL
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 112-A.
+
+Los derechos establecidos en esta sección se causarán por la realización de acciones en materia de saneamiento ambiental que se lleven a cabo en el Municipio de Comondú.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 112
+
+B Quedan obligadas al pago del derecho de saneamiento ambiental:
+
+a) Las personas que contraten servicios de hospedaje derivado de la ocupación de cuartos o habitaciones de hoteles, posadas, casas de huéspedes, hostales y moteles, así como de aquellos que se lleven a cabo en casas, departamentos enteros, habitaciones privadas o compartidas, casas rodantes y campamentos, independientemente de la forma en que se contraten, incluyendo las que se realicen a través de plataformas o aplicaciones tecnológicas o informáticas;
+
+b) Las personas clientes que celebren contratos de arrendamiento de todo tipo de vehículos automotores dentro del Municipio de Comondú; y
+
+c) Las personas clientes que celebren contratos de arrendamiento de embarcaciones marítimas recreativas y/o deportivas dentro del Municipio de Comondú.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 112
+
+C El importe de este derecho deberá ser retenido por los propietarios, poseedores, administradores o arrendadores, según corresponda de los establecimientos o inmuebles en los que se contraten u otorguen los servicios a que hace referencia el artículo 112-B de la presente ley, quienes deberán de proporcionar mensualmente, mediante las formas aprobadas por la Tesorería Municipal a través de los medios electrónicos dispuestos por ésta, la información relativa a la recaudación que lleven a cabo a más tardar el día diecisiete del mes inmediato posterior al que corresponda dicha información, acompañado del entero del derecho correspondiente.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 112-D.
+
+Los ingresos que por concepto de este derecho se recauden, serán transferidos directamente por la Tesorería Municipal al patrimonio del Fideicomiso Público municipal que al efecto se constituya, teniendo este fideicomiso la obligación de administrarlos y aplicarlos conforme al destino previsto en esta sección.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+###### Articulo 112-E.
+
+Con la recaudación del derecho de saneamiento ambiental se cubrirán los costos del cumplimiento de las funciones que se realizan y la prestación de los servicios de que disfruta toda persona en el Municipio, a fin de que el Ayuntamiento establezca políticas públicas y lleve a cabo acciones para el desarrollo sustentable, la preservación y restauración del equilibrio ecológico y la protección ambiental, a través de la ejecución de obras relacionadas a la mejora del espacio público, la conservación y mantenimientos de playas; el tratamiento integral de residuos sólidos urbanos, obras relativas al alumbrado público que garanticen la mitigación de emisiones de Gases de Efecto Invernadero y la eficiencia energética; el tratamiento de aguas residuales y la potabilización de agua para consumo humano; así como la mejora de la movilidad en el traslado de las personas y la disminución de las emisiones contaminantes que se encuentran en el entorno del territorio municipal.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 112-F.
+
+El pago del derecho de saneamiento ambiental por personas usuarias de cuartos y/o habitaciones de hoteles, posadas o casas de huéspedes, hostales y moteles, se causará a razón del 70% del valor diario de la Unidad de Medida y Actualización por cuarto y/o habitación ocupada por noche.
+
+Asimismo, el pago del derecho de saneamiento ambiental que se cause por los servicios de hospedaje a través de plataformas digitales y similares será de 2 veces el valor diario de la Unidad de Medida y Actualización por cuarto, casa o departamento ocupado.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 112-G.
+
+Están obligados a pagar el derecho de saneamiento ambiental todas las personas que se ubiquen en el supuesto establecido en el inciso b) del artículo 112-B mismo que se causará a razón del 50% del valor diario de la Unidad de Medida y Actualización por día de renta.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 112-H.
+
+Están obligados a pagar el derecho de saneamiento ambiental todas las personas que se ubiquen en el supuesto establecido en el inciso c) del artículo 112-B mismo que se causará a razón del 50% del valor diario de la Unidad de Medida y Actualización por evento de renta de un día calendario.
+
 (REUBICADO [N. DE E. ANTES CAPÍTULO OCTAVO], B.O. 15 DE FEBRERO DE 2006)
 
 ### CAPÍTULO SÉPTIMO. PRODUCTOS DIVERSOS
 
 (REUBICADO, B.O. 15 DE FEBRERO DE 2006)
-
-#### SECCIÓN SEGUNDA. SERVICIO DE GRÚA Y ALMACENAJE DE VEHICULOS EN CORRALONES MUNICIPALES
-
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 88], B.O. 15 DE FEBRERO DE 2006)</small>
-
-### CAPÍTULO PRIMERO. RECARGOS
-
-(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 113.
 
@@ -2341,7 +2419,9 @@ Productos diversos son todos aquellos productos no considerados en los términos
 
 (REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
-### CAPÍTULO SEGUNDO. MULTAS
+### CAPÍTULO PRIMERO. RECARGOS
+
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 114.
 
@@ -2355,9 +2435,7 @@ El plazo para su cómputo no comenzará a correr si el causante no conoce por ra
 
 (REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
-### CAPÍTULO TERCERO. APROVECHAMIENTOS DIVERSOS
-
-(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
+### CAPÍTULO SEGUNDO. MULTAS
 
 ###### Artículo 116.
 
@@ -2725,11 +2803,7 @@ PROPIEDAD O BAJO SU CUSTODIA. DE 11 A 20
 
 (REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
-### CAPITULO CUARTO. REZAGOS
-
-(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
-
-Artículo118. Son rezagos los adeudos por concepto de impuestos, derechos y productos que pasen a ejercicios fiscales posteriores, a pesar de que debió hacerse su pago en aquel en que se causaron, los rezagos serán cubiertos en las oficinas en que debieron pagarse los impuestos, derechos y productos de los cuales provengan. Dichos adeudos prescribirían en un plazo de cinco años en los términos de los artículos 41, 42 y 43 del Código Fiscal para el Estado y Municipios de Baja California Sur.
+### CAPÍTULO TERCERO. APROVECHAMIENTOS DIVERSOS
 
 (REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
@@ -2739,11 +2813,15 @@ Los aprovechamientos no especificados en este titulo se recaudaran con las leyes
 
 (REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
-### CAPÍTULO QUINTO. PARTICIPACIONES
+### CAPITULO CUARTO. REZAGOS
 
 (REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
-### CAPÍTULO ÚNICO. FONDOS DE APORTACIONES FEDERALES
+Artículo118. Son rezagos los adeudos por concepto de impuestos, derechos y productos que pasen a ejercicios fiscales posteriores, a pesar de que debió hacerse su pago en aquel en que se causaron, los rezagos serán cubiertos en las oficinas en que debieron pagarse los impuestos, derechos y productos de los cuales provengan. Dichos adeudos prescribirían en un plazo de cinco años en los términos de los artículos 41, 42 y 43 del Código Fiscal para el Estado y Municipios de Baja California Sur.
+
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
+
+### CAPÍTULO QUINTO. PARTICIPACIONES
 
 (REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
@@ -2783,7 +2861,7 @@ V. Otros no especificados.
 
 ## TÍTULO QUINTO. (REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO. FONDOS DE APORTACIONES FEDERALES
 
 (REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
@@ -2797,7 +2875,9 @@ Las aportaciones federales para fines específicos que a través de los diferent
 
 (REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
-### CAPÍTULO ÚNICO. (REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 122.
 
@@ -2815,17 +2895,17 @@ Artículo124. La ocultación de fuentes gravadas por esta ley, que motiven omisi
 
 Las personas que se dediquen a la venta de bienes raíces, notarios públicos, jueces, fraccionadores y en general, quienes directa o indirectamente intervengan en la celebración de contratos o convenios preparatorios o definitivos que impliquen la transmisión de la propiedad de inmuebles, deberán manifestarlo a la autoridad municipal en un plazo de treinta días, de no hacerlo, sin perjuicio de ser solidarios responsables de pago del impuesto y de sus recargos, se les impondrá una sanción hasta de 5 veces el importe de los mismos.
 
-(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 125.
 
-Todos los propietarios o explotadores de giros o actividades comerciales, industriales y de servicios, deberán inscribirse en el padrón municipal, siempre que llenen los requisitos de registro que establecen las leyes y reglamentos respectivos y obtener antes de iniciar sus actividades la licencia correspondiente, misma que deberá obtenerse dentro de los 30 días siguientes a la fecha de inicio y la revalidación anual deberá realizarse dentro del mes de enero de cada año.
+Todos los propietarios o explotadores de giros o actividades comerciales, industriales y de servicios, deberán inscribirse en el padrón municipal, siempre que llenen los requisitos de registro que establecen las leyes y reglamentos respectivos y obtener antes de iniciar sus actividades la licencia correspondiente para cada actividad comercial o giro comercial, misma que deberá obtenerse dentro de los 30 días siguientes a la fecha de inicio y la revalidación anual deberá realizarse dentro del mes de enero de cada año.
 
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 126.
 
-Quien incumpla lo dispuesto por el artículo 125 será acreedor a una sanción de 3 a 50 veces el valor diario de la Unidad de Medida y Actualización.
+Quien incumpla lo dispuesto por el artículo 125 será acreedor a una sanción de 10 a 80 veces el valor diario de la Unidad de Medida y Actualización.
 
 (REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
@@ -2908,6 +2988,8 @@ El tesorero municipal tendrá todas las facultades para requerir a los contribuy
 ## TÍTULO SÉPTIMO. DE LA REDUCCION PARA PENSIONADOS, JUBILADOS, DISCAPACITADOS Y SENECTOS
 
 (REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
+
+### CAPÍTULO ÚNICO. (REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 138.
 
@@ -3088,3 +3170,35 @@ Artículo Segundo.- Se le concede el término de 90 días naturales a la Junta d
 Hasta en tanto la Junta de Gobierno del Organismo Operador del Sistema de Agua Potable, Alcantarillado y Saneamiento para el Municipio de Comondú no determine o actualice las cuotas y tarifas que se causarán y enterarán por la prestación de los servicios de agua potable, drenaje, alcantarillado, saneamiento, tratamiento y disposición de aguas residuales en términos de la Ley de Aguas del Estado de Baja California Sur, se seguirán aplicando las establecidas antes de la entrada en vigor del presente Decreto.
 
 Artículo Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3255 SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE COMONDÚ DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Articulo Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+B.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3263 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE MULEGÉ, COMONDÚ, LA PAZ Y LORETO, TODAS DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día 01 de enero del año 2026, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos de Mulegé, Comondú, La Paz y Loreto, a través de las personas titulares de la presidencia municipal respectivamente deberán llevar a cabo la conformación de los correspondientes Fideicomisos Municipales de Saneamiento Ambiental a más tardar en el mes de enero del año 2026.
+
+De igual forma, las personas titulares de las tesorerías municipales de cada ayuntamiento deberán poner a disposición de los obligados a retener y enterar, las formas autorizadas por estas a través de los medios electrónicos dispuestos para el entero del Derecho de saneamiento Ambiental, a más tardar en el mes de enero del año 2026.
+
+###### ARTÍCULO TERCERO.
+
+El Comité Técnico de cada Fideicomiso de saneamiento ambiental deberá presentar ante el Congreso del Estado un informe trimestral sobre la administración y aplicación de los recursos transferidos por la Tesorería Municipal, a más tardar dentro de los treinta días naturales siguientes al trimestre concluido, mismo que será turnado a las comisiones permanentes de Vigilancia de la Auditoria Superior del Estado y de Asuntos fiscales y Administrativos.
+
+El ejercicio del gasto llevado a cabo por cada uno de los fideicomisos municipales de saneamiento ambiental será revisado y fiscalizado por la Auditoría Superior del Estado, conforme a las reglas aplicables a los entes públicos sujetos a fiscalización.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente decreto.
