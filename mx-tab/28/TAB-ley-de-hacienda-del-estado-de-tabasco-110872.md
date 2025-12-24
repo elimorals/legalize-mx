@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-del-estado-de-tabasco-110872"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-30"
-last_updated: "2025-09-19"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DE HACIENDA DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de diciembre de 2015.
 
@@ -1149,7 +1149,7 @@ Los ayuntamientos tendrán la obligación de proporcionar a la Secretaría, de f
 
 #### SECCIÓN PRIMERA. SERVICIOS LEGALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 #### SECCIÓN SEGUNDA. REGISTRO CIVIL
 
@@ -1159,7 +1159,9 @@ Los ayuntamientos tendrán la obligación de proporcionar a la Secretaría, de f
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN TERCERA. PERIÓDICO OFICIAL DEL ESTADO
+#### SECCIÓN TERCERA. SERVICIOS NOTARIALES
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 63.
 
@@ -1179,9 +1181,9 @@ Los Poderes del Estado, sus Dependencias, Órganos Administrativos Desconcentrad
 
 El recibo oficial de pago para efectuar los diversos trámites que contempla la presente Ley, tendrá una vigencia de un año a partir de su expedición.
 
-#### SECCIÓN CUARTA. REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO
+#### SECCIÓN CUARTA. REGISTRO PÚBLICO DE LA PROPIEDAD Y EL COMERCIO
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 67.
 
@@ -1317,7 +1319,9 @@ Las mismas cuotas y tarifas serán aplicables por la expedición de los document
 
 ### CAPÍTULO TERCERO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA Y SUS ÓRGANOS DESCONCENTRADOS
 
-#### SECCIÓN PRIMERA. SEGURIDAD PÚBLICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+#### SECCIÓN PRIMERA. SEGURIDAD PRIVADA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
@@ -1325,103 +1329,29 @@ Las mismas cuotas y tarifas serán aplicables por la expedición de los document
 
 Por los servicios legales prestados por la Secretaría de Gobierno, se causarán y pagarán los derechos siguientes:
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
-
-I. Por la expedición de Fiat de notario de número,
-
-adscrito o sustituto. 90.00 UMA
-
-II. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2021)
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
-
-III. Por la autorización de cada libro para escrituras
-
-y actas en el protocolo de los notarios. Asimismo,
-
-por cada libro para el registro de certificaciones. 10.0 UMA
-
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
-
-IV. Por la autorización de cada 150 folios o 300
-
-números para la integración o uso de protocolo abierto. 10.0 UMA
-
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
-
-V. Por el registro de sello y firma que
-
-utiliza el notario público. 9.0 UMA
-
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
-
-VI. Por la legalización de exhortos provenientes
+I. Por la legalización de exhortos provenientes
 
 de autoridad administrativa o judicial. 3.0 UMA
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
-
-VII. Por la presentación de examen de suficiencia
-
-sobre el ejercicio notarial. 50.0 UMA
-
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
-
-VIII. Cada legalización de firmas autógrafas
-
-del Ejecutivo del Estado. 3.0 UMA
-
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
-
-IX. La legalización de firmas autógrafas en la
+II. La legalización de firmas autógrafas en la
 
 documentación de cada alumno de estudios
 
 de bachillerato o equivalentes y profesionales. 2.0 UMA
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
+III. Por adhesión de apostilla, por cada documento. 4.0 UMA
 
-X. Por adhesión de apostilla, por cada documento. 4.0 UMA
+IV. Por publicaciones en el Periódico Oficial del Estado:
 
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 21 DE DICIEMBRE DE 2021)</small>
+a) Por publicar 3 veces los Edictos. 6.0 UMA
 
-XI. Por inserción de anuncios, circulares y
+b) Por cualquier otra publicación innominada. 3.0 UMA
 
-publicaciones en el Periódico Oficial del Estado:
+V. Certificación de registro de firma autógrafa
 
-a) Por suscripción mensual al Periódico Oficial. 3.0 UMA
+de autoridad educativa. 4.0 UMA
 
-b) Pago por suscripción anual al Periódico Oficial. 33.62 UMA
-
-c) Por cada ejemplar del Periódico Oficial. 0.25 UMA
-
-d) Por cada ejemplar atrasado del Periódico Oficial. 1.0 UMA
-
-e) Por publicar en el Periódico Oficial los
-
-avisos de cambio de denominación, domicilio,
-
-actividad y cancelaciones. 3.0 UMA
-
-f) Por publicar 3 veces en el Periódico Oficial
-
-los edictos. 6.0 UMA
-
-g) Por cada publicación adicional. 3.0 UMA
-
-h) Por publicar las sentencias de juicios civiles,
-
-cédulas hipotecarias, anuncios de remate
-
-y comerciales, por cada inserción. 3.0 UMA
-
-i) Por cualquier otra publicación de las que
-
-no estén especificadas, por cada inserción,
-
-hasta 100 palabras o fracción. 3.0 UMA
-
-La Secretaría con motivo de programas colectivos y específicos de beneficio social que emprenda el Gobierno del Estado a solicitud de la dependencia o entidad que preste el servicio de que se trate, podrá exentar o en su caso reducir el pago, del derecho establecido en la fracción IX del presente artículo.
+La Secretaría podrá exentar o en su caso reducir el pago del derecho establecido en la fracción II del presente artículo, a solicitud de la dependencia o entidad que preste el servicio de que se trate con motivo de programas colectivos y específicos de beneficio social que emprenda el Gobierno del Estado.
 
 #### SECCIÓN SEGUNDA. DIRECCIÓN GENERAL DE LA POLICÍA ESTATAL DE CAMINOS
 
@@ -1449,11 +1379,7 @@ III. Por certificación de actas de adopción. 5.0 UMA
 
 IV. Por certificación de actas de reconocimiento. 2.0 UMA
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
-
-V. Por la expedición de constancia de existencia o
-
-inexistencia de registro de nacimiento. 1.0 UMA
+V. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2025)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
 
@@ -1477,11 +1403,7 @@ matrimonio; 2.0 UMA
 
 VIII. Por certificación de acta de divorcio. 5.0 UMA
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
-
-IX. Por expedición de constancia de existencia o
-
-inexistencia de matrimonio. 1.0 UMA
+IX. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2025)
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
@@ -1521,11 +1443,11 @@ autoridades.
 
 > <small>(DEROGADO SEGUNDO, TERCER Y CUARTO PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-La Secretaría con motivo de programas colectivos y específicos de beneficio social que emprenda el Gobierno del Estado a solicitud de la dependencia que preste el servicio de que se trate, podrá exentar o en su caso reducir el pago, de los derechos establecidos en las fracciones V y VI del presente artículo.
+La Secretaría podrá exentar o en su caso reducir el pago del derecho establecido en la fracción VI del presente artículo, a solicitud de la dependencia que preste el servicio de que se trate con motivo de programas colectivos y específicos de beneficio social que emprenda el Gobierno del Estado.
 
-> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE DICIEMBRE DE 2021)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 #### SECCIÓN TERCERA. POLICIA AUXILIAR Y LA BANCARIA, INDUSTRIAL Y COMERCIAL
 
@@ -1533,9 +1455,33 @@ La Secretaría con motivo de programas colectivos y específicos de beneficio so
 
 ###### Artículo 73.
 
-(DEROGADO, P.O. 21 DE DICIEMBRE DE 2021)
+Por los servicios notariales prestados por la Secretaría de Gobierno, se causarán y pagarán los derechos siguientes:
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE DICIEMBRE DE 2019)</small>
+I. Por la expedición de Fiat de notario de número,
+
+adscrito o sustituto. 90.0 UMA
+
+II. Por la autorización de cada libro para escrituras
+
+y actas en el protocolo de los notarios. Asimismo,
+
+por cada libro para el registro de certificaciones. 10.0 UMA
+
+III. Por la autorización de cada 150 folios o 300
+
+números para la integración o uso de protocolo
+
+abierto. 10.0 UMA
+
+IV. Por el registro de sello y firma que utiliza el
+
+notario público. 9.0 UMA
+
+V. Por la presentación de examen de suficiencia
+
+sobre el ejercicio notarial. 50.0 UMA
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 #### SECCIÓN PRIMERA. CATASTRO
 
@@ -1543,23 +1489,71 @@ La Secretaría con motivo de programas colectivos y específicos de beneficio so
 
 ###### Artículo 73-A.
 
-Por los servicios prestados por la Dirección General del Registro Público de la Propiedad y del Comercio, relacionados con la aplicación de la Ley Registral del Estado de Tabasco, se causarán y pagarán previamente a la prestación del servicio los derechos siguientes:
+Por los servicios prestados por la Dirección General del Registro Público de la Propiedad y el Comercio, relacionados con la aplicación de la Ley Registral del Estado de Tabasco, se causarán y pagarán previamente a la prestación del servicio los derechos siguientes:
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 I. Por la inscripción de toda traslación de dominio de bienes muebles, inmuebles o derechos reales:
 
-a) Cuando se trate de viviendas de
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-interés social o popular, los lotes o
+a) Tratándose de lotes o predios destinados a la
 
-predios destinados a la edificación
+edificación de vivienda, de conformidad con el artículo
 
-de vivienda, de conformidad con el
+3 de la presente Ley. 100.0 UMA
 
-artículo 3 de la presente Ley. 100.0 UMA
+> <small>(ADICIONADO [N. DE E. CON SUS SUBINCISOS], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Para los efectos de este inciso se podrán otorgar
+
+los siguientes beneficios:
+
+(a) Cuando se trate de Vivienda de interés social,
+
+se cobrará el 25 por ciento de esta contribución.
+
+(b) Cuando se trate de Vivienda popular, se cobrará
+
+el 50 por ciento de esta contribución.
 
 b) Tratándose de bienes inmuebles
 
 no comprendidos en el inciso anterior. 180.0 UMA
+
+> <small>(ADICIONADO [N. DE E. CON SUS SUBINCISOS], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Los derechos establecidos en el presente inciso,
+
+los contribuyentes que adquieran la propiedad de
+
+una vivienda o predio sin edificar, pudiendo pagar
+
+los derechos referidos, podrán utilizar de manera
+
+opcional, la tasa del 1 por ciento, calculada sobre
+
+la base gravable que resulte mayor de los
+
+siguientes valores:
+
+1) El precio o valor del inmueble señalado en el
+
+acto traslativo de dominio y sus accesorios,
+
+independientemente del nombre con que se
+
+designe; o
+
+2) El valor del inmueble determinado mediante el
+
+avalúo que practique perito valuador autorizado
+
+ante el Registro Estatal de Valuadores del Estado
+
+de Tabasco; o
+
+3) El valor catastral.
 
 La misma cuota se pagará cuando provenga de
 
@@ -1599,6 +1593,50 @@ g) El registro de prescripción positiva. 11.0 UMA
 
 h) Las donaciones. 180.0 UMA
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+No se causarán los derechos a que se refiere el
+
+presente inciso cuando se trate de los actos a que
+
+se refiere el artículo 93 fracción XXIII incisos a) y b)
+
+de la Ley del Impuesto Sobre la Renta.
+
+> <small>(ADICIONADO [N. DE E. CON SUS SUBINCISOS], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Tratándose de los derechos establecidos en el
+
+presente inciso, los contribuyentes que adquieran
+
+la propiedad de una vivienda o predio sin edificar,
+
+pudiendo pagar los derechos referidos, podrán
+
+utilizar de manera opcional, la tasa del 1 por ciento,
+
+calculada sobre la base gravable que resulte mayor
+
+de los siguientes valores:
+
+1) El precio o valor del inmueble señalado en el
+
+acto traslativo de dominio y sus accesorios,
+
+independientemente del nombre con que se
+
+designe; o
+
+2) El valor del inmueble determinado mediante el
+
+avalúo que practique perito valuador autorizado
+
+ante el Registro Estatal de Valuadores del Estado
+
+de Tabasco; o
+
+3) El valor catastral.
+
 i) La disolución de mancomunidad, por
 
 cada nuevo predio inscrito. 3.0 UMA
@@ -1623,7 +1661,11 @@ venta y reserva de dominio de vehículos
 
 automotores. 24.0 UMA
 
-m) Por cada convenio modificatorio de fideicomiso. 12.0 UMA
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+m) Por cada convenio modificatorio de fideicomiso y/o
+
+aportación de bienes al fideicomiso, por cada uno. 12.0 UMA
 
 > <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 21 DE DICIEMBRE DE 2021)</small>
 
@@ -1632,6 +1674,20 @@ II. Inscripción de instrumentos hipotecarios:
 a) Por la inscripción de documentos hipotecarios
 
 entre particulares. 100.0 UMA
+
+> <small>(ADICIONADO [N. DE E. CON SUS SUBINCISOS], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Para los efectos de este inciso se podrán otorgar
+
+los siguientes beneficios:
+
+(a) Cuando se trate de Vivienda de interés social,
+
+se cobrará el 25 por ciento de esta contribución.
+
+(b) Cuando se trate de Vivienda popular, se cobrará
+
+el 50 por ciento de esta contribución.
 
 b) Las inscripciones de los créditos hipotecarios,
 
@@ -1650,6 +1706,8 @@ mencionados en el inciso a) y b), por cada uno. 6.0 UMA
 d) La prórroga de hipoteca, si no aumenta el capital. 3.0 UMA
 
 e) Ampliación de hipoteca, por su registro. 62.0 UMA
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 III. Inscripción de embargo:
 
@@ -1675,27 +1733,61 @@ providencias precautorias. 12.0 UMA
 
 c) Inscripción de Fianza Judicial. 32.0 UMA
 
-d) Por la cancelación de los actos de
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-los incisos a), b) y c). 11.0 UMA
+d) Reinscripción de Embargos por motivo de
+
+vigencia. 12.0 UMA
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+e) Por la cancelación de los actos de los incisos a),
+
+b), c) y d). 11.0 UMA
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 IV. Inscripción de prenda. 21.0 UMA
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 V. Inscripción de testamentos y/o
 
 depósito de testamento ológrafo. 2.0 UMA
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+a) Por el retiro de testamento ológrafo. 1.0 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+b) Por la búsqueda de testamento y/o testamento
+
+ológrafo en el Registro Público de la Propiedad por
+
+cada extinto. 5.0 UMA
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 21 DE DICIEMBRE DE 2019)</small>
+
 VI. Inscripción de declaración de herederos:
 
-a) Declaración de herederos y
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-nombramiento de albacea. 6.0 UMA
+a) Junta de herederos y nombramiento de albacea
+
+testamentaria e intestamentaria por cada una. 6.0 UMA
 
 b) Cambio de albacea por cada acto. 6.0 UMA
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-c) Inscripción del acta de defunción. 6.0 UMA
+c) Inscripción del Acta de Defunción por cada extinto. 6.0 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+d) Por la cancelación de los actos señalados en los
+
+incisos a), b) y c) por cada uno. 3.0 UMA
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
@@ -1707,17 +1799,23 @@ así como por su cancelación y/o extinción, por cada
 
 persona. 6.0 UMA
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
 VIII. Por la inscripción de escrituras o
 
 documentos que contengan contratos
 
 conyugales o su disolución. 62.0 UMA
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
 IX. Inscripción de transacciones o sentencias
 
 que afecten el dominio de los bienes inmuebles
 
 o derechos reales. 62.0 UMA
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 X. Inscripción de resolución judicial de
 
@@ -1737,17 +1835,35 @@ testamentaria e intestamentaria de bienes hereditarios
 
 o la protocolización de los mismos. 62.0 UMA
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 21 DE DICIEMBRE DE 2019)</small>
+
 XII. Por el registro de:
 
 a) Obra nueva. 32.0 UMA
 
 b) Ampliación de obra 16.0 UMA
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+c) Cancelación de obra. 5.0 UMA
+
+> <small>(ADICIONADO [N. DE E. CON SUS SUBINCISOS], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Para los efectos de esta fracción se podrán otorgar los siguientes beneficios:
+
+(a) Cuando se trate de Vivienda de interés social, se cobrará el 25 por ciento de esta contribución.
+
+(b) Cuando se trate de Vivienda popular, se cobrará el 50 por ciento de esta contribución.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
 XIII. Por el registro de escrituras de
 
 protocolización de fraccionamiento
 
 por cada lote. 5.0 UMA
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 XIV. Inscripciones mercantiles:
 
@@ -1789,11 +1905,17 @@ y actas de asambleas y balances de sociedades
 
 mercantiles, por cada acto. 11.0 UMA
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
 XV. Inscripción de cédula hipotecaria. 12.0 UMA
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 XVI. Certificado o constancia de no
 
 propiedad registrada. 3.0 UMA
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 XVII. Por la expedición de:
 
@@ -1807,6 +1929,8 @@ de gravamen, con efectos de aviso
 
 preventivo por predio. 6.0 UMA
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 21 DE DICIEMBRE DE 2019)</small>
+
 XVIII. Certificado de Historia Registral o traslativa de dominio:
 
 a) Hasta 5 años. 7.0 UMA
@@ -1815,17 +1939,27 @@ b) De 6 a 10 años. 10.0 UMA
 
 c) A partir de 11 años. 15.0 UMA
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
 XIX. Por la búsqueda de folio real por
 
 cada propiedad a nombre de persona
 
 física o moral. 1.0 UMA
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
 XX. Por la servidumbre. 12.0 UMA
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 XXI. Por la ocupación superficial. 12.0 UMA
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
 XXII. Por la fusión de predios. 12.0 UMA
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 XXIII. Por la inscripción de capitulaciones
 
@@ -1833,23 +1967,39 @@ matrimoniales, patrimonio de familia y actas
 
 de matrimonio. 12.0 UMA
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
 XXIV. Por el contrato de arrendamiento. 12.0 UMA
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 XXV. Por la cesión de derechos que no
 
 implique traslado de dominio. 12.0 UMA
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
 XXVI. División de hipoteca. 15.0 UMA
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 XXVII. Contrato de comodato. 12.0 UMA
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
 XXVIII. Recisión de contrato. 12.0 UMA
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
 XXIX. Contrato de derecho de superficie. 12.0 UMA
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 XXX. Cambio de propietario por modificación
 
 de denominación o régimen jurídico. 12.0 UMA
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 XXXI. Por las cancelaciones de los derechos
 
@@ -1857,11 +2007,15 @@ de superficie, servidumbres, ocupación superficial
 
 y contrato de arrendamiento. 12.0 UMA
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
 XXXII. Por la inscripción de convenios
 
 judiciales que no impliquen traslado de
 
 dominio. 12.0 UMA
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 XXXIII. Por la inscripción de escrituras de
 
@@ -1903,65 +2057,79 @@ y/o certificados expedidos a través de la plataforma
 
 notarial por cada uno. 3.0 UMA
 
-XXXIX. Por cada uno de los documentos que deben
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-inscribirse en la Dirección General del Registro
+XXXIX. Por la alerta registral por cada predio:
 
-Público de la Propiedad y del Comercio que no se
+a) Por seis meses. 6.0 UMA
 
-encuentren comprendidos en este artículo. 11.1 UMA
+b) Por un año. 10.0 UMA
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-Cuando se trate de viviendas de interés social o popular, se cobrará en el primer caso el 25 por ciento; y en el segundo, el 50 por ciento del monto total de las contribuciones señaladas en las fracciones I inciso a), II inciso a) y XII de este artículo.
+XL. Por el uso de la aplicación denominada Plataforma Notarial:
 
-No se causarán los derechos a que se refiere la fracción I, inciso h) de este artículo, cuando se trate de los actos a que se refiere el artículo 93 fracción XXIII incisos a) y b) de la Ley del Impuesto Sobre la Renta.
+a) Por seis meses. 30.0 UMA
 
-Tratándose de los derechos establecidos en los incisos b) y h) de la fracción I de este artículo, los contribuyentes que adquieran la propiedad de una vivienda o predio sin edificar, pudiendo pagar los derechos referidos, podrán utilizar de manera opcional, la tasa del 1 por ciento, calculada sobre la base gravable que resulte mayor de los siguientes valores:
+a) Por un año. 45.0 UMA
 
-1) El precio o valor del inmueble señalado en el acto traslativo de dominio y sus accesorios, independientemente del nombre con que se designe; o
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+XLI. Por cada uno de los documentos que deben
 
-2) El valor del inmueble determinado mediante el avalúo que practique perito valuador autorizado ante el Registro Estatal de Valuadores del Estado de Tabasco; o
+inscribirse en la Dirección General de Registro
 
-3) El valor catastral.
+Público de la Propiedad y el Comercio que no se
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+encuentren comprendidos en este artículo. 12.0 UMA
+
+> <small>(DEROGADO ANTEPENÚLTIMO PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 73-B.
 
-Los servidores públicos encargados de las oficinas de la Dirección General del Registro Público de la Propiedad y del Comercio, expedirán previo las formalidades de la ley, las copias certificadas de los documentos que se encuentren en sus archivos, así como de los testimonios librados en relación a lo siguiente:
+Los servidores públicos encargados de las oficinas de la Dirección General del Registro Público de la Propiedad y el Comercio, expedirán previo las formalidades de la ley, las copias certificadas de los documentos que se encuentren en sus archivos, así como de los testimonios librados en relación a lo siguiente:
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 I. Hasta 20 hojas. 5.0 UMA
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
 II. De 21 a 50 hojas. 8.0 UMA
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 III. De 51 en adelante. 11.0 UMA
 
-Cuando se trate de viviendas de interés social o popular, se cobrará en el primer caso el 25 por ciento; y en el segundo, el 50 por ciento del monto total de las contribuciones señaladas en este artículo.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 73-C.
 
 (DEROGADO, P.O. 21 DE DICIEMBRE DE 2021)
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 73-D.
 
-Los magistrados, jueces, notarios o corredores y demás funcionarios que expidan testimonios o actos que deban ser registrados en la Dirección General del Registro Público de la Propiedad y del Comercio, deberán cerciorarse de que previo a la prestación del servicio existe constancia de exención o pago de los derechos correspondientes, de lo contrario serán responsables solidarios en términos del Código Fiscal del Estado, y por ende estarán sujetos a las sanciones que correspondan.
+Los magistrados, jueces, notarios o corredores y demás funcionarios que expidan testimonios o actos que deban ser registrados en la Dirección General del Registro Público de la Propiedad y el Comercio, deberán cerciorarse de que previo a la prestación del servicio existe constancia de exención o pago de los derechos correspondientes, de lo contrario serán responsables solidarios en términos del Código Fiscal del Estado, y por ende estarán sujetos a las sanciones que correspondan.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 73-E.
 
-La Dirección General del Registro Público de la Propiedad y del Comercio para efectos de acreditar los actos o trámites relacionados con viviendas de interés social o popular, podrá solicitar al interesado el avalúo correspondiente, cuando lo estime necesario.
+La Dirección General del Registro Público de la Propiedad y el Comercio para efectos de acreditar los actos o trámites relacionados con viviendas de interés social o popular, podrá solicitar al interesado el avalúo correspondiente, cuando lo estime necesario.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 73-F.
 
-Por cada escritura o documento hecho o elaborado en otras Entidades Federativas y que por su naturaleza deba inscribirse en la Dirección General del Registro Público de la Propiedad y del Comercio se deberá pagar un 25 por ciento más sobre el importe de los derechos que genera la inscripción en dicha Dirección General.
+Por cada escritura o documento hecho o elaborado en otras Entidades Federativas y que por su naturaleza deba inscribirse en la Dirección General el Registro Público de la Propiedad y el Comercio se deberá pagar un 25 por ciento más sobre el importe de los derechos que genera la inscripción en dicha Dirección General.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
@@ -2055,7 +2223,23 @@ X. Por cambio o aumento de modalidad de prestación
 
 del servicio de seguridad privada. 60.0 UMA
 
-Las inscripciones al Registro de los Servicios de Seguridad Privada y de Personal a que se refiere esta fracción, se cobrarán sólo la primera vez que sean asentadas.
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XI. Por el registro e inspección de vehículo para
+
+la prestación de los servicios de seguridad
+
+privada. 1.0 UMA
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XII. Por el registro y verificación de perros de
+
+seguridad (Por cada canino). 2.0 UMA
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Las inscripciones al Registro de los Servicios de Seguridad Privada y de Personal a que se refiere este artículo, se cobrarán sólo la primera vez que sean asentadas.
 
 #### SECCIÓN TERCERA. REGULACIÓN DE CASAS DE EMPEÑO
 
@@ -2659,6 +2843,18 @@ XXIII. Rectificación de Plano Catastral de 51 Coordenadas UTM en adelante. 3.0 
 
 XXIV. Expedición de Folio para realizar plano cartográfico para trámites catastrales (Predio Rústico y Predio Urbano). 1.0 UMA
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XXV. Por evaluación para pertenecer al Padrón de
+
+Peritos Dibujantes del Estado de Tabasco. 5.0 UMA
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XXVI. Por evaluación para pertenecer al Registro
+
+de Valuadores del Estado de Tabasco. 5.0 UMA
+
 Cuando se trate de viviendas de interés social o popular, se cobrará en el primer caso el 25 por ciento; y en el segundo, el 50 por ciento del monto total de las contribuciones señaladas en las fracciones I y II del presente artículo.
 
 ###### Artículo 78-A.
@@ -3047,7 +3243,9 @@ VII. Por modificación de cada permiso de
 
 cada establecimiento. 100.0 UMA
 
-#### SECCIÓN PRIMERA. USO DE BIENES DE DOMINIO PÚBLICO
+#### SECCIÓN OCTAVA. REGISTRO ESTATAL DE GESTORES VEHICULARES
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 81.
 
@@ -3181,11 +3379,11 @@ I. Por registro, emisión de tarjeta de circulación, calcomanía y otorgamiento
 
 a) Vehículos. 15.0 UMA
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 b) Motocicletas, motocarro de 3
 
-llantas y motonetas. 3.0 UMA
+llantas y motonetas. 5.0 UMA
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
@@ -3207,15 +3405,15 @@ d) Remolque:
 
 II. Por reposición de juegos de placas, calcomanía y emisión de tarjeta de circulación:
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-a) Vehículos. 10.0 UMA
+a) Vehículos. 15.0 UMA
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 b) Motocicletas, motocarro de 3
 
-llantas y motonetas. 3.0 UMA
+llantas y motonetas. 5.0 UMA
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
@@ -3249,11 +3447,11 @@ IV. Por el refrendo anual de placa de circulación, tarjeta de circulación y ca
 
 a) Vehículos. 10.0 UMA
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 b) Motocicletas, motocarro de 3 llantas
 
-y motonetas. 3.0 UMA
+y motonetas. 5.0 UMA
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
@@ -3275,15 +3473,15 @@ d) Remolque:
 
 V. Por canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública:
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-a) Vehículos 12.0 UMA
+a) Vehículos 15.0 UMA
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 b) Motocicletas, motocarro de 3 llantas
 
-y motonetas. 3.0 UMA
+y motonetas. 5.0 UMA
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
@@ -3363,6 +3561,10 @@ m) Deterioro natural. 5.0 UMA
 
 n) Otros. 5.0 UMA
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+No se cobrarán las bajas previstas en los incisos e), f) y h), cuando se cubra el derecho previsto en la fracción II de este artículo.
+
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 VII. Por el registro y emisión de la constancia de
@@ -3389,6 +3591,28 @@ de vehículos de procedencia extranjera, por los motivos
 
 de extravío, destrucción, robo y deterioro. 15.0 UMA
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IX. Por la autorización de una prórroga de treinta días
+
+hábiles para la entrega de las placas anteriores, una vez
+
+que el contribuyente haya recibido las nuevas placas con
+
+motivo del pago del derecho previsto en la fracción V de
+
+este artículo, siempre que el titular del vehículo se
+
+encuentre registrado en el Tabasco-Buzón Fiscal. 5.0 UMA
+
+Transcurrido dicho plazo sin que el interesado entregue las
+
+placas anteriores, éste será acreedor a la sanción
+
+correspondiente, de conformidad con lo dispuesto por el
+
+Código Fiscal del Estado de Tabasco.
+
 ###### Artículo 86.
 
 De los servicios relacionados con el transporte público se causarán y pagarán los derechos siguientes:
@@ -3399,7 +3623,9 @@ I. Por registro, emisión de tarjeta de circulación, calcomanía y otorgamiento
 
 a) Vehículos. 15.0 UMA
 
-b) Motocarro de 3 llantas. 3.0 UMA
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+b) Motocarro de 3 llantas. 5.0 UMA
 
 c) Motocarro de 4 llantas y vehículos
 
@@ -3415,9 +3641,13 @@ comercio. 15.0 UMA
 
 II. Por reposición de juego de placas, calcomanía y emisión de tarjeta de circulación.
 
-a) Vehículos. 10.0 UMA
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-b) Motocarro de 3 llantas. 3.0 UMA
+a) Vehículos. 15.0 UMA
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+b) Motocarro de 3 llantas. 5.0 UMA
 
 c) Motocarro de 4 llantas y vehículos
 
@@ -3493,7 +3723,9 @@ IV. Por el refrendo anual de placa de circulación, tarjeta de circulación y ca
 
 a) Vehículo. 10.0 UMA
 
-b) Motocarro de 3 llantas. 3.0 UMA
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+b) Motocarro de 3 llantas. 5.0 UMA
 
 c) Motocarro de 4 llantas y vehículos
 
@@ -3509,9 +3741,13 @@ del comercio. 15.0 UMA
 
 V. Por canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública:
 
-a) Vehículos. 12.0 UMA
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-b) Motocarro de 3 llantas. 3.0 UMA
+a) Vehículos. 15.0 UMA
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+b) Motocarro de 3 llantas. 5.0 UMA
 
 c) Motocarro de 4 llantas y vehículos
 
@@ -3567,6 +3803,10 @@ i) Motocarro. 5.0 UMA
 
 j) Otros. 5.0 UMA
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+No se cobrarán las bajas previstas en los incisos c) y g), cuando se cubra el derecho previsto en la fracción II de este artículo.
+
 ###### Artículo 87.
 
 Por los servicios relacionados con vehículos nuevos no enajenados se causarán y pagarán los derechos siguientes:
@@ -3607,7 +3847,7 @@ la expedición de permisos para vehículos en traslado. 100.0 UMA
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-#### SECCIÓN SEGUNDA. REGISTRO DE PROVEEDORES DE BIENES MUEBLES Y SERVICIOS
+#### SECCIÓN PRIMERA. USO DE BIENES DE DOMINIO PÚBLICO
 
 ###### Artículo 88.
 
@@ -3621,9 +3861,7 @@ cumplimiento de obligaciones. 5.00 UMA
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-#### SECCIÓN PRIMERA. PROTECCIÓN AMBIENTAL, CAMBIO CLIMÁTICO Y RECURSOS NATURALES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+#### SECCIÓN SEGUNDA. REGISTRO DE PROVEEDORES DE BIENES MUEBLES Y SERVICIOS
 
 ###### Artículo 88 Bis.
 
@@ -3651,7 +3889,7 @@ X. Estacionamiento I, II y III del Parque Tabasco Dora
 
 María, por cada uno. 219.68 UMA
 
-XI. Casa de la Laguna. 219.68 UMA
+XI. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2025)
 
 XII. Zona Rodeo del Parque Tabasco Dora María. 219.68 UMA
 
@@ -3673,6 +3911,16 @@ Tabasco Dora María, por vehículo, cuando no se actualice
 
 el supuesto de la fracción X del presente artículo.
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XVII. Por el uso de estacionamiento de Plaza Juárez al público en general por vehículo, cuando se actualicen los siguientes supuestos:
+
+a) Por pensión mensual. 7.95 UMA
+
+b) Por 24 horas. 3.12 UMA
+
+c) Por hora o fracción. 0.13 UMA
+
 Para el caso de los derechos contemplados en las fracciones I a la XV del presente artículo, se sujetará a lo siguiente:
 
 a) El contribuyente adquirente del servicio deberá garantizar, con un 40 por ciento del monto del derecho que corresponda, el buen uso y cuidado de los bienes proporcionados. Dicha garantía se efectuará a través de un depósito de dinero ante la Secretaría;
@@ -3689,9 +3937,9 @@ La Secretaría, con motivo de eventos de promoción turística o cultural que em
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-#### SECCIÓN SEGUNDA. COMISIÓN ESTATAL FORESTAL
+#### SECCIÓN PRIMERA. PROTECCIÓN AMBIENTAL, CAMBIO CLIMÁTICO Y RECURSOS NATURALES
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 88 Ter.
 
@@ -3713,17 +3961,89 @@ en el Registro de Proveedores de Bienes Muebles y
 
 Servicios del Estado de Tabasco.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+#### SECCIÓN SEGUNDA. COMISIÓN ESTATAL FORESTAL
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 88 Quáter.
+
+La Secretaría de Administración y Finanzas establecerá el Registro Estatal de Gestores Vehiculares. Las personas que pretendan realizar trámites vehiculares a nombre de terceros, en los términos previstos en el artículo 20, párrafo quinto, del Código Fiscal del Estado de Tabasco, deberán estar inscritas en el Registro.
+
+Para la operación de dicho Registro, la Secretaría de Administración y Finanzas emitirá los Lineamientos del Registro Estatal de Gestores Vehiculares.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 88 Quinquies.
+
+La inscripción al Registro tendrá vigencia sólo durante el ejercicio fiscal en que se tramite, debiendo cumplir con los siguientes requisitos:
+
+a) Cubrir el pago por concepto de inscripción en el registro estatal de gestores vehiculares;
+
+b) Activar el Tabasco Buzón Fiscal;
+
+c) Presentar credencial expedida por el Instituto Nacional Electoral vigente;
+
+d) Acompañar comprobante de domicilio a su nombre o que coincida con el señalado en la credencial expedida por el Instituto Nacional Electoral vigente, con una vigencia no mayor a 3 meses de antigüedad;
+
+e) Acompañar constancia de cumplimiento de obligaciones fiscales en el Estado de Tabasco en sentido positivo, previsto en el artículo 34-Bis del Código Fiscal del Estado de Tabasco; y
+
+f) Las demás que establezcan los Lineamientos del Registro Estatal de Gestores Vehiculares.
+
+La permanencia en el registro deberá ser renovada al inicio de cada ejercicio fiscal, debiendo cubrir el pago por concepto de refrendo anual en el Registro Estatal de Gestores Vehiculares, previsto en la fracción III del artículo 88 Nonies.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 88 Sexies.
+
+Serán motivo de suspensión en el Registro Estatal de Gestores Vehiculares las siguientes causales:
+
+a) Cuando se presente documentación apócrifa, alterada, con firmas falsificadas o intenten regularizar vehículos mediante engaños o vicios en los documentos.
+
+b) Cuando se altere el orden público mediante conductas escandalosas, peleas o amenazas en las receptorías de rentas o puntos de cobro de la Secretaría de Administración y Finanzas.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 88 Septies.
+
+El procedimiento para determinar la suspensión estará regulado en los Lineamientos del Registro Estatal de Gestores Vehiculares, en el cual se deberá observar por lo menos, lo siguiente:
+
+a) Cuando la persona gestora incurra en alguno de los supuestos previstos en el artículo anterior, el receptor de rentas o responsable de la oficina recaudadora levantará un acta de hechos en donde se indiquen los motivos que dan lugar a la suspensión, misma que deberá ser firmada por el receptor de rentas o el responsable de la oficina, según sea el caso, dos testigos de la oficina recaudadora y el gestor relacionado con los hechos.
+
+En caso de negarse a firmar, se asentará tal situación en el acta, misma que será motivo suficiente para realizar la suspensión temporal del registro del gestor.
+
+b) La Dirección de Recaudación y Obligaciones, dentro del plazo de diez días hábiles siguientes a los hechos descritos en el inciso a) de este artículo, emitirá oficio dirigido al gestor vehicular involucrado, mismo que será notificado de forma electrónica, en el que se le comunicarán los hechos asentados en el acta indicada en el inciso anterior y le otorgará un plazo de diez días hábiles para desvirtuarlos contados a partir del día siguiente a la notificación.
+
+c) Transcurrido el plazo señalado para desvirtuar los hechos, la persona titular de la Dirección de Recaudación y Obligaciones tendrá quince días hábiles para emitir resolución, en la que se determinará en forma definitiva la suspensión o el levantamiento de la suspensión temporal, misma que será notificada de forma electrónica.
+
+La suspensión definitiva impedirá formar parte del Registro Estatal de Gestores Vehiculares de forma permanente.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 88 Octies.
+
+Las resoluciones que emita la autoridad fiscal derivadas del procedimiento previsto en el artículo anterior tendrán carácter de definitivas, por lo que no podrán ser impugnadas por particulares.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 88 Nonies.
+
+Por los servicios prestados por la Secretaría de Administración y Finanzas, relacionados con el Registro Estatal de Gestores Vehiculares, se causarán y pagarán los derechos siguientes:
+
+I. Por inscripción. 10.0 UMA
+
+II. Por modificación o actualización de datos. 5.0 UMA
+
+III. Refrendo anual. 5.0 UMA
+
 > <small>(DEROGADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO SEXTO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE EDUCACIÓN SUS ÓRGANOS DESCONCENTRADOS Y ORGANISMOS DESCENTRALIZADOS
 
 #### SECCIÓN PRIMERA. ORDENAMIENTO TERRITORIAL Y OBRAS PÚBLICAS
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
-
-### CAPÍTULO SEXTO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE EDUCACIÓN SUS ÓRGANOS DESCONCENTRADOS Y ORGANISMOS DESCENTRALIZADOS
-
-#### SECCIÓN SEGUNDA. CENTRAL DE MAQUINARIA DE TABASCO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 89.
 
@@ -3731,7 +4051,7 @@ Servicios del Estado de Tabasco.
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-#### SECCIÓN TERCERA. COORDINACIÓN ESTATAL PARA LA REGULARIZACIÓN DE LA TENENCIA DE LA TIERRA
+#### SECCIÓN SEGUNDA. CENTRAL DE MAQUINARIA DE TABASCO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
@@ -3751,7 +4071,7 @@ Por los servicios prestados por la Secretaría de Educación, sus órganos desco
 
 ### CAPÍTULO SÉPTIMO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE SALUD Y SUS ÓRGANOS DESCONCENTRADOS Y ORGANISMOS DESCENTRALIZADOS
 
-#### SECCIÓN CUARTA. JUNTA ESTATAL DE CAMINOS
+#### SECCIÓN TERCERA. COORDINACIÓN ESTATAL PARA LA REGULARIZACIÓN DE LA TENENCIA DE LA TIERRA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
@@ -3759,301 +4079,333 @@ Por los servicios prestados por la Secretaría de Educación, sus órganos desco
 
 Por los servicios prestados por la Secretaría de Medio Ambiente y Desarrollo Sostenible, se causarán y pagarán los derechos siguientes:
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
-
 I. Derechos por trámites en materia de impacto y riesgo ambiental:
 
-a) Por la recepción, evaluación y resolución
+a) Solicitud de evaluación y resolución de la
 
-de la manifestación de impacto ambiental,
+manifestación de impacto ambiental,
 
-modalidad general. 513.0 UMA
+modalidad general. 515.0 UMA
 
-b) Por la recepción, evaluación y resolución
+b) Solicitud de evaluación y resolución de la
 
-de la manifestación de impacto ambiental,
+manifestación de impacto ambiental,
 
-modalidad particular. 392.0 UMA
+modalidad particular. 395.0 UMA
 
-c) Por la recepción, evaluación y resolución
+c) Solicitud de evaluación y resolución del
 
-estudios de impacto ambiental, modalidad
+informe preventivo. 150.0 UMA
 
-informe preventivo. 145.0 UMA
+d) Solicitud de evaluación y resolución del
 
-d) Por la recepción, revisión y resolución de
+estudio de riesgo ambiental. 125.0 UMA
 
-estudio de riesgo ambiental 120.0 UMA
+e) Solicitud de ampliación de vigencia de
 
-e) Por la renovación y modificación de vigencia
+resoluciones en materia de impacto y
 
-de resoluciones en materia de impacto y riesgo
+riesgo ambiental. 103.0 UMA
 
-ambiental e informe preventivo. 100.0 UMA
+f) Solicitud de modificación de proyectos
 
-f) Por cualquier modificación de resolutivos o
+autorizados en materia de impacto y
 
-cesión o transferencia de titularidad de autorizaciones,
+riesgo ambiental. 105.0 UMA
 
-o modificación de proyectos, en materia de impacto
+g) Solicitud de autorización de transferencia
 
-y riesgo ambiental e informe preventivo. 100.0 UMA
+de titularidad de la autorización en materia
 
-g) Por la solicitud de exención de evaluación del
+de impacto ambiental. 104.0 UMA
 
-impacto ambiental. 48.0 UMA
+h) Solicitud de exención de procedimiento de
 
-h) Por la autorización o renovación de autorización
+evaluación en materia de impacto
 
-para personas físicas o jurídico colectivas, para
+ambiental. 50.0 UMA
 
-elaborar informes preventivos, manifestaciones de
+i) Solicitud de autorización para la
 
-impacto ambiental, estudios de riesgo ambiental,
+elaboración de estudios en materia de
 
-evaluación de daños ambientales y programa de
+impacto y riesgo ambiental. 42.0 UMA
 
-prevención de accidentes. 40.0 UMA
+j) Solicitud de revisión y análisis del estudio
 
-i) Por la recepción y revisión de estudio de Evaluación
+de evaluación de daños ambientales. 155.0 UMA
 
-de Daños Ambientales. 150.0 UMA
+II. Derechos por trámites en materia de manejo integral de residuos de manejo especial:
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+a) Solicitud de registro como generador de
 
-II. Derechos por trámites en materia de aprovechamiento de recursos naturales de competencia del Estado.
+residuos de manejo especial. 42.0 UMA
 
-a) Por el aprovechamiento y extracción
+b) Solicitud de verificación del protocolo de
 
-de recursos naturales de competencia estatal,
+pruebas para el tratamiento de residuos
 
-material pétreo por metro cúbico. 0.18 UMA
+de manejo especial. 62.0 UMA
+
+c) Solicitud de prórroga de autorización en
+
+materia de residuos de manejo especial. 102.0 UMA
+
+d) Solicitud de modificación de autorización
+
+en materia de residuos de manejo
+
+especial. 102.0 UMA
+
+e) Solicitud de autorización de transferencia
+
+de derechos y obligaciones derivados de
+
+autorizaciones en materia de residuos de
+
+manejo especial. 102.0 UMA
+
+f) Solicitud de autorización para la
+
+recolección y transporte de residuos de
+
+manejo especial. 205.0 UMA
+
+g) Solicitud de autorización para el
+
+tratamiento de residuos de manejo
+
+especial. 152.0 UMA
+
+h) Solicitud de autorización para el acopio de
+
+residuos de manejo especial. 102.0 UMA
+
+i) Solicitud de autorización de ingreso de
+
+residuos de manejo especial al Estado de
+
+Tabasco. 5.0 UMA
+
+j) Solicitud de autorización para la
+
+reutilización de residuos de manejo
+
+especial. 102.0 UMA
+
+k) Solicitud de autorización para el reciclaje
+
+de residuos de manejo especial. 102.0 UMA
+
+l) Solicitud de autorización para la
+
+utilización en procesos productivos de
+
+residuos de manejo especial. 102.0 UMA
+
+m) Solicitud de autorización para el
+
+almacenamiento de residuos de manejo
+
+especial. 170.0 UMA
+
+n) Solicitud de registro de plan de manejo de
+
+residuos de manejo especial. 32.0 UMA
+
+o) Solicitud de autorización para la
+
+disposición final de residuos de manejo
+
+especial. 205.0 UMA
+
+p) Solicitud de autorización de modificación
+
+de registro como generador de residuos
+
+de manejo especial. 11.0 UMA
+
+q) Solicitud de autorización de modificación
+
+de plan de manejo de residuos de manejo
+
+especial. 11.0 UMA
+
+III. Derechos por trámites en materia de prevención y control de la contaminación atmosférica:
+
+a) Solicitud de autorización para la licencia
+
+de funcionamiento en materia de emisiones
+
+a la atmósfera, modalidad temporal. 80.0 UMA
+
+b) Solicitud de autorización para la licencia
+
+de funcionamiento en materia de emisiones
+
+a la atmósfera, modalidad permanente. 102.0 UMA
+
+c) Solicitud de actualización de la licencia de
+
+funcionamiento en materia de emisiones a
+
+la atmósfera. 72.0 UMA
+
+d) Recepción y evaluación de la cédula de
+
+operación anual. 32.0 UMA
+
+e) Solicitud de autorización de transferencia
+
+de titularidad de la licencia de funcionamiento. 80.0 UMA
+
+f) Solicitud de permiso para realizar
+
+prácticas contra incendios a cielo abierto. 5.0 UMA
+
+IV. Derechos por actividades dentro de áreas naturales protegidas:
+
+a) Por el otorgamiento o expedición de
+
+concesiones para la exploración,
+
+explotación o aprovechamiento de
+
+recursos en las áreas naturales. 500.0 UMA
+
+b) Por el otorgamiento o expedición de
+
+licencias para la exploración, explotación
+
+o aprovechamiento de recursos en las
+
+áreas naturales protegidas de
+
+competencia estatal. 300.0 UMA
+
+c) Por el otorgamiento o expedición de
+
+permisos para la exploración, explotación
+
+o aprovechamiento de recursos en las
+
+áreas naturales protegidas de
+
+competencia estatal. 100.0 UMA
+
+V. Por los servicios de monitoreo y análisis de
+
+una muestra de agua por el laboratorio ambiental. 20.0 UMA
+
+VI. Solicitud de opinión técnica de
+
+compatibilidad con el Programa de
+
+Ordenamiento Ecológico Regional del
+
+Estado de Tabasco. 40.0 UMA
+
+VII. Por expedición de la constancia de
+
+reducción de emisiones. 50.0 UMA
+
+VIII. Solicitud de opinión técnica sobre la
+
+aplicabilidad de la normatividad ambiental
+
+estatal 10.0 UMA
+
+IX. Solicitud de expedición de constancia de no
+
+contar con procedimiento administrativo. 12.0 UMA
+
+X. Solicitud de expedición de constancia de
+
+cumplimiento a la Norma Ambiental Estatal
+
+NAETAB-001-SBSCC-2020, en materia de
+
+transformación, modificación, producción de
+
+materias primas, fabricación, elaboración,
+
+producción o manufactura de bolsas y popotes
+
+de plástico. 200.0 UMA
+
+XI. Solicitud de renovación de constancia de
+
+cumplimiento a la Norma Ambiental Estatal
+
+NAETAB-001-SBSCC-2020, en materia de
+
+transformación, modificación, producción de
+
+materias primas, fabricación, elaboración,
+
+producción o manufactura de bolsas y popotes
+
+de plástico. 150.0 UMA
+
+XII. Por el uso de los espacios durante el evento "Convención Internacional de Sostenibilidad: Medio Ambiente y Energía", se pagarán los siguientes conceptos:
+
+a) Espacio de 2.15m x 4m, esquina; 397.74 UMA
+
+b) Espacio de 2.15m x 4m, centro; 309.35 UMA
+
+c) Espacios publicitarios físicos 1; 530.32 UMA
+
+d) Espacios publicitarios físicos 2; 777.80 UMA
+
+e) Espacios publicitarios físicos 3; 1025.28 UMA
+
+f) Espacios publicitarios físicos 4; 1272.76 UMA
+
+g) Espacios publicitarios físicos 5; 1520.24 UMA
+
+h) Espacios publicitarios físicos 6; 1767.72 UMA
+
+i) Espacios publicitarios físicos 7; 2015.20 UMA
+
+j) Espacios publicitarios físicos 8; 2262.68 UMA
+
+k) Espacios publicitarios digital 1; 441.93 UMA
+
+l) Espacios publicitarios digital 2; 636.38 UMA
+
+m) Espacios publicitarios digital 3; 830.83 UMA
+
+n) Espacios publicitarios digital 4; 1025.28 UMA
+
+o) Espacios publicitarios digital 5; 1219.73 UMA
+
+p) Espacios publicitarios digital 6; 1414.18 UMA
+
+q) Espacios publicitarios digital 7; 1608.63 UMA
+
+r) Espacios publicitarios digital 8; 1803.08 UMA
+
+XIII. Derechos por trámites en materia de aprovechamiento de recursos naturales de competencia del Estado.
+
+a) Por el aprovechamiento y extracción de
+
+recursos naturales de competencia
+
+estatal, material pétreo por metro cúbico. 0.18 UMA
 
 b) Por el aprovechamiento y extracción de
 
 recursos naturales por competencia estatal
 
-como arena, arcilla, suelo o cualquier otro material,
+como arena, arcilla, suelo o cualquier otro
 
-por metro cúbico. 0.10 UMA
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
-
-III. Derechos por trámites en materia de manejo integral de residuos de manejo especial.
-
-a) Por el registro como generador de residuos
-
-de manejo especial. 40.0 UMA
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
-
-b) Por la presencia de la Secretaría de Medio Ambiente
-
-y Desarrollo Sostenible para la realización del protocolo
-
-de pruebas tecnológicas para el tratamiento
-
-de residuos de manejo especial. 60.0 UMA
-
-c) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2022)
-
-d) Por la renovación de la vigencia de autorizaciones
-
-de residuos de manejo especial. 100.0 UMA
-
-e) Por la modificación de autorizaciones de residuos
-
-de manejo especial. 100.0 UMA
-
-f) Por la transferencia de derechos y obligaciones de
-
-autorizaciones de residuos de manejo especial. 100.0 UMA
-
-g) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2022)
-
-h) Por la autorización para la recolección
-
-y transporte de residuos de manejo especial. 200.0 UMA
-
-i) Por la autorización para el tratamiento de
-
-residuos de manejo especial. 150.0 UMA
-
-j) Por la autorización para el acopio de residuos
-
-de manejo especial. 100.0 UMA
-
-k) Por la autorización para ingresar al Estado
-
-residuos de manejo especial por tonelada en
-
-cualquier medio de transporte. 1.0 UMA
-
-l) Por la autorización para la reutilización,
-
-reciclaje o utilización en procesos productivos
-
-de residuos de manejo especial. 100.0 UMA
-
-m) Por la autorización para el almacenamiento
-
-temporal de residuos de manejo especial. 165.0 UMA
-
-n) Por la autorización para la utilización en
-
-tratamientos térmicos o incineración de residuos
-
-de manejo especial. 513.0 UMA
-
-o) Por la operación de centros de acopio de
-
-residuos de manejo especial. 100.0 UMA
-
-p) Por el Registro de Plan de Manejo de residuos
-
-de manejo especial. 30.0 UMA
-
-q) Por la autorización para la disposición final de
-
-residuos de manejo especial. 200.0 UMA
-
-r) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2022)
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
-
-s) Por cualquier modificación de Registros o
-
-Planes de Manejo de Residuos de manejo
-
-especial. 10.00 UMA
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
-
-t) Por la liberación de residuos provenientes
-
-del tratamiento de residuos de manejo especial
-
-de competencia estatal, por tonelada. 1.00 UMA
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
-
-IV. Derechos por trámites en materia de prevención y control de la contaminación atmosférica:
-
-a) Por la recepción, evaluación y emisión de la
-
-licencia de funcionamiento en materia de emisiones
-
-a la atmósfera. 100.0 UMA
-
-b) Por la actualización de la licencia de
-
-funcionamiento en materia de emisiones
-
-a la atmósfera. 70.0 UMA
-
-c) Por la recepción de la cédula de operación
-
-anual - Cédula de Operación Anual o Cédula
-
-de Operación Anual de Registro de Emisiones y
-
-Transferencia de Contaminantes. 30.0 UMA
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
-
-V. Derechos por actividades dentro de áreas naturales protegidas:
-
-a) Por el otorgamiento o expedición de concesiones
-
-para la exploración, explotación o aprovechamiento
-
-de recursos en las áreas naturales protegidas de
-
-competencia estatal. 500.0 UMA
-
-b) Por el otorgamiento o expedición de licencias
-
-para la exploración, explotación o aprovechamiento
-
-de recursos en las áreas naturales protegidas de
-
-competencia estatal. 300.0 UMA
-
-c) Por el otorgamiento o expedición de permisos
-
-para la exploración, explotación o aprovechamiento
-
-de recursos en las áreas naturales protegidas de
-
-competencia estatal. 100.0 UMA
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
-
-VI. Por los servicios de monitoreo de una muestra
-
-realizada por el laboratorio ambiental. 5.0 UMA
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
-
-VII. Por los servicios de análisis de una muestra en
-
-el laboratorio ambiental. 15.0 UMA
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
-
-VIII. Por el servicio de opiniones técnicas de
-
-compatibilidad. 35.08 UMA
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
-
-IX. Por expedición de la constancia de reducción
-
-de emisiones. 50.0 UMA
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
-
-X. Emisión de la opinión técnica de la
-
-aplicabilidad de la Normatividad Ambiental
-
-Estatal. 10.0 UMA
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
-
-XI. Emisión de la constancia de no contar con
-
-procedimiento administrativo. 10.0 UMA
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
-
-XII. Expedición de certificado para quienes
-
-realicen actividades de transformación,
-
-modificación, producción de materias primas,
-
-fabricación, elaboración, producción o
-
-manufactura de bolsas y popotes de plástico. 200.0 UMA
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
-
-XIII. Renovación de certificado para quienes
-
-realicen actividades de transformación,
-
-modificación, producción de materias primas,
-
-fabricación, elaboración, producción o
-
-manufactura de bolsas y popotes de plástico. 150.0 UMA
+material, por metro cúbico. 0.10 UMA
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-#### SECCIÓN ÚNICA. DESARROLLO AGROPECUARIO Y PESCA
+#### SECCIÓN CUARTA. JUNTA ESTATAL DE CAMINOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 91-B.
 
@@ -4087,9 +4439,17 @@ c) Plantas para arborización, paisaje, sombra, etc. 0.060 UMA
 
 d) Planta clonada. 0.103 UMA
 
-II. Servicio de asesoría técnica. 14.79 UMA
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-III. Servicio de asesoría técnica especializada. 29.58 UMA
+(a) Con descuento del 20%. 0.082 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+(b) Con descuento del 40%: 0.061 UMA
+
+II. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2025)
+
+III. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2025)
 
 ### CAPÍTULO OCTAVO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE MOVILIDAD
 
@@ -4445,7 +4805,9 @@ I. Por concepto de inscripción o revalidación en el Registro Estatal de Agente
 
 > <small>(REFORMADA SU DENOMINACIÓN Y NUMERACIÓN [N. DE E. ANTES SECCIÓN PRIMERA], P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-#### SECCIÓN SEGUNDA. COMISIÓN ESTATAL FORESTAL
+#### SECCIÓN ÚNICA. DESARROLLO AGROPECUARIO Y PESCA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 95.
 
@@ -4507,7 +4869,7 @@ relacionados con el mismo, previo a la emisión
 
 del Dictamen. 50,000 UMA
 
-#### SECCIÓN PRIMERA
+#### SECCIÓN SEGUNDA. COMISIÓN ESTATAL FORESTAL
 
 ###### Artículo 96.
 
@@ -4887,7 +5249,7 @@ En caso de que se requiera pagar peaje por cuotas de carreteras o autopistas, de
 
 Si derivado del flete de la maquinaria solicitada, es necesario emplear maniobras complejas y equipo adicional para su traslado, se aumentará el costo de los servicios establecidos en los incisos a), b), c), d) y e) de la fracción III del presente artículo en un 10 por ciento.
 
-#### SECCIÓN SEGUNDA
+#### SECCIÓN PRIMERA
 
 ###### Artículo 97.
 
@@ -5005,9 +5367,7 @@ k) Mayor de 10 hectáreas a 15 hectáreas. 75.0 UMA
 
 l) Mayor a 15 hectáreas a 20 hectáreas. 83.0 UMA
 
-#### SECCIÓN ÚNICA. CONSEJERÍA JURÍDICA DEL PODER EJECUTIVO DEL ESTADO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+#### SECCIÓN SEGUNDA
 
 ###### Artículo 98.
 
@@ -5021,9 +5381,9 @@ I. Permiso carretero 585.83 UMA
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN PRIMERA. INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO
+#### SECCIÓN ÚNICA. CONSEJERÍA JURÍDICA DEL PODER EJECUTIVO DEL ESTADO
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 98-A.
 
@@ -5269,13 +5629,17 @@ mm) Hembra de desecho (kg). 0.35 UMA
 
 nn) Semental adulto de desecho (kg). 0.41 UMA
 
-ññ) Ovinos: macho de destete (pz). 14.20 UMA
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+ññ) Ovinos: macho de destete (pz). 11.49 UMA
 
 oo) Semental con registro (pz). 59.17 UMA
 
 pp) Semental sin registro (pz). 35.50 UMA
 
-qq) Borrega primala sin montar (pz). 14.20 UMA
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+qq) Borrega primala sin montar (pz). 11.49 UMA
 
 rr) Hembra de desecho (kg). 0.33 UMA
 
@@ -5339,7 +5703,7 @@ IX. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2020)
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-#### SECCIÓN SEGUNDA. INSTITUTO DE PROTECCIÓN CIVIL
+#### SECCIÓN PRIMERA. INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
@@ -5349,9 +5713,9 @@ IX. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2020)
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO DÉCIMO PRIMERO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE LA FUNCIÓN PÚBLICA
+### CAPÍTULO DÉCIMO PRIMERO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA ANTICORRUPCIÓN Y BUEN GOBIERNO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 98-C.
 
@@ -5489,13 +5853,9 @@ c) Escuela de Iniciación Artística Asociada al Instituto Nacional de Bellas Ar
 
 (b) Cuota mensual. 2.74 UMA
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+(b.1) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2025)
 
-(b.1) Con beca del 50%. 1.37 UMA
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
-
-(b.2) Con beca del 100%. 0.00 UMA
+(b.2) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2025)
 
 d) Talleres Libres Artísticos:
 
@@ -5509,19 +5869,167 @@ d) Talleres Libres Artísticos:
 
 (c) Cuota mensual por taller. 2.74 UMA
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+(c.1) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2025)
 
-(c.1) Con beca del 50%. 1.37 UMA
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
-
-(c.2) Con beca del 100%. 0.00 UMA
+(c.2) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2025)
 
 e) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
 
 f) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
 
 g) Uso de espacio para cafetería por mes. 13.69 UMA
+
+> <small>(ADICIONADO [N. DE E. CON SUS SUBINCISOS], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+h) Propedéutico en Danza Clásica.
+
+(a) Cuota mensual. 5.48 UMA
+
+(b) Inscripción semestral. 5.48 UMA
+
+> <small>(ADICIONADO [N. DE E. CON SUS SUBINCISOS], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+i) Licenciatura en Danza Clásica.
+
+(a) Inscripción anual. 6.85 UMA
+
+(b) Cuota mensual. 8.21 UMA
+
+(c) Examen de admisión. 2.05 UMA
+
+(d) Examen Extraordinario primera
+
+oportunidad. 1.78 UMA
+
+(e) Examen Extraordinario segunda
+
+oportunidad. 2.46 UMA
+
+(f) Constancia simple. 0.41 UMA
+
+(g) Constancia con calificaciones. 0.68 UMA
+
+(h) Examen de posicionamiento o ubicación. 2.74 UMA
+
+(i) Certificado de estudios. 4.11 UMA
+
+(j) Duplicado de estudios totales. 4.79 UMA
+
+(k) Acta de certificación de documentos
+
+oficiales. 10.27 UMA
+
+> <small>(ADICIONADO [N. DE E. CON SUS SUBINCISOS], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+j) Propedéutico en Música.
+
+(a) Inscripción semestral. 5.48 UMA
+
+(b) Cuota mensual. 5.48 UMA
+
+(c) Examen Extraordinario primera
+
+oportunidad. 1.78 UMA
+
+(d) Examen Extraordinario segunda
+
+oportunidad. 2.46 UMA
+
+(e) Constancia simple. 0.41 UMA
+
+(f) Constancia con calificaciones. 0.68 UMA
+
+> <small>(ADICIONADO [N. DE E. CON SUS SUBINCISOS], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+k) Iniciación Musical.
+
+(a) inscripción semestral. 3.43 UMA
+
+(b) Cuota mensual. 8.21 UMA
+
+(c) Examen Extraordinario primera
+
+oportunidad. 1.78 UMA
+
+(d) Examen Extraordinario segunda
+
+oportunidad. 2.46 UMA
+
+(e) Constancia simple. 0.41 UMA
+
+(f) Constancia con calificaciones. 0.68 UMA
+
+(g) Examen de posicionamiento o
+
+ubicación. 3.43 UMA
+
+> <small>(ADICIONADO [N. DE E. CON SUS SUBINCISOS], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+l) Técnico Superior Universitario en Música.
+
+(a) Inscripción semestral. 3.43 UMA
+
+(b) Cuota mensual. 8.21 UMA
+
+(c) Examen Extraordinario primera
+
+oportunidad. 1.78 UMA
+
+(d) Examen Extraordinario segunda
+
+oportunidad. 2.46 UMA
+
+(e) Constancia simple. 0.41 UMA
+
+(f) Constancia con calificaciones. 0.68 UMA
+
+(g) Examen de posicionamiento
+
+ubicación. 2.74 UMA
+
+(h) Certificado de estudios. 4.11 UMA
+
+(i) Duplicado de estudios totales. 4.79 UMA
+
+(j) Acta de certificación de documentos
+
+oficiales. 10.27 UMA
+
+(k) Notas al programa. 68.46 UMA
+
+> <small>(ADICIONADO [N. DE E. CON SUS SUBINCISOS], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+m) Licenciatura en Música.
+
+(a) Inscripción semestral. 3.43 UMA
+
+(b) Cuota mensual. 8.21 UMA
+
+(c) Examen Extraordinario primera
+
+oportunidad. 1.78 UMA
+
+(d) Examen Extraordinario segunda
+
+oportunidad. 2.46 UMA
+
+(e) Constancia simple. 0.41 UMA
+
+(f) Constancia con calificaciones. 0.68 UMA
+
+(g) Examen de posicionamiento o
+
+ubicación. 2.74 UMA
+
+(h) Certificado de estudios. 4.11 UMA
+
+(i) Duplicado de estudios totales. 4.79 UMA
+
+(j) Acta de certificación de documentos
+
+oficiales. 10.27 UMA
+
+(k) Notas al programa. 68.46 UMA
 
 III. Por los servicios prestados en la Biblioteca Pública del Estado "José María Pino Suárez":
 
@@ -5587,13 +6095,9 @@ a) Licenciatura en Promotor Cultural en Educación Artística:
 
 (b) Cuota mensual. 6.85 UMA
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+(b.1) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2025)
 
-(b.1) Con beca del 50%. 3.42 UMA
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
-
-(b.2) Con beca del 100%. 0.00 UMA
+(b.2) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2025)
 
 (c) Ficha de pre-inscripción anual. 2.05 UMA
 
@@ -5621,9 +6125,9 @@ b) Licenciatura en Educación Artística:
 
 (b) Cuota mensual. 11.01 UMA
 
-(b.1) Con beca del 50%. 5.50 UMA
+(b.1) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2025)
 
-(b.2) Con beca del 100%. 0.00 UMA
+(b.2) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2025)
 
 (c) Ficha de pre-inscripción anual. 2.05 UMA
 
@@ -5683,243 +6187,7 @@ por el Instituto Nacional de las Personas
 
 Adultas Mayores. 0.69 UMA
 
-VII. Por los servicios prestados en el Centro Cultural Ágora:
-
-a) Uso del Auditorio por día: 95.84 UMA
-
-Con la finalidad de promover el esparcimiento cultural en el Estado de Tabasco, se fijan las siguientes tarifas siempre que las instalaciones del Auditorio del Centro Cultural Ágora sean solicitadas para su uso por:
-
-(a) Escuelas privadas o Asociaciones
-
-Religiosas debidamente constituidas y
-
-registradas ante la autoridad competente. 68.46 UMA
-
-(b) Academias o Instituciones de Arte. 47.92 UMA
-
-(c) Escuelas públicas o Instituciones
-
-Gubernamentales. 41.07 UMA
-
-b) Uso del Auditorio para ensayo por día: 34.23 UMA
-
-Con la finalidad de promover el esparcimiento cultural en el Estado de Tabasco, se fijan las siguientes tarifas siempre que las instalaciones del Auditorio del Centro Cultural Ágora sean solicitadas para su uso por:
-
-(a) Escuelas privadas o Asociaciones
-
-Religiosas debidamente constituidas y
-
-registradas ante la autoridad competente. 27.38 UMA
-
-(b) Academias o Instituciones de Arte. 20.54 UMA
-
-(c) Escuelas públicas o Instituciones
-
-Gubernamentales. 13.69 UMA
-
-c) Propedéutico en Danza Clásica.
-
-(a) Cuota mensual. 5.48 UMA
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
-
-(a.1) Con beca del 50%. 2.74 UMA
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
-
-(a.2) Con beca del 100%. 0.00 UMA
-
-(b) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
-
-(c) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
-
-(d) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
-
-(e) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
-
-(f) Inscripción semestral. 5.48 UMA
-
-d) Licenciatura en Danza Clásica.
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
-
-(a) Inscripción anual 6.85 UMA
-
-(b) Cuota mensual. 8.21 UMA
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
-
-(b.1) Con beca del 50%. 4.10 UMA
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
-
-(b.2) Con beca del 100%. 0.00 UMA
-
-(c) Examen de admisión. 2.05 UMA
-
-(d) Examen Extraordinario primera oportunidad. 1.78 UMA
-
-(e) Examen Extraordinario segunda oportunidad. 2.46 UMA
-
-(f) Constancia simple. 0.41 UMA
-
-(g) Constancia con calificaciones. 0.68 UMA
-
-(h) Examen de posicionamiento o ubicación. 2.74 UMA
-
-(i) Certificado de estudios. 4.11 UMA
-
-j) Duplicado de estudios totales. 4.79 UMA
-
-(k) Acta de certificación de documentos oficiales. 10.27 UMA
-
-(l) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
-
-(m) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
-
-(n) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
-
-e) Propedéutico en Música.
-
-(a) Inscripción semestral. 5.48 UMA
-
-(b) Cuota mensual. 5.48 UMA
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
-
-(b.1) Con beca del 50%. 2.74 UMA
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
-
-(b.2) Con beca del 100%. 0.00 UMA
-
-(c) Examen Extraordinario primera oportunidad. 1.78 UMA
-
-(d) Examen Extraordinario segunda oportunidad. 2.46 UMA
-
-(e) Constancia simple. 0.41 UMA
-
-(f) Constancia con calificaciones. 0.68 UMA
-
-f) Iniciación Musical.
-
-(a) Inscripción semestral. 3.43 UMA
-
-(b) Cuota mensual. 8.21 UMA
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
-
-(b.1) Con beca del 50%. 4.20 UMA
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
-
-(b.2) Con beca del 100%. 0.00 UMA
-
-(c) Examen Extraordinario primera oportunidad. 1.78 UMA
-
-(d) Examen Extraordinario segunda oportunidad. 2.46 UMA
-
-(e) Constancia simple. 0.41 UMA
-
-(f) Constancia con calificaciones. 0.68 UMA
-
-(g) Examen de posicionamiento o ubicación. 3.43 UMA
-
-g) Técnico Superior Universitario en Música.
-
-(a) Inscripción semestral. 3.43 UMA
-
-(b) Cuota mensual. 8.21 UMA
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
-
-(b.1) Con beca del 50%. 4.10 UMA
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
-
-(b.2) Con beca del 100%. 0.00 UMA
-
-(c) Examen Extraordinario primera oportunidad. 1.78 UMA
-
-(d) Examen Extraordinario segunda oportunidad. 2.46 UMA
-
-(e) Constancia simple. 0.41 UMA
-
-(f) Constancia con calificaciones. 0.68 UMA
-
-(g) Examen de posicionamiento o ubicación. 2.74 UMA
-
-(h) Certificado de estudios. 4.11 UMA
-
-(i) Duplicado de estudios totales. 4.79 UMA
-
-j) Acta de certificación de documentos oficiales. 10.27 UMA
-
-(k) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
-
-(l) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
-
-(m) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
-
-(n) Notas al programa. 68.46 UMA
-
-h) Licenciatura en Música.
-
-(a) Inscripción semestral. 3.43 UMA
-
-(b) Cuota mensual. 8.21 UMA
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
-
-(b.1) Con beca del 50%. 4.10 UMA
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
-
-(b.2) Con beca del 100%. 0.00 UMA
-
-(c) Examen Extraordinario primera oportunidad. 1.78 UMA
-
-(d) Examen Extraordinario segunda oportunidad. 2.46 UMA
-
-(e) Constancia simple. 0.41 UMA
-
-(f) Constancia con calificaciones. 0.68 UMA
-
-(g) Examen de posicionamiento o ubicación. 2.74 UMA
-
-(h) Certificado de estudios. 4.11 UMA
-
-(i) Duplicado de estudios totales. 4.79 UMA
-
-(j) Acta de certificación de documentos oficiales. 10.27 UMA
-
-(k) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
-
-(l) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
-
-(m) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
-
-(n) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2020)
-
-(ñ) Notas al programa. 68.46 UMA
-
-i) Uso de pérgola por día. 29.59 UMA
-
-j) Uso de salones grandes de danza por día. 9.47 UMA
-
-k) Uso de salones chicos de danza por día. 7.10 UMA
-
-l) Uso de aulas de clases con capacidad de
-
-30 personas, por día. 9.47 UMA
-
-m) Uso de aulas de clases con capacidad de
-
-20 personas, por día. 7.10 UMA
-
-n) Uso de espacio para cafetería por mes. 27.38 UMA
+VII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2025)
 
 VIII. Por los servicios prestados en el Museo de Historia Natural "José Narciso Rovirosa Andrade"
 
@@ -6185,7 +6453,7 @@ Para el caso en que existan daños, deterioros o detrimentos distintos a los cau
 
 Con motivo de programas de promoción cultural, que emprenda el Gobierno del Estado, la Secretaría podrá exentar o en su caso reducir el pago de los derechos establecidos en el presente numeral.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ### CAPÍTULO DÉCIMO SEGUNDO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE ENERGÍA, RECURSOS NATURALES Y PROTECCIÓN AMBIENTAL Y SUS ÓRGANOS DESCONCENTRADOS
 
@@ -6193,11 +6461,13 @@ Con motivo de programas de promoción cultural, que emprenda el Gobierno del Est
 
 ###### Artículo 99.
 
-Por los servicios prestados por la Secretaría de la Función Pública, se causarán y pagarán los derechos siguientes:
+Por los servicios prestados por la Secretaría Anticorrupción y Buen Gobierno, se causarán y pagarán los derechos siguientes:
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 21 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-I Servicios relacionados con el Registro Único de Contratistas del Estado de Tabasco:
+I. Por los trámites relacionados con el Registro Único de Contratistas del Estado de Tabasco:
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
 a) Por inscripción:
 
@@ -6207,6 +6477,8 @@ a) Por inscripción:
 
 (b) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2024)
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
 b) Por revalidación:
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
@@ -6215,13 +6487,21 @@ b) Por revalidación:
 
 (b) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2024)
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
 c) Por aumento de capital o especialidades. 15.00 UMA
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
 d) ) (sic) Por modificación menor 10.00 UMA
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+
 e) Por reposición de cédula. 2.00 UMA
 
-II. Servicios relacionados con la constancia de no inhabilitación:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+II. Por los trámites relacionados con la constancia de no inhabilitación:
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
@@ -6237,7 +6517,9 @@ b) Por reimpresión de constancia, siempre que se solicite en el mismo año cale
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-#### SECCIÓN TERCERA. CENTRAL DE ABASTO DE VILLAHERMOSA
+#### SECCIÓN SEGUNDA. INSTITUTO DE PROTECCIÓN CIVIL
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 100.
 
@@ -6245,7 +6527,7 @@ b) Por reimpresión de constancia, siempre que se solicite en el mismo año cale
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN CUARTA. INSTITUTO DE VIVIENDA DE TABASCO
+#### SECCIÓN TERCERA. CENTRAL DE ABASTO DE VILLAHERMOSA
 
 ###### Artículo 101.
 
@@ -6257,35 +6539,37 @@ b) Por reimpresión de constancia, siempre que se solicite en el mismo año cale
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-#### SECCIÓN QUINTA. COMISIÓN ESTATAL DE AGUA Y SANEAMIENTO
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
+#### SECCIÓN CUARTA. INSTITUTO DE VIVIENDA DE TABASCO
 
 ###### Artículo 102.
 
-Por los servicios prestados por la Consejería Jurídica del Poder Ejecutivo del Estado, se causarán y pagarán los derechos siguientes:
+Por los servicios prestados por la Consejería Jurídica del Poder Ejecutivo del Estado, se causará y pagará el derecho siguiente:
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-I. Por el trámite de la anuencia expedida por el titular del
+I. Por el trámite de la opinión favorable expedida por
 
-Poder Ejecutivo para el uso de sustancias explosivas,
+la persona Titular del Poder Ejecutivo señalada en
 
-vinculada al permiso otorgado por la Secretaría de la
+el artículo 39 de la Ley Federal de Armas de Fuego
 
-Defensa Nacional. 97.0 UMA
+y Explosivos, relacionada con las actividades,
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2020)</small>
+operaciones industriales y comerciales previstas en
 
-II. Por el trámite de la anuencia expedida por el titular del
+el artículo 41 de la referida ley, y vinculadas al
 
-Poder Ejecutivo para la venta de cartuchos de uso deportivo. 52.0 UMA
+permiso otorgado por la Secretaría de la Defensa
+
+Nacional. 97.0 UMA
+
+II. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2025)
 
 ### CAPÍTULO DÉCIMO QUINTO. DE LOS SERVICIOS PRESTADOS POR LOS PODERES LEGISLATIVO Y JUDICIAL Y LOS ÓRGANOS AUTÓNOMOS
 
-#### SECCIÓN SEXTA. SERVICIO ESTATAL DE ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS
+#### SECCIÓN QUINTA. COMISIÓN ESTATAL DE AGUA Y SANEAMIENTO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 103.
 
@@ -6355,9 +6639,9 @@ XVII. Servicio mensual Centro de Atención Infantil (CAI) lista de raya, contrat
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2016)
 
-#### SECCIÓN SÉPTIMA. MUSEO INTERACTIVO PAPAGAYO
+#### SECCIÓN SEXTA. SERVICIO ESTATAL DE ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 110.
 
@@ -6683,9 +6967,9 @@ b) Por 8 horas. 30.00 UMA
 
 XLVIII. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2022)
 
-#### SECCIÓN OCTAVA. CENTRO DE INTERPRETACIÓN Y CONVIVENCIA CON LA NATURALEZA "YUMKA"
+#### SECCIÓN SÉPTIMA. MUSEO INTERACTIVO PAPAGAYO
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS FRACCIONES E INCISOS], P.O. 20 DE DICIEMBRE DE 2023)</small>
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 111.
 
@@ -6883,7 +7167,9 @@ XXXIII. Por el uso anual de espacio
 
 para publicidad en espectacular F. 133.90 UMA
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+#### SECCIÓN OCTAVA. CENTRO DE INTERPRETACIÓN Y CONVIVENCIA CON LA NATURALEZA "YUMKA"
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 112.
 
@@ -6931,7 +7217,23 @@ estacionamiento.
 
 d) Por el uso de la explanada por día. 23.02 UMA
 
-#### SECCIÓN SEGUNDA. DE LOS SERVICIOS PRESTADOS POR EL PODER JUDICIAL
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VI. Por el uso del predio ubicado en Boulevard Adolfo Ruiz Cortínes S/N, colonia Casa Blanca, con superficie de 360.00 m2.
+
+a) Costo mensual por contratación semestral. 883.86 UMA
+
+b) Costo mensual por contratación anual. 707.09 UMA
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VII. Por el uso del estacionamiento ubicado en Prolongación Avenida 27 de Febrero número 4003, colonia Tabasco 2000.
+
+a) Costo mensual por contratación semestral. 1,149.0 UMA
+
+b) Costo mensual por contratación anual. 883.86 UMA
+
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 113.
 
@@ -7767,7 +8069,7 @@ g) Envío de 80 a 100 garrafones de agua purificada de 20 Its (no incluye garraf
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN TERCERA. DE LOS SERVICIOS PRESTADOS POR LA FISCALÍA GENERAL DEL ESTADO
+#### SECCIÓN SEGUNDA. DE LOS SERVICIOS PRESTADOS POR EL PODER JUDICIAL
 
 ###### Artículo 113 Bis.
 
@@ -7851,6 +8153,8 @@ Cuando la víctima sea quien solicite la devolución de un bien mueble o inmuebl
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
+#### SECCIÓN TERCERA. DE LOS SERVICIOS PRESTADOS POR LA FISCALÍA GENERAL DEL ESTADO
+
 ###### Artículo 113 Ter.
 
 Por los servicios prestados por el Museo Interactivo Papagayo, organismo público descentralizado del Gobierno del Estado, se causarán y pagarán los siguientes derechos:
@@ -7911,7 +8215,9 @@ El Consejo de Administración del Museo podrá fijar las tarifas que se cobrará
 
 ###### Artículo 113 Quater.
 
-Por los servicios prestados por el Centro de Interpretación y Convivencia con la Naturaleza "YUMKA'", organismo público descentralizado sectorizado a la Secretaría de Bienestar, Sustentabilidad y Cambio Climático, se causarán y pagarán los derechos siguientes:
+Por los servicios prestados por el Centro de Interpretación y Convivencia con la Naturaleza "YUMKA'", organismo público descentralizado sectorizado a la Secretaría de Medio Ambiente y Desarrollo Sostenible, se causarán y pagarán los derechos siguientes:
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 I. Entrada general:
 
@@ -7919,7 +8225,11 @@ a) Niño. 0.71 UMA
 
 b) Adulto. 1.42 UMA
 
-c) Adulto mayor con tarjeta expedida por el Instituto Nacional de las Personas Adultas Mayores. 0.71 UMA
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+c) Adulto mayor con tarjeta expedida por el Instituto Nacional de las Personas Adultas Mayores. 0.39 UMA
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 II. Entrada para locales:
 
@@ -7933,39 +8243,119 @@ c) Adulto mayor con tarjeta expedida por el Instituto Nacional de las Personas A
 
 En relación a los servicios establecidos en el presente artículo, se otorgan los beneficios siguientes:
 
-I. En apoyo al turismo del Estado, a los adultos y niños que presente cupón o carta de algún hotel domiciliado en el Estado, obtendrán el 40 por ciento de descuento.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-II. En apoyo a la educación, se otorgan los siguientes descuentos:
+I. En apoyo al turismo del Estado:
 
-a) A los maestros y estudiantes de escuelas de preescolar y primaria, secundarias, preparatorias y universidades de Tabasco, el 60 por ciento de descuento.
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-b) A los maestros que pertenezcan a escuelas de preescolar y primaria del resto de la República Mexicana, el 40 por ciento de descuento.
+a) Adultos y niños que presenten cupón, el 60 por ciento de descuento sobre la tarifa de entrada general que corresponda.
 
-c) A los estudiantes menores de 12 años y que pertenezcan a escuelas de preescolar y primaria del resto de la República Mexicana, el 20 por ciento de descuento.
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-d) A los maestros, así como a los estudiantes siempre que éstos sean mayores de 12 años y pertenezcan a escuelas de secundaria, preparatoria y universidades del resto de la República Mexicana, el 40 por ciento de descuento.
+b) Hoteles domiciliados en el Estado, el 60 por ciento de descuento sobre la tarifa de entrada general que corresponda, previa solicitud a la persona titular de la Dirección General del "YUMKA'".
 
-Para poder ser beneficiados con los descuentos otorgados en la presente fracción, los maestros y estudiantes deberán presentar copia del documento que los acredite como tales respectivamente.
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-III. En apoyo al bienestar cultural y recreativo de los trabajadores de las dependencias, órganos desconcentrados, organismos descentralizados de la administración pública estatal, Poderes Legislativo y Judicial, así como los órganos autónomos y los Municipios, se les otorgará el 50 por ciento de descuento siempre que éstas suscriban convenios con el Centro de Interpretación y Convivencia con la Naturaleza "Yumka".
+c) Agencias de viajes, asociaciones civiles y empresas domiciliadas en el Estado, el 60 por ciento de descuento sobre el costo de entrada general que corresponda, previa solicitud a la persona titular de la Dirección General del "YUMKA'". El beneficio aplicará únicamente a grupos de 20 personas o más.
 
-IV. A los maestros y estudiantes que a través del organismo descentralizado denominado Sistema para el Desarrollo Integral de la Familia de Estado de Tabasco, sean canalizadas al Centro de Interpretación y Convivencia con la Naturaleza "Yumka" en apoyo al bienestar familiar, recibirán el 80 por ciento de descuento, de igual forma se otorgará el 70 por ciento de descuento a los padres de familia de dichos estudiantes.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+II. En apoyo a la educación:
 
-V. Se otorgará un descuento del 50% sobre las tarifas establecidas en los párrafos primero y segundo de este artículo, en los siguientes días:
+a) A los estudiantes de escuelas de preescolar y primaria de Tabasco, el 60 por ciento de descuento sobre la tarifa de niño general establecida.
+
+b) Al personal que labora en instituciones educativas y tutores; así como estudiantes de escuelas secundarias, preparatorias y universidades de Tabasco, el 60 por ciento de descuento sobre la tarifa adulto general establecida.
+
+c) A los estudiantes de escuelas de preescolar y primaria del resto de la República Mexicana, el 40 por ciento de descuento sobre la tarifa de niño general establecida.
+
+d) Al personal que labora en instituciones educativas y tutores; así como estudiantes de escuelas de secundarias, preparatorias y universidades del resto de la República Mexicana, el 40 por ciento de descuento sobre la tarifa adulto general establecida.
+
+Para acceder a estos descuentos, el personal educativo y los tutores deberán acudir en la modalidad de visita escolar oficial, presentando identificación vigente y solicitud dirigida a la persona titular de la Dirección General del "YUMKA'". Estos descuentos aplicarán a grupos de 10 personas o más de martes a viernes, en el horario regular del parque, y estarán sujetos a disponibilidad en fines de semana.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+III. En apoyo al bienestar cultural y recreativo de las personas trabajadoras de las dependencias, órganos desconcentrados y organismos públicos descentralizados de la administración pública estatal, Poderes Legislativo y Judicial, así como los órganos autónomos y los Municipios, se les otorgará el 60 por ciento de descuento sobre la tarifa de adulto general establecida, siempre que éstas suscriban convenios con el "YUMKA'", presenten cupones de descuento o solicitud previa dirigida a la persona titular de la Dirección General del "YUMKA'" en el caso de visitas grupales de 10 personas o más.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IV. En apoyo al bienestar familiar, los grupos canalizados por el organismo público descentralizado denominado Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco (DIF) recibirán el 80 por ciento de descuento sobre la tarifa adulto y niño general establecidas, presentando solicitud dirigida a la persona titular de la Dirección General del "YUMKA'".
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+V. Se aplicará un descuento del 50% sobre las tarifas de entrada general y entrada para locales, en los siguientes días:
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 a) Día de Reyes;
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
 b) Día del Niño;
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 c) Día de la Madre;
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
 d) Día del Padre;
 
-e) Aniversario de la Independencia de México; y
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-f) Aniversario del Centro de Interpretación y Convivencia con la Naturaleza "YUMKA'".
+e) Aniversario del Centro de Interpretación y Convivencia con la Naturaleza "YUMKA'"; y
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+f) Fechas o eventos especiales que promuevan los objetivos de educación para la conservación o convivencia con la naturaleza, autorizadas por la persona titular de la Dirección General del "YUMKA'".
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VI. Experiencia "YUMKA'": Acceso especial al
+
+parque sujeto a disponibilidad (Por persona). 2.2 UMA
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VII. "Convive YUMKA'": Renta de espacios y experiencias personalizadas:
+
+a) De martes a jueves (20 a 30 personas). 44.2 UMA
+
+b) De viernes a domingo (20 a 30 personas). 61.9 UMA
+
+c) De martes a jueves (31 a 50 personas). 70.7 UMA
+
+d) De viernes a domingo (31 a 50 personas). 88.4 UMA
+
+e) De martes a jueves (51 a 100 personas). 141.4 UMA
+
+f) De viernes a domingo (51 a 100 personas). 159.1 UMA
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VIII. Actividades complementarias (Por persona por cada actividad):
+
+a) Talleres de conservación. 0.27 UMA
+
+b) Interacción con animales. 0.27 UMA
+
+c) Acceso a tirolesa. 0.89 UMA
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IX. Permiso para sesiones fotográficas especiales con una duración máxima de 2 horas:
+
+a) XV años (Acceso para 5 personas). 10.6 UMA
+
+b) Bodas (Acceso para 4 personas). 8.84 UMA
+
+c) Cumpleaños (Acceso para 5 personas). 10.6 UMA
+
+d) Sesión fotográfica en general (Acceso para
+
+5 personas). 10.6 UMA
+
+e) Persona adicional. 1.77 UMA
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
@@ -8151,11 +8541,11 @@ COORDINADOR GENERAL DE ASUNTOS JURÍDICOS
 
 > <small>[N. DE E. VÉASE ANEXO PRIMERO DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO EN EL P.O. DE 30 DE DICIEMBRE DE 2015, PÁGINAS DE LA 88 A LA 136.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS AL ANEXO PRIMERO, P.O. 24 DE DICIEMBRE DE 2016, PÁGINAS DE LA 54 A LA 65; 5 DE JULIO DE 2017, PÁGINAS DE LA 55 A LA 85; 22 DE DICIEMBRE DE 2018, PÁGINAS DE LA 51 A LA 54; 21 DE DICIEMBRE DE 2019, PÁGINAS DE LA 95 A LA 97; 18 DE DICIEMBRE DE 2020, PÁGINAS DE LA 82 A LA 87; 21 DE DICIEMBRE DE 2021, PÁGINAS DE LA 116 A LA 125; 28 DE DICIEMBRE DE 2022, PÁGINAS DE LA 87 A LA 100; 20 DE DICIEMBRE DE 2023, PÁGINAS DE LA 66 A LA 68; 18 DE DICIEMBRE DE 2024, PAGÍNAS DE LA 69 A LA 74.]</small>
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO PRIMERO, P.O. 24 DE DICIEMBRE DE 2016, PÁGINAS DE LA 54 A LA 65; 5 DE JULIO DE 2017, PÁGINAS DE LA 55 A LA 85; 22 DE DICIEMBRE DE 2018, PÁGINAS DE LA 51 A LA 54; 21 DE DICIEMBRE DE 2019, PÁGINAS DE LA 95 A LA 97; 18 DE DICIEMBRE DE 2020, PÁGINAS DE LA 82 A LA 87; 21 DE DICIEMBRE DE 2021, PÁGINAS DE LA 116 A LA 125; 28 DE DICIEMBRE DE 2022, PÁGINAS DE LA 87 A LA 100; 20 DE DICIEMBRE DE 2023, PÁGINAS DE LA 66 A LA 68; 18 DE DICIEMBRE DE 2024, PÁGINAS DE LA 69 A LA 74; 24 DE DICIEMBRE DE 2025, PÁGINAS DE LA 110 A LA 123.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO EN EL P.O. DE 30 DE DICIEMBRE DE 2015, PÁGINAS DE LA 137 A LA 351.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS AL ANEXO SEGUNDO, P.O. 5 DE JULIO DE 2017, PÁGINAS DE LA 86 A LA 234; 21 DE DICIEMBRE DE 2019, PÁGINAS DE LA 97 A LA 112; 18 DE DICIEMBRE DE 2020, PÁGINAS DE LA 87 A LA 99; 21 DE DICIEMBRE DE 2021, PÁGINAS DE LA 126 A LA 129; 28 DE DICIEMBRE DE 2022, PÁGINAS DE LA 100 A LA 111]</small>
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO SEGUNDO, P.O. 5 DE JULIO DE 2017, PÁGINAS DE LA 86 A LA 234; 21 DE DICIEMBRE DE 2019, PÁGINAS DE LA 97 A LA 112; 18 DE DICIEMBRE DE 2020, PÁGINAS DE LA 87 A LA 99; 21 DE DICIEMBRE DE 2021, PÁGINAS DE LA 126 A LA 129; 28 DE DICIEMBRE DE 2022, PÁGINAS DE LA 100 A LA 111; 24 DE DICIEMBRE DE 2025, PÁGINAS DE LA 123 A LA 124.]</small>
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
@@ -9340,3 +9730,27 @@ P.O. 19 DE SEPTIEMBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 190 POR EL QUE “SE REFORMAN: LOS ARTÍCULOS 71; 72, PÁRRAFO SEGUNDO; LA DENOMINACIÓN DE LA SECCIÓN CUARTA DEL CAPÍTULO SEGUNDO DEL TÍTULO TERCERO; 73-A, PÁRRAFO PRIMERO Y LA FRACCIÓN I, INCISOS a) Y m); 73-A, FRACCIÓN III, INCISO d); 73-A, FRACCIÓN VI, INCISOS a) Y c); 73-A, FRACCIÓN XXXIX; 73-B, PÁRRAFO PRIMERO; 73-D; 73-E; 73-F; LA DENOMINACIÓN DE LA SECCIÓN PRIMERA DEL CAPÍTULO TERCERO DEL TÍTULO TERCERO; 74, PÁRRAFO SEGUNDO; 85, FRACCIONES I, INCISO b), II, INCISOS a) Y b), IV, INCISO b), Y V, INCISOS a) Y b); 86, FRACCIONES I, INCISO b), II, INCISOS a) Y b), IV, INCISO b), Y V, INCISOS a) Y b); 91-A; 98-A, FRACCIÓN VI, INCISOS ññ) Y qq); LA DENOMINACIÓN DEL CAPÍTULO DÉCIMO PRIMERO DEL TÍTULO TERCERO; 99, PÁRRAFO PRIMERO, FRACCIONES I Y II; 102, PÁRRAFO PRIMERO Y FRACCIÓN I; 113 QUATER, PÁRRAFOS PRIMERO, FRACCIÓN I, INCISO c), Y SEGUNDO, FRACCIONES I, II, III, IV Y V, INCISOS e) Y f); OCTAVO DEL ANEXO PRIMERO, FRACCIÓN XXVIII; DÉCIMO DEL ANEXO PRIMERO, FRACCIONES IV, XXXVII, XXXVIII Y XXXIX; DÉCIMO CUARTO DEL ANEXO PRIMERO, FRACCIONES I, II, III, IV, INCISOS a) Y b), V, INCISOS a) Y b), VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV Y XXVI; DÉCIMO NOVENO DEL ANEXO PRIMERO, FRACCIÓN XLV; VIGÉSIMO DEL ANEXO PRIMERO, FRACCIONES IV, V, XI, XIX, XX, XXIV, XXXIII, XLI Y XLIII; VIGÉSIMO PRIMERO DEL ANEXO PRIMERO, FRACCIONES V, VI, VII, X, XI, XII, XV, XVI, XVII, XX, XXI, XXII, XXV, XXVI, XXVII, XXX, XXXI, XXXII, XXXV, XXXVI, XXXVII, XL, XLI Y XLII; VIGÉSIMO QUINTO DEL ANEXO PRIMERO, FRACCIÓN VIII; VIGÉSIMO QUINTO DEL ANEXO PRIMERO, INCISOS b) Y c) DE LA FRACCIÓN X; VIGÉSIMO QUINTO DEL ANEXO PRIMERO, FRACCIONES XVI Y XVII; SE ADICIONAN: LA SECCIÓN TERCERA DENOMINADA "SERVICIOS NOTARIALES" AL CAPÍTULO SEGUNDO, DEL TÍTULO TERCERO, INTEGRADO POR EL ARTÍCULO 73; UN SEGUNDO PÁRRAFO AL INCISO a) DE LA FRACCIÓN I DEL ARTÍCULO 73-A; UN SEGUNDO PÁRRAFO AL INCISO b) DE LA FRACCIÓN I, RECORRIÉNDOSE EN SU ORDEN LOS PÁRRAFOS SUBSECUENTES, DEL ARTÍCULO 73-A; LOS PÁRRAFOS SEGUNDO Y TERCERO AL INCISO h) DE LA FRACCIÓN I DEL ARTÍCULO 73-A; UN SEGUNDO PÁRRAFO AL INCISO a) DE LA FRACCIÓN II DEL ARTÍCULO 73-A; UN INCISO e) A LA FRACCIÓN III DEL ARTÍCULO 73-A; LOS INCISOS a) Y b) A LA FRACCIÓN V DEL ARTÍCULO 73-A; EL INCISO d) A LA FRACCIÓN VI DEL ARTÍCULO 73-A; EL INCISO c) Y UN PÁRRAFO SEGUNDO A LA FRACCIÓN XII DEL ARTÍCULO 73-A; FRACCIONES XL Y XLI DEL ARTÍCULO 73-A; LAS FRACCIONES XI Y XII DEL ARTÍCULO 74; LAS FRACCIONES XXV Y XXVI DEL ARTÍCULO 78; UN PÁRRAFO SEGUNDO A LA FRACCIÓN VI Y UNA FRACCIÓN IX AL ARTÍCULO 85; UN PÁRRAFO SEGUNDO A LA FRACCIÓN VI DEL ARTÍCULO 86; LA FRACCIÓN XVII AL ARTÍCULO 88 BIS; LA SECCIÓN OCTAVA DENOMINADA "REGISTRO ESTATAL DE GESTORES VEHICULARES" QUE COMPRENDE DEL ARTÍCULO 88 QUÁTER AL 88 NONIES; LOS SUBINCISOS (a) Y (b) AL INCISO d) DE LA FRACCIÓN I DEL ARTÍCULO 91-B; LOS INCISOS h), i), j), k), l) Y m) A LA FRACCIÓN II DEL ARTÍCULO 98-C, LAS FRACCIONES VI Y VII AL ARTÍCULO 112; LOS INCISOS a), b) Y c) A LA FRACCIÓN I Y LAS FRACCIONES VI, VII, VIII Y IX AL PÁRRAFO SEGUNDO DEL ARTÍCULO 113 QUATER; LAS FRACCIONES XXXIV Y XXXV AL ARTÍCULO SÉPTIMO DEL ANEXO PRIMERO; UNA FRACCIÓN XXXVIII AL ARTÍCULO OCTAVO DEL ANEXO PRIMERO; UN SUBINCISO (a) AL INCISO g) DE LA FRACCIÓN III DEL ARTÍCULO DÉCIMO DEL ANEXO PRIMERO; LOS INCISOS a), b), c) Y d) A LA FRACCIÓN IV DEL ARTÍCULO DÉCIMO DEL ANEXO PRIMERO; LAS FRACCIONES XXXIX BIS, XLVI, XLVII Y XLVIII AL ARTÍCULO DÉCIMO DEL ANEXO PRIMERO; UN INCISO a) A LA FRACCIÓN XXIX DEL ARTÍCULO DÉCIMO TERCERO DEL ANEXO PRIMERO; LOS INCISOS a), b) Y c) A LA FRACCIÓN XXX DEL ARTÍCULO DÉCIMO TERCERO DEL ANEXO PRIMERO; LOS INCISOS a), b) Y c) A LA FRACCIÓN XXXV DEL ARTÍCULO DÉCIMO TERCERO DEL ANEXO PRIMERO; LOS INCISOS a) Y b) A LA FRACCIÓN XLVI DEL ARTÍCULO DÉCIMO TERCERO DEL ANEXO PRIMERO; LOS INCISOS a) Y b) A LA FRACCIÓN XLVII DEL ARTÍCULO DÉCIMO TERCERO DEL ANEXO PRIMERO; LOS INCISOS a) Y b) A LA FRACCIÓN XLVIII DEL ARTÍCULO DÉCIMO TERCERO DEL ANEXO PRIMERO; LOS INCISOS a) Y b) A LA FRACCIÓN XLIX DEL ARTÍCULO DÉCIMO TERCERO DEL ANEXO PRIMERO; LOS INCISOS a) Y b) A LA FRACCIÓN L DEL ARTÍCULO DÉCIMO TERCERO DEL ANEXO PRIMERO; LOS INCISOS a) Y b) A LA FRACCIÓN LI DEL ARTÍCULO DÉCIMO TERCERO DEL ANEXO PRIMERO; LOS INCISOS a) Y b) A LA FRACCIÓN LII DEL ARTÍCULO DÉCIMO TERCERO DEL ANEXO PRIMERO; LOS INCISOS a) Y b) A LA FRACCIÓN LIII DEL ARTÍCULO DÉCIMO TERCERO DEL ANEXO PRIMERO; UNA FRACCIÓN LVII AL ARTÍCULO DÉCIMO TERCERO DEL ANEXO PRIMERO; LAS FRACCIONES LXXIX, LXXX, LXXXI, LXXXII, LXXXIII, LXXXIV, LXXXV, LXXXVI, LXXXVII, LXXXIII, LXXXIX, XC, XCI, XCII, XCIII, XCIV, XCV, XCVI, XCVII, XCVIII Y XCIX AL ARTÍCULO DÉCIMO NOVENO DEL ANEXO PRIMERO; LAS FRACCIONES XLIV, XLV Y XLVI AL ARTÍCULO VIGÉSIMO DEL ANEXO PRIMERO; LAS FRACCIONES XIX, XX Y XXI AL VIGÉSIMO QUINTO DEL ANEXO PRIMERO; LAS CLAVES 0141 BIS, 0142 BIS, 0161 BIS, 0161 TER Y 0161 QUATER DE LA PRIMERA TABLA DEL PÁRRAFO PRIMERO DEL ANEXO SEGUNDO. SE DEROGAN: LAS FRACCIONES V Y IX DEL ARTÍCULO 72; LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO DEL ARTÍCULO 73-A; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 73-B; LA FRACCIÓN XI DEL ARTÍCULO 88 BIS; LAS FRACCIONES II Y III DEL ARTÍCULO 91-B; LOS SUBINCISOS (b.1) Y (b.2) DEL SUBINCISO (b) DEL INCISO c) Y LOS SUBINCISOS (c.1) Y (c.2) DEL SUBINCISO (c) DEL INCISO d), DE LA FRACCIÓN II, LOS SUBINCISOS (b.1) Y (b.2) AL SUBINCISO (b) DEL INCISO a) Y LOS SUBINCISOS (b.1) Y (b.2) AL SUBINCISO (b) DEL INCISO b) DE LA FRACCIÓN IV, Y LA FRACCIÓN VII DEL ARTÍCULO 98-C; LA FRACCIÓN II DEL ARTÍCULO 102; LAS FRACCIONES VII, XX, XXXI Y XXXII, DEL ARTÍCULO SÉPTIMO DEL ANEXO PRIMERO; LA FRACCIÓN XLIV DEL ARTÍCULO DÉCIMO DEL ANEXO PRIMERO; LAS FRACCIONES LV Y LVI DEL ARTÍCULO DÉCIMO TERCERO DEL ANEXO PRIMERO; LOS INCISOS c) Y d) DE LA FRACCIÓN IV DEL ARTÍCULO DÉCIMO CUARTO DEL ANEXO PRIMERO; LOS INCISOS c) Y d) DE LA FRACCIÓN V DEL ARTÍCULO DÉCIMO CUARTO DEL ANEXO PRIMERO; LAS FRACCIONES XV Y XVI DEL ARTÍCULO DÉCIMO CUARTO DEL ANEXO PRIMERO; LOS INCISOS a), b) Y c) DE LA FRACCIÓN XXV DEL ARTÍCULO DÉCIMO CUARTO DEL ANEXO PRIMERO; LA FRACCIÓN LXXIII DEL ARTÍCULO DÉCIMO NOVENO DEL ANEXO PRIMERO; EL INCISO a) DE LA FRACCIÓN II DEL ARTÍCULO VIGÉSIMO DEL ANEXO PRIMERO; EL INCISO d) DE LA FRACCIÓN IV DEL ARTÍCULO VIGÉSIMO DEL ANEXO PRIMERO; EL INCISO d) DE LA FRACCIÓN V DEL ARTÍCULO VIGÉSIMO DEL ANEXO PRIMERO; LAS FRACCIONES VI, VII Y XV DEL ARTÍCULO VIGÉSIMO DEL ANEXO PRIMERO; EL INCISO a) DE LA FRACCIÓN XVIII DEL ARTÍCULO VIGÉSIMO DEL ANEXO PRIMERO; LAS FRACCIONES VIII, XIII, XVIII, XXIII, XXVIII, XXXIII, XXXVIII Y XLIII DEL ARTÍCULO VIGÉSIMO PRIMERO DEL ANEXO PRIMERO. TODOS DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día uno del mes de enero del año dos mil veintiséis, sin perjuicio de lo dispuesto en los artículos transitorios siguientes.
+
+SEGUNDO. Quedan sin efectos todas aquellas disposiciones que se opongan al presente Decreto.
+
+TERCERO. Cuando se disponga por mandato legal de la autoridad competente, tratándose de la transferencia de servicios públicos que preste el Gobierno del Estado y se trasladen a la autoridad municipal o, en su caso, de la municipalización de servicios públicos que el Gobierno del Estado tenga que entregar al Gobierno Municipal que corresponda y por cuyos servicios se establezca en la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2026 el concepto tributario, habrá de considerarse para los fines legales pertinentes, que una vez cumplidas las formalidades del caso, tales contribuciones se entenderán de competencia hacendaria de la autoridad municipal y sin necesidad de un nuevo Decreto habrán de tenerse insertas en el texto de la Ley de Ingresos del Municipio que corresponda o cualquier ordenamiento legal en que así proceda.
+
+Para el caso de aquellas contribuciones de carácter municipal, que mediante convenios sean transferidas al Gobierno del Estado, de conformidad con la Ley de Coordinación Fiscal y Financiera del Estado de Tabasco, se entenderán de la competencia hacendaría estatal y sin necesidad de un nuevo Decreto habrán de tenerse insertadas en el texto de la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2026 o cualquier otro ordenamiento legal en que así proceda.
+
+CUARTO. La Ley de ingresos del Estado de Tabasco para el Ejercicio Fiscal 2026 no contempla los recursos refrendados del ejercicio fiscal 2025, mismos que se reflejarán en el Presupuesto General de Egresos del Estado de Tabasco para el Ejercicio Fiscal 2026.
+
+QUINTO. En el caso de los organismos públicos descentralizados y empresas de participación estatal mayoritaria, firmarán convenios de colaboración con la Secretaría de Administración y Finanzas, para que mediante plataforma web administrada por esa Secretaría, se supervisen e informen en tiempo real sus ingresos por concepto de derechos, productos y aprovechamientos, conforme a los mecanismos y lineamientos que en materia de ingresos se establezcan por esa misma dependencia.
+
+SEXTO. El Registro Estatal de Gestores Vehiculares deberá crearse en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+SÉPTIMO. La Secretaría de Administración y Finanzas, a través de la Subsecretaria de Ingresos, deberá emitir los lineamientos para regular lo concerniente al Registro Estatal de Gestores Vehiculares, dentro de los 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+OCTAVO. Con fundamento en el artículo 116 del Código Fiscal del Estado de Tabasco, se declara la prescripción de los créditos y obligaciones fiscales derivados de las contribuciones por concepto de Impuesto Vehicular Estatal, refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, y canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, así como sus accesorios, anteriores al ejercicio fiscal 2021, que se encuentren en el sistema del Registro Estatal de Vehículos de la Secretaría de Administración y Finanzas, siempre y cuando no hayan sido requeridas por la autoridad fiscal mediante cualquier acción, gestión de cobro o cualquier acto administrativo, o se encuentre suspendido en términos del mismo artículo.
+
+Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco, se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
