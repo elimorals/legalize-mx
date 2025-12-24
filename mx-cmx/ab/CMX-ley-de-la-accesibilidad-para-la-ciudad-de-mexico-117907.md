@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-la-accesibilidad-para-la-ciudad-de-mexico-117907"
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-12"
-last_updated: "2017-01-12"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117907&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2016-12-03"
 
 LEY DE LA ACCESIBILIDAD PARA LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el jueves 12 de enero de 2017.
 
@@ -72,7 +72,9 @@ II. Ajustes razonables: Las modificaciones y adaptaciones necesarias para garant
 
 III. Ayudas técnicas: Dispositivos tecnológicos y materiales que permiten habilitar, rehabilitar o compensar una o más limitaciones funcionales, motrices, sensoriales o intelectuales de las personas con discapacidad para lograr una vida autónoma.
 
-IV. Delegación: Los 16 Órganos Político-Administrativos que conforman la Ciudad de México.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IV. Alcaldía: Los 16 Órganos Político-Administrativos que conforman la Ciudad de México.
 
 V. DIF-CDMX: Sistema para el Desarrollo Integral de la Familia de la Ciudad de México.
 
@@ -104,41 +106,63 @@ XV. Vida Independiente: La condición que permite a una persona tomar decisiones
 
 La aplicación y cumplimiento de esta Ley, corresponde a:
 
-l. El Jefe de Gobierno de la Ciudad de México;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+I. La persona titular de la Jefatura de Gobierno de la Ciudad de México;
 
 II. El INDEPEDI;
 
 III. El DIF-CDMX;
 
-IV. La Procuraduría General de Justicia de la Ciudad de México;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IV. La Fiscalía General de Justicia de la Ciudad de México;
 
 V. La Secretaría de Cultura de la Ciudad de México;
 
-VI. La Secretaría de Desarrollo Social de la Ciudad de México;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-VII. La Secretaría de Desarrollo Urbano y Vivienda de la Ciudad de México;
+VI. La Secretaría de Bienestar e Igualdad Social de la Ciudad de México;
 
-VIII. La Secretaría de Educación de la Ciudad de México;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VII. La Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VII Bis. La Secretaría de Vivienda;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VIII. La Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México;
 
 IX. La Secretaría de Movilidad de la Ciudad de México;
 
 X. La Secretaría de Obras y Servicios de la Ciudad de México;
 
-XI. La Secretaría de Protección Civil de la Ciudad de México;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XII. La Secretaría de Seguridad Pública de la Ciudad de México;
+XI. La Secretaría de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XII. La Secretaría de Seguridad Ciudadana de la Ciudad de México;
 
 XIII. La Secretaría del Trabajo y Fomento al Empleo de la Ciudad de México;
 
 XIV. La Secretaría de Turismo de la Ciudad de México; y
 
-XV. Las Delegaciones.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XV. Las Alcaldías.
 
 En la aplicación y cumplimiento de la presente Ley deberá darse cumplimiento a los principios de vida independiente, diseño universal e intersectorialidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 5.
 
-El Jefe de Gobierno ejercerá las funciones de vigilancia e inspección de la presente Ley, debiendo para ello expedir los reglamentos, decretos y acuerdos que correspondan y sean necesarios en el ámbito de su competencia. Para tal efecto, tendrá las siguientes facultades:
+La persona titular de la Jefatura de Gobierno ejercerá las funciones de vigilancia e inspección de la presente Ley, debiendo para ello expedir los reglamentos, decretos y acuerdos que correspondan y sean necesarios en el ámbito de su competencia. Para tal efecto, tendrá las siguientes facultades:
 
 I. Implementar programas y acciones que permitan garantizar la accesibilidad y movilidad de las personas con discapacidad en la Ciudad de México;
 
@@ -146,9 +170,11 @@ II. Incorporar en caso de ser necesario, en el Proyecto de Presupuesto de Egreso
 
 III. Las demás que le otorgue la Ley y otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 6.
 
-Son atribuciones del INDEPEDI:
+Son atribuciones del INDISCAPACIDAD CDMX:
 
 I. Proponer políticas públicas para garantizar el cumplimiento de la presente Ley dentro del Subprograma de Accesibilidad y del Subprograma de Sensibilización, ambos del Programa para la Integración al Desarrollo de las Personas con Discapacidad de la Ciudad de México;
 
@@ -170,23 +196,33 @@ II. Impartir cursos de capacitación y actualización en materia de accesibilida
 
 III. Las demás que le otorgue la presente Ley y otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 8.
 
-Son atribuciones de la Secretaría de Desarrollo Social de la Ciudad de México:
+Son atribuciones de la Secretaría de Bienestar e Igualdad Social de la Ciudad de México:
 
-I. Elaborar conjuntamente con el INDEPEDI y el DIF-CDMX, los programas orientados a la sensibilización sobre el derecho a la accesibilidad para todas las personas que viven o transitan en la Ciudad de México, de conformidad con los lineamientos que se establezcan en la materia;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-II. Difundir en conjunto con el INDEPEDI y el DIF-CDMX, las acciones, políticas y campañas de sensibilización que permitan generar una toma de conciencia entre las y los ciudadanos que habitan y transitan en la Ciudad de México sobre la trascendencia de la accesibilidad para todas y todos sus habitantes; y
+I. Elaborar conjuntamente con el INDISCAPACIDAD CDMX y el DIF-CDMX, los programas orientados a la sensibilización sobre el derecho a la accesibilidad para todas las personas que viven o transitan en la Ciudad de México, de conformidad con los lineamientos que se establezcan en la materia;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+II. Difundir en conjunto con el INDISCAPACIDAD CDMX y el DIF-CDMX, las acciones, políticas y campañas de sensibilización que permitan generar una toma de conciencia entre las y los ciudadanos que habitan y transitan en la Ciudad de México sobre la trascendencia de la accesibilidad para todas y todos sus habitantes; y
 
 III. Las demás que le otorgue la Ley y otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 9.
 
-Son atribuciones de la Secretaría de Desarrollo Urbano y Vivienda de la Ciudad de México:
+Son atribuciones de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana de la Ciudad de México:
 
 l. En materia de recuperación del espacio público, aplicar los criterios de accesibilidad establecidos en el Reglamento de Construcciones para el Distrito Federal y sus normas técnicas complementarias, las normas de construcción de la Administración Pública local, así como los manuales y guías técnicas vigentes en la materia;
 
-II. Coadyuvar con las Delegaciones en el mejoramiento de la movilidad, bajo los principios del diseño universal, con los ajustes razonables que se requieran de manera progresiva; y
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+II. Coadyuvar con las Alcaldías en el mejoramiento de la movilidad, bajo los principios del diseño universal, con los ajustes razonables que se requieran de manera progresiva; y
 
 III. Las demás que le otorgue la Ley y otras disposiciones jurídicas aplicables.
 
@@ -283,3 +319,13 @@ TERCERO.- El Sistema para el Desarrollo Integral de la Familia y el Instituto pa
 Recinto de la Asamblea Legislativa del Distrito Federal, a los dieciocho días del mes de octubre del año dos mil dieciséis.- POR LA MESA DIRECTIVA.- DIP. A. XAVIER LÓPEZ ADAME, PRESIDENTE.- DIP. SOCORRO MEZA MARTÍNEZ, SECRETARIA.- DIP. RAYMUNDO MARTÍNEZ VITE, PROSECRETARIO.- FIRMAS.
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, Base III, de la Constitución Política de los Estados Unidos Mexicanos; Transitorios Primero y Segundo del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la Reforma Política de la Ciudad de México; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno de la Ciudad de México, a los tres días del mes de diciembre del año dos mil dieciséis.- EL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- LA SECRETARIA DE GOBIERNO, DORA PATRICIA MERCADO CASTRO.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE DE JESÚS GUTIÉRREZ GUTIÉRREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, SALOMÓN CHERTORIVSKI WOLDENBERG.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, TANYA MÜLLER GARCÍA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS.- EDGAR OSWALDO TUNGÜI RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, JOSÉ RAMÓN AMIEVA GÁLVEZ.- FIRMA.- EL SECRETARIO DE MOVILIDAD, HÉCTOR SERRANO CORTES.- FIRMA.- EL SECRETARIO DE TURISMO, MIGUEL TORRUCO MÁRQUES.- FIRMA.- EL SECRETARIO DE CULTURA, EDUARDO VÁZQUEZ MARTÍN.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, HIRAM ALMEIDA ESTRADA.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, FAUSTO LUGO GARCÍA.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, AMALIA DOLORES GARCÍA MEDINA.- FIRMA.­ EL SECRETARIO DE EDUCACIÓN, MAURICIO RODRÍGUEZ ALONSO.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, ROSA ÍCELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- EL SECRETARIO DE FINANZAS, ÉDGAR ABRAHAM AMADOR ZAMORA.­ FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN, RENÉ RAÚL DRUCKER COLÍN.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 3 FRACCIÓN IV; 4 FRACCIONES I, IV, VI, VII, VIII, XI, XII, Y XV; 5 PRIMER PÁRRAFO; 6 PRIMER PÁRRAFO; 8 PRIMER PÁRRAFO Y FRACCIONES I Y II; Y 9 PRIMER PÁRRAFO Y FRACCIÓN II; Y SE ADICIONA UNA FRACCIÓN VII BIS AL ARTÍCULO 4 DE LA LEY DE LA ACCESIBILIDAD PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la Persona Titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
