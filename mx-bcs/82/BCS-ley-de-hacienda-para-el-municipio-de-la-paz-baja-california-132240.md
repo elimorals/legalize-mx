@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-la-paz-baja-california-132
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2024-12-27"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE LA PAZ, BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número 62 del Boletín Oficial del Gobierno del Estado de Baja California Sur, el lunes 31 de Diciembre de 2018.
 
@@ -365,15 +365,21 @@ XV. Cualquier otro acto o contrato por el que se transmitan bienes inmuebles o d
 
 Es sujeto de este impuesto la persona física o jurídica que adquiera inmuebles que consistan en el suelo y las construcciones adheridas a él, ubicadas en el territorio del Municipio de La Paz, así como los derechos relacionados con los mismos, a que esta sección se refiere.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 38.
 
-El impuesto sobre adquisición de bienes inmuebles será el que resulte de aplicar al valor de inmueble la tasa del 2%.
+El impuesto sobre adquisición de bienes inmuebles será el que resulte de aplicar al valor de inmueble la tasa del 3%.
 
-Cuando el bien que se adquiera sea terreno y construcción destinada a casa habitación, el impuesto se calculará aplicando la tasa del 2% del valor del inmueble, después de reducirlo en 5 veces el valor de la Unidad de Medida y Actualización elevado al año.
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Cuando el bien que se adquiera sea terreno y construcción destinada a casa habitación, el impuesto se calculará aplicando la tasa del 3% del valor del inmueble, después de reducirlo en 5 veces el valor de la Unidad de Medida y Actualización elevado al año.
 
 Cuando en un mismo acto se haga constar la constitución de usufructo y la nuda propiedad, la tasa será de 1% para el usufructo y de 2% para la nuda propiedad.
 
-En el caso de adquisición por donación o sucesión entre cónyuges o parientes en línea recta ascendente o descendente, el impuesto se calculará aplicando la tasa del 1% sobre el valor de avalúo, después de reducirlo en 5 veces el valor de la Unidad de Medida y Actualización, elevado al año.
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+En el caso de adquisición por donación o sucesión entre cónyuges o parientes en línea recta ascendente o descendente, el impuesto se calculará aplicando la tasa del 1.5% sobre el valor de avalúo, después de reducirlo en 5 veces el valor de la Unidad de Medida y Actualización, elevado al año.
 
 Al cederse los derechos hereditarios o enajenarse bienes de la sucesión antes de la adjudicación de los bienes, el impuesto correspondiente a la adquisición por causa de muerte se calculará aplicando la tasa del 1% sobre el valor del avalúo, después de reducirlo en 5 veces el valor de la Unidad de Medida y Actualización, elevado al año, independientemente del que se cause por el cesionario, por la sucesión o por el adquiriente.
 
@@ -867,13 +873,19 @@ XVIII. Servicios de Bomberos, y
 
 XIX. Servicios de Contraloría.
 
+> <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XX. Por el Saneamiento Ambiental.
+
 ###### Artículo 81.
 
 Los derechos por la prestación de servicios que proporcionan las diferentes dependencias y organismos municipales, se causarán en el momento en que el particular contrate o reciba la prestación del servicio o en el momento en que se provoque por parte del Municipio de La Paz, el gasto que deba ser remunerado por aquél, salvo en el caso en que la disposición que fije el derecho señale cosa distinta.
 
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 82.
 
-El importe de las tasas o cuotas que para cada derecho señala la presente Ley, deberá ser cubierto en forma anticipada en las cajas recaudadoras autorizadas por la Tesorería Municipal.
+El importe de las tasas o cuotas que para cada derecho señala la presente Ley, deberá ser cubierto en forma anticipada en las cajas recaudadoras autorizadas por la Tesorería Municipal, salvo en el caso del Saneamiento Ambiental, cuyo importe y forma de entero se encuentra prevista en el capítulo correspondiente de la presente ley.
 
 ###### Artículo 83.
 
@@ -3249,13 +3261,71 @@ IV. Expedición de Constancia de No Situación de Mora
 
 2 Veces la Unidad de Medida y Actualización
 
+> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO III BIS. OTROS DERECHOS
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+#### SECCIÓN ÚNICA. DEL SANEAMIENTO AMBIENTAL
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 148-A.
+
+Los derechos establecidos en esta sección se causarán por la realización de acciones en materia de saneamiento ambiental que se lleven a cabo en el Municipio de La Paz.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 148-B.
+
+Quedan obligadas al pago del derecho de saneamiento ambiental:
+
+a) Las personas que contraten servicios de hospedaje derivado de la ocupación de cuartos o habitaciones de hoteles, posadas, casas de huéspedes, hostales y moteles, así como de aquellos que se lleven a cabo en casas, departamentos enteros, habitaciones privadas o compartidas, casas rodantes y campamentos, independientemente de la forma en que se contraten, incluyendo las que se realicen a través de plataformas o aplicaciones tecnológicas o informáticas;
+
+b) Las personas clientes que celebren contratos de arrendamiento de todo tipo de vehículos automotores dentro del Municipio de La Paz, y
+
+c) Las personas clientes que celebren contratos de arrendamiento de embarcaciones marítimas recreativas y/o deportivas dentro del Municipio de La Paz.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 148-C.
+
+El importe de este derecho deberá ser retenido por los propietarios, poseedores, administradores o arrendadores, según corresponda, de los establecimientos o inmuebles en los que se contraten u otorguen los servicios a que hace referencia el artículo 148-B de la presente ley, quienes deberán de proporcionar mensualmente, mediante las formas aprobadas por la Tesorería Municipal a través de los medios electrónicos dispuestos por ésta, la información relativa a la recaudación que lleven a cabo a más tardar el día diecisiete del mes inmediato posterior al que corresponda dicha información, acompañado del entero del derecho correspondiente.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 148-D.
+
+Los ingresos que por concepto de este derecho se recauden, serán transferidos directamente por la Tesorería Municipal al patrimonio del Fideicomiso Público municipal que al efecto se constituya, teniendo este fideicomiso la obligación de administrarlos y aplicarlos conforme al destino previsto en esta sección.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 148-E.
+
+Con la recaudación del derecho de saneamiento ambiental se cubrirán los costos del cumplimiento de las funciones que se realizan y la prestación de los servicios de que disfruta toda persona en el Municipio, a fin de que el Ayuntamiento establezca políticas públicas y lleve a cabo acciones para el desarrollo sustentable, la preservación y restauración del equilibrio ecológico y la protección ambiental, a través de la ejecución de obras relacionadas a la mejora del espacio público, la conservación y mantenimiento de playas; el tratamiento integral de residuos sólidos urbanos, obras relativas al alumbrado público que garanticen la mitigación de emisiones de Gases de Efecto Invernadero y la eficiencia energética; el tratamiento de aguas residuales y la potabilización de agua para consumo humano; así como la mejora de la movilidad en el traslado de las personas y la disminución de las emisiones contaminantes que se encuentran en el entorno del territorio municipal.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 148-F.
+
+El pago del derecho de saneamiento ambiental por personas usuarias de cuartos y/o habitaciones de hoteles, posadas o casas de huéspedes, hostales y moteles, se causará a razón del 70% del valor diario de la Unidad de Medida y Actualización por cuarto y/o habitación ocupada por noche.
+
+Asimismo, el pago del derecho de saneamiento ambiental que se cause por los servicios de hospedaje a través de plataformas digitales y similares será de 2 veces el valor diario de la Unidad de Medida y Actualización por cuarto, casa o departamento ocupado.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 148-G.
+
+Están obligados a pagar el derecho de saneamiento ambiental todas las personas que se ubiquen en el supuesto establecido en el inciso b) del artículo 148-B mismo que se causará a razón del 50% del valor diario de la Unidad de Medida y Actualización por día de renta.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 148-H.
+
+Están obligados a pagar el derecho de saneamiento ambiental todas las personas que se ubiquen en el supuesto establecido en el inciso c) del artículo 148-B mismo que se causará a razón del 50% del valor diario de la Unidad de Medida y Actualización por evento de renta dentro de un día calendario.
+
 ### CAPÍTULO IV. ACCESORIOS DE LOS DERECHOS
-
-#### SECCIÓN I. VENTA O EXPLOTACIÓN DE BIENES DE DOMINIO PRIVADO
-
-> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
-
-### CAPÍTULO V. DERECHOS NO COMPRENDIDOS EN LA LEY DE INGRESOS VIGENTE, CAUSADOS EN EJERCICIOS FISCALES ANTERIORES PENDIENTES DE LIQUIDACIÓN O PAGO
 
 ###### Artículo 149.
 
@@ -3281,7 +3351,7 @@ Todos los gastos de ejecución son a cargo del contribuyente y en ningún caso, 
 
 Cuando las diligencias practicadas resultaran improcedentes, porque estuviera cumplida la obligación o ésta hubiese quedado insubsistente por la resolución de autoridad competente, no procederá el cobro de gastos de ejecución.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO V. DERECHOS NO COMPRENDIDOS EN LA LEY DE INGRESOS VIGENTE, CAUSADOS EN EJERCICIOS FISCALES ANTERIORES PENDIENTES DE LIQUIDACIÓN O PAGO
 
 ###### Artículo 150.
 
@@ -3289,9 +3359,7 @@ Son derechos no comprendidos en la ley de ingresos vigente causadas en ejercicio
 
 ## TÍTULO QUINTO. PRODUCTOS
 
-### CAPÍTULO I-BIS. VENTA O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES DEL PATRIMONIO MUNICIPAL
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 27 DE DICIEMBRE DE 2024)</small>
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 151.
 
@@ -3319,11 +3387,11 @@ VI. Enajenación de bienes no sujetos a ser inventariados.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO I-TER. ENAJENACIÓN DE BIENES NO SUJETOS A SER INVENTARJADOS
+### CAPÍTULO I-BIS. VENTA O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES DEL PATRIMONIO MUNICIPAL
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-#### SECCIÓN II. VENTA DE TERRENOS PROPIEDAD DEL MUNICIPIO
+#### SECCIÓN I. VENTA O EXPLOTACIÓN DE BIENES DE DOMINIO PRIVADO
 
 > <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
@@ -3349,13 +3417,9 @@ QUÁTER.- Los bienes de uso común o destinados al servicio del Municipio, no po
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-#### SECCIÓN I. VENTA DE BIENES SUBASTADOS POR EL FISCO MUNICIPAL
+#### SECCIÓN II. VENTA DE TERRENOS PROPIEDAD DEL MUNICIPIO
 
 > <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
-
-Artículo 151 SEPTIES.- Constituyen el ingreso producto liquidado de los bienes muebles e inmuebles que sean rematados y vendidos de conformidad con la legislación fiscal.
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 151
 
@@ -3375,7 +3439,17 @@ Por expedición de acta aclaratoria por corrección de datos en Título de propi
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO II. PRODUCTOS NO COMPRENDIDOS EN LA LEY DE INGRESOS VIGENTE, CAUSADOS EN EJERCICIOS FISCALES ANTERIORES PENDIENTES DE LIQUIDACIÓN O PAGO
+### CAPÍTULO I-TER. ENAJENACIÓN DE BIENES NO SUJETOS A SER INVENTARJADOS
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN I. VENTA DE BIENES SUBASTADOS POR EL FISCO MUNICIPAL
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+Artículo 151 SEPTIES.- Constituyen el ingreso producto liquidado de los bienes muebles e inmuebles que sean rematados y vendidos de conformidad con la legislación fiscal.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
 #### SECCIÓN II. VENTA DE BIENES MOSTRENCOS
 
@@ -3383,9 +3457,7 @@ Por expedición de acta aclaratoria por corrección de datos en Título de propi
 
 Artículo 151 OCTIES.- Constituyen ingresos en este ramo, el producto liquidado de los bienes mostrencos que sean rematados y vendidos de acuerdo con las disposiciones relativas.
 
-#### SECCIÓN I. POR RESPONSABILIDAD OBJETIVA
-
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO II. PRODUCTOS NO COMPRENDIDOS EN LA LEY DE INGRESOS VIGENTE, CAUSADOS EN EJERCICIOS FISCALES ANTERIORES PENDIENTES DE LIQUIDACIÓN O PAGO
 
 ###### Artículo 152.
 
@@ -3393,9 +3465,7 @@ Son productos no comprendidos en la ley de ingresos vigente causadas en ejercici
 
 ## TÍTULO SEXTO. APROVECHAMIENTOS
 
-### CAPÍTULO II. MULTAS ADMINISTRATIVAS NO FISCALES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE DICIEMBRE DE 2023)</small>
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 153.
 
@@ -3421,7 +3491,9 @@ VIII. (DEROGADA, B.O. 27 DE DICIEMBRE DE 2024)
 
 IX. Recuperaciones de capital.
 
-### CAPÍTULO III. OTROS APROVECHAMIENTOS
+### CAPÍTULO II. MULTAS ADMINISTRATIVAS NO FISCALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 154.
 
@@ -3431,9 +3503,9 @@ Las sanciones por desacato al Bando de Policía, Buen Gobierno y Justicia Cívic
 
 > <small>[N. DE E. VÉASE REFORMAS A LA TABLA, B.O. 21 DE DICIEMBRE DE 2023, PÁGINAS DE LA 553 A LA 554.]</small>
 
-### CAPÍTULO IV. APROVECHAMIENTOS PATRIMONIALES
+### CAPÍTULO III. OTROS APROVECHAMIENTOS
 
-#### SECCIÓN II. EXPEDICIÓN DE TÍTULOS DE PROPIEDAD
+#### SECCIÓN I. POR RESPONSABILIDAD OBJETIVA
 
 ###### Artículo 155.
 
@@ -3443,13 +3515,13 @@ Son sujetos de este aprovechamiento, las personas físicas o jurídicas que llev
 
 El pago deberá realizarse conforme al dictamen o presupuesto emitido por la Autoridad Municipal, a más tardar dentro de los quince días siguientes en que se notifique al contribuyente, el resultado de la cuantificación de los daños o deterioros causados.
 
-#### SECCIÓN III. ALMACENAJE DE VEHÍCULOS EN LOS CORRALONES DE DEPÓSITO MUNICIPALES
+#### SECCIÓN II. EXPEDICIÓN DE TÍTULOS DE PROPIEDAD
 
 ###### Artículo 156.
 
 (DEROGADO, B.O. 27 DE DICIEMBRE DE 2024)
 
-#### SECCIÓN IV. VENTA DE FORMATOS OFICIALES
+#### SECCIÓN III. ALMACENAJE DE VEHÍCULOS EN LOS CORRALONES DE DEPÓSITO MUNICIPALES
 
 ###### Artículo 157.
 
@@ -3463,19 +3535,13 @@ La erogación por el concepto a que se refiere el párrafo anterior será a carg
 
 Si al mes siguiente de la publicación, no se presenta el propietario del vehículo a pagar o garantizar el crédito fiscal adeudado, se iniciará el procedimiento administrativo de ejecución.
 
-#### SECCIÓN V. SERVICIO DE FOTOCOPIADO
+#### SECCIÓN IV. VENTA DE FORMATOS OFICIALES
 
 ###### Artículo 159.
 
 Por la expedición de los formatos oficiales para todos los cobros de la Hacienda Municipal, se cobrará una cuota de $2.00
 
-#### SECCIÓN I. VENTA O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES DEL PATRIMONIO MUNICIPAL
-
-Artículos 162.- (DEROGADO, B.O. 27 DE DICIEMBRE DE 2024)
-
-Artículos 163.- (DEROGADO, B.O. 27 DE DICIEMBRE DE 2024)
-
-Artículos 164.- (DEROGADO, B.O. 27 DE DICIEMBRE DE 2024)
+#### SECCIÓN V. SERVICIO DE FOTOCOPIADO
 
 ###### Artículo 160.
 
@@ -3493,7 +3559,15 @@ Servicio de fotocopiado de planos del
 
 Los aprovechamientos no especificados en este Capítulo se recaudarán de conformidad con las Leyes, convenios o contratos que los establezcan.
 
-### CAPÍTULO V. ACCESORIOS DE APROVECHAMIENTOS
+### CAPÍTULO IV. APROVECHAMIENTOS PATRIMONIALES
+
+#### SECCIÓN I. VENTA O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES DEL PATRIMONIO MUNICIPAL
+
+Artículos 162.- (DEROGADO, B.O. 27 DE DICIEMBRE DE 2024)
+
+Artículos 163.- (DEROGADO, B.O. 27 DE DICIEMBRE DE 2024)
+
+Artículos 164.- (DEROGADO, B.O. 27 DE DICIEMBRE DE 2024)
 
 #### SECCIÓN II. VENTA DE TERRENOS PROPIEDAD DEL MUNICIPIO
 
@@ -3523,7 +3597,7 @@ Artículos 170.- (DEROGADO, B.O. 27 DE DICIEMBRE DE 2024)
 
 BIS.- Son los ingresos que se perciben por recuperaciones de capital o en su caso patrimonio invertido, de conformidad con la legislación aplicable en la materia y otros conceptos análogos.
 
-### CAPÍTULO VI. APROVECHAMIENTOS NO COMPRENDIDOS EN LA LEY DE INGRESOS VIGENTE, CAUSADOS EN EJERCICIOS FISCALES ANTERIORES PENDIENTES DE LIQUIDACIÓN O PAGO
+### CAPÍTULO V. ACCESORIOS DE APROVECHAMIENTOS
 
 ###### Artículo 171.
 
@@ -3549,7 +3623,7 @@ Todos los gastos de ejecución son a cargo del contribuyente y en ningún caso, 
 
 Cuando las diligencias practicadas resultaran improcedentes, porque estuviera cumplida la obligación o ésta hubiese quedado insubsistente por la resolución de autoridad competente, no procederá el cobro de gastos de ejecución.
 
-### CAPÍTULO ÚNICO. AGUA POTABLE, DRENAJE, ALCANTARILLADO, SANEAMIENTO, TRATAMIENTO Y DISPOSICIÓN DE AGUAS RESIDUALES
+### CAPÍTULO VI. APROVECHAMIENTOS NO COMPRENDIDOS EN LA LEY DE INGRESOS VIGENTE, CAUSADOS EN EJERCICIOS FISCALES ANTERIORES PENDIENTES DE LIQUIDACIÓN O PAGO
 
 ###### Artículo 172.
 
@@ -3557,7 +3631,7 @@ Son los ingresos que se recaudan en el ejercicio corriente, por aprovechamientos
 
 ## TÍTULO SÉPTIMO. INGRESOS POR VENTA DE BIENES, PRESTACION DE SERVICIO Y OTROS INGRESOS
 
-### CAPÍTULO ÚNICO. CLASIFICACIÓN
+### CAPÍTULO ÚNICO. AGUA POTABLE, DRENAJE, ALCANTARILLADO, SANEAMIENTO, TRATAMIENTO Y DISPOSICIÓN DE AGUAS RESIDUALES
 
 ###### Artículo 173.
 
@@ -3585,7 +3659,7 @@ V. Fondos Distintos de Aportaciones.
 
 ## TÍTULO NOVENO. TRANSFERENCIAS, ASIGNACIONES, SUBSIDIOS Y SUBVENCIONES, Y PENSIONES Y JUBILACIONES
 
-### CAPÍTULO I. PENSIONADOS Y JUBILADOS
+### CAPÍTULO ÚNICO. CLASIFICACIÓN
 
 ###### Artículo 175.
 
@@ -3597,7 +3671,7 @@ II. Subsidios y subvenciones
 
 ## TÍTULO DÉCIMO. REDUCCIONES PARA PENSIONADOS, JUBILADOS, PERSONAS CON DISCAPACIDAD Y PERSONAS ADULTAS MAYORES
 
-### CAPÍTULO II. PERSONAS CON DISCAPACIDAD
+### CAPÍTULO I. PENSIONADOS Y JUBILADOS
 
 ###### Artículo 176.
 
@@ -3625,7 +3699,7 @@ IV. Recargos y gastos de ejecución originados por la falta de pago de un crédi
 
 Quienes obtengan este beneficio de carácter fiscal, no podrán obtener reducciones o descuentos adicionales que se contemplen en programas generales.
 
-### CAPÍTULO III. PERSONAS ADULTAS MAYORES
+### CAPÍTULO II. PERSONAS CON DISCAPACIDAD
 
 ###### Artículo 178.
 
@@ -3651,7 +3725,7 @@ IV. Recargos y gastos de ejecución originados por la falta de pago de un crédi
 
 Quienes obtengan este beneficio de carácter fiscal, no podrán obtener reducciones o descuentos adicionales que se contemplen en programas generales.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO III. PERSONAS ADULTAS MAYORES
 
 ###### Artículo 181.
 
@@ -3688,6 +3762,8 @@ IV. El acreditamiento del monto total de la adquisición de predios donde el suj
 Para efectos de lo dispuesto en este Capítulo, se considerarán sujetos beneficiarios para recibir estímulos fiscales, todas aquellas personas físicas o jurídicas que hayan obtenido resolución favorable a la solicitud de otorgamiento de éstos, conforme al procedimiento establecido en la Ley de Fomento Económico y Competitividad del Estado de Baja California Sur.
 
 ## TÍTULO DÉCIMO SEGUNDO. ILÍCITOS FISCALES, INFRACCIONES Y SANCIONES
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 184.
 
@@ -3822,3 +3898,27 @@ El presente Decreto entrará en vigor a partir del día siguiente de su publicac
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+B.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3263 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE MULEGÉ, COMONDÚ, LA PAZ Y LORETO, TODAS DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día 01 de enero del año 2026, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos de Mulegé, Comondú, La Paz y Loreto a través de las personas titulares de la presidencia municipal respectivamente deberán llevar a cabo la conformación de los correspondientes Fideicomisos Municipales de Saneamiento Ambiental a más tardar en el mes de enero del año 2026.
+
+De igual forma, las personas titulares de las tesorerías municipales de cada ayuntamiento deberán poner a disposición de los obligados a retener y enterar, las formas autorizadas por estas a través de los medios electrónicos dispuestos para el entero del Derecho de saneamiento Ambiental, a más tardar en el mes de enero del año 2026.
+
+###### ARTÍCULO TERCERO.
+
+El Comité Técnico de cada Fideicomiso de saneamiento ambiental deberá presentar ante el Congreso del Estado un informe trimestral sobre la administración y aplicación de los recursos transferidos por la Tesorería Municipal, a más tardar dentro de los treinta días naturales siguientes al trimestre concluido, mismo que será turnado a las comisiones permanentes de Vigilancia de la Auditoría Superior del Estado y de Asuntos Fiscales y Administrativos.
+
+El ejercicio del gasto llevado a cabo por cada uno de los fideicomisos municipales de saneamiento ambiental será revisado y fiscalizado por la Auditoría Superior del Estado, conforme a las reglas aplicables a los entes públicos sujetos a fiscalización.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente decreto.
