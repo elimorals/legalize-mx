@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-albergues-privados-para-personas-mayores-de-la-70689"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-04"
-last_updated: "2024-03-04"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70689&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-10-30"
 
 LEY DE ALBERGUES PRIVADOS PARA PERSONAS ADULTAS MAYORES DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 4 de noviembre de 2009.
 
@@ -90,7 +90,9 @@ h) DIF: Al Sistema para el Desarrollo Integral de la Familia de la Ciudad de Mé
 
 i) Ley: A esta Ley de Albergues Privados para Personas Mayores de la Ciudad de México;
 
-j) Código Civil: Al Código Civil para el Distrito Federal;
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+j) Código Civil: Al Código Civil Local vigente para la Ciudad de México;
 
 k) Residente: Al Adulto Mayor que en virtud de un Contrato de Prestación de Servicios, recibe los cuidados y atenciones que requiere en un albergue.
 
@@ -453,6 +455,14 @@ En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda
 G.O. 4 DE MARZO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y MODIFICAN LOS ARTÍCULOS EL ARTÍCULO 1; LOS INCISOS A), D), E), F), G), H) E I), DEL ARTÍCULO 2; LAS FRACCIONES I, II, IV, Y VI, DEL ARTÍCULO 3; EL PÁRRAFO PRIMERO Y LA FRACCIÓN II, DEL ARTÍCULO 5; EL PÁRRAFO PRIMERO Y LAS FRACCIONES II Y IV, DEL ARTÍCULO 6; EL PÁRRAFO PRIMERO Y LA FRACCIÓN I, DEL ARTÍCULO 7; EL PÁRRAFO PRIMERO, DEL ARTÍCULO 8; EL PÁRRAFO PRIMERO Y LA FRACCIÓN II, III Y IV, DEL ARTÍCULO 9; EL ARTÍCULO 18; EL ARTÍCULO 19; EL PRIMER PÁRRAFO, DEL ARTÍCULO 20; EL ARTÍCULO 22; EL ARTÍCULO 23; EL ARTÍCULO 24; EL ARTÍCULO 25; EL ARTÍCULO 26; EL ARTÍCULO 27; EL ARTÍCULO 38; EL ARTÍCULO 47; EL ARTÍCULO 51 Y EL ARTÍCULO 53, ASÍ COMO SU DENOMINACIÓN, TODOS DE LA LEY DE ALBERGUES PRIVADOS PARA PERSONAS ADULTAS MAYORES DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO; 2, INCISO J), DE LA LEY DE ALBERGUES PRIVADOS PARA PERSONAS MAYORES DE LA CIUDAD DE MÉXICO”.]
 
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
