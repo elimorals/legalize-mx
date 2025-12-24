@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-diario-oficial-del-gobierno-del-estado-de-yucatan-68202
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-06"
-last_updated: "2009-04-06"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL DIARIO OFICIAL DEL GOBIERNO DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 6 de abril de 2009.
 
@@ -73,7 +73,9 @@ VI. Los acuerdos, convocatorias de licitación, circulares, manuales, instructiv
 
 VII. Los bandos de policía y buen gobierno, los reglamentos, acuerdos, convocatorias de licitación y demás publicaciones que emitan los ayuntamientos que no cuentan con gaceta municipal, en términos de lo establecido en el artículo 79 de la Constitución Política del Estado de Yucatán;
 
-VIII. Los acuerdos generales, especiales e internos, que le remita el Pleno del Tribunal Superior de Justicia del Estado;
+> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VIII. Los acuerdos generales, especiales e internos, que le remita el Poder Judicial del estado;
 
 IX. Las notificaciones, edictos, avisos judiciales y administrativos y de interés general emitidos por los Poderes Ejecutivo y Judicial del Estado;
 
@@ -93,7 +95,21 @@ XVI. Cualquier información que, a juicio del Titular del Ejecutivo, sea de inte
 
 XVII. Las demás publicaciones oficiales de carácter informativo que, a juicio del Director, su contenido sea relevante para la comunidad.
 
-Los documentos mencionados anteriormente, deberán publicarse de manera íntegra. En el caso de las leyes locales y reglamentos, se procurara incluir la exposición de motivos y los considerándoos (sic), según corresponda. Cuando se expidan leyes nuevas, se deberá incluir en la publicación, la exposición de motivos y los considerándoos (sic).
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2025)</small>
+
+En el caso de las leyes locales y reglamentos deberán publicarse de manera íntegra, se procurará incluir la exposición de motivos y los considerandos, según corresponda. Cuando se expidan leyes nuevas, se deberá incluir en la publicación la exposición de motivos.
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Las dependencias y entidades de la Administración Pública estatal deberán publicar en el Diario los datos que permitan la identificación de las normas que se emitan de conformidad con lo previsto en este artículo, tales como: la denominación de la norma, su emisor, la fecha de emisión y la materia de que se trate, salvo que el ordenamiento jurídico en el que se sustente su expedición o la ley exija la publicación completa de la norma en el Diario. Invariablemente, el texto íntegro de la norma emitida se difundirá por la institución pública que corresponda en el sistema electrónico denominado Repositorio Digital del Diario.
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Todo documento que se publique en este órgano oficial que se vincule con otro documento o archivo cuyo acceso se realice a través de internet, deberá contener una liga hacia la dirección electrónica del Repositorio Digital del Diario, cuya información será constante e inamovible.
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2025)</small>
+
+La publicación de los extractos en el Repositorio Digital del Diario tendrá el mismo valor, la eficacia y los alcances legales que la publicación en el Diario.
 
 ###### Artículo 4.
 
@@ -155,17 +171,29 @@ La fe de erratas es una publicación que tiene por objeto corregir los errores c
 
 En el caso a que se refiere el párrafo anterior, se procederá a la corrección del texto con errores, mediante la inserción de una fe de erratas, en la que conste el contenido del documento original, sin costo alguno para la autoridad o la persona que solicite la corrección.
 
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Lo previsto en este artículo no será aplicable a los extractos que sean subidos al Repositorio Digital del Diario.
+
 ###### Artículo 11.
 
 La nota aclaratoria es una publicación en el Diario que tiene por objeto la corrección de errores imputables a la autoridad o a la persona solicitante de dicha publicación, y consiste en la rectificación del texto publicado, previa solicitud por escrito del interesado a la Dirección del Diario.
 
-Para que se publique en el Diario una nota aclaratoria, el solicitante deberá remitir al Director, junto con la solicitud de aclaración, el texto ya rectificado y, en este caso, los derechos causados por la nueva publicación serán cubiertos por el propio solicitante, en los términos de la legislación aplicable.
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2025)</small>
+
+La persona interesada en publicar una nota aclaratoria deberá remitir al Director la solicitud, en la que se haga constar el texto original y el texto rectificado, además de la fecha de publicación, el número de edición y el nombre del documento, la página en que se encuentra el error o imprecisión, así como el apartado, párrafo, inciso o fracción de que se trate. Los derechos causados por la nueva publicación serán cubiertos por el propio solicitante, en los términos de la legislación aplicable.
 
 Cuando se trate de documentos emitidos por los Poderes del Estado, órganos colegiados y organismos constitucionales autónomos, los documentos cuya corrección se solicite deberán estar suscritos por quienes aprobaron y remitieron el documento publicado o por su representante legal.
 
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Lo previsto en este artículo no será aplicable a los extractos que sean subidos al Repositorio Digital del Diario.
+
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 12.
 
-La fe de erratas y la nota aclaratoria que corrijan algún error, tendrán el valor, la eficacia y los alcances legales que establece el artículo 5 de esta Ley.
+La fe de erratas y la nota aclaratoria que corrijan algún error, tendrán el mismo valor, la eficacia y los alcances legales que la publicación original.
 
 ### CAPÍTULO IV. De la Publicación del Diario
 
@@ -173,11 +201,11 @@ La fe de erratas y la nota aclaratoria que corrijan algún error, tendrán el va
 
 El Diario podrá ser publicado todos los días del año.
 
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 14.
 
-El Diario será publicado en toda la entidad federativa, se imprimirá una cantidad suficiente de ejemplares, para garantizar la satisfacción de la demanda en todo el Estado, cada ejemplar tendrá el costo que fije la Ley General de Hacienda del Estado de Yucatán.
-
-En caso de que los ejemplares del Diario resulten insuficientes, el Director podrá realizar las reimpresiones necesarias para cubrir la demanda, previa autorización del Titular de la Consejería Jurídica.
+Además de la edición electrónica, se imprimirán dos ejemplares del Diario con idénticas características y contenido, para efectos de evidencia documental física, así como para garantizar la publicación del Diario en los casos en que resulte imposible por causas de fuerza mayor, acceder a su edición electrónica. Los ejemplares impresos quedarán en custodia en la hemeroteca del propio organismo, uno para resguardo y otro para consulta pública.
 
 ###### Artículo 15.
 
@@ -185,27 +213,47 @@ La publicación del Diario podrá ser matutina, vespertina o especial. En caso d
 
 Por la importancia de su contenido o por la urgencia del asunto, el Director podrá autorizar la publicación de ediciones especiales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 16.
 
-La publicación de documentos y la venta del Diario causarán los derechos que para tal efecto establezca la Ley General de Hacienda del Gobierno del Estado de Yucatán.
+La publicación de documentos y la emisión de copias certificadas del Diario causarán los derechos que para tal efecto establezca la Ley General de Hacienda del Gobierno del Estado de Yucatán.
 
 Quedan exceptuados del pago de los derechos señalados en el párrafo anterior:
 
 I. Los poderes Ejecutivo, Legislativo y Judicial del Gobierno del Estado;
 
-II. Las autoridades o las instituciones públicas o privadas que suscriban un convenio al respecto con el Poder Ejecutivo del Estado, y
+> <small>(ADICIONADA, D.O. 24 DE DICIEMBRE DE 2025)</small>
 
-III. Las demás personas físicas o morales que disponga el Ejecutivo del Estado.
+II. Los organismos públicos descentralizados del Estado, respecto a las publicaciones de sus estatutos orgánicos o reglas de operación de sus programas;
+
+III. Las autoridades o las instituciones públicas o privadas que suscriban un convenio al respecto con el Poder Ejecutivo del Estado, y
+
+IV. Las demás personas físicas o morales que disponga el Ejecutivo del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 17.
 
-El Diario tendrá una versión electrónica que se difundirá vía Internet el mismo día de su publicación y, en su caso, en el portal que se indique.
+El Diario tendrá una versión electrónica que se difundirá vía Internet en toda la entidad federativa el mismo día de su edición y, en su caso, en el portal que se indique, salvo que ello resulte imposible por causas de fuerza mayor.
 
 La versión electrónica del Diario tendrá validez legal y el carácter de documental pública, siempre y cuando la Dirección del Diario la emita asegurando la integridad y autenticidad de su contenido a través de la firma electrónica, acreditada de conformidad con la ley de la materia.
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2025)</small>
+
+El Director del Diario deberá favorecer la máxima publicidad, accesibilidad y disponibilidad de las ediciones del Diario apoyándose de los diferentes medios físicos y digitales, como aplicaciones móviles y redes sociodigitales.
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2025)</small>
+
+El acceso a la edición electrónica del Diario será gratuito.
 
 ###### Artículo 18.
 
 El Director será responsable de publicar a tiempo los documentos señalados en el artículo 3 de esta Ley y el incumplimiento sin justificación de esta obligación, será causa de responsabilidad que establece el capitulo respectivo de esta Ley.
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2025)</small>
+
+En caso de ausencia temporal del director del Diario, la persona que lo supla, en términos de lo previsto en el Reglamento del Código de la Administración Pública de Yucatán, será responsable de publicar el Diario.
 
 ###### Artículo 19.
 
@@ -215,7 +263,9 @@ I. En versión impresa que contenga las firmas autógrafas de quien emite, y en 
 
 II. Mediante un mensaje de datos que contenga la firma electrónica acreditada de su emisor.
 
-Las publicaciones judiciales y los avisos serán entregados a la Dirección, a más tardar, un día antes al de su publicación.
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2025)</small>
+
+El plazo previsto en el primer párrafo de este artículo se duplicará, cuando se trate de documentos que rebasen las cien páginas.
 
 Quedan exceptuados de lo establecido en los párrafos anteriores aquellos documentos que, por disposición del Titular del Poder Ejecutivo, deban publicarse de manera urgente por tratarse de alguna emergencia, desastre natural o causa de fuerza mayor.
 
@@ -227,11 +277,11 @@ La autoridad o la persona solicitante que incumpla lo dispuesto en el artículo 
 
 La versión electrónica de los documentos cuya publicación se solicite deberá cumplir con las especificaciones técnicas que establezca el reglamento de esta Ley.
 
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 22.
 
-La Dirección dispondrá lo conducente para mantener bajo resguardo un mínimo de 10 ejemplares de cada publicación con sus respectivos suplementos, en su caso.
-
-Los ejemplares sobrantes de las publicaciones del Diario podrán donarse a instituciones académicas, de investigación o de beneficencia y se hará constar en los archivos del Diario los documentos que sustenten dichas donaciones.
+La Dirección dispondrá lo conducente para mantener bajo resguardo un mínimo de dos ejemplares de cada publicación con sus respectivos suplementos, en su caso.
 
 En todo caso, la Dirección ordenará que se mantengan bajo resguardo los archivos electrónicos de las publicaciones realizadas.
 
@@ -261,7 +311,9 @@ III. Determinar el diseño, dimensión y cantidad, el número de suplementos, se
 
 IV. Ordenar que se incluyan en las publicaciones del Diario los índices generales estructurados por materia, por la naturaleza del documento y por la autoridad responsable de la publicación;
 
-V. Determinar los mecanismos para la distribución de los ejemplares del Diario, de conformidad con lo establecido en el artículo 13 de esta Ley y su reglamento;
+> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2025)</small>
+
+V. Determinar los mecanismos para la distribución de los ejemplares electrónicos del Diario, de conformidad con lo establecido en el artículo 17 de esta Ley y su reglamento;
 
 VI. Vigilar que se difunda por la vía electrónica disponible, el ejemplar del Diario correspondiente al día de su publicación;
 
@@ -315,15 +367,15 @@ IV. Las demás disposiciones que establezca el Reglamento de esta Ley.
 
 ###### Artículo 31.
 
-Los Municipios que cuenten con Gaceta Municipal, cuando se trate de publicaciones que contengan disposiciones de carácter general, deberán enviar a la Dirección del Diario, dentro de los tres días siguientes al de su publicación un ejemplar y la versión electrónica.
-
-En caso de no cumplir con lo dispuesto en el párrafo que antecede, la Dirección emitirá una recomendación al Municipio; si no la atiende, se le emitirá una segunda; y si el Municipio siguiera sin cumplir, la Dirección procederá a la cancelación temporal del registro, hasta que dé cumplimiento a la obligación.
+(DEROGADO, D.O. 24 DE DICIEMBRE DE 2025)
 
 ### CAPÍTULO VII. De las Responsabilidades de los Servidores Públicos
 
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 32.
 
-Los servidores públicos considerados en la presente ley, que incurran en las responsabilidades a que se refiere esta misma, serán sujetos de responsabilidad administrativa y serán sancionados; de conformidad con los procedimientos dispuestos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán.
+Los servidores públicos considerados en la presente ley, que incurran en las responsabilidades serán sancionados en términos de la legislación aplicable en materia de responsabilidades administrativas.
 
 T R A N S I T O R I O S:
 
@@ -372,3 +424,17 @@ GOBERNADORA DEL ESTADO
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 137/2025 POR EL QUE SE MODIFICAN LA LEY DEL DIARIO OFICIAL DEL GOBIERNO DEL ESTADO DE YUCATÁN, LA LEY DE ACTOS Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE YUCATÁN, LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN Y LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derogación expresa
+
+Se derogan todas las disposiciones de igual o menor rango que se opongan al contenido del presente decreto.
