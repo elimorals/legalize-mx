@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-trabajadores-al-servicio-de-los-poderes-del-38547"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-23"
-last_updated: "2024-07-10"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 23 de febrero de 2004.
 
@@ -199,7 +199,9 @@ VI.- Horas extraordinarias y trabajos nocturnos para mujeres, cuando pongan en p
 
 VII.- Un salario que no sea remunerativo a juicio del Tribunal de Arbitraje habiendo oído al Sindicato correspondiente;
 
-VIII.- Un salario menor al que se pague a otro trabajador, en la misma institución pública o en cualquier otra de las que son objeto de esta Ley, por trabajo de igual eficiencia en la misma clase de trabajo o igual jornada, por consideración de edad, debiendo prevalecer el principio de a igual función igual remuneración; y
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VIII.- La asignación de un salario inferior al que se otorgue a otra persona trabajadora, en la misma institución pública o en cualquiera de las comprendidas en esta Ley, por trabajo de igual eficiencia en la misma clase de trabajo o igual renumeración, sin tener en cuenta sexo, género, ni cualquier otra condición que atente contra la dignidad humana; y
 
 IX.- Renuncia por parte del trabajador a cualquiera de los derechos o prerrogativas consignadas en la presente Ley y en las Condiciones Generales de Trabajo.
 
@@ -277,9 +279,17 @@ Por cada cinco días de trabajo disfrutará el trabajador de dos días de descan
 
 Los trabajadores que presten sus servicios en sus días de descanso tendrá derecho al pago de una prima adicional de al menos un 25% en base al salario normal de los días de trabajo.
 
-> <small>(ADICIONADO, B.O. 14 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
 
-Las y los trabajadores tendrán derecho a disfrutar de un día laborable al año, con goce íntegro de sueldo, para que se realicen exámenes médicos preventivos, a fin de mejorar su nivel de vida. El área encargada de los recursos humanos de cada Poder o Municipio determinará la forma para que los trabajadores accedan a este derecho, sin que se trastoque el funcionamiento normal de la institución, para estos efectos las y los trabajadores deberán acreditar ante la unidad administrativa que corresponda la programación previa de los exámenes médicos que se practicarán. De considerarlo necesario el o la trabajadora, dará cuenta de los resultados de dichos exámenes a los titulares de las dependencias para la previsión de medidas conducentes. En estos casos, los titulares deberán guardar estricta reserva de la información proporcionada en tutela del derecho a la protección de los datos personales de los trabajadores
+Las personas trabajadoras tendrán derecho a disfrutar de un día laborable al año, con goce íntegro de sueldo, para la realización de exámenes médicos preventivos, a fin de mejorar su nivel de vida. En el caso de las mujeres trabajadoras, este derecho incluirá la posibilidad de ausentarse para realizarse estudios específicos de detección de cáncer de mama y cervicouterino, sin perjuicio de que los hombres trabajadores también puedan acceder a estudios preventivos de cáncer de mama cuando así lo requieran.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+El área encargada de los recursos humanos de cada Poder o Municipio determinará la forma para que los trabajadores accedan a este derecho, sin que se trastoque el funcionamiento normal de la institución, para estos efectos las y los trabajadores deberán acreditar ante la unidad administrativa que corresponda la programación previa de los exámenes médicos que se practicarán.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Si así lo considera necesario, la persona trabajadora podrá informar los resultados a la persona titular de su dependencia, a fin de prever medidas conducentes. En todos los casos, deberá garantizarse la estricta reserva de la información proporcionada, en tutela del derecho a la protección de datos personales.
 
 > <small>(REFORMADO, B.O. 21 DE JULIO DE 2023)</small>
 
@@ -327,15 +337,19 @@ Los trabajadores que tengan más de seis meses consecutivos y menos de diez año
 
 El salario es la retribución que debe pagarse al trabajador a cambio de los servicios prestados.
 
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTICULO 33.
 
-El salario será uniforme para cada una de las categorías de trabajadores y será fijado en los presupuestos de egresos respectivos.
+El salario será uniforme para cada una de las categorías de personas trabajadoras, sin discriminación por motivos de sexo, género, u otra que atente contra la dignidad humana, y será fijado en los presupuestos de egresos respectivos.
 
 ###### ARTICULO 34.
 
 La cuantía del salario uniforme será fijada en los términos del artículo anterior y no podrá ser disminuida durante la vigencia del presupuesto de egresos a que corresponda.
 
-Cada año se presentarán estudios de acuerdo con la capacidad económica de los Poderes del Estado y Municipios tendientes a mejorar las condiciones económicas de los trabajadores, aparte de las mejorías que se obtengan de las resoluciones que dicte el Presidente de la República en funciones y de acuerdo con los convenios existentes.
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Cada año se presentarán estudios de acuerdo con la capacidad económica de los Poderes del Estado y Municipios tendientes a mejorar las condiciones económicas de las personas trabajadoras, aparte de las mejoras que se obtengan de las resoluciones que dicte la persona titular del Poder Ejecutivo Federal en funciones y de acuerdo con los convenios existentes. En los estudios a que refiere el presente párrafo, se deberán implementar mecanismos tendientes a reducir y erradicar la brecha salarial de género gradualmente.
 
 ###### ARTICULO 35.
 
@@ -423,6 +437,10 @@ IV.- De acuerdo con la partida que en el presupuesto de egresos se haya fijado p
 
 V.- Proporcionar a los trabajadores los útiles, instrumentos y materiales para ejecutar el trabajo convenido, en condiciones de funcionamiento e higiene.
 
+> <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+V Bis.- Proporcionar a las personas trabajadoras durante la jornada de trabajo, agua apta para el consumo y uso humano en cantidad suficiente y servicios sanitarios adecuados en cantidad suficiente y proporcional al número de personas.
+
 VI.- Cubrir las aportaciones que fijen las leyes especiales para que los trabajadores reciban los beneficios de la seguridad y servicios sociales comprendidos en los conceptos siguientes:
 
 a).- Atención médica, quirúrgica, farmacéutica y hospitalaria, en su caso, indemnización por accidentes de trabajo y enfermedades profesionales.
@@ -453,7 +471,21 @@ Otorgar licencias con goce de sueldo íntegro, hasta de 2 días, cada mes, a las
 
 IX.- Hacer las deducciones en los salarios, que solicite del sindicato respectivo en los términos de esta Ley.
 
-X.- En caso de fallecimiento de un trabajador en servicio activo, los Poderes del Estado y los Ayuntamientos cubrirán el importe de cuatro meses de sueldo íntegros para gastos de defunción, al familiar del trabajador que legalmente compruebe sus derechos.
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+X.- En caso de fallecimiento de una persona trabajadora en servicio activo, los Poderes del Estado y los Ayuntamientos cubrirán el importe de cuatro meses de remuneración bruta para gastos de defunción, al familiar o familiares de la persona trabajadora que hubiere designado en vida en el formato correspondiente de su centro de trabajo. Sin que sea necesario para recibir el pago de marcha iniciar un juicio o procedimiento contencioso ante el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los Poderes del Estado y Municipios a menos que el trabajador no haya designado al o los beneficiarios. Los Poderes del Estado y los Ayuntamientos no podrán exceder de treinta días naturales para pagar dicha prestación, contados a partir de que el o los beneficiaros inicien el trámite ante el área competente.
+
+El formato a que se refiere la presente fracción deberá contener por lo menos los siguientes requisitos:
+
+a). Estar dirigido a la dependencia en la cual presta sus servicios la trabajadora o trabajador;
+
+b). Indicar el nombre completo, domicilio y demás datos generales de la persona trabajadora, así como su información de identificación laboral y antigüedad;
+
+c). Contener un espacio en el cual se plasme con claridad el nombre completo de la persona beneficiaria o beneficiarias, su domicilio y el porcentaje que se le asigne en su caso;
+
+d). Ser firmado de puño y letra por la persona trabajadora y dos testigos que de preferencia deberán también ser trabajadores, en caso de que la persona trabajadora sea sindicalizada los testigos deberán pertenecer a su organización sindical, testigos que deberán ser debidamente identificados y asentar su domicilio particular;
+
+e). Elaborarse por triplicado y ser sellado de recibido por el área correspondiente de la dependencia y en su caso, por la organización sindical a la que pertenezca la trabajadora o trabajador.
 
 XI.- Cuando un trabajador de acuerdo con la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio del Estado, tenga necesidad de iniciar los trámites para obtener su jubilación o pensión, los Poderes del Estado y Municipios le concederán una licencia de treinta días con goce de sueldo para que pueda atender los trámites correspondientes. Cuando el trabajador reciba la aprobación de su jubilación o pensión, disfrutará de cuatro meses recibiendo su salario íntegro, a partir de la fecha en que sé de por terminada la relación de trabajo. Lo anterior, para que pueda sostenerse en tanto se inicia el pago de su pensión o jubilación.
 
@@ -1770,3 +1802,17 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+B.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3243 SE REFORMAN LA FRACCIÓN VIII DEL ARTÍCULO 15, EL PÁRRAFO TERCERO DEL ARTÍCULO 28, EL ARTÍCULO 33 Y EL PÁRRAFO SEGUNDO AL ARTÍCULO 34, SE REFORMA LA FRACCIÓN X AL ARTÍCULO 44 Y SE ADICIONA UNA FRACCIÓN V BIS AL ARTÍCULO 44, TODOS DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR, Y SE REFORMAN EL ARTÍCULO 1 Y LA FRACCIÓN VI AL ARTÍCULO 33, Y SE ADICIONA LA FRACCIÓN VII DEL ARTÍCULO 27, TODOS A LA LEY DE REMUNERACIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Las disposiciones contenidas en el presente Decreto en materia de igualdad sustantiva y erradicación de la brecha salarial por razones de género, su cumplimiento será gradual conforme a lo que se apruebe en los presupuestos de egresos correspondientes.
+
+TERCERO.- Los procedimientos laborales de declaración de beneficiarios que a la entrada en vigor del presente decreto se encuentren en trámite y que tengan relación con el mismo, continuarán su sustanciación y ejecución en su caso, de conformidad con la legislación aplicable en el momento del inicio de los mismos. Ordenándose al tribunal burocrático del estado, agilizar las resoluciones de los mismos.
+
+CUARTO.- Las áreas de recursos humanos de los Poderes del Estado y Municipios de Baja California Sur, en un plazo no mayor (sic) 30 días naturales, contados a partir de la entrada en vigor del presente decreto, deberán de cumplir con lo establecido en el mismo.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
