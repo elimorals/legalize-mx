@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-procuraduria-ambiental-y-del-21026"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-04-24"
-last_updated: "2021-01-14"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21026&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2001-04-09"
 
 LEY ORGÁNICA DE LA PROCURADURÍA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 14 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 24 de abril de 2001.
 
@@ -84,9 +84,9 @@ IV. Consejo: El Consejo de Gobierno de la Procuraduría;
 
 V. Disposiciones jurídicas en materia ambiental y del ordenamiento territorial: La legislación en materias ambiental, de protección y bienestar animal, desarrollo urbano, patrimonio urbanístico arquitectónico, así como movilidad respecto a uso de vialidades, impacto de movilidad y garantías de los peatones, que sea expedida por el Congreso y las disposiciones jurídicas que de ella deriven, incluyendo los programas correspondientes;
 
-> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-VI. Ley Ambiental: Ley Ambiental de Protección a la Tierra en el Distrito Federal;
+VI. Ley Ambiental: Ley Ambiental de la Ciudad de México;
 
 VII. Ley General: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
@@ -1428,7 +1428,9 @@ Para salvaguardar la confidencialidad de las partes, la Procuraduría podrá uti
 
 La Procuraduría podrá actuar como árbitro en los casos en los que así le sea solicitado, resolviendo en amigable composición o en estricto derecho, con independencia, imparcialidad, objetividad y neutralidad.
 
-El procedimiento arbitral se substanciará conforme a lo establecido en el Reglamento, aplicándose supletoriamente el Código de Procedimientos Civiles del Distrito Federal, las disposiciones jurídicas de carácter internacional y demás normatividad aplicable.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+El procedimiento arbitral se substanciará conforme a lo establecido en el Reglamento, aplicándose supletoriamente el Código de Procedimientos Civiles vigente en la Ciudad de México, las disposiciones jurídicas de carácter internacional y demás normatividad aplicable.
 
 #### Sección IV. De los recursos
 
@@ -1573,3 +1575,11 @@ PRIMERO. Remítase a la persona Titular de la Jefatura de Gobierno para su promu
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. Dentro de los 180 días naturales siguientes a la entrada en vigor del presente decreto, la persona Titular de la Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México presentará al Consejo de Gobierno de dicha institución el proyecto de reformas al Reglamento de la Ley Orgánica de la Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México, a efecto e (sic) armonizar su contenido al presente Decreto.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 3 FRACCIÓN VI Y 34 BIS 7 PÁRRAFO SEGUNDO DE LA LEY ORGÁNICA DE LA PROCURADURÍA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
