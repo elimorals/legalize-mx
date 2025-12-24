@@ -4,7 +4,7 @@ identifier: "CMX-constitucion-politica-de-la-ciudad-de-mexico-118922"
 country: "mx"
 rank: "constitucion"
 publication_date: "2017-02-05"
-last_updated: "2025-12-19"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118922&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-02-05"
 
 CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Constitución publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación y en el Número 1 de la Gaceta Oficial de la Ciudad de México, el domingo 5 de febrero de 2017.
 
@@ -372,7 +372,9 @@ B. Sistema educativo local
 
 4. Esta Constitución reconoce la función primordial de la actividad docente, su dignificación social, así como la importancia de la formación continua para los docentes.
 
-5. El sistema educativo local se adaptará a las necesidades de la comunidad escolar y responderá a su diversidad social y cultural. Asimismo, fomentará la innovación, la preservación, la educación ambiental y el respeto a los derechos humanos, la cultura, la formación cívica, ética, la educación y creación artísticas, la educación tecnológica, la educación física y el deporte. Las autoridades de la Ciudad de México contarán con un sistema de escuelas de nivel medio superior en el que se impartirán estudios al más alto nivel académico.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+5. El sistema educativo local se adaptará a las necesidades de la comunidad escolar y responderá a su diversidad social y cultural. Asimismo, fomentará la innovación, la preservación, la educación ambiental y el respeto a los derechos humanos, la protección de los animales, la cultura, la formación cívica, ética, la educación y creación artísticas, la educación tecnológica, la educación física y el deporte. Las autoridades de la Ciudad de México contarán con un sistema de escuelas de nivel medio superior en el que se impartirán estudios al más alto nivel académico.
 
 6. Las autoridades promoverán esquemas eficientes para el suministro de alimentos sanos y nutritivos conforme a los lineamientos que la autoridad en la materia determine.
 
@@ -860,17 +862,25 @@ A. Derecho a un medio ambiente sano
 
 B. Protección a los animales
 
-1. Esta Constitución reconoce a los animales como seres sintientes y, por lo tanto, deben recibir trato digno. En la Ciudad de México toda persona tiene un deber ético y obligación jurídica de respetar la vida y la integridad de los animales; éstos, por su naturaleza son sujetos de consideración moral. Su tutela es de responsabilidad común.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-2. Las autoridades de la Ciudad garantizarán la protección, bienestar, así como el trato digno y respetuoso a los animales y fomentarán una cultura de cuidado y tutela responsable. Asimismo, realizarán acciones para la atención de animales en abandono.
+1. Esta Constitución reconoce a los animales como seres sintientes y, por lo tanto, deben recibir trato digno. En la Ciudad de México toda persona tiene un deber ético y obligación jurídica de respetar y proteger la vida y la integridad de los animales; éstos, por su naturaleza son sujetos de consideración moral. Su tutela es de responsabilidad común
 
-3. La ley determinará:
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+2. Las autoridades de la Ciudad garantizarán la protección, bienestar, así como el trato digno y respetuoso a los animales y fomentarán una cultura de cuidado y tutela responsable. Asimismo, realizarán acciones para la atención de animales en abandono. En la Ciudad de México queda prohibido el maltrato animal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+3. La ley garantizará la protección, el trato adecuado, la conservación y el cuidado de los animales y determinará:
 
 a) Las medidas de protección de los animales en espectáculos públicos, así como en otras actividades, de acuerdo a su naturaleza, características y vínculos con la persona;
 
 b) Las conductas prohibidas con objeto de proteger a los animales y las sanciones aplicables por los actos de maltrato y crueldad;
 
-c) Las bases para promover la conservación, así como prevenir y evitar maltratos en la crianza y el aprovechamiento de animales de consumo humano;
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+c) Las bases para promover la protección, el trato digno, la conservación y el cuidado; así como prevenir y evitar maltratos en la crianza y el aprovechamiento de animales de consumo humano;
 
 d) Las medidas necesarias para atender el control de plagas y riesgos sanitarios, y
 
@@ -1710,7 +1720,9 @@ c) Respetar y coadyuvar en el desarrollo integral de los miembros de las familia
 
 d) Proteger, preservar y generar un medio ambiente sano y utilizar los recursos naturales de modo racional y sustentable;
 
-e) Respetar la vida y la integridad de los animales como seres sintientes, así como brindarles un trato digno y respetuoso en los términos que dispone esta Constitución;
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+e) Respetar la vida y la integridad de los animales como seres sintientes, brindarles un trato digno y respetuoso, quedando prohibido su maltrato en los términos que dispone esta Constitución;
 
 f) Contribuir al gasto público, conforme lo dispongan las leyes;
 
@@ -4929,3 +4941,13 @@ La Secretaría de Administración y Finanzas determinará lo conducente para que
 NOVENO: Las obligaciones que en su caso se generen con motivo de la entrada en vigor del presente Decreto se cubrirán mediante movimientos compensados conforme a las disposiciones jurídicas aplicables con cargo al presupuesto autorizado a las Unidades Responsables del Gasto, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes.
 
 DÉCIMO. Con excepción de las disposiciones a que hace referencia el segundo párrafo del segundo transitorio de este Decreto, se derogan todas las disposiciones que se opongan al presente.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN EL NUMERAL 5, DEL APARTADO B DEL ARTÍCULO 8; LOS NUMERALES 1, 2 Y PÁRRAFO PRIMERO E INCISO C) DEL NUMERAL 3, DEL APARTADO B DEL ARTÍCULO 13; EL INCISO E) DEL NUMERAL 2 DEL ARTÍCULO 23 DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO; ASIMISMO, SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 1 DE LA LEY DE PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO: Remítase a la persona titular de la Jefatura de Gobierno para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO: El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO: Las obligaciones que, en su caso se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales.
