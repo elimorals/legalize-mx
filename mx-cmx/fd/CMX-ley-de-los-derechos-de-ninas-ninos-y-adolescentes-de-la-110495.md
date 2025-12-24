@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-de-la-110495"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-12"
-last_updated: "2025-04-02"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110495&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 12 de noviembre de 2015.
 
@@ -458,9 +458,11 @@ Asimismo, lo anterior se garantizará conforme a la Ley de Protección de Datos 
 
 ## Título Segundo. De los Derechos de Niñas, Niños y Adolescentes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 13.
 
-Todas las niñas, niños y adolescentes son iguales ante la ley y merecen un trato igual y equitativo. De manera enunciativa más no limitativa, en la Ciudad de México gozarán de los siguientes derechos:
+Todas las niñas, niños y adolescentes son iguales ante la ley, y merecen un trato igual y equitativo. De manera enunciativa más no limitativa, en la Ciudad de México gozarán de los siguientes derechos:
 
 > <small>(REFORMADA, G.O. 2 DE ABRIL DE 2025)</small>
 
@@ -512,13 +514,17 @@ XX. Derecho de acceso a la información y a las tecnologías de la información 
 
 XXI. Derecho a la protección y seguridad sexual;
 
-> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XXII. Derecho a conocer los datos de los sentenciados con ejecutoria por delitos vinculados con violencia sexual contra niñas, niños y adolescentes; y,
+XXII. Derecho a conocer los datos de los sentenciados con ejecutoria por delitos vinculados con violencia sexual contra niñas, niños y adolescentes;
 
-> <small>(ADICIONADA, G.O. 1 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XXIII. Derechos de niñas, niños y adolescentes migrantes.
+XXIII. Derechos de niñas, niños y adolescentes migrantes; y,
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XXIV. Derecho a una alimentación adecuada.
 
 ###### Artículo 14.
 
@@ -1346,17 +1352,23 @@ XVII. Coadyuvar en el acceso a los bienes, servicios, ayudas técnicas y rehabil
 
 XVIII. Fomentar, promover y proteger la práctica de lactancia materna como medida para combatir la mortalidad por desnutrición de las niñas y los niños que se encuentran en la primera infancia; y
 
-> <small>(ADICIONADA, G.O. 29 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XIX. Establecer programas y campañas permanentes de información y concientización orientadas a la prevención oportuna del suicidio en niñas, niños y adolescentes.
+XIX. Establecer programas y campañas permanentes de información y concientización orientadas a la prevención oportuna del suicidio en niñas, niños y adolescentes; y
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XX. Promover campañas de salud visual.
 
 En todos los casos que proporcionen los servicios de salud se respetará el derecho a la intimidad de niñas, niños y adolescentes y a un trato digno.
 
-> <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 47 Bis.
 
-Para apoyar en la eliminación de las formas de malnutrición de niñas, niños y adolescentes, la distribución de alimentos y bebidas preparadas y procesadas dentro de los planteles educativos, tanto públicos y privados de educación básica y educación media superior, deberá sujetarse a lo dispuesto por los lineamientos establecidos por la Secretaría de Educación Pública.
+Para apoyar en la eliminación de las formas de malnutrición de niñas, niños y adolescentes, se promoverán hábitos para una alimentación adecuada. La distribución de alimentos y bebidas preparadas y procesadas dentro de los planteles educativos, tanto públicos y privados de educación básica y educación media superior, deberá sujetarse a lo dispuesto por los lineamientos establecidos por la Secretaría de Educación Pública.
+
+> <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2023)</small>
 
 La aplicación, vigilancia y cumplimiento de esta disposición estará a cargo de las autoridades educativas.
 
@@ -1523,6 +1535,10 @@ XVI. Procurar la erradicación de las prácticas pedagógicas discriminatorias o
 > <small>(REFORMADA, G.O. 12 DE JUNIO DE 2023)</small>
 
 XVII. Educar a niñas, niños y adolescentes en el respeto al medio ambiente, inculcando en ellos la adopción de estilos de vida saludables y sustentables, así como concientizarlos sobre las causas y efectos del cambio climático;
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XVII Bis. Fomentar en niñas, niños y adolescentes el respeto, el cuidado y el bienestar de los animales como seres sintientes, así como la tenencia responsable y la erradicación del maltrato animal.
 
 > <small>(REFORMADA, G.O. 9 DE JUNIO DE 2021)</small>
 
@@ -2602,17 +2618,21 @@ El nombramiento de la persona Titular de la Procuraduría de Protección deberá
 
 #### Sección Cuarta. De las Medidas de Protección Especial
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 115.
 
 Las medidas de protección especial que adopten las autoridades y los órganos político administrativos, serán aquellas necesarias para garantizar y restituir los derechos de niñas, niños y adolescentes en condiciones de vulnerabilidad o discriminación múltiple.
 
-> <small>(REFORMADO, G.O. 15 DE MARZO DE 2024)</small>
-
-Se consideran de manera enunciativa, mas no limitativa, las siguientes condiciones o situaciones de vulnerabilidad: discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apátrida, víctimas de delito, hijas e hijos de personas en reclusión, en situación de calle, embarazo adolescente, adolescentes en conflicto con la ley, uso de drogas, trabajo infantil, trabajo infantil desempeñado en las calles, avenidas, ejes viales, espacios públicos o privados, medios de transporte o cualquier vía de circulación, en situación de abandono, por orientación y preferencia sexual, y cualquier otra condición o situación que impida a niñas, niños y adolescentes el ejercicio efectivo de sus derechos.
+Se consideran de manera enunciativa, mas no limitativa, las siguientes condiciones o situaciones de vulnerabilidad: discapacidad, identidad cultural, origen étnico o nacional, movilidad humana, víctimas de delito, hijas e hijos de personas en reclusión, en situación de calle, embarazo adolescente, adolescentes en conflicto con la ley, uso de drogas, trabajo infantil, trabajo infantil desempeñado en las calles, avenidas, ejes viales, espacios públicos o privados, medios de transporte o cualquier vía de circulación, en situación de abandono, por orientación y preferencia sexual, y cualquier otra condición o situación que impida a niñas, niños y adolescentes el ejercicio efectivo de sus derechos.
 
 ###### Artículo 116.
 
 Las medidas de protección especial deberán ajustarse a las situaciones específicas de cada niña, niño y adolescente.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+En el caso de niñas, niños y adolescentes en situación de movilidad humana se adoptarán las medidas previstas en las leyes de la materia bajo el principio del interés superior de la niñez.
 
 ###### Artículo 117.
 
@@ -3187,6 +3207,46 @@ SEGUNDO. El presente decreto entrará en vigor al día siguiente al de su public
 G.O. 2 DE ABRIL DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 6 FRACCIÓN VI Y 13 FRACCIÓN I DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL SE ADICIONA UNA FRACCIÓN XVII BIS AL ARTÍCULO 58 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase el presente Decreto a la persona Titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL SE ADICIONA LA FRACCIÓN XXIV AL ARTÍCULO 13 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL SE ADICIONA LA FRACCIÓN XX Y SE RECORRE EN SU ORDEN EL ÚLTIMO PÁRRAFO, AMBOS DEL ARTÍCULO 47 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA EL ARTÍCULO 47 BIS DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA EL ARTÍCULO 115 Y SE ADICIONA UN PÁRRAFO AL ARTÍCULO 116 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
 
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
