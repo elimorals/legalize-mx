@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-de-la-ciudad-de-mexico-149711"
 country: "mx"
 rank: "ley"
 publication_date: "2021-06-07"
-last_updated: "2025-10-27"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149711&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-06-04"
 
 LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en el No. 612 de la Gaceta Oficial de la Ciudad de México, el lunes 7 de junio de 2021.
 
@@ -316,7 +316,9 @@ XXXV. Promover el establecimiento y operación de casas de cultura, museos, heme
 
 XXXVI. Coordinar y proponer a las autoridades educativas locales y federales competentes, a fin de contribuir a la mejora continua de los procesos educativos, así como el adecuado funcionamiento de las instalaciones;
 
-XXXVII. Fomentar el cooperativismo para garantizar la aplicación estricta de sus principios y practicarlo en las cooperativas escolares, vigilar la contratación de servicios y la compra de mercancías que se expendan en los planteles educativos, procurando que los alimentos tengan valor nutricional y eviten la obesidad infantil, de acuerdo con las normas correspondientes;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XXXVII. Fomentar el cooperativismo para garantizar la aplicación estricta de sus principios y practicarlo en las cooperativas escolares; vigilar la contratación de servicios y la compra de mercancías que se expendan en los planteles educativos, garantizando que los alimentos y las bebidas tengan valor nutricional, contribuyan a una alimentación nutritiva, suficiente y de calidad, y eviten la obesidad infantil, de acuerdo con las normas correspondientes.
 
 XXXVIII. Establecer con la organización sindical titular del contrato colectivo en materia educativa, disposiciones y convenios laborales, sociales y asistenciales que regirán la relación con las personas educadoras de conformidad con la normativa aplicable, y
 
@@ -1847,3 +1849,11 @@ PRIMERO.- Remítase a la Jefatura de Gobierno para su promulgación y publicaci�
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO.- El Congreso de la Ciudad de México, en un plazo no mayor a 180 días naturales, a partir de la entrada en vigor del presente Decreto, deberá homologar la Ley para la Promoción de la Convivencia Libre de Violencia en el Entorno Escolar de la Ciudad de México, a fin de armonizarla con lo dispuesto en el presente Decreto.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XXXVII AL ARTÍCULO 9, DE LA LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
