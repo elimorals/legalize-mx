@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-tribunal-de-justicia-administrativa-del-122648
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-07-18"
-last_updated: "2025-07-28"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el martes 18 de julio de 2017.
 
@@ -59,11 +59,13 @@ Objeto de la ley
 
 Esta ley es de orden público e interés social y tiene por objeto determinar la Integración, organización, atribuciones y funcionamiento del Tribunal de Justicia Administrativa del Estado de Yucatán, en adelante el tribunal.
 
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 2.
 
 Objeto del tribunal
 
-El Tribunal de Justicia Administrativa del Estado de Yucatán es un organismo constitucional autónomo, máxima autoridad en materia contencioso administrativa, fiscal y de responsabilidades administrativas, dotado de plena jurisdicción, autonomía e independencia para dictar sus resoluciones e imperio para hacerlas cumplir, que tiene por objeto conocer, resolver y dirimir las controversias de carácter administrativo y fiscal que se susciten entre la Administración Pública centralizada y paraestatal del estado y sus municipios, y los particulares; así como respecto de las faltas administrativas graves que correspondan a los servidores públicos y a particulares relacionados con hechos de corrupción que constituyan faltas administrativas graves, en términos de la legislación aplicable en materia de responsabilidades administrativas.
+El Tribunal de Justicia Administrativa del Estado de Yucatán es un organismo constitucional autónomo, máxima autoridad en materia contencioso administrativa, fiscal y de responsabilidades administrativas, dotado de plena jurisdicción, autonomía e independencia para dictar sus resoluciones e imperio para hacerlas cumplir, que tiene por objeto conocer, resolver y dirimir las controversias de carácter administrativo y fiscal, excepto en materia de transparencia y protección de datos personales, que se susciten entre la Administración Pública centralizada y paraestatal del estado y sus municipios, y los particulares; así como respecto de las faltas administrativas graves que correspondan a los servidores públicos y a particulares relacionados con hechos de corrupción que constituyan faltas administrativas graves, en términos de la legislación aplicable en materia de responsabilidades administrativas; con excepción de los servidores públicos del Poder Judicial del Estado de Yucatán.
 
 ###### Artículo 3.
 
@@ -83,15 +85,17 @@ II.- Los juicios que se promuevan en contra de los actos administrativos que dic
 
 III.- Los juicios que se promuevan en contra de los actos de naturaleza fiscal que dicten, ordenen, ejecuten o traten de ejecutar las autoridades del Poder Ejecutivo del estado y de los municipios.
 
-> <small>(REFORMADA, D.O. 28 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2025)</small>
 
-IV.- Los juicios contra resoluciones dictadas por las autoridades administrativas o fiscales del Poder Ejecutivo del estado, de los municipios y por los organismos autónomos, a excepción de las dictadas por las autoridades garantes en materia de transparencia, acceso a la información y protección de datos personales, en los recursos ordinarios establecidos por las leyes y reglamentos respectivos.
+IV.- Los juicios contra resoluciones dictadas por las autoridades administrativas o fiscales del Poder Ejecutivo del estado, de los municipios y por los organismos autónomos.
 
 V.- Los juicios de impugnación contra las resoluciones de responsabilidad por faltas administrativas no graves sancionadoras dirigidas a servidores públicos del Poder Ejecutivo, de los municipios y de los organismos públicos descentralizados, las empresas de participación estatal mayoritaria, los fideicomisos públicos y los organismos constitucionales autónomos, en los términos de la ley en la materia.
 
-> <small>(REFORMADA, D.O. 28 DE JULIO DE 2025)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 24 DE DICIEMBRE DE 2025)</small>
 
-VI.- Los juicios que se promuevan en contra de las resoluciones negativas fictas o en las que se nieguen las positivas fictas en materia administrativa y fiscal, que se configuren por el silencio de las autoridades del Poder Ejecutivo, de los municipios, de los organismos públicos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos y por los organismos autónomos, a excepción de las dictadas en materia de transparencia, acceso a la información y protección de datos personales, para dar respuesta a la instancia de un particular en el plazo que la ley fija.
+VI.- Los juicios que se promuevan en contra de las resoluciones negativas fictas o en las que se nieguen las positivas fictas en materia administrativa y fiscal, que se configuren por el silencio de las autoridades del Poder Ejecutivo, de los municipios, de los organismos públicos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos y por los organismos autónomos.
+
+> <small>(REFORMADO, D.O. 28 DE JULIO DE 2025)</small>
 
 No será aplicable lo dispuesto en la presente fracción en todos aquellos casos en los que se pudiere afectar el derecho de un tercero, reconocido en un registro o anotación ante autoridad administrativa.
 
@@ -105,13 +109,9 @@ X.- El recurso de apelación, revisión y reclamación, y demás medios de incon
 
 XI.- Los medios de impugnación que establezca la ley que organiza y reglamenta el funcionamiento de los ayuntamientos, en caso de que los municipios no cuenten con tribunales de lo contencioso administrativo propios en términos del artículo 81 de la Constitución Política del Estado de Yucatán.
 
-> <small>(REFORMADA, D.O. 28 DE JULIO DE 2025)</small>
+XII.- (DEROGADA, D.O. 24 DE DICIEMBRE DE 2025)
 
-XII.- La impugnación de multas derivadas de procesos de ejecución de medidas de apremio según lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de Yucatán.
-
-> <small>(REFORMADA, D.O. 28 DE JULIO DE 2025)</small>
-
-XIII.- La impugnación de las resoluciones, en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Yucatán.
+XIII.- (DEROGADA, D.O. 24 DE DICIEMBRE DE 2025)
 
 > <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 2023)</small>
 
@@ -136,6 +136,10 @@ XIX.- Los juicios que se promuevan contra las sanciones y demás resoluciones em
 > <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XVII], D.O. 13 DE DICIEMBRE DE 2023)</small>
 
 XX.- Los demás juicios o procedimientos que se promuevan en contra de los actos o resoluciones definitivas impuestas con base en la normativa en materia de responsabilidades administrativas, así como aquellas que las leyes consideren como competencia del tribunal.
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Quedan exceptuados de la competencia del tribunal los medios de impugnación en las materias de transparencia, acceso a la información y protección de datos personales.
 
 > <small>(ADICIONADO, D.O. 28 DE JULIO DE 2025)</small>
 
@@ -223,7 +227,9 @@ Regulación adjetiva
 
 Los juicios que se promuevan ante el tribunal en materia contenciosa administrativa, se substanciarán y resolverán con arreglo a esta ley y al procedimiento que señala la Ley de lo Contencioso Administrativo del Estado de Yucatán.
 
-A falta de disposición expresa, y en cuanto no se oponga a lo que prescribe la Ley de lo Contencioso Administrativo del Estado de Yucatán, se estará a lo establecido en el Código de Procedimientos Civiles de Yucatán.
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2025)</small>
+
+A falta de disposición expresa, y en cuanto no se oponga a lo que prescribe la Ley de lo Contencioso Administrativo del Estado de Yucatán, se estará a lo establecido en el Código Nacional de Procedimientos Civiles y Familiares.
 
 ###### Artículo 13.
 
@@ -241,9 +247,11 @@ Integración
 
 El pleno del tribunal se integrará por tres magistrados, que resolverán los juicios contenciosos administrativos, recursos, procedimientos de responsabilidades administrativas y los demás asuntos que por su trascendencia lo requieran; los acuerdos de mero trámite serán resueltos por el magistrado ponente en turno.
 
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 15.
 
-Atribuciones del pleno
+Atribuciones del Pleno
 
 El pleno del tribunal tendrá las siguientes atribuciones:
 
@@ -267,7 +275,7 @@ VIII.- (DEROGADA, D.O. 13 DE DICIEMBRE DE 2023)
 
 IX.- Nombrar y remover a las personas servidoras públicas adscritas al tribunal, cuyo nombramiento no esté reservado a otra instancia o a alguna autoridad en la Constitución, y resolver sobre su ratificación, adscripción, promoción, licencias, vacaciones, sustituciones y remoción, así como acordar sus renuncias.
 
-X.- Nombrar al titular del órgano de control interno.
+X.- (DEROGADA, D.O. 24 DE DICIEMBRE DE 2025)
 
 XI.- Acordar la renuncia del presidente del tribunal. La renuncia de la presidencia del tribunal no implica renuncia al cargo de magistrado.
 
@@ -279,7 +287,9 @@ XIV.- Resolver las quejas relacionadas con el cumplimiento de las resoluciones q
 
 XV.- Ordenar que se reabra la instrucción y la consecuente devolución de los autos que integran el expediente de un caso atendido por un magistrado ponente, en que se advierta una violación substancial al procedimiento, o cuando requiera que se realice algún trámite en la instrucción.
 
-XVI.- Resolver, en sesión privada, sobre las excusas, excitativas de justicia y recusaciones de los magistrados del tribunal.
+> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XVI.- Resolver sobre las licencias de las personas magistradas que no exceden de un mes.
 
 XVII.- Conceder licencias a sus magistrados.
 
@@ -305,7 +315,7 @@ XXVI.- Conocer y resolver los recursos que sean interpuestos en contra de los ac
 
 XXVII.- Resolver la instancia de aclaración de sentencia, la queja relacionada con el cumplimiento de las resoluciones y determinar las medidas que sean procedentes para la efectiva ejecución de las sentencias que emitan.
 
-XXVIII.- Conocer, desahogar y substanciar hasta dejar en estado de resolución todo procedimiento o queja en contra del titular del órgano interno de control del tribunal por actos u omisiones que se le atribuyan y puedan constituir faltas administrativas, incluyendo las graves, en términos de la legislación aplicable en materia de responsabilidades administrativas, y demás normativa aplicable, y, en su caso, proceda a su sustitución, así como formular periódicamente la evaluación de su desempeño, para oportuna remisión al Congreso para efectos del artículo 42 segundo párrafo de esta ley.
+XXVIII.- (DEROGADA, D.O. 24 DE DICIEMBRE DE 2025)
 
 > <small>(ADICIONADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
 
@@ -339,9 +349,9 @@ XXXV.- Acordar sobre la promoción y el desistimiento de cualquier acto o proced
 
 XXXVI.- Aprobar la habilitación provisional de personas servidoras públicas adscritas al tribunal para que, según las necesidades de servicio y su perfil, desempeñen funciones adicionales, incluso la de persona secretaria y persona actuaria.
 
-> <small>(ADICIONADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XXXVII.- Aprobar la creación de las comisiones que estime convenientes, con carácter permanente o transitorio, para el adecuado funcionamiento del tribunal.
+XXXVII.- Aprobar la creación de las comisiones o comités que estime convenientes, con carácter permanente o transitorio, para el adecuado funcionamiento del tribunal.
 
 > <small>(ADICIONADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
 
@@ -453,11 +463,13 @@ XIV.- Emitir las disposiciones necesarias para dar cumplimiento a sus resolucion
 
 XV.- Las demás que establezcan las leyes y la normativa interna.
 
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 21.
 
-Requisitos para ser magistrado
+Requisitos para ser persona magistrada
 
-Para ser designado magistrado del tribunal se deberán cumplir los mismos requisitos que para ser nombrado magistrado del Poder Judicial del estado, establece la Constitución Política del Estado de Yucatán.
+Para ser designado persona magistrada del tribunal se deberán cumplir los requisitos que establece la Constitución Política del Estado de Yucatán.
 
 > <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 2023)</small>
 
@@ -489,13 +501,13 @@ Renuncia
 
 El cargo de magistrado del tribunal solo es renunciable por causa grave calificada así por el Congreso o, en los recesos de este, por la diputación permanente.
 
-> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 26.
 
 Renovación
 
-Cuando las personas magistradas estén por concluir el periodo para el que hayan sido nombradas, el pleno del tribunal mediante oficio, lo hará saber al Congreso del Estado, para que este a su vez solicite a la persona titular del Poder Ejecutivo que proceda de conformidad con el párrafo segundo del artículo 75 Quater de la Constitución Política del Estado de Yucatán.
+Cuando las personas magistradas estén por concluir el periodo para el que hayan sido nombradas, el pleno del tribunal mediante oficio, lo hará saber al Congreso del Estado, noventa días antes del vencimiento del nombramiento, para que este, a su vez, solicite a la persona titular del Poder Ejecutivo que proceda de conformidad con el párrafo segundo del artículo 75 Quater de la Constitución Política del Estado de Yucatán.
 
 ###### Artículo 27.
 
@@ -539,19 +551,23 @@ Cuando por recusación o excusa, el pleno del tribunal resuelva que algún magis
 
 En caso de que el impedimento a que se refiere el párrafo anterior se resuelva respecto de un magistrado diferente al ponente, el magistrado impedido será suplido en términos del artículo siguiente.
 
-> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 29.
 
 Ausencia temporal o suplencia en Pleno
 
-En caso de ausencia temporal de una persona magistrada que no exceda de cuatro meses, o para suplencia en pleno, la función será cubierta por la persona servidora pública del tribunal que determine el pleno. Quienes se desempeñen como personas magistradas suplentes tendrán las mismas facultades y atribuciones que establece la ley para las personas magistradas titulares.
+Las licencias de las personas magistradas que no excedan de un mes podrán ser concedidas por el Pleno. Las licencias que excedan de este tiempo deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los miembros presentes del Congreso del Estado o, en sus recesos, por la Diputación Permanente, con excepción de la (sic) licencias de maternidad o paternidad que podrán ser con goce de sueldo. Ninguna licencia podrá exceder del término de un año.
+
+En caso de ausencias temporales de una persona magistrada por licencia, en términos del párrafo anterior, la función de persona magistrada será cubierta por la persona servidora pública del tribunal que determine el pleno. Quienes se desempeñen como personas magistradas suplentes tendrán las mismas facultades y atribuciones que establece la ley para las personas magistradas titulares.
+
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 30.
 
 Falta absoluta
 
-En caso de ausencias injustificadas por un periodo mayor a tres meses, por retiro forzoso, muerte, renuncia o destitución, se procederá en los términos del artículo 19.
+Cuando la falta de una persona magistrada excediere de un mes sin licencia o dicha falta se deba a retiro forzoso, defunción, renuncia o destitución, se procederá en los términos del artículo 19.
 
 ### CAPÍTULO IV. Presidente del tribunal
 
@@ -829,7 +845,7 @@ II.- Tener por lo menos treinta y cinco años cumplidos el día de la designaci�
 
 III.- Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión.
 
-IV.- No haber sido secretario de estado, fiscal general del estado, diputado, gobernador, dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los cuatro años anteriores a la propia designación.
+IV.- (DEROGADA, D.O. 24 DE DICIEMBRE DE 2025)
 
 V.- Contar, al momento de su designación, con una experiencia de, al menos, cinco años en el control, manejo o fiscalización de recursos.
 
@@ -865,7 +881,9 @@ VI.- Las demás que determinen las leyes, reglamentos y acuerdos generales corre
 
 Nombramiento y duración
 
-El titular del órgano de control interno durará en su cargo cinco años y será elegido por el voto de las dos terceras partes de los integrantes del pleno del tribunal.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 24 DE DICIEMBRE DE 2025)</small>
+
+El titular del órgano de control interno durará en su cargo cinco años y será elegido por el Congreso del estado, en términos de lo previsto en la Constitución Política del Estado de Yucatán.
 
 El titular del órgano de control interno podrá ser designado por un periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo los requisitos previstos en esta ley.
 
@@ -1058,3 +1076,21 @@ El Poder Ejecutivo, a través de la Secretaría de Administración y Finanzas, d
 Titular de la dependencia
 
 Artículo décimo primero. Con el objeto de no afectar derechos adquiridos con anterioridad a la entrada en vigor de este decreto, la persona titular de la actual Secretaría de la Contraloría General continuará en el cargo de titular de la Secretaría Anticorrupción y Buen Gobierno sin necesidad de nuevo nombramiento por parte del titular del Poder Ejecutivo, ni la ratificación por parte de la legislatura y concluirá su cargo en los términos de su nombramiento.
+
+D.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 130/2025 POR EL QUE SE MODIFICAN LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE YUCATÁN Y LA LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA DEL ESTADO DE YUCATÁN”.]
+
+Entrada en vigor.
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, a excepción de las referencias al Código Nacional de Procedimientos Civiles y Familiares, que lo harán cuando lo haga el referido código conforme a la declaratoria que, al efecto, emita el Congreso, previa solicitud del Poder Judicial del Estado.
+
+Actos en trámite
+
+Artículo segundo. Los convenios, actos jurídicos y asuntos pendientes y en trámite, así como las obligaciones contraídas y los derechos adquiridos, que por su propia naturaleza subsistan con posterioridad al día en que entre en vigor este decreto continuarán su trámite de conformidad con las disposiciones legales y normativas aplicables al momento de su inicio.
+
+Nombramiento
+
+Artículo tercero. El Congreso deberá expedir la convocatoria para la designación del titular del órgano de control interno del Tribunal de Justicia Administrativa del Estado de Yucatán dentro de un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+La persona titular del órgano de control interno del Tribunal de Justicia Administrativa del Estado de Yucatán en funciones, continuará ejerciendo el cargo hasta en tanto el Congreso realice el nombramiento a que se refiere el primer párrafo de este artículo.
