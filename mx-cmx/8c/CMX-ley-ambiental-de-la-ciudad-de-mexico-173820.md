@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-la-ciudad-de-mexico-173820"
 country: "mx"
 rank: "ley"
 publication_date: "2024-07-18"
-last_updated: "2025-08-27"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173820&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2024-07-16"
 
 LEY AMBIENTAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en el No. 1404 de la Gaceta Oficial de la Ciudad de México, el jueves 18 de julio de 2024.
 
@@ -90,6 +90,10 @@ XV. El establecimiento de medidas de compensación y mitigación, así como las 
 
 XVI. Contribuir al cumplimiento de los compromisos internacionales y las metas nacionales en materia de conservación y aprovechamiento sustentable de la biodiversidad, cambio climático y desarrollo sustentable.
 
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XVII. Garantizar que los grupos en condiciones de vulnerabilidad ante el cambio climático cuenten con los elementos necesarios para adaptarse a las diversas problemáticas relacionadas, empleando para ello el análisis interseccional correspondiente.
+
 ###### Artículo 2º.
 
 Se consideran de utilidad pública:
@@ -108,17 +112,25 @@ VI. Las modalidades a la propiedad privada, con el objeto de establecer limitaci
 
 VII. La formulación, ejecución, seguimiento y evaluación de medidas de prevención, y el monitoreo ambiental.
 
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VIII. Las acciones que permitan a los grupos en condiciones de vulnerabilidad ante el cambio climático adaptarse a las diversas problemáticas relacionadas.
+
 ###### Artículo 3º.
 
 En todo lo no previsto en la presente Ley, se aplicarán las disposiciones contenidas en la Ley de Procedimiento Administrativo de la Ciudad de México, así como en otras leyes, reglamentos, normas y demás ordenamientos jurídicos relacionados con las materias que regula esta Ley.
 
 ###### Artículo 4º.
 
-Para los efectos de esta Ley, se utilizarán las definiciones de conceptos que se contienen en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Aguas Nacionales, la Ley General de Vida Silvestre, la Ley General de Desarrollo Forestal Sustentable, la Ley General para la Prevención y Gestión Integral de los Residuos, la Ley General de Cambio Climático, la Ley de Residuos Sólidos del Distrito Federal, la Ley de Mitigación y Adaptación al Cambio Climático y Desarrollo Sustentable de la Ciudad de México, la Ley del Derecho al Acceso, Disposición y Saneamiento del Agua de la Ciudad de México, así como las siguientes:
+Para los efectos de esta Ley, se utilizarán las definiciones de conceptos que se contienen en la Ley General del Equilibrio Ecológico y Protección al Ambiente, la Ley de Aguas Nacionales, la Ley General de Vida Silvestre, la Ley General de Desarrollo Forestal Sustentable, la Ley General para la Prevención y Gestión Integral de los Residuos, la Ley General de Cambio Climático, la Ley de Residuos Sólidos del Distrito Federal, la Ley de Mitigación y Adaptación al Cambio Climático y Desarrollo Sustentable de la Ciudad de México, la Ley del Derecho al Acceso, Disposición y Saneamiento del Agua de la Ciudad de México, así como las siguientes:
 
 I. Administración: La planeación, instrumentación, promoción, ejecución, control y evaluación de las acciones que en el ámbito público y en materia de protección, preservación, restauración y desarrollo se realicen en las Áreas Verdes, Áreas de Valor Ambiental y Áreas Naturales Protegidas, Suelo de Conservación, cuerpos de agua y humedales competencia de la Ciudad de México, así como la coordinación de la investigación científica, monitoreo ambiental, capacitación y asesoría técnica que respecto a dichas áreas y sus elementos se lleven a cabo;
 
 II. Agrobiodiversidad: Los componentes de la diversidad biológica y cultural pertinentes para la producción agrícola, incluida la producción de alimentos, el sustento de los medios de vida, el conocimiento local y tradicional y la conservación del hábitat de los ecosistemas agrícolas;
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+II Bis. Análisis interseccional en el cambio climático: Método de análisis que identifica como diferentes individuos y grupos se relacionan de manera diferenciada con el cambio climático debido a su situación en estructuras de poder basadas en categorizaciones sociales dinámicas y específicas del contexto.
 
 III. Área de Amortiguamiento: Espacio de transición en áreas adyacentes a la zona núcleo de un área protegida, en la cual, dependiendo la naturaleza del proyecto y el uso de suelo principal de dicha zona se determina la posibilidad de ejecutar proyectos, obras o actividades sustentables;
 
@@ -166,6 +178,10 @@ XXIV. Declaratoria de Cumplimiento Ambiental: El instrumento de evaluación de i
 
 XXV. Desequilibrio ecológico: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afecta negativamente la existencia, transformación y desarrollo del ser humano y demás seres vivos;
 
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XXV Bis. Economía circular: Sistema económico que busca erradicar el valor destruido en las cadenas económicas y que parte de la disminución del consumo de materias primas vírgenes, con el objetivo de minimizar el desperdicio de materiales, completando las cadenas económicas y ambientales del flujo de recursos, garantizando reducir el impacto al ambiente derivado de las actividades económicas de fabricación y consumo a través de líneas de acción como la incorporación de productos de bajo impacto ambiental, la eficiencia energética, el rediseño de productos, el reciclaje, la creación de empleos y la dignificación de los mismos, la equidad social, la inclusión de los sectores vulnerados, el acceso universal a los derechos humanos fundamentales y el desarrollo de nuevas tecnologías.
+
 XXVI. Educación ambiental: Proceso destinado a la formación de ciudadanos con valores necesarios para una relación armónica entre los seres humanos, la naturaleza y el ambiente;
 
 XXVII. Emisión conducida: Es aquella que se descarga a través de ductos o chimeneas;
@@ -175,6 +191,10 @@ XXVIII. Emisión fugitiva: Liberación de contaminantes que no se realiza a trav
 XXIX. Emisiones Contaminantes: La generación o descarga de materia o energía, de forma conducida o fugitiva, en cualquier cantidad, estado físico o forma que, al incorporarse, acumularse o actuar en los seres vivos, en la atmósfera, agua, suelo, subsuelo o cualquier elemento natural, afecte negativamente su salud, composición o condición natural;
 
 XXX. Estrategia para la Conservación y el Uso Sustentable de la Biodiversidad y su Plan de Acción: Instrumento que establece las acciones prioritarias para conocer, conservar, restaurar y aprovechar de manera sustentable la biodiversidad en la Ciudad de México, así como los actores responsables de su ejecución y los plazos de cumplimiento; en alineación con la Estrategia Nacional sobre Biodiversidad de México y los compromisos del Convenio sobre la Diversidad Biológica suscrito por México;
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XXX Bis. Especie endémica: Aquella que se encuentra restringida a una región geográfica determinada, no habita de forma natural en ninguna otra parte del mundo y cuyo ámbito de distribución natural se encuentra dado únicamente al interior del Territorio Nacional o de las zonas donde la Nación ejerce su soberanía y jurisdicción, con independencia de que su presencia se extienda a otros territorios, siempre que la especie solo se encuentre presente de forma natural en esa región;
 
 XXXI. Evaluación Ambiental Estratégica: El procedimiento que incluye el conjunto de estudios e informes técnicos que permiten estimar los efectos de un plan o programa de gran trascendencia de desarrollo sectorial e institucional sobre el medio ambiente, con el fin de prevenirlos, compensarlos y mitigarlos;
 
@@ -188,6 +208,10 @@ XXXV. Fuente Emisora Contaminante: Las obras, vehículos automotores, equipos de
 
 XXXVI. Grandes construcciones: Aquellos proyectos que contemplen la construcción de cincuenta mil o más metros cuadrados de construcción total; tratándose de ampliaciones cuyos metros cuadrados de construcción ya existentes sumen cincuenta mil o más metros cuadrados o se pretenda la construcción de más de trecientas viviendas.
 
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XXXVI Bis. Grupos en condiciones de vulnerabilidad ante el cambio climático: Aquellos limitados en su capacidad de anticipar, enfrentar, resistir, adaptarse y recuperarse usando sólo sus propios recursos, ante un evento amenazante producto del cambio climático que altera el desarrollo de la sociedad y su entorno;
+
 XXXVII. Hábitat: El conjunto de condiciones del ambiente a las cuales están adaptados los seres vivos y que permiten la satisfacción de las necesidades básicas para sobrevivir y reproducirse;
 
 XXXVIII. Huella ecológica: El indicador de sustentabilidad que mide el grado de impacto que ejerce cierta comunidad humana, persona, organización, país, región o ciudad sobre el ambiente;
@@ -195,6 +219,10 @@ XXXVIII. Huella ecológica: El indicador de sustentabilidad que mide el grado de
 XXXIX. Inspector Ambiental: Los servidores públicos que realizan actos de inspección en materia ambiental para verificar el cumplimiento de los preceptos de esta Ley, su reglamento, normas aplicables en materia ambiental, ordenamiento ecológico del territorio, declaratorias de Áreas Naturales Protegidas, programas de manejo, creación e incremento de áreas verdes en suelo urbano, las condicionantes que en materia de impacto y riesgo ambiental se impongan;
 
 XL. Infraestructura verde: es la red planificada de soluciones basadas en la naturaleza, que buscan potenciar o recuperar servicios ambientales en la resolución de problemas causados por la urbanización;
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XL Bis. Interseccionalidad: Intersección entre género y otras categorías diferenciales en la vida de los individuos y grupos sociales específicos, sumado a sus prácticas sociales, prácticas institucionales e ideologías culturales, y los resultados de estas interacciones en términos de poder.
 
 XLI. Jardín Polinizador: Espacio público o privado en el que se colocan plantas nativas de la región, que proveen alimento, refugio, agua y espacio para los polinizadores;
 
@@ -255,6 +283,10 @@ LXVI. Transferencia de contaminantes: Traslado de sustancias, compuestos o eleme
 LXVII. Vehículo Automotor: Todo medio de transporte terrestre de pasajeros o de carga cuya tracción depende de una máquina de combustión interna o eléctrica;
 
 LXVIII. Vigilancia Ambiental: Acción de cuidado y atención, con el fin de detectar acciones u omisiones en contravención con la normatividad ambiental; y,
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+LXVIII Bis. Vulnerabilidad: Susceptibilidad o incapacidad de un sistema de afrontar los efectos adversos del cambio climático, en particular la variabilidad climática y los fenómenos extremos. La vulnerabilidad está en función del carácter, magnitud y velocidad de la variación climática a la que se encuentra expuesto un sistema, su sensibilidad, y su capacidad de adaptación.
 
 LXIX. Zona de Calidad Acústica: Determinación de las áreas que integran y delimitan un territorio en los que se establecerán límites máximos permisibles de ruido de manera específica en atención al uso predominante del suelo, para garantizar su bienestar y buen funcionamiento.
 
@@ -340,7 +372,9 @@ XV. Formular y ejecutar el Programa de la Red de Infraestructura Verde de la Ciu
 
 XVI. Establecer el Inventario General de las Áreas Verdes de la Ciudad de México, así como solicitar a las Alcaldías la información del inventario de las áreas verdes de su competencia;
 
-XVII. Limitar, restringir, y en su caso, negar el derribo, poda o trasplante del arbolado en Suelo de Conservación y suelo urbano, Áreas de Valor Ambiental y Áreas Naturales Protegidas, así como promover la sustitución gradual de especies vegetales exóticas y exóticas invasoras, por nativas;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XVII. Limitar, restringir, y en su caso, negar el derribo, poda o trasplante del arbolado en Suelo de Conservación y suelo urbano, Áreas de Valor Ambiental y Áreas Naturales Protegidas, así como promover la sustitución gradual de especies vegetales exóticas y exóticas invasoras, por nativas y endémicas;
 
 XVIII. Administrar, coordinar y supervisar la operación y funcionamiento de los Centros de Conservación de Vida Silvestre y de otras unidades de manejo para la conservación de vida silvestre a cargo de la Secretaría, en términos de la legislación aplicable como centros de conservación, investigación y educación ambiental a través del cuidado y exhibición de diversas especies de flora y fauna silvestre, exótica, nativa y endémica, así como el sano esparcimiento de la población en general;
 
@@ -492,6 +526,10 @@ XI. Promover y ejecutar en el ámbito de sus competencias, políticas para reduc
 
 XII. Promover y ejecutar en el ámbito de sus competencias, políticas para reducir la contaminación ambiental y sus impactos en la salud de la población, así como participar en la ejecución de acciones contenidas en los programas de gestión ambiental y de contingencias ambientales, así mismo, la conservación y protección de los árboles que se encuentren en el polígono de intervención, diseñando y adecuando sus proyectos arquitectónicos en obras o actividades de índole público e interés social, integrando el arbolado y área verde existentes para su conservación.
 
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XIII. Promover el uso prioritario de especies y semillas endémicas en el suelo de conservación de la Ciudad de México.
+
 ###### Artículo 10.
 
 La Secretaría podrá celebrar todo tipo de instrumentos de coordinación y concertación de acciones con autoridades federales, estatales y municipales, así como con los sectores social y privado, en materia de protección, conservación, aprovechamiento, consumo y producción sustentable, mejoramiento y restauración del ambiente de la Ciudad de México.
@@ -584,7 +622,9 @@ XI. La responsabilidad de toda persona en la Ciudad de México para respetar, ma
 
 XII. Los objetivos de descarbonización de la política climática; y,
 
-XIII. La reducción de la vulnerabilidad de la población, los ecosistemas y la infraestructura urbana, anteponiendo la prevención a los riesgos actuales reales y previsibles del cambio climático.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XIII. La reducción de la vulnerabilidad de la población, los ecosistemas y la infraestructura urbana, anteponiendo la prevención a los riesgos actuales reales y previsibles del cambio climático, así como empleando el análisis interseccional correspondiente.
 
 #### SECCIÓN TERCERA.
 
@@ -600,7 +640,9 @@ II. El manejo integral de los residuos de competencia local;
 
 III. El aprovechamiento sustentable del agua y para el tratamiento de aguas residuales provenientes de actividades domésticas, industriales, comerciales, agrícolas, acuícolas, pecuarias o de cualquier otra actividad humana y que, por el uso y/o manejo recibido, se contaminen;
 
-IV. La protección, el manejo, el aprovechamiento y la restauración de los recursos naturales en Áreas de Valor Ambiental, Áreas Naturales Protegidas y Suelo de Conservación;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IV. La protección, el manejo, el aprovechamiento y la restauración de los recursos naturales y especies endémicas en Áreas de Valor Ambiental, Áreas Naturales Protegidas y Suelo de Conservación;
 
 V. Para la incorporación voluntaria de personas físicas y morales a los programas de prácticas de producción sustentable, así como los procesos para su certificación; y,
 
@@ -1460,11 +1502,17 @@ VI. La incorporación de criterios para implementar medidas de adaptación a los
 
 VII. El manejo o aprovechamiento de los elementos naturales se sujetarán a los criterios de sustentabilidad que permitan garantizar la subsistencia de las especies sin ponerlas en riesgo de extinción y permitiendo su regeneración en la cantidad y calidad necesarias para no alterar el equilibrio ecológico; y,
 
-VIII. Las actividades de restauración, reforestación, manejo y aprovechamiento de los recursos naturales se realizarán con un enfoque de cuenca, así como para incrementar la conectividad ecológica en la ciudad y con su entorno regional;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-Los programas y actividades de forestación, reforestación, restauración o aprovechamiento de la flora y fauna, se procurará la preservación y el desarrollo de las especies nativas de la Ciudad de México. El uso o aprovechamiento de los elementos naturales se sujetarán a los criterios de sustentabilidad que permitan garantizar la subsistencia de las especies sin ponerlas en riesgo de extinción y permitiendo su regeneración en la cantidad y calidad necesarias para no alterar el equilibrio ecológico.
+VIII. Las actividades de restauración, reforestación, manejo y aprovechamiento de los recursos naturales se realizarán con un enfoque de cuenca, priorizando la conservación de especies endémicas, así como para incrementar la conectividad ecológica en la ciudad y con su entorno regional;
 
-Los proyectos ambientales prioritarios de conservación, preservación, protección, rescate y restauración de los recursos naturales de la Ciudad de México, de urgente atención, preferentemente se aplicarán para la diversificación de la paleta vegetal nativa, control de plagas, sustitución de arbolado en riesgo y/o muerto, con la finalidad de recuperar los recursos naturales y servicios ambientales de la Ciudad.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Los programas y actividades de forestación, reforestación, restauración o aprovechamiento de la flora y fauna, se procurará la preservación y el desarrollo de las especies nativas y endémicas de la Ciudad de México. El uso o aprovechamiento de los elementos naturales se sujetarán a los criterios de sustentabilidad que permitan garantizar la subsistencia de las especies sin ponerlas en riesgo de extinción y permitiendo su regeneración en la cantidad y calidad necesarias para no alterar el equilibrio ecológico.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Los proyectos ambientales prioritarios de conservación, preservación, protección, rescate y restauración de los recursos naturales de la Ciudad de México, de urgente atención, preferentemente se aplicarán para la diversificación de la paleta vegetal nativa y endémica, control de plagas, sustitución de arbolado en riesgo y/o muerto, con la finalidad de recuperar los recursos naturales y servicios ambientales de la Ciudad.
 
 ### CAPÍTULO I.. DE LOS ACTOS ADMINISTRATIVOS TRADUCIDOS EN PERMISOS
 
@@ -1568,6 +1616,10 @@ I. Impulsar el intercambio de productos ofertados por los productores rurales de
 
 II. Brindar asesoría y acompañamiento a productores y prestadores de servicios.
 
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IX. El uso prioritario de especies y semillas endémicas en suelo de conservación.
+
 ###### Artículo 103.
 
 Para determinar el tipo de zonificación para la ocupación y actividades que se desarrollan en suelo de conservación, deberá estarse a lo señalado en el Programa General de Ordenamiento Territorial.
@@ -1612,11 +1664,19 @@ La Secretaría expedirá conforme a las disposiciones previstas en esta ley, las
 
 Lo dispuesto en este capítulo, así como en el Reglamento de la presente Ley y en las normas ambientales conducentes, serán aplicables a las actividades relacionadas con la poda o trasplante de árboles, siempre que dichas actividades no se realicen en terrenos forestales o de aptitud preferentemente forestal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 107.
 
-La Secretaría establecerá el Inventario General de las Áreas Verdes de la Ciudad de México, con la finalidad de conocer, proteger y preservar dichas áreas, así como para proponer a las Alcaldías su incremento donde se requiera, en términos de los lineamientos y las normas ambientales aplicables.
+La Secretaría establecerá el Inventario General de las Áreas Verdes Urbanas de la Ciudad de México, con la finalidad de conocer, proteger y preservar dichas áreas, así como para proponer a las Alcaldías su incremento donde se requiera, en términos de los lineamientos y las normas ambientales aplicables.
 
-La Secretaría, como parte del Sistema de Información Ambiental de la Ciudad de México, en coordinación con las Alcaldías, deberá realizar el censo del arbolado urbano, la evaluación de su estado fitosanitario, así como el monitoreo de plagas y enfermedades que afectan a las áreas verdes de la Ciudad.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+La Secretaría, como parte del Sistema de Información Ambiental de la Ciudad de México, en coordinación con las Alcaldías, deberá realizar el inventario del arbolado urbano, así como de las áreas verdes urbanas, la evaluación de su estado fitosanitario, así como el monitoreo de plagas y enfermedades que afectan a las áreas verdes urbanas de la Ciudad.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Dicho inventario, incluyendo la evaluación del estado fitosanitario y el monitoreo de plagas y enfermedades, deberá ser actualizado permanentemente por la Secretaría de acuerdo a la viabilidad técnica estimada.
 
 ###### Artículo 108.
 
@@ -2134,6 +2194,10 @@ VIII. La protección, conservación y restauración de la biodiversidad contribu
 
 IX. Los productos reciclados en elementos no estructurales para la realización de obras públicas y privadas, minimizan y atenúan los impactos ambientales negativos generados por la inadecuada disposición; dicho criterio deberá ser incorporado en las medidas de mitigación y compensación de las autorizaciones que al efecto emita la Secretaría.
 
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+X. El uso prioritario de especies y semillas endémicas en suelo de conservación.
+
 ###### Artículo 165.
 
 Los criterios anteriores serán considerados en:
@@ -2214,7 +2278,9 @@ La Secretaría, en el ámbito de su competencia, instrumentará programas de con
 
 Las personas propietarias y legítimas poseedoras de predios en donde se distribuyen especies de vida silvestre, tendrán el derecho a hacer un uso sustentable de éstas, así como la obligación de contribuir a conservar el hábitat presente en dichos predios y las poblaciones silvestres que lo habitan, de conformidad con la legislación aplicable. Serán responsables solidarios las personas propietarias y legítimas poseedoras de dichos predios, así como los terceros que generen o puedan generar efectos negativos derivado del uso de la biodiversidad.
 
-El desarrollo de actividades productivas en Áreas Naturales Protegidas y en Suelo de Conservación, deberá realizarse bajo prácticas sustentables y agroecológicas, que eviten dañar la funcionalidad de los ecosistemas y la viabilidad de las poblaciones de especies silvestres, así como afectar directa o indirectamente los flujos hidrológicos y mantos acuíferos, promoviendo la conservación de la biodiversidad y la agrobiodiversidad, la adaptación a los efectos del cambio climático, conforme a las disposiciones aplicables.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+El desarrollo de actividades productivas en Áreas Naturales Protegidas y en Suelo de Conservación, deberá realizarse bajo prácticas sustentables y agroecológicas, que eviten dañar la funcionalidad de los ecosistemas y la viabilidad de las poblaciones de especies silvestres, así como afectar directa o indirectamente los flujos hidrológicos y mantos acuíferos, promoviendo la conservación de la biodiversidad y la agrobiodiversidad, el uso de semillas y especies endémicas, la adaptación a los efectos del cambio climático, conforme a las disposiciones aplicables.
 
 ###### Artículo 177.
 
@@ -2729,6 +2795,10 @@ VI. Promover y fomentar la instrumentación de sistemas agroecológicos que no d
 VII. En los suelos contaminados, deberán llevarse a cabo las acciones necesarias para recuperar, remediar o restablecer sus condiciones; e,
 
 VIII. Instrumentar herramientas de regulación y vigilancia ambiental para prevenir y controlar la contaminación del suelo urbano.
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IX. Promover y fomentar la utilización de semillas y especies endémicas.
 
 ###### Artículo 233.
 
@@ -3727,3 +3797,43 @@ G.O. 27 DE AGOSTO DE 2025.
 PRIMERO. Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA Y ADICIONA DIVERSOS PÁRRAFOS Y FRACCIONES DE LA LEY AMBIENTAL DE LA CIUDAD DE MÉXICO, ASÍ COMO DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIMÁTICO Y DESARROLLO SUSTENTABLE DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor el día siguiente al de su publicación.
+
+TERCERO. Las obligaciones que, en su caso, se generen con motivo del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE QUE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY AMBIENTAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor el día siguiente al de su publicación.
+
+TERCERO. En un plazo no mayor a 360 días naturales la Secretaría del Medio Ambiente de la Ciudad de México deberá emitir los lineamientos correspondientes para el cumplimiento del presente decreto.
+
+CUARTO. Las obligaciones que, en su caso, se generen con motivo del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN EL PRIMER Y SEGUNDO PÁRRAFO DEL ARTÍCULO 107 Y ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 107, TODOS DE LA LEY AMBIENTAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor el día 1 de enero de 2027.
+
+TERCERO. Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XIV TER, DEL ARTÍCULO 3 DE LA LEY PARA EL DESARROLLO ECONÓMICO DE LA CIUDAD DE MÉXICO; SE ADICIONA LA FRACCIÓN XII. BIS, AL ARTÍCULO 2 DE LA LEY DEL SISTEMA DE PLANEACIÓN DEL DESARROLLO DE LA CIUDAD DE MÉXICO; SE ADICIONA UNA FRACCIÓN XXV BIS. AL ARTÍCULO 4 DE LA LEY AMBIENTAL DE LA CIUDAD DE MÉXICO; SE ADICIONA UNA FRACCIÓN XV TER. AL ARTÍCULO 3 Y SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 6 DE LA LEY DE RESIDUOS SÓLIDOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
