@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-instituciones-de-asistencia-privada-para-la-ciudad-12950
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-14"
-last_updated: "2019-09-13"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12950&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "1998-12-11"
 ---
 # LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA PARA LA CIUDAD DE MEXICO --ANTES LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA PARA EL DISTRITO FEDERAL--
 
-LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA PARA EL DISTRITO FEDERAL
+LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 14 de diciembre de 1998.
 
@@ -38,7 +38,9 @@ LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL, I LEGISLATURA
 
 DECRETA
 
-LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA PARA EL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA PARA LA CIUDAD DE MÉXICO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -84,17 +86,29 @@ XIV. Mayoría Calificada del Consejo: La mayoría de cuando menos siete votos, d
 
 XV. Economías: diferencia favorable entre ingresos y gastos reales del ejercicio de la Junta;
 
-XVI. Junta: la Junta de Asistencia Privada del Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XVII. Consejo Directivo: el Consejo Directivo de la Junta de Asistencia Privada del Distrito Federal;
+XVI. Junta: la Junta de Asistencia de la Ciudad de México.
 
-XVIII. Presidente: el Presidente de la Junta de Asistencia Privada del Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XIX. Secretaría: la Secretaria de Desarrollo Social del Distrito Federal;
+XVII. Consejo Directivo: el Consejo Directivo de la Junta de Asistencia Privada de la Ciudad de México;
 
-XX. Ley: esta Ley de Instituciones de Asistencia Privada para el Distrito Federal, y;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XXI. Código Civil: el Código Civil para el Distrito Federal.
+XVIII. Presidente: el Presidente de la Junta de Asistencia Privada de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XIX. Secretaría: la Secretaría de Bienestar e Igualdad Social de la Ciudad de México.
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XX. Ley: esta Ley de Instituciones de Asistencia Privada para la Ciudad de México, y;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XXI. Código Civil: el Código Civil Local Vigente para la Ciudad de México.
 
 > <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
@@ -118,9 +132,13 @@ Las obras caritativas practicadas por una persona física o moral exclusivamente
 
 Una vez que las instituciones queden definitivamente constituidas conforme a esta Ley, no podrá revocarse la afectación de bienes hecha por el o los fundadores para constituir el patrimonio inicial de aquéllas; debiendo el o los fundadores, o en su caso el albacea del fundador, presentar a la Junta las constancias necesarias que acrediten la aportación del patrimonio de la institución, dentro del término de 30 días posteriores a la declaratoria de constitución que emita el Consejo Directivo de la Junta.
 
-La Administración Pública del Distrito Federal no podrá ocupar los bienes materiales y económicos que pertenezcan a las instituciones de asistencia privada ni celebrar, respecto de esos bienes contrato alguno, substituyéndose a los patronatos de las mismas instituciones. La contravención de este precepto por la Administración Pública del Distrito Federal dará derecho a los fundadores para disponer, en vida, de los bienes destinados por ellos a las instituciones. Los fundadores podrán establecer en su testamento la condición de que si la Administración Pública del Distrito Federal infringe este precepto, pasarán los bienes a sus herederos.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-No se considerará que la Administración Pública del Distrito Federal ocupa los bienes de las instituciones de asistencia privada, cuando la Junta designe a la persona o personas que deban desempeñar un patronato en uso de la facultad que le concede el artículo 42, fracción II., ni cuando ejerza las funciones de inspección y vigilancia establecidas en esta Ley
+La Administración Pública de la Ciudad de México no podrá ocupar los bienes materiales y económicos que pertenezcan a las instituciones de asistencia privada ni celebrar, respecto de esos bienes contrato alguno, substituyéndose a los patronatos de las mismas instituciones. La contravención de este precepto por la Administración Pública de la Ciudad de México dará derecho a los fundadores para disponer, en vida, de los bienes destinados por ellos a las instituciones. Los fundadores podrán establecer en su testamento la condición de que, si la Administración Pública de la Ciudad de México infringe este precepto, pasarán los bienes a sus herederos.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+No se considerará que la Administración Pública de la Ciudad de México ocupa los bienes de las instituciones de asistencia privada, cuando la Junta designe a la persona o personas que deban desempeñar un patronato en uso de la facultad que le concede el artículo 42, fracción II, ni cuando ejerza las funciones de inspección y vigilancia establecidas en esta Ley.
 
 > <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
@@ -170,7 +188,9 @@ Las personas morales constituidas de conformidad con otras leyes y cuyo objeto s
 
 Recibida por la Junta la solicitud a que se refiere el artículo anterior, ésta examinará el programa de trabajo, el proyecto de presupuesto y el proyecto de estatutos y, en su caso, hará las observaciones correspondientes a los solicitantes y resolverá si es de autorizarse o no la constitución de la institución.
 
-Una vez autorizada la constitución de la institución, la Junta expedirá una copia certificada de los estatutos aprobados para que él ó los solicitantes, acudan ante Notario Público a fin de que se proceda a la protocolización e inscripción de la escritura correspondiente en el Registro Público de la Propiedad del Distrito Federal. La autorización de la Junta en el sentido de que se constituya la institución, produce la afectación irrevocable de los bienes a los fines de asistencia que se indiquen en la solicitud. La Junta mandará que su resolución se inscriba en el Registro Público de la Propiedad del Distrito Federal.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Una vez autorizada la constitución de la institución, la Junta expedirá una copia certificada de los estatutos aprobados para que él ó los solicitantes, acudan ante Notario Público a fin de que se proceda a la protocolización e inscripción de la escritura correspondiente en el Registro Público de la Propiedad y de Comercio de la Ciudad de México. La autorización de la Junta en el sentido de que se constituya la institución, produce la afectación irrevocable de los bienes a los fines de asistencia que se indiquen en la solicitud. La Junta mandará que su resolución se inscriba en el Registro Público de la Propiedad y de Comercio de la Ciudad de México.
 
 Las Instituciones de Asistencia Privada tendrán personalidad jurídica desde que se dicte la resolución a que se refiere este artículo.
 
@@ -204,7 +224,9 @@ Cuando hubiese fallecido una persona cuyo testamento disponga la constitución d
 
 El albacea o ejecutor testamentario estará obligado a presentar a la Junta una solicitud que contenga los requisitos que exige el artículo 8º de esta Ley, con una copia certificada del testamento, dentro de los treinta días naturales siguientes a la fecha en que cause ejecutoria el auto de declaratoria de herederos.
 
-Si el albacea o ejecutor, sin causa justificada, no diera cumplimiento a lo dispuesto en este artículo, el juez lo removerá de su cargo, a petición del representante de la Junta, previa la substanciación de un incidente que se tramitará en la forma que previene el Código de Procedimientos Civiles para el Distrito Federal.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Si el albacea o ejecutor, sin causa justificada, no diera cumplimiento a lo dispuesto en este artículo, el juez lo removerá de su cargo, a petición del representante de la Junta, previa la substanciación de un incidente que se tramitará en la forma que previene el Código Nacional de Procedimientos Civiles y Familiares.
 
 El albacea o ejecutor sustituto deberá remitir los documentos que marca este artículo dentro de treinta días naturales siguientes a la fecha en que hubiere aceptado el cargo y si, vencido este plazo sin causa justificada, no cumple dicha obligación, será removido y sustituido en los mismos términos.
 
@@ -224,9 +246,11 @@ La fundación, constituida conforme a lo dispuesto en este capítulo, será part
 
 El patronato de la fundación así constituida no podrá dispensar a los albaceas de garantizar su manejo o de rendir cuentas y exigirá a los mismos, cuando el testador no los haya eximido de esta obligación, que constituyan a favor de la fundación que ellos representen, una garantía en los términos que establece el artículo 1708 del Código Civil.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 19.
 
-Si el albacea o ejecutor no promoviera la formación del inventario dentro del término que señala el Código de Procedimientos Civiles para el Distrito Federal, el patronato podrá promover su formación en términos de lo dispuesto por el Código Civil.
+Si el albacea o ejecutor no promoviera la formación del inventario dentro del término que señala el Código Nacional de Procedimientos Civiles y Familiares, el patronato podrá promover su formación en términos de lo dispuesto por el Código Civil.
 
 ###### Artículo 20.
 
@@ -242,19 +266,19 @@ El albacea o ejecutor no podrá gravar ni enajenar los bienes de la testamentar�
 
 En caso de que la Junta niegue la autorización a que se refiere este artículo, el albacea o ejecutor podrá acudir al juez para que dentro de un incidente en el que se oiga a la Junta, resuelva si procede la solicitud de enajenación o gravamen de los bienes de que se trate.
 
-> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 23.
 
-Los patronos de las fundaciones constituidas en la forma prevenida por este capítulo, estarán obligados a ejercitar oportunamente los derechos que correspondan a dichas fundaciones, de acuerdo con el Código Civil y el Código de Procedimientos Civiles para el Distrito Federal.
+Los patronos de las fundaciones constituidas en la forma prevenida por este capítulo, estarán obligados a ejercitar oportunamente los derechos que correspondan a dichas fundaciones, de acuerdo con el Código Civil y el Código Nacional de Procedimientos Civiles y Familiares.
 
 ### CAPITULO III. DE LOS BIENES QUE CORRESPONDEN A LA ASISTENCIA PRIVADA POR DISPOSICIÓN TESTAMENTARIA O DE LA LEY
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 24.
 
-Cuando el testador destine todos o parte de sus bienes a la asistencia privada sin designar a la institución favorecida, corresponderá al Consejo Directivo de la Junta designar dicha Institución o Instituciones del Distrito Federal.
+Cuando el testador destine todos o parte de sus bienes a la asistencia privada sin designar a la institución favorecida, corresponderá al Consejo Directivo de la Junta designar dicha Institución o Instituciones de la Ciudad de México.
 
 Las disposiciones a favor de iglesias, sectas o instituciones religiosas no determinadas, cuando no esté regulada por otras leyes, así como la disposición previa testamentaria hecha a favor de los pobres, indigentes y similares, sin designación de personas especificas, se entenderán a favor de la asistencia privada y se regirá de acuerdo con lo dispuesto en este artículo.
 
@@ -270,7 +294,9 @@ Cuando el testador deje todos o parte de sus bienes a una institución de asiste
 
 Los donativos que reciban las instituciones requerirán autorización previa del Consejo Directivo de la Junta cuando sean onerosos o condicionales. La Institución que reciba donativos simples y puros, deberá informarlo a la Junta al momento de presentar sus estados financieros.
 
-Los donativos, herencias o legados que se destinen a la asistencia privada en general, serán recibidos por la Junta y será el Consejo Directivo, quien determine a cual o cuales instituciones del Distrito Federal serán destinados.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Los donativos, herencias o legados que se destinen a la asistencia privada en general, serán recibidos por la Junta y será el Consejo Directivo, quien determine a cuál o cuáles instituciones de la Ciudad de México serán destinados.
 
 ###### Artículo 27.
 
@@ -316,7 +342,9 @@ V. Cuando después del plazo de dos años contados a partir de la fecha en que f
 
 En el desahogo del procedimiento de extinción se oirá a la Institución directamente afectada.
 
-La resolución que emita el Consejo Directivo declarando la extinción de la Institución, podrá recurrirse ante el Tribunal de lo Contencioso Administrativo del Distrito Federal mediante el Juicio de nulidad.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+La resolución que emita el Consejo Directivo declarando la extinción de la Institución, podrá recurrirse ante el Tribunal de Justicia Administrativa de la Ciudad de México mediante el Juicio de nulidad.
 
 > <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
@@ -324,9 +352,13 @@ La resolución que emita el Consejo Directivo declarando la extinción de la Ins
 
 En lo que se refiere al artículo 30 de la presente Ley, la Junta podrá solicitar al patronato y a los fundadores de la institución de que se trate, los datos e informes necesarios para resolver sobre la procedencia de la extinción de ésta.
 
-Para la extinción de oficio, la Junta requerirá a los fundadores y patronos de la institución los datos mencionados con anterioridad. En caso de no encontrar algún fundador o a la mayoría de los miembros del patronato de la Institución en proceso de extinción de oficio, la citación a que se refiere el párrafo anterior, se realizará mediante edictos, en los términos que establezca la Ley de Procedimiento Administrativo del Distrito Federal.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-Cuando proceda la extinción de la Institución, la Junta deberá hacerlo del conocimiento del Registro Público de la Propiedad del Distrito Federal para los efectos legales conducentes.
+Para la extinción de oficio, la Junta requerirá a los fundadores y patronos de la institución los datos mencionados con anterioridad. En caso de no encontrar algún fundador o a la mayoría de los miembros del patronato de la Institución en proceso de extinción de oficio, la citación a que se refiere el párrafo anterior, se realizará mediante edictos, en los términos que establezca la Ley de Procedimiento Administrativo de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Cuando proceda la extinción de la Institución, la Junta deberá hacerlo del conocimiento del Registro Público de la Propiedad y de Comercio de la Ciudad de México para los efectos legales conducentes.
 
 ###### Artículo 32.
 
@@ -392,9 +424,9 @@ IV. Dar seguimiento y vigilar que los actos de asistencia privada que se sigan p
 
 V. Representar legalmente a la Institución, a efecto de recuperar judicial o extrajudicialmente los créditos existentes a favor de la misma, analizar pasivos y en su caso proceder a su pago, y (sic)
 
-> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-VI. Obtener del Registro Público de la Propiedad del Distrito Federal, la cancelación de la inscripción de la institución una vez concluida la liquidación;
+VI. Obtener del Registro Público de la Propiedad y de Comercio de la Ciudad de México, la cancelación de la inscripción de la institución una vez concluida la liquidación;
 
 > <small>(ADICIONADA, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
@@ -412,11 +444,11 @@ Para el desempeño de las funciones que establece este capítulo, los liquidador
 
 Todas las resoluciones y actos de los liquidadores serán de común acuerdo y los documentos y escritos que deban expedir o presentar llevarán la firma de ambos. En caso de desacuerdo están obligados a someter el asunto al Consejo Directivo.
 
-> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 39.
 
-Si hubiere remanentes de la liquidación, éstos se aplicarán con sujeción a lo dispuesto por el fundador o fundadores; pero si éstos no hubieren dictado una disposición expresa al respecto al constituirse la institución, los bienes pasarán a la institución o instituciones de asistencia privada del Distrito Federal que designe el Consejo Directivo, de preferencia entre las que tengan un objeto análogo a la extinta.
+Si hubiere remanentes de la liquidación, éstos se aplicarán con sujeción a lo dispuesto por el fundador o fundadores; pero si éstos no hubieren dictado una disposición expresa al respecto al constituirse la institución, los bienes pasarán a la institución o instituciones de asistencia privada de la Ciudad de México que designe el Consejo Directivo, de preferencia entre las que tengan un objeto análogo a la extinta.
 
 ### CAPITULO VI. DE LA REPRESENTACIÓN Y ADMINISTRACIÓN DE LAS INSTITUCIONES DE ASISTENCIA PRIVADA
 
@@ -480,9 +512,9 @@ El cargo de patrono de una institución no podrá desempeñarse por:
 
 I. Quienes estén impedidos por la Ley;
 
-> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-II. Cualquier servidor público de los Poderes Ejecutivo, Legislativo o Judicial de la Federación, municipios, Entidades Federativas o del Distrito Federal; el Presidente, Secretario Ejecutivo y los miembros del Consejo Directivo de la Junta representantes del Sector Público, así como los servidores públicos que desempeñen funciones dentro de la misma;
+II. Cualquier servidor público de los Poderes Ejecutivo, Legislativo o Judicial de la Federación, las Entidades Federativas o de la Ciudad de México; el Presidente, Secretario Ejecutivo y los miembros del (sic)
 
 III. Las personas morales;
 
@@ -742,13 +774,15 @@ Cuando se trate de colectas se estará a las reglas que para la celebración de 
 
 Cuando los patronatos de las instituciones deseen organizar alguna de las actividades de las que refiere el artículo 67 de esta Ley, deberán de cumplir con lo que al respecto establezca la legislación correspondiente. En todo caso, se cuidará que los productos se destinen al cumplimiento del objeto estatutario de la institución que organizó dicha actividad.
 
-### CAPITULO X. DE LA JUNTA DE ASISTENCIA PRIVADA DEL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+### CAPÍTULO X. DE LA JUNTA DE ASISTENCIA PRIVADA DE LA CIUDAD DE MÉXICO
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 70.
 
-La Junta de Asistencia Privada del Distrito Federal es un órgano desconcentrado de la Administración Pública del Distrito Federal, con autonomía de gestión, técnica, operativa y presupuestaria, adscrito directamente al Jefe de Gobierno del Distrito Federal. La autonomía operativa y presupuestal de la Junta estará sujeta al monto de los recursos que obtenga de las cuotas a que se refiere el artículo 85 de esta Ley y no así de recursos asignados a través del Presupuesto de Egresos del Distrito Federal, cuyas partidas de gasto y disposiciones normativas no le son aplicables. Su gasto de operación y las normas para ejercerlo serán las que establezca el Consejo Directivo, con vista a los ingresos estimados y al programa general de trabajo que se apruebe, en los términos previstos en la fracción VIII del artículo 81 de esta Ley.
+La Junta de Asistencia Privada de la Ciudad de México es un órgano desconcentrado de la Administración Pública de la Ciudad de México, con autonomía de gestión, técnica, operativa y presupuestaria, adscrito directamente al Jefe de Gobierno de la Ciudad de México. La autonomía operativa y presupuestal de la Junta estará sujeta al monto de los recursos que obtenga de las cuotas a que se refiere el artículo 85 de esta Ley y no así de recursos asignados a través del Presupuesto de Egresos de la Ciudad de México, cuyas partidas de gasto y disposiciones normativas no le son aplicables. Su gasto de operación y las normas para ejercerlo serán las que establezca el Consejo Directivo, con vista a los ingresos estimados y al programa general de trabajo que se apruebe, en los términos previstos en la fracción VIII del artículo 81 de esta Ley.
 
 > <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
@@ -762,7 +796,9 @@ La Junta tiene por objeto el cuidado, fomento, apoyo, vigilancia, asesoría y co
 
 La Junta tiene las siguientes atribuciones:
 
-I. Vigilar que las instituciones de asistencia privada del Distrito Federal cumplan con lo establecido en la presente Ley, en sus estatutos y demás disposiciones jurídicas aplicables;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+I. Vigilar que las instituciones de asistencia privada de la Ciudad de México cumplan con lo establecido en la presente Ley, en sus estatutos y demás disposiciones jurídicas aplicables;
 
 II. Formular, establecer y ejecutar las políticas en materia de asistencia privada que orienten el cuidado, fomento y desarrollo de las Instituciones en forma eficaz y eficiente;
 
@@ -778,9 +814,13 @@ VII. Promover ante las autoridades competentes el otorgamiento de estímulos fis
 
 VIII. Representar y defender los intereses de las instituciones en los supuestos previstos por esta Ley;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 IX. Coordinarse con las demás dependencias, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal, con las de otras entidades federativas, así como del Gobierno Federal, que tengan a su cargo programas relacionados con la asistencia social, de conformidad con las disposiciones jurídicas aplicables, con el fin de unificar esfuerzos y hacer más eficiente la atención de las necesidades asistenciales existentes;
 
-X. Apoyar directamente a las Instituciones de Asistencia Privada del Distrito Federal, con cargo a las partidas correspondientes, de conformidad a las Reglas de Operación que dicte el Consejo Directivo respecto de estos apoyos, cuyo fondo no rebasará el 50% de las economías que del gasto presupuestado haya obtenido la Junta en el ejercicio del año inmediato anterior;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+X. Apoyar directamente a las Instituciones de Asistencia Privada de la Ciudad de México, con cargo a las partidas correspondientes, de conformidad a las Reglas de Operación que dicte el Consejo Directivo respecto de estos apoyos, cuyo fondo no rebasará el 50% de las economías que del gasto presupuestado haya obtenido la Junta en el ejercicio del año inmediato anterior;
 
 XI. Promover mecanismos de obtención de recursos para las instituciones en forma directa o a través de la Junta;
 
@@ -808,15 +848,25 @@ El Consejo Directivo se integra por:
 
 I. El Presidente de la Junta,
 
-II. El Titular de la Secretaría de Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-III. El Titular de la Secretaría de Finanzas del Distrito Federal;
+II. El Titular de la Secretaría de Gobierno de la Ciudad de México;
 
-IV. El Titular de la Secretaría de Desarrollo Social del Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-V. El Titular de la Secretaría de Salud del Distrito Federal,
+III. El Titular de la Secretaría de Administración y Finanzas de la Ciudad de México;
 
-VI. El Titular del Sistema Nacional para el Desarrollo Integral de la Familia del Distrito Federal, y
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IV. El Titular de la Secretaría de Bienestar e Igualdad Social de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+V. El Titular de la Secretaría de Salud de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VI. El Titular del Sistema para el Desarrollo Integral de la Familia de la Ciudad de México, y
 
 > <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
@@ -842,11 +892,11 @@ El Consejo Directivo celebrará sesiones ordinarias por lo menos una vez al mes 
 
 El Presidente del Consejo Directivo tendrá voto de calidad en caso de empate.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 76.
 
-El Jefe de Gobierno del Distrito Federal nombrará al Presidente de la Junta, de entre los candidatos que proponga en una terna el Consejo Directivo. La terna será designada por mayoría calificada de los integrantes de dicho Consejo. En caso de que el Jefe de Gobierno rechace la totalidad de la terna propuesta, el Consejo Directivo someterá una nueva terna en términos análogos. En este caso, el Jefe de Gobierno podrá elegir a cualquiera de los candidatos de las dos mencionadas ternas, observando en todo caso que se cubran los criterios que establece el artículo 79 de la presente Ley.
+El Jefe de Gobierno de la Ciudad de México nombrará al Presidente de la Junta, de entre los candidatos que proponga en una terna el Consejo Directivo. La terna será designada por mayoría calificada de los integrantes de dicho Consejo. En caso de que la o el Jefe de Gobierno rechace la totalidad de la terna propuesta, el Consejo Directivo someterá una nueva terna en términos análogos. En este caso, la o el Jefe de Gobierno podrá elegir a cualquiera de los candidatos de las dos mencionadas ternas, observando en todo caso que se cubran los criterios que establece el artículo 79 de la presente Ley.
 
 > <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
@@ -912,7 +962,9 @@ II. Tener más de 18 años de edad al día de la designación;
 
 III. Tener conocimientos o haberse destacado en el ámbito de la asistencia social.
 
-No podrán ser representantes de las instituciones de asistencia privada ante el Consejo Directivo, las personas que desempeñen cargo de elección popular, los Secretarios y Subsecretarios de Estado y los Oficiales Mayores de las Secretarías de Estado de la Administración Pública Federal; el Jefe de Gobierno, los Secretarios, Subsecretarios y el Oficial Mayor del Distrito Federal; los titulares de los órganos político-administrativos en las demarcaciones del Distrito Federal; los Directores Generales, Gerentes Generales o similares de los organismos descentralizados y las empresas de participación estatal de las administraciones públicas federal y del Distrito Federal.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+No podrán ser representantes de las instituciones de asistencia privada ante el Consejo Directivo, las personas que desempeñen cargo de elección popular, los Secretarios y Subsecretarios de Estado y los Oficiales Mayores de las Secretarías de Estado de la Administración Pública Federal; el Jefe de Gobierno, los Secretarios, Subsecretarios y el Oficial Mayor de la Ciudad de México; los titulares de los órganos político administrativos en las demarcaciones de la Ciudad de México; los Directores Generales, Gerentes Generales o similares de los organismos descentralizados y las empresas de participación estatal de las administraciones públicas federal y de la Ciudad de México.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
@@ -922,9 +974,9 @@ Para el cumplimiento de sus fines el Consejo Directivo tendrá las atribuciones 
 
 I. Proponer las políticas generales en materia de asistencia privada, de acuerdo con esta ley, así como definir las prioridades a las que deberá sujetarse la Junta en esa materia
 
-> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-II. Verificar y asegurar que exista la debida congruencia entre los recursos financieros y los programas autorizados, relacionados con el objeto de la Junta, de manera que se garantice la transparencia de los primeros y la ejecución de los segundos. El Consejo Directivo podrá autorizar las aplicaciones de recursos de la Junta, que se destinen a apoyar a las Instituciones de Asistencia Privada del Distrito Federal, en los términos y para los efectos de la fracción X del artículo 72 de esta ley;
+II. Verificar y asegurar que exista la debida congruencia entre los recursos financieros y los programas autorizados, relacionados con el objeto de la Junta, de manera que se garantice la transparencia de los primeros y la ejecución de los segundos. El Consejo Directivo podrá autorizar las aplicaciones de recursos de la Junta, que se destinen a apoyar a las Instituciones de Asistencia Privada de la Ciudad de México, en los términos y para los efectos de la fracción X del artículo 72 de esta ley;
 
 > <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
@@ -1038,9 +1090,9 @@ VI. Convocar en ausencia del Secretario Ejecutivo a los miembros del Consejo Dir
 
 VII. Representar legalmente a la junta en todos los actos en que ésta sea parte, sin perjuicio del ejercicio de las facultades conferidas por esta ley y demás disposiciones jurídicas aplicables;
 
-> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-VIII. Otorgar poderes generales para pleitos y cobranzas y actos de administración en los términos del Código Civil para el Distrito Federal;
+VIII. Otorgar poderes generales para pleitos y cobranzas y actos de administración en los términos del Código Civil Local vigente para la Ciudad de México.
 
 > <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
@@ -1096,11 +1148,13 @@ VII. Auxiliar al Presidente en el cumplimiento de sus funciones y suplirlo en su
 
 VIII. Las demás que le confiera esta Ley, su Reglamento, las Reglas de Operación Interna, el Consejo Directivo o el Presidente.
 
-> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 84.
 
-La Junta de Asistencia Privada tendrá un contralor interno de carácter permanente nombrado por la Contraloría General del Distrito Federal que tendrá como principales funciones vigilar el adecuado ejercicio del presupuesto de la Junta y promover el mejoramiento de su gestión, desarrollará sus funciones conforme a los lineamientos que expida la Contraloría General del Distrito Federal y las demás disposiciones jurídicas aplicables.
+La Junta de Asistencia Privada tendrá un contralor interno de carácter permanente nombrado por la Contraloría General de la Ciudad de México que tendrá como principales funciones vigilar el adecuado ejercicio del presupuesto de la Junta y promover el mejoramiento de su gestión, desarrollará sus funciones conforme a los lineamientos que expida la Contraloría General de la Ciudad de México y las demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
 Para el ejercicio de sus funciones tendrá acceso a todos los documentos y a la información contable y financiera de la Junta.
 
@@ -1116,7 +1170,9 @@ Las cuotas a las que se refiere este artículo serán pagadas por las Institucio
 
 Los pagos habrán de aplicarse en primer lugar a cubrir los intereses moratorios que hubiere podido generar la falta de pago puntual de las cuotas y finalmente, a liquidar el principal.
 
-Excepcionalmente, en los términos y para los efectos previstos en la fracción X del artículo 72, la Junta podrá destinar parte del importe total de las cuotas percibidas para crear partidas de apoyo, cuyos recursos podrán ser asignados directamente a las instituciones. Las cuotas a que se refiere este artículo no formarán parte de los ingresos generales del Distrito Federal, ni figurarán en sus presupuestos; serán pagadas por las instituciones directamente a la Junta, la que será autónoma en el ejercicio de su presupuesto. El monto global de las cuotas, mantendrá el principio de transparencia y publicidad de los entes públicos.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Excepcionalmente, en los términos y para los efectos previstos en la fracción X del artículo 72, la Junta podrá destinar parte del importe total de las cuotas percibidas para crear partidas de apoyo, cuyos recursos podrán ser asignados directamente a las instituciones. Las cuotas a que se refiere este artículo no formarán parte de los ingresos generales de la Ciudad de México, ni figurarán en sus presupuestos; serán pagadas por las instituciones directamente a la Junta, la que será autónoma en el ejercicio de su presupuesto. El monto global de las cuotas, mantendrá el principio de transparencia y publicidad de los entes públicos.
 
 ###### Artículo 86.
 
@@ -1198,11 +1254,11 @@ VII. En caso de que el objeto de la visita de inspección sea verificar la conta
 
 Las visitas de inspección se practicarán cuando así lo determine el Consejo Directivo o el Presidente de la Junta en el domicilio oficial de las instituciones y en los establecimientos que de ésta dependan.
 
-> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 92.
 
-Las visitas de inspección que se realicen a las instituciones se llevarán a cabo en términos de lo dispuesto en la presente Ley, su reglamento, y las reglas que para dicho fin emita el Consejo Directivo, las cuales se elaboraran de conformidad a la Ley del Procedimiento Administrativo del Distrito Federal.
+Las visitas de inspección que se realicen a las instituciones se llevarán a cabo en términos de lo dispuesto en la presente Ley, su reglamento, y las reglas que para dicho fin emita el Consejo Directivo, las cuales se elaboraran de conformidad a la Ley del Procedimiento Administrativo de la Ciudad de México.
 
 > <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
@@ -1252,9 +1308,9 @@ I. Abstenerse de protocolizar los actos jurídicos en que intervengan las instit
 
 II. Remitir a la Junta, dentro de los ocho días siguientes a la fecha de su otorgamiento, una copia certificada de las escrituras que se otorgan en su protocolo en las que intervenga alguna institución de asistencia privada;
 
-> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-III. Gestionar, dentro de los ocho días siguientes a su otorgamiento, el registro de las escrituras que se otorguen ante ellos y que conforme a esta u otras leyes, deban inscribirse en el Registro Público de la Propiedad del Distrito Federal, debiendo remitir copia certificada de los datos de inscripción.
+III. Gestionar, dentro de los ocho días siguientes a su otorgamiento, el registro de las escrituras que se otorguen ante ellos y que conforme a esta u otras leyes, deban inscribirse en el Registro Público de la Propiedad y de Comercio de la Ciudad de México, debiendo remitir copia certificada de los datos de inscripción;
 
 IV. Dar aviso a la Junta de la existencia de algún testamento público abierto que contenga disposiciones para constituir una institución de asistencia privada y remitirle copia simple del mismo dentro del término de ocho días contados a partir de la fecha en que lo hayan autorizado, y
 
@@ -1264,9 +1320,11 @@ V. Dar aviso a la Junta cuando se revoque un testamento de los que refiere la fr
 
 Los fedatarios públicos no autorizarán ningún documento público donde se proceda a la liquidación de Instituciones de Asistencia Privada cuando el procedimiento no se ajuste a lo dispuesto en la presente Ley. Igual obligación tendrán los Directores de Registros Públicos.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 100.
 
-Los Jueces del Distrito Federal notificarán a la Junta de la radicación de los juicios sucesorios en que se involucro a la asistencia privada; de igual modo la Junta estará atenta a los procesos de esta naturaleza que se ventilen en los Tribunales Federales o de las distintas Entidades Federativas.
+Los Jueces de la Ciudad de México notificarán a la Junta de la radicación de los juicios sucesorios en que se involucre a la asistencia privada; de igual modo la Junta estará atenta a los procesos de esta naturaleza que se ventilen en los Tribunales Federales o de las distintas Entidades Federativas.
 
 > <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
@@ -1348,9 +1406,11 @@ Los inspectores o auditores que rindan a la Junta informes que contengan hechos 
 
 Los servidores públicos que integran el Consejo Directivo, así como el personal adscrito a la Junta, dentro del marco de su actuación, estarán sujetos a las disposiciones de la Ley Federal de Responsabilidades de los Servidores Públicos y demás disposiciones jurídicas aplicables, sin perjuicio de las responsabilidades en que pudieran incurrir.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 109.
 
-Para la imposición de las sanciones a que se refieren los artículos 102 a 107 de esta Ley, la Junta estará a lo dispuesto por la Ley de Procedimiento Administrativo del Distrito Federal.
+Para la imposición de las sanciones a que se refieren los artículos 102 a 107 de esta Ley, la Junta estará a lo dispuesto por la Ley de Procedimiento Administrativo de la Ciudad de México.
 
 > <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
@@ -1417,3 +1477,11 @@ PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA DENOMINACIÓN DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA PARA EL DISTRITO FEDERAL PARA QUEDAR COMO “LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA PARA LA CIUDAD DE MÉXICO”; Y LA DENOMINACIÓN DEL CAPÍTULO X, DE LA JUNTA DE ASISTENCIA PRIVADA DEL DISTRITO FEDERAL, PARA QUEDAR COMO JUNTA DE ASISTENCIA PRIVADA DE LA CIUDAD DE MÉXICO, ASÍ COMO LOS ARTÍCULOS 2 FRACCIONES XVI, XVII, XVIII, XIX, XX Y XXI; 6 PÁRRAFOS SEGUNDO Y TERCERO; 9 SEGUNDO PÁRRAFO; 15 SEGUNDO PÁRRAFO; 19; 23; 24 PRIMER PÁRRAFO; 26 SEGUNDO PÁRRAFO; 30 TERCER PÁRRAFO; 31 PÁRRAFOS SEGUNDO Y TERCERO; 37 FRACCIÓN VI; 39; 43 FRACCIÓN II; 70; 72 FRACCIONES I, IX Y X; 74 FRACCIONES II, III, IV, V Y VI; 76 PRIMER PÁRRAFO; 80 SEGUNDO PÁRRAFO; 81 FRACCIÓN II; 82 FRACCIÓN VIII; 84 PRIMER PÁRRAFO; 85 QUINTO PÁRRAFO; 92; 99 FRACCIÓN III; 100 Y 109, TODOS DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
