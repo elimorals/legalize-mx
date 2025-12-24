@@ -4,7 +4,7 @@ identifier: "CHH-ley-hacienda-del-estado-de-chihuahua-132078"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2023-12-30"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "CHH"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE ENERO DE 2026 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Número 104 del Periódico Oficial del Estado de Chihuahua, el lunes 31 de diciembre de 2018.
 
@@ -1015,6 +1017,10 @@ OBJETO
 
 Es objeto de este impuesto, los montos que resulten a pagar por concepto de impuestos ordinarios y derechos a que se refieren esta Ley, la Ley Estatal de Derechos de Chihuahua, la Ley de Ingresos del Estado de Chihuahua y, en su caso, el Acuerdo por el que se establecen las cuotas por el uso de carreteras del Estado.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+No forman parte del objeto de este impuesto, los montos que resulten a pagar por concepto de los derechos establecidos en los capítulos XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII, XXXIV, XXXVI, XXXVII, XXXIX, XL, XLI, XLIII, XLIV, XLV y el artículo 266, todos de la Ley Estatal de Derechos de Chihuahua.
+
 SUJETOS
 
 ###### ARTÍCULO 80.
@@ -1029,15 +1035,15 @@ Se tomará como base de este impuesto, el monto total que se cause en cada impue
 
 TASA Y DESTINO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 82.
 
-A la base a que se refiere el artículo 81 de esta Ley, se le aplicará la tasa del 4%, tratándose de impuestos ordinarios y derechos por el uso de carreteras de cuota estatales; y la tasa del 6%, tratándose del resto de derechos, y el importe que se obtenga será el impuesto a pagar.
+A la base a que se refiere el artículo 81 de esta Ley, se le aplicará la tasa del 4% tratándose de derechos por el uso de carreteras de cuota estatales; y la tasa del 6%, tratándose del resto de derechos y de los impuestos ordinarios, y el importe que se obtenga será el impuesto a pagar.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-Los ingresos que se obtengan por la aplicación de la tasa del 4% sobre impuestos ordinarios, así como la recaudación equivalente a 4 puntos porcentuales de la tasa del 6% sobre derechos, se destinarán por partes iguales, como aportación estatal respecto a los convenios federales que firmen la Universidad Autónoma de Chihuahua y la Universidad Autónoma de Ciudad Juárez. En caso de que dichos convenios no sean suscritos, los ingresos recaudados se destinarán, en igual proporción, al sostenimiento de dichas universidades.
+Los ingresos que se obtengan por la aplicación de la tasa del 6% sobre impuestos ordinarios, así como la recaudación equivalente a 4 puntos porcentuales de la tasa del 6% sobre derechos, se destinarán por partes iguales, como aportación estatal respecto a los convenios federales que firmen la Universidad Autónoma de Chihuahua y la Universidad Autónoma de Ciudad Juárez. En caso de que dichos convenios no sean suscritos, los ingresos recaudados se destinarán, en igual proporción, al sostenimiento de dichas universidades.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
@@ -1065,9 +1071,15 @@ Se establece una contribución a cargo de los sujetos que deban cubrir la contra
 
 OBJETO Y TASA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 83-B.
 
-La contribución a que se refiere la presente Sección, se causará por cada trámite de derecho de control vehicular y por dotación o canje de placas metálicas de identificación vehicular, así como por cada expedición de licencia de conducir, de conformidad con la tasa o cuota que al efecto se apruebe en la Ley de Ingresos del Estado de Chihuahua.
+La contribución a que se refiere la presente Sección, se causará por cada trámite de derecho de control vehicular y por dotación o canje de placas metálicas de identificación vehicular, así como por cada expedición de licencia de conducir.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+El monto de la contribución será equivalente a 0.3668 veces el valor diario de la Unidad de Medida y Actualización (UMA).
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
@@ -1352,3 +1364,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La derogación del Impuesto sobre Actos Jurídicos entrará en vigor a partir del 01 de enero de 2024, sin perjuicio de que todos los actos realizados o celebrados hasta el 31 de diciembre de 2023, que impliquen el pago de este impuesto, deban enterarse con posterioridad a la derogación del mismo.
+
+P.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVIII/RFLYC/0462/2025 I P.O.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero del mes de enero del año dos mil veintiséis, sin perjuicio de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Durante los ejercicios fiscales de 2026 y 2027, en lugar de aplicar la tasa establecida en el artículo 75 de la Ley de Hacienda del Estado de Chihuahua, sobre el monto mensual de las erogaciones a que se refiere el artículo 74 de la citada Ley, se aplicará la tasa del 4%.
+
+Los ingresos adicionales que se obtengan por la aplicación de la tasa señalada en el párrafo anterior, deberán aplicarse preferentemente al rubro de inversión pública productiva y el remanente, a lo dispuesto en el artículo 14 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+Las contribuciones extraordinarias a que se refieren los Decretos 266/94/XI/ P.E. y 842/2012 VI P.E., publicados en el Periódico Oficial del Estado de Chihuahua del 30 de abril de 1994 y del 22 de septiembre de 2012, respectivamente, se determinarán tomando como base de las mismas, el impuesto sobre nóminas causado, considerando la tasa del 3%.
