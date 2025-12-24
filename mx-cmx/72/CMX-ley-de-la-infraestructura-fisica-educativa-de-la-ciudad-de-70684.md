@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-la-infraestructura-fisica-educativa-de-la-ciudad-de-7068
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-03"
-last_updated: "2015-11-12"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70684&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2009-10-20"
 ---
 # LEY DE LA INFRAESTRUCTURA FISICA EDUCATIVA DE LA CIUDAD DE MEXICO -- ANTES LEY DE LA INFRAESTRUCTURA FISICA EDUCATIVA DEL DISTRITO FEDERAL--
 
-LEY DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL DISTRITO FEDERAL
+LEY DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 3 de noviembre de 2009.
 
@@ -48,17 +48,23 @@ DECRETO POR EL QUE SE EXPIDE LA LEY DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL 
 
 UNICO. Se expide la Ley de la Infraestructura Física Educativa del Distrito Federal, para quedar como sigue:
 
-LEY DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL DISTRITO FEDERAL.
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+LEY DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DE LA CIUDAD DE MÉXICO
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 1.
 
-La presente ley es de observancia general en el Distrito Federal y sus disposiciones son de orden público e interés social.
+La presente ley es de observancia general en la Ciudad de México y sus disposiciones son de orden público e interés social.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 2.
 
-El objeto de la ley es regular la infraestructura física educativa al servicio del sistema educativo del Distrito Federal, estableciendo los lineamientos generales para:
+El objeto de la ley es regular la infraestructura física educativa al servicio del sistema educativo de la Ciudad de México, estableciendo los lineamientos generales para:
 
 I. La construcción, equipamiento, mantenimiento, rehabilitación, reforzamiento, reconstrucción y habilitación de inmuebles e instalaciones destinados al servicio del sistema educativo local;
 
@@ -68,7 +74,9 @@ III. La generación de procesos de planeación, para que los recursos se aplique
 
 IV. La creación de mecanismos que permitan prevenir y dar respuesta a las contingencias derivadas de desastres naturales en la infraestructura física educativa local, y
 
-V. La coordinación de las acciones que propicien la optimización de recursos, la homologación de procesos en los casos procedentes, así como la toma de decisiones conjuntas de las instituciones públicas del Distrito Federal y Delegacionales, además de los sectores de la sociedad.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+V. La coordinación de las acciones que propicien la optimización de recursos, la homologación de procesos en los casos procedentes, así como la toma de decisiones conjuntas de las instituciones públicas de la Ciudad de México y de las Alcaldías, además de los sectores de la sociedad
 
 ###### Artículo 3.
 
@@ -78,27 +86,39 @@ I. Certificación: El procedimiento por el cual se asegura que un producto, proc
 
 II. Certificado: El documento que expida el organismo local responsable de la infraestructura física educativa y, en su caso, el Instituto mediante el cual se hace constar que la INFE cumple con las especificaciones establecidas;
 
-III. Director General: El titular del Instituto Local de la Infraestructura Física Educativa del Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-IV. Director General Adjunto: Aquél Director que con tal carácter es nombrado por el Titular del Instituto Local de la Infraestructura Física Educativa del Distrito Federal;
+III. Director General: La persona titular del Instituto Local de la Infraestructura Física Educativa de la Ciudad de México;
+
+IV. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2025)
 
 V. INFE: La Infraestructura Física Educativa;
 
-VI. Instituto: El Instituto local de la Infraestructura Física Educativa del Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-VII. Junta de gobierno: La Junta de Gobierno del Instituto Local de la Infraestructura Física Educativa del Distrito Federal.
+VI. Instituto: El Instituto local de la Infraestructura Física Educativa de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VII. Junta de gobierno: La Junta de Gobierno del Instituto Local de la Infraestructura Física Educativa de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 4.
 
-Por infraestructura física educativa se entiende los muebles e inmuebles destinados a la educación impartida por el Gobierno del Distrito Federal y los particulares con autorización o con reconocimiento de validez oficial de estudios, en el marco del sistema educativo nacional, en términos de la Ley General de Educación y la Ley de Educación del Distrito Federal, así como a los servicios e instalaciones necesarios para su correcta operación.
+Por infraestructura física educativa se entiende los muebles e inmuebles destinados a la educación impartida por el Gobierno de la Ciudad de México y los particulares con autorización o con reconocimiento de validez oficial de estudios, en el marco del sistema educativo nacional, en términos de la Ley General de Educación y la Ley de Educación de la Ciudad de México, así como a los servicios e instalaciones necesarios para su correcta operación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 5.
 
-La aplicación y vigilancia del cumplimiento de esta Ley corresponde a las autoridades en materia de infraestructura física educativa del Distrito Federal, en el ámbito de sus respectivas competencias constitucionales y las señaladas en la Ley General de Educación y la Ley de Educación del Distrito Federal.
+La aplicación y vigilancia del cumplimiento de esta Ley corresponde a las autoridades en materia de infraestructura física educativa de la Ciudad de México, en el ámbito de sus respectivas competencias constitucionales y las señaladas en la Ley General de Educación y la Ley de Educación de la Ciudad de México.
 
 Son autoridades en materia de infraestructura física educativa:
 
-I. El Jefe de Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+I. La persona titular de la Jefatura de Gobierno de la Ciudad de México;
 
 II. El titular de la Secretaría de Educación;
 
@@ -106,23 +126,27 @@ III. El Director General del Instituto;
 
 IV. Los Jefes Delegacionales;
 
-V. Los responsables de la infraestructura física educativa de las Delegaciones del Distrito Federal.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+V. Los responsables de la infraestructura física educativa de las Alcaldías de la Ciudad de México.
 
 Estas autoridades deberán coordinarse mediante los mecanismos legales correspondientes para el cumplimiento de los objetivos de la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 6.
 
-Para el cumplimiento de esta Ley se estará a lo dispuesto en los tratados internacionales en la materia, suscritos por el Ejecutivo Federal Y RATIFICADOS POR EL Senado DE la República, la Ley General de Educación, la Ley Federal de Personas con Discapacidad, la Ley General de Bienes Nacionales, la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley Federal de Responsabilidades de los Servidores Públicos; la Ley de Educación del Distrito Federal, la Ley para la Integración al Desarrollo de las Personas con Discapacidad del Distrito Federal, la Ley de Adquisiciones para el Distrito Federal, la Ley de Obras Públicas del Distrito Federal, así como aquellas que se refieran a la materia de arrendamientos y servicios relacionados con la misma y las demás disposiciones legales aplicables.
+Para el cumplimiento de esta Ley se estará a lo dispuesto en los tratados internacionales en la materia de los que el Estado Mexicano sea parte, la Ley General de Educación, la Ley General para la Inclusión de las Personas con Discapacidad, la Ley General de Bienes Nacionales, la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley General de Responsabilidades Administrativas; la Ley de Educación de la Ciudad de México, la Ley para la Integración al Desarrollo de las Personas con Discapacidad de la Ciudad de México, la Ley de Adquisiciones para la Ciudad de México, la Ley de Obras Públicas de la Ciudad de México, así como aquellas que se refieran a la materia de arrendamientos y servicios relacionados con la misma y las demás disposiciones legales aplicables.
 
 Las universidades y demás instituciones de educación superior autónomas a que se refiere la fracción VII del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, podrán suscribir convenios con el Instituto en materia de infraestructura física educativa en los términos de esta ley.
 
 ### Capítulo II. De la Calidad de la Infraestructura Física Educativa
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 7.
 
-La infraestructura física educativa del Distrito Federal deberá cumplir requisitos de calidad, seguridad, funcionalidad, oportunidad, equidad, sustentabilidad y pertinencia, de acuerdo con la política educativa determinada por el Estado -Federación y Distrito Federal, con base en lo establecido en el artículo 3o. constitucional; la Ley General de Educación; la Ley de Educación del Distrito Federal; el Plan Nacional de Desarrollo; el Programa Sectorial; el Programa General de Desarrollo del Distrito Federal, el Programa Educativo del Distrito Federal, así como los programas de desarrollo metropolitano.
+La infraestructura física educativa de la Ciudad de México deberá cumplir requisitos de calidad, seguridad, funcionalidad, oportunidad, equidad, sustentabilidad y pertinencia, de acuerdo con la política educativa determinada por las autoridades federales y la Ciudad de México, con base en lo establecido en el artículo 3o. constitucional; la Ley General de Educación; la Ley de Educación de la Ciudad de México; el Plan Nacional de Desarrollo; el Programa Sectorial; el Programa General de Desarrollo de la Ciudad de México, el Programa Educativo de la Ciudad de México, así como los programas de desarrollo metropolitano.
 
 Las autoridades en la materia promoverán la participación de sectores sociales para optimizar y elevar la calidad de la INFE, en los términos que señalan esta ley y su reglamento.
 
@@ -138,13 +162,17 @@ Respecto de la educación que impartan los particulares con autorización o con 
 
 Los usuarios de los servicios educativos podrán solicitar los documentos que acrediten que la INFE cumple los elementos de calidad técnica.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 10.
 
-Las autoridades en la materia establecerán acciones para atender a los grupos y Delegaciones con mayor rezago educativo según parámetros locales y nacionales, mediante la creación de programas compensatorios tendentes a ampliar la cobertura y calidad de la infraestructura física educativa.
+Las autoridades en la materia establecerán acciones para atender a los grupos y Alcaldías con mayor rezago educativo según parámetros locales y nacionales, mediante la creación de programas compensatorios tendentes a ampliar la cobertura y calidad de la infraestructura física educativa.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 11.
 
-En la planeación de los programas y proyectos para la construcción, equipamiento, mantenimiento, rehabilitación, reforzamiento, reconstrucción y habilitación de la INFE deberán cumplirse las disposiciones de la Ley Federal de las Personas con Discapacidad y la Ley para Personas con Discapacidad del Distrito Federal. Asimismo, atenderá las necesidades de las comunidades indígenas y las comunidades con escasa población o dispersa, y tomará en cuenta las condiciones climáticas y la probabilidad de contingencias ocasionadas por desastres naturales, tecnológicos o humanos, procurando la satisfacción de las necesidades individuales y sociales de la población.
+En la planeación de los programas y proyectos para la construcción, equipamiento, mantenimiento, rehabilitación, reforzamiento, reconstrucción y habilitación de la INFE deberán cumplirse las disposiciones de la Ley General para la Inclusión de las Personas con Discapacidad y la Ley para la Integración al Desarrollo de las Personas con Discapacidad de la Ciudad de México. Asimismo, atenderá las necesidades de las comunidades indígenas y las comunidades con escasa población o dispersa, y tomará en cuenta las condiciones climáticas y la probabilidad de contingencias ocasionadas por desastres naturales, tecnológicos o humanos, procurando la satisfacción de las necesidades individuales y sociales de la población.
 
 ###### Artículo 12.
 
@@ -166,29 +194,39 @@ Los distintos tipos de certificados y su vigencia serán especificados en el Reg
 
 ### Capítulo IV. Del Instituto Local de Infraestructura Física Educativa
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 15.
 
-Se crea el Instituto Local de la Infraestructura Física Educativa del Distrito Federal como un organismo descentralizado de la Administración Pública Local, con personalidad jurídica, patrimonio propio y autonomía técnica y de gestión para el cumplimiento de sus objetivos y el ejercicio de sus facultades; tendrá su domicilio legal en la Ciudad de México.
+Se crea el Instituto Local de la Infraestructura Física Educativa de la Ciudad de México como un organismo descentralizado de la Administración Pública Local, con personalidad jurídica, patrimonio propio y autonomía técnica y de gestión para el cumplimiento de sus objetivos y el ejercicio de sus facultades; tendrá su domicilio legal en la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 16.
 
-El objetivo del Instituto es fungir como un organismo con capacidad normativa, de consultoría y certificación de la calidad de la infraestructura física educativa del Distrito Federal y de construcción, en términos de esta Ley, su Reglamento y demás disposiciones aplicables, y desempeñarse como una instancia asesora en materia de prevención y atención de daños ocasionados por desastres naturales, tecnológicos o humanos en el sector educativo.
+El objetivo del Instituto es fungir como un organismo con capacidad normativa, de consultoría y certificación de la calidad de la infraestructura física educativa de la Ciudad de México y de construcción, en términos de esta Ley, su Reglamento y demás disposiciones aplicables, y desempeñarse como una instancia asesora en materia de prevención y atención de daños ocasionados por desastres naturales, tecnológicos o humanos en el sector educativo.
 
-Para el cumplimiento de lo establecido en el párrafo anterior, el Instituto considerará en todo momento las características particulares de cada Delegación del Distrito Federal, con base en su riqueza y diversidad.
+Para el cumplimiento de lo establecido en el párrafo anterior, el Instituto considerará en todo momento las características particulares de cada Alcaldía de la Ciudad de México, con base en su riqueza y diversidad.
 
-El Instituto estará encargado de la construcción, equipamiento, mantenimiento, rehabilitación, refuerzo, reconstrucción, reconversión y habilitación de inmuebles e instalaciones destinados al servicio de la educación pública en el Distrito Federal o cuando así se convenga con las autoridades federales.
+El Instituto estará encargado de la construcción, equipamiento, mantenimiento, rehabilitación, refuerzo, reconstrucción, reconversión y habilitación de inmuebles e instalaciones destinados al servicio de la educación pública en la Ciudad de México o cuando así se convenga con las autoridades federales.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 17.
 
-El Instituto adecuará el desarrollo de sus actividades a las políticas, estrategias y prioridades que establezca el Plan Nacional de Desarrollo, el programa sectorial y el Programa General de Desarrollo del Distrito Federal, el Programa Educativo del Distrito Federal, así como los programas de desarrollo metropolitano aplicables en materia de infraestructura física educativa.
+El Instituto adecuará el desarrollo de sus actividades a las políticas, estrategias y prioridades que establezca el Plan Nacional de Desarrollo, el programa sectorial y el Programa General de Desarrollo de la Ciudad de México, el Programa Educativo de la Ciudad de México, así como los programas de desarrollo metropolitano aplicables en materia de infraestructura física educativa.
 
 ###### Artículo 18.
 
 El patrimonio del Instituto estará formado:
 
-I. Con los bienes muebles, inmuebles y derechos de uso y aprovechamiento que el Gobierno Federal le asigne o le proporcionen mediante cualquier figura jurídica el gobierno del Distrito Federal, las Delegaciones o los particulares;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-II. Con los recursos que al efecto se le señalen en el Presupuesto de Egresos del Distrito Federal;
+I. Con los bienes muebles, inmuebles y derechos de uso y aprovechamiento que el Gobierno Federal le asigne o le proporcionen mediante cualquier figura jurídica el gobierno de la Ciudad de México, las Alcaldías o los particulares;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+II. Con los recursos que al efecto se le señalen en el Presupuesto de Egresos de la Ciudad de México;
 
 III. Con los ingresos propios que obtenga. El Reglamento precisará los conceptos; y
 
@@ -202,7 +240,9 @@ Por lo que el Instituto será el único ente con facultades centralizadas en uso
 
 Son atribuciones del Instituto las siguientes:
 
-I. Emitir normas y especificaciones técnicas para la elaboración de estudios, proyectos, obras e instalaciones y participar en la elaboración de normas mexicanas y normas oficiales mexicanas en términos de lo dispuesto en la Ley Federal sobre Metrología y Normalización, así como proponer su emisión y difusión, en materia de construcción, equipamiento, mantenimiento, rehabilitación, reforzamiento, reconstrucción, reconversión y habilitación de los inmuebles e instalaciones destinados al servicio del sistema educativo del Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+I. Emitir normas y especificaciones técnicas para la elaboración de estudios, proyectos, obras e instalaciones y participar en la elaboración de normas mexicanas y normas oficiales mexicanas en términos de lo dispuesto en la Ley de Infraestructura de Calidad, así como proponer su emisión y difusión, en materia de construcción, equipamiento, mantenimiento, rehabilitación, reforzamiento, reconstrucción, reconversión y habilitación de los inmuebles e instalaciones destinados al servicio del sistema educativo de la Ciudad de México;
 
 II. Crear y actualizar permanentemente un sistema de información del estado físico de las instalaciones que forman la INFE, en colaboración y coordinación con las autoridades federales a través de los mecanismos legales correspondientes, para lo cual tendrá las atribuciones siguientes:
 
@@ -236,7 +276,9 @@ g) Difundir el Programa Local de Certificación de la INFE a las instituciones d
 
 h) Revisar, validar y certificar proyectos ejecutivos para la construcción de espacios destinados a la educación pública en general, en el ámbito de sus atribuciones;
 
-i) Certificar la calidad de la INFE en el Distrito Federal o cuando así se convenga con las autoridades federales.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+i) Certificar la calidad de la INFE en la Ciudad de México o cuando así se convenga con las autoridades federales.
 
 El Instituto también certificará la calidad de la INFE en los casos de las escuelas particulares a que la autoridad federal otorgue el registro de validez oficial de estudios;
 
@@ -252,9 +294,13 @@ IX. Impartir capacitación, consultoría y asistencia técnica, así como presta
 
 X. Realizar acciones de seguimiento técnico y administrativo de los diversos programas aplicables a la INFE a cargo de las entidades y los organismos locales cuando dichos programas incorporen recursos federales y respecto de los que el Instituto convenga con las autoridades Federales y Delegacionales;
 
-XI. Participar en coordinación con las instancias correspondientes en la planeación, programación y seguimiento técnico de los recursos autorizados para la ejecución de proyectos de inversión en INFE del Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XII. Construir, equipar, dar mantenimiento, rehabilitar, reforzar, reconstruir y habilitar en el Distrito Federal o cuando así se convenga con las autoridades Federales.
+XI. Participar en coordinación con las instancias correspondientes en la planeación, programación y seguimiento técnico de los recursos autorizados para la ejecución de proyectos de inversión en INFE de la Ciudad de México;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XII. Construir, equipar, dar mantenimiento, rehabilitar, reforzar, reconstruir y habilitar en la Ciudad de México o cuando así se convenga con las autoridades Federales.
 
 Queda prohibido destinar recursos públicos federales o locales para construir, equipar, dar mantenimiento, rehabilitar, reforzar, reconstruir o habilitar instituciones educativas privadas;
 
@@ -272,7 +318,9 @@ XVIII. Vincular y coordinar los esfuerzos de los organismos sociales del sector 
 
 XIX. Obtener ingresos propios por servicios remunerados derivados de su objeto, señalados específicamente en el reglamento, y administrar su patrimonio, y
 
-XX. Las demás que para el cumplimiento de su objeto le señale esta Ley y su reglamento, así como la Ley Orgánica de la Administración Pública del Distrito Federal.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XX. Las demás que para el cumplimiento de su objeto le señale esta Ley y su reglamento, así como la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México.
 
 ###### Artículo 20.
 
@@ -308,41 +356,71 @@ IV. Las unidades administrativas necesarias para su adecuado funcionamiento que 
 
 La Junta de Gobierno estará integrada por:
 
-I. El Secretario de Educación, quien la presidirá;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-II. El Secretario de Finanzas;
+I. La persona titular de la Secretaría de Educación, Ciencia, Tecnología e Innovación, quien la presidirá;
 
-III. El Secretario de Obras y Servicios;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-IV. El Secretario de Protección Civil;
+II. La persona titular de la Secretaría de Administración y Finanzas;
 
-V. El director general del Instituto de Ciencia y Tecnología del Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-VI. El representante del Instituto Nacional para la Evaluación de la Educación (INEE); así como un representante del Instituto Nacional de la Infraestructura Física Educativa;
+III. La persona titular de la Secretaría de Obras y Servicios;
 
-VII. El representante de la Universidad Nacional Autónoma de México y el representante el Instituto Politécnico Nacional;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-VIII. Tres expertos en la materia, designados por el Jefe de Gobierno; y
+IV. La persona titular de la Secretaría de Gestión Integral de Riesgos y Protección Civil;
 
-IX. Tres integrantes designados de común acuerdo por los Jefes Delegacionales.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-El Director General del Instituto quién fungirá como Secretario Técnico, el Comisario y el titular del Órgano Interno de Control, participarán en las sesiones de la Junta de Gobierno con voz, pero sin voto.
+V. La persona titular de la Dirección General del Instituto de Ciencia y Tecnología de la Ciudad de México;
 
-Para el apoyo de sus funciones, la Junta de Gobierno contará con un secretario técnico, quien será el Director General del Instituto.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-Los integrantes de la Junta de Gobierno, contemplados en las fracciones I a V, acreditarán ante la misma a sus respectivos suplentes, que serán del nivel jerárquico inmediato inferior, quienes fungirán como miembros en las ausencias de aquellos.
+VI. Una persona representante del Instituto Nacional para la Evaluación de la Educación (INEE); así como una persona representante del Instituto Nacional de la Infraestructura Física Educativa
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VII. Una persona representante de la Universidad Nacional Autónoma de México y una persona representante del Instituto Politécnico Nacional;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VIII. Tres personas expertas en la materia, designadas por la persona titular de la Jefatura de Gobierno; y
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IX. Tres personas integrantes designadas de común acuerdo por las Alcaldías.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+La persona Comisaria y la persona titular del Órgano Interno de Control, participarán en las sesiones de la Junta de Gobierno con voz, pero sin voto.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Para el apoyo de sus funciones, la Junta de Gobierno contará con una secretaría técnica, que recaerá en la persona titular de la Dirección General del Instituto, y quien acudirá a las sesiones con voz, pero sin voto.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Las personas integrantes de la Junta de Gobierno, contemplados en las fracciones I a V, acreditarán ante la misma a sus respectivos suplentes, que serán del nivel jerárquico inmediato inferior, quienes fungirán como miembros en las ausencias de aquellos.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 24.
 
-La Junta de Gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros. Sus resoluciones se tomarán por mayoría de votos; en caso de empate, el presidente tendrá voto de calidad.
+La Junta de Gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros. Sus resoluciones se tomarán por mayoría de votos; en caso de empate, la persona presidenta tendrá voto de calidad.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 25.
 
-La Junta de Gobierno celebrará sesiones ordinarias una vez cada trimestre, de conformidad con lo que establezca el Estatuto Orgánico. El Presidente de la Junta de Gobierno podrá convocar a sesiones extraordinarias para tratar asuntos cuya naturaleza lo amerite.
+La Junta de Gobierno celebrará sesiones ordinarias una vez cada trimestre, de conformidad con lo que establezca el Estatuto Orgánico. La persona presidente de la Junta de Gobierno podrá convocar a sesiones extraordinarias para tratar asuntos cuya naturaleza lo amerite.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 26.
 
-La Junta de Gobierno tendrá, además de las que se señalan en la Ley Orgánica de la Administración Pública del Distrito Federal, las siguientes atribuciones:
+La Junta de Gobierno tendrá, además de las que se señalan en la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México, las siguientes atribuciones:
 
 I. Expedir su Reglamento Interior;
 
@@ -352,9 +430,9 @@ III. Aprobar, supervisar y evaluar los planes y programas del Instituto;
 
 IV. Aprobar el pronóstico de ingresos y el anteproyecto de presupuesto de egresos del Instituto, considerando los diagnósticos anuales de la INFE;
 
-> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-V. Aprobar los informes de actividades y los estados financieros que le presente el Director General, así como autorizar su presentación ante la Asamblea Legislativa del Distrito Federal;
+V. Aprobar los informes de actividades y los estados financieros que le presente la persona titular de la Dirección, así como autorizar su presentación ante el Congreso de la Ciudad de México;
 
 VI. Conocer los dictámenes que emita el Comisario y, en su caso, ordenar las medidas necesarias para solventar las observaciones realizadas;
 
@@ -364,15 +442,19 @@ VIII. Aprobar el Estatuto Orgánico con la estructura básica del Instituto, y
 
 IX. Las demás que se deriven de los ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 27.
 
-El Instituto contará dentro de su estructura orgánica con un Órgano Interno de Control, que tendrá como función apoyar el mejoramiento de gestión de esta entidad. Los titulares del Órgano Interno de Control y de las áreas de auditoría, quejas y responsabilidades, serán designados y removidos libremente por el titular de la Contraloría General, de quien dependerán jerárquica y funcionalmente y ejercerán sus atribuciones conforme a los lineamientos que emita la citada dependencia.
+El Instituto contará dentro de su estructura orgánica con un Órgano Interno de Control, que tendrá como función apoyar el mejoramiento de gestión de esta entidad. Las personas titulares del Órgano Interno de Control y de las áreas de auditoría, quejas y responsabilidades, serán designadas y removidas libremente por la persona titular de la Secretaría de la Contraloría General, de quien dependerán jerárquica y funcionalmente y ejercerán sus atribuciones conforme a los lineamientos que emita la citada dependencia.
 
 ###### Artículo 28.
 
 El Instituto contará con un órgano de vigilancia integrado por un Comisario Público propietario y un suplente, designados ambos por la Contraloría General.
 
-Este órgano, así como los titulares del Órgano Interno de Control y de las áreas de responsabilidades, auditoria y quejas, ejercerán sus funciones de acuerdo con lo establecido en la Ley Orgánica de la Administración Publicadle (sic) Distrito Federal, la Ley Federal de Responsabilidades de los Servidores Públicos, el Reglamento de la Ley Orgánica de la Administración Pública del Distrito Federal y demás disposiciones locales aplicables.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Este órgano, así como los titulares del Órgano Interno de Control y de las áreas de responsabilidades, auditoria y quejas, ejercerán sus funciones de acuerdo con lo establecido en la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México, la Ley Federal de Responsabilidades de los Servidores Públicos, el Reglamento de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México y demás disposiciones locales aplicables.
 
 ###### Artículo 29.
 
@@ -392,13 +474,17 @@ VI. Firmar las actas y constancias necesarias que se deriven de las sesiones de 
 
 VII. Las demás que le señale la ley, el Estatuto o la Junta de Gobierno.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 30.
 
-El Director General será designado y removido libremente por el Jefe de Gobierno.
+La persona titular de la Dirección General será designada y removida libremente por la persona titular de la Jefatura de Gobierno de la Ciudad de México
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 31.
 
-El Director General tendrá, además de las atribuciones que le señala la Ley Orgánica de la Administración Pública del Distrito Federal, las siguientes:
+La persona titular de la Dirección General tendrá, además de las atribuciones que le señala la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México, las siguientes:
 
 I. Administrar al Instituto;
 
@@ -422,9 +508,9 @@ X. Delegar las atribuciones que le autorice la Junta de Gobierno;
 
 XI. Convocar y coordinar la formación de un órgano técnico de consulta que actuará en asuntos de interés común en los términos que señale el Reglamento;
 
-> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XII. Presentar, durante el mes de octubre de cada año, ante las Comisiones de Educación y de Presupuesto y Cuenta Pública de la Asamblea Legislativa del Distrito Federal, un informe pormenorizado de las actividades y el avance programático presupuestal del ejercicio fiscal en curso; y
+XII. Presentar, durante el mes de octubre de cada año, ante las Comisiones de Educación y de Presupuesto y Cuenta Pública del Congreso de la Ciudad de México, un informe pormenorizado de las actividades y el avance programático presupuestal del ejercicio fiscal en curso; y
 
 > <small>(ADICIONADA, G.O. 12 DE NOVIEMBRE DE 2015)</small>
 
@@ -479,3 +565,11 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese en la Gaceta Oficial del Gobierno del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
 
 TERCERO.- El Jefe de Gobierno, dentro de los 60 días naturales siguientes a la entrada en vigor, deberá adecuar el Reglamento de la presente Ley, estableciendo los lineamientos para tal efecto.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL DISTRITO FEDERAL".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
