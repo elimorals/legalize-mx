@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-a-la-salud-de-las-personas-no-fumadoras-36852
 country: "mx"
 rank: "ley"
 publication_date: "2004-01-29"
-last_updated: "2019-12-17"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36852&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,9 @@ issue_date: "2004-01-13"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-LEY DE PROTECCIÓN A LA SALUD DE LOS NO FUMADORES EN LA CIUDAD DE MÉXICO
+LEY DE PROTECCIÓN A LA SALUD DE LAS PERSONAS NO FUMADORAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 29 de enero de 2004.
 
@@ -40,9 +40,9 @@ D E C R E T O
 
 LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL III LEGISLATURA DECRETA:
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 17 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-LEY DE PROTECCIÓN A LA SALUD DE LOS NO FUMADORES EN LA CIUDAD DE MÉXICO.
+LEY DE PROTECCIÓN A LA SALUD DE LAS PERSONAS NO FUMADORAS DE LA CIUDAD DE MÉXICO
 
 ## TÍTULO PRIMERO
 
@@ -54,27 +54,33 @@ DISPOSICIONES GENERALES.
 
 La presente Ley es de orden público e interés general y tiene por objeto:
 
-> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-I. Proteger la salud de la población de los efectos nocivos por inhalar involuntariamente el humo de la combustión del tabaco, en lo sucesivo humo de tabaco.
+I. Proteger la salud de la población de los efectos nocivos por inhalar involuntariamente el humo de la combustión del tabaco, en lo sucesivo humo de tabaco y de los vapores y emisiones producidas por cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos.
 
-> <small>(REFORMADA, G.O. 11 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-II. Establecer mecanismos, acciones y políticas públicas tendientes a prevenir y disminuir las consecuencias derivadas del consumo de tabaco y de la exposición al humo de la combustión (sic) tabaco en cualquiera de sus formas, y
+II. Establecer mecanismos, acciones y políticas públicas tendientes a prevenir y disminuir las consecuencias derivadas del consumo de tabaco y de la exposición al humo de la combustión del tabaco en cualquiera de sus formas y para erradicar el uso de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos, y
 
-> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-III. Definir y establecer las políticas y acciones necesarias para reducir el consumo de tabaco y prevenir la exposición al humo, así como la morbilidad y mortalidad relacionadas con el tabaco.
+III. Definir y establecer las políticas y acciones necesarias para erradicar la utilización de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos, reducir el consumo de tabaco y prevenir la exposición al humo de tabaco, vapores y emisiones, así como la morbilidad y mortalidad relacionadas con el tabaquismo.
 
-> <small>(ADICIONADO, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 1 Bis.
 
-La protección de la salud de los efectos nocivos del humo de tabaco comprende lo siguiente:
+La protección de la salud de los efectos nocivos del humo de tabaco, emisiones producidas por vapeadores, cigarrillos electrónicos y demás dispositivos análogos, comprende lo siguiente:
 
 > <small>(REFORMADA, G.O. 4 DE MARZO DE 2008)</small>
 
 I. El derecho de las personas no fumadoras a no estar expuestas al humo del tabaco en los espacios cerrados de acceso público;
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+I. Bis. El derecho de las personas a no estar expuestas al humo, emisiones de vapeadores, cigarrillos electrónicos y demás dispositivos análogos;
+
+> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
 
 II. La orientación a la población para que evite empezar a fumar, y se abstenga de fumar en los lugares públicos donde se encuentre prohibido;
 
@@ -82,17 +88,21 @@ II. La orientación a la población para que evite empezar a fumar, y se absteng
 
 III. La prohibición de fumar en los espacios cerrados públicos, privados y sociales que se señalan en esta ley;
 
-> <small>(REFORMADA, G.O. 17 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-IV. El apoyo a los fumadores, cuando lo soliciten, para abandonar el tabaquismo con los tratamientos correspondientes;
+IV. El apoyo a las personas fumadoras para abandonar el tabaquismo y los cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos, cuando lo soliciten y con los tratamientos correspondientes;
 
-> <small>(REFORMADA, G.O. 17 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-V. La información a la población sobre los efectos nocivos del consumo de tabaco, de la exposición de su humo, los beneficios de dejar de fumar y la promoción de su abandono; y
+V. La información a la población sobre los efectos nocivos del consumo de tabaco y del uso de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos, de la exposición a su humo, emisiones y vapores, los beneficios de dejar de fumar y la promoción de su abandono; y
 
-> <small>(ADICIONADA, G.O. 17 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-VI. La prohibición de fumar en inmuebles con espacios abiertos en donde se ubiquen áreas de juegos infantiles y/o desarrollen actividades menores de edad.
+VI. La prohibición de fumar en inmuebles con espacios abiertos en donde se ubiquen áreas de juegos infantiles y/o desarrollen actividades menores de edad; y,
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VII. La prohibición del uso de vapeadores, cigarrillos electrónicos y demás dispositivos análogos;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE DICIEMBRE DE 2019)</small>
 
@@ -108,9 +118,9 @@ I. La persona Titular de la Jefatura de Gobierno de la Ciudad de México;
 
 II. La Secretaría de Salud;
 
-> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-III. Los jefes Delegacionales, y
+III. Las personas titulares de las Alcaldías, y
 
 > <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
 
@@ -134,37 +144,51 @@ II. Las autoridades educativas y las asociaciones de padres de familia de las es
 
 III. Los usuarios de los espacios cerrados de acceso al público como oficinas, establecimientos mercantiles, industrias y empresas, que en todo momento podrán exigir el cumplimiento de las disposiciones de la presente Ley;
 
-> <small>(REFORMADA, G.O. 17 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-IV. Los órganos de control interno de las diferentes oficinas de los Poderes de la Ciudad de México y Órganos Autónomos, cuando el infractor sea servidor público y se encuentre en dichas instalaciones; y
+IV. Los órganos internos de control de las diferentes oficinas de los Poderes de la Ciudad de México y Órganos Autónomos, cuando el infractor sea servidor público y se encuentre en dichas instalaciones; y
 
-> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-V. Los titulares de las dependencias y entidades del Gobierno del Distrito Federal y Órganos Autónomos, auxiliados por el área administrativa correspondiente.
+V. Los titulares de las dependencias y entidades del Gobierno de la Ciudad de México y Órganos Autónomos, auxiliados por el área administrativa correspondiente.
 
-> <small>(REFORMADO, G.O. 4 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 4.
 
-En el procedimiento de verificación, impugnaciones y sanciones a las que se refiere la presente Ley será aplicable la Ley de Procedimiento Administrativo del Distrito Federal y el Reglamento de Verificación Administrativa para el Distrito Federal.
+En el procedimiento de verificación, impugnaciones y sanciones a las que se refiere la presente Ley será aplicable la Ley de Procedimiento Administrativo de la Ciudad de México y el Reglamento de Verificación Administrativa del Distrito Federal.
 
 ###### Artículo 5.
 
 Para los efectos de la presente Ley se entenderá por:
 
-I. Secretaría de Salud: a la Secretaría de Salud del Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-II. Seguridad Pública: a la Secretaría de Seguridad Pública del Distrito Federal;
+I. Secretaría de Salud: a la Secretaría de Salud de la Ciudad de México;
 
-III. Ley: a la Ley de Protección a la Salud de los No fumadores en el Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-IV. Delegación: al Órgano Político Administrativo que se encuentra en cada una de las demarcaciones territoriales en las que se divide el Distrito Federal;
+II. Seguridad Ciudadana: a la Secretaría de Seguridad Ciudadana de la Ciudad de México;
 
-V. Fumador Pasivo: a quien de manera involuntaria inhala el humo exhalado por el fumador y/o generado por la combustión del tabaco de quienes sí fuman;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-VI. No fumadores: a quienes no tienen el hábito de fumar; y
+III. Ley: a la Ley de Protección a la Salud de las Personas No Fumadoras de la Ciudad de México;
 
-VII. Policía del Distrito Federal: elemento de la policía adscrita al Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IV. Alcaldía: al Órgano Político Administrativo que se encuentra en cada una de las demarcaciones territoriales en las que se divide la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+V. Persona Fumadora Pasiva: a quien de manera involuntaria inhala el humo, emisiones y vapores, el exhalados por la persona fumadora y/o generado por la combustión del tabaco y por el uso de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos, de quienes sí fuman;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VI. Persona No fumadora: a quien no tienen el hábito de fumar;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VII. Policía de la Ciudad de México: elemento de la policía adscrita a la Secretaría de Seguridad Ciudadana del Gobierno de la Ciudad de México.
 
 > <small>(REFORMADA, G.O. 4 DE MARZO DE 2008)</small>
 
@@ -192,29 +216,35 @@ XII. Patrocinio del tabaco: es toda forma de aportación o contribución directa
 
 ### Capítulo Primero. De la Distribución de Competencias y de las Atribuciones
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE MARZO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 6.
 
-El Gobierno del Distrito Federal, a través de las instancias administrativas correspondientes, en sus respectivos ámbitos de competencia, ejercerán las funciones de vigilancia, inspección y aplicación de sanciones que correspondan en el ámbito de su competencia, para lo cual tendrá las siguientes atribuciones:
+El Gobierno de la Ciudad de México, a través de las instancias administrativas correspondientes, en sus respectivos ámbitos de competencia, ejercerán las funciones de vigilancia, inspección y aplicación de sanciones que correspondan en el ámbito de su competencia, para lo cual tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, G.O. 4 DE MARZO DE 2008)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-I. Conocer de las denuncias presentadas por los ciudadanos o usuarios, cuando no se respete la prohibición de fumar, en los términos establecidos en la presente Ley;
+I. Conocer de las denuncias presentadas por los ciudadanos o usuarios, cuando no se respete la prohibición de utilizar cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos, así como de fumar en los términos establecidos en la presente Ley;
 
-> <small>(REFORMADA, G.O. 4 DE MARZO DE 2008)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-II. Ordenar de oficio o por denuncia ciudadana, la realización de visitas de verificación en los establecimientos mercantiles, oficinas, industrias y empresas, así como en las instalaciones de los Órganos de Gobierno del Distrito Federal y de los Órganos Autónomos del Distrito Federal, para cerciorarse del cumplimiento de las disposiciones de esta Ley;
+II. Ordenar de oficio o por denuncia ciudadana, la realización de visitas de verificación en los establecimientos mercantiles, oficinas, industrias y empresas, así como en las instalaciones de los Órganos de Gobierno de la Ciudad de México y de los Órganos Autónomos de la Ciudad de México, para cerciorarse del cumplimiento de las disposiciones de esta Ley;
 
 > <small>(REFORMADA, G.O. 4 DE MARZO DE 2008)</small>
 
 III. Sancionar según su ámbito de competencia a los propietarios o titulares de los establecimientos mercantiles, oficinas, industrias y empresas que no cumplan con las disposiciones de esta Ley;
 
-IV. Sancionar a los particulares que, al momento de la visita, hayan sido encontrados consumiendo tabaco en los lugares en que se encuentre prohibido, siempre y cuando se les invite a modificar su conducta y se nieguen a hacerlo;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, G.O. 4 DE MARZO DE 2008)</small>
+IV. Sancionar a los particulares que, al momento de la visita, hayan sido encontrados utilizando cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos.
 
-V. Informar a los órganos de control interno de las oficinas o instalaciones que pertenezcan a los Órganos de Gobierno del Distrito Federal o a los Órganos Autónomos del Distrito Federal, la violación a la Ley Federal, en razón de su jurisdicción, de los servidores públicos, a efecto de que se inicien los procedimientos administrativos correspondientes; y
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+De igual forma, se sancionará a los particulares que se encuentren consumiendo tabaco en los lugares en los que está prohibido de conformidad con lo estipulado en esta Ley, siempre y cuando se les invite a modificar su conducta y se nieguen a hacerlo;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+V. Informar a los órganos de control interno de las oficinas o instalaciones que pertenezcan a los Órganos de Gobierno de la Ciudad de México o a los Órganos Autónomos del de la Ciudad de México, la violación a la Ley, en razón de su jurisdicción, de los servidores públicos, a efecto de que se inicien los procedimientos administrativos correspondientes; y
 
 VI. Las demás que le otorgue la Ley y demás disposiciones jurídicas aplicables.
 
@@ -222,97 +252,109 @@ VI. Las demás que le otorgue la Ley y demás disposiciones jurídicas aplicable
 
 Son atribuciones de la Secretaría de Salud:
 
-I. Llevar a cabo en coordinación con la Secretaría de Salud del Gobierno Federal, la operación del Programa contra el Tabaquismo;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+I. Llevar a cabo en coordinación con la Secretaría de Salud del Gobierno Federal, la operación del Programa contra el Tabaquismo, y de aquellos encaminados a inhibir el uso de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos;
 
-II. Llevar a cabo campañas para la detección temprana y atención oportuna del fumador;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+II. Llevar a cabo campañas para la detección temprana y atención oportuna de la persona fumadora.
 
-III. Promover con las autoridades educativas la inclusión de contenidos a cerca (sic) del tabaquismo en programas y materiales educativos de todos los niveles;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+III. Promover con las autoridades educativas la inclusión de contenidos, programas y materiales educativos acerca de los efectos nocivos para la salud que conlleva el consumo del tabaco y el uso de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos en todos los niveles escolares.
 
-IV. La orientación a la población sobre los riesgos a la salud por el consumo de tabaco y de los beneficios por dejar de fumar;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, G.O. 4 DE MARZO DE 2008)</small>
+IV. La orientación a la población sobre los riesgos a la salud por el consumo de tabaco y el uso de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos y de los beneficios por dejar de consumirlos.
 
-V. Diseñar el manual de letreros y/o señalamientos preventivos, informativos o restrictivos, que serán colocados al interior de los establecimientos mercantiles, oficinas, industrias y empresas, así como en las oficinas de los Órganos de Gobierno del Distrito Federal y de los Órganos Autónomos del Distrito Federal, para prevenir el consumo de tabaco y establecer las prohibiciones pertinentes, mismos que deberán contener iconografía relativa a los riesgos y consecuencias del tabaquismo;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA], G.O. 3 DE OCTUBRE DE 2008)</small>
+V. Diseñar el manual de letreros y/o señalamientos preventivos, informativos o restrictivos, que serán colocados al interior de los establecimientos mercantiles, oficinas, industrias y empresas, así como en las oficinas de los Órganos de Gobierno de la Ciudad de México y de los Órganos Autónomos de la Ciudad de México, para prevenir el consumo de tabaco y establecer las prohibiciones pertinentes, mismos que deberán contener iconografía relativa a los riesgos y consecuencias del tabaquismo;
 
-VI. Realizar en conjunto con la iniciativa privada campañas permanentes de información, concientización y difusión para prevenir el uso y consumo de tabaco y la exposición a su humo;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA], G.O. 3 DE OCTUBRE DE 2008)</small>
+VI. Realizar en conjunto con la iniciativa privada campañas permanentes de información, concientización y difusión para prevenir el uso y consumo de tabaco, así como la inhibición del uso de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos, informando los riesgos de la exposición al humo, vapores y emisiones que producen;
 
-VII. Promover e impulsar la participación de la comunidad para la prevención y atención del tabaquismo;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA], G.O. 3 DE OCTUBRE DE 2008)</small>
+VII. Promover e impulsar la participación de la comunidad para la prevención y atención del tabaquismo y para la inhibición del uso de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos.
 
-VIII. Promover los acuerdos necesarios para la creación de los centros delegacionales contra el tabaquismo;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA], G.O. 3 DE OCTUBRE DE 2008)</small>
+VIII. Promover los acuerdos necesarios para la creación de los centros contra el tabaquismo y el uso de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos en cada una de las Alcaldías;
 
-IX. Promover la creación de clínicas y servicios para la atención del fumador;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 3 DE OCTUBRE DE 2008)</small>
+IX. Promover la creación de clínicas y servicios para la atención de la persona fumadora y las personas usuarias de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos;
 
-X. Promover la participación de las comunidades indígenas en la elaboración y puesta en práctica de programas para la prevención del tabaquismo;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+X. Promover la participación de las comunidades indígenas, en la elaboración y puesta en práctica de programas para la prevención del tabaquismo y el uso de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos.
 
 > <small>(ADICIONADA [N. DE E. REPUBLICADA], G.O. 3 DE OCTUBRE DE 2008)</small>
 
 XI. Establecer políticas para prevenir y reducir el consumo de tabaco y la exposición al humo del tabaco, así como la adicción a la nicotina con un enfoque de género;
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA], G.O. 3 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XII. Realizar conjuntamente con las autoridades de educación del Distrito Federal campañas educativas permanentes que induzcan a reducir el uso y consumo de tabaco;
+XII. Realizar conjuntamente con las autoridades de educación de la Ciudad de México campañas educativas permanentes que induzcan a reducir el uso y consumo de tabaco y la inhibición del uso de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 3 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XIII. Celebrar convenios de coordinación y apoyo con la Secretaría de Salud del Gobierno Federal y otras instituciones de gobierno para la atención de los problemas relativos al tabaquismo;
+XIII. Celebrar convenios de coordinación y apoyo con la Secretaría de Salud del Gobierno Federal y otras instituciones de gobierno para la atención de los problemas relativos al tabaquismo y del uso de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos; y
 
 > <small>(ADICIONADA [N. DE E. REPUBLICADA], G.O. 3 DE OCTUBRE DE 2008)</small>
 
 XIV. Las demás que le otorgue la Ley y demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 8.
 
-Son atribuciones de Seguridad Pública las siguientes:
+Son atribuciones de Seguridad Ciudadana las siguientes:
 
 I. Poner a disposición del Juez Cívico competente en razón del territorio, a las personas físicas que hayan sido sorprendidas fumando tabaco en cualquiera de sus presentaciones, en algún lugar prohibido, siempre que hayan sido conminados a modificar su conducta y se nieguen a hacerlo;
 
-II. Poner a disposición del Juez Cívico competente en razón de territorio, a las personas físicas que hayan sido denunciadas, ante algún policía del Distrito Federal, por incumplimiento a esta Ley.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, G.O. 4 DE MARZO DE 2008)</small>
+II. Poner a disposición del Juez Cívico competente en razón de territorio, a las personas físicas que hayan sido denunciadas, ante algún policía de la Ciudad de México, por incumplimiento a esta Ley.
 
-Para el caso de establecimientos mercantiles, oficina, industria o empresa, Seguridad Pública procederá a petición del titular o encargado de dichos lugares; y
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Para el caso de establecimientos mercantiles, oficina, industria o empresa, Seguridad Ciudadana procederá a petición del titular o encargado de dichos lugares; y
 
 III. Las demás que le otorguen esta y demás disposiciones jurídicas.
 
-> <small>(REFORMADO, G.O. 4 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-Las atribuciones a que se refiere este artículo serán ejercidas por Seguridad Pública, a través de la policía del Distrito Federal, quienes al momento de ser informados de la comisión de una infracción, por el titular, encargado o responsable del establecimiento mercantil, oficina, industria, empresa o de la instalación del Gobierno del Distrito Federal o de sus Órganos Autónomos que corresponda, invitarán al infractor a modificar su conducta, a trasladarse a las áreas donde se puede fumar, en el caso de que existan, o a abandonar el lugar y en caso de no acatar la indicación, pondrán a disposición del Juez Cívico que se trate, al infractor.
+Las atribuciones a que se refiere este artículo serán ejercidas por Seguridad Ciudadana, a través de la policía de la Ciudad de México, quienes al momento de ser informados de la comisión de una infracción, por el titular, encargado o responsable del establecimiento mercantil, oficina, industria, empresa o de la instalación del Gobierno de la Ciudad de México o de sus Órganos Autónomos que corresponda, invitarán al infractor a modificar su conducta, a trasladarse a las áreas donde se puede fumar ubicadas exclusivamente en espacios al aire libre, en el caso de que existan y lo permita la ley, o a abandonar el lugar y en caso de no acatar la indicación, pondrán a disposición del Juez Cívico que se trate, al infractor.
 
 ###### Artículo 9.
 
 Son atribuciones de los Jueces Cívicos las siguientes:
 
-I. Conocer de las infracciones realizadas por las personas físicas que pongan a disposición la policía del Distrito Federal; y
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+I. Conocer de las infracciones realizadas por las personas físicas que pongan a disposición la policía de la Ciudad de México; y
 
 II. Aplicar las sanciones que se deriven del incumplimiento de esta Ley.
 
-Para el procedimiento de sanción, que sea competencia del Juez Cívico, se seguirá lo establecido en la Ley de Justicia Cívica para el Distrito Federal.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+Para el procedimiento de sanción, que sea competencia del Juez Cívico, se seguirá lo establecido en la Ley de Cultura Cívica de la Ciudad de México.
 
-### Capítulo Segundo. Programa Contra el Tabaquismo
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADO, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+### Capítulo Segundo
+
+Programa Contra el Tabaquismo, el uso de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 9 Bis.
 
-Las acciones para la ejecución del programa contra el tabaquismo se ajustarán a lo dispuesto en este capítulo, sin perjuicio de lo que establezcan las demás disposiciones aplicables.
+Las acciones para la ejecución de los programas contra el tabaquismo y el uso de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos se ajustarán a lo dispuesto en este capítulo, sin perjuicio de lo que establezcan las demás disposiciones aplicables.
 
 > <small>(ADICIONADO, G.O. 4 DE MARZO DE 2008)</small>
 
@@ -336,35 +378,45 @@ II. La orientación a la población sobre los riesgos a la salud por el consumo 
 
 III. La orientación a la población para que se abstenga de fumar;
 
-> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-IV. La detección temprana del fumador y su atención oportuna;
+IV. La detección temprana de la persona fumadora y su atención oportuna;
 
 > <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
 
 V. La promoción de espacios libres de humo de tabaco;
 
-> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-VI. El fortalecimiento de la vigilancia sobre el cumplimiento de la regulación sanitaria relativa a las restricciones para la venta de productos derivados del tabaco; y
+VI. El fortalecimiento de la vigilancia sobre el cumplimiento de la regulación sanitaria relativa a las restricciones para la venta de productos derivados del tabaco, y con relación a la prohibición de la producción, distribución y enajenación de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos electrónicos análogos;
 
 > <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
 
 VII. El establecimiento de políticas tendientes a disminuir el acceso a los productos derivados del tabaco.
 
-> <small>(ADICIONADO, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 9 Quáter.
 
-El tratamiento del tabaquismo comprenderá las acciones tendientes a:
+Los tratamientos del tabaquismo y del uso de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos electrónicos análogos comprenderá las acciones tendientes a:
+
+> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
 
 I. Conseguir que las personas que lo deseen puedan abandonar el tabaquismo;
 
+> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+
 II. Reducir los riesgos y daños causados por el consumo de tabaco y la exposición a su humo;
 
-III. Abatir los padecimientos asociados al consumo de tabaco y la exposición a su humo;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-IV. Atender y rehabilitar en su caso a quienes fuman o tengan alguna enfermedad atribuible al consumo de tabaco; e
+III. Abatir los padecimientos asociados al consumo de tabaco, el uso de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos y la exposición a su humo.
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IV. Atender y rehabilitar en su caso a quienes fuman o tengan alguna enfermedad atribuible al consumo de tabaco y al uso de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos; e
+
+> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
 
 V. Incrementar el grado de bienestar físico, mental y social tanto del consumidor de tabaco como de su familia y compañeros de trabajo.
 
@@ -408,7 +460,9 @@ c) El conocimiento de los riesgos para la salud asociados al consumo de tabaco y
 
 La información a que se refiere el presente artículo deberá integrarse en el sistema de información sobre adicciones.
 
-## TÍTULO TERCERO. MEDIDAS PARA LA PROTECCIÓN A LOS NO FUMADORES
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+## TÍTULO TERCERO. MEDIDAS PARA LA PROTECCIÓN A LAS PERSONAS NO FUMADORAS
 
 ### Capítulo Primero. Prohibiciones
 
@@ -430,11 +484,13 @@ II. En elevadores y escaleras interiores de cualquier edificación;
 
 III. En los establecimientos particulares y públicos en los que se proporcione atención directa al público, tales como oficinas bancarias, financieras, comerciales o de servicios;
 
-IV. En las oficinas de cualquier dependencia o entidad de la Administración Pública del Distrito Federal y de los Órganos Autónomos del Distrito Federal, oficinas, juzgados o instalaciones del Órgano Judicial, y oficinas administrativas, auditorios, módulos de atención, comisiones o salas de juntas del Órgano Legislativo del Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, G.O. 17 DE DICIEMBRE DE 2019)</small>
+IV. En las oficinas de cualquier dependencia o entidad de la Administración Pública de la Ciudad de México y de los Órganos Autónomos de la Ciudad de México, oficinas, juzgados o instalaciones del Órgano Judicial, y oficinas administrativas, auditorios, módulos de atención, comisiones o salas de juntas del Congreso de la Ciudad de México;
 
-V. En hospitales, clínicas, centros de salud, consultorios, centros de atención médica públicos, sociales o privados, salas de espera, auditorios, bibliotecas, escuelas, sus accesos y cualquier otro lugar cerrado de las instituciones médicas y de enseñanza y en las periferias de los mismos;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+V. En hospitales, clínicas, centros de salud, consultorios, o cualquier otro centro de atención médica público, social o privado, en todos los niveles de atención a la salud, incluyendo salas de espera, auditorios, bibliotecas, centros de enseñanza e investigación, zonas de juegos infantiles, lugares de consumo o servicio de alimentos o bebidas, estacionamientos, patios, los accesos y cualquier otro lugar cerrado o de concurrencia colectiva que conforme las instalaciones.
 
 VI. En unidades destinadas al cuidado y atención de niños y adolescentes, personas de la tercera edad y personas con capacidades diferentes;
 
@@ -444,9 +500,9 @@ VII. Bibliotecas Públicas, Hemerotecas o Museos;
 
 VIII. Instalaciones deportivas e inmuebles con espacios abiertos donde se ubiquen áreas de juegos infantiles y/o desarrollen actividades al aire libre menores de edad;
 
-> <small>(REFORMADA, G.O. 17 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-IX. En centros de educación inicial, básica, media superior y superior, incluyendo sus accesos, auditorios, bibliotecas, laboratorios, instalaciones deportivas, patios salones de clase, pasillos, sanitarios y en las periferias de los mismos;
+IX. En escuelas públicas y privadas en todos los niveles educativos, incluyendo sus accesos, auditorios, bibliotecas, laboratorios, instalaciones deportivas, patios salones de clase, pasillos, sanitarios, lugares de consumo de alimentos o bebidas y espacios administrativos.
 
 > <small>(REFORMADA, G.O. 4 DE MARZO DE 2008)</small>
 
@@ -460,9 +516,9 @@ X Bis. En los establecimientos mercantiles dedicados al hospedaje, de conformida
 
 X Ter. En los establecimientos mercantiles y espacios cerrados donde se expendan al público alimentos y bebidas para su consumo en el lugar;
 
-> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XI. En los vehículos de transporte público de pasajeros, urbano, suburbano incluyendo taxis, que circulen en el Distrito Federal;
+XI. En los vehículos de transporte público de pasajeros, urbano, suburbano incluyendo taxis, que circulen en la Ciudad de México;
 
 XII. En los vehículos de transporte escolar o transporte de personal; y
 
@@ -494,19 +550,25 @@ La publicidad de tabaco que incluye espectaculares, murales, paradas y estacione
 
 ### Capítulo Segundo. De las Obligaciones
 
-> <small>(REFORMADO, G.O. 4 DE MARZO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 13.
 
-Es obligación de los propietarios, encargados o responsables de los establecimientos mercantiles en los que se expendan al público alimentos o bebidas para su consumo en el lugar, respetar la prohibición de no fumar en los mismos.
-
-Los usuarios de tales lugares están obligados a observar lo establecido en el párrafo anterior.
+Es obligación de los propietarios, encargados o responsables de los establecimientos mercantiles en los que se expendan al público alimentos o bebidas para su consumo en el lugar, respetar la prohibición de no fumar y/o usar cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos electrónicos análogos en los mismos.
 
 > <small>(REFORMADO, G.O. 4 DE MARZO DE 2008)</small>
 
+Los usuarios de tales lugares están obligados a observar lo establecido en el párrafo anterior.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 14.
 
-En los edificios, establecimientos mercantiles, médicos, industriales, de enseñanza e instalaciones de los Órganos de Gobierno del Distrito Federal y Órganos Autónomos del Distrito Federal, que cuenten con áreas de servicio al aire libre se podrá fumar sin restricción alguna, siempre y cuando el humo derivado del tabaco no invada los espacios cerrados de acceso al público.
+En los edificios, establecimientos mercantiles, médicos, industriales, de enseñanza e instalaciones de los Órganos de Gobierno de la Ciudad de México y Órganos Autónomos de la Ciudad de México, que cuenten con áreas de servicio al aire libre se podrá fumar sin restricción alguna, siempre y cuando el humo derivado del tabaco no invada los espacios cerrados de acceso al público.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+El uso de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos electrónicos análogos está prohibido.
 
 > <small>(REFORMADO, G.O. 4 DE MARZO DE 2008)</small>
 
@@ -514,9 +576,13 @@ En los edificios, establecimientos mercantiles, médicos, industriales, de ense�
 
 En los establecimientos dedicados al hospedaje, se destinará para las personas fumadoras un porcentaje de habitaciones que no podrá ser mayor al 25 por ciento del total de las mismas.
 
-Las habitaciones para fumadores y no fumadores, deberán estar identificadas permanentemente con señalamientos y avisos en lugares visibles al público asistente, dichos señalamientos y avisos deberán apegarse a los criterios que para el efecto emita la Secretaria de Salud, así como contar con las condiciones mínimas siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-I. Estar aislada físicamente de las áreas de no fumadores;
+Las habitaciones para personas fumadoras y no fumadoras, deberán estar identificadas permanentemente con señalamientos y avisos en lugares visibles al público asistente, dichos señalamientos y avisos deberán apegarse a los criterios que para el efecto emita la Secretaria de Salud, así como contar con las condiciones mínimas siguientes:
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+I. Estar aislada físicamente de las áreas de personas no fumadoras;
 
 II. Tener un sistema de extracción y purificación hacia el exterior;
 
@@ -526,27 +592,33 @@ IV. Realizar una difusión permanente sobre los riesgos y enfermedades que son c
 
 V. Sin acceso a ellas con menores de edad.
 
-Las secciones para fumadores a que se refiere el presente artículo no podrán utilizarse como un sitio de recreación.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Las secciones para personas fumadoras a que se refiere el presente artículo no podrán utilizarse como un sitio de recreación.
 
 En el caso de que por cualquier circunstancia no sea posible cumplir con los preceptos a que se refiere el presente artículo, la prohibición de fumar será aplicable al total del inmueble, local o establecimiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE MARZO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 16.
 
-Los propietarios, poseedores o responsables de los establecimientos mercantiles, oficinas, industrias o empresas de que se trate, serán responsables en forma subsidiaria con el infractor, si existiera alguna persona fumando fuera de las áreas destinadas para ello.
+Los propietarios, poseedores o responsables de los establecimientos mercantiles, oficinas, industrias o empresas de que se trate, serán responsables en forma subsidiaria con el infractor, si existiera alguna persona fumando fuera de las áreas destinadas para ello. El uso de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos está prohibido, inclusive, en las áreas destinadas para fumadores.
 
-> <small>(REFORMADO, G.O. 4 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-El propietario o titular del establecimiento mercantil, oficina, industria o empresa, o su personal, deberá exhortar, a quien se encuentre fumando, a que se abstenga de hacerlo; en caso de negativa se le invitará a abandonar las instalaciones; si el infractor se resiste a dar cumplimiento al exhorto, el titular o sus dependientes solicitarán el auxilio de algún policía, a efecto de que ponga al infractor a disposición del juez cívico competente.
+El propietario o titular del establecimiento mercantil, oficina, industria o empresa, o su personal, deberá exhortar, a quien se encuentre fumando a que se abstenga de hacerlo; en caso de negativa se le invitará a abandonar las instalaciones; si el infractor se resiste a dar cumplimiento al exhorto, el titular o sus dependientes solicitarán el auxilio de algún policía, a efecto de que ponga al infractor a disposición del juez cívico competente.
 
-La responsabilidad de los propietarios, poseedores o administradores, a que se refiere el presente artículo terminará en el momento en que el propietario o titular del local o establecimiento dé aviso a la policía del Distrito Federal.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+La responsabilidad de los propietarios, poseedores o administradores, a que se refiere el presente artículo terminará en el momento en que el propietario o titular del local o establecimiento dé aviso a la policía de la Ciudad de México.
 
 Los mecanismos y procedimientos que garanticen la eficacia en la aplicación de la medida referida en el párrafo anterior, quedarán establecidos en el reglamento respectivo que al afecto se expida.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 17.
 
-Las personas físicas que violen lo previsto en este capítulo, después de ser conminadas a modificar su conducta, cuando no lo hicieren podrán ser puestas a disposición del Juez Cívico correspondiente, por cualquier policía del Distrito Federal.
+Las personas físicas que violen lo previsto en este capítulo, después de ser conminadas a modificar su conducta, cuando no lo hicieren podrán ser puestas a disposición del Juez Cívico correspondiente, por cualquier policía de la Ciudad de México.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE NOVIEMBRE DE 2007)</small>
 
@@ -554,13 +626,15 @@ Las personas físicas que violen lo previsto en este capítulo, después de ser 
 
 Los propietarios, poseedores o responsables de los vehículos a que se refiere (sic) las fracciones XI y XII, del artículo 10, deberán fijar, en el interior y exterior de los mismos, letreros, logotipos o emblemas que indiquen la prohibición de fumar, en caso de que algún pasajero se niegue a cumplir con la prohibición, se le deberá exhortar a que modifique su conducta o invitarlo a que abandone el vehículo, en caso de negativa, se dará aviso a algún policía, a efecto de que sea remitido con el Juez Cívico correspondiente.
 
-Los conductores de los vehículos que no acaten las disposiciones del presente ordenamiento, deberán ser reportados en forma semanal a la Secretaría de Transportes y Vialidad, a través del Juzgado Cívico que reciba la denuncia, para que ésta implemente las correcciones disciplinarias correspondientes, sin perjuicio de las sanciones que establece esta Ley.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, G.O. 17 DE DICIEMBRE DE 2019)</small>
+Las personas conductoras de los vehículos que no acaten las disposiciones del presente ordenamiento, deberán ser reportados en forma semanal a la Secretaría de Movilidad, a través del Juzgado Cívico que reciba la denuncia, para que ésta implemente las correcciones disciplinarias correspondientes, sin perjuicio de las sanciones que establece esta Ley.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 19.
 
-Los alumnos, maestros, integrantes de las asociaciones de padres de familia de las escuelas e instituciones educativas, sean públicas o privadas, podrán coadyuvar de manera individual o colectiva en la vigilancia, para que se cumpla con la prohibición de fumar en las aulas, bibliotecas, auditorios, sus accesos y demás instalaciones a las que deban acudir los alumnos, y el personal docente de las respectivas instituciones educativas, pudiendo dar aviso a algún policía, para que estos sean quienes pongan a disposición del Juez Cívico, a la persona o personas que incumplan con este ordenamiento.
+Los estudiantes y docentes, personal administrativo, padres o madres de familia y los integrantes de las asociaciones de padres o madres de familia de las escuelas e instituciones educativas, en todos sus niveles, sean públicas o privadas, podrán coadyuvar de manera individual o colectiva en la vigilancia, para que se cumpla con la prohibición de fumar en las aulas, bibliotecas, auditorios, sus accesos, lugares de consumo o servicio de alimentos o bebidas y demás instalaciones a las que deban acudir los alumnos, y el personal docente de las respectivas instituciones educativas, pudiendo dar aviso a algún policía, para que estos sean quienes pongan a disposición del Juez Cívico, a la persona o personas que incumplan con este ordenamiento.
 
 > <small>(REFORMADO, G.O. 4 DE MARZO DE 2008)</small>
 
@@ -568,31 +642,37 @@ Los alumnos, maestros, integrantes de las asociaciones de padres de familia de l
 
 En los locales cerrados y establecimientos en los que se expenden alimentos y bebidas para su consumo en el lugar, los propietarios, poseedores o responsables de la negociación deberán colocar dentro de los mismos en lugares visibles letreros y señalamientos relativos a la prohibición de fumar.
 
-### Capítulo Tercero. De los Órganos de Gobierno del Distrito Federal
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+### Capítulo Tercero. De los Órganos de Gobierno de la Ciudad de México
 
 ###### Artículo 21.
 
 (DEROGADO, G.O. 4 DE MARZO DE 2008)
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 22.
 
-Las personas físicas que no sean servidores públicos, y que no respeten las disposiciones de la presente Ley cuando se encuentren en un edificio público, y después de ser conminadas a modificar su conducta o abandonar el lugar, cuando no lo hicieren podrán ser puestas de inmediato a disposición del Juez Cívico, por cualquier policía del Distrito Federal.
+Las personas físicas que no sean servidores públicos, y que no respeten las disposiciones de la presente Ley cuando se encuentren en un edificio público, y después de ser conminadas a modificar su conducta o abandonar el lugar, cuando no lo hicieren podrán ser puestas de inmediato a disposición del Juez Cívico, por cualquier policía de la Ciudad de México.
 
-> <small>(REFORMADO, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 23.
 
-Los Órganos de Gobierno y Autónomos del Distrito Federal, instruirán a los titulares de cada una de sus dependencias, unidades administrativas, órganos, entidades o similar que estén adscritos a ellos, para que en sus oficinas, sanitarios, bodegas o cualquier otra instalación, sean colocados los señalamientos que determine la Secretaría de Salud, respecto a la prohibición de fumar.
+Los Órganos de Gobierno y Autónomos de la Ciudad de México, instruirán a los titulares de cada una de sus dependencias, unidades administrativas, órganos, entidades o similar que estén adscritos a ellos, para que, en sus oficinas, sanitarios, bodegas o cualquier otra instalación, sean colocados los señalamientos que determine la Secretaría de Salud, respecto a la prohibición de fumar.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 24.
 
-Todas aquellas concesiones o permisos que otorgue el Gobierno del Distrito Federal y cuyo objeto sea brindar algún servicio al público, en la concesión se establecerán los mecanismos necesarios para que se dé cumplimiento a la presente Ley.
+Todas aquellas concesiones o permisos que otorgue el Gobierno de la Ciudad de México y cuyo objeto sea brindar algún servicio al público, en la concesión se establecerán los mecanismos necesarios para que se dé cumplimiento a la presente Ley.
 
-> <small>(REFORMADO, G.O. 1 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 25.
 
-El Jefe de Gobierno del Distrito Federal deberá garantizar, que los recursos económicos que se recauden por la imposición de sanciones derivadas del incumplimiento a la presente Ley, sean canalizados a la ejecución de acciones para la prevención y tratamiento de enfermedades atribuibles al tabaco o para llevar a cabo acciones de control epidemiológico o sanitario e investigaciones sobre el tabaquismo y sus riesgos.
+La persona titular de la Jefatura de Gobierno de la Ciudad de México deberá garantizar, que los recursos económicos que se recauden por la imposición de sanciones derivadas del incumplimiento a la presente Ley, sean canalizados a la ejecución de acciones para la prevención y tratamiento de enfermedades atribuibles al tabaco o para llevar a cabo acciones de control epidemiológico o sanitario e investigaciones sobre el tabaquismo y sus riesgos.
 
 > <small>(REFORMADO, G.O. 1 DE NOVIEMBRE DE 2007)</small>
 
@@ -664,11 +744,11 @@ Se sancionará con multa equivalente de diez a treinta veces la Unidad de Cuenta
 
 Para el caso de las conductas establecidas en el artículo 10 fracciones V y IX, se sancionará con arresto inconmutable hasta por 36 horas.
 
-> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 31.
 
-Los propietarios, poseedores o responsables de los establecimientos que no cumplan con las disposiciones de la presente Ley, serán sancionados conforme a las disposiciones de la Ley para el Funcionamiento de Establecimientos Mercantiles del Distrito Federal.
+A las personas propietarias, poseedoras o responsables de los establecimientos mercantiles que no cumplan con las disposiciones de la presente Ley, serán sancionados conforme a las disposiciones de la Ley de Establecimientos Mercantiles para la Ciudad de México.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -777,3 +857,13 @@ G.O. 17 DE DICIEMBRE DE 2019.
 Primero. Publíquese en la Gaceta Oficial de la Ciudad de México para su difusión.
 
 Segundo. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA DENOMINACIÓN DE LA LEY Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN A LA SALUD DE LOS NO FUMADORES EN LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
