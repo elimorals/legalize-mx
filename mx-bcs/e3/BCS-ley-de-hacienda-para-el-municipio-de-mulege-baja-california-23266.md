@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-mulege-baja-california-232
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2019-12-31"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23266&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MULEGÉ, BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 5 de noviembre de 2001.
 
@@ -279,19 +279,19 @@ III. Por un año, las fincas inutilizadas por incendio, derrumbe u otra causa se
 
 ### CAPÍTULO III. IMPUESTO SOBRE ADQUISICIÓN DE INMUEBLES
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 25.
 
-Están obligados al pago del Impuesto Sobre Adquisición de Bienes Inmuebles establecidos en esta Ley, las personas físicas o morales que adquieran inmuebles que consistan en el suelo y las construcciones adheridas a él, ubicadas en el territorio del Municipio de Mulegé, así como los derechos relacionados con los mismos, a que este capítulo se refiere. El impuesto se calculará a la tasa del 2% del valor del inmueble.
+Están obligados al pago del Impuesto Sobre Adquisición de Bienes Inmuebles establecidos en esta Ley, las personas físicas o morales que adquieran inmuebles que consistan en el suelo y las construcciones adheridas a él, ubicadas en el territorio del Municipio de Mulegé, así como los derechos relacionados con los mismos, a que este capítulo se refiere. El impuesto se calculará a la tasa del 3% del valor del inmueble.
 
 > <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
 En el caso de adquisición de casa habitación de interés social, mediante otorgamiento de créditos de Instituciones Oficiales o de Crédito, el Impuesto se calculara aplicando la tasa del 2% al valor del Inmueble después de reducirlo en cinco veces el valor diario de la Unidad de Medida y Actualización elevado al año. Esta misma disposición se observará para gravar la adquisición de casa habitación de interés social, entre particulares. En ambos casos se estará a lo dispuesto por él último párrafo de este mismo artículo.
 
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
 
-En el caso de adquisición por donación o sucesión entre cónyuges o parientes en línea recta ascendente o descendente, el impuesto se calculará aplicando la tasa del 1% sobre el valor de avalúo, después de reducirlo en cinco veces el valor diario de la Unidad de Medida y Actualización elevado al año.
+En el caso de adquisición por donación o sucesión entre cónyuges o parientes en línea recta ascendente o descendente, el impuesto se calculará aplicando la tasa del 1.5% sobre el valor de avalúo, después de reducirlo en cinco veces el valor diario de la Unidad de Medida y Actualización elevado al año.
 
 > <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
@@ -709,13 +709,19 @@ XIX. Por expedición de licencias, refrendos y revalidaciones, permisos o autori
 
 XX. Otorgamiento de licencias, permisos o autorizaciones para anuncios, carteles o publicidad en la vía pública o privada.
 
+> <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XXI. Por el Saneamiento Ambiental.
+
 ###### Artículo 60.
 
 Los derechos por la prestación de servicios que proporcionan las diferentes dependencias y organismos municipales, se causarán en el momento en que el particular contrate o reciba la prestación del servicio o en el momento en que se provoque por parte del Ayuntamiento de Mulegé, el gasto que deba ser remunerado por aquél, salvo en el caso en que la disposición que fije el derecho señale cosa distinta.
 
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 61.
 
-El importe de las tasas o cuotas que para cada derecho señala la presente Ley, deberán ser cubiertos en Recaudación de Rentas de la Tesorería General Municipal, o en las cajas recaudadoras de los organismos descentralizados de la administración municipal que para tal efecto señale la misma.
+El importe de las tasas o cuotas que para cada derecho señala la presente Ley, deberán ser cubiertos en Recaudación de Rentas de la Tesorería General Municipal, o en las cajas recaudadoras de los organismos descentralizados de la administración municipal que para tal efecto señale la misma, salvo en el caso del Saneamiento Ambiental, cuyo importe y forma de entero se encuentra prevista en el capítulo correspondiente de la presente ley.
 
 ###### Artículo 62.
 
@@ -735,9 +741,11 @@ En caso de discrepancia acerca de la procedencia o cuantía del derecho, cuando 
 
 Causarán el pago del equivalente a una vez (sic) valor diario de la Unidad de Medida y Actualización los derechos por toda clase de constancias o certificaciones no detalladas en la presente Ley y expedidas por los servidores públicos municipales, así como las copias de documentos existentes en los archivos de las dependencias y organismos municipales, a solicitud de los interesados.
 
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 66.
 
-Los derechos a los que se refiere este título deberán ser cubiertos en forma anticipada en las cajas recaudadoras de la Tesorería General Municipal.
+Los derechos a los que se refiere este título deberán ser cubiertos en forma anticipada en las cajas recaudadoras de la Tesorería General Municipal, salvo en el caso del Saneamiento Ambiental, cuyo importe y forma de entero se encuentra prevista en el capítulo correspondiente de la presente ley.
 
 ###### Artículo 67.
 
@@ -2267,11 +2275,73 @@ II. Los que se deriven de las Entidades Gubernamentales en sus funciones de dere
 
 III. El anuncio principal del establecimiento destinado a anunciar su propio negocio, siempre que este se localice en los límites de construcción del mismo, sin ser este la vía pública.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+### CAPITULO XXI. OTROS DERECHOS
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+#### SECCIÓN ÚNICA. DEL SANEAMIENTO AMBIENTAL
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 152-A.
+
+Los derechos establecidos en esta sección se causarán por la realización de acciones en materia de saneamiento ambiental que se lleven a cabo en el Municipio de Mulegé.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 152-B.
+
+Quedan obligadas al pago del derecho de saneamiento ambiental:
+
+a) Las personas que contraten servicios de hospedaje derivado de la ocupación de cuartos o habitaciones de hoteles, posadas, casas de huéspedes, hostales y moteles, así como de aquellos que se lleven a cabo en casas, departamentos enteros, habitaciones privadas o compartidas, casas rodantes y campamentos, independientemente de la forma en que se contraten, incluyendo las que se realicen a través de plataformas o aplicaciones tecnológicas o informáticas;
+
+b) Las personas clientes que celebren contratos de arrendamiento de todo tipo de vehículos automotores dentro del Municipio de Mulegé; y
+
+c) Las personas clientes que celebren contratos de arrendamiento de embarcaciones marítimas recreativas y/o deportivas dentro del Municipio de Mulegé.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 152-C.
+
+El importe de este derecho deberá ser retenido por los propietarios, poseedores, administradores o arrendadores, según corresponda, de los establecimientos o inmuebles en los que se contraten u otorguen los servicios a que hace referencia el artículo 152-B de la presente ley, quienes deberán de proporcionar mensualmente, mediante las formas aprobadas por la Tesorería Municipal a través de los medios electrónicos dispuestos por ésta, la información relativa a la recaudación que lleven a cabo a más tardar el día diecisiete del mes inmediato posterior al que corresponda dicha información, acompañado del entero del derecho correspondiente.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 152-D.
+
+Los ingresos que por concepto de este derecho se recauden, serán transferidos directamente por la Tesorería Municipal al patrimonio del Fideicomiso Público municipal que al efecto se constituya, teniendo este fideicomiso la obligación de administrarlos y aplicarlos conforme al destino previsto en esta sección.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 152-E.
+
+Con la recaudación del derecho de saneamiento ambiental se cubrirán los costos del cumplimiento de las funciones que se realizan y la prestación de los servicios de que disfruta toda persona en el Municipio, a fin de que el Ayuntamiento establezca políticas públicas y lleve a cabo acciones para el desarrollo sustentable, la preservación y restauración del equilibrio ecológico y la protección ambiental, a través de la ejecución de obras relacionadas a la mejora del espacio público, la conservación y mantenimiento de playas; el tratamiento integral de residuos sólidos urbanos, obras relativas al alumbrado público que garanticen la mitigación de emisiones de Gases de Efecto Invernadero y la eficiencia energética; el tratamiento de aguas residuales y la potabilización de agua para consumo humano; así como la mejora de la movilidad en el traslado de las personas y la disminución de las emisiones contaminantes que se encuentran en el entorno del territorio municipal.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 152-F.
+
+El pago del derecho de saneamiento ambiental por personas usuarias de cuartos y/o habitaciones de hoteles, posadas o casas de huéspedes, hostales y moteles, se causará a razón del 70% del valor diario de la Unidad de Medida y Actualización por cuarto y/o habitación ocupada por noche.
+
+Asimismo, el pago del derecho de saneamiento ambiental que se cause por los servicios de hospedaje a través de plataformas digitales y similares será de 2 veces el valor diario de la Unidad de Medida y Actualización por cuarto, casa o departamento ocupado.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 152-G.
+
+Están obligados a pagar el derecho de saneamiento ambiental todas las personas que se ubiquen en el supuesto establecido en el inciso b) del artículo 152-B mismo que se causará a razón del 50% del valor diario de la Unidad de Medida y Actualización por día de renta.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 152-H.
+
+Están obligados a pagar el derecho de saneamiento ambiental todas las personas que se ubiquen en el supuesto establecido en el inciso c) del artículo 152-B mismo que se causará a razón del 50% del valor diario de la Unidad de Medida y Actualización por evento de renta dentro de un día calendario.
 
 ## TÍTULO CUARTO. PRODUCTOS
 
-### CAPÍTULO II. VENTA O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES DEL PATRIMONIO MUNICIPAL
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 153.
 
@@ -2299,9 +2369,7 @@ X. Servicio de Transporte Público Urbano
 
 XI. Productos diversos
 
-### CAPÍTULO III. ALMACENAJE DE VEHÍCULOS EN LOS CORRALONES DE DEPÓSITO MUNICIPALES
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+### CAPÍTULO II. VENTA O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES DEL PATRIMONIO MUNICIPAL
 
 ###### Artículo 154.
 
@@ -2319,21 +2387,21 @@ En todos los casos en los que se autorice la enajenación de bienes del Municipi
 
 Los bienes de uso común o destinados al servicio del Municipio, no podrán ser enajenados mientras tengan ese carácter, el que sólo podrá cambiarse mediante autorización del Cabildo.
 
-### CAPÍTULO IV. VENTA DE BIENES MOSTRENCOS
+### CAPÍTULO III. ALMACENAJE DE VEHÍCULOS EN LOS CORRALONES DE DEPÓSITO MUNICIPALES
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 157.
 
 Los propietarios de los vehículos tipo sedan y pick-up que sean almacenados en los terrenos o corralones de depósito, pagarán la cantidad equivalente a un 0.25 del valor diario de la Unidad de Medida y Actualización, por cada día de almacenaje, a partir del onceavo día de su ingreso, siempre y cuando el vehículo esté a disposición del propietario.
 
-### CAPÍTULO V. VENTA DE SOLARES PROPIEDAD DEL MUNICIPIO
+### CAPÍTULO IV. VENTA DE BIENES MOSTRENCOS
 
 ###### Artículo 158.
 
 Constituyen ingresos en este ramo, el producto liquidado de los bienes mostrencos que sean rematados y vendidos de acuerdo con las disposiciones relativas.
 
-### CAPÍTULO VI. EXPEDICIÓN DE TÍTULOS DE PROPIEDAD
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+### CAPÍTULO V. VENTA DE SOLARES PROPIEDAD DEL MUNICIPIO
 
 ###### Artículo 159.
 
@@ -2351,7 +2419,9 @@ II. Se entiende por venta de solar a crédito cuando a petición de la persona i
 
 En la venta de solares a crédito se causarán intereses a razón de un 9% anual sobre saldos insolutos.
 
-### CAPÍTULO VII. VENTA DE PAPEL PARA COPIAS DE ACTAS DEL REGISTRO CIVIL
+### CAPÍTULO VI. EXPEDICIÓN DE TÍTULOS DE PROPIEDAD
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 162.
 
@@ -2361,7 +2431,7 @@ El que done, ceda, traspase, enajene o adquiera predios, en tanto no se otorgue 
 
 En los demás casos que procedan de acuerdo con operaciones de compraventa contemplados en la presente Ley, se emitirán Títulos de Propiedad pagando una cuota equivalente a cinco veces el valor diario de la Unidad de Medida y Actualización.
 
-### CAPÍTULO VIII. OCUPACIÓN DE LOCALES, ALMACENES Y/O EL USO DE CUARTOS FRÍOS EN LOS MERCADOS Y RASTROS MUNICIPALES
+### CAPÍTULO VII. VENTA DE PAPEL PARA COPIAS DE ACTAS DEL REGISTRO CIVIL
 
 ###### Artículo 163.
 
@@ -2389,9 +2459,7 @@ Los Oficiales del Registro Civil extenderán las certificaciones y copias certif
 
 En caso de que les sean presentadas hojas sin los requisitos indicados en el Artículo 161, las recogerán y harán la consignación ante el Ministerio Público.
 
-### CAPÍTULO IX. VENTA DE FORMATOS OFICIALES
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+### CAPÍTULO VIII. OCUPACIÓN DE LOCALES, ALMACENES Y/O EL USO DE CUARTOS FRÍOS EN LOS MERCADOS Y RASTROS MUNICIPALES
 
 ###### Artículo 168.
 
@@ -2419,7 +2487,7 @@ El gasto de la energía eléctrica y fuerza motriz de los locales arrendados en 
 
 Los causantes sujetos a pagos periódicos presentarán, al efectuar cualquier pago, el recibo anterior, y en caso de ser requeridos para ello, hasta los tres últimos recibos.
 
-### CAPÍTULO X. ESTACIONAMIENTO MUNICIPAL
+### CAPÍTULO IX. VENTA DE FORMATOS OFICIALES
 
 > <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
@@ -2427,19 +2495,21 @@ Los causantes sujetos a pagos periódicos presentarán, al efectuar cualquier pa
 
 Por la expedición de los formatos oficiales para todos los cobros de la Hacienda Municipal, se cobrará una cuota de 0.05 % del valor diario de la Unidad de Medida y Actualización.
 
-### CAPÍTULO XI. SERVICIO DE TRANSPORTE PÚBLICO URBANO
+### CAPÍTULO X. ESTACIONAMIENTO MUNICIPAL
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 172.
 
 Por la recepción, guarda y devolución de vehículos de propulsión automotriz en el estacionamiento público propiedad del Municipio, se causará un 15% del valor diario de la Unidad de Medida y Actualización por hora a los usuarios de este servicio.
 
-### CAPÍTULO XII. PRODUCTOS DIVERSOS
+### CAPÍTULO XI. SERVICIO DE TRANSPORTE PÚBLICO URBANO
 
 ###### Artículo 173.
 
 Por el servicio de Transporte Público Urbano, que presta el Ayuntamiento de Mulegé, cobrará de acuerdo a la tarifa previamente autorizada por el H. Cabildo.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO XII. PRODUCTOS DIVERSOS
 
 ###### Artículo 174.
 
@@ -2455,9 +2525,7 @@ b) Servicio de fotocopiado 0.03 del valor diario de la Unidad de Medida y Actual
 
 ## TÍTULO QUINTO. APROVECHAMIENTOS
 
-### CAPÍTULO II. RECARGOS
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 175.
 
@@ -2477,7 +2545,9 @@ V. Aprovechamientos diversos
 
 Asimismo serán motivo de ingresos municipales de este capítulo, las infracciones a las leyes municipales y las que se deriven del incumplimiento a los diferentes ordenamientos, las que se harán efectivas a través de las autoridades fiscales municipales competentes.
 
-### CAPÍTULO III. REZAGOS
+### CAPÍTULO II. RECARGOS
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 177.
 
@@ -2487,23 +2557,23 @@ La falta de pago oportuno de un crédito fiscal dará lugar al cobro de recargos
 
 El plazo para el computo de los recargos no comenzará a correr si el causante no conoce, por razones imputables a las autoridades fiscales, el importe del crédito fiscal, en los casos en que deba ser calificado o modificado previamente.
 
-### CAPÍTULO IV. MULTAS
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2019)</small>
+### CAPÍTULO III. REZAGOS
 
 ###### Artículo 179.
 
 Se consideran como rezagos los adeudos por concepto de impuestos, derechos y productos que pasen a ejercicios fiscales posteriores, a pesar de que debió hacerse su pago en aquél en el que se causaron. Los rezagos serán cubiertos en las oficinas en las que debieron pagarse los impuestos, derechos y productos de los cuales provengan.
 
-### CAPÍTULO V. SANCIONES POR DESACATO AL BANDO DE POLICÍA Y BUEN GOBIERNO, REGLAMENTO DE TRÁNSITO Y DEMÁS DISPOSICIONES VIGENTES
+### CAPÍTULO IV. MULTAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 180.
 
 Además de las que señale la presente Ley, las multas o sanciones por infracciones a disposiciones municipales, serán cobradas en los términos y condiciones que establezcan las disposiciones legales que las prevén. El cobro de las multas se hará independientemente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, según sea el caso.
 
-### CAPÍTULO VI. APROVECHAMIENTOS DIVERSOS
+### CAPÍTULO V. SANCIONES POR DESACATO AL BANDO DE POLICÍA Y BUEN GOBIERNO, REGLAMENTO DE TRÁNSITO Y DEMÁS DISPOSICIONES VIGENTES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 181.
 
@@ -3289,9 +3359,7 @@ b).- Causar molestias a las personas en tránsito con motivo de la actividad com
 
 c).- Introducirse a propiedad privada con fines comerciales, sin la autorización del propietario del inmueble, con multa de 50 a 150 veces el valor diario de la Unidad de Medida y Actualización.
 
-### CAPÍTULO ÚNICO. CLASIFICACIÓN
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2019)</small>
+### CAPÍTULO VI. APROVECHAMIENTOS DIVERSOS
 
 ###### Artículo 182.
 
@@ -3313,7 +3381,7 @@ INGRESOS POR VENTA DE BIENES, PRESTACIÓN DE SERVICIOS Y OTROS INGRESOS.
 
 ### CAPÍTULO ÚNICO. CLASIFICACIÓN
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 184 Bis.
 
@@ -3353,7 +3421,9 @@ Son los ingresos que reciben los entes públicos con el objeto de sufragar gasto
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO I. PENSIONADOS Y JUBILADOS
+### CAPÍTULO ÚNICO. CLASIFICACIÓN
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 187.
 
@@ -3365,7 +3435,7 @@ Son los ingresos obtenidos por la celebración de empréstitos internos o extern
 
 REDUCCIONES PARA PENSIONADOS, JUBILADOS, SENECTUD Y DISCAPACITADOS.
 
-### CAPÍTULO II. SENECTUD
+### CAPÍTULO I. PENSIONADOS Y JUBILADOS
 
 ###### Artículo 188.
 
@@ -3405,7 +3475,7 @@ Para aplicar las reducciones a las contribuciones de referencia, dentro de los l
 
 Los Recargos y gastos de ejecución originados por la falta de pago de un crédito fiscal en la fecha o plazo establecido o las multas determinadas sobre el monto del crédito por infracciones a las disposiciones fiscales a cargo de Pensionados o Jubilados, se reducirán conforme a los porcentajes y respecto de las contribuciones que se indican en los artículos 184 y 185 de esta Ley, en la misma proporción con la que se haya beneficiado al Pensionado o Jubilado.
 
-### CAPÍTULO III. DISCAPACITADOS
+### CAPÍTULO II. SENECTUD
 
 ###### Artículo 193.
 
@@ -3431,7 +3501,7 @@ V. De un 50% de descuento por el servicio de agua potable y alcantarillado para 
 
 VI. De un 50% de descuento en la entrada a todo evento deportivo, recreativo, musical, etc., convocado y organizado por el Ayuntamiento y en los permisos para eventos familiares expedidos por la coordinación de espectáculos municipales para personas afiliadas al (INSEN).
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO III. DISCAPACITADOS
 
 ###### Artículo 196.
 
@@ -3496,6 +3566,8 @@ Para efectos de lo dispuesto en este Capítulo, se considerarán sujetos benefic
 ## TÍTULO DÉCIMO SEGUNDO
 
 ILÍCITOS FISCALES INFRACCIONES Y SANCIONES.
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 201.
 
@@ -3668,3 +3740,27 @@ El presente Decreto entrará en vigor a partir del 01 de enero de 2020, previa s
 ###### ARTÍCULO SEGUNDO.
 
 El H. XVI Ayuntamiento de Mulegé deberá llevar a cabo los ajustes correspondientes a su normatividad municipal en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del presente decreto.
+
+B.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3263 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE MULEGÉ, COMONDÚ, LA PAZ Y LORETO, TODAS DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día 01 de enero del año 2026, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos de Mulegé, Comondú, La Paz y Loreto a través de las personas titulares de la presidencia municipal respectivamente deberán llevar a cabo la conformación de los correspondientes Fideicomisos Municipales de Saneamiento Ambiental a más tardar en el mes de enero del año 2026.
+
+De igual forma, las personas titulares de las tesorerías municipales de cada ayuntamiento deberán poner a disposición de los obligados a retener y enterar, las formas autorizadas por estas a través de los medios electrónicos dispuestos para el entero del Derecho de saneamiento Ambiental, a más tardar en el mes de enero del año 2026.
+
+###### ARTÍCULO TERCERO.
+
+El Comité Técnico de cada Fideicomiso de saneamiento ambiental deberá presentar ante el Congreso del Estado un informe trimestral sobre la administración y a través de los recursos transferidos por la Tesorería Municipal, a más tardar dentro de los treinta días naturales siguientes al trimestre concluido, mismo que será turnado a las comisiones permanentes de Vigilancia de la Auditoría Superior del Estado y de Asuntos Fiscales y Administrativos.
+
+El ejercicio del gasto llevado a cabo por cada uno de los fideicomisos municipales de saneamiento ambiental será revisado y fiscalizado por la Auditoría Superior del Estado, conforme a las reglas aplicables a los entes públicos sujetos a fiscalización.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente decreto.
