@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-proteccion-y-conservacion-del-maiz-criollo-en-su-101561"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-25"
-last_updated: "2025-10-08"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE PROTECCIÓN Y CONSERVACIÓN DEL MAÍZ CRIOLLO EN SU ESTADO GENÉTICO PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 8 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 25 de junio de 2014.
 
@@ -61,11 +61,13 @@ IV. Promover la conservación y el aprovechamiento tecnológico de los maíces c
 
 V. Establecer los mecanismos de fomento y protección al maíz, en cuanto a la investigación, producción, comercialización, consumo y diversificación constante como Patrimonio Alimentario del Estado de Morelos;
 
-La Secretaría de Desarrollo Agropecuario (SEDAGRO), es la Institución encargada de la adecuada interpretación y el cumplimiento de la presente Ley.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)</small>
+El Estado de Morelos forma parte del origen y diversidad del maíz, que es un elemento de identidad nacional y local, alimento básico de nuestro pueblo y base de la existencia de los pueblos indígenas y afromexicanos.
 
-En el ámbito de su competencia, este cuerpo normativo observará las disposiciones de la Ley de Bioseguridad de Organismos Genéticamente Modificados de competencia federal.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+
+El cultivo del maíz criollo en el territorio estatal debe ser libre de modificaciones genéticas producidas con técnicas que superen las barreras naturales de la reproducción o la recombinación, como las transgénicas. Todo otro uso del maíz genéticamente modificado debe ser evaluado en los términos de las disposiciones legales para quedar libre de amenazas para la bioseguridad, la salud y el patrimonio biocultural de la Entidad y su población. Debe priorizarse la protección de la biodiversidad, la soberanía alimentaria, su manejo agroecológico, promoviendo la investigación científica-humanística, la innovación y los conocimientos tradicionales.
 
 ###### Artículo 2.
 
@@ -458,3 +460,13 @@ PRIMERO. Remítase el presente Decreto a la Titular del Poder Ejecutivo del Esta
 SEGUNDO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de Gobierno del Estado.
 
 TERCERO. El presente Decreto deroga todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o contradigan al presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2025.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO SEISCIENTOS DIEZ POR EL QUE SE REFORMA EL ARTÍCULO 1 DE LA LEY DE PROTECCIÓN Y CONSERVACIÓN DEL MAÍZ CRIOLLO EN SU ESTADO GÉNETICO PARA EL ESTADO DE MORELOS".]</small>
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto, entrará en vigor, a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERO.- Se derogan las disposiciones de igual o menor rango que se opongan a la presente reforma
