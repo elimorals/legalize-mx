@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-auditoria-y-control-interno-de-la-administracion-123184"
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-01"
-last_updated: "2025-08-27"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123184&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-08-31"
 
 LEY DE AUDITORÍA Y CONTROL INTERNO DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el viernes 1 de septiembre de 2017.
 
@@ -112,9 +112,11 @@ XXIII. Unidades Administrativas de Apoyo Técnico-Operativo: Las que asisten té
 
 La Secretaría directamente y sus unidades administrativas, ejecutarán auditorías, control interno e intervenciones, de los recursos humanos, materiales, tecnológicos y financieros con los que cuente el ente público. En el caso de recursos de origen federal, además deberán cumplir con lo establecido en los convenios, acuerdos de coordinación celebrados al efecto por la Federación y la Ciudad de México y normatividad aplicable.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 6.
 
-A falta de disposición expresa en esta ley, se aplicarán en forma supletoria en el siguiente orden: la Ley de Procedimiento Administrativo del Distrito Federal, el Código de Procedimientos Civiles para el Distrito Federal, y los principios generales del derecho.
+A falta de disposición expresa en esta ley, se aplicarán en forma supletoria en el siguiente orden: la Ley de Procedimiento Administrativo de la Ciudad de México, el Código de Procedimientos Civiles vigente en la Ciudad de México, y los principios generales del derecho.
 
 ###### Artículo 7.
 
@@ -605,3 +607,11 @@ G.O. 27 DE AGOSTO DE 2025.
 PRIMERO: Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 6, DE LA LEY DE AUDITORÍA Y CONTROL INTERNO DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+Primero. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
