@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-alcaldias-de-la-ciudad-de-mexico-128262"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2025-03-31"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128262&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2018-05-03"
 
 LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Tomo I del Número 314 de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -588,7 +588,9 @@ II. Vincular las políticas públicas, programas, planes, proyectos y acciones d
 
 III. Diseñar el Plan General de Trabajo Territorial en materia de Juventud desde una perspectiva transversal e incluyente en su demarcación y que deberá sujetarse a lo que establezca el Plan Estratégico en materia de juventud.
 
-IV. Deberán procurar en el ámbito de sus atribuciones, los derechos de las personas jóvenes en materia de: salud, salud sexual y reproductiva, recreación, deporte, participación política, acceso a la cultura, ciencia, empleo y demás derechos que se expresen en la Constitución Política de la Ciudad de México, así como la Ley de los derechos de las personas jóvenes de la Ciudad de México.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IV. Deberán procurar en el ámbito de sus atribuciones, los derechos de las personas jóvenes en materia de: salud física, salud mental, salud sexual y reproductiva, recreación, deporte, participación política, acceso a la cultura, ciencia, empleo y demás derechos que se expresen en la Constitución Política de la Ciudad de México, así como la Ley de los Derechos de las Personas Jóvenes en la Ciudad de México.
 
 ###### Artículo 37.
 
@@ -1493,6 +1495,10 @@ Los instrumentos para la planeación que se desarrollen en las Alcaldías deber�
 ###### Artículo 109.
 
 Para garantizar el derecho a la buena administración, las Alcaldías deben elaborar su programa de gobierno, mismos que establecerán las metas y objetivos de la acción pública en el ámbito de las demarcaciones territoriales, en términos de la legislación aplicable.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+También deberán contener metas y objetivos específicos, así como criterios para la realización de evaluaciones alineados a la Agenda 2030, para el Desarrollo Sostenible.
 
 ###### Artículo 110.
 
@@ -2601,3 +2607,21 @@ PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. Los Concejos de las Alcaldías deberán realizar las modificaciones a sus Reglamentos Internos para adecuarlos al contenido del presente Decreto, en un plazo no mayor de 60 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 109 DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 36 DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO; SE REFORMA LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 29; LA FRACCIÓN III DEL ARTÍCULO 151; Y SE ADICIONA UNA FRACCIÓN IV AL ARTÍCULO 151 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES EN LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Las Alcaldías podrán llevar a cabo mediante gastos compensados los ajustes presupuestarios y hacer las prevenciones para los siguientes ejercicios fiscales a efecto de implementar planes y programas de atención a la salud mental de las personas jóvenes dentro de su demarcación territorial.
