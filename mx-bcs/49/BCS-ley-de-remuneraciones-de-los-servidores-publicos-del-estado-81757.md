@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-remuneraciones-de-los-servidores-publicos-del-estado-817
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-20"
-last_updated: "2019-04-20"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE REMUNERACIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y LOS MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2011.
 
@@ -45,7 +45,9 @@ LEY DE REMUNERACIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y LOS MUNICIPIOS DE
 
 La presente ley es de orden público y tiene como finalidad regular las remuneraciones de los servidores públicos que presten servicios en cualquier órgano de la autoridad.
 
-Los servidores públicos recibirán una remuneración adecuada, irreducible e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será determinada anual y equitativamente en los presupuestos de egresos que correspondan.
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+Los servidores públicos recibirán una remuneración adecuada, irreducible e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será determinada anual y equitativamente en los presupuestos de egresos que correspondan, sin tener en cuenta sexo, género, ni cualquier otra condición que atente contra la dignidad humana.
 
 ###### Artículo 2.
 
@@ -289,6 +291,10 @@ V.- Número de Servidores Públicos, funciones y responsabilidades; y
 
 VI.- Capacidad económica de la entidad pública.
 
+> <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VII.- los criterios que garanticen reducir y erradicar la brecha salarial de género gradualmente.
+
 ###### Artículo 28.
 
 Tomando en cuenta las funciones que formal y materialmente realiza cada servidor público así como su responsabilidad, especialización y productividad, cada órgano de la autoridad homologará sus percepciones. En el caso de los trabajadores sindicalizados tal homologación se hará previo acuerdo con el sindicato único de trabajadores al Servicio de los Poderes del Estado, Municipios e Instituciones descentralizadas de Baja California Sur.
@@ -347,7 +353,9 @@ IV.- Los criterios para definir en los tabuladores variables, niveles de remuner
 
 V.- Las prácticas y fechas de pago de las remuneraciones;
 
-VI.- Las políticas de autorización de promociones salariales; y
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VI.- Las políticas de autorización de promociones salariales, en las que se deberán considerar los mecanismos y criterios que garanticen reducir y erradicar la brecha salarial de género de gradualmente; y
 
 VII.- Las políticas para la asignación de percepciones variables, como los bonos, compensaciones, estímulos y premios, únicamente para el personal de base.
 
@@ -454,3 +462,17 @@ B.O. 20 DE ABRIL DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3243 SE REFORMAN LA FRACCIÓN VIII DEL ARTÍCULO 15, EL PÁRRAFO TERCERO DEL ARTÍCULO 28, EL ARTÍCULO 33 Y EL PÁRRAFO SEGUNDO AL ARTÍCULO 34, SE REFORMA LA FRACCIÓN X AL ARTÍCULO 44 Y SE ADICIONA UNA FRACCIÓN V BIS AL ARTÍCULO 44, TODOS DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR, Y SE REFORMAN (SIC) EL ARTÍCULO 1 Y LA FRACCIÓN VI AL ARTÍCULO 33, Y SE ADICIONA LA FRACCIÓN VII DEL ARTÍCULO 27, TODOS A LA LEY DE REMUNERACIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Las disposiciones contenidas en el presente Decreto en materia de igualdad sustantiva y erradicación de la brecha salarial por razones de género, su cumplimiento será gradual conforme a lo que se apruebe en los presupuestos de egresos correspondientes.
+
+TERCERO.- Los procedimientos laborales de declaración de beneficiarios que a la entrada en vigor del presente decreto se encuentren en trámite y que tengan relación con el mismo, continuarán su sustanciación y ejecución en su caso, de conformidad con la legislación aplicable en el momento del inicio de los mismos. Ordenándose al tribunal burocrático del estado, agilizar las resoluciones de los mismos.
+
+CUARTO.- Las áreas de recursos humanos de los Poderes del Estado y Municipios de Baja California Sur, en un plazo no mayor (sic) 30 días naturales, contados a partir de la entrada en vigor del presente decreto, deberán de cumplir con lo establecido en el mismo.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
