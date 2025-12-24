@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-instituto-para-la-seguridad-de-las-construcciones-77133
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-05"
-last_updated: "2012-05-16"
+last_updated: "2025-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77133&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2010-10-22"
 ---
 # LEY DEL INSTITUTO PARA LA SEGURIDAD DE LAS CONSTRUCCIONES DE LA CIUDAD DE MEXICO -- ANTES LEY DEL INSTITUTO PARA LA SEGURIDAD DE LAS CONSTRUCCIONES DEL DISTRITO FEDERAL--
 
-LEY DEL INSTITUTO PARA LA SEGURIDAD DE LAS CONSTRUCCIONES DEL DISTRITO FEDERAL
+LEY DEL INSTITUTO PARA LA SEGURIDAD DE LAS CONSTRUCCIONES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 5 de noviembre de 2010.
 
@@ -46,15 +46,17 @@ DECRETO POR EL QUE SE EXPIDE LA LEY DEL INSTITUTO PARA LA SEGURIDAD DE LAS CONST
 
 Se expide la Ley del Instituto para la Seguridad de las Construcciones del Distrito Federal, para quedar como sigue:
 
-LEY DEL INSTITUTO PARA LA SEGURIDAD DE LAS CONSTRUCCIONES DEL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+LEY DEL INSTITUTO PARA LA SEGURIDAD DE LAS CONSTRUCCIONES DE LA CIUDAD DE MÉXICO
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, G.O. 16 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 1.
 
-La presente Ley tiene por objeto crear el Instituto para la Seguridad de las Construcciones en el Distrito Federal, como un organismo descentralizado de la Administración Pública del Distrito Federal, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Obras y Servicios con atribuciones específicas en materia de seguridad estructural.
+La presente Ley tiene por objeto crear el Instituto para la Seguridad de las Construcciones en la Ciudad de México, como un organismo descentralizado de la Administración Pública de la Ciudad de México, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Obras y Servicios con atribuciones específicas en materia de seguridad estructural.
 
 ###### Artículo 2.
 
@@ -74,23 +76,29 @@ III. Consejo Directivo, al Órgano de Gobierno del Instituto;
 
 IV. Corresponsable en Seguridad Estructural. Es el profesional auxiliar de la Administración Pública, con autorización y registro ante el Instituto con los conocimientos técnicos en materia de seguridad estructural para responder en forma conjunta con el Director Responsable de Obra, o autónoma en las obras que otorgue responsiva, en todos los aspectos técnicos relacionados al ámbito de su intervención profesional.
 
-V. Director General, al Director General del Instituto para la Seguridad de las Construcciones en el Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+V. Director General, a la persona titular de la Dirección General del Instituto para la Seguridad de las Construcciones en la Ciudad de México;
 
 > <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
 
 VI. Director Responsable de Obra. Es el profesional auxiliar de la Administración Pública, con autorización y registro ante el Instituto que se hace responsable de la observancia de la Ley, en el acto en que otorga su responsiva relativa al ámbito de su intervención profesional.
 
-VII. Instituto, al Instituto para la Seguridad de las Construcciones en el Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+VII. Instituto, al Instituto para la Seguridad de las Construcciones en la Ciudad de México;
 
 > <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
 
 VIII. Propietario o poseedor, a la persona física o moral que tiene la propiedad o posesión jurídica de un bien inmueble, donde se pretenda realizar alguna construcción, modificar la estructura de la construcción existente o construir una nueva estructura o, en su caso, hacer la revisión de las construcciones existentes.
 
-IX. Reglamento, al Reglamento de Construcciones para el Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+IX. Reglamento, al Reglamento de Construcciones vigente en la Ciudad de México;
 
-X. Revisores, a los profesionales con conocimientos especializados en materia de seguridad estructural, designados por el Instituto para: Revisar el diseño y la memoria estructural en los proyectos de construcción; supervisar el desempeño de los DRO, en materia de seguridad estructural, y Corresponsables durante el proceso de construcción; y para revisar, en los casos que se considere necesario, la seguridad de las construcciones existentes en el Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+X. Revisores, a los profesionales con conocimientos especializados en materia de seguridad estructural, designados por el Instituto para: Revisar el diseño y la memoria estructural en los proyectos de construcción; supervisar el desempeño de los DRO, en materia de seguridad estructural, y Corresponsables durante el proceso de construcción; y para revisar, en los casos que se considere necesario, la seguridad de las construcciones existentes en la Ciudad de México;
 
 XI. Titular, persona física o moral a cuyo nombre se expide la licencia o permiso y en su caso, quien presenta el aviso u obtiene el registro de la manifestación de construcción;
 
@@ -98,7 +106,9 @@ XI. Titular, persona física o moral a cuyo nombre se expide la licencia o permi
 
 XII. Secretaria, a la Secretaria de Obras y Servicios, y (sic)
 
-XIII. Delegación, Órgano Político-Administrativo en cada una de las demarcaciones territoriales del Distrito Federal.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XIII. Alcaldía, Órgano Político Administrativo en cada una de las demarcaciones territoriales de la Ciudad de México.
 
 > <small>(ADICIONADA, G.O. 16 DE MAYO DE 2012)</small>
 
@@ -110,7 +120,9 @@ El patrimonio del instituto se integrará por:
 
 I. Los bienes muebles e inmuebles que por cualquier titulo obtenga;
 
-II. Los recursos que le sean asignados en el Presupuesto de Egresos del Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+II. Los recursos que le sean asignados en el Presupuesto de Egresos de la Ciudad de México
 
 III. Las participaciones, donaciones, herencias y legados que reciba de personas físicas y morales, nacionales y extranjeras;
 
@@ -126,7 +138,9 @@ Las relaciones laborales de los Servidores Públicos del Instituto se regirán p
 
 El instituto tiene las siguientes atribuciones:
 
-I. Establecer el Sistema para la Seguridad de las Construcciones del Distrito Federal y vigilar y evaluar su cumplimiento;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+I. Establecer el Sistema para la Seguridad de las Construcciones de la Ciudad de México y vigilar y evaluar su cumplimiento;
 
 > <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
 
@@ -184,19 +198,19 @@ XV. Realizar campañas de difusión y promoción de los servicios a cargo de los
 
 XVI. Llevar y mantener actualizado el padrón de revisores;
 
-> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XVII. Contratar a Revisores para que en los casos en que se considere necesario supervisen la seguridad estructural en las edificaciones del Distrito Federal, en los términos de las fracciones IX y X del presente artículo;
+XVII. Contratar a Revisores para que en los casos en que se considere necesario supervisen la seguridad estructural en las edificaciones de la Ciudad de México, en los términos de las fracciones IX y X del presente artículo;
 
 XVIII. Emitir dictamen técnico fundado y motivado de las revisiones, evaluaciones y supervisiones que ordene;
 
-> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XIX. Solicitar a las Delegaciones la verificación de las construcciones consideradas como de riesgo y coadyuvar con las mismas, para en su caso, instrumentar medidas de seguridad al detectarse que no fueron consideradas en el proceso constructivo las normas técnicas y disposiciones legales y administrativas aplicables;
+XIX. Solicitar a las Alcaldías la verificación de las construcciones consideradas como de riesgo y coadyuvar con las mismas, para en su caso, instrumentar medidas de seguridad al detectarse que no fueron consideradas en el proceso constructivo las normas técnicas y disposiciones legales y administrativas aplicables;
 
-> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XX. Integrar, organizar, administrar y ser custodio del Acervo Documental de las construcciones públicas y privadas del Distrito Federal, clasificadas como de alto riesgo; de las obras públicas que tengan la misma característica; de los permisos de estructura; de los dictámenes de estabilidad y seguridad estructural; de los procesos de admisión, evaluación, control y sanción de los Directores Responsables de Obra y Corresponsables;
+XX. Integrar, organizar, administrar y ser custodio del Acervo Documental de las construcciones públicas y privadas de la Ciudad de México, clasificadas como de alto riesgo; de las obras públicas que tengan la misma característica; de los permisos de estructura; de los dictámenes de estabilidad y seguridad estructural; de los procesos de admisión, evaluación, control y sanción de los Directores Responsables de Obra y Corresponsables;
 
 XXI. Llevar a cabo y fomentar la realización de investigaciones, estudios y proyectos de innovación en materia o sobre temas relacionados con la seguridad en las construcciones;
 
@@ -220,17 +234,25 @@ I. Consejo Directivo que será el Órgano de Gobierno, integrado por:
 
 a) Secretaria de Obras y Servicios, con carácter de presidente;
 
-> <small>(REFORMADO, G.O. 16 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-b) Secretaría de Desarrollo Urbano y Vivienda;
+b) Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana
 
 c) Secretaría de Protección Civil;
 
 d) Secretaría de Finanzas;
 
-e) Contraloría General (con voz, sin voto).
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-2) Tres miembros del Comité Asesor en Seguridad Estructural del Distrito Federal, designados por el Pleno del mismo.
+e) Contraloría General (con voz, sin voto); y
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+f) Secretaría de Vivienda.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+2) Tres miembros del Comité Asesor en Seguridad Estructural de la Ciudad de México, designados por el Pleno del mismo.
 
 El Director General del Instituto participará con el carácter de Secretario Técnico.
 
@@ -244,7 +266,9 @@ Son atribuciones del Consejo Directivo las siguientes:
 
 I. Aprobar las políticas, normas y lineamientos de actuación del Instituto, así como las bases y criterios para controlar el número de responsivas que simultáneamente pueden otorgar los Directores Responsables de Obra y los Corresponsables, en materia de seguridad estructural;
 
-II. Proponer al Jefe de Gobierno al profesionista que deba ocupar el cargo de Director General del Instituto;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+II. Proponer a la Persona Titular de la Jefatura de Gobierno al profesionista que deba ocupar el cargo de Director General del Instituto;
 
 III. Aprobar los programas y proyectos a cargo del Instituto, especialmente el relativo a la supervisión de la Seguridad Estructural en los proyectos y edificaciones de alto riesgo;
 
@@ -266,17 +290,21 @@ VII. Emitir criterios y directrices generales para la revisión, supervisión y 
 
 VIII. Aprobar las Bases Generales para la contratación de los Directores Responsables de Obra, Corresponsables y Revisores, en materia de seguridad estructural;
 
-IX. Proponer las Bases Generales para la organización del Acervo Documental de las obras y edificaciones del Distrito Federal y su operación;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+IX. Proponer las Bases Generales para la organización del Acervo Documental de las obras y edificaciones de la Ciudad de México y su operación;
 
 X. Las demás que le confieran las disposiciones jurídicas y administrativas aplicables.
 
 ### CAPÍTULO CUARTO. DE LA DIRECCIÓN GENERAL
 
-> <small>(REFORMADO, G.O. 16 DE MAYO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 8.
 
-El Director General será designado por el Jefe de Gobierno del Distrito Federal, de entre los profesionistas cuyas especialidades tengan relación con el objeto y fines del Instituto, a propuesta del Consejo Directivo.
+El Director General será designado por la Persona Titular de la Jefatura de Gobierno de la Ciudad de México, de entre los profesionistas cuyas especialidades tengan relación con el objeto y fines del Instituto, a propuesta del Consejo Directivo.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2012)</small>
 
 El Director General deberá ser, además de profesional de reconocido prestigio, en materia de estructuras, persona de impecable reputación, honorabilidad y con registro vigente de Corresponsable en Seguridad Estructural.
 
@@ -314,9 +342,9 @@ X. (DEROGADA, G.O. 16 DE MAYO DE 2012)
 
 XI. Controlar, supervisar y evaluar el desempeño de los Directores Responsables de Obra y Corresponsables, en materia de seguridad estructural y en su caso, aplicar las sanciones que correspondan.
 
-> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-XII. Coadyuvar con SEDUVI para mantener actualizado y difundir el padrón de Directores Responsables de Obra y Corresponsables en Seguridad Estructural;
+XII. Coadyuvar con la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana para mantener actualizado y difundir el padrón de Directores Responsables de Obra y Corresponsables en Seguridad Estructural;
 
 XIII. Llevar los procesos de selección y contratación de los Revisores;
 
@@ -346,7 +374,9 @@ XXI. Convocar y Presidir las sesiones de la Comisión;
 
 XXII. Cumplir con los acuerdos y proposiciones del Consejo Directivo y la Comisión;
 
-XXIII. Expedir y certificar copias de los documentos que obren en los archivos del Instituto y en el Acervo Documental de las Obras y Edificaciones del Distrito Federal; y
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+XXIII. Expedir y certificar copias de los documentos que obren en los archivos del Instituto y en el Acervo Documental de las Obras y Edificaciones de la Ciudad de México; y
 
 XXIV. Las demás que le otorguen el Reglamento y demás disposiciones legales y administrativas aplicables.
 
@@ -358,15 +388,21 @@ I. Violar la Constitución Política de los Estados Unidos Mexicanos;
 
 II. Incumplir las obligaciones establecidas en la Ley;
 
-III. Incurrir en violaciones a la Ley Federal de Responsabilidades de los Servidores Públicos;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+III. Incurrir en violaciones a la Ley General de Responsabilidades Administrativas de los Servidores Públicos;
 
 IV. Ser condenado por sentencia ejecutoria por la comisión de un delito doloso o que merezca pena privativa de libertad;
 
 V. Desempeñar cualquier otro empleo, cargo o comisión durante el período para el que fue nombrado, excepto actividades docentes no remuneradas; y
 
-VI. Por incumplir las resoluciones de los órganos jurisdiccionales Federales o del Distrito Federal.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-La remoción del Director General del Instituto, será resuelta por el Jefe de Gobierno.
+VI. Por incumplir las resoluciones de los órganos jurisdiccionales Federales o de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+La remoción del Director General del Instituto, será resuelta por la Persona Titular de la Jefatura de Gobierno.
 
 ### CAPÍTULO QUINTO. DE LAS SESIONES
 
@@ -400,11 +436,13 @@ El Comité de apoyo se integrará por:
 
 I. El Director General del Instituto, quien la presidirá;
 
-II. Los representantes de las Secretarías de: Desarrollo Urbano y Vivienda, Obras y Servicios y Protección Civil. La Contraloría General designará un representante con carácter de invitado permanente, con voz pero sin derecho a voto;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+II. Los representantes de las Secretarías de: Planeación, Ordenamiento Territorial y Coordinación Metropolitana, Obras y Servicios y Protección Civil y de Vivienda. La Contraloría General designará un representante con carácter de invitado permanente, con voz pero sin derecho a voto.
 
-III. Un profesionista que represente a las Instituciones de Educación Superior e Investigación radicadas en el Distrito Federal, con carrera o especialidad en Ingeniería Estructural;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
+III. Un profesionista que represente a las Instituciones de Educación Superior e Investigación radicadas en la Ciudad de México, con carrera o especialidad en Ingeniería Estructural;
 
 > <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
 
@@ -436,11 +474,11 @@ El representante de las Instituciones de Educación Superior e Institutos de Inv
 
 El Comité podrá constituir grupos de trabajo para preparar los procesos de admisión, supervisión y designación. La celebración de las sesiones de los grupos de trabajo invariablemente deberá contar con la presencia de los representantes de las Secretarías y de la Contraloría General, quienes conjuntamente con los demás integrantes suscribirán las actas en que se asienten los acuerdos alcanzados, las incidencias importantes y en el caso de que así lo soliciten los participantes, la razón por la que votan en contra o se abstienen de hacerlo. Los grupos se integraran por los representantes de las dependencias e instituciones y organizaciones que los miembros de la Comisión consideren procedente. La facultad de convocar y presidir, así como el voto de calidad corresponderá al representante del Director General.
 
-> <small>(REFORMADO, G.O. 16 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 15.
 
-Para la evaluación de los profesionistas que soliciten la admisión y registro, así como el refrendo como Corresponsables en seguridad estructural, la Comisión y en su caso los grupos de trabajo deberán observar los criterios y lineamientos que con el apoyo de las instituciones de educación superior e investigación y los colegios y asociaciones de profesionistas especializados en la materia, emita y difunda el Instituto. El resultado de las evaluaciones deberá constar en un dictamen que, con las previsiones y reservas que señalan las leyes de Transparencia y Acceso a la Información Pública y de Protección de Datos Personales, ambas del Distrito Federal, se pondrá a disposición de las personas que deseen consultarlo.
+Para la evaluación de los profesionistas que soliciten la admisión y registro, así como el refrendo como Corresponsables en seguridad estructural, la Comisión y en su caso los grupos de trabajo deberán observar los criterios y lineamientos que con el apoyo de las instituciones de educación superior e investigación y los colegios y asociaciones de profesionistas especializados en la materia, emita y difunda el Instituto. El resultado de las evaluaciones deberá constar en un dictamen que, con las previsiones y reservas que señalan las leyes en materia de transparencia y acceso a la información pública y de protección de datos personales vigentes en la Ciudad de México, se pondrá a disposición de las personas que deseen consultarlo.
 
 ###### Artículo 16.
 
@@ -482,9 +520,9 @@ I. (DEROGADA, G.O. 16 DE MAYO DE 2012)
 
 II. Las bases de diseño estructural de los proyectos y su congruencia con la concepción arquitectónica;
 
-> <small>(REFORMADA, G.O. 16 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
-III. Los planos y memorias de cálculos que permitan comprobar el cumplimiento de los requisitos de seguridad establecidos por las Normas Técnicas Complementarias del Reglamento para las Construcciones del Distrito Federal.
+III. Los planos y memorias de cálculos que permitan comprobar el cumplimiento de los requisitos de seguridad establecidos por las Normas Técnicas Complementarias del Reglamento para las Construcciones de la Ciudad de México.
 
 IV. La ejecución del proyecto en la etapa de edificación;
 
@@ -516,27 +554,29 @@ Los Revisores realizarán sus funciones de acuerdo a las normas, lineamientos, r
 
 Los DRO y Corresponsables que se sintieren agraviados por las determinaciones del Instituto, podrán acudir ante el Secretario de Obras y Servicios para presentar la reclamación, para lo cual deberá ingresar el escrito y las pruebas correspondientes en los tres días hábiles siguientes a la notificación. La interposición de la reclamación no suspende la aplicación de las medidas de seguridad que, en su caso, hubieren impuesto las autoridades competentes.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 22.
 
 El titular de la Secretaría dictará sus resoluciones dentro de los diez días hábiles siguientes y las notificará al interesado y al Instituto en los tres días hábiles posteriores.
 
-Las resoluciones del Secretario de Desarrollo Urbano y Vivienda serán definitivas.
+Las resoluciones del titular de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana serán definitivas.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 16 DE MAYO DE 2012)</small>
 
 ### CAPÍTULO OCTAVO. DE LAS INFRACCIONES Y SANCIONES
 
-> <small>(ADICIONADO, G.O. 16 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 23.
 
-Corresponde al Director General instaurar los procedimientos para sancionar administrativamente a los Directores Responsables de Obra o los Corresponsables por el incumplimiento de las obligaciones establecidas en la Ley de Desarrollo Urbano del Distrito Federal y su Reglamento y el Reglamento de Construcciones del Distrito Federal, en los términos señalados en dichos ordenamientos.
+Corresponde al Director General instaurar los procedimientos para sancionar administrativamente a los Directores Responsables de Obra o los Corresponsables por el incumplimiento de las obligaciones establecidas en la ley en materia de desarrollo urbano vigente en la Ciudad de México y su Reglamento y en el Reglamento de Construcciones vigente en la Ciudad de México, en los términos señalados en dichos ordenamientos.
 
-> <small>(ADICIONADO, G.O. 16 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 24.
 
-El interesado afectado por los actos y resoluciones de la autoridad, podrá interponer recurso de inconformidad de acuerdo a lo estipulado por la Ley de Procedimiento Administrativo del Distrito Federal o promover juicio de nulidad ante el Tribunal.
+El interesado afectado por los actos y resoluciones de la autoridad, podrá interponer recurso de inconformidad de acuerdo a lo estipulado por la Ley de Procedimiento Administrativo de la Ciudad de México o promover juicio de nulidad ante el Tribunal.
 
 ## TRANSITORIOS
 
@@ -571,3 +611,11 @@ PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO. El Instituto deberá expedir y publicar el Arancel para el pago de los honorarios de los Corresponsables y Revisores, en el término de 90 días siguientes al de la entrada en vigor de la presente Ley.
+
+G.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA LA DENOMINACIÓN Y SE REFORMAN LOS ARTÍCULOS 1, 2 FRACCIONES V, VII, IX, X, Y XIII, 3 FRACCIÓN II, 5 FRACCIONES I, XVII, XIX Y XX, 6 FRACCIÓN I, NUMERAL 1, INCISO B, SE ADICIONA UN INCISO F NUMERAL 2, 7 FRACCIONES II, IX, 8, 9 FRACCIÓN XII, XIII (SIC), 10 ÚLTIMO PÁRRAFO, 13 FRACCIONES II, III, 15, 19 FRACCIÓN III, 22, 23 Y 24, TODOS DE LA LEY DEL INSTITUTO PARA LA SEGURIDAD DE LAS CONSTRUCCIONES DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
