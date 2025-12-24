@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-mejora-regulatoria-para-el-estado-de-tabasco-y-sus-13636
 country: "mx"
 rank: "ley"
 publication_date: "2019-05-18"
-last_updated: "2019-05-18"
+last_updated: "2025-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136368&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY DE MEJORA REGULATORIA PARA EL ESTADO DE TABASCO Y SUS MUNICIPIOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL DECRETO 219, PUBLICADO EN EL P.O. DE 24 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE MEJORA REGULATORIA PARA EL ESTADO DE TABASCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en el Suplemento J al Número 8003 del Periódico Oficial del Estado de Tabasco, el sábado 18 de mayo de 2019.
 
@@ -1316,3 +1318,33 @@ SECRETARIO DE GOBIERNO.
 GUILLERMO ARTURO DEL RIVERO LEÓN.
 
 COORDINADOR GENERAL DE ASUNTOS JURÍDICOS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 219 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 1, FRACCIÓN V; 2, PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO; 3; 5, PÁRRAFO PRIMERO Y LAS FRACCIONES I, II, V, VI, XVI, XVII Y XVIII; 6, PÁRRAFO PRIMERO Y FRACCIONES VI Y VII; LA DENOMINACIÓN DEL CAPÍTULO II; 7; 8, FRACCIONES I, III Y IV, INCISOS A), B), C), D), E), F), F) BIS, G), H), J), K), l), N), O), P) Y Q); 9, PÁRRAFOS PRIMERO Y SEXTO; 10, FRACCIONES I, II, III Y IV; LA DENOMINACIÓN DE LA SECCIÓN TERCERA DEL CAPÍTULO II; 11; LA DENOMINACIÓN DE LA SECCIÓN PRIMERA DEL CAPÍTULO III; 12; 13; 14; 15, PÁRRAFO PRIMERO Y LAS FRACCIONES III Y IV; 16; 17; 18, PÁRRAFO PRIMERO; 19; 21, PÁRRAFO SEGUNDO; LA DENOMINACIÓN DEL CAPÍTULO IV; 22, PÁRRAFO PRIMERO Y LAS FRACCIONES II, IV, V, IX, X Y XII; 23, PÁRRAFO PRIMERO Y LAS FRACCIONES I Y II; 29; 31; 32; 33; 34, PÁRRAFO PRIMERO; 35; 37, FRACCIONES I Y V; 45; 48; 50; 51; 57; 61; 62 Y 63. SE ADICIONAN UNA FRACCIÓN VI BIS AL ARTÍCULO 5; UN PÁRRAFO SEGUNDO AL ARTÍCULO 8; UN CAPÍTULO XI BIS DENOMINADO "DE LA LLAVE TABASCO" QUE COMPRENDE LOS ARTÍCULOS 47 BIS, 47 TER, 47 QUATER, 47 QUINQU1ES, 47 SEX1ES, 47 SEPTIES Y47 OCTIES; UN CAPÍTULO X1 TER DENOMINADO "DE LA VENTANILLA DIGITAL ESTATAL" QUE COMPRENDE LOS ARTÍCULOS 47 NONIES, 47 DECIES, 47 UNDECIES, 47 DUODECIES, 47 TERDECIES, 47 QUATERDECIES Y 47 QUINDECIES; UN CAPÍTULO XI QUATER DENOMINADO "DEL EXPEDIENTE DIGITAL CIUDADANO" QUE COMPRENDE .LOS ARTÍCULOS 47 SEXDECIES, 47 SEPTENDECIES, 47 OCTODECIES, 47 NOVODECIES Y 47 VICIES. SE DEROGAN LAS FRACCIONES X, XII Y XIII DEL ARTÍCULO 5; LAS FRACCIONES I, VIII Y IX DEL ARTÍCULO 6; LA FRACCIÓN II Y EL INCISO I) DE LA FRACCIÓN IV DEL ARTÍCULO 8; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 9; LA FRACCIÓN XI DEL ARTÍCULO 22; EL CAPÍTULO V QUE COMPRENDE LAS SECCIONES PRIMERA, ARTÍCULOS 24, 25 Y 26, Y SEGUNDA, ARTÍCULOS 27 Y 28; EL ARTÍCULO 30; EL ARTÍCULO 36; LA FRACCIÓN III DEL ARTICULO 37; EL CAPÍTULO XI QUE COMPRENDE LOS ARTÍCULOS 46 Y 47; EL ARTÍCULO 52; EL ARTÍCULO 52 BIS. TODOS DE LA LEY DE GOBIERNO DIGITAL Y FIRMA ELECTRÓNICA PARA EL ESTADO DE TABASCO Y SUS MUNICIPIOS".]
+
+PRIMERO. El presente Decreto entrará en vigor el 1 de enero del 2026.
+
+SEGUNDO. Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
+
+TERCERO. Se abroga la Ley de Mejora Regulatoria para el Estado de Tabasco y sus Municipios, su Reglamento y demás lineamientos que emanen de dicha legislación.
+
+CUARTO. En un plazo no mayor a 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones al Reglamento de la Ley de Gobierno Digital y Firma Electrónica para el Estado de Tabasco y sus Municipios.
+
+QUINTO. En un plazo no mayor a 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo deberá realizar las adecuaciones a los reglamentos interiores de la Secretaría de Administración y Finanzas, y la Secretaría de Turismo y Desarrollo Económico.
+
+SEXTO. En un plazo no mayor a 90 días hábiles, la Agencia Estatal de Transformación Digital deberá expedir los lineamientos y demás normatividad que considere pertinente para la implementación del presente Decreto.
+
+SÉPTIMO. En un plazo no mayor a 15 días hábiles, la Secretaría de Turismo y Desarrollo Económico deberá transferir a la Agencia Estatal de Transformación Digital los expedientes de la Comisión Estatal de Mejora Regulatoria.
+
+La persona titular de la Comisión Estatal de Mejora Regulatoria deberá entregar a la Agencia Estatal de Transformación Digital una relación con toda la documentación relativa al ejercicio de sus atribuciones, en términos de las disposiciones aplicables.
+
+OCTAVO. Todos los asuntos en trámite por parte de la Comisión Estatal de Mejora Regulatoria adscrita a la Secretaría de Turismo y Desarrollo Económico y de la Coordinación General de Modernización Administrativa e Innovación Gubernamental adscrita a la Secretaría de Administración y Finanzas, previos a la entrada en vigor del presente Decreto, serán resueltos por la Agencia Estatal de Transformación Digital, en el ámbito de su respectiva competencia.
+
+NOVENO. A partir de la entrada en vigor del presente Decreto, cuando en cualquier ordenamiento se haga referencia a la Coordinación General de Modernización Administrativa e Innovación Gubernamental o a la Comisión Estatal de Mejora Regulatoria, se entenderán hechas a la Agencia Estatal de Transformación Digital.
+
+DÉCIMO. La Secretaría de Administración y Finanzas deberá realizar las adecuaciones presupuestarias y administrativas necesarias para la implementación del presente Decreto.
+
+DÉCIMO PRIMERO. El Consejo Estatal deberá quedar instalado dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
