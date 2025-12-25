@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2025-11-30"
+last_updated: "2025-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -2285,45 +2285,59 @@ La pena de prisión se aumentará en una mitad, cuando la privación de la liber
 
 ### CAPITULO V. RETENCIÓN Y SUSTRACCIÓN DE NIÑAS, NIÑOS O ADOLESCENTES O PERSONAS QUE NO TENGAN LA CAPACIDAD DE COMPRENDER EL SIGNIFICADO DEL HECHO
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 162.
 
-A quien sin tener la relación de parentesco a que se refiere el artículo 164 de éste Código, o de tutela de una niña, niño o adolescente o de una persona que no tenga la capacidad de comprender el significado del hecho, lo retenga sin el consentimiento de quien ejerza su custodia legítima o su guarda, se le impondrá prisión de tres a cinco años y multa de doscientas dieciséis a trescientas sesenta veces la Unidad de Medida y Actualización.
+A quien sin tener la relación de parentesco a que se refiere el artículo 164 de este Código, o de tutela de una niña, niño o adolescente o de una persona que no tenga la capacidad de comprender el significado del hecho, lo retenga u oculte sin el consentimiento de quien ejerza su custodia legítima o su guarda, se le impondrá prisión de seis a doce años y multa de quinientas a ochocientos (sic) veces la Unidad de Medida y Actualización.
 
-A quien bajo los mismos supuestos del párrafo anterior lo sustraiga de su custodia legítima o su guarda, se le impondrá de cinco a quince años de prisión y multa de trescientas sesenta a mil ochenta veces la Unidad de Medida y Actualización.
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2018)</small>
+Asimismo, la pena se incrementará en una mitad adicional cuando la sustracción tenga lugar dentro de alguna institución, clínica, sanatorio u hospital público o privado o cualquier establecimiento destinado a la atención o resguardo de menores.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2025)</small>
+
+A quien bajo los mismos supuestos de los párrafos anteriores lo sustraiga de su custodia legítima o su guarda, se le impondrá de cinco a quince años de prisión y multa de trescientas sesenta a mil ochenta veces la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2025)</small>
+
+Cuando por consecuencia de la retención, ocultamiento o sustracción, el sujeto pasivo tenga detrimento en su integridad física, psicológica o emocional la pena aumentará en una tercera parte, independientemente de las que pudieren resultar por la comisión de cualquier otro delito.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 163.
 
-Si la retención o sustracción se realiza en contra de una niña o niño menor de doce años de edad, se aplicará una pena de diez a veinticinco años de prisión y multa de setecientos veinte a mil ochocientas veces la Unidad de Medida y Actualización.
+Si el sujeto pasivo de la retención, ocultamiento o sustracción es menor de doce años de edad, se aplicará una pena de diez a veinticinco años de prisión y multa de setecientos veinte a mil ochocientas veces la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2018)</small>
 
 Si la sustracción tiene como propósito incorporar al sujeto pasivo a círculos de corrupción de menores o traficar con sus órganos, las penas serán de quince a cincuenta años de prisión y multa de mil ochenta a tres mil seiscientos veces la Unidad de Medida y Actualización, en el caso de que la víctima sea un menor de doce años las penas serán de veinticinco a cincuenta años de prisión y multa de mil ochocientas a tres mil seiscientas veces la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 164.
 
-Si el sujeto activo es ascendiente, descendiente, cónyuge, pariente colateral o afín hasta el cuarto grado y sustrae o retiene a una niña, niño o adolescente o persona que no tenga la capacidad para comprender el significado del hecho y no ejerce la patria potestad o ejerciéndola no tenga el consentimiento del otro progenitor o sin tener la tutela o su guarda y custodia, se impondrá de uno a cinco años de prisión y multa de ochenta a trescientas setenta veces la Unidad de Medida y Actualización.
+Si el sujeto activo es ascendiente, descendiente, cónyuge, pariente colateral o afín hasta el cuarto grado y sustrae, oculta o retiene a una niña, niño o adolescente o persona que no tenga la capacidad para comprender el significado del hecho y no ejerce la patria potestad o ejerciéndola no tenga el consentimiento del otro progenitor o sin tener la tutela o su guarda y custodia, se impondrá de uno a cinco años de prisión y multa de ochenta a trescientas setenta veces la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2018)</small>
 
 Al padre o madre que, sin tener la guarda y custodia de la niña, niño o adolescente o persona que no tenga la capacidad de comprender el significado del hecho o sin tener el consentimiento del otro progenitor, lo sustraiga o retenga fuera del territorio del Estado o fuera del territorio nacional, se le aumentarán en una mitad las penas previstas en el primer párrafo de este artículo.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 165.
 
-Se equipara al delito de retención o sustracción de niño, niña o adolescente o persona que no tenga la capacidad para comprender el significado del hecho, y se sancionará con las penas señaladas en el segundo párrafo del artículo 162, a la persona que mediante amenazas o engaños obtenga del padre o madre que tiene la guarda y custodia del menor o persona que no tenga la capacidad de comprender el significado del hecho, el consentimiento para trasladarlo, con la finalidad de retenerlo o sustraerlo fuera del territorio del Estado o fuera del territorio nacional.
-
-La pena señalada en el primer párrafo de este artículo se aplicará al cónyuge que sustraiga o retenga a un hijo menor de edad o persona que no tenga la capacidad para comprender el significado del hecho, con la finalidad de obligar al otro cónyuge a dar, hacer o dejar de hacer algo.
+Se equipara al delito de retención o sustracción de niño, niña o adolescente o persona que no tenga la capacidad para comprender el significado del hecho, y se sancionará con las penas señaladas en el segundo párrafo del artículo 162, a la persona que mediante amenazas o engaños obtenga del padre o madre que tiene la guarda y custodia del menor o persona que no tenga la capacidad de comprender el significado del hecho, el consentimiento para trasladarlo, con la finalidad de retenerlo, ocultarlo o sustraerlo fuera del territorio del Estado o fuera del territorio nacional.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2018)</small>
 
+La pena señalada en el primer párrafo de este artículo se aplicará al cónyuge que sustraiga o retenga a un hijo menor de edad o persona que no tenga la capacidad para comprender el significado del hecho, con la finalidad de obligar al otro cónyuge a dar, hacer o dejar de hacer algo.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 166.
 
-Cuando el sujeto devuelva espontáneamente a la niña, niño o adolecente (sic) o persona que no tenga la capacidad de comprender el significado del hecho, dentro de las veinticuatro horas siguientes a la comisión del delito, se le impondrá una tercera parte de las penas antes señaladas para el caso particular.
+Cuando el sujeto devuelva espontáneamente a la niña, niño o adolescente o persona que no tenga la capacidad de comprender el significado del hecho, dentro de las veinticuatro horas siguientes a la comisión del delito, se le impondrá una tercera parte de las penas antes señaladas para el caso particular.
 
 ### CAPÍTULO VI. PRIVACIÓN DE LA LIBERTAD CON FINES SEXUALES
 
@@ -3535,7 +3549,9 @@ Las penas previstas en este capítulo se impondrán además de las que correspon
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
-Artículo 228 bis. Al que con objeto de planear o ejecutar un delito, u obstruir la función de seguridad pública, realice actos tendientes a obtener o trasmitir mediante cualquier medio, información sobre las actividades propias de las instituciones de seguridad pública, de procuración e impartición de justicia, y de ejecución de las penas y medidas de seguridad, de cualquier ámbito, o sobre cualquier servidor público, funcionario o trabajador, se le impondrá de cuatro a veinte años de prisión y multa de hasta quinientas veces la Unidad de Medida y Actualización.
+###### Artículo 228 Bis.
+
+Al que con objeto de planear o ejecutar un delito, u obstruir la función de seguridad pública, realice actos tendientes a obtener o trasmitir mediante cualquier medio, información sobre las actividades propias de las instituciones de seguridad pública, de procuración e impartición de justicia, y de ejecución de las penas y medidas de seguridad, de cualquier ámbito, o sobre cualquier servidor público, funcionario o trabajador, se le impondrá de cuatro a veinte años de prisión y multa de hasta quinientas veces la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -3548,6 +3564,22 @@ Además de la pena y sanción que corresponda por la realización de la conducta
 > <small>(ADICIONADO, P.O. 10 DE MARZO DE 2013)</small>
 
 Cuando el que realice esta conducta, utilice para ello algún vehículo del servicio público de transporte de pasajeros u otro que preste un servicio similar o que en sus características exteriores sea similar en apariencia a los vehículos antes señalados, además de las penas previstas en el párrafo anterior, se impondrá desde un tercio hasta una mitad más de sanción privativa de libertad que le corresponda.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 228 Ter.
+
+Se impondrán de tres a siete años de prisión y de veinticinco a cien veces la Unidad de Medida y Actualización, a quien vigile o realice actos tendientes a obtener información de manera injustificada, sobre las actividades oficiales de las Instituciones del Sistema Estatal de Seguridad Publica, Corporaciones Auxiliares de la Seguridad en el Estado o particulares, con la finalidad de informar o alertar a otras personas para que estas puedan organizar o planear la comisión de un delito, cometerlo o evitar el cumplimiento de la función pública.
+
+Se aumentará la punibilidad que corresponda hasta en una mitad de sus mínimos y máximos cuando:
+
+I. Sea cometido por personas servidoras públicas de Instituciones del Sistema Estatal de Seguridad Pública, Corporaciones Auxiliares de la Seguridad en el Estado u Órganos Jurisdiccionales en el Estado, Fiscalías o Unidades Especializadas.
+
+II. Se utilice a personas menores de edad o a quienes no tienen la capacidad para comprender el significado del hecho o que por cualquier causa no pueda resistirla;
+
+III. Se utilice para ello algún bien público, o
+
+IV. Posea o porte, uno o varios equipos o artefactos que permitan la intervención, escucha o transmisión de datos con respeto a canales de comunicación oficiales de Instituciones del Sistema Estatal de Seguridad Publica.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MAYO DE 2013)</small>
 
@@ -4683,11 +4715,9 @@ DELITOS CONTRA LA DIGNIDAD, LA PAZ Y LA SEGURIDAD DE LAS PERSONAS
 
 (DEROGADO, P.O. 25 DE DICIEMBRE DE 2014)
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2025)</small>
 
-###### Artículo 305 Bis.
-
-Comete el delito de cobranza ilegítima, la persona que por cualquier medio requiera en nombre y representación de instituciones Bancarias, Tiendas departamentales o cualquier otra Institución Crediticia, del pago de una deuda propia o de alguien con quien esté ligado por algún vínculo familiar, afectivo, o quien funja como referencia o aval, y este requerimiento se haga fuera de los procedimientos judiciales en la ley o utilice cualquier medio ilícito, o efectué actos de hostigamiento, o intimidación, o amenazas de cualquier índole o actos de molestia al deudor, sin mediar orden emanada de autoridad competente.
+ARTICULO 305 BIS. Comete el delito de cobranza ilegítima quien, con la intención de requerir el pago al deudor, o a quien funja como obligado solidario, referencia o aval, utilice cualquier medio ya sea de manera presencial, telefónica, escrita, digital o por cualquier medio de comunicación o contacto para efectuar actos de hostigamiento, intimidación, o amenazas de cualquier índole de manera reiterada, sin mediar orden emanada de autoridad competente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2021)</small>
 
@@ -5285,39 +5315,11 @@ En ningún caso se devolverá a los responsables del delito de cohecho, el diner
 
 ### CAPÍTULO IX BIS. EXTORSIÓN
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 338 Bis.
 
-Se impondrá de cuatro a doce años de prisión y de doscientos a cuatrocientos cincuenta días multa, al que, sin derecho, por cualquier medio, obligue a otro a hacer, omitir o tolerar algo, con ánimo de lucro para sí o para otro, o causando un perjuicio patrimonial o moral, en contra de una o más personas.
-
-Además de las penas señaladas en el primer párrafo, se impondrá de cuatro a trece años de prisión y multa de trecientas a quinientas veces la Unidad de Medida y Actualización, cuando:
-
-I. El sujeto activo se encuentre armado o porte instrumento peligroso;
-
-II. Intervengan dos o más personas;
-
-III. Se emplee violencia física;
-
-IV. El autor del delito se ostente por cualquier medio como miembro de la delincuencia organizada, en los términos de la ley de la materia;
-
-V. El activo tenga alguna relación de confianza, laboral, de parentesco o de negocios con el pasivo o con quien este último esté ligado por algún vínculo;
-
-VI. El autor del delito obtenga o manifieste su pretensión de seguir obteniendo, en forma continua o permanente, dinero o bienes por concepto de cobro de cuotas de cualquier índole, adicionales a los conseguidos originalmente por el ilícito;
-
-VII. Se cometa por vía telefónica o cualquier medio de comunicación mediante los cuales se pueda realizar la emisión, transmisión o recepción de signos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza, que se efectúe por hilos, radioelectricidad, medios ópticos, físicos, vía satelital u otros sistemas electromagnéticos;
-
-VIII. Si el sujeto activo del delito de extorsión se encuentra privado de su libertad personal o el delito se realice desde el interior de un reclusorio o centro de reinserción social;
-
-IX. Si es cometido en contra de un menor de edad, de una mujer en estado de gravidez o de una persona que no tenga la capacidad de comprender el significado del hecho, o bien en una persona mayor de sesenta años;
-
-X. Participe alguna persona que sea, haya sido o se ostente como miembro de una corporación policiaca o servidor público en alguna de las áreas de prevención o persecución del delito, administración de justicia o reinserción social. Además de las penas previstas, también se impondrán como penas, la destitución del cargo en cuanto esté firme la sentencia y la inhabilitación por un tiempo igual al de la pena de prisión impuesta, la cual comenzará a partir de que recobre su libertad;
-
-XI. Si el sujeto activo porta vestimenta o instrumentos de identificación de los utilizados por integrantes de instituciones de seguridad pública;
-
-XII. Participen trabajadores de instituciones públicas o privadas que tengan acceso a bancos de datos personales y que los utilicen de manera indebida o la sustraigan para sí o para terceros, con el objeto de cometer el delito de extorsión en cualquiera de sus modalidades; o
-
-XIII. Cuando el delito se cometa en contra de quien realice actividades comerciales, empresariales, de servicios públicos o privados, y cuya personalidad legal sea física o moral, así como los vinculados a la docencia.
+En materia del delito de extorsión se estará a lo establecido en la Ley General para Prevenir, Investigar y Sancionar los delitos en materia de Extorsión, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ### CAPÍTULO X. PECULADO
 
@@ -7550,6 +7552,42 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 30 DE NOVIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 280 QUE CONTIENE REFORMAS Y ADICIONES AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN MATERIA DE CATÁLOGO DE DELITOS IMPUTABLES A PERSONAS MORALES Y DELITO DE USURPACIÓN DE PROFESIÓN”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 361 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN MATERIA DE COBRANZA ILEGÍTIMA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 362 POR EL QUE SE ADICIONA UN ARTÍCULO 228 TER, AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 363 POR EL QUE SE REFORMA EL ARTÍCULO 328 BIS, DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN MATERIA DE COMBATE A LA EXTORSIÓN".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Las disposiciones relativas a los delitos de extorsión previstas en el Código Penal del Estado Libre y Soberano de Durango seguirán aplicándose por los hechos realizados durante su vigencia; los delitos que se cometan a partir del 28 de noviembre de 2025 se regirán por el Decreto por el que se expide la Ley General para Prevenir, Sancionar los delitos en materia de extorsión reglamentaria de la fracción XXI del artículo 73 de la Constitución de los Estados Unidos Mexicanos. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por el delito de extorsión, sus modalidades, agravantes y sanciones.
+
+TERCERO. Los procedimientos penales en materia de extorsión, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del mismo.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 364 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN MATERIA DE ROBO DE MENORES”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
