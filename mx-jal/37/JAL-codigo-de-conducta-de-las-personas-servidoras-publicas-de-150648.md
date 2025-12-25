@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-conducta-de-las-personas-servidoras-publicas-de-15064
 country: "mx"
 rank: "codigo"
 publication_date: "2021-07-29"
-last_updated: "2021-07-29"
+last_updated: "2025-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # CODIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PUBLICAS DE LA SECRETARIA DE LA HACIENDA PUBLICA DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE LA HACIENDA PÚBLICA, PUBLICADO EN EL P.O DE 25 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE LA HACIENDA PÚBLICA DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2025 (ABROGADO).
 
 Código publicado en la Sección IX al Número 39 del Periódico Oficial del Estado de Jalisco, el jueves 29 de julio de 2021.
 
@@ -790,3 +792,17 @@ C.P. Laila Domínguez Ruiz
 Lic. Rodolfo González Sánchez
 
 Lic. Javier Cano Jiménez
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO SHP/PF/AS/652/2025 DEL CIUDADANO SECRETARIO DE LA HACIENDA PÚBLICA, A TRAVÉS DEL CUAL SE EXPIDE EL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PUBLICAS DE LA SECRETARÍA DE LA HACIENDA PÚBLICA".]
+
+PRIMERO. El presente Código, entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Se abroga el Código de Conducta de las Personas Servidoras Publicas de la Secretaría de la Hacienda Pública del Poder Ejecutivo del Gobierno del Estado de Jalisco, publicado en el periódico oficial "El Estado de Jalisco”, el 29 de julio de 2021.
+
+TERCERO. Los procedimientos por vulneración a principios, valores o reglas de integridad iniciados con anterioridad a la entrada en vigor del presente Código, se sujetarán a las disposiciones vigentes al momento de haberse iniciado.
+
+CUARTO. Procédase a la publicación del presente en el periódico oficial "El Estado de Jalisco" para que surta los efectos administrativos correspondientes.
