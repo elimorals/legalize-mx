@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-salud-del-estado-de-durango-25631"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-11"
-last_updated: "2025-05-15"
+last_updated: "2025-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE SALUD DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 11 de julio de 2002.
 
@@ -123,13 +123,17 @@ VI. El conocimiento para el adecuado aprovechamiento y utilización de los servi
 
 VII. El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud, con perspectiva de género;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2025)</small>
 
-VIII. La atención a grupos en situación de vulnerabilidad, siendo esta la condición de una mayor indefensión en la que se puede encontrar una persona, grupo o una comunidad debido a que no se cuentan con los recursos necesarios para satisfacer las necesidades básicas del ser humano, como la alimentación, el ingreso, la vivienda, los servicios de salud y el agua potable, entre otros; y
+VIII. La atención a grupos en situación de vulnerabilidad, siendo esta la condición de una mayor indefensión en la que se puede encontrar una persona, grupo o una comunidad debido a que no se cuentan con los recursos necesarios para satisfacer las necesidades básicas del ser humano, como la alimentación, el ingreso, la vivienda, los servicios de salud y el agua potable, entre otros;
 
-> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2025)</small>
 
-IX. El desarrollo de la prestación de los servicios de salud, incorporando de manera paulatina, el acceso a los mismos a través de la telemedicina.
+IX. El desarrollo de la prestación de los servicios de salud, incorporando de manera paulatina el acceso a los mismos a través de la telemedicina; y
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2025)</small>
+
+X. Garantizar que la prestación de los servicios de salud se realice con diligencia, ética, responsabilidad y respeto irrestricto a los derechos humanos, especialmente tratándose de niñas, niños, adolescentes y personas en condiciones de vulnerabilidad, asegurando su protección integral frente a posibles riesgos derivados de intervenciones médicas y quirúrgicas.
 
 > <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 7 PUBLICADO EN EL P.O. 9 DE DICIEMBRE DE 2018, PÁGINAS DE LA 11 A LA 12.]</small>
 
@@ -393,9 +397,13 @@ XVII. La detección, prevención, atención médica y orientación en situacione
 
 XVIII. La prevención del suicidio.
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2025)</small>
 
-XIX. Implementar de manera conjunta con la Secretaría de Seguridad Pública del Estado de Durango, un programa especial dirigido a las mujeres y personas menstruantes privadas de su libertad, orientado a facilitar el acceso a productos de gestión menstrual y analgésicos para el tratamiento de cólicos menstruales, a través de campañas de recolección, basadas en donaciones solidarias. Para ello, la Secretaría impulsará la colaboración del sector privado, organizaciones de la sociedad civil y ciudadanía en general, quienes podrán contribuir de manera voluntaria con la entrega continua de estos insumos esenciales.
+XIX. Implementar de manera conjunta con la Secretaría de Seguridad Pública del Estado de Durango, un programa especial dirigido a las mujeres y personas menstruantes privadas de su libertad, orientado a facilitar el acceso a productos de gestión menstrual y analgésicos para el tratamiento de cólicos menstruales, a través de campañas de recolección, basadas en donaciones solidarias. Para ello, la Secretaría impulsará la colaboración del sector privado, organizaciones de la sociedad civil y ciudadanía en general, quienes podrán contribuir de manera voluntaria con la entrega continua de estos insumos esenciales; y
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2025)</small>
+
+XX. Fomentar, en coordinación con las autoridades educativas, la implementación de acciones y programas de salud visual para la población escolar, que contemplen servicios oftalmológicos de carácter preventivo, priorizando a niñas y niños que cursen la educación básica.
 
 ###### ARTÍCULO 10.
 
@@ -455,11 +463,17 @@ XIX. Coordinarse con las instancias competentes para la elaboración de polític
 
 XX. Implementar programas, estrategias o acciones, para promover una cultura de cuidado de la salud bucodental; y
 
-> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2025)</small>
 
-XXI. Coordinar los programas de servicios de telemedicina y promoción de la salud a través de las tecnologías de la información; y
+XXI. Coordinar los programas de servicios de telemedicina y promoción de la salud a través de las tecnologías de la información;
 
-XXII. Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud y las que determinen las disposiciones generales aplicables.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2025)</small>
+
+XXII. Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud y las que determinen las disposiciones generales aplicables; y
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2025)</small>
+
+XXIII. Promover, en coordinación con las instancias competentes, campañas de concientización dirigidas a niñas, niños y adolescentes, así como a sus madres, padres o personas tutoras, sobre la autoestima, la aceptación del cuerpo en desarrollo y los riesgos que pueden derivarse de la exposición a estándares de belleza irreales difundidos a través de medios de comunicación y redes sociales.
 
 ###### ARTÍCULO 11.
 
@@ -495,55 +509,49 @@ El Gobierno del Estado, con la participación que corresponda al Comité de Plan
 
 ARTÍCULO 14 BIS 1.- El Consejo Estatal de Salud para el Estado de Durango es un organismo de coordinación de las instituciones públicas que conforman el Sistema Estatal de Salud, que tiene por objeto la planeación, programación y evaluación de los servicios de salud en el Estado.
 
-> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2025)</small>
 
-ARTÍCULO 14 BIS 2.- El Consejo Estatal de Salud se integra por:
+Artículo 14 BIS 2.- El Consejo Estatal de Salud se integrará de la siguiente manera:
 
-I. Un Presidente, que será el Secretario de Salud de Durango;
+I. La Presidencia, a cargo de la persona titular del Poder Ejecutivo del Estado;
 
-II. Un Secretario Ejecutivo, nombrado por el Gobernador del Estado;
+II. La Vicepresidencia, a cargo de la persona Titular de la Secretaría de Salud;
 
-III. Nueve Consejeros, que serán los siguientes:
+III. La Secretaría Ejecutiva, que será designada por la Presidencia a propuesta de la Vicepresidencia;
 
-a) El Secretario General de Gobierno en el Estado;
+IV. Nueve consejeras o consejeros, que serán:
 
-b) El Secretario de Educación en el Estado;
+a) La persona Titular de la Secretaría General de Gobierno;
 
-c) El Director de los Servicios de Salud de Durango;
+b) La persona Titular de la Secretaría de Educación;
 
-d) El Director del Sistema Estatal para el Desarrollo Integral de la Familia en Durango;
+c) La persona Titular de la Subsecretaría de Planeación, Organización y Administración para la Salud;
 
-e) El titular de la Unidad Estatal de Protección Civil;
+d) La persona Titular de la Coordinación Estatal de Protección Civil;
 
-f) El Director de Planeación de Servicios de Salud de Durango;
+e) La persona Titular de la Dirección General del Sistema Estatal para el Desarrollo Integral de la Familia;
 
-g) El Director de Administración de los Servicios de Salud de Durango;
+f) La persona Titular de la Red Duranguense de Municipios por la Salud, quien podrá ser una persona Titular de la Presidencia Municipal;
 
-h) El Director del Régimen Estatal de Protección en Salud; y
+g) La persona Titular de la Dirección de Salud Pública de Servicios de Salud de Durango;
 
-i) El Presidente de la Red Duranguense de Municipios por la Salud;
+h) La persona Titular de la Dirección Administrativa de Servicios de Salud de Durango; y
 
-IV. Siete vocales, que serán los siguientes:
+i) La persona Titular de la Comisión de Salud Pública del Congreso del Estado;
 
-a) El Delegado del Instituto Mexicano del Seguro Social en el Estado;
+V. Seis vocales, que serán:
 
-b) El Delegado Estatal del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+a) La persona Titular de la Delegación Estatal de la Cruz Roja Mexicana de Durango;
 
-c) El titular o representante de los servicios médicos de la Secretaría de la Defensa Nacional en Durango;
+b) La persona Titular del Colegio Médico de Durango;
 
-d) El Delegado de la Benemérita Cruz Roja Mexicana en el Estado;
+c) La persona Titular del Consejo Estatal para la Prevención y Asistencia de las Adicciones;
 
-e) El Presidente del Colegio Médico de Durango;
+d) La persona Titular de la Dirección de Enseñanza, Calidad e Investigación de los Servicios de Salud de Durango;
 
-f) El titular del Consejo o en su defecto Comisión contra las Adicciones; y
+e) La persona Titular de la Dirección de Planeación de Servicios de Salud de Durango; y
 
-g) El titular del área de Enseñanza, Capacitación e Investigación en Salud de los Servicios de Salud de Durango.
-
-V. El Diputado presidente de la Comisión de Salud Publica en el Congreso del Estado, con carácter de invitado.
-
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
-
-VI. Un representante del sector empresarial, que será el Presidente del Consejo Coordinador Empresarial, con carácter de invitado.
+f) La persona Titular de la Comisión para la Protección contra Riesgos Sanitarios del Estado de Durango;
 
 > <small>(ADICIONADO, P.O. 30 DE MARZO DE 2017)</small>
 
@@ -753,9 +761,9 @@ II. Establecer los lineamientos y criterios correspondientes en materia de salub
 
 III. Establecer las acciones sanitarias en los límites territoriales con otras entidades federativas;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2025)</small>
 
-IV. Llevar a cabo los programas y acciones que en materia de salubridad local se implanten, incluyendo la prevención y detección oportuna de cáncer de mama y cáncer cervicouterino;
+IV. Llevar a cabo los programas y acciones que en materia de salubridad local se implementen, incluyendo la prevención y detección oportuna de cáncer de mama, cáncer de ovario y cáncer cervicouterino;
 
 V. Promover, orientar, fomentar y apoyar las acciones en materia de salubridad local a cargo de los municipios, con sujeción a las políticas nacional y estatal de salud;
 
@@ -1199,9 +1207,9 @@ XI. La asistencia social a los grupos más vulnerables;
 
 XII. La atención a las víctimas de violencia intrafamiliar, sexual y de abandono;
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2025)</small>
 
-XIII. La prevención y detección oportuna de cáncer de mama y cáncer cervicouterino; y
+XIII. La prevención y detección oportuna de cáncer de mama, cáncer de ovario y cáncer cervicouterino; y
 
 XIV. Las demás que establezca esta Ley y otras disposiciones legales aplicables.
 
@@ -2415,9 +2423,13 @@ La Secretaría y el Organismo, realizarán acciones de publicidad que se refiera
 
 La Secretaría y el Organismo, autorizarán y verificarán la publicidad relacionada con la prestación de servicios de salud, de instrumental y material médico y de productos higiénicos, que cuenten con registro sanitario y de procedimientos de embellecimiento.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 168.
 
-Corresponderá a la Secretaría y al Organismo, la verificación de la actividad publicitaria de alimentos y bebidas no alcohólicas; productos de aseo, artículos de perfumería, belleza, y cualquier otro que se promueva y que pueda afectar la salud, en los medios de difusión local.
+Corresponderá a la Secretaría y al Organismo la verificación de la actividad publicitaria de alimentos y bebidas no alcohólicas; productos de aseo; artículos de perfumería y belleza; procedimientos estéticos, y de cualquier otro producto o servicio que se promueva y que pueda afectar o poner en riesgo la salud, en los medios de difusión local, incluyendo, en lo conducente, plataformas digitales y redes sociales, conforme a las disposiciones administrativas aplicables.
+
+En dicha verificación se pondrá especial atención en la protección de niñas, niños y adolescentes frente a mensajes que generen presión estética o distorsión de la imagen corporal.
 
 ###### ARTÍCULO 169.
 
@@ -2733,13 +2745,37 @@ ARTÍCULO 177 QUATER.- La COPRISED, tendrá facultades para vigilar el cumplimie
 
 Para la imposición de sanciones actuará como disposición Supletoria lo previsto en el capítulo XII del Reglamento de la Ley General de Salud en Materia de Prestación de Servicios de Atención Médica.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO IV. DE LAS CIRUGÍAS ESTÉTICAS EN NIÑAS, NIÑOS Y ADOLESCENTES
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 177 QUINQUIES.- En el Estado de Durango queda prohibida la realización de procedimientos quirúrgicos o no quirúrgicos con fines meramente estéticos en personas menores de dieciocho años de edad.
+
+Para los efectos de este Capítulo, se consideran procedimientos con fines meramente estéticos aquellos que tienen por objeto modificar la apariencia física de una persona, sin finalidad terapéutica, funcional o reconstructiva.
+
+Solo se considerarán excepción a la prohibición prevista en el párrafo primero los procedimientos con finalidad estrictamente reparadora, reconstructiva, funcional o necesaria para el restablecimiento de la salud, orientados a corregir malformaciones congénitas, daños por accidentes o secuelas de enfermedades graves que afecten la salud funcional o psicológica de las personas menores de edad, lo cual deberá estar debidamente justificado mediante dictamen médico especializado.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 177 SEXTIES.- Tratándose de los procedimientos a que se refiere el párrafo tercero del artículo 177 quinquies, únicamente podrán realizarse en personas menores de dieciocho años de edad cuando se cumplan, al menos, los siguientes requisitos:
+
+I. Exista dictamen médico especializado que justifique la necesidad reconstructiva, reparadora o terapéutica del procedimiento, con base en la condición clínica de la persona menor de edad;
+
+II. Sean practicados por médicas y médicos especialistas certificados en cirugía plástica, estética y reconstructiva, o en la especialidad que corresponda al órgano o sistema de que se trate, con cédula de especialista y certificación vigente, conforme a la Ley General de Salud y la Ley de Salud del Estado de Durango;
+
+III. Se lleven a cabo en establecimientos para la atención médica debidamente autorizados por la autoridad sanitaria competente y que cuenten con la licencia sanitaria vigente, así como con los recursos, áreas y equipamiento que señalen las disposiciones aplicables;
+
+IV. Se cuente con el consentimiento informado de quienes ejerzan la patria potestad o tutela, en términos de la Ley General de Salud, de esta Ley y de las disposiciones que emita la autoridad sanitaria competente; y
+
+V. En los casos que no impliquen urgencia médica, se haya valorado la condición psicoemocional de la persona menor de edad, de conformidad con los protocolos que, en su caso, emita la autoridad sanitaria competente, tomando en consideración su edad y grado de madurez.
+
+El cumplimiento de estos requisitos se realizará en los términos previstos en esta Ley, en la Ley General de Salud, en su Reglamento en Materia de Prestación de Servicios de Atención Médica y en las demás disposiciones que emita la autoridad sanitaria competente.
 
 ## TÍTULO DÉCIMO TERCERO. INSUMOS PARA LA SALUD
 
-### CAPÍTULO ÚNICO. ALIMENTOS, BEBIDAS NO ALCOHÓLICAS Y ALCOHÓLICAS
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 178.
 
@@ -2765,7 +2801,7 @@ VII. Las demás que les competan conforme a la presente Ley, y demás disposicio
 
 ## TÍTULO DÉCIMO CUARTO. DEL CONTROL SANITARIO DE ALIMENTOS, BEBIDAS NO ALCOHÓLICAS Y ALCOHÓLICAS
 
-### CAPÍTULO I. DISPOSICIONES COMUNES
+### CAPÍTULO ÚNICO. ALIMENTOS, BEBIDAS NO ALCOHÓLICAS Y ALCOHÓLICAS
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
@@ -2781,7 +2817,9 @@ De conformidad con las disposiciones generales aplicables que expida la Secretar
 
 ## TÍTULO DÉCIMO QUINTO. SALUBRIDAD LOCAL
 
-### CAPÍTULO II. MERCADOS Y CENTROS DE ABASTO
+### CAPÍTULO I. DISPOSICIONES COMUNES
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 182.
 
@@ -2827,7 +2865,7 @@ El Ejecutivo Estatal publicará en el Periódico Oficial del Estado, las normas 
 
 Las notificaciones que conforme a esta Ley deban publicarse, surtirán efectos a partir del día siguiente al de su publicación.
 
-### CAPÍTULO III. DE LAS CONSTRUCCIONES
+### CAPÍTULO II. MERCADOS Y CENTROS DE ABASTO
 
 ###### ARTÍCULO 188.
 
@@ -2841,9 +2879,7 @@ Los establecimientos semifijos y móviles destinados a la venta de alimentos par
 
 ARTÍCULO 189 BIS.- Ante el acontecimiento de una contingencia sanitaria, la Secretaría de Salud, en el ámbito de su competencia, podrá coordinarse con los ayuntamientos, vendedores y locatarios de mercados y centros de abasto, para llevar a cabo acciones de sanidad y/o limpieza de dichos lugares; acción que deberá ser realizada con la finalidad de mantener un adecuado control sanitario, lo anterior de conformidad con lo establecido en el artículo 36 de la presente Ley.
 
-### CAPÍTULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+### CAPÍTULO III. DE LAS CONSTRUCCIONES
 
 ###### ARTÍCULO 190.
 
@@ -2877,7 +2913,9 @@ Cuando los edificios, construcciones o terrenos representen un peligro sanitario
 
 Cuando se pretenda llevar a cabo una construcción en terrenos pantanosos o que hubiesen estado destinados a basureros o cementerios, los interesados deberán comunicar estas circunstancias a la autoridad sanitaria, a fin de que ésta dicte las medidas que juzgue pertinentes con el objeto de evitar riesgos a la salud pública.
 
-### CAPÍTULO V. LIMPIEZA PÚBLICA
+### CAPÍTULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 197.
 
@@ -2903,9 +2941,7 @@ Los cadáveres deberán inhumarse, incinerarse o embalsamarse entre las doce y l
 
 La Secretaría y el Organismo determinarán el tiempo mínimo que han de permanecer los restos en las fosas. Mientras este plazo no termine, sólo podrán efectuarse las exhumaciones autorizadas por las autoridades sanitarias y las ordenadas por la autoridad judicial, previo cumplimiento de los requisitos sanitarios establecidos.
 
-### CAPÍTULO VI. RASTROS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2008)</small>
+### CAPÍTULO V. LIMPIEZA PÚBLICA
 
 ###### ARTÍCULO 202.
 
@@ -2933,7 +2969,9 @@ Las autoridades municipales correspondientes, fijarán lugares especiales para d
 
 Los Municipios deberán establecer depósitos de basura en los parques, jardines, paseos y otros lugares de la vía pública que estén dentro de su jurisdicción, además de ordenar la fumigación periódica de los mismos.
 
-### CAPÍTULO VII. AGUA POTABLE Y ALCANTARILLADO
+### CAPÍTULO VI. RASTROS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 205.
 
@@ -2953,7 +2991,7 @@ En uso de la prerrogativa referida en el artículo 184 de esta Ley, la COPRISED 
 
 En el reglamento correspondiente se establecerán los requisitos sanitarios relativos a la procedencia, manejo, tratamiento, cuidado y conservación de los animales destinados al sacrificio, así como las medidas de funcionamiento que deberán cumplir los vehículos para transportar a dichos animales.
 
-### CAPÍTULO VIII. ESTABLOS, GRANJAS AVÍCOLAS, PORCÍCOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
+### CAPÍTULO VII. AGUA POTABLE Y ALCANTARILLADO
 
 ###### ARTÍCULO 208.
 
@@ -2987,7 +3025,7 @@ Los proyectos para la implantación de sistemas de alcantarillado deberán ser e
 
 No se podrán verter desechos o líquidos que conduzcan los caños, en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al uso y consumo humano. En todo caso, deberán ser tratados y cumplir con las disposiciones legales en materia de contaminación.
 
-### CAPÍTULO IX. RECLUSORIOS O CENTROS DE READAPTACIÓN SOCIAL
+### CAPÍTULO VIII. ESTABLOS, GRANJAS AVÍCOLAS, PORCÍCOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 ###### ARTÍCULO 215.
 
@@ -2997,7 +3035,7 @@ Las condiciones y requisitos sanitarios que deban reunir los establecimientos a 
 
 Para el funcionamiento de los establecimientos a que se refiere este capítulo, se requiere de aviso de funcionamiento.
 
-### CAPÍTULO X. PROSTITUCIÓN
+### CAPÍTULO IX. RECLUSORIOS O CENTROS DE READAPTACIÓN SOCIAL
 
 ###### ARTÍCULO 217.
 
@@ -3009,7 +3047,7 @@ Cuando se trate de enfermedades de emergencia, graves o cuando así lo requiera 
 
 Las personas encargadas de los servicios médicos de los reclusorios y centros de readaptación social deberán, a partir de que tengan conocimiento de alguna enfermedad transmisible, adoptar las medidas de seguridad sanitaria que procedan para evitar la propagación de la misma, así como llevar a cabo la notificación a que se refiere el artículo 144 de esta Ley.
 
-### CAPÍTULO XI. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+### CAPÍTULO X. PROSTITUCIÓN
 
 ###### ARTÍCULO 219.
 
@@ -3031,13 +3069,13 @@ No podrán ejercer la prostitución los menores de edad y las personas que padez
 
 El Estado y los Ayuntamientos elaborarán y ejecutarán programas asistenciales, dirigidos a quienes se dediquen a la prostitución, privilegiando los cursos para la capacitación y el trabajo; debiendo procurar en lo posible la creación de bolsas de trabajo para su incorporación al sector productivo.
 
-### CAPÍTULO XII. PREVENCIÓN Y CONTROL DE RABIA EN ANIMALES Y SERES HUMANOS
+### CAPÍTULO XI. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
 ###### ARTÍCULO 224.
 
 Para la construcción y acondicionamiento de un inmueble que se pretenda destinar como establecimiento para el hospedaje, se deberán cumplir los requisitos que señala el artículo 185 de esta Ley.
 
-### CAPÍTULO XIII. DE LAS ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS
+### CAPÍTULO XII. PREVENCIÓN Y CONTROL DE RABIA EN ANIMALES Y SERES HUMANOS
 
 ###### ARTÍCULO 225.
 
@@ -3071,9 +3109,7 @@ Las autoridades sanitarias, en coordinación con los Ayuntamientos, mantendrán 
 
 Además de los establecimientos a que se refiere el artículo 225 de esta Ley, los Ayuntamientos deberán instalar una perrera para la guarda temporal de estos animales.
 
-### CAPÍTULO I. AUTORIZACIONES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2008)</small>
+### CAPÍTULO XIII. DE LAS ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS
 
 ###### ARTÍCULO 229.
 
@@ -3081,7 +3117,9 @@ Los baños públicos, albercas, gimnasios, centros de reunión y espectáculos, 
 
 ## TÍTULO DÉCIMO SEXTO. AUTORIZACIÓN Y CERTIFICADOS
 
-### CAPÍTULO II. REVOCACIONES DE AUTORIZACIONES SANITARIAS
+### CAPÍTULO I. AUTORIZACIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 230.
 
@@ -3133,7 +3171,7 @@ Las autorizaciones a que se refiere esta Ley, podrán ser revisadas por la autor
 
 Los derechos a que se refiere esta Ley, se regirán por lo dispuesto en la legislación fiscal aplicable y los convenios de coordinación que celebren en la materia el Gobierno del Estado con el Ejecutivo Federal.
 
-### CAPÍTULO III. CERTIFICADOS
+### CAPÍTULO II. REVOCACIONES DE AUTORIZACIONES SANITARIAS
 
 ###### ARTÍCULO 240.
 
@@ -3199,9 +3237,7 @@ La COPRISED emitirá la resolución que corresponda al concluir la audiencia o d
 
 La resolución de revocación surtirá efectos de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+### CAPÍTULO III. CERTIFICADOS
 
 ###### ARTÍCULO 248.
 
@@ -3231,7 +3267,7 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ## TÍTULO DÉCIMO SÉPTIMO. VIGILANCIA SANITARIA
 
-### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPÍTULO ÚNICO
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
@@ -3337,7 +3373,7 @@ En el caso de los productos recogidos en procedimientos de muestreo o verificaci
 
 ## TÍTULO DÉCIMO OCTAVO. MEDIDAS DE SEGURIDAD, SANCIONES Y DELITOS
 
-### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
+### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
@@ -3467,7 +3503,9 @@ La desocupación o desalojo de casas, edificios, establecimientos y, en general,
 
 ARTÍCULO 276 BIS.- La Secretaría, el Organismo y la COPRISED, en el ámbito de sus competencias, implementarán programas de vigilancia para controlar la expedición o venta de cualquier tipo de medicamentos que se encuentren deteriorados o caducados y que incumplan con los requisitos relativos a su composición, estabilidad y eficacia poniendo así en peligro la salud de las personas.
 
-### CAPÍTULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 277.
 
@@ -3535,11 +3573,11 @@ Se sancionará con multa equivalente de mil hasta cuatro mil veces la Unidad de 
 
 Se sancionará con multa equivalente de cuatro mil hasta diez mil veces la Unidad de Medida y Actualización, la violación a las disposiciones contenidas en los artículos 88, 113, 258 y 272 de esta Ley.
 
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 286.
 
-Se sancionará con multa equivalente de diez mil hasta quince mil veces la Unidad de Medida y Actualización, la violación a las disposiciones contenidas en el artículo 132 y 177 bis de esta Ley.
+Se sancionará con multa equivalente de diez mil hasta quince mil veces la Unidad de Medida y Actualización la violación a las disposiciones contenidas en los artículos 132, 177 Bis, 177 quinquies, 177 sexties y 291 Bis de esta Ley, sin perjuicio de las demás sanciones que resulten aplicables.
 
 > <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2017)</small>
 
@@ -3571,9 +3609,15 @@ IV. Cuando por la peligrosidad de las actividades que se realicen o por la natur
 
 V. Por reincidencia en tercera ocasión; y
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2025)</small>
 
-VI. Cuando se ofrezcan o realicen servicios de cirugía plástica estética y reconstructiva sin que el personal profesional a cargo cuente con los títulos profesionales y certificados de especialización o sub-especialización, o cuando se ofrezcan estos servicios mediante anuncios, documentos, papelería o publicidad sin los datos de registro ante las autoridades educativas y de salud.
+VI. Cuando se ofrezcan o realicen servicios de cirugía plástica, estética o reconstructiva:
+
+a) Sin que el personal profesional a cargo cuente con los títulos profesionales y certificados de especialización o subespecialización correspondientes;
+
+b) Mediante anuncios, documentos, papelería o publicidad en los que no consten los datos de registro ante las autoridades educativas y de salud; o
+
+c) Cuando los procedimientos con fines meramente estéticos se realicen en niñas, niños o adolescentes, o cuando la publicidad de dichos procedimientos se dirija a este sector de la población, en contravención a lo dispuesto en esta Ley.
 
 ###### ARTÍCULO 290.
 
@@ -3591,11 +3635,23 @@ Esta sanción será procedente si previamente se hubiere dictado cualquier otra 
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPÍTULO IV. DELITOS
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE DICIEMBRE DE 2025)</small>
 
-### CAPÍTULO V. RECURSO DE INCONFORMIDAD
+### CAPÍTULO II BIS. DE LA RESPONSABILIDAD MÉDICA POR CIRUGÍAS ESTÉTICAS EN NIÑOS, NIÑAS Y ADOLESCENTES
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 291 BIS.- Las y los profesionales de la salud serán responsables por los actos u omisiones que causen daño a niñas, niños y adolescentes, cuando se acredite que actuaron con negligencia, impericia, imprudencia o sin apegarse a las normas, protocolos y buenas prácticas médicas vigentes en el ejercicio de su función.
+
+Para los efectos de esta Ley, se considerará negligencia grave:
+
+I. La realización de procedimientos con fines meramente estéticos en personas menores de dieciocho años de edad, en contravención a lo dispuesto en el artículo 177 quinquies de esta Ley; y
+
+II. La realización de procedimientos reconstructivos, reparadores o con finalidad terapéutica en personas menores de dieciocho años de edad, sin cumplir los requisitos previstos en el artículo 177 sexties de esta Ley.
+
+Las conductas señaladas en este artículo podrán ser sancionadas con la suspensión definitiva del ejercicio profesional en el Estado, sin perjuicio de las responsabilidades civiles, administrativas o penales que correspondan conforme a las leyes aplicables.
+
+### CAPÍTULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTÍCULO 292.
 
@@ -3679,7 +3735,7 @@ En caso de que el probable infractor no compareciera dentro del plazo fijado en 
 
 En los casos de suspensión de trabajos o servicios, o de clausura temporal o definitiva, parcial o total, el personal comisionado para la ejecución procederá a levantar acta detallada de la diligencia, siguiendo para ello los lineamientos generales establecidos para las verificaciones.
 
-### CAPÍTULO VI. PRESCRIPCIÓN
+### CAPÍTULO IV. DELITOS
 
 ###### ARTÍCULO 301.
 
@@ -3688,6 +3744,14 @@ Cuando del contenido de un acta de verificación se desprenda la posible comisi�
 ###### ARTÍCULO 302.
 
 Las denuncias que se interpongan en los términos señalados en el artículo anterior, deberán sujetarse a lo establecido por los Códigos Penal y de Procedimientos Penales, Federal y Estatal vigentes.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 302 BIS.- Las personas profesionales, técnicas o auxiliares de las disciplinas de la salud, o vinculadas a prácticas médicas y/o terapéuticas que realicen, impartan, apliquen, obliguen o financien tratamientos, terapias, procedimientos o servicios de cualquier naturaleza cuyo propósito sea obstaculizar, restringir, impedir, menoscabar, anular o suprimir la orientación sexual, identidad o expresión de género de una persona, serán sancionadas en los términos previstos por los artículos 182 Quater y 182 Quintus del Código Penal del Estado. Además de lo anterior, se impondrá la suspensión en el ejercicio profesional de uno a tres años.
+
+### CAPÍTULO V. RECURSO DE INCONFORMIDAD
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 303.
 
@@ -3808,6 +3872,8 @@ IV. Modificar u ordenar la modificación del acto impugnado o dictar u ordenar e
 ###### ARTÍCULO 318.
 
 En lo no previsto por esta Ley, en la tramitación, substanciación y resolución del recurso de inconformidad, se aplicará supletoriamente el Código de Procedimientos Civiles del Estado.
+
+### CAPÍTULO VI. PRESCRIPCIÓN
 
 ###### ARTÍCULO 319.
 
@@ -4294,3 +4360,49 @@ P.O. 15 DE MAYO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
+
+P.O. 25 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 356 QUE CONTIENE REFORMAS AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO Y ADICIONES A LA LEY DE SALUD DEL ESTADO DE DURANGO, EN MATERIA DE DELITOS CONTRA LA ORIENTACIÓN SEXUAL Y LA IDENTIDAD DE GÉNERO DE LAS PERSONAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 357 EN EL CUAL SE PROPONE REFORMAR Y ADICIONAR DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE DURANGO Y DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 358 EN EL CUAL SE PROPONE REFORMAS Y ADICIONES A LA LEY DE SALUD DEL ESTADO DE DURANGO, EN MATERIA DE CANCER DE OVARIO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 25 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 359 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE SALUD DEL ESTADO DE DURANGO, EN MATERIA DE CIRUGÍAS ESTÉTICAS EN NIÑAS, NIÑOS Y ADOLESCENTES Y RESPONSABILIDAD MÉDICA APLICABLE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. La Secretaría de Salud del Estado y la Comisión para la Protección contra Riesgos Sanitarios del Estado de Durango (COPRISED), en el ámbito de sus respectivas competencias, deberán adecuar sus normas administrativas, lineamientos, protocolos y demás disposiciones de carácter general a lo dispuesto en el presente Decreto, en un plazo no mayor de ciento ochenta días naturales, contados a partir de su entrada en vigor, sin perjuicio de la aplicación inmediata de las reformas contenidas en el mismo desde el momento de su entrada en vigor.
+
+TERCERO. Los establecimientos para la atención médica que realicen procedimientos de cirugía plástica, estética y reconstructiva contarán con un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto, para ajustar sus políticas internas, contratos de prestación de servicios, formatos de consentimiento informado, publicidad y demás documentación a lo previsto en el propio Decreto, sin perjuicio de la prohibición inmediata de realizar procedimientos con fines meramente estéticos en personas menores de dieciocho años de edad.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 360 POR EL CUAL SE REFORMA EL ARTÍCULO 14 BIS 2 DE LA LEY DE SALUD DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El Consejo Estatal de Salud deberá realizar las adecuaciones correspondientes a su Acuerdo de Creación y Reglamento, en un plazo no mayor de noventa días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
