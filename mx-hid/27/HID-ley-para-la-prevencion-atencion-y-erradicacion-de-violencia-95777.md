@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-prevencion-atencion-y-erradicacion-de-violencia-957
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-02"
-last_updated: "2024-06-07"
+last_updated: "2025-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE VIOLENCIA ESCOLAR EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 2 de septiembre de 2013.
 
@@ -59,11 +59,11 @@ Artículo Único.- Se crea la Ley para la Prevención, Atención y Erradicación
 
 ### CAPÍTULO I. DEL OBJETO, DEFINICIONES Y PRINCIPIOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público, interés social y de observancia general en el Estado de Hidalgo, y tiene por objeto prevenir, atender y erradicar el acoso y la violencia originada en el entorno escolar, entre las y los estudiantes, el personal docente, directivo, administrativo, responsables ante un grupo, padres y madres de familia o en su caso, tutores de las instituciones educativas públicas y privadas.
+La presente Ley es de orden público, interés social y de observancia general en el Estado de Hidalgo, y tiene por objeto prevenir, atender y erradicar el acoso, la violencia y la discriminación originada en el entorno escolar, entre las y los estudiantes, el personal docente, directivo, administrativo, responsables ante un grupo, padres y madres de familia o en su caso, tutores de las instituciones educativas públicas y privadas.
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2017)</small>
 
@@ -83,9 +83,9 @@ Son objetivos de la presente Ley:
 
 I.- Diseñar instrumentos o mecanismos que garanticen dentro de las escuelas públicas y privadas del Estado, la integridad física y psicológica de los educandos y de quienes integran la comunidad educativa, en un ambiente libre de violencia;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-II.- Diseñar, promover e implementar políticas públicas en materia de prevención, atención y erradicación del acoso y la violencia en el entorno escolar, especialmente el que se presenta en los niveles básico y medio superior;
+II.- Diseñar, promover e implementar políticas públicas en materia de prevención, atención y erradicación del acoso, la violencia y la discriminación en el entorno escolar, especialmente el que se presenta en los niveles básico y medio superior;
 
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
@@ -95,7 +95,9 @@ III.- Proponer mecanismos de participación entre instituciones públicas y/o pr
 
 IV.- Sensibilizar al personal escolar en general para la prevención e intervención ante casos de acoso o violencia escolar y canalizar a quienes sean víctimas o generadores, para su adecuado tratamiento y/o aplicación de medidas correspondientes;
 
-V.- Fomentar la corresponsabilidad social y la cohesión comunitaria, para garantizar un ambiente libre de violencia en el entorno escolar del Estado de Hidalgo; y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+V.- Fomentar la corresponsabilidad social y la cohesión comunitaria, para garantizar un ambiente libre de violencia y de discriminación en el entorno escolar del Estado de Hidalgo; y
 
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
@@ -123,13 +125,13 @@ II. Comunidad educativa: Población integrada por alumnos, alumnas, padres, madr
 
 III. Cultura de la paz: Conjunto de valores, actitudes y comportamientos, modos de vida y acción que, inspirándose en ella, reflejan el respeto de la vida, de la persona humana, de su dignidad y sus derechos, así como la adhesión a los principios de libertad, justicia, solidaridad, tolerancia y entendimiento, tanto entre los pueblos como entre los grupos y las personas;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-IV. Discriminación entre la comunidad educativa: Toda distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, creencia religiosa, opiniones, preferencias sexuales, estado civil o cualquier otra, tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas que integran la comunidad educativa;
+IV. Discriminación entre la comunidad educativa: Es toda conducta activa u omisiva que en forma de preferencia, distinción, exclusión, repudio, rechazo o restricción, dirigida a una persona o grupo, con intención o sin ella basada en su origen o identidad indígena o nacional, sexo o género, edad, discapacidad, condición social, económica, de salud física o mental, jurídica, embarazo, lengua, idioma, cultura, religión, opiniones, orientación sexual, identidad de género, expresión de género, estado civil, situación familiar, responsabilidades familiares, identidad o filiación política, apariencia física color de piel, forma de vestir, actuar, gesticular, por tener tatuajes o perforaciones corporales, características genéticas, situación migratoria, embarazo, lactar en espacios públicos, privados y laborales, los antecedentes penales o cualquier otra que tenga por efecto negar, obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce y/o ejercicio de sus derechos humanos y libertades, en condiciones de equidad e igualdad;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-V. Generador: Miembro de la comunidad educativa que realiza una acción de violencia escolar;
+V. Generador: Miembro de la comunidad educativa que realiza una acción de violencia escolar o discriminación;
 
 > <small>(REFORMADA Y REUBICADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -215,9 +217,9 @@ XIII.- El interés superior de la niñez;
 
 XIV.- Resolución de conflictos de manera asertiva;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-XV.- El pluriculturalismo y reconocimiento de la diversidad;
+XV.- El pluriculturalismo, interculturalidad y reconocimiento de la diversidad;
 
 > <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -225,15 +227,15 @@ XVI.- La inclusión;
 
 > <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
-XVII. La participación;
+XVII.- La participación;
 
 > <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
-XVIII. El acceso a una vida libre de violencia; y
+XVIII.- El acceso a una vida libre de violencia; y
 
 > <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
-XIX. Perspectiva de género.
+XIX.- Perspectiva de género.
 
 Los principios de esta Ley constituyen el marco conforme al cual se deberán planear, crear, ejecutar y evaluar, acciones, proyectos y políticas del Programa Estatal, para garantizar un ambiente libre de violencia en el entorno escolar.
 
@@ -321,9 +323,9 @@ VII. Contar con un tratamiento psicológico según sean las circunstancias y las
 
 Las y los alumnos de una institución educativa tienen derecho a:
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-I. Que se respete su integridad física y emocional, su intimidad, su privacidad, las diferencias por razón de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las características sexuales, la orientación sexual, la identidad o la expresión de género, y a que se evite cualquier tipo de discriminación que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de todos los miembros de la comunidad educativa;
+I. Que se respete su integridad física y emocional, su intimidad, su privacidad, las diferencias por razón de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las características sexuales, la orientación sexual, la identidad o la expresión de género, y a que se prevenga y, en su caso, se atienda cualquier tipo de discriminación que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de todos los miembros de la comunidad educativa;
 
 II. No ser excluidos del grupo educativo;
 
@@ -571,11 +573,15 @@ El personal directivo, docente y administrativo de las instituciones educativas 
 
 I. Conocer y aplicar los protocolos de actuación ante hechos de violencia escolar;
 
-II. Tomar las medidas inmediatas necesarias para prevenir, atender y erradicar la violencia escolar, pudiendo solicitar la asesoría de las autoridades en la materia para tal efecto;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+II. Tomar las medidas inmediatas necesarias para prevenir, atender y erradicar la violencia escolar y la discriminación, pudiendo solicitar la asesoría de las autoridades en la materia para tal efecto;
 
 III. Denunciar ante las autoridades competentes cualquier hecho relacionado con violencia escolar, y
 
-IV. Proporcionar la información que las autoridades competentes les soliciten, sobre hechos relacionados con violencia escolar.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+IV. Proporcionar la información que las autoridades competentes les soliciten, sobre hechos relacionados con violencia y discriminación escolar.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2024)</small>
 
@@ -1200,3 +1206,9 @@ P.O. 7 DE JUNIO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. El Poder Ejecutivo del Estado, en un plazo no mayor a 180 días a la entrada en vigor del presente Decreto, deberá realizar las adecuaciones reglamentarias correspondientes para el cumplimiento de este Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 265 - LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE VIOLENCIA ESCOLAR EN EL ESTADO DE HIDALGO, EN MATERIA DE DISCRIMINACIÓN EN EL ENTORNO ESCOLAR".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
