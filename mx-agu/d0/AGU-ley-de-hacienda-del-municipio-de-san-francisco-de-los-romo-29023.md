@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-san-francisco-de-los-romo-2902
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-16"
-last_updated: "2023-12-29"
+last_updated: "2025-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE SAN FRANCISCO DE LOS ROMO, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1995.
 
@@ -583,11 +583,11 @@ VI.- Los funcionarios y empleados públicos que autoricen algún acto jurídico 
 
 #### SECCION CUARTA. DE LA BASE
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 43.
 
-Será base para el pago de este impuesto, el valor catastral de los predios o de las construcciones, en su costo. En cuanto a los predios o construcción que no tengan valores catastrales o estos no se encuentren vigentes, servirá de base el valor con que se encuentren fiscalmente empadronadas o el valor de operaciones de traslado de dominio que se registre, aun tratándose de ventas con reserva de dominio, éste es mayor que aquellos.
+Será base para el pago de este impuesto, el valor catastral de los predios o de las construcciones, en su costo. En cuanto a los predios o construcción que no tengan valores catastrales o estos no se encuentren actualizados o vigentes, o estando actualizados o vigentes, estos no se hubiesen exhibido para su empadronamiento ante la Dirección de Finanzas y Administración, servirá de base el valor con que se encuentren fiscalmente empadronadas o el valor de operaciones de traslado de dominio que se registre, aun tratándose de ventas con reserva de dominio, éste es mayor que aquellos.
 
 La base del impuesto se cambiará:
 
@@ -606,6 +606,22 @@ IV.- Cuando con motivo de la aplicación de las tablas de valores, se practique 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 V.- Cuando se entregue en la Dirección de Finanzas y Administración el Avalúo Catastral y/o Manifestación de Construcción con Avalúo Catastral
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON LAS FRACCIONES Y PÁRRAFO QUE LO INTEGRA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Los sujetos de este Impuesto están obligados a manifestar a la Dirección de Finanzas y Administración del Municipio:
+
+I. El valor manifestado de sus inmuebles;
+
+II. La terminación de nuevas construcciones, reconstrucciones o la ampliación de construcciones ya existentes;
+
+III. La división, fusión o demolición de inmuebles;
+
+IV. Cualquier modificación que altere el valor catastral de los inmuebles o los datos de su empadronamientos (sic).
+
+> <small>[N. DE E. PERTENECE AL TERCER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2025]</small>
+
+Dichas manifestaciones deberán presentarse en las formas oficiales establecidas, acompañando a estas los documentos que en ellas se requieran, dentro de los quince días siguientes a la fecha de acto o contrato que la motive.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
@@ -827,6 +843,10 @@ c) EI realizado por corredor público siempre que no tenga más de seis meses de
 
 d) El que realicen personas que cuenten con cédula profesional de valuadores expedida por la Secretaría de Educación Pública, siempre que no tenga más de seis meses de practicado.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+En el caso de que el valor comercial determinado con base a los avalúos para efectos fiscales anteriormente enlistados, sea menor al valor de operación, se tomará el valor de operación para el cálculo y determinación del Impuesto Sobre Adquisición de Bienes Inmuebles.
+
 > <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
 
 El avalúo se acompañará a la declaración para el pago del impuesto sobre adquisición de bienes inmuebles.
@@ -886,6 +906,18 @@ III.- Tratándose de adquisiciones efectuadas a través de fideicomiso, cuando s
 IV.- Al protocolizarse o inscribirse el reconocimiento judicial de la prescripción positiva.
 
 V.- En los casos no previstos en las fracciones anteriores cuando los actos de que se trate se eleven a escritura pública o se inscriban en registro público, para poder surtir efectos, ante terceros en los términos del derecho común; y si no están sujetos a esta formalidad, al adquirente el dominio conforme a las leyes.
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+VI.- En los casos en que se detecte la no conclusión de algún trámite dentro de un lapso de 60 (sesenta) días naturales, la Secretaría de Finanzas estará facultada para solicitarle al fedatario público que lo elaboró, la confirmación o en su caso la cancelación del mismo.
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+VII.- Transcurrido el término anterior, la Secretaría de Finanzas remitirá las constancias que obren a los fedatarios públicos por operar la cancelación de los mismos por inactividad.
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+VIII.- Para la continuación de trámite, que previamente fueron cancelados, se cobrará 1 (una) vez el valor diario de la Unidad de Medida y Actualización (UMA) por la retramitación.
 
 El contribuyente podrá pagar el impuesto por anticipado.
 
@@ -1798,3 +1830,11 @@ P.O. 29 DE DICIEMBRE DE 2023.
 Artículo Primero.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Aguascalientes.
 
 Artículo Segundo.- El presente Decreto iniciará su vigencia el día 1 de enero de 2024.
+
+P.O. 26 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 389.- SE REFORMA LA LEY DE HACIENDA DEL MUNICIPIO DE SAN FRANCISCO DE LOS ROMO, AGUASCALIENTES".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Los procedimientos administrativos de determinación, fiscalización, ejecución o pago de contribuciones iniciados con anterioridad a la entrada en vigor del presente Decreto se regirán por las disposiciones vigentes al momento de su inicio.
