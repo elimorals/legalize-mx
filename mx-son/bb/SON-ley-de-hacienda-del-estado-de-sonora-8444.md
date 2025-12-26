@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2025-12-12"
+last_updated: "2025-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -7365,7 +7365,47 @@ f)-5.- De 501 a 1000 piezas o metros $800.00
 
 g).- Uso y compra-venta de substancias químicas relacionadas con explosivos, se cobrará $5.00 por litro o kilogramo.
 
+> <small>(ADICIONADO [N. DE E. CON SUS SUBINCISOS], B.O. 26 DE DICIEMBRE DE 2025)</small>
+
+g) bis.- Uso y compra-venta de sustancias químicas relacionadas con explosivos utilizadas en la agricultura, se cobrará:
+
+g) bis-1.- De 01 a 1000 litros o kilogramos $1,250.00
+
+g) bis-2.- De 1,001 a 5,000 litros o kilogramos $1,750.00
+
+g) bis-3.- De 5,001 a 10,000 litros o kilogramos $2,250.00
+
+g) bis-4.- De 10,00 l a 50,000 litros o kilogramos $2,750.00
+
+g) bis-5.- De 50,001 a 100,000 litros o kilogramos $3,250.00
+
+g) bis-6.- De 100,001 a 500,000 litros o kilogramos $3,750.00
+
+g) bis-7.- De 500,001 a 1,000,000 litros o kilogramos $4,250.00
+
+g) bis-8.- A partir de 1,000,001 litros o kilogramos, se cobrará por cada litro o kilogramo adicional la cantidad de $0.05 centavos ( cinco centavos, moneda nacional).
+
 h).- Almacenamiento de substancias químicas relacionadas con explosivos, se cobrará $3.00 por litro o kilogramo.
+
+> <small>(ADICIONADO [N. DE E. CON SUS SUBINCISOS], B.O. 26 DE DICIEMBRE DE 2025)</small>
+
+h) bis- Almacenamiento de sustancias químicas relacionadas con explosivos utilizadas en la agricultura, se cobrará:
+
+h) bis-1.- De 01 a 1000 litros o kilogramos $150.00
+
+h) bis-2.- De 1,001 a 5,000 litros o kilogramos $650.00
+
+h) bis-3.- De 5,001 a 10,000 litros o kilogramos $1,150.00
+
+h) bis-4.-De 10,001 a 50,000 litros o kilogramos $1,650.00
+
+h) bis-5.-De 50,001 a 100,000 litros o kilogramos $2,150.00
+
+h) bis-6.- De 100,001 a 500,000 litros o kilogramos $2,650.00
+
+h) bis-7.- De 500,001 a 1,000,000 litros o kilogramos $3,150.00
+
+h) bis-8.- A partir de 1,000,001 litros o kilogramos, se cobrará por cada litro o kilogramo adicional la cantidad de $0.01 centavo (un centavo, moneda-nacional).
 
 > <small>(ADICIONADO, B.O. 4 DE DICIEMBRE DE 2025)</small>
 
@@ -9112,3 +9152,11 @@ Para efectos de lo previsto en el numeral 10 de la fracción II Bis del artícul
 ###### ARTÍCULO SÉPTIMO.
 
 Para efectos de lo previsto en la fracción XXXI del artículo 3 de la Ley de Control Vehicular para el Estado de Sonora, la tarjeta de circulación digital entrará en vigor a partir de la fecha en que la Secretaría de Hacienda del Estado declare en operación la infraestructura necesaria para su implementación. La Secretaría de Hacienda emitirá mediante Acuerdo publicado en el Boletín Oficial del Gobierno del Estado de Sonora, la declaratoria de inicio de vigencia, una vez que se cuente con la disponibilidad técnica y operativa de dicha infraestructura.
+
+B.O. 26 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 81 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE HACIENDA DEL ESTADO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
