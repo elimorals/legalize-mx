@@ -4,7 +4,7 @@ identifier: "AGU-codigo-fiscal-del-estado-de-aguascalientes-11979"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2025-05-19"
+last_updated: "2025-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO FISCAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Aguascalientes, el jueves 31 de diciembre de 1981.
 
@@ -1405,9 +1405,9 @@ XIX.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
 XX.- Faltar a la obligación de extender comprobantes, facturas o cualquier otro documento que señalen las disposiciones fiscales, no exigirlos cuando tengan obligación de hacerlo no consignar por escrito los actos, convenios o contratos que de acuerdo con las disposiciones fiscales deban constar en esta forma. Por la comisión de esta infracción se impondrá una multa del valor diario de 15 a 130 Unidades de Medida y Actualización.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-XXI.- No presentar o no proporcionar, o hacerlo extemporáneamente, los avisos, declaraciones, solicitudes, datos, informes, copias, libros o documentos que exijan las disposiciones fiscales. No comprobarlos, o no aclararlos cuando las autoridades fiscales lo soliciten. Por la comisión de esta infracción se impondrá una multa del valor diario de 115 a 280 Unidades de Medida y Actualización.
+XXI.- No presentar o no proporcionar, o hacerlo extemporáneamente, los avisos, declaraciones, solicitudes, datos, informes, copias, libros o documentos que exijan las disposiciones fiscales. No comprobarlos, no presentarlos o no aclararlos cuando las autoridades fiscales lo soliciten o requieran. Por la comisión de esta infracción se impondrá una multa del valor diario de 115 a 280 Unidades de Medida y Actualización.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
@@ -2099,11 +2099,25 @@ Las declaraciones presentadas quedarán sujetas a revisión por parte de las aut
 
 No se admitirán las declaraciones si en el mismo acto de su presentación no se paga íntegramente el crédito fiscal correspondiente, salvo el caso de que se presente la declaración en ceros, no haya impuesto a pagar o se trate de pagos diferidos o en parcialidades que autorice la Secretaría de Finanzas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 112.
 
-En caso de falta de presentación de las declaraciones dentro del plazo establecido en las disposiciones legales respectivas, las autoridades fiscales, transcurridos quince días a partir del siguiente a aquel en que se haya vencido el plazo en el cual el contribuyente debió presentarlas, podrán determinar un impuesto igual al importe más alto que se hubiera pagado con cualquiera de las seis últimas declaraciones, de la contribución de que se trate. Esta determinación podrá ser rectificada por las propias autoridades y su pago no libera a los obligados de presentar la declaración omitida; caso en el cual, la cantidad pagada se acreditará contra la que resulte de dicha declaración, que podrá ser objeto de comprobación.
+Cuando las personas obligadas a presentar declaraciones, no lo hagan dentro de los plazos establecidos en las disposiciones legales respectivas, las autoridades fiscales exigirán la presentación del documento, declaración o la información respectiva, procediendo de la siguiente forma:
+
+I. Imponer la multa que corresponda conforme a lo establecido en este Código y requerir, por una sola ocasión, la presentación de la información omitida, otorgando al contribuyente un plazo de quince días para su cumplimiento. En caso de no atender el requerimiento, se impondrán las multas que procedan, las cuales, tratándose de declaraciones, corresponderán a una por cada obligación omitida. Una vez vencido el plazo sin que el requerimiento haya sido atendido, y sin perjuicio de las multas aplicables por dicho incumplimiento, la autoridad podrá proceder conforme a lo dispuesto en la siguiente fracción.
+
+II. Tratándose de la omisión en la presentación de una declaración para el pago de contribuciones, una vez realizadas las acciones previstas en la fracción anterior, podrán determinar al contribuyente o al responsable solidario que haya incurrido en la omisión, una cantidad igual al monto mayor que hubiera determinado a su cargo en cualquiera de las seis últimas declaraciones de la contribución de que se trate. Esta cantidad a pagar no libera a los obligados de presentar la declaración omitida.
+
+Cuando la omisión sea de una declaración de las que se conozca de manera fehaciente la cantidad a la que le es aplicable la tasa o cuota respectiva, la autoridad fiscal podrá hacer efectiva al contribuyente, una cantidad igual a la contribución que a éste corresponda determinar, sin que el pago lo libere de presentar la declaración omitida.
+
+Cuando no existan los elementos mencionados en los párrafos anteriores, la información contenida en los expedientes, documentos o bases de datos en poder de las autoridades fiscales, a los que éstas tengan acceso o que les hayan sido proporcionados por otras autoridades, podrán servir de base para determinar el monto de la contribución omitida y hacerlo efectivo al contribuyente, sin que dicho pago lo exima de la obligación de presentar la declaración correspondiente.
+
+Si la declaración se presenta después de haberse notificado al contribuyente la cantidad determinada por la autoridad conforme a esta fracción, dicha cantidad se disminuirá del importe que se tenga que pagar con la declaración que se presente, debiendo cubrirse, en su caso, la diferencia que resulte entre la cantidad determinada por la autoridad y el importe a pagar en la declaración.
+
+En caso de que en la declaración resulte una cantidad menor a la determinada por la autoridad fiscal, la diferencia pagada por el contribuyente únicamente podrá ser compensada en declaraciones subsecuentes.
+
+La determinación del crédito fiscal que realice la autoridad con motivo del incumplimiento en la presentación de declaraciones en los términos del presente artículo, podrá hacerse efectiva a través del procedimiento administrativo de ejecución a partir del tercer día siguiente a aquél en el que sea notificado el adeudo respectivo, en este caso el recurso de revocación sólo procederá contra el propio procedimiento administrativo de ejecución y en el mismo podrán hacerse valer agravios contra la resolución determinante del crédito fiscal.
 
 Las facultades conferidas en este artículo, se ejercerán sin perjuicio de las demás que confieren las leyes a las autoridades fiscales.
 
@@ -4272,3 +4286,15 @@ P.O. 19 DE MAYO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 26 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 376.- SE REFORMA EL CÓDIGO FISCAL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones que se opongan al presente.
