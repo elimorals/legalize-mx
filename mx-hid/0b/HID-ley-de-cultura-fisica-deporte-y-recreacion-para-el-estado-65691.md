@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-fisica-deporte-y-recreacion-para-el-estado-65691
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2025-08-22"
+last_updated: "2025-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2008.
 
@@ -303,9 +303,9 @@ VI.- Promover la cultura de la educación física y el deporte entre los habitan
 
 VII.- Generar mecanismos con perspectiva de género y de derechos humanos, para garantizar que no exista acoso, violencia, hostigamiento o discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que constituya una agresión al libre desarrollo de la personalidad, y
 
-> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-VIII.- Promover mecanismos que posibiliten la detección oportuna de niñas, niños, adolescentes y jóvenes con talentos deportivos.
+VIII.- Promover mecanismos que posibiliten la detección oportuna de niñas, niños, adolescentes y jóvenes con talentos deportivos, así como implementar acciones para su protección integral en las actividades deportivas.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2022)</small>
 
@@ -409,6 +409,10 @@ IV.- Determinar los requerimientos del deporte en el Estado, para crear y desarr
 
 V.- Fomentar, propiciar y solicitar la participación activa, en materia del deporte, mediante la conjunción de esfuerzos con los sectores social y privado;
 
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+V Bis.- Diseñar, establecer, implementar y supervisar acciones que permitan prevenir, combatir y erradicar la violencia a través del deporte;
+
 VI.- Proponer y ejecutar las medidas que permitan fomentar el aprendizaje y la práctica constante entre las y los deportistas, con el fin de lograr un mayor desarrollo en el deporte Estatal;
 
 VII.- Establecer los procedimientos para lograr una coordinación y concertación en materia deportiva entre las diferentes Dependencias y Entidades de la Administración Pública Estatal y Municipal, así como también sumar la participación activa de las diferentes instituciones públicas y de particulares, de los sectores social y privado;
@@ -426,6 +430,10 @@ IX.- Formular programas destinados a promover y apoyar la formación, capacitaci
 > <small>(ADICIONADA, P.O. 2 DE MAYO DE 2023)</small>
 
 IX Bis.- Promover una mayor incorporación de las mujeres en el ámbito deportivo profesional, eliminando las barreras a causa de estereotipos y prácticas sexistas;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+IX Ter.- Formular y ejecutar políticas que garanticen la participación, en igualdad de condiciones entre mujeres y hombres, en las actividades inherentes a la cultura física y deportiva.
 
 X.- Coadyuvar en el diseño y operación del Registro Estatal de Cultura Física, Deporte y Recreación; y
 
@@ -544,6 +552,12 @@ Al efecto se observará el contenido del Capítulo Cuarto, Título Tercero de la
 ###### Artículo 34 Bis.
 
 El Instituto Hidalguense del Deporte y los Ayuntamientos conforme a sus atribuciones y competencias, promoverán mecanismos y acciones encaminadas a prevenir la violencia en eventos deportivos y garantizar el desarrollo pacífico en los recintos donde se celebren eventos deportivos y con fines de espectáculo y en sus inmediaciones, así como la seguridad y patrimonio de las personas, en coordinación con las autoridades de Seguridad Pública, Privada y Protección Civil.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 34 Ter.
+
+En los eventos deportivos en que exista presencia de niñas, niños y adolescentes como participantes o espectadores, las autoridades estatales y municipales observarán lo dispuesto por la Ley de Niñas, Niños y Adolescentes para el Estado de Hidalgo.
 
 #### SECCIÓN I
 
@@ -1928,5 +1942,19 @@ P.O. 20 DE AGOSTO DE 2024.
 P.O. 22 DE AGOSTO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 340 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 9 DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, EN MATERIA DE ACTIVACIÓN FÍSICA MEDIANTE EL USO DE HERRAMIENTAS TECNOLÓGICAS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 349 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO, DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, Y DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE EVENTOS DEPORTIVOS CON PRESENCIA DE PERSONAS MENORES DE EDAD".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Los ayuntamientos del Estado deberán emitir o actualizar su normatividad interna para efecto de dar cumplimiento a lo aprobado en este Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 368 - LXVI POR EL QUE SE ADICIONAN LAS FRACCIONES V BIS Y IX TER AL ARTÍCULO 25 DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, EN MATERIA DE POLÍTICAS PÚBLICAS EN IGUALDAD DE CONDICIONES Y PREVENCIÓN DE LA VIOLENCIA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
