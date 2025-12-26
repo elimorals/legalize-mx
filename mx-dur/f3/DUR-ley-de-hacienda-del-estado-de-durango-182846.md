@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-182846"
 country: "mx"
 rank: "ley"
 publication_date: "2025-12-14"
-last_updated: "2025-12-14"
+last_updated: "2025-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=182846&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "DUR"
 ---
 # LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE DICIEMBRE DE 2025 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE DURANGO EL 26 DE DICIEMBRE DE 2025.]</small>
 
 Ley publicada en el Número 100 del Periódico Oficial del Estado de Durango, el domingo 14 de diciembre de 2025.
 
@@ -37,7 +37,7 @@ Con fecha 27 de noviembre del presente año, el C. Dr. Esteban Alejandro Villega
 
 EXPOSICIÓN DE MOTIVOS DE LA INICIATIVA
 
-[…]
+[...]
 
 Por lo anteriormente expuesto y considerado, la Comisión que dictaminó, estimó que, al cumplir con las disposiciones constitucionales y legales, la iniciativa cuyo estudio nos ocupa, con las adecuaciones realizadas a la misma, es procedente; lo anterior, con fundamento en lo que dispone el artículo 189, último párrafo de la Ley Orgánica del Congreso del Estado de Durango, en virtud de considerar que las mismas obedecen al mejoramiento de forma y fondo jurídicos.
 
@@ -141,9 +141,11 @@ Para que los conceptos mencionados en este precepto, se excluyan como integrante
 
 El impuesto se determinará aplicando a la base señalada en el artículo anterior, la tasa del 3%.
 
+> <small>(F. DE E., P.O. 26 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 8.
 
-El impuesto se causará en el momento en que se efectúen los pagos a que se refiere el artículo 3 de este capítulo, y se enterará a más tardar el día diecisiete del mes siguiente a aquél en que se causó.
+El impuesto se causará en el momento en que se efectúen los pagos a que se refieren los artículos 3 y 4 de este capítulo, y se enterará a más tardar el día diecisiete del mes siguiente a aquél en que se causó.
 
 ###### ARTÍCULO 9.
 
@@ -185,13 +187,17 @@ II. Las Instituciones de Beneficencia reconocidas por el Gobierno Estatal y Fede
 
 III. Las Instituciones de Educación pública mediante las cuáles el Estado o los Municipios y los organismos descentralizados de 1ambos (sic) órdenes de gobierno, proporcionen el servicio público de educación en los términos de la Ley respectiva;
 
-Los sujetos exentos mencionados en la fracción anterior, serán aquellos que realicen pagos a que se refiere el artículo 3 de esta Ley, exclusivamente por los servicios públicos de educación que sean cubiertos con recursos propios del Estado o de los municipios.
+> <small>(F. DE E., P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Los sujetos exentos mencionados en la fracción anterior, serán aquellos que realicen pagos a que se refieren los artículos 3 y 4 de esta Ley, exclusivamente por los servicios públicos de educación que sean cubiertos con recursos propios del Estado o de los municipios.
 
 IV. Ejidos, comunidades, uniones de ejidos y de comunidades, la empresa social constituida por avecindados e hijos de ejidatarios con derecho a salvo, asociaciones rurales de interés colectivo, unidad agrícola industrial de la mujer campesina y colonias agrícolas y ganaderas; y
 
 V. Las organizaciones de sindicatos de obreros, organismos empresariales, asociaciones de comerciantes e industriales, colegios o asociaciones de profesionistas, y agrupaciones políticas registradas conforme a la Ley de la materia, que no realicen actividades lucrativas.
 
-Los sujetos no contemplados en este artículo, que realicen pagos a que se refiere el artículo 3, de la presente Ley, estarán obligados al pago del Impuesto Sobre Nómina y no cabrá método de interpretación alguno para determinar sujetos exentos que no estén expresamente considerados.
+> <small>(F. DE E., P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Los sujetos no contemplados en este artículo, que realicen pagos a que se refieren los articulas 3 y 4, de la presente Ley, estarán obligados al pago del Impuesto Sobre Nómina y no cabrá método de interpretación alguno para determinar sujetos exentos que no estén expresamente considerados.
 
 La Federación, los Estados y los Municipios estarán exentos del pago de este impuesto, siempre y cuando se indique expresamente.
 
@@ -2853,11 +2859,15 @@ VI. Los aprovechamientos originados por conceptos de recargos, garantías, multa
 
 VII. Los que se deriven de concesiones, contratos y convenios a favor del Estado.
 
+> <small>(F. DE E., P.O. 26 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 147.
 
-Los contribuyentes de los derechos a que se refiere el Capítulo IV, del Título Tercero de esta Ley, aportarán el equivalente al valor de una UMA el que se destinará al auxilio y estímulo de las acciones en materia de salud y protección civil, efectuadas por la Delegación en el Estado de Durango de la Cruz Roja Mexicana, Institución de Asistencia Privada, así como a la Coordinación Estatal de Protección Civil del Estado de Durango, distribuyéndose en lo correspondiente 75% para la Cruz Roja Mexicana y 25% para a la Coordinación Estatal de Protección Civil del Estado de Durango. La cual deberá considerarse en la Ley de Egresos del Estado Durango para el ejercicio fiscal que corresponda.
+Los contribuyentes de los derechos a que se refiere el Capítulo VI, del Título Tercero de esta Ley, aportarán el equivalente al valor de una UMA el que se destinará al auxilio y estímulo de las acciones en materia de salud y protección civil, efectuadas por la Delegación en el Estado de Durango de la Cruz Roja Mexicana, Institución de Asistencia Privada, así como a la Coordinación Estatal de Protección Civil del Estado, distribuyéndose en lo correspondiente 75% para la Cruz Roja Mexicana y 25% para a la Coordinación Estatal de Protección Civil del Estado. La cual deberá considerarse en la Ley de Egresos del Estado Durango para el ejercicio fiscal que corresponda.
 
-Para tal efecto, el Gobierno del Estado de Durango, la Cruz Roja Mexicana, y la Secretaría de Salud con la comparecencia de la Secretaría de Finanzas y de Administración, celebrará con dicha Institución de Asistencia Privada, dentro de los primeros tres meses de cada ejercicio fiscal, el convenio de colaboración correspondiente en el que se establezca el monto total a otorgar, en término de la Ley de Ingresos del Estado vigente en el ejercicio fiscal que corresponda, así como la forma y plazos en los que dicho monto le será entregado. En el caso de la Coordinación Estatal de Protección Civil del Estado de Durango, se seguirán los procedimientos que establezca la Secretaría de Finanzas y de Administración, a través de la Subsecretaría de Egresos.
+> <small>(F. DE E., P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Para tal efecto, el Gobierno del Estado de Durango, la Cruz Roja Mexicana, y la Secretaría de Salud con la comparecencia de la Secretaria de Finanzas y de Administración, celebrará con dicha Institución de Asistencia Privada, dentro de los primeros tres meses de cada ejercicio fiscal, el convenio de colaboración correspondiente en el que se establezca el monto total a otorgar, en término de la Ley de Ingresos del Estado vigente en el ejercicio fiscal que corresponda, así como la forma y plazos en los que dicho monto le será entregado. En el caso de la Coordinación Estatal de Protección Civil del Estado, se seguirán los procedimientos que establezca la Secretaría de Finanzas y de Administración, a través de la Subsecretaría de Egresos.
 
 ## TÍTULO SEXTO. DE LOS INGRESOS EXTRAORDINARIOS
 
@@ -2895,7 +2905,9 @@ Para efectos del entero de los Fondos de Aportaciones a que se refiere el artíc
 
 En el caso de los recursos para el pago de servicios personales previsto en el Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo, las autoridades de control interno del Gobierno del Estado supervisarán, el proceso de integración y pago de la nómina del personal educativo. Asimismo, la Auditoría Superior de la Federación fiscalizará la aplicación de dichos recursos.
 
-Cuando las autoridades del Estado y de los municipios, que en el ejercicio de sus atribuciones de control y supervisión conozcan que los recursos de los Fondos no han sido aplicados a los fines que por cada Fondo se señale en la Ley, deberán hacerlo del conocimiento de la Auditoría Superior de la Federación y de la Secretaría de la Función Pública en forma inmediata.
+> <small>(F. DE E., P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Cuando las autoridades del Estado y de los municipios, que en el ejercicio de sus atribuciones de control y supervisión conozcan que los recursos de los Fondos no han sido aplicados a los fines que por cada Fondo se señale en la Ley, deberán hacerlo del conocimiento de la Auditoría Superior de la Federación y de la Secretaría Anticorrupción y Buen Gobierno en forma inmediata.
 
 Por su parte, cuando la Auditoría Superior del Estado, detecte que los recursos de los Fondos no se han destinado a los fines establecidos en la Ley de Coordinación Fiscal, deberá hacerlo del conocimiento inmediato de la Auditoría Superior de la Federación de la Cámara de Diputados del Congreso de la Unión.
 
