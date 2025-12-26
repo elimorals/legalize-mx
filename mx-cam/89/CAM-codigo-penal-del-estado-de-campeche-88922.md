@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2025-11-05"
+last_updated: "2025-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -4465,6 +4465,8 @@ Si el responsable de los delitos previstos en este Capítulo fuere defensor part
 
 ### CAPÍTULO II. FALSEDAD ANTE AUTORIDAD
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 334.
 
 Al que sin ser abogado, defensor o litigante, simule un acto jurídico o escrito judicial, altere algún elemento de prueba o realice cualquier otro acto tendiente a inducir a error a la autoridad para obtener una resolución judicial o administrativa de la que derive algún perjuicio o beneficio indebido, se le impondrá de seis meses a cuatro años de prisión y multa de cien a quinientos días de salario.
@@ -4473,7 +4475,7 @@ Al que sin ser abogado, defensor o litigante, simule un acto jurídico o escrito
 
 ###### Artículo 335.
 
-Al que rinda protesta, ante cualquier autoridad, de que en sus declaraciones se conducirá con verdad y lo haga con falsedad, se le impondrán de uno a tres años de prisión y multa de ciento cincuenta a trescientos días de salario.
+Al que rinda protesta, ante cualquier autoridad, Notaria o Notario Público en ejercicio de sus funciones o con motivo de ellas, de que en sus declaraciones se conducirá con verdad y lo haga con falsedad, se le impondrán de uno a tres años de prisión y multa de ciento cincuenta a trescientas veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 336.
 
@@ -5584,3 +5586,11 @@ Segundo.- Dentro de los ciento ochenta días siguientes a la entrada en vigor de
 Tercero.- La Fiscalía General del Estado presentará un informe anual ante el Congreso del Estado sobre los criterios y resultados de la aplicación de esta figura, sin vulnerar procesos en curso.
 
 Cuarto.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 155 POR EL QUE "SE REFORMA EL ARTÍCULO 335 DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
