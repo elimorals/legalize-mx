@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-secretaria-de-seguridad-publica-del-180837"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2025-06-27"
-last_updated: "2025-06-27"
+last_updated: "2025-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
 
 Ley publicada en el número 51 del Periódico Oficial del Estado de Coahuila, el viernes 27 de junio de 2025.
 
@@ -171,9 +171,19 @@ XXIX. Proponer los planes, programas y acciones para la implementación, operaci
 
 XXX. Asumir las funciones de dirección, manejo, operación, supervisión y control del servicio de seguridad pública municipal y tránsito, así como de su policía preventiva, previa celebración de los convenios de transferencia específicos suscritos con los municipios conforme a las disposiciones aplicables;
 
-XXXI. Asumir el mando único de la policía de los municipios, en los casos de delitos de alto impacto, previa celebración de los convenios correspondientes;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-XXXII. Las demás que le confieran expresamente esta Ley, otras disposiciones aplicables y aquellas que le encomiende la persona titular del Poder Ejecutivo.
+XXXI. Asumir el mando único de la policía de los municipios, en los casos de delitos de alto impacto, previa celebración de los convenios correspondientes; Diseñar, implementar y evaluar estrategias, programas, políticas y acciones para la prevención y combate del delito de extorsión;
+
+Las estrategias deberán ajustarse a los objetivos y contenidos mínimos de la Estrategia Nacional para Prevenir y Combatir el Delito de Extorsión, a cargo de la Federación;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XXXII. Impulsar espacios de dialogo en los que se promueva la colaboración con instituciones públicas, privadas y sociales en materia de prevención del delito de extorsión;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XXXIII. Las demás que le confieran expresamente esta Ley, otras disposiciones aplicables y aquellas que le encomiende la persona titular del Poder Ejecutivo.
 
 ###### Artículo 4.
 
@@ -220,6 +230,10 @@ l) Centro Estatal de Atención a Emergencias y Contacto Ciudadano:
 1. Unidad de Atención a Emergencias;
 
 2. Unidad de Comités Ciudadanos de Seguridad;
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+3. El Centro de Atención a Denuncias por el Delito de Extorsión;
 
 II. Subsecretaría de la Policía Estatal:
 
@@ -1041,7 +1055,9 @@ Corresponde al Centro de Comunicaciones, Cómputo, Control, Comando e Inteligenc
 
 I. Coordinar y Coadyuvar con la persona titular de la Secretaría, los asuntos que sean de su competencia;
 
-II. Implementar, administrar y desarrollar las herramientas tecnológicas aplicadas a la seguridad pública;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+II. Implementar, administrar y desarrollar las herramientas tecnológicas aplicadas a la seguridad pública; así como los medios tecnológicos, informáticos y de inteligencia para la prevención, investigación y persecución del delito de extorsión, en los términos de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la Fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública, la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública y demás disposiciones jurídicas aplicables;
 
 III. Proveer el uso de las herramientas tecnológicas aplicadas a la seguridad pública, a favor de las instituciones y corporaciones autorizadas en beneficio de la comunidad;
 
@@ -1145,7 +1161,13 @@ XIV. Implementar un sistema o herramienta tecnológica que proporcione seguimien
 
 XV. Implementar, administrar y desarrollar mecanismos y herramientas tecnológicas para la atención efectiva a las emergencias ciudadanas;
 
-XVI. Las demás que le encomiende esta Ley, la persona titular de la Secretaría, otras disposiciones aplicables, los manuales de procedimientos y circulares.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XVI. Implementar en el Servicio Telefónico de Atención de Denuncia Anónima 089, mecanismos para informar a la población, por ese medio, de las acciones que deben realizarse para la prevención del delito de extorsión, así como de los procedimientos para la recepción, registro, canalización, atención y seguimiento de las denuncias por la posible comisión del delito de extorsión.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XVII. Las demás que le encomiende esta Ley, la persona titular de la Secretaría, otras disposiciones aplicables, los manuales de procedimientos y circulares.
 
 ###### Artículo 47.
 
@@ -1155,21 +1177,53 @@ I. Unidad de Atención a Emergencias;
 
 II. Unidad de Comités Ciudadanos de Seguridad.
 
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+III. Unidad Estatal de Atención a Denuncias por el Delito de Extorsión.
+
 ###### Artículo 48.
 
 Corresponde a la Unidad de Atención a Emergencias recibir, atender, despachar y dar seguimiento a los reportes y solicitudes ciudadanas en materia de seguridad, emergencias médicas y de protección civil recibidas a través del número de Emergencias 911, Denuncia Anónima 089 y las herramientas tecnológicas de los Comités Ciudadanos de Seguridad. Así como crear, informar y llevar registro de las estadísticas que resulten de dichos medios de atención a emergencias.
 
-###### Artículo 49.
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 La Unidad de Atención a Emergencias estará encargada de los sistemas digitales que permitan el registro, despacho y creación de estadística basada en los reportes ciudadanos, así como los sistemas para administrar y gestionar las llamadas telefónicas y su georreferenciación.
 
-###### Artículo 50.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 49.
 
 Corresponde a la Unidad de Comités Ciudadanos de Seguridad crear los grupos y comités ciudadanos, así como convocar y capacitar a la ciudadanía de las colonias, gremios, instituciones educativas públicas y privadas, organizaciones civiles, asociaciones, comercios, empresas y municipios en el uso de dichos grupos y comités con el fin de dar seguimiento a los reportes que sean recibidos por ese medio.
 
+Para mantener actualizada la información utilizada por la Unidad de Comités Ciudadanos de Seguridad, se coadyuvará y coordinará con las autoridades municipales, de conformidad con sus atribuciones, para suministrar la información relativa a los reportes y necesidades en materia de seguridad de la ciudadanía integrante de los Comités Ciudadanos.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 50.
+
+Corresponde a la Unidad de Atención a Denuncias por el Delito de Extorsión, implementar los mecanismos y procedimientos para la recepción, registro, canalización, atención y seguimiento de las denuncias por la posible comisión del delito de extorsión, así como fortalecer los mecanismos de vinculación con la ciudadanía para orientar e informar a la población de las acciones que deben realizarse para la prevención de este delito.
+
+La Secretaría, a través de la Unidad de Atención a Denuncias por el Delito de Extorsión, establecerá, en los términos que autorice el titular de la Secretaría, mecanismos de coordinación con el Centro de Atención a Denuncias por el Delito de Extorsión, previsto en Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 51.
 
-Para mantener actualizada la información utilizada por la Unidad de Comités Ciudadanos de Seguridad, se coadyuvará y coordinará con las autoridades municipales, de conformidad con sus atribuciones, para suministrar la información relativa a los reportes y necesidades en materia de seguridad de la ciudadanía integrante de los Comités Ciudadanos.
+La Unidad de Atención a Denuncias por el Delito de Extorsión tendrá las siguientes funciones:
+
+I. Recibir, registrar, atender, dar seguimiento y, en su caso, canalizar ante las autoridades de procuración de justicia que correspondan, las denuncias por la posible comisión del delito de extorsión;
+
+II. Diseñar e implementar programas que fomenten la cultura de la participación ciudadana en la denuncia y prevención del delito de extorsión;
+
+III. Proponer a la persona titular de la Secretaría de Seguridad, en el ámbito de su competencia y en el marco de las estrategias de prevención y combate al delito de extorsión, programas, políticas, los lineamientos y acciones, para mejorar la vinculación y participación de la sociedad, organizaciones y agrupaciones sociales, en áreas relacionadas con la prevención de dicho delito. Asimismo, los mecanismos de coordinación con el Centro de Atención a Denuncias por el Delito de Extorsión del gobierno federal;
+
+IV. Proponer y desarrollar mecanismos de coordinación con las instituciones de seguridad pública del país, para la vinculación y participación ciudadana en áreas relacionadas con la prevención, atención y persecución del delito de extorsión;
+
+V. Implementar, con perspectiva de género, protocolos de atención y respuesta a las denuncias del delito de extorsión, para asegurar que se brinde un trato digno a las personas que las promuevan;
+
+VI. Proponer a la persona titular de la Secretaría de Seguridad las políticas, los lineamientos y programas para mejorar los mecanismos de recepción, canalización y seguimiento de las denuncias, privilegiando el uso de medios tecnológicos, y
+
+VII. Las demás que se establezcan en esta Ley y otros ordenamientos jurídicos aplicables.
 
 ###### Artículo 52.
 
@@ -1955,7 +2009,23 @@ XIV. Proporcionar programas y estrategias sobre riesgos y amenazas que vulneren 
 
 XV. Presentar periódicamente información de coyuntura, análisis y estrategia a la persona titular de la Secretaría y a su vez, del Poder Ejecutivo para establecer tendencias, patrones y elaborar escenarios que sirvan como insumo para la toma de decisiones en materia de seguridad pública;
 
-XVI. Las demás que le encomiende esta Ley, la persona titular de la Secretaría, otras disposiciones aplicables, los manuales de procedimientos y circulares.
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XVI. Implementar estrategias de prevención y combate al Delito de Extorsión ajustándose a los contenidos mínimos de la Estrategia Nacional contra la Extorsión a cargo de la Federación. Las estrategias para prevenir y combatir el Delito de Extorsión tendrán como mínimo los siguientes objetivos:
+
+a. Disuadir oportunamente la comisión del delito de extorsión mediante la implementación, entre otros mecanismos, de campañas permanentes de información y prevención dirigidas a la ciudadanía;
+
+b. Identificar, visibilizar y reducir los factores de riesgo que favorecen la comisión del delito de extorsión;
+
+c. Impedir que las personas resulten ser víctimas del delito de extorsión;
+
+d. Generar información de valor sobre patrones de operación, para su aprovechamiento de las unidades encargadas de investigar y perseguir el delito de extorsión, y
+
+e. Definir metas, líneas de acción y plazos cuantificables para el seguimiento y evaluación de la Estrategia que permitan medir su eficacia y los resultados alcanzados, asegurando la rendición de cuentas y transparencia.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XVII. Las demás que le encomiende esta Ley, la persona titular de la Secretaría, otras disposiciones aplicables, los manuales de procedimientos y circulares.
 
 ###### Artículo 87.
 
@@ -2439,7 +2509,17 @@ XV. Fortalecer el sentimiento de participación cívica de la sociedad en la mat
 
 XVI. Crear y establecer relaciones de confianza y enlace entre las y los elementos de policía de la Secretaría y la ciudadanía que permita establecer las prioridades de la seguridad y desarrollar estrategias especificas contra la delincuencia, riesgos y amenazas a las familias y al Estado en general;
 
-XVII. Las demás que le encomiende esta Ley, la persona titular de la Secretaría, otras disposiciones aplicables, los manuales de procedimientos y circulares.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XVII. Desarrollar campañas de Difusión dirigidas a sensibilizar y prevenir a la población acerca de las modalidades del delito de extorsión, así como emitir medidas de autocuidado para evitar ser víctima de este delito;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XVIII. Impulsar espacios de dialogo en los que se promueva la colaboración con instituciones públicas, privadas y sociales en materia de prevención del delito de extorsión;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XIX. Las demás que le encomiende esta Ley, la persona titular de la Secretaría, otras disposiciones aplicables, los manuales de procedimientos y circulares.
 
 ###### Artículo 106.
 
@@ -2711,7 +2791,17 @@ XXII. Requerir la información y documentación a las autoridades auxiliares en 
 
 XXIII. Implementar, en coordinación con las autoridades auxiliares en materia de medidas cautelares programas y protocolos orientados a la eficacia y cumplimiento de las medidas cautelares y condiciones a su cargo;
 
-XXIV. Las demás que otras leyes, reglamentos, manuales y ordenamientos jurídicos establezcan.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XXIV. Proponer a la persona titular de la Secretaría el establecimiento de los procedimientos y tecnologías de inhibición de entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen a que se refiere el artículo 38 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, así como supervisar su efectiva operación en los Centros Penitenciarios;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XXV. Las demás que otras leyes, reglamentos, manuales y ordenamientos jurídicos establezcan.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+El incumplimiento de la fracción XXIV del presente artículo deberá ser considerado como una falta grave de conformidad con la Ley General de Responsabilidades Administrativas y la Ley General para Prevenir, Investigar y Sancionar el Delito de Extorsión, con independencia del delito en que pudiera incurrir.
 
 ###### Artículo 122.
 
@@ -2952,3 +3042,31 @@ EL SECRETARIO DE GOBIERNO
 LIC. OSCAR PIMENTEL GONZÁLEZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 417.- SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En los procesos penales pendientes de dictarse sentencia en primera y segunda instancia, se estará a lo dispuesto por el artículo cuarto transitorio de la Ley General para la Prevención, Investigación y Sanción en Materia del Delito de Extorsión, Reglamentaria de la fracción XXI, del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+###### ARTÍCULO TERCERO.
+
+Las disposiciones relativas a los delitos de extorsión previstas en el Código Penal de Coahuila de Zaragoza, vigente antes de la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por el delito de extorsión, sus modalidades, agravantes y sanciones, salvo lo dispuesto en el artículo anterior.
+
+Los procedimientos penales en materia de extorsión, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del mismo.
+
+###### ARTÍCULO CUARTO.
+
+Toda referencia en la legislación estatal al delito de extorsión, se entenderá hecha al delito de extorsión previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones que se opongan a este Decreto.
