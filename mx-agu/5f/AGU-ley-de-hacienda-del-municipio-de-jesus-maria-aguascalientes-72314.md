@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-jesus-maria-aguascalientes-723
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-25"
-last_updated: "2023-12-29"
+last_updated: "2025-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE JESÚS MARÍA, AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de enero de 2010.
 
@@ -1555,9 +1555,9 @@ Quedan exentos del pago de este impuesto los bienes inmuebles del dominio públi
 
 La base de este impuesto es el valor catastral de los predios o de las construcciones, en su caso.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-En cuanto a los predios o construcciones que no tengan valores catastrales o estos no se encuentren actualizados o vigentes, servirá de base el último valor catastral con que se encuentren fiscalmente empadronados o el valor de operación del traslado de dominio que se registre, aun tratándose de ventas con reserva de dominio, si éste es mayor que aquéllos.
+En cuanto a los predios o construcciones que no tengan valores catastrales, no se encuentren actualizados o vigentes, o estando actualizados o vigentes, estos no se hubiesen exhibido para su empadronamiento ante esta Secretaría de Finanzas, servirá de base el último valor catastral con que se encuentren fiscalmente empadronados o el valor de operación del traslado de dominio que se registre, aun tratándose de ventas con reserva de dominio, si éste es mayor que aquéllos.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
@@ -1747,7 +1747,7 @@ Cuando con motivo de la adquisición, el adquirente asuma la obligación de paga
 
 En la constitución, adquisición o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino el del avalúo a que se refiere este artículo.
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 168.
 
@@ -1757,41 +1757,31 @@ a) El solicitado a la Secretaría de Finanzas del Municipio con al menos 8 días
 
 b) El realizado por una institución del sistema financiero mexicano o un organismo público de vivienda, siempre que no tenga más de seis meses de practicado;
 
-c) EI realizado por corredor público siempre que no tenga más de seis meses de practicado; o
+c) El realizado por corredor público siempre que no tenga más de seis meses de practicado; o
 
 d) El que realicen personas que cuenten con cédula profesional de valuadores expedida por la Secretaría de Educación Pública, siempre que no tenga más de seis meses de practicado.
 
 El avalúo se acompañará a la declaración para el pago del impuesto sobre adquisición de bienes inmuebles.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
-
-Quedan relevados de la obligación de presentar el avalúo a que se refieren los incisos a) al d) antes señalados, las adquisiciones de inmuebles sobre los cuales se encuentre edificada una vivienda de tipo popular, de interés social o lotes individualizados que estén destinados a la edificación de una vivienda de la misma naturaleza, siempre que se encuentre en fraccionamientos autorizados como de tipo popular o de interés social, cuya superficie de terreno sea inferior a 120m2 (ciento veinte metros cuadrados) y la construcción no sea mayor de 78m2 (setenta y ocho metros cuadrados), siempre que estos inmuebles no excedan el valor descrito por la fracción III del presente artículo. En este caso, la base para el pago del impuesto será el valor de operación.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+En el caso de que el valor comercial determinado con base a los avalúos para efectos fiscales anteriormente enlistados, sea menor al valor de operación, se tomará el valor de operación para el cálculo y determinación del Impuesto Sobre Adquisición de Bienes Inmuebles.
 
 En el caso de los incisos b), c) y d) la Secretaría de Finanzas estará facultada para revisar previamente los avalúos comerciales que le serán presentados y en casos que determine inconsistencias practicar avalúo del inmueble. En caso de resultar superior al del presentado por el contribuyente, el impuesto se calculará sobre el avalúo de la Secretaría de Finanzas del Municipio.
 
 Para determinar el pago de este impuesto se aplicará una exención al valor que resulte del inmueble, en los siguientes casos:
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2017)</small>
-
 I. De cinco veces el valor diario de la Unidad de Medida y Actualización, en el Municipio de Jesús María, elevado al año cuando el inmueble esté construido;
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2017)</small>
-
 II. De dos y medio veces el valor diario de la Unidad de Medida y Actualización, en el Municipio de Jesús María, elevado al año cuando el inmueble no tenga construcción alguna o sólo se encuentre bardeado;
-
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2017)</small>
 
 III. De quince veces el valor diario de la Unidad de Medida y Actualización, en el Municipio de Jesús María, elevado al año cuando se trate de un inmueble popular, de uso habitacional;
 
 Para los efectos señalados en la Fracción III que antecede, se considerarán como inmuebles de tipo popular aquellos que se ubiquen en fraccionamientos autorizados como de tipo popular o de interés social, cuya superficie de terreno sea igual o inferior a 120 metros cuadrados y la superficie de construcción en su caso no sea mayor de 78 metros cuadrados; o
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2017)</small>
-
 IV. De cinco veces el valor diario de la Unidad de Medida y Actualización, elevado al año cuando se trate de terrenos dedicados a la explotación agropecuaria.
 
 Para los fines de esta Ley se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del 50% del valor de la propiedad.
+
+Quedan relevados de la obligación de presentar el avalúo a que se refieren los incisos a) al d) antes señalados, las adquisiciones de inmuebles sobre los cuales se encuentre edificada una vivienda de tipo popular, de interés social o lotes individualizados que estén destinados a la edificación de una vivienda de la misma naturaleza, siempre que se encuentre en fraccionamientos autorizados como de tipo popular o de interés social, cuya superficie de terreno sea inferior a 120m2 (ciento veinte metros cuadrados) y la construcción no sea mayor de 78m2 (setenta y ocho metros cuadrados), siempre que estos inmuebles no excedan el valor descrito por la fracción III del presente artículo. En este caso, la base para el pago del impuesto será el valor de operación, en ningún caso este valor podrá ser inferior al valor catastral, si se presenta este supuesto se pagará con base al valor catastral actualizado.
 
 > <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
 
@@ -1799,11 +1789,17 @@ Para los fines de esta Ley se considera que el usufructo y la nuda propiedad tie
 
 Este impuesto se liquidará y recaudará de conformidad con las cuotas y tasas que para tal efecto señale la Ley de Ingresos del Municipio.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 170.
 
-Este impuesto deberá pagarse dentro de los quince días siguientes, contados a partir de la fecha del otorgamiento del contrato o de los instrumentos en que consta la transmisión de los bienes o derechos reales, mediante declaraciones que se presentarán en la Secretaría de Finanzas Municipal, en las formas oficiales autorizadas para tales efectos.
+Este impuesto deberá pagarse dentro de los 30 (treinta) días hábiles siguientes, contados a partir de la fecha del otorgamiento del contrato o de los instrumentos en que consta la transmisión de los bienes o derechos reales, mediante declaraciones que se presentarán en la Secretaría de Finanzas, en las formas oficiales autorizadas para tales efectos.
+
+En los casos en que se detecte la no conclusión de algún trámite dentro de un lapso de 60 (sesenta) días naturales, la Secretaría de Finanzas estará facultada para solicitarle al fedatario público que lo elaboró, la confirmación o en su caso la cancelación del mismo.
+
+Transcurrido el término anterior, la Secretaría de Finanzas remitirá las constancias que obren a los fedatarios públicos por operar la cancelación de los mismos por inactividad.
+
+Para la continuación de trámites, que previamente fueron cancelados, se cobrará 1 (una) vez el valor diario de la Unidad de Medida y Actualización (UMA), por la retramitación.
 
 ###### ARTÍCULO 171.
 
@@ -2596,3 +2592,11 @@ P.O. 29 DE DICIEMBRE DE 2023.
 Artículo Primero.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Aguascalientes.
 
 Artículo Segundo.- El presente Decreto iniciara su vigencia el día 01 de enero del año 2024.
+
+P.O. 26 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 384.- SE REFORMA LA LEY DE HACIENDA DEL MUNICIPIO DE JESÚS MARÍA, AGUASCALIENTES”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Los procedimientos administrativos de determinación, fiscalización, ejecución o pago de contribuciones iniciados con anterioridad a la entrada en vigor del presente Decreto se regirán por las disposiciones vigentes al momento de su inicio.
