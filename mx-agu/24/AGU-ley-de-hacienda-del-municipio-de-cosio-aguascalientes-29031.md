@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-cosio-aguascalientes-29031"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "2021-12-29"
+last_updated: "2025-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "AGU"
 ---
 # LEY DE HACIENDA DEL MUNICIPIO DE COSIO, AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, PUBLICADA EN EL P.O. DE 26 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE HACIENDA DEL MUNICIPIO DE COSIO, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025 (ABROGADA)
 
 Ley publicada en la Sección Sexta del Alcance del Periódico Oficial del Estado de Aguascalientes, el martes 31 de diciembre de 1985.
 
@@ -948,3 +950,23 @@ P.O. 29 DE DICIEMBRE DE 2021.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor el primero de enero de dos mil veintidós.
+
+P.O. 26 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE HACIENDA DEL MUNICIPIO DE COSÍO, AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Hacienda para el Municipio de Cosío, Aguascalientes, publicada en el Periódico Oficial del Gobierno del Estado el treinta y uno de diciembre de mil novecientos ochenta y cinco y sus posteriores reformas hasta la publicada en el Periódico Oficial del Estado de Aguascalientes el día veintinueve de diciembre de dos mil veintiuno.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efecto las disposiciones administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieren otorgado a título particular, que contravengan o se opongan a lo preceptuado en esta Ley.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos administrativos de ejecución, así como el ejercicio de las facultades de comprobación iniciadas antes de la entrada en vigencia de la presente Ley, y que estén pendientes de concluir, se tramitarán conforme a las disposiciones que se encontraban vigentes al momento en que se inició su trámite.
