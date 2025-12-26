@@ -4,7 +4,7 @@ identifier: "COA-ley-de-la-comision-coahuilense-de-conciliacion-y-arbitraje-9370
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-12"
-last_updated: "2013-04-12"
+last_updated: "2025-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY DE LA COMISION COAHUILENSE DE CONCILIACION Y ARBITRAJE MEDICO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISIÓN PARA LA MEDIACIÓN, CONCILIACIÓN Y ARBITRAJE MÉDICO PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 26 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE LA COMISIÓN COAHUILENSE DE CONCILIACIÓN Y ARBITRAJE MÉDICO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 12 de abril de 2013.
 
@@ -1232,3 +1234,39 @@ LA SECRETARIA DE SALUD
 BERTHA CRISTINA CASTELLANOS MUÑOZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 416.- SE CREA LA LEY DE LA COMISIÓN PARA LA MEDIACIÓN, CONCILIACIÓN Y ARBITRAJE MÉDICO PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la ley de Conciliación y Arbitraje Médico para el Estado de Coahuila de Zaragoza, publicada en el periódico oficial el día doce de abril de dos mil trece, y demás disposiciones que sean contrarias a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Se declara la extinción del organismo público autónomo denominado Comisión Coahuilense de Conciliación y Arbitraje Médico, para lo cual se deberá llevar a cabo su liquidación en los términos de las leyes aplicables y con la intervención de la Secretaría de Finanzas y Fiscalización y Rendición de Cuentas que conforme a derecho corresponda.
+
+###### ARTÍCULO CUARTO.
+
+Los bienes muebles e inmuebles y demás recursos materiales, financieros y humanos del organismo público autónomo denominado Comisión Coahuilense de Conciliación y Arbitraje Médico que se extingue, pasarán a formar parte de la Secretaría de Finanzas, la cual destinará a la Secretaría de Salud en los términos de la normatividad aplicable.
+
+Al personal de la Comisión Coahuilense de Conciliación y Arbitraje Médico se le respetarán sus derechos laborales.
+
+###### ARTÍCULO QUINTO.
+
+Los procedimientos y asuntos que, a la entrada en vigor del presente Decreto, se encuentren en trámite en la Comisión Coahuilense de Conciliación y Arbitraje Médico, se resolverán por la Comisión de Mediación, Conciliación y Arbitraje Médico para el Estado de Coahuila de Zaragoza, de acuerdo a las disposiciones que estaban vigentes al momento en que fueron iniciados.
+
+###### ARTÍCULO SEXTO.
+
+Las referencias hechas en otras disposiciones legales y administrativas a la Comisión Coahuilense de Conciliación y Arbitraje Médico, se entenderán hechas a la Comisión de Mediación, Conciliación y Arbitraje Médico para el Estado de Coahuila de Zaragoza.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se deberá emitir el reglamento interno en un plazo no mayor a ciento veinte días contados a partir de que entre en funciones la Comisión, el cual será elaborado por el propio organismo desconcentrado.
