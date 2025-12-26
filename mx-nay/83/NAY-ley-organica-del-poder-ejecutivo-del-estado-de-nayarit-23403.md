@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-ejecutivo-del-estado-de-nayarit-23403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-21"
-last_updated: "2025-12-05"
+last_updated: "2025-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el jueves 21 de diciembre del 2000.
 
@@ -521,11 +521,25 @@ LXII. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2009)
 
 LXIII. Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios celebrados por la Administración Pública Estatal con la Federación y los Municipios;
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-LXIV. Organizar y autorizar el servicio social, y
+LXIV. Organizar y autorizar el servicio social;
 
-LXV. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+LXV. Formular y conducir la política de la Administración Pública Estatal para establecer medidas que propicien la integridad y la transparencia en la gestión pública;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+LXVI. Promover y consolidar los principios de la transparencia y acceso a la información pública y datos personales;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+LXVII. Impulsar la transparencia proactiva y la publicación de datos en formatos accesibles a la ciudadanía; vigilar la aplicación de las políticas de gobierno y datos abiertos de la Administración Pública Estatal, en términos de las disposiciones jurídicas aplicables, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN LXV], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+LXVIII. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2011)</small>
 
@@ -2986,3 +3000,13 @@ Tercero. En un plazo de 180 días hábiles contados a partir de la entrada en vi
 Cuarto. Los centros penitenciarios tendrán 180 días hábiles contados a partir de la entrada en vigor del presente Decreto para establecer los procedimientos y tecnologías de inhibición de entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen a que se refiere el artículo 38 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
 Quinto. Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento, por lo que no incrementarán su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
+
+P.O. 26 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS FRACCIONES AL ARTÍCULO 32 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT, EN MATERIA DE TRANSPARENCIA Y PROTECCIÓN DE DATOS PERSONALES”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
+
+TERCERO. El Poder Ejecutivo del Estado de Nayarit en un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente Decreto deberá realizar las reformas y adecuaciones al marco normativo que resulten necesarias, a fin de armonizarlos al presente Decreto.
