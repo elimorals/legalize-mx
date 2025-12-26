@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-sistema-estatal-de-seguridad-ciudadana-de-baja-146020"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2025-12-15"
+last_updated: "2025-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección XI del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2020.
 
@@ -93,7 +93,9 @@ Estas acciones tendrán como eje central a las personas, asegurando en todo mome
 
 En los casos de desastres y emergencias en el Estado, las Instituciones de Seguridad se coordinarán con las de protección civil, para salvaguardar con mayor oportunidad los intereses de la colectividad.
 
-Las Instituciones de Seguridad serán de carácter civil, disciplinado y profesional, su actuación se regirá además, por los principios de legalidad, objetividad, eficacia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Las Instituciones de Seguridad serán de carácter civil, disciplinado y profesional, su actuación se regirá además, por los principios de legalidad, objetividad, eficacia, profesionalismo, honradez, así como por la perspectiva de género, el amor a la patria, el federalismo cooperativo, la protección de la persona, su dignidad y el respeto a los derechos humanos con enfoque diferenciado e incluyente.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -131,7 +133,9 @@ Las acciones para proteger los derechos en materia de seguridad deberán ejecuta
 
 Para efectos de esta Ley, además de los conceptos contenidos en la Ley General del Sistema Nacional de Seguridad Pública, se entenderá por:
 
-I.- Comisión: La instancia colegiada de las Instituciones de Seguridad de orden estatal o municipal, y de la Fiscalía General, responsable de conocer y resolver los procedimientos de carrera policial y del régimen disciplinario de los Miembros de las Instituciones Policiales a su cargo;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+I.- Comisión: Las instancias colegiadas de las Instituciones de Seguridad de orden estatal o municipal, y de la Fiscalía General, responsables de conocer y resolver los procedimientos de carrera policial y del régimen disciplinario de los Miembros de las Instituciones Policiales a su cargo, respectivamente;
 
 II.- Comisión Estatal: La Comisión Estatal del Sistema Penitenciario de Baja California;
 
@@ -141,7 +145,11 @@ IV.- Consejo Ciudadano: El Consejo Ciudadano de Seguridad, la instancia colegiad
 
 V.- Consejo Nacional: El Consejo Nacional de Seguridad Pública;
 
-VI.- Contraloría Interna: El órgano de la Institución de Seguridad, Fiscalía o aquél que en los respectivos reglamentos se designe, encargado de la investigación administrativa, de solicitar a la Comisión el inicio del procedimiento de remoción del cargo o separación definitiva y demás facultades a que refiere la Ley y los reglamentos respectivos;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+VI.- Unidad de Asuntos Internos: El órgano, encargado de la investigación administrativa, de solicitar a la Comisión el inicio del procedimiento de remoción del cargo o separación definitiva y demás facultades a que refiere la Ley y los reglamentos respectivos;
+
+En el ámbito estatal, esta función será ejercida por las unidades correspondientes de la Secretaría, la Fiscalía General y la Comisión Estatal del Sistema Penitenciario; y en el ámbito municipal, por las Sindicaturas, en su carácter de órganos de control interno, o por el ente que se determine en los respectivos reglamentos.
 
 VII.- Elementos de Apoyo: Los servidores públicos de las Instituciones de Seguridad que no pertenecen a la Carrera Policial, Ministerial o Pericial;
 
@@ -243,23 +251,39 @@ V.- Aquellos que determine la Ley General y el Sistema Nacional.
 
 Las políticas en materia de prevención social del delito y las violencias delimitarán la participación organizada de la sociedad y sus niveles de actuación en la materia.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 9.
 
 Las Instituciones de Seguridad se regirán, para la debida coordinación en la implementación de sus acciones, bajo las bases siguientes:
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 I.- Establecer políticas, programas y acciones complementarias de los distintos órdenes de gobierno en la materia que corresponda, de acuerdo a su competencia, a efecto de eficientizar la aplicación, destino e impacto de los recursos públicos;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 II.- Articular acciones interinstitucionales con las autoridades y auxiliares del Sistema Estatal, a fin de ampliar la cobertura de servicios, de atención a la ciudadanía y la interconexión de los aspectos tecnológicos;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 III.- Propiciar la participación ciudadana;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 IV.- Garantizar el respeto a los derechos humanos y su protección con enfoque diferencial y perspectiva de género;
 
-V.- Salvaguardar y compartir la información sobre seguridad, que en el ámbito de su competencia o participación, deba formar parte del Sistema Estatal de Información, y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-VI.- Las demás que para el cumplimiento de los fines de la seguridad dispongan la Ley General y la Ley General para la Prevención Social de la Violencia y Delincuencia; los acuerdos del Sistema Nacional y las disposiciones normativas en la materia.
+V.- Salvaguardar y compartir la información sobre seguridad, que en el ámbito de su competencia o participación, deba formar parte del Sistema Estatal de Información;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+VI.- Participar en las convocatorias a reuniones de trabajo y en las mesas de trabajo regionales convocadas o propuestas por la Secretaría de Seguridad y Protección Ciudadana Federal; y,
+
+> <small>(REFORMADA [N. DE E. REFORMADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+VII.- Las demás que para el cumplimiento de los fines de la seguridad dispongan la Ley General y la Ley General para la Prevención Social de la Violencia y Delincuencia; los acuerdos del Sistema Nacional, Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública y las disposiciones normativas en la materia.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -345,13 +369,13 @@ Las Instituciones de Seguridad darán amplia difusión al Programa destacando la
 
 El Poder Ejecutivo del Estado, la Fiscalía General y los municipios informarán anualmente al Congreso del Estado los resultados y avances del Programa, y por separado de cualquier otro informe que legalmente deban rendir, sin perjuicio de la atribución que le asiste de recabar información sobre casos o materias concretas en los términos de Ley. El Congreso del Estado evaluará los avances y remitirá sus observaciones a dichas autoridades.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-### CAPÍTULO III. DEL CONSEJO ESTATAL DE SEGURIDAD CIUDADANA
+### CAPÍTULO III. DEL CONSEJO ESTATAL DE SEGURIDAD CIUDADANA, MESAS DE PAZ E INSTANCIAS DE COORDINACIÓN
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-#### SECCIÓN PRIMERA. DEL PERSONAL, ARMAMENTO, VEHÍCULOS Y EQUIPOS DE COMUNICACIÓN
+#### SECCIÓN I. CONSEJO ESTATAL DE SEGURIDAD CIUDADANA
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -389,35 +413,63 @@ Las personas integrantes del Consejo Estatal deberán nombrar un suplente en cas
 
 La persona Titular de la Presidencia del Consejo Estatal invitará a participar permanentemente en las sesiones a las personas titulares de la Presidencia de la Comisión Estatal de los Derechos Humanos de Baja California; de la Presidencia de la Comisión del Congreso del Estado cuyas funciones se relacionen con la seguridad y de la Presidencia del Consejo Ciudadano, con derecho a voz pero sin voto.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 15.
 
 El Consejo Estatal tendrá a su cargo los asuntos siguientes:
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 I.- Proponer el contenido del Programa; los objetivos y las metas estatales en materia de seguridad, así como las políticas, estrategias y acciones necesarias para su cumplimiento;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 II.- Dar seguimiento y evaluar el cumplimiento de los objetivos y las metas estatales en materia de seguridad, así como de los acuerdos y las disposiciones emitidas por el Consejo Nacional;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 III. - Proponer al Consejo Nacional y a las Conferencias que integran el Sistema Nacional acuerdos, programas específicos y convenios sobre las materias de coordinación que establece la Ley General y esta Ley;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 IV.- Sugerir la elaboración de instrumentos de planeación en materia de seguridad y la definición de sus objetivos, indicadores, metas, estrategias, líneas de acción y de cualquier otra información que deban contener;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 V.- Emitir acuerdos para el mejoramiento de la organización y el funcionamiento del Sistema Estatal o el desempeño de la seguridad en el Estado;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 VI.- Impulsar la efectiva coordinación entre las autoridades estatales en materia de seguridad y justicia;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 VII.- Conformar mediante acuerdos las comisiones de trabajo que estime necesarias para el debido cumplimiento de sus funciones, conforme a las disposiciones que en los mismos se establezcan;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 VIII.- Fomentar la coordinación entre el Sistema Nacional y el Sistema Estatal, y formular propuestas de acuerdos o acciones específicas al Consejo Nacional o las conferencias nacionales;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 IX.- Efectuar en términos de la Ley General, propuestas para la conformación, la organización y el funcionamiento de instancias regionales o intermunicipales de coordinación, así como para la vinculación del Sistema Estatal con otros sistemas locales de seguridad;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 X.- Propiciar la participación ciudadana en el diseño, la implementación, el seguimiento y la evaluación de estrategias y acciones en materia de prevención de las violencias y del delito, así como del desempeño de las Instituciones de Seguridad;
 
-XI.- Designar a los Presidentes Municipales que conformarán la Conferencia Nacional de Seguridad Pública Municipal de conformidad con lo previsto en la Ley General, y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-XII.- Los demás que le asignen las leyes, el Consejo Nacional y Consejo Estatal, así como las que sean necesarias para promover en todo tiempo la efectiva coordinación y funcionamiento en materia de seguridad.
+XI.- Designar a los Presidentes Municipales que conformarán la Conferencia Nacional de Seguridad Pública Municipal de conformidad con lo previsto en la Ley General;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XII.- Promover el diálogo intercultural y el respeto a los derechos colectivos de los pueblos y comunidades indígenas, afrodescendientes y equiparables a través de mecanismos de consulta, participación y coordinación con sus autoridades representativas y sistemas normativos propios, en las decisiones relacionadas con la seguridad pública y la operación de las Instituciones de Seguridad en sus territorios, reconociendo su autonomía, formas de organización y modelos de seguridad comunitaria; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XIII.- Los demás que le asignen las leyes, el Consejo Nacional y Consejo Estatal, así como las que sean necesarias para promover en todo tiempo la efectiva coordinación y funcionamiento en materia de seguridad.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -432,6 +484,10 @@ En caso de empate, el voto de calidad será otorgado por la persona titular de l
 Las sesiones del Consejo Estatal serán válidas siempre que se cuente con la asistencia de la mitad más uno de los integrantes, y esté presente la persona titular del Poder Ejecutivo o su suplente.
 
 El Consejo Estatal operará y funcionará conforme al reglamento y las demás disposiciones normativas que resulten aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Asimismo, invitarán a sus sesiones a personas representantes de la sociedad civil o de la comunidad, en atención a los temas a tratar, cuya participación será honorífica y, por lo tanto, sin remuneración.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -451,15 +507,101 @@ V.- Coordinar acciones entre las policías estatales y municipales, y
 
 VI.- Las demás que le asignen las leyes y reglamentos, así como las que sean necesarias para promover en todo tiempo la efectiva coordinación y funcionamiento en materia de seguridad.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+#### SECCIÓN II. MESAS DE PAZ
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 17 BIS.- Las mesas de paz son las instancias de decisión ejecutiva y de coordinación inmediata de las Instituciones de Seguridad.
+
+A las mesas de paz deberán asistir las personas titulares de:
+
+I. El Poder Ejecutivo, quien la presidirá;
+
+II. La Secretaría de Seguridad Ciudadana;
+
+III. La Secretaría General de gobierno;
+
+IV. La Fiscalía General del Estado;
+
+V. La Agencia Estatal de Investigación;
+
+VI. Las representaciones de las Fuerzas Armadas, la Guardia Nacional y de la zona naval en la región;
+
+VII. La estación estatal del Centro Nacional de Inteligencia;
+
+VIII. El Centro Estatal de Inteligencia Preventiva;
+
+IX. El Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano;
+
+X. La delegación de los programas de bienestar del Gobierno Federal en el Estado; y,
+
+XI. La representación de la Secretaría de Gobernación del Gobierno Federal, quien fungirá como la Secretaría Técnica.
+
+El Poder Judicial del Estado será invitado permanente. Asimismo, previo acuerdo de las personas integrantes de la mesa de paz, se podrá convocar a las personas titulares de los gobiernos municipales con la finalidad de establecer acciones de coordinación y evaluación de resultados, así como las personas titulares de otras instituciones.
+
+En el caso de los municipios, se podrán establecer mesas de paz regionales integradas por dos o más municipios y presididas, de manera rotativa, por las personas titulares de los ejecutivos municipales que las integren, mismas que replicarán el modelo de las mesas de paz estatales y que deberán tener representación tanto del Ejecutivo Estatal como de las Instituciones de Seguridad del Estado y del Gobierno Federal.
+
+La mesa de paz deberá sesionar de forma ordinaria todos los días hábiles y, de forma extraordinaria, las veces que convoque la presidencia.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 17 TER.- La mesa de paz tendrá los siguientes objetivos:
+
+I. Conocer y analizar los datos relacionados con los delitos de alto impacto, así como las tendencias de incidencia delictiva a nivel estatal y municipal;
+
+II. Analizar los casos de alto impacto ocurridos a nivel del Estado y los municipios;
+
+III. Coordinar las acciones de gobierno orientadas a la atención a las causas de las violencias y la construcción de la paz;
+
+IV. Informar de las acciones operativas relevantes llevadas a cabo por las instituciones que lo conforman;
+
+V. Informar de los asuntos relevantes en materia de gobernabilidad del Estado y los municipios;
+
+VI. Diseñar e implementar acciones operativas;
+
+VII. Evaluar de forma permanente la estrategia de seguridad pública del Estado, así como los resultados y las acciones operativas implementadas;
+
+VIII. Coordinar acciones con la Fiscalía General del Estado y el Poder Judicial del Estado; y,
+
+IX. Las demás necesarias para su funcionamiento.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+#### SECCIÓN III. MODELOS E INSTANCIAS DE COORDINACIÓN
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 17 QUATER.- El mando único es el modelo de coordinación policial en el que se centralizan, a cargo del Estado, las labores de seguridad pública en una sola Institución, tanto en lo operativo como en lo administrativo.
+
+El mando único se establecerá cuando el municipio no cuente con policía, cuando así lo determine el Consejo Estatal de Seguridad Ciudadana o cuando así lo solicite el municipio.
+
+En cualquiera de estos supuestos, la implementación del mando único deberá garantizar:
+
+I. La continuidad de la prestación del servicio de seguridad pública en el ámbito municipal;
+
+II. La transparencia y la rendición de cuentas en la gestión y aplicación de los Fondos de Ayuda Federal destinados a los municipios; y,
+
+III. La formalización de instrumentos que definan las funciones operativas, administrativas y financieras, así como los mecanismos de supervisión y evaluación.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 17 QUINQUIES.- El mando coordinado es el modelo de organización policial en el que se centralizan las labores operativas de seguridad pública en una institución, mientras que las labores administrativas relacionadas con estas continúan bajo la responsabilidad de las autoridades municipales.
+
+El mando coordinado se podrá establecer a través de convenios entre el Estado y el municipio.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 17 SEXIES.- Cuando para el cumplimiento de la función de seguridad pública sea necesaria la participación de dos o más municipios del Estado, se podrán establecer instancias de coordinación, con carácter temporal o permanente.
+
+En caso de que estas instancias se formalicen a través de acuerdos o convenios de colaboración, estos deberán suscribirse con arreglo a lo dispuesto en las disposiciones aplicables y en congruencia con la respectiva estrategia de seguridad pública del Estado, para lo que deberán coordinarse con la Secretaría.
+
+Las instancias de coordinación deberán designar una persona como enlace con el Secretariado Ejecutivo y con la o el representante al que se hace referencia en el artículo 39 de la Ley General, a quienes deberán informar su instalación y objetivos.
+
+Las instancias de coordinación podrán solicitar el apoyo de la Federación y del Estado, con las que procurarán coordinarse y cooperar para realizar acciones de prevención de las violencias y del delito, la persecución de este, operativos, tareas de proximidad, investigación y las demás necesarias para el cumplimiento de los fines de la seguridad pública, en el ámbito de sus competencias.
+
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
-
-#### SECCIÓN SEGUNDA. DEL REGISTRO DE DETENCIONES E INFORME POLICIAL HOMOLOGADO
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
-
-#### SECCIÓN TERCERA. DEL REGISTRO E IDENTIFICACIÓN DE PERSONAS Y GENERADORES DE VIOLENCIA
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ### CAPÍTULO IV. DE LA SECRETARÍA DE SEGURIDAD CIUDADANA
 
@@ -469,43 +611,77 @@ VI.- Las demás que le asignen las leyes y reglamentos, así como las que sean n
 
 La Secretaría es la dependencia de la administración pública estatal encargada de la preservación de la seguridad y convivencia ciudadana, de los espacios destinados al uso y disfrute público, así como de la prevención de las violencias y delitos, con la participación activa de la ciudadanía, la cual se regirá por lo dispuesto en esta Ley y demás ordenamientos aplicables.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 19.
 
 Además de las atribuciones previstas en la Constitución Política del Estado Libre y Soberano de Baja California y la Ley Orgánica del Poder Ejecutivo del Estado de Baja California, en materia de seguridad ciudadana, corresponden a la Secretaría, las siguientes:
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 I.- Garantizar que los fines de la seguridad ciudadana se cumplan;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 II.- Proponer al Consejo Estatal las medidas necesarias para garantizar el adecuado funcionamiento del Sistema Estatal;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 III.- Ejecutar y dar seguimiento a los acuerdos, resoluciones y bases de colaboración que en el ámbito de su competencia determinen el Consejo Estatal y la persona titular de la Presidencia del Consejo Estatal;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 IV.- Verificar que los programas, estrategias, acciones, políticas y servicios que se adopten por el Consejo Estatal, se coordinen entre sí, y que cumplan con los lineamientos y acuerdos generales que éste dicte;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 V.- Promover las acciones de coordinación, colaboración y concertación necesarias entre las Instituciones de Seguridad y los ciudadanos para el cumplimiento de los fines del Sistema Estatal;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 VI.- Presentar al Consejo Nacional los informes que den seguimiento a los acuerdos y resoluciones adoptados por dicho Consejo y sus Conferencias;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 VII.- Celebrar con la autorización de la persona titular del Poder Ejecutivo del Estado los convenios que resulten necesarios para el cumplimiento de sus atribuciones o fines del Sistema Estatal;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 VIII.- Informar periódicamente al Consejo Estatal y a la persona titular del Poder Ejecutivo del Estado de sus actividades;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 IX.- Publicar los informes de actividades del Consejo Estatal;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 X.- Conducir la operación policial de las Instituciones de Seguridad, respetando sus respectivos ámbitos de competencia, y de conformidad con las políticas y lineamientos del Consejo Estatal y el Programa;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 XI.- Desarrollar los procesos de selección de aspirantes, ingreso, permanencia, desarrollo, evaluación, certificación y promoción de los miembros, Elementos de Apoyo y personal operativo de los Prestadores de Servicios de Seguridad Privada a cargo de la Secretaría;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 XII.- Tramitar, administrar y controlar las acciones necesarias para la autorización y el correcto funcionamiento de la Licencia Oficial Colectiva respectiva para la portación de armas;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 XIII.- Implementar en caso de ser necesario y con independencia de que otras Instituciones de Seguridad desarrollen programas educativos para el cumplimiento de sus atribuciones, programas de nivel medio superior y superior en sus diferentes tipos y modalidades, ajustándose a lo dispuesto en la normatividad en la materia;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 XIV.- Gestionar ante las autoridades competentes, la ministración de los fondos de seguridad, de conformidad con los criterios aprobados por el Consejo Estatal y las demás disposiciones aplicables;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 XV.- Supervisar, en coordinación con las demás instancias competentes, la correcta aplicación de los recursos de los fondos por las Instituciones de Seguridad;
 
-XVI.-· Presentar quejas o denuncias ante las autoridades competentes por el incumplimiento de la Ley, los acuerdos generales, los convenios y demás disposiciones aplicables, así como por el uso ilícito o indebido de los recursos a que se refiere el artículo 142 de la Ley General;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XVI.- Presentar quejas o denuncias ante las autoridades competentes por el incumplimiento de la Ley, los acuerdos generales, los convenios y demás disposiciones aplicables, así como por el uso ilícito o indebido de los recursos a que se refiere el artículo 114 de la Ley General;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 XVII.- Dictar los lineamientos para la coordinación de las Instituciones de Seguridad y las dependencias y entidades estatales y municipales, órganos autónomos y demás instituciones públicas que directa o indirectamente coadyuven en temas relacionados con la seguridad, a efecto de integrar el Sistema Estatal de Información;
 
@@ -513,13 +689,25 @@ XVII.- Dictar los lineamientos para la coordinación de las Instituciones de Seg
 
 XVIII.- Disponer la ejecución de las medidas de seguridad necesarias a fin de proteger la vida de la población, sus bienes y el entorno, brindándoles oportuno y eficaz auxilio, en los casos previstos en la Ley General de Protección Civil y demás disposiciones aplicables;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-XIX.- Procurar e impulsar la celebración de convenios de coordinación con la autoridad federal competente para realizar actividades de reparación de armamento de las instituciones policiales; y,
+XIX.- Procurar e impulsar la celebración de convenios de coordinación con la autoridad federal competente para realizar actividades de reparación de armamento de las instituciones policiales;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-XX.- Las demás que para el cumplimiento de los fines de la seguridad dispongan la Ley General, la Ley General para la Prevención Social de la Violencia y Delincuencia; los acuerdos del Sistema Nacional y las disposiciones normativas en la materia.
+XX.- En materia de inteligencia, validar y certificar, previo requerimiento del Centro Nacional de Inteligencia, la información referente a registros de detenciones, de armamento y equipo, así como la información suministrada por personas prestadoras de servicios de seguridad privada en la entidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XXI.- Informar al Consejo Nacional de Inteligencia en Seguridad Pública, cada seis meses, sobre todos los sistemas de inteligencia, información, registros y recursos tecnológicos con los que cuente para el desarrollo de sus actividades, así como su funcionamiento, características, alcances y medidas de control. Dicho informe deberá incluir la presentación de resultados estadísticos y de rendimiento de todas sus investigaciones, operaciones, casos y detenciones concretas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XXII.- Asistir al Consejo Estatal de Seguridad Ciudadana, así como a las Mesas de Paz, a las Mesas de Paz Regional y a la Conferencia Nacional de Secretarías de Seguridad Pública, cuando se le convoque; y,
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XXIII.- Las demás que para el cumplimiento de los fines de la seguridad dispongan la Ley General, la Ley General para la Prevención Social de la Violencia y Delincuencia, Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública; los acuerdos del Sistema Nacional y las disposiciones normativas en la materia.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -601,23 +789,35 @@ La operación policial de los miembros de las Instituciones Policiales y la Agen
 
 Los miembros de las Instituciones Policiales y de la Agencia Estatal de Investigación están facultados para el uso legal de la fuerza en los términos previstos en la Ley Nacional Sobre el Uso de la Fuerza, conforme a los protocolos establecidos y el pleno respeto a los derechos humanos. Cualquier abuso será sancionado conforme a la legislación penal aplicable.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 23.
 
 Son Instituciones Policiales en el Estado, las siguientes:
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 I.- La Fuerza Estatal de Seguridad Ciudadana;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 II.- La Fuerza Estatal de Seguridad y Custodia Penitenciaria;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 III.- La Policía Municipal; y,
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 IV.- Las demás que se constituyan con estricto apego a la Ley.
 
-Las Instituciones Policiales estarán facultadas para desarrollar las funciones establecidas en el artículo 77 de la Ley General, en términos de lo previsto en su último párrafo.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-Las Instituciones Policiales, de acuerdo a su ámbito competencial, y para la consecución del orden, la paz y tranquilidad públicos; desplegarán acciones de proximidad, comunicación y participación directa con los ciudadanos.
+Las instituciones señaladas en las fracciones I y II son de carácter estatal, mientras que la establecida en la fracción III corresponde al ámbito municipal.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Las Instituciones Policiales, de acuerdo con su ámbito competencial, y para la consecución del orden, la paz y tranquilidad públicos; desplegarán acciones de proximidad, comunicación y participación directa con los ciudadanos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -641,6 +841,66 @@ V.- Las demás que se constituyan con estricto apego a la Ley.
 
 La Agencia Estatal de Investigación es la Unidad Administrativa conducida por el Ministerio Público que ejerce funciones de policía de investigación, la cual se regirá de acuerdo a lo establecido en la Ley Orgánica de la Fiscalía General del Estado de Baja California.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 25 BIS.- Las Instituciones Policiales del Estado tendrán las siguientes funciones:
+
+I. Prevenir las violencias y los delitos en el ámbito de su competencia;
+
+II. Recibir reportes y denuncias sobre hechos que puedan ser constitutivos de delitos y faltas administrativas e informar a la autoridad competente;
+
+III. Realizar las investigaciones necesarias para el esclarecimiento de los hechos probablemente constitutivos de delitos;
+
+IV. Realizar análisis criminal y de contexto que permita generar productos, identificar patrones criminales y tendencias delictivas que sean de relevancia y utilidad para la investigación y la persecución de los delitos;
+
+V. Coadyuvar con las autoridades federales para la prevención, investigación y persecución de los delitos federales;
+
+VI. Realizar labores de primer respondiente, incluyendo la recepción de denuncias y aquellas para la preservación de la vida; la preservación del lugar de los hechos; el aseguramiento de bienes, instrumentos, objetos o productos del delito que puedan servir como evidencia en el proceso penal, y la identificación de personas víctimas, testigos y respecto de quienes existan razones que justifiquen su localización para fines de investigación, entre otras;
+
+VII. Realizar labores de seguridad, en el ámbito de su competencia;
+
+VIII. Garantizar, mantener y restablecer el orden y la paz públicos;
+
+IX. Coordinarse con las policías municipales en el Estado y con las policías de otras entidades federativas, en su caso;
+
+X. Prestar el servicio de seguridad pública cuando, con independencia de la razón que lo motive, un municipio no cuente con policía propia o, ante alguna situación, esta no pueda hacer frente a la amenaza que se presente;
+
+XI. Proximidad, prevención de las violencias y del delito, vialidad y atención de faltas administrativas en los casos en los que algún municipio justifique su necesidad o no cuente con policía propia; y,
+
+XII. Las demás establecidas en las normas aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 25 TER.- Las Instituciones Policiales de los municipios, tendrán las siguientes funciones:
+
+I. Proximidad, solución de conflictos, prevención de las violencias y del delito, vialidad y atención de faltas administrativas;
+
+II. Apoyo a las Instituciones de Seguridad del Estado en situaciones que requieran de mayor capacidad disuasiva o de respaldo y garantizar, mantener y restablecer el orden público;
+
+III. Labores de primer respondiente, incluyendo la recepción de denuncias y aquellas para la preservación de la vida; la preservación del lugar de los hechos; el aseguramiento de bienes, instrumentos, objetos o productos del delito que puedan servir como evidencia en el proceso penal, y la identificación de personas víctimas, testigos y respecto de quienes existan razones que justifiquen su localización para fines de investigación, entre otras análogas;
+
+IV. Investigación y de análisis criminal en los casos en los que cuente con una unidad de investigación certificada; y,
+
+V. Las demás establecidas en la normativa aplicable.
+
+Las policías de los municipios deberán organizarse, estructurarse y distribuirse conforme a las necesidades específicas de su territorio. Asimismo, deberán contar con la certificación institucional correspondiente, de acuerdo con los lineamientos y requisitos que, para tal efecto, establezca el Secretariado Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 25 QUATER.- Las policías que presten servicios en instituciones penitenciarias del Estado tendrán, al menos, las siguientes funciones:
+
+I. Realizar labores de seguridad y custodia penitenciaria, en el ámbito de su competencia;
+
+II. Prevenir las violencias y los delitos en el ámbito de su competencia;
+
+III. Hacer del conocimiento del Ministerio Público de los hechos que puedan ser constitutivos de delito;
+
+IV. Garantizar, mantener y restablecer el orden y la paz en los centros de reinserción social a los que se encuentren adscritos;
+
+V. Coordinarse con otras Instituciones de Seguridad para el ejercicio de sus funciones; y,
+
+VI. Las que determinen las demás disposiciones aplicables.
+
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ### CAPÍTULO VII. DE LA EVALUACIÓN Y CONTROL DE CONFIANZA
@@ -659,7 +919,9 @@ Los procesos de selección de aspirantes, ingreso, permanencia, desarrollo, eval
 
 Para la evaluación y control de confianza, se deberá observar lo siguiente:
 
-I.- Aplicar los procedimientos de evaluación y de control de confianza conforme a los criterios expedidos por el Centro Nacional de Certificación y Acreditación. En la aplicación de estos procedimientos, se deberán respetar los derechos humanos reconocidos en la Constitución Federal y en los tratados internacionales;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+I.- Aplicar los procedimientos de evaluación y de control de confianza conforme a los criterios expedidos por el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública. En la aplicación de estos procedimientos, se deberán respetar los derechos humanos reconocidos en la Constitución Federal y en los tratados internacionales;
 
 II.- Proponer lineamientos para la verificación y control de certificación;
 
@@ -671,9 +933,13 @@ V.- Verificar el cumplimiento de los perfiles médico, ético y de personalidad;
 
 VI.- Comprobar los niveles de escolaridad;
 
-VII.- Aplicar el procedimiento de certificación aprobado por el Centro Nacional de Certificación y Acreditación;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-VIII.- Expedir y actualizar los certificados conforme a los formatos autorizados por el Centro Nacional de Certificación y Acreditación;
+VII.- Aplicar el procedimiento de certificación aprobado por el Centro que para tal efecto se determine por las autoridades de la Federación;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+VIII.- Expedir y actualizar los certificados conforme a los formatos autorizados por el Centro que para tal efecto se determine por las autoridades de la Federación;
 
 IX.- Informar a las autoridades competentes sobre los resultados de las evaluaciones que practiquen;
 
@@ -689,7 +955,9 @@ XIV.- Elaborar los informes de resultados para la aceptación o rechazo de los a
 
 XV.- Proponer la celebración de convenios con otras Instituciones de Seguridad, así como otras autoridades, cuyos fines se relacionen con el desarrollo de los procesos de evaluación y control de confianza de su personal, y
 
-XVI.- Las demás que en el ámbito de su función, disponga la Ley General y los acuerdos del Sistema Nacional y las disposiciones normativas en la materia.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XVI.- Las demás que en el ámbito de su función, disponga la Ley General y los acuerdos del Sistema Nacional, Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública y las disposiciones normativas en la materia.
 
 El Estado y los municipios implementarán medidas de registro y seguimiento para quienes sean separados del servicio por no obtener el certificado referido en esta Ley.
 
@@ -741,13 +1009,15 @@ XII.- Realizar los estudios para detectar las necesidades de capacitación para 
 
 Dentro de los cursos se comprenderá la prestación de los primeros auxilios, para lo cual se deberá contar con el equipo necesario para tal efecto.
 
-XIII.- Emitir las convocatorias para el ingreso al servicio de los Miembros de las Instituciones Policiales del Estado y de la Agencia Estatal de Investigación;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XIII.- Promover y emitir las convocatorias para el ingreso de las personas candidatas a formar parte de las Instituciones Policiales del Estado y de la Agencia Estatal de Investigación;
 
 XIV.- Tramitar los registros, autorizaciones y reconocimiento de los planes y programas de estudio ante las autoridades competentes;
 
 XV.- Expedir documentos de las actividades para la profesionalización que impartan;
 
-XVI.· Proponer la celebración de convenios con instituciones educativas nacionales y extranjeras, públicas y privadas, con objeto de brindar formación académica de excelencia, y
+XVI.- Proponer la celebración de convenios con instituciones educativas nacionales y extranjeras, públicas y privadas, con objeto de brindar formación académica de excelencia, y
 
 XVII.- Las demás que establezcan las disposiciones legales aplicables.
 
@@ -817,25 +1087,47 @@ Los Municipios, los Prestadores de Servicios de Seguridad Privada, las Instituci
 
 El incumplimiento a esta obligación por parte de las autoridades a que se refiere el párrafo anterior será sancionado conforme a la Ley de Responsabilidades Administrativas del Estado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Todas las Instituciones de Seguridad del Estado de Baja California deberán integrar al Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública las bases de datos, archivos de sus sistemas de inteligencia y cualquier otra fuente en su poder que resulte necesaria para la identificación y esclarecimiento de los hechos delictivos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Las plataformas, sistemas y archivos deberán atender los lineamientos que emita el Centro Nacional de Inteligencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 34.
 
 Para la debida operación de la plataforma tecnológica que sustenta el Sistema Estatal de Información, el Centro Estatal de Inteligencia Preventiva tendrá las siguientes funciones:
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 l.- Establecer lineamientos para la funcionalidad, operación, respaldo, reconstrucción y seguridad de la información que integra el Sistema Estatal de Información;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 II.- Proponer acciones y mecanismos de coordinación entre las Instituciones de Seguridad, para el desarrollo tecnológico y soporte técnico;
 
-III.- Realizar las acciones necesarias para garantizar a las Instituciones de Seguridad, las condiciones de acceso e interconexión al Sistema Estatal de Información;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+III.- Realizar las acciones necesarias para garantizar a las Instituciones de Seguridad, las condiciones de acceso e interconexión al Sistema Estatal de Información, asegurando su vinculación permanente con la Plataforma Central de Inteligencia Federal, conforme a lo previsto en la Ley del Sistema Nacional de Investigación e Inteligencia e Materia de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 IV.- Proponer al Consejo Estatal los acuerdo (sic) relacionados con la planeación anual del desarrollo y modernización tecnológica, en los términos de la Ley General;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 V.- Diseñar, implementar y evaluar los programas de capacitación de los sistemas de la plataforma tecnológica;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 VI.- Evaluar la calidad del servicio de la plataforma tecnológica y emitir, en su caso, las recomendaciones pertinentes, y
 
-VII.- Las demás que en el ámbito de su función dispongan la Ley General, la Ley General para la Prevención Social de la Violencia y Delincuencia; los acuerdos del Sistema Nacional y las disposiciones normativas en la materia.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+VII.- Las demás que en el ámbito de su función dispongan la Ley General, la Ley General para la Prevención Social de la Violencia y Delincuencia, Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública; los acuerdos del Sistema Nacional y las disposiciones normativas en la materia.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -845,13 +1137,17 @@ La Secretaría establecerá los lineamientos para que las Instituciones de Segur
 
 Las Instituciones de Seguridad tendrán acceso ilimitado a la información que generen y requieran conforme a sus atribuciones. En el caso de que alguna requiera información diversa o adicional a su competencia, deberá solicitarlo a la Secretaría, a través del Centro Estatal de Inteligencia Preventiva.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 36.
 
-La utilización del Sistema Estatal de Información se regirá en términos de la Ley General de Transparencia y Acceso a la Información Pública y Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás disposiciones aplicables leyes de la materia.
+La utilización del Sistema Estatal de Información se regirá en términos de la Ley de Transparencia, Acceso a la Información Pública y Apertura Institucional para el Estado de Baja California y Ley de Protección de Datos Personales para el Sector Público del Estado de Baja California y demás disposiciones aplicables de la materia.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 La información de interés público o que ponga en riesgo la seguridad o los derechos de seguridad ciudadana de las personas, será clasificada como reservada.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 Sin perjuicio de lo anterior, el uso indebido del Sistema Estatal de Información será sancionado con base a lo dispuesto en la presente Ley, sin perjuicio de las responsabilidades de otra naturaleza en que se pudiera incurrir.
 
@@ -925,7 +1221,9 @@ III.- Del padrón vehicular y de licencias de conducir;
 
 IV.- De los imputados, acusados y sentenciados;
 
-V.- De los Registros Administrativos de las Detenciones;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+V.- Del Registro Nacional de Detenciones;
 
 VI.- De los Informes Policiales Homologados;
 
@@ -955,7 +1253,7 @@ XVII.- Los demás registros que se constituyan en términos de la Ley General.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-#### SECCIÓN CUARTA. DEL REGISTRO DE MEDIDAS JUDICIALES Y DE PERSONAS PRIVADAS DE LA LIBERTAD
+#### SECCIÓN PRIMERA. DEL PERSONAL, ARMAMENTO, VEHÍCULOS Y EQUIPOS DE COMUNICACIÓN
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -1053,15 +1351,15 @@ La Secretaría de Hacienda del Estado deberá proporcionar los datos actualizado
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-#### SECCIÓN QUINTA. DEL MAPA DE ZONAS DE INCIDENCIA DELICTIVA Y DEL PADRÓN INMOBILIARIO
+#### SECCIÓN SEGUNDA. DEL REGISTRO DE DETENCIONES E INFORME POLICIAL HOMOLOGADO
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 49.
 
-Los Miembros que realicen detenciones deberán dar aviso administrativo de inmediato a la autoridad competente a través del Informe Policial Homologado, a fin de conformar el Registro Administrativo de Detenciones, de conformidad con los procedimientos e instrumentos establecidos en la Ley Nacional del Registro de Detenciones.
+Los Miembros que realicen detenciones deberán dar aviso administrativo de inmediato a la autoridad competente a través del Informe Policial Homologado, a fin de incorporar la información de dicha detención al Registro Nacional de Detenciones, de conformidad con los procedimientos e instrumentos establecidos en la Ley Nacional del Registro de Detenciones.
 
-El Registro Administrativo de la Detención deberá contener los datos señalados en la Ley Nacional del Registro de Detenciones. Asimismo, señalará el modo en que se hizo del conocimiento de la persona detenida, los derechos constitucionales y legales que le asisten.
+El Registro Nacional de Detenciones deberá contener los datos señalados en la Ley Nacional del Registro de Detenciones. Asimismo, señalará el modo en que se hizo del conocimiento de la persona detenida, los derechos constitucionales y legales que le asisten.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -1111,7 +1409,7 @@ El informe debe ser completo, los hechos deben describirse con continuidad, cron
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-#### SECCIÓN SEXTA. DE LOS BIENES ROBADOS Y RECUPERADOS
+#### SECCIÓN TERCERA. DEL REGISTRO E IDENTIFICACIÓN DE PERSONAS Y GENERADORES DE VIOLENCIA
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -1129,7 +1427,7 @@ La base de datos deberá contar, al menos, con el reporte de la ficha de identif
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-#### SECCIÓN SÉPTIMA. DE LA ESTADÍSTICA
+#### SECCIÓN CUARTA. DEL REGISTRO DE MEDIDAS JUDICIALES Y DE PERSONAS PRIVADAS DE LA LIBERTAD
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -1159,9 +1457,15 @@ X.- La demás información que establezca el Sistema Nacional.
 
 La información a que se refiere este artículo deberá actualizarse de manera permanente, y será obligación tenerla disponible para su consulta.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+En materia de inteligencia la Fiscalía deberá validar y certificar, previo requerimiento del Centro Nacional de Inteligencia, la información referente a registros de detenciones, de armamento y equipo, así como la información que suministren.
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES DEL SERVICIO DE CARRERA POLICIAL
+#### SECCIÓN QUINTA. DEL MAPA DE ZONAS DE INCIDENCIA DELICTIVA Y DEL PADRÓN INMOBILIARIO
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 53.
 
@@ -1241,27 +1545,47 @@ d.- Medidas y colindancias.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-#### SECCIÓN SEGUNDA. SELECCIÓN
+#### SECCIÓN SEXTA. DE LOS BIENES ROBADOS Y RECUPERADOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 56.
 
-La Fiscalía General establecerá una base de datos sobre bienes robados y recuperados, la cual deberá actualizarse permanentemente, misma que será integrada al Sistema Estatal Información y contendrá al menos lo siguiente:
+La Fiscalía General establecerá una base de datos sobre bienes robados y recuperados, la cual deberá actualizarse permanentemente, misma que será integrada al Sistema Estatal (sic) Información y contendrá al menos lo siguiente:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 I.- NUC o Averiguación previa;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 II.- Modalidad del robo;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 III.- Lugar del robo;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 IV.- Denunciante;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 V.- Datos del bien;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 VI.- Características del bien;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 VII.- Recuperación del bien;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 VIII.- Lugar de depósito;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 IX.- La demás información que establezca el Sistema Nacional.
 
@@ -1271,9 +1595,15 @@ El Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciuda
 
 La Fiscalía General a través de las llamadas que se reciban, con motivo del robo de un bien, formará de inmediato un reporte de incidente, mismo que servirá como alerta a las distintas Instituciones Policiales y a la Agencia Estatal de Investigación. Esta medida preliminar, no releva al afectado en su obligación de presentar su denuncia ante la autoridad competente.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+En materia de inteligencia la Fiscalía deberá, validar y certificar, previo requerimiento del Centro Nacional de Inteligencia, la información referente a registros de detenciones, de armamento y equipo, así como la información que suministren.
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-#### SECCIÓN TERCERA. INGRESO Y PERMANENCIA
+#### SECCIÓN SÉPTIMA. DE LA ESTADÍSTICA
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 57.
 
@@ -1390,6 +1720,14 @@ III.- Atender y dar seguimiento a los llamados ciudadanos o en su caso denuncias
 IV.- Proveer el uso de instrumentos de información operativa, táctica y estratégica para coordinar y facilitar el despliegue operativo policial, y
 
 V.- Establecer las bases para el funcionamiento del sistema de video vigilancia, así como los lineamientos o manuales de procedimiento a seguir para proporcionar la información obtenida por las videograbaciones, de conformidad con los acuerdos generales, convenios y demás disposiciones aplicables en la materia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+El Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano del Estado de Baja California, en materia de inteligencia y seguridad nacional deberá otorgar acceso permanente y en tiempo real al Centro Nacional de Inteligencia de la información que reciban, generen, almacenen, integren y compartan, incluyendo análisis de datos, análisis criminales y reportes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Asimismo, el Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano del Estado de Baja California deberá reportar al Centro Nacional de Inteligencia, de forma directa y en calidad de urgente, cualquier información relevante, hecho o circunstancia criminal que acontezca en la entidad y que, por su naturaleza, amerite el conocimiento y la toma inmediata de decisiones a nivel federal, mediante los mecanismos de comunicación y seguridad que se establezcan para dicha función.
 
 REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)
 
@@ -1523,7 +1861,9 @@ Ninguna persona física o moral, ni grupos o individuos podrá realizar dichas a
 
 Previo a la prestación de sus servicios en la entidad, los prestadores de servicios de seguridad privada que obtengan Autorización Federal para prestar sus servicios en el Estado, invariablemente deberán de cumplir con la presente Ley, el Reglamento de Seguridad Privada para el Estado de Baja California y demás normatividad aplicable.
 
-Tratándose de los sujetos referidos en el párrafo anterior, los requisitos establecidos en esta Ley que excedan a los contenidos en la Ley Federal de Seguridad Privada, no les serán aplicables, de conformidad con lo previsto en el artículo 150 de la Ley General del Sistema Nacional de Seguridad Pública.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Tratándose de los sujetos referidos en el párrafo anterior, los requisitos establecidos en esta Ley que excedan a los contenidos en la Ley Federal de Seguridad Privada, no les serán aplicables, de conformidad con lo previsto en el artículo 122 de la Ley General del Sistema Nacional de Seguridad Pública.
 
 ###### ARTÍCULO 68.
 
@@ -1777,23 +2117,23 @@ VI. Promover programas a fin de arraigar y vincular al policía con la comunidad
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-VII.- Proponer anualmente a los Titulares y a quienes ejerzan el mando directo de las Instituciones Policiales y de la Agencia Estatal de Investigación, la entrega de la Condecoración al Mérito, al o a los Miembros que a su juicio hayan prestado mejores servicios a la comunidad, sin perjuicio de la facultad de sugerir otros estímulos;
+VII. Proponer anualmente a los Titulares y a quienes ejerzan el mando directo de las Instituciones Policiales y de la Agencia Estatal de Investigación, la entrega de la Condecoración al Mérito, al o a los Miembros que a su juicio hayan prestado mejores servicios a la comunidad, sin perjuicio de la facultad de sugerir otros estímulos;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+VIII. Turnar ante la Unidad de Asuntos Internos que tenga a su cargo una Institución Policial y la Agencia Estatal de Investigación, aquellos casos en que a su juicio constituyan faltas graves a los principios de actuación previstos en la Ley, por parte de los Miembros y los agentes de la Agencia Estatal de Investigación;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-VIII.- Turnar ante la Contraloría Interna que tenga a su cargo una Institución Policial y la Agencia Estatal de Investigación, aquellos casos en que a su juicio constituyan faltas graves a los principios de actuación previstos en la Ley, por parte de los Miembros y los agentes de la Agencia Estatal de Investigación;
+IX. Proponer modificaciones a normas y procedimientos, que permitan mejorar la atención de las quejas que formulen la ciudadanía contra abusos y actuaciones en que incurran los Miembros y los Agentes de la Agencia Estatal de Investigación;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-IX.- Proponer modificaciones a normas y procedimientos, que permitan mejorar la atención de las quejas que formulen la ciudadanía contra abusos y actuaciones en que incurran los Miembros y los Agentes de la Agencia Estatal de Investigación;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
-
-X.- Proponer a las Instituciones Policiales y a la Agencia Estatal de Investigación, las acciones a emprender para prevenir la comisión de delitos y su impunidad;
+X. Proponer a las Instituciones Policiales y a la Agencia Estatal de Investigación, las acciones a emprender para prevenir la comisión de delitos y su impunidad;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-XI.- Fomentar la cooperación y participación de la comunidad en los siguientes aspectos:
+XI. Fomentar la cooperación y participación de la comunidad en los siguientes aspectos:
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -1809,7 +2149,7 @@ XII. Realizar labores de seguimiento en el ejercicio de sus atribuciones;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-XIII.- Proponer a las autoridades competentes, de conformidad con las facultades que le concede este capítulo, programas de participación de la comunidad en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño en la función de seguridad ciudadana;
+XIII. Proponer a las autoridades competentes, de conformidad con las facultades que le concede este capítulo, programas de participación de la comunidad en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño en la función de seguridad ciudadana;
 
 XIV. Asistir, previa invitación, a las sesiones de los Comités Técnicos u órganos de administración, respecto de los Fideicomisos que se constituyan para el manejo de los recursos económicos que hayan de ejercerse en el Estado para el rubro de seguridad pública;
 
@@ -1929,9 +2269,11 @@ Para la aplicación de esta Ley, tendrán fe pública:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-I.- El titular de la dependencia de que se trate, de la Fiscalía General, de la Secretaría, de la Comisión Estatal del Sistema Penitenciario y los que ejerzan el mando directo de las Instituciones Policiales;
+I. El titular de la dependencia de que se trate, de la Fiscalía General, de la Secretaría, de la Comisión Estatal del Sistema Penitenciario y los que ejerzan el mando directo de las Instituciones Policiales;
 
-II. El titular de la Contraloría Interna,
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+II. El titular de la Unidad de Asuntos Internos;
 
 III. Las Comisiones; y
 
@@ -1977,13 +2319,33 @@ I. Investigación, que será la encargada de la investigación a través de sist
 
 II. Prevención, que será la encargada de prevenir la comisión de hechos violentos, la comisión de delitos e infracciones administrativas, realizar las acciones de inspección, vigilancia y vialidad en su circunscripción, así como proporcionar medidas u órdenes de protección inmediatas en términos de lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Baja California;
 
-III. Reacción, que será la encargada de garantizar, mantener y restablecer el orden y la paz públicos;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-IV. Proximidad social, como una actividad auxiliar a las funciones de prevención, a través de la proactividad y la colaboración con otros actores sociales, bajo una política de colaboración interna e interinstitucional que fortalezca la gobernabilidad local y
+III. Reacción y de operaciones especiales, que será la encargada de garantizar, mantener y restablecer el orden y la paz públicos;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+IV. Proximidad social, como una actividad auxiliar a las funciones de prevención, a través de la proactividad y la colaboración con otros actores sociales, bajo una política de colaboración interna e interinstitucional que fortalezca la gobernabilidad local;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 V. La atribución de la investigación para disuasión y prevención de los delitos corresponde a la Fuerza Estatal de Seguridad Ciudadana.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 97 BIS.- Las Instituciones Policiales contarán, de forma enunciativa más no limitativa, con las siguientes unidades administrativas:
+
+I.- Análisis criminal;
+
+II.- Comisión de Carrera Policial;
+
+III.- Comisión de Honor y Justicia;
+
+IV.- Asuntos internos; y,
+
+V.- Academia.
+
+Tratándose de los asuntos internos de personas integrantes de las Instituciones Policiales previstas en el artículo 23, fracción III de esta Ley, serán competentes para conocer y resolver sobre estos, las Sindicaturas Municipales correspondientes.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -2083,9 +2445,13 @@ La Comisión llevará un registro de datos de los Miembros de sus instituciones,
 
 La Comisión tendrá las funciones siguientes:
 
-I. Una vez recibida la investigación administrativa practicada por la Contraloría Interna; conocer y resolver los procedimientos de separación definitiva por falta de requisitos de permanencia y por cualquiera otro de los casos previstos en esta ley o remoción del cargo, por incurrir en responsabilidad administrativa;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-II. Resolver sobre la suspensión preventiva del Miembro al inicio del procedimiento de separación definitiva o de remoción del cargo; o en su caso confirmar la decretada por la Contraloría Interna;
+I. Una vez recibida la investigación administrativa practicada por la Unidad de Asuntos Internos; conocer y resolver los procedimientos de separación definitiva por falta de requisitos de permanencia y por cualquiera otro de los casos previstos en esta ley o remoción del cargo, por incurrir en responsabilidad administrativa;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+II. Resolver sobre la suspensión preventiva del Miembro al inicio del procedimiento de separación definitiva o de remoción del cargo; o en su caso confirmar la decretada por la Unidad de Asuntos Internos;
 
 III. Otorgar condecoraciones, promociones y estímulos conforme a la disponibilidad presupuestal, y
 
@@ -2107,7 +2473,7 @@ La Comisión deberá contemplar representantes de las unidades operativas de inv
 
 ### CAPÍTULO III. SERVICIO DE CARRERA POLICIAL Y PROFESIONALIZACIÓN
 
-#### SECCIÓN CUARTA. CONDECORACIONES Y ESTÍMULOS
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES DEL SERVICIO DE CARRERA POLICIAL
 
 ###### ARTÍCULO 108.
 
@@ -2215,7 +2581,13 @@ En términos de las disposiciones aplicables, los titulares de las Instituciones
 
 Dentro del Servicio de Carrera de la Policía sólo se podrá ingresar, permanecer y ascender a la categoría o jerarquía inmediata superior y ser separado, en los términos y las condiciones que establecen la Ley General, esta Ley, y el Reglamento correspondiente.
 
-#### SECCIÓN QUINTA. PROMOCIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+#### SECCIÓN SEGUNDA. RECLUTAMIENTO Y SELECCIÓN
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 112 BIS.- El reclutamiento es el proceso a cargo de las Instituciones de Seguridad, mediante el que, a través de convocatorias públicas, se busca y convoca a personas candidatas potencialmente calificadas para ocupar las plazas vacantes dentro de estas.
 
 ###### ARTÍCULO 113.
 
@@ -2223,7 +2595,7 @@ La selección es el proceso que consiste en elegir, de entre los aspirantes que 
 
 Dicho proceso comprende el periodo de los cursos de formación o capacitación y concluye con la resolución de las instancias correspondientes sobre los aspirantes aceptados.
 
-#### SECCIÓN SEXTA. ANTIGÜEDAD
+#### SECCIÓN TERCERA. INGRESO Y PERMANENCIA
 
 ###### ARTÍCULO 114.
 
@@ -2233,17 +2605,23 @@ El ingreso es el procedimiento de integración de los candidatos a la estructura
 
 La permanencia es el resultado del cumplimiento constante de los requisitos establecidos en la presente Ley para continuar en el servicio activo de las Instituciones Policiales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 116.
 
 Son requisitos de ingreso y permanencia en las Instituciones Policiales, los siguientes:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO -REPUBLICADO-], P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 A. De Ingreso:
 
-I. Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles, sin tener otra nacionalidad;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-II. Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal;
+I. Ser de ciudadanía mexicana en pleno ejercicio de sus derechos políticos y civiles;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+II. No haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal;
 
 III. No tener antecedentes penales por delito doloso en el país o por aquellos que se consideren como tales en el extranjero, ni estar sujeto a proceso penal por delito doloso;
 
@@ -2251,19 +2629,25 @@ IV. No estar sujeto a investigación, averiguación previa (sic)
 
 V. En su caso, tener acreditado el Servicio Militar Nacional;
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
 VI. Acreditar que ha concluido, al menos, los estudios siguientes:
 
 a) En el caso de aspirantes a las áreas de investigación, enseñanza superior o equivalente;
 
 b) Tratándose de aspirantes a las áreas de prevención, enseñanza media superior o equivalente;
 
-c) En caso de aspirantes a las áreas de reacción, los estudios correspondientes a la enseñanza media básica;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+c) En caso de aspirantes a las áreas de reacción, los estudios correspondientes a la enseñanza media superior;
 
 VII. Aprobar el concurso de ingreso y los cursos de formación;
 
 VIII. Contar con los requisitos de edad y el perfil físico, médico y de personalidad que exijan las disposiciones aplicables;
 
-IX. Contar con la residencia mínima en el Estado que exijan el reglamento de la Academia;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+IX. No tener en su contra sentencia ejecutoria que imponga la suspensión de la ciudadanía;
 
 X. Aprobar los procesos de evaluación de control de confianza;
 
@@ -2273,7 +2657,9 @@ XII. No ser afecto al consumo de sustancias psicotrópicas, estupefacientes u ot
 
 XIII. No padecer alcoholismo;
 
-XIV. Someterse a exámenes para comprobar la ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XIV. Someterse a exámenes para comprobar la ausencia de abuso de sustancias que alteren el estado físico y mental, como el alcohol, sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
 
 XV. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;
 
@@ -2281,71 +2667,151 @@ XVI. No haber sido inhabilitado, separado o removido del cargo de la misma u otr
 
 XVII. Cumplir con los deberes establecidos en esta Ley, y demás disposiciones que deriven de la misma;
 
-XVIII. Los demás que establezcan otras disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO -REPUBLICADO-], P.O. 31 DE DICIEMBRE DE 2021)</small>
+XVIII. No haber participado, favorecido o encubierto, de ninguna forma, la comisión de violaciones graves a los derechos humanos, no contar con historial o antecedentes de ningún tipo como victimario de violencia contra las mujeres, niñas, niños, adolescentes o personas adultas mayores, ni haber cometido abuso o maltrato animal;
 
-B. De Permanencia:
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-I. Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso;
+XIX. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XX. No estar declarada persona deudora alimentaria morosa; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XXI. Los demás que establezcan otras disposiciones legales aplicables.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+B. De permanencia:
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+I. Ser de notoria buena conducta;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 II. Estar en pleno ejercicio de sus derechos políticos y civiles;
 
-(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-III. No tener antecedentes penales por delito doloso en el país o por aquellos que se consideren delitos en el extranjero;
+III. No haber sido condenado por sentencia irrevocable por delito doloso;
 
-IV. Mantener actualizado su Certificado Único Policial;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+IV. Contar con la certificación correspondiente conforme a su puesto y funciones;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 V. No superar la edad máxima de retiro y jubilación que establezcan las disposiciones aplicables;
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
 VI. Acreditar que ha concluido, al menos, los estudios siguientes:
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 a) En el caso de integrantes de las áreas de investigación, enseñanza superior, equivalente u homologación por desempeño, a partir de bachillerato;
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
 b) Tratándose de integrantes de las áreas de prevención, enseñanza media superior o equivalente;
 
-c) En caso de integrantes de las áreas de reacción, los estudios correspondientes a la enseñanza media básica;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+c) En caso de aspirantes a las áreas de reacción, los estudios correspondientes a la enseñanza media superior;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 VII. Asistir y aprobar los cursos de formación, capacitación y profesionalización;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
 VIII. Aprobar los procesos de evaluación de control de confianza;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 IX. Aprobar las evaluaciones del desempeño;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
 X. No acumular más de dos sanciones administrativas en un año de servicio;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 XI. Participar en los procesos de promoción o ascenso que se convoquen, conforme a las disposiciones aplicables;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
 XII. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, durante o fuera de la prestación del servicio; salvo los casos en que el consumo de los medicamentos controlados sea autorizado mediante prescripción médica, avalada por los servicios médicos de las Instituciones;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 XIII. Abstenerse de acudir al servicio con aliento alcohólico, estado de ebriedad, o bien, consumir bebidas alcohólicas durante la prestación del servicio;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
 XIV. No padecer adicción a substancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 XV. No padecer alcoholismo;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
 XVI. Someterse a exámenes para comprobar la ausencia de alcoholismo;
 
-XVII. Someterse a exámenes médicos, físicos, de personalidad, de conocimientos, de laboratorio, para comprobar el no uso de sustancias psicotrópicas, enervantes, depresivas, estupefacientes u otras que produzcan efectos similares, así como aquéllos que sean necesarios para la debida prestación del servicio;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-XVIII. No estar suspendido preventivamente o inhabilitado, ni haber sido destituido por resolución firme como servidor público;
+XVII. Someterse a exámenes médicos, físicos, de personalidad, de conocimientos, de laboratorio, para comprobar la ausencia de abuso de sustancias psicotrópicas, enervantes, depresivas, estupefacientes u otras que produzcan efectos similares, así como aquéllos que sean necesarios para la debida prestación del servicio;
 
-XIX. No ausentarse del servicio sin causa justificada, por un periodo de tres días consecutivos o de cinco días dentro de un término de treinta días;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XVIII. No estar suspendida o inhabilitada, ni haber sido destituida por resolución firme como persona servidora pública;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XIX. No faltar al servicio sin causa justificada, por un periodo de tres días consecutivos o de cinco días dentro de un término de treinta días;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 XX. No prestar simultáneamente servicios de cualquier carácter en un cuerpo de seguridad pública y privada;
 
-XXI. No desempeñar otro empleo, cargo, profesión o comisión de cualquier naturaleza en la administración pública de cualquier nivel, así como trabajos o servicios remunerados en instituciones privadas que sean compatibles con la función que se desempeñe, y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-XXII. Las demás que establezcan las disposiciones legales aplicables.
+XXI. No desempeñar otro empleo, cargo, profesión o comisión de cualquier naturaleza en la administración pública de cualquier nivel, así como trabajos o servicios remunerados en instituciones privadas que sean compatibles con la función que se desempeñe;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XXII. No participar, cometer, favorecer o encubrir violaciones graves a los derechos humanos, no ejercer actos de violencia contra las mujeres, niñas, niños, adolescentes o personas adultas mayores, ni realizar actos de abuso o maltrato animal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XXIII. No tener en su contra sentencia ejecutoria que imponga la suspensión de la ciudadanía;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XXIV. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XXV. No estar declarada persona deudora alimentaria morosa; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XXVI. Las demás que establezcan las disposiciones legales aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Las determinaciones que se tomen por no cumplir con alguno de los requisitos de permanencia establecidos en este artículo deberán realizarse conforme al procedimiento de separación que (sic) previsto en la presente Ley.
 
 ###### ARTÍCULO 117.
 
 Las instancias responsables del servicio de carrera policial fomentarán la vocación de servicio mediante la promoción y permanencia en las Instituciones Policiales para satisfacer las expectativas de desarrollo profesional de sus Miembros.
 
-#### SECCIÓN SÉPTIMA. CERTIFICACIÓN
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+#### SECCIÓN CUARTA. CONDECORACIONES Y ESTÍMULOS
 
 ###### ARTÍCULO 118.
 
@@ -2389,7 +2855,7 @@ Las retribuciones económicas, se determinarán en el Reglamento y se otorgarán
 
 Los estímulos se ajustarán a lo establecido en el Decreto de Presupuesto de Egresos y se otorgarán a los Miembros que se hayan distinguido.
 
-#### SECCIÓN OCTAVA. PROFESIONALIZACIÓN
+#### SECCIÓN QUINTA. PROMOCIÓN
 
 ###### ARTÍCULO 124.
 
@@ -2463,7 +2929,7 @@ II.- El de las comisiones fuera del servicio de la Institución Policial, y
 
 III. El de las suspensiones, en los casos en que éstas sean obstáculos para la concesión del ascenso.
 
-#### SECCIÓN PRIMERA. DERECHOS
+#### SECCIÓN SEXTA. ANTIGÜEDAD
 
 ###### ARTÍCULO 131.
 
@@ -2475,7 +2941,9 @@ II. Antigüedad en el grado, a partir de la fecha señalada en la constancia de 
 
 La antigüedad contará hasta el momento en que esta calidad deba determinarse para los efectos de la Carrera Policial.
 
-#### SECCIÓN SEGUNDA. OBLIGACIONES
+#### SECCIÓN SÉPTIMA. CERTIFICACIÓN
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 132.
 
@@ -2493,17 +2961,31 @@ I. Cumplimiento de los requisitos de edad y el perfil físico, médico y de pers
 
 II. Observancia de un desarrollo patrimonial justificado, en el que sus egresos guarden adecuada proporción con sus ingresos;
 
-III. Ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-IV. Ausencia de vínculos con organizaciones delictivas;
+III. Ausencia de abuso de sustancias que alteren el estado físico y mental, como el alcohol, sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
 
-V. Notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso o no estar sujeto a averiguación previa, investigación, proceso penal o administrativo, ni haber sido inhabilitado, suspendido preventivamente o destituido por resolución firme como servidor, y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-VI. Cumplimiento de los deberes establecidos en esta Ley.
+IV. Ausencia de vínculos con organizaciones delictivas y sus integrantes;
 
-#### SECCIÓN PRIMERA. PRINCIPIOS DE ACTUACIÓN
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+V. Notoria buena conducta, no haber sido condenada por sentencia irrevocable por delito doloso o no estar sujeta a averiguación previa, investigación, proceso penal o administrativo, ni haber sido inhabilitada, suspendida o destituida por resolución firme como persona servidora pública;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+VI. No favorecer, justificar o encubrir la comisión de violaciones graves a los derechos humanos, el ejercicio de violencia contra las mujeres, los niños, niñas y adolescentes, las personas adultas mayores y otros grupos vulnerables, así como el abuso o maltrato animal;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+VII. Cumplimiento de los deberes establecidos en esta Ley; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+VIII. Los demás que se establezcan en las disposiciones aplicables.
+
+#### SECCIÓN OCTAVA. PROFESIONALIZACIÓN
 
 ###### ARTÍCULO 134.
 
@@ -2539,7 +3021,7 @@ La persona titular del Poder Ejecutivo, la Secretaría, la Fiscalía General y l
 
 ### CAPÍTULO V. DERECHOS Y OBLIGACIONES DE LOS MIEMBROS
 
-#### SECCIÓN SEGUNDA. SANCIONES
+#### SECCIÓN PRIMERA. DERECHOS
 
 ###### ARTÍCULO 136.
 
@@ -2573,11 +3055,13 @@ XII. Gozar de los apoyos necesarios para contar con una adecuada preparación ac
 
 XIII. Los demás que les confieran las Leyes y reglamentos de la materia.
 
-#### SECCIÓN TERCERA. INVESTIGACIÓN ADMINISTRATIVA
+#### SECCIÓN SEGUNDA. OBLIGACIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 137.
 
-Con el objeto de garantizar el cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, los integrantes de las Instituciones Policiales se sujetarán a las siguientes obligaciones:
+Con el objeto de garantizar el cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, los integrantes de las Instituciones Policiales además de las obligaciones contenidas en la Ley General, se sujetarán a las siguientes:
 
 I. Conducirse siempre con dedicación y disciplina, así como con apego al orden jurídico y respeto a las garantías individuales y derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado Libre y Soberano de Baja California;
 
@@ -2603,7 +3087,9 @@ XI. Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas o ju
 
 XII. Guardar el respeto debido a todo superior jerárquico, subordinado, de igual jerarquía, y demás personal dentro y fuera del servicio;
 
-XIII. Acatar las instrucciones, requerimientos y resoluciones que reciba de la Contraloría Interna o de la Comisión;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XIII. Acatar las instrucciones, requerimientos y resoluciones que reciba de la Unidad de Asuntos Internos o de la Comisión;
 
 XIV. No usar vehículos de motor de estancia ilegal en el país, que no tengan la documentación oficial vigente para circular en el Estado, en el cumplimiento de su servicio;
 
@@ -2693,23 +3179,67 @@ LII. Hacer uso racional del armamento, material, municiones y equipo asignado en
 
 LIII. En los casos de flagrancia, detener al presunto responsable de los hechos presuntamente delictuosos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-LIV. Proporcionar y cumplimentar medidas u órdenes de protección de las mujeres, adolescentes, niñas y niños, en términos de lo dispuesto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Baja California y el Código Nacional de Procedimientos Penales; y,
+LIV. Proporcionar y cumplimentar medidas u órdenes de protección de las mujeres, adolescentes, niñas y niños, en términos de lo dispuesto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Baja California y el Código Nacional de Procedimientos Penales;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE JULIO DE 2025)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-LV. Las demás que establezcan las disposiciones legales aplicables.
+LV. Entregar el armamento, al término de sus actividades o comisión asignada, en las instalaciones de la unidad a la que pertenezca;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+LVI. Informar por escrito al superior jerárquico y a la Unidad de Asuntos Internos el robo, extravío o daño del armamento o equipo asignado, dentro de las setenta y dos horas siguientes al hecho;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+LVII. Respetar las señales y demás dispositivos de tránsito, y usar sólo en caso necesario los estrobos, sirenas, torretas o altavoz de la unidad, patrulla o vehículo a su cargo, evitando su uso injustificado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+LVIII. Abstenerse de utilizar la jerarquía o cargo de un superior, para transmitir o comunicar una orden, siendo esta inexistente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+LIX. Abstenerse de pernoctar durante el horario de servicio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+LX. Hacer uso de la fuerza de manera proporcional, racional, congruente, oportuna y con respeto a los derechos humanos. Para tal efecto, deberá apegarse a la Ley Nacional sobre el Uso de la Fuerza, así como a las demás disposiciones normativas y administrativas aplicables, realizándose conforme a derecho;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+LXI. Promover, respetar, proteger y garantizar los derechos humanos en el ejercicio de sus funciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+LXII. Abstenerse de realizar actos de acoso u hostigamiento sexual;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+LXIII. Abstenerse de cometer, participar, tolerar o encubrir violaciones graves a los derechos humanos, actos de discriminación, violencia contra las mujeres, los niños, niñas y adolescentes, personas adultas mayores y otros grupos vulnerables, así como el abuso o maltrato animal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+LXIV. Abstenerse de disponer o apropiarse en beneficio propio o de terceros de bienes ajenos a los que tuvieren acceso como resultado del ejercicio de sus funciones; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+LXV. Las demás que establezcan las disposiciones legales aplicables.
 
 ### CAPÍTULO VI. RÉGIMEN DISCIPLINARIO
 
-#### SECCIÓN CUARTA. SUSPENSIÓN PREVENTIVA
+#### SECCIÓN PRIMERA. PRINCIPIOS DE ACTUACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 138.
 
 La actuación de los Miembros de las Instituciones Policiales se regirá por los principios previstos en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y en la Ley General.
 
-La disciplina comprende el aprecio de sí mismo, la pulcritud, los buenos modales, el rechazo a los vicios, la puntualidad en el servicio, la exactitud en la obediencia, el escrupuloso respeto a las leyes y reglamentos, así como a los derechos humanos.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+La disciplina comprende el aprecio de sí mismo, la pulcritud, la cultura cívica, el amor a la patria, el rechazo a los vicios, los buenos modales, la puntualidad en el servicio, la exactitud en la obediencia, el escrupuloso respeto a las leyes y reglamentos, así como a los derechos humanos, por lo que las personas integrantes de las Instituciones de Seguridad Pública deberán apegarse a su estricta observancia.
 
 La disciplina es la base del funcionamiento y organización de las Instituciones Policiales, por lo que sus Miembros deberán sujetar su conducta a la observancia de las leyes, órdenes y jerarquías, así como a la obediencia y al alto concepto del honor, de la justicia y de la ética.
 
@@ -2759,11 +3289,75 @@ Le corresponde a los Municipios expedir la reglamentación que contenga las disp
 
 Las Instituciones Policiales exigirán de sus Miembros el más estricto cumplimiento del deber, a efecto de salvaguardar la integridad y los derechos de las personas, prevenir las violencias y la comisión de delitos, y preservar las libertades, el orden y la paz públicos.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 142.
+
+El régimen disciplinario es el conjunto de normas, principios y procedimientos que regulan la conducta del personal de las Instituciones de Seguridad, con el propósito de garantizar el cumplimiento de sus obligaciones, la observancia de valores éticos y el respeto a los derechos humanos. Dentro del mismo se establecen las faltas disciplinarias, las sanciones, los correctivos y los mecanismos para su aplicación, asegurando el debido proceso y promoviendo la integridad, la transparencia y la confianza ciudadana en dichas instituciones.
+
+La responsabilidad disciplinaria prevista en el presente capítulo será independiente de las que correspondan por responsabilidad administrativa, civil, patrimonial, laboral o penal en que pudiera incurrir el personal de las Instituciones de Seguridad.
+
+Este régimen disciplinario es aplicable al personal de las Instituciones de Seguridad que sean integrantes del servicio profesional de carrera.
 
 El régimen disciplinario se ajustará a los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos, la presente Ley y los ordenamientos legales aplicables y comprenderá los deberes, las sanciones y los procedimientos para su aplicación.
 
-#### SECCIÓN QUINTA. PROCEDIMIENTO DE SEPARACIÓN DEFINITIVA O DE RESPONSABILIDAD ADMINISTRATIVA
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 142 BIS.- Es obligación de las personas integrantes de las Instituciones de Seguridad cumplir con los requisitos de permanencia establecidos en la presente Ley.
+
+El incumplimiento de los requisitos de permanencia a que se refiere el presente artículo no será considerado una falta administrativa, por lo que no dará lugar a la imposición de correctivos o sanciones previstas en el régimen disciplinario. Dicho incumplimiento deberá ser tramitado mediante el procedimiento de separación del servicio, conforme a lo establecido en la presente Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 142 TER.- Todas las personas integrantes de las Instituciones de Seguridad están obligadas en presentar en tiempo y forma las declaraciones de situación patrimonial y de intereses, en términos de lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Baja California, su incumplimiento se sancionará por la autoridad competente de conformidad con lo previsto en la Ley en cita.
+
+Las conductas vinculadas a la violencia de género, el acoso y el hostigamiento sexual, en cualquiera de sus modalidades, deberán ser investigadas y sancionadas con perspectiva de género, garantizando el principio de debida diligencia, confidencialidad, no revictimización y el derecho de las víctimas a una reparación adecuada, con independencia de la responsabilidad administrativa o penal que se configure.
+
+Las Instituciones de Seguridad deberán contar con lineamientos, procedimientos y protocolos específicos para atender estas faltas, así como medidas de protección y acompañamiento para las personas afectadas.
+
+Con independencia de la investigación o procedimiento administrativo, cuando las conductas constituyan la probable comisión de un delito, las autoridades que investiguen o substancien el procedimiento darán vista al Ministerio Público sin dilación y aplicando en todo momento la perspectiva de género.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 142 QUATER.- El régimen disciplinario de todas las Instituciones de Seguridad será el aplicable ante el incumplimiento de las obligaciones previstas en esta Ley o las que estén contenidas en otras normas.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 142 QUINQUIES.- El incumplimiento de las obligaciones de las personas integrantes de las Instituciones de Seguridad, señaladas en el presente título, en las demás disposiciones legales aplicables y los propios reglamentos de régimen disciplinario de las Instituciones de Seguridad, dará lugar a la imposición de:
+
+I. Correctivos disciplinarios; o,
+
+II. Sanciones.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 142 SEXIES.- Los correctivos disciplinarios son medidas impuestas de manera fundada y motivada por la persona superior jerárquica que ejerza el mando directo sobre (sic) personal que cometa faltas que, por su naturaleza, no ameriten sanción administrativa. Su finalidad es preservar la disciplina, el respeto, el orden y la adecuada prestación del servicio, asegurando el cumplimiento de los deberes y obligaciones concernientes a este personal. Su aplicación debe ser legal, proporcional y necesaria, dejando registro documental del mismo.
+
+El régimen disciplinario de las Instituciones de Seguridad contemplará los siguientes correctivos disciplinarios:
+
+I. Amonestación verbal;
+
+II. Amonestación escrita;
+
+III. Arresto hasta por treinta y seis horas;
+
+IV. Disculpa pública; o,
+
+V. Trabajo en favor de la comunidad.
+
+De igual forma y con independencia del correctivo disciplinario al que haya sido acreedor, el personal con correctivo disciplinario deberá acudir y participar en cursos, pláticas o programas de capacitación y profesionalización que se estimen relacionados con la naturaleza de la falta cometida.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 142 SEPTIES.- Se aplicará correctivo disciplinario a la persona integrante de las Instituciones de Seguridad que incumpla o transgreda las obligaciones previstas en las fracciones I a la XX y de la LV a la LIX del artículo 137 de esta Ley.
+
+El incumplimiento de dichas obligaciones, así como las que se establezcan en los reglamentos de régimen disciplinario de las Instituciones de Seguridad, será sancionado con cualquiera de las correcciones disciplinarias previstas en esta Ley.
+
+El procedimiento mediante el cual se sustanciarán y aplicarán las correcciones disciplinarias será determinado vía reglamento.
+
+Dichos reglamentos podrán prever las medidas preventivas que se estimen necesarias durante su desahogo, los casos en que se ordenará y levantará su aplicación, así como las consecuencias que se generarán cuando se haya o no acreditado el incumplimiento de la obligación por parte del Miembro.
+
+#### SECCIÓN SEGUNDA. SANCIONES
 
 ###### ARTÍCULO 143.
 
@@ -2775,21 +3369,47 @@ Las sanciones serán:
 
 I. Apercibimiento.- Consiste en la llamada de atención que el superior jerárquico realice al elemento de la institución policial responsable de la falta, exhortándolo a que evite la repetición de la misma, debiendo constar por escrito en el expediente del sancionado;
 
-II. Amonestación: Es el acto por el cual se advierte de manera escrita a un elemento de la institución policial, que incumplió con alguna obligación exhortándolo a corregirse;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-III. Arresto: Es la privación temporal de la libertad hasta por treinta y seis horas, que sufre el Miembro que incumplió con alguna obligación. El arresto deberá emitirse por escrito, especificando el motivo, duración y lugar en que deberá cumplirse;
+II. Amonestación escrita: Es el acto por el cual se advierte de manera escrita a un elemento de la institución policial, que incumplió con alguna obligación exhortándolo a corregirse;
 
-IV. Cambio de adscripción y funciones: Consiste en el cambio del lugar donde el Miembro presta el servicio en forma permanente, y en su caso, las funciones a realizar. No será considerada como corrección disciplinaria, el cambio de adscripción y de funciones decretado por razón de las necesidades propias del servicio;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-V. Suspensión temporal: Es la interrupción de funciones impuesta al Miembro de quince días hasta tres meses. El Miembro debe hacer entrega del equipo de cargo puesto a su disposición y de los asuntos bajo su responsabilidad. El Miembro será privado de su derecho a recibir remuneración, ser sujeto de promociones, ascensos o reconocimientos, así como a prestar el servicio;
+III. Amonestación verbal: Es el acto por el cual se advierte de manera verbal a un elemento de la institución policial, que incumplió con alguna obligación exhortándolo a corregirse;
 
-VI. Remoción del cargo: Que consiste en la terminación de la relación administrativa entre los Miembros y las Instituciones de Seguridad Pública decretada mediante el procedimiento de responsabilidad administrativa y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-VII. Inhabilitación: Consiste en el impedimento para desempeñar cualquier cargo público hasta por diez años.
+IV. Arresto: Es la privación temporal de la libertad hasta por treinta y seis horas, que sufre el Miembro que incumplió con alguna obligación. El arresto deberá emitirse por escrito, especificando el motivo, duración y lugar en que deberá cumplirse;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+V. Cambio de adscripción y funciones: Consiste en el cambio del lugar donde el Miembro presta el servicio en forma permanente, y en su caso, las funciones a realizar. No será considerada como corrección disciplinaria, el cambio de adscripción y de funciones decretado por razón de las necesidades propias del servicio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+VI. Disculpa pública: Es el acto mediante el cual un elemento de la institución policial reconoce la responsabilidad derivada de sus actos u omisiones y tiene por objeto reintegrar la dignidad tanto a las personas afectadas como a la institución policial en general;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+VII. Inhabilitación: Consiste en el impedimento para desempeñar cualquier cargo público hasta por diez años;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+VIII. Remoción del cargo: Que consiste en la terminación de la relación administrativa entre los Miembros y las Instituciones de Seguridad decretada mediante el procedimiento de responsabilidad administrativa;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+IX. Suspensión temporal: Es la interrupción de funciones impuesta al Miembro de quince días hasta tres meses. El Miembro debe hacer entrega del equipo de cargo puesto a su disposición y de los asuntos bajo su responsabilidad. El Miembro será privado de su derecho a recibir remuneración, ser sujeto de promociones, ascensos o reconocimientos, así como a prestar el servicio; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+X. Trabajo en favor de la comunidad: Consiste en la prestación de servicios no remunerados, en instituciones públicas educativas o de asistencia social del Estado, o en instituciones privadas asistenciales. Este trabajo se llevará a cabo en jornadas dentro de períodos distintos al horario de las labores que represente la fuente de ingresos para la subsistencia del Miembro y de la familia, sin que pueda exceder de la jornada extraordinaria que determine la Ley laboral y bajo la orientación y vigilancia de la autoridad ejecutora.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 145.
 
-El incumplimiento a las fracciones XXI a la LIII del artículo 137 dará lugar a responsabilidad administrativa y se sancionarán con suspensión temporal, remoción del cargo o inhabilitación.
+El incumplimiento a las fracciones XXI a la LIV del artículo 137 dará lugar a responsabilidad administrativa y se sancionarán con suspensión temporal, remoción del cargo o inhabilitación; el incumplimiento de las fracciones LX a LXIV se sancionará en términos de lo dispuesto por la Ley General.
 
 La inhabilitación procederá en los casos de:
 
@@ -2803,17 +3423,7 @@ La imposición de las sanciones se hará con independencia de las que correspond
 
 ###### ARTÍCULO 146.
 
-El incumplimiento a las fracciones I a XXI del artículo 137 de la Ley será sancionado con cualquiera de las correcciones disciplinarias previstas en esta Ley.
-
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2025)</small>
-
-Para efectos de esta Ley son correcciones disciplinarias las señaladas en las fracciones I, II, III y IV del artículo 144 de la Ley.
-
-Las correcciones disciplinarias se aplicarán por quien ejerce el mando directo sobre la Institución Policial, por el jefe inmediato del Miembro o por quien se determine en los reglamentos en su caso.
-
-El procedimiento mediante el cual se sustanciarán y aplicarán las correcciones disciplinarias será determinado vía reglamento.
-
-Dichos reglamentos podrán prever las medidas preventivas que se estimen necesarias durante su desahogo, los casos en que se ordenará y levantará su aplicación, así como las consecuencias que se generarán cuando se haya o no acreditado el incumplimiento de la obligación por parte del Miembro.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2025)
 
 ###### ARTÍCULO 147.
 
@@ -2831,15 +3441,27 @@ V. Intencionalidad o negligencia; y
 
 VI. Los demás elementos, circunstancias, condiciones y consecuencias que afecten la debida prestación del servicio.
 
-#### SECCIÓN SEXTA. NOTIFICACIONES
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 147 BIS.- La aplicación de los correctivos y sanciones disciplinarias deberá registrarse de manera oportuna y sistemática en el expediente personal de las personas servidoras públicas integrantes de las Instituciones de Seguridad.
+
+Dicho requisito deberá ser considerado como uno de los criterios para la toma de decisiones institucionales relacionadas con promociones, ascensos, condecoraciones, reconocimientos, estímulos y cualquier otro procedimiento de evaluación del desempeño o trayectoria profesional del personal.
+
+#### SECCIÓN TERCERA. INVESTIGACIÓN ADMINISTRATIVA
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 148.
 
-La Contraloría Interna, de manera previa a la substanciación del procedimiento de separación definitiva o de responsabilidad administrativa, deberá realizar fundada y motivadamente una investigación administrativa y suspender de manera preventiva al miembro cuando así lo considere conveniente, a efecto de realizar las diligencias para allegarse de elementos que le permitan, en su caso, solicitar a la Comisión, iniciar el procedimiento correspondiente.
+La Unidad de Asuntos Internos, de manera previa a la substanciación del procedimiento de separación definitiva o de responsabilidad administrativa, deberá realizar fundada y motivadamente una investigación administrativa y suspender de manera preventiva al miembro cuando así lo considere conveniente, a efecto de realizar las diligencias para allegarse de elementos que le permitan, en su caso, solicitar a la Comisión, iniciar el procedimiento correspondiente.
+
+#### SECCIÓN CUARTA. SUSPENSIÓN PREVENTIVA
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 149.
 
-La Comisión podrá suspender, negar, decretar o ratificar la suspensión preventiva declarada por la Contraloría Interna contra un Miembro que se encuentre sujeto a procedimiento, por los actos u omisiones de los que pueda derivarse responsabilidad administrativa grave o falta de requisitos de permanencia o alguna otra causa de separación definitiva y cuya permanencia en el servicio puedan afectar el procedimiento, institución policial o a la sociedad en general.
+La Comisión podrá suspender, negar, decretar o ratificar la suspensión preventiva declarada por la Unidad de Asuntos Internos contra un Miembro que se encuentre sujeto a procedimiento, por los actos u omisiones de los que pueda derivarse responsabilidad administrativa grave o falta de requisitos de permanencia o alguna otra causa de separación definitiva y cuya permanencia en el servicio puedan afectar el procedimiento, institución policial o a la sociedad en general.
 
 ###### ARTÍCULO 150.
 
@@ -2849,13 +3471,15 @@ Cuando un Miembro se encuentre sujeto a alguna investigación, averiguación pre
 
 La suspensión preventiva no prejuzga sobre la falta de algún requisito de permanencia o sobre la responsabilidad administrativa o penal que se le imputa al Miembro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 152.
 
-La suspensión preventiva se levantará, cuando así lo resuelva la Contraloría Interna o la Comisión, según corresponda.
+La suspensión preventiva se levantará, cuando así lo resuelva la Unidad de Asuntos Internos o la Comisión, según corresponda.
 
-> <small>(REFORMADO, [N. DE E. ADICIONADO] P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-La suspensión preventiva declarada por la Contraloría Interna será por el tiempo estrictamente para llevar a cabo investigación administrativa.
+La suspensión preventiva declarada por la Unidad de Asuntos Internos será por el tiempo estrictamente (sic) para llevar a cabo (sic) investigación administrativa.
 
 > <small>(REFORMADO, [N. DE E. ADICIONADO] P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -2867,7 +3491,9 @@ La declarada por la Comisión no podrá extenderse más allá de la citación pa
 
 La suspensión preventiva trae como consecuencia separar temporalmente al Miembro de su cargo, así como privarlo de los derechos establecidos en las fracciones I, IV, VI y VIII del artículo 136 de esta Ley.
 
-La Contraloría Interna y la Comisión están obligadas a informar y notificar oportunamente a la autoridad encargada de hacer las remuneraciones y comisiones de servicio, de la suspensión preventiva para los efectos legales correspondientes; igual obligación subsiste cuando se determine levantar la suspensión decretada.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+La Unidad de Asuntos Internos y la Comisión están obligadas a informar y notificar oportunamente a la autoridad encargada de hacer las remuneraciones y comisiones de servicio, de la suspensión preventiva para los efectos legales correspondientes; igual obligación subsiste cuando se determine levantar la suspensión decretada.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -2889,13 +3515,37 @@ Le corresponde a la Secretaría verificar que las sanciones descritas en los art
 
 Las autoridades que apliquen sanciones conforme a lo previsto en esta ley, deberán remitir la información al respecto, de manera inmediata, a la Secretaría.
 
+#### SECCIÓN QUINTA. PROCEDIMIENTO DE SEPARACIÓN DEFINITIVA O DE RESPONSABILIDAD ADMINISTRATIVA
+
 ###### ARTÍCULO 156.
 
 Los Miembros serán separados definitivamente cuando dejen de reunir alguno de los requisitos de permanencia o incurra (sic) en cualquiera de las hipótesis de separación que establece la presente Ley, o suspendidos temporalmente o removidos del cargo cuando incurran en responsabilidad administrativa.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 157.
 
-La Contraloría Interna será la encargada de la investigación administrativa y de solicitar fundada y motivadamente a la Comisión el inicio del procedimiento de separación definitiva o de responsabilidad administrativa, remitiéndole el expediente del presunto infractor.
+La Unidad de Asuntos Internos será la encargada de la investigación administrativa y de solicitar fundada y motivadamente a la Comisión el inicio del procedimiento de separación definitiva o de responsabilidad administrativa, remitiéndole el expediente del presunto infractor.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 157 BIS.- Para el desarrollo del cumplimiento de las funciones de substanciación las Instituciones de Seguridad, contarán con el área de substanciación que se determine en el Reglamento Interior respectivo.
+
+Una vez concluida la investigación y la substanciación del procedimiento, el área correspondiente remitirá el expediente a la autoridad resolutora para emitir la determinación procedente.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 157 TER.- El procedimiento sancionador deberá constar de las siguientes etapas:
+
+I. Inicio formal del procedimiento;
+
+II. Notificación personal y emplazamiento;
+
+III. Admisión y desahogo de pruebas;
+
+IV. Audiencia única; y,
+
+V. Cierre de instrucción y resolución.
 
 ###### ARTÍCULO 158.
 
@@ -2914,6 +3564,8 @@ I.- Lugar, fecha y hora para la celebración de la audiencia, misma que deberá 
 II.- Motivos que dan origen al procedimiento, y el derecho del Miembro a imponerse de autos a fin de que conozca las imputaciones que se le fincan, y pueda defenderse por sí, o por persona de su confianza; además de los (sic) documentales base de la acción, en los que descanse o se funde el procedimiento.
 
 III.- El derecho del Miembro a ofrecer pruebas y alegar a lo que su derecho convenga; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 IV.- El apercibimiento, en caso de que en la audiencia el Miembro no señale domicilio en la ciudad para oír y recibir notificaciones, las notificaciones subsecuentes, aún las de carácter personal, se realizarán en los estrados de la Institución Policial y de las Comisiones.
 
@@ -2935,6 +3587,8 @@ Si el Miembro no señala en la audiencia, domicilio en la ciudad para oír y rec
 
 El Miembro deberá comparecer a la audiencia en forma personal, pero cuando exista un impedimento físico o material debidamente probado y justificado ante la Comisión, el Miembro comparecerá al procedimiento en forma escrita, sin necesidad de ratificación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 164.
 
 La celebración de la audiencia constará de cuatro etapas:
@@ -2945,7 +3599,9 @@ II.- Desahogo de pruebas;
 
 III.- Alegatos; y
 
-IV.- Citación para la resolución.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+IV.- Cierre de la instrucción y citación para la resolución.
 
 En la etapa de declaración, el Miembro rendirá su declaración en forma verbal, tomándose razón de la misma, o por escrito, misma que deberá ratificar en el mismo acto, y deberá versar sobre los hechos que se le imputan.
 
@@ -3001,9 +3657,11 @@ El Miembro tendrá la obligación de proporcionar los medios necesarios para fac
 
 Esta etapa no excederá del término de veinte días.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 174.
 
-Una vez desahogadas las pruebas, se pasará a la etapa de alegatos, que podrán producirse por escrito o en forma verbal del Miembro; y se citará para resolución, la cual deberá dictarse dentro de un plazo de treinta días.
+Una vez desahogadas las pruebas, se pasará a la etapa de alegatos, que podrán producirse por escrito o en forma verbal del Miembro; se declarará cerrada la instrucción y se citará para resolución, la cual deberá dictarse dentro de un plazo de treinta días.
 
 ###### ARTÍCULO 175.
 
@@ -3015,9 +3673,11 @@ La resolución que emita la Comisión se notificará al órgano de control inter
 
 La Comisión, una vez notificado el Miembro, está obligada a informar oportunamente la resolución a la Institución de Seguridad Ciudadana que corresponda, así como al Sistema Estatal de Información, para los efectos legales correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 177.
 
-Para hacer cumplir sus determinaciones, la Contraloría Interna y la Comisión podrán aplicar cualquiera de los medios de apremio siguientes:
+Para hacer cumplir sus determinaciones, la Unidad de Asuntos Internos y la Comisión podrán aplicar cualquiera de los medios de apremio siguientes:
 
 I.- Amonestación;
 
@@ -3027,11 +3687,15 @@ III.- Auxilio de la fuerza pública, y
 
 IV.- Arresto hasta por 36 horas.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 178.
 
-La Contraloría Interna y la Comisión podrán disponer la práctica de las diligencias necesarias para garantizar el debido desarrollo de la investigación administrativa y del procedimiento de separación definitiva o de responsabilidad administrativa respectivamente; asimismo, podrá allegarse de todos los medios de prueba que considere necesarios para mejor proveer.
+La Unidad de Asuntos Internos y la Comisión podrán disponer la práctica de las diligencias necesarias para garantizar el debido desarrollo de la investigación administrativa y del procedimiento de separación definitiva o de responsabilidad administrativa respectivamente; asimismo, podrá allegarse de todos los medios de prueba que considere necesarios para mejor proveer.
 
-La valoración de las pruebas se sujetará a las disposiciones del Código de Procedimientos Civiles para el Estado de Baja California.
+La valoración de las pruebas se sujetará a las disposiciones de la Ley de Responsabilidades Administrativas del Estado de Baja California
+
+#### SECCIÓN SEXTA. NOTIFICACIONES
 
 ###### ARTÍCULO 179.
 
@@ -3049,13 +3713,17 @@ IV. La citación para el desahogo de pruebas;
 
 V. La resolución definitiva que recaiga al procedimiento de remoción y de separación definitiva, y
 
-VI. Las demás que ordene la Contraloría Interna o quien ejerza el mando directo sobre la Institución Policial.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+VI. Las demás que ordene la Unidad de Asuntos Internos o quien ejerza el mando directo sobre la Institución Policial.
 
 ###### ARTÍCULO 180.
 
 El acuerdo de inicio del procedimiento de separación definitiva, responsabilidad administrativa y la suspensión preventiva, podrá notificarse al Miembro en las instalaciones de las Instituciones Policiales, o en el lugar en que se encuentre.
 
-En caso de que el Miembro se niegue a recibir la notificación, se hará constar esta circunstancia asentándose en el acta respectiva, misma que se fijará en los estrados de la Institución Policial y de la Contraloría Interna.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+En caso de que el Miembro se niegue a recibir la notificación, se hará constar esta circunstancia asentándose en el acta respectiva, misma que se fijará en los estrados de la Institución Policial y de la Unidad de Asuntos Internos.
 
 ###### ARTÍCULO 181.
 
@@ -3063,15 +3731,19 @@ Cuando el notificador no encontrare persona alguna en el domicilio en la primera
 
 Si habiéndose levantado constancia de la primera visita, el notificador encontrare al Miembro dentro del término concedido para la espera, procederá a entender la diligencia de notificación.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 182.
 
-Si el Miembro no vive en el domicilio señalado en el expediente personal o este fuere inexistente, se hará constar esta circunstancia asentándose en el acta respectiva y se realizará la notificación por estrados de la Institución de Seguridad Pública y de la Contraloría Interna.
+Si el Miembro no vive en el domicilio señalado en el expediente personal o este fuere inexistente, se hará constar esta circunstancia asentándose en el acta respectiva y se realizará la notificación por estrados de la Institución de Seguridad y de la Unidad de Asuntos Internos.
 
 ###### ARTÍCULO 183.
 
 Las notificaciones que se tengan que realizar a personas diversas a los Miembros, se harán en los términos del Código de Procedimientos Civiles para el Estado de Baja California. Las notificaciones que se deban realizar a los Miembros, diversas y posteriores a las del acuerdo de inicio del procedimiento de remoción y suspensión preventiva, se realizarán en el domicilio que para tales efectos se hubiere señalado por aquellos, siguiendo las reglas establecidas por los artículos 179, 180, 181 y 182.
 
-Si el Miembro no hubiere señalado domicilio para oír y recibir notificaciones en la ciudad, las notificaciones subsecuentes, aún las de carácter personal, se realizarán en los estrados de la Institución de Seguridad Pública y de la Contraloría Interna.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Si el Miembro no hubiere señalado domicilio para oír y recibir notificaciones en la ciudad, las notificaciones subsecuentes, aún las de carácter personal, se realizarán en los estrados de la Institución de Seguridad y de la Unidad de Asuntos Internos.
 
 ###### ARTÍCULO 184.
 
@@ -3101,9 +3773,15 @@ c) Jubilación o retiro.
 
 Al concluir el servicio el Miembro deberá entregar al funcionario designado para tal efecto, toda la información, documentación, equipo, materiales, identificaciones, valores u otros recursos que hayan sido puestos bajo su responsabilidad o custodia mediante acta de entrega recepción.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 185 BIS.- Las solicitudes de reingreso al servicio profesional de carrera se analizarán y, en su caso, se concederán siempre y cuando el motivo de la baja haya sido por renuncia. En el caso de que el personal haya renunciado, la existencia de sanciones posteriores que resulten de procedimientos iniciados durante el tiempo que prestaba sus servicios no será impedimento para registrarlas en su expediente personal. Las Instituciones de Seguridad deberán establecer su propia normativa para tal efecto la que deberá considerar al menos los requisitos de ingreso establecidos en el artículo 116 de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 186.
 
-En ningún caso procederá la reincorporación, restitución o reinstalación en el servicio del Miembro, cualquiera que sea el resultado del juicio o medio de defensa que hubiera promovido.
+En ningún caso procederá la reincorporación, restitución o reinstalación en el servicio del Miembro, cualquiera que sea el resultado del juicio o medio de defensa que hubiere promovido, de conformidad con el artículo 123, Apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos. Tal circunstancia será inscrita en el registro nacional correspondiente.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -3113,29 +3791,39 @@ El Miembro que llegare a obtener resolución que considere injustificada la sepa
 
 La indemnización consiste en la cantidad equivalente a tres meses de la remuneración que gozaba hasta antes de su separación definitiva o remoción del cargo.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 186 BIS.- El derecho a reclamar los haberes, salarios y prestaciones devengadas prescribirá en el término de un año, cualquiera que sea la causa de su origen, contado a partir del día siguiente a aquel en que surta efectos la notificación respectiva; mientras que la acción para impugnar la remoción prescribirá en el plazo de cuatro meses, contado en igual forma.
+
 ###### ARTÍCULO 187.
 
 En caso de separación voluntaria, los Miembros tendrán derecho a recibir las condiciones del servicio que se hubieran generado, en los términos de los reglamentos correspondientes.
 
 ### CAPÍTULO VIII. PRESCRIPCIÓN
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 188.
 
-Prescribirá en un año la facultad para la aplicación de correcciones disciplinarias, contado a partir de que por cualquier medio se tenga conocimiento de que el Miembro incumplió alguna de sus obligaciones en los términos de esta Ley.
+La prescripción extingue la facultad de la autoridad competente para imponer correctivos disciplinarios o sanciones administrativas y comenzará a computarse a partir del día siguiente a aquel en que se haya cometido la infracción, o desde que haya cesado su comisión si esta fuera de carácter continuo.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 189.
 
-Prescribe en un año la facultad de la Contraloría Interna para solicitar a la Comisión el inicio del procedimiento respectivo, contado a partir del día en que por cualquier medio se tenga conocimiento de hechos que hagan presumir que algún Miembro ha dejado de cumplir con alguno de los requisitos de permanencia previstos en esta Ley y demás casos contemplados en la misma o que pudiese haber incurrido en responsabilidad administrativa.
+Tratándose de correctivos disciplinarios prescribirá en un año la facultad para su imposición, contado a partir de que por cualquier medio se tenga conocimiento de que el Miembro incumplió alguna de sus obligaciones en los términos de esta Ley.
 
-Prescribe en dos años la facultad de la Comisión, para dictar la resolución definitiva y notificarla al afectado contados a partir de la notificación del acuerdo de inicio del procedimiento correspondiente.
+Tratándose de faltas administrativas prescribe la facultad de la autoridad competente para su imposición en tres años, tratándose de conductas clasificadas como no graves y en siete años, tratándose de conductas clasificadas como graves.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 190.
 
-La prescripción a que alude el segundo párrafo del artículo anterior se interrumpirá en los siguientes casos:
+La prescripción se interrumpirá:
 
-I. Con la celebración de la audiencia administrativa, y
+I.- Por cualquier actuación de la autoridad encaminada a investigar, sustanciar o resolver el procedimiento disciplinario, siempre que dicha actuación sea formalmente notificada a la persona sujeta al procedimiento; y,
 
-II. Con la interposición de algún juicio o medio de defensa en contra de la resolución que se hubiese emitido dentro del Procedimiento.
+II.- Por la interposición de algún juicio o medio de defensa en contra de la resolución que se hubiese emitido dentro del Procedimiento.
 
 ### CAPÍTULO IX. CERTIFICACIÓN
 
@@ -3183,11 +3871,17 @@ I. Al ser separados de su encargo por incumplir con alguno de los requisitos de 
 
 II. Al ser removidos de su encargo;
 
-III. Por no obtener la revalidación de su Certificado, y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+III. Por no obtener la revalidación de su Certificado;
 
-I a IV. (sic) Por las demás causas que establezcan las disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+IV. Se actualice alguna de las hipótesis previstas en el artículo 185 de esta Ley;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+V. Por las demás causas que establezcan las disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -3666,3 +4360,17 @@ P.O. 15 DE DICIEMBRE DE 2025.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- En tanto no se emita un nuevo instrumento, el Fideicomiso a que se refiere el presente decreto, será el constituido por el Poder Ejecutivo del Estado de conformidad con el "Programa para el otorgamiento de prestaciones de Seguridad Social en favor de los Miembros de las Instituciones Policiales del Estado", publicado en el Periódico Oficial del Estado en fecha veintiuno de julio de dos mil veintitrés.
+
+P.O. 26 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 210 MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA, LEY SOBRE DESAPARICIÓN Y BÚSQUEDA DE PERSONAS PARA EL ESTADO DE BAJA CALIFORNIA, ASÍ COMO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California, con excepción de lo previsto en los transitorios segundo y tercero.
+
+SEGUNDO.- Las mesas de paz a que refieren los artículos 17 BIS y 17 TER entrarán en funcionamiento hasta en tanto la Secretaría de Gobernación del Gobierno Federal expida el Acuerdo por el que se regulará la operación, funcionamiento e integración de las mesas de paz de las entidades federativas y regionales.
+
+TERCERO.- Los procesos de reclutamiento que se encuentren en curso al momento de la entrada en vigor del presente Decreto continuarán rigiéndose conforme a la normatividad vigente al momento de su inicio. No obstante, las personas aspirantes deberán cumplir con los requisitos de ingreso establecidos en el artículo 116 del presente Decreto.
+
+CUARTO.- En virtud del cambio de denominación de las Contralorías Internas por Unidades de Asuntos Internos aprobado en las presentes reformas, toda referencia hecha a las respectivas contralorías internas en las disposiciones legales o normativas, así como en actuaciones administrativas o judiciales correspondientes se entenderán hecha a las Unidades de Asuntos Internos correspondientes.
+
+Asimismo, los recursos presupuestales, financieros, humanos y materiales correspondientes a las Contralorías Internas de las Instituciones de Seguridad, se conservarán para el ejercicio de las Unidades de Asuntos Internos correspondiente a cada Institución de Seguridad.
