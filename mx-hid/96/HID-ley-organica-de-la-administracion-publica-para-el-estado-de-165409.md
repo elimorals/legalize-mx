@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-administracion-publica-para-el-estado-de-165
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-03-31"
-last_updated: "2025-12-17"
+last_updated: "2025-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Alcance Tres Número 13 del Periódico Oficial del Estado de Hidalgo, el viernes 31 de marzo de 2023.
 
@@ -1191,7 +1191,9 @@ II.- Proponer a la Persona Titular del Poder Ejecutivo del Estado, las política
 
 III.- Establecer lineamientos y mecanismos de planeación, programación, presupuestación y evaluación en materia de salud;
 
-IV.- Organizar y coordinar el Sistema Estatal de Salud a fin de dar cumplimiento al derecho a la protección de la salud, mismo que está constituido por las Dependencias y Entidades de la Administración Pública Estatal, las personas físicas o morales de los sectores social y privado que presten servicios de salud;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+IV.- En el ámbito de sus atribuciones, ejercer la rectoría, organizar y coordinar el Sistema Estatal de Salud de Hidalgo, integrado conforme a lo dispuesto en la Ley de la materia, a fin de dar cumplimiento al derecho a la protección de la salud;
 
 V.- Vigilar y evaluar la congruencia y el cumplimiento eficaz de los programas que desarrollen las Dependencias, Entidades y demás integrantes del Sistema Estatal de Salud;
 
@@ -1818,3 +1820,9 @@ CUARTO. En el Decreto a que hace referencia el Transitorio Tercero del presente,
 QUINTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán su despacho por la Dependencia o Entidad responsable de los mismos, conforme a las disposiciones jurídicas aplicables.
 
 SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 363 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO Y A LA LEY DE SALUD PARA EL ESTADO DE HIDALGO, EN MATERIA DE RECTORÍA DEL SISTEMA ESTATAL DE SALUD".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
