@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-del-estado-de-nayarit-90652"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-22"
-last_updated: "2023-12-06"
+last_updated: "2025-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY DE HACIENDA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección Décima Primera del Periódico Oficial del Estado de Nayarit, el sábado 22 de diciembre de 2012.
 
@@ -411,11 +411,51 @@ Cuando la adquisición sea obtenida por premios en rifas y sorteos, se considera
 
 #### SECCIÓN TERCERA. De la Base
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 27.
 
-Servirá de base para el pago del impuesto a que se refiere este capítulo, el valor que resulte más alto entre el de la operación y el oficial conforme a la tabla de valores que anualmente emita la Secretaría de Administración y Finanzas para este efecto, la cual deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado.
+Para los efectos de este impuesto, la base gravable se determinará conforme a lo siguiente:
+
+I. Respecto de los vehículos usados cuyo modelo sea del año en curso o del siguiente, se considerará el valor total consignado en la factura inicial de adquisición que hubiese expedido el fabricante, ensamblador o agencia distribuidora autorizada, sin incluir el Impuesto al Valor Agregado, siempre que se encuentre desglosado.
+
+II. Tratándose de vehículos usados de uno a diez años de antigüedad, se considerará el valor total del vehículo establecido en la factura inicial de adquisición que hubiese expedido el fabricante, ensamblador o agencia distribuidora autorizada, sin incluir el Impuesto al Valor Agregado, siempre que se encuentre desglosado. El valor del vehículo se multiplicará por el factor correspondiente, de acuerdo al año modelo del vehículo de conformidad con la siguiente tabla:
+
+Años de antigüedad Factor
+
+1 0.8687
+
+2 0.7844
+
+3 0.7257
+
+4 0.6704
+
+5 0.6542
+
+6 0.6019
+
+7 0.5558
+
+8 0.5229
+
+9 0.4938
+
+10 0.4585
+
+El resultado se actualizará en los términos del artículo 31 del Código Fiscal del Estado de Nayarit, dividiendo el Índice Nacional de Precios al Consumidor, del mes anterior a aquél en que se realice el pago del impuesto, entre el citado índice correspondiente al mes anterior a la fecha de la factura inicial de adquisición, del vehículo de que se trate.
+
+III. Los vehículos de 11 a 15 años de antigüedad pagarán una cuota fija equivalente a quince veces el valor diario de la Unidad de Medida y Actualización.
+
+IV. Los vehículos a partir de 16 años de antigüedad, pagarán una cuota fija equivalente a siete veces el valor diario de la Unidad de Medida y Actualización.
+
+V. Tratándose de motocicletas, remolques o semirremolques a partir de 11 años de antigüedad, pagarán una cuota fija equivalente a tres veces el valor diario de la Unidad de Medida y Actualización.
+
+VI. Tratándose de vehículos usados de procedencia extranjera de uno a diez años de antigüedad que acrediten su legal estancia en el país con Pedimento de Importación, se considerará el valor en aduana expresado en el mismo.
+
+El valor en aduana antes señalado, se actualizará en los términos del artículo 31 del Código Fiscal del Estado de Nayarit, dividiendo el Índice Nacional de Precios al Consumidor, del mes anterior a aquél en que se realice el pago del impuesto, entre el citado índice correspondiente al mes anterior a la fecha del pedimento de importación, del vehículo de que se trate.
+
+VII. Cuando se trate de vehículos usados de procedencia extranjera de uno a diez años de antigüedad regularizados al amparo de los diversos decretos publicados en el Diario Oficial de la Federación; que no cuenten con factura inicial de adquisición, pagarán una cuota fija equivalente a veinte veces el valor diario de la Unidad de Medida y Actualización.
 
 #### SECCIÓN CUARTA. De la Cuota
 
@@ -427,19 +467,19 @@ Este impuesto se causará y pagará a la tasa del 2%.
 
 #### SECCIÓN QUINTA. Del Pago
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 29.
 
-El impuesto se pagará dentro de los treinta días siguientes a la adquisición, cumpliendo con los requisitos que para tal efecto se establezcan.
+El impuesto se pagará ante la Oficina Recaudadora de Rentas correspondiente, dentro de los treinta días siguientes a la adquisición, cumpliendo con los requisitos que para tal efecto se establezcan.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 Tratándose de adquisición de vehículos usados, el adquirente será responsable del pago del impuesto que hubiera dejado de cubrirse en anteriores adquisiciones.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-Cuando no se presente el aviso de cambio de propietario en el plazo previsto en el primer párrafo de este artículo, se impondrá una multa equivalente a nueve veces el valor diario de la Unidad de Medida y Actualización calculada en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
+Cuando no se presente el aviso de cambio de propietario en el plazo previsto en el primer párrafo de este artículo, se impondrá una multa equivalente de nueve a veinte veces el valor diario de la Unidad de Medida y Actualización calculada en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo séptimo de la Constitución Política de los Estados Unidos Mexicanos.
 
 Para este efecto se considerará como fecha de la adquisición la que aparezca en la factura o documento en que se haya hecho constar la misma a favor del sujeto obligado, en su defecto la que corresponda al mes inmediato anterior al de la realización del trámite de baja y alta respectivo.
 
@@ -1357,7 +1397,9 @@ La Secretaría de Administración y Finanzas mantendrá actualizado el Padrón V
 
 Los propietarios de los vehículos deberán pagar los derechos correspondientes por cualquiera de los siguientes trámites:
 
-a) Dotación de Placas de Circulación
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+a) Dotación de Placas de Circulación por alta al padrón de vehículos nuevos o usados, por cambio de propietario o Reemplacamiento por canje total de placas de circulación.
 
 b) Expedición de Tarjeta de Circulación
 
@@ -1367,7 +1409,9 @@ d) Cambio de Numero de Motor y/o color
 
 e) Baja de vehículos con registro estatal o foráneo
 
-f) Verificación de Documentos para comprobar la legítima procedencia a vehículos extranjeros
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+f) Verificación de Documentos de vehículos de procedencia extranjera, con los cuales se pretenda acreditar su legal estancia en el país.
 
 g) Verificación de adeudos pendientes de vehículos procedentes de otros Estados, nacionales o extranjeros
 
@@ -1375,9 +1419,21 @@ g) Verificación de adeudos pendientes de vehículos procedentes de otros Estado
 
 Para dar de alta un vehículo de procedencia extranjera se deberá acreditar la legal estancia del mismo, en los términos previstos en la Ley Aduanera y otras disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-Para obtener la baja en el Padrón o realizar el canje de placas, además de pagar el derecho correspondiente, será preciso devolver las placas respectivas, salvo en los casos de robo o destrucción, situación que deberá acreditar con la denuncia o información testimonial correspondiente.
+Para obtener la baja en el Padrón o realizar el canje de placas, además de pagar el derecho correspondiente y acreditar el pago de las contribuciones en materia de control vehicular hasta por cinco ejercicios fiscales anteriores al actual, será preciso devolver las placas respectivas, salvo en los casos de robo o pérdida total, situación que deberá acreditar con la denuncia o jurisdicción voluntaria interpuesta ante la autoridad correspondiente.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Conforme a lo establecido en el artículo séptimo del Acuerdo Secretarial mediante el cual se fijan las características y especificaciones de las placas metálicas, calcomanías de identificación y revalidación, y tarjetas de circulación para los diferentes tipos de servicio, publicado en el Diario Oficial de la Federación el 25 de Septiembre de 2000, la vigencia de las placas de circulación es de tres años, contados a partir del año en que la entidad federativa realice canje total de placas de circulación.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Cuando por alguna circunstancia no se lleve a cabo Reemplacamiento por canje total de placas de circulación en el ejercicio fiscal que corresponda, la Secretaría de Administración y Finanzas, deberá informar a la Secretaría de Infraestructura, Comunicaciones y Transportes.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+El plazo para que los propietarios de los vehículos efectúen el Reemplacamiento por canje total de placas de circulación, se establecerá en la Ley de Ingresos del Estado Libre y Soberano de Nayarit del ejercicio fiscal correspondiente.
 
 ## TÍTULO QUINTO. DE LAS CONTRIBUCIONES POR MEJORAS
 
@@ -1804,3 +1860,9 @@ P.O. 6 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO DE NAYARIT, EN MATERIA DEL IMPUESTO SOBRE COMPRAVENTA VEHÍCULAR E IMPUESTOS ADICIONALES”.]
 
 Único. El presente decreto entrará en vigor el día primero de enero del año dos mil veinticuatro, previa su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 26 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS ARTÍCULOS 27, 29 Y 95-A DE LA LEY DE HACIENDA DEL ESTADO DE NAYARIT”.]
+
+ÚNICO. El presente decreto entrará en vigor el día 1° de enero del año dos mil veintiséis, previa su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
