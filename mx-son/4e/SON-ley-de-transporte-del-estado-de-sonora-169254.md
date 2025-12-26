@@ -4,7 +4,7 @@ identifier: "SON-ley-de-transporte-del-estado-de-sonora-169254"
 country: "mx"
 rank: "ley"
 publication_date: "2024-01-05"
-last_updated: "2024-01-05"
+last_updated: "2025-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=169254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE TRANSPORTE DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 5 de enero de 2024.
 
@@ -191,6 +191,10 @@ L. Socios o personas asociadas de las empresas de redes de transporte: Aquellas 
 
 LI. Tarifa: Contraprestación a cargo de las personas usuarias, autorizada por el Instituto para la prestación del servicio de transporte en los sistemas de urbano, suburbano, carga regular, así como aquellas que sean determinadas por el Instituto; exceptuando, al servicio privado de transporte mediante aplicaciones móviles que se realiza mediante empresas de redes de transporte;
 
+> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2025)</small>
+
+LI. BIS. Tarifa por kilómetro recorrido: Contraprestación a cargo del Estado, que se cubre a través del Instituto, para pagar los kilómetros recorridos que realiza una persona moral concesionaria durante la prestación del servicio de transporte público urbano en un sistema integrado de rutas, en el que existen mecanismos tecnológicos de vigilancia, gestión de flota y recaudo.
+
 LII. Tecnología: Conjunto de teorías, técnicas, instrumentos y procedimientos que permiten el aprovechamiento práctico del conocimiento científico para ofrecer un bien o servicio que asista, facilite o mejore el sistema de transporte;
 
 LIII. Terminal: El espacio físico exclusivo que cuenta con instalaciones e infraestructura técnica y logística que permite la operación de manera integral de toda actividad asociada a la prestación de los servicios de transporte;
@@ -317,9 +321,71 @@ El Instituto tendrá a su cargo ejecutar en el ámbito de su competencia, la pol
 
 En el ejercicio de su función, se regirá por los siguientes principios rectores: sostenibilidad, calidad y transparencia.
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 8.
 
-Cuando por razón de la materia y de conformidad con las disposiciones legales aplicables, se requiera la intervención de otras dependencias, el Instituto, según corresponda, ejercerá sus atribuciones en colaboración y coordinación con las mismas. Las dependencias y entidades de la administración pública estatal que ejerzan atribuciones relacionadas con el objeto de la presente Ley ajustarán su ejercicio a los criterios establecidos en ésta.
+La persona titular de la Coordinación Ejecutiva además de las atribuciones previstas en la Ley Orgánica del Poder Ejecutivo y en el artículo 10 de la presente Ley, tendrá las siguientes atribuciones generales:
+
+I. Ejercer toda clase de representación, derechos, defensas, acciones y gestiones ante cualquier Tribunal, Juzgado, autoridad judicial, administrativa, Juntas de Conciliación y Arbitraje, locales o federales, autoridades de trabajo, organismos descentralizados o desconcentrados, Comisión de Derechos Humanos y Órganos Fiscalizadores; facultado para interponer recursos, incidentes, presentar demandas, contestaciones, atender y dar cumplimiento a requerimientos, articular y absolver posiciones, formular interrogatorio abierto y responder preguntas, ofrecer, intervenir y desahogar todo (sic) clase de pruebas, celebrar convenios y transacciones, formular alegatos y en general realizar cualquier acto, trámite o gestión que resulte necesario o conveniente para la defensa de los intereses del Instituto;
+
+II. Velar por la buena marcha del Instituto y promover las medidas administrativas, contables, organizacionales, financieras y demás que correspondan, con sujeción a las disposiciones legales aplicables;
+
+III. Fungir como apoderado general del Instituto con todas las facultades generales y las especiales que requieran cláusula especial conforme a la ley;
+
+IV. Someter a la decisión de la Junta Directiva todas aquellas cuestiones que sean de su competencia;
+
+V. Convocar a sesiones ordinarias y extraordinarias a los miembros de la Junta Directiva cuando proceda o a su juicio existan razones suficientes;
+
+VI. Dar cumplimiento a los acuerdos que emita la Junta Directiva;
+
+VII. Elaborar y proponer a la Junta Directiva el Reglamento Interior del Instituto, los manuales de organización y procedimientos, así como las propuestas de reforma a dichos instrumentos;
+
+VIII. Formular y presentar a la Junta Directiva, para su aprobación, el proyecto del presupuesto anual de ingresos y egresos del Instituto;
+
+IX. Presentar anualmente a la Junta Directiva dentro de los tres primeros meses del año, o cuando así sea requerido, los estados financieros y el informe de actividades del año anterior;
+
+X. Otorgar y suscribir títulos de créditos y celebrar operaciones de crédito, hasta por la cantidad que autorice la Junta Directiva, siempre y cuando los títulos y las operaciones se deriven de actos propios del objeto del Instituto;
+
+XI. Adquirir los bienes y contratar los servicios que requiera el Instituto;
+
+XII. Formular querellas y denuncias, otorgar el perdón extintivo de la acción penal, así como promover y desistirse del juicio de amparo, en relación con los asuntos en los que sean (sic) parte el Instituto;
+
+XIII. Conferir poderes generales y especiales, y resolver bajo su inmediata y directa responsabilidad los asuntos urgentes de la competencia de la Junta, a reserva de dar cuenta a la misma en la sesión inmediata siguiente;
+
+XIV. Otorgar y revocar toda clase de poderes generales y especiales, delegando y sustituyendo todas sus facultades en los apoderados designados, incluidos profesionistas externos.
+
+XV. Delegar cualquiera de sus atribuciones en otros servidores públicos del Instituto con nivel de Director General o equivalente, con excepción de aquellas que, por su propia naturaleza, por disposición legal o por acuerdo de la Junta Directiva sean indelegables;
+
+XVI. Diseñar e implementar la estrategia técnica y financiera para el desarrollo de proyectos específicos que, acordes con las estrategias que define el Ejecutivo, el Plan Estatal de Desarrollo, el Programa Estatal de Movilidad, Seguridad Vial y Transporte y demás normatividad aplicable, procuren la modernización, calidad, eficiencia y sostenibilidad del servicio de transporte;
+
+XVII. Proponer y ejecutar la política estatal de subsidios relacionados con la prestación del servicio público de transporte; así como hacer llegar a los destinatarios los recursos materiales y financieros que se obtengan a través de los programas y subprogramas autorizados para proyectos específicos de transporte canalizando los recursos materiales y financieros actualmente disponibles y los que posteriormente se obtengan y que se constituyan para esos efectos;
+
+XVIII. Auxiliar técnicamente a los concesionarios y permisionarios del servicio público y privado de transporte en la planeación e implementación de sus estrategias;
+
+XIX. Proporcionar la información, los datos o la cooperación técnica que le sean requeridas por otras dependencias o entidades de la Administración Pública Estatal, o en su caso, la administración pública municipal;
+
+XX. Proporcionar la información que le solicite el Órgano Interno de Control;
+
+XXI. Solicitar información a las diversas dependencias y entidades públicas de los tres órdenes de gobierno, así como a las asociaciones o empresas del sector privado, relacionada con los derechos, obligaciones y demás disposiciones que se relacionen con el desarrollo del sistema de transporte y sus servicios auxiliares o conexos;
+
+XXII. Realizar la certificación de documentos emitidos por funcionarios adscritos al Instituto en ejercicio de sus funciones, así como aquellos que obren en medios electrónicos, sistemas informáticos, y en los archivos físicos o digitales del Instituto;
+
+XXIII. Nombrar y remover al personal del Instituto; así como emitir los nombramientos correspondientes.
+
+XXIV. Autorizar en casos extraordinarios la suspensión de labores;
+
+XXV. Conceder licencias al personal en los términos de las leyes correspondientes;
+
+XXVI. Celebrar los actos jurídicos que sean necesarios para el cumplimiento de sus funciones;
+
+XXVII. Celebrar convenios con integrantes de los sectores público, social y privado; así como con las dependencias y organismos de los tres niveles de gobierno, para la ejecución de las acciones relacionadas con el objeto del Instituto;
+
+XXVIII. Proponer los instrumentos reglamentarios necesarios para el adecuado ejercicio de las atribuciones del Instituto, tanto los relacionados con su estructura, como aquellos derivados de las legislaciones vinculadas con la materia; y
+
+XXIX. Las demás que le confieran las leyes de la materia, el presente ordenamiento, el Reglamento Interior del Instituto y la Junta Directiva.
+
+Cuando por razón de la materia y de conformidad con las disposiciones legales aplicables, se requiera la intervención de otras dependencias, la persona titular del Instituto, según corresponda, ejercerá sus atribuciones en colaboración y coordinación con las mismas. Las dependencias y entidades de la administración pública estatal que ejerzan atribuciones relacionadas con el objeto de la presente Ley ajustarán su ejercicio a los criterios establecidos en ésta.
 
 ###### ARTÍCULO 9.
 
@@ -845,11 +911,15 @@ Para la prestación del servicio de transporte en las diversas modalidades y sis
 
 La tenencia legal será suficiente cuando la unidad se encuentre sujeta a crédito o arrendamiento financiero debidamente demostrado y deberá inscribirse así en el Registro Público de Transporte, así como en el Registro Estatal Vehicular para efectos de concedérseles placas de servicio público, cuando corresponda.
 
-Las personas morales podrán acreditar la tenencia legal mediante contrato de arrendamiento o comodato suscrito con empresas filiales o de un mismo corporativo que se integren por los mismos socios.
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Las personas morales podrán acreditar la tenencia legal mediante contrato de arrendamiento o comodato suscrito con empresas filiales o de un mismo corporativo.
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 24.
 
-Quienes ostenten el carácter de personas concesionarias del servicio público colectivo e individual y acrediten ser mayores de 65 años, podrán renovar sus unidades para cumplir con la vida útil, acreditando la tenencia legal, mediante contrato de arrendamiento o comodato suscrito con una persona con quien tenga relación de parentesco por consanguinidad o por afinidad hasta el cuarto grado.
+Quienes ostenten el carácter de personas concesionarias del servicio público colectivo e individual de pasaje, así como en el servicio público de carga regular y acrediten ser mayores de 65 años, podrán renovar sus unidades para cumplir con la vida útil, acreditando la tenencia legal, mediante contrato de arrendamiento o comodato suscrito con una persona con quien tenga relación de parentesco por consanguineidad o por afinidad hasta el cuarto grado.
 
 ###### ARTÍCULO 25.
 
@@ -867,11 +937,19 @@ Para una mayor supervisión y control del servicio, el Instituto podrá auxiliar
 
 El servicio de transporte público urbano deberá prestarse con vehículos que cuenten con aire acondicionado y mantenerlo encendido y en correcto funcionamiento durante un periodo mínimo comprendido entre el 15 de abril al 15 de octubre de cada año, sin perjuicio de que el Instituto pueda ampliar dicho período cuando lo exijan circunstancias climáticas extraordinarias, atendiendo lo dispuesto en el reglamento de la presente Ley.
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 29.
 
 Los vehículos de transporte privado mediante aplicaciones móviles, público, especial y mercantil, deberán tener una antigüedad máxima a partir de su fabricación de acuerdo a la siguiente tabla:
 
-> <small>[N. DE E. VÉASE TABLA EN EL B.O. DE 5 DE ENERO DE 2024, PÁGINA 21.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL B.O. DE 26 DE DICIEMBRE DE 2025, PÁGINA 6.]</small>
+
+En el sistema de transporte público urbano, se podrá aplicar una tarifa diferenciada, atendiendo al tipo de unidad con la que se brinde el servicio; únicamente, las unidades tipo A podrán ser beneficiadas con subsidios a la operación.
+
+En el sistema suburbano y agrícola, las personas morales concesionarias deberán brindar el servicio con unidades tipo A, mientras que, las personas físicas concesionarias que acrediten brindar el servicio podrán realizarlo con unidades tipo B.
+
+En el transporte especial las empresas las empresas (sic) que cuenten con registro podrán solicitar autorizaciones para sus unidades tipo A y B, siendo en este caso, la demanda de las empresas que los contratan quienes determinen el tipo de la unidad o modelo con el que se les brindará el servicio.
 
 ###### ARTÍCULO 30.
 
@@ -1139,11 +1217,15 @@ VII. Las demás que se establezcan en la presente ley y en las demás disposicio
 
 El servicio público de transporte colectivo se prestará con el tipo de vehículos establecidos en la presente ley, su reglamento y demás disposiciones aplicables, atendiendo a cada sistema y a las condiciones de otorgamiento de la explotación del servicio que a cada uno le correspondan.
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 67.
 
-El Instituto establecerá el tipo de unidad, especificaciones y características requeridas para satisfacer la demanda ante cada proceso de convocatoria para el otorgamiento de concesiones, según los estudios técnicos, de gestión de demanda y de origen destino que elabore.
+El Instituto establecerá el tipo de unidad, especificaciones y características requeridas para satisfacer la demanda ante cada proceso de convocatoria para el otorgamiento de concesiones, según los estudios técnicos, financieros, de gestión de demanda y de origen destino que elabore.
 
-La concesión otorgada deberá operar durante el periodo de su vigencia con una unidad que cumpla con esas características. Ante la modificación de las dinámicas de movilidad que se presenten en las rutas designadas, los concesionarios podrán solicitar al Instituto la modificación del tipo de vehículo, ya sea para satisfacer una menor o mayor demanda, ante lo cual el Instituto realizará el estudio correspondiente y resolverá si procede la modificación de unidad solicitada.
+La concesión otorgada deberá operar durante el periodo de su vigencia con la unidad que cumpla con esas características. Ante la modificación de las dinámicas de movilidad que se presenten en las rutas designadas, los concesionarios podrán solicitar al Instituto la modificación del tipo de vehículo, ya sea para satisfacer una menor o mayor demanda, ante lo cual el Instituto realizará el estudio correspondiente y resolverá si procede la modificación de unidad solicitada.
+
+En los sistemas de transporte urbano integrados, que operen bajo el amparo de una concesión por rutas, se deberá brindar el servicio durante toda la vigilancia de la concesión en los términos requeridos en el proceso de convocatoria, estableciendo los requisitos de operación en sus títulos de concesión. En estos sistemas se podrá establecer el modelo de pago por kilómetro recorrido.
 
 ###### ARTÍCULO 68.
 
@@ -1945,6 +2027,18 @@ La transmisión de acciones o partes sociales de una persona moral concesionaria
 
 La vigencia de las concesiones será de diez años. A petición de sus titulares, las concesiones podrán renovarse por periodos de igual tiempo, siempre que aquéllos acrediten el cumplimiento de los requisitos establecidos en la presente Ley para personas físicas o morales concesionarias.
 
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2025)</small>
+
+La vigencia podrá otorgarse o extenderse en el sistema de transporte urbano hasta quince años, cuando la operación se realice con unidades cuyo funcionamiento sea con gas natural comprimido o híbrido, y hasta veinte años cuando operen con unidades eléctricas, sujeto a la vida útil de la unidad.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2025)</small>
+
+La vigencia de otorgamiento de concesiones prevista en este artículo podrá ser aplicada en otro tipo de tecnologías de cero emisiones más avanzadas, incluyendo hidrógeno verde, en términos de la convocatoria que se emita para tal efecto.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2025)</small>
+
+El concesionario podrá sustituir sus unidades en operación por vehículos que operen con dichas tecnologías siempre y cuando las unidades cumplan con los requerimientos técnicos que determine el instituto y previa aprobación de este último.
+
 ###### ARTÍCULO 185.
 
 Las normas relacionadas con la organización, funcionamiento, explotación o aprovechamiento del servicio podrán ser modificadas unilateralmente por el Estado sin el consentimiento de la persona concesionaria, considerando como principios rectores del interés general la continuidad en la prestación del servicio, la calidad y la asequibilidad.
@@ -2131,9 +2225,13 @@ Los puntos resolutivos de la resolución que pronuncie el Titular del Ejecutivo 
 
 Una vez que el Titular del Poder Ejecutivo del Estado emita la resolución de otorgamiento respectiva, el Instituto substanciará el procedimiento de comparecencia para consolidar el otorgamiento y expedir el título de concesión.
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 204.
 
-Las personas beneficiarias tendrán tres meses contados a partir de la publicación de la resolución en el Boletín Oficial del Gobierno del Estado de Sonora, para acudir al Instituto o a la Dirección Regional correspondiente para efectos de realizar la comparecencia y proceder al trámite de adjudicación de la concesión. En caso de no acudir se declarará la caducidad de su procedimiento de otorgamiento, perdiendo su derecho a adjudicarse dicha concesión.
+Las personas beneficiarias tendrán hasta doce meses contados a partir de la publicación de la resolución en el Boletín Oficial del Gobierno del Estado de Sonora, debiendo atender el plazo establecido en la convocatoria de que se trate, para acudir al Instituto o a la Dirección Regional correspondiente para efectos de realizar la comparecencia y proceder al trámite de adjudicación de la concesión. En caso de no acudir se declarará la caducidad de su procedimiento de otorgamiento, perdiendo su derecho a adjudicarse dicha concesión.
+
+En los sistemas integrados de transporte en los que se operen concesiones por ruta con diversas unidades, el proceso se considerará concluido cuando se haya cumplido con el alta en el Registro Público de Transporte de todas las unidades y se haya acreditado el cumplimiento de todos los requisitos de infraestructura y demás consideraciones establecidas en la convocatoria correspondiente.
 
 ###### ARTÍCULO 205.
 
@@ -2575,9 +2673,15 @@ Los permisos temporales se otorgarán hasta por un plazo de 30 días naturales, 
 
 #### Sección IV. De los permisos particulares
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 248.
 
-El permiso particular de transporte se requiere cuando una persona realice el servicio de carga sobre un bien, a favor de un tercero, o vinculado con la prestación de un servicio que realice, sin generar un lucro por la transportación en sí misma, sino únicamente por la venta del bien que desplaza de un lugar a otro para su entrega, o por la prestación del servicio en la que utiliza como insumo dichos bienes, atendiendo a las actividades productivas que realiza.
+El permiso particular de transporte de carga se requiere cuando una persona realice el servicio sobre un bien, a favor de un tercero, o vinculado con la prestación de un servicio que realice, sin generar un lucro por la transportación en sí misma, sino únicamente por la venta del bien que desplaza de un lugar a otro para su entrega, o por la prestación del servicio en la que utiliza como insumo dichos bienes, atendiendo a las actividades productivas que realiza.
+
+Se exceptúan de este requisito a las personas físicas o morales, que utilicen vehículos cuya capacidad de carga no exceda de una tonelada.
+
+El permiso particular de transporte de pasaje se requiere cuando una persona física o moral, realice el servicio de transporte de su propio personal, sin generar un lucro por la transportación en sí misma, sino únicamente como una prestación para sus trabajadores.
 
 ###### ARTÍCULO 249.
 
@@ -2865,7 +2969,13 @@ El procedimiento de reversión podrá ser aplicado en los casos en los que se ha
 
 Tarifa es la contraprestación a cargo de las personas usuarias por el uso de los diferentes servicios públicos de transporte a que se refiere esta Ley.
 
-Las tarifas y sus reglas de aplicación se determinarán procurando que respondan siempre a un criterio técnico uniforme, igual para casos similares y diversificados de acuerdo con la zona o región donde habrán de prestarse los servicios, por la diferenciación de la situación económica y las condiciones de comodidad, seguridad e higiene en que se presta el servicio en los lugares respectivos.
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Tarifa por kilómetro recorrido es la contraprestación a cargo del Estado, que se cubre a través del Instituto, para pagar los kilómetros recorridos que realiza una persona moral concesionaria durante la prestación del servicio de transporte público urbano en un sistema integrado de rutas, en el que existen mecanismos tecnológicos de vigilancia, gestión de flota y recaudo.
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Las tarifas, incluyendo, las de pago por kilómetro recorrido en los sistemas integrados, así como sus reglas de aplicación, se determinarán procurando que respondan siempre a un criterio técnico uniforme, igual para casos similares y diversificados de acuerdo con la zona o región donde habrán de prestarse los servicios, por la diferenciación de la situación económica y las condiciones de comodidad, seguridad e higiene en que se presta el servicio en los lugares respectivos.
 
 Las tarifas y sus reglas de aplicación se determinarán tomando en cuenta los Planes Operativos de Servicio correspondiente y los lineamientos y normas técnicas de calidad emitidas por el Instituto, para garantizar la propia sustentabilidad del servicio.
 
@@ -2889,9 +2999,13 @@ Las tarifas se actualizarán de acuerdo con los lineamientos y a la metodología
 
 En todo caso el Instituto deberá considerar la tarifa especial, preferencial y de estudiante establecidas en la presente Ley y en su reglamento.
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 280.
 
-Las tarifas autorizadas para cada tipo de servicio, así como cualquier modificación y ajuste que se haga a las mismas, deberán ser publicadas en el Boletín Oficial del Gobierno del Estado de Sonora.
+Las tarifas a cargo de las personas usuarias, que sean autorizadas por el Instituto, para efectos de que puedan ser cobradas por las personas concesionarias, así como cualquier modificación y ajuste que se haga a las mismas, deberán ser publicadas en el Boletín Oficial del Gobierno del Estado de Sonora para efectos de que sean conocidas por la ciudadanía.
+
+Tratándose de tarifas de pago por kilómetro recorrido para sistemas integrados, éstas deberán ser autorizadas por la Junta Directiva, y será responsabilidad del Instituto supervisar y revisar la correcta prestación del servicio relacionado con dichas tarifas.
 
 ### CAPÍTULO II. De las Tarifas
 
@@ -3773,7 +3887,9 @@ Para la actualización y expedición del título de concesión del sistema de au
 
 La actualización y expedición del título de concesión en los sistemas de transporte foráneo, turístico, especializado y escolar, deberá realizarse a más tardar un año después de la entrada en vigor de la presente Ley.
 
-La actualización y expedición del título de concesión en los sistemas de transporte urbano, suburbano y de trabajadores agrícolas, deberá realizarse a más tardar dos años después de la entrada en vigor de la presente Ley.
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2025)</small>
+
+La actualización y expedición del título de concesión en los sistemas de transporte urbano, suburbano y de trabajadores agrícolas, deberá realizarse a más tardar dos años después de la entrada en vigor de la presente Reforma.
 
 Para la actualización y expedición del título de concesión en los sistemas de transporte de carga, con excepción del sistema de grúas, deberá realizarse a más tardar cinco años después de la entrada en vigor de la presente Ley; mientras que en el sistema de grúas deberá realizarse durante el periodo de un año posterior a la entrada en vigor de la presente Ley.
 
@@ -3812,3 +3928,13 @@ Comuníquese al Titular del Poder Ejecutivo para su sanción y publicación en e
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los quince días del mes de diciembre del año dos mil veintitrés.- GOBERNADOR DEL ESTADO.- FRANCISCO ALFONSO DURAZO MONTAÑO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- ADOLFO SALAZAR RAZO.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 26 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 79 POR EL QUE “SE ADICIONAN UNA FRACCIÓN LI BIS, AL ARTÍCULO 2, Y LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 184; Y SE REFORMAN LOS ARTÍCULOS 8, EL PÁRRAFO TERCERO DEL 13, 24, 29, 67, 204, 248, 275, 280 Y EL ARTÍCULO NOVENO TRANSITORIO DE LA LEY DE TRANSPORTE DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
