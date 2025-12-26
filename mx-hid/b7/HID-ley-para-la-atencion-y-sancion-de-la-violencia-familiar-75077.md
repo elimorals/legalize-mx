@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-atencion-y-sancion-de-la-violencia-familiar-75077"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-24"
-last_updated: "2025-01-09"
+last_updated: "2025-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA ATENCIÓN Y SANCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 24 de mayo de 2010.
 
@@ -75,17 +75,17 @@ VII.- Violencia Familiar.- Todo acto de poder u omisión que cause daño, produc
 
 El establecimiento de límites a los menores de edad, realizados por los padres para su formación y educación de los mismos, en ningún caso justifica el ejercicio de ningún tipo de violencia.
 
-> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-Se reconoce a la violencia vicaria como violencia familiar.
+Se reconoce a la violencia a través de interpósita persona como violencia familiar.
 
 VIII.- Celotipia.- Es el conjunto de emociones que se traducen en una conducta de inseguridad, caracterizada por un estado ansioso, ante el temor de perder el afecto o la atención de la persona seleccionada como objeto.
 
 IX.- Generador de Violencia Familiar.- Persona que inflige cualquier tipo de violencia en contra de la familia o alguno de sus miembros;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-X.- Receptores de Violencia Familiar.- Los individuos que viven la violencia física, verbal, psicoemocional, vicaria, sexual, patrimonial, económica o por alienación parental;
+X.- Receptores de Violencia Familiar.- Los individuos que viven la violencia física, verbal, psicoemocional, a través de interpósita persona, sexual, patrimonial, económica o por alienación parental;
 
 > <small>(REFORMADA, P.O. 9 DE MAYO DE 2024)</small>
 
@@ -536,3 +536,9 @@ P.O. 9 DE ENERO DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 15–LXVI QUE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 5, LA FRACCIÓN I Y II DEL ARTÍCULO 16 Y LA FRACCIÓN III DEL ARTÍCULO 21 Y ADICIONA LA FRACCIÓN II BIS Y II TER DEL ARTÍCULO 16 Y LA FRACCIÓN V, VI Y VII DEL ARTÍCULO 21, DE LA LEY PARA LA ATENCIÓN Y SANCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE HIDALGO; Y REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 243 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 345 - LXVI QUE REFORMA LA FRACCIÓN XI TER DEL ARTÍCULO 5, LA FRACCIÓN VI DEL ARTÍCULO 8 Y LA FRACCIÓN XIX Y XX DEL ARTÍCULO 32 BIS, LA FRACCIÓN XIII Y XIV DEL ARTÍCULO 32 TER, Y ADICIONA LA FRACCIÓN XXI DEL ARTÍCULO 32 BIS Y LAS FRACCIONES XV Y XVI DEL ARTÍCULO 32 TER DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO; Y REFORMA EL PÁRRAFO TERCERO DE LA FRACCIÓN VII Y LA FRACCIÓN X DEL ARTÍCULO 3 DE LA LEY PARA LA ATENCIÓN Y SANCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
