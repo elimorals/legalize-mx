@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-presupuesto-gasto-publico-y-responsabilidad-104146"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2025-11-24"
+last_updated: "2025-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el miércoles 31 de diciembre de 2014.
 
@@ -1265,7 +1265,7 @@ a) Pagar en forma anticipada la deuda pública del Gobierno del Estado, la prela
 
 b) Transferir el remanente de los recursos a la Secretaría para la creación de un Fondo de Inversiones Público Productivas y Programas Prioritarios.
 
-Por lo que respecta a los recursos fideicomitidos referidos en el Artículo 49 Bis fracción III de esta Ley, podrán disponerse inmediatamente a su aportación, según determine el Comité Técnico conforme a lo dispuesto en los incisos a) y b) de la Fracción III del presente Artículo, siempre y cuando se cuente con el saldo objetivo, habiendo existencia o no de caídas en los ingresos.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -1407,7 +1407,9 @@ I.- Compromisos de pago que rebasan un ejercicio presupuestal con cargo al presu
 
 II.- Compromisos de pago que rebasan un ejercicio presupuestal con cargo a distintos presupuestos.
 
-Para asumir compromisos de pago que rebasen un ejercicio presupuestal, tratándose del Ejecutivo y los Municipios del Estado, se deberá contar con autorización de la Secretaría o las Tesorerías, según corresponda. Tratándose de Órganos Autónomos, se deberá contar con la autorización de su unidad con funciones administrativas o financieras, solicitando la opinión de la Secretaría. Si se trata del Congreso o del Poder Judicial, se deberá contar con la autorización de sus unidades con funciones administrativas o financieras.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Para asumir compromisos de pago que rebasen un ejercicio presupuestal, tratándose del Ejecutivo y los Municipios del Estado, se deberá contar con autorización de la Secretaría o las Tesorerías, según corresponda. Tratándose de Órganos Autónomos, el Congreso o del Poder Judicial, se deberá contar con la autorización de sus unidades con funciones administrativas o financieras.
 
 Tratándose de los compromisos de pago con cargo a varios ejercicios presupuestales, en el caso del Ejecutivo y los Municipios del Estado, éstos deberán solicitar la autorización del Congreso, cuando los compromisos rebasen el período constitucional para el cual fue elegida la autoridad contratante.
 
@@ -1978,3 +1980,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efectos todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 375.- SE REFORMA LA LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones que se opongan al presente.
