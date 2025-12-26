@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1120
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2025-11-19"
+last_updated: "2025-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 31 de diciembre de 2015.
 
@@ -130,6 +130,10 @@ II Bis. Brecha salarial de género: Es la diferencia de retribución salarial en
 III. Comisión de Igualdad: La Comisión de Igualdad y No Discriminación de Hidalgo;
 
 IV. Consejos Generales de Planeación para la Agenda de Género: Son mecanismospresididos (sic) por la persona titular de la Dependencia o Entidad de la Administración Pública Estatal, e integrado por las y los titulares de los tres mandos inferiores a ella. Tiene por objeto coordinar, ejecutar y evaluar la política pública en materia de igualdad real entre mujeres y hombres, y de acceso de las mujeres a una vida libre de violencia, a través del programa de trabajo que en conjunto se defina con la Unidad Institucional para la Igualdad entre Mujeres y Hombres;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+IV Bis. Corresponsabilidad Familiar: Deber compartido entre mujeres y hombres, en condiciones de igualdad, de participar en el cuidado, atención, educación y sostenimiento de los integrantes del hogar, reconociendo que dichas tareas no son exclusivas de un género y deben distribuirse de manera equitativa;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE NOVIEMBRE DE 2025)</small>
 
@@ -689,9 +693,9 @@ VIII. Desarrollar y actualizar estadísticas desagregadas por sexo, sobre puesto
 
 Serán objetivos de la Política de Igualdad en materia de derechos sociales y culturales:
 
-> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-I. Contribuir a eliminar los roles tradicionalmente asignados a los géneros, que impiden alcanzar la igualdad sustantiva entre mujeres y hombres;
+I. Contribuir a eliminar los roles tradicionalmente asignados a los géneros, que impiden alcanzar la igualdad sustantiva entre mujeres y hombres, mediante la promoción de la corresponsabilidad familiar.
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -755,9 +759,17 @@ II. Favorecer la democracia familiar y el respeto a la autonomía y decisión de
 
 III. Fortalecer la igualdad sustantiva en la comunidad;
 
-IV. Diseñar mecanismos de protección para quien se encuentre en situación de violencia en la comunidad o en la familia; y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-V. Buscar la eliminación de roles y estereotipos de género.
+IV. Diseñar mecanismos de protección para quien se encuentre en situación de violencia en la comunidad o en la familia;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+V. Buscar la eliminación de roles y estereotipos de género; y
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+VI. Promoción de la corresponsabilidad familiar.
 
 ###### Artículo 32.
 
@@ -1074,5 +1086,11 @@ P.O. 19 DE NOVIEMBRE DE 2025.
 P.O. 19 DE NOVIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 327 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE HIDALGO, DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO, Y DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO, EN MATERIA DE INCORPORACIÓN DEL ENFOQUE DE PERSPECTIVA DE GÉNERO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 357 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO, EN MATERIA DE CORRESPONSABILIDAD FAMILIAR”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
