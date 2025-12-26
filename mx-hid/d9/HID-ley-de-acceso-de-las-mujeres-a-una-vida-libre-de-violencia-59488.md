@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2025-08-06"
+last_updated: "2025-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -307,9 +307,27 @@ Para efectos del presente Capítulo se entenderá por Tecnologías de la informa
 
 XI Bis. Violencia Simbólica.- Es la violencia amortiguada, insensible e invisible para sus propias víctimas, que se ejerce mediante la expresión, emisión o difusión de mensajes, signos, valores icónicos e ideas con patrones estereotipados y simbólicos, que se transmiten, reproducen, justifican o naturalizan la subordinación, desigualdad, discriminación y violencia contra las mujeres en la sociedad; y
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-XI. Ter. Violencia Vicaria: Es toda acción u omisión cometida por quien mantenga o haya mantenido una relación de pareja, parentesco por consanguineidad o afinidad, derivado de una relación de concubinato, noviazgo, matrimonio, por si o por interpósita persona, que provoque la separación de la madre con sus hijas e hijos o persona vinculada significativamente a la mujer, ocasionando un daño psicoemocional, físico, patrimonial o de cualquier otro tipo e incluso el suicidio a las madres y sus hijas e hijos así como desencadenar un feminicidio u homicidio de las hijas e hijos perpetrados por su progenitor, a través de la retención, sustracción, ocultamiento, maltrato, amenazas, puesta en peligro o promoviendo mecanismos jurídicos y no jurídicos que retrasen, obstaculicen, limiten e impidan la convivencia para manipular, controlar a la mujer o dañar el vínculo afectivo entre sus hijas e hijos.
+XI Ter. Violencia a través de interpósita persona. Es cualquier acto u omisión que, con el objetivo de causar perjuicio o daño a las mujeres, se dirige contra las hijas y/o hijos, familiares o personas allegadas, ya sea que se tenga o se haya tenido relación de matrimonio o concubinato; o mantenga o se haya mantenido una relación de hecho con la persona agresora; lo anterior aplica incluso cuando no se cohabite en el mismo domicilio.
+
+Se manifiesta a través de diversas conductas, entre otras:
+
+a) Amenazar con causar daño a las hijas e hijos;
+
+b) Amenazar con ocultar, retener, o sustraer a hijas e hijos fuera de su domicilio o de su lugar habitual de residencia;
+
+c) Utilizar a hijas y/o hijos para obtener información respecto de la madre;
+
+d) Promover, incitar o fomentar actos de violencia física de hijas y/o hijos en contra de la madre;
+
+e) Promover, incitar o fomentar actos de violencia psicológica que descalifiquen la figura materna afectando el vínculo materno filial;
+
+f) Ocultar, retener o sustraer a hijas y/o hijos así como a familiares o personas allegadas;
+
+g) Interponer acciones legales con base en hechos falsos o inexistentes, en contra de las mujeres para obtener la guarda y custodia, cuidados y atenciones o pérdida de la patria potestad de las hijas y/o hijos en común, y
+
+h) Condicionar el cumplimiento de las obligaciones alimentarias a las mujeres y a sus hijas e hijos;
 
 > <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2025)</small>
 
@@ -377,9 +395,9 @@ IV.- Analizar y proponer, en su caso, la separación y alejamiento del generador
 
 V.- Favorecer la instalación y el mantenimiento de refugios para las víctimas y sus hijas e hijos menores de edad; la información sobre su ubicación será secreta y proporcionarán apoyos psicológico y legal, especializados y gratuitos. Las personas que laboren en los refugios deberán contar con la cédula profesional correspondiente a la especialidad en que desarrollen su trabajo;
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-VI.- Evitar la implementación o utilización de procedimientos de mediación o conciliación por considerarse no equitativo en la relación víctima-generador; y
+VI.- Evitar procedimientos de mediación o conciliación, por ser inviables en una relación de sometimiento entre la persona agresora y las víctimas; y
 
 > <small>(ADICIONADA, P.O. 15 DE MARZO DE 2021)</small>
 
@@ -827,13 +845,17 @@ XVII. Resguardar las armas de fuego u objetos utilizados para amenazar o agredir
 
 XVIII. Solicitar a la autoridad jurisdiccional competente, para garantizar las obligaciones alimentarias, la elaboración de un inventario de los bienes de la persona agresora y su embargo precautorio, el cual deberá inscribirse con carácter temporal en el Registro Público de la Propiedad;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-XIX. Solicitar a la autoridad jurisdiccional competente la suspensión del régimen de tutela o curatela que ejerza la persona agresora, y
+XIX. Solicitar a la autoridad jurisdiccional competente la suspensión del régimen de tutela o curatela que ejerza la persona agresora;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN XIX], P.O. 18 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-XX. Además de los anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, la seguridad y la vida de la mujer o la niña en situación de violencia.
+XX. Solicitar a la autoridad judicial competente la recuperación y entrega inmediata a las mujeres víctimas de sus hijas e/o hijos menores de 18 años y/o personas incapaces que requieran cuidados especiales, que hayan sido sustraídos, retenidos u ocultados de la madre, en términos de lo establecido en el artículo 5, fracción XI Ter de la presente Ley; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XXI. Además de los anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, la seguridad y la vida de la mujer o la niña en situación de violencia.
 
 > <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2024)</small>
 
@@ -871,11 +893,21 @@ XI. La colocación de localizadores electrónicos, previo consentimiento de la p
 
 XII. La prohibición a la persona agresora de salir sin autorización judicial del país o del ámbito territorial que fije el juez o la jueza;
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-XIII. La suspensión del régimen de tutela o curatela que ejerza la persona agresora sobre la víctima, y
+XIII. La suspensión del régimen de tutela o curatela que ejerza la persona agresora sobre la víctima;
 
-XIV. Las demás que se requieran para brindar una protección a la víctima.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XIV. Ordenar la restitución, recuperación o entrega inmediata a la mujer víctima, de sus hijas y/o hijos menores de 18 años y/o personas incapaces que requieran cuidados especiales, que hayan sido sustraídos, retenidos u ocultados de forma ilícita;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XV. Ordenar la suspensión temporal a la persona agresora del régimen de visitas y convivencia con sus descendientes, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XVI. Las demás que se requieran para brindar una protección a la víctima
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
@@ -2516,5 +2548,11 @@ P.O. 6 DE AGOSTO DE 2025.
 P.O. 6 DE AGOSTO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 302 – LXVI POR EL QUE SE ADICIONA LA FRACCIÓN VII QUINQUIES AL ARTÍCULO 46 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 345 – LXVI QUE REFORMA LA FRACCIÓN XI TER DEL ARTÍCULO 5, LA FRACCIÓN VI DEL ARTÍCULO 8 Y LA FRACCIÓN XIX Y XX DEL ARTÍCULO 32 BIS, LA FRACCIÓN XIII Y XIV DEL ARTÍCULO 32 TER, Y ADICIONA LA FRACCIÓN XXI DEL ARTÍCULO 32 BIS Y LAS FRACCIONES XV Y XVI DEL ARTÍCULO 32 TER DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO; Y REFORMA EL PÁRRAFO TERCERO DE LA FRACCIÓN VII Y LA FRACCIÓN X DEL ARTÍCULO 3 DE LA LEY PARA LA ATENCIÓN Y SANCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
