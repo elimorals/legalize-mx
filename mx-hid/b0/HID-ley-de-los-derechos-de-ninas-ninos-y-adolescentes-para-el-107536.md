@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2025-11-19"
+last_updated: "2025-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -157,6 +157,20 @@ XVI. Informe de Adoptabilidad: El documento expedido por el Sistema DIF Hidalgo 
 
 XVI Bis. Lactancia materna: La alimentación con leche del seno materno;
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XVI Bis 1. Medios de comunicación: Son los que pueden ser captados simultáneamente por gran cantidad de individuos. Se entenderán como tales a los medios electrónicos, medios impresos, medios digitales, medios públicos y medios complementarios, conforme a la siguiente clasificación:
+
+a) Medios electrónicos: Medios de comunicación masivos tales como radio y televisión, que difunden mensajes a través de impulsos radioeléctricos;
+
+b) Medios impresos: Todo tipo de publicación o comunicación escrita o ilustrada que contenga texto o imágenes fijas;
+
+c) Medios digitales: Aquellos cuyo contenido, ya sea texto, voz, música, imágenes, animaciones, videos o cualquier otro elemento, puede ser accedido o consultarse desde dispositivos electrónicos. Dicho contenido puede ser o no creado por las propias personas usuarias;
+
+d) Medios públicos: Estaciones oficiales de radio y canales de televisión que forman parte de la Administración Pública Estatal, de las entidades paraestatales o de los gobiernos municipales, y
+
+e) Medios complementarios: Medios de difusión alternativos a los electrónicos, impresos, digitales y públicos que impactan a segmentos específicos de la población, tales como mobiliario urbano, publicidad exterior, espectaculares, u otros similares.
+
 > <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2024)</small>
 
 XVI Ter. Mínima intervención de menores en procedimientos judiciales: Consiste en que, cuando se requiera que niñas, niños y adolescentes sean llamados a juicio para ejercer su derecho a emitir su opinión en todo lo que les concierne, éstos sean citados el menor número de veces posible;
@@ -170,6 +184,10 @@ XVII. Órgano Jurisdiccional: Los juzgados o tribunales estatales;
 > <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2021)</small>
 
 XVII Bis. Parentalidad Asistida: Proceso por medio del cual se propician y fortalecen en quienes ejercen la patria potestad o tutela, las condiciones que satisfacen las necesidades de niñas, niños y adolescentes y contribuyen a su desarrollo integral y armonioso, basado en el ejercicio pleno de sus derechos;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XVII Bis 1. Prácticas nocivas: Formas de conducta persistentes que se fundamentan en la discriminación por razón de sexo, género y edad, entre otras cosas, y que a menudo conllevan violencia y causan sufrimientos o daños físicos o psicológicos. Estas prácticas normalmente se justifican invocando costumbres, valores socioculturales o concepciones erróneas relacionadas con algunos grupos desfavorecidos de mujeres, niñas, niños y adolescentes;
 
 > <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2023)</small>
 
@@ -973,9 +991,15 @@ Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y
 
 Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, coadyuvarán a dicho fin, mediante la adopción de las medidas apropiadas.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 44.
 
-El orden jurídico estatal establecerá como edad mínima para contraer matrimonio los 18 años.
+El orden jurídico estatal establecerá que la edad mínima para contraer matrimonio son los 18 años, sin excepción alguna.
+
+Es responsabilidad de las autoridades estatales y municipales, en el ámbito de su competencia, adoptar medidas para prevenir, atender y erradicar toda clase de prácticas nocivas ejercidas en perjuicio de niñas, niños o adolescentes.
+
+En el Estado de Hidalgo quedan prohibidos los matrimonios infantiles o forzosos, así como toda práctica, cualquiera que sea su denominación, que implique la cesión de niños, niñas o adolescentes con fines de unión formal, informal o consuetudinaria.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE ABRIL DE 2023)</small>
 
@@ -1297,6 +1321,10 @@ XIX. Educar a niñas, niños y adolescentes en el respeto al medio ambiente, inc
 
 XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación;
 
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XX Bis. Promover la alfabetización digital, la cual debe comprender acciones de formación, capacitación y orientación a niñas, niños y adolescentes sobre interacciones seguras y responsables en el entorno digital, y la promoción de medidas básicas de seguridad ante los riesgos cibernéticos;
+
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2025)</small>
 
 XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo estatal;
@@ -1377,6 +1405,14 @@ Quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a garantizar el derecho de niñas, niños y adolescentes al descanso y el esparcimiento, procurando mantener en condiciones óptimas los espacios destinados para dichas actividades; además de fomentar oportunidades apropiadas, en condiciones de igualdad, para su participación en actividades culturales, artísticas y deportivas dentro de su comunidad.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 60 Bis.
+
+Las autoridades estatales y municipales deberán proveer lo necesario para que las actividades relativas a la cultura física y actividades deportivas en las que participen niñas, niños y adolescentes se desarrollen en entornos seguros, libres de violencia, discriminación y exposición a conductas que pongan en riesgo su bienestar.
+
+Las autoridades municipales regularán el expendio, venta y consumo de alcohol en los eventos deportivos en los que exista presencia de niñas, niños y adolescentes como participantes o espectadores.
+
 ### Capítulo Décimo Tercero. De los Derechos de la Libertad de Convicciones Éticas, Pensamiento, Conciencia, Religión y Cultura
 
 ###### Artículo 61.
@@ -1423,9 +1459,11 @@ Niñas, niños y adolescentes tienen derecho al libre acceso a la información. 
 
 El Sistema Estatal de Protección Integral acordará lineamientos generales sobre la información y materiales para difusión entre niñas, niños y adolescentes, conforme a lo dispuesto en esta Ley.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 65.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, promoverán mecanismos para la protección de los intereses de niñas, niños y adolescentes respecto de los riesgos derivados del acceso a medios de comunicación y uso de sistemas de información que afecten o impidan objetivamente su desarrollo integral.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, promoverán mecanismos para la protección de los intereses de niñas, niños y adolescentes respecto de los riesgos derivados del acceso y uso de los diversos tipos de medios de comunicación reconocidos en esta Ley, y uso de sistemas de información que afecten o impidan objetivamente su desarrollo integral.
 
 ###### Artículo 66.
 
@@ -1503,11 +1541,11 @@ Niñas, niños y adolescentes no podrán ser objeto de injerencias arbitrarias o
 
 Quienes ejerzan la patria potestad, tutela o guarda y custodia, deberán orientar, supervisar y, en su caso, restringir, las conductas y hábitos de niñas, niños y adolescentes, siempre que atiendan al interés superior de la niñez.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 76.
 
-Se considerará violación a la intimidad de niñas, niños o adolescentes cualquier manejo directo de su imagen, nombre, datos personales o referencias que permitan su identificación en los medios de comunicación locales impresos o digitales, que menoscabe su honra o reputación, sea contrario a sus derechos o que los ponga en riesgo, conforme al principio de interés superior de la niñez.
+Se considerará violación a la intimidad de niñas, niños o adolescentes cualquier manejo directo de su imagen, nombre, datos personales o referencias que permitan su identificación en cualquiera de los medios de comunicación contemplados en esta Ley, cuando se menoscabe su honra o reputación, sea contrario a sus derechos o que los ponga en riesgo, conforme al principio de interés superior de la niñez.
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2024)</small>
 
@@ -1533,11 +1571,11 @@ No se requerirá el consentimiento de quienes ejerzan la patria potestad o tutel
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, garantizarán la protección de la identidad e intimidad de niñas, niños y adolescentes que sean víctimas, ofendidos, testigos o que estén relacionados de cualquier manera en la comisión de un delito, a fin de evitar su identificación pública. La misma protección se otorgará a adolescentes a quienes se les atribuya la realización o participación en un delito, conforme a la legislación aplicable en la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 79.
 
-Los medios de comunicación locales, sean impresos o digitales, deberán asegurarse que las imágenes, voz o datos a difundir, no pongan en peligro, de forma individual o colectiva, la vida, integridad, dignidad o vulneren el ejercicio de derechos de niñas, niños y adolescentes, aun cuando se modifiquen, se difuminen o no se especifiquen sus identidades, y evitarán la difusión de imágenes o noticias que propicien o sean tendentes a su discriminación, criminalización o estigmatización, en contravención a las disposiciones aplicables.
+Los medios de comunicación locales, en cualquiera de sus modalidades reconocidas en esta Ley, deberán asegurarse que las imágenes, voz o datos a difundir, no pongan en peligro, de forma individual o colectiva, la vida, integridad, dignidad o vulneren el ejercicio de derechos de niñas, niños y adolescentes, aun cuando se modifiquen, se difuminen o no se especifiquen sus identidades, y evitarán la difusión de imágenes o noticias que propicien o sean tendentes a su discriminación, criminalización o estigmatización, en contravención a las disposiciones aplicables.
 
 En caso de incumplimiento a lo establecido en el presente artículo, niñas, niños o adolescentes afectados, por conducto de su representante legal o, en su caso, de la Procuraduría de Protección, actuando de oficio o en representación sustituta, podrá promover las acciones civiles de reparación del daño e iniciar los procedimientos por la responsabilidad administrativa a que haya lugar; así como dar seguimiento a los procedimientos hasta su conclusión.
 
@@ -1759,17 +1797,21 @@ En ningún caso una situación migratoria irregular de niña, niño o adolescent
 
 Las niñas, niños y adolescentes gozan del derecho de acceso universal a las Tecnologías de la Información y Comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e internet establecidos en la Constitución Política de los Estados Unidos Mexicanos y en la Ley Federal de Telecomunicaciones y Radiodifusión.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Los padres o quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes o personas que los tengan bajo su responsabilidad, deberán orientar sobre el acceso y uso de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e internet.
+
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 100 Bis 1.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, garantizarán a las niñas, niños y adolescentes su integración a la sociedad de la información y el conocimiento, acorde a los fines establecidos en el artículo 8 Bis de la Constitución Política del Estado de Hidalgo, mediante una política de inclusión digital universal en condiciones de equidad, asequibilidad, disponibilidad, accesibilidad y calidad.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 100 Bis 2.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, procurarán a las niñas, niños y adolescentes su derecho al acceso y uso seguro del internet como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento, no discriminación, a una vida libre de violencia y a la integridad personal, entre otros, de conformidad con el principio de interdependencia, en términos de las disposiciones aplicables.
+Las niñas, niños y adolescentes tienen derecho al acceso y uso seguro del internet como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento, no discriminación, a una vida libre de violencia y a la integridad personal, entre otros, de conformidad con los principios de interdependencia y autonomía progresiva, en términos de las disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2025)</small>
 
@@ -3084,3 +3126,23 @@ P.O. 19 DE NOVIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 269 – LXVI POR EL QUE SE ADICIONA UNA FRACCIÓN VI BIS AL ARTÍCULO 56 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO, EN MATERIA DE INCLUSIÓN DE ALUMNAS Y ALUMNOS CON TRATAMIENTOS MÉDICOS PROLONGADOS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 290 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO, EN MATERIA DE PROTECCIÓN RESPECTO AL USO DE MEDIOS DE COMUNICACIÓN Y TECNOLOGÍAS DE LA INFORMACIÓN”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 343 – LXVI POR EL QUE SE REFORMA EL ARTÍCULO 44 Y SE ADICIONA UNA FRACCIÓN XVII BIS 2 AL ARTÍCULO 4 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO, EN MATERIA DE PROHIBICIÓN DE PRÁCTICAS NOCIVAS Y MATRIMONIO INFANTIL”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 349 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO, DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, Y DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE EVENTOS DEPORTIVOS CON PRESENCIA DE PERSONAS MENORES DE EDAD”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Los ayuntamientos del Estado deberán emitir o actualizar su normatividad interna para efecto de dar cumplimiento a lo aprobado en este Decreto.
