@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2025-08-22"
+last_updated: "2025-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -371,6 +371,10 @@ A.- En materia de salubridad general:
 
 I.- En el ámbito de su jurisdicción y en coordinación con el Ejecutivo Federal, organizar, administrar, operar, evaluar e implementar los servicios de salud a que se refiere el apartado A del Artículo 3º de esta Ley;
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+La atención médica, podrá ser objeto de convenios de coordinación y demás instrumentos jurídicos para que otras dependencias o entidades se hagan cargo de esa función, en términos de la Ley General de Salud;
+
 > <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
 
 I Bis.- Garantizar la atención primaria de la salud con personal médico de calidad especializado, preferentemente en beneficio de grupos en situación de vulnerabilidad y grupos de atención prioritaria; para lo cual se deberá de disponer de personal debidamente especializado y certificado para atender de manera específica al caso concreto.
@@ -389,9 +393,9 @@ I Quater.- Otorgar atención prioritaria a las personas víctimas de violencia f
 
 II.- Ejercer la vigilancia y control de la sanidad en los límites con otras Entidades Federativas;
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-III.- Coordinar el Sistema de Salud de Hidalgo y coadyuvar en el funcionamiento y consolidación del Sistema Nacional de Salud; promoviendo la armonización y actualización de las disposiciones legales aplicables.
+III.- En el ámbito de sus atribuciones, ejercer la rectoría y coordinar el Sistema Estatal de Salud de Hidalgo, así como coadyuvar en el funcionamiento y consolidación del Sistema Nacional de Salud en coordinación con las dependencias y entidades de la Administración Pública Federal; promoviendo la armonización y actualización de las disposiciones legales aplicables.
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2022)</small>
 
@@ -535,7 +539,9 @@ El Estado podrá celebrar con la Federación, acuerdos de coordinación a fin de
 
 El Sistema Estatal de Salud de Hidalgo es la instancia constituida por las dependencias y entidades de la administración pública estatal, las personas físicas y morales de los sectores social y privado que prestan servicios de salud dentro de la entidad federativa, así como por los mecanismos de coordinación de acciones con dependencias y entidades federales, a fin de dar cumplimiento al derecho a la protección de la salud.
 
-Será coordinado por la Secretaría de Salud, a través del Consejo de Salud del Estado de Hidalgo, que es un órgano de rectoría, coordinación, normatividad, consulta y articulación en materia de salud, con la participación de los sectores público, social y privado; y tendrá por objeto ejercer los actos de protección a la salud y apoyar en la planeación, programación y evaluación relacionado con las acciones y actividades sanitarias del Estado de Hidalgo.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Será coordinado por la Secretaría de Salud, a través del Consejo de Salud del Estado de Hidalgo, que es un órgano de decisión, coordinación, normatividad, consulta y articulación en materia de salud, con la participación de los sectores público, social y privado; y tendrá por objeto ejercer los actos de protección a la salud y apoyar en la planeación, programación y evaluación relacionado con las acciones y actividades sanitarias del Estado de Hidalgo.
 
 > <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2023)</small>
 
@@ -2916,5 +2922,11 @@ P.O. 22 DE AGOSTO DE 2025.
 P.O. 22 DE AGOSTO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 334 - LXVI POR EL QUE SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 142 UNDECIES 7 DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO, EN MATERIA DE EMBARAZO ADOLESCENTE".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 363 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO Y A LA LEY DE SALUD PARA EL ESTADO DE HIDALGO, EN MATERIA DE RECTORÍA DEL SISTEMA ESTATAL DE SALUD”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
