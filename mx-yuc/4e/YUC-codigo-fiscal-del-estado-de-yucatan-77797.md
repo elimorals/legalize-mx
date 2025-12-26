@@ -4,7 +4,7 @@ identifier: "YUC-codigo-fiscal-del-estado-de-yucatan-77797"
 country: "mx"
 rank: "codigo"
 publication_date: "2010-12-22"
-last_updated: "2023-12-28"
+last_updated: "2025-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO FISCAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE DICIEMBRE DE 2025.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 22 de diciembre de 2010.
 
@@ -705,13 +705,15 @@ Los responsables solidarios previstos en este artículo quedan obligados a cubri
 
 La responsabilidad solidaria comprenderá los accesorios, con excepción de las multas. Lo dispuesto en este párrafo no impide que los responsables solidarios puedan ser sancionados por los actos u omisiones propios.
 
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 39.
 
-Las personas físicas o morales, que realicen actividades por las que se deban pagar contribuciones solicitarán su inscripción en el Registro Estatal de Contribuyentes así como proporcionarán información relativa a su identidad, domicilio fiscal y en general sobre su situación fiscal, en los plazos que este Código y demás leyes fiscales señalen. Los retenedores también tendrán la obligación de inscribirse en el Registro Estatal de Contribuyentes aun cuando no causen directamente algún impuesto estatal.
+Las personas físicas o morales que realicen actividades por las que se deban pagar contribuciones deberán solicitar su inscripción en el Registro Estatal de Contribuyentes, proporcionando información relativa a su identidad, domicilio fiscal, situación fiscal y medios de contacto, incluyendo correo electrónico y número de teléfono para ser contactados, dentro de los plazos que este Código y demás leyes fiscales señalen.
 
-Las personas físicas y morales a que se refiere el párrafo anterior manifestarán ante el Registro Estatal de Contribuyentes su domicilio fiscal. La autoridad fiscal podrá considerar como domicilio fiscal del contribuyente aquél en el que se verifique alguno de los supuestos establecidos en el artículo 13 de este Código cuando el manifestado en las solicitudes y avisos a que se refiere este artículo no corresponda a alguno de los supuestos de dicho precepto.
+Los retenedores también tendrán la obligación de inscribirse en el Registro Estatal de Contribuyentes aun cuando no causen directamente algún impuesto estatal.
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+Las personas físicas y morales a que se refieren los párrafos anteriores manifestarán ante el Registro Estatal de Contribuyentes los datos de ubicación y la información necesaria para la identificación y localización de su domicilio fiscal relacionado con sus actividades, incluyendo referencias precisas sobre dónde se encuentra, así como los demás elementos que permitan su adecuada ubicación.
 
 El Registro Estatal de Contribuyentes a que se refiere este artículo estará a cargo de la Agencia de Administración Fiscal de Yucatán.
 
@@ -735,57 +737,45 @@ IV. Suspensión, cuando el contribuyente persona física interrumpa las activida
 
 V. Reanudación, cuando se esté nuevamente obligado a presentar alguna de las declaraciones periódicas, debiendo hacerlo conjuntamente con la primera de éstas;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 VI. Inicio de liquidación;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA [N. DE E. REFORMADO], D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 VII. Cambio de representante legal;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 VIII. Corrección o cambio de nombre;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 IX. Apertura o cierre de establecimientos, sucursales, locales, puestos fijos o semifijos, lugares en donde se almacenen mercancías y, en general, cualquier local o establecimiento que se utilice para el desempeño de actividades;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 X. Apertura de sucesión;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 XI. Inscripción y cancelación en el Registro Estatal de Contribuyentes por fusión o escisión de sociedades;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+XII. Cancelación en el Registro Estatal de Contribuyentes por cese total de operaciones, defunción o liquidación de la sucesión;
 
-XII. Cancelación en el Registro Estatal de Contribuyentes por cese total de operaciones, defunción o liquidación de la sucesión, y
+> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2025)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+XIII. Cualquier otro que se traduzca en alguna modificación de los datos que se encuentren registrados en la Agencia de Administración Fiscal de Yucatán, dentro de los quince días siguientes a aquél en que se actualice la situación jurídica o de hecho, y
 
-(REFORMADA [N. DE E. REUBICADA], D.O. 20 DE DICIEMBRE DE 2013), P.O. 28 DE DICIEMBRE DE 2016)
+> <small>(ADICIONADA, D.O. 26 DE DICIEMBRE DE 2025)</small>
 
-XIII. Cualquier otro que se traduzca en alguna modificación de los datos que se encuentren registrados en la Agencia de Administración Fiscal de Yucatán, dentro de los quince días siguientes a aquél en que se actualice la situación jurídica o de hecho.
+XIV. Actualización de los medios de contacto, incluyendo correo electrónico y número de teléfono, para efectos de contacto con la autoridad fiscal, dentro del mes siguiente a su modificación.
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2025)</small>
 
-La Agencia de Administración Fiscal de Yucatán realizará la inscripción o actualización en el Registro Estatal de Contribuyentes basándose en los datos que las personas le proporcionen de conformidad con este artículo o en los que obtenga por cualquier otro medio; también podrá requerir aclaraciones a los contribuyentes, así como corregir los datos con base en evidencias que recabe, incluyendo aquellas proporcionada (sic) por terceros; asimismo, asignará la clave que corresponda a cada persona que inscriba, quien deberá citarla en todo documento que presente ante las autoridades fiscales y jurisdiccionales; cuando en este último caso se trate de asuntos en que la Agencia de Administración Fiscal de Yucatán sea parte. Las personas inscritas deberán conservar en su domicilio fiscal la documentación comprobatoria de haber cumplido con las obligaciones que establecen este artículo.
+La Agencia de Administración Fiscal de Yucatán realizará la inscripción o actualización en el Registro Estatal de Contribuyentes basándose en los datos que las personas le proporcionen de conformidad con este artículo o en los que obtenga por cualquier otro medio; también podrá requerir aclaraciones a los contribuyentes, así como corregir los datos con base en evidencias que recabe, incluyendo aquellas proporcionadas por terceros; asimismo, asignará la clave que corresponda a cada persona que inscriba, quien deberá citarla en todo documento que presente ante las autoridades fiscales y jurisdiccionales; cuando en este último caso se trate de asuntos en que la Agencia de Administración Fiscal de Yucatán sea parte. Las personas inscritas deberán conservar en su domicilio fiscal la documentación comprobatoria de haber cumplido con las obligaciones que establecen (sic) este artículo.
 
 > <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -800,6 +790,10 @@ La solicitud o los avisos a que se refiere este artículo que se presenten en fo
 > <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
 Las personas físicas que no se encuentren en los supuestos del párrafo primero de este artículo podrán solicitar su inscripción al Registro Estatal de Contribuyentes, cumpliendo los requisitos establecidos mediante las reglas de carácter general que para tal efecto publique la Agencia de Administración Fiscal de Yucatán.
+
+> <small>(ADICIONADO, D.O. 26 DE DICIEMBRE DE 2025)</small>
+
+La Agencia de Administración Fiscal de Yucatán podrá suspender las actividades o disminuir las obligaciones fiscales de los contribuyentes cuando, con base en la información que obre en sus sistemas o aquella proporcionada por otras autoridades o terceros, se confirme que, durante los cinco ejercicios inmediatos anteriores, sin estar obligados a hacerlo no han presentado declaraciones, no han emitido ni recibido comprobantes fiscales y no han presentado avisos ante el Registro Estatal de Contribuyentes.
 
 ###### Artículo 41.
 
@@ -1293,9 +1287,11 @@ Los testigos pueden ser sustituidos en cualquier tiempo por no comparecer al lug
 
 IV. Las autoridades fiscales podrán solicitarles a otras autoridades competentes practiquen visitas y otras revisiones para comprobar hechos relacionados con la que estén practicando.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 67.
 
-Los visitados, sus representantes o la persona con quien se entienda la visita en el domicilio fiscal, están obligados a permitir a los visitadores designados por las autoridades fiscales el acceso al lugar o lugares objeto de la misma, así como mantener a su disposición la contabilidad y demás documentos que acrediten el cumplimiento de las disposiciones fiscales, los (sic) que los visitadores podrán sacar copias para que, previo cotejo con sus originales, sean certificadas por éstos y sean anexadas a las actas finales o parciales que levanten con motivo de la visita. También deberán permitir la verificación de bienes y mercancías, así como de los documentos, discos, cintas o cualquier otro medio procesable de almacenamiento de datos que tenga el contribuyente en los lugares visitados.
+Los visitados, sus representantes o la persona con quien se entienda la visita en el domicilio fiscal, están obligados a permitir a los visitadores designados por las autoridades fiscales el acceso al lugar o lugares objeto de la misma, así como mantener a su disposición la contabilidad y demás papeles de trabajo que acrediten el cumplimiento de las disposiciones fiscales, de los que los visitadores podrán sacar copias para que, previo cotejo con sus originales, se certifiquen por éstos y sean anexados a las actas finales o parciales que levanten con motivo de la visita. También deberán permitir la verificación de bienes y mercancías, así como de los documentos, estados de cuentas o estados de cuentas bancarios, discos, cintas o cualquier otro medio procesable de almacenamiento de datos que tenga el contribuyente en los lugares visitados.
 
 > <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -1427,7 +1423,9 @@ VII. Dentro del plazo para desvirtuar los hechos u omisiones asentados en el ofi
 
 VIII. Cuando el contribuyente no corrija totalmente su situación fiscal conforme al oficio de observaciones o no desvirtúe los hechos u omisiones consignados en dicho documento, se emitirá la resolución que determine las contribuciones o aprovechamientos omitidos, la cual se notificará al contribuyente cumpliendo con lo señalado en la fracción I de este artículo y en el lugar especificado en dicha fracción.
 
-Para los efectos del primer párrafo de este artículo, se considera como parte de la documentación o información que pueden solicitar las autoridades fiscales la relativa a las cuentas bancarias del contribuyente.
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Para los efectos del primer párrafo de este artículo, se considera como parte de la documentación o información que pueden solicitar las autoridades fiscales la relativa a las cuentas o cuentas bancarias del contribuyente.
 
 ###### Artículo 72.
 
@@ -1627,7 +1625,9 @@ I. Que la información contenida en la contabilidad, documentación comprobatori
 
 II. Que la información contenida en los sistemas de contabilidad a nombre del contribuyente, localizados en poder de personas a su servicio, o de accionistas o propietarios de la empresa, corresponde a operaciones del contribuyente;
 
-III. Que los movimientos en la cuenta bancaria del contribuyente que no correspondan a registros de la contabilidad que esté obligado a llevar, son ingresos, egresos, o valor de actos o actividades por los que se deben pagar contribuciones, y
+> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2025)</small>
+
+III. Que los movimientos en las cuentas o cuentas bancarias del contribuyente que no correspondan a registros de la contabilidad que esté obligado a llevar, son ingresos, egresos y valor de actos o actividades por los que se deben pagar contribuciones, y
 
 IV. Que los cheques librados contra las cuentas del contribuyente a proveedores o prestadores de servicios al mismo, que no correspondan a operaciones registradas en su contabilidad son pagos por bienes adquiridos o por servicios por los que el contribuyente obtuvo ingresos.
 
@@ -2003,23 +2003,29 @@ a) Tratándose de declaraciones, se impondrá una multa entre el 2% de las contr
 
 b) De 5 a 12 UMA, en los demás documentos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 106.
 
-Son infracciones relacionadas con la obligación de pago de las contribuciones, así como de presentación de declaraciones, solicitudes, avisos, informaciones o expedir constancias:
+Son infracciones relacionadas con la obligación de pago de las contribuciones, así como de presentación de declaraciones, solicitudes, avisos, informaciones, dictámenes o expedir constancias.
 
 I. No presentar las declaraciones, las solicitudes, los avisos o las constancias que exijan las disposiciones fiscales o presentarlos a requerimiento de las autoridades fiscales;
 
 II. No cumplir los requerimientos de las autoridades fiscales para presentar alguno de los documentos a que se refiere esta fracción, o cumplirlos fuera de los plazos señalados en los mismos;
 
-III. Presentar las declaraciones, las solicitudes, los avisos, o expedir constancias incompletos, con errores o en forma distinta a lo señalado por las disposiciones fiscales, o bien cuando se presenten con dichas irregularidades. Lo anterior no será aplicable tratándose de la presentación de la solicitud de inscripción al Registro Estatal de Contribuyentes;
+> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2025)</small>
+
+III. Presentar las declaraciones, las solicitudes, los avisos, o expedir constancias incompletas, con errores o en forma distinta a lo señalado por las disposiciones fiscales, o bien cuando se presenten con dichas irregularidades.
+
+Lo anterior no será aplicable tratándose de la presentación de la solicitud de inscripción al Registro Estatal de Contribuyentes;
 
 IV. No pagar las contribuciones dentro del plazo que establecen las disposiciones fiscales, cuando se trate de contribuciones que no sean determinables por los contribuyentes, salvo cuando el pago se efectúe espontáneamente;
 
 V. No efectuar en los términos de las disposiciones fiscales los pagos de una contribución;
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2025)</small>
 
-VI. No presentar aviso de cambio de domicilio o presentarlo fuera de los plazos que señale el este (sic) Código, salvo cuando la presentación se efectúe en forma espontánea;
+VI. No presentar aviso de cambio de domicilio o presentarlo fuera de los plazos que señale este Código, salvo cuando la presentación se efectúe en forma espontánea;
 
 > <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -2033,19 +2039,37 @@ VIII. No adherir a las máquinas de juegos o equipo que corresponda el holograma
 
 IX. No presentar el aviso a que se refiere la fracción IV del artículo 85-N de la Ley General de Hacienda del Estado de Yucatán;
 
-> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2025)</small>
 
-X. No presentar los avisos a los que se refieren las fracciones I y II del artículo 27 J de la Ley General de Hacienda del Estado de Yucatán, y
+X. No presentar los avisos a los que se refieren las fracciones I y II del artículo 27 J de la Ley General de Hacienda del Estado de Yucatán;
 
-> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2025)</small>
 
-XI. No presentar el aviso a que se refiere el artículo 27 K de la Ley General de Hacienda del Estado de Yucatán.
+XI. No presentar el aviso a que se refiere el artículo 27 K de la Ley General de Hacienda del Estado de Yucatán;
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+> <small>(ADICIONADA, D.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XII. No presentar el aviso a que se refiere el artículo 41-A de la Ley General de Hacienda del Estado de Yucatán;
+
+> <small>(ADICIONADA, D.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XIII. No presentar el dictamen dentro del término previsto en el artículo 27-K, párrafo segundo, de la Ley General de Hacienda del Estado de Yucatán;
+
+> <small>(ADICIONADA, D.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XIV. No presentar el dictamen dentro del término previsto en el artículo 41-A, párrafo segundo, de la Ley General de Hacienda del Estado de Yucatán, y
+
+> <small>(ADICIONADA, D.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XV. No presentar la información a que se refiere el artículo 20-Quinquies de la Ley General de Hacienda del Estado de Yucatán, dentro del plazo previsto en dicho artículo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 107.
 
-A quien cometa las infracciones relacionadas con la obligación de presentar declaraciones, solicitudes o avisos, así como de expedir las constancias a que se refiere el artículo 106, se impondrán las siguientes multas:
+A quien cometa las infracciones relacionadas con la obligación de presentar declaraciones, información, dictámenes, solicitudes o avisos, así como de expedir las constancias a que se refiere el artículo 106, se impondrán las siguientes multas:
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O. 30 DE DICIEMBRE DE 2021)</small>
 
 I. Para las señaladas en las fracciones I y II:
 
@@ -2056,6 +2080,8 @@ b) De 8 a 205 UMA, por cada obligación a que esté afecto al presentar una decl
 c) De 79 a 157 UMA, por no presentar el aviso a que se refiere el párrafo segundo del artículo 34 de este Código.
 
 d) De 8 a 27 UMA, en los demás documentos.
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O. 30 DE DICIEMBRE DE 2021)</small>
 
 II. Respecto de la infracción señalada en la fracción III:
 
@@ -2069,21 +2095,53 @@ d) De 7 a 22 UMA, por presentar las declaraciones sin la firma del contribuyente
 
 e) De 4 a 10 UMA, en los demás casos.
 
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
 III. De 8 a 205 UMA, tratándose de las señaladas en la fracción IV, por cada requerimiento.
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
 IV. De 103 a 205 UMA, respecto de la señalada en la fracción V.
 
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
 V. De 20 a 62 UMA, tratándose de la señalada en la fracción VI.
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
 VI. De 62 a 205 UMA, tratándose de la señalada en la fracción VII.
 
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
 VII. De 84 a 251 UMA, tratándose de la señalada en la fracción VIII.
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
 VIII. De 84 a 168 UMA, tratándose de la señalada en la fracción IX.
 
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
 IX. De 132 a 395 UMA, tratándose de la señalada en la fracción X, por cada aviso.
 
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
 X. De 164 a 329 UMA, tratándose de la señalada en la fracción XI.
+
+> <small>(ADICIONADA, D.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XI. De 164 a 329 UMA, tratándose de la señalada en la fracción XII.
+
+> <small>(ADICIONADA, D.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XII. De 215 a 623 UMA a la señalada en la fracción XIII.
+
+> <small>(ADICIONADA, D.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XIII. De 215 a 623 UMA a la señalada en la fracción XIV.
+
+> <small>(ADICIONADA, D.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XIV. De 84 a 168 UMA a la señalada en la fracción XV.
 
 ###### Artículo 108.
 
@@ -2107,9 +2165,7 @@ VI. No expedir o no entregar comprobante de sus actividades, cuando las disposic
 
 VII. Grabar en medios magnéticos o en cualquier otro medio que autorice la Agencia de Administración Fiscal de Yucatán, documentación o información para efectos fiscales sin cumplir con los requisitos que establezcan las disposiciones relativas.
 
-> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2022)</small>
-
-VIII. No presentar el dictamen dentro del término previsto en el artículo 27-K, párrafo segundo, de la Ley General de Hacienda del Estado de Yucatán.
+VIII. (DEROGADA, D.O. 26 DE DICIEMBRE DE 2025)
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
@@ -2129,9 +2185,7 @@ V. De 106 a 578 UMA, a la señalada en la fracción VI.
 
 VI. De 18 a 89 UMA, a la establecida en la fracción VII. La multa procederá sin perjuicio de que los documentos grabados en contravención de las disposiciones fiscales carezcan de valor probatorio.
 
-> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2022)</small>
-
-VII. De 215 a 623 UMA a la señalada en la fracción VIII.
+VII. (DEROGADA, D.O. 26 DE DICIEMBRE DE 2025)
 
 > <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -3115,7 +3169,9 @@ Al acreditarse que ha cesado la conducta que dio origen al embargo precautorio, 
 
 La autoridad fiscal deberá ordenar a las entidades financieras, sociedades de ahorro y préstamo o de inversiones o valores la desinmovilización de los bienes señalados en el inciso f) de la fracción III de este artículo, dentro de los tres días siguientes a aquel en que se acredite que cesó la conducta que dio origen al embargo precautorio, o bien, que existe orden de suspensión emitida por autoridad competente.
 
-V. A más tardar el tercer día siguiente a aquel en que hubiera tenido lugar el embargo precautorio, la autoridad fiscal notificará al contribuyente la conducta que originó la medida y, en su caso, el monto sobre el cual procede. La notificación se hará personalmente al contribuyente, responsable solidario o tercero relacionado.
+> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2025)</small>
+
+V. A más tardar al vigésimo día siguiente a aquél en que hubiera tenido lugar el embargo precautorio, la autoridad fiscal notificará al contribuyente la conducta que originó la medida y, en su caso, el monto sobre el cual procede. La notificación se hará personalmente al contribuyente, responsable solidario o tercero relacionado.
 
 VI. Con excepción de los bienes que se refiere el inciso f) de la fracción III de este artículo los bienes embargados precautoriamente podrán, desde el momento en que se notifique el mismo y hasta que se levante, dejarse en posesión del contribuyente, responsable solidario o tercero relacionado con ellos, siempre que para estos efectos actúe como depositario en los términos establecidos en el artículo 203 de este código.
 
@@ -3295,7 +3351,9 @@ I. A embargar bienes suficientes para, en su caso, rematarlos, enajenarlos fuera
 
 En ningún caso procederá el embargo de los depósitos, por un monto mayor al del crédito fiscal actualizado, junto con sus accesorios legales, ya sea que el embargo se trabe sobre una sola cuenta o en más de una. Lo anterior, siempre y cuando, previo al embargo, la autoridad fiscal cuente con información de las cuentas y los saldos que existan en las mismas.
 
-Las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores que hayan ejecutado el embargo de los depósitos a que se refiere el artículo 205, fracción I, de este Código en una o más cuentas del contribuyente, deberán informarlo a la autoridad fiscal que ordenó la medida a más tardar al tercer día siguiente a la fecha en la que se haya ejecutado, señalando el número de las cuentas así como el importe total que fue embargado. La autoridad fiscal a su vez deberá notificar al contribuyente de dicho embargo a más tardar al tercer día siguiente a aquel en que le hubieren comunicado este.
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores que hayan ejecutado el embargo de los depósitos o seguros a que se refiere el artículo 205, fracción I, de este Código en una o más cuentas del contribuyente, deberán informarlo a la autoridad fiscal que ordenó la medida a más tardar al tercer día siguiente a la fecha en la que se haya ejecutado, señalando el número de las cuentas, así como el importe total que fue embargado. La autoridad fiscal a su vez deberá notificar al contribuyente de dicho embargo a más tardar al vigésimo día siguiente a aquél en que le hubieren comunicado éste.
 
 En los casos en que la autoridad fiscal tenga conocimiento de que el embargo se realizó por un importe mayor al señalado en el segundo párrafo de este artículo, ordenará a más tardar al tercer día siguiente a aquel en que hubiere tenido conocimiento del embargo en exceso, a las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores que correspondan, liberar la cantidad correspondiente. Las entidades o sociedades de ahorro y préstamo o de inversiones y valores, deberán liberar los recursos embargados en exceso, a más tardar el tercer día siguiente a aquel en que surta efectos la notificación del oficio de la autoridad fiscal.
 
@@ -3409,7 +3467,9 @@ Solo procederá la inmovilización hasta por el importe del crédito fiscal y su
 
 La autoridad fiscal ordenará mediante oficio dirigido a la unidad administrativa competente de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional de Seguros y Fianzas o de la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o bien a la entidad financiera o sociedad cooperativa de ahorro y préstamo a la que corresponda la cuenta, a efecto de que estas últimas realicen la inmovilización y conserven los fondos depositados. Para efectos de lo anterior, la inmovilización deberán realizarla a más tardar al tercer día siguiente a aquel en que les fue notificado el oficio de la autoridad fiscal.
 
-Las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores que hayan ejecutado la inmovilización de los depósitos o seguros en una o más cuentas del contribuyente, deberán informar del cumplimiento de dicha medida a la autoridad fiscal que la ordenó, a más tardar al tercer día siguiente a la fecha en que se ejecutó, señalando el número de las cuentas, así como el importe total que fue inmovilizado. La autoridad fiscal notificará al contribuyente sobre dicha inmovilización, a más tardar al tercer día siguiente a aquel en que le hubieren comunicado esta.
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores que hayan ejecutado la inmovilización de los depósitos o seguros en una o más cuentas del contribuyente, deberán informar del cumplimiento de dicha medida a la autoridad fiscal que la ordenó, a más tardar al tercer día siguiente a la fecha en que se ejecutó, señalando el número de las cuentas, así como el importe total que fue inmovilizado. La autoridad fiscal notificará al contribuyente sobre dicha inmovilización, a más tardar al vigésimo día siguiente a aquél en que le hubieren comunicado ésta.
 
 En los casos en que el contribuyente, la entidad financiera, sociedades de ahorro y préstamo o de inversiones y valores, haga del conocimiento de la autoridad fiscal que la inmovilización se realizó en una o más cuentas del contribuyente por un importe mayor al señalado en el segundo párrafo de este artículo, esta deberá ordenar a más tardar dentro de los tres días siguientes a aquel en que hubiere tenido conocimiento de la inmovilización en exceso, que se libere la cantidad correspondiente. Dichas entidades o sociedades cooperativas de ahorro y préstamo o de inversiones y valores, deberán liberar los recursos inmovilizados en exceso, a más tardar al tercer día siguiente a aquel en que surta efectos la notificación del oficio de la autoridad fiscal.
 
@@ -3437,7 +3497,9 @@ III. Si el interés fiscal se encuentra garantizado en alguna de las formas esta
 
 IV. Si el interés fiscal no se encuentra garantizado, la autoridad fiscal podrá proceder a la transferencia de recursos en términos de la fracción I de este artículo.
 
-En los casos indicados en este artículo, las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores deberán informar a la autoridad fiscal que ordenó la transferencia el monto transferido, a más tardar al tercer día siguiente de la fecha en que esta se realizó. La autoridad fiscal deberá notificar al contribuyente la transferencia de los recursos, conforme a las disposiciones aplicables, a más tardar al tercer día siguiente a aquel en que se hizo de su conocimiento la referida transferencia.
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2025)</small>
+
+En los casos indicados en este artículo, las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores deberán informar a la autoridad fiscal que ordenó la transferencia el monto transferido, a más tardar al tercer día siguiente de la fecha en que ésta se realizó. La autoridad fiscal deberá notificar al contribuyente la transferencia de los recursos, conforme a las disposiciones aplicables, a más tardar al vigésimo día siguiente a aquél en que se hizo de su conocimiento la referida transferencia.
 
 Si al transferirse el importe el contribuyente considera que este es superior al crédito fiscal, deberá demostrar tal hecho ante la autoridad fiscal con prueba documental suficiente, para que dicha autoridad proceda al reintegro de la cantidad transferida en exceso en un plazo no mayor de veinte días a partir de que se notifique al contribuyente la transferencia de los recursos. Si a juicio de la autoridad fiscal las pruebas no son suficientes, se le notificará dentro del plazo antes señalado, haciéndoles saber que puede hacer valer el recurso de revocación correspondiente, o bien, presentar juicio contencioso administrativo.
 
@@ -4172,3 +4234,17 @@ D.O. 28 DE DICIEMBRE DE 2023.
 Artículo único. Entrada en vigor
 
 El presente Decreto entrará en vigor el día primero de enero del año dos mil veinticuatro, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 26 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 139/2025 POR EL QUE SE MODIFICA EL CÓDIGO FISCAL DEL ESTADO DE YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de enero de 2026, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, con excepción del artículo 39 y del 40, fracción XIV, del Código Fiscal del Estado de Yucatán, los cuales, entrarán en vigor el 1 de julio de 2026.
+
+Para efectos de la entrada en vigor del artículo 40, fracción XIV, los contribuyentes que se encuentren inscritos en el Registro Estatal de Contribuyentes, deberán actualizar sus medios de contacto, incluyendo correo electrónico y número de teléfono, a más tardar el 31 de diciembre del 2026.
+
+Segundo. Procedimientos en trámite
+
+Los procedimientos iniciados con anterioridad a la entrada en vigor del presente decreto deberán substanciarse y resolverse en términos de las disposiciones vigentes en la fecha en que iniciaron.
