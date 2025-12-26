@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-fiscalia-general-del-estado-de-baja-139005"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-10-31"
-last_updated: "2025-12-12"
+last_updated: "2025-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139005&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
 
 Ley publicada en el No. 49 del Periódico Oficial del Estado de Baja California, el jueves 31 de octubre de 2019.
 
@@ -223,37 +223,37 @@ i. Fiscalía Especializada en Delitos Contra la Vida;
 
 j. Fiscalía Especializada en Narcomenudeo;
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-k. Fiscalía Especializada en Derechos Humanos;
+k. Fiscalía Especializada en Justicia para Adolescentes;
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-l. Fiscalía Especializada en Justicia para Adolescentes;
+l. Fiscalía Especializada en Delitos Ambientales y Contra los Animales;
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-m. Fiscalía Especializada en Delitos Ambientales y Contra los Animales;
+m. Fiscalía de Unidades Especializadas;
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-n. Fiscalía de Unidades Especializadas;
+n. Unidad de Inteligencia Patrimonial y Económica;
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-o. Unidad de Inteligencia Patrimonial y Económica;
+o. Unidad de Procedimientos de Extinción de Dominio;
 
-> <small>(REFORMADO Y REUBICADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-p. Unidad de Procedimientos de Extinción de Dominio;
+p. Fiscalía Especializada en Delitos Contra la Tortura;
 
-> <small>(REFORMADO Y REUBICADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-q. Fiscalía Especializada en Delitos Contra la Tortura; y,
+q. Fiscalía Especializada en Asuntos Indígenas; y,
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-r. Fiscalía Especializada en Asuntos Indígenas.
+r. Fiscalía Especializada para la Investigación y Persecución de los Delitos de Desaparición Forzada de Personas y Desaparición cometida por Particulares.
 
 II. Fiscalía de Contraloría y Visitaduría;
 
@@ -287,13 +287,17 @@ X. Fiscalía Especializada para la Atención de Delitos Electorales;
 
 XI. Fiscalía Especializada en Combate a la Corrupción;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE ENERO DE 2025)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-XII. Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano en el Estado; y,
+XII. Fiscalía Especializada en Derechos Humanos;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-XIII. Los demás que establezcan las leyes y reglamentos.
+XIII. Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano en el Estado; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XIV. Los demás que establezcan las leyes y reglamentos.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
 
@@ -302,6 +306,10 @@ La persona titular de la Fiscalía General podrá establecer con las distintas F
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 2025)</small>
 
 La Fiscalía General del Estado contará con Fiscales del Ministerio Público, policía de investigación, analistas, auxiliares y peritos, así como con el personal profesional, técnico y administrativo necesario para la realización de sus funciones, en términos de las disposiciones legales aplicables. Asimismo, podrá apoyarse de personal especializado de otras dependencias gubernamentales cuando las necesidades del servicio, la Ley y los convenios aplicables así lo requieran, estipulen o permitan.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Se entenderán como áreas especializadas en delitos de alto impacto, para efectos estadísticos, los órganos y unidades previstos en los incisos h, i, j, m, p, y r de la fracción I, así como la Fiscalía Especializada en Derechos Humanos a que se refiere la fracción XII.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -507,7 +515,9 @@ El incumplimiento a los artículos 18 y 19 de la presente Ley, se sancionará de
 
 Nombramiento y remoción de las personas servidoras públicas de la Fiscalía General. Las personas servidoras públicas integrantes de la Fiscalía General del Estado distintos al titular, serán nombradas o removidas por la persona titular de la Fiscalía General conforme a la normatividad aplicable.
 
-#### Sección III. Del Ministerio Público
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+#### Sección III. Del Ministerio Público y Peritos
 
 ###### Artículo 21.
 
@@ -611,15 +621,73 @@ V. Aprobar el curso de ingreso, de formación inicial o básica; así como los d
 
 VI. Someterse y aprobar los procesos de evaluación y de control de confianza;
 
-VII. No estar sujeto o vinculado a proceso penal, o haber sido sentenciado por delito doloso;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+VII. No estar sujeto o vinculado a proceso penal, o haber sido condenada por sentencia irrevocable como responsable de un delito doloso relacionado con las funciones a desempeñar;
 
 VIII. No estar suspendido ni inhabilitado por resolución firme como servidor público, ni estar sujeto a procedimiento de responsabilidad administrativa federal o local, en los términos de las normas aplicables;
 
-IX. No hacer uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo, y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-X. Los demás requisitos que establezcan las disposiciones legales aplicables.
+IX. Someterse a exámenes para comprobar la ausencia de abuso de sustancias que alteren el estado físico y mental, como el alcohol, sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
 
-Los requisitos previstos en las fracciones VI, VII, VIII, IX y X serán considerados también para la permanencia del Ministerio Público.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+X. En su caso, tener acreditado el Servicio Militar Nacional;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XI. No haber participado, favorecido o encubierto, de ninguna forma, la comisión de violaciones graves a los derechos humanos, no contar con historial o antecedentes de ningún tipo como victimario de violencia contra las mujeres, niñas, niños, adolescentes o personas adultas mayores, ni haber cometido abuso o maltrato animal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XII. No tener en su contra sentencia ejecutoria que imponga la suspensión de la ciudadanía;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XIII. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XIV. No estar declarada persona deudora alimentaria morosa; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XV. Los demás requisitos que establezcan las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Los requisitos previstos en las fracciones VI, VII, VIII, IX y XV serán considerados también para la permanencia del Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Artículo 23 BIS.- Requisitos de ingreso y permanencia de personas Perito. Son requisitos de ingreso y permanencia los siguientes:
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+
+II. Tener título legalmente expedido y registrado por autoridad competente que la faculte para ejercer la ciencia, técnica, arte o disciplina de que se trate, o acreditar plenamente los conocimientos correspondientes a la disciplina sobre la que deba dictaminar cuando de acuerdo con las normas aplicables no necesite título o cédula profesional para su ejercicio;
+
+III. En su caso, tener acreditado el Servicio Militar Nacional;
+
+IV. Aprobar el curso de ingreso, formación inicial o básica que establezcan las leyes de la materia en la Federación o en las entidades federativas que correspondan;
+
+V. No estar sujeto o vinculado a proceso penal, o haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal;
+
+VI. No estar suspendida ni haber sido destituida o inhabilitada por resolución firme como servidora pública, ni estar sujeta a procedimiento de responsabilidad administrativa federal o local, en los términos de las normas aplicables;
+
+VII. Someterse a exámenes para comprobar la ausencia de abuso de sustancias que alteren el estado físico y mental, como el alcohol, sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+
+VIII. No haber participado, favorecido o encubierto, de ninguna forma, la comisión de violaciones graves a los derechos humanos, no contar con historial o antecedentes de ningún tipo como victimario de violencia contra las mujeres, niñas, niños, adolescentes o personas adultas mayores, ni haber cometido abuso o maltrato animal;
+
+IX. Aprobar las evaluaciones de control de confianza;
+
+X. No tener en su contra sentencia ejecutoria que imponga la suspensión de la ciudadanía;
+
+XI. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos;
+
+XII. No estar declarada persona deudora alimentaria morosa; y,
+
+XIII. No contar con antecedentes penales por delito doloso en el país o por aquellos que se consideren como tales en el extranjero.
 
 ### Capítulo IV. Atribuciones y Facultades Específicas
 
@@ -661,41 +729,41 @@ IX. Fiscalía Especializada en Delitos Contra la Vida;
 
 X. Fiscalía Especializada en Narcomenudeo;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-XI. Fiscalía Especializada en Derechos Humanos;
+XI. Fiscalía Especializada en Justicia para Adolescentes;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-XII. Fiscalía Especializada en Justicia para Adolescentes;
+XII. Fiscalía Especializada en Delitos Ambientales y Contra los Animales;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-XIII. Fiscalía Especializada en Delitos Ambientales y Contra los Animales;
+XIII. Fiscalía de Unidades Especializadas;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-XIV. Fiscalía de Unidades Especializadas;
+XIV. Unidad de Inteligencia Patrimonial y Económica;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-XV. Unidad de Inteligencia Patrimonial y Económica;
+XV. Unidad de Procedimientos de Extinción de Dominio;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-XVI. Unidad de Procedimientos de Extinción de Dominio;
+XVI. Fiscalía Especializada en Delitos Contra la Tortura;
 
-> <small>(REFORMADA Y REUBICADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-XVII. Fiscalía Especializada en Delitos Contra la Tortura;
+XVII. Fiscalía Especializada en Asuntos Indígenas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-XVIII. Fiscalía Especializada en Asuntos Indígenas; y,
+XVIII. Fiscalía Especializada para la Investigación y Persecución de los Delitos de Desaparición Forzada de Personas y Desaparición cometida por Particulares; y,
 
-> <small>(REFORMADA Y REUBICADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-XIX. Los demás entes administrativos que determine la persona titular de la Fiscalía General del Estado conforme a la disponibilidad presupuestal y necesidades prioritarias del servicio.
+XIX. Los demás entes administrativos que determine el Fiscal General del Estado conforme a la disponibilidad presupuestal y necesidades prioritarias del servicio.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2025)</small>
 
@@ -728,6 +796,30 @@ Artículo 24 TER. Fiscalía Especializada en Combate a la Corrupción. La Fiscal
 Los requisitos para ocupar el cargo, la duración en el mismo, así como el nombramiento y remoción de su titular, será de conformidad a lo establecido en la Constitución Política del Estado Libre y Soberano de Baja California.
 
 La estructura orgánica, las atribuciones y facultades específicas estarán determinadas en la presente Ley, las leyes aplicables y el Reglamento correspondiente.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Artículo 24 QUATER. Fiscalía Especializada en Derechos Humanos. La Fiscalía Especializada en Derechos Humanos es la Unidad Administrativa dependiente de la Fiscalía General del Estado que aplica el principio de especialización y estará a cargo de garantizar el respeto a los Derechos Humanos dentro de la Institución, promover y fortalecer la aplicación de políticas, criterios y lineamientos en materia de Derechos Humanos, en todas las direcciones y áreas de la Fiscalía General y fomentar la difusión de estos derechos entre el personal.
+
+Para el desarrollo de sus atribuciones contará con la Unidad de Atención a Víctimas, en los términos que disponga el reglamento correspondiente.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Artículo 24 QUINQUIES. Fiscalía Especializada para la Investigación y Persecución de los Delitos de Desaparición Forzada de Personas y Desaparición cometida por Particulares. La Fiscalía Especializada para la Investigación y Persecución de los Delitos de Desaparición Forzada de Personas y Desaparición cometida por Particulares es un órgano dependiente de la Fiscalía General del Estado. Estará a cargo de un Fiscal Especializado que será competente para la investigación y persecución de los delitos de desaparición forzada de personas, desaparición cometida por particulares y delitos vinculados con la desaparición de personas, en términos de la Ley Sobre Desaparición y Búsqueda de Personas para el Estado de Baja California.
+
+Para el cumplimiento de sus funciones, contará con las siguientes unidades:
+
+I. Unidad especializada de investigación;
+
+II. Unidad de análisis de contexto;
+
+III. Unidad de atención y seguimiento a víctimas;
+
+IV. Unidad de búsqueda inmediata y de larga data; y,
+
+V. Área especializada en delitos cibernéticos.
+
+Asimismo, la Fiscalía Especializada deberá contar con personal sustantivo ministerial, policial, pericial, de análisis de contexto y de apoyo psicosocial, quienes deberán cumplir con los perfiles establecidos por la Conferencia Nacional de Procuración de Justicia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2020)</small>
 
@@ -787,21 +879,29 @@ Las atribuciones, obligaciones, requisitos y características orgánicas de la A
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. 26 DE DICIEMBRE DE 2025, PÁGINA 69.]</small>
+
 ###### Artículo 30.
 
 Agencia Estatal de Investigación. La Coordinación de la Agencia Estatal de Investigación, dentro de su estructura, contará al menos con las siguientes áreas:
 
 a. Dirección de Policía de Investigación;
 
-b. Dirección de Protección a Víctimas, Testigos y otros sujetos procesales;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-c. Dirección de Inteligencia y Análisis;
+b. Dirección de Inteligencia y Análisis Criminal;
 
-d. Dirección de Cumplimiento de Mandamientos Judiciales;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-e. Dirección de Operaciones Encubiertas, y
+c. Dirección de Cumplimiento de Mandamientos Judiciales;
 
-f. Las demás que establezca la reglamentación del presente ordenamiento y demás normatividad aplicable.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+d. Dirección de Operaciones Encubiertas; y,
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+e. Las demás que establezca la reglamentación del presente ordenamiento y demás normatividad aplicable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -1328,3 +1428,11 @@ Los procesos a que se refiere el párrafo anterior, relativos a los Miembros de 
 Quinto.- Con motivo de la transferencia prevista en las presentes reformas no se aplicará la prohibición prevista en el artículo 46 de la Ley Orgánica de la Fiscalía General del Estado, respecto a la irreductibilidad presupuestal de la Fiscalía General del Estado.
 
 Sexto.- Los juicios, controversias y obligaciones de pago o de cualquier índole derivadas de resoluciones judiciales o procesos jurisdiccionales pendientes de resolver o de cumplimiento al momento de la entrada en vigor del presente decreto, en los que sea parte el Centro de Evaluación y Control de Confianza, quedarán bajo cargo y responsabilidad de la Fiscalía General del Estado hasta su total conclusión.
+
+P.O. 26 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 210 MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA, LEY SOBRE DESAPARICIÓN Y BÚSQUEDA DE PERSONAS PARA EL ESTADO DE BAJA CALIFORNIA, ASÍ COMO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- La Fiscalía General del Estado deberá realizar las adecuaciones reglamentarias que sean necesarias para cumplimentar lo dispuesto en las presentes reformas en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto.
