@@ -4,7 +4,7 @@ identifier: "HID-ley-de-mitigacion-y-adaptacion-ante-los-efectos-del-cambio-9589
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-26"
-last_updated: "2024-08-16"
+last_updated: "2025-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 26 de agosto de 2013.
 
@@ -85,13 +85,17 @@ V.- Fomentar la educación, investigación, difusión, innovación, desarrollo y
 
 VI.- Promover una economía competitiva, a través de procesos productivos eficientes con bajas emisiones de carbono;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-VII.- El establecimiento de estrategias que contribuyan al cumplimiento del Acuerdo de París, en observancia de las disposiciones o el instrumento internacional vigente en la materia, y
+VII.- El establecimiento de estrategias que contribuyan al cumplimiento del Acuerdo de París, en observancia de las disposiciones o el instrumento internacional vigente en la materia;
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-VIII.- Promover la movilidad activa o no motorizada, la electromovilidad y sistemas de transporte colectivo sustentables con la finalidad de mitigar la contaminación del aire por emisiones de gases y compuestos de efecto invernadero.
+VIII.- Promover la movilidad activa o no motorizada, la electromovilidad y sistemas de transporte colectivo sustentables con la finalidad de mitigar la contaminación del aire por emisiones de gases y compuestos de efecto invernadero; y
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+IX.- Fomentar la colaboración del estado y los municipios en la elaboración de políticas públicas para la promoción de un medio ambiente sano, la adaptación al cambio climático y la mitigación de emisiones de gases y compuestos de efecto invernadero.
 
 ###### Artículo 4.
 
@@ -1366,3 +1370,9 @@ P.O. 16 DE AGOSTO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1046 POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 11 DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 359 – LXVI POR EL QUE SE REFORMAN LAS FRACCIONES VII Y VIII, Y SE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 3 DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO, EN MATERIA DE AMPLIACIÓN DEL OBJETO DE LA LEY”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
