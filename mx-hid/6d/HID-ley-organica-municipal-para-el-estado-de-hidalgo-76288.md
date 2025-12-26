@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2025-08-22"
+last_updated: "2025-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -3721,9 +3721,15 @@ IX.- Coordinarse con las autoridades de los órdenes de gobierno para la impleme
 
 X.- Coadyuvar en la integración del sistema de información a nivel estatal de niñas, niños y adolescentes;
 
-XI.- Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas municipales; y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-XII.- Las demás que establezca el ordenamiento jurídico estatal y aquellas que deriven de los acuerdos que, de conformidad con la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Hidalgo, se asuman en el Sistema Nacional DIF y los Sistemas DIF de Hidalgo.
+XI.- Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas municipales;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+XII.- Impulsar y promover que, en la prestación de servicios municipales y en las actividades realizadas por la administración pública municipal, se procure el respeto y atención del interés superior de la niñez y la adolescencia;
+
+XIII.- Las demás que establezca el ordenamiento jurídico estatal y aquellas que deriven de los acuerdos que, de conformidad con la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Hidalgo, se asuman en el Sistema Nacional DIF y los Sistemas DIF de Hidalgo.
 
 > <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
 
@@ -5328,3 +5334,11 @@ P.O. 22 DE AGOSTO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 331 - LXVI POR EL QUE SE ADICIONA EL INCISO V) A LA FRACCIÓN II DEL ARTÍCULO 56 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE INCLUSIÓN DE PERSONAS JÓVENES A LA PLANTILLA LABORAL DE LOS AYUNTAMIENTOS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 349 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO, DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, Y DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE EVENTOS DEPORTIVOS CON PRESENCIA DE PERSONAS MENORES DE EDAD”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Los ayuntamientos del Estado deberán emitir o actualizar su normatividad interna para efecto de dar cumplimiento a lo aprobado en este Decreto.
