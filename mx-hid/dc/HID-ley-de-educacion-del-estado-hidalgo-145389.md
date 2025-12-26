@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-del-estado-hidalgo-145389"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-30"
-last_updated: "2025-08-22"
+last_updated: "2025-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN DEL ESTADO HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Núm. 48 del Periódico Oficial del Estado de Hidalgo, el lunes 30 de noviembre de 2020.
 
@@ -1252,6 +1252,14 @@ En las actividades de supervisión las autoridades educativas darán prioridad, 
 La Secretaría será quien efectuará las acciones necesarias para que los movimientos y pagos del personal de Educación Básica, se realicen a través de un sistema de administración de nómina, conforme a los lineamientos que al efecto emitan conjuntamente la Autoridad Educativa Federal y la Secretaría de Hacienda y Crédito Público.
 
 El sistema de administración de nómina deberá observar los criterios de control presupuestario de servicios personales, así como los principios de transparencia, publicidad y de rendición de cuentas, para lo cual la Secretaría, se coordinará con la Autoridad Educativa Federal y la Secretaría de Hacienda y Crédito Público. Los pagos se deberán realizar preferentemente mediante medios electrónicos.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 96 Bis.
+
+Las autoridades educativas promoverán medidas y protocolos que fomenten y procuren la protección y la salvaguarda de la dignidad, integridad física, emocional y profesional de las maestras y los maestros en el ejercicio de sus funciones, con la finalidad de prevenir, atender y combatir cualquier tipo de discriminación o violencia en su contra, en los términos de los artículos 91 y 92 de esta Ley.
+
+Además, podrán implementar programas de capacitación, orientación, canalización, atención, vigilancia y sensibilización en materia de respeto a las maestras y los maestros, con la finalidad de contribuir al pleno ejercicio del derecho a la educación y construir una cultura de paz en los centros educativos.
 
 ### CAPÍTULO II. DE LOS PROCESOS DE ADMISIÓN, PROMOCIÓN Y RECONOCIMIENTO EN EDUCACIÓN BÁSICA Y EN EDUCACIÓN MEDIA SUPERIOR
 
@@ -2660,5 +2668,11 @@ P.O. 6 DE AGOSTO DE 2025.
 P.O. 22 DE AGOSTO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 341 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 68 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO, EN MATERIA DE EDUCACIÓN VIAL".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 358 - LXVI POR EL QUE SE ADICIONA UN ARTÍCULO 96 BIS A LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO, EN MATERIA DE PROTECCIÓN A LAS MAESTRAS Y LOS MAESTROS FRENTE A LA VIOLENCIA EN EL ENTORNO ESCOLAR".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
