@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-ingresos-del-estado-libre-y-soberano-de-durango-para-182
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2025-12-14"
-last_updated: "2025-12-14"
+last_updated: "2025-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=182972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "DUR"
 ---
 # LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE DURANGO PARA EL EJERCICIO FISCAL 2026
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE DICIEMBRE DE 2025 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE DURANGO PARA EL EJERCICIO FISCAL 2026
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE DICIEMBRE DE 2025.]</small>
 
 Ley publicada en el Número 100 Bis del Periódico Oficial del Estado de Durango, el domingo 14 de diciembre de 2025.
 
@@ -56,6 +56,8 @@ En los términos de la Ley de Hacienda del Estado de Durango, del Código Fiscal
 GOBIERNO DEL ESTADO DE DURANGO
 
 LEY DE INGRESOS PARA EL EJERCICIO FISCAL 2026
+
+> <small>(F. DE E., P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 14 DE DICIEMBRE DE 2025, PÁGINAS DE LA 10 A LA 12.]</small>
 
