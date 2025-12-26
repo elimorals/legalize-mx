@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-agua-y-alcantarillado-para-el-estado-de-19782"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2025-08-07"
+last_updated: "2025-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ESTATAL DE AGUA Y ALCANTARILLADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 30 de diciembre de 1999.
 
@@ -1211,13 +1211,13 @@ II.- La ejecución de obras de infraestructura hidráulica y proyectos relaciona
 
 III.- La construcción, administración, operación y mantenimiento total o parcial de los sistemas destinados a la prestación de los servicios públicos;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-IV.- Las demás actividades que convengan con los Municipios, con los Organismos Operadores Municipales o Intermunicipales;
+IV.- La promoción del derecho humano al agua, su cuidado y uso eficiente; así como los mecanismos de sustentabilidad y respeto al medio ambiente relacionados con la explotación, uso y aprovechamiento de los recursos hídricos; y
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-V.- La promoción del derecho humano al agua, así como los mecanismos de sustentabilidad y respeto al medio ambiente relacionados con la explotación, uso y aprovechamiento de los recursos hídricos.
+V.- Las demás actividades que convengan con los Municipios, con los Organismos Operadores Municipales o Intermunicipales.
 
 ###### Artículo 62.
 
@@ -1515,9 +1515,9 @@ VII. Mezclar o juntar residuos con distintas categorías de manejo.
 
 Las autoridades en materia de agua promoverán una cultura para el uso eficiente y cuidado del recurso, a través de la realización de acciones y campañas permanentes tendientes a:
 
-> <small>(REFORMADA, P.O. 17 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-I.- Promover mediante campañas periódicas e instrumentos de participación ciudadana, la concientización de la población sobre el uso eficiente del agua y su conservación en todas las fases de su ciclo;
+I.- Promover mediante campañas periódicas, material de difusión, instrumentos de participación ciudadana, la concientización de la población sobre el cuidado, uso eficiente del agua y su conservación en todas las fases de su ciclo;
 
 > <small>(ADICIONADA, P.O. 17 DE MAYO DE 2024)</small>
 
@@ -1549,9 +1549,9 @@ VII.- Procurar un entorno educativo que difunda los beneficios del uso eficiente
 
 VIII.- Promover ante las instituciones educativas del Estado la realización de cursos, talleres, conferencias y diplomados en materia de cultura del agua y uso racional de la misma, en el marco del día mundial del agua;
 
-> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-IX.- Impulsar en las empresas constructoras de viviendas, conjuntos habitacionales, espacios agropecuarios, industriales, comerciales y de servicios, el uso eficiente y cuidado del agua, así como que los sistemas y la tecnología que emplean sea la adecuada para el ahorro y aprovechamiento del agua; y
+IX.- Impulsar en las empresas constructoras de viviendas, conjuntos habitacionales, espacios agropecuarios, industriales, comerciales y de servicios, la difusión de la cultura del agua y su uso eficiente, así como que los sistemas y la tecnología que emplean sea la adecuada para el ahorro y aprovechamiento del agua; y
 
 > <small>(ADICIONADA, P.O. 17 DE MAYO DE 2024)</small>
 
@@ -2698,5 +2698,11 @@ SEGUNDO. Para efecto de la emisión de las convocatorias, los organismos operado
 P.O. 7 DE AGOSTO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 315 – LXVI POR EL QUE SE REFORMA EL ARTÍCULO 1 Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 5 DE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO PARA EL ESTADO DE HIDALGO, EN MATERIA DE REFORZAR EL DERECHO HUMANO AL AGUA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 370 – LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO, EN MATERIA DE CULTURA DEL AGUA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
