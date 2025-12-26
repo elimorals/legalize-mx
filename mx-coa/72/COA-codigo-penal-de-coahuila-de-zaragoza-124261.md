@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-de-coahuila-de-zaragoza-124261"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-27"
-last_updated: "2025-10-03"
+last_updated: "2025-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
 
@@ -1523,7 +1523,9 @@ Cuando se trate de un delito único, o de delitos conexos o derivados unos de ot
 
 Cuando se trate de un delito único, o de delitos conexos o derivados unos de otros, o cometidos en concurso real, ideal o complejo de delitos, ya sea que fueron imputados en un mismo proceso o en procesos distintos, y de ellos haya un delito calificado como grave en el párrafo siguiente, la duración de la pena total unificada de prisión por todos ellos nunca podrá exceder de cuarenta años, salvo cuando concurra un homicidio cometido con alguna de las calificativas previstas en las fracciones VIII, XIII, XIV, XV, XVI o XVII del artículo 184 de este código, caso en el que la duración total unificada de la pena de prisión, podrá llegar hasta cuarenta y cinco años.
 
-Se consideran como delitos graves a efecto de determinar el tiempo máximo de duración de la pena de prisión que deba sufrir la persona sentenciada, respecto de un delito único, o de delitos conexos o derivados unos de otros, o cometidos en concurso real, ideal o complejo de delitos, ya sea que fueron imputados en un mismo proceso o en procesos distintos: el homicidio simple doloso, el homicidio calificado, el homicidio en riña con carácter de provocador, el feminicidio, el parricidio, el matricidio, el filicidio, el homicidio con acuerdo previo e indeterminación del autor o cometido en corresponsabilidad de delito emergente; la violación o violación equiparada, la violación impropia; el robo con violencia que haya causado lesiones leves o de mayor gravedad, o cuando el robo con violencia haya causado lesiones de cualquier gravedad disparando un arma de fuego, o haya intervenido en el robo uno o más miembros de las instituciones de seguridad pública; o se haya cometido homicidio y/o robo contra una o más personas que viajaban en vehículo que era conducido en tramos despoblados o desprotegidos, por caminos o carreteras federales, estatales o municipales; la asociación delictuosa, con o sin agravantes; la extorsión simple, o cometida con una o más modalidades agravantes; la simulación de retenes oficiales y las operaciones con recursos de procedencia ilícita.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Se consideran como delitos graves a efecto de determinar el tiempo máximo de duración de la pena de prisión que deba sufrir la persona sentenciada, respecto de un delito único, o de delitos conexos o derivados unos de otros, o cometidos en concurso real, ideal o complejo de delitos, ya sea que fueron imputados en un mismo proceso o en procesos distintos: el homicidio simple doloso, el homicidio calificado, el homicidio en riña con carácter de provocador, el feminicidio, el parricidio, el matricidio, el filicidio, el homicidio con acuerdo previo e indeterminación del autor o cometido en corresponsabilidad de delito emergente; la violación o violación equiparada, la violación impropia; el robo con violencia que haya causado lesiones leves o de mayor gravedad, o cuando el robo con violencia haya causado lesiones de cualquier gravedad disparando un arma de fuego, o haya intervenido en el robo uno o más miembros de las instituciones de seguridad pública; o se haya cometido homicidio y/o robo contra una o más personas que viajaban en vehículo que era conducido en tramos despoblados o desprotegidos, por caminos o carreteras federales, estatales o municipales; la asociación delictuosa, con o sin agravantes; la simulación de retenes oficiales y las operaciones con recursos de procedencia ilícita.
 
 3) (Pena total unificada en delitos conexos o en concurso de delitos, en los que existan dos o más delitos graves)
 
@@ -1625,7 +1627,9 @@ VII. (Graduación del daño moral implicado en el tipo penal, o derivado de su c
 
 Con independencia de la reparación del daño a que haya lugar en favor de la víctima, el juez o tribunal sólo tomará en cuenta el mayor o menor daño moral ocasionado a la víctima directa en virtud del injusto cometido.
 
-Sin embargo, cuando se trate de secuestro, extorsión, violencia familiar o de otro delito en el que la conducta lesiva de la persona sentenciada se haya reflejado directamente en otras personas vinculadas estrechamente con la víctima, se tomará en cuenta el originado a aquéllas.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Sin embargo, cuando se trate de secuestro, violencia familiar o de otro delito en el que la conducta lesiva de la persona sentenciada se haya reflejado directamente en otras personas vinculadas estrechamente con la víctima, se tomará en cuenta el originado a aquéllas.
 
 Cuando se trate de homicidio en contra de persona menor de doce años, o bien de violación propia o impropia, agravada o no, y de violación equiparada agravada o no, en contra de personas que tengan menos de quince años de edad, así como de violencia familiar, sí procederá evaluar la mayor o menor gravedad del daño moral originado a los familiares consanguíneos descendientes o ascendientes, cónyuge, compañera o compañero civil, y adoptante o adoptado, que hayan padecido indirectamente la violencia.
 
@@ -2311,7 +2315,9 @@ I. (Afectación moral personal)
 
 El pago de una cantidad en dinero por el sufrimiento que el delito originó a la víctima u ofendidos, ya sea en sus sentimientos, afectos, creencias, decoro, honor, reputación, vida privada, o bien por su configuración o aspecto físico derivados del delito.
 
-Cuando se trate de secuestro, extorsión, violencia familiar o de otro delito en el que la conducta del imputado se haya reflejado durante su realización en otras personas vinculadas con la víctima directa, el pago de una cantidad en dinero por el sufrimiento irrogado a las mismas.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Cuando se trate de secuestro, violencia familiar o de otro delito en el que la conducta del imputado se haya reflejado durante su realización en otras personas vinculadas con la víctima directa, el pago de una cantidad en dinero por el sufrimiento irrogado a las mismas.
 
 El importe que el imputado deberá pagar por concepto de daño moral, se fijará conforme a lo establecido en el artículo 127 de este código.
 
@@ -3859,7 +3865,9 @@ Para los efectos de las disposiciones anteriores, la autoridad competente ordena
 
 IV. (Difusión de imágenes falsificadas de personas)
 
-Se impondrá de tres a seis años de prisión y multa de setecientos (sic) a mil doscientas unidades de medida y actualización, a quien altere, edite o modifique imágenes o videos de una persona o falsifique su perfil o datos de identidad con ánimo de mostrarla en medios informáticos en situaciones íntimas o sexuales para causarle descrédito público, vergüenza, o afectación a su honor y reputación.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Se impondrá de tres a seis años de prisión y multa de setecientos (sic) a mil doscientas unidades de medida y actualización, a quien, valiéndose de cualquier tipo de tecnología, incluyendo inteligencia artificial, altere, edite o modifique imágenes o videos de una persona o falsifique su perfil o datos de identidad con ánimo de mostrarla en medios informáticos en situaciones íntimas o sexuales para causarle descrédito público, vergüenza, o afectación a su honor y reputación.
 
 Estas penas se aumentarán hasta en una mitad del máximo de la pena cuando el delito se cometa contra una persona menor de edad o que carezca de la capacidad de comprender el alcance del hecho.
 
@@ -3973,6 +3981,24 @@ Para los efectos de este artículo, se considera como empleo o trabajo, cuando e
 
 No será punible la conducta del familiar que, al trabajar durante la noche en un comercio, lleve con él al menor sobre el que ejerza la patria potestad, o esté bajo su guarda, por no tener posibilidad de dejarlo al cuidado de otra persona, aunque eventualmente el menor ayude a su familiar en su trabajo.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+### Capítulo Tercero
+
+Cohabitación forzada de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Artículo 238 Bis (Cohabitación forzada de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo)
+
+Comete el delito de cohabitación forzada de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, quien obligue, coaccione, induzca, solicite, gestione u oferte a una o varias de estas personas a unirse informal o consuetudinariamente, con o sin su consentimiento, con alguien de su misma condición o con persona mayor de dieciocho años de edad, con el fin de convivir en forma constante y equiparable a la de un matrimonio.
+
+A la persona responsable de este delito se le impondrá pena de ocho a quince años de prisión y de mil a dos mil quinientos días multa.
+
+La pena prevista en el párrafo anterior se aumentará hasta en una mitad, en su mínimo y en su máximo, si la víctima perteneciere a algún pueblo o comunidad indígena o afromexicana.
+
+## Título Séptimo. Delitos contra la igualdad
+
 ### Capítulo Único. Discriminación delictuosa
 
 Artículo 239 (Discriminación por odio, vejación o exclusión)
@@ -4013,7 +4039,7 @@ La autoridad judicial competente estará obligada en su resolución a señalar a
 
 Los delitos de este artículo se perseguirán por querella.
 
-## Título Séptimo. Delitos contra la igualdad
+## Título Octavo. Delitos contra la libertad y seguridad reproductivas
 
 ### Capítulo Primero. Disposición no consentida de óvulos o esperma, implantación ilegal de óvulo fecundado y esterilización no consentida o desinformada
 
@@ -4063,8 +4089,6 @@ Cuando entre el sujeto activo y el pasivo exista relación de matrimonio, concub
 
 Habrá relación de pareja, en los supuestos de los incisos a) y b) de la fracción VII del artículo 252 de este código.
 
-## Título Octavo. Delitos contra la libertad y seguridad reproductivas
-
 ### Capítulo Segundo. Manipulación genética
 
 Artículo 247 (Manipulación genética)
@@ -4092,6 +4116,8 @@ Además de las penas previstas en los dos capítulos anteriores, se impondrá re
 Artículo 250 (Incesto)
 
 Se impondrá de dos a seis meses de prisión, o libertad supervisada de dos a seis meses, a los hermanos, hermanas y a los ascendientes o descendientes consanguíneos en línea recta sin limitación de grado, que con conocimiento de su parentesco tengan cópula entre sí.
+
+## Título Noveno. Delitos contra una familia libre de violencia, y contra la subsistencia familiar
 
 ### Capítulo Primero. Violencia familiar
 
@@ -4163,8 +4189,6 @@ Los delitos previstos en este capítulo se perseguirán de oficio.
 
 No procederá el perdón o acuerdos reparatorios en los delitos de violencia familiar.
 
-## Título Noveno. Delitos contra una familia libre de violencia, y contra la subsistencia familiar
-
 ### Capítulo Segundo. Delitos contra la subsistencia familiar
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
@@ -4204,6 +4228,10 @@ Cuando se trate del incumplimiento frente a los padres o ascendientes previsto e
 Para que el perdón concedido extinga la acción penal o la pena impuesta cuando se trate de los delitos previstos en este capítulo, cometidos en contra de menores de edad, el imputado o sentenciado deberá pagar o garantizar el pago de todas las cantidades que hubiera dejado de ministrar y otorgar garantía de que en lo sucesivo pagará las cantidades que le correspondan.
 
 Asimismo, se extinguirá la acción, o no se impondrá pena alguna o no se ejecutará la impuesta, cuando el acusado satisfaga todas las cantidades que haya dejado de suministrar y garantice que en lo sucesivo pagará las cantidades a que esté obligado.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
+## Título Décimo. Delitos contra los seres sintientes que afectan al derecho de una vida libre de violencia
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
@@ -4263,9 +4291,7 @@ Las mismas penas se aplicarán a los agentes del estado que teniendo conocimient
 
 En estos delitos se considerará como parte de la reparación del daño el trabajo bajo supervisión de instituciones privadas o a cargo del estado que brinden apoyo y/o atención a seres sintientes preferentemente de la misma especie que aquellos sobre los que recayó la conducta delictiva.
 
-## Título Décimo. Delitos contra los seres sintientes que afectan al derecho de una vida libre de violencia
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE DICIEMBRE DE 2023)</small>
+## Título Undécimo. Delitos contra la filiación y el matrimonio
 
 ### Capítulo Primero. Alteración del estado civil
 
@@ -4309,8 +4335,6 @@ Artículo 263 (Pena adicional)
 
 A quien cometa, determine o ayude a realizar alguno de los delitos señalados en el artículo anterior, se le privará de los derechos que tenga respecto a la víctima, incluidos los de carácter sucesorio.
 
-## Título Undécimo. Delitos contra la filiación y el matrimonio
-
 ### Capítulo Segundo. Bigamia
 
 Artículo 264 (Bigamia)
@@ -4318,6 +4342,8 @@ Artículo 264 (Bigamia)
 Se impondrá de uno a tres años de prisión y de ciento ochenta a trescientos sesenta días multa, a quien contraiga matrimonio, a pesar de que está unido con otra persona en matrimonio.
 
 Se impondrán las mismas penas señaladas en el párrafo precedente, a quien contraiga matrimonio con una persona casada, si conocía este impedimento al tiempo de celebrarse el matrimonio.
+
+## Título Duodécimo. Delitos contra la paz y la identidad personales, y contra la inviolabilidad del domicilio
 
 ### Capítulo Primero. Amenazas
 
@@ -4332,8 +4358,6 @@ Artículo 266 (Ejercicio ilegal del propio derecho)
 Se impondrá de tres meses a un año de prisión o de cincuenta a cien días multa, a quien para hacer efectivo un derecho o pretendido derecho que deba hacer valer por la vía legal, lo ejercite empleando violencia física.
 
 El ejercicio ilegal del propio derecho será incompatible con los casos de exceso en el ejercicio del derecho como modalidad atenuante de tipos penales delictivos que lo admitan, o respecto de aquellos tipos penales que impliquen dicho ejercicio ilegal.
-
-## Título Duodécimo. Delitos contra la paz y la identidad personales, y contra la inviolabilidad del domicilio
 
 ### Capítulo Segundo. Allanamiento de morada y allanamiento de lugares oficiales o privados
 
@@ -4395,6 +4419,8 @@ III. Al que asuma, suplante, se apropie o utilice, a través de internet, cualqu
 
 Se aumentará hasta en una mitad las penas previstas en el presente artículo, a quien se valga de la homonimia, parecido físico o similitud de la voz para cometer el delito; así como en el supuesto en que el sujeto activo del delito tenga licenciatura, ingeniería o cualquier otro grado académico en el rubro de informática, computación o telemática.
 
+## Título Décimo Tercero. Delitos contra la privacidad e intimidad personales
+
 ### Capítulo Primero. Revelación de secretos
 
 Artículo 269 (Revelación de secretos)
@@ -4424,8 +4450,6 @@ Al sujeto activo referido en las dos primeras fracciones de este artículo, tamb
 C. (No punibilidad de aportación de comunicaciones reservadas a un proceso)
 
 No será punible aportar una comunicación privada a un proceso, por parte de alguno de los particulares que participaron en ella, salvo que quien la aporte esté obligado a guardar secreto profesional respecto a la comunicación privada que se le confió y no sea liberado por el interesado del deber de guardar secreto, en cuyo caso, a quien aporte tal comunicación reservada, se le impondrán las penas previstas en la fracción I del apartado A del artículo 269 de este código.
-
-## Título Décimo Tercero. Delitos contra la privacidad e intimidad personales
 
 ### Capítulo Segundo. Violación de correspondencia
 
@@ -4491,6 +4515,8 @@ Se aplicará hasta un tercio más de las penas previstas en el párrafo anterior
 
 Si en los supuestos del primer párrafo de la presente fracción hubiera algún resguardo o copia de los datos o información afectados, solo se impondrá al autor de cuatro meses a un año de libertad supervisada y de quinientos a mil días multa.
 
+## Título Décimo Cuarto. Delitos contra la inhumación y exhumación de cadáveres, y el trato digno a cadáveres y a su depósito
+
 ### Capítulo Único. Delitos de inhumación, exhumación y abuso de cadáveres, y de daños a féretros y sepulcros
 
 Artículo 274 (Inhumación y exhumación ilícitas)
@@ -4527,7 +4553,7 @@ Realice en el cadáver de una persona o en restos humanos, actos de manifiesto v
 
 Si el acto de necrofilia consiste en copular con el cadáver de una persona, la pena será de dos a tres años de prisión y cien a trescientos días de multa.
 
-## Título Décimo Cuarto. Delitos contra la inhumación y exhumación de cadáveres, y el trato digno a cadáveres y a su depósito
+## Título Décimo Quinto. Delitos contra el patrimonio
 
 ### Capítulo Primero. Robo
 
@@ -4780,8 +4806,6 @@ Cuando se cometa tal delito estando detenido o en circulación el vehículo auto
 Artículo 286 (Querella)
 
 Los delitos previstos en este capítulo se perseguirán por querella, salvo los cometidos con cualquiera de las modalidades agravantes previstas en las fracciones IX y XI del artículo 283 de este código, o bien, con cualquiera de las calificativas previstas en las fracciones I, II, V, VI, VII y VIII del artículo 284 de este código, o con cualquiera de las calificativas especiales del artículo 285 de este código.
-
-## Título Décimo Quinto. Delitos contra el patrimonio
 
 ### Capítulo Segundo. Abuso de confianza
 
@@ -5235,6 +5259,8 @@ Apartado Segundo
 
 Protección de bienes jurídicos colectivos
 
+## Título Primero. Delitos contra la seguridad de profesiones y la prestación pública de servicios
+
 ### Capítulo Primero. Usurpación de profesión
 
 Artículo 313 (Usurpación de profesión)
@@ -5252,8 +5278,6 @@ Artículo 313 Bis (Violencia contra trabajadores de instituciones de salud públ
 Se impondrá de tres meses a dos años de prisión y de doscientos a quinientos días multa, a quien ejerza violencia en contra de quien labore en instituciones de salud pública o privada, por razón de sus funciones o para injustificadamente obligarlo a ejecutar u omitir algún acto propio de su cargo o a realizar uno contrario a sus deberes.
 
 Si la violencia a que se refiere el párrafo precedente ocasiona una o más lesiones de las previstas en las fracciones II a VIII del artículo 200 de este código, se aplicarán las reglas del concurso de delitos.
-
-## Título Primero. Delitos contra la seguridad de profesiones y la prestación pública de servicios
 
 ### Capítulo Segundo. Conductas arbitrarias relacionadas con servicios médicos o funerarios
 
@@ -5279,17 +5303,19 @@ Los delitos previstos en este artículo se perseguirán por querella.
 
 > <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2020)</small>
 
+###### Artículo 314 Bis.
+
+(Delitos contra personal de salud cometidos durante una emergencia sanitaria)
+
+Se impondrá de seis meses a tres años de prisión, con independencia de la pena que le corresponda por la comisión de otros tipos penales, a quien corneta un delito en contra de médicos, personal de enfermería, auxiliares de estos o de personas que laboren en una institución de salud pública o privada, en el acto del ejercicio de sus funciones o con motivo de ellas, durante una emergencia sanitaria declarada por autoridad competente.
+
 ### Capítulo Tercero. Delitos de peligro para la vida o salud de trabajadores, cometidos por responsables o corresponsables de obra
 
 Artículo 315 (Desarrollo inseguro de obra)
 
 Se impondrá de tres a seis meses de libertad supervisada y de quinientos a dos mil días multa, y suspensión de tres meses a un año para desempeñar la clase de actividad profesional en virtud de la cual se comete el delito, al arquitecto, ingeniero, contratista o maestro albañil responsables o corresponsables de una obra, que permitan el desarrollo de la misma sin proveer medidas que protejan la vida o la salud de quienes trabajen en aquélla.
 
-###### Artículo 314 Bis.
-
-(Delitos contra personal de salud cometidos durante una emergencia sanitaria)
-
-Se impondrá de seis meses a tres años de prisión, con independencia de la pena que le corresponda por la comisión de otros tipos penales, a quien corneta un delito en contra de médicos, personal de enfermería, auxiliares de estos o de personas que laboren en una institución de salud pública o privada, en el acto del ejercicio de sus funciones o con motivo de ellas, durante una emergencia sanitaria declarada por autoridad competente.
+## Título Segundo. Delitos contra la seguridad, funcionamiento y estado de vías públicas y de transportes públicos
 
 ### Capítulo Primero. Afectaciones a vías o transportes públicos o a la seguridad en su disfrute sin sufrir afectaciones
 
@@ -5361,8 +5387,6 @@ Se aumentará tres años al mínimo y seis años al máximo de las penas de pris
 
 Más si mediante la violencia referida, se causa una o más lesiones de las previstas en cualquiera de las fracciones VI a VIII del artículo 200 de este código, se aumentará cuatro años al mínimo y ocho años al máximo de las penas de prisión previstas en el artículo 319 de este código.
 
-## Título Segundo. Delitos contra la seguridad, funcionamiento y estado de vías públicas y de transportes públicos
-
 ### Capítulo Segundo. Delitos contra la seguridad en el tránsito de vehículos o de transeúntes
 
 Artículo 322 (Desplazamiento sin control de vehículo o maquinaria)
@@ -5433,6 +5457,8 @@ Si la propietaria del vehículo o beneficiaria o titular de la concesión, licen
 
 Este delito se perseguirá por querella de cualquiera de las víctimas que sufra alguna de las afectaciones a que se refiere el párrafo primero de este artículo. Si la víctima fallece o se encuentra imposibilitada para formular querella, la podrá presentar cualquiera de los demás ofendidos a que se refiere el artículo 108 del Código Nacional de Procedimientos Penales.
 
+## Título Tercero. Delitos contra la seguridad pública
+
 ### Capítulo Primero. Delitos contra la seguridad pública de las personas
 
 Artículo 329 (Asociación delictuosa)
@@ -5467,55 +5493,9 @@ III. (Posesión de instrumentos de intercepción o de espionaje)
 
 Que alguno de los sujetos activos posea instrumentos que sirvan para interceptar o intervenir comunicaciones privadas u oficiales, o para espionaje.
 
-Artículo 332 (Extorsión simple)
+Artículo 332 (DEROGADO, P.O. 26 DE DICIEMBRE DE 2025)
 
-Se impondrá de cinco a diez años de prisión y de dos mil a cuatro mil días multa, a quien para obtener para sí o para otra persona un beneficio económico, u otra ventaja de cualquier clase, aunque no sea económica, o para perjudicar al sujeto pasivo o a una tercera persona en su patrimonio o en otro bien jurídico de los mismos, coaccione al primero a dar, hacer, no hacer, dejar de hacer o tolerar algo.
-
-Artículo 333 (Modalidades agravantes de extorsión)
-
-Se considerarán como modalidades agravantes de extorsión, las siguientes:
-
-I. (Contra persona de la tercera edad)
-
-Se aumentará una cuarta parte al mínimo y al máximo de las penas de prisión y de multa señaladas en el artículo 332 de este código, cuando el delito se cometa contra persona mayor de sesenta años.
-
-II. (Afectación patrimonial y medios de agravación)
-
-Se aumentará tres cuartas partes al mínimo y al máximo de las penas de prisión y de multa señaladas en el artículo 332 de este código, cuando se obtenga el beneficio económico, o la ventaja de cualquier clase, o se logre lesionar el patrimonio o a otro bien jurídico concreto de la víctima o de la tercera persona a que se refiere el artículo 332 de este código.
-
-III. (Sujetos activos calificados)
-
-Se aumentará un tanto al mínimo y al máximo de las penas de prisión y de multa señaladas en el artículo 332 de este código, cuando el delito se realice por servidor público o miembro o ex-miembro de alguna institución de seguridad pública o de empresa de seguridad privada.
-
-Además, según sea el caso, se destituirá e inhabilitará de quince a veinte años al servidor o ex-servidor público, o al miembro o ex-miembro de institución de seguridad pública o de empresa de seguridad privada, para desempeñar un cargo, empleo o comisión en cualquier entidad oficial del Estado o de sus municipios, y se le suspenderá de quince a veinte años del derecho a celebrar con aquellas entidades, contratos o convenios de prestación de servicios profesionales, así como del derecho a realizar cualquier clase de actividad de seguridad privada.
-
-Por miembro o ex-miembro de instituciones de seguridad pública se entenderá a las personas señaladas en el artículo 341 de este código.
-
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
-
-Se impondrán las mismas penas a que se refiere el primer párrafo de esta fracción, si el sujeto activo es trabajador de instituciones públicas o privadas que por razón de su empleo tengan acceso a bancos de datos personales y que los utilice o los sustraiga para sí o para terceros, con el objeto de obtener un lucro o beneficio por medio de la extorsión en sus diversas modalidades.
-
-IV. (Otras modalidades agravantes)
-
-Se aumentará tres cuartas partes al mínimo y al máximo de las penas de prisión y de multa señaladas en el artículo 332 de este código, cuando en la comisión del delito:
-
-a) (Personas armadas)
-
-Intervenga una o más personas armadas.
-
-b) (Contra servidor público)
-
-La extorsión se cometa en contra de cualquier servidor público debido a su cargo, empleo o comisión.
-
-c) (Violencia)
-
-Se emplee violencia física sin originar lesiones, o se originen aquellas que tarden menos de quince días en sanar y no pongan en peligro la vida.
-
-V. (Modalidades de violencia especialmente agravada)
-
-Se aumentará un tanto al mínimo y al máximo de las penas de prisión y de multa previstas en el artículo 332 de este código, cuando mediante la violencia física ejercida para la extorsión, o después, pero con motivo de la misma, se infiera cualquiera de las lesiones previstas en las fracciones II y III del artículo 200 de este código.
-
-Más si se ocasiona cualquier otra lesión de las previstas en las fracciones IV a VIII del artículo 200 de este código, se aumentará un tanto y medio al mínimo y al máximo de las penas de prisión y de multa previstas en el artículo 332 de este código.
+Artículo 333 (DEROGADO, P.O. 26 DE DICIEMBRE DE 2025)
 
 Artículo 334 (Conspiración criminal)
 
@@ -5634,8 +5614,6 @@ Cuando el incendio en las áreas referidas en los artículos 340 bis y 340 ter d
 Para determinar la existencia de la culpa se estará a lo dispuesto en los artículos 42, 43, 44, 45, 46, 47, 48 y 53 de este Código, según sea el caso.
 
 Si antes de dictar sentencia se repara el daño causado culposamente, el hecho se excluirá de pena.
-
-## Título Tercero. Delitos contra la seguridad pública
 
 ### Capítulo Segundo. Delitos contra tareas preventivas de seguridad pública
 
@@ -5771,6 +5749,8 @@ Si con motivo de la realización de las conductas delictivas descritas en los p�
 
 Si cualquiera de las conductas delictivas descritas en los párrafos primero y tercero de este artículo, las comete o participa en ellas un servidor público, o bien, aunque no haya intervenido en ellas, el mismo intervenga en el delito o delitos referidos en el párrafo cuarto de este artículo, además de las penas que en su caso le correspondan conforme a dichos párrafos, se le destituirá, y en cualquier caso, ya sea tratándose de particular o de servidor público, se le inhabilitará de quince a veinte años para desempeñar un cargo, empleo o comisión en cualquier entidad oficial del Estado o de sus municipios y se le suspenderá de quince a veinte años del derecho a realizar cualquier clase de actividad de seguridad privada.
 
+## Título Cuarto. Delitos contra la investigación y persecución de delitos, o la impartición de justicia penal
+
 ### Capítulo Primero. Omisión de denuncia y encubrimiento
 
 Artículo 349 (Omisión de denuncia)
@@ -5794,8 +5774,6 @@ Tampoco se punirá a quien omita una denuncia, oculte o ayude al responsable de 
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2023)</small>
 
 Las excusas de pena referidas en este artículo no aplicarán respecto a la omisión de denuncia, cuando se trate de secuestro, violación, violación equiparada o impropia, cometidos con o sin agravantes contra menores de edad, o contra incapaces, delitos contra el seguro desarrollo de la personalidad, trata de personas, feminicidio, explotación de menores, o extorsión en cualquiera de sus formas, pero las personas señaladas en este artículo y las personas obligadas a guardar el secreto profesional, con inclusión de los sacerdotes o ministros religiosos, podrán reservarse el nombre de quien esté cometiendo el delito permanente o continuado.
-
-## Título Cuarto. Delitos contra la investigación y persecución de delitos, o la impartición de justicia penal
 
 ### Capítulo Segundo. Delitos que afectan la recuperación de bienes o valores obtenidos ilícitamente
 
@@ -6177,9 +6155,13 @@ Para los efectos de los delitos previstos en este capítulo, que aludan a soborn
 
 La dádiva, retribución o beneficio no aceptados se sancionarán como tentativa punible respecto al sujeto activo que ofreció, prometió o pretendió dar cualquiera de aquéllos.
 
-### Capítulo Cuarto. Extorsiones que afectan la investigación o persecución de delitos, o impartición de justicia penal
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-Artículo 365 (Extorsiones mediante intimidación o violencia relativas a la investigación, procuración o impartición de justicia penal)
+### Capítulo Cuarto. Delitos que afectan la investigación o persecución de delitos, o impartición de justicia penal
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 26 DE DICIEMBRE DE 2025)</small>
+
+Artículo 365 (Intimidación o violencia relativas a la investigación, procuración o impartición de justicia penal)
 
 Se impondrá de ocho a doce años de prisión y de mil a dos mil días multa, a quien:
 
@@ -6491,6 +6473,8 @@ Están exentos de pena los ascendientes, descendientes, adoptante, adoptado, có
 
 Habrá relación de pareja, en los supuestos de los incisos a) y b) de la fracción VII del artículo 252 de este código.
 
+## Título Quinto. Delitos contra la efectividad de sanciones
+
 ### Capítulo Primero. Quebrantamiento de penas
 
 Artículo 381 (Quebrantamiento de inhabilitación, de libertad supervisada o de suspensión de derechos, impuestas como penas)
@@ -6511,8 +6495,6 @@ Se impondrán las mismas penas del párrafo precedente, a la persona sentenciada
 
 Al imponerse la libertad supervisada o la suspensión de derechos como penas, se le harán saber a la persona sentenciada las consecuencias de quebrantar injustificadamente en más de una ocasión, cualquiera de las condiciones de las referidas penas.
 
-## Título Quinto. Delitos contra la efectividad de sanciones
-
 ### Capítulo Segundo. Quebrantamiento de consecuencias jurídicas impuestas a personas morales
 
 Artículo 382 (Quebrantamiento de realizar determinados negocios, operaciones, convenios o contratos)
@@ -6520,6 +6502,8 @@ Artículo 382 (Quebrantamiento de realizar determinados negocios, operaciones, c
 Se impondrá de uno a tres años de prisión y de mil a tres mil días multa, al comisario de la persona moral intervenida, que viole la prohibición de realizar ciertos negocios u operaciones, a que se refiere el párrafo segundo de la fracción IV del artículo 145 de este código.
 
 Se impondrá de dos a cuatro años de prisión y de mil a tres mil días multa a cualquiera de los fundadores, administradores, representantes legales o miembros del consejo de administración de la persona moral, que viole la prohibición de realizar ciertos negocios jurídicos, operaciones, convenios, obtener concesiones, permisos o licencias ambientales, a que se refiere el artículo 432 de este código.
+
+## Título Sexto. Delitos contra la impartición de justicia
 
 ### Capítulo Primero. Disposición general
 
@@ -6530,8 +6514,6 @@ Cuando se aluda en este Título a un procedimiento, proceso o juicio, ya sea del
 Cuando en este Título se aluda a cohecho o soborno, se entenderá por éstos, según se trate de particular o de servidor público, respectivamente, a la dadiva, retribución o beneficio de cualquier clase, ofrecido, prometido, dado, o aceptado por los sujetos activos en el delito de que se trate.
 
 La dádiva, retribución o beneficio no aceptados se sancionarán como tentativa punible respecto al sujeto activo que ofreció, prometió o pretendió dar cualquiera de aquéllos.
-
-## Título Sexto. Delitos contra la impartición de justicia
 
 ### Capítulo Segundo. Variación de nombre o domicilio
 
@@ -6847,6 +6829,8 @@ A sabiendas, nombre síndico o interventor en un concurso o quiebra, a quien sea
 
 Se considerará pariente del sujeto activo, a cualquiera de las personas señaladas en el párrafo primero del artículo 351 de este código. Habrá relación de pareja, en los supuestos de los incisos a) y b) de la fracción VII del artículo 252 de este código.
 
+## Título Séptimo. Delitos contra la eficacia de ciertas sanciones administrativas
+
 ### Capítulo Único. Quebrantamiento o violación de sellos o de clausuras
 
 Artículo 397 (Quebrantamiento de sellos o de clausura de obra)
@@ -6867,7 +6851,7 @@ Se impondrá de seis meses a dos años de prisión o de seis meses a dos años d
 
 Se aumentará en una mitad el mínimo y el máximo de las penas señaladas en el párrafo anterior, cuando el obligado por una resolución de autoridad competente a suspender la actividad, no acate la suspensión, si se trata de un establecimiento dedicado al almacenaje, manejo o comercio de productos con características tóxicas, corrosivas, explosivas, inflamables o combustibles, o de una obra de construcción cuyos motivos de suspensión fueron las condiciones de inseguridad de la obra, o que requiriendo ésta de dictamen de impacto urbano no cuente con el mismo.
 
-## Título Séptimo. Delitos contra la eficacia de ciertas sanciones administrativas
+## Título Octavo. Delitos contra la fe pública
 
 ### Capítulo Primero. Usurpación de la calidad de notario público
 
@@ -6878,8 +6862,6 @@ Artículo 399 (Usurpación de la calidad de notario público)
 Se impondrá de dos a siete años de prisión, de doscientos a cuatrocientos días multa, suspensión de tres a siete años del derecho de obtener patente de notario público, e inhabilitación de cuatro a ocho años para desempeñar cualquier cargo, empleo o comisión en una entidad oficial del Estado o de sus municipios, a quien se ostente o se haga pasar como notario público y realice un acto propio de esa calidad, sin tenerla o cuando la misma le hubiese sido revocada o suspendida temporalmente, perjudicando a una o más personas físicas o morales en uno o más de sus bienes jurídicos.
 
 Si en razón de los actos referidos en el párrafo precedente, el sujeto activo obtiene para sí o para otro, algún beneficio económico perjudicando a una o más terceras personas, físicas o morales, o a alguna entidad oficial del Estado o de sus municipios, se le impondrán las penas del delito de fraude, previstas en el artículo 291 de este código, según la cuantía del beneficio obtenido, pero aumentando en un tercio el mínimo y el máximo de las referidas penas del artículo 291, y asimismo, se le suspenderá de diez a quince años, del derecho de obtener patente de notario público, y se le inhabilitará de diez a quince años para desempeñar cualquier cargo, empleo o comisión en una entidad oficial del Estado o de sus municipios y para brindar cualquier servicio profesional a los mismos.
-
-## Título Octavo. Delitos contra la fe pública
 
 ### Capítulo Segundo
 
@@ -7077,13 +7059,13 @@ III. (Falsedad de perito traductor o paleógrafo de documentos)
 
 Al perito traductor o paleógrafo que se conduzca con falsedad al traducir o descifrar un documento, siempre y cuando lo traducido o descifrado falsamente pueda lesionar a una o más personas en uno o más de sus bienes jurídicos.
 
+## Título Noveno. Delitos contra el medio ambiente y el equilibrio ecológico
+
 ### Capítulo Primero. Disposición aclaratoria
 
 Artículo 411 (Terminología técnica-ambiental empleada en este Título)
 
 Para el significado de la terminología técnica-ambiental referida en este Título, se estará al establecido en la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Coahuila de Zaragoza y en las demás leyes aplicables en materia de equilibrio ecológico y medio ambiente.
-
-## Título Noveno. Delitos contra el medio ambiente y el equilibrio ecológico
 
 ### Capítulo Segundo. Delitos contra el medio ambiente
 
@@ -7363,6 +7345,8 @@ Cuando uno o más de los delitos previstos en este Título sean cometidos a nomb
 
 En su caso, será nula de pleno derecho la obtención o celebración de contratos, convenios, concesiones, permisos o licencias ambientales, realizadas en contravención de la sanción impuesta. Sin perjuicio de imponer las penas de quebrantamiento de sanciones previstas en el último párrafo del artículo 382 de este código, a quien, con alguna de las calidades previstas en el párrafo precedente, haya cometido o participado en el delito que dio pie a la responsabilidad de la persona moral.
 
+## Título Décimo. Delitos contra la salud pública en materia de animales
+
 ### Capítulo Único. Delitos de peligro para la salud pública en materia de animales
 
 Artículo 433 (Delitos contra la salud pública en materia de animales y sus productos)
@@ -7413,7 +7397,7 @@ IV. (Comercio de carne u órganos de animales enfermos)
 
 Comercie con la carne u órganos de animales de cualquier especie, a sabiendas que padecen una zoonosis.
 
-## Título Décimo. Delitos contra la salud pública en materia de animales
+## Título Undécimo. Delitos contra la honestidad en el servicio público
 
 ### Capítulo Primero. Entidad oficial y servidor público
 
@@ -7422,8 +7406,6 @@ Artículo 434 (Concepto de entidad oficial y de servidor público, para efectos 
 Para todos los efectos de este código, se entenderá como entidad oficial, a la administración pública del Estado y de sus municipios, y a cualquiera de las dependencias y órganos de aquéllos; al poder legislativo, a sus órganos y comisiones, y a cualquiera de las dependencias del mismo; al poder judicial y a cualquiera de sus órganos y dependencias; a los organismos públicos autónomos; a los organismos o empresas de cualquiera de los poderes del estado o de sus municipios, sean desconcentrados o descentralizados; a los organismos o empresas de participación mayoritaria o minoritaria estatal o municipal, y a las organizaciones, agrupaciones y sociedades asimiladas a aquéllos; a los fideicomisos, en los que el fideicomitente sea alguna de las entidades señaladas como oficiales en este artículo; así como a las instituciones educativas y organismos a los que la Constitución Política del Estado de Coahuila de Zaragoza o la ley les otorga o reconoce autonomía.
 
 Para todos los efectos de este código, se tendrá como servidor público a toda persona que desempeñe un cargo, empleo o comisión, remunerados, en una entidad oficial estatal o municipal.
-
-## Título Undécimo. Delitos contra la honestidad en el servicio público
 
 ### Capítulo Segundo. Penas específicas para servidores públicos
 
@@ -7452,6 +7434,46 @@ IV. (Decomiso)
 En su caso, decomiso de los productos del delito.
 
 ### Capítulo Tercero. Delitos contra el servicio oficial cometidos por servidores públicos
+
+#### Sección Primera. Ejercicio ilegal y abandono del servicio oficial
+
+Artículo 436 (Ejercicios ilegales del servicio oficial)
+
+Se impondrá de tres meses a un año de prisión y de trescientos a quinientos días multa, al servidor público que:
+
+I. (Ejercicio de funciones sin satisfacer los requisitos legales)
+
+Ejerza las funciones de un cargo, empleo o comisión en una entidad oficial del Estado o de cualquiera de sus municipios, sin satisfacer todos los requisitos legales para ser designado, o para continuar en el cargo.
+
+II. (Designación ilegal de servidor público)
+
+Designe a una persona como servidor público, a sabiendas que la misma no satisface todos los requisitos legales.
+
+III. (Ejercicio de funciones a pesar de destitución, suspensión o revocación del nombramiento)
+
+Continúe ejerciendo las funciones de un empleo, cargo o comisión en una entidad oficial del Estado o de cualquiera de sus municipios, después de que se le comunique por escrito, que se ha revocado su nombramiento o que se le ha suspendido o destituido por la autoridad competente.
+
+Artículo 437 (Abandono del servicio oficial)
+
+Se impondrá de seis meses a un año de prisión o de doscientos a trescientos días multa, al servidor público que abandone su cargo, empleo o comisión en una entidad oficial del Estado o de cualquiera de sus municipios.
+
+El delito de abandono del servicio oficial se tendrá como consumado, cuando sin causa de licitud ni de fuerza mayor, el servidor público se ausente por más de cinco días, del cargo, empleo o comisión.
+
+#### Sección Segunda. Coalición de servidores públicos
+
+Artículo 438 (Coalición de servidores públicos)
+
+Se impondrá de uno a tres años de prisión y de cien a trescientos días multa, a los servidores públicos que se coaliguen en un grupo de tres o más personas y tomen medidas contrarias a lo dispuesto en una ley.
+
+Si las medidas contrarias a la ley benefician económicamente a uno o más particulares, quienes para tal fin hayan estado de acuerdo con los servidores públicos, al particular o particulares y a los servidores públicos coaligados se les impondrá de dos a cuatro años de prisión y multa de uno a dos tantos del beneficio económico logrado.
+
+#### Sección Tercera. Abuso violento de autoridad
+
+Artículo 439 (Abuso violento de autoridad)
+
+Se impondrá de dos a seis años de prisión y de doscientos a quinientos días multa, al servidor público que, debido a su cargo, empleo o comisión, ejerza violencia física contra una persona sin que haya motivo lícito para emplearla, o cuando habiéndolo, no emplee los medios que sean menos lesivos, pudiendo hacerlo sin riesgo personal para él o terceras personas.
+
+La violencia a que se refiere el párrafo precedente podrá comprender hasta ocasionar lesiones previstas en la fracción I del artículo 200 de este código. Por tanto, si en el ejercicio ilícito de la violencia, el servidor público ocasiona una o más lesiones de las previstas en las fracciones II a VIII del artículo 200 de este código, se aplicarán las reglas del concurso de delitos.
 
 ### Capítulo Cuarto. Otorgamiento indebido de puestos, contratos y recursos, aprovechamiento de información reservada u oficial, y otros abusos
 
@@ -7582,46 +7604,6 @@ Artículo 447 (Intervención de persona moral en el aprovechamiento ilegal de in
 Cuando un fundador o miembro del consejo de administración, un administrador, o cualquier representante legal, apoderado jurídico o persona que actúe a nombre de una persona moral, sea ésta de hecho o de derecho, intervenga en los delitos a que se refiere el artículo precedente, en provecho o beneficio de la persona moral, a ésta se le impondrá multa desde un tanto hasta tres tantos del importe del beneficio económico obtenido, y se le prohibirá celebrar cualquier clase de contrato con alguna entidad oficial estatal o municipal, desde dos hasta cuatro años, que tenga relación con la información ilícitamente obtenida.
 
 Las consecuencias jurídicas que se impongan a la persona moral en virtud del párrafo anterior serán subsidiarias a la responsabilidad penal en que haya incurrido cualquiera de los sujetos activos cualificados referidos en el párrafo precedente, por el delito cometido.
-
-#### Sección Primera. Ejercicio ilegal y abandono del servicio oficial
-
-Artículo 436 (Ejercicios ilegales del servicio oficial)
-
-Se impondrá de tres meses a un año de prisión y de trescientos a quinientos días multa, al servidor público que:
-
-I. (Ejercicio de funciones sin satisfacer los requisitos legales)
-
-Ejerza las funciones de un cargo, empleo o comisión en una entidad oficial del Estado o de cualquiera de sus municipios, sin satisfacer todos los requisitos legales para ser designado, o para continuar en el cargo.
-
-II. (Designación ilegal de servidor público)
-
-Designe a una persona como servidor público, a sabiendas que la misma no satisface todos los requisitos legales.
-
-III. (Ejercicio de funciones a pesar de destitución, suspensión o revocación del nombramiento)
-
-Continúe ejerciendo las funciones de un empleo, cargo o comisión en una entidad oficial del Estado o de cualquiera de sus municipios, después de que se le comunique por escrito, que se ha revocado su nombramiento o que se le ha suspendido o destituido por la autoridad competente.
-
-Artículo 437 (Abandono del servicio oficial)
-
-Se impondrá de seis meses a un año de prisión o de doscientos a trescientos días multa, al servidor público que abandone su cargo, empleo o comisión en una entidad oficial del Estado o de cualquiera de sus municipios.
-
-El delito de abandono del servicio oficial se tendrá como consumado, cuando sin causa de licitud ni de fuerza mayor, el servidor público se ausente por más de cinco días, del cargo, empleo o comisión.
-
-#### Sección Segunda. Coalición de servidores públicos
-
-Artículo 438 (Coalición de servidores públicos)
-
-Se impondrá de uno a tres años de prisión y de cien a trescientos días multa, a los servidores públicos que se coaliguen en un grupo de tres o más personas y tomen medidas contrarias a lo dispuesto en una ley.
-
-Si las medidas contrarias a la ley benefician económicamente a uno o más particulares, quienes para tal fin hayan estado de acuerdo con los servidores públicos, al particular o particulares y a los servidores públicos coaligados se les impondrá de dos a cuatro años de prisión y multa de uno a dos tantos del beneficio económico logrado.
-
-#### Sección Tercera. Abuso violento de autoridad
-
-Artículo 439 (Abuso violento de autoridad)
-
-Se impondrá de dos a seis años de prisión y de doscientos a quinientos días multa, al servidor público que, debido a su cargo, empleo o comisión, ejerza violencia física contra una persona sin que haya motivo lícito para emplearla, o cuando habiéndolo, no emplee los medios que sean menos lesivos, pudiendo hacerlo sin riesgo personal para él o terceras personas.
-
-La violencia a que se refiere el párrafo precedente podrá comprender hasta ocasionar lesiones previstas en la fracción I del artículo 200 de este código. Por tanto, si en el ejercicio ilícito de la violencia, el servidor público ocasiona una o más lesiones de las previstas en las fracciones II a VIII del artículo 200 de este código, se aplicarán las reglas del concurso de delitos.
 
 ### Capítulo Quinto. Ejercicio ilegal de atribuciones y facultades
 
@@ -7839,6 +7821,8 @@ Artículo 459 (Desacato de servidores públicos respecto de requerimientos o res
 
 Se impondrá de tres meses a un año de prisión y de cien a trescientos días multa, al servidor público que, tratándose de requerimientos o resoluciones de autoridades fiscalizadoras, de control interno, judiciales, electorales o en materia de derechos humanos o cualquiera competente, proporcione información falsa, o no dé respuesta alguna, o retrase sin motivo justificado, la entrega de información, a pesar de que le hayan sido decretadas las medidas de apremio conforme a las disposiciones legales aplicables.
 
+## Título Duodécimo. Delitos contra el servicio público cometidos por particulares
+
 ### Capítulo Primero. Simulación sobre bienes obtenidos ilegalmente por servidor público
 
 Artículo 460 (Simulación de propiedad sobre bienes obtenidos ilegalmente por un servidor público)
@@ -7846,8 +7830,6 @@ Artículo 460 (Simulación de propiedad sobre bienes obtenidos ilegalmente por u
 Se impondrá de tres cuartas partes del mínimo a tres cuartas partes del máximo de las penas previstas para el enriquecimiento ilícito, según el valor de los bienes, el decomiso de estos, así como inhabilitación de cinco a diez años para desempeñar algún cargo, empleo o comisión en cualquier entidad oficial y suspensión de cinco a diez años, y suspensión del derecho a celebrar con cualquier entidad oficial contratos o convenios de prestación de servicios de cualquier clase, a quien durante el cargo, empleo o comisión del servidor público, haga figurar como suyos, bienes que aquél obtenga ilegalmente en razón de su cargo, empleo o comisión en cualquiera entidad oficial estatal o municipal.
 
 Si los bienes aparecen como pertenecientes a una persona moral, en virtud de la intervención típica en el delito previsto en el párrafo precedente, por parte de cualquiera de los sujetos activos cualificados a que se refieren los párrafos segundo y tercero del artículo 68 de este código, a la persona moral se le impondrá multa equivalente desde una cuarta parte hasta la mitad del valor de los bienes obtenidos ilegalmente, se le decomisarán estos y se decretará su disolución.
-
-## Título Duodécimo. Delitos contra el servicio público cometidos por particulares
 
 ### Capítulo Segundo. Usurpación de funciones públicas
 
@@ -7955,13 +7937,13 @@ Para los efectos del párrafo anterior, por violencia física se entenderá el e
 
 Cuando mediante la violencia física se infiera una o más lesiones de las previstas en el artículo 200 de este código, o cuando al cometer el delito previsto en este artículo, se cometa otro, se aplicarán las reglas del concurso de delitos.
 
+## Título Décimo Tercero. Delitos contra la seguridad de las instituciones constitucionales del Estado o de sus municipios
+
 ### Capítulo Primero. Terrorismo
 
 Artículo 472 (Terrorismo)
 
 Se impondrá de seis a veinte años de prisión y de mil a dos mil días multa, sin perjuicio de las penas que correspondan por los delitos que resulten, a quien, mediante explosivos, incendio o armas de fuego, realice actos en contra de las personas, los bienes o servicios públicos, con el fin de afectar la seguridad del Estado o de cualquiera de sus municipios, o para presionar a la autoridad para que tome una determinación.
-
-## Título Décimo Tercero. Delitos contra la seguridad de las instituciones constitucionales del Estado o de sus municipios
 
 ### Capítulo Segundo. Rebelión
 
@@ -8560,3 +8542,41 @@ P.O. 3 DE OCTUBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 417.- SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En los procesos penales pendientes de dictarse sentencia en primera y segunda instancia, se estará a lo dispuesto por el artículo cuarto transitorio de la Ley General para la Prevención, Investigación y Sanción en Materia del Delito de Extorsión, Reglamentaria de la fracción XXI, del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+###### ARTÍCULO TERCERO.
+
+Las disposiciones relativas a los delitos de extorsión previstas en el Código Penal de Coahuila de Zaragoza, vigente antes de la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por el delito de extorsión, sus modalidades, agravantes y sanciones, salvo lo dispuesto en el artículo anterior.
+
+Los procedimientos penales en materia de extorsión, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del mismo.
+
+###### ARTÍCULO CUARTO.
+
+Toda referencia en la legislación estatal al delito de extorsión, se entenderá hecha al delito de extorsión previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 418.- SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN IV, DEL ARTÍCULO 236; Y SE ADICIONA EL CAPÍTULO TERCERO “COHABITACIÓN FORZADA DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA RESISTIRLO”, CON SU ARTÍCULO 238 BIS, AL TÍTULO SEXTO “DELITOS CONTRA EL DESARROLLO DE LA PERSONALIDAD DE MENORES DE EDAD”, DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
