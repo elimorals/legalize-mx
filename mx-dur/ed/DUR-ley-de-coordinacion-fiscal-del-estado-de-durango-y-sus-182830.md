@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-coordinacion-fiscal-del-estado-de-durango-y-sus-182830"
 country: "mx"
 rank: "ley"
 publication_date: "2025-12-14"
-last_updated: "2025-12-14"
+last_updated: "2025-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=182830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "DUR"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE DICIEMBRE DE 2025 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE DURANGO Y SUS MUNICIPIOS EN MATERIA DE PARTICIPACIONES
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE DICIEMBRE DE 2025.]</small>
 
 Ley publicada en el Número 100 del Periódico Oficial del Estado de Durango, el domingo 14 de diciembre de 2025.
 
@@ -104,6 +104,8 @@ El Fondo General a que se refiere la fracción I del artículo 2, de la presente
 ###### ARTÍCULO 6.
 
 El Fondo de Fomento Municipal a que se refiere la fracción II, del artículo 2, de la presente Ley, se distribuirá entre los Municipios conforme a la siguiente fórmula:
+
+> <small>(F. DE E., P.O. 26 DE DICIEMBRE DE 2025)</small>
 
 > <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 14 DE DICIEMBRE DE 2025, PÁGINAS DE LA 9 A LA 10.]</small>
 
