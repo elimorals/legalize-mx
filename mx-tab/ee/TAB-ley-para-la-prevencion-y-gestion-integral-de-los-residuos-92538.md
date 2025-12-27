@@ -4,7 +4,7 @@ identifier: "TAB-ley-para-la-prevencion-y-gestion-integral-de-los-residuos-92538
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-29"
-last_updated: "2023-05-20"
+last_updated: "2025-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92538&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Suplemento Q del Periódico Oficial del Estado de Tabasco, el sábado 29 de diciembre de 2012.
 
@@ -1661,11 +1661,69 @@ XVII. No retirar la totalidad de los residuos de manejo especial de las obras o 
 
 XVIII. Incurrir en cualquier otra violación a los preceptos de esta Ley.
 
-### CAPÍTULO IV. DEL RECURSO DE REVISIÓN Y DENUNCIA POPULAR
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO III BIS. DE LAS SANCIONES ECONÓMICAS Y MEDIDAS CORRECTIVAS CON ENFOQUE COMUNITARIO Y AMBIENTAL
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 113 BIS. Las autoridades municipales podrán imponer sanciones administrativas a las personas físicas que incurran en conductas que impliquen la disposición inadecuada de residuos sólidos urbanos en la vía pública o en sitios no autorizados, consistentes en:
+
+I. Multa, determinada conforme a lo previsto en esta Ley y demás normatividad aplicable;
+
+II. Arresto hasta por 36 horas;
+
+III. Trabajo a favor de la comunidad; y
+
+IV. Medidas correctivas con enfoque comunitario y ambiental, en sustitución total o parcial de la multa, cuando así lo permita el reglamento municipal.
+
+Estas sanciones tendrán como finalidad disuasiva la protección del entorno urbano y como objetivo restaurativo la reparación simbólica o material del daño causado. Su imposición deberá observar los principios de legalidad, proporcionalidad, reincidencia y respeto a los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 113 TER. Las medidas correctivas podrán consistir en:
+
+I. Limpieza de espacios públicos afectados;
+
+II. Recolección y clasificación de residuos en campañas municipales;
+
+III. Participación en jornadas de reforestación o restauración ambiental;
+
+IV. Apoyo a programas de reciclaje comunitario; y
+
+V. Asistencia a talleres de educación ambiental impartidos por la autoridad competente.
+
+Estas actividades serán determinadas y supervisadas por la autoridad correspondiente en coordinación con las direcciones municipales respectivas.
+
+La persona infractora deberá cumplir la medida en el plazo fijado. Una vez concluida, se emitirá constancia de cumplimiento.
+
+En caso de incumplimiento injustificado, se impondrá la sanción supletoria conforme a la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 113 QUÁTER. Los ayuntamientos del Estado de Tabasco deberán prever en su normativa local sanciones administrativas consistentes en multa económica a quienes incurran en disposición inadecuada de residuos sólidos urbanos, conforme a los siguientes rangos:
+
+I. Infracción leve: de diez (10) a cincuenta (50) Unidades de Medida y Actualización (UMA);
+
+II. Infracción grave: de cincuenta y uno (51) a cien (100) UMA;
+
+III. Infracción muy grave de ciento uno (101) a doscientas (200) UMA; y
+
+IV. Reincidencia el doble de cualquiera de las anteriores conforme al tipo de infracción.
+
+Estas sanciones podrán ser conmutables por medidas correctivas comunitarias, conforme a criterios de proporcionalidad, reincidencia y gravedad, en los términos previstos en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 113 QUINQUIES. Las personas sujetas a una sanción o medida correctiva podrán inconformarse en los términos previstos por esta Ley o las disposiciones que resulten aplicables. La impugnación de que se trate, no suspenderá los efectos de la medida, salvo que así lo determine la autoridad competente.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 114.
 
-Para la imposición de sanciones por infracciones a esta Ley, se estará a lo dispuesto en la LPAET y demás disposiciones legales aplicables.
+Para la imposición de sanciones no contenidas en la presente Ley, por infracciones a la misma, se estará a lo dispuesto en la LPAET y demás disposiciones legales aplicables.
+
+### CAPÍTULO IV. DEL RECURSO DE REVISIÓN Y DENUNCIA POPULAR
 
 ###### ARTÍCULO 115.
 
@@ -1740,3 +1798,25 @@ PRIMERO. El presente Decreto entrará en vigor el 01 de enero de 2024.
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Los ayuntamientos deberán realizar las adecuaciones administrativas, operativas y de recursos humanos correspondientes para el cumplimiento del presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 220 POR EL QUE "SE REFORMA EL ARTÍCULO 114; Y SE ADICIONA UN CAPÍTULO III BIS AL TÍTULO SEXTO DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, DEL ESTADO DE TABASCO, DENOMINADO "DE LAS SANCIONES ECONÓMICAS Y MEDIDAS CORRECTIVAS CON ENFOQUE COMUNITARIO Y AMBIENTAL", CONFORMADO POR LOS ARTÍCULOS 113 BIS, 113 TER, 113 QUÁTER Y 113 QUINQUIES".]
+
+PRIMERO. El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. La persona titular del Poder Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, deberán armonizar a las presentes disposiciones, los Reglamentos, Bandos de Policía y Gobierno y demás normatividad que resulte necesaria, en un plazo no mayor a ciento ochenta días a partir de la entrada en vigor el (sic) presente Decreto. Al expedirse las disposiciones correspondientes, se deberá contemplar:
+
+I. Procedimientos estándar de imposición, supervisión y acreditación;
+
+II. Clasificación de infracciones leves, graves, muy graves y la reincidencia;
+
+III. Catálogo de medidas correctivas sugeridas;
+
+IV. Bitácoras de cumplimiento y formatos de constancia;
+
+V. Mecanismos de evaluación del impacto comunitario; y
+
+VI. Las demás que se consideren necesarias.
+
+TERCERO. Se derogan todas las disposiciones que contravengan el presente Decreto.
