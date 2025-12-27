@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-los-municipios-del-estado-de-tabasco-35393"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-12-03"
-last_updated: "2024-10-16"
+last_updated: "2025-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 3 de diciembre de 2003.
 
@@ -2855,6 +2855,14 @@ El sacrificio clandestino será sancionado conforme a la Ley de Ganadería del E
 
 Los administradores o encargados de los rastros o lugares a que se refiere el segundo párrafo del artículo anterior, serán los responsables de la observancia de este capítulo y las demás disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 181 Bis.
+
+Los Ayuntamientos deberán establecer, en el marco de sus atribuciones en materia de servicios públicos, limpieza urbana y protección ambiental, mecanismos de sanción administrativa de carácter económico o correctivo, con enfoque comunitario y ambiental, aplicables a quienes incurran en conductas que afecten el espacio público, la disposición adecuada de residuos sólidos o el equilibrio ecológico en el ámbito municipal.
+
+Asimismo, los Ayuntamientos deberán prever sanciones económicas no inferiores a los rangos establecidos por la Ley para la Prevención y Gestión Integral de los Residuos, del Estado de Tabasco, la Ley de Protección Ambiental del Estado de Tabasco y demás disposiciones aplicables, sin perjuicio de que dichas sanciones puedan ser sustituidas, total o parcialmente, por medidas correctivas conforme a la normatividad local.
+
 ### CAPÍTULO XI. De los Convenios
 
 ###### Artículo 182.
@@ -4086,3 +4094,25 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 La primera elección a la que se refiere esta reforma, se llevará a cabo en el mes de diciembre siguiente a la publicación del presente Decreto en el Periódico Oficial del Estado de Tabasco.
+
+P.O. 27 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 220 POR EL QUE “SE ADICIONA EL ARTÍCULO 181 BIS, A LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. La persona titular del Poder Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, deberán armonizar a las presentes disposiciones, los Reglamentos, Bandos de Policía y Gobierno y demás normatividad que resulte necesaria, en un plazo no mayor a ciento ochenta días a partir de la entrada en vigor el presente Decreto. Al expedirse las disposiciones correspondientes, se deberá contemplar:
+
+I. Procedimientos estándar de imposición, supervisión y acreditación;
+
+II. Clasificación de infracciones leves, graves, muy graves y la reincidencia;
+
+III. Catálogo de medidas correctivas sugeridas;
+
+IV. Bitácoras de cumplimiento y formatos de constancia;
+
+V. Mecanismos de evaluación del impacto comunitario; y
+
+VI. Las demás que se consideren necesarias.
+
+TERCERO. Se derogan todas las disposiciones que contravengan el presente Decreto.
