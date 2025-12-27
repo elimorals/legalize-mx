@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2024-06-23"
+last_updated: "2025-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114622&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "DUR"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE DURANGO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE DURANGO Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 27 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2025 (ABROGADO).
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el miércoles 4 de mayo de 2016.
 
@@ -2384,3 +2384,49 @@ P.O. 23 DE JUNIO DE 2024.
 PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. DE 27 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE DURANGO Y SUS MUNICIPIOS”.]
+
+PRIMERO. Esta ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se abroga la Ley de Transparencia y Acceso a la Información Pública Del Estado De Durango publicada en el periódico oficial no. 4 ext. de fecha 4 de mayo de 2016. Decreto 553, LXVI legislatura.
+
+TERCERO. Se autoriza a la persona titular del Poder Ejecutivo del Gobierno del Estado de Durango para que realice las Adecuaciones presupuestarias que sean suficientes para la implementación de esta Ley, hasta en tanto no se autoricen las partidas correspondientes en el Presupuesto de Egresos para el ejercicio fiscal vigente.
+
+CUARTO. Se extingue el Órgano Constitucional Autónomo, denominado Instituto Duranguense de Acceso a la Información Pública y de Protección de Datos Personales, el cual conservará su personalidad jurídica exclusivamente para efectos del proceso de liquidación el cual iniciará dentro de los 30 días naturales posteriores a la entrada en vigor del presente Decreto.
+
+QUINTO. El Consejo General del Órgano Constitucional Autónomo, denominado Instituto Duranguense de Acceso a la Información Pública y de Protección de Datos Personales, continuará en funciones hasta concluir el proceso de liquidación del Instituto de acuerdo al Decreto de la reforma Constitucional Local en materia de simplificación orgánica.
+
+SEXTO. La Secretaría de Contraloría y Transparencia Gubernamental, será la responsable de sancionar el proceso de entrega-recepción del organismo que se extingue mediante el presente Decreto.
+
+SÉPTIMO. Los derechos laborales de las personas servidoras públicas del Instituto Duranguense de Acceso a la Información y Protección de Datos Personales, serán respetados, en términos de la legislación aplicable.
+
+El Instituto Duranguense de Acceso a la Información y Protección de Datos Personales transferirá los recursos materiales y financieros correspondientes a la Secretaría de Finanzas y de Administración del Estado de Durango, de acuerdo a la determinación que tome el liquidador, a fin de que esa dependencia realice las acciones que correspondan, conforme a las disposiciones jurídicas aplicables.
+
+Los recursos humanos, materiales y financieros con que cuente el referido Instituto podrán formar parte de la Secretaría de Contraloría y Transparencia Gubernamental, toda vez que es quien asumirá las funciones sustantivas del Instituto antes mencionado.
+
+Asimismo, el Instituto Duranguense de Acceso a la Información y Protección de Datos Personales deberá entregar a la citada dependencia la información y formatos necesarios para integrar la Cuenta Pública y demás informes correspondientes al primer trimestre, de conformidad con las disposiciones jurídicas aplicables, dentro del mismo periodo antes mencionado.
+
+OCTAVO. Los registros, padrones y sistemas, internos y externos, con los que cuenta el Instituto Duranguense de Acceso a la Información y Protección de Datos Personales, así como los sistemas informáticos utilizados por dicho Instituto, incluso los que ya no se utilicen, pero contengan registros históricos, incluida su documentación y titularidad, serán transferidos a la Secretaría de Contraloría y Transparencia Gubernamental, de acuerdo al proceso de entrega-recepción correspondiente.
+
+NOVENO. Iniciado el proceso de liquidación del Instituto Duranguense de Acceso a la Información y Protección de Datos Personales tendrá 30 días naturales para remitir a las Autoridades garantes aquellos asuntos que se encuentren en trámite y que sean de su competencia para su atención.
+
+DÉCIMO. Los procedimientos iniciados con anterioridad a la entrada en vigor de este Decreto ante el Instituto Duranguense de Acceso a la Información y Protección de Datos Personales, en materia de acceso a la información pública, denuncias por incumplimiento a las obligaciones de transparencia y en materia de datos personales, se sustanciarán conforme a las disposiciones vigentes al momento de su inicio ante la Secretaría de Contraloría y Transparencia Gubernamental y las Autoridades Garantes que resulten competentes de acuerdo a la presente Ley.
+
+La defensa legal ante autoridades administrativas, jurisdiccionales o judiciales de los actos administrativos y jurídicos emitidos por el Instituto Duranguense de Acceso a la Información y Protección de Datos Personales, en cualquier otra materia distinta a la mencionada en el párrafo anterior, así como el seguimiento de los que se encuentren en trámite, incluso los procedimientos penales y laborales, Secretaría de Contraloría y Transparencia Gubernamental y las Autoridades Garantes que resulten competentes de acuerdo a la presente Ley.
+
+DÉCIMO PRIMERO. El Poder Ejecutivo, el Poder Legislativo, el Poder Judicial, los Órganos Constitucionales Autónomos y los municipios deberán realizar las adecuaciones correspondientes a las leyes, reglamentos y demás disposiciones aplicables, dentro de los 120 días naturales siguientes a la entrada en vigor del presente Decreto, a fin de dar cumplimiento a lo dispuesto en el mismo.
+
+En tanto se expiden las adecuaciones correspondientes a la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Durango, la Junta de Gobierno y Administración podrá emitir la normatividad y/o acuerdos pertinentes a fin de dar cumplimiento a lo establecido en el presente Decreto.
+
+DÉCIMO SEGUNDO. Los expedientes y archivos que estén a cargo del Instituto Duranguense de Acceso a la Información y Protección de Datos Personales para el ejercicio de sus facultades sustantivas, competencias o funciones, de conformidad con la Ley General de Archivos y demás disposiciones jurídicas aplicables, serán transferidos a la Secretaría General de Gobierno del Estado de acuerdo al proceso de entrega-recepción.
+
+DÉCIMO TERCERO. Para efectos de lo dispuesto en los transitorios Séptimo, Octavo y Décimo Cuarto del presente Decreto el Pleno del Instituto Duranguense de Acceso a la Información y Protección de Datos Personales deberá integrar, en la fecha de publicación de este instrumento, un Comité de Transferencia conformado por los Comisionados, los titulares de las Secretarías Ejecutiva y Técnica, el Órgano Interno de Control, de las Coordinaciones Administrativa, Jurídica y de Planeación todos del Instituto.
+
+El Comité de Transferencia estará vigente hasta que se concluya el proceso de liquidación, en el que sus integrantes participarán con las diversas autoridades competentes para recibir los asuntos que se señalan en los transitorios antes citados y realizar las demás acciones que se consideren necesarias para dichos efectos, quienes serán considerados trabajadores transitorios.
+
+DÉCIMO CUARTO. El Subsistema del Sistema Nacional de Acceso a la Información Pública deberá instalarse a más tardar en sesenta días naturales, a partir de la entrada en vigor del presente Decreto, previa convocatoria que al efecto emita la Secretaría de Contraloría y Transparencia Gubernamental.
+
+DÉCIMO QUINTO. A la entrada en vigor del presente Decreto se abrogan las disposiciones que se contrapongan.
