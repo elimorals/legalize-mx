@@ -1,0 +1,72 @@
+---
+title: "LEY DE INGRESOS DEL MUNICIPIO DE CARICHI PARA EL EJERCICIO FISCAL 2026, CHIHUAHUA"
+identifier: "CHH-ley-de-ingresos-del-municipio-de-carichi-para-el-ejercicio-184613"
+country: "mx"
+rank: "ley_de_ingresos"
+publication_date: "2025-12-27"
+last_updated: "2025-12-27"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=184613&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-chh"
+scjn_id: "184613"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "104 FOLLETO ANEXO"
+reform_count: "0"
+scjn_last_update: "2025-12-27"
+issue_date: "2025-12-23"
+municipality: "Carichí"
+municipality_inegi: "08012"
+state: "CHH"
+---
+# LEY DE INGRESOS DEL MUNICIPIO DE CARICHI PARA EL EJERCICIO FISCAL 2026, CHIHUAHUA
+
+LEY DE INGRESOS DEL MUNICIPIO DE CARICHÍ PARA EL EJERCICIO FISCAL 2026
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Folleto Anexo al Número 104 del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 2025.
+
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+
+###### ARTÍCULO PRIMERO.
+
+Para que el Municipio de CarichÍ (sic) pueda cubrir los gastos previstos en su presupuesto de egresos, durante el ejercicio fiscal comprendido del primero de enero al 31 de diciembre de 2026, percibirá los ingresos ordinarios y extraordinarios siguientes:
+
+I.- IMPUESTOS Y CONTIBUCIONES ESPECIALES.
+
+[...]
+
+II.- DERECHOS.
+
+1.- [...]
+
+[...]
+
+(NOTA: EL 28 DE ABRIL DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 24/2026, DECLARÓ LA INVALIDEZ DEL NUMERAL 10.2 DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE MAYO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+10.2.- MULTAS DE CATASTRO
+
+A LOS PROPIETARIOS Y POSEEDORES DE PREDIOS QUE INCURRAN EN LAS INFRACCIONES PREVISTAS EN LA LEY DE CATASTRO DEL ESTADO DE CHIHUAHUA, SE LES APLICARÁ UNA MULTA DE CONFORMIDAD CON LO SIGUIENTE:
+
+RESPECTO A: ACTUALIZACIÓN (UMA)
+
+I.- PREDIOS URBANOS
+
+A).- TASA 2 AL MILLAR 5
+
+B).- TASA 3 AL MILLAR 10
+
+C).- TASA 4 AL MILLAR 15
+
+D).- TASA 5 AL MILLAR 20
+
+E).- TASA 6 AL MILLAR 25
+
+PREDIOS RÚSTICOS Y SUBURBANOS, QUEDAN CONSIDERADOS EN LAS TASAS 2, 3 Y 5 AL MILLAR, RESPECTIVAMENTE.
+
+10.3.- COMERCIALIZACIÓN DE INFORMACIÓN GEOGRÁFICA
+
+[...]
