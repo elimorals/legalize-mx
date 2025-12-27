@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-proteccion-de-datos-personales-del-estado-de-durango-973
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-05"
-last_updated: "2014-12-28"
+last_updated: "2025-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE PROTECCION DE DATOS PERSONALES DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE DURANGO Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 27 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 5 de diciembre de 2013.
 
@@ -33,7 +35,9 @@ QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
 Con fechas 12 de Agosto de 2008 y 2 de Septiembre de 2008, fueron presentadas a esta H. Legislatura dos iniciativas la primera por los CC. Diputados Francisco Heraclio Ávila Cabada, Ernesto Abel Alanís Herrera, Manuel Herrera Ruíz, Adán Soria Ramírez, Jorge Herrera Delgado, Sonia Catalina Mercado Gallegos, Marco Aurelio Rosales Saracco, Francisco Gamboa Herrera, Roberto Carmona Jáuregui, Hipólito Pasillas Ortiz, Juan Moreno Espinoza, José Gabriel Rodríguez Villa, Alma Marina Vitela Rodríguez, Fernando Ulises Adame de León, René Carreón Gómez, Rosauro Meza Sifuentes y Maribel Aguilera Chairez, integrantes del Grupo Parlamentario del Partido Revolucionario Institucional de la LXIV Legislatura, y la segunda presentada por los CC. Diputados Miguel Ángel Jáquez Reyes, Noel Flores Reyes, Claudia Ernestina Hernández Espino, Alfredo Miguel Herrera Deras, José Luis López Ibáñez, Julio Alberto Castañeda Castañeda, Bernardo Ceniceros Núñez y Adán Sáenz Segovia, integrantes del Grupo Parlamentario del Partido Acción Nacional de la LXIV Legislatura, que contienen LEY DE PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE DURANGO; mismas que fueron turnadas a la comisión de Gobernación integrada por los CC. Diputados: Raúl Antonio Meráz Ramírez, José Francisco Acosta LLanes, María del Refugio Vázquez Rodríguez, Emiliano Hernández Camargo y Otniel García Navarro; Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
 
-C O N S I D E R A N D O S...
+C O N S I D E R A N D O S
+
+[...]
 
 SEXTO. En este mismo orden de ideas es necesario recalcar que es la LXV Legislatura a través de su Comisión de Gobernación cuyos miembros rubrican el presente dictamen, quienes revalidan en contenido del mismo en su totalidad, con las modificaciones únicamente por la Comisión dictaminadora de la LXIV Legislatura, en lo que respecta del transitorio primero, en el sentido de establecer una vacatio legis de un año a partir de la publicación para la entrada en vigor de la misma, ello con el objetivo de que se logren establecer los mecanismos necesarios, así como exista la disponibilidad presupuestal.
 
@@ -722,3 +726,19 @@ P.O. 28 DE DICIEMBRE DE 2014.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado (sic) Durango.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 366 POR EL CUAL SE CREA LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE DURANGO Y SUS MUNICIPIOS".]
+
+PRIMERO. Esta ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se abroga la Ley de Protección de Datos Personales del Estado de Durango publicada en el periódico oficial no. 97 de fecha 05 de diciembre de 2013. Decreto 514, LXV Legislatura.
+
+TERCERO. Se abroga la Ley de Protección de Datos Personales en posesión de sujetos obligados del Estado de Durango publicada en el periódico oficial no. 47 de fecha 11 de junio de 2017. Decreto 149, LXVI legislatura.
+
+CUARTO. El Poder Ejecutivo, el Poder Legislativo, el Poder Judicial, los Órganos Constitucionales Autónomos y los municipios deberán realizar las adecuaciones correspondientes a las leyes, reglamentos y demás disposiciones aplicables, dentro de los 120 días naturales siguientes a la entrada en vigor del presente Decreto, a fin de dar cumplimiento a lo dispuesto en el mismo.
+
+En tanto se expiden las adecuaciones correspondientes a la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Durango, la Junta de Gobierno y Administración podrá emitir la normatividad y/o acuerdos pertinentes a fin de dar cumplimiento a lo establecido en el presente Decreto.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
