@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2025-12-10"
+last_updated: "2025-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO PENAL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2025.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -4755,9 +4755,17 @@ Se aplicará prisión de seis meses a tres años y multa de sesenta a ciento vei
 
 ### CAPITULO I. ACCESO SIN AUTORIZACION
 
-> <small>(REFORMADO, P.O. 17 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2025)</small>
 
-Artículo 326 bis.- Al que intercepte, interfiera, reciba, use o ingrese por cualquier medio sin la autorización debida o, excediendo la que tenga, a una computadora personal, o a un sistema de red de computadoras, un soporte lógico de programas de cómputo o base de datos, se le impondrá de seis meses a dos años de prisión y de cincuenta a ciento cincuenta días multa.
+Artículo 326 bis.- Al que intercepte, interfiera, reciba, use o ingrese por cualquier medio sin la autorización debida o, excediendo la que tenga, a un sistema de tecnología de la información y la comunicación, se le impondrá de seis meses a dos años de prisión y de cincuenta a ciento cincuenta días multa.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
+
+Cuando el pasivo sea el Estado, los municipios o los organismos autónomos, se impondrá de uno a cuatro años de prisión y de cien a trescientos días multa.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
+
+Se entenderá por sistema de tecnología de la información y la comunicación, previsto en este Título, todo dispositivo o conjunto de dispositivos interconectados o relacionados entre sí, cuya función, o la de alguno de sus elementos, sea reunir, almacenar y procesar automáticamente datos electrónicos mediante la ejecución de un programa.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
@@ -4765,35 +4773,31 @@ Artículo 326 bis.- Al que intercepte, interfiera, reciba, use o ingrese por cua
 
 Cuando alguno de los delitos previstos en este Título sea cometido por un servidor público en ejercicio de sus funciones o fedatario se le impondrá, además, destitución e inhabilitación para desempeñar un empleo, cargo o comisión de cualquier naturaleza en el servicio público de dos a cinco años.
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2025)</small>
 
 TITULO DECIMOTERCERO BIS
 
-DELITOS CONTRA LA SEGURIDAD EN LOS MEDIOS INFORMATICOS Y MAGNETICOS
+CONTRA LA SEGURIDAD EN LOS SISTEMAS DE TECNOLOGIA DE LA INFORMACION Y LA COMUNICACION
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
 ### CAPITULO II. DAÑO INFORMATICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
 
-Artículo 326 bis 1.- A quien sin autorización modifique, destruya o deteriore en forma parcial o total, archivos, bases de datos o cualquier otro elemento intangible contenido en computadoras personales, sistemas o redes de cómputo, soportes lógicos, o cualquier otro medio magnético, se le sancionará con penas de dos a ocho años de prisión y de cuatrocientos a mil doscientos días multa.
+Artículo 326 bis 1.- A quien sin autorización modifique, destruya o deteriore en forma parcial o total, archivos, bases de datos o cualquier otro elemento intangible contenido en un sistema de tecnología de la información y la comunicación, se le sancionará con penas de dos a ocho años de prisión y de cuatrocientos a mil doscientos días multa.
 
-> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
-
-Cuando el activo tenga el carácter de encargado del manejo, administración o mantenimiento de los bienes informáticos dañados, las penas se incrementarán en una mitad más.
+Cuando el activo tenga el carácter de encargado del manejo, administración o mantenimiento de un sistema de tecnología de la información y la comunicación dañados, las penas se incrementarán en una mitad más.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
 ### CAPITULO III. FALSIFICACION INFORMATICA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
 
-Artículo 326 bis 2.- Se impondrán penas de dos a seis años de prisión y de cuatrocientos a mil días multa, al que copie o imite los originales de cualquier dato, archivo o elemento intangible contenido en una computadora personal o en un sistema de redes de computadoras, base de datos, soporte lógico, siempre que para ello se requiera autorización y no la obtenga.
+Artículo 326 bis 2.- Se impondrán penas de dos a seis años de prisión y de cuatrocientos a mil días multa, al que copie o imite los originales de cualquier dato, archivo o elemento intangible contenido en un sistema de tecnología de la información y la comunicación, base de datos, soporte lógico, siempre que para ello se requiera autorización y no la obtenga.
 
-> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
-
-Las mismas sanciones se aplicarán al que utilice o aproveche en cualquier forma, los bienes informáticos falsificados, previstos en este Título.
+Las mismas sanciones se aplicarán al que utilice o aproveche en cualquier forma, un sistema de tecnología de la información y la comunicación, señalado en este Título.
 
 > <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
@@ -5946,3 +5950,11 @@ P.O. 10 DE DICIEMBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO. Los delitos que se hubieren cometido con anterioridad con la entrada en vigor del presente Decreto se sancionarán conforme a las disposiciones normativas vigentes al momento de su comisión.
+
+P.O. 27 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 221 POR EL QUE "SE REFORMAN EL TÍTULO DÉCIMO TERCERO BIS, Y LOS ARTÍCULOS 326 BIS, 326 BIS 1 Y 326 BIS 2, Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 326 BIS, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Los delitos que se hubieren cometido con anterioridad con la entrada en vigor del presente Decreto, se sancionarán conforme a las disposiciones normativas vigentes al momento de su comisión.
