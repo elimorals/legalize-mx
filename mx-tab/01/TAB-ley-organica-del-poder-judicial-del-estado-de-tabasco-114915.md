@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-judicial-del-estado-de-tabasco-114915"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-05-28"
-last_updated: "2025-08-30"
+last_updated: "2025-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Suplemento “B” del Periódico Oficial del Estado de Tabasco, el sábado 28 de mayo de 2016.
 
@@ -71,25 +71,25 @@ b) (DEROGADO, P.O. 30 DE AGOSTO DE 2025)
 
 c) Las Salas en materia civil;
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
 
-d) Las Salas en materia penal;
+d) Las Salas en materia penal; y
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2025)</small>
 
 e) Las Salas especializadas en materia de Ejecución y de Justicia para Adolescentes;
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
+(REFORMADA [N. DE E. ANTES INCISO F)], P.O. 27 DE DICIEMBRE DE 2025)
 
-f) El Tribunal de Disciplina Judicial; y
+II.- El Tribunal de Disciplina Judicial.
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
+(ADICIONADA [N. DE E. REFORMADA ANTES INCISO G)], P.O. 27 DE DICIEMBRE DE 2025)
 
-g) El Órgano de Administración Judicial.
+III.- El Órgano de Administración Judicial.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE MARZO DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA ANTES FRACCIÓN II], P.O. 27 DE DICIEMBRE DE 2025)</small>
 
-II. Los juzgados y tribunales de primera instancia, mismos que se clasifican en:
+IV.- Los Juzgados y Tribunales de primera instancia, mismos que se clasifican en:
 
 a) Civiles;
 
@@ -285,9 +285,7 @@ II. No haber sido declarada como persona deudora alimentaria morosa; salvo que a
 
 Las magistraturas del Tribunal Superior de Justicia serán electas por un período de nueve años, podrán ser reelectas y si lo fueren, solo podrán ser privadas de sus puestos en los términos que establece la Constitución del Estado, la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidad Administrativa de los Servidores Públicos, Reglamentaria del Artículo 68, del Título VII, de la Constitución Política del Estado Libre y Soberano de Tabasco y la presente Ley.
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
-
-Al cumplir setenta años de edad, las Magistradas y Magistrados pasarán a retiro.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2025)</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -337,9 +335,7 @@ V. Designar por el voto de la mayoría simple de sus integrantes, a las tres per
 
 VI. Calificar las excusas, recusaciones e impedimentos de los Magistrados;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-VII. Autorizar el presupuesto del Poder Judicial que elabore la Magistrada o el Magistrado que presida el Tribunal Superior de Justicia con auxilio del Órgano de Administración Judicial y presente oportunamente a la consideración de los Plenos;
+VII. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2025)
 
 VIII. (DEROGADA, P.O. 30 DE AGOSTO DE 2025)
 
@@ -347,9 +343,7 @@ IX. (DEROGADA, P.O. 7 DE AGOSTO DE 2019)
 
 X. (DEROGADA, P.O. 30 DE AGOSTO DE 2025)
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XI. Revisar, modificar o revocar los acuerdos generales que expida el Órgano de Administración Judicial, cuando se refieran a la designación en casos de sustitución por menos de un año y a la adscripción de las y los Jueces, por ser contrarios al orden público, no atender las necesidades del servicio o atentar contra la seguridad o la paridad de género, en su caso; así como los relativos a la determinación del número, división en distritos, competencia territorial y especialización por materias de las Salas de Segunda Instancia y los Juzgados de Primera Instancia;
+XI. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2025)
 
 XII. Exigir al Presidente del Tribunal, a los de las Salas y a los Magistrados el cumplimiento de sus obligaciones;
 
@@ -377,9 +371,9 @@ XIX. Conceder a las y los Magistrados del Tribunal Superior de Justicia, licenci
 
 XX. Otorgar, sustituir o revocar poderes y mandatos, incluso aquellos que requieran cláusula especial, a favor de apoderados legales para la procuración y defensa de sus intereses, por conducto del Magistrado Presidente del Tribunal Superior de Justicia;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
 
-XXI. Proponer al Órgano de Administración Judicial, la designación de las y los titulares de los órganos auxiliares del Poder Judicial, así como del personal que desempeñe funciones de apoyo, administrativo o adscrito al Pleno, a las Salas y a la Presidencia del Tribunal Superior de Justicia, que reúna los requisitos para el cargo, además de su adscripción, ratificación, comisión, prórroga, remoción, otorgamiento de licencias, aceptación de renuncias, en su caso;
+XXI. Proponer al Órgano de Administración Judicial, la designación de las y los titulares de los órganos auxiliares del Poder Judicial, así como del personal que desempeñe funciones de apoyo, administrativo o adscrito al Pleno, y a la Presidencia del Tribunal Superior de Justicia, que reúna los requisitos para el cargo, además de su adscripción, ratificación, comisión, prórroga, remoción, otorgamiento de licencias, aceptación de renuncias, en su caso;
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -477,15 +471,9 @@ El Tribunal Superior de Justicia, realizará sus labores en dos períodos de ses
 
 ### CAPÍTULO III. DE LA PRESIDENCIA DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2025)</small>
-
 ###### Artículo 20.
 
-El Tribunal Superior de Justicia será presidido por el Magistrado o la Magistrada que elija la mayoría de los integrantes presentes de su Pleno, en escrutinio secreto, quien estará en funciones por un periodo de cinco años.
-
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2025)</small>
-
-La persona titular de la Presidencia no integrará Sala y ostenta la representación del Poder Judicial del Estado de Tabasco ante los demás poderes del Estado y de la Unión.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2025)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -521,9 +509,7 @@ VI. Desechar o tramitar, en su caso, los asuntos de la competencia del Pleno del
 
 VII. Rendir el informe a que se refieren los artículos 55-TER, penúltimo párrafo y 59, párrafo segundo, de la Constitución del Estado. Para tal efecto, requerirá a los órganos del Poder Judicial remitan sus informes de actividades;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-VIII. Elaborar y presentar oportunamente, con el auxilio del Órgano de Administración Judicial, el proyecto del Presupuesto de Egresos del Poder Judicial del Estado, someterlo a la consideración de los Plenos y, una vez autorizado, en su proyección conjunta, remitirlo a la persona titular del Poder Ejecutivo local, para su inclusión en el proyecto de Presupuesto General de Egresos del Estado, para ser sometido a la aprobación del Congreso;
+VIII. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2025)
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -543,15 +529,11 @@ XII. Rendir los informes correspondientes en los juicios de amparo y demás proc
 
 XIII. Representar al Poder Judicial en los actos oficiales o designar comisión para tal efecto;
 
-XIV. Ejercer, por conducto de la Tesorería, el presupuesto del Tribunal;
+XIV. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2025)
 
 XV. (DEROGADA, P.O. 30 DE AGOSTO DE 2025)
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XVI. Vigilar que el Tesorero Judicial, en su representación, envíe mensualmente, dentro de los treinta días siguientes del mes que corresponda, al Órgano Superior de Fiscalización del Estado, el avance financiero y presupuestal.
-
-Asimismo, remitir anualmente al mencionado Órgano de Fiscalización, a más tardar el treinta de abril del año siguiente, la cuenta pública del Poder Judicial, debidamente comprobada y con la información suficiente que sea proporcionada por conducto de los titulares responsables de las áreas auxiliares a la Presidencia, en los términos de la ley aplicable, para su examen y calificación anual;
+XVI. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2025)
 
 XVII. Resolver sobre los asuntos urgentes de naturaleza administrativa, que no admitan demora aun cuando sean de la competencia del Pleno, en los casos que éste no pudiera reunirse, dando cuenta de lo que hubiere hecho en la sesión inmediata, para el efecto de que se ratifique o rectifique el acuerdo tomado;
 
@@ -567,7 +549,9 @@ XX. (DEROGADA, P.O. 30 DE AGOSTO DE 2025)
 
 XXI. Proponer al Pleno del Tribunal Superior de Justicia, el número de Salas, su sede, la adscripción y número de las y los Magistrados, conforme la materia que determine el Órgano de Administración Judicial;
 
-XXII. Delegar, cuando así lo considere necesario, las funciones de celebración y firma de informes de comprobación de gastos y programación, contratos, convenios y toda clase de actos, a los titulares de las áreas a su cargo, de acuerdo con la naturaleza del asunto de que se trate, sin perjuicio de que pueda ejercerlas directamente;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
+
+XXII. Delegar, cuando así lo considere necesario, las funciones de celebración y firma de contratos, convenios y toda clase de actos, a los titulares de las áreas a su cargo, de acuerdo con la naturaleza de asunto de que se trate, sin perjuicio de que pueda ejercerlas directamente;
 
 XXIII. Presentar, al Congreso del Estado, las iniciativas de leyes en el ámbito de la impartición de justicia en el Poder Judicial del Estado;
 
@@ -591,9 +575,7 @@ XXVII. Proponer al Pleno del Tribunal Superior de Justicia, a la Magistrada o Ma
 
 XXVIII. Proponer al Órgano de Administración Judicial, lineamientos, protocolos, manuales y, en general, buenas prácticas administrativas para el buen funcionamiento de los tribunales laborales;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XXIX. Administrar, por conducto de las áreas auxiliares competentes, los recursos asignados a los órganos que conforman el Poder Judicial del Estado;
+XXIX. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2025)
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -611,9 +593,9 @@ XXXII. Las demás contenidas en el presente ordenamiento y las que le confieran 
 
 La Presidencia del Tribunal contará con el auxilio de las áreas siguientes:
 
-I. Oficialía Mayor;
+I. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2025)
 
-II. Tesorería Judicial;
+II. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2025)
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -629,17 +611,11 @@ VI. Dirección de Tecnologías de la Información y Comunicaciones;
 
 VII. (DEROGADA, P.O. 30 DE AGOSTO DE 2025)
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+VIII. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2025)
 
-VIII. Unidad de Igualdad de Género y Derechos Humanos;
+IX. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2025)
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-IX. Unidad de Servicios Psicológicos;
-
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-X. Unidad de Peritos Judiciales en Materia Laboral;
+X. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2025)
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -1271,9 +1247,9 @@ V. Las demás que determine la normatividad aplicable y los Acuerdos Generales d
 
 Las Juezas y Jueces que integran el Poder Judicial del Estado serán electos para un período de nueve años en el ejercicio de su encargo, pudiendo ser reelectos de forma consecutiva cada que concluyan su período. No podrán ser readscritos fuera del distrito o región judicial en el que hayan sido electos, salvo que por causa excepcional o de interés público, así lo determine el Órgano de Administración Judicial, o bien, que el Tribunal de Disciplina Judicial lo resuelva previo procedimiento de responsabilidad administrativa.
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
 
-Podrán ser removidos en los casos y conforme a los procedimientos que establezca esta Ley. Al cumplir setenta años de edad, dichos Jueces y Juezas pasarán a retiro.
+Podrán ser removidos en los casos y conforme a los procedimientos que establezca esta Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -2637,9 +2613,11 @@ El Órgano de Administración Judicial contará con el auxilio del Centro de Esp
 
 También contará para el ejercicio de sus atribuciones con la Contraloría y tendrá a su cargo el Centro de Acceso a la Justicia Alternativa del Poder Judicial.
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(DEROGADO NOVENO PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2025)</small>
 
-El Órgano deberá auxiliar a la Magistrada o Magistrado que presida el Tribunal Superior de Justicia, en la elaboración del proyecto de presupuesto del Poder Judicial.
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
+
+Para el ejercicio de sus funciones de administración, el Órgano de Administración Judicial contará con el auxilio de la Oficialía Mayor, de la Tesorería Judicial, de la Unidad de Igualdad de Género y Derechos Humanos, la Unidad de Servicios Psicológicos y de la Unidad de Peritos Judiciales en Materia Laboral, las cuales ejercerán sus funciones conforme a lo establecido en la presente Ley Orgánica, el Reglamento Interior del Poder Judicial y del Órgano de Administración Judicial, así como los acuerdos generales emitidos por el Pleno del Órgano de Administración Judicial y demás disposiciones aplicables.
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -2921,9 +2899,7 @@ L. Autorizar las licencias, cuando éstas no excedan de un mes, para el caso de 
 
 LI. Elaborar, listas de servidoras y servidores públicos autorizados para desempeñar funciones jurisdiccionales en los diversos distritos o regiones judiciales, en caso de ausencia hasta por treinta días;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-LII. Auxiliar a la Magistrada o Magistrado que presida el Tribunal Superior de Justicia, en la elaboración del proyecto de presupuesto del Poder Judicial;
+LII. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2025)
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -2973,21 +2949,41 @@ LXIII. Establecer con base en la ley de la materia, las políticas y lineamiento
 
 LXIV. Expedir, a petición del Tribunal de Disciplina Judicial, acuerdos generales o la ejecución de las resoluciones que considere necesarias para asegurar un adecuado ejercicio de la función jurisdiccional de este;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
 
-LXV. Nombrar a las y los titulares de los órganos auxiliares del Poder Judicial, así como al personal que desempeñe funciones de apoyo, administrativo o adscrito al Pleno, a las Salas y a la Presidencia del Tribunal Superior de Justicia que proponga la Magistrada o el Magistrado que presida este;
+LXV. Nombrar a las y los titulares de las áreas auxiliares del Órgano de Administración Judicial, así como al personal que desempeñe funciones de apoyo, administrativo o adscrito al Pleno del Órgano y a las Salas del Tribunal Superior;
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
 
 LXVI. Gestionar con entidades financieras la implementación de mecanismos que considere necesarios en beneficio del personal del Poder Judicial;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
 
-LXVII. Determinar los días inhábiles, a solicitud del Pleno del Tribunal Superior de Justicia cuando las necesidades del servicio lo requieran o por causas de fuerza mayor; y
+LXVII. Determinar los días inhábiles, a solicitud del Pleno del Tribunal Superior de Justicia cuando las necesidades del servicio lo requieran o por causas de fuerza mayor;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE AGOSTO DE 2025)</small>
+LXVIII. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2025)
 
-LXVIII. Las demás que las leyes, Reglamentos o Acuerdos Generales le otorguen.
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
+
+LXIX. Ejercer, por conducto de la Tesorería, el presupuesto del Poder Judicial;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
+
+LXX. Vigilar que el Tesorero Judicial, en su representación, envíe mensualmente, dentro de los treinta días siguientes del mes que corresponda, al Órgano Superior de Fiscalización del Estado, el avance financiero y presupuestal.
+
+Asimismo, remitir anualmente al mencionado Órgano de Fiscalización, a más tardar el treinta de abril del año siguiente, la cuenta pública del Poder Judicial, debidamente comprobada y con la información suficiente que sea proporcionada por conducto de los titulares responsables de las áreas auxiliares, en los términos de la ley aplicable, para su examen y calificación anual;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
+
+LXXI. Delegar a la persona titular de la Presidencia la firma de informes de comprobación de gastos y programación;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
+
+LXXII. Administrar, por conducto de las áreas auxiliares competentes, los recursos asignados a los órganos que conforman el Poder Judicial del Estado; y
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
+
+LXXIII. Las demás que las leyes, Reglamentos o Acuerdos Generales le otorguen.
 
 ###### Artículo 98.
 
@@ -3751,11 +3747,11 @@ XIX. Las demás que el servicio requiera y autoricen en sus respectivas competen
 
 ### CAPÍTULO II. DE LA OFICIALÍA MAYOR
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 127.
 
-La Oficialía Mayor, como área auxiliar de la Presidencia del Tribunal Superior de Justicia estará integrada por una persona titular, quien, para el despacho de los asuntos de su competencia, se auxiliará de las coordinaciones siguientes:
+La Oficialía Mayor, como área auxiliar del Órgano de Administración Judicial estará integrada por una persona titular, quien, para el despacho de los asuntos de su competencia, se auxiliará de las coordinaciones siguientes:
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -3879,25 +3875,25 @@ Son obligaciones del Oficial Mayor:
 
 I. Coordinar los recursos humanos y materiales del Poder Judicial;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
 
-II. Ejecutar las medidas administrativas que acuerde, en el ámbito de su respectiva competencia, con la Magistrada o el Magistrado que presida el Tribunal Superior de Justicia, en relación con el personal, el patrimonio y el presupuesto del Poder Judicial;
+II. Ejecutar las medidas administrativas que acuerde, en el ámbito de su respectiva competencia, con el Órgano de Administración Judicial, en relación con el personal, el patrimonio y el presupuesto del Poder Judicial;
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
 
 III. Mantener actualizado el padrón mobiliario e inmobiliario del Poder Judicial del Estado y la correcta integración de los documentos legales correspondientes;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
 
-IV. Ejecutar el presupuesto con base a la información que le proporcione la Tesorería de manera eficaz, honesta y ajustada a la normatividad aplicable e informar mensualmente a la Magistrada o el Magistrado que presida el Tribunal Superior de Justicia, del estado que guardan las partidas que le correspondan, turnándole relación de gastos;
+IV. Ejecutar el presupuesto con base a la información que le proporcione la Tesorería de manera eficaz, honesta y ajustada a la normatividad aplicable e informar mensualmente al Órgano de Administración Judicial, del estado que guardan las partidas que le correspondan, turnándole relación de gastos;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
 
-V. Asistir a las sesiones del Pleno del Tribunal Superior de Justicia y del Órgano de Administración Judicial, cuando sea requerido por acuerdo del Pleno o por instrucción de la Magistrada o Magistrado que presida el Tribunal Superior de Justicia;
+V. Asistir a las sesiones del Pleno del Tribunal Superior de Justicia y del Órgano de Administración Judicial, cuando sea requerido por acuerdo del Pleno;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
 
-VI. Dotar, previo acuerdo de la Magistrada o el Magistrado que presida el Tribunal Superior de Justicia, a las áreas y órganos del Poder Judicial, de equipo, material de trabajo y demás enseres; así como vigilar y procurar la conservación y el buen estado de las oficinas y pertenencias del Poder Judicial;
+VI. Dotar, previo acuerdo con el Órgano de Administración Judicial, a las áreas y órganos del Poder Judicial, de equipo, material de trabajo y demás enseres; así como vigilar y procurar la conservación y el buen estado de las oficinas y pertenencias del Poder Judicial;
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -3911,13 +3907,13 @@ IX. Comunicar oportunamente a la Dirección Jurídica del incumplimiento de los 
 
 X. Supervisar en coordinación con el Órgano de Administración Judicial el buen funcionamiento del Archivo General del Poder Judicial y de los archivos regionales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
 
-XI. Informar a la Magistrada o el Magistrado que presida el Tribunal Superior de Justicia de los asuntos que competan y requieran de su determinación;
+XI. Informar al Órgano de Administración Judicial de los asuntos que competan y requieran de su determinación;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
 
-XII. Proponer a la Magistrada o el Magistrado que presida el Tribunal Superior de Justicia los criterios y medidas para el cumplimiento eficiente de las facultades y obligaciones de la Oficialía Mayor;
+XII. Proponer al Órgano de Administración Judicial los criterios y medidas para el cumplimiento eficiente de las facultades y obligaciones de la Oficialía Mayor;
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -3927,13 +3923,13 @@ XIII. Promover acciones para el desarrollo administrativo de las áreas y órgan
 
 XIV. Coadyuvar en la elaboración del proyecto de presupuesto de egresos del Poder Judicial;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
 
-XV. Rendir los informes que le solicite la Magistrada o el Magistrado que presida el Tribunal Superior de Justicia;
+XV. Rendir los informes que le solicite el Órgano de Administración Judicial;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
 
-XVI. Dar seguimiento, en los asuntos de su competencia, a las determinaciones del Pleno del Tribunal Superior de Justicia;
+XVI. Dar seguimiento, en los asuntos de su competencia, a las determinaciones del Pleno del Tribunal Superior de Justicia y del Órgano de Administración Judicial;
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -3947,9 +3943,9 @@ XVIII. Establecer los mecanismos de control de asistencia del personal;
 
 XIX. Crear, resguardar y mantener actualizados los expedientes del personal;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
 
-XX. Informar a la Magistrada o el Magistrado que presida el Tribunal Superior de Justicia, lo concerniente a la suscripción de contratos, convenios y aquéllos relacionados con el ejercicio de sus atribuciones;
+XX. Informar al Órgano de Administración Judicial, lo concerniente a la suscripción de contratos, convenios y aquéllos relacionados con el ejercicio de sus atribuciones;
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -4023,7 +4019,9 @@ V. El área de contabilidad; y
 
 VI. El personal necesario para su funcionamiento.
 
-Cada área contará con el personal de apoyo que el presupuesto permita y las necesidades que el servicio requiera y tendrán las facultades que determinen los Plenos del Tribunal, del Consejo, la Presidencia de ambos y la normatividad aplicable.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
+
+Cada área contará con el personal de apoyo que el presupuesto permita y las necesidades que el servicio requiera y tendrán las facultades que determinen los Plenos del Tribunal, del Órgano de Administración Judicial, la Presidencia de ambos y la normatividad aplicable.
 
 ###### Artículo 131.
 
@@ -4031,129 +4029,7 @@ Para ser Tesorero Judicial se deben cumplir los mismos requisitos que para ser O
 
 ###### Artículo 132.
 
-El Tesorero tendrá las facultades y obligaciones siguientes:
-
-I. Efectuar puntualmente los pagos de nóminas y demás erogaciones autorizadas conforme al presupuesto;
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE AGOSTO DE 2025)</small>
-
-II. Elaborar mensualmente el informe relativo al avance financiero y presupuestal, el cual, en representación de la Magistrada o el Magistrado que presida el Tribunal Superior de Justicia, deberá remitir dentro de los siguientes treinta días del mes correspondiente al Órgano Superior de Fiscalización del Estado.
-
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2017)</small>
-
-Asimismo, a más tardar el treinta de abril del año siguiente de cada ejercicio, deberá enviar al citado órgano, la cuenta pública del Poder Judicial, debidamente comprobada y con la información suficiente, en los términos de la ley aplicable, para su examen y calificación anual;
-
-III. Practicar las retenciones, descuentos y multas procedentes;
-
-IV. Recibir depósitos de los pagos y fianzas y realizar las devoluciones correspondientes;
-
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-V. Asistir a las sesiones del Pleno del Tribunal Superior de Justicia, cuando sea requerido para ello o por instrucción de la Magistrada o el Magistrado que lo presida;
-
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-VI. Revisar, elaborar y suscribir, en su caso, las cédulas de solventaciones y demás documentación que, en términos de la normatividad aplicable, deba remitirse al Órgano Superior de Fiscalización;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2025)</small>
-
-VII. Presentar a la Magistrada o el Magistrado que presida el Tribunal Superior de Justicia la propuesta sobre la política institucional en materia financiera, fiscal, patrimonial, y de gasto público, para la toma de decisiones;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-VIII. Administrar el presupuesto del Poder Judicial de manera eficaz, honesta y ajustada a la normatividad aplicable;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-IX. Coadyuvar en la elaboración del proyecto del Presupuesto de Egresos del Poder Judicial del Estado, con base en los programas establecidos, para dar cumplimiento a lo dispuesto en la Ley Orgánica;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-X. Supervisar, evaluar y controlar las políticas de ingresos, egresos y contabilidad gubernamental, planeación, programación, presupuestos e inversión pública del Poder Judicial;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XI. Presentar a la Magistrada o el Magistrado que presida el Tribunal Superior de Justicia, el plan anual de trabajo de la Tesorería Judicial, vigilar su ejecución e informarle de los avances y resultados alcanzados;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XII. Cubrir los gastos de operación administrativa, adquisiciones de bienes muebles e inmuebles, así como de la inversión pública que le encomiende la Magistrada o el Magistrado que presida el Tribunal Superior de Justicia en ejercicio del presupuesto autorizado;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XIII. Preparar la cuenta pública del Poder Judicial e integrar la información financiera, presupuestal y contable, respaldada con la documentación correspondiente, para acreditar oportunamente el ejercicio del presupuesto ante el Órgano Superior de Fiscalización del Estado;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XIV. Gestionar y dar seguimiento a la ministración de los recursos asignados a cada partida del Poder Judicial;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XV. Revisar los cortes y arqueos de caja practicados por el área de Consignaciones y Pagos;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XVI. Gestionar los pagos de prestaciones, seguros e impuestos, y vigilar el cumplimiento de las disposiciones fiscales y sus modificaciones;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XVII. Elaborar las conciliaciones bancarias correspondientes;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XVIII. Recepcionar y enviar las facturas de comprobación de los fondos revolventes;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XIX. Dar cumplimiento, en calidad de autoridad responsable, a las determinaciones de la autoridad federal, respecto de actos reclamados en juicios de amparo;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XX. Manejar y administrar el Fondo Auxiliar del Poder Judicial;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XXI. Elaborar el informe anual de ingresos y egresos del Fondo Auxiliar para la Administración de Justicia del Poder Judicial;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XXII. Dar cumplimiento, en el ámbito de su competencia, a los acuerdos que emitan los Plenos del Poder Judicial;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XXIII. Rendir los informes que le soliciten los órganos competentes;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XXIV. Facilitar la fiscalización de los recursos;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XXV. Supervisar que las pólizas de ingresos y egresos cumplan con la documentación soporte de acuerdo a los requisitos fiscales requeridos, a las disposiciones legales aplicables a cada operación y los lineamientos de racionalidad, austeridad y disciplina presupuestaria;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XXVI. Efectuar las devoluciones que procedan, observando los requisitos legales;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XXVII. Controlar los ingresos y egresos de acuerdo a la normatividad aplicable;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XXVIII. Efectuar las revisiones financieras que ordene la Magistrada o el Magistrado que presida el Tribunal Superior de Justicia, en el ámbito de su competencia, y levantar las actas correspondientes a fin de informar sobre los resultados obtenidos;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XXIX. Coordinar y vigilar las funciones de los departamentos de Contabilidad y de Consignaciones y Pagos;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2025)</small>
-
-XXX. Mantener actualizado el registro de las plazas autorizadas en esta Ley al Poder Judicial, con las especificaciones contempladas en el presupuesto; así como codificar quincenalmente los movimientos de personal; y
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE AGOSTO DE 2025)</small>
-
-XXXI. Las demás relacionadas con su cargo y las que se establezcan en el Reglamento, en los Acuerdos Generales y en la normatividad aplicable.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2025)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -4783,9 +4659,7 @@ La estructura, organización y funcionamiento del centro de acceso a la justicia
 
 La Contraloría del Poder Judicial, como área auxiliar del Órgano de Administración Judicial tendrá las facultades de control interno y de coadyuvar en la inspección del cumplimiento de las normas de funcionamiento administrativo que rijan a los órganos y servidores públicos del Poder Judicial, sin perjuicio de las atribuciones de la Visitaduría Judicial. Asimismo, será la autoridad garante del derecho a la información que para tal efecto establece el artículo 4 bis fracción VII de la Constitución Política del Estado Libre y Soberano de Tabasco y demás disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2025)</small>
-
-La persona titular de la Contraloría presidirá el Comité de Transparencia.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2025)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -6039,11 +5913,11 @@ VIII. Las demás que determine el Pleno del Tribunal de Disciplina Judicial o su
 
 ### CAPITULO I. DE LAS RESPONSABILIDADES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 191.
 
-Los Magistrados, integrantes del Consejo de la Judicatura, Jueces y demás servidores públicos del Poder Judicial, serán sujetos de responsabilidad y sancionados por las faltas, actos u omisiones y delitos que cometan durante el ejercicio de su cargo, conforme lo dispuesto por los artículos del 108 al 111 de la Constitución Federal; 62, 66 al 68 y 73 de la Constitución del Estado; las leyes penales; la Ley General de Responsabilidades Administrativas; la Ley de Responsabilidad Administrativa de los Servidores Públicos, Reglamentaria del artículo 68, del Título VII, de la Constitución Política del Estado Libre y Soberano de Tabasco; esta Ley, sus disposiciones reglamentarias, Acuerdos Generales, lineamientos o manuales de organización interna y demás ordenamientos aplicables.
+Las Magistradas y Magistrados del Tribunal Superior de Justicia, las Magistradas y Magistrados del Tribunal de Disciplina Judicial, los integrantes del Órgano de Administración Judicial, las Juezas, Jueces y demás personas servidoras públicas del Poder Judicial, serán sujetos de responsabilidad y sancionados por las faltas, actos u omisiones y delitos que cometan durante el ejercicio de su cargo, conforme lo dispuesto por los artículos del 108 al 111 de la Constitución Federal; 62, 66 al 68 y 73 de la Constitución del Estado; las leyes penales; la Ley General de Responsabilidades Administrativas; la Ley de Responsabilidad Administrativa de los Servidores Públicos, Reglamentaria del artículo 68, del Título VII, de la Constitución Política del Estado Libre y Soberano de Tabasco; esta Ley, sus disposiciones reglamentarias, Acuerdos Generales, lineamientos o manuales de organización interna y demás ordenamientos aplicables.
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -6181,7 +6055,9 @@ Las sanciones derivadas de responsabilidad administrativa, se aplicarán con ind
 
 Cuando por el incumplimiento de las obligaciones establecidas en las disposiciones jurídicas aplicables, se obtenga beneficio o lucro procederá la imposición de sanción económica.
 
-La sanción económica impuesta podrá ser menor o igual al monto del beneficio obtenido.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
+
+La sanción económica impuesta no podrá ser menor al monto del beneficio obtenido.
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2025)</small>
 
@@ -6491,7 +6367,9 @@ V. La comisión de actos inmorales;
 
 VI. Demostrar parcialidad o interés manifiesto por alguna de las partes en litigio;
 
-VII. Recibir dádivas o gratificaciones por actos u omisiones relacionados con los asuntos que se ventilen en el Tribunal, Juzgados o ante el Consejo de la Judicatura;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
+
+VII. Recibir dádivas o gratificaciones por actos u omisiones relacionados con los asuntos que se ventilen en el Tribunal, Juzgados o ante el Tribunal de Disciplina Judicial;
 
 VIII. Cometer indiscreciones que vayan en notorio perjuicio de las partes;
 
@@ -8013,11 +7891,11 @@ El Tesorero Judicial podrá ordenar la práctica de las auditorías que consider
 
 ### CAPÍTULO VII. DE LA DECLARACIÓN PATRIMONIAL
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 325.
 
-Los servidores públicos del Poder Judicial del Estado tienen la obligación de presentar declaración patrimonial y de intereses, ante la Dirección de Contraloría del Poder Judicial, bajo protesta de decir verdad, en los términos previstos en la Ley General de Responsabilidades Administrativas, de conformidad a los lineamientos que emita el Comité Coordinador del Sistema Nacional Anticorrupción.
+Las personas servidoras públicas del Poder Judicial del Estado tienen la obligación de presentar declaración patrimonial y de intereses, ante la Contraloría del Poder Judicial, bajo protesta de decir verdad, en los términos previstos en la Ley General de Responsabilidades Administrativas, de conformidad a los lineamientos que emita el Comité Coordinador del Sistema Nacional Anticorrupción.
 
 ###### Artículo 326.
 
@@ -8033,13 +7911,15 @@ II. La de modificación patrimonial, en el mes de mayo de cada año; y
 
 III. De conclusión, dentro de los sesenta días naturales siguientes a la conclusión de sus funciones o separación del cargo.
 
-La Dirección de Contraloría del Poder Judicial del Estado, una vez recibidas las declaraciones correspondientes, podrá llevar a cabo las investigaciones que considere pertinentes para comprobar la veracidad de los datos asentados en la misma, para que, satisfaciéndose las formalidades legales se haga del conocimiento de las autoridades competentes las irregularidades que al respecto se encontrare.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+La Contraloría del Poder Judicial del Estado, una vez recibidas las declaraciones correspondientes, podrá llevar a cabo las investigaciones que considere pertinentes para comprobar la veracidad de los datos asentados en la misma, para que, satisfaciéndose las formalidades legales se haga del conocimiento de las autoridades competentes las irregularidades que al respecto se encontrare.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 327.
 
-Si algún Magistrado del Tribunal o Consejero de la Judicatura, no presentare su declaración inicial o anual en los plazos fijados, el Director de la Contraloría lo comunicará al Pleno del Tribunal o del Consejo, quien, por conducto de su Presidente, amonestará por escrito y requerirá al omiso para que ineludiblemente la presente dentro de los cinco días hábiles siguientes a la notificación del requerimiento, apercibiéndolo que de no hacerlo se le descontará el cincuenta por ciento de sus percepciones mensuales y, además, se autorizará al Presidente del Tribunal para que formule investigación administrativa y se proceda conforme a derecho.
+Si alguna Magistrada o Magistrado del Tribunal Superior de Justicia, Tribunal de Disciplina Judicial o integrante del Órgano de Administración Judicial, no presentare su declaración inicial o de modificación en los plazos fijados, la persona titular de la Contraloría, lo comunicará a sus respectivos Plenos, quien, por conducto de su Presidencia, amonestará por escrito y requerirá al omiso para que ineludiblemente la presente dentro de los cinco días hábiles siguientes a la notificación del requerimiento, apercibiéndolo que de no hacerlo se le descontará el cincuenta por ciento de sus percepciones mensuales y, además, se autorizará a la Presidencia de cada Pleno para que formule investigación administrativa y se proceda conforme a derecho.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
@@ -8049,23 +7929,25 @@ Tratándose de los demás servidores públicos del Poder Judicial del Estado, si
 
 Para el caso de omisión, sin causa justificada, en la presentación de la declaración de conclusión se inhabilitará hasta por un año para desempeñar cualquier cargo público.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 329.
 
-En todo caso, a quien no presente la declaración final, se impondrá una sanción pecuniaria hasta por cien veces el valor diario de la Unidad de Medida y Actualización y se procederá de acuerdo a lo previsto en la parte final del artículo 327 de esta Ley.
+En todo caso, a quien no presente la declaración de conclusión, se impondrá una sanción pecuniaria hasta por cien veces el valor diario de la Unidad de Medida y Actualización y se procederá de acuerdo a lo previsto en la parte final del artículo 327 de esta Ley.
 
 Sin perjuicio de lo anterior, se le inhabilitará por un año para el desempeño, del empleo cargo o comisión, de cualquier naturaleza, en el servicio público.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 330.
 
-La Dirección de Contraloría, atenta a lo resuelto por el Consejo de la Judicatura, emitirá las bases y normas en que el servidor público deberá presentar su declaración, para lo cual proporcionará gratuitamente los formatos, manuales e instructivos.
+La Contraloría, atenta a lo resuelto por el Órgano de Administración Judicial, emitirá las bases y normas en que la persona servidora pública deberá presentar su declaración, para lo cual proporcionará gratuitamente los formatos, manuales e instructivos.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 331.
 
-En todo lo no previsto por esta Ley y su Reglamento, el Pleno del Tribunal Superior de Justicia, su Presidente o el Consejo de la Judicatura, en su caso, aplicarán supletoriamente la Ley General de Responsabilidades Administrativas y el Código de Procedimientos Civiles en vigor.
+En todo lo no previsto por esta Ley y su Reglamento, los Plenos del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, del Órgano de Administración Judicial, sus respectivos presidentes y la Contraloría, en su caso, aplicarán supletoriamente la Ley General de Responsabilidades Administrativas y el Código de Procedimientos Civiles en vigor.
 
 ARTÍCULOS TRANSITORIOS:
 
@@ -8258,3 +8140,15 @@ La adscripción y readscripción de los Jueces que no hayan sido insaculados, se
 DÉCIMO QUINTO. Se establece un plazo de ciento ochenta días naturales a partir de la entrada en vigor de este Decreto para que el Pleno del Tribunal Superior de Justicia emita el nuevo Reglamento del Poder Judicial del Estado.
 
 DÉCIMO SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 230 POR EL QUE "SE REFORMAN: EL INCISO D), DE LA FRACCIÓN I Y LA FRACCIÓN II DEL ARTÍCULO 2; LA FRACCIÓN XXI DEL ARTÍCULO 16; LA FRACCIÓN XXII DEL ARTÍCULO 21; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 45; LAS FRACCIONES LXV Y LXVII DEL ARTÍCULO 97; EL PÁRRAFO PRIMERO DEL ARTÍCULO 127; LAS FRACCIONES II, IV, V, VI, XI, XII, XV, XVI Y XX DEL ARTÍCULO 129; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 130; EL PÁRRAFO PRIMERO DEL ARTÍCULO 191; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 198; LA FRACCIÓN VII DEL ARTÍCULO 213; EL ARTÍCULO 325; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 326; EL ARTÍCULO 327; EL PÁRRAFO PRIMERO DEL ARTÍCULO 329; Y LOS ARTÍCULOS 330 Y 331. SE ADICIONAN: LAS FRACCIONES III Y IV DEL ARTÍCULO 2; SE ADICIONA EL NUEVO PÁRRAFO NOVENO DEL ARTÍCULO 94; LAS FRACCIONES LXIX, LXX, LXXI, LXXII Y LXXIII DEL ARTÍCULO 97. SE DEROGAN: EL PÁRRAFO SEGUNDO DEL ARTÍCULO 12; LAS FRACCIONES VII Y XI DEL ARTÍCULO 16; EL ARTÍCULO 20; LAS FRACCIONES VIII, XIV, XVI Y XXIX DEL ARTÍCULO 21; LAS FRACCIONES I, II, VIII, IX Y X DEL ARTÍCULO 22; EL PÁRRAFO NOVENO DEL ARTÍCULO 94; LAS FRACCIONES LII Y LXVIII DEL ARTÍCULO 97; EL ARTÍCULO 132; Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 161, TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
