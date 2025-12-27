@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-desarrollo-rural-sustentable-del-estado-de-tabasco-68573
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-29"
-last_updated: "2019-09-21"
+last_updated: "2025-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68573&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Suplemento F del Periódico Oficial del Estado de Tabasco, el miércoles 29 de abril de 2009.
 
@@ -102,6 +102,10 @@ XIX. Estado. El Estado Libre y Soberano de Tabasco;
 XX. Estímulos Fiscales. Los incentivos otorgados por el Estado a través de beneficios preferentes en el ejercicio de la tributación;
 
 XXI. Extensionismo. Proceso continuo y sistemático de educación no escolarizada, mediante el cual se brinda asistencia técnica y capacitación a las personas del medio rural, considerando nuevas tecnologías que sirvan como base para esquemas productivos sostenibles y conservacionistas;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
+
+XXI Bis. Ganadería regenerativa. El modelo de producción pecuaria que favorece la reversión de la degradación y la restauración de ecosistemas, mediante el manejo planificado y rotacional del pastoreo, la diversificación de especies forrajeras, la integración de prácticas sustentables, que tiene por objeto restaurar y conservar la fertilidad y salud de los suelos, conservar e incrementar la biodiversidad, favorecer la conservación y sustentabilidad del agua, así como mejorar la infiltración y retención de la misma; controlar y reducir la erosión, capturar el carbono y gases de efecto invernadero para mitigar el cambio climático y generar alimentos de origen animal de manera socialmente aceptable, económicamente rentable y sostenible en el tiempo;
 
 XXII. Ley. La Ley de Desarrollo Rural Sustentable del Estado de Tabasco;
 
@@ -1801,11 +1805,21 @@ La Comisión Intersecretarial Estatal, con la participación del Consejo Estatal
 
 La sustentabilidad será criterio rector en el fomento a las actividades productivas, a fin de lograr el uso racional de los recursos naturales, su preservación y mejoramiento, al igual que la viabilidad económica de la producción mediante procesos productivos socialmente aceptables.
 
-Quienes hagan uso productivo de las tierras deberán seleccionar técnicas y cultivos que garanticen la conservación o incremento de la productividad, de acuerdo con la aptitud de las tierras y las condiciones socioeconómicas de los productores. En el caso del uso de tierras de pastoreo, se deberán observar las recomendaciones oficiales sobre carga animal o, en su caso, justificar una dotación mayor de ganado.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
+
+Quienes hagan uso productivo de las tierras deberán seleccionar técnicas y cultivos que garanticen la conservación o incremento de la productividad, de acuerdo con la aptitud de las tierras y las condiciones socioeconómicas de los productores. En el caso del uso de tierras de pastoreo, se deberán observar las recomendaciones oficiales sobre carga animal o, en su caso, justificar una dotación mayor de ganado, promoviendo preferentemente prácticas de Ganadería regenerativa.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
+
+Artículo 166 bis.- En el Estado, se promoverá y fomentará la Ganadería regenerativa, como modelo de producción sustentable que, mediante prácticas de pastoreo planificado, rotación de potreros, diversificación de especies forrajeras y restauración de suelos, se permita la conservación y mejoramiento de los recursos naturales, y la productividad económica de los productores pecuarios de manera sostenida en el tiempo.
+
+Las autoridades competentes podrán impulsar programas de capacitación y esquemas de certificación que faciliten la adopción de la ganadería regenerativa en las unidades de producción rural, promoviendo la participación de empresas, organismos financieros, fideicomisos y demás mecanismos de gestión que contribuyan al fortalecimiento de estas prácticas, con especial atención a las zonas con procesos de degradación de suelos y cuencas hidrológicas estratégicas del estado.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 167.
 
-De conformidad con lo dispuesto por el artículo anterior, los gobiernos estatal y municipales, cuando así lo convengan, fomentarán el uso del suelo más pertinente de acuerdo con sus características y potencial productivo, así como los procesos de producción más adecuados para la conservación y mejoramiento de las tierras y el agua.
+De conformidad con lo dispuesto por los artículos 166 y 166 bis, el gobierno estatal y municipal, por si o a través de los convenios respectivos, fomentarán el uso del suelo más pertinente de acuerdo con sus características y potencial productivo, así como los procesos de producción más adecuados para la conservación y mejoramiento de las tierras y el agua.
 
 ###### Artículo 168.
 
@@ -2158,3 +2172,11 @@ P.O. 21 DE SEPTIEMBRE DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se abrogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 227 POR EL QUE “SE REFORMAN EL PÁRRAFO SEGUNDO DEL ARTÍCULO 166; EL ARTÍCULO 167; Y SE ADICIONAN LA FRACCIÓN XXI BIS AL ARTÍCULO 3 Y EL ARTÍCULO 166 BIS DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El correspondiente Decreto, entrará en vigor a los treinta días naturales, contados a partir de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. El Poder Ejecutivo del Estado y los ayuntamientos expedirán en el ámbito de sus respectivas competencias y dentro de los seis meses siguientes a la entrada en vigor del presente Decreto, las reformas y adiciones necesarias a los reglamentos respectivos y emitirán en su caso, las demás disposiciones normativas necesarias.
