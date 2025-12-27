@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-proteccion-de-datos-personales-en-posesion-de-122200"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-11"
-last_updated: "2024-06-23"
+last_updated: "2025-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE PROTECCION DE DATOS PERSONALES EN POSESION DE SUJETOS OBLIGADOS DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE DURANGO Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 27 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Durango, el domingo 11 de junio de 2017.
 
@@ -1662,3 +1664,19 @@ P.O. 23 DE JUNIO DE 2024.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 27 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 366 POR EL CUAL SE CREA LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE DURANGO Y SUS MUNICIPIOS".]
+
+PRIMERO. Esta ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se abroga la Ley de Protección de Datos Personales del Estado de Durango publicada en el periódico oficial no. 97 de fecha 05 de diciembre de 2013. Decreto 514, LXV Legislatura.
+
+TERCERO. Se abroga la Ley de Protección de Datos Personales en posesión de sujetos obligados del Estado de Durango publicada en el periódico oficial no. 47 de fecha 11 de junio de 2017. Decreto 149, LXVI legislatura.
+
+CUARTO. El Poder Ejecutivo, el Poder Legislativo, el Poder Judicial, los Órganos Constitucionales Autónomos y los municipios deberán realizar las adecuaciones correspondientes a las leyes, reglamentos y demás disposiciones aplicables, dentro de los 120 días naturales siguientes a la entrada en vigor del presente Decreto, a fin de dar cumplimiento a lo dispuesto en el mismo.
+
+En tanto se expiden las adecuaciones correspondientes a la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Durango, la Junta de Gobierno y Administración podrá emitir la normatividad y/o acuerdos pertinentes a fin de dar cumplimiento a lo establecido en el presente Decreto.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
