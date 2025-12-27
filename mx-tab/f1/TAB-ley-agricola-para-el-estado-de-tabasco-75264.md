@@ -4,7 +4,7 @@ identifier: "TAB-ley-agricola-para-el-estado-de-tabasco-75264"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-22"
-last_updated: "2017-07-05"
+last_updated: "2025-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY AGRICOLA PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 22 de mayo de 2010.
 
@@ -67,7 +67,9 @@ IV. Biotecnología: Toda aplicación tecnológica que utilice sistemas biológic
 
 V. Buenas prácticas agrícolas: Conjunto de medidas higiénico-sanitarias mínimas que se realizan en el sitio de producción primaria de vegetales, para asegurar que se minimiza la posibilidad de contaminación física, química y microbiológica de un vegetal o producto fresco;
 
-VI. Certificado fitosanitario: Documento oficial expedido por la SAGARPA o las personas acreditadas y aprobadas para tal efecto, que constata el cumplimiento de las disposiciones legales aplicables en materia de sanidad vegetal a que se sujetan la producción, industrialización, comercialización, movilización e importación o exportación de vegetales, así como sus productos o subproductos que representen un riesgo fitosanitario;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
+
+VI. Certificado fitosanitario: Documento oficial expedido por la SEMARNAT o las personas acreditadas y aprobadas para tal efecto, que constata el cumplimiento de las disposiciones legales aplicables en materia de sanidad vegetal a que se sujetan la producción, industrialización, comercialización, movilización e importación o exportación de vegetales, así como sus productos o subproductos que representen un riesgo fitosanitario;
 
 VII. CESVETAB: Comité Estatal de Sanidad Vegetal de Tabasco;
 
@@ -103,11 +105,15 @@ XXII. Producción orgánica: Sistema de producción y procesamiento de alimentos
 
 XXIII. Productor: Persona física o jurídica colectiva que directa o indirectamente se dedique a la producción, acopio, transformación, industrialización y/o comercialización de especies vegetales, sus productos y subproductos;
 
-XXIV. SAGARPA: La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
+
+XXIV. Secretaría de Agricultura: La Secretaría de Agricultura y Desarrollo Rural;
 
 XXV. Sanidad Vegetal: Actos que competen a la Secretaría orientados a la prevención, control y erradicación de plagas que afectan a los vegetales sus productos y subproductos;
 
-XXVI. Secretaría: La Secretaría de Desarrollo Agropecuario, Forestal y Pesca;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
+
+XXVI. Secretaría: La Secretaría de Desarrollo Agropecuario y Pesca;
 
 XXVII. Sistema: Mecanismo de concurrencia y coordinación de las funciones de las diversas dependencias e instancias públicas y privadas, en donde cada una de ellas participa de acuerdo con sus atribuciones y competencia para lograr un determinado propósito;
 
@@ -127,7 +133,13 @@ XXXIV. Vegetales: A las especies agrícolas, forestales y silvestres;
 
 XXXV. Verificación: Constatación ocular o comprobación mediante muestreo y análisis de laboratorio, del cumplimiento de las Normas Oficiales Mexicanas, esta Ley y su Reglamento expresándose a través de un dictamen; y
 
-XXXVI. Verificador: Ciudadano mexicano, preferentemente ingeniero agrónomo o perfil académico análogo, autorizado y acreditado por la Secretaría para realizar actividades de verificación en los términos de esta Ley.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
+
+XXXVI. Verificador: Ciudadano mexicano, preferentemente ingeniero agrónomo o perfil académico análogo, autorizado y acreditado por la Secretaría para realizar actividades de verificación en los términos de esta Ley; y
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
+
+XXXVII. SEMARNAT: Secretaría de Medio Ambiente y Recursos Naturales.
 
 ###### ARTÍCULO 3.
 
@@ -579,9 +591,11 @@ La Secretaría promoverá acciones de demostración, validación y capacitación
 
 La Secretaría en coordinación con los colegios promoverá la participación y registro de técnicos y prestadores de servicios, a fin de que los productores puedan contratar sus servicios a la altura de sus necesidades.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 65.
 
-La Secretaría, en coordinación con la SAGARPA, colegios y demás organismos nacionales e internacionales públicos y privados, elaborará y aplicará en forma permanente programas de capacitación técnica y acreditación en materia de sanidad vegetal, su normatividad y asistencia técnica.
+La Secretaría, en coordinación con la Secretaría de Agricultura, colegios y demás organismos nacionales e internacionales públicos y privados, elaborará y aplicará en forma permanente programas de capacitación técnica y acreditación en materia de sanidad vegetal, su normatividad y asistencia técnica.
 
 ###### ARTÍCULO 66.
 
@@ -619,17 +633,21 @@ X. En general, el mejoramiento de la economía rural.
 
 La Secretaría a través de los convenios respectivos implementará, en coordinación con las instancias federales, otras entidades federativas, municipios, organizaciones sociales y particulares, la vigilancia y control de aspectos fitosanitarios en la producción, industrialización, comercialización y movilización de vegetales, sus productos y subproductos.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 69.
 
-La Secretaría, en coordinación con la SAGARPA y el CESVETAB, ejecutará las campañas fitosanitarias y apoyará la operación de los puntos de inspección que estarán a cargo de la unidad administrativa que la Secretaría designe.
+La Secretaría, en coordinación con la Secretaría de Agricultura y el CESVETAB, ejecutará las campañas fitosanitarias y apoyará la operación de los puntos de inspección que estarán a cargo de la unidad administrativa que la Secretaría designe.
 
 ###### ARTÍCULO 70.
 
 La Secretaría, en coordinación con otras instituciones relacionadas con la sanidad vegetal, preverá la integración de una base de datos sobre aspectos fitosanitarios, con la finalidad de determinar las campañas fitosanitarias prioritarias en el Estado.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 71.
 
-La Secretaría en coordinación con la SAGARPA, vigilará que los viveros, huertos, empacadoras, almacenes, industrias, patios de concentración, maquinaria, equipo y transporte; cumplan con los requisitos fitosanitarios establecidos en la normatividad aplicable, con el objeto de evitar la contaminación, diseminación o dispersión de plagas.
+La Secretaría en coordinación con la Secretaría de Agricultura, vigilará que los viveros, huertos, empacadoras, almacenes, industrias, patios de concentración, maquinaria, equipo y transporte; cumplan con los requisitos fitosanitarios establecidos en la normatividad aplicable, con el objeto de evitar la contaminación, diseminación o dispersión de plagas.
 
 ###### ARTÍCULO 72.
 
@@ -651,9 +669,11 @@ Para la instrumentación del dispositivo estatal de emergencia, la Secretaría d
 
 Con la finalidad de garantizar la correcta aplicación de las acciones del dispositivo estatal de emergencia, la Secretaría determinará la obligatoriedad de adoptar las medidas que se establezcan para evitar la propagación de las plagas de las especies vegetales de la Entidad.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 76.
 
-La Secretaría, en coordinación con la SAGARPA y el CESVETAB determinará los casos en que para el traslado, movilización de vegetales, productos y subproductos de origen agrícola; así como, de sus envases y medios de transporte, sea requisito indispensable contar con la documentación que para el efecto le requiera la Secretaría de conformidad a las disposiciones administrativas y demás normatividad aplicable.
+La Secretaría, en coordinación con la Secretaría de Agricultura y el CESVETAB determinará los casos en que para el traslado, movilización de vegetales, productos y subproductos de origen agrícola; así como, de sus envases y medios de transporte, sea requisito indispensable contar con la documentación que para el efecto le requiera la Secretaría de conformidad a las disposiciones administrativas y demás normatividad aplicable.
 
 ###### ARTÍCULO 77.
 
@@ -687,9 +707,11 @@ La Secretaría, en coordinación con las instancias federales competentes, coady
 
 La Secretaría promoverá, la celebración de convenios con las dependencias federales competentes, que permitan controlar y vigilar la utilización de semillas y material vegetativo para siembra.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 84.
 
-La Secretaría en coordinación con la SAGARPA, vigilará y exigirá que los expendedores de semilla para siembra, cumplan con las normas de calidad que garantice la germinación, vigor y características vegetales de la propia variedad de semilla, señalando o acompañando esta información en las etiquetas adheridas al envase del producto, de conformidad con las normas y demás disposiciones legales aplicables.
+La Secretaría en coordinación con la Secretaría de Agricultura, vigilará y exigirá que los expendedores de semilla para siembra, cumplan con las normas de calidad que garantice la germinación, vigor y características vegetales de la propia variedad de semilla, señalando o acompañando esta información en las etiquetas adheridas al envase del producto, de conformidad con las normas y demás disposiciones legales aplicables.
 
 ### CAPÍTULO IV. DE LA MOVILIZACIÓN DE VEGETALES, SUS PRODUCTOS Y SUBPRODUCTOS AGRÍCOLAS
 
@@ -1144,3 +1166,11 @@ QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha 
 SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+P.O. 27 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 228 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 2, FRACCIONES VI, XXIV, XXVI Y XXXVI; 65; 69; 71; 76 Y 84. SE ADICIONA AL ARTÍCULO 2 UNA FRACCIÓN XXXVII, TODOS DE LA LEY AGRÍCOLA PARA EL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
