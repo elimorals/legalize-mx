@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-110856"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-23"
-last_updated: "2024-05-25"
+last_updated: "2025-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Suplemento C del Periódico Oficial del Estado de Tabasco, el miércoles 23 de diciembre de 2015.
 
@@ -575,7 +575,9 @@ IV. Adoptar medidas tendentes a la eliminación de las prácticas culturales, us
 
 V. Desarrollar la atención sanitaria preventiva, la orientación a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, y la educación y servicios en materia de salud sexual y reproductiva;
 
-VI. Establecer las medidas tendentes a prevenir embarazos de las niñas y las adolescentes;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2025)</small>
+
+VI. Establecer las medidas tendentes a prevenir embarazos de las niñas y las adolescentes, incluyendo programas de orientación y educación sexual integral que promuevan el autocuidado, el uso adecuado de los diversos métodos anticonceptivos y las consecuencias de embarazos no deseados;
 
 VII. Asegurar la prestación de servicios de atención médica respetuosa, efectiva e integral durante el embarazo, parto y puerperio, así como para sus hijas e hijos, y promover la lactancia materna exclusiva dentro de los primeros seis meses y complementaria hasta los dos años, así como garantizar el acceso a métodos anticonceptivos;
 
@@ -2548,3 +2550,15 @@ SEGUNDO. El Tribunal Superior de Justicia del Estado de Tabasco, determinará de
 TERCERO. En un plazo no mayor a 180 días contados a partir de la entrada en vigor del presente Decreto, el Poder Judicial del Estado de Tabasco realizará las adecuaciones necesarias al Reglamento Interior del Tribunal Superior de Justicia del Estado de Tabasco y demás disposiciones aplicables, para el debido cumplimiento de este Decreto.
 
 CUARTO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 222 POR EL QUE “SE REFORMA LA FRACCIÓN VI, DEL PÁRRAFO PRIMERO DEL ARTÍCULO 40, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El correspondiente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales y reglamentarias que se opongan al presente Decreto.
