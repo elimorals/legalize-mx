@@ -4,7 +4,7 @@ identifier: "LIH"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2014-08-11"
-last_updated: "2025-11-03"
+last_updated: "2025-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101925&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -928,7 +928,7 @@ Para los efectos del presente Título, el Asignatario, para evaluar proyectos de
 
 Están obligados al pago del impuesto por la actividad de exploración y extracción de hidrocarburos, los Contratistas y Asignatarios por el Área Contractual y Área de Asignación, respectivamente, definida en el Contrato o Asignación que corresponda.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE LA "PRIMERA MODIFICACIÓN AL ANEXO 27 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025", PUBLICADO EN EL D.O.F. DE 3 DE NOVIEMBRE DE 2025.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE EL "ANEXO 25 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2026", PUBLICADO EN EL D.O.F. DE 28 DE DICIEMBRE DE 2025.]</small>
 
 ###### Artículo 55.
 
@@ -1239,3 +1239,7 @@ El Servicio de Administración Tributaria puede emitir reglas de carácter gener
 RESOLUCIÓN MISCELÁNEA FISCAL DEL D.O.F. 3 DE NOVIEMBRE DE 2025.
 
 > <small>[N. DE E. VÉASE PRIMERA MODIFICACIÓN AL ANEXO 27 PUBLICADA EN EL D.O.F. DE 3 DE NOVIEMBRE DE 2025, PÁGINA 89, EN "ANEXOS 1, 14, 15, 26, 27, 29, 30, 31 Y 32 DE LA QUINTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, PUBLICADA EL 22 DE OCTUBRE DE 2025".]</small>
+
+RESOLUCIÓN MISCELÁNEA FISCAL DEL D.O.F. 28 DE DICIEMBRE DE 2025.
+
+> <small>[N. DE E. VÉASE ANEXO 25 PUBLICADO EN EL D.O.F. DE 28 DE DICIEMBRE DE 2025, PÁGINA 947, EN "ANEXOS 4, 5, 6, 8, 15 Y 25 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2026".]</small>
