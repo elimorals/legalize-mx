@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-fisica-deporte-y-recreacion-para-el-estado-65691
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2025-12-26"
+last_updated: "2025-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2008.
 
@@ -595,7 +595,9 @@ DE LA PARTICIPACIÓN Y ATRIBUCIONES DE LOS MUNICIPIOS.
 
 Las Autoridades Municipales, administrarán con transparencia y legalidad de manera directa las instalaciones deportivas Municipales, con el objeto de facilitar el acceso y uso de las mismas a las ligas, clubes, equipos y a las y los deportistas inscritos en el Registro Municipal correspondiente.
 
-Los Ayuntamientos podrán expedir sus respectivos Reglamentos, sin contravenir las disposiciones de esta Ley y su Reglamento.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
+Los ayuntamientos podrán expedir sus respectivos Reglamentos, sin contravenir las disposiciones de esta Ley y su Reglamento, conforme a los principios de equidad, igualdad sustantiva, máxima publicidad y rendición de cuentas.
 
 > <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
@@ -1956,5 +1958,11 @@ SEGUNDO. Los ayuntamientos del Estado deberán emitir o actualizar su normativid
 P.O. 26 DE DICIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 368 - LXVI POR EL QUE SE ADICIONAN LAS FRACCIONES V BIS Y IX TER AL ARTÍCULO 25 DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, EN MATERIA DE POLÍTICAS PÚBLICAS EN IGUALDAD DE CONDICIONES Y PREVENCIÓN DE LA VIOLENCIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 29 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 381 – LXVI POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 37 DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, EN MATERIA DE PRINCIPIOS RECTORES DE LOS REGLAMENTOS EXPEDIDOS POR LOS MUNICIPIOS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
