@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-72269"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-21"
-last_updated: "2024-12-26"
+last_updated: "2025-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 21 de diciembre de 2009.
 
@@ -71,11 +71,11 @@ El pago de las contribuciones a que se refiere esta Ley, deberá efectuarse en l
 
 Los comprobantes que se expidan por concepto de pago de derechos, tendrán vigencia hasta el 31 de diciembre del mismo año fiscal de su expedición. Concluida la vigencia únicamente podrá exigirse la contraprestación siempre y cuando se pague la diferencia que pudiera tener el costo presente de la misma, esta actualización no podrá extenderse por más de 5 años, plazo en el cual de manera definitiva quedarán sin efecto el o los pagos, sin derecho a devolución como tampoco a la contraprestación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. DE 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
 
 ARTÍCULO 3 bis.- Los ingresos derivados de las contribuciones previstas en la presente ley, previa autorización del H. Congreso del Estado, podrán ser afectados a fideicomisos de medio de pago o garantía y/o a fideicomisos constituidos para contratar financiamientos conforme a la Ley de Obligaciones, Financiamientos y Deuda Pública del Estado de Campeche y sus Municipios.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+La Secretaría de Administración y Finanzas podrá constituir fideicomisos públicos cuyo objeto sea la administración y gestión de los ingresos derivados de impuestos estatales y su destino a la potenciación de dichos recursos para la aplicación en proyectos prioritarios de inversión pública o la promoción de sectores prioritarios de desarrollo. Para su constitución los fideicomisos deberán sujetarse a lo establecido en el Decreto por el que el H. Congreso autorice su constitución y potenciación, así como a las disposiciones jurídicas aplicables.
 
 Para efectos de lo anterior, el Servicio de Administración Fiscal del Estado de Campeche, deberá transferir los ingresos que se recauden de la contribución correspondiente a las cuentas del fideicomiso que para tal efecto se establezca. Asimismo, el Servicio de Administración Fiscal del Estado de Campeche, deberá instruir a las instituciones de crédito y centros comerciales, a través de los cuales se recaude la contribución correspondiente, la transferencia directa de los ingresos derivados de dicha contribución a las cuentas de los fideicomisos antes señalados mediante la celebración de mandatos, convenios o actos jurídicos análogos que tengan tal finalidad.
 
@@ -319,21 +319,21 @@ IV. Expedir los comprobantes fiscales digitales por Internet que acrediten las e
 
 V. Las demás que señale esta Ley, el Código Fiscal del Estado y otros ordenamientos fiscales.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 27.
 
-Las personas físicas, las personas morales y las unidades económicas que en el ejercicio fiscal de que se trate, estén obligadas al pago de Impuesto Sobre Nóminas, en términos del Título Segundo, Capítulo III de esta Ley, estarán obligadas a dictaminar el correcto cumplimiento de las disposiciones fiscales de este impuesto, cuando en el año de calendario inmediato anterior, se ubiquen en cualquiera de los siguientes supuestos:
+Las personas físicas, las personas morales y las unidades económicas que, en el ejercicio fiscal de que se trate, estén obligadas al pago de Impuesto Sobre Nóminas en términos del Título Segundo, Capítulo III de esta Ley, estarán obligadas a dictaminar el correcto cumplimiento de las disposiciones fiscales de este impuesto, cuando en el año de calendario inmediato anterior, se ubiquen en cualquiera de los siguientes supuestos:
 
 I. Que hayan realizado erogaciones o pagos, en efectivo o especie, por concepto de remuneraciones al servicio personal subordinado, a un promedio mensual de cien o más trabajadores, o
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
-
-II. Que hayan realizado, en un mes o más, erogaciones o pagos, en efectivo o especie, por concepto de remuneraciones al servicio personal subordinado, acumulados por un millón de pesos o más.
+II. Que hayan realizado erogaciones o pagos, en efectivo o especie, por concepto de remuneraciones al servicio personal subordinado, en un promedio mensual de un millón de pesos o más.
 
 Las personas físicas, las personas morales y las unidades económicas obligadas al pago del Impuesto sobre Nóminas, en términos del Título Segundo, Capítulo III de esta Ley, que no se encuentren obligadas a presentar el dictamen mencionado en el párrafo anterior, podrán optar por dictaminarse respecto del año de calendario inmediato anterior, presentando el aviso correspondiente, y aplicando, para ello, los términos y las condiciones que establezcan el Código Fiscal del Estado de Campeche y las reglas de carácter general que emita el Servicio de Administración Fiscal del Estado de Campeche.
 
 El monto de la cantidad establecida en este artículo se actualizará en el mes de enero de cada año, con el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año al mes de diciembre del último año inmediato anterior a aquél por el cual se efectúe el cálculo, de conformidad con el procedimiento a que se refiere el artículo 27 del Código Fiscal del Estado de Campeche.
+
+Las instituciones públicas educativas estatales, descentralizadas o desconcentradas, que operen con recursos públicos asignados mediante presupuesto aprobado por el H. Congreso del Estado o por convenios con la Federación no están obligadas a dictaminarse en los términos del presente artículo.
 
 #### SECCIÓN SÉPTIMA. DE LAS EXENCIONES
 
@@ -1423,6 +1423,14 @@ gravámenes con descripción de medidas y colindancias 2.5
 
 25. Por alerta inmobiliaria de 12 meses 5
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
+26. Consulta o Búsqueda de asociaciones,
+
+sociedad civil, y de la beneficencia
+
+privada o asociados y socios. 6
+
 ### CAPÍTULO III. POR CERTIFICACIONES Y COPIAS CERTIFICADAS
 
 ###### ARTÍCULO 57.
@@ -1467,9 +1475,7 @@ a) Por la primera hoja 1.15
 
 b) Por las hojas subsiguientes, cada una .1
 
-III. Por los servicios a que se refiere la fracción III del artículo anterior.
-
-a) Por expedición de copias simples y fotostáticas, cada hoja .07
+III. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2025)
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -1655,17 +1661,15 @@ El pago de estos derechos deberá ser cubierto en las oficinas recaudadoras del 
 
 ### CAPÍTULO VI. POR EL USO O APROVECHAMIENTO DE BIENES PROPIEDAD DEL ESTADO O DE BIENES CONCESIONADOS AL ESTADO
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 70.
 
-Por derechos de peaje por el uso del Puente “La Unidad Eugenio Echeverría Castellot”, ubicado sobre la carretera federal número 180, en el Municipio de Carmen, que comunica al extremo oriente de la Isla del Carmen (Puerto Real) con la parte continental (Isla Aguada), se cobrarán las cuotas o tarifas establecidas por el Gobierno Federal en las bases de regulación tarifaria contenidas en el título de concesión que ése otorgó, a través de la Secretaría de Comunicaciones y Transportes al Estado de Campeche, el día 15 de marzo de 2005.
+Por derechos de peaje por el uso del “Nuevo Puente La Unidad”, de jurisdicción federal, de 3.222 km de longitud, con origen en la Isla del Carmen y terminación en Isla Aguada, ubicado en el municipio de Carmen, se cobrarán las tarifas establecidas en las Bases de Regulación Tarifaria contenidas en el Título de Concesión otorgado por el Gobierno Federal, por conducto de la Secretaría de Comunicaciones y Transportes al Estado de Campeche, el día 15 de diciembre de 2016.
 
-Por derechos de peaje por el uso del “Nuevo Puente de la Unidad, Eugenio Echeverria Castellot”, de jurisdicción federal, de 3.222 Km de longitud, con origen en la Isla del Carmen y terminación en Isla Aguada, ubicado en el municipio de Carmen, se cobrarán las tarifas establecidas en las Bases de Regulación Tarifaria contenidas en el título de concesión otorgado por el Gobierno Federal, por conducto de la Secretaría de Comunicaciones y Transportes al Estado de Campeche, el día 15 de diciembre de 2016.
+Estos derechos se pagarán en la caseta de cobro que para tal efecto establezca la autoridad fiscal, y serán administrados en su totalidad a través de un Fideicomiso Irrevocable de Inversión, Administración y Fuente de Pago de conformidad con el Título de Concesión y los Decretos 130, 136 y 150 publicados en el Periódico Oficial del Estado.
 
-Estos derechos se pagarán en la caseta de cobro de la Secretaría de Finanzas del Estado, y seran administrados en su totalidad a través de un Fideicomiso Irrevocable de Inversión, Administración y Fuente de Pago de conformidad con el título de Concesión y los decretos 130, 136 y 150 publicados en el Periódico Oficial del Estado.
-
-El Estado podrá implementar descuentos en las tarifas, en el entendido de que éstas no podrán exceder a las autorizadas por la Secretaría de Comunicaciones y Transportes, en términos de la Concesión. En el caso de existir algún Programa de Residentes, dicho programa deberá aplicarse para los habitantes del municipio de Carmen.
+El Estado podrá implementar descuentos en las tarifas, en el entendido de que estas no podrán exceder a las autorizadas por la Secretaría de Comunicaciones y Transportes, en términos de la Concesión. En el caso de existir algún Programa de Residentes, dicho programa deberá aplicarse para los habitantes del municipio de Carmen.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
@@ -2121,13 +2125,15 @@ colectivos, taxis, carga en general,
 
 grúas, BRT, DRT y servicio mixto. 50
 
-b) Por el estudio para la solicitud
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
 
-de concesión de servicio
+b) Por el estudio para la
+
+solicitud de concesión de servicio
 
 especializado de transporte para la
 
-modalidad de mototaxis. 12
+modalidad de mototaxis. 25
 
 c) Por el otorgamiento de una
 
@@ -2141,13 +2147,15 @@ autobuses, colectivos, taxis, carga
 
 en general y grúas. 40
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
 d) Por el otorgamiento de una concesión
 
 de servicio público de transporte, a
 
 solicitud de la parte interesada, para
 
-la modalidad de mototaxis. 8
+la modalidad de mototaxis. 20
 
 e) Por el otorgamiento de una
 
@@ -2207,19 +2215,21 @@ colectivos, taxis, carga en general,
 
 grúas y servicio mixto. 25
 
-l) Por la expedición de un nuevo
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
 
-título de concesión de servicio público
+l) Por la expedición de un nuevo título
 
-de transporte, con motivo del cambio
+de concesión de servicio público de
 
-de titular por la incapacidad física
+transporte, con motivo del cambio de
 
-o mental, declaración de ausencia
+titular por la incapacidad física o
 
-o fallecimiento del concesionario,
+mental, declaración de ausencia o
 
-en la modalidad de mototaxis. 6
+fallecimiento del concesionario, en
+
+la modalidad de mototaxis. 30
 
 m) Por la reposición de un título
 
@@ -2233,13 +2243,17 @@ autobuses, colectivos, taxis, carga
 
 en general, grúas, BRT y servicio mixto. 25
 
-n) Por la reposición de un título de
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
 
-concesión de servicio público de
+n) Por la reposición de un título
 
-transporte, por modificación, robo
+de concesión de servicio público
 
-o extravío, en la modalidad de mototaxi. 6
+de transporte, por modificación,
+
+robo o extravío, en la modalidad
+
+de mototaxi. 10
 
 o) Por la revisión física y mecánica de
 
@@ -2253,13 +2267,15 @@ en general, grúas, BRT, DRT y
 
 servicio mixto. 10
 
-p) Por la revisión física y mecánica de
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
 
-los vehículos destinados al transporte
+p) Por la revisión física y mecánica
 
-público y mercantil, en la modalidad
+de los vehículos destinados al
 
-de mototaxis. 3
+transporte público y mercantil, en la
+
+modalidad de mototaxis. 6
 
 q) Por la tramitación, estudio y
 
@@ -2275,15 +2291,17 @@ de autobuses, colectivos, BRT, DRT
 
 y servicio mixto. 20
 
-r) Por la modificación, ampliación
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
 
-o creación de una ruta de transporte
+r) Por la modificación, ampliación o
+
+creación de una ruta de transporte
 
 público, en las modalidades de
 
-autobuses, colectivos, BRT, DRT y
+autobuses, colectivos, BRT, DRT
 
-servicio mixto. 15
+y servicio mixto. 20
 
 s) Por la ampliación del parque vehicular
 
@@ -2331,11 +2349,13 @@ servicio público o mercantil de
 
 transporte para la modalidad de mototaxi. 4
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
 y) Por el resello anual por vehículo
 
 del servicio público de transporte,
 
-en la modalidad de BRT o DRT. 62
+en la modalidad de DRT. 62
 
 z) Por el resello anual por
 
@@ -2345,15 +2365,15 @@ transporte, en la modalidad de
 
 servicio mixto. 22
 
-aa) Por el dictamen favorable para
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
 
-el alta y baja de socios y
+aa) Por el dictamen para el alta y
 
-cambio de los estatutos sociales
+baja de socios y cambio de los
 
-de las sociedades cooperativas
+estatutos sociales de las sociedades
 
-y mercantiles. 50
+cooperativas y mercantiles. 50
 
 bb) Por la tramitación y expedición
 
@@ -2381,19 +2401,19 @@ de la autorización sea menor
 
 se cobrará la parte proporcional. 20
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
 cc) Por la tramitación y expedición
 
-de un permiso temporal de hasta
+de un permiso temporal dehasta (sic) por
 
-por un año, de un servicio de
+un año, de un servicio de transporte
 
-transporte público y mercantil
+público y mercantil de transporte,
 
-de transporte, cuando exista
+cuando exista una necesidad de servicio
 
-una necesidad de servicio inmediata,
-
-en la modalidad de mototaxi. 3
+inmediata, en la modalidad de mototaxi 6
 
 dd) Por la expedición de la
 
@@ -2403,13 +2423,17 @@ pasajeros a las empresas de redes
 
 de transporte tecnológicos 4820
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
 ee) Por la expedición del certificado
 
 de operador titular de transporte de
 
 pasajeros contratado a través de
 
-plataformas tecnológicas. 10
+plataformas tecnológicas. 12
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
 
 ff) Por la expedición de la constancia
 
@@ -2417,7 +2441,15 @@ para el vehículo registrado como
 
 transporte de pasajeros contratado
 
-a través de plataformas tecnológicas. 10
+a través de plataformas tecnológicas. 12
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
+gg) Por el resello anual por vehículo
+
+del servicio público de transporte, en
+
+la modalidad de BRT. 20
 
 > <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 26 DE DICIEMBRE DE 2024)</small>
 
@@ -2533,7 +2565,7 @@ III. Reposición por extravío o destrucción de la
 
 Acreditación como Agente inmobiliario 10
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 72-B.
 
@@ -2543,83 +2575,153 @@ CONCEPTO Unidades de Medida
 
 y Actualización
 
-I. Elaboración de Dictámenes de Análisis de Peligro
+I. Elaboración de Dictámenes de
 
-o Riesgo 30
+Análisis de Peligro o Riesgo. 48
 
-II. Revisión de Dictámenes de Análisis de Peligro o
+II. Revisión de Dictámenes de Análisis
 
-Riesgo elaborados por Municipios o por Terceros
+de Peligro o Riesgo elaborados por
 
-Acreditados 5
+Municipios o por Terceros Acreditados. 8
 
-III. Expedición de Constancias de Registro que
+III. Expedición de Constancias de Registro
 
-se otorguen a las personas físicas capacitadoras e
+que se otorguen a las personas físicas
 
-instructores en materia de protección civil 28
+capacitadoras e instructores en materia
 
-IV. Prorroga/revalidación de Constancias de Registro
+de protección civil. 35
 
-que se otorguen a las personas físicas capacitadoras e
+IV. Prorroga/revalidación de
 
-instructores en materia de protección civil 15
+Constancias de Registro que se otorguen
 
-V. Expedición de Constancias de Registro que se
+a las personas físicas capacitadoras
 
-otorguen a las empresas capacitadoras e instructores
+e instructores en materia de
 
-en materia de protección civil 38
+protección civil. 20
 
-VI. Prórroga/revalidación de Constancias de Registro
+V. Expedición de Constancias de
 
-que se otorguen a las empresas capacitadoras e
+Registro que se otorguen a las
 
-instructores en materia de protección civil 20
+empresas capacitadoras e instructores
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+en materia de protección civil. 45
+
+VI. Prórroga/revalidación de
+
+Constancias de Registro que se
+
+otorguen a las empresas capacitadoras
+
+e instructores en materia de
+
+protección civil 25
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 72-C.
 
-Por los servicios que proporciona la Secretaría de Protección y Seguridad Ciudadana para regular la prestación de servicios de seguridad privada, se causarán y pagarán los derechos siguientes:
+Por los servicios que proporciona la Secretaría de Protección y Seguridad Ciudadana, se causarán y pagarán los derechos siguientes:
 
-Concepto Unidades de Medida y
+Concepto Unidades de Medida
 
-Actualización
+y Actualización
 
-I. Por la inscripción y autorización expedida por la
+I. Para regular la prestación
 
-Unidad de Registro Estatal de Empresas, Personal y
+de servicios de empresas de
 
-Equipo de Seguridad Privada en sus distintas
+seguridad privada:
 
-modalidades. 30
+a) Por la inscripción y autorización
 
-II. Por la Revalidación de la Autorización expedida por
+expedida por la Unidad de Registro
 
-la Unidad de Registro Estatal de Empresas, Personal y
+Estatal de Empresas, Personal y
 
-Equipo de Seguridad Privada en sus distintas
+Equipo de Seguridad Privada en sus
 
-modalidades. 20
+distintas modalidades. 30
 
-III. Por la consulta de antecedentes policiales y la
+b) Por la Revalidación de la Autorización
 
-inscripción en el Registro Nacional del Personal de
+expedida por la Unidad de Registro
 
-Seguridad Pública mediante la expedición de la Clave
+Estatal de Empresas, Personal y
 
-Única de Identificación Permanente del personal
+Equipo de Seguridad Privada en sus
 
-operativo que preste servicios de seguridad privada. 3
+distintas modalidades. 20
 
-IV. Por la autorización a empresas de seguridad privada,
+c) Por la consulta de antecedentes
 
-para el uso de torretas color ámbar, verde o la
+policiales y la inscripción en el
 
-combinación de éstos, a vehículos utilitarios de las
+Registro Nacional del Personal de
 
-empresas de seguridad privada por el período de un año. 20
+Seguridad Pública mediante la
+
+expedición de la Clave Única
+
+de Identificación Permanente
+
+del personal operativo que preste
+
+servicios de seguridad privada. 3
+
+d) Por la autorización a empresas de
+
+seguridad privada, para el uso de
+
+torretas color ámbar, verde o la
+
+combinación de éstos, a vehículos
+
+utilitarios de las empresas de seguridad
+
+privada por el período de un año. 20
+
+II. Para regular la prestación de
+
+servicios de las escuelas e instructores
+
+de manejo de vehículos:
+
+a) Por la expedición del permiso
+
+oficial de funcionamiento de escuelas
+
+de manejo. 70
+
+b) Por la revalidación del permiso
+
+oficial de funcionamiento de escuelas
+
+de manejo. 60
+
+c) Expedición de constancia de
+
+verificación vehicular y revisión
+
+mecánica por cada vehículo registrado
+
+de las escuelas de manejo. 15
+
+d) Expedición de constancia de
+
+verificación física de bienes y
+
+cumplimiento de requisitos de seguridad
+
+de las instalaciones. 15
+
+e) Constancia de certificación como
+
+instructor de escuelas de manejo. 15
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
@@ -3942,3 +4044,11 @@ PRIMERO.- El presente Decreto entrará en vigor el 1° de enero de 2025, previa 
 SEGUNDO.- La reforma a la fracción II del artículo 27 de la Ley de Hacienda del Estado de Campeche, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía del marco jurídico estatal en todo lo que se opongan al contenido del presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 185 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 3 BIS; 27; 70; LOS INCISOS B), D), L), N), P), R), Y), AA), CC), EE) Y FF) DE LA FRACCIÓN XXIV DEL ARTÍCULO 72; LOS ARTÍCULOS 72-B; 72-C; SE ADICIONAN EL NUMERAL 26 A LA FRACCIÓN IV DEL ARTÍCULO 56; EL INCISO GG) A LA FRACCIÓN XXIV DEL ARTÍCULO 72 Y, SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 58, TODOS DE LA LEY DE HACIENDA DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor el 1 de enero de 2026, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias, de igual o menor jerarquía, que se opongan al contenido del presente decreto.
