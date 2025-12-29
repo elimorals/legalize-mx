@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1148
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-03"
-last_updated: "2024-04-17"
+last_updated: "2025-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "NAY"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE NAYARIT
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 29 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el martes 3 de mayo de 2016.
 
@@ -2688,3 +2690,65 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Para sus efectos conducentes, comuníquese el presente Decreto al Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit, así como para que, a través de este, se informe a los Sujetos Obligados en materia de transparencia de la entidad.
 
 TERCERO. Se establece un lapso máximo de ciento ochenta días naturales a partir de la fecha de entrada en vigor del presente Decreto, para que el Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit implemente de ser el caso, las medidas técnicas y operativas a fin de que los Sujetos Obligados en materia de transparencia de la entidad, estén en condiciones de realizar la entrega de informes de manera digital.
+
+P.O. 29 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NAYARIT".]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. A la entrada en vigor de la presente Ley se abroga la Ley de Transparencia y Acceso a la Información Pública para el Estado de Nayarit, publicada en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, el 3 de mayo de 2016.
+
+TERCERO. Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto al Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit, se entenderán hechas o conferidas a los entes públicos que adquieren tales atribuciones o funciones, según corresponda.
+
+CUARTO. A partir de la publicación del presente Decreto, el Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit, deberá iniciar el proceso de transferencia de los recursos financieros y materiales, tanto a la Secretaría de Administración y Finanzas y a la Secretaría General de Gobierno, respectivamente, con base en las disposiciones normativas vigentes.
+
+La Secretaría de Administración y Finanzas y la Secretaría General de Gobierno, en coordinación con la Secretaría para la Honestidad y Buena Gobernanza, en el ámbito de sus respectivas competencias, dentro del plazo de treinta días naturales deberán emitir y ejecutar un plan de trabajo para garantizar el proceso de transferencia y resolverán de conformidad con la normatividad aplicable, sobre los aspectos administrativos no contemplados en el presente Decreto, para la asignación de los recursos financieros, de los programas y partidas presupuestales, así como de los recursos humanos y materiales, según correspondan, para la debida ejecución del presente Decreto.
+
+QUINTO. Los procedimientos iniciados con anterioridad a la entrada en vigor de esta Ley ante el Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit, en materia de acceso a la información pública, se sustanciarán ante la Agencia de Acceso a la Información y Gobierno Abierto y el recurso de revisión que será resuelto por la Secretaría para la Honestidad y Buena Gobernanza, conforme a las disposiciones aplicables vigentes al momento de su inicio.
+
+La defensa legal ante autoridades administrativas, jurisdiccionales o judiciales de los actos administrativos y jurídicos emitidos por el Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit, así como el seguimiento de los que se encuentren en trámite, incluso los procedimientos penales y laborales, se llevarán a cabo por el órgano desconcentrado denominado Agencia de Acceso a la Información y Gobierno Abierto.
+
+El órgano desconcentrado denominado Agencia de Acceso a la Información y Gobierno Abierto podrá remitir a la autoridad garante competente aquellos asuntos que se mencionan en los párrafos anteriores que le corresponda conforme al ámbito de sus atribuciones para su atención.
+
+Asimismo, dicho Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit, deberá remitir a la Secretaría de Administración y Finanzas la información y formatos necesarios para la integración de la Cuenta Pública y de los demás informes correspondientes al trimestre fiscal en curso, en términos de las disposiciones jurídicas aplicables, a la entrada en vigor del presente Decreto.
+
+SEXTO. Las personas que, a la entrada en vigor del presente Decreto, sean o hayan sido servidoras públicas del Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit y que tengan pendiente la presentación de la declaración patrimonial y de intereses en cualquiera de sus modalidades, deberán cumplir con esta obligación en los sistemas habilitados por la Secretaría para la Honestidad y Buena Gobernanza o en los medios que esta determine, conforme a la normativa aplicable a la Administración Pública Estatal.
+
+Las personas que dentro de los diez días previos a la entrada en vigor del presente Decreto se hayan desempeñado como personas servidoras públicas del Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit, incluyendo a las personas Comisionadas, deben presentar acta administrativa de entrega-recepción institucional e individual, según corresponda, a la persona servidora pública que la Secretaría para la Honestidad y Buena Gobernanza designe y conforme a la normativa aplicable a la Administración Pública Estatal, en los sistemas de la referida dependencia habilitados para tales efectos o en los medios que ésta determine, en el entendido de que la entrega que se realice no implica liberación alguna de responsabilidades.
+
+SÉPTIMO. La persona titular del Poder Ejecutivo del Estado deberá expedir el Reglamento Interno de Agencia de Acceso a la Información y Gobierno Abierto dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto.
+
+OCTAVO. Con motivo de las presentes reformas, se respetarán en todo momento los derechos laborales de las personas servidoras públicas del Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit, conforme a las disposiciones jurídicas aplicables.
+
+NOVENO. Los registros, padrones y sistemas informáticos, con los que cuenta el Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit, incluso los que ya no se utilicen, pero contengan registros históricos, incluida su documentación y titularidad, serán transferidos a la Secretaría General de Gobierno.
+
+DÉCIMO. Los expedientes y archivos que a la publicación del presente Decreto estén a cargo del Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit, para el ejercicio de sus facultades sustantivas, competencias o funciones, de conformidad con la Ley General de Archivos y demás disposiciones jurídicas aplicables, serán transferidos a la Secretaría General de Gobierno dentro de los diez días siguientes a la publicación del presente Decreto.
+
+La Secretaría General de Gobierno, dentro de los treinta días naturales siguientes contados a partir de que se reciban los expedientes y archivos que se mencionan en el párrafo anterior, dentro de los treinta días naturales siguientes contados a partir de que se reciban los expedientes y archivos que se mencionan en el párrafo anterior, podrá transferirlos a la autoridad correspondiente.
+
+DÉCIMO PRIMERO. El Órgano Interno de Control del Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit queda extinto y sus asuntos y procedimientos que a la publicación del presente Decreto estén a su cargo, así como los expedientes y archivos, serán transferidos a la Secretaría para la Honestidad y Buena Gobernanza dentro de los diez días hábiles siguientes a su publicación, y serán tramitados y resueltos por dicho órgano conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+
+DÉCIMO SEGUNDO. El Órgano de Control y Disciplina del Poder Judicial; los Órganos Internos de Control de los Órganos Constitucionales Autónomos y la Contraloría Interna del Poder Legislativo del Estado; en un plazo máximo de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto deberán realizar las adecuaciones necesarias a su normativa interna para dar cumplimiento a lo dispuesto en este instrumento.
+
+DÉCIMO TERCERO. Se suspenden por un plazo de noventa días naturales contados a partir de la publicación de este Decreto todos y cada uno de los trámites, procedimientos y demás medios de impugnación, establecidos en este instrumento y demás normativa aplicable, con excepción de la recepción y atención de las solicitudes de información que se tramitan a través de la Plataforma Nacional de Transparencia.
+
+DÉCIMO CUARTO. Los municipios deberán cumplir con las obligaciones a su cargo en materia de transparencia y acceso a la información, en los términos previstos por el artículo Décimo Primero Transitorio de la Ley General de Transparencia y Acceso a la Información Pública.
+
+DÉCIMO QUINTO. El Comité del Subsistema de Transparencia deberá instalarse a más tardar en sesenta días naturales a partir de la entrada en vigor de la presente Ley, de conformidad con lo que establezca la Secretaría General de Gobierno.
+
+DÉCIMO SEXTO. Con la entrada en vigor de la presente Ley, se crea la Comisión de Transición en materia de Transparencia, integrada por la persona titular de la Secretaría Ejecutiva del Instituto que se encuentren en funciones previo a la entrada en vigor de este ordenamiento y las personas titulares de la Secretaría de Administración y Finanzas, la Secretaría para la Honestidad y Buena Gobernanza y la Secretaría General de Gobierno y será presidida por la persona titular de esta última dependencia.
+
+La Comisión de Transición en materia de Transparencia del Estado acordará y coordinará las acciones encaminadas a realizar una transición ordenada de las facultades, obligaciones, presupuestos, recursos materiales, tecnológicos, financieros, archivos y capital humano que se realicen con motivo de lo dispuesto en esta Ley.
+
+La Comisión de Transición estará vigente por un periodo máximo de treinta días naturales, en el que sus integrantes participarán con las diversas autoridades competentes para recibir los asuntos que se señalan en los transitorios antes citados y realizar las demás acciones que se consideren necesarias para dichos efectos.
+
+DÉCIMO SÉPTIMO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+DÉCIMO OCTAVO. El 31 de diciembre de 2025, quedará extinto el Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit.
+
+DÉCIMO NOVENO En virtud de lo dispuesto en el presente Decreto se da por concluida la relación laboral del personal de confianza del Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit, de conformidad con lo establecido en el artículo 6° de la Ley de Derechos y Justicia Laboral para los Trabajadores al Servicio del Estado de Nayarit.
+
+VIGÉSIMO. Se faculta a la Secretaría de Administración y Finanzas del Gobierno del Estado de Nayarit, para que en un plazo de sesenta días naturales contados a partir de la entrada en vigor del presente decreto lleve a cabo las acciones necesarias presupuestarias para su cumplimiento.
+
+VIGÉSIMO PRIMERO. Se crea (sic) Agencia de Acceso a la Información y Gobierno Abierto, como órgano desconcentrado de la Secretaría General de Gobierno del Poder Ejecutivo del Estado de Nayarit.
