@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-la-empresa-publica-del-estado-182584"
 country: "mx"
 rank: "reglamento"
 publication_date: "2025-12-02"
-last_updated: "2025-12-02"
+last_updated: "2025-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=182584&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2025-11-26"
 ---
 # REGLAMENTO DE LA LEY DE LA EMPRESA PUBLICA DEL ESTADO, COMISION FEDERAL DE ELECTRICIDAD
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE DICIEMBRE DE 2025 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO DE LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, COMISIÓN FEDERAL DE ELECTRICIDAD
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 29 DE DICIEMBRE DE 2025.]</small>
 
 Reglamento publicado en el Número 323/2025 del Diario Oficial de la Federación, el martes 2 de diciembre de 2025.
 
@@ -587,7 +587,9 @@ Los recursos aportados, contenidos y obtenidos en fideicomisos, mandatos o contr
 
 La constitución, celebración y operación de fideicomisos, de mandatos o contratos análogos en los que se aporten recursos económicos distintos a los considerados en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente, que al efecto autorice el Consejo de Administración, se deben regir por las disposiciones jurídicas aplicables.
 
-La información y documentación con que cuente o solicite Petróleos Mexicanos en relación con los fideicomisos, mandatos o contratos análogos a que se refiere este artículo, se deben sujetar a las disposiciones de control y auditoría que determine el Consejo de Administración, sin perjuicio de las demás disposiciones jurídicas que le resulten aplicables.
+> <small>(F. DE E., D.O.F. 29 DE DICIEMBRE DE 2025)</small>
+
+La información y documentación con que cuente o solicite Comisión Federal de Electricidad en relación con los fideicomisos, mandatos o contratos análogos a que se refiere este artículo, se deben sujetar a las disposiciones de control y auditoría que determine el Consejo de Administración, sin perjuicio de las demás disposiciones jurídicas que le resulten aplicables.
 
 ###### Artículo 69.
 
