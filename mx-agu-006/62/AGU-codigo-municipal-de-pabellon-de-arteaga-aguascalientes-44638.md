@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2024-10-14"
+last_updated: "2025-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2025.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -311,7 +311,9 @@ Son Autoridades del Gobierno Municipal, las siguientes:
 
 I.- El H. Ayuntamiento;
 
-II.- El Presidente Municipal;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
+II.- El Presidente, la Presidenta y/o Persona Titular de la Presidencia Municipal;
 
 III.- Las dependencias y entidades que conforman la Administración Pública Municipal, así como sus titulares y funcionarios;
 
@@ -567,11 +569,11 @@ XV.- Informar a la Dirección de Desarrollo Social acerca de los avances de sus 
 
 ### CAPITULO SEGUNDO. Del Ayuntamiento
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 18.
 
-El órgano supremo de gobierno del Municipio de Pabellón de Arteaga, es el H. Ayuntamiento el cual se integra por un Presidente Municipal, cuatro regidores electos por el principio de mayoría relativa, hasta cuatro regidores electos por el principio de representación proporcional y un síndico.
+El órgano supremo de gobierno del Municipio de Pabellón de Arteaga, es el H. Ayuntamiento el cual privilegia la Equidad de Género, la Igualdad y la Inclusión y se integra por una Presidenta, Presidente y/o Persona Titular de la Presidencia Municipal, cuatro regidoras, regidores y/o personas titulares de la regiduría electos por el principio de mayoría relativa, hasta cuatro regidoras, regidores y/o personas titulares de la regiduría electos por el principio de representación proporcional y una síndica, un síndico y/o Persona Titular de Sindicatura.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -667,9 +669,9 @@ XVIII.- Autorizar la relotificación, fusión y subdivisión de terrenos a trav�
 
 XIX.- Expedir la autorización de fraccionamiento de predios y la constitución del régimen de propiedad en condominio de conformidad con las disposiciones que establece el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes, las leyes de la materia, planes y programas de desarrollo urbano estatal, así como reservas, usos y destinos de áreas y predios, todo ello con la concurrencia del Estado;
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2025)</small>
 
-XX.- Establecer un sistema de asistencia social a favor de los menores de edad, la integración familiar, los senectos y otros sectores de la población en condiciones de vulnerabilidad o rezago social y, en general, establecer programas cuyo propósito sea el desarrollo integral de la persona humana;
+XX.- Establecer un sistema de asistencia social a favor de los menores de edad, la integración familiar, los senectos y otros sectores de la población en condiciones de vulnerabilidad o rezago social y, en general, establecer programas cuyo propósito sea el desarrollo integral de la persona humana; apoyos sociales a madres y padres solteros, viudos o en situación de vulnerabilidad.
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -16757,9 +16759,9 @@ Los elementos operativos de seguridad pública que colaboren en un siniestro con
 
 En todo lo relativo a derechos de los elementos del servicio de Bomberos, correctivo disciplinario, régimen disciplinario y causas de destitución de los elementos, serán aplicables los artículos relativos a los elementos operativos.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
 
-A fin de reconocer a los servidores públicos que se destaquen por su desempeño dentro del Departamento de Protección Civil, el Ayuntamiento, por conducto del Presidente Municipal y los integrantes de la Comisión Permanente de Postulaciones, entregará de forma trimestral un estímulo consistente en el valor de 50 Unidades de Medida y Actualización al elemento que durante ese periodo se haya destacado por su dedicación en los procesos de formación continua y evaluación del desempeño y que haya realizado acciones relevantes en favor de la sociedad.
+A fin de reconocer a los servidores públicos que se destaquen por su desempeño dentro de los Departamentos de Protección Civil y Seguridad Pública, el Ayuntamiento, por conducto del Presidente Municipal y los integrantes de la Comisión Permanente de Postulaciones, entregará de forma trimestral un estímulo consistente en el valor de 50 Unidades de Medida y Actualización al elemento que durante ese periodo se haya destacado en cada departamento por su dedicación en los procesos de formación continua y evaluación del desempeño y que haya realizado acciones relevantes en favor de la sociedad.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
 
@@ -30640,3 +30642,43 @@ P.O. 14 DE OCTUBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONAN UN SEGUNDO Y UN TERCER PÁRRAFO AL INCISO D), DE LA FRACCIÓN II, DEL ARTÍCULO 360, DEL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 29 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 14 Y 18 DEL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA".]
+
+###### ARTÍCULO PRIMERO
+
+La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO
+
+Todos los artículos del Código de Pabellón de Arteaga, que mencionan el Presidente, se deberá entender Presidenta, Presidente y/o Persona Titular de Presidencia. Los Regidores, se deberá entender Regidoras, Regidores y/o Personas Titulares de la Regiduría. El Síndico, se deberá entender Síndica, Síndico y/o Persona Titular de Sindicatura. El Director, se deberá entender Directora, Director y/o Persona Titular de la Dirección. Jefe, Jefa y/o Persona Titular de la Jefatura. Servidor Público, se deberá entender Servidora, Servidor y/o Persona Titular del Servicio Público. Esta leyenda en cada uno de los textos que se mencionan de manera textual para titulares. El lenguaje empleado no busca generar ninguna distinción ni marcar diferencias entre género, por lo que las referencias o alusiones en la redacción hechas hacia un género representan a la persona servidora pública, sin discriminación alguna.
+
+P.O. 29 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 856 DEL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1 de enero de 2026.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deja sin efecto todos los acuerdos, disposiciones normativas y reglamentarias del Municipio de Pabellón de Arteaga que contravengan el presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 21 DEL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La intención de esta iniciativa es que las madres y padres tengan acceso a los descuentos de agua potable, predial, programas de asistencia social y alimentaria, becas escolares y apoyos educativos, espacios de cuidado infantil y estancias municipales, asesoría legal y apoyo psicológico.
+
+###### ARTÍCULO TERCERO.
+
+Para efecto de acreditar el estado de vulnerabilidad, el Síndico Municipal expedirá las cartas de soltería.
