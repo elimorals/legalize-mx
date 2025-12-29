@@ -4,7 +4,7 @@ identifier: "CAM-codigo-fiscal-del-estado-de-campeche-65708"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-08"
-last_updated: "2024-12-26"
+last_updated: "2025-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65708&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO FISCAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2025.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Campeche, el lunes 8 de diciembre de 2008.
 
@@ -719,7 +719,9 @@ El crédito fiscal se extingue por prescripción en término de cinco años.
 
 El término de la prescripción se inicia a partir de la fecha en que el pago pudo ser legalmente exigido y se podrá oponer como excepción en los recursos administrativos o a través del juicio contencioso administrativo. El término para que se consuma la prescripción se interrumpe con cada gestión de cobro que el acreedor notifique o haga saber al deudor o por el reconocimiento expreso o tácito de éste respecto de la existencia del crédito. Se considera gestión de cobro cualquier actuación de la autoridad dentro del procedimiento administrativo de ejecución, siempre que se notifique al deudor de conformidad con lo que establece el presente Código.
 
-Cuando se suspenda el procedimiento administrativo de ejecución en los términos del artículo 144 de este Código, también se suspenderá el plazo de la prescripción.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
+Cuando se suspenda el procedimiento administrativo de ejecución en los términos del artículo 114 de este Código, también se suspenderá el plazo de la prescripción.
 
 Asimismo, se suspenderá el plazo a que se refiere este artículo cuando el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal.
 
@@ -1007,17 +1009,21 @@ En el caso de que en el dictamen a que se refiere la fracción II del párrafo s
 
 Cuando las leyes fiscales establezcan la obligación de expedir comprobantes fiscales por las contraprestaciones e ingresos que se cobren, así como por las erogaciones o pagos que se realicen por concepto de remuneraciones al servicio personal subordinado y/o asimilado, los contribuyentes deberán emitirlos de conformidad con el Código Fiscal de la Federación, cumpliendo con los requisitos que en el referido Código se señalan. En el caso de los contribuyentes del impuesto sobre hospedaje y a las erogaciones en juegos y concursos, los comprobantes deberán de contener adicionalmente en forma expresa y por separado el monto de este impuesto.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 51.
 
-Las personas físicas, las personas morales y las unidades económicas que en el año de calendario inmediato anterior de que se trate, estén obligados o que hayan optado por dictaminar el correcto cumplimiento de las disposiciones fiscales del Impuesto Sobre Nóminas, regulado en el Título Segundo, Capítulo III, de la Ley de Hacienda del Estado de Campeche, deberán presentar el dictamen, a más tardar, el 31 de julio del año de calendario siguiente a aquel que se dictamina, en términos de lo que establecen la Ley de Hacienda del Estado de Campeche, este Código y las reglas de carácter general que emita el Servicio de Administración Fiscal del Estado de Campeche.
+Las personas físicas, las personas morales y las unidades económicas que en el año de calendario inmediato anterior de que se trate, estén obligados o que hayan optado por dictaminar el correcto cumplimiento de las disposiciones fiscales del Impuesto Sobre Nóminas, regulado en el Título Segundo, Capítulo III, de la Ley de Hacienda del Estado de Campeche, deberán presentar el dictamen, a más tardar, el 31 de agosto del año de calendario siguiente a aquel que se dictamina, en términos de lo que establecen la Ley de Hacienda del Estado de Campeche, este Código y las reglas de carácter general que emita el Servicio de Administración Fiscal del Estado de Campeche.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 Cuando las personas físicas, las personas morales y las unidades económicas estén obligadas o hayan optado por dictaminar la determinación y pago del Impuesto sobre Nóminas, deberán presentar el aviso correspondiente, a través de los medios que establezca el Servicio de Administración Fiscal del Estado de Campeche.
 
-El aviso para dictaminarse se presentará, a más tardar, el 31 de enero del año de calendario siguiente al que se opte por dictaminar.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
+El aviso para dictaminarse se presentará, a más tardar, el 31 de marzo del año de calendario siguiente al que se opte por dictaminar.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 El aviso a que se refiere este artículo no surtirá efectos cuando:
 
@@ -1028,6 +1034,8 @@ b) La o el Contador Público propuesto no cuente con el registro correspondiente
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 c) Cuando se presente de manera extemporánea.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 El período del dictamen deberá abarcar el cumplimiento de las disposiciones fiscales del Impuesto Sobre Nóminas, reguladas en el Título Segundo, Capítulo III, de la Ley de Hacienda del Estado de Campeche, correspondiente al año calendario inmediato anterior.
 
@@ -1375,6 +1383,8 @@ En el caso de que los visitadores obtengan copias certificadas de la contabilida
 
 Lo dispuesto en el párrafo anterior no es aplicable cuando los visitadores obtengan copias de solo parte de la contabilidad. En este caso, se levantará el acta parcial señalando los documentos de los que se obtuvieron copias, pudiéndose continuar la visita en el domicilio o establecimiento del visitado. En ningún caso las autoridades fiscales podrán recoger la contabilidad del visitado.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 67.
 
 La visita en el domicilio fiscal se desarrollará conforme a las siguientes reglas:
@@ -1393,19 +1403,21 @@ c) No se hayan presentado todas las declaraciones periódicas a que obligan las 
 
 Para efectos del aseguramiento de contabilidad, los visitadores procederán indistintamente a sellar o colocar marcas en dichos documentos o bienes, que podrán ser depositados en cajas o en el lugar que el visitado o la persona con quien se entienda la diligencia designe, así como dejarlos en calidad de depósito, previo inventario que al efecto formulen, siempre que dicho aseguramiento no impida la realización de las actividades del visitado. Para efectos de esta fracción, se considera que no se impide la realización de actividades, cuando se asegure contabilidad o correspondencia no relacionada con las actividades del mes en curso y los dos anteriores. En el caso de que algún documento materia del aseguramiento, sea necesario al visitado para realizar sus actividades, se le permitirá extraerlo ante la presencia de los visitadores, quienes podrán sacar copia del mismo.
 
-Con las mismas formalidades a que se refieren las fracciones anteriores, se podrán levantar actas parciales o complementarias en las que se hagan constar hechos, omisiones, o circunstancias de carácter concreto de los que se tenga conocimiento en el desarrollo de una visita. Una vez levantada el acta final, no se podrán levantar actas complementarias sin que exista una nueva orden de visita, salvo en el caso de reposición de procedimiento efectuado en los términos de este Código.
+IV. Con las mismas formalidades a que se refieren las fracciones anteriores, se podrán levantar actas parciales o complementarias en las que se hagan constar hechos, omisiones, o circunstancias de carácter concreto de los que se tenga conocimiento en el desarrollo de una visita. Una vez levantada el acta final, no se podrán levantar actas complementarias sin que exista una nueva orden de visita, salvo en el caso de reposición de procedimiento efectuado en los términos de este Código.
 
 Cuando en el desarrollo de una visita las autoridades fiscales conozcan hechos u omisiones que puedan entrañar incumplimiento de las disposiciones fiscales, los consignarán en forma circunstanciada en actas parciales. También se consignarán en dichas actas los hechos u omisiones que se conozcan de terceros. En la última acta parcial que al efecto se levante, se hará mención expresa de tal circunstancia y entre ésta y el acta final, deberán transcurrir, cuando menos veinte días, durante los cuales el contribuyente podrá presentar los documentos, libros o registros que desvirtúen los hechos u omisiones, así como optar por corregir su situación fiscal. Cuando se trate de un período superior a doce meses revisados, se ampliará el plazo por 15 días más, siempre que el contribuyente lo solicite por escrito dentro del plazo inicial de 20 días.
 
+Los visitadores tendrán la facultad para realizar la valoración de los documentos o informes obtenidos de terceros en el desarrollo de la visita, así como de los documentos, libros o registros que presente el contribuyente dentro de los plazos establecidos en el párrafo anterior para desvirtuar los hechos u omisiones mencionados en la última acta parcial. La valoración comprenderá la idoneidad y alcance de los documentos, libros, registros o informes de referencia, como resultado del análisis, la revisión, la comparación, la evaluación o la apreciación, realizadas en lo individual o en su conjunto, con el objeto de desvirtuar o no los citados hechos u omisiones.
+
 Se tendrán por consentidos los hechos consignados en las actas a que se refiere el párrafo anterior, si antes del cierre del acta final el contribuyente no presenta los documentos, libros o registros de referencia o no señala el lugar en que se encuentren, siempre que éste sea el domicilio fiscal o no prueba que éstos se encuentran en poder de una autoridad.
 
-IV. Cuando resulte imposible continuar o concluir el ejercicio de las facultades de comprobación en los establecimientos del visitado, las actas en las que se haga constar el desarrollo de una visita en el domicilio fiscal, podrán levantarse en las oficinas de las autoridades fiscales. En este caso, se deberá notificar previamente esta circunstancia a la persona con quien se entiende la diligencia, excepto en el supuesto de que el visitado hubiere desaparecido del domicilio fiscal durante el desarrollo de la visita;
+V. Cuando resulte imposible continuar o concluir el ejercicio de las facultades de comprobación en los establecimientos del visitado, las actas en las que se haga constar el desarrollo de una visita en el domicilio fiscal, podrán levantarse en las oficinas de las autoridades fiscales. En este caso, se deberá notificar previamente esta circunstancia a la persona con quien se entiende la diligencia, excepto en el supuesto de que el visitado hubiere desaparecido del domicilio fiscal durante el desarrollo de la visita;
 
-V. Si en el cierre del acta final de la visita no estuviere presente el visitado o su representante, se le dejará citatorio para que esté presente a una hora determinada del día siguiente, si no se presentare, el acta final se levantará ante quien estuviere presente en el lugar visitado; en ese momento cualquiera de los visitadores que haya intervenido en la visita, el visitado o la persona con quien se entiende la diligencia y los testigos firmarán el acta de la que se dejará un tanto al visitado. Si el visitado o la persona con quien se entendió la diligencia no comparecen a firmar el acta, se niegan a firmarla, o el visitado o la persona con quien se entendió la diligencia se niegan a aceptar copia del acta, dicha circunstancia se asentará en la propia acta sin que esto afecte la validez y valor probatorio de la misma;
+VI. Si en el cierre del acta final de la visita no estuviere presente el visitado o su representante, se le dejará citatorio para que esté presente a una hora determinada del día siguiente, si no se presentare, el acta final se levantará ante quien estuviere presente en el lugar visitado; en ese momento cualquiera de los visitadores que haya intervenido en la visita, el visitado o la persona con quien se entiende la diligencia y los testigos firmarán el acta de la que se dejará un tanto al visitado. Si el visitado o la persona con quien se entendió la diligencia no comparecen a firmar el acta, se niegan a firmarla, o el visitado o la persona con quien se entendió la diligencia se niegan a aceptar copia del acta, dicha circunstancia se asentará en la propia acta sin que esto afecte la validez y valor probatorio de la misma;
 
-VI. Las actas parciales se entenderá que forman parte integrante del acta final de la visita aunque no se señale así expresamente;
+VII. Las actas parciales se entenderá que forman parte integrante del acta final de la visita, aunque no se señale así expresamente; y
 
-VII. Cuando de la revisión de las actas de visita domiciliaria y demás documentación vinculada a ésta se observe que el procedimiento no se ajustó a las normas aplicables, que pudieran afectar la legalidad de la determinación del crédito fiscal, la autoridad podrá de oficio, por una sola vez reponer el procedimiento a partir de la violación cometida.
+VIII. Cuando de la revisión de las actas de visita domiciliaria y demás documentación vinculada a ésta se observe que el procedimiento no se ajustó a las normas aplicables, que pudieran afectar la legalidad de la determinación del crédito fiscal, la autoridad podrá de oficio, por una sola vez reponer el procedimiento a partir de la violación cometida.
 
 Concluida la visita en el domicilio fiscal, para iniciar otra a la misma persona, se requerirá nueva orden. En el caso de que las facultades de comprobación se refieran a las mismas contribuciones, aprovechamientos y períodos, sólo se podrá efectuar la nueva revisión cuando se comprueben hechos diferentes a los ya revisados. La comprobación de hechos diferentes deberá estar sustentada en información, datos o documentos de terceros, en la revisión de conceptos específicos que no se hayan revisado con anterioridad, en los datos aportados por los particulares en las declaraciones complementarias que se presenten en la documentación aportada por los contribuyentes en los medios de defensa que promuevan y que no hubiera sido exhibida ante las autoridades fiscales durante el ejercicio de las facultades de comprobación previstas en las disposiciones fiscales; a menos que en este último supuesto la autoridad no haya objetado de falso el documento en el medio de defensa correspondiente pudiendo haberlo hecho o bien, habiéndolo objetado, el incidente respectivo haya sido declarado improcedente.
 
@@ -1527,13 +1539,19 @@ Para poder obtener autorización para formular los dictámenes y registrarse ant
 
 I. Presentar por escrito el trámite de registro ante el Servicio de Administración Fiscal del Estado de Campeche, cumpliendo con los requisitos establecidos en este código y en las reglas de carácter general que para los efectos emita dicha institución,
 
-II. Presentar el título que le acredite como profesional en contaduría pública registrado ante la Secretaría de Educación Pública,
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
+II. Presentar el título y cédula que le acredite como profesional en contaduría pública registrado ante la Secretaría de Educación Pública,
 
 III. Presentar la constancia con la que acredite ser miembro de un colegio profesional de contaduría pública reconocido por la misma Secretaría, cuando menos en los tres años previos a la presentación de la solicitud de registro correspondiente.
 
 Deberá mantenerse actualizado en los conocimientos profesionales y presentar, a más tardar, en el mes de junio de cada año, la constancia que acredite el cumplimiento de la norma de educación continua expedida por dicho colegio.
 
-IV. Estar domiciliado o tener sucursales en donde preste los servicios profesionales en el territorio del Estado de Campeche,
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
+IV. Estar domiciliado o tener sucursales en donde preste los servicios profesionales en el territorio del Estado de Campeche.
+
+Deberá presentar la información y documentación en relación con su domicilio o sucursal en el Estado de Campeche ante el Servicio de Administración Fiscal del Estado de Campeche, cumpliendo con los requisitos establecidos en este Código y en las reglas de carácter general que para los efectos emita dicho órgano desconcentrado; y
 
 V. Estar al corriente en el cumplimiento de sus obligaciones fiscales en los términos del artículo 32-D del Código Fiscal de la Federación, para lo cual deberán exhibir documento vigente expedido por el Servicio de Administración Tributaria, en el que se emita la opinión del cumplimiento de obligaciones fiscales.
 
@@ -1935,9 +1953,9 @@ IV. No realizar los registros correspondientes a las operaciones efectuadas, hac
 
 V. No expedir los comprobantes cuando las disposiciones fiscales lo establezcan: multa de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2025)</small>
 
-VI. No dictaminar sus estados financieros cuando, de conformidad con lo previsto en el artículo 27 de la Ley de Hacienda del Estado de Campeche, esté obligado o hubiera optado por hacerlo. Así como en el caso de que no presente dicho dictamen dentro del término previsto por las leyes fiscales estatales. La multa para las conductas establecidas en esta fracción es de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización.
+VI. No dictaminar el correcto cumplimiento de las disposiciones fiscales del Impuesto Sobre Nóminas cuando, de conformidad con lo previsto en el artículo 27 de la Ley de Hacienda del Estado de Campeche, esté obligado o hubiera optado por hacerlo. Así como en el caso de que no presente dicho dictamen dentro del término previsto por las leyes fiscales estatales. La multa para las conductas establecidas en esta fracción es de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPÍTULO VI. De las Infracciones y Sanciones Relacionadas con el Ejercicio de las Facultades de Comprobación
 
@@ -2103,7 +2121,7 @@ Si se trata de resoluciones administrativas que determinen la responsabilidad so
 
 ### CAPÍTULO II. De las Notificaciones
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 103.
 
@@ -2113,17 +2131,17 @@ I. Personalmente o por correo certificado con acuse de recibo, cuando se trate d
 
 II. Por correo ordinario o por telegrama, cuando se trate de actos distintos de los señalados en la fracción anterior;
 
-III. Por estrados, cuando la persona a quien deba notificarse, no sea localizable en el domicilio que haya señalado para efectos del Registro Estatal de Contribuyentes, se ignore su domicilio o el de su representante, desaparezca, se oponga a la diligencia de notificación, o desocupe el local donde tenga su domicilio fiscal sin presentar el aviso de cambio de domicilio al Registro Estatal de Contribuyentes, después de que se le haya notificado un mandamiento tendiente a comprobar el cumplimiento de sus obligaciones fiscales, y antes de un año contado a partir de dicha notificación, o bien, después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya garantizado, pagado o quedado sin efectos; y en los demás casos que señalen las leyes fiscales y este Código;
+III. Por estrados, cuando la persona a quien deba notificarse, no sea localizable en el domicilio que haya señalado para efectos del Registro Estatal de Contribuyentes, se ignore su domicilio o el de su representante, desaparezca, se oponga a la diligencia de notificación, o desocupe el local donde tenga su domicilio fiscal sin presentar el aviso de cambio de domicilio al Registro Estatal de Contribuyentes, después de que se le haya notificado un mandamiento tendiente a comprobar el cumplimiento de sus obligaciones fiscales, o bien, después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya garantizado, pagado o quedado sin efectos, o que hubieran realizado actividades por las que se deban pagar contribuciones, haya transcurrido más de un año contado a partir de la fecha en que legalmente tenga la obligación de presentar dicho aviso, o cuando las autoridades fiscales tengan conocimiento de que fue desocupado el domicilio derivado del ejercicio de sus facultades de comprobación y, en los demás casos que señalen las leyes fiscales y este Código.
 
-IV. Por edictos, cuando se desconozca el domicilio del interesado, cambie de domicilio sin presentar el aviso correspondiente con excepción de los casos señalados en el párrafo anterior, o se encuentre fuera del territorio del Estado sin haber dejado representante legal o hubiere fallecido y no se conozca al representante de la sucesión; y
+Para los efectos de esta fracción, se entiende que el contribuyente desaparece del local en donde tiene su domicilio fiscal cuando la autoridad acuda en tres ocasiones consecutivas a dicho domicilio dentro de un periodo de doce meses y no pueda practicar la diligencia en términos de este Código; y
 
-V. Por instructivo, en los casos y con las formalidades a que se refiere el artículo 106 de este Código.
+IV. Por edictos, cuando se desconozca el domicilio del interesado, cambie de domicilio sin presentar el aviso correspondiente con excepción de los casos señalados en el párrafo anterior, o se encuentre fuera del territorio del Estado sin haber dejado representante legal o hubiere fallecido y no se conozca al representante de la sucesión.
 
-Cuando se trate de notificaciones o actos relacionados con personas radicadas en otras entidades federativas, se podrán efectuar mediante exhorto a las autoridades fiscales respectivas del lugar donde deba notificarse o por mensajería con acuse de recibo o por correo certificado con acuse de recibo.
+Cuando se trate de notificaciones o actos relacionados con personas radicadas en otras entidades federativas se podrán efectuar mediante exhorto a las autoridades fiscales respectivas del lugar donde deba notificarse o por mensajería con acuse de recibo o por correo certificado con acuse de recibo.
 
-Los impuestos y sus accesorios exigibles por otros Estados de la República cuya recaudación y cobro le sea solicitado al Estado de Campeche de conformidad con los convenios de colaboración que sobre asistencia mutua en el cobro se celebren, le serán aplicables las disposiciones de esté Código referentes a la notificación y ejecución de los créditos fiscales.
+Los impuestos y sus accesorios exigibles por otros Estados de la República cuya recaudación y cobro le sea solicitado al Estado de Campeche de conformidad con los convenios de colaboración que sobre asistencia mutua en el cobro se celebren, le serán aplicables las disposiciones de este Código referentes a la notificación y ejecución de los créditos fiscales.
 
-Las notificaciones que deban hacerse a las autoridades, se harán siempre por oficio. También podrán realizarse mediante el uso de medios electrónicos o cualquier otro medio, siempre que pueda comprobarse fehacientemente su recepción.
+Las notificaciones que deban hacerse a las autoridades se harán siempre por oficio. También podrán realizarse mediante el uso de medios electrónicos o cualquier otro medio, siempre que pueda comprobarse fehacientemente su recepción.
 
 El Servicio de Administración Fiscal del Estado de Campeche podrá habilitar a terceros para que realicen las notificaciones previstas en la fracción I de este artículo, cumpliendo con las formalidades previstas en este Código y conforme a las reglas generales que para tal efecto establezca el Servicio de Administración Fiscal del Estado de Campeche.
 
@@ -2141,23 +2159,27 @@ Una vez realizada la notificación, se considera el destinatario de la misma par
 
 Las notificaciones personales se podrán hacer en las oficinas de las autoridades fiscales, si las personas a quienes debe notificarse se presentan en las mismas.
 
-También se podrán efectuar en el domicilio fiscal de los contribuyentes, determinado de conformidad con el artículo 41 de este Código, o en el último domicilio que el interesado haya señalado para efectos del registro estatal de contribuyentes, salvo que hubiera designado otro para recibir notificaciones al iniciar alguna instancia o en el curso de un procedimiento administrativo, tratándose de las actuaciones relacionadas con el trámite o la resolución de los mismos.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
+Las notificaciones también se podrán efectuar en el domicilio fiscal de los contribuyentes, determinado de conformidad con el artículo 41 de este Código, o en el último domicilio que el interesado haya señalado para efectos del registro estatal de contribuyentes, salvo que hubiera designado otro para recibir notificaciones al iniciar alguna instancia o en el curso de un procedimiento administrativo, tratándose de las actuaciones relacionadas con el trámite o la resolución de los mismos.
 
 Toda notificación personal, realizada con quien deba entenderse será legalmente válida aun cuando no se efectúe en el domicilio respectivo o en las oficinas de las autoridades fiscales.
 
 En los casos de sociedades en liquidación, cuando se hubieran nombrado varios liquidadores, las notificaciones o diligencias que deban efectuarse con las mismas podrán practicarse válidamente con cualquiera de ellos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 106.
+
+Cuando la notificación deba efectuarse personalmente y la o el notificador no encuentre a quien deba notificar o su representante legal, dejará citatorio con quien se encuentre en el domicilio, señalando el día y la hora en que se actúa, y que el objeto del mismo es para que el destinatario de la notificación espere en dicho lugar a una hora fija del día hábil que se señale en el mismo; en caso de que en el domicilio no se encuentre alguna persona con quien pueda llevarse a cabo la diligencia o quien se encuentre se niegue a recibir el citatorio, éste se fijará en el acceso principal de dicho lugar y, de ello, la o el notificador levantará una constancia.
+
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
-
-###### ARTÍCULO 106.
-
-Cuando la notificación deba efectuarse personalmente y la o el notificador no encuentre a quien deba notificar o su representante legal, dejará citatorio con quien se encuentre en el domicilio, señalando el día y la hora en que se actúa, y que el objeto del mismo es para que el destinatario de la notificación espere en dicho lugar a una hora fija del día hábil posterior a aquél en que se dejó el citatorio. En caso de que en el domicilio no se en (sic)
-
-cuentre alguna persona con quien pueda llevarse a cabo la diligencia o quien se encuentre se niegue a recibir el citatorio, éste se fijará en el acceso principal de dicho lugar y, de ello, la o el notificador levantará una constancia de la situación presentada.
 
 El día y hora de la cita, la o el notificador deberá constituirse en el domicilio del interesado, y deberá requerir nuevamente la presencia del destinatario y notificarlo, pero si la persona citada o su representante legal no acudiera a la cita, se practicará la diligencia con quien se encuentre en el domicilio o, en su defecto, con una o un vecino.
 
-En caso de que ésta o éste último se negase a recibir la notificación, ésta se hará por instructivo que se fijará en lugar visible de dicho domicilio, debiendo la o el notificador asentar razón de tal circunstancia, o por cualquiera de los otros medios previstos en el artículo 103 de este Código.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
+En caso de que ésta o éste último se negase a recibir la notificación, ésta se hará por cualquiera de los otros medios previstos en el artículo 103 de este Código.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2022)</small>
 
@@ -2173,11 +2195,11 @@ Tratándose de los honorarios a que se refiere el párrafo que antecede, la auto
 
 Cuando se deje sin efectos una notificación practicada ilegalmente se impondrá al notificador una multa de diez veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las demás responsabilidades que en su caso resulten procedentes.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
 
-###### ARTÍCULO 108.
+###### Artículo 108.
 
-Las notificaciones por estrados se harán fijando durante diez días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación o publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezcan las autoridades fiscales; dicho plazo se contará a partir del día siguiente a aquél en que el documento fue fijado o publicado según corresponda; la autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del undécimo día contado a partir del día siguiente a aquél en el que se hubiera fijado o publicado el documento.
+Las notificaciones por estrados se harán fijando durante diez días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación o publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezcan las autoridades fiscales; dicho plazo se contará a partir del día siguiente a aquél en que el documento fue fijado o publicado según corresponda; la autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del décimo primer día contado a partir del día siguiente a aquél en el que se hubiera fijado o publicado el documento.
 
 ###### Artículo 109.
 
@@ -2849,9 +2871,11 @@ II. El valor que, para los efectos fiscales se hubiere declarado por el deudor c
 
 III. El que resultare del avalúo pericial.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 167.
 
-Los avalúos que se practiquen para efectos fiscales tendrán vigencia durante seis meses, contados a partir de la fecha en que se efectúen y deberán llevarse a cabo por las autoridades fiscales, instituciones de crédito, el Instituto de Administración y Avalúos de Bienes Nacionales o por corredor público, o persona con conocimientos en la materia; en el caso del mencionado Instituto de Administración y Avalúos de Bienes Nacionales la vigencia de los avalúos que éste emita tendrán la vigencia que al efecto establezca la Ley Federal que lo regula.
+Los avalúos que se practiquen para efectos fiscales tendrán vigencia durante un año, contado a partir de la fecha en que se efectúen y deberán llevarse a cabo por las autoridades fiscales, instituciones de crédito, el Instituto de Administración y Avalúos de Bienes Nacionales o por corredor público, o persona con conocimientos en la materia; en el caso del mencionado Instituto de Administración y Avalúos de Bienes Nacionales la vigencia de los avalúos que éste emita tendrán la vigencia que al efecto establezca la Ley Federal que lo regula.
 
 ###### Artículo 168.
 
@@ -3740,3 +3764,11 @@ El presente decreto entrará en vigor el día 1° de enero de 2025, previa publi
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 29 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 186 POR EL QUE "SE REFORMAN EL PÁRRAFO TERCERO DEL ARTÍCULO 38; LOS PÁRRAFOS PRIMERO Y TERCERO DEL ARTÍCULO 51; EL ARTÍCULO 67; LAS FRACCIONES II Y IV DEL ARTÍCULO 72-B; LA FRACCIÓN VI DEL ARTÍCULO 92; EL ARTÍCULO 103; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 105; LOS PÁRRAFOS PRIMERO Y TERCERO DEL ARTÍCULO 106; LOS ARTÍCULOS 108 Y 167, TODOS DEL CÓDIGO FISCAL DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía del marco jurídico estatal en todo lo que se opongan al contenido del presente decreto.
