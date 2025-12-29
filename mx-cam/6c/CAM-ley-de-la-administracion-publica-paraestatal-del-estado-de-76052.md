@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-la-administracion-publica-paraestatal-del-estado-de-7605
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-22"
-last_updated: "2022-11-24"
+last_updated: "2025-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76052&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE LA ADMINISTRACION PUBLICA PARAESTATAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 22 de julio de 2010.
 
@@ -89,9 +89,11 @@ Las Entidades Paraestatales deberán proporcionar a las demás Entidades del sec
 
 Para el cumplimiento de lo anteriormente establecido, la Secretaría Coordinadora de Sector, conjuntamente con las Secretarías de Administración y Finanzas, Modernización Administrativa e Innovación Gubernamental, y de la Contraloría, harán compatibles los requerimientos de información que se demanden a las Entidades Paraestatales racionalizando los flujos de información.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
 ###### Art. 9.
 
-Las entidades paraestatales gozarán de autonomía de gestión para el cabal cumplimiento de su objeto, y de los objetivos y metas señalados en sus programas. Al efecto, contarán con una administración ágil y eficiente y se sujetarán a los sistemas de control establecidos en la presente Ley y, en lo que no se oponga a ésta, a los demás que se relacionen con la Administración Pública Estatal.
+Las entidades paraestatales gozarán de autonomía de gestión para el cabal cumplimiento de su objeto, y de los objetivos y metas señalados en sus programas. Al efecto, contarán con una administración ágil y eficiente y se sujetarán a los sistemas de control establecidos en la presente Ley, en la Ley General de Contabilidad Gubernamental, en la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Campeche y sus Municipios, en la Ley de Austeridad y Ahorro del Estado de Campeche y sus Municipios, y en lo que no se oponga a ésta, a los demás que se relacionen con la Administración Pública Estatal.
 
 > <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
@@ -545,7 +547,9 @@ Los órganos de gobierno de las entidades paraestatales tendrán las siguientes 
 
 I. Establecer en congruencia con los programas sectoriales, las políticas generales y definir las prioridades a las que deberán sujetarse las entidades paraestatales relativas a producción, productividad, comercialización, finanzas investigación, desarrollo tecnológico y administración general;
 
-II. Aprobar los programas y presupuestos de las entidades paraestatales, así como sus modificaciones, en los términos de la legislación aplicable. En lo tocante a los presupuestos y a los programas financieros, con excepción de aquellos incluidos en la correspondiente Ley de Presupuesto de Egresos del Estado de Campeche, bastará con la aprobación del órgano de gobierno respectivo;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
+II. Aprobar los programas y presupuestos de las entidades paraestatales, así como sus modificaciones, en los términos de la legislación aplicable. Los proyectos de presupuestos de egresos deberán ser aprobados antes del 30 de septiembre del ejercicio fiscal anterior al que corresponda, para su captura en el sistema informático de planeación, programación y presupuestación que opera la Secretaría de Administración, Finanzas y Planeación. En lo tocante a los presupuestos y a los programas financieros que correspondan a ingresos propios, bastará con la aprobación del órgano de gobierno respectivo;
 
 III. Fijar y ajustar los precios de bienes y servicios que produzcan o presten las entidades paraestatales;
 
@@ -559,9 +563,9 @@ V. Expedir las normas o bases generales con arreglo a las cuales, cuando fuere n
 
 VI. Aprobar anualmente, previo informe de las o los comisarios y dictamen de las y los auditores externos, los estados financieros de las entidades paraestatales y autorizar la publicación de los mismos;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2025)</small>
 
-VII. Aprobar, de conformidad con las leyes aplicables y el reglamento de esta Ley, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar la entidad paraestatal con terceros en obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles. La o el Director General, y en su caso, el personal adscrito al servicio público que deban intervenir de conformidad a las normas orgánicas de la misma, realizarán tales actos bajo su responsabilidad, con sujeción a las directrices fijadas por el órgano de gobierno;
+VII. Aprobar la constitución de comités en materia de obra pública, adquisiciones, arrendamientos y prestación de servicios, así como los lineamientos para su funcionamiento con estricto apego a la legislación especial en la materia. El órgano de gobierno podrá autorizar las bases para la firma de convenios de colaboración o coordinación con otros Entes Públicos, en estas materias. La o el Director General, y en su caso, los servidores públicos que deban intervenir de conformidad con lo previsto en sus reglamentos interiores, realizarán tales actos bajo su responsabilidad, con sujeción a las directrices fijadas por el órgano de gobierno;
 
 VIII. Aprobar la estructura básica de la organización de la entidad paraestatal y las modificaciones que procedan a la misma;
 
@@ -619,7 +623,9 @@ VIII. Recabar la información y elementos estadísticos que reflejen el estado d
 
 IX. Establecer los sistemas de control necesarios para alcanzar las metas u objetivos propuestos;
 
-X. Presentar periódicamente al órgano de gobierno el informe del desempeño de las actividades de la entidad, incluido el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes. En el informe y en los documentos de apoyo se cotejarán las metas propuestas y los compromisos asumidos por la dirección con las realizaciones alcanzadas;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
+X. Presentar periódicamente al órgano de gobierno el informe del desempeño de las actividades de la entidad, incluido el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes. En el informe y en los documentos de apoyo se cotejarán las metas propuestas y los compromisos asumidos por la dirección con las realizaciones alcanzadas. Los informes que se presenten ante el órgano de gobierno, deberán contener un apartado sobre la situación que guarda la entidad sobre el cumplimiento de sus obligaciones fiscales y de seguridad social;
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2019)</small>
 
@@ -627,9 +633,9 @@ XI. Establecer los mecanismos de evaluación que destaquen la eficiencia y la ef
 
 XII. Ejecutar los acuerdos que dicte el órgano de gobierno;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2025)</small>
 
-XIII. Suscribir, previa aprobación del órgano de gobierno, las condiciones de trabajo que regulen las relaciones laborales de la entidad con sus trabajadoras y trabajadores; y
+XIII. Suscribir, previa aprobación del órgano de gobierno, las condiciones de trabajo que regulen las relaciones laborales de la entidad con sus trabajadoras y trabajadores. Las condiciones de trabajo deberán ser congruentes con la política salarial prevista para el Poder Ejecutivo del Estado de Campeche y no podrán exceder el porcentaje de crecimiento global para los servicios personales en el ejercicio fiscal que corresponda, salvo que existan disposiciones generales o estatales que permitan la excepción;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
@@ -736,3 +742,13 @@ SEGUNDO. Dentro del término de 180 días hábiles contados a partir de la entra
 TERCERO. La o el Gobernador del Estado, así como el H. Congreso del Estado, dentro de sus respectivos ámbitos de competencia y dentro del término de 180 días hábiles contados a partir de la entrada en vigor del presente Decreto, procederán a hacer las correspondientes adecuaciones a las leyes y acuerdos por los que se hayan creado las Entidades que conforman la Administración Pública Paraestatal del Estado de Campeche, para dar cumplimiento a las disposiciones contenidas en la Ley a que se contrae este decreto.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en este decreto.
+
+P.O. 29 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 190 POR EL QUE “SE REFORMAN EL ARTÍCULO 9; LAS FRACCIONES II Y VII DEL ARTÍCULO 67; Y LAS FRACCIONES X Y XIII DEL ARTÍCULO 68, TODOS DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE CAMPECHE”.]
+
+## TRANSITORIOS
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
