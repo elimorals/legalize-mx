@@ -4,7 +4,7 @@ identifier: "HID-ley-de-poblacion-para-el-estado-de-hidalgo-50965"
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-03"
-last_updated: "2024-09-17"
+last_updated: "2025-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 3 de julio de 2006.
 
@@ -155,29 +155,43 @@ El desarrollo sostenido y sustentable de la Población, es el proceso que depend
 
 ### CAPITULO III. DE LA PLANEACION DEMOGRAFICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 10.
 
-El Consejo Estatal de Población, conjuntamente con el Comité de Planeación para el Desarrollo de Hidalgo y en coordinación con las dependencias y Entidades Estatales y los Ayuntamientos, llevarán a cabo las acciones necesarias sobre planeación demográfica sustentable, con el propósito de que ésta responda a los requerimientos sociales, culturales, productivos y económicos del desarrollo integral del Estado.
+El Consejo Estatal de Población, conjuntamente con el Comité de Planeación para el Desarrollo de Hidalgo y en coordinación con las dependencias y Entidades Federales, Estatales y los Ayuntamientos, llevarán a cabo las acciones necesarias sobre planeación demográfica sustentable, con el propósito de que ésta responda a los requerimientos sociales, culturales, productivos y económicos del desarrollo integral del Estado.
 
 Para tal efecto, implementarán un diagnóstico de la Población de permanente actualización, enfocado en los siguientes aspectos:
 
 l.- Dinámica, estructura y volumen;
 
-II.- Distribución y densidad;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2025)</small>
 
-III.- Desarrollo y medio ambiente;
+II.- Distribución territorial y densidad;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
+III.- Desarrollo, cambio climático y medio ambiente;
 
 IV.- Migración;
 
 V.- Empleo y economía;
 
-VI.- Cultura;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
+VI.- Cultura, identidad y cohesión social;
 
 VII.- Salud, familia y mujer;
 
 VIII.- Proyecciones de crecimiento; y
 
-IX.- Población Indígena.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
+IX.- Población indígena y Afromexicana; y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
+X.- Pobreza multidimensional y vulnerabilidad social.
 
 ###### Artículo 11.
 
@@ -608,3 +622,9 @@ P.O. 17 DE SEPTIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1106 POR EL QUE SE ADICIONAN DIVERSAS FRACCIONES AL ARTÍCULO 14 DE LA LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 29 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 384 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ARTÍCULO 10 DE LA LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO, EN MATERIA DE FORTALECIMIENTO SOBRE PLANEACIÓN DEMOGRÁFICA SUSTENTABLE.”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
