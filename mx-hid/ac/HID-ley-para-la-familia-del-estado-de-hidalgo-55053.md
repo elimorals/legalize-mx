@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-familia-del-estado-de-hidalgo-55053"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-09"
-last_updated: "2025-08-06"
+last_updated: "2025-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 9 de abril de 2007.
 
@@ -987,11 +987,15 @@ Si el monto de los gastos por concepto de alimentos no pudiera determinarse, el 
 
 El acreedor alimentista puede exigir el cumplimiento de la obligación ante el Juez Familiar cuando el deudor haya incurrido en mora.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
+Artículo 141 BIS.- Toda persona obligada al pago de pensión alimenticia mediante sentencia firme o convenio debidamente ratificado ante el Juez de conocimiento, que incumpla con la obligación de dar alimentos por un periodo de noventa días consecutivos o discontinuos en un año, se constituirá en deudora alimentaria morosa, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien, formalice el descuento correspondiente.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
+De no desvirtuarse este incumplimiento, el Juez de lo Familiar ordenará de inmediato su inscripción en el Registro de Deudoras y Deudores Alimentarios Morosos, el cual será público con base en lo dispuesto por las leyes en materia de Protección de Datos Personales en Posesión de Sujetos Obligados.
+
 > <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2021)</small>
-
-Artículo 141 BIS.- Toda persona obligada al pago de pensión alimenticia-mediante sentencia firme o convenio debidamente ratificado ante el Juez de conocimiento, que incumpla con la obligación de dar alimentos por un periodo de tres meses consecutivos o discontinuos en un año, se constituirá en deudora alimentaria morosa, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien, formalice el descuento correspondiente.
-
-De no desvirtuarse este incumplimiento, el Juez de lo Familiar ordenará de inmediato su inscripción en el Registro de Deudoras y Deudores Alimentarios Morosos.
 
 La persona deudora alimentaria morosa que acredite ante el Juez de conocimiento, haber cumplido con el pago correspondiente podrá solicitar la cancelación de la inscripción.
 
@@ -3654,5 +3658,11 @@ P.O. 1 DE JULIO DE 2025.
 P.O. 6 DE AGOSTO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 305 - LXVI POR EL QUE SE ADICIONA EL ARTÍCULO 481 A LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, EN MATERIA DEL CERTIFICADO DE NO INSCRIPCIÓN EN EL REGISTRO DE DEUDORAS Y DEUDORES ALIMENTARIOS MOROSOS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 29 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 383 – LXVI POR EL QUE SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 141 BIS DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, EN MATERIA DE ALIMENTARIOS MOROSOS".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
