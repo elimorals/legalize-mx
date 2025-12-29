@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-proteccion-al-ambiente-del-estado-de-hidalgo-106215
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-16"
-last_updated: "2025-11-19"
+last_updated: "2025-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Hidalgo, el lunes 16 de febrero de 2015.
 
@@ -2265,6 +2265,10 @@ Para la prevención y control de la contaminación del suelo, se considerarán l
 
 I. La generación de residuos sólidos debe ser controlada desde su origen, reduciendo y previniendo su producción; ubicando su procedencia e incorporando métodos y técnicas para su rehusó, reciclaje, manejo y disposición final, en su caso;
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
+Como parte de lo anterior, podrán implementarse programas de acopio y reciclaje diferenciado de pilas y baterías, incluyendo centros de acopio para su recolecta selectiva, con base en su composición química.
+
 II. En los suelos contaminados por la presencia de materiales o residuos, deberán llevarse a cabo las acciones necesarias para recuperar o restablecer sus condiciones, de tal manera que puedan ser utilizadas en cualquier tipo de actividades que resulte aplicable;
 
 III. La utilización de plaguicidas, fertilizantes y sustancias toxicas deben de ser compatibles con el equilibrio de los ecosistemas, considerando sus efectos sobre la salud humana y la peligrosidad de su utilización; y
@@ -3904,5 +3908,11 @@ P.O. 27 DE FEBRERO DE 2025.
 P.O. 19 DE NOVIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 300 - LXVI POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO, EN MATERIA DE HUERTOS URBANOS Y PERIURBANOS".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 29 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 382 – LXVI POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 148 DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO, EN MATERIA DE CENTROS DE ACOPIO DE BATERÍAS".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
