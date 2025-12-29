@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-la-venta-ordenada-y-consumo-responsable-de-bebidas-109
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-14"
-last_updated: "2024-12-26"
+last_updated: "2025-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY PARA LA VENTA ORDENADA Y CONSUMO RESPONSABLE DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 14 de septiembre de 2015.
 
@@ -151,7 +151,9 @@ VIII. Casino: Establecimiento autorizado de conformidad con la legislación fede
 
 IX. Charrería: Establecimiento destinado a la práctica de las actividades tradicionales ecuestres y de ganadería, en donde eventualmente podrán expenderse bebidas alcohólicas en envase abierto y al copeo;
 
-X. Discoteca: Establecimiento donde se expenden bebidas alcohólicas en envase abierto y al copeo, para consumo inmediato en su interior y que tienen la característica de contar con pista de baile con efectos de luces y sonidos especiales y espectáculos para la diversión de los asistentes dentro del propio establecimiento;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
+X. Discoteca: Establecimiento donde se expenden bebidas alcohólicas en envase abierto y al copeo, para consumo inmediato en su interior y que además cuenta con pista de baile, música grabada o viva, efectos de luces y sonidos especiales, así como con espectáculos para la diversión de los asistentes dentro del propio establecimiento;
 
 XI. Distribuidora: Establecimiento de distribución específica y venta al mayoreo de bebidas alcohólicas a negociaciones y personas que cuenten con licencia o permiso para la venta de las mismas, para cuyos actos de comercialización de sus productos deberán comprobar previamente que comercializan con negociaciones o personas autorizadas para la venta de bebidas alcohólicas, en caso de no realizar dicha comprobación se harán acreedores a las sanciones previstas en la presente Ley;
 
@@ -169,15 +171,17 @@ XVII. Licorerías: Los establecimientos cuya actividad predominante sea la venta
 
 XVIII. Lonchería y Coctelería: Establecimientos donde se expenden alimentos típicos de su giro gastronómico y que podrán ser acompañados de consumo inmediato de bebidas alcoholicas en envase abierto, en el interior del establecimiento;
 
-XIX. Restaurante: Establecimiento donde se expenden alimentos acompañados de bebidas alcohólicas en envase abierto y al copeo para su consumo inmediato en su interior. Las bebidas alcohólicas podrán servirse antes, con y después de los alimentos;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
+XIX. Restaurante: Establecimiento cuya actividad principal es la venta de alimentos preparados con o sin bebidas alcohólicas en envase abierto y al copeo para su consumo inmediato en su interior. Las bebidas alcohólicas podrán servirse antes, durante y después del consumo de alimentos;
 
 XX. Salón de Baile: Establecimiento en el que se baila, además de que puede presentar espectáculos para la diversión de los asistentes y donde se expenden bebidas alcohólicas en envase abierto y al copeo para el consumo inmediato en el interior del establecimiento;
 
 XXI. Salón Cerveza: Establecimiento donde se vende cerveza en envase abierto para su consumo inmediato en el interior del propio establecimiento;
 
-XXII. Supermercado y Minisúper: Establecimientos dedicados a dar servicios de venta de comestibles, alimentos perecederos e imperecederos y toda clase de (sic)
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2025)</small>
 
-mercancía, tales como enseres, carnes, productos lácteos, productos para el hogar, ferretería y otros, y que vendan bebidas alcohólicas al menudeo en envase cerrado;
+XXII. Supermercado y Minisúper: Establecimientos cuya actividad principal esté dedicada a dar servicios de venta de comestibles, alimentos perecederos e imperecederos y toda clase de mercancía, tales como enseres, carnes, productos lácteos, productos para el hogar, ferretería y otros, y que vendan bebidas alcohólicas al menudeo en envase cerrado;
 
 XXIII. Minisúper Local: Establecimiento para la venta de comestibles y mercancía variada para el hogar con venta al menudeo de bebidas alcohólicas en envase cerrado, cuyas características principales sean: que la licencia esté a nombre de una persona física, que constituya un negocio familiar y que sea operado por la misma familia, así como que la licencia no provenga de arrendamiento o comodato.
 
@@ -217,9 +221,9 @@ A falta de disposición expresa en esta Ley, se aplicarán las disposiciones de 
 
 Se crea la Junta Reguladora, la cual estará integrada por las personas titulares de las Secretarías de Gobierno, de Salud, de Desarrollo Económico, de Administración y Finanzas, de Protección y Seguridad Ciudadana, de Educación, y de Turismo de la Administración Pública del Estado de Campeche. Esta Junta Reguladora la presidirá la persona Titular de la Secretaría de Salud y tomará sus decisiones colegiadamente para:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2025)</small>
 
-I Recibir los dictámenes del otorgamiento de las licencias y las revalidaciones de las mismas para su conocimiento;
+I Recibir de manera trimestral el informe pormenorizado y con datos estadísticos sobre el otorgamiento de las licencias y las revalidaciones de las mismas por parte del Servicio de Administración Fiscal del Estado para su conocimiento;
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
@@ -291,9 +295,9 @@ VIII Impedir y denunciar escándalos en los establecimientos, para tal efecto po
 
 IX Pagar los derechos correspondientes dentro de los plazos que fijen las leyes;
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2025)</small>
 
-X Conservar en el establecimiento en el que se opere los comprobantes de pago del año en curso para la verificación de los inspectores; y
+X Conservar en el establecimiento en el que se opere, los comprobantes de pago de revalidación anual o, en su caso, el de la modificación o cambio de licencia para la verificación de los inspectores;
 
 XI (DEROGADA, P.O. 26 DE DICIEMBRE DE 2024)
 
@@ -365,9 +369,9 @@ II Las y los que no tengan capacidad legal de ejercicio;
 
 III Las y los que hubieren tenido licencia o permiso y hayan cedido los derechos de los mismos a terceras personas;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2025)</small>
 
-IV Los establecimientos situados dentro de un radio de 150 metros contados a partir del lindero en que inicia la construcción o edificación del inmueble donde se ubica el establecimiento hasta los linderos de los edificios y patios destinados a jardines de niños, instituciones educativas, centros culturales, hospitales, hospicios, asilos, centros asistenciales, fábricas, cuarteles y templos. Quedan exceptuados de esta restricción aquellos establecimientos cuyos giros sean únicamente de consumo de bebidas alcohólicas en envase abierto y al copeo en el interior de los mismos, así como aquellos establecimientos que conformen polígonos turísticos de conformidad con el Capítulo VIII de esta Ley;
+IV Los establecimientos situados dentro de un radio de 150 metros contados a partir del lindero en que inicia la construcción o edificación del inmueble donde se ubica el establecimiento hasta los linderos de los edificios y patios destinados a jardines de niños, instituciones educativas, centros culturales, hospitales, hospicios, asilos, centros asistenciales, fábricas, cuarteles y templos. Quedan exceptuados de esta restricción aquellos establecimientos cuyos giros sean únicamente de consumo de bebidas alcohólicas en envase abierto y al copeo en el interior de los mismos, y aquellos establecimientos previstos en el artículo 4 fracciones XXII, XXIII, XXIV y XXV, así como los que operen en los términos y supuestos establecidos en los artículos 31 y 35 de esta Ley;
 
 V Reincidentes en la infracción de las disposiciones de esta Ley y demás normas jurídicas aplicables en la materia; y
 
@@ -561,7 +565,9 @@ Si en un mismo local se encuentran establecidos diversos giros sean o no propied
 
 El establecimiento de giros diversos en un mismo local, previsto en el párrafo que antecede, queda sujeto a dictamen previo favorable del Servicio de Administración Fiscal del Estado de Campeche, el cual se emitirá en atención a las características físicas del local que permitan una distribución adecuada y delimitación plena de aquellos.
 
-Queda prohibido que en un mismo local se opere al amparo de dos o más licencias para establecimientos o giros iguales.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
+Queda prohibido que en un mismo local se opere al amparo de dos o más licencias con giros idénticos, así como que se ejerzan simultáneamente giros distintos sin la delimitación correspondiente ni el cumplimiento de las características exigidas para cada uno de ellos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
@@ -570,6 +576,10 @@ Queda prohibido que en un mismo local se opere al amparo de dos o más licencias
 En los casos de fallecimiento de la o el titular de la licencia, se podrá, mediante acto administrativo, reexpedirse la licencia a favor del o de los que hayan sido designados herederas o herederos por resolución judicial, que reúnan los requisitos de esta Ley, para lo cual deberá presentarse la solicitud correspondiente ante el Servicio de Administración Fiscal del Estado de Campeche y éste autorice o no el cambio; entretanto emitirá permiso especial para que el establecimiento pueda operar de forma provisional.
 
 En estos casos se reexpedirá la licencia sólo por el tiempo restante del que originalmente haya sido expedida para su vigencia.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
+Lo señalado en el párrafo anterior también será aplicable a las personas morales que prevalezcan derivado de un proceso de fusión o escisión.
 
 ### CAPÍTULO VII. DEL ARRENDAMIENTO Y COMODATO
 
@@ -797,11 +807,11 @@ La Secretaría de Administración y Finanzas, a través del Servicio de Administ
 
 ### CAPÍTULO XI. DE LOS CAMBIOS DE DOMICILIO, NOMBRE, RAZÓN SOCIAL Y GIRO DE LOS ESTABLECIMIENTOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 48.
 
-El Servicio de Administración Fiscal del Estado de Campeche podrá autorizar los cambios de domicilio, nombre, razón social y giro a las y los titulares de licencias destinados al almacenamiento, distribución, venta y consumo de bebidas alcohólicas, en un plazo no mayor de noventa días a partir del día siguiente en que se reciba la solicitud, siempre y cuando se compruebe que la o el solicitante ha cumplido con todos los requisitos que para la expedición de licencias se encuentran establecidos en la presente Ley, así como el pago de los derechos correspondientes mencionados en la Ley de Hacienda del Estado de Campeche y demás contribuciones estatales y municipales.
+El Servicio de Administración Fiscal del Estado de Campeche podrá autorizar los cambios de domicilio, nombre, razón social y giro a las y los titulares de licencias destinados al almacenamiento, distribución, venta y consumo de bebidas alcohólicas, en un plazo no mayor de noventa días a partir del día siguiente en que se reciba la solicitud, siempre y cuando se compruebe que la o el solicitante ha cumplido con todos los requisitos que para la expedición de licencias se encuentran establecidos en la presente Ley, así como el pago de los derechos correspondientes mencionados en la Ley de Hacienda del Estado de Campeche y demás contribuciones estatales y municipales. Dicho pago de derechos deberá efectuarse en un plazo máximo de cinco días hábiles posteriores a la notificación de la autorización.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
@@ -1436,3 +1446,11 @@ P.O. 26 DE DICIEMBRE DE 2024.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Campeche.
 
 SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía del marco jurídico estatal en todo lo que se opongan al contenido del presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 188 POR EL QUE “SE REFORMAN LAS FRACCIONES X, XIX Y XXII DEL ARTÍCULO 4; LA FRACCIÓN I DEL ARTÍCULO 8; LA FRACCIÓN X DEL ARTÍCULO 9; LA FRACCIÓN IV DEL ARTÍCULO 12; EL PÁRRAFO CUARTO DEL ARTÍCULO 27; EL PÁRRAFO PRIMERO DEL ARTÍCULO 48 Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 28, TODOS DE LA LEY PARA LA VENTA ORDENADA Y CONSUMO RESPONSABLE DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía del marco jurídico estatal en todo lo que se opongan al contenido del presente decreto.
