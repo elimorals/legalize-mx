@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-disciplina-financiera-y-responsabilidad-hacendaria-11771
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-18"
-last_updated: "2025-08-12"
+last_updated: "2025-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117718&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el viernes 18 de noviembre de 2016.
 
@@ -501,9 +501,11 @@ Los Poderes Legislativo y Judicial, así como las Entidades del Poder Ejecutivo,
 
 La ministración de los fondos correspondientes será autorizada, en todos los casos, por la Secretaría, de conformidad con la Ley de Presupuesto de Egresos del Estado vigente para el ejercicio fiscal que corresponda, y en términos de las normas y lineamientos emitidos por la propia Secretaría.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 31.
 
-Todo gasto deberá estar amparado por la justificación y comprobación correspondiente, entendiéndose por justificación la orden de pago dada en los términos del artículo anterior, y por el comprobante fiscal digital que expida el interesado, los que deberán reunir los requisitos fiscales correspondientes.
+Todo gasto deberá estar amparado por la justificación y comprobación correspondiente, entendiéndose por justificación la orden de pago dada en los términos del artículo anterior, y por comprobación, la entrega del comprobante fiscal digital que expida el interesado, el cual deberá reunir los requisitos fiscales correspondientes.
 
 ###### Artículo 32.
 
@@ -925,7 +927,9 @@ VIII. Abstenerse de contratar trabajadores eventuales, salvo que tales contratac
 
 IX. Sujetarse a las disposiciones generales aplicables para la autorización de los gastos de representación y de las erogaciones necesarias para el desempeño de comisiones oficiales;
 
-X. No realizar traspasos de recursos de otros capítulos presupuestales al Capítulo 1000 de Servicios Personales o viceversa. Los recursos del Capítulo 1000 son intransferibles e inembargables;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
+X. No realizar traspasos de recursos de otros capítulos presupuestales al Capítulo 1000 que incremente el recurso asignado para Servicios Personales. Los recursos aprobados para el pago de servicios personales son inembargables.
 
 XI. Las Secretarías, Dependencias y Entidades deberán sujetarse a la estructura orgánica y ocupacional autorizada por la Secretaría y al dictamen presupuestal que esta misma emita;
 
@@ -1278,3 +1282,11 @@ P.O. 12 DE AGOSTO DE 2025.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente hábil de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 29 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 187 POR EL QUE “SE REFORMAN EL ARTÍCULO 31 Y LA FRACCIÓN X DEL ARTÍCULO 72 DE LA LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
