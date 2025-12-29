@@ -4,7 +4,7 @@ identifier: "COL-ley-del-instituto-para-el-registro-del-territorio-del-89234"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-25"
-last_updated: "2025-12-27"
+last_updated: "2025-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 25 de agosto del 2012.
 
@@ -2053,9 +2053,11 @@ V. Índice socioeconómico de las y los habitantes; y
 
 VI. Las políticas de ordenamiento y regulación del territorio que sean aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 132.
 
-La determinación de los valores unitarios de terreno aplicables en los sectores catastrales de las áreas rústicas, se hará atendiendo a los factores siguientes:
+La determinación de los valores unitarios de terreno aplicables en los sectores catastrales de las áreas rústicas, se harán atendiendo a los factores siguientes:
 
 I. Las características, los recursos y la productividad actual;
 
@@ -2064,6 +2066,14 @@ II. Las características del medio físico, recursos naturales y situación ambi
 III. La infraestructura y servicios integrados al área; y
 
 IV. La situación jurídica de la tenencia de la tierra.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
+V. El uso del predio.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
+El uso del predio atiende a la actividad económica, productiva o de servicios, que de forma verificable se desarrolle en el mismo
 
 ###### ARTÍCULO 133.
 
@@ -2558,3 +2568,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La operación de las unidades administrativas o de apoyo que requieran presupuesto adicional al autorizado en el ejercicio vigente, para el funcionamiento del OIC, se sujetarán a la disponibilidad presupuestaria del Instituto; sin menoscabo de que se realicen las gestiones conducentes para allegarse del presupuesto necesario en los ejercicios presupuestales posteriores.
 
 TERCERO. Dentro de los noventa días naturales posteriores a la publicación del presente Decreto, el Poder Ejecutivo del Gobierno del Estado deberá realizar las modificaciones necesarias al Reglamento de la Ley del Instituto para el Registro del Territorio del Estado de Colima, para armonizar su contenido con la presente reforma.
+
+P.O. 29 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 233.- POR EL QUE SE APRUEBA REFORMAR Y ADICIONAR DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los sesenta días naturales posteriores a la publicación del presente decreto, el Poder Ejecutivo del Gobierno del Estado deberá realizar las modificaciones necesarias al Reglamento de la Ley del Instituto para el Registro del Territorio del Estado de Colima, para armonizar su contenido con la presente reforma.
