@@ -4,7 +4,7 @@ identifier: "LIGIE_2022"
 country: "mx"
 rank: "ley"
 publication_date: "2022-06-07"
-last_updated: "2025-11-10"
+last_updated: "2025-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=158726&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -63220,6 +63220,28 @@ DECRETO DE ACTUALIZACIÓN DEL D.O.F. 18 DE NOVIEMBRE DE 2022.
 
 > <small>[N. DE E. VÉASE ARCHIVO ANEXO DEL “DECRETO POR EL QUE SE MODIFICA LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN, EL DECRETO PARA EL APOYO DE LA COMPETITIVIDAD DE LA INDUSTRIA AUTOMOTRIZ TERMINAL Y EL IMPULSO AL DESARROLLO DEL MERCADO INTERNO DE AUTOMÓVILES, EL DECRETO PARA EL FOMENTO DE LA INDUSTRIA MANUFACTURERA, MAQUILADORA Y DE SERVICIOS DE EXPORTACIÓN, EL DECRETO POR EL QUE SE ESTABLECE EL IMPUESTO GENERAL DE IMPORTACIÓN PARA LA REGIÓN FRONTERIZA Y LA FRANJA FRONTERIZA NORTE, EL DECRETO DE LA ZONA LIBRE DE CHETUMAL, EL DECRETO POR EL QUE SE ESTABLECEN DIVERSOS PROGRAMAS DE PROMOCIÓN SECTORIAL, EL DECRETO POR EL QUE SE REGULA LA IMPORTACIÓN DEFINITIVA DE VEHÍCULOS USADOS Y LOS DIVERSOS POR LOS QUE SE ESTABLECEN ARANCELES-CUPO”.]</small>
 
+DECRETO DE ACTUALIZACIÓN DEL D.O.F. 6 DE ENERO DE 2023.
+
+> <small>[N. DE E. VÉASE ARCHIVO ANEXO DEL “DECRETO POR EL QUE SE EXENTA EL PAGO DE ARANCEL DE IMPORTACIÓN Y SE OTORGAN FACILIDADES ADMINISTRATIVAS A DIVERSAS MERCANCÍAS DE LA CANASTA BÁSICA Y DE CONSUMO BÁSICO DE LAS FAMILIAS”.]</small>
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2023)</small>
+
+Primero. El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y estará vigente hasta el 31 de diciembre de 2024.
+
+Segundo. Se abroga el Decreto por el que se exenta el pago de arancel de importación y se otorgan facilidades administrativas a diversas mercancías de la canasta básica e insumos que se indican, y el Decreto por el que se exenta el pago de arancel de importación a las mercancías que se indican, publicados en el Diario Oficial de la Federación el 19 de octubre y 18 de noviembre de 2022, respectivamente.
+
+Las menciones que se hagan en reglas de carácter general y demás disposiciones administrativas al Decreto por el que se exenta el pago de arancel de importación y se otorgan facilidades administrativas a diversas mercancías de la canasta básica e insumos que se indican, se entenderán hechas al presente decreto.
+
+Tercero. El registro en el "Padrón de Importadores de Productos de la Canasta Básica” de las Empresas Importadoras de Productos de la Canasta Básica, conforme al Decreto por el que se exenta el pago de arancel de importación y se otorgan facilidades administrativas a diversas mercancías de la canasta básica e insumos que se indican, publicado en el Diario Oficial de la Federación el 19 de octubre de 2022, será válido y mantendrá su vigencia en los términos del presente decreto.
+
+Las Empresas Importadoras de Productos de la Canasta Básica, a las que se refiere el párrafo anterior, podrán solicitar por escrito ante el Servicio de Administración Tributaria la adición de fracciones arancelarias a su registro, siempre y cuando cumplan con las disposiciones del presente decreto.
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2023)</small>
+
+Cuarto. Las Empresas Importadoras de Productos de la Canasta Básica registradas en el "Padrón de Importadores de Productos de la Canasta Básica", que acrediten haber celebrado un contrato para la adquisición de las mercancías referidas en los artículos Primero y Segundo de este ordenamiento, durante el periodo del 20 de octubre de 2022 al 31 de diciembre de 2024, podrán aplicar los beneficios contenidos en el presente decreto hasta el 31 de marzo de 2025, siempre que a más tardar el 10 de enero de 2025 presenten ante el Servicio de Administración Tributaria dichos contratos, conforme a las reglas de carácter general que al efecto emita dicho órgano administrativo desconcentrado.
+
+Quinto. El Servicio de Administración Tributaria emitirá o modificará las reglas de carácter general y la Agencia Nacional de Aduanas de México las reglas de operación, que resulten necesarias para la debida y correcta aplicación del presente decreto.
+
 DECRETO DE ACTUALIZACIÓN DEL D.O.F. 16 DE ENERO DE 2023.
 
 > <small>[N. DE E. VÉASE ARCHIVO ANEXO DEL “DECRETO POR EL QUE SE MODIFICA LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN”.]</small>
@@ -63297,3 +63319,15 @@ DECRETO DE ACTUALIZACIÓN DEL D.O.F. 10 DE NOVIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE MODIFICA LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN".]
 
 Único. El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+DECRETO DE ACTUALIZACIÓN DEL D.O.F. 29 DE DICIEMBRE DE 2025.
+
+> <small>[N. DE E. VÉASE ARCHIVO ANEXO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS FRACCIONES ARANCELARIAS DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN”.]</small>
+
+Primero. El presente Decreto entrará en vigor el primero de enero de 2026.
+
+Segundo. Las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación y sus modificaciones, no previstas en el presente Decreto, seguirán vigentes en los términos en que fueron publicadas en el Diario Oficial de la Federación.
+
+Tercero. Se dejan sin efectos todas las disposiciones que se contrapongan a lo establecido en el presente Decreto.
+
+Cuarto. Sobre los aranceles motivo de esta reforma y con el objetivo de garantizar el abasto de insumos en México en condiciones competitivas, la Secretaría de Economía podrá implementar mecanismos e instrumentos jurídicos específicos correspondientes para la importación de mercancías provenientes de países con los que el Estado mexicano no tenga Tratados de Libre Comercio en vigor.
