@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-mejora-regulatoria-para-el-estado-de-campeche-y-sus-1437
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2024-07-11"
+last_updated: "2025-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143727&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DE MEJORA REGULATORIA PARA EL ESTADO DE CAMPECHE Y SUS MUNICIPIOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO DÉCIMO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 189, PUBLICADO EN EL P.O. DE 29 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE MEJORA REGULATORIA PARA EL ESTADO DE CAMPECHE Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Campeche, el viernes 15 de mayo de 2020.
 
@@ -1488,3 +1490,51 @@ P.O. 11 DE JULIO DE 2024.
 Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 29 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 189 POR EL QUE "SE REFORMAN EL PÁRRAFO TERCERO DEL ARTÍCULO 14; EL APARTADO A DEL ARTÍCULO 22; LAS FRACCIONES XXIV Y LVII DEL ARTÍCULO 27; EL ARTÍCULO 28; LA FRACCIÓN XVII DEL ARTÍCULO 30; LAS FRACCIONES XXVII Y XXVIII DEL ARTÍCULO 33; LA FRACCIÓN V DEL ARTÍCULO 34; LA FRACCIÓN XXXIII DEL ARTÍCULO 40; EL PRIMER PÁRRAFO Y LAS FRACCIONES II, IV, VIII, XXVI, XXVII, XXXV Y XXXVI, Y LOS PÁRRAFOS SEGUNDO, QUINTO, SEXTO Y SÉPTIMO DEL ARTÍCULO 41; LAS FRACCIONES XXII Y XXIII DEL ARTÍCULO 42; EL ARTÍCULO 45; EL PRIMER PÁRRAFO DEL ARTÍCULO 49, Y EL ARTÍCULO 52; SE ADICIONAN LA FRACCIÓN XXIX AL ARTÍCULO 33; LAS FRACCIONES XXXVII Y XXXVIII AL ARTÍCULO 41; LA FRACCIÓN XXIV AL ARTÍCULO 42; Y SE DEROGA EL ARTÍCULO 29, TODOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE".]
+
+## TRANSITORIOS
+
+PRIMERO.- El presente decreto entrará en vigor el 1 de enero de 2026, previa publicación en el Periódico Oficial del Estado, con las salvedades previstas en los siguientes artículos transitorios.
+
+SEGUNDO.- El Poder Ejecutivo del Estado deberá realizar las modificaciones a los Reglamentos Interiores respectivos, en un plazo que no exceda de sesenta días naturales posteriores a la entrada en vigor del presente Decreto. Asimismo, el Ejecutivo deberá realizar las modificaciones a las demás disposiciones normativas aplicables necesarias en un plazo que no exceda de noventa días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+TERCERO.- Todas las referencias hechas a la Secretaría de Modernización Administrativa e Innovación Gubernamental, así como a la Secretaría de Administración y Finanzas en otros ordenamientos del marco jurídico estatal, deberán entenderse hechas a la Secretaría de Administración, Finanzas y Planeación del Poder Ejecutivo del Estado de Campeche.
+
+Todas las referencias hechas a la Secretaría de la Contraloría en otros ordenamientos del marco jurídico estatal, deberán entenderse hechas a la Secretaría de Anticorrupción y Buen Gobierno.
+
+CUARTO.- En virtud de la desaparición de la Secretaría de Modernización Administrativa e Innovación Gubernamental, se deberán entregar oportunamente los recursos humanos, materiales, presupuestales y financieros que correspondan a la Secretaría de Administración, Finanzas y Planeación en un plazo de 15 días hábiles contados a partir de la entrada en vigor del presente Decreto. Asimismo, la Secretaría de Administración, Finanzas y Planeación reasignará los recursos que le sean entregados según las necesidades de la misma Secretaría y de la Administración Pública Estatal.
+
+Quedan garantizados los derechos laborales y de seguridad social de las y los servidores públicos que laboran en la Secretaría de Modernización Administrativa e Innovación Gubernamental.
+
+En relación con los recursos humanos de la Secretaría de Modernización Administrativa e Innovación Gubernamental, todas las personas servidoras públicas pertenecientes a dicha Secretaría, a partir de la entrada en vigor de este Decreto, deberán realizar su entrega-recepción en los plazos y conforme a las disposiciones de la Ley de Entrega-Recepción del Estado de Campeche y sus Municipios.
+
+QUINTO.- A partir de la fecha de publicación del presente Decreto en el Periódico Oficial del Estado de Campeche y para efectos de lo establecido en el transitorio que antecede, la Secretaría de Modernización e Innovación Gubernamental deberá informar por escrito a la Secretaría de Administración, Finanzas y Planeación de todas las obligaciones pendientes de cumplimiento y las deudas pendientes de pago, así como las medidas que tomará para extinguir dichas obligaciones a más tardar el 31 de diciembre de 2025. De igual manera, se abstendrá de adquirir obligaciones que deban concluir con posterioridad al cierre del ejercicio fiscal.
+
+SEXTO.- En el procedimiento de entrega de recursos humanos, materiales, económicos, financieros y presupuestales de la Secretaría de Modernización Administrativa e Innovación Gubernamental se contará con la participación de la Secretaría de la Contraloría, en ejercicio de las facultades vigentes que le confiere en el artículo 41 de la Ley Orgánica de la Administración Pública del Estado de Campeche.
+
+SÉPTIMO.- Las nuevas disposiciones del artículo 41 de la Ley Orgánica de la Administración Pública Estatal, que se adicionan mediante el presente Decreto, entrarán en vigor al día siguiente al que entren en vigor la nueva legislación estatal en materia de Transparencia, Acceso a la Información Pública y Datos Personales en Posesión de Sujetos Obligados que sea emitida.
+
+OCTAVO.- El Instituto de Información Estadística, Geográfica y Catastral del Estado de Campeche quedará sectorizado a la Secretaría de Administración, Finanzas y Planeación, por lo que, a partir de la entrada en vigor de este Decreto, se tendrá un plazo no mayor a 30 días hábiles para realizar las modificaciones respectivas a la legislación del organismo descentralizado. Los derechos laborales y de seguridad social de las y los servidores públicos, serán respetados en su totalidad.
+
+NOVENO.- El Instituto de Desarrollo y Formación Social del Estado de Campeche, quedará sectorizado a la Secretaría de Anticorrupción y Buen Gobierno, por lo que, a partir de la entrada en vigor de este Decreto, se tendrá un plazo no mayor a 30 días hábiles para realizar las modificaciones respectivas a la legislación del organismo descentralizado. Los derechos labores y de seguridad social de las y los servidores públicos, serán respetados en su totalidad.
+
+DÉCIMO.- El Instituto de Acceso a la Justicia del Estado de Campeche, quedará sectorizado a la Consejería Jurídica, por lo que, a partir de la entrada en vigor de este Decreto, se tendrá un plazo no mayor a 30 días hábiles para realizar las modificaciones respectivas a la legislación del organismo descentralizado. Los derechos labores y de seguridad social de las y los servidores públicos, serán respetados en su totalidad.
+
+DÉCIMO PRIMERO.- La Comisión de Mejora Regulatoria del Estado de Campeche deberá adscribirse a la Secretaría de Desarrollo Económico, por lo que le serán transferidos todos los recursos presupuestales, financieros, materiales y humanos de dicho órgano a esa Secretaría, sin que se modifique la naturaleza de órgano desconcentrado de la Comisión.
+
+En virtud de la transferencia de la Comisión de Mejora Regulatoria del Estado de Campeche a la Secretaría de Desarrollo Económico, el artículo 36 del Reglamento Interior de la Secretaría de Modernización Administrativa e Innovación Gubernamental permanecerá vigente en lo que no se oponga a las disposiciones del presente Decreto, hasta la entrada en vigor del nuevo Reglamento Interior de la Secretaría de Desarrollo Económico.
+
+DÉCIMO SEGUNDO.- A partir de la entrada en vigor del presente Decreto quedará abrogada la Ley de Mejora Regulatoria del Estado de Campeche y sus Municipios, publicada en el Periódico Oficial del Estado el 15 de mayo de 2020 y sus respectivas reformas. La Comisión de Mejora Regulatoria del Estado de Campeche ejercerá las atribuciones que la Ley Nacional para Eliminar los Trámites Burocráticos otorga a las Autoridades de Simplificación y Digitalización.
+
+Los asuntos que se encuentren en trámite ante la Comisión de Mejora Regulatoria del Estado de Campeche al momento de la entrada en vigor del presente Decreto, continuarán a su cargo y serán resueltos conforme a las disposiciones jurídicas vigentes al momento de su inicio. Los asuntos iniciados a partir del 1 de enero de 2026 deberán atenderse conforme a las disposiciones de la Ley Nacional para Eliminar los Trámites Burocráticos.
+
+En un plazo no mayor a treinta días naturales contados a partir del 1 de enero de 2026, las personas titulares de los Sujetos Obligados Estatales deberán designar a sus respectivos Enlaces de Simplificación y Digitalización. La designación correspondiente deberá ser notificada a la Agencia de Transformación Digital y Telecomunicaciones y a la Comisión de Mejora Regulatoria del Estado de Campeche.
+
+DÉCIMO TERCERO.- Los recursos humanos, financieros y materiales con que cuenta la Coordinación de Estrategia Digital y Conectividad de la Coordinación General de la Oficina de la Gobernadora o del Gobernador del Estado serán transferidos a la Secretaría de Administración, Finanzas y Planeación dentro de un plazo de 15 días hábiles contados a partir de la entrada en vigor de este Decreto, y, a su vez, la Secretaría de Administración, Finanzas y Planeación transferirá los recursos a la Secretaría de Educación en un plazo no mayor a 15 días hábiles contados a partir de la entrega formal de los recursos.
+
+La persona Titular de la Coordinación General de la Oficina de la Gobernadora o el Gobernador del Estado de Campeche deberá informar a la Secretaría de Administración, Finanzas y Planeación por escrito de todas las obligaciones pendientes de cumplimiento, así como las medidas que tomará para extinguir dichas obligaciones a más tardar el 31 de diciembre de 2025.
+
+DÉCIMO CUARTO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente Decreto.
