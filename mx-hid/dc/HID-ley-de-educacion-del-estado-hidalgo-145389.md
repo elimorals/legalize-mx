@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-del-estado-hidalgo-145389"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-30"
-last_updated: "2025-12-26"
+last_updated: "2025-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN DEL ESTADO HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Núm. 48 del Periódico Oficial del Estado de Hidalgo, el lunes 30 de noviembre de 2020.
 
@@ -1361,6 +1361,10 @@ Con el acuerdo de las autoridades, madres y padres de familia o tutores y la com
 
 Las Autoridades Escolares deberán observar en todo momento que los planteles educativos dispongan de la infraestructura y servicios básicos necesarios de manera regular, acceso, disposición y saneamiento de agua en forma suficiente, salubre, aceptable y asequible.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2025)</small>
+
+Asimismo, los planteles educativos deberán contar con la infraestructura, los instrumentos y los equipos necesarios para la captación y aprovechamiento de agua pluvial, destinada al uso y consumo humano, doméstico, de limpieza y riego de áreas verdes, previo tratamiento sanitario y ambiental que se brinde al agua captada para tales fines, conforme a la normativa aplicable en materia sanitaria, ambiental y de desarrollo urbano.
+
 ###### Artículo 105.
 
 Los muebles e inmuebles destinados a la educación impartida por la Secretaría, las autoridades educativas municipales y por los particulares y con autorización o con Reconocimiento de Validez Oficial de Estudios en el Estado de Hidalgo, así como los servicios e instalaciones necesarios para proporcionar educación, forman parte del Sistema Educativo Estatal.
@@ -2676,3 +2680,11 @@ P.O. 26 DE DICIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 358 - LXVI POR EL QUE SE ADICIONA UN ARTÍCULO 96 BIS A LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO, EN MATERIA DE PROTECCIÓN A LAS MAESTRAS Y LOS MAESTROS FRENTE A LA VIOLENCIA EN EL ENTORNO ESCOLAR".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 29 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 385 - LXVI POR EL QUE SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 104 DE LA LEY DE EDUCACIÓN DEL ESTADO HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Las autoridades educativas, en coordinación con los ayuntamientos y demás instancias competentes, establecerán las acciones y programas necesarios para dar cumplimiento a lo dispuesto en el presente Decreto.
