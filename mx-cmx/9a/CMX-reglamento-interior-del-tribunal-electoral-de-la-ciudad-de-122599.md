@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-tribunal-electoral-de-la-ciudad-de-1225
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-07-18"
-last_updated: "2025-03-21"
+last_updated: "2025-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122599&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-07-10"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 21 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 29 DE DICIEMBRE DE 2025.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el martes 18 de julio de 2017.
 
@@ -1346,19 +1346,67 @@ XII. Aquellas encomendadas por la instancia superior jerárquica relacionadas co
 
 ### CAPÍTULO IX. DE LA CONTRALORÍA
 
-> <small>(REFORMADO, G.O. 1 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 50.
 
-El Tribunal contará con una Contraloría adscrita al Pleno, para efectos administrativos y orgánicos, cuya persona titular será designada en los términos establecidos en el Código.
+El Tribunal contará con una Contraloría, para efectos administrativos y orgánicos, cuya persona titular será designada por el Pleno, a propuesta de la Magistrada Presidenta o el Magistrado Presidente, previo dictamen de la Secretaría Administrativa sobre el cumplimiento de los requisitos establecidos en el artículo 16 de la Ley de Auditoría y Control Interno de la Administración Pública de la Ciudad de México, así como en el Manual de Organización y Funcionamiento, para ocupar el cargo.
 
-Las ausencias temporales de la persona Titular de la Contraloría Interna, serán cubiertas por la persona Titular de la Dirección de Responsabilidades y Atención a Quejas.
+Las ausencias temporales de la persona Titular de la Contraloría Interna, serán cubiertas por la persona titular de la Dirección de Presuntas Responsabilidades, Inconformidades y Control Patrimonial.
 
-En caso de ausencia definitiva de la o el Contralor Interno, el Pleno determinará lo que corresponda conforme a lo que al efecto establezcan las leyes atinentes.
+En caso de ausencia definitiva de la persona titular de la Contraloría Interna, el Pleno determinará lo conducente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 29 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 51.
 
-(DEROGADO, G.O. 1 DE MARZO DE 2018)
+Además de las atribuciones que tiene conferidas en el Código, la persona titular de la Contraloría Interna tiene las siguientes:
+
+I. Coordinar, en el marco del programa interno de auditoría, la ejecución de auditorías contables, operacionales, de resultados y de desempeño a las unidades administrativas del Tribunal y, en su caso, recomendar las acciones preventivas y correctivas para la solventación de las observaciones;
+
+II. Verificar que los órganos y áreas del Tribunal cumplan con las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos;
+
+III. Coordinar, vigilar y supervisar el seguimiento a las observaciones y recomendaciones que deriven de las auditorías realizadas por la propia Contraloría, así como de las formuladas por la Auditoría Superior de la Ciudad de México y por las y los auditores externos, e informar periódicamente al Pleno sobre el estado que guarda;
+
+IV. Acordar con la Presidencia las cuestiones administrativas de su área;
+
+V. Coordinar las actividades de las Direcciones de Área adscritas a la Contraloría;
+
+VI. Vigilar que los actos de entrega-recepción de las personas servidoras públicas del Tribunal se realicen en términos de la normativa aplicable;
+
+VII. Supervisar la atención a las quejas y denuncias que se formulen en materia de responsabilidades administrativas;
+
+VIII. Vigilar la sustanciación de los procedimientos de responsabilidad administrativa en que incurran las personas servidoras públicas y ex servidoras públicas del Tribunal; emitir las resoluciones y, en su caso, imponer las sanciones atinentes de faltas no graves proveyendo lo necesario para su debido cumplimiento; en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas de la Ciudad de México.
+
+IX. Supervisar la tramitación y emitir la resolución en los recursos de revocación que se promuevan en contra de las resoluciones administrativas que dicte la Contraloría;
+
+X. Expedir constancias que acredite (sic) la existencia o inexistencia de registro;
+
+XI. Coordinar y vigilar que las personas obligadas del Tribunal conforme a la normatividad aplicable presenten, sus declaraciones de situación patrimonial, asimismo, administrar el Sistema Declara TECDMX para llevar el registro y resguardo respectivo de las declaraciones de situación patrimonial, en términos de la normativa aplicable;
+
+XII. Participar en las sesiones de los comités y subcomités, así como en las reuniones de trabajo, en el ámbito de sus atribuciones y, en su caso, designar a sus representantes quienes asistirán en términos de la normativa aplicable;
+
+XIII. Revisar que las adquisiciones de bienes, los arrendamientos y la prestación de servicios, así como la obra pública y servicios relacionados con la misma, se ajusten a los procedimientos normativos y montos autorizados;
+
+XIV. Coordinar y supervisar que la sustanciación de los recursos de inconformidad que presenten las proveedoras con relación a los actos o fallos en los procedimientos de adquisiciones, contratación de arrendamientos y servicios, así como de obra pública y servicios relacionados con la misma, se lleven a cabo en términos de la legislación aplicable y en su oportunidad emitir la resolución correspondiente;
+
+XV. Verificar y evaluar la consistencia de la información programática, presupuestal y financiera del Tribunal, con las fuentes contables y la solidez de los sistemas y procedimientos que se siguen para producirla;
+
+XVI. Informar trimestralmente al Pleno, de las deficiencias o desviaciones que detecte en el reporte del avance del Programa Operativo Anual presentado por la Secretaría Administrativa, respecto de los objetivos y metas fijados en los proyectos de las áreas para que se determinen las medidas legales y administrativas conducentes;
+
+XVII. Requerir fundada y motivadamente a las personas servidoras públicas del Tribunal, así como a las personas proveedoras, contratistas y prestadoras de servicios, toda la información y documentación necesaria para el debido cumplimiento de sus funciones;
+
+XVIII. Solicitar fundada y motivadamente informes, documentos, así como el apoyo y colaboración a las diversas autoridades, dependencias, entidades y órganos públicos, para el desempeño de sus atribuciones;
+
+XIX. Vigilar el debido cumplimiento de la normativa en materia Transparencia y Acceso a la Información Pública, Protección de Datos Personales y Archivos;
+
+XX. Atender consultas y emitir opiniones relacionadas con el ámbito de su competencia;
+
+XXI. Comparecer ante las diversas instancias jurisdiccionales, en su calidad de autoridad responsable;
+
+XXII. Proponer al Pleno los proyectos y/o reformas de procedimientos, Manuales, Código de Conducta, Código de Ética, y demás normativa para el buen funcionamiento del Tribunal Electoral, y
+
+XXIII. Las demás que le confieran las disposiciones legales aplicables y las que le encomienden el Pleno o la Presidencia.
 
 > <small>(ADICIONADO, G.O. 1 DE MARZO DE 2018)</small>
 
@@ -1420,15 +1468,73 @@ XXVI. Presentar ante el Ministerio Público las denuncias a que haya lugar por l
 
 XXVII. Comparecer ante las diversas instancias jurisdiccionales, en su calidad de autoridad responsable.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 29 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 52.
 
 Para el debido desempeño de sus atribuciones, la persona titular de la Contraloría contará con el apoyo de las Direcciones de área previstas en este Reglamento.
 
 Para ocupar el cargo de Director/a de área en la Contraloría, deberán cumplirse los requisitos establecidos en el Manual de Organización y Funcionamiento del Tribunal.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 29 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 53.
 
-(DEROGADO, G.O. 1 DE MARZO DE 2018)
+La persona titular de la Dirección de Presuntas Responsabilidades, Inconformidades y Control Patrimonial adscrita a la Contraloría, tiene las atribuciones siguientes:
+
+I. Recibir los informes de Presunta Responsabilidad;
+
+II. Autorizar los Acuerdos de (sic) para el inicio de la sustanciación del Procedimiento o de Desechamiento;
+
+III. Tramitar, sustanciar y resolver los procedimientos de responsabilidad administrativa con motivo de los informes de presunta responsabilidad;
+
+IV. Ordenar la remisión formal del Informe de Presunta Responsabilidad y del expediente de investigación a la autoridad competente: a la persona titular de la Contraloría Interna (Autoridad Resolutora para No Graves) o al Tribunal de Justicia Administrativa (para Faltas Graves).
+
+V. Proponer las sanciones que procedan en términos de la Ley de Responsabilidades Administrativas de la Ciudad de México, en los procedimientos de Responsabilidad Administrativa;
+
+VI. Dirigir la correcta aplicación del procedimiento de substanciación para las faltas no graves, asegurando que se cumplan los términos y plazos de la Ley de Responsabilidades Administrativas de la Ciudad de México;
+
+VII. Supervisar que la Jefatura de Denuncias y Situación Patrimonial cumpla con la notificación a la persona presuntamente responsable, la admisión o desechamiento de pruebas y la correcta celebración de la audiencia inicial o de ley, garantizando el debido proceso;
+
+VIII. Proponer el proyecto de resolución a la persona titular de la Contraloría Interna para su análisis, una vez agotada la substanciación;
+
+XIX (SIC). Emitir el acuerdo de conclusión y archivo del expediente;
+
+X. Dirigir la atención y resolución de los recursos de Inconformidad presentados por las personas particulares en los procedimientos de Adquisiciones, conforme a la normativa aplicable del Tribunal;
+
+XI. Realizar el análisis técnico-jurídico de las Inconformidades para determinar si existe alguna afectación al proceso de licitación y emitir la resolución procedente;
+
+XII. Diseñar y dirigir la estrategia anual de Control Patrimonial, incluyendo la campaña de declaraciones y la selección de personas servidoras públicas para la revisión exhaustiva;
+
+XIII. Conocer y aprobar los informes de inconsistencias patrimoniales o conflictos de interés detectados, ordenando su transferencia a la Jefatura de Departamento de Investigación;
+
+XIV. Presentar a la persona titular de la Contraloría Interna los informes trimestrales y anuales de gestión de conformidad con sus atribuciones;
+
+XV. Elaborar lo (sic) informes previo y justificados que rinda la persona titular de la Contraloría Interna en su calidad de autoridad responsable;
+
+XVI. Asegurar la capacitación continua y especializada en las materias de derecho administrativo sancionador, investigación y técnicas de control patrimonial;
+
+XVII. Supervisar y garantizar el cumplimiento del Código de Ética por parte de las personas servidoras públicas del Tribunal, conforme a los lineamientos del Sistema Nacional Anticorrupción, mediante la atención y sustanciación de presuntas responsabilidades administrativas, inconformidades;
+
+XVIII. Llevar el registro de las personas servidoras públicas sancionadas administrativamente por la Contraloría Interna, una vez que la resolución respectiva haya causado estado;
+
+XIX. Participar en los procedimientos en materia de adquisiciones, arrendamientos, prestación de servicios y obra pública, con el objeto de verificar que se cumplan los ordenamientos legales aplicables;
+
+XX. Suplir las ausencias temporales de la persona titular de la Contraloría Interna;
+
+XXI. Participar en los actos de entrega-recepción de las personas servidoras públicas del Tribunal, en términos de la normativa aplicable;
+
+XXII. Requerir a las unidades administrativas, personas servidoras públicas, personas proveedoras, contratistas y prestadoras de servicios el apoyo, información y documentación necesaria para el debido cumplimiento de sus funciones;
+
+XXIII. Atender las consultas de las áreas del Tribunal en los asuntos de su competencia y emitir las opiniones correspondientes;
+
+XXIV. Requerir a las personas servidoras públicas del Tribunal su declaración de situación patrimonial, integrar el registro y seguimiento correspondiente y proponer los mecanismos necesarios para difundir el cumplimento de dicha observación;
+
+XXV. Implementar las acciones necesarias para el cumplimiento de las sanciones impuestas con motivo de los procedimientos administrativos de responsabilidad;
+
+XXVI. Tramitar, sustanciar y resolver los recursos de revocación presentados en contra de las resoluciones de la Contraloría Interna por la imposición de sanciones administrativas, y
+
+XXVII. Aquellas que se determinen en la normativa interna aplicable; así como las que la persona superior jerárquica le encomiende en relación con su puesto.
 
 > <small>(ADICIONADO, G.O. 1 DE MARZO DE 2018)</small>
 
@@ -1472,59 +1578,63 @@ XVII. Elaborar los informes justificados que rinda la Contralora o el Contralor 
 
 XVIII. Aquellas encomendadas por la instancia superior jerárquica relacionadas con sus atribuciones.
 
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 54.
 
-La persona titular de la Dirección de Auditoría, Control y Evaluación, adscrita a la Contraloría, tiene las atribuciones siguientes:
+La persona titular de la Dirección de Fiscalización, Desempeño y Normatividad, adscrita a la Contraloría, tiene las atribuciones siguientes:
 
-I. Coordinar las labores de fiscalización del manejo, custodia y aplicación de recursos;
+I. Diseñar la metodología y los criterios técnicos para la elaboración del Programa Interno de Auditoría, identificando los rubros y procesos de alto riesgo en el Tribunal;
 
-II. Revisar el adecuado funcionamiento de los sistemas de control interno del Tribunal, así como emitir opinión sobre su eficiencia y eficacia;
+II. Dirigir la ejecución de las auditorías financieras, de legalidad y de desempeño, asegurando la aplicación de la normatividad vigente;
 
-III. Proponer a la o el Contralor Interno los contenidos del Programa Interno de Auditoría;
+III. Aplicar técnicas de muestreo estadístico y selectivo para la revisión de expedientes, contratos, pólizas y documentos comprobatorios, garantizando la suficiencia y pertinencia de la evidencia;
 
-IV. Realizar los actos tendentes a la ejecución del Programa Interno de Auditoría;
+IV. Fundamentar técnica y legalmente las observaciones y hallazgos de auditoría, vinculándolos directamente con el incumplimiento de la normativa o la afectación al patrimonio;
 
-V. Verificar la realización de las auditorías, revisiones específicas y/o auditorías especiales;
+V. Elaborar los Informes Individuales y Finales de Auditoría, incluyendo la matriz de observaciones y las acciones correctivas propuestas, conforme al formato institucional;
 
-VI. Realizar las acciones correspondientes al seguimiento de las observaciones, recomendaciones y demás acciones que deriven de las auditorías que determine la Contraloría, hasta su solventación;
+VI. Implementar el sistema técnico de seguimiento a las acciones y recomendaciones de auditoría, verificando la comprobación documental y material de su atención por las áreas auditadas;
 
-VII. Someter a la o el Contralor Interno los casos que ameriten el inicio de procedimientos de responsabilidades administrativas, que deriven de los resultados de las auditorías;
+VII. Diseñar y aplicar la metodología de evaluación del Sistema de Control Interno del Tribunal, bajo los componentes y principios del Marco COSO;
 
-VIII. Informar a la o el Contralor Interno el avance en la ejecución del Programa Interno de Auditoría, así como los resultados de las auditorías;
+VIII. Proponer la metodología para la identificación, evaluación y jerarquización de Riesgos inherentes a los procesos críticos del Tribunal, documentados en la Matriz de Riesgos;
 
-IX. Resguardar los documentos resultantes de las auditorías y revisiones;
+IX. Establecer y aplicar indicadores de gestión y desempeño para medir la eficiencia, eficacia y economía de los programas y proyectos del Tribunal;
 
-> <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
+X. Asesorar técnicamente a las áreas en la elaboración e implementación de sus Planes de Mejora derivados de las observaciones de auditoría o las evaluaciones de desempeño y control interno;
 
-X. Requerir fundada y motivadamente a los órganos, áreas, unidades y personas servidoras públicas del Tribunal, así como a personas proveedoras, contratistas y prestadoras de servicios, la información y documentación necesaria, para el debido cumplimiento de sus funciones;
+XI. Evaluar la coherencia y resultados de los programas presupuestarios del Tribunal, analizando su contribución al logro de objetivos institucionales;
 
-XI. Revisar los procesos de planeación, programación y presupuestación del Tribunal, a fin de comprobar el cumplimiento de las disposiciones en la materia y, en su caso, proponer las recomendaciones necesarias para ello;
+XII. Proponer la implementación de sistemas de información y tableros de control que permitan el monitoreo continuo de los riesgos y el desempeño institucional;
 
-XII. Evaluar la consistencia de la información programática, presupuestal y financiera del Tribunal, de ésta con las fuentes contables y la solidez de los sistemas y procedimientos que se siguen para producirla;
+XIII. Coordinar los trabajos técnicos para la certificación o recertificación de procesos del Tribunal bajo estándares de calidad o control interno;
 
-XIII. Evaluar el ejercicio del presupuesto y elaborar las recomendaciones que procedan;
+XIV. Elaborar en el ámbito de atribuciones de la Contraloría opiniones sobre la aplicación e interpretación de las leyes, reglamentos y lineamientos que rigen la operación del Tribunal;
 
-XIV. Evaluar la consistencia entre los objetivos, programas, subprogramas y proyectos del Tribunal, las metas en ellos establecidas y con la asignación del presupuesto; verificar el cumplimiento de los programas y del presupuesto; participar en el diseño de indicadores de gestión y elaborar las recomendaciones que procedan;
+XV. Coadyuvar en la elaboración de Manuales de Procedimientos de los órganos y áreas, validando que los flujos de trabajo se apeguen a la normativa vigente;
 
-XV. Apoyar a la o el Contralor Interno en la elaboración de los informes que éste debe presentar al Pleno sobre el desempeño físico financiero de los proyectos a cargo del Tribunal;
+XVI. Analizar y compilar los criterios de fiscalización y responsabilidades emitidos por la Contraloría para asegurar la uniformidad en la aplicación de la normativa;
 
-XVI. Coordinar la elaboración del Programa Operativo Anual de la Contraloría y vigilar su cumplimiento;
+XVII. Revisar técnicamente los proyectos de normativa o reformas relacionados con la gestión administrativa o financiera del Tribunal, y en su caso señalar sobre posibles riesgos, en el ámbito de atribuciones de la Contraloría Interna;
 
-XVII. Elaborar los reportes e informes que requiera la Auditoría Superior de la Ciudad de México, dando seguimiento a las observaciones implementadas hasta su total cumplimiento;
+XVIII. Evaluar la congruencia y viabilidad del Programa Operativo Anual, verificando que los recursos solicitados sean consistentes con las metas y riesgos identificados;
 
-XVIII. Verificar que la disponibilidad de recursos reportada en los estados financieros corresponda al avance en el ejercicio presupuestal;
+XIX. Proponer la metodología técnica para que las propias áreas del Tribunal realicen su autoevaluación de control interno de forma periódica, bajo los parámetros definidos con base en los resultados de las auditorias;
 
-XIX. Verificar el cumplimiento de los objetivos y metas fijados en los programas presupuestales a cargo del Tribunal, informando a la o el Contralor Interno las deficiencias o desviaciones que detecte;
+XX. Desarrollar y proponer talleres técnicos y seminarios internos sobre temas como control interno avanzado, gestión de riesgos o metodologías de auditoría basadas en riesgos para el personal del Tribunal;
 
-XX. Coadyuvar con la Secretaría Administrativa en la actualización del Manual de Políticas y Procedimientos para el Otorgamiento y Administración del Fondo Revolvente;
+XXI. Proponer el rediseño de los controles y procedimientos operativos en las áreas del Tribunal que muestren incidencia de errores, buscando la automatización y simplificación;
 
-XXI. Solicitar a la Secretaría Administrativa información sobre el avance programático del presupuesto de egresos del Tribunal de manera mensual;
+XXII. Revisar el adecuado funcionamiento de los sistemas de control interno del Tribunal, así como emitir opinión sobre su eficiencia y eficacia;
 
-XXII. Participar como representante de la Contraloría en Comités y reuniones de trabajo relacionadas con los procesos de planeación y presupuestación y aquellas relacionadas con el tema de transparencia, información pública y datos personales;
+XXIII. Someter a la persona titular de la Contraloría Interna los casos que ameriten el inicio de procedimientos de responsabilidades administrativas que deriven de los resultados de las auditorías;
 
-XXIII. Atender las solicitudes de información de los órganos o áreas del Tribunal, en los asuntos de su competencia, y
+XXIV. Resguardar los documentos resultantes de las auditorías y revisiones;
 
-XXIV. Aquellas que se determinen en la legislación y la normativa interna aplicable.
+XXV. Requerir fundada y motivadamente a las unidades organizacionales, personas servidoras públicas del Tribunal, así como a las personas proveedoras, contratistas y prestadoras de servicios, la información y documentación necesaria para el debido cumplimiento de sus funciones; y
+
+XXVI. Aquellas que se determinen en la legislación y la normativa interna aplicable; así como las que la persona superior jerárquica le encomiende en relación con su puesto.
 
 ### CAPÍTULO X. DE LA DEFENSORÍA CIUDADANA
 
@@ -2615,6 +2725,14 @@ SEGUNDO. Publíquese en la Gaceta Oficial de la Ciudad de México y en los Estra
 G.O. 21 DE MARZO DE 2025.
 
 > <small>[N. DE E. TRANSITORIOS POR EL QUE SE "REFORMA A LOS ARTÍCULOS 55, 56, 57, 58, 59 60 Y DEROGACIÓN DE LOS ARTÍCULOS 62 Y 63 DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DE LA CIUDAD DE MÉXICO".]</small>
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en los Estrados del Tribunal Electoral de la Ciudad de México.
+
+SEGUNDO. Publíquese en la Gaceta Oficial de la Ciudad de México, en los Estrados, así como en las páginas de Internet e Intranet del Tribunal Electoral de la Ciudad de México.
+
+G.O. 29 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA AL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DE LA CIUDAD DE MÉXICO”.]
 
 PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en los Estrados del Tribunal Electoral de la Ciudad de México.
 
