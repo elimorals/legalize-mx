@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-reglamenta-las-candidaturas-independientes-en-el-108834
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-12"
-last_updated: "2020-03-27"
+last_updated: "2025-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108834&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY QUE REGLAMENTA LAS CANDIDATURAS INDEPENDIENTES EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 12 de junio de 2015.
 
@@ -467,9 +467,7 @@ g) Manifestación por escrito, bajo protesta de decir verdad, de:
 
 h) Escrito en el que manifieste su conformidad para que todos los ingresos y egresos de la cuenta bancaria aperturada sean fiscalizados, en cualquier momento, por la autoridad electoral competente.
 
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
-
-i) En el caso de que busquen reelegirse en sus cargos, deberán acompañar una carta que especifique los periodos para los que han sido electos en ese cargo y la manifestación de estar cumpliendo los límites establecidos por la Constitución en materia de elección consecutiva.
+i) (DEROGADO, P.O. 30 DE DICIEMBRE DE 2025)
 
 > <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
 
@@ -914,3 +912,9 @@ PRIMERO.- Publíquese el contenido de la presente reforma en el Periódico Ofici
 SEGUNDO.- La presente reforma entrará en vigor hasta en tanto sea publicada la modificación al artículo 5 párrafo quinto de la Constitución Política del Estado Libre y Soberano de Baja California, así como el párrafo segundo del APARTADO B, del mismo artículo.
 
 TERCERO.- Remítase el contenido del presente Decreto al Instituto Estatal Electoral del Estado de Baja California, para los efectos legales correspondientes.
+
+P.O. 30 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 207 MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, SE APRUEBAN LA REFORMA A DIVERSOS ARTÍCULOS DE LA LEY ELECTORAL DEL ESTADO, SE APRUEBA ARTÍCULO 29 DE LA LEY QUE REGLAMENTA LAS CANDIDATURAS INDEPENDIENTES EN EL ESTADO DE BAJA CALIFORNIA, SE APRUEBA LA DEROGACIÓN DEL ARTÍCULO 9 TER DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor el día inicio del proceso electoral 2029-2030 a celebrarse en 2030, por lo que las personas que en 2030 se encuentren ejerciendo los cargos públicos a que hace referencia las presentes reformas, no podrán postularse para procesos de reelección correspondientes.
