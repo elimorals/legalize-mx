@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-etica-para-los-servidores-publicos-de-la-174582"
 country: "mx"
 rank: "codigo"
 publication_date: "2024-09-26"
-last_updated: "2024-09-26"
+last_updated: "2025-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174582&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # CODIGO DE ETICA PARA LOS SERVIDORES PUBLICOS DE LA SECRETARIA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCION DE JALISCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE ÉTICA E INTEGRIDAD PARA LAS PERSONA (SIC) SERVIDORAS PÚBLICAS DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE JALISCO, PUBLICADO EN EL P.O. DE 30 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA PARA LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2025 (ABROGADO).
 
 Código publicado en la Sección III del Número 34 del Periódico Oficial del Estado de Jalisco, el jueves 26 de septiembre de 2024.
 
@@ -524,3 +526,21 @@ MAESTRO EZEQUIEL GONZÁLEZ PINEDO
 Titular del Órgano Interno de Control de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Jalisco
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA E INTEGRIDAD PARA LAS PERSONA (SIC) SERVIDORAS PÚBLICAS DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE JALISCO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga el Acuerdo SE/OIC/006/2024 por el que se emite el "Código de Ética para las Personas Servidoras Públicas de la SESAJ", publicado en el Periódico Oficial "El Estado de Jalisco", el día 26 de septiembre de 2024.
+
+TERCERO. El cumplimiento y observancia del presente Código de Ética e Integridad será obligatorio para todas las Personas Servidoras Públicas de la SESAJ, al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Tanto el Código de Ética e Integridad como el Código de Conducta, en su momento, deberán ser difundidos en la página de internet de la SESAJ, publicados en el Periódico Oficial "El Estado de Jalisco" y hechos del conocimiento de las Personas Servidoras Públicas de la SESAJ.
+
+CUARTO. La SESAJ, previa aprobación del OIC emitirá el Código de Conducta de las Personas Servidoras Públicas de la SESAJ, en el que se especificará de manera puntual y concreta la forma en que las Personas Servidoras Públicas aplicarán los principios, valores y reglas de integridad contenidas en el Código de Ética e Integridad correspondiente.
+
+El Acuerdo se expide a los 12 doce días del mes de diciembre de 2025 dos mil veinticinco, por parte del TOIC de la SESAJ, lo anterior, con fundamento con fundamento (sic) en los artículos 109 fracción III de la Constitución Política de los Estados Unidos Mexicanos; 7 y 16 de la Ley General de Responsabilidad Administrativas; 106 fracción IV, 107 Ter de la Constitución Política del Estado de Jalisco, 52 numeral 1 fracción X y 53 Bis fracción VI de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco; 2 fracción IX y 4 de la Ley del Sistema Anticorrupción del Estado de Jalisco, 34 y 35 del Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción del Estado de Jalisco.
