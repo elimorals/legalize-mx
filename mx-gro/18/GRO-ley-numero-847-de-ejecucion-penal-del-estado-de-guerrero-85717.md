@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-847-de-ejecucion-penal-del-estado-de-guerrero-85717"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-02"
-last_updated: "2011-12-02"
+last_updated: "2025-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 847 DE EJECUCIÓN PENAL DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 2 de diciembre de 2011.
 
@@ -107,9 +107,17 @@ IX. Medidas judiciales. Las medidas cautelares y de seguridad; así como las con
 
 Negocios jurídicos
 
-El Ejecutivo del Estado o la Secretaría podrán celebrar convenios y contratos con el sector privado para que éste participe en la construcción, remodelación, rehabilitación, ampliación y mantenimiento de instalaciones de los centros; en la prestación de servicios de operación en éstos; en la prestación del servicio de tratamiento por farmacodependencia con fines de rehabilitación y en la atención psicológica de los internos, en los términos que se señalen en tales convenios y contratos.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
-En todo caso, los convenios y contratos que se celebren deberán contener cláusulas que establezcan la confidencialidad en los dispositivos de seguridad de los centros, la relación entre el personal contratado por los particulares y los internos, y el respeto irrestricto a los derechos humanos.
+El Ejecutivo del estado o la Secretaría podrán celebrar convenios y contratos con el sector privado para que éste participe en la construcción, remodelación, rehabilitación, ampliación y mantenimiento de instalaciones de los Centros de Reinserción Social; en la prestación de servicios de operación en éstos; en la prestación del servicio de tratamiento por farmacodependencia con fines de rehabilitación y en la atención psicológica de las personas internas, en los términos que se señalen en tales convenios y contratos.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+En todo caso, los convenios y contratos que se celebren deberán contener cláusulas que establezcan la confidencialidad en los dispositivos de seguridad de los centros, la relación entre el personal contratado por los particulares y las personas internas, y el respeto irrestricto a los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+Asimismo, los convenios y contratos que se suscriban deberán prever expresamente medidas de prevención, detección y control para impedir que, mediante el uso de infraestructura, equipos, sistemas tecnológicos o servicios vinculados con los centros de reinserción social, se lleven a cabo conductas relacionadas con el delito de extorsión, en términos de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la Fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, y de la Ley del Sistema de Seguridad Pública del Estado Libre y Soberano de Guerrero.
 
 ### CAPITULO II. DERECHOS HUMANOS DE LOS INTERNOS
 
@@ -2049,6 +2057,22 @@ Corrección disciplinaria
 
 Los internos no serán corregidos disciplinariamente sino en los casos y con las sanciones administrativas establecidas en el Reglamento respectivo, en un marco de respeto irrestricto a los derechos humanos de las personas.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 173 Bis.
+
+Faltas disciplinarias en materia de extorsión.
+
+Sin perjuicio de las disposiciones que establezca el reglamento respectivo, se considerarán faltas graves las conductas realizadas por personas internas o por el personal de los Centros de Reinserción Social que faciliten, toleren o encubran la comisión del delito de extorsión desde el interior de los centros, así como:
+
+I. La introducción, posesión, uso o distribución de dispositivos, equipos o medios de comunicación no autorizados, con el propósito de realizar actos de extorsión;
+
+II. La obtención, transmisión o difusión indebida de datos personales, información sensible o referencias de posibles víctimas, a fin de que sean utilizadas en actos de extorsión, y
+
+III. Cualquier otra conducta que, por acción u omisión dolosa, contribuya a la organización, operación o encubrimiento de esquemas de extorsión desde los Centros de Reinserción Social.
+
+Estas faltas serán sancionadas en los términos del reglamento respectivo y sin perjuicio de las responsabilidades penales, civiles y administrativas que correspondan.
+
 ###### Artículo 174.
 
 Derecho de audiencia y defensa
@@ -2065,9 +2089,21 @@ El escrito de inconformidad será presentado por la defensa del infractor ante e
 
 Derecho de comunicación
 
-Los internos estarán autorizados para comunicarse periódicamente, de forma oral o escrita, con sus familiares, amigos y representantes acreditados, así como con los funcionarios o empleados de organismos e instituciones de cooperación penitenciaria.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
-La comunicación telefónica se hará a través de aparatos fijos públicos debidamente controlados por las autoridades del Centro de Reinserción Social, respetando siempre la comunicación libre y privada.
+Las personas internas estarán autorizadas para comunicarse periódicamente, de forma oral o escrita, con sus familiares, amistades y representantes acreditados, así como con las personas funcionarias o empleadas de organismos e instituciones de cooperación penitenciaria.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+La comunicación telefónica se hará de manera exclusiva a través de aparatos fijos públicos debidamente controlados por las autoridades del Centro de Reinserción Social, respetando siempre la comunicación libre y privada.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+Queda estrictamente prohibida al interior de los Centros de Reinserción Social la introducción, posesión, uso, facilitación o tolerancia de teléfonos móviles, radios de comunicación, dispositivos electrónicos o cualquier otro medio de transmisión de voz, datos, imagen o mensajes que no haya sido autorizado y controlado por la autoridad penitenciaria, cuando su utilización favorezca la comisión del delito de extorsión u otros ilícitos, conforme a la legislación general y local aplicable.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+Asimismo, se establecerá en los centros penitenciarios, los procedimientos y las tecnologías correspondientes para inhibir la entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen, dentro de su perímetro. El incumplimiento del presente artículo se considerará como una falta grave en materia de responsabilidades administrativas, con independencia del delito en que pudiera incurrir.
 
 ###### Artículo 176.
 
@@ -2081,11 +2117,31 @@ Secciones para visitas personales
 
 Los Centros de Reinserción Social dispondrán de las secciones especialmente adecuadas para las visitas personales, las que se concederán en los términos del Reglamento respectivo.
 
-### CAPÍTULO ÚNICO. INSTITUCIONES DE ASISTENCIA SOCIAL A LIBERADOS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO VI BIS. PREVENCIÓN Y COMBATE A LA EXTORSIÓN DESDE LOS CENTROS DE REINSERCIÓN SOCIAL
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 177 Bis.
+
+Medidas internas para prevenir y combatir la extorsión
+
+En los Centros de Reinserción Social del estado, la prevención, detección, control tecnológico y demás acciones en materia de combate a la extorsión desde su interior, se sujetarán estrictamente a lo dispuesto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la Fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, y en la Ley del Sistema de Seguridad Pública del Estado Libre y Soberano de Guerrero y en las disposiciones reglamentarias aplicables.
+
+Las autoridades penitenciarias deberán dar cumplimiento obligatorio a los lineamientos, protocolos, mecanismos tecnológicos y esquemas de coordinación que se emitan con fundamento en dichos ordenamientos, en el ámbito de sus respectivas competencias.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 177 Ter.
+
+Coordinación interinstitucional en materia de extorsión
+
+La Secretaría, por conducto de la autoridad penitenciaria competente, deberá coordinarse de manera operativa con la Fiscalía General del estado, el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública y las autoridades federales competentes, conforme a las bases que establezca la Ley del Sistema de Seguridad Pública del Estado Libre y Soberano de Guerrero, para la prevención, detección, investigación y combate de la extorsión que se genere o pretenda generarse desde los Centros de Reinserción Social.
 
 ## TITULO SÉPTIMO. ASISTENCIA POSPENITENCIARIA
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO ÚNICO. INSTITUCIONES DE ASISTENCIA SOCIAL A LIBERADOS
 
 ###### Artículo 178.
 
@@ -2171,7 +2227,7 @@ El funcionamiento, organización y administración del Patronato se especificar�
 
 ## TÍTULO OCTAVO. CONSEJO TÉCNICO INTERDISCIPLINARIO
 
-### CAPÍTULO ÚNICO. CAUSAS DE EXTINCIÓN
+### CAPÍTULO ÚNICO
 
 ###### Artículo 186.
 
@@ -2241,7 +2297,7 @@ X. Las demás que señalen los ordenamientos jurídicos aplicables.
 
 ## TÍTULO NOVENO. EXTINCIÓN DE LAS PENAS Y MEDIDAS DE SEGURIDAD
 
-### CAPÍTULO UNICO. PERSONAL DEL SISTEMA PENITENCIARIO
+### CAPÍTULO ÚNICO. CAUSAS DE EXTINCIÓN
 
 ###### Artículo 190.
 
@@ -2266,6 +2322,8 @@ VII. Indulto, y
 VIII. Las demás que señale el Código Penal.
 
 ## TITULO DECIMO. SERVICIO CIVIL DE CARRERA
+
+### CAPÍTULO UNICO. PERSONAL DEL SISTEMA PENITENCIARIO
 
 ###### Artículo 191.
 
@@ -2384,3 +2442,19 @@ EL SECRETARIO DE SEGURIDAD PÚBLICA Y PROTECCIÓN CIVIL.
 LIC. RAMÓN ALMONTE BORJA.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 346 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 847 DE EJECUCIÓN PENAL DEL ESTADO DE GUERRERO, EN MATERIA DE EXTORSIÓN“.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
+
+TERCERO. La Secretaría de Seguridad Pública del Estado deberá adecuar los manuales de organización, procedimientos y protocolos operativos penitenciarios a lo dispuesto en el presente Decreto, en un plazo no mayor a ciento ochenta días naturales, contados a partir de su entrada en vigor.
+
+CUARTO. Las acciones derivadas de la implementación del presente Decreto se realizarán con cargo a los presupuestos aprobados, sin autorizar recursos adicionales ni incrementar los presupuestos regularizables.
+
+QUINTO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
