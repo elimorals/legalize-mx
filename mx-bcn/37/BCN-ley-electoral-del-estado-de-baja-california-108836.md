@@ -4,7 +4,7 @@ identifier: "BCN-ley-electoral-del-estado-de-baja-california-108836"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-12"
-last_updated: "2025-10-03"
+last_updated: "2025-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 12 de junio de 2015.
 
@@ -285,45 +285,15 @@ Los partidos políticos estatales que tuvieren su registro suspendido o cancelad
 
 El Congreso del Estado estará integrado por diputados que se elegirán cada tres años, mediante sufragio universal, libre, secreto, directo, personal e intransferible; diecisiete serán electos en forma directa mediante el principio de mayoría relativa, uno por cada distrito electoral en que se divide el territorio del Estado, y en su caso, hasta ocho Diputados electos por el principio de representación proporcional en una circunscripción estatal, de conformidad con la Constitución del Estado y el procedimiento previsto en el presente Título. Cada Diputado propietario tendrá un suplente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 21.
 
-Las y los diputados podrán ser electos hasta por cuatro periodos consecutivos.
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
-
-Las y los diputados interesados en la elección consecutiva deberán manifestarlo por escrito a su partido político. Para el caso de que manifiesten su deseo de reelegirse deberán, además, señalar el principio por el que desean hacerlo, de tratarse del principio de mayoría relativa, deberán señalar el distrito o su equivalente por el que lo harán, de no hacerse en los términos antes señalados, se entenderá que la diputada o diputado no está interesado en la elección consecutiva. El escrito que contenga las manifestaciones antes señaladas, deberá presentarse al partido político correspondiente, con veinte días de anticipación al inicio de las precampañas, en virtud de lo cual, los partidos políticos en la determinación de los criterios para garantizar la paridad de género en sus métodos de selección de candidaturas deberán respetar el principio de paridad de género en su aspecto cualitativo y cuantitativo.
-
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+Las Diputaciones se elegirán cada tres años y no podrán ser electas de manera consecutiva para el periodo inmediato posterior al ejercicio de su mandato, con independencia de que hayan accedido al cargo como candidatos independientes o sido postulados por algún partido político o coalición.
 
 Los partidos políticos en plena autodeterminación seleccionarán a sus candidatos, el distrito por el cual competirán, así como el principio de mayoría relativa o de representación proporcional, según sea el caso, observando al efecto las reglas que sobre equidad de género que dispone la Constitución Política Federal, la Ley General de Instituciones y Procedimientos Electorales, la Ley General de Partidos Políticos, esta Constitución y demás normatividad aplicable.
 
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
-
-Para efecto de lo previsto en el artículo 16, párrafo quinto de la Constitución Política del Estado, se tendrá por equivalente cualquier distrito cuya conformación se integre mayoritariamente por secciones del distrito electoral por el que fueron electos.
-
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
-
-Cuando un diputado no pueda contender por el mismo distrito por el que accedió al cargo o su equivalente, podrá participar en la reelección, ya sea por el principio de mayoría relativa por cualquier demarcación territorial que conserve por lo menos una sección electoral del distrito por el que fue electo o por el principio de representación proporcional.
-
-(NOTA: EL 20 DE FEBRERO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 198/2023 Y SU ACUMULADA 200/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEXTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE FEBRERO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
-
-El Instituto Estatal Electoral del Estado de Baja California debe constatar que las postulaciones permiten el cumplimiento del principio de paridad de género y el principio de igualdad sustantiva. LAS AUTORIDADES ELECTORALES SÓLO PODRÁN INTERVENIR EN LOS ASUNTOS INTERNOS DE LOS PARTIDOS POLÍTICOS PARA EFECTO DE REPOSICIÓN DE PROCEDIMIENTOS POR VIOLACIONES A LA CONSTITUCIÓN FEDERAL, A SU NORMATIVA INTERNA O A DERECHOS DE LA CIUDADANÍA. EN NINGÚN CASO PODRÁN RESOLVER NOMBRANDO DIRIGENTES Y CANDIDATOS O DETERMINANDO CUALQUIER ACTO QUE INTERFIERA INJUSTIFICADAMENTE EN FORMA DIRECTA EN LAS DECISIONES DE LA VIDA INTERNA DE LOS PARTIDOS.
-
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 9 DE JUNIO DE 2018)</small>
-
-La postulación solo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado; salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
-
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 9 DE JUNIO DE 2018)</small>
-
-En el caso de diputados electos como candidatos independientes solo podrán postularse para la reelección con la misma calidad de candidato independiente, salvo que se afilie y demuestre su militancia en un partido político antes de la mitad de su periodo, caso en el que si podrá postularse para reelección por dicho partido.
-
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
-
-Los diputados que hayan ocupado su cargo público por la vía de una candidatura independiente y pretendan su elección consecutiva por la misma vía, para obtener el registro de su candidatura deben cumplir con los requisitos señalados en los artículos 14, 26 y 27 de la Ley que Reglamenta las Candidaturas Independientes.
+El Instituto Estatal Electoral del Estado de Baja California debe constatar que las postulaciones permiten el cumplimiento del principio de paridad de género y el principio de igualdad sustantiva.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE JULIO DE 2020)</small>
 
@@ -433,45 +403,17 @@ La elección de Gobernador será cada seis años, en todo el territorio del Esta
 
 El Gobierno del Municipio se deposita en un cuerpo colegiado que se denomina Ayuntamiento, compuesto de munícipes electos mediante sufragio universal, libre, secreto, directo, personal e intransferible, por los principios de mayoría relativa y de representación proporcional. Los integrantes de los Ayuntamientos contarán con sus respectivos suplentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 30.
 
 El Ayuntamiento se integra por una Presidencia Municipal, una Sindicatura Procuradora, por Regidurías de mayoría relativa y de representación proporcional, en el número que dispone la Constitución del Estado.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 9 DE JUNIO DE 2018)</small>
+Las personas servidoras públicas mencionadas en el párrafo anterior, cuando tengan el carácter de propietarias, no podrán ser electas para el periodo inmediato posterior con el carácter de suplentes, pero las que tengan el carácter de suplentes si podrán ser electas para el periodo inmediato posterior como propietarias a menos que hayan estado en ejercicio del cargo.
 
-Los Presidentes Municipales, regidores y síndicos podrán ser postulados, al mismo cargo, para el periodo inmediato siguiente. A los suplentes de los anteriores, que no entren en funciones, no se les computará dicho periodo para efectos de la reelección inmediata.
-
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
-
-Los presidentes municipales, regidores y síndicos únicamente pueden ser electos consecutivamente para el mismo cargo que ostentan y siendo parte de una planilla integrada de conformidad con la fracción II del artículo 136 de la presente ley.
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2023)</small>
-
-Las Presidentas o Presidentes Municipales, Regidoras o Regidores y Síndicas o Síndicos interesados en la elección consecutiva en términos de lo dispuesto en el párrafo anterior, deberán manifestarlo a su partido político por escrito y con veinte días de anticipación al inicio de las precampañas, de no hacerse en los términos antes señalados, se entenderá que no están interesados en la elección consecutiva. En virtud de lo anterior, los partidos políticos en la determinación de los criterios para garantizar la paridad de género en sus métodos de selección de candidatos deberán respetar el criterio de paridad de género en su aspecto cualitativo y cuantitativo, así como el principio de igualdad sustantiva para personas pertenecientes a una comunidad indígena o afromexicanas.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE JULIO DE 2023)</small>
-
-Para los efectos de lo previsto en la última parte del párrafo anterior, las y los candidatos a las Presidencias Municipales, Regidurías y Sindicaturas, interesados en la elección consecutiva deberán acreditar con documentación actualizada al proceso electoral al que deseen participar su pertenencia a una comunidad indígena o afromexicana.
-
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+Los partidos políticos en la determinación de los criterios para garantizar la paridad de género en sus métodos de selección de candidaturas deberán respetar el criterio de paridad de género en su aspecto cualitativo y cuantitativo, así como el principio de igualdad sustantiva para personas pertenecientes a una comunidad indígena o afromexicanas.
 
 En caso de que un munícipe pretenda ser candidato a un cargo de elección popular diverso al que fue electo no se considera elección consecutiva.
-
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 9 DE JUNIO DE 2018)</small>
-
-La postulación solo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado; salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
-
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
-
-Los munícipes que hayan ocupado su cargo público por la vía de una candidatura independiente y pretendan su elección consecutiva por la misma vía, para obtener el registro de su candidatura deberán cumplir con los requisitos señalados en los artículos 14, 26 y 27 de la Ley que Reglamenta las Candidaturas Independientes del Estado de Baja California.
-
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 9 DE JUNIO DE 2018)</small>
-
-En el caso de munícipes electos como candidatos independientes solo podrán postularse para la reelección con la misma calidad de candidato independiente, salvo que se afilie y demuestre su militancia en un partido político antes de la mitad de su periodo, caso en el que si podrá postularse para reelección por dicho partido.
-
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 9 DE JUNIO DE 2018)</small>
 
 Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, podrán ser electas en el período inmediato.
 
@@ -1893,13 +1835,17 @@ Son impedimentos para ocupar los cargos de Gobernador, munícipes o diputados, a
 
 I. Ser Consejero Electoral o funcionario electoral del Instituto Estatal o del Instituto Nacional, Magistrado o Secretario del Tribunal Electoral, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
-II. Ser Magistrado o Secretario del Tribunal Electoral del Poder Judicial de la Federación, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate; y,
+II. Ser Magistrado o Secretario del Tribunal Electoral del Poder Judicial de la Federación, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
-III. Tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; o que las declare como persona deudora alimentaria morosa.
+III. Tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; o que las declare como persona deudora alimentaria morosa; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+IV. Tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad del cargo público que pretenda ocupar.
 
 ### CAPÍTULO SEGUNDO. Del procedimiento de registro de candidatos
 
@@ -1913,13 +1859,13 @@ Corresponde a los partidos políticos el derecho de solicitar el registro de can
 
 El registro de candidaturas a los distintos cargos de elección popular se hará de la forma siguiente:
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
-I. Para las Diputaciones, se hará por fórmulas integradas por propietario y suplente del mismo género, para el caso de la elección consecutiva, el candidato suplente podrá ser diverso que el registrado en la fórmula anterior.
+I. Para las Diputaciones, se hará por fórmulas integradas por propietario y suplente del mismo género.
 
-> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
-II. La de munícipes se hará por planillas completas integradas por propietarios y suplentes del mismo género, de los cargos de Presidente Municipal, que encabezará la planilla; Síndico Procurador, que ocupará la segunda posición en la planilla; y Regidores, estos últimos en orden de prelación, para el caso de la elección consecutiva, el candidato suplente podrá ser diverso que el registrado en la fórmula anterior, y
+II. La de munícipes se hará por planillas completas integradas por propietarios y suplentes del mismo género, de los cargos de Presidente Municipal, que encabezará la planilla; Síndico Procurador, que ocupará la segunda posición en la planilla; y Regidores, estos últimos en orden de prelación; y,
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE JULIO DE 2020)</small>
 
@@ -2011,6 +1957,8 @@ De la solicitud de registro de candidatos a diputados por el principio de mayor�
 
 En ningún caso, un partido político o coalición podrá registrar más de dos candidatos a diputados por ambos principios.
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL DECRETO DE REFORMAS NÚMERO 207, PUBLICADO EN EL P.O. DE 30 DE DICIEMBRE DE 2025, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE SIETE FRACCIONES A SEIS. VÉASE LITERALIDAD, PÁGINA 40.]</small>
+
 ###### Artículo 145.
 
 La solicitud de registro de candidaturas deberá señalar, en su caso, el partido político o coalición que las postulen y los siguientes datos de los candidatos:
@@ -2023,15 +1971,13 @@ III. Domicilio y tiempo de residencia efectiva;
 
 IV. Ocupación;
 
-V. Clave de la credencial para votar;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
-VI. Cargo para el que se les postule, y
+V. Clave de la credencial para votar; y,
 
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO No. 85 DE FECHA P.O. 24 DE JULIO DE 2020, SE ADVIERTE LA OMISIÓN EN LA PUBLICACIÓN DEL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO. VÉASE PÁG. 12 DE PUBLICACIÓN OFICIAL Y PÁGINA DE LA LEGISLATURA DEL ESTADO: https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_I/20200724_LEYELECTORAL.PDF]</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 24 DE JULIO DE 2020)</small>
-
-VII. Los candidatos al Congreso del Estado y a los Ayuntamientos que busquen reelegirse en sus cargos, deberán acompañar una carta que especifique los periodos para los que han sido electos en ese cargo y la manifestación de estar cumpliendo los límites establecidos por la Constitución en materia de reelección.
+VI. Cargo para el que se les postule.
 
 ###### Artículo 146.
 
@@ -2311,9 +2257,9 @@ Queda prohibido realizar actos de campaña y de propaganda electoral, antes de l
 
 Durante el tiempo que comprendan las campañas electorales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes del estado, como de los municipios, entidades paraestatales, organismos constitucionales autónomos y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
 
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
-A los servidores públicos que sean candidatos, ya sea por primera vez o de elección consecutiva, se le prohíbe en el transcurso de las campañas electorales asistir a eventos públicos o privados relacionados con la entrega de beneficios de programas sociales u obras públicas ejecutadas con financiamiento de gobierno, así como el uso de recursos humanos o materiales que tengan asignados por motivos de su cargo.
+A los servidores públicos que sean candidatos, se les prohíbe en el transcurso de las campañas electorales asistir a eventos públicos o privados relacionados con la entrega de beneficios de programas sociales u obras públicas ejecutadas con financiamiento de gobierno, así como el uso de recursos humanos o materiales que tengan asignados por motivos de su cargo.
 
 > <small>(REFORMADO [N. DE E. REUBICADO], P.O. 9 DE JUNIO DE 2018)</small>
 
@@ -5362,3 +5308,9 @@ P.O. 3 DE OCTUBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 145 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 139 DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 30 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 207 MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, SE APRUEBAN (SIC) LA REFORMA A DIVERSOS ARTÍCULOS DE LA LEY ELECTORAL DEL ESTADO, SE APRUEBA ARTÍCULO 29 DE LA LEY QUE REGLAMENTA LAS CANDIDATURAS INDEPENDIENTES EN EL ESTADO DE BAJA CALIFORNIA, SE APRUEBA LA DEROGACIÓN DEL ARTÍCULO 9 TER DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- Las presentes reformas entrarán en vigor el día inicio del proceso electoral 2029-2030 a celebrarse en 2030, por lo que la prohibición de nepotismo electoral, será aplicable para dicho proceso y las personas que en 2030 se encuentren ejerciendo los cargos públicos a que hace (sic) referencia las presentes reformas, no podrán postularse para procesos de reelección correspondientes.
