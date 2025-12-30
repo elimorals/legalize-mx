@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-para-el-estado-libre-y-soberano-de-guerrero-104907
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-01"
-last_updated: "2025-12-23"
+last_updated: "2025-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2025.
 
 Código publicado en el Alcance IV del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -1345,6 +1345,10 @@ I. En un plazo igual al término medio aritmético de la pena privativa de la li
 
 II. En un año, si el delito se sanciona con pena no privativa de la libertad.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+(SIC) En los casos de Delitos contra la libertad sexual y el normal desarrollo psicosexual, cometidos en contra de una persona menor de dieciocho años de edad, serán imprescriptibles.
+
 ###### Artículo 116.
 
 Prescripción de la pretensión punitiva en caso de concurso de delitos
@@ -2223,6 +2227,8 @@ Se aumentará hasta en una mitad la sanción prevista en el párrafo anterior, c
 
 ### Capítulo II. Abuso sexual
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 178.
 
 Violación
@@ -2269,21 +2275,47 @@ Si se ejerciera violencia física o moral, el mínimo y el máximo de la pena se
 
 ###### Artículo 180.
 
-Abuso sexual
+Abuso sexual.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+Comete el delito de abuso sexual quien sin el consentimiento de la víctima y sin el propósito de llegar a la cópula, realice en el ámbito público o privado, cualquier acto de naturaleza sexual, la obligue a observarlo, o la haga ejecutarlo sobre sí, para un tercero o para el propio sujeto activo, aun a través de medios electrónicos.
 
-Al que sin consentimiento de una persona, sea cual fuere su sexo y sin el propósito de llegar a la cópula, ejecute en ella un acto o actos sexuales o la haga ejecutarlo, se le impondrá de tres a seis años de prisión y una multa de cuatrocientos cincuenta a novecientos del valor diario de la Unidad de Medida y Actualización.
+También se considera abuso sexual cuando se obligue a la víctima a exhibir su cuerpo.
 
-Para efectos de este código se entiende por acto sexual cualquier acción lujuriosa como tocamientos o manoseos corporales obscenos, o representen actos explícitamente sexuales u obliguen a la víctima a representarlos.
+Se entiende por acto sexual los tocamientos, caricias, roces corporales, exhibiciones o representaciones sexuales explicitas.
 
-Si se hace uso de violencia física o psicológica, la pena prevista se aumentará en una mitad.
+Para los efectos del presente artículo no se considera consentimiento cuando la voluntad de la persona haya sido anulada o viciada por violencia, intimidación, engaño, amenaza, abuso de confianza, autoridad o situación de vulnerabilidad. El consentimiento no podrá presumirse del silencio, la pasividad o la falta de resistencia física de la víctima.
 
-Este delito se perseguirá por querella, salvo que concurra violencia.
+A quien cometa este delito se le impondrá una sanción de tres a siete años de prisión y multa de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+Así mismo, se impondrá la obligación de acudir a talleres reeducativos con perspectiva de género y no violencia contra las mujeres y/o prestar servicio social en favor del Estado o de instituciones de beneficencia pública a fin de favorecer medidas de no repetición y promover un cambio cultural a favor de la igualdad sustantiva entre mujeres y hombres. El cumplimiento de esta obligación es de especial relevancia para la procedencia y continuidad de la suspensión condicional. Este delito se perseguirá de oficio.
 
-Cuando la víctima sea menor de 15 años, se perseguirá de oficio.
+Las penas previstas en este artículo se aumentarán en una tercera parte cuando el delito se cometa en cualquiera de las siguientes circunstancias:
+
+I. Con violencia física, psicológica o moral;
+
+II. Por dos o más personas;
+
+III. En un lugar despoblado, solitario o poco accesible;
+
+IV. Cuando exista o haya existido entre el agresor y la víctima una relación de confianza, sentimental, de parentesco por consanguinidad o afinidad, laboral, educativa, docente, de formación deportiva, artística o religiosa;
+
+V. Cuando se realice por persona que tenga a la víctima bajo su responsabilidad la custodia, guarda, tutela, cuidado o dependencia económica;
+
+VI. Cuando se realice por persona servidora pública aprovechando su empleo, cargo o comisión. En este caso, además de la pena de prisión, la persona agresora será destituida del cargo, empleo o comisión e inhabilitada para el ejercicio de servicio público por un plazo igual al de la pena privativa de la libertad sin perjuicio de otras sanciones administrativas o civiles que correspondan;
+
+VII. Cuando se realice por profesionista aprovechando su empleo, cargo o comisión. En este caso, además de la pena de prisión, la persona agresora será inhabilitada para el ejercicio de la profesión por un plazo igual al de la pena privativa de la libertad sin perjuicio de otras sanciones administrativas o civiles que correspondan;
+
+VIII. Cuando se realice por ministro de culto aprovechando su cargo, función o comisión;
+
+IX. Cuando la víctima se encuentre bajo los efectos de alcohol, fármacos, narcóticos u otras sustancias que afecten su voluntad o discernimiento;
+
+X. Cuando la víctima se encuentre en estado de embarazo o puerperio;
+
+XI. Cuando se cometa contra personas por su orientación sexual, identidad de género o expresión de género, y
+
+XII. Cuando la víctima se encuentre en estado de indefensión.
+
+Adicional a las sanciones establecidas en este artículo, se impondrá al sujeto activo el cumplimiento de la reparación integral del daño, que deberá incluir, entre otras medidas establecidas en la Ley General de Víctimas o en la Ley de Víctima del Estado Libre y Soberano de Guerrero, la atención psicológica especializada para la víctima, hasta su total recuperación.
 
 > <small>(REFORMADO SU ACÁPITE, P.O. 28 DE MARZO DE 2025)</small>
 
@@ -2305,9 +2337,9 @@ Si se hace uso de violencia física o psicológica, la pena prevista se aumentar
 
 Agravantes
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE MARZO DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2025)</small>
 
-Las penas previstas para la violación y el abuso sexual se aumentarán hasta en una mitad más cuando sean cometidos:
+Las penas previstas para la violación se aumentarán hasta en una mitad más cuando sean cometidos:
 
 I. Con intervención directa o inmediata de dos o más personas;
 
@@ -3487,13 +3519,13 @@ A quien por cualquier motivo, teniendo a su cargo la administración o el cuidad
 
 ### Capítulo VI. Extorsión
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2019)</small>
-
 ###### Artículo 242.
 
 Insolvencia fraudulenta
 
 A quien se coloque en estado de insolvencia, con el objeto de eludir las obligaciones a su cargo con respecto a sus acreedores, se le impondrán de seis meses a tres años de prisión y de veinticinco a ciento cincuenta días multa.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ### Capítulo VII. Despojo
 
@@ -3501,41 +3533,11 @@ A quien se coloque en estado de insolvencia, con el objeto de eludir las obligac
 
 ###### Artículo 243.
 
-Extorsión.
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2025)</small>
-
-A quien obligue a otra persona a dar, hacer, dejar de hacer o tolerar algo. obteniendo un lucro indebido para sí o para una tercera persona, causando a alguien un perjuicio patrimonial, se le impondrán de quince a treinta años de prisión y de cuatrocientas a mil doscientas Unidades de Medida y Actualización (UMA).
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2025)
 
 ###### Artículo 244.
 
-Agravantes
-
-La sanción se incrementará hasta en dos terceras partes más cuando el delito se realice bajo alguna de las modalidades siguientes:
-
-I. En la comisión del delito intervengan dos o más personas armadas;
-
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2019)</small>
-
-II. El agente sea o se ostente como miembro de una asociación delictuosa y, o emplee cualquier mecanismo coercitivo de intimidación o amenaza, con el objeto de consumar el delito.
-
-III. Se cometa en contra de menor de edad o de persona mayor de sesenta años o cuando no tenga la capacidad para comprender el significado del hecho, y
-
-IV. El sujeto activo sea o haya sido, o se ostente sin serlo, integrante de alguna institución policial o servidor público en alguna de las instituciones de prevención o persecución de delitos, administración de justicia o reinserción social; asimismo, cuando porte vestimentas o instrumentos de identificación de los utilizados por integrantes de instituciones de seguridad pública.
-
-> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2019)</small>
-
-V. Cuando el delito se cometa en contra de quien realice actividades comerciales, empresariales, de servicios públicos o privados, y cuya personalidad legal sea física o moral así como los vinculados a la docencia.
-
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2025)</small>
-
-VI. El delito se cometa a través de medios digitales, telefónicos o de cualquier tecnología de la información y la comunicación.
-
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2025)</small>
-
-VII. Si la víctima perteneciere a algún pueblo o comunidad indígena o afromexicana.
-
-Además de las sanciones que correspondan conforme a los párrafos anteriores, si el agente es servidor público será destituido del empleo, cargo o comisión, e inhabilitado por el mismo tiempo de la pena de prisión impuesta.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2025)
 
 ### Capítulo VIII. Daño a la propiedad
 
@@ -5923,6 +5925,18 @@ SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal
 
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
 
+P.O. 30 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUMERO 344 POR EL QUE SE DEROGAN LOS ARTÍCULOS 243 Y 244 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499, EN MATERIA DE EXTORSIÓN”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Las investigaciones, procesos penales y sentencias en trámite por hechos constitutivos del delito de extorsión continuarán substanciándose conforme a las disposiciones vigentes al momento de la comisión del hecho, en observancia al principio constitucional de irretroactividad previsto en el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO. Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
+
+CUARTO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso el Estado, para el conocimiento general y efectos legales procedentes.
+
 P.O. 23 DE DICIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 295 POR EL QUE SE ADICIONA AL TÍTULO PRIMERO “DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL”, UN CAPÍTULO IV BIS, DENOMINADO “INDUCCIÓN O AYUDA AL SUICIDIO POR RAZONES DE GÉNERO”, CON SUS ARTÍCULOS 153 BIS, 153 TER Y 153 QUATER DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499”.]
@@ -5932,3 +5946,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
 
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
+
+P.O. 30 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 476 POR EL QUE SE ADICIONA LA FRACCIÓN III DEL ARTÍCULO 115, Y SE REFORMA EL ARTÍCULO 180, ASÍ COMO EL SEGUNDO PÁRRAFO DEL ARTÍCULO 182 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
+
+TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
