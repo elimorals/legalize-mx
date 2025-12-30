@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-ingresos-del-estado-de-chiapas-para-el-ejercicio-182786"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2025-12-10"
-last_updated: "2025-12-10"
+last_updated: "2025-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=182786&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE INGRESOS DEL ESTADO DE CHIAPAS PARA EL EJERCICIO FISCAL 2026
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2025.
 
 Ley publicada en el número 076 del Periódico Oficial del Estado de Chiapas, el miércoles 10 de diciembre de 2025.
 
@@ -473,6 +473,46 @@ Tratándose de operaciones de intercambio de tasa de interés (SWAPS) se podrá 
 
 VII. Ajustes Presupuestales. A efecto de reflejar las nuevas condiciones derivadas del canje bursátil o refinanciamiento autorizado respecto de las emisiones CHIACB 07 y CHIACB 07U, se autoriza a la Secretaría de Finanzas a realizar el ajuste correspondiente en la proyección de ingresos y egresos para el Ejercicio Fiscal 2025, en los rubros o partidas correspondientes y notifiquen tales ajustes al Congreso del Estado al rendir la Cuenta Pública.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 2o Bis.
+
+Previo análisis de la capacidad de pago del Estado de Chiapas, del destino del financiamiento y del otorgamiento de los recursos que constituirán la fuente de pago, se autoriza la contratación de operaciones de instrumentos derivados relacionadas con los financiamientos, previamente celebrados por el Estado, bajo los siguientes términos:
+
+I. Con la finalidad de mitigar los riesgos de una alza en la tasa de interés de los financiamientos a cargo del Estado que constituyen parte su deuda pública directa con fuente de pago en participaciones federales, se autoriza al Estado de Chiapas, a través del Poder Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, para que contrate instrumentos derivados de intercambio de tasa de interés denominados SWAPs con las instituciones financieras del sistema financiero mexicano que ofrezcan las mejores condiciones de mercado, para cubrir un monto nocional de hasta $12,010,577,055.78 (doce mil diez millones quinientos setenta y siete mil cincuenta y cinco pesos 78/100 M.N.) y por un plazo de hasta 10 (diez) años, para la cobertura de los siguientes contratos de apertura de crédito simple:
+
+a. El contrato de apertura de crédito simple de fecha 17 de octubre de 2025, celebrado entre el Estado en su carácter de acreditado y Banco Nacional de México, S.A., Integrante del Grupo Financiero Banamex, como acreditante, hasta por la cantidad de $1,000,000,000.00 (mil millones de pesos 00/100 M.N.), con número de inscripción en el Registro Público Único de Financiamientos y Obligaciones de las Entidades Federativas y Municipios No. P07-1025057, de fecha 30 de octubre de 2025;
+
+b. El contrato de apertura de crédito simple de fecha 17 de octubre de 2025, celebrado entre el Estado en su carácter de acreditado y Banco Mercantil del Norte, S.A., Institución de Banca Múltiple, Grupo Financiero Banorte, como acreditante, hasta por la cantidad de $2,500,000,000.00 (dos mil quinientos millones de pesos 00/100 M.N.), con número de inscripción en el Registro Público Único de Financiamientos y Obligaciones de las Entidades Federativas y Municipios No. P07-1025058, de fecha 30 de octubre de 2025;
+
+c. El contrato de apertura de crédito simple de fecha 17 de octubre de 2025, celebrado entre el Estado en su carácter de acreditado y Banco Mercantil del Norte, S.A., Institución de Banca Múltiple, Grupo Financiero Banorte, como acreditante, hasta por la cantidad de $2,500,000,000.00 (dos mil quinientos millones de pesos 00/100 M.N.), con número de inscripción en el Registro Público Único de Financiamientos y Obligaciones de las Entidades Federativas y Municipios No. P07-1025059, de fecha 30 de octubre de 2025; y
+
+d. El contrato de apertura de crédito simple de fecha 21 de octubre de 2025, celebrado entre el Estado en su carácter de acreditado y Banco Nacional de Obras y Servicios Públicos, S.N.C., Institución de Banca de Desarrollo, como acreditante, hasta por la cantidad de $6,111,698,245.71 (seis mil ciento once millones seiscientos noventa y ocho mil doscientos cuarenta y cinco pesos 71/100 M.N.), con número de inscripción en el Registro Público Único de Financiamientos y Obligaciones de las Entidades Federativas y Municipios No. P07-1025060, de fecha 30 de octubre de 2025.
+
+En ningún caso el monto nocional de los instrumentos derivados que se contraten con fundamento en el presente Artículo podrá exceder el saldo insoluto de los financiamientos a los que se encuentren directamente asociados, ni podrá destinarse a fines distintos a la cobertura de riesgo de tasa de interés de dichos financiamientos ni a incrementar el saldo de la deuda pública directa del Estado.
+
+II. A efecto de lo anterior, la Secretaría de Finanzas deberá realizar la contratación de los instrumentos derivados en términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios. La Secretaría de Finanzas estará facultada para definir y resolver los aspectos no previstos en las disposiciones aplicables.
+
+Una vez celebrados el o los instrumentos derivados que impliquen obligaciones a cargo del Estado mayores a un año autorizados en el presente Artículo, deberán inscribirse en el Registro Estatal de Deuda Pública y en el Registro Público Único de Financiamientos y Obligaciones de Entidades Federativas y Municipios, en términos de la normatividad aplicable.
+
+Las operaciones autorizadas deberán ser pagaderas en pesos y dentro del territorio nacional, con la prohibición expresa de su cesión a personas, físicas o morales, de nacionalidad extranjera.
+
+III. Se autoriza al Poder Ejecutivo del Estado, a través de la Secretaría de Finanzas, sin perjuicio de afectaciones previas, para que, en términos de la normativa aplicable, los instrumentos de cobertura y derivados que se contraten conforme al presente Artículo tengan la misma fuente de pago de los contratos de crédito a los que se encuentren asociados; es decir, el derecho y los ingresos de hasta el 17.50% (diecisiete punto cincuenta por ciento) de las participaciones presentes y futuras que corresponden al Estado del Fondo General de Participaciones, excluyendo las participaciones que de dicho fondo se entregan a los municipios, e incluyendo sin limitar todos aquellos fondos que en el futuro sustituyan, modifiquen o complementen al Fondo General de Participaciones.
+
+En ningún caso se podrán realizar afectaciones adicionales a las autorizadas en el presente Artículo, para efectos de servir como fuente de pago de los instrumentos de cobertura y derivados que se contraten conforme al presente.
+
+IV. La afectación a que se refiere la fracción III que antecede, podrá formalizarse mediante fideicomisos previamente constituidos y, en caso de que resulte necesario y/o conveniente, se autoriza la modificación integral o parcial de los contratos de fideicomiso y/o fideicomisos maestros que a la fecha tenga celebrados el Estado, previo cumplimiento de los requisitos contractuales estipulados en los mismos. Los fideicomisos que se modifiquen en términos del presente Artículo no tendrán el carácter de fideicomisos públicos paraestatales, por lo que, no formarán parte de la Administración Pública Paraestatal o Descentralizada.
+
+V. Se autoriza al Ejecutivo del Estado, a través de la Secretaría de Finanzas, para que negocie y apruebe las bases, términos y condiciones que estime necesarias y/o convenientes para la celebración de los instrumentos derivados, así como para que suscriba los actos, convenios, instrumentos legales y documentos necesarios para la contratación y perfeccionamiento de las operaciones que se autorizan en el presente Decreto, incluyendo instrucciones y/o notificación a las autoridades competentes y, una vez celebrados, para dar cumplimiento a los instrumentos derivados y/o documentos correspondientes.
+
+VI. El Ejecutivo del Estado, a través de la Secretaría de Finanzas, en términos de la normativa aplicable, podrá realizar las contrataciones que resulten necesarias y/o convenientes para la instrumentación de los actos que se autorizan en el presente Artículo, incluyendo la contratación de asesorías financiera y/o jurídica para el diseño e instrumentación de las operaciones que se autorizan en este Artículo, los cuales se cubrirán con cargo a los recursos presupuestales del Estado, es decir, con recursos ajenos a los contratos de crédito a los que se encuentren asociados los instrumentos derivados correspondientes.
+
+VII. El Ejecutivo del Estado, con el apoyo de la Secretaría de Finanzas, deberá prever en el proyecto de presupuesto de egresos de cada ejercicio fiscal, el pago de los instrumentos derivados que se contraten al amparo de la presente autorización, hasta su total terminación.
+
+En términos del marco normativo aplicable, el Estado informará a la actual Legislatura sobre la celebración de las operaciones de instrumentos derivados, así como sobre las condiciones de contratación, autorizadas conforme al presente Artículo.
+
+VIII. La vigencia de lo autorizado en el presente Artículo es hasta el 31 de diciembre de 2026, por lo que, el Estado podrá celebrar las operaciones autorizadas durante todo el ejercicio fiscal de 2026.
+
 ### Capítulo II. De las Facilidades Administrativas y Beneficios Fiscales
 
 ###### Artículo 3o.
@@ -578,3 +618,13 @@ El Ejecutivo del Estado dispondrá se publique, circule y se le dé debido cumpl
 Dado en el Salón de Sesiones “Sergio Armando Valls Hernández” del Honorable Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas a los 10 días del mes de diciembre del año dos mil veinticinco.- D. P.C. ALEJANDRA GÓMEZ MENDOZA.- D.S.C. JOSÉ ÁNGEL DEL VALLE MOLINA.-Rúbricas.-
 
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los diez días del mes de diciembre del año dos mil veinticinco Óscar Eduardo Ramírez Aguilar, Gobernador del Estado de Chiapas.- Dulce María Rodríguez Ovando, Secretaria General de Gobierno y Mediación.- Rúbricas.-
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 174 POR EL QUE SE ADICIONA EL ARTÍCULO 2º BIS A LA LEY DE INGRESOS DEL ESTADO DE CHIAPAS PARA EL EJERCICIO FISCAL 2026”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor el 1 de enero de 2026, y su vigencia será hasta el 31 de diciembre de 2026.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
