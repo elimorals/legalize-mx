@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2025-09-04"
+last_updated: "2025-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -417,9 +417,9 @@ APARTADO A. De la promoción, respeto, protección y garantía de los Derechos H
 
 Las normas relativas a los Derechos Humanos se interpretarán de conformidad con la Constitución Política de los Estados Unidos Mexicanos y con los Tratados Internacionales de la materia favoreciendo en todo tiempo a las personas la protección más amplia.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
-Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, la condición o situación migratoria, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE SEPTIEMBRE DE 2021)</small>
 
@@ -473,9 +473,9 @@ Asimismo, esta Constitución garantiza el derecho a establecer sus propios medio
 
 En términos del inciso C) del artículo 2, de la Constitución Política de los Estados Unidos Mexicanos, esta Constitución reconoce a los pueblos y comunidades afromexicanas, cualquiera que sea su autodenominación, como parte de la composición pluricultural del Estado. Tendrán en lo conducente los derechos señalados en los párrafos anteriores del presente artículo en los términos que establezcan las leyes, a fin de garantizar su libre determinación, autonomía, desarrollo e inclusión social.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
-Toda persona tiene el derecho a la práctica del deporte, a la cultura física, a gozar de un medio ambiente adecuado para su desarrollo y bienestar, mismo que incluye el respeto y trato digno a los animales para su bienestar integral; asimismo, a la salud, el derecho a la igualdad y a la no discriminación; a vivir una vida libre de violencias, la libertad de convicciones éticas, conciencia y de religión; a recibir educación pública, obligatoria y gratuita que imparta el Estado, en los niveles inicial, preescolar; primaria, secundaria y media superior para desarrollar armónicamente todas las facultades del ser humano y fomentar en él, a la vez, el amor a la Patria, el respeto a los Derechos Humanos y la conciencia de la solidaridad internacional, en la independencia y en la justicia. Las autoridades públicas del Estado harán lo conducente a fin de que se asegure el disfrute de estos derechos.
+Toda persona tiene el derecho a la práctica del deporte, a la cultura física, a gozar de un medio ambiente adecuado para su desarrollo y bienestar, mismo que incluye el respeto y trato digno a los animales para su bienestar integral; asimismo, a la salud, el derecho a la igualdad y a la no discriminación; a vivir una vida libre de violencias, la libertad de convicciones éticas, conciencia y de religión; a recibir educación pública, obligatoria y gratuita que imparta el Estado, sin importar su situación migratoria, en los niveles inicial, preescolar, primaria, secundaria y media superior para desarrollar armónicamente todas las facultades del ser humano y fomentar en él, a la vez, el amor a la Patria, el respeto a los Derechos Humanos y la conciencia de la solidaridad internacional, en la independencia y en la justicia. Las autoridades públicas del Estado, harán lo conducente a fin de que se asegure el disfrute de estos derechos.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MAYO DE 2025)</small>
 
@@ -791,6 +791,10 @@ XXIII.- Si son mujeres jefas de familia en situación de vulnerabilidad económi
 
 XXIV.- A que las funciones de procuración de justicia se realicen con base en los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo y responsabilidad, así como con perspectiva de género y respeto a los derechos humanos.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XXV.- Si son mujeres, niñas y niños menores de doce años, a recibir servicio de transporte público, seguro y gratuito, en los términos y condiciones del programa que para tal efecto se expida y de conformidad con el presupuesto aprobado en el ejercicio fiscal correspondiente.
+
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2018)</small>
 
 ###### ARTICULO 9.
@@ -1045,59 +1049,15 @@ Asimismo, en la integración de la legislatura, el porcentaje de representación
 
 VI.- La asignación de diputaciones por el principio de representación proporcional que le corresponda a cada partido político, la hará el Instituto Estatal Electoral, en los términos que señale la Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 16.
 
-Las diputaciones se elegirán cada tres años y podrán ser electos de manera consecutiva de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, con independencia de que hayan accedido al cargo como candidaturas independientes o sido postulados por algún partido político o coalición.
+Las Diputaciones se elegirán cada tres años y no podrán ser electas de manera consecutiva para el periodo inmediato posterior al ejercicio de su mandato, con independencia de que hayan accedido al cargo como candidatos independientes o sido postulados por algún partido político o coalición.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
-
-Cuando las diputaciones hayan sido postuladas por algún partido político o coalición, la postulación para su elección consecutiva sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
-
-Para ser electo para una diputación de manera consecutiva, no será necesario que el funcionario interesado, solicite licencia para separarse del cargo.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
-
-Durante los periodos de campaña respectiva, quien pretenda reelegirse de manera consecutiva, debe ponderar los siguientes supuestos:
-
-> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
-
-I.- No podrá recibir emolumentos o salarios, dietas, apoyos para gestión social o cualquier otra que se le asimile, independientemente de la obligación de continuar en el desempeño del cargo para el cual ha decidido participar en elección consecutiva.
-
-> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
-
-II.- No podrá utilizar recursos públicos que les correspondan por el ejercicio de su encargo para promover o influir de manera alguna en el voto a su favor o en contra de algún candidato.
-
-> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
-
-III.- No podrá ocupar al personal adscrito a la nómina del Congreso del Estado durante su horario laboral para realizar actos de campaña.
-
-> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
-
-IV.- No podrá estar presente en actos públicos relacionados con la entrega de beneficios derivados de programas sociales promovidos en su encargo.
-
-> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
-
-V.- No podrá condicionar la entrega de recursos provenientes de programas públicos en ninguna circunstancia.
-
-> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
-
-VI.- No podrá promocionar o publicar las acciones de beneficio social realizadas en el periodo que comprende, desde el inicio de las campañas hasta la conclusión de la jornada electoral.
-
-> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
-
-VII.- Las demás prohibiciones o limitaciones que determinen las leyes aplicables en la materia.
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+Las personas diputadas suplentes podrán ser electas para el periodo inmediato posterior con el carácter de propietarias, siempre que no hubieren estado en ejercicio del cargo; pero las personas diputadas propietarias no podrán ser electas para el periodo inmediato posterior con el carácter de suplentes.
 
 Los partidos políticos en la determinación de los criterios para garantizar la paridad de género en sus métodos de selección de candidaturas deberán respetar el principio de paridad de género en su aspecto cualitativo y cuantitativo.
-
-> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
-
-Los Diputados que pretendan contender para la elección consecutiva, ya sean emanados del régimen de partidos políticos o a través de la vía independiente, deberán contender por el mismo distrito por el que resultaron electos o, en su caso, por su equivalente cuando la conformación de dichos distritos se haya modificado. En caso de que resulten equivalentes diversos distritos, el aspirante deberá manifestar en cuál de ellos pretende contender.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
 
@@ -1121,9 +1081,9 @@ II.- Tener 18 años de edad.
 
 III.- Tener vecindad en el Estado con residencia efectiva, de por lo menos cinco años inmediatos anteriores al día de la elección.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
-La vecindad no se interrumpe cuando en el ejercicio de un cargo público, de un cargo de dirección nacional de partido político, por motivo de estudios o por causas ajenas a su voluntad, se tenga que residir fuera del territorio del Estado.
+La vecindad en el Estado no se interrumpe cuando en el ejercicio de un cargo público, de un cargo de dirección nacional de partido político, por motivo de estudios o por causas ajenas a su voluntad, se tenga que residir fuera del territorio del Estado.
 
 > <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
 
@@ -1166,6 +1126,10 @@ VII.- Las personas ministras de cualquier culto religioso, a menos que se separe
 > <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2025)</small>
 
 VIII.- Las personas que tengan sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; o que las declare como personas deudoras alimentarias morosas.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+IX.- Las que tengan o hayan tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de una diputación local.
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
@@ -1794,6 +1758,10 @@ Los Diputados y Senadores del Congreso de la Unión, Diputados locales, Presiden
 > <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 Las personas que tengan sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; o que las declare como personas deudoras alimentarias morosas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+Las personas que tengan o hayan tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad del Poder Ejecutivo del Estado.
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2008)</small>
 
@@ -2725,19 +2693,19 @@ Los ayuntamientos se compondrán de munícipes electos por el sufragio universal
 
 Los ayuntamientos iniciarán el ejercicio de sus funciones el día primero de octubre que siga a su elección. Al efecto, el día inmediato anterior, se reunirán los munícipes electos, en sesión solemne con la finalidad de rendir protesta ante la comunidad e instalar los ayuntamientos.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
-La Presidencia Municipal, Sindicatura y Regidurías de los ayuntamientos durarán en su cargo tres años, pudiendo ser electos por un período adicional consecutivo. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+La Presidencia Municipal, la Sindicatura y las Regidurías de los ayuntamientos durarán en su cargo tres años y no podrán ser electas de manera consecutiva para el periodo inmediato posterior al ejercicio de su mandato.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
-Para ser electo Presidente Municipal, Regidor o Síndicos de un ayuntamiento, de manera consecutiva, no será necesario que el funcionario interesado, solicite licencia para separarse del cargo.
+Las personas servidoras publicas mencionadas en el párrafo anterior, cuando tengan el carácter de propietarias, no podrán ser electas para el periodo inmediato posterior con el carácter de suplentes, pero las que tengan el carácter de suplentes si podrán ser electas para el periodo inmediato posterior como propietarias a menos que hayan estado en ejercicio del cargo.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JUNIO DE 2020)</small>
 
 Durante los actos de precampaña o campaña respectiva, quien pretenda participar en una elección consecutiva, deberá abstenerse del uso de recursos públicos en los términos que prevé el artículo 16 de esta Constitución y 9 TER de la Ley para el Régimen Municipal para el Estado de Baja California, además en el periodo de campaña, no podrán recibir emolumentos o salarios, dietas, apoyos para gestión social o cualquier otra que se le asimile, independientemente de la obligación de desempeñar el cargo para el cual ha decidido participar en elección consecutiva.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 Los partidos políticos en la determinación de los criterios para garantizar la paridad de género en sus métodos de selección de candidatas y candidatos deberán respetar el principio de paridad de género en su aspecto cualitativo y cuantitativo.
 
@@ -2811,9 +2779,9 @@ Los integrantes de los ayuntamientos contarán con sus respectivos suplentes.
 
 Los conceptos que señala el Artículo 15 de esta Constitución, serán aplicables para el desarrollo de la fórmula de asignación aquí prevista.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 30 DE DICIEMBRE DE 2025)</small>
 
-###### ARTÍCULO 80.
+###### ARTICULO 80.
 
 Para ser integrante de un Ayuntamiento, con la salvedad de que la persona que ocupe la Presidencia Municipal debe tener 25 años cumplidos el día de la elección, se requiere:
 
@@ -2843,7 +2811,7 @@ IV.- No tener empleo, cargo o comisión en el Gobierno federal, estatal o munici
 
 Tratándose de la elección consecutiva, se estará a lo que establece el artículo 78 de esta Constitución.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 V.- No podrán ser electos integrantes de un Ayuntamiento:
 
@@ -2866,6 +2834,10 @@ V.- No podrán ser electos integrantes de un Ayuntamiento:
 > <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 5.- Las personas que tengan sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; o que las declare como personas deudoras alimentarias morosas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+6.- Las personas que tengan o hayan tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que este ejerciendo la titularidad del cargo para el que se postula.
 
 > <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
 
@@ -6052,3 +6024,35 @@ OCTAVO.- Los derechos laborales de las personas servidoras públicas serán resp
 NOVENO.- Toda referencia a la Secretaría de la Honestidad y la Función Pública, se entenderá realizada a la Secretaría Anticorrupción y Buen Gobierno.
 
 DÉCIMO.- La Persona Titular del Poder Ejecutivo deberá realizar las modificaciones reglamentarias que resulten necesarias.
+
+P.O. 30 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 206 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 8 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA".]
+
+PRIMERO.- Aprobadas que sean las presentes reformas, túrnese a los Ayuntamientos del Estado de Baja California, para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Agotado el proceso legislativo a que se refiere el transitorio anterior, y de obtenerse la aprobación de la mayoría de los Ayuntamientos del Estado, procédase a realizar la declaratoria de incorporación constitucional correspondiente.
+
+TERCERO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+CUARTO.- El servicio de transporte público, seguro y gratuito para las mujeres, niñas y niños menores de doce años a que se refiere el presente Decreto, se prestara conforme a los términos y condiciones del Programa "Transporte Violeta" expedido por el Instituto de la Movilidad Sustentable del Estado de Baja California y del Presupuesto aprobado en el ejercicio fiscal que corresponda.
+
+P.O. 30 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 207 MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, SE APRUEBAN (SIC) LA REFORMA A DIVERSOS ARTÍCULOS DE LA LEY ELECTORAL DEL ESTADO, SE APRUEBA ARTÍCULO 29 DE LA LEY QUE REGLAMENTA LAS CANDIDATURAS INDEPENDIENTES EN EL ESTADO DE BAJA CALIFORNIA, SE APRUEBA LA DEROGACIÓN DEL ARTÍCULO 9 TER DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Aprobada la presente reforma por el Pleno del Congreso del Estado, remítase a los Ayuntamientos del Estado de Baja California para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Cumplido el trámite previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, procédase a realizar la declaración de incorporación constitucional correspondiente, y remítase el presente Decreto para su publicación en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- Las presentes reformas entrarán en vigor el día (sic) inicio del proceso electoral 2029-2030 a celebrarse en 2030, por lo que la prohibición de nepotismo electoral, será aplicable para dicho proceso y las personas que en 2030 se encuentren ejerciendo los cargos públicos a que hace referencia las presentes reformas, no podrán postularse para procesos de reelección correspondientes.
+
+P.O. 30 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 208 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 7 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Aprobada la presente reforma por el pleno del Congreso del Estado, remítase a los Ayuntamientos del Estado de Baja California para el trámite previsto en el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Agotado el proceso legislativo y de obtenerse la aprobación de la mayoría de los Ayuntamientos del Estado, o si transcurrido un mes después de recibir el presente decreto sin que emitan una votación, procédase a pronunciar la declaratoria de incorporación constitucional correspondiente.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
