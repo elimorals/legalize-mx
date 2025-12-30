@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-adquisiciones-arrendamiento-de-bienes-muebles-y-136332"
 country: "mx"
 rank: "ley"
 publication_date: "2019-05-15"
-last_updated: "2020-08-19"
+last_updated: "2025-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136332&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES Y CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 15 de mayo de 2019.
 
@@ -991,13 +991,17 @@ En caso de presentarse los supuestos de suspensión administrativa o rescisión 
 
 ### Capítulo V. Del Padrón de Proveedores
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 73.
 
-La Oficialía integrará y administrará el Padrón de Proveedores del Poder Ejecutivo del Estado, y clasificará a las personas físicas y morales inscritas en él, de acuerdo con su actividad, capacidad técnica y ubicación. El registro en el Padrón tendrá una vigencia de un año.
+La Oficialía integrará y administrará el Padrón de Proveedores del Poder Ejecutivo del Estado, y clasificará a las personas físicas y morales inscritas en el mismo, de acuerdo con su actividad, capacidad técnica y ubicación.
 
-Todas las Dependencias y Entidades sólo podrán celebrar pedidos o contratos de adquisiciones, arrendamientos y prestación de servicios con las personas que se encuentren inscritas en el Padrón de Proveedores con registro vigente, conforme a los requisitos, criterios y procedimientos que se establezcan en el Reglamento de esta Ley.
+Las Dependencias y Entidades de la Administración Pública Estatal, solamente podrán celebrar pedidos o contratos de adquisiciones, arrendamientos y prestación de servicios con las personas que se encuentren inscritas en el Padrón de Proveedores del Poder Ejecutivo del Estado con registro vigente, conforme a los requisitos, criterios y procedimientos que se establezcan en el Reglamento.
 
-La Oficialía podrá exceptuar de la obligación de registro en el Padrón de Proveedores, en los casos debidamente justificados.
+La Oficialía podrá exceptuar de la obligación de registro en el Padrón de Proveedores del Poder Ejecutivo del Estado, en los casos debidamente justificados.
+
+Por la inscripción, renovación y modificación del Padrón de Proveedores, se realizará el pago de derechos correspondientes, mismo que estará contemplado dentro de la Ley de Derechos del Estado de Chiapas y disponible para su consulta en los sitios de internet de los organismos públicos. La renovación de la Cédula en el Padrón de Proveedores, será de forma anual.
 
 ## Título Quinto. De las Excepciones a la Licitación por Convocatoria Pública
 
@@ -1326,3 +1330,13 @@ Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarqu�
 Artículo Tercero.- Las disposiciones reglamentarias que se requieran para el adecuado cumplimiento del presente Decreto, deberán ser emitidas en un término máximo de 45 días naturales a partir de la entrada en vigor del mismo; en tanto, seguirán siendo aplicables en lo que resulte, las disposiciones contenidas en el Reglamento de la Ley de Adquisiciones, Arrendamiento de Bienes Muebles y Contratación de Servicios para el Estado de Chiapas, publicado en el Periódico Oficial número 183, de fecha 30 de julio de 2003.
 
 Artículo Cuarto.- Los procedimientos de contratación que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión conforme a las disposiciones de la Ley de Adquisiciones, Arrendamiento de Bienes Muebles y Contratación de Servicios para el Estado de Chiapas, vigentes al momento de su inicio.
+
+P.O. 30 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 175 POR EL QUE SE REFORMA EL ARTÍCULO 73 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES Y CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el cumplimiento del presente Decreto.
