@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-de-la-administracion-publica-del-estado-de-160956"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2022-11-11"
-last_updated: "2022-11-11"
+last_updated: "2025-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE GUERRERO NÚMERO 242
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Edición No. 90 Alcance I del Periódico Oficial del Estado de Guerrero, el viernes 11 de noviembre de 2022.
 
@@ -633,9 +633,11 @@ XXV. Revisar, evaluar y dictaminar la viabilidad de la constitución de urbaniza
 
 XXVI. Las demás que le confiera la persona titular del Poder Ejecutivo o le atribuyan otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 28.
 
-La Secretaría de Seguridad Pública, es el órgano encargado de la coordinación global del Sistema Estatal de Seguridad Pública, y le corresponde la conducción y ejercicio de las funciones y servicios de seguridad pública, así como, las atribuciones que le correspondan conforme al Sistema de Justicia Penal, y tendrá las atribuciones siguientes:
+La Secretaría de Seguridad Pública, es el órgano encargado de la coordinación global del Sistema Estatal de Seguridad Pública, le corresponde la conducción y el ejercicio de las funciones y servicios de seguridad pública, así como las que determine el Sistema de Justicia Penal. Asimismo, tendrá a su cargo el diseño, la implementación y la evaluación de la Política Estatal para la Prevención y Combate a la Extorsión, conforme a la Ley del Sistema de Seguridad Pública del Estado Libre y Soberano de Guerrero y a la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la Fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos. Para el cumplimiento de estas funciones, ejercerá las atribuciones siguientes:
 
 I. Diseñar, proponer e implementar las políticas estatales en materia de seguridad pública, criminal, prevención del delito, tránsito estatal, sistema penitenciario y tratamiento de adolescentes, respetando la integridad y derechos de las personas, particularmente aquellas que se encuentran en situación de vulnerabilidad, tomando medidas especiales para garantizar a las mujeres una vida libre de violencia, así como para la preservación de las libertades, la paz pública y la promoción y vigencia de los derechos humanos;
 
@@ -647,7 +649,9 @@ IV. Impulsar las medidas que garanticen la congruencia de la política criminal 
 
 V. Coordinarse con la Secretaría General de Gobierno y la Fiscalía General del estado, para elaborar estudios sobre los actos delictivos no denunciados, estadísticas y mapas delictivos e incorporar esta variable en el diseño de las políticas en materia de prevención del delito, la erradicación de la violencia y la promoción de la cultura de la paz y el fortalecimiento del estado de derecho;
 
-VI. Establecer, coordinar, operar e impulsar la mejora continua del Sistema Estatal de Información de Seguridad Pública, reportes, base de datos y registros en materia criminal;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+VI. Establecer, coordinar, operar e impulsar la mejora continua del Sistema Estatal de Información de Seguridad Pública, incorporando lo relacionado con la extorsión;
 
 VII. Desarrollar las normas, políticas y acciones para el debido suministro permanente e intercambio de información en materia de seguridad pública entre las autoridades federales, estatales y municipales competentes;
 
@@ -657,7 +661,9 @@ IX. Organizar, administrar, supervisar y regir el funcionamiento de la policía 
 
 X. Estructurar las estrategias para prevenir la comisión de delitos y de infracciones a disposiciones jurídicas gubernativas y de policía, focalizándolas en la protección de las personas en su integridad física, propiedades y derechos;
 
-XI. Fortalecer los mecanismos, dispositivos y servicios de comunicación que faciliten la recepción de los reportes y denuncias de la comunidad, sobre emergencias, faltas administrativas y la posible comisión de delitos, a fin de proporcionar el auxilio oportuno;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XI. Fortalecer los mecanismos, dispositivos y servicios de comunicación que faciliten la recepción de reportes y denuncias de la de la (sic) ciudadanía sobre emergencias, faltas administrativas y la posible comisión de delitos, incluidos aquellos relacionados con la extorsión, a fin de proporcionar el auxilio oportuno y la adecuada canalización a las instancias competentes;
 
 XII. Auxiliar dentro del marco legal, al Ministerio Público y a las autoridades judiciales, administrativas, organismos de derechos humanos y municipales, cuando sea requerida legalmente para ello;
 
@@ -667,7 +673,9 @@ XIV. Proponer a la persona titular del Poder Ejecutivo, proyectos de leyes, decr
 
 XV. Supervisar, evaluar, controlar, registrar y conceder autorizaciones a los particulares que presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos de bienes o valores, incluido su traslado y monitoreo electrónico, cuando los servicios se presten sólo en el territorio de la entidad;
 
-XVI. Organizar y administrar el sistema penitenciario del estado y el tratamiento de personas adolescentes en conflicto con la ley penal, garantizando que los establecimientos penitenciarios o centros de internamiento para menores, cuenten con la infraestructura tecnológica y equipamiento que permitan el correcto funcionamiento y seguridad de los mismos;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XVI. Organizar y administrar el sistema penitenciario del estado y el tratamiento de personas adolescentes en conflicto con la ley penal, garantizando que los establecimientos penitenciarios o centros de internamiento para menores, cuenten con la infraestructura tecnológica y equipamiento que permitan el correcto funcionamiento y seguridad de los mismos, incluida la instalación, operación y supervisión de equipos y tecnologías para la inhibición de señales de telefonía celular, radiocomunicación y transmisión de datos o imagen, en términos de la legislación general aplicable en materia de extorsión;
 
 XVII. Promover el establecimiento, administración y vigilancia para la debida operación de las instituciones encargadas de la ejecución de las medidas que impongan las autoridades jurisdiccionales especializadas para el tratamiento de personas adolescentes, en los términos de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes;
 
@@ -701,7 +709,9 @@ XXXI. Elaborar y ejecutar los programas estatales de seguridad pública, en coor
 
 XXXII. Formular y proponer a la persona titular del Poder Ejecutivo, así como ante el Consejo Estatal de Seguridad Pública, las políticas públicas, estrategias e impulsar las acciones y mecanismos para incrementar la eficacia en el cumplimiento de los fines de la seguridad pública;
 
-XXXIII. Realizar estudios multidisciplinarios y estadísticas sobre las causas y efectos del fenómeno delictivo y difundirlos entre la sociedad;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XXXIII. Realizar estudios multidisciplinarios y estadísticas sobre las causas y efectos del fenómeno delictivo y difundirlos entre la sociedad, incluyendo diagnósticos específicos sobre el delito de extorsión;
 
 XXXIV. Impulsar las acciones que sean necesarias para estructurar y materializar las políticas de seguridad integral en el estado;
 
@@ -709,9 +719,21 @@ XXXV. Emitir acuerdos y disposiciones administrativas en el ámbito de su compet
 
 XXXVI. Impulsar el establecimiento de sistemas complementarios de seguridad social para las y los integrantes de las instituciones de seguridad pública;
 
-XXXVII. Administrar la Licencia Oficial Colectiva número 110, supervisar y controlar su uso conforme a las disposiciones de la materia, y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
-XXXVIII. Las demás que le confiera la persona titular del Poder Ejecutivo o le atribuyan otras disposiciones jurídicas aplicables.
+XXXVII. Administrar la Licencia Oficial Colectiva número 110, supervisar y controlar su uso conforme a las disposiciones de la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XXXVIII. Diseñar, implementar, coordinar y evaluar la Política Estatal para la Prevención y Combate a la Extorsión, en coordinación con las instituciones que integran el Sistema Estatal de Seguridad Pública, alineándola a la Estrategia Nacional para Prevenir y Combatir el Delito de Extorsión;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XXXIX. Establecer los mecanismos de coordinación e interoperabilidad tecnológica con el Centro de Atención a Denuncias y demás instancias federales competentes en materia de extorsión, para la recepción, canalización, atención y seguimiento de reportes relacionados con dicho delito, garantizando la protección de datos personales y la confidencialidad de la información, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XL. Las demás que le confiera la persona titular del Poder Ejecutivo o le atribuyan otras disposiciones jurídicas aplicables.
 
 ###### Artículo 29.
 
@@ -1786,3 +1808,17 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 MTRO. LUDWIG MARCIAL REYNOSO NÚÑEZ.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 345 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES AL ARTÍCULO 28 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE GUERRERO NÚMERO 242, EN MATERIA DE EXTORSIÓN”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Las adecuaciones a los manuales de organización, procedimientos y protocolos operativos de la Secretaría de Seguridad Pública del Estado, a efecto de dar cumplimiento a las atribuciones en materia de prevención y combate a la extorsión deberán emitirse en un plazo no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+TERCERO. La Secretaría de Seguridad Pública del Estado, en coordinación con la Fiscalía General del Estado y el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, implementará los mecanismos de interoperabilidad tecnológica previstos en el presente Decreto, conforme a la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la Fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+CUARTO. Las acciones derivadas del presente Decreto se realizarán con cargo al presupuesto aprobado a las instituciones competentes para el ejercicio fiscal correspondiente, sin que se autoricen recursos adicionales ni se incrementen los presupuestos regularizables.
