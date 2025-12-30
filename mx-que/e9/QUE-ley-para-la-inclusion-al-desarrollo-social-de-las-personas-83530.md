@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-la-inclusion-al-desarrollo-social-de-las-personas-8353
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-04"
-last_updated: "2024-10-25"
+last_updated: "2025-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA LA INCLUSIÓN AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 4 de noviembre de 2011.
 
@@ -1395,7 +1395,11 @@ Artículo Décimo. Las concesiones, permisos y demás autorizaciones expedidas c
 
 Las concesiones, permisos y demás autorizaciones expedidas con anterioridad al inicio de la vigencia de la presente Ley, continuarán explotándose bajo las condiciones que se establecen en la presente ley, debiéndose actualizar la información necesaria para obtener el nuevo título que ampare su concesión.
 
-Artículo Décimo Primero. La Agencia, a efecto de generar condiciones de equidad y equilibrio en el desarrollo económico del sector establecerá el cobro de derechos por las actividades de refrendo anual de una concesión de servicio público de taxi en un monto equivalente a 3 (tres) Unidades de Medida de Actualización (UMA), así como por la revisión física y mecánica de los vehículos destinados al servicio público en la modalidad de taxi para el refrendo anual de una concesión a partir del ejercicio 2023.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+Artículo Décimo Primero. La Agencia, a efecto de generar condiciones de equidad y equilibrio en el desarrollo económico del sector, establecerá el cobro de precios por los trámites relativos al refrendo anual de una concesión de servicio público de transporte en la modalidad de taxi en un monto equivalente a 3 (tres) Unidades de Medida y Actualización (UMA), así como por la revisión física y mecánica de los vehículos destinados al servicio público de transporte en la modalidad de taxi para el refrendo anual de una concesión a partir del ejercicio 2023.
+
+Con el mismo objetivo, la Agencia establecerá el cobro de precios por los trámites relativos al refrendo anual de una concesión de servicio público de transporte en la modalidad mixta en un monto equivalente a 3 (tres) Unidades de Medida y Actualización (UMA), así como por la revisión física y mecánica de los vehículos destinados al servicio público de transporte en la modalidad mixta para el refrendo anual de una concesión, a partir de la fecha que al efecto acuerde la Agencia.
 
 Artículo Décimo Segundo. Con la finalidad de regularizar la prestación del servicio, las personas titulares de concesiones para prestar el servicio público de taxi así como de permisos de transporte privado de pasajeros que cuenten con adeudos derivado del refrendo o renovación de concesiones o permisos de ejercicios anteriores, podrán realizar el pago de los mismos, cubriendo únicamente el monto equivalente a 3 (tres) Unidades de Medida de Actualización (UMA), por concepto de refrendo o renovación, y el monto equivalente a 3 (tres) Unidades de Medida de Actualización (UMA), por concepto de revisión física y mecánica de los vehículos destinados al servicio público en la modalidad de taxi y especializado en la modalidad de transporte privado de pasajeros, por cada uno de los ejercicios adeudados.
 
@@ -1424,3 +1428,15 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su apr
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 30 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE SE REFORMA EL ARTÍCULO DÉCIMO PRIMERO TRANSITORIO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE. MOVILIDAD PARA EL TRANSPORTE DEL ESTADO DE QUERÉTARO, LEY DE TRÁNSITO PARA EL ESTADO DE QUERÉTARO, LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE QUERÉTARO Y LA LEY PARA LA INCLUSIÓN AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor Jerarquía que contravengan a la presente Ley.
+
+Artículo Tercero. Para efectos de los precios establecidos en el párrafo segundo del Artículo Décimo Primero Transitorio de la Ley que reforma, adiciona y deroga diversas disposiciones de la Ley de Movilidad para el Transporte del Estado de Querétaro, Ley de Tránsito para el Estado de Querétaro, la Ley de Cambio .Climático para el Estado de Querétaro y la Ley para la Inclusión al Desarrollo Social de las Personas con Discapacidad del Estado de Querétaro, que mediante la presente Ley se reforma, la Agencia de Movilidad del Estado de Querétaro deberá determinar una fecha de entrada en vigor igual o posterior a la de inicio de vigencia del instrumento por el que dicho organismo público descentralizado establezca los precios señalados en el párrafo en cita.
+
+Artículo Cuarto. Envíese al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
