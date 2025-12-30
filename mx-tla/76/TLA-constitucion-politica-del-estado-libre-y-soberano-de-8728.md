@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2025-06-30"
+last_updated: "2025-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -1137,9 +1137,9 @@ XIV. Determinar las participaciones que correspondan a los municipios de los imp
 
 XV. Expedir leyes que regulen las relaciones de trabajo entre los poderes del Estado, los municipios, organismos autónomos y los organismos paraestatales con sus trabajadores, con base en lo dispuesto por los artículos 115 y 123 de la Constitución Política de los Estados Unidos Mexicanos, así como las relativas al sistema de seguridad social de que deban gozar éstos. Para tal efecto se creará un Tribunal de Conciliación y Arbitraje, con autonomía técnica para emitir sus resoluciones y patrimonio propio, dotado de plena jurisdicción para conocer de los conflictos individuales y colectivos de carácter laboral y de seguridad social. El Tribunal se compondrá por tres magistraturas, cuyas personas titulares serán electas de manera libre, directa y secreta por la ciudadanía en la misma jornada electoral de las elecciones estatales ordinarias, conforme al procedimiento establecido en el artículo 84 de esta Constitución. La postulación de las personas candidatas se realizará a través del Comité de Evaluación del Poder Ejecutivo.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
-Para tal efecto se creará un Tribunal de Conciliación y Arbitraje, con autonomía técnica para emitir sus resoluciones y patrimonio propio, dotado de plena jurisdicción para conocer de los conflictos individuales y colectivos de carácter laboral y de seguridad social; asimismo, conocerá de los asuntos relacionados con el acceso a la información pública de los sindicatos de trabajadores al servicio del Estado y de los recursos de revisión que interpongan los particulares respecto de las resoluciones de los mismos. El Tribunal se compondrá por tres magistraturas, cuyas personas titulares serán electas de manera libre, directa y secreta por la ciudadanía en la misma jornada electoral de las elecciones estatales ordinarias, conforme al procedimiento establecido en el artículo 84 de esta Constitución. La postulación de las personas candidatas se realizará a través del Comité de Evaluación del Poder Ejecutivo.
+Para tal efecto se creará un Tribunal de Conciliación y Arbitraje, con autonomía técnica para emitir sus resoluciones y patrimonio propio, dotado de plena jurisdicción para conocer de los conflictos individuales y colectivos de carácter laboral y de seguridad social. El Tribunal se compondrá por tres magistraturas, cuyas personas titulares serán electas de manera libre, directa y secreta por la ciudadanía en la misma jornada electoral de las elecciones estatales ordinarias, conforme al procedimiento establecido en el artículo 84 de esta Constitución. La postulación de las personas candidatas se realizará a través del Comité de Evaluación del Poder Ejecutivo.
 
 Las personas que aspiren a ocupar una magistratura en el Tribunal de Conciliación y Arbitraje del Estado deberán cumplir con los requisitos para ser magistradas o magistrados establecidos en el artículo 83 de esta Constitución, así como acreditar experiencia profesional en materia de derecho laboral y de seguridad social.
 
@@ -2445,9 +2445,7 @@ El Instituto Tlaxcalteca de Elecciones es el órgano encargado de la organizaci�
 
 El Instituto Tlaxcalteca de Elecciones solamente podrá intervenir en los asuntos internos de los partidos políticos en los términos que señale esta Constitución y la ley de la materia; y ésta, sólo establecerá las obligaciones y prohibiciones que conciernen directamente a los partidos políticos, a sus militantes, dirigentes, representantes y candidatos a cargos de elección popular y las sanciones a las que se hagan acreedores.
 
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2025)</small>
-
-El Instituto Tlaxcalteca de Elecciones tendrá competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales a cargo de los partidos políticos; también conocerá de los recursos de revisión que interpongan los particulares respecto de las resoluciones de los partidos políticos en los términos que establezca la ley de la materia.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
@@ -4530,3 +4528,19 @@ Hasta en tanto el Congreso del Estado de Tlaxcala, realice las adecuaciones resp
 ###### ARTÍCULO NOVENO.
 
 El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+P.O. 30 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 239.- SE REFORMA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN XV DEL ARTÍCULO 54, Y SE DEROGA EL PÁRRAFO TERCERO DEL ARTÍCULO 95, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+En términos de lo previsto por el artículo 120 párrafo primero de la Constitución Política del Estado Libre y Soberano de Tlaxcala, remítase el presente Decreto a los sesenta ayuntamientos de los municipios del Estado de Tlaxcala, para los efectos conducentes.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
