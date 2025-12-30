@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-179-del-sistema-de-seguridad-publica-del-estado-1579
 country: "mx"
 rank: "ley"
 publication_date: "2022-04-14"
-last_updated: "2025-02-14"
+last_updated: "2025-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=157955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY NUMERO 179 DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de Guerrero, el jueves 14 de abril de 2022. (REPUBLICADA EN EL P.O. 3 DE MAYO DE 2022).
 
@@ -49,77 +49,87 @@ LEY NUMERO 179 DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE 
 
 ### Capítulo I. Objeto
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público y de observancia general en el Estado de Guerrero, y tiene por objeto:
+La presente Ley es de orden público, interés social y de observancia general en el Estado de Guerrero, y tiene por objeto:
 
-I. Regular la integración, organización y funcionamiento del Sistema Estatal de Seguridad Pública, para contribuir al fortalecimiento del Sistema Nacional de Seguridad Pública, y
+I. Regular la integración, organización y funcionamiento del Sistema Estatal de Seguridad Pública, para contribuir al fortalecimiento del Sistema Nacional de Seguridad Pública, así como la prevención, atención, investigación y combate del delito de extorsión, en el ámbito de competencia estatal, y
 
-II. Establecer las bases de coordinación y cooperación entre el Estado de Guerrero para con la Federación, las entidades federativas, sus municipios y sus pueblos y comunidades indígenas y afromexicanos, así como todas las instituciones que por las actividades que realizan, contribuyan a los fines y el desarrollo de la seguridad pública.
+II. Establecer las bases de coordinación y cooperación entre el Estado de Guerrero para con la Federación, las entidades federativas, sus municipios y sus pueblos y comunidades indígenas y afromexicanos, así como todas las instituciones que por las actividades que realizan, contribuyan a los fines y el desarrollo de la seguridad pública, incluida la Estrategia Estatal contra la Extorsión y su vinculación con la Estrategia Nacional.
 
-La aplicación de esta Ley, corresponde a las autoridades estatales y municipales, en la esfera de sus respectivas competencias, así como sus reglamentos, convenios y acuerdos que se suscriban sobre seguridad pública y demás ordenamientos aplicables.
+La aplicación de esta Ley, corresponde a las autoridades estatales y municipales, en la esfera de sus respectivas competencias, así como sus reglamentos, convenios y acuerdos que se suscriban sobre seguridad pública y los relativos a la prevención, investigación, persecución y atención del delito de extorsión, y demás ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 2.
 
-La seguridad pública es una función de servicio prioritario y permanente a cargo del Estado y los municipios, que tiene como fines salvaguardar la integridad y derechos de las personas, así como preservar las libertades, el orden y la paz públicos y comprende la prevención especial y general de los delitos, la sanción de las infracciones administrativas, así como la investigación y la persecución de los delitos, las medidas cautelares, la suspensión condicional del proceso, la ejecución penal y la reinserción social de las personas privadas de la libertad en su carácter de imputado o sentenciado.
+La seguridad pública es una función de servicio prioritario y permanente a cargo del Estado y los municipios, que tiene como fines salvaguardar la vida, la integridad, los derechos y el patrimonio de las personas, así como preservar las libertades, el orden y la paz públicos y comprende la prevención, investigación y persecución de los delitos, la reinserción social de las personas sentenciadas, así como la sanción de las infracciones administrativas, en términos de esta Ley; incluyendo las acciones específicas para la prevención y combate del delito de extorsión.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 3.
 
 Para los efectos de esta Ley, se entenderá y conceptualizará por:
 
-I. Ayuntamiento: La autoridad municipal;
+I. Academias o Institutos: A las instituciones de formación, capacitación, profesionalización, especialización y actualización de personas aspirantes y servidoras públicas en las funciones de seguridad pública, policial, ministerial, pericial y penitenciaria;
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+II. Ayuntamiento: La autoridad municipal;
 
-II. Bases de Datos: Las bases de datos que constituyen subconjuntos sistematizados de la información contenida en Registros Nacionales en materias relativas a detenciones, armamento, equipo y personal de seguridad pública, medidas cautelares, soluciones alternas y formas de terminación anticipada, así como las bases de datos del Ministerio Público y las instituciones policiales de los tres órdenes de gobierno relativas a la información criminalística, huellas dactilares de personas sujetas a un proceso o investigación penal, teléfonos celulares, personas sentenciadas y servicios de seguridad privada, así como las demás necesarias para la prevención, investigación y persecución de los delitos. El conjunto de bases de datos conformará el Sistema Estatal de Información;
+III. Bases de Datos: Las bases de datos que constituyen subconjuntos sistematizados de la información contenida en Registros Nacionales en materias relativas a detenciones, armamento, equipo y personal de seguridad pública, medidas cautelares, soluciones alternas y formas de terminación anticipada, así como las bases de datos del Ministerio Público y las instituciones policiales de los tres órdenes de gobierno relativas a la información criminalística, huellas dactilares de personas sujetas a un proceso o investigación penal, teléfonos celulares, personas sentenciadas y servicios de seguridad privada, así como las demás necesarias para la prevención, investigación y persecución de los delitos. El conjunto de bases de datos conformará el Sistema Estatal de Información;
 
-III. Carrera Policial: El Servicio Profesional de Carrera Policial;
+IV. Carrera Policial: El Servicio Profesional de Carrera Policial;
 
-IV. Certificado: El Certificado Único Policial;
+V. Centros de Comando y Control: A las instalaciones de seguridad pública a que se refiere esta Ley;
 
-V. Conferencia Estatal: La Conferencia Estatal de Seguridad Pública;
+VI. Certificado: El Certificado Único Policial;
 
-VI. Constitución Federal: La Constitución Política de los Estados Unidos Mexicanos;
+VII. Conferencia Estatal: La Conferencia Estatal de Seguridad Pública;
 
-VII. Constitución Estatal: La Constitución Política de (sic) Estado Libre y Soberano de Guerrero;
+VIII. Constitución Estatal: La Constitución Política del Estado Libre y Soberano de Guerrero;
 
-VIII. Consejo Estatal: El Consejo Estatal de Seguridad Pública;
+IX. Constitución Federal: La Constitución Política de los Estados Unidos Mexicanos;
 
-IX. Consejo Intermunicipal: El constituido por los municipios de una misma región económica del Estado;
+X. Consejo Estatal: El Consejo Estatal de Seguridad Pública;
 
-X. Consejo Municipal: El Consejo Municipal de Seguridad Pública;
+XI. Consejo Intermunicipal: El constituido por los municipios de una misma región económica del Estado;
 
-XI. Consejo Nacional: El Consejo Nacional de Seguridad Pública;
+XII. Consejo Municipal: El Consejo Municipal de Seguridad Pública;
 
-XII. Estado: El Estado Libre y Soberano de Guerrero;
+XIII. Consejo Nacional: El Consejo Nacional de Seguridad Pública;
 
-XIII. Fiscalía: La Fiscalía General del Estado de Guerrero;
+XIV. Estado: El Estado Libre y Soberano de Guerrero;
 
-XIV. Instituciones policiales: Los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva y en general, todas las dependencias encargadas de la seguridad pública que realicen funciones similares;
+XV. Fiscalía General del Estado: La Fiscalía General del Estado de Guerrero;
 
-XV. Instituciones de seguridad pública: Las instituciones policiales, de procuración de justicia, del sistema penitenciario y dependencias encargadas de la seguridad pública a nivel federal, estatal y municipal;
+XVI. Información Policial: Los datos de personas y vehículos obtenidos a través del suministro e intercambio de información otorgada por las instituciones del Poder Ejecutivo, de seguridad o de procuración de justicia y por la sociedad civil, para la identificación de la incidencia delictiva y la prevención del delito en el Estado de Guerrero;
 
-XVI. Ley: La Ley del Sistema de Seguridad Pública del Estado de Guerrero;
+XVII. Instituciones Policiales: Los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva y, en general, todas las dependencias encargadas de la seguridad pública que realicen funciones similares;
 
-XVII. Ley General: La Ley General del Sistema Nacional de Seguridad Pública;
+XVIII. Instituciones de Seguridad Pública: Las instituciones policiales, de procuración de justicia, del sistema penitenciario y dependencias encargadas de la seguridad pública a nivel federal, estatal y municipal;
 
-XVIII. Municipios: Los ayuntamientos municipales del Estado;
+XIX. Inteligencia Policial: Conocimiento nuevo, útil, veraz, oportuno y pertinente para la toma de decisiones y la coordinación de la seguridad pública en el Estado, generado y utilizado a partir del ciclo de planeación, recolección, procesamiento, análisis, diseminación, explotación y retroalimentación de la información. Es información especializada que profundiza los aspectos de identificación y prevención del delito, aportando insumos al diseño y ejecución de estrategias, políticas y acciones para la protección de los bienes y la seguridad individual y colectiva de las personas;
 
-XIX. Registro Nacional: El Registro Nacional de Personal de las instituciones de seguridad pública;
+XX. Ley: La Ley del Sistema de Seguridad Pública del Libre y Soberano del (sic) Estado de Guerrero;
 
-XX. Secretaría: La Secretaría de Seguridad Pública del Gobierno del Estado de Guerrero y Coordinadora Global del Sistema Estatal;
+XXI. Ley General de Extorsión: La Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Federal;
 
-XXI. Secretariado Ejecutivo: El Secretariado Ejecutivo como Órgano Administrativo Desconcentrado de la Secretaría;
-
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
-
-XXII. Sistema Estatal: El Sistema Estatal de Seguridad Pública;
-
-> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+XXII. Ley General: La Ley General del Sistema Nacional de Seguridad Pública;
 
 XXIII. Ley de Uso de Tecnologías: Ley que Regula el Uso de Tecnologías de la Información y Comunicación para la Seguridad Pública del Estado de Guerrero;
 
-XXIV. Sistema Nacional: El Sistema Nacional de Seguridad Pública.
+XXIV. Municipios: Los ayuntamientos municipales del Estado;
+
+XXV. Registro Nacional: El Registro Nacional de Personal de las instituciones de seguridad pública;
+
+XXVI. Secretaría: La Secretaría de Seguridad Pública del Gobierno del Estado de Guerrero y Coordinadora Global del Sistema Estatal;
+
+XXVII. Secretariado Ejecutivo: El Secretariado Ejecutivo como Órgano Administrativo Desconcentrado de la Secretaría;
+
+XXVIII. Sistema Estatal: El Sistema Estatal de Seguridad Pública, y
+
+XXIX. Sistema Nacional: El Sistema Nacional de Seguridad Pública.
 
 ### Capítulo II. Ámbito de competencia
 
@@ -151,7 +161,9 @@ IX. Realizar acciones y operativos conjuntos de las instituciones de seguridad p
 
 X. Participar en la protección y vigilancia de las instalaciones estratégicas del Estado en los términos de esta Ley y demás disposiciones aplicables;
 
-XI. Organizar y modernizar el Sistema Penitenciario del Estado, incluyendo los relativos al internamiento de adolescentes en conflicto con la Ley penal, garantizando que los establecimientos penitenciarios cuenten con equipos que permitan bloquear o anular las señales de telefonía celular, de radiocomunicación o de transmisión de datos o imagen dentro del perímetro de estos;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XI. Organizar y modernizar el Sistema Penitenciario del Estado, incluyendo los relativos al internamiento de adolescentes en conflicto con la Ley penal, garantizando que los establecimientos penitenciarios cuenten con equipos que permitan bloquear o anular las señales de telefonía celular, de radiocomunicación o de transmisión de datos o imagen dentro del perímetro de estos, en términos de la Ley General de Extorsión;
 
 XII. Promover la participación de la comunidad, de las instituciones académicas y de todos los sectores sociales, en coadyuvancia con los procesos de evaluación de las políticas de prevención del delito, así como de las instituciones de seguridad pública a través de los mecanismos correspondientes;
 
@@ -179,9 +191,9 @@ XIX. Distribuir a las personas integrantes del Sistema Estatal, actividades espe
 
 XX. Proponer, coordinar y ejecutar la implementación de las acciones derivadas de las disposiciones que, en materia de uso de tecnologías de la información y comunicación para la seguridad pública, determinen la Ley de Uso de Tecnologías y el Reglamento;
 
-> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
-XXI. Clasificar, resguardar y registrar la información captada por los equipos y sistemas tecnológicos en los términos establecidos por la Ley de Uso de Tecnologías, la Ley de Seguridad, la Ley de Protección, la Ley de Transparencia y demás disposiciones aplicables, y
+XXI. Clasificar, resguardar y registrar la información captada por los equipos y sistemas tecnológicos en los términos establecidos por la Ley de Uso de Tecnologías, la Ley de Seguridad, la Ley de Protección, la Ley de Transparencia y demás disposiciones aplicables, incluida la relativa al delito de extorsión, y
 
 XXII. Las demás acciones que sean necesarias para incrementar la eficiencia y eficacia en el cumplimiento de los objetivos y fines de la seguridad pública.
 
@@ -195,15 +207,71 @@ La Seguridad Pública se realizará en los diversos ámbitos de competencia por 
 
 Las acciones para proteger los derechos en materia de seguridad ciudadana deberán ejecutarse con enfoque diferenciado y perspectiva de género para los grupos vulnerables y de atención prioritaria frente a la violencia y el delito.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 7.
 
-Las instituciones de seguridad pública, serán de carácter civil, disciplinado y profesional, su actuación se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos por la Constitución Federal, fomentando la participación ciudadana y la rendición de cuentas en términos de ley.
+La actuación de las instituciones de Seguridad Pública y los órganos del Sistema, así como las políticas, los programas, mecanismos y las acciones en materia de seguridad pública, se regirán por los principios de legalidad, objetividad, eficiencia, profesionalismo y honradez, así como por la perspectiva de género, el amor a la patria, el federalismo cooperativo, la protección de la persona, su dignidad y el respeto a los derechos humanos con enfoque diferenciado e incluyente.
+
+Asimismo, deberán cumplir con los deberes reforzados de protección del estado en la materia, con énfasis en personas y grupos poblacionales discriminados con motivo de su origen étnico o nacional, género, edad, discapacidad, condición social, condición de salud, religión, opiniones, orientación sexual, identidad de género, estado civil o cualquier otra causa que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas; así como fomentar la participación ciudadana y rendir cuentas en términos de la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 7 Bis.
+
+El estado desarrollará políticas en materia de prevención de las violencias y del delito con carácter integral, atención a las causas que los generan, así como programas y acciones para fomentar en la sociedad valores que induzcan el respeto al orden jurídico, la comunidad y la protección de las víctimas.
+
+Las instituciones de seguridad pública del estado, deberán promover acciones acordes con el párrafo anterior en coordinación con las autoridades municipales qué, debido a sus atribuciones, deban contribuir en esta materia.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 7 Bis 1.
+
+Las instituciones de seguridad pública del estado, en coadyuvancia y corresponsabilidad, deben promover la participación social a través del diseño, desarrollo, implementación y evaluación de mecanismos encaminados a fortalecer las políticas, los lineamientos, programas y demás acciones en materia de seguridad pública.
+
+La participación social, en el marco de la presente Ley, tiene como objeto promover la deliberación, discusión, cooperación, así como la integración de propuestas, experiencias y necesidades de la comunidad para fortalecer las acciones de las instituciones de seguridad pública en materia de construcción de paz, prevención de las violencias y del delito, investigación, procuración de justicia, diseño y desarrollo institucional.
+
+La participación social deberá incluir a personas, grupos, organizaciones e instituciones académicas, en particular de aquellas personas y grupos históricamente discriminados, promoviendo el diálogo intercultural y el respeto a los derechos colectivos de los pueblos y comunidades indígenas y afromexicanas y equiparables, a través de mecanismos de consulta, participación y coordinación con sus autoridades representativas y sistemas normativos propios.
+
+La participación social puede llevarse a cabo a través de asambleas, foros, comisiones, consultas públicas, talleres u otro mecanismo pertinente. Las recomendaciones, opiniones y estudios que resulten de estos deben ser revisados por las instituciones de seguridad pública competentes para valorar la posibilidad de su incorporación a políticas y programas en materia de seguridad pública.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 7 Bis 2.
+
+Los fines de la presente Ley son:
+
+I. Establecer bases normativas para que las instituciones y los órganos que integran el sistema puedan diseñar, formular, proponer, ejecutar, dar seguimiento y evaluar las políticas, estrategias, los programas y las acciones en materia de seguridad pública a través de las instancias y los mecanismos previstos en esta Ley;
+
+II. Distribuir la competencia específica entre el estado y los municipios, para el ejercicio de la función concurrente de la seguridad pública, a fin de que se coordinen de manera eficiente, transparente y responsable;
+
+III. Distribuir entre los órganos del sistema funciones específicas para el cumplimiento de los fines de la seguridad pública;
+
+IV. Definir atribuciones generales para la formulación de políticas, programas, acciones, estrategias y medidas orientadas a la prevención de las violencias y del delito, así como para reducir los factores que los incentivan;
+
+V. Establecer los órganos y mecanismos de coordinación a través de los cuales las Instituciones de Seguridad Pública realizarán acciones y operativos conjuntos;
+
+VI. Regular los procedimientos de reclutamiento, selección, ingreso, registro, profesionalización, certificación, permanencia, promoción, reconocimiento, régimen disciplinario, reingreso y conclusión del servicio de las personas servidoras públicas de las instituciones de seguridad pública, con el fin de homologarlos y estandarizarlos;
+
+VII. Emitir las bases mínimas para el desarrollo de las Instituciones de Seguridad Pública, mediante el establecimiento de estándares y modelos, la promoción de protocolos homologados para su actuación y operación y la acreditación y certificación institucional e individual;
+
+VIII. Fortalecer los sistemas de seguridad social y complementarios de las personas integrantes de las instituciones de seguridad pública, sus familias y dependientes;
+
+IX. Fomentar la participación social y de instituciones académicas en coadyuvancia con los procesos de diseño y evaluación de las políticas de prevención de las violencias y del delito, así como de las instituciones de seguridad pública;
+
+X. Establecer mecanismos para la protección y vigilancia de las instalaciones estratégicas del país;
+
+XI. Establecer el Sistema Nacional de Información y los mecanismos para su funcionamiento, y
+
+XII. Establecer mecanismos de distribución, evaluación, vigilancia y fiscalización de los Fondos de Ayuda Federal para la seguridad pública.
 
 ###### Artículo 8.
 
 Cuando las disposiciones de esta Ley comprendan materias y acciones que incidan en los diversos ámbitos de competencia del Estado y los municipios o que la materia o acción no esté regulada por la ley, se estará a las reglas de supletoriedad siguientes:
 
-I. Respecto del apoyo y coordinación interinstitucional de los tres órdenes de gobierno, se estará a lo dispuesto en la Ley General, a las resoluciones y acuerdos emitidos por los Consejos Nacional y Estatal y las Conferencias Nacional y Estatal, el Código Nacional, la Ley Nacional de Ejecución Penal y demás disposiciones que conforman el marco jurídico de la materia;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+I. Respecto del apoyo y coordinación interinstitucional de los tres órdenes de gobierno, se estará a lo dispuesto en la Ley General, en la Ley General de Extorsión, a las resoluciones y acuerdos emitidos por los Consejos Nacional y Estatal y las Conferencias Nacional y Estatal, el Código Nacional de Procedimientos Penales, la Ley Nacional de Ejecución Penal y demás disposiciones que conforman el marco jurídico de la materia;
 
 II. Por cuanto al régimen disciplinario:
 
@@ -225,9 +293,11 @@ V. Los principios generales del derecho.
 
 Las acciones que desarrollen las autoridades competentes de la Seguridad Pública en el Estado y los municipios se coordinarán a través de un Sistema Estatal, que se integrará por las instancias, instrumentos, políticas, servicios y acciones previstos en esta Ley, tendientes a cumplir los objetivos y fines de la seguridad pública, de conformidad con el artículo 21 de la Constitución Federal, la Constitución Estatal, la Ley General y la presente Ley.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 10.
 
-El Sistema Estatal es el conjunto articulado de instancias, autoridades, planes, programas, acciones, instrumentos, mecanismos, acuerdos y convenios que vinculan a las instancias y autoridades estatales y municipales y ordenan el desarrollo integral, metodológico y sistemático de la función de seguridad pública, mediante la realización y cumplimiento de las políticas, lineamientos, procedimientos, atribuciones, obligaciones y facultades del ámbito estatal y municipal.
+El Sistema Estatal es el conjunto orgánico y articulado de relaciones funcionales, principios, normas, instituciones, instalaciones, estructuras, técnicas, programas, políticas, procedimientos y servicios destinados a cumplir con los fines de la seguridad pública establecidos en la Constitución Federal.
 
 ###### Artículo 11.
 
@@ -239,15 +309,67 @@ II. La Conferencia Estatal de Seguridad Pública;
 
 III. La Secretaría de Seguridad Pública, en su carácter de coordinadora global del Sistema Estatal;
 
-IV. Los consejos municipales e intermunicipales;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+IV. Los consejos municipales, intermunicipales, e instancias de coordinación;
 
 V. El Secretariado Ejecutivo, y
 
-VI. Las demás instancias vinculadas con la seguridad pública.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+VI. La mesa de Paz, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+VII. Las demás instancias vinculadas con la seguridad pública.
 
 El Poder Judicial del Estado y los órganos jurisdiccionales del Poder Judicial de la Federación, podrán contribuir con las instancias que integran el Sistema Estatal, en la formulación de estudios, lineamientos e implementación de programas y acciones que permitan alcanzar los fines de la seguridad pública.
 
-### Capítulo II. Consejo Estatal
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+### Capítulo I Bis. Distribución de Competencias
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 11 Bis.
+
+Corresponde a la persona titular del Poder Ejecutivo del estado:
+
+I. Formular, dirigir y coordinar la estrategia de seguridad pública del estado, en concordancia con la Estrategia Nacional de Seguridad Pública;
+
+II. Cumplir con las obligaciones y responsabilidades derivadas de la Estrategia Nacional de Seguridad Pública, en sus respectivos ámbitos de competencia;
+
+III. Encabezar las mesas de paz;
+
+IV. Informar periódicamente a la población sobre las políticas, planes, programas y resultados en materia de seguridad pública;
+
+V. Establecer y coordinar los programas de prevención de las violencias y del delito;
+
+VI. Garantizar el desarrollo y la profesionalización de sus cuerpos policiales de acuerdo con los estándares que establezca el Secretariado Ejecutivo para tal fin;
+
+VII. Establecer mecanismos de coordinación en materia de seguridad pública con la fiscalía o su equivalente y con el Poder Judicial de su entidad federativa;
+
+VIII. Realizar las acciones necesarias para garantizar el derecho a la seguridad pública en su territorio en coordinación con los municipios o las demarcaciones territoriales, según corresponda;
+
+IX. Establecer el mando único o coordinado con los municipios o las demarcaciones territoriales, según corresponda, conforme a los parámetros establecidos en esta Ley, y
+
+X. Las demás atribuciones que se establezcan en la Constitución Federal, la presente Ley y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 11 Bis 1.
+
+Corresponde a las personas titulares de las presidencias municipales:
+
+I. Asistir a las mesas de paz, cuando sean convocadas;
+
+II. Establecer reuniones periódicas de seguridad pública;
+
+III. Desarrollar y profesionalizar a la policía de su municipio, en caso de contar con ella, conforme a los estándares que establezca el Secretariado Ejecutivo para tal fin;
+
+IV. Mantener coordinarse con el Poder Ejecutivo de su entidad federativa, en caso de no contar con policía, para garantizar el derecho a la seguridad para sus habitantes e impulsar las acciones necesarias para la creación de su propia institución policial, y
+
+V. Impulsar la justicia cívica para la atención a las faltas administrativas conforme a los estándares que establezca el Secretariado Ejecutivo para tal fin.
 
 ###### Artículo 12.
 
@@ -255,11 +377,13 @@ La organización, coordinación y colaboración en un marco de respeto a las atr
 
 El Reglamento que al efecto se expida desarrollará las facultades y atribuciones generales y específicas de las instancias que integran del (sic) Sistema Estatal para una efectiva coordinación.
 
-### Capítulo III. Secretaría de Seguridad Pública del Estado, como Coordinadora Global del Sistema Estatal
+### Capítulo II. Consejo Estatal
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 13.
 
-El Consejo Estatal es la instancia superior del Sistema Estatal, facultado para establecer políticas y aprobar acuerdos generales y específicos que permitan articular, coordinar e implementar los planes y programas en materia de seguridad pública, el cual se integrará por las personas titulares de:
+El Consejo Estatal será la instancia superior de definición de políticas públicas de aplicación general, así como de la coordinación eficiente, transparente y responsable del ejercicio de las atribuciones de las instituciones de seguridad pública del estado, en atención a los fines del Sistema de Seguridad Pública y los objetivos de la Estrategia Nacional de Seguridad Pública, el cual se integrará por las personas titulares de:
 
 I. El Poder Ejecutivo del Estado, quien presidirá;
 
@@ -287,89 +411,101 @@ III. La Delegación Estatal de la Secretaría de Gobernación;
 
 IV. La Delegación Estatal de la Fiscalía General de la República;
 
-V. La Coordinación Estatal de la Guardia Nacional, y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
-VI. La Delegación Estatal del Centro Nacional de Inteligencia, CNI.
+V. La Coordinación Estatal de la Guardia Nacional;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+VI. La Delegación Estatal del Centro Nacional de Inteligencia, y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+VII. La persona titular de la Comisión Estatal de los Derechos Humanos.
 
 Los cargos en el Consejo Estatal serán de carácter honorífico y no percibirán emolumentos o retribución económica alguna por su desempeño, las personas integrantes no podrán nombrar suplente.
 
-En ausencia de la Presidencia, la vicepresidencia presidirá las sesiones.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+Las ausencias de la Presidencia del Consejo Estatal serán suplidas por la persona titular de la Secretaría. Las demás personas que lo integran no podrán ser suplidas.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 15.
 
-El Consejo Estatal funcionará en Pleno o en las comisiones previstas por esta Ley. Las sesiones del Pleno serán ordinarias y se llevarán a cabo cada seis meses y de forma extraordinaria a convocatoria de su Presidencia o la Coordinadora, en ambos casos la convocatoria la emitirá su Presidencia por conducto de la secretaría ejecutiva del Consejo Estatal, quien integrará la agenda de los asuntos a tratar.
+El Consejo Estatal funcionará en Pleno de acuerdo con las disposiciones siguientes:
 
-El quórum para las sesiones del Consejo Estatal se integrará con la mitad más uno de sus integrantes. Los acuerdos se tomarán por la mayoría de sus integrantes presentes y, en caso de empate, la Presidencia tendrá voto de calidad.
+I. El pleno se reunirá de forma ordinaria por lo menos una vez al año, de manera presencial o virtual, a convocatoria de su presidencia, con la agenda de asuntos a tratar que someta a su consideración el Secretariado Ejecutivo; de manera extraordinaria, se reunirá las veces que su presidencia convoque;
+
+II. El quórum para las reuniones del pleno del Consejo Estatal se integrará con la mitad más uno de sus integrantes. Los acuerdos se tomarán por voto de la mayoría de las personas presentes del Consejo Estatal y deberán publicarse en el Periódico Oficial del Gobierno del Estado de Guerrero por el Secretariado Ejecutivo, y
+
+III. Las personas integrantes del Consejo Estatal podrán formular propuestas de acuerdos para el mejor funcionamiento del Sistema Estatal.
 
 ###### Artículo 16.
 
 El Consejo Estatal podrá invitar por la naturaleza de los asuntos a tratar, a personas, instituciones, organizaciones y representantes de la sociedad civil, así como a las personas titulares de la Comisión de los Derechos Humanos del Estado, del Comité de Consulta y Participación Ciudadana y del Tribunal Superior de Justicia del Estado con derecho a voz, pero no a voto, que puedan exponer conocimientos y experiencias para alcanzar los fines de la seguridad pública.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 17.
 
-El Consejo Estatal de Seguridad Pública, tendrá las atribuciones siguientes:
+El Consejo Estatal, tendrá las atribuciones siguientes:
 
-I. Planear e implementar el Sistema Estatal;
+I. Establecer los instrumentos y políticas públicas integrales, sistemáticas, continuas y evaluables, tendientes a cumplir los objetivos y fines de la seguridad pública;
 
-II. Establecer los instrumentos y políticas públicas integrales, sistemáticas, continuas y evaluables tendientes a cumplir los objetivos y fines de la seguridad pública;
+II. Emitir los acuerdos y las resoluciones generales para el funcionamiento del Sistema Estatal;
 
-III. Aprobar y autorizar los planes, programas y operativos generales y especiales en materia de seguridad pública, de procuración de justicia y de prevención de faltas y delitos;
+III. Establecer lineamientos para la formulación de políticas generales en materia de seguridad pública;
 
-IV. Dar seguimiento a los acuerdos, lineamientos y políticas emitidos por el Consejo Nacional;
+IV. Promover la homologación y desarrollo de los modelos policial, ministerial, pericial y penitenciario en las instituciones de seguridad pública y pronunciarse sobre sus avances;
 
-V. Emitir acuerdos y resoluciones generales, para el funcionamiento del Sistema Estatal;
+V. Promover la implementación de políticas en materia de atención a víctimas del delito;
 
-VI. Aprobar y autorizar los acuerdos que deban ser considerados como bases de coordinación entre la Federación, las entidades federativas, el Estado y los municipios;
+VI. Promover la efectiva coordinación de las instituciones de seguridad pública y dar seguimiento de las acciones que para tal efecto se establezcan;
 
-VII. Evaluar periódicamente los programas de seguridad pública y otros relacionados;
+VII. Formular propuestas para políticas y programas en materia de seguridad pública, procuración de justicia y prevención de las violencias y el delito;
 
-VIII. Evaluar el cumplimiento de los objetivos y metas de los programas de seguridad pública y otros relacionados;
+VIII. Evaluar periódicamente el cumplimiento de los programas de seguridad pública y otros relacionados, así como sus objetivos y metas;
 
-IX. Emitir recomendaciones sobre los programas de seguridad pública de los municipios, conforme a la Ley de Coordinación Fiscal Federal;
+IX. Establecer medidas para vincular al Sistema Estatal con otros sistemas nacionales, regionales o locales;
 
-X. Emitir las políticas para el suministro, intercambio, sistematización y actualización de la información que sobre seguridad pública generen las instituciones del Estado y los municipios;
+X. Promover el establecimiento de unidades de consulta y participación de la comunidad en las instituciones de seguridad pública;
 
-XI. Impulsar la homologación y desarrollo de los modelos ministerial, policial y pericial en las instituciones de seguridad pública y evaluar sus avances, de conformidad con las leyes respectivas;
+XI. Establecer mecanismos eficaces para que la sociedad participe en los procesos de evaluación de las políticas de prevención de las violencias y del delito, así como de las instituciones de seguridad pública;
 
-XII. Observar y desarrollar mecanismos eficaces para que la sociedad participe en los procesos de evaluación de las políticas de prevención del delito y de las instituciones de seguridad pública;
+XII. Promover políticas de coordinación y colaboración con el Poder Judicial del estado;
 
-XIII. Autorizar las bases, reglas y lineamientos para la integración de estructuras y esquemas de operación policial entre las instituciones de seguridad pública;
+XIII. Crear grupos de trabajo, regionales o temáticos, permanentes o transitorios, para el apoyo de sus funciones;
 
-XIV. Promover y facilitar la implementación de políticas en materia de atención a víctimas del delito;
+XIV. Propiciar la coordinación con las autoridades que debido a sus atribuciones deban contribuir directa o indirectamente a la prevención de las violencias y del delito para el diseño de instrumentos y políticas públicas en esta materia;
 
-XV. Cuidar que los recursos de los fondos de aportaciones federales y estatales se apliquen a los fines programáticos que anualmente se establezcan en el Estado y los municipios para la seguridad pública, en los rubros de desarrollo policial, incremento de recursos humanos, equipamiento, infraestructura y tecnología, de acuerdo con la Ley de Coordinación Fiscal Federal y de los criterios aprobados por el Sistema Nacional;
+XV. Diseñar e implementar una estrategia para prevenir y combatir el delito de extorsión, que tendrá como objeto definir y coordinar el diseño y la implementación de acciones y políticas en el ámbito de sus respectivas competencias, ajustándose a los contenidos de la Estrategia Nacional a cargo de la Federación.
 
-XVI. Promover y desarrollar las medidas para vincular al Sistema Estatal con otros nacionales, estatales, así como con las instancias regionales, intermunicipales y municipales;
+La estrategia para prevenir y combatir el delito de extorsión tendrá, como mínimo, los siguientes objetivos:
 
-XVII. Promover el establecimiento de Unidades de Consulta y Participación de la Comunidad en las instituciones de seguridad pública;
+a) Disuadir oportunamente la comisión del delito de extorsión mediante la implementación, entre otros mecanismos, de campañas permanentes de información y prevención dirigidas a la ciudadanía;
 
-XVIII. Recomendar la remoción de las personas titulares de las instituciones de seguridad pública que incumplan las obligaciones establecidas en las leyes, con base en la opinión justificada de la persona titular de la Secretaría;
+b) Identificar, visibilizar y reducir los factores de riesgo que favorecen la comisión del delito de extorsión;
 
-XIX. Proponer al Consejo Nacional los acuerdos, programas específicos y convenios sobre las materias de coordinación de la seguridad pública;
+c) Impedir que las personas resulten ser víctimas del delito de extorsión;
 
-XX. Establecer y desarrollar las bases de colaboración y cooperación a las que deben sujetarse y vincularse las instituciones policiales auxiliares de la función de seguridad pública;
+d) Generar información de valor sobre patrones de operación, para su aprovechamiento de las unidades encargadas de investigar y perseguir el delito de extorsión, y
 
-XXI. Promover políticas de coordinación y colaboración con el Tribunal Superior de Justicia del Estado y demás órganos jurisdiccionales del Poder Judicial de la Federación con sede en el Estado;
+e) Definir metas, líneas de acción y plazos cuantificables para el seguimiento y evaluación de la Estrategia que permitan medir su eficacia y los resultados alcanzados, asegurando la rendición de cuentas y transparencia.
 
-XXII. Conformar grupos de trabajo para el apoyo de sus funciones;
+En su contenido deberá contemplarse un diagnóstico que refleje la situación actual del delito de extorsión. Dicho diagnóstico deberá limitarse al contexto social y territorial con el fin de visibilizar las formas de comisión del delito de extorsión, y con ello, focalizar las acciones necesarias para prevenir e investigar este delito, y
 
-XXIII. Crear comisiones especiales, permanentes o temporales para estudiar, operar y evaluar políticas, planes, programas y acciones en materia de prevención, combate e investigación de las faltas administrativas y delitos; tránsito y educación vial; reinserción social; derechos humanos; de orientación, protección y tratamiento de adolescentes; de procuración e impartición de justicia; de participación municipal y de consulta y participación ciudadana en seguridad pública, así como aquellas que se determinen de acuerdo a las necesidades que se tengan para atender la seguridad pública;
+XVI. Las demás que se (sic) establezca la presente Ley y otras disposiciones legales aplicables para el buen funcionamiento del Sistema Estatal.
 
-XXIV. Promover y desarrollar las bases para la coordinación del Sistema Estatal con el Sistema Comunitario Indígena y Afromexicano;
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
-XXV. Autorizar las bases para la profesionalización y operación del Cuerpo de la Policía Estatal;
+###### Artículo 17 Bis.
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+Para el ejercicio de las funciones establecidas en el artículo anterior, el Pleno podrá auxiliarse de comisiones; para tal efecto, determinará su tipo, materia, temporalidad, objeto, integrantes, deberes y funcionamiento. Las comisiones serán coordinadas por el Secretariado Ejecutivo para dar seguimiento al cumplimiento de las atribuciones y para su mejor desempeño.
 
-XXVI. Proponer iniciativas de ley, reglamentos y disposiciones administrativas relativas a la seguridad pública;
+En las comisiones podrán participar personas expertas de instituciones académicas, de investigación y agrupaciones de los sectores social y privado relacionadas con su objeto.
 
-> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
-
-XXVIII (SIC). Verificar el cumplimiento de las disposiciones que en materia del uso de tecnologías de la información y comunicación para la seguridad pública establezca la Ley de Que Regula el Uso de Tecnologías de la información y Comunicación para la Seguridad Pública del Estado de Guerrero y su reglamento, y
-
-XXVIII. Las demás que se establezcan en otras disposiciones normativas y que sean necesarias para los objetivos y funcionamiento del Sistema Estatal.
-
-### Capítulo IV. Secretariado Ejecutivo
+### Capítulo III. Secretaría de Seguridad Pública del Estado, como Coordinadora Global del Sistema Estatal
 
 ###### Artículo 18.
 
@@ -447,75 +583,121 @@ XXV. Las demás que le atribuyan expresamente las leyes y los reglamentos.
 
 La organización y funcionamiento de la Secretaría se establecerá en su reglamento interior.
 
-### Capítulo V. Conferencia Estatal de Seguridad Pública
+### Capítulo IV. Secretariado Ejecutivo
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 21.
 
-El Secretariado Ejecutivo es un Órgano Administrativo Desconcentrado con autonomía técnica presupuestal, de gestión y seguimiento dependiente de la Secretaría.
+El Secretariado Ejecutivo es el órgano operativo del Sistema Estatal y gozará de autonomía técnica, de gestión y presupuestal; contará, para el cumplimiento de sus atribuciones, con las unidades administrativas necesarias para el despacho de los asuntos de su competencia, conforme a lo dispuesto en el Reglamento Interior del Consejo Estatal de Seguridad Pública y del Secretariado Ejecutivo.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 22.
 
-La persona titular del Secretariado Ejecutivo tendrá las atribuciones siguientes:
+La persona titular del Secretariado Ejecutivo será designada y removida libremente por la persona titular del Poder Ejecutivo del estado y deberá cumplir con los siguientes requisitos:
 
-I. Levantar y certificar los acuerdos y actas que tome el Consejo Estatal; llevar los archivos de éste, de los convenios y acuerdos que se suscriban en materia de seguridad pública, así como expedir constancia de estos;
+I. Ser ciudadana mexicana y estar en pleno goce de sus derechos civiles y políticos;
 
-II. Integrar las propuestas que el Consejo Estatal formule para la elaboración del Programa Estatal;
+II. Tener más de treinta años;
 
-III. Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo Estatal;
+III. Contar con título profesional de nivel licenciatura debidamente registrado;
 
-IV. Supervisar que las instituciones de seguridad pública mantengan los controles de confianza aprobados y vigentes;
+IV. Tener reconocida honorabilidad y probidad;
 
-V. Diseñar las políticas y estrategias para la prevención del delito;
+V. Acreditar cuando menos cinco años de experiencia en materias directamente relacionadas con las funciones del cargo, y
 
-VI. Diseñar las políticas y acciones para el seguimiento a los programas de seguridad pública;
+VI. No haber sido condenada mediante sentencia firme por delito doloso, ni estar inhabilitada para desempeñar un empleo, cargo o comisión en el servicio público.
 
-VII. Orientar a los consejos municipales e intermunicipales, cuando lo requieran en la elaboración de su Programa de Seguridad Pública Municipal;
-
-VIII. Coordinar la conformación de los consejos municipales e intermunicipales de seguridad pública y los comités estatal y municipal de consulta y participación ciudadana de la materia; así como apoyar y dar seguimiento a los acuerdos que de ellos emanen, vinculándolos al Sistema Estatal y Nacional;
-
-IX. Representar al Secretariado Ejecutivo, en los actos y negocios jurídicos, ante las autoridades judiciales, administrativos y del trabajo, para formular, contestar y reconvenir demandas, presentar denuncias, querellas, ofrecer pruebas, formular y articular posiciones, promover amparos y cuidar de sus bienes, en términos de las disposiciones legales aplicables;
-
-X. Delegar atribuciones y otorgar poderes de representación jurídico-legal ante las dependencias de los tres niveles de gobierno y autoridades jurisdiccionales.
-
-XI. Revisar, analizar y en su caso emitir recomendación para dictaminar en relación con los programas municipales de seguridad pública y a la propuesta de distribución y aplicación de los recursos del Fondo de Aportaciones para el Fortalecimiento de los municipios en materia de Seguridad Pública del Ramo 33 que presenten los ayuntamientos;
-
-XII. Aprobado el programa municipal, emitirá el dictamen que enviará a la Auditoría Superior del Estado, el cual se sujetará a la comprobación anual que los ayuntamientos acrediten ante dicho órgano de control presupuestal, en el rubro de seguridad pública;
-
-XIII. Suscribir los convenios de coordinación, colaboración y concertación necesarios para el cumplimiento de los fines del Sistema Estatal;
-
-XIV. Verificar el cumplimiento de las disposiciones de esta Ley, los convenios generales y específicos en la materia, así como las demás disposiciones aplicables e informar lo conducente al Consejo Estatal;
-
-XV. Proponer los criterios de evaluación de las instituciones de seguridad pública;
-
-XVI. Cuidar que los programas, estrategias, acciones, políticas y servicios que se adopten por la Conferencia Estatal, se vinculen y articulen entre sí y que cumplan con los lineamientos y acuerdos generales y especiales que dicte el Consejo Estatal;
-
-XVII. Preparar la evaluación del cumplimiento de las políticas, estrategias y acciones del Sistema Estatal en los términos de ley;
-
-XVIII. Promover la homologación de la carrera policial, la profesionalización y el régimen disciplinario en las instituciones de seguridad pública;
-
-XIX. Presentar al Consejo Estatal los informes de la Conferencia Estatal, para el seguimiento de los acuerdos y resoluciones que se adopten en la misma;
-
-XX. Colaborar con las instituciones de seguridad pública, para fortalecer y eficientar los mecanismos de coordinación; así como en el impulso de las carreras ministerial, policial y pericial conforme al ámbito de su competencia;
-
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
-
-XXI. Informar al Consejo Estatal, de los avances y resultados de los asuntos de su competencia, previo acuerdo con la persona titular de la Secretaría;
-
-> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
-
-XXII. Verificar el cumplimiento de las disposiciones que en materia del uso de tecnologías de la información y comunicación para la seguridad pública establezca la Ley de (sic) Que Regula el Uso de Tecnologías de la información y Comunicación para la Seguridad Pública del Estado de Guerrero y su reglamento;
-
-> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
-
-XXIII. Solicitar informes a la secretaría de instalación y retiro de equipos y sistemas tecnológicos, y
-
-XXVII (SIC). Las demás que le otorgue esta Ley y otras disposiciones aplicables.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 23.
 
-La organización y funcionamiento del Secretario Ejecutivo se establecerá en su reglamento interior.
+La persona titular del Secretariado Ejecutivo tendrá las atribuciones siguientes:
 
-### Capítulo VII (SIC). Centros Estatales
+I. Realizar los actos y emitir los instrumentos necesarios para el cumplimiento del objeto del Secretariado Ejecutivo;
+
+II. Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo Nacional y Consejo Estatal;
+
+III. Someter a la aprobación del Consejo Estatal:
+
+a) Proyectos de acuerdos y resoluciones generales para el funcionamiento del Sistema Estatal;
+
+b) Políticas, programas, lineamientos, protocolos, estándares, criterios, modelos y acciones para el desarrollo y buen desempeño de las Instituciones de Seguridad Pública;
+
+c) Propuestas para impulsar los Programas de prioridad nacional;
+
+d) Informes sobre la administración y ejercicio de los Fondos de Ayuda Federal orientados al cumplimiento de los estándares, lineamientos, evaluación y certificación de las instituciones, y, cuando aplique, alineados a la Ley de Coordinación Fiscal, y
+
+e) Proyectos de recomendación para optimizar el destino y aplicación de los recursos destinados a seguridad pública.
+
+IV. Informar al Consejo Estatal sobre el seguimiento a sus acuerdos y resoluciones;
+
+V. Analizar la procedencia, viabilidad y necesidad de las políticas, programas, estándares, lineamientos, protocolos, criterios, modelos y acciones que se vayan a someter al Consejo Estatal;
+
+VI. Coordinar la aplicación de los lineamientos para el funcionamiento del servicio profesional de carrera policial y coordinarlo;
+
+VII. Promover la homologación de la carrera policial, la profesionalización y el régimen disciplinario en las Instituciones de Seguridad Pública;
+
+VIII. Impulsar la observancia y cumplimiento del programa rector de profesionalización de las Instituciones de Seguridad Pública en coordinación con las instancias competentes;
+
+IX. Supervisar la aplicación de los criterios de evaluación, acreditación y certificación institucional y de los integrantes de las instituciones de seguridad pública;
+
+X. Colaborar en el seguimiento del modelo de Academias, Institutos o entes homólogos en donde se forme y capacite a las personas servidoras públicas de las Instituciones de Seguridad Pública;
+
+XI. Gestionar ante las autoridades competentes, la ministración de los Fondos de Ayuda Federal, de conformidad con los criterios aprobados por el Consejo Nacional y las demás disposiciones aplicables;
+
+XII. Dar seguimiento al debido ejercicio de los Fondos de Ayuda Federal asignados a la entidad federativa y los municipios de conformidad con los lineamientos y criterios vigentes;
+
+XIII. Coordinar, administrar y regular los trabajos de Información y elaborar diagnósticos, estadísticas y proyecciones en materia de seguridad pública;
+
+XIV. Requerir a las Instituciones de Seguridad Pública del estado y los municipios información, datos, documentos, registros o cualquier otro insumo necesario para el cumplimiento de sus funciones y los fines del Sistema;
+
+XV. Colaborar con el Instituto Nacional de Estadística y Geografía, así como celebrar convenios con ese organismo para la integración de la estadística nacional en materia de seguridad pública, de conformidad con las normas aplicables;
+
+XVI. Ejecutar los modelos de los centros de evaluación de control de confianza, así como los criterios para su certificación;
+
+XVII. Promover la homologación técnica de los proyectos de infraestructura y equipamiento de seguridad pública en concordancia con las políticas, mecanismos y acciones establecidos en la Ley; así como en los acuerdos y resoluciones del Consejo Nacional y convenios generales y específicos aprobados en la materia;
+
+XVIII. Coordinar y supervisar el funcionamiento del Registro Público Vehicular a nivel estatal, en los términos de la ley de la materia;
+
+XIX. Promover la homologación tecnológica de la infraestructura y equipamiento de seguridad pública en los tres órdenes de gobierno;
+
+XX. Aplicar las políticas, normas técnicas, lineamientos y demás normativa necesaria en materia de suministro, intercambio, sistematización y actualización de la información que, sobre seguridad pública, procuración de justicia, atención a emergencias y denuncias anónimas y reinserción social generen las Instituciones de Seguridad Pública de los tres órdenes de gobierno;
+
+XXI. Dar seguimiento a las políticas de operación de la red nacional de radiocomunicaciones para la seguridad pública;
+
+XXII. Promover la realización de estudios e investigaciones sobre Seguridad Pública;
+
+XXIII. Proponer la creación de organismos y unidades administrativas que considere necesarias para el mejor ejercicio de sus atribuciones y el debido funcionamiento del Sistema;
+
+XXIV. Nombrar y remover a las personas titulares de las unidades administrativas adscritas al Secretariado Ejecutivo;
+
+XXV. Celebrar convenios de coordinación, colaboración, concertación y demás instrumentos jurídicos necesarios para el cumplimiento de sus atribuciones;
+
+XXVI. Impulsar programas y acciones para el fortalecimiento de las instituciones de seguridad pública;
+
+XXVII. Coordinar la conformación de los consejos municipales e intermunicipales de seguridad pública y los comités estatal y municipal de consulta y participación ciudadana de la materia; así como apoyar y dar seguimiento a los acuerdos que de ellos emanen, vinculándolos al Sistema Estatal y Nacional;
+
+XXVIII. Representar al Secretariado Ejecutivo, en los actos y negocios jurídicos, ante las autoridades judiciales, administrativos y del trabajo, para formular, contestar y reconvenir demandas, presentar denuncias, querellas, ofrecer pruebas, formular y articular posiciones, promover amparos y cuidar de sus bienes, en términos de las disposiciones legales aplicables;
+
+XXIX. Delegar atribuciones y otorgar poderes de representación jurídico-legal ante las dependencias de los tres niveles de gobierno y autoridades jurisdiccionales;
+
+XXX. Revisar, analizar, recomendar y en su caso dictaminar los programas municipales de seguridad pública y la propuesta de distribución y aplicación de los recursos destinados a seguridad pública provenientes del Fondo de Aportaciones para el Fortalecimiento de los Municipios y Demarcaciones Territoriales del Distrito Federal (FORTAMUN);
+
+XXXI. Remitir a la Auditoría Superior del Estado los dictámenes a que se refiere la fracción anterior;
+
+XXXII. Proponer los criterios de evaluación de las instituciones de seguridad pública;
+
+XXXIII. Informar al Consejo Estatal, de los avances y resultados de los asuntos de su competencia;
+
+XXXIV. Ser el enlace de la entidad federativa ante el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública;
+
+XXXV. Coadyuvar con el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública en el seguimiento de las certificaciones institucionales e individuales de su entidad federativa, tanto locales como municipales, según corresponda, y
+
+XXXVI. Las demás que se establezcan en esta y otras leyes, el reglamento del Secretariado Ejecutivo y demás disposiciones aplicables."
+
+### Capítulo V. Conferencia Estatal de Seguridad Pública
 
 ###### Artículo 24.
 
@@ -569,7 +751,9 @@ XIV. Promover estrategias de coordinación en materia de combate a la corrupció
 
 XV. Proponer la aplicación de políticas y programas de cooperación en materia de seguridad pública en el orden estatal y municipal, con otras entidades federativas y dependencias competentes;
 
-XVI. Proponer al Centro Estatal de Información Policial, criterios para el funcionamiento del Sistema Estatal de Información de Seguridad Pública;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XVI. Proponer al Centro Estatal de Información e Inteligencia Policial, criterios para el funcionamiento del Sistema Estatal de Información;
 
 XVII. Promover la uniformidad de criterios jurídicos;
 
@@ -601,11 +785,11 @@ El quórum para las reuniones de la Conferencia Estatal se integrará con la mit
 
 Se reunirá cada seis meses de manera ordinaria a convocatoria de la Presidencia, quien integrará la agenda de los asuntos a tratar y podrá convocar a sesión extraordinaria cuando lo estime necesario.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 28.
 
-La Conferencia Estatal, los consejos municipales e intermunicipales, y demás instancias del Sistema Estatal, observarán lo dispuesto en las resoluciones y acuerdos generales que emitan los Consejos Nacional y Estatal.
-
-En caso de contradicción entre las resoluciones y acuerdos generales adoptados por la Conferencia Estatal, el Consejo Estatal determinará lo que deba prevalecer.
+La Conferencia Estatal, los consejos municipales, e intermunicipales, mesas de paz y demás instancias del Sistema Estatal, observarán lo dispuesto en las resoluciones y acuerdos generales que emitan los Consejos Nacional y Estatal.
 
 ###### Artículo 29.
 
@@ -713,21 +897,203 @@ Los consejos municipales e intermunicipales, comunicarán al Consejo Estatal, po
 
 Los consejos municipales, intermunicipales y las instancias regionales, podrán proponer a la Conferencia y al Consejo Estatal, acuerdos, programas específicos y convenios sobre las materias de coordinación.
 
-### Capítulo I. Autoridades estatales
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
-### Capítulo II. Autoridades municipales
+### Capítulo VI. Consejos Locales, Mesas de Paz e Instancias de Coordinación
 
-### Capítulo III. Atribuciones de las autoridades estatales y municipales en materia de seguridad pública
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+#### Sección I. Consejos Locales
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 34 Bis.
+
+En el estado se establecerán consejos locales encargados de la coordinación, planeación e implementación del Sistema Estatal en sus ámbitos de gobierno, los que se deben integrar de manera homóloga al Consejo Nacional y ser los responsables de dar seguimiento a los acuerdos, resoluciones, lineamientos y políticas emitidos por este, en sus respectivos ámbitos de competencia.
+
+Los consejos locales de seguridad pública son las instancias de definición de políticas públicas de aplicación general en el Estado, así como de la coordinación estratégica y efectiva de las instituciones de seguridad pública del estado, conforme a los fines del Sistema Estatal, los acuerdos del Consejo Estatal y Consejo Nacional y las estrategias nacionales y locales de seguridad pública.
+
+El Secretario Ejecutivo será la persona servidora pública encargada de dar seguimiento a las acciones realizadas para dar cumplimiento a los acuerdos emitidos por el consejo local, asegurando la coordinación efectiva del Sistema Estatal.
+
+En los consejos locales deben participar los municipios, de conformidad con la legislación aplicable de cada entidad federativa.
+
+Los consejos locales promoverán el diálogo intercultural y el respeto a los derechos colectivos de los pueblos y comunidades indígenas, afrodescendientes y equiparables, a través de mecanismos de consulta, participación y coordinación con sus autoridades representativas y sistemas normativos propios, en las decisiones relacionadas con la seguridad pública y la operación de las instituciones policiales en sus territorios, reconociendo su autonomía, formas de organización y modelos de seguridad comunitaria.
+
+Asimismo, invitarán a sus sesiones a personas representantes de la sociedad civil o de la comunidad, en atención a los temas a tratar, cuya participación será honorífica y, por lo tanto, sin remuneración.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 34 Bis 1.
+
+La persona titular del Poder Ejecutivo, deberá designar a sus representantes permanentes ante el Secretariado Ejecutivo, quienes serán personas servidoras públicas con un nivel jerárquico superior al de dirección general en las dependencias y entidades competentes en la entidad federativa respectiva, para la aplicación de esta Ley.
+
+Las personas designadas en términos de este artículo fungirán como Secretario Ejecutivo, y realizarán las funciones siguientes:
+
+I. Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo Estatal y Consejo Nacional;
+
+II. Informar periódicamente sus actividades al consejo local;
+
+III. Ser el enlace ante el Secretariado Ejecutivo;
+
+IV. Proporcionar al Secretariado Ejecutivo la información que le requiera y responder a sus solicitudes;
+
+V. Dar seguimiento a la ejecución de los recursos autorizados por la Federación en beneficio de las instituciones de seguridad pública del estado, y los municipios;
+
+VI. Coadyuvar con el Secretariado Ejecutivo en el seguimiento de las certificaciones institucionales e individuales del Estado, y los municipios, según corresponda, y
+
+VII. Las que determinen las leyes locales y demás normativa local aplicable.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+#### Sección II. Mesas de Paz
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 34 Bis 2.
+
+Las mesas de paz son las instancias de decisión ejecutiva y de coordinación inmediata de las instituciones del estado en materia de seguridad pública.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 34 Bis 3.
+
+A las mesas de paz deberán asistir, de manera enunciativa más no limitativa, las personas titulares de:
+
+I. El Poder Ejecutivo de la entidad federativa, quien la presidirá;
+
+II. La Secretaría de Seguridad Pública;
+
+III. La Secretaría General de Gobierno, quien fungirá como secretaría técnica;
+
+IV. La Fiscalía General del estado;
+
+V. La Policía de Investigación;
+
+VI. Las representaciones de las fuerzas armadas y la Guardia Nacional en la región y, en su caso, de la zona naval;
+
+VII. La Delegación Estatal del Centro Nacional de Inteligencia;
+
+VIII. Los Centros de Comando y Control, y
+
+IX. La delegación de los programas de bienestar del gobierno federal en la entidad federativa.
+
+El Poder Judicial del estado será invitado permanente. Asimismo, previo acuerdo de las personas integrantes de la mesa de paz, se podrá convocar a las personas titulares de los gobiernos municipales de la entidad federativa con la finalidad de establecer acciones de coordinación y evaluación de resultados, así como las personas titulares de otras instituciones.
+
+En el caso de los municipios, se podrán establecer mesas de paz regionales integradas por dos o más municipios y presididas, de manera rotativa, por las personas titulares de los ejecutivos municipales que las integren, mismas que replicarán el modelo de las mesas de paz estatales y que deberán tener representación tanto del ejecutivo estatal como de las Instituciones de Seguridad Pública de la entidad federativa y del gobierno federal. Las mesas de paz deberán sesionar de forma ordinaria todos los días hábiles y, de forma extraordinaria, las veces que convoque su presidencia.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 34 Bis 4.
+
+Las mesas de paz tendrán los objetivos siguientes:
+
+I. Conocer y analizar los datos relacionados con los delitos de alto impacto, así como las tendencias de incidencia delictiva en el estado y los municipios;
+
+II. Analizar los casos de alto impacto ocurridos en el estado y los municipios;
+
+III. Coordinar las acciones de gobierno orientadas a la atención a las causas de las violencias y la construcción de la paz;
+
+IV. Informar de las acciones operativas relevantes llevadas a cabo por las instituciones que lo conforman;
+
+V. Informar de los asuntos relevantes en materia de gobernabilidad del estado y sus municipios;
+
+VI. Diseñar e implementar acciones operativas;
+
+VII. Evaluar de forma permanente la estrategia de seguridad pública en el estado, así como los resultados y las acciones operativas implementadas;
+
+VIII. Coordinar acciones con la Fiscalía General del estado y el Poder Judicial del estado, y
+
+IX. Los demás que sean necesarios para su funcionamiento.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+#### Sección III. Modelos e Instancias de Coordinación
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 34 Bis 5.
+
+El mando único es el modelo de coordinación policial en el que se centralizan, dentro del estado, las labores de seguridad pública en una sola institución, tanto en lo operativo como en lo administrativo. El mando único se establecerá cuando el municipio no cuente con policía; cuando así lo determine el Consejo Estatal o el Consejo Nacional o cuando así lo solicite el municipio.
+
+En cualquiera de estos supuestos, la implementación del mando único deberá garantizar:
+
+I. La continuidad de la prestación del servicio de seguridad pública en el ámbito municipal;
+
+II. La transparencia y la rendición de cuentas en la gestión y aplicación de los Fondos de Ayuda Federal destinados a los municipios, y
+
+III. La formalización de instrumentos que definan las funciones operativas, administrativas y financieras, así como los mecanismos de supervisión y evaluación.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 34 Bis 6.
+
+El mando coordinado es el modelo de organización policial en el que se centralizan las labores operativas de seguridad pública en una institución, mientras que las labores administrativas relacionadas con estas continúan bajo la responsabilidad de las autoridades municipales. El mando coordinado se podrá establecer a través de convenios entre la entidad federativa y el municipio.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 34 Bis 7.
+
+Cuando para el cumplimiento de la función de seguridad pública sea necesaria la participación de dos o más municipios, se podrán establecer instancias de coordinación, con carácter temporal o permanente.
+
+En caso de que estas instancias se formalicen a través de acuerdos o convenios de colaboración, estos deberán suscribirse con arreglo a lo dispuesto en la Constitución Estatal, Constitución Federal y leyes locales correspondientes y en congruencia con la respectiva estrategia de seguridad pública de la entidad federativa, para lo que deberán coordinarse con la secretaría del ramo de seguridad pública de la entidad que se trate.
+
+Las instancias de coordinación deberán designar una persona como enlace con el Secretariado Ejecutivo a quienes deberán informar su instalación y objetivos. Las instancias de coordinación podrán solicitar el apoyo de la Federación y del estado, con las que procurarán coordinarse y cooperar para realizar acciones de prevención de las violencias y del delito, la persecución de éste, operativos, tareas de proximidad, investigación y las demás necesarias para el cumplimiento de los fines de la seguridad pública, en el ámbito de sus competencias.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+### Capítulo VI Bis. Política Estatal para la Prevención y Combate a la Extorsión
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 34 Bis 8.
+
+La Secretaría de Seguridad Pública del Estado, como Coordinadora Global del Sistema Estatal, diseñará, implementará, ejecutará y evaluará la Política Estatal para la Prevención y Combate a la Extorsión, en coordinación con las instituciones que integran el Sistema Estatal, la Fiscalía General del Estado, los municipios y las instancias federales competentes.
+
+Dicha Política deberá alinearse a la Estrategia Nacional para Prevenir y Combatir el Delito de Extorsión prevista en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, y contendrá, como mínimo:
+
+I. Acciones de prevención social, institucional y situacional de la extorsión;
+
+II. Mecanismos de coordinación interinstitucional y de intercambio de información con la Federación y los municipios;
+
+III. Esquemas de inteligencia, análisis criminal y uso de tecnologías de la información y comunicación;
+
+IV. Protocolos de atención inmediata a víctimas de extorsión, con perspectiva de género, enfoque diferenciado, derechos humanos y no revictimización, y
+
+V. Indicadores de seguimiento, evaluación y rendición de cuentas.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 34 Bis 9.
+
+La Secretaría de Seguridad Pública del Estado deberá establecer mecanismos permanentes de coordinación con el Centro Nacional de Atención a Denuncias a que se refiere la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, así como con las instancias federales que determine la Estrategia Nacional, para la recepción, canalización, atención y seguimiento de los reportes relacionados con dicho delito.
+
+Asimismo, deberá implementar los sistemas tecnológicos, plataformas informáticas y canales de comunicación necesarios que permitan la interoperabilidad con los sistemas federales en materia de extorsión, observando en todo momento la protección de datos personales, la confidencialidad de la información y las disposiciones en materia de uso de tecnologías aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 34 Bis 10.
+
+Las instituciones de seguridad pública del Estado y los municipios deberán brindar apoyo operativo, táctico y de inteligencia a las acciones de prevención y combate a la extorsión, en coordinación con la Fiscalía General del Estado y, en su caso, con las autoridades federales competentes.
+
+### Capítulo VII. Centros Estatales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 35.
 
-El Centro Estatal de Información e Inteligencia Policial, será responsable del desarrollo, integración, organización y operación del Sistema Estatal de Información de Seguridad Pública y tendrá las atribuciones siguientes:
+El Centro Estatal de Información e Inteligencia Policial, será responsable del desarrollo, integración, organización y operación del Sistema Estatal de Información y tendrá las atribuciones siguientes:
 
-I. Coordinar, administrar y resguardar las Bases de Datos del Sistema Estatal en términos de la normatividad aplicable;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
-II. Aplicar los criterios técnicos y de homologación de las Bases de Datos de las instancias integrantes del Sistema Estatal;
+I. Coordinar, administrar y resguardar las Bases de Datos del Sistema Estatal de Información, en términos de la normatividad aplicable;
 
-III. Adoptar y promover la aplicación de los protocolos de interconexión, acceso y seguridad de las Bases de Datos;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+II. Aplicar los criterios técnicos y de homologación nacional de los registros y Bases de Datos de las instancias integrantes del Sistema Nacional y Estatal;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+III. Adoptar y promover la aplicación de los protocolos de interconexión, acceso y gestión de cuentas de usuario para la plataforma tecnológica y seguridad (sic) bases de datos nacionales y estatales;
 
 IV. Organizar, dirigir y vigilar el cumplimiento de los criterios de acceso a la información;
 
@@ -737,17 +1103,21 @@ VI. Prestar apoyo y brindar asesoría a las instituciones de seguridad pública 
 
 VII. Adoptar, promover y verificar el cumplimiento de las políticas emitidas por el Consejo Estatal, para el suministro, intercambio, sistematización y actualización de la información que sobre seguridad pública generen las instituciones policiales;
 
-VIII. Coordinar, supervisar, administrar y operar el C5, C4 y C2 del Estado, así como mantener coordinación con los C2 municipales;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
-IX. Realizar el proceso de registro, valoración, ordenamiento y clasificación de la información almacenada y procesada por las áreas internas del Sistema Estatal de Información Policial, para su interpretación y análisis, que a su vez permitirán generar productos de inteligencia policial;
+VIII. Coordinar, supervisar, administrar y operar el Centro de Comando y Control del Estado, así como mantener coordinación con los Centros de Comando y Control municipales;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+IX. Coordinar, supervisar, operar y administrar los servicios de atención a emergencia 9-1-1, denuncia anónima 089;
 
 X. Llevar a cabo los procesos que permitan los estudios de hechos, productos geodelictivos, cruzamiento de información y la elaboración de posibles escenarios de hechos posibles;
 
 XI. Realizar el seguimiento de la agenda de riesgos, determinada por instancias superiores y áreas operativas para su estudio y permitir contemplar, rectificar y proyectar aspectos de la misma;
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
-XII. Establecer el destino de la información para determinar el tipo de análisis y productos que se requieran, así como el establecer el desarrollo de los mecanismos de intercambio de información, para asegurar la retroalimentación entre el Centro del Sistema Estatal de Información e Inteligencia Policial y las áreas policiales operativas, de conformidad con lo establecido en la Ley de Uso de Tecnologías;
+XII. Establecer el destino de la información para determinar el tipo de análisis y productos que se requieran, así como el establecer el desarrollo de los mecanismos de intercambio de información, para asegurar la retroalimentación entre el Centro Estatal de Información e Inteligencia Policial y las áreas policiales operativas, de conformidad con lo establecido en la Ley de Uso de Tecnologías;
 
 > <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
 
@@ -767,9 +1137,11 @@ El Centro Estatal de Información e Inteligencia Policial, implementará los mec
 
 El Centro Estatal de Información e Inteligencia Policial, deberá integrar las estadísticas a partir de los diferentes registros de las instituciones de seguridad pública, con el propósito de que la Secretaría pueda planear las estrategias y políticas y proponerlas al Sistema Estatal para la preservación del orden, la tranquilidad y la paz pública.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 38.
 
-El Centro Estatal de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana, será el responsable de proponer los lineamientos de prevención social del delito, a través del diseño transversal de políticas de prevención, cuyas acciones tendrán el carácter de permanentes y estratégicas, el cuál será administrado, coordinado y supervisado por la Secretaría.
+El Centro Estatal de Prevención Social del Delito y Participación Ciudadana, será el responsable de proponer los lineamientos de prevención social del delito, a través del diseño transversal de políticas de prevención, cuyas acciones tendrán el carácter de permanentes y estratégicas, el cuál será administrado, coordinado y supervisado por la Secretaría.
 
 ###### Artículo 39.
 
@@ -841,15 +1213,17 @@ III. El impacto de las políticas públicas en prevención del delito.
 
 Los resultados de los estudios deberán ser entregados a las instituciones de seguridad pública, así como al Centro Estatal de Prevención del Delito y Participación Ciudadana, según corresponda. Estos estudios servirán para la formulación de políticas públicas en la materia.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 44.
 
-El Centro Estatal de Información Policial será responsable de integrar y actualizar el Sistema Único de Información Criminal, con la información que generen las instituciones policiales, Ministerio Público y Fiscalía General del Estado, que coadyuve a salvaguardar la integridad y derechos de las personas, así como preservar las libertades, el orden y la paz públicos, mediante la prevención, persecución y sanción de las infracciones y delitos, así como la reinserción social de la persona privada de la libertad y del adolescente.
+El Centro Estatal de Información e inteligencia Policial será responsable de integrar y actualizar el Sistema Único de Información Criminal, con la información que generen las instituciones policiales, Ministerio Público y Fiscalía General del Estado, que coadyuve a salvaguardar la integridad y derechos de las personas, así como preservar las libertades, el orden y la paz públicos, mediante la prevención, persecución y sanción de las infracciones y delitos, así como la reinserción social de la persona privada de la libertad y del adolescente.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 45.
 
-El Centro Estatal de Información Policial, deberá proporcionar la información necesaria y conducente para el desarrollo de las actividades en materia de participación ciudadana.
-
-No se podrá proporcionar la información que ponga en riesgo la seguridad pública o personal, en apego a lo dispuesto por la ley en materia de transparencia y protección de datos personales.
+El Centro Estatal de Información e inteligencia Policial, deberá proporcionar la información necesaria y conducente para el desarrollo de las actividades en materia de participación ciudadana.
 
 ###### Artículo 46.
 
@@ -933,13 +1307,69 @@ Las instituciones de seguridad pública implementarán medidas de registro y seg
 
 El Certificado que emita el Centro Estatal de Evaluación y Control de Confianza, sólo tendrá validez si cuenta con la acreditación vigente del Centro Nacional de Certificación y Acreditación; dicho Certificado será requisito indispensable para la permanencia en la institución policial.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 52 Bis.
+
+Los Centros de Comando y Control son instalaciones de seguridad pública y atención de emergencias que integran tecnologías de videovigilancia, identificación vehicular, análisis de datos y coordinación operativa destinadas a la coordinación y supervisión operativa en tiempo real de las actividades de prevención, vigilancia y atención de emergencias. Su función principal es centralizar el monitoreo de cámaras de videovigilancia, sistemas de comunicación y alertas ciudadanas, entre otras, permitiendo la toma de decisiones inmediata para responder a situaciones de riesgo o incidencia delictiva, así como mejorar la capacidad de reacción ante emergencias y apoyar la investigación criminal, a través de la centralización de información y la colaboración interinstitucional entre Instituciones de seguridad pública, de protección civil, servicios médicos y dependencias vinculadas en la materia.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 52 Bis 1.
+
+Los Centros de Comando y Control del estado y los municipios se regirán por normas técnicas y protocolos de operación, administración y creación que para tal efecto emita el Secretariado Ejecutivo.
+
+El estado y los municipios deberán garantizar la compatibilidad de los servicios de su red pública de telecomunicaciones local, la homologación de los sistemas de gestión de incidentes, de los sistemas de videovigilancia urbana, de integración con el Sistema Estatal de Información.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 52 Bis 2.
+
+El estado y los municipios a través de sus respectivos Centros de Comando y Control, son responsables de recibir las llamadas de la población sobre emergencias y denuncia anónima, registrarlas, derivarlas a las instancias de atención competentes y darles seguimiento en la atención de los eventos.
+
+Las instituciones de seguridad pública, así como las corporaciones de bomberos, servicios médicos de emergencia, protección civil y cualquier otra instancia de atención a emergencias, del estado, están obligadas a:
+
+I. Responder de manera inmediata, oportuna y eficaz a las llamadas de emergencia que les sean turnadas por los Centros de Comando y Control;
+
+II. Coordinarse entre sí, bajo los principios de cooperación y corresponsabilidad, para garantizar la adecuada atención a las emergencias, evitando duplicidad de esfuerzos y garantizando el uso eficiente de los recursos disponibles;
+
+III. Implementar los mecanismos necesarios para garantizar la operación continua de los servicios de atención a emergencias, incluyendo la capacitación de personal, el mantenimiento de infraestructura y la actualización tecnológica;
+
+IV. Informar a los Centros de Comando y Control que hayan turnado la emergencia sobre el estado que guarda y resolución de los eventos atendidos, en los términos que determinen las disposiciones aplicables;
+
+V. Comisionar el personal adecuado en función del perfil específico a los Centros de Comando y Control para atender los eventos en el marco de sus respectivas competencias y alimentar los sistemas del centro con la información relevante de cada evento que haya sido atendido, y
+
+VI. Por su parte, las instituciones de procuración de justicia están obligadas a atender las denuncias anónimas que se reciban a través de los Centros de Comando y Control y dar aviso sobre la atención brindada.
+
+El incumplimiento de estas disposiciones será sancionado conforme a lo establecido en la normativa aplicable.
+
+El Secretariado Ejecutivo emitirá y publicará las normas técnicas y protocolos de operación relacionados a los Centros de Comando y Control sobre atención a llamadas de emergencia y de denuncia anónima, de despacho de emergencias y de procesos y de definiciones técnicas para los sistemas de videovigilancia.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 52 Bis 3.
+
+Los Centros de Comando y Control, y área de adscripción, están obligados a compartir y actualizar diariamente las bases de datos de su sistema de gestión de incidentes, sin importar el origen de apertura de cada folio, así como la información que generen en las líneas de atención de denuncia anónima, en el ámbito de su competencia, de manera desagregada, conforme a la normativa que emita el Secretariado Ejecutivo, y a permitir la interconexión de sus bases de datos con el Sistema Estatal de Información, en los términos de esta Ley y otras disposiciones jurídicas aplicables.
+
+Cada Centro de Comando y Control es responsable de la información que comparte en los registros nacionales y bases de datos del Sistema Estatal de Información. Solo el Centro de Comando y Control que la haya compartido puede decidir sobre su actualización, modificación o eliminación, con el apoyo de la Secretaría y de conformidad con los lineamientos que esta establezca.
+
+El Secretariado Ejecutivo puede clasificar, realizar análisis cualitativos y cuantitativos, procesar y realizar publicaciones de los registros de los Centros de Comando y Control para los fines que considere pertinentes en los términos de la presente Ley, en estricto respeto a la protección de datos personales de conformidad con la normativa de la materia.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 52 Bis 4.
+
+Los Centros de Comando y Control del estado y los municipios deberán ser certificados y acreditados de conformidad a los estándares y las evaluaciones que emita el Secretariado Ejecutivo, según lo dispuesto en el Capítulo IV del Título Quinto de la Ley General del Sistema Nacional de Seguridad Publica
+
+Los sistemas de monitoreo, videovigilancia y reconocimiento biométrico que utilicen los Centros de Comando y Control, así como la información y bases de datos que se generen de los mismos deberán cumplir con los procesos establecidos en los lineamientos que para tal efecto emita el Secretariado Ejecutivo, los que deberán apegarse a la normativa en materia de protección de datos personales.
+
 ###### Artículo 53.
 
 La integración, organización y funcionamiento de los Centros Estatales se establecerán en los reglamentos que al efecto se expidan y demás normatividad aplicable.
 
 ## Título Tercero. Autoridades estatales y municipales en materia de seguridad pública
 
-### Capítulo IV. Requisitos para ser titular de las instituciones de seguridad pública estatal y municipal
+### Capítulo I. Autoridades estatales
 
 ###### Artículo 54.
 
@@ -955,7 +1385,7 @@ IV. La persona titular de la Secretaría de Seguridad Pública, y
 
 V. El Fiscal General del Estado.
 
-### Capítulo I. Disposiciones comunes
+### Capítulo II. Autoridades municipales
 
 ###### Artículo 55.
 
@@ -979,7 +1409,7 @@ El municipio es la primera línea de contención para hacer frente a las conduct
 
 Los municipios podrán coordinarse y asociarse para la más eficaz prestación de la función de seguridad pública, policía preventiva municipal y tránsito. Cuando a juicio del ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que éste, de manera directa se haga cargo en forma temporal de esta función o bien se presten o ejerzan coordinadamente por el Estado y el municipio.
 
-### Capítulo II. Funciones del Cuerpo de la Policía Estatal
+### Capítulo III. Atribuciones de las autoridades estatales y municipales en materia de seguridad pública
 
 ###### Artículo 57.
 
@@ -1037,7 +1467,7 @@ XVIII. Solicitar a la Secretaría la dictaminación de los equipos y sistemas te
 
 XIX. Las demás establecidas en esta Ley y demás disposiciones jurídicas aplicables.
 
-### Capítulo III. Derechos y obligaciones del Cuerpo de la Policía Estatal
+### Capítulo IV. Requisitos para ser titular de las instituciones de seguridad pública estatal y municipal
 
 ###### Artículo 58.
 
@@ -1063,7 +1493,7 @@ IX. Las demás exigidas en otras disposiciones legales aplicables.
 
 ## Título Cuarto. Cuerpo de la Policía Estatal
 
-### Capítulo I. Generalidades
+### Capítulo I. Disposiciones comunes
 
 ###### Artículo 59.
 
@@ -1087,7 +1517,7 @@ IV. En general todas aquellas instituciones que se creen y agrupen al Cuerpo de 
 
 El Cuerpo de la Policía Estatal se organizará en coordinaciones, divisiones, unidades, agrupamientos, grupos, compañía, sección, pelotón y escuadra, atendiendo a criterios territoriales, técnicos, de especialización y supervisión que requieran los servicios.
 
-### Capítulo II. Carrera Policial
+### Capítulo II. Funciones del Cuerpo de la Policía Estatal
 
 ###### Artículo 62.
 
@@ -1165,7 +1595,7 @@ I. Desarrollar labores de búsqueda, recolección, análisis, evaluación e inte
 
 II. Instalar y operar en lugares públicos, así como en vehículos oficiales, cámaras de circuito cerrado de televisión o fijas, con propósitos de vigilancia, control y localización de personas y sus bienes.
 
-### Capítulo III. Profesionalización
+### Capítulo III. Derechos y obligaciones del Cuerpo de la Policía Estatal
 
 ###### Artículo 66.
 
@@ -1187,7 +1617,9 @@ VII. Acceder al sistema de ascensos, estímulos sociales y recompensas cuando cu
 
 VIII. Participar en los procesos de promoción, así como en los concursos para obtener condecoraciones, estímulos y reconocimientos;
 
-IX. Gozar de las prestaciones, así como recibir oportuna atención médica y el tratamiento adecuado, cuando sufran lesiones en el cumplimiento del deber, en la institución pública o privada más cercana al lugar de los hechos, contar con un seguro de vida y los servicios en materia de seguridad social, conforme a las disposiciones legales y reglamentarias aplicables;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+IX. Gozar de las prestaciones, así como recibir oportuna atención médica y el tratamiento adecuado, cuando sufran lesiones en el cumplimiento del deber, en la institución pública o privada más cercana al lugar de los hechos, contar con un seguro de vida y los servicios en materia de seguridad social, como; servicios médicos, hospitalarios, psicológicos, incapacidades, pensiones por vejez, jubilación e invalidez, vivienda, prestaciones sociales como guarderías, becas, apoyos para sus familiares, protecciones de riesgos de trabajo, licencias de paternidad, maternidad y lactancia, y demás que establezcan conforme a las disposiciones legales y reglamentarias aplicables;
 
 X. Recibir asesoría, orientación y en su caso defensa jurídica, de las instituciones a las que pertenezcan, cuando al actuar con apego a las disposiciones legales con motivo de un servicio, exista acusación, denuncia o querella en su contra;
 
@@ -1200,6 +1632,14 @@ XIII. Gozar de permisos y licencias en los términos de la normatividad aplicabl
 XIV. Sugerir las medidas que estimen pertinentes para el mejoramiento del Servicio de Carrera Policial de que formen parte, y
 
 XV. Los demás que les confieran las leyes y reglamentos de la materia.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 66 Bis.
+
+La remuneración del personal de las instituciones policiales será acorde con la calidad y riesgo de las funciones en sus rangos y puestos respectivos, así como en las misiones que cumplan, las cuales no podrán ser disminuidas durante el ejercicio de su encargo y deberán garantizar un Sistema Estatal de Retiro Digno.
+
+De igual forma, las personas titulares de las instituciones policiales tanto del estado como de los municipios, deberán establecer sistemas de seguros para los familiares de los policías, que contemplen el fallecimiento y la incapacidad total o permanente acaecida en el cumplimiento de sus funciones.
 
 ###### Artículo 67.
 
@@ -1217,33 +1657,47 @@ II. Preservar la secrecía de los asuntos que por razón del desempeño de su fu
 
 III. Prestar auxilio a las personas amenazadas por algún peligro o que hayan sido víctimas u ofendidos de algún delito, así como brindar protección a sus bienes y derechos. Su actuación será congruente, oportuna y proporcional al hecho;
 
-IV. Cumplir sus funciones con absoluta imparcialidad y sin discriminación alguna;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+IV. Conducirse con imparcialidad en el desempeño de sus funciones, y no incurrir en tratos discriminatorios que atenten contra la dignidad humana;
 
 V. Abstenerse en todo momento de infligir o tolerar actos de tortura, aun cuando se trate de una orden superior o se argumenten circunstancias especiales, tales como amenaza a la seguridad pública, urgencia de las investigaciones o cualquier otra; al conocimiento de ello, lo denunciará inmediatamente ante la autoridad competente;
 
 VI. Observar un trato respetuoso con todas las personas, debiendo abstenerse de todo acto arbitrario y de limitar indebidamente las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico realice la población;
 
-VII. Desempeñar su misión sin solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente. En particular se opondrán a cualquier acto de corrupción y, en caso de tener conocimiento de alguno, deberán denunciarlo;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
-VIII. Abstenerse de ordenar o realizar la detención de personas sin cumplir con los requisitos previstos en los ordenamientos constitucionales y legales aplicables;
+VII. Abstenerse de solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las previstas en la ley, con el fin de hacer o no hacer alguna acción que por razón de sus funciones se encuentren obligados a realizar. En particular se opondrán a cualquier acto de corrupción y, en caso de tener conocimiento de alguno, deberán denunciarlo;
 
-IX. Velar por la vida e integridad física de las personas detenidas;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+VIII. Ordenar o realizar la detención de una persona conforme a los requisitos previstos en los ordenamientos constitucionales y legales aplicables e inscribirla en el Registro Nacional de Detenciones;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+IX. Velar con oportunidad y diligencia por la vida e integridad física de las personas bajo su custodia;
 
 X. Actualizarse en el empleo de métodos de investigación que garanticen la recopilación técnica y científica de evidencias;
 
-XI. Utilizar los protocolos de investigación y de cadena de custodia adoptados por las instituciones de seguridad pública;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XI. Apegarse los protocolos de investigación y de cadena de custodia emitidos por las instituciones de seguridad pública;
 
 XII. Participar en operativos y mecanismos de coordinación con otras instituciones de seguridad pública, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
 
 XIII. Preservar, conforme a las disposiciones aplicables, las pruebas e indicios de probables hechos delictivos o de faltas administrativas de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente;
 
-XIV. Abstenerse de disponer de los bienes asegurados para beneficio propio o de terceros;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XIV. Abstenerse de disponer o apropiarse en beneficio propio o de terceros de bienes ajenos a los que tengan acceso como resultado del ejercicio de sus funciones;
 
 XV. Someterse a evaluaciones periódicas para acreditar el cumplimiento de sus requisitos de permanencia, así como obtener y mantener vigente la certificación respectiva;
 
 XVI. Informar al superior jerárquico, de manera inmediata, las omisiones, actos indebidos o constitutivos de delito, de sus subordinados, iguales o superiores en categoría jerárquica;
 
-XVII. Cumplir y hacer cumplir con diligencia las órdenes que reciba con motivo del desempeño de sus funciones, evitando todo acto u omisión que produzca deficiencia en su cumplimiento, siempre y cuando no sean contrarias a derecho;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XVII. Cumplir con diligencia las órdenes que conforme a derecho reciban con motivo del desempeño de sus funciones y evitar actos u omisiones que produzcan deficiencia en su cumplimiento; siempre que estas no resulten ambiguas, contrarias a derecho, a los derechos humanos y a la dignidad de las personas;
 
 XVIII. Fomentar la disciplina, responsabilidad, decisión, integridad, espíritu de cuerpo y profesionalismo, en sí mismo y en el personal bajo su mando;
 
@@ -1253,7 +1707,9 @@ XX. Abstenerse de sustraer, ocultar, alterar o dañar información o bienes en p
 
 XXI. Abstenerse, conforme a las disposiciones aplicables, de dar a conocer por cualquier medio a quien no tenga derecho, documentos, registros, imágenes, constancias, estadísticas, reportes o cualquier otra información reservada o confidencial de la que tenga conocimiento en ejercicio y con motivo de su empleo, cargo o comisión;
 
-XXII. Atender con diligencia la solicitud de informe, queja o auxilio de la ciudadanía, o del personal a su cargo, excepto cuando la petición rebase su competencia, en cuyo caso deberá turnarlo al área que corresponda;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XXII. Atender con la debida diligencia las solicitudes de la ciudadanía y en particular las de aquellas personas que manifiesten haber sido víctimas u ofendidas de algún delito, o que se encuentren en alguna situación de emergencia, salvo cuando la petición exceda sus capacidades o competencia;
 
 XXIII. Abstenerse de introducir a las instalaciones de sus instituciones bebidas embriagantes, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo cuando sean producto de detenciones, cateos, aseguramientos u otros similares, y que previamente exista la autorización correspondiente;
 
@@ -1283,75 +1739,319 @@ XXXV. Respetar a su personal subordinado y conducirse bajo principios de honrade
 
 XXXVI. No permitir que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas, ni hacerse acompañar de dichas personas al realizar actos del servicio;
 
-XXXVII. Utilizar los vehículos oficiales estrictamente para las funciones policiales, y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
-XXXVIII. Los demás que establezcan las disposiciones legales aplicables.
+XXXVII. Utilizar los vehículos oficiales estrictamente para las funciones policiales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XXXVIII. Cumplir con los requisitos de permanencia establecidos en esta la Ley;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XXXIX. Actuar con debida diligencia en la atención, investigación y persecución de los delitos, realizando todas las acciones necesarias, pertinentes y razonables para el esclarecimiento de los hechos y la protección de víctimas;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XL. Prestar el auxilio necesario a la ciudadanía ante situaciones de grave riesgo, catástrofes o desastres;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XLI. Coordinarse de manera eficaz con otras autoridades e instituciones para garantizar una actuación integral en el cumplimiento de sus funciones;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XLII. Emplear el equipo y material que se les asigne con el debido cuidado y prudencia en el cumplimiento de sus funciones, así como preservarlos y conservarlos y, en su caso, devolverlos en los términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XLIII. Promover, respetar, proteger y garantizar los derechos humanos en el ejercicio de sus funciones;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XLIV. Abstenerse de realizar actos de acoso u hostigamiento sexual;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XLV. Abstenerse de cometer, participar, tolerar o encubrir violaciones graves a los derechos humanos, actos de discriminación, violencia contra las mujeres, las niñas, niños y adolescentes, personas adultas mayores y otros grupos vulnerables, así como el abuso o maltrato animal;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XLVI. Preservar la confidencialidad o reserva de la información que por razón del desempeño de su función conozcan o a la que tengan acceso, en términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XLVII. Resguardar la documentación e información que por razón de sus funciones tengan bajo su responsabilidad o a la que tengan acceso, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XLVIII. Las demás que establezcan las disposiciones legales aplicables y los propios reglamentos de régimen disciplinario de las instituciones de seguridad pública.
 
 Siempre que se use la fuerza pública se hará de manera racional, congruente, oportuna y con respeto a los derechos humanos. Para tal efecto, deberá apegarse a la Ley Nacional sobre el Uso de la Fuerza; así como a las demás disposiciones normativas y administrativas aplicables, realizándolas conforme a derecho.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 68 Bis.
+
+Las instituciones policiales tendrán las funciones siguientes:
+
+I. Prevenir las violencias y los delitos en el ámbito de su competencia;
+
+II. Recibir reportes y denuncias sobre hechos que puedan ser constitutivos de delitos y faltas administrativas e informar a la autoridad competente;
+
+III. Realizar las investigaciones necesarias para el esclarecimiento de los hechos probablemente constitutivos de delitos, para lo que deberán contar con una unidad de investigación certificada conforme a los estándares establecidos por el Secretariado Ejecutivo;
+
+IV. Realizar análisis criminal y de contexto que permita generar productos, identificar patrones criminales y tendencias delictivas que sean de relevancia y utilidad para la investigación y la persecución de los delitos;
+
+V. Coadyuvar con las autoridades federales para la prevención, investigación y persecución de los delitos federales;
+
+VI. Realizar labores de primer respondiente, incluyendo la recepción de denuncias y aquellas para la preservación de la vida; la preservación del lugar de los hechos; el aseguramiento de bienes, instrumentos, objetos o productos del delito que puedan servir como evidencia en el proceso penal, y la identificación de personas víctimas, testigos y respecto de quienes existan razones que justifiquen su localización para fines de investigación, entre otras;
+
+VII. Realizar labores de seguridad y custodia penitenciaria, en el ámbito de su competencia;
+
+VIII. Garantizar, mantener y restablecer el orden y la paz públicos;
+
+IX. Coordinarse con las policías municipales y con las policías de otras entidades federativas;
+
+X. Prestar el servicio de seguridad pública cuando, con independencia de la razón que lo motive, un municipio no cuente con policía propia o, ante alguna situación, esta no pueda hacer frente a la amenaza que se presente;
+
+XI. Proximidad, prevención de las violencias y del delito, vialidad y atención de faltas administrativas en los casos en los que algún municipio justifique su necesidad o no cuente con policía propia, y
+
+XII. Las demás que establezcan las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 68 Bis 1.
+
+Las instituciones policiales contarán, de forma enunciativa más no limitativa, con las unidades administrativas siguientes:
+
+I. Operativa o de proximidad;
+
+II. Reacción y de operaciones especiales;
+
+III. Investigación;
+
+IV. Análisis criminal;
+
+V. Tránsito, en los casos en que aplique;
+
+VI. Academia;
+
+VII. Carrera policial u homóloga;
+
+VIII. Asuntos internos, y
+
+IX. Consejo de honor y justicia u homólogo.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 68 Bis 2.
+
+Las instituciones policiales de los municipios, cuando cuenten con unidades administrativas y de conformidad con la legislación local aplicable, tendrán las funciones siguientes:
+
+I. Proximidad, solución de conflictos, prevención de las violencias y del delito, vialidad y atención de faltas administrativas;
+
+II. Apoyo a las instituciones de seguridad pública de las entidades federativas en situaciones que requieran de mayor capacidad disuasiva o de respaldo y garantizar, mantener y restablecer el orden público;
+
+III. Labores de primer respondiente, incluyendo la recepción de denuncias y aquellas para la preservación de la vida; la preservación del lugar de los hechos; el aseguramiento de bienes, instrumentos, objetos o productos del delito que puedan servir como evidencia en el proceso penal, y la identificación de personas víctimas, testigos y respecto de quienes existan razones que justifiquen su localización para fines de investigación, entre otras análogas;
+
+IV. Investigación y de análisis criminal en los casos en los que cuente con una unidad de investigación certificada conforme a los estándares establecidos por el Secretariado Ejecutivo, y
+
+V. Las demás que establezcan las disposiciones jurídicas aplicables.
+
+Las policías de los municipios deberán organizarse, estructurarse y distribuirse conforme a las necesidades específicas de su territorio, en los términos que dispongan las legislaciones locales. Asimismo, deberán contar con la certificación institucional correspondiente, de acuerdo con los lineamientos y requisitos que, para tal efecto, establezca el Secretariado Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 68 Bis 3.
+
+Las instituciones policiales de los municipios podrán ser evaluadas para la obtención de la certificación institucional cuando cumplan con los requisitos siguientes:
+
+I. La corporación tenga un estado de fuerza de al menos un policía por cada mil habitantes;
+
+II. El cien por ciento de su personal se encuentre inscrito en el Registro Nacional de Personal de Seguridad Pública;
+
+III. Al menos el setenta y cinco por ciento de sus integrantes cuenten con certificación individual de conformidad a lo establecido en la presente Ley, y
+
+IV. Los demás que determine el Consejo Nacional.
+
+Las instituciones policiales de los municipios están obligadas a certificar a su personal, independientemente de si la institución cumple con los requisitos previamente señalados.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 68 Bis 4.
+
+Las unidades de policía del estado y los municipios, encargadas de la investigación de los delitos se deberán coordinar en los términos de esta Ley y demás disposiciones aplicables para el desempeño de sus funciones.
+
+Las policías de investigación y personas analistas ubicadas dentro de la estructura orgánica de las instituciones de procuración de justicia, y las que presten sus servicios en instituciones penitenciarias se sujetarán a lo dispuesto en el Título Quinto de la Ley General, quedando a cargo de dichas instituciones, en coordinación del Secretariado Ejecutivo, la aplicación de las normas, así como la supervisión y operación de los procedimientos relativos al desarrollo policial.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 68 Bis 5.
+
+Las policías que presten servicios en instituciones penitenciarias del estado tendrán las funciones siguientes:
+
+I. Realizar labores de seguridad y custodia penitenciaria, en el ámbito de su competencia;
+
+II. Prevenir las violencias y los delitos en el ámbito de su competencia;
+
+III. Hacer del conocimiento del Ministerio Público de los hechos que puedan ser constitutivos de delito;
+
+IV. Garantizar, mantener y restablecer el orden y la paz en los centros de reinserción social a los que se encuentren adscritos;
+
+V. Coordinarse con otras instituciones de seguridad pública para el ejercicio de sus funciones, y
+
+VI. Las que determinen las demás disposiciones aplicables.
+
+Las policías que presten sus servicios en instituciones penitenciarias se sujetarán a lo dispuesto en el Título Quinto, de la Ley General, quedando a cargo de dichas instituciones, en coordinación del Secretariado Ejecutivo, la aplicación de las normas, así como la supervisión y operación de los procedimientos relativos al desarrollo policial.
+
+La certificación institucional de los centros penitenciarios, así como la certificación individual de sus integrantes se regirá por lo establecido en la Ley Nacional de Ejecución Penal y por el Secretariado Ejecutivo.
+
 ## Título Quinto. Desarrollo Policial
 
-### Capítulo IV. Régimen disciplinario
+### Capítulo I. Generalidades
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 69.
 
-El Desarrollo Policial es un conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí, que comprenden la Carrera Policial, los esquemas de profesionalización, la certificación y el régimen disciplinario del personal de las instituciones policiales y tiene por objeto garantizar el desarrollo institucional, la estabilidad, la seguridad y la igualdad de oportunidades de los mismos; elevar la profesionalización, fomentar la vocación de servicio y el sentido de pertenencia, así como garantizar el cumplimiento de los principios constitucionales referidos en esta Ley.
+El desarrollo de las instituciones de seguridad pública es el conjunto de procesos dirigidos a su fortalecimiento y eficiencia de forma sostenible, con la finalidad de que prevengan, investiguen y persigan los delitos de forma efectiva y que, de esta manera, cumplan con su misión de proteger a la ciudadanía y garantizar el Estado de derecho.
+
+Para garantizar su desarrollo, las instituciones de seguridad pública deberán establecer reglas y procesos debidamente estructurados y enlazados que regulen su organización y funcionamiento. Entre ellos deberán comprenderse, al menos, el servicio profesional de carrera, los esquemas de profesionalización, así como el Régimen Disciplinario de sus integrantes. Asimismo, deberán establecer órganos colegiados en donde se tomen las decisiones ordinarias y extraordinarias respecto a la planeación, dirección, ejecución y control interno sobre las convocatorias de reclutamiento, procesos de selección, promociones de grado y demás asuntos relacionados con el desarrollo de las instituciones de seguridad pública.
+
+El Secretariado Ejecutivo establecerá las bases a las que se sujetarán estos procesos, así como los esquemas de evaluación, certificación y acreditación para garantizar el avance y desarrollo institucional.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 69 Bis.
+
+Las instituciones de seguridad pública deberán emitir la normativa específica para el establecimiento de los procesos de desarrollo, la que deberá incluir, de manera enunciativa, más no limitativa:
+
+I. Reglamento del servicio profesional de carrera, que incluya las modalidades de promoción de grado y los procedimientos para la obtención de estímulos y condecoraciones, así como las causas y procedimientos de separación del cargo por incumplimiento a los requisitos de permanencia, y
+
+II. Reglamento del régimen disciplinario, que incluya el catálogo de faltas disciplinarias, así como de correctivos y sanciones.
+
+Asimismo, las Instituciones de Seguridad Pública deberán desarrollar un expediente electrónico en donde se registren todos los datos e incidencias relacionadas con el servicio profesional de carrera de sus integrantes.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 70.
 
-Las relaciones laborales entre las instituciones policiales y su personal se regirán por la fracción XIII, del Apartado B, del artículo 123 de la Constitución Federal, la presente Ley y demás disposiciones legales aplicables.
+Las personas servidoras públicas adscritas a la Secretaría, al Secretariado Ejecutivo y a las demás instituciones de seguridad pública, incluyendo sus titulares, en el estado serán consideradas personal de seguridad pública y de confianza, por lo que deberán sujetarse a evaluaciones de control de confianza en los términos de esta Ley, las disposiciones que de ella deriven y las demás que les sean aplicables.
 
-Las servidoras o servidores públicos de las instituciones policiales que no pertenezcan a la Carrera Policial, se considerarán trabajadores de confianza. Los efectos de su nombramiento se podrán dar por terminados en cualquier momento, de conformidad con las disposiciones aplicables, así como también cuando no acrediten las evaluaciones de control de confianza.
+El personal de seguridad pública disfrutará de las medidas de protección al salario y de las prestaciones mínimas establecidas en la Ley de Trabajo de los Servidores Públicos del Estado de Guerrero; gozará de seguridad social, y sus relaciones jurídicas se regirán en términos de lo dispuesto en las fracciones XIII y XIV del Apartado B del artículo 123 de la Constitución Federal, según corresponda.
 
-### Capítulo V. Comisión de Honor y Justicia y Comisión del Servicio Profesional de Carrera Policial
+La designación del personal de seguridad pública se realizará en términos de esta Ley y demás normativa aplicable; su remoción será libre, por lo que los efectos de su nombramiento o encargo se podrán dar por terminados en cualquier momento de conformidad con las disposiciones aplicables o en caso de que no acrediten las evaluaciones de control de confianza.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+Artículo 70 Bis Los servicios que preste el personal de seguridad pública deberán realizarse en condiciones dignas y socialmente útiles, sin discriminación por motivo alguno y tutelando el acceso a las mismas oportunidades, procurando en todo momento la igualdad sustantiva.
+
+La remuneración del personal de seguridad pública deberá ser acorde con la calidad y riesgo de sus funciones, rango y puestos respectivos, así como en las comisiones que cumplan, tomando en cuenta para su determinación las bases que emita el Secretariado Ejecutivo en materia de salario digno y condiciones laborales.
+
+Queda prohibida la contratación de personal para ejercer funciones policiales bajo esquemas de subcontratación o de aquellas modalidades que restrinjan el goce de las prestaciones y regímenes de seguridad social previstos en esta Ley.
+
+Los sistemas de seguridad social del personal de seguridad pública deberán contemplar, como mínimo, servicios médicos, hospitalarios, incapacidades, pensiones por invalidez y vida, fondos para retiro, vivienda, prestaciones sociales como guarderías, becas, apoyos para sus familiares, protecciones de riesgos de trabajo, y licencias de maternidad y paternidad.
+
+De conformidad con lo dispuesto en el artículo 123, apartado B, fracción XIII, segundo párrafo, de la Constitución Federal, las autoridades del Estado y los municipios deberán establecer y fortalecer los sistemas de seguridad social, estímulos y reconocimientos, a través de sistemas complementarios que comprendan seguros para sus familias o personas beneficiarias en caso de fallecimiento o incapacidad total o permanente acaecida en el cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 70 Bis 1.
+
+La promoción es el acto mediante el que se otorga a las personas integrantes de las Instituciones de Seguridad Pública, el grado o el rango inmediato superior al que ostenten, dentro del orden jerárquico previsto en las disposiciones legales aplicables.
+
+Las promociones solo podrán conferirse atendiendo a la normativa aplicable y cuando exista una vacante para la categoría jerárquica superior inmediata correspondiente a su grado.
+
+Las Instituciones de Seguridad Pública establecerán las modalidades y reglas específicas para la promoción de grados de sus integrantes. Entre estas modalidades se deberá establecer, al menos, la de concurso por convocatoria abierta. Para el establecimiento de las reglas específicas deberán considerarse, al menos: el cumplimiento de los requisitos de permanencia, el grado de estudios, la profesionalización continua, el tiempo cumplido en el grado actual, la antigüedad en la institución, los reconocimientos y condecoraciones obtenidas y el resultado de la evaluación del desempeño.
+
+De manera enunciativa más no limitativa, los procesos de promoción deberán regirse por los principios de legalidad, transparencia, igualdad sustantiva entre hombres y mujeres, privilegiando que, del total de lugares ofertados en dichos procesos, se destine para mujeres, al menos, el porcentaje que estas representen en el estado de fuerza o la plantilla de elementos que integren la Institución de Seguridad Pública.
+
+Al personal que sea promovido, le será ratificada su nueva categoría jerárquica mediante la expedición de la constancia de grado correspondiente.
+
+Para ocupar un grado o rango dentro de las Instituciones de Seguridad Pública, se deberán reunir los requisitos establecidos por esta Ley y las disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 70 Bis 2.
+
+El régimen de condecoraciones y reconocimientos es el mecanismo por el que las Instituciones de Seguridad Pública otorgan el reconocimiento público a sus integrantes por actos de servicio meritorios o por su trayectoria ejemplar, para fomentar la calidad y efectividad en el desempeño del servicio, incrementar las posibilidades de promoción y desarrollo de sus integrantes, así como fortalecer su identidad institucional.
+
+Todo estímulo otorgado por las Instituciones de Seguridad Pública será acompañado de una constancia que acredite su otorgamiento, la que deberá ser integrada al expediente de la persona integrante y, en su caso, con la autorización de portación de la condecoración o distintivo correspondiente.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+### Capítulo II. Servicio Profesional de Carrera
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 71.
 
-La Carrera Policial es el sistema de carácter obligatorio y permanente, conforme al cual se establecen los lineamientos que definen los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción y reconocimiento; así como la separación, remoción o baja del servicio del personal de las instituciones policiales.
+El servicio profesional de carrera de las Instituciones de Seguridad Pública es el sistema integral de carácter obligatorio y permanente, conforme al que se establecen los lineamientos que definen los procedimientos de reclutamiento, selección, ingreso, registro, profesionalización, certificación individual, permanencia, promoción, reconocimiento, reingreso y terminación del servicio de las personas integrantes de las instituciones de seguridad pública en los tres órdenes de gobierno.
+
+Se basará en el respeto irrestricto de la dignidad de las personas, con un enfoque de derechos humanos y de igualdad sustantiva. Tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, el amor a la Patria, el respeto a todos los derechos, las libertades, la cultura de paz y la conciencia de la solidaridad internacional, en la independencia y en la justicia; promoverá la honestidad, los valores y la mejora continua del proceso de enseñanza aprendizaje.
+
+Para la vigilancia de su desarrollo y cumplimiento, el Secretariado Ejecutivo concentrará la información de los distintos servicios de carrera de las instituciones de seguridad pública.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 72.
 
-Los fines de la Carrera Policial son:
+Los fines del servicio profesional de carrera son:
 
-I. Garantizar el desarrollo institucional y asegurar la estabilidad en el empleo, con base en un esquema proporcional y equitativo de remuneraciones y prestaciones para las personas integrantes de las Instituciones Policiales;
+I. Garantizar el desarrollo institucional y asegurar la estabilidad en el empleo, con base en un esquema proporcional y equitativo de remuneraciones y prestaciones, así como de igualdad sustantiva para las personas integrantes de las instituciones de seguridad pública;
 
-II. Promover la proximidad social, responsabilidad, honradez, diligencia, eficiencia y eficacia en el desempeño de las funciones y en la óptima utilización de los recursos de las Instituciones Policiales;
+II. Promover la responsabilidad, honradez, diligencia, eficiencia y efectividad en el desempeño de las funciones y en la óptima utilización de los recursos de las instituciones de seguridad pública;
 
-III. Instaurar la doctrina policial civil y fomentar la vocación de servicio y el sentido de pertenencia mediante la motivación y el establecimiento de un adecuado sistema de promociones que permita satisfacer las expectativas de desarrollo profesional y reconocimiento de las personas integrantes de las Instituciones Policiales;
+III. Fomentar la vocación de servicio y el sentido de pertenencia mediante la motivación y el establecimiento de un adecuado sistema de promociones que permita satisfacer las expectativas de desarrollo profesional y reconocimiento;
 
-IV. Instrumentar e impulsar la capacitación y profesionalización permanente de las personas integrantes de las Instituciones Policiales para asegurar la lealtad institucional en la prestación de los servicios, y
+IV. Instrumentar e impulsar la capacitación y profesionalización permanente de las personas integrantes de las instituciones de seguridad pública para propiciar la lealtad institucional en la prestación de los servicios, y
 
-V. Los demás que establezcan las disposiciones que deriven de esta Ley.
+V. Los demás que establezcan la presente Ley y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 72 Bis.
+
+La antigüedad de las personas integrantes de las instituciones policiales se clasificará y computará, de la forma siguiente:
+
+I. Antigüedad en el servicio, a partir de la fecha de su ingreso a la institución respectiva, y
+
+II. Antigüedad en el grado, a partir de la fecha señalada en la constancia o patente de grado correspondiente.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 73.
 
-La Carrera Policial comprende el grado policial, la antigüedad, las insignias, condecoraciones, estímulos y reconocimientos obtenidos, el resultado de los procesos de promoción, así como el registro de las correcciones disciplinarias y sanciones que, en su caso, haya acumulado el personal. Se regirá por las disposiciones mínimas siguientes:
+El servicio profesional de carrera de las instituciones policiales comprende el grado policial, la antigüedad, las insignias, condecoraciones, los estímulos y reconocimientos obtenidos, el resultado de los procesos de promoción, así como el registro de los correctivos disciplinarios y sanciones que, en su caso, haya acumulado la persona integrante.
 
-I. Las instituciones policiales deberán consultar los antecedentes de cualquier aspirante en los Registros Nacional y Estatal antes de que se autorice su ingreso a las mismas;
+El desarrollo policial se basará en la doctrina policial civil y se regirá por las normas mínimas siguientes:
 
-II. Toda persona aspirante deberá tramitar, obtener y mantener actualizado el Certificado, que expedirá el Centro Estatal de Evaluación y Control de Confianza;
+I. Las instituciones policiales deberán consultar los antecedentes de cualquier aspirante en el registro nacional correspondiente antes de que se autorice su ingreso a estas; asimismo, deberá verificarse la autenticidad de los documentos presentados por las personas aspirantes, a través del Centro Estatal de Evaluación y Control de Confianza;
 
-III. Ninguna persona podrá ingresar a las instituciones policiales si no ha sido debidamente certificado y registrado en el Sistema Estatal;
+II. Toda persona aspirante deberá contar con la evaluación de control de confianza aprobada y vigente que expida por el Centro Estatal de Evaluación y Control de Confianza correspondiente;
 
-IV. Sólo ingresarán y permanecerán en las instituciones policiales, las personas aspirantes y el personal que cursen y aprueben los programas de formación, capacitación y profesionalización;
+III. Ninguna persona podrá ingresar o reingresar a las instituciones policiales si no ha sido debidamente evaluada, aprobada en control de confianza y registrada en el registro nacional correspondiente;
 
-V. La permanencia del personal en las instituciones policiales está condicionada al cumplimiento de los requisitos que determine la ley;
+IV. Solo ingresarán y permanecerán en las instituciones policiales, aquellas personas aspirantes e integrantes que cursen y aprueben los programas de formación, capacitación y profesionalización;
 
-VI. Los méritos del personal de las instituciones policiales serán evaluados por las instancias encargadas de determinar las promociones y verificar que se cumplan los requisitos de permanencia, señaladas en las leyes respectivas;
+V. La permanencia de las personas integrantes en las instituciones policiales está condicionada al cumplimiento de los requisitos que determine la ley;
 
-VII. Para la promoción del personal de las instituciones policiales se deberán considerar, por lo menos, los resultados obtenidos en los programas de profesionalización, los méritos demostrados en el desempeño de sus funciones y sus aptitudes de mando y liderazgo;
+VI. Los méritos de las personas integrantes de las instituciones policiales serán evaluados por las instancias encargadas de determinar las promociones y verificar que se cumplan los requisitos de permanencia, señaladas en las leyes respectivas;
 
-VIII. Se determinará un régimen de estímulos y previsión social que corresponda a las funciones del personal de las instituciones policiales;
+VII. Para la promoción de las personas integrantes de las instituciones policiales se deberán considerar, por lo menos, los resultados obtenidos en los programas de profesionalización, los méritos demostrados en el desempeño de sus funciones y sus aptitudes de mando y liderazgo;
 
-IX. El personal policial podrá ser cambiado de adscripción, con base en las necesidades del servicio;
+VIII. Se determinará un régimen de estímulos y previsión social que corresponda a las funciones de las personas integrantes de las instituciones policiales;
 
-X. El cambio del personal policial de un área operativa a otra de distinta especialidad, sólo podrá ser autorizado por la instancia que señale la ley de la materia, y
+IX. Las personas integrantes podrán ser cambiadas de adscripción, con base en las necesidades del servicio, y
 
-XI. Las instancias establecerán los procedimientos relativos a cada una de las etapas de la Carrera Policial.
+X. El Secretariado Ejecutivo establecerá los lineamientos generales relativos a cada una de las etapas del servicio profesional de carrera de las instituciones policiales, mismas que deberán implementarlos.
 
-La Carrera Policial es independiente de los nombramientos para desempeñar cargos administrativos o de dirección que el integrante llegue a desempeñar en las instituciones policiales.
+El servicio profesional de carrera de las instituciones policiales es independiente de los nombramientos para desempeñar cargos administrativos o de dirección que la persona integrante llegue a desempeñar en dichas instituciones.
 
-En ningún caso habrá inamovilidad en los cargos administrativos y de dirección.
+La antigüedad de las personas integrantes de las instituciones policiales comprenderá todos sus años de servicio, incluidos aquellos en que haya ocupado un cargo de confianza.
+
+En términos de las disposiciones aplicables, las personas titulares de las instituciones policiales podrán designar a las integrantes en cargos administrativos o de dirección de la estructura orgánica de las instituciones a su cargo; asimismo, podrán relevarlas libremente, respetando su grado policial y derechos inherentes al servicio profesional de carrera de las instituciones policiales.
 
 ###### Artículo 74.
 
@@ -1361,49 +2061,55 @@ En términos de las disposiciones aplicables, las personas titulares de las inst
 
 La organización jerárquica de las instituciones policiales tiene por objeto el ejercicio de la autoridad y mando policial en los diversos cargos o comisiones, considerando al menos las categorías siguientes:
 
-I. Comisarios;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
-II. Inspectores;
+I. Comisarias o comisarios;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+II. Inspectoras o inspectores;
 
 III. Oficiales, y
 
 IV. Escala Básica.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 76.
 
 Las categorías previstas en el artículo anterior considerarán, al menos las jerarquías siguientes:
 
-I. Comisarios:
+I. Comisarias o comisarios:
 
-a) Comisario General;
+a) General;
 
-b) Comisario Jefe, y
+b) Jefa o jefe, y
 
-c) Comisario.
+c) Comisaria o comisario;
 
-II. Inspectores:
+II. Inspectoras o inspectores:
 
-a) Inspector General;
+a) General;
 
-b) Inspector Jefe, e
+b) Jefa o jefe, y
 
-c) Inspector.
+c) Inspectora o inspector;
 
 III. Oficiales:
 
-a) Subinspector;
+a) Subinspectora o subinspector;
 
 b) Oficial, y
 
-c) Suboficial.
+c) Suboficial;
 
-IV. Escala Básica:
+IV. Escala básica:
 
-a) Policía Primero;
+a) Policía primera o primero;
 
-b) Policía Segundo;
+b) Policía segunda o segundo;
 
-c) Policía Tercero, y
+c) Policía tercera o tercero, y
 
 d) Policía.
 
@@ -1416,6 +2122,18 @@ Con base en las categorías jerárquicas señaladas en la presente Ley, los titu
 Las instituciones estatales deberán satisfacer, como mínimo, el mando correspondiente al octavo grado de organización jerárquica.
 
 Las personas titulares de las categorías jerárquicas estarán facultadas para ejercer la autoridad y mando policial en los diversos cargos o comisiones.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 77 Bis.
+
+Se considera escala de rangos policiales a la relación que contiene a todas las personas integrantes de las instituciones policiales y los ordena en forma descendente de acuerdo con su categoría, jerarquía, división, servicio, antigüedad y demás elementos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 77 Bis 1.
+
+Los niveles escalafonarios y procedimientos de ascenso dentro del servicio profesional de carrera de las Instituciones de Procuración de Justicia, se deberán establecer en sus propias leyes.
 
 ###### Artículo 78.
 
@@ -1431,29 +2149,103 @@ La remuneración del personal de las instituciones policiales será acorde con l
 
 De igual forma, las personas titulares de las instituciones policiales tanto del Estado como de los municipios, deberán establecer sistemas de seguros para los familiares de los policías, que contemplen el fallecimiento y la incapacidad total o permanente acaecida en el cumplimiento de sus funciones.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 79 Bis.
+
+El reclutamiento es el proceso a cargo de las Instituciones de Seguridad Pública, mediante el que, a través de convocatorias públicas, se busca y convoca a personas candidatas potencialmente calificadas para ocupar las plazas vacantes dentro de estas.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 79 Bis 1.
+
+El reclutamiento es el proceso a cargo de las instituciones de seguridad pública, mediante el que, a través de convocatorias públicas, se busca y convoca a personas candidatas potencialmente calificadas que cubran el perfil y los demás requisitos establecidos en esta, para ocupar una plaza, vacante o de nueva creación.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 79 Bis 2.
+
+El reclutamiento tiene por objeto:
+
+I. Atraer aspirantes susceptibles de ingresar a las instituciones de seguridad pública, de conformidad con los requisitos establecidos en la presente Ley, reglamentos y demás disposiciones aplicables;
+
+II. Establecer y cumplir los lineamientos y procedimientos que regulen el ingreso de las personas aspirantes;
+
+III. Establecer los criterios que permitan la captación de personas aspirantes idóneas de acuerdo a los perfiles de grado y cargo, y
+
+IV. Difundir las convocatorias que contengan los requisitos de ingreso a las instituciones de seguridad pública.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 79 Bis 3.
+
+En el proceso de reclutamiento, se vigilará que se lleven a cabo las etapas siguientes:
+
+I. Publicación y difusión de la convocatoria en tiempo y forma;
+
+II. Registro de solicitudes;
+
+III. Cierre del registro;
+
+IV. Evaluaciones, y
+
+V. Publicación y difusión de resultados de las evaluaciones.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 79 Bis 4.
+
+La convocatoria es un instrumento administrativo mediante el cual se publican las bases para el ingreso y promoción en la Carrera Policial.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 79 Bis 5.
+
+La convocatoria a que hace referencia el artículo anterior deberá ser publicada y difundida en los lugares más visibles, en los medios de comunicación electrónicos oficiales y en el portal oficial de las instituciones de seguridad pública, así como en los demás que determinen los órganos colegiados vigilantes de la Carrera Policial, y contendrá como mínimo los aspectos siguientes:
+
+I. Los requisitos que deberán reunir las personas aspirantes;
+
+II. La documentación que deberán presentar;
+
+III. Las modalidades y características del concurso para el ingreso o promoción;
+
+IV. Las categorías y niveles de las vacantes correspondientes;
+
+V. El lugar, día y hora en que se llevará a cabo el registro de aspirantes y la presentación de la documentación solicitada;
+
+VI. La duración de los estudios de formación y capacitación;
+
+VII. El calendario de actividades a realizar, que comprenderá la aplicación de exámenes y notificación de resultados de cada etapa del procedimiento de selección, y
+
+VIII. El documento de manifestación expresa, de conformidad para someterse a las evaluaciones de control de confianza y de más procesos a que se refieren las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 79 Bis 6.
+
+La convocatoria podrá ser pública y abierta o cerrada, dirigida a toda persona aspirante que cumpla con los requisitos, y que desee ingresar a las instituciones de seguridad pública o en su caso, participar en los procesos de promoción respectivos, cuidando que en la misma no exista discriminación por razón de sexo, género, religión, estado civil, origen étnico o condición social, o cualquier otra que viole el principio de equidad e igualdad de oportunidades.
+
 ###### Artículo 80.
 
 La selección es el proceso que consiste en elegir, de entre las personas aspirantes que hayan aprobado el reclutamiento, a quienes cubran el perfil y la formación requeridos para ingresar a las instituciones policiales.
 
-Dicho proceso comprende el periodo de los cursos de formación o capacitación y concluye con la resolución de las instancias previstas en la Ley sobre las personas aspirantes aceptadas.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+Dicho proceso comprende el periodo de los cursos de formación o capacitación y concluye con la resolución de las instancias previstas en la Ley sobre las personas aspirantes aceptadas, las que, durante el proceso y hasta en tanto no sean admitidas, no tendrán ningún tipo o vínculo jurídico o administrativo con la institución respectiva.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 81.
 
-El ingreso es el procedimiento de integración de los candidatos a la estructura institucional y tendrá verificativo al concluir la etapa de formación inicial o capacitación en las academias o institutos de capacitación policial, el periodo de prácticas correspondiente y acrediten el cumplimiento de los requisitos previstos en la presente Ley, siendo los siguientes:
+El ingreso es el procedimiento de integración de los candidatos a la estructura institucional y tendrá verificativo al concluir la etapa de formación inicial o capacitación en las academias o institutos de capacitación policial, el periodo de prácticas correspondiente y acrediten el cumplimiento de los requisitos previstos en la presente Ley, por lo que las personas aspirantes deberán cumplir con los requisitos siguientes:
 
-I. Tener ciudadanía mexicana por nacimiento en pleno ejercicio de sus derechos políticos y civiles, sin tener otra nacionalidad;
+I. Ser de ciudadanía mexicana en pleno ejercicio de sus derechos políticos y civiles;
 
-II. Ser de notoria buena conducta, no haber sido condenada o condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal;
+II. No haber sido condenada por sentencia irrevocable por delito doloso relacionado con las funciones a desempeñar;
 
-III. En su caso, tener acreditación del Servicio Militar Nacional;
+III. En su caso, tener acreditado el Servicio Militar Nacional;
 
-IV. Acreditar que ha concluido, al menos, los estudios siguientes:
-
-a) En el caso de aspirantes a las áreas de investigación, enseñanza superior o equivalente;
-
-b) Tratándose de aspirantes a las áreas de prevención, enseñanza media superior o equivalente;
-
-c) En caso de aspirantes a las áreas de reacción, los estudios correspondientes a la enseñanza media básica;
+IV. Acreditar que ha concluido la enseñanza media superior o su equivalente y, para las áreas de investigación, acreditar haber concluido la enseñanza superior o su equivalente;
 
 V. Aprobar el concurso de ingreso y los cursos de formación;
 
@@ -1461,59 +2253,59 @@ VI. Contar con los requisitos de edad y el perfil físico, médico y de personal
 
 VII. Aprobar los procesos de evaluación de control de confianza;
 
-VIII. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+VIII. Someterse a exámenes para comprobar la ausencia de abuso de sustancias que alteren el estado físico y mental, como el alcohol, sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
 
-IX. No padecer alcoholismo;
+IX. No haber participado, favorecido o encubierto, de ninguna forma, la comisión de violaciones graves a los derechos humanos, no contar con historial o antecedentes de ningún tipo como victimario de violencia contra las mujeres, niñas, niños, adolescentes o personas adultas mayores, ni haber cometido abuso o maltrato animal;
 
-X. Someterse a exámenes para comprobar la ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+X. No estar suspendida o inhabilitada como servidora pública;
 
-XI. No estar suspendida o suspendido o inhabilitada o inhabilitado, ni haber sido destituida o destituido por resolución firme como servidora o servidor público;
+XI. Cumplir con los deberes establecidos en esta Ley, y demás disposiciones que deriven de esta;
 
-XII. Cumplir con los deberes establecidos en esta Ley y demás disposiciones legales;
+XII. No tener en su contra sentencia ejecutoria que imponga la suspensión de la ciudadanía;
 
-XIII. Contar con la certificación correspondiente, y
+XIII. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos;
 
-XIV. Los demás que establezcan otras disposiciones legales aplicables.
+XIV. No estar declarada persona deudora alimentaria morosa, y
+
+XV. Los demás que establezcan otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 82.
 
-La permanencia es el resultado del cumplimiento constante de los requisitos establecidos en la presente Ley para continuar en el servicio activo de las instituciones policiales, siendo los siguientes:
+La permanencia es el resultado del cumplimiento constante de los requisitos establecidos en la presente Ley para continuar en el servicio activo, por lo que las personas integrantes del servicio policial deberán cumplir con los requisitos siguientes:
 
-I. Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso;
+I. No haber sido condenada en sentencia irrevocable por delito doloso relacionado con las funciones a desempeñar;
 
-II. Mantener actualizado el Certificado;
+II. Contar con la certificación correspondiente conforme a su puesto y funciones;
 
 III. No superar la edad máxima de retiro que establezcan las disposiciones aplicables;
 
-IV. Acreditar que ha concluido, al menos, los estudios siguientes:
+IV. Aprobar los cursos de formación, capacitación y profesionalización;
 
-a) En el caso de personal de las áreas de investigación, enseñanza superior, equivalente u homologación por desempeño, a partir de bachillerato;
+V. Aprobar los procesos de evaluación de control de confianza;
 
-b) Tratándose de personal de las áreas de prevención, enseñanza media superior o equivalente, y
+VI. Participar en los procesos de promoción o ascenso que se convoquen, conforme a las disposiciones aplicables;
 
-c) En caso de personal de las áreas de reacción, los estudios correspondientes a la enseñanza media básica;
+VII. Someterse a exámenes para comprobar la ausencia de abuso de sustancias que alteren el estado físico y mental, como el alcohol, sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
 
-V. Aprobar los cursos de formación, capacitación y profesionalización;
+VIII. No participar, cometer, favorecer o encubrir violaciones graves a los derechos humanos, no ejercer actos de violencia contra las mujeres, niñas, niños, adolescentes o personas adultas mayores, ni realizar actos de abuso o maltrato animal;
 
-VI. Aprobar los procesos de evaluación de control de confianza;
+IX. No estar suspendida o inhabilitada como servidora pública;
 
-VII. Aprobar las evaluaciones del desempeño;
+X. No faltar al servicio sin causa justificada, por un periodo de tres días consecutivos o de cinco días discontinuos dentro de un término de treinta días;
 
-VIII. Participar en los procesos de promoción o ascenso que se convoquen, conforme a las disposiciones aplicables;
+XI. No tener en su contra sentencia ejecutoria que imponga la suspensión de la ciudadanía;
 
-IX. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+XII. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos;
 
-X. No padecer alcoholismo;
+XIII. No estar declarada persona deudora alimentaria morosa, y
 
-XI. Someterse a exámenes para comprobar la ausencia de alcoholismo;
+XIV. Las demás que establezcan las disposiciones legales aplicables.
 
-XII. Someterse a exámenes para comprobar el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+El servicio profesional de carrera en las instituciones de procuración de justicia comprenderá lo relativo a las personas Ministerios Públicos y a las y los peritos. Contará con un sistema de rotación del personal; determinará los perfiles, niveles jerárquicos en la estructura y de rangos; contará con procedimientos disciplinarios, sustentados en principios de justicia y con pleno respeto a los derechos humanos; buscará el desarrollo, ascenso y dotación de estímulos con base en el mérito y la eficiencia en el desempeño de sus funciones; contendrá las normas para el registro y el reconocimiento de los certificados del personal, y contendrá las normas para el registro de las incidencias del personal.
 
-XIII. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;
-
-XIV. No ausentarse del servicio sin causa justificada por más de tres días consecutivos o 5 días alternos a su servicio en un periodo de treinta días naturales, y
-
-XV. Las demás que establezcan las disposiciones legales aplicables.
+El ingreso al servicio profesional de carrera en las instituciones de procuración de justicia se hará por convocatoria pública; los requisitos para ingreso y permanencia a personas Agentes del Ministerio Publico y Peritos se establecerán en sus propias normas.
 
 ###### Artículo 83.
 
@@ -1539,35 +2331,71 @@ II. Antigüedad en el grado, a partir de la fecha señalada en la constancia o p
 
 La antigüedad contará hasta el momento en que esta calidad deba determinarse para los efectos de la Carrera Policial.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 86.
 
-La conclusión del servicio del personal policial es la terminación de su nombramiento o la cesación de sus efectos legales por las causas siguientes:
+La terminación de la Carrera Policial se dará por las causas siguientes:
 
-I. Separación, por incumplimiento a cualquiera de los requisitos de permanencia, o cuando en los procesos de promoción concurran las siguientes circunstancias:
+I. Jubilación;
 
-a) Si hubiere sido convocado a tres procesos consecutivos de promoción sin que haya participado en los mismos, o que, habiendo participado en dichos procesos, no hubiese obtenido el grado inmediato superior que le correspondería por causas imputables a él;
+II. Renuncia, y
 
-b) Que haya alcanzado la edad máxima correspondiente a su jerarquía, de acuerdo con lo establecido en las disposiciones aplicables, y
+III. Procedimiento disciplinario, el cual comprenderá las causas ordinarias y extraordinarias de separación, así como los procedimientos y los medios de impugnación a que haya lugar.
 
-c) Que del expediente del personal policial no se desprendan méritos suficientes a juicio de las comisiones para conservar su permanencia.
+La terminación de la Carrera Policial se sujetará a lo dispuesto en las leyes y demás disposiciones aplicables.
 
-II. Remoción por:
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
-a) Incurrir en responsabilidad en el desempeño de sus funciones o incumplimiento de sus deberes, de conformidad con las disposiciones relativas al régimen disciplinario, o
+###### Artículo 86 Bis.
 
-b) Cuando habiendo sido convocado a presentar los exámenes de control y confianza, se abstenga o rehusé a practicarlos, o cuando habiéndolos realizados abstuviesen (sic) una calificación no aprobatoria.
+Los procedimientos de separación y remoción se sujetarán a las leyes y normas aplicables, que comprenderán cuando menos los siguientes aspectos:
 
-El cambio de la administración pública estatal, municipal o de los mandos, no constituirá una causa para separar o remover a las personas integrantes de las instituciones policiales.
+La terminación de la Carrera Policial será:
 
-III. Baja por:
+I. Ordinaria, que comprende:
 
 a) Renuncia;
 
-b) Muerte o incapacidad permanente; o
+b) Incapacidad permanente para el desempeño de las funciones;
 
-d) (sic) Jubilación o retiro.
+c) Muerte, y
 
-Al concluir el servicio, el personal de la institución policial deberá entregar al servidor público designado para tal efecto, toda la información, documentación, equipo, materiales, identificaciones, valores u otros recursos que hayan sido puestos bajo su responsabilidad o custodia mediante acta de entrega recepción, excepto cuando ocurra la baja por muerte.
+d) Jubilación o retiro;
+
+II. Extraordinaria, que comprende:
+
+a) Separación por el incumplimiento de los requisitos de ingreso y permanencia o por mandamiento jurisdiccional;
+
+b) Cuando habiendo sido convocado a presentar los exámenes de control y confianza, se abstenga o rehusé a practicarlos, o cuando habiéndolos realizados abstuviesen (sic) una calificación no aprobatoria, y
+
+c) Destitución por incurrir en causas de responsabilidad en el desempeño de sus funciones o incumplimiento de sus deberes, de conformidad con las disposiciones relativas al régimen disciplinario o por mandamiento judicial.
+
+El cambio de la administración pública estatal, municipal o de los mandos, no constituirá una causa para separar o remover a las personas integrantes de las instituciones policiales que se encuentren dentro de la Carrera Policial.
+
+Al concluir el servicio se deberá entregar a la persona servidora pública designada para tal efecto, toda la información, documentación, equipo, materiales, identificaciones, valores u otros recursos que hayan sido puestos bajo la responsabilidad o custodia de la persona integrante mediante acta de entrega recepción.
+
+En el caso de terminación de la Carrera Policial por incapacidad permanente o por muerte, la Institución de Seguridad Pública deberá garantizar, al menos, pensión por invalidez o vida, seguros para sus familias y personas beneficiarias, apoyo para gastos funerarios, asistencia médica y de rehabilitación, según sea el caso.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 86 Bis 1.
+
+Las personas integrantes de las Instituciones de Seguridad Pública que hayan alcanzado las edades límite para la permanencia, previstas en las disposiciones que las rijan, podrán ser reubicadas, sin discriminación, a consideración de las instancias, en otras áreas de los servicios de las propias instituciones.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 86 Bis 2.
+
+En caso de que los órganos jurisdiccionales determinen que la resolución por la que se impone la separación o remoción es injustificada, la institución respectiva solo estará obligada a la indemnización y al otorgamiento de las prestaciones a que tenga derecho la persona destituida, sin que en ningún caso proceda su reinstalación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiese promovido, de conformidad con el artículo 123, Apartado B, fracción XIII, de la Constitución Federal. Tal circunstancia será inscrita en el registro nacional correspondiente.
+
+Las legislaciones correspondientes establecerán la forma para calcular la cuantía de la indemnización que, en su caso, deba cubrirse.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 86 Bis 3.
+
+Las solicitudes de reingreso al servicio profesional de carrera se analizarán y, en su caso, se concederán siempre y cuando el motivo de la baja haya sido por renuncia. En el caso de que el personal haya renunciado, la existencia de sanciones posteriores que resulten de procedimientos iniciados durante el tiempo que prestaba sus servicios no será impedimento para registrarlas en su expediente personal. Las Instituciones de Seguridad Pública deberán establecer su propia normativa para tal efecto la que deberá considerar al menos los requisitos de ingreso establecidos en el artículo 81.
 
 ###### Artículo 87.
 
@@ -1607,13 +2435,19 @@ XV. Introducir a las instalaciones de sus instituciones bebidas embriagantes, su
 
 XVI. Consumir, dentro o fuera del servicio, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo los casos en que el consumo de los medicamentos controlados sea autorizado mediante prescripción médica, avalada por los servicios médicos de las instituciones, y
 
-XVII. Las demás que establezca el reglamento que al efecto se expida.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XVII. Las demás que establezca la presente Ley y el reglamento que al efecto se expida.
 
 ###### Artículo 88.
 
 Contra las resoluciones que impongan las sanciones previstas en la Ley, procede el recurso de reconsideración ante la autoridad que la emitió, que tendrá por objeto confirmar revocar o modificar la resolución recurrida conforme a las bases establecidas en el reglamento correspondiente.
 
 La resolución definitiva recaída al recurso de reconsideración será firme, por consecuencia no procede recurso o medio de impugnación ordinario alguno.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+La acción para impugnar la remoción prescribirá en cuatro meses, contados a partir del día siguiente a aquel en que surta efectos la notificación respectiva.
 
 ###### Artículo 89.
 
@@ -1653,17 +2487,21 @@ El Certificado a que se refiere el artículo anterior para su validez, deberá o
 
 El personal de confianza de las unidades administrativas del Sistema Estatal, del Secretariado Ejecutivo, de los Centros Estatales, incluso sus titulares, y de las dependencias y áreas que presten asesoría en materia operativa, técnica y jurídica a las personas integrantes del Consejo Estatal, se considerará personal de seguridad pública y serán de libre designación y remoción; se sujetará a las evaluaciones de certificación y control de confianza. Para tal efecto, se emitirá el acuerdo respectivo por el que se determinen dichas unidades administrativas.
 
-### Capítulo VI. Procedimiento ante la Comisión de Honor y Justicia y la Comisión del Servicio Profesional de Carrera Policial
+### Capítulo III. Profesionalización
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 94.
 
-Programa Rector de Profesionalización es el conjunto de contenidos encaminados a la profesionalización del personal policial.
+El programa rector de profesionalización es el instrumento en el que se establecen los lineamientos, programas, las actividades y los contenidos mínimos para la profesionalización de las personas que integran las instituciones de seguridad pública. Deberá de desarrollarse de forma transversal con perspectiva de género, de derechos humanos, de interés superior de la niñez, de interculturalidad e interseccionalidad. Dicho programa deberá fomentar, en todo momento, la prevención de violaciones a derechos humanos, del ejercicio de violencia contra las mujeres, los niños, niñas y adolescentes, los adultos mayores y del maltrato animal. Además, incluirá programas específicos en formación cívica y ética, responsabilidades de las personas servidoras públicas y valores inherentes a la seguridad pública, la procuración de justicia y el cuidado de la población.
 
-La profesionalización es el proceso permanente y progresivo de formación que se integra por las etapas de formación inicial y capacitación continua, actualización, promoción, especialización y alta dirección, conforme a los planes de estudios contenidos en el Programa Rector de Profesionalización.
+La profesionalización es el proceso permanente y progresivo de formación que se integra por las etapas de formación inicial, actualización, promoción, especialización y alta dirección, para desarrollar al máximo las competencias, capacidades y habilidades de las personas integrantes de las instituciones de seguridad pública.
 
-Los planes de estudio para la profesionalización se integrarán por el conjunto de contenidos estructurados en unidades didácticas de enseñanza aprendizaje que estarán comprendidos en el Programa Rector de Profesionalización, que apruebe la Conferencia Nacional de Secretarios de Seguridad Pública, a propuesta de su Presidente.
+Los planes de estudios se integrarán por el conjunto de contenidos teóricos y prácticos estructurados en unidades didácticas de enseñanza y aprendizaje, en los que se incluyan talleres de resolución de casos.
 
-La profesionalización se garantizará a través de la Universidad Policial del Estado de Guerrero (UNIPOL), responsable de aplicar el Programa Rector de Profesionalización.
+La adecuada profesionalización del personal de las Instituciones de Seguridad Pública del (sic) se garantizará a través de la Universidad Policial del Estado de Guerrero, responsable de aplicar el Programa Rector de Profesionalización y que deberá contar con instalaciones y personal docente para llevar a cabo su función.
+
+El contenido teórico y práctico de los programas de capacitación, actualización, especialización y certificación para los perfiles policiales, ministeriales, periciales y penitenciarios fomentará que las personas integrantes de las Instituciones de Seguridad Pública logren la profesionalización y ejerzan sus atribuciones con base en los principios y objetivos referidos y promoverán el efectivo aprendizaje y el pleno desarrollo de los conocimientos, las habilidades, destrezas y actitudes necesarias para el desempeño del servicio público.
 
 ###### Artículo 95.
 
@@ -1681,19 +2519,131 @@ V. Los programas de investigación académica en materia policial, y
 
 VI. Las demás que establezcan otras disposiciones legales.
 
-### Capítulo I. Disposiciones Generales
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+### Capítulo III Bis. Política Nacional de Acreditación y Certificación de las Instituciones de Seguridad Pública y sus integrantes
 
-### Capítulo II. Registro Administrativo de Detenciones
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+#### Sección I. Acreditación y Certificación de las Instituciones de Seguridad Pública y sus integrantes
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 95 Bis.
+
+El Secretariado Ejecutivo es el encargado de establecer la política estatal en materia de acreditación y certificación para las instituciones de seguridad pública y de los centros de comando y control del estado y los municipios, y la de certificación individual del personal adscrito a estas. La política estatal será aplicable a las personas servidoras públicas en instituciones policiales, ministeriales, periciales y penitenciarias.
+
+La citada política deberá incluir los tipos de acreditación y la clasificación de los grados de certificación institucional que podrán obtener las instituciones de seguridad pública, así como los estándares y las evaluaciones necesarias para su otorgamiento.
+
+La acreditación institucional habilitará a una institución de seguridad pública a realizar evaluaciones en una determinada materia y a prestar servicios de certificación de personal.
+
+La certificación institucional de una institución de seguridad pública reflejará el nivel de cumplimiento de los estándares establecidos por el Secretariado Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 95 Bis 1.
+
+Las instituciones de seguridad pública deberán cumplir con los estándares y las evaluaciones establecidas por el Secretariado Ejecutivo, así como con los procedimientos, protocolos, las metodologías y directrices que se deriven de dichos estándares en sus diversas materias, incluida la de control de confianza.
+
+El Secretariado Ejecutivo deberá realizar las evaluaciones del nivel de cumplimiento de los estándares por parte de las instituciones de seguridad pública y, derivado de ellas, otorgar el tipo de acreditación o el grado de certificación institucional que corresponda.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 95 Bis 2.
+
+La certificación individual es el proceso por el que las personas integrantes de las instituciones de seguridad pública se someten a las evaluaciones para comprobar conocimientos, habilidades, aptitudes y competencias, para el correcto desempeño de sus labores conforme a los perfiles establecidos por el Secretariado Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 95 Bis 3.
+
+El certificado individual de las personas integrantes de las instituciones de seguridad pública será indispensable para los procesos de permanencia, desarrollo, promoción, profesionalización y especialización de sus integrantes.
+
+El Secretariado Ejecutivo será responsable de emitir y publicar, tanto los perfiles requeridos, como el proceso de certificación, el que deberá basarse en instrumentos de medición cuantitativos y cualitativos, sustentados en metodologías razonables y actualizadas.
+
+Las instituciones de seguridad pública reconocerán la vigencia y validez de los certificados debidamente expedidos y registrados, conforme a las disposiciones de esta Ley y demás aplicables. En todos los casos, se deberán realizar las inscripciones en el registro nacional correspondiente.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+#### Sección II. Evaluaciones de control de confianza
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 95 Bis 4.
+
+Las evaluaciones de control de confianza tienen por objeto:
+
+I. Reconocer habilidades, destrezas y actitudes, para que las personas integrantes de las instituciones de seguridad pública realicen sus funciones conforme a los perfiles aprobados para tal efecto, e
+
+II. Identificar los factores de riesgo que interfieran, repercutan o pongan en peligro el desempeño de las funciones policiales, ministeriales, periciales y penitenciarias con el fin de garantizar la calidad de los servicios, enfocándose, cuando menos, a los siguientes aspectos de las personas integrantes de las Instituciones de Seguridad Pública:
+
+a) Observancia de un desarrollo patrimonial justificado, en el que sus egresos guarden adecuada proporción con sus ingresos;
+
+b) Ausencia de abuso de sustancias que alteren el estado físico y mental, como el alcohol, sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+
+c) Ausencia de cualquier vínculo con organizaciones delictivas y sus integrantes;
+
+d) No haber sido condenada por sentencia irrevocable por delito doloso, ni estar sujeta a proceso penal y no estar suspendida o inhabilitada, ni haber sido destituida por resolución firme como persona servidora pública;
+
+e) No favorecer, justificar o encubrir la comisión de violaciones graves a los derechos humanos, el ejercicio de violencia contra las mujeres, los niños, niñas y adolescentes, las personas adultas mayores y otros grupos vulnerables, así como el abuso o maltrato animal, y
+
+f) Los demás que se establezcan en los criterios y lineamientos que para tal efecto emita el Secretariado Ejecutivo.
+
+Solo podrán incorporarse a las instituciones de seguridad pública las personas que obtengan un resultado aprobatorio en las evaluaciones de control de confianza realizadas por los centros de control de confianza debidamente certificados o acreditados para ello.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 95 Bis 5.
+
+Los lineamientos que se emitan para las evaluaciones de control de confianza deberán contener, al menos, lo siguiente:
+
+I. Los plazos para su otorgamiento;
+
+II. La vigencia de su validez, y
+
+III. El proceso para su revalidación.
+
+La revalidación periódica de estas evaluaciones será requisito indispensable para la permanencia y deberá inscribirse en el registro estatal y nacional correspondiente.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 95 Bis 6.
+
+Las evaluaciones de control de confianza perderán validez cuando las personas servidoras públicas:
+
+I. Sean separadas de su encargo por incumplir con alguno de los requisitos de ingreso o permanencia a que se refiere esta Ley y demás disposiciones aplicables;
+
+II. Sean removidas de su encargo;
+
+III. No obtengan la revalidación de dicha evaluación;
+
+IV. Se actualice alguna de las hipótesis previstas en el artículo 86 de esta Ley, y
+
+V. Las demás causas que establezcan las disposiciones aplicables.
+
+En cualquiera de los supuestos anteriores deberá actualizarse el registro nacional correspondiente.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 95 Bis 7.
+
+Las personas integrantes de las instituciones de seguridad pública deberán someterse y aprobar los procesos de evaluación de control de confianza y del desempeño con la periodicidad y en los casos que establezca la normativa aplicable.
+
+Los resultados de los procesos de evaluación y los expedientes que se formen con los mismos serán confidenciales, salvo en aquellos casos en que deban presentarse en procedimientos administrativos o judiciales y se mantendrán en reserva en los términos de las disposiciones aplicables, salvo en los casos que señala la presente Ley.
+
+### Capítulo IV. Régimen disciplinario
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 96.
 
-La disciplina es la base del funcionamiento y organización de las Instituciones Policiales, por lo que sus elementos deberán sujetar su conducta a la observancia de este principio, a las leyes, reglamentos, órdenes de sus superiores jerárquicos, así como a la obediencia y al alto concepto del honor, la justicia y la ética.
+El régimen disciplinario es el conjunto de normas, principios y procedimientos que regulan la conducta del personal de las Instituciones de Seguridad Pública, con el propósito de garantizar el cumplimiento de sus obligaciones, la observancia de valores éticos y el respeto a los derechos humanos. Dentro del mismo se establecen las faltas disciplinarias, las sanciones, los correctivos y los mecanismos para su aplicación, asegurando el debido proceso y promoviendo la integridad, la transparencia y la confianza ciudadana en dichas instituciones.
 
-La disciplina comprende el aprecio de sí mismo, la pulcritud, los buenos modales, el rechazo a los vicios, la puntualidad en el servicio, la exactitud en la obediencia, el escrupuloso respeto a las leyes y reglamentos, así como a los derechos humanos.
+La disciplina comprende el aprecio de sí mismo, la pulcritud, la cultura cívica, el amor a la patria, el rechazo a los vicios, la puntualidad en el servicio, la exactitud en la obediencia, el pleno respeto a las leyes y reglamentos, así como a los derechos humanos, por lo que las personas integrantes de las Instituciones de Seguridad Pública deberán apegarse a su estricta observancia.
 
 La disciplina demanda respeto y consideración mutua entre quien ostente un mando y sus subordinados.
+
+Este régimen disciplinario es aplicable al personal de las instituciones de seguridad pública que son integrantes del servicio profesional de carrera conforme a lo establecido en la presente Ley.
 
 ###### Artículo 97.
 
@@ -1707,13 +2657,91 @@ En la Fiscalía General del Estado se integrarán instancias equivalentes, en la
 
 Las instituciones de Seguridad Pública establecerán unidades a las que el público tenga fácil acceso para presentar quejas y denuncias por incumplimiento de las obligaciones del personal policial, con las que se iniciará, en su caso, la carpeta de investigación administrativa.
 
-### Capítulo III. Informe Policial Homologado
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+El incumplimiento de los requisitos de permanencia no será considerado una falta disciplinaria, por lo que no dará lugar a la imposición de correctivos o sanciones previstas en el régimen disciplinario. Dicho incumplimiento deberá ser tramitado mediante el procedimiento de separación del servicio, conforme a lo establecido en esta Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 98 Bis.
+
+El régimen disciplinario de todas las instituciones de seguridad pública será el aplicable ante el incumplimiento de sus obligaciones previstas en la presente Ley o las que estén contenidas en otras normas.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 98 Bis 1.
+
+El incumplimiento de las obligaciones de las personas integrantes de las instituciones de seguridad pública, señaladas en el presente título dará lugar a la imposición de:
+
+I. Correctivos disciplinarios, o
+
+II. Sanciones.
+
+### Capítulo V. Comisión de Honor y Justicia y Comisión del Servicio Profesional de Carrera Policial
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 99.
 
-La (sic) Comisiones de Honor y Justicia y del Servicio Profesional de Carrera Policial son instancias colegiadas para conocer y resolver, en sus respectivos ámbitos de competencia, toda controversia que se suscite con relación a los procedimientos del régimen disciplinario y de la Carrera Policial, respectivamente,
+La (sic) Comisiones de Honor y Justicia y del Servicio Profesional de Carrera Policial de las instituciones de seguridad pública, son instancias colegiadas para conocer, resolver, en sus respectivos ámbitos de competencia, toda controversia que se suscite con relación a los procedimientos del régimen disciplinario y de la Carrera Policial, respectivamente, e imponer las sanciones que correspondan.
 
 Su estructura, y funcionamiento (sic) organización se establecerá en su reglamento específico.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 99 Bis.
+
+Las sanciones disciplinarias son medidas previstas por la ley para el personal integrante de las instituciones de seguridad pública que incurra en las conductas sancionadas por el régimen disciplinario o en el incumplimiento de sus obligaciones. Las sanciones aplicables serán proporcionales a la gravedad de la falta y consistirán en:
+
+I. Suspensión del ejercicio de sus funciones sin goce de sueldo hasta por treinta días, para faltas no graves;
+
+II. Acción de reparación del daño, cuando proceda, en función del perjuicio causado, o,
+
+III. Remoción, para las faltas graves que impliquen una afectación sustancial al servicio, violaciones graves a derechos humanos o pérdida de confianza institucional.
+
+En la imposición de sanciones se deberá tomar en cuenta el impacto en el servicio, grado de dolo o negligencia, y reincidencia. Asimismo, se deberán respetar los principios de legalidad, proporcionalidad, debido proceso y presunción de inocencia, y será independiente de las responsabilidades civiles, penales o administrativas que pudieran derivarse.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 99 Bis 1.
+
+Las faltas deberán clasificarse en graves y no graves, conforme a los criterios establecidos por la normativa interna de cada institución de seguridad pública, la que deberá establecer de manera expresa y específica esta clasificación y las sanciones aplicables a cada falta, en estricto apego a los principios de legalidad y proporcionalidad.
+
+Con independencia de la clasificación que se haga en la normativa aplicable, constituye falta grave el incumplimiento de las conductas a que se refieren el párrafo segundo, las fracciones XIV, XLIII, XLIV, XLV del artículo 68.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 99 Bis 2.
+
+Las conductas vinculadas a la violencia de género, el acoso y el hostigamiento sexual, en cualquiera de sus modalidades, deberán ser investigadas y sancionadas con perspectiva de género, garantizando el principio de debida diligencia, confidencialidad, no revictimización y el derecho de las víctimas a una reparación adecuada, con independencia de la responsabilidad administrativa o penal que se configure.
+
+Las instituciones deberán contar con lineamientos, procedimientos y protocolos específicos para atender estas faltas, así como medidas de protección y acompañamiento para las personas afectadas.
+
+Con independencia de la investigación o procedimiento administrativo, cuando las conductas constituyan la probable comisión de un delito, las autoridades que investiguen o substancien el procedimiento darán vista al Ministerio Público sin dilación y aplicando en todo momento la perspectiva de género.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 99 Bis 3.
+
+El procedimiento sancionador deberá constar de las siguientes etapas:
+
+I. Inicio formal del procedimiento;
+
+II. Notificación personal y emplazamiento;
+
+III. Admisión y desahogo de pruebas;
+
+IV. Audiencia única, y
+
+V. Cierre de instrucción y resolución.
+
+Las autoridades disciplinarias deberán resolver los procedimientos disciplinarios en un plazo no mayor a seis meses, contado a partir de la fecha de inicio formal del procedimiento. La inobservancia injustificada de este plazo será causa de responsabilidad administrativa.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 99 Bis 4.
+
+La autoridad encargada de sustanciar el procedimiento administrativo será distinta de aquella que investigue y de la que resuelva. Será responsable de dictar el acuerdo de inicio, así como de realizar el emplazamiento correspondiente, de la recepción, admisión o desechamiento, preparación y desahogo de pruebas, y de la conducción de la audiencia única y el cierre de instrucción. La autoridad sustanciadora del procedimiento disciplinario sancionador será distinta de aquella que tramite la separación del cargo por incumplimiento de requisitos de permanencia, la que estará a cargo de las instancias responsables del servicio profesional de carrera.
 
 ###### Artículo 100.
 
@@ -1739,25 +2767,39 @@ La Comisión del Servicio Profesional de Carrera Policial, conocerá de todas (s
 
 La Comisión de Honor y Justicia y la Comisión del Servicio Profesional de Carrera Policial, llevarán un registro de datos de las resoluciones que emitan. Dichos datos se incorporarán a la base de datos de las faltas administrativas y sanciones del Sistema Estatal de Información de Seguridad Pública.
 
-### Capítulo IV. Sistema Único de Información Criminal
+### Capítulo VI. Procedimiento ante la Comisión de Honor y Justicia y la Comisión del Servicio Profesional de Carrera Policial
 
 ###### Artículo 103.
 
 El superior jerárquico inmediato del personal policial presunto infractor enviará sin demora por escrito ante el área de asuntos internos correspondiente, las denuncias cuando en su concepto, y habida cuenta de la naturaleza de los hechos denunciados, deba generarse la instancia del (sic) Comisión de Honor y Justicia.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 104.
 
-El personal de las instituciones policiales podrá ser objeto de la imposición de correctivos disciplinarios que serán al menos:
+Los correctivos disciplinarios son medidas impuestas de manera fundada y motivada por la persona superior jerárquica que ejerza el mando directo sobre personal que cometa faltas que, por su naturaleza, no ameriten sanción administrativa. Su finalidad es preservar la disciplina, el respeto, el orden y la adecuada prestación del servicio, asegurando el cumplimiento de los deberes y obligaciones concernientes a este personal. Su aplicación debe ser legal, proporcional y necesaria, dejando registro documental del mismo, por lo que el personal de las instituciones policiales podrá ser objeto de la imposición de correctivos disciplinarios que serán al menos:
 
-I. Amonestación.
+I. Amonestación verbal o escrita;
 
-II. Cambio de Adscripción o de servicio.
+II. Cambio de adscripción o de servicio;
 
-III. Suspensión de funciones.
+III. Suspensión de funciones;
 
-IV. Descuento Salarial, y
+IV. Descuento Salarial;
 
-V. Arresto.
+V. Arresto;
+
+VI. Disculpa pública;
+
+VII. Trabajo en favor de la comunidad, o
+
+VIII. Arresto.
+
+De igual forma y con independencia del correctivo disciplinario al que haya sido acreedor, el personal con correctivo disciplinario deberá acudir y participar en cursos, pláticas o programas de capacitación y profesionalización que se estimen relacionados con la naturaleza de la falta cometida.
+
+La aplicación de los correctivos y sanciones disciplinarias deberá registrarse de manera oportuna y sistemática en el expediente personal de las personas servidoras públicas integrantes de las instituciones de seguridad pública.
+
+Dicho requisito deberá ser considerado como uno de los criterios para la toma de decisiones institucionales relacionadas con promociones, ascensos, condecoraciones, reconocimientos, estímulos y cualquier otro procedimiento de evaluación del desempeño o trayectoria profesional del personal.
 
 ###### Artículo 105.
 
@@ -1766,6 +2808,26 @@ Los correctivos disciplinarios previstos, podrán ser impuestos por el superior 
 ###### Artículo 106.
 
 La imposición de las sanciones que determinen las autoridades correspondientes se hará con independencia de las que correspondan por responsabilidad civil, penal o administrativa, en que incurra el personal de las instituciones policiales de conformidad con la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 106 Bis.
+
+El área de asuntos internos de las instituciones de seguridad pública podrá especializarse por materia, grado o territorio. Tendrá facultades de supervisión y verificación de los servicios y del cumplimiento normativo, así como para iniciar y tramitar investigaciones sobre conductas sancionables, en cuyo caso, una vez concluida la investigación, y previa garantía de audiencia, remitirá al órgano colegiado competente para el inicio del procedimiento sancionador correspondiente.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 106 Bis 1.
+
+El área de asuntos internos y el órgano colegiado de honor y justicia podrán aplicar medidas precautorias y medidas cautelares, con los siguientes propósitos:
+
+I. Evitar el ocultamiento o destrucción de pruebas;
+
+II. Impedir que continúe la conducta que dio origen a la presunta falta disciplinaria;
+
+III. Evitar obstaculizar el adecuado desarrollo del procedimiento de responsabilidad administrativa, y
+
+IV. Evitar un daño al patrimonio de la institución de seguridad pública de que se trate.
 
 ###### Artículo 107.
 
@@ -1789,41 +2851,191 @@ El procedimiento que se seguirá ante las Comisiones de Honor y Justicia y del S
 
 El Servicio de Carrera de los policías ministeriales, peritos y agentes del ministerio público de la Fiscalía General del Estado, se establecerá en su legislación correspondiente, conforme a las disposiciones que al efecto determina la Ley General.
 
-### Capítulo V. Registro Estatal de Personal de Seguridad Pública
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
-### Capítulo VI. Registro Estatal de Armamento, Municiones y Equipo
+### Capítulo VII. Prescripción
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 111 Bis.
+
+En caso de remoción, las personas integrantes de las Instituciones de Seguridad Pública recibirán el pago de haberes, salarios y prestaciones efectivamente devengadas a la fecha en que esta surta sus efectos.
+
+El derecho a reclamar los haberes, salarios y prestaciones devengadas a que se refiere el párrafo anterior prescribirá en un año, contado a partir del día siguiente a aquel en que surta efectos la notificación respectiva.
+
+La acción para impugnar la remoción prescribirá en cuatro meses, contados a partir del día siguiente a aquel en que surta efectos la notificación respectiva.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 111 Bis 1.
+
+La prescripción extingue la facultad de la autoridad competente para imponer sanciones disciplinarias y comenzará a computarse a partir del día siguiente a aquel en que se haya cometido la infracción, o desde que haya cesado su comisión si esta fuera de carácter continúo.
+
+Los plazos de prescripción serán los siguientes:
+
+I. Tres años, tratándose de conductas clasificadas como no graves conforme a la normativa aplicable, o
+
+II. Siete años, tratándose de conductas clasificadas como graves.
+
+La prescripción se interrumpirá por cualquier actuación de la autoridad encaminada a investigar, sustanciar o resolver el procedimiento disciplinario, siempre que dicha actuación sea formalmente notificada a la persona sujeta al procedimiento.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+### Capítulo VIII. Caducidad
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 111 Bis 2.
+
+El procedimiento caduca cuando, cualquiera que sea el estado del procedimiento, no se haya efectuado ningún acto procedimental ni promoción durante un término mayor de un año y será dictada por la autoridad a que se le haya caducado. El término debe contarse a partir de la fecha en que se haya realizado el último acto procedimental o en que se haya hecho la última promoción.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 111 Bis 3.
+
+La determinación que decrete la caducidad será dictada por la autoridad a quien se le caducó, a petición del presunto infractor o de oficio, luego que tenga conocimiento de los hechos que la motiven. La caducidad operará de pleno derecho, por el simple transcurso del término indicado. En caso de que se considere notificar la resolución que declare la caducidad, se hará a través de las listas fijadas en los estrados. Cuando se determine la caducidad, se procederá al archivo de las actuaciones.
 
 ## Título Sexto. Sistema Estatal de Información de Seguridad Pública
 
-### Capítulo VII. Registro Estatal de Medidas Cautelares, Soluciones Alternas y Formas de Terminación Anticipada
+### Capítulo I. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 112.
 
-Con el objeto de recopilar, suministrar, intercambiar, sistematizar, consultar, analizar, actualizar, preservar y utilizar la información que diariamente generen las instituciones de Seguridad Pública, se establece un Sistema Estatal de Información de Seguridad Pública, que será operado por el Centro Estatal de Información Policial, quien a su vez se coordinará con las instituciones de seguridad pública para suministrar la información a la Base de Datos, conforme a los lineamientos establecidos en la Ley de Uso de Tecnologías.
+Con el objeto de recopilar, suministrar, intercambiar, sistematizar, consultar, analizar, actualizar, preservar y utilizar la información que diariamente generen las instituciones de Seguridad Pública, se establece un Sistema Estatal de Información, que será operado por personal del Centro Estatal de Información e inteligencia Policial, quien a su vez se coordinará con las instituciones de seguridad pública para suministrar la información a la Base de Datos, conforme a los lineamientos establecidos en la Ley de Uso de Tecnologías.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 112 Bis.
+
+El Sistema Estatal de Información es un conjunto integrado, organizado y sistematizado de registros y bases de datos Estatales. Se compone por elementos metodológicos y procedimentales que permiten a las Instituciones de Seguridad Pública su consulta e interconexión para el desempeño de sus funciones y el ejercicio de sus atribuciones en el marco de sus facultades, a través de las acciones de suministro, integración, registro, sistematización, actualización e intercambio de información
+
+El Sistema Estatal de Información tendrá por objeto ser el sistema en el que las Instituciones de Seguridad Pública, ya sean policiales, de procuración de justicia o penitenciarias, y los Centros de Comando y Control, compartan, actualicen y consulten diariamente la información que generen para cumplir, en sus respectivos ámbitos de competencia, con la Estrategia Nacional de Seguridad Pública y los planes y programas locales en materia de seguridad pública y procuración de justicia.
+
+El Sistema Estatal de Información se vinculará con el Sistema Nacional de Inteligencia en materia de seguridad pública, previsto en el artículo 21 de la Constitución Federal. El Sistema Estatal de Información será regulado por el Secretariado Ejecutivo, quien emitirá los lineamientos generales y metodología de alimentación correspondientes a cada base de datos y registro Estatales que lo conforman.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 112 Bis 1.
+
+Las Instituciones de Seguridad Pública, ya sean policiales, de procuración de justicia o penitenciarias, tendrán acceso a la información contenida en los registros y bases de datos del Sistema Estatal de Información, para el ejercicio de sus funciones de prevención, investigación y persecución de los delitos, reinserción social de personas sentenciadas, la sanción de las infracciones administrativas, o aquellas que lleven a cabo como auxiliares en el ejercicio de dichas funciones, de acuerdo con la normativa aplicable.
+
+El acceso al Sistema Estatal de Información estará condicionado al cumplimiento de esta Ley, los acuerdos generales, convenios y las demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 112 Bis 2.
+
+La Secretaría contará con las siguientes atribuciones en relación con el Sistema Estatal de Información:
+
+I. Operar los sistemas e instrumentos tecnológicos que sustentan al Sistema Estatal de Información;
+
+II. Implementar las políticas de acceso de las Instituciones de Seguridad Pública al Sistema Estatal de Información;
+
+III. Realizar e instruir las acciones necesarias para garantizar a las Instituciones de Seguridad Pública las condiciones de acceso e interconexión al Sistema Estatal de Información;
+
+IV. Establecer lineamientos para la integración, funcionalidad, operación, reconstrucción, seguridad, preservación y el respaldo de la información que integra el Sistema Estatal de Información;
+
+V. Atender las solicitudes de actualización, modificación o eliminación de información requeridas por las Instituciones de Seguridad Pública, siempre que cumplan con los requisitos y con la normativa correspondiente;
+
+VI. Proponer al Consejo Estatal los programas en materia de desarrollo y modernización tecnológica;
+
+VII. Diseñar, implementar y evaluar los programas de capacitación para el uso y operación de los sistemas de la plataforma tecnológica, y
+
+VIII. Las demás que determinen las normativas aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 112 Bis 3.
+
+El Secretariado Ejecutivo contará con las siguientes atribuciones en relación con el Sistema Estatal de Información:
+
+I. Emitir las políticas, los lineamientos, manuales y criterios para el suministro, intercambio, la periodicidad, el nivel de desagregación, la sistematización y actualización de la información que, sobre seguridad pública, generan las Instituciones de Seguridad Pública y regulen a los registros Estatales y las bases de datos que componen el Sistema Estatal de Información;
+
+II. Utilizar la información del Sistema Estatal de Información para generar productos que apoyen la planificación de acciones orientadas a alcanzar los objetivos de la seguridad pública;
+
+III. Incorporar al Sistema Estatal de Información la información sobre impartición de justicia que se obtenga a través de los convenios con el Poder Judicial del Estado, en sus respectivos ámbitos de competencia y con estricto apego a las disposiciones legales aplicables;
+
+IV. Celebrar convenios con entes públicos o privados para la incorporación de información al Sistema Estatal de Información;
+
+V. Evaluar la calidad, oportunidad y completitud de la información contenida en los registros Estatales y las bases de datos del Sistema Estatal de Información, y
+
+VI. Las demás que determinen las normativas aplicables.
+
+La regulación de los registros estatales, incluyendo los lineamientos específicos y la metodología de integración y alimentación, estará a cargo del Secretariado Ejecutivo y deberá prever, al menos, su objeto, integración, funcionamiento, datos mínimos y periodo de actualizaciones.
+
+La información proporcionada por las instituciones de procuración de justicia para la integración de los Registros Estatales no implica una afectación a su autonomía.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 112 Bis 4.
+
+Las instituciones de procuración de justicia deberán compartir al Sistema Estatal de Información la información necesaria para integrar el Registro Estatal de Eficiencia Ministerial de conformidad con los lineamientos que al efecto emita el Secretariado Ejecutivo.
+
+Dicho Registro deberá contener, por lo menos:
+
+I. Actas de hechos, circunstanciadas o similares;
+
+II. Denuncias recibidas y su clasificación jurídica;
+
+III. Determinaciones ministeriales adoptadas, ya sea judicialización, archivo, no ejercicio de la acción penal, acumulación, incompetencia u otras similares;
+
+IV. Vinculaciones a proceso;
+
+V. Acuerdos reparatorios, criterios de oportunidad y otras formas de solución alterna aplicadas;
+
+VI. Etapa procesal, y
+
+VII. Las demás que determinen las normativas aplicables y el Consejo Estatal.
+
+El suministro de esta información se realizará bajo los principios de objetividad, protección de datos personales y uso legítimo de la información, y no afectará el ejercicio de la facultad de conducción y persecución penal de las instituciones referidas.
+
+El tratamiento de datos personales deberá apegarse al cumplimiento de las disposiciones jurídicas en la materia.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 112 Bis 5.
+
+Las bases de datos constituyen subconjuntos sistematizados de la información contenida en el Sistema Estatal de Información que comparten las Instituciones de Seguridad Pública relativa a la incidencia delictiva, las investigaciones, órdenes de detención y aprehensión, órdenes de protección para mujeres, adolescentes, niñas y niños, procesos penales, sentencias o ejecución de penas, y aquellas que determine el Consejo Estatal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 113.
 
-El Sistema Estatal de Información de Seguridad Pública, estará integrado por una Base de Datos con los registros estatales y municipales siguientes:
+El Sistema Estatal de Información, estará integrado por una Base de Datos con los registros estatales y municipales siguientes:
 
 I. Criminal;
 
-II. Personal de seguridad pública;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+II. Personal de seguridad pública y privada;
 
 III. Personal y equipo de los servicios de seguridad privada;
 
 IV. Armamento, municiones y equipo;
 
-V. Vehículos;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
-VI. Huellas dactilares;
+V. Vehículos de seguridad pública y privada;
 
-VII. Teléfonos celulares;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+VI. Biométricos de personal de seguridad pública y privada;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+VII. Decomiso de Teléfonos celulares;
 
 VIII. Medidas cautelares;
 
-IX. Soluciones alternas y formas de terminación anticipada;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
-X. Sentenciados;
+IX. Soluciones alternas y formas de terminación anticipada de personas privadas de su libertad;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+X. Sentenciados y procesados en el estado;
 
 XI. De las faltas administrativas y sanciones;
 
@@ -1845,7 +3057,9 @@ XIX. De personas desaparecidas y localizadas;
 
 XX. De víctimas;
 
-XXI. De Decomiso de Armas;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XXI. De armas de fuego decomisadas por instituciones de seguridad pública del Estado y municipal;
 
 XXII. De Licencias de Conducir;
 
@@ -1855,7 +3069,37 @@ XXIII. De Llamadas de Denuncia Anónima 089;
 
 XXIV. De Detenciones;
 
-XXVI (SIC). Los demás necesarios para la operación del Sistema Estatal.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XXV. Del sistema Estatal de Incidencia Delictiva;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XXVI. Del servicio de Protocolo Violeta;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XXVII. De Incidencia Delictiva;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XXVIII. De Mandamientos Judiciales;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XXIX. De Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XXX. De Eficiencia Ministerial;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XXXI. De Vehículos Robados y Recuperados, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XXXII. Los demás necesarios para la operación del Sistema Estatal.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
 
@@ -1867,65 +3111,49 @@ La utilización de los registros del Sistema Estatal de Información de Segurida
 
 La persona titular de la Secretaría dictará las medidas necesarias, además de las ya previstas en la Ley, para la integración y preservación de la información administrada y sistematizada mediante los instrumentos de información sobre seguridad pública.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 116.
 
-Los integrantes del Sistema Estatal y las secretarías, dependencias y entidades del Ejecutivo Estatal y de los Ayuntamientos, están obligados a compartir la información sobre seguridad pública que obre en sus Bases de Datos, con el Centro Estatal de Información e Inteligencia Policial, en los términos de las disposiciones normativas aplicables.
+Las Instituciones de Seguridad Pública, ya sean policiales, de procuración de justicia, penitenciarias o cualquier otra, estarán obligadas a compartir y actualizar diariamente la información que generen en el ámbito de su competencia, de manera desagregada, conforme a la normativa que emita el Secretariado Ejecutivo, y a permitir la alimentación de sus bases de datos con el Sistema Estatal de Información, en los términos de esta Ley y otras disposiciones jurídicas aplicables.
+
+Cada Institución de Seguridad Pública será responsable de la información que alimente al registro estatal y bases de datos del Sistema Estatal de Información. Solo la Institución de Seguridad Pública que la haya compartido podrá decidir sobre su actualización, modificación o eliminación, con el apoyo de la Secretaría y de conformidad con los lineamientos que esta establezca.
+
+Las Instituciones de Seguridad Pública deberán actualizar la información requerida en todas las bases de datos y registros de este sistema, de manera diaria, constante y permanente, con información objetiva, veraz y verificada.
+
+La información contenida en las bases de datos del Sistema Estatal de Información podrá ser certificada por la autoridad que la haya generado y tendrá el valor probatorio que las disposiciones legales determinen.
+
+Se clasificará como reservada la información contenida en las bases de datos del Sistema Estatal de Información, así como en los registros estatales y la información contenida en ellos, en materia de detenciones, información criminal, personal de seguridad pública, personal y equipo de los servicios de seguridad privada, armamento y equipo, vehículos, huellas dactilares, teléfonos celulares, medidas u órdenes de protección para las mujeres, adolescentes, niñas y niños, medidas cautelares, soluciones alternas y formas de terminación anticipada del proceso penal, personas sentenciadas y las demás necesarias para la operación del Sistema estatal de Información.
+
+No se clasificará como reservada aquella información estadística requerida por el Instituto Nacional de Estadística y Geografía para los Censos Nacionales de Gobierno, la que se apegará a las políticas de confidencialidad de este organismo autónomo.
 
 ###### Artículo 117.
 
 Las instituciones de Seguridad Pública, realizarán los trabajos para lograr la compatibilidad de los servicios de telecomunicaciones de su red local correspondiente, con las Bases de Datos, previstas en la presente Ley.
 
-### Capítulo I. Licencia Oficial Colectiva Número 110
+### Capítulo II. Registro Administrativo de Detenciones
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 118.
 
-El Registro Estatal de Detenciones forma parte del Sistema Estatal de Información, por lo que podrá ser utilizado por el Centro Estatal de Información Policial en los términos previstos por la Ley Nacional del Registro de Detenciones y la presente Ley.
+El Registro Estatal de Detenciones forma parte del Sistema Estatal de Información, por lo que podrá ser utilizado por el Centro Estatal de Información e inteligencia Policial en los términos previstos por la Ley Nacional del Registro de Detenciones y la presente Ley.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 119.
 
-El personal policial que realice detenciones, deberá dar aviso administrativo de inmediato al Centro Estatal de Información Policial a través del Registro Administrativo de Detenciones, quien a su vez informará al Centro Nacional de Información, de conformidad con lo establecido en la Ley Nacional del Registro de Detenciones.
+El personal policial que realice detenciones, deberá dar aviso administrativo de inmediato al Centro Estatal de Información e inteligencia Policial a través del Registro Administrativo de Detenciones, quien a su vez informará al Centro Nacional de Información, de conformidad con lo establecido en la Ley Nacional del Registro de Detenciones.
 
-### Capítulo Único
+### Capítulo III. Informe Policial Homologado
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 120.
 
-El personal policial deberá dar aviso administrativo de la detención, así como registrar los datos de las actividades e investigaciones que realice a través del Informe Policial Homologado, que contendrá, cuando menos, los datos siguientes:
+El personal policial que realice una detención deberá elaborar el Informe Policial Homologado, en el que se registrarán las actividades e investigaciones realizadas, debiendo describir los hechos con objetividad, exhaustividad y veracidad, para su presentación obligatoria ante el Ministerio Público.
 
-I. El área que lo emite;
-
-II. El usuario capturista;
-
-III. Los datos generales de registro;
-
-IV. Motivo, que se clasifica en: tipo de evento y subtipo de evento;
-
-V. La ubicación del evento y en su caso, los caminos;
-
-VI. La descripción de hechos, que deberá detallar modo, tiempo y lugar, entre otros datos;
-
-VII. Entrevistas realizadas, y
-
-VIII. En caso de detenciones:
-
-a) Señalar los motivos de la detención;
-
-b) Descripción de la persona;
-
-c) El nombre del detenido y apodo, en su caso;
-
-d) Descripción de estado físico aparente;
-
-e) Objetos que le fueron encontrados;
-
-f) Autoridad a la que fue puesto a disposición, y
-
-g) Lugar en el que fue puesto a disposición.
-
-El informe debe ser completo, los hechos deben describirse con continuidad, cronológicamente y resaltando lo importante; no deberá contener afirmaciones sin el soporte de datos o hechos reales, por lo que deberá evitar información de oídas, conjeturas o conclusiones ajenas a la investigación.
-
-### Capítulo I. Policía auxiliar
+### Capítulo IV. Sistema Único de Información Criminal
 
 ###### Artículo 121.
 
@@ -1945,17 +3173,21 @@ El Sistema de Información Penitenciaria es la Base de Datos que, dentro del Sis
 
 La Base de Datos deberá contar, al menos, con el reporte de la ficha de identificación de cada persona privada de su libertad con fotografía, debiendo agregarse los estudios técnicos interdisciplinarios, datos de los procesos penales y demás información necesaria para la integración del Sistema Único de Información Criminal.
 
-### Capítulo II. Policía Rural
+### Capítulo V. Registro Estatal de Personal de Seguridad Pública
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 124.
 
-El registro estatal de personal de seguridad pública, integra la información actualizada relativa al Personal de Seguridad Pública, y contendrá por lo menos:
+El Registro Estatal de Personal de Seguridad Pública y privada integrará información actualizada del personal de seguridad pública estatales, municipales, del Instituto de la Policía Estatal del Estado y de Seguridad Privada.
 
-I. Los datos que permitan identificar plenamente y localizar al servidor público, sus huellas digitales, fotografía, escolaridad y antecedentes en el servicio, así como su trayectoria en la seguridad pública;
+Este registro contendrá los datos que sean necesarios para identificar y localizar plenamente al servidor público, tales como biometrías (huellas digitales, toma del iris ocular y fotografías), datos de identificación, contacto, escolaridad, antecedentes y trayectoria en el servicio, conforme a la normativa aplicable.
 
-II. Los estímulos, reconocimientos y sanciones a que se haya hecho acreedor el servidor público, y
+Se realizarán actualizaciones en el registro cada vez que haya cambios de adscripción, modificaciones en los datos de información o bajas del personal.
 
-III. Cualquier cambio de adscripción, actividad o rango del servidor público, así como las razones que lo motivaron.
+Solo se registrará al personal que se encuentre inscrito en las bases de datos nacionales y cuente con su CUIP (Clave Única de Identificación Policial), que además haya sido evaluado y aprobado en los procesos de evaluación de control y confianza correspondientes.
+
+Al momento de realizar el registro, se asignará al personal un Folio Estatal de Personal de Seguridad Pública (FEPSP) que servirá para su identificación y seguimiento dentro del sistema.
 
 ###### Artículo 125.
 
@@ -1967,7 +3199,7 @@ Las autoridades competentes del Estado y los municipios inscribirán y mantendr�
 
 La infracción a esta disposición se sancionará en términos de la Ley aplicable.
 
-### Capítulo III. Sistema de Seguridad Comunitario Indígena y Afromexicano
+### Capítulo VI. Registro Estatal de Armamento, Municiones y Equipo
 
 ###### Artículo 127.
 
@@ -1993,7 +3225,7 @@ En el caso de que el personal de las instituciones de Seguridad Pública asegure
 
 El incumplimiento de las disposiciones de este capítulo dará lugar a que la portación o posesión de armas se considere ilegal y sea sancionada en los términos de las normas aplicables.
 
-### Capítulo Único. Disposiciones Generales
+### Capítulo VII. Registro Estatal de Medidas Cautelares, Soluciones Alternas y Formas de Terminación Anticipada
 
 ###### Artículo 132.
 
@@ -2007,9 +3239,93 @@ III. La suspensión condicional, el proceso aprobado por el juez de control, esp
 
 IV. La sustanciación de un procedimiento abreviado, especificando los nombres de las partes, el tipo de delito y la sanción impuesta.
 
-### Capítulo Único. Servicios de Seguridad Privada
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+### Capítulo VIII. Registro de Armas de Fuego Decomisadas por Instituciones de Seguridad Pública del Estado y Municipal
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 132 Bis.
+
+Las instituciones de seguridad pública, estatal o municipal, que realicen el aseguramiento o decomiso de un arma de fuego, tienen la obligación ineludible e inmediata de registrar la siguiente información:
+
+I. Fecha, hora y lugar exactos del decomiso.
+
+II. Autoridad interviniente
+
+III. Identificación completa del arma:
+
+IV. Tipo (pistola, fusil, escopeta, etc.).
+
+V. Marca y Modelo.
+
+VI. Calibre.
+
+VII. Matrícula o Número de Serie visible.
+
+VIII. Características especiales (modificaciones, aditamentos, estado).
+
+IX. Cantidad de municiones y tipo
+
+X. Circunstancias del decomiso (delito, flagrancia, cateo, etc.).
+
+XI. Identificación de la persona detenida o relacionada.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 132 Bis 1.
+
+El Registro de Armas de Fuego Decomisadas por las Instituciones de Seguridad Pública Estatales y Municipales deberá contar con los mecanismos tecnológicos necesarios para garantizar la interoperabilidad y el intercambio de información con la Secretaría de Seguridad Pública del Estado y la Fiscalía General del Estado.
+
+Las Instituciones de Seguridad Pública Estatales y Municipales deberán notificar a la Fiscalía General del Estado de cada decomiso de armas de fuego que realicen, en un plazo no mayor a veinticuatro horas contadas a partir de que éste ocurra.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 132 Bis 2.
+
+El incumplimiento, la omisión o el registro de información falsa o incompleta en el Registro de Armas de Fuego Decomisadas por Instituciones de Seguridad Pública del Estado y Municipal por parte del personal de las instituciones de seguridad pública estatal o municipal será considerado una falta administrativa grave que dará lugar a las sanciones previstas en la Ley General de Responsabilidades Administrativas, sin perjuicio de las responsabilidades penales que pudieran derivarse.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+### Capítulo IX. Registro de Licencias de Conducir
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 132 Bis 3.
+
+El Estado, a través del Centro Estatal de Información e Inteligencia Policial, en coordinación con la Secretaría de Finanzas y Administración, por conducto de la Subsecretaría de Ingresos, y con las autoridades competentes en materia de tránsito del ámbito estatal y municipal, mantendrá permanentemente actualizado el Registro de Licencias de Conducir expedidas mediante formatos oficiales homologados, mismos que forman parte del sistema de formas valoradas bajo control estatal, debidamente foliadas y validadas conforme a la Ley de Transportes del Estado de Guerrero y demás disposiciones aplicables, y que incluirá por lo menos lo siguiente:
+
+I. Emisor de la licencia de conducir;
+
+II. Datos generales de la licencia de conducir (tipo, vigencia, folio);
+
+III. Datos del conductor;
+
+IV. Imágenes (Fotografía y huella dactilar del conductor);
+
+V. Municipio;
+
+VI. Localidad;
+
+VII. Fecha de expedición y fecha de vencimiento;
+
+VIII. Tipo de sangre;
+
+IX. Clave Única de Registro de Población;
+
+X. Contacto de emergencia;
+
+XI. Domicilio;
+
+XII. Código Postal del domicilio;
+
+XIII. Número telefónico del solicitante, y
+
+XIV. Firma del interesado.
 
 ## Título Séptimo. Licencia Oficial Colectiva Número 110
+
+### Capítulo I. Licencia Oficial Colectiva Número 110
 
 ###### Artículo 133.
 
@@ -2041,33 +3357,49 @@ El Reglamento que al efecto se expida establecerá la instancia, mecanismos y pr
 
 ## Título Octavo. Instalaciones Estratégicas
 
+### Capítulo Único
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 138.
 
-Para efectos de esta Ley, se consideran instalaciones estratégicas, a los espacios, inmuebles, construcciones, muebles, equipo y demás bienes, destinados al funcionamiento, mantenimiento y operación de las actividades consideradas como estratégicas por la Constitución Federal, la Constitución Estatal, así como de aquellas acciones que tiendan a mantener la integridad, estabilidad, viabilidad, permanencia y desarrollo de la sociedad y del Gobierno del Estado en términos de la Ley General.
+Para efectos de esta Ley, se consideran instalaciones estratégicas, a los espacios, inmuebles, construcciones, muebles, equipo y demás bienes, destinados al funcionamiento, mantenimiento y operación de las actividades consideradas como estratégicas por la Constitución Federal, así como de aquellas que tiendan a mantener la integridad, estabilidad y permanencia del Estado mexicano, en términos de la Ley de Seguridad Nacional.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 139.
 
-Las autoridades competentes coadyuvarán en la protección y desarrollo de las acciones necesarias para la vigilancia de las instalaciones estratégicas estatales y federales para garantizar su integridad y operación.
+El estado y los municipios coadyuvarán en la protección y desarrollo de las acciones necesarias para la vigilancia de las instalaciones estratégicas y para garantizar su integridad y operación.
 
 ###### Artículo 140.
 
 El resguardo de las instalaciones estratégicas estatales queda a cargo del Estado, por conducto de la Secretaría, que se coordinará con las Instituciones de Seguridad Pública correspondientes por razón del territorio en el ejercicio de esta función, las cuales garantizarán la seguridad perimetral y el apoyo operativo en caso necesario.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 141.
 
-El Consejo Estatal establecerá, para los fines de seguridad pública, los casos, condiciones y requisitos necesarios para el bloqueo de las señales de telefonía celular en las instalaciones de carácter estratégico y en los centros penitenciarios del Estado o cualquiera que sea su denominación. Las decisiones que en ese sentido emita el Consejo Estatal, deberán ser ejecutadas por las distintas Instituciones de seguridad pública que lo integran.
+El Consejo Estatal establecerá, para los fines de seguridad pública, los casos, condiciones y requisitos necesarios para el bloqueo de las señales de telefonía celular en las instalaciones de carácter estratégico y en los centros penitenciarios federales y de las entidades federativas, cualquiera que sea su denominación.
+
+Los equipos destinados a tal fin serán operados por autoridades distintas a las de los establecimientos penitenciarios en centros remotos, contarán con sistemas automáticos que envíen señales de alarma ante cualquier interrupción en su funcionalidad y serán monitoreados con la colaboración de los concesionarios de redes públicas de telecomunicaciones.
+
+El bloqueo de señales a que se refiere este artículo se hará sobre todas las bandas de frecuencia que se utilicen para la recepción en los equipos terminales de comunicación móvil y en ningún caso excederá de veinte metros fuera de las instalaciones de los centros o establecimientos a fin de garantizar la continuidad y seguridad de los servicios a los usuarios externos.
 
 ## Título Noveno. Servicios auxiliares de la seguridad pública
+
+### Capítulo I. Policía auxiliar
 
 ###### Artículo 142.
 
 La función de seguridad pública no podrá ser objeto de concesión a particulares. El Estado y los municipios en el ámbito de su competencia, podrán prestar el servicio de seguridad a personas o instituciones, previo el pago de los derechos correspondientes, y con base en las modalidades y características que se deriven de la Ley.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 143.
 
-El Estado y los municipios, cada uno en el ámbito de su competencia, podrán contar con instituciones, unidades o agrupamientos de policía auxiliar descentralizados, con personalidad jurídica y patrimonio propios, para la prestación de servicios de seguridad, custodia, traslado de valores, protección y vigilancia de personas, así como aquellas que produzcan bienes y servicios que contribuyan a la generación de riqueza para el Estado.
+Las instituciones policiales podrán contar con cuerpos de policía de carácter complementario o auxiliar de la función de seguridad pública y tendrán por objeto prestar servicios especializados de custodia, vigilancia, traslado, guardia y seguridad de personas, bienes, valores e inmuebles, a dependencias, entidades y órganos públicos de los tres órdenes de gobierno; a instituciones privadas y a todas aquellas personas físicas y morales que requieran de sus servicios.
 
-El Estado regulará y controlará el servicio de seguridad armado que, en su caso, presten los municipios; así como impulsar la homologación del equipamiento y procedimientos derivados de la prestación del servicio.
+Sus integrantes podrán realizar acciones de policía de proximidad, tales como atención a víctimas u ofendidos, protección y auxilio inmediato, y recepción de denuncias sobre hechos que puedan ser constitutivos de delito e informar de ello a la persona Ministerio Público por cualquier medio. De igual forma, coadyuvarán con las autoridades y las Instituciones de Seguridad Pública en situaciones de urgencia, desastre o, cuando así lo soliciten, con las autoridades competentes de la Federación o las entidades federativas. La realización de estas tareas estará sujeta a la certificación individual de las personas integrantes de estos cuerpos policiales.
 
 ###### Artículo 144.
 
@@ -2081,6 +3413,8 @@ Los ingresos que perciban el Estado y los municipios por los derechos a que se r
 
 Las Secretarías de Seguridad Pública del Estado, de Finanzas y Administración, de Contraloría y Transparencia Gubernamental del Estado, en el ámbito de sus respectivas competencias, establecerán sistemas y mecanismos administrativos, presupuestarios y de control, para que los ingresos se destinen con transparencia a los fines establecidos en el artículo anterior. Esta misma disposición observarán los municipios de acuerdo con sus órganos de administración y control interno de los recursos.
 
+### Capítulo II. Policía Rural
+
 ###### Artículo 147.
 
 La policía rural como auxiliar de la seguridad pública estatal, tendrá por objeto mantener la seguridad y el orden público en las comunidades de los municipios en que funcione y opere.
@@ -2089,11 +3423,15 @@ Las acciones y el actuar de la policía rural y sus integrantes serán con estri
 
 La policía rural quedará integrada por los agrupamientos que incorporen a miembros de su propia comunidad, con sentido de pertenencia e identidad de zona o región, para la prestación del servicio de seguridad pública, el cual formará parte de la Policía Estatal; su organización, dirección, funcionamiento y actuación se regirá conforme a esta Ley y demás disposiciones aplicables en la materia.
 
+### Capítulo III. Sistema de Seguridad Comunitario Indígena y Afromexicano
+
 ###### Artículo 148.
 
 El Sistema de Seguridad Comunitario Indígena y Afromexicano así como su Policía, cooperarán en materia de seguridad pública con el Sistema Estatal en términos de lo establecido en la Constitución Política del Estado Libre y Soberano de Guerrero, la Ley de Reconocimiento, Derechos y Cultura de los Pueblos y Comunidades Indígenas y Afromexicanas del Estado de Guerrero y el Código Nacional de Procedimientos Penales.
 
 ## Título Décimo. Recursos financieros para la Seguridad Pública
+
+### Capítulo Único. Disposiciones Generales
 
 ###### Artículo 149.
 
@@ -2107,25 +3445,37 @@ Los recursos que se programen, presupuesten y aporten a las autoridades del Esta
 
 ## Título Décimo Primero. Seguridad Privada
 
+### Capítulo Único. Servicios de Seguridad Privada
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 151.
 
-Además de cumplir con las disposiciones de la Ley Federal de Armas de Fuego y Explosivos, los particulares que presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, de bienes o valores, incluido su traslado y monitoreo electrónico; deberán obtener autorización previa de la Secretaría, cuando los servicios se presten sólo en el territorio del Estado.
+Además de cumplir con las disposiciones de la Ley Federal de Armas de Fuego y Explosivos, las personas físicas o morales que presten servicios de seguridad privada bajo las modalidades y submodalidades previstas en la normativa que regula la materia, deberán obtener la autorización correspondiente, acorde a lo siguiente:
 
-Los particulares autorizados por la Federación deberán sujetarse a las disposiciones de esta Ley y demás aplicables en la materia de conformidad con lo dispuesto en el párrafo noveno, del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
+I. En caso de que los servicios de seguridad privada se presten solo en el Estado, se deberá obtener la autorización de la Secretaría, o
+
+II. Para el caso de que los servicios de seguridad privada se presten en dos o más entidades federativas, se deberá obtener tanto la autorización del Estado, como de la Secretaría Federal.
+
+Para la obtención de las autorizaciones, ya sean de carácter local o federal, no se podrán exigir más requisitos que aquellos previstos en la normativa que regule la materia.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 152.
 
-Los servicios de seguridad privada son auxiliares a la función de Seguridad Pública. Sus integrantes coadyuvarán con las autoridades y las Instituciones de Seguridad Pública en situaciones de urgencia, desastre o cuando así lo solicite la autoridad competente de la Federación, el Estado, entidades federativas y los Municipios, de acuerdo a los requisitos y condiciones que establezca la norma respectiva.
+Los servicios de seguridad privada son auxiliares a la función de seguridad pública. Las prestadoras de servicios de seguridad privada coadyuvarán con las autoridades y las Instituciones de Seguridad Pública en situaciones de urgencia, desastre o cuando así lo solicite la autoridad competente de los tres órdenes de gobierno, de acuerdo con sus capacidades y dentro del marco de su autorización.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 153.
 
-Los particulares que se dediquen a estos servicios, así como el personal que utilicen, se regirán en lo conducente, por las normas que esta ley y las demás aplicables establecen para las Instituciones de Seguridad Pública; incluyendo los principios de actuación y desempeño y la obligación de aportar los datos para el registro de su personal y equipo y, en general, proporcionar la información estadística y sobre la delincuencia (sic) Centro Estatal de Información e Inteligencia Policial.
+Las personas físicas y morales que presten servicios de seguridad privada; se regirán, en lo conducente, por la presente Ley y la normativa que regule la materia, incluyendo los principios de actuación y desempeño y la obligación de compartir con el Centro Estatal de Información, los datos para el registro de su personal y equipo, así como la información estadística que corresponda.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 154.
 
-El personal de las empresas de seguridad privada deberá someterse a procedimientos de evaluación y control de confianza conforme a la normatividad aplicable.
+La normativa en la materia establecerá la forma en la que las prestadoras de servicios de seguridad privada acreditarán las evaluaciones y, de ser el caso, los controles de confianza aplicados a su personal operativo.
 
 ###### Artículo 155.
 
@@ -2242,3 +3592,39 @@ CUARTO. Las instituciones de seguridad pública realizarán las adecuaciones pre
 QUINTO. La Secretaría de Seguridad Pública y la Comisión Estatal de Búsqueda de Personas deberán presentar informes permanentes a la persona titular del Poder Ejecutivo sobre los resultados y la efectividad de los operativos de búsqueda inmediata de niñas y mujeres desaparecidas, incluyendo estadísticas y casos atendidos, así como propuestas de mejora continua para optimizar dichos operativos.
 
 SEXTO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, para su conocimiento y efectos legales conducentes.
+
+P.O. 30 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 343 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 179 DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN MATERIA DE EXTORSIÓN Y ARMONIZACIÓN CON LA LEGISLACIÓN GENERAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
+
+TERCERO. Dentro de un plazo no mayor a ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto, el Consejo Estatal de Seguridad Pública deberá emitir o adecuar los reglamentos, lineamientos, protocolos y demás normativa secundaria de carácter estrictamente local, necesarios para la correcta implementación operativa de las reformas y adiciones contenidas en este instrumento, en armonía con los lineamientos, bases y estándares que emitan las autoridades federales competentes, sin invadir sus atribuciones constitucionales y legales.
+
+CUARTO. La Secretaría de Seguridad Pública del Estado, en su carácter de Coordinadora Global del Sistema Estatal, deberá diseñar, emitir e iniciar la implementación de la Política Estatal para la Prevención y Combate a la Extorsión, prevista en el Capítulo VI Bis del Título Segundo de la Ley, en un plazo no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto, entendiéndose el combate a la extorsión en el ámbito estatal como el conjunto de acciones de prevención, coordinación interinstitucional, inteligencia administrativa, regulación operativa, atención a víctimas y fortalecimiento institucional, en el marco de la legislación general aplicable y sin incidir en la definición del tipo penal, investigación ministerial ni sanción de dicho delito, que corresponden al ámbito federal y a las autoridades competentes en materia penal.
+
+QUINTO. Las instituciones de seguridad pública del Estado y los municipios contarán con un plazo máximo de ciento ochenta días naturales para adecuar sus estructuras administrativas, sistemas informáticos, registros y bases de datos, a efecto de garantizar la debida interconexión con el Sistema Estatal de Información, conforme a los estándares de interoperabilidad que emitan las autoridades federales y los lineamientos de aplicación local que, en su caso, emita el Secretariado Ejecutivo del Sistema Estatal.
+
+SEXTO. Las instituciones de seguridad pública estatales y municipales deberán iniciar el registro de armas de fuego decomisadas conforme a lo dispuesto en el Capítulo VIII del Título Sexto, dentro de los sesenta días naturales siguientes a la emisión de los lineamientos técnicos de aplicación local por parte del Secretariado Ejecutivo, en congruencia con las disposiciones federales en materia de control de armas.
+
+SÉPTIMO. En tanto se emiten los lineamientos de aplicación local previstos en el presente Decreto, continuarán aplicándose de manera supletoria las disposiciones vigentes en materia de certificación, control de confianza, operación de Centros de Comando y Control, registros estadísticos y profesionalización policial, así como los lineamientos federales que resulten obligatorios, siempre que no se opongan a las reformas aprobadas.
+
+OCTAVO. Las evaluaciones de control de confianza, certificaciones individuales, acreditaciones institucionales y registros efectuados con anterioridad a la entrada en vigor del presente Decreto conservarán su validez hasta su vencimiento, debiendo sujetarse en lo subsecuente a lo previsto en las disposiciones reformadas y en los estándares nacionales aplicables.
+
+NOVENO. Las acciones derivadas de la aplicación del presente Decreto en materia de prevención y combate administrativo de la extorsión, deberán atenderse con los recursos aprobados en el Presupuesto de Egresos del ejercicio fiscal vigente, sin que se autoricen ampliaciones presupuestales adicionales.
+
+Las dependencias y entidades de la Administración Pública Estatal y los municipios deberán prever, en sus respectivos presupuestos de egresos del ejercicio fiscal siguiente a la entrada en vigor del presente Decreto, los recursos necesarios para el cumplimiento integral de las demás obligaciones que este impone.
+
+DÉCIMO. En tanto se integra en su totalidad el Registro de Licencias de Conducir previsto en el artículo 132 Bis 3, las autoridades estatales y municipales deberán continuar utilizando los registros administrativos existentes, debiendo interoperarlos de manera progresiva conforme a los lineamientos de aplicación local que emita el Secretariado Ejecutivo, en congruencia con la normativa federal aplicable.
+
+DÉCIMO PRIMERO. Los procedimientos administrativos, disciplinarios y de carrera policial iniciados con anterioridad a la entrada en vigor del presente Decreto continuarán tramitándose hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio, sin perjuicio de la aplicación de las normas más favorables a la persona servidora pública, cuando así proceda.
+
+DÉCIMO SEGUNDO. Las obligaciones derivadas del Registro de Armas de Fuego Decomisadas y del Registro de Licencias de Conducir comenzarán a surtir efectos obligatorios una vez que el Secretariado Ejecutivo declare formalmente su operación mediante acuerdo publicado en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+DÉCIMO TERCERO. Dentro de los sesenta días hábiles siguientes a la publicación del presente Decreto, la Secretaría General de Gobierno deberá expedir el Acuerdo por el que se regulará la operación, integración, funcionamiento y coordinación de las Mesas de Paz del Estado, conforme a lo dispuesto en la Ley Número 179 del Sistema de Seguridad Pública del Estado Libre y Soberano de Guerrero.
+
+DÉCIMO CUARTO. Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
+
+DÉCIMO QUINTO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
