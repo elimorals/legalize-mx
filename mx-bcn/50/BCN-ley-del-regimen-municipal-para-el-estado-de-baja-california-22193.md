@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-regimen-municipal-para-el-estado-de-baja-california-221
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2025-09-05"
+last_updated: "2025-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 15 de octubre de 2001.
 
@@ -293,33 +293,7 @@ ARTÍCULO 9 BIS.- De la Glosa Municipal.- Dentro de los veintiocho días natural
 
 La calendarización, formato y lineamientos bajo los cuales se desarrollará la glosa, deberán ser propuestos y aprobados por acuerdo de los plenos de los cabildos municipales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2024)</small>
-
-ARTÍCULO 9 TER.- Las personas titulares de la Presidencia Municipal, Sindicatura Procuradora y de Regidurías Municipales que participen en un proceso electoral con el propósito de su elección consecutiva, conforme a lo dispuesto por las leyes aplicables, se sujetarán a lo siguiente:
-
-> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2018)</small>
-
-I. No podrán utilizar recursos públicos que les correspondan por el ejercicio de su encargo para promover o influir de manera alguna en el voto a su favor o en contra de algún candidato.
-
-> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2018)</small>
-
-II. No podrán ocupar al personal adscrito a la nómina del Ayuntamiento durante su horario laboral para realizar actos de campaña.
-
-> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2018)</small>
-
-III. No podrán estar presentes en actos públicos relacionados con la entrega de beneficios derivados de programas sociales.
-
-> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2018)</small>
-
-IV. No podrán condicionar la entrega de recursos provenientes de programas públicos en ninguna circunstancia.
-
-> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2018)</small>
-
-V. No podrán promocionar o publicitar las acciones de gobierno realizadas en el periodo que comprende desde el inicio de las precampañas hasta la conclusión de la jornada electoral.
-
-> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2018)</small>
-
-VI. Las demás prohibiciones o limitaciones que determinen las leyes aplicables en la materia.
+ARTÍCULO 9 TER.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 2025)
 
 ### CAPÍTULO SEGUNDO. DEL PATRIMONIO MUNICIPAL
 
@@ -1318,3 +1292,9 @@ P.O. 5 DE SEPTIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 121 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 27 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE B.C.".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 207 MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, SE APRUEBAN LA REFORMA A DIVERSOS ARTÍCULOS DE LA LEY ELECTORAL DEL ESTADO, SE APRUEBA ARTÍCULO 29 DE LA LEY QUE REGLAMENTA LAS CANDIDATURAS INDEPENDIENTES EN EL ESTADO DE BAJA CALIFORNIA, SE APRUEBA LA DEROGACIÓN DEL ARTÍCULO 9 TER DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor el día (sic) inicio del proceso electoral 2029-2030 a celebrarse en 2030, por lo que las personas que en 2030 se encuentren ejerciendo los cargos públicos a que hace (sic) referencia las presentes reformas, no podrán postularse para procesos de reelección correspondientes.
