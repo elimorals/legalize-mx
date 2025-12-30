@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-y-bienestar-de-los-animales-de-la-ciudad-2357
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-26"
-last_updated: "2025-12-24"
+last_updated: "2025-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23573&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2002-01-08"
 
 LEY DE PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 30 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 26 de febrero de 2002.
 
@@ -955,6 +955,10 @@ III. Establecer y regular las Clínicas Veterinarias en las Alcaldías, pensione
 > <small>(ADICIONADA, G.O. 27 DE MARZO DE 2024)</small>
 
 III Bis. Establecer y administrar zonas de resguardo temporal a su cargo, para brindar auxilio, protección y amparo a animales de compañía rescatados en situación de calles, en tanto se determina en coordinación con las Asociaciones Protectoras de Animales legalmente constituidas y registradas ante la Agencia, el sitio en el que deberá permanecer hasta su adopción;
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2025)</small>
+
+III Bis 1. Podrán establecer zonas de recreación de animales de compañía en sus demarcaciones territoriales;
 
 > <small>(REFORMADA, G.O. 27 DE MARZO DE 2024)</small>
 
@@ -3027,3 +3031,13 @@ G.O. 24 DE DICIEMBRE DE 2025.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 30 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN III BIS 1 AL ARTÍCULO 12 DE LA LEY DE PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Dentro de los 180 días hábiles siguientes a la publicación del presente Decreto, el Gobierno de la Ciudad de México realizará la actualización y armonización reglamentaria correspondiente.
