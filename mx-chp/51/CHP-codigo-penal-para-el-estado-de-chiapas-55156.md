@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2025-12-10"
+last_updated: "2025-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2025.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -4503,19 +4503,51 @@ Por ultrajes se entenderá, la realización de conductas típicas o atípicas qu
 
 Las penas previstas en el presente artículo se aumentarán hasta en dos terceras partes, cuando la conducta sea realizada en contra de un servidor público que pertenezca al sistema estatal de salud, ante el temor y/o posibilidad de contagio durante una declaratoria de contingencia sanitaria emitida por autoridad competente.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 398 Bis.
 
-Al que obtenga y proporcione información confidencial o reservada de los cuerpos de seguridad pública o de las fuerzas armadas con el propósito de evitar que el sujeto o los sujetos activos del delito sean detenidos o para que puedan concretar una actividad delictiva en agravio de un tercero, se impondrá una pena de dos a quince años de prisión y multa de doscientos a cuatrocientos días de salario mínimo.
+Al que obtenga y proporcione información confidencial o reservada, persiga o vigile con fines ilícitos a los cuerpos de seguridad pública, de procuración de justicia o de las fuerzas armadas con el propósito de evitar que el sujeto o los sujetos activos del delito sean, investigados, detenidos o para que puedan concretar una o varias actividades delictivas en agravio de la sociedad o un tercero, se impondrá una pena de cinco a quince años de prisión y multa de trescientas a quinientas Unidades de Medida y Actualización.
 
-Cuando la conducta se lleve a cabo utilizando a personas menores de edad o personas que no tengan la capacidad de comprender el carácter ilícito del hecho, la pena se aumentará hasta en una mitad de la señalada en el primer párrafo.
+Se entenderá por información confidencial o reservada aquella que es relacionada con las actividades provenientes de operativos, investigación, trabajos de inteligencia ministerial, persecución de los delitos o sus autores, misma información que en términos de la Constitución Política de los Estados Unidos Mexicanos, Código Nacional de Procedimientos Penales y la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas, tenga dicha naturaleza.
 
-Así mismo, se aumentará la pena hasta en una mitad cuando la conducta se lleve a cabo por servidores públicos que pertenezcan o han pertenecido a alguna institución de seguridad pública, a las fuerzas armadas o se trate de personas que han pertenecido o pertenezcan a personas morales que brinden servicios de seguridad privada.
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
-Cuando la conducta se lleve a cabo utilizando equipo o vehículos oficiales, o vehículos de servicio de transporte público o mercantil, o que por sus características sean similares a esos en apariencia, la pena se aumentará hasta en una mitad de la señalada en el primer párrafo.
+###### Artículo 398 Ter.
 
-Asimismo, se entenderá por información confidencial o reservada aquella que es relacionada con las actividades provenientes de operativos, investigación, persecución de los delitos o sus autores, misma información que en términos de la Constitución Política de los Estados Unidos Mexicanos y la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas, tenga dicha naturaleza.
+Las penas previstas en el artículo anterior, se aumentarán hasta en una mitad de su mínimo y su máximo cuando:
+
+I. La conducta se lleve a cabo utilizando con o sin consentimiento a personas:
+
+a) Menores de 18 años de edad;
+
+b) Adultos mayores;
+
+c) Personas con discapacidad;
+
+d) Extranjeras sin los documentos oficiales de inmigración necesarios para acreditar su estatus legal;
+
+e) Que no tengan la capacidad de comprender el carácter ilícito del hecho;
+
+f) Víctimas de los delitos de trata de personas, desaparición forzada, desaparición cometida por particulares, amenazas o extorsión;
+
+g) Concesionarios, choferes, operadores, auxiliares o personal que intervenga en el ejercicio del autotransporte concesionado o de plataforma;
+
+En estos casos el Ministerio Público, podrá conforme a la normatividad aplicable, dar vista a la Secretaría de Movilidad y Transporte del Estado de Chiapas, para que conforme a sus facultades previo procedimiento y resolución determine lo que en derecho corresponda en relación con la revocación, suspensión o cancelación de concesiones y permisos de servicio de transporte público de transporte (sic), servicios auxiliares y conexos otorgados; y
+
+h) Vendedores ambulantes o trabajadores de establecimientos circundantes a instituciones de seguridad pública, procuración de justicia o de las fuerzas armadas.
+
+II. Para su comisión, los sujetos activos que incurran además en las conductas de Usurpación de Funciones Públicas, uso Indebido de Condecoraciones, Uniformes e Insignias y portación de armas prohibidas.
+
+III. La conducta se lleve a cabo utilizando documentos, uniformes, condecoraciones, nombramientos, insignias, equipo o vehículos oficiales de alguna institución de procuración de justicia y de seguridad pública, a las fuerzas armadas.
+
+IV. La conducta se lleve a cabo utilizando vehículos de servicio de transporte público, de plataformas, de uso mercantil, o que por sus características sean similares a esos en apariencia;
+
+V. La conducta se lleve a cabo a través de medios electrónicos; uso de tecnologías, medios digitales, aplicaciones web o inteligencia artificial; instalación, uso u operación ilegal de vídeo cámaras de vigilancia; operación de sistemas de aeronaves no tripuladas o pilotadas a distancias, entre otros medios que tengan como finalidad evitar la identificación del delito; y
+
+VI. Cuando por hechos de flagrancia en su detención alerten a diversos sujetos activos del delito.
+
+Se agravará la conducta hasta dos terceras partes, cuando se lleve a cabo con anuencia, por omisión o con permiso de funcionarios o servidores públicos de los tres niveles de gobierno, con cargo de elección popular, que pertenezcan o hayan pertenecido por lo menos con una temporalidad de 5 años previos a la comisión del ilícito, a alguna institución de procuración de justicia, de seguridad pública, a las fuerzas armadas o se trate de personas que han pertenecido o pertenezcan a personas morales que brinden servicios de seguridad privada.
 
 ## Título Décimo Séptimo. Falsedad
 
@@ -6568,3 +6600,11 @@ Artículo Quinto.- Dentro del plazo de 90 días naturales siguientes a la entrad
 En tanto se crea la Unidad Especializada, a que se refiere el párrafo anterior, la Fiscalía General del Estado deberá utilizar a la Fiscalía Antisecuestro, para la atención de los delitos de extorsión, en términos de lo dispuesto por el artículo Décimo Transitorio de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
 Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento, por lo que no incrementarán su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
+
+P.O. 30 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 173 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
