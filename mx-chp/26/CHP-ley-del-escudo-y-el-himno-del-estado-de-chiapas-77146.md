@@ -4,7 +4,7 @@ identifier: "CHP-ley-del-escudo-y-el-himno-del-estado-de-chiapas-77146"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-22"
-last_updated: "2022-06-08"
+last_updated: "2025-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DEL ESCUDO Y EL HIMNO DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 22 de septiembre de 2010.
 
@@ -59,27 +59,55 @@ El Poder Ejecutivo y los Ayuntamientos, deberán promover, en el ámbito de sus 
 
 ### Capítulo Segundo. De las características de los emblemas estatales
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 4°.
 
-El Escudo está constituido como fondo por un campo de gules con dos cerros. Encima de uno ellos, del lado derecho, está un castillo de oro con dos columnas laterales de dos ventanas cada una, un edifico central con una puerta y dos ventanas que contiene en su lado posterior una columna más con una ventana, un león de oro rampante se encuentra yuxtapuesto a éste; por encima del otro cerro, del lado izquierdo, se vislumbra una palma de sinople frutada y otro león de oro rampante yuxtapuesto a ella. En el horizonte del Río Grande de Chiapa, dos formaciones volcánicas. Finalmente, por timbre una corona de Marqués compuesta por un cerco de metal precioso y pedrería, decorado con cuatro florones, de los cuales son visibles tres, uno entero al frente y dos de perfil en sus laterales; intercalados entre los florones, se encuentran cuatro ramos compuestos por tres perlas cada uno puestas sobre pequeñas puntas, de las cuales únicamente son visibles dos al frente.
+El escudo de Chiapas está compuesto por elementos que resaltan la riqueza cultural, histórica y natural del estado.
+
+El escudo de Chiapas está ensamblado en el fondo por un campo de gules con dos cerros.
+
+Entre los cerros se aprecia una representación de un cuerpo acuífero, como referencia al rio grande un elemento esencial para la vida. Al fondo la figura estilizada (sic) un volcán, que representa la fuerza y la vitalidad del territorio, por encima del mismo una estrella en color gris, representación del cosmos y el universo ordenado simboliza tiempo, ciclos y renovación, con una visión hacia el futuro.
+
+Encima del lado izquierdo se encuentra una representación de una pirámide en color dorado con 5 puertas, en referencia al templo de las inscripciones, al lado de esta la representación estilizada de una milpa de maíz con mazorca en su etapa madura en sus colores originales, posterior a este el bastón de mando en posición de descanso con tres listones en color verde, blanco y rojo, que representa la voz, la fuerza y la sabiduría de los pueblos originarios.
+
+Encima del lado derecho un árbol de ceiba, símbolo sagrado que conecta con la naturaleza y la espiritualidad, reforzando el vínculo con la tierra, frente a la ceiba un león en color dorado, representando la mezcla de la cultura y la reconciliación con el mestizaje.
+
+Por encima una placa alusiva a un textil acompañado de dos representaciones estilizadas de patrones de bordados y rombos, en ambos extremos, al centro en representación de inscripción del cero maya. En la parte superior un tocado maya en color dorado, símbolo de la prosperidad y grandeza.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 5°.
 
 El significado de cada uno de los elementos que integran el Escudo es el siguiente:
 
-a) El fondo de campo de gules: Protección y recompensa por los peligros y sacrificios que pasaron los vecinos de la Villa de San Cristóbal de los Llanos en la conquista y colonización de la provincia de Chiapas.
+1.- Tocado maya en color dorado: Símbolo de prosperidad y grandeza en la región, inspirado en el rey Pakal. Representa compromiso con el desarrollo y bienestar.
 
-b) El castillo de oro: La grandeza y el poder en la defensa, riqueza, luz y sabiduría.
+2.- Patrón de bordados sobre base de textil: Representa la cosmovisión ancestral, el orden del universo, el ciclo solar y la herencia textil chiapaneca.
 
-c) El león de oro: La integración de la nobleza, la riqueza, la constancia, la magnanimidad y la pureza de sentimientos; arrimado al castillo simboliza el valor y el heroísmo, y arrimado a la palma, la advocación del glorioso Señor San Cristóbal, santo protector de la antigua Villa Real de Chiapa.
+3.- Bordado en mariposa: Simboliza la conexión entre lo terrestre, el sol y el inframundo, reflejando continuidad cultural y tradición textil.
 
-d) La palma de sinople frutada: Símbolo de la victoria y la ubérrima tierra.
+4.- Cero maya: Emblema del origen, equilibrio y continuidad del tiempo dentro del conocimiento matemático y cosmogónico maya.
 
-e) Los dos cerros y el río: El Cañón del Sumidero y el nombre indígena de Chiapas, Tepetchiapan, que significa agua debajo del cerro (del náhuatl tepetl, cerro; chi abajo; atl, agua; pan, río, lugar).
+5.- Fondo de campo de gules: Representa con honor los sacrificios y peligros vividos durante la conquista y la resistencia indígena para la preservación de sus principios.
 
-f) Las formaciones volcánicas del horizonte del río: firmeza y justicia.
+6.- Estrella: Horizonte y rumbo, representa el cosmos, los ciclos del tiempo y el equilibrio humano orientado hacia el futuro.
 
-g) Corona de Marqués: Señal distintiva de nobleza y esplendor, representa la autoridad y señorío en el reino y hoy en el Estado, el metal precioso en ella protección y recompensa.
+7.- Pirámide: Alusión al templo de las inscripciones, símbolo del legado arqueológico y la identidad cultural de Chiapas.
+
+8.- Árbol de ceiba: Árbol sagrado que une cielo, tierra e inframundo, símbolo de vida, espiritualidad y biodiversidad chiapaneca.
+
+9.- León: Representa el mestizaje y la conciliación entre el pasado colonial y el presente soberano.
+
+10.- Bastón de mando en descanso: Símbolo de autoridad indígena basada en sabiduría, humildad y responsabilidad comunitaria.
+
+11.- Cerro: Representan el cañón del sumidero como fortaleza natural, memoria histórica y resistencia de los pueblos originarios.
+
+12.- Volcán: Simboliza fuerza territorial, biodiversidad, unidad cultural y conservación ecológica de Chiapas.
+
+13.- Cuerpo acuífero: Representa al río grande como fuente de vida, biodiversidad, equilibrio ecológico y sustento comunitario.
+
+14.- Planta de maíz con mazorcas: Símbolo del sustento, identidad agrícola y base alimentaria y económica del pueblo chiapaneco.
 
 ###### Artículo 6°.
 
@@ -390,3 +418,15 @@ P.O. 8 DE JUNIO DE 2022.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 176 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL ESCUDO Y EL HIMNO DEL ESTADO DE CHIAPAS; EN MATERIA DE AGREGADOS DE IDENTIDAD".]
+
+Artículo Primero. El presente Decreto entrará en vigor el día primero de enero del año dos mil veintiséis.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero. El Ejecutivo del Estado llevará a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto.
+
+Artículo Cuarto. Todos los elementos, materiales e intangibles de valor histórico del escudo de Chiapas vigentes antes de la entrada en vigor del presente decreto, que se encuentren a resguardo o en uso de las instituciones públicas y privadas de la entidad, se considerarán patrimonio cultural del Estado, por lo cual procurarán su conservación, resguardo y mantenimiento de los mismos, como parte de nuestra historia cultural.
