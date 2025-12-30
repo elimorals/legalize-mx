@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-de-la-ciudad-de-mexico-149711"
 country: "mx"
 rank: "ley"
 publication_date: "2021-06-07"
-last_updated: "2025-12-24"
+last_updated: "2025-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149711&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-06-04"
 
 LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2025.
 
 Ley publicada en el No. 612 de la Gaceta Oficial de la Ciudad de México, el lunes 7 de junio de 2021.
 
@@ -190,7 +190,9 @@ XVI. Proteger, preservar y fortalecer las lenguas y las manifestaciones cultural
 
 XVII. Desarrollar, a través de la educación artística, las capacidades, habilidades, valores, actitudes y hábitos estéticos que propicien la formación de una cultura artística permanente;
 
-XVIII. Desarrollar, a través de la educación física y el deporte, las capacidades, habilidades, valores, actitudes y hábitos de higiene y alimenticios que eviten la obesidad y desnutrición; asimismo que propicien la formación de una cultura física permanente, como forma de vida integral y saludable;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2025)</small>
+
+XVIII. Desarrollar, a través de la educación física y el deporte, la formación de capacidades físicas y perceptivas, así como habilidades sociales, trabajo en equipo, liderazgo, empatía, cooperación, resolución de conflictos y solidaridad; y las capacidades, valores, actitudes y hábitos de higiene y alimenticios que eviten la obesidad y desnutrición; asimismo, propiciar la formación de una cultura física permanente, como forma de vida integral y saludable; promoviendo condiciones de accesibilidad en función de las necesidades individuales del estudiantado, con el fin de erradicar cualquier forma de discriminación y asegurar el ejercicio pleno del derecho a la educación física;
 
 XIX. Educar para la preservación de la salud, incluida la salud sexual integral y reproductiva, la planificación familiar y la paternidad y maternidad responsables, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana;
 
@@ -1857,3 +1859,11 @@ G.O. 24 DE DICIEMBRE DE 2025.
 PRIMERO. Remítase a Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 30 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 7 DE LA LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO, EN MATERIA DE FORTALECIMIENTO DE LA EDUCACIÓN FÍSICA”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
