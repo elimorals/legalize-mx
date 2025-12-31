@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-kinchil-yucatan-125015"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-27"
-last_updated: "2022-12-30"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125015&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE KINCHIL, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 27 de diciembre de 2017.
 
@@ -441,7 +441,11 @@ a).- Licencia de funcionamiento anterior.
 
 b).- Certificado de no adeudar impuesto predial.
 
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ## TÍTULO TERCERO. DE LOS IMPUESTOS
+
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], D.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ### CAPÍTULO I. Impuesto Predial
 
@@ -531,11 +535,19 @@ Cuando la base del impuesto predial sea el valor catastral del inmueble, el impu
 
 DEL PAGO
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 48.
 
-El impuesto predial sobre la base de valor catastral deberá cubrirse por anualidades anticipadas dentro de primer mes, de cada año.
+El impuesto predial sobre la base de valor catastral actualizado, deberá cubrirse por anualidades anticipadas dentro de (sic) primer trimestre, de cada año.
 
-Cuando el contribuyente pague el impuesto predial correspondiente a todo el año, durante los meses de enero y febrero, gozará de un descuento del 10% sobre el importe de dicho impuesto.
+I.- Cuando el contribuyente pague el impuesto predial correspondiente a todo el año durante el mes de enero, gozará de un descuento del 20% sobre el importe de dicho impuesto.
+
+II.- Cuando el pago lo realice el contribuyente durante el mes de febrero, gozará de un descuento del 15% sobre el importe de dicho impuesto.
+
+III.- Cuando el pago lo realice el contribuyente durante el mes de marzo, gozará de un descuento del 10% sobre el importe de dicho impuesto.
+
+IV.- Respecto a Jubilados, pensionados y personas con capacidades diferentes que lo acrediten mediante constancia expedida por la autoridad competente o exhiban tarjeta del Instituto Nacional de las Personal (sic) Adultos Mayores (INAPAM), todo el año se les aplicará una bonificación del 50%, únicamente respecto al predio de su propiedad en el que habiten, no acumulable con las bonificaciones por pronto pago realizadas en enero, febrero y marzo, excluyéndose por tal razón cualquier otro descuento o bonificación respecto a otras propiedades con las que cuente.
 
 EXENCIONES
 
@@ -1189,13 +1201,17 @@ III.- Los permisos de construcción, reconstrucción, ampliación, demolición d
 
 IV.- Otro tipo de permisos y autorizaciones de tipo eventual que se señalen en las leyes de ingresos de los municipios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 108.
 
-Quedarán obligados al pago de los derechos para la obtención de la Licencia de funcionamiento, todas aquéllas personas físicas o morales que deseen abrir al público, establecimientos en los que se expendan bebidas alcohólicas tales como los que de manera enunciativa pero no limitativa se relacionan a continuación:
+Quedarán obligados al pago de los derechos para la obtención de la Licencia de funcionamiento, todas aquellas personas físicas o morales que deseen abrir al público, establecimientos en los que se expendan bebidas alcohólicas tales como los que de manera enunciativa pero no limitativa se relacionan a continuación:
 
 I.- Vinaterías
 
-II.- Expendio de cerveza
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+II.- Expendio de Cerveza y/o Bodegas.
 
 III.- Departamento de licores en supermercados
 
@@ -1211,11 +1227,15 @@ VIII.- Salones de baile
 
 IX.- Restaurantes, hoteles y moteles
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 109.
 
 Las licencias de funcionamiento que se expidan por cualquiera de los conceptos anteriores tendrán una vigencia anual y deberán revalidarse durante los meses de enero y febrero.
 
-Para que la Tesorería municipal esté en condiciones de revalidar, el peticionario deberá acompañar copia certificada de la Licencia de salud o determinación sanitaria expedida por la Secretaría de Salud del Estado de Yucatán.
+Para que la Tesorería municipal esté en condiciones de revalidar, el peticionario deberá acompañar copia certificada de la Licencia de salud o determinación sanitaria expedida por la Secretaría de Salud del Estado de Yucatán; copia del pago del impuesto predial anual, copia de la sesión de cabildo de autorización de la licencia, copia del pago de la licencia de uso de suelo anual.
+
+Cuando el contribuyente pague la renovación anual de su licencia de funcionamiento correspondiente a todo el año, durante el mes de enero y febrero, gozará de un descuento del 20% sobre el importe de dicho derecho.
 
 ###### Artículo 110.
 
@@ -1256,6 +1276,102 @@ En todo caso, la Tesorería antes de aplicar las sanciones que establece este Ar
 ###### Artículo 116.
 
 Por la promoción, propaganda o publicidad de los establecimientos comerciales de la ciudad, fijos o semifijos y ambulantes, se pagarán derechos de acuerdo a lo señalado a La Ley de Ingresos del Municipio de Kinchil.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Artículo 116 bis.- Derechos por Publicidad y Propaganda
+
+a) Ámbito de aplicación.
+
+Por el otorgamiento de las licencias para instalación de anuncios de toda índole, por los conceptos que a continuación se enuncian, se abonarán los importes que al efecto se establezca:
+
+1) La publicidad, propaganda escrita o gráfica, hecha en la vía pública o visible desde ésta, con fines lucrativos o comerciales;
+
+2) La publicidad y propaganda que se hace en el interior de locales destinados al público (cines, teatros, comercios, galerías, centros comerciales, campos de deportes y demás sitios de acceso público);
+
+3) La publicidad o propaganda oral realizada en la vía o lugares públicos o que, por algún sistema o método de alcance a la población;
+
+No comprende:
+
+1) La publicidad o propaganda con fines sociales, recreativos, culturales, asistenciales y benéficos;
+
+2) La exhibición de chapas de tamaño tipo donde constan solamente nombre y especialidad de profesionales con título universitario;
+
+3) La publicidad que se refiere a mercaderías o actividades propias del establecimiento siempre que se realicen en el interior de este y que no incluya marcas.
+
+b) Base Imponible
+
+Cuando la base imponible sea la superficie de la publicidad y propaganda, esta será determinada en función al trazado del rectángulo de base horizontal, cuyos lados pasen por las partes de máxima saliente del anuncio, incluyendo colores identificatorios, marco, revestimiento, fondo y todo otro adicional agregado al anuncio.
+
+c) Clases de Anuncios
+
+Se entiende por anuncio publicitario a toda leyenda, inscripción, dibujo, colores identificatorios, imagen, emisión de sonidos, música y todo otro elemento similar, cuyo fin sea la difusión pública de marcas, productos, eventos, actividades, empresas o cualquier otro objeto de o con carácter esencialmente comercial o lucrativo.
+
+A los efectos de la determinación se entenderá por LETREROS a la propaganda propia del establecimiento donde la misma se realiza y AVISO a la propaganda ajena a la titularidad del lugar.
+
+d) Publicidad no tarifada.
+
+Cuando la publicidad o propaganda no estuviera expresamente contemplada, se abonará la tarifa general que al efecto se establezca en la Ordenanza Impositiva anual.
+
+e) Forma y término de pago.
+
+Los derechos se harán efectivos en forma anual, en cuyo caso se fija como vencimiento del derecho los días 30 de abril de cada año, de resultar día inhábil el vencimiento operara el primer día hábil inmediato posterior. Quedando el Departamento Ejecutivo autorizado para prorrogar el plazo si así lo creyera conveniente. Se fija la fecha límite para presentar las declaraciones juradas de los hechos imponibles el día 15 de enero de cada año y de resulta día (sic) inhábiles el primer día hábil inmediato posterior.
+
+f) Responsables del pago.
+
+Considerase contribuyente y/o responsable de anuncios publicitarios a la persona física o jurídica que, con fines de promoción de su marca, comercio o industria, profesión, servicio o actividad, realiza, con o sin intermediarios de la actividad publicitaria, la difusión pública de los mismos.
+
+Serán solidariamente responsables del pago de los derechos, recargos y multas que correspondan, los anunciadores, anunciados, permisionarios, quienes cedan espacios con destino a la realización de actos de publicidad y propaganda y quien en forma directa o indirecta se beneficien con su realización.
+
+g) Autorización previa.
+
+Salvo casos especiales, para la realización de propaganda o publicidad deberá requerirse y obtener la autorización previa de la Municipalidad y cuando corresponda, registrar la misma en el padrón respectivo, sin perjuicio de cumplimentar el procedimiento y requisitos que al efecto se establezca.
+
+h) Visado municipal.
+
+Toda propaganda efectuada en forma de pantalla, afiche, volante y medios similares, deberán contener en el ángulo superior derecho la intervención Municipal que los autoriza.
+
+i) Vigencia.
+
+Los letreros, anuncios, avisos y similares, abonarán el derecho anual no obstante su colocación temporaria.
+
+Toda publicidad que se vuelva a generar anunciando otro texto distinto a aquel por el cual se abonó el derecho, será considerado como nuevo y deberá pagar como tal.
+
+Toda deuda por Derechos de Publicidad y Propaganda no abonada en término se liquidará al valor del gravamen vigente al momento del pago.
+
+j) Publicidad sin permiso.
+
+En los casos en que el anunció se efectuará sin permiso, modificándose lo aprobado o en lugar distinto al autorizado, sin perjuicio de las penalidades a que diere lugar, el Departamento Ejecutivo podrá disponer la remoción o borrado del mismo con cargo a los responsables.
+
+k) Permisos renovables.
+
+Los permisos serán renovables con el sólo pago de los derechos respectivos, los derechos no sean satisfechos dentro del plazo correspondiente, se considerarán desistidos de derecho; no obstante, subsistirá la obligación de los responsables de contemplar el pago hasta que la publicidad o propaganda sea retirada o borrada y de satisfacer los recargos y multas que en cada caso correspondan.
+
+l) Restitución de elementos.
+
+No se dará curso a pedido de restitución de elementos retirados por la Municipalidad, sin que acredite el pago de los derechos, sus accesorios y los gastos ocasionados por el retiro y depósito.
+
+m) Prohibición.
+
+Queda expresamente prohibido en todo el ámbito del Partido toda publicidad o propaganda cuando medien las siguientes circunstancias:
+
+1. Cuando los elementos utilizados no sean previamente fiscalizados y aprobados por la Municipalidad;
+
+2. Cuando utilicen muros de edificios públicos o privado (sic), sin autorización de su propietario;
+
+3. Cuando los elementos utilizados para la publicidad o propaganda, obstruyan directa o indirectamente el señalamiento oficial.
+
+4. Cuando se pretenda utilizar árboles o similares para soportarla.
+
+n) Tarifa.
+
+Por la publicidad en la vía pública, o visible desde ésta, deberán tributar un importe mínimo anual por año o fracción, de acuerdo con lo que señala la ley de ingresos del municipio de Kinchil, Yucatán.
+
+Todo Derecho por Publicidad y Propaganda no abonada en término se liquidará al valor del gravamen al momento del pago.
+
+Cuando los anuncios precedentemente citados fueren iluminados o luminosos los derechos se incrementarán en un cincuenta por ciento (50%), en caso de ser animados o con efectos de animación se incrementarán en un veinte por ciento (20%) más. Si la publicidad oral fuera realizada con aparatos de vuelo o similares se incrementará en un cien por ciento (100%).
+
+Toda publicidad referida a tabacos, cigarrillos y bebidas alcohólicas o energizantes de cualquier tipo o graduación tendrán un incremento en un cien por ciento (100%) sobre todos los conceptos.
 
 ### CAPÍTULO IX. Derechos por Servicio de Panteones
 
@@ -1686,3 +1802,17 @@ Artículo Primero.- Este decreto entrará en vigor el día siguiente de su publi
 Artículo Segundo.- El H. Ayuntamiento de Dzidzantún, para percibir aprovechamientos vía infracciones por faltas administrativas, deberá contar con los reglamentos municipales respectivos, que establecerán los montos de las sanciones correspondientes.
 
 Artículo Tercero.- La Ley de Hacienda del Municipio de Tixpéual, deroga el artículo primero transitorio por el que se modificó dicha Ley, mediante Decreto 449/2021 publicado en el Diario Oficial del Gobierno del Estado el 31 de diciembre de 2021.
+
+D.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 151/2025 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE TRECE MUNICIPIOS DEL ESTADO DE YUCATÁN”.]
+
+Artículo primero.- Este decreto entrará en vigor el día primero de enero del año dos mil veintiséis, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo.- El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que a la fecha de la publicación de la presente Ley no hayan sido transferidos formalmente al Ayuntamiento por el Gobierno del Estado, entrarán en vigor hasta la celebración del convenio respectivo.
+
+Artículo tercero.- Para el Municipio de Sacalum, el ejercicio del importe anual a pagar por los contribuyentes del impuesto predial base valor catastral, para el caso de los predios cuyo valor catastral sea menor o igual $200,000.00 el impuesto predial base valor catastral no podrá exceder un 6% del que les haya correspondido durante el ejercicio inmediato anterior, para el caso de predios cuyo valor catastral sea igual o superior a $200,000.01 el impuesto predial base valor catastral no podrá exceder el 10% del que les haya correspondido durante el ejercicio inmediato anterior. Este comparativo se efectuará solamente sobre le (sic) impuesto predial, sin tomar en consideración, bonificaciones, excedentes, reducciones, estímulos o accesorios.
+
+I. Los predios que, como resultado de alguna modificación en su superficie de terreno, construcción, así como de la tipología de su construcción, haya aumentado en mas de un 50% el valor catastral que tenían antes dichas modificaciones, de conformidad con las disposiciones aplicables, en cuyo caso aplicará el cálculo establecido en el artículo 34 de esta ley.
+
+II. Los predios que fueron objeto de traslación de dominio a partir del ejercicio inmediato anterior, en cuyo caso aplicará el calculo establecido en el artículo 34 de esta ley.
