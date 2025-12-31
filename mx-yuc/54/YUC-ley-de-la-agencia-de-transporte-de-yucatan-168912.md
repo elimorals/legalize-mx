@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-la-agencia-de-transporte-de-yucatan-168912"
 country: "mx"
 rank: "ley"
 publication_date: "2023-12-28"
-last_updated: "2025-07-28"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE LA AGENCIA DE TRANSPORTE DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Edición Vespertina del Número 35,272 del Diario Oficial del Estado de Yucatán, el jueves 28 de diciembre de 2023.
 
@@ -1953,7 +1953,7 @@ IV. Abstenerse de divulgar información personal de alguna de sus personas usuar
 
 V. Informar oportunamente a la autoridad competente sobre cualquier irregularidad en la prestación del servicio o el incumplimiento de esta ley o de otras disposiciones legales y normativas aplicables.
 
-VI. Aportar mensualmente el 1.5% de cada servicio de transporte de personas pasajeras que presten las personas operadoras inscritos en sus bases de datos y que estará destinado al Fondo Estatal para el Transporte previsto en esta ley. La falta de aportación de dicha prestación será causa de revocación de las autorizaciones que cuentan tanto las empresas de redes de transporte como de las personas socias y personas afiliadas que tenga.
+VI. (DEROGADA, D.O. 31 DE DICIEMBRE DE 2025)
 
 VII. Enviar, una vez concluido el servicio prestado, un recibo a la persona usuaria por correo electrónico con la información de dicho servicio.
 
@@ -3748,3 +3748,15 @@ El Poder Ejecutivo, a través de la Secretaría de Administración y Finanzas, d
 Titular de la dependencia
 
 Artículo décimo primero. Con el objeto de no afectar derechos adquiridos con anterioridad a la entrada en vigor de este decreto, la persona titular de la actual Secretaría de la Contraloría General continuará en el cargo de titular de la Secretaría Anticorrupción y Buen Gobierno sin necesidad de nuevo nombramiento por parte del titular del Poder Ejecutivo, ni la ratificación por parte de la legislatura y concluirá su cargo en los términos de su nombramiento.
+
+D.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 156/2025 POR EL QUE SE MODIFICAN LA LEY DE LA AGENCIA DE TRANSPORTE DE YUCATÁN Y LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE YUCATÁN, EN MATERIA DE ARMONIZACIÓN DE CONTRIBUCIONES”.]
+
+Entrada en vigor
+
+Artículo primero. El presente decreto entrará en vigor el día 01 de enero del año 2026, previo a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Derogación expresa
+
+Artículo segundo. Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al contenido del presente decreto.
