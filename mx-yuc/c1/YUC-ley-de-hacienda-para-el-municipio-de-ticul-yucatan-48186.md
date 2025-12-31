@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-ticul-yucatan-48186"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-03"
-last_updated: "2008-12-27"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE TICUL, YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el martes 3 de enero de 2006.
 
@@ -275,9 +275,19 @@ III.- El recibo de pago del derecho correspondiente en su caso;
 
 IV.- Determinación sanitaria, en su caso;
 
-V.- Copia del comprobante de inscripción en el Registro Federal de Contribuyentes, y
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+V.- Copia del comprobante de inscripción en el Registro Federal de Contribuyentes;
 
 VI.- Copia del comprobante de su Clave única de Registro de Población en su caso.
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+VII.- Constancia de estar al corriente en el pago del servicio del agua potable expedido por el Sistema de agua potable y alcantarillado de Ticul, y
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+VIII.- Constancia o recibo de pago anual del servicio de limpia o recoja de basura, del predio donde se ubique la licencia en renovación, expedida por la Tesorería Municipal.
 
 Los requisitos de las fracciones V y VI, sólo se presentarán en caso de que esos datos no estén registrados en el Padrón Municipal.
 
@@ -395,7 +405,9 @@ Cualquier cambio en el monto de la contraprestación que generó el pago del imp
 
 Cuando de un inmueble formen parte dos o más departamentos y éstos se encontraren en cualquiera de los supuestos del citado Artículo 36 de esta ley, el contribuyente deberá empadronarse por cada departamento.
 
-Los fedatarios públicos ante quienes se otorgare, firmare o rectificare el contrato, el convenio o el documento, que dio lugar a la situación jurídica, que permita al propietario, fideicomisario, fideicomitente, o usufructuario obtener una contraprestación, en los términos señalados en el Artículo 36 de esta ley, estarán obligados a entregar una copia simple del mismo a la Tesorería Municipal, en un plazo de treinta días, contados a partir de la fecha del otorgamiento, de la firma o de la ratificación del documento respectivo.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Los fedatarios públicos ante quienes se otorgare, firmare o ratificare el contrato, el convenio o el documento, que dio lugar a la situación jurídica, que permita al propietario, fideicomisario, fideicomitente, o usufructuario obtener una contraprestación, en los términos señalados en el Artículo 36 de esta ley, estarán obligados a entregar una copia simple del mismo a la Tesorería Municipal, en un plazo de treinta días, contados a partir de la fecha del otorgamiento, de la firma o de la ratificación del documento respectivo.
 
 ###### Artículo 38.
 
@@ -1017,9 +1029,27 @@ Es objeto de este derecho la prestación de los servicios de agua potable a los 
 
 Son sujetos del pago de estos derechos, las personas físicas o morales, propietarios, poseedores por cualquier título, del predio o la construcción objeto de la prestación del servicio, considerándose que el servicio se presta, con la sola existencia de éste en el frente del predio, independientemente que se hagan o no las conexiones al mismo.
 
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Artículo 118 bis.- Para los efectos del pago de este derecho, se consideran tres tipos de servicio:
+
+I. Para casa habitación.
+
+II. Para predios que se usan en el comercio.
+
+III. Edificios con más de dos departamentos en renta.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 119.
 
-Son responsables solidarios, del pago de estos derechos los Notarios Públicos y demás encargados de llevar la fe pública, que autoricen instrumentos en los que se consigne la enajenación de predios o giros sin que previamente se compruebe con las constancias oficiales correspondientes que se está al corriente del pago de los derechos de agua potable.
+Son responsables solidarios del pago de estos derechos los Notarios Públicos y demás encargados de llevar la fe pública, que autoricen instrumentos en los que se consigne la enajenación de predios o giros sin que previamente se compruebe con las constancias oficiales correspondientes que se está al corriente del pago de los derechos de agua potable. Los fedatarios públicos, las personas que por disposición legal tengan funciones notariales y los funcionarios ante quienes se ratifiquen las firmas, no deberán autorizar o ratificar escrituras o contratos que se refieran a predios urbanos o rústicos ubicados en el territorio municipal o a construcciones edificadas en dicho territorio, sin acreditar con la constancia oficial de estar al corriente con el pago del servicio de agua potable, expedida por el Sistema de Agua Potable y Alcantarillado de Ticul, por lo que deberá anexarse al documento, testimonio o escritura en la que conste el acto o contrato; los Escribanos Públicos estarán obligados a acompañarlos a los informes y legajos que remitan al Archivo Notarial del Estado de Yucatán.
+
+Los empleados y funcionarios del Registro Público de la Propiedad del Estado, se abstendrán de inscribir el documento que carezca de la constancia de no adeudo por el servicio de agua potable cuya fecha corresponda al mes de la fecha del otorgamiento del documento.
+
+El Sistema de Agua Potable y Alcantarillado de Ticul, Yucatán expedirá la constancia de que el predio no presenta adeudo alguno en concepto del servicio de agua potable, conforme a la solicitud que por escrito presente el interesado, quien deberá señalar el inmueble, el bimestre y el año, respecto de los cuales solicite la certificación.
+
+El Sistema de Agua Potable y Alcantarillado de Ticul, emitirá la forma correspondiente para solicitar la constancia mencionado (sic) en los párrafos que anteceden.
 
 ###### Artículo 120.
 
@@ -1080,6 +1110,28 @@ Artículo 124 G.- Será base para el cobro de este derecho el número de días q
 > <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
 Artículo 124 H.- El pago de los derechos a que se refiere esta sección se hará una vez proporcionado el servicio, y de acuerdo a las cuotas establecidas en la Ley de Ingresos del municipio.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+#### Sección Décimo Quinta. De los Derechos por la Prestación de Servicios en Materia de Protección Civil
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 124-I.
+
+Son sujetos de los derechos establecidos en esta sección las personas físicas o morales que soliciten, cualquiera de los servicios a que se refiere esta sección.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 124-J.
+
+El objeto de los derechos establecidos en esta sección son los servicios prestados por el Departamento de Protección Civil de acuerdo a la Ley de Ingresos del municipio de Ticul, Yucatán.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 124-K.
+
+Los derechos por los servicios a que se refiere la presente sección se pagarán conforme a lo establecido en la Ley de Ingresos del municipio de Ticul, Yucatán.
 
 ### Capítulo III. Contribuciones de Mejoras
 
@@ -1468,3 +1520,17 @@ D.O. 27 DE DICIEMBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 151/2025 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE TRECE MUNICIPIOS DEL ESTADO DE YUCATÁN”.]
+
+Artículo primero.- Este decreto entrará en vigor el día primero de enero del año dos mil veintiséis, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo.- El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que a la fecha de la publicación de la presente Ley no hayan sido transferidos formalmente al Ayuntamiento por el Gobierno del Estado, entrarán en vigor hasta la celebración del convenio respectivo.
+
+Artículo tercero.- Para el Municipio de Sacalum, el ejercicio del importe anual a pagar por los contribuyentes del impuesto predial base valor catastral, para el caso de los predios cuyo valor catastral sea menor o igual $200,000.00 el impuesto predial base valor catastral no podrá exceder un 6% del que les haya correspondido durante el ejercicio inmediato anterior, para el caso de predios cuyo valor catastral sea igual o superior a $200,000.01 el impuesto predial base valor catastral no podrá exceder el 10% del que les haya correspondido durante el ejercicio inmediato anterior. Este comparativo se efectuará solamente sobre le (sic) impuesto predial, sin tomar en consideración, bonificaciones, excedentes, reducciones, estímulos o accesorios.
+
+I. Los predios que, como resultado de alguna modificación en su superficie de terreno, construcción, así como de la tipología de su construcción, haya aumentado en mas de un 50% el valor catastral que tenían antes dichas modificaciones, de conformidad con las disposiciones aplicables, en cuyo caso aplicará el cálculo establecido en el artículo 34 de esta ley.
+
+II. Los predios que fueron objeto de traslación de dominio a partir del ejercicio inmediato anterior, en cuyo caso aplicará el calculo establecido en el artículo 34 de esta ley.
