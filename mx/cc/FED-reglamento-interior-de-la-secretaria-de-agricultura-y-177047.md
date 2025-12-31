@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-agricultura-y-177047"
 country: "mx"
 rank: "reglamento"
 publication_date: "2025-01-30"
-last_updated: "2025-01-30"
+last_updated: "2025-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=177047&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2025-01-28"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA Y DESARROLLO RURAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE AGRICULTURA Y DESARROLLO RURAL, PUBLICADO EN EL D.O.F. DE 31 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE AGRICULTURA Y DESARROLLO RURAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 2025 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 30 de enero de 2025.
 
@@ -1788,3 +1790,33 @@ Los demás asuntos del Servicio de Información Agroalimentaria y Pesquera, conf
 Asimismo, en un plazo de 180 días hábiles contados a partir de la entrada en vigor del presente Reglamento, la Unidad de Administración y Finanzas de la Secretaría realizará las acciones necesarias para que los recursos humanos, financieros, materiales y tecnológicos del Servicio de Información Agroalimentaria y Pesquera sean transferidos a dicha Coordinación y llevará a cabo todos los demás actos o trámites administrativos necesarios, y la Unidad de Asuntos Jurídicos, Derechos Humanos y Normalización realizará las gestiones pertinentes para la armonización jurídica correspondiente.
 
 Dado en la residencia del Poder Ejecutivo Federal, en Ciudad de México a 28 de enero de 2025.- La Presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo.- Rúbrica.- El Secretario de Agricultura y Desarrollo Rural, Julio Antonio Berdegué Sacristán.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE AGRICULTURA Y DESARROLLO RURAL”.]
+
+PRIMERO. El presente Reglamento entra en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Agricultura y Desarrollo Rural, publicado en el Diario Oficial de la Federación el 30 de enero de 2025 y demás disposiciones administrativas que se opongan al presente ordenamiento.
+
+TERCERO. Los asuntos que se encuentren pendientes de resolución a la entrada en vigor de este Reglamento, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, o bien, desaparezca o se suprima la unidad administrativa, de que se trate, continuarán su trámite y serán resueltos por aquella o aquellas unidades a las que se les haya atribuido la competencia en este ordenamiento, mismas que pueden seguir utilizando la papelería en la que conste su anterior denominación hasta agotar su existencia, sin que ello afecte la validez de sus actos.
+
+Asimismo, el resguardo de la información será responsabilidad de aquella que sea competente, de conformidad con sus atribuciones, así como tomando en consideración las atribuciones con las que cuentan las unidades administrativas que cambian de denominación o se crean, para lo cual, se tomará en consideración los acuerdos publicados en el Diario Oficial de la Federación en lo que no se opongan al presente reglamento.
+
+La Unidad de Asuntos Jurídicos interpretará y determinará los casos no previstos en este transitorio.
+
+CUARTO. Las referencias que se hacen y las atribuciones que se otorgan en reglamentos, decretos, acuerdos, manuales y demás disposiciones a las unidades administrativas que cambian de denominación o desaparecen por virtud del presente Reglamento, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme a lo establecido en el mismo o, en su caso, los que se contemplen en el primer párrafo del transitorio anterior.
+
+QUINTO. La Unidad de Administración y Finanzas de la Secretaría de Agricultura y Desarrollo Rural realizará las acciones necesarias para que los recursos humanos, financieros, materiales y tecnológicos asignados a las unidades o áreas que se modifican o desaparecen, sean transferidos a las unidades que correspondan, en los términos del presente Reglamento y de conformidad con las normas aplicables y disponibilidad presupuestaria.
+
+SEXTO. En tanto se expidan los manuales que en el presente Reglamento se determinan, se continuarán aplicando, en lo conducente, los vigentes.
+
+SÉPTIMO. En tanto se emita el Reglamento Interior de la Comisión Nacional de Acuacultura y Pesca, seguirá vigente lo establecido en el Octavo Transitorio del Reglamento Interior de la Secretaría de Agricultura y Desarrollo Rural, publicado el 03 de mayo de 2021, en correlación con el Octavo Transitorio del Reglamento Interior de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, publicado en el Diario Oficial de la Federación el 25 de abril de 2012, el cual hace alusión a las atribuciones de dicha Comisión, previstas en los artículos 37 al 60 del Reglamento Interior de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, publicado en el Diario Oficial de la Federación el 10 de julio de 2001.
+
+OCTAVO. Se abroga el Acuerdo por el que se delega en la persona titular de la Dirección General de Programación, Presupuesto y Finanzas de la Secretaría de Agricultura y Desarrollo Rural, la facultad que se indica, publicado en el Diario Oficial de la Federación el 27 de agosto de 2025.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Reglamento, así como las modificaciones a las atribuciones conferidas a la estructura orgánica de la Secretaría de Agricultura y Desarrollo Rural, deberán cubrirse con cargo a su presupuesto aprobado para el presente ejercicio fiscal y subsecuentes, debiendo realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, toda vez que no se autorizarán ampliaciones al presupuesto regularizable de dicha dependencia.
+
+DÉCIMO. La Secretaría de Agricultura y Desarrollo Rural, por conducto de la Comisión Nacional de Acuacultura y Pesca, continuará otorgando permisos y autorizaciones en materia de acuacultura y pesca, atendiendo a la Ley General de Pesca y Acuacultura Sustentables, la norma reglamentaria aplicable, los acuerdos administrativos que expida la persona titular de la Secretaría de Agricultura y Desarrollo Rural; así como las instrucciones de carácter técnico administrativo, sistemas y procedimientos que establezca la persona titular de la Comisión.
