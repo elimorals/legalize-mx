@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-ingresos-del-estado-de-zacatecas-para-el-ejercicio-17584
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2024-12-28"
-last_updated: "2024-12-28"
+last_updated: "2025-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175842&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2025
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2026, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2025
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en el Suplemento del Número 104 del Periódico Oficial del Estado de Zacatecas, el sábado 28 de diciembre de 2024.
 
@@ -836,3 +838,45 @@ DADO en la Sala de Sesiones de la Honorable Sexagésima Quinta Legislatura del E
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 DADO en el Despacho del Poder Ejecutivo del Estado, a los veintisiete días del mes de diciembre del año dos mil veinticuatro. GOBERNADOR DEL ESTADO.- DAVID MONREAL ÁVILA. SECRETARIO GENERAL DE GOBIERNO.- RODRIGO REYES MUGÜERZA. Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2026”.]
+
+PRIMERO. La presente Ley de Ingresos del Estado de Zacatecas para el ejercicio fiscal 2026, previa publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas entrará en vigor el día primero de enero del año dos mil veintiséis; y bajo el principio de reconducción presupuestal estará vigente en tanto no se apruebe su similar del ejercicio fiscal 2027.
+
+SEGUNDO. Se abroga la Ley de Ingresos del Estado de Zacatecas para el ejercicio fiscal 2025, contenida en el Decreto #23, publicado el 28 de diciembre de 2024, en el Suplemento número 3 al número 104 del Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+TERCERO. Los ingresos que perciba o recaude el Estado de Zacatecas, se acreditarán mediante el Comprobante Fiscal Digital por Internet (CFDI) o cualquier otra documentación impresa o digital que expida la Secretaría de Finanzas o los Organismos Descentralizados de la Administración Pública Estatal, según el caso conforme a las disposiciones jurídicas aplicables y a las reglas que para esos efectos establezca la propia Secretaría de Finanzas.
+
+CUARTO. Las Participaciones y los Fondos de Aportaciones Federales establecidos en el Artículo 1 de esta Ley, se presentan con un monto estimado, los cuales se ajustarán con base en las publicaciones oficiales que para esos efectos realice la Secretaría de Hacienda y Crédito Público.
+
+QUINTO. Derivado de las resoluciones o las sentencias dictadas y que se lleguen a dictar por los órganos jurisdiccionales competentes, favorables al Gobierno del Estado, respecto de los Impuestos Ecológicos, establecidos en el Capítulo Primero del Título Segundo de la Ley de Hacienda del Estado de Zacatecas, se faculta al Titular del Ejecutivo del Estado, a través de la Titular de la Secretaría de Finanzas, a llevar a cabo Acuerdos de Pago Definitivo respecto de los adeudos de los contribuyentes correspondientes a los ejercicios 2026 y anteriores, los cuales, inclusive aquellos celebrados y suscritos en ejercicios anteriores, deberán ser ratificados con la intervención de la Comisión Estatal de la Defensa del Contribuyente, con los efectos a que se refiere el artículo 158 bis del Código Fiscal del Estado de Zacatecas y sus Municipios.
+
+Para efectos del artículo 101-Bis del Código Fiscal del Estado de Zacatecas y sus Municipios, no serán sujetos de la obligación de presentar dictamen del cumplimiento de sus obligaciones fiscales, aquellas personas físicas, morales o unidades económicas que hayan celebrado un Acuerdo de Pago Definitivo en los términos referidos en el párrafo anterior, respecto de los ejercicios convenidos.
+
+Los contribuyentes que no hayan interpuesto algún recurso para controvertir los impuestos establecidos en el párrafo primero del presente artículo, y que promuevan ante la Secretaría de Finanzas su petición de auto regularizarse, tendrán los beneficios señalados con anterioridad.
+
+Así también, los contribuyentes que durante los ejercicios fiscales 2021, 2022, 2023, 2024, y 2025 hubiesen llevado a cabo los Acuerdos establecidos en los párrafos anteriores, gozarán de la validez y beneficios establecidos en el presente artículo.
+
+SEXTO. Por lo que hace al importe a recaudar por concepto de incentivo fiscal proveniente de los ingresos derivados de los Créditos Fiscales Federales firmes a cargo de los Entes Públicos del Estado, recuperados en cobro coactivo de conformidad con lo dispuesto por la Cláusula Décimo Séptima del Convenio de Colaboración Administrativa en Materia Fiscal Federal, este se podrá destinar como apoyo adicional en carácter de ampliación presupuestal al Ente que lo genere.
+
+SÉPTIMO. Se faculta al Titular del Ejecutivo del Estado, a través de la Titular de la Secretaría de Finanzas, a llevar a cabo Convenios de Estabilidad Fiscal como Instrumentos de Desarrollo Económico, de acuerdo con las disposiciones fiscales, la legislación aplicable en materia de fomento para el desarrollo económico e inversión para el Estado de Zacatecas.
+
+OCTAVO. Con el propósito de fomentar y estimular el cumplimiento de los contribuyentes, respecto de sus obligaciones por adeudos fiscales y los originados por multas, sanciones impuestas por autoridades no fiscales, que sean provenientes del Estado, queda autorizada la titular de la Secretaría de Finanzas para reducirlas con independencia del ejercicio que lo originó, así como de la actualización, recargos, multas fiscales y no fiscales, y gastos de ejecución ordinarios, en los porcentajes plazos y condiciones que se considere conveniente.
+
+NOVENO. Los datos, cifras y manifestaciones presentadas en los Anexos 1, 2 y 3 del presente Decreto, son parte integrante de la Ley de Ingresos del Estado de Zacatecas para el ejercicio fiscal 2026, en cumplimiento con lo establecido en la Ley de Austeridad, Disciplina y Responsabilidad Financiera del Estado de Zacatecas y sus Municipios, así como a los lineamientos establecidos por el Consejo Nacional de Armonización Contable (CONAC).
+
+DÉCIMO. La Secretaría de Finanzas estará facultada para otorgar ampliaciones presupuestales a los Entes Públicos, previo análisis, viabilidad financiera y presupuestal, para cubrir sus adeudos fiscales, hasta por un monto que no exceda lo que efectivamente se entere, con base en lo siguiente:
+
+I. Impuesto Sobre Nóminas. De conformidad con lo previsto en el Primer párrafo del artículo 33 Bis de la Ley de Coordinación y Colaboración Financiera del Estado de Zacatecas y sus Municipios.
+
+II. Impuesto Sobre la Renta por Sueldos y Salarios. De conformidad con lo previsto en el Artículo 3-B de la Ley de Coordinación Fiscal.
+
+III. Créditos Fiscales definitivos del Servicio de Administración Tributaria. - De conformidad con lo previsto en la Cláusula Décima Séptima del Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado con la Secretaría de Hacienda y Crédito Público.
+
+La ampliación presupuestal establecida en el primer párrafo del presente artículo será considerada de acuerdo con lo establecido en el Artículo Noveno de las disposiciones transitorias del Decreto de Presupuesto de Egresos del Estado de Zacatecas para el Ejercicio Fiscal 2026.
+
+DÉCIMO PRIMERO. Se faculta al Titular del Ejecutivo del Estado, a través de la Titular de la Secretaría de Finanzas, para realizar la cancelación contable de adeudos de los Entes Públicos, originados en el ejercicio fiscal 2024 y anteriores, siempre y cuando se cumpla con lo establecido por dicha Secretaría.
