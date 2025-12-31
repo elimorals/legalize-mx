@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-tepakan-yucatan-132532"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-29"
-last_updated: "2018-12-29"
+last_updated: "2025-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE TEPAKAN, YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO ÚNICO DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE TEPAKÁN, YUCATÁN, PUBLICADA EN EL D.O. DE 31 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE HACIENDA PARA EL MUNICIPIO DE TEPAKÁN, YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en el Suplemento II al Número 33,762 del Diario Oficial del Estado de Yucatán, el sábado 29 de diciembre de 2018.
 
@@ -1682,3 +1684,19 @@ LICENCIADO JOSÉ ALFONSO LOZANO POVEDA, DIRECTOR DEL DIARIO OFICIAL DEL GOBIERNO
 QUE LAS PRESENTES COPIAS CONSISTENTES DE CIENTO CINCUENTA Y NUEVE FOJAS ÚTILES, SON FIEL REPRODUCCIÓN DEL ORIGINAL QUE TUVE A LA VISTA, DEL SUPLEMENTO 11 DE LA EDICIÓN NÚMERO 33,762 DE FECHA 29 DE DICIEMBRE DEL AÑO 2018.--------------------------------------------
 
 SE EXPIDE LA PRESENTE CERTIFICACIÓN EN LA CIUDAD DE MÉRIDA, CAPITAL DEL ESTADO DE YUCATÁN, A LOS VEINTINUEVE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL DIECIOCHO. ----------------------------------------
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE HACIENDA PARA EL MUNICIPIO DE TEPAKÁN, YUCATÁN”.]
+
+###### ARTÍCULO ÚNICO.
+
+Se abroga la Ley de Hacienda del Municipio de Tepakán, Yucatán publicada en el Diario Oficial del Gobierno del Estado el día 29 de Diciembre de 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 150/2025 POR EL QUE SE EMITEN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE CANSAHCAB, CHANKOM, CHICHIMILÁ, HOCTÚN, HUNUCMÁ, KANASÍN, KOPOMÁ, MUXUPIP, TAHDZIÚ, TEKANTÓ, TEPAKÁN, TETIZ, TIXCACALCUPUL, TIXPÉUAL, UAYMA, UMÁN Y VALLADOLID, TODAS DEL ESTADO DE YUCATÁN”.]
+
+Entrada en vigor
+
+Artículo único. Este Decreto, entrará en vigor el primero de enero del año 2026, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
