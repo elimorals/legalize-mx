@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-cansahcab-yucatan-65465"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-29"
-last_updated: "2024-12-30"
+last_updated: "2025-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65465&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -29,7 +29,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE CANSAHCAB, YUCATAN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2024 (ABROGADA).
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 29 de diciembre de 2008.
 
@@ -1436,3 +1436,21 @@ TRANSITORIO DEL DECRETO
 Entrada en vigor
 
 Artículo único. Este Decreto, entrará en vigor el primero de enero del año 2025, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE HACIENDA DEL MUNICIPIO DE CANSAHCAB, YUCATÁN”.]
+
+Supletoriedad de la Ley
+
+Artículo Primero.- En lo no previsto por la Ley de Hacienda del Municipio de Cansahcab, Yucatán contenida en este Decreto, se aplicará supletoriamente lo establecido por el Código Fiscal del Estado de Yucatán y a falta de disposición expresa en este último, se estará a lo dispuesto en el Código Fiscal de la Federación.
+
+Abrogación
+
+Artículo Segundo.- Se abroga la Ley de Hacienda del Municipio de Cansahcab, Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el 29 de diciembre de 2008, mediante Decreto número 155.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 150/2025 POR EL QUE SE EMITEN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE CANSAHCAB, CHANKOM, CHICHIMILÁ, HOCTÚN, HUNUCMÁ, KANASÍN, KOPOMÁ, MUXUPIP, TAHDZIÚ, TEKANTÓ, TEPAKÁN, TETIZ, TIXCACALCUPUL, TIXPÉUAL, UAYMA, UMÁN Y VALLADOLID, TODAS DEL ESTADO DE YUCATÁN”.]
+
+Entrada en vigor
+
+Artículo único. Este Decreto, entrará en vigor el primero de enero del año 2026, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
