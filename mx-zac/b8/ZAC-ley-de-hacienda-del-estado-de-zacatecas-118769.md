@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-del-estado-de-zacatecas-118769"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2024-12-28"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -101,13 +101,17 @@ XVI. Unidades Económicas: las empresas, las sucesiones, los fideicomisos y las 
 
 XVII. Anfitrión: Nombre que se le asigna a la persona física o moral que brinda servicios de hospedaje en inmuebles de propiedad, posesión, administración, en forma total o parcial, a través de una plataforma digital;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-XVIII. Plataforma Digital: Programas descargables en teléfonos móviles o instrumentos electrónicos a través de las cuales se descargan o reciben datos o comunicaciones de voz y que para efectos de la presente Ley, permite a la persona física o moral propietaria o usuaria de la misma, administrar y operar en su carácter de gestor, promotor, intermediario, facilitador o cualquier otro carácter análogo, permitiendo contratar los servicios ofrecidos, y
+XVIII. Plataforma Digital: Programas descargables en teléfonos móviles o instrumentos electrónicos a través de las cuales se descargan o reciben datos o comunicaciones de voz y que para efectos de la presente Ley, permite a la persona física o moral propietaria o usuaria de la misma, administrar y operar en su carácter de gestor, promotor, intermediario, facilitados (sic) o cualquier otro carácter análogo, permitiendo contratar servicios ofrecidos;
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-XIX. Vehículos: se entiende los terrestres y marítimos o fluviales, entre otros, los automóviles, ómnibus, camionetas pick up, camiones, minibuses, microbuses, autobuses integrales, tractores no agrícolas tipo quinta rueda, motocicletas, bicimotos, cuatrimotos, motonetas y triciclos automotores, embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas, tablas de oleaje con motor, vehículos con motor de combustión interna o con motor accionado por hidrógeno, eléctricos, mixtos o híbridos y automóviles blindados.
+XIX. Vehículos: se entiende los terrestres y marítimos o fluviales, entre otros, los automóviles, ómnibus, camionetas pick up, camiones, minibuses, microbuses, autobuses integrales, tractores no agrícolas tipo quinta rueda, motocicletas, bicimotos, cuatrimotos, motonetas y triciclos automotores, embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas, tablas de oleaje con motor, vehículos con motor de combustión interna o con motor accionado por hidrógeno, eléctricos, mixtos o híbridos y automotores blindados, y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XX. RECURSOS PÚBLICOS ESTATALES Y/O LOCALES: Son los recursos presupuestarios percibidos por impuestos, contribuciones de mejoras, derechos, productos y aprovechamientos, incluidos los recibidos por venta de bienes y prestación de servicios, los demás previstos en términos de las disposiciones aplicables, previstos en la Ley de Ingresos y en el Presupuesto de Egresos, así como los ingresos de libre disposición, tales como las participaciones que señala la Ley de Coordinación Fiscal y que serán administrados y ejercidos conforme a las leyes del Estado.
 
 ###### ARTÍCULO 3.
 
@@ -1871,25 +1875,25 @@ i) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2022)
 
 IV. La unidad de legalización de firmas adscritas a la Coordinación General Jurídica:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-a) Certificado de estudio. $180.00
+a) Certificado de estudio. $182.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-b) Título profesional. $180.00
+b) Título profesional. $182.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-c) De cualquier materia. $180.00
+c) De cualquier materia. $182.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-d) Notarios públicos. $180.00
+d) Notarios públicos. $182.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-e) Apostilla de documentos. $450.00
+e) Apostilla de documentos. $455.00
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -1903,9 +1907,9 @@ VI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2022)
 
 VII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2022)
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-VIII. Por servicios de publicación, por palabra de Aviso judicial, administrativo, edicto, notificación y otros actos que se publiquen conforme a disposiciones legales, causarán la siguiente cuota de inserción. $2.00
+VIII. Por servicios de publicación, por palabra de Aviso judicial, administrativo, edicto, notificación y otros actos que se publiquen conforme a las disposiciones legales, causarán la siguiente cuota de inserción. $2.20
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
@@ -2269,9 +2273,7 @@ f) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 g) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTE PÁRRAFO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO [N. DE E. REPUBLICADA SU DEROGACIÓN], P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 > <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2455,9 +2457,9 @@ Del ingreso percibido por concepto de servicios catastrales, un 5% será destina
 
 Los servicios que presten por concepto de:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-I. Calificación Registral, por testimonio o documento $70.00
+I. Calificación Registral, por testimonio o documento. $74.00
 
 II. Inscripción de documentos relativos a bienes inmuebles:
 
@@ -2465,17 +2467,17 @@ II. Inscripción de documentos relativos a bienes inmuebles:
 
 a) Tratándose de inmuebles con valor de:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-1. Hasta $250,000.00, se cubrirá una cuota de $2,500.00, por inmueble.
+1. Hasta $250,000.00, se cubrirá una cuota de $2,625.00, por inmueble.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-2. De $250,001.00 y hasta $800,000.00, se cubrirá una cuota de $3,500.00, por inmueble.
+2. De $250,001.00 y hasta $800,000.00, se cubrirá una cuota de $3,675.00, por inmueble.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-Cuando el valor del inmueble sea superior al valor de referencia establecido en el párrafo anterior, se cubrirá la cantidad de $4,000.00 por inmueble. Para efectos del valor establecido en el párrafo anterior, éste será el mayor entre el avaluó practicado por la Dirección de Catastro y Registro Público y el documento sujeto de inscripción.
+Cuando el valor del inmueble sea superior al valor de referencia establecido en el numeral anterior, se cubrirá la cantidad de $4,200.00 por inmueble. Para efectos del valor establecido en el párrafo anterior, éste será el mayor entre el avalúo practicado por la Dirección de Catastro y Registro Público y el documento sujeto de inscripción.
 
 b) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
@@ -2529,87 +2531,113 @@ c) Para los efectos de este capítulo se equiparan a la compraventa los siguient
 
 17. Tratándose de títulos otorgados por el Instituto Nacional del Suelo Sustentable e Instituto del Fondo Nacional de la Vivienda para los Trabajadores y otras instituciones oficiales similares, o por los programas que se instituyan en su lugar.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-III. Diligencias de apeo y deslinde: $423.00
+III. Diligencias de apeo y deslinde: $444.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-IV. Capitulaciones matrimoniales: $423.00
+IV. Capitulaciones matrimoniales: $444.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-V. En la inscripción del régimen de propiedad en condominio, por cada departamento, despacho, vivienda, local, cajón de estacionamiento o cualquier otro tipo de unidades privativas: $423.00
+V. En la inscripción del régimen de propiedad en condominio, por cada departamento, despacho, vivienda, local, cajón de estacionamiento o cualquier otro tipo de unidades privativas: $444.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-VI. Fusión de predios, por cada uno de los predios fusionados: $ 141.00
+VI. Fusión de predios, por cada uno de los predios fusionados: $148.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-VII. Actos, contratos, convenios o autorizaciones por los que se fraccione, lotifique o subdivida un predio, por cada lote o fracción: $141.00
+VII. Actos, contratos, convenios o autorizaciones por los que se fraccione, lotifique o subdivida un predio, por cada lote o fracción: $148.00
 
 VIII. Por la inscripción y anotación relativa a la limitación o gravamen de la propiedad y posesión de inmuebles, se tasará al 0.35% sobre el valor de limitación o gravamen, cuando no se determine o no se inserte éste, se tasarán, tratándose de actos o contratos de la forma siguiente:
 
 a) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-b) Constitución o sustitución de garantías reales, cesión de garantías u obligaciones reales. $1,302.00
+b) Constitución o sustitución de garantías reales, cesión
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+de garantías u obligaciones reales. $1,367.00
 
-c) Subrogación de garantía, cesión de garantías u obligaciones reales. $1,302.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+c) Subrogación de garantía, cesión de garantías u
 
-d) Comodato o convenios judiciales. $1,302.00
+obligaciones reales. $1,367.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-e) Demandas o resoluciones que limiten el derecho de propiedad o posesión. $1,302.00
+d) Comodato o convenios judiciales $1,367.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-f) Fideicomiso de afectación o administración en garantía y en el que el o los fideicomitentes, se reserven expresamente la propiedad. $1,302.00
+e) Demandas o resoluciones que limiten el derecho
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+de propiedad o posesión. $1,367.00
 
-g) El cumplimiento de condiciones suspensivas a que se haya sujetado la transmisión de la propiedad. $1,302.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+f) Fideicomiso de afectación o administración en
 
-h) Fianzas. $1,302.00
+garantía y en el que el o los fideicomitentes, se
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+reserven expresamente la propiedad. $1,367.00
 
-i) Prendas sobre crédito inscrito. $1,302.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+g) El cumplimiento de condiciones suspensivas a que
 
-j) Prenda de frutos pendientes. $1,302.00
+se haya sujetado la transmisión de la propiedad. $1,367.00
 
-k) Uso, usufructo, servidumbre y contratos de crédito refaccionario, de habilitación y avío celebrado entre particulares. $1,302.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+h) Fianzas. $1,367.00
 
-l) División de copropiedad, por cada uno de los predios resultantes. $1,302.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+i) Prenda sobre crédito inscrito. $1,367.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+j) Prenda de frutos pendientes. $1,367.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+k) Uso, usufructo, servidumbre y contratos de crédito
+
+refaccionario, de habilitación y avío celebrado entre
+
+particulares. $1,367.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+l) División de copropiedad por cada uno de los
+
+predios resultantes. $1,367.00
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
 m) Constitución de Créditos Agrícolas se tasará al 0.10% sobre el valor del crédito.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-IX. Por el registro de cédula hipotecaria, embargo judicial o administrativo, cuando el monto total de lo reclamado sea hasta por la cantidad de $250,000.00, se cubrirá la cantidad de: $1,500.00
+IX. Por el registro de cédula hipotecaria, embargo
+
+judicial o administrativo, cuando el monto total de lo
+
+reclamado sea hasta por la cantidad de $250,000.00,
+
+se cubrirá la cantidad de: $1,575.00
 
 Para inscripciones cuyo monto rebase el rango de valor establecido en el párrafo anterior, se aplicará la tarifa adicional del 1.0% al monto excedente.
 
 X. Contrato de promesa de venta, se tasará al 0.4 % sobre el valor que se manifieste en el documento.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-XI. Contrato de apertura de crédito $1,000.00
+XI. Contrato de apertura de crédito: $1,050.00
 
 > <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2020)</small>
 
@@ -2623,9 +2651,13 @@ XII. Créditos hipotecarios, refaccionarios, de habilitación y avío otorgados 
 
 Tratándose de reestructuración de crédito o de convenios de reconocimiento de adeudo, en caso de que se incremente el monto establecido en el contrato inicial, se pagará sobre el diferencial entre el registrado y el que contenga la reestructura o el convenio de reconocimiento del adeudo.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-En el supuesto a que se refiere el párrafo anterior, no se incremente el adeudo, o bien, se modifique alguna otra circunstancia se pagará la cantidad de: $3,169.00
+En el supuesto a que se refiere el párrafo anterior,
+
+no se incremente el adeudo, o bien, se modifique
+
+alguna otra circunstancia se pagará la cantidad de: $3,327.00
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
@@ -2635,9 +2667,11 @@ Créditos hipotecarios, refaccionarios, de habilitación y avío, otorgados por 
 
 En materia de crédito para adquisición de vivienda, por el registro del contrato de hipoteca y crédito simple, se tasará al 0.125% sobre el importe de la operación que se consigne, sin cargo por concepto de contrato de apertura de crédito.
 
-> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-XIII. Inscripción de documentos que contengan los siguientes actos: $1,066.00
+XIII. Inscripción de documentos que contengan
+
+los siguientes actos: $1,119.00
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2677,17 +2711,23 @@ c) Compraventa;
 
 d) Compraventa con reserva de dominio se tasará sobre el valor o en el documento; a falta de éste sobre el avalúo que practique la Secretaria de Finanzas.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-XV. Registro de personas morales o aumento de su capital social, siempre y cuando el capital no exceda de $392,800.00 se pagará la cantidad de: $1,506.00
+XV. Registro de personas morales o aumento de su
+
+capital social, siempre y cuando el capital no exceda
+
+de $392,800.00 se pagará la cantidad de: $1,581.00
 
 > <small>(REFORMAD0, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 Para Inscripciones cuyo monto rebase el rango del valor establecido en esta fracción, se aplicará la tarifa adicional del 1 %, al monto del excedente.
 
-> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-XVI. Registro de documentos que contengan los siguientes actos: $1,058.00
+XVI. Registro de documentos que contengan
+
+los siguientes actos: $1,111.00
 
 a) Disolución de personas morales;
 
@@ -2701,79 +2741,101 @@ d) Modificación al pacto social constitutivo;
 
 e) Registro de emisiones de acciones, cédulas, obligaciones o certificados de participación, depósito o de copias autorizadas por balance, transformación de sociedades y en general otros actos inscribibles;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-XVII. Cancelación de inscripción o anotación: $300.00
+XVII. Cancelación de inscripción o anotación: $315.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-XVIII. Registro de instrumentos notariales celebrados ante fedatarios públicos de otras Entidades Federativas, con consecuencias jurídicas en el Estado, adicionalmente al monto de derechos que cause el acto: $4,000.00
+XVIII. Registro de instrumentos notariales celebrados
+
+ante fedatarios públicos de otras Entidades Federativas,
+
+con consecuencias jurídicas en el Estado, adicionalmente
+
+al monto de derechos que cause el acto: $4,200.00
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 XIX. Por la inscripción de documentos, expedición de certificados o de copias certificadas, solicitadas para entrega urgente, y que se expedirán en dos días hábiles; adicionalmente al pago de los derechos que corresponden, se cobrará:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-a) Inscripción de documentos a excepción de fraccionamientos urbanos $1,815.00
+a) Inscripción de documentos a excepción de
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+fraccionamientos urbanos. $1,906.00
 
-b) Expedición de copias y certificados $527.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+b) Expedición de copias y certificados. $553.00
 
-XX. Por el registro del contrato de arrendamiento, subarrendamiento o cesión de arrendamiento, se tasará al 0.35% la cantidad que dé como resultado el multiplicar la renta mensual por los años de duración de dicho contrato, en caso de que no se determine el monto del contrato, se cubrirá la cuota de: $1,365.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+XX. Por el registro del contrato de arrendamiento,
+
+subarrendamiento o cesión de arrendamiento, se tasará
+
+al 0.35% la cantidad que dé como resultado el multiplicar
+
+la renta mensual por los años de duración de dicho
+
+contrato, en caso de que no se determine el monto del
+
+contrato, se cubrirá la cuota de: $1,433.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 103.
 
-Inscripción de contrato innominado: $3,500.00
+Inscripción de contrato innominado: $3,675.00
 
 ###### ARTÍCULO 104.
 
 Expedición de certificado de:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-I. No propiedad: $367.00
+I. No propiedad: $385.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-II. Inscripción o no inscripción: $367.00
+II. Inscripción o no inscripción: $385.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-III. Libertad de gravamen: $260.00
+III. Libertad de gravamen: $273.00
 
-> <small>(REFORMADA [N. DE E. CON SU INCISO], P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-IV. Existencia de gravamen: $260.00
+IV. Existencia de un gravamen: $273.00
 
-a) Por cada gravamen excedente: $65.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+a) Por cada gravamen excedente: $68.00
 
 V. Certificado de Historial registral:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-a) Hasta 5 fojas. $356.00
+a) Hasta 5 fojas. $374.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-b) Por cada foja excedente. $22.00
+b) Por cada foja excedente. $23.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-VI. Certificado de Limitación o de Anotación. $356.00
+VI. Certificado de Limitación o de Anotación. $374.00
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-VII. Expedición de Certificado con Aviso Pre-preventivo y/o Preventivo. $560.00
+VII. Expedición de Certificado con Aviso Pre-preventivo
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+y/o Preventivo. $588.00
 
-VIII. Expedición de Certificado de única propiedad. $367.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+VIII. Expedición de Certificado de única propiedad. $385.00
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2787,23 +2849,23 @@ I. Existente en libros:
 
 a) Certificadas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-1. Hasta cinco fojas: $474.00
+1. Hasta cinco fojas: $498.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-2. Por cada foja excedente $22.00
+2. Por cada foja excedente: $23.00
 
 b) Simples
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-1. Hasta cinco fojas: $238.00
+1. Hasta cinco fojas: $250.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-2. Por cada foja excedente: $19.00
+2. Por cada foja excedente: $20.00
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2811,23 +2873,23 @@ II. En el archivo del apéndice:
 
 a) Certificadas
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-1. Hasta cinco fojas $550.00
+1. Hasta cinco fojas: $578.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-2. Por cada foja excedente: $ 21.00
+2. Por cada foja excedente: $22.00
 
 b) Simples
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-1. Hasta cinco fojas: $270.00
+1. Hasta cinco fojas: $284.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-2. Por cada foja excedente: $19.00
+2. Por cada foja excedente: $20.00
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2835,35 +2897,35 @@ III. Expedidas del sistema electrónico:
 
 a) Certificadas
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-1. Hasta cinco fojas $440.00
+1. Hasta cinco fojas: $462.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-2. Por cada foja excedente $20.00
+2. Por cada foja excedente: $21.00
 
 b) Simples
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-1. Hasta cinco fojas: $270.00
+1. Hasta cinco fojas: $284.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-2. Porcada foja excedente $19.00
+2. Por cada foja excedente: $20.00
 
-((REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 106.
 
-Ratificación o certificación de firmas: $356.00
+Ratificación o certificación de firmas: $374.00
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 107.
 
-Cuando de un mismo título se consignen dos o más actos jurídicos, por cada acto: $356.00
+Cuando de un mismo título se consignen dos o más actos jurídicos, por cada acto: $374.00
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2879,13 +2941,13 @@ Del ingreso percibido por concepto del pago de derechos por los servicios de Cat
 
 ARTÍCULO 107 BIS. (DEROGADO, P.O. 30 DE DICIEMBRE DE 2020)
 
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-ARTÍCULO 107 TER. Por los servicios de certificados y copias que se soliciten en materia de catastro y registro público, cuando los antecedentes a que se refiera se encuentren fuera del distrito de la capital del Estado y solicitado en la Jefatura del Registro Público, se cobrará una tarifa adicional por documento equivalente a: $948.00
+ARTÍCULO 107 TER. Por los servicios de certificados y copias que se soliciten en materia de catastro y registro público, cuando los antecedentes a que se refiera se encuentren fuera del distrito de la capital del Estado y solicitado en la Jefatura del Registro Público, se cobrará una tarifa adicional por documento equivalente a: $995.00
 
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-ARTÍCULO 107 QUÁTER. Consulta en la base de datos electrónica, realizada vía remota, por cada inscripción: $238.00
+ARTÍCULO 107 QUÁTER. Consulta en la base de datos electrónica, realizada vía remota, por cada inscripción: $250.00
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -3167,31 +3229,33 @@ Los servicios que presten por concepto de:
 
 I. Por registro con vigencia de un año en el padrón:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-a) De proveedores. $720.00
+a) De proveedores. $752.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-b) De contratistas. $1,020.00
+b) De contratistas. $1,066.00
 
 II. Por revalidación del registro con vigencia de un año:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-a) De proveedores. $510.00
+a) De proveedores. $533.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-b) De contratistas. $720.00
+b) De contratistas. $752.00
 
 ###### ARTÍCULO 113.
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-ARTÍCULO 113 BIS. Por el servicio de vigilancia, inspección y control de las obras públicas y servicios relacionados con las mismas que las leyes de la materia encomiendan a la Secretaría de la Función Pública, los contratistas con quienes se celebren contratos de obra pública y de servicios relacionados con la misma, financiadas con recursos provenientes de ingresos propios, pagarán un derecho equivalente al cinco al millar sobre el importe de cada una de las estimaciones.
+ARTÍCULO 113 BIS. Por el servicio de vigilancia, inspección y control de las obras públicas y servicios relacionados con las mismas que las leyes de la materia encomiendan a la Secretaría de la Función Pública, los contratistas con quienes se celebren contratos de obra pública y de servicios relacionados con la misma, financiadas con recursos públicos estatales y/o locales, pagarán un derecho equivalente al cinco al millar sobre el importe de cada una de las estimaciones.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
 La Secretaría de Finanzas y los Organismos Públicos Descentralizados, al hacer el pago de las estimaciones de obra y de servicios relacionados con la misma, retendrán el importe del derecho a que se refiere el párrafo anterior, y estos últimos lo enterarán a la Secretaría.
 
@@ -3201,7 +3265,9 @@ La Secretaría de Finanzas y los Organismos Públicos Descentralizados, al hacer
 
 Los servicios prestados por concepto de:
 
-I. Expedición y/o validación de certificado, título profesional, diploma de especialidad o grado académico de egresados de instituciones educativas estatales o incorporadas:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+I. Expedición y/o validación de certificado, título profesional, diploma de especialidad o grado académico de egresados de instituciones educativas estatales o incorporadas de nivel superior:
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
@@ -3579,9 +3645,9 @@ LV. Práctica de examen a título de suficiencia de Nivel Medio Superior, Academ
 
 LVI. Servicios complementarios de los Subsistemas de Preparatoria Abierta y Bachillerato a Distancia:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-a) Por la emisión de Duplicado de Credencial. $55.00
+a) Por la emisión de Duplicado de Credencial. $57.00
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
@@ -3591,13 +3657,15 @@ b) Por expedición de Historial Académico. $11.00
 
 c) Por expedición de Constancias. $40.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-d) Por Solicitud de Examen. $93.00
+d) Por Solicitud de Examen. $98.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-e) Por expedición de Duplicado de certificado de terminación de estudios. $70.00
+e) Por expedición de Duplicado de certificado de
+
+terminación de estudios. $73.00
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
@@ -3610,6 +3678,14 @@ LVII. Corrección de certificados de estudios de los Centros de Capacitación pa
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 LVIII. Por solicitud de cambio de actualización de Plan y programas de Estudios de Nivel Superior $3,500.00
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+LIX. Expedición de certificado parcial de estudios de:
+
+a) Secundaria. $32.00
+
+b) Nivel Medio Superior. $43.00
 
 ### CAPÍTULO NOVENO. Servicios de la Secretaría de Administración
 
@@ -3716,6 +3792,12 @@ VI. Expedición de autorización por la prestación de otros servicios relaciona
 VII. Revalidación de los permisos señalados en fracción VI de este artículo: $19,750.00
 
 La autorización y revalidación que refieren las fracciones I y II del presente artículo, serán vigentes por el ejercicio fiscal en que se expidan.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 116 BIS. Por los servicios que preste la Secretaría de Seguridad Pública por concepto de Evaluaciones de Control de Confianza, a través del Centro Estatal de Evaluación y Control de Confianza del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública a las Instituciones de Seguridad Pública, así como a las empresas prestadoras de servicios de seguridad privada.
+
+I. Por la aplicación de cada evaluación. $6,500.00
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -3877,69 +3959,67 @@ XI. Constancia de vigencia o de existencia de licencia de conducir. $330.00
 
 Por la evaluación y emisión del dictamen de impacto ambiental:
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-I. Informe preventivo. $6,400.00
+I. Informe preventivo. $6,720.00
 
 II. Estudio de Impacto Ambiental tipo General:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-a) Con nivel de impacto bajo. $8,400.00
+a) Con nivel de impacto bajo. $8,820.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-b) Con nivel de impacto medio. $8,600.00
+b) Con nivel de impacto medio. $9,030.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-c) Con nivel de impacto alto. $9,800.00
+c) Con nivel de impacto alto. $10,290.00
 
 III. Estudio de Impacto Ambiental tipo Intermedio:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-a) Con nivel de impacto bajo. $10,900.00
+a) Con nivel de impacto bajo. $11,445.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-b) Con nivel de impacto medio. $13,900.00
+b) Con nivel de impacto medio. $14,595.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-c) Con nivel de impacto alto. $19,400.00
+c) Con nivel de impacto alto. $20,370.00
 
 IV. Estudio de Impacto Ambiental Específico:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-a) Con nivel de impacto bajo. $21,000.00
+a) Con nivel de impacto bajo. $22,050.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-b) Con nivel de impacto medio. $26,200.00
+b) Con nivel de impacto medio. $27,510.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-c) Con nivel de impacto alto. $31,700.00
+c) Con nivel de impacto alto. $33,285.00
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-V. Exención de trámite de
+V. Exención de trámite de impacto ambiental. $5,355.00
 
-impacto ambiental. $5,100.00
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 VI. Ratificación y ampliación de
 
-resolución de impacto ambiental $3,100.00
+resolución de impacto ambiental. $3,255.00
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-VII. Estudio de riesgo ambiental. $14,400.00
+VII. Estudio de riesgo ambiental. $15,120.00
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 VIII. Evaluación y resolución de la
 
@@ -3947,167 +4027,201 @@ solicitud de modificación de proyectos
 
 autorizados en materia
 
-de impacto ambiental. $6,500.00
+de impacto ambiental. $6,825.00
 
 ###### ARTÍCULO 121.
 
 Por la prestación de los siguientes servicios:
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-I. Reproducción de material didáctico, ecológico y ambiental. $20.00 por foja.
+I. Reproducción de material didáctico, ecológico
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+y ambiental. $21.00 por foja.
 
-II. Reproducción de material informativo ecológico y ambiental en medio de almacenamiento (USB, Disco Compacto o cualquier otro). $230.00 c/u.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+II. Reproducción de material informativo ecológico
 
-III. Reproducción de material con información ecológico-ambiental disponible en archivos digitalizados o en medio de almacenamiento (USB, CD y otros). $480.00 c/u.
+y ambiental en medio de almacenamiento (USB,
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+Disco Compacto o cualquier otro). $242.00 c/u.
 
-IV. Información de Planos con información ecológico-ambiental. $2,070.00 c/u.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+III. Reproducción de material con información
 
-V. Reproducción de planos con información ecológico-ambiental. $1,275.00 c/u.
+ecológico-ambiental disponible en archivos
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+digitalizados o en medio de almacenamiento
 
-VI. Asesoría, capacitación y materiales sobre ecología y medio ambiente, por cada hora. $1,750.00
+(USB, CD y otros) $504.00 c/u.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-VII. Registro en el Padrón de Prestadores de $2,870.00
+IV. Información de Planos con información
 
-Servicio Ecológico y Ambiental.
+ecológico-ambiental. $2,174.00 c/u.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-VIII. Reproducción en plotter. $1,360.00
+V. Reproducción de planos con información
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+ecológico-ambiental. $1,339.00 c/u.
 
-IX. Autorización por simulacro de incendio. $1,360.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+VI. Asesoría, capacitación y materiales sobre
 
-X. Registro de generadores de residuos de manejo especial. $4,900.00
+ecología y medio ambiente, por cada hora. $1,838.00
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-XI. Trámite de certificación ambiental. $4,000.00
+VII. Registro en el Padrón de Prestadores de
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+Servicio Ecológico y Ambiental $3,014.00
 
-XII. Renovación de Registro de Generadores $3,900.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-de Residuos de Manejo Especial.
+VIII. Reproducción en plotter. $1,428.00
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-XIII. Opinión técnica. $2,700.00
+IX. Autorización por simulacro de incendio. $1,428.00
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-XIV. Licencia Ambiental de Operación. $2,900.00
+X. Registro de generadores de residuos de
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+manejo especial. $5,145.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XI. Trámite de certificación ambiental. $4,200.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XII. Renovación de Registro de Generadores
+
+de Residuos de Manejo Especial $ 4,095.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XIII. Opinión técnica. $2,835.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XIV. Licencia Ambiental de Operación. $3,045.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 XV. Expedición de copias certificadas de
 
-documentos tamaño carta, por cada foja. $16.00
+documentos tamaño carta, por cada foja. $17.00
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-XVI. Evaluación y Resolución de Plan de Manejo $1,950.00
+XVI. Evaluación y Resolución de Plan de Manejo
 
-de Residuos de Manejo Especial de Pequeño Generador (dos años).
+de Residuos de Manejo Especial de Pequeño
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+Generador (dos años) $2,048.00
 
-XVII. Evaluación y Resolución de Plan de Manejo de Residuos de Manejo Especial de Gran Generador (dos años). $5,600.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+XVII. Evaluación y Resolución de Plan de Manejo
 
-XVIII. Modificación de Categoría para los Generadores de Residuos de Manejo Especial (dos años). $500.00
+de Residuos de Manejo Especial de Gran
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+Generador (dos años). $5,880.00
 
-XIX. Modificación del Plan de Manejo de Gran Generador. $380.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+XVIII. Modificación de Categoría para los
 
-XX. Certificación de material con información Ecológico-Ambiental disponible en archivos digitalizados o en medio de almacenamiento (USB, CD y otros) c/u.
+Generadores de Residuos de Manejo
 
-$350.00
+Especial (dos años). $525.00
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-XXI. Constancia de liberación de condicionantes por cumplimiento del resolutivo de impacto ambiental. $2,500.00
+XIX. Modificación del Plan de Manejo de Gran Generador. $399.00
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XX. Certificación de material con información
+
+Ecológico-Ambiental disponible en archivos
+
+digitalizados o en medio de almacenamiento
+
+(USB, CD y otros) c/u $368.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XXI. Constancia de liberación de condicionantes
+
+por cumplimiento del resolutivo de impacto ambiental. $2,625.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 XXII. Oficio designación de procedimiento
 
-al que debe someterse la obra. $200.00
+al que debe someterse la obra $210.00
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-XXIII. Oficio de autorización por el proceso $1,000.00
+XXIII. Oficio de autorización por el proceso
 
-de exploración para un banco de materiales.
+de exploración para un banco de materiales $1,050.00
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-XXIV. Oficio de autorización provisional, de tres meses, para $2,000.00
+XXIV. Oficio de autorización provisional de tres meses,
 
-la extracción de minerales no metálicos.
+para la extracción de minerales no metálicos. $2,100.00
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-XXV. Listado de bancos de materiales por Municipio y Estado. $1,000.00
+XXV. Listado de bancos de materiales por Municipio y Estado. $1,050.00
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ARTÍCULO 121 BIS. Por uso o goce temporal de las salas audiovisuales del Ecoparque Centenario Toma de Zacatecas.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-a) Sala de Centro de Educación Ambiental: $3,300.00
+a) Sala de Centro de Educación Ambiental: $3,465.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-b) Sala de uso múltiple. $2,650.00
+b) Sala de uso múltiple: $2,782.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-c) Sala de Juntas. $1,060.00
+c) Sala de Juntas: $1,113.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-d) Plaza Cívica: $600.00
+d) Plaza Cívica: $630.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-e) Plaza del lago: $600.00
+e) Plaza del lago: $630.00
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ARTÍCULO 121 TER. Por recorrido a casa de la tierra.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-a) Presentaciones casa de
+a) Presentaciones casa de la tierra por persona. $22.00
 
-la tierra por persona. $21.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+b) Presentaciones casa de la tierra por personas
 
-b) Presentaciones casa de la tierra por personas con discapacidad y adultos mayores.
-
-$11.00
+con discapacidad y adultos mayores $12.00
 
 ###### ARTÍCULO 122.
 
@@ -4590,3 +4704,19 @@ Las obligaciones derivadas de la Ley de Hacienda del Estado de Zacatecas respect
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía y contractuales del marco jurídico estatal, en lo que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 248.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS Y DE LA LEY SOBRE BEBIDAS ALCOHÓLICAS PARA EL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil veintiséis, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Respecto al Impuesto Sobre Tenencia o Uso de Vehículos contenido en el Capítulo Cuarto del Título Segundo de la Ley de Hacienda del Estado de Zacatecas, entrará en suspensión de cobro en el ejercicio fiscal 2026. Las obligaciones derivadas de la Ley de Hacienda del Estado de Zacatecas respecto este Impuesto se suspenden conforme a este Decreto, con excepción de las que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en dichos ordenamientos, mismas que deberán ser cumplidas en las formas y plazos establecidos en las disposiciones aplicables.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al presente Decreto.
