@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-fiscalia-general-del-estado-de-sinaloa-12332
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-09-08"
-last_updated: "2025-06-16"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 8 de septiembre de 2017.
 
@@ -1357,6 +1357,16 @@ XXII. Brindar la custodia y protección a las personas y bienes que indique el F
 
 XXIII. Las demás que le confieran otras disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 46 Bis.
+
+Se crea la Unidad de Investigación Cibernética como una corporación policial especializada auxiliar del Ministerio Público, responsable de la prevención, atención, reacción e investigación de los incidentes y delitos que se cometen a través de medios electrónicos o tecnológicos, cuya finalidad es la de incrementar la seguridad de la red pública de internet y proteger la integridad física y patrimonial de la ciudadanía.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Artículo 46 Bis A. El titular de la Unidad de Investigación Cibernética, tendrá nivel de Inspector General de la Policía de Investigación, y dependerá de la Comisaría General y de la Fiscalía General.
+
 ### CAPÍTULO V. DE LOS SERVICIOS PERICIALES
 
 ###### Artículo 47.
@@ -1976,6 +1986,22 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La Fiscalía General del Estado deberá realizar las adecuaciones pertinentes al Reglamento de la Ley Orgánica de la Fiscalía General del Estado de Sinaloa, en un plazo que no deberá exceder de los 90 días posteriores al inicio de vigencia del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 325 QUE ADICIONA LOS ARTÍCULOS 46 BIS Y 46 BIS A, A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo de noventa días posteriores al inicio de vigencia del presente Decreto, la Fiscalía General del Estado deberá adecuar su Reglamento para establecer las atribuciones y competencias de la estructura y demás áreas que se requieran para el funcionamiento de la Unidad de Investigación Cibernética.
 
 ###### ARTÍCULO TERCERO.
 
