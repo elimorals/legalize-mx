@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-sistema-de-seguridad-publica-del-estado-de-morelos-6981
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-24"
-last_updated: "2024-12-11"
+last_updated: "2025-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE MORELOS
 
-(NOTA: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE EL QUE EXPIDE LA LEY DE VIDEOVIGILANCIA PARA EL ESTADO DE MORELOS Y SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS Y DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL DOCE DE AGOSTO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 6 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 24 de agosto de 2009.
 
@@ -3330,3 +3330,21 @@ PRIMERA. Se remite el presente Decreto a la Titular del Poder Ejecutivo del Esta
 SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA. La reforma contenida en el presente Decreto no será aplicable a los integrantes de las instituciones de seguridad pública del Estado de Morelos que hayan sido separados injustificadamente, siempre que cuenten con una resolución del Tribunal correspondiente hasta antes de la publicación de este, y que por ende les haya concedido indemnización por remuneraciones ordinarias diarias o haberes dejados de percibir, superiores a los nueve meses, los que estén en trámite se deben resolver de conformidad con la norma vigente al momento de la admisión de la demanda.
+
+P.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase la presente Ley a la Titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, incisos a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se abroga la Ley del Sistema de Seguridad Pública del Estado de Morelos, publicada en el Periódico Oficial “Tierra y Libertad”, número 4735, de fecha 24 de agosto de 2009.
+
+CUARTA. Se derogan todas las disposiciones de igual o menor rango que se opongan a lo establecido en la presente Ley.
+
+QUINTA. En un plazo no mayor a 180 días hábiles, contados a partir de la entrada en vigor de la presente Ley, se deberá expedir el Reglamento correspondiente. En tanto sucede esto, se mantendrán (sic) vigente el actual en lo conducente y en lo que no se oponga a lo previsto en la presente Ley.
+
+SEXTA. Los asuntos que se encuentren en trámite al momento de la entrada en vigor de la presente Ley, serán resueltos conforme a lo dispuesto por la Ley que se abroga.
+
+SÉPTIMA. Los Ayuntamientos del Estado de Morelos, en un plazo no mayor a 100 días hábiles, contados a partir de la entrada en vigor de la presente Ley, deberán de actualizar sus reglamentos, manuales de organización, operación y funcionamiento, con la finalidad de coadyuvar con el Poder Ejecutivo Estatal, para la implementación establecida en la presente Ley.
