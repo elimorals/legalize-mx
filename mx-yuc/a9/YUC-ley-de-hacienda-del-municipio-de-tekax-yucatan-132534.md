@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-tekax-yucatan-132534"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-29"
-last_updated: "2023-10-24"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE TEKAX DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Suplemento II del Diario Oficial del Estado de Yucatán, el sábado 29 de diciembre de 2018.
 
@@ -619,6 +619,10 @@ A) Local $5,264.00
 
 B) Nacional $7,874.00
 
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+C) Internacional $10,484.00
+
 II. Bailes Populares
 
 A) Local $5,264.00
@@ -626,6 +630,10 @@ A) Local $5,264.00
 B) Nacional con trayectoria
 
 internacional $7,874.00
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+C) Internacional $10,484.00
 
 III.- Carrera de caballos (por evento) $2,339.00
 
@@ -951,23 +959,23 @@ Lo dispuesto en el párrafo anterior no se aplicará a los contribuyentes que, a
 
 En este caso, el nuevo valor consignado en la cédula servirá como base del cálculo del impuesto predial para el siguiente bimestre no cubierto.
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 69.
 
 Tablas de valores catastrales
 
-Para efectos de la determinación del impuesto predial con base en el valor catastral, los valores que corresponden a los inmuebles durante el año 2023 serán los siguientes:
+Para efectos de la determinación del impuesto predial con base en el valor catastral, los valores que corresponden a los inmuebles, serán los siguientes:
 
-> <small>[N. DE E. VÉASE TABLAS DE VALORES CATASTRALES EN EL D.O. DE 30 DE DICIEMBRE DE 2022, PÁGINAS DE LA 53 A LA 54.]</small>
+> <small>[N. DE E. VÉASE TABLAS DE VALORES CATASTRALES EN EL D.O. DE 31 DE DICIEMBRE DE 2025, PÁGINAS DE LA 43 A LA 45.]</small>
 
-El cálculo de la cantidad a pagar se realizará de la siguiente manera: el valor de los predios se situará entre los rangos determinados por los límites inferior y superior; en cada rango se aplicará la cuota señalada para el límite inferior; a la cantidad excedente del límite inferior se aplicará el factor señalado al rango.
+Dependiendo del estado de conservación, la Dirección podrá aplicar un demerito a la construcción, previa visita del perito.
+
+El cálculo de la cantidad a pagar se realizará de la siguiente manera: el valor de los predios se determinará por el valor catastral mínimo, el cual se obtiene al realizar la suma del valor de la superficie del terreno y de la superficie de construcción según aplique al predio por la zona en la que se encuentre ubicada, al rebasar el valor catastral mínimo se le aplicará a la cuota el factor señalado.
 
 El resultado que se obtenga de la suma de estas operaciones determina el impuesto predial del año.
 
-Cuando no se cubra el impuesto en las fecha (sic) o plazos fijados para ello en la Ley de Hacienda del Municipio de Tekax Yucatán, el monto de este se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país por lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar, desde el mes en que debió hacerse el pago y hasta el mes en que el mismo se efectúe.
-
-Dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor que elabora el Instituto Nacional de Estadística y Geografía y se publica en el Diario Oficial de la Federación que corresponda al mes inmediato anterior al más reciente del período entre el citado índice correspondiente al mes inmediato anterior al más antiguo de dicho período. Además de la actualización se pagarán los recargos en concepto de indemnización al Municipio de Tekax, Yucatán por la falta del pago oportuno.
+Cuando no se cubra el impuesto en las fecha (sic) o plazos fijados para ello en la Ley de Hacienda del Municipio de Tekax, Yucatán, se pagarán los recargos en concepto de indemnización al Municipio de Tekax, Yucatán por la falta del pago oportuno.
 
 Los recargos se calcularán aplicando al monto del impuesto debidamente actualizado conforme a lo dispuesto en el párrafo anterior, la tasa que resulte de sumar, las tasas aplicables en cada año, para cada uno de los meses transcurridos, en el periodo de actualización del impuesto.
 
@@ -1027,13 +1035,17 @@ VIII. Los inmuebles cuyo uso o destino sean áreas de donación para la federaci
 
 Los deméritos establecidos en este artículo podrán aplicarse simultáneamente. No obstante, los deméritos establecidos en las fracciones I y II de este artículo se consideran mutuamente excluyentes entre sí, sin perjuicio de que (sic) aplicarse otros deméritos adicionales.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 71.
 
 Tarifa y mínimo
 
-Cuando la base del impuesto predial sea el valor catastral del inmueble, el impuesto se determinará aplicando al valor catastral la tarifa de 0.03%
+El mínimo a pagar de impuesto predial establecido, cuando el cálculo se realice con base en el impuesto predial del inmueble, será equivalente a 1.05 UMA en predios urbanos y rústicos.
 
-El mínimo a pagar de impuesto predial establecido, cuando el cálculo se realice con base en el impuesto predial del inmueble, es por la cantidad de 1.15 UMA.
+El mínimo a pagar de impuesto predial establecido, cuando el cálculo se realice con base en el impuesto predial del inmueble, será equivalente 1.15 UMA en predios comerciales.
+
+El mínimo a pagar de impuesto predial establecido, cuando el cálculo se realice con base en el impuesto predial del inmueble, será equivalente 92.80 UMA en predios industriales o empresas.
 
 ###### Artículo 72.
 
@@ -1055,7 +1067,7 @@ Lugar de pago del impuesto
 
 El pago de impuesto predial se efectuará en la tesorería municipal, en las oficinas autorizadas por el ayuntamiento.
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 73.
 
@@ -1703,21 +1715,25 @@ h) Por los conceptos establecidos en el artículo 107 Bis de este ordenamiento.
 
 (DEROGADO, D.O. 27 DE DICIEMBRE DE 2019)
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 108 Bis.
 
 Para los efectos de este capítulo se entenderá por la clasificación de predios para la aplicación de las tarifas de consumo de agua potable las siguientes:
 
-> <small>[N. DE E. VÉASE TABLA EN EL D.O. 30 DE DICIEMBRE DE 2022, PÁGINA DE LA 58 A LA 59.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. 31 DE DICIEMBRE DE 2025, PÁGINAS DE LA 45 A LA 46.]</small>
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 108 Ter.
 
 Cuotas y tarifas por el consumo de agua potable.
 
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], D.O. 30 DE DICIEMBRE DE 2022)</small>
+
 Por los servicios públicos de agua potable, se pagarán derechos conforme a las siguientes cuotas y tarifas:
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 I. Para el caso de consumo de agua potable para uso doméstico:
 
@@ -1727,6 +1743,8 @@ b) Para aquellos predios que cuentan con medidor volumétrico, cuando el consumo
 
 c) Para aquellos predios que cuentan con medidor volumétrico, cuando el consumo bimestral haya sido superior a cuarenta metros cúbicos, por cada metro cúbico:
 
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
 II. Para el caso de consumo de agua potable para uso comercial o industrial:
 
 a) Para aquellos predios que no cuentan con medidor volumétrico:
@@ -1735,29 +1753,55 @@ b) Para aquellos predios que cuentan con medidor volumétrico, cuando el consumo
 
 c) Para aquellos predios que cuentan con medidor volumétrico, cuando el consumo bimestral haya sido superior a cuarenta metros cúbicos, por cada metro cúbico:
 
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
 III. Para el caso de consumo de agua potable para granjas y establecimientos de alto consumo:
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 IV. Por la conexión a la toma de agua potable:
 
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
 V. Por la reconexión de los servicios de agua potable, con motivo de la reducción o suspensión del servicio por adeudo de las cuotas establecidas en las fracciones I y II:
 
-El cobro de derechos por los servicios de agua potable que proporcione el Ayuntamiento se calculará con base en las siguientes cuotas mensuales fundamentado en el reglamento interno de cuotas y tarifas del Sistema municipal de Agua Potable del municipio de Tekax:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+El cobro de derechos por los servicios de Agua Potable que proporcione el Ayuntamiento se calculará con base en las siguientes cuotas Bimestrales fundamentado en el reglamento interno de cuotas y tarifas del Sistema municipal de Agua Potable del municipio de Tekax:
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 I. Consumo doméstico: $ 40.00
 
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
 II. Consumo doméstico en comisarías: $ 30.00
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 III. Consumo comercial: $ 70.00
 
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
 IV. Consumo industrial: $ 120.00
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 V. Alto consumo: $ 600.00
 
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
 VI. Servicios Generales: $ 300.00
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 VII. Instalación de toma nueva domestica sin medidores: $ 1,200.00
 
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
 VIII. Instalación de nueva toma diferente al doméstico sin medidores: $ 1,300.00
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 IX. Surtido de agua;
 
@@ -1765,39 +1809,79 @@ a) Por domicilio en pipa $ 40.00 mensual para los usuarios con la zona delimitad
 
 b) Servicio de pipa $30 por m3 más combustible de acuerdo con la distancia.
 
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
 X. Constancia de No Adeudo: $ 100.00
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 XI. Convenio administrativo: $ 1,150.00
 
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
 XII. Renovación de Convenio Administrativo: $ 250.00
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 XIII. Constancia de No Servicio: $ 250.00
 
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
 XIV. Constancia de antigüedad o de historial: $100.00
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 XV. Cambio de nombre (Nuevo propietario): $100.00
 
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
 XVI. Constancia de factibilidad: El cobro será el 3% sobre el importe de la infraestructura hidráulica y sanitaria de la obra.
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 XVII. Duplicados de recibos: $15.00
 
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
 XVIII. Regularización del servicio de agua potable doméstico (toma clandestina), más la estimación del promedio de consumo de tres años anteriores con base al tipo de uso del servicio: $1200.00 pesos
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 XIX. Regularización del servicio de agua potable diferente al doméstico (toma clandestina), más las estimaciones del promedio de consumo de tres años anteriores con base al tipo de uso del servicio $1300.00 pesos
 
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
 XX. Traslado de toma doméstico: $1200.00
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 XXI. Traslado de toma diferente al doméstico: $1300.00
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XXII. Copia de documento $5.00 por cada hoja.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
 Por los servicios públicos de agua potable, se pagarán derechos conforme a las siguientes cuotas y tarifas, así como por el reglamento municipal respectivo, por el consumo de agua potable suministrado por el órgano municipal de agua potable:
 
-b (sic)) Las tarifas base para el cobro de los servicios de agua potable para el uso comercial, considerando el consumo determinado de la lectura del medidor serán las siguientes:
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+b (sic)) Las tarifas base para el cobro de los servicios de agua potable para el uso doméstico, considerando el consumo determinado de la lectura del medidor serán las siguientes:
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 30 DE DICIEMBRE DE 2022, PÁGINA 61.]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+En tanto se carezca de medidor en tomas de uso doméstico, se establecerá una cuota con base a un estudio previo efectuado por el personal autorizado por el sistema municipal de agua potable
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 Se entienden por servicios comerciales: Aquellos predios donde se realizan actividades de compra y venta de productos, y/o se prestan servicios al público en general; y el agua se utiliza para la limpieza general de las instalaciones y para el aseo personal de los empleados.
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 30 DE DICIEMBRE DE 2022, PÁGINA 61.]</small>
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 En tanto se carezca de medidor en tomas de uso Comercial, se establecerá una cuota con base a un estudio previo efectuado por el personal autorizado por el sistema municipal de agua potable
 
@@ -1805,23 +1889,39 @@ c) Las tarifas base para el cobro de los servicios de agua potable para el uso i
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 30 DE DICIEMBRE DE 2022, PÁGINA 62.]</small>
 
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
 Se entiende por servicios industriales: Aquellos predios donde se realicen actividades industriales y se utilice el agua para transformar la materia prima en productos terminados, para la limpieza general de las instalaciones y para el aseo personal de los empleados.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 En tanto se carezca de medidor en tomas de uso Industrial se establecerá una cuota con base a un estudio previo efectuado por el personal autorizado por el sistema municipal de agua potable.
 
-d) las tarifas base para el cobro de los servicios de agua potable para el uso de Alto Consumo, considerando el consumo determinado de la lectura del medidor serán las siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+d) Las tarifas base para el cobro de los servicios de agua potable para el uso Hotelero o de Alto Consumo, considerando el consumo determinado de la lectura del medidor serán las siguientes:
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 30 DE DICIEMBRE DE 2022, PÁGINA 62.]</small>
 
-Se entiende por servicios hoteleros: Aquellos predios utilizados por empresas dedicadas a ofrecer alojamiento temporal que utilizan el agua para el aseo personal de sus clientes, para la limpieza general de las instalaciones, elaboración de alimentos y actividades de recreación.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-En tanto se carezca de medidor en tomas de uso hotelero se establecerá una cuota con base a un estudio previo efectuado por el personal autorizado por el sistema municipal de agua potable.
+Se entiende por servicios hoteleros o de alto consumo: Aquellos predios utilizados por empresas dedicadas a ofrecer alojamiento temporal que utilizan el agua para el aseo personal de sus clientes, para la limpieza general de las instalaciones, elaboración de alimentos y actividades de recreación.
 
-e) Las tarifas base para el cobro de los servicios de agua potable para el uso de los servicios Públicos a la comunidad, considerando el consumo determinado de la lectura del medidor, serán las siguientes:
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+En tanto se carezca de medidor en tomas de uso hotelero o de alto consumo se establecerá una cuota con base a un estudio previo efectuado por el personal autorizado por el sistema municipal de agua potable.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+e) Las tarifas base para el cobro de los servicios de agua potable para el uso de los servicios Generales a la comunidad, considerando el consumo determinado de la lectura del medidor, serán las siguientes:
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 30 DE DICIEMBRE DE 2022, PÁGINA 63.]</small>
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
 Se entienden por servicios generales: Aquellos predios utilizados por órganos, dependencias o entidades de la Federación y el Estado para fines de su función pública.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 31 DE DICIEMBRE DE 2025)</small>
 
 En tanto se carezca de medidor en tomas de uso de servicios generales se establecerá una cuota con base a un estudio previo efectuado por el personal autorizado por el sistema municipal de agua potable.
 
@@ -1831,13 +1931,17 @@ Presunción de la prestación del servicio
 
 Para efectos de lo dispuesto en esta sección, se entenderá que el servicio de agua potable se presta con la mera existencia de la toma frente al predio, independientemente de si se hagan o no conexiones.
 
-> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 109 Bis.
 
 Sanciones
 
-Las sanciones que se impongan de conformidad con lo dispuesto en esta sección, deberán ser cubiertas en las oficinas de la caja recaudadora del municipio, dentro del término de quince días contados a partir de la fecha en que las resoluciones respectivas sean notificadas a los responsables. Los cuáles serán determinados según la tabla siguiente, con base a la Ley Orgánica de la Junta de Agua Potable del Estado de Yucatán.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Las sanciones que se impongan de conformidad con lo dispuesto en esta sección, deberán ser cubiertas en las oficinas de la caja recaudadora del municipio, dentro del término de quince días contados a partir de la fecha en que las resoluciones respectivas sean notificadas a los responsables. Los cuáles serán determinados según la tabla siguiente, con base a la Ley Orgánica de la Junta de Agua Potable del Estado de Yucatán y el reglamento interno de Cuotas y Tarifas de los servicios de Agua Potable de municipio de Tekax.
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
 
 SANCIONES
 
@@ -1899,13 +2003,21 @@ Multa por derivación antes del medidor 35
 
 Multa por conexión a hidrantes de bomberos 46
 
-> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 109 Ter.
 
 Otros servicios.
 
-Por otros servicios prestados en el Sistema de Agua Potable y drenaje, distintos al servicio de Consumo, se determinaran con base a las cuotas siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Este enunciado es una confirmación del procedimiento legal y administrativo que la Dirección de Agua Potable debe seguir:
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Si el notificador del Agua Potable, detecta en el servicio un uso diferente al contratado, la tarifa será modificada automáticamente a la clasificación que corresponda, según lo estipulado en el Artículo 108 Bis de la Ley. Pagando la nueva tarifa en la siguiente facturación del servicio.
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
 
 CONTRATATO (SIC) DE TOMA ÚNICA (de 0 a 14 m)
 
@@ -2165,17 +2277,25 @@ I. La superficie total del predio que sea objeto de limpia por parte del persona
 
 II. Tratándose de servicio contratado, la periodicidad y forma en que el servicio deba prestarse de acuerdo con lo estipulado en el contrato.
 
-> <small>(REFORMADO, D.O. 29 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 127.
 
 Tarifa
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
 Los derechos correspondientes al servicio de limpia y recolección de basura se causarán por mes y pagarán de conformidad con la siguiente clasificación:
+
+> <small>(REFORMADA, D.O. 29 DE ABRIL DE 2022)</small>
 
 I.- Por predio habitacional………………………………………………$ 35.00
 
-II.- Por predio comercial tipo A……………………………...…….……$ 106.00
+> <small>(REFORMADA, D.O. 29 DE ABRIL DE 2022)</small>
+
+II.- Por predio comercial tipo A………………………………………$ 106.00
+
+> <small>(REFORMADA, D.O. 29 DE ABRIL DE 2022)</small>
 
 III.- Por predio comercial tipo B…………………………………………$ 140.00
 
@@ -2187,27 +2307,81 @@ IV.- Por predio comercial tipo C…………………………………………
 
 V.- Por predio comercial tipo D…………………………………………$ 292.00
 
-VI.- Por predio comercial tipo E………………………………………...$ 5,264.00
+> <small>(REFORMADA, D.O. 29 DE ABRIL DE 2022)</small>
 
-VII.- Servicio por uso de camión por viaje………………………..……$627.00
+VI.- Por predio comercial tipo E………………………………………$ 5,264.00
+
+> <small>(REFORMADA, D.O. 29 DE ABRIL DE 2022)</small>
+
+VII.- Servicio por uso de camión por viaje…………………………$627.00
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+VIII.- Empresas de alto impacto……………………………………$3,150.00
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+IX.- Empresas de mediano impacto…………………………………$1,582.00
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+X.- Empresas de bajo impacto………………………………………$ 950.00
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XI.- Restaurantes con bebidas alcohólicas…………………………$ 350.00
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XII.- Restaurantes sin venta de bebidas alcohólicas………………………………………………………………$ 250.00
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XIII.- Bancos……………………………………………………………$ 350.00
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 Por el pago anual del servicio de recolección de basura se aplica el 20% de descuento pagando en los meses de enero y febrero.
 
+> <small>(REFORMADO, D.O. 29 DE ABRIL DE 2022)</small>
+
 Para efectos de la presente ley y para la aplicación de este artículo se entenderá por:
+
+> <small>(REFORMADO, D.O. 29 DE ABRIL DE 2022)</small>
 
 Predio habitacional: casa habitación en la que no funcione negocio alguno, ni se le de ningún tipo de giro comercial a la propiedad.
 
+> <small>(REFORMADO, D.O. 29 DE ABRIL DE 2022)</small>
+
 Predio comercial tipo A: predio ocupado como local comercial, en el que esté este (sic) establecido algún negocio o se le dé un tipo de giro comercial a la propiedad, y que genera menos de 10 kilogramos de desperdicios a la semana, sea necesaria la recolecta de basura dos veces por semana.
+
+> <small>(REFORMADO, D.O. 29 DE ABRIL DE 2022)</small>
 
 Predio comercial tipo B: predio ocupado como local comercial, en el que esté establecido algún negocio o se le dé un tipo de giro comercial a la propiedad, y que genera desperdicios orgánicos propensos a descomponerse que no superan los 5 kilogramos diarios y sea necesaria la recolecta de basura todos los días.
 
+> <small>(REFORMADO, D.O. 29 DE ABRIL DE 2022)</small>
+
 Predio comercial tipo C: predio ocupado como local comercial, en el que esté establecido algún negocio o se le dé un tipo de giro comercial a la propiedad, y que genera 10 kilogramos o más de desperdicios inorgánicos por semana y sea necesaria la recolecta de basura dos días a la semana.
+
+> <small>(REFORMADO, D.O. 29 DE ABRIL DE 2022)</small>
 
 Predio comercial tipo D: predio ocupado como financiera de crédito, casa de empeño, institución bancaria, caja de ahorro, asesoría de crédito o servicios financieros.
 
+> <small>(REFORMADO, D.O. 29 DE ABRIL DE 2022)</small>
+
 Predio comercial tipo E: predio ocupado como establecimiento comercial, en el que esté algún negocio o se le dé un tipo de giro comercial a la propiedad, y que genera desperdicios inorgánicos u orgánicos propensos a descomponerse por más de 5 kilogramos diarios y sea necesaria la recolecta de basura de todos los días.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Empresa de bajo impacto: Empresas cuyas operaciones minimizan el efecto negativo sobre el medio ambiente, utilizando materiales sostenibles o procesos limpios, como oficinas administrativas, ciertas consultorías o comercios minoristas, restaurantes de lujo con y sin venta de bebidas alcohólicas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Empresa de mediano impacto: Actividades que generan cierto nivel de emisiones, residuos o consumo de recursos, pero que pueden ser gestionados y mitigados con sistemas de gestión ambiental (ej. algunas manufacturas ligeras, talleres mecánicos, bodegas, empresas agroindustriales, etc.)
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Empresa de alto impacto: Industrias o proyectos que, por su naturaleza, tienen un alto potencial de generar residuos ambientales significativos, como centros comerciales, tiendas departamentales, cadenas de negocios internacionales (tiendas de conveniencia), industrias etc.
 
 > <small>(ADICIONADO, D.O. 29 DE ABRIL DE 2022)</small>
 
@@ -2373,15 +2547,15 @@ XV. Tienda de autoservicio tipo B 140
 
 XVI. Vinatería 160
 
-> <small>(REFORMADO, D.O. 24 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 133.
 
-Cuotas por otros giros comerciales.
+Cuotas por otros giros comerciales
 
-Por el otorgamiento de licencias de funcionamiento de establecimiento o locales comerciales se pagarán derechos conforme a las siguientes cuotas:
+Por el otorgamiento de licencias de funcionamiento de establecimientos o locales comerciales se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 24 DE OCTUBRE DE 2023, PÁGINAS DE LA 6 A LA 37.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 31 DE DICIEMBRE DE 2025, PÁGINAS DE LA 51 A LA 94.]</small>
 
 El cobro de derechos por el otorgamiento o revalidación de licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales comerciales o de servicios sin expendio de bebidas alcohólicas antes mencionado, estará condicionado a que previamente comprueben que tengan realizados los pagos de todos los impuestos y demás derechos inherentes al giro comercial de que se trate incluyendo los que sobre el inmueble recaiga tal como los (sic) es el impuesto predial en cuyo supuesto la (sic) que se expida, tendrá una vigencia máxima de hasta un año natural e iniciará en la fecha de expedición y terminará la misma fecha del mes del año siguiente; con salvedad de aquellas que fueran expedidas durante el último año del ejercicio fiscal del periodo constitucional de la administración municipal en turno, en cuyo caso su vigencia será hasta el último día de funciones de dicha administración municipal que la expidió, el cobro a que se hace referencia en el presente artículo será de acuerdo con las tarifas antes mencionadas.
 
@@ -2493,41 +2667,13 @@ El pago de las cuotas por los derechos a que se refiere esta sección no condici
 
 (DEROGADO, D.O. 24 DE OCTUBRE DE 2023)
 
-> <small>(REFORMADO, D.O. 24 DE OCTUBRE DE 2023)</small>
-
 ###### Artículo 139 Bis.
 
-Antenas de inspección
-
-El municipio podrá cobrar por los servicios que preste por la verificación del estado de conservación y mantenimiento de cada estructura o infraestructura destinada al soporte de antenas de telefonía, radiofrecuencia, radiodifusión, telecomunicaciones y radiocomunicaciones, así como a sus equipos complementarios.
-
-Son responsables del pago de este derecho, las personas físicas o morales autorizadas para la instalación de antenas y sus estructuras de soporte, así como también quienes usufructúen con la misma.
-
-El pago del derecho por verificación se hará efectivo en el tiempo y forma, como a continuación se establece:
-
-I. Por la verificación del estado de conservación y mantenimiento de estructura de antenas de telefonía y sus equipos complementarios, por año con vencimiento en marzo 400 UMA.
-
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 2025)
 
 ###### Artículo 139 Ter.
 
-Antenas de factibilidad
-
-TASA POR FACTIBILIDAD DE LOCALIZACIÓN Y PERMISO DE INSTALACIÓN
-
-Por el estudio y análisis de planos, documentación técnica, informes, inspección, así como también por los servicios administrativos, técnicos o especiales que deban prestarse para el otorgamiento de la factibilidad de localización y permiso de instalación de antenas y estructuras de soporte de las mismas. Idéntico tratamiento se establece para el emplazamiento de los denominados “WICAPS” consistente en radiobases compactas de telefonía de reducido tamaño.
-
-Están obligados al pago de la tasa a que se refiere el presente artículo, las personas físicas o jurídicas solicitantes de la factibilidad de localización y habilitación, los propietarios y/o administradores de las antenas y sus estructuras de soporte y/o los propietarios del predio donde se hallen instaladas las mismas, en forma solidaria como así también quienes usufructúen con la misma.
-
-El pago de la tasa por la factibilidad de localización y permiso de instalación, deberá efectuarse en forma previa al otorgamiento del permiso
-
-Se deberá abonar el tributo, por cada antena y/o estructura de soporte, por la que se requiera el otorgamiento de la factibilidad de localización y permiso de instalación, conforme lo establecido a continuación.
-
-Factibilidad de localización y permiso de instalación:
-
-I. Por cada emplazamiento de estructura de antenas de telefonía y sus equipos complementarios, por única vez. 325 UMA
-
-II. Por cada emplazamiento de estructuras de tipo no convencional que no exceda los 15 metros, por única vez. 173 UMA”
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 2025)
 
 ###### Artículo 140.
 
@@ -2547,23 +2693,9 @@ V. Adornos navideños, anuncios y adornos para fiestas cívicas nacionales o par
 
 VI. Anuncios de eventos culturales o educativos organizados por instituciones que no persigan propósitos de lucro.
 
-> <small>(ADICIONADO, D.O. 24 DE OCTUBRE DE 2023)</small>
-
 ###### Artículo 140 Bis.
 
-Factibilidad de las antenas
-
-El municipio podrá cobrar por los servicios que preste por el estudio y análisis de planos, documentación técnica, informes, inspección, así como también por los demás servicios administrativos, técnicos o especiales que deban prestarse para el otorgamiento de la factibilidad de localización y permiso de instalación de antenas y estructuras de soporte de las mismas. Idéntico tratamiento se establece para el emplazamiento de los denominados "WICAPS" consistente en radiobases compactas de telefonía de reducido tamaño.
-
-Están obligados al pago de este derecho a que se refiere este artículo, las personas físicas o morales solicitantes de la factibilidad de localización y habilitación, los propietarios y/o administradores de las antenas y sus estructuras de soporte y/o los propietarios del predio donde se hallen instaladas las mismas, en forma solidaria como así también quienes usufructúen con la misma.
-
-El pago de la tasa por la factibilidad de localización y permiso de instalación, deberá efectuarse en forma previa al otorgamiento del permiso
-
-Se deberá abonar el derecho, por cada antena y/o estructura de soporte, por la que se requiera el otorgamiento de la factibilidad de localización y permiso de instalación, conforme con lo establecido a continuación:
-
-Factibilidad de localización:
-
-I. Por cada emplazamiento de estructura de antenas de telefonía y sus equipos complementarios, por única vez 325 UMA
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 2025)
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 24 DE OCTUBRE DE 2023)</small>
 
@@ -2729,69 +2861,7 @@ De 501 hasta 5,000 m2 48.00
 
 Mayor de 5,000 m2 95.00
 
-e) Giros comerciales especiales (Impacto alto)
-
-Giro comercial Costo en UMAS
-
-Gasolinera o estación de servicio 620.00
-
-Casino 1500.00
-
-Funeraria 80.00
-
-Crematorio 150.00
-
-Sala de fiestas cerrada 150.00
-
-Hotel mayor a treinta habitaciones 175.00
-
-Torre de telecomunicaciones
-
-de una estructura monopolar
-
-para colocación de antena celular
-
-de una base de concreto o
-
-adición de cualquier equipo de
-
-telecomunicación sobre una
-
-torre alta tensión o sobre
-
-infraestructura existente 275.00
-
-Establecimientos con venta
-
-de bebidas alcohólicas en
-
-envase cerrado 130.00
-
-Establecimientos con venta de
-
-bebidas alcohólicas para consumo
-
-en el mismo lugar 130.00
-
-Gasera 620.00
-
-Granja porcícola / ganadera /
-
-avícola / agropecuario 350.00
-
-Fábricas y maquiladoras de
-
-hasta 50 empleados 120.00
-
-Fábricas y maquiladoras de
-
-más de 50 empleados 150.00
-
-Centros bancarios, instituciones
-
-financieras, bancos 120.00
-
-Agencia de automóviles 200.00
+e) (DEROGADO POR ARTÍCULO DÉCIMO DEL DECRETO 151/2025, D.O. 31 DE DICIEMBRE DE 2025)
 
 III.- Por la expedición de la constancia de alineamiento de bienes inmuebles, por cada metro lineal:
 
@@ -2859,11 +2929,7 @@ HASTA DE 200M2 0.18
 
 MÁS DE 200M2 0.2
 
-e. Por la expedición de licencia para construcción, que permita la instalación de una torre de comunicación, de una estructura monopolar para la colocación de antena celular, de una base de concreto o adición de cualquier equipo de telecomunicación sobre una torre de alta tensión o sobre infraestructura existente, por cada unidad
-
-UMA X UNIDAD
-
-1 630
+e. (DEROGADO POR ARTÍCULO DÉCIMO DEL DECRETO 151/2025, D.O. 31 DE DICIEMBRE DE 2025)
 
 f. Por la expedición de la licencia de construcción de bardas, por cada metro lineal, hasta dos metros de altura
 
@@ -2939,11 +3005,7 @@ HASTA DE 200M2 0.063
 
 MÁS DE 200M2 0.7
 
-e. Por la expedición de licencia para construcción, que permita la instalación de una torre de comunicación, de una estructura monopolar para la colocación de antena celular, de una base de concreto o adición de cualquier equipo de telecomunicación sobre una torre de alta tensión o sobre infraestructura existente, por cada unidad
-
-UMA X UNIDAD
-
-1 125
+e. (DEROGADO POR ARTÍCULO DÉCIMO DEL DECRETO 151/2025, D.O. 31 DE DICIEMBRE DE 2025)
 
 f. Por la expedición de la licencia de construcción de bardas, por cada metro lineal, hasta dos metros de altura
 
@@ -3153,143 +3215,201 @@ Son objeto de estos derechos, los servicios que prestan las autoridades municipa
 
 Son sujetos de estos derechos, las personas físicas o morales que soliciten los servicios de catastro.
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 148.
 
 Cuotas y tarifas
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
 Por los servicios públicos en materia de catastro, se pagarán derechos conforme a las siguientes cuotas:
 
-CÉDULAS
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-EXPEDICIÓN DE CÉDULAS POR MANIFESTACIÓN
+CEDULAS
 
-DE CONSTRUCCIÓN ZONA CENTRO $210.00
+EXPEDICIÓN DE CEDULAS POR CAMBIO DE USO $220.00
 
-EXPEDICIÓN DE CÉDULAS POR MANIFESTACIÓN
+EXPEDICIÓN DE CEDULAS POR MANIFESTACIÓN DE CONSTRUCCIÓN EN COMISARIAS $250.00
 
-DE CONSTRUCCIÓN ZONA INTERMEDIA $210.00
+EXPEDICIÓN DE CEDULAS POR MANIFESTACIÓN DE CONSTRUCCIÓN EN PREDIOS RUSTICOS $300.00
 
-EXPEDICIÓN DE CEDULAS POR MANIFESTACIÓN
+EXPEDICIÓN DE CEDULAS POR MANIFESTACIÓN DE CONSTRUCCIÓN O MEJORA DE TIPO COMERCIO $300.00
 
-DE CONSTRUCCION ZONA PERIFERIA $210.00
+EXPEDICIÓN DE CEDULAS POR MANIFESTACIÓN DE CONSTRUCCIÓN O MEJORA EN ZONA A $260.00
 
-EXPEDICIÓN DE CÉDULAS POR MANIFESTACIÓN
+EXPEDICIÓN DE CEDULAS POR MANIFESTACIÓN DE CONSTRUCCIÓN O MEJORA EN ZONA B $240.00
 
-DE CONSTRUCCIÓN ZONA DE COMISARÍAS Y
+EXPEDICIÓN DE CEDULAS POR MANIFESTACIÓN DE CONSTRUCCIÓN O MEJORA EN ZONA C $220.00
 
-PREDIOS RÚSTICOS $210.00
+EXPEDICIÓN DE CEDULAS POR REVALUACIÓN $220.00
 
-EXPEDICIÓN DE CÉDULAS POR ACTUALIZACIÓN:
+EXPEDICIÓN DE CEDULAS POR TRASLACIÓN DE DOMINIO $220.00
 
-0.1-10,000.00 $220.00
+VERIFICACION POR MANIFESTACION DE CONSTRUCCION O MEJORA DE 1 A 100 M2 $350.00
 
-10,001.00-20,000.00 $284.00
+VERIFICACION POR MANIFESTACION DE CONSTRUCCION O MEJORA DE 101 A 200 M2 $400.00
 
-20,001.00-30,000.00 $347.00
+VERIFICACION POR MANIFESTACION DE CONSTRUCCION O MEJORA DE 201 A400 M2 $450.00
 
-30,001.00-40,000.00 $410.00
+VERIFICACION POR MANIFESTACION DE CONSTRUCCION O MEJORA DE 401 A 600 M2 $500.00
 
-40,001.00-70,000.00 $541.00
+VERIFICACION POR MANIFESTACION DE CONSTRUCCION O MEJORA DE 601 A 800 M2 $600.00
 
-70,001.00-100,000.00 $604.00
+VERIFICACION POR MANIFESTACION DE CONSTRUCCION O MEJORA DE 801 A 1000 M2 $700.00
 
-10,001.00- EN ADELANTE $743.00
+VERIFICACION POR MANIFESTACION DE CONSTRUCCION O MEJORA DE 1001 M2 EN ADELANTE $1000.00
 
-EXPEDICIÓN DE CÉDULAS POR REVALUACIÓN $56.00
-
-EXPEDICIÓN DE CÉDULAS POR TRASLADO
-
-DE DOMINIO $56.00
-
-OFICIO DE SOLICITUD DEL FOLIO
-
-ELECTRÓNICO $207.00
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
 CONSTANCIAS
 
-CONSTANCIA DE VALOR CATASTRAL $207.00
+CONSTANCIA DE VALOR CATASTRAL $250.00
 
-CONSTANCIA DE NO PROPIEDAD $207.00
+CONSTANCIA DE NO PROPIEDAD $250.00
 
-CONSTANCIA DE ÚNICA PROPIEDAD $207.00
+CONSTANCIA DE ÚNICA PROPIEDAD $250.00
 
-CONSTANCIA DE INSCRIPCIÓN $207.00
+CONSTANCIA DE INSCRIPCIÓN $250.00
 
-CONSTANCIA DE NO INSCRIPCIÓN $207.00
+CONSTANCIA DE NO INSCRIPCIÓN $250.00
 
-CONSTANCIA DE NÚMERO OFICIAL $207.00
+CONSTANCIA DE NÚMERO OFICIAL $250.00
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
 COPIAS CERTIFICADAS
 
-COPIA CERTIFICADA DE CÉDULAS $100.00
+COPIA CERTIFICADA DE CEDULAS $120.00
 
-COPIA CERTIFICADA DE PLANO $100.00
+COPIA CERTIFICADA DE PLANO $120.00
 
-COPIA CERTIFICADA DE HOJA DE PARCELA $84.00
+COPIA CERTIFICADA DE HOJA DE PARCELA $120.00
 
-COPIA CERTIFICADA DE PLANO TAMAÑO OFICIO $92.00
+COPIA CERTIFICADA DE PLANO TAMAÑO OFICIO $120.00
 
-COPIA CERTIFICADA DE PLANO HASTA 4
+COPIA CERTIFICADA DE PLANO HASTA 4 VECES TAMAÑO OFICIO $150.00
 
-VECES TAMAÑO OFICIO $131.00
+COPIA CERTIFICADA DE PLANO MAYOR DE 4 VECES TAMAÑO OFICIO $200.00
 
-COPIA CERTIFICADA DE PLANO MAYOR DE 4
-
-VECES TAMAÑO OFICIO $143.00
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
 COPIAS SIMPLES
 
-COPIAS SIMPLES TAMAÑO CARTA $24.00
+COPIAS SIMPLES TAMAÑO CARTA $25.00
 
-COPIAS SIMPLES TAMAÑO OFICIO $27.00
+COPIAS SIMPLES TAMAÑO OFICIO $30.00
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
 OTROS TRÁMITES
 
-URBANIZACIÓN $100.00
+OFICIO URBANIZACIÓN $200.00
 
-HISTORIAL DE PREDIO $207.00
+OFICIO HISTORIAL DE PREDIO $300.00
 
-ASIGNACIÓN DE NOMENCLATURA $100.00
+OFICIO ASIGNACIÓN DE NOMENCLATURA $250.00
 
-CAMBIO DE NOMENCLATURA $100.00
+OFICIO CAMBIO DE NOMENCLATURA $250.00
 
-CERTIFICADO DE NO ADEUDO DE PREDIAL $100.00
+CERTIFICADO DE NO ADEUDO DE PREDIAL $120.00
 
-RECTIFICACIÓN DE MEDIDAS $100.00
+OFICIO RECTIFICACIÓN DE MEDIDAS $250.00
 
-PROYECTOS DE UNIÓN Y DIVISIÓN POR
+REVISION DE PROYECTOS (DIVISION, UNION, LOTIFICACION) $1000.00
 
-CADA PARTE $100.00
+PROYECTOS DE UNIÓN Y DIVISIÓN POR CADA PARTE DENTRO DE LA CIUDAD Y COMISARIA $150.00
 
-VERIFICACIONES DE MEDIDAS FÍSICAS Y
+VERIFICACION POR UNIÓN Y DIVISIÓN POR CADA PARTE DENTRO DE LA CIUDAD Y COMISARIA $150.00
 
-COLINDANCIAS DE PREDIOS ZONA HABITACIONAL $200.00
+VERIFICACIONES DE MEDIDAS FÍSICAS Y COLINDANCIAS DE PREDIOS DE USO HABITACIONAL $250.00
 
-VERIFICACIONES DE MEDIDAS FÍSICAS Y
+VERIFICACIONES DE MEDIDAS FÍSICAS Y COLINDANCIAS DE PREDIOS DE USO COMERCIAL $300.00
 
-COLINDANCIAS DE PREDIOS ZONA COMERCIAL $250.00
+VERIFICACIONES DE MEDIDAS FÍSICAS Y COLINDANCIAS DE PREDIOS DE USO INDUSTRIAL $500.00
 
-VERIFICACIONES DE MEDIDAS FÍSICAS Y
+VERIFICACIONES RUSTICAS DE 1-HECTAREA DENTRO DE LA CIUDAD $300.00
 
-COLINDANCIAS DE PREDIOS ZONA INDUSTRIAL $300.00
+VERIFICACIONES RUSTICAS DE 2-HECTAREAS EN ADELANTE DENTRO DE LA CIUDAD $500.00
 
-VERIFICACIONES RUSTICAS DE 1-HECTAREA DENTRO
+VERIFICACIONES RUSTICAS DE 1- A 2 HECTAREAS FUERA DE LA CIUDAD (COMISARIA) $350.00
 
-DE LA CIUDAD $ 250.00
+VERIFICACIONES RUSTICAS DE 2.01 A 5 HECTAREAS FUERA DE LA CIUDAD (COMISARIA) $500.00
 
-VERIFICACIONES RUSTICAS DE 2-HECTAREAS EN
+VERIFICACIONES RUSTICAS DE 5.01 A 10 HECTAREAS FUERA DE LA CIUDAD (COMISARIA) $700.00
 
-ADELANTE DENTRO DE LA CIUDAD $ 350.00
+VERIFICACIONES RUSTICAS DE 10.01 A 20 HECTAREAS FUERA DE LA CIUDAD (COMISARIA) $1000.00
 
-VERIFICACIONES RUSTICAS DE 1-HECTAREA FUERA
+VERIFICACIONES RUSTICAS DE 20.01 A 50 HECTAREAS FUERA DE LA CIUDAD (COMISARIA) $1500.00
 
-DE LA CIUDAD $ 300.00
+VERIFICACIONES RUSTICAS DE 50.01 A 100 HECTAREAS FUERA DE LA CIUDAD (COMISARIA) $2000.00
 
-VERIFICACIONES RUSTICAS DE 2-HECTAREAS EN
+VERIFICACIONES RUSTICAS DE 100.01 A 200 HECTAREAS FUERA DE LA CIUDAD (COMISARIA) $2500.00
 
-ADELANTE FUERA DE LA CIUDAD (COMISARIAS) $ 450.00
+VERIFICACIONES RUSTICAS DE 200.01 A 300 HECTAREAS FUERA DE LA CIUDAD (COMISARIA) $3000.00
+
+VERIFICACIONES RUSTICAS DE 300.01 A 400 HECTAREAS FUERA DE LA CIUDAD (COMISARIA) $3500.00
+
+VERIFICACIONES RUSTICAS DE 400.01 A 500 HECTAREAS FUERA DE LA CIUDAD (COMISARIA) $4000.00
+
+VERIFICACIONES RUSTICAS DE 500.01 A 600 HECTAREAS FUERA DE LA CIUDAD (COMISARIA) $4500.00
+
+VERIFICACIONES RUSTICAS DE 600.01 A 700 HECTAREAS FUERA DE LA CIUDAD (COMISARIA) $5000.00
+
+VERIFICACIONES RUSTICAS DE 700.01 A 800 HECTAREAS FUERA DE LA CIUDAD (COMISARIA) $5500.00
+
+VERIFICACIONES RUSTICAS DE 800.01 A 900 HECTAREAS FUERA DE LA CIUDAD (COMISARIA) $6000.00
+
+VERIFICACIONES RUSTICAS DE 900.01 1000 HECTAREAS FUERA DE LA CIUDAD (COMISARIA) $6500.00
+
+VERIFICACIONES RUSTICAS DE 1000.01 A 1500 HECTAREAS FUERA DE LA CIUDAD (COMISARIA) $7000.00
+
+VERIFICACIONES RUSTICAS DE 1500.01 A 2000 HECTAREAS FUERA DE LA CIUDAD (COMISARIA) $7500.00
+
+VERIFICACIONES RUSTICAS DE 2000.01 HECTAREAS EN ADELANTE FUERA DE LA CIUDAD (COMISARIA) $9000.00
+
+VERIFICACION DE PLANO CON COORDENADAS $200.00
+
+VERIFICACION DE PLANO CON COORDENADAS POR CADA PARTE DE PROYECTOS $100.00
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+TRABAJOS DE TOPOGRAFIA
+
+POR LOS TRABAJOS DE TOPOGRAFÍA QUE SE REQUIERAN PARA LA ELABORACIÓN DE PLANOS O DILIGENCIA DE VERIFICACIÓN HASTA 400 M2 $550.00
+
+POR LOS TRABAJOS DE TOPOGRAFÍA QUE SE REQUIERAN PARA LA ELABORACIÓN DE PLANOS O DILIGENCIA DE VERIFICACIÓN DE 400.01 M2 A 1,000 M2 $950.00
+
+POR LOS TRABAJOS DE TOPOGRAFÍA QUE SE REQUIERAN PARA LA ELABORACIÓN DE PLANOS O DILIGENCIA DE VERIFICACIÓN DE 1000.01 M2 A 2,500 M2 $1,350.00
+
+POR LOS TRABAJOS DE TOPOGRAFÍA QUE SE REQUIERAN PARA LA ELABORACIÓN DE PLANOS O DILIGENCIA DE VERIFICACIÓN DE 2,500.01 M2 A 10,000 M2 $3,390.00
+
+POR LOS TRABAJOS DE TOPOGRAFÍA QUE SE REQUIERAN PARA LA ELABORACIÓN DE PLANOS O DILIGENCIA DE VERIFICACIÓN DE 10,000.01 M2 A 30,000 M2 $6,100.00
+
+POR LOS TRABAJOS DE TOPOGRAFÍA QUE SE REQUIERAN PARA LA ELABORACIÓN DE PLANOS O DILIGENCIA DE VERIFICACIÓN DE 30,000.01 M2 A 60,000 M2 $12,220.00
+
+POR LOS TRABAJOS DE TOPOGRAFÍA QUE SE REQUIERAN PARA LA ELABORACIÓN DE PLANOS O DILIGENCIA DE VERIFICACIÓN DE 60,000.01 M2 A 90,000 M2 $18,320.00
+
+POR LOS TRABAJOS DE TOPOGRAFÍA QUE SE REQUIERAN PARA LA ELABORACIÓN DE PLANOS O DILIGENCIA DE VERIFICACIÓN DE 90,000.01 M2 A 120,000 M2 $24,430.00
+
+POR LOS TRABAJOS DE TOPOGRAFÍA QUE SE REQUIERAN PARA LA ELABORACIÓN DE PLANOS O DILIGENCIA DE VERIFICACIÓN DE 150,000.01 M2 A 300,000 M2 $30,540.00
+
+POR LOS TRABAJOS DE TOPOGRAFÍA QUE SE REQUIERAN PARA LA ELABORACIÓN DE PLANOS O DILIGENCIA DE VERIFICACIÓN DE 300,000.01 M2 A 500,000 M2 $36,650.00
+
+POR LOS TRABAJOS DE TOPOGRAFÍA QUE SE REQUIERAN PARA LA ELABORACIÓN DE PLANOS O DILIGENCIA DE VERIFICACIÓN DE 500,000.01 M2 A 750,000 M2 $42,760.00
+
+POR LOS TRABAJOS DE TOPOGRAFÍA QUE SE REQUIERAN PARA LA ELABORACIÓN DE PLANOS O DILIGENCIA DE VERIFICACIÓN DE 7500,000.01 M2 A 1,000,000 M2 $48,870.00
+
+POR LOS TRABAJOS DE TOPOGRAFÍA QUE SE REQUIERAN PARA LA ELABORACIÓN DE PLANOS O DILIGENCIA DE VERIFICACIÓN DE 1,000,000.01 M2 A 1,500,000 M2 $54,980.00
+
+POR LOS TRABAJOS DE TOPOGRAFÍA QUE SE REQUIERAN PARA LA ELABORACIÓN DE PLANOS O DILIGENCIA DE VERIFICACIÓN DE 1,500,000.01 M2 EN ADELANTE $475 POR CADA 10,000 M2 DEL TOTAL DE LA SUPERFICIE $61,090.00
+
+DILIGENCIA DE VERIFICACIÓN $716.00 $475.00
+
+CUANDO EN LA DILIGENCIA DE VERIFICACIÓN SE REQUIERA EL MARCAJE O LA LOCALIZACIÓN DEL PREDIO, DEBERÁ CUBRIRSE ADICIONALMENTE EL DERECHO DE 10.50 UMA POR CADA PUNTO POSICIONADO GEOGRÁFICAMENTE (AL MENOS DOS PUNTOS) CONFORME A LA ACTUALIZACIÓN DEL VALOR DEL UMA PARA EL AÑO DE VERIFICACIÓN. $113.14
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ELABORACION DE PLANOS
 
@@ -3307,7 +3427,11 @@ PLANOS POR MANIFESTACION DE CONSTRUCCION
 
 DE 3 CUARTOS EN ADELANTE $ 500.00
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
 Por diligencias de verificación de medidas físicas y de colindancias de predios dentro del Municipio:
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 Zona Costo x Metro Cuadrado
 
@@ -3326,6 +3450,8 @@ C1 $62.00
 C2 $55.00
 
 C3 $52.00
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 Para efectos de la anterior tabla del párrafo anterior, comprenderán dichas zonas las siguientes:
 
@@ -3361,7 +3487,11 @@ C2.- SAN JUAN DE DIOS, PARTE DE SAN IGNACIO, COL. PARAÍSO:
 
 C3.- FRACCIONAMIENTO PARAÍSO, COL. NUEVO YUCATÁN
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
 Cuando se trate de superficies inferiores a las mencionadas en la tabla anterior, pero se requiera de levantamientos topográficos: $ 3,200.00
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 Conforme al costo de Hectárea se comprenderá de la siguiente manera:
 
@@ -3657,17 +3787,23 @@ El pago de los derechos se hará al momento de solicitar el servicio del Departa
 
 #### Sección vigésima. Certificados y constancias
 
-> <small>(REFORMADO, D.O. 29 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO ACÁPITE [N. DE E. REPUBLICADO], D.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 160.
 
 Cuotas
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
 Por la expedición de certificados y constancias, se pagarán derechos conforme a las siguientes cuotas:
+
+> <small>(REFORMADA, D.O. 29 DE ABRIL DE 2022)</small>
 
 I. Por cada certificado que expida
 
 el Ayuntamiento $ 30.00 por hoja
+
+> <small>(REFORMADA, D.O. 29 DE ABRIL DE 2022)</small>
 
 II. Por cada copia certificada que
 
@@ -3679,6 +3815,8 @@ III. Por cada constancia que expida
 
 el Ayuntamiento $ 50.00 por hoja
 
+> <small>(REFORMADA, D.O. 29 DE ABRIL DE 2022)</small>
+
 IV. Por cada copia fotostática simple $ 1.00 por hoja
 
 > <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
@@ -3687,15 +3825,29 @@ V. Por participar en licitaciones Precio sujeto a
 
 cambios por obras
 
+> <small>(REFORMADA, D.O. 29 DE ABRIL DE 2022)</small>
+
 VI. Por reposición de licencias de
 
 funcionamiento $ 100.00
 
+> <small>(REFORMADA, D.O. 29 DE ABRIL DE 2022)</small>
+
 VII. Por reposición de recibos oficiales $ 20.00
+
+> <small>(REFORMADA, D.O. 29 DE ABRIL DE 2022)</small>
 
 VIII. Por derecho de tanto $ 250.00
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+VIII (SIC). Constancias de fierro ganadero $50.00
+
+> <small>(REFORMADO, D.O. 29 DE ABRIL DE 2022)</small>
+
 Entre los certificados o constancias previstos en la fracción I, se encuentran el certificado de vecindad, la constancia de inscripción al Registro de Población Municipal, la constancia de no adeudar derechos al servicio de agua potable, así como los demás certificados y constancias no previstos de forma expresa en otra disposición de esta ley.
+
+> <small>(REFORMADO, D.O. 29 DE ABRIL DE 2022)</small>
 
 Los certificados, constancias, duplicados y certificaciones que se prevean de forma específica en otra disposición de esta ley, se deberán pagar las cuotas o tarifas que se establezcan en la referida disposición.
 
@@ -4190,3 +4342,17 @@ Artículo segundo. El H. Ayuntamiento del Municipio de Tekax, Yucatán, durante 
 Cláusula derogatoria
 
 Artículo tercero. Se derogan todas aquellas disposiciones de igual o menor rango que se opongan a este decreto.
+
+D.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 151/2025 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE TRECE MUNICIPIOS DEL ESTADO DE YUCATÁN".]
+
+Artículo primero.- Este decreto entrará en vigor el día primero de enero del año dos mil veintiséis, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo.- El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que a la fecha de la publicación de la presente Ley no hayan sido transferidos formalmente al Ayuntamiento por el Gobierno del Estado, entrarán en vigor hasta la celebración del convenio respectivo.
+
+Artículo tercero.- Para el Municipio de Sacalum, el ejercicio del importe anual a pagar por los contribuyentes del impuesto predial base valor catastral, para el caso de los predios cuyo valor catastral sea menor o igual $200,000.00 el impuesto predial base valor catastral no podrá exceder un 6% del que les haya correspondido durante el ejercicio inmediato anterior, para el caso de predios cuyo valor catastral sea igual o superior a $200,000.01 el impuesto predial base valor catastral no podrá exceder el 10% del que les haya correspondido durante el ejercicio inmediato anterior. Este comparativo se efectuará solamente sobre le (sic) impuesto predial, sin tomar en consideración, bonificaciones, excedentes, reducciones, estímulos o accesorios.
+
+I. Los predios que, como resultado de alguna modificación en su superficie de terreno, construcción, así como de la tipología de su construcción, haya aumentado en mas de un 50% el valor catastral que tenían antes dichas modificaciones, de conformidad con las disposiciones aplicables, en cuyo caso aplicará el cálculo establecido en el artículo 34 de esta ley.
+
+II. Los predios que fueron objeto de traslación de dominio a partir del ejercicio inmediato anterior, en cuyo caso aplicará el calculo establecido en el artículo 34 de esta ley.
