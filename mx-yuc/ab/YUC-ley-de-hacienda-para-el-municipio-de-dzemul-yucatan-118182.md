@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-dzemul-yucatan-118182"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2022-12-30"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE DZEMUL, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el sábado 31 de diciembre de 2016.
 
@@ -643,6 +643,8 @@ II.- Los funcionarios o empleados del Registro Público de la Propiedad y del Co
 
 DEL OBJETO
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 57.
 
 Es objeto del Impuesto sobre Adquisición de Inmuebles, toda adquisición del dominio de bienes inmuebles, que consistan en el suelo, en las construcciones adheridas a él, en ambos, o de derechos sobre los mismos, ubicados en el Municipio de Dzemul, Yucatán. Para efectos de este impuesto, se entiende por adquisición:
@@ -665,7 +667,7 @@ VIII.- La prescripción positiva.
 
 IX.- La cesión de derechos del heredero o legatario. Se entenderá como cesión de derechos la renuncia de la herencia o del legado, efectuado después del reconocimiento de herederos y legatarios.
 
-X.- La adquisición que se realice a través de un contrato de fideicomiso, en los supuestos relacionados en el Código Fiscal de la Federación.
+X. Todo acto que afecte el dominio, la propiedad y la posesión de un inmueble realizado a través de un contrato de fideicomiso, no exceptuando ninguna variante de dicha figura.
 
 XI.- La disolución de la copropiedad y de la sociedad conyugal, por la parte que el copropietario o el cónyuge adquiera en demasía del porcentaje que le corresponde.
 
@@ -1760,3 +1762,17 @@ Artículo Primero.- Este decreto entrará en vigor el día siguiente de su publi
 Artículo Segundo. El H. Ayuntamiento de Dzidzantún, para percibir aprovechamientos vía infracciones por faltas administrativas, deberá contar con los reglamentos municipales respectivos, que establecerán los montos de las sanciones correspondientes.
 
 Artículo Tercero.- La Ley de Hacienda del Municipio de Tixpéual, deroga el artículo primero transitorio por el que se modificó dicha Ley, mediante Decreto 449/2021publicado en el Diario Oficial del Gobierno del Estado el 31 de diciembre de 2021.
+
+D.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 151/2025 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE TRECE MUNICIPIOS DEL ESTADO DE YUCATÁN".]
+
+Artículo primero.- Este decreto entrará en vigor el día primero de enero del año dos mil veintiséis, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo.- El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que a la fecha de la publicación de la presente Ley no hayan sido transferidos formalmente al Ayuntamiento por el Gobierno del Estado, entrarán en vigor hasta la celebración del convenio respectivo.
+
+Artículo tercero.- Para el Municipio de Sacalum, el ejercicio del importe anual a pagar por los contribuyentes del impuesto predial base valor catastral, para el caso de los predios cuyo valor catastral sea menor o igual (sic) $200,000.00 el impuesto predial base valor catastral no podrá exceder un 6% del que les haya correspondido durante el ejercicio inmediato anterior, para el caso de predios cuyo valor catastral sea igual o superior a $200,000.01 el impuesto predial base valor catastral no podrá exceder el 10% del que les haya correspondido durante el ejercicio inmediato anterior. Este comparativo se efectuará solamente sobre le (sic) impuesto predial, sin tomar en consideración, bonificaciones, excedentes, reducciones, estímulos o accesorios.
+
+I. Los predios que, como resultado de alguna modificación en su superficie de terreno, construcción, así como de la tipología de su construcción, haya aumentado en mas de un 50% el valor catastral que tenían antes dichas modificaciones, de conformidad con las disposiciones aplicables, en cuyo caso aplicará el cálculo establecido en el artículo 34 de esta ley.
+
+II. Los predios que fueron objeto de traslación de dominio a partir del ejercicio inmediato anterior, en cuyo caso aplicará el calculo establecido en el artículo 34 de esta ley.
