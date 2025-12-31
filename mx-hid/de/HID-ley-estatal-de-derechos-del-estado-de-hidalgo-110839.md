@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-derechos-del-estado-de-hidalgo-110839"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2024-12-31"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "HID"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE FEBRERO DE 2026 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ESTATAL DE DERECHOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 31 de diciembre de 2015.
 
@@ -577,9 +579,13 @@ Por la inscripción semestral a la Oficina Virtual del Registro Público de la P
 
 Las excepciones de pago en los servicios prestados por el Registro Público de la Propiedad, estarán a lo dispuesto en el Código Fiscal del Estado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-En los casos en que las autoridades fiscales, sean éstas federales, estatales, municipales o de la Ciudad de México, requieran las inscripciones de embargos, expedición de certificados de libertad de gravamen o cualquier otro servicio necesario para la correcta continuación del Procedimiento Administrativo de Ejecución o para el aseguramiento de la garantía en cualquier acto de fiscalización, los servicios se prestarán al momento de la solicitud, y los derechos correspondientes serán pagados cuando concluyan los procedimientos iniciados por la autoridad fiscal y la propia autoridad ordene al contribuyente deudor el pago de los gastos que se hayan originado, o en su caso, cuando sean sacados al remate los bienes respectivos; salvo que el Procedimiento Administrativo de Ejecución o el ejercicio de las facultades de comprobación concluyan por haber quedado sin efectos jurídicos cuando así lo determina una resolución administrativa o sentencia firme, caso en el cual no habrá lugar a pago de derechos.
+Se exceptúan del pago de derechos a las Autoridades Fiscales del Estado a que se refiere el artículo 8 del Código Fiscal del Estado de Hidalgo, respecto de los requerimientos de información y documentación relativos a los datos registrales, constitución, personalidad jurídica y bienes de los contribuyentes sujetos a facultades de comprobación, así como a los trámites relativos al desarrollo del Procedimiento Administrativo de Ejecución o para el aseguramiento de la garantía en cualquier acto de fiscalización. Para el caso exclusivo de las inscripciones de embargos, los servicios se prestarán al momento de la solicitud, y los derechos correspondientes serán pagados cuando concluyan los procedimientos iniciados por la autoridad fiscal y la propia autoridad ordene al contribuyente deudor el pago de los gastos que se hayan originado, o en su caso, cuando sean aplicados al producto del remate los bienes respectivos; salvo que el Procedimiento Administrativo de Ejecución concluya por haber quedado sin efectos jurídicos cuando así lo determine una resolución administrativa o sentencia firme, caso en el cual no habrá lugar al pago de derechos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+En los casos en que las autoridades fiscales, sean éstas federales, municipales o de la Ciudad de México, requieran las inscripciones de embargos, expedición de certificados de libertad de gravamen o cualquier otro servicio necesario para la correcta continuación del Procedimiento Administrativo de Ejecución o para el aseguramiento de la garantía en cualquier acto de fiscalización, los servicios se prestarán al momento de la solicitud, y los derechos correspondientes serán pagados cuando concluyan los procedimientos iniciados por la autoridad fiscal y la propia autoridad ordene al contribuyente deudor el pago de los gastos que se hayan originado, o en su caso, cuando sean sacados al remate los bienes respectivos; salvo que el Procedimiento Administrativo de Ejecución o el ejercicio de las facultades de comprobación concluyan por haber quedado sin efectos jurídicos cuando así lo determina una resolución administrativa o sentencia firme, caso en el cual no habrá lugar a pago de derechos.
 
 ###### ARTÍCULO 23.
 
@@ -595,7 +601,9 @@ En términos del segundo párrafo del artículo 4 de la Ley del Registro Públic
 
 Para el pago de derechos generados por la prestación de servicios del Registro Público de la Propiedad, éste se sujetará a las facultades de cobro de la Secretaría de Hacienda.
 
-El pago de los servicios prestados por el Registro Público de la Propiedad deberá efectuarse al momento de ingresar el trámite de que se trate. No se procederá a realizar ningún trámite sin antes acreditar el pago correspondiente. Lo anterior no aplica a los supuestos señalados en el segundo párrafo del artículo 22.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+El pago de los servicios prestados por el Registro Público de la Propiedad deberá efectuarse al momento de ingresar el trámite de que se trate, por lo que no se procederá a realizar ningún trámite sin antes acreditar el pago correspondiente. Lo anterior no aplica a los supuestos señalados en los párrafos segundo y tercero del artículo 22.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -1217,6 +1225,10 @@ a).- Formación inicial:
 
 2. Formación Inicial activos, por hora 0.36 u.m.a.’s.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+3. Formación básica inicial para seguridad privada, por hora 0.89 u.m.a.’s.
+
 b).- Formación Continua:
 
 1. Curso de actualización por hora 0.89 u.m.a.’s;
@@ -1725,17 +1737,17 @@ b) Ponente local. 39.0 u.m.a.´s.
 
 Los derechos por la prestación de los servicios del Estado por conducto de la Secretaría de Medio Ambiente y Recursos Naturales, a través de la Dirección General de Cambio Climático, se causarán y pagarán de la siguiente forma:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-I.- Por la autorización para operar un centro de verificación vehicular o unidad de verificación vehicular, así como por el estudio y trámite que implica dicha autorización, se pagarán derechos conforme a lo siguiente:
+I.- Por la Concesión Administrativa para operar un Centro de Verificación Vehicular, así como por el estudio y trámite que implica dicha concesión, se pagarán derechos conforme a lo siguiente:
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 a) Por la revisión y evaluación de la solicitud para el trámite de la obtención de la resolución correspondiente. 50 u.m.a.´s;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-b) Por la resolución de autorización para operar. 202 u.m.a.’s;
+b) Por la resolución de la Concesión Administrativa para operar 202 u.m.a.’s;
 
 c) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2017)
 
@@ -1749,19 +1761,31 @@ g) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2017)
 
 h) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2017)
 
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS] P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-I BIS.- Los Centros de Verificación Vehicular o Unidades de Verificación Vehicular, cubrirán los siguientes derechos:
+I BIS.- Los Centros de Verificación Vehicular cubrirán los siguientes derechos:
 
-a) Por la renovación de la autorización. 121 u.m.a.’s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+a) Por la renovación de la Concesión Administrativa 121 u.m.a.’s;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 b) Por la autorización de ampliación del servicio a través de nuevas líneas. 240 u.m.a.’s;
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 c) Por la autorización de cambio de domicilio. 101 u.m.a.’s;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 d) Por la autorización de cambio de titular. 121 u.m.a.’s;
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 e) Por la emisión de gafete de acreditación para el personal. 1 u.m.a.;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 f) Por la autorización de la bitácora de operación y mantenimiento. 1 u.m.a.;
 
@@ -1775,9 +1799,9 @@ II.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
 
 III.- Por la reposición de certificados de verificación vehicular del semestre inmediato anterior o en curso, que soliciten los usuarios automovilistas o entrega del reporte del expediente electrónico del sistema digital de verificación vehicular. 0.59 u.m.a.’s;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-IV.- Por cada certificado con holograma que adquieran los centros de verificación vehicular o unidades de verificación vehicular, se causarán los siguientes derechos:
+IV.- Por cada certificado con holograma que adquieran los Centros de Verificación Vehicular, se causarán los siguientes derechos:
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
@@ -1805,11 +1829,15 @@ V.- Por holograma “EXENTO” expedido por la Secretaría de Medio Ambiente y R
 
 a) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2017)
 
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-V BIS.- Las empresas proveedoras de equipo, servicios y mantenimiento para los Centros de Verificación Vehicular o Unidades de Verificación Vehicular y Laboratorios de Calibración, cubrirán los siguientes derechos:
+V BIS.- Las empresas proveedoras de equipo, servicios y mantenimiento para los Centros de Verificación Vehicular y Laboratorios de Calibración, cubrirán los siguientes derechos:
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 a) Por obtener la autorización. 250 u.m.a.´s; y
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 b) Por la renovación de la autorización. 100 u.m.a.´s.
 
@@ -2369,63 +2397,43 @@ III.- Por la expedición de constancia de vehículo no robado. 3.9 u.m.a.´s.
 
 ### CAPÍTULO DÉCIMO. DE LOS DERECHOS CORRESPONDIENTES A LA OFICIALÍA MAYOR
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-ARTÍCULO 46 BIS.- Los derechos derivados de la administración, uso o goce del patrimonio inmobiliario del Estado, a través de la Oficialía Mayor, por conducto de la Dirección General de Patrimonio Inmobiliario, se pagarán conforme a las cuotas que establezca la dirección general en cita, considerando la naturaleza del evento.
+ARTÍCULO 46 BIS.- Los derechos derivados de la administración, uso o goce del patrimonio inmobiliario del Estado, así como de aquellos inmuebles administrados bajo cualquier título a través de la Oficialía Mayor y por conducto de la Dirección General de Patrimonio Inmobiliario, se pagarán conforme a los montos y disposiciones que contengan los instrumentos jurídicos o administrativos que, para tal efecto, otorgue el Estado.
 
-Tratándose del Patrimonio Inmobiliario de otras unidades administrativas, las cuotas por la administración, uso o goce, se fijarán de acuerdo a la naturaleza del evento.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Los derechos causados por cualquier otro supuesto no contemplado en el párrafo anterior, se pagarán conforme a los montos y disposiciones determinadas por la Oficialía Mayor.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ### CAPÍTULO DÉCIMO PRIMERO. DE LOS DERECHOS CORRESPONDIENTES A (SIC) SECRETARÍA DE MOVILIDAD Y TRANSPORTE
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-ARTÍCULO 46 TER. Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Movilidad y Transporte, se causarán y pagarán de la siguiente forma:
+ARTÍCULO 46 TER.- Los derechos derivados por la obtención de bases relacionadas a los procedimientos de contratación mediante Licitación Pública para la adquisición de bienes, arrendamiento de bienes muebles y servicios, con excepción de las relacionadas a la contratación de obra pública, se pagarán los valores establecidos en el tabulador siguiente:
 
-I.- Por la expedición del dictamen del estudio de impacto en la movilidad que autoriza total o parcialmente, o en su caso, que niega la obra o actividad correspondiente:
+Monto en pesos
 
-a).- De proyectos habitacionales plurifamiliares:
+(Sin incluir el Impuesto al Valor Agregado) UMA’S
 
-1.- Tratándose de proyectos de 11 y hasta 100 viviendas. 35 u.m.a.’s;
+De $1.00 a $20,000,000.00 2.65
 
-2.- Tratándose de proyectos de 101 y hasta 500 viviendas. 70 u.m.a.’s;
+De $20,000,000.01 a $40,000,000.00 3.09
 
-3.- Tratándose de proyectos de 500 y hasta 1,000 viviendas. 105 u.m.a.’s;
+De $40,000,000.001 a $60,000,000.00 3.53
 
-4.- Tratándose de proyectos mayores de 1,000 viviendas. 125 u.m.a.’s;
+De $60,000,000.01 a $100,000,000.00 3.97
 
-b).- De proyectos con uso no habitacional:
+De $100,000,000.01 a $150,000,000.00 4.41
 
-1.- Tratándose de proyectos de más de 500m2 y hasta 3,000 m2. 25 u.m.a.’s;
+De $150,000,000.01 a $200,000,000.00 4.86
 
-2.- Tratándose de proyectos de más de 3,000m2 y hasta 5,000 m2. 50 u.m.a.’s;
+De $200,000,000.01 a $250,000,000.00 5.30
 
-3.- Tratándose de proyectos de más de 5,000m2 y hasta 10,000 m2. 75 u.m.a.’s;
+De $250,000,000.01 a $300,000,000.00 5.74
 
-4.- Tratándose de proyectos de más de 10,000m2. 100 u.m.a.’s;
-
-c).- De proyectos mixtos:
-
-1.- Tratándose de proyectos de más de 500m2 y hasta 3,000 m2. 30 u.m.a.’s;
-
-2.- Tratándose de proyectos de más de 3,000m2 y hasta 5,000 m2. 60 u.m.a.’s;
-
-3.- Tratándose de proyectos de más de5,000m2 y hasta 10,000 m2. 90 u.m.a.’s;
-
-4.- Tratándose de proyectos de más de 10,000m2. 120 u.m.a.’s;
-
-II.- Por la incorporación o actualización al registro estatal de movilidad y transporte. 5 u.m.a.´s;
-
-III.- Por la expedición de constancias de información, registro o folio del registro estatal de movilidad y transporte, por la primer foja y hasta 3 fojas. 1 u.m.a.;
-
-IV.- Por la expedición de constancias de información, registro o folio del registro estatal de movilidad y transporte, a que se refiere la fracción III inmediata anterior, por cada foja adicional. 0.26 u.m.a.´s;
-
-V.- Por la expedición de copias certificadas, por cada foja. 0.2 u.m.a.´s
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
-
-VI.- Por el registro del profesional, persona física o moral, experto o perito en la materia, responsable de elaborar, integrar y suscribir el Estudio de Impacto en la Movilidad. 11.7 u.m.a.´s
+De $300,000,000.01 en adelante 6.18
 
 ## TÍTULO TERCERO
 
@@ -2554,3 +2562,11 @@ La aplicación de la disposición contenida en el párrafo que antecede no dará
 CUARTO. Las reformas a que refiere el artículo 41 de la Ley de Hacienda del Estado de Hidalgo, serán aplicables a las obligaciones contraídas desde el 01 de enero de 2020.
 
 La aplicación de la disposición contenida en el párrafo que antecede no dará lugar a devolución o compensación alguna.
+
+P.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 402 – LXVI QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE HIDALGO, LA LEY DE HACIENDA DEL ESTADO DE HIDALGO, LA LEY ESTATAL DE DERECHOS, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO, LA LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO Y LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor el 01 de enero del 2026, previa su publicación en el Periódico Oficial del Estado, con excepción de la adición a que se refiere el CAPÍTULO OCTAVO de la Ley de Hacienda del Estado de Hidalgo, que comprende los artículos 74 BIS, 74 TER, 74 QUÁTER, 74 QUINQUIES, 74 SEXIES, 74 SEPTIES, 74 OCTIES y 74 NONIES, que entrará en vigor a partir del 01 de marzo de 2026.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
