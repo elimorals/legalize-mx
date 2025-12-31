@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-uman-yucatan-110892"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-29"
-last_updated: "2019-12-27"
+last_updated: "2025-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 ---
 # LEY DE HACIENDA DEL MUNICIPIO DE UMAN, YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE UMÁN, YUCATÁN, PUBLICADA EN EL D.O. DE 31 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE HACIENDA PARA EL MUNICIPIO DE UMÁN, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el martes 29 de Diciembre de 2015.
 
@@ -2496,3 +2498,17 @@ D.O. 27 DE DICIEMBRE DE 2019.
 Artículo primero.- Este Decreto entrará en vigor el día primero de enero del año 2020, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 Artículo segundo.- En cuanto a la Ley de Hacienda para el Municipio de Motul, Yucatán, en el ejercicio fiscal 2020, el importe anual a pagar por los contribuyentes del impuesto predial, no podrá exceder de un 10 % del que le haya correspondido durante el ejercicio fiscal 2019 para los predios cuyo valor catastral sea menor o igual a $ 350,000.00 y para los predios cuyo valor catastral sea mayor a $350,000.00, el impuesto predial no podrá exceder de un 15 % del que le haya correspondido durante el ejercicio fiscal 2019. El comparativo se hará con base en el impuesto principal, sin tomar en consideración bonificaciones, exenciones, reducciones, estímulos o accesorios legales.
+
+D.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE HACIENDA PARA EL MUNICIPIO DE UMÁN, YUCATÁN”.]
+
+Artículo Primero.- Se abroga la Ley de Hacienda del Municipio de Umán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán de fecha 29 de diciembre de 2015.
+
+Artículo Segundo.- En lo no previsto por esta Ley, se aplicará supletoriamente lo establecido por el Código Fiscal y la Ley de Hacienda Municipal, ambas del Estado de Yucatán.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 150/2025 POR EL QUE SE EMITEN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE CANSAHCAB, CHANKOM, CHICHIMILÁ, HOCTÚN, HUNUCMÁ, KANASÍN, KOPOMÁ, MUXUPIP, TAHDZIÚ, TEKANTÓ, TEPAKÁN, TETIZ, TIXCACALCUPUL, TIXPÉUAL, UAYMA, UMÁN Y VALLADOLID, TODAS DEL ESTADO DE YUCATÁN”.]
+
+Entrada en vigor
+
+Artículo único. Este Decreto, entrará en vigor el primero de enero del año 2026, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
