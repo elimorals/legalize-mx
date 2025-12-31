@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-conducta-de-la-procuraduria-ambiental-y-del-135936"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-05-07"
-last_updated: "2019-05-07"
+last_updated: "2025-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135936&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2019-04-26"
 ---
 # CODIGO DE CONDUCTA DE LA PROCURADURIA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO POR EL CUAL SE EMITE EL CÓDIGO DE CONDUCTA DE LA PROCURADURÍA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 31 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA PROCURADURÍA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 2025 (ABROGADO).
 
 Código publicado en la Gaceta Oficial de la Ciudad de México, el martes 7 de mayo de 2019.
 
@@ -361,3 +363,17 @@ SEGUNDO.- El presente Código entrará en vigor el día de su publicación.
 TERCERO.- El presente Código será de observancia obligatoria para las personas servidoras públicas adscritas a la Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México.
 
 CUARTO.- Una vez publicado, será obligación de los titulares de las unidades administrativas de la Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México, hacerlo de conocimiento de cada una de las personas servidoras públicas a su cargo.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL CUAL SE EMITE EL CÓDIGO DE CONDUCTA DE LA PROCURADURÍA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Código de Conducta de la Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Código de Conducta de la Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se abroga el Código de Conducta de la Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México 2019, publicado en la página oficial de la Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México.
+
+CUARTO. Con fundamento en lo dispuesto por el artículo 20 fracción II del Código de Ética de la Administración Pública y Alcaldías de la Ciudad de México; y 2 fracción II de los Lineamientos Generales para la Integración y Funcionamiento de los Comités de Ética de la Administración Pública y Alcaldías de la Ciudad de México, ambos publicados en la Gaceta Oficial de la Ciudad de México el 28 de agosto de 2024, el Lic. Roberto Torres Mora, en su carácter de Titular del Órgano Interno de Control en la Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México, aprobó el Proyecto del Código de Conducta de la Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México.
