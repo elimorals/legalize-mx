@@ -4,7 +4,7 @@ identifier: "HID-ley-de-presupuesto-y-contabilidad-gubernamental-del-estado-1033
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-27"
-last_updated: "2025-05-14"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 27 de octubre de 2014.
 
@@ -1247,9 +1247,9 @@ Los ejecutores de gasto realizarán los cargos al Presupuesto de Egresos, a trav
 
 Una vez concluida la vigencia del Presupuesto de Egresos sólo procederá hacer pagoscon (sic) base en él, por los conceptos comprometidos o devengados en el año que corresponda, siempre que se hubieren contabilizado debida y oportunamente las operaciones correspondientes y hayan estado contempladas en el Presupuesto de Egresos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-Sin perjuicio de lo anterior, los ingresos de libre disposición que al 31 de diciembre del ejercicio fiscal inmediato anterior se hayan comprometido, deberán quedar devengados a más tardar el último día hábil del mes de marzo del ejercicio fiscal siguiente o bien de conformidad con el calendario de ejecución establecido en el expediente técnico correspondiente, debidamente validado y en apego a la normatividad del Fondo de Financiamiento en el que haya sido autorizado. Una vez concluido este plazo, la Secretaría podrá reorientarlos a otros proyectos prioritarios.
+Sin perjuicio de lo anterior, los ingresos de libre disposición que al 31 de diciembre del ejercicio fiscal inmediato anterior se hayan comprometido, deberán quedar devengados a más tardar el último día hábil del mes de marzo del ejercicio fiscal siguiente o bien de conformidad con el calendario de ejecución establecido en el expediente técnico o convenio correspondiente. Una vez concluido este plazo, la Secretaría y los municipios podrán reorientarlos a otros proyectos prioritarios.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -1265,9 +1265,9 @@ Los recursos para cubrir adeudos del ejercicio fiscal anterior, previstos en el 
 
 Queda prohibido realizar erogaciones al final del ejercicio con cargo a ahorros y economías del Presupuesto de Egresos que tengan por objeto evitar el reintegro de recursos a que se refiere este artículo.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-Los Municipios deberán observar lo establecido en el primer párrafo del presente artículo.
+Los Municipios deberán observar lo establecido en los párrafos primero y segundo del presente artículo.
 
 ###### Artículo 57.
 
@@ -1908,3 +1908,11 @@ P.O. 14 DE MAYO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 231- LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO Y DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO, EN MATERIA DE ATRIBUCIONES DE LA COMISIÓN DE HACIENDA Y PRESUPUESTO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 402 - LXVI QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE HIDALGO, LA LEY DE HACIENDA DEL ESTADO DE HIDALGO, LA LEY ESTATAL DE DERECHOS, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO, LA LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO Y LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el 01 de enero del 2026, previa su publicación en el Periódico Oficial del Estado, con excepción de la adición a que se refiere el CAPÍTULO OCTAVO de la Ley de Hacienda del Estado de Hidalgo, que comprende los artículos 74 BIS, 74 TER, 74 QUÁTER, 74 QUINQUIES, 74 SEXIES, 74 SEPTIES, 74 OCTIES y 74 NONIES, que entrará en vigor a partir del 01 de marzo de 2026.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
