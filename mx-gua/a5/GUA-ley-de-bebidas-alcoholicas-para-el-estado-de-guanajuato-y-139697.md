@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-bebidas-alcoholicas-para-el-estado-de-guanajuato-y-13969
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-30"
-last_updated: "2025-07-28"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE BEBIDAS ALCOHÓLICAS PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Décima Parte del Periódico Oficial del Estado de Guanajuato, el lunes 30 de diciembre de 2019.
 
@@ -85,7 +85,9 @@ V. Bebidas con bajo contenido alcohólico: Las que tengan una graduación alcoh�
 
 VI. Cancelación: Extinción de la autorización emitida por el SATEG para el desarrollo de las actividades materia de esta Ley, a petición del titular;
 
-VII. Clandestino: Establecimiento que produce o almacena y, enajena bebidas alcohólicas, sin contar con la licencia o permiso correspondiente vigente, o bien, que teniéndolos no correspondan al domicilio del establecimiento señalado en dicho documento;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+VII. Clandestino: Establecimientos, lugares o, cualquier medio, que produce o almacena y, enajena bebidas alcohólicas, ya sea de manera permanente o eventual, sin contar con la licencia o permiso correspondiente vigente, o bien, que teniéndolos no correspondan al domicilio del establecimiento señalado en dicho documento;
 
 VIII. Clausura parcial: La suspensión por un tiempo indeterminado de la enajenación de bebidas alcohólicas, sin suspender la actividad preponderante, cuando ésta no sea la enajenación de bebidas alcohólicas, permitiendo el acceso al establecimiento;
 
@@ -93,7 +95,9 @@ IX. Clausura total: La suspensión por un tiempo indeterminado del funcionamient
 
 X. Enajenación: Venta de bebidas alcohólicas;
 
-XI. Establecimiento: Lugar en el que se produzcan o almacenen y, enajenen bebidas alcohólicas;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XI. Establecimiento: Lugar fijo en el que se produzcan o almacenen y, enajenen bebidas alcohólicas;
 
 XII. Evento: Actividades sociales, de índole artística, económica, turística, agropecuaria, deportivas, festividades cívicas, tradicionales o de cualquier otra naturaleza análoga, en las que se enajenen bebidas alcohólicas;
 
@@ -101,11 +105,35 @@ XIII. Ley: Ley de Bebidas Alcohólicas para el Estado de Guanajuato y sus Munici
 
 XIV. Licencia: Documento oficial que permite la producción o almacenaje y, enajenación de bebidas alcohólicas, a personas físicas o morales, en los establecimientos autorizados para tales efectos;
 
-XV. Permiso: Documento oficial que permite a personas físicas o morales llevar a cabo la enajenación de bebidas alcohólicas, en términos del artículo 18 de esta Ley;
+XV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2025)
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XV Bis. Permiso de operación: Documento oficial que emite la autoridad municipal competente, cualquiera que sea su denominación, mediante el cual se autoriza a las personas físicas o morales para organizar o participar en un evento determinado en el que se pretenda desarrollar las actividades reguladas por la Ley, sin que dicho documento constituya autorización para enajenar bebidas alcohólicas en el evento de que se trate;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XV Ter. Permiso eventual global: Documento oficial que permite a personas físicas o morales llevar a cabo la enajenación de bebidas alcohólicas en términos de esta Ley, el cual, es solicitado por el organizador del evento, extendiendo esta autorización para sí mismo o para terceros personas físicas o morales que participen en el evento, siempre y cuando se sujeten a lo establecido en la normativa aplicable;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XV Quáter. Permiso eventual individual: Documento oficial que permite a personas físicas o morales llevar a cabo la enajenación de bebidas alcohólicas en eventos;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XV Quinquies. Permiso provisional: Documento oficial que autoriza por un periodo de tiempo determinado a los establecimientos desarrollar las actividades reguladas por esta Ley de manera previa a la obtención de una licencia;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XV Sexies. Posesión: El acto de tener bebidas alcohólicas, bajo control para la enajenación, o almacenamiento, ya sea en establecimientos o lugares autorizados;
 
 XVI. Productor artesanal: Persona física o moral que de manera independiente realiza todas las actividades objeto de la presente Ley, ya sea en los casos de bebidas de bajo y alto contenido alcohólico en envase cerrado;
 
 XVII. Productor en serie: Personas (sic) física o moral que fabrica, produce o envasa bebidas alcohólicas de forma distinta a la que implementan los productores artesanales;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XVII Bis. REC: Registro Estatal de Contribuyentes;
 
 > <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
 
@@ -117,17 +145,25 @@ XX. Revocación: Acto administrativo que extingue la licencia o permiso correspo
 
 XXI. SATEG: Servicio de Administración Tributaria del Estado de Guanajuato;
 
-> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2025)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-XXII. Signos de ebriedad: Cambios físicos, cognitivos o conductuales, manifestados por una persona, posterior al consumo de bebidas alcohólicas dentro o fuera de los establecimientos a quienes aplique la presente Ley;
+XXI Bis. Secretaría: Secretaría de Finanzas;
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-XXIII. Servicio de alimentos: Establecimiento que cuenta y desarrolla este servicio y declara dicha actividad ante las autoridades fiscales competentes, así como aquellos establecimientos que encuadren con la definición de este servicio en los reglamentos municipales de la materia; y
+XXII. Servicio de alimentos: Establecimiento que cuenta y desarrolla este servicio y declara dicha actividad ante las autoridades fiscales competentes, así como aquellos establecimientos que encuadren con la definición de este servicio en los reglamentos municipales de la materia;
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-XXIV. Solicitante o peticionario: Persona física o moral que promueve ante el SATEG cualquier trámite señalado en esta Ley.
+XXIII. Signos de ebriedad: Cambios físicos, cognitivos o conductuales, manifestados por una persona, posterior al consumo de bebidas alcohólicas dentro o fuera de los establecimientos a quienes aplique la presente Ley;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XXIV. Solicitante o peticionario: Persona física o moral que promueve ante el SATEG cualquier trámite señalado en esta Ley; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XXV. Verificación de la ubicación y condiciones que guarden las instalaciones del establecimiento: Acto mediante el cual el SATEG determina la viabilidad para el desarrollo de las actividades reguladas por la Ley con relación a las características físicas del establecimiento, derivado de su ubicación geográfica, domicilio, accesos e infraestructura.
 
 Ejercicio de actividades en materia de alcoholes
 
@@ -136,6 +172,10 @@ Ejercicio de actividades en materia de alcoholes
 Las personas físicas o morales que realicen actividades objeto de esta Ley deberán contar con la licencia o el permiso respectivo para el funcionamiento de establecimientos donde se produzcan o almacenen y, enajenen bebidas alcohólicas.
 
 En ningún caso procederá la expedición de licencias en aquellos establecimientos en los que ya exista una licencia autorizada.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+De igual manera, no será procedente el otorgamiento de licencias, cuando existan diferencias entre los datos aportados por el solicitante en el cuestionario correspondiente y el resultado de la verificación de la ubicación y condiciones que guarden las instalaciones del establecimiento.
 
 Otorgamiento de licencias o permisos
 
@@ -163,7 +203,9 @@ I. SATEG;
 
 II. Secretaría de Salud;
 
-III. Secretaría de Seguridad Pública; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+III. Secretaría de Seguridad Pública y Paz; y
 
 IV. Ayuntamientos.
 
@@ -173,9 +215,13 @@ Competencia del SATEG
 
 Es competencia del SATEG:
 
-I. Expedir las licencias o permisos en materia de alcoholes correspondientes, en términos de lo dispuesto en este ordenamiento;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-II. Otorgar el refrendo de las licencias en materia de alcoholes que expida en los términos de la presente Ley;
+I. Expedir las licencias o permisos en materia de bebidas alcohólicas correspondientes, en términos de lo dispuesto en este ordenamiento;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+II. Otorgar el refrendo de las licencias en materia de bebidas alcohólicas que expida en los términos de la presente Ley;
 
 III. Autorizar las modificaciones de las licencias, tales como, cambios de titular, domicilio, actividades y, su actualización de datos;
 
@@ -185,17 +231,27 @@ V. Llevar a cabo los procedimientos de cancelación o revocación de las licenci
 
 VI. Verificar la vigencia de las licencias o permisos, así como el cumplimiento de las obligaciones y requisitos de esta Ley;
 
-VII. Controlar y actualizar el padrón de beneficiarios de licencias de funcionamiento en materia de alcoholes;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+VII. Controlar y actualizar el padrón de beneficiarios de licencias de funcionamiento en materia de bebidas alcohólicas;
 
 VIII. Emitir y ejecutar órdenes de inspección y verificación a los establecimientos previstos en este ordenamiento;
 
 IX. Determinar e imponer las multas por infracciones que se conozcan con motivo de los actos de inspección y verificación realizados por personal autorizado adscrito al SATEG;
 
-X. Ejecutar la clausura parcial o total de los establecimientos, así como de cualquier medio que se utilice para producir o almacenar y, enajenar bebidas alcohólicas;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+X. Ejecutar la clausura parcial o total de los establecimientos o lugares, así como de cualquier medio que se utilice para producir o almacenar y, enajenar bebidas alcohólicas;
 
 XI. Efectuar el cobro coactivo de las multas que impongan las autoridades municipales y que deriven de infracciones a este ordenamiento conforme a los convenios celebrados;
 
-XII. Contar con un padrón de solicitantes y de titulares de licencias o permisos que se otorguen en términos de esta Ley; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XII. Contar con un padrón de solicitantes y de titulares de licencias o permisos que se otorguen en términos de esta Ley;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XII Bis. Secuestrar mercancía alcohólica, así como cualquier medio que se utilice para producir o almacenar y, enajenar bebidas alcohólicas; y
 
 XIII. Las demás que deriven de esta Ley y demás disposiciones.
 
@@ -215,11 +271,15 @@ IV. Coordinar con las autoridades sanitarias federales la planeación, programac
 
 V. Las demás que deriven de la coordinación con el SATEG, así como demás disposiciones en la materia.
 
-Competencia de la Secretaría de Seguridad Pública
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Competencia de la Secretaría de Seguridad Pública y Paz
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 11.
 
-Es competencia de la Secretaría de Seguridad Pública:
+Es competencia de la Secretaría de Seguridad Pública y Paz:
 
 I. Vigilar que los establecimientos cumplan con las disposiciones de seguridad que para tales efectos determine la Coordinación Estatal de Protección Civil, así como su homólogo municipal; y
 
@@ -233,7 +293,9 @@ Los ayuntamientos dentro de la circunscripción territorial de su municipio tend
 
 I. Elaborar y expedir los reglamentos con el objeto de regular las disposiciones de esta Ley, de conformidad con sus atribuciones;
 
-II. Expedir las constancias de factibilidad;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+II. Expedir las constancias de factibilidad o el documento municipal vigente que determine la viabilidad de realizar las actividades previamente autorizadas;
 
 III. Expedir y ejecutar órdenes de inspección y verificación de los establecimientos a que se refiere esta Ley en los términos de los convenios celebrados con el SATEG, con excepción de las relativas a materia de salud, cuyo ejercicio compete a las autoridades sanitarias estatales;
 
@@ -249,9 +311,11 @@ VI. Las que deriven de las disposiciones de esta Ley, y demás disposiciones en 
 
 Tipos de licencias
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 13.
 
-El SATEG autorizará y expedirá las licencias para la producción o almacenaje y, enajenación de bebidas alcohólicas que realicen los sujetos obligados a que se refiere esta Ley, atendiendo a los siguientes tipos:
+El SATEG autorizará la expedición y otorgamiento de las licencias para la producción o almacenaje y, enajenación de bebidas alcohólicas que realicen los sujetos obligados a que se refiere esta Ley, atendiendo a los siguientes tipos:
 
 I. A1 - De alto contenido alcohólico en envase abierto;
 
@@ -263,11 +327,25 @@ IV. B2 - De bajo contenido alcohólico en envase cerrado.
 
 La enajenación de bebidas alcohólicas se lleva a cabo en envase abierto cuando la venta se realiza para su consumo dentro del establecimiento.
 
-La enajenación de bebidas alcohólicas se efectua en envase cerrado cuando su venta se realiza para consumo fuera del establecimiento.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+La enajenación de bebidas alcohólicas se efectúa en envase cerrado cuando su venta se realiza para consumo fuera del establecimiento.
 
 Los sujetos obligados que se dediquen a la producción de bebidas alcohólicas deberán contar con la autorización por parte del SATEG a través de la modalidad complementaria a la que se refiere la fracción VIII del artículo 17 del presente ordenamiento.
 
 Las licencias que señala el presente artículo se emitirán en formato electrónico por parte del SATEG, las cuales podrán estar disponibles para su consulta a través de su página de internet oficial.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Las licencias previstas en la fracción I de este artículo, tendrán por autorizado de manera tácita el desarrollo de las actividades contempladas para las licencias establecidas en las fracciones II, III o IV del mismo precepto legal según corresponda.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Las licencias señaladas en la fracción II del presente artículo, tendrán por autorizado de manera tácita, desarrollar las actividades contempladas para la licencia establecida en la fracción IV del mismo precepto legal según corresponda.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Por su parte, las licencias establecidas en la fracción III de este artículo, tendrán por autorizado de manera tácita, el desarrollo de las actividades contempladas para la licencia establecida en la fracción IV del mismo precepto legal.
 
 Vigencia de las licencias
 
@@ -279,11 +357,15 @@ Las licencias deberán refrendarse cada ejercicio fiscal en los términos del ar
 
 Refrendo de las licencias
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 15.
 
-Los titulares de las licencias deberán realizar el trámite de refrendo dentro de los noventa días posteriores al inicio del año fiscal correspondiente.
+Los titulares de las licencias que se encuentren vigentes deberán refrendarlas dentro de los primeros tres meses de cada ejercicio fiscal.
 
-Para tales efectos, deberán solicitar el refrendo correspondiente al SATEG a través de los medios que se establezcan en las disposiciones de carácter general que éste emita.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Para tales efectos, deberán realizar el pago correspondiente a través de los medios y puntos autorizados por la Secretaría y mediante las formas que el SATEG establezca en las disposiciones de carácter general.
 
 > <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
 
@@ -291,23 +373,39 @@ En caso de que los titulares de las licencias no realicen el trámite de refrend
 
 Determinación del tipo de licencia
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 16.
 
-El SATEG determinará el tipo de licencia que le corresponda de conformidad con las actividades que los solicitantes tengan registradas ante las autoridades fiscales federales y estatales, así como las señaladas en la constancia de factibilidad que emita el ayuntamiento.
+El SATEG determinará el tipo de licencia que le corresponda de conformidad con las actividades que los solicitantes tengan registradas ante las autoridades fiscales federales y estatales, así como las señaladas en la constancia de factibilidad que emita el ayuntamiento; los elementos de la verificación de la ubicación y condiciones que guarden las instalaciones del establecimiento; y los datos que los solicitantes proporcionen en el cuestionario que el SATEG proporcione en el medio que determine para presentar las solicitudes de licencias.
 
 Modalidades complementarias de los establecimientos para el otorgamiento de licencias
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 17.
 
-El SATEG de manera adicional a los tipos de licencia a los que hace referencia el artículo 13 de esta Ley, determinará la autorización para desarrollar las modalidades complementarias siguientes:
+El SATEG de manera adicional a los tipos de licencia contemplados en esta Ley, determinará la autorización para desarrollar las modalidades complementarias siguientes:
 
 I. Permitir el acceso al establecimiento exclusivamente a mayores de edad;
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Se tomará como parámetro para la determinación de esta modalidad complementaria, cuando así expresamente se señale en el reglamento municipal correspondiente para el establecimiento de que se trate, así como en la constancia de factibilidad o el documento que emita la autoridad municipal competente para tal fin.
+
 II. Llevar a cabo juegos y sorteos, así como en aquellos que medien apuestas;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+La determinación de esta modalidad complementaria por parte del SATEG, no constituye la autorización para desarrollar las actividades que no regula esta Ley.
 
 III. Desarrollar actividades en establecimientos con una capacidad mayor a cinco mil personas;
 
 IV. Enajenar bebidas alcohólicas en horario posterior a las 23:59 horas;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Se tomará como parámetro para la determinación de esta modalidad complementaria, cuando así expresamente se señale en el reglamento municipal correspondiente para el establecimiento de que se trate, así como en la constancia de factibilidad o el documento factibilidad o el documento que emita la autoridad municipal competente para tal fin.
 
 V. Enajenar mensualmente o almacenar:
 
@@ -317,9 +415,15 @@ b) Más de 30,001 litros de bebidas alcohólicas.
 
 VI. Contar con acceso desde los carriles de circulación de las carreteras federales o estatales;
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Se tomará como parámetro para la determinación de esta modalidad complementaria, cuando la conexión o acceso al establecimiento se realice directamente a través de carriles de circulación de una carretera estatal o federal. Para lo cual, se consultarán los mapas que emitan las autoridades estatales o federales competentes en materia de caminos y carreteras.
+
 VII. Enajenar bebidas alcohólicas sin servicio de alimentos.
 
-Esta actividad será aplicable únicamente a las licencias señaladas en las fracciones I y III del artículo 13; y
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Esta actividad será aplicable únicamente a las licencias señaladas en las fracciones I y III del artículo 13 o, bien, para los permisos contemplados en esta Ley; y
 
 VIII. Por su modalidad de producción:
 
@@ -327,17 +431,23 @@ a) En serie; y
 
 b) Artesanal.
 
-El SATEG establecerá el pago total que deberá enterar el solicitante por la licencia de que se trate, para lo cual tomará en cuenta la tarifa base por tipo de licencia establecido en el artículo 13 de esta Ley, al que se le adicionará las tarifas excedentes, de acuerdo con las modalidades complementarias.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+El SATEG establecerá el pago total que deberá realizar el solicitante por la licencia de que se trate, para lo cual tomará en cuenta la tarifa base por tipo de licencia establecido en el artículo 13 de esta Ley, al que se le adicionará las tarifas excedentes, de acuerdo con las modalidades complementarias.
 
 Las tarifas base y excedentes señaladas en el presente artículo se establecerán en la Ley de Ingresos para el Estado de Guanajuato del ejercicio fiscal de que se trate.
 
 ### Capítulo II. Permisos
 
-Tipos de permisos
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Permisos eventuales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 18.
 
-El SATEG autorizará y expedirá los permisos eventuales a los sujetos obligados que realicen eventos a los que se refiere esta Ley para la enajenación de bebidas alcohólicas:
+El SATEG autorizará la expedición y otorgamiento de los permisos eventuales individual o global a los sujetos obligados que realicen eventos a los que se refiere esta Ley para la enajenación de bebidas alcohólicas:
 
 I. De alto contenido alcohólico; y
 
@@ -346,6 +456,58 @@ II. De bajo contenido alcohólico.
 Los permisos eventuales se expedirán por un periodo de hasta treinta días naturales para el mismo establecimiento.
 
 Se entenderá que constituye un solo evento, aquel que tenga una duración por un lapso determinado e ininterrumpido. Si entre una presentación y la siguiente transcurre un plazo de más de veinticuatro horas, éste se considerará como un nuevo evento.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Cuando en un evento que cuente con permiso eventual global, se organicen al amparo de éste, otros eventos que consignen un costo para su acceso se deberán solicitar por parte de su organizador, los permisos eventuales individuales que resulten necesarios para llevar a cabo la producción o almacenaje y enajenación de bebidas alcohólicas de acuerdo con las características que corresponda.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+En los términos del párrafo que antecede, los titulares del permiso global deberán señalar los datos de las personas físicas o morales que pretendan desarrollar las actividades de producción o almacenaje y, enajenación de bebidas alcohólicas y que deban contar con un permiso eventual individual que el SATEG determine en las reglas de carácter general que para tal efecto emita.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+De conformidad con el artículo 49, fracción VIII del Código Fiscal del Estado de Guanajuato, los titulares de los permisos eventuales globales a que hace referencia el primer párrafo del presente artículo, aún y cuando no realicen actividades reguladas por la presente Ley, deberán manifestar de forma expresa en la solicitud de que se trate, que es su voluntad asumir la responsabilidad solidaria respecto de las obligaciones fiscales por cada uno (sic) de las personas físicas o morales que pretendan desarrollar las actividades de producir o almacenar y, enajenar bebidas alcohólicas, al amparo del permiso eventual global que se les otorgue.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Permisos provisionales
+
+###### Artículo 18 Bis.
+
+El SATEG autorizará la expedición y otorgamiento de permisos provisionales para la producción o almacenaje y, enajenación de bebidas alcohólicas que realicen los sujetos obligados a que se refiere esta Ley, atendiendo a los mismos tipos y modalidades complementarias contempladas para las licencias.
+
+El permiso señalado en este artículo es intransferible, se entregará en formato digital y su vigencia será la que expresamente establezca dicho permiso.
+
+El otorgamiento de un permiso provisional no constituye un derecho adquirido para la obtención de una licencia.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Vigencia de los permisos provisionales
+
+###### Artículo 18 Ter.
+
+Los permisos provisionales tendrán una vigencia máxima de sesenta días hábiles, contados a partir de su otorgamiento.
+
+Los permisos provisionales podrán renovarse hasta por una única ocasión por un plazo de treinta días hábiles. Para tales efectos, el permisionario deberá presentar la solicitud de renovación como máximo cinco días hábiles de anticipación a que fenezca la vigencia del permiso provisional de que se trate.
+
+Una vez fenecida la vigencia del permiso provisional de que se trate se tendrá por cancelado automáticamente, incluyendo aquellos que hubiesen sido renovados.
+
+Los permisos provisionales se otorgarán por una única ocasión para el mismo contribuyente o establecimiento.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Tarifa de los permisos provisionales
+
+###### Artículo 18 Quáter.
+
+El permiso provisional tendrá un costo equivalente al 25 por ciento del total de la tarifa establecida en la Ley de Ingresos vigente por concepto del tipo de licencia y, en su caso, de las modalidades complementarias que para cada permiso determine el SATEG en términos de lo establecido en el artículo 17, párrafos segundo y tercero de esta Ley.
+
+Por su parte, para la renovación del permiso provisional se deberá pagar el 15 por ciento del total determinado por el SATEG en términos del párrafo anterior.
+
+Los derechos pagados por el permiso provisional y, en su caso, por su renovación, se considerarán a favor del contribuyente en el supuesto de que el SATEG le autorice el otorgamiento de la licencia solicitada y, se descontarán del total de los derechos que hubieran resultado de la determinación efectuada de conformidad con el primer y segundo párrafos de este artículo, según el permiso de que se trate.
+
+Los derechos pagados con motivo del otorgamiento de un permiso provisional, o en su caso, de su renovación, en ningún caso darán lugar a devolución ni generarán saldo a favor alguno.
 
 Tarifas
 
@@ -357,17 +519,27 @@ Las tarifas base y excedentes señaladas en el presente artículo se establecer�
 
 ### Capítulo III. Requisitos
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+#### Sección I. Licencias
+
 Requisitos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 20.
 
-Para obtener las licencias o permisos el solicitante deberá aportar los siguientes requisitos según sea el caso, a través de los medios que el SATEG determine mediante las disposiciones de carácter general que se emitan:
+Para obtener las licencias el solicitante deberá aportar los siguientes requisitos según sea el caso, a través de los medios que el SATEG determine mediante las disposiciones de carácter general que se emitan:
 
-I. Solicitud por escrito dirigida al SATEG, señalando:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+I. Solicitud dirigida al SATEG, señalando:
 
 a) Nombre del solicitante o razón social;
 
-b) Registro federal de contribuyentes;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+b) REC;
 
 c) Domicilio para oír y recibir notificaciones dentro del estado de Guanajuato;
 
@@ -378,6 +550,10 @@ e) Número telefónico;
 f) Correo electrónico; y
 
 g) Cuando se trate de persona física podrá designar a otra persona física como beneficiario, a efecto de llevar a cabo las actividades de la licencia en caso de fallecimiento de su titular.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+I Bis. Responder el cuestionario que se proporciona a través del medio establecido en disposiciones de carácter general para la presentación de solicitudes de licencias o permisos.
 
 II. Copia de identificación oficial vigente del solicitante o del representante legal;
 
@@ -393,7 +569,9 @@ Adicional a los requisitos establecidos en el artículo 20, el SATEG verificará
 
 I. Constancia de situación fiscal del registro federal de contribuyentes;
 
-II. Constancia de inscripción en el registro estatal de contribuyentes, cuando el solicitante tenga residencia en el estado de Guanajuato;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+II. Constancia de inscripción en el REC, cuando el solicitante tenga residencia en el estado de Guanajuato;
 
 III. Constancia de factibilidad, respecto de la ubicación y condiciones que guardan las instalaciones del establecimiento, expedida por la entidad municipal que corresponda;
 
@@ -408,6 +586,118 @@ VII. Constancia de registro de la sociedad mercantil en el registro público de 
 Las actividades económicas que se encuentren registradas en los documentos señalados en las fracciones I y II del presente artículo, deberán guardar congruencia entre éstas y estar estrechamente relacionadas con las que se llevarán cabo para explotar la licencia o permiso solicitado.
 
 Para los efectos anteriores, el SATEG en coordinación con las autoridades competentes, verificará en sus bases de datos, sistemas electrónicos y los demás medios que éste determine; en caso de que advierta que el solicitante no cuente con alguno de los requisitos anteriores, le hará de su conocimiento para que sea éste quien proporcione el requisito en el término de cinco días hábiles a partir del día siguiente de su notificación.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+#### Sección II. Permisos provisionales
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Requisitos
+
+###### Artículo 21 Bis.
+
+Para que se otorgue un permiso provisional, el solicitante deberá cumplir con los siguientes requisitos según sea el caso, a través de los medios que el SATEG determine mediante las disposiciones de carácter general que para tal efecto se emitan:
+
+I. Solicitud dirigida al SATEG, en la que se deberá señalar como mínimo lo siguiente:
+
+a) Nombre del solicitante o razón social;
+
+b) REC;
+
+c) Domicilio para oír y recibir notificaciones dentro del estado de Guanajuato;
+
+d) Correo electrónico; y
+
+e) Manifestar bajo protesta de decir verdad la actividad comercial que desarrollará para la producción o, almacenaje y enajenación de bebidas alcohólicas.
+
+II. Que señale el folio proporcionado por el SATEG del trámite de solicitud de la licencia;
+
+III. Constancia de factibilidad o el documento municipal vigente que determine la viabilidad de realizar las actividades previamente autorizadas;
+
+IV. Identificación oficial con fotografía vigente del solicitante o, en su caso, de su representante legal;
+
+V. Responder el cuestionario que se proporciona a través del medio establecido para la presentación de solicitudes de licencias o permisos; y
+
+VI. Realizar el pago de los derechos que correspondan a través de los puntos y medios autorizados por la Secretaría.
+
+Cuando la solicitud se promueva a través de representante legal, además de los requisitos antes señalados, deberá aportar el instrumento público en el que consten las facultades suficientes para llevar a cabo la solicitud de que se trate.
+
+Para el caso de las personas morales, además de los requisitos antes referidos, deberán proporcionar el instrumento público que haga constar su legal constitución.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+#### Sección III. Permisos eventuales
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Requisitos
+
+###### Artículo 21 Ter.
+
+Para el otorgamiento de los distintos tipos de permisos eventuales, el solicitante deberá cumplir con los siguientes requisitos según sea el caso, a través de los medios que el SATEG determine mediante las disposiciones de carácter general que para tal efecto se emitan:
+
+I. Para el otorgamiento de permisos eventuales individuales:
+
+a) Solicitud dirigida al SATEG, en la que se deberá señalar como mínimo lo siguiente:
+
+1. Nombre del solicitante o razón social;
+
+2. REC;
+
+3. Domicilio para oír y recibir notificaciones dentro del estado de Guanajuato;
+
+4. Correo electrónico; y
+
+5. Manifestar bajo protesta de decir verdad la actividad comercial que desarrollará para enajenar bebidas alcohólicas.
+
+b) Responder el cuestionario que se proporciona a través del medio establecido para la presentación de solicitudes de licencias o permisos;
+
+c) Identificación oficial con fotografía vigente del solicitante o, en su caso, de su representante legal;
+
+d) Permiso de operación emitido por el municipio en que se realizará el evento de que se trate;
+
+e) Acta constitutiva en caso de ser persona moral o el instrumento notarial donde se acredite la representación legal y constitución de la sociedad. En caso de actuar en representación de persona física, se deberá aportar el instrumento público que acredite las facultades de la legal representación; y
+
+f) Realizar el pago de los derechos que correspondan a través de los puntos y medios autorizados por la Secretaría.
+
+II. Para el otorgamiento de permisos eventuales globales:
+
+a) Solicitud dirigida al SATEG, en la que se deberá señalar como mínimo lo siguiente:
+
+1. Nombre del solicitante o razón social;
+
+2. REC;
+
+3. Domicilio para oír y recibir notificaciones dentro del estado de Guanajuato;
+
+4. Correo electrónico; y
+
+5. Manifestar bajo protesta de decir verdad la actividad comercial que desarrollará para enajenar bebidas alcohólicas.
+
+b) Responder el cuestionario que se proporciona a través del medio establecido para la presentación de solicitudes de licencias o permisos;
+
+c) Identificación oficial con fotografía vigente del solicitante o, en su caso, de su representante legal;
+
+d) Permiso de operación emitido por el municipio en que se realizará el evento de que se trate;
+
+e) Acta constitutiva en caso de ser persona moral o el instrumento notarial donde se acredite la representación legal y constitución de la sociedad;
+
+f) En caso de actuar en representación de persona física, se deberá aportar el instrumento público que acredite las facultades de la legal representación;
+
+g) Oficio dirigido a la autoridad competente mediante el cual se solicita la autorización para la realización del evento. El oficio deberá contener, de manera clara y detallada, la siguiente información:
+
+1. Lista con los nombres completos de personas físicas y/o morales que se amparan bajo el permiso global;
+
+2. Datos de contacto del responsable asignado en cada punto de venta o área autorizada dentro del evento;
+
+3. Indicación expresa sobre el tipo de bebidas alcohólicas que se comercializarán en cada punto;
+
+4. Descripción precisa de las actividades y características bajo las cuales se realizará la venta de bebidas alcohólicas, especificando si será envase abierto o cerrado, así como el consumo se permitirá dentro del lugar o será para llevar; y
+
+5. Croquis de la ubicación de cada punto de venta.
+
+h) Realizar el pago de los derechos que correspondan a través de los puntos y medios autorizados por la Secretaría.
 
 Habilitación de medios y plazos
 
@@ -425,9 +715,27 @@ Para el otorgamiento de las licencias o permisos el solicitante deberá adjuntar
 
 Una vez que el solicitante ingrese la documental establecida por esta Ley para cada trámite, y se cuente con las validaciones técnicas por parte de las autoridades competentes que intervienen en el proceso, el SATEG, previo pago del solicitante, deberá ordenar y practicar la verificación respecto de la ubicación y condiciones que guarden las instalaciones del establecimiento en relación a lo contenido en la documental presentada, a fin de emitir el dictamen administrativo correspondiente ya sea en sentido positivo o negativo, en un plazo de treinta días hábiles.
 
-Se atenderá al plazo señalado en el párrafo que antecede, siempre y cuando no existan observaciones o elementos a subsanar por parte de las autoridades competentes que intervengan en el proceso; en este caso, el SATEG requerirá al solicitante a fin de que en un plazo de diez días hábiles subsane las observaciones de las autoridades respectivas. Durante este lapso se interrumpirá el término de treinta días hábiles establecido para la formulación del dictamen administrativo que corresponda. En caso de no subsanarse la omisión en dicho plazo, la solicitud se tendrá por no presentada.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-En caso de que el dictamen se emita en sentido positivo, el solicitante deberá cubrir los pagos que deriven para el otorgamiento de las licencias o permisos de funcionamiento a que haya lugar, en un plazo de quince días hábiles, en caso de que el solicitante no realice el pago se entenderá por desistido del trámite.
+Se atenderá al plazo señalado en el párrafo que antecede, siempre y cuando no existan observaciones o elementos a subsanar por parte de las autoridades competentes que intervengan en el proceso; en caso de que existan observaciones a subsanar por parte del solicitante con relación a los requisitos aportados, el SATEG emitirá el requerimiento correspondiente a través del mismo medio por el que se aportaron, para lo cual, el solicitante contará con plazo de cinco días hábiles contados a partir del día siguiente al de su notificación para que subsane los requisitos señalados; en el supuesto de que persistan observaciones, el SATEG podrá efectuar hasta dos requerimientos subsecuentes al primero otorgando el mismo plazo para su atención por el solicitante; durante este lapso se interrumpirá el término de treinta días hábiles establecido para la formulación del dictamen administrativo que corresponda. En el supuesto de que el solicitante omita subsanar la totalidad de observaciones que el SATEG le hubiera formulado, se tendrá como desistido tácitamente del trámite y la solicitud como no presentada.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+En caso de no existir observaciones o, que se hubieran atendido por completo las que se hubieran efectuado dentro de los plazos señalados en el párrafo que antecede y el SATEG emita el dictamen correspondiente en sentido positivo, le notificará al solicitante por el mismo medio en que realizó la solicitud sobre la procedencia del trámite, así como los derechos que deberá pagar por el otorgamiento, sujetándose a lo siguiente:
+
+I. Para el caso de licencias, contará con un plazo de cuarenta y cinco días hábiles contados a partir del día siguiente al de su notificación;
+
+II. Para los permisos eventuales previstos en esta Ley, deberán pagar los derechos respectivos como máximo el día previo al evento de que se trate; y
+
+III. Para el caso de los permisos provisionales, contará con un plazo de quince días hábiles contados a partir del día siguiente al de su notificación.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+En caso de omisión del pago de los derechos correspondientes, se considerará como desistido tácitamente del trámite y la solicitud como no presentada.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Para el otorgamiento de los permisos previstos en esta Ley, se sujetará al procedimiento señalado en este artículo, salvo la emisión de la orden de la verificación de la ubicación y condiciones del establecimiento de que se trate.
 
 ### Capítulo V. Modificaciones
 
@@ -439,17 +747,27 @@ Modificaciones
 
 El SATEG podrá autorizar la modificación de domicilio, de titular o de modalidades complementarias, para lo cual, su titular deberá dar cumplimiento a lo establecido en los artículos 20 y 21 de esta Ley.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-Para el caso de modificación de titular, adicional al cumplimiento de los requisitos a los que hace referencia el párrafo anterior, el solicitante deberá acreditar que cuenta con los derechos de la licencia de manera legítima, para lo cual, deberá adjuntar el testimonio público o, en su caso, los testimonios para acreditar este hecho; o bien, resolución judicial en firme, en la que conste de manera expresa la adjudicación de los derechos de la licencia a su favor.
+Para el caso de modificación de titular, adicional al cumplimiento de los requisitos a los que hace referencia el párrafo anterior, el solicitante deberá acreditar que cuenta con los derechos de la licencia de manera legítima, para lo cual, deberá adjuntar el testimonio público o, en su caso, los testimonios para acreditar este hecho; o bien, resolución judicial en firme, en la que conste de manera expresa la adjudicación de los derechos de la licencia a su favor; o bien, mediante cesión de los derechos de la licencia de que se trate ante las autoridades fiscales.
 
-Se deberá realizar el trámite a que se refiere el párrafo que antecede, dentro de los quince días posteriores a la firma del acto o contrato en que conste que se han cedido o adjudicado los derechos de las licencias expedidas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Se deberá realizar el trámite a que se refiere el párrafo que antecede, dentro de los dos meses posteriores a la firma del acto o contrato en que conste que se han cedido o adjudicado los derechos de las licencias expedidas.
 
 En el supuesto de fallecimiento del titular de la licencia, ésta podrá ser explotada por el beneficiario designado por éste en su solicitud hasta por seis meses contados a partir del fallecimiento de aquel, tiempo en el cual deberá realizar los trámites para el cambio de titular de la licencia.
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-Una vez que se tenga el dictamen administrativo correspondiente y en caso de que este se emita en sentido positivo, el solicitante deberá cubrir los pagos que deriven por las modificaciones a las licencias de funcionamiento a que haya lugar, en un plazo de quince días hábiles, en caso de que el solicitante no realice el pago se entenderá por desistido del trámite.
+Por cambio de domicilio, se entiende el traslado del domicilio fiscal o apertura del establecimiento, sucursal o local de un lugar a otro. Asimismo, podrá realizarse también de un municipio a otro, siempre y cuando, cumpla con los requisitos previstos para dicho trámite del municipio en el que se pretenda establecer el nuevo domicilio.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Se entiende por modificación de modalidad complementaria a la incorporación o disminución de aquellas actividades o características subsecuentes a las ya establecidas en el otorgamiento de la licencia.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Una vez que se tenga el dictamen administrativo correspondiente y en caso de que este se emita en sentido positivo, el solicitante deberá realizar los pagos que deriven por las modificaciones a las licencias de funcionamiento a que haya lugar, en un plazo de quince días hábiles, en los puntos y medios autorizados por la Secretaría, en caso de que el solicitante no realice el pago se entenderá por desistido del trámite.
 
 Actualización de datos
 
@@ -465,7 +783,13 @@ Cancelación de licencias o permisos
 
 Los titulares de las licencias o permisos podrán solicitar al SATEG la cancelación de éstos.
 
-Para estos efectos, se deberá comunicar por escrito, en los términos de la fracción I del artículo 20 del presente ordenamiento, dirigido al SATEG, su voluntad de dar por cancelada la licencia o el permiso y encontrarse al corriente en sus obligaciones fiscales estatales.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Para estos efectos, se deberá comunicar por escrito, en los términos de la fracción I del artículo 20 del presente ordenamiento, dirigido al SATEG, su voluntad de dar por cancelada la licencia o el permiso y encontrarse al corriente en sus obligaciones fiscales estatales; además, acreditar la titularidad de la licencia de que se trate y su personalidad, en caso de personas morales con el acta constitutiva, identificación y poder del representante legal.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Cuando la cancelación resulte por el fallecimiento del titular de la licencia, esta podrá ser solicitada por quien cuente con el carácter de albacea de los bienes de la persona titular de la licencia o permiso, por su cónyuge supérstite o bien por quien cuente con el parentesco en línea recta en primer grado, acreditándose cada uno de los supuestos, mediante copia certificada del acta expedida por el Registro Civil o autoridad judicial competente, según corresponda; adjuntando de manera adicional, el acta de defunción de la persona titular de la licencia o permiso de que se trate.
 
 Revocación de licencias o permisos
 
@@ -537,9 +861,17 @@ I. Obtener del SATEG la licencia o permiso correspondiente antes del inicio de s
 
 II. Iniciar actividades en un plazo no mayor de tres meses, contados a partir del día siguiente al de la entrega de la licencia de que se trate;
 
-III. Facilitar las inspecciones a las autoridades fiscales, proporcionando inmediatamente que lo soliciten, la documentación comprobatoria, así como permitir el acceso a cualquier espacio que tenga comunicación con el establecimiento;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-IV. Conservar los documentos que amparen la mercancía adquirida los cuales deberán reunir los requisitos que establecen las disposiciones fiscales y, su contabilidad en los términos previstos en el Código Fiscal para el Estado de Guanajuato.
+III. Facilitar las inspecciones a las autoridades fiscales, así como permitir el acceso a cualquier espacio que tenga comunicación con el establecimiento;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+III Bis. Proporcionar, de manera inmediata, la documentación comprobatoria que se solicite durante la visita;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+IV. Conservar los documentos que amparen la adquisición o posesión de la mercancía alcohólica los cuales deberán reunir los requisitos que establecen las disposiciones fiscales y, su contabilidad en los términos previstos en el Código Fiscal para el Estado de Guanajuato.
 
 En los casos de compras de mercancías facturadas en el extranjero, éstas deberán estar amparadas con la correspondiente relación aduanal de importación o boletas a nombre del titular de la licencia respectiva. En caso de mercancía a consignación se deberá presentar el contrato respectivo;
 
@@ -553,7 +885,9 @@ VIII. Explotar la licencia o permiso de manera directa por su titular;
 
 IX. Solicitar al SATEG la autorización correspondiente para el levantamiento provisional o definitivo de sellos de clausura del establecimiento;
 
-X. Contar con alcoholímetros o medidores para realizar pruebas de detección de intoxicación o nivel de alcohol en la sangre en sus establecimientos, para uso voluntario de sus clientes. Lo anterior será aplicable a los sujetos obligados que cuenten con licencias contempladas en la fracción I del artículo 13 de la presente Ley.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+X. Contar con alcoholímetros o medidores para realizar pruebas de detección de intoxicación o nivel de alcohol en la sangre en sus establecimientos, para uso voluntario de sus clientes. Lo anterior será aplicable a los sujetos obligados que cuenten con licencias contempladas en las fracciones I y III del artículo 13 de la presente Ley.
 
 Los medidores para realizar pruebas de detección de intoxicación o nivel de alcohol en la sangre o alcoholímetros tendrán las características y tiempo máximo de uso señalado por la Secretaría de Salud.
 
@@ -577,15 +911,25 @@ a) Guardar mercancía alcohólica en el embalaje que corresponda, debidamente ce
 
 b) La mercancía alcohólica almacenada deberá contar con la documentación correspondiente que ampare la legal adquisición.
 
-Prohibiciones para los titulares de las licencias o permisos
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XIII. Exhibir las declaraciones relacionadas con el Impuesto a la Venta Final de Bebidas Alcohólicas correspondientes al ejercicio fiscal en el que se realice la visita de inspección que corresponda.
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Prohibiciones de las personas físicas o morales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 31.
 
-Son prohibiciones para los titulares de licencias o permisos que realizan actividades materia de la presente Ley las siguientes:
+Son prohibiciones de las personas físicas o morales que realizan actividades materia de la presente Ley, las siguientes:
 
 I. Producir o almacenar y, enajenar bebidas alcohólicas sin contar con la licencia o permiso autorizado por el SATEG;
 
-II. Adquirir bebidas alcohólicas sin la documentación y medios de control correspondiente (sic);
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+II. Adquirir bebidas alcohólicas sin la documentación y medios de control correspondientes;
 
 III. Tener en existencia bebidas alcohólicas en envases que no contengan la información comercial establecida en la Norma Oficial de la materia;
 
@@ -597,19 +941,25 @@ VI. Enajenar bebidas alcohólicas a elementos uniformados del ejército, policí
 
 VII. Enajenar bebidas alcohólicas bajo la modalidad de barra libre;
 
-VIII. Violar sellos de clausura colocados por una autoridad estatal o municipal, en materia de alcoholes;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+VIII. Violar sellos de clausura colocados por una autoridad estatal o municipal, en materia de bebidas alcohólicas;
 
 > <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
 
 IX. Enajenar bebidas alcohólicas durante el tiempo que permanezcan clausurados los bienes muebles o los establecimientos;
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-X. Enajenar bebidas alcohólicas a granel, salvo las bebidas de bajo contenido alcohólico y bebidas alcohólicas de producción artesanal. Se considerará que dichas bebidas se venden a granel cuando estén contenidas en envases con capacidad mayor de 5 litros; y
+X. Enajenar bebidas alcohólicas a granel, salvo las bebidas de bajo contenido y bebidas alcohólicas de producción artesanal. Se considerará que dichas bebidas se venden a granel cuando estén contenidas en envases con capacidad mayor de 5 litros;
 
-> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-XI. Establecer a los clientes la condición de realizar un consumo mínimo para permitirles acceder o permanecer en el establecimiento.
+XI. Establecer a los clientes la condición de realizar un consumo mínimo para permitirles acceder o permanecer en el establecimiento; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XII. Enajenar bebidas alcohólicas en cualquier establecimiento, lugar o, medio, de manera permanente o eventual, diverso al autorizado en el permiso o licencia en materia de bebidas alcohólicas.
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2025)</small>
 
@@ -651,7 +1001,9 @@ II. Identificación oficial vigente del titular de la licencia o permiso, repres
 
 III. Tratándose de representantes legales el documento que acredite su personalidad;
 
-IV. Comprobante fiscal digital por internet que ampare la posesión de la mercancía alcohólica que tenga en existencia; en caso de mercancía a consignación se deberá presentar el contrato respectivo; en el supuesto de mercancía adquirida en el extranjero el sujeto obligado deberá contar con el pedimento de importación correspondiente; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+IV. Comprobante fiscal digital por internet que ampare la adquisición de la mercancía alcohólica que tenga en existencia; en caso de mercancía a consignación se deberá presentar el contrato respectivo; en el supuesto de mercancía adquirida en el extranjero el sujeto obligado deberá contar con el pedimento de importación correspondiente; y
 
 V. Aquellos elementos de contabilidad y datos que se requieran para constatar el cumplimiento de las disposiciones de esta Ley.
 
@@ -699,13 +1051,15 @@ En caso de que la persona con quien se practica la visita de inspección o verif
 
 Infracciones de la Ley
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 38.
 
-Son infracciones a las disposiciones de esta Ley las que a continuación se señalan y a cada una se impondrá multa equivalente al número de veces del valor diario vigente al momento de la comisión de la infracción que se indica de la Unidad de Medida y Actualización (UMA), de conformidad con lo siguiente:
+Son infracciones a las disposiciones de esta Ley las que a continuación se señalan y a cada una se impondrá multa en términos del valor diario de la Unidad de Medida y Actualización, conforme a lo siguiente:
 
 > <small>[N. DE E. VÉASE TABLA EN LA DÉCIMA PARTE DEL P.O. DE 30 DE DICIEMBRE DE 2019, PÁGINAS DE LA 33 A LA 36.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA , P.O. 24 DE SEPTIEMBRE DE 2021, PÁGINA 61; P.O. 28 DE JULIO DE 2025, PÁGINA 9.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 24 DE SEPTIEMBRE DE 2021, PÁGINA 61; P.O. 28 DE JULIO DE 2025, PÁGINA 9; P.O. 31 DE DICIEMBRE DE 2025, PÁGINAS DE LA 92 A LA 94.]</small>
 
 Requisitos para la imposición de multas
 
@@ -713,11 +1067,21 @@ Requisitos para la imposición de multas
 
 Dentro de los límites fijados por esta Ley, el SATEG al imponer multas por la comisión de las infracciones señaladas deberá fundar y motivar la resolución considerando la gravedad de la infracción y la capacidad económica del infractor.
 
-La sanción aumentará hasta en un cincuenta por ciento del mínimo establecido para la conducta desplegada cuando en la comisión de una infracción se dé cualquiera de los siguientes supuestos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-I. Que el sujeto obligado haga uso de documentos o elementos apócrifos; y
+La sanción aumentará un cincuenta por ciento del mínimo establecido para la conducta desplegada cuando en la comisión de una infracción se dé cualquiera de los siguientes supuestos:
 
-II. Si el sujeto obligado percibió algún beneficio o lucro como resultado de la infracción.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+I. Que el sujeto obligado haga uso de documentos o elementos apócrifos;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+II. Si el sujeto obligado percibió algún beneficio o lucro como resultado de la infracción; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+III. Se haya efectuado secuestro de mercancía alcohólica o de cualquier medio, ya sea permanente o de manera eventual, en el que se realice la actividad objeto de la ley de manera permanente o eventual.
 
 Las multas que impongan las autoridades competentes serán determinadas conforme a lo dispuesto en esta Ley; su cobro lo efectuará la autoridad fiscal que corresponda en los términos del Código Fiscal para el Estado de Guanajuato.
 
@@ -741,17 +1105,37 @@ La clausura procederá cuando:
 
 I. El establecimiento carezca de la licencia o permiso correspondiente;
 
-II. La licencia o permiso sea explotado por persona distinta a su titular, con excepción de lo establecido en el párrafo segundo del artículo 24 de la presente Ley;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+II. La licencia o permiso sea explotado por persona distinta a su titular, con excepción de lo establecido en el párrafo cuarto del artículo 24 de la presente Ley;
 
 III. La licencia o permiso sea explotado en domicilio distinto al que se señala en la misma;
 
 IV. Se lleve a cabo la explotación de la licencia o permiso sin contar con la autorización para desarrollar una modalidad complementaria;
 
-V. La reincidencia en el incumplimiento a las disposiciones de la presente Ley; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-VI. No haya refrendado la licencia en los plazos establecidos por el SATEG y se sigan desarrollando las actividades por las que fue otorgada.
+V. La reincidencia en el incumplimiento a las disposiciones de la presente Ley;
 
-La clausura total procederá cuando la actividad preponderante del sujeto obligado sea la enajenación de bebidas alcohólicas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+VI. No haya refrendado la licencia en los plazos establecidos por el SATEG y se sigan desarrollando las actividades por las que fue otorgada;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+VII. Se lleve a cabo la enajenación de bebidas alcohólicas con tipo de licencia o permiso distinto al autorizado;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+VIII. Se enajenen bebidas alcohólicas durante el tiempo que permanezca clausurada parcialmente la actividad; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+IX. Se enajenen bebidas alcohólicas a menores de edad.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+La clausura total procederá cuando la actividad preponderante del sujeto obligado sea la enajenación de bebidas alcohólicas, o bien, cuando se actualice el supuesto de la fracción VIII del presente artículo.
 
 Lo anterior, sin perjuicio de las demás sanciones a que haya lugar.
 
@@ -767,31 +1151,57 @@ II. Si la clausura afecta a un local que, además de fines comerciales o industr
 
 III. Se procederá al secuestro de las bebidas alcohólicas que se encuentren en envases que no tengan marcas, sellos, etiquetas o demás medios de control e identificación.
 
-Clausura de establecimientos clandestinos
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Clausura de establecimientos o lugares clandestinos
 
 ###### Artículo 43.
 
 El SATEG podrá realizar recorridos para verificar el cumplimiento de las disposiciones de la presente Ley.
 
-Si en el ejercicio de esta facultad se identifica un establecimiento clandestino, se levantará acta para consignar el hecho y se procederá a secuestrar provisionalmente las bebidas alcohólicas en cualquiera de sus presentaciones que se encuentren en éste, así como a la clausura del mismo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-La clausura sólo se levantará una vez que se hubiere otorgado la licencia respectiva, así como, cuando se hayan pagado las sanciones que se hubieren aplicado y demás créditos fiscales, en su caso.
+Si en el ejercicio de las facultades de comprobación se identifica un establecimiento o lugar clandestino, se procederá a secuestrar provisionalmente las bebidas alcohólicas, así como de los medios, en los que se efectúe la producción o almacenaje y, enajenación; y se podrá clausurar de manera total o parcial, según corresponda. La autoridad deberá elaborar el correspondiente inventario, mismo que formará parte del acta que al efecto se levante.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+En el caso de que el establecimiento se trate de una casa habitación, se procederá a secuestrar provisionalmente las bebidas alcohólicas sin que sea procedente la clausura en ninguno de sus sentidos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+La clausura sólo se levantará una vez que se hubiere subsanado o corregido las causas que dieron lugar a ésta, así como, cuando se hayan pagado las sanciones que se hubieren aplicado y, en su caso, los créditos fiscales que tenga.
 
 Secuestro de mercancías
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 44.
 
-Las bebidas alcohólicas que sean secuestradas provisionalmente en los términos del artículo que antecede podrán ser recuperadas en un plazo de un año contado a partir del día hábil siguiente a su secuestro, debiendo cumplirse los siguientes supuestos:
+Las bebidas alcohólicas o cualquier medio que sea secuestrado provisionalmente en los términos del artículo que antecede podrán ser recuperadas en un plazo de seis meses contados a partir del día hábil siguiente a su secuestro, debiendo cumplirse los siguientes supuestos:
 
 I. Obtener la licencia o permiso correspondiente; y
 
-II. Acreditar la legítima propiedad de la mercancía secuestra (sic).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+II. Acreditar la legítima adquisición o posesión de la mercancía secuestrada.
 
 Lo anterior, previo pago de la multa correspondiente. En caso de que las bebidas alcohólicas secuestradas no sean recuperadas transcurrido el plazo señalado, el SATEG procederá a destruir la mercancía secuestrada.
 
-Las bebidas alcohólicas secuestradas de las que no se solicite la recuperación en un término de un año contado a partir del día hábil siguiente a su secuestro, el SATEG procederá a su destrucción.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-Cuando el SATEG pretenda realizar la destrucción de la mercancía deberá dar aviso a la Secretaría de la Transparencia y Rendición de Cuentas, tres días hábiles previos a su destrucción.
+La mercancía alcohólica y los bienes que hayan sido secuestrados, serán devueltos conforme lo señalado en el inventario respectivo, así como en las disposiciones de carácter general que para el efecto emita el SATEG. La autoridad competente no será responsable del menoscabo, deterioro o descomposición de los bienes secuestrados, salvo que se acredite negligencia y mala fe por su parte.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Cuando la actividad se realice en un medio de transporte o cualquier otro medio utilizado para la enajenación quedará como garantía del interés fiscal.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+El SATEG procederá a la destrucción de las bebidas alcohólicas o cualquier medio secuestrado que no sean recuperados transcurrido el plazo señalado.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Cuando el SATEG pretenda realizar la destrucción de la mercancía o medio secuestrado, deberá notificar a la Secretaría de la Honestidad, diez días hábiles previos a su destrucción.
 
 Levantamiento de clausuras
 
@@ -800,6 +1210,10 @@ Levantamiento de clausuras
 Procede el levantamiento definitivo de clausura cuando el titular cuente con la licencia o permiso correspondiente expedido por el SATEG, así como, cuando el sujeto obligado haya subsanado o corregido las causas que dieron origen a la clausura y se hayan pagado las sanciones que se hubieren aplicado.
 
 No obstante, lo señalado en el párrafo anterior, el sujeto obligado podrá solicitar la suspensión de la clausura de manera provisional hasta por sesenta días, siempre y cuando, el SATEG valide los documentos y requisitos necesarios para regularizar la causa por la cual se le ordenó la clausura.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Solicitar al SATEG la autorización correspondiente para el levantamiento provisional o definitivo de sellos de clausura del establecimiento.
 
 ## Título cuarto. Colaboración
 
@@ -819,7 +1233,9 @@ Contenido de los reglamentos municipales
 
 Los ayuntamientos deberán emitir en los términos de la presente Ley reglamentos municipales, mismos que deberán regular como mínimo lo siguiente:
 
-I. La emisión de la constancia de factibilidad en la que se considere al menos lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+I. La emisión de la constancia de factibilidad o el documento que para tal efecto emita en la que se considere al menos lo siguiente:
 
 a) Razones de seguridad y salubridad pública;
 
@@ -980,3 +1396,11 @@ Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de
 Plazo para adecuaciones
 
 Artículo Segundo. Los establecimientos contarán con ciento ochenta días a partir de la entrada en vigor del presente Decreto, para incorporar la información de contenido alcohólico en sus cartas de bebidas.
+
+P.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 168, QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE BEBIDAS ALCOHÓLICAS PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS".]
+
+Vigencia del Decreto
+
+Artículo Único. El presente Decreto entrará en vigor el 1 de enero de 2026, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
