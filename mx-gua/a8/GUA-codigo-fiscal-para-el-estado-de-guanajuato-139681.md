@@ -4,7 +4,7 @@ identifier: "GUA-codigo-fiscal-para-el-estado-de-guanajuato-139681"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-12-30"
-last_updated: "2025-07-28"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO FISCAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2025.
 
 Código publicado en la Novena Parte del Periódico Oficial del Estado de Guanajuato, el lunes 30 de diciembre de 2019.
 
@@ -207,13 +207,17 @@ Dichas contribuciones se determinarán conforme a las disposiciones vigentes en 
 
 Corresponde a los contribuyentes la determinación de las contribuciones a su cargo, salvo disposición expresa en contrario. Si las autoridades fiscales deben hacer la determinación, los contribuyentes les proporcionarán la información necesaria dentro de los quince días siguientes a la fecha de su causación.
 
-Las contribuciones y aprovechamientos se pagarán en la fecha o dentro del plazo señalado en la normatividad fiscal del estado de Guanajuato. A falta de disposición expresa, el pago deberá hacerse a través de los medios autorizados por el SATEG mediante disposiciones de carácter general, dentro de los quince días siguientes al momento en que obliga su causación.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Las contribuciones y aprovechamientos se pagarán en la fecha o dentro del plazo señalado en la normatividad fiscal del estado de Guanajuato. A falta de disposición expresa, el pago deberá hacerse a través de los medios autorizados por la Secretaría, dentro de los quince días siguientes al momento en que obliga su causación.
 
 En el caso de contribuciones que se deben pagar mediante retención, aun cuando quien deba efectuarla no retenga o no haga pago de la contraprestación relativa, el retenedor estará obligado a enterar una cantidad equivalente a la que debió haber retenido.
 
 Cuando los retenedores deban hacer un pago en bienes, solamente harán la entrega del bien de que se trate si quien debe recibirlo provee los fondos necesarios para efectuar la retención en moneda nacional.
 
-Quien haga pago de créditos fiscales a través de los medios que autorice la Secretaría mediante disposiciones de carácter general deberá obtener el comprobante de pago correspondiente. Tratándose de los pagos efectuados en las oficinas de las instituciones de crédito, se deberá obtener la impresión de la máquina registradora, el sello, la constancia o el acuse de recibo electrónico con sello digital.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Quien haga pago de créditos fiscales a través de los medios autorizados por la Secretaría, deberá obtener el comprobante de pago correspondiente.
 
 Cuando las disposiciones fiscales establezcan opciones a los contribuyentes para el cumplimiento de sus obligaciones fiscales o para determinar las contribuciones a su cargo, la elegida por el contribuyente no podrá variarla respecto al mismo ejercicio.
 
@@ -261,7 +265,7 @@ b) Cuando no realicen las actividades señaladas en el inciso anterior, el local
 
 c) Únicamente en los casos en que la persona física, que realice actividades señaladas en los incisos anteriores no cuente con un local, su casa habitación. Para estos efectos, las autoridades fiscales harán del conocimiento del contribuyente en su casa habitación, que cuenta con un plazo de cinco días para acreditar que su domicilio corresponde a uno de los supuestos previstos en los incisos a o b de esta fracción.
 
-d) A falta de domicilio en los términos indicados en los incisos anteriores, el lugar en que se encuentren.
+d) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2025)
 
 Siempre que los contribuyentes no hayan manifestado alguno de los domicilios citados en los incisos anteriores o no hayan sido localizados en los mismos, se considerará como domicilio el que hayan manifestado a las entidades financieras o a las sociedades cooperativas de ahorro y préstamo, cuando sean usuarios de los servicios que presten estas.
 
@@ -269,9 +273,13 @@ II. En el caso de personas morales:
 
 a) Cuando sean residentes en el Estado, el local en donde se encuentre la administración principal del negocio.
 
-b) Si se trata de establecimientos de personas morales residentes en otro Estado, dicho establecimiento; en el caso de varios establecimientos en el Estado, el local en donde se encuentre la administración principal del negocio en el Estado, o en su defecto el que designen.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-III. Tratándose de personas físicas o morales, residentes o establecidas fuera del Estado, que realicen actividades gravadas dentro del territorio del mismo a través de representantes o terceros, cualquiera que sea el nombre con el que se les designe, se considerará como su domicilio el del representante o tercero.
+b) Tratándose de personas morales residentes en otro estado que cuenten con un solo establecimiento en el estado, será dicho establecimiento; en el caso de contar con varios establecimientos en el estado, el que designen.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+III. Tratándose de personas físicas o morales, residentes o establecidas fuera del estado, que realicen actividades gravadas dentro del territorio de este, deberán señalar como domicilio el establecimiento donde lleven a cabo sus actividades en el estado.
 
 Cuando los contribuyentes no hayan designado un domicilio fiscal estando obligados a ello, o hubieran designado como domicilio fiscal un lugar distinto al que les corresponda de acuerdo con lo dispuesto en este mismo precepto o cuando hayan manifestado un domicilio ficticio, las autoridades fiscales podrán practicar diligencias en cualquier lugar en el que realicen sus actividades o en el lugar que conforme a este artículo se considere su domicilio, indistintamente.
 
@@ -691,11 +699,15 @@ Para determinar las contribuciones y sus accesorios se considerará el tipo de c
 
 La equivalencia del peso mexicano con monedas extranjeras distintas al dólar de los Estado Unidos de América que regirá para efectos fiscales, se calculará multiplicando el tipo de cambio a que se refiere el párrafo tercero del presente artículo, por el equivalente en dólares de la moneda de que se trate, de acuerdo con la tabla que mensualmente publique el Banco de México durante la primera semana del mes inmediato siguiente a aquel al que corresponda.
 
-Se aceptará como medio de pago de las contribuciones y aprovechamientos, el efectivo en moneda nacional, el cheque certificado o de caja, la transferencia electrónica de fondos, el Código Digital (CoDi); así como las tarjetas de crédito y débito, de conformidad con las disposiciones de carácter general que expida el SATEG.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Se aceptará como forma de pago de las contribuciones y sus accesorios, el efectivo en moneda nacional, el cheque certificado o de caja, y la transferencia electrónica de fondos; así como las tarjetas de crédito y débito, u otros que para tal efecto autorice la Secretaría.
 
 Se entiende por transferencia electrónica de fondos, el pago que, por instrucción de los contribuyentes, a través de la afectación de fondos de su cuenta bancaria a favor de la Secretaría, se realiza por las instituciones de crédito, en forma electrónica.
 
-La autoridad fiscal podrá aceptar como medio de pago la dación de bienes, previa valuación de los mismos, exclusivamente dentro del procedimiento administrativo de ejecución y en los términos que se prevea en las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+La autoridad fiscal podrá aceptar como forma de pago la dación de bienes, previa valuación de estos, exclusivamente dentro del procedimiento administrativo de ejecución y en los términos que se prevea en las disposiciones aplicables.
 
 Los pagos que se hagan, se aplicarán a los créditos más antiguos siempre que se trate de la misma contribución, y antes que, al adeudo principal, a los accesorios en el siguiente orden:
 
@@ -709,19 +721,27 @@ IV. La indemnización a que se refiere el séptimo párrafo del artículo 38 de 
 
 Cuando el contribuyente interponga algún medio de defensa legal impugnando alguno de los conceptos señalados en el párrafo anterior, el orden señalado en el mismo no será aplicable respecto del concepto impugnado y garantizado.
 
-Para determinar las contribuciones se considerarán, inclusive, las fracciones del peso. Para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de 1 hasta 50 centavos se ajusten a la unidad inmediata inferior y las que contengan cantidades de 51 a 99 centavos, se ajusten a la unidad inmediata superior.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-Los medios de pago señalados en el quinto párrafo de este artículo, también serán aplicables a los productos.
+Para determinar las contribuciones y sus accesorios se considerarán, inclusive, las fracciones del peso. Para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de 1 hasta 50 centavos se ajusten a la unidad inmediata inferior y las que contengan cantidades de 51 a 99 centavos, se ajusten a la unidad inmediata superior.
 
-Para el caso de las tarjetas de crédito y débito, este medio de pago podrá tener asociado el pago de comisiones a cargo del fisco estatal.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-El SATEG mediante disposiciones de carácter general podrá autorizar otros medios de pago.
+Las formas de pago señaladas en el quinto párrafo de este artículo también serán aplicables a los productos, aprovechamientos y sus accesorios y aquellos que tenga obligación de recaudar la Secretaría.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Para el caso de las tarjetas de crédito y débito, esta forma de pago podrá tener asociado el pago de comisiones a cargo del fisco estatal.
+
+> <small>(DEROGADO DÉCIMO TERCER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 Pago mediante cheques personales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 37.
 
-Para los efectos del quinto párrafo del artículo 36 del presente Código, el pago mediante cheques personales se podrá realizar cuando se emitan de la cuenta del contribuyente y sean expedidos por él mismo para cubrir el entero de contribuciones y sus accesorios mediante declaraciones periódicas, incluso tratándose de los pagos realizados por fedatarios públicos que conforme a las disposiciones fiscales se encuentren obligados a determinar y enterar contribuciones a cargo de terceros, siempre que cumplan con los requisitos de este artículo y los que se establezcan en las disposiciones de carácter general que para tal efecto emita el SATEG.
+Para los efectos del quinto párrafo del artículo 36 del presente Código, el pago mediante cheques personales se podrá realizar cuando se emitan de la cuenta del contribuyente y sean expedidos por él mismo para cubrir el entero de contribuciones y sus accesorios mediante declaraciones periódicas, incluso tratándose de los pagos realizados por fedatarios públicos que conforme a las disposiciones fiscales se encuentren obligados a determinar y enterar contribuciones a cargo de terceros, siempre que cumplan con los requisitos de este artículo y los que se establezca la Secretaría.
 
 El cheque mediante el cual se paguen las contribuciones y sus accesorios deberá expedirse a favor de la Secretaría.
 
@@ -731,9 +751,11 @@ El pago de créditos fiscales podrá realizarse con cheques personales del contr
 
 Recargos e indemnización por cheque no pagado o cargo no reconocido
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 38.
 
-Cuando no se cubran las contribuciones o los aprovechamientos en la fecha o dentro del plazo fijado por las disposiciones fiscales, su monto se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe; además, deberán pagarse recargos en concepto de indemnización al fisco estatal por la falta de pago oportuno. Dichos recargos se calcularán aplicando al monto de las contribuciones o de los aprovechamientos actualizados por el período a que se refiere este párrafo, la tasa que resulte de sumar las aplicables en cada año para cada uno de los meses transcurridos en el período de actualización de la contribución o aprovechamiento de que se trate. La tasa (sic) de recargos serán las que al efecto se establezcan en la Ley de Ingresos para el Estado de Guanajuato, para el ejercicio fiscal correspondiente.
+Cuando no se cubran las contribuciones o los aprovechamientos en la fecha o dentro del plazo fijado por las disposiciones fiscales, su monto se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe; además, deberán pagarse recargos en concepto de indemnización al fisco estatal por la falta de pago oportuno. Dichos recargos se calcularán aplicando al monto de las contribuciones o de los aprovechamientos actualizados por el período a que se refiere este párrafo, la tasa que resulte de sumar las aplicables en cada año para cada uno de los meses transcurridos en el período de actualización de la contribución o aprovechamiento de que se trate. La tasa de recargos para cada uno de los meses transcurridos será la que resulte de incrementar en 50% a la establecida en la Ley de Ingresos para el Estado de Guanajuato que se encuentre vigente para saldos insolutos, la tasa se considerará hasta la centésima y, en su caso, se ajustará a la centésima inmediata superior cuando el dígito de la milésima sea igual o mayor a 5 y cuando la milésima sea menor a 5 se mantendrá la tasa a la centésima que haya resultado.
 
 Los recargos se causarán hasta por cinco años, salvo en los casos a que se refiere el artículo 100 de este Código, supuestos en los cuales los recargos se causarán hasta en tanto no se extingan las facultades de las autoridades fiscales para determinar las contribuciones o aprovechamientos omitidos y sus accesorios, y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización a que se refiere el párrafo séptimo de este artículo, los gastos de ejecución y las multas por infracción a disposiciones fiscales.
 
@@ -1143,6 +1165,20 @@ c) Corregir los datos del Registro Estatal de Contribuyentescon (sic) base en ev
 
 d) Emitir a través de reglas de carácter general, los requisitos a través de los cuales, las personas físicas que no sean sujetos obligados en términos del presente artículo, podrán solicitar su inscripción en el Registro Estatal de Contribuyentes.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+e) Requerir aclaraciones, información o documentación a los contribuyentes, a los fedatarios públicos o alguna otra autoridad ante la que se haya protocolizado o apostillado un documento, según corresponda.
+
+El SATEG, mediante reglas de carácter general, podrá establecer el procedimiento para requerir al fedatario público que informe, bajo protesta de decir verdad sobre la autenticidad de los documentos presentados por las personas físicas y morales en los trámites fiscales que soliciten.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+f) Suspender las actividades o disminuir las obligaciones fiscales de los contribuyentes cuando, con base en la información que obre en sus sistemas o aquella proporcionada por otras autoridades o terceros, se confirme que, durante los tres ejercicios inmediatos anteriores, sin estar obligados a hacerlo no han presentado declaraciones, no han sido informados en las declaraciones presentadas por terceros, no han emitido ni recibido comprobantes fiscales, no han presentado avisos ante el Registro Estatal de Contribuyentes y no cuentan con requerimientos de la autoridad pendientes por cubrir, en los términos que establezca el SATEG mediante reglas de carácter general.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+g) Cancelar el Registro Estatal de Contribuyentes cuando, con base en la información que obre en sus sistemas o aquella proporcionada por otras autoridades o terceros, se acredite que los contribuyentes, durante los cinco ejercicios fiscales inmediatos anteriores, sin estar obligados a hacerlo no han presentado declaraciones, no han sido informados en las declaraciones presentadas por terceros, no han emitido ni recibido comprobantes fiscales, no han presentado avisos ante el Registro Estatal de Contribuyentes y, no con cuentan créditos fiscales, en los términos que establezca el SATEG mediante reglas de carácter general; asimismo, procederá la cancelación por defunción de las personas físicas.
+
 Integración de la contabilidad
 
 ###### Artículo 51.
@@ -1331,11 +1367,29 @@ f) Publicar anualmente las resoluciones dictadas por las autoridades fiscales qu
 
 Los servicios de asistencia al contribuyente a que se refiere esta fracción, también deberán difundirse a través de la página electrónica que al efecto establezca el SATEG. En dicha página también se darán a conocer la totalidad de los trámites fiscales.
 
-II. Establecerán programas de prevención y resolución de problemas del contribuyente; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+II. Establecerán programas de prevención y resolución de problemas del contribuyente;
 
 III. Para los efectos de lo dispuesto en este artículo, la autoridad fiscal en el ejercicio de sus facultades de asistencia al contribuyente, podrá realizar recorridos, invitaciones y censos para informar y asesorar a los contribuyentes acerca del exacto cumplimiento de sus obligaciones fiscales y promover su incorporación voluntaria o actualización de sus datos en el Registro Estatal de Contribuyentes, con base en la información del Registro Federal de Contribuyentes, a fin de facilitar la inscripción a dicho registro.
 
-No se considera que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando derivado de lo señalado en el párrafo que antecede, soliciten a los particulares los datos, informes y documentos necesarios para corregir o actualizar el Registro Estatal de Contribuyentes.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+No se considera que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando derivado de lo señalado en el párrafo que antecede, soliciten a los particulares los datos, informes y documentos necesarios para corregir o actualizar el Registro Estatal de Contribuyentes; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+IV. Promover el cumplimiento en materia de presentación de declaraciones, así como las correcciones a su situación fiscal mediante el envío de:
+
+a) Propuestas de pago o declaraciones prellenadas.
+
+b) Comunicados para promover el cumplimiento de sus obligaciones fiscales.
+
+c) Comunicados para informar sobre inconsistencias detectadas o comportamientos atípicos.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN IV, P.O. 31 DE DICIEMBRE DE 2025]</small>
+
+El envío de los documentos señalados en los incisos anteriores, no se considerará inicio de facultades de comprobación.
 
 Las autoridades fiscales darán a conocer a los contribuyentes a través de los medios de difusión que se señalen en disposiciones de carácter general, los criterios de carácter interno que emitan para el debido cumplimiento de las disposiciones fiscales, salvo aquellos que a juicio de la propia autoridad, tengan el carácter de confidenciales, sin que por ello nazcan obligaciones para los particulares y únicamente derivarán derechos de los mismos cuando se publiquen en el Periódico Oficial del Gobierno del Estado.
 
@@ -1389,7 +1443,9 @@ Las resoluciones administrativas de carácter individual favorables a un particu
 
 Cuando el SATEG modifique las resoluciones administrativas de carácter general, estas modificaciones no comprenderán los efectos producidos con anterioridad a la nueva resolución.
 
-Las autoridades fiscales podrán, discrecionalmente, revisar las resoluciones administrativas de carácter individual no favorables a un particular emitidos (sic) por sus subordinados jerárquicamente y, en el supuesto de que se demuestre fehacientemente que los mismos (sic) se hubieran emitido en contravención a las disposiciones fiscales, podrán, por una sola vez, modificarlos o revocarlos (sic) en beneficio del contribuyente, siempre y cuando los contribuyentes no hubieren interpuesto medios de defensa y hubieren transcurrido los plazos para presentarlos (sic), y sin que haya prescrito el crédito fiscal.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Las autoridades fiscales podrán, discrecionalmente, revisar las resoluciones que contengan determinaciones de créditos fiscales emitidas por sus subordinados jerárquicamente y, en el supuesto de que se demuestre fehacientemente que los mismos se hubieran emitido en contravención a las disposiciones fiscales, podrán, por una sola vez, modificarlos o revocarlos en beneficio del contribuyente, siempre y cuando los contribuyentes no hubieren interpuesto medios de defensa y hubieren transcurrido los plazos para presentarlos, y sin que haya prescrito el crédito fiscal.
 
 Lo señalado en el párrafo anterior, no constituirá instancia y las resoluciones que dicte el SATEG al respecto no podrán ser impugnadas por los contribuyentes.
 
@@ -1635,13 +1691,25 @@ X. Verificar la procedencia de la devolución a que se refiere el artículo 44 d
 
 El ejercicio de las facultades a que se refiere este artículo podrá realizarse por las autoridades fiscales de forma conjunta, simultánea, indistinta o sucesivamente, y en cada caso, se considerarán iniciadas con el primer acto que se notifique al contribuyente.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Tratándose de las visitas domiciliarias y verificación física de bienes durante el transporte, a que se refieren las fracciones III y IV de este artículo, respectivamente, las autoridades fiscales podrán autorizar, en la misma orden de visita o verificación, el uso de herramientas tecnológicas para generar de manera indistinta fotografías, audios o videos del desarrollo de las diligencias que practiquen, cuya impresión o archivos electrónicos serán anexados a las actas que levanten y servirán como prueba, entre otras circunstancias, de las características del lugar, fecha y hora en que se desarrollaron, personas que participaron, de los hechos y omisiones que se conocieron al amparo de la orden respectiva.
+
 En el caso de que la autoridad fiscal esté ejerciendo las facultades de comprobación previstas en las fracciones II, III y VIII de este artículo y en el ejercicio revisado se disminuyan pérdidas fiscales o se compensen saldos a favor, se podrá requerir al contribuyente dentro del mismo acto de comprobación la documentación comprobatoria con la que acredite de manera fehaciente el origen y procedencia ya sea de la pérdida fiscal o del saldo a favor, independientemente del ejercicio en que se hayan originado los mismos, sin que dicho requerimiento se considere como un nuevo acto de comprobación.
 
 La revisión que de las pérdidas fiscales efectúen las autoridades fiscales sólo tendrá efectos para la determinación del resultado del ejercicio sujeto a revisión.
 
-Las autoridades fiscales que estén ejerciendo alguna de las facultades previstas en las fracciones II, III y VIII de este artículo y detecten hechos u omisiones que puedan entrañar un incumplimiento en el pago de contribuciones, deberán informar por medio de buzón tributario al contribuyente, a su representante legal, y en el caso de las personas morales a sus órganos de dirección por conducto de aquel, en un plazo de al menos diez días hábiles previos al del levantamiento de la última acta parcial, del oficio de observaciones o de la resolución definitiva en el caso de revisiones electrónicas, el derecho que tienen para acudir a las oficinas que estén llevando a cabo el procedimiento de que se trate, para conocer los hechos y omisiones que hayan detectado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-Transcurrido el plazo a que se refiere el párrafo anterior, la autoridad emitirá la última acta parcial, el oficio de observaciones o la resolución definitiva en el caso de revisiones electrónicas, señalando en estas actuaciones la asistencia o inasistencia de los interesados para ejercer su derecho a conocer el estado del procedimiento a que está siendo sujeto; previamente a ello, deberá levantarse un acta circunstanciada en la que se haga constar esta situación.
+Las autoridades fiscales que estén ejerciendo alguna de las facultades previstas en las fracciones II, III y VIII de este artículo, dentro de los 10 días hábiles posteriores al del levantamiento de la última acta parcial, de la notificación del oficio de observaciones o de la resolución provisional, deberán informar mediante oficio, por cualquiera de las formas de notificación señaladas en el artículo 150 de este Código, los hechos u omisiones que puedan entrañar un incumplimiento en el pago de contribuciones, al contribuyente, a su representante legal y, en el caso de las personas morales a sus órganos de dirección. Dicho informe no interfiere con los plazos, efectos jurídicos, ni derechos establecidos en los artículos 75, fracción IV, 77, fracciones VI y VII y 82, fracción II y segundo párrafo, de este Código.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Para efectos del párrafo anterior, tratándose de personas morales, la autoridad fiscal requerirá al contribuyente, desde el oficio con el cual inicien las facultades de comprobación, para que en el primer acto en el que comparezca, proporcione el nombre del presidente del consejo de administración, del administrador único y/o de la persona que tenga ese carácter en su órgano de dirección, su domicilio fiscal, su dirección de correo electrónico, teléfono y los medios de contacto que, en su caso, tengan habilitados en el Buzón Tributario, así como, en su caso, el nombre del representante legal de los mismos. Los contribuyentes se encontrarán obligados a mantener informada a la autoridad fiscal sobre cualquier cambio en los integrantes del referido órgano de dirección, así como del domicilio y medios de contacto antes referidos y deberán comunicar sobre esas modificaciones a la autoridad que esté ejerciendo las facultades de comprobación, en la siguiente actuación que realicen dentro de los referidos procedimientos de fiscalización. En caso de que el contribuyente no proporcione dicha información, se entenderá que no es su deseo ejercer el derecho contenido en el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Transcurrido el plazo a que se refiere el párrafo sexto, la autoridad emitirá la última acta parcial, el oficio de observaciones o la resolución definitiva en el caso de revisiones electrónicas, señalando en estas actuaciones la asistencia o inasistencia de los interesados para ejercer su derecho a conocer el estado del procedimiento a que está siendo sujeto; previamente a ello, deberá levantarse un acta circunstanciada en la que se haga constar esta situación.
 
 El SATEG establecerá mediante disposiciones de carácter general, el procedimiento para informar al contribuyente el momento oportuno para acudir a sus oficinas y la forma en que este puede ejercer su derecho a ser informado.
 
@@ -1703,9 +1771,9 @@ I. Permitir a los visitadores designados por las autoridades fiscales el acceso 
 
 II. Mantener a disposición de las autoridades fiscales la contabilidad y demás papeles que acrediten el cumplimiento de las disposiciones fiscales, de los que los visitadores podrán sacar copias para que previo cotejo con sus originales se certifiquen por estos y sean anexados a las actas finales o parciales que levanten con motivo de la visita;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-III. Permitir la verificación de bienes, mercancías, emisiones de contaminantes en el suelo, subsuelo, agua y a la atmósfera, y el depósito de residuos en sitios de disposición final, que sean objeto de alguno de los impuestos del Estado, así como de los documentos, estados de cuentas bancarias, discos, cintas o cualquier otro medio procesable de almacenamiento de datos y procesos productivos que tenga o realice el contribuyente en los lugares visitados, así como de los equipos de medición de sustancias contaminantes y niveles de contaminación, de acuerdo con las disposiciones fiscales. Las autoridades fiscales podrán utilizar herramientas tecnológicas de medida, estimación o cálculo para determinar emisiones, los elementos de la contribución o la base gravable de cualquiera de los impuestos ecológicos de remediación ambiental, así como material que sirva como muestra, testigo o constancia de contaminación que exista en las instalaciones de los contribuyentes; y
+III. Permitir la verificación de bienes, mercancías, emisiones de contaminantes al suelo, subsuelo, agua y a la atmósfera, y el depósito de residuos en sitios de disposición final o transferencia, que sean objeto de alguno de los impuestos del Estado, así como de los documentos, estados de cuentas bancarias, discos, cintas o cualquier otro medio procesable de almacenamiento de datos y procesos productivos que tenga o realice el contribuyente en los lugares visitados, así como de los equipos de medición de sustancias contaminantes y niveles de contaminación, de acuerdo con las disposiciones fiscales. Las autoridades fiscales podrán utilizar herramientas tecnológicas de medida, estimación o cálculo para determinar emisiones, los elementos de la contribución o la base gravable de cualquiera de los impuestos ecológicos de remediación ambiental, así como material que sirva como muestra, testigo o constancia de contaminación que exista en las instalaciones de los contribuyentes; y
 
 IV. Cuando los visitados lleven su contabilidad o parte de ella con el sistema de registro electrónico, o microfilmen o graben en discos ópticos o en cualquier otro medio que autoricen las autoridades fiscales mediante disposiciones de carácter general, deberán poner a disposición de los visitadores el equipo de cómputo y sus operadores, para que los auxilien en el desarrollo de la visita, así como entregar a la autoridad los archivos electrónicos en donde conste dicha contabilidad.
 
@@ -1793,15 +1861,19 @@ VII. Dentro del plazo para desvirtuar los hechos u omisiones asentados en el ofi
 
 VIII. Cuando el contribuyente no corrija totalmente su situación fiscal conforme al oficio de observaciones o no desvirtúe los hechos u omisiones consignados en dicho documento, se emitirá la resolución que determine las contribuciones o aprovechamientos omitidos, la cual se notificará al contribuyente cumpliendo con lo señalado en la fracción I de este artículo y en el lugar especificado en dicha fracción.
 
-Para los efectos del primer párrafo de este artículo, se considera como parte de la documentación o información que pueden solicitar las autoridades fiscales, la relativa a las cuentas bancarias del contribuyente.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Para los efectos de lo dispuesto en el presente artículo y en el artículo 71, primer párrafo de este Código, cuando la autoridad se encuentre ejerciendo sus facultades de comprobación, podrá requerir informes, datos, documentos, la contabilidad o parte de ella, así como información económica y financiera, con el orden, metodología y características, que permitan relacionar las operaciones, actos o actividades del contribuyente revisado, además de la relativa a las cuentas bancarias abiertas a nombre del contribuyente.
 
 Para los efectos de las fracciones IV y VIII de este artículo, la autoridad fiscal, previamente a la determinación del crédito fiscal, emitirá el oficio de observaciones y continuará con el procedimiento establecido por el citado artículo.
 
 Requisitos de las visitas de inspección
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 78.
 
-Para los efectos de lo dispuesto por la fracción V del artículo 71 de este Código, las visitas domiciliarias se realizarán conforme a lo siguiente:
+Para los efectos de lo dispuesto por la fracción IV del artículo 71 de este Código, las visitas domiciliarias se realizarán conforme a lo siguiente:
 
 I. Se llevará a cabo en el domicilio fiscal, establecimientos, sucursales, locales, puestos fijos y semifijos en la vía pública, de los contribuyentes, siempre que se encuentren abiertos al público en general, donde se realicen enajenaciones, presten servicios o contraten el uso o goce temporal de bienes, así como en los lugares donde se almacenen las mercancías o en donde se realicen las actividades relacionadas con las concesiones o autorizaciones o de cualquier padrón o registro, o que sean reguladas en su funcionamiento por la legislación estatal;
 
@@ -2291,7 +2363,9 @@ IV. Que haya recaído sobre ellos sentencia condenatoria ejecutoria respecto a l
 
 V. Que tengan a su cargo créditos fiscales que hayan sido afectados en los términos de lo dispuesto por el artículo 172 de este Código;
 
-VI. Que se les hubiere condonado algún crédito fiscal; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+VI. Que se les hubiere reducido algún crédito fiscal; y
 
 VII. Cualquier autoridad, dependencia, entidad, órgano u organismo de los poderes Legislativo, Ejecutivo y Judicial del Estado y de los municipios, organismos autónomos, partidos políticos, fideicomisos y fondos, así como cualquier persona física, moral o sindicato, que reciban y ejerzan recursos públicos estatales, que se encuentren omisos en la presentación de declaraciones periódicas para el pago de contribuciones estatales propias o retenidas. Tratándose de este supuesto, también se publicará en la página de Internet del SATEG, el ejercicio y el periodo omiso.
 
@@ -2555,7 +2629,9 @@ VIII. No dar cumplimiento a lo dispuesto en el artículo 51, fracción I de este
 
 IX. No proporcionar la información señalada en el artículo 54 de este Código o presentarla incompleta o con errores;
 
-X. No proporcionar los datos, informes o documentos solicitados por las autoridades fiscales conforme a lo previsto en el párrafo noveno del artículo 71 de este Código;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+X. No proporcionar los datos, informes o documentos solicitados por las autoridades fiscales conforme a lo previsto en el artículo 71 de este Código;
 
 XI. Presentar declaraciones, solicitudes, avisos, datos, informes y documentos, alterados o falsificados;
 
@@ -2749,11 +2825,235 @@ Levantamiento de la clausura
 
 Una vez clausurado un local o establecimiento, se podrá levantar la clausura en los casos que correspondan, cuando hubiere cesado la causa por la que se ordenó y se hayan pagado las multas aplicadas y demás créditos fiscales o cuando exista resolución de autoridad judicial, laboral o administrativa competente, el SATEG mediante disposiciones de carácter general, podrá establecer las causas y requisitos para autorizar de manera temporal el levantamiento de la clausura.
 
-### Capítulo I. Recurso Administrativo
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+### Capítulo III. Delitos fiscales
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Delitos fiscales
+
+Artículo 132 bis. El SATEG tendrá el carácter de víctima u ofendida en los procedimientos penales y juicios relacionados con delitos previstos en este Código. Los abogados tributarios podrán actuar como asesores jurídicos dentro de dichos procedimientos.
+
+Para proceder penalmente por los delitos fiscales previstos en este Capítulo, será necesario que previamente el SATEG formule querella, independientemente del estado en que se encuentre el procedimiento administrativo que en su caso se tenga iniciado.
+
+Los procesos por los delitos fiscales a que se refieren este artículo se sobreseerán a petición del SATEG, cuando los imputados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos, o bien esos créditos fiscales queden garantizados a satisfacción del SATEG. La petición anterior se hará discrecionalmente, antes de que el Ministerio Público y el asesor jurídico formulen el alegato de clausura, y surtirá efectos respecto de las personas a que la misma se refiera.
+
+El SATEG, con el fin de formular ante el Ministerio Público el requisito de procedibilidad que corresponda, podrá allegarse de los datos necesarios para documentar hechos probablemente constitutivos de delitos fiscales.
+
+En los casos en que el daño o el perjuicio sean cuantificable, el SATEG hará la cuantificación correspondiente en la propia querella. La cuantificación sólo surtirá efectos en el procedimiento penal. Para conceder la libertad provisional, el monto de la caución que fije la autoridad judicial comprenderá, en su caso, la suma de la cuantificación antes mencionada y las contribuciones adeudadas, incluyendo actualización y recargos que hubiera determinado la autoridad fiscal a la fecha en que se promueva la libertad provisional. La caución que se otorgue en los términos de este párrafo no sustituye a la garantía del interés fiscal.
+
+Al resolver sobre las providencias precautorias la autoridad competente tomará como base la cuantificación anterior, adicionando la actualización y recargos que haya determinado la autoridad fiscal a la fecha de que se ordene la providencia. En caso de que el imputado no cuente con bienes suficientes para satisfacer la providencia precautoria, el juez fijará en todos los casos una medida cautelar consistente en garantía económica por el mismo monto que correspondería a la providencia precautoria. En el caso de que al imputado se le haya impuesto como medida cautelar una garantía económica y, exhibida esta sea citada para comparecer ante el juez e incumpla la cita, se requerirá al garante para que presente al imputado en un plazo no mayor a ocho días, advertidos, el garante y el imputado, de que, si no lo hicieren o no justificaren la incomparecencia, se hará efectiva a favor del Fisco Estatal.
+
+Para efectos de la condena a la reparación del daño, la autoridad competente deberá considerar la cuantificación referida en este artículo, incluyendo la actualización y los recargos que hubiere determinado la autoridad fiscal a la fecha en la que se dicte dicha condena.
+
+En caso de que el imputado hubiera pagado el interés fiscal a entera satisfacción del SATEG, la autoridad judicial, a solicitud del imputado, podrá considerar dicho pago para efecto de la determinación de providencias precautorias, la imposición o modificación de las medidas cautelares.
+
+Para fijar la pena de prisión que corresponda a los delitos fiscales conforme a los límites mínimo y máximo del monto de las cantidades que constituyan el perjuicio, cuando éste pueda ser determinado, será conforme al que esté establecido en el momento de efectuar la conducta delictuosa.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Responsabilidad de los delitos
+
+Artículo 132 ter. Son responsables de los delitos fiscales, quienes:
+
+I. Concierten la realización del delito.
+
+II. Realicen la conducta o el hecho descritos en este Código.
+
+III. Cometan conjuntamente el delito.
+
+IV. Se sirvan de otra persona como instrumento para ejecutarlo.
+
+V. Induzcan dolosamente a otro a cometerlo.
+
+VI. Ayuden dolosamente a otro para su comisión.
+
+VII. Auxilien a otro después de su ejecución, cumpliendo una promesa anterior.
+
+VIII. Tengan la calidad de garante derivada de una disposición jurídica, de un contrato o de los estatutos sociales, en los delitos de omisión con resultado material por tener la obligación de evitar el resultado típico.
+
+IX. Derivado de un contrato o convenio que implique desarrollo de la actividad independiente, propongan, establezcan o lleven a cabo por sí o por interpósita persona, actos, operaciones o prácticas, de cuya ejecución directamente derive la comisión de un delito fiscal.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Encubrimiento de delitos fiscales
+
+Artículo 132 quáter. Es responsable de encubrimiento en los delitos fiscales quien, sin previo acuerdo y sin haber participado en él, después de la ejecución del delito, ayude en cualquier forma al imputado para eludir las investigaciones de la autoridad o sustraerse de la acción de esta u oculte, altere, destruya, o haga desaparecer los indicios, evidencia, vestigios, objetos, instrumentos o productos del hecho delictivo o asegure para el imputado el objeto o provecho de éste.
+
+El encubrimiento a que se refiere este artículo se sancionará con prisión de tres meses a seis años.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Participación de funcionarios
+
+Artículo 132 quinquies. Si una persona funcionaria o servidora pública comete o en cualquier forma participa en la comisión de un delito fiscal, la pena aplicable por el delito que resulte se aumentará de tres a seis años de prisión.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Tentativa de delitos
+
+Artículo 132 sexies. La tentativa de los delitos previstos en este Código es punible, cuando la resolución de cometer un hecho delictivo se traduce en un principio de su ejecución o en la realización total de los actos que debieran producirlo, si la interrupción de estos o la no producción del resultado se debe a causas ajenas a la voluntad del agente.
+
+La tentativa se sancionará con prisión de hasta las dos terceras partes de la que corresponda por el delito de que se trate, si éste se hubiese consumado.
+
+Si el autor desistiere de la ejecución o impidiere la consumación del delito, no se impondrá sanción alguna, a no ser que los actos ejecutados constituyan por sí mismos delito.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Delito continuado
+
+Artículo 132 septies. En el caso de delito continuado, la pena podrá aumentarse hasta por una mitad más de la que resulte aplicable.
+
+Para los efectos de este Código, el delito es continuado cuando se ejecuta con pluralidad de conductas o hechos, con unidad de intención delictuosa e identidad de disposición legal, incluso de diversa gravedad.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Formulación de querella
+
+Artículo 132 octies. El derecho del SATEG a formular la querella precluye y, por lo tanto, se extingue la acción penal, en cinco años, que se computarán a partir de la comisión del delito. Este plazo será continuo y en ningún caso se interrumpirá.
+
+La acción penal en los delitos fiscales prescribirá en un plazo igual al término medio aritmético de la pena privativa de la libertad que señala este Código para el delito de que se trate, pero en ningún caso será menor de cinco años.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Improcedencia de la sustitución y conmutación
+
+Artículo 132 nonies. No procede la substitución y conmutación de sanciones o cualquier otro beneficio a los sentenciados por delitos fiscales, cuando se trate de los delitos previstos en los artículos 132 decies y 132 undecies cuando les correspondan las sanciones dispuestas en la fracción III del artículo 132 decies, todos de este Código. En los demás casos, además de los requisitos señalados en el Código Penal del Estado de Guanajuato, será necesario comprobar que los adeudos fiscales están cubiertos o garantizados a satisfacción del SATEG.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Defraudación fiscal
+
+Artículo 132 decies. Comete el delito de defraudación fiscal quien, con uso de engaños o aprovechamiento de errores, omita total o parcialmente el pago de alguna contribución u obtenga un beneficio indebido con perjuicio del fisco estatal.
+
+La omisión total o parcial de alguna contribución a que se refiere el párrafo anterior comprende, indistintamente, los pagos provisionales o definitivos o el impuesto del ejercicio en los términos de las disposiciones fiscales.
+
+El delito de defraudación fiscal se sancionará con las penas siguientes:
+
+I. Con prisión de tres meses a dos años, cuando el monto de lo defraudado no exceda de $500,000.00.
+
+II. Con prisión de dos años a cinco años, cuando el monto de lo defraudado exceda de $500,000.00 pero no de $750,000.00.
+
+III. Con prisión de tres años a nueve años, cuando el monto de lo defraudado fuere mayor de $750,000.00.
+
+Cuando no se pueda determinar la cuantía de lo que se defraudó, la pena será de tres meses a seis años de prisión.
+
+Si el monto de lo defraudado es restituido de manera inmediata en una sola exhibición, la pena aplicable podrá atenuarse hasta en un cincuenta por ciento.
+
+El delito de defraudación fiscal y los previstos en el artículo 132 undecies de este Código, serán calificados cuando se originen por:
+
+a) Usar documentos falsos.
+
+b) Omitir reiteradamente la expedición de comprobantes por las actividades que se realicen, siempre que las disposiciones fiscales establezcan la obligación de expedirlos. Se entiende que existe una conducta reiterada cuando durante un período de cinco años el contribuyente haya sido sancionado por esa conducta la segunda o posteriores veces.
+
+c) Manifestar datos falsos para obtener de la autoridad fiscal la devolución de contribuciones que no le correspondan.
+
+d) No llevar los sistemas o registros contables a que se esté obligado conforme a las disposiciones fiscales o asentar datos falsos en dichos sistemas o registros.
+
+e) Omitir contribuciones retenidas, recaudadas o trasladadas.
+
+f) Manifestar datos falsos para realizar la compensación de contribuciones que no le correspondan.
+
+g) Utilizar datos falsos para acreditar o disminuir contribuciones.
+
+h) Declarar pérdidas fiscales inexistentes.
+
+Cuando los delitos sean calificados, la pena que corresponda se aumentará en una mitad.
+
+No se formulará querella si quien hubiere omitido el pago total o parcial de alguna contribución u obtenido el beneficio indebido conforme a este artículo, lo entera espontáneamente con sus recargos y actualización antes de que la autoridad fiscal descubra la omisión o el perjuicio, o medie requerimiento, orden de visita o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales.
+
+Para los fines de este artículo y del artículo 132 undecies, se tomará en cuenta el monto de las contribuciones defraudadas en un mismo ejercicio fiscal, aun cuando se trate de contribuciones diferentes y de diversas acciones u omisiones. Lo anterior no será aplicable tratándose de pagos provisionales.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Equiparación al delito de defraudación fiscal
+
+Artículo 132 undecies. Será sancionado con las mismas penas del delito de defraudación fiscal, quien:
+
+I. Consigne en las declaraciones que presente para los efectos fiscales, deducciones falsas o ingresos acumulables menores a los realmente obtenidos conforme a las leyes. En la misma forma será sancionada aquella persona física que perciba ingresos acumulables, cuando realice en un ejercicio fiscal erogaciones superiores a los ingresos declarados en el propio ejercicio y no compruebe a la autoridad fiscal el origen de la discrepancia, en los plazos y conforme al procedimiento establecido en la Ley de Hacienda para el Estado de Guanajuato.
+
+II. Omita enterar a las autoridades fiscales, dentro del plazo que la ley establezca, las cantidades que por concepto de contribuciones hubiere retenido o recaudado.
+
+III. Se beneficie sin derecho de un subsidio o estímulo fiscal.
+
+IV. Simule uno o más actos o contratos obteniendo un beneficio indebido con perjuicio del fisco estatal.
+
+V. Sea responsable por omitir presentar por más de doce meses las declaraciones que tengan carácter de definitivas, así como las de un ejercicio fiscal que exijan las leyes fiscales, dejando de pagar la contribución correspondiente.
+
+No se formulará querella, si quien, encontrándose en los supuestos anteriores, entera espontáneamente, con sus recargos, el monto de la contribución omitida o del beneficio indebido antes de que la autoridad fiscal descubra la omisión o el perjuicio, o medie requerimiento, orden de visita o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Delitos contra el Registro Estatal de Contribuyentes
+
+Artículo 132 duodecies. Se impondrá sanción de tres meses a tres años de prisión, a quien:
+
+I. Omita solicitar su inscripción o la de un tercero en el Registro Estatal de Contribuyentes por más de un año contado a partir de la fecha en que debió hacerlo, a menos de que se trate de personas cuya solicitud de inscripción deba ser presentada por otro aún en el caso en que éste no lo haga.
+
+II. Rinda con falsedad al citado registro, los datos, informes o avisos a que se encuentra obligado.
+
+III. Use intencionalmente más de una clave del Registro Estatal de Contribuyentes.
+
+IV. Modifique, destruya o provoque la pérdida de la información que contenga el buzón tributario con el objeto de obtener indebidamente un beneficio propio o para terceras personas en perjuicio del fisco estatal, o bien ingrese de manera no autorizada a dicho buzón, a fin de obtener información de terceros.
+
+V. Desocupe o desaparezca del lugar donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio al Registro Estatal de Contribuyentes, después de la notificación de la orden de visita domiciliaria o del requerimiento de la contabilidad, documentación o información, de conformidad con la fracción II del artículo 71 de este Código, o bien después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya garantizado, pagado o quedado sin efectos, o que hubieran realizado actividades por las que deban pagar contribuciones, haya transcurrido más de un año contado a partir de la fecha en que legalmente tenga la obligación de presentar dicho aviso, o cuando las autoridades fiscales tengan conocimiento de que fue desocupado el domicilio derivado del ejercicio de sus facultades de comprobación.
+
+Para los efectos de esta fracción, se entiende que el contribuyente desaparece del local en donde tiene su domicilio fiscal cuando la autoridad acuda en tres ocasiones consecutivas a dicho domicilio dentro de un periodo de doce meses y no pueda practicar la diligencia en términos de este Código.
+
+VI. Mediante cualquier medio físico, documental, electrónico, óptico, magnético o de cualquier otra clase de tecnología, suplante la identidad, representación o personalidad de un contribuyente.
+
+VII. Otorgue su consentimiento para llevar a cabo la suplantación de su identidad.
+
+VIII. Incite a una persona física a inscribirse en el Registro Estatal de Contribuyentes para utilizar sus datos de forma indebida.
+
+No se formulará querella si, quien encontrándose en los supuestos anteriores, subsana la omisión o informa del hecho a la autoridad fiscal antes de que ésta lo descubra o medie requerimiento, orden de visita o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales, o si el contribuyente conserva otros establecimientos en los lugares que tenga manifestados al Registro Estatal de Contribuyentes en el caso de la fracción V de este artículo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Delitos relacionados con la contabilidad
+
+Artículo 132 terdecies. Se impondrá sanción de tres meses a tres años de prisión, a quien:
+
+I. Registre sus operaciones contables, fiscales o sociales en dos o más libros o en dos o más sistemas de contabilidad con diferentes contenidos.
+
+II. Oculte, altere o destruya total o parcialmente los libros sistemas o registros contables, así como la documentación relativa a los asientos respectivos, que conforme a las leyes fiscales esté obligado a llevar o, estando obligado a tenerlos no cuente con ellos.
+
+III. Determine pérdidas con falsedad.
+
+IV. Asiente con información falsa o de manera inadecuada las operaciones o transacciones contables, fiscales o sociales, o que cuente con documentación falsa relacionada con dichos asientos.
+
+No se formulará querella, si quien encontrándose en los supuestos anteriores subsana la omisión o el ilícito antes de que la autoridad fiscal lo descubra o medie requerimiento, orden de visita o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Delito de depositaría infiel
+
+Artículo 132 quaterdecies. Se impondrá sanción de tres meses a seis años de prisión, al depositario designado por las autoridades fiscales que, con perjuicio del fisco estatal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de $200,030.00; cuando exceda, la sanción será de tres a nueve años de prisión.
+
+Igual sanción, de acuerdo con el valor de dichos bienes, se aplicará al depositario que los oculte o no los ponga a disposición de la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Delitos cometidos por servidores públicos
+
+Artículo 132 quindecies. Se sancionará con prisión de uno a cinco años al servidor público que amenazare de cualquier modo a un contribuyente o a sus representantes o dependientes, con formular por sí o por medio de la dependencia de su adscripción, una denuncia, querella o declaratoria al Ministerio Público para que se ejercite acción penal por la posible comisión de delitos fiscales.
+
+Se aumentará la sanción hasta por una mitad más de la que resulte aplicable, al servidor público que promueva o gestione una querella o denuncia notoriamente improcedente.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Delito por declaraciones o uso de documentos falsos
+
+Artículo 132 sexdecies. Se impondrá sanción de tres a seis años de prisión a quien, a sabiendas, declare hechos o datos falsos, o presente documentación falsa o alterada, en cualquier procedimiento regulado en este Código.
+
+Este delito se investigará o perseguirá independientemente del estado en que se encuentre el procedimiento administrativo que, en su caso, se haya iniciado.
+
+Asimismo, la ejecución de este delito puede dar lugar a la causación de un delito material a la Hacienda Estatal, el cual deberá ser objeto de reparación.
 
 ## Título Quinto. Procedimientos Administrativos
 
-### Capítulo II. Notificaciones y Garantía del Interés Fiscal
+### Capítulo I. Recurso Administrativo
 
 #### Sección Primera. Recurso de Revocación
 
@@ -2862,6 +3162,18 @@ IV. Que se hayan consentido, entendiéndose por consentimiento el de aquellos co
 V. Que sean conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa diferente; y
 
 VI. Si son revocados los actos por la autoridad.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+VII. Que el contribuyente manifieste desconocer.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+VIII. Que exijan el pago de créditos fiscales determinados en resoluciones liquidatorias que hubieren sido impugnadas y hayan quedado firmes por resolución de autoridad competente.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+IX. Que resuelvan sobre solicitudes de prescripción de créditos fiscales determinados en resoluciones liquidatorias que hubieren sido impugnadas y hayan quedado firmes por resolución de autoridad competente.
 
 Causales de sobreseimiento
 
@@ -3001,7 +3313,7 @@ Cuando se interponga un medio de impugnación, se suspenderá el efecto de la re
 
 Los plazos para el cumplimiento de la resolución que establece este artículo empezarán a correr a partir de que hayan transcurrido los quince días para impugnarla, salvo que el contribuyente demuestre haber interpuesto medio de defensa.
 
-### Capítulo III. Procedimiento Administrativo de Ejecución
+### Capítulo II. Notificaciones y Garantía del Interés Fiscal
 
 #### Sección Primera. Notificaciones
 
@@ -3063,13 +3375,19 @@ En los casos de sociedades en liquidación, cuando se hubieran nombrado varios l
 
 Notificación personal y citatorio
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 153.
 
-Cuando la notificación se efectúe personalmente y el notificador no encuentre a quien deba notificar, le dejará citatorio en el domicilio fiscal para que espere a una hora fija del día hábil posterior que se señale en el mismo y en caso de que tampoco sea posible dejar el citatorio debido a que la persona que atiende se niega a recibirlo, o bien, nadie atendió la diligencia en el domicilio, la notificación se realizará conforme a lo señalado en el artículo 150, fracción III de este Código.
+Cuando la notificación se efectúe personalmente y el notificador no encuentre a quien deba notificar, le dejará citatorio en el domicilio, señalando el día y la hora en que se actúa, y que el objeto del mismo es para que el destinatario de la notificación espere en dicho lugar a una hora fija del día hábil posterior que se señale en el mismo; en caso de que en el domicilio no se encuentre alguna persona con quien pueda llevarse a cabo la diligencia o quien se encuentre se niegue a recibir el citatorio, éste se fijará en el acceso principal de dicho lugar y de ello, el notificador levantará una constancia.
 
-El citatorio a que se refiere este artículo será siempre para la espera antes señalada y, si la persona citada o su representante legal no esperaren, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino. En caso de que estos últimos se negasen a recibir la notificación, esta se hará conforme a lo señalado en el artículo 150, fracción III de este Código.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-En caso de que el requerimiento de pago a que hace referencia el artículo 182 de este Código, no pueda realizarse personalmente, porque la persona a quien deba notificarse no sea localizada en el domicilio fiscal, se ignore su domicilio o el de su representante, desaparezca, se oponga a la diligencia de notificación, la notificación del requerimiento de pago y la diligencia de embargo se realizarán a través de buzón tributario.
+El día y hora de la cita, el notificador deberá constituirse en el domicilio del interesado, y deberá requerir nuevamente la presencia del destinatario y notificarlo, pero si la persona citada o su representante legal no acudiera a la cita, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+En caso de que estos últimos se negasen a recibir la notificación, ésta se hará por cualquiera de los medios previstos en el artículo 150 de este Código.
 
 Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán a cargo de quien incurrió en el incumplimiento los honorarios a cinco veces el valor diario de la Unidad de Medida y Actualización vigente.
 
@@ -3081,13 +3399,13 @@ Notificaciones practicadas ilegalmente
 
 Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa de diez veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 Notificaciones por estrados
 
 ###### Artículo 155.
 
-Las notificaciones por estrados se harán fijando durante diez días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación y publicando además el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezcan las autoridades fiscales. Dicho plazo se contará a partir del día siguiente a aquel en que el documento fue fijado o publicado según corresponda. La autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del undécimo día contado a partir del día siguiente a aquel en el que se hubiera fijado o publicado el documento.
+Las notificaciones por estrados se realizarán publicando el documento que se pretenda notificar durante diez días en la página electrónica que al efecto establezcan las autoridades fiscales. Dicho plazo se contará a partir del día siguiente a aquél en que el documento fue publicado; la autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del decimoprimer día contado a partir del día siguiente a aquél en el que se hubiera publicado el documento.
 
 Notificaciones por edictos
 
@@ -3107,29 +3425,51 @@ Se tendrá como fecha de notificación la de la última publicación.
 
 #### Sección Segunda. Garantía del Interés Fiscal
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. 31 DE DICIEMBRE DE 2025, PÁGINAS DE LA 116 A LA 118.]</small>
+
 Formas de garantizar el interés fiscal
 
 ###### Artículo 157.
 
 Los contribuyentes podrán garantizar el interés fiscal, cuando se actualice alguno de los supuestos previstos en los artículos 108 y 167 de este Código, en alguna de las formas siguientes:
 
-I. Depósito en dinero a través de los medios que establezca el SATEG mediante disposiciones de carácter general;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-II. Prenda o hipoteca;
+I. Certificado de depósito, emitido por la Secretaría;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+I bis. Carta de crédito emitida por alguna de las instituciones autorizadas por la Comisión Nacional Bancaria y de Valores y registradas para tal efecto ante el Servicio de Administración Tributaria;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+II. Prenda, excepto los bienes intangibles, e hipoteca, a excepción de los inmuebles con características de predios rústicos;
 
 III. Fianza otorgada por institución autorizada, la que no gozará de los beneficios de orden y excusión.
 
-Para los efectos fiscales, en el caso de que la póliza de fianza se exhiba en documento digital, deberá contener la firma electrónica o el sello digital de la afianzadora;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-IV. Obligación solidaria asumida por tercero que compruebe su idoneidad y solvencia;
+Para los efectos fiscales, en el caso de que la póliza de fianza se exhiba en documento digital, deberá contener la firma electrónica avanzada o el sello digital de la institución emisora de pólizas de fianza;
 
-V. Embargo en la vía administrativa; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-VI. Títulos valor o cartera de créditos del propio contribuyente, en caso de que se demuestre la imposibilidad de garantizar la totalidad del crédito mediante cualquiera de las fracciones anteriores, los cuales se aceptarán al valor que discrecionalmente fije el SATEG.
+IV. Obligación solidaria asumida;
 
-La garantía deberá comprender, además de las contribuciones adeudadas actualizadas, los accesorios causados, así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá actualizarse su importe cada año y ampliarse la garantía para que cubra el crédito actualizado y el importe de los recargos, incluso los correspondientes a los doce meses siguientes.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-La autoridad fiscal vigilará que sean suficientes tanto en el momento de su aceptación como con posterioridad y, si no lo fueren, exigirá su ampliación. En los casos en que los contribuyentes, a requerimiento de la autoridad fiscal, no lleven a cabo la ampliación o sustitución de garantía suficiente, esta procederá al secuestro o embargo de otros bienes para garantizar el interés fiscal.
+V. Embargo en la vía administrativa de negociaciones, bienes muebles tangibles e inmuebles, excepto aquellos con características de predios rústicos. Mediante reglas de carácter general, el SATEG podrá establecer las características y demás tipos de bienes que se podrán ofrecer en esta modalidad.
+
+VI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2025)
+
+VII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2025)
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Los contribuyentes deberán ofrecer como garantía, en todos los casos, la modalidad señalada en la fracción I, hasta por el importe máximo de su capacidad económica, aun y cuando no sea suficiente para garantizar el interés fiscal y, en la misma solicitud, combinarse con alguna de las formas y en el orden que al efecto establece este artículo, en ese caso, los contribuyentes deberán demostrar la imposibilidad para garantizar sus adeudos fiscales bajo las modalidades establecidas en las fracciones I, I bis, II, III, IV y V, en ese orden, presentando la documentación que acredite dicha situación. La garantía deberá comprender, además de las contribuciones adeudadas actualizadas, los accesorios causados, así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá actualizarse su importe cada año y ampliarse la garantía para que cubra el crédito actualizado y el importe de los recargos, incluso los correspondientes a los doce meses siguientes.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+El SATEG, mediante reglas de carácter general establecerá los requisitos que deberán reunir las garantías. La autoridad fiscal vigilará que sean suficientes tanto en el momento de su ofrecimiento como con posterioridad y, si no lo fueren, exigirá su ampliación. En los casos en que los contribuyentes, a requerimiento de la autoridad fiscal, no lleven a cabo la ampliación o sustitución de garantía suficiente, ésta procederá al secuestro o embargo de otros bienes para garantizar el interés fiscal.
 
 En ningún caso las autoridades fiscales podrán dispensar el otorgamiento de la garantía.
 
@@ -3137,9 +3477,39 @@ La garantía deberá constituirse dentro de los treinta días siguientes a aquel
 
 Conforme al artículo 135 de la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, tratándose de los juicios de amparo que se pidan contra el cobro de las contribuciones y aprovechamientos, por los contribuyentes obligados directamente a su pago, el interés fiscal se deberá asegurar mediante el depósito de las cantidades que correspondan ante el SATEG.
 
-En los casos en que de acuerdo con el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato o, en su caso, la Ley de Amparo, se solicite ante el Tribunal de Justicia Administrativa del Estado de Guanajuato o ante el órgano jurisdiccional competente la suspensión contra actos relativos a determinación, liquidación, ejecución o cobro de contribuciones, aprovechamientos y otros créditos de naturaleza fiscal, el interés fiscal se deberá garantizar ante la autoridad exactora por cualquiera de los medios previstos en este Código.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+En los casos en que de acuerdo con el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato o, en su caso, la Ley de Amparo Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, se solicite ante el Tribunal de Justicia Administrativa del Estado de Guanajuato o ante el órgano jurisdiccional competente la suspensión contra actos relativos a determinación, liquidación, ejecución o cobro de contribuciones, aprovechamientos y otros créditos de naturaleza fiscal, el interés fiscal se deberá garantizar ante la autoridad exactora conforme a lo establecido en este artículo.
 
 Para los efectos del párrafo anterior, el Tribunal de Justicia Administrativa del Estado de Guanajuato, no exigirá el depósito cuando se trate del cobro de sumas que, a juicio del Magistrado o Sala que deba conocer de la suspensión, excedan la posibilidad del solicitante de la misma, cuando previamente se haya constituido garantía ante la autoridad exactora, o cuando se trate de personas distintas de los contribuyentes obligados directamente al pago; en este último caso, se asegurará el interés fiscal en los términos indicados en los primeros dos párrafos de este artículo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Cuando el contribuyente ofrezca en más de dos ocasiones alguna de las garantías señaladas en las fracciones II, IV o V de este artículo, sin que cumpla con la totalidad de la información requerida por la autoridad para ser aceptada, no podrá ofrecer el mismo bien en dichas modalidades.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Carta de crédito
+
+Artículo 157 bis. Para los efectos del artículo 157, fracción I bis de este Código, las cartas de crédito que se presenten como garantía del interés fiscal deberán ser emitidas por las instituciones de crédito registradas para tal efecto ante el Servicio de Administración Tributaria.
+
+Para efectos de que la autoridad pueda validar que la carta de crédito fue emitida y firmada por algún funcionario autorizado para ello por parte de la institución de crédito, ésta última deberá exhibir las autorizaciones vigentes registradas ante el Servicio de Administración Tributaria.
+
+Las modificaciones a las cartas de crédito a que se refiere el párrafo anterior por ampliación o disminución del monto máximo disponible o por prórroga de la fecha de vencimiento, se deberán realizar conforme al procedimiento que establezca el SATEG mediante reglas de carácter general.
+
+No se aceptarán como garantía del interés fiscal las cartas de crédito que contengan datos, términos y condiciones distintos a los establecidos en las formas oficiales o formatos electrónicos aprobados por el SATEG.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Procedimiento de cobro de carta de crédito
+
+Artículo 157 ter. La autoridad fiscal requerirá el importe garantizado mediante la carta de crédito en el domicilio que para tales efectos se señale en la propia carta de crédito, teniéndose por realizado el requerimiento en la fecha y hora de su presentación ante la institución de crédito que la emitió. Dicho requerimiento establecerá el número de la carta de crédito y el monto requerido, el cual podrá ser por la cantidad máxima por la que fue emitida la misma o por varias cantidades inferiores hasta agotar el importe máximo por el que fue expedida.
+
+Las instituciones de crédito realizarán el pago de las cartas de crédito mediante transferencia electrónica de fondos a la cuenta de la Secretaría el mismo día del requerimiento o a más tardar dentro de las 48 horas siguientes a aquélla en que reciban el requerimiento de pago emitido por la autoridad fiscal.
+
+En caso de que las instituciones de crédito no realicen el pago de las cartas de crédito en el plazo señalado en el párrafo anterior, las cantidades garantizadas deberán pagarse actualizadas por el periodo comprendido entre la fecha en que se debió efectuar el pago y la fecha en que el mismo se realice, de conformidad con lo establecido en el artículo 25 de este Código. En este supuesto, se causarán recargos por concepto de indemnización al fisco estatal, conforme a lo dispuesto por el artículo 38 también de este Código, a partir de la fecha en que debió hacerse el pago correspondiente y hasta que el mismo se efectúe.
+
+Una vez efectuada la transferencia electrónica de fondos, la institución de crédito de que se trate deberá enviar al SATEG el comprobante de la operación y del pago realizado.
 
 Constitución de la prenda o hipoteca
 
@@ -3245,6 +3615,14 @@ Para calificar la garantía del interés fiscal, la autoridad fiscal deberá ver
 
 La autoridad fiscal podrá aceptar la garantía ofrecida por el contribuyente aun y cuando esta no sea suficiente para garantizar el interés fiscal de acuerdo con lo establecido en el artículo 157 de este Código, instaurando el procedimiento administrativo de ejecución por el monto no garantizado.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Para los efectos del artículo 170 de este Código, cuando las autoridades fiscales hayan iniciado el procedimiento administrativo de ejecución, embargando bienes propiedad del contribuyente y éste posteriormente ofrezca garantía suficiente en términos del artículo 157 de este Código, a efecto de asegurar el interés fiscal por la interposición de medios de defensa, la autoridad fiscal podrá llevar a cabo la calificación y aceptación de la referida garantía y proceder a levantar el embargo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+La garantía a que se refiere el párrafo anterior podrá ofrecerse hasta en tanto no se hubieren resuelto en definitiva los medios de defensa promovidos por el contribuyente.
+
 Sustitución de la garantía del interés fiscal
 
 ###### Artículo 165.
@@ -3301,11 +3679,47 @@ Las garantías constituidas para asegurar el interés fiscal a que se refieren l
 
 Si la garantía consiste en depósito de dinero en alguna entidad financiera o sociedad cooperativa de ahorro y préstamo, una vez que el crédito fiscal quede firme se ordenará su aplicación por la autoridad fiscal.
 
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES Y PÁRRAFO QUE LO INTEGRA], P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Tratándose de fianza a favor de la Secretaría otorgada para garantizar obligaciones fiscales a cargo de terceros, al hacerse exigible, se aplicará el procedimiento administrativo de ejecución con las siguientes modalidades:
+
+I. La autoridad ejecutora requerirá de pago a la institución emisora de pólizas de fianza, acompañando copia de los documentos que justifiquen el crédito garantizado y su exigibilidad. Para ello la institución emisora de pólizas de fianza designará en el estado, un apoderado para recibir requerimientos de pago y el domicilio para dicho efecto, debiendo informar de los cambios que se produzcan dentro de los quince días de anticipación a la fecha en que se pretenda surtan sus efectos. La citada información se incorporará en la póliza de fianza respectiva y los cambios se proporcionarán a la autoridad ejecutora.
+
+II. Si no se paga dentro de los quince días siguientes a la fecha en que surta efectos la notificación del requerimiento, la propia ejecutora ordenará a la institución de crédito o casa de bolsa que mantenga en depósito los títulos o valores en los que la institución emisora de pólizas de fianza tenga invertida sus reservas técnicas, que proceda a su venta a precio de mercado, hasta por el monto necesario para cubrir el principal y accesorios, los que entregará en pago a la autoridad ejecutora. La venta se realizará en o fuera de bolsa, de acuerdo con la naturaleza de los títulos o valores.
+
+Para estos efectos, las instituciones de crédito y casas de bolsa que mantengan títulos o valores en depósito por parte de las instituciones emisoras de pólizas de fianza, deberán informar dicha situación a la autoridad fiscal. En los casos en que las instituciones de crédito o las casas de bolsa omitan cumplir con la obligación anterior, resultará improcedente la aceptación de las pólizas de fianza para garantizar créditos fiscales.
+
+Cuando dejen de actuar como depositarios de las instituciones de fianzas deberán notificarlo a dichas autoridades e indicar la casa de bolsa e institución de crédito a la que efectuaron la transferencia de los títulos o valores.
+
+III. La autoridad ejecutora, informará a la institución emisora de pólizas de fianza sobre la orden dirigida a las instituciones de crédito o las casas de bolsa, la cual podrá oponerse a la venta únicamente exhibiendo el comprobante de pago del importe establecido en la póliza.
+
+> <small>[N. DE E. PERTENECE AL TERCER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025]</small>
+
+Para los efectos del párrafo anterior, si la institución emisora de pólizas de fianza exhibe el comprobante de pago del importe establecido en la póliza más sus accesorios, dentro del plazo establecido en la fracción II de este artículo, la autoridad fiscal ordenará a la institución de crédito o a la casa de bolsa, suspender la venta de los títulos o valores.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Las cantidades garantizadas deberán pagarse actualizadas por el periodo comprendido entre la fecha en que se debió efectuar el pago y la fecha en que se paguen dichas cantidades. Asimismo, causarán recargos por concepto de indemnización al fisco estatal por falta de pago oportuno, mismos que se calcularán sobre las cantidades garantizadas actualizadas por el periodo mencionado con anterioridad, aplicando la tasa que resulte de sumar las aplicables en cada año para cada uno de los meses transcurridos en el periodo de actualización citado. La tasa de recargos hace referencia el párrafo primero del artículo 38 de este Código, y se causarán por cada mes o fracción que transcurra a partir de que debió hacerse el pago y hasta que el mismo se efectúe. Los recargos mencionados se causarán hasta por cinco años.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Tratándose de cartas de crédito a favor de la Secretaría, otorgadas para garantizar obligaciones fiscales, al hacerse exigibles, deberán ser emitidas por las instituciones de crédito registradas para tal efecto ante el Servicio de Administración Tributaria.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Las modificaciones a las cartas de crédito a que se refiere el párrafo anterior por ampliación o disminución del monto máximo disponible o por prórroga de la fecha de vencimiento, se deberán realizar conforme al procedimiento que establezca el SATEG mediante reglas de carácter general.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+No se aceptarán como garantía del interés fiscal las cartas de crédito que contengan datos, términos y condiciones distintos a los establecidos en las formas oficiales o formatos electrónicos aprobados por el SATEG mediante reglas de carácter general.
+
 No ejecución de actos administrativos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 169.
 
-No se ejecutarán los actos administrativos cuando se garantice el interés fiscal satisfaciendo los requisitos legales.
+No se ejecutarán los actos administrativos cuando se garantice el interés fiscal satisfaciendo los requisitos legales. Tampoco se ejecutará el acto que determine un crédito fiscal hasta que venza el plazo de treinta días siguientes a la fecha en que surta efectos su notificación.
 
 Cuando en el medio de defensa se impugnen únicamente algunos de los créditos determinados por el acto administrativo, cuya ejecución fue suspendida, se pagarán los créditos fiscales no impugnados con los accesorios correspondientes.
 
@@ -3320,6 +3734,8 @@ No se exigirá garantía adicional si en el procedimiento administrativo de ejec
 También se suspenderá la ejecución del acto que determine un crédito fiscal cuando los tribunales competentes notifiquen a las autoridades fiscales sentencia de concurso mercantil dictada en términos de la ley de la materia y siempre que se hubiese notificado previamente a dichas autoridades la presentación de la demanda correspondiente.
 
 Las autoridades fiscales continuarán con el procedimiento administrativo de ejecución a fin de obtener el pago del crédito fiscal, cuando en el procedimiento judicial de concurso mercantil se hubiere celebrado convenio estableciendo el pago de los créditos fiscales y estos no sean pagados dentro de los cinco días siguientes a la celebración de dicho convenio o cuando no se dé cumplimiento al pago con la prelación establecida en este Código. Las autoridades fiscales podrán continuar con dicho procedimiento cuando se inicie la etapa de quiebra en el procedimiento de concurso mercantil en los términos de la ley correspondiente.
+
+### Capítulo III. Procedimiento Administrativo de Ejecución
 
 #### Sección Primera. Disposiciones Generales
 
@@ -3379,7 +3795,9 @@ La autoridad fiscal deberá requerir a las entidades financieras, sociedades de 
 
 En el requerimiento que se emita, la autoridad fiscal establecerá el plazo de tres días contados a partir de la recepción de esta, a efecto de que se proceda a la liberación de los bienes embargados;
 
-V. A más tardar al tercer día siguiente a aquel en que hubiera tenido lugar el embargo precautorio, la autoridad fiscal notificará al contribuyente la conducta que originó la medida y, en su caso, el monto sobre el cual procede. La notificación se hará personalmente o a través del buzón tributario;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+V. A más tardar al vigésimo día siguiente a aquel en que hubiera tenido lugar el embargo precautorio, la autoridad fiscal notificará al contribuyente la conducta que originó la medida y, en su caso, el monto sobre el cual procede. La notificación se hará personalmente o a través del buzón tributario;
 
 VI. Con excepción de los bienes a que se refiere el inciso f de la fracción III de este artículo, los bienes embargados precautoriamente podrán, desde el momento en que se notifique el mismo y hasta que se levante, dejarse en posesión del contribuyente, siempre que para estos efectos actúe como depositario en los términos establecidos en el artículo 185 del presente Código, salvo lo indicado en su segundo párrafo.
 
@@ -3389,7 +3807,9 @@ Tratándose de los bienes a que se refiere el inciso f de la fracción III de es
 
 La autoridad requerirá al obligado para que dentro del término de diez días desvirtúe el monto por el que se realizó el embargo. El embargo quedará sin efecto cuando el contribuyente cumpla con el requerimiento.
 
-Una vez practicado el embargo precautorio, el contribuyente afectado podrá ofrecer a la autoridad exactora alguna de las garantías que establece el artículo 157 de este Código, a fin de que el crédito fiscal y sus accesorios queden garantizados y se ordene el levantamiento del embargo trabado sobre los depósitos bancarios, otros depósitos o seguros del contribuyente.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Una vez practicado el embargo precautorio, el contribuyente afectado podrá proceder conforme a lo establecido en el artículo 157 de este Código, a fin de que el crédito fiscal y sus accesorios queden garantizados y se ordene el levantamiento del embargo trabado sobre los depósitos bancarios, otros depósitos o seguros del contribuyente.
 
 El embargo precautorio se convertirá en definitivo al momento de la exigibilidad de dicho crédito fiscal y se aplicará el procedimiento administrativo de ejecución, sujetándose a las disposiciones que este Código establece.
 
@@ -3545,7 +3965,9 @@ I. A embargar bienes suficientes para, en su caso, rematarlos, enajenarlos fuera
 
 En ningún caso procederá el embargo de los depósitos o seguros, por un monto mayor al del crédito fiscal actualizado, junto con sus accesorios legales, ya sea que el embargo se trabe sobre una sola cuenta o en más de una. Lo anterior, siempre y cuando, previo al embargo, la autoridad fiscal cuente con información de las cuentas y los saldos que existan en las mismas.
 
-Las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores que hayan ejecutado el embargo de los depósitos o seguros a que se refiere el artículo 187, fracción I, de este Código en una o más cuentas del contribuyente, con base en los convenios que se suscriban para tales efectos informarán a la autoridad fiscal que ordenó la medida a más tardar al tercer día siguiente a la fecha en la que se haya ejecutado, señalando el número de las cuentas así como el importe total que fue embargado. La autoridad fiscal a su vez deberá notificar al contribuyente de dicho embargo a más tardar al tercer día siguiente a aquel en que le hubieren comunicado este.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores que hayan ejecutado el embargo de los depósitos o seguros a que se refiere el artículo 187, fracción I, de este Código en una o más cuentas del contribuyente, con base en los convenios que se suscriban para tales efectos, informarán a la autoridad fiscal que ordenó la medida a más tardar al tercer día siguiente a la fecha en la que se haya ejecutado, señalando el número de las cuentas así como el importe total que fue embargado. La autoridad fiscal a su vez deberá notificar al contribuyente de dicho embargo a más tardar al vigésimo día siguiente a aquel en que le hubieren comunicado este.
 
 En los casos en que la autoridad fiscal tenga conocimiento de que el embargo se realizó por un importe mayor al señalado en el segundo párrafo de esta fracción, con base en los convenios que se suscriban para tales efectos solicitarán a más tardar al tercer día siguiente a aquel en que hubiere tenido conocimiento del embargo en exceso, a las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores que correspondan, liberar la cantidad correspondiente. Las entidades o sociedades de ahorro y préstamo o de inversiones y valores, deberán liberar los recursos embargados en exceso, a más tardar al tercer día siguiente a aquel en que surta efectos la notificación del oficio de la autoridad fiscal;
 
@@ -3558,6 +3980,22 @@ Cuando los bienes raíces, derechos reales o negociaciones queden comprendidos e
 Si la exigibilidad se origina por cese de la prórroga o de la autorización para pagar en parcialidades o por error aritmético en las declaraciones, el deudor podrá efectuar el pago dentro de los seis días siguientes a la fecha en que surta sus efectos la notificación del requerimiento.
 
 No se practicará embargo respecto de aquellos créditos fiscales que hayan sido impugnados en sede administrativa o jurisdiccional y se encuentren garantizados en términos de lo establecido en las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Embargo de bienes por buzón tributario, estrados o edictos
+
+Artículo 182 bis. La autoridad fiscal, tratándose de créditos exigibles, podrá llevar a cabo el embargo de bienes por buzón tributario, estrados o edictos, siempre que se trate de los siguientes:
+
+I. Depósitos bancarios, componentes de ahorro o inversión asociados a seguros de vida que no formen parte de la prima que haya de erogarse para el pago de dicho seguro, o cualquier otro depósito en moneda nacional o extranjera que se realicen en cualquier tipo de cuenta o contrato que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro y préstamo.
+
+II. Acciones, bonos, cupones vencidos, valores mobiliarios y en general créditos de inmediato y fácil cobro a cargo de entidades o dependencias de la Federación, Estados y Municipios y de instituciones o empresas de reconocida solvencia.
+
+III. Bienes inmuebles.
+
+IV. Bienes intangibles.
+
+Para tal efecto, la autoridad fiscal previamente emitirá declaratoria de embargo en la que detallará los bienes sujetos a embargo, misma que hará del conocimiento del deudor a través de buzón tributario, por estrados o por edictos, según corresponda. Una vez que surta efectos la notificación del embargo, se continuará con el procedimiento administrativo de ejecución.
 
 Formalidades del embargo
 
@@ -3655,17 +4093,27 @@ d) Cuando se hubiera realizado el embargo de bienes cuyo valor sea insuficiente 
 
 Sólo procederá la inmovilización hasta por el importe del crédito fiscal y sus accesorios o, en su caso, hasta por el importe en que la garantía que haya ofrecido el contribuyente no alcance a cubrir los mismos a la fecha en que se lleve a cabo la inmovilización. Lo anterior, siempre y cuando, previo al embargo, la autoridad fiscal cuente con información de las cuentas y los saldos que existan en las mismas.
 
-La autoridad fiscal, con base en los convenios que al efecto suscriba con la Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y Fianzas o la Comisión Nacional del Sistema de Ahorro para el Retiro, girará oficio dirigido a la unidad administrativa competente de dichas instituciones, según proceda, o bien a la entidad financiera o sociedad cooperativa de ahorro y préstamo a la que corresponda la cuenta para que por su conducto inmovilicen y conserven los fondos depositados.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-La autoridad fiscal notificará al contribuyente sobre dicha inmovilización, a más tardar al tercer día siguiente a aquel en que le hubieren comunicado esta.
+La autoridad fiscal, con base en los convenios que al efecto suscriba con la Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y Fianzas o la Comisión Nacional del Sistema de Ahorro para el Retiro, girará oficio dirigido a la unidad administrativa competente de dichas instituciones, según proceda, o bien a la entidad financiera o sociedad cooperativa de ahorro y préstamo a la que corresponda la cuenta para que por su conducto inmovilicen y conserven los fondos depositados. Para efectos de lo anterior, la inmovilización deberán realizarla a más tardar al tercer día siguiente a aquel en que les fue notificado el oficio de la autoridad fiscal.
+
+(PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)
+
+Las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores que hayan ejecutado la inmovilización de los depósitos o seguros en una o más cuentas del contribuyente, deberán informar del cumplimiento de dicha medida a la autoridad fiscal que la ordenó, a más tardar al tercer día siguiente a la fecha en que se ejecutó, señalando el número de las cuentas, así como el importe total que fue inmovilizado. La autoridad fiscal notificará al contribuyente sobre dicha inmovilización, a más tardar al vigésimo día siguiente a aquél en que le hubieren comunicado ésta.
 
 Con dicho oficio se requerirá también a las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores que hayan ejecutado la inmovilización de una o más cuentas del contribuyente, para que informen del cumplimiento de dicha medida a la autoridad fiscal que la ordenó, señalando los números de las cuentas, así como el importe total que fue inmovilizado.
 
 En los casos en que el contribuyente, la entidad financiera, sociedades de ahorro y préstamo o de inversiones y valores, hagan del conocimiento de la autoridad fiscal que la inmovilización se realizó en una o más cuentas del contribuyente por un importe mayor al señalado en el segundo párrafo de este artículo, esta deberá ordenar a más tardar dentro de los tres días siguientes a aquel en que hubiere tenido conocimiento de la inmovilización en exceso, que se libere la cantidad correspondiente. Dichas entidades o sociedades cooperativas de ahorro y préstamo o de inversiones y valores, liberarán los recursos inmovilizados en exceso, a más tardar al tercer día siguiente a aquel en que surta efectos la notificación del oficio de la autoridad fiscal.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+En caso de que en las cuentas a que se refiere el primer párrafo del presente artículo, no existan recursos suficientes para garantizar el crédito fiscal y sus accesorios, la entidad financiera o la sociedad cooperativa de ahorro y préstamo de que se trate, deberá efectuar una búsqueda en su base de datos, a efecto de determinar si el contribuyente tiene otras cuentas con recursos suficientes para tal efecto. De ser el caso, la entidad o sociedad procederá a inmovilizar a más tardar dentro de los tres días siguientes a aquél en que se les ordene la inmovilización y conservar los recursos depositados hasta por el monto del crédito fiscal. En caso de que se actualice este supuesto, la entidad o sociedad correspondiente deberá notificarlo a la autoridad fiscal, dentro del plazo de tres días contados a partir de la fecha de inmovilización, a fin de que dicha autoridad realice la notificación que proceda conforme al párrafo anterior. La entidad financiera o la sociedad cooperativa de ahorro y préstamo deberá informar a la autoridad fiscal a que se refiere el primer párrafo de este artículo, el incremento de los depósitos por los intereses que se generen, en el mismo período y frecuencia con que lo haga al cuentahabiente.
+
 Los fondos de la cuenta del contribuyente únicamente podrán transferirse cuando el crédito fiscal relacionado, incluyendo sus accesorios quede firme, y hasta por el importe que resulte suficiente para cubrirlo a la fecha en que se realice la transferencia.
 
-En los casos en que el crédito fiscal incluyendo sus accesorios, aún no quede firme, el contribuyente titular de las cuentas inmovilizadas podrá, de acuerdo con el artículo 157 de este Código, ofrecer una garantía que comprenda el importe del crédito fiscal, incluyendo sus accesorios a la fecha de ofrecimiento. La autoridad deberá resolver y notificar al contribuyente sobre la admisión o rechazo de la garantía ofrecida, o el requerimiento de requisitos adicionales, dentro de un plazo máximo de cinco días siguientes a la presentación de la garantía. La autoridad tendrá la obligación de comunicar a la entidad financiera o la sociedad cooperativa de ahorro y préstamo el sentido de la resolución, enviándole copia de la misma, dentro del plazo de cinco días siguientes a aquel en que haya notificado dicha resolución al contribuyente, si no lo hace durante el plazo señalado, la entidad o sociedad de que se trate levantará la inmovilización de la cuenta.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+En los casos en que el crédito fiscal incluyendo sus accesorios, aún no quede firme, el contribuyente titular de las cuentas inmovilizadas podrá, de acuerdo con el artículo 157 de este Código, ofrecer una garantía que comprenda el importe del crédito fiscal, incluyendo sus accesorios a la fecha de ofrecimiento. La autoridad deberá resolver y notificar al contribuyente sobre la admisión o rechazo de la garantía ofrecida, o el requerimiento de requisitos adicionales, dentro de un plazo máximo de cinco días siguientes a la presentación de la garantía. La autoridad tendrá la obligación de comunicar a la entidad financiera o la sociedad cooperativa de ahorro y préstamo el sentido de la resolución, enviándole copia de esta, dentro del plazo de cinco días siguientes a aquel en que haya notificado dicha resolución al contribuyente, si no lo hace durante el plazo señalado, la entidad o sociedad de que se trate levantará la inmovilización de la cuenta.
 
 En ningún caso procederá la inmovilización de los depósitos o seguros, por un monto mayor al del crédito fiscal actualizado, junto con sus accesorios legales, ya sea que el embargo se trabe sobre una sola cuenta o en más de una. Lo anterior, siempre y cuando, previo al embargo, la autoridad fiscal cuente con información de las cuentas y los saldos que existan en las mismas.
 
@@ -3677,9 +4125,13 @@ En los casos en que el crédito fiscal se encuentre firme, la autoridad fiscal p
 
 I. Si la autoridad fiscal tiene inmovilizadas cuentas en entidades financieras o sociedades cooperativas de ahorro y préstamo, o de inversiones y valores, y el contribuyente no ofreció una forma de garantía del interés fiscal suficiente antes que el crédito fiscal quedara firme, la autoridad fiscal con base en los convenios que al efecto suscriba, solicitará a la entidad financiera o sociedad cooperativa la transferencia de los recursos hasta por el monto del crédito fiscal actualizado, o hasta por el importe en que la garantía que haya ofrecido el contribuyente no alcance a cubrir el mismo. La entidad financiera o la sociedad cooperativa de ahorro y préstamo informarán a la autoridad fiscal, dentro de los tres días posteriores a la orden de transferencia, el monto transferido y acompañar (sic) el comprobante que acredite el traspaso de los fondos a la cuenta de la Secretaría o de la autoridad fiscal que corresponda;
 
-II. Si el interés fiscal se encuentra garantizado en alguna forma distinta a las establecidas en las fracciones I y III, del artículo 157 de este Código, la autoridad fiscal procederá a requerir al contribuyente para que efectúe el pago del crédito fiscal en el plazo de cinco días siguientes a la notificación del requerimiento. En caso de no efectuarlo, la autoridad fiscal podrá, indistintamente, hacer efectiva la garantía ofrecida, o proceder en los términos de la fracción anterior, a la transferencia de los recursos respectivos. En este caso, una vez que la entidad financiera o la sociedad cooperativa de ahorro y préstamo, informe a la autoridad fiscal haber transferido los recursos suficientes para cubrir el crédito fiscal, la autoridad fiscal deberá proceder en un plazo máximo de tres días, a liberar la garantía otorgada por el contribuyente;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-III. Si el interés fiscal se encuentra garantizado en alguna de las formas establecidas en las fracciones I y III, del artículo 157 de este Código, la autoridad fiscal procederá a hacer efectiva la garantía; y
+II. Si el interés fiscal se encuentra garantizado en alguna forma distinta a la establecida en el artículo 157, fracción I de este Código, la autoridad fiscal procederá a requerir al contribuyente para que efectúe el pago del crédito fiscal en el plazo de cinco días siguientes a la notificación del requerimiento. En caso de no efectuarlo, la autoridad fiscal podrá, indistintamente, hacer efectiva la garantía ofrecida, o proceder en los términos de la fracción anterior, a la transferencia de los recursos respectivos. En este caso, una vez que la entidad financiera o la sociedad cooperativa de ahorro y préstamo, informe a la autoridad fiscal haber transferido los recursos suficientes para cubrir el crédito fiscal, la autoridad fiscal deberá proceder en un plazo máximo de tres días, a liberar la garantía otorgada por el contribuyente;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+III. Si el interés fiscal se encuentra garantizado en alguna forma distinta a la establecida en el artículo 157, fracción I de este Código, la autoridad fiscal procederá a hacer efectiva la garantía; y
 
 IV. Si el interés fiscal no se encuentra garantizado, la autoridad fiscal podrá proceder a la transferencia de recursos en los términos de la fracción I de este artículo.
 
@@ -4354,3 +4806,15 @@ Los comerciantes en el ramo de vehículos tipo motocicletas que hayan iniciado s
 Referencias
 
 Artículo Séptimo. Las referencias que se encuentren hechas a la Secretaría de Finanzas en la presente Ley, diversas a las contenidas en este Decreto, se entenderán hechas al SATEG cuando se trate de atribuciones vinculadas a las establecidas en el artículo 18 de la misma.
+
+P.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 169, QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE GUANAJUATO".]
+
+Vigencia del Decreto
+
+Artículo Primero. El presente Decreto entrará en vigor el 1 de enero de 2026, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Ultractividad en procedimientos previos
+
+Artículo Segundo. Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de su inicio.
