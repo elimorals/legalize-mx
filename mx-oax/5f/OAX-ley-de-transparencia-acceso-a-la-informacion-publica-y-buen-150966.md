@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transparencia-acceso-a-la-informacion-publica-y-buen-150
 country: "mx"
 rank: "ley"
 publication_date: "2021-09-04"
-last_updated: "2024-08-28"
+last_updated: "2025-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE TRANSPARENCIA, ACCESO A LA INFORMACION PUBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO FRACCIÓN I DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA CON SENTIDO SOCIAL Y BUEN GOBIERNO DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en el No. 36 del Periódico Oficial del Estado de Oaxaca, el sábado 4 de septiembre de 2021.
 
@@ -2594,3 +2596,77 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación.
 
 TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 867.- MEDIANTE EL CUAL SE EXPIDE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA CON SENTIDO SOCIAL Y BUEN GOBIERNO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese.
+
+SEGUNDO. A la entrada en vigor del presente Decreto se abrogan las disposiciones siguientes:
+
+I. Ley de Transparencia, Acceso a la Información Pública y Buen Gobierno del Estado de Oaxaca, publicada en el Periódico Oficial del Gobierno del Estado de Oaxaca el 09 de octubre de 2021;
+
+II. Todas las disposiciones de menor jerarquía que se opongan al contenido establecido en el presente Decreto y sus Transitorios.
+
+TERCERO. Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa en materia de transparencia y acceso a la información pública, respecto al Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, se entenderán hechas o conferidas a los entes públicos que adquieren tales atribuciones o funciones, según corresponda.
+
+CUARTO. El Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, transferirá los recursos financieros del ejercicio 2025 que correspondan a la Secretaría de Finanzas, previo cumplimiento de sus diversas obligaciones de conformidad con las disposiciones jurídicas aplicables.
+
+Los recursos financieros que correspondan al Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, conforme a lo establecido en el Presupuesto de Egresos del Estado de Oaxaca para el ejercicio 2026, serán transferidos a la Secretaría de Finanzas en los términos de la legislación aplicable.
+
+QUINTO. Los recursos materiales y bienes muebles del Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, serán transferidos a la Secretaría de Administración; así mismo, los registros, padrones, plataformas y sistemas electrónicos de dicho Órgano, serán transferidos a la Secretaría de Honestidad, Transparencia y Función Pública en los términos de la legislación aplicable dentro de los veinte días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+SEXTO. La persona servidora pública titular del área administrativa del Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, será la instancia liquidadora; por lo que, se le otorga facultades de representación ante las autoridades fiscales y administrativas federales y estatales para realizar la liquidación del Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca.
+
+La instancia liquidadora contará con noventa días naturales contados a partir del día siguiente de la publicación del presente Decreto, para realizar lo siguiente:
+
+1. Indemnizar a los empleados del extinto Órgano Garante de conformidad con lo previsto en la Ley Federal del Trabajo.
+
+2. Dar aviso al Servicio de Administración Tributaria de la conclusión de actividades, enterando los impuestos retenidos y realizando las declaraciones de impuestos que correspondan para su conclusión final.
+
+3. Enterar las aportaciones patronales y trabajadores de Seguridad Social y dar aviso al Instituto Mexicano del Seguro Social de la conclusión de actividades para su baja en el padrón del mismo.
+
+4. Enterar los impuestos locales a que se encuentra obligado y dar aviso a la Secretaría de Finanzas del Poder Ejecutivo del Estado del cierre y conclusión de actividades del Órgano de referencia.
+
+5. Realizar los trámites presupuestarios que correspondan para el cumplimiento de lo anterior.
+
+6. En cumplimiento a lo previsto en el Artículo Quinto Transitorio, realizar la entrega de los bienes muebles del Órgano a la Secretaría de Administración del Poder Ejecutivo del Estado de Oaxaca, para que esta realice la entrega – recepción al órgano desconcentrado determinado en el presente Decreto.
+
+7. Dar aviso de conclusión de los contratos existentes con proveedores, así como con los prestadores de servicios públicos federales y estatales que se encuentren vigentes.
+
+8. Entregar los estados financieros correspondientes al mes de diciembre de 2025 y enero, febrero y marzo de 2026; los Informes de Avance de Gestión Financiera correspondiente al Cuarto Trimestre de 2025 y primer trimestre de 2026 a la Dirección de Contabilidad Gubernamental de la Secretaría de Finanzas del Poder Ejecutivo del Estado.
+
+En este orden de ideas, no se considerará patrón sustituto ni responsable solidario a la Dependencia o Entidad que asuma las funciones y/o facultades de garantizar el derecho de acceso a la información y la protección de datos personales para sujetos obligados del Poder Ejecutivo y Municipios. Así mismo los asuntos que por su naturaleza corresponda quedan extintos en sus efectos con la entrada en vigor de la presente normatividad.
+
+SÉPTIMO. Se extingue el nombramiento del Comisionado Presidente del Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca a la entrada en vigor del presente Decreto.
+
+Por consiguiente, los nombramientos por condición laboral de mandos medios otorgados por el Comisionado que fungía como Presidente del Consejo General y del Órgano Garante se extinguen, salvo aquellos cuya vigencia de su nombramiento hubiese concluido previamente.
+
+Las personas servidoras públicas del Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, que dejen de prestar sus servicios en el mencionado Órgano Garante y que estén obligadas a presentar declaración patrimonial y de intereses, de conformidad con las disposiciones jurídicas aplicables, las realizarán en el mismo sistema designado por el Órgano Garante y conforme a la normatividad aplicable. Lo anterior también es aplicable a las personas que se hayan desempeñado como servidoras públicas en el mencionado Órgano Garante y que a la fecha de entrada en vigor del presente Decreto aún tengan pendiente cumplir con dicha obligación.
+
+OCTAVO. Los procedimientos iniciados con anterioridad a la entrada en vigor de este Decreto ante el Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, en materia de acceso a la información pública, se sustanciarán ante la Autoridad Garante del Poder Ejecutivo y Municipios conforme a las disposiciones aplicables vigentes al momento de su inicio.
+
+La defensa legal ante autoridades administrativas, jurisdiccionales y judiciales de los actos administrativos y jurídicos emitidos por el Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, en materia de transparencia y acceso a la información pública, se llevará a cabo por la Autoridad Garante Local.
+
+La Autoridad Garante Local podrá remitir a la Autoridad garante competente aquellos asuntos que se mencionan en los párrafos anteriores que le corresponda conforme al ámbito de sus atribuciones para su atención, de conformidad con las disposiciones normativas aplicables.
+
+NOVENO. Los expedientes y archivos que a la entrada en vigor del presente Decreto estén a cargo del Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca para el ejercicio de sus facultades sustantivas, competencias o funciones, de conformidad con la Ley General de Archivos, la Ley Local de Archivos y demás disposiciones jurídicas aplicables, serán transferidos a la Secretaría de Honestidad, Transparencia y Función Pública dentro de los veinte días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+La Secretaría de Honestidad, Transparencia y Función Pública, dentro de los treinta días naturales siguientes contados a partir de que se reciban los expedientes y archivos que se mencionan en el párrafo anterior, deberá transferirlos a la Autoridad Garante Local.
+
+DÉCIMO. El Órgano Interno de Control del Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca queda extinto y sus asuntos y procedimientos que a la entrada en vigor del presente Decreto estén a su cargo, así como los expedientes y archivos, serán transferidos a las áreas correspondientes de la Secretaría de Honestidad, Transparencia y Función Pública, dentro de los veinte días hábiles siguientes a su entrada en vigor, y serán tramitados y resueltos por dicho órgano conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+
+DÉCIMO PRIMERO. Para efectos de lo dispuesto en los transitorios Cuarto, Quinto, Noveno y Décimo del presente Decreto, el Comisionado Presidente del extinto Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, deberá realizar el procedimiento de entrega-recepción correspondiente a la Secretaría de Honestidad, Transparencia y Función Pública, en un plazo de treinta días hábiles.
+
+DÉCIMO SEGUNDO. El Comité del Subsistema Estatal de Transparencia deberá instalarse a más tardar en sesenta días naturales, a partir de la entrada en vigor del presente Decreto, previa convocatoria que al efecto emita la Secretaría de Honestidad, Transparencia y Función Pública.
+
+La persona titular de la Secretaría Ejecutiva del Comité del Subsistema Estatal propondrá las reglas de operación y funcionamiento que se señalan en el artículo 29, fracción XI, de la Ley de Transparencia, Acceso a la Información Pública con Sentido Social y Buen Gobierno del Estado de Oaxaca, para que sean aprobadas en la instalación de dicho Consejo.
+
+DÉCIMO TERCERO. La persona titular del Ejecutivo Estatal deberá expedir las adecuaciones correspondientes a los reglamentos y demás disposiciones aplicables, incluida la emisión del Reglamento Interno de la Autoridad Garante Local, dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, a fin de armonizarlos a lo previsto en el mismo.
+
+DÉCIMO CUARTO. Las Autoridades Garantes en un plazo máximo de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto deberán realizar las adecuaciones necesarias a su normativa interna para dar cumplimiento a lo dispuesto en este instrumento.
+
+Para efectos de lo previsto en este Transitorio, se suspenden por un plazo de noventa días naturales contados a partir de la entrada en vigor de este Decreto todos y cada uno de los trámites, procedimientos y demás medios de impugnación, establecidos en este instrumento y demás normativa aplicable, con excepción de la recepción y atención de las solicitudes de información que se tramitan a través de la Plataforma Nacional de Transparencia por las autoridades que se mencionan en el párrafo anterior.
+
+Así mismo, se suspenden por un plazo de noventa días naturales contados a partir de la entrada en vigor del presente Decreto, todos y cada uno de los trámites, procedimientos y demás medios de impugnación establecidos en esta Ley para todos los sujetos obligados del Poder Ejecutivo y Municipios del Estado de Oaxaca, con excepción de la recepción y atención de las solicitudes de acceso a la información, que se tramitan a través de la Plataforma Nacional de Transparencia.
