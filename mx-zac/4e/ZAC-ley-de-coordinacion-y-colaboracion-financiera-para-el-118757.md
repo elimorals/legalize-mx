@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-coordinacion-y-colaboracion-financiera-para-el-118757"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2023-12-30"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Suplemento al Periódico Oficial del Gobierno del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -79,9 +79,9 @@ VII. Establecer los procedimientos para la evaluación, rendición de informes d
 
 Para efectos de esta Ley se entenderá por:
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-I. Año base. Corresponde al penúltimo ejercicio fiscal anterior de aquél que se lleva el cálculo de las participaciones establecidas en los artículos 33 y 34 de esta Ley, el cual representará el ejercicio de punto de partida y comparación, para el crecimiento de los Municipios en esfuerzo recaudatorio por el cobro de las contribuciones relativas al Impuesto Predial y Derechos de Agua;
+I. Año base. Corresponde al penúltimo ejercicio fiscal anterior de aquél que se lleva el cálculo de las participaciones establecidas en los artículos 33 Fracción I y 34 de esta Ley, el cual representará el ejercicio de punto de partida y comparación, para el crecimiento de los Municipios en esfuerzo recaudatorio por el cobro de las contribuciones relativas al Impuesto Predial y Derechos de Agua;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -619,7 +619,7 @@ e) El 21.5% del Fondo de Fiscalización y Recaudación;
 
 f) El 21.5% del Fondo de Compensación del Impuesto Sobre Automóviles Nuevos; y
 
-g) El 100% del Impuesto Sobre la Renta, en los términos establecidos en el artículo 3-B de la Ley de Coordinación.
+g) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2025)
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
@@ -654,6 +654,10 @@ VII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 VIII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 IX. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+X. El 100% del Impuesto Sobre la Renta, en los términos establecidos en el artículo 3-B de la Ley de Coordinación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
@@ -747,6 +751,12 @@ La distribución del Fondo de Estabilización Financiera a los Municipios que es
 
 Se entenderá como coeficiente efectivo al resultante de dividir las participaciones percibidas a cada uno de los Municipios que les corresponda del Fondo Único de Participaciones, establecido en el artículo 34 de esta Ley, entre el total del citado Fondo Único de Participaciones.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 34 Quater.
+
+El importe a considerar del Fondo que señala el inciso d) de la fracción I del artículo 33 de la Ley, es el recaudado en el mes inmediato anterior de conformidad con la cuenta mensual comprobada y validada por la Secretaría de Hacienda y Crédito Público, en términos de la Ley de Coordinación.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 35.
@@ -769,13 +779,21 @@ Si del resultado de la revisión de las cifras de recaudación del Impuesto Pred
 
 Las participaciones a que se refiere el inciso h), primer párrafo del artículo 33 de la presente Ley, se determinarán por la Secretaría al momento de compensar la Liquidación de la Constancia de Participaciones y se determinarán los montos a distribuir a los municipios con la aplicación del coeficiente efectivo, para pagarse en los 15 días hábiles del mes siguiente, contados a partir de la liquidación de la Constancia de Participaciones.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 35 Bis.
 
-Las participaciones que correspondan a los Municipios del Fondo que establece el artículo 33 fracción III de la presente Ley, se calcularán mensualmente por la Secretaría, y ésta deberá mantenerlos y depositarlos en una cuenta productiva, cuyos intereses que se generen formarán parte de este Fondo, y se entregará a los Municipios en una sola exhibición en los primeros diez días del mes de diciembre.
+Las participaciones que correspondan a los Municipios del Fondo que establece el artículo 33 fracción III de la presente Ley, se calcularán mensualmente por la Secretaría, y ésta deberá mantenerlos y depositarlos en una cuenta productiva, cuyos intereses que se generen formarán parte de este Fondo, y se entregará a los Municipios en dos exhibiciones conforme a lo siguiente:
 
-La participación correspondiente al mes de diciembre, la Secretaría realizará una estimación que se incluirá en el monto entregado a los Municipios en los términos del párrafo anterior, en caso de haber diferencia se ajustará en el mes de enero del ejercicio siguiente.
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+a) En los primeros diez días del mes de diciembre se entregará a los Municipios el importe del Fondo acumulado más los intereses generados.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+b) El importe del mes de diciembre correspondiente al Fondo establecido en el inciso a) de la fracción III del artículo 33 de la Ley, será entregado a los Municipios en el plazo de cinco días siguientes a aquel en que el estado reciba el Fondo referido, de conformidad con lo dispuesto en el artículo 6, segundo párrafo de la Ley de Coordinación.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 36.
 
@@ -1148,3 +1166,15 @@ ANEXO 1. ESTIMACIÓN DE IMPACTO PRESUPUESTARIO DE LA MISCELÁNEA FISCAL PARA EL 
 ANEXO 2. EVALUACIÓN DE IMPACTO PRESUPUESTARIO DE LA MISCELÁNEA FISCAL PARA EL EJERCICIO FISCAL 2024.
 
 > <small>[N. DE E. VÉASE ANEXOS EN EL SUPLEMENTO DEL P.O. DE 30 DE DICIEMBRE DE 2023, PÁGINAS DE LA 3 A LA 12.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 248.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS Y DE LA LEY SOBRE BEBIDAS ALCOHÓLICAS PARA EL ESTADO DE ZACATECAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil veintiséis, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al presente Decreto.
