@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-telchac-puerto-yucatan-96932"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-27"
-last_updated: "2013-12-27"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96932&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO TELCHAC PUERTO, YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 27 de diciembre de 2013
 
@@ -351,13 +351,21 @@ I. El valor catastral del inmueble.
 
 II. La contraprestación que produzcan los inmuebles, los terrenos o las construcciones ubicadas en los mismos y que por el uso o goce fuere susceptible de ser cobrada por el propietario, el fideicomisario o el usufructuario, independientemente de que se pacte en efectivo, especie o servicios.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+III. El Valor registrado de la Zona Federal Marítimo Terrestre.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 32.
 
-Cuando la base del impuesto predial, sea el valor catastral de un inmueble, dicha base estará determinada por el valor consignado en la cédula, que de conformidad con la Ley del Catastro del Estado de Yucatán y su reglamento, expedirá la Dirección del Catastro del Municipio o la Dirección del Catastro del Estado de Yucatán. Cuando la dirección de Catastro del Municipio de Telchac Puerto, Yucatán, expidiere una cédula con diferente valor a la que existe registrada en el padrón municipal, el nuevo valor servirá como base para calcular el impuesto predial a partir del bimestre siguiente al mes que se recepcione la citada cédula.
+Cuando la base del impuesto predial, sea el valor catastral de un inmueble, dicha base estará determinada por el valor consignado en la cédula, determinado de conformidad con la Ley del Catastro del Estado de Yucatán y su reglamento, así como el reglamento del Catastro del Municipio de Telchac Puerto, Yucatán, cuya dirección será la única competente para expedirla. Cuando la dirección de Catastro del Municipio de Telchac Puerto, Yucatán, expidiere una cédula con diferente valor a la que existe registrada en el padrón municipal, el nuevo valor servirá como base para calcular el impuesto predial a partir del bimestre siguiente al mes que se recepcione la citada cédula.
 
 Lo dispuesto en el párrafo anterior, no se aplicará a los contribuyentes que a la fecha de la recepción de la nueva cédula catastral ya hubieren pagado el impuesto predial correspondiente.
 
 En este caso, el nuevo valor consignado en la cédula servirá como base del cálculo del impuesto predial para el siguiente bimestre no cubierto.
+
+El reglamento del catastro del Municipio de Telchac Puerto, Yucatán contemplara el mecanismo de reconsideración del valor catastral de los predios cuyos propietarios tengan inconformidad con dicho valor.
 
 ###### Artículo 33.
 
@@ -417,17 +425,17 @@ La Tesorería Municipal, emitirá la forma correspondiente para solicitar el cer
 
 #### Sección Segunda. Del Impuesto Sobre Adquisición de Inmuebles
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 41.
 
-Es objeto del Impuesto sobre Adquisición de Inmuebles, toda adquisición del dominio de bienes inmuebles, que consistan en el suelo, en las construcciones adheridas a él, en ambos, o de derechos sobre los mismos, ubicados en el Municipio de Telchac Puerto, Yucatán.
-
-Para efectos de este impuesto, se entiende por adquisición:
+Es objeto del Impuesto sobre Adquisición de Inmuebles, toda adquisición del dominio de bienes inmuebles, que consistan en el suelo, en las construcciones adheridas a él, en ambos, o de derechos sobre los mismos, ubicados en el Municipio de Telchac Puerto, Yucatán. Para efectos de este impuesto, se entiende por adquisición:
 
 I. Todo acto por el que se adquiera la propiedad, incluyendo la donación, y la aportación a toda clase de personas morales;
 
 II. La compraventa en la que el vendedor se reserve la propiedad del inmueble, aún cuando la transferencia de este se realice con posterioridad;
 
-III. El convenio, promesa, minuta o cualquier otro contrato similar, cuando se pacte que el comprador o futuro comprador, entrará en posesión del inmueble o que el vendedor o futuro vendedor, recibirá parte o la totalidad del precio de la venta, antes de la celebración del contrato definitivo de enajenación del inmueble, o de los derechos sobre el mismo;
+III. El convenio, promesa, minuta o cualquier otro contrato similar, cuando se pacte que el comprador o futuro comprador, entrará en posesión del inmueble o que el vendedor o futuro vendedor, recibirá parte o la totalidad del precio de la venta, antes de la celebración del contrato definitivo de enajenación del inmueble, o de los derechos sobre el mismo,
 
 IV. La cesión de derechos del comprador o del futuro comprador, en los casos de las fracciones II y III que anteceden;
 
@@ -441,7 +449,7 @@ VIII. La prescripción positiva;
 
 IX. La cesión de derechos del heredero o legatario. Se entenderá como cesión de derechos la renuncia de la herencia o del legado, efectuado después del reconocimiento de herederos y legatarios;
 
-X. La adquisición que se realice a través de un contrato de fideicomiso, en los supuestos relacionados en el Código Fiscal de la Federación;
+X. Todo acto que afecte el dominio, la propiedad y la posesión de un inmueble realizado a través de un contrato de fideicomiso, no exceptuando ninguna variante de dicha figura;
 
 XI. La disolución de la copropiedad y de la sociedad conyugal, por la parte que el copropietario o el cónyuge adquiera en demasía del porcentaje que le corresponde;
 
@@ -677,173 +685,205 @@ Son sujetos obligados al pago de derechos por los servicios que presta la Direcc
 
 Los sujetos pagarán los derechos por los servicios que soliciten a la Dirección de Desarrollo Urbano y Obras Públicas, consistentes en:
 
-I.- Anuncios murales por metro cuadrado o fracción
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-II.- Anuncios estructurales fijos por metro cuadrado o fracción
-
-III.- Anuncios en carteleras mayores de 2 metros cuadrados, por cada metro cuadrado o fracción
-
-IV.- Anuncios en carteleras oficiales, por cada una
-
-V.- Permisos de construcción de particulares:
+I.- Permisos de construcción de particulares
 
 a) Láminas de zinc y cartón
-
-1.- Por cada permiso de construcción de hasta 40 metros cuadrados.
-
-2.- Por cada permiso de construcción de 41 a 120 metros cuadrados.
-
-3.- Por cada permiso de construcción de 121 a 240 metros
-
-4.- Por cada permiso de construcción de 241 metros cuadrados en adelante.
 
 b) De madera y paja o teja
 
-1.- Por cada permiso de construcción de hasta 40 metros cuadrados.
+c) Vigueta y bovedilla
 
-2.- Por cada permiso de construcción de 41 a 120 metros cuadrados.
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-3.- Por cada permiso de construcción de 121 a 240 metros
-
-4.- Por cada permiso de construcción de 241 metros cuadrados en adelante.
-
-c) Vigueta y bovedilla.
-
-1.- Por cada permiso de construcción de hasta 40 m2
-
-2.- Por cada permiso de construcción de 41 a 120 m2.
-
-3.- Por cada permiso de construcción de 121 a 240 m2.
-
-4.- Por cada permiso de construcción de 241 m2.
-
-VI.- Permisos de construcción de Bodegas, Industrias, comercios y grandes construcciones:
+II.- Permiso de construcción de INFONAVIT, bodegas, industrias y comercios
 
 a) Láminas de zinc y cartón
 
-1.- Por cada permiso de construcción de hasta 40 metros cuadrados.
+b) De madera y paja
 
-2.- Por cada permiso de construcción de 41 a 120 metros cuadrados.
+c) Vigueta y bovedilla
 
-3.- Por cada permiso de construcción de 121 a 240 metros cuadrados.
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-4.- Por cada permiso de construcción de 241 metros cuadrados en adelante.
+III.- Permiso de construcción de hoteles, departamentos, villas, condominios, conjuntos habitacionales, desarrollos residenciales privados y fraccionamientos privados.
 
-b) De madera y paja o teja
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-1.- Por cada permiso de construcción de hasta 40 metros cuadrados.
+IV.- Por cada permiso de remodelación.
 
-2.- Por cada permiso de construcción de 41 a 120 metros cuadrados.
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-3.- Por cada permiso de construcción de 121 a 240 metros cuadrados.
+V.- Por cada permiso de ampliación.
 
-4.- Por cada permiso de construcción de 241 metros cuadrados en adelante.
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-c) Vigueta y bovedilla.
+VI.- Por cada permiso de demolición de obras.
 
-1.- Por cada permiso de construcción de hasta 40 metros
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-2.- Por cada permiso de construcción de 41 a 120 metros
+VII.- Por cada permiso para la ruptura de banquetas, empedrados o pavimento
 
-3.- Por cada permiso de construcción de 121 a 240 metros
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-4.- Por cada permiso de construcción de 241 metros cuadrados en adelante.
+VIII.- Por construcción de albercas
 
-VII.- Por cada permiso de remodelación
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-VIII.- Por cada permiso de ampliación
+IX.-Por construcción de pozos
 
-IX.- Por cada permiso de demolición
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-X.- Por cada permiso para la ruptura de banquetas, empedrados o pavimento
+X.- Por cada autorización para la construcción o demolición de bardas.
 
-XI.- Por construcción de albercas
+a) Autorización para construcción de bardas
 
-XII.- Por construcción de pozos
+b) Autorización para la demolición de bardas
 
-XIII.- Por cada autorización para la construcción o demolición de bardas u obras lineales
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-XIV.- Por inspección para el otorgamiento de la constancia de terminación de obra.
+XI.- Por inspección para el otorgamiento de la constancia de terminación de obra.
 
-a) Láminas de zinc y cartón.
+a) Lámina de zinc y cartón.
 
-1.- Hasta 40 metros cuadrados
+b) Madera y paja
 
-2.- De 41 a 120 metros cuadrados
+c) Vigueta y bovedilla
 
-3.- De 121 a 240 metros cuadrados
+d) En cuyo caso cuando sea el otorgamiento de la constancia de terminación de obra sea para bodegas, industrias, comercio, hoteles, condominios, villas, departamentos, fraccionamientos privados, desarrollos residenciales privados y grandes construcciones.
 
-4.- De 241 metros cuadrados en adelante
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-b) De madera y paja.
+XII.- Por inspección, revisión de planos y alineamientos del terreno para el otorgamiento de la licencia o permiso de construcción para vivienda tipo INFONAVIT o cuyo uso sea para bodegas, industrias, comercio, hoteles, condominios, villas, departamentos, fraccionamientos privados, desarrollos residenciales privados y grandes construcciones.
 
-1.- Hasta 40 metros cuadrados
+a) Lamina de zinc o cartón
 
-2.- De 41 a 120 metros cuadrados
+b) Madera y paja
 
-3.- De 121 a 240 metros cuadrados
+c) Vigueta y bovedilla
 
-4.- De 241 metros cuadrados en adelante
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-c) Vigueta y bovedilla.
+XIII.- Por el derecho de inspección para el otorgamiento exclusivamente de la constancia de alineamiento de un predio
 
-1.- Hasta 40 metros cuadrados
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-2.- De 41 a 120 metros cuadrados
+XIV.- Certificado de cooperación
 
-3.- De 121 a 240 metros cuadrados
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-4.- De 241 metros cuadrados en adelante
+XV.- Licencia de Urbanización
 
-XV.- Por inspección, revisión de planos y alineamientos del terreno para el otorgamiento de la licencia o permiso de construcción para viviendas o cuyo uso sea para bodegas, industrias, comercio, etc.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-a) Láminas de zinc y cartón
+XVI.- Constancia de factibilidad de uso de suelo
 
-1.- Hasta 40 metros cuadrados
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-2.- De 41 a 120 metros cuadrados
+XVII.- Licencia de uso de suelo comercial, el cual se cobrará anualmente lo siguiente:
 
-3.- De 121 a 240 metros cuadrados
+a) licencia de uso de suelo para predios urbanos, el cual se cobrará anualmente lo siguiente:
 
-4.- De 241 metros cuadrados en adelante
+b) licencia de uso de suelo mixto para predios urbanos, desarrollos inmobiliarios, condominios, departamentos, hoteles, villas, fraccionamientos privados, desarrollos residenciales privados, se cobrará anualmente lo siguiente:
 
-b) De madera y paja o teja.
+c) licencia de uso de suelo para desarrollos inmobiliarios, condominios, departamentos, hoteles, villas, fraccionamientos privados, desarrollos residenciales privados, se cobrará anualmente lo siguiente:
 
-1.- Hasta 40 metros cuadrados
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-2.- De 41 a 120 metros cuadrados
+XVIII.- Inspección para expedir licencia para efectuar excavaciones o zanjas en la vía pública
 
-3.- De 121 a 240 metros cuadrados
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-4.- De 241 metros cuadrados en adelante
+XIX.- Inspección para expedir licencia o permiso para el uso de andamios o tapiales
 
-c) Vigueta y bovedilla.
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-1.- Hasta 40 metros cuadrados
+XX.- Constancia de factibilidad de apertura de una vía pública, unión, división, rectificación de medidas o fraccionamiento de inmuebles, esta constancia tendrá una vigencia de una año a partir del momento de la expedición.
 
-2.- De 41 a 120 metros cuadrados
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-3.- De 121 a 240 metros cuadrados
+XXI.- Inspecciones para el otorgamiento de la licencia que autorice romper o hacer cortes a pavimento, las banquetas, y las guarniciones, así como ocupar la vía pública para instalaciones.
 
-4.- De 241 metros cuadrados en adelante
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-XVI.- Por el derecho de inspección para el otorgamiento exclusivamente de la constancia de alineamiento de un predio.
+XXII.- Revisión de planos, supervisión y expedición de constancia para obras de urbanización.
 
-XVII.- Certificado de cooperación
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-XVIII.- Licencia de uso del suelo.
+XXIII.- Servicio de inspección para expedir licencias para colocar pisos
 
-XIX.- Inspección para expedir licencia para efectuar excavaciones o zanjas en vía Pública.
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-XX.- Inspección para expedir licencia o permiso para el uso de andamios o tapiales.
+XXIV.- Constancia que sirve como requisito para la obtención de un título de concesión en Zona Federal- Marítima o Carta de congruencia de Uso de Suelo
 
-XXI.- Constancia de factibilidad de uso del suelo, apertura de una vía pública unión, división, rectificación de medidas o fraccionamiento de inmuebles.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-XXII.- Inspección para el otorgamiento de la licencia que autorice romper o hacer cortes del pavimento, banquetas y las guarniciones, así como ocupar la vía pública para instalaciones provisionales.
+XXV.- Sellado de planos
 
-XXIII.- Revisión de planos, supervisión y expedición de constancia para obras de urbanización (vialidad, aceras, guarnición, drenaje, alumbrado, placas de nomenclatura, agua potable).
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-XXIV.- Por la constancia que sirve como requisito para la obtención de un título de concesión en zona Federal-Marítima.
+XXV (SIC).- Expedición de constancias de reserva de crecimiento
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XXVI.- Todas Las construcciones, excavaciones, demoliciones y demás obras o trabajos iniciados o llevados a cabo sin la autorización, constancia, licencia, o permiso correspondiente
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XXVII.- Inspección para expedir constancia de cumplimiento del reglamento de imagen urbana, publica.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XXVIII.- Anuncios murales, estructurales, fijos por metro cuadrado o fracción
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XXIX.- Anuncios en carteleras mayores de 2 metros cuadrados, por cada metro cuadrado o fracción
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XXX.- Para la expedición de la Constancia de factibilidad para permisos de construcción se causará y pagará derechos por 45 UMAS, en el caso de que la constancia se requiera para la zona de los condominios, hoteles, moteles, hostales, villas, fraccionamientos privados, desarrollos residenciales privados y conjuntos habitacionales se causará y pagará los derechos de 500 UMAS, siendo que esta constancia tendrá una vigencia de un año a partir del momento de la expedición.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XXXI.- Para la expedición de la Constancia de factibilidad para las licencias de urbanización se causará y pagará derechos por 45 UMAS, en le caso de que la constancia se requiera para la zona de los condominios, hoteles, moteles, hostales, villas, fraccionamientos privados, desarrollos residenciales privados y conjuntos habitacionales se causará y pagará los derechos de 500 UMAS, siendo que esta constancia tendrá una vigencia de un año a partir del momento de la expedición.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XXXII.- Dictamen de Constitución de desarrollo inmobiliario.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XXXIII.- Permiso de publicidad y comercialización de desarrollo inmobiliario
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XXXIV.- Permisos de anuencia de urbanización
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XXXV.- Carta de delimitación
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XXXV (SIC).- Instalación de Contenedores metálicos habilitados para vivienda o bodega.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XXXVI.- Dictamen de habitabilidad.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XXXVII.- Dictamen de cumplimiento de desarrollo urbano
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XXXVIII.- Por la revisión de planos, supervisión y expedición de constancias para obras de urbanización.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XXXIX.- Inspecciones para el otorgamiento de la concesión en Zona Federal-Marítima o Carta de congruencia de Uso de Suelo.
 
 ###### Artículo 68.
 
@@ -1121,6 +1161,34 @@ Solamente quedarán exentos del pago de este derecho los bienes de dominio públ
 
 Los usuarios de este servicio están obligados a permitir que las autoridades fiscales verifiquen la información proporcionada con motivo de este servicio, pudiendo para ello practicar visitas domiciliarias o valerse de medios técnicos que permitan determinar con mayor precisión los consumos realizados.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+#### Sección Décima Tercera. “Derechos para realizar Servicios de Labores Topográficas”
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 120 Bis.
+
+Es objeto de este derecho la prestación de las labores topográficas ajenas a la dirección de catastro municipal para los habitantes del Municipio. Se entiende por labores topográficas los levantamiento topográficos que realicen mediante un estudio técnico y descriptivo de un terreno, examinando la superficie terrestre en la cual se tienen en cuenta las características físicas, geográficas y geológicas del terreno, pero también sus variaciones y alteraciones, se denomina a este acopio de datos o plano que refleja al detalle y sirve como instrumento de planificación para edificaciones y construcciones, todo dentro del municipio en calles, plazas, jardines y todos los lugares de uso común.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 120 Bis 1.
+
+Son sujetos del pago de estos derechos, las personas físicas o morales, que realicen Servicios de labores topográficos en el municipio de Telchac Puerto, considerándose que el servicio se presta en la dirección catastral del municipio, y cualquier persona ajena a la dirección de catastro municipal estará en el supuesto del presente Capítulo.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 120 Bis 2.
+
+Serán base de este derecho, y se causará por evento en el día y hora indicada en el comprobante de pago para la realización de los servicios de labores topográficas.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 120 Bis 3.
+
+La cuota de este derecho será la que al efecto determine la Ley de Ingresos del Municipio de Telchac Puerto, Yucatán.
+
 ### Capítulo III. Contribuciones de Mejoras
 
 ###### Artículo 121.
@@ -1299,9 +1367,15 @@ Las aportaciones son los recursos que la federación transfiere a las haciendas 
 
 ### Capítulo VII. Ingresos Extraordinarios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 142.
 
-La Hacienda Pública del Municipio de Telchac Puerto, podrá percibir ingresos extraordinarios por los siguientes conceptos:
+Los ingresos extraordinarios son aquellos distintos de los anteriores que las haciendas públicas municipales estiman percibir como partes integrantes del presupuesto municipal, como por ejemplo los empréstitos, la emisión de bonos de deuda pública y otros ingresos que se obtengan de las diversas fuentes de financiamiento, siempre que fueren aprobados por la Legislatura del Estado en términos de lo dispuesto en la Ley de Gobierno de los Municipios y en la Constitución Política, ambas del Estado de Yucatán.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO ESTE PÁRRAFO], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+La hacienda pública del Municipio de Telchac Puerto, podrá percibir ingresos extraordinarios por los siguientes conceptos:
 
 I. Empréstitos aprobados por el Congreso;
 
@@ -1310,6 +1384,10 @@ II. Empréstitos aprobados por el Cabildo;
 III. Subsidios, y
 
 IV. Los que reciba de la Federación o del Estado, por conceptos diferentes a Participaciones o Aportaciones.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+V. Los donativos también se considerarán ingresos extraordinarios
 
 ## TÍTULO TERCERO. INFRACCIONES Y MULTAS
 
@@ -1488,3 +1566,19 @@ GOBERNADOR DEL ESTADO DE YUCATÁN
 C. VÍCTOR EDMUNDO CABALLERO DURÁN
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 151/2025 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE TRECE MUNICIPIOS DEL ESTADO DE YUCATÁN”.]
+
+Artículo primero.- Este decreto entrará en vigor el día primero de enero del año dos mil veintiséis, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo.- El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que a la fecha de la publicación de la presente Ley no hayan sido transferidos formalmente al Ayuntamiento por el Gobierno del Estado, entrarán en vigor hasta la celebración del convenio respectivo.
+
+Artículo tercero.- Para el Municipio de Sacalum, el ejercicio del importe anual a pagar por los contribuyentes del impuesto predial base valor catastral, para el caso de los predios cuyo valor catastral sea menor o igual $200,000.00 el impuesto predial base valor catastral no podrá exceder un 6% del que les haya correspondido durante el ejercicio inmediato anterior, para el caso de predios cuyo valor catastral sea igual o superior a $200,000.01 el impuesto predial base valor catastral no podrá exceder el 10% del que les haya correspondido durante el ejercicio inmediato anterior. Este comparativo se efectuará solamente sobre le impuesto predial, sin tomar en consideración, bonificaciones, excedentes, reducciones, estímulos o accesorios.
+
+I. Los predios que, como resultado de alguna modificación en su superficie de terreno, construcción, así como de la tipología de su construcción, haya aumentado en mas de un 50% el valor catastral que tenían antes dichas modificaciones, de conformidad con las disposiciones aplicables, en cuyo caso aplicará el cálculo establecido en el artículo 34 de esta ley.
+
+II. Los predios que fueron objeto de traslación de dominio a partir del ejercicio inmediato anterior, en cuyo caso aplicará el calculo establecido en el artículo 34 de esta ley.
