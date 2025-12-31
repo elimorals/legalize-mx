@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-motul-yucatan-132512"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-29"
-last_updated: "2024-12-30"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE MOTUL, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Suplemento II al Número 33,762 del Diario Oficial del Estado de Yucatán, el sábado 29 de diciembre de 2018.
 
@@ -411,7 +411,9 @@ DE LAS LICENCIAS DE FUNCIONAMIENTO
 
 Las licencias de funcionamiento que expida la Tesorería Municipal, serán gratuitas a excepción de las que señale la Ley de Ingresos del Municipio.
 
-Tendrán una vigencia que iniciará en la fecha de su expedición y terminará en la misma fecha del año inmediato posterior de su expedición.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Las licencias de funcionamiento que expida la Dirección de Finanzas y Tesorería Municipal tendrán una vigencia anual a partir de la fecha de autorización de esta y una vigencia desde el día de su otorgamiento hasta el día 31 de diciembre del año en que se soliciten, con excepción de las licencias de funcionamiento eventuales que tendrán la vigencia que establezca la normatividad conducente.
 
 No obstante, lo dispuesto en el párrafo anterior, la vigencia de las licencias podrá concluir anticipadamente e incluso, condicionarse el funcionamiento, cuando por la actividad de la persona física o moral, se requieran permisos, licencias o autorizaciones de otras dependencias municipales, estatales o federales. En estos casos, el plazo de vigencia o la condición serán iguales a las expresadas por dichas dependencias. En ningún caso, la vigencia de la licencia de funcionamiento excederá del período de la administración municipal que la expidió.
 
@@ -419,13 +421,29 @@ Los interesados deberán revalidar sus licencias a más tardar dentro de los tre
 
 Las personas físicas o morales que deseen obtener la licencia municipal de funcionamiento, deberán presentar a la Tesorería Municipal los siguientes documentos:
 
-a).- Certificado de no adeudar impuesto predial.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+a).- Certificado de no adeudar impuesto predial y copia del comprobante del pago del derecho.
 
 b).- Licencia de uso de suelo.
 
 c).- Determinación sanitaria, en su caso.
 
-d).- Comprobante de no adeudo de Agua Potable.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+d).- Comprobante de no adeudo de Agua Potable contrato comercial
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+e).- Comprobante de servicio de basura del mes en que se solicita la renovación
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+f).- Documentación comprobatoria de propiedad o posesión legitima del inmueble.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+g).- Copia de cédula y plano catastral.
 
 Para la revalidación de la licencia municipal de funcionamiento, deberán presentarse:
 
@@ -433,7 +451,21 @@ a).- Licencia de funcionamiento anterior.
 
 b).- Certificado de no adeudar impuesto predial.
 
-c).- Comprobante de no adeudo de Agua Potable.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+c).- Comprobante de no adeudo de Agua Potable contrato comercial
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+d).- Comprobante de servicio de basura del mes en que se solicita la renovación
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+e).- Documentación comprobatoria de propiedad o posesión legitima del inmueble.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+f).- Copia de cédula y plano catastral
 
 ## TÍTULO TERCERO. DE LOS IMPUESTOS
 
@@ -1777,19 +1809,27 @@ VIII.- Salones de baile
 
 IX.- Restaurantes, hoteles y moteles
 
-###### Artículo 112.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-Las licencias de funcionamiento que se expidan por cualquiera de los conceptos anteriores tendrán una vigencia anual y deberán revalidarse durante los meses de enero y febrero. Para que la Tesorería municipal esté en condiciones de revalidar, el peticionario deberá acompañar copia certificada de la Licencia de salud o determinación sanitaria expedida por la Secretaría de Salud del Estado de Yucatán.
+###### ARTÍCULO 112.
+
+Las licencias de funcionamiento que se expidan por cualquiera de los conceptos anteriores tendrán una vigencia anual igual al ejercicio fiscal y deberán revalidarse durante los meses de enero y febrero.
 
 ###### Artículo 113.
 
 La tarifa que se cobrará para el otorgamiento de licencias de apertura para el funcionamiento de establecimientos con giros relacionados con la venta de bebidas alcohólicas, se basará en los metros cuadrados totales del establecimiento y será la siguiente, que se dividirá en tres tipos:
 
-a) Establecimientos de hasta 50 metros cuadrados pagarán el equivalente a 100 UMAS.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-b) Establecimientos mayores a 50 y menores de 150 metros cuadrados, pagarán el equivalente a 150 UMAS.
+a).-Establecimientos de hasta 50 metros cuadrados pagarán el equivalente a 150 UMAS.
 
-c) Establecimientos mayores a 150 metros cuadrados, pagarán el equivalente a 200 UMAS.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+b).-Establecimientos mayores a 50 y menores de 150 metros cuadrados, pagarán el equivalente a 200 UMAS.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+c).-Establecimientos mayores a 150 metros cuadrados, pagarán el equivalente a 250 UMAS.
 
 > <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2023)</small>
 
@@ -1807,43 +1847,63 @@ II.- Pagar anualmente el derecho correspondiente a la renovación de las licenci
 
 III.- La tasa se determinará con base en el siguiente cuadro de categorización de los giros comerciales, tasados en unidad de medida y actualización para su cobro:
 
-CATEGORIZACIÓN DE LOS DERECHO DE INICIO DERECHO DE
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-GIROS COMERCIALES DE FUNCIONAMIENTO RENOVACIÓN ANUAL
+CATEGORIZACIÓN DE DERECHO DE DERECHO DE
 
-MICRO ESTABLECIMIENTO 5 UMAS 2 UMAS
+LOS GIROS COMERCIALES INICIO DE RENOVACIÓN
 
-Expendios de Pan, Tortilla, Refrescos, Paletas, Helados, de Flores. Loncherías, Taquerías, Torterías. Cocinas Económicas con 1 repartidor. Talabarterías. Tendejón, Miscelánea, Bisutería, Regalos, Bonetería, Avíos para Costura, Novedades, Venta de Plásticos, Peleterías, Compra - venta de Sintéticos, Ciber Café, Taller de Reparación de Computadoras, Peluquerías, Estéticas, Sastrerías, Puesto de venta de revistas, Periódicos. Mesas de Mercados en General. Carpinterías, dulcerías. Taller de Reparaciones de Electrodomésticos. Mudanzas y Fletes. Centros de Foto Estudio y de Grabaciones, Filmaciones. Fruterías y Verdulerías. Sastrerías. Cremería y Salchichonerías. Acuarios, Chatarrería, Gimnasio básico, Paletas caseras, Paleterías grandes, Billares, Relojería, Taller de reparación de celulares, Serigrafía, Gimnasios.
+FUNCIONAMIENTO ANUAL
 
-PEQUEÑO ESTABLECIMIENTO 10 UMA 3 UMA
+MICRO ESTABLECIMIENTO 5 UMAS 4 UMAS
 
-Tienda de Abarrotes, Tienda de Regalo. Fonda, Cafetería. Carnicerías, Pescaderías y Pollerías. Taller y Expendio de Artesanías. Zapaterías. Tlapalerías, Ferreterías y Pinturas. Imprentas, Papelerías, Librerías y Centros de Copiado Video Juegos, Ópticas, Lavanderías. Talleres Automotrices Mecánicos, Hojalatería, Eléctrico, Refaccionarias y Accesorios. Herrerías, Tornerías, Llanteras, Vulcanizadoras. Tienda de Ropa, Rentadoras de Ropa. Sub agencia de refrescos. Venta de Equipos Celulares, Salas de Fiestas Infantiles, Alimentos Balanceados y Cereales. Vidrios y Aluminios. Video Clubs en General. Academias de Estudios Complementarios. Molino – Tortillería. Talleres de Costura, Cocina económica de 2 a 3 repartidores, Estacionamiento de 1 a 500 m2, Estética mediana, Fábrica de paletas semi industrial. Lavadero de vehículos, Miscelanea pequeña, Mudanzas, Fletes, Novedades, Peluquerías, Pizzería básica con repartidor, Santería y derivados, Taquerías grandes, Tiendas desechables y Voceo publicitario.
+Expendios de Pan, Tortilla, Refrescos, Paletas, Helados, de Flores. Loncherías, Taquerías, Torterías. Cocinas Económicas con 1 repartidor. Talabarterías. Tendejón, Miscelánea, Bisutería, Regalos, Bonetería, Avíos para Costura, Novedades, Venta de Plásticos, Peleterías, Compra - venta de Sintéticos, Ciber Café, Taller de Reparación de Computadoras, Peluquerías, Estéticas, Sastrerías, Puesto de venta de revistas, Periódicos. Carpinterías, dulcerías. Taller de Reparaciones de Electrodomésticos. Mudanzas y Fletes. Centros de Foto Estudio y de Grabaciones, Filmaciones. Fruterías y Verdulerías. Sastrerías. Cremería y Salchichonerías. Acuarios, Chatarrería, Paletas caseras, Paleterías grandes, Billares, Relojería, Taller de reparación de celulares, Serigrafía.
 
-MEDIANO ESTABLECIMIENTO 20 UMA 6 UMA
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-Mini súper, Mudanzas. Lavadero de Vehículos, Cafetería-Restaurant. Farmacias, Boticas, Veterinarias y Similares. Panadería (artesanal). Estacionamientos. Agencias de Refrescos. Joyerías en General. Ferro tlapalería y Material Eléctrico. Tiendas de Materiales de Construcción en General. Centros de Servicios Varios. Oficinas y Consultorios de Servicios Profesionales, Aserraderos, Carnicería Grande, Carpintería Grande, Casa de Empeños, Centro de Copiados Grandes, Escuela De Artes y Manualidades, Estacionamiento de 501 a 800 M2, Estancia Infantil Particular, Estética Grande, Ferretería y Pinturas Grandes, Gimnasios Grandes, Imprenta Mediana, Notarias y Despacho Jurídico, Óptica Grande, Peletería Grande, Pollería Grande, Pizzería con Repartidor, Purificadora De Agua, Rancho de Producción Primaria, Refaccionaria y Accesorios Grandes, Sala De Fiestas Grandes, Taller Automotriz Mecánico o Eléctrico Grande, Taller de costura mayor de 20 personas, Tienda de desechables grande, Tienda de regalos y novedades, Tienda de ropa departamental o Boutique, Tlapalería mediana, Zapatería grande, Veterinarias y similares.
+PEQUEÑO ESTABLECIMIENTO 10 UMA 6 UMA
 
-ESTABLECIMIENTO GRANDE 50 UMA 15 UMA
+Tienda de Abarrotes, Tienda de Regalo. Fonda, Cafetería pequeña. Carnicerías, Pescaderías y Pollerías. Taller y Expendio de Artesanías. Zapaterías. Tlapalerías, Ferreterías y Pinturas. Imprentas, Papelerías, Librerías y Centros de Copiado Video Juegos, Lavanderías. Talleres Automotrices Mecánicos, Hojalatería, Eléctrico, Refaccionarias y Accesorios. Herrerías, Tornerías, Llanteras, Vulcanizadoras. Tienda de Ropa, Rentadoras de Ropa, Sub agencia de refrescos. Venta de Equipos Celulares, Salas de Fiestas Infantiles, Alimentos Balanceados y Cereales. Vidrios y Aluminios. Academias de Estudios Complementarios. Molino – Tortillería. Talleres de Costura, Cocina económica de 2 a 3 repartidores, Estacionamiento de 1 a 500 m2, Estética mediana, Fábrica de paletas semi industrial. Lavadero de vehículos, Miscelanea pequeña, Mudanzas, Fletes, Novedades, Peluquerías, Pizzería básica con repartidor, Santería y derivados, Taquerías grandes, Tiendas desechables.
 
-Súper, Panadería (Fabrica), Centros de Servicio Automotriz. Servicios para Eventos Sociales. Salones de Eventos Sociales. Bodegas de Almacenamiento de cualquier producto en General. Compraventa de Motos y Bicicletas. Compra venta de Automóviles. Salas de Velación y Servicios Funerarios. Fábricas y Maquiladoras de hasta 15 empleados, Escuela de manejo y giros alternos, Estacionamiento mayores a 800 m2, Estancia preescolar y particular, Financieras, Plaza de toros y similares, Hoteles hasta 19 cuartos, Inmobiliaria, Lavadero de vehículos macro, Panadería semi industrial.
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-PEQUEÑA EMPRESA COMERCIAL,
+MEDIANO ESTABLECIMIENTO 20 UMA 8 UMA
 
-INDUSTRIAL O DE SERVICIO 100 UMA 40 UMA
+Mini-súper, Mudanzas. Lavadero de Vehículos, Cafetería-Restaurant. Farmacias, Boticas, Veterinarias. Panadería (artesanal). Estacionamientos. Agencias de Refrescos. Joyerías. Ferro tlapalería y Material Eléctrico. Tiendas de Materiales de Construcción. Centros de Servicios. Oficinas y Consultorios de Servicios Profesionales, Aserraderos, Carnicería Grande, Carpintería Grande, Casa de Empeños, Centro de Copiados Grandes, Escuela De Artes y Manualidades, Estacionamiento de 501 a 800 M2, Estancia Infantil Particular, Estética Grande, Ferretería y Pinturas Grandes, Gimnasios Grandes, Imprenta Mediana, Notarias y Despacho Jurídico, Óptica Grande, Peletería Grande, Pollería Grande, Pizzería con Repartidor, Purificadora De Agua, Rancho de Producción Primaria, Refaccionaria y Accesorios, Sala De Fiestas Grandes, Taller Automotriz Mecánico o Eléctrico Grande, Taller de costura mayor de 20 personas, Tienda de desechables grande, Tienda de regalos y novedades, Tlapalería mediana, Zapatería grande, Veterinarias.
 
-Hoteles a partir de 20 cuartos, Posadas y Hospedajes, Clínicas y Hospitales. Casa de Cambio, Cinemas. Escuelas particulares de educación básica, educación medio superior y superior, Fábricas y Maquiladoras de hasta 15 empleados. Mueblería, Parque acuático y Artículos para el Hogar.
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-MEDIANA EMPRESA COMERCIAL,
+ESTABLECIMIENTO GRANDE 50 UMA 18 UMA
 
-INDUSTRIAL O DE SERVICIO 250 UMA 100 UMA
+Súper, Panadería (Fabrica), Centros de Servicio Automotriz. Servicios para Eventos Sociales. Salones de Eventos Sociales. Bodegas de Almacenamiento. Compraventa de Motos y Bicicletas. Compra venta de Automóviles. Fábricas y Maquiladoras de hasta 15 empleados, Escuela de manejo y giros alternos, Estacionamiento mayores a 800 m2, Estancia preescolar y particular, Financieras, Plaza de toros y, Hoteles hasta 19 cuartos, Inmobiliaria, Lavadero de vehículos macro. Posadas y alojamiento temporal de habitación y/o vivienda, Materiales de construcción, Refaccionaria
 
-Bancos, Gasolineras, Fábricas de Bloques e insumos para construcción. Gaseras. Agencias de Automóviles Nuevos. Fábricas y Maquiladoras de hasta 50 empleados. Tienda de Artículos Electrodomésticos, Muebles, Línea Blanca, Estaciones y/o Terminales de transporte público, Gasolineras, Inmuebles con antenas de telefonía, Sistema de comunicación con antenas de hasta 10 m de altura, Sistema de comunicación por antena receptora.
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-GRAN EMPRESA COMERCIAL
+PEQUEÑA EMPRESA 100 UMA 42 UMA
 
-INDUSTRIAL O DE SERVICIO 500 UMA 200 UMA
+COMERCIAL, INDUSTRIAL
 
-Súper Mercado y/o Tienda Departamental, Sistemas de Comunicación Por Cable. Fábricas, Maquiladoras Industriales y Sistema de comunicación con antenas de 10 hasta 50 m de altura.
+O DE SERVICIO
+
+Hoteles a partir de 20 cuartos y Hospedajes, Clínicas y Hospitales. Casa de Cambio, Cinemas. Escuelas particulares de educación básica, educación medio superior y superior, Fábricas y Maquiladoras de hasta 15 empleados. Mueblería, Parque acuático y Artículos para el Hogar, Salas de velación y servicios funerarios, Restaurante, Farmacias, Panadería semi industrial, Laboratorio de análisis clínicos, Cooperativa de ahorro y préstamo. Módulos de Bancos para gestión de créditos,
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+MEDIANA EMPRESA 250 UMA 110 UMA
+
+COMERCIAL, INDUSTRIAL
+
+O DE SERVICIO
+
+Bancos, Gasolineras, Fábricas de Bloques e insumos para construcción. Gaseras. Agencias de Automóviles Nuevos. Fábricas y Maquiladoras de hasta 50 empleados. Tienda de Artículos Electrodomésticos, Muebles, Línea Blanca, Gasolineras, Servicio de sistema de comunicación, Cooperativas de ahorro y Préstamo con cajero automático, Granja agrícola semi industrial, Tienda de refacciones y accesorios
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+GRAN EMPRESA COMERCIAL 500 UMA 220 UMA
+
+INDUSTRIAL O DE SERVICIO
+
+Súper Mercado y/o Tienda Departamental, Tiendas de autoservicio 24 horas, Servicio de sistemas de Comunicación Por Cable, Fábricas y Maquiladoras Industriales.
 
 MEGA EMPRESA COMERCIAL,
 
@@ -1853,9 +1913,9 @@ Parque de celdas solares, Parque eólico.
 
 Con el objeto de fomentar el desarrollo empresarial, comercial, industrial y de servicios, entre los ciudadanos e incentivar sus inversiones, toda aquella persona física o moral, que demuestre fehacientemente su vecindad en este municipio, por ese simple hecho gozará del 50% de descuento en el pago de las tarifas descritas en la tabla anterior.
 
-> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-Para la expedición de cualquier licencia, será indispensable, además de realizar los pagos correspondientes y entregar la documentación comprobatoria de propiedad o posesión legítima del inmueble, la identidad y personalidad del solicitante, la cédula y planos catastrales, así como estar al corriente en el pago de los impuestos y derechos municipales correspondientes, cumplir con los lineamientos en materia de imagen urbana que establece el reglamento municipal de la materia.
+Para la expedición de cualquier licencia, será indispensable, además de realizar los pagos correspondientes y entregar la documentación comprobatoria de propiedad o posesión legítima del inmueble, la identidad y personalidad del solicitante, la cédula y planos catastrales, tener vigente un contrato comercial del servicio de agua potable y comprobante de servicio de recolecta de basura, así como estar al corriente en el pago de los impuestos y derechos municipales correspondientes, cumplir con los lineamientos en materia de imagen urbana que establece el reglamento municipal de la materia.
 
 ###### Artículo 115.
 
@@ -1885,21 +1945,27 @@ c) Eventos de hasta 15 días el equivalente a 50 UMAS.
 
 Los establecimientos que expendan bebidas alcohólicas que antes de su apertura no obtengan la licencia de funcionamiento o que estando funcionando no tramiten su revalidación, se harán acreedores a una sanción de acuerdo a las siguientes tarifas:
 
-A) Por venta de bebidas alcohólicas La multa a pagar será el importe
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-sin licencia de funcionamiento. señalado en el Artículo 113 de la
+A) Por venta de bebidas alcohólicas La multa a pagar será de 15
 
-presente Ley, de acuerdo a la
+sin licencia de funcionamiento. a 500 UMAS, esto con relación
 
-superficie del establecimiento
+al giro del comercio y los
 
-B) Por venta de bebidas alcohólicas La multa a pagar será el importe
+metros cuadrados del
 
-con revalidación anual vencida o sin señalado en el Artículo 113 de la
+establecimiento
 
-revalidación anual. presente Ley, de acuerdo a la
+B) Por venta de bebidas alcohólicas La multa a pagar será de 15
 
-superficie del establecimiento.
+con revalidación anual vencida o a 500 UMAS, esto con relación
+
+sin revalidación anual. al giro del comercio y los
+
+metros cuadrados del
+
+establecimiento.
 
 Esta sanción se aplicará sin perjuicio de que, la Tesorería proceda a la clausura del establecimiento hasta por cinco días, si el contribuyente no cumple con la obligación que tiene de obtener o revalidar la licencia a que se refiere este artículo. En todo caso, la Tesorería antes de aplicar las sanciones que establece este artículo requerirá por escrito al contribuyente para que realice el trámite correspondiente, otorgándole un plazo de tres días para tal efecto. Si la persona requerida hace caso omiso del requerimiento mencionado, la tesorería procederá a la clausura del establecimiento, sin perjuicio de aplicar la sanción pecuniaria procedente.
 
@@ -2449,13 +2515,15 @@ Artículo 122 J.- Son sujetos de los derechos relacionados con el servicio públ
 
 Artículo 122 K.- Es objeto de los derechos que a continuación se describen, la prestación del servicio público del suministro de agua potable a los habitantes del municipio, para el uso doméstico o comercial.
 
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-ARTICULO 122 L.- Los servicios relacionados con la prestación de este servicio público, serán los siguientes, con las respectivas tarifas en UMAS, y son:
+Articulo 122 L.- Los servicios y conceptos relacionados con la prestación de este servicio público, serán los siguientes, con las respectivas tarifas en UMAS, y son:
 
 > <small>[N. DE E. VÉASE TABLA EN EL SUPLEMENTO II DEL D.O. DE 29 DE DICIEMBRE DE 2018, PÁGINAS DE LA 60 A LA 61.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA D.O. DE 23 DE DICIEMBRE DE 2020, PÁGINAS DE LA 15 A LA 16; 31 DE DICIEMBRE DE 2021, PÁGINAS DE LA 45 A LA 49.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA D.O. DE 23 DE DICIEMBRE DE 2020, PÁGINAS DE LA 15 A LA 16; 31 DE DICIEMBRE DE 2021, PÁGINAS DE LA 45 A LA 49; 31 DE DICIEMBRE DE 2025, PÁGINAS DE LA 24 A LA 25.]</small>
+
+> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
 
 En el caso del servicio de suministro de agua potable para uso domiciliario en comisarías, el sistema municipal de agua potable y alcantarillado de Motul en coordinación con la autoridad auxiliar, podrá modificar la tarifa expresada en la fracción III del presente artículo, ajustándose al consumo de energía eléctrica en los subsistemas de agua potable de cada localidad, sin exceder en ningún caso la tarifa expresada en la misma fracción.
 
@@ -2924,3 +2992,17 @@ D.O. 30 DE DICIEMBRE DE 2024.
 Artículo Primero.- Este Decreto, entrará en vigor el primero de enero del año 2025, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a este Decreto.
+
+D.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 151/2025 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE TRECE MUNICIPIOS DEL ESTADO DE YUCATÁN”.]
+
+Artículo primero.- Este decreto entrará en vigor el día primero de enero del año dos mil veintiséis, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo.- El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que a la fecha de la publicación de la presente Ley no hayan sido transferidos formalmente al Ayuntamiento por el Gobierno del Estado, entrarán en vigor hasta la celebración del convenio respectivo.
+
+Artículo tercero.- Para el Municipio de Sacalum, el ejercicio del importe anual a pagar por los contribuyentes del impuesto predial base valor catastral, para el caso de los predios cuyo valor catastral sea menor o igual $200,000.00 el impuesto predial base valor catastral no podrá exceder un 6% del que les haya correspondido durante el ejercicio inmediato anterior, para el caso de predios cuyo valor catastral sea igual o superior a $200,000.01 el impuesto predial base valor catastral no podrá exceder el 10% del que les haya correspondido durante el ejercicio inmediato anterior. Este comparativo se efectuará solamente sobre le impuesto predial, sin tomar en consideración, bonificaciones, excedentes, reducciones, estímulos o accesorios.
+
+I. Los predios que, como resultado de alguna modificación en su superficie de terreno, construcción, así como de la tipología de su construcción, haya aumentado en mas de un 50% el valor catastral que tenían antes dichas modificaciones, de conformidad con las disposiciones aplicables, en cuyo caso aplicará el cálculo establecido en el artículo 34 de esta ley.
+
+II. Los predios que fueron objeto de traslación de dominio a partir del ejercicio inmediato anterior, en cuyo caso aplicará el cálculo establecido en el artículo 34 de esta ley.
