@@ -4,7 +4,7 @@ identifier: "FED-decreto-que-crea-el-organismo-descentralizado-fondo-de-19984"
 country: "mx"
 rank: "decreto"
 publication_date: "1994-07-26"
-last_updated: "2017-07-24"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19984&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-07-25"
 
 DECRETO POR EL QUE SE CREA EL ORGANISMO DESCENTRALIZADO FONDO DE CULTURA ECONÓMICA Y SE ORDENA LA DISOLUCIÓN Y LIQUIDACIÓN DE LA EMPRESA DE PARTICIPACIÓN ESTATAL MAYORITARIA DEL MISMO NOMBRE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 2025.
 
 Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 26 de julio de 1994.
 
@@ -47,25 +47,53 @@ DECRETO POR EL QUE SE CREA EL ORGANISMO DESCENTRALIZADO FONDO DE CULTURA ECONOMI
 
 Se crea el organismo descentralizado denominado Fondo de Cultura Económica, con personalidad jurídica y patrimonio propio, con domicilio en la Ciudad de México.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTICULO 2o.
 
-El Fondo de Cultura Económica tendrá por objeto la promoción, fomento, edición, publicación, exhibición y comercialización de obras escritas o registradas en toda clase de medios tradicionales o electrónicos, con la finalidad de difundirlas y facilitar su acceso a todos los sectores de la población. Para el cumplimiento de su objeto el Fondo de Cultura Económica podrá realizar las siguientes actividades:
+El Fondo de Cultura Económica tiene por objeto la edición, promoción, exhibición, distribución y, en su caso, comercialización de obras en formato libro, publicaciones o difusiones periódicas, fijadas en cualquier soporte material, de autores nacionales y extranjeros, dentro del territorio nacional e internacional, así como el fomento a la lectura y el libro, a nivel nacional e internacional, y la promoción de acciones con los tres órdenes de gobierno para que sus publicaciones lleguen a todos los sectores de la población.
 
-I. Promover la creación, editar y publicar obras científicas, artísticas, educativas o literarias de escritores mexicanos o extranjeros;
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], D.O.F. 31 DE DICIEMBRE DE 2025)</small>
 
-II. Editar revistas, folletos y publicaciones periódicas;
+Para el cumplimiento de su objeto, el Fondo de Cultura Económica tiene las atribuciones siguientes:
 
-III. Comprar, vender y pignorar libros, revistas y publicaciones periódicas;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2025)</small>
 
-IV. Distribuir dentro del territorio nacional las ediciones de casas editoriales nacionales o extranjeras;
+I. Promover la creación, edición y publicación de obras literarias, artísticas, científicas, técnicas, educativas, informativas o recreativas, de carácter venal o no venal;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2025)</small>
+
+II. Promover y distribuir las obras editadas por el organismo, con especial atención a los sectores vulnerables de la población;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2025)</small>
+
+III. Comercializar y consignar libros y publicaciones periódicas;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2025)</small>
+
+IV. Distribuir de forma onerosa o gratuita dentro del territorio nacional e internacional las ediciones de sus publicaciones, así como de casas editoriales nacionales o extranjeras;
 
 V. Realizar exportaciones e importaciones y, en general, todo tipo de operaciones en el ramo editorial;
 
-VI. Celebrar actos o contratos relacionados directa o indirectamente con el propósito de difundir la educación, la ciencia y la cultura;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2025)</small>
 
-VII. Adquirir los bienes muebles e inmuebles, maquinaria y equipo necesarios para el cumplimiento de su objeto social, y
+VI. Celebrar cualquier tipo de actos e instrumentos jurídicos para el cumplimiento de su objeto en el país o en el extranjero, de conformidad con las disposiciones jurídicas aplicables;
 
-VIII. Levar a cabo todos los actos necesarios, en el país o en el extranjero, para el adecuado cumplimiento de su objeto.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2025)</small>
+
+VII. Adquirir los bienes muebles e inmuebles, maquinaria y equipo necesarios para el cumplimiento de su objeto;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2025)</small>
+
+VIII. Recibir y otorgar donaciones de material bibliográfico dirigidos a acciones de fomento a la lectura y el libro;
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2025)</small>
+
+IX. Promover acciones para el fomento a la lectura y el libro en el país y en el extranjero, en coordinación con las autoridades competentes, atendiendo lo señalado en la normativa aplicable en la materia, y
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2025)</small>
+
+X. Las demás que tengan relación con su objeto.
 
 ###### ARTICULO 3o.
 
@@ -234,3 +262,17 @@ D.O.F. 24 DE JULIO DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- El Fondo de Cultura Económica deberá, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, realizar las modificaciones correspondientes a su normativa interna conforme a lo previsto en el mismo.
+
+D.O.F. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 2o. DEL DIVERSO POR EL QUE SE CREA EL ORGANISMO DESCENTRALIZADO FONDO DE CULTURA ECONÓMICA Y SE ORDENA LA DISOLUCIÓN Y LIQUIDACIÓN DE LA EMPRESA DE PARTICIPACIÓN ESTATAL MAYORITARIA DEL MISMO NOMBRE”.]
+
+Primero. El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas las disposiciones administrativas que se opongan al presente decreto.
+
+Tercero. El Fondo de Cultura Económica, en un plazo máximo de 90 días hábiles siguientes a la entrada en vigor del presente decreto, debe realizar las modificaciones correspondientes a su marco normativo conforme a lo previsto en este decreto.
+
+Cuarto. Las erogaciones que deriven por la implementación del presente decreto se cubrirán con cargo al presupuesto aprobado del ejecutor de gasto, por lo que no se autorizarán ampliaciones líquidas de recursos a su presupuesto en el presente ejercicio fiscal ni en los subsecuentes.
+
+Las modificaciones a la estructura orgánica del Fondo de Cultura Económica, que en su caso deriven por la entrada en vigor del presente decreto o por la emisión o reforma de su estatuto orgánico, se llevarán a cabo mediante movimientos compensados, por lo que no se debe incrementar el presupuesto aprobado en el capítulo de servicios personales para el presente ejercicio fiscal, ni el presupuesto regularizable de servicios personales y de gasto de operación de ese ejecutor de gasto para ejercicios fiscales subsecuentes.
