@@ -4,7 +4,7 @@ identifier: "LIGIE_2022"
 country: "mx"
 rank: "ley"
 publication_date: "2022-06-07"
-last_updated: "2025-12-29"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=158726&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LIGIE_2022"
 
 LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 7 de junio de 2022.
 
@@ -63224,9 +63224,9 @@ DECRETO DE ACTUALIZACIÓN DEL D.O.F. 6 DE ENERO DE 2023.
 
 > <small>[N. DE E. VÉASE ARCHIVO ANEXO DEL “DECRETO POR EL QUE SE EXENTA EL PAGO DE ARANCEL DE IMPORTACIÓN Y SE OTORGAN FACILIDADES ADMINISTRATIVAS A DIVERSAS MERCANCÍAS DE LA CANASTA BÁSICA Y DE CONSUMO BÁSICO DE LAS FAMILIAS”.]</small>
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2025)</small>
 
-Primero. El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y estará vigente hasta el 31 de diciembre de 2024.
+Primero. El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y estará vigente hasta el 31 de diciembre de 2026.
 
 Segundo. Se abroga el Decreto por el que se exenta el pago de arancel de importación y se otorgan facilidades administrativas a diversas mercancías de la canasta básica e insumos que se indican, y el Decreto por el que se exenta el pago de arancel de importación a las mercancías que se indican, publicados en el Diario Oficial de la Federación el 19 de octubre y 18 de noviembre de 2022, respectivamente.
 
@@ -63236,9 +63236,9 @@ Tercero. El registro en el "Padrón de Importadores de Productos de la Canasta B
 
 Las Empresas Importadoras de Productos de la Canasta Básica, a las que se refiere el párrafo anterior, podrán solicitar por escrito ante el Servicio de Administración Tributaria la adición de fracciones arancelarias a su registro, siempre y cuando cumplan con las disposiciones del presente decreto.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2025)</small>
 
-Cuarto. Las Empresas Importadoras de Productos de la Canasta Básica registradas en el "Padrón de Importadores de Productos de la Canasta Básica", que acrediten haber celebrado un contrato para la adquisición de las mercancías referidas en los artículos Primero y Segundo de este ordenamiento, durante el periodo del 20 de octubre de 2022 al 31 de diciembre de 2024, podrán aplicar los beneficios contenidos en el presente decreto hasta el 31 de marzo de 2025, siempre que a más tardar el 10 de enero de 2025 presenten ante el Servicio de Administración Tributaria dichos contratos, conforme a las reglas de carácter general que al efecto emita dicho órgano administrativo desconcentrado.
+Cuarto. Las Empresas Importadoras de Productos de la Canasta Básica registradas en el "Padrón de Importadores de Productos de la Canasta Básica", que acrediten haber celebrado un contrato para la adquisición de las mercancías referidas en los artículos Primero y Segundo de este ordenamiento durante su vigencia, podrán aplicar los beneficios contenidos en el presente decreto hasta el 31 de marzo de 2027, siempre que a más tardar el 8 de enero de 2027 presenten ante el Servicio de Administración Tributaria dichos contratos, incluyendo en el caso de contratos marco, las órdenes de compra relacionadas, conforme a las reglas de carácter general que al efecto emita dicho órgano administrativo desconcentrado.
 
 Quinto. El Servicio de Administración Tributaria emitirá o modificará las reglas de carácter general y la Agencia Nacional de Aduanas de México las reglas de operación, que resulten necesarias para la debida y correcta aplicación del presente decreto.
 
@@ -63331,3 +63331,11 @@ Segundo. Las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Gen
 Tercero. Se dejan sin efectos todas las disposiciones que se contrapongan a lo establecido en el presente Decreto.
 
 Cuarto. Sobre los aranceles motivo de esta reforma y con el objetivo de garantizar el abasto de insumos en México en condiciones competitivas, la Secretaría de Economía podrá implementar mecanismos e instrumentos jurídicos específicos correspondientes para la importación de mercancías provenientes de países con los que el Estado mexicano no tenga Tratados de Libre Comercio en vigor.
+
+DECRETO DE ACTUALIZACIÓN DEL D.O.F. 31 DE DICIEMBRE DE 2025.
+
+> <small>[N. DE E. VÉASE ARCHIVO ANEXO DEL “DECRETO POR EL QUE SE MODIFICA EL DIVERSO POR EL QUE SE EXENTA EL PAGO DE ARANCEL DE IMPORTACIÓN Y SE OTORGAN FACILIDADES ADMINISTRATIVAS A DIVERSAS MERCANCÍAS DE LA CANASTA BÁSICA Y DE CONSUMO BÁSICO DE LAS FAMILIAS, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 31 DE DICIEMBRE DE 2025”.]</small>
+
+Primero. El presente decreto entra en vigor el día de su publicación en el Diario Oficial de la Federación, con excepción de lo establecido en su artículo Primero que entrará en vigor el 1 de enero de 2026.
+
+Segundo. Las Empresas Importadoras de Productos de la Canasta Básica registradas en el "Padrón de Importadores de Productos de la Canasta Básica", que acrediten haber celebrado un contrato entre el 1 de enero y el 31 de diciembre de 2025, para la adquisición de las mercancías eliminadas en el Artículo Primero de este decreto, podrán aplicar los beneficios contenidos en el "Decreto por el que se exenta el pago de arancel de importación y se otorgan facilidades administrativas a diversas mercancías de la canasta básica y de consumo básico de las familias”, publicado en el Diario Oficial de la Federación el 6 de enero de 2023 y sus posteriores modificaciones, hasta el 31 de marzo de 2026, siempre que a más tardar el 9 de enero de 2026 presenten ante el Servicio de Administración Tributaria dichos contratos, incluyendo en el caso de contratos marco, las órdenes de compra relacionadas, conforme a las reglas de carácter general que al efecto emita dicho órgano administrativo desconcentrado.
