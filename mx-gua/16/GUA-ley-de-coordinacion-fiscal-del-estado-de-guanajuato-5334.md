@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-coordinacion-fiscal-del-estado-de-guanajuato-5334"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-27"
-last_updated: "2024-12-27"
+last_updated: "2025-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5334&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY DE COORDINACION FISCAL DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de diciembre de 1991.
 
@@ -608,3 +610,157 @@ Plazo para obtener los incentivos pendientes
 Artículo Quinto. Los municipios que tengan suscrito convenio con el Gobierno del estado de Guanajuato, respecto a los incentivos de la recaudación del Impuesto por Servicios de Hospedaje, tendrán un plazo no mayor a 180 días posteriores a la entrada en vigor del presente Decreto, a fin de realizar las gestiones necesarias ante el Servicio de Administración Tributaria del Estado de Guanajuato, para obtener los incentivos derivados de este impuesto, previo cumplimiento a las acciones que dicho instrumento señale.
 
 En caso de que el municipio no realice las gestiones dentro del periodo previsto en el párrafo que antecede, perderá el derecho a percibir los incentivos, por lo que dichos recursos se destinarán al fondo al que hace referencia el artículo 60 de la Ley de Hacienda para el Estado de Guanajuato.
+
+P.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 166, QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE EXPIDE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia de la Ley
+
+Artículo Primero. La presente Ley entrará en vigor el 1 de enero del año 2026, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Abrogación
+
+Artículo Segundo. Se abroga la Ley de Coordinación Fiscal del Estado, contenida en el Decreto Legislativo número 17, expedido por la Quincuagésima Quinta Legislatura del Estado de Guanajuato, publicada en el Periódico Oficial del Gobierno del Estado de Guanajuato número 104, Segunda Parte, del 27 de diciembre de 1991.
+
+Asuntos en trámite
+
+Artículo Tercero. Las obligaciones, derechos, procedimientos o situaciones jurídicas o de hecho que hayan surgido, se encuentren en trámite o deriven de actos realizados durante la vigencia de la Ley de Coordinación Fiscal del Estado que se abroga, se regirán y resolverán conforme a las disposiciones de la presente Ley.
+
+Determinación y publicación de montos base de participaciones municipales
+
+Artículo Cuarto. La Secretaría de Finanzas, por conducto de la Subsecretaría de Finanzas e Inversión, deberá determinar y publicar en el Periódico Oficial del Gobierno del Estado de Guanajuato, dentro de los ocho días naturales siguientes a la entrada en vigor de la presente Ley, los montos base de cada municipio del Estado, conforme a lo siguiente:
+
+I. Fondo General de Participaciones, correspondiente al año base 2007, conforme al monto total estatal asignado a Guanajuato publicado en el Diario Oficial de la Federación, el 30 de julio de 2008, del cual el 20% correspondió a los municipios, aplicando el coeficiente efectivo de cada municipio, publicado en el en (sic) Periódico Oficial del Gobierno del Estado de Guanajuato número 17, Segunda Parte, del 29 de enero de 2008;
+
+II. Fondo de Fomento Municipal, correspondiente al año base 2013, conforme al monto total estatal asignado a Guanajuato publicado en el Diario Oficial de la Federación, el 27 de junio de 2014, del cual el 100% correspondió a los municipios, aplicando el coeficiente efectivo de cada municipio publicado en el en Periódico Oficial del Gobierno del Estado de Guanajuato número 16, Cuarta Parte, del 28 de enero de 2014; y
+
+III. Fondo de Fiscalización y Recaudación, correspondiente al año base 2013, conforme al monto total estatal asignado a Guanajuato publicado en el Diario Oficial de la Federación, el 27 de junio de 2014, del cual el 20% correspondió a los municipios, aplicando el coeficiente efectivo de cada municipio publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 16, Cuarta Parte, del 28 de enero de 2014.
+
+Los montos que resulten de la determinación señalada en las fracciones anteriores tendrán carácter definitivo y servirán como base para la aplicación de las fórmulas de distribución de las participaciones federales a los municipios en lo sucesivo, conforme a lo previsto en la presente Ley.
+
+Rezago del IEPS a la venta final de gasolinas y diésel
+
+Artículo Quinto. Los ingresos que recaude el Estado por concepto de rezagos del Impuesto Especial sobre Producción y Servicios a la venta final de gasolinas y diésel y sus accesorios se calcularán y distribuirán conforme a la fórmula establecida en el artículo 27 de la presente Ley.
+
+De forma provisional, la Secretaría de Finanzas realizará una distribución mensual a los municipios conforme a la fórmula referida en el párrafo que antecede, por el monto provisional de la recaudación que haya registrado el Estado en su contabilidad por concepto de rezagos del Impuesto Especial sobre Producción y Servicios a la venta final de gasolinas y diésel y sus accesorios obtenida en el mes inmediato anterior, dicha distribución deberá ser pagada a los municipios el día quince de cada mes o al día hábil siguiente.
+
+Cada cuatro meses, dentro del mes en que la Secretaría de Hacienda y Crédito Público informe al Estado los ajustes cuatrimestrales previstos en el artículo 5 de la presente Ley, la Secretaría de Finanzas efectuará el cálculo de las participaciones por concepto de rezagos del Impuesto Especial sobre Producción y Servicios a la venta final de gasolinas y diésel y sus accesorios del mismo periodo que abarquen los ajustes cuatrimestrales antes citados, conforme al monto de recaudación que el Estado registró en su contabilidad para dichos meses, aplicando la fórmula de distribución prevista en el artículo 27 de esta Ley, dicha distribución tendrá el carácter de preliminar.
+
+Al monto preliminar obtenido se le descontarán las participaciones provisionales por concepto de rezagos del Impuesto Especial sobre Producción y Servicios a la venta final de gasolinas y diésel y sus accesorios calculadas y ministradas por cada uno de los meses del año calendario que el Estado haya registrado en su contabilidad y que, en acumulado, correspondan al periodo que conforma el citado ajuste.
+
+Para el caso de diferencias resultantes a favor de los municipios derivadas del ajuste cuatrimestral, estas se deberán liquidar a más tardar al último día hábil del mes en que se efectúa el cálculo.
+
+Para el caso de diferencias resultantes a cargo de los municipios derivadas del ajuste cuatrimestral, estas deberán ser aplicadas en la ministración más próxima por concepto de rezagos del Impuesto Especial sobre Producción y Servicios a la venta final de gasolinas y diésel y sus accesorios o hasta en tres ministraciones siguientes, cuando la suficiencia presupuestal de alguna ministración no sea suficiente. En el supuesto donde persistan cantidades a cargo del municipio, estas podrán descontarse de cualquiera de los conceptos de ingresos participables que cuenten con suficiencia.
+
+Anualmente, dentro del mes en que la Secretaría de Hacienda y Crédito Público informe al Estado el ajuste anual definitivo del ejercicio fiscal inmediato anterior señalado en el artículo 6 de la presente Ley, la Secretaría de Finanzas efectuará el cálculo de las participaciones por concepto de rezagos del Impuesto Especial sobre Producción y Servicios a la venta final de gasolinas y diésel y sus accesorios del monto definitivo contenido en la Cuenta Pública del Poder Ejecutivo del estado de Guanajuato del ejercicio fiscal inmediato anterior, aplicando la fórmula de distribución prevista en el artículo 27 de esta Ley, dicha distribución tendrá el carácter de definitiva.
+
+Al monto definitivo obtenido se le descontarán las participaciones preliminares por concepto de rezagos del Impuesto Especial sobre Producción y Servicios a la venta final de gasolinas y diésel y sus accesorios calculadas por cada uno de los ajustes cuatrimestrales que conforman el citado ajuste anual.
+
+Para el caso de diferencias resultantes a favor de los municipios derivadas del ajuste definitivo, estas se deberán liquidar a más tardar al último día hábil del mes en que se efectúa el cálculo sin que la fecha trascienda el último día hábil de junio del año inmediato posterior a aquel al que corresponda el ajuste anual mencionado.
+
+Para el caso de diferencias resultantes a cargo de los municipios derivadas del ajuste definitivo, estas deberán ser aplicadas a más tardar el último día hábil de junio del año inmediato posterior a aquel al que corresponda el ajuste anual mencionado.
+
+Rezago del Impuesto sobre Tenencia o Uso de Vehículos
+
+Artículo Sexto. De los ingresos que recaude el Estado por concepto de rezagos del Impuesto sobre Tenencia o Uso de Vehículos y sus accesorios, de origen federal, el 20% corresponderá a los municipios y se calcularán por cada ejercicio fiscal. La distribución de estos recursos se hará en función del monto efectivamente recaudado en el ejercicio fiscal correspondiente, aplicando el coeficiente efectivo que cada municipio hubiere recibido en el ejercicio de 2007, publicado el 29 de enero de 2008, en el Periódico Oficial del Gobierno del Estado de Guanajuato número 17, Segunda Parte, los cuales se muestran en la siguiente tabla:
+
+Municipio Coeficiente
+
+Abasolo 0.012204
+
+Acámbaro 0.018771
+
+San Miguel de Allende 0.027063
+
+Apaseo el Alto 0.010613
+
+Apaseo el Grande 0.010703
+
+Atarjea 0.002912
+
+Celaya 0.096243
+
+Manuel Doblado 0.007796
+
+Comonfort 0.010272
+
+Coroneo 0.003984
+
+Cortazar 0.016020
+
+Cuerámaro 0.005842
+
+Doctor Mora 0.005229
+
+Dolores Hidalgo Cuna de la Independencia Nacional 0.017142
+
+Guanajuato 0.035588
+
+Huanímaro 0.004767
+
+Irapuato 0.086624
+
+Jaral del Progreso 0.007006
+
+Jerécuaro 0.008419
+
+León 0.308561
+
+Moroleón 0.014820
+
+Ocampo 0.005272
+
+Pénjamo 0.020772
+
+Pueblo Nuevo 0.004056
+
+Purísima del Rincón 0.008665
+
+Romita 0.008784
+
+Salamanca 0.045709
+
+Salvatierra 0.016794
+
+San Diego de la Unión 0.006059
+
+San Felipe 0.014169
+
+San Francisco del Rincón 0.019715
+
+San José de Iturbide 0.009633
+
+San Luis de la Paz 0.013853
+
+Santa Catarina 0.002979
+
+Santa Cruz de Juventino Rosas 0.010521
+
+Santiago Maravatío 0.003615
+
+Silao de la Victoria 0.021547
+
+Tarandacuao 0.004257
+
+Tarimoro 0.007963
+
+Tierra Blanca 0.003719
+
+Uriangato 0.012287
+
+Valle de Santiago 0.019950
+
+Victoria 0.004608
+
+Villagrán 0.009297
+
+Xichú 0.003494
+
+Yuriria 0.011698
+
+Total 1.000000
+
+De forma provisional, la Secretaría de Finanzas realizará una distribución mensual a los municipios conforme a los coeficientes previstos en el presente artículo, por el monto provisional de la recaudación que haya registrado el Estado en su contabilidad del Impuesto sobre Tenencia o Uso de Vehículos y sus accesorios, de origen federal, obtenida en el mes inmediato anterior, dicha distribución deberá ser pagada a los municipios el día quince de cada mes o al día hábil siguiente.
+
+Los ajustes cuatrimestrales y el ajuste anual definitivo del Impuesto sobre Tenencia o Uso de Vehículos y sus accesorios, de origen federal, se distribuirán conforme a los coeficientes previstos en este artículo y los plazos establecidos en los artículos 31 y 32 de la presente Ley, respectivamente.
