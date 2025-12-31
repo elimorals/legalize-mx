@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-proteccion-de-datos-personales-en-posesion-de-125252"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-29"
-last_updated: "2024-07-06"
+last_updated: "2025-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE PROTECCION DE DATOS PERSONALES EN POSESION DE SUJETOS OBLIGADOS DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS EN EL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2025 (ABROGADO).
 
 Ley publicada en el Extra al Periódico Oficial del Estado de Oaxaca, el miércoles 29 de noviembre de 2017.
 
@@ -1720,3 +1722,29 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente a su publicación.
 
 TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS EN EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese.
+
+SEGUNDO. A la entrada en vigor del presente Decreto se abrogan las disposiciones siguientes:
+
+I. Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del estado de Oaxaca, publicada en el Periódico Oficial del Gobierno del Estado de Oaxaca el 29 de noviembre del 2017;
+
+II. Todas las disposiciones de menor jerarquía que se opongan al contenido establecido en el presente Decreto y sus transitorios.
+
+TERCERO. Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa en materia de datos personales, respecto al Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, se entenderán hechas o conferidas a los entes públicos que adquieren tales atribuciones o funciones, según corresponda.
+
+CUARTO. Los procedimientos iniciados con anterioridad a la entrada en vigor de este Decreto ante el Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, en materia de datos personales o cualquier otra distinta a la mencionada en el transitorio anterior, se sustanciarán conforme a las disposiciones vigentes al momento de su inicio ante la Autoridad Garante del Poder Ejecutivo y Municipios a que se refiere este Decreto.
+
+La defensa legal ante autoridades administrativas, jurisdiccionales o judiciales de los actos administrativos y jurídicos emitidos por el Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, en materia de datos personales o cualquier otra materia distinta a la mencionada en el presente transitorio, así como el seguimiento de los que se encuentren en trámite, se llevará a cabo por la Autoridad Garante Local.
+
+La Autoridad Garante Local podrá remitir a la Autoridad garante competente aquellos asuntos que se mencionan en los párrafos anteriores que le corresponda conforme al ámbito de sus atribuciones para su atención y de conformidad con las disposiciones normativas aplicables.
+
+QUINTO. Las Autoridades Garantes en un plazo máximo de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto deberán realizar las adecuaciones necesarias a su normativa interna para dar cumplimiento a lo dispuesto en este instrumento.
+
+Para efectos de lo previsto en este transitorio, se suspenden por un plazo de noventa días naturales contados a partir de la entrada en vigor de este Decreto todos y cada uno de los trámites, procedimientos y demás medios de impugnación, establecidos en este instrumento y demás normativa aplicable, con excepción de la recepción y atención de solicitudes de acceso, rectificación, cancelación, oposición y portabilidad de datos personales que se tramitan a través de la Plataforma Nacional de Transparencia por las autoridades que se mencionan en el párrafo anterior.
+
+Así mismo, se suspenden por un plazo de noventa días naturales contados a partir de la entrada en vigor del presente Decreto, todos y cada uno de los trámites, procedimientos y demás medios de impugnación establecidos en esta Ley para todos los sujetos obligados del Poder Ejecutivo y Municipios del Estado de Oaxaca, con excepción de la recepción y atención de las solicitudes de acceso, rectificación, cancelación, oposición y portabilidad de datos personales, que se tramitan a través de la Plataforma Nacional de Transparencia u otras modalidades permitidas por la normatividad en materia de datos personales.
