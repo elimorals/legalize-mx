@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-el-estado-de-guanajuato-141405"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-30"
-last_updated: "2025-11-13"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Octava Parte del Periódico Oficial del Estado de Guanajuato, el lunes 30 de diciembre de 2019.
 
@@ -67,11 +67,13 @@ Para los casos no contemplados en las disposiciones de esta Ley, se aplicará su
 
 Lugares y medios de pagos
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 4.
 
-Los obligados a presentar avisos, declaraciones, realizar pagos o aquellos que soliciten trámites o servicios, podrán realizarlos ante la autoridad fiscal competente o a través de los lugares que al efecto ésta autorice para su recepción.
+Los obligados a presentar avisos y declaraciones o aquellos que soliciten trámites o servicios, podrán realizarlos ante la autoridad fiscal competente o a través de los lugares que para tal efecto ésta autorice para su recepción.
 
-Quien haga el pago de contribuciones, productos o aprovechamientos, podrá realizarlo a través de los medios de pago que determine para tal efecto la autoridad fiscal competente y obtener su comprobante de conformidad con lo que las disposiciones respectivas establezcan.
+Quien haga el pago de contribuciones, productos o aprovechamientos, podrá realizarlo a través de los medios y puntos de pago que para tal efecto autorice la Secretaría de Finanzas y obtendrá su comprobante de conformidad con lo que las disposiciones respectivas establezcan.
 
 Glosario
 
@@ -239,7 +241,9 @@ Causación del impuesto
 
 Este impuesto se causará en el momento en que se realicen las erogaciones que constituyen su objeto y su pago deberá realizarse mediante declaración mensual, a más tardar el día veintidós del mes siguiente al que corresponda el impuesto.
 
-El pago que realicen los contribuyentes de este impuesto se entenderá como definitivo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+El pago de este impuesto deberá realizarse a través de los medios y puntos de pago que para tal efecto autorice la Secretaría de Finanzas en el mismo periodo que se establece para la declaración y que realicen los contribuyentes de este impuesto se entenderá como definitivo.
 
 Los contribuyentes deberán presentar sus declaraciones mensuales definitivas en términos de lo dispuesto en el primer párrafo del presente artículo, aun cuando no exista impuesto a pagar y continuarán haciéndolo en tanto no presenten los avisos que en su caso correspondan para efectos del Registro Estatal de Contribuyentes.
 
@@ -521,11 +525,11 @@ El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingre
 
 Determinación y entero por la prestación eventual de servicios profesionales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 26.
 
-Quienes en el ejercicio fiscal obtengan en forma esporádica ingresos derivados de la prestación de servicios profesionales dentro del territorio del Estado, cubrirán como pago provisional a cuenta del impuesto anual el monto que resulte de aplicar la tasa prevista en el párrafo segundo de artículo 25 de la presente Ley, sobre los ingresos percibidos, sin deducción alguna. El pago provisional se hará mediante declaración que presentarán dentro de los quince días siguientes a la obtención del ingreso mediante las formas y medios que para el efecto autorice y dé a conocer el SATEG, a través de disposiciones de carácter general. Estos contribuyentes quedarán relevados de la obligación de llevar la contabilidad.
+Quienes en el ejercicio fiscal obtengan en forma esporádica ingresos derivados de la prestación de servicios profesionales dentro del territorio del Estado, cubrirán como pago provisional a cuenta del impuesto anual el monto que resulte de aplicar la tasa prevista en el párrafo segundo de artículo 25 de la presente Ley, sobre los ingresos percibidos, sin deducción alguna. El contribuyente deberá presentar su declaración dentro de los quince días siguientes a la obtención del ingreso mediante las formas y medios que para el efecto autorice y dé a conocer el SATEG, a través de disposiciones de carácter general y efectuará su pago provisional en los medios y puntos autorizados por la Secretaría de Finanzas. Estos contribuyentes quedarán relevados de la obligación de llevar la contabilidad.
 
 Cuando el ingreso percibido en forma esporádica derive de los pagos efectuados por una persona moral, el contribuyente que realice el pago a que se refiere el párrafo anterior, podrá acreditar contra éste la retención efectuada en los términos del artículo anterior.
 
@@ -645,9 +649,11 @@ En lo relativo a los ingresos, deducciones y pérdidas fiscales se atenderá, ad
 
 Presentación de declaración y pago
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 34.
 
-Los contribuyentes a que se refiere el artículo 32 de esta Ley, efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio, mediante declaración, a más tardar el día veintidós del mes inmediato posterior a aquél al que corresponda el pago, mediante las formas y medios que para el efecto autorice y dé a conocer el SATEG, a través de disposiciones de carácter general.
+Los contribuyentes a que se refiere el artículo 32 de esta Ley, efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio. El contribuyente deberá presentar su declaración a más tardar el día veintidós del mes inmediato posterior a aquél al que corresponda el pago, mediante las formas y medios que para el efecto autorice y dé a conocer el SATEG, a través de disposiciones de carácter general y efectuará su pago provisional en los medios y puntos autorizados por la Secretaría de Finanzas.
 
 El pago provisional se determinará restando de la totalidad de los ingresos obtenidos en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponde el pago, las deducciones autorizadas correspondientes al mismo periodo, a que se refiere el artículo anterior y, en su caso, las pérdidas fiscales ocurridas en ejercicios anteriores que no se hubieren disminuido.
 
@@ -709,7 +715,9 @@ I. Tratándose de prestación de servicios de transporte terrestre de pasajeros 
 
 II. Tratándose de prestación de servicios de hospedaje la retención se hará por el 4 por ciento; y
 
-III. Tratándose de enajenación de bienes y prestación de servicios la retención se hará por el 1 por ciento.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+III. Tratándose de enajenación de bienes y prestación de servicios la retención se hará por el 2.5 por ciento.
 
 Los contribuyentes que únicamente obtengan ingresos establecidos en el primer párrafo de este artículo y en el ejercicio inmediato anterior no hayan excedido de $300,000.00 de ingresos, podrán considerar la retención efectuada en términos del párrafo segundo de este artículo como pago definitivo.
 
@@ -997,11 +1005,15 @@ Causación y tasa del impuesto
 
 Este impuesto se causará y liquidará a la tasa del 2 por ciento, sobre la base gravable determinada conforme al artículo que antecede.
 
-Presentación de declaración y pago
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Época y forma de pago
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 47.
 
-El impuesto se pagará dentro de los diez días siguientes a la adquisición y se liquidará mediante las formas y medios que para el efecto autorice y dé a conocer el SATEG, a través de disposiciones de carácter general, cumpliendo con los requisitos que para tal efecto se establezcan.
+El impuesto se pagará dentro de los diez días siguientes a la adquisición a través de los medios y puntos de pago que para tal efecto autorice la Secretaría de Finanzas.
 
 Los contribuyentes acreditarán el pago del impuesto mediante el comprobante de pago que al efecto se expida en términos de lo dispuesto en el párrafo anterior.
 
@@ -1145,7 +1157,9 @@ II. Presentar declaraciones mensuales definitivas;
 
 III. Poner a disposición del SATEG, para los efectos del ejercicio de sus respectivas facultades, la información, registros y comprobantes que le sean solicitados, en relación con la determinación y pago de este impuesto;
 
-IV. La información de las personas físicas o morales que realicen las erogaciones a que se refiere este impuesto, y de aquellas que recibieron premios derivados de la participación en juegos y sorteos con apuestas; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+IV. Conservar la información de las personas físicas o morales que realicen las erogaciones a que se refiere este impuesto, y de aquellas que recibieron premios derivados de la participación en juegos y sorteos con apuestas; y
 
 V. Llevar la contabilidad, de conformidad con el Código.
 
@@ -1227,9 +1241,11 @@ Este impuesto no se causa por los servicios de albergue o alojamiento prestados 
 
 Presentación de declaración y pago
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 57.
 
-El impuesto se pagará mediante declaraciones definitivas, a más tardar el día veintidós del mes siguiente a aquél en que se perciban las contraprestaciones que dan origen al pago del impuesto, mediante las formas y medios que para el efecto autorice y dé a conocer el SATEG, a través de disposiciones de carácter general.
+Los contribuyentes a que se refiere el presente Capítulo deberán presentar su declaración definitiva, a más tardar el día veintidós del mes siguiente a aquél en que se perciban las contraprestaciones que dan origen al pago del impuesto, mediante las formas y medios que para el efecto autorice y dé a conocer el SATEG, a través de disposiciones de carácter general y efectuará su pago definitivo en los medios y puntos autorizados por la Secretaría de Finanzas.
 
 Los contribuyentes de este impuesto, deberán presentar sus declaraciones mensuales definitivas en términos de lo dispuesto en el presente artículo, aun cuando no exista impuesto a pagar o enterar, y continuarán haciéndolo en tanto no presenten los avisos que en su caso correspondan para efectos del Registro Estatal de Contribuyentes.
 
@@ -1343,7 +1359,9 @@ Pago del impuesto
 
 Los contribuyentes pagarán el impuesto sobre tenencia o uso de vehículos, por año calendario, durante los tres primeros meses salvo que en el apartado correspondiente se establezca disposición en contrario.
 
-El impuesto se pagará mediante las formas y medios que para el efecto autorice y dé a conocer el SATEG, a través de disposiciones de carácter general.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+El impuesto se pagará en los medios y puntos de pago que para tal efecto autorice la Secretaría de Finanzas.
 
 Los contribuyentes del impuesto sobre tenencia o uso de vehículos no están obligados a presentar, por dicha contribución, la solicitud de inscripción ni los avisos al Registro Estatal de Contribuyentes.
 
@@ -1387,15 +1405,15 @@ II. Quienes reciban vehículos en consignación o comisión, para su enajenació
 
 III. Los arrendatarios en contratos de arrendamiento puro o arrendamiento financiero cuando el vehículo objeto del arrendamiento se registre en el Padrón Vehicular Estatal.
 
-Obligación de la presentación del aviso de baja ante la Entidad Federativa
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Incumplimiento de la presentación del aviso de baja ante la Entidad Federativa
 
 ###### Artículo 65.
 
-Cuando por cualquier causa un vehículo cambie de propietario, salga de la posesión o deje de ser usado por la persona a nombre de quien está inscrito en el Padrón Vehicular Estatal, o dicho vehículo sea registrado en otra Entidad Federativa, dicha persona estará obligada a dar de baja el vehículo y placas de circulación del registro mencionado, debiendo cumplir con los requisitos señalados en esta Ley.
+En caso de incumplimiento a lo previsto en el artículo 86-B de esta Ley, el propietario o legítimo poseedor del vehículo de que se trate, será considerado responsable solidario del pago del impuesto a que se refiere este Capítulo.
 
-En caso de incumplimiento, será considerado responsable solidario del pago del impuesto a que se refiere este Capítulo.
-
-Cuando los contribuyentes sean omisos en el cumplimiento de la obligación a que se refiere el primer párrafo de este artículo, el plazo para la prescripción del crédito fiscal a que se refiere el Código, se computará a partir de la fecha en la que las autoridades fiscales tengan conocimiento del cambio de propietario, poseedor o usuario del vehículo en cuestión.
+Cuando los contribuyentes sean omisos en el cumplimiento de la obligación a que se refiere el primer párrafo de este artículo, el plazo para la prescripción del crédito fiscal a que se refiere el Código se computará a partir de la fecha en la que las autoridades fiscales tengan conocimiento del cambio de propietario, poseedor o usuario del vehículo en cuestión.
 
 Otros sujetos obligados
 
@@ -1445,7 +1463,9 @@ En el caso de vehículos nuevos, usados o importados, el impuesto deberá calcul
 
 Para los efectos del cómputo del plazo a que se refiere el párrafo anterior, salvo prueba en contrario, se presumirá que la fecha de adquisición o la fecha de importación es la asentada en la factura, endoso o pedimento de importación que corresponda.
 
-Los importadores ocasionales efectuarán el pago del impuesto a que se refiere este Capítulo, correspondiente al primer año de calendario, dentro los diez días hábiles siguientes a la fecha en que se hubiere importado el vehículo, mediante las formas y medios que para el efecto autorice y dé a conocer el SATEG, a través de disposiciones de carácter general. Por el segundo y siguientes años de calendario, se estará a lo dispuesto en el artículo 62 de esta Ley.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Los importadores ocasionales efectuarán el pago del impuesto a que se refiere este Capítulo, correspondiente al primer año de calendario, dentro los diez días hábiles siguientes a la fecha en que se hubiere importado el vehículo, a través de los medios y puntos de pago que para tal efecto autorice la Secretaría de Finanzas. Por el segundo y siguientes años de calendario, se estará a lo dispuesto en el artículo 62 de esta Ley.
 
 Para los efectos del párrafo anterior, el impuesto se entenderá causado en el momento en el que queden a su disposición en la aduana, recinto fiscal o fiscalizado o en el caso de importación temporal al convertirse en definitiva.
 
@@ -1539,23 +1559,37 @@ En caso de que no sea posible conocer el año modelo del vehículo, y que tampoc
 
 Objeto del impuesto
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 70.
 
-El objeto de este impuesto es gravar la venta final de bebidas alcohólicas en envase cerrado llevada a cabo en el territorio del Estado de Guanajuato, en los establecimientos abiertos al público en general a excepción de la cerveza en todas sus presentaciones, aguamiel y productos de su fermentación.
+El objeto de este impuesto es gravar la venta final de bebidas alcohólicas llevada a cabo en el territorio del estado de Guanajuato, a excepción de los bienes cuyo gravamen se encuentre reservado a la Federación.
 
 Para efectos de este impuesto se entenderá como bebidas alcohólicas, las que a la temperatura de quince grados centígrados tengan una graduación alcohólica de más de tres grados Gay Lussac hasta cincuenta y cinco grados Gay Lussac, incluyendo el aguardiente y a los concentrados de bebidas alcohólicas aun cuando tengan una graduación alcohólica mayor, de conformidad con la Ley del Impuesto Especial sobre Producción y Servicios.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Se considera que la venta o consumo final de los bienes se efectúa en el territorio del estado cuando en este se realice la entrega de los mismos por parte del productor, envasador, distribuidor o importador, según sea el caso para su posterior venta la (sic) publico en general o consumo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 Sujetos obligados
 
 ###### Artículo 71.
 
-Están obligados al pago del impuesto las personas físicas o morales que realicen la venta final de bebidas alcohólicas en envase cerrado llevada a cabo en territorio del estado de Guanajuato, en los establecimientos abiertos al público en general a excepción de la cerveza en todas sus presentaciones, aguamiel y productos de su fermentación.
+Están obligados al pago del impuesto las personas físicas o morales que realicen la venta final de bebidas alcohólicas llevada a cabo en territorio del estado de Guanajuato, en los establecimientos abiertos al público en general a excepción de la cerveza en todas sus presentaciones, aguamiel y productos de su fermentación.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 Base del impuesto
 
 ###### Artículo 72.
 
-La base de este impuesto será el precio percibido por la venta final disminuyendo los impuestos al Valor Agregado y Especial sobre Producción y Servicios.
+La base de este impuesto será el precio percibido por la venta final de bebidas alcohólicas que se realice al público en general disminuyendo los impuestos al Valor Agregado y Especial sobre Producción y Servicios.
+
+Tratándose de centros de consumo la base del impuesto será el valor de la adquisición de bebidas alcohólicas para su posterior venta al público o consumo, disminuyendo los impuestos al valor agregado y especial sobre producción y servicios.
+
+Se entenderá centro de consumo al establecimiento abierto al público en el que se permite la venta o consumo de bebidas alcohólicas para ser ingeridas en el mismo lugar.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
 
@@ -1565,25 +1599,35 @@ Causación y determinación del impuesto
 
 Este impuesto se causará en el momento en el que efectivamente se perciban los ingresos y sobre el monto que de ellos se obtenga y se determinará de acuerdo a la tasa del 4.5 por ciento.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+No se causará este impuesto por las ventas de bebidas alcohólicas cuando estas se realicen al público en general, en botellas abiertas o por copeo, para su consumo en el mismo lugar o establecimiento en el que se enajenen.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 No traslación del impuesto
 
 ###### Artículo 74.
 
-Los contribuyentes sujetos al pago de este impuesto no lo trasladarán de forma expresa y por separado a las personas que adquieran las bebidas alcohólicas en términos del artículo 70. El impuesto deberá incluirse en el precio de venta final, sin que se considere que forma parte del precio correspondiente ni se entienda violatorio de precios o tarifas, incluyendo los oficiales, por lo que no se desglosará en el comprobante que al efecto se emita.
+Los contribuyentes sujetos al pago de este impuesto no lo trasladarán de forma expresa y por separado a las personas que adquieran las bebidas alcohólicas en términos del artículo 70 de esta Ley. El impuesto deberá incluirse en el precio de venta final, sin que se considere que forma parte del precio correspondiente ni se entienda violatorio de precios o tarifas, incluyendo los oficiales, por lo que no se desglosará en el comprobante que al efecto se emita.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 No acreditación del impuesto
 
 ###### Artículo 75.
 
-El impuesto no será acreditable contra otros impuestos locales o contra impuestos federales.
+El impuesto no será acreditable contra otros impuestos estatales o contra impuestos federales.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 Presentación de declaraciones y pago
 
 ###### Artículo 76.
 
-El impuesto se pagará mensualmente mediante declaraciones definitivas a más tardar el día veintidós del mes siguiente inmediato posterior a aquél en que se realice la venta final de bebidas alcohólicas, a través de las formas y medios que para tal efecto autorice el SATEG, a través de disposiciones de carácter general.
+Los contribuyentes a que se refiere el presente Capítulo deberán presentar su declaración definitiva, a más tardar el día veintidós del mes siguiente inmediato posterior a aquél en que se realice la venta final de bebidas alcohólicas, mediante las formas y medios que para el efecto autorice y dé a conocer el SATEG, a través de disposiciones de carácter general y efectuará su pago definitivo en los medios y puntos autorizados por la Secretaría de Finanzas.
 
-Si un contribuyente tuviera varios establecimientos, locales, o sucursales en el territorio del Estado, presentará por todos ellos una sola declaración de pago por las operaciones que corresponda a dichos establecimientos, a través de puntos y medios de pago que para ello determine la autoridad fiscal competente mediante las disposiciones que para tal efecto expida.
+Si un contribuyente tuviera varios establecimientos, locales, o sucursales en el territorio del Estado, presentará por todos ellos una sola declaración de pago por las operaciones que corresponda a dichos establecimientos, mediante las formas y medios que para el efecto autorice y dé a conocer el SATEG, a través de disposiciones de carácter general.
 
 Registro de ventas finales
 
@@ -1605,9 +1649,17 @@ II. Llevar los libros, registros, documentación que establezcan las leyes fisca
 
 III. Expedir y conservar comprobantes que acrediten los ingresos que perciban, mismos que deberán reunir los requisitos establecidos en el Código;
 
-IV. Presentar declaraciones definitivas; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-V. Conservar la contabilidad y los comprobantes de los asientos respectivos, así como aquellos necesarios para acreditar que se ha cumplido con las obligaciones fiscales, de conformidad con lo previsto por el Código.
+IV. Presentar declaraciones definitivas;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+V. Conservar la contabilidad y los comprobantes de los asientos respectivos, así como aquellos necesarios para acreditar que se ha cumplido con las obligaciones fiscales, de conformidad con lo previsto por el Código; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+VI. Desglosar en los Comprobantes Fiscales Digitales por Internet correspondientes, la enajenación de cada bebida alcohólica sin importar su presentación, en términos de las disposiciones federales aplicables.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
@@ -1657,7 +1709,9 @@ Sujetos obligados
 
 Están obligados al pago de este impuesto, las personas físicas y las personas morales, que cuenten o no con domicilio fiscal en el estado, que tengan fuentes fijas en las que se desarrollen actividades por las que se generen emisiones a la atmósfera gravadas por este impuesto en el territorio del Estado.
 
-También quedan comprendidos como sujetos de este impuesto, la Federación, el Estado y los municipios; las empresas productivas del Estado, los organismos descentralizados federales, estatales y municipales; las empresas de participación estatal mayoritaria de carácter federal y estatal; las empresas de participación municipal mayoritaria, las comisiones, patronatos, comités, los fideicomisos constituidos por dependencias y entidades de la administración pública federal, estatal y municipal, así como las personas de derecho público con autonomía derivada de la Constitución Federal o del Estado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+También quedan comprendidos como sujetos de este impuesto, de manera enunciativa más no limitativa, la Federación, el Estado y los municipios; las empresas públicas del Estado y sus empresas subsidiarias, los organismos descentralizados federales, estatales y municipales; las empresas de participación estatal mayoritaria de carácter federal y estatal; las empresas de participación municipal mayoritaria, las comisiones, patronatos, comités, los fideicomisos constituidos por dependencias y entidades de la administración pública federal, estatal y municipal, así como las personas de derecho público con autonomía derivada de la Constitución Federal o del Estado.
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
@@ -1710,6 +1764,10 @@ C6F14 7,910
 SF6 23,500
 
 Cuando los sujetos obligados cuenten con más de un establecimiento en el estado con fuentes fijas, deberán acumular las emisiones de bióxido de carbono equivalente que generen cada uno de estos para la determinación de la base.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Cuando los sujetos obligados cuenten con más de un establecimiento, sucursal, local y en general cualquier lugar que se utilice para el desempeño de sus actividades en el Estado de Guanajuato con fuentes fijas, deberán acumular las emisiones de bióxido de carbono equivalente que generen cada uno de estos para la determinación de la base.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
@@ -2019,9 +2077,11 @@ Si el suelo, subsuelo o agua fueron contaminados con dos o más sustancias de la
 
 Presentación de declaraciones y pago
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 78-N.
 
-El impuesto se pagará mediante pagos provisionales mensuales a cuenta del ejercicio correspondiente mediante declaración, a más tardar el día veintidós del mes inmediato posterior a aquél al que corresponda el pago, mediante las formas y medios que para el efecto autorice y dé a conocer el SATEG, a través de disposiciones de carácter general.
+Los contribuyentes a que se refiere la presente Sección efectuarán pagos provisionales mensuales a cuenta del ejercicio correspondiente mediante la presentación de declaración, a más tardar el día veintidós del mes inmediato posterior a aquél al que corresponda el pago, mediante las formas y medios que para el efecto autorice y dé a conocer el SATEG, a través de disposiciones de carácter general y efectuará su pago provisional en los medios y puntos autorizados por la Secretaría de Finanzas.
 
 Asimismo, se deberá presentar una declaración anual por este impuesto a más tardar el último día hábil del mes de marzo para personas morales y unidades económicas y en abril para personas físicas del siguiente año del ejercicio de que se trate, en la que se podrán acreditar los pagos provisionales mensuales efectivamente pagados de este impuesto del ejercicio que corresponda.
 
@@ -2119,7 +2179,9 @@ Sujetos obligados
 
 Son sujetos de este impuesto los grandes generadores, que cuenten o no con domicilio fiscal en el estado, que generen residuos de manejo especial y que por sí mismas o a través de un tercero, depositen en sitios de disposición final.
 
-También quedan comprendidos como sujetos de este impuesto, la Federación, el Estado y los municipios; los organismos descentralizados federales, estatales y municipales; las empresas de participación estatal mayoritaria de carácter federal y estatal; las empresas de participación municipal mayoritaria, las comisiones, patronatos, comités, los fideicomisos constituidos por dependencias y entidades de la administración pública federal, estatal y municipal, así como las personas de derecho público con autonomía derivada de la Constitución Federal o del Estado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+También quedan comprendidos como sujetos de este impuesto, de manera enunciativa más no limitativa, la Federación, el Estado y los municipios; los organismos descentralizados federales, estatales y municipales; las empresas de participación estatal mayoritaria de carácter federal y estatal; las empresas públicas del Estado y sus empresas subsidiarias; las empresas de participación municipal mayoritaria, las comisiones, patronatos, comités, los fideicomisos constituidos por dependencias y entidades de la administración pública federal, estatal y municipal, así como las personas de derecho público con autonomía derivada de la Constitución Federal o del Estado.
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
@@ -2129,11 +2191,15 @@ Base del impuesto
 
 Es base gravable para este impuesto la cantidad en toneladas de residuos de manejo especial que se depositen en sitios de disposición final en el estado, con independencia del lugar en el que se generaron, tomando en consideración el Manifiesto de entrega, transporte y recepción de residuos de manejo especial.
 
-Cuando los sujetos obligados cuenten con más de un establecimiento en el estado, deberán acumular las toneladas de residuos de manejo especial que cada uno de éstos depositen en sitios de disposición final para la determinación de la base.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+Cuando los sujetos obligados cuenten con más de un establecimiento, sucursal, local y en general cualquier lugar que se utilice para el desempeño de sus actividades en el estado de Guanajuato, deberán acumular las toneladas de residuos de manejo especial que cada uno de éstos depositen en sitios de disposición final para la determinación de la base.
+
+> <small>(REFORMADO SU EPÍGRAFE [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 Causación del impuesto
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
 ###### Artículo 78-U.
 
@@ -2143,9 +2209,11 @@ Este impuesto se causará al momento de que se depositen los residuos de manejo 
 
 Determinación y pago del impuesto
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 78-V.
 
-El impuesto se calculará y pagará de manera mensual mediante declaraciones provisionales a cuenta del impuesto del ejercicio, a más tardar el día veintidós del mes siguiente al que corresponda el pago, mediante las formas y medios que para el efecto dé a conocer el SATEG, a través de disposiciones de carácter general.
+Los contribuyentes a que se refiere la presente Sección efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio, a más tardar el día veintidós del mes siguiente al que corresponda el pago, mediante las formas y medios que para el efecto autorice y dé a conocer el SATEG, a través de disposiciones de carácter general y efectuará su pago provisional en los medios y puntos autorizados por la Secretaría de Finanzas.
 
 La determinación se realizará aplicando a la base señalada en el artículo 78-T la cuota de 100 pesos
 
@@ -2267,11 +2335,13 @@ Causación de los derechos por la prestación de servicios públicos
 
 Los derechos por la prestación de servicios públicos que presten las diversas dependencias del Gobierno del Estado, se causarán en el momento en que las personas físicas o morales reciban la prestación del servicio o en el momento en que se provoque por parte del Estado el gasto que deba ser remunerado por aquellas, salvo el caso en que la disposición que fije el derecho, señale cosa distinta.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 Pago de la contraprestación de los servicios públicos
 
 ###### Artículo 80.
 
-El importe de las tarifas que para cada derecho señala anualmente la Ley de Ingresos deberá ser cubierto, mediante las formas y medios que para tal efecto autorice y dé a conocer el SATEG, a través de disposiciones de carácter general, salvo lo dispuesto en el Capítulo Tercero de este Título.
+El importe de las tarifas que para cada derecho señala anualmente la Ley de Ingresos deberá ser cubierto, en los medios y puntos de pago que para tal efecto autorice la Secretaría de Finanzas, salvo lo dispuesto en el Capítulo Tercero de este Título.
 
 Prestación del servicio público
 
@@ -2301,7 +2371,9 @@ Derechos por registro y refrendo en materia vehicular
 
 Toda persona al adquirir un vehículo, deberá registrarlo a su nombre, presentando el aviso de alta mediante las formas y medios que para el efecto autorice y dé a conocer el SATEG, a través de disposiciones de carácter general, previo pago de los derechos e impuestos respectivos, dentro de los diez días hábiles siguientes a la fecha de la adquisición.
 
-Los documentos que acrediten el registro e identificación del vehículo deberán ser refrendados anualmente, dentro de los tres primeros meses de cada año, realizando el pago respectivo mediante las formas y medios que para tal efecto autorice y dé a conocer el SATEG, a través de disposiciones de carácter general.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Los documentos que acrediten el registro e identificación del vehículo deberán ser refrendados anualmente, dentro de los tres primeros meses de cada año, realizando el pago respectivo en los medios y puntos de pago que para tal efecto autorice la Secretaría de Finanzas.
 
 Causas de excepción para el registro vehicular
 
@@ -2313,43 +2385,93 @@ I. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2020)
 
 II. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2020)
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-III. Aquellos respecto de los cuales no se exhiba la documentación que acredite la propiedad o legítima posesión del vehículo a registrar; y
+III. Aquellos respecto de los cuales no se exhiba la documentación que acredite la propiedad o legítima posesión del vehículo a registrar;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-IV. Cuando los propietarios o legítimos poseedores tengan adeudos con el fisco del estado de vehículos inscritos en el padrón vehicular estatal, hasta que estos se hayan cubierto.
+IV. Cuando los propietarios o legítimos poseedores tengan adeudos con el fisco del estado de vehículos inscritos en el padrón vehicular estatal, hasta que estos se hayan cubierto;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+V. Cuando los propietarios o legítimos poseedores cuenten con reporte de robo vigente ante la autoridad competente en materia de procuración de justicia de cualquier entidad federativa, o, en el instrumento de información del Sistema Nacional de Seguridad Pública; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+VI. Cuando los propietarios o legítimos poseedores de vehículos se encuentren omisos en el cumplimiento de trámites administrativos o en la presentación de los avisos relacionados con el Padrón vehicular estatal, Padrón de control estatal de motocicletas o el Padrón de Comerciantes en el ramo de vehículos tipo motocicletas, según corresponda.
 
 Avisos en materia vehicular
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 86.
 
-Los propietarios o legítimos poseedores de vehículos de motor están obligados a presentar los avisos de baja o modificaciones siguientes, por:
+Los propietarios o legítimos poseedores de vehículos de motor están obligados a presentar los avisos de modificación o baja en el registro estatal vehicular, por los supuestos establecidos en los artículos 86-A y 86-B de esta Ley.
+
+I. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2025)
+
+II. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2025)
+
+III. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2025)
+
+IV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2025)
+
+V. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2025)
+
+VI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2025)
+
+VII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2025)
+
+VIII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2025)
+
+IX. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2025)
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Los avisos se presentarán dentro de los diez días hábiles siguientes a la fecha de realización del supuesto de que se trate, debiendo cumplir con los requisitos señalados en esta Ley y las disposiciones de carácter general que para tal efecto emita el SATEG.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Para la presentación de los avisos a que se refiere este artículo, será preciso comprobar que no se tienen adeudos con el fisco del Estado y devolver las placas metálicas y tarjeta de circulación respectiva.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Presentación de los avisos de modificación en el Padrón Vehicular Estatal
+
+###### Artículo 86-A.
+
+El aviso de modificación a que se refiere el artículo 86 de esta Ley se presentará cuando se actualice alguno de los siguientes supuestos:
+
+I. Cambio de domicilio al registrado en el Padrón Vehicular Estatal dentro del Estado;
+
+II. Cambio de motor o del sistema de combustión;
+
+III. Cambio de color, carrocería o tipo de vehículo; o
+
+IV. Reposición de placas metálicas y tarjeta de circulación por motivo de extravío, deterioro, robo o destrucción.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Presentación de los avisos de baja en el Padrón Vehicular Estatal
+
+###### Artículo 86-B.
+
+El aviso de baja a que se refiere el artículo 86 de esta Ley se presentará cuando se actualice alguno de los siguientes supuestos:
 
 I. Cambio de propietario;
 
-II. Cambio de domicilio;
+Se entenderá que existe un cambio de propietario, cuando el vehículo de que se trate sale de la esfera jurídica de dominio, posesión o, deje de ser usado por la persona a nombre de quien está inscrito en el Padrón Vehicular Estatal;
 
-III. Cambio de motor o del sistema de combustión;
+II. Sea registrado en otra entidad federativa;
 
-IV. Cambio de carrocería o tipo de vehículos, o de color;
+III. Por robo; o
 
-V. Cambio en el servicio a que se encuentre destinado;
+IV. Destrucción o desarme.
 
-VI. Cambio de capacidad;
+Cuando por cualquier causa, un vehículo cambie de propietario o sea registrado en otra entidad federativa sin que se hubiera presentado el aviso de baja correspondiente de manera previa, la persona que se encuentre como propietaria o legítima poseedora en el Padrón Vehicular Estatal estará obligada a presentar dicho aviso para el vehículo de que se trate, debiendo cumplir con los requisitos señalados en esta Ley y las disposiciones de carácter general que para tal efecto emita el SATEG.
 
-VII. Robo;
-
-VIII. Recuperación de vehículo robado; y
-
-IX. Baja ocasionada por destrucción o desarme.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
-
-Los avisos anteriores se presentarán dentro de los diez días hábiles siguientes a la fecha de realización del supuesto de que se trate, mediante las formas o medios que para el efecto autorice y dé a conocer el SATEG, a través de disposiciones de carácter general.
-
-Para obtener la baja definitiva del vehículo en los casos de cambio de propietario, cambio de domicilio fuera del Estado, por destrucción, desarme y por cambio en el servicio a que se destine el vehículo, será preciso comprobar que no se tienen adeudos con el fisco del Estado y devolver las placas metálicas y tarjeta de circulación respectiva.
+Para efectos de la presentación del aviso de baja por robo, la persona que se encuentre como propietaria o legítima poseedora en el Padrón Vehicular Estatal del vehículo de que se trate, cubrirá los créditos fiscales causados del vehículo de que se trate hasta el día de la presentación del aviso; salvo, los créditos fiscales que se hubieren causado a partir del ejercicio fiscal inmediato posterior al del suceso de robo y que se acredite con el documento por el que la autoridad competente haga constar la presentación de la denuncia del suceso de robo del vehículo de que se trate y, se mencionen las características y datos de identificación del vehículo, el número de placas metálicas asignadas al vehículo materia del trámite, mismas que deberán coincidir con las registradas en el Padrón Vehicular Estatal.
 
 Baja oficiosa
 
@@ -2381,7 +2503,9 @@ El SATEG publicará en el Periódico Oficial del Gobierno del Estado de Guanajua
 
 Dicho listado contendrá marca, línea, año modelo y placa metálica del vehículo, así como el supuesto jurídico en el que se encuadra, dentro del mes inmediato posterior, al trimestre que corresponda.
 
-Los propietarios o legítimos poseedores de los vehículos contarán con un plazo de diez días hábiles contados a partir de la publicación en los medios señalados en el párrafo quinto de este artículo, para expresar lo que a su derecho corresponda y en su caso proceda a la actualización del registro del vehículo de que se trate, previo el pago del crédito fiscal que existiere y el cumplimiento de los demás requisitos que, para tal efecto, establezcan las leyes y reglamentos.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Los propietarios o legítimos poseedores de vehículos y titulares de registros que hayan causado baja mediante declaratoria, para efectos de su actualización en el padrón vehicular, deberán realizar el pago de los créditos fiscales causados hasta el momento de la actualización, así como enterar los derechos por la ministración de placas metálicas y tarjeta de circulación, o bien, presentar el aviso de baja definitiva.
 
 Concluido el plazo que se cita en el párrafo anterior, el SATEG emitirá la declaratoria de baja mediante el dictamen que contendrá el listado de vehículos respecto de los cuales no se realizó acción alguna por parte de sus propietarios o legítimos poseedores, o bien, que no se actualizó su registro.
 
@@ -3146,3 +3270,23 @@ Segundo. Lo previsto en los párrafos segundo y tercero del artículo 17-A de la
 Por lo que de los ingresos que se obtengan por la recaudación del impuesto sobre nóminas a que hace referencia el Artículo 17-A de la Ley de Hacienda para el Estado de Guanajuato, el 0.2 por ciento de la tasa de dicho impuesto, se administrará en un proyecto de inversión ejecutado por la Secretaría del Nuevo Comienzo, cuyo destino será para fines de desarrollo social y humano y prevención social de la delincuencia, a través de organismos de la sociedad civil, conforme a lo dispuesto en la Ley de Desarrollo Social y Humano para el Estado y Municipios de Guanajuato y la Ley de Fomento a las Actividades de las Organizaciones de la Sociedad Civil en el Estado de Guanajuato.
 
 El 0.1 por ciento de la tasa de dicho impuesto para la realización de proyectos de inversión relacionados con el fortalecimiento de la seguridad pública, se ejecutará por conducto de la Secretaría de la Seguridad y Paz del Estado de Guanajuato.
+
+P.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 167, QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor el 1 de enero de 2026, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Inicio de vigencia de la reforma al Impuesto a la Venta Final de Bebidas Alcohólicas
+
+Artículo Segundo. Lo previsto en los artículos 70, 71 y 72 de la presente Ley, relativos al Impuesto a la Venta Final de Bebidas Alcohólicas, entrará en vigor a partir del 1 de julio de 2026. Durante el periodo comprendido de enero a junio de 2026, prevalecerá lo siguiente:
+
+El objeto de este impuesto es gravar la venta final de bebidas alcohólicas en envase cerrado llevada a cabo en el territorio del estado de Guanajuato, en los establecimientos abiertos al público en general a excepción de la cerveza en todas sus presentaciones, aguamiel y productos de su fermentación.
+
+Para efectos de este impuesto se entenderá como bebidas alcohólicas, las que a la temperatura de quince grados centígrados tengan una graduación alcohólica de más de tres grados Gay Lussac hasta cincuenta y cinco grados Gay Lussac, incluyendo el aguardiente y a los concentrados de bebidas alcohólicas aun cuando tengan una graduación alcohólica mayor, de conformidad con la Ley del Impuesto Especial sobre Producción y Servicios.
+
+Están obligados al pago del impuesto las personas físicas o morales que realicen la venta final de bebidas alcohólicas en envase cerrado llevada a cabo en territorio del estado de Guanajuato, en los establecimientos abiertos al público en general a excepción de la cerveza en todas sus presentaciones, aguamiel y productos de su fermentación.
+
+La base de este impuesto será el precio percibido por la venta final disminuyendo los impuestos al Valor Agregado y el Especial sobre Producción y Servicios.
