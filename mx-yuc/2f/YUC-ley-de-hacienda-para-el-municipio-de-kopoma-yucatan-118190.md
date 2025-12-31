@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-kopoma-yucatan-118190"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2022-12-30"
+last_updated: "2025-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE KOPOMA, YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY DE HACIENDA DEL MUNICIPIO DE KOPOMÁ, YUCATÁN, PUBLICADA EN EL D.O. DE 31 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE HACIENDA DEL MUNICIPIO DE KOPOMÁ, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en el Suplemento al Número 33262 del Diario Oficial del Estado de Yucatán, el sábado 31 de diciembre de 2016.
 
@@ -1556,3 +1558,19 @@ Artículo Primero.- Este decreto entrará en vigor el día siguiente de su publi
 Artículo Segundo.- El H. Ayuntamiento de Dzidzantún, para percibir aprovechamientos vía infracciones por faltas administrativas, deberá contar con los reglamentos municipales respectivos, que establecerán los montos de las sanciones correspondientes.
 
 Artículo Tercero.- La Ley de Hacienda del Municipio de Tixpéual, deroga el artículo primero transitorio por el que se modificó dicha Ley, mediante Decreto 449/2021 publicado en el Diario Oficial del Gobierno del Estado el 31 de diciembre de 2021.
+
+D.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE HACIENDA DEL MUNICIPIO DE KOPOMÁ, YUCATÁN".]
+
+Artículo primero. Se abroga la Ley de Hacienda del municipio de Kopomá, Yucatán.
+
+Artículo segundo. En lo no previsto por esta ley, se aplicará supletoriamente lo establecido por el Código Fiscal y la Ley General de Hacienda para los Municipios, ambas del estado de Yucatán.
+
+Artículo tercero. Para poder percibir aprovechamiento vía Infracciones por faltas administrativas, el Ayuntamiento deberá contar con los reglamentos municipales respectivos, los que establecerán los montos de las sanciones correspondientes.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 150/2025 POR EL QUE SE EMITEN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE CANSAHCAB, CHANKOM, CHICHIMILÁ, HOCTÚN, HUNUCMÁ, KANASÍN, KOPOMÁ, MUXUPIP, TAHDZIÚ, TEKANTÓ, TEPAKÁN, TETIZ, TIXCACALCUPUL, TIXPÉUAL, UAYMA, UMÁN Y VALLADOLID, TODAS DEL ESTADO DE YUCATÁN".]
+
+Entrada en vigor
+
+Artículo único. Este Decreto, entrará en vigor el primero de enero del año 2026, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
