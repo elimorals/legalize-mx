@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-fiscal-del-estado-de-zacatecas-y-sus-municipios-118122"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-12-31"
-last_updated: "2024-12-28"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118122&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2025.
 
 Código publicado en el Suplemento 16 al Número 105 del Periódico Oficial del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -1857,7 +1857,9 @@ Cuando las leyes fiscales establezcan que las contribuciones se paguen mediante 
 
 Las resoluciones administrativas de carácter individual favorables a un particular sólo podrán ser modificadas por el Tribunal de Justicia Administrativa del Estado de Zacatecas mediante juicio iniciado por las autoridades fiscales.
 
-Las autoridades fiscales podrán, a petición de los interesados, revisar discrecionalmente las resoluciones administrativas de carácter individual no favorables a un particular emitidas por sus subordinados jerárquicamente, y en el supuesto que se demuestre fehacientemente que las mismas se hubieran emitido en contravención a las disposiciones fiscales, o que existe afectación a los derechos humanos de los contribuyentes, podrán por una sola vez, modificarlas o revocarlas en beneficio del contribuyente, y siempre que no se hubiera interpuesto el recurso de revocación previsto en este Código y hubieren quedado firmes, mediante resolución fundada y motivada.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Las autoridades fiscales podrán, a petición de los interesados, revisar discrecionalmente las resoluciones que contengan determinaciones de créditos fiscales emitidas por sus subordinados jerárquicamente, y en el supuesto que se demuestre fehacientemente que las mismas se hubieran emitido en contravención a las disposiciones fiscales, o que existe afectación a los derechos humanos de los contribuyentes, podrán por una sola vez, modificarlas o revocarlas en beneficio del contribuyente, y siempre que no se hubiera interpuesto el recurso de revocación previsto en este Código y hubieren quedado firmes, mediante resolución fundada y motivada.
 
 En estos supuestos, por tratarse de la modificación de resoluciones en las que sin haber intentado la vía administrativa con anterioridad, se actualiza el supuesto de haber sido consentidas en términos de las disposiciones establecidas en los medios de impugnación procedentes, las resoluciones dictadas conforme lo establecido en el párrafo anterior no podrán ser impugnadas por los contribuyentes, incluso en las partes que consideren no les favorecen. Para estos efectos, al presentar su solicitud, el contribuyente deberá manifestar el consentimiento expreso con la resolución que pretende sea modificada, enunciando a manera de información, cuáles son las contravenciones legales o a sus derechos humanos que a su juicio se actualizan en la emisión de la misma.
 
@@ -2137,11 +2139,19 @@ Los estímulos fiscales se harán efectivos en las oficinas de las autoridades f
 
 Para efectos de la adecuada administración y control, de las obligaciones de los contribuyentes, responsables solidarios o terceros con ellos relacionados, sin que se considere que se ejercen facultades de comprobación, en términos de este artículo, las autoridades fiscales podrán solicitar los datos, informes y documentos que se requieran para los fines siguientes:
 
-I. Solicitar a los contribuyentes, responsables solidarios o terceros con ellos relacionados, datos, informes o documentos adicionales, que consideren necesarios para aclarar la información asentada en las declaraciones de pago definitivo, y complementarias, así como en los avisos de compensación correspondientes, siempre que se soliciten en un plazo no mayor de tres meses siguientes a la presentación de las citadas declaraciones y avisos. Las personas antes mencionadas deberán proporcionar la información solicitada dentro de los quince días siguientes a la fecha en la que surta efectos la notificación de la solicitud correspondiente;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+I. Solicitar a los contribuyentes, responsables solidarios o terceros con ellos relacionados, datos, informes o documentos adicionales, que consideren necesarios para aclarar la información asentada en las declaraciones de pago definitivo, y complementarias, así como en los avisos de compensación correspondientes, siempre que se soliciten en un plazo no mayor de tres meses siguientes a la presentación de las citadas declaraciones y avisos;
 
 II. Requerir información y llevar a cabo verificaciones para constatar los datos proporcionados al registro estatal o municipal de contribuyentes, relacionados con la identidad, domicilio y demás datos que se hayan manifestado para los efectos de dicho registro; y
 
-III. Solicitar de los contribuyentes, responsables solidarios o terceros, datos, informes o documentos, para planear y programar actos de fiscalización.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+III. Solicitar de los contribuyentes, responsables solidarios o terceros, datos, informes o documentos, para planear y programar actos de fiscalización, así como verificar el cumplimiento a los convenios, acuerdos o contratos celebrados con la Secretaría.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Las personas mencionadas en las fracciones que anteceden deberán proporcionar la información solicitada dentro de los quince días siguientes a la fecha en la que surta efectos la notificación de la solicitud correspondiente.
 
 ###### ARTÍCULO 118.
 
@@ -2225,9 +2235,21 @@ III. Exista omisión o alteración del registro de operaciones, ingresos o eroga
 
 IV. No hayan solicitado su inscripción en el registro estatal o municipal de contribuyentes después de 6 meses de haber iniciado actividades;
 
-V. No lleven contabilidad estando obligados a hacerlo, o cuando destruyan la que corresponda; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-VI. Cuando tratándose de responsables solidarios en términos de las fracciones VI, XI, XII y XIII del artículo 96 de este Código, no se cuente con los elementos que permitan realizar la determinación sobre base cierta.
+V. No lleven contabilidad estando obligados a hacerlo, o cuando destruyan la que corresponda;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+VI. Cuando tratándose de responsables solidarios en términos de las fracciones VI, XI, XII y XIII del artículo 96 de este Código, no se cuente con los elementos que permitan realizar la determinación sobre base cierta;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+VII. Cuando la información que proporcione el contribuyente a solicitud de la autoridad no permita conocer la base gravable de los Impuestos, y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+VIII. Cuando no se presenten las declaraciones mensuales o anuales correspondientes a los impuestos a que estén obligados.
 
 La determinación presuntiva realizada por la autoridad en los términos de este artículo, será independiente de las sanciones a que se haga acreedor el contribuyente o los responsables solidarios.
 
@@ -2509,11 +2531,11 @@ Los testigos podrán ser sustituidos en cualquier tiempo por no comparecer a la 
 
 Si al cierre del acta que se levante, el visitado o la persona con quien se entendió la diligencia o los testigos se niegan a firmar o a recibir la copia del acta, dicha circunstancia se asentará en la misma, sin que esto afecte la validez y valor probatorio de la misma; dándose por concluida la diligencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 139.
 
-Los visitados, su representante legal o las personas con quien se entienda la visita, están obligados a permitir a los visitadores designados en la orden de visita el acceso al lugar o lugares objeto de la misma, así como a poner y mantener a su disposición la contabilidad y demás documentos o informes que acrediten el cumplimiento de las disposiciones fiscales, de los que los visitadores podrán sacar copia para que, previo cotejo con sus originales, se certifiquen por éstos y sean anexados a las actas parciales o final que se levanten con motivo de la visita. También deberán permitir la verificación de bienes, mercancías, suelo, subsuelo o agua, objeto de alguno de los impuestos del Estado, así como de los equipos de medición utilizados para determinar la emisión de sustancias contaminantes y niveles de contaminación de acuerdo con las disposiciones fiscales, y de los documentos, bitácoras, informes, declaraciones en materia ambiental, discos, cintas o cualquier otro medio de almacenamiento de datos que tenga el contribuyente en los lugares visitados y que tengan relación con el cumplimiento de sus obligaciones fiscales; las autoridades fiscales podrán utilizar herramientas tecnológicas de medida, estimación o cálculo para determinar emisiones, los elementos de la contribución o la base gravable de cualquiera de los impuestos ecológicos, así como material que sirva como muestra, testigo o constancia de contaminación que exista en las instalaciones de los contribuyentes, los cuales quedarán protegidos por la reserva a que se refiere el artículo 135 de este Código.
+Los visitados, su representante legal o las personas con quien se entienda la visita, están obligados a permitir a los visitadores designados en la orden de visita el acceso al lugar o lugares objeto de la misma, así como a poner y mantener a su disposición la contabilidad y demás documentos o informes que acrediten el cumplimiento de las disposiciones fiscales, de los que los visitadores podrán sacar copia para que, previo cotejo con sus originales, se certifiquen por éstos y sean anexados a las actas parciales o final que se levanten con motivo de la visita. También deberán permitir la verificación de bienes, documentos, estados de cuenta o estados de cuenta bancarios, mercancías, suelo, subsuelo o agua, objeto de alguno de los impuestos del Estado, así como de los equipos de medición utilizados para determinar la emisión de sustancias contaminantes y niveles de contaminación de acuerdo con las disposiciones fiscales, y de los documentos, bitácoras, informes, declaraciones en materia ambiental, discos, cintas o cualquier otro medio de almacenamiento de datos que tenga el contribuyente en los lugares visitados y que tengan relación con el cumplimiento de sus obligaciones fiscales; las autoridades fiscales podrán utilizar herramientas tecnológicas de medida, estimación o cálculo para determinar emisiones, los elementos de la contribución o la base gravable de cualquiera de los impuestos ecológicos, así como material que sirva como muestra, testigo o constancia de contaminación que exista en las instalaciones de los contribuyentes, los cuales quedarán protegidos por la reserva a que se refiere el artículo 135 de este Código.
 
 Cuando los visitados lleven su contabilidad o parte de ella con sistema de registro electrónico, o la microfilmen o graben en discos ópticos o en cualquier otro medio autorizado por las disposiciones aplicables a la contabilidad, deberán poner a disposición de los visitadores cuando ello sea requerido, a sus operadores para que los auxilien en el desarrollo de la visita, así como entregar a la Autoridad Fiscal, los archivos electrónicos en donde conste dicha contabilidad.
 
@@ -2593,9 +2615,9 @@ VII. Dentro del plazo para desvirtuar los hechos u omisiones asentados en el ofi
 
 VIII. Cuando el contribuyente no corrija totalmente su situación fiscal conforme al oficio de observaciones o no desvirtúe los hechos u omisiones consignados en dicho documento, se emitirá la resolución que determine las contribuciones o aprovechamientos omitidos, la cual se notificará al contribuyente cumpliendo las formalidades que para las notificaciones personales se prevén en el Título Quinto, Capitulo Tercero de este Código.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-Para los efectos del primer párrafo de este artículo, se considera como parte de la documentación o información que puedan solicitar las autoridades fiscales, la relativa a las cuentas bancarias del contribuyente, así como la relativa a la maquinaria y vehículos que utilicen dentro de sus instalaciones.
+Para efectos de lo dispuesto en el presente artículo, y en el artículo 139 primer párrafo de este Código, cuando la autoridad se encuentre ejerciendo sus facultades de comprobación, podrá requerir informes, datos, documentos, la contabilidad o parte de ella, así como información económica y financiera, con el orden, metodología y características, que permitan relacionar las operaciones, actos o actividades del contribuyente revisado, además de la relativa a los estados de cuenta o estados de cuenta bancarios abiertas a nombre del contribuyente, así como a la que se refiera a la maquinaria y vehículos que utilicen dentro de sus instalaciones.
 
 ###### ARTÍCULO 143.
 
@@ -2887,7 +2909,25 @@ II. Los contenidos en las declaraciones del ejercicio correspondiente a cualquie
 
 Las declaraciones del ejercicio que se podrán utilizar son las que el contribuyente hubiere presentado tanto en materia estatal, como en materia federal;
 
-III. La información proporcionada por terceros a solicitud de las autoridades fiscales, que se encuentren referidas a operaciones o actividades relacionadas con el contribuyente sujeto a la determinación presuntiva; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+III. La información proporcionada por terceros a solicitud de las autoridades fiscales, que se encuentren referidas a operaciones o actividades relacionadas con el contribuyente sujeto a la determinación presuntiva;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+III Bis. Los contenidos en los informes, registros, declaraciones que el contribuyente
+
+presente o esté obligado a presentar ante las dependencias u organismos de carácter federal, estatal o municipal;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+III Ter. La información contenida u obtenida de los Comprobantes Fiscales Digitales
+
+por Internet emitidos y recibidos por el contribuyente;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+III Quater. Datos técnicos, estudios, informes, reportes, o cualquier otro indicio emitido por el contribuyente o terceros que permita inferir las actividades gravadas de los impuestos, y
 
 IV. Cualquier otra información obtenida por la autoridad fiscal en el ejercicio de sus facultades de comprobación, siempre y cuando se encuentre referida a operaciones o actividades realizadas por el contribuyente sujeto a determinación presuntiva.
 
@@ -2945,11 +2985,15 @@ I. Que la información contenida en la contabilidad, documentación comprobatori
 
 II. Que la información contenida en los sistemas de contabilidad, a nombre del contribuyente, que sean localizados en poder de otras personas a su servicio, o de accionistas, socios o propietarios de la empresa, o sus familiares, corresponden a operaciones o actividades realizadas por el contribuyente;
 
-III. Que los depósitos en cuentas bancarias del contribuyente que no correspondan con sus registros contables que esté obligado a llevar, son ingresos o valor de operaciones o actividades por los que se encuentra sujeto al pago de contribuciones estatales o municipales.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-Para los efectos de esta fracción, se considera que el contribuyente no registró los depósitos que hubiere realizado en su cuenta bancaria, cuando estando obligado a llevarla, no la proporcione a la autoridad cuando ésta ejerza sus facultades de comprobación del cumplimiento de obligaciones fiscales; y
+III. Que los depósitos en cuentas o cuentas bancarias del contribuyente que no correspondan con sus registros contables que esté obligado a llevar, son ingresos o valor de operaciones o actividades por los que se encuentra sujeto al pago de contribuciones estatales o municipales.
 
-IV. Que son depósitos o valor de operaciones o actividades del contribuyente por los que se deben pagar contribuciones, los depósitos realizados en cuenta de cheques personal de los gerentes, administradores o terceros, cuando se efectúen pagos de deudas de la empresa del contribuyente con cheques de dicha cuenta, o depositen en la misma, cantidades que correspondan a la empresa del contribuyente y ésta no los registre en su contabilidad.
+Para los efectos de esta fracción, se considera que el contribuyente no registró los depósitos que hubiere realizado en su cuenta o cuenta bancaria, cuando estando obligado a llevarla, no la proporcione a la autoridad cuando ésta ejerza sus facultades de comprobación del cumplimiento de obligaciones fiscales; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+IV. Que son depósitos o valor de operaciones o actividades del contribuyente por los que se deben pagar contribuciones, los depósitos realizados en cuenta o cuenta bancaria personal de los gerentes, administradores o terceros, cuando se efectúen pagos de deudas de la empresa del contribuyente con cheques de dicha cuenta, o depositen en la misma, cantidades que correspondan a la empresa del contribuyente y ésta no los registre en su contabilidad.
 
 Con relación a los impuestos de carácter ecológico, la Secretaría de Finanzas, con apoyo de la Secretaría del Agua y Medio Ambiente y la Procuraduría de Protección al Medio Ambiente del Estado, podrá realizar las estimaciones para determinar la base gravable utilizando tecnología y estudios técnicos que sustenten su determinación.
 
@@ -2989,15 +3033,21 @@ II. Si transcurrido el plazo señalado en la fracción anterior el contribuyente
 
 III. Cuando se trate de la segunda o posteriores ocasiones en que se hubiere omitido el pago de contribuciones por errores aritméticos, la autoridad lo hará saber al contribuyente en el mandamiento que se emita en términos de la fracción I de este artículo, para efectos que el contribuyente acredite debidamente que se trata solamente de un error en la aplicación de los factores numéricos. La información así recibida deberá utilizarse para la motivación de la infracción que se imponga. En caso que el contribuyente no realice aclaración alguna, será considerado reincidente y con efectos de agravante en la comisión de la infracción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 155.
 
-Cuando las autoridades fiscales, en el ejercicio de sus facultades de comprobación adviertan la existencia de contribuyentes que no se encuentran inscritos en el registro estatal o municipal de contribuyentes, según corresponda, y se cuente con los datos necesarios para hacerlo, procederán a realizar de oficio la inscripción correspondiente, a efecto de lo cual se estará a lo siguiente:
+Cuando las autoridades fiscales, en el ejercicio de sus facultades de comprobación o las de verificación establecidas en este Código, adviertan la existencia de contribuyentes que no se encuentran inscritos en el registro estatal o municipal de contribuyentes según corresponda, o bien, estando inscritos sus obligaciones fiscales y demás datos manifestados en dicho registro no se encuentren actualizados y se cuente con los datos necesarios para hacerlo, procederán a realizar de oficio la inscripción, corrección o actualización de datos correspondiente, a efecto de lo cual se estará a lo siguiente:
 
 I. Requerirán por una sola ocasión, la presentación del documento omitido en los términos del artículo 115 de este Código;
 
-II. Si después de efectuado el requerimiento establecido en la fracción anterior, el contribuyente persiste en conducta omisa, la autoridad fiscal, independientemente de la imposición de la sanción que corresponda, emitirá resolución fundada y motivada en la que de conformidad con los datos que tenga en su poder realice la inscripción oficiosa del contribuyente en el Registro estatal o municipal de contribuyentes según corresponda, la cual deberá ser notificada personalmente; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-III. La inscripción realizada en términos de este artículo, genera a cargo del contribuyente todas las obligaciones fiscales que de ella se deriven.
+II. Si después de efectuado el requerimiento establecido en la fracción anterior, el contribuyente persiste en conducta omisa, la autoridad fiscal, independientemente de la imposición de la sanción que corresponda, emitirá resolución fundada y motivada en la que de conformidad con los datos que tenga en su poder realice la inscripción, corrección o actualización oficiosa del contribuyente en el Registro estatal o municipal de contribuyentes según corresponda, la cual deberá ser notificada personalmente; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+III. La inscripción, corrección o actualización realizada en términos de este artículo, genera a cargo del contribuyente todas las obligaciones fiscales que de ella se deriven.
 
 ###### ARTÍCULO 156.
 
@@ -5330,3 +5380,15 @@ Se abrogan las “REGLAS.- Para la cancelación y depuración de Créditos Fisca
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía y contractuales del marco jurídico estatal, en lo que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 248.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS Y DE LA LEY SOBRE BEBIDAS ALCOHÓLICAS PARA EL ESTADO DE ZACATECAS.”]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil veintiséis, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al presente Decreto.
