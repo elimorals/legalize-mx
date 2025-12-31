@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-para-los-municipios-del-estado-de-hidalgo-83952
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-21"
-last_updated: "2025-08-22"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -193,9 +193,9 @@ VII.- Tratándose de construcciones en predios ejidales, el 60% de su valor cata
 
 VIII.- Tratándose de predios y edificaciones con fines industriales, incluidas haciendas de beneficio de metales y establecimientos metalúrgicos, el 100% de su valor catastral.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-En las Leyes de Ingresos de los Municipios se podrán establecer bases distintas a las consideradas en este artículo, cuando el Municipio cuente con valores catastrales actualizados en el ejercicio fiscal anterior, teniendo una aplicabilidad de hasta el 10% en cada año subsecuente, hasta completar la totalidad del mismo y estos hayan sido debidamente aprobados por el Congreso.
+En las Leyes de Ingresos de los Municipios se podrán establecer tasas distintas a las consideradas en este artículo, cuando el Municipio cuente con valores catastrales actualizados en el ejercicio fiscal anterior, conforme a la Ley de Catastro del Estado de Hidalgo y su Reglamento, teniendo una aplicabilidad de hasta el 10% en cada año subsecuente, hasta completar la totalidad del mismo y estos hayan sido debidamente aprobados por el Congreso.
 
 Se considera predio rústico el que se encuentra fuera de la mancha urbana y que en la vía de ubicación carezca de servicios municipales como son agua potable, luz, drenaje, transporte colectivo, teléfono, calles trazadas, entre otros.
 
@@ -357,9 +357,11 @@ Cuando no se pacte precio, el impuesto se calculará con base en el avalúo que 
 
 Para los fines de ésta Ley, se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos del 50% del valor de la propiedad.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 30.
 
-Quedan eximidos de la obligación de presentar el avalúo a que se refiere la fracción I del Artículo anterior, los sujetos que realicen adquisiciones de inmuebles sobre los cuales se encuentre edificada una vivienda de interés social o popular o lotes individualizados que estén destinados a la edificación de una vivienda de la misma naturaleza, siempre que se encuentre en fraccionamientos autorizados como de interés social o popular, cuya superficie de terreno sea inferior a 90 metros cuadrados, la construcción no sea mayor de 65 metros cuadrados y que sea financiada por el INFONAVIT, FOVISSSTE u otra instancia oficial dedicada al financiamiento de la vivienda. En este caso, la base para el pago del impuesto será el valor de operación. En todo caso, el Titular de Obras Públicas estará facultado para practicar avalúo del inmueble. En caso de resultar superior al presentado por el contribuyente, el impuesto se calculará sobre el avalúo de la autoridad municipal competente.
+Quedan eximidos de la obligación de presentar el avalúo a que se refiere la fracción I del Artículo anterior, los sujetos que realicen adquisiciones de inmuebles sobre los cuales se encuentre edificada una vivienda de interés social o popular o lotes individualizados que estén destinados a la edificación de una vivienda de la misma naturaleza, siempre que se encuentre en fraccionamientos autorizados como de interés social o popular, cuya superficie de terreno sea inferior a 90 metros cuadrados, la construcción no sea mayor de 65 metros cuadrados y que sea financiada por el INFONAVIT, FOVISSSTE u otra instancia oficial dedicada al financiamiento de la vivienda. En este caso, la base para el pago del impuesto será el valor de operación. En todo caso, la Autoridad Catastral Municipal estará facultada para practicar avalúo del inmueble. En caso de resultar superior al presentado por el contribuyente, el impuesto se calculará sobre el avalúo de la misma autoridad catastral municipal competente.
 
 ###### ARTÍCULO 31.
 
@@ -677,25 +679,41 @@ Los montos correspondientes deberán estar determinados en la Ley de Ingresos de
 
 Una vez instalados los medidores, el pago de los derechos por consumo de agua potable se determinara de conformidad con las cuotas y tarifas establecidas en la Ley de Ingresos para cada Municipio de conformidad con el Artículo 5o de este ordenamiento, salvo el supuesto previsto en el Artículo 71 de esta Ley.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 71.
 
-En los municipios en los que exista organismo operador para la administración y prestación de este servicio público, incluso en los que dichos organismos operadores atiendan a dos o más municipios, las cuotas y tarifas correspondientes a los derechos a que se refiere la presente Sección serán aquellos que como proyecto proponga el órgano de gobierno respectivo, deberán incluirse por el Ayuntamiento correspondiente en su respectiva propuesta de Ley de Ingresos, para su eventual aprobación por el Congreso del Estado Libre y Soberano de Hidalgo, mismas que deberán ser publicadas en el Periódico Oficial del Estado para tener vigencia y aplicabilidad.
+En los municipios en los que exista organismo operador para la administración y prestación de este servicio público, incluso en los que dichos organismos operadores atiendan a dos o más municipios, las cuotas y tarifas correspondientes a los derechos a que se refiere la presente Sección serán aquellos que como proyecto proponga el órgano de gobierno respectivo, deberán incluirse por el Ayuntamiento correspondiente en su respectiva propuesta de Ley de Ingresos, para su eventual aprobación por el Congreso del Estado Libre y Soberano de Hidalgo, mismas que deberán ser publicadas en el Periódico Oficial del Estado para tener vigencia y aplicabilidad. Para tal efecto, bastará que se señale en dicha propuesta que las cuotas y tarifas aplicables corresponderán a aquellas que sean aprobadas al organismo operador por el citado Congreso y publicadas en dicho medio de difusión.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 SMGAGHr es el Salario Mínimo General para el Área Geográfica que corresponde al Estado de Hidalgo vigente en el mes en que se realiza la actualización.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 SMGAGHa es el Salario Mínimo General para el Área Geográfica que corresponde al Estado de Hidalgo vigente en el mes inmediato anterior al que se realiza la actualización.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 CFEr es la tarifa por consumo de energía eléctrica que la Comisión Federal de Electricidad establece para el prestador de servicios y que se encuentra vigente en el mes en que se realiza la actualización.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 CFEa es la tarifa por consumo de energía eléctrica que la Comisión Federal de Electricidad establece para el prestador de servicios y que se encuentra vigente en el mes inmediato anterior a aquél en que se realiza la actualización.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 En ningún caso el factor de actualización será menor a la unidad y tampoco será menor al que hubiese resultado de haber considerado exclusivamente la variación en el Índice Nacional de Precios al Consumidor.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 Las tarifas actualizadas a que se refiere el presente artículo serán utilizadas para calcular los derechos por suministro de agua que correspondan al mes siguiente en que estas hubieran sido actualizadas.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 Los cálculos relativos a la actualización a que se refiere el presente artículo serán elaborados por el prestador de los servicios, a más tardar el día 15 del mes de que se trate, y serán validados por la Secretaría de Finanzas y Administración del Estado de Hidalgo, previo a su entrada en vigor.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 Las cuotas y tarifas actualizadas y validadas, serán publicadas en el portal de Internet del prestador de servicios y de la Secretaría de Finanzas y Administración del Estado de Hidalgo, debiendo mantener en dichos portales, cuando menos, las correspondientes a todos los meses de calendario de los últimos cinco ejercicios fiscales.
 
@@ -1890,3 +1908,11 @@ P.O.22 DE AGOSTO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 322 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO Y EL CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE PRESENTACIÓN DE INICIATIVAS DE LEYES DE INGRESOS.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 402 - LXVI QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE HIDALGO, LA LEY DE HACIENDA DEL ESTADO DE HIDALGO, LA LEY ESTATAL DE DERECHOS, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO, LA LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO Y LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor el 01 de enero del 2026, previa su publicación en el Periódico Oficial del Estado, con excepción de la adición a que se refiere el CAPÍTULO OCTAVO de la Ley de Hacienda del Estado de Hidalgo, que comprende los artículos 74 BIS, 74 TER, 74 QUÁTER, 74 QUINQUIES, 74 SEXIES, 74 SEPTIES, 74 OCTIES y 74 NONIES, que entrará en vigor a partir del 01 de marzo de 2026.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
