@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-35998"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2024-12-31"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2003.
 
@@ -403,9 +403,9 @@ También están obligados a retener y enterar este Impuesto las personas física
 
 En este caso, deberán entregar a la persona física o moral que le proporcione los trabajadores, la constancia de retención correspondiente debidamente avalada por la Secretaría de Hacienda.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-La Federación, el Estado y los Municipios, así como sus organismos descentralizados estarán obligados al pago de este impuesto por las remuneraciones que efectúen con motivo de las actividades que realice su personal dentro del territorio del Estado.
+La Federación, el Estado y los Municipios, así como sus organismos descentralizados, desconcentrados, entidades paraestatales, paramunicipales y los órganos autónomos estarán obligados al pago de este impuesto por las remuneraciones que efectúen con motivo de las actividades que realice su personal dentro del territorio del Estado.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -537,7 +537,9 @@ a).- Las personas morales, cuando en su Acta Constitutiva conste expresamente qu
 
 4.- Asociaciones de Colonos.
 
-b).- Los partidos o asociaciones políticas y religiosas, constituidos conforme a la Ley de la materia;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+b).- Las asociaciones religiosas, constituidas conforme a la Ley de la materia;
 
 c).- Las uniones o asociaciones de agricultores, ganaderos, piscicultores, silvicultores o comunidades;
 
@@ -567,9 +569,9 @@ DEL OBJETO
 
 Es objeto de este impuesto, el pago que realice el usuario por la obtención de servicios de hospedaje, alojamiento o albergue que se proporcione dentro del territorio del Estado, ya sea de forma permanente o temporal, por personas físicas o morales en hoteles, moteles, hosterías, mesones, posadas, albergues, villas, bungalós, paraderos de casas rodantes, casas de huéspedes, ex haciendas, campamentos, casas o departamentos enteros o por habitaciones privadas o compartidas y otros establecimientos de naturaleza similar o análoga, en los que se incluyen los prestadores de servicios bajo la modalidad de tiempo compartido, independientemente de la designación que se les otorgue.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-También, serán objeto de este impuesto la obtención de los servicios de hospedaje, alojamiento o albergue a que se refiere el párrafo anterior, que se contraten mediante plataformas digitales.
+También, serán objeto de este impuesto el pago por la obtención de los servicios de hospedaje, alojamiento o albergue a que se refiere el párrafo anterior, que se contraten mediante plataformas digitales.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -579,27 +581,41 @@ Se entiende por plataforma digital, a la aplicación tecnológica mediante la cu
 
 DEL SUJETO
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 29.
 
-Son sujetos al pago de este impuesto, las personas físicas o morales que dentro del Territorio del Estado de Hidalgo hagan uso de los servicios a que se refiere el Artículo anterior.
+Son sujetos al pago de este impuesto, las personas físicas o morales que paguen por los servicios de hospedaje a que se refiere el artículo anterior.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Son solidariamente responsables del pago de este impuesto en su calidad de retenedores:
+
+I.- Los prestadores de servicios de hospedaje; y
+
+II.- La persona física o moral que opera en su carácter de gestor, intermediario, promotor, facilitador o cualquier otra actividad análoga para permitir a los usuarios contratar servicios de hospedaje a través de plataformas digitales.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 DE LA BASE
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 28], P.O. 31 DE DICIEMBRE DE 2011)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 30.
 
-Es base gravable de este impuesto, el monto total de las contraprestaciones pagadas por los servicios de hospedaje, sin incluir alimentos y demás servicios accesorios.
+Es base gravable de este impuesto, el monto total de las contraprestaciones pagadas por los servicios de hospedaje, sin incluir alimentos y demás servicios accesorios, siempre y cuando en el comprobante fiscal se haga constar en forma expresa y por separado el importe del servicio de hospedaje, así como el desglose de los demás servicios prestados.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-Se consideran contraprestaciones por la prestación de los servicios a que se refiere el presente Capítulo, los pagos totales que realicen los sujetos del impuesto por la obtención de los servicios de hospedaje, así como los intereses, penas convencionales y cualquier otro concepto que se adicione, vinculado a los servicios prestados y que se realicen en efectivo o en especie con deducción de las devoluciones, descuentos, reducciones y bonificaciones correspondientes, sin incluir el Impuesto al Valor Agregado.
+Se consideran contraprestaciones, los pagos que realicen los usuarios por la obtención de los servicios de hospedaje, incluyendo depósitos, anticipos, gastos de toda clase, así como los intereses, penas convencionales y cualquier otro concepto que se adicione, vinculado a los servicios prestados y que se realicen en efectivo o en especie con deducción de las devoluciones, descuentos, reducciones y bonificaciones correspondientes, sin incluir el Impuesto al Valor Agregado.
 
-En los casos de servicios de hospedaje prestados bajo la modalidad de uso de tiempo compartido, será base del impuesto, el ingreso que se obtenga por concepto de cuotas para el uso de las instalaciones.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+En los casos de servicios de hospedaje prestados bajo la modalidad de uso de tiempo compartido, será base del impuesto, el ingreso que se obtenga por el pago de cuotas para el uso de las instalaciones, independientemente de la denominación que se les asigne en la relación contractual.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Cuando se cancelen los servicios de hospedaje convenidos por los que hayan recibido anticipos u otorguen descuentos o bonificaciones, el retenedor compensará en las siguientes declaraciones de pagos mensuales definitivos el monto de dichos conceptos del total de los ingresos por los que deba pagar el impuesto, siempre que expresamente se haga constar que este se hubiere retenido, se cancele o se restituya, según sea el caso.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -615,23 +631,27 @@ Este impuesto se pagará y determinará mediante la aplicación de la tasa del 2
 
 DEL PAGO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 32.
 
-El impuesto a que se refiere el presente Capítulo, se causará en el momento en que se presten los servicios de hospedaje y será retenido por el prestador cuando se reciba el pago de dichos servicios, debiendo enterarlo a la Secretaría de Hacienda, a más tardar, el día 17 del mes inmediato posterior a que este fue retenido.
+El impuesto a que se refiere el presente Capítulo, se causará en el momento en que se hagan exigibles las contraprestaciones y será retenido cuando se reciba el pago de dichos servicios, debiendo enterarlo a la Secretaría de Hacienda, a más tardar, el día 17 del mes inmediato posterior a que este fue retenido.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-Cuando el pago de las contraprestaciones por los servicios de hospedaje se efectúe mediante plataformas digitales, la persona física o moral a que se refiere el tercer párrafo del artículo 28 de la presente ley, estará obligada a retener y enterar el impuesto por dichos servicios. En el supuesto que no se efectúe el pago a través de las referidas plataformas digitales, los prestadores de los servicios de hospedaje señalados en este capítulo, deberán retener y enterar el impuesto a la autoridad fiscal.
+Se entenderá que las contraprestaciones son exigibles cuando el usuario convenga con el prestador de servicios de hospedaje o plataforma digital según corresponda (sic) los términos y condiciones de la prestación de los servicios de hospedaje.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Cuando el pago de las contraprestaciones por los servicios de hospedaje se efectúe mediante plataformas digitales, la persona física o moral a que se refiere el tercer párrafo del artículo 28 de la presente ley, estará obligada a retener y enterar el impuesto por dichos servicios, debiendo proporcionar al prestador de los servicios, constancia de dicha retención. En el supuesto que no se efectúe el pago a través de las referidas plataformas digitales, los prestadores de los servicios de hospedaje señalados en este capítulo, deberán retener y enterar el impuesto a la autoridad fiscal.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 Quien efectúe la retención conforme al párrafo anterior, trasladará el impuesto en forma expresa y por separado a las personas que reciban el servicio.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-Se entenderá por traslado del impuesto, el cobro a cargo que los contribuyentes realicen a las personas que reciban el servicio.
+Se entenderá por traslado del impuesto, el cobro a cargo que los responsables solidarios realicen a las personas que reciban el servicio.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
@@ -641,15 +661,21 @@ Los prestadores de los servicios a que se refiere este Capítulo, así como las 
 
 DE LAS OBLIGACIONES
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 33.
 
-Los prestadores de los servicios de hospedaje están obligados a:
+Además de las obligaciones señaladas en los artículos que anteceden, los retenedores de este impuesto, están obligados a:
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 I.- Inscribirse en el Padrón Estatal de Contribuyentes de la Secretaría de Hacienda, dentro del mes siguiente a la fecha de inicio de sus operaciones, vía internet o mediante las formas oficiales aprobadas por la misma secretaría;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+La Secretaría (sic) Hacienda podrá de oficio inscribir a los responsables solidarios cuando tenga a su disposición informes o documentos que demuestren que realizan actividades por las que deban retener este impuesto;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 II.- Trasladar el impuesto en forma expresa y por separado, en los comprobantes que señale el Código Fiscal del Estado;
 
@@ -657,7 +683,11 @@ II.- Trasladar el impuesto en forma expresa y por separado, en los comprobantes 
 
 III.- Presentar, vía internet o a través de los Centros Regionales de Hacienda mediante las formas oficiales aprobadas por la Secretaría de Hacienda, los avisos que correspondan, conforme al Código Fiscal del Estado de Hidalgo;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
 IV.- Expedir facturas desglosadas en las que se señale el monto del impuesto por la prestación del servicio de hospedaje;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 V.- Llevar un registro contable de los servicios que presten, de las contraprestaciones que reciban o se hagan exigibles y de los comprobantes de pago que expidan;
 
@@ -669,37 +699,51 @@ VI.- Presentar declaraciones mensuales con carácter de definitivas, vía intern
 
 VII.- En los casos en que las personas físicas o morales, cuya casa matriz y sucursales operen en diferentes lugares dentro del Territorio del Estado, deberán presentar una sola declaración en la que se acumulará la base gravable e impuestos a pagar por cada una de ellas.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
-
-Las personas físicas o morales a que se refiere el tercer párrafo del artículo 28 de la presente ley, también se encontrarán obligadas a cumplir con las obligaciones establecidas en este artículo, en su carácter de gestor, intermediarias, promotoras o facilitadoras, cuando a través de ella se efectúe el pago de las contraprestaciones por servicios de hospedaje.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 DE LAS EXCEPCIONES
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 34.
 
-No se causará el impuesto sobre hospedaje por el alojamiento prestado en:
+No se causará el impuesto por la prestación de servicios de hospedaje por el alojamiento prestado en:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 I.- Hospitales;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
 II.- Clínicas;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 III.- Sanatorios;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
 IV.- Asilos;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 V.- Conventos;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
 VI.- Seminarios;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 VII.- Internados;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
 VIII.- Instituciones de asistencia o beneficencia autorizadas por las Leyes correspondientes, ya sean públicas o privadas; y
 
-IX.- El prestado a estudiantes, cuyo servicio derive de contratos de arrendamiento.
+IX. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2025)
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -1235,15 +1279,129 @@ DE LA APLICACIÓN
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+### CAPÍTULO OCTAVO. IMPUESTO A LA VENTA FINAL DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN ENVASE CERRADO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+DEL OBJETO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 74 BIS.- Es objeto de este impuesto la venta final de bebidas con contenido alcohólico en envase cerrado, que se realice en el territorio del Estado.
+
+Para efectos de este impuesto, se entenderá como bebidas con contenido alcohólico, aquellas definidas con tal carácter en la Ley del Impuesto Especial Sobre Producción y Servicios.
+
+Se considerará que la venta final se realiza en el territorio del Estado, cuando en el mismo se realice la entrega material de los bienes objeto de este Capítulo por parte del productor, envasador, distribuidor o importador, según sea el caso, para su posterior venta al público en general o consumo.
+
+Asimismo, se considerará venta final, el faltante de inventario o el consumo propio de las bebidas descritas en el presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+DEL SUJETO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 74 TER.- Son sujetos del pago de este impuesto, las personas físicas y morales que realicen la venta final de bebidas con contenido alcohólico al último adquirente en envase cerrado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+DE LA BASE
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 74 QUÁTER.- Es base gravable de este impuesto el precio de la venta final de las bebidas con contenido alcohólico en envase cerrado, sin incluir el Impuesto al Valor Agregado y el Impuesto Especial sobre Producción y Servicios.
+
+Cuando la contraprestación percibida no sea en dinero, sino total o parcialmente en otros bienes o servicios, se considerará como valor de éstos el de mercado o, en su defecto, el de avalúo. Los mismos se tomarán en cuenta en caso de donación, cuando por ello deba pagar el impuesto establecido en este Capítulo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+DE LA TASA
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 74 QUINQUIES.- El impuesto se pagará aplicando a la base que señala el artículo anterior la tasa del 4.5%.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+DEL PAGO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 74 SEXIES.- El impuesto se causará en el momento en que el enajenante perciba efectivamente el importe correspondiente al precio de venta final de las bebidas con contenido alcohólico objeto del presente Capítulo. Cuando las contraprestaciones se paguen parcialmente el impuesto se calculará aplicando a la parte de la contraprestación pagada la tasa respectiva.
+
+Se considera que se percibe efectivamente el importe correspondiente al precio final, cuando sea cobrado en efectivo, transferencia bancaria, cheque, tarjeta de débito o crédito, en bienes o en servicios, aun cuando aquéllas correspondan a anticipos, depósitos o a cualquier otro concepto sin importar el nombre con el que se les designe, o bien, cuando el interés del acreedor quede satisfecho mediante cualquier forma de extinción de las obligaciones que den lugar a las contraprestaciones.
+
+Este impuesto será enterado a la Autoridad por el enajenante mediante declaración mensual con carácter de definitiva, realizada vía internet o a través de las formas oficiales aprobadas por la Secretaría de Hacienda, dentro del término que no rebase el día 17 del mes calendario siguiente al periodo de causación.
+
+Para el caso de que, durante el periodo a declarar, el contribuyente no cuente con base gravable, deberá presentar la declaración correspondiente a través de los medios señalados en el párrafo anterior.
+
+El pago podrá efectuarse en efectivo, mediante tarjeta bancaria o transferencia electrónica de fondos en las cuentas de la Secretaría de Hacienda en las instituciones autorizadas.
+
+Este impuesto no será acreditable contra otros impuestos locales o federales.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+DE LAS OBLIGACIONES
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 74 SEPTIES.- Los contribuyentes de este impuesto tienen las siguientes obligaciones:
+
+I. Inscribirse en el Padrón Estatal de Contribuyentes de la Secretaría de Hacienda, dentro del mes siguiente a la fecha de inicio de sus operaciones, vía internet o mediante las formas oficiales aprobadas por la misma Secretaría en el Centro Regional de Hacienda de su jurisdicción.
+
+Para efectos de la inscripción a través de medios electrónicos, el contribuyente deberá contar con su Firma Electrónica, expedida por el Servicio de Administración Tributaria.
+
+La Secretaría podrá de oficio inscribir a los sujetos de este impuesto cuando tenga a su disposición informes o documentos que demuestren que realizan actividades por las que deban enterar este impuesto;
+
+II. Las personas físicas o morales, cuya casa matriz y sucursales operen en diferentes lugares dentro del territorio del Estado, deberán presentar una sola declaración en la que se acumulará la base gravable, e impuestos a pagar por cada una de ellas; así como deberán registrar el domicilio de las sucursales que operen dentro del territorio del Estado;
+
+III. Las personas físicas o morales cuya matriz se encuentre ubicada fuera del territorio del Estado y cuenten con sucursales dentro del mismo, deberán dar aviso al Centro Regional de Hacienda correspondiente, respecto de las sucursales que realicen sus operaciones dentro de esta Entidad Federativa, así como del lugar en el que se presentará la declaración que corresponda, en la que acumulará la base gravable del impuesto que tengan en todas las sucursales citadas; así mismo deberán registrar el domicilio de las sucursales que operen dentro del territorio del Estado, así como el domicilio de la casa matriz ubicado fuera del territorio del Estado;
+
+IV. Presentar, vía internet o a través de los Centros Regionales de Hacienda mediante las formas oficiales aprobadas por la Secretaría de Hacienda, los avisos que correspondan, conforme al Código Fiscal del Estado de Hidalgo;
+
+V. Las personas físicas y morales que realicen la venta de los bienes a que se refiere el artículo 74 BIS, trasladarán el impuesto materia del presente Capítulo a los adquirentes de dichos bienes.
+
+El impuesto deberá incluirse en el precio de venta final, sin que se considere que forma parte del precio correspondiente ni se entienda violatorio de los precios o tarifas, incluyendo los oficiales, por lo que no se desglosará en el comprobante que al efecto se emita;
+
+VI. Expedir comprobantes que reúnan los requisitos establecidos en el Código Fiscal de la Federación por cada una de sus operaciones, sin que el impuesto establecido en este apartado se traslade en forma expresa y por separado;
+
+VII. Llevar un registro pormenorizado de las ventas a que se refiere el artículo 74 BIS de esta Ley, por cada establecimiento, local, agencia o sucursal en que se efectúen, identificando los montos de cada una de dichas operaciones y las cantidades que integran la base del impuesto;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+DE LAS EXCEPCIONES
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 74 OCTIES.- No causaran este impuesto:
+
+I. La venta de cerveza en todas sus presentaciones, aguamiel y productos de su fermentación.
+
+II. La venta de bebidas alcohólicas cuando éstas se realicen en botellas abiertas o por copeo, para su consumo en el mismo lugar o establecimiento en el que se enajenen.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+DE LA APLICACIÓN
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+ARTICULO 74 NONIES.- El ingreso que perciba el Estado proveniente del impuesto a que se refiere este capítulo, se destinará de la siguiente forma:
+
+I. El 60% a impulsar la educación;
+
+II. El 20% al sector salud de la Entidad; y
+
+III. El 20% se distribuirá entre los Municipios del Estado.
 
 ## TITULO TERCERO. DE LOS DERECHOS
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-### CAPÍTULO SEGUNDO. DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 75.
 
@@ -1335,7 +1493,7 @@ Los ingresos por derechos estarán regulados por la Ley específica de la materi
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-### CAPÍTULO TERCERO. DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN
+### CAPÍTULO SEGUNDO. DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
 
 ###### ARTICULO 97.
 
@@ -1351,7 +1509,7 @@ ARTICULO 98 BIS.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-### CAPÍTULO CUARTO. DE LA SECRETARÍA DE CONTRALORÍA Y TRANSPARENCIA GUBERNAMENTAL
+### CAPÍTULO TERCERO. DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN
 
 ###### ARTICULO 99.
 
@@ -1367,7 +1525,7 @@ ARTICULO 98 BIS.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
 (REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2012) (F. DE E., P.O. 28 DE ENERO DE 2013)
 
-### CAPÍTULO QUINTO. SECRETARÍA DE OBRAS PÚBLICAS Y ORDENAMIENTO TERRITORIAL
+### CAPÍTULO CUARTO. DE LA SECRETARÍA DE CONTRALORÍA Y TRANSPARENCIA GUBERNAMENTAL
 
 ###### ARTICULO 102.
 
@@ -1385,7 +1543,7 @@ ARTICULO 103 TER.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-### CAPÍTULO SEXTO. DE LA SECRETARÍA DE SALUD
+### CAPÍTULO QUINTO. SECRETARÍA DE OBRAS PÚBLICAS Y ORDENAMIENTO TERRITORIAL
 
 ###### ARTICULO 104.
 
@@ -1401,13 +1559,21 @@ ARTICULO 103 TER.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-### CAPÍTULO SÉPTIMO. DE LA PROCURADURÍA GENERAL DE JUSTICIA
+### CAPÍTULO SEXTO. DE LA SECRETARÍA DE SALUD
 
 ###### ARTICULO 107.
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
+### CAPÍTULO SÉPTIMO. DE LA PROCURADURÍA GENERAL DE JUSTICIA
+
+###### ARTICULO 108.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
 ### CAPÍTULO SÉPTIMO BIS. SECRETARÍA DE MEDIO AMBIENTE Y RECURSOS NATURALES
 
@@ -1416,12 +1582,6 @@ ARTICULO 108 A.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 ARTICULO 108 B.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
 ARTICULO 108 C.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2014)</small>
-
-###### ARTICULO 108.
-
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
@@ -1445,10 +1605,6 @@ ARTICULO 108 BIS.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
 ### CAPÍTULO NOVENO. DE LOS ORGANISMOS DESCENTRALIZADOS
 
-### CAPITULO UNICO
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
 ###### ARTICULO 109.
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
@@ -1461,7 +1617,7 @@ ARTICULO 108 BIS.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 111.
 
@@ -1489,7 +1645,7 @@ VIII.- Por la venta de artesanías.
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 112.
 
@@ -1517,13 +1673,17 @@ IX.- Las indemnizaciones.
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 113.
 
 Las participaciones y aportaciones por ingresos federales, se percibirán de acuerdo a lo dispuesto en la Ley de Coordinación Fiscal Federal, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos. Las cuales ingresarán íntegramente a la Secretaría de Hacienda.
 
 ## TITULO SEPTIMO. DE LOS INGRESOS EXTRAORDINARIOS
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 114.
 
@@ -1808,3 +1968,11 @@ La aplicación de la disposición contenida en el párrafo que antecede no dará
 CUARTO. Las reformas a que refiere el artículo 41 de la Ley de Hacienda del Estado de Hidalgo, serán aplicables a las obligaciones contraídas desde el 01 de enero de 2020.
 
 La aplicación de la disposición contenida en el párrafo que antecede no dará lugar a devolución o compensación alguna.
+
+P.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 402 - LXVI QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE HIDALGO, LA LEY DE HACIENDA DEL ESTADO DE HIDALGO, LA LEY ESTATAL DE DERECHOS, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO, LA LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO Y LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor el 01 de enero del 2026, previa su publicación en el Periódico Oficial del Estado, con excepción de la adición a que se refiere el CAPÍTULO OCTAVO de la Ley de Hacienda del Estado de Hidalgo, que comprende los artículos 74 BIS, 74 TER, 74 QUÁTER, 74 QUINQUIES, 74 SEXIES, 74 SEPTIES, 74 OCTIES y 74 NONIES, que entrará en vigor a partir del 01 de marzo de 2026.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
