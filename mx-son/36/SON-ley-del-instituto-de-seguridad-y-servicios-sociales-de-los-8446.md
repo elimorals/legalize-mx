@@ -4,7 +4,7 @@ identifier: "SON-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-8446
 country: "mx"
 rank: "ley"
 publication_date: "1962-12-31"
-last_updated: "2022-07-07"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Sección Tercera del Boletín Oficial del Gobierno del Estado de Sonora, lunes 31 de diciembre de 1962.
 
@@ -210,6 +210,16 @@ Para efectos de que el Instituto pueda prestar un mejor servicio a sus derechoha
 Los servicios médicos que tiene encomendados el Instituto en los términos de los capítulos relativos a los seguros de enfermedades profesionales, no profesionales y de maternidad, los prestará directamente, o bien, a través de personas físicas o morales con las cuales se hayan celebrado los contratos respectivos.
 
 En tales casos, las personas que hubieren suscrito esos contratos, estarán obligadas a proporcionar al Instituto los informes y estadísticas médicas o administrativas que éste les solicite, sujetándose a las instrucciones, normas técnicas, inspecciones y vigilancia prescritas por el Instituto.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 9o. Ter.
+
+El Instituto deberá garantizar el acceso efectivo al servicio de telemedicina, brindando consultas médicas a distancia por medios electrónicos y tecnológicos seguros, confiables, y accesibles, ya sea de manera directa o mediante la participación de personas físicas o morales conforme a la normatividad aplicable. Este servicio deberá estar disponible, al menos, para atención médica general, seguimiento de padecimientos crónicos y orientación médica básica, con apego a los lineamientos y protocolos que establezca el Reglamento de Servicios Médicos.
+
+La telemedicina tendrá carácter complementario, y no podrá sustituir los servicios presenciales cuando la naturaleza del padecimiento o tratamiento lo requiera.
+
+Las personas físicas o morales que presten estos servicios deberán cumplir con los estándares técnicos y de confidencialidad que establezca el Instituto. Estarán también obligadas a proporcionar al Instituto los informes y estadísticas médicas o administrativas que éste les solicite, sujetándose a las instrucciones, normas técnicas, inspecciones y vigilancia prescritas por el Instituto.
 
 ###### Artículo 10.
 
@@ -2344,3 +2354,15 @@ B.O. 7 DE JULIO DE 2022.
 ###### ARTÍCULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+B.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 84, QUE ADICIONA UN ARTÍCULO 9 TER A LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora contará con un plazo de 90 días para hacer las modificaciones respectivas al Reglamento de Servicios Médicos del ISSSTESON.
