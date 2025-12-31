@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2025-08-09"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -2619,11 +2619,11 @@ XXV. Llevar el registro y control de los proveedores y contratistas que hayan si
 
 XXVI. Imponer la sanción económica y administrativa, procediendo a excluir del padrón correspondiente al prestador o proveedor de bienes y servicios y/o contratista de obra que no solvente dentro del término conferido las observaciones formuladas;
 
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
+XXVII. Ejercer las atribuciones en materia de transparencia, acceso a la información pública y protección de datos personales en términos de la normatividad aplicable, así como establecer criterios y determinaciones en los procedimientos correspondientes, garantizando el ejercicio de los derechos de acceso a la información pública y la protección de datos personales en posesión de sujetos obligados del Poder Ejecutivo y Municipios por conducto del Organismo Público Desconcentrado destinado para tales efectos.
 
-XXVII. Formular en el ámbito de su competencia los lineamientos, criterios, determinaciones y resoluciones necesarios que deban ser aplicados por la Administración Pública Estatal y como órgano interno de control en materia de transparencia, dar el debido cumplimiento a las recomendaciones que emita el Instituto de Acceso a la Información Pública y Protección de Datos Personales, sancionado (sic) en su caso a los órganos administrativos del Poder Ejecutivo del Gobierno del Estado, que por negligencia u omisión incumplan con las mismas;
+Así mismo fungir como órgano interno de control en materia de acceso a la información pública, transparencia y protección de datos personales, realizando el debido cumplimiento a las recomendaciones que emita el Organismo Público Desconcentrado destinado para tales efectos; sancionando en su caso a los órganos administrativos del Poder Ejecutivo del Gobierno del Estado, que por negligencia u omisión incumplan con las mismas;
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -4290,3 +4290,17 @@ P.O. 9 DE AGOSTO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 870.- MEDIANTE EL CUAL REFORMAN LA FRACCIÓN XXVII DEL ARTÍCULO 47, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido del presente Decreto.
+
+TERCERO. La persona titular del Poder Ejecutivo del Estado de Oaxaca deberá expedir las adecuaciones correspondientes a los reglamentos y demás disposiciones aplicables, incluida la emisión del Reglamento Interno de Transparencia para el Pueblo de Oaxaca, dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, a fin de armonizarlos a lo previsto en el presente Decreto.
+
+CUARTO. Las Secretarías de Finanzas, de Administración y de Honestidad, Transparencia y Función Pública, en uso de sus facultades legales, realizarán todos los actos concernientes para el debido cumplimiento del presente Decreto.
+
+QUINTO. En un plazo de ciento ochenta días naturales posteriores a la entrada en vigor del presente Decreto, la Secretaría de Honestidad, Transparencia y Función Pública deberá adecuar y armonizar su normatividad respectiva para el cumplimiento del presente Decreto.
