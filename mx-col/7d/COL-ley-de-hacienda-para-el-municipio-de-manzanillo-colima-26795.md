@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-manzanillo-colima-26795"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2025-12-02"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -225,9 +225,9 @@ Para los fines fiscales de este impuesto, el valor de los predios determinado en
 
 Este impuesto se determinará y liquidará de conformidad con las cuotas y tasas que a continuación se señalan:
 
-I. Para los predios urbanos edificados se aplicará la siguiente:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-TARIFA
+I. Para los predios urbanos edificados se aplicará la siguiente:
 
 (VÉASE ARCHIVO ANEXO)
 
@@ -377,21 +377,17 @@ IX. La prescripción positiva;
 
 X. La división de la copropiedad y la disolución de la sociedad conyugal, por la parte que se adquiera en demasía del por ciento que le correspondía al copropietario o cónyuge;
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 24 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-XI. La afectación de bienes inmuebles o derechos reales que se realice a través del fideicomiso, en los siguientes casos.
-
-a) En el acto en el que el fideicomitente designe o se obliga a designar fideicomisario diverso de él y siempre que no tenga derecho a readquirir del fiduciario los bienes.
-
-b) En el acto en el que el fideicomitente pierda el derecho a readquirir los bienes del fiduciario, si se hubiera reservado tal derecho.
-
-Cuando el fideicomitente reciba certificados de participación por los bienes inmuebles que afecte en fideicomiso, se considera realizada la transmisión o adquisición de la propiedad de dichos bienes inmuebles al momento en que el fideicomitente reciba los certificados, salvo que se trate de acciones.
+XI. La afectación de bienes inmuebles o derechos reales que se realicen a través del fideicomiso.
 
 XII. (DEROGADA, P.O. 24 DE AGOSTO DE 2019)
 
 XIII. (DEROGADA, P.O. 24 DE AGOSTO DE 2019)
 
-XIV. (DEROGADA, P.O. 24 DE AGOSTO DE 2019)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XIV. Cualquier otro hecho, acto, resolución o contrato por medio de los cuales haya transmisión o adquisición de dominio de bienes inmuebles o derechos reales constituidos sobre los mismos, ya sea que comprendan el suelo, o el suelo y las construcciones adheridas a él, tratándose de permutas, se considerará que se efectúan dos adquisiciones.
 
 XV. La permuta en la que se considerará que se efectúan dos adquisiciones; y
 
@@ -409,7 +405,9 @@ II. Los adquirentes de certificados de participación inmobiliaria, de vivienda 
 
 III. Los adquirentes de derechos de usufructo en la constitución y en la transmisión del mismo;
 
-IV. Los adquirentes de la propiedad a través de fideicomisos traslativos de dominio;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+IV. Los adquirentes de la propiedad a través de fideicomisos traslativos de dominio o derechos reales; Los fideicomitentes mientras sean poseedores del predio objeto del fideicomiso, los fideicomisarios que estén en posesión del predio, aun cuando no se les transmita la propiedad, en cumplimiento del fideicomiso y los usufructuarios;
 
 V. Los adquirentes de la propiedad de bienes inmuebles por virtud de la fusión o disolución de sociedades civiles o mercantiles; de la amortización de capitales y de la disolución de la copropiedad o de la sociedad conyugal;
 
@@ -435,6 +433,10 @@ II. Quienes en nombre y por cuenta de otra persona hayan transmitido bienes o de
 
 III. Los servidores y notarios públicos que expidan testimonios o den trámite a algún documento en que se consignen hechos, actos, resoluciones o contratos objeto de este impuesto sin que se encuentre cubierto, independientemente de las sanciones por las infracciones en que se hubiere incurrido.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+IV. Los fiduciarios respecto de los bienes sujetos al fideicomiso.
+
 ###### ARTICULO 24.
 
 En todo caso, los bienes inmuebles objeto del impuesto garantizarán preferentemente el pago del mismo.
@@ -445,7 +447,9 @@ En todo caso, los bienes inmuebles objeto del impuesto garantizarán preferentem
 
 Será base de este impuesto el valor que resulte mayor entre el valor catastral, el de avalúo comercial y el señalado como precio de la transmisión, vigente en el momento en que se realice la operación objeto del impuesto.
 
-A petición del contribuyente se pondrá el valor de la transacción, siempre y cuando éste sea mayor al valor catastral.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+A petición del contribuyente se pondrá el valor de la transacción, siempre y cuando éste sea mayor al valor catastral y que el valor del avalúo comercial.
 
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2013)</small>
 
@@ -457,25 +461,21 @@ La base de este impuesto, tratándose de transmisión de la propiedad que realic
 
 En los casos en que se transmita la nuda propiedad de inmuebles, la base del impuesto será el 50 por ciento del valor aplicable. Al extinguirse el usufructo se pagará el impuesto que resulte del otro 50 por ciento de la base.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 27.
 
-La base del impuesto será tasa cero en los siguientes casos:
+La base del impuesto será el 50% por ciento, en el siguiente caso:
 
 I. En las donaciones entre ascendientes o descendientes en línea recta en primer y segundo grados y entre consortes;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2012)</small>
+II. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2025)
 
-II. En las adjudicaciones en juicios sucesorios y en remates judiciales;
+III. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2025)
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-III. En las transmisiones que se realicen con motivo de la disolución de la sociedad conyugal; y
-
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
-
-IV. En los casos en que el sujeto del impuesto sea madre soltera, jefa de familia, de nacionalidad mexicana, con hijos menores de edad que dependan económicamente de ella o que posean una discapacidad, siempre y cuando la base del impuesto sea menor a 4400 Unidades de UMA. La Tesorería Municipal emitirá los requisitos para acreditar las condicionantes señaladas.
+IV. En los casos en que el sujeto del impuesto sea madre soltera, jefa de familia, de nacionalidad mexicana, con hijos menores de edad que dependan económicamente de ella o que posean una discapacidad, o persona adulta mayor a 65 años, siempre y cuando la base del impuesto sea menor a 4400 Unidades de UMA. La Tesorería Municipal emitirá los requisitos para acreditar las condicionantes señaladas.
 
 #### SECCION CUARTA. DEL PAGO
 
@@ -501,11 +501,9 @@ IV. Al protocolizarse o inscribirse el reconocimiento judicial de la prescripci�
 
 V. En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en el Registro para poder surtir efectos ante terceros en los términos del derecho civil; y si no están sujetos a esta formalidad, al adquirirse el dominio conforme a las leyes.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
-
 ###### ARTICULO 29.
 
-Si el pago del impuesto se refiere a la afectación de bienes en el tipo de fideicomiso a que se refiere la fracción XI del artículo 21 de esta Ley, deberá depositarse ante la Tesorería Municipal, dentro de los quince días siguientes al otorgamiento de la escritura de constitución, la cantidad equivalente al impuesto, tomando en cuenta la base del impuesto y al operarse la transmisión de la propiedad al fideicomisario se hará la liquidación definitiva del impuesto sobre la base vigente en esta fecha y se pagará o devolverá la diferencia que resulte.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2025)
 
 ###### ARTICULO 30.
 
@@ -553,7 +551,9 @@ I. Acompañar copia certificada del documento donde conste el acto o contrato de
 
 II. Acompañar copia certificada de la resolución respectiva en que conste, en su caso, la fecha en que causó ejecutoria, cuando la adquisición de la propiedad se hubiere realizado como consecuencia de resolución administrativa o judicial; y
 
-III. Acreditar que se encuentra al corriente del pago del impuesto predial o de cualquier otro gravamen fiscal derivado de los bienes inmuebles en los términos de esta Ley.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+III. Acreditar que se encuentra al corriente del pago del impuesto predial o de cualquier otro gravamen fiscal, además de los adeudos en la Comisión de Agua Potable, Drenaje y Alcantarillado de Manzanillo y, multas generadas por el Municipio de Manzanillo, derivadas de los bienes inmuebles en los términos de esta Ley.
 
 ###### ARTICULO 33.
 
@@ -837,27 +837,23 @@ DE 2016)
 
 UMA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA [N. DE E. CON SUS NUMERALES], P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-I. Permiso de construcción o ampliación, reparación o remodelación, incluyendo inspección de la obra, por metro cuadrado, según el tipo, de acuerdo a la siguiente clasificación:
+I. Por trámite de PERMISO DE CONSTRUCCIÓN, AMPLIACIÓN, REPARACIÓN, REMODELACIÓN, REHABILITACIÓN incluyendo inspección de la obra, por metro cuadrado, según el tipo, de acuerdo a la siguiente clasificación:
 
-a) Habitacional densidad alta:
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+a) Habitacional densidad alta (H4):
 
 1.- Vivienda unifamiliar
 
-Hasta 40 M2. 0.00
+- Hasta 40 M2 0.02
 
-De más de 40 M2 0.03
+- De más de 40 M2 0.03
 
-2.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
+2. Vivienda Plurifamiliar Horizontal 0.05
 
-3.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)
+3. Vivienda Plurifamiliar Vertical 0.10
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
-
-b) Habitacional densidad media: 0.08
+b) Habitacional densidad media (H3):
 
 1.- Vivienda unifamiliar 0.08
 
@@ -865,51 +861,51 @@ b) Habitacional densidad media: 0.08
 
 3.- Vivienda plurifamiliar vertical 0.10
 
-(ADICIONADO, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 15 DE MAYO DE 2006)
-
 4.- Vivienda unifamiliar en usos mixtos 0.08
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+c) Habitacional densidad baja (H2)
 
-c) Habitacional densidad baja: 0.19
+1.- Vivienda unifamiliar 0.19
 
-1.- Vivienda campestre o aislada 0.19
+2.- Vivienda Plurifamiliar Horizontal 0.21
 
-2.- Vivienda unifamiliar 0.19
+3.- Vivienda Plurifamiliar Vertical 0.24
 
-3.- Vivienda plurifamiliar horizontal 0.21
+d) Habitación campestre o aislada (H1): 0.19
 
-4.- Vivienda plurifamiliar vertical 0.24
+e) Habitacional Rural (HRUR) 0.08
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+f) Comercios y Servicios 0.24
 
-d) Habitación densidad baja en zona rural: 0.08
+g) Turístico 0.47
 
-e) Comercio y servicios 0.24
+h) Oficinas administrativas 0.15
 
-f) Turístico 0.47
+i) Abastos, almacenamientos y talleres 0.16
 
-g) Oficinas administrativas 0.15
+j) Manufacturas 0.16
 
-h) Abastos, almacenamientos y talleres 0.16
+k) Industriales 0.16
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+l) Logísticos Industriales y Portuarios (ULIP) 0.47
 
-i) Manufacturas y usos industriales: 0.16
+m) plataformas 0.08
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+n) Equipamiento turístico (ET) 0.47
 
-j) Plataformas 0.08
+o) Espacios Verdes privados 0.10
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+p) Infraestructura 0.47
 
-k) Otros 0.00 a 0.47
+q) Otros 0.02 a 0.47
 
 Cuando la construcción tenga como consecuencia la demolición por más de 40.00 M2., el pago del derecho por los conceptos anteriores aumentará en un 10 por ciento.
 
 Las áreas de estacionamiento en los anteriores conceptos se consideran en el cobro, con el 10 por ciento de las mismas tarifas, de acuerdo a la superficie habilitada para este servicio, excepto habitacional unifamiliar de cualquier densidad.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2013)</small>
+a) Fachadas en general 2.50
+
+b) al i) Derogados. (sic)
 
 Cuando el permiso de la obra o construcción sea por regularización el pago del derecho por los conceptos anteriores aumentará en un 50%, entiéndase por regularizaciones a todas las obras construidas sin permiso previo y las que se encuentran en proceso de construcción. Cuando el permiso de obra para construcción de vivienda sea para su regularización se sujetará a la tarifa establecida en los incisos a), b), c) y d) de esta fracción.
 
@@ -1075,9 +1071,11 @@ V. Para obras con una superficie de construcción de 301 M2 en adelante 18 meses
 
 En caso de refrendo del permiso, de conformidad a lo establecido en el reglamento de la materia, por cada bimestre adicional o fracción se pagará el 10 por ciento del importe del permiso inicial, no siendo refrendables aquellos permisos cuya obra no se haya iniciado, en cuyo caso será necesario obtener nuevo permiso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTICULO 64.
 
-Los derechos de alineamiento, designación de número oficial, dictamen de vocación del suelo e inspección, se pagarán de conformidad con la siguiente tarifa:
+Los derechos de alineamiento, designación de número oficial, informe de factibilidad de uso de suelo, dictamen de vocación del suelo e inspección, se pagarán de conformidad con la siguiente tarifa:
 
 (REFORMADA
 
@@ -1091,203 +1089,431 @@ DE 2016)
 
 UMA
 
-I. Alineamiento por metro lineal de frente, según el tipo de construcción:
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS Y NUMERALES], P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-a) Habitacional densidad alta 0.06
+I. Por concepto de ALINEAMIENTO, el cobro será por metro lineal de frente, según el tipo de construcción:
 
-b) Habitacional densidad media 0.11
+a) Habitacional densidad alta (H4) 0.06
 
-c) Habitacional densidad baja 0.28
+b) Habitacional densidad media (H3) 0.11
 
-d) Alojamiento temporal 0.28
+c) Habitacional densidad baja (H2) 0.28
 
-e) Comercio y servicios 0.31
+d) Habitación campestre o aislada (H1) 0.31
 
-f) Oficinas administrativas 0.28
+e) Habitacional Rural (HRUR) 0.11
 
-g) Abastos, almacenamientos y talleres 0.11
+f) Turístico
 
-h) Manufacturas y usos industriales
+1.- Turístico Ecológico, densidad mínima (TE1) 0.31
+
+2.- Turístico Ecológico, densidad baja (TE2) 0.31
+
+3.- Turístico Hotelero, densidad baja (TH2) 0.31
+
+4.- Turístico Ecológico, densidad media (TH3) 0.31
+
+5.- Turístico Ecológico, densidad alta (TH4) 0.31
+
+g) Alojamiento Temporal 0.28
+
+h) Comercios y servicios 0.31
+
+i) Oficinas administrativas 0.28
+
+j) Abastos, almacenamientos y talleres 0.11
+
+k) Manufacturas:
 
 1.- Manufacturas domiciliarias 0.06
 
 2.- Manufacturas menores 0.08
 
-3.- Industria ligera de bajo impacto 0.11
+l) Industrial:
 
-4.- Industria de mediano impacto 0.20
+1.- Industria ligera de bajo impacto 0.11
 
-5.- Industria pesada de alto impacto y riesgo 0.28
+2.- Industria de mediano impacto 0.20
 
-i) Turístico 0.31
+3.- Industria pesada de alto impacto y riesgo 0.28
 
-j) Zona rural 0.05
+m) Logísticos Industriales y Portuarios (ULIP) 0.40
 
-k) Otros de 0.06 a 0.31
+n) Equipamiento:
 
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+1.- Equipamiento Especial (EE) 0.31
 
-l) Habitacional densidad baja en zona residencial 0.28
+2.- Equipamiento Regional (ER) 0.31
 
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+3.- Equipamiento Ejidal (EEJ) 0.31
 
-m) habitacional en usos mixtos 0.11
+4.- Equipamiento Turístico (ET) 0.40
 
-II. Designación del número oficial, por evento, según el tipo de construcción:
+5.- Espacios Verdes Abiertos Privados (EVP) 0.31
 
-a) Habitacional densidad alta 0.36
+ñ) Infraestructura (EIN) y Derechos de vías por paso de Infraestructura (IN) 0.06 a 0.40
 
-b) Habitacional densidad media 0.63
+o) Actividades extractivas 0.06 a 0.40
 
-c) Habitacional densidad baja 1.85
+p) Parque natural 0.06 a 0.40
 
-d) Alojamiento temporal 1.85
+q) Otros 0.06 a 0.40
 
-e) Comercio y servicios 2.47
+r) Habitacional densidad alta en usos mixtos 0.11
 
-f) Oficinas administrativas 2.47
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS Y NUMERALES], P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-g) Abastos, almacenamientos y talleres 1.85
+II. Por concepto de Designación del número oficial, por evento, según el tipo de construcción:
 
-h) Manufacturas y usos industriales:
+a) Habitacional densidad alta (H4) 0.35
+
+b) Habitacional densidad media (H3) 0.63
+
+c) Habitacional densidad baja (H2) 1.85
+
+d) Habitación campestre o aislada (H1) 1.85
+
+e) Habitacional Rural (HRUR) 0.63
+
+f) Turístico
+
+1.- Turístico Ecológico, densidad mínima (TE1) 2.47
+
+2.- Turístico Ecológico, densidad baja (TE2) 2.47
+
+3.- Turístico Hotelero, densidad baja (TH2) 2.47
+
+4.- Turístico Ecológico, densidad media (TH3) 2.47
+
+5.- Turístico Ecológico, densidad alta (TH4) 2.47
+
+g) Alojamiento Temporal. 1.85
+
+h) Comercios y servicios 2.47
+
+i) Oficinas administrativas 2.47
+
+j) Abastos, almacenamientos y talleres 1.8
+
+k) Manufacturas:
 
 1.- Manufacturas domiciliarias 0.36
 
 2.- Manufacturas menores 0.36
 
-3.- Industria ligera de bajo impacto 1.85
+l) Industrial:
 
-4.- Industria de mediano impacto 1.85
+1.- Industria ligera de bajo impacto 1.85
 
-5.- Industria pesada de alto impacto y riesgo 1.85
+2.- Industria de mediano impacto 1.85
 
-i) Turístico 2.47
+3.- Industria pesada de alto impacto y riesgo 1.85
 
-j) Zona rural 1.00
+m) Logísticos Industriales y Portuarios (ULIP) 2.47
 
-k) Otros de 0.36 a 2.47
+n) Equipamiento:
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+1.- Equipamiento Especial (EE) 2.47
 
-III. Informe de factibilidad de uso de suelo, por evento, de acuerdo a la siguiente tarifa:
+2.- Equipamiento Regional (ER) 2.47
 
-a) Habitacional densidad alta 2.00
+3.- Equipamiento Ejidal (EEJ) 2.47
 
-b) Habitacional densidad media 2.50
+4.- Equipamiento Turístico (ET) 2.47
 
-c) Habitacional densidad baja 3.00
+5.- Espacios Verdes Abiertos Privados (EVP) 2.47
 
-d) Alojamiento temporal 2.00
+ñ) Infraestructura (EIN) y Derechos de vías por paso de Infraestructura (IN) 2.47
 
-e) Comercio y servicios 4.00
+o) Actividades extractivas 2.47
 
-f) Oficinas administrativas 6.00
+p) Parque natural 2.47
 
-g) Abastos, almacenamientos y talleres 4.00
+q) Otros 0.35 a 2.47
 
-h) Manufacturas y usos industriales 3.00
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS Y NUMERALES], P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-i) Turístico 6.00
+III. Por concepto de INFORME de factibilidad de uso de suelo, por evento, de acuerdo a la siguiente tarifa:
 
-j) Otros 6.00
+a) Habitacional densidad alta (H4) 2.00
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2003)</small>
+b) Habitacional densidad media (H3) 2.50
 
-IV. Dictamen de vocación del uso de suelo, por evento;
+c) Habitacional densidad baja (H2) 3.00
+
+d) Habitación campestre o aislada (H1) 4.00
+
+e) Habitacional Rural (HRUR) 2.50
+
+f) Turístico:
+
+1.- Turístico Ecológico, densidad mínima (TE1) 6.00
+
+2.- Turístico Ecológico, densidad baja (TE2) 6.00
+
+3.- Turístico Hotelero, densidad baja (TH2) 6.00
+
+4.- Turístico Ecológico, densidad media (TH3) 6.00
+
+5.- Turístico Ecológico, densidad alta (TH4) 6.00
+
+g) Alojamiento Temporal 2.00
+
+h) Comercios y servicios 6.00
+
+i) Oficinas administrativas 6.00
+
+j) Abastos, almacenamientos y talleres 4.00
+
+k) Manufacturas:
+
+1.- Manufacturas domiciliarias 3.00
+
+2.- Manufacturas menores 3.00
+
+l) Industrial:
+
+1.- Industria ligera de bajo impacto 6.00
+
+2.- Industria de mediano impacto 6.00
+
+3.- Industria pesada de alto impacto y riesgo 6.00
+
+m) Logísticos Industriales y Portuarios (ULIP) 6.00
+
+n) Equipamiento:
+
+1.- Equipamiento Especial (EE) 6.00
+
+2.- Equipamiento Regional (ER) 6.00
+
+3.- Equipamiento Ejidal (EEJ) 6.00
+
+4.- Equipamiento Turístico (ET) 6.00
+
+5.- Espacios Verdes Abiertos Privados (EVP) 6.00
+
+ñ) Infraestructura (EIN) y Derechos de vías por paso de Infraestructura (IN) 6.00
+
+o) Actividades extractivas 6.00
+
+p) Parque natural 6.00
+
+q) Otros 2.00 a 6.00
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+IV. Por concepto de DICTAMEN DE VOCACIÓN DEL USO DEL SUELO, por evento.
+
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS Y NUMERALES], P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 A) De uso y destino para certificaciones en general y en particular:
 
-a) Habitacional densidad alta 1.21
+a) Habitacional densidad alta (H4) 1.21
 
-b) Habitacional densidad media 2.42
+b) Habitacional densidad media (H3) 2.42
 
-c) Habitacional densidad baja 4.84
+c) Habitacional densidad baja (H2) 9.68
 
-d) Vivienda campestre o aislada 3.00
+d) Habitación campestre o aislada (H1) 3.00
 
-e) Alojamiento temporal 6.05
+e) Habitacional Rural (HRUR) 2.42
 
-f) Comercio y servicios 6.05
+f) Turístico:
 
-g) Turístico 7.26
+1.- Turístico Ecológico, densidad mínima (TE1) 7.26
 
-h) Oficinas administrativas 6.05
+2.- Turístico Ecológico, densidad baja (TE2) 7.26
 
-i) Abastos, almacenamiento y talleres 4.84
+3.- Turístico Hotelero, densidad baja (TH2) 7.26
 
-j) Manufacturas y usos industriales 2.40
+4.- Turístico Ecológico, densidad media (TH3) 7.26
 
-k) Otros de 1.21 a 7.26
+5.- Turístico Ecológico, densidad alta (TH4) 7.26
 
-B) De uso, destino y número oficial, para solicitar autorización de subdividir, fusionar, relotificar o edificar en predios que cuenten con incorporación municipal:
+g) Alojamiento Temporal 6.05
 
-a) Habitacional densidad alta 2.24
+h) Comercios y servicios 6.05
 
-b) Habitacional densidad media 4.84
+i) Oficinas administrativas 6.05
 
-c) Habitacional densidad baja 9.68
+j) Abastos, almacenamientos y talleres 4.84
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+k) Manufacturas:
 
-d) Habitación en zona rural 2.24
+1.- Manufacturas domiciliarias 2.40
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+2.- Manufacturas menores 2.40
 
-e) Comercio y servicios 24.20
+l) Industrial:
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+1.- Industria ligera de bajo impacto 7.26
 
-f) Turístico 24.20
+2.- Industria de mediano impacto 7.26
 
-g) Oficinas administrativas 16.94
+3.- Industria pesada de alto impacto y riesgo 7.26
 
-h) Abastos, almacenamientos y talleres 24.20
+m) Logísticos Industriales y Portuarios (ULIP) 9.68
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+n) Equipamiento:
 
-i) Manufacturas y usos industriales 3.63
+1.- Equipamiento Especial (EE) 6.05
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2006)</small>
+2.- Equipamiento Regional (ER) 6.05
 
-j) Otros 24.20
+3.- Equipamiento Ejidal (EEJ) 6.05
 
-1.- Manufacturas domiciliarias 1.21
+4.- Equipamiento Turístico (ET) 6.05
 
-2.- Manufacturas menores 2.42
+5.- Espacios Verdes Abiertos Privados (EVP) 6.05
 
-3.- Industria ligera de bajo impacto 3.63
+ñ) Infraestructura (EIN) y Derechos de vías por paso de Infraestructura (IN) 9.68
 
-4.- Industria de mediano impacto 3.63
+o) Actividades extractivas 9.68
 
-5.- Industria pesada de alto impacto y riesgo 3.63
+p) Parque natural 9.68
 
-j) Otros de 7.26 a 24.20
+q) Otros 1.21 a 9.68
 
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS Y NUMERALES], P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-k) Habitacional densidad baja en zona residencial 9.68
+B) Por concepto de USO, DESTINO Y NÚMERO OFICIAL, para solicitar autorizaciones de subdividir, fusionar, relotificar o edificar en predios que cuenten con incorporación municipal:
 
-Además de las cuotas previstas en el presente inciso, los solicitantes de este servicio pagarán los derechos por alineamiento y designación de número oficial de acuerdo a las cuotas señaladas en las fracciones I y II de este artículo.
+a) Habitacional densidad alta (H4) 2.24
 
-C) De uso, destino y trazo para autorización de obras de urbanización para expansión o renovación urbana.
+b) Habitacional densidad media (H3) 4.84
 
-a) Habitacional densidad alta 2.42
+c) Habitacional densidad baja (H2) 9.68
 
-b) Habitacional densidad media 4.84
+d) Habitación campestre o aislada (H1) 6.05
 
-c) Habitacional densidad baja 9.68
+e) Habitacional Rural (HRUR) 2.24
 
-d) Vivienda campestre o aislada 12.10
+f) Turístico:
 
-e) Comercio y servicios de 9.68 a 24.20
+1.- Turístico Ecológico, densidad mínima (TE1) 24.20
 
-f) Turístico de 14.52 a 24.20
+2.- Turístico Ecológico, densidad baja (TE2) 24.20
 
-g) Oficinas administrativas 16.94
+3.- Turístico Hotelero, densidad baja (TH2) 24.20
 
-h) Manufacturas y usos industriales 3.63
+4.- Turístico Ecológico, densidad media (TH3) 24.20
 
-i) Otros de 2.42 a 24.20
+5.- Turístico Ecológico, densidad alta (TH4) 24.20
+
+g) Alojamiento Temporal 9.68
+
+h) Comercios y servicios 24.20
+
+i) Oficinas administrativas 16.94
+
+j) Abastos, almacenamientos y talleres 24.20
+
+k) Manufacturas:
+
+1.- Manufacturas domiciliarias 3.63
+
+2.- Manufacturas menores 3.63
+
+l) Industrial:
+
+1.- Industria ligera de bajo impacto 24.20
+
+2.- Industria de mediano impacto 24.20
+
+3.- Industria pesada de alto impacto y riesgo 24.20
+
+m) Logísticos Industriales y Portuarios (ULIP) 24.20
+
+n) Equipamiento:
+
+1.- Equipamiento Especial (EE) 16.94
+
+2.- Equipamiento Regional (ER) 16.94
+
+3.- Equipamiento Ejidal (EEJ) 16.94
+
+4.- Equipamiento turístico (ET) 24.20
+
+5.- Espacios Verdes Abiertos Privados (EVP) 16.94
+
+ñ) Infraestructura (EIN) y Derechos de vías por paso de Infraestructura (IN) 24.20
+
+o) Actividades extractivas 24.20
+
+p) Parque natural. 16.94
+
+q) Otros. 2.24 a 24.20
+
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS Y NUMERALES], P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+C) Por concepto de USO, TRAZO Y DESTINO, para autorización de obras de urbanización para expansión o renovación urbana:
+
+a) Habitacional densidad alta (H4) 2.42
+
+b) Habitacional densidad media (H3) 4.84
+
+c) Habitacional densidad baja (H2) 9.68
+
+d) Habitación campestre o aislada (H1) 12.10
+
+e) Habitacional Rural (HRUR) 4.84
+
+f) Turístico:
+
+1.- Turístico Ecológico, densidad mínima (TE1) 24.20
+
+2.- Turístico Ecológico, densidad baja (TE2) 20.52
+
+3.- Turístico Hotelero, densidad baja (TH2) 18.52
+
+4.- Turístico Ecológico, densidad media (TH3) 16.52
+
+5.- Turístico Ecológico, densidad alta (TH4) 14.52
+
+g) Alojamiento Temporal 12.10
+
+h) Comercios y servicios 24.20
+
+i) Oficinas administrativas 16.94
+
+j) Abastos, almacenamientos y talleres 24.20
+
+k) Manufacturas:
+
+1.- Manufacturas domiciliarias 3.63
+
+2.- Manufacturas menores 3.63
+
+l) Industrial:
+
+1.- Industria ligera de bajo impacto 24.20
+
+2.- Industria de mediano impacto 24.20
+
+3.- Industria pesada de alto impacto y riesgo 24.20
+
+m) Logísticos Industriales y Portuarios (ULIP) 24.20
+
+n) Equipamiento:
+
+1.- Equipamiento Especial (EE) 16.94
+
+2.- Equipamiento Regional (ER) 16.94
+
+3.- Equipamiento Ejidal (EEJ) 16.94
+
+4.- Equipamiento Turístico (ET) 24.20
+
+5.- Espacios Verdes Abiertos Privados (EVP) 16.94
+
+ñ) Infraestructura (EIN) y Derechos de vías por paso de Infraestructura (IN) 24.20
+
+o) Actividades extractivas 24.20
+
+p) Parque natural 16.94
+
+q) Otros. 2.24 a 24.20
 
 V. Servicios de certificaciones y dictámenes no previstos en este artículo, por M2 21.17
 
@@ -1430,6 +1656,40 @@ Cuando se trate de fraccionamiento de tipo mixto, se cobrará por la autorizaci�
 > <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2013)</small>
 
 Cuando se trate de modificación al programa parcial de urbanización según categoría se considerará el evento y de cada lote vendible.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+I – A. Por trámite de autorización de subdivisión en áreas rústicas por evento:
+
+a) Cuando la subdivisión del predio rústico sus fracciones cumplen con una superficie mayor a 5-00-00.00 has; y 25.00
+
+b) Cuando el trazo de derecho de vía se encuentre previsto en los instrumentos de planeación vigente y que las afectaciones se encuentren formalizadas mediante convenios 20.00
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+I – B. Por trámite de constancia de Acciones NO urbanísticas por evento:
+
+a) Cuando el predio no cuente con acciones urbanísticas; y; 10.00
+
+b) Cuando el predio cuente con acciones urbanísticas 25.00
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+I – C. Por el análisis y revisión, del ESTUDIO DE IMPACTO TERRITORIAL Y URBANO:
+
+a) por evento al momento de Ingresar el estudio; 15.00
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+I – D. Por anticipar el Horizonte de planeación en el PMOT a Corto Plazo; según la clasificación:
+
+a) por anticipar la Reserva Urbana de Mediano a Corto plazo; se cobrará por hectárea a modificar; 250.00
+
+Más, por metro lineal considerando la ubicación georreferenciada de donde se tomarán los servicios 1.00
+
+b) por anticipar la Reserva Urbana de largo a Corto plazo; se cobrará por hectárea a modificar; 450.00
+
+Más, por metro lineal considerando la ubicación georreferenciada de donde se tomarán los servicios 2.00
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE FEBRERO DE 2007)</small>
 
@@ -1594,6 +1854,188 @@ IX. Por la expedición del certificado de habitabilidad de las construcciones, e
 2.- De 500.00 a 1000.00 M2 5.00
 
 3.- Más de 1000.00 M2 20.00
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS Y NUMERALES], P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+X. Por trámite de Expedición de DICTAMEN DE IMPACTO TERRITORIAL Y URBANO sobre la superficie total del predio, por evento, según categoría: 20
+
+UMA
+
+a) Habitacional densidad alta (H4) 70.50
+
+Más, por cada lote vendible 2.21
+
+b) Habitacional densidad media (H3) 97.55
+
+Más, por cada lote vendible 7.66
+
+c) Habitacional densidad baja (H2) 324.60
+
+Más, por cada lote vendible 22.10
+
+d) Habitación campestre o aislada (H1) 112.85
+
+Más, por cada lote vendible 3.45
+
+e) Habitacional Rural (HRUR) 97.55
+
+Más, por cada lote vendible 7.66
+
+f) Turístico:
+
+1.- Turístico Ecológico, densidad mínima (TE1) 433.50
+
+2.- Turístico Ecológico, densidad baja (TE2) 433.50
+
+3.- Turístico Hotelero, densidad baja (TH2) 433.50
+
+4.- Turístico Ecológico, densidad media (TH3) 433.50
+
+5.- Turístico Ecológico, densidad alta (TH4) 433.50
+
+Más, por cada lote vendible 24.50
+
+g) Comercios y servicios 258.00
+
+Más, por cada lote vendible 9.50
+
+h) Oficinas administrativas 288.00
+
+Más, por cada lote vendible 10.56
+
+i) Abastos, almacenamientos y talleres 318.50
+
+Más, por cada lote vendible 11.58
+
+j) Manufacturas:
+
+1.- Manufacturas domiciliarias 20.00
+
+2.- Manufacturas menores 25.00
+
+k) Industrial:
+
+1.- Industria ligera de bajo impacto 143.10
+
+2.- Industria de mediano impacto 145.10
+
+3.- Industria pesada de alto impacto y riesgo 150.10
+
+l) Logísticos Industriales y Portuarios (ULIP) 425.50
+
+Más, por cada lote vendible 5.56
+
+m) Equipamiento:
+
+1.- Equipamiento Especial (EE) 425.50
+
+2.- Equipamiento Regional (ER) 425.50
+
+3.- Equipamiento Ejidal (EEJ) 425.50
+
+4.- Equipamiento Turístico (ET) 425.50
+
+5.- Espacios Verdes Abiertos Privados (EVP) 425.50
+
+n) Infraestructura (EIN) y Derechos de vías por paso de Infraestructura (IN) 425.50
+
+ñ) Actividades extractivas 425.50
+
+o) No aptas para aprovechamientos 425.00
+
+p) Otros 425.50
+
+q) Cuando se trate de fraccionamiento de tipo MIXTO, se cobrará por la autorización el promedio que resulte de las modalidades que lo compongan.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS Y NUMERALES], P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XI. Por trámite de autorización del PROYECTO DE INTEGRACION URBANA sobre la superficie vendible del predio por fraccionar, por evento, según categoría:
+
+a) Habitacional densidad alta (H4) 65.00
+
+Más, por cada lote vendible 1.30
+
+b) Habitacional densidad media (H3) 190.00
+
+Más, por cada lote vendible 7.00
+
+c) Habitacional densidad baja (H2) 315.00
+
+Más, por cada lote vendible 12.50
+
+d) Habitación campestre o aislada (H1) 105.00
+
+Más, por cada lote vendible 3.00
+
+e) Habitacional Rural (HRUR) 190.00
+
+Más, por cada lote vendible 7.00
+
+f) Turístico:
+
+1.- Turístico Ecológico, densidad mínima (TE1) 425.50
+
+2.- Turístico Ecológico, densidad baja (TE2) 425.50
+
+3.- Turístico Hotelero, densidad baja (TH2) 425.50
+
+4.- Turístico Ecológico, densidad media (TH3) 425.50
+
+5.- Turístico Ecológico, densidad alta (TH4) 425.50
+
+Más, por cada lote vendible 15.50
+
+g) Comercios y servicios 250.00
+
+Más, por cada lote vendible 9.00
+
+h) Oficinas administrativas 280.00
+
+Más, por cada lote vendible 10.00
+
+i) Abastos, almacenamientos y talleres 310.00
+
+Más, por cada lote vendible 10.80
+
+j) Manufacturas:
+
+1.- Manufacturas domiciliarias 10.00
+
+2.- Manufacturas menores 15.00
+
+k) Industrial:
+
+1.- Industria ligera de bajo impacto 140.00
+
+2.- Industria de mediano impacto 145.00
+
+3.- Industria pesada de alto impacto y riesgo 150.00
+
+l) Logísticos Industriales y Portuarios (ULIP) 425.50
+
+Más, por cada lote vendible 150.50
+
+m) Equipamiento:
+
+1.- Equipamiento Especial (EE) 425.50
+
+2.- Equipamiento Regional (ER) 425.50
+
+3.- Equipamiento Ejidal (EEJ) 425.50
+
+4.- Equipamiento Turístico (ET) 425.50
+
+5.- Espacios Verdes Abiertos Privados (EVP) 425.50
+
+n) Infraestructura (EIN) y Derechos de vías por paso de Infraestructura (IN) 425.50
+
+ñ) Actividades extractivas 425.50
+
+o) No aptas para aprovechamientos 425.00
+
+p) Otros 425.50
+
+q) Cuando se trate de fraccionamiento de tipo MIXTO, se cobrará por la autorización el promedio que resulte de las modalidades que lo compongan.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -1877,11 +2319,15 @@ V. Los anuncios que identifique los productos y marcas que expendan o distribuya
 
 Cuando los anuncios publiquen productos y marcas distintas a las propias del establecimiento, o los espacios destinados a la colocación de dichos anuncios sean utilizados por personas ajenas a las del establecimiento, serán sujeto de este derecho.
 
-C) BEBIDAS ALCOHOLICAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+C) BEBIDAS ALCOHÓLICAS Y GIROS COMERCIALES SIN VENTA DE ALCOHOL
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 79.
 
-Causarán los derechos establecidos en esta sección, las personas físicas o morales que obtengan licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales cuyos giros sean la venta de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+Causarán los derechos establecidos en esta sección, las personas físicas o morales que obtengan licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales cuyos giros sean comerciales sin venta de alcohol, así como los giros que incluyan la venta de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
 
 ###### ARTICULO 80.
 
@@ -1890,6 +2336,8 @@ Es base para el pago de estos derechos el tipo de autorización, licencia o perm
 > <small>(REFORMADO, P.O. 17 DE FEBREO DE 2024)</small>
 
 Para la apertura de nuevos establecimientos se requerirá tener previamente la licencia o autorización respectiva; tratándose de refrendo se pagarán los derechos correspondientes durante los meses de enero, febrero y marzo del ejercicio que se trate.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 81.
 
@@ -2507,6 +2955,10 @@ CAMBIO DE PROPIETARIO
 
 Por cambio de propietario, las personas físicas o morales deberán solicitar la expedición de una nueva licencia, teniendo como costo el 50 por ciento de lo señalado en el inciso a) de este artículo.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+CAMBIO DE GIRO: Por el cambio de giro, las personas físicas o morales deberán solicitar la expedición de su licencia, teniendo como costo lo señalado en el inciso a) de este artículo.
+
 f) Por la expedición de permisos para la realización de eventos sociales, por cada uno:
 
 1.- Eventos particulares utilizando equipo de sonido o música viva, en zona urbana 3.00
@@ -2668,6 +3120,24 @@ En zona rural, por cada uno:
 > <small>(REFORMADO, P.O. 17 DE FEBREO DE 2024)</small>
 
 Las licencias de funcionamiento de giros distintos a los referidos en el artículo 79 de esta Ley, no causarán el pago de derechos, pero deberán obtenerse por los interesados dentro de los treinta días siguientes a la fecha de inicio de operaciones y refrendarse durante los meses de enero, febrero y marzo de cada año.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+i) (SIC) Las licencias de funcionamiento de giros distintos a los referidos en el artículo 79 de esta Ley, pagarán sus derechos de acuerdo a su nivel de riesgo y deberán obtenerse por los interesados dentro de los 30 días siguientes a la fecha de inicio de operaciones y refrendarse durante los meses de enero, febrero y marzo de cada año.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+j) Por la expedición de permisos para el funcionamiento temporal de establecimientos comerciales en las que no se expendan bebidas alcohólicas, el costo será el que determine el giro para el que se expide.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS NUMERALES], P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+k) Por la expedición de licencias de funcionamiento que no incluyan venta de bebidas alcohólicas, por ejercicio fiscal, por su nivel de riesgo:
+
+Riesgo Bajo 3-10 UMAS
+
+Riesgo Medio 15-55 UMAS
+
+Riesgo Alto 30-700 UMAS
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
@@ -2849,81 +3319,129 @@ i).-Por cada plano cartográfico impreso en graficador (plotter) a diferente esc
 
 2.- En forma gráfica 10.00
 
-j).- Por cada plano cartográfico impreso en láser a diferente escala de un predio, manzana, zona o sector catastral
+j).- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2025)
 
-1.- Con medidas y superficie 1.5
+1. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2025)
 
-2.- En forma gráfica 1.5
+2. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2025)
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+k) Copia de planos generales 5.00
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+l) Copia de un plano de predio con acotaciones 3.60
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+m) Copia de plano manzanero 3.60
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+n) Impresión en tamaño carta u oficio de plano manzanero de la cartografía digital 5.00
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+o) Copia de plano de fraccionamiento 5.00
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+p) Impresión de plano general a diferentes escalas de la cartografía digital:
+
+Graficado, incluyendo, manzanas, predios y calles 10.00
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+q) Por cada impresión adicional de hasta 1.10 x 0.84 m 8.00
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+r) Por cada capa adicional al plano general 5.00
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+s) Impresión de plano de predio urbano con medidas, superficie y nombre de calles 4.00
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+t) Copia o impresión de archivo digital de plano de predio rústico:
+
+Hasta 5-00-00 hectáreas 15.00
+
+Mas de 5-00-00 hectáreas 25.00
+
+Copia o impresión de avalúo catastral 3.00
 
 II.- Informes y certificaciones
 
-a).- Informe histórico catastral de un predio 4.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-b).- Certificado de inscripción de un predio
+a).- Informe histórico catastral de un predio hasta por un antecedente de registro 4.00
 
-en el padrón catastral 3.50
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+b).- Certificado de inscripción de un predio en el padrón catastral 4.00
 
 c).- Certificado de inscripción o no de una
 
 persona en el padrón catastral 2.00
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+d).- Informe histórico catastral de un predio, más por cada antecedente de registro 2.00
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+e).- Por impresión de cedula catastral certificada 4.50
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+f).- Certificación de documentos catastrales 3.50
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+g).- Certificación por el levantamiento o toma de coordenadas geodésicas para la orientación de predios o fraccionamientos 3.50
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+h).- Por la expedición del documento de apeo y deslinde administrativo 10.00
+
 III.- Avalúos, asignación de claves y mediciones
 
-a).- Avalúo certificado de un predio urbano a solicitud del interesado
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+a).- Avalúo certificado de un predio urbano a solicitud del interesado:
 
-1.- Hasta un valor catastral equivalente
+1.- Hasta un valor catastral equivalente a 3,814 UMAS 4.00
 
-a 5,578 días de UMA 2.00
+2.- Cuando el valor catastral este entre 3,814.01 y 4,964 UMAS 6.00
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+3.- Cuando el valor catastral este entre 4,964.01 y 6,616 UMAS 8.00
 
-2.- Cuando el valor catastral este entre
-
-5,578 y 13,947 días de UMA 3.5
-
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
-
-3.- Cuando el valor catastral este entre
-
-13,947 y 22,315 días de UMA 5.00
-
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
-
-4.- Cuando el valor catastral sea de
-
-22,315 días de UMA en adelante se pagara
+4.- Cuando el valor catastral sea de 6,616.01 UMAS en adelante se pagará
 
 Sobre dicho valor 0.1%
 
-b).- Avalúo certificado de un predio rústico a solicitud del interesado
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO]. P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+b).- Avalúo certificado de un predio rústico a solicitud del interesado:
 
-1. Hasta un valor catastral equivalente
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-a 1,394 días de UMA 2.00
+1. Hasta un valor catastral equivalente a 4,184 UMAS 4.0
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+2. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2025)
 
-2.- Cuando el valor catastral este
+3. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2025)
 
-entre 1,394 y 2,789 días de UMA 2.50
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+4. Cuando el valor catastral sea de 4,184.01 UMAS en adelante se pagará
 
-3.- Cuando el valor catastral este
+Sobre dicho valor 0.1%
 
-entre 2,789 y 4,184 días de UMA 3.50
-
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
-
-4.- Cuando el valor catastral sea
-
-de 4,184 días de UMA en adelante
-
-se pagara sobre dicho valor 0.1%
+Los avalúos referidos, se cobrarán con el valor base actual del inmueble conforme a los incisos que corresponda de la presente Ley.
 
 c).- Por asignación de claves catastrales urbanas en nuevos fraccionamientos se cubrirá el siguiente derecho.
 
@@ -2989,9 +3507,19 @@ d).- Por asignación de claves catastrales en lotificación urbana de un fraccio
 
 - Más por lote 0.58
 
-e).- Por la localización de coordenadas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-geodésicas para orientación de terrenos 40.00
+e).- Por el levantamiento o toma de coordenadas geodésicas para orientación de predios o fraccionamientos, por cada punto geodésico 45.00
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+f).- Cuando por motivo de solicitud de avalúo sea necesario el traslado del personal técnico de la Dirección de Catastro Municipal, para la verificación física:
+
+1. En la ciudad en la que se ubican las oficinas catastrales y hasta 10 km recorridos 2.00
+
+2. Fuera de la ciudad en la que se encuentran las oficinas catastrales 2.00
+
+3. Mas, por cada kilómetro recorrido 0.01
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2007)</small>
 
@@ -3173,7 +3701,7 @@ a) Especies comerciales (frutales y de ornato) o industriales
 
 - Arboles de 51 hasta 70 ctms. de diámetro de fuste principal 5.00
 
-- Arboles de más de 70 ctms. de diámetro de fuste principal 10.00
+– (DEROGADO PUNTO 4, P.O. 31 DE DICIEMBRE DE 2025)
 
 > <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
 
@@ -3187,9 +3715,9 @@ a) Especies comerciales (frutales y de ornato) o industriales
 
 - Arboles de más de 121 ctms. de diámetro de fuste principal 25.00
 
-> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-Cuando la dirección de Medio Ambiente dictamine que el árbol cuya poda o derribo que se solicita afecta, a la propiedad del solicitante, que por sus condiciones físicas de deterioro se dictamine procedente su derribo, no se pagará el derecho a que se refiere esta fracción.
+Cuando acompañado de la solicitud de derribo de arbolado, el solicitante presente un dictamen emitido por la Dirección de Protección Civil a través del cual se dictamine el riesgo que representa el ejemplar, debido a que presenta una enfermedad, que por su ubicación y condiciones fitosanitarias representa un peligro inminente para los ciudadanos, peatones, automovilistas, la comunidad, o los vecinos del lugar, o cuando se requiera su derribo, para salvaguardar la integridad de las personas y sus bienes, se exentará el pago de derechos a que se refiere esta fracción
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -3411,13 +3939,25 @@ c).- Instalaciones mayores de 1,000 M2 2.50
 
 XXVIII. Registro municipal de fundaciones y asociaciones civiles con actividades de fomento a la cultura medioambiental. Anualmente.
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-XXIX. Por la expedición del Dictamen de Verificación Ambiental 5.0
+XXIX. Por la expedición del Dictamen de Verificación Ambiental, por su nivel de riesgo:
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+a) Riesgo Bajo 5 UMAS
 
-XXX. Por el Refrendo de Dictamen de Verificación Ambiental 3.0
+b) Riesgo Medio 10 UMAS
+
+c) Riesgo Alto 20 UMAS
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XXX. Por el Refrendo de Dictamen de Verificación Ambiental por su nivel de riesgo:
+
+a) Riesgo Bajo 3 UMAS
+
+b) Riesgo Medio 5 UMAS
+
+c) Riesgo Alto 10 UMAS
 
 > <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -3443,31 +3983,51 @@ Los derechos por servicios que presten la unidad de protección civil se causar�
 
 I. Por el registro:
 
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 a). Por el registro de siniestralidad en establecimientos comerciales, industriales y de servicios, con clasificación de riesgo:
 
-1.- Alta
+1. Alta 15.00
 
-A) Nivel 1 8.00
+2. Media 7.00
 
-B) Nivel 2 10.00
+3. Baja 3.00
 
-C) Nivel 3 15.00
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-2.- Media
+II. Por capacitación y asesoría:
 
-A) Nivel 1 3.50
+a) Curso básico por persona en materia de protección civil impartida a industrias, comercios, de servicios, de espectáculos, de entretenimiento e instituciones no pertenecientes a la función pública 3.00
 
-B) Nivel 2 5.00
+b) Curso especializado por persona en materia de protección civil impartida a industrias, comercios, de servicios, de espectáculos, de entretenimiento e instituciones no pertenecientes a la función pública 5.00
 
-C) Nivel 3 7.00
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-3.- Baja
+III. Por la expedición del certificado de cumplimiento de protección civil en un inmueble o negocio de Riesgo Alto y Riesgo Medio:
 
-A) Nivel 1 0.50
+a) Expedición de certificado provisional de protección civil en riesgo alto 20.00
 
-B) Nivel 2 2.00
+b) Expedición de certificado provisional de protección civil en riesgo medio 15.00
 
-C) Nivel 3 3.00
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+IV. Por la expedición de autorización del programa específico por eventos o espectáculos públicos en áreas o inmuebles de afluencia masiva:
+
+a) Tratándose de aquellos con asistencia de 500 hasta 1000 personas 5.00
+
+b) Tratándose de aquellos con asistencia de más de 1000 hasta 5000 Personas 15.00
+
+c) Tratándose de aquellos con asistencia de más de 5000 personas 20.00
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+V. Por la expedición del certificado de cumplimiento de protección civil en un inmueble o negocio:
+
+a) Expedición de certificado de cumplimiento de protección civil en riesgo 15.00
+
+b) Expedición de certificado de cumplimiento de protección civil en riesgo medio 10.00
+
+c) Expedición de certificado de cumplimiento de protección civil en riesgo bajo 5.00
 
 Para fijar la tarifa se deberán considerar las condiciones económicas del negocio, número de empleados y su nivel de inversión.
 
@@ -3492,6 +4052,32 @@ II. Certificados de residencia 1.51
 III. Solvencias fiscales 1.96
 
 IV. Constancias 1.00
+
+> <small>(ADICIONADA [N. DE E. CON SU PÁRRAFO E INCISOS], P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+V. Los derechos por servicios que presten la Dirección de Municipal de Cultura se causaran y pagaran conforme a lo siguiente:
+
+VI. ... (SIC)
+
+a) Por talleres de Música, por cuota de inscripción anual 1.00
+
+b) Por talleres de Música, por cuota de clase por trimestre 4.00
+
+c) Por talleres de Artes Escénicas, por cuota de inscripción anual 1.00
+
+d) Por talleres de Artes Escénicas, por cuota de clase por trimestre 4.00
+
+e) Por talleres de Artes Visuales, por cuota de inscripción anual 1.00
+
+f) Por talleres de Artes Visuales, por cuota de clase por trimestre 4.00
+
+g) Por talleres de Arte Literario, por cuota de inscripción anual 1.00
+
+h) Por talleres de Arte Literario, por cuota de clase por trimestre 4.00
+
+i) Por renta de Auditorio de Cultura para eventos de uso privado, por un horario de hasta 4 horas 66.00
+
+Por los conceptos a que se refiere esta fracción, las personas mayores de 60 años de nacionalidad mexicana y las personas con discapacidad, de nacionalidad mexicana, pagarán el 50 por ciento de la tarifa aplicable.
 
 ### CAPITULO III. OTROS DERECHOS
 
@@ -4852,3 +5438,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Los Ayuntamientos de la entidad deberán establecer estrategias para brindar la máxima publicidad a los preceptos contenidos en este Decreto; en el entendido de que los incentivos fiscales que se otorgan, se aplicarán de manera excepcional y solo durante la vigencia del presente instrumento. Vencido el plazo otorgado para tal fin, deberá estarse a lo dispuesto en la Ley para Regular la Venta y Consumo de Bebidas Alcohólicas, así como en la Ley de Hacienda para cada uno de los municipios de la entidad, en cuanto al periodo que se establece para llevar a cabo el refrendo oportuno, y las consecuencias jurídicas de no hacerlo, respecto de las licencias comerciales y de licencias para el funcionamiento de establecimientos con giros de venta de bebidas alcohólicas.
+
+P.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 236.- POR EL QUE SE APRUEBA REFORMAR, ADICIONAR Y DEROGAR DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO, COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
