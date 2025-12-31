@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2025-12-18"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2025.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -3711,8 +3711,6 @@ A quien quebrante una pena no privativa de libertad, se le aplicará una sanció
 
 ### CAPÍTULO I. DEFRAUDACIÓN FISCAL
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
-
 ###### Artículo 274.
 
 A quien teniendo conocimiento de la comisión de un delito y sin concierto previo ayude al agente a eludir la acción de la autoridad o entorpezca la investigación, se le aplicará de seis meses a cinco años de prisión y de cinco a cincuenta días multa.
@@ -3779,29 +3777,27 @@ A quien para hacer efectivo un derecho o pretendido derecho que deba ejercitar p
 
 Este delito se perseguirá por querella.
 
-(REUBICADO [N. DE E. ANTES TÍTULO CUARTO], P.O. 24 DE SEPTIEMBRE DE 2018)
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ## TÍTULO QUINTO. DE LOS DELITOS CONTRA LA HACIENDA PÚBLICA
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ### CAPÍTULO I. DELITOS ELECTORALES
 
 ###### Artículo 279.
 
-A quien haga uso de engaños para omitir total o parcialmente el pago de alguna prestación fiscal u obtener un beneficio indebido con perjuicio de la hacienda pública, se le aplicará de uno a cinco años de prisión.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2025)
 
 ###### Artículo 280.
 
-La pena que corresponda al delito de defraudación fiscal se impondrá también a quien:
-
-I.- Para registrar sus operaciones contables, fiscales o sociales, lleve dos o más controles contables o administrativos similares con distintos asientos o datos.
-
-II.- Haga mal uso de los incentivos fiscales o los aplique para fines distintos del que fueron otorgados.
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2025)
 
 ###### Artículo 281.
 
-A quien después de haber dado aviso de traspaso o de cambio de nombre, continúe realizando las operaciones gravadas sin estar amparadas con una nueva autorización para operar o que realice operaciones gravadas bajo el nombre anterior, se le impondrá prisión de uno a cinco años.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2025)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ### CAPÍTULO II. DELITOS DE VIOLENCIA POLÍTICA
 
@@ -3809,15 +3805,11 @@ A quien después de haber dado aviso de traspaso o de cambio de nombre, continú
 
 ###### Artículo 282.
 
-Los delitos contra la hacienda pública sólo pueden ser de comisión dolosa y se perseguirán por querella.
-
-Para proceder penalmente por estos delitos, la autoridad fiscal competente deberá declarar previamente que la hacienda pública ha sufrido o pudo sufrir perjuicio económico.
-
-No se impondrá pena alguna a quien hubiere omitido el pago total o parcial de alguna contribución u obtenido el beneficio indebido si lo entera espontáneamente con sus recargos y actualización, antes de que la autoridad fiscal competente descubra la omisión o el perjuicio, o mediante requerimiento, orden de visita o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las obligaciones fiscales.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2025)
 
 ###### Artículo 283.
 
-La autoridad fiscal sólo podrá otorgar el perdón cuando las personas procesadas por delitos contra la hacienda pública, paguen íntegramente las prestaciones fiscales originadas por los hechos imputados, o bien, a su juicio quede debidamente garantizado el interés fiscal.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2025)
 
 (REUBICADO [N. DE E. ANTES TÍTULO QUINTO], P.O. 24 DE SEPTIEMBRE DE 2018)
 
@@ -4592,3 +4584,15 @@ P.O. 18 DE DICIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 112 DE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA LA NUMERACIÓN DEL CAPÍTULO ÚNICO, DEL TÍTULO QUINTO, DE LA SECCIÓN TERCERA DEL LIBRO SEGUNDO, PARA QUEDAR COMO CAPÍTULO I. SE ADICIONA A ESTE TÍTULO QUINTO UN CAPÍTULO II DENOMINADO DELITOS CONTRA LA EXPRESIÓN O IDENTIDAD DE GÉNERO Y LA ORIENTACIÓN SEXUAL, INTEGRADO POR UN ARTÍCULO 239 B DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NUMERO 169, POR EL QUE “ARTÍCULO SEGUNDO.- SE DEROGA EL TÍTULO QUINTO DE LOS DELITOS CONTRA LA HACIENDA PÚBLICA, INTEGRADO POR EL CAPÍTULO I DEFRAUDACIÓN FISCAL Y EL CAPÍTULO II REGLAS COMUNES PARA LOS DELITOS CONTRA LA HACIENDA PÚBLICA Y LOS ARTÍCULOS 279, 280, 281, 282 Y 283, DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
+
+Vigencia del Decreto
+
+Artículo Primero. El presente Decreto entrará en vigor el 1 de enero de 2026, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Ultractividad en procedimientos previos
+
+Artículo Segundo. Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de su inicio.
