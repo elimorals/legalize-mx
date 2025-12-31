@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-busqueda-de-personas-para-el-estado-de-morelos-167023"
 country: "mx"
 rank: "ley"
 publication_date: "2023-07-12"
-last_updated: "2023-07-12"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE BÚSQUEDA DE PERSONAS PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número 6208 del Periódico Oficial del Estado de Morelos, el miércoles 12 de julio de 2023.
 
@@ -57,145 +57,139 @@ LEY DE BÚSQUEDA DE PERSONAS PARA EL ESTADO DE MORELOS.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 1.
 
-La presente ley es de orden público, interés social y observancia general, para las personas que habitan o transitan en el estado de Morelos, de conformidad con el mandato establecido en el artículo 40, de la Constitución Política del Estado Libre y Soberano de Morelos, así como los tratados internacionales en materia de derechos humanos suscritos por el estado mexicano, y en armonía con la Ley General en Materia de Desaparición Forzada de Personas, Desaparición cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
+La presente ley es de orden público, interés social y observancia general, para las personas que habitan o transitan en el estado de Morelos, de conformidad con lo establecido en el artículo 73, fracción XXI, inciso a) de la Constitución Política de los Estados Unidos Mexicanos, en relación con el artículo 40 de la Constitución Política del Estado Libre y Soberano de Morelos, así como los tratados internacionales en materia de derechosos (sic) humanos suscritos por el Estado Mexicano, y en armonía con la Ley General en Materia de Desaparición Forzada de Personas, Desaparición cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 2.
 
 La presente Ley tiene por objeto:
 
-I. Determinar la distribución de competencias y la forma de coordinación entre las autoridades federales, estatales y municipales, así como con las de otras entidades federativas, para buscar a las personas desaparecidas y esclarecer los hechos; prevenir, investigar y erradicar los delitos en materia de desaparición forzada de personas, desaparición cometida por particulares, y los demás delitos vinculados que establece la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
+I. Determinar la distribución de competencias y la forma de coordinación entre las autoridades federales, estatales y municipales, así como con las de otras entidades federativas, para buscar a las Personas Desaparecidas y No Localizadas, esclarecer los hechos, prevenir, investigar, sancionar y erradicar los delitos en materia de desaparición forzada de personas, desaparición cometida por particulares y los demás delitos vinculados que establece la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
 
-II. Establecer el Sistema de Búsqueda de Personas del Estado de Morelos;
+II. Establecer el Sistema de Búsqueda de Personas del Estado de Morelos, como parte integrante y coordinado con el Sistema Nacional de Búsqueda de Personas;
 
-III. Regular a la Comisión de Búsqueda de Personas del Estado de Morelos;
+III. Regular a la Comisión de Búsqueda de Personas del Estado de Morelos, como instancia integrante del Sistema Nacional de Búsqueda de Personas;
 
-IV. Garantizar la protección integral de los derechos de las personas desaparecidas hasta que se conozca su destino o paradero; la atención, la asistencia, la protección y, en su caso, la reparación integral y las garantías de no repetición, en términos de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, esta Ley y la legislación aplicable;
+IV. Garantizar la protección integral de los derechos de las Personas Desaparecidas hasta que se conozca su destino o paradero; la atención, la asistencia, la protección y, en su caso, la reparación integral y las garantías de no repetición, en términos de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, esta Ley y la legislación aplicable;
 
-V. Crear el Registro de Personas Desaparecidas del Estado de Morelos como parte integrante del Registro Nacional; y,
+V. Crear el Registro de Personas Desaparecidas del Estado de Morelos como parte integrante del Registro Nacional de Personas Desaparecidas y No Localizadas;
 
-VI. Establecer la forma de participación de los Familiares y demás víctimas indirectas en el diseño, implementación, monitoreo y evaluación de las acciones de búsqueda e identificación de Personas Desaparecidas, garantizando la coadyuvancia en las etapas de la investigación, de manera que puedan verter sus opiniones, recibir información, aportar indicios o evidencias.
+VI. Establecer la forma de participación de los Familiares y demás víctimas indirectas en el diseño, implementación, monitoreo y evaluación de las acciones de búsqueda e identificación de Personas Desaparecidas y No Localizadas, garantizando la coadyuvancia en las etapas de la investigación, de manera que puedan verter sus opiniones, recibir información, aportar indicios o evidencias;
+
+VII. Reconocer la aplicación en el Estado de Morelos de la Alerta Nacional de Búsqueda, Localización e Identificación, conforme al Protocolo emitido por la Comisión Nacional de Búsqueda;
+
+VIII. Garantizar la integración de la Base Nacional de Carpetas de Investigación de Personas Desaparecidas y No Localizadas con la información generada en el Estado de Morelos, y
+
+IX. Reconocer la existencia y funciones del Centro Nacional de Identificación Humana, en coordinación con la Comisión de Búsqueda de Personas del Estado de Morelos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 3.
 
-La aplicación de la presente Ley corresponde a las autoridades del estado de Morelos y sus municipios, en el ámbito de sus respectivas competencias, y se interpretará de conformidad con los principios de promoción, respeto, protección y garantía de los derechos humanos establecidos en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Morelos, favoreciendo en todo tiempo el principio pro persona.
+La aplicación de la presente Ley corresponde a las autoridades del estado de Morelos y sus municipios, en el ámbito de sus respectivas competencias, y se interpretará de conformidad con los principios de promoción, respeto, protección y garantía de los derechos humanos establecidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos, y en los Tratados Internacionales de los que el Estado Mexicano sea parte, favoreciendo en todo tiempo el principio pro persona.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 4.
 
 Para efectos de esta Ley se entiende por:
 
-I. Alerta Amber: el protocolo que establece una herramienta eficaz de difusión, que ayuda a la pronta localización y recuperación de niñas, niños y adolescentes que se encuentren en riesgo inminente de sufrir daño grave por motivo de no localización o cualquier circunstancia donde se presuma la comisión de algún delito ocurrido en territorio nacional;
+I. Alerta Amber, el protocolo que establece una herramienta eficaz de difusión, que ayuda a la pronta localización y recuperación de niñas, niños y adolescentes que se encuentren en riesgo inminente de sufrir daño grave por motivo de no localización o cualquier circunstancia donde se presuma la comisión de algún delito ocurrido en territorio nacional;
 
-II. Alerta Plateada: a la alerta sobre la desaparición de adultos mayores;
+II. Alerta Plateada, a la alerta sobre la desaparición de adultos mayores;
 
-III. Banco Nacional de Datos Forenses: a la herramienta del Sistema Nacional que concentra las bases de datos de las entidades federativas y de la federación; así como, otras bases de datos que tengan información forense relevante para la búsqueda e identificación de Personas Desaparecidas;
+III. Banco Nacional de Datos Forenses, a la herramienta del Sistema Nacional que concentra las bases de datos de las entidades federativas y de la federación; así como, otras bases de datos que tengan información forense relevante para la búsqueda e identificación de Personas Desaparecidas y No Localizadas;
 
-IV. Búsqueda inmediata: el inicio de las acciones de búsqueda de oficio, sin dilación y con celeridad de la persona desaparecida por parte de las autoridades del Estado de Morelos luego de que han tomado conciencia de los hechos, mediante la denuncia, el reporte o la noticia.
+IV. Base Nacional de Carpetas de Investigación, al registro que contiene los datos de las carpetas de investigación o averiguaciones previas iniciadas por los delitos de desaparición forzada de personas y de desaparición cometida por particulares, a cargo del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública y actualizada en tiempo real por la Fiscalía Especializada;
 
-V. Centro Nacional: al Centro Nacional de Identificación Humana, herramienta del Sistema Nacional, adscrito orgánicamente a la Comisión Nacional;
+V. Búsqueda inmediata, el inicio de las acciones de búsqueda de oficio, sin dilación y con celeridad de la persona desaparecida por parte de las autoridades del Estado de Morelos luego de que han tomado conciencia de los hechos, mediante la denuncia, el reporte o la noticia;
 
-VI. Comisión Estatal de Seguridad: a la Comisión Estatal de Seguridad Pública del Estado de Morelos;
+VI. Centro Nacional, al Centro Nacional de Identificación Humana, adscrito orgánicamente a la Comisión Nacional de Búsqueda;
 
-VII. Comisión de Víctimas: a la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos;
+VII. Comisión de Búsqueda, a la Comisión de Búsqueda de Personas del estado de Morelos;
 
-VIII. Comisión Nacional: a la Comisión Nacional de Búsqueda de Personas;
+VIII. Comisión de Víctimas: a la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos;
 
-IX. Comisión de Búsqueda: a la Comisión de Búsqueda de Personas del Estado de Morelos;
+IX. Comisión Nacional, a la Comisión Nacional de Búsqueda de Personas;
 
 X. Consejo Ciudadano: Al Consejo Ciudadano de la Comisión de Búsqueda de Personas del Estado de Morelos, órgano del Sistema de Búsqueda de Personas del Estado de Morelos;
 
-XI. Coordinación General de Servicios Periciales: a los Servicios Periciales de la Fiscalía General del Estado de Morelos;
+XI. Coordinación General de Servicios Periciales, a la Coordinación General de Servicios Periciales de la Fiscalía General del Estado de Morelos;
 
-XII. Declaración Especial de Ausencia: a la Declaración Especial de Ausencia por Desaparición;
+XII. Declaración Especial de Ausencia, a la Declaración Especial de Ausencia por Desaparición;
 
-XIII. Familiares: a las personas que, en términos de la legislación aplicable, tengan parentesco con la Persona Desaparecida por consanguinidad o afinidad, en línea recta ascendente y descendente sin limitación de grado; en línea transversal hasta el cuarto grado; él o la cónyuge, la concubina o concubinario o, en su caso, quienes estén sujetos al régimen de sociedad en convivencia u otras figuras jurídicas análogas.
+XIII. Familia Social, a la persona o conjunto de personas cercanas a la Persona Desaparecida o No Localizada que mantienen o mantuvieron vínculos significativos de afecto, cuidado, convivencia o acompañamiento solidario, independientemente de la existencia de lazos consanguíneos, legales o de parentesco formal;
 
-XIV. Fiscalía Especializada: a la Fiscalía Especializada para la Investigación y Persecución de los delitos de Desaparición Forzada de Personas y Desaparición Cometida por Particulares y búsqueda de personas desaparecidas de la Fiscalía General del Estado de Morelos;
+XIV. Familiares, a las personas que, en términos de la legislación aplicable, tengan parentesco con la Persona Desaparecida o No Localizada por consanguinidad o afinidad, en línea recta ascendente y descendente sin limitación de grado; en línea transversal hasta el cuarto grado; él o la cónyuge, la concubina o concubinario o, en su caso, quienes estén sujetos al régimen de sociedad en convivencia u otras figuras jurídicas análogas. Asimismo, las personas que dependan económicamente de la Persona Desaparecida o No Localizada, que así lo acrediten ante las autoridades competentes;
 
-XV. Fiscalía General: a la Fiscalía General del Estado de Morelos;
+XV. Fiscalía Especializada, a la Fiscalía Especializada en Desaparición Forzada de Personas de la Fiscalía General del Estado de Morelos;
 
-XVI. Ley de Víctimas: a la Ley de Víctimas para el Estado de Morelos;
+XVI. Fiscalía General, a la Fiscalía General del Estado de Morelos;
 
-XVII. Ley General: a la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
+XVII. Ley de Víctimas, a la Ley de Víctimas para el Estado de Morelos;
 
-XVIII. Noticia: a la comunicación hecha por cualquier medio, distinto al reporte o la denuncia, mediante la cual, la autoridad competente conoce de la desaparición de una persona;
+XVIII. Ley General, a la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
 
-XIX. Patrón: término empleado cuando hay dos o más casos que presentan similitudes. Es decir, cuando un conjunto de desapariciones puede (sic) ser interpretadas o explicadas a partir de la existencia de dos o más factores que se relacionan de forma similar produciendo efectos parecidos.
+XIX. Nombre Social, al vocativo por el cual se reconoce, identifica y alude a la persona en sus relaciones personales dentro de los contextos específicos y consiste en el nombre que una persona se autoasigna;
 
-XX. Persona Desaparecida: a la persona cuyo paradero y/o ubicación se desconoce;
+XX. Noticia, a la comunicación hecha por cualquier medio, distinto al reporte o la denuncia, mediante la cual, la autoridad competente conoce de la desaparición de una persona;
 
-XXI. Principios Rectores para la Búsqueda de Personas Desaparecidas: a los Principios Rectores para la Búsqueda de Personas Desaparecidas aprobados por el Comité Contra la Desaparición Forzada, de la Organización de las Naciones Unidas;
+XXI. Patrón, al término empleado cuando hay dos o más casos que presentan similitudes. Es decir, cuando un conjunto de desapariciones puede (sic) ser interpretadas o explicadas a partir de la existencia de dos o más factores que se relacionan de forma similar produciendo efectos parecidos;
 
-XXII. Protocolo Homologado de Búsqueda: Al Protocolo Homologado para la Búsqueda de Personas Desaparecidas;
+XXII. Persona Desaparecida, a la persona cuyo paradero se desconoce y se presuma, a partir de cualquier indicio, que su ausencia se relaciona con la comisión de un delito;
 
-XXIII. Protocolo Homologado de Investigación: protocolo Homologado para la investigación de los delitos de Desaparición Forzada y desaparición cometida por particulares;
+XXIII. Principios Rectores para la Búsqueda de Personas Desaparecidas, a los Principios Rectores para la Búsqueda de Personas Desaparecidas aprobados por el Comité Contra la Desaparición Forzada, de la Organización de las Naciones Unidas;
 
-XXIV. Protocolo de Búsqueda de Niñas, Niños y Adolescentes: al Protocolo Adicional para la Búsqueda de Niñas, Niños y Adolescentes;
+XXIV. Protocolo Alba, al Protocolo de Búsqueda de mujeres y niñas;
 
-XXV. Protocolo Alba: Al Protocolo de Búsqueda de mujeres y niñas;
+XXV. Protocolo de Búsqueda de Niñas, Niños y Adolescentes, al Protocolo Adicional para la Búsqueda de Niñas, Niños y Adolescentes;
 
-XXVI. Registro Nacional: al Registro Nacional de Personas Desaparecidas que concentra la información de los registros de Personas Desaparecidas, tanto de la Federación como de las Entidades Federativas, señalado en la Ley General;
+XXVI. Protocolo Homologado de Búsqueda, al Protocolo Homologado para la Búsqueda de Personas Desaparecidas;
 
-XXVII. Registro Nacional de Personas Fallecidas y No Identificadas, por sus siglas RNPD: al Registro Nacional de Personas Fallecidas No Identificadas y No Reclamadas que concentra la información forense procesada de la localización, recuperación, identificación y destino final de los restos tanto de la Federación como de las entidades federativas, cualquiera que sea su origen;
+XXVII. Protocolo Homologado de Investigación, al Protocolo Homologado para la Investigación de los Delitos de Desaparición Forzada y Desaparición Cometida por Particulares;
 
-XXVIII. Registro de Personas Fallecidas: al Registro de Personas Fallecidas No Identificadas y No Reclamadas en el Estado de Morelos;
+XXVIII. Registro de Fosas, al Registro de Fosas Comunes y de Fosas Clandestinas en el Estado de Morelos, que concentra la información respecto de las fosas comunes que existen en los cementerios y panteones de los treinta y seis municipios, así como de las fosas clandestinas que la Fiscalía Especializada localice;
 
-XXIX. Registro de Personas Desaparecidas: al Registro de Personas Desaparecidas en el Estado de Morelos;
+XXIX. Registro de Personas Desaparecidas, al Registro de Personas Desaparecidas en el Estado de Morelos;
 
-XXX. Registro Nacional de Fosas: al Registro Nacional de Fosas Comunes y de Fosas Clandestinas, que concentra la información respecto de las fosas comunes que existen en los cementerios y panteones de todos los municipios del país, así como de las fosas clandestinas que la Fiscalía General de la República y las Fiscalías Locales localicen;
+XXX. Registro de Personas Fallecidas, al Registro de Personas Fallecidas No Identificadas y No Reclamadas en el Estado de Morelos;
 
-XXXI. Registro de Fosas: al Registro de Fosas Comunes y de Fosas Clandestinas en el Estado de Morelos, que concentra la información respecto de las fosas comunes que existen en los cementerios y panteones de los treinta y seis municipios, así como de las fosas clandestinas que la Fiscalía Especializada localice;
+XXXI. Registro Nacional, al Registro Nacional de Personas Desaparecidas que concentra la información de los registros de Personas Desaparecidas, tanto de la Federación como de las Entidades Federativas, señalado en la Ley General;
 
-XXXII. Reporte: a la comunicación mediante la cual la autoridad competente conoce de la desaparición de una persona;
+XXXII. Registro Nacional de Fosas, al Registro Nacional de Fosas Comunes y de Fosas Clandestinas, que concentra la información respecto de las fosas comunes que existen en los cementerios y panteones de todos los municipios del país, así como de las fosas clandestinas que la Fiscalía General de la República y las Fiscalías Locales localicen;
 
-XXXIII. Sistema de Búsqueda: al Sistema de Búsqueda de Personas del Estado de Morelos;
+XXXIII. Registro Nacional de Personas Fallecidas y No Identificadas, por sus siglas RNPD, al Registro Nacional de Personas Fallecidas No Identificadas y No Reclamadas que concentra la información forense procesada de la localización, recuperación, identificación y destino final de los restos tanto de la Federación como de las entidades federativas, cualquiera que sea su origen;
 
-XXXIV. Sistema Nacional: Al Sistema Nacional de Búsqueda de Personas;
+XXXIV. Reporte, a la comunicación mediante la cual la autoridad competente conoce de la desaparición de una persona;
 
-XXXV. Tratados: a los tratados internacionales de los que el Estado Mexicano sea parte;
+XXXV. Secretaría de Seguridad, a la Secretaría de Seguridad y Protección Ciudadana del Poder Ejecutivo Estatal;
 
-XXXVI. Unidades de Búsqueda: a las Unidades de Derechos Humanos, Búsqueda de Personas y Atención a Víctimas de los municipios; y,
+XXXVI. Sistema de Búsqueda, al Sistema de Búsqueda de Personas del Estado de Morelos;
 
-XXXVII. Víctimas: aquellas personas a las que hace referencia la Ley General de Víctimas y la Ley de Víctimas para el Estado de Morelos y demás disposiciones aplicables.
+XXXVII. Sistema Nacional, al Sistema Nacional de Búsqueda de Personas;
+
+XXXVIII. Tratados, a los tratados internacionales de los que el Estado Mexicano sea parte;
+
+XXXIX. Unidades de Búsqueda, a las Unidades de Derechos Humanos, Búsqueda de Personas y Atención a Víctimas de los municipios, y
+
+XL. Víctimas, aquellas personas a las que hace referencia la Ley General de Víctimas y la Ley de Víctimas para el Estado de Morelos y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 5.
 
-Las acciones, medidas y procedimientos establecidos en esta Ley son diseñados, implementados y evaluados aplicando los siguientes principios:
+Las acciones, medidas y procedimientos establecidos en esta Ley son diseñados, implementados y evaluados aplicando los principios señalados en el artículo 5 de la Ley General.
 
-I. Debida diligencia: todas las autoridades deben utilizar los medios necesarios para realizar con prontitud aquellas actuaciones esenciales y oportunas dentro de un plazo razonable para lograr el objeto de esta Ley, en especial la búsqueda de la persona desaparecida; así como la ayuda, atención, asistencia, derecho a la verdad, justicia y reparación integral a fin de que la víctima sea tratada y considerada como titular de derechos. En toda investigación y proceso penal que se inicie por los delitos previstos en la Ley General, las autoridades deben garantizar su desarrollo de manera autónoma, independiente, inmediata, imparcial, eficaz, con oportunidad, exhaustividad, respeto a los derechos humanos y máximo nivel de profesionalismo;
-
-II. Efectividad y exhaustividad: todas las diligencias que se realicen para la búsqueda de la persona desaparecida se harán de manera inmediata, oportuna, transparente, con base en información útil y científica, encaminadas a la localización y, en su caso, identificación, atendiendo a todas las posibles líneas de investigación. Bajo ninguna circunstancia se podrán invocar condiciones particulares de la persona desaparecida o la actividad que realizaba previa o al momento de la desaparición, para no ser buscada de manera inmediata;
-
-III. Enfoque diferencial y especializado: al aplicar esta Ley, las autoridades deben tener en cuenta la existencia de grupos de población con características particulares o con mayor situación de vulnerabilidad en razón de su origen étnico o nacional, idioma o lengua, religión, edad, género, preferencia u orientación sexual, identidad de género, condición de discapacidad, condición social, económica, histórica y cultural, así como otras circunstancias diferenciadoras, que requieran de una atención especializada y responda a las particularidades y grado de vulnerabilidad de las víctimas. De igual manera, tratándose de las acciones, mecanismos y procedimientos para la búsqueda, localización y desarrollo de las investigaciones, las autoridades deberán tomar en cuenta las características, contexto y circunstancias de la comisión de los delitos materia de la Ley General;
-
-IV. Enfoque humanitario: atención centrada en el alivio del sufrimiento y de la incertidumbre, basada en la necesidad de respuestas a los familiares;
-
-V. Gratuidad: todas las acciones, los procedimientos y cualquier otro trámite que implique el acceso a la justicia y demás derechos reconocidos en esta Ley, no tendrán costo alguno para las personas;
-
-VI. Igualdad y no discriminación: para garantizar el acceso y ejercicio de los derechos y garantías de las víctimas a los que se refiere esta Ley, las actuaciones y diligencias deben ser conducidas sin distinción, exclusión, restricción o preferencia que tenga por objeto o efecto impedir o anular el reconocimiento o el ejercicio de los derechos o la igualdad real de oportunidades de las personas. Toda garantía o mecanismo especial debe fundarse en razones de enfoque diferencial y especializado;
-
-VII. Interés superior de la niñez: las autoridades deberán proteger primordialmente los derechos de niñas, niños y adolescentes, y velar para que cuando tengan la calidad de víctimas o testigos, la protección que se les brinde sea armónica e integral, atendiendo a su desarrollo evolutivo y cognitivo, de conformidad con la Ley General de los Derechos de Niñas, Niños y Adolescentes y la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Morelos;
-
-VIII. Interrelación entre la búsqueda e investigación: todas las diligencias que se realicen para la búsqueda de las personas desaparecidas se correlacionarán entre las autoridades que realizan la búsqueda y las autoridades que tienen a cargo la investigación de los delitos materia de la Ley General;
-
-IX. Máxima protección: la obligación de adoptar y aplicar las medidas que proporcionen la protección más amplia para garantizar el trato digno, la seguridad, el bienestar físico y psicológico e intimidad de las víctimas a que se refiere esta Ley;
-
-X. No revictimización: la obligación de aplicar las medidas necesarias y justificadas de conformidad con los principios en materia de derechos humanos establecidos en la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales, para evitar que la persona desaparecida y las víctimas a que se refiere esta Ley, sean revictimizadas o criminalizadas en cualquier forma, agravando su condición, obstaculizando o impidiendo el ejercicio de sus derechos o exponiéndolas a sufrir un nuevo daño;
-
-XI. Participación conjunta: las autoridades de los distintos órdenes de gobierno, en sus respectivos ámbitos de competencia, permitirán la participación directa de los familiares, en los términos previstos en esta Ley y demás disposiciones aplicables, en las tareas de búsqueda, incluido el diseño, implementación y evaluación de las acciones en casos particulares, políticas públicas y prácticas institucionales;
-
-XII. Perspectiva de género: las diligencias que se practiquen para la búsqueda de la persona desaparecida, así como para investigar y juzgar los delitos previstos en la Ley General, deberán garantizar que su ejecución esté libre de prejuicios, estereotipos y de cualquier otro elemento que, por cuestiones del sexo, género, identidad u orientación sexual de las personas, propicien situaciones de desventaja, discriminación, violencia o se impida la igualdad;
-
-XIII. Presunción de vida: en las acciones, mecanismos y procedimientos para la búsqueda, localización y desarrollo de las investigaciones, las autoridades deben presumir que la persona desaparecida está con vida; y,
-
-XIV. Verdad: el derecho de conocer con certeza lo sucedido y recibir información sobre las circunstancias en que se cometieron los hechos constitutivos de los delitos previstos en la Ley General, en tanto que el objeto de la misma es el esclarecimiento de los hechos, la protección de las víctimas, el castigo de las personas responsables y la reparación de los daños causados, en términos de los artículos 1o. y 20 de la Constitución Política de los Estados Unidos Mexicanos.
-
-Además de los antes mencionados, también serán principios rectores para la búsqueda de personas desaparecidas los aprobados por el Comité Contra la Desaparición Forzada, de la Organización de las Naciones Unidas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 6.
 
-En todo lo no previsto en la presente Ley, son aplicables supletoriamente las disposiciones establecidas en la Ley de Víctimas y la legislación familiar del Estado de Morelos.
+En todo lo no previsto en la presente Ley, son aplicables supletoriamente las disposiciones establecidas en el Código Nacional de Procedimientos Penales, la Ley General, la Ley General de Víctimas, la Ley de Víctimas y la legislación aplicable.
 
 ### CAPÍTULO II. DISPOSICIONES GENERALES PARA PERSONAS DESAPARECIDAS MENORES DE 18 AÑOS
 
@@ -253,9 +247,11 @@ Los tipos penales en materia de desaparición forzada de personas, desaparición
 
 Los servidores públicos que lleven a cabo conductas incumpliendo injustificadamente con alguna de las obligaciones previstas en esta Ley y que no constituyan un delito, serán sancionados en términos de lo establecido en la Ley de Responsabilidades Administrativas para el Estado de Morelos y las demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 15.
 
-Para efectos de lo previsto en esta Ley, se considerará grave el incumplimiento injustificado o la actuación negligente ante cualquier obligación relacionada con la búsqueda inmediata de personas, en la investigación ministerial, pericial y policial, así como en los procedimientos establecidos en los protocolos correspondientes.
+Para los efectos de esta Ley, se considerarán como faltas graves las conductas previstas en los artículos 43 y 43 Bis de la Ley General.
 
 ## TÍTULO TERCERO. DEL SISTEMA DE BÚSQUEDA DE PERSONAS DEL ESTADO DE MORELOS
 
@@ -265,39 +261,41 @@ Para efectos de lo previsto en esta Ley, se considerará grave el incumplimiento
 
 El Sistema de Búsqueda tiene como objetivo diseñar y evaluar de manera eficiente y armónica los recursos del Estado de Morelos para establecer las bases generales, políticas públicas y procedimientos entre las autoridades del Gobierno local para la búsqueda, localización e identificación de Personas Desaparecidas, así como para la prevención e investigación de los delitos materia de la Ley General; establecer los lineamientos de coordinación con los sistemas o mecanismos homólogos de las entidades federativas y los Municipios y asimismo, mantener comunicación permanente y continua con el Mecanismo de Apoyo Exterior en términos de la Ley General.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 17.
 
-El Sistema de Búsqueda se integra por:
+El Sistema de Búsqueda se integra por las personas titulares de:
 
-I. La persona titular de la Secretaría de Gobierno, quien lo presidirá;
+I. La Secretaría de Gobierno del Poder Ejecutivo Estatal, quien lo presidirá;
 
-II. La persona titular de la Fiscalía General del Estado de Morelos;
+II. La Fiscalía General del Estado de Morelos;
 
-III. La persona titular de la Comisión de Búsqueda, quien fungirá como Secretaria Ejecutiva;
+III. La Comisión de Búsqueda, quien fungirá como Secretaria Ejecutiva;
 
-IV. La persona titular de la Comisión Estatal de Seguridad Pública (sic) Morelos;
+IV. La Secretaría de Seguridad;
 
-V. La persona titular del Instituto de la Mujer para el Estado de Morelos;
+V. La Secretaría de las Mujeres del Poder Ejecutivo Estatal;
 
-VI. La persona Titular de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos;
+VI. La Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos;
 
-VII. La persona titular de la Coordinación General de Protección Civil del Estado de Morelos;
+VII. La Coordinación General de Protección Civil del Estado de Morelos;
 
-VIII. La persona titular de la Secretaría de Salud del Estado de Morelos;
+VIII. La Secretaría de Salud del Poder Ejecutivo Estatal;
 
 IX. Tres personas del Consejo Ciudadano;
 
-X. La persona titular de la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes y la Familia del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos;
+X. La Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes y la Familia del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos;
 
-XI. La persona Titular del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
+XI. El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
 
-XII. Un representante del Tribunal Superior de Justicia del Estado de Morelos;
+XII. Una persona representante del Tribunal Superior de Justicia del Estado de Morelos;
 
 XIII. La diputada o el diputado que presida la Comisión de Justicia, Derechos Humanos y Atención a Víctimas del Congreso del Estado de Morelos, y
 
-XIV. La persona titular del Consejo Ciudadano de Seguridad y Procuración de Justicia del Estado de Morelos.
+XIV. El Consejo Ciudadano de Seguridad y Procuración de Justicia del Estado de Morelos.
 
-Así como un representante del Tribunal Unitario de Justicia para Adolescentes del Estado de Morelos, que deberá ser convocado a cada reunión del Sistema de Búsqueda, donde tendrá solo derecho a voz y no a voto.
+Así como una persona representante del Tribunal Unitario de Justicia para Adolescentes del Estado de Morelos, que deberá ser convocado a cada reunión del Sistema de Búsqueda, donde tendrá solo derecho a voz y no a voto.
 
 Las personas titulares de los Municipios serán integrantes con carácter no permanente del Sistema de Búsqueda, deberán ser convocadas para las reuniones del Sistema de Búsqueda en las que se traten asuntos de su competencia; en dichas reuniones tendrán solo derecho a voz.
 
@@ -307,17 +305,25 @@ Tratándose de la persona titular de la Fiscalía General, será suplente la per
 
 Las personas integrantes e invitadas del Sistema de Búsqueda no recibirán pago alguno por su participación en el mismo.
 
-La persona que preside el Sistema de Búsqueda podrá invitar a las sesiones respectivas a representantes de los organismos constitucionalmente autónomos, quienes tendrán solo derecho a voz.
+La persona que preside el Sistema de Búsqueda podrá invitar a las sesiones respectivas a personas representantes de los organismos constitucionalmente autónomos, quienes tendrán solo derecho a voz.
 
 Las instancias y las personas que integran el Sistema de Búsqueda están obligadas, en el marco de sus competencias, a cumplir con las acciones que deriven del ejercicio de las atribuciones de dicho órgano.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 18.
 
-El Sistema de Búsqueda sesionará válidamente con la presencia de la mayoría de sus integrantes y sus resoluciones deben ser tomadas por mayoría de votos. La persona que presida tiene voto dirimente en caso de empate.
+El Sistema de Búsqueda sesionará válidamente con la asistencia de la mayoría de sus integrantes; las decisiones que se adopten requerirán, para su validez, el voto favorable de la mayoría de los presentes, y en caso de empate, la persona que presida la sesión tendrá el voto de calidad.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 19.
 
-Las sesiones del Sistema de Búsqueda deben celebrarse de manera ordinaria, cada tres meses por convocatoria de la Secretaría Ejecutiva del Sistema de Búsqueda, por instrucción de la persona que lo presida, y de manera extraordinaria cuantas veces sea necesario, a propuesta de un tercio de sus integrantes. Las convocatorias deben realizarse por oficio o por cualquier medio electrónico que asegure y deje constancia de su recepción, con al menos cinco días hábiles a la fecha de celebración de la sesión correspondiente, y dos días hábiles de anticipación para las sesiones extraordinarias. En ambos casos debe acompañarse el orden del día correspondiente.
+Las sesiones tendrán el carácter de ordinarias o extraordinarias; las ordinarias deberán realizarse cuando menos cada seis meses, y las extraordinarias podrán realizarse todas las que fueren necesarias en tratándose de asuntos de imperiosa necesidad o extrema urgencia que así lo ameriten.
+
+Las convocatorias deberán efectuarse mediante oficio o por cualquier medio electrónico que garantice y deje constancia de su recepción, con una anticipación mínima de cinco días hábiles respecto de la fecha de celebración de las sesiones ordinarias, y de al menos dos días hábiles tratándose de sesiones extraordinarias, debiendo acompañarse en ambos casos del orden del día correspondiente.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 20.
 
@@ -329,9 +335,9 @@ II. El Registro Nacional, a través de la Comisión Nacional;
 
 III. El Registro de Personas Desaparecidas;
 
-IV. El Banco Nacional de Datos Forenses, a través de la Fiscalía General de la república;
+IV. El Banco Nacional de Datos Forenses, a través de la Fiscalía General de la República;
 
-V. El Registro Nacional de Personas Fallecidas No Identificadas y No Reclamadas, a través de la Fiscalía General de la República;
+V. El Registro Nacional de Personas Fallecidas y No Identificadas, a través de la Fiscalía General de la República;
 
 VI. El Registro de Personas Fallecidas;
 
@@ -347,9 +353,13 @@ XI. La Alerta Plateada;
 
 XII. El Protocolo Alba;
 
-XIII. El Protocolo Homologado de Búsqueda y los protocolos previstos en el artículo 73 de la Ley General; y,
+XIII. El Protocolo Homologado de Búsqueda y los protocolos previstos en el artículo 73 de la Ley General;
 
-XIV. Otros registros necesarios para su operación, en términos de lo que prevé esta Ley y su reglamento.
+XIV. La plataforma Única de Identidad;
+
+XV. La Base Nacional de Carpetas de Investigación, y
+
+XVI. Otros registros necesarios para su operación, en términos de lo que prevé la Ley General, esta Ley y su reglamento.
 
 ###### Artículo 21.
 
@@ -747,7 +757,9 @@ El ejercicio de los recursos del Fondo de Búsqueda se realizará conforme a los
 
 La Fiscalía General del Estado de Morelos deberá contar con una Fiscalía Especializada para la investigación y persecución de los delitos de desaparición forzada de personas y desaparición cometida por particulares, que deberá coordinarse interinstitucionalmente con la Comisión de Búsqueda y dar impulso permanente a la búsqueda de Personas Desaparecidas.
 
-La Fiscalía Especializada a que se refiere el primer párrafo de este artículo, debe contar con los recursos humanos, financieros, materiales y técnicos especializados y multidisciplinarios y una unidad de análisis de contexto para su efectiva operación, debiendo contar con personal sustantivo ministerial, policial, pericial y de apoyo psicosocial.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+La Fiscalía Especializada a que se refiere el primer párrafo de este artículo, debe contar con los recursos humanos, financieros, materiales y técnicos especializados y multidisciplinarios y con las unidades mínimas señaladas en la Ley General para su efectiva operación, debiendo contar con personal sustantivo ministerial, policial, pericial y de apoyo psicosocial.
 
 Todas las autoridades, en el ámbito de su competencia, están obligadas a colaborar de forma eficaz con la Fiscalía Especializada para el cumplimiento de la Ley.
 
@@ -757,83 +769,101 @@ Las personas servidoras públicas que integren la Fiscalía Especializada deber�
 
 I. Tener acreditados los requisitos de ingreso y permanencia de la institución respectiva, de conformidad con la Ley Orgánica de la Fiscalía General del Estado de Morelos y la Ley General del Sistema Nacional de Seguridad Pública;
 
-II. Tener el perfil que establezca la Conferencia Nacional de Procuración de Justicia; y,
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+II. Tener el perfil que establezca la Conferencia Nacional de Procuración de Justicia y la Ley General del Sistema Nacional de Seguridad Pública, y
 
 III. Acreditar los cursos de especialización, capacitación y de actualización, que establezca la Conferencia Nacional de Procuración de Justicia, según corresponda.
 
 La Fiscalía General del Estado de Morelos debe capacitar, conforme a los más altos estándares internacionales, a las personas servidoras públicas adscritas a la Fiscalía General en materia de atención a víctimas, de derechos humanos, perspectiva de género, interés superior de la niñez, sensibilización y relevancia específica de la Desaparición de Personas, aplicación del Protocolo Homologado para la Investigación, Identificación Forense, Cadena de Custodia, entre otros. De igual forma, podrán participar con las autoridades competentes, en la capacitación de las personas servidoras públicas conforme a los lineamientos que sobre la materia emita el Sistema de Búsqueda, en términos de la Ley General y de esta Ley.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 48.
 
 La Fiscalía Especializada tiene en el ámbito de su competencia, las atribuciones siguientes:
 
-I. Recibir las denuncias relacionadas con la probable comisión de hechos constitutivos de los delitos materia de la Ley General y de esta Ley e iniciar la carpeta de investigación correspondiente;
+I. Recibir las Denuncias relacionadas con la probable comisión de hechos constitutivos de los delitos materia de la Ley General y de esta Ley, iniciar la carpeta de investigación correspondiente y ordenar las diligencias o actos de investigación que corresponden en el ámbito de su competencia;
 
 II. Mantener coordinación con la Comisión de Búsqueda para realizar todas las acciones relativas a la búsqueda, investigación y persecución de los delitos materia de la Ley General, conforme al Protocolo Homologado de Investigación y demás disposiciones aplicables;
 
-III. Dar aviso de manera inmediata a la Comisión de Búsqueda sobre el inicio de una investigación de los delitos materia de la Ley General, a fin de que se inicien las acciones correspondientes a la búsqueda; así como compartir la información relevante, de conformidad con el Protocolo Homologado de Investigación y demás disposiciones aplicables;
+III. Dar aviso de manera inmediata, a través del Registro Nacional, a la Comisión de Búsqueda sobre el inicio de una investigación de los delitos materia de la Ley General, a fin de que se inicien las acciones correspondientes a la búsqueda; así como compartir la información relevante, de conformidad con el Protocolo Homologado de Investigación y demás disposiciones aplicables;
 
-IV. Mantener comunicación continua y permanente con la Comisión de Búsqueda, a fin de compartir información que pudiera contribuir en las acciones para la búsqueda y localización de personas, en términos de las disposiciones aplicables;
+IV. Proporcionar a la Comisión de Búsqueda, la información ministerial y pericial que ésta le solicita, tendiente a la búsqueda de personas con fines de identificación humana, y entregar al Centro Nacional la información correspondiente bajo los criterios de homologación definidos por la Comisión Nacional. Asimismo, la información que proporcione la Comisión de Búsqueda a la Fiscalía, con fines de la búsqueda, localización e identificación humana, deberá cumplir con la formalidad que establece la normativa relativa a la cadena de custodia, previa habilitación que realice la persona Agente del Ministerio Público que corresponda;
 
-V. Informar de manera inmediata a la Comisión de Búsqueda, sobre la localización o identificación de una persona;
+V. Mantener comunicación continua y permanente con la Comisión Nacional de Búsqueda y la Comisión de Búsqueda, a fin de compartir información que pueda contribuir en las acciones para la búsqueda y localización de personas, en términos de las disposiciones aplicables;
 
-VI. Solicitar la localización geográfica en tiempo real o la entrega de los datos conservados, en los términos establecidos en el Código Nacional de Procedimientos Penales;
+VI. Informar de manera inmediata a la Comisión de Búsqueda, según sea el caso, sobre la localización o identificación de una Persona;
 
-VII. Solicitar a través de la persona Titular de la Fiscalía General a la autoridad judicial competente, la autorización para ordenar la intervención de comunicaciones, en términos de las disposiciones aplicables;
+VII. Mantener comunicación continua y permanente con el Mecanismo de Apoyo Exterior y la Unidad de Investigación de Delitos para Personas Migrantes de la Fiscalía General de la República para recibir, recabar y proporcionar información sobre las acciones de investigación y persecución de los delitos materia de la Ley General cometidos en contra de personas migrantes;
 
-VIII. Realizar y comunicar sin dilación todos aquellos actos que requieran de autorización judicial que previamente hayan sido solicitados por la Comisión de Búsqueda que corresponda, para la búsqueda y localización de una Persona Desaparecida;
+VIII. Solicitar directamente la localización geográfica en tiempo real o la entrega de los datos conservados, en los términos establecidos en el Código Nacional de Procedimientos Penales;
 
-IX. Solicitar el apoyo policial a las autoridades competentes, para realizar las tareas de investigación en campo;
+IX. Solicitar a la autoridad judicial competente la autorización para ordenar la intervención de comunicaciones, en términos de las disposiciones aplicables;
 
-X. Recabar la información necesaria para la persecución e investigación de los delitos previstos en la Ley General;
+X. Realizar y comunicar sin dilación todos aquellos actos que requieran de autorización judicial que previamente hayan sido solicitados por la Comisión de Búsqueda que corresponde, para la búsqueda y localización de una Persona Desaparecida;
 
-XI. Remitir la investigación y las actuaciones realizadas a las autoridades competentes cuando advierta la comisión de uno o varios delitos diferentes a los previstos en la Ley General;
+XI. Conformar grupos de trabajo interinstitucionales y multidisciplinarios para la coordinación de la investigación de hechos probablemente constitutivos de los delitos materia de la Ley General, cuando de la información con la que cuente la autoridad se desprenda que pudo ocurrir en dos o más Entidades Federativas o se trate de una persona extranjera en situación de migración, independientemente de su situación migratoria;
 
-XII. Solicitar al Juez de Control competente las medidas cautelares que sean necesarias, de conformidad con el Código Nacional de Procedimientos Penales;
+XII. Solicitar el apoyo policial a las autoridades competentes, para realizar las tareas de investigación en campo;
 
-XIII. Solicitar la participación de la Comisión de Víctimas; así como a las instituciones y organizaciones de derechos humanos y de protección civil, en los términos de las disposiciones jurídicas aplicables;
+XIII. Recabar la información necesaria para la persecución e investigación de los delitos previstos en la Ley General u otras disposiciones aplicables;
 
-XIV. Establecer mecanismos de cooperación destinados al intercambio de información y adiestramiento continuo de los servidores públicos especializados en la materia;
+XIV. Remitir la investigación y las actuaciones realizadas a las autoridades competentes cuando advierta la comisión de uno o varios delitos diferentes a los previstos en la Ley General;
 
-XV. Localizar a las familias de las personas fallecidas identificadas no reclamadas, en coordinación con las instituciones correspondientes, para hacer la entrega digna y humana de cadáveres o restos humanos, conforme a lo señalado por el Protocolo Homologado de Investigación y demás protocolos aplicables en la materia;
+XV. Solicitar al Juez de Control competente las medidas cautelares que sean necesarias, de conformidad con el Código Nacional de Procedimientos Penales;
 
-XVI. Solicitar a las autoridades jurisdiccionales competentes la autorización para la realización de las exhumaciones en cementerios, fosas u otros sitios en los que se encuentren o se tengan razones fundadas para considerar que se encuentran cadáveres o restos humanos de Personas Desaparecidas;
+XVI. Solicitar la participación de la Comisión de Búsqueda y de la Comisión de Víctimas; así como a las instituciones y organizaciones de derechos humanos y de protección civil, en los términos de las disposiciones jurídicas aplicables;
 
-XVII. Solicitar a las autoridades jurisdiccionales competentes el traslado de las personas internas a otros centros de reclusión salvaguardando sus derechos humanos, siempre que esta medida favorezca la búsqueda o localización de las Personas Desaparecidas o la investigación de los delitos materia de la Ley General, en términos de la Ley Nacional de Ejecución Penal;
+XVII. Establecer mecanismos de cooperación destinados al intercambio de información y adiestramiento continuo de los servidores públicos especializados en la materia;
 
-XVIII. Facilitar la participación de los Familiares en la investigación de los delitos previstos en la Ley General, incluido brindarles información periódicamente sobre los avances en el proceso de la investigación y persecución de los delitos previstos en la Ley General en términos del Código Nacional de Procedimientos Penales;
+XVIII. Localizar a las familias de las personas fallecidas identificadas no reclamadas, en coordinación con las instituciones correspondientes, para poder hacer la entrega digna de cadáveres o restos humanos, conforme a lo señalado por el Protocolo Homologado de Investigación y demás normas aplicables;
 
-XIX. Celebrar convenios de colaboración o cooperación, para el óptimo cumplimiento de las atribuciones que le corresponden de conformidad con la presente Ley;
+XIX. Solicitar a las autoridades jurisdiccionales competentes la autorización para la realización de las exhumaciones en cementerios, fosas o de otros sitios en los que se encuentren y/o se tengan razones fundadas para creer que se encuentran cadáveres o restos humanos de Personas Desaparecidas;
 
-XX. Brindar la información que la Comisión de Búsqueda le solicite para coadyuvar en la búsqueda de personas, en términos de lo que establezcan las disposiciones aplicables;
+XX. Realizar las investigaciones que requieran control judicial solicitadas por la Comisión de Búsqueda, en el contexto de la búsqueda forense de Personas Desaparecidas con un enfoque masivo o a gran escala o, en su caso, de identificación humana complementaria. Las investigaciones deben realizarse en un término no mayor de setenta y dos horas salvo que, por su naturaleza, se requiera un término mayor, en cuyo caso lo podrá ampliar hasta ciento cuarenta y cuatro horas;
 
-XXI. Brindar la información que la Comisión de Víctimas le solicite para mejorar la atención a las víctimas, en términos de lo que establezcan las disposiciones aplicables;
+XXI. Solicitar a las autoridades jurisdiccionales competentes el traslado de las personas internas a otros centros de reclusión salvaguardando sus derechos humanos, siempre que esta medida favorezca la búsqueda o localización de las Personas Desaparecidas o la investigación de los delitos materia de la Ley General, en términos de la Ley Nacional de Ejecución Penal;
 
-XXII. Brindar la información que el Consejo Ciudadano le solicite para el ejercicio de sus funciones, en términos de lo que establezcan las disposiciones aplicables; y,
+XXII. Facilitar la participación de los Familiares en la investigación de los delitos previstos en la Ley General, incluido brindarles información periódicamente sobre los avances en el proceso de la investigación y persecución de los delitos previstos en la Ley General en términos del Código Nacional de Procedimientos Penales;
 
-XXIII. Las demás que establezcan otras disposiciones jurídicas aplicables.
+XXIII. Celebrar convenios de colaboración o cooperación, para el óptimo cumplimiento de las atribuciones que le corresponden de conformidad con la presente Ley;
+
+XXIV. Brindar la información que la Comisión Ejecutiva y la Comisión de Víctimas le solicitan para mejorar la atención a las víctimas, en términos de lo que establezcan las disposiciones aplicables;
+
+XXV. Brindar la información que el Consejo Ciudadano le solicita para el ejercicio de sus funciones, en términos de lo que establecen las disposiciones aplicables;
+
+XXVI. Proporcionar asistencia técnica a las Fiscalías Especializadas de las Entidades Federativas que lo solicitan;
+
+XXVII. Registrar y actualizar de manera inmediata, la información de los registros, bases de datos y sistemas de información, desde el momento en que se inicia la investigación;
+
+XXVIII. Proporcionar a las personas que hagan de conocimiento la desaparición de un familiar el número de carpeta de investigación, y
+
+XXIX. Las demás que establezcan otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 49.
 
-La Fiscalía Especializada de la Fiscalía General del Estado de Morelos remitirá inmediatamente a la Fiscalía Especializada en Investigación de los Delitos de Desaparición Forzada de la Fiscalía General de la República, los expedientes de los que conozca cuando se actualicen los supuestos previstos en el artículo 24 de la Ley General, o bien, iniciará inmediatamente la carpeta de investigación, cuando el asunto no esté reservado expresamente como competencia de la Federación.
+La Fiscalía Especializada deberá remitir de manera inmediata a la Fiscalía Especializada en Investigación de los Delitos de Desaparición Forzada de la Fiscalía General de la República los expedientes de los que tenga conocimiento, cuando se actualicen los supuestos previstos en el artículo 24 de la Ley General.
+
+En los casos en que el asunto no se encuentre expresamente reservado como competencia exclusiva de la Federación, la Fiscalía Especializada iniciará de inmediato la carpeta de investigación correspondiente.
 
 ###### Artículo 50.
 
 La persona servidora pública que sea señalada como imputada por el delito de desaparición forzada de personas, y que por razón de su encargo o influencia pueda interferir u obstaculizar las acciones de búsqueda o las investigaciones, podrá ser sujeto de medidas cautelares como la suspensión temporal de su encargo, entre otras, dictadas por la autoridad jurisdiccional competente, de conformidad con lo establecido en el Código Nacional de Procedimientos Penales. Adicionalmente a lo previsto en el párrafo anterior, el superior jerárquico adoptará las medidas administrativas y adicionales necesarias para impedir que la persona servidora pública interfiera con las investigaciones.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 51.
 
-La Fiscalía Especializada deberá generar criterios y metodología específica para la investigación y persecución de los delitos de desaparición forzada de personas. En el caso de las desapariciones forzadas por motivos políticos de décadas pasadas, de conformidad con el Protocolo Homologado de Investigación, la Ley General y esta Ley, las Fiscalías Especializadas deberán emitir criterios y metodología específicos que deberán permitir al menos, realizar, lo siguiente:
+La Fiscalía Especializada deberá generar criterios y metodología específica para la investigación y persecución de los delitos de desaparición forzada de personas, de conformidad con lo señalado en el artículo 73 de la Ley General.
 
-A).- Los procedimientos de búsqueda permanente que se lleven a cabo para buscar personas en cualquier lugar donde se presuma pudieran estar privadas de libertad, como son centros penitenciarios, centros clandestinos de detención, estaciones migratorias, centros de salud y cualquier otro lugar en donde se pueda presumir pueda estar la persona desaparecida;
-
-B).- Las diligencias pertinentes, cuando se sospeche que la víctima ha sido privada de la vida para la exhumación de los restos, en los lugares donde se presume pudieran estar, de acuerdo a los estándares internacionales, siendo derecho de los Familiares y demás víctimas indirectas, solicitar la participación de peritos especializados independientes.
-
-En la generación de los criterios y metodología específicos, se tomarán en cuenta las sentencias y resoluciones nacionales e internacionales en materia de búsqueda e investigación de los casos de desaparición forzada.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 52.
 
-La Fiscalía Especializada debe continuar sin interrupción la investigación de los delitos previstos en la Ley General, en términos de lo que establezca el Protocolo Homologado de Investigación y el Código Nacional de Procedimientos Penales.
+La Fiscalía Especializada debe continuar sin interrupción la investigación de los delitos previstos en la Ley General, en términos de lo que establezca el Protocolo Homologado de Investigación y el Código Nacional de Procedimientos Penales. En los casos de los delitos previstos en la Ley General no procederá el archivo temporal de la investigación.
 
 ###### Artículo 53.
 
@@ -851,57 +881,35 @@ La Fiscalía Especializada no puede condicionar la recepción de la información
 
 #### SECCIÓN PRIMERA. DE LA SOLICITUD DE BÚSQUEDA
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 56.
 
-La búsqueda tendrá por objeto realizar todas las acciones y diligencias tendientes para dar con (sic) destino o el paradero de la persona hasta su localización, incluidas aquellas para identificar plenamente sus restos en caso de que estos hayan sido localizados. La búsqueda a que se refiere la presente Ley se realizará de forma conjunta y coordinada por la Comisión de Búsqueda y las autoridades participantes. Los mecanismos de búsqueda deberán agotarse totalmente hasta que se determine el paradero de la persona.
+La búsqueda tendrá por objeto realizar todas las acciones y diligencias tendientes para dar con destino o el paradero de la persona hasta su localización, incluidas aquellas para identificar plenamente sus restos en caso de que estos hayan sido localizados. La búsqueda a que se refiere la presente Ley se realizará de forma conjunta y coordinada por la Comisión de Búsqueda y las autoridades participantes, atendiendo lo dispuesto en los artículos 79, 80, 81, 82, 83, 84, 85, 86 y 87 de la Ley General.
 
-La Comisión de Búsqueda garantizará que los mecanismos se apliquen conforme a las circunstancias propias de cada caso, de conformidad con esta Ley, el Protocolo Homologado de Búsqueda y demás protocolos aplicables.
+Los mecanismos de búsqueda deberán agotarse totalmente hasta que se determine el paradero de la persona. La Comisión de Búsqueda garantizará que los mecanismos se apliquen conforme a las circunstancias propias de cada caso, de conformidad con la Ley General, esta Ley, el Protocolo Homologado de Búsqueda y demás protocolos aplicables.
 
-#### SECCIÓN SEGUNDA. DE LOS PROTOCOLOS
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+#### SECCIÓN PRIMERA BIS. DE LA FICHA DE BÚSQUEDA, LOCALIZACIÓN E IDENTIFICACIÓN
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 57.
 
-Cualquier persona puede solicitar la búsqueda de una Persona Desaparecida mediante:
-
-I. Noticia;
-
-II. Reporte, o
-
-III. Denuncia.
-
-La Noticia, el Reporte o la Denuncia pueden realizarse en forma anónima. Tratándose de Denuncia, no será necesaria su ratificación. Tanto la búsqueda como la investigación se llevarán a cabo sin dilación.
+La autoridad competente del Estado de Morelos que reciba una Noticia, Reporte o Denuncia por la desaparición o no localización de una persona deberá observar y aplicar inmediatamente lo dispuesto en el artículo 12 Duodecies de la Ley General.
 
 ###### Artículo 58.
 
-El Reporte puede realizarse las veinticuatro horas del día, todos los días del año, a través de cualquiera de los siguientes medios:
-
-I. Telefónico, a través de los números habilitados para tal efecto;
-
-II. Medios Digitales;
-
-III. Presencial, ante la Comisión de Búsqueda;
-
-IV. Tratándose de personas que no residen en el territorio nacional, a través de las oficinas consulares o embajadas de México en el extranjero, las cuales deberán remitir sin dilación el Reporte a la Comisión Nacional, o de manera directa a la Comisión de Búsqueda del Estado y/o a la Fiscalía Especializada que corresponda; y,
-
-V. El Sistema Estatal, mediante acuerdo publicado en el Periódico Oficial "Tierra y Libertad", puede establecer medios adicionales a los previstos en este artículo para recibir Reportes.
-
-Cuando la distancia o los medios de comunicación no permitan realizar el Reporte en términos de las fracciones anteriores, este puede realizarse ante las Unidades de Búsqueda que correspondan, la policía o la autoridad municipal que el Ayuntamiento designe para tal efecto y que cuente con la capacitación para aplicar el protocolo de búsqueda correspondiente.
-
-En el caso de Reportes realizados en términos de la fracción I de este artículo, la autoridad que reciba el reporte deberá proporcionar el reporte de búsqueda a la Comisión de Búsqueda.
-
-En el caso de la fracción III, quien reciba el Reporte deberá entregar a la persona que lo realizó constancia por escrito en el que constará el folio único de búsqueda.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2025)
 
 ###### Artículo 59.
 
-La presentación de Denuncias se sujetará a lo previsto en el Código Nacional de Procedimientos Penales.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2025)
 
 ###### Artículo 60.
 
-Cuando se trate de una Noticia, las autoridades que tengan conocimiento de ésta, deben:
-
-a). Recabar los datos mínimos que se desprendan de la Noticia, como se señala en el artículo 62, y
-
-b). Transmitir la información de manera inmediata a la Comisión de Búsqueda.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2025)
 
 ###### Artículo 61.
 
@@ -953,9 +961,11 @@ La Comisión de Búsqueda debe actualizar constantemente el expediente de búsqu
 
 Los Familiares y sus representantes tienen acceso de manera íntegra al expediente de búsqueda de conformidad con las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 65.
 
-En el caso de la presentación de una Denuncia, el agente del Ministerio Público que la reciba debe proceder sin dilación a aplicar el Protocolo Homologado de Investigación y remitir la información a la Fiscalía Especializada competente, así como a la Comisión de Búsqueda.
+En el caso de la presentación de una Denuncia, la persona Agente del Ministerio Público que reciba debe proceder sin dilación a aplicar el Protocolo Homologado de Investigación y remitir la información a la Fiscalía Especializada competente, así como a la Comisión de Búsqueda.
 
 ###### Artículo 66.
 
@@ -973,7 +983,7 @@ IV. Cuando, aun sin haber elementos de la probable comisión de un delito, han t
 
 V. Cuando antes del plazo establecido en el inciso anterior aparezcan indicios o elementos que hagan suponer la probable comisión de un delito.
 
-#### SECCIÓN TERCERA. DE LA BÚSQUEDA DE PERSONAS MIGRANTES
+#### SECCIÓN SEGUNDA. DE LOS PROTOCOLOS
 
 ###### Artículo 67.
 
@@ -1016,6 +1026,8 @@ Cualquier Fiscalía o Ministerio Público tiene la obligación de recibir sin di
 Las acciones y procedimientos de búsqueda, localización e identificación de Personas Desaparecidas, deberán realizarse de conformidad con lo dispuesto por esta Ley, la Ley General, los Protocolos Homologados de Búsqueda e Investigación y los Lineamientos correspondientes.
 
 La investigación y persecución de los delitos previstos por la Ley General, se hará conforme a ésta, aplicando los Protocolos determinados de manera enunciativa más no limitativa en el artículo 67 de esta Ley.
+
+#### SECCIÓN TERCERA. DE LA BÚSQUEDA DE PERSONAS MIGRANTES
 
 ###### Artículo 72.
 
@@ -1067,7 +1079,9 @@ Corresponde a la Comisión de Búsqueda administrar, y coordinar la operación d
 
 El Registro de Personas Desaparecidas debe estar interconectado con las herramientas de búsqueda e identificación previstas en la Ley General y esta Ley y ser actualizado en tiempo real, mediante personal designado y capacitado para ello. La información deberá ser recabada de conformidad con el Protocolo Homologado de Búsqueda.
 
-La Fiscalía Especializada competente debe actualizar el Registro de Personas Desaparecidas, indicando si la carpeta corresponde al delito de desaparición forzada de personas o desaparición cometida por particulares. Si de las investigaciones se desprende que se trata de un delito diferente a los previstos en la Ley General, así se hará constar en el Registro de Personas Desaparecidas actualizando el estado del folio, sin perjuicio de que continúe la investigación correspondiente.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+La Fiscalía Especializada competente debe actualizar el Registro de Personas Desaparecidas, indicando si la carpeta corresponde al delito de desaparición forzada de personas o desaparición cometida por particulares. Asimismo, la Fiscalía Especializada deberá incorporar y actualizar permanentemente, a la Base Nacional de Carpetas de Investigación, las carpetas de investigación, averiguaciones previas y los expedientes materia de esta Ley, de conformidad con las disposiciones que para tal efecto emita el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública.
 
 Si la Persona Desaparecida ha sido encontrada viva o si fueron encontrados sus restos, se dará de baja del Registro de Personas Desaparecidas y se dejará constancia de ello, sin perjuicio del seguimiento de la investigación correspondiente.
 
@@ -1139,15 +1153,21 @@ APARTADO TERCERO
 
 DE LA DISPOSICIÓN DE CADÁVERES DE PERSONAS
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 96.
 
-La Fiscalía Especializada deberá contar con un Registro de Fosas Comunes y de Fosas Clandestinas en el Estado de Morelos que concentrará la información de las que existen en los cementerios y panteones de los treinta y seis municipios del Estado, así como de las Fosas Clandestinas que la Fiscalía General o la Fiscalía Especializada localicen en la entidad. El Registro de Fosas Comunes y de Fosas Clandestinas en el Estado de Morelos, estará interconectado en tiempo real con el Registro Nacional de Fosas.
+La Fiscalía Especializada deberá contar con un Registro de Fosas que concentrará la información de las que existen en los cementerios y panteones de los treinta y seis municipios del Estado, así como de las Fosas Clandestinas que la Fiscalía General o la Fiscalía Especializada localicen en la entidad. El Registro de Fosas, estará interconectado en tiempo real con el Registro Nacional de Fosas, el cual es parte de las herramientas del Sistema Nacional.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 97.
 
-Los servicios periciales y médico forense de la Fiscalía General deben capturar en el Registro de Personas Fallecidas, la información que recaben, de conformidad con la Ley General y el protocolo homologado. Los cadáveres o restos de personas cuya identidad se desconozca o no hayan sido reclamados, no pueden ser incinerados, destruidos o desintegrados, ni disponerse de sus pertenencias. La Fiscalía General debe tener el registro del lugar donde sean colocados los cadáveres o restos de personas cuya identidad se desconozca o no hayan sido reclamados. Cuando las investigaciones revelen la identidad del cadáver o los restos de la persona, el agente del Ministerio Público competente autorizará que los Familiares dispongan de él y de sus pertenencias de manera inmediata, salvo que sean necesarios para continuar con las investigaciones o para el correcto desarrollo del proceso penal, en cuyo caso dictará las medidas correspondientes debidamente fundadas y motivadas.
+Los servicios periciales y médico forense de la Fiscalía General deben capturar en el Registro de Personas Fallecidas, la información que recaben, de conformidad con la Ley General y el protocolo homologado. Los cadáveres o restos de personas cuya identidad se desconozca o no hayan sido reclamados, no pueden ser incinerados, destruidos o desintegrados, ni disponerse de sus pertenencias. La Fiscalía General debe tener el registro del lugar donde sean colocados los cadáveres o restos de personas cuya identidad se desconozca o no hayan sido reclamados, de acuerdo con el Registro Nacional de Personas Fallecidas y No Identificadas.
 
-En caso de emergencia sanitaria o desastres naturales, se adoptarán las medidas que establezcan la Secretaría de Salud Federal, la Secretaría de Salud y la Coordinación de Protección Civil, ambas del Estado de Morelos.
+Cuando las investigaciones revelen la identidad del cadáver o los restos de la persona, la persona Agente del Ministerio Público competente autorizará que los Familiares dispongan de él y de sus pertenencias de manera inmediata, salvo que sean necesarios para continuar con las investigaciones o para el correcto desarrollo del proceso penal, en cuyo caso dictará las medidas correspondientes debidamente fundadas y motivadas.
+
+En caso de emergencia sanitaria o desastres naturales, se adoptarán las medidas que establezcan las autoridades competentes.
 
 ###### Artículo 98.
 
@@ -1321,7 +1341,9 @@ La Fiscalía Especializada en el ámbito de su respectiva competencia, debe esta
 
 Se tomarán medidas urgentes y adecuadas que sean necesarias, para asegurar la protección del denunciante, los testigos, los allegados de la persona desaparecida, así como de quienes participen en la investigación, contra todo maltrato o intimidación en razón de la denuncia presentada o de cualquier declaración efectuada.
 
-También deberán otorgar el apoyo ministerial, pericial, policial y de otras fuerzas de seguridad a las organizaciones de Familiares y a Familiares en las tareas de búsqueda de personas desaparecidas, garantizando todas las medidas de protección a su integridad física, a solicitud de la Comisión de Búsqueda o de la Fiscalía Especializada.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+También deberán otorgar el apoyo ministerial, pericial, policial y de otras fuerzas de seguridad a las organizaciones de Familiares y a Familiares en las tareas de búsqueda de Personas Desaparecidas en campo, garantizando todas las medidas de protección a su integridad física, a solicitud de la Comisión de Búsqueda o de la Fiscalía Especializada.
 
 ###### Artículo 115.
 
@@ -1333,9 +1355,11 @@ La Fiscalía Especializada puede otorgar, con apoyo de la Comisión de Víctimas
 
 Cuando se trate de personas defensoras de los derechos humanos o periodistas, se estará también a lo dispuesto en la legislación aplicable para la Protección de Personas Defensoras de Derechos Humanos y Periodistas.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 117.
 
-La incorporación a los programas de protección de personas a que se refiere el artículo 92 de esta Ley, debe ser autorizada por el agente del Ministerio Público encargado de la investigación o por la persona titular de la Fiscalía Especializada.
+La incorporación a los programas de protección de personas a que se refiere el artículo 92 de esta Ley, debe ser autorizada por las personas Agentes del Ministerio Público encargado de la investigación o por la persona titular de la Fiscalía Especializada, dentro del ámbito de su competencia.
 
 ###### Artículo 118.
 
@@ -1355,11 +1379,11 @@ Lo anterior con independencia de las establecidas en la Ley General del Sistema 
 
 Todo establecimiento, instalación o cualquier sitio en control de las autoridades del estado de Morelos y sus municipios en donde pudieran encontrarse personas en privación de la libertad, deberá contar con cámaras de video que permitan registrar los accesos y salidas del lugar. Las grabaciones deberán almacenarse de forma segura por dos años.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 121.
 
-La Fiscalía General debe administrar bases de datos estadísticas relativas a la incidencia de los delitos previstos en la Ley General, garantizando que los datos estén desagregados, al menos, por género, edad, nacionalidad, demarcación territorial, sujeto activo, rango y dependencia de adscripción, así como si se trata de desaparición forzada o desaparición cometida por particulares.
-
-Las bases de datos a que se refiere el párrafo que antecede, deben permitir la identificación de circunstancias, grupos en condición de vulnerabilidad, modus operandi, delimitación territorial, rutas y zonas de alto riesgo, en los que aumente la probabilidad de comisión de alguno de los delitos previstos en la Ley General, para garantizar su prevención.
+La Fiscalía General debe administrar bases de datos estadísticas relativas a la incidencia de los delitos previstos en la Ley General, garantizando que los datos estén desagregados, al menos, por género, edad, nacionalidad, demarcación territorial, sujeto activo, rango y dependencia de adscripción, así como si se trata de desaparición forzada o desaparición cometida por particulares, conforme a lo dispuesto en el artículo 160 de la Ley General.
 
 ###### Artículo 122.
 
@@ -1393,9 +1417,11 @@ XII. Las demás que establezcan otras disposiciones jurídicas aplicables.
 
 La Fiscalía Especializada debe intercambiar con las fiscalías especializadas de otras entidades y la Fiscalía General de la República, la información que favorezca la investigación de los delitos previstos en la Ley General y que permita la identificación y sanción de los responsables.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 124.
 
-La Fiscalía General debe diseñar los mecanismos de colaboración que correspondan, con la finalidad de dar cumplimiento a lo previsto en la Ley General y en esta Ley.
+La Fiscalía General y la Comisión de Búsqueda deben diseñar los mecanismos de colaboración que correspondan, con la finalidad de dar cumplimiento a lo previsto en la Ley General y en esta Ley.
 
 ###### Artículo 125.
 
@@ -1413,9 +1439,13 @@ El Gobierno del Estado de Morelos y los Municipios están obligados a remitir an
 
 ### CAPÍTULO III. DE LA CAPACITACIÓN
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 128.
 
-La Comisión de Búsqueda, la Fiscalía Especializada y la persona titular de cada uno de los Ayuntamientos, deben establecer programas obligatorios de capacitación en materia de derechos humanos, enfocados a los principios referidos en el artículo 5° de esta Ley, para las personas servidoras públicas de las Instituciones y áreas de Seguridad Publica involucradas en la búsqueda y acciones previstas en este ordenamiento, con la finalidad de prevenir la comisión de los delitos previstos en la Ley General.
+El Sistema Estatal, a través de la Secretaría de Gobierno del Poder Ejecutivo Estatal, la Comisión de Búsqueda, la Fiscalía Especializada, la Secretaría de Seguridad y la persona titular de cada uno de los ayuntamientos, deben establecer programas de capacitación en materia de derechos humanos.
+
+Para las personas servidoras públicas de las Instituciones de Seguridad Pública y Procuración de Justicia Publica involucradas en la búsqueda y acciones previstas en este ordenamiento, con la finalidad de prevenir la comisión de los delitos previstos en la Ley General.
 
 ###### Artículo 129.
 
@@ -1429,9 +1459,11 @@ La Fiscalía General a través del Centro de Evaluación y Control de Confianza 
 
 La Comisión de Búsqueda emitirá los lineamientos que permita a la Comisión de Seguridad Pública determinar el número de integrantes que conformarán las Unidades de Búsqueda, de conformidad con las cifras de los índices del delito de desaparición forzada de personas y la cometida por particulares, así como de Desaparecidas que existan en cada Municipio.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 132.
 
-La Fiscalía General y la Comisión Estatal de Seguridad deben capacitar y certificar a su personal conforme a los criterios de capacitación y certificación, que al efecto establezca la Conferencia Nacional de Procuración de Justicia.
+La Fiscalía General y Secretaría de Seguridad deben capacitar y certificar a su personal conforme a los criterios de que al efecto establezca la Ley General y la Conferencia Nacional de Procuración de Justicia.
 
 ###### Artículo 133.
 
@@ -1476,3 +1508,17 @@ SECRETARIO DE GOBIERNO
 SAMUEL SOTELO SALGADO
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CIENTO DOS POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE BÚSQUEDA DE PERSONAS PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan a lo establecido en el presente decreto.
+
+CUARTA. En un término no mayor a sesenta días hábiles, contados a partir de la entrada en vigor del presente decreto, se deberán realizar la armonización al Reglamento de la Ley y demás normativa correspondiente; en tanto sucede esto, se mantendrán vigentes las actuales, en lo que no se oponga a lo previsto en el presente decreto.
