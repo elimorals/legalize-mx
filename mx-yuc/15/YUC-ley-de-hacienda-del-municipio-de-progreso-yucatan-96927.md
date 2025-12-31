@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-progreso-yucatan-96927"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-27"
-last_updated: "2024-12-30"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96927&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE PROGRESO, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 27 de diciembre de 2013.
 
@@ -212,6 +212,44 @@ b) Dictar las disposiciones administrativas que se requieren para la mejor aplic
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 c) Emitir o modificar, mediante disposiciones administrativas de carácter general, los sistemas o procedimientos administrativos, estableciendo las dependencias recaudadoras, técnicas y administrativas necesarias o suficientes, señalándoles sus funciones y delegándoles las facultades que considere conveniente, excepto las que les corresponda como autoridad fiscal.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 13 Bis.
+
+El Municipio a través de la Dirección de Finanzas y Tesorería Municipal, podrá reducir parcialmente el pago del impuesto predial a aquellos contribuyentes que destinen los predios sobre los que se causa el impuesto dentro del territorio municipal, para la implementación de proyectos de desarrollo que impliquen un beneficio social o económico para el Municipio de Progreso.
+
+Para calcular el porcentaje de reducción del pago del impuesto predial, la Dirección de Finanzas y Tesorería Municipal, considerará el monto total de la inversión del proyecto de desarrollo que implique un beneficio social o económico para el Municipio de Progreso, conforme a lo siguiente:
+
+I. De diez millones de pesos a veinticinco millones de pesos: veinte por ciento (20%) de reducción.
+
+II. De veintiséis millones de pesos a cincuenta millones de pesos: treinta por ciento (30 %) de reducción.
+
+III. De cincuenta y un millones de pesos a setenta y cinco millones de pesos: cincuenta por ciento (50%) de reducción.
+
+IV. De setenta y seis millones de pesos en adelante: setenta y cinco por ciento (75%) de reducción.
+
+El porcentaje del pago del impuesto predial a reducir no podrá exceder del setenta y cinco por ciento (75 %).
+
+El titular de los predios destinados a un proyecto de desarrollo deberá notificar a la Dirección de Finanzas y Tesorería Municipal dentro de los primeros diez días hábiles del mes de enero del año siguiente a aquel en que inició la ejecución del proyecto de desarrollo, el monto total de inversión erogada durante el ejercicio fiscal transcurrido, así como la documentación comprobatoria como lo pueden ser los comprobantes fiscales digitales expedidos en favor de la persona física o moral que gestionó la licencia de construcción del proyecto, los registros contables del mismo, los informes de avances y resultados expedidos por profesionista certificado para ello, a efecto de que se calcule y se determine el porcentaje de reducción del pago del impuesto predial que aplicará, sin excepción alguna, para el ejercicio fiscal en el que se presente la información y documentación correspondiente. En caso de que el proyecto de desarrollo se prolongue en diversos ejercicios fiscales atenderá a los criterios antes mencionados, no pudiendo exceder la ejecución del monto total de inversión un lapso mayor a tres años.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Artículo 13 Quater (sic).- Tratándose de créditos fiscales de contribuciones municipales, la persona titular de la Dirección de Finanzas y Tesorería Municipal podrá disminuir el monto del crédito fiscal, cuando medie petición del contribuyente, y opere indistintamente alguno de los siguientes supuestos:
+
+I. El adeudo fiscal sea ruinoso para el contribuyente o confiscatorio respecto del inmueble;
+
+II. El contribuyente, no tenga adeudos de ejercicios fiscales anteriores respecto de la contribución, y ésta hubiere incrementado en el ejercicio fiscal en curso más del veinte por ciento respecto del ejercicio fiscal inmediato anterior siempre y cuando no hubiere incrementado la base de la contribución por causa del contribuyente;
+
+III. El contribuyente tuviere adeudos de ejercicios fiscales anteriores y las actualizaciones y recargos representen más del treinta por ciento del importe total del crédito fiscal respecto de la suerte principal.
+
+IV. Cuando el crédito fiscal se haya incrementado por muerte del sujeto pasivo de la relación jurídica tributaria;
+
+V. Cuando el pago del crédito fiscal implique la regularización de la propiedad inmobiliaria del contribuyente, y
+
+VI. Cuando el pago del crédito fiscal implique la regularización de la situación fiscal municipal del contribuyente respecto de la contribución de que se trate.
+
+Lo previsto en este artículo no constituye instancia, ni interrumpe, ni suspende los plazos para que los particulares puedan interponer los medios de defensa. Las resoluciones que se emitan por la autoridad fiscal no podrán ser impugnadas por los contribuyentes.
 
 ### CAPITULO VI. De las Características de los Ingresos y su Clasificación
 
@@ -663,6 +701,24 @@ El valor que aparece en los registros de la Dirección de Catastro y Zona Federa
 
 Cuando un inmueble sea otorgado en uso, goce, se permita su ocupación por cualquier título y con motivo de la ocupación se genere una contraprestación, el impuesto predial se causará sobre la base de rentas, frutos civiles o cualquier otro tipo de contraprestación al porcentaje señalado en la Ley de Ingresos del Municipio de Progreso, Yucatán.
 
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 44 Bis.
+
+Los propietarios de bienes inmuebles situados en el municipio de Progreso podrán solicitar ante la Dirección de Catastro y Zona Federal Marítima la reconsideración del valor catastral de los mismos, para lo cual deberán presentar la solicitud por escrito de la misma en la cual exprese los motivos de la presentación, anexando:
+
+I. Identificación oficial del propietario y, en su caso, de su representante legal.
+
+II. Escritura Pública con la cual acredite la propiedad del inmueble.
+
+III. Inscripción vigente del inmueble en el Registro Público de la Propiedad y el Comercio, con antigüedad de expedición no mayor a un mes al momento de la presentación.
+
+IV. Avalúo Comercial del predio, expedido con una antigüedad no mayor de tres meses al momento de su presentación ante la autoridad catastral municipal, emitido por perito valuador inscrito en el Padrón de Peritos Valuadores del Estado de Yucatán.
+
+V. Cédula Catastral con una antigüedad de expedición no mayor a un mes, al momento de su presentación.
+
+En ningún caso el nuevo valor catastral resultante del predio será inferior al sesenta por ciento del valor comercial contenido en el avalúo presentado.
+
 #### Sección Quinta. De la Tarifa
 
 ###### Artículo 45.
@@ -679,11 +735,45 @@ El Impuesto se causará anualmente y deberá cubrirse por meses vencidos dentro 
 
 Los pagos mensuales serán el resultado de dividir el impuesto anual total entre los doce meses.
 
-Cuando el contribuyente pague en una sola exhibición el impuesto predial correspondiente a una anualidad, durante los meses de enero y febrero de dicho año, gozará de un descuento del 10% anual.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Cuando el contribuyente pague en una sola exhibición el impuesto predial correspondiente a una anualidad, durante los meses de enero, febrero y marzo de dicho año, gozará de un descuento del 10% anual.
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 Asimismo, las personas adultas mayores, los pensionados y jubilados que demuestren esta condición gozarán de un descuento del 50% anual si pagan su impuesto durante los meses de enero y febrero del año que se causa.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 46 Bis.
+
+En el caso de fraccionamientos de inmuebles, subdivisión o fusión de inmuebles, el impuesto se causará por cada fracción que resulte, a partir del ejercicio fiscal siguiente a aquél en que se formalice la escritura respectiva, la que deberá ser presentada ante la autoridad competente en un plazo que no excederá de los 30 días hábiles siguientes a su formalización.
+
+Para el caso de inmuebles en proceso de construcción, el valor catastral que servirá de base para calcular el impuesto predial a pagar se determinará a partir de la clasificación que de dichos inmuebles se efectúe, tomando como base los datos proporcionados para la obtención de la licencia de construcción respectiva y, en su caso, en la última manifestación que modifique el original de dichos documentos, atendiendo a la vigencia de cada una.
+
+Para tales efectos, el uso y tipo de la construcción se definirán por las características y datos contenidos en la manifestación respectiva, definiendo así los datos catastrales conforme a los cuales se calculará el valor de la construcción, considerando solamente el 25% de la superficie de construcción total registrada en la manifestación respectiva, durante los bimestres que abarquen el tiempo de vigencia de tal manifestación y de las ampliaciones correspondientes, de ser el caso, aplicando las tablas de valores unitarios de construcción vigentes en el ejercicio fiscal que corresponda en la Ley de Ingresos del Municipio de Progreso. A lo anterior, se le adicionará el valor del suelo determinado conforme a las tablas de valores unitarios de suelo de la antes mencionada ley vigente.
+
+En aquellos desarrollos proyectados con más de una unidad de construcción de inmuebles como en el caso de los conjuntos condominales, representada en fases, etapas, torres y que éstas sean susceptibles de uso y aprovechamiento independiente, se deberá tomar, además de lo señalado en el párrafo anterior, para establecer la base gravable y el cobro del Impuesto Predial que le corresponde a cada fase, etapa o torre, el 25% de la superficie de construcción destinada a cada una de ellas, para lo cual el contribuyente deberá presentar, por lo menos, la memoria descriptiva autorizada en el registro de manifestación para la licencia de construcción, en donde señale la superficie de suelo y de construcción que corresponda a cada unidad o el régimen de propiedad en condominio y la tabla de valores e indivisos, quedando a salvo el derecho de la Dirección de Finanzas y Tesorería Municipal así como de la Dirección de Catastro y Zona Federal Marítima para realizar la comprobación correspondiente.
+
+Para el cálculo del impuesto predial de la o las unidades de construcción no concluidas, se sustraerá de la manifestación de construcción la superficie de terreno que le o les haya correspondido a las unidades de construcción ya individualizadas. Lo anterior, considerando la memoria descriptiva y los documentos soporte que haya presentado el contribuyente para tramitar la licencia de construcción correspondiente. La individualización de cuentas antes referida en estos casos, se realizará conforme al aviso de terminación de obra presentado ante la Dirección de Desarrollo Urbano y Obras Públicas del Municipio de Progreso.
+
+En relación con los párrafos precedentes, para el caso en que se suspenda o interrumpa el proceso de construcción de la obra respectiva por más de un bimestre, se deberá presentar ante la Dirección de Finanzas y Tesorería Municipal, la manifestación correspondiente, anexándola a la declaración que corresponda al bimestre siguiente a aquel en que se presente esta circunstancia y hasta que la misma desaparezca. La suspensión de la obra para efectos de este artículo podrá ser por una o por la totalidad de las etapas de la construcción. En este supuesto, se determinará el valor real que corresponda a la construcción, debiendo dar aviso a dicha autoridad cuando se reanude la ejecución de la obra, en el bimestre siguiente al en que esto suceda, en cuyo caso se volverá a calcular el valor de la construcción considerando lo previsto en este artículo.
+
+Si la manifestación de construcción registrada, no se ejecuta en los términos originalmente proyectados que implique una disminución en metros de construcción y ya se hubieran individualizado cuentas de alguna de las etapas de la construcción, se deberá modificar y calcular la base gravable de manera proporcional, tomando en consideración los datos manifestados en la modificación al proyecto original.
+
+Tratándose de inmuebles que cuenten con la terminación de obra parcial, se les calculará el cien por ciento de la construcción terminada.
+
+Los contribuyentes obligados al pago del impuesto predial de conformidad con el artículo 41 de esta ley, deberán presentar una declaración informativa ante la Dirección de Finanzas y Tesorería Municipal respecto del estado que guardan los inmuebles destinados a uso habitacional, cuya propiedad o posesión actualice el pago del referido gravamen, respecto a su ocupación. Dicha declaración informativa únicamente operará respecto de los inmuebles que, se ubiquen en los tres últimos rangos de la tabla de tarifas a que se refiere el artículo 19 de la Ley de Ingresos del Municipio de Progreso.
+
+En tratándose de inmuebles cuyo uso sea exclusivamente agropecuario o agrícola, y que tengan construcciones existentes que no excedan del veinte por ciento de la superficie total del predio, gozarán de un descuento del 65% anual si pagan su impuesto durante los meses de enero y febrero del año en que se causa. El uso de los predios referidos en este párrafo se acreditará mediante la constancia correspondiente del Registro Agrario Nacional, y las dimensiones de la construcción correspondiente a través de la cédula catastral actualizada que emita la Dirección de Catastro y Zona Federal Marítima.
+
+El importe anual a pagar por los contribuyentes por concepto del Impuesto Predial no podrá exceder del 20% de incremento respecto al monto total por concepto del impuesto que le correspondía pagar en el Ejercicio Fiscal inmediato anterior, calculado conforme a lo dispuesto en el artículo 44 de esta Ley, sin considerar la aplicación de algún subsidio, exención, bonificación, descuento, estímulo o beneficio fiscal, así como tampoco actualizaciones, recargos y multas.
+
+En tratándose de contribuyentes cuyo predio tenga un valor catastral menor o igual a $200,000.00 y el uso de destino del inmueble y la totalidad de sus construcciones sea habitacional, el impuesto a pagar no podrá exceder de un 6% del que le haya correspondido el ejercicio inmediato anterior; respecto a contribuyentes cuyo predio tenga un valor catastral menor o igual a $1’400,000.00 y el uso del destino del inmueble y sus construcciones sea habitacional, el impuesto a pagar no excederá de un 8% del que le haya correspondido el ejercicio inmediato anterior. En ambos casos, este comparativo se realizará sin tomar en consideración, bonificaciones, exenciones reducciones, estímulos, así como tampoco actualizaciones, recargos y multas.
+
+Se exceptúan de lo dispuesto en los tres párrafos anteriores los casos en que se observe alguna modificación de la superficie de terreno y/o construcción, así como de la tipología de construcción, conforme a lo manifestado por el contribuyente o verificado por la autoridad. Asimismo, se exceptúan los predios que fueron objeto de traslación de dominio en el ejercicio inmediato anterior.
+
+Los porcentajes y límites que se establecen en este artículo en ningún caso actualizarán para los contribuyentes el derecho de devolución de diferencias respecto de cantidades pagadas en ejercicios fiscales anteriores.
 
 > <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
@@ -806,6 +896,14 @@ En la elaboración de los avalúos referidos así como para determinar el costo 
 ###### Artículo 54.
 
 Los avalúos que se practiquen para el efecto del pago del impuesto sobre Adquisición de Bienes Inmuebles, tendrán en (sic) vigencia de seis meses a contar de la fecha de su expedición.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Los avalúos que se presenten deberán ser validados por la unidad de revisión de avalúos municipal.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+En tanto el municipio no cuente con su unidad de revisión de avalúos, dichos avalúos serán revisados y validados por la unidad respectiva de la Dirección del Catastro del Instituto de Seguridad Jurídica Patrimonial de Yucatán, en los términos del convenio que el municipio suscriba con dicho Instituto.
 
 #### Sección Séptima. De la Tasa
 
@@ -1009,6 +1107,10 @@ Cuando de conformidad con la Ley de Gobierno de los Municipios del Estado de Yuc
 
 No serán exigibles los impuestos y derechos a que se refiere la presente Ley cuando hayan sido derogados o suspendidos para cumplir con los requisitos establecidos en las leyes federales y los convenios suscritos entre la Federación y el Estado o Municipio, a partir de la fecha de su celebración.
 
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+La autoridad fiscal municipal podrá determinar cómo no exigibles los impuestos y derechos a cargo de las dependencias federales o estatales, cuando medie solicitud y el objeto de la misma se encuentre destinada a la regularización administrativa de los inmuebles de su propiedad o que les hubieren sido asignados para el desempeño de su objeto público y en beneficio del desarrollo municipal.
+
 ###### Artículo 73.
 
 Los derechos que de manera general se establecen en esta Ley podrán ser disminuidos, modificados o aumentados en la Ley de Ingresos del Municipio de Progreso, Yucatán.
@@ -1057,13 +1159,17 @@ Son responsables solidarios del pago de los derechos a que se refiere esta Secci
 
 #### Sección Segunda. De las Bases
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 77.
 
-En el otorgamiento de licencias para el funcionamiento de establecimientos o locales cuyos giros sean la venta de bebidas alcohólicas, se cobrará una cuota de acuerdo a la tarifa contenida en la vigente Ley de Ingresos del Municipio de Progreso, Yucatán.
+En el otorgamiento de licencias para el funcionamiento de establecimientos o locales cuyos giros sean la venta de bebidas alcohólicas, se cobrará una cuota de acuerdo a la tarifa contenida en la vigente Ley de Ingresos del Municipio de Progreso, Yucatán, sin perjuicio de los aprovechamientos que disponga la referida Ley para su expedición.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 78.
 
-Para el otorgamiento de licencias de funcionamiento de establecimientos o locales cuyos giros sean la prestación de servicios que incluyan el expendio de bebidas alcohólicas, se aplicará la tarifa que se relaciona en la Ley de Ingresos del Municipio de Progreso, Yucatán.
+Para el otorgamiento de licencias de funcionamiento de establecimientos o locales cuyos giros sean la prestación de servicios que incluyan el expendio de bebidas alcohólicas, se aplicará la tarifa que se relaciona en la Ley de Ingresos del Municipio de Progreso, Yucatán, sin perjuicio de los aprovechamientos que disponga la referida Ley para su expedición.
 
 ###### Artículo 79.
 
@@ -1081,13 +1187,19 @@ Para el otorgamiento de los permisos para efectuar bailes se pagará por día lo
 
 Por el otorgamiento de licencias establecidas, para Rótulos y Anuncios se causarán y pagarán derechos de acuerdo con lo establecido en la Ley de Ingresos del Municipio de Progreso, Yucatán.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO II Bis. Derechos por el uso o aprovechamiento de espacios públicos y/o bienes del dominio público del patrimonio municipal
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 82 Bis.
+
+El cobro por los derechos por el uso o aprovechamiento de espacios públicos y/o bienes del dominio público del patrimonio municipal será el que se establezca en la Ley de Ingresos de Municipio vigente.
+
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ### CAPÍTULO III. Derechos por servicios que presta la Dirección de Obras Públicas y Desarrollo Urbano
-
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
-
-### CAPITULO IV. Derechos por Servicio de Limpia, Recolección y Traslado de Residuos Sólidos
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
@@ -1155,15 +1267,67 @@ Para los efectos de esta Sección, las construcciones se clasificarán en dos ti
 
 TIPO A.- Es aquella construcción estructurada, cubierta con concreto armado o cualquier otro elemento especial, con excepción de las señaladas con el TIPO B.
 
-TIPO B.- Es aquella construcción estructurada cubierta con madera, cartón, paja, lámina metálica, lámina de asbesto o lámina de cartón. Ambos tipos de construcciones podrán ser:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+TIPO B.- Es aquella construcción estructurada cubierta con madera, cartón, paja, lámina metálica, lámina de asbesto, lámina de cartón o algún otro tipo de material similar cuya función sea impedir el filtrado de los elementos atmosféricos de la intemperie hacia el interior de la superficie cubierta. Ambos tipos de construcciones podrán ser:
 
 CLASE 1.- Con construcción hasta 60 m2.
 
-CLASE 2.- Con construcción desde 61 m2 hasta 120 m2.
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-CLASE 3.- Con construcción desde 121 m2 hasta 240 m2.
+CLASE 2.- Con construcción desde 60.01 m2 hasta 120 m2.
 
-CLASE 4.- Con construcción desde 241 m2 hasta en adelante.
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+CLASE 3.- Con construcción desde 120.01 m2 hasta 240 m2.
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+CLASE 4.- Con construcción desde 240.01 m2 hasta 500 m2.
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+CLASE 5.- Con construcción desde 500.01 m2 hasta 1,000.00 m2.
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+CLASE 6.- Con construcción desde 1,000.01 m2 hasta 5,000.00 m2.
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+CLASE 7.- Con construcción desde 5,000.01 m2 en adelante
+
+> <small>(ADICIONADO [N. DE E. CON SUS CONCEPTOS], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+TIPO C.- Son aquellas excavaciones o perforaciones distintas a las empleadas para la cimentación estructural, superficial, profunda o semiprofunda para la colocación de zapatas o pilotes. Por su dimensión se clasifican en:
+
+CLASE 1.- Excavaciones hasta 5 m3.
+
+CLASE 2- Excavaciones hasta 15 m3.
+
+CLASE 3.- Excavaciones hasta 45 m3.
+
+CLASE 4.- Excavaciones hasta 135 m3.
+
+CLASE 5.- Excavaciones hasta 405 m3.
+
+CLASE 6.- Excavaciones hasta 1215 m3.
+
+CLASE 7.- Excavaciones de 1215.01 M3 en adelante.
+
+> <small>(ADICIONADO [N. DE E. CON SUS CONCEPTOS], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+TIPO D.- Son aquellas consistentes en bardas perimetrales que requieren cimientos o fijación al suelo a través de materiales con proceso de fraguado así como aquellas que utilizan soportes fijados al piso mediante excavación o, elementos prefabricados independientemente del material; se exceptúan de este tipo las albarradas, aquellas que usen troncos sin tratar, palmeras y otros elementos naturales no procesados o técnicas artesanales de construcción así como las que utilicen alambre de acero galvanizado con un calibre inferior a 1.59 milímetros.
+
+CLASE 1.- Perímetros hasta 50 metros lineales.
+
+CLASE 2- Perímetros hasta 100 metros lineales.
+
+CLASE 3.- Perímetros hasta 200 metros lineales.
+
+CLASE 4.- Perímetros hasta 400 metros lineales.
+
+CLASE 5.- Perímetros de 800 metros lineales en adelante.
 
 ###### Artículo 88.
 
@@ -1181,7 +1345,9 @@ Por el permiso para el cierre de calles por fiestas o cualquier otro evento o es
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO V. De los Derechos por los Servicios de Rastro
+### CAPITULO IV. Derechos por Servicio de Limpia, Recolección y Traslado de Residuos Sólidos
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 91.
 
@@ -1211,7 +1377,7 @@ II.- La superficie total del predio que deba limpiarse, a solicitud del propieta
 
 Los derechos correspondientes al servicio de limpia, recolección y traslado de residuos sólidos se causarán y pagarán de acuerdo a lo señalado en la Ley de Ingresos del Municipio de Progreso, Yucatán en vigor.
 
-### CAPÍTULO VI. Derechos por Servicios de Supervisión Sanitaria de Matanza
+### CAPÍTULO V. De los Derechos por los Servicios de Rastro
 
 #### Sección Primera. De los Sujetos
 
@@ -1231,7 +1397,7 @@ Son objeto de este derecho, el transporte, matanza, guarda en corrales, peso en 
 
 Los derechos por los servicios de rastro se causarán de conformidad con lo establecido en la Ley de Ingresos del Municipio de Progreso, Yucatán.
 
-### CAPÍTULO VII. Derechos por Certificados y Constancias
+### CAPÍTULO VI. Derechos por Servicios de Supervisión Sanitaria de Matanza
 
 ###### Artículo 98.
 
@@ -1247,7 +1413,7 @@ II.- Ganado porcino $ 50.00 por cabeza
 
 III.- Ganado caprino 0.5 UMA por cabeza.
 
-### CAPÍTULO VIII. Derechos por Servicios de Mercados y Central de Abasto
+### CAPÍTULO VII. Derechos por Certificados y Constancias
 
 ###### Artículo 99.
 
@@ -1265,9 +1431,7 @@ Por inscripción en el registro de población o vecinal del padrón municipal, s
 
 Por la adquisición de cada ejemplar de la gaceta municipal se pagará 0.01 UMA por cada hoja que contenga la misma.
 
-### CAPÍTULO IX. Derecho por Servicios de Cementerios
-
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+### CAPÍTULO VIII. Derechos por Servicios de Mercados y Central de Abasto
 
 #### Sección Primera. De los Sujetos
 
@@ -1311,7 +1475,9 @@ Los derechos por servicios de mercados se causarán y pagarán de conformidad co
 
 El pago de estos derechos deberá realizarse mensualmente por los comerciantes con locales o puestos fijos.
 
-### CAPÍTULO X. De los Derechos por los Servicios que prestan el Catastro y la Zona Federal Marítimo Terrestre Municipal
+### CAPÍTULO IX. Derecho por Servicios de Cementerios
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 107.
 
@@ -1329,7 +1495,7 @@ El pago por los servicios de panteones se realizará al momento de solicitarlos.
 
 Por los servicios a que se refiere esta Sección, se causarán y pagarán derechos conforme a la tarifa establecida en la Ley de Ingresos del Municipio de Progreso, Yucatán.
 
-### CAPÍTULO XI. Derechos por Servicio de Alumbrado Público
+### CAPÍTULO X. De los Derechos por los Servicios que prestan el Catastro y la Zona Federal Marítimo Terrestre Municipal
 
 ###### Artículo 111.
 
@@ -1351,7 +1517,7 @@ No causarán derecho alguno, divisiones o fracciones de terrenos en zonas rústi
 
 Quedan exentas de pago de los derechos que establece esta sección, las instituciones públicas.
 
-### CAPÍTULO XII. Derecho por Servicios de la Unidad de Acceso a la Información Pública
+### CAPÍTULO XI. Derechos por Servicio de Alumbrado Público
 
 ###### Artículo 116.
 
@@ -1381,9 +1547,7 @@ Para efectos del cobro de este derecho el Ayuntamiento podrá celebrar convenios
 
 Los ingresos que se perciban por el derecho a que se refiere la presente Sección se destinarán al pago, mantenimiento y mejoramiento del servicio de alumbrado público que proporcione al Ayuntamiento.
 
-### CAPÍTULO XIII. Derechos por Servicios de Vigilancia y Vialidad
-
-(REPUBLICADA, D.O. 31 DICIEMBRE 2021)
+### CAPÍTULO XII. Derecho por Servicios de la Unidad de Acceso a la Información Pública
 
 #### Sección Primera. De los Sujetos
 
@@ -1419,9 +1583,9 @@ El pago de este derecho será efectuado en una sola exhibición, en el momento d
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DICIEMBRE 2021)</small>
 
-### CAPITULO XIV. Derechos por Servicios de Protección Civil Municipal
+### CAPÍTULO XIII. Derechos por Servicios de Vigilancia y Vialidad
 
-> <small>(ADICIONADA, D.O. 31 DICIEMBRE 2021)</small>
+(REPUBLICADA, D.O. 31 DICIEMBRE 2021)
 
 #### Sección Primera. Del Objeto
 
@@ -1475,7 +1639,7 @@ El pago de los derechos se hará por anticipado al solicitar el permiso, en las 
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DICIEMBRE 2021)</small>
 
-### CAPITULO XV. Otros Derechos por Servicios Prestados por el Ayuntamiento
+### CAPITULO XIV. Derechos por Servicios de Protección Civil Municipal
 
 > <small>(ADICIONADA, D.O. 31 DICIEMBRE 2021)</small>
 
@@ -1529,7 +1693,9 @@ El pago de los derechos se hará por anticipado al solicitar el servicio en las 
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DICIEMBRE 2021)</small>
 
-### CAPÍTULO ÚNICO. Contribuciones Especiales por Mejoras
+### CAPITULO XV. Otros Derechos por Servicios Prestados por el Ayuntamiento
+
+> <small>(ADICIONADA, D.O. 31 DICIEMBRE 2021)</small>
 
 #### Sección Primera. Del Objeto y Del Sujeto
 
@@ -1549,11 +1715,11 @@ III.- Por el servicio de esterilización de animales de compañía domésticos.
 
 #### Sección Segunda. De la Base
 
-> <small>(ADICIONADO, D.O. 31 DICIEMBRE 2021)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 131-G.
 
-Servirá de base para el cobro de este derecho en unos el servicio prestado a cada una de las personas físicas que lo solicita y en otros por cada uno de los beneficiarios de los servicios de estancia en los centros de atención infantil del ayuntamiento.
+Servirá de base para el cobro de estos derechos el costo del servicio prestado considerando los recursos humanos, materiales y económicos, así como los demás costos que la administración pública municipal deba prever para el análisis, resolución y/o prestación del servicio solicitado, como diligencias a realizar, estudios de gabinete o de campo, así como la extensión de este.
 
 > <small>(ADICIONADA, D.O. 31 DICIEMBRE 2021)</small>
 
@@ -1579,9 +1745,7 @@ En el caso de las inscripciones y las mensualidades de los beneficiarios de los 
 
 ## TITULO QUINTO. CONTRIBUCIONES ESPECIALES
 
-### CAPÍTULO I. Productos Derivados de Bienes Inmuebles
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+### CAPÍTULO ÚNICO. Contribuciones Especiales por Mejoras
 
 ###### Artículo 132.
 
@@ -1679,7 +1843,9 @@ El Director de Finanzas y Tesorería Municipal previa solicitud por escrito del 
 
 ## TITULO SEXTO. PRODUCTOS
 
-### CAPÍTULO II. Productos Derivados de Bienes Muebles
+### CAPÍTULO I. Productos Derivados de Bienes Inmuebles
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 141.
 
@@ -1695,19 +1861,19 @@ II.- Por arrendamiento temporal o concesiones por el tiempo útil de locales ubi
 
 III.- Por Concesiones del uso del piso en la vía pública o en bienes destinados a un servicio público como mercados, unidades deportivas, plazas, y otros bienes de dominio público se cobrará de acuerdo a la Ley de Ingresos del Municipio de Progreso, Yucatán.
 
-### CAPÍTULO III. Productos Financieros
+### CAPÍTULO II. Productos Derivados de Bienes Muebles
 
 ###### Artículo 142.
 
 El Municipio, podrá percibir productos por concepto de la enajenación de sus bienes muebles, siempre y cuando éstos resulten innecesarios para la Administración Municipal, o bien que resulte incosteable su mantenimiento y conservación. Para ello se requerirá el voto de las dos terceras partes del Cabildo y siempre que el valor de los bienes no exceda de cien salarios mínimos; si excede de esa cantidad pero no de quinientos salarios mínimos, la venta se hará en la forma que previene el Código Civil del Estado de Yucatán, para los remates.
 
-### CAPÍTULO IV. Otros Productos
+### CAPÍTULO III. Productos Financieros
 
 ###### Artículo 143.
 
 El Municipio percibirá productos derivados de las inversiones financieras que realice transitoriamente, con motivo de la percepción de ingresos extraordinarios o períodos de alta recaudación. Dichos depósitos deberán hacerse eligiendo las alternativas de mayor rendimiento financiero siempre y cuando, no se limite la responsabilidad inmediata de los recursos conforme las fechas que estos serán requeridos por la administración.
 
-### CAPÍTULO I. Aprovechamientos derivados por sanciones municipales
+### CAPÍTULO IV. Otros Productos
 
 ###### Artículo 144.
 
@@ -1715,7 +1881,7 @@ El Municipio percibirá productos derivados de sus funciones de derecho privado,
 
 ## TITULO SÉPTIMO. APROVECHAMIENTOS
 
-### CAPITULO II. Aprovechamientos Derivados de Recursos Transferidos al Municipio
+### CAPÍTULO I. Aprovechamientos derivados por sanciones municipales
 
 ###### Artículo 145.
 
@@ -1739,7 +1905,11 @@ III.- Sanciones por falta de pago oportuno de créditos fiscales:
 
 Por falta de pago oportuno de los créditos fiscales a que tiene derecho el Municipio por parte de los contribuyentes municipales, se causarán recargos en la forma establecida en el Código Fiscal del Estado de Yucatán.
 
-### CAPITULO III. Aprovechamientos Diversos
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Asimismo, recibirá los ingresos no fiscales derivados de la función de autorización administrativa establecida en la normatividad estatal y en la propia municipal.
+
+### CAPITULO II. Aprovechamientos Derivados de Recursos Transferidos al Municipio
 
 ###### Artículo 146.
 
@@ -1765,7 +1935,7 @@ IX.- Multas impuestas por autoridades administrativas federales no fiscales, y
 
 X.- Derechos por el otorgamiento de la concesión por el uso o goce de la Zona Federal Marítimo-Terrestre.
 
-### CAPÍTULO ÚNICO. Participaciones Federales, Estatales y Aportaciones
+### CAPITULO III. Aprovechamientos Diversos
 
 ###### Artículo 147.
 
@@ -1777,9 +1947,19 @@ El Municipio percibirá aprovechamientos derivados de otros conceptos no previst
 
 Los Comerciantes en vía pública con puestos semifijos, tianguistas y vendedores ambulantes, podrán ocupar una superficie máxima que establezca la autoridad correspondiente en modalidades de tianguis, mercado sobre ruedas y bazares, siempre que cuenten con permiso vigente, expedido por las (sic) Dirección de Finanzas y Tesorería Municipal, para llevar a cabo actividades comerciales de cualquier tipo o concesión otorgada por autoridad competente, y pagarán los aprovechamientos por el uso o explotación de las vías y áreas públicas, cuyas cuotas serán por día.
 
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 147 Ter.
+
+El Municipio percibirá ingresos derivados de compensaciones y medidas de mitigación por impacto urbano, establecidas por la autoridad municipal competente en los términos de la normatividad aplicable.
+
+Dichos ingresos se consideran no fiscales y tendrán como destino la ejecución de obras o acciones de mejoramiento urbano, equipamiento e infraestructura que compensen los efectos del desarrollo o construcción autorizada.
+
+Los montos se determinarán conforme a los estudios y análisis técnicos, así como las disposiciones que emita la Dirección de Desarrollo Urbano y Obras Públicas.
+
 ## TITULO OCTAVO. PARTICIPACIONES Y APORTACIONES
 
-### CAPÍTULO ÚNICO. De los Empréstitos, Subsidios y los Provenientes del Estado o la Federación
+### CAPÍTULO ÚNICO. Participaciones Federales, Estatales y Aportaciones
 
 ###### Artículo 148.
 
@@ -1789,7 +1969,7 @@ La Hacienda Pública Municipal percibirá las participaciones estatales y federa
 
 ## TÍTULO NOVENO. INGRESOS EXTRAORDINARIOS
 
-### CAPITULO I. De los Gastos de Ejecución
+### CAPÍTULO ÚNICO. De los Empréstitos, Subsidios y los Provenientes del Estado o la Federación
 
 ###### Artículo 149.
 
@@ -1803,9 +1983,7 @@ Las autoridades fiscales exigirán el pago de las contribuciones y de los crédi
 
 En todo caso las autoridades fiscales municipales deberán señalar en los mandamientos escritos correspondientes el texto legal en el que se fundamenten.
 
-### CAPITULO II. De los Gastos Extraordinarios de Ejecución
-
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+### CAPITULO I. De los Gastos de Ejecución
 
 ###### Artículo 151.
 
@@ -1819,7 +1997,9 @@ III.- Honorarios o enajenación fuera de remate
 
 Cuando el .02 del importe del crédito omitido, fuere inferior al importe de un salario mínimo vigente, se cobrará el monto de un salario mínimo vigente en lugar del mencionado .02 del crédito omitido.
 
-### CAPITULO I. De los Responsables
+### CAPITULO II. De los Gastos Extraordinarios de Ejecución
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 152.
 
@@ -1839,19 +2019,21 @@ La aplicación de las multas por infracciones a las disposiciones municipales y 
 
 ## TÍTULO DÉCIMO PRIMERO. PRIMERO INFRACCIONES Y SANCIONES
 
-### CAPITULO II. De la Responsabilidad de los Funcionarios y Empleados
+### CAPITULO I. De los Responsables
 
 ###### Artículo 154.
 
 Son responsables de la comisión de las infracciones previstas en esta Ley, las personas que omitan el cumplimiento de las obligaciones previstas en esta propia Ley.
 
-### CAPITULO III. De las Sanciones
-
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+### CAPITULO II. De la Responsabilidad de los Funcionarios y Empleados
 
 ###### Artículo 155.
 
 Los funcionarios y empleados públicos, que en ejercicio de sus funciones, conozcan hechos u omisiones que entrañen o puedan entrañar infracciones a la presente Ley, lo comunicarán por escrito al Presidente Municipal, para no incurrir en responsabilidad, dentro de los tres días siguiente a la fecha en que tengan conocimiento de tales hechos u omisiones.
+
+### CAPITULO III. De las Sanciones
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 156.
 
@@ -1936,3 +2118,17 @@ D.O. 30 DE DICIEMBRE DE 2024.
 Artículo Primero.- Este Decreto, entrará en vigor el primero de enero del año 2025, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a este Decreto.
+
+D.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 151/2025 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE TRECE MUNICIPIOS DEL ESTADO DE YUCATÁN”.]
+
+Artículo primero.- Este decreto entrará en vigor el día primero de enero del año dos mil veintiséis, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo.- El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que a la fecha de la publicación de la presente Ley no hayan sido transferidos formalmente al Ayuntamiento por el Gobierno del Estado, entrarán en vigor hasta la celebración del convenio respectivo.
+
+Artículo tercero.- Para el Municipio de Sacalum, el ejercicio del importe anual a pagar por los contribuyentes del impuesto predial base valor catastral, para el caso de los predios cuyo valor catastral sea menor o igual $200,000.00 el impuesto predial base valor catastral no podrá exceder un 6% del que les haya correspondido durante el ejercicio inmediato anterior, para el caso de predios cuyo valor catastral sea igual o superior a $200,000.01 el impuesto predial base valor catastral no podrá exceder el 10% del que les haya correspondido durante el ejercicio inmediato anterior. Este comparativo se efectuará solamente sobre le (sic) impuesto predial, sin tomar en consideración, bonificaciones, excedentes, reducciones, estímulos o accesorios.
+
+I. Los predios que, como resultado de alguna modificación en su superficie de terreno, construcción, así como de la tipología de su construcción, haya aumentado en mas de un 50% el valor catastral que tenían antes dichas modificaciones, de conformidad con las disposiciones aplicables, en cuyo caso aplicará el cálculo establecido en el artículo 34 de esta ley.
+
+II. Los predios que fueron objeto de traslación de dominio a partir del ejercicio inmediato anterior, en cuyo caso aplicará el calculo establecido en el artículo 34 de esta ley.
