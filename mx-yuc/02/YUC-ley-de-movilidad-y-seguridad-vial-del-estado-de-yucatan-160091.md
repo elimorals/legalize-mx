@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-movilidad-y-seguridad-vial-del-estado-de-yucatan-160091"
 country: "mx"
 rank: "ley"
 publication_date: "2022-09-12"
-last_updated: "2023-12-28"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2025.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el lunes 12 de septiembre de 2022.
 
@@ -1443,6 +1443,8 @@ VIII. Las demás que establezca esta ley, su reglamento y las demás disposicion
 
 (DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
 
+> <small>[N. DE E. EL PRESENTE ARTÍCULO FUE REFORMADO POR EL PUNTO SEGUNDO DEL DECRETO 710/2023 DE 28 DE DICIEMBRE DE 2023; POSTERIORMENTE EL 31 DE DICIEMBRE DE 2025 FUE REFORMADO POR EL PUNTO PRIMERO ESTE ARTÍCULO MEDIANTE DECRETO 156/2025 QUEDANDO DE ESTA MANERA: "Artículo 110. Obligaciones de las empresas de redes de transporte ... I. a la V. ... VI. Se deroga VII. ...": POR LO QUE, SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE ESAS FECHAS.]</small>
+
 ###### Artículo 110.
 
 (DEROGADO, D.O. 28 DE DICIEMBRE DE 2023)
@@ -2044,3 +2046,15 @@ Artículo décimo sexto. Se derogan todas las disposiciones de igual o menor jer
 Primer Informe de la persona titular de la Agencia de Transporte de Yucatán
 
 Artículo décimo séptimo. Por única ocasión, la primera rendición del Informe anual de la Agencia de Transporte de Yucatán, a cargo de la persona titular de dicho órgano autónomo, se realizará en el mes de abril de 2025, y comprenderá el período que abarca del inicio de sus funciones como titular hasta el 31 de diciembre 2024.
+
+D.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 156/2025 POR EL QUE SE MODIFICAN LA LEY DE LA AGENCIA DE TRANSPORTE DE YUCATÁN Y LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE YUCATÁN, EN MATERIA DE ARMONIZACIÓN DE CONTRIBUCIONES".]
+
+Entrada en vigor
+
+Artículo primero. El presente decreto entrará en vigor el día 01 de enero del año 2026, previo a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Derogación expresa
+
+Artículo segundo. Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al contenido del presente decreto.
