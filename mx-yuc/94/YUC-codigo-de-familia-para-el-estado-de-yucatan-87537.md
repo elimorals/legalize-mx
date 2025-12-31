@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-familia-para-el-estado-de-yucatan-87537"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-04-30"
-last_updated: "2024-07-31"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1959 +21,1003 @@ state: "YUC"
 ---
 # CODIGO DE FAMILIA PARA EL ESTADO DE YUCATAN
 
-LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
+CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2025.
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE JUNIO DE 2023.]</small>
+Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 30 de abril de 2012.
 
-Ley publicada en la Novena Sección del Número 7 del Periódico Oficial del Estado de Michoacán, el viernes 2 de junio de 2023.
+DECRETO NÚMERO 516
 
-ALFREDO RAMÍREZ BEDOLLA, Gobernador del Estado Libre y Soberano de Michoacán de Ocampo, a todos sus habitantes hace saber:
+C. IVONNE ARACELLY ORTEGA PACHECO, GOBERNADORA DEL ESTADO DE YUCATÁN, CON FUNDAMENTO EN LOS ARTÍCULOS 38, 55 FRACCIONES II Y XXV DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN Y 14 FRACCIONES VII Y IX DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, A SUS HABITANTES HAGO SABER:
 
-El H. Congreso del Estado, se ha servido dirigirme el siguiente:
+QUE EL HONORABLE CONGRESO DEL ESTADO DE YUCATÁN SE HA SERVIDO DIRIGIRME EL SIGUIENTE DECRETO:
 
-DECRETO
+"EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA; 18 DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, Y 3 DE LA LEY DEL DIARIO OFICIAL DEL GOBIERNO, TODAS DEL ESTADO, EMITE EL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, EN BASE A LA SIGUIENTE:
 
-EL CONGRESO DE MICHOACÁN DE OCAMPO DECRETA:
+E X P O S I C I Ó N D E M O T I V O S:
 
-NÚMERO 405
+[...]
 
-###### ARTÍCULO ÚNICO.
+Por todo lo expuesto y fundado, los integrantes de esta Comisión Permanente de Justicia y Seguridad Pública, consideramos viable aprobar el Código de Familia para el Estado de Yucatán, por todos los razonamientos expuestos y vertidos en este dictamen. En tal virtud con fundamento en el artículo 30 fracción V de la Constitución Política; 18 y 43 fracción III de la Ley de Gobierno del Poder Legislativo, y 71 fracción I, 74, 82 fracción VII, y 88 del Reglamento de la Ley de Gobierno del Poder legislativo, todas del Estado de Yucatán, sometemos a consideración del Pleno del H. Congreso del Estado de Yucatán, el siguiente proyecto de:
 
-Se expide la Ley de Movilidad y Seguridad Vial del Estado de Michoacán de Ocampo, para quedar como sigue:
-
-LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
+CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN
 
 # LIBRO PRIMERO. FAMILIA
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+## TÍTULO PRIMERO. Generalidades de la Familia
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO I. Del Objeto y Disposiciones Generales
+
+Objeto
 
 ###### Artículo 1.
 
-La presente Ley es de orden público, interés social y observancia general en el Estado de Michoacán de Ocampo, en términos de lo dispuesto por el párrafo décimo séptimo del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Movilidad y Seguridad Vial.
+Las disposiciones del Derecho de Familia contenidas en este Código son de orden público, de interés social y tienen por objeto:
+
+I. Proteger la organización y desarrollo de la Familia como elemento primordial de la sociedad y base originaria del orden, la paz y el progreso de los seres humanos;
+
+II. Tutelar por el respeto a la dignidad e integridad de los miembros de la familia;
+
+III. Fijar las bases que permitan el desarrollo integral de los miembros de la familia;
+
+IV. Establecer las normas a las que se sujetarán las familias del Estado de Yucatán;
+
+V. Delimitar las relaciones conyugales, de concubinato y de parentesco;
+
+VI. Regular todas las relaciones y vínculos derivados de la familia;
+
+VII. Regular el matrimonio, las causas de separación, disolución y sus efectos; así como las condiciones para la constitución del concubinato, y
+
+VIII. Las demás que establezcan este Código y otras disposiciones legales aplicables.
+
+Supletoriedad
 
 ###### Artículo 2.
 
-Son vías estatales de comunicación, todas las existentes en el Estado, que no sean de jurisdicción federal, los espacios destinados a los fines públicos del tránsito peatonal, vehicular y al transporte colectivo así como los caminos públicos de jurisdicción estatal, destinados temporal o permanentemente al tránsito de personas, semovientes y vehículos, incluyendo el área del derecho de vía de estos; así como, las vialidades de uso común de los condominios, cuando su ubicación geográfica permitan el libre tránsito peatonal, vehicular o de transporte colectivo y sea necesario para la unión entre dos o más puntos de intersección con zonas urbanas.
+A falta de disposición específica en este Código, se aplican supletoriamente las normas del Código Civil del Estado de Yucatán y de la ley que regula el Registro Civil.
 
-No tienen el carácter de vías estatales de comunicación los espacios pertenecientes al dominio privado de la Federación, del Estado, de los Municipios o de los particulares, para fines restringidos o aprovechamientos privados, así como los de uso común.
+Irrenunciabilidad de los derechos y obligaciones
 
 ###### Artículo 3.
 
-La presente Ley tiene por objeto:
+Los derechos y obligaciones que establece este Código son irrenunciables y no pueden ser objeto de convenio, salvo en aquellos casos que la ley señale como excepciones y no contravengan disposiciones de orden público ni afecten derechos de terceros.
 
-I. Establecer las bases y principios para garantizar el derecho a la movilidad en condiciones que garanticen el tránsito, seguridad vial, accesibilidad, eficiencia, eficacia, sostenibilidad, calidad, inclusión e igualdad;
-
-II. Promover la movilidad activa como modo de transporte y el desarrollo de la infraestructura necesaria para esta;
-
-III. Impulsar el desarrollo del transporte y las comunicaciones, y satisfacer las demandas de los servicios públicos integrados a éstos, los cuales debe proporcionar el Estado o los particulares a quienes éste les otorgue las autorizaciones correspondientes, procurando el mayor y mejor aprovechamiento de las vías estatales de comunicación;
-
-IV. Establecer los mecanismos y acciones para la gestión de factores de riesgo que permitan reducir las muertes y lesiones graves ocasionadas por siniestros viales, así como procurar salvaguardar la vida e integridad física de las personas usuarias del sistema de movilidad, bajo un enfoque de sistemas seguros;
-
-V. Determinar los sujetos activos de la movilidad y seguridad vial, entendidos como tales las personas con discapacidad y movilidad limitada, los peatones, los ciclistas, usuarios de la movilidad no motorizada, los motociclistas, los automovilistas, los usuarios y conductores del servicio de transporte y los de carga pesada;
-
-VI. Vincular la política de movilidad y seguridad vial, a través de enfoque integral, con la política de ordenamiento territorial y desarrollo urbano, y de manera transversal, con las políticas sectoriales aplicables;
-
-VII. Establecer las normas para regular la movilidad y seguridad vial en el Estado de Michoacán de Ocampo, así como, el orden y las medidas de seguridad, gestión de la circulación vehicular motorizada, no motorizada y de personas, en las vías estatales de comunicación;
-
-VIII. Establecer las bases para programar, organizar, administrar y controlar la infraestructura con origen, destino y prioridad para las personas con discapacidad y movilidad limitada, peatones, movilidad motorizada y no motorizada, así como la infraestructura en las vías estatales de comunicación y el equipamiento vial;
-
-IX. Establecer la coordinación entre el Estado y los Municipios para integrar y administrar el Consejo Estatal de Movilidad y Seguridad Vial en términos del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
-
-X. Implementar los esquemas de coordinación institucional y la delimitación de las atribuciones para el cumplimiento de los objetivos y fines de los programas de fomento a la cultura y educación vial;
-
-XI. Desarrollar las bases para salvaguardar la integridad y derechos de las personas, preservando el libre tránsito, el orden y la paz pública, a través de la aplicación de las sanciones por infracciones administrativas, en términos de esta Ley y demás disposiciones normativas aplicables;
-
-XII. Establecer las bases para salvaguardar la integridad y derechos de las víctimas de hechos de tránsito, a través de la debida atención, seguimiento y acompañamiento, los mecanismos de reparación del daño, así como para la aplicación de las sanciones correspondientes, en términos de esta Ley y demás disposiciones normativas aplicables;
-
-XIII. Implementar los avances tecnológicos tendientes al mejoramiento de las comunicaciones en el Estado, así como del servicio público de transportes en todas sus modalidades, en lo que atañe a la fijación y cobro de tarifas mediante sistemas que faciliten a los ciudadanos el uso de prepago, a la contratación y pago del servicio a través de medios electrónicos; a la realización de los trámites ante la autoridad de transporte en el Estado y el Registro Estatal de Transporte;
-
-XIV. Establecer la coordinación entre integrantes del Consejo Estatal de Movilidad y Seguridad Vial, a través de los instrumentos de desarrollo de la política de movilidad y de seguridad vial con un enfoque integral de desarrollo urbano y ordenamiento territorial; y,
-
-XV. Establecer los mecanismos de coordinación entre las autoridades en materia de movilidad y aquellas que lo son en materia de desarrollo territorial y asentamientos humanos, garantizando mediante planeación integral la protección y el acceso equitativo a los espacios públicos en todo momento.
+Familia
 
 ###### Artículo 4.
 
-La presente Ley tendrá por objetivos:
+La familia es una institución social integrada por dos o más personas unidas o emparentadas entre sí, por consanguinidad, por afinidad o por adopción, en la que sus miembros son sujetos de derechos y obligaciones.
 
-I. Que la Administración Pública, sujetándose a la jerarquía de movilidad y a los principios rectores de movilidad y seguridad vial, establezca las bases de la política de movilidad, seguridad vial, transporte y tránsito, bajo un enfoque sistémico y de sistemas seguros, a través del Consejo Estatal de Movilidad y Seguridad Vial y la información proporcionada por el Sistema Estatal de Información Territorial y Urbano;
-
-II. Sentar las bases de la política de movilidad y seguridad vial, bajo un enfoque sistémico y de sistemas seguros, para priorizar el desplazamiento de las personas, particularmente de los grupos en situación de vulnerabilidad; las personas que ejercen la movilidad del cuidado, así como bienes y mercancías, con base en la jerarquía de la movilidad, destacando la movilidad de cuidado, que disminuya los impactos negativos sociales de desigualdad, económicos, a la salud y al medio ambiente, con el fin de reducir muertes y lesiones graves ocasionadas por siniestros viales, para lo cual se debe preservar el orden y seguridad vial;
-
-III. Establecer las bases para la coordinación entre los integrantes del Consejo Estatal de Movilidad y Seguridad Vial a través de los planes de desarrollo, la política de movilidad y de seguridad vial con un enfoque integral a la política de desarrollo urbano y ordenamiento territorial;
-
-IV. Implementación de un Sistema Estatal de Información Territorial y Urbano, así como una Base de Datos sobre la Movilidad y Seguridad Vial de Michoacán, basada en una plataforma web, comprensible, accesible, didáctica, dinámica en constante actualización y con salidas de información pública, de escala estatal y metropolitana, que permita la actualización de los instrumentos de planeación para la toma oportuna de decisiones informadas de corto, mediano y largo plazo, así como las acciones para permitir la transmisión de información que exista en los archivos y la base de datos relacionados con la materia de movilidad y seguridad vial para la alimentación del Sistema de Información Territorial y Urbano previsto en la Ley General;
-
-V. Determinar mecanismos y acciones que promuevan y fomenten la sensibilización, la formación y la cultura de la movilidad y seguridad vial, que permitan el ejercicio pleno de este derecho;
-
-VI. Establecer la jerarquía de la movilidad y los principios rectores a que deben sujetarse las autoridades competentes, en la implementación de esta Ley, en la expedición de disposiciones reglamentarias y en la formulación y aplicación de políticas, programas, manuales, protocolos y acciones en la materia;
-
-VII. Establecer las bases para priorizar los modos de transporte de personas con perspectiva de género, bienes y mercancías, con menor impacto ambiental y social, la movilidad activa y la intermodalidad;
-
-VIII. Promover la toma de decisiones con base en evidencia científica y territorial en materia de movilidad y seguridad vial;
-
-IX. Establecer las bases para gestionar y desarrollar la infraestructura para las personas usuarias de la movilidad, conforme a la jerarquía de movilidad establecida en la presente Ley;
-
-X. Que los servicios de transporte público se presten bajo los principios de: Igualdad, accesibilidad, inclusión, igualdad de género, no discriminación, puntualidad, higiene, orden, seguridad, generalidad, uniformidad, continuidad, adaptabilidad, permanencia, oportunidad, eficacia, eficiencia, y sustentabilidad medio ambiental y económica;
-
-XI. Establecer los requisitos, términos y condiciones para el otorgamiento, revocación y cancelación de las concesiones y permisos destinados a la prestación del servicio de transporte público y especializado en sus distintas modalidades y, en la operación de servicios conexos en el área del derecho de vía e infraestructura para el transporte;
-
-XII. Establecer el Sistema Estatal de Transporte y las bases para la planeación, integración, regulación, ordenamiento, administración, supervisión e inspección de sus servicios;
-
-XIII. Establecer los lineamientos para la conformación y operación de sistemas integrales de transporte, con el objeto de ofrecer un servicio que satisfaga las necesidades de desplazamiento de acuerdo a los principios de esta Ley;
-
-XIV. Definir la competencia y atribuciones de las autoridades en materia de movilidad y seguridad vial;
-
-XV. Regular las características de los vehículos y sus condiciones operativas, necesarias para permitir su circulación, con base en las normas aplicables;
-
-XVI. Regular la movilidad, seguridad vial y el transporte en el Estado de Michoacán, así como los derechos y obligaciones de las personas usuarias de la movilidad, para establecer el orden y las medidas de seguridad vial, control vehicular y la sustentabilidad medio ambiental, bienes y servicios en vías públicas que no sean de competencia federal;
-
-XVII. Orientar las acciones relativas a la construcción, administración y aprovechamiento de las obras de infraestructura para garantizar la jerarquía de la movilidad, así como los principios y lineamientos de la presente Ley, y facilitar la movilidad y medios de transporte sustentables;
-
-XVIII. Establecer y vincular las acciones de ordenamiento territorial y desarrollo urbano para garantizar que la movilidad y el transporte de las personas se realicen en condiciones que satisfagan la libertad de tránsito, la seguridad, el libre acceso, así como los requisitos de calidad apropiados a cada tipo de servicio, de manera que no afecten el orden de las vías estatales de comunicación de circulación local y la circulación vial respetando el medio ambiente;
-
-XIX. Definir mecanismos de participación con las autoridades de los tres órdenes de gobierno y la sociedad en materia de movilidad y seguridad vial; y,
-
-XX. Que el Programa Estatal de Movilidad y Seguridad Vial, deberá ser público y contener el conjunto de políticas, lineamientos, especificaciones técnicas, estrategias, acciones, indicadores y disposiciones relativas a garantizar los objetivos, principios y lineamientos de la presente Ley.
+Obligaciones de instituciones y personas
 
 ###### Artículo 5.
 
-En materia de Movilidad y Seguridad Vial, la Administración Pública estatal y municipal y demás autoridades en la materia, de acuerdo con sus facultades, considerarán los siguientes principios:
+Las personas o instituciones que ejerzan la patria potestad, tutela o, la guarda y custodia de las niñas, niños y adolescentes o de las personas incapacitadas, tienen la obligación de velar por la satisfacción de las necesidades de alimentación, salud, educación, sano esparcimiento y las demás que sean necesarias para lograr su desarrollo integral.
 
-I. Accesibilidad Universal. Garantizar el acceso pleno en igualdad de condiciones, con dignidad y autonomía al espacio público, infraestructura, servicios, vehículos, transporte público y los sistemas de movilidad tanto en zonas urbanas como rurales e insulares mediante la identificación y eliminación de obstáculos y barreras de acceso, discriminación por motivos de género, edad, discapacidad o condición, priorizando a personas con discapacidad, movilidad limitada, movilidad de cuidado y grupos en situación de vulnerabilidad, tanto en zonas urbanas como rurales;
-
-II. Calidad. Garantizar que los sistemas de movilidad, infraestructura, servicios, vehículos y transporte público cuenten con los requerimientos y las condiciones para su óptimo funcionamiento con propiedades aceptables para satisfacer las necesidades de las personas;
-
-III. Confiabilidad. Las personas usuarias de los servicios de transporte deben tener la certeza de que los tiempos de recorrido, los horarios de operación y los puntos de abordaje y descenso son predefinidos, seguros y eficientes, así como un ordenamiento de las vías públicas de comunicación a fin de minimizar los costos y tiempos de traslado de personas y mercancías de manera que se puedan planear los recorridos de mejor forma;
-
-IV. Diseño universal. Todos los componentes de los sistemas de movilidad deben seguir los criterios de diseño universal, a fin de incluir a todas las personas, independientemente de su condición y en igualdad de oportunidades, a las calles y los servicios de movilidad y transporte, de acuerdo con las condiciones de cada centro de población; así como otorgarles las condiciones mínimas de infraestructura necesarias para ejercer el derecho a la movilidad y seguridad vial;
-
-V. Eficiencia. Maximizar los desplazamientos ágiles y asequibles, tanto de personas usuarias como de bienes y mercancías, optimizando los recursos ambientales y económicos disponibles, haciendo uso de las tecnologías de la información y comunicación disponibles;
-
-VI. Equidad. Considerar y reconocer condiciones y aspiraciones de las personas con perspectiva de género e inclusión social, para brindar la igualdad de derechos y oportunidades, tanto para mujeres y hombres, así como de los grupos en situación de vulnerabilidad, y de las personas que realizan la movilidad de cuidado;
-
-VII. Habitabilidad. Generar condiciones para que las vías cumplan con las funciones de movilidad y creación de espacio público de calidad, a través de la interacción social, la diversidad de actividades y la articulación de servicios, equipamientos e infraestructura;
-
-VIII. Inclusión e Igualdad. El Estado atenderá de forma incluyente, igualitaria y sin discriminación las necesidades de todas las personas en sus desplazamientos en los espacios públicos, infraestructura, servicios, vehículos, transporte público y los sistemas de movilidad;
-
-IX. Movilidad activa. Promover ciudades caminables, así como el uso de la bicicleta y otros modos de transporte no motorizados, como alternativas que fomenten la salud pública, la proximidad y la disminución de emisiones contaminantes;
-
-X. Multimodalidad. Ofrecer múltiples modos y servicios de transporte para todas las personas usuarias, los cuales deben articularse e integrarse entre sí y con la estructura urbana, para reducir la dependencia del vehículo particular motorizado;
-
-XI. Participación. Establecer mecanismos para que la sociedad se involucre activamente en cada etapa del ciclo de la política pública, en un esquema basado en la implementación de metodologías de co-creación enfocadas en resolver las necesidades de las personas;
-
-XII. Perspectiva de género. Visión científica, analítica y política que busca eliminar las causas de la desigualdad, la injusticia y la jerarquización de las personas basada en el género y que promueve la igualdad entre mujeres y hombres;
-
-XIII. Progresividad. Garantizar que el derecho a la movilidad y sus derechos relacionados, estén en constante evolución, promoviéndolos de manera progresiva y gradual e incrementando constantemente el grado de su tutela, respeto, protección y garantía;
-
-XIV. Resiliencia. Lograr que el sistema de movilidad tenga capacidad para soportar situaciones fortuitas o de fuerza mayor, con una recuperación breve y de bajo costo, tanto para la sociedad como para el medio ambiente;
-
-XV. Seguridad. Se deberá proteger la vida y la integridad física de las personas en sus desplazamientos, bajo el principio de que toda muerte o lesión por siniestros de tránsito es prevenible;
-
-XVI. Seguridad vehicular. Aspecto de la seguridad vial enfocado en el desempeño de protección que brinda un vehículo de motor a las personas pasajeras y usuarias vulnerables, y demás usuarias de la vía pública, contra el riesgo de muerte o lesiones graves en caso de siniestro de tránsito;
-
-XVII. Sostenibilidad. Satisfacer las necesidades de movilidad procurando los menores impactos negativos en el medio ambiente y la calidad de vida de las personas, garantizando un beneficio continuo para las generaciones actuales y futuras, así como el respeto al medio ambiente, a partir de políticas públicas que incentiven el cambio del uso del transporte particular y combustión interna, por aquellos de carácter colectivo y tecnología sustentable, o de propulsión distinta a aquellos que generan emisión de gases a la atmósfera;
-
-XVIII. Transparencia y rendición de cuentas. Garantizar la máxima publicidad y acceso a la información relacionada con la movilidad y la seguridad vial, así como sobre el ejercicio presupuestal y cumplimiento de la normativa, de conformidad con lo establecido en la Ley de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Michoacán de Ocampo;
-
-XIX. Transversalidad. Instrumentar e integrar las políticas, programas y acciones en materia de movilidad y seguridad vial, desarrollados por las distintas dependencias y entidades de la administración pública, que proveen bienes y servicios a la población, poniendo especial atención a los grupos en situación de vulnerabilidad; y,
-
-XX. Uso prioritario de la vía o del servicio. Concientizar a personas usuarias de la vía y transporte público sobre la necesidad que tienen las personas con discapacidad, las personas con movilidad limitada y quien les acompaña, de usar en determinadas circunstancias, las vías de manera preferencial con el fin de garantizar su seguridad.
+Obligaciones de los miembros de la familia
 
 ###### Artículo 6.
 
-Para los efectos de esta Ley se entenderá por:
+Los miembros de la familia se deben respeto, protección y ayuda recíproca que aseguren el sano desarrollo de la familia.
 
-I. Accesibilidad universal: A las medidas y condiciones para asegurar el acceso de las personas en igualdad de condiciones al entorno físico, el transporte, la información y las comunicaciones, incluidos los sistemas y tecnologías de información, y otros servicios o instalaciones abiertas al público o de uso público, tanto en zonas urbanas como rurales;
+Además tienen la obligación de no realizar conductas que generen violencia familiar o que atenten contra la integridad física, psíquica o sexual de otro miembro de la familia.
 
-II. Acciones afirmativas: Políticas, medidas o acciones dirigidas a favorecer a personas o grupos en situación de vulnerabilidad, con el fin de eliminar o reducir las desigualdades y barreras de tipo actitudinal, social, cultural o económico que los afectan;
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 23 DE JUNIO DE 2021)</small>
 
-III. Agente: Al elemento de la Guardia Civil o la Policía Municipal, facultado a realizar funciones de control, supervisión y regulación de la movilidad y seguridad vial de personas y vehículos en las vías estatales de comunicación, como para la vigilancia y aplicación de las disposiciones de esta Ley, su Reglamento, y sus similares en los Municipios;
+Queda prohibido que la madre, padre o cualquier persona en la familia, utilice el castigo corporal o cualquier tipo de trato y castigo humillante como forma de corrección o disciplina de niñas, niños o adolescentes. Se define el castigo corporal y humillante según lo dispuesto por las fracciones V y VI del artículo 2 de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado.
 
-IV. Área de Carga y Descarga: Espacio de la vía publica destinado al estacionamiento de manera temporal de los vehículos de transporte de carga, en las que se efectúa la recepción y despacho de bienes;
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 23 DE JUNIO DE 2021)</small>
 
-V. Arroyo vehicular: Área de la vialidad destinada a la circulación vehicular y ciclista que en algunos casos está delimitada por alguno o varios de los siguientes elementos: camellón, guarnición, estacionamiento, acotamientos, entre otros;
+Por violencia familiar se considera el uso intencional de la fuerza física, moral o de cualquier acto que tenga como objetivo provocar dolor, molestia o humillación, incluyendo el castigo corporal y humillante contra niñas, niños y adolescentes, así como las omisiones graves que ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física, psíquica y emocional independientemente de que pueda producir o no lesiones; siempre y cuando el agresor y el agredido habiten en el mismo domicilio y exista una relación de parentesco, matrimonio o concubinato.
 
-VI. Auditoría de seguridad vial: A la metodología aplicable a cualquier infraestructura vial para identificar, reconocer y corregir sus deficiencias antes de que ocurran siniestros viales o cuando éstos ya están sucediendo. Las auditorías de seguridad vial buscan identificar riesgos de las vialidades con el fin de emitir recomendaciones que, al materializarse, contribuyan a la reducción de los riesgos;
-
-VII. Autorización: Al acto administrativo mediante el cual se autoriza a organismos, entidades, órganos político-administrativos, así como personas físicas o morales, la realización de una acción;
-
-VIII. Banqueta: Espacio público que comprende del inicio del arroyo vial al límite de propiedad reservado para la circulación de personas, la cual se compone por tres franjas: franja de servicio, franja de circulación y franja de vegetación o mobiliario;
-
-IX. Bicicleta: Al vehículo de propulsión humana, pudiendo este contar o no con un motor de asistencia eléctrica o de combustión que no supere los 25 km/h;
-
-X. Bici-estacionamiento: Al espacio físico y/o mobiliario urbano utilizado para sujetar, resguardar y/o custodiar bicicletas por tiempo determinado;
-
-XI. Bici-taxi: Al Servicio Público de Transporte Individual de Pasajeros en Bicicleta Adaptada consistente en vehículo de propulsión humana a pedales que puede contar con motor eléctrico para asistir su tracción con el propósito de brindar el servicio público de transporte individual de pasajeros, constituido por una estructura que cuenta con asientos para quien conduce y los pasajeros, que podrá contar con remolque. De uso destinado específicamente en zonas de baja velocidad vehicular no mayor a 30 kilómetros;
-
-XII. Boleta de infracción: Formato elaborado por la autoridad mandatada, en el ámbito de sus competencias, y llenado por el Agente o Inspector estatal o municipal, según corresponda, en donde se hace constar una infracción a la presente Ley y su Reglamento, así como su consecuente sanción;
-
-XIII. Calle completa: Aquella diseñada para facilitar el tránsito seguro de las personas usuarias de las vías, de conformidad con la jerarquía de la movilidad, que propician la convivencia y los desplazamientos accesibles y eficientes. Consideran criterios de diseño universal, la ampliación de banquetas o espacios compartidos de circulación peatonal y vehicular libres de obstáculos, el redimensionamiento de carriles para promover velocidades seguras, carriles exclusivos para el transporte público, infraestructura ciclista y señalética adecuada y visible en todo momento;
-
-XIV. Carril compartido: El destinado para la circulación de las bicicletas y compartido con el transporte público, que se ubicará a la derecha de los carriles destinados para los automovilistas;
-
-XV. Ciclista: A la persona que conduce un vehículo de tracción humana a través de pedales. Se considera ciclista también a aquellas personas que conducen bicicletas asistidas por motores eléctricos, siempre y cuando ésta desarrolle velocidades de hasta 25 kilómetros por hora. Los menores de doce años de edad a bordo de un vehículo no motorizado serán considerados peatones;
-
-XVI. Conductor: Persona autorizada mediante permiso o licencia para la conducción y operación de un vehículo motorizado;
-
-XVII. Consejo Estatal: Al Consejo Estatal de Movilidad y Seguridad Vial;
-
-XVIII. Desplazamiento: Al recorrido de una persona asociado a un origen y un destino preestablecidos con un propósito determinado en cualquier modo de movilidad;
-
-XIX. Dictamen: Al resultado de la evaluación técnico-jurídica emitida por la autoridad competente, respecto de un asunto sometido a su análisis;
-
-XX. Educación Vial: A la actividad cuya finalidad es promover una cultura vial en la población, dirigida a todas las personas usuarias de la vía, con el objetivo de generar cambios en los patrones de comportamiento social;
-
-XXI. Enfoque Sistémico: Enfoque que aborda la movilidad en su totalidad e integralidad, en el que interactúan una serie de elementos coordinados e interconectados;
-
-XXII. Estado: Al Estado Libre y Soberano de Michoacán de Ocampo;
-
-XXIII. Factor de riesgo para la movilidad, tránsito y seguridad vial: Es todo hecho o acción que dificulte la prevención de un siniestro de tránsito, así como la implementación de medidas comprobadas para mitigar dichos riesgos como son, la velocidad inadecuada, el no utilizar el cinturón de seguridad, los dispositivos de retención infantil, la conducción bajo los influjos de bebidas alcohólicas o el influjo de drogas, estupefacientes o psicotrópicos, los actos que atenten en contra de la seguridad de los peatones, el no utilizar cascos de seguridad, y en general las infracciones a las disposiciones de esta Ley, y su Reglamento;
-
-XXIV. Grupos en situación de vulnerabilidad: Población que enfrenta barreras para ejercer su derecho a la movilidad con seguridad vial como resultado de la desigualdad que por su condición particular enfrenten algún tipo de exclusión;
-
-XXV. Infracción: Al acto de autoridad que recae a la conducta que transgrede alguna disposición de la presente Ley, su reglamento o demás disposiciones normativas aplicables y que tiene como consecuencia una sanción administrativa;
-
-XXVI. Instituto: Instituto del Transporte del Estado de Michoacán de Ocampo;
-
-XXVII. Interseccionalidad: Conjunto de desigualdades múltiples que coinciden o interceptan en una persona o grupo, aumentando su situación desfavorecida, riesgo, exposición o vulnerabilidad al hacer uso de la vía;
-
-XXVIII. Itinerario: A la autorización respecto del inicio y terminación de la prestación del servicio de transporte público, así como, en su caso, el señalamiento de la hora de arribo, continuación y terminación de las unidades en cada paradero;
-
-XXIX. Lengua de Señas Mexicana: Lengua de una comunidad de sordos, que consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística, forma parte del patrimonio lingüístico de dicha comunidad y es tan rica y compleja en gramática y vocabulario como cualquier lengua oral;
-
-XXX. Ley General: A la Ley General de Movilidad y Seguridad Vial;
-
-XXXI. Ley: A la Ley de Movilidad y Seguridad Vial del Estado de Michoacán de Ocampo;
-
-XXXII. Licencia: La autorización que de manera material o virtual concede el Estado a una persona física, por tiempo determinado, para conducir u operar vehículos, acreditando sus condiciones psicofísicas y aptitudes para conducir;
-
-XXXIII. Modalidad: Los diversos tipos de servicio de transporte de personas y bienes con determinadas características en sus flotillas, itinerarios y horarios, autorizados por el Instituto;
-
-XXXIV. Motocicleta: Vehículo motorizado de dos o más ruedas, que utiliza manubrio para su conducción, utilizado para el transporte de pasajeros o de carga, propulsado por un motor de combustión interna, eléctrico o algún otro tipo de mecanismo que utilice cualquier otro tipo de energía o asistencia que proporcione una potencia continua normal mayor a 1 KW (1.34HP), o cuyo motor de combustión tenga un volumen desplazado mayor a 49 cm cúbicos. Sin ser limitativo sino enunciativo, una motocicleta puede incluir denominaciones de bicimoto, motoneta, motocicleta con sidecar, trimoto y cuatrimoto, con capacidad de operar tanto en carretera como en otras superficies, que cumpla con las disposiciones estipuladas en la Norma Oficial Mexicana en materia de identificación vehicular;
-
-XXXV. Motociclista: A toda persona que conduce y se traslada de un lugar a otro a bordo de una motocicleta en cualquier (sic) de sus modalidades: motoneta, bicimoto, minimotos, motociclos, mototriciclo o cuatrimoto;
-
-XXXVI. Movilidad activa o no motorizada: Desplazamiento de personas y bienes que requiere de esfuerzo físico, utilizando ayudas técnicas o mediante el uso de vehículos no motorizados;
-
-XXXVII. Movilidad del cuidado: Viajes realizados en la consecución de actividades relacionadas con el trabajo no remunerado, de cuidados y el cuidado de las personas que requieren de otra persona para su traslado, dependientes o con necesidades específicas;
-
-XXXVIII. Movilidad: Conjunto de desplazamientos de personas, bienes y mercancías a través de diversos modos, orientando a satisfacer las necesidades de las personas en el Estado de Michoacán, a través de las diferentes formas y modalidades de transporte, que se ajusten a la jerarquía y principios establecidos en este ordenamiento;
-
-XXXIX. Observatorios: Los Observatorios de Movilidad y Seguridad Vial;
-
-XL. Periódico Oficial: Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo;
-
-XLI. Perito: Experto en hechos de tránsito terrestre, autorizado por la SSP para intervenir con motivo de un siniestro de tránsito, a fin de emitir su dictamen de pro bable (sic) responsabilidad y a requerimiento de la autoridad competente;
-
-XLII. Permiso para conducir: Documento expedido por la SSP a menores de dieciocho y mayores de dieciséis años, que reúnan las condiciones de madurez y capacidad necesarias para conducir vehículos con base en los exámenes que se les practiquen, por el tiempo y en los términos establecidos en la presente Ley y su Reglamento, previa autorización de quien ejerza la patria potestad;
-
-XLIII. Permiso: Acto administrativo por virtud del cual, el Ejecutivo del Estado, confiere a una persona física o moral la prestación temporal del servicio de transporte especializado, mediante el pago de una remuneración;
-
-XLIV. Persona concesionaria: A la Persona física o moral autorizada temporalmente por las autoridades competentes, para prestar servicios de autotransporte de carga, pasaje o turismo para operar o explotar servicios auxiliares, en las vías generales de comunicación, que para el cumplimiento de sus fines transita en vialidades de jurisdicción federal, estatal o municipal;
-
-XLV. Persona conductora: A la persona que lleva el dominio del movimiento de un vehículo;
-
-XLVI. Persona operadora: A la persona que lleva el dominio del movimiento de un vehículo destinado al servicio de transporte público y especializado que cumple con los requisitos establecidos en la presente Ley y su Reglamento;
-
-XLVII. Persona Peatona: A la persona que transita a pie por la acera y/o banqueta y a falta de ésta en la vía estatal de comunicación, así como los demás que transiten en ayudas técnicas manejados por ellos o por otra persona y que no sean vehículos;
-
-XLVIII. Persona usuaria del transporte: A toda persona que utiliza y realiza desplazamientos en el Sistema Estatal de Transporte;
-
-XLIX. Personas con movilidad limitada: A toda persona cuya movilidad se ha reducido por motivos de edad, embarazo y alguna otra situación que, sin ser una discapacidad, requiere una atención adecuada y la adaptación a sus necesidades particulares tanto en la vía pública como en el Sistema estatal de Transporte;
-
-L. Personas usuarias vulnerables: A las niñas y niños menores de doce años, personas adultas mayores y personas con movilidad limitada usuarias de las vías públicas y del Sistema Estatal de Transporte;
-
-LI. Póliza de seguro: Al documento expedido por una persona jurídica acreditada en los términos de la normatividad aplicable que ampare el aseguramiento del conductor, propietario, pasajeros del vehículo automotor y usuarios de la vía pública para responder por daños y perjuicios;
-
-LII. Proximidad: A las circunstancias que permiten a las personas usuarias desplazarse con facilidad a sus destinos;
-
-LIII. Reglamento: Al Reglamento de la Ley de Movilidad y Seguridad Vial del Estado de Michoacán de Ocampo;
-
-LIV. SCOP: A la Secretaría de Comunicaciones y Obras Públicas;
-
-LV. SECMA: A la Secretaría del Medio Ambiente;
-
-LVI. SEDUM: A la Secretaría de Desarrollo Urbano y Movilidad;
-
-LVII. Seguridad Vial: Al conjunto de medidas, normas, políticas y acciones adoptadas para prevenir los siniestros de tránsito y reducir el riesgo de lesiones y muertes a causa de éstos; de conformidad con las directrices contempladas en la Ley General de Movilidad y Seguridad Vial;
-
-LVIII. SEITU: Al Sistema Estatal de Información Territorial y Urbano;
-
-LIX. Sensibilización: A la transmisión de información a la población, con el fin de concientizarla sobre el uso de la vía y la problemática que en ella se genera;
-
-LX. Señalización: Al Conjunto integrado de dispositivos, marcas y señales que indican la geometría de las vías, sus acotamientos, las velocidades máximas, la dirección del tránsito, así como sus bifurcaciones, cruces y pasos a nivel, garantizando su adecuada visibilidad de manera permanente;
-
-LXI. Servicio de transporte: A la actividad mediante la cual el Instituto, otorga concesión, permiso o constancia a personas físicas o morales para que suministren el servicio de transporte para satisfacer las necesidades de movilidad de las personas, bienes y mercancías;
-
-LXII. Servicio de Transporte Público: A la actividad a través de la cual, el Ejecutivo del Estado, satisface las necesidades de transporte de pasajeros o carga en todas sus modalidades, por sí, o a través de entidades, mediante el otorgamiento de concesiones o permisos en los casos que establece la presente Ley y que se ofrece en forma continua, uniforme, regular, permanente e ininterrumpida a persona indeterminada o al público en general, mediante diversos medios;
-
-LXIII. SFA: A la Secretaría de Finanzas y Administración;
-
-LXIV. Siniestro de tránsito: A cualquier suceso, hecho, accidente o evento en la vía pública derivado del tránsito vehicular y de personas, en el que interviene por lo menos un vehículo y en el cual se causan la muerte, lesiones, incluidas en las que se adquiere alguna discapacidad, o daños materiales, que puede prevenirse y sus efectos adversos atenuarse;
-
-LXV. Sistema de Movilidad: Al conjunto de elementos y recursos relacionados directa o indirectamente con el tránsito y la movilidad cuya estructura e interacción permiten el desplazamiento de personas y bienes;
-
-LXVI. Sistema de retención infantil: A los elementos de seguridad para limitar la movilidad del cuerpo para personas menores de doce años, a fin de disminuir el riesgo de lesiones en caso de colisión o desaceleración brusca del vehículo;
-
-LXVII. Sistemas seguros: A las prácticas efectivas, eficientes y prioritarias, que redistribuyen responsabilidades entre los diversos actores relacionados con la movilidad y no solo con las personas usuarias, cobran especial relevancia las vías libres de riesgos, los sistemas de seguridad en el transporte, en los vehículos y las velocidades seguras;
-
-LXVIII. Sitio o Base: Al espacio físico ubicado en propiedad privada, o en la vía pública, autorizado por la autoridad competente, destinado al estacionamiento temporal de vehículos del servicio público de taxi y especializado de carga para el ofrecimiento de sus servicios;
-
-LXIX. SSM: A la Secretaría de Salud de Michoacán;
-
-LXX. SSP: A la Secretaría de Seguridad Pública;
-
-LXXI. Tarifa: A la contraprestación previamente autorizada por el servicio de transporte público y especializado que se preste en territorio estatal, la cual podrá ser mediante pago en efectivo, tarjeta de prepago o cualquier otra forma establecida en la presente Ley, su Reglamento y demás normatividad aplicable;
-
-LXXII. Titular del Poder Ejecutivo: Al Titular del Poder Ejecutivo del Estado;
-
-LXXIII. Vehículo motorizado: Al vehículo de transporte terrestre de pasajeros o de carga, que para su tracción dependen de un motor de combustión interna, eléctrica o de cualquier otra tecnología que les proporciona velocidad superior a los veinticinco kilómetros por hora;
-
-LXXIV. Vehículo no motorizado: Al vehículo de tracción humana como bicicleta, monociclo, triciclo, cuadriciclo; vehículos recreativos como patines, patinetas y monopatines; incluye a aquellos asistidos por motor de baja potencia no susceptible de alcanzar velocidades mayores a veinticinco kilómetros por hora, y los que son utilizados por personas con discapacidad;
-
-LXXV. Vehículo: Al Modo de transporte diseñado para facilitar la movilidad y tránsito de personas o bienes por la vía pública, propulsado por una fuerza humana directa o asistido para ello por un motor de combustión interna, eléctrico o cualquier fuerza motriz;
-
-LXXVI. Vehículos ecológicos: A aquellos que cuentan originalmente con un sistema de propulsión de fábrica, eléctrica, híbrida o modificados con motores eléctricos, hidrógeno, combustión interna en combinación con eléctricos y/o propulsión a gas natural, que cumplan con la normatividad en la materia;
-
-LXXVII. Vía primaria: A aquella que, por su forma y función, permite desplazamientos entre distintas zonas de las ciudades y que posibilita un amplio volumen de tránsito vehicular;
-
-LXXVIII. Vía pública: A todo espacio de uso común destinado al libre desarrollo de las actividades urbanas colectivas, entre ellas la movilidad, el tránsito, la prestación de servicios públicos y la instalación de infraestructura y mobiliario urbano;
-
-LXXIX. Vía secundaria: A aquella que permite la circulación al interior de las colonias, barrios o pueblos, destinada al acceso directo a los inmuebles;
-
-LXXX. Vialidad: Conjunto integrado de vías de uso común que conforman la traza urbana; y,
-
-LXXXI. Violencia de género: A cualquier acción u omisión, basada en su género, que le cause a una persona daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte, tanto en el ámbito privado como en el público.
+Protección de la familia
 
 ###### Artículo 7.
 
-La movilidad es el derecho humano a trasladarse y a disponer de un sistema de movilidad de calidad, suficiente y accesible que, en condiciones de igualdad y sostenibilidad, permita el desplazamiento de personas, bienes y mercancías, el cual deberá contribuir al ejercicio y garantía de los demás derechos humanos, por lo que las personas serán el centro del diseño y del desarrollo de los planes, programas, estrategias y acciones en la materia.
+Las instituciones del Estado, en el ámbito de su competencia, promoverán la organización, desarrollo y protección de la familia, estableciendo las bases que faciliten el surgimiento y la celebración del matrimonio y el ejercicio de los derechos derivados del concubinato, así como aquellos que deriven de otras leyes.
+
+Deben también promover el reconocimiento y protección de todos los miembros de la familia y la adecuada comunicación entre éstos.
+
+Gestión Oficiosa
 
 ###### Artículo 8.
 
-El derecho a la movilidad permite que las personas puedan elegir libremente la forma de trasladarse dentro de los distintos centros de población, a fin de acceder a los bienes, servicios y oportunidades que otorgan éstos.
+Las instituciones del Estado en el ámbito de su competencia deben gestionar de oficio, en los casos en que proceda, la pérdida o suspensión de la patria potestad, la custodia, el derecho de convivencia o la reclamación de alimentos para niñas, niños y adolescentes o de personas incapaces.
+
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 23 DE JUNIO DE 2021)</small>
+
+Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### Artículo 9.
 
-El derecho a la movilidad garantizará lo siguiente:
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán representa, en los procedimientos ante juzgados familiares, a las niñas, niños y adolescentes y el Sistema para el Desarrollo Integral de la Familia en Yucatán a las personas con discapacidad, siempre que carecieren de representación o esta fuere deficiente.
 
-I. La integridad física y la prevención de lesiones de todas las personas usuarias de las calles y en los sistemas de transporte, en especial de las más vulnerables bajo el enfoque de sistema seguro;
+Los jueces deben dar vista a la Procuraduría de los asuntos en que pudieren verse afectados los derechos de las niñas, niños o adolescentes o de personas incapaces, para que la Procuraduría, en caso de estimarlo necesario, las represente.
 
-II. La accesibilidad de todas las personas, en igualdad de condiciones, con dignidad y autonomía a las calles y a los sistemas de transporte, priorizando a los grupos en situación de vulnerabilidad, generando las condiciones de desplazamiento más seguras e inclusivas para las mujeres;
+> <small>(REFORMADO, D.O. 3 DE MARZO DE 2022)</small>
 
-III. Reconocer los viajes de cuidado y desarrollar políticas públicas que atiendan las necesidades específicas para el cuidado de las personas;
-
-IV. La movilidad eficiente de personas, bienes y mercancías;
-
-V. La preservación y restauración del equilibrio ecológico ante los efectos del cambio climático;
-
-VI. La calidad de los servicios de transporte y de la infraestructura vial;
-
-VII. Eliminar factores de exclusión o discriminación al usar los sistemas de movilidad, para que todas las personas gocen y ejerzan sus derechos en igualdad de condiciones;
-
-VIII. La igualdad de oportunidades en el uso de los sistemas de movilidad; y,
-
-IX. Promover el máximo grado de autonomía de las personas en sus traslados y el uso de los servicios.
+Derecho a la Igualdad entre las Personas
 
 ###### Artículo 10.
 
-Las autoridades competentes deberán diseñar y operar el sistema de movilidad respetando los siguientes criterios:
+Las personas son iguales ante la ley, por lo que de común acuerdo decidirán todo lo relativo a la integración de una familia y a la administración de sus bienes.
 
-I. Ajustes razonables: Entendidas como las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas el goce o ejercicio, en igualdad de condiciones de todos los derechos humanos y libertades fundamentales;
-
-II. Diseño universal: Se entenderá el diseño de productos, entornos, programas y servicios en materia de movilidad y seguridad vial, que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para grupos particulares de personas con discapacidad cuando se necesiten;
-
-III. Perspectiva de género: El sistema de movilidad debe tener las condiciones adecuadas considerando estrategias que mejoren y faciliten el acceso e inclusión de las mujeres en un marco de seguridad y conforme a sus necesidades, con el fin de garantizar la igualdad de género;
-
-IV. Pluriculturalidad y multilingüismo: El espacio público y el sistema de transporte debe garantizar el respeto por la pluriculturalidad y debe contemplar mecanismos que garanticen la accesibilidad de las personas indígenas, afromexicanas, con discapacidad en materia lingüística y en situación de vulnerabilidad, así como promover la capacitación de las personas que operan los servicios de transporte y servicios de emergencia en Lengua de Señas Mexicana; y,
-
-V. Prioridad en el uso de la vía: El sistema de movilidad debe garantizar el uso equitativo del espacio público por parte de todas las personas usuarias, de acuerdo con la jerarquía de la movilidad y las necesidades territoriales de los centros de población.
+Derecho a la igualdad de los hijos o hijas
 
 ###### Artículo 11.
 
-La planeación, diseño e implementación de las políticas públicas, planes y programas en materia de movilidad deberán favorecer en todo momento a la persona, los grupos en situación de vulnerabilidad y sus necesidades, garantizando la prioridad en el uso y disposición de las vías, de acuerdo con la siguiente jerarquía de la movilidad:
+Los hijos o hijas, cualquiera que sea la vinculación entre sus progenitores, son iguales ante la ley y tienen derecho a la identidad, por lo que pueden reclamar su filiación y exigir informes sobre su origen genético en los casos y con las condiciones establecidas en este Código y demás disposiciones legales aplicables.
 
-I. Personas peatonas, con un enfoque equitativo y diferenciado en razón de género, personas con discapacidad y movilidad limitada;
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
-II. Personas ciclistas y personas usuarias de vehículos no motorizados;
-
-III. Personas usuarias y prestadoras del servicio de transporte público de pasajeros, con un enfoque equitativo pero diferenciado;
-
-IV. Personas prestadoras de servicios de transporte de carga y distribución de bienes y mercancías; y,
-
-V. Personas usuarias de vehículos motorizados particulares.
+Derechos de las Niñas, Niños y Adolescentes y de las Personas con discapacidad intelectual, mental o psicosocial
 
 ###### Artículo 12.
 
-Se entenderá por Derecho a la Ciudad, garantizar que las personas puedan acceder a otros derechos básicos y a su vez, al disfrute pleno de la ciudad, a través del acceso a la infraestructura, a los modos de transporte, y servicios que ofrezca la ciudad, bajo los principios marcados en esta Ley, la justicia social, el equilibrio entre lo urbano y lo rural, y la función social y ambiental de la ciudad, a partir de los derechos reconocidos por la Constitución y que evolucionará de acuerdo a las necesidades de la sociedad.
+La edad menor de dieciocho años, el estado de interdicción y las demás incapacidades establecidas por la ley, constituyen restricciones a la capacidad jurídica de las personas; pero las niñas, niños y adolescentes o las personas con discapacidad intelectual, mental o psicosocial o en estado de interdicción pueden ejercer derechos y contraer obligaciones por medio de sus representantes.
+
+Estados de familia
 
 ###### Artículo 13.
 
-Las políticas y programas que deriven de esta Ley, en relación al Derecho a la Ciudad deberán:
+La constitución, modificación o disolución de los estados de familia derivados del matrimonio, el concubinato, el parentesco o las instituciones afines a éste, se regirán de conformidad a los hechos o actos previstos en este Código y, en su caso, en la legislación aplicable.
 
-I. Fomentar la distribución equitativa del espacio público de vialidades que permita la máxima armonía entre los diferentes tipos de usuarios, prevaleciendo el interés general sobre el particular;
+### CAPÍTULO II. Del Parentesco
 
-II. Incrementar la oferta de opciones de servicios y modos de transporte integrados, a los diferentes grupos de usuarios, que proporcionen disponibilidad, velocidad, densidad y accesibilidad universal, que permitan reducir la dependencia del uso del vehículo particular;
-
-III. Fomentar el diseño del desarrollo urbano, orientado a la conectividad de servicios y equipamientos, además de garantizar la movilidad, a través de modos sustentables, que permitan el acceso a los derechos y servicios de la ciudad;
-
-IV. Asegurar la accesibilidad universal y libre circulación de todas las personas, facilitando la conexión entre el lugar de vivienda, el empleo y demás satisfactores urbanos, tendientes a disminuir la distancia y frecuencia de los traslados, promoviendo espacios públicos que sirvan como transición y conexión entre centros de población y que fomenten la pluralidad y la cohesión social; y,
-
-V. Establecer lineamientos para que el diseño y traza de vialidades en los centros de población, fomenten el derecho a la movilidad y seguridad vial, de acuerdo a las características geográficas y culturales de cada región.
-
-Las autoridades en el ámbito de sus competencias, deberán proteger y promover la progresividad del espacio público, para lo cual deberán crear condiciones de habitabilidad de los espacios públicos como elementos fundamentales para el ejercicio del derecho a una vida sana, la convivencia, recreación y seguridad ciudadana.
-
-### CAPÍTULO II. DEL OBJETO Y PRINCIPIOS
+Parentesco
 
 ###### Artículo 14.
 
-Los planes o programas estatales y municipales de desarrollo urbano, de conurbaciones y de zonas metropolitanas deberán garantizar el servicio de transporte público, privilegiarán la dotación y preservación de la infraestructura en el espacio público y establecerán criterios de conectividad entre vialidades que propicien la jerarquía de la movilidad, de acuerdo a lo establecido por la normativa aplicable.
+El parentesco, es la relación jurídica que nace entre las personas en razón de la consanguinidad, afinidad o por la adopción.
+
+Parentesco por consanguinidad
 
 ###### Artículo 15.
 
-Se reconocen como sujetos activos de la movilidad y seguridad vial, a todas las personas, grupos sociales y sectores con necesidades y comportamientos de desplazamiento diferenciados, en igualdad de condiciones y sin discriminación de ningún tipo.
+El parentesco por consanguinidad es el que surge entre personas que descienden genéticamente de un mismo progenitor.
 
-El derecho de paso será preferente de conformidad a la jerarquía de la movilidad señalada en la presente Ley.
+También se equipará como parentesco por consanguinidad en los casos de adopción plena.
+
+Parentesco por afinidad
 
 ###### Artículo 16.
 
-Las personas peatonas tendrán los derechos y obligaciones siguientes:
+El parentesco por afinidad es la relación jurídica surgida del matrimonio entre un cónyuge y los parientes consanguíneos del otro.
 
-I. Derecho de preferencia sobre los vehículos en todos los cruceros o zonas de paso peatonales, con las facilidades necesarias para abordar las unidades del transporte público y del transporte público colectivo;
+> <small>(REFORMADO, D.O. 26 DE ABRIL DE 2024)</small>
 
-II. Transitar en espacio público adecuado, inclusivo y seguro, principalmente con infraestructura a nivel de calle en vialidades primarias y secundarias, con señalamiento vertical, horizontal y semáforo peatonal, dónde se requiera, de acuerdo al Reglamento de esta Ley;
-
-III. Usar y disfrutar de amplias zonas urbanas, con paso accesible, continuo y seguro, que se inserte coherentemente en la organización general de las ciudades;
-
-IV. Orientación, entendido como la obligación a cargo de los agentes de tránsito, a proporcionar la información que soliciten las personas peatonas, sobre el señalamiento vial, ubicación de las calles, normas que regulen el tránsito de personas y bienes;
-
-V. Vivir en centros urbanos organizados a la medida de las personas y no del automóvil, y a disponer de infraestructura incluyente a peatones o ciclistas;
-
-VI. Disfrutar de una movilidad libre, segura, incluyente y accesible, a través de un servicio de transporte público integrado y debidamente equipado, así como de zonas seguras para todo tipo de movilidad urbana; y la disposición de áreas de estacionamiento que no afecten su movilidad;
-
-VII. Dar preferencia de paso y asistir a aquellos que utilicen ayudas técnicas o a personas con movilidad limitada;
-
-VIII. Los peatones gozarán de una libre circulación por las banquetas o zonas destinadas para el mismo, cuando no existan, se encuentren en mal estado, invadidas, irregulares o dificulten el desplazamiento del peatón, podrán circular por el acotamiento y, a falta de éste, por la orilla de la vía; y,
-
-IX. Mantenerse informado de sus derechos y obligaciones a través de los canales idóneos tanto a la población escolarizada como a la no escolarizada.
-
-Las autoridades estatales y municipales en el ámbito de sus competencias, impulsarán acciones que propicien la infraestructura para movilizarse de manera activa como modo de desplazamiento preferente a los vehículos motorizados, mismas que promoverán acciones de mantenimiento preventivo y correctivo necesarias para su uso seguro.
+Parentesco civil
 
 ###### Artículo 17.
 
-Los estudiantes tendrán el derecho de paso preferencial en los cruces escolares, en todas las intersecciones y zonas señaladas para esos fines, próximos a los centros educativos, así como para el ascenso y descenso en los vehículos de servicio de transporte.
+El parentesco civil es el que nace de la adopción.
 
-La SSP en coordinación con los municipios, deberá proteger mediante dispositivos, señalamientos e indicaciones convenientes, el tránsito de los estudiantes en los horarios y lugares establecidos.
+Grados y líneas
 
 ###### Artículo 18.
 
-Las personas ciclistas y/o personas que usen aditamentos de propulsión humana, tendrán los derechos y obligaciones siguientes:
+En el parentesco consanguíneo cada generación forma un grado, y la serie de grados constituye lo que se llama línea de parentesco, que puede ser recta o colateral.
 
-I. Contar con una movilidad segura y preferencial en términos de la jerarquía de movilidad prevista en la presente Ley, con la responsabilidad de utilizar los espacios de circulación designados, de respetar las indicaciones de la autoridad correspondiente, así como los señalamientos y dispositivos que regulen la circulación vial compartida o la exclusiva, y los espacios de circulación o accesibilidad peatonal, además de dar preferencia a las personas con discapacidad y al peatón;
+La línea recta se compone de la serie de grados existente entre personas que descienden unas de otras; la colateral, se compone de la serie de grados entre personas que sin descender unas de otras, proceden de un progenitor o tronco común.
 
-II. Contar con las garantías necesarias para un tránsito seguro en las vías y respetando las jerarquías establecidas en la presente Ley;
-
-III. Disponer de las vías públicas destinadas para su tránsito, en las condiciones de seguridad vial y protección a terceros;
-
-IV. Considerar dentro de la planeación, el diseño y la construcción de todos los proyectos viales de transporte y de desarrollo urbano, mejoras a las condiciones de circulación ciclista en los asentamientos humanos cuando dichas vialidades cuenten con infraestructura ciclista y en su defecto, implementar medidas que así lo permita (sic);
-
-V. Contar con servicios que le permitan realizar viajes intermodales con otros modos de transporte; para ello se destinarán áreas de estacionamiento, dispositivos para transportar bicicletas en vehículos de transporte público de pasajeros y taxis;
-
-VI. Respetar las indicaciones de la autoridad correspondiente, señalamientos, espacios y accesibilidad peatonal de la vialidad destinados para personas peatonas y la preferencia de paso, así como los espacios de circulación;
-
-VII. No circular en estado de ebriedad, bajo efectos de enervantes ni de manera imprudente;
-
-VIII. Respetar los dispositivos que regulen la circulación vial compartida o la exclusiva;
-
-IX. Contar con áreas de estacionamiento seguro en vía pública, así como en inmuebles públicos y privados;
-
-X. A transportar su bicicleta en las unidades de transporte público que cuenten con los aditamentos para realizarlo;
-
-XI. A que los conductores de vehículos automotores mantengan una distancia no menor a 1.5 m del ciclista;
-
-XII. Circular en todas las vialidades a excepción de los carriles centrales de las vías de acceso vehicular controlado, en condiciones de seguridad, de respeto y a utilizar un carril completo del arroyo vehicular, aun cuando existan carriles exclusivos para su circulación; y,
-
-XIII. Contar con dispositivos que permitan ser vistos por los otros usuarios de la vía, cuando circulen en horario nocturno o existan condiciones meteorológicas o ambientales que disminuyan sensiblemente la visibilidad.
-
-Las autoridades estatales y municipales, en el ámbito de sus competencias, impulsarán acciones que propicien la infraestructura para movilizarse de manera segura como modo de desplazamiento preferente a los vehículos motorizados, mismas que promoverán acciones de mantenimiento preventivo y correctivo necesarias para un uso seguro.
+Línea recta ascendente y descendente
 
 ###### Artículo 19.
 
-Las personas usuarias del servicio de transporte tendrán los derechos y obligaciones siguientes:
+La línea recta es ascendente o descendente. Ascendente es la que liga a una persona con su progenitor o tronco del que procede; descendente es la que liga al progenitor con los de que de él proceden.
 
-I. Recibir un servicio de transporte público que satisfaga sus necesidades de traslado de manera incluyente, no discriminatoria, continua, uniforme, regular y permanente en las vías públicas de comunicación;
-
-II. Recibir de la persona operadora un trato digno y respetuoso;
-
-III. Al ascenso y descenso en las paradas autorizadas;
-
-IV. Estar amparados por una póliza de seguros o su equivalente que deberá otorgar el prestador del servicio público, para el caso de cualquier accidente o imprevisto al momento de hacer uso del transporte público;
-
-V. Conocer el nombre, placa y número económico del operador, dichos documentos deberán encontrarse en un lugar visible del vehículo y serán de un tamaño que permita su lectura a distancia;
-
-VI. Abstenerse de ejecutar o hacer ejecutar a bordo de los vehículos, actos que atenten contra la tranquilidad, seguridad e integridad de los demás usuarios y del conductor;
-
-VII. Contar con un programa y acciones para la prevención, atención y sanción de la violencia de género en el sistema de transporte;
-
-VIII. Deberán de respetar las paradas establecidas para realizar el ascenso y descenso, en caso de no contar con paradas establecidas, realizar el ascenso y descenso de manera ordenada y sobre el carril derecho de la vialidad, no así en doble fila o en esquinas;
-
-IX. Viajar con seguridad e higiene en el servicio, relativas al vehículo y operador del mismo;
-
-X. A que la unidad en servicio, cubra todo el recorrido de la ruta autorizada;
-
-XI. Al respeto a las tarifas autorizadas, debidamente publicadas y visibles en las unidades en servicio;
-
-XII. Contar con información clara y suficiente de la ruta, itinerario y horario de servicio;
-
-XIII. A ser indemnizado por los daños que con motivo de la prestación del servicio se causen;
-
-XIV. Pagar la tarifa correspondiente al tipo de servicio y la modalidad utilizada;
-
-XV. Conservar en buen estado la unidad que aborda y hacerse responsables por los daños causados;
-
-XVI. Contar con canales efectivos de comunicación para hacer las reclamaciones por quejas del servicio de transporte ante la autoridad correspondiente;
-
-XVII. Los usuarios del Sistema de Transporte Público de Movilidad Activa conducirán, circularán o maniobrarán la bicicleta del sistema de acuerdo al Reglamento de la presente Ley;
-
-XVIII. No fumar, ingerir bebidas alcohólicas, estupefacientes y psicotrópicos en el interior de los vehículos del servicio de transporte público en todas sus modalidades;
-
-XIX. Mantener una conducta adecuada y respetuosa a las demás personas usuarias y operadoras del vehículo; así como promover un espacio seguro dentro de las unidades de transporte público;
-
-XX. Realizar el pago de la tarifa en el momento en que dicho servicio se inicie, o al finalizar en aquellos casos en donde la cuantía sea fijada en función del tiempo y la distancia; y,
-
-XXI. Las demás que la presente Ley les confiera, así como la demás normatividad aplicable.
+Obligaciones derivadas de los grados de parentesco
 
 ###### Artículo 20.
 
-Los titulares de las concesiones y permisos tendrán de manera enunciativa, más no limitativa, las siguientes obligaciones:
+En la línea recta los grados se cuentan por el número de generaciones, excluyendo al progenitor, obligando recíprocamente a sus miembros al pago de alimentos además de legitimarlos en la sucesión intestada, siguiendo las condiciones y la prelación prevista por la Ley.
 
-I. Prestar el servicio de transporte público y especializado, acatando las normas de calidad y operación correspondientes a su modalidad y tipo, que se establecen en esta Ley, su Reglamento y, apegándose a las disposiciones de operación establecidas en la concesión o permiso correspondiente;
-
-II. Tratándose de vehículos de transporte público colectivo de pasajeros, el concesionario, deberá destinar al menos el veinte por ciento del total de asientos de la unidad de transporte, debidamente identificados para el uso preferente de personas con discapacidad, adultos mayores, mujeres embarazadas o con menores de cinco años;
-
-III. Dar trato digno a los operadores y respetar sus derechos humanos y de seguridad social;
-
-IV. Responder por siniestros de transito durante la prestación del servicio; para tal efecto, estarán obligados a contar con un seguro de viajero de cobertura amplia que señala la presente Ley y su Reglamento;
-
-V. Verificar que sus conductores u operadores, reúnan los requisitos y se desempeñen conforme a las disposiciones de la presente Ley y su Reglamento;
-
-VI. Acreditar que sus conductores u operadores cuentan con los cursos de capacitación recibidos por el Instituto y la SSP respectivamente;
-
-VII. Identificar a sus vehículos con la cromática autorizada por el Instituto;
-
-VIII. Inscribirse y mantener actualizada su inscripción en el Registro Estatal de Transporte;
-
-IX. Presentar un padrón de conductores que deberá contener por lo menos: la unidad a la cual está asignado, nombre, domicilio, número de licencia de servicio público y, demás datos necesarios para su identificación y ubicación; debiendo actualizar el padrón cada que existan cambios;
-
-X. Vigilar que se fije en un lugar visible en cada vehículo la información dirigida al usuario con relación al seguro de responsabilidad civil que lo protege en caso de siniestro de tránsito;
-
-XI. Prestar servicios gratuitos cuando se declare alguna catástrofe o desastre natural;
-
-XII. Mantener los vehículos en buen estado general, mecánico, eléctrico, de pintura y los necesarios;
-
-XIII. Llevar en el interior del vehículo fotocopia de la concesión, así como la póliza de seguro del viajero;
-
-XIV. Prestar el servicio, salvo que exista causa justificada;
-
-XV. Refrendar el pago de derechos de la concesión en los primeros sesenta días del año fiscal, en los términos que marca la Ley de Ingresos del Estado;
-
-XVI. Sujetarse a las tarifas autorizadas y respetar los horarios e itinerarios, en su caso;
-
-XVII. Vigilar bajo su estricta responsabilidad, que los vehículos sean operados sólo por quienes tengan licencia de conducir de servicio de transporte público vigente y que no conduzcan bajo las influencias del alcohol o cualquier tipo de droga; y,
-
-XVIII. Observar esta Ley y su Reglamento, así como las disposiciones que en la materia señale el Instituto.
+Línea colateral
 
 ###### Artículo 21.
 
-La planeación de la movilidad y seguridad vial en el Estado deberá ser congruente con el Plan Nacional de Desarrollo, el Programa Nacional de Ordenamiento Territorial y Desarrollo Urbano, el Plan de Desarrollo Integral del Estado de Michoacán y demás instrumentos de planeación previstos en la normatividad aplicable.
+En la línea colateral, los grados se cuentan por el número de generaciones, subiendo por una de las líneas y descendiendo por la otra, o por el número de personas que hay de uno al otro de los extremos que se consideren, excluyendo la del progenitor o tronco común.
+
+Alcance de derechos y obligaciones de los parientes
 
 ###### Artículo 22.
 
-El objetivo de la planeación de la movilidad es garantizar la movilidad segura y sustentable de las personas, por lo que las políticas públicas y programas en la materia deberán tomarlo como referente y fin último.
+Los derechos y obligaciones de carácter familiar, sólo alcanzan a los parientes colaterales hasta el tercer grado y, sin limitación, en la línea recta.
 
-## TÍTULO SEGUNDO. DE LA MOVILIDAD Y LA SEGURIDAD VIAL
+## TÍTULO SEGUNDO. ALIMENTOS
 
-### CAPÍTULO I. DEL DERECHO HUMANO A LA MOVILIDAD
+### CAPÍTULO ÚNICO. De los Derechos y Obligaciones Alimentarios
+
+Derecho a los alimentos
 
 ###### Artículo 23.
 
-El Estado y municipios en el ámbito de su competencia y en coordinación con las instancias federal y estatal, elaborarán los programas sectoriales de movilidad, seguridad vial y transporte, derivados de los instrumentos de planeación estatal, regional, conurbados, metropolitanos y municipales, así como de los Programas de Desarrollo Urbano, en los que se determinen las estrategias, mecanismos de coordinación y cooperación administrativa.
+El derecho a los alimentos es una prerrogativa derivada del parentesco. Este derecho también deriva del matrimonio o del concubinato, en los casos previstos por la ley.
 
-De igual forma, fomentarán la planeación, coordinación, vinculación y concordancia entre los programas, acciones e inversiones del gobierno federal, estatal y municipal, a través de los instrumentos que definan las políticas públicas en materia de movilidad y seguridad vial.
-
-Asimismo, gestionarán conjuntamente los planes, programas, estrategias, de movilidad y de seguridad vial, vinculados al desarrollo urbano y la creación de legislación o mecanismos de coordinación y cooperación administrativa para disminuir la desigualdad territorial.
+Definición de alimentos
 
 ###### Artículo 24.
 
-La planeación de la movilidad realizada por cualquiera de los órdenes de gobierno en el ámbito de sus competencias, deberá integrar los principios y la jerarquía de la movilidad establecida en la presente Ley, observando los criterios siguientes:
+Los alimentos comprenden:
 
-I. Adoptar medidas para garantizar la protección de la vida e integridad física de todas las personas usuarias de la vía;
+I. La comida, el vestido, la habitación, la atención médica, la hospitalaria y, en su caso, los gastos de embarazo y parto;
 
-II. Establecer acciones afirmativas y ajustes razonables en materia de accesibilidad y diseño universal, en los sistemas de movilidad y de transporte público de pasajeros individual y colectivo, con especial atención a los requerimientos de personas con discapacidad y movilidad limitada, y otros grupos en situación de vulnerabilidad que así lo requieran;
+II. Las atenciones a las necesidades psíquica, afectiva y de sano esparcimiento;
 
-III. Establecer medidas que incentiven el uso del transporte público, vehículos no motorizados, vehículos no contaminantes y otros modos de movilidad sustentable, cuando el entorno lo permita y bajo un enfoque de sistema seguro;
+III. En su caso, los gastos de funerales;
 
-IV. Promover la participación ciudadana y el uso de las nuevas tecnologías de la información que inciden en la toma de decisiones en materia de movilidad y seguridad vial dentro de los procesos de planeación;
+IV. Respecto de niñas, niños y adolescentes incluyen los gastos necesarios para la educación básica y, en su caso, para que aprendan algún oficio, arte o profesión honestos y adecuados a sus circunstancias personales;
 
-V. Establecer medidas que fomenten una movilidad sustentable y que satisfagan las necesidades de desplazamiento de la población, logren un sistema de integración física, operativa, informativa, de imagen y de modo de pago conectado a las vías urbanas y metropolitanas;
+V. En su caso, lo necesario para procurar la habilitación o rehabilitación y desarrollo de personas con capacidades especiales que requieren de un proceso de aprendizaje diferente que favorezca sus habilidades o bien, que hayan sido declarados en estado de interdicción por padecer algún trastorno mental o por ser sordomudos que no sepan leer ni escribir, y
 
-VI. Impulsar políticas y acciones de movilidad con políticas de proximidad que faciliten la accesibilidad entre la vivienda, el trabajo y servicios educativos, de salud, culturales y complementarios, a fin de reducir las externalidades negativas de la movilidad;
+VI. Tratándose de los adultos mayores que carecen de recursos económicos, además, de lo necesario para su atención geriátrica.
 
-VII. Incrementar la resiliencia del sistema de movilidad y seguridad vial fomentando diversas opciones de transporte;
-
-VIII. Promover acciones para hacer más eficiente la distribución de bienes y mercancías, con objeto de aumentar la productividad en los centros de población y minimizar los impactos negativos de los vehículos de carga en los sistemas de movilidad;
-
-IX. Garantizar que la movilidad fomente el desarrollo urbano sustentable y la funcionalidad de la vía pública, considerando el uso de suelo y la imagen urbana con relación a la oferta de transporte de los centros de población; a través de medidas coordinadas con las instancias correspondientes del Gobierno del Estado y los Municipios; priorizando el desarrollo de proyectos inmobiliarios en lugares que estén cubiertos por el Sistema Integrado de Transporte; para el caso de los usos, reservas y destinos de suelo se acatarán las disposiciones de los programas de desarrollo urbano;
-
-X. Tomar decisiones con base en diagnósticos, pronósticos y criterios técnicos que garanticen el uso eficiente de los recursos públicos en materia de movilidad;
-
-XI. Adoptar las medidas necesarias para prevenir todo tipo de violencia que atente contra la dignidad e integridad de las personas que pertenecen a los grupos en situación de vulnerabilidad;
-
-XII. Priorizar la planeación de los sistemas de transporte público, de la estructura vial y de la movilidad activa y no motorizada;
-
-XIII. Promover la capacitación de las personas que operan los servicios de transporte público y servicios de emergencia en Lengua de Señas Mexicana;
-
-XIV. Promover acciones que contribuyan a mejorar la calidad del medio ambiente, a través de la reducción de la contaminación del aire, las emisiones de gases de efecto invernadero, el consumo de energía y el ruido, derivados del impacto de la movilidad;
-
-XV. Definir estrategias que mejoren y faciliten el acceso e inclusión de las mujeres en los sistemas de movilidad conforme a sus necesidades en un marco de seguridad;
-
-XVI. Establecer medidas para el uso de una metodología basada en la perspectiva de género, que garantice el diseño de soluciones a través de acciones afirmativas, prioritariamente con el objetivo de erradicar las violencias de género al hacer uso de la vía. Lo anterior debe tomar en consideración la interseccionalidad de las mujeres, y los principios de equidad y transversalidad;
-
-XVII. Establecer mecanismos y acciones de coordinación administrativa y de concertación entre los sectores público, privado y social en materia de movilidad y seguridad vial;
-
-XVIII. Procurar que los factores como la velocidad y la circulación cercana a vehículos motorizados no pongan en riesgo a personas peatonas y usuarias de vehículos no motorizados y de movilidad activa, en particular a la niñez, personas adultas mayores, con discapacidad o con movilidad limitada y grupos en situación de vulnerabilidad;
-
-XIX. Considerar el vínculo de la movilidad con los programas de desarrollo urbano, para lo cual deberán tomar en cuenta los lineamientos y estrategias contenidas en los programas de ordenamiento ecológico del territorio y protección al medio ambiente, conforme a las disposiciones ambientales aplicables;
-
-XX. Los planes o programas de desarrollo urbano deberán considerar las Normas Oficiales Mexicanas emitidas en materia de movilidad y transporte; y,
-
-XXI. Implementar estrategias de movilidad urbana, interurbana y rural sostenible a mediano y largo plazo privilegiando el establecimiento de transporte colectivo, de movilidad activa, no motorizada y otros medios de alta eficiencia energética y ambiental.
+Derecho alimentario preferente
 
 ###### Artículo 25.
 
-El Estado y los municipios podrán celebrar convenios en materia de movilidad, a efecto de integrar sistemas eficientes que garanticen la atención de la población, en los que se considere lo siguiente:
+Los acreedores alimentarios tendrán derecho preferente sobre los ingresos y bienes del deudor alimentario, respecto de otra calidad de acreedores de éste.
 
-I. Promover acciones para hacer más eficiente el flujo de insumos y productos, para el desarrollo y productividad del Estado; y,
-
-II. Establecer acciones para reducir el impacto de los vehículos de carga sobre los Modos y Sistemas de Movilidad.
+Obligación recíproca de proporcionar alimentos
 
 ###### Artículo 26.
 
-En los procesos de planeación y diseño de la movilidad y la seguridad vial, así como en los diferentes componentes de los sistemas de movilidad y en la toma de decisiones, las autoridades competentes deberán fomentar y garantizar la participación de las mujeres, considerando su interseccionalidad, además de:
+La obligación de proporcionar alimentos es recíproca, por tanto, el que los proporciona tiene a su vez el derecho de recibirlos.
 
-I. Implementar acciones y mecanismos dentro de los sistemas de movilidad y seguridad vial, así como de las autoridades responsables del territorio, para fortalecer la información disponible y los diagnósticos, que promuevan la implementación de acciones afirmativas y con perspectiva de género que mejoren y hagan más segura, incluyente y eficiente la experiencia de la movilidad de las mujeres y de la movilidad de cuidado;
-
-II. Incluir en las estrategias e instrumentos de movilidad y seguridad vial, acciones afirmativas y con perspectiva de género para prevenir y erradicar la violencia de género. Dichas acciones serán implementadas bajo el principio de transversalidad con las autoridades competentes en los ámbitos de seguridad pública, derechos humanos, entre otras. Esto también incluirá la capacitación en la materia y sensibilización de género de las personas responsables de diseñar, operar y evaluar los sistemas de movilidad; y,
-
-III. Considerar en la planeación de la movilidad y la seguridad vial los criterios y contenido de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, Ley por una Vida Libre de Violencia para las Mujeres en el Estado de Michoacán de Ocampo, y demás legislación en materia de prevención de la violencia en razón de género, así como incorporar recomendaciones y políticas para asegurar la integridad, dignidad y libertad de las mujeres al hacer uso de la vía, emitidas por el Instituto Nacional de las Mujeres, la Comisión Nacional de los Derechos Humanos, la SSP, y demás dependencias e institutos estatales y municipales relevantes, así como de la sociedad civil y organismos internacionales.
+Alimentos derivados del matrimonio o concubinato
 
 ###### Artículo 27.
 
-A fin de garantizar la participación efectiva de la sociedad, las leyes Estatales deberán tomar en cuenta a las instituciones de planeación y de participación ciudadana establecidas en la Ley de Mecanismos de Participación Ciudadana del Estado de Michoacán de Ocampo, sin limitar la posibilidad de crear otros organismos que se consideren necesarios.
+La obligación de proporcionarse alimentos entre las personas unidas en matrimonio o concubinato, subsiste mientras exista la unión entre ellas.
+
+En los casos de disolución de matrimonio o ruptura del concubinato la obligación a que se refiere el párrafo anterior queda subsistente, cuando así lo establece este Código.
+
+Obligación de los progenitores a proporcionar alimentos
 
 ###### Artículo 28.
 
-Los servicios públicos referentes a movilidad, en todas sus modalidades, se vincularán de acuerdo a lo estipulado en los instrumentos de planeación de la movilidad.
+Los progenitores están obligados a proporcionar alimentos a sus hijos o hijas. A falta o por imposibilidad económica de los progenitores, la obligación recae en los demás ascendientes por ambas líneas que estuvieren más próximos en grado.
+
+La obligación de quienes ejercen la patria potestad de proporcionar alimentos a sus hijos o hijas que ya alcanzaron la mayoría de edad, se prorroga por el tiempo necesario para concluir una carrera técnica o profesional.
+
+Deber de proporcionar alimentos a sus progenitores
 
 ###### Artículo 29.
 
-La planeación de la movilidad y seguridad vial, se ejecutará a través de la Estrategia Estatal de Movilidad y Seguridad Vial, la que contará con los instrumentos siguientes:
+Los hijos o hijas, están obligados a proporcionar alimentos a sus progenitores. A falta o por imposibilidad económica de éstos, lo están los descendientes más próximos en grado.
 
-I. Programa Integral de Movilidad del Estado;
-
-II. Programa Integral de Seguridad Vial del Estado o de los municipios;
-
-III. Programas de Movilidad Urbana Sustentable a nivel regional, metropolitano, municipal, parcial y centro de población; y,
-
-IV. Programas específicos derivados.
-
-Los programas y sus modificaciones serán formulados con base en los resultados que arrojen los sistemas de información, evaluación y seguimiento de movilidad y de seguridad vial, a fin de verificar su congruencia con otros instrumentos de planeación y determinar si los factores de aprobación de un programa persisten y, en su caso, modificarlo o formular uno nuevo.
-
-El Estado y sus municipios, en el ámbito de sus competencias, vincularán los estudios técnicos aplicables a la movilidad y la seguridad vial, con los principios y criterios establecidos en esta Ley.
+Presunción de la necesidad de recibir alimentos
 
 ###### Artículo 30.
 
-El Programa Integral de Movilidad del Estado, deberá considerar todas las medidas administrativas y operativas que garanticen el adecuado funcionamiento del Sistema de Movilidad y las políticas conducentes que mejoren las condiciones de viaje de los usuarios de acuerdo a los principios de esta Ley.
+Las niñas, niños y adolescentes, la mujer embarazada, las personas con alguna discapacidad, las personas declaradas en estado de interdicción y el cónyuge, concubina o concubinario que se dedique exclusivamente al trabajo en el hogar o al cuidado de los hijos o hijas, gozan de la presunción de necesitar alimentos.
 
-Corresponde a la SEDUM en coordinación con las demás autoridades competentes, la correcta aplicación de este programa, el cual debe publicarse el primer año posterior a la toma de posesión del Titular del Poder del (sic) Ejecutivo del Estado; su vigencia será de seis años y se revisará cada tres años.
+Imposibilidad de proporcionar alimentos
 
 ###### Artículo 31.
 
-El Programa Integral de Movilidad del Estado, deberá contener, como mínimo, lo siguiente:
+A falta o por imposibilidad económica de los ascendientes o descendientes para proporcionar alimentos, la obligación recae conjuntamente en los hermanos de padre y madre; a falta de éstos, en los que fueran de padre o madre solamente.
 
-I. El diagnóstico;
+A falta de los parientes a que se refieren las disposiciones anteriores, tienen obligación de ministrar alimentos los parientes colaterales dentro del tercer grado.
 
-II. Los objetivos y metas específicos en función de las prioridades establecidas en la estrategia estatal de movilidad y seguridad vial;
-
-III. Los subprogramas, líneas programáticas y acciones que especifiquen la forma en que contribuirán a la conducción del desarrollo sustentable del Estado; como mínimo deben incluirse temas referentes a:
-
-a) Ordenación del tránsito de vehículos;
-
-b) Promoción, integración y territorialización del transporte público de pasajeros;
-
-c) Desarrollo orientado al transporte;
-
-d) Fomento del uso de la bicicleta y de los desplazamientos a pie, así como la accesibilidad para el desplazamiento de personas con discapacidad;
-
-e) Ordenación y aprovechamiento de la red vial primaria;
-
-f) Mejoramiento y eficiencia del transporte público de pasajeros, con énfasis en la accesibilidad para las personas con discapacidad y/o movilidad limitada;
-
-g) Infraestructura para la movilidad;
-
-h) Gestión del estacionamiento;
-
-i) Transporte y distribución de mercancías y materiales objetos del transporte público de carga;
-
-j) Gestión de transporte metropolitano;
-
-k) Medidas para promover la circulación de personas y vehículos con prudencia y cortesía, así como la promoción de un cambio de hábitos en la forma en que se realizan los desplazamientos diarios que suscite una movilidad más sustentable; y,
-
-l) Acciones encaminadas a reducir hechos de tránsito.
-
-IV. Las relaciones con otros instrumentos de planeación;
-
-V. Las responsabilidades que rigen el desempeño de su ejecución;
-
-VI. Las acciones de coordinación con dependencias federales, entidades federativas y municipios; y,
-
-VII. Los mecanismos específicos para la evaluación, seguimiento, actualización y, en su caso, corrección del programa.
+Límite para proporcionar alimentos
 
 ###### Artículo 32.
 
-El Programa Integral de Seguridad Vial deberá considerar todas las medidas administrativas, operativas y de coordinación que garanticen la seguridad vial de todos los usuarios de la vía, anteponiendo la jerarquía de movilidad, atendiendo al enfoque del sistema seguro.
+Los parientes a que se refiere el artículo anterior, tienen obligación de proporcionar alimentos a las niñas, niños y adolescentes mientras éstas llegan a la edad de dieciocho años y en todo momento, a las personas incapaces que requieran de un proceso de aprendizaje diferente que favorezca sus habilidades o bien, que hayan sido declarados en estado de interdicción por padecer algún trastorno mental o por ser sordomudos que no sepan leer ni escribir.
+
+Cumplimiento de la obligación alimentaria
 
 ###### Artículo 33.
 
-El Programa Integral de Seguridad Vial debe incluir, como mínimo, lo siguiente:
+El obligado a proporcionar alimentos cumple esta obligación asignando una pensión al acreedor alimentario, o incorporándolo a su familia. Si el acreedor se opone a ser incorporado, compete al juez, según las circunstancias, fijar la manera de ministrar los alimentos.
 
-I. El diagnóstico;
-
-II. Los objetivos y metas específicos en función de las prioridades establecidas en el Plan de Desarrollo Integral del Estado de Michoacán;
-
-III. Los subprogramas, líneas programáticas y acciones, que especifiquen la forma en que contribuirán a la conducción del desarrollo del Estado; como mínimo deben incluirse temas referentes a:
-
-a) Patrón de ocurrencia de hechos de tránsito;
-
-b) Condiciones de la infraestructura y de los elementos incorporados a la vía;
-
-c) Intersecciones y corredores con mayor índice de hechos de tránsito en las distintas vialidades;
-
-d) Actividades de prevención de hechos de tránsito;
-
-e) Actividades de atención y seguimiento pre hospitalario;
-
-f) Actividades de atención y seguimiento a víctimas de hechos de tránsito; y,
-
-g) Ordenamiento y regulación de vehículos.
-
-IV. Las relaciones con otros instrumentos de planeación;
-
-V. Las responsabilidades que regirán el desempeño en su ejecución;
-
-VI. Las acciones de coordinación con dependencias federales, entidades federativas y municipios; y,
-
-VII. Los mecanismos específicos para la evaluación, actualización y, en su caso, corrección del programa.
-
-Corresponde a la SEDUM en coordinación con el Consejo Estatal para la Prevención de Accidentes y las demás autoridades competentes, la correcta aplicación de este programa, el cual debe publicarse el primer año posterior a la toma de posesión del Titular del Poder del Poder (sic) Ejecutivo del Estado; su vigencia será de seis años y se revisará cada tres años.
+Obstáculos para la incorporación a la familia del deudor alimentario
 
 ###### Artículo 34.
 
-Los programas específicos serán desarrollados por las autoridades correspondientes en el ámbito de sus competencias, y tendrán por objeto fijar las estrategias puntuales para los diferentes modos de transporte, su infraestructura y operación, los cuales serán revisados y modificados de conformidad con lo que establezca el Reglamento.
+El deudor alimentario no podrá pedir que se incorpore a su familia al que debe recibir alimentos, cuando se trate de una persona que haya sido su cónyuge o de un hijo o hija en custodia.
+
+El juez no debe acceder a la petición de incorporación a la que alude el párrafo anterior, si existe un inconveniente legal para ello. En ese caso, determinará en atención al interés superior de quien pudiera o no ser incorporado a la familia del deudor alimentario.
+
+Proporcionalidad de los alimentos
 
 ###### Artículo 35.
 
-Los Ayuntamientos de los municipios deberán expedir sus respectivos Programas de Movilidad Urbana Sustentable y/o Programa Integral de Seguridad Vial, debiéndose ajustar a los principios y disposiciones establecidas en la presente Ley, su Reglamento y a lo previsto en los Programas y acciones de la materia.
+Los alimentos deben ser proporcionados de acuerdo con la posibilidad económica del que debe otorgarlos y a la necesidad de quien debe recibirlos.
 
-Los municipios realizarán las adecuaciones correspondientes a su regulación municipal para establecer las nuevas normas de la movilidad en el ámbito de sus respectivas jurisdicciones territoriales, con apego a la presente Ley, su Reglamento y sus Programas de Movilidad Urbana Sustentable.
+Cambios en la pensión alimenticia
 
 ###### Artículo 36.
 
-En la aplicación de la presente Ley y su Reglamento, concurrirán el Estado y los Municipios, en los ámbitos de sus respectivas competencias y conforme a las atribuciones que establece el presente ordenamiento.
+Una vez fijada la pensión alimenticia por el juez, ésta debe ser aumentada conforme incremente el salario mínimo general vigente en el lugar en donde se ubique el domicilio del deudor alimentario y en el mismo porcentaje en que hubiere incrementado el salario del deudor, salvo que éste demuestre que sus ingresos no aumentaron en igual proporción y, en este caso, el incremento de la pensión se ajustará al incremento real de los ingresos del deudor.
+
+El deudor alimentario, al cambiar de empleo, deberá informar al juez y al acreedor alimentario dentro de los diez días siguientes al cambio, acerca de la denominación o razón social de su nuevo trabajo, la ubicación de éste, el puesto o cargo que desempeñe y el monto del salario que percibe, a efecto de que continúe cumpliendo con la pensión alimenticia decretada para no incurrir en alguna responsabilidad.
+
+En todo caso el juez puede recabar oficiosamente los elementos de prueba que le permitan establecer o confirmar la capacidad económica del deudor alimentario.
+
+Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
+
+Falta de comprobación en los ingresos del deudor alimentario
 
 ###### Artículo 37.
 
-Para la imposición de sanciones con motivo de comisión de infracciones en materia de tránsito, el Estado y los municipios ejercerán tal facultad de manera concurrente en el ámbito de su competencia de conformidad con la presente Ley y los reglamentos aplicables.
+Cuando no sean comprobables el salario o los ingresos del deudor alimentario, el juez debe fijar que la pensión alimenticia se proporcione con base en la capacidad económica y el nivel de vida que el deudor alimentario y sus acreedores alimentarios, hayan llevado habitualmente durante los últimos dos años.
+
+Diversos deudores alimentarios
 
 ###### Artículo 38.
 
-Las autoridades estatales y municipales deberán:
+Si son varios los que deben proporcionar alimentos y todos tienen posibilidad para hacerlo, el juez debe repartir el importe entre ellos, en proporción a su capacidad económica.
 
-I. Integrar el Consejo Estatal, de conformidad con lo establecido en el presente ordenamiento;
+Si sólo algunos tienen la posibilidad para hacerse cargo de la obligación, entre ellos se debe repartir el importe de la pensión alimenticia. Si uno sólo tiene la posibilidad, únicamente él debe cumplir la obligación.
 
-II. Programar y organizar sus acciones conforme a lo previsto en esta Ley y su Reglamento, observando las disposiciones del ordenamiento territorial y ecológico;
-
-III. Implementar programas de estímulo al uso de la bicicleta en los términos de la presente Ley;
-
-IV. Promover la participación de la sociedad para proponer los programas que tengan como objeto conservar, mejorar y optimizar los sistemas de movilidad, seguridad vial mediante la difusión, sensibilización y adopción de las medidas de prevención y la seguridad vial;
-
-V. Coadyuvar con el Ministerio Público y con los órganos de administración de justicia en la prevención, averiguación y esclarecimiento de los siniestros de tránsito, así como dar cumplimiento a las sanciones que, en su caso se determinen y apliquen, relacionadas con la regulación y administración de la movilidad y seguridad vial;
-
-VI. Establecer en sus instrumentos normativos y ejecutar tareas, en el ámbito de su competencia, relativas a la categoría de las vialidades, sentidos de circulación, señalética e ingeniería de tránsito, medidas mínimas de tránsito, movilidad y seguridad vial;
-
-VII. Realizar, solicitar y evaluar auditorías e inspecciones en seguridad vial de proyectos en territorio municipal que deriven en mejoras al sistema de movilidad de todas las personas usuarias. La realización de las auditorías en seguridad vial, corresponde únicamente a personal certificado mediante los procesos, estándares y lineamientos establecidos en los términos de la presente Ley;
-
-VIII. Garantizar banquetas libres de infraestructura aérea de servicios como, iluminación, telecomunicaciones, energía o cualquiera que invada la franja de circulación peatonal;
-
-IX. Promover en el ámbito de su competencia las acciones, estrategias y proyectos para el uso racional del espacio vial, teniendo como prioridad a las personas peatonas, personas usuarias de modos activos de movilidad y modos de transporte masivo y colectivo de personas pasajeras, conforme a la jerarquía de la movilidad; así como, garantizar espacios delimitados para la guarda de bicicletas y vehículos para la movilidad activa, fomentar y priorizar el uso del transporte público y modos no motorizados;
-
-X. Establecer la categoría, sentidos de la circulación, señalética y demás características de las vías en su territorio;
-
-XI. Expedir las autorizaciones, licencias o permisos para la realización de obras de infraestructura para la movilidad, con estricto apego a las normas jurídicas locales, planes o programas;
-
-XII. Regular el servicio del estacionamiento en la vía pública, así como expedir acreditaciones en materia de estacionamientos para personas con discapacidad, adultos mayores y mujeres embarazadas conforme a lo que establece esta Ley, su reglamento y la legislación aplicable;
-
-XIII. Determinar, previo acuerdo con las autoridades competentes, las rutas de acceso y paso de vehículos del servicio público de transporte de personas pasajeras, suburbanos y foráneos, y de carga, impulsar la accesibilidad e inclusión de personas con discapacidad o con movilidad limitada a los servicios públicos de transporte de personas pasajeras y su desplazamiento seguro y efectivo en las vías a través de infraestructura adecuada; así como los itinerarios para los vehículos de carga, y otorgar las autorizaciones correspondientes;
-
-XIV. Autorizar la ubicación de los lugares para el establecimiento de los sitios y matrices de éstos, a propuesta de los interesados; y,
-
-XV. Las demás que les otorgue la presente Ley, el Reglamento y las disposiciones aplicables en la materia.
+Límite de la obligación de proporcionar alimentos
 
 ###### Artículo 39.
 
-Son autoridades estatales en materia de movilidad y seguridad vial:
+La obligación de proporcionar alimentos no comprende la de proveer de capital a los hijos o hijas, para que ejerzan el oficio, arte o profesión a que hayan de dedicarse.
 
-I. El titular del Poder Ejecutivo;
-
-II. La Secretaría de Finanzas y Administración;
-
-III. La Secretaría de Seguridad Pública;
-
-IV. La Secretaría de Comunicaciones y Obras Públicas;
-
-V. La Secretaría del Medio Ambiente;
-
-VI. La Secretaría de Desarrollo Urbano y Movilidad;
-
-VII. La Secretaría de Salud;
-
-VIII. La Secretaría de Igualdad Sustantiva y Desarrollo de las Mujeres Michoacanas; y,
-
-IX. El Instituto del Transporte del Estado de Michoacán de Ocampo.
+Solicitud de aseguramiento de los alimentos
 
 ###### Artículo 40.
 
-Para los efectos de esta Ley, el Titular del Poder Ejecutivo tendrá las atribuciones siguientes:
+Tienen derecho para pedir el aseguramiento de los alimentos:
 
-I. Presidir el Consejo Estatal e integrar el Sistema Nacional de Movilidad y Seguridad Vial;
+I. El acreedor alimentario;
 
-II. Regular y administrar la movilidad y seguridad vial en coordinación con los Municipios, así como cuando los programas y acciones afecten a dos o más Municipios de la Entidad;
+II. El que ejerza la patria potestad o el que tenga la guarda y custodia legal del acreedor alimentario, o el hijo o hija de éste, en su caso;
 
-III. Formular, aprobar, dirigir, coordinar, aplicar, evaluar, modificar y controlar la ejecución de los programas y políticas de movilidad, seguridad vial, así como las estrategias y acciones relativas a la construcción y mantenimiento de las obras de infraestructura y equipamiento vial;
+III. El tutor del acreedor alimentario, y
 
-IV. Establecer, programar, construir, ordenar, administrar y regular las vías estatales de comunicación, su infraestructura y equipamiento vial;
+> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
 
-V. Expedir las normas generales de carácter técnico relativas a las características de la infraestructura vial, tales como dispositivos, señales, regulación de tránsito, cultura y seguridad vial, de la infraestructura carretera y equipamiento vial, circulación, señalamiento y transporte;
+IV. La persona que ocupe la titularidad de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán o el Ministerio Público, en su caso.
 
-VI. Gestionar la seguridad vial y la movilidad urbana, interurbana y rural, en el ámbito de su competencia, con base en lo establecido en esta Ley y demás disposiciones legales en la materia;
-
-VII. Promover el cumplimiento de las Normas Oficiales Mexicanas, en materia de movilidad y seguridad vial;
-
-VIII. Participar de forma coordinada con las autoridades Federales, de otras entidades federativas y los municipios del Estado, en la planeación, diseño, instrumentación e implementación de la Estrategia Nacional y de los convenios de coordinación metropolitanos, en los términos previstos en esta Ley y demás disposiciones legales aplicables;
-
-IX. Celebrar convenios y acuerdos de coordinación con la Federación, otras entidades federativas y los municipios, para coordinar los sistemas de movilidad, seguridad vial, control de vehículos y conductores; y la implementación de acciones específicas, obras e inversiones en la materia y/o cualquier otra que sea objeto de esta Ley y su Reglamento;
-
-X. Establecer los programas, estrategias y proyectos tendientes a fomentar la maximización de la movilidad de las personas peatonas, de los vehículos de propulsión humana, así como la integración eficiente de los distintos modos de transporte posible, con la concurrencia de las autoridades municipales, por lo que concierne a las cuestiones de equipamiento en materia de movilidad y seguridad vial;
-
-XI. Asignar, gestionar y administrar recursos públicos, en coordinación con los municipios, bajo los criterios de la presente Ley, para implementar acciones, programas y proyectos en materia de movilidad y seguridad vial;
-
-XII. Establecer las directrices para los estudios de impacto de movilidad y seguridad vial;
-
-XIII. Expedir las licencias y permisos para operar y conducir vehículos, con las modalidades y características que establece esta Ley y su Reglamento;
-
-XIV. Establecer los registros necesarios en materia de movilidad y seguridad vial, así como expedir los elementos de identificación conforme a su tipo y características, como son las placas, calcomanías, hologramas y tarjetas de circulación, y en caso del transporte el tarjetón de control, así como las calcomanías de los programas de cuidado al medio ambiente sean creados para tales efectos conforme a la normativa aplicable;
-
-XV. Establecer, a través del Instituto, las tarifas aplicables al Sistema Estatal de Transporte y sus sistemas de cobro;
-
-XVI. Incentivar la circulación de vehículos eficientes ambientalmente a través de programas e implementar la infraestructura vial y equipamiento necesario, en coordinación con las autoridades competentes;
-
-XVII. Expedir las normas y lineamientos en materia de protección al medio ambiente, que deberán cumplir los vehículos motorizados que cuenten con registro en el Estado;
-
-XVIII. Establecer las normas y lineamientos de organización y funcionamiento de los servicios de tránsito y transporte;
-
-XIX. Diseñar e implementar, de manera conjunta con las Entidades Federativas, los mecanismos de coordinación para el conocimiento, intercambio de información para el cobro de infracciones de tránsito y expedición de documentos;
-
-XX. Crear, administrar y mantener actualizados sus indicadores y bases de datos en materia de movilidad y seguridad vial que se incorpore a los registros estatales de Transporte, Tránsito, Movilidad y Seguridad Vial a los que se refiere esta Ley;
-
-XXI. Establecer los lineamientos y acciones para la prevención de siniestros de tránsito, que atiendan la evidencia emanados del Programa Integral de Seguridad Vial;
-
-XXII. Establecer operativos de control del uso de distractores durante la conducción de vehículos, sistemas de retención infantil, cascos en motociclistas, control de velocidad y de alcoholimetría, en el ámbito de su competencia y de acuerdo a los lineamientos establecidos por el Consejo Estatal;
-
-XXIII. Instrumentar y articular, en concordancia con la política nacional, las acciones y programas necesarios para disminuir las muertes, lesiones graves y discapacidades ocasionadas por siniestros de tránsito;
-
-XXIV. Establecer medidas de accesibilidad, inclusión y condiciones de diseño universal para las personas con discapacidad y movilidad limitada, así como otros grupos en situación de vulnerabilidad, dentro de los servicios de transporte, para garantizar su desplazamiento seguro en las vías;
-
-XXV. Evaluar los proyectos que se formulen para dictaminar la factibilidad económica y social, así como su impacto ecológico y de riesgo para la población, en materia de movilidad y seguridad vial;
-
-XXVI. Elaborar programas para el fomento de la cultura y educación en materia de movilidad y seguridad vial, mediante la coordinación con los tres órdenes de gobierno, así como de los sectores social y privado;
-
-XXVII. Ejecutar, supervisar y controlar las actividades de tránsito en el Estado y de los Agentes de Tránsito;
-
-XXVIII. Autorizar y ordenar, a través de la autoridad competente, el retiro de la vía pública de vehículos, objetos, personas o animales que obstaculicen o pongan en peligro el tránsito, remitiéndolos a los depósitos correspondientes y presentando a las personas ante las autoridades competentes en caso de delito o falta grave;
-
-XXIX. Establecer, diseñar y administrar los programas de instrucción y capacitación para conductores y operadores de vehículos, en materia de movilidad y seguridad vial;
-
-XXX. Asesorar a los municipios en materia de movilidad y seguridad vial en el marco de los convenios de coordinación que se celebren con los Ayuntamientos;
-
-XXXI. Aplicar las sanciones a quienes incurran en infracciones a las disposiciones de la presente Ley y su Reglamento, en el ámbito de su competencia y en las que, en su caso, asuma por la coordinación que establezca con los Ayuntamientos;
-
-XXXII. Otorgar, cancelar o modificar concesiones, permisos y constancias a las personas físicas o morales para la prestación del servicio de transporte en sus distintas modalidades e infraestructura, sin más limitaciones que las que imponga el interés público;
-
-XXXIII. Proponer la conformación del Sistema Integrado de Transporte;
-
-XXXIV. Crear nuevos servicios de transporte de acuerdo con el requerimiento de la sociedad, el desarrollo y la evolución del transporte público y especializado, además de los descritos en esta Ley;
-
-XXXV. Promover la participación ciudadana en la creación de los programas que tengan como objeto conservar, mejorar y optimizar los sistemas de movilidad, seguridad vial mediante la difusión, sensibilización y adopción de las medidas de prevención y la seguridad vial;
-
-XXXVI. Expedir el o los reglamentos para proveer la observancia de esta Ley, a excepción de aquéllos que correspondan a la competencia de los Municipios del Estado; y,
-
-XXXVII. Las demás que le otorgue la presente Ley, el Reglamento y las disposiciones aplicables.
+Formas de asegurar alimentos
 
 ###### Artículo 41.
 
-Para el cumplimiento de la presente Ley y los ordenamientos que de ella emanen, la Secretaría de Finanzas y Administración, tendrá las siguientes atribuciones:
+Cuando el deudor no obtenga ingresos en carácter de asalariado, el Juez ordenará de oficio el aseguramiento para el pago de la pensión alimenticia, que podrá consistir en hipoteca, prenda, fianza, depósito de cantidad bastante o cualquier otra forma de garantía suficiente a juicio del Juez.
 
-I. Integrar el Consejo Estatal, de conformidad con lo establecido en el presente ordenamiento;
+El Juez puede solicitar de oficio el aseguramiento de los alimentos cuando el deudor alimentario sea asalariado, para lo cual solicitará que se realice el descuento correspondiente de la nómina.
 
-II. Vigilar el estricto cumplimiento de la presente Ley y su Reglamento en el ámbito de su competencia;
-
-III. Expedir las placas de circulación y calcomanías, previo pago de los respectivos derechos que requieren los vehículos registrados de conformidad con las disposiciones de esta Ley y los reglamentos respectivos;
-
-IV. Requerir a los ciudadanos omisos de los pagos a que estén obligados de los tramites vehiculares cuando hayan concluido los plazos correspondientes;
-
-V. Emitir las multas que correspondan por incumplimiento a los requerimientos formulados;
-
-VI. Fincar los créditos fiscales a los titulares de los vehículos registrados en favor de la autoridad emisora, cuando estos hayan cometido alguna infracción conforme a lo dispuesto por la presente Ley y su Reglamento;
-
-VII. Proponer dentro del Proyecto de la Ley de Ingresos, los pagos relacionados con tránsito, movilidad y seguridad vial;
-
-VIII. Crear, integrar, controlar, administrar, actualizar el Registro Estatal de Control Vehicular, así mismo suministrar al SEITU la Información a que se refiere la presente Ley y su Reglamento;
-
-IX. Proponer que se incorporen nuevos conceptos a la Ley de Hacienda del Estado de Michoacán de Ocampo, en materia de transporte y licencias de conducir o cualquier otro que se considere necesario para el cumplimiento del objeto de la presente Ley;
-
-X. Ordenar y supervisar la realización de trámites administrativos relacionados con la matriculación, verificación, inspección mecánica y control de vehículos; y,
-
-XI. Las demás que le otorgue la presente Ley, el Reglamento y las disposiciones aplicables.
+Garantía del tutor interino
 
 ###### Artículo 42.
 
-Para el cumplimiento de la presente Ley y los ordenamientos que de ella emanen, la Secretaría de Seguridad Pública, tendrá las atribuciones siguientes:
+El tutor debe garantizar el importe anual de los alimentos. En caso de que administre algún fondo destinado a ese objeto debe otorgar garantía legal.
 
-I. Integrar el Consejo Estatal, de conformidad con lo establecido en el presente ordenamiento;
-
-II. Vigilar en el ámbito de su competencia el cumplimiento de esta Ley y su Reglamento, así como coordinar, conducir y evaluar las políticas, acciones y programas en materia de movilidad y seguridad vial;
-
-III. Dictar e implementar las medidas y programas conducentes para administrar, vigilar y controlar el tránsito y la seguridad vial en las vías estatales y municipales de comunicación, con el propósito de salvaguardar la integridad física de las personas, mercancías y el orden público, así como mejorar la circulación bajo los principios de la jerarquía de la movilidad y, preservar el medio ambiente;
-
-IV. Ordenar y supervisar, con la autoridad correspondiente, la realización de trámites administrativos relacionados con las licencias y permisos para conducir vehículos particulares y del transporte sus diferentes modalidades, de conformidad con la presente ley y su reglamento;
-
-V. Expedir, suspender o cancelar previo el cumplimiento de los requisitos establecidos en la presente Ley y su reglamento, las licencias y permisos para conducir vehículos de uso particular;
-
-VI. Expedir, suspender o cancelar las licencias para conducir vehículos del Sistema Estatal de Transporte, de conformidad a las disposiciones de la presente Ley y su Reglamento;
-
-VII. Administrar los registros estatales de licencias, permisos y avisos temporales para conducir vehículos de uso particular, altas y bajas vehiculares, expedición de placas, así como los registros del sistema estatal de transporte con la información que le proporcionen la SFA y el Instituto respectivamente;
-
-VIII. Sancionar las infracciones a esta Ley y su Reglamento en materia de tránsito y seguridad vial y, de forma coordinada con el Instituto, en tratándose del transporte público, conforme a los procedimientos establecidos en la normatividad aplicable;
-
-IX. Implementar las acciones y programas permanentes en materia de cultura para la movilidad y seguridad vial, para la capacitación de conductores, operadores y demás usuarios de las vías, en coordinación con la SEDUM;
-
-X. Establecer y coordinar operativos de control del uso de distractores durante la conducción de vehículos, sistemas de retención infantil, cascos en motociclistas, control de velocidad y de alcoholimetría, en el ámbito de su competencia y de acuerdo a los lineamientos establecidos por el Consejo Estatal;
-
-XI. Integrar en el Registro Estatal de Tránsito, Transporte y Seguridad Vial, el registro de personas y vehículos sancionados administrativamente por infracciones a esta Ley y su Reglamento, así como suministrar al SEITU la Información a que se refiere la presente Ley y su Reglamento;
-
-XII. Elaborar programas de revisión a vehículos para la prevención del delito y faltas administrativas;
-
-XIII. Realizar la detención de vehículos que sean legalmente requeridos por las autoridades competentes;
-
-XIV. Cumplir y hacer cumplir los ordenamientos federales y estatales en materia de protección ambiental, equilibrio ecológico, prevención y control de la contaminación generada por vehículos;
-
-XV. Coordinar y ejecutar las acciones y medidas de auxilio que se adopten en relación con la movilidad y la seguridad vial de peatones y de vehículos en casos de desastres naturales y causas de fuerza mayor, siniestros, asaltos, manifestaciones, marchas, bloqueos de vialidad o cualquier alteración al orden público, en coordinación con la autoridad competente de ser el caso;
-
-XVI. Proporcionar asesoría en materia de tránsito y seguridad vial a los Municipios que lo soliciten;
-
-XVII. Ejecutar las normas y lineamientos de organización y funcionamientos de los servicios de tránsito que emita el titular del Poder Ejecutivo del Estado;
-
-XVIII. Coordinar la vigilancia del tránsito y seguridad vial, en las vías estatales y municipales de comunicación y en las mencionadas en los convenios celebrados con la federación y los municipios;
-
-XIX. Implementar programas de capacitación para agentes;
-
-XX. Analizar en coordinación con los municipios la problemática de tránsito y seguridad vial, conforme a los ejes transversales del Plan de Desarrollo Integral del Estado de Michoacán y demás programas nacionales e internacionales de los que México sea parte;
-
-XXI. Colaborar con las autoridades competentes de los tres órdenes de gobierno, en la prevención de la violencia de género en materia de tránsito y seguridad vial;
-
-XXII. Promover la incorporación de temas relacionados con la seguridad vial en talleres, conferencias, capacitaciones y cursos referentes en la materia, de manera transversal e institucional con las diversas dependencias de la Administración Pública Estatal;
-
-XXIII. Realizar un control y registro de las infracciones de tránsito y vialidad, conforme a la materia de su competencia;
-
-XXIV. Levantar, calificar y sancionar las infracciones establecidas en esta Ley y su Reglamento en materia de tránsito y, de forma coordinada con el Instituto, conforme a los procedimientos establecidos en la normatividad aplicable;
-
-XXV. Establecer las regiones o zonas para efectos de colocación de puestos o casetas de control y revisión de vehículos que transiten por las vías estatales y municipales, atendiendo los procedimientos, reglamentos y normativa aplicable, con apego a los derechos humanos;
-
-XXVI. Proponer las partidas necesarias en el Presupuesto de Egresos del Estado, para el cumplimiento de los fines establecidos en la presente Ley;
-
-XXVII. Regular, supervisar, sancionar y otorgar concesiones a quienes pretendan brindar el servicio de Grúa, Arrastre, Arrastre Salvamento y Depósito de Vehículos dentro del territorio del Estado y sus municipios. Así como emitir las tarifas correspondientes al servicio;
-
-XXVIII. Emitir el visto bueno con base a los lineamientos previamente establecidos sobre las condiciones de operación de los depósitos para el resguardo y aseguramiento de vehículos que sirven como auxiliares para dicho fin; y,
-
-XXIX. Las demás que le confieran la presente ley, su reglamento y las demás disposiciones legales aplicables.
+Monto de los alimentos en el usufructo
 
 ###### Artículo 43.
 
-Para el cumplimiento de la presente Ley y los ordenamientos que de ella emanen, la Secretaría de Comunicaciones y Obras Públicas, tendrá las siguientes atribuciones:
+Cuando los que ejercen la patria potestad gocen de la mitad del usufructo de los bienes que el hijo o hija hubiera adquirido por un medio distinto al de su trabajo, el importe de los alimentos se deducirá de dicha mitad, y si ésta no alcanza a cubrirlos, el exceso es por cuenta de los que ejerzan la patria potestad.
 
-I. Integrar el Consejo Estatal, de conformidad con lo establecido en el presente ordenamiento;
-
-II. Brindar asesoría técnica a los municipios, para la implementación de obras de infraestructura que cumplan con los requisitos establecidos en la presente Ley;
-
-III. Coordinarse con los gobiernos de los municipios y la SEDUM, a fin de establecer lineamientos de señalización vial y diseño en las vías públicas de su competencia;
-
-IV. Emitir, en conjunto con las autoridades que integren el Consejo Estatal, los lineamientos técnicos para la realización de las auditorías de seguridad vial, a efecto de proveer de una metodología homologada a nivel estatal;
-
-V. Coordinar la planeación, programación y presupuestación de la construcción, conservación, mantenimiento y modernización de carreteras, puentes, caminos vecinales, infraestructuras y demás vías de comunicación terrestre de jurisdicción estatal, que se adentren en los centros de población, con los municipios, para el cumplimiento de lo establecido en esta Ley;
-
-VI. Brindar asesorías y asistencia técnica a la Administración Pública Estatal, órganos autónomos, y a las autoridades municipales, para la planeación y ejecución de programas, obras de infraestructura, equipamiento y servicios en materia de movilidad y seguridad vial;
-
-VII. Participar, en coordinación con los integrantes del Consejo Estatal en estudios, investigaciones y proyectos para la implementación de mecanismos que mejoren los desplazamientos en las vías de comunicación estatal, el transporte y la seguridad vial;
-
-VIII. Suscribir, en coordinación con los integrantes del Consejo Estatal, convenios de colaboración con instituciones de investigación y educación superior, organismos e instituciones nacionales e internacionales públicas y privadas, a efecto de realizar planes, proyectos, desarrollo tecnológico, transferencia de conocimiento y capacitación en materia de movilidad, transporte y seguridad vial;
-
-IX. Fungir como instancia revisora, en coordinación con las autoridades correspondientes, en las acciones, planes, programas y políticas públicas en materia de seguridad vial que impliquen vías de comunicación terrestre de conformidad con lo establecido en la Ley de Caminos y Puentes del Estado; y,
-
-X. Las demás que le otorgue la presente Ley, el Reglamento y las disposiciones aplicables.
+Cesación de la obligación de proporcionar alimentos
 
 ###### Artículo 44.
 
-Para el cumplimiento de la presente Ley y los ordenamientos que de ella emanen, la Secretaría del Medio Ambiente, tendrá las atribuciones siguientes:
+Puede cesar la obligación de proporcionar alimentos cuando:
 
-I. Integrar el Consejo Estatal, de conformidad con lo establecido en el presente ordenamiento;
+I. El que la tiene padezca una incapacidad física o mental que le impida cumplirla;
 
-II. Formular, ejecutar, revisar y difundir los planes y programas estatales de protección al medio ambiente aplicables a vehículos que circulen en las vías estatales de comunicación, en coordinación con las autoridades competentes;
+II. El acreedor alimentario deja de necesitar los alimentos;
 
-III. Monitorear, regular, prevenir, controlar, reducir y vigilar la contaminación atmosférica generada por vehículos motorizados que circulen en el territorio Estatal, pudiendo limitar su circulación;
+III. En caso de injuria, falta o daños graves inferidos por el acreedor alimentista contra el que debe prestarlos;
 
-IV. Establecer medidas regulatorias a vehículos automotores que rebasen los límites máximos permisibles de emisiones contaminantes a la atmósfera, pudiendo limitar la circulación dentro del territorio estatal;
+IV. La necesidad de los alimentos tiene su origen en la conducta viciosa del acreedor alimentario o de su falta de aplicación al trabajo, mientras subsistan estas causas;
 
-V. Establecer medidas para retirar de la circulación los vehículos automotores que rebasen los límites máximos permisibles de emisiones contaminantes a la atmósfera dentro del territorio estatal, en coordinación con las autoridades correspondientes;
+V. El acreedor alimentario incumpla, sin causa justificada, con los deberes que exija la carrera técnica o profesional a que hace referencia el artículo 28 de este Código, y
 
-VI. Dictar las medidas para evitar que los niveles de concentración de contaminantes en la atmósfera, emitidos por los vehículos motorizados, rebasen los límites máximos permisibles que determinen los reglamentos y normas oficiales mexicanas aplicables, en coordinación con las autoridades facultadas para su ejecución;
+VI. El acreedor alimentario, sin consentimiento de quién debe proporcionar los alimentos, abandona la casa de éste por causa injustificada, sin perjuicio de que si el acreedor alimentario regresa, y conforme a lo que establece este Código aún requiere de alimentos, el deudor alimentario vuelve a tener la obligación de proporcionárselos.
 
-VII. Aplicar las disposiciones jurídicas relativas a la prevención y control de la contaminación por ruido, vibraciones, energía térmica y lumínica, radiaciones electromagnéticas, partículas, gases y olores perjudiciales para el medio ambiente y la salud pública, provenientes de vehículos automotores que se encuentren en circulación dentro de (sic) del territorio estatal;
-
-VIII. Operar de manera directa o indirecta, la verificación vehicular o los programas de cuidado al medio ambiente;
-
-IX. Aplicar a través de la Procuraduría, el monitoreo a vehículos altamente contaminantes y las sanciones administrativas que procedan;
-
-X. Autorizar los centros de acopio y transferencia de residuos de manejo especial;
-
-XI. Emitir las autorizaciones correspondientes a los vehículos que transporten residuos de manejo especial;
-
-XII. Formular, expedir y ejecutar los programas de ordenamiento ecológico regionales, considerando los principios de movilidad y seguridad vial indicados en esta Ley; y,
-
-XIII. Las demás que le otorgue la presente Ley, el Reglamento y las disposiciones aplicables.
+Irrenunciabilidad del derecho alimentario
 
 ###### Artículo 45.
 
-Para el cumplimiento de la presente Ley y los ordenamientos que de ella emanen, la Secretaría de Desarrollo Urbano y Movilidad, tendrá las siguientes atribuciones:
+El derecho a recibir alimentos es irrenunciable e intrasmisible, pero puede ser materia de un acuerdo que se celebre entre las partes.
 
-I. Integrar el Consejo Estatal, y presidir en ausencia del titular del Ejecutivo en términos de lo establecido en esta Ley;
-
-II. Gestionar la movilidad y seguridad vial en el ámbito de su competencia, con base en lo establecido en esta Ley y su reglamento y demás disposiciones legales en la materia;
-
-III. Vigilar el cumplimiento de las Normas Oficiales Mexicanas expedidas por la Federación, en materia de movilidad y seguridad vial;
-
-IV. Planear y diseñar de la Estrategia Estatal en los términos previstos en esta Ley y su reglamento y demás disposiciones legales aplicables;
-
-V. Armonizar los programas de ordenamiento territorial, que le competen conforme a lo dispuesto en esta Ley y su reglamento y otras leyes aplicables;
-
-VI. Incluir en la planeación del desarrollo urbano del Estado y de los municipios, una visión integral que considere en el desarrollo urbano a la movilidad como componente fundamental en la planeación de las ciudades;
-
-VII. Desarrollar, gestionar y dar seguimiento a los planes, programas y proyectos, así como coordinar las estrategias para la movilidad, con prioridad en el uso del transporte público y la movilidad activa;
-
-VIII. Coordinar con las autoridades competentes, las acciones de infraestructura vial y equipamiento necesario en materia de movilidad y transporte;
-
-IX. Promover, en coordinación con los ayuntamientos del Estado y desarrolladores inmobiliarios, las acciones necesarias para que las vialidades, zonas peatonales existentes, los corredores, andenes y en general la infraestructura de conexión de los diversos modos de transporte, se mantengan en buen estado, con el fin de proporcionar a los usuarios, el tránsito seguro por éstas, llevando a cabo las medidas necesarias para que en las vialidades se establezcan facilidades para el acceso de los peatones, con mayor atención a los grupos vulnerables;
-
-X. Proyectar, licitar y ejecutar obras de infraestructura, movilidad, transporte, equipamiento, servicios urbanos y metropolitanos de su competencia;
-
-XI. Mantener en el ámbito de su competencia, actualizados los indicadores y bases de datos que se proporcionen en materia de movilidad y seguridad vial para que se incorpore al Sistema Estatal y Federal de Información Territorial y Urbano a los que se refiere esta Ley;
-
-XII. Brindar asesorías y asistencia técnica a la Administración Pública Estatal, organismos autónomos y a las autoridades municipales para la planeación y ejecución de programas, obras de infraestructura, equipamiento y servicios en materia de movilidad y seguridad vial;
-
-XIII. Instrumentar y articular, en concordancia con la política nacional y las autoridades competentes las acciones necesarias para disminuir las muertes, lesiones graves y discapacidades ocasionadas por siniestros de tránsito;
-
-XIV. Establecer en coordinación con otras autoridades, operativos de prevención, información y control para evitar muertes y lesiones por siniestros de tránsito en el ámbito de su competencia y de acuerdo a los lineamientos establecidos por el Consejo Estatal;
-
-XV. Realizar auditorías de seguridad vial, en coordinación con otras autoridades competentes, así como con sociedad civil, e implementar las acciones y estrategias del Programa Integral de Movilidad y Seguridad Vial, y/o atender intersecciones o corredores con mayor índice de siniestros de tránsito;
-
-XVI. Establecer en coordinación con el Instituto, las acciones para garantizar que el servicio de transporte motorizado y transporte público de movilidad activa, se brinden conforme a los objetivos y principios contenidos en la presente ley y su reglamento;
-
-XVII. Elaborar y someter a aprobación del Consejo Estatal, los programas de movilidad y seguridad vial Estatales, y cuando se (sic) requerido, los municipales;
-
-XVIII. Socializar y publicar los programas de movilidad y seguridad Vial del Estado en el Periódico Oficial del Estado de Michoacán de Ocampo;
-
-XIX. Establecer en coordinación con la autoridad competente, la planeación, el diseño, y la regulación del Sistema Integrado del Transporte;
-
-XX. Participar, en coordinación con los integrantes del Consejo Estatal, en la realización de normas, manuales y lineamientos técnicos de diseño, infraestructura vial y de transporte, equipamientos, vehículos de servicios de transporte, así como otros en materia de movilidad y seguridad vial, con el objetivo de homologar las disposiciones a nivel Estatal con el marco jurídico nacional;
-
-XXI. Diseñar, en conjunto con las autoridades que integren el Consejo Estatal, los instrumentos y mecanismos necesarios para el diagnóstico, información, seguimiento y evaluación de las políticas, programas y acciones de movilidad y seguridad vial en el territorio del Estado, de conformidad con lo establecido en la presente Ley y su reglamento;
-
-XXII. Fungir como instancia revisora, en coordinación con las autoridades correspondientes, en las acciones, planes, programas y políticas públicas en materia de movilidad y seguridad vial que impliquen vías de comunicación terrestre de conformidad con lo establecido en la Ley de Caminos y Puentes del Estado de Michoacán de Ocampo;
-
-XXIII. Proponer las partidas necesarias en el Presupuesto de Egresos del Estado, para el cumplimiento de los fines establecidos en la presente Ley; y,
-
-XXIV. Las demás que le otorgue la presente Ley, el Reglamento y las disposiciones aplicables en la materia.
+Responsabilidad por no proporcionar alimentos
 
 ###### Artículo 46.
 
-Para el cumplimiento de la presente Ley y los ordenamientos que de ella emanen, la Secretaría de Salud, tendrá las siguientes atribuciones:
+Cuando el deudor alimentario no estuviere presente o se rehusare entregar lo necesario para alimentar a los miembros de su familia con derecho a recibirlos, será responsable de las deudas que éstos contraigan para cubrir las necesidades que comprendan los alimentos, pero sólo en la cuantía estrictamente necesaria.
 
-I. Integrar el Consejo Estatal, de conformidad con lo establecido en el presente ordenamiento;
-
-II. Difundir guías y protocolos de práctica clínica que permitan mejorar la calidad de la atención médica prehospitalaria e intrahospitalaria por siniestros de tránsito;
-
-III. Implementar programas de capacitación para el personal de salud responsable de la atención médica prehospitalaria e intrahospitalaria por siniestros de tránsito;
-
-IV. Realizar campañas en materia de prevención de siniestros de tránsito;
-
-V. Realizar campañas en materia de prevención de adicciones tendientes a evitar el manejo bajo el influjo del alcohol o cualquier droga, psicotrópico o estupefaciente;
-
-VI. Coadyuvar en la prestación de los servicios de atención médica prehospitalaria;
-
-VII. Verificar el cumplimiento de las Normas Oficiales Mexicanas aplicables;
-
-VIII. Capacitar a quienes realicen las auditorías de seguridad vial y estudios de mejoramiento de sitios con elevada incidencia de siniestros de tránsito, en materias de su competencia;
-
-IX. Fijar los límites de alcohol en la sangre y aire expirado, previstos en la presente Ley y su Reglamento, que deberán ser los referentes en los operativos de alcoholimetría en todo el territorio estatal;
-
-X. Establecer Programas en coordinación con las dependencias competentes que fomente la cultura de donación de órganos y tejidos en la expedición o renovación de la licencia de conducir;
-
-XI. Presidir y coordinar acciones del Consejo Estatal para la prevención de accidentes y el observatorio estatal de lesiones; y,
-
-XII. Las demás que le otorgue la presente Ley, el Reglamento y las disposiciones aplicables en la materia.
+Derecho del cónyuge abandonado a recibir alimentos
 
 ###### Artículo 47.
 
-Para el cumplimiento de la presente Ley y los ordenamientos que de ella emanen, la Secretaría de Igualdad Sustantiva y Desarrollo de las Mujeres Michoacanas, tendrá las siguientes atribuciones:
+El cónyuge que abandone al otro, sigue obligado a cumplir con los gastos derivados de la asistencia familiar.
 
-I. Integrar el Consejo Estatal, de conformidad con lo establecido en el presente ordenamiento;
+En tal virtud, el cónyuge abandonado puede pedir al juez que fije una pensión alimenticia a cargo del otro cónyuge, por el tiempo que dure el abandono y en la misma proporción en que aquél la otorgaba hasta antes del abandono.
 
-II. Promover, fomentar e instrumentar las acciones, planes, programas y proyectos necesarios para prevenir y eliminar la discriminación hacia las mujeres y niñas en el ejercicio de su derecho humano a la movilidad;
+Si dicha proporción no puede ser determinada, el juez, según las circunstancias del caso, debe fijar la suma, la periodicidad y las formas de pago que juzgue conveniente, y dictar las medidas necesarias para asegurar su entrega, así como el pago de las cantidades que se hubiesen dejado de cubrir desde que se produjo el abandono.
 
-III. Coordinar con entidades públicas y privadas, la implementación de medidas que visibilicen y reconozcan las buenas prácticas en materia de género que favorezcan la movilidad y seguridad vial;
+En este último caso, sólo deben ser consideradas las cantidades dejadas de cubrir de dos años anteriores a la solicitud para la fijación de la pensión alimenticia.
 
-IV. Promover la cultura de igualdad y la implementación de la perspectiva de género en el sistema de movilidad, evaluando las condiciones y estrategias que faciliten el acceso e inclusión de las mujeres en un marco de seguridad;
-
-V. Promover, fomentar e instrumentar las acciones necesarias para prevenir y eliminar la discriminación en el transporte;
-
-VI. Promover la recuperación y creación de espacios públicos dentro del Programa Estatal para la atención, prevención, sanción y erradicación de la violencia por razones de género;
-
-VII. Establecer medidas específicas para la prevención de agresiones de hostigamiento, acoso y violencia comunitaria en el servicio de trasporte;
-
-VIII. Dar acompañamiento a las solicitudes, inquietudes y demandas de las mujeres, para atender y erradicar los diferentes tipos de violencia que se ejercen en espacios públicos;
-
-IX. Coordinar acciones de difusión con los sectores sociales, académicos y laborales, sobre el conocimiento y aplicación de los Protocolos para la Prevención, Atención y Sanción del Hostigamiento Sexual y Acoso Sexual en espacios públicos y transporte público; y,
-
-X. Las demás que le otorgue la presente Ley, el Reglamento y las disposiciones aplicables en la materia.
+Alimentos por reconocimiento
 
 ###### Artículo 48.
 
-Para el cumplimiento de la presente Ley y los ordenamientos que de ella emanen, el titular del Instituto, tendrá las siguientes atribuciones:
+El progenitor tiene derecho a recibir alimentos, si reconoce a su hijo o hija y cumple con lo siguiente:
 
-I. Integrar el Consejo Estatal, de conformidad con lo establecido en el presente ordenamiento;
+I. Que el reconocimiento se haya realizado antes del fallecimiento del descendiente;
 
-II. Ejecutar y operar las políticas públicas, programas y acciones en materia de transporte;
+II. El reconocimiento lo haya hecho cuando el descendiente tenía derecho a percibir alimentos, y
 
-III. Fijar las políticas de planeación, operación, autorización, coordinación, control, supervisión y atención al sector del servicio de transporte en todas sus modalidades;
+III. No se haya declarado la exclusión de la paternidad.
 
-IV. Vigilar el cumplimiento de las condiciones y requisitos que establezcan las concesiones, permisos y constancias, y determinar, en su caso, el otorgamiento, renovación, transmisión, revocación, suspensión y cancelación de estos;
+## TÍTULO TERCERO. MATRIMONIO
 
-V. Establecer las modalidades, servicios, itinerarios, tarifas, horarios, restricciones, condiciones de guarda de vehículos, servicios especiales y demás condiciones e instalaciones de infraestructura para la operación, mantenimiento y resguardo, que tengan injerencia y correspondan al servicio de transporte en el Estado;
+### CAPÍTULO I. Disposiciones Generales
 
-VI. Promover la modernización de los trámites y servicios administrativos del servicio del transporte, considerando la mejora regulatoria y el gobierno digital;
+> <small>(REFORMADO, D.O. 3 DE MARZO DE 2022)</small>
 
-VII. Otorgar la autorización respectiva, en coordinación con las autoridades competentes, para que empresas, instituciones educativas o particulares lleven a cabo la capacitación y/o certificación a personas operadoras y personas que participan en el desarrollo de la actividad, de acuerdo con el programa diseñado y autorizado para tales fines;
-
-VIII. Impulsar y velar por el cumplimiento y operación, dentro del ámbito de su competencia, la constitución y administración de sociedades mercantiles, asociaciones civiles y personas morales destinadas a la prestación del servicio de transporte en el Estado;
-
-IX. Expedir en conjunto con la SEDUM y las autoridades competentes, las normas técnicas, lineamientos, criterios y opiniones técnicas en infraestructura, operación, mantenimiento, tecnología, integración, resguardo y accesibilidad en el transporte;
-
-X. Diseñar en coordinación con las autoridades competentes, proyectos de obras de infraestructura relacionadas con el sector de movilidad, seguridad vial y transporte, atendiendo a los principios de sostenibilidad, calidad y transparencia que rigen el actuar del Instituto;
-
-XI. Administrar, autorizar, proponer, operar y vigilar los esquemas de mantenimiento de la Infraestructura que compete al Sistema Estatal de Transporte y el Sistema Integrado de Transporte, en coordinación con las dependencias correspondientes de acuerdo a sus atribuciones, así como con titulares de las concesiones, permisos y contratos;
-
-XII. Coordinar la administración de los espacios físicos destinados a la infraestructura y equipamiento auxiliar del Sistema Estatal de Transporte;
-
-XIII. Revisar la documentación e información económica y financiera necesaria, para identificar esquemas financieros y de sostenimiento que permitan la continuidad de la prestación de los servicios y el mantenimiento del Sistema Estatal de Transporte;
-
-XIV. Elaborar la revista física, mecánica y ambiental de aquellas unidades destinadas a prestar el servicio de transporte en el Estado;
-
-XV. Elaborar los estudios y dictámenes técnicos necesarios y fijar las tarifas oficiales del servicio de transporte en el Estado;
-
-XVI. Administrar el Registro del Sistema Estatal de Transporte en el Estado;
-
-XVII. Gestionar y ejecutar los recursos que, por medio de los sistemas y medios de financiamiento que se prevean en esta Ley, su Reglamento, así como en la legislación hacendaria y de ingresos del Estado, destinados a las acciones, políticas públicas y programas en materia de transporte;
-
-XVIII. Ejecutar los trámites y servicios correspondientes al Instituto;
-
-XIX. Ejecutar programas y acciones en materia de servicios digitales que promuevan la eficiencia, economía, eficacia y calidad del Sistema Estatal de Transporte;
-
-XX. Expedir conforme a lo dispuesto en la normativa correspondiente, las convocatorias y declaratorias públicas que, en su caso, se requieran para la prestación de alguno de los servicios (sic) transporte;
-
-XXI. Obtener, generar y analizar los datos y evidencia técnica que, en materia de transporte, pudieran contribuir a las acciones, políticas públicas y programas;
-
-XXII. Inspeccionar, vigilar, atender, y en su caso sancionar, que el servicio de transporte sea prestado bajo las estrictas condiciones que establezcan esta Ley, su reglamento y demás disposiciones administrativas aplicables;
-
-XXIII. Atender cualquier irregularidad en la prestación del servicio, mediante sistemas de control e información;
-
-XXIV. Diseñar y operar unidades o medios de información y quejas, para que las personas usuarias denuncien cualquier irregularidad en la prestación del servicio de transporte;
-
-XXV. Coordinar, ejecutar y desarrollar acciones con la finalidad de integrar los distintos organismos de transporte, a fin de poder ofrecer un servicio de calidad y operar de manera eficiente;
-
-XXVI. Coordinar y ejecutar la planeación de los servicios de transporte necesarios para consolidar sistemas integrados de transporte en las diferentes ciudades del Estado;
-
-XXVII. Diseñar, impartir y coordinar las capacitaciones y su certificación para las personas operadoras y el sector en general que otorga el servicio de transporte;
-
-XXVIII. Coadyuvar con la autoridad competente en las acciones y programas referentes al cambio climático;
-
-XXIX. Verificar y vigilar el cumplimiento a esta Ley, su reglamento y, en su caso, disposiciones aplicables contenidas en otros ordenamientos en materia de transporte;
-
-XXX. Atender las auditorías, las observaciones preliminares que de ellas se deriven, los informes de presuntas irregularidades y las recomendaciones emitidas por la Auditoría Superior de la Federación, así como las que emita la Auditoría Superior de Michoacán; y,
-
-XXXI. Las demás que le otorgue la presente Ley, el Reglamento y las disposiciones aplicables en la materia.
-
-## TÍTULO TERCERO. DE LA CONCURRENCIA Y ATRIBUCIONES DE LAS AUTORIDADES DE MOVILIDAD Y SEGURIDAD VIAL
-
-### CAPÍTULO II. DE LA JERARQUÍA DE LA MOVILIDAD
+Naturaleza del Matrimonio
 
 ###### Artículo 49.
 
-Son atribuciones de los Municipios en materia de movilidad y seguridad vial las siguientes:
+El matrimonio es una institución jurídica por medio de la cual se establece la unión libre y voluntaria de dos personas, con igualdad de derechos, deberes y obligaciones, para realizar la comunidad de vida, en donde ambos se procuran respeto y ayuda mutua.
 
-I. Participar en el Consejo Estatal y el Sistema Nacional (sic) Movilidad y Seguridad Vial, de conformidad con lo establecido en la Ley General, la presente Ley y su Reglamento;
-
-II. Intervenir, conjuntamente con el Estado, en la formulación y aplicación de programas de movilidad y seguridad vial, en su ámbito territorial;
-
-III. Crear los Consejos municipales para la prevención de Accidentes en coordinación con las autoridades estatales correspondientes;
-
-IV. Autorizar los proyectos de infraestructura vial, dispositivos de control, señalética horizontal y vertical, y servicios conexos, en lo relativo a su territorio, a su localización y aprovechamiento de áreas, conforme a las normas aplicables y el ordenamiento territorial;
-
-V. Integrar y administrar la infraestructura de movilidad y seguridad vial; y realizar y proponer auditorías de seguridad vial en el ámbito de sus competencias;
-
-VI. Crear ciclovías, ciclo puertos y demás infraestructura, para promover el uso de bicicletas, con la finalidad de fomentar la movilidad sustentable y disminuir el impacto de contaminación en el medio ambiente, en términos de las disposiciones de la materia;
-
-VII. Expedir en el ámbito de su competencia, la normatividad para ordenar, regular, controlar y administrar los servicios de movilidad y seguridad vial en los centros de población ubicados en su territorio, conforme a las disposiciones de esta Ley y su Reglamento;
-
-VIII. Garantizar que las vías de comunicación municipal proporcionen un nivel de servicio adecuado para todas las personas, con enfoque diferenciado e interseccional, sin importar el modo de transporte que utilicen;
-
-IX. Formular, aprobar, administrar y ejecutar los programas municipales en materia de movilidad y seguridad vial, conforme a lo establecido en el Plan Nacional de Desarrollo, la Estrategia Nacional y Estatal, el Plan Estatal de Desarrollo, los programas del Estado y los convenios de coordinación metropolitanos; así como conducir, evaluar y vigilar la política conforme a lo establecido por esta Ley, sus principios y jerarquía de la movilidad;
-
-X. Vigilar el cumplimiento de las Normas Oficiales Mexicanas en materia de movilidad, seguridad vial y contaminación atmosférica;
-
-XI. Participar con las autoridades federales, el Estado, de otras entidades federativas y municipios en la planeación, regulación, instrumentación e implementación de los Convenios de Coordinación Metropolitanos;
-
-XII. Constituir las instancias locales y de coordinación metropolitana para la implementación de acciones integrales y afirmativas transversales en materia de movilidad y seguridad vial, en apego a esta Ley y demás disposiciones legales;
-
-XIII. Celebrar convenios de coordinación con la Federación, el Estado, otras entidades federativas y municipios para la implementación de acciones específicas, obras e inversiones en la materia, así como aquellas que prioricen la movilidad y seguridad vial de los grupos en situación de vulnerabilidad;
-
-XIV. Priorizar la coordinación para la planeación, programación y ejecución de las obras de infraestructura y acciones de movilidad de impacto federal, estatal y municipal conforme a lo establecido en la presente Ley;
-
-XV. Desarrollar estrategias, programas y proyectos para la movilidad y seguridad vial, fomentando y priorizando la movilidad activa y el uso del transporte público;
-
-XVI. Gestionar, asignar y administrar recursos para coadyuvar e implementar acciones y proyectos en materia de movilidad y seguridad vial, su infraestructura, servicios auxiliares, en la operación y capacitación de agentes, promoviendo una mejor utilización de las vías de comunicación municipal conforme a la jerarquía de la movilidad;
-
-XVII. Establecer las medidas y realizar los estudios necesarios para el diseño, modificación y adecuación de las vías para mejorar la seguridad vial de conformidad con la jerarquía de movilidad, incluyendo criterios de sustentabilidad, perspectiva de género e inclusión;
-
-XVIII. Solicitar al titular del Poder Ejecutivo, asesoría y apoyo para la elaboración de estudios técnicos y acciones en materia de movilidad y seguridad vial;
-
-XIX. Establecer en sus instrumentos normativos y ejecutar tareas relativas a la categoría, sentidos de circulación, señalética e ingeniería de movilidad y seguridad vial en los centros de población dentro de su jurisdicción;
-
-XX. Implementar dispositivos para el control del tránsito y seguridad vial que deban ser utilizados en los centros de población de su competencia;
-
-XXI. Alimentar el Registro Estatal de Tránsito, Transporte y Seguridad Vial con el registro de personas y vehículos sancionados en materia de tránsito conforme a la presente Ley y su reglamento;
-
-XXII. Expedir las autorizaciones, licencias o permisos para la realización de obras de infraestructura en materia de movilidad y seguridad vial, con estricto apego a la norma, planes y programas;
-
-XXIII. Determinar previo acuerdo con las autoridades competentes, las rutas de acceso y paso de vehículos del servicio público en sus distintas modalidades, así como el ascenso y descenso de los usuarios en paradas establecidas exclusivamente autorizadas, del transporte de pasajeros, urbano, suburbanos, foráneos y de carga; de conformidad a los itinerarios establecidos;
-
-XXIV. Analizar con amplitud la problemática de movilidad y seguridad vial en el municipio, estableciendo objetivos y políticas para su solución, fortaleciendo los programas y planes estatales, municipales o regionales de tránsito;
-
-XXV. Cuidar el correcto desarrollo de la organización y desempeño de las funciones encomendadas a las corporaciones municipales de tránsito municipal;
-
-XXVI. Ejecutar los acuerdos y convenios que celebre el municipio en materia de tránsito;
-
-XXVII. Designar al Director de Tránsito Municipal o autoridad equivalente, previa consulta de sus antecedentes en los Registros Nacional y Estatal de Seguridad Pública;
-
-XXVIII. Autorizar altas y bajas del personal de las corporaciones municipales de tránsito y vialidad; así como aplicar sanciones administrativas por faltas a esta Ley y su reglamento;
-
-XXIX. Vigilar que los titulares de las corporaciones municipales de tránsito y vialidad o su equivalente, consulten los antecedentes de los aspirantes a ingresar en éstas, en los Registros Nacional y Estatal de Seguridad Pública;
-
-XXX. Auxiliar a las autoridades federales y estatales de tránsito y vialidad, en ejercicio de sus funciones;
-
-XXXI. Atender las recomendaciones de los programas que, en materia de tránsito, le formule el Secretario de Seguridad Pública;
-
-XXXII. Auxiliar a la población de su circunscripción territorial en casos de accidentes y siniestros;
-
-XXXIII. Regular y autorizar el servicio de los estacionamientos establecidos en la Ley en el ámbito de sus competencias;
-
-XXXIV. Impulsar y establecer programas y acciones que garanticen la accesibilidad e inclusión de personas con discapacidad y personas con movilidad limitada a los servicios públicos de transporte de personas, así como su desplazamiento seguro y efectivo en las vías de comunicación municipal, a través de infraestructura adecuada;
-
-XXXV. Promover en el ámbito de su competencia las acciones para el uso racional del espacio vial, atendiendo a la jerarquía de la movilidad; así como, garantizar espacios delimitados que funjan como bici estacionamientos y similares;
-
-XXXVI. Regular y vigilar en el ámbito de sus atribuciones que las vías de comunicación municipal estén permanentemente libres de obstáculos que impidan, dificulten o generen un riesgo en el tránsito peatonal y vehicular, excepto en aquellos casos debidamente autorizados y respetando la jerarquía de la movilidad;
-
-XXXVII. Instrumentar, proponer, apoyar y participar en programas, acciones y campañas de cultura de movilidad y seguridad vial, que fomenten la prevención de los siniestros de tránsito, principalmente en los entornos escolares y puntos de alta afluencia de personas; que se adecúen a las características geográficas y demográficas de los centros de población ubicados en su jurisdicción;
-
-XXXVIII. Establecer en su bando y reglamentos, que los desarrollos inmobiliarios cuenten con infraestructura y servicios que cumplan con los objetivos, principios y lineamientos que establece esta Ley y su reglamento;
-
-XXXIX. Alimentar el Registro Estatal de Tránsito, Transporte y Seguridad Vial, conforme a sus atribuciones y competencias;
-
-XL. Determinar, aplicar y ejecutar, en el ámbito de su competencia las sanciones correspondientes a quienes incurran en infracciones a esta Ley, su Reglamento y normatividad municipal aplicable;
-
-XLI. Promover en coordinación con la autoridad estatal y desarrolladores inmobiliarios, las acciones necesarias para que las vialidades, zonas peatonales existentes, los corredores, andenes y en general la infraestructura de conexión de los diversos modos de transporte, se mantengan en buen estado, con el fin de proporcionar a los usuarios, el tránsito seguro por éstas, llevando a cabo las medidas necesarias para que en las vialidades se establezcan facilidades para el acceso de los peatones, con mayor atención a los grupos vulnerables;
-
-XLII. Coadyuvar con las autoridades estatales y federales de movilidad y seguridad vial en la ejecución de los programas de revisión a vehículos, para la prevención del delito y las faltas administrativas;
-
-XLIII. Implementar programas de control para prevenir siniestros de transito generados por la ingesta de alcohol y consumo de enervantes, estupefacientes y sustancias toxicas o psicotrópicas; y,
-
-XLIV. Las demás que le otorgue la presente Ley, el Reglamento y las disposiciones aplicables en la materia.
+Solemnidad del matrimonio
 
 ###### Artículo 50.
 
-Las atribuciones en materia de movilidad y seguridad vial serán ejercidas de manera concurrente por la Federación, el Estado y los municipios, en el ámbito de la competencia que les otorga la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Movilidad y Seguridad Vial, la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, esta Ley y su Reglamento, así como a través de los mecanismos de coordinación y colaboración que se generen, respetando de manera irrestricta la institucionalidad de cada orden de gobierno.
+El matrimonio es un acto solemne que debe celebrarse ante un Oficial del Registro Civil, con las formalidades que establezca este Código y demás disposiciones aplicables.
+
+Validez de los matrimonios celebrados fuera del Estado
 
 ###### Artículo 51.
 
-En el caso de las zonas metropolitanas existentes en el Estado, su planeación y regulación en materia de Movilidad y Seguridad vial se podrá realizar de manera conjunta y coordinada entre municipios, a través de sus instancias de gobernanza establecidas por el Código de Desarrollo Urbano, mediante convenios de coordinación que para tal efecto se elaboren, con apego a lo dispuesto en esta Ley, su Reglamento y demás disposiciones jurídicas aplicables.
+Los matrimonios celebrados fuera del territorio nacional o en otros Estados de la república, que sean válidos según la ley del lugar en que se celebraron, surtirán sus efectos en Yucatán.
+
+Terminación del matrimonio
 
 ###### Artículo 52.
 
-En el caso de que la zona metropolitana, delimitada formalmente, sea de carácter interestatal, las autoridades estatales que convergen convendrán entre ellas, la distribución de sus atribuciones en la materia. Los convenios que para tal efecto se acuerden, deberán guardar congruencia con la presente Ley, su Reglamento y demás disposiciones jurídicas aplicables, a fin de generar una adecuada coordinación en la implementación de políticas públicas, acciones e inversiones que propicien el desarrollo y regulación de la movilidad y seguridad vial dentro de su territorio.
+El matrimonio puede terminar:
+
+I. Por divorcio;
+
+II. Por nulidad decretada judicialmente;
+
+III. Por muerte de uno de los cónyuges, y
+
+IV. Por presunción de muerte decretada judicialmente.
+
+Nulidad de pactos en caso de contravención
 
 ###### Artículo 53.
 
-En los convenios de coordinación metropolitanos celebrados por los tres órdenes de gobierno, se establecerá qué autoridades serán las encargadas de la planeación, diseño, ejecución, operación, monitoreo y evaluación de la política de movilidad y seguridad vial a nivel metropolitano prevista en esta Ley y demás disposiciones jurídicas aplicables.
+Serán nulos los pactos que hagan los contrayentes, en contravención a lo dispuesto por este Título.
 
-### CAPÍTULO III. DEL DERECHO A LA CIUDAD
+### CAPÍTULO II. De los Requisitos para Contraer Matrimonio
+
+Requisitos para contraer matrimonio
 
 ###### Artículo 54.
 
-Los municipios en atención a sus condiciones territoriales, socioeconómicas, capacidad financiera y administrativa, podrán celebrar convenios de coordinación para la prestación del servicio público de movilidad y seguridad vial con el Estado, a fin de:
+Para contraer matrimonio es necesario:
 
-I. Asesorar y apoyar al Municipio para realizar acciones y estudios técnicos;
+I. Que ambos contrayentes sean mayores de edad;
 
-II. Asumir la ejecución de acciones específicas que correspondan al Municipio en materia de movilidad y seguridad vial, a través de la Dependencia competente; y,
+II. Que los interesados se presenten ante el Oficial del registro Civil del domicilio de cualquiera de los interesados en contraer matrimonio;
 
-III. Colaborar con el Estado, ejerciendo funciones de administración y control de movilidad y seguridad vial, en los programas y acciones que le correspondan.
+III. Que presenten tres testigos, que bajo protesta de decir verdad, declaren que los interesados no tienen impedimento legal para el matrimonio, y
+
+IV. Exhibir un certificado médico en el que conste que los interesados no padecen alguna de las enfermedades consideradas como un impedimento para contraer matrimonio.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O. 12 DE JUNIO DE 2015)</small>
+
+> <small>(DEROGADO TERCER PÁRRAFO, D.O. 12 DE JUNIO DE 2015)</small>
 
 ###### Artículo 55.
 
-Los convenios de coordinación, conforme a las atribuciones y procedimientos que establezcan las leyes hacendarias y de ingresos, precisarán:
-
-I. Los medios para recaudar las contribuciones que tienen como objeto las actividades del servicio público de movilidad y seguridad vial; y,
-
-II. La participación del Estado y de los municipios en las contribuciones que se recauden.
+(DEROGADO, D.O. 12 DE JUNIO DE 2015)
 
 ###### Artículo 56.
 
-Los ayuntamientos en concordancia con las disposiciones de esta Ley, deberán expedir su Reglamento de movilidad y seguridad vial, para lo cual deberán:
+(DEROGADO, D.O. 12 DE JUNIO DE 2015)
 
-I. Definir las normas de movilidad que establezcan el orden del tránsito, el control de la movilidad y la seguridad vial, para que la circulación de los peatones y vehículos sea segura y fluida, conforme a las disposiciones de esta Ley y su Reglamento;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 28 DE MARZO DE 2018)</small>
 
-II. Definir la estructura orgánica y precisar la competencia de la dependencia municipal en materia de movilidad y seguridad vial;
-
-III. Desarrollar y promover condiciones de seguridad y accesibilidad preferente para las personas usuarias de las vías públicas; y,
-
-IV. Promover el respeto de las personas que concurren en el aprovechamiento de las vías públicas, en particular de los Agentes responsables de atender los problemas de movilidad y de vigilar el cumplimiento de las normas de movilidad y seguridad vial.
+Taller de orientación prematrimonial
 
 ###### Artículo 57.
 
-El Titular del Poder Ejecutivo y los Municipios que estén integrados en una zona conurbada, programarán, autorizarán y ejecutarán las acciones en materia de movilidad y seguridad vial, de acuerdo a los ordenamientos aplicables.
+Todos los interesados en contraer matrimonio deben acreditar su asistencia a los talleres de orientación prematrimonial implementados por el Registro Civil. Los talleres deben estar orientados a lo siguiente:
 
-### CAPÍTULO IV. DE LOS DERECHOS Y OBLIGACIONES DE LOS SUJETOS ACTIVOS DE LA MOVILIDAD Y SEGURIDAD VIAL
+I. La explicación de los requisitos para contraer matrimonio;
+
+II. Los efectos del matrimonio, con relación a los cónyuges y, en su caso, con sus hijos o hijas;
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+III. Los regímenes patrimoniales, patria potestad, responsabilidad parental, patrimonio de la familia, paternidad y maternidad responsable, responsabilidad financiera;
+
+IV. Las formas y efectos de la terminación del matrimonio;
+
+> <small>(REFORMADA, D.O. 28 DE MARZO DE 2018)</small>
+
+V. El principio de igualdad de derechos y obligaciones que corresponden a los contrayentes;
+
+> <small>(ADICIONADA, D.O. 28 DE MARZO DE 2018)</small>
+
+VI. La prevención y tratamiento de la violencia familiar, así como las instituciones y autoridades ante quienes puede acudirse, y
+
+VII. Lo demás que se considere necesario para fomentar y proteger el matrimonio.
+
+### CAPÍTULO III. De los Impedimentos para Contraer Matrimonio
+
+Concepto de Impedimento
 
 ###### Artículo 58.
 
-El Titular del Poder Ejecutivo y los municipios atenderán, conforme a los convenios que celebren, los servicios de movilidad y seguridad vial, a efecto de integrar sistemas metropolitanos eficientes que garanticen la atención de la población.
+Para efectos de este Código, por impedimento se entenderá todo hecho o situación que legalmente prohíbe la celebración del matrimonio ante el Oficial del Registro Civil.
 
-Dentro de la planeación del Proyecto de la Ley de Ingresos del Estado, las dependencias del Gobierno del Estado con competencia en la materia, solicitarán a la SFA mediante la presentación de proyectos, fondos destinados a la integración de sistemas conurbados para la realización de obras y acciones enfocadas a las personas con discapacidad, personas peatonas, usuarios de movilidad motorizada y no motorizada.
+Impedimentos para contraer matrimonio
 
 ###### Artículo 59.
 
-El Consejo Estatal de Movilidad y Seguridad Vial será el mecanismo de coordinación entre las autoridades competentes en materia de movilidad y seguridad vial, del Estado y los municipios, así como con los sectores de la sociedad en la materia a fin de cumplir el objeto, los objetivos y principios de esta Ley, la política, el Plan de Desarrollo Integral del Estado, la Estrategia Estatal y los instrumentos de planeación específicos.
+Son impedimentos para contraer el matrimonio, y pueden ser denunciados por cualquier persona al Oficial del Registro Civil:
 
-El Consejo Estatal estará integrado por las personas titulares o representantes legales de las siguientes dependencias:
+I. La falta de edad requerida por este Código;
 
-I. El Titular del Poder Ejecutivo, quién lo presidirá, o la persona que éste designe;
+II. (DEROGADA, D.O. 12 DE JUNIO DE 2015)
 
-II. Secretaría de Finanza (sic) y Administración;
+III. (DEROGADA, D.O. 12 DE JUNIO DE 2015)
 
-III. Secretaría de Desarrollo Urbano y Movilidad;
+IV. El parentesco de consanguinidad sin limitación de grado, en la línea recta ascendente y descendente. En la línea colateral el impedimento se extiende a los hermanos y medios hermanos, al igual que entre tíos y sobrinos;
 
-IV. Secretaría Comunicaciones y Obras Públicas;
+V. El parentesco por afinidad en línea recta, ascendente o descendente, sin limitación alguna, habido entre los que pretenden contraer matrimonio;
 
-V. Secretaría de Medio Ambiente;
+VI. El parentesco civil existente o habido entre los contrayentes, así como entre los ascendientes y descendientes del progenitor o progenitores adoptivos y el adoptado;
 
-VI. Secretaría de Salud;
+VII. El haber privado de la vida a una persona casada para contraer matrimonio con su cónyuge;
 
-VII. Secretaría de Seguridad Pública;
+VIII. La embriaguez habitual y el uso persistente de drogas prohibidas por la Ley; la impotencia incurable para la cópula o cualquier enfermedad grave e incurable, que sea además contagiosa o hereditaria;
 
-VIII. Secretaría de Igualdad Sustantiva y Desarrollo de las Mujeres;
+En los casos de embriaguez habitual, uso persistente de drogas prohibidas por la Ley o disfunción sexual, el matrimonio será válido si el otro cónyuge conocía y aceptó la situación. No será impedimento la disfunción sexual cuando sea consecuencia natural de la edad de cualquiera de los contrayentes.
 
-IX. Instituto del Transporte del Estado de Michoacán; y,
+En el caso de enfermedad grave e incurable, que sea contagiosa o hereditaria a que se refiere esta fracción, el impedimento será dispensable cuando ambos contrayentes acrediten fehacientemente haber obtenido de institución o médico especialista, el conocimiento de los alcances, los efectos y la prevención de la enfermedad que sea motivo del impedimento, y manifiesten su consentimiento para contraer matrimonio.
 
-X. Diputados integrantes de la Comisión de Comunicaciones y Transportes.
+IX. El que uno o ambos contrayentes padezcan trastorno mental permanente;
 
-El Consejo Estatal podrá invitar a participar a los municipios, otras autoridades y a expertos de diversas instituciones que consideren necesarias para el debido cumplimiento del objeto de la Ley.
+X. La subsistencia legal de un matrimonio anterior, y
 
-La Presidencia del Consejo Estatal, la tendrá el titular del Poder Ejecutivo, en su ausencia la titularidad será asumida por la SEDUM.
+XI. Tratándose de matrimonio entre tutor y el pupilo que ha estado o esté bajo su guarda, si no se han aprobado legalmente las cuentas de la tutela.
+
+Obligación de revelar los impedimentos
 
 ###### Artículo 60.
 
-Las facultades del Consejo Estatal de Movilidad serán las siguientes:
+Toda persona que conozca la existencia de un impedimento para la celebración del matrimonio tiene obligación de revelarlo al Oficial del Registro Civil, antes de dicha celebración.
 
-I. Emitir los lineamientos para su organización y operación, donde deberán establecerse los mecanismos de participación de municipios, y organizaciones de la sociedad civil, así como la periodicidad de sus reuniones;
+### CAPÍTULO IV. De los Derechos y Obligaciones que Nacen del Matrimonio
 
-II. Establecer la instancia que fungirá como órgano técnico de apoyo para el seguimiento de los acuerdos y resoluciones que se emitan;
-
-III. Emitir acuerdos y resoluciones generales para el funcionamiento del Consejo Estatal;
-
-IV. Formular y aprobar la Estrategia Estatal de Movilidad y Seguridad Vial, la cual deberá estar alineada a la Estrategia Nacional y, será la base para el diseño de políticas, planes, programas y acciones que implementen las autoridades de los dos órdenes de gobierno en la materia;
-
-V. Establecer las bases de planeación, operación, funcionamiento y evaluación de las políticas en materia de movilidad y seguridad vial de carácter estatal, a fin de desarrollar los objetivos del Plan de Desarrollo Integral del Estado y los planes de los municipios alineados a la Estrategia Estatal de Movilidad y Seguridad Vial;
-
-VI. Establecer de manera transversal los mecanismos y criterios de la vinculación de la movilidad y la seguridad vial como fenómenos multifactoriales y multidisciplinarios con el transporte, la accesibilidad, tránsito, ordenamiento territorial, digitalización, medio ambiente, crisis climática, desarrollo sostenible y espacio público, así como el ejercicio de los derechos sociales relacionados con la inclusión y la perspectiva de género que deberán ser observados para la coordinación entre las autoridades de los dos órdenes de gobierno;
-
-VII. Diseñar y aprobar la política Estatal en materia de movilidad y seguridad vial, tomando en cuenta las opiniones de los grupos de la sociedad civil, de los pueblos y comunidades indígenas, afromexicanas, organizaciones de personas con discapacidad y de la población con municipios con territorios insulares, según los estándares que aplican a cada grupo;
-
-VIII. Proponer variables e indicadores al SEITU en materia de movilidad y seguridad vial, así como los mecanismos de recolección, integración, sistematización y análisis de información, de conformidad con lo establecido en la Ley de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Michoacán de Ocampo;
-
-IX. Analizar lo contenido en el SEITU para realizar estudios, diagnósticos, proponer iniciativas, intervenciones, acciones afirmativas y ajustes razonables, para dar seguimiento y evaluación de las políticas e intervenciones dirigidas a mejorar las condiciones de la movilidad y la seguridad vial con perspectiva interseccional y de derechos humanos;
-
-X. Expedir los lineamientos que establecerán los métodos y procedimientos para guiar los proyectos y acciones en materia de movilidad, vinculados con políticas, directrices y acciones de interés metropolitano, que cumplan con su objetivo de cobertura y guarden congruencia con los distintos niveles y ámbitos de planeación, así como con los principios de esta Ley;
-
-XI. Verificar los distintos tipos de vías del territorio Estatal, de conformidad con sus características físicas y usos, a efecto de establecer límites de velocidad de referencia, que deberán ser tomados en cuenta por las autoridades de los dos órdenes de gobierno, con el fin de garantizar la seguridad vial de todas las personas usuarias de éstas;
-
-XII. Formular manuales y lineamientos que orienten la política para los sistemas de movilidad en los centros de población, con perspectiva interseccional y de derechos humanos, que realicen lo siguiente:
-
-a) Orientar los criterios para el diseño vial que permitan la identificación de las necesidades o requerimientos de las personas usuarias de la vía;
-
-b) Promover la seguridad vial y la utilización adecuada de la red vial, enfoque de sistemas seguros, su infraestructura, equipamiento auxiliar, dispositivos para el control del tránsito, servicios auxiliares y elementos inherentes o incorporados a ella;
-
-c) Proponer las especificaciones técnicas del parque vehicular;
-
-d) Fortalecer la movilidad y la seguridad vial equitativa, igualitaria e incluyente;
-
-e) Establecer los lineamientos para la conformación y desarrollo de los sistemas integrados de transporte en los diferentes centros de población, así como los criterios de diseño, implementación, ejecución y evaluación de la articulación física, operacional, informativa y de imagen, que permitan el desplazamiento de personas, bienes y mercancías entre ellos;
-
-XIII. Promover los acuerdos y la coordinación entre las autoridades para fortalecer la regulación del transporte de carga a efecto de mejorar su eficiencia operacional y ambiental;
-
-XIV. Realizar el seguimiento, revisión y evaluación de programas, planes y proyectos en materia de movilidad y seguridad vial y sus impactos en los grupos en situación de vulnerabilidad, a través de los instrumentos que para tal efecto se emitan;
-
-XV. Promover la coordinación efectiva de las instancias que integran el Consejo Estatal y dar seguimiento a las acciones que para tal efecto se establezcan;
-
-XVI. Elaborar un informe anual sobre el cumplimiento del objeto y objetivos de la presente Ley, así como del avance de la Estrategia Estatal, que será remitida a las autoridades competentes del Estado y sus municipios para su conocimiento;
-
-XVII. Establecer los lineamientos para la práctica de auditorías e inspecciones de infraestructura y seguridad vial; y,
-
-XVIII. Las demás que se establezcan para el funcionamiento del Consejo Estatal y el cumplimiento del objeto de la presente Ley.
-
-### CAPÍTULO V. DE LA PLANEACIÓN DE LA MOVILIDAD Y LA SEGURIDAD VIAL
+Igualdad de la condición conyugal
 
 ###### Artículo 61.
 
-Las autoridades responsables de la atención médica prehospitalaria deberán registrar e informar mensualmente a las respectivas plataformas, la fecha y hora de recepción de cada llamada de emergencia en la materia; la fecha y hora de arribo al sitio del siniestro de tránsito; la cinemática del trauma; el número de víctimas involucradas y las características de las lesiones, y las demás que establezca el reglamento de la presente Ley y disposiciones en la materia, lo anterior, de acuerdo con los lineamientos que al respecto emitan las autoridades competentes.
+Los derechos y obligaciones que este Código otorga e impone a ambos cónyuges, serán siempre iguales para cada uno, con excepción de lo que convengan en relación a las aportaciones económicas para el sostenimiento de la familia.
 
-La información y registros generados en relación con la atención médica prehospitalaria estarán disponibles en el SEITU garantizando la protección de la información que corresponda, en términos de lo establecido en las Leyes Estatales y la de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Michoacán de Ocampo y demás legislación aplicable.
+Obligaciones de los cónyuges
 
 ###### Artículo 62.
 
-La Estrategia Estatal de Movilidad y Seguridad Vial establecerá las bases para el desarrollo de la movilidad y la seguridad vial en el Estado, en el corto, mediano y largo plazo, en congruencia con el Plan de Desarrollo Integral del Estado de Michoacán, los programas sectoriales, regionales, estatales y municipales en materia de movilidad, seguridad vial y ordenamiento territorial, y demás aplicables, así como aquellas específicas a los grupos en situación de vulnerabilidad.
+Ambos cónyuges están obligados a contribuir, cada uno por su parte, al logro de los fines del matrimonio, a guardarse respeto, fidelidad y ayuda mutua, así como a vivir juntos.
 
-La Estrategia Estatal de Movilidad y Seguridad Vial será formulada y aprobada por el Consejo Estatal y deberá publicarse en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+Cohabitación en el domicilio conyugal
 
 ###### Artículo 63.
 
-Para la formulación de la Estrategia Estatal se deberá observar, al menos, lo siguiente:
+Los cónyuges vivirán juntos en el domicilio que ambos establezcan. El juez del domicilio conyugal puede eximir de esta obligación a alguno de ellos, cuando el otro pretenda establecer su domicilio en un lugar insalubre, peligroso o indecoroso o cuando alegue una causa justificada.
 
-I. Integración de los objetivos en concordancia con los instrumentos internacionales de los que forme parte el Estado Mexicano;
+En estos casos el juez deberá procurar que el conflicto se resuelva a través de mecanismos alternativos de solución de controversias, a fin de preservar el matrimonio.
 
-II. Identificación de los sistemas de movilidad de los centros de población del estado e interurbanos, rurales y territorios insulares con su respectivo diagnóstico, caracterización y delimitación de aquellos con carácter metropolitano;
-
-III. Vinculación de la movilidad y la seguridad vial con la política de desarrollo urbano y ordenamiento territorial, así como a las políticas sectoriales aplicables y demás que se requieran;
-
-IV. Establecimiento de mecanismos para el fortalecimiento de las políticas y acciones afirmativas en materia de movilidad y seguridad vial;
-
-V. Promoción de la congruencia de las políticas, programas y acciones, que, en los distintos órdenes de gobierno, deberán implementarse en materia de movilidad y seguridad vial;
-
-VI. Conformación de las estrategias que promuevan modos de transporte público sostenible y seguro, el uso de vehículos no motorizados, vehículos no contaminantes y otros modos de alta eficiencia energética;
-
-VII. Establecimiento de las bases para los mecanismos de planeación, organización, regulación, implementación, articulación intersectorial, así como la participación de la sociedad y de los sectores público, privado y social con enfoque multisectorial; y,
-
-VIII. Ejecución, control, evaluación y seguimiento de la Estrategia e información sobre la movilidad y la seguridad vial que permita integrar indicadores de proceso, efectos, resultados e impacto desagregado entre los grupos en situación de vulnerabilidad y personas con discapacidad.
+Aportación económica
 
 ###### Artículo 64.
 
-La Estrategia Estatal tendrá una visión con un horizonte a corto, mediano y largo plazo del desarrollo estatal de la movilidad y la seguridad vial. Tendrá como objetivo gestionar, desde un enfoque de sistemas seguros, la movilidad y seguridad vial, con la premisa que el cambio en su instrumentación será progresivo, las acciones y políticas deberán obedecer a un proceso reiterativo. Podrá ser revisada y, en su caso, actualizada cada cuatro años o cuando ocurran cambios profundos que puedan afectar la estructura de movilidad del estado, siempre alineada a las disposiciones de la estrategia nacional.
+Los cónyuges, cuando ejerzan alguna profesión u oficio, deben contribuir económicamente al sostenimiento del hogar, a su alimentación y a la de sus hijos o hijas, así como a la educación de éstos en los términos que la Ley establece, sin perjuicio de distribuirse la carga en la forma y proporción que acuerden para este efecto, según sus posibilidades.
 
-Su elaboración y modificación será conforme a lo siguiente:
+A lo anterior no está obligado el cónyuge que se encuentre imposibilitado para trabajar y careciere de bienes propios, en cuyo caso el otro responderá íntegramente de esos gastos.
 
-I. El Consejo Estatal formulará y aprobará la Estrategia Estatal; y,
-
-II. Las dependencias y entidades de la administración pública del Estado y los municipios, ajustarán sus políticas y acciones a lo establecido en la Estrategia.
+Trabajo en el hogar
 
 ###### Artículo 65.
 
-Las políticas en materia de movilidad que determine la estrategia estatal, promoverá e incentivará la gradual adopción de las innovaciones tecnológicas en los sistemas aplicados al transporte, vehículos, combustibles, fuentes de energía e infraestructura.
+El cónyuge que desempeñe exclusivamente el trabajo en el hogar o al cuidado de los hijos o hijas, tiene derecho a que dichas labores se estimen como su contribución económica al sostenimiento del hogar.
+
+Cuando ambos cónyuges trabajen y cooperen al sostenimiento de la familia, las labores domésticas, el cuidado, la protección y educación de los hijos o hijas, constituyen una responsabilidad compartida.
+
+Igualdad en la autoridad de los cónyuges
 
 ###### Artículo 66.
 
-El Sistema Estatal de Información Territorial y Urbano, es un instrumento creado con fundamento en la Ley General, Ley General de Asentamiento Humanos Ordenamiento Territorial y Desarrollo Urbano y la presente Ley, tiene por objeto organizar, actualizar y difundir la información e indicadores sobre el ordenamiento territorial y el desarrollo urbano en la entidad, donde además se integra, organiza, actualiza, publica y estandariza información de movilidad y seguridad vial, considerando características socioeconómicas, demográficas, de discapacidad y de género de las personas usuarias de la vía y los grupos en situación de vulnerabilidad, para la elaboración de la política pública, programas y acciones que garanticen los derechos, principios, directrices y objetivos de esta Ley.
+Los cónyuges, de común acuerdo, deben acordar lo relativo a la dirección y cuidado del hogar, a la educación y formación de los hijos o hijas y a la administración de los bienes que sean comunes a ellos o que pertenezcan a los hijos o hijas sujetos a su patria potestad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 67.
 
-La información estará disponible para su consulta en el medio electrónico que defina el Consejo Estatal con el mayor nivel de desagregación posible, a efecto de promover el desarrollo de estudios e investigaciones que contribuyan a incorporar la perspectiva de género y la inclusión de grupos en situación de vulnerabilidad dentro de la planeación de los sistemas de movilidad y la seguridad vial.
+(DEROGADO, D.O. 12 DE JUNIO DE 2015)
 
-La protección y publicidad de la información contenida en el SEITU se realizará en términos de lo establecido en las Leyes Estatales y la de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Michoacán de Ocampo y demás legislación aplicable.
-
-La SEDUM integrará la información y base de datos sobre movilidad y seguridad vial que se generen en la entidad, con base en los lineamientos de homologación que expida el Sistema Estatal.
-
-El Ejecutivo del Estado a través de la Secretaría, suscribirán convenios de coordinación e intercambio de información necesaria para la transmisión de los archivos y bases de datos de las diversas dependencias, organismos autónomos, municipios o cualquier otro ente público o privado generador de datos e información en materia de movilidad y seguridad vial en el ámbito de sus respectivas competencias.
+Contratos entre cónyuges
 
 ###### Artículo 68.
 
-El SEITU en materia de movilidad y seguridad vial estará conformado por una base de datos integrada por la información que proporcionen las autoridades del Estado y los municipios, en el ámbito de sus competencias, de conformidad con esta Ley y demás disposiciones que al efecto se emitan.
+Los cónyuges pueden celebrar entre sí cualquier contrato, pero los de compraventa, dación en pago, permuta y donación, sólo serán válidos cuando el matrimonio está sujeto al régimen de separación de bienes.
+
+Derecho preferente sobre bienes
 
 ###### Artículo 69.
 
-Para el funcionamiento del SEITU en materia de movilidad y seguridad vial, las autoridades competentes, dentro del marco de sus facultades deberán suscribir los convenios de coordinación necesarios para la transmisión de la información que exista en los archivos de las diversas dependencias, organismos constitucionalmente autónomos, y municipios que posean datos e información necesaria para que las autoridades competentes elaboren las políticas de movilidad y seguridad vial.
+Cada cónyuge tiene derecho preferente sobre los bienes e ingresos del otro para cubrir los gastos de alimentación propia y de los hijos o hijas. Durante el matrimonio, cualquiera de los cónyuges puede ejercitar las acciones civiles que tengan el uno contra el otro y la prescripción no corre entre ellos mientras subsista el matrimonio.
 
-## TÍTULO CUARTO. DE LOS SISTEMAS DE MOVILIDAD Y SEGURIDAD VIAL
+## TÍTULO CUARTO. BIENES DE LOS CÓNYUGES
 
-### CAPÍTULO I. DE LOS ÁMBITOS DE COMPETENCIA DEL ESTADO Y DEL MUNICIPIO
+### CAPÍTULO I. De las Donaciones entre Cónyuges
+
+Donaciones matrimoniales
 
 ###### Artículo 70.
 
-La integración de indicadores y bases de datos del SEITU se integrarán por las siguientes:
+Los cónyuges podrán hacerse donaciones, siempre y cuando no sean contrarias al régimen patrimonial que hayan adoptado, a lo convenido en sus capitulaciones matrimoniales, en su caso, o a la situación jurídica de los bienes.
 
-I. Registro Estatal de Tránsito, Transporte y Seguridad Vial;
+Esas donaciones nunca deben perjudicar el derecho reconocido de los ascendientes, descendientes o colaterales a recibir alimentos.
 
-II. Base de Datos sobre información de movilidad;
-
-III. Base de Datos de información y seguimiento de seguridad vial; y,
-
-IV. Las demás que establezca el Sistema Estatal, la presente Ley y sus reglamentos.
+Irrevocabilidad
 
 ###### Artículo 71.
 
-El Estado integrará las bases de datos de movilidad y seguridad vial, las que contendrán, como mínimo, lo siguiente:
+Salvo el caso a que alude el artículo anterior, las donaciones entre cónyuges no son revocables, ni aún en caso de nulidad de matrimonio o de divorcio.
 
-I. La información contenida en el Registro Estatal Vehicular en términos de la Ley del Registro Público Vehicular, en estricto apego a las Leyes Federales, Estatales y la de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Michoacán de Ocampo y demás legislación aplicable;
-
-II. Licencias de conducir, incluyendo el tipo de licencias de conducir y seguros registrados por vehículo;
-
-III. Personas conductoras de vehículos motorizados;
-
-IV. Personas Operadoras del Sistema Estatal de Transporte;
-
-V. Información sobre infracciones cometidas, reincidencias cometidas y cumplimiento de las sanciones respectivas;
-
-VI. Información sobre siniestros de tránsito, con datos que permitan, al menos, geolocalizar el lugar del siniestro a nivel de sitio, conocer el tipo de vehículo involucrado, la existencia de personas lesionadas y de víctimas fatales, por tipo de persona usuaria y sus características sociodemográficas;
-
-VII. Información sobre encuestas de calidad en el servicio de transporte público o de uso particular;
-
-VIII. Información sobre encuestas origen/destino, con atención a la movilidad del cuidado;
-
-IX. Número de unidades, capacidad y rutas de transporte;
-
-X. Quejas de usuarios por irregularidades en la prestación del servicio de transporte y, su resolución;
-
-XI. Alta y baja de placas de vehículos nuevos o usados;
-
-XII. Información respecto de proyectos, creación y en su caso, adecuaciones de infraestructura y red vial;
-
-XIII. Información sobre los resultados y recomendaciones para el seguimiento de las auditorías e inspecciones de seguridad vial; y,
-
-XIV. La información que el Consejo Estatal determine necesaria para la debida integración de las Bases de Datos.
-
-Para el caso de vehículos no motorizados, específicamente bicicletas, monopatines, y otros vehículos sin motor de combustión interna, cuya velocidad máxima no supere veinticinco kilómetros por hora y peso menor a treinta y cinco kilogramos, no aplica el registro de vehículos salvo que la persona usuaria del vehículo necesite registrarlo por motivo de robo o extravío.
+Reducción en caso de perjuicio para ministrar alimentos
 
 ###### Artículo 72.
 
-El Estado y los municipios, crearán los Observatorios Ciudadanos de conformidad con las disposiciones previstas en la Ley de Mecanismos de Participación Ciudadana del Estado de Michoacán de Ocampo, en la que se incluirá la participación de la sociedad, pueblos y comunidades indígenas y afromexicanas, territorios insulares, personas con discapacidad y las organizaciones que les representan, instituciones académicas y de investigación, colegios de profesionistas con incidencia directa en la materia de esta Ley, organismos empresariales del sector ligado a la movilidad, la seguridad vial y al transporte de bienes y mercancías, organizaciones de la sociedad civil organizada y los gobiernos respectivos, para el estudio, investigación y propuestas; evaluación de las políticas públicas, programas y acciones; capacitación a la comunidad; difusión de información y conocimientos sobre la problemática de la movilidad, la seguridad vial, la accesibilidad, la eficiencia, la sostenibilidad, la calidad y la inclusión e igualdad y sus implicaciones en el ordenamiento territorial, y en general sobre la aplicación de la presente Ley.
+Las donaciones entre cónyuges no se anulan por la superveniencia de hijos o hijas, pero se reducirán cuando perjudiquen la obligación del donante de ministrar alimentos a quienes deben proporcionarlos conforme a la Ley.
+
+Cesión de bienes entre cónyuges
 
 ###### Artículo 73.
 
-Las autoridades correspondientes deberán proporcionar a los Observatorios la información sobre el proceso de reglamentación de la movilidad, del transporte y del tránsito, los planes de desarrollo urbano, de ordenamiento territorial metropolitanos, los actos administrativos y autorizaciones de uso de suelo, así como las bases de datos que conforman la plataforma de información del estado o municipal.
+Todo pacto que importe cesión de una parte de los bienes propios de cada cónyuge, es considerado como donación y queda sujeto a lo previsto en el Capítulo relativo a la donación entre cónyuges que establece este Código.
 
-### CAPÍTULO II. DE LAS AUTORIDADES ESTATALES Y SUS ATRIBUCIONES
+### CAPÍTULO II. De los Regímenes Patrimoniales del Matrimonio
+
+Naturaleza del régimen patrimonial del matrimonio
 
 ###### Artículo 74.
 
-Los Observatorios podrán llevar a cabo, de manera conjunta con los institutos de planeación del Estado, y municipales, procesos de consulta y deliberación sobre temas de movilidad y seguridad vial.
+El régimen patrimonial del matrimonio se refiere al conjunto de disposiciones que tutelan las relaciones patrimoniales entre los cónyuges originados del matrimonio.
+
+Clases de regímenes
 
 ###### Artículo 75.
 
-A fin de garantizar la participación efectiva de la sociedad, las leyes Estatales deberán tomar en cuenta a las instituciones de planeación y de participación ciudadana, sin limitar la posibilidad de crear otros organismos que se consideren necesarios.
+El matrimonio puede celebrarse bajo los siguientes regímenes patrimoniales:
+
+I. Separación de bienes, o
+
+II. Sociedad conyugal.
+
+En los casos en que en el acta de matrimonio no se hiciere mención del régimen patrimonial al que se sujetará el matrimonio, se entiende que se administrará bajo el régimen patrimonial de separación de bienes.
+
+Información acerca de los regímenes patrimoniales
 
 ###### Artículo 76.
 
-Los Sistemas de Movilidad y Seguridad Vial en el Estado deberán implementarse con un enfoque de sistema seguro contando con las condiciones necesarias que protejan la vida, salud e integridad física de las personas en sus desplazamientos en las vías públicas.
+Los oficiales del Registro Civil, al recibir la solicitud de matrimonio, deberán informar a los solicitantes, de las dos formas de régimen al que se puede sujetar el matrimonio, a fin de que los contrayentes expresen su voluntad.
 
-Las autoridades competentes deberán privilegiar las acciones de prevención que disminuyan los factores de riesgo, muertes y lesiones graves, con un enfoque en sistemas seguros; observando criterios científicos y técnicos de protección y prevención, así como mecanismos apropiados para vigilar, regular y sancionar aquellos hechos que constituyan factores de riesgo.
+Impedimento para cobrar retribución
 
 ###### Artículo 77.
 
-Las autoridades Estatales y Municipales, considerarán que los siniestros de tránsito son prevenibles, por lo que en el ámbito de su competencia deberán observar los siguientes criterios:
+En ninguno de los regímenes patrimoniales del matrimonio, los cónyuges podrán cobrarse retribución u honorario alguno por los servicios personales que se presten; pero si uno de los cónyuges, por ausencia o impedimento del otro, se encarga temporalmente de la administración de los bienes del ausente o impedido, tiene derecho a que se le retribuya por este servicio en proporción a su importancia y al resultado que produjere.
 
-I. Diseñar sistemas de movilidad, transporte e infraestructura vial seguros bajo criterios técnicos que permitan prever el error humano para reducir los factores de riesgo que atenten contra la salud, integridad y dignidad de las personas atendiendo a la jerarquía de la movilidad;
-
-II. Que las velocidades vehiculares deban mantenerse de acuerdo con los límites establecidos en la presente Ley y su Reglamento para reducir muertes y la gravedad de las lesiones;
-
-III. Las autoridades en el diseño, construcción, gestión y operación de las redes viales y los servicios de transporte deberán observar la posible responsabilidad en el ámbito de su competencia, así como los ciudadanos en su debido y correcto uso de estos;
-
-IV. Las autoridades en el ámbito de su competencia, cuando se produzca un siniestro de tránsito, atendiendo a la solución alternativa de conflictos, deben buscar en primer término las causas del mismo en los sistemas de movilidad y seguridad vial y, en consecuencia, determinar la responsabilidad que corresponda;
-
-V. Los derechos de las víctimas se deberán reconocer y garantizar de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, en la Ley General de Víctimas y los Tratados Internacionales de los que el Estado mexicano sea parte;
-
-VI. Las decisiones deben ser tomadas conforme a las bases de datos e indicadores del Consejo Estatal, por lo que se establecerán sistemas de seguimiento, información, documentación y control relativos a la seguridad de los sistemas de movilidad y Seguridad Vial;
-
-VII. Fomentar las acciones de concertación entre los sectores público, privado y social con enfoque multisectorial, a través de mecanismos eficientes y transparentes de participación; y,
-
-VIII. Implementar el rediseño vial y servicio de transporte, modificándolo y adaptándolo, incorporando acciones afirmativas sin que se imponga una carga desproporcionada o indebida, a fin de que se garantice la seguridad integral y accesibilidad de los grupos en situación de vulnerabilidad, con base en las necesidades en el ámbito territorial del Estado.
+Cambio del régimen patrimonial
 
 ###### Artículo 78.
 
-Para cumplir con los fines de esta Ley, las autoridades competentes instalarán en las vías estatales y municipales de comunicación los dispositivos para el control del tránsito, la movilidad y la seguridad vial, tendientes a ordenar y orientar los movimientos de tránsito de personas y la circulación de vehículos a fin de prevenir siniestros de tránsito, proporcionando información a los usuarios de la vía para garantizar su seguridad, permitiendo una operación efectiva del flujo peatonal, ciclista y vehicular.
+Cualquier declaración que autoriza el cambio de régimen patrimonial se debe mandar anotar oficiosamente en el acta de matrimonio que corresponda, para que surta efectos contra terceros y, en caso, de transmisión de bienes inmuebles, se debe anotar también lo conducente en el Registro Público de la Propiedad y del Comercio.
 
-### CAPÍTULO III. DE LAS ATRIBUCIONES DE LOS MUNICIPIOS
+### CAPÍTULO III. De la Sociedad Conyugal
+
+La sociedad conyugal
 
 ###### Artículo 79.
 
-El tipo, características y criterios de colocación de los dispositivos para el control del tránsito, la movilidad y seguridad vial, se establecerán en el Reglamento de la presente Ley, atendiendo a las normas vigentes y estándares internacionales aplicables.
+Cuando el matrimonio se celebre bajo el régimen de sociedad conyugal y falten las capitulaciones matrimoniales o haya omisión o imprecisión en ellas, se aplicará, en lo conducente, lo dispuesto por este Capítulo.
+
+Creación de la sociedad conyugal
 
 ###### Artículo 80.
 
-En todo proceso de carácter administrativo, penal o civil que se lleve a cabo como consecuencia de un siniestro de tránsito, las autoridades competentes deberán garantizar a las víctimas los siguientes derechos:
+La sociedad conyugal se puede acordar al momento de contraer matrimonio, o posteriormente.
 
-I. Recibir la información, orientación y asesoría necesaria, de manera integral, para su eficaz atención y protección, a fin de que puedan tomar decisiones informadas y ejercer de manera efectiva todos sus derechos;
-
-II. El respeto irrestricto a su dignidad, evitando cualquier elemento o situación que impida o dificulte el salvaguardar en todo momento el ejercicio pleno de sus derechos humanos;
-
-III. Respetar su privacidad e intimidad, en términos de lo establecido en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás normatividad aplicable. Las autoridades competentes deberán evitar, en todo momento, la divulgación de la información contenida en los procesos administrativos, civiles y penales que puedan violentarla;
-
-IV. Recibir atención médica y psicológica de manera integral;
-
-V. Reparación integral del daño, en términos de la Ley General de Víctimas y demás disposiciones aplicables, para lo cual los procedimientos deben considerar las condiciones de vulnerabilidad que les afecten; y,
-
-VI. Todos los demás derechos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales en materia de derechos humanos en los que el Estado Mexicano es parte y demás instrumentos internacionales en la materia.
-
-Para el cumplimiento de lo anterior las autoridades deberán emitir los protocolos de actuación necesarios, que serán de observancia obligatoria para todas las personas servidoras públicas que se relacionen con la materia.
+Bienes de la sociedad conyugal
 
 ###### Artículo 81.
 
-Las autoridades en el ámbito de sus competencias y en el desempeño de sus funciones en materia de seguridad vial se regirán bajo las siguientes directrices:
+Los bienes que integran la sociedad conyugal constituyen un patrimonio común, diverso del patrimonio propio de cada cónyuge, por lo que al liquidarse procede la compensación.
 
-I. Infraestructura segura que son los espacios viales predecibles y que reducen o minimizan los errores de las personas usuarias y sus efectos, que se explican por sí mismos, en el sentido de que su diseño fomenta velocidades de viaje seguras y ayuda a evitar errores;
-
-II. Velocidades seguras de desplazamiento que se adaptan a la función, nivel de seguridad y condición de cada vía. Las personas conductoras comprenden y cumplen los límites de velocidad y conducen según las condiciones;
-
-III. Los vehículos seguros deberán considerarse a aquellos que, por sus características, cuenten con aditamentos o dispositivos, que tienen por objeto prevenir colisiones y proteger a las personas usuarias, incluidos pasajeros, peatones, ciclistas, y usuarios de vehículos no motorizados, en caso de ocurrir una colisión;
-
-IV. La atención médica prehospitalaria deberá considerarse como el sistema de atención médica y la aplicación de las normas vigentes en la materia, para la atención efectiva y oportuna de las personas lesionadas en sinestros viales, en términos de las leyes aplicables; y,
-
-V. Las autoridades competentes establecerán las estrategias necesarias para el fortalecimiento de la seguridad vial, dándoles seguimiento y evaluación. Asimismo, se coordinarán entre ellas para gestionar de manera eficaz las acciones de prevención, atención durante y posterior a los siniestros viales.
+Obligación común para las deudas
 
 ###### Artículo 82.
 
-Las autoridades estatales y municipales, en el ámbito de su competencia, diseñaran, implementarán, ejecutarán, evaluarán y darán seguimiento a los planes, programas, campañas y acciones para sensibilizar, educar y formar a la población en materia de movilidad y seguridad vial, con el objetivo de generar la adopción de hábitos de prevención de siniestros de tránsito, promocionar la movilidad activa y los desplazamientos eficientes así como, todas aquellas acciones que permitan ejercer el derecho a la movilidad.
+Constituida la sociedad conyugal, cualquiera de los cónyuges debe responder por las deudas contraídas para solventar necesidades básicas de carácter familiar.
 
-Las políticas, programas, campañas y acciones de educación en materia de movilidad y seguridad vial en el Estado deberán contener al menos los siguientes criterios:
+> <small>(ADICIONADO, D.O. 3 DE ENERO DE 2024)</small>
 
-I. Desarrollar contenidos sobre los factores de riesgo en la movilidad y seguridad vial y la adopción de hábitos de prevención de siniestros de tránsito;
+Esta obligación no aplicará cuando la deuda haya sido empleada para fines distintos, o en su caso, cuando se configure una de las causas de excepción establecidas en el artículo 107 de este Código.
 
-II. Promover y fomentar el conocimiento y comprensión del marco normativo en la materia de movilidad bajo los principios de esta Ley, y en especial concientizar a los conductores de vehículos motorizados, del respeto por las normas y dispositivos para el control del tránsito por parte de todas las personas usuarias de la vía;
-
-III. Promocionar la movilidad activa y priorizar el uso de la infraestructura para la movilidad conforme a la jerarquía de la movilidad establecida en esta Ley y su Reglamento;
-
-IV. Informar y fomentar el respeto irrestricto de la ciudadanía, personas operadoras de los Sistemas de Movilidad y Seguridad Vial, y autoridades hacia las niñas, adolescentes y mujeres en la vía pública, con el fin de prevenir y erradicar las violencias de género en sus desplazamientos;
-
-V. Informar y fomentar el respeto irrestricto de la ciudadanía, personas operadoras de los Sistemas de Movilidad y Seguridad Vial y autoridades a las personas con discapacidad y con movilidad limitada;
-
-VI. Adoptar desplazamientos sustentables, eficientes y seguros promoviendo la movilidad activa y no motorizada;
-
-VII. Fomentar el cumplimiento de los programas de protección al medio ambiente; y,
-
-VIII. Promover la participación ciudadana, de manera igualitaria e incluyente, involucrando activamente a la población en el mejoramiento de su entorno social.
+Determinación de una cantidad fija al cónyuge
 
 ###### Artículo 83.
 
-Las autoridades estatales y municipales en el ámbito de su competencia participarán en los programas de educación y cultura en materia de tránsito, movilidad y seguridad vial que se impartan en el Estado, con las demás dependencias y entidades de la administración pública del Estado, conforme a lo contenido en la presente Ley.
+Cuando se establezca que uno de los cónyuges sólo debe recibir una cantidad fija, el obligado o sus herederos deben pagar la suma convenida, haya o no utilidades en la sociedad conyugal, hasta el límite de los bienes existentes, siempre que el obligado se reserve bienes necesarios para satisfacer sus necesidades básicas.
+
+Sociedad conyugal con capitulaciones matrimoniales
 
 ###### Artículo 84.
 
-La cultura de la movilidad es el reconocimiento y respeto a la jerarquía de la movilidad entre las personas usuarias, fomentada y orientada por las autoridades correspondientes y la sociedad civil, y su interacción en el espacio público, el acceso a infraestructura segura e incluyente, así como al equipamiento urbano, y al sistema del transporte y otros elementos de uso público.
+Los contrayentes pueden pactar sus capitulaciones matrimoniales al constituir el régimen patrimonial de sociedad conyugal, así como para modificar el régimen patrimonial constituido, sin perjuicio de las donaciones efectuadas entre los cónyuges.
+
+Formalidades de las capitulaciones matrimoniales
 
 ###### Artículo 85.
 
-Las autoridades estatales y municipales en el ámbito de su competencia promoverán ante la Secretaría de Educación del Estado, la incorporación a los planes de estudio de cursos, talleres o materias que contengan temas de seguridad vial, educación vial y movilidad urbana, en los niveles básico, medio y medio superior.
+Las capitulaciones matrimoniales pueden comprender, no solamente los bienes de que sean dueños los cónyuges en el momento de hacer el pacto, sino que también los que adquieran con posterioridad.
+
+Las capitulaciones matrimoniales siempre deben constar en escritura pública, cuando los cónyuges pacten hacerse copartícipes o transferirse la propiedad de bienes inmuebles o derechos reales propios y además deben inscribirse en el Registro Público de la Propiedad y del Comercio, a fin de que produzcan efectos contra terceros.
+
+La transferencia de la propiedad de bienes inmuebles o derechos reales, no afectará a acreedores cuyos derechos sobre dichos bienes sean previos a las capitulaciones matrimoniales.
+
+Modificaciones a las capitulaciones matrimoniales
 
 ###### Artículo 86.
 
-Las autoridades correspondientes, en el ámbito de su competencia, fomentarán e impulsarán una nueva cultura de movilidad activa y seguridad vial a fin de lograr la sana convivencia en las calles, prevenir siniestros de tránsito y fomentar el uso racional del automóvil particular.
+Cualquier modificación posterior de las capitulaciones matrimoniales puede hacerse ante Notario Público, siempre que no exista controversia entre los cónyuges, en caso contrario, la modificación debe ser autorizada por el juez.
+
+En ambos casos se debe asentar la anotación en el protocolo en que se otorgaron las primeras y en el acta de matrimonio, así como en el Registro Público de la Propiedad y del Comercio, cuando por virtud de la modificación, se transmitan bienes inmuebles o derechos reales entre los cónyuges, cualquiera que sea el valor de los mismos, a fin de que la trasmisión produzca efectos contra terceros.
+
+Capitulaciones matrimoniales nulas
 
 ###### Artículo 87.
 
-Las autoridades estatales y municipales en el ámbito de su competencia, promoverán a través de programas de movilidad sustentable entre el personal de la administración pública y dentro (sic) sector empresarial, el uso de modos de transporte más eficientes.
+Son nulas las capitulaciones matrimoniales que establecen que sólo uno de los cónyuges debe percibir todas las utilidades, o que sería responsable de las pérdidas y deudas comunes en una parte que exceda a la que proporcionalmente corresponda a su capital o bien, a las utilidades que deba percibir.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 88.
 
-Con la finalidad de impulsar y promover la sensibilización en materia de movilidad y seguridad vial, las autoridades estatales y municipales en el ámbito de su competencia de forma coordinada con las autoridades competentes, llevará a cabo campañas de comunicación masiva, así como programas que contribuyan con la movilidad escolar sustentable en todos los niveles educativos en instituciones públicas y privadas con el objeto de promover la modificación en sus patrones de movilidad hacia la sustentabilidad urbana.
+(DEROGADO, D.O. 12 DE JUNIO DE 2015)
 
-La información será transmitida en formatos accesibles y pertinencia intercultural y lingüística, a efecto de concientizar sobre el uso y aprovechamiento de la vía, así como las acciones de prevención de siniestros de tránsito y demás problemas que se generan en ésta.
+Matrimonios celebrados fuera del territorio del Estado
 
 ###### Artículo 89.
 
-Las políticas, programas, campañas y acciones de sensibilización sobre movilidad y seguridad vial deberán observar los siguientes criterios:
+Los matrimonios celebrados fuera del Estado se rigen por las capitulaciones matrimoniales respectivas o por las disposiciones del Código vigente en el lugar y momento de su celebración.
 
-I. Mensajes sustentados en evidencia científica y territorial;
+De conformidad con lo señalado en el párrafo anterior, la propiedad, administración y liquidación de los bienes adquiridos por los cónyuges, incluso los ubicados en el Estado de Yucatán, se rigen por convenio o por la ley del lugar donde se celebre el matrimonio.
 
-II. Explicación de las causas y consecuencias en materia de movilidad y seguridad vial;
+Sin embargo, se deben aplicar las disposiciones de este Código a las modificaciones o al cambio de régimen patrimonial del matrimonio, cuando los cónyuges hayan fijado su domicilio conyugal en el Estado.
 
-III. Adopción de prácticas que propicien un ambiente seguro para la movilidad activa y no motorizada, así como promover el respeto por los señalamientos existentes en las vías estatales y municipales de comunicación;
-
-IV. Respeto y promoción de la jerarquía de la movilidad establecida en esta ley;
-
-V. Importancia de la incorporación de la perspectiva de género, así como del trato digno y no discriminación hacia grupos en situación de vulnerabilidad;
-
-VI. La construcción de ciudades sostenibles, humanas, saludables e incluyentes;
-
-VII. La importancia de utilizar modos de transporte sustentables y sus beneficios;
-
-VIII. Las externalidades negativas del uso desmedido del vehículo particular y sus consecuencias en la salud y el medioambiente;
-
-IX. El conocer y respetar la normativa aplicable en materia de movilidad, seguridad vial y transporte y demás ordenamientos;
-
-La percepción de los riesgos y consecuencias que conlleva la conducción de vehículos motorizados a velocidades adecuadas y la incidencia en los siniestros de tránsito;
-
-X. Los procedimientos para reaccionar ante condiciones de emergencia con motivo del tránsito y en su caso, prestar ayuda y protección a las víctimas de siniestros de tránsito, informando a los cuerpos de seguridad y unidades de protección civil;
-
-El respeto a los espacios de circulación peatonal, ciclista y de transporte público, así como a los espacios reservados a las personas con discapacidad y movilidad limitada;
-
-XI. Dar a conocer las medidas y cumplimiento de programas establecidos para protección del medio ambiente y las sanciones en las que se incurren;
-
-XII. La prevención de hechos de tránsito, particularmente sobre los ocasionados por conductores que circulan excediendo los límites de velocidad permitidos, en estado de ebriedad o bajo el influjo de sustancias que alteren la capacidad para conducir; y,
-
-XIII. Los procedimientos para reaccionar ante condiciones de emergencia con motivo del tránsito, para autoprotegerse y en su caso, prestar ayuda y protección a las víctimas de hechos de tránsito, informando a los cuerpos de seguridad y unidades de protección civil.
-
-Las campañas de comunicación en materia de movilidad y educación vial, de manera enunciativa más no limitativa, deberán difundirse en los sistemas de comunicación públicos, así como en las páginas digitales oficiales de las dependencias y entidades que tengan funciones relacionadas con la movilidad en el Estado.
+Contenido de las capitulaciones matrimoniales de la sociedad conyugal
 
 ###### Artículo 90.
 
-Las autoridades estatales y municipales, instituciones gubernamentales, dependencias y asociaciones civiles, podrán implementar prácticas de promoción y socialización para la movilidad activa, así como vías recreativas, bici escuelas, activaciones deportivas, culturales y/o con fines recreativos, de acuerdo a las atribuciones correspondientes.
+Las capitulaciones matrimoniales en que se establezca la sociedad conyugal, deben contener:
+
+I. La lista detallada de los bienes inmuebles que cada cónyuge lleve a la sociedad, con expresión de su valor catastral y de los gravámenes que reporten;
+
+II. La lista pormenorizada de los bienes muebles, depósitos, derechos y créditos que cada cónyuge introduzca a la sociedad;
+
+III. Nota pormenorizada de las deudas que tiene cada cónyuge al celebrar el matrimonio, expresando si la sociedad ha de responder de ellas, o únicamente de las que se contraigan durante el matrimonio, ya sea por ambos cónyuges o por cualquiera de ellos, incluyendo las obligaciones alimentarias previas;
+
+IV. La declaración de si la sociedad ha de comprender todos los bienes de los cónyuges, o solamente sus productos; entendidos éstos como el capital que se obtenga de la venta o de los réditos de dichos bienes. En uno y en otro caso se debe determinar con toda claridad la parte de los bienes o de sus productos que corresponda a cada cónyuge;
+
+V. La declaración de si el producto del trabajo de cada cónyuge corresponde exclusivamente al que lo ejecute, o si debe dar participación de éste al otro cónyuge y en qué proporción;
+
+VI. La declaración categórica acerca de quién debe ser el administrador de la sociedad, expresándose con claridad las facultades que se le conceden;
+
+VII. La declaración acerca de si los bienes futuros que adquieran los cónyuges durante el matrimonio, pertenecen exclusivamente al adquirente, o si deben repartirse entre ellos y en qué proporción, y
+
+VIII. Las bases para liquidar la sociedad.
+
+Inexistencia, imprecisión u omisión en las capitulaciones matrimoniales
 
 ###### Artículo 91.
 
-En materia de tránsito y seguridad vial, la capacitación es el ejercicio formal que busca el respeto y conocimiento de la normatividad por los usuarios de las vías públicas estatales y municipales de comunicación, integrando conceptos sobre reglas de convivencia en el espacio público e identificación de los factores de riesgo comunes en la siniestralidad. Para el desarrollo de la capacitación se atenderá a lo siguiente:
+Siempre que para celebrar el régimen patrimonial de sociedad conyugal, los cónyuges no pacten capitulaciones matrimoniales o éstas son imprecisas u omisas, se entiende que son propios de cada cónyuge:
 
-I. El respeto y protección de acuerdo a la jerarquía de la movilidad;
+I. Los bienes de que es dueño al tiempo de celebrarse el matrimonio, y los que poseía antes de éste, si los adquiere por prescripción durante la vigencia de la sociedad;
 
-II. El uso adecuado y fomento del transporte público en sus diferentes modalidades; y,
+II. Los que adquiera cada cónyuge por donación de cualquier especie, herencia o legado constituido en favor de uno sólo de ellos, así como los bienes de fortuna o el tesoro encontrado casualmente; cuando las donaciones fueren onerosas, se debe deducir del capital del cónyuge que las reciba, el importe de las cargas que hayan sido soportadas por la sociedad, al liquidarse ésta;
 
-III. El manejo de vehículos motorizados, protegiendo a todos los usuarios, respetando el marco normativo y evitando los factores de riesgo.
+III. Los créditos o derechos que hayan adquirido por título propio anterior al matrimonio, aunque el importe se haya cubierto después de su celebración;
+
+IV. Los bienes adquiridos por permuta de bienes propios o con el precio obtenido de su venta;
+
+V. Los que se adquieran por consolidación de la propiedad plena;
+
+VI. Los derechos de autor o de propiedad industrial que pertenezcan a uno de los cónyuges, así como las regalías, adquiridos con anterioridad a la celebración del matrimonio, y
+
+VII. Los bienes que por su naturaleza, se reputen de uso personal.
+
+Fondo social de la sociedad conyugal
 
 ###### Artículo 92.
 
-De conformidad con las atribuciones que les confiere esta Ley y su Reglamento, las autoridades estatales y municipales implementarán los modelos de capacitación para los operadores de los servicios del transporte.
+Salvo pacto y prueba en contrario, se considera parte del fondo social y, por ende, pertenecientes a la sociedad conyugal:
+
+I. El salario, emolumentos o ganancias adquiridos por cualquiera de los cónyuges en el ejercicio de su profesión, empleo o actividad laboral;
+
+II. Los frutos, accesiones, rentas o intereses percibidos o devengados durante la vigencia de la sociedad, procedente de los bienes comunes o propios de cada cónyuge;
+
+III. El capital proveniente del propio fondo, utilizado para que un cónyuge adquiera o pague bienes cuyo título sea anterior al matrimonio;
+
+IV. El costo de cualquier mejora o reparación hecha en bienes inmuebles propios, ya sea rústicos o urbanos, o el importe de los impuestos prediales pagados en relación a éstos, con capital del propio fondo, a menos que sus rentas o frutos ingresen a la sociedad como gananciales;
+
+V. El exceso o diferencia de precios dados por uno de los cónyuges en venta o permuta de bienes propios para adquirir otros en lugar de los vendidos o permutados;
+
+VI. Los edificios construidos durante la sociedad con capital del fondo, sobre suelo propio de alguno de los cónyuges, a quien se debe abonar el valor del terreno al liquidarse la sociedad, así como los bienes y frutos que se obtengan de dicho terreno después de disuelta la sociedad, pero que debieron obtenerse durante la vigencia de ésta;
+
+VII. Los bienes adquiridos durante la sociedad con numerario extraído de este fondo social, aunque aparezca como adquirente uno sólo de los cónyuges;
+
+VIII. Las regalías o ganancias derivadas de derechos de autor o por virtud de los derechos a que da lugar la propiedad industrial, hasta en tanto dure la sociedad, aunque el cónyuge hubiera adquirido esos derechos con anterioridad a la constitución de la sociedad, y
+
+IX. Lo adquirido por razón de usufructo.
+
+Pacto del porcentaje de cada cónyuge del fondo social
 
 ###### Artículo 93.
 
-Las autoridades estatales y municipales en el ámbito de su competencia tendrán la obligación de ofertar al público en general modelos de capacitación de acuerdo a las necesidades de los grupos de interés.
+Los cónyuges pueden pactar el porcentaje del fondo social de la sociedad conyugal que debe corresponder a cada uno de ellos, sin embargo en ningún caso a un cónyuge podrá corresponderle menos del treinta por ciento del mismo.
+
+Falta de pacto en el porcentaje del fondo social
 
 ###### Artículo 94.
 
-Los modelos de capacitación se impartirán por la SSP en las siguientes modalidades para (sic) Servicio de Transporte Privado:
+Cuando no se señale el porcentaje del fondo social de la sociedad conyugal que corresponde a cada cónyuge, se entiende pactado el cincuenta por ciento de éste, después de liquidar las deudas de la sociedad y de abonar el valor de bienes que le corresponda, en su caso, a uno de los cónyuges.
 
-I. Motocicletas; y,
-
-II. Automóviles y vehículos con capacidad máxima de quince plazas.
-
-Los menores de edad sólo podrán acceder a los modelos de capacitación para conducir motocicletas y automóviles cuya capacidad se determine en el Reglamento.
-
-Los modelos de capacitación están dirigidos a conductores con o sin experiencia, y conductores infractores.
+Acreedores de buena fe
 
 ###### Artículo 95.
 
-Los vehículos, conforme a sus características propias, se clasifican:
+Los acreedores que no hubieren tenido conocimiento de los términos en que estuviere constituida la sociedad conyugal, por no haberse registrado lo conducente en el Registro Público de la Propiedad y del Comercio, pueden ejercitar las acciones que correspondan.
 
-I. Por su sistema de fuerza motriz, en:
+En caso de que uno de los cónyuges, por virtud de las capitulaciones matrimoniales no deba responder de aquella deuda, conserva a salvo sus derechos para cobrar la parte que le corresponde de las ganancias del otro cónyuge que resulten de la liquidación de la sociedad, y si éstos no alcanzaren, de los bienes propios de éste.
 
-a) Automotores o automóviles de combustión;
+Cuando un cónyuge de mala fe enajene algún bien sin el consentimiento del otro, el cónyuge que actúe de mala fe debe resarcir al otro de la pérdida.
 
-b) Automotores o automóviles de electricidad;
-
-c) Vehículos de propulsión humana;
-
-d) Vehículos de tracción animal; y,
-
-e) Otras formas de propulsión.
-
-II. Por su rodamiento, en:
-
-a) Neumático;
-
-b) Metálico;
-
-c) Cable; y,
-
-d) Otros
-
-La diversidad de vehículos que se deriven de la clasificación anterior se regirá por esta Ley y su Reglamento.
+Obligación de los cónyuges de informar sobre la sociedad legal
 
 ###### Artículo 96.
 
-Los vehículos, atendiendo a las actividades en que se utilicen y para los efectos de esta Ley, se clasifican en:
+Los cónyuges tendrán la obligación de manifestar a las dependencias del Estado que tengan entre sus funciones el registro de bienes, sobre toda adquisición de aquéllos que formen parte de la sociedad conyugal, bajo pena de nulidad del acto en que sea objeto el correspondiente bien.
 
-I. De uso privado: los utilizados en el transporte de personas, objetos o mercancías, para satisfacer las necesidades particulares de sus propietarios, conductores o poseedores legales, ya sean éstos personas físicas o morales;
-
-II. Del servicio de transporte público: aquellos destinados a la transportación de pasajeros, de carga en general o mixtos en sus diferentes modalidades, que operan en virtud de una concesión, permiso, para satisfacer las necesidades del público en general, otorgados en los términos de esta Ley y su Reglamento;
-
-III. Del Transporte Especializado: Son aquellos destinados al transporte de pasajeros, objetos o sustancias dirigidos a un sector específico de la población y que requiere para su operación una constancia, permiso o autorización, otorgados en los términos de esta Ley y su Reglamento;
-
-IV. Del servicio social: Aquellos que cumplen funciones de asistencia médica, protección civil prestación de servicios públicos y oficiales por lo que deberán estar plenamente identificados conforme a esta Ley, su Reglamento y demás disposiciones aplicables;
-
-V. De tránsito eventual en vías estatales: Los que utilizan las vías estatales de comunicación de manera temporal, procedentes de otras entidades federativas o con placas de usos (sic) federal, y los que, en virtud de convenio de enlace, fusión de equipos, intercambio de servicio celebrado entre concesionarios y permisionarios locales del servicio público federal o de entidades federativas, hacen uso de las vías estatales de comunicación; y,
-
-VI. De tracción humana o animal: Son vehículos de propulsión humana o animal, aquellos impulsados por un ser humano o animal.
+Cesación de los efectos de la sociedad conyugal
 
 ###### Artículo 97.
 
-El Registro Estatal Vehicular, tiene por objeto la identificación y control vehicular; en la que consten las inscripciones, altas, bajas, emplacamientos, infracciones, pérdidas, robos, recuperaciones y destrucción de los vehículos que se fabrican, ensamblan, importan o circulan en el territorio nacional, así como brindar servicios de información al público.
+El abandono injustificado del domicilio conyugal por uno de los cónyuges, hace cesar para él, desde el día del abandono, los efectos de la sociedad conyugal, en cuanto éstos le favorezcan; los cuales no pueden comenzar a surtir efectos nuevamente sino por convenio expreso.
 
-### CAPÍTULO IV. DE LA CONCURRENCIA Y COORDINACIÓN DE LAS AUTORIDADES EN MATERIA DE MOVILIDAD Y SEGURIDAD VIAL
+### CAPÍTULO IV. De la Administración de la Sociedad Conyugal
+
+Cónyuge administrador
 
 ###### Artículo 98.
 
-Todo vehículo para transitar dentro del territorio estatal deberá cumplir con los requisitos para circular en el Estado y con las condiciones establecidas en esta Ley y su Reglamento, deberán estar inscritos en el registro estatal vehicular y portar los elementos de identificación conforme a su tipo y características, los vehículos de otras entidades federativas o con placas extranjeras deberán estar registrados temporalmente en el sistema que se determine en el Reglamento de la presente Ley.
+La administración de los bienes de la sociedad conyugal corresponde, en su caso, al cónyuge designado como administrador en las capitulaciones matrimoniales, quien debe ser substituido automáticamente por el otro cónyuge una vez declarada judicialmente la interdicción o ausencia de aquél.
+
+Cuando no existan las capitulaciones matrimoniales en la sociedad conyugal, sean confusas u omisas, se entiende que ambos cónyuges tienen la administración de los bienes indistintamente, sin perjuicio de la responsabilidad en que incurran y la obligación de rendir cuentas al liquidar la sociedad conyugal. En este caso, la designación de administrador puede hacerse durante el matrimonio, por escrito firmado y ratificado por ambos cónyuges ante el oficial del Registro Civil.
+
+La designación de administrador también puede hacerse durante el matrimonio por escrito notarial suscrito por ambos cónyuges y la debida anotación en el acta de matrimonio.
+
+Cónyuge sobreviviente de la sociedad conyugal
 
 ###### Artículo 99.
 
-La SSP de manera coordinada con las dependencias y entidades estatales y municipales en el ámbito de sus competencias, deberán integrar, operar y actualizar el Registro Estatal Vehicular a que se refiere esta Ley.
+Al fallecimiento de uno de los cónyuges, continúa el que sobreviva en la posesión y administración de los bienes comunes, con intervención del albacea, mientras no se verifique la partición.
+
+Dominio y posesión común de bienes
 
 ###### Artículo 100.
 
-La SSP, la SEDUM, la SFA, la SSA y el Instituto, en el ámbito de sus competencias, deberán integrar y actualizar el Registro Estatal Vehicular, que contendrá por lo menos:
+El dominio y posesión de los bienes comunes reside en ambos cónyuges mientras subsista la sociedad conyugal, pero los bienes inmuebles y los vehículos provistos de motor para su propulsión no pueden ser gravados ni enajenados por el administrador sin el consentimiento del otro.
 
-I. La información contenida en el Registro Estatal Vehicular en términos de la Ley del Registro Público Vehicular y en estricto apego a la Ley General de Transparencia y Acceso a la Información Pública y General de Protección de Datos Personales en Posesión de Sujetos Obligados; y, demás normativa aplicable;
+En caso de oposición, el juez puede suplir el consentimiento, oyendo previamente a los interesados y siempre que cause beneficios a ambos cónyuges, no se cause perjuicio a un cónyuge o sea para el beneficio de la familia.
 
-II. Licencias de conducir, incluyendo el tipo de licencia, cuantía de los puntos asignados, así como el registro de los puntos penalizados;
-
-III. Seguros registrados por vehículo;
-
-IV. Persona operadora y/o Conductores de vehículos del servicio de transporte;
-
-V. Información sobre todo tipo de infracciones cometidas y cumplimiento de las sanciones respectivas, tanto de vehículos particulares como del servicio de transporte;
-
-VI. Información sobre siniestros de tránsito, con datos que permitan, al menos, geolocalizar el lugar del siniestro a nivel de sitio, conocer los tipos de vehículos involucrados, la existencia de personas lesionadas y de víctimas fatales, por tipo de persona usuaria y sus características sociodemográficas;
-
-VII. Información sobre los resultados de las auditorías e inspecciones de seguridad vial; y,
-
-VIII. La demás información que se determine necesaria para la debida integración de las Bases de Datos.
-
-Para el caso de vehículos no motorizados, específicamente bicicletas, monopatines, y otros vehículos sin motor de combustión interna, cuya velocidad máxima no supere veinticinco kilómetros por hora y peso menor a treinta y cinco kilogramos, no aplica el registro de vehículos, salvo que la persona usuaria del vehículo necesite registrarlo por motivo de robo o extravío.
+Enajenación o gravamen ilegal
 
 ###### Artículo 101.
 
-Los conductores de vehículos que transiten en el territorio del Estado, acreditarán estar inscritos en el Registro Estatal Vehicular mediante los documentos y/o constancias siguientes:
+Ninguna enajenación o gravamen de bienes comunes, hecha por un cónyuge en contra de la Ley o en fraude del otro, perjudica a éste o a sus herederos, pero se deben respetar los derechos del adquirente de buena fe, sin perjuicio de que el cónyuge afectado pueda solicitar que se le compense al liquidarse la sociedad.
 
-I. La tarjeta de circulación vigente;
+### CAPÍTULO V. De la Terminación y Liquidación de la Sociedad Conyugal
 
-II. Las placas y la calcomanía u holograma y el número de identificación vehicular correspondiente;
-
-III. En el caso de vehículos de otras entidades federativas o procedencia extranjera, la constancia de aviso de tránsito temporal impresa y/o digital;
-
-IV. Constancia de inscripción al Registro Estatal Vehicular;
-
-V. En el caso de vehículos de otras entidades federativas que hayan causado baja el permiso provisional para circular; y,
-
-VI. En el caso de vehículos nuevos el permiso de circulación provisional vigente.
-
-### CAPÍTULO V. DE LA CONCURRENCIA Y COORDINACIÓN DE LAS AUTORIDADES ESTATALES Y MUNICIPALES EN LAS ZONAS CONURBADAS
+Terminación de la sociedad conyugal
 
 ###### Artículo 102.
 
-El propietario o poseedor de un vehículo, para efectuar su registro de alta vehicular en el Estado, deberá de cumplir con los requisitos siguientes:
+El régimen patrimonial de sociedad conyugal termina por:
 
-I. Requisitar la forma de aviso de registro del alta vehicular;
+I. Disolución del Matrimonio;
 
-II. Exhibir el documento que acredite la propiedad o posesión legítima del vehículo, en la forma que establezca la Ley en la materia;
+II. Solicitud de ambos cónyuges durante el matrimonio, y
 
-III. Acreditar el pago de los impuestos y derechos que establezcan las disposiciones fiscales aplicables;
+III. Sentencia que declare la presunción de muerte del cónyuge ausente.
 
-IV. Si existe un registro anterior, acreditar su baja vehicular; y,
+En todo caso se requerirá que el juez del conocimiento intervenga en la liquidación de los bienes comunes o, en su caso, autorice el cambio de régimen patrimonial.
 
-V. Si el vehículo es de procedencia extranjera, acreditar su legal importación o incorporación a los programas de regularización vehicular, en los términos que señale la legislación aplicable.
+Bienes en la liquidación de la sociedad conyugal
 
 ###### Artículo 103.
 
-Cuando con posterioridad al registro ocurra alguna modificación de los datos o características de los vehículos, el propietario deberá darla a conocer a la SFA, para que se lleve a cabo la actualización de datos, dentro del plazo de diez días hábiles.
+Los bienes en poder de cualquiera de los cónyuges o inscritos a nombre de sólo uno de ellos, al hacer la liquidación de la sociedad conyugal se presumen como parte de los gananciales, siempre que hayan sido adquiridos durante la vigencia del matrimonio, salvo prueba en contrario.
+
+Prohibición de renuncia anticipada de gananciales
 
 ###### Artículo 104.
 
-La información que contenga el registro de los vehículos a que alude este capítulo, será tratada en términos de la Ley General de Transparencia y Acceso a la Información Pública y General de Protección de Datos Personales en Posesión de Sujetos Obligados y, demás legislación Estatal aplicable.
+No puede renunciarse anticipadamente a los gananciales que resulten de la liquidación de la sociedad conyugal; pero disuelto el matrimonio o bien, liquidada la sociedad, podrán renunciarse los adquiridos.
+
+La renuncia deberá ser ratificada ante el juez.
+
+Consentimiento para capitales prestados
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 105.
 
-Los propietarios, legítimos poseedores o conductores de vehículos que circulen en territorio estatal deberán cumplir con las disposiciones de la presente Ley y su Reglamento, estar inscritos en el Registro Estatal Vehicular, así como portar Licencia de conducir vigente, ambas placas y tarjeta de circulación, calcomanía u holograma y cumplir con las condiciones de seguridad vial que establece la Ley de la materia;
+Ninguno de los cónyuges podrá tomar capitales prestados, sin el consentimiento del otro, cuando su importe exceda al equivalente de cien unidades de medida y actualización.
+
+En contrario, el consentimiento deberá hacerse constar en el documento de préstamo.
+
+Es nula toda obligación contraída con infracción de las disposiciones de este artículo.
+
+Deudas contraídas durante el matrimonio
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 3 DE ENERO DE 2024)</small>
 
 ###### Artículo 106.
 
-El establecimiento de límites de velocidad, a fin de mantenerlas por debajo de un umbral de seguridad indispensable para salvaguardar la vida y la integridad de todas las personas usuarias; por lo que las velocidades máximas serán las siguientes:
+Las deudas contraídas durante el matrimonio por ambos cónyuges o por cualquiera de ellos en términos de lo señalado en el artículo anterior, son carga de la sociedad conyugal, con excepción de lo dispuesto en este Código.
 
-a) 20 km/h en zonas de hospitales, asilos, albergues, casas hogar, mercados, calles compartidas, y entornos escolares, además de las delimitadas como zonas de 20km/h;
+En caso contrario, los terceros pueden hacerlas efectivas sobre los bienes propios del cónyuge al que corresponda o sobre sus gananciales.
 
-b) 30 km/h en zonas y entornos escolares en viìas (sic) primarias y carreteras;
-
-c) 30 km/h en calles secundarias y calles terciarias;
-
-d) 50 km/h en avenidas primarias sin acceso controlado;
-
-e) 80 km/h en carriles centrales de avenidas de acceso controlado;
-
-f) 80 km/h en carreteras estatales fuera de zonas urbanas; 50 km/h dentro de zonas urbanas; y,
-
-g) Ninguna intersección, independientemente de la naturaleza de la vía, podraì (sic) tener una velocidad de operación mayor a 50 km/h en cualquiera de sus accesos.
-
-En caso de que las condiciones climatológicas afecten la visibilidad o condiciones de respuesta de los vehículos se deberá reducir las velocidades.
+Cargas de cada cónyuge
 
 ###### Artículo 107.
 
-Además de lo dispuesto en el artículo anterior se deberá cumplir con las siguientes disposiciones:
+No son carga de la sociedad conyugal, sino de cada cónyuge y sólo afectan los bienes propios de éste, en los casos siguientes:
 
-I. Cumplir con la (sic) Normas Oficiales Mexicanas en materia de dimensiones, peso y seguridad;
+I. Las deudas de cada cónyuge, anteriores al matrimonio, a menos que el otro estuviese personalmente obligado o se pruebe que las contrajo en provecho común. Si no consta en forma auténtica la fecha en que fue contraída la obligación, se presumirá que es posterior a la celebración del matrimonio, salvo prueba en contrario;
 
-II. Queda prohibido transportar en un vehículo a un número mayor de personas que el especificado en la tarjeta de circulación, o carga que exceda a la capacidad autorizada;
+II. La reparación del daño proveniente de un delito y las multas generadas con motivo de un proceso penal, así como por infracciones administrativas;
 
-III. Las motocicletas, motonetas y vehículos similares deberán transportar (sic) las personas conforme a su diseño o estructura de fabricación;
+> <small>(REFORMADA, D.O. 3 DE ENERO DE 2024)</small>
 
-IV. Todo vehículo que circule en las vías estatales de comunicación, tiene que estar en buen estado mecánico y contar con los equipos, sistemas, señales y dispositivos de seguridad que especifique esta Ley y su Reglamento;
+III. Las deudas que graven los bienes propios de los cónyuges, a menos que se hayan contraído en beneficio común, o que se trate de gastos de conservación o impuestos prediales, y las rentas o frutos hayan entrado al patrimonio de la sociedad;
 
-V. Los vehículos contarán con dispositivos para prevenir y controlar la emisión de ruidos y contaminantes, conforme a las Normas Oficiales Mexicanas y a las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O. 3 DE ENERO DE 2024)</small>
 
-VI. Los vehículos que cuenten con alguna modificación a la estructura o diseño, para circular en territorio del Estado, esta deberá ser realizada por personal calificado y con estricto apego a las Normas Oficiales Mexicanas;
+IV. Las deudas contraídas por uno de los cónyuges durante la vigencia de la sociedad, por la adquisición u obtención de bienes o servicios suntuarios que beneficien únicamente a quien las contrajo, y
 
-VII. Los vehículos registrados en el Estado, se someterán a las verificaciones vehiculares en los términos del programa que emita el Ejecutivo del Estado, conforme a las disposiciones aplicables en la materia;
+> <small>(ADICIONADA, D.O. 3 DE ENERO DE 2024)</small>
 
-VIII. Los conductores otorgarán la prioridad de paso a los vehículos de emergencia y de servicio social que lleven encendidos códigos y sirenas, debiendo permitirles el paso si cruzan en una intersección y, cuando circulen sobre la misma vía en el mismo sentido, colocándose en el extremo derecho de la vialidad y debiendo hacer alto. No deberán por ningún motivo aprovechar esta circunstancia para circular inmediatamente detrás de estos vehículos; y,
+V. Las deudas que fueron contraídas durante la sociedad conyugal por medio de cualquier tipo de violencia ejercida contra la mujer, en términos de lo establecido en la Ley de Acceso de la Mujeres a una Vida Libre de Violencia del Estado de Yucatán.
 
-IX. En caso de que alguno de los ocupantes de un vehículo sea un menor de seis años de edad o que por su constitución física lo requiera, deberá contar con asientos de seguridad acorde a su talla y peso, sujetados debidamente en el asiento trasero. En el caso de los menores de doce años de edad deberán viajar siempre en el asiento trasero del vehículo.
+> <small>(ADICIONADO, D.O. 3 DE ENERO DE 2024)</small>
 
-Las personas conductoras y/o operadoras, deberán atender a su vez, las disposiciones que señale el Reglamento de la presente Ley, así como las disposiciones municipales correspondientes.
-
-El Reglamento de la presente Ley establecerá los procedimientos que permitan asegurar el cumplimiento de las disposiciones de este artículo.
+Casos de violencia en razón de género
 
 ###### Artículo 107 Bis.
 
@@ -1983,595 +1027,517 @@ Subsistencia de la sociedad conyugal cuando exista buena fe
 
 ###### Artículo 108.
 
-Los vehículos de procedencia extranjera podrán circular libremente en el territorio del (sic) Estatal, y previo aviso correspondiente de manera transitoria y contando con el permiso de importación temporal otorgado por las autoridades hacendarias, así como con las placas y tarjeta de circulación o su equivalente en su país de origen, ningún otro documento, holograma, placa o elemento no expedido por la autoridad competente podrá amparar la autorización para circular en territorio estatal.
+En los casos de nulidad de matrimonio, la sociedad conyugal se considera subsistente hasta que se pronuncie sentencia ejecutoria, si los dos cónyuges procedieron de buena fe.
+
+Situación de la sociedad cuando solo (sic) cónyuge actúe de buena fe
 
 ###### Artículo 109.
 
-Cualquier vehículo registrado en el Estado o en otra entidad federativa, podrá circular libremente en el territorio de la entidad, sin más requisitos que los establecidos por esta Ley y su Reglamento salvo por mandato judicial, requerimiento administrativo, cuando en el vehículo no se porte en ese momento con algún documento oficial, como placa, tarjeta o permiso o aviso de circulación que corresponda al vehículo, en los casos de flagrancia delictiva, que se ponga en riesgo a la sociedad por conducir bajo el influjo indebido de drogas o bebidas alcohólicas o por la aplicación de los programas de prevención de siniestros de tránsito relacionados con la ingesta de alcohol, estupefacientes y de las expresamente previstas en la presente Ley.
+Cuando uno sólo de los cónyuges haya obrado de buena fe, la sociedad conyugal subsiste hasta que cause ejecutoria la sentencia, si la continuación es favorable al cónyuge que actuó de buena fe. En caso contrario, se considera nula desde un principio.
 
-En caso de que el vehículo no porte con algún documento oficial, como placa, tarjeta o permiso de circulación que corresponda al vehículo, el conductor debe acreditar mediante acuse de recibido la presentación de la denuncia correspondiente ante la Fiscalía General del Estado, ya sea por robo o extravío.
+Para efectos del párrafo anterior, se debe proceder a formar inventario de los bienes y las deudas o cargas que forman parte de la sociedad, así como de los bienes que, por disposición legal, deban agregarse, por considerarse parte de la sociedad, salvo pacto en contrario. Ejecutoriada la sentencia que declare nulo el matrimonio, se debe proceder a la liquidación.
 
-En caso de que alguno de los documentos anteriores fuera retenido por algún hecho de tránsito el conductor deberá portar la boleta de infracción o el documento oficial que lo justifique.
+Presunción de muerte
 
 ###### Artículo 110.
 
-La autoridad competente, podrá autorizar provisionalmente la circulación de un vehículo, sin la documentación completa, mediante permiso temporal de máximo 30 días naturales que se otorgará en los siguientes casos:
+La sentencia que declare la presunción de muerte de uno de los cónyuges, termina con los efectos del régimen patrimonial de sociedad conyugal.
 
-I. Para llevar a cabo su exhibición al público o su demostración. El permiso se otorgará en los términos que señale el Reglamento de la presente Ley;
+La terminación tiene como efecto que todos los bienes que, en su caso, adquieran por separado cada cónyuge, se consideren propios de quien los adquiera.
 
-II. Cuando se trate de maquinaria, siempre que su desplazamiento no destruya o deteriore el pavimento de las vías estatales de comunicación o de las vías públicas. La autorización se limitará al traslado del vehículo al lugar donde será utilizado; y,
-
-III. En casos distintos a los anteriores, conforme a las disposiciones del Reglamento de esta Ley.
+Inventario para la liquidación de la sociedad conyugal
 
 ###### Artículo 111.
 
-Queda prohibido conducir vehículos por las vías estatales y municipales de comunicación, con una alcoholemia superior a 0.25 mg/L en aire espirado o 0.05 g/dL en sangre, o bajo el influjo de sustancias tóxicas, psicotrópicas o estupefacientes sin prescripción médica.
+Una vez solicitada la terminación de la sociedad conyugal, se debe proceder a formar un inventario en el que se incluyan los bienes y las deudas o cargas que forman parte de la sociedad, así como de los bienes que, por disposición legal, deban agregarse, por considerarse parte de la sociedad, salvo pacto en contrario.
 
-Para las personas que conduzcan motocicletas queda prohibido hacerlo con una alcoholemia superior a 0.1 mg/L en aire espirado o 0.02 g/dL en sangre.
-
-Los conductores de vehículos destinados al servicio de transporte público y especializado no deben presentar ninguna cantidad de alcohol en la sangre o en aire espirado ni síntomas simples de aliento alcohólico o estar bajo los efectos de sustancias tóxicas, psicotrópicas o estupefacientes.
+Requisitos para la liquidación de la sociedad conyugal
 
 ###### Artículo 112.
 
-Los miembros del personal autorizado para realizar las pruebas necesarias referidas en el párrafo anterior serán considerados como Peritos oficiales y fungirán como auxiliares del Ministerio Público. Consecuentemente, dichas pruebas serán incluidas en la carpeta de investigación que en su caso se integre.
+Para hacer la liquidación deben identificarse y valorarse los bienes existentes, así como considerarse los créditos de la sociedad conyugal y por ende, ser tomados en cuenta en la liquidación, no sólo los derechos contra terceros, sino también:
+
+I. Las cantidades con las que se cubrieron obligaciones exclusivas de uno de los cónyuges, provenientes del capital que forma parte de la sociedad conyugal, y
+
+II. El importe obtenido de las enajenaciones o cualquier disposición de bienes realizada por el administrador, en fraude de la sociedad conyugal.
+
+Forma de liquidación de la sociedad conyugal
 
 ###### Artículo 113.
 
-Los Agentes pueden detener la marcha de un vehículo, cuando la autoridad competente establezca y lleve a cabo programas para conductores de vehículos de control de ingestión de alcohol o de narcóticos para la prevención de siniestros de tránsito, en los términos establecidos en esta Ley y su Reglamento.
+Concluido el inventario y en los casos en los que no se hubieren elaborado capitulaciones matrimoniales, se debe:
+
+I. Pagar créditos que hubieren contra la sociedad conyugal, y
+
+II. Devolver a cada cónyuge lo que llevó al matrimonio y el sobrante, si lo hubiere, se debe dividir entre los cónyuges en los términos establecidos en los artículos 93 y 94 de este Código, en el entendido de que los bienes de la sociedad conyugal que se adjudiquen a cada cónyuge como parte de sus gananciales, no constituye cesión o donación, aunque se trate de bienes inmuebles inscritos a nombre del otro, mismos que podrán inscribirse como propios en el Registro Público de la Propiedad y del Comercio, exhibiendo copia de la sentencia ejecutoriada. Lo anterior, sin perjuicio de que uno de los cónyuges done todo o en parte sus gananciales a favor del otro.
+
+Si al liquidarse la sociedad conyugal hubiere pérdidas, el importe de éstas se deducirá del haber de cada cónyuge, en proporción a las utilidades que debían corresponderles, y si uno sólo llevó capital, de éste se deducirá la pérdida total.
+
+En caso de haberse formulado capitulaciones matrimoniales, se procederá a la liquidación según lo establecido en éstas y si fueren omisas, se debe aplicar lo previsto en este artículo.
+
+Formación de inventarios, partición y adjudicación de bienes
 
 ###### Artículo 114.
 
-En cualquier caso y en todo el procedimiento, la autoridad deberá mostrar respeto irrestricto a los derechos humanos agotando los protocolos que se establecen en el Reglamento de esta Ley e informar a los conductores y ocupantes de los vehículos y motocicletas el procedimiento que se realizará, las razones por las que se realiza el operativo y acto de molestia enterándole el resultado y dándole a conocer los medios de impugnación a su alcance.
+Todo lo relativo a la formación de inventarios y solemnidades de la partición y adjudicación de los bienes, se rige por lo que disponga el Código de Procedimientos Familiares del Estado de Yucatán, en lo relativo a las sucesiones.
 
-### CAPÍTULO VI. SOBRE EL CONSEJO ESTATAL DE MOVILIDAD Y SEGURIDAD VIAL
+### CAPÍTULO VI. De la Separación de Bienes
+
+Separación de bienes
 
 ###### Artículo 115.
 
-Los conductores que intervengan en un siniestro de tránsito están obligados a permanecer en el lugar de los hechos y se abstendrán de mover o retirar los vehículos de su posición final, hasta que tome conocimiento la autoridad de tránsito y seguridad vial competente, salvo que por cuestiones de emergencia u obstrucción grave de la circulación deban moverse los vehículos previo acuerdo de los involucrados y constancia fotográfica o videograbación del resultado del siniestro.
+Puede constituirse el régimen patrimonial de separación de bienes, por acuerdo verbal de los contrayentes al celebrar el matrimonio o bien, mediante capitulaciones matrimoniales, si durante la unión se quiere modificar el régimen patrimonial; en este último caso, puede realizarse ante Notario Público siempre que no exista conflicto entre los cónyuges o mediante autorización judicial, en ambos casos se requiere que la sociedad conyugal haya sido liquidada.
+
+En todo caso se deben realizar las anotaciones correspondientes en el Registro Público de la Propiedad y del Comercio.
+
+Alcance de la separación de bienes
 
 ###### Artículo 116.
 
-En los siniestros de tránsito los Agentes y Peritos deberán generar la información sobre el hecho, con datos que permitan, al menos, geolocalizar el lugar de los hechos a nivel de sitio, conocer los tipos de vehículos involucrados, la existencia de personas lesionadas y de víctimas fatales, por tipo de persona usuaria y sus características sociodemográficas
+La separación de bienes comprende los bienes de que sean dueños al celebrar el matrimonio y los que adquieran después, pero ambos cónyuges quedan obligados en forma solidaria y mancomunada, a responder de las deudas derivadas del cumplimiento de las obligaciones familiares, sin perjuicio de que uno de los cónyuges pueda reclamar al otro la parte proporcional, cuando cubra íntegramente dichas obligaciones o cuando pague deudas exclusivas del otro.
+
+Propiedad y administración de los bienes
 
 ###### Artículo 117.
 
-En los siniestros de tránsito, los Agentes y Peritos procurarán que los interesados lleguen a un acuerdo, quienes lo validarán y presentarán ante la autoridad competente para su ratificación, orientando a los involucrados sobre la responsabilidad en que hubieren incurrido y el valor aproximado de los daños o características de las lesiones, siempre y cuando estas no pongan en peligro la vida o tarden en sanar más de 15 días.
+En el régimen patrimonial de separación de bienes, los cónyuges conservan la propiedad y administración de los bienes que respectivamente les pertenecen.
 
-Cualquiera de los involucrados podrá solicitar a los agentes o peritos, se les conceda el plazo de treinta minutos para conciliar sobre el siniestro de tránsito, así como recibir la asesoría jurídica y administrativa correspondiente.
+Los frutos y accesiones son del dominio exclusivo de su propietario, así como las deudas y obligaciones derivadas de los mismos.
+
+Administración de bienes comunes
 
 ###### Artículo 118.
 
-En los hechos de tránsito, aunado a las actuaciones estandarizadas y protocolarias que deban seguir, los primeros respondientes deberán realizar las actuaciones que permitan, al menos, geolocalizar el lugar de los hechos a nivel de sitio, conocer los tipos de vehículos involucrados, la existencia de personas lesionadas y, en su caso, de víctimas fatales, así como los respectivos destinos de atención hospitalaria en caso de ser requerida, por tipo de persona usuaria y sus características sociodemográficas
+Los bienes que los cónyuges adquieran en común por donación, herencia, legado u otro título, deben ser administrados por ambos o por uno de ellos con acuerdo del otro, pero en este caso, el administrador requiere de poder especial para enajenarlos o gravarlos.
+
+Derecho del cónyuge que trabaja en el hogar
 
 ###### Artículo 119.
 
-Es competencia de las autoridades estatales, previo el pago de los derechos correspondientes, el otorgamiento de las licencias y permisos, para conducir vehículos motorizados en las diferentes modalidades, expidiendo los documentos oficiales, conforme a las disposiciones de esta Ley y su Reglamento.
+No obstante el régimen de separación de bienes pactado por los cónyuges, cuando uno de ellos no adquiera bienes por dedicarse exclusivamente al cuidado del hogar o de sus hijos o hijas, tendrá derecho a exigir que el otro que (sic) divida por la mitad los beneficios netos obtenidos durante el período en que se produjo la imposibilidad para trabajar, siempre que el reclamante no posea bienes suficientes para cubrir sus necesidades.
+
+Obligación recíproca
 
 ###### Artículo 120.
 
-Es obligación de toda persona que opere y/o conduzca en territorio estatal algún vehículo motorizado en cualquiera de sus modalidades, contar y portar consigo la licencia o permiso de conducir vigente ya sea de forma física o digital, misma que deberá corresponder al tipo de vehículo y ser expedida por las autoridades de tránsito y seguridad vial del Estado o su equivalente en las demás Entidades Federativas o en el extranjero cumpliendo con los requisitos y documentación establecida en esta Ley y su Reglamento, así como otras disposiciones aplicables de acuerdo con las categorías y modalidades.
+Los cónyuges responden recíprocamente de los daños y perjuicios que por dolo o culpa, causen a los bienes del otro.
 
-## TÍTULO QUINTO. DE LA CULTURA DE LA MOVILIDAD Y SEGURIDAD VIAL
+## TÍTULO QUINTO. PATRIMONIO DE FAMILIA
 
-### CAPÍTULO VII. DE LA ESTRATEGIA ESTATAL DE MOVILIDAD Y SEGURIDAD VIAL
+### CAPÍTULO I. De la Constitución y Administración del Patrimonio de Familia
+
+Bienes que constituyen el patrimonio de familia
 
 ###### Artículo 121.
 
-Queda prohibido el otorgamiento de cualquier tipo de licencia de conducir a personas que no hayan cumplido la mayoría de edad.
+Constituyen el patrimonio de familia:
+
+I. La casa habitación, cualquiera que sea su valor, siempre que se trate de un inmueble destinado a la residencia de la familia;
+
+II. En defecto o además de la casa habitación, una parcela que sea explotada directamente por los beneficiarios del patrimonio de familia, siempre que no exceda de cinco hectáreas;
+
+III. Los libros y el equipo para ejercer profesión u oficio;
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+IV. Los muebles y enseres de uso familiar que no sean suntuosos y cuyo valor no exceda de dos mil unidades de medida y actualización.
+
+V. La maquinaria e instrumentos necesarios para el cultivo de la parcela.
+
+Legitimados para constituir patrimonio de familia
 
 ###### Artículo 122.
 
-Las personas menores de dieciocho años, pero mayores de dieciséis años, podrán obtener permiso de conducir, de automovilista o motociclista por el tiempo y en los términos establecidos por esta Ley y su Reglamento, previo el pago de los derechos correspondientes y autorización de quien ejerza la patria potestad de la persona o su tutela legal.
+Puede constituir patrimonio de familia cualquier ciudadano mexicano residente en el Estado, que tiene la obligación de otorgar alimentos a su cónyuge, concubina, concubinario o a sus hijos o hijas, ascendientes o hermanos.
 
-Carecerán de validez en territorio del Estado los permisos que autoricen la conducción a personas menores de 16 años.
-
-Además de lo señalado en el párrafo primero de este artículo, se deberá cumplir con los siguientes requisitos:
-
-I. Quienes ejerzan la patria potestad o tutoría, deberán suscribir carta responsiva, en la que asuman expresamente la responsabilidad solidaria y mancomunada de los daños e infracciones en que se incurra.
+Intransmisibilidad del patrimonio de familia
 
 ###### Artículo 123.
 
-Los permisos de conducir otorgados a menores de edad para conducir y operar vehículos serán temporales, con vigencia máxima de un año, prorrogables por una sola vez, previa solicitud de la persona interesada.
+La constitución del patrimonio de familia no transfiere la propiedad de los bienes que lo constituyen, del constituyente a los miembros de la familia beneficiaria. Éstos sólo tienen derecho a disfrutar de esos bienes, según lo que dispone el artículo siguiente.
+
+En el caso de muerte del constituyente, si hubiere cónyuge supérstite, concubina, concubinario, descendientes o ascendientes, el patrimonio de familia continua operando sin dividirse, transmitiéndose la posesión de los bienes a los herederos que, en su caso, son beneficiarios de dicho patrimonio.
+
+Indisponibilidad de los bienes del patrimonio de familia
 
 ###### Artículo 124.
 
-Las licencias de conducir de servicio particular tendrán vigencia de 2, 4, 5 años y permanentes, estas últimas sólo en los tipos de automovilista y motociclista.
+No puede disponerse por testamento de los bienes que constituyen el patrimonio de la familia.
+
+Derecho de habitar la casa familiar y usufructuar bienes
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 3 DE ENERO DE 2024)</small>
 
 ###### Artículo 125.
 
-Las licencias de conducir por la temporalidad que señala el artículo anterior serán renovables a su vencimiento a solicitud de las personas titulares, sin más limitación que la derivada de la suspensión temporal o cancelación definitiva de éstas, ordenada por autoridad competente o cuando la persona titular haya dejado de reunir las aptitudes y capacidades que establece (sic) Reglamento de esta Ley.
+El derecho de habitar la casa familiar y de usufructuar los productos y beneficios que integran el patrimonio de familia, corresponde a quien lo constituye, a los cónyuges, concubina o concubinario y a las personas a quien tiene la obligación de dar alimentos, observando en todo momento lo dispuesto en el artículo 134 de este Código.
+
+> <small>(ADICIONADO, D.O. 3 DE ENERO DE 2024)</small>
+
+Este derecho es intransmisible; sin embargo, podrá perderlo quien teniendo el derecho de habitar la casa familiar y usufructuar bienes, haya obtenido resolución en contra por haber ejercido cualquier tipo de violencia contemplada en la Ley de Acceso de la Mujeres a una Vida Libre de Violencia del Estado de Yucatán, a alguna de las personas que habiten en la misma.
+
+Representación del patrimonio de familia ante terceros
 
 ###### Artículo 126.
 
-Los titulares de licencias de conducir permanentes en los tipos de automovilista y motociclista deberán ser reevaluados en sus aptitudes y capacidades que establece (sic) Reglamento de esta Ley, cada 5 años y sin más limitación que la derivada de la suspensión temporal o cancelación definitiva de éstas, ordenada por autoridad competente o cuando la persona titular haya dejado de reunir las aptitudes y capacidades que establece (sic) Reglamento de esta Ley.
+Los beneficiarios de los bienes que conforman el patrimonio de familia deben ser representados en sus relaciones con terceros, en todo lo que al patrimonio se refiere, por quien lo constituyó o, en su defecto, por quien nombre la mayoría. El representante tiene la administración de dichos bienes.
+
+Inalienabilidad e inembargabilidad del patrimonio de familia.
 
 ###### Artículo 127.
 
-Las licencias de conducir de servicio de transporte público y especializado tendrán vigencia de 3 y 5 años, sin más limitación que la derivada de la suspensión temporal o cancelación definitiva de éstas, ordenada por autoridad competente o cuando la persona titular haya dejado de reunir las aptitudes y capacidades que establece el Reglamento de esta Ley.
+Los bienes que conforman el patrimonio de familia son inalienables y no pueden estar sujetos a embargo ni gravamen alguno.
+
+Ubicación de los bienes del patrimonio de familia
 
 ###### Artículo 128.
 
-Las licencias y permisos para conducir vehículos expedidos en el extranjero, su reconocimiento y validez quedarán sujetos a las disposiciones federales sobre la materia y a los convenios internacionales vigentes de los que México forme parte.
+Sólo puede constituirse el patrimonio de familia, con bienes ubicados en el Estado en que esté domiciliado quien lo constituya.
+
+Unidad del patrimonio de familia
 
 ###### Artículo 129.
 
-A ninguna persona que porte una licencia o permiso para conducir expedido en el extranjero, se le permitirá conducir vehículos de transporte público de pasajeros o especializado.
+Cada familia sólo puede constituir un patrimonio. Los que se constituyan después del primero, no producen efecto legal alguno.
 
-Para conducir vehículos destinados al servicio del Sistema Estatal de Transporte, se necesitará contar con una licencia de acuerdo con la modalidad respectiva que sea expedida por el Ejecutivo del Estado.
+Solicitud para la constitución del patrimonio de familia
 
 ###### Artículo 130.
 
-Para obtener la licencia de conducir vehículos del Servicio de Transporte Público y Transporte especializado, deberán contar con la certificación y/o aprobación de exámenes teóricos y prácticos, haber adquirido previamente una licencia de automovilista o chofer con una experiencia mínima de tres años y contar con una edad mínima de veintiún años de edad cumplidos.
+Quien pretenda constituir el patrimonio de familia, lo debe manifestar por escrito al juez de su domicilio y señalar con toda precisión los bienes que van a quedar afectados al patrimonio, para que puedan ser inscritos en el Registro Público de la Propiedad y del Comercio, y demostrar, además que:
+
+I. Es mayor de edad;
+
+II. Está domiciliado en el Estado;
+
+III. Existe la familia a cuyo favor se va a constituir el patrimonio. La prueba de los vínculos familiares se debe acreditar con las copias certificadas de las actas del Registro Civil, y
+
+IV. Los bienes destinados al patrimonio son propiedad del constituyente y no reportan ningún gravamen fuera de las servidumbres.
+
+Aprobación de la constitución del patrimonio de familia
 
 ###### Artículo 131.
 
-Las personas titulares de las licencias de servicio de Transporte Público y Especializado, deberán acudir cada año a cursos de capacitación y actualización en materia de movilidad y seguridad vial y la normativa correspondiente.
+Si se llenan las condiciones exigidas en el artículo anterior, el juez, previos los trámites que fije el Código de Procedimientos Familiares del Estado de Yucatán, debe aprobar la constitución del patrimonio de familia y mandar a que se realicen las inscripciones correspondientes en el Registro Público de la Propiedad y del Comercio.
+
+Constitución ante Notario Público
 
 ###### Artículo 132.
 
-Las licencias de conducir, se clasifican en:
+También se puede constituir el patrimonio de familia ante Notario Público mediante escritura pública, al momento en que se adquiere el inmueble o posteriormente, siempre que se cumplan con las mismas condiciones que se exigen para su constitución por la vía judicial.
 
-I. De Motociclista. Que autoriza a su titular conducir motocicletas, motonetas y vehículos similares;
-
-II. De Automovilista. Que autoriza a su titular a conducir los vehículos de uso privado, que no excedan de diez asientos o de carga cuyo peso no exceda de tres y media toneladas;
-
-III. De Chofer. Que autoriza a su titular a conducir, además de los vehículos de uso privado, todas aquellas unidades que tengan más de dos ejes, tractores de semirremolque, camiones con remolque, equipos especiales movibles, vehículos con grúa y en general los de tipo pesado;
-
-IV. De persona operadora de servicio de transporte público y especializado. Que autoriza a su titular a conducir vehículos los autorizados en las distintas modalidades del servicio de transporte público y especializado, además de los vehículos señalados en la fracción II de este artículo; y,
-
-V. De Operador de maquinaria. Que autoriza a su titular a conducir vehículos que señalan las fracciones II y III de este artículo.
+Impedimento para constituir el patrimonio de familia
 
 ###### Artículo 133.
 
-Las licencias para conducir vehículos en cualquiera de sus modalidades y permisos provisionales, deberán contener como mínimo los datos siguientes:
+La constitución del patrimonio de familia no puede hacerse en fraude de acreedores. Los bienes que lo integran pueden ser embargados por deudas contraídas antes de su constitución y registro.
 
-I. El tipo de licencia o permiso;
-
-II. Tipo de vehículo que autorice operar o conducir;
-
-III. Vigencia;
-
-IV. El número de registro;
-
-V. El nombre del titular;
-
-VI. Sexo;
-
-VII. Domicilio del titular opcional;
-
-VIII. Correo electrónico;
-
-IX. Las restricciones de la persona titular, si las hubiere;
-
-X. La persona a quien se deba dar aviso en caso de emergencia;
-
-XI. El tipo de sangre de la persona titular de la licencia;
-
-XII. La anuencia de la persona titular en caso de que así sea su voluntad, para que se le considere donador de órganos y/o tejidos en los casos previstos y autorizados por la legislación aplicable;
-
-XIII. La Clave Única de Registro de Población del titular; y,
-
-XIV. Condición médica del titular opcional.
-
-Para los efectos de la fracción XII del presente artículo, la dependencia emisora deberá recabar el consentimiento por escrito del solicitante, en los términos de la normatividad aplicable y comunicar inmediatamente esta información a la autoridad competente, entregándole la constancia expedida al particular que lo identifique como donador de órganos y/o tejidos.
-
-Con relación a las fracciones que establecen información personal opcional, los ciudadanos podrán optar entre solicitar que aparezca visible en el formato o de manera oculta, conforme a la Ley (sic) Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Michoacán de Ocampo.
+Obligaciones de los miembros de la familia
 
 ###### Artículo 134.
 
-Toda persona que haya obtenido licencia de conducir, deberá hacer buen uso de ella durante su vigencia, siempre que conserven las aptitudes necesarias para manejar vehículos de motor.
+Constituido el patrimonio de familia, sus miembros tienen obligación de habitar la casa, en su caso, de explotar la parcela y usufructuar los demás bienes sujetos al mismo.
 
-### CAPÍTULO VIII. SISTEMA ESTATAL DE INFORMACIÓN TERRITORIAL Y URBANO (SEITU)
+### CAPÍTULO II. De la Disminución o Extinción del Patrimonio de Familia
+
+Extinción del patrimonio de familia
 
 ###### Artículo 135.
 
-Cuando por prescripción médica se estime indispensable el uso de lentes o de aparatos protésicos para conducir vehículos, así se hará constar en la licencia respectiva y además se prohibirá al conductor manejar sin usarlos.
+El patrimonio de familia se extingue cuando:
+
+I. Todos los beneficiarios dejen de tener derecho a percibir alimentos;
+
+II. Sin causa justificada, la familia deje de habitar por un año la casa que debe servirle de residencia, o de cultivar por su cuenta y por dos años consecutivos, la parcela respectiva;
+
+III. Se demuestre que hay gran necesidad o notoria utilidad para la familia, de que el patrimonio quede extinguido, o
+
+IV. Por causa de utilidad pública, se expropien los bienes que lo constituyen.
+
+Disminución del patrimonio de familia
 
 ###### Artículo 136.
 
-La SSP verificará que las personas con discapacidad cuenten con las habilidades y aptitudes necesarias para conducir cualquiera de los vehículos comprendidos en la clasificación contenida en esta Ley y cumplir con los requisitos establecidos en su Reglamento, por lo que tendrán derecho a que se les expida la licencia para conducir correspondiente.
+Para disminuir un bien que forma parte del patrimonio de familia, mediante enajenación, quien representa al patrimonio de familia puede pedir al juez la autorización para disminuir, siempre que sea en beneficio del patrimonio.
 
-Cuando la licencia de conducir autorice a una persona con discapacidad, el manejo de vehículos con adaptaciones especiales, se indicarán en dicho documento.
+Intervención del Ministerio Público
 
 ###### Artículo 137.
 
-Para la renovación de licencias para conducir en sus distintas modalidades se deberá cumplir con lo dispuesto en la presente Ley y su Reglamento.
+Cuando el juez lo considere, el Ministerio Público debe ser oído en los casos de disminución o extinción del patrimonio de familia.
+
+Declaración de disminución o extinción del patrimonio de familia
 
 ###### Artículo 138.
 
-Las dependencias y entidades que participan en el proceso de expedición de licencia o permiso para conducir, y que, manejen datos personales, biométricos, archivos, registros catalogados y clasificados que conllevan a la aplicación de manuales de operación, formatos, procesos y procedimientos específicos, relativos a los tipos de licencias o permisos para conducir, contarán con un registro de estas, el cual se integrarán al Registro Estatal de Tránsito, Transporte y Seguridad Vial y al SEITU de conformidad a lo dispuesto por la Ley de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Michoacán de Ocampo.
+La declaración que disminuya o extinga el patrimonio de familia la debe hacer el juez competente y comunicarla al Registro Público de la Propiedad y del Comercio para que se realicen los trámites correspondientes.
+
+Extinción por expropiación
 
 ###### Artículo 139.
 
-Para la expedición de las licencias y permisos de conducir en todos sus tipos, el titular del Poder Ejecutivo a través de la dependencia competente, emitirá los lineamientos para generar los contenidos de los exámenes de valoración integral teórico y práctico, de conocimientos y habilidades necesarias, atendiendo a los diferentes tipos, los requisitos de emisión y renovación que deban establecerse en el Reglamento de la presente Ley y Protocolos para realizar los exámenes y su evaluación.
+Cuando el patrimonio se extinga por expropiación de sus bienes, éste queda extinguido sin necesidad de declaración judicial y se debe ordenar su cancelación en el Registro Público de la Propiedad y del Comercio.
+
+Efectos de la extinción del patrimonio de familia
 
 ###### Artículo 140.
 
-Cuando se pierda o sufra deterioro la licencia o cambie de domicilio la persona titular, deberá solicitar una reposición de la misma por el sólo período que faltare para su expiración, previo el pago de los derechos fiscales correspondientes. En el caso de licencias permanentes se pagará un costo de reposición el cual deberá estar considerado en la Ley de Ingresos del Estado.
+Extinguido el patrimonio de familia, los bienes que lo formaban vuelven al pleno dominio de quien lo constituyó o se transfieren a sus herederos, si aquél ha muerto.
 
-## TÍTULO SEXTO. DEL SERVICIO DE TRÁNSITO PARA LA SEGURIDAD VIAL
+## TÍTULO SEXTO. TERMINACIÓN DEL MATRIMONIO
 
-### CAPÍTULO IX. DE LA PARTICIPACIÓN CIUDADANA Y DE LOS OBSERVATORIOS CIUDADANOS
+### CAPÍTULO I. Nulidad del Matrimonio
+
+Causas de nulidad del matrimonio
 
 ###### Artículo 141.
 
-Para los efectos de control de la seguridad vial al expedirse una licencia para conducir vehículos o motocicletas se le asignará un puntaje en los siguientes términos:
+Son causas de nulidad del matrimonio, cuando:
 
-I. Un puntaje inicial de 12 unidades, al momento de su expedición, quedando comprendidas aquellas licencias que se hayan expedido con anterioridad a la entrada en vigor de la presente Ley;
+I. Se haya celebrado concurriendo algunos de los impedimentos previstos en el artículo 59 de este Código;
 
-II. Cuando el titular de una licencia de conducir que, tras perder su asignación total de puntos y se proceda a su cancelación temporal si llegara a obtener la expedición de una nueva, esta contará con un puntaje de 8 unidades iniciales.
+II. Se haya celebrado contraviniendo alguno de los requisitos señalados en las fracciones II, III o IV del artículo 54 de este Código, o
 
-En los casos de sentencia firme, que determine la responsabilidad en la comisión de un hecho que la ley señale como delito relacionado con el tránsito de vehículos y previo haber cumplido cabalmente sus términos y si esta permite volver a conducir, al obtener una nueva contará con el puntaje señalado en esta fracción.
+III. Exista error acerca de la persona con quien se contrae, es decir, un cónyuge intente celebrar matrimonio con persona determinada y lo contraiga con otra.
 
-III. El puntaje de unidades es intransferible y no acumulable entre dos o más tipos de licencia;
+Convalidación del matrimonio
 
 ###### Artículo 142.
 
-Es causa de pérdida de puntos en las licencias para conducir vehículos o motocicletas, la comisión de infracciones que determina la presente Ley, su Reglamento y el reglamento municipal correspondiente.
-
-Cuando la SSP notifique al titular de la licencia de conducir la resolución firme por la que se impuso una sanción que implique la pérdida de puntos en la licencia, se le indicará expresamente al titular.
+Tratándose de la fracción II del artículo anterior, el matrimonio puede convalidarse ante el Oficial del Registro Civil, para lo cual se debe acreditar el cumplimiento del o de los requisitos señalados en las fracciones II, III o IV del artículo 54 de este Código. De convalidarse el matrimonio, se debe levantar el acta de matrimonio correspondiente y proceder a realizar las anotaciones conducentes.
 
 ###### Artículo 143.
 
-Los titulares de las licencias para conducir vehículos y motocicletas, que hayan sido sancionados con la pérdida de puntos, podrán recuperarlos en los siguientes casos:
+(DEROGADO, D.O. 12 DE JUNIO DE 2015)
 
-I. Cuando hayan trascurrido dieciocho meses sin haber sido sancionado por la comisión de alguna infracción que implique la pérdida de puntos, el titular recuperará los doce puntos iniciales; y,
-
-II. Mediante la asistencia y aprobación de los cursos de sensibilización y educación vial, impartidos por la SSP, los cuales tendrán una duración de quince horas, lo que permitirá la recuperación de dos puntos por curso acreditado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 144.
 
-Las licencias y permisos para conducir pueden ser suspendidos o cancelados por las causas que se señalen en la presente Ley y su Reglamento y normativa aplicable.
+(DEROGADO, D.O. 12 DE JUNIO DE 2015)
 
 ###### Artículo 145.
 
-Son causas de suspensión de la licencia, los siguientes casos:
-
-I. Por resolución administrativa o judicial, durante el tiempo que la misma señale;
-
-II. Que el titular permita que su licencia o permiso sea utilizado por otra persona, hasta por un término de 6 meses;
-
-III. Por resolución administrativa emitida por la autoridad competente como resultado de la valoración y certificación de la persona con discapacidad temporal, que demuestre que el grado de capacidades ya sea física, mental, intelectual o sensorial, no le permite manejar por un tiempo determinado, incluso con el apoyo de adaptaciones especiales o ayudas técnicas, o en los casos previstos en esta Ley y su Reglamento y durante el tiempo que la resolución señale;
-
-IV. Si en el transcurso de un año acumula dos infracciones graves o bien no sean graves pero se sancionen con más de diez UMAS de las previstas en esta Ley y su Reglamento, se suspenderá por un año;
-
-V. Cuando la persona titular sea sancionada por segunda vez en un término de dos años por exceder los límites de velocidad establecidos la suspensión será por tres meses;
-
-VI. Cuando la persona titular de la licencia participe en un siniestro de tránsito bajo el influjo de bebidas alcohólicas, estupefacientes o psicotrópicos sin prescripción médica;
-
-VII. Al conductor u operador del servicio del transporte público y especializado que participe en un siniestro de tránsito y de cuyo resultado haya producido u ocasionado lesiones en personas, de las clasificadas como las que tardan más de quince días en sanar, y que se determine su responsabilidad a través del procedimiento administrativo o jurisdiccional indistintamente, se suspenderá por el término de un año a partir de la resolución;
-
-VIII. Las personas titulares de licencia de chofer de transporte, persona operadora de Servicio de Transporte Público y Especializado, y de persona operadora de maquinaria que sean sorprendidas manejando con cualquier cantidad de alcoholemia en aire espirado o en sangre, o cualquier droga, psicotrópico o estupefaciente sin prescripción médica, se les suspenderá la licencia para conducir por un periodo no menor a seis meses;
-
-IX. A la persona operadora de transporte público o especializado que cometa cinco infracciones sancionadas por esta Ley, y conforme a la clasificación establecida en su Reglamento, que oscilen de entre quince a veinticinco UMAS, en un lapso de seis meses, contados a partir de la fecha de la primera infracción, la suspensión será de seis meses; cumplida dicha suspensión y en caso de reincidencia de una nueva infracción del mismo tipo dentro de los siguientes seis meses, la suspensión será por un año;
-
-X. En el caso de las licencias de automovilista, si el titular es sancionado por segunda ocasión en un lapso de un año, contado a partir de la primera infracción, por conducir con una alcoholemia superior a 0.25 mg/L en aire espirado o 0.05 g/dL en sangre, la suspensión será por un término de seis meses, y si es sancionado por tercera ocasión se suspenderá por el término de un año a partir de la última infracción;
-
-XI. En el caso de las licencias de motociclista, si el titular es sancionado por segunda ocasión en un lapso de un año, contado a partir de la primera infracción, por conducir con una alcoholemia superior a 0.1 mg/L en aire espirado o 0.02 g/dL en sangre, la suspensión será por un término de seis meses; y si es sancionado por una tercera ocasión se suspenderá por un término de un año a partir de la última infracción; y,
-
-XII. Las demás que determine esta Ley, su Reglamento y demás normativa aplicable.
+(DEROGADO, D.O. 12 DE JUNIO DE 2015)
 
 ###### Artículo 146.
 
-Son causas de cancelación de la licencia o permiso:
+(DEROGADO, D.O. 12 DE JUNIO DE 2015)
 
-I. Que posterior al otorgamiento de la licencia de conducir al titular le devenga incapacidad total y permanente que lo inhabilite para conducir;
-
-II. Que se compruebe que la información es carente de veracidad o la documentación es falsificada;
-
-III. Que al titular se le sancione en más de dos ocasiones con la suspensión de la licencia o permiso, durante su vigencia;
-
-IV. Que lo ordene la autoridad administrativa o judicial;
-
-V. Cuando un conductor de vehículo particular, haya participado en dos o más siniestros de tránsito, quede comprobada su responsabilidad por la autoridad competente y se produzcan lesiones en las personas que tarden más de quince días en sanar;
-
-VI. Por la pérdida de la totalidad de los puntos asignados a la licencia, que será notificada a la persona titular por la SSP en un plazo de quince días contados a partir de la fecha en que se actualice la información en el sistema de movilidad y seguridad vial;
-
-VII. Cuando la persona titular de la licencia participe en un siniestro de tránsito por conducir un vehículo particular bajo el influjo de bebidas alcohólicas, estupefacientes o psicotrópicos sin prescripción médica y en el que se ocasionen lesiones que pongan en peligro la vida o causen la muerte y se compruebe su responsabilidad;
-
-VIII. Cuando la persona titular de la licencia de chofer de transporte, persona operadora de servicio de transporte público y especializado, y de persona operadora de maquinaria que sean sancionadas por segunda ocasión, en un término de un año a partir de la primera sanción, por manejar con cualquier grado de alcoholemia en aire espirado o en sangre, o bajo el influjo de drogas, estupefacientes o psicotrópicos sin prescripción médica; y,
-
-IX. Las demás que determine esta Ley y su Reglamento.
-
-En los casos previstos en las fracciones I, VI y VII no se podrá obtener nuevamente licencia para conducir de ningún tipo.
-
-En los casos previstos en las fracciones II, III, IV, V y VIII se podrá obtener una nueva licencia transcurrido un año contado a partir de la fecha de la cancelación o del cumplimiento de las condiciones que se previeron en la resolución correspondiente; previa asistencia a los cursos de sensibilización y educación vial, que tendrán una duración de treinta horas con excepción de la fracción IX en esta última condición.
+Acción de nulidad por parentesco consanguíneo, civil o por afinidad
 
 ###### Artículo 147.
 
-Toda persona que conduzca un vehículo de motor, con una licencia vencida, suspendida o cancelada, ésta será retenida por la autoridad, levantará la infracción correspondiente y aplicará la medida de seguridad en términos de lo dispuesto en esta Ley, e impondrá la sanción que establezca su Reglamento.
+La acción de la nulidad que dimana del parentesco consanguíneo, civil o por afinidad a los que se refieren las fracciones IV, V y VI del artículo 59 de este Código, puede ejercitarse en cualquier tiempo por cualquiera de los cónyuges, por sus ascendientes, hijos, hijas o el Ministerio Público, en su caso.
+
+Acción de nulidad por privación de la vida del otro cónyuge
 
 ###### Artículo 148.
 
-Cuando al obtener una licencia de conducir, su titular haya proporcionado información o documentación falsa para su obtención, se procederá a cancelar la licencia una vez detectada esta circunstancia, sin perjuicio de la responsabilidad penal que pudiera resultarle. Las licencias canceladas por esta causa no podrán volverse a otorgar dentro de los tres años siguientes.
+La acción de nulidad que dimana de la privación de la vida de la persona con la que se encontraba casado el cónyuge sobreviviente, a fin de éste pueda contraer matrimonio con la persona que privó de la vida al otro cónyuge, puede ser deducida en cualquier tiempo por el cónyuge sobreviviente, por los hijos o hijas de éste, por sus ascendientes o el Ministerio Público, en su caso.
+
+Nulidad fundada en la embriaguez, uso de drogas o la disfunción sexual
 
 ###### Artículo 149.
 
-Las licencias otorgadas a través de la autoridad competente contarán con la tecnología o sistemas que permitan brindar información de los datos e historial del comportamiento de las personas conductoras para que la autoridad competente emita en su caso las sanciones y/o cancelaciones correspondientes.
+La nulidad del matrimonio que se funde en la embriaguez habitual, el uso persistente de drogas prohibidas por la Ley o en la impotencia incurable para la cópula de algún cónyuge, podrá ser reclamada por el otro, dentro del término de sesenta días contados desde que tuvo conocimiento de la circunstancia.
+
+Nulidad de matrimonio en caso de trastorno mental
 
 ###### Artículo 150.
 
-Las placas de circulación que requieren los vehículos registrados en el Estado, identificarán a una sola unidad vehicular y estas serán intransferibles, serán expedidas por la SFA de conformidad con las disposiciones de esta Ley y su Reglamento, Normas Oficiales y especificaciones establecidas por la Autoridad Federal competente.
+Cuando uno de los cónyuges padezca algún trastorno mental permanente o bien, una enfermedad grave e incurable, que sea contagiosa y hereditaria, el otro cónyuge o el tutor de quien padezca la enfermedad, tienen derecho a pedir la nulidad del matrimonio.
+
+Existencia de matrimonio anterior
 
 ###### Artículo 151.
 
-Ningún vehículo podrá desplazarse por las vías estatales y municipales de comunicación, sin que porte adecuadamente ambas placas y que correspondan al tipo de uso o servicio de la unidad, o en su caso, el permiso provisional para circular.
+El vínculo de un matrimonio anterior, existente al tiempo de contraerse el segundo, anula éste aunque se celebre de buena fe; pero cuando se haya contraído después de decretada la presunción de muerte por sentencia ejecutoriada, debe ser el segundo matrimonio el que subsista.
+
+La nulidad que nace de esta causa puede deducirse por el cónyuge del primer matrimonio, por sus hijos, hijas o herederos, por los cónyuges que contrajeron el segundo y por sus hijos, hijas o herederos.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Si ninguna de las personas mencionadas deduce la acción de nulidad, la puede promover el Ministerio Público o en su caso la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Nulidad por falta de solemnidades
 
 ###### Artículo 152.
 
-La SFA expedirá los tipos de placas siguientes:
+La nulidad de matrimonio que se funde en la falta de los requisitos señalados en las fracciones II, III o IV del artículo 54 de este Código, puede alegarse por los cónyuges o el Ministerio Público, en su caso, dentro de los sesenta días de celebrado.
 
-I. Para vehículos de uso privado;
-
-II. Para vehículos de uso de personas con discapacidad;
-
-III. Para vehículos de servicio social;
-
-IV. Para vehículos de emergencia y seguridad pública;
-
-V. Para vehículos de Servicio de Transporte Público y Especializado, que así lo requieran;
-
-VI. Para demostración o traslado de vehículos;
-
-VII. Para vehículos de tipo remolque;
-
-VIII. Para motocicletas, motonetas y vehículos similares; y,
-
-IX. Las demás que resulten necesarias
+Nulidad de matrimonios entre tutores y pupilos
 
 ###### Artículo 153.
 
-Las placas para vehículos de servicio social, emergencia y seguridad pública, se proporcionarán a las unidades autorizadas de las corporaciones de seguridad pública, asistencia pública y protección civil.
+El Ministerio Público es quien deba alegar la acción de nulidad para el caso de los matrimonios entre tutores y pupilos, lo anterior sin perjuicio de que el juez se allegue de las pruebas que estime conducentes en relación con las cuentas de la tutela.
+
+Personas con derecho a demandar la nulidad del matrimonio
 
 ###### Artículo 154.
 
-El Estado y los municipios establecerán que las obras de infraestructura urbana sean diseñadas y ejecutadas bajo la jerarquía de la movilidad, los principios y criterios establecidos en la presente Ley, priorizando aquéllas que atiendan a personas peatonas, vehículos no motorizados y transporte público, de conformidad con las necesidades de cada territorio.
+El derecho para demandar la nulidad del matrimonio corresponde a quienes la ley lo concede expresamente y no es transmisible por herencia ni por contrato. Sin embargo, los herederos pueden continuar la demanda de nulidad ya entablada por el autor de la sucesión, dentro del plazo de seis meses contados a partir de su fallecimiento, previa declaración de su reconocimiento de herederos.
 
-Los estándares de diseño vial y dispositivos de control del tránsito deberán ser definidos en concordancia con las Normas Oficiales Mexicanas y manuales expedidos para tal efecto.
+Presunción de validez del matrimonio
 
 ###### Artículo 155.
 
-Las autoridades municipales y estatales, en el ámbito de sus facultades, deberán vigilar y supervisar que la infraestructura, sea pública o privada, garantice los principios que establece esta Ley y su Reglamento.
+El matrimonio tiene a su favor la presunción de ser válido, por lo tanto sólo se considera nulo cuando así lo declare una sentencia que cause ejecutoria.
+
+Ejecutoriada la sentencia que declare la nulidad de un matrimonio, el juez, de oficio, enviará copia certificada de ella al Oficial del Registro Civil, para que en forma inmediata ponga nota circunstanciada de la misma al margen del acta. El juez puede ordenar que el Registro Civil, gratuitamente, haga la anotación a que se refiere el párrafo anterior siempre que alguna de las partes lo solicite y acredite que carece de recursos económicos.
+
+Conocimiento del parentesco consanguíneo
 
 ###### Artículo 156.
 
-El sistema vial se compone de la infraestructura de las vías públicas y su operación. Comprende la construcción, mantenimiento y operación de las calles, así como sus elementos inherentes e incorporados:
+Cuando se pruebe que uno o ambos cónyuges tenían conocimiento del parentesco consanguíneo que dio origen a la nulidad del matrimonio, en la sentencia en la que se declare ésta, se debe ordenar dar vista de dicha determinación al Ministerio Público para lo que legalmente proceda.
 
-I. La función de movilidad comprende el tránsito de personas peatonas y vehículos; y,
-
-II. La función de habitabilidad comprende la recreación, el consumo, la socialización y el disfrute.
-
-La gestión pública sobre las calles deberá fortalecer ambas funciones, a través de criterios diferenciados en función de la jerarquía de la movilidad. Asimismo, la prioridad en el diseño y operación de las calles estará definida en función de la jerarquía de movilidad prevista en la presente Ley.
+Prohibición de transacción o compromiso en árbitros
 
 ###### Artículo 157.
 
-Los proyectos para la construcción de vialidades en el Estado deberán considerar espacios de calidad y con accesibilidad universal para la circulación, apegados a la jerarquía de movilidad y a los principios establecidos en la presente Ley y deberán estar sustentados con la función de habitabilidad, y su estudio de impacto ambiental y movilidad validados por las autoridades competentes.
+Los cónyuges no pueden celebrar transacción ni compromiso en árbitros, acerca de la nulidad del matrimonio.
 
-### CAPÍTULO ÚNICO. DE LOS CRITERIOS Y DIRECTRICES EN LOS SISTEMAS SEGUROS DE MOVILIDAD Y SEGURIDAD VIAL
+### CAPÍTULO II. De los Efectos Personales y Patrimoniales de la Nulidad del Matrimonio
+
+Matrimonio contraído de buena fe
 
 ###### Artículo 158.
 
-El Estado y los municipios, en el ámbito de su competencia considerarán, además de los principios establecidos en la presente Ley, los siguientes criterios en el diseño y operación de la infraestructura vial, urbana y carretera, para garantizar una movilidad segura, eficiente y de calidad:
+El matrimonio contraído de buena fe, aunque sea declarado nulo, produce todos sus efectos civiles en favor de los cónyuges mientras dure y, en todo tiempo en favor de los hijos o hijas nacidos antes del matrimonio, en su caso, durante él y trescientos días después de ejercida la acción de nulidad.
 
-I. Diseño universal. La construcción de infraestructura vial deberá considerar espacios de calidad, accesibles y seguros que permitan la inclusión de todas las personas sin discriminación alguna, con especial énfasis en la jerarquía de la movilidad estipulada en esta Ley y el uso equitativo del espacio público. En las vías urbanas se considerará el criterio de calle completa y las adicionales medidas que se estimen necesarias. Se procurará evitar la construcción de pasos elevados o subterráneos cuando haya la posibilidad de adecuar el diseño para hacer el cruce peatonal, así como el destinado a movilidad no motorizada y de tracción humana, y las demás necesarias para garantizar una movilidad incluyente.
-
-Las condiciones mínimas de infraestructura serán:
-
-a) Banquetas pavimentas reservadas para el tránsito de personas peatonas;
-
-b) Iluminación que permita el tránsito peatonal nocturno y seguro;
-
-c) Pasos peatonales que garanticen zonas de intersección seguras entre la circulación rodada y el tránsito peatonal;
-
-d) Señales de control de tránsito o peatonal, motorizado y no motorizado que regule el paso seguro de personas peatonas; y,
-
-e) Priorizar los grupos en situación de vulnerabilidad.
-
-II. El diseño de la red vial debe garantizar que los factores como la velocidad, la circulación cercana a vehículos motorizados y la ausencia de infraestructura de calidad, no pongan en riesgo a personas peatonas ni a las personas usuarias de la vía pública que empleen vehículos no motorizados y de tracción humana;
-
-III. Participación social. En el proceso de diseño y evaluación de la infraestructura vial, se procurarán esquemas de participación social de las personas usuarias de la vía;
-
-IV. Visión integral. Los proyectos de nuevas calles o de rediseño de las existentes en las vialidades urbanas, semiurbanas y rurales, deberán considerar el criterio de calle completa, asignando secciones adecuadas a personas peatonas, carriles exclusivos para vehículos no motorizados y carriles exclusivos al transporte público, cuando se trate de un corredor de alta demanda o el contexto así lo amerite;
-
-V. Intersecciones seguras. Las intersecciones deberán estar diseñadas para garantizar la seguridad de todas las personas usuarias de la vía, especialmente a las y los peatones y personas con movilidad limitada y grupos en situación de vulnerabilidad;
-
-VI. Pacificación del tránsito. Los diseños en infraestructura vial, sentidos y operación vial, deberán priorizar la reducción de flujos y velocidades vehiculares, para dar lugar al transporte público y a la movilidad activa y no motorizada y de tracción humana, a fin de lograr una sana convivencia en las vías. El diseño geométrico, de secciones de carriles, pavimentos y señales deberá considerar una velocidad de diseño de 30 km/h máxima para calles secundarias y terciarias, para lo cual se podrán ampliar las banquetas, reducir secciones de carriles, utilizar mobiliario, pavimentos especiales, desviar el eje de la trayectoria e instalar dispositivos de reducción de velocidad;
-
-VII. Velocidades seguras. Las vías deben contar, por diseño, con las características, señales y elementos necesarios para que sus velocidades de operación sean compatibles con el diseño y las personas usuarias de la vía que en ella convivan;
-
-VIII. Legibilidad y autoexplicabilidad. Es la cualidad de un entorno vial que provoca un comportamiento seguro de las personas usuarias simplemente por su diseño y su facilidad de entendimiento y uso. El diseño y la configuración de una calle o carretera autoexplicable cumple las expectativas de las personas usuarias, anticipa adecuadamente las situaciones y genera conductas seguras. Las vías autoexplicables integran sus elementos de manera coherente y entendible como señales, marcas, dispositivos, geometría, superficies, iluminación y gestión de la velocidad, para evitar siniestros de tránsito y generar accesibilidad para las personas con discapacidad;
-
-IX. Conectividad. Los espacios públicos deben formar parte de una red que permita a las personas usuarias conectar sus orígenes y destinos, entre modos de transporte, de manera eficiente y fácil. También deben permitir el desplazamiento libre de personas peatonas, personas usuarias de movilidad activa o no motorizada y otros prioritarios, incluidos vehículos de emergencia;
-
-X. Permeabilidad. La infraestructura debe contar con un diseño que permita la recolección e infiltración de agua pluvial y su reutilización en la medida que el suelo y el contexto hídrico del territorio lo requiera y con las autorizaciones ambientales y de descarga de la autoridad competente;
-
-XI. Tolerancia. Las vías y sus costados deben prever la posible ocurrencia de errores de las personas usuarias, y con su diseño y equipamiento técnico procurarán minimizar las consecuencias de siniestros de tránsito;
-
-XII. Movilidad sostenible. Transporte cuyos impactos sociales, ambientales y climáticos permitan asegurar las necesidades de transporte de las generaciones actuales sin comprometer la capacidad en los recursos para satisfacer las del futuro y mejorar la calidad ambiental;
-
-XIII. Calidad. Las vías deben contar con un diseño adecuado a las necesidades de las personas, materiales de larga duración, diseño universal y acabados, así como mantenimiento adecuado para ser funcional, atractiva estéticamente y permanecer en el tiempo; y,
-
-XIV. Tratamiento de condiciones climáticas. El proyecto debe incorporar un diseño con un enfoque integral que promueva y permita una menor dependencia de los combustibles fósiles, así como hacer frente a la agenda de adaptación y mitigación al cambio climático.
+Matrimonio habido de buena fe sólo por uno de los cónyuges
 
 ###### Artículo 159.
 
-Corresponderá a los municipios categorizar en sus programas de desarrollo urbano, estrategias de vialidades y programas de ordenamiento vial dentro de los parámetros a continuación descritos.
+Si hubiere habido buena fe de parte de uno sólo de los cónyuges, el matrimonio produce efectos civiles únicamente respecto de él y de los hijos o hijas nacidos antes del matrimonio, en su caso, durante él y trescientos días después de ejercida la acción de nulidad. Si hubiere habido mala fe de parte de ambos cónyuges, el matrimonio produce efectos civiles solamente respecto de los hijos o hijas.
 
-Calle tipo 1. Son aquellas calles que tienen como máximo una dimensión de 6.00 metros entre paramentos, mismas que deberán ser solucionadas con máximo un carril de 3.00 metros cuyo uso será exclusivo de servicio local. Cuyas dos banquetas tendrán un mínimo de 1.50 metros libres de rampas con pendiente mayor al 4% y obstáculos en sentido longitudinal.
-
-Calle tipo 2. Son aquellas calles que tienen como rango las dimensiones entre 6.00 a 9.00 metros de ancho entre paramentos, mismas que deberán tener un mínimo de ancho de banquetas a ambos lados de 1.75 metros libres de rampas con pendiente mayor al 4% y obstáculos en sentido longitudinal teniendo un arroyo vehicular de 2.50 a 3.50 metros y un solo sentido vehicular. Para el caso en que la vialidad tenga el ancho máximo para esta clasificación se podrá destinar un carril para estacionamiento correctamente señalado. La vocación de esta calle será de tránsito local o andadores de servicio con posibilidades de acceso vehicular limitado, con señalización que permita el uso ordenado de movilidad activa con carriles compartidos para el uso de la bicicleta u otros vehículos de tracción humana. Para el caso del transporte público ya existente que circule por vialidades de este tipo se tendrá que hacer una reestructuración que permita el tránsito únicamente de camionetas tipo Van.
-
-Calle Tipo 3. Calles que tengan un rango de 9.00 a 12.00 metros de ancho entre paramentos, mismas que tendrán que dimensionarse con banquetas con ancho mínimo de 2 metros libres de rampas con pendiente mayor al 4% y obstáculos en sentido longitudinal, teniendo posibilidad de tener un carril de circulación y uno de estacionamiento, hasta un máximo de dos carriles de 3.50 metros sin posibilidad de estacionamiento. Cuya función será de calle terciaria de uso local, con señalización que permita el uso ordenado de movilidad activa en carriles compartidos para el uso de la bicicleta u otros vehículos de tracción humana.
-
-Calle Tipo 4. Calles que tengan un rango de 12.00 a 15.00 metros de ancho entre paramentos, mismas que tendrán que dimensionarse con banquetas con ancho mínimo de 2.5 metros libres de rampas con pendiente mayor al 4% y obstáculos en sentido longitudinal, teniendo posibilidad de tener dos carriles de circulación, y uno de estacionamiento. Cuya función será de una vialidad secundaria de servicio local, con integración de servicio de transporte público concesionado, con señalización que permita el uso ordenado de movilidad activa en carriles compartidos para el uso de la bicicleta u otros vehículos de tracción humana.
-
-Calle Tipo 5. Calles que tengan un rango de 15.00 a 20.00 metros de ancho entre paramentos, mismas que tendrán que dimensionarse con banquetas con ancho mínimo de 3.00 metros libres de rampas con pendiente mayor al 4% y obstáculos en sentido longitudinal, teniendo como posibilidad el uso de dos carriles de circulación y uno de estacionamiento hasta un máximo de dos carriles por sentido sin posibilidad de estacionamiento, siendo este caso necesario la colocación de camellón central con un mínimo de 1.50 metros que fungirá como área de resguardo para las personas peatonas en cruces seguros que garanticen la accesibilidad y permeabilidad de tránsito de personas. La Función de estas vialidades será de carácter primaria con integración de sistema de transporte público urbano. Se tendrán que integrar ciclovía confinada en caso de que el ancho de los carriles vehiculares permita una velocidad mayor a 30 km/h propiciando la movilidad activa. En caso de que el ancho de carril vehicular permita la circulación de velocidad máxima de 30 km/h, los carriles podrán ser compartidos con la bicicleta u otros vehículos de tracción humana, siempre y cuando la señalética horizontal y vertical se encuentre plasmada de acuerdo con la normativa aplicable.
-
-Calle Tipo 6. Calles que tengan un rango de 20.00 metros o más de ancho entre paramentos, mismas que tendrán que dimensionarse con banquetas con ancho mínimo de 3.50 metros libres de rampas con pendiente mayor al 4% y obstáculos en sentido longitudinal, donde el peatón no deberá de tener un cruce mayor a 7 metros entre zonas de resguardo y si fuera necesario mayor distancia de cruce deberá contener dispositivos de control de tránsito como semáforos o camellones que brinden seguridad a los entes más vulnerables de la jerarquía de la movilidad.
-
-La Función de estas vialidades será de carácter primario con integración de un carril exclusivo de sistema de transporte público urbano. Se tendrán que integrar ciclovía confinada en caso de que el ancho de carriles vehiculares permita una velocidad mayor a 30 km/h promoviendo la movilidad activa; en caso de que el ancho de carril vehicular permita una circulación de velocidad máxima menor a 30 km/h, los carriles podrán ser compartidos con la bicicleta u otros vehículos de tracción humana, siempre y cuando la señalética horizontal y vertical se encuentre plasmada de acuerdo con la normativa aplicable.
+Presunción de la buena fe
 
 ###### Artículo 160.
 
-Las carreteras estatales que transiten dentro de la mancha urbana o asentamiento humano, tendrán que contemplar banquetas con ancho mínimo de 3.50 metros libres de obstáculos y rampas en sentido longitudinal, donde el peatón no deberá de tener un cruce mayor a 7 metros entre zonas de resguardo y si fuera necesario mayor distancia de cruce deberá contener dispositivos de control de tránsito como por ejemplo semáforos o camellones que brinden seguridad a los entes más vulnerables de la jerarquía de la movilidad.
+La buena fe se presume; para destruir esta presunción se requiere prueba plena.
 
-La función de estas carreteras será de conexiones interurbanas y vialidades primarias, que deberán contemplar carriles exclusivos de transporte público y bicicletas.
+Medidas provisionales en caso de nulidad de matrimonio
 
 ###### Artículo 161.
 
-Se entenderá como infraestructura vial, al conjunto de servicios, mobiliario urbano, y demás componentes físicos que interrelacionados de manera coherente y bajo el cumplimiento de normativas técnicas de diseño e implementación permitan el libre tránsito en vialidades urbanas, rurales, semi rurales y de transición dentro de los asentamientos humanos generando seguridad, accesibilidad, orden, confort, operación y contención en los espacios públicos. La infraestructura vial podrá ser categorizada de la siguiente forma:
+Si la demanda de nulidad del matrimonio fuere entablada por uno sólo de los cónyuges, o por el Ministerio Público o el tutor, se dictarán desde luego las medidas provisionales correspondientes para asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos o hijas, así como lo relativo al cuidado y custodia de los mismos, salvaguardando sus derechos de convivencia y comunicación con sus progenitores, lo que debe resolver el juez atendiendo al interés superior de las niñas, niños y adolescentes, en su caso.
 
-I. Infraestructura Peatonal: Es aquella destinada al tránsito de las personas peatonas, que garanticen sus desplazamientos con seguridad, confort y calidad, como lo son banquetas, camellones, andadores, cruces peatonales, entre otros, que a su vez permitan ordenar el espacio público de la calle en función de la jerarquía de movilidad.
+Cuando la nulidad se solicite por ambos cónyuges alegando buena fe, las cuestiones sobre cuidado y custodia de los hijos o hijas, alimentos y, en su caso, la liquidación de la sociedad conyugal, se deben decidir durante el juicio, por acuerdo de los cónyuges, lo que debe formar parte de la sentencia; a falta de acuerdo, el juez es quien decide sobre dichas cuestiones.
 
-Son espacios como banquetas, andadores o aquellos que garanticen la movilidad de los sectores más vulnerables dentro de la jerarquía de la movilidad, garantizando la accesibilidad e integración de elementos que den seguridad y equidad en el desplazamiento, cumpliendo con lo marcado en la normativa aplicable;
-
-II. Infraestructura Vehicular: Entendida como áreas de rodamiento para vehículos automotores o de tracción humana según sea el caso, que deberán cumplir con los criterios establecidos en la norma técnica de calles del Estado, que tienen como objeto proporcionar las condiciones de seguridad vial, orden y confort, según la zona de ubicación y condiciones de dimensionamiento;
-
-Para proveer espacios a la infraestructura para circulación de bicicletas y la instalación de bici estacionamientos. Las autoridades competentes, promoverán la planificación y construcción de una red de ciclovías o sendas especiales para la circulación de bicicletas y similares cuyos conductores estarán obligados a utilizar;
-
-III. Infraestructura de Elementos Incorporados: Todas las vialidades deberán tener en consideración la integración y control de la infraestructura de electrificación, alumbrado público, hidráulica, pluvial, sanitaria, de sistemas de comunicación y mobiliario urbano;
-
-IV. Infraestructura Verde: Es aquella compuesta por la masa vegetal insertada y/o conservada en el espacio urbano que tiene como finalidad una serie de servicios ambientales a nivel micro y macro, como proporcionar sombra, filtración de agua, protección de fauna local;
-
-V. Señalización vertical y horizontal: Son los elementos que informan a las personas usuarias del espacio público las condicionantes de la calle, como puede ser espacios permitidos para estacionamiento, cruces peatonales, paradas de transporte público, área de carga y descarga, así como información del contexto urbano y sitios de interés; y,
-
-VI. Dispositivos de control de tránsito: Conjunto de señales, marcas, dispositivos diversos y demás elementos que se colocan en las vías con el objeto de prevenir, regular y guiar la circulación de personas peatonas y vehículos que cumplan con el criterio de diseño universal, garantizando su adecuada visibilidad en todo momento.
+Modificación de medidas provisionales
 
 ###### Artículo 162.
 
-La planeación, diseño e implementación de la infraestructura vial por parte del Estado y los municipios deberán regirse priorizando la jerarquía de la movilidad, apoyándose en la normativa aplicable según sea la zona para intervenir o regular, entendiéndose las siguientes clasificaciones en el grado de urbanización y uso:
+El juez puede modificar en todo tiempo la determinación sobre la guarda, cuidado, custodia y convivencia de los hijos o hijas y lo relativo a los alimentos, atendiendo al interés superior de las niñas, niños y adolescentes y así como de las personas mayores de edad incapaces.
 
-a) Rurales;
-
-b) Semirurales;
-
-c) Urbanas; y,
-
-d) Predominantemente Urbanas
+Declaración de nulidad de matrimonio
 
 ###### Artículo 163.
 
-Se entiende por estacionamiento en la vía pública a la superficie habilitada y debidamente señalada dentro del espacio público que permite el alojamiento temporal de vehículos bajo la responsabilidad del usuario que conduce el vehículo.
+Declarada la nulidad del matrimonio, en su caso, se debe proceder a liquidar la sociedad conyugal que se hubiera constituido, para lo cual se estará a lo que establezcan las capitulaciones matrimoniales o, si no se hubieren formulado o éstas fueren omisas, se estará a lo que disponga este Código.
+
+Lo anterior, dejando a salvo los derechos de los cónyuges de reclamar daños y perjuicios.
+
+Validez de las donaciones hechas recíprocamente
 
 ###### Artículo 164.
 
-El Estado y sus municipios determinarán los estacionamientos en la vía pública de acuerdo con el diseño técnico vial delimitado por la jurisdicción, administración y operación, y se clasificará de la siguiente forma:
+Declarada la nulidad del matrimonio, quedan firmes las donaciones hechas recíprocamente por los cónyuges durante el mismo.
 
-I. Estacionamiento general en la vía pública;
-
-II. Zonas con sistema de gestión de Estacionamiento;
-
-III. Estaciones de Bici Pública y otros modos de movilidad activa;
-
-IV. Ascenso y descenso;
-
-V. Carga y descarga;
-
-VI. Estaciones de Transferencia;
-
-VII. Bases y sitios del Sistema Estatal de Transporte; y,
-
-VIII. Estacionamiento en la vía pública para espacios comerciales privados.
+Condena de alimentos al cónyuge conocedor del impedimento
 
 ###### Artículo 165.
 
-Cuando exista concurrencia en las vialidades estatales y/o municipales, se requerirá de la coordinación y factibilidad de la autoridad competente para la implementación de áreas de estacionamiento.
+El juez puede condenar al pago de alimentos al cónyuge que conocía del impedimento al momento de la celebración del matrimonio, en favor del cónyuge que haya obrado de buena fe, siempre y cuando éste carezca de bienes o no realice una actividad remunerada.
+
+En caso de que proceda, el juez debe fijar la cantidad que por este rubro corresponda y el lapso por el que el cónyuge acreedor puede recibirlos, sin que exceda del tiempo de duración del matrimonio.
+
+Si el cónyuge acreedor llega a adquirir bienes, a recibir una remuneración o bien, si contrajera nuevo matrimonio o se uniera en concubinato, puede relevarse al cónyuge que haya obrado de mala fe de esta obligación, antes de que fenezca el plazo fijado por el juez.
+
+Cesación de los alimentos
 
 ###### Artículo 166.
 
-Se deberá ordenar el estacionamiento y uso en la vía pública, debidamente señalizado, en caso de dar uso específico, a los siguientes usuarios:
+La obligación de proporcionar alimentos al cónyuge que haya obrado de buena fe, concluye al cumplirse el término fijado por el juzgador en la sentencia, a menos que el cónyuge acreedor sufra de incapacidad física o mental permanente por consecuencia de un acto u omisión doloso del cónyuge que haya obrado de mala fe.
 
-I. Personas con discapacidad;
-
-II. Vehículos de emergencias;
-
-III. Bicicletas y vehículos de tracción humana;
-
-IV. Estaciones y centros de transferencia de transporte público;
-
-V. Transporte público / pasajeros;
-
-VI. Carga y descarga / servicios;
-
-VII. Motocicletas; y,
-
-VIII. Vehículo particular.
+Embarazo de la mujer una vez hecha la declaración
 
 ###### Artículo 167.
 
-El estacionamiento en la vía pública deberá atender a las disposiciones siguientes:
+Si al declararse la nulidad del matrimonio la mujer estuviere embarazada, debe hacerlo del conocimiento del juez.
 
-I. No se permitirá el estacionamiento tipo batería, en ninguna calle sin un previo análisis técnico realizado, evaluado y autorizado por el municipio y/o autoridad competente;
+En este caso, el hombre puede solicitar al juez que dicte las providencias que estime convenientes para evitar la suposición del embarazo, parto o que se haga pasar por nacido el producto, sin menoscabar la libertad y dignidad de la mujer.
 
-II. La orientación del vehículo estacionado deberá de ser en el sentido al flujo vehicular;
-
-III. Queda prohibido estacionarse a por lo menos 6 metros de las esquinas de los paramentos en los cruces de las calles de cualquier tipo sin excepción; y,
-
-IV. Queda estrictamente prohibido estacionarse en rampas de accesibilidad universal, áreas peatonales, ciclistas, del Sistema Estatal de Transporte, así como en accesos, en accesos vehiculares, accesos a hospitales, escuelas, salidas de emergencia, y demás que señale esta Ley, su Reglamento, y los reglamentos municipales que correspondan.
+Derecho a alimentos de la mujer embarazada
 
 ###### Artículo 168.
 
-Se procurará que el estacionamiento en el arroyo vehicular, se encuentre debidamente balizado y señalado, sin embargo, eso no limitará que las personas usuarias de dicho estacionamiento cumplan con los principios, objetivos y restricciones que señale esta Ley, su Reglamento y los reglamentos municipales que correspondan.
+La mujer que estuviere embarazada, aún teniendo bienes, tiene derecho a recibir alimentos y no está obligada a devolverlos en caso de un aborto natural o de un embarazo psicológico, siempre que acredite no haber simulado el embarazo. Verificado el parto, el juez determinará lo conducente en relación a los alimentos, atendiendo preferentemente a los intereses de la niña o niño.
 
-### CAPÍTULO I. DE LA CULTURA DE LA MOVILIDAD Y SEGURIDAD VIAL
+### CAPÍTULO III. Del Divorcio
 
-#### SECCIÓN ÚNICA. DEL TRANSPORTE ESPECIALIZADO BAJO DEMANDA A TRAVÉS DE REDES MÓVILES MEDIANTE PLATAFORMAS TECNOLÓGICAS Y APLICACIONES DIGITALES
+#### Sección Primera. Disposiciones Generales
 
-> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
+Efectos del divorcio
 
 ###### Artículo 169.
 
-Las autoridades competentes en la asignación de zona para el estacionamiento vehicular, observarán en su desarrollo que sea de un 70% máximo para el vehículo particular, un 14% mínimo para transporte y servicios, un 7% mínimo para vehículos de tracción humana y un 7% máximo para motocicletas.
+El divorcio disuelve el vínculo del matrimonio y permite a las personas divorciadas contraer nuevo matrimonio.
 
-En el caso de vialidades con paradas de transporte público los porcentajes se adecuarán partiendo de priorizar el espacio para dichas paradas, quedando estas libres de obstáculos, así como los accesos vehiculares a predios particulares existentes.
+Clases de divorcio
 
 ###### Artículo 170.
 
-La Operación y administración de los recursos económicos generados mediante el pago de tarifa de estacionamientos en la vía pública, será responsabilidad de la autoridad competente y los recursos obtenidos preferentemente serán utilizados para el mejoramiento urbano y en la ejecución de acciones y programas de movilidad activa considerando la jerarquía de movilidad.
+El divorcio podrá ser voluntario o sin causales.
 
-Las tarifas deberán ser previamente establecidas en la Ley de Ingresos Estatal o Municipal.
+Plazo para solicitar el divorcio
 
 ###### Artículo 171.
 
-Los lineamientos generales para la ubicación, construcción, clasificación y funcionamiento de los estacionamientos públicos, así como la implementación de tecnologías para facilitar su operación serán emitidos y actualizados por la SEDUM en coordinación con las demás entidades implicadas, con base en los estudios técnicos que para dichos efectos se realicen de conformidad a lo establecido en esta Ley, su Reglamento y las disposiciones legales aplicables en la materia.
+(DEROGADO, D.O. 28 DE MARZO DE 2018)
+
+Medidas provisionales en caso de divorcio
 
 ###### Artículo 172.
 
-Los estacionamientos públicos deberán contar con las instalaciones necesarias para garantizar la seguridad de las personas y los vehículos. Dispondrán de espacios exclusivos para vehículos que cuenten con distintivo oficial para personas con discapacidad o vehículos con placa de matrícula verde, así como de instalaciones necesarias para proporcionar el servicio a los usuarios de bicicletas y motocicletas.
+El juez, al recibir una solicitud de divorcio, tiene la facultad de decretar las medidas provisionales necesarias a fin de proteger a la familia y el interés superior de las niñas, niños y adolescentes, así como para proteger a las personas incapaces.
+
+Divorcio cuando existan hijos o hijas menores de edad
 
 ###### Artículo 173.
 
-Con base en lo establecido en los planes y programas estatales, la SEDUM realizará los estudios necesarios que permitan establecer las estrategias de gestión del estacionamiento para reducir la demanda de estos espacios y promover una mayor movilidad activa en el Estado.
+En todo divorcio en el cual existan hijos o hijas menores de edad o personas incapaces, el juez, de oficio o a petición de parte interesada, debe allegarse de los elementos necesarios para resolver las cuestiones relacionadas con ellos y, en todo caso, escuchar al Ministerio Público, a ambos progenitores y a las niñas, niños y adolescentes.
+
+En todo caso debe proteger y hacer que se respeten el derecho de los hijos o hijas a convivir con sus progenitores, salvo que exista peligro para aquellos que todavía no alcanzan la mayoría de edad.
+
+Reconciliación de los cónyuges
 
 ###### Artículo 174.
 
-La SEDUM determinará y autorizará los espacios exclusivos de estacionamiento de vehículos en la vía pública para personas con discapacidad, motocicletas, bicicletas, bahías de transporte público de pasajeros y carga, servicio de acomodadores, para el servicio de automóviles, los cuales estarán balizados conforme a los lineamientos emitidos para tales efectos, de conformidad a lo establecido en esta Ley, su Reglamento y las disposiciones legales aplicables en la materia.
+La reconciliación de los cónyuges, en los casos del divorcio, deja sin efecto la solicitud del mismo, siempre que no se haya emitido la resolución que disuelva el matrimonio. Para tal efecto, los interesados deben comunicar su reconciliación al juez.
+
+Muerte de uno de los cónyuges
 
 ###### Artículo 175.
 
-Queda prohibido obstaculizar el arroyo vehicular con cualquier cosa o actividad que genere limitaciones en el uso adecuado de la vialidad y su correcta operatividad.
+La muerte de uno de los cónyuges pone fin y deja sin efecto la solicitud de divorcio, y los herederos tienen los mismos derechos y obligaciones que tendrían si no hubiere existido dicha solicitud.
 
-Queda prohibida la colocación de elementos que obstruyan el arroyo vehicular con cualquiera que sea la finalidad, sin el permiso de la autoridad competente.
-
-En caso de requerirse de la reserva de un espacio frente a un predio se deberá solicitar a la autoridad competente y cumplir con los procesos y requisitos administrativos correspondientes.
+Sentencia ejecutoriada de divorcio
 
 ###### Artículo 176.
 
-La infraestructura para la movilidad en el Estado es responsabilidad del Ejecutivo del Estado y los municipios, por lo que, las autoridades competentes previamente deberán autorizar cualquier adecuación, ampliación, modificación o instalación.
+Ejecutoriada una resolución que decrete el divorcio, el juez, bajo su más estricta responsabilidad, debe remitir copia de ella al Registro Civil de la localidad donde se haya celebrado el matrimonio, para que se levante el acta de divorcio correspondiente y se haga la anotación correspondiente en la del matrimonio disuelto.
 
-Cualquier adecuación, modificación o instalación de elementos en la infraestructura de movilidad deberá respetar los principios, criterios y jerarquía de la movilidad marcados en la Ley General, las Normas Oficiales Mexicanas, la presente Ley, y demás normativa aplicable en la materia; priorizando el libre tránsito de las personas peatonas, la movilidad activa y el transporte colectivo.
+El juez puede ordenar que el Registro Civil, gratuitamente, levante el acta de divorcio cuando alguna de las partes lo solicite y acredite que carece de recursos económicos.
+
+Convenios ante el Centro Estatal de Solución de Controversias
 
 ###### Artículo 177.
 
-Las adecuaciones, ampliaciones, modificaciones o instalaciones de infraestructura vial se apegarán a la siguiente jerarquía:
-
-I. Aquellas que favorezcan la dotación de servicios a la población y el libre tránsito de las personas peatonas;
-
-II. Las que orienten y permitan el ordenamiento del espacio público atendiendo a los objetivos, principios, lineamientos de esta Ley y su Reglamento;
-
-III. Las que permitan el acceso de las personas a instalaciones hospitalarias, educativas, deportivas, gubernamentales, culturales, lúdicas y de recreación; y,
-
-IV. Las que permitan el acceso a los predios privados.
+Todo lo contenido en este Capítulo, debe igualmente observarse en los convenios celebrados ante el Centro Estatal de Solución de Controversias o ante un facilitador privado, cuando traten algún conflicto relacionado con el divorcio.
 
 #### Sección Segunda. Del Divorcio Voluntario
 
@@ -2579,181 +1545,107 @@ Divorcio voluntario
 
 ###### Artículo 178.
 
-Queda prohibida la colocación de elementos de publicidad en la vía pública que obstaculicen el sendero de la banqueta, el área del arroyo vehicular y estacionamiento.
+El divorcio es voluntario cuando se solicita de mutuo consentimiento por los cónyuges y se puede sustanciar administrativa o judicialmente, dependiendo de las circunstancias en las que se contrajo el matrimonio.
+
+Procedencia del divorcio voluntario administrativo
 
 ###### Artículo 179.
 
-Se procurará que las modificaciones, adecuaciones o instalaciones, cumplan con los principios, objetivos y restricciones que señalen esta Ley, su reglamento y los reglamentos municipales que correspondan.
+Procede el divorcio voluntario administrativo cuando concurran las siguientes circunstancias:
+
+I. Ambos cónyuges convengan en divorciarse;
+
+II. (DEROGADA, D.O. 28 DE MARZO DE 2018)
+
+III. No tengan a su cargo hijos o hijas que no hayan alcanzado la mayoría de edad o mayores de edad incapaces, y
+
+IV. En su caso, de común acuerdo hayan liquidado la sociedad Conyugal, si bajo ese régimen contrajeron matrimonio.
+
+Es nulo el divorcio voluntario administrativo que se efectúe en contravención a lo anterior.
+
+Divorcio voluntario administrativo fraudulento
 
 ###### Artículo 180.
 
-La infraestructura y equipamientos para el transporte público, se determinará con base a los resultados de los planes, programas, proyectos y estudios técnicos que se realicen, que buscarán impulsar la modernización y/o el mejoramiento del servicio de transporte, alineados a la jerarquía de la movilidad y a los principios establecidos en la presente Ley. Para efecto de lo anterior, los municipios y la autoridad estatal correspondiente, deberán coordinarse en términos de sus respectivas competencias.
+El divorcio voluntario administrativo no produce efectos legales cuando se obtiene fraudulentamente, por contravenir lo dispuesto en las fracciones II, III y IV del artículo anterior, sin perjuicio de que constituya el delito de falsedad ante una autoridad competente.
+
+Formalidad del divorcio voluntario administrativo
 
 ###### Artículo 181.
 
-El mantenimiento de la infraestructura y el equipamiento para el transporte público estará a cargo de las autoridades competentes en el ámbito de sus atribuciones y, en su caso, por los concesionarios.
+El divorcio voluntario administrativo se debe llevar a cabo por simple comparecencia ante el Oficial del Registro Civil del lugar del domicilio conyugal.
+
+Divorcio voluntario judicial
 
 ###### Artículo 182.
 
-Para los efectos de esta Ley, los elementos auxiliares son el sistema de red de infraestructura dedicada al transporte público, el cual deberá estar integrado, por lo menos, por los siguientes elementos:
+Procede el divorcio voluntario por vía judicial cuando los cónyuges no se encuentren en los supuestos del artículo 179 de este Código, y por mutuo consentimiento, ambos cónyuges acudan a solicitarlo ante el juez, acompañando un convenio que debe especificar lo siguiente:
 
-I. Terminales de transferencia de Transporte Público: Son aquellas que permiten el traslado de las personas de un modo de transporte público a otro;
+I. La designación de la persona que debe tener la guarda y custodia de los hijos o hijas que no hayan alcanzado la mayoría de edad o sean incapaces;
 
-II. Estación: Es la infraestructura en un espacio público que permite ascender y descender a las personas usuarias del transporte masivo, semimasivo y por cable entre terminales;
+II. Las modalidades bajo las cuales el progenitor, que no tenga la guarda y custodia, debe ejercer el régimen de convivencia, siempre que no interfiera con los horarios de comida, descanso, estudio y salud de sus hijos o hijas;
 
-III. Sistemas de Peaje. Es el conjunto de normas, procesos, herramientas y tecnologías utilizados para realizar un cobro por el derecho de uso de una infraestructura vial;
+III. El modo de atender las necesidades de sus hijos o hijas y, en su caso, las del cónyuge a quien deba darse alimentos, especificando la forma, lugar y fecha de pago de la obligación alimentaria, así como la garantía para asegurar su debido cumplimiento;
 
-IV. Nodos de Transporte Público. Puntos donde se ubican las paradas autorizadas de los servicios de Transporte Público que permiten a las personas usuarias trasbordar;
+IV. Designación del cónyuge al que le corresponde el uso del domicilio conyugal, en su caso, y del menaje, así como la designación del domicilio donde habitará el otro cónyuge, y
 
-V. Carriles exclusivos. Son las secciones de las vialidades, confinadas o no, dedicadas al uso exclusivo del Transporte Público;
+V. En su caso, la manera de administrar los bienes de la sociedad conyugal durante el proceso y hasta que se liquide ésta, así como la forma de liquidarla, exhibiendo para ese efecto, en su caso, las capitulaciones matrimoniales, el inventario, avalúo y el proyecto de partición; además, se debe designar a la persona o personas que liquidarán la sociedad.
 
-VI. Bici-estacionamiento. Mobiliario urbano específico para el aparcamiento de bicicletas;
+El juez debe resolver atendiendo las circunstancias especiales de cada caso.
 
-VII. Bici-estaciones. Edificaciones dedicadas al resguardo de bicicletas;
-
-VIII. Patios de encierro, maniobra y base. Son los predios destinados al transporte público desde donde iniciarán y donde terminarán su ruta las unidades;
-
-IX. Talleres para mantenimiento preventivo y correctivo. Son aquellos predios y edificaciones donde se realizará el mantenimiento y las reparaciones que las unidades de transporte público requieran; y,
-
-X. Las demás que se estimen necesarias para el cumplimiento del objeto de la presente Ley.
+Acuerdo de liquidación en caso de la sociedad legal
 
 ###### Artículo 183.
 
-En la infraestructura para el transporte público masivo, semimasivo, cable y bici pública, podrán ser concesionadas: las terminales de transferencia, estaciones, sistemas de peaje, nodos de transporte, bici-estacionamientos, bici-estaciones, patios de encierro, de maniobra y talleres.
+El acuerdo de liquidación, identificará los bienes o derechos que deban ser considerados como propios de cada cónyuge, trayendo a colación las deudas pendientes y el señalamiento del cónyuge que se debe hacer cargo de las mismas, sin perjuicio de que los acreedores hagan efectivo su crédito en los gananciales asignados a cualquiera de los cónyuges o en los bienes propios, en caso de incumplimiento, a fin de que la liquidación de la sociedad conyugal se realice dentro del procedimiento y la sentencia declare cuáles son los bienes y derechos que corresponden a los cónyuges y, eventualmente, las cargas u obligaciones que cada uno asume.
+
+Protesta de decir verdad
 
 ###### Artículo 184.
 
-El Instituto, en el ámbito de sus competencias, será quien determine los esquemas de operación que garantice el funcionamiento y servicio de la infraestructura, equipamiento y elementos del Sistema Estatal del Transporte.
+En la solicitud de divorcio voluntario por vía judicial los cónyuges deberán manifestar, bajo protesta, que es su voluntad disolver el vínculo del matrimonio y que están de acuerdo con el convenio anexado.
+
+Intervención del Ministerio Público
 
 ###### Artículo 185.
 
-La operación de los elementos para la infraestructura y equipamiento que componen al Sistema Estatal de Transporte, estará orientada principalmente a garantizar el derecho a una movilidad segura con calidad, eficiencia y eficacia en el servicio.
+Siempre que a juicio del juez el convenio contenga acuerdos que lesionen los intereses de los hijos o hijas, antes de aprobar el convenio, debe dar vista de éste al Ministerio Público.
+
+En caso contrario debe oír a los interesados y al Ministerio Público, y resolver lo que estime conveniente.
+
+Ilegalidad de alguna disposición del convenio
 
 ###### Artículo 186.
 
-Las autoridades competentes estarán facultadas para realizar revisiones aleatorias y sin previo aviso de los elementos auxiliares del transporte público para comprobar que se cumplen los principios para la operación de los mismos. En caso de que estos no se cumplan, la autoridad emitirá una advertencia señalando las faltas a lo que el concesionario deberá dar atención inmediata.
+En los casos en que el convenio contravenga alguna disposición legal, el juez debe apercibir a los solicitantes a fin de que modifiquen el convenio.
+
+Prevención para modificar el convenio
 
 ###### Artículo 187.
 
-Para los efectos de esta Ley, el Sistema Estatal de Transporte en el Estado de Michoacán de Ocampo, se clasifica en:
+El juez puede prevenir a los solicitantes para que modifiquen el convenio que hubieren presentado.
 
-I. Público de Movilidad Activa el cual se sub-clasifica y contempla las modalidades siguientes:
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
-A) Bicicletas públicas;
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán o el Ministerio Público, en su caso, pueden oponerse a la aprobación de dicho convenio, cuando este vaya en contra de la ley o bien, sea contrario al interés superior de quienes estén sujetos a la patria potestad.
 
-B) Bici-taxis;
-
-C) Bicicletas colectivas; y,
-
-D) Otras modalidades.
-
-II. Público de Movilidad Motorizada el cual se sub-clasifica y contempla en las modalidades siguientes:
-
-A). Público de Personas:
-
-a). Sistema de Transporte Masivo o Semi-masivo el cual se compone por las rutas siguientes:
-
-1. Rutas Troncales;
-
-2. Ruta Integrada;
-
-3. Rutas Alimentadoras; y,
-
-4. Rutas Auxiliares.
-
-b). Transporte por Cable:
-
-1. Teleférico; y,
-
-2. Funicular.
-
-c). Transporte Colectivo de baja y media capacidad:
-
-1. Urbano;
-
-2. Suburbano;
-
-3. Foráneo;
-
-4. Metropolitano; y,
-
-5. Regional.
-
-d). Transporte de Taxi:
-
-1. Taxi de Sitio;
-
-2. Radio Taxi;
-
-3. Taxi Libre;
-
-> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
-
-4. Servicio de Taxi Metropolitano; y,
-
-> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
-
-5. Taxi Ejecutivo Público.
-
-e). Transporte Mixto; y
-
-f). Transporte Turístico.
-
-B). Público de Carga:
-
-a). De carga general;
-
-b). De materiales para la construcción;
-
-c). De grúas, arrastre, salvamento y remolque;
-
-d). De pipas y auto-tanques;
-
-e). De carga ligera;
-
-f). De carga especial; y,
-
-g) Otros.
-
-C). Transporte Especializado:
-
-1. De Personal;
-
-2. Escolar;
-
-3. De Personal Agrícola;
-
-4. Bajo demanda a través de redes móviles mediante plataformas tecnológicas y/o aplicaciones digitales;
-
-5. Servicio Funerario;
-
-6. Servicio de paquetería express; y,
-
-7. Otros.
+Aprobación del convenio
 
 ###### Artículo 188.
 
-Los vehículos destinados a prestar el servicio en el Sistema Estatal de Transporte, se sujetarán a lo dispuesto por esta Ley y su Reglamento y de conformidad con lo siguiente:
+El juez después de verificar que el convenio no contraviene ninguna disposición legal, lo debe aprobar de plano, decretando el divorcio mediante sentencia.
 
-I. Los vehículos destinados para la prestación del servicio de transporte público de pasajeros masivo, semimasivo y cable, deben ser nuevos para ser incorporados al servicio y sustituirse antes de los diez años de la fecha de fabricación, sin perjuicio de que, en el reglamento de esta Ley, se fije un periodo de sustitución diverso en virtud de las características específicas de los vehículos;
-
-II. Deberán cumplir con lo dispuesto en la Ley de Infraestructura de la Calidad, Normas Oficiales Mexicanas, manuales y normas técnicas en materia de diseño, seguridad, eficiencia y comodidad que se expidan para tal efecto;
-
-III. Los vehículos de carga deberán cumplir las normas de seguridad y protección civil emitidas por las autoridades competentes;
-
-IV. Todos los vehículos a que se refiere el presente título deberán cumplir oportunamente con el pago de los derechos fiscales correspondientes, el seguro de cobertura amplia y la revisión física mecánica respectiva en los términos que establece la presente Ley y su Reglamento; y,
-
-V. Deberán estar inscritos en el Registro del Sistema Estatal de Transporte, portar los elementos de identificación conforme a su tipo y características, tales como placas, tarjeta de circulación; así como cualquier otro mecanismo electrónico de identificación vehicular que para esos efectos implemente el Instituto.
+Resolución del divorcio
 
 ###### Artículo 189.
 
-El Instituto, emitirá los lineamientos para la cromática de los vehículos destinados al servicio del Sistema Estatal de Transporte según sea el caso.
+En la resolución que determine el divorcio, el juez debe ordenar al Registro Civil que se hagan las anotaciones conducentes en el acta de matrimonio de los solicitantes y que se levante el acta de divorcio correspondiente. El juez puede ordenar que el Registro Civil, gratuitamente, realice las anotaciones respectivas y levante el acta de divorcio, cuando alguna de las partes lo solicite y acredite que carece de recursos económicos.
+
+Ineficacia del divorcio voluntario por vía judicial
 
 ###### Artículo 190.
 
-El Instituto efectuará la revisión física, mecánica y eléctrica de las unidades que presten el servicio de transporte, cuando así lo establezca la modalidad, previo el pago de los derechos correspondientes.
-
-Los propietarios de los vehículos acreditarán la revisión físico mecánico y eléctrico a través de un engomado o su equivalente, en las modalidades que así se establezca.
+El divorcio voluntario por vía judicial obtenido en distinta forma a la establecida en esta sección no surte efectos legales.
 
 #### Sección Tercera. Del Divorcio sin Causales
 
@@ -2761,1041 +1653,1141 @@ Procedencia del divorcio sin causales
 
 ###### Artículo 191.
 
-Para efectos del artículo anterior la inspección de los vehículos del servicio del Sistema Estatal de Transporte deberá cumplir con las siguientes fases:
+El divorcio sin causales es el solicitado al juez por uno sólo de los cónyuges, manifestando su voluntad de no querer continuar con el matrimonio, sin que se requiera señalar la causa por la cual se solicita.
 
-1. Revista física mecánica;
-
-2. Supervisión de unidades del servicio; y,
-
-3. Operativos ordinarios y extraordinarios.
+Solicitud de divorcio sin causales
 
 ###### Artículo 192.
 
-El Instituto emitirá los lineamientos y especificaciones técnicas que se requieran y que deberán cumplir los vehículos que presten el servicio de transporte dentro de cada una de sus modalidades.
+El cónyuge que en forma individual promueva el divorcio debe acompañar a su solicitud la propuesta de convenio para regular las consecuencias inherentes a la disolución del vínculo matrimonial. Dicho convenio debe contener los mismos requisitos que señala el artículo 182 de este Código y cuando los cónyuges hayan celebrado el matrimonio bajo el régimen patrimonial de separación de bienes, debe señalarse la compensación, que no puede ser superior al cincuenta por ciento del valor de los bienes que hubieren adquirido, a que tendría derecho el cónyuge que reúna los siguientes requisitos:
+
+I. Que durante el matrimonio, se haya dedicado exclusivamente al desempeño del trabajo del hogar o al cuidado de los hijos, o
+
+II. Que no haya adquirido bienes propios o habiéndolos adquirido, sean notoriamente menores a los del otro cónyuge.
+
+En todo caso el juez debe tomar en consideración lo dispuesto por los artículos 185, 186 y 187 de este Código.
+
+Obligaciones del juez en los casos de divorcio sin causales
 
 ###### Artículo 193.
 
-Para el ejercicio de supervisión y control del servicio de Transporte, el Instituto podrá auxiliarse de un sistema de monitoreo a través de tecnologías incorporadas a las unidades y en la infraestructura de transporte, que le facilite la administración de itinerarios, paradas autorizadas, horarios, frecuencias, velocidad y otros elementos de operación, así como de la seguridad de las personas usuarias y de las unidades.
+Los Jueces están obligados a dar a conocer a los cónyuges la posibilidad de que resuelvan sus conflictos ante el Centro Estatal de Solución de Controversias o ante un Centro Privado.
+
+Desacuerdo en lo establecido en el convenio presentado
 
 ###### Artículo 194.
 
-La implementación de la modalidad de Transporte Masivo, Semimasivo y por cable, será para garantizar el derecho humano a la movilidad libre y segura, así como, los principios y objetivos de esta Ley, y se realizará con base a los resultados de los estudios, programas y planes de movilidad que se realicen con motivo de su factibilidad.
+Todo lo no acordado respecto del convenio presentado, se debe resolver por la vía incidental.
 
-El concesionamiento de estas modalidades, será conforme el estudio técnico y económico que resulte.
+Medidas provisionales en los divorcios sin causales
 
 ###### Artículo 195.
 
-Toda la información generada por la utilización del Sistema Estatal de Transporte, así como aquella proporcionada por los concesionarios en la inscripción y utilización del Sistema será resguardada por el Instituto y podrá ser usada con fines estadísticos, respetando la protección de datos personales establecida por la ley de la materia.
+Desde que se presenta la solicitud de divorcio y solo mientras dure el procedimiento, se deben dictar las medidas provisionales pertinentes.
+
+Asimismo en los casos en que el divorcio no se concluya mediante convenio presentado, las medidas provisionales dictadas subsistirán hasta en tanto se dicte sentencia interlocutoria del incidente que resuelva la situación jurídica de los hijos o hijas o bienes según corresponda.
+
+Reglas para decretar medidas provisionales
 
 ###### Artículo 196.
 
-El Instituto supervisará, controlará y vigilará todas las modalidades de servicio del Sistema Estatal de Transporte, en el ámbito de su competencia. Asimismo, aplicará las disposiciones administrativas y sancionadoras en que incurran las personas concesionarias, permisionarias y constanciatarias, y operadoras del servicio de transporte público para garantizar el cumplimiento de la presente Ley y su Reglamento, así como las diversas disposiciones aplicables.
+El juez siempre que reciba la solicitud de divorcio sin causales acompañado del proyecto de convenio respectivo debe, de oficio, establecer las medidas provisionales siguientes:
+
+> <small>(REFORMADA, D.O. 28 DE MARZO DE 2018)</small>
+
+I. De conformidad con los hechos expuestos y las documentales exhibidas en los convenios propuestos, debe dictar las que considere adecuadas para salvaguardar la integridad y seguridad de los interesados, incluyendo las órdenes de protección, en caso de violencia familiar, de conformidad con la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Yucatán; con la más amplia libertad para prescribir las medidas que protejan a las víctimas;
+
+II. Señalar y asegurar las cantidades que a título de alimentos debe dar el deudor alimentario al cónyuge acreedor y a los hijos o hijas que corresponda;
+
+III. Las que se estime convenientes para que los cónyuges no se puedan causar perjuicios en sus respectivos bienes ni en los de la sociedad conyugal en su caso;
+
+IV. Ordenar, cuando existan bienes que puedan pertenecer a ambos cónyuges, la anotación preventiva de la demanda en el Registro Público de la Propiedad y del Comercio del Estado y además en el de aquellos lugares en que se conozca que tienen bienes, y
+
+V. Revocar o suspender los mandatos que entre los cónyuges se hubieran otorgado.
+
+Proceder del juez con audiencia de ambos cónyuges
 
 ###### Artículo 197.
 
-Las modalidades para el Servicio de Transporte Público de Movilidad Activa, serán las siguientes:
+Una vez que el otro cónyuge conteste la solicitud presentada el juez debe:
 
-1. Bicicletas públicas. Es el servicio de bicicletas a disposición del público en general, para que sean utilizadas como modo de transporte individual de manera temporal;
+I. Determinar con audiencia de parte, teniendo en cuenta el interés familiar y lo que más convenga a los hijos o hijas, cuál de los cónyuges deba continuar en el uso de la vivienda familiar y asimismo, previo inventario, los bienes y enseres que continúen en ésta y los que se debe llevar el otro cónyuge, incluyendo los necesarios para el ejercicio de la profesión, arte u oficio a que esté dedicado, debiendo informar éste el lugar de su residencia;
 
-2. Bici-taxi. Es el servicio prestado para el traslado de personas en las zonas previamente autorizadas por el Instituto en conjunto con la autoridad municipal;
+II. Poner a los hijos o hijas al cuidado de la persona que de común acuerdo designen los cónyuges;
 
-3. Bicicletas Colectivas. Es el servicio prestado con fines turísticos y de recreación; y,
+III. Resolver, teniendo presente el interés superior de los hijos o hijas que no hayan alcanzado la mayoría de edad, quienes deben ser escuchados, las modalidades del derecho de visita o convivencia con sus progenitores;
 
-4. Otras modalidades del servicio colectivo e individual de movilidad activa.
+IV. Requerir a ambos cónyuges para que le exhiban, bajo protesta de decir verdad, un inventario de sus bienes y derechos, así como, de los que se encuentren bajo el régimen de sociedad conyugal, en su caso, especificando además el título bajo el cual se adquirieron o poseen, el valor que estime que tienen, las capitulaciones matrimoniales y un proyecto de partición. Durante el procedimiento, debe recabar la información complementaria y comprobación de datos que en su caso precise, y
 
-En los casos que corresponda, se requerirá de la coordinación y factibilidad de la autoridad estatal y municipal competente.
+V. Dictar las demás que considere necesarias.
 
-Para efectos del presente artículo, se deberá contar con el seguro correspondiente para poder operar.
+> <small>(REFORMADO EPÍGRAFE [N. DE E. REPUBLICADO], D.O. 31 DE JULIO DE 2024)</small>
+
+Resolución del divorcio
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 198.
 
-La prestación del servicio de todas las modalidades descritas en el artículo anterior se sujetarán al cumplimiento de las especificaciones técnicas y condiciones de operación que se mencionan en la presente Ley y su Reglamento, así como en las diversas disposiciones aplicables.
+La resolución dictada por el juez en la que decrete el divorcio, debe fijar la situación de los hijos o hijas menores de edad, para lo cual deberá contener las siguientes disposiciones:
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+I. Todo lo relativo a los derechos y deberes inherentes a la patria potestad incluyendo la responsabilidad parental, su pérdida, suspensión o limitación; a la guarda y custodia, así como a las obligaciones de crianza y el derecho de los hijos o hijas a convivir con ambos progenitores;
+
+> <small>(REFORMADA, D.O. 28 DE MARZO DE 2018)</small>
+
+II. Todas las medidas necesarias para proteger a los hijos o hijas de actos de violencia familiar, incluso órdenes de protección, de conformidad con la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Yucatán; o cualquier otra circunstancia que lastime u obstaculice su desarrollo armónico y pleno;
+
+III. Las medidas necesarias para garantizar la convivencia de los hijos o hijas con sus progenitores, misma que sólo debe ser limitada o suspendida cuando exista riesgo para los hijos o hijas o en los casos que establece este Código;
+
+IV. Tomando en consideración, en su caso, los datos recabados en términos de la fracción IV del artículo anterior, fijar lo relativo a la división de los bienes y tomar las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos o hijas. Los ex cónyuges tienen obligación de contribuir, en proporción a sus bienes e ingresos, al pago de alimentos a favor de los hijos o hijas;
+
+V. Para el caso de las personas mayores de edad incapaces, sujetos a la tutela de alguno de los ex cónyuges, en la resolución que decrete el divorcio debe establecerse las medidas a que se refiere este artículo para su protección;
+
+VI. En caso de desacuerdo, el juez, en la sentencia de divorcio, debe resolver sobre la procedencia de la compensación al cónyuge que corresponda, atendiendo a las circunstancias especiales de cada caso, y
+
+VII. Las demás que sean necesarias para garantizar el bienestar, el desarrollo, la protección y el interés de los hijos o hijas menores de edad.
+
+Para lo dispuesto en este artículo, de oficio o a petición de parte interesada, durante el procedimiento el juez se debe allegar de los elementos necesarios, debiendo escuchar al Ministerio Público, a ambos progenitores y a los descendientes que no hayan cumplido la mayoría de edad.
+
+Acuerdo de los cónyuges respecto del convenio
 
 ###### Artículo 199.
 
-Serán directrices de las acciones gubernamentales en materia de promoción del uso de la bicicleta las siguientes:
+En caso de que los cónyuges lleguen a un acuerdo respecto del convenio anexado a la solicitud de divorcio sin causales, y éste no contravenga ninguna disposición legal, el juez lo debe aprobar de plano, y decretar la resolución del divorcio; de no ser así, el juez debe decretar el divorcio, previo desarrollo del procedimiento establecido en el Código de Procedimientos Familiares del Estado de Yucatán, dejando expedito el derecho de los cónyuges para que lo hagan valer en la vía incidental, exclusivamente por lo que concierne al convenio.
 
-I. El fomento e incentivo del uso de la bicicleta como modo de transporte saludable y no contaminante;
-
-II. La protección a las personas que usen la bicicleta como modo de transporte;
-
-III. La adecuación de las políticas públicas en el Estado para generar las condiciones e infraestructura necesaria, que permitan usar la bicicleta como modo de transporte;
-
-IV. El Estado y los municipios implementarán campañas de difusión permanentes que fomenten el uso de la bicicleta, así como una cultura de respeto a las personas ciclistas; y,
-
-V. Todas las dependencias y entidades de la administración pública estatal y municipal, así como las escuelas, centros comerciales, fábricas, oficinas, estacionamientos públicos y terminales de autobuses urbanos deberán contar con bici-estacionamientos.
+Pago de alimentos
 
 ###### Artículo 200.
 
-Los servicios del sistema de transporte público Masivo o Semi-Masivo de personas se componen para su operación de las rutas siguientes:
+En caso de decretarse el divorcio, el juez en dicha resolución debe decidir sobre el pago de alimentos a favor del cónyuge que, teniendo la necesidad de recibirlos, durante el matrimonio se haya dedicado exclusivamente a las labores del hogar o al cuidado de sus hijos o hijas, esté imposibilitado para trabajar o carezca de bienes; tomando en cuenta las siguientes circunstancias:
 
-I. Rutas troncales. Serán aquellas con terminales de origen y destino con estaciones intermedias de transferencia;
+I. La edad y el estado de salud de los cónyuges;
 
-II. Rutas Integradas. Serán aquellas que parten de una estación de transferencia y circulen entre colonias por vías primarias o secundarias, con o sin infraestructura para su operación, hasta terminar en otra estación de transferencia;
+II. Su posibilidad de acceso a un empleo;
 
-III. Rutas alimentadoras. Serán aquellas que presten el servicio con origen o destino en los asentamientos humanos periféricos a la zona urbana y, que deberán integrarse a la estación de transferencia que corresponda; y,
+III. Duración del matrimonio y dedicación pasada y futura a la familia;
 
-IV. Rutas auxiliares. Serán las que presten el servicio como resultado de las necesidades de movilidad derivadas de planeación y estudios técnicos y que deban constituirse o crearse para cada centro de población.
+IV. Colaboración con su trabajo en las actividades del otro cónyuge;
 
-## TÍTULO SÉPTIMO. DE LA INFRAESTRUCTURA PARA LA MOVILIDAD Y SEGURIDAD VIAL
+V. Medios económicos de uno y otro cónyuge, así como de sus necesidades, y
 
-### CAPÍTULO II. DE LA CAPACITACIÓN EN MATERIA DE TRÁNSITO Y SEGURIDAD VIAL
+VI. Las demás obligaciones que tenga el cónyuge deudor.
+
+En la resolución se deben fijar las bases para actualizar la pensión y las garantías para su efectividad. El derecho a los alimentos se extingue cuando el acreedor contraiga nuevo matrimonio o se una en concubinato o haya transcurrido un término igual a la duración del matrimonio.
+
+## TÍTULO SÉPTIMO. CONCUBINATO
+
+### CAPÍTULO I. Disposiciones Generales
+
+> <small>(REFORMADO, D.O. 3 DE MARZO DE 2022)</small>
+
+Concepto de Concubinato
 
 ###### Artículo 201.
 
-Los servicios de transporte público de personas por cable, serán las siguientes:
+El concubinato es la unión de dos personas quienes, libres de matrimonio, hacen vida en común de manera notoria, permanente, hayan o no procreado hijos o hijas o han vivido públicamente como cónyuges durante dos años continuos o más.
 
-I. Teleférico. Será aquel que traslada personas en telecabinas o telesillas, utilizando cables y portador; y,
-
-II. Funicular. Será aquel que traslada personas desplazándose sobre ruedas u otros dispositivos de sustentación de camino fijo de rodadura mediante tracción de uno o más cables.
+Nacimiento jurídico del concubinato
 
 ###### Artículo 202.
 
-Para los efectos de esta Ley y su Reglamento el Servicio de Transporte Público Colectivo se clasifica en:
+Para que nazca jurídicamente el concubinato, es necesario que la cohabitación se prolongue de manera exclusiva, pública y permanente, de conformidad con el artículo anterior.
 
-I. Colectivo de baja capacidad. Que será aquel, que preste el servicio con unidades de capacidad de 14 hasta 25 personas;
-
-II. Colectivo de media capacidad. Que será aquel, que preste el servicio con unidades de capacidad mayor a 25 y hasta 100 personas;
-
-III. Mixto de personas pasajeras y bienes. Que será aquel, que preste el servicio de traslado de personas y que cuente con un espacio destinado a transporte de mercancías que no exceda de media tonelada, en una ruta o zona determinada, en vehículos equipados con seguridad y espacio para los asientos de las personas usuarias; y,
-
-IV. Turístico. Que será aquel que preste el servicio para el traslado de personas a puntos de interés histórico, arquitectónico, panorámico, ecológico, artístico o de placer; entre otros fines turísticos, mediante el cobro de una contraprestación convenida con la persona usuaria.
+Funciones del concubinato
 
 ###### Artículo 203.
 
-Para el Transporte público de personas en la modalidad de colectivo de baja y media capacidad este será prestado conforme a los siguientes tipos de servicio:
+Las funciones del concubinato son iguales a las del matrimonio, por lo que la pareja debe acordar conjuntamente todo lo relativo a la educación y atención de los hijos o hijas, a su domicilio y a la administración de los bienes.
 
-I. Urbano. Será el que se preste dentro de las zonas urbanas del territorio municipal, en rutas no integradas;
-
-II. Suburbano. Será el que se preste dentro de un mismo territorio municipal, de las comunidades rurales a la cabecera municipal o de una comunidad a otra;
-
-III. Foráneo. Será el (sic) preste el servicio de traslado de personas del municipio de adscripción de la concesión hacia otros municipios y sus comunidades del Estado, siempre y cuando no sean Zonas Metropolitanas;
-
-IV. Metropolitano. Será el que se preste dentro de las zonas metropolitanas en el Estado y reconocidas por el Estado; y,
-
-V. Regional. Será el servicio que se presta para el traslado de personas de una comunidad rural de un municipio hacia otros municipios y sus comunidades, pero que pertenecen a las distintas regiones que componen al Estado.
-
-> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
+Excepción en caso de vida común y permanente
 
 ###### Artículo 204.
 
-Para el Transporte público de personas en la modalidad de Taxi podrá ser prestado a través plataformas tecnológicas y conforme a los siguientes tipos de servicio:
+Si una misma persona hace vida en común de manera notoria y permanente con varias personas, independientemente de la duración de estas uniones y de que haya descendencia en las mismas, no se nace jurídicamente, en ningún caso, el concubinato.
 
-I. Taxi de Sitio. Será el servicio que se preste a través de vehículos motorizados sin encontrarse sujeto a horario e itinerario fijo, que cuente con un espacio físico, destinado al estacionamiento temporal, autorizado por el municipio y el Instituto en sus respectivas competencias, con accesibilidad diversa para la contratación y cobro del servicio;
+Lo anterior, sin perjuicio de que se reconozcan a los hijos o hijas de esas uniones.
 
-II. Radio Taxi. Será el servicio que se preste a través de vehículos motorizados sin encontrarse sujeto a horario e itinerario fijo, que cuente o no con un espacio físico, destinado al estacionamiento temporal, autorizado por el municipio y el Instituto en sus respectivas competencias, que opere haciendo uso de una radiofrecuencia de comunicación autorizada, o por medio de plataforma o medios digitales;
-
-III. Taxi Libre. Será el servicio que se preste a través de vehículos motorizados sin encontrarse sujeto a horario e itinerario fijo, sin tener un lugar de estacionamiento fijo;
-
-IV. Servicio de Taxi Metropolitano. Será el servicio que se preste a través de vehículos motorizados, que formarán parte del conjunto de modos de transporte del SIT, constituida bajo un esquema de persona moral que opere sin encontrarse sujeto a horario e itinerario fijo, y en una zona metropolitana reconocida estatal, con sitios o bases en las estaciones o terminales del SIT; y,
-
-V. Taxi Ejecutivo Público. Será el servicio público concesionado que se preste a través de vehículos motorizados de modelo reciente con no más de 6 años de antigüedad.
-
-Las personas concesionarias podrán contar con estímulos fiscales, autorizados por la autoridad competente, cuando sus vehículos que presten el servicio de transporte público, en cualquiera de sus modalidades, utilicen gas natural, propulsión eléctrica, hibrida, hidrógeno o cualquier otro elemento que no genere daño ambiental o efectos contaminantes.
+Bienes adquiridos durante el concubinato
 
 ###### Artículo 205.
 
-La prestación del servicio bajo todas las modalidades descritas en el presente Capítulo deberá sujetarse al cumplimiento de las especificaciones técnicas y condiciones de operación que se mencionan en la presente Ley y su Reglamento, así como las demás disposiciones aplicables.
+Los bienes adquiridos durante el concubinato, se rigen por las reglas relativas al régimen patrimonial de separación de bienes.
+
+Terminación del concubinato
 
 ###### Artículo 206.
 
-La prestación del servicio de transporte público de personas se llevará a cabo de manera general, continua, uniforme, regular y permanente en las vías públicas de comunicación del Estado y los municipios, mediante la utilización de vehículos adecuados para cada tipo de servicio, con el objeto de satisfacer la demanda de la población usuaria, previo pago, en efectivo, con tarjeta de prepago o cualquier otro medio digital, que deberá (sic) de realizar las personas usuarias, de conformidad con las tarifas previamente aprobadas por el Instituto o en su caso, el monto acordado por las partes en los casos de prestación del servicio de transporte turístico y Bici colectiva.
+El concubinato termina por las siguientes causas:
 
-### CAPÍTULO I. DE LA CLASIFICACIÓN DE LOS VEHÍCULOS
+I. Por acuerdo mutuo entre las partes;
+
+II. Por abandono del domicilio común por parte de uno de los miembros del concubinato, siempre que se prolongue por más de seis meses. Durante este plazo el concubinato sigue produciendo sus efectos para la persona abandonada, y
+
+III. Por muerte de la concubina o del concubinario.
+
+### CAPÍTULO II. De los Derechos y Obligaciones Nacidos del Concubinato
+
+Aplicación de reglas del matrimonio
 
 ###### Artículo 207.
 
-El servicio de transporte público y especializado, además de lo dispuesto en la presente Ley y su Reglamento, se sujetará a los parámetros de operación, manuales y normas técnicas que al efecto expida el Ejecutivo del Estado, tomando en consideración el soporte técnico que proporcione el Instituto.
+En lo referente a los derechos y obligaciones nacidos del concubinato, es aplicable lo relativo al matrimonio, siempre y cuando sea compatible con la naturaleza del concubinato.
+
+Reclamo judicial de los derechos y obligaciones
 
 ###### Artículo 208.
 
-El Instituto, establecerá las especificaciones técnicas y los planes de operación del servicio (sic) transporte, que deberán contener el itinerario, horario, número y modelo de vehículos, rutas, frecuencias, intervalos de servicio, características físico mecánicas de los vehículos y la información básica para el usuario, reglas de operación, así como los números económicos asignados a cada despacho de acuerdo a la modalidad de servicio que se establecen en la presente Ley y su Reglamento, así como las diversas disposiciones aplicables.
+Los derechos y obligaciones derivados del concubinato pueden reclamarse judicialmente siempre que se acredite lo establecido en los artículos 201 y 202 de este Código.
 
-En los centros de población con mayor demanda, el Instituto notificará a cada persona concesionaria, o en su caso a la coordinación gremial o al representante legal, el plan de operación de la ruta, así como el mecanismo de rotación equitativo.
+Derechos de los hijos o hijas nacidos en el concubinato
 
 ###### Artículo 209.
 
-Los vehículos de acuerdo a su modalidad no podrán cubrir itinerarios distintos a los señalados en la concesión. Para poder realizar modificaciones relativas a ampliaciones de ruta o cambios de itinerario, se deberán realizar los estudios correspondientes, contar con las anuencias y acuerdos necesarios, y acondicionar los nuevos espacios para las bases que se mencionan en la presente Ley y su Reglamento, así como en las diversas disposiciones aplicables.
+Los hijos o hijas nacidos de una relación de concubinato tienen los mismos derechos y obligaciones que los nacidos en un matrimonio.
+
+Vigencia de las obligaciones
 
 ###### Artículo 210.
 
-El Instituto establecerá los estándares del servicio y autorizará las reglas y condiciones de calidad del servicio, que serán aplicables al transporte público de personas, mediante las instancias de coordinación que se establezcan. El incumplimiento de dichos estándares será motivo de las sanciones establecidas en esta Ley.
+La concubina y el concubinario tienen las obligaciones que este Código establece para sus hijos o hijas, las cuales no se extinguen con la terminación del concubinato.
+
+Igualdad de derechos y obligaciones en el concubinato
 
 ###### Artículo 211.
 
-El Instituto podrá modificar los horarios de servicio y ubicación de paradas autorizadas, así como las lanzaderas, bases, de rutas y terminales, sitios de taxi, previa realización del estudio técnico correspondiente y en coordinación con las autoridades municipales competentes.
+La concubina y el concubinario deben contribuir económicamente al sostenimiento del hogar, a su alimentación y a la de sus hijos o hijas, así como a la educación de éstos en los términos que la Ley establece, sin perjuicio de distribuirse la carga en la forma y proporción que acuerden para este efecto, según sus posibilidades.
 
-La modificación deberá solicitarse de oficio por el Instituto o cuando sea sometida a su valoración por los concesionarios o la autoridad municipal correspondiente.
+A lo anterior no está obligado la concubina o el concubinario que se encuentre imposibilitado para trabajar y careciere de bienes propios, en cuyo caso el otro será quien responda íntegramente de esos gastos.
+
+Igualdad de derechos y obligaciones para el concubinario y la concubina
 
 ###### Artículo 212.
 
-Cuando así lo exija el interés público, el Gobierno del Estado podrá hacerse cargo de la prestación del servicio público de transporte, sujetándose a las siguientes disposiciones:
+Los derechos y obligaciones que nacen del concubinato, son siempre iguales para la pareja e independientes de su aportación económica al sostenimiento del hogar.
 
-1. Temporalmente cuando:
-
-a) Las personas concesionarias y permisionarias se nieguen a prestar el servicio o lo suspendan sin causa justificada;
-
-b) La población lo requiera por exceso de demanda y el servicio concesionado y permisionario no dé cobertura en un 100% supliendo el porcentaje que se deba cubrir;
-
-c) En casos de emergencia, desastres naturales, epidemias, endemias, pandemias o cualquier otro caso afín que se requiera; y,
-
-d) Exista alteración grave del orden y la paz social que impida u obstaculice la normal prestación del servicio. La intervención del Estado, en estos casos, cesará cuando se reinicie y normalice la prestación del servicio y se satisfaga la demanda.
-
-2. De manera definitiva por el interés público.
-
-Para efecto de lo anterior, el Poder Ejecutivo del Estado podrá requerir a los concesionarios y/o permisionarios de otras modalidades y adscripciones, o en su defecto solicitar a diversos, que auxilien para hacerse cargo de la prestación del servicio público de transporte.
+Trabajo del hogar y cuidado de los hijos
 
 ###### Artículo 213.
 
-La SEDUM y el Instituto, publicarán anual y oficialmente los análisis de oferta-demanda y antigüedad de la flota vehicular correspondiente a las modalidades que lo requieran, en los 113 municipios del Estado conforme lo establezcan los lineamientos emitidos conjuntamente por dichas dependencias; análisis que estarán enfocados en mostrar la cobertura de transporte público y cuyo resultado permita la posibilidad de otorgar, suspender o cancelar las concesiones para la prestación del servicio.
+La concubina o el concubinario que exclusivamente desempeñe el trabajo en el hogar o se dedica al cuidado de los hijos o hijas tienen derecho a que esas labores sean consideradas como contribución económica al sostenimiento del hogar.
+
+Derecho al pago de alimentos
 
 ###### Artículo 214.
 
-Las personas operadoras de los vehículos de transporte público, especializado y de carga, tendrán de manera enunciativa, más no limitativa los siguientes derechos:
+La concubina o al concubinario, según sea el caso, tiene derecho a que el juez resuelva el pago de alimentos a su favor, siempre que durante el concubinato no haya adquirido bienes propios se haya dedicado exclusivamente al desempeño del trabajo del hogar o al cuidado de los hijos o hijas, o bien, que con los bienes con los que cuente, no pueda responder a sus necesidades básicas, que carezca de éstos o que esté imposibilitado para trabajar. En todo caso el juez debe tomar en cuenta las siguientes circunstancias:
 
-I. Gozar del derecho al trabajo y seguridad social conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, Ley Federal del Trabajo y demás disposiciones aplicables;
+I. La edad y el estado de salud de la concubina o del concubinario;
 
-II. Recibir un trato digno y respetuoso de las personas empleadoras, autoridades competentes y de los usuarios del transporte público y especializado;
+II. La posibilidad de acceder a un empleo;
 
-III. A la no discriminación por motivo de origen, etnia, sexo, orientación sexual, género, idioma, religión, opinión, condición económica o de cualquier índole;
+III. Duración del concubinato;
 
-IV. Contar con un espacio digno con todos los servicios básicos para cubrir sus necesidades físicas en los lugares de trabajo;
+IV. Medios económicos de uno y otro, así como de sus necesidades, y
 
-V. Tener un ambiente de trabajo sano, adecuado, con una debida planeación y organización;
+V. Las demás obligaciones que, en su caso, tenga la concubina o el concubinario considerado como deudor.
 
-VI. Recibir asesoría por parte de las autoridades laborales y de seguridad social competentes para la formalización del empleo;
+En la resolución se deben fijar las bases para actualizar la pensión y las garantías para su efectividad.
 
-VII. Recibir capacitación periódica y actualizada para el correcto desempeño de su trabajo;
-
-VIII. Contar con los instrumentos necesarios para el ejercicio de su labor en las condiciones de seguridad que se mencionan en la presente Ley, su Reglamento y diversas disposiciones aplicables; y,
-
-IX. Los demás que se mencionan en la presente Ley, su Reglamento y demás disposiciones aplicables.
+Extinción del derecho de alimentos
 
 ###### Artículo 215.
 
-Las personas operadoras de los vehículos de transporte público, especializado y de carga, tendrán de manera enunciativa, más no limitativa las obligaciones siguientes:
+El derecho a los alimentos se puede extinguir con la muerte del beneficiario o bien, en caso de que la concubina o el concubinario acreedor deje de estar en los supuestos previstos en este Capítulo.
 
-I. Atender las disposiciones de operación y servicio que el Instituto establezca;
-
-II. Utilizar exclusivamente las paradas autorizadas para el ascenso y descenso de personas usuarias y/o carga y descarga, respectivamente;
-
-III. Prestar el servicio con un trato digno y no discriminatorio, y salvaguardar los derechos de las personas usuarias;
-
-IV. Portar el uniforme y elementos de identificación emitidos por el Instituto, que lo acrediten para la prestación del servicio y como parte de dicho sistema;
-
-V. Acreditar los exámenes señalados en la presente Ley y su Reglamento;
-
-VI. Portar licencia de conducir del tipo que corresponda al servicio, y en caso de sanciones, acatar las disposiciones administrativas que le apliquen;
-
-VII. No conducir cuando exista un impedimento temporal o permanente por circunstancias de salud o de cualquier otra índole, que reduzca sus facultades físicas o psicológicas;
-
-VIII. Asistir y acreditar a los cursos de capacitación y actualización permanente o indicados en el programa respectivo, impartidos por el Instituto y demás autoridades competentes;
-
-IX. Fijar de manera visible en la unidad o Informar a las personas usuarias, la tarifa o costo de la prestación del servicio, atendiendo a la modalidad de que se trate;
-
-X. No transportar más personas pasajeras de las permitidas de acuerdo a la capacidad del vehículo y modalidad de que se trate en términos de lo dispuesto en el Reglamento de la presente Ley;
-
-XI. No consumir o encontrarse bajo los efectos de bebidas embriagantes o cualquier tipo de droga, enervante o sustancia psicotrópica sin prescripción médica, durante la prestación del servicio;
-
-XII. No abastecer ningún tipo de combustible que utilicen las unidades de transporte o realizar cualquier otra actividad que implique peligro o demora de las personas pasajeras;
-
-XIII. Permitir y otorgar las facilidades necesarias a los servidores públicos del Instituto o autoridad administrativa competente para el abordaje y revisión de la unidad que conduce, cuando éste sea requerido o por causas de interés público;
-
-XIV. Cumplir de manera puntual con los protocolos de atención y prevención de la violencia de género en el transporte público y especializado;
-
-XV. Cumplir de manera puntual con los protocolos, programas o acciones en materia de salud a causa de endemias, epidemias, y pandemias o por motivos de salud pública o cualquier otra índole de interés público emitidos por las autoridades competentes, así como el cumplimiento de las demás determinaciones administrativas aplicables;
-
-XVI. Abstenerse de darle un uso diverso al vehículo que presta el servicio público sin una autorización previa del Instituto; y,
-
-XVII. Las demás que se mencionan en la presente Ley, su Reglamento, así como diversas disposiciones aplicables.
+Derecho a heredar de la concubina o concubinato que sobrevive
 
 ###### Artículo 216.
 
-El Instituto analizará y en su caso autorizará el acuerdo celebrado entre las personas concesionarias para que se incorporen los vehículos a una ruta distinta a la asignada, pero de la misma modalidad, con el objeto de racionalizar el uso de los vehículos, de conformidad con los términos y especificaciones que determine el convenio respectivo.
+Si el concubinato se prolonga hasta la muerte de uno de sus miembros, la concubina o el concubinario supérstite tiene derecho a heredar en la misma proporción y condiciones que un cónyuge, siempre que se hubiera cumplido el término o la condición establecidos en este Código.
 
-No podrán incorporarse vehículos registrados en una concesión a una modalidad o adscripción de distinto municipio al asignado.
+## TÍTULO OCTAVO. FILIACIÓN
 
-Cualquier otro cambio, alteración o modificación a que se refiere el presente artículo estará sujeto a la evaluación y autorización del Instituto. En el mismo sentido si la incorporación de los vehículos altera los planes de operación establecidos para la ruta.
+### CAPÍTULO I. De la Paternidad y la Maternidad
 
-## TÍTULO OCTAVO. DEL SISTEMA ESTATAL DEL TRANSPORTE
-
-### CAPÍTULO II. DEL REGISTRO ESTATAL VEHÍCULAR
+Filiación consanguínea
 
 ###### Artículo 217.
 
-El Instituto podrá variar con base en estudios técnicos, el itinerario o la cantidad de vehículos que operen en una ruta, cuando resulte necesario para la mejora sustancial del servicio, evitando el crecimiento innecesario de rutas y vehículos o la superposición innecesaria de estas.
+La filiación consanguínea es el vínculo de parentesco que surge de la relación genética entre dos personas, por el sólo hecho de la procreación.
+
+Se equipara a la filiación consanguínea el vínculo que surge de la adopción plena.
+
+Paternidad y maternidad
 
 ###### Artículo 218.
 
-El Instituto podrá implementar, previo estudio técnico, la reestructuración de las rutas del servicio de transporte público mediante la definición de cuencas de transporte, procurando racionalizar el uso de la infraestructura vial existente, así como disminuir la contaminación ambiental y mejorar la calidad del servicio. En caso de llevar a cabo dicha reestructuración, deberá ajustarse a lo dispuesto en el Reglamento de la presente Ley.
+La maternidad y la paternidad es la filiación que nace de la relación que existe entre dos personas, de las cuales una es la madre o el padre y la otra el hijo o hija.
+
+Prueba de la filiación
 
 ###### Artículo 219.
 
-Las personas concesionarias del servicio de transporte público podrán organizarse o asociarse para fines empresariales y mercantiles; dentro de sus actividades podrán presentar propuestas al Instituto para la formulación de planes y programas tendientes a una mayor eficacia, eficiencia, seguridad y una óptima, equitativa y racional operación del servicio, en beneficio de las personas usuarias previo análisis, autorización e implementación de los términos y condiciones que determine el Instituto.
+La filiación de los hijos o hijas se prueba con el acta de nacimiento de los mismos y en caso de que ésta no exista o contenga errores u omisiones que pongan en duda la filiación se debe someter a una prueba biológica.
+
+Pruebas biológicas
 
 ###### Artículo 220.
 
-Las personas morales concesionarias para la prestación del servicio de transporte público, podrán celebrar convenios y organizarse entre sí o con terceros, así como fusionarse con diversas sociedades, uniones, o asociaciones que contribuyan a ofrecer un servicio de mayor eficacia, eficiencia, rentabilidad y calidad, previa revisión y autorización del Instituto de los términos y condiciones fijados por las partes.
+La maternidad y la paternidad pueden ser acreditadas con certeza a través de pruebas biológicas.
+
+Definición de pruebas biológicas
 
 ###### Artículo 221.
 
-Las personas morales concesionarias para la prestación del servicio de transporte público y personas físicas que cuenten con concesión y que decidan adherirse a una nueva o existente persona moral, tendrán la obligación de llevar un registro de sus integrantes o adhesiones y hacer del conocimiento del Instituto cualquier cambio o modificación.
+Para efectos de este Título, se entiende por pruebas biológicas, el conjunto de métodos científicos que a partir de un estudio genético, permiten demostrar o excluir la paternidad o la maternidad. El juez puede decretar de oficio la práctica de este tipo de pruebas en caso de estimarlo conveniente.
 
-En el caso de transmisión de las acciones o partes sociales de las personas morales concesionarias, éstas tendrán la obligación de informar al Instituto, a efecto de modificar los registros, salvaguardar la correcta y continua prestación de los servicios y evitar la creación de prácticas monopólicas.
+Insuficiencia del dicho para excluir la paternidad o maternidad
 
 ###### Artículo 222.
 
-En vehículos destinados a la prestación del servicio del transporte público, queda prohibida la publicidad referente a:
+No basta el dicho de la madre o padre para excluir la maternidad o la paternidad de alguno de ellos.
 
-I. Bebidas alcohólicas, tabaco, sustancias ilícitas; y,
-
-II. Pornografía, erotismo o cualquiera que fomente la violencia, discriminación u objetualización del cuerpo humano.
+Prohibición de transacción o compromiso en árbitros
 
 ###### Artículo 223.
 
-Para efectos de la presente Ley y su Reglamento el servicio de Transporte Especializado tendrá las modalidades siguientes:
+No puede haber sobre la filiación, ni transacción ni compromiso en árbitros. Esta prohibición no impide a los progenitores la facultad de reconocer a sus hijos o hijas, ni a éstos mayores de edad, la de consentir el reconocimiento.
 
-I. De Personal. Modalidad que tiene como finalidad el traslado de personas de sus domicilios o puntos de reunión a sus centros de trabajos (sic) y viceversa, dentro de los límites del territorio estatal, el cual se presta o es contratado por entidades empleadoras para el traslado regular de sus trabajadores;
+Puede haber transacción sobre los derechos pecuniarios que de la filiación legalmente declarada pudieren deducirse.
 
-II. Escolar. Modalidad de transporte destinado al traslado de personas de la comunidad estudiantil de instituciones públicas y privadas de distintos niveles educativos, desde sus domicilios o puntos de abordaje a los centros de estudio y viceversa, dentro de los límites del territorio estatal;
+### CAPÍTULO II. De las Presunciones de Paternidad y Maternidad
 
-III. De Personal Agrícola. Modalidad de transporte destinado al traslado de personas cuya actividad o labor radica esencialmente en el sector primario o agropecuario;
-
-> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
-
-IV. Bajo demanda a través de redes móviles mediante plataformas tecnológicas y aplicaciones digitales. Modalidad de transporte especializado destinado al traslado de personas, bienes y mercancías, que presta un particular a otro en las vías estatales y municipales de comunicación, empleando vehículos propios o de terceros, de un punto fijo a otro, utilizando sistemas de posicionamiento global y mediante el pago en efectivo o electrónico de acuerdo a la tarifa calculada a través de un contrato entre particulares, operando bajo el amparo de un permiso otorgado por el Instituto; utilizando como herramienta de contacto entre ambas personas una plataforma tecnológica y una aplicación digital diseñada, administrada, registrada y proporcionada por un tercero constituido como una sociedad mercantil conforme a las leyes mexicanas, para lo cual a esta el Instituto le expedirá una Constancia previo registro y pago de derechos correspondientes;
-
-V. Servicio Funerario. Modalidad de transporte que no están sujetos a horario, ruta e itinerario fijo, destinados al traslado de cadáveres, restos humanos y personas dolientes dentro del territorio estatal;
-
-VI. Servicio de Paquetería Express. Es la modalidad por la cual se realiza la transportación en vehículos cerrados de pequeños bultos y paquetes que contengan mercancía o paquetería en general dentro del territorio estatal.
-
-> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
-
-### CAPÍTULO III. DE LA CIRCULACIÓN DE VEHÍCULOS
+Presunciones de paternidad y maternidad
 
 ###### Artículo 224.
 
-Todos los tipos del servicio de transporte especializado y el servicio de transporte bajo demanda a través de redes móviles mediante plataformas tecnológicas y aplicaciones digitales, serán prestados por persona física o moral según corresponda, estos últimos, siempre y cuando cuenten con los permisos respectivos expedidos por el Instituto para tal efecto y, su regulación estará sujeta a las disposiciones de la presente Ley y su reglamento y demás disposiciones técnicas y operativas que determine el Instituto.
+Se presumen hijos o hijas de ambos progenitores:
+
+I. Los nacidos después de la celebración del matrimonio o de iniciarse la relación de concubinato;
+
+II. Los nacidos dentro de los trescientos días siguientes a la disolución del matrimonio, por nulidad del vínculo, muerte de uno de los cónyuges o divorcio;
+
+III. Los nacidos dentro de los trescientos días siguientes a aquél, en que se separan los miembros del concubinato;
+
+IV. Los reconocidos por ambos cónyuges, o miembros del concubinato durante la vigencia de la unión, y
+
+V. Los reconocidos por ambos progenitores, que no estén unidos en matrimonio o concubinato.
+
+Los términos a que hacen referencia las fracciones II y III anteriores cuentan, desde la separación de los cónyuges o de los miembros del concubinato. Contra estas presunciones se admiten pruebas biológicas idóneas para excluir o demostrar la paternidad o la maternidad.
+
+Declaración de paternidad y maternidad en la celebración del matrimonio
 
 ###### Artículo 225.
 
-El servicio de transporte especializado a que se refiere la presente Sección, será prestado a través de: automóviles, motocicletas, camionetas de pasajeros o similares conforme al reglamento. En lo sucesivo para enunciar las unidades anteriormente descritas, se utilizará la denominación indistintamente como: vehículos.
+Los contrayentes al momento de la celebración del matrimonio, pueden declarar que el hijo o hija de la mujer, en el caso de que ésta, estuviere o pudiere estar embarazada es de ambos.
 
-Queda prohibido el traslado de personas bajo esta modalidad utilizando como vehículo las motocicletas.
+Prohibición a los progenitores de desconocer a sus hijos o hijas
 
 ###### Artículo 226.
 
-Los permisionarios que presten el servicio a que se refiere el artículo anterior, deberán pagar la tasa o derechos que se establezcan en la Ley de Hacienda del Estado y la Ley de Ingresos de cada ejercicio fiscal, para los efectos a que se refiere la presente Ley y su Reglamento.
+En caso de que exista matrimonio o concubinato, ningún cónyuge o miembro del concubinato, puede desconocer a los hijos o hijas concebidos o nacidos durante la vigencia de la unión, aún cuando hayan sido adoptados y siempre que se haya otorgado consentimiento expreso.
+
+Los progenitores aun cuando no se encuentren unidos en matrimonio o concubinato, tienen la obligación de reconocer a sus hijos o hijas.
+
+> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
+
+Presunción de filiación
 
 ###### Artículo 227.
 
-Las sociedades mercantiles que diseñan administran, registran, promuevan, medien y proporcionen las plataformas tecnológicas y aplicaciones digitales para que los particulares utilicen para prestar el servicio a que se refiere esta Sección, deberán contar con registro ante el Instituto para efectos de vigilancia, operación y seguridad de los usuarios en territorio estatal, así como el cumplimiento de las obligaciones que establece la presente Ley y su Reglamento.
+Se presumen hijos o hijas del padre, salvo prueba en contrario, los nacidos dentro de los trescientos días siguientes a la cópula.
+
+El hijo o hija, o su tutor, pueden sostener, en tales casos, la paternidad de quien la desconoce.
+
+Presunción de paternidad en caso de nulidad o inexistencia de matrimonio
 
 ###### Artículo 228.
 
-El registro a que se refiere el artículo anterior se efectuará con una vigencia de 10 años para lo cual se expedirá la Constancia respectiva, debiéndose refrendar la misma anualmente un mes antes de que expire su vigencia; para la realización de dicho trámite, las sociedades mercantiles interesadas deberán presentar la solicitud de trámite ante el Instituto.
+Declarado nulo o inexistente el matrimonio, haya habido buena o mala fe de los cónyuges al celebrarlo, los hijos o hijas habidos durante la unión se presumirán de ambos cónyuges.
 
-El registro será a través de su representante legal, el cual es intransferible y no generará derechos reales de ninguna clase a favor de otras sociedades mercantiles; las constancias resultado del registro son inembargables e inalienables, los actos mediante los cuales se pretendan gravar o enajenar serán nulos de pleno derecho.
+### CAPÍTULO III. De la Impugnación de la Maternidad o de la Paternidad
 
-### CAPÍTULO IV. DE LOS SINIESTROS DE TRÁNSITO
+Derecho de audiencia
 
 ###### Artículo 229.
 
-Las sociedades mercantiles que diseñen, administren, registren, promuevan, operen, medien y proporcionen las plataformas tecnológicas y aplicaciones digitales, para que los particulares presten el servicio a que se refiere este Capítulo, tendrán las obligaciones siguientes:
+En los juicios de impugnación de la paternidad o la maternidad, deben ser oídos, según el caso, el padre, la madre y el hijo o hija, a quien, si fuere menor de edad, se le debe proveer de un tutor interino.
 
-I. Tener políticas y prácticas claras de competencia leal, inclusión, respeto y de seguridad de los usuarios del servicio y personas conductoras que utilicen las plataformas;
+En estos juicios el juez debe atender el interés superior de las niñas, niños y adolescentes.
 
-II. Coadyuvar con las autoridades competentes ante la probable comisión de conductas delictivas, proporcionando oportunamente la información que le sea solicitada por escrito por la autoridad competente;
-
-III. Capacitar a las personas conductoras que ofrezcan el servicio de transporte especializado, en protección de la seguridad e integridad tanto de los conductores como de las personas usuarias que contratan el servicio de traslado;
-
-> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
-
-IV. A que el número de vehículos que circulen y que presten el servicio en territorio estatal, a que se refiere esta Sección, sean conforme a las medidas de control que determinen las autoridades competentes como medida de contención al impacto ambiental, urbano, tráfico vehicular, seguridad vial y/o el equilibrio entre los demás modos de transporte;
-
-> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
-
-V. Podrán generar en conjunto con el Instituto y las demás autoridades competentes, encuestas y estudios que ayuden a mejorar la calidad del servicio de la modalidad y la experiencia de viaje de las personas usuarias;
-
-VI. Garantizar que todos los vehículos que presten el servicio de transporte especializado a través de su plataforma tecnológica mediante aplicación digital cuenten con seguro de cobertura amplia. En caso contrario y de ocurrir un siniestro de tránsito, el conductor y propietario del vehículo que preste el servicio de transporte especializado respectivo, serán responsable solidariamente de los daños ocasionados atribuibles al conductor;
-
-VII. Los vehículos que presten el servicio de transporte especializado a través de plataforma tecnológica mediante aplicación digital deberán portar en lugar visible el distintivo que el Instituto proporcione durante el tiempo en que se encuentre operando previo el pago del derecho correspondiente;
-
-> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
-
-VIII. Proporcionar al Instituto, el registro total de los vehículos, propietarios, asociados, afiliados o inscritos con ese carácter o similar y operadores que utilicen su plataforma tecnológica a través de la aplicación digital respectiva, así mismo, los que han sido dados de alta, baja y las causas de esta última; en dicho padrón se deberá establecer la cantidad de viajes pagados, así como su costo unitario, el registro de siniestros de tránsito cuando ocurran, todo esto actualizado de manera mensual; y,
-
-IX. A que toda la Información generada tanto por el registro en la plataforma tecnológica como por la contratación de la prestación del servicio de transporte especializado deberá ser resguardada conforme a la Ley de Protección de Datos Personales en Posición de Sujetos Obligados del Estado de Michoacán de Ocampo, poniendo a disposición del usuario el aviso de privacidad.
+Impugnación de la paternidad
 
 ###### Artículo 230.
 
-Los vehículos que presten el servicio de transporte especializado a que se refiere la presente Sección, deberán estar al corriente del pago de impuestos, derechos y contribuciones económicas que, con motivo de la prestación del servicio de transporte especializado a que se refiere esta Sección y se establezcan en la (sic) Leyes estatales de la materia, estar registrados y contar con las placas expedidas por el Gobierno del Estado.
+En los casos en que el progenitor tenga el derecho de contradecir la paternidad, éste debe impugnarla, dentro los sesenta días siguientes a aquél en que tuvo conocimiento del embarazo o del nacimiento, en su caso.
+
+Esta acción procederá, aun cuando el supuesto hijo o hija no hubiese nacido todavía, siempre que las pruebas biológicas a las que pudiera recurrirse para determinar la paternidad, no pongan en riesgo la vida del feto ni de la madre.
+
+Acción para reclamar la paternidad durante el matrimonio o el concubinato
 
 ###### Artículo 231.
 
-El servicio de transporte especializado bajo demanda a través de redes móviles mediante plataformas tecnológicas y aplicaciones digitales, se prestará únicamente a las personas usuarias que soliciten el servicio y que previamente estén registradas en la plataforma digital; por lo que, queda estrictamente prohibido a los operadores de este tipo de servicio de transporte, prestarlo de manera diversa al medio señalado anteriormente, es decir solo y únicamente a la contratación a través de la plataforma tecnológica y aplicación digital, debiendo abstenerse de hacer bases, sitios o similares en vías estatales o municipales de comunicación, ofertar sus servicios de transporte de manera directa en estas o aceptar la prestación del servicio en la calle.
+Mientras viva el progenitor, únicamente él puede reclamar la filiación del hijo o hija nacido durante el matrimonio o el concubinato, o dentro de los trescientos días de disuelta la unión.
+
+Impedimentos del cónyuge o concubinario para desconocer la paternidad
 
 ###### Artículo 232.
 
-Las personas operadoras que presten el servicio de transporte especializado, a que se refiere la presente Sección, deberán cumplir con los requisitos que establezca el Reglamento de la presente Ley.
+El progenitor no puede impugnar la paternidad del hijo o hija nacido dentro del matrimonio o del concubinato, aunque haya sido concebido con anterioridad a la unión, si:
+
+I. Se probare que, antes de casarse o unirse en concubinato, tuvo conocimiento del embarazo de su futura cónyuge o concubina;
+
+II. Concurrió al levantamiento del acta de nacimiento, o
+
+III. Hubiere reconocido expresamente por suyo al hijo o hija de su cónyuge o concubina.
+
+Impugnación de la maternidad
 
 ###### Artículo 233.
 
-Los vehículos particulares que se utilicen para prestar el servicio de transporte especializado, a que se refiere la presente Sección, estarán sujetos al Permiso que otorgue el Instituto, vehículos que podrán ser o no propiedad del operador y deberán cumplir con las obligaciones que establece la presente Ley y su Reglamento.
+La maternidad puede ser impugnada hasta antes de que el hijo o hija alcance la mayoría de edad, cuando la mujer funja como la madre del hijo o hija y no lo sea.
+
+Casos de suposición de parto o suplantación del niño o niña
 
 ###### Artículo 234.
 
-Se entiende por Permiso el documento otorgado por el Instituto previo el pago de los derechos respectivos, el cual, consiste en el acto administrativo por el que, se confiere a una persona física o moral una autorización para prestar el servicio de transporte especializado de personas, a que se refiere la presente Sección, de conformidad a las disposiciones previstas en la presente Ley y su Reglamento, y demás disposiciones aplicables.
+En caso del artículo anterior, si hubiere suposición de parto, suplantación del niño o niña, o exista cualquier conflicto o duda sobre la filiación, pueden realizarse las pruebas biológicas correspondientes y además son admisibles todos los medios de prueba.
 
-El Permiso al que se refiere el párrafo anterior tendrá una vigencia de 1 año, el cual deberá refrendarse anualmente mediante el pago de los derechos correspondientes; a falta de este último o cuando se incumpla con alguna de las disposiciones de esta Ley y su Reglamento será causa de su cancelación.
+Esta acción pueda ser ejercida solo por la madre o por quienes fungen como progenitores del hijo o hija.
+
+Lo anterior, sin perjuicio de que cualquier persona pueda hacer del conocimiento del Ministerio Público, la comisión de un hecho posiblemente delictuoso.
+
+Derecho de los hijos o hijas de impugnar la maternidad o paternidad
 
 ###### Artículo 235.
 
-El Permiso a que se refiere la presente Sección no crea otro tipo de derecho salvo los que se describen en el propio documento, referente al derecho a prestar el servicio en las vías estatales y municipales de comunicación, de acuerdo con las disposiciones que se establecen en la presente Ley, su Reglamento y demás disposiciones aplicables.
+Los hijos o hijas pueden impugnar la paternidad o la maternidad, por sí o por medio de un representante legal, en todo momento.
+
+Padre o madre en estado de interdicción
 
 ###### Artículo 236.
 
-Son obligaciones de los permisionarios que presten el servicio de transporte especializado bajo demanda a través de redes móviles mediante plataformas tecnológicas y aplicaciones digitales, las siguientes:
+Si quien funge como madre o padre está bajo tutela por encontrarse impedido para hacer uso de su voluntad, la impugnación puede ser planteada por su tutor y si éste no la ejercita, pueden hacerlo aquéllos después de que legalmente termine el estado de interdicción.
 
-I. Prestar el servicio conforme a los términos que se establece (sic) en el permiso correspondiente y el Reglamento de la presente Ley;
-
-II. Mantener en el vehículo en un lugar visible el distintivo que los identifique;
-
-III. Garantizar que el vehículo sea operado por personas que cuente con la licencia correspondiente, emitida por el Gobierno del Estado, previo cumplimiento de los requisitos que establezca la presente Ley, su Reglamento y demás disposiciones aplicables;
-
-IV. Integrar los expedientes de cada uno de sus operadores y proporcionar al Instituto la información que le sea requerida;
-
-V. Inscribir ante el Instituto los vehículos que presten el servicio y que estén registrados en la Plataforma Digital de la sociedad mercantil respectiva; y,
-
-VI. Las demás que disponga la presente Ley, su Reglamento y otras disposiciones aplicables.
-
-> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
+Transmisión del derecho de impugnar la paternidad o la maternidad
 
 ###### Artículo 237.
 
-La modalidad del Sistema Estatal de Transporte que requiere Constancia y permiso es el Servicio de Transporte bajo demanda a través de redes móviles mediante plataformas tecnológicas y/o aplicaciones digitales conforme a esta Ley y su Reglamento.
+El derecho de impugnar la paternidad o la maternidad sólo se trasmite a los herederos cuando quien funja como madre o padre, hubiera muerto padeciendo algún trastorno mental; este derecho puede ser ejercido dentro de los seis meses siguientes a la declaración de herederos.
 
-I. Servicio de Transporte bajo demanda a través de redes móviles mediante plataformas tecnológicas y/o aplicaciones digitales.
+Derecho de los herederos de continuar
 
 ###### Artículo 238.
 
-El Servicio de Transporte Público de Carga concesionado para efectos de la presente Ley y su Reglamento se prestará en las siguientes modalidades:
+Los herederos pueden continuar el juicio en el que el padre o la madre hubieran impugnado la maternidad o la paternidad dentro del mismo plazo señalado en el párrafo anterior.
 
-I. Carga General. Es el que se utiliza para el transporte de productos, bienes y/o mercancías no peligrosas, empleando vehículos con capacidad superior a las 3.5 toneladas;
-
-II. Carga de materiales para la construcción. Es el que se utiliza para el transporte y acarreo de materiales de construcción, empleando vehículos con plataforma, camión de volteo o vehículos con capacidad de más de 3.5 toneladas;
-
-III. Grúas, arrastre, salvamento y remolque. Es el que se utiliza para el transporte, traslado o remolque de vehículos, ya sea en plataforma, por elevación o arrastre, sujeto a las tarifas establecidas en la Ley de Hacienda, la Ley de Ingresos para el Estado de Michoacán de Ocampo, y las disposiciones emitidas por la SSP;
-
-IV. Pipas o Auto-tanques. Tiene como finalidad el transporte de líquidos o sustancias no peligrosas en vehículos con capacidad superior a tres mil litros;
-
-V. Carga Ligera. Es el que se utiliza para el transporte de productos, bienes y/o mercancías no peligrosas, empleando vehículos con capacidad inferior a 3.5 toneladas; y,
-
-VI. Carga especial. Es el transporte de carga que se presta en contenedores o aditamentos especiales que requieren de condiciones, equipo, adecuaciones o medios para aislar, resguardar, conservar y proteger la carga, así como evitar cualquier riesgo a terceros.
-
-Las modalidades de servicio a que se refiere el presente artículo no estarán sujetas a horario ni itinerario y tarifas con excepción de la Modalidad de grúas, arrastre, salvamento y remolque.
-
-> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
-
-La modalidad de servicio de Pipas o Auto-tanques, será concesionado, por lo que no estará sujeta a las reglas de operación por permiso.
+Impedimento de los herederos para contradecir la paternidad
 
 ###### Artículo 239.
 
-Para la prestación del servicio público de carga, en cualquiera de las modalidades, se requerirá de concesión otorgada por el Titular del Poder Ejecutivo del Estado, la cual, podrá otorgarse a personas físicas o morales.
+Excepto en el caso del artículo anterior, los herederos del progenitor, no pueden contradecir la paternidad de un hijo o hija nacido dentro del matrimonio o concubinato, cuando el progenitor no haya planteado esta demanda.
 
-Queda exceptuado del requisito de concesión el transporte de carga a que se refiere el presente artículo siempre y cuando se realice de manera ocasional, no remunerado y por particulares.
+Si el progenitor muere dentro del término previsto en el artículo 233 de este Código, sin hacer la reclamación, los herederos tienen sesenta días para demandar o excepcionarse, contados desde aquel en que el hijo o hija haya sido puesto en posesión de los bienes del progenitor o desde que se vean afectados por el hijo o hija en la posesión de la herencia.
+
+Derecho del hijo o hija para demostrar la paternidad o la maternidad
 
 ###### Artículo 240.
 
-El Instituto coordinará las acciones de gestión y control de las modalidades del Servicio de Transporte de Carga, para lograr la prestación del servicio público seguro y de calidad, conforme a las normas técnicas establecidas para tal efecto.
+El hijo o hija respecto del cual se impugnó la paternidad o la maternidad o, en su caso, su representante legal, puede demostrar por vía de excepción que el vínculo biológico existe, y en caso de acreditarse, la relación paterno-filial queda convalidada.
 
-### CAPÍTULO V. DE LAS LICENCIAS Y PERMISOS PARA CONDUCIR
+### CAPÍTULO IV. De la Investigación de la Filiación y los Efectos de la Vinculación de la Filiación
+
+Derecho a conocer la paternidad y maternidad
 
 ###### Artículo 241.
 
-Los vehículos utilizados para el servicio de transporte público de carga deberán ser aptos para tal efecto, permitiendo el traslado de la carga en condiciones de seguridad adecuada y óptima, y en caso de ser necesario, equipado con estructura básica para el embalaje.
+Está permitido al hijo o hija y a sus descendientes por sí o por medio de su representante legal, investigar la paternidad y la maternidad, en cualquier tiempo y sin ningún requisito previo, independientemente del estado civil de la persona demandada.
 
-Todas las unidades que presten el servicio deberán cumplir, además, con los lineamientos y características técnicas y de operación que para cada modalidad determine el Reglamento de la presente Ley.
+Solicitud de investigación de la paternidad y la maternidad
 
 ###### Artículo 242.
 
-Los vehículos para prestar el servicio público de transporte de carga, estarán sujetos a la aprobación de la revista físico-mecánica realizada por el Instituto, previo el pago de los derechos correspondientes, independientemente del año de su producción y conforme a lo establecido en la presente Ley, su Reglamento y demás disposiciones aplicables.
+La acción contenida en el artículo anterior es imprescriptible.
+
+Acción para la investigación de paternidad o maternidad
 
 ###### Artículo 243.
 
-Los prestadores del servicio de transporte en sus diversas modalidades a que se refiere el presente Capítulo, podrán asociarse o celebrar convenios de coordinación para brindar un mejor servicio y reducir los costos de operación; dichas asociaciones o convenios se harán del conocimiento del Instituto para efectos de su registro y estarán sujetos a las disposiciones de la Ley de la materia.
+La acción para la investigación de la paternidad o de la maternidad puede ejercitarse en forma autónoma o conjuntamente con la reclamación de la herencia o de alimentos.
+
+Prueba de la paternidad y de la maternidad
 
 ###### Artículo 244.
 
-En las modalidades del servicio del transporte a que se refiere el presente capítulo, las personas usuarias convendrán libremente con los prestadores del servicio las tarifas y formas de pago; salvo en la modalidad de grúas, arrastre, salvamento y remolque.
+La investigación de la paternidad y de la maternidad se demuestra a través de las pruebas biológicas.
+
+Indicios de filiación
 
 ###### Artículo 245.
 
-Los operadores del servicio público de transporte de carga, podrán negar la prestación del servicio cuando los materiales pongan en riesgo la seguridad pública o desconozca la naturaleza de la carga, sin perjuicio de la vista que deba darse a la autoridad competente.
+Constituyen indicios de la filiación y por tanto, puede fundarse en ellos la solicitud de investigación de la paternidad o de la maternidad:
+
+I. El incesto, estupro o violación de la madre cuando la época del delito coincida con la concepción;
+
+II. El hecho de que el hijo o hija haya sido concebido durante el tiempo en que la madre habitaba públicamente bajo el mismo techo con el pretendido padre, aunque no se hubiera constituido todavía el concubinato;
+
+III. La posesión de estado de hijo o hija del padre o la madre supuestos, y
+
+IV. La ministración de alimentos por cualquiera de los probables progenitores.
+
+Justificación de la posesión de estado
 
 ###### Artículo 246.
 
-La autoridad estatal o municipal en el ámbito de su competencia, podrán (sic) establecer los horarios, sitios o bases de operación y rutas determinadas para el tránsito de vehículos de carga, conforme a la clasificación de las vialidades señaladas en la presente Ley, considerando el tipo de carga, peso, dimensiones, flujo vehicular y afectación al interés público.
+La posesión de estado de hijo o hija se justifica demostrando, por los medios ordinarios de prueba, que el hijo o hija ha sido tratado por el presunto padre, madre o por su familia como hijo o hija, le ha proporcionado los medios para la satisfacción de sus necesidades materiales, afectivas, de salud, educación y recreativas.
+
+Presunción de paternidad o maternidad en caso de negativa a sometimiento de pruebas biológicas
 
 ###### Artículo 247.
 
-Para los efectos de esta Ley y su reglamento, la concesión es el acto jurídico-administrativo mediante el cual el Ejecutivo del Estado, en el ámbito de sus respectivas competencias, otorga de manera temporal a una persona física o moral la facultad de prestar el servicio de transporte público en cualquiera de sus modalidades, mediante una remuneración.
+Siempre que se ejercite una acción para investigar la paternidad o de la maternidad, se debe presumir la paternidad o maternidad del demandado cuando éste se niegue a someterse a las pruebas biológicas respectivas.
 
-El Ejecutivo del Estado, cuando el interés público lo requiera, determinará el número de concesiones o permisos que se otorguen a Organismos públicos descentralizados, cooperativas, ayuntamientos, ejidos, comunidades o a uniones de ejidos y comunidades.
+Fijación de alimentos
 
 ###### Artículo 248.
 
-Las modalidades del Sistema Estatal de Transporte que requieren concesión serán las siguientes:
+Cuando en la acción de investigación de la paternidad o la maternidad se alegue y pruebe cualquiera de las hipótesis previstas en el artículo 245 de este Código, o el demandado se niegue injustificadamente a someterse a la pericial genética, el juez, de oficio, al dictar la sentencia respectiva, debe fijar alimentos al hijo o hija a cargo del demandado en caso de que fuera necesario.
 
-I. Público de Movilidad Activa.
-
-a) Bicicletas públicas
-
-II. Público de Movilidad Motorizada.
-
-A) Público de Personas:
-
-a) Sistema de Transporte Masivo o Semi-masivo.
-
-1. Ruta Troncal;
-
-2. Ruta Integrada;
-
-3. Ruta Alimentadora; y,
-
-4. Rutas Auxiliares.
-
-b) Transporte por Cable:
-
-1. Teleférico; y,
-
-2. Funicular.
-
-c) Transporte Colectivo de baja y media capacidad:
-
-1. Urbano;
-
-2. Suburbano;
-
-3. Foráneo;
-
-4. Metropolitano; y,
-
-5. Regional.
-
-d) Transporte de Taxi:
-
-1. Taxi de Sitio;
-
-2. Radio Taxi;
-
-3. Taxi Libre;
-
-4. Servicio de Taxi Metropolitano; y,
-
-5. Taxi Ejecutivo Público.
-
-e) Transporte Mixto; y,
-
-f) Transporte Turístico.
-
-B) Público de Carga:
-
-a) De carga general;
-
-b) De materiales para la construcción;
-
-> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
-
-c) De grúas, arrastre, salvamento y remolque; pipas y auto-tanques;
-
-> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
-
-d) De carga ligera;
-
-e) De carga especial; y,
-
-f) Otros.
-
-A su vez, podrá ser objeto de concesión la infraestructura e instalación de operación, maniobra, resguardos, mantenimiento, integración de otros modos de transporte y sistemas de cobro para la prestación del servicio.
+Reconocimiento o declaración de paternidad o maternidad
 
 ###### Artículo 249.
 
-Podrán ser sujetos de concesión del servicio del transporte público las siguientes personas:
+Por el reconocimiento o declaración de la paternidad o maternidad, el hijo o hija entra a formar parte de las familias consanguíneas de sus progenitores, para todos los efectos legales.
 
-I. Morales y cuyo objeto social sea la prestación del servicio de transporte público en el Estado; y,
+### CAPÍTULO V. Del Reconocimiento de los Hijos o Hijas
 
-II. Personas físicas, que se encuentren debidamente registradas ante el Servicio de Administración Tributaria, podrán obtener una concesión; aquellas que estén inscritas bajo un régimen fiscal con actividad comercial, podrán obtener hasta 5 concesiones de servicio de transporte público, atendiendo las disposiciones de esta Ley y su Reglamento.
-
-### CAPÍTULO VI. DE LAS PLACAS DE CIRCULACIÓN
+Reconocimiento de los hijos o hijas
 
 ###### Artículo 250.
 
-Los tipos de concesión del transporte público serán:
+Los hijos o hijas tienen derecho a llevar los apellidos de ambos progenitores. Cuando se trate de hijos o hijas cuyos progenitores no estén unidos en matrimonio o concubinato, deben llevar los apellidos de quienes los presenten en el Registro Civil como descendientes suyos. En estos casos, cuando sólo uno de los progenitores los presente llevarán sus apellidos o apellido, si sólo tuviere uno.
 
-I. Concesión de ruta, corredor o zona;
-
-II. Concesión individual; y,
-
-III. Concesión para mantenimiento y cuidado de infraestructura e instalaciones.
-
-Cuando se autoricen nuevos sistemas o modalidades de transporte que, de origen, no cuenten con concesiones individuales, la concesión de ruta, corredor o zona que otorgue el Titular del Ejecutivo del Estado, establecerá la cantidad de unidades de transporte que ampare la concesión y demás condiciones que se establezcan en la misma.
+Reconocimiento por parte de uno de los progenitores
 
 ###### Artículo 251.
 
-Los derechos sobre concesiones y permisos otorgados por el Titular del Ejecutivo del Estado podrán ejercitarse mediante mandato, arrendarse, cederse, permutarse, fusionarse en los casos de constitución de sociedades, previa autorización del Instituto y, no podrán enajenarse, gravarse o hipotecarse. En consecuencia, se tendrán como nulos de pleno derecho los contratos, operaciones o actos que se realicen en contravención a este precepto.
+En caso de que uno sólo de los cónyuges o personas unidas en concubinato acuda a registrar a su hijo o hija, podrán colocarse los apellidos del cónyuge, concubina o concubinario ausente, siempre que se presente el acta de matrimonio o resolución judicial respectiva o, en su caso, el documento público en que se otorgue el consentimiento para el registro.
 
-> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
-
-Las personas Morales están impedidas para donar, enajenar o permutar total o parcialmente las concesiones a personas físicas; salvo lo dispuesto en la presente Ley y su Reglamento.
+Formas de reconocimiento de los hijos o hijas
 
 ###### Artículo 252.
 
-Las personas concesionarias autorizadas deberán solicitar la constancia de inscripción del gravamen en el Registro Estatal del Transporte, la cual deberá expresar los antecedentes de la concesión.
+Los progenitores pueden reconocer a sus hijos o hijas por alguna de las formas siguientes:
+
+I. En la partida de nacimiento, ante el Oficial del Registro Civil;
+
+II. Por escritura pública;
+
+III. Por testamento;
+
+IV. Por confesión judicial directa y expresa, y
+
+V. En el acta de matrimonio de los progenitores, aunque el hijo o hija haya fallecido, si éste deja descendientes.
+
+Potestad de ambos progenitores para elegir el orden de los apellidos
 
 ###### Artículo 253.
 
-Estarán impedidos para obtener una concesión para prestar el servicio público de transporte:
+Cuando ambos progenitores acudan ante el Oficial del Registro Civil a registrar a un hijo o hija pueden escoger, de común acuerdo, el orden en que se colocarán los apellidos de su hijo o hija. En caso de que no exista acuerdo respecto del orden que deben seguir los apellidos del hijo o hija, se debe levantar el acta figurando en primer término el apellido paterno.
 
-I. Toda persona física que desempeñe un empleo, cargo o comisión y que implique un conflicto de interés para su otorgamiento y operación en la prestación del servicio de alguno de los órganos del Estado; así como, cónyuges, ascendientes, descendientes y parientes consanguíneos hasta el segundo grado, de los servidores públicos a que se refiere esta fracción;
+Las reglas, requisitos y demás formalidades relacionadas con el orden de los apellidos de los hijos o hijas, se sujetarán a lo establecido por la legislación que regula el Registro Civil del Estado.
 
-II. Toda persona moral que se encuentre impedida en los supuestos que establece la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo;
+El acuerdo de los padres respecto al orden de los apellidos, regirá para los demás hijos del mismo vínculo.
 
-III. Las personas físicas que hayan sido condenadas por delito doloso relacionado con el transporte público;
+Cuando en algún trámite de cualquier especie, se requiera específicamente el apellido paterno y el materno, se deberán considerar como primero y segundo apellido el orden en que los padres hayan optado colocarlos, en términos de lo dispuesto en el presente artículo.
 
-IV. Las personas físicas que ya cuenten con 5 concesiones;
-
-V. Las personas a quienes se les haya revocado una concesión para la prestación del servicio de transporte público en cualquiera de sus modalidades en los términos de esta Ley;
-
-VI. Las personas morales cuyo objeto social no sea la prestación del servicio de transporte público; y,
-
-VII. A los extranjeros y personas menores de edad.
+Derechos del hijo o hija reconocido
 
 ###### Artículo 254.
 
-Cualquier vehículo que opere con concesión del servicio de transporte público deberá contar con póliza de seguro de cobertura amplia, expedido por compañía de seguros debidamente registrada ante la Comisión Nacional de Seguros y Fianzas o en su caso contar con la constancia de cobertura que le expida una Sociedad o Unión Mutualista, fondo de garantía o similar que cubra cualquier responsabilidad derivada de siniestro de tránsito y que se encuentre debidamente registrada ante el Instituto de conformidad a las disposiciones de la presente Ley, su Reglamento y demás normativa aplicable.
+El hijo o hija reconocidos por el padre o la madre o por sentencia judicial, en su caso, tiene derecho a:
+
+I. Llevar el primer apellido paterno o materno;
+
+II. Ser alimentado por sus progenitores y demás parientes obligados;
+
+III. Percibir la porción hereditaria que le corresponda, y
+
+IV. Las demás funciones protectoras y normativas derivadas del vínculo.
+
+Reconocimiento hecho en escritura pública
 
 ###### Artículo 255.
 
-Las personas morales que pretendan obtener concesiones para operar servicios de transporte, deberán demostrar, que cuentan con la capacidad de prestar el servicio en términos de lo establecido en la presente Ley, su Reglamento y demás disposiciones aplicables.
+Si el reconocimiento se hiciere por escritura pública o en testamento, el Notario ante quien se realice el otorgamiento o las autoridades judiciales ante las que se hizo el reconocimiento, en su caso, deben remitir el documento en que conste el acto al Oficial del Registro Civil que corresponda, para que éste proceda a levantar el acta relativa. Si se trata de testamento, el juez o el Notario ante quien se tramite la testamentaría, una vez declarada o reconocida la validez del testamento, debe remitir al Oficial del Registro Civil el reconocimiento.
+
+Las inscripciones que en relación al reconocimiento de hijo o hija ordene el juez, deben ser gratuitas, siempre que el solicitante de dicho reconocimiento acredite que carece de recursos económicos.
+
+Irrevocabilidad del reconocimiento
 
 ###### Artículo 256.
 
-Las concesiones deberán otorgarse por el Ejecutivo del Estado previo estudio técnico y convocatoria pública de acuerdo a lo establecido en la presente Ley y su Reglamento.
+El reconocimiento no es revocable y si se otorga por medio de testamento, la revocación de éste no afecta el reconocimiento de los hijos o hijas.
+
+Requisitos para el reconocimiento de hijos o hijas por parte adolescentes
 
 ###### Artículo 257.
 
-Para la modernización, actualización y migración a sociedades civiles o mercantiles de transporte concesionado, el Instituto fomentará y propondrá los mecanismos necesarios, con la finalidad de fomentar el desarrollo, acceso a herramientas financieras de crédito y propiciar un plano de igualdad entre los diversos sectores del transporte evitando prácticas monopólicas o competencia desleal, que beneficien a la sociedad civil.
+Pueden reconocer a sus hijos o hijas las personas que tengan al menos dieciséis años de edad, más la edad del hijo o hija que ha de ser reconocido.
+
+Los que no tengan dicha edad pueden reconocer a sus hijos o hijas con la autorización de su tutor o quien ejerza sobre él la patria potestad o del juez.
+
+Nulidad del reconocimiento
 
 ###### Artículo 258.
 
-El Instituto, podrá concesionar o prestar de manera directa el servicio de transporte colectivo, celebrando en este caso, contratos o convenios con personas físicas y morales únicamente para que proporcionen los vehículos, los recursos humanos y/o los recursos materiales necesarios para la prestación directa del servicio.
+El reconocimiento puede anularse si el que lo hizo alega error, engaño o violencia para efectuarlo; en estos casos, deben practicarse de oficio las pruebas biológicas que excluyan o determinen la paternidad o maternidad de quien solicita la anulación.
+
+Nulidad reclamada por niñas, niños o adolescentes
 
 ###### Artículo 259.
 
-En el Estado las concesiones contarán con su vigencia de la siguiente manera:
+Si el que reclama la nulidad del reconocimiento es una niña, niño o adolescente, pueden intentar la acción hasta cuatro años después de alcanzar la mayoría de edad.
 
-I. La concesión de ruta, corredor o zona, podrá contar con una vigencia mínima de 10 años, la cual podrá renovarse hasta por un periodo igual al autorizado inicialmente, bajo los términos y lineamientos que le establezca el Ejecutivo del Estado;
-
-II. Concesión de persona moral y persona física del servicio público de transporte, su vigencia será de un año, la cual podrá ser renovada cada año fiscal previo el pago de los derechos correspondientes, y requisitos que señala la presente Ley y su Reglamento; y,
-
-III. La concesión o permiso de explotación de infraestructura e instalaciones, la vigencia estará en función del proyecto y sus objetivos.
-
-Para los casos a que refiere el presente artículo, las concesiones deberán revalidarse cada año fiscal previo el pago de los derechos respectivos que señala la Ley de Ingresos y de Hacienda del Estado de Michoacán de Ocampo y cumplimiento de los requisitos señalados en la presente Ley, su Reglamento y demás normativa aplicable.
+Reconocimiento del hijo o hija
 
 ###### Artículo 260.
 
-No se considera prestación del servicio por un tercero, cuando la misma se derive de la relación laboral entre la persona concesionaria y la persona operadora de la unidad.
+Puede reconocerse al hijo o hija que no ha nacido, si ya fue concebido, y al que ha muerto, siempre que haya dejado descendencia.
+
+Reconocimiento conjunto o separado
 
 ###### Artículo 261.
 
-Permiso de servicio público o especializado es el acto unilateral por medio del cual el Ejecutivo del Estado otorga autorización hasta por un año susceptible de renovación, a una persona física o moral, para prestar mediante una remuneración, el servicio de transporte de personas o cosas, así como la autorización temporal para la instalación y funcionamiento de sitios, bases de servicio y lanzaderas de servicio de transporte de pasajeros en las vías públicas de jurisdicción estatal en vehículos autorizados conforme a esta Ley y su Reglamento y previo pago de derechos correspondiente.
+El padre o la madre pueden reconocer al hijo o hija, conjunta o separadamente, en cualquiera de las formas previstas en este Código.
+
+Impedimento para revelar nombre del otro progenitor
 
 ###### Artículo 262.
 
-Las modalidades del Sistema Estatal de Transporte que requieren permisos son:
+Tratándose de hijos o hijas nacidos cuyos progenitores no estén unidos en matrimonio o concubinato y el reconocimiento se haga separadamente, no pueden revelar en el acto de reconocimiento el nombre de la persona con quien fue habido, ni exponer ninguna circunstancia por la que aquella pueda ser identificada, a menos que se trate de hijos o hijas reconocidos previamente por uno de los progenitores; si lo revelaran, no debe quedar constancia de los datos que en ese sentido se hubieran exteriorizado, siendo ésta responsabilidad del Notario o de la autoridad ante la que se hubiere efectuado el reconocimiento.
 
-1. Transporte Escolar;
-
-2. Transporte de Personal;
-
-3. Transporte Agrícola;
-
-> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
-
-4. Transporte de paquetería exprés;
-
-5. Transporte Funerario;
-
-6. Bicitaxi; y,
-
-7. Bicicletas Colectivas.
+Reconocimientos del descendiente antes o durante del matrimonio
 
 ###### Artículo 263.
 
-Estarán impedidos para obtener permisos, quienes se encuentren dentro de los supuestos de impedimentos para las concesiones que se mencionen en la presente Ley, el Reglamento y demás disposiciones normativas aplicables.
+El hombre o la mujer casados puede reconocer sin el consentimiento de su cónyuge al descendiente habido antes o durante de su matrimonio con persona distinta de su cónyuge, pero no tiene derecho a llevarlo a vivir al domicilio conyugal si no obtiene previamente el consentimiento expreso del cónyuge.
+
+> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
+
+Reconocimiento del descendiente de una mujer casada
 
 ###### Artículo 264.
 
-Los permisos emergentes se otorgarán por el Instituto, cuando exista una necesidad al estar rebasada la capacidad de las personas prestadoras del servicio de transporte público; a fin de satisfacer las necesidades del público usuario y, podrán ser:
+La filiación de los hijos o hijas nacidos fuera de matrimonio resulta, en relación con la madre, del solo hecho del nacimiento. Respecto del padre solo se establece por el reconocimiento voluntario o por una sentencia que declare la paternidad.
 
-1. Permiso emergente eventual; y,
-
-2. Permiso emergente extraordinario.
-
-El permiso emergente eventual es el que se otorga para cubrir necesidades de carácter temporal en el servicio de transporte público en las modalidades del Transporte Masivo o Semimasivo que no estén incorporados al Sistema Estatal de Transporte.
-
-Permiso emergente extraordinario es el que se otorga cuando se ve rebasada de manera extraordinaria o temporal la capacidad para la prestación del servicio de transporte público concesionario, que requiera ser cubierta dicha demanda, a causa de un evento de carácter natural, social, cultural, de salud o por déficit de los vehículos de dicho servicio, durante el tiempo que dure la necesidad, este permiso no requiere previamente la elaboración de estudios técnicos.
+Reconocimiento de descendientes en línea recta de primer grado, mayores de edad
 
 ###### Artículo 265.
 
-Las concesiones, permisos y constancias no crean derechos reales, otorgan únicamente frente a la administración y sin perjuicio de terceros, el derecho a explotar los servicios de transporte a que se refiere la presente Ley, su Reglamento, así como en las diversas disposiciones aplicables, con el fin de utilizar las vías estatales y municipales de comunicación y conforme al documento que se otorgue.
+El hijo o hija mayor de edad no puede ser reconocido sin su consentimiento.
 
-> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
+Reconocimiento de descendientes en línea recta de primer grado menores de edad
 
 ###### Artículo 266.
 
-Los derechos sobre concesiones y permisos otorgados por el Ejecutivo del Estado, podrán arrendarse, donarse, enajenarse, embargarse o permutarse total o parcialmente, conforme a la fracción II del Artículo 249, en consecuencia, se tendrán como nulos de pleno derecho los contratos, operaciones o actos de las demás que se realicen en contravención a este precepto.
+Si el hijo o hija al que se pretende reconocer es menor de edad debe ser escuchado cuando a criterio del juez, aquel esté en condiciones de formarse un juicio propio.
 
-> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
-
-En el caso de las personas morales, están impedidas para donar, enajenar o permutar total o parcialmente cualquier tipo de concesión a personas físicas; salvo las donaciones que se realicen por reconocimiento a los años en la prestación del servicio de transporte público en términos de la presente Ley y su Reglamento.
-
-> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
-
-El Ejecutivo del Estado, además, podrá autorizar la transmisión de los derechos o el arrendamiento de la concesión, cuando el concesionario o permisionario sea persona física y se encuentre incapacitado física o mentalmente, debidamente acreditado con certificado médico de institución oficial del Estado e igualmente cuando así lo requiera la paz social y el interés público.
+Derecho del hijo o hija reconocido a impugnar
 
 ###### Artículo 267.
 
-Para otorgar concesiones y permisos, el Instituto deberá previamente realizar estudios técnicos que determinen el número y tipo de unidades que sean necesarias para prestar el servicio de transporte en forma eficaz, eficiente seguro y de calidad, debiendo sujetarse a lo establecido en la presente Ley, su Reglamento y demás disposiciones aplicables.
+El hijo o hija menor de edad reconocido, puede impugnar el reconocimiento en cualquier momento, a través de un representante legal, sin perjuicio de que el padre o la madre puedan reclamar ante el juez la existencia del vínculo mediante pruebas biológicas.
+
+Contradicción del reconocimiento
 
 ###### Artículo 268.
 
-La persona física titular de una concesión individual o permiso podrá designar un beneficiario, mayor de edad, que pueda continuar con su operación, la cual deberá cumplir con los requisitos y supuestos señalados en la presente Ley y su Reglamento.
+Cuando la madre o el padre contradigan el reconocimiento hecho, éste queda sin efecto y la cuestión relativa a la paternidad se debe resolver en juicio contradictorio.
 
-Para los efectos de lo anterior, se podrán ceder las concesiones a sus beneficiarios en los siguientes supuestos:
-
-I. Por causa de muerte;
-
-II. Por discapacidad física o mental adquirida;
-
-III. Por declaración judicial de ausencia del titular de concesión; y,
-
-IV. Por aportación de persona física a persona moral.
-
-Los actos de cesión entre particulares en los cuales se documente y acredite la contraprestación económica, será causal de revocación.
+Contradicción del reconocimiento por persona distinta
 
 ###### Artículo 269.
 
-El Instituto publicará lineamientos específicos que detallen los estímulos que existirán por la incorporación de vehículos eléctricos, híbridos, gas natural y demás tecnologías de combustión sustentables para la prestación del servicio de transporte público y especializado en el Estado. Además, establecerá las acciones necesarias para la transición gradual de unidades con tecnologías no contaminantes o de bajas emisiones en los servicios de transporte en sus distintas modalidades, con el fin de que además de ser eficientes y eficaces, garanticen la seguridad de las personas usuarias, los derechos de las personas permisionarias y concesionarias y el cumplimiento de sus obligaciones.
+La persona que cuida o ha cuidado de un niño, niña o adolescente, a quien le ha dado su nombre o permitido que lo lleve; que públicamente lo ha presentado como hijo o hija suyo y ha proveído a su educación y subsistencia, puede contradecir el reconocimiento que otra persona haya hecho de ese niño, niña o adolescente dentro de los sesenta días, contados desde que tuvo conocimiento del mismo.
+
+Reconocimiento de niñas, niños y adolescentes sujetos a protección, guarda o custodia de otras personas
 
 ###### Artículo 270.
 
-Para que los particulares tengan derecho a utilizar con fines comerciales las vías estatales de comunicación o cualquier clase de servicio público conexo a éstas, se requiere tener concesión, permiso o constancia del Ejecutivo del Estado, los cuales se otorgarán con sujeción a esta Ley
+Si la niña, niño o adolescente que se pretende reconocer se encuentra bajo la protección, guarda y custodia de personas que lo acogieron y que es conocido como hijo o hija de éstas, el juez es quien decide a quien corresponde la protección, guarda y custodia de aquél, en atención al interés superior de la niña, niño o adolescente y en consideración a las circunstancias del caso; lo anterior, sin perjuicio de que las personas que hayan acogido a la niña, niño o adolescente puedan contestar la demanda.
 
-Asimismo, y a fin de pertenecer al Sistema Integrado del Transporte, las modalidades que lo incorporen deberán estar constituidos como empresas de transporte y homologarse a los criterios y lineamientos que señale la presente Ley y su Reglamento.
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Derecho de las personas a solicitar la adopción
 
 ###### Artículo 271.
 
-El Ejecutivo del Estado dispondrá lo necesario para que se cuente con un Sistema Integrado de Transporte que permita la incorporación gradual, la articulación física, operacional, informativa, de diseño e imagen, así como el medio de pago del servicio de transporte público descrito en el presente Capítulo; con el objeto de facilitar y promover la intermodalidad en el transporte público.
+Quienes acogieron a la niña, al niño o adolescente pueden acudir a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, a fin de que, por su conducto, sea solicitada la adopción de la niña, del niño o adolescente ante el juez, en caso de que procediere o bien, a fin de que promuevan la pérdida de la patria potestad.
+
+Reconocimiento simultáneo por parte de progenitores que no viven juntos
 
 ###### Artículo 272.
 
-Para la operación de la totalidad de los servicios que se incorporen al Sistema Integrado de Transporte, las concesiones y/o permisos temporales o emergentes a que se refiere la presente Ley y su Reglamento, deberán detallar las condiciones de la prestación de dichos servicios de transporte y conexos, así como las obligaciones asumidas por la administración a cargo de las personas morales, constituyendo la base que permita el efectivo control por parte del Instituto y las autoridades de movilidad.
+Cuando el padre y la madre que no vivan juntos reconozcan al hijo o hija en el mismo acto, deben convenir ante el Oficial del Registro Civil cuál de los dos ejercerá la custodia, sin perjuicio de los derechos y obligaciones del otro progenitor.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Cuando no se hiciere la designación, el juez, oyendo a los progenitores, a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán o al Ministerio Público, en su caso, debe resolver lo más conveniente a los intereses de la niña, del niño o adolescente, pero ambos progenitores conservan la patria potestad.
+
+Reconocimiento sucesivo de progenitores que no viven juntos
 
 ###### Artículo 273.
 
-La SEDUM se encargará de la planeación para lograr incorporar los diversos servicios de transporte al Sistema Integrado de Transporte y el Instituto velará porque los distintos servicios que conformen el Sistema Integrado de Transporte cuenten con los estándares de calidad en la prestación del servicio para la persona usuaria, a través de la tecnología aplicada en los vehículos de cualquiera de los servicios, así como en su gestión y el control.
+Cuando el reconocimiento se efectúe sucesivamente por los progenitores que no viven juntos, corresponde al que primero hubiere reconocido al hijo o hija la protección, guarda y custodia de éste.
+
+Facultad del juez para resolver sobre la protección, guarda y custodia
 
 ###### Artículo 274.
 
-La SEDUM, será quien desarrolle los instrumentos de planeación, programas y herramientas relacionados con el Sistema Integrado de Transporte, alineados con las políticas vertidas en los programas nacionales y estatales, relacionados con la movilidad y seguridad vial.
+El juez puede, posteriormente y en atención al interés superior de la niña, niño o adolescente, resolver que la protección, guarda y custodia de éste corresponda al progenitor que lo reconozca en segundo lugar o a una persona diversa, siempre procurando que haya comunicación entre los hijos o hijas y los progenitores. Además, resolverá lo relativo a la patria potestad.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Oposición al reconocimiento
 
 ###### Artículo 275.
 
-En la planeación, diseño, programas y acciones del Sistema Integrado de Transporte se deberá garantizar la incorporación de las personas, atendiendo los principios de paridad de género e inclusión.
+En caso de que alguno de los progenitores se oponga al reconocimiento, la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán o, en su caso el Ministerio Público, puede representar a la niña, al niño o adolescente en el juicio de investigación de la paternidad o maternidad, siempre que el progenitor conocido lo autorice.
 
-## TÍTULO NOVENO. DE LAS MEDIDAS DE SEGURIDAD, INFRACCIONES, SANCIONES Y MEDIOS DE DEFENSA DE LOS PARTICULARES
+## TÍTULO NOVENO. PATRIA POTESTAD
 
-### CAPÍTULO I. DEL SISTEMA VIAL
+### CAPÍTULO I. Disposiciones Generales
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
+
+Patria potestad
 
 ###### Artículo 276.
 
-A los municipios que dentro de su zona geográfica cuenten con Sistema Integrado de Transporte y tengan la intención de desarrollar nuevos servicios de transporte no motorizados, sistemas de dispositivos del control del tránsito y sistemas de gestión del estacionamiento, deberán someter a evaluación y dictamen de la SEDUM para la incorporación de dichos servicios y sistemas.
+La patria potestad es un conjunto de derechos, obligaciones y responsabilidad parental que se otorgan e imponen legalmente a los ascendientes, en su caso, para cumplir con las necesidades materiales, afectivas, de salud, educación y recreativas de los hijos o hijas menores de edad, así como para la administración de sus bienes.
+
+Para estos efectos, se entenderá a la responsabilidad parental como complemento de la patria potestad basada en el interés superior de la niñez y además como obligación inherente a la orientación, cuidado, acompañamiento y crianza de los hijos o hijas menores de edad, para lograr su desarrollo integral. Esto incluye la responsabilidad compartida y solidaria de los ascendientes de asegurarse que sus hijos o hijas menores de edad puedan lograr el máximo nivel de satisfacción de sus derechos y necesidades.
+
+En ningún caso, el ejercicio de la responsabilidad parental puede conllevar violencia física, psicológica o actos que impidan el ejercicio de sus derechos.
+
+Ejercicio de la patria potestad
 
 ###### Artículo 277.
 
-El Sistema Integrado de Transporte podrá ser conformado con las siguientes Modalidades:
+La patria potestad se ejerce sobre la persona y bienes de los hijos o hijas.
 
-I. Del Transporte Público de Movilidad Activa.
+Su ejercicio queda sujeto a las modalidades que imponga este Código, las resoluciones judiciales que en su caso se dicten y las que dispongan otros ordenamientos aplicables.
 
-A. Bicicleta pública.
-
-II. Del Transporte Público Motorizado.
-
-A) Masivo o semi–masivo;
-
-B) Por cable;
-
-C) Transporte Colectivo Media y Baja Capacidad;
-
-D) Del Transporte Público de Taxi:
-
-a) Taxi de sitio;
-
-b) Radio Taxi; y,
-
-c) Taxi Metropolitano.
-
-En caso de requerirse otra modalidad, se podrá incorporar al Sistema Integrado de Transporte, dicha modalidad, previo estudio, análisis y aprobación del Ejecutivo del Estado.
+Personas a las que les corresponde el ejercicio de la patria potestad
 
 ###### Artículo 278.
 
-El Instituto deberá establecer, publicar, actualizar y difundir la información relativa a la prestación del servicio del Sistema Integrado de Transporte, en donde se contemplarán los datos georreferenciados, temporalizados, a través de plataformas en línea que permitan a la ciudadanía consultar y descargar la información.
+La patria potestad corresponde:
+
+I. Al padre y a la madre, conjunta o separadamente, o
+
+II. A los abuelos paternos y maternos, conjunta o separadamente.
+
+En caso de controversia sobre a quién corresponde el ejercicio de la patria potestad, el juez debe decidir en atención al interés superior de la niña, niño o adolescente.
+
+Para asignar la patria potestad el juez debe tomar en cuenta las circunstancias del caso y la opinión de la niña, niño o adolescente que esté en condiciones de expresarla, así como la de cualquier miembro de la familia que el juez estime conveniente escuchar.
+
+Tratándose de hijos o hijas monoparentales, cuando el progenitor muera o pierda la patria potestad, ésta se ejercerá en forma automática y definitiva por los abuelos que correspondan, sin necesidad de declaración judicial.
+
+> <small>(ADICIONADO, D.O. 30 DE SEPTIEMBRE DE 2021)</small>
+
+En caso de feminicidio u homicidio entre quienes compartan la Patria Potestad de un menor de edad, el juez también considerará la asignación de esta, en preferencia a los familiares de la víctima, en el siguiente orden:
+
+a) abuelos por parte de la víctima
+
+b) a los hermanos de la víctima.
+
+Irrenunciabilidad de la patria potestad
 
 ###### Artículo 279.
 
-La infraestructura, señalamientos, dispositivos y todos aquellos elementos necesarios para la operación y acceso al Sistema Estatal de Transporte, tendrán que ser considerados dentro de los proyectos de desarrollo urbano del Estado y sus municipios, a fin de que se considere la cobertura del servicio de transporte público y el Sistema Integrado de Transporte acorde con la integración urbana que se deriven de los estudios de impacto vial.
+La patria potestad es irrenunciable, pero aquellos a quienes corresponda ejercerla en lugar de los progenitores, pueden excusarse cuando:
+
+I. Tengan sesenta y cinco años cumplidos, o
+
+II. No puedan desempeñarla por su mal estado de salud o precaria situación económica, conforme a lo establecido en este Código y demás disposiciones legales aplicables.
+
+Prohibición de actos tendientes a la alienación parental
 
 ###### Artículo 280.
 
-Los municipios deberán tomar en cuenta la cobertura del Sistema Integrado de Transporte en su estrategia vial para que se contemple dentro de sus Programas Municipales de Desarrollo Urbano y todas aquellas obras de vialidad que se desarrollen, considerando la infraestructura, señalamientos, dispositivos y todos aquellos elementos necesarios para la operación y acceso a dicho sistema.
+Quien ejerza la patria potestad, debe procurar el respeto y el acercamiento constante de hijos o hijas menores de edad con el otro progenitor que también ejerza la patria potestad; por lo tanto, cada uno de los progenitores debe evitar cualquier acto de manipulación o alienación parental que tenga por objeto que los hijos o hijas menores de edad rechacen, generen rencor, antipatía, desagrado o temor contra el otro progenitor.
+
+Ingreso al ejercicio de la patria potestad
 
 ###### Artículo 281.
 
-El Instituto establecerá programas y acciones para la creación, aprobación, ordenamiento, asesoría, capacitación, control y en su caso, modificación, suspensión y cancelación de los servicios de transporte público y especializado en todas sus modalidades, de acuerdo a las necesidades de movilidad en los centros de población, con el fin de garantizar el derecho a la movilidad de las personas, los derechos de las personas concesionarias y permisionarias, vigilando el cumplimiento de las obligaciones de estos.
+Sólo por muerte o interdicción, sentencia judicial o ausencia del padre y de la madre, deben entrar en ejercicio de la patria potestad alguna de las personas establecidas en la fracción II del artículo 278 de este Código.
+
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+Estado de interdicción
 
 ###### Artículo 282.
 
-El Instituto podrá implementar acciones de mejora administrativa y estrategias tendientes a la digitalización de procedimientos y servicios que permitan generar mayor orden y control, coordinando con las instancias competentes mecanismos de simplificación y mejora regulatoria, facilitando los procesos de modernización, aumentando la participación directa de personas concesionarias y permisionarias, reduciendo esquemas de corrupción y mejorando la recaudación del Estado.
+En el caso de personas con discapacidad intelectual, mental, o psicosocial, quienes ejerzan la patria potestad deben solicitar al juez que declare su interdicción al llegar a los dieciocho años de edad. Mientras no se haga la declaración respectiva, quedan obligados a responder por los daños y perjuicios que causen a sus hijos o hijas en la administración de sus bienes.
 
-Para los efectos del párrafo anterior, el Instituto llevará a cabo el Registro del Sistema Estatal del Transporte, que deberá actualizar periódicamente, así como mantener el control de los archivos físicos y digitales que se encuentren bajo su custodia.
+Protección y asistencia de los abuelos en situaciones de abandono, peligro o riesgo
 
 ###### Artículo 283.
 
-El Instituto implementará los sistemas y mecanismos necesarios para el control vehicular del Sistema Estatal de Transporte y, autorizará previo cumplimiento de los requisitos establecidos, los trámites y servicios que sean necesarios para el cumplimiento de sus atribuciones y mejora administrativa.
+Cuando se presenten situaciones de abandono, peligro o riesgo para quien deba estar sujeto a la patria potestad, los abuelos paternos y maternos, en su caso, deben realizar los actos que sean necesarios para su protección y asistencia y, en su caso, solicitar al juez la custodia temporal de dichos descendientes.
+
+Protección y asistencia de los abuelos en casos de suspensión de la patria potestad a los progenitores
 
 ###### Artículo 284.
 
-El Instituto suspenderá o negará cualquier trámite, cuando existan datos o indicios que hagan presumir o se demuestren que la información o documentación proporcionada por el solicitante sea falsa. Lo anterior, sin perjuicio del aviso a las autoridades competentes.
+Lo dispuesto en el artículo anterior, también se aplicará en los casos que se decrete la suspensión de la patria potestad en perjuicio de los progenitores, mientras no se levante la medida por declaración judicial y cuando se presenten situaciones de abandono o peligro para la niña, niño o adolescente.
+
+En caso de ausencia o incapacidad de los abuelos se debe nombrar tutor a la niña, niño o adolescente, con preferencia a sus familiares y a falta de éstos a cualquier persona con capacidad para ello.
+
+Medida provisional en casos de la solicitud de la pérdida de la patria potestad
 
 ###### Artículo 285.
 
-Para la reposición por robo o extravío de cualquier documento inherente a los trámites y servicios que proporcione el Instituto, los titulares de la concesión o permiso de que se trate, podrá solicitarla por escrito, previo cumplimiento de los requisitos señalados en la presente Ley, su Reglamento y demás disposiciones normativas aplicables.
+Siempre que se solicite la pérdida de la patria potestad, el juez es el que decide a quién corresponde en forma temporal la protección, guarda, custodia y representación, de quienes deban estar sujetos a la patria potestad, hasta en tanto se resuelva en sentencia definitiva.
+
+Para tal efecto el juez debe notificar y requerir a las personas que corresponda ejercerla, para que asuman las obligaciones respectivas y manifiesten su deseo de ejercer la patria potestad o se excusen por las causas previstas en este Código.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Obligaciones de quienes ejercen la patria potestad
 
 ###### Artículo 286.
 
-Las personas concesionarias y permisionarias del Sistema Estatal de Transporte deberán presentar y acreditar la revalidación físico-mecánica de los vehículos, en los términos que se mencionen en la presente Ley y su Reglamento, así como en las diversas disposiciones aplicables. Sin embargo, los vehículos podrán ser sujetos a revisión en cualquier momento, cuando así lo determine el Instituto.
+Las personas que ejerzan la patria potestad sobre otra tienen la obligación de protegerla y educarla convenientemente, de acuerdo a sus propias convicciones, religión o moral.
+
+Las niñas, los niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, de cuidado, penales o de cualquier otra índole.
+
+Queda prohibido que la madre, padre o cualquier persona que ejerza la patria potestad, tutela o guarda, custodia y crianza de niñas, niños y adolescentes, utilice el castigo corporal o humillante como forma de corrección o disciplina de niñas, niños o adolescentes.
+
+Además deben observar una conducta que sirva de buen ejemplo, en caso necesario, las instituciones y autoridades estatales deben brindar apoyo en los casos en que proceda.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Obligación de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán y del Ministerio público
 
 ###### Artículo 287.
 
-Todas las personas señaladas en esta Ley que tengan como obligación cumplir, cursar y aprobar las capacitaciones para el correcto desempeño y prestación del servicio de transporte público y especializado, deberán cubrir los requisitos que determine el Instituto, para la expedición y emisión de documentos y acreditación que validan los conocimientos y habilidades adquiridas, incluyendo el correspondiente pago de derechos.
+Cuando la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán o del Ministerio Público, en su caso, tengan conocimiento que los que ejercen la patria potestad no cumplen con sus obligaciones, corrompen a la niña, al niño o adolescente o abusan de su derecho a corregir, deben promover de oficio, ante el juez competente, la suspensión o pérdida de la patria potestad o de la custodia, en su caso.
+
+Respeto recíproco
 
 ###### Artículo 288.
 
-Las tarifas del Sistema Estatal de Transporte, a que se refiere esta Ley, podrán ser establecidas, actualizadas o modificadas, a través del Instituto previa autorización del Ejecutivo del Estado, debiendo publicarse en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+Los que ejercen la patria potestad y los sujetos a ésta, cualquiera que sea su estado, edad o condición social, se deben respeto recíproco.
+
+Obligación de habitar en el mismo domicilio
 
 ###### Artículo 289.
 
-El Instituto emitirá el dictamen para establecer, modificar y/o actualizar las tarifas del Sistema Estatal de Transporte en cualquiera de sus modalidades previo análisis de los estudios e instrumentos que él mismo realice, atendiendo al interés público y/o cualquier otra causa justificada.
+Quienes se encuentren sujetos a la patria potestad, deben habitar en el domicilio de quienes la ejercen, a menos que exista resolución judicial en diverso sentido.
+
+En los casos en que los progenitores vivan separados, este derecho corresponderá al progenitor custodio. Las autoridades están obligadas a prestar auxilio al ascendiente que lo solicite, para ubicar y restituir a las niñas, niños y adolescentes sometidos a su custodia y para el tratamiento que requieran.
+
+Consentimiento para comparecer a juicio
 
 ###### Artículo 290.
 
-Para determinar las tarifas del Sistema Estatal de Transporte se deberá atender a las directrices, principios, elementos, criterios, parámetros, consideraciones u objetivos señalados en el Reglamento de la presente Ley y demás disposiciones aplicables; así mismo, el Instituto podrá considerar la tarifa técnica, que será determinada conforme al resultado de los costos y gastos de operación de los servicios de transporte, dividido entre la cantidad de viajes resultantes del servicio.
+El que está sujeto a la patria potestad no puede comparecer en juicio, ni contraer obligación alguna sin consentimiento de quienes la ejerzan. En caso de oposición debe resolver el juez oyendo a las partes.
 
-La tarifa técnica será revisada cada año por el Instituto, evaluando la sostenibilidad del modelo financiero del Sistema de Transporte Público, de acuerdo a la presente Ley, su Reglamento, los lineamientos y metodología de cálculo establecidos por el Instituto.
+### CAPÍTULO II. De los Efectos de la Patria Potestad sobre el Patrimonio de los Descendientes
 
-### CAPÍTULO II. CLASIFICACIÓN DE VIALIDADES
+Representantes legítimos
 
 ###### Artículo 291.
 
-Los lineamientos, metodología y cálculo se sujetarán a los objetivos y las consideraciones para la fijación de las tarifas a que se refiere esta Ley, asimismo, deberán servir como base para la determinación de las tarifas para servicios interestatales que pudieran existir dentro del territorio, que se deberán de regular conforme a las especificaciones que se marcan en esta Ley y los acuerdos que se tengan con los Estados colindantes.
+Los que ejercen la patria potestad son legítimos representantes de aquéllos sobre quienes la ejercen, así como administradores legales de sus bienes, conforme a las prescripciones de este Código.
+
+Representación indistinta en juicio
 
 ###### Artículo 292.
 
-El Ejecutivo del Estado podrá aplicar subsidios directos para reducir el costo de operación que impacta en la tarifa técnica, a través de inversiones en infraestructura, equipos, apoyos para el cambio tecnológico y tecnología para el recaudo, el monitoreo y el control de la flota.
+Las personas que ejerzan la patria potestad deben representar indistintamente a los descendientes en juicio; pero no pueden celebrar ningún arreglo para terminarlo si no es con el consentimiento expreso del otro y con la autorización judicial, cuando la Ley lo requiera expresamente.
+
+Impedimento para representar al sujeto a patria potestad
 
 ###### Artículo 293.
 
-Las tarifas que se establezcan para las diferentes modalidades del Sistema Estatal de Transporte, deberán ser suficientes para cubrir los costos fijos y variables de operación, inversión, mejoramiento de las condiciones generales del servicio, el rango de porcentaje de la utilidad equitativa, proporcional y determinada por el resultado de los estudios que realice el Instituto debiendo considerar los indicadores económicos que publica el Banco de México y la situación económica prevaleciente en el país, así como los costos que determine el Reglamento de la presente Ley.
+En todos los casos en que la persona que ejerce la patria potestad tenga un interés opuesto al sujeto a ésta, o por cualquier causa esté impedido para representarlo, quien se encuentre bajo la patria potestad debe ser representado en juicio o fuera de él por un tutor que el juez nombre para cada caso.
+
+Bienes del sujeto a patria potestad
 
 ###### Artículo 294.
 
-De las tarifas señaladas en el artículo anterior el Ejecutivo del Estado a través del Instituto podrá autorizar las siguientes:
+Los bienes del descendiente, mientras esté bajo la patria potestad, se dividen en dos clases:
 
-I. Tarifa Excepcional: La que está exenta de pago, como son las personas con cáncer, niñas y niños menores de 3 años;
+I. Bienes que adquiera por su trabajo, y
 
-II. Tarifa Preferencial: La autorizada con descuento para personas con discapacidad, adultas mayores, estudiantes y docentes inscritos en planteles educativos públicos y privados o cualquier otra persona que por su condición se autorice. El porcentaje de descuento para esta tarifa deberá ser del diez y hasta el cincuenta por ciento de la tarifa aplicable. Para aplicar dicha tarifa bastará la solicitud expresa que haga la persona y, por regla general, se deberá exhibir credencial expedida por autoridad competente en la materia, donde conste alguna de las condiciones contenidas en la presente fracción, salvo cuando sea evidente e indubitable la condición física de la persona respecto a su edad o discapacidad; y,
+II. Bienes que adquiera por cualquier otro medio.
 
-III. Tarifa Especial: La autorizada para determinados horarios nocturnos y días festivos, así como actividades especiales que requieren de un servicio específico.
+Bienes adquiridos por trabajo
 
 ###### Artículo 295.
 
-Los tipos de tarifa que autorice el Ejecutivo del Estado a través del Instituto, se podrán cobrar, cubrir o pagar en efectivo o mediante los sistemas, medios, instrumentos, tecnologías o cualquier accesorio que el Instituto en conjunto con la SFA determine más conveniente para brindar un mejor servicio a la persona usuaria.
+Los bienes de la primera clase pertenecen en propiedad, administración y usufructo al descendiente.
+
+Bienes adquiridos por otro medio
 
 ###### Artículo 296.
 
-Para efectos de esta Ley y su Reglamento la tarifa del Sistema Estatal de Transporte podrá contar con las modalidades siguientes:
+En los bienes de la segunda clase, la propiedad y la mitad del usufructo pertenecen al descendiente; la administración y la otra mitad del usufructo corresponden a las personas que ejerzan la patria potestad, misma que se debe dividir en partes iguales entre éstas. Sin embargo, si los descendientes adquieren bienes por herencia, legado o donación y el testador o donante dispone que el usufructo pertenezca al descendiente o que se destine a un fin determinado, se debe estar a lo dispuesto por el que hizo la determinación.
 
-I. Tarifa Integrada: Es la que se paga en el sistema de rutas integradas, la cual permite durante un mismo viaje realizar transbordos entre corredores de transporte masivo y Semimasivo, sus modalidades y otras concesionadas por el Estado; y,
-
-II. Tarifa Complementaria: Es la que se paga por el servicio suburbano, en los casos que este se incorpore al sistema integrado de transporte, permitiendo realizar transbordos con las rutas alimentadoras, suburbanas y regionales en las estaciones de transferencia, cuando el pago este contemplado de forma integral mediante un sistema tecnológico.
+Renuncia a la mitad del usufructo
 
 ###### Artículo 297.
 
-En el servicio de Transporte Urbano, Suburbano, Foráneo, Regional y Metropolitano se establecerán tarifas para cada destino y sus principales puntos intermedios, dentro del espacio territorial del municipio, región o zona metropolitana, tomándose como referencia la cabecera municipal con mayor concentración poblacional; las tarifas por cobertura, horario y modalidad serán determinadas conforme a las disposiciones del Reglamento de la presente Ley.
+Los ascendientes pueden renunciar a su derecho a la mitad del usufructo, la cual deben hacerla constar por escrito o de cualquier otro modo que no deje lugar a duda.
+
+Réditos y rentas a favor del sujeto a patria potestad
 
 ###### Artículo 298.
 
-Para el caso de las modalidades del taxi y la bici taxi, el Ejecutivo del Estado a través del Instituto definirá las tarifas conforme lo que se dispone en la presente Ley, su Reglamento, así como en las diversas disposiciones aplicables.
+Los réditos y rentas que se hayan vencido antes de que los progenitores, abuelos o adoptantes entren en posesión de los bienes cuya propiedad corresponda a quien se encuentra bajo la patria potestad, pertenecen a éste y en ningún caso son frutos que deban repartirse con las personas que la ejerzan.
+
+Obligaciones del usufructo de la persona que ejerce la patria potestad
 
 ###### Artículo 299.
 
-Para el servicio de grúas, arrastre, salvamento y remolque, las tarifas serán establecidas anualmente y publicadas en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por la SSP, atendiendo los estudios, costos de operación y demás instrumentos que determinen el monto de dicha tarifa.
+El usufructo de los bienes concedidos a quienes ejerzan la patria potestad se debe aplicar al pago de alimentos para los descendientes. Los ascendientes que gocen de este derecho están sujetos a las obligaciones impuestas a los usufructuarios, pero no tienen que dar fianza para caucionar el manejo de los bienes.
+
+Prohibición de los que ejercen la patria potestad de enajenar o gravar bienes
 
 ###### Artículo 300.
 
-El Instituto podrá establecer un sistema automatizado de control de la tarifa para el servicio público de taxi. Las personas concesionarias o permisionarias del servicio público de taxi y bici taxi, podrán instalar un sistema digital de determinación de la tarifa previa autorización del Instituto.
+Los que ejercen la patria potestad no pueden enajenar ni gravar de ningún modo los bienes inmuebles o los muebles preciosos, así como valores comerciales, industriales, títulos de rentas y acciones pertenecientes a los descendientes sobre los que la ejercen, sino por causa de evidente beneficio para éstos, y previa autorización del juez competente a quien deben rendir cuentas.
+
+Tampoco pueden celebrar contratos de arrendamiento por más de cinco años, ni recibir la renta anticipada por más de dos años, así como vender frutos y ganado, por menor valor del que se cotice en el mercado el día de la venta; hacer donación de los bienes de los descendientes que se encuentran bajo la patria potestad o remisión voluntaria de los derechos de éstos; ni dar fianza en su representación.
+
+Obligación de dar cuenta de la administración de los bienes
 
 ###### Artículo 301.
 
-Aquellas modalidades de transporte no contempladas en el presente capítulo y que el Instituto determine la necesidad de establecer su tarifa, ésta deberá ser con apego a los estudios y demás instrumentos que contempla la Presente Ley, su Reglamento y diversas disposiciones aplicables, debiendo publicarse en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+Las personas que ejerzan la patria potestad, tienen la obligación de dar cuenta de la administración de los bienes de los descendientes.
+
+Autorización judicial para enajenar o grabar bienes de los sujetos a la patria potestad
 
 ###### Artículo 302.
 
-En casos de contingencia, endemias, epidemias, pandemias o desastres naturales, el Titular del Poder Ejecutivo podrá subsidiar de manera temporal el déficit de cobro de la tarifa del sistema Estatal de Transporte determinado por la tarifa técnica, cuando las finanzas públicas y el presupuesto de egresos así lo permitan.
+Siempre que el juez autorice a los que ejercen la patria potestad enajenar bienes en relación con los cuales requiera dicha autorización por pertenecer a los descendientes, debe tomar las medidas necesarias a fin que el producto de la venta se dedique al objeto destinado y que el resto se invierta en la adquisición de un inmueble o se cree un fideicomiso en favor del descendiente que se encuentra bajo la patria potestad. A este efecto, la autoridad judicial debe ordenar que el precio de la venta se deposite en una institución de crédito, sin que quien ejerza la patria potestad pueda disponer de él sin orden judicial.
+
+El juez que autorice la operación de que se trate, debe imponer un plazo, a quien ejerza la administración de dichos bienes, para que acredite la inversión del producto resultante de la enajenación o gravamen, pudiendo ordenar de plano la reversión de cualquier operación realizada si ésta no resulta beneficiosa para los descendientes.
+
+Facultad de juez para impedir la mala administración por parte de los que ejercen la patria potestad
 
 ###### Artículo 303.
 
-El Instituto definirá las especificaciones, cantidad y forma de adquisición de los equipos del sistema de cobro, con base en la normativa aplicable.
+El juez tiene la facultad de tomar las medidas necesarias para impedir que, por la mala administración de quienes ejercen la patria potestad, los bienes del descendiente se derrochen o disminuyan.
 
-Los vehículos con los que se presta el servicio deberán contar y tener en correcto funcionamiento los equipos de control de cobro establecidos para el pago de la tarifa, de no ser así, las personas usuarias tendrán derecho a realizar su viaje de forma gratuita.
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Estas medidas se deben tomar a instancia de cualquier persona interesada, de la niña, del niño o adolescente cuando hubiere cumplido doce años, de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán o del Ministerio Público, en su caso.
+
+Extinción de la administración y usufructo de los que ejercen la patria potestad
 
 ###### Artículo 304.
 
-Para tener acceso a las estaciones de transferencia e intermedias del sistema integrado de transporte, las personas usuarias deberán realizar su pago o validación de la tarjeta de prepago integradora, en los equipos del sistema de cobro instalados en las mismas.
+El derecho de administración y usufructo concedido a quienes ejercen la patria potestad, se extingue, debiendo entregar bienes y cuentas en los términos de este Código por la:
 
-Para el caso de personas usuarias con discapacidad, se dispondrá de garitas de acceso especial para facilitar su ingreso a las estaciones.
+I. Emancipación derivada del matrimonio;
+
+II. Mayor edad de los descendientes;
+
+III. Pérdida de la patria potestad, y
+
+IV. Renuncia a la administración.
+
+Obligación de entrega de bienes
 
 ###### Artículo 305.
 
-El Instituto integrará y actualizará permanentemente del (sic) Registro Estatal del Transporte, para lo cual administrará el acervo documental físico y digital de concesiones, permisos, constancias y otras certificaciones que incluyan los vehículos de todas las modalidades indicadas en esta Ley y su Reglamento; así como, el padrón de personas operadoras y todos los actos relativos a la transferencia de la titularidad.
+Siempre que se dejen de administrar los bienes del descendiente por cualquiera de los supuestos del artículo anterior, el que ejerza la patria potestad debe entregarle a aquél o a quien lo represente, todos los bienes y frutos que pertenezcan a aquéllos, rindiendo cuenta de su administración.
+
+Responsabilidad de daños y perjuicios
 
 ###### Artículo 306.
 
-En coordinación con las autoridades competentes, el Instituto podrá tener acceso a la información referente a licencias y permisos para conducir, registro de infracciones, sanciones y delitos, representantes, apoderados y mandatarios legales autorizados para realizar trámites y gestiones, así como los demás registros que sean necesarios para el correcto desempeño de sus atribuciones.
+Los que ejerzan la patria potestad son responsables de los daños y perjuicios que causen al patrimonio de los descendientes.
 
-### CAPÍTULO III. SOBRE LA INFRAESTRUCTURA VIAL
+### CAPÍTULO III. De la terminación, pérdida y suspensión de la patria potestad
+
+Terminación de la patria potestad
 
 ###### Artículo 307.
 
-Con la finalidad de optimizar sus consultas, el Registro implementará acciones de digitalización y conservación de los expedientes en coordinación con las áreas responsables de recabar, analizar y generar información que permita consolidar el derecho a la movilidad y la seguridad vial de las personas en el Estado.
+La patria potestad se termina por:
+
+I. La muerte de quien o quienes la ejercen, si no hay otra persona en quien recaiga;
+
+II. Haber alcanzado el descendiente la mayoría de edad, o
+
+III. La entrega en adopción que realicen los progenitores o abuelos biológicos del descendiente.
+
+> <small>(REFORMADO EPÍGRAFE [N. DE E. REPUBLICADO], D.O. 31 DE JULIO DE 2024)</small>
+
+Pérdida de la patria potestad
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 308.
 
-Los documentos procesados electrónicamente, inherentes al Registro Público del Transporte, serán parte integral del mismo y tendrán igual valor que los documentos físicos, presentados para actos administrativos ante esta dependencia.
+La patria potestad se pierde:
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+I. Cuando quien o quienes la ejercen son condenados expresamente a la pérdida de ese derecho, o por la condena por el delito de feminicidio o su tentativa en contra de la madre de las niñas, niños o adolescentes sujetos a la patria potestad, así como de otros delitos graves;
+
+> <small>(REFORMADA, D.O. 26 DE ABRIL DE 2024)</small>
+
+II. En los casos de divorcio o nulidad de matrimonio, cuando así lo determine la o el juez en la sentencia;
+
+> <small>(REFORMADA, D.O. 26 DE ABRIL DE 2024)</small>
+
+III. Cuando por las costumbres ilícitas de quien o quienes la ejercen, malos tratos o abandono de sus deberes, pueda comprometerse la salud, la seguridad o la moralidad de las personas descendientes, previa resolución judicial;
+
+> <small>(REFORMADA, D.O. 26 DE ABRIL DE 2024)</small>
+
+IV. Cuando quien o quienes la ejerzan, dejen de convivir injustificadamente con las niñas, niños o adolescentes, que no están bajo la tutela del estado, o los deje en custodia para su cuidado en casa particular, por más de sesenta días naturales, previa resolución judicial;
+
+> <small>(REFORMADA, D.O. 26 DE ABRIL DE 2024)</small>
+
+V. Por la exposición o abandono que hicieren de sus descendientes los titulares de este derecho, en términos de lo previsto en la Ley General de los Derechos de Niñas, Niños y Adolescentes, y
+
+> <small>(REFORMADA, D.O. 26 DE ABRIL DE 2024)</small>
+
+VI. En los casos de violencia familiar cometida contra las niñas, los niños y adolescentes sujetos a la patria potestad, previa resolución judicial.
+
+> <small>(REFORMADO, D.O. 26 DE ABRIL DE 2024)</small>
+
+El ascendiente que contraiga un matrimonio ulterior, no pierde por este hecho la patria potestad, pero la nueva persona cónyuge no puede ejercer este derecho a menos que adopte al descendiente en los términos y condiciones previstos en este Código.
+
+En los casos de adopción, acreditado el interés superior de la niña, niño o adolescente, y su situación de abandono, el juez debe resolver previamente la pérdida de patria potestad.
+
+Se considera expósito al recién nacido abandonado o expuesto y que por ende, se desconoce su origen.
+
+Se considerará abandonada a la persona que se encuentra en situación de desamparo, con peligro para su seguridad e integridad física, pudiéndose o no conocer su origen.
+
+Continuidad de obligaciones
 
 ###### Artículo 309.
 
-Las personas operadoras del servicio de transporte deberán estar registradas por los medios y procedimientos que el Instituto determine para poder prestar el servicio en la modalidad correspondiente.
-
-Dicho registro deberá mantenerse siempre fiel y oportunamente actualizado a fin de abastecer los sistemas y plataformas de Movilidad y Seguridad Vial.
-
-Las personas concesionarias, permisionarias y constanciatarias que incumplan con sus obligaciones con respecto a la actualización de la información, serán acreedoras a las sanciones que establezcan la presente ley, su Reglamento (sic) demás disposiciones normativas aplicables.
+El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todos los deberes jurídicos que tienen para con sus hijos o hijas.
 
 ###### Artículo 310.
 
-El Registro Estatal del Transporte realizará las compulsas necesarias para verificar la autenticidad, legitimidad y vigencia de los documentos generadores de derechos, certificaciones y demás documentación que se expida.
+(DEROGADO, D.O. 26 DE ABRIL DE 2024)
+
+Pérdida de la patria potestad resuelta en el divorcio
 
 ###### Artículo 311.
 
-La cancelación total o parcial de los registros, sólo podrá practicarse por las siguientes instancias:
+El juez, en la misma resolución del divorcio y sólo en los casos de que se afecte de manera grave el interés superior de las niñas, niños y adolescentes, puede decretar la pérdida o suspensión de la patria potestad en relación con uno o ambos progenitores aunque ésta no se haya requerido al solicitar el divorcio.
 
-I. Por mandato judicial;
+> <small>(REFORMADO EPÍGRAFE [N. DE E. REPUBLICADO], D.O. 31 DE JULIO DE 2024)</small>
 
-II. Por mandato del Instituto;
+Suspensión de la patria potestad
 
-III. Por extinción del motivo que generó su registro; y,
-
-IV. Por extinción, caducidad o invalidez del acto administrativo.
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 312.
 
-El Centro de Información y Monitoreo del Transporte (CIMTRA) es el conjunto de información y base de datos que deberá operar con el objeto de registrar, procesar y actualizar la información en el Estado en materia de Transporte. La información que alimente al sistema será enviada y generada por los organismos, empresas y entidades que correspondan, con los cuales el Instituto deberá coordinarse.
+La patria potestad se suspende por:
+
+I. Incapacidad declarada judicialmente;
+
+II. Ausencia declarada en forma de quien o quienes la ejercen;
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+III. Sentencia ejecutoriada que imponga dicha suspensión;
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+IV. En los casos de divorcio o nulidad del matrimonio; cuando el juez imponga esta medida, y
+
+> <small>(REFORMADA [N. DE. E. ADICIONADA], D.O. 31 DE JULIO DE 2024)</small>
+
+V. Por auto de vinculación a proceso dictado por delito de feminicidio o su tentativa en contra de la madre de las niñas, niños y adolescentes sujetos a patria potestad.
+
+Conclusión del término de la suspensión
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### Artículo 313.
 
-El Instituto aportará la información relacionada con el Sistema Estatal de Transporte, a través de la creación del Sistema de Información de Movilidad, para conformar, en conjunto con la SEDUM, las bases de datos que integrarán el SEITU.
+En los casos de suspensión de la patria potestad, una vez concluido el plazo fijado en la sentencia que la decreta, el juez debe decidir sobre el levantamiento de la medida o bien, decretar su continuación, atendiendo a las circunstancias particulares del caso y de acuerdo con el informe que, en su caso, presente la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán. El juez puede también prolongar, por una sola vez, la suspensión hasta por un término igual al primeramente fijado.
+
+En los casos de suspensión por incapacidad o ausencia, una vez que se constate pericialmente la salud del enfermo o comparezca y se identifique plenamente al ausente, el juez que haya decretado la medida debe ordenar la recuperación de la patria potestad con todos sus efectos. Esto último es aplicable también en los casos en que aparezca vivo el presunto muerto.
+
+Solicitud de recuperación de la patria potestad en caso de suspensión
 
 ###### Artículo 314.
 
-El CIMTRA generará, monitoreará y procesará información georreferenciada y estadística, indicadores de transporte y gestión administrativa, indicadores incluidos en los instrumentos de planeación e información sobre el avance de proyectos y programas, que permitirá dar seguimiento y difusión a la información de la materia.
+En los casos en que se haya suspendido la patria potestad, quien o quienes la ejercían pueden solicitar su restitución ante el juez.
+
+El juez debe tomar su decisión considerando las circunstancias particulares del caso y con base en los datos que aporten las diligencias que de oficio decrete.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Antes de resolver, en definitiva, el juez debe oír al ascendiente que ejerza este derecho o al tutor, y a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán o al Ministerio Público, en su caso, los que pueden oponerse fundadamente.
+
+Improcedencia de recuperación de la patria potestad
 
 ###### Artículo 315.
 
-Con la información y los indicadores de gestión que arroje el CIMTRA, se llevarán a cabo las acciones para revisar de manera sistemática la ejecución de planes y programas.
+No procede la recuperación de la patria potestad en los casos en los que la niña, niño o adolescente haya sido dado en adopción o bien cuando se haya declarado judicialmente la pérdida de aquella. Por tanto, la recuperación de la patria potestad sólo procede cuando haya sido suspendida y se acredite ante el juez, la inexistencia de las causales que dieron origen a la misma.
 
-Asimismo, se realizarán las acciones de evaluación de los avances en el cumplimiento de las metas establecidas en dichos programas que retroalimenten el proceso de planeación y, en su caso, propondrá la modificación o actualización que corresponda.
+Guarda y custodia en caso de restitución de la patria potestad
 
 ###### Artículo 316.
 
-El Instituto implementará plataformas digitales y aplicaciones móviles, para facilitar los trámites administrativos, servicios, divulgación de información y campañas; permitir el manejo de base de datos y sistemas de consulta de información de acuerdo con los lineamientos y manuales de operación establecidos, así como establecer archivos digitales para las diversas áreas que lo componen. Asimismo, se deberá operar y armonizar en términos de lo establecido por la Ley de Gobierno Digital de la entidad.
+En los casos en que se ordene la restitución de la patria potestad, el ascendiente que la ejercía en forma exclusiva debe mantener la custodia de la niña, niño o adolescentes sujetos a la patria potestad.
+
+Efectos de la restitución de la patria potestad
 
 ###### Artículo 317.
 
-El Instituto deberá transformar sus sitios web en plataformas de interacción integrales de prestación de servicios digitales buscando una actualización permanente que permita conocer y ejecutar los trámites y servicios ofrecidos, así como poder realizar el pago de los mismos en línea o por otros medios alternativos mediante convenios de pago en establecimientos mercantiles.
+La restitución de la patria potestad, devuelve el derecho a una correcta comunicación de quien la ejerce con los descendientes, pero debe ser de tipo provisional, durante un período de dos años.
+
+El juez, durante el período antes señalado, debe decretar la restitución definitiva o negarla, atendiendo a las actitudes del solicitante y al cumplimiento de las obligaciones derivadas del vínculo paterno filial.
 
 ## TÍTULO DÉCIMO. CUSTODIA Y CONVIVENCIA
 
-### CAPÍTULO IV. DEL ESTACIONAMIENTO EN LA VÍA PÚBLICA
+### CAPÍTULO I. Disposiciones Generales
+
+Custodia
 
 ###### Artículo 318.
 
-Los datos que recaude el Instituto, en colaboración con otras autoridades, a través de los distintos dispositivos y aditamentos tecnológicos pasarán por un proceso de limpieza y análisis de la información y se regirán conforme a lo que se mencione en la presente Ley, el respectivo Reglamento de la misma, así como en las diversas disposiciones aplicables.
+Para efectos de este Código se entiende por custodia la guarda y cuidado con toda diligencia de las niñas, niños y adolescentes, ejercida de manera directa por aquellas personas a las que les corresponde el ejercicio de la patria potestad, salvo las excepciones previstas en este ordenamiento.
+
+Derechos de las niñas, niños y adolescentes de opinar
 
 ###### Artículo 319.
 
-El Instituto en aprovechamiento de los recursos tecnológicos disponibles deberá coordinarse con las autoridades competentes para la incorporación de innovaciones, dispositivos y sistemas que faciliten la información, los procesos de control, detección y atención, relacionados con:
+Siempre que se trate de asuntos relacionados con la custodia y convivencia de las niñas, niños y adolescentes, el juez debe escuchar la opinión de ellos, cuando ya puedan formarse juicio propio.
 
-1. Siniestros de tránsito;
-
-2. Infracciones y multas;
-
-3. Eventos delictivos en el transporte público y su sistema integrado;
-
-4. Registros de control vehicular;
-
-5. Flujo y congestión vehicular;
-
-6. Vías de acceso controlado;
-
-7. Sistemas tecnológicos que regulan operación y servicio de dispositivos de control del tráfico y equipamiento urbano;
-
-8. Tecnología a bordo de los vehículos que componen el Sistema Estatal de Transporte;
-
-9. Sistema de recaudo, tecnología y dispositivos en la infraestructura del transporte;
-
-10. Servicios emergentes;
-
-11. Cualquier evento relacionado con la movilidad y seguridad vial;
-
-12. Quejas del servicio de transporte;
-
-13. Registro de personas operadoras;
-
-14. Banco Nacional de Datos sobre casos de violencia contra las mujeres;
-
-15. De la digitalización de trámites; y,
-
-16. Todos aquellos que se requieran.
+Obligación de las personas que ejercen la custodia
 
 ###### Artículo 320.
 
-El Instituto publicará los lineamientos específicos que detallen el funcionamiento, instalación, operación, monitoreo, mantenimiento, pago de servicios y registro de los equipos, sistemas, aditamentos o dispositivos tecnológicos que sus políticas, programas y proyectos señalen, con la finalidad de buscar la mejora del servicio dentro del sistema de transporte para las modalidades que determine.
+Quien o quienes tienen a una niña, niño o adolescente, en custodia o que convivan con ellas, deben educarla y corregirla con respeto a su dignidad; por tanto, queda prohibido todo tipo de violencia generada en su contra.
+
+> <small>(REFORMADO, D.O. 6 DE JULIO DE 2021)</small>
+
+Modificación de las resoluciones judiciales relativas a la custodia y convivencia
 
 ###### Artículo 321.
 
-El Instituto administrará el CIMTRA mediante la información generada por los prestadores del servicio, por los organismos y dependencias de diverso orden, y entidades públicas o privadas con atribuciones en la materia, con los cuales deberá coordinarse y generar los convenios correspondientes según lo establecido en la Ley de Gobierno Digital de la entidad.
+Las determinaciones judiciales decretadas en relación a la custodia y convivencia de las niñas, niños y adolescentes, pueden ser objeto de modificación atendiendo a las circunstancias particulares de cada caso. En cuanto al régimen de convivencia del menor de edad, se privilegiará el interés superior de éste, atendiendo al derecho que tiene de convivir con la madre o el padre no custodio ante cualquier circunstancia, que a criterio del órgano jurisdiccional, amerite dicho cambio o modificación.
+
+> <small>(ADICIONADO, D.O. 6 DE JULIO DE 2021)</small>
+
+Convivencia a distancia a través de las Tecnologías de la Información y Comunicación.
 
 ###### Artículo 321 Bis.
 
@@ -3805,413 +2797,305 @@ Interés superior de las niñas, niños y adolescentes
 
 ###### Artículo 322.
 
-Con la finalidad de implementar instrumentos económicos y financieros, para mejorar la eficiencia y equidad en el acceso de los sistemas de movilidad, la renovación vehicular, la gestión de la seguridad vial y la sostenibilidad, se podrán crear los fondos que sean necesarios, con el objeto de captar, administrar y aportar recursos que contribuyan a mejorar las condiciones de la infraestructura, seguridad vial y acciones de cultura en materia de movilidad para toda la población.
+En toda determinación judicial sobre custodia y convivencia debe tomarse en cuenta, como aspecto primordial, el interés superior de las niñas, niños y adolescentes.
+
+Derecho a la igualdad entre progenitores en casos de custodia y convivencia
 
 ###### Artículo 323.
 
-El Fondo para el Desarrollo de la Movilidad y el Transporte tendrá por objeto captar y administrar recursos para los siguientes fines:
+En las determinaciones relativas a la custodia y a la convivencia con los hijos o hijas, debe aplicarse el principio de igualdad entre ambos progenitores para establecer cuestiones relativas a vacaciones, días festivos, onomásticos, asistencia a eventos, y demás relaciones de aquéllos con sus progenitores y con los demás miembros de las familias de origen.
 
-I. Destinarlos a mejorar las condiciones de infraestructura, seguridad vial y acciones de cultura en materia de movilidad;
-
-II. Impulsar los proyectos y acciones presentados por entes públicos o privados siempre que tengan como finalidad instrumentar acciones concretas en materia de movilidad y transporte de acuerdo con los fines y principios establecidos en esta normatividad;
-
-III. Financiar las tarifas excepcionales del transporte público; y,
-
-IV. Creación de instrumentos financieros para la renovación o mejoramiento del transporte público en el Estado.
+Cambio de quien ejerce la custodia o suspensión de la convivencia
 
 ###### Artículo 324.
 
-Los recursos del Fondo para el Desarrollo de la Movilidad y el Transporte estarán integrados por:
+El juez puede decretar el cambio de quien ejerce la custodia o suspensión de las convivencias, previo el procedimiento respectivo, cuando quien o quienes tienen decretada judicialmente la custodia provisional o definitiva sobre los hijos o hijas, se encuentre en los siguientes supuestos:
 
-I. Los destinados para ese efecto en el Presupuesto de Egresos del Estado;
+I. Realice conductas reiteradas para evitar la convivencia de los hijos o hijas, con la persona o personas que tienen parentesco consanguíneo en línea recta ascendente, o
 
-II. Los productos de sus operaciones y de la inversión de fondos;
+II. Manipule o ejerza actos que propicien la alienación parental sobre los hijos o hijas menores de edad.
 
-III. Los relativos al pago de derechos correspondientes a:
+Para efectos de este artículo se consideran conductas reiteradas la omisión o evasivas para la entrega del hijo o hija, realizadas en dos ocasiones por el progenitor custodio, mediante las cuales se impida la convivencia de los hijos o hijas con el progenitor no custodio, a partir de que se acuerde judicialmente el régimen de las convivencias, y los demás obstáculos que a juicio del juez, afecten al interés superior del niño, niña o adolescente, quien debe resolver atendiendo las circunstancias particulares de cada caso.
 
-a) La resolución administrativa de impactos de movilidad y Sistemas de Actuación por Cooperación;
-
-b) La contraprestación por los servicios de transporte público operados a través (sic) presente Ley, el respectivo Reglamento de la misma, así como en las diversas disposiciones aplicables;
-
-c) Cualquier otro tipo de ingresos por la realización de acciones de compensación de los impactos negativos sobre la movilidad y la calidad de vida; y,
-
-d) El porcentaje que se determine procedente de las revalidaciones, capacitaciones documentales y revistas física-mecánicas.
-
-IV. Las herencias, legados, donaciones y /o aportaciones que reciba de personas físicas o morales, nacionales o extranjeras, así como de organismos o asociaciones internacionales;
-
-V. Los recursos derivados de proyectos de cofinanciamiento para los temas establecidos en el objeto del Fondo;
-
-VI. Los provenientes de otros fondos o fideicomisos;
-
-VII. Los ingresos que se recauden de las sanciones impuestas a los infractores de esta Ley, con excepción de los gastos de ejecución;
-
-VIII. Los ingresos que mensualmente aporten los permisionarios del transporte especializado bajo demanda a través de redes móviles mediante plataformas tecnológicas y aplicaciones digitales registradas; y,
-
-IX. Los demás recursos que se generen por cualquier otro concepto. Los cuales, en su caso, le serán transferidos por la SFA, en términos de los ordenamientos jurídicos aplicables.
+Derecho de convivencia de las niñas, niños y adolescentes
 
 ###### Artículo 325.
 
-El Fondo para el Desarrollo de la Movilidad y el Transporte tendrá un Comité Técnico, el cual se integrará de la siguiente manera:
+En los casos en que así proceda, sólo por mandato judicial puede impedirse, suspenderse o limitarse la custodia o la convivencia que tienen los hijos o hijas respecto de ambos progenitores.
 
-I. El Titular de la SEDUM, quien lo presidirá;
-
-II. El Titular de la SFA;
-
-III. El Titular de la SCOP;
-
-IV. El Titular de la Contraloría del Estado; y,
-
-V. El Titular del Instituto.
+Continuidad de derechos y deberes sin tener la custodia
 
 ###### Artículo 326.
 
-En el ámbito de su competencia los municipios deberán establecer los mecanismos que consideren adecuados para el financiamiento de la movilidad.
+Quien o quienes ejercen la patria potestad, aún cuando no tengan la custodia, conservan los derechos de vigilancia y convivencia con sus hijos o hijas, salvo que la autoridad judicial suspenda o extinga esos derechos, por considerar que existe peligro para las niñas, niños o adolescentes.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Facultad de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán
 
 ###### Artículo 327.
 
-Las sociedades mercantiles que diseñen, administren, registren, promuevan, operen, medien y proporcionen las plataformas tecnológicas y aplicaciones digitales deberán retener e ingresar a las arcas de la SFA mensualmente, dentro de los primeros 15 días hábiles del mes siguiente a aquel en que se causen, en la forma y teìrminos (sic) que se establezcan en las disposiciones emitidas o convenios suscritos por el Ejecutivo del Estado, la tasa prevista en la Ley de Hacienda y Ley de Ingresos del Estado, sobre el cobro por la prestación del servicio de transporte de pasajeros efectivamente cobrado, que sea iniciado en el Estado. El Ejecutivo del Estado emitirá los comprobantes fiscales digitales por internet («CFDI») correspondientes a la tasa referida. La falta de retención será causa de revocación de la constancia respectiva.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán está facultada para tener la custodia de las niñas, los niños y adolescentes, y el Sistema para el Desarrollo Integral de la Familia en Yucatán, la custodia de las personas con discapacidad en instituciones públicas, en las de asistencia privada; o están facultadas para buscarles un lugar adecuado para dicho fin, en tanto se resuelve en definitiva la situación en que deben quedar.
 
-### CAPÍTULO V. DE LAS AUTORIZACIONES PARA LAS ADECUACIONES, INSTALACIÓN Y MODIFICACIÓN DE INFRAESTRUCTURA PARA LA MOVILIDAD
+### CAPÍTULO II. De la Custodia de los Hijos o Hijas
+
+Custodia de los hijos o hijas durante el matrimonio o el concubinato
 
 ###### Artículo 328.
 
-Los agentes de la SSP, inspectores del Instituto, así como las autoridades municipales en el ámbito de sus respectivas competencias, procederán a aplicar como medida de seguridad el retiro de la circulación de un vehículo, que será puesto bajo resguardo en los depósitos autorizados por la SSP o la autoridad municipal competente, ya sean públicos o privados para esos fines de conformidad con la presente Ley y su Reglamento, en los siguientes casos:
+Durante el matrimonio o el concubinato ambos progenitores deberán tener la custodia de sus hijos o hijas.
 
-I. Que circule sin ambas placas o el permiso temporal respectivo, o que éstos se encuentren alterados por cualquier medio, así como la obstrucción de su vista total o parcialmente;
-
-II. En caso de que se trate de una persona cuya licencia se encuentre suspendida o cancelada en términos de esta Ley y su respectivo Reglamento;
-
-III. Tratándose de unidades del servicio de trasporte, además de lo señalado en la fracción anterior al no coincidir los elementos de identificación de las concesiones, permisos y constancias, con los que presente el vehículo en cuestión;
-
-IV. Cuando los datos del registro del vehículo no correspondan a los asentados en la tarjeta de circulación o no coincidan con los datos contenidos en el Registro Estatal Vehicular;
-
-V. Carecer de la tarjeta de circulación o la constancia respectiva expedida por la autoridad responsable en la que conste su robo o extravío;
-
-VI. Cuando el vehículo porte placas que no coincidan a las asignadas y registradas en el Registro Estatal Vehicular;
-
-VII. Cuando el vehículo se use con fines distintos a los autorizados y de conformidad a la presente Ley y su Reglamento;
-
-VIII. Cuando sea visiblemente notoria la emisión de humo;
-
-IX. Cuando el vehículo se encuentre estacionado en lugar prohibido en las vías estatales y municipales de comunicación, frente a una cochera, obstruyendo rampa para personas con discapacidad, banquetas, zonas peatonales, ciclovías, infraestructura ciclista, estacionamiento exclusivo para vehículos de emergencia, seguridad pública, zonas o áreas de carga y descarga, abandonado o en lugares en que el estacionamiento del mismo provoque entorpecimiento a la circulación de vehículos o la movilidad de las personas peatonas y si se encontrara en dicho lugar el conductor este se negara a reubicarse o circular;
-
-X. Aquellos que se encuentren estacionados frente a talleres mecánicos o sus inmediaciones con motivo de reparaciones o composturas que deban hacerse en el interior del establecimiento;
-
-XI. Cuando el conductor de un vehículo sea sorprendido prestando cualquier servicio de transporte de personas o de carga en general, que requiera de concesión, permiso o constancia, en caso de utilizar en la carrocería cromática y cualquier otra característica propia de los vehículos autorizados, se procederá su retiro, recayendo en el infractor la obligación de cubrir la totalidad de los gastos que se originen por dicha acción, sin perjuicio de las sanciones que procedan;
-
-XII. Se retirarán de la circulación los vehículos que no cumplan con las características y requisitos de seguridad que señala la presente Ley y su Reglamento o que notoriamente representen un grave peligro para la seguridad de sus ocupantes, de los demás vehículos y personas peatonas, así como aquellos que, por sus condiciones particulares, puedan ocasionar algún daño a las vías estatales y municipales de comunicación;
-
-XIII. Cuando el conductor sea sorprendido conduciendo bajo los efectos de drogas, psicotrópicos o estupefacientes sin prescripción médica, alcohol y arroje un resultado positivo con motivo de la aplicación de la prueba de alcoholemia superior a los valores permitidos en esta Ley, y su Reglamento;
-
-XIV. Cuando el vehículo sea de uso particular y porte cromática propia de las unidades de transporte público y especializado o balizado propio de las unidades de Seguridad Pública, Emergencia y Protección Civil;
-
-XV. El vehículo que circule con baja administrativa y sin el permiso correspondiente;
-
-XVI. Cuando el vehículo sea instrumento u objeto de delito;
-
-XVII. Por no cumplir con los reglamentos y/o los lineamientos del sistema de gestión del estacionamiento autorizado por la autoridad competente;
-
-XVIII. Por acatamiento de una orden judicial o administrativa; y,
-
-XIX. En caso de la ejecución de orden de aprehensión, arresto o comparecencia del conductor y en el momento no se cuente con persona alguna para el resguardo de la unidad.
-
-Cuando a bordo del vehículo se encuentren menores de edad, personas con discapacidad, adultos mayores o personas con movilidad limitada y estas no cuenten con medio alguno para continuar su desplazamiento, los agentes deberán garantizar su traslado ante la autoridad administrativa competente para salvaguardar sus derechos fundamentales e integridad física.
-
-Los gastos derivados de la aplicación de la medida de seguridad señalada en el presente artículo, serán cubiertos íntegramente por los propietarios o conductores, de acuerdo con las tarifas autorizadas en la Ley de Ingresos del Estado.
-
-Para todo lo previsto en esta Ley, así como su Reglamento, se aplicará de manera supletoria lo relativo a lo dispuesto por el Código de Justicia Administrativa del Estado de Michoacán.
+Custodia material en caso de separación
 
 ###### Artículo 329.
 
-La SSP o la autoridad municipal competente, por conducto de sus Agentes, en los casos previstos en el artículo anterior sin perjuicio de lo dispuesto en el Reglamento de esta Ley, además, deberán proceder de conformidad con lo siguiente:
+Cuando los progenitores de una niña, niño o adolescente se encuentren separados, uno de ellos debe asumir la custodia material de aquella o aquel.
 
-I. Se notificará a la persona propietaria del vehículo o conductor la ejecución de la medida de seguridad, señalando los motivos, el fundamento legal, así como el lugar y ubicación del depósito público o privado al que se traslade el vehículo, conforme a los protocolos señalados en el Reglamento de la presente Ley;
-
-II. En el caso previsto en la fracción IX del artículo anterior, si el conductor llegare cuando se estén realizando las maniobras o una vez realizadas las mismas hasta antes de que se retire la grúa con el vehículo, podrá recuperarlo de inmediato, sin perjuicio de las infracciones en que haya incurrido; y,
-
-III. En todos los casos, el Agente levantará el Informe Policial Homologado correspondiente.
+Custodia en caso de separación de los progenitores
 
 ###### Artículo 330.
 
-El Instituto podrá realizar las medidas de seguridad que considere necesarias, a fin de proteger la integridad de las personas y/o el orden.
+Cuando los progenitores de una niña, niño o adolescente, se separen o no vivan juntos, a falta de acuerdo respecto a su custodia y salvo las excepciones previstas en este Código, el juez es quien decide cual de los progenitores debe ejercer la custodia o, en su caso, otorgarla a una persona distinta tomando en cuenta el interés superior de la niña, niño o adolescente.
+
+Derechos del progenitor no custodio
 
 ###### Artículo 331.
 
-Los vehículos retirados de la vía pública o asegurados, por grúas particulares concesionadas u oficiales, se depositarán en los lugares que dispongan las autoridades de tránsito estatal o municipal para ese fin; los gastos derivados de estas acciones serán cubiertos íntegramente por los propietarios de los vehículos remitidos, de acuerdo con las tarifas establecidas en la normativa vigente en materia de tránsito y movilidad y enteradas en la SFA o la Tesorería Municipal.
+Cuando por consecuencia de la terminación del matrimonio o la separación de los progenitores, el ejercicio de la patria potestad la conserven ambos, la protección, guarda y custodia de los hijos o hijas sobre los que la pueden ejercer, sólo legitimará la cohabitación permanente con el progenitor custodio, pero esto no deberá afectar los derechos del progenitor no custodio a una adecuada comunicación con sus hijos o hijas, ni el cumplimiento de sus obligaciones.
 
-Sólo los particulares que cuenten con concesión podrán prestar los servicios de grúa y depósito vehicular, y deberán de cumplir con todos los requisitos que mediante el Reglamento correspondiente emita la autoridad para tal efecto.
+Información entre progenitores
 
 ###### Artículo 332.
 
-Para los efectos y aplicación de la multa, se sujetará al procedimiento establecido por el reglamento respectivo que corresponda al caso específico, el cual la fijará en el valor diario de la Unidad de Medida y Actualización, atendiendo al tipo de falta y su gravedad y las circunstancias de su comisión.
+El progenitor custodio tiene la obligación de informar oportunamente al otro progenitor, sobre las enfermedades, accidentes y cualquier problema que afecte a los hijos o hijas, para que éste cumpla su deber de proteger y educar; así como pedir su autorización en todos aquellos actos que requieran intervención de ambos progenitores, facilitando la sana convivencia con sus hijos o hijas y el respeto que éstos deben a sus progenitores.
 
-Únicamente se cobrará por arrastre y guarda del vehículo y no por concepto del tiempo de espera, tipo de maniobra u otros conceptos.
+La violación sistemática de estas obligaciones legitima al progenitor no custodio a solicitar la modificación en relación a la custodia de los hijos o hijas, debiendo señalarse en la sentencia esta circunstancia y apercibir al que tiene la custodia, mediante notificación personal del fallo, en los términos del Código de Procedimientos Familiares del Estado de Yucatán.
 
-### CAPÍTULO VI. DE LA INFRAESTRUCTURA PARA EL TRANSPORTE PÚBLICO
+### CAPÍTULO III. De la Custodia Provisional
+
+Custodia provisional otorgada por el juez
 
 ###### Artículo 333.
 
-Los elementos legalmente facultados de la autoridad estatal o municipal deberán retirar de la circulación, aquellos vehículos que por su conducción o condición física evidentemente peligrosa, representen un grave riesgo para las personas peatonas, la seguridad de sus ocupantes y de los demás vehículos.
+El juez tiene la facultad de decretar la custodia provisional de las niñas, niños y adolescentes, en los casos en que así se requiera.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+La custodia provisional puede ser otorgada sólo a uno de los progenitores; a las personas que les corresponda el ejercicio de la patria potestad; a los parientes colaterales hasta el tercer grado o, en caso de que haya imposibilidad de designar a alguno de los familiares, o habiéndolo considera que no se protegería adecuadamente el interés superior de la niña, del niño o adolescente, puede determinar su entrega a algún centro de asistencia social o a una familia de acogida.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Objeto de la custodia provisional
 
 ###### Artículo 334.
 
-Cuando en un siniestro de tránsito sólo existan daños materiales entre los involucrados y no hayan resultado lesionados ni personas fallecidas, si los conductores cuentan con licencia, tarjeta de circulación, hologramas vigentes y las partes afectadas celebren convenio y firmen el desistimiento respectivo, se levantarán las infracciones correspondientes, y no se aplicará la medida de seguridad de remisión de vehículos siniestrados al corralón.
+La custodia provisional debe ser benéfica y en atención al interés superior de niñas, niños y adolescentes.
+
+Cuando la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán tenga conocimiento de que alguna niña, algún niño o adolescente es víctima de violencia familiar, generada por malos tratos, agresión física o psicológica, por parte de quien o quienes ejercen su patria potestad, custodia o tutela debe resguardar a la víctima y, en caso de que haya indicios suficientes, solicitar al juez que otorgue la custodia provisional.
+
+Para efectos de lo dispuesto en este artículo, el juez debe decretar la custodia provisional de la niña, del niño o adolescente en forma inmediata y sin más formalidades que las establecidas para tal efecto en el Código de Procedimientos Familiares del Estado de Yucatán y ordenar que la Procuraduría tramite la integración provisionalmente a una vida en familia, hasta en tanto se resuelve el caso en forma definitiva.
+
+Obligación de las personas a quienes se les otorga la custodia provisional
 
 ###### Artículo 335.
 
-Las autoridades estatales y municipales, en el ámbito de su competencia, cuando implementen programas de control para prevenir siniestros de tránsito generados por la ingesta de alcohol y consumo de enervantes, estupefacientes y sustancias tóxicas o psicotrópicas, practicando las pruebas correspondientes de manera aleatoria, deberán emplear instrumentos técnicos de medición, de acuerdo a los lineamientos y protocolos establecidos por el Consejo Estatal, el agente atenderá como mínimo las siguientes directrices:
+A quienes se les concede la custodia provisional de las niñas, niños o adolescentes deben velar por la satisfacción de las necesidades materiales, afectivas, de salud, educación y recreativas de éstas.
 
-I. Proporcionar información al ciudadano sobre el procedimiento que se realizará, las razones por las que se lleva a cabo el operativo y acto de molestia, respetando en todo momento los derechos humanos e integridad de las personas;
-
-II. Establecer los mecanismos tecnológicos y administrativos necesarios que permitan registrar y obtener evidencia en todo momento del actuar de los servidores públicos durante el operativo, así como la interacción con las personas; y,
-
-III. Comunicar a las personas sobre los resultados del operativo y las consecuencias de este, así como las opciones legales que tiene para impugnar o allanarse al resultado del operativo.
+Permanencia de las obligaciones de la familia de origen
 
 ###### Artículo 336.
 
-Son aplicables en materia de protección al medio ambiente, además de las disposiciones legales de la materia, esta Ley y su Reglamento.
+En los casos en que sea procedente, el otorgamiento de la custodia provisional de las niñas, niños y adolescentes no extingue las obligaciones que resultan del vínculo entre éstas y la familia de origen.
+
+Término de la custodia provisional
 
 ###### Artículo 337.
 
-Los vehículos que circulen en las vías estatales y municipales de comunicación y en las que se tengan convenidas con la Federación, se sujetarán a las disposiciones federales y estatales en materia de equilibrio ecológico, protección al medio ambiente, prevención y control de la contaminación, consistentes en la verificación de emisiones de gases, humos y ruidos, que se practicarán en los centros que para el efecto autorice el titular del Poder Ejecutivo, en los que se expedirá el certificado de verificación y el holograma correspondiente.
+La custodia provisional otorgada termina:
 
-### CAPÍTULO I. DEL SISTEMA ESTATAL DE TRANSPORTE
+I. Cuando lo determine el juez en sentencia definitiva;
+
+II. Por haberse cumplido el objeto por el que se concedió;
+
+III. Siempre que exista un cambio en las circunstancias que la originaron;
+
+IV. Por muerte de quien tiene la custodia provisional, si ésta le corresponde a una sola persona, y
+
+V. Si durante la custodia provisional, el sujeto a la custodia llega (sic) la mayoría de edad.
+
+### CAPÍTULO IV. De la Integración a una Vida en Familia de Niñas, Niños y Adolescentes Expósitos, Abandonados o en Situación de Violencia
+
+Objeto de la integración en familia de expósitos o abandonados
 
 ###### Artículo 338.
 
-Está prohibido modificar claxon y silenciadores de fábrica y la instalación de dispositivos como válvulas de escape y similares, que produzcan ruido excesivo, de acuerdo con las normas aplicables.
+La integración a una vida en familia de los expósitos o de las niñas, niños y adolescentes abandonados o que sufran alguna situación de violencia, tiene por objeto procurar su inserción en un ámbito familiar armónico que estimule su sano desarrollo psicofísico.
+
+La integración a que se refiere este artículo puede servir de tránsito a medidas definitivas como son la reincorporación a la familia de origen o bien, la adopción.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán procurará que las niñas, los niños y adolescentes en las situaciones antes referidas, permanezcan bajo el cuidado de familias de acogida debidamente autorizadas, o en acogimiento residencial brindado por centros de asistencia social, el menor tiempo posible.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Protección, guarda y custodia de niñas, niños o adolescentes
 
 ###### Artículo 339.
 
-En materia de tránsito y seguridad vial, la SSP o autoridad municipal competente a través de sus agentes aplicarán las infracciones a la presente Ley y su Reglamento, en materia de tránsito y seguridad vial, que se harán constar mediante la expedición de la correspondiente boleta de infracción; la autoridad competente impondrá la sanción al propietario del vehículo cuando corresponda y en su caso, la sanción económica y perdida de puntaje de unidades a la licencia de conducir, que le corresponda al conductor.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán tiene a su cargo la protección, guarda y custodia de expósitos y de niñas, niños o adolescentes que hayan sido abandonados, de los que se encuentren en alguna situación de violencia, así como de todos aquellos que la autoridad judicial determine, sin perjuicio de otras atribuciones que por ley le correspondan.
 
-La SSP o en su caso el Instituto, o de forma conjunta y de manera concurrente a través de sus agentes e inspectores, respectivamente, aplicarán las infracciones a la presente Ley y su Reglamento, en materia de transporte público y especializado, sin perjuicio de lo señalado en el párrafo anterior, mismas que se harán constar mediante la expedición de las boletas de infracción respectivas.
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Acuerdo para la integración a una familia
 
 ###### Artículo 340.
 
-Corresponde a la SSP hacer la calificación de las infracciones que cometan los conductores y propietarios de vehículos, consignando ante las autoridades competentes a todos aquellos que incurran en la comisión de un delito, de acuerdo con lo que establezcan las disposiciones legales de la materia.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán puede determinar mediante acuerdo debidamente fundado y motivado, que las niñas, los niños o adolescentes expósitos, abandonados o los que se encuentren en alguna situación de violencia que están bajo su protección, guarda y custodia, puedan ser integrados provisionalmente a una vida en familia.
 
-Para efecto de la imposición de las sanciones por infracciones a esta Ley y su Reglamento, sólo los Agentes o inspectores debidamente acreditados que porten identificación con su nombre y número perfectamente visibles, al momento de la infracción, expedirán la boleta correspondiente, fundando y motivando la causa legal; otorgando al presunto infractor, en caso de estar presente, el derecho de asentar en ella lo que a su interés convenga y entregándola por escrito.
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
-En materia de transporte, el Instituto hará la calificación de las infracciones conforme a la presente Ley y su Reglamento.
+Integración de niñas, niños y adolescentes a familiares diversos o a una familia de acogida
 
-La autoridad competente impondrá la sanción económica, tanto al propietario del vehículo, conductor u operador, cuando corresponda, y además a la pérdida de puntaje de unidades a la Licencia de conducir a éste último, con independencia de las sanciones relativas a la concesión o permiso.
-
-Cuando un Agente imponga una infracción que amerite la suspensión o cancelación de la concesión deberá dar aviso por escrito, vía electrónica o digital del Instituto, para que proceda conforme a sus atribuciones.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE ABRIL DE 2024)</small>
 
 ###### Artículo 341.
 
-En materia de transporte, toda aquella acción u omisión, en la que opere la inobservancia de lo estipulado en esta Ley y su Reglamento, se considerará como una infracción y se sancionará conforme a las disposiciones correspondientes de esta Ley y su Reglamento.
+Para efectos del artículo anterior la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán también puede acordar la integración de niñas, niños o adolescentes en situación de violencia con familiares diversos a sus progenitores o abuelas o abuelos paternos o maternos, en los términos previstos en el artículo anterior.
 
-Las infracciones administrativas podrán imponerse por medio de boletas físicas y a través del uso de equipos y sistemas tecnológicos. En este último supuesto, las infracciones registradas por estos medios se calificarán conforme a la materia correspondiente, y se procederá a la notificación al infractor y/o propietario del vehículo. La infracción se aplicará a la persona propietaria o conductora del vehículo, respondiendo ambas solidariamente
+En caso de que la integración de niñas, niños o adolescentes con sus familiares no resulte lo más conveniente, en aplicación del principio del interés superior de la niñez, la Procuraduría, puede acordar que dicha integración se lleve a cabo con una familia de acogida.
+
+> <small>(REFORMADO, D.O. 26 DE ABRIL DE 2024)</small>
+
+Preferencia para la integración
 
 ###### Artículo 342.
 
-A quienes infrinjan las disposiciones contenidas en esta Ley y su Reglamento se les impondrá en forma separada o conjunta las sanciones siguientes:
+Las niñas, niños o adolescentes que se encuentren en situación de violencia serán integrados preferentemente con personas que sean parientes, siempre y cuando les sea benéfico, tomando en consideración el grado de parentesco, la relación de afinidad y de afectividad, el origen, la comunidad y las condiciones culturales en que se desarrollen. Asimismo, se procurará no separar a hermanas y hermanos, pero, si hubiera necesidad, se establecerán medidas para que mantengan vínculos de convivencia, contacto y comunicación permanente.
 
-I. Amonestación;
+> <small>(REFORMADO, D.O. 26 DE ABRIL DE 2024)</small>
 
-II. Multa;
-
-III. Perdida de las unidades de puntaje de la licencia de conducir;
-
-IV. Suspensión o cancelación de la licencia o permiso provisional; y,
-
-V. Arresto hasta por 36 horas.
-
-Las sanciones anteriores se aplicarán sin perjuicio de la responsabilidad de carácter penal, civil y administrativa en materia de transporte que pudiera derivarse de las infracciones cometidas.
+Familia de acogida
 
 ###### Artículo 343.
 
-La aplicación de sanciones contenidas en esta Ley y su Reglamento corresponde a la SSP, las autoridades municipales y al Instituto en el ámbito de su competencia.
+Para efectos de este Código se entiende por familia de acogida aquella que cuente con la certificación de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Investigación para acordar la integración a la vida en familia
 
 ###### Artículo 344.
 
-Para los efectos de aplicación de la multa, se estará a lo establecido por el Reglamento de esta Ley, atendiendo el tipo de falta y su gravedad, las circunstancias de su comisión y las personales del infractor en materia de tránsito y en materia de transporte.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, antes de acordar la integración a una vida en familia de niñas, niños o adolescentes expósitos, abandonados que se encuentren en una situación de violencia y bajo su guarda, custodia y protección, debe realizar las investigaciones necesarias que acrediten la conveniencia, viabilidad y beneficios que se generarán a la niña, al niño o adolescente.
 
-En ninguna circunstancia se podrá retener la licencia, tarjeta de circulación, placa o vehículo como medio de garantía de pago de la multa impuesta por infringir las disposiciones de esta Ley, su Reglamento o los Reglamentos Municipales de tránsito y seguridad vial. De tal forma que, si el particular no hace el pago de la multa, corresponderá la aplicación del procedimiento administrativo de ejecución conforme a la normativa aplicable.
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Verificación del cumplimiento de los requisitos
 
 ###### Artículo 345.
 
-Se sancionará con multa o arresto inconmutable hasta de treinta y seis horas, a quien cometa cualquier infracción de tránsito conduciendo en estado de ebriedad, conforme a los valores establecidos en esta Ley, o bajo los efectos de sustancias tóxicas, psicotrópicos o estupefacientes, sin prescripción médica, conforme a las disposiciones contenidas en el Reglamento de esta Ley sin perjuicio de la suspensión, cancelación o perdida de las unidades de puntaje a que se refiere esta Ley.
+Además de lo señalado en el artículo anterior, la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, debe verificar que los familiares, personas o las familias de acogida interesadas en la integración a una vida en familia de niñas, niños o adolescentes expósitos, abandonados o que se encuentren en una situación de violencia, cumplan con los requisitos señalados en el artículo siguiente y, en todo caso, tiene la obligación de informar a los interesados, acerca de los derechos y obligaciones inherentes a la integración.
 
-Tratándose de menores de dieciocho años de edad se les cancelará el permiso para conducir y estarán inhabilitados para obtenerlo por un año contado a partir de la fecha en que se cometió la infracción.
+> <small>(REFORMADO, D.O. 26 DE ABRIL DE 2024)</small>
+
+Requisitos que deben cumplir las personas o familias de acogida
 
 ###### Artículo 346.
 
-Independientemente de las sanciones que establecen los ordenamientos legales en materia ecológica, los conductores o propietarios de vehículos que contravengan las disposiciones de esta Ley y su Reglamento, se harán acreedores a la sanción que corresponda a la falta, sin perjuicio del pago de los derechos correspondientes por concepto de depósito y arrastre, en el caso de que el vehículo haya sido remitido a un depósito.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, al acordar la integración a una vida en familia de niñas, niños o adolescentes expósitos o abandonados o que se encuentren en una situación de violencia y bajo su guarda, custodia y protección, debe constatar que la o las personas interesadas acreditaron los requisitos previstos en los lineamientos que al efecto expida y publique en el Diario Oficial del Gobierno del Estado de Yucatán la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Irregularidad derivada de la investigación
 
 ###### Artículo 347.
 
-El pago de las multas deberá efectuarse en las oficinas de la SFA, aplicándose un descuento del cuarenta por ciento por pronto pago, a quien las cubra dentro de los diez días hábiles siguientes al levantamiento de la infracción. Los infractores morosos deberán pagar los recargos correspondientes a las multas no cubiertas, sin perjuicio de hacerlas efectivas mediante el procedimiento administrativo de ejecución.
+Cuando la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán se percate en cualquiera de las investigaciones de alguna irregularidad que pueda ser constitutiva de algún delito debe dar aviso al Ministerio Público.
 
-El beneficio a que se refiere el párrafo anterior no será aplicable cuando concurran las siguientes circunstancias:
+Copia certificada del acuerdo
 
-I. Manejar en estado de ebriedad o bajo el influjo de sustancias tóxicas, psicotrópicas o estupefacientes sin prescripción médica que afecten su habilidad motora;
-
-II. Abandonar el lugar del siniestro de tránsito sin causa justificada;
-
-III. Conducir sin cuidado o conducir imprudentemente en vehículos del servicio de transporte público o especializado;
-
-IV. Al que reincida en prestar el servicio de transporte público o especializado, que carezca de concesión, permiso o autorización; y,
-
-V. Que haya perdido la totalidad de puntos asignados a su licencia.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### Artículo 348.
 
-Al conductor que se le imponga una infracción o cuando el vehículo haya sido retirado de las vías estatales y municipales de comunicación y resguardado en los depósitos autorizados por la SSP, podrá inconformarse ejercitando los medios de impugnación previstos en el Código de Justicia Administrativa del Estado de Michoacán de Ocampo.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán cuando acuerde la integración de una niña, un niño o adolescente expósito, abandonado o que se encuentre en una situación de violencia, debe otorgar a los interesados una copia certificada del acuerdo en el que conste su determinación.
+
+Cuando así proceda, la Procuraduría debe solicitar al juez que otorgue la custodia provisional.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Obligación de vigilancia
 
 ###### Artículo 349.
 
-Los particulares podrán acudir ante la Unidad de Asuntos Internos de la SSP a presentar queja verbal o por escrito, cuando hayan sido objeto de la presunta comisión de un hecho que la Ley señala como delito o violaciones a sus derechos humanos o fundamentales, cometidos por algún Agente en ejercicio de sus funciones.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán está obligada a vigilar el desempeño de las personas o familias a quienes se les haya concedido la integración en familia de niñas, niños o adolescentes expósitos o abandonados, con la periodicidad que resulte necesaria.
+
+A su vez, las personas o familias a que se refiere el párrafo anterior deben hacer del conocimiento de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, los aspectos que puedan significar un cambio en las condiciones imperantes al momento en que se acordó la integración.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Muerte de una de las personas
 
 ###### Artículo 350.
 
-Las causales de retiro o descuento de las unidades de puntaje de la licencia de conducir, establecidos en esta Ley, se determinarán en su Reglamento.
+En el caso de que fallezca una de las dos personas a quienes se les haya concedido la integración en familia de una niña, un niño o adolescente en proceso de adopción, la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, debe iniciar una investigación para determinar si subsisten las condiciones existentes al momento en que se haya acordado la integración.
+
+Para efectos de este artículo, la persona que subsiste debe hacer del conocimiento de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán el fallecimiento.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Revocación del acuerdo
 
 ###### Artículo 351.
 
-No se podrán remitir al depósito los vehículos que transporten productos perecederos, sustancias tóxicas o peligrosas, por violación a lo establecido en la presente Ley y su Reglamento; en todo caso se llenará la boleta de infracción correspondiente, permitiendo que el vehículo continúe su marcha, salvo que el vehículo sea objeto, producto o instrumento del delito.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán revocará el acuerdo a que se refiere este capítulo cuando se violen los derechos de la niña, del niño o adolescente, cambien las condiciones imperantes del momento en que se acordó la integración, si resultan inconvenientes o en detrimento de su interés superior; no se consoliden las condiciones de adaptación con la familia de acogida, o por incumplimiento de las obligaciones alimenticias.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Conversión del acuerdo de integración en custodia provisional o adopción
 
 ###### Artículo 352.
 
-En los casos en que proceda la remisión del vehículo al depósito, y previamente a que se haya iniciado el proceso de arrastre del vehículo, los Agentes estatales y/o municipales a que corresponda, deberán sellarlo para garantizar la guarda y custodia de los objetos que en él se encuentren, así como elaborar el correspondiente inventario del vehículo, de lo contrario, la SSP y la autoridad homóloga en los Municipios, en su caso responderán solidaria y subsidiariamente con el propietario del depósito o corralón vehicular, a la reparación, reposición o pago de los daños patrimoniales o pérdida de objetos inventariados, de conformidad con el resultado del dictamen pericial que al efecto se practique.
+El acuerdo de integración a que hace referencia este capítulo puede convertirse en custodia provisional o adopción concedida por el juez, a solicitud de la persona o familia a la que se haya integrado una niña, un niño o adolescente, una vez cumplidos los requisitos legales que señala este Código, según informes de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán o del Ministerio Público, en su caso.
 
-Se procederá contra los responsables autorizados de los sitios o depósitos destinados a la guarda y custodia de los vehículos remitidos, si estos sufren algún daño distinto a las condiciones fijadas en el inventario o robo parcial de sus piezas o total durante el tiempo en que se encuentren en depósito, a efecto de que reparen el daño causado, sin perjuicio de la responsabilidad civil, penal o administrativa en que se haya incurrido.
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Consentimiento para la conversión
 
 ###### Artículo 353.
 
-Los municipios aplicarán las sanciones de tránsito de conformidad a esta Ley y su Reglamento.
+La conversión a que se refiere el artículo anterior, la debe solicitar la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán al juez y a esta solicitud se le debe anexar el acuerdo de integración emitido por la propia Procuraduría.
+
+El juez, antes de conceder la conversión debe solicitar a las niñas, los niños o adolescentes integrados a una vida en familia, que estén en condiciones de formarse juicio propio, su consentimiento para la conversión, previa información sobre sus efectos.
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Autorización de la conversión
 
 ###### Artículo 354.
 
-Una concesión, permiso o constancia podrá ser objeto de suspensión temporal, como consecuencia jurídica de la reincidencia, conforme a los siguientes supuestos:
+Autorizada la conversión, el juez debe ordenar al Oficial del Registro Civil correspondiente que inscriba un acta de nacimiento nueva al adoptado, en la que aparezcan los datos de sus progenitores adoptivos, sin ninguna mención de tal carácter de la filiación y ordenar la cancelación del acta de nacimiento original.
 
-I. Cuando sea objeto de tres infracciones por las que se imponga multa de cualquier índole y en cualquier tiempo, en este caso, la suspensión será por un mes;
+Los antecedentes deben ser guardados en el secreto del archivo de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, quien no puede informar sobre los antecedentes de los progenitores si se les conociere o clínicos, ni de ningún dato registral del adoptado, a no ser a solicitud de este cuando cumpla la mayoría de edad, en su caso, previa autorización judicial, para integrar su identidad o proteger su salud a través del conocimiento de posibles enfermedades hereditarias.
 
-II. Cuando se cometan tres infracciones por las que se imponga multa, dentro del término de doce meses, la suspensión será por el término de tres meses; y,
+Las inscripciones que en relación con la adopción ordene el juez, deben ser gratuitas, siempre que en la solicitud de adopción se acredite que el o los progenitores adoptivos carecen de recursos económicos.
 
-III. La concesión, permiso o constancia que acumule dos suspensiones, y sea nuevamente infraccionado, entrará en el supuesto de revocación, señalado en el artículo 355.
+### CAPÍTULO V. De la Convivencia
 
-### CAPÍTULO II. DEL SERVICIO DE TRANSPORTE PÚBLICO DE MOVILIDAD ACTIVA
+Derecho de convivencia
 
 ###### Artículo 355.
 
-El Poder Ejecutivo del Estado tendrá la facultad para revocar las concesiones, permisos o constancias que se hubieren otorgado, por:
+El derecho de convivencia de las niñas, niños y adolescentes o personas incapaces, tiene como finalidad que éstas se relacionen y mantengan contacto en la forma más amplia posible con el progenitor no custodio a fin de favorecer su propio y necesario desarrollo emocional.
 
-I. Realizar un servicio distinto del expresamente concesionado o prestarlo en forma notoriamente deficiente o por carecer los vehículos de los requisitos señalados en la presente Ley y su Reglamento;
-
-II. Cuando los derechos sobre concesiones, permisos y constancias los cuales son personalísimos, sean objeto de mandato, arrendamiento, hipoteca, donación, embargo, enajenación, comodato, usufructo, gravamen o permuta, total o parcialmente, en contravención a lo dispuesto en esta Ley;
-
-III. Suspensión del servicio sin causa justificada o autorización previa;
-
-IV. Violación de tarifas o contravención de itinerarios, horarios o área de adscripción;
-
-V. Falta de póliza de seguro de cobertura amplia, o su equivalente en los términos de esta Ley y su Reglamento o, contando con póliza vigente, su cobertura resulte previsiblemente insuficiente para indemnizar en términos de las leyes aplicables;
-
-VI. La comisión dolosa de algún hecho delictivo o ilícito con motivo del servicio que presta, una vez comprobada la responsabilidad, así como la violación de sellos impuestos por la autoridad;
-
-VII. Falta de liquidación, dentro de los sesenta días hábiles siguientes a aquel en que sean exigibles los derechos fiscales, correspondientes a la revalidación anual de las concesiones;
-
-VIII. Transportar bebidas alcohólicas sin la autorización correspondiente;
-
-IX. Transportar sin autorización, materiales que requieran permiso especial;
-
-X. Transportar estupefacientes;
-
-XI. Transportar artículos que no estén amparados por la documentación que acredite su procedencia legal;
-
-XII. Transportar objetos cuyo traslado esté prohibido por la Ley o la autoridad respectiva;
-
-XIII. Actualización de supuestos de reincidencia, conforme a lo establecido en la presente Ley y su Reglamento;
-
-XIV. No renovar la concesión dentro del término legal y por no poner en servicio el vehículo autorizado dentro del plazo de noventa días, contados a partir de la fecha de notificación de expedición de la concesión a su favor;
-
-XV. Traer el vehículo placas de servicio público que no correspondan al vehículo autorizado;
-
-XVI. Prestar el servicio con unidades no autorizadas;
-
-XVII. Ejecutar actos que impidan o tiendan a impedir la operación de otros prestadores de servicio que tengan derechos similares o de cualquier otra modalidad, uso o tipo;
-
-XVIII. Interrumpir, el libre tránsito de las personas u otras unidades en las vías públicas, de manera parcial o total, sin causa justificada, así como aquellos casos en que se altere el orden público, con unidades del servicio de transporte;
-
-XIX. Conforme a la responsabilidad solidaria establecida en la presente Ley y su Reglamento, la persona concesionaria, permisionaria o constanciatarias, cuando quien conduzca unidad de transporte bajo el influjo de cualquier tipo de drogas, enervantes, psicotrópicos o en estado de ebriedad, haya incurrido durante la prestación del servicio en responsabilidad de accidentes viales;
-
-XX. Cuando se compruebe por la autoridad competente que la persona concesionaria por sí o a través de sus personas operadoras, empleadas o personas relacionadas con la prestación del servicio de transporte público encomendado, ejerza y/o encubran actos de violencia de género;
-
-XXI. No cumplir con las horas de capacitación establecidas en esta Ley y su Reglamento;
-
-XXII. En caso de que las personas concesionarias, permisionarias y personas operadoras no atiendan a los protocolos vigentes en materia de protección y atención a personas, al prestar el servicio;
-
-XXIII. No cubrir las indemnizaciones por lesiones graves y fallecimientos causados a los peatones, ciclistas, conductores o terceros, con motivo de la prestación del servicio, así como por la inobservancia de los protocolos de atención a víctimas o aquellos que resultaren aplicables;
-
-XXIV. Cuando se exhiba documentación apócrifa o se proporcionen informes, datos falsos o dolosamente incompletos al Instituto;
-
-XXV. Pedir o recibir una contraprestación económica por la cesión de derechos entre particulares;
-
-XXVI. Cuando en las revisiones documentales a cargo del Instituto, se acredite que no se conservan las capacidades legales, técnicas, materiales y/o financieras en los términos que establece (sic) presente Ley y los reglamentos correspondientes;
-
-XXVII. Transportar fauna de procedencia ilegal; y,
-
-XXVIII. Incumplir reiteradamente cualquier otra de las obligaciones o condiciones establecidas en la presente Ley o exigirlo así el interés público.
+Obligación de los progenitores de convivir
 
 ###### Artículo 356.
 
-El Ejecutivo del Estado tendrá la facultad para cancelar las concesiones, permisos y constancias que se hubieren otorgado, por:
+Los progenitores, aún cuando estén divorciados o que vivan separados, tienen la obligación de convivir con sus hijas o hijos.
 
-I. No se inicie la prestación del servicio de transporte, dentro del plazo de cuarenta y cinco días hábiles en caso del servicio público de transporte individual, salvo caso fortuito o fuerza mayor;
-
-II. Se suspenda la prestación del servicio de transporte durante un plazo mayor de siete días, por causas imputables a la persona concesionaria; o,
-
-III. Se incumpla con las condiciones y tiempos establecidos en los títulos de concesión, convenios o contratos.
-
-## ARTÍCULOS TRANSITORIOS
-
-PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-SEGUNDO. El Poder Legislativo, a través de las comisiones por competencia de materia, armonizará la legislación del Estado, en un término no mayor a 365 días naturales, a partir de la entrada en vigor de la presente Ley, conforme a lo mandatado en la Constitución Política de los Estados Unidos Mexicanos, la Ley General y en la presente ley.
-
-TERCERO. Las autoridades estatales en materia de movilidad, tránsito, transporte y seguridad vial deberán de considerar en el proyecto del presupuesto de egresos 2024, a nivel de Unidad Programática Presupuestal (UPP) los recursos presupuestales suficientes para cumplir con el objeto y fines de la presente ley, a la entrada en vigor de la presente ley, estas se sujetarán a la suficiencia presupuestaria disponible dentro del presente ejercicio fiscal.
-
-CUARTO. Se abrogan la Ley de Fomento al Uso de la Bicicleta y Protección al Ciclista del Estado de Michoacán de Ocampo y la Ley de Tránsito y Vialidad del Estado de Michoacán de Ocampo; se derogan de la Ley de Comunicaciones y Transportes del Estado de Michoacán sus Títulos Primero, Segundo y Cuarto.
-
-QUINTO. A la entrada en vigor del presente Decreto, todas las menciones referentes a la Ley de Comunicaciones y Transportes del Estado de Michoacán de Ocampo, así como a la Ley de Tránsito y Vialidad del Estado de Michoacán de Ocampo, Ley de Fomento del Uso de la Bicicleta y Protección al Ciclista del Estado de Michoacán de Ocampo y sus respectivos reglamentos, en otras leyes del Estado, o disposición jurídica concurrente, se entenderán referidas a la Ley de Movilidad y Seguridad Vial del Estado de Michoacán.
-
-SEXTO. A partir de la entrada en vigor del presente Decreto, en un plazo no mayor a 365 días naturales, los Municipios deberán armonizar sus disposiciones normativas y reglamentarias, programáticas, presupuestales y de políticas públicas con la finalidad de integrar y homologar sus atribuciones conforme a la presente Ley y su Reglamento.
-
-SÉPTIMO. Las sanciones y demás disposiciones previstas en los reglamentos de la Ley de Tránsito y Vialidad del Estado de Michoacán de Ocampo y la Ley de Comunicaciones y Transportes del Estado de Michoacán, seguirán vigentes hasta en tanto no se publiquen las disposiciones reglamentarias respectivas.
-
-OCTAVO. El Titular del Poder Ejecutivo del Estado, en un término no mayor a 210 días hábiles, deberá expedir los reglamentos que resulten necesarios para el cumplimiento del presente Decreto.
-
-NOVENO. En todos los procedimientos judiciales y de justicia administrativa, en los que sean parte los órganos del Estado en materia de tránsito y transporte, se deberán sustanciar por las autoridades antes referidas conforme a la normatividad que se encontraba vigente en el momento de su inicio.
-
-DÉCIMO. El titular del Ejecutivo del Estado, contará con 180 días hábiles para crear el Instituto, respetando los derechos laborales de los trabajadores de base y sindicalizados.
-
-DÉCIMO PRIMERO. En lo referente a esta Ley, hasta en tanto no sea creado el Instituto, las atribuciones de éste serán entendidas como las de la Comisión Coordinadora del Transporte Público de Michoacán.
-
-DÉCIMO SEGUNDO. A la entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo del Estado, en un periodo no mayor a 30 días hábiles, deberá conformar e instalar el Consejo Estatal de Movilidad y Seguridad Vial.
-
-DÉCIMO TERCERO. Una vez instalado el Consejo Estatal de Movilidad y Seguridad Vial, éste emitirá en un término no mayor a 180 días hábiles, la Estrategia Estatal de Movilidad y Seguridad Vial.
-
-DÉCIMO CUARTO. Una vez instalado el Consejo Estatal de Movilidad y Seguridad Vial, en un periodo no mayor a 180 días hábiles, éste creará el Sistema Estatal de Información Territorial y Urbano (SEITU).
-
-DÉCIMO QUINTO. La Secretaría de Finanzas y Administración, previa la reforma legal respectiva y posterior a la adecuación administrativa y tecnológica correspondientes, recibirá los pagos de los sujetos obligados que mandata la presente ley, en los plazos que la misma establezca, en tanto se seguirán cobrando los conceptos y tarifas vigentes en la legislación y normatividad correspondiente.
-
-DÉCIMO SEXTO. El Poder Ejecutivo del Estado, en un periodo no mayor a 180 días hábiles, a la entrada en vigor del presente Decreto, deberá emitir los lineamientos para generar los contenidos de los exámenes de valoración integral teórico y práctico, de conocimientos y habilidades necesarias, para la expedición de las licencias y permisos de conducir, respectivos, considerados en el presente Decreto.
-
-DÉCIMO SÉPTIMO. El Poder Ejecutivo del Estado, en un término no mayor a 180 días hábiles, creará el Fondo para el Desarrollo de la Movilidad y el Transporte teniendo como fines los establecidos en el presente Decreto, para lo cual deberá expedir las reglas de operación, lineamientos y demás disposiciones que resulten necesarias para el adecuado funcionamiento de este. La administración de este fondo estará a cargo de la SEDUM en términos de las disposiciones jurídicas que resulten aplicables.
-
-DÉCIMO OCTAVO. El Poder Ejecutivo del Estado, en un término no mayor a 180 días a partir de la entrada en vigor de la presente Ley, deberá, a través de sus dependencias y entidades, conformar los registros y bases de datos a que se refiere el presente Decreto.
-
-El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
-
-DADO EN EL RECINTO DEL PODER LEGISLATIVO, Morelia, Michoacán de Ocampo, a los 01 un días del mes de junio de 2023 dos mil veintitrés.
-
-ATENTAMENTE.- PRESIDENTA DE LA MESA DIRECTIVA DIP. JULIETA GARCÍA ZEPEDA.- PRIMER SECRETARIA DIP. DANIELA DE LOS SANTOS TORRES.- SEGUNDA SECRETARIA DIP. LIZ ALEJANDRA HERNÁNDEZ MORALES.- TERCER SECRETARIA.- DIP. ANA BELINDA HURTADO MARÍN. (Firmados).
-
-En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, al 01 primer día del mes de junio del año 2023 dos mil veintitrés.
-
-SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- MTRO. ALFREDO RAMÍREZ BEDOLLA.- EL SECRETARIO DE GOBIERNO.- LIC. CARLOS TORRES PIÑA. (Firmados).
+Alcance de la convivencia
 
 ###### Artículo 357.
 
@@ -4297,7 +3181,9 @@ Las niñas, niños o adolescentes pueden emitir su opinión respecto al régimen
 
 ## TÍTULO DÉCIMO PRIMERO. ADOPCIÓN
 
-### CAPÍTULO III. DEL SERVICIO DE TRANSPORTE PÚBLICO DE PERSONAS
+### CAPÍTULO I. Disposiciones Generales
+
+Naturaleza de la adopción
 
 ###### Artículo 368.
 
@@ -4403,9 +3289,9 @@ El Sistema para el Desarrollo Integral de la Familia en Yucatán y la Procuradur
 
 La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán informará a la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, de manera trimestral, respecto de los datos contenidos en el registro a que se refiere este artículo, relativos a niñas, niños y adolescentes.
 
-### CAPÍTULO IV. DEL SERVICIO DE TRANSPORTE ESPECIALIZADO
+### CAPÍTULO II. De los Requisitos para la Adopción
 
-> <small>(F. DE E., P.O. 16 DE JUNIO DE 2023)</small>
+Requisito indispensable para la adopción
 
 ###### Artículo 380.
 
@@ -4527,7 +3413,7 @@ Las personas extranjeras radicadas en México que pretendan adoptar, deben acred
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 26 DE ABRIL DE 2024)</small>
 
-### CAPÍTULO V. DEL SERVICIO DE TRANSPORTE PÚBLICO DE CARGA
+### CAPÍTULO III. De la Adopción Simple
 
 ###### Artículo 390.
 
@@ -4545,7 +3431,9 @@ Las personas extranjeras radicadas en México que pretendan adoptar, deben acred
 
 (DEROGADO, D.O. 26 DE ABRIL DE 2024)
 
-### CAPÍTULO VI. DE LAS CONCESIONES, PERMISOS Y CONSTANCIAS
+### CAPÍTULO IV. De la Adopción Plena
+
+Adopción en forma plena
 
 ###### Artículo 394.
 
@@ -4577,7 +3465,9 @@ Cuando se otorgue la adopción plena, el juez debe ordenar al Oficial del Regist
 
 Para efectos de este artículo aplica lo previsto en los párrafos segundo y tercero del artículo 354 de este Código.
 
-### CAPÍTULO VII. DEL SISTEMA INTEGRADO DEL TRANSPORTE
+### CAPÍTULO V. De la Adopción Internacional
+
+Adopción hecha por mexicanos o extranjeros que residan en otro país
 
 ###### Artículo 399.
 
@@ -4645,7 +3535,7 @@ Al Sistema para el Desarrollo Integral de la Familia en Yucatán o a la Procurad
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 26 DE ABRIL DE 2024)</small>
 
-### CAPÍTULO VIII. DE LOS TRÁMITES, SERVICIOS Y DEL CONTROL VEHICULAR
+### CAPÍTULO VI. De la Conversión de la Adopción Simple a Plena
 
 ###### Artículo 406.
 
@@ -4661,7 +3551,9 @@ Al Sistema para el Desarrollo Integral de la Familia en Yucatán o a la Procurad
 
 ## TÍTULO DÉCIMO SEGUNDO. TUTELA
 
-### CAPÍTULO IX. DE LAS TARIFAS DEL SISTEMA ESTATAL DE TRANSPORTE
+### CAPÍTULO I. Disposiciones Generales
+
+Objeto de la tutela
 
 ###### Artículo 409.
 
@@ -4883,7 +3775,9 @@ Deber de avisar sobre personas que deben estar sujetas a tutela
 
 El Consejo Local de Tutelas, o cualquier persona o autoridad que tenga noticia de que alguien debe estar sujeto a tutela y carece de representante legal, debe ponerlo en conocimiento del Sistema para el Desarrollo Integral de la Familia en Yucatán o de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, según corresponda, o del Ministerio Público.
 
-### CAPÍTULO X. DEL REGISTRO ESTATAL DEL TRANSPORTE
+### CAPÍTULO II. De la Tutela Legítima
+
+Concepto de tutela legítima
 
 ###### Artículo 434.
 
@@ -4935,7 +3829,9 @@ Tutor de los hijos o hijas del sujeto a tutela
 
 El tutor de un pupilo que tenga hijos o hijas menores de edad sujetos a la patria potestad o a la tutela, debe ser también tutor de éstos.
 
-### CAPÍTULO XI. DEL CENTRO DE INFORMACIÓN Y MONITOREO DEL TRANSPORTE
+### CAPÍTULO III. De la Tutela Testamentaria
+
+Tutela testamentaria
 
 ###### Artículo 442.
 
@@ -4975,7 +3871,9 @@ Nombramiento de tutor interino por falta del tutor testamentario
 
 Si por nombramiento condicional de tutor o por cualquier otro motivo, falta temporalmente el tutor testamentario, el juez debe proveer de tutor interino al pupilo conforme a las reglas generales para el nombramiento de tutores.
 
-### CAPÍTULO XII. DEL FONDO PARA EL DESARROLLO DE LA MOVILIDAD Y EL TRANSPORTE
+### CAPÍTULO IV. De la Tutela Dativa
+
+Origen de la tutela dativa
 
 ###### Artículo 448.
 
@@ -5023,7 +3921,11 @@ Bienes adquiridos por el pupilo
 
 Si el pupilo sujeto a la tutela dativa adquiere bienes, el juez debe disponer lo conducente en relación con la retribución que el tutor pudiera recibir. Si el juzgador lo considera necesario, puede nombrar curador.
 
-### CAPÍTULO I. DE LAS MEDIDAS DE SEGURIDAD
+### CAPÍTULO V. De la Tutela Pública
+
+> <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
+
+Tutela pública
 
 ###### Artículo 454.
 
@@ -5071,6 +3973,10 @@ Objeto de la tutela pública
 
 El ejercicio de la tutela pública queda sujeto en cuanto a la protección, educación, salud, rehabilitación, en su caso, y satisfacción de necesidades básicas de las niñas, niños y adolescentes y a las modalidades que impriman las resoluciones judiciales que se dicten en relación a la tutela.
 
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
+
+El órgano jurisdiccional que hubiere otorgado la tutela pública, podrá solicitar en cualquier momento la información necesaria a través de las instancias correspondientes para conocer el estado físico, psicológico, emocional y social que guardan las niñas, niños y adolescentes sujetos a dicha tutela, con el fin de garantizar la protección de sus derechos.
+
 > <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 Deber de las personas que tengan bajo custodia o cuidado a niñas, niños o adolescentes
@@ -5087,6 +3993,10 @@ Deber de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Es
 
 La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán o el Sistema para el Desarrollo Integral de la Familia en Yucatán, en el ámbito de sus respectivas competencias, debe realizar visitas periódicas a centros de asistencia social, instituciones, asociaciones, sociedades, casas de estancia o albergues a los que canalicen niñas, niños, adolescentes y demás personas que así les permitan las leyes, susceptibles de entrar a tutela pública, en los términos establecidos en la Ley para la Protección de la Familia del Estado de Yucatán y de acuerdo con lo que establece este Código.
 
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
+
+Cuando el personal que efectúe tales visitas se percate de alguna irregularidad o hecho que pueda ser constitutivo de algún delito, deberá informar a la Procuraduría o al Sistema, según corresponda, así como dar aviso al Ministerio Público.
+
 > <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 Tutela pública de niñas, niños y adolescentes expósitos o abandonados
@@ -5099,7 +4009,9 @@ Las niñas, los niños o adolescentes expósitos o abandonados, quedan bajo tute
 
 El acta circunstanciada con la certificación para considerar a una niña, un niño o un adolescente expósito o abandonado, será emitida por la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán en términos de lo previsto en la Ley General de los Derechos de Niñas, Niños y Adolescentes y en la Ley de Adopciones de Niñas, Niños y Adolescentes del Estado de Yucatán.
 
-### CAPÍTULO II. DE LAS MEDIDAS DE PROTECCIÓN AL MEDIO AMBIENTE
+### CAPÍTULO VI. De los Impedimentos y la Separación en el Desempeño de la Tutela
+
+Impedimentos para ser tutor
 
 ###### Artículo 461.
 
@@ -5171,7 +4083,9 @@ El tutor que se encuentre involucrado en un asunto penal con el carácter de imp
 
 Absuelto el tutor, puede volver al desempeño de su cargo, pero si es condenado por la comisión de un delito considerado grave por la legislación penal vigente, no deberá volver a desempeñar el cargo de tutor, en virtud de lo cual, corresponde al juez nombrar tutor definitivo.
 
-### CAPÍTULO III. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS EN MATERIA DE TRÁNSITO, TRANSPORTE Y SEGURIDAD VIAL
+### CAPÍTULO VII. De las Excusas para Desempeñar la Tutela
+
+Excusas para desempeñar la tutela
 
 ###### Artículo 466.
 
@@ -5229,7 +4143,9 @@ Muerte del tutor
 
 Muerto el tutor que está desempeñando el cargo, sus herederos o albacea están obligados a dar aviso al juez, quien debe nombrar tutor interino en tanto decide en definitiva sobre la tutela.
 
-### CAPÍTULO IV. SUSPENSIÓN, REVOCACIÓN Y CANCELACIÓN DE CONCESIONES
+### CAPÍTULO VIII. De la Garantía que deben Prestar los Tutores
+
+Garantía exigible al tutor
 
 ###### Artículo 472.
 
@@ -8851,9 +7767,11 @@ D.O. 7 DE JUNIO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 505/2022 POR EL QUE SE MODIFICAN LA LEY DEL NOTARIADO DEL ESTADO DE YUCATÁN, EL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN, EL CÓDIGO CIVIL DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA LEY DEL CATASTRO DEL ESTADO DE YUCATÁN, LA LEY ORGÁNICA DE LA JUNTA DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE YUCATÁN, LA LEY DE FRACCIONAMIENTOS DEL ESTADO DE YUCATÁN, LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN, LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE YUCATÁN, LA LEY DEL INSTITUTO DE VIVIENDA DEL ESTADO DE YUCATÁN, LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS EN EL ESTADO DE YUCATÁN Y LA LEY QUE CREA EL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN".]
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
 Artículo Primero. Entrada en vigor
 
-Este decreto entrará en vigor a los 45 días siguientes al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, a excepción de lo previsto en el párrafo primero del artículo 63 y en la fracción VI del artículo 65 de la Ley General de Hacienda del Estado de Yucatán que lo harán el 31 de diciembre de 2025.
+Este decreto entrará en vigor a los cuarenta y cinco días siguientes al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, a excepción de lo previsto en el párrafo primero del artículo 63 y en la fracción VI del artículo 65 de la Ley General de Hacienda del Estado de Yucatán que lo hará el 30 de septiembre de 2030.
 
 Artículo Segundo. Obligación normativa
 
@@ -8891,13 +7809,17 @@ Artículo Octavo. Remisión de documentación y archivos
 
 El Consejo de Notarios deberá remitir a la Consejería Jurídica todos aquellos medios, documentos o archivos, tanto físicos como electrónicos, que permiten el cumplimiento de las atribuciones que mediante este decreto se transfieren del Consejo de Notarios a la Consejería Jurídica, en un plazo máximo de cuarenta y cinco días naturales, contados a partir de la entrada en vigor de este decreto.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
 Artículo Noveno. Patentes y disposiciones sobre los escribanos
 
-Los escribanos públicos de municipios con población menor a treinta mil habitantes y que a la entrada en vigor de este decreto se encuentren en funciones continuarán ejerciendo, en apego a las disposiciones de la Ley del Notariado del Estado de Yucatán vigentes previo a la entrada en vigor de este decreto, hasta que concluya la vigencia de su nombramiento.
+Los escribanos públicos de municipios con población menor a treinta mil habitantes y que a la entrada en vigor de este decreto se encuentren en funciones, continuarán ejerciendo, en apego a las disposiciones de la Ley del Notariado del Estado de Yucatán y a las que emita la Consejería Jurídica, y sus patentes mantendrán su vigencia hasta el 30 de septiembre del año 2030.
 
-Una vez transcurrido el plazo previsto en el párrafo anterior, los escribanos públicos contarán con un plazo de treinta días hábiles para hacer entrega de las escrituras públicas y sus apéndices a la Dirección del Archivo Notarial de la Consejería Jurídica, en términos de lo previsto en la Ley del Notariado del Estado de Yucatán, vigente previo a la entrada en vigor de este decreto.
+Los escribanos públicos tendrán que participar en el esquema de actualización permanente a que se refiere el artículo 44 de la Ley del Notariado del Estado de Yucatán, en los términos y plazos que determine la Consejería Jurídica en las disposiciones que al efecto emita.
 
-En línea con lo anterior, las disposiciones de la Ley del Notariado del Estado de Yucatán y demás derogadas o reformadas conforme a este decreto que regían la actuación de los escribanos públicos seguirán aplicando únicamente para aquellos escribanos públicos cuyo nombramiento continúe vigente y hasta que este concluya.
+Por única ocasión, a los escribanos públicos a que se refiere el párrafo primero de este artículo transitorio se les tomará la labor que realizan como fedatarios para acreditar el cumplimiento del requisito previsto en la fracción VIII del artículo 16 de la Ley del Notariado del Estado de Yucatán, para efectos de lo anterior, deberán solicitar constancia a la Consejería Jurídica. La acreditación a que se refiere este párrafo tendrá una vigencia de un año, contado a partir del 31 de diciembre de 2025, por lo que deberán presentar la solicitud del examen de aspirante a notario mientras la acreditación esté vigente.
+
+Para los efectos de lo previsto en este artículo transitorio, la Consejería Jurídica publicará, en el Diario Oficial del Gobierno del Estado de Yucatán, las disposiciones que regularán la actuación de los escribanos públicos.
 
 Artículo Décimo. Adecuaciones presupuestales
 
@@ -8948,3 +7870,35 @@ La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Y
 Artículo quinto. Régimen de vigencia especial
 
 Hasta en tanto se emitan los lineamientos correspondientes por parte de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, continuará aplicándose el Acuerdo DIF 07/SO/2a/2013 por el que se expiden los Lineamientos sobre el Trámite de Adopción ante la Procuraduría de la Defensa del Menor y la Familia, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 16 de abril de 2014.
+
+D.O. 31 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 800/2024 POR EL QUE SE MODIFICAN EL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN EN MATERIA DE RESPONSABILIDAD PARENTAL Y EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN EN MATERIA DE FEMINICIDIO”.]
+
+PRIMERO. Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+SEGUNDO. Los talleres a los que se refiere el artículo 57 de este Código, deberán de ser modificados con énfasis en la perspectiva de derechos e interés superior de la niñez que implica la patria potestad incluyendo la responsabilidad parental.
+
+D.O. 31 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 801/2024 POR EL QUE SE MODIFICA EL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN Y LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE YUCATÁN, EN MATERIA DE SUPERVISIÓN Y CUIDADO DE LAS NIÑAS, NIÑOS Y ADOLESCENTES SUJETOS A TUTELA PÚBLICA POR PARTE DEL ESTADO".]
+
+Entrada en vigor
+
+Artículo único. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 155/2025 POR EL QUE SE MODIFICA EL DECRETO 505/2022 POR EL QUE SE MODIFICAN LA LEY DEL NOTARIADO DEL ESTADO DE YUCATÁN, EL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN, EL CÓDIGO CIVIL DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA LEY DEL CATASTRO DEL ESTADO DE YUCATÁN, LA LEY ORGÁNICA DE LA JUNTA DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE YUCATÁN, LA LEY DE FRACCIONAMIENTOS DEL ESTADO DE YUCATÁN, LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN, LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE YUCATÁN, LA LEY DEL INSTITUTO DE VIVIENDA DEL ESTADO DE YUCATÁN, LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS EN EL ESTADO DE YUCATÁN Y LA LEY QUE CREA EL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN".]
+
+Entrada en vigor
+
+Artículo primero.
+
+Este decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Disposición derogatoria
+
+Artículo segundo.
+
+Se derogan todas las disposiciones legales y normativas que se opongan al contenido de este decreto.
