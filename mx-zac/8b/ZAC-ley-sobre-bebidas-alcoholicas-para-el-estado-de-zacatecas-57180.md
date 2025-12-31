@@ -4,7 +4,7 @@ identifier: "ZAC-ley-sobre-bebidas-alcoholicas-para-el-estado-de-zacatecas-57180
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-29"
-last_updated: "2018-01-20"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57180&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ZAC"
 
 LEY SOBRE BEBIDAS ALCOHÓLICAS PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2017.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 20 DE ENERO DE 2018.]
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 29 de septiembre de 2007.
 
@@ -76,6 +74,10 @@ III. LICENCIA DE FUNCIONAMIENTO. Es el acto administrativo por el cual se autori
 IV. PERMISO. Es la autorización eventual, otorgada por la tesorería municipal a los particulares, para la venta y consumo de bebidas alcohólicas;
 
 V. ESTABLECIMIENTO. Lugar autorizado para el almacenaje, distribución, venta o consumo de bebidas alcohólicas;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+V Bis. ESTABLECIMIENTO CON ACTIVIDAD PERMANENTE: Aquel local, inmueble, espacio físico o giro comercial que realiza de manera continua, habitual o regular actividades de venta, suministro o consumo de bebidas alcohólicas y que, por su naturaleza, requiere contar con la Licencia de Funcionamiento correspondiente. También se considerarán establecimientos con actividad permanente aquellos que operen de forma fija o periódica, independientemente de la frecuencia u horarios en que lo hagan, y cuya operación no dependa exclusivamente de la realización de eventos ocasionales, festividades o circunstancias excepcionales.
 
 VI. GIRO. Orientación de las actividades de la licencia o permiso que se otorga a un establecimiento para operar la venta o consumo de bebidas alcohólicas en envase cerrado, abierto o al copeo;
 
@@ -521,13 +523,15 @@ XI. La prohibición expresa de transferirse bajo cualquier modalidad, salvo los 
 
 ### CAPÍTULO III. De los permisos eventuales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 29.
 
-La Tesorería Municipal podrá otorgar, sin la anuencia del Ejecutivo del Estado, permisos eventuales para la venta y consumo de bebidas alcohólicas, en las ferias, kermesses, bailes, espectáculos musicales, festejos populares, plazas de toros, lienzos charros, estadios y en otros eventos, espacios artísticos y deportivos.
+La Tesorería Municipal podrá otorgar, sin la anuencia del Ejecutivo del Estado, permisos eventuales para la venta y consumo de bebidas alcohólicas, en las ferias, kermesses, bailes, espectáculos musicales, festejos populares, plazas de toros, lienzos charros, estadios y en otros espacios artísticos y deportivos.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-Los permisos eventuales no podrán otorgarse con vigencia superior a los quince días naturales, ni para aprovecharse en establecimientos que tienen una actividad permanente y deberán sujetarse al margen que va desde las 10:00 a las 02:00 horas.
+Los permisos eventuales no podrán otorgarse con vigencia superior a los quince días naturales, ni en establecimientos que tienen una actividad permanente y deberán sujetarse al horario que va desde las 10:00 a las 02:00 horas.
 
 No se otorgarán permisos para la venta de bebidas alcohólicas con fines comerciales, en los domicilios particulares, con motivo de festejo alguno.
 
@@ -578,6 +582,12 @@ V. Fecha y horario del mismo, y
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 VI. Las medidas de seguridad física de los asistentes, así como la obligación del titular del permiso de contar con seguridad para salvaguardar el orden del evento y las condiciones especiales que se deban cumplir para el desarrollo del mismo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 33 Bis.
+
+Los Municipios, a través de las Tesorerías Municipales o su equivalente, deberán entregar un reporte mensual a la Secretaría que contenga un informe detallado de los permisos eventuales que hayan emitido. Dicho reporte deberá presentarse a más tardar el día diez del mes siguiente a aquel en que se hubieren otorgado los permisos y deberá incluir, al menos, los datos señalados en el artículo 33 de esta Ley.
 
 ### CAPÍTULO IV. De la clasificación de giros y requisitos especiales
 
@@ -1235,11 +1245,11 @@ VIII. La georreferenciación de los establecimientos.
 
 El Ejecutivo del Estado, a través de la Secretaría, publicará, anualmente, un informe del resultado de expedición de anuencias y licencias en cada uno de los municipios.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 77.
 
-Para efectos de que la Secretaría mantenga actualizado el registro de las licencias de funcionamiento, la autoridad municipal, dentro del término de diez días hábiles contados a partir de la autorización respectiva, remitirá copia del inicio, renovación, cambio de domicilio o giro de cada licencia de funcionamiento que haya expedido.
+Para efectos de que la Secretaría mantenga actualizado el registro de las licencias de funcionamiento, la autoridad municipal, a través de las Tesorerías Municipales o su equivalente, dentro del término de diez días hábiles contados a partir de la autorización respectiva, remitirá copia del inicio, renovación, cambio de domicilio o giro de cada licencia de funcionamiento que haya expedido.
 
 ### CAPÍTULO II. De la inspección
 
@@ -1383,75 +1393,67 @@ Tratándose de las notificaciones de los actos a que se refiere la presente Ley,
 
 Las sanciones pecuniarias que imponga la Secretaría, serán equivalentes al número de cuotas que se indican, en el momento de la infracción, y que serán las siguientes:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-I. Venta de bebidas sin contar
+I. Venta de bebidas sin contar con la licencia o
 
-con la licencia o permiso
+permiso correspondientes 300 a 500 cuotas;
 
-correspondientes 150 a 350 cuotas;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+II. Operar el establecimiento con un
 
-II. Operar el establecimiento
+giro distinto al autorizado 60 a 300 cuotas;
 
-con un giro distinto al autorizado 30 a 150 cuotas;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+III. Venta de bebidas alcohólicas fuera
 
-III. Venta de bebidas alcohólicas
+del horario establecido 60 a 500 cuotas;
 
-fuera del horario establecido 30 a 250 cuotas;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 IV. Por vender en días prohibidos
 
-por las leyes 30 a 250 cuotas;
+por las leyes 60 a 500 cuotas;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-V. Permitir la entrada al
+V. Permitir la entrada al establecimiento o
 
-establecimiento o vender bebidas
+vender bebidas a menores de edad 300 a 600 cuotas;
 
-a menores de edad 150 a 500 cuotas
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+VI. Por no permitir el acceso a las
 
-VI. Por no permitir el acceso
+autoridades en visitas de inspección 300 a 500 cuotas;
 
-a las autoridades en visitas de
-
-inspección 10 a 40 cuotas;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 VII. Por no contar con persianas,
 
-canceles, mamparas u otros
+canceles, mamparas u otros medios
 
-medios en los cabarets, bares,
+en los cabarets, bares, cantinas y
 
-cantinas y cervecerías, que
+cervecerías, que cuenten con entradas
 
-cuenten con entradas directas
+directas por la vía pública 60 a 150 cuotas;
 
-por la vía pública 10 a 60 cuotas;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 VIII. La permanencia de consumidores
 
-dentro de las cervecerías, cantinas
+dentro de las cervecerías, cantinas o bar
 
-o bar, fuera del horario establecido 10 a 40 cuotas;
+fuera del horario establecido 200 a 400 cuotas;
 
 Si se excede de dos horas, la multa
 
 podrá aplicarse en un tanto más
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 IX. Que el establecimiento tenga
 
@@ -1459,35 +1461,35 @@ comunicación hacia habitaciones,
 
 comercios o locales, sin el permiso
 
-correspondiente 10 a 30 cuotas;
+correspondiente 60 a 300 cuotas;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 X. Permitir el ejercicio de la prostitución
 
-dentro del establecimiento 50 a 150 cuotas;
+dentro del establecimiento 100 a 450 cuotas;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 XI. Consumir bebidas alcohólicas
 
 fuera de los giros exclusivos de venta
 
-contemplados en esta Ley 20 a 60 cuotas;
+contemplados en esta Ley 60 a 200 cuotas;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 XII. Consumir bebidas alcohólicas
 
 sin alimentos dentro de los giros
 
-sujetos a tal condición 15 a 50 cuotas;
+sujetos a tal condición 60 a 250 cuotas;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-XIII. Por tener música viva o
+XIII. Por tener música viva o grabada
 
-grabada con alto volumen 15 a 60 cuotas;
+con alto volumen 100 a 300 cuotas;
 
 Salvo que los bandos o reglamentos
 
@@ -1499,61 +1501,87 @@ cual se estará a lo previsto en los
 
 mismos.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 XIV. Al particular que lleve a cabo
 
-alguna transferencia de derechos
+alguna transferencia de derechos de
 
-de los amparados por las licencias de
+los amparados por las licencias de
 
-funcionamiento y permisos. 150 a 200 cuotas;
+funcionamiento y permisos. 250 a 400 cuotas;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-XV. Por la venta de bebidas
+XV. Por la venta de bebidas alcohólicas
 
-alcohólicas en promociones o
+en promociones o eventos que
 
-eventos que propicien el consumo
+propicien el consumo inmoderado,
 
-inmoderado, así como por ofrecer
+así como por ofrecer barras libres 100 a 250 cuotas;
 
-barras libres 50 a 150 cuotas;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 XVI. Por la venta de bebidas
 
-Adulteradas 150 a 500 cuotas;
+adulteradas 300 a 600 cuotas;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 XVII. Por exceder el aforo autorizado
 
-para cada establecimiento 50 a 150 cuotas
+para cada establecimiento 100 a 200 cuotas;
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-XVIII. A las agencias, almacenes
+XVIII. A las agencias, almacenes o
 
-o distribuidores y demás similares
+distribuidores y demás similares que
 
-que vendan o distribuyan bebidas
+vendan o distribuyan bebidas alcohólicas
 
-alcohólicas a establecimientos no
+a establecimientos no autorizados. 400 a 650 cuotas;
 
-autorizados. 200 a 450 cuotas
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 XIX. Por la comisión de infracciones
 
-establecidas en otro apartado de esta
+establecidas en otro apartado de esta Ley,
 
-Ley, el Reglamento Estatal o el
+el Reglamento Estatal o el
 
-Reglamento Municipal. 5 a 60 cuotas.
+Reglamento Municipal. 100 a 250 cuotas;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XX. Por otorgar permisos eventuales
+
+o licencias de funcionamiento en
+
+contravención a lo señalado en esta Ley. 500 a 800 cuotas;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XXI. Por no remitir los reportes mensuales a
+
+que se refiere el artículo 33 Bis de
+
+esta Ley. 250 cuotas;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XXII. Por no remitir la información a
+
+que se refiere el artículo 77 de esta Ley. 250 cuotas.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Las multas que determine la Secretaría, tendrán el carácter de crédito fiscal y se harán efectivas mediante el procedimiento administrativo de ejecución establecido en el Código Fiscal del Estado de Zacatecas y sus Municipios.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Las sanciones señaladas en las fracciones XX, XXI y XXII del presente artículo, no podrán ser cubiertas con recursos públicos.
 
 ###### Artículo 95.
 
@@ -1934,3 +1962,15 @@ Artículo Cuarto. Dentro del término de 90 días naturales, contados a partir d
 Artículo Quinto. Dentro del término de 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, los Ayuntamientos deberán expedir el Reglamento Municipal a que se refiere el presente Decreto.
 
 Artículo Sexto. Se derogan todas aquellas disposiciones jurídicas y administrativas que contravengan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 248.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS Y DE LA LEY SOBRE BEBIDAS ALCOHÓLICAS PARA EL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil veintiséis, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al presente Decreto.
