@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-izamal-yucatan-48197"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-03"
-last_updated: "2021-12-31"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48197&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE IZAMAL, YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2021.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el martes 3 de enero de 2006.
 
@@ -807,7 +807,7 @@ III.- Constancia de alineamiento de bienes inmuebles.
 
 IV.- Licencia para construcción.
 
-V.- Licencia para construcción, que permita la instalación de una torre de comunicación, de una estructura monopolar para la colocación de antena celular, de una base de concreto o adición de cualquier equipo de telecomunicación sobre una torre de alta tensión o sobre infraestructura existente.
+V.- (DEROGADA, D.O. 31 DE DICIEMBRE DE 2025)
 
 VI.- Licencia para construcción de bardas.
 
@@ -819,7 +819,7 @@ IX.- Licencia para hacer cortes o excavaciones en la vía pública.
 
 X.- Licencia para hacer excavaciones en la vía pública, distintos de la fracción IX.
 
-XI.- Licencia para posterío o tendido de líneas.
+XI.- (DEROGADA, D.O. 31 DE DICIEMBRE DE 2025)
 
 XII.- Constancia de terminación de obras, a que se refieren las fracciones IV a XI.
 
@@ -923,19 +923,35 @@ El pago de los derechos a que se refiere esta Sección, se calculará y efectuar
 
 Quedan exentas del pago de los derechos que se establecen en esta Sección las instituciones públicas.
 
-#### Sección Quinta. Derechos por Servicios de Vigilancia
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+#### Sección Quinta. Derechos por Servicios de Vigilancia y Relativos a Vialidad
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 81.
 
 Son objeto de estos derechos, los servicios que presta el Municipio a través de la Dirección de Protección y Vialidad Municipal. Estos servicios comprenden las actividades de vigilancia que se preste a las personas físicas o morales que lo soliciten, para la atención de establecimientos que proporcionen servicios al público en general o de eventos o actividades públicas lícitas destinadas a la comercialización.
 
+Del mismo modo el otorgamiento de permisos para la realización de eventos, trabajos o maniobras que afecten la vialidad del lugar.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 82.
 
-Son, sujetos de estos derechos las personas físicas o morales, instituciones públicas o privadas que soliciten servicio especial de vigilancia.
+Son sujetos de estos derechos las personas físicas o morales, instituciones públicas o privadas que soliciten servicio especial de vigilancia.
+
+También se consideran como sujetos obligados las personas físicas o morales que requieran permisos por parte de la Dirección de Policía Municipal, para efectuar ciertos eventos, trabajos o maniobras que afecten la vialidad del lugar donde se realicen.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 83.
 
 La base para el cobro de este derecho será el número de elementos de la Dirección de Protección y Vialidad del Municipio solicitados para la prestación del servicio.
+
+Asimismo, como la cantidad de maniobras que se realicen en la vía pública, por los sujetos obligados.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 84.
 
@@ -1822,3 +1838,17 @@ En lo no previsto por estas Leyes, se aplicará supletoriamente lo establecido p
 ###### ARTÍCULO CUARTO.
 
 El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que, a la fecha de la publicación de este decreto, no hayan sido transferidos formalmente a los Ayuntamientos por el Gobierno del Estado de Yucatán, entrarán en vigor hasta la celebración del convenio respectivo.
+
+D.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 151/2025 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE TRECE MUNICIPIOS DEL ESTADO DE YUCATÁN”.]
+
+Artículo primero.- Este decreto entrará en vigor el día primero de enero del año dos mil veintiséis, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo.- El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que a la fecha de la publicación de la presente Ley no hayan sido transferidos formalmente al Ayuntamiento por el Gobierno del Estado, entrarán en vigor hasta la celebración del convenio respectivo.
+
+Artículo tercero.- Para el Municipio de Sacalum, el ejercicio del importe anual a pagar por los contribuyentes del impuesto predial base valor catastral, para el caso de los predios cuyo valor catastral sea menor o igual $200,000.00 el impuesto predial base valor catastral no podrá exceder un 6% del que les haya correspondido durante el ejercicio inmediato anterior, para el caso de predios cuyo valor catastral sea igual o superior a $200,000.01 el impuesto predial base valor catastral no podrá exceder el 10% del que les haya correspondido durante el ejercicio inmediato anterior. Este comparativo se efectuará solamente sobre le (sic) impuesto predial, sin tomar en consideración, bonificaciones, excedentes, reducciones, estímulos o accesorios.
+
+I. Los predios que, como resultado de alguna modificación en su superficie de terreno, construcción, así como de la tipología de su construcción, haya aumentado en mas de un 50% el valor catastral que tenían antes dichas modificaciones, de conformidad con las disposiciones aplicables, en cuyo caso aplicará el cálculo establecido en el artículo 34 de esta ley.
+
+II. Los predios que fueron objeto de traslación de dominio a partir del ejercicio inmediato anterior, en cuyo caso aplicará el calculo establecido en el artículo 34 de esta ley.
