@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2025-10-25"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -641,7 +641,9 @@ h) Estado de actividades;
 
 VI. Promover e instalar los Comité de contraloría social, así como la Contraloría Interna Municipal de acuerdo a los procedimientos señalados en esta Ley;
 
-VII. Designar al Titular de la Unidad de Transparencia, y a los integrantes del Comité de Transparencia, en términos de los (sic) dispuesto por la Ley de Transparencia y Acceso a la Información Pública y Buen Gobierno del Estado de Oaxaca.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+VII. Designar al responsable de la Unidad de Transparencia, así como a los integrantes del Comité de Transparencia, en términos de lo dispuesto por la Ley de Transparencia, Acceso a la Información Pública con Sentido Social y Buen Gobierno del Estado de Oaxaca.
 
 VIII. Cumplir con las obligaciones que le imponen la Ley General del Sistema Nacional Anticorrupción y la Ley del Sistema Estatal de Combate a la Corrupción, así como las recomendaciones políticas públicas, lineamientos y cualquier normatividad que emitan las instancias del Sistema Nacional Anticorrupción y del Sistema Estatal de Combate a la Corrupción, para la prevención, investigación y sanción de faltas administrativas y hechos de corrupción, así como en la fiscalización y control de la hacienda pública y el patrimonio municipal, y las demás que les señalen las leyes y reglamentos municipales;
 
@@ -654,6 +656,18 @@ Garantizar la máxima publicidad y la rendición de cuentas, el informe anual al
 X. Acordar fundada y motivadamente los casos en que las sesiones de Cabildo sean privadas, así como la celebración de sesiones virtuales;
 
 El Ayuntamiento y en su caso el (sic) Concejos Municipales están obligados a celebrar sesiones de Cabildo abierto al menos una vez al mes, de conformidad con lo establecido en la Ley de participación Ciudadana para el Estado de Oaxaca.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XI. Designar al Oficial de Datos Personales, en términos de lo dispuesto por la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Oaxaca.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XII. Recabar e informar a la Autoridad Garante Local los datos en materia de transparencia, acceso a la información pública y protección de datos personales necesarios para la elaboración del informe anual, conforme a los lineamientos que emita la Autoridad Garante Local, y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XIII. Solicitar a la Autoridad Garante Local, que de manera subsidiaria divulgue vía electrónica la información pública correspondiente a sus obligaciones de transparencia específicas, establecidas en el Título Quinto de la Ley de Transparencia, Acceso a la Información Pública con Sentido Social y Buen Gobierno del Estado de Oaxaca.
 
 F. En materia de seguridad pública, movilidad y protección ciudadana
 
@@ -1007,9 +1021,9 @@ XVII.- Limpia y Disposiciones de Residuos Sólidos;
 
 XVIII.- Gaceta Municipal y Publicaciones;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-XIX.- Rendición de Cuentas, Transparencia y Acceso a la Información;
+XIX.- Transparencia, Acceso a la Información, Protección de Datos Personales y Rendición de Cuentas;
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 2012)</small>
 
@@ -1107,9 +1121,9 @@ III.- Cuando así lo disponga la Ley de Responsabilidades Administrativas del Es
 
 IV.- El incumplimiento de una resolución judicial en materia electoral.
 
-> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-V.- El incumplimiento de una resolución en materia de Transparencia y Acceso a la Información Pública, dictada por el órgano garante de transparencia del Estado, así como el órgano garante a nivel nacional.
+V.- El incumplimiento de una resolución en materia de Transparencia y/o Acceso a la Información Pública, dictada por la Autoridad Garante Local, así como la Autoridad Garante Federal.
 
 > <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -1118,6 +1132,10 @@ VI.- La violencia política ejercida por razón de género, decretada por un ór
 > <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2022)</small>
 
 VII.- La violación de derechos humanos, decretada por el órgano jurisdiccional competente.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+VIII.- El incumplimiento de una resolución en materia de Protección de Datos Personales, dictada por la Autoridad Garante Local.
 
 ###### ARTÍCULO 61.
 
@@ -1231,7 +1249,9 @@ A) Una vez radicado el expediente en la Comisión Permanente de Gobierno y Asunt
 
 B) La Comisión citará a los solicitantes para ratificar su petición, concediendo un plazo de tres días hábiles, si no lo hicieren se tendrá por no presentada y se desechará de plano.
 
-La Comisión hará excepción de la ratificación, cuando la solicitud sea consecuencia del incumplimiento o inejecución de una resolución judicial en materia electoral o por el incumplimiento de una resolución en materia de Transparencia y Acceso a la Información Pública, dictada por el órgano garante de transparencia del Estado, o el órgano garante a nivel nacional.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+La Comisión hará excepción de la ratificación, cuando la solicitud sea consecuencia del incumplimiento o inejecución de una resolución judicial en materia electoral o por el incumplimiento de una resolución en materia de Transparencia, Acceso a la Información Pública y/o Protección de Datos Personales dictada por la Autoridad Garante Local, así como la Autoridad Garante Federal según corresponda.
 
 Hecha la ratificación, la Comisión ordenará notificar personalmente, correr traslado y emplazar a él o a los integrantes del Ayuntamiento, para que en un término de diez días produzcan su contestación, so pena de declararlos en rebeldía y presuntamente confesos.
 
@@ -1501,11 +1521,11 @@ XXXIV.- Desarrollar acciones para la prevención, atención, sanción y erradica
 
 XXXV.- Las demás que le señalen las leyes, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus ámbitos territoriales.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 69.
 
-Para el cumplimiento de sus funciones, el Presidente Municipal se auxiliará de los demás integrantes del Ayuntamiento y los Órganos Administrativos y de las Comisiones; y además propiciará la capacitación; previa aprobación del Ayuntamiento, de las personas titulares de la secretaría municipal, tesorería, obras públicas, unidad de trasparencia y de la contraloría municipal, los cuales estarán obligados a capacitarse.
+Para el cumplimiento de sus funciones, el Presidente Municipal se auxiliará de los demás integrantes del Ayuntamiento, los Órganos Administrativos y de las Comisiones; y además propiciará la capacitación; previa aprobación del Ayuntamiento, de las personas titulares de la secretaría municipal, tesorería, obras públicas, unidad de transparencia, oficial de datos personales y de la contraloría municipal, los cuales estarán obligados a capacitarse.
 
 ###### ARTÍCULO 70.
 
@@ -2241,7 +2261,9 @@ IV.- Los que adquiera por prescripción positiva.
 
 ARTÍCULO 104 BIS.- El Municipio deberá llevar a cabo el levantamiento físico del inventario de los bienes a que refiere el artículo 104 de la presente Ley. Dicho inventario deberá estar debidamente conciliado con el registro contable, no podrá establecerse un valor inferior al catastral que le corresponda.
 
-El Municipio contará con un plazo de 30 días hábiles para incluir en el inventario físico los bienes que adquieran. Así mismo, deberá de publicar el inventario de sus bienes en los términos que disponga la Ley de Transparencia y Acceso a (sic) Información Pública para el Estado de Oaxaca, el cual deberán actualizar, por lo menos, cada seis meses.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+El municipio contará con un plazo de 30 días hábiles para incluir en el inventario físico los bienes que adquieran. Así mismo, deberá de publicar el inventario de sus bienes en los términos que disponga la Ley de Transparencia, Acceso a (sic) Información Pública con Sentido Social y Buen Gobierno del Estado de Oaxaca, el cual deberán actualizar, por lo menos, cada seis meses.
 
 Los registros contables de los bienes se reflejarán en la cuenta específica del activo que corresponda, de acuerdo con lo dispuesto en el Capítulo II, del Título Tercero de la Ley General de Contabilidad Gubernamental y las normas emitidas por el Consejo Nacional de Armonización Contable, sobre registro y valuación del patrimonio.
 
@@ -2439,7 +2461,9 @@ ARTÍCULO 126 TER.- Los Municipios deberán contar con un Órgano Interno de Con
 
 La designación del titular del Órgano Interno de Control se llevará a cabo mediante convocatoria pública abierta para todas las personas en la que se establecerán las etapas completas para el procedimiento, las fechas límite y los plazos improrrogables, así como los requisitos que el artículo 126 Quinquies que esta Ley señala que deben satisfacer los aspirantes y los documentos que deben presentar para acreditarlos.
 
-En los Municipios con población menor de veinte mil habitantes; las funciones del Órgano Interno de Control Municipal serán realizadas por la Comisión de Rendición de Cuentas, Transparencia y Acceso a la Información, la Comisión que se acuerde en sesión de cabildo o el Ayuntamiento y el Tesorero Municipal de conformidad con lo dispuesto en el artículo 126 de la presente Ley.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+En los Municipios con población menor de veinte mil habitantes; las funciones del Órgano Interno de Control Municipal serán realizadas preferentemente por la Comisión de Transparencia, Acceso a la Información, Protección de Datos Personales y Rendición de Cuentas, o en su defecto por la Comisión que se acuerde en sesión de cabildo o el Ayuntamiento y el Tesorero Municipal de conformidad con lo dispuesto en el artículo 126 de la presente Ley.
 
 > <small>(DEROGADA, P.O. 12 DE JUNIO DE 2021)</small>
 
@@ -2467,9 +2491,9 @@ III.- Comprobar que todos los ingresos y egresos del Municipio, estén debidamen
 
 IV.- Vigilar que se cumpla con la Ley de Ingresos del Municipio y el Presupuesto Anual de Egresos del Municipio, realizando un análisis de las desviaciones detectadas y en su caso emitir las recomendaciones que procedan a las áreas implicadas.
 
-> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-V.- Establecer las políticas, lineamientos, objetivos y acciones en materia de control interno, transparencia, rendición de cuentas, prevención y combate a la corrupción;
+V.- Establecer las políticas, lineamientos, objetivos y acciones en materia de control interno, transparencia, rendición de cuentas, prevención y combate a la corrupción de conformidad con las disposiciones legales que correspondan;
 
 > <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
 
@@ -2543,9 +2567,9 @@ XXII.- Llevar el registro y control de los proveedores, contratistas y particula
 
 XXIII.- Imponer las sanciones que conforme a derecho procedan;
 
-> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
-XXIV.- Formar parte del Comité de Transparencia y Acceso a la Información Pública del Municipio y sancionar en su caso a los servidores públicos, que por negligencia u omisión incumplan con dar respuesta a las solicitudes de acceso a la información pública o de protección de datos personales o con las resoluciones emitidas por el órgano local y federal garantes de este derecho o los tribunales federales;
+XXIV.- Formar parte del Comité de Transparencia y Acceso a la Información Pública del Municipio y sancionar en su caso a los servidores públicos; que por negligencia u omisión incumplan con dar respuesta a las solicitudes de acceso a la información pública y/o de protección de datos personales y/o con las resoluciones emitidas por la Autoridad Garante Local, así como la Autoridad Garante Federal y/o los tribunales federales competentes;
 
 > <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
 
@@ -3105,11 +3129,27 @@ Son deberes del Cronista o del Consejo de Cronistas: llevar un registro de hecho
 
 Son atribuciones y derechos del Cronista o del Consejo e (sic) Cronistas: usar como emblema el escudo del Municipio en su papelería oficial, proponer al Ayuntamiento el otorgamiento de testimonios y reconocimientos a ciudadanos distinguidos y obtener del Ayuntamiento la ayuda necesaria para el desempeño de su labor.
 
-### CAPÍTULO IX. DEL ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+### CAPÍTULO IX. DE LA TRANSPARENCIA, EL ACCESO A LA INFORMACIÓN PÚBLICA, LA PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 165.
 
-Los Ayuntamientos están obligados a observar y dar cumplimiento a las disposiciones contenidas en las Leyes de Transparencia y Acceso a la Información Pública; de Protección de Datos Personales; y de Archivos.
+Los Ayuntamientos, sus autoridades, así como las personas servidoras públicas que en ellos laboran, están obligados a observar y dar cumplimiento a las disposiciones contenidas en las Leyes en materia de Transparencia, Acceso a la Información Pública, Protección de Datos Personales; y de Archivos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 165 BIS.- Transparencia para el Pueblo de Oaxaca, órgano administrativo desconcentrado de la Secretaría de Honestidad, Transparencia y Función Pública, es la Autoridad Garante Local de los Municipios del Estado, por tanto, las resoluciones, recomendaciones y requerimientos que emita esta Entidad Pública serán obligatorios para los sujetos obligados Municipales, en términos de las disposiciones normativas aplicables.
+
+Así mismo, brindará coordinadamente con la Secretaría de Honestidad, Transparencia y Función Pública capacitaciones, talleres y demás acciones que correspondan en materia de transparencia, acceso a la información pública y protección de datos personales para los servidores públicos municipales, generando con ello la cultura de la rendición de cuentas y las mejores prácticas en el cumplimiento de sus obligaciones como sujetos obligados.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+ARTÍCULO 165 TER.- Los Municipios deberán garantizar la privacidad y debido tratamiento de los datos personales que recaben en el ejercicio de sus facultades y/o atribuciones, así mismo implementarán procedimientos sencillos para el ejercicio de los derechos de acceso, rectificación, cancelación, oposición y portabilidad de los datos personales en su posesión.
+
+En todo momento se regirán conforme a los principios que establecen las leyes en la materia, debiendo cumplir los deberes y responsabilidades que les competan como poseedores y resguardantes de datos personales, así como las recomendaciones, determinaciones, resoluciones y requerimientos que emita la Autoridad Garante Local y la Secretaría de Honestidad, Transparencia y Función Pública.
 
 ### CAPÍTULO X. DE LA RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS
 
@@ -4888,3 +4928,13 @@ P.O. 25 DE OCTUBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 872.- MEDIANTE EL CUAL REFORMAN LA FRACCIÓN VII DEL APARTADO E DEL ARTÍCULO 43, LA FRACCIÓN XIX DEL ARTÍCULO 56, LA FRACCIÓN V DEL ARTÍCULO 60, EL SEGUNDO PÁRRAFO DEL INCISO B) DEL ARTÍCULO 65, EL ARTÍCULO 69, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 104 BIS, EL TERCER PÁRRAFO DEL ARTÍCULO 126 TER, LAS FRACCIONES V Y XXIV DEL ARTÍCULO 126 QUATER, LA DENOMINACIÓN DEL CAPITULO IX, DEL TÍTULO SÉPTIMO Y EL ARTÍCULO 165; Y SE ADICIONAN LAS FRACCIONES XI, XII, XIII AL APARTADO E DEL ARTÍCULO 43, LA FRACCIÓN VIII AL ARTÍCULO 60, EL ARTÍCULO 165 BIS Y EL ARTÍCULO 165 TER A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese.
+
+SEGUNDO. Comuníquese el presente Decreto a las instancias correspondientes para los efectos legales a que haya lugar.
+
+TERCERO. Las menciones, atribuciones o funciones contenidas en Bandos de Policía y Gobierno, reglamentos y, en general, en cualquier disposición normativa en materia de transparencia, acceso a la información pública y protección de datos personales, respecto al Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, se entenderán hechas o conferidas a los entes públicos que adquieren tales atribuciones o funciones, según corresponda.
