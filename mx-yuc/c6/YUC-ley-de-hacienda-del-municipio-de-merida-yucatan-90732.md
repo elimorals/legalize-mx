@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-merida-yucatan-90732"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-28"
-last_updated: "2024-12-30"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE MÉRIDA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 28 de diciembre de 2012.
 
@@ -193,9 +193,9 @@ a).- Las licencias de funcionamiento municipales, cuya expedición apruebe la au
 
 b).- Los certificados y las constancias de no adeudar contribuciones municipales;
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-c).- Los acuerdos de notificación, mandamientos de ejecución, de las multas federales no fiscales y de las multas impuestas por las autoridades municipales, requerimientos de pago y oficios de observaciones.
+c).- Los acuerdos de notificación, mandamientos de ejecución, de las multas federales no fiscales y de las multas impuestas por las autoridades municipales, requerimientos de pago, oficios de observaciones y determinación de contribuciones.
 
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
@@ -351,13 +351,13 @@ VIII. Otros ingresos no especificados
 
 ARTÍCULO 20 A.- Son Ingresos derivados de Financiamiento, los ingresos obtenidos por la celebración de empréstitos internos autorizados o ratificados por el Congreso del Estado y los autorizados de forma directa por el Cabildo, sin la aprobación específica del Congreso del Estado, de conformidad con lo dispuesto en las Leyes de Deuda Pública y de Gobierno de los Municipios, ambas del Estado de Yucatán; así como los financiamientos derivados de rescate y/o aplicación de Activos Financieros.
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-#### Sección Décima. Ingresos por ventas de bienes y servicios
+#### Sección Décima. Ingresos por ventas de bienes, prestación de servicios y otros ingresos
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-ARTÍCULO 20 B.- Son recursos propios que obtienen las diversas entidades que conforman el sector paramunicipal por sus actividades de producción y/o comercialización.
+ARTÍCULO 20 B.- Son recursos propios que obtienen las diversas entidades que conforman el sector paramunicipal por sus actividades de producción, comercialización o prestación de servicios; así como otros ingresos por sus actividades diversas no inherentes a su operación, que generen recursos.
 
 > <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
@@ -493,9 +493,9 @@ Las personas físicas y morales, además de las obligaciones especiales contenid
 
 I.- Recabar de la Dirección de Desarrollo Urbano la Licencia de Uso del Suelo para iniciar el trámite de la Licencia de Funcionamiento Municipal en donde se determine que el giro del comercio, negocio o establecimiento que se pretende instalar, es compatible con la zona de conformidad con el Programa Municipal de Desarrollo Urbano de Mérida y que cumple además, con lo dispuesto en el Reglamento de Construcciones del propio Municipio.
 
-> <small>(REFORMADA, D.O. 23 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-II.- Empadronarse en la Dirección de Finanzas y Tesorería Municipal, a más tardar treinta días hábiles después de la apertura del comercio, negocio o establecimiento, o de la iniciación de actividades, si realizan actividades permanentes con el objeto de obtener la licencia de funcionamiento Municipal.
+II.- Obtener la licencia de funcionamiento municipal en la Dirección de Finanzas y Tesorería Municipal, a más tardar treinta días hábiles posteriores a la apertura del comercio, negocio o establecimiento, o de la iniciación de actividades, si realizan actividades permanentes.
 
 III.- Recabar autorización de la Dirección de Finanzas y Tesorería Municipal, si realizan actividades eventuales y con base en dicha autorización, solicitar la determinación de las contribuciones que estén obligados a pagar.
 
@@ -517,101 +517,81 @@ IX.- Acreditar para la realización de trámites ante la Dirección de Finanzas 
 
 #### Sección Novena. De las Licencias de Funcionamiento
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 31.
 
 Las licencias de funcionamiento serán expedidas por la Dirección de Finanzas y Tesorería Municipal, de conformidad con la tabla de derechos vigentes, en su caso.
 
 Tendrán una vigencia que iniciará en la fecha de su expedición y terminará el último día del periodo constitucional de la administración municipal que la expidió, salvo que fueran revalidadas en los términos y condiciones que marca esta Ley.
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2018)</small>
+No obstante lo dispuesto en el párrafo anterior, durante el tiempo de la vigencia de la licencia de funcionamiento, con excepción de la Licencia de Uso del Suelo para iniciar el trámite de la licencia de funcionamiento municipal, su titular deberá mantener vigentes los permisos, licencias, autorizaciones y demás documentos relacionados como requisitos para la apertura y revalidación respectivamente, así como proporcionar una copia de la renovación de cada uno de dichos documentos a la Dirección de Finanzas y Tesorería Municipal dentro de los treinta días hábiles siguientes al vencimiento de los mismos.
 
-No obstante lo dispuesto en el párrafo anterior, durante el tiempo de la vigencia de la licencia de funcionamiento, con excepción de la Licencia de Uso del Suelo para iniciar el trámite de la Licencia de Funcionamiento Municipal, su titular deberá mantener vigentes los permisos, licencias, autorizaciones y demás documentos relacionados como requisitos para la apertura y revalidación respectivamente, así como proporcionar una copia de la renovación de cada uno de dichos documentos a la Dirección de Finanzas y Tesorería Municipal dentro de los treinta días hábiles siguientes al vencimiento de los mismos. Una vez vencido este término sin que se haya cumplido con éstas obligaciones, el Director de Finanzas y Tesorero Municipal o el Subdirector de Ingresos estarán facultados para revocar la licencia que corresponda, sin perjuicio de las sanciones a que se refiere la fracción II y último párrafo del artículo 177 de esta Ley.
+Son obligaciones de la persona titular de la licencia de funcionamiento:
 
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+1. Exhibir en un lugar visible del establecimiento la licencia de funcionamiento vigente;
 
-En adición a lo señalado en el párrafo inmediato anterior, el Director de Finanzas y Tesorero Municipal así como el Subdirector de Ingresos estarán facultados para revocar la licencia de funcionamiento para aquellos casos que para su obtención o revalidación se hayan proporcionado o presentado información o documentos falsos o cuando se le revoque la licencia de uso de suelo por resolución de autoridad competente.
+2. Revalidar la licencia de funcionamiento durante los seis primeros meses de cada administración municipal, por lo que dicho plazo se considerará como una prórroga de la vigencia.
 
-El titular de la licencia de funcionamiento deberá revalidarla durante los cuatro primeros meses de cada administración municipal; por lo que durante este plazo dicha licencia continuará vigente.
+Para la obtención de la licencia de funcionamiento por apertura o revalidación, las personas físicas o morales, deberán presentar la solicitud que para tal efecto establezca la Dirección de Finanzas y Tesorería Municipal y comprobar ante esta autoridad, lo siguiente:
 
-> <small>(DEROGADO SEXTO PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2019)</small>
+a) La identificación de la persona titular del establecimiento, así como el documento oficial que acredite la representación legal, en su caso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ANTES SÉPTIMO PÁRRAFO], D.O. 30 DE DICIEMBRE DE 2016)</small>
+b) La legal ocupación del inmueble donde se establezca el negocio, mediante el contrato, convenio o cualquier otro documento que lo compruebe, cuando la persona titular del establecimiento no sea la persona propietaria del predio.
 
-I. Para la obtención de la licencia de funcionamiento por apertura; las personas físicas o morales deberán comprobar:
+c) Estar al día en el pago del impuesto predial, de acuerdo a la base que corresponda, en apego a lo establecido en esta Ley.
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+d) Estar al día en el pago del servicio de recolección y traslado de residuos sólidos no peligrosos o basura con la empresa autorizada por el Ayuntamiento de Mérida, para prestar el servicio.
 
-a).- La legal ocupación del inmueble, mediante el contrato, convenio o cualquier otro documento que lo compruebe; en caso de no ser propietario del mismo.
+e) La licencia de uso de suelo vigente para el trámite de la licencia de funcionamiento municipal, autorizada por la Dirección de Desarrollo Urbano cuando se trate del trámite de apertura (alta).
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+f) Que la persona propietaria del predio donde se ubique el establecimiento esté registrada en la Dirección de Catastro del Municipio de Mérida, tal y como se encuentra inscrita en el Registro Público de la Propiedad del Estado de Yucatán.
 
-b).- La autorización de la Dirección de Desarrollo Urbano para establecer un uso diferente a casa habitación, en un predio o inmueble; mediante la Licencia de Uso del Suelo para el trámite de la Licencia de Funcionamiento Municipal.
+g) Autorización mediante la determinación, licencia o permiso expedido por la autoridad sanitaria, que corresponda al domicilio y al giro de la licencia de funcionamiento municipal, cuando se trate de un establecimiento dedicado al expendio, distribución, suministro, almacenamiento o que ofrezca bebidas alcohólicas y/o cerveza, de acuerdo al Reglamento Municipal correspondiente.
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+h) Constancia de asignación de tipo y categoría previstos en el Reglamento de Estacionamientos Públicos, Privados y Temporales de Vehículos del Municipio de Mérida, cuando se trate del trámite de apertura (alta), de estacionamientos públicos.
 
-c).- La autorización para que en un establecimiento se expenda al público bebidas alcohólicas; mediante la determinación, licencia o permiso expedido por la autoridad sanitaria, que corresponda al domicilio y al giro de la licencia de funcionamiento municipal.
-
-d).- (DEROGADO, D.O. 28 DE DICIEMBRE DE 2015)
-
-e).- (DEROGADO, D.O. 28 DE DICIEMBRE DE 2015)
-
-f).- (DEROGADO, D.O. 28 DE DICIEMBRE DE 2015)
-
-g).- Tratándose de estacionamientos públicos, la constancia de asignación de tipo y categoría previstos en el Reglamento de Estacionamientos Públicos, Privados y Temporales De Vehículos Del Municipio De Mérida.
-
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
-
-h).- Tratándose de establecimientos que se encuentren en un inmueble destinado a la prestación de un servicio público, estar al corriente en el pago de los derechos por el uso y aprovechamiento de los bienes de dominio público del patrimonio municipal, o bien, del recibo que emita el organismo paramunicipal administrador del servicio.
-
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
-
-i).- El contrato vigente o Comprobante Fiscal Digital por Internet (CFDI) del servicio de recolección y traslado de residuos sólidos no peligrosos o basura con la empresa autorizada por el Ayuntamiento de Mérida, para prestar el servicio en la zona geográfica donde se ubique la Persona Física o Moral solicitante, y estar al día en el pago de dicho servicio.
-
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2019)</small>
-
-j).- El predio donde se encuentre el comercio, negocio o establecimiento deberá estar al día en el pago del impuesto predial y el propietario del mismo deberá estar registrado en la Dirección de Catastro del Municipio de Mérida, tal y como se encuentre inscrito en el Registro Público de la Propiedad del Estado de Yucatán.
-
-Cuando el titular de una licencia de funcionamiento correspondiente a un comercio, negocio o establecimiento pretenda funcionar con un giro diferente o en otro domicilio deberá de obtener una nueva licencia satisfaciendo los requisitos anteriores.
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ANTES NOVENO PÁRRAFO], D.O. 30 DE DICIEMBRE DE 2016)</small>
-
-II. Para la obtención de la licencia de funcionamiento por revalidación las personas físicas o morales deberán comprobar:
-
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
-
-a).- La autorización de la administración municipal inmediata anterior; mediante la Licencia de funcionamiento o constancia de la misma, expedida por la Dirección de Finanzas y Tesorería Municipal.
-
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
-
-b).- La legal ocupación del inmueble mediante el contrato, convenio o cualquier otro documento que lo compruebe; en caso de no ser propietario del inmueble.
-
-c).- (DEROGADO, D.O. 28 DE DICIEMBRE DE 2015)
-
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
-
-d).- La autorización para que en un establecimiento se expenda al público bebidas alcohólicas; mediante la determinación, licencia o permiso expedido por la autoridad sanitaria, que corresponda al domicilio y al giro de la licencia de funcionamiento municipal.
-
-e).- (DEROGADO, D.O. 28 DE DICIEMBRE DE 2015)
-
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
-
-f).- Tratándose de establecimientos que se encuentren en un inmueble destinado a la prestación de un servicio público, estar al corriente en el pago de los derechos por el uso y aprovechamiento de los bienes de dominio público del patrimonio municipal o bien, del recibo que emita el organismo paramunicipal administrador del servicio.
-
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
-
-g).- El contrato vigente o Comprobante Fiscal Digital por Internet (CFDI) del servicio de recolección y traslado de residuos sólidos no peligrosos o basura con la empresa autorizada por el Ayuntamiento de Mérida, para prestar el servicio en la zona geográfica donde se ubique la Persona Física o Moral solicitante, y estar al día en el pago de dicho servicio.
-
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2019)</small>
-
-h).- El predio donde se encuentre el comercio, negocio o establecimiento deberá estar al día en el pago del impuesto predial y el propietario del mismo deberá estar registrado en la Dirección de Catastro del Municipio de Mérida, tal y como se encuentre inscrito en el Registro Público de la Propiedad del Estado de Yucatán.
+Cuando la persona titular de una licencia de funcionamiento correspondiente a un comercio, negocio o establecimiento pretenda funcionar con un giro diferente o en otro domicilio deberá tramitar una apertura (alta) de licencia de funcionamiento cumpliendo los requisitos anteriores.
 
 Para el cambio de titular de la licencia de funcionamiento, se deberá acreditar con documentación fehaciente la cesión de derechos o traslación de dominio del comercio, negocio o establecimiento de conformidad con lo establecido en la Ley de la materia.
 
-Para el cambio de denominación, suspensión de actividades, y baja definitiva, deberá acreditarse con documentación fehaciente la titularidad o representación legal de la licencia de funcionamiento correspondiente.
+Para el cambio de denominación o cierre definitivo del establecimiento (baja), deberá acreditarse con documentación fehaciente la titularidad o representación legal de la licencia de funcionamiento correspondiente.
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2019)</small>
+Para el cambio de titular de la licencia de funcionamiento, cambio de denominación o el cierre definitivo del establecimiento (baja), el titular de la Licencia de Funcionamiento deberá presentar la solicitud que para tal efecto establezca la Dirección de Finanzas y Tesorería Municipal, y comprobar lo establecido en los incisos c) y f) ambos de este artículo.
 
-Para el cambio de titular de la licencia de funcionamiento, cambio de denominación y suspensión de actividades a los que se hace referencia en los dos últimos párrafos que anteceden, el predio donde se encuentre el comercio, negocio o establecimiento deberá estar al día en el pago del impuesto predial y el propietario del mismo deberá estar registrado en la Dirección de Catastro del Municipio de Mérida, tal y como se encuentre inscrito en el Registro Público de la Propiedad del Estado de Yucatán.
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 31-A.
+
+La persona titular de la Dirección de Finanzas y Tesorería Municipal, así como el titular de la Subdirección de Ingresos estarán facultados para proceder a la revocación de la licencia de funcionamiento vigente, en los siguientes casos:
+
+a) Se utilice dolo, mala fe o se proporcione información o documentos falsos para obtener licencias de funcionamiento o sus revalidaciones.
+
+b) Por operar un giro distinto al permitido en la licencia de funcionamiento.
+
+c) Cuando en el tiempo de la vigencia de la licencia de funcionamiento, el titular no mantuviera vigentes los permisos, licencias, autorizaciones y demás documentos relacionados como requisitos para la apertura o revalidación.
+
+d) Por no cumplir las condiciones y restricciones establecidas en la licencia de uso de suelo para funcionamiento.
+
+e) Cuando se le revoque la licencia de uso de suelo por resolución de autoridad competente.
+
+f) Por resolución y solicitud de las autoridades municipales competentes.
+
+Lo señalado en este artículo aplicará sin perjuicio de las sanciones a que se refiere la fracción VII y último párrafo del artículo 177 de esta Ley.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 31-B.
+
+Procederá la baja de la licencia de funcionamiento municipal en el Padrón de licencias de funcionamiento, en los siguientes casos:
+
+a) Cuando no hayan revalidado la licencia de funcionamiento durante el período establecido en el numeral 2 del artículo 31.
+
+Para los establecimientos dedicados al expendio, distribución, suministro, almacenamiento o que ofrezcan bebidas alcohólicas y/o cerveza, el plazo señalado en este inciso, se interrumpirá hasta por un plazo de 6 meses, si el titular de la licencia de funcionamiento acredita con documento idóneo haber realizado el trámite para obtener la determinación sanitaria, licencia o permiso.
+
+b) Por resolución y solicitud de las autoridades municipales competentes.
+
+Lo señalado en este artículo aplicará sin perjuicio de las sanciones a que se refiere la fracción VII y último párrafo del artículo 177 de esta Ley.
 
 #### Sección Décima. De la actualización
 
@@ -643,11 +623,19 @@ Cuando el pago de las contribuciones o de los créditos fiscales, hubiese sido m
 
 #### Sección Décima Tercera. Del cheque presentado en tiempo y no pagado
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 35.
 
-El cheque recibido por el Municipio de Mérida, en pago de alguna contribución, aprovechamiento, crédito fiscal o garantía, en términos de la presente ley, que sea presentado en tiempo al librado y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización suficiente para resarcirlo de los daños y perjuicios que con ello le ocasionó. En ningún caso la indemnización será menor del 20% del importe del propio cheque en caso de que no haya sido pagado por motivo de fondos insuficientes en la cuenta del librador o bien del 10% en caso de que no haya sido pagado por una causa diferente a la insuficiencia de fondos en la cuenta del librador, y se exigirá independientemente de los otros conceptos a que se refiere este título. En todos los casos la indemnización a que se refiere este párrafo deberá ser de cuando menos en un importe suficiente para cubrir las comisiones y gastos que le hayan ocasionado al Municipio de Mérida con motivo de la presentación para cobro o depósito en cuenta bancaria del Municipio de dicho cheque.
+El cheque recibido por el Municipio de Mérida, en pago de alguna contribución, aprovechamiento, crédito fiscal o garantía, en términos de la presente ley, que sea presentado en tiempo al librado y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización suficiente para resarcirlo de los daños y perjuicios que con ello le ocasionó. En ningún caso la indemnización será menor del 20% del importe del propio cheque en caso de que no haya sido pagado por motivo de fondos insuficientes en la cuenta del librador o, en caso de que no haya sido pagado por una causa diferente a la insuficiencia de fondos en la cuenta del librador, el importe de la indemnización será el que resulte de aplicar lo siguiente:
 
-Para tal efecto, la autoridad requerirá al librador del cheque para que, dentro de un plazo de siete días efectúe el pago de su importe junto con la mencionada indemnización. Transcurrido el plazo señalado sin que se obtenga el pago, la autoridad fiscal municipal requerirá y cobrará el monto del cheque, la indemnización y, en su caso, los recargos mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal, que en su caso, proceda.
+La tasa de interés interbancaria de equilibrio de fondeo a un día (TIIEF) vigente a la fecha del día anterior del no pago del cheque se dividirá entre 360, y el resultado se multiplicará por 5 y por el número de días que transcurran desde la fecha en que se confirme el no pago por la institución bancaria y hasta la fecha en que el importe del cheque sea pagado nuevamente de manera voluntaria sin que este plazo exceda los diez días hábiles y el factor resultante se multiplicará por el importe del cheque.
+
+A partir del onceavo día hábil en vez de pagar lo establecido en el párrafo anterior, el importe se calculará aplicando el 5% sobre el importe del cheque, y se exigirá independientemente de los otros conceptos a que se refiere este título.
+
+En todos los casos la indemnización a que se refiere este párrafo deberá ser de cuando menos en un importe suficiente para cubrir las comisiones y gastos que le hayan ocasionado al Municipio de Mérida con motivo de la presentación para cobro o depósito en cuenta bancaria del Municipio, de dicho cheque. Para tal efecto, la autoridad requerirá al librador del cheque para que, dentro de un plazo de cinco días hábiles efectúe el pago de su importe junto con la mencionada indemnización. Transcurrido el plazo señalado sin que se obtenga el pago, la autoridad fiscal municipal requerirá y cobrará el monto del cheque, la indemnización y, en su caso, la actualización mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal, que, en su caso, proceda.
+
+Las indemnizaciones referidas en este artículo no serán exigibles si el librador acredita fehacientemente, con las pruebas documentales emitidas por la institución bancaria que dicho pago no se realizó por causas exclusivamente imputables a ella.
 
 #### Sección Décima Cuarta. De los recargos en pagos espontáneos
 
@@ -823,7 +811,7 @@ I.- Los valores unitarios para el terreno correspondiente a las secciones catast
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 27 A LA 55.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 7 A LA 37; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 53 A LA 83; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 16 A LA 50; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 8 A LA 36; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 5 A LA 35; 28 DE DICIEMBRE DE 2018, PÁGINAS DE LA 5 A LA 36; 30 DE DICIEMBRE DE 2019, PÁGINAS DE LA 7 A LA 47, 23 DE DICIEMBRE DE 2020, PÁGINAS DE LA 31 A LA 40; 29 DE DICIEMBRE DE 2021, PÁGINAS 24 A LA 55; 28 DE DICIEMBRE DE 2022, PÁGINAS DE LA 5 A LA 36; 28 DE DICIEMBRE DE 2023, PÁGINAS DE LA 23 A LA 34; 30 DE DICIEMBRE DE 2024, PÁGINAS DE LA 62 A LA 73.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 7 A LA 37; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 53 A LA 83; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 16 A LA 50; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 8 A LA 36; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 5 A LA 35; 28 DE DICIEMBRE DE 2018, PÁGINAS DE LA 5 A LA 36; 30 DE DICIEMBRE DE 2019, PÁGINAS DE LA 7 A LA 47, 23 DE DICIEMBRE DE 2020, PÁGINAS DE LA 31 A LA 40; 29 DE DICIEMBRE DE 2021, PÁGINAS 24 A LA 55; 28 DE DICIEMBRE DE 2022, PÁGINAS DE LA 5 A LA 36; 28 DE DICIEMBRE DE 2023, PÁGINAS DE LA 23 A LA 34; 30 DE DICIEMBRE DE 2024, PÁGINAS DE LA 62 A LA 73; 31 DE DICIEMBRE DE 2025, PÁGINAS DE LA 30 A LA 45.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -831,7 +819,7 @@ II.- Los valores unitarios para los terrenos ubicados en las calles y avenidas p
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 56 A LA 61.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 37 A LA 45; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 83 A LA 90; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 50 A LA 58; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 36 A LA 43; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 35 A LA 45; 28 DE DICIEMBRE DE 2018, PÁGINAS DE LA 36 A LA 43; 30 DE DICIEMBRE DE 2019, PÁGINAS DE LA 47 A LA 60; 29 DE DICIEMBRE DE 2021, PÁGINAS 55 A LA 64; 28 DE DICIEMBRE DE 2022, PÁGINAS DE LA 36 A LA 46.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 37 A LA 45; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 83 A LA 90; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 50 A LA 58; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 36 A LA 43; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 35 A LA 45; 28 DE DICIEMBRE DE 2018, PÁGINAS DE LA 36 A LA 43; 30 DE DICIEMBRE DE 2019, PÁGINAS DE LA 47 A LA 60; 29 DE DICIEMBRE DE 2021, PÁGINAS 55 A LA 64; 28 DE DICIEMBRE DE 2022, PÁGINAS DE LA 36 A LA 46; 31 DE DICIEMBRE DE 2025, PÁGINAS DE LA 45 A LA 57.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -896,6 +884,8 @@ En los casos en los que el predio cuente con construcción correspondiente a vol
 b) Cuando no se puedan determinar las especificaciones a que se refiere el inciso a) que antecede por no existir una diligencia de verificación, se aplicarán los siguientes criterios de valuación, de acuerdo con la información contenida en el plano catastral:
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2022, PÁGINAS DE LA 52 A LA 57.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. DE 31 DE DICIEMBRE DEL 2025, PÁGINAS DE LA 59 A LA 65.]</small>
 
 c) En los casos en que respecto de algún inmueble del Municipio de Mérida se hubiera emitido una cédula por recatastración debido a la detección de construcción no manifestada, el valor genérico aplicado a la superficie de construcción no manifestada será actualizado anualmente con el valor correspondiente a la clasificación de MODERNO-CALIDAD-BUENO, con independencia de la antigüedad de la construcción, sus elementos y/o estado de conservación.
 
@@ -1155,9 +1145,7 @@ Son sujetos solidariamente responsables del pago del Impuesto Sobre Adquisición
 
 I.- Los fedatarios públicos y las personas que por disposición legal tengan funciones notariales, cuando autoricen una escritura que contenga alguno de los supuestos que se relacionan en el artículo 56 de la presente Ley y no hubiesen constatado el pago del impuesto.
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2015)</small>
-
-II.- Los funcionarios o empleados del Registro Público de la Propiedad del Estado, que inscriban cualquier acto, contrato o documento relativo a algunos de los supuestos que se relacionan en el artículo 56 de esta Ley, sin que les sea exhibido el recibo y el comprobante fiscal digital por internet (CFDI) correspondiente al pago del impuesto.
+II.- (DEROGADA, D.O. 31 DE DICIEMBRE DE 2025)
 
 Del objeto
 
@@ -1189,19 +1177,37 @@ IX.- La cesión de derechos del heredero o legatario.
 
 X.- La renuncia o repudio de la herencia o del legado, efectuado después del reconocimiento de herederos y legatarios.
 
-XI.- La adquisición que se realice a través de un contrato de fideicomiso, en los términos de los supuestos relacionados en el Código Fiscal de la Federación.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2022)</small>
+XI.- La adquisición por medio de fideicomiso, en los siguientes casos:
 
-XII.- La disolución de la copropiedad y de la sociedad conyugal, por la parte que el copropietario o el cónyuge adquiera en demasía del valor de la porción que le corresponde, respecto a los predios o tablajes ubicados en el Municipio de Mérida.
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-XIII.- La adquisición de la propiedad de bienes inmuebles, en virtud de remate judicial o administrativo.
+a) En el acto en el que el fideicomitente designa o se obliga a designar fideicomisario diverso de él, siempre que no tenga derecho a readquirir del fiduciario los bienes.
 
-XIV.- En los casos de permuta se considerará que se efectúan dos adquisiciones.
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+b) El acto en el que el fideicomitente pierda el derecho a readquirir los bienes del fiduciario, si se hubiera reservado tal derecho.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XII.- En la cesión de los derechos que se tengan sobre los bienes afectos al fideicomiso, en cualquiera de los siguientes momentos:
+
+a) En el acto en el que el fideicomisario designado ceda sus derechos o dé instrucciones al fiduciario para que transmita la propiedad de los bienes a un tercero. En estos casos, se considerará que el fideicomisario adquiere los bienes en el acto de su designación y que los enajena en el momento de ceder sus derechos o de dar dichas instrucciones.
+
+b) En el acto en el que el fideicomitente ceda sus derechos, si entre éstos se incluye el de que los bienes se transmitan a su favor.
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XIII.- La disolución de la copropiedad y de la sociedad conyugal, por la parte que el copropietario o el cónyuge adquiera en demasía del valor de la porción que le corresponde. Para la disolución de la sociedad conyugal la demasía será determinada respecto a la liquidación de la totalidad de los bienes que conformaron la sociedad conyugal, presentada ante autoridad judicial y su aprobación por esta misma.
+
+XIV.- La adquisición de la propiedad de bienes inmuebles, en virtud de remate judicial o administrativo.
+
+XV.- En los casos de permuta se considerará que se efectúan dos adquisiciones.
 
 > <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2019)</small>
 
-XV.- La devolución de la propiedad de bienes inmuebles, a consecuencia de la rescisión o terminación del contrato que le da origen, por mutuo acuerdo, así como por procedimientos judiciales o administrativos.
+XVI.- La devolución de la propiedad de bienes inmuebles, a consecuencia de la rescisión o terminación del contrato que le da origen, por mutuo acuerdo, así como por procedimientos judiciales o administrativos.
 
 De las excepciones
 
@@ -1217,9 +1223,13 @@ II.- En la adquisición que realicen los Estados Extranjeros, en los casos que e
 
 III.- Cuando se adquiera la propiedad de Inmuebles, con motivo de la constitución de la sociedad conyugal.
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-IV.- La disolución de la copropiedad y de la sociedad conyugal, siempre que las partes adjudicadas no excedan del valor de las porciones que a cada uno de los copropietarios o al cónyuge le correspondan; en estos casos solo se considerarán los predios o tablajes que se encuentren ubicados dentro del Municipio de Mérida. En caso contrario, deberá pagarse el impuesto sobre el exceso o la diferencia.
+IV.- La disolución de la copropiedad y de la sociedad conyugal, siempre que las partes adjudicadas no excedan del valor de las porciones que a cada uno de los copropietarios o al cónyuge le correspondan. En caso contrario, deberá pagarse el impuesto sobre el exceso o la diferencia.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Para la disolución de la sociedad conyugal la demasía será determinada respecto a la liquidación de la totalidad de los bienes que conformaron la sociedad conyugal, presentada ante autoridad judicial y su aprobación por esta misma.
 
 V.- Cuando se adquieran inmuebles por herencia o legado.
 
@@ -1301,17 +1311,17 @@ Las autoridades fiscales municipales estarán facultadas para practicar, ordenar
 
 Para los efectos del presente artículo el usufructo y la nuda propiedad tienen cada uno el valor equivalente al .5 del valor de la propiedad.
 
-> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-Cuando se formalice la adquisición de un inmueble, que provenga de un proyecto de rectificación de medidas, de unión o de división de predios y que respecto de dichos actos no se hubiere realizado el trámite de definitiva, en vez del valor contenido en la cédula catastral vigente que menciona el primer párrafo de este artículo, se considerará el valor catastral que aparezca en el oficio que para tal efecto expida la Dirección del Catastro del Municipio de Mérida, siempre y cuando esté vigente.
+Cuando se formalice la adquisición de un inmueble, que provenga de un proyecto de rectificación de medidas, de unión o de división de predios y que respecto de dichos actos no se hubiere realizado el trámite de definitiva, en vez del valor contenido en la cédula catastral vigente que menciona el primer párrafo de este artículo, se considerará el valor catastral que aparezca en el oficio que para tal efecto expida la Dirección de Catastro del Municipio de Mérida, siempre y cuando dicho oficio sea protocolizado ante fedatario público dentro de su vigencia.
 
-> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-Cuando se formalice la adquisición de un inmueble que provenga del trámite de Revisión Técnica de la Documentación en Régimen de Condominio y no se hubiere obtenido la Cédula de Inscripción de Constitución de Régimen en Condominio, en vez del valor contenido en la cédula catastral vigente que menciona el primer párrafo de este artículo, se considerará el valor catastral que aparezca en el oficio que para tal efecto expida la Dirección del Catastro del Municipio de Mérida, siempre y cuando esté vigente.
+Cuando se formalice la adquisición de un inmueble que provenga del trámite de Revisión Técnica de la Documentación en Régimen de Condominio y no se hubiere obtenido la Cédula de Inscripción de Constitución de Régimen en Condominio, en vez del valor contenido en la cédula catastral vigente que menciona el primer párrafo de este artículo, se considerará el valor catastral que aparezca en el oficio que para tal efecto expida la Dirección de Catastro del Municipio de Mérida, siempre y cuando dicho oficio sea protocolizado ante fedatario público dentro de su vigencia.
 
-> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-Los oficios mencionados en los dos párrafos que inmediatamente anteceden, tendrán vigencia hasta el treinta y uno de diciembre del año de su expedición o hasta que la Dirección de Catastro del Municipio de Mérida emita una nueva cédula catastral correspondiente al inmueble materia de la adquisición.
+Para efectos fiscales, los oficios mencionados en los dos párrafos que inmediatamente anteceden conservarán su vigencia, siempre que hayan sido protocolizados antes del 31 de diciembre del año de su expedición.
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
@@ -1375,13 +1385,17 @@ VIII.- Valor de la operación consignada en el contrato.
 
 IX.- Liquidación del impuesto.
 
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+X.- Si el inmueble objeto de enajenación proviene de un fideicomiso, el fedatario público deberá asentar en el Manifiesto la declaración realizada por el enajenante, rendida bajo protesta de decir verdad, respecto de si existió o no pérdida de la reversión conforme a la fracción XI del artículo 56 de esta Ley, indicando en su caso la fecha en que dicha pérdida ocurrió. El notario se limitará a expresar la manifestación que reciba del enajenante, quedando este último responsable de la información proporcionada; y adjuntar copia certificada del contrato de fideicomiso.
+
 > <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 Para el caso de que el manifiesto no expresare el RFC del adquirente o fuere de nacionalidad Extranjera, la Dirección de Finanzas y Tesorería Municipal, expedirá el Comprobante Fiscal Digital (CFDI) para público en general o para residentes en el extranjero, según sea el caso y enviará a la dirección de correo electrónico del fedatario público el archivo XML del CFDI y su representación gráfica, de conformidad con las reglas vigentes establecidas por el Servicio de Administración Tributaria.
 
-> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-A la manifestación señalada en este artículo, se acumulará copia del avalúo practicado al efecto, y en caso de las fracciones V, VI, VIII, IX, XI, XII y XIII del artículo 56 y fracciones I y II del artículo 57, se anexará adicionalmente copia del contrato o instrumento jurídico por el que se traslade la propiedad del inmueble de que se trate.
+A la manifestación señalada en este artículo, se acumulará copia del avalúo practicado al efecto, y en caso de las fracciones V, VI, VIII, IX, XI, XII, XIII y XIV del artículo 56 y fracciones I y II del artículo 57, se anexará adicionalmente copia del contrato o instrumento jurídico por el que se traslade la propiedad del inmueble de que se trate.
 
 > <small>(DEROGADO CUARTO PÁRRAFO, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
@@ -1395,11 +1409,11 @@ Los fedatarios públicos y las personas que por disposición legal tengan funcio
 
 Municipal, cuando se trate de las operaciones consignadas en el artículo 57 de esta ley. Para el caso de que las personas obligadas a pagar este impuesto, no lo hicieren, los fedatarios y las personas que por disposición legal tengan funciones notariales, se abstendrán de autorizar el contrato o escritura correspondiente.
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2022)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-Por su parte, los registradores, no inscribirán en el Registro Público de la Propiedad y del Comercio del Estado de Yucatán, los documentos donde conste la adquisición de inmuebles o de derechos sobre los mismos, sin cerciorarse antes, de que se cumplió con la primera parte del presente artículo. Éstos deberán validar y autenticar los recibos de pago del impuesto sobre adquisición de inmuebles, mediante los mecanismos tecnológicos proporcionados para dicho efecto. La citada acumulación deberá constar en la inscripción correspondiente.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-En caso contrario, los fedatarios públicos, las personas que tengan funciones notariales y los registradores serán solidariamente responsables del pago del impuesto y sus accesorios legales.
+En caso contrario, los fedatarios públicos y las personas que tengan funciones notariales serán solidariamente responsables del pago del impuesto y sus accesorios legales.
 
 Del pago
 
@@ -1621,13 +1635,27 @@ XIX.- Expedición de oficio de zona de Reserva de Crecimiento.
 
 XX.- Emisión de la Cédula Urbana.
 
-> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
-
-XXI.- Revisión de Integración de Predios Ejidales.
+XXI.- (DEROGADA, D.O. 31 DE DICIEMBRE DE 2025)
 
 > <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
 XXII.- Autorización de prototipo.
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XXIII.- Emisión del Dictamen de Evaluación para Autorización de Desarrollo Inmobiliario.
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XXIV.- Revisión previa de Solicitudes de Terminación de Obra.
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XXV.- Diligencias de Verificación de cumplimiento de restricciones a solicitud de parte.
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XXVI.- Revisión técnica integral de proyecto.
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -1905,9 +1933,7 @@ e) Se pagará de acuerdo al giro de que se trate:
 
 baile, salón de banquetes 328.90 Licencia
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
-
-8. Torre de comunicación de una estructura monopolar para colocación de antena celular, de una base de concreto o adición de cualquier equipo de telecomunicación sobre una torre de alta tensión o sobre infraestructura existente 389.40 Licencia
+8. (DEROGADO, D.O. 31 DE DICIEMBRE DE 2025)
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
@@ -1999,9 +2025,7 @@ caseta o unidad.
 
 g) (DEROGADO, D.O. 23 DE DICIEMBRE DE 2013) (REPUBLICADA SU DEROGACIÓN, D.O. 30 DE DICIEMBRE DE 2016)
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
-
-h) Para la instalación de torre de comunicación de una estructura monopolar para colocación de antena celular, de una base de concreto o adición de cualquier equipo de telecomunicaciones sobre una torre de alta tensión o sobre infraestructura existente 26.00 Por torre
+h) (DEROGADO, D.O. 31 DE DICIEMBRE DE 2025)
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
@@ -2039,9 +2063,25 @@ Para los efectos de los incisos anteriores de las fracciones I y II se entiende 
 
 Para los efectos de las fracciones anteriores se entenderá por Otros Desarrollos los siguientes conceptos: vivienda multifamiliar, locales comerciales, centros y plazas comerciales, equipamiento, almacenamiento, industria y usos agropecuarios. Dicha clasificación se establece de conformidad con el Programa Municipal de Desarrollo Urbano de Mérida vigente.
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-III.- Constancia de Alineamiento 0.25 Metro Lineal
+III.- Constancia de Alineamiento:
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+a) Zona 1. Consolidación Urbana 2.00 Metro Lineal
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+b) Zona 2. Crecimiento Urbano 4.00 Metro Lineal
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+c) Zona 3. Regeneración y Desarrollo Sustentable 6.00 Metro Lineal
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+d) Zona 4. Conservación de los Recursos Naturales 8.00 Metro Lineal
 
 IV.- Trabajos de Construcción
 
@@ -2157,9 +2197,7 @@ d) Zona 4. Conservación de los Recursos Naturales
 
 3. Licencia para excavación de zanjas en vialidades
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
-
-a) Para ductos o conductores de gas natural, gasolina, diésel y demás derivados del petróleo 3.00 Metro Lineal
+a) (DEROGADO, D.O. 31 DE DICIEMBRE DE 2025)
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
@@ -2175,15 +2213,15 @@ c) Para ductos o conductores de cualquier tipo, distintos a los señalados en lo
 
 5. Licencia para excavaciones 0.10 Metro Cúbico
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-6. Licencia para demolición y/o desmantelamiento distinta a la señalada en el numeral 2 de esta fracción 0.10 Metro cuadrado
+6. Licencia para demolición y/o desmantelamiento
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+distinta a las señaladas en el numeral 2 y numeral
 
-7. Licencia para la construcción para la instalación de una torre de comunicación, de una estructura monopolar para colocación de antena celular, de una base de concreto o adición de cualquier equipo de telecomunicación sobre una torre de alta tensión o sobre infraestructura existente. Por colocación por unidad.
+10 de esta fracción 0.10 Metro cuadrado
 
-2,600 Licencia
+7. (DEROGADO, D.O. 31 DE DICIEMBRE DE 2025)
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
@@ -2202,6 +2240,14 @@ Cúbico
 9. Trabajos preliminares
 
 de construcción 3.00 Constancia
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+10. Licencia para desmantelamiento de
+
+Estructuras Metálicas de Instalaciones
+
+Industriales, de Comunicación y Publicidad 0.40 Metro Cúbico
 
 > <small>(DEROGADO ANTEPENÚLTIMO PÁRRAFO DE LA FRACCIÓN IV, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
@@ -2235,27 +2281,27 @@ d) Con superficie mayor de 240 m2 0.07 Metro Cuadrado
 
 e) De excavación de zanjas en vialidades 0.26 Metro Lineal
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-f) De excavación distinta a la señalada en el inciso e) 0.05 Metro Cúbico
+f) De excavación distinta a la señalada en el inciso
+
+e) y en el inciso i) 0.05 Metro Cúbico
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 g) De demolición distinta a la de bardas. 0.03 Metro Cuadrado
 
-> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2018)</small>
+h) (DEROGADO, D.O. 31 DE DICIEMBRE DE 2025)
 
-h) De instalación de una torre de comunicación
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-de una estructura monopolar para colocación
+i) De excavación por piscinas, albercas,
 
-de antena celular, de una base de concreto
+canales de nado, espejos de agua o jacuzzis 0.25 Metro Cúbico
 
-o adición de cualquier equipo de telecomunicación
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-sobre una torre de alta tensión o sobre
-
-infraestructura existente. Por colocación por unidad 275 Constancia
+j) Para bardas 0.07 Metro Lineal
 
 VI.- Licencia de Urbanización
 
@@ -2294,6 +2340,18 @@ de superficie
 solicitada
 
 2. (DEROGADO, D.O. 29 DE DICIEMBRE DE 2021)
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+3. Renovación de licencia de urbanización por servicios básicos:
+
+a) Zona 1. Consolidación Urbana 0.012 Metro Cuadrado
+
+b) Zona 2. Crecimiento Urbano 0.022 Metro Cuadrado
+
+c) Zona 3. Regeneración y Desarrollo Sustentable 0.055 Metro Cuadrado
+
+d) Zona 4. Conservación de los Recursos Naturales 0.105 Metro Cuadrado
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO DE LA FRACCIÓN VI, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
@@ -2481,9 +2539,7 @@ en adelante, se pagará 150.30 Constancia
 
 5. De viabilidad para la instalación subterránea o aérea de:
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
-
-a) Ductos o conductores de gas natural, gasolina, diésel y demás derivados del petróleo 0.16 Metro Lineal
+a) (DEROGADO, D.O. 31 DE DICIEMBRE DE 2025)
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
@@ -2507,33 +2563,25 @@ b) Instalación de anuncios de carácter denominativo permanente en inmuebles co
 
 0.85 Metro Cuadrado
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 22 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-c) Instalación de anuncios transitorios en inmuebles
+c) Instalación de anuncios transitorios en
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+inmuebles de 1 a 30 días naturales 0.52 Metro Cuadrado
 
-1) De 1 a 5 días naturales 0.16 Metro Cuadrado
+1) (DEROGADO, D.O. 31 DE DICIEMBRE DE 2025)
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+2) (DEROGADO, D.O. 31 DE DICIEMBRE DE 2025)
 
-2) De 1 a 10 días naturales 0.21 Metro Cuadrado
+3) (DEROGADO, D.O. 31 DE DICIEMBRE DE 2025)
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
-
-3) De 1 a 15 días naturales 0.31 Metro Cuadrado
-
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
-
-4) De 1 a 30 días naturales 0.51 Metro Cuadrado
+4) (DEROGADO, D.O. 31 DE DICIEMBRE DE 2025)
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 d) Por exhibición de anuncios de carácter mixto o de propaganda o publicidad permanentes en vehículos de servicio de transporte público o de uso privado 2.10 Metro Cuadrado
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
-
-e) Por exhibición de anuncios de carácter mixto o de propaganda o publicidad transitorios en vehículos de servicio de transporte público 1.60 Metro Cuadrado
+e) (DEROGADO, D.O. 31 DE DICIEMBRE DE 2025)
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
@@ -2549,17 +2597,13 @@ h) Por la instalación de anuncios electrónicos
 
 3.00 Metro Cuadrado
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+i) (DEROGADO, D.O. 31 DE DICIEMBRE DE 2025)
 
-i) Por exhibición de anuncios inflables suspendidos en el aire, con capacidad de 1 hasta 50 kg. de gas Helio
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-6.00 Por elemento
+j) Por exhibición de anuncios inflables
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
-
-j) Por exhibición de anuncios inflables suspendidos en el aire, con capacidad de más de 50 kg. de gas Helio
-
-7.00 Por elemento
+suspendidos en el aire 7.00 Por elemento
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
@@ -2567,17 +2611,17 @@ k) Por exhibición de anuncios figurativos o volumétricos
 
 9.00 Por elemento
 
-> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-l) Por la difusión de propaganda o publicidad impresa en volantes, catálogos de ofertas o folletos:
+l) Por difusión de propaganda o publicidad impresa en volantes, catálogos de ofertas y carteles en los predios:
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-1) De 1 hasta 5 millares 2.00
+1) De 1 hasta 5 millares 2.50
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-2) Por millar adicional 0.50
+2) Por millar adicional 0.60
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
@@ -2591,7 +2635,9 @@ Cuando se cause y pague el derecho a que se refiere el inciso b) de la fracción
 
 X.- Visitas de inspección:
 
-a) De fosas sépticas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+a) De Sistemas de tratamiento de aguas residuales de viviendas en desarrollos inmobiliarios de tipo fraccionamiento o privado.
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
@@ -2607,7 +2653,9 @@ a) De fosas sépticas:
 
 b) Por construcción o edificación distinta a la señalada en el inciso a) de esta fracción, en los casos en que se requiera una tercera o posterior visita de inspección: 10.30 Visita
 
-c) Para la recepción o terminación de obras de infraestructura urbana, en los casos en los que se requiera una tercera o posterior visita de inspección, se pagará:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+c) Para la recepción o terminación de obras de infraestructura urbana, en los casos en los que se requiera una segunda o posterior visita de inspección, se pagará
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
@@ -2963,6 +3011,50 @@ XXII.- (DEROGADA, D.O. 30 DE DICIEMBRE DE 2024)
 
 XXIII.- Autorización de Prototipo 11.00
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XXIV.- Emisión del Dictamen de Evaluación para Autorización de Desarrollo inmobiliario:
+
+a) Para Constitución de Desarrollo Inmobiliario 54.00 Dictamen
+
+b) Para Modificación de Constitución de
+
+Desarrollo Inmobiliario 54.00 Dictamen
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XXV.- Revisión previa de Solicitudes de Terminación de Obra:
+
+a) Por segunda revisión previa 3.00 Revisión
+
+b) A partir de una tercera o posterior revisión previa 6.00 Revisión
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XXVI.- Diligencias de Verificación de cumplimiento
+
+de restricciones a solicitud de parte 5.00 Acuerdo
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XXVII.- Dictamen técnico en zonas de
+
+patrimonio cultural 9.00 Dictamen
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XXVIII.- Revisión técnica integral de un proyecto cuya superficie cubierta del proyecto sea:
+
+a) Menor a 500 m2 10.00 Minuta de Trabajo
+
+b) Mayor de 500 m2 y hasta 1,000 m2 15.00 Minuta de Trabajo
+
+c) Mayor a 1,000 m2 20.00 Minuta de Trabajo
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XXVIII, D.O. 31 DE DICIEMBRE DE 2025]</small>
+
+El servicio de revisión técnica integral mencionado en esta fracción, tendrá una duración máxima de 2 horas y para acceder a este servicio se deberá agendar cita previa, sujeta a disponibilidad.
+
 > <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
 En las zonas denominadas Centros de Población y Centros de Población en Transición, se pagarán los derechos de acuerdo a lo establecido en la Zona 1. Consolidación Urbana, independientemente de la zona en la que se encuentren.
@@ -3003,9 +3095,11 @@ III.- Estarán exentos del pago del derecho por los servicios previstos en las f
 
 De la facultad de disminuir las cuotas y tarifas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 78.
 
-El Director de Finanzas y Tesorero Municipal a solicitud escrita de la Dirección de Desarrollo Urbano o de la Dirección de Desarrollo Social, podrá disminuir las cuotas y tarifas señaladas en esta Sección, en los casos siguientes:
+La persona titular de la Dirección de Finanzas y Tesorería Municipal a solicitud escrita de la Dirección de Desarrollo Urbano o de la Dirección de Desarrollo Social y Combate a la Pobreza, podrá disminuir las cuotas y tarifas señaladas en esta Sección, en los casos siguientes:
 
 I.- A los contribuyentes de ostensible pobreza, que tengan dependientes económicos. Se considera que el contribuyente es de ostensible pobreza, en los casos siguientes:
 
@@ -3231,11 +3325,11 @@ El Director de Finanzas y Tesorero Municipal, podrá disminuir las cuotas señal
 
 #### Sección Sexta. De los derechos por los servicios que presta la Dirección de Catastro del Municipio
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 89.
 
-Por los servicios que presta la Dirección Municipal de Catastro se causarán derechos que se calcularán multiplicando la tasa que se especifica en cada uno de ellos, por la unidad de medida y actualización a la fecha de solicitud:
+Por los servicios que presta la Dirección de Catastro del Municipio de Mérida se causarán derechos que se calcularán multiplicando la tasa que se especifica en cada uno de ellos, por la unidad de medida y actualización a la fecha de solicitud:
 
 I.- Por la Emisión de copias fotostáticas simples:
 
@@ -3267,7 +3361,9 @@ e).- Libro de Parcela con datos registrales: 3.0
 
 III.- Por la expedición de oficio de:
 
-a).- División (Por cada parte): 0.5
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+a).- División (Por cada parte):
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -3303,7 +3399,9 @@ b).- Unión:
 
 4. De 41 predios en adelante 10.0
 
-c).- Urbanización catastral y cambio de nomenclatura: 1.0
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+c).- Cambio de nomenclatura 1.0
 
 d).- (DEROGADO, D.O. 30 DE DICIEMBRE DE 2019)
 
@@ -3311,13 +3409,25 @@ d).- (DEROGADO, D.O. 30 DE DICIEMBRE DE 2019)
 
 2. (DEROGADO, D.O. 30 DE DICIEMBRE DE 2019)
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-e).- Constancias o certificados de no propiedad, única propiedad, valor catastral, número oficial de predio y certificado de inscripción vigente, por cada una: 1.5
+e).- Constancias o certificados de no propiedad,
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2019)</small>
+única propiedad, valor catastral vigente, número oficial
 
-Cuando en una misma constancia o certificado se señale la información relativa a inscripción vigente, número oficial de predio y valor catastral, se cobrará: 3.0
+de predio y certificado de inscripción predial vigente,
+
+por cada una: 1.5
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Cuando en una misma constancia o certificado se
+
+señale la información relativa a inscripción predial
+
+vigente, número oficial de predio y valor catastral
+
+vigente, se cobrará: 3.0
 
 f).- Constancia de información de bienes inmuebles:
 
@@ -3349,6 +3459,12 @@ k). Oficio de avalúo catastral 5.0
 
 l). Diligencia de perito empadronado 1.0
 
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+m) Determinación de identidad de predio 2.0
+
+En este caso se pagará de manera adicional, el derecho correspondiente al servicio de la diligencia de verificación a que se refieren los incisos a y b de la fracción VII del presente artículo, dependiendo de la sección en la que se encuentre el predio.
+
 > <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O. 30 DE DICIEMBRE DE 2019)</small>
 
 IV.- Por la expedición de Cédula Catastral:
@@ -3357,9 +3473,15 @@ a).- Emitida en Ventanilla 4.5
 
 b).- Emitida en Línea (vía internet) 4.0
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-V.- Por revalidación de cada oficio de división, unión y rectificación de medidas 1.0
+V.- Por revalidación de cada oficio de división,
+
+unión, rectificación de medidas y revisión técnica
+
+para la constitución, modificación o extinción de
+
+régimen de propiedad en condominio 1.0
 
 > <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O. 30 DE DICIEMBRE DE 2019)</small>
 
@@ -3495,11 +3617,11 @@ Los deslindes o marcajes y las diligencias de verificación de altimetría causa
 
 En el caso de divisiones, uniones y revisión técnica para la constitución o modificación del régimen de propiedad en condominio, se cobrarán trabajos de gabinete conforme a lo establecido en la fracción VIII, del artículo 89 de esta Ley, con excepción de lo dispuesto en el artículo anterior.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 93.
 
-Por la expedición del oficio de resultado de la revisión técnica de la documentación de constitución o modificación del régimen de propiedad en condominio, se causarán derechos por departamento de acuerdo a su tipo.
+Por la expedición del oficio de resultado de la revisión técnica de la documentación de constitución, modificación o extinción del régimen de propiedad en condominio, se causarán derechos por departamento de acuerdo a su tipo.
 
 > <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -3537,9 +3659,11 @@ En caso de requerir una nueva revisión, se pagarán los derechos establecidos e
 
 Quedan exentos del pago de los derechos que se establecen en esta Sección los inmuebles propiedad de las instituciones públicas cuya actividad esté relacionada directamente con la promoción, desarrollo y otorgamiento de vivienda, así como aquellos bienes de dominio público de la Federación, del Estado o de los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales, organismos descentralizados o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 95.
 
-Otros Servicios Prestados por el Catastro Municipal.
+Otros Servicios Prestados por la Dirección de Catastro del Municipio de Mérida:
 
 I.- Impresión de imagen satelital o de fotografía aérea a color del Municipio de Mérida:
 
@@ -3735,17 +3859,15 @@ c) Para la instalación de mobiliario urbano distinto al señalado en el inciso 
 
 d) Para la instalación subterránea o aérea de:
 
-1. Ductos de gas natural, gasolina, diésel y demás derivados del petróleo: 0.15 veces la unidad de medida y actualización por metro lineal.
+1. (DEROGADO, D.O. 31 DE DICIEMBRE DE 2025)
 
 2. Ductos o conductores para la explotación de servicios digitales: 0.05 veces la unidad de medida y actualización por metro lineal.
 
 3. Ductos o conductores de cualquier tipo distintos a los señalados en los numerales 1 y 2 del inciso d) de la presente fracción: 0.02 veces la unidad de medida y actualización por metro lineal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-e) Para la instalación de puestos semifijos en los tianguis, ubicados en las zonas y lugares destinados al comercio, en las colonias y suburbios del municipio, que cumplan con la normatividad correspondiente; se pagará 1.0669 veces la unidad de medida y actualización por metro cuadrado.
-
-Cuando la aplicación de este factor resultare una cantidad superior a 75.00 pesos, se cobrará esta cantidad en vez de aquella.
+e) Para la instalación de puestos semifijos en los tianguis, ubicados en las zonas y lugares destinados al comercio, en las colonias y suburbios del municipio, que cumplan con la normatividad correspondiente; se pagará por evento $2.50 pesos por metro cuadrado, dicho pago podrá hacerse de manera anticipada.
 
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
@@ -3773,21 +3895,29 @@ III.- Por el uso de espacios públicos ubicados en bienes de dominio público de
 
 Cuando de la aplicación de este factor resultare una cantidad superior a 30 pesos, se cobrará esta cantidad en vez de aquélla.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS Y NUMERALES], D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-IV.- Por el uso y acceso de las atracciones localizadas dentro de las instalaciones del Parque Zoológico del Bicentenario Animaya, se cobrará por persona:
+IV.- Por el uso y acceso de las atracciones localizadas dentro de las instalaciones de los Parques Zoológicos descritos a continuación se cobrará por persona:
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2019)</small>
+a) Parque Zoológico del Centenario
 
-a) Tren $5.00
+Personas residentes en Personas Nacionales y
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2019)</small>
+Yucatán Extranjeras
 
-b) Safari $5.00
+1. Visitas guiadas $10.00 $20.00
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2019)</small>
+b) Parque Zoológico del Bicentenario Animaya:
 
-c) Catamarán $5.00
+Personas residentes en Personas Nacionales y
+
+Yucatán Extranjeras
+
+1. Tren $10.00 $25.00
+
+2. Safari $10.00 $25.00
+
+3. Catamarán $10.00 $25.00
 
 > <small>(ADICIONADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
@@ -3797,9 +3927,31 @@ V.- Por el uso y aprovechamiento de locales, islas y/o piso en los espacios púb
 
 Para la instalación de juegos mecánicos, eléctricos, manuales o de cualquier otro que promueva el esparcimiento o diversión pública en los espacios públicos con giro de predios integrales de la vida silvestre y/o en los centros de conservación de la vida silvestre propiedad del Municipio, se pagará por los dos primeros metros cuadrados el equivalente a 5.0 veces la unidad de medida y actualización, y por cada metro excedente a dos metros cuadrados el equivalente a 0.15 veces la unidad de medida y actualización.
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-Los derechos señalados en este artículo se causarán por períodos de un mes natural, con excepción de los establecidos en los incisos a) y f) de la fracción I, III y IV. Los derechos establecidos en los incisos a) y f) de la fracción I se causarán por día y se pagarán previo a la autorización que se otorgue para el uso y aprovechamiento de la vía, espacio público o bien de dominio público.
+VI.- Por el uso y acceso a las atracciones localizadas dentro de las instalaciones del Parque de Deportes Extremos, por persona $10.00.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+VII.- Por el uso y acceso a las instalaciones de la Hacienda Dzoyaxché, se pagará las siguientes cuotas:
+
+Personas residentes en Personas Nacionales y
+
+Yucatán Extranjeras
+
+a) Uso de Estanque $5.00 $20.00
+
+b) Servicio de Ruta
+
+Ecológica $10.00 $25.00
+
+c) Servicio de
+
+Campamento $20.00 $50.00
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Los derechos señalados en este artículo se causarán por períodos de un mes natural, con excepción de los establecidos en los incisos a) y g) de la fracción I, III, IV, VI y VII. Los derechos establecidos en los incisos a) y g) de la fracción I se causarán por día y se pagarán previo a la autorización que se otorgue para el uso y aprovechamiento de la vía, espacio público o bien de dominio público.
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -3809,9 +3961,13 @@ Los derechos establecidos en los incisos b) y c) de la fracción I y fracción I
 
 Los derechos establecidos en el inciso d) de la fracción I de este artículo, deberán cubrirse por periodos de un año, cada mes de abril y en los términos del convenio que para el efecto se suscriba, previa aprobación del uso y aprovechamiento de los bienes de dominio público del patrimonio municipal, por parte del Cabildo del H. Ayuntamiento de Mérida.
 
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-El derecho establecido en el inciso e) de la fracción I de este artículo se pagará dentro del mes natural al que se solicite el permiso.
+El derecho establecido en los incisos e) y f) de la fracción I de este artículo se pagará dentro del mes natural al que se solicite el permiso.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+El derecho contenido en el inciso f) de la fracción I de este artículo se causará por períodos de un mes natural, sin embargo, si el período de uso fuese menor a un mes natural el período de causación será en proporción a los días de uso.
 
 > <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
@@ -3825,7 +3981,9 @@ Cuando el contribuyente realice el pago correspondiente a una anualidad, durante
 
 Cuando el último día de los plazos a que se refieren los párrafos anteriores fuera día inhábil, el plazo se entenderá prorrogado hasta el día hábil siguiente.
 
-De la renuncia y otorgamiento de concesiones y permisos
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+De la renuncia y otorgamiento de concesiones, y permisos
 
 ###### ARTÍCULO 99.
 
@@ -3837,11 +3995,11 @@ Cuando algún concesionario ilegalmente haya pretendido enajenar sus derechos, e
 
 Por el permiso para realizar el comercio ambulante, se pagará un derecho de 0.18 veces la unidad de medida y actualización por día.
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 100.
 
-El pago de los derechos establecidos en la presente sección será posterior a la obtención de la autorización que otorgue la autoridad o dependencia municipal que corresponda, con excepción del plazo establecido para la fracción I incisos a) y f), III, IV y V del artículo 98 de esta Ley.
+El pago de los derechos establecidos en la presente sección será posterior a la obtención de la autorización que otorgue la autoridad o dependencia municipal que corresponda, con excepción del plazo establecido para la fracción I incisos a) y g), III, IV, V, VI y VII del artículo 98 de esta Ley.
 
 #### Sección Octava
 
@@ -3965,9 +4123,7 @@ XI.- Por el permiso temporal para establecer puestos semi-fijos para realizar ac
 
 XII.- Por el otorgamiento de la concesión para operar un panteón particular, por cada año concesionado. 400 U.M.A.
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
-
-XIII.- Por el otorgamiento de la concesión para operar un crematorio particular, por cada año concesionado. 400 U.M.A.
+XIII.- (DEROGADA, D.O. 31 DE DICIEMBRE DE 2025)
 
 > <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2019)</small>
 
@@ -4037,13 +4193,11 @@ I.- Por los servicios prestados en Xoclán:
 
 a) Velación 4.0 U.M.A.
 
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
+b) (DEROGADO, D.O. 31 DE DICIEMBRE DE 2025)
 
-b) Ambulancia 8.3 U.M.A.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
-
-c) Carroza 3.6 U.M.A.
+c) Carroza 7.2 U.M.A.
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -4105,9 +4259,9 @@ h) Por el servicio de Cremación prestado a empresas funerarias:
 
 4. Por Órganos Humanos, hasta 2 órganos 15 U.M.A.
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-II.- Cuando el servicio de cremación sea prestado por un particular, este deberá informar al Departamento de Panteones de la Dirección de Servicios Públicos Municipales del Ayuntamiento de Mérida, previamente a la prestación de dicho servicio, y cubrir el 0.20 de las tarifas señaladas en el inciso h.
+II.- Cuando el servicio de cremación sea prestado por un particular, este deberá informar al Departamento de Panteones de la Dirección de Servicios Públicos del Ayuntamiento de Mérida, previamente a la prestación de dicho servicio, y cubrir el 0.20 de las tarifas señaladas en esta fracción.
 
 III.- Por traslado fuera de la ciudad de Mérida, se pagarán 3.6 salarios más 0.1 salarios por kilómetro recorrido.
 
@@ -4129,13 +4283,15 @@ hasta 2 órganos 25.0 salarios
 
 Cuando el servicio de cremación sea prestado por un particular, este deberá informar al Departamento de Panteones de la Dirección de Servicios Públicos Municipales del Ayuntamiento de Mérida, previamente a la prestación de dicho servicio, y cubrir el 0.20 de las tarifas señaladas en esta fracción.
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+De la reducción de las cuotas
 
 ###### ARTÍCULO 103.
 
-En el caso de personas de escasos recursos el Director de Finanzas y Tesorero Municipal, podrá disminuir a petición expresa del Director de Servicios Públicos Municipales o del Director de Desarrollo Social, las cuotas señaladas en el artículo 102 de la fracción I incisos a), b), c), d), e) y f) de esta sección.
+En el caso de personas de escasos recursos la persona titular de la Dirección de Finanzas y Tesorería Municipal, podrá disminuir a petición expresa de las personas titulares de las Direcciones de Servicios Públicos o de la Dirección de Desarrollo Social y Combate a la Pobreza, las cuotas señaladas en el artículo 102 de la fracción I incisos a), b), c), d), e) y f) de esta sección.
 
-El Director de Servicios Públicos Municipales o el Director de Desarrollo Social a fin de solicitar la disminución que se señala en el párrafo anterior, deberá tomar en consideración el estudio socioeconómico y los lineamientos que para tal efecto realice y establezca, respectivamente, el Departamento de Panteones de la Dirección de Servicios Públicos Municipales del Ayuntamiento de Mérida.
+La persona titular de la Dirección de Servicios Públicos o de la Dirección de Desarrollo Social y Combate a la Pobreza a fin de solicitar la disminución que se señala en el párrafo anterior, deberá tomar en consideración el estudio socioeconómico y los lineamientos que para tal efecto realice y establezca, respectivamente, el Departamento de Panteones de la Dirección de Servicios Públicos del Ayuntamiento de Mérida.
 
 #### Sección Novena. Derechos por servicio de Alumbrado Público
 
@@ -4175,109 +4331,87 @@ Los ingresos que se perciban por el derecho a que se refiere la presente Secció
 
 Todas las tarifas de esta Sección se calcularán con base en la unidad de medida y actualización por cada licencia.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### ARTÍCULO 111.
 
-Tratándose de apertura, por la expedición de licencias para el funcionamiento de establecimientos dedicados al expendio de bebidas alcohólicas y/o cerveza para su consumo en lugar diferente, se cobrará un derecho de acuerdo a lo siguiente:
+Tratándose de la expedición de licencias para el funcionamiento de establecimientos dedicados al expendio, distribución, suministro, almacenamiento o que ofrezcan bebidas alcohólicas y/o cerveza, para su consumo en lugar diferente, se cobrará una cuota de acuerdo a lo siguiente:
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+Veces la unidad de medida y
 
-Tipo de establecimiento Veces la unidad de medida y actualización
+Giro del establecimiento actualización
 
-I.- Expendio de vinos, licores y cervezas en envase cerrado: 75
+Apertura Revalidación
 
-II.- Expendio de cerveza en envase cerrado: 50
+I.- Licorería, Expendio de vinos, licores y
 
-III.- Supermercado: 200
+cervezas en envase cerrado o 75.0 15.0
 
-IV.- Minisuper: 150
+II.- Expendio de cerveza en envase cerrado
 
-V.- Expendio de vinos y licores al por mayor: 200
+(Cervecería) 50.0 12.5
+
+III.- Tienda de autoservicio Tipo A 150.0 37.5
+
+IV.- Tienda de autoservicio Tipo B 200.0 50.0
+
+V.- Bodega y distribuidora de bebidas
+
+alcohólicas (Expendio de vinos y licores
+
+al por mayor) 200.0 50.0
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 112.
 
-Tratándose de apertura, por la expedición de licencias para el funcionamiento de giros dedicados al expendio de bebidas alcohólicas y/o cerveza para su consumo en el mismo lugar, se cobrará una cuota de acuerdo a lo siguiente:
+Tratándose de la expedición de licencias para el funcionamiento de establecimientos dedicados al expendio o suministro de bebidas alcohólicas y/o cerveza exclusivamente para su consumo en el mismo lugar, se cobrará una cuota de acuerdo a lo siguiente:
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+Veces la unidad de medida y
 
-Tipo de establecimiento Veces la unidad de medida y actualización
+Giro del establecimiento actualización
 
-I.- Restaurante de primera "A" 325
+Apertura Revalidación
 
-II.- Restaurante de primera "B" 250
+I.- Restaurante de primera “A” 325.0 81.25
 
-III.- Restaurante de primera "C" 200
+II.- Restaurante de primera “B” 250.0 62.5
 
-IV.- Restaurante de segunda "A" 175
+III.- Restaurante de primera “C” 200.0 50.0
 
-V.- Restaurante de segunda "B" 150
+IV.- Restaurante de segunda “A” 175.0 43.75
 
-VI.- Restaurante de segunda "C" 125
+V.- Restaurante de segunda “B” 150.0 37.5
 
-VII.- Cantina y bar: 125
+VI.- Restaurante de segunda “C” 125.0 31.25
 
-VIII.- Cabaret o Centro Nocturno 625
+VII.- Cantina y bar 125.0 31.25
 
-IX.- Discotecas: 500
+VIII.- Cabaré o Centro Nocturno 625.0 156.25
 
-X.- Salones de baile: 125
+IX.- Discoteca 500.0 125.0
 
-Cuando por su denominación algún establecimiento no se encuentre comprendido en la clasificación anterior, se ubicará en aquél que por sus características le sea más semejante.
+X.- Salón de baile 125.0 31.25
 
-Para los efectos de este artículo, se entenderá la clasificación de establecimientos especificada en el reglamento municipal correspondiente.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 113.
 
-Por la revalidación de licencias para el funcionamiento de los establecimientos que se relacionan en los artículos 111 y 112 de esta Ley se pagará un derecho conforme a la siguiente tarifa:
+Para los efectos de los artículos 111 y 112 de esta Ley, se entenderá la clasificación de establecimientos especificada en el Reglamento Municipal correspondiente.
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+Cuando por su giro algún establecimiento no se encuentre comprendido en la clasificación de los artículos 111 y 112 de esta ley, será regulado conforme a las características del giro que le sea más semejante.
 
-Tipo de establecimiento Veces la unidad de medida y actualización
+Si el titular de la licencia de funcionamiento de un establecimiento cuyo giro sea el expendio, distribución, suministro, almacenamiento o que ofrezcan bebidas alcohólicas y/o cerveza, y/o esté contemplado en el Reglamento Municipal correspondiente no revalidó la licencia de funcionamiento en el período inmediato anterior, se le cobrará un monto equivalente al derecho de apertura de acuerdo al tipo de establecimiento que se trate, según lo establecido en los artículos 111 y 112 de esta ley.
 
-I.- Expendio de vinos, licores y cervezas en envase cerrado: 15
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-II.- Expendio de cerveza en envase cerrado: 12.5
+#### Sección Décima Primera. Derechos por los servicios que presta la Subdirección de Residuos Municipales
 
-III.- Supermercado: 50
-
-IV.- Minisuper: 37.5
-
-V.- Expendio de vinos y licores al por mayor: 50
-
-VI.- Restaurante de primera "A": 81.25
-
-VII.- Restaurante de primera "B": 62.5
-
-VIII.- Restaurante de primera "C": 50
-
-IX.- Restaurante de segunda "A": 43.75
-
-X.- Restaurante de segunda "B": 37.5
-
-XI.- Restaurante de segunda "C": 31.25
-
-XII.- Cantina y bar: 31.25
-
-XIII.- Cabaret y centro nocturno: 156.25
-
-XIV.- Discotecas: 125
-
-XV.- Salón de baile: 31.25
-
-Cuando por su denominación algún establecimiento no se encuentre comprendido en la clasificación anterior, se ubicará en aquél que por sus características le sea más semejante.
-
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
-
-Si el titular de la licencia de funcionamiento del establecimiento cuyo giro sea el expendio de bebidas alcohólicas y/o cerveza no realizó la revalidación correspondiente durante la administración municipal inmediata anterior se cobrará un monto equivalente al derecho de apertura de acuerdo al tipo de establecimiento que se trate, según lo establecido en los artículos 111 y 112 de esta ley.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 28 DE DICIEMBRE DE 2018)</small>
-
-#### Sección Décima Primera. Derechos por los servicios que presta la Subdirección de Residuos Sólidos
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTÍCULO 114.
 
-Por los servicios que presta la Subdirección de Residuos Sólidos se pagarán los siguientes derechos:
+Por los servicios que presta la Subdirección de Residuos Municipales se pagarán los siguientes derechos:
 
 > <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -4287,9 +4421,9 @@ ACTUALIZACIÓN
 
 I.- Por el uso de vertederos propiedad del Municipio de Mérida:
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-a) Por la recepción de lodos y aguas residuales en el sitio de tratamiento de aguas residuales por cada metro cúbico: 0.50
+a) Por la recepción de lodos y aguas residuales en el sitio de tratamiento de aguas residuales por cada metro cúbico: 0.65
 
 II.- (DEROGADA, D.O. 28 DE DICIEMBRE DE 2018)
 
@@ -5153,11 +5287,19 @@ VI.- Honorarios por notificación.
 
 VII.- Multas impuestas a servidores públicos por la autoridad judicial en caso de incumplimiento a requerimientos.
 
-VIII.- Multas impuestas a servidores públicos o a personas físicas o morales, públicas o privadas, como medios de apremio para hacer cumplir las determinaciones de la autoridad investigadora, sustanciadora o resolutora, durante el Procedimiento de probable Responsabilidad Administrativa, o por otros ordenamientos aplicables.
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-IX.- Las garantías a las que se refieren el artículo 9 de la presente Ley que se hagan efectivas a favor del Municipio por resoluciones de la autoridad competente;
+VIII.- Multas impuestas a servidores públicos o a personas físicas o morales, públicas o privadas, como medidas o medios de apremio para hacer cumplir las determinaciones de la autoridad investigadora, sustanciadora o resolutora, durante cualquier etapa procesal en materia de responsabilidades administrativas, o requerimientos del órgano de control interno en el ejercicio de sus facultades de supervisión, evaluación y control de la gestión y manejo eficiente de los recursos públicos, y disposiciones en materia de planeación, presupuestación, ingreso, contabilidad, financiamiento, inversión, deuda, patrimonio, fondos y valores, o por otros ordenamientos aplicables.
 
-X.- Aprovechamientos Diversos.
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+IX.- Multas a licitantes o contratistas que infrinjan las disposiciones de la Ley de Obra Pública y Servicios Conexos del Estado de Yucatán, su Reglamento; el Reglamento de Adquisiciones, Arrendamientos de Bienes y Servicios del Municipio de Mérida, o por otros ordenamientos aplicables en la materia.
+
+X.- Las garantías a las que se refieren el artículo 9 de la presente Ley que se hagan efectivas a favor del Municipio por resoluciones de la autoridad competente;
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XI.- Otros aprovechamientos.
 
 > <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
@@ -5299,11 +5441,13 @@ a).- No presentar los avisos, declaraciones o manifestaciones que exigen las dis
 
 b).- La falta de cumplimiento de las obligaciones establecidas en esta Ley, a los fedatarios públicos, las personas que tengan funciones notariales, los empleados y funcionarios del Registro Público de la Propiedad y a los que por cualquier medio evadan o pretendan evadir, dicho cumplimiento.
 
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-c).- La falta de empadronamiento de los obligados a ello, en la Dirección de Finanzas y Tesorería Municipal dentro de los términos que señala esta ley o seguir funcionando cuando la licencia de funcionamiento le haya sido revocada por resolución de autoridad competente.
+c).- La falta de cumplimiento a las obligaciones establecidas en la fracción II del artículo 30 de esta Ley o por seguir funcionando cuando la licencia de funcionamiento le haya sido revocada o dada de baja de acuerdo a lo establecido en los artículos 31-A y 31-B de esta Ley respectivamente.
 
-d).- No revalidar la licencia municipal de funcionamiento en los términos que dispone esta Ley.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+d).- La falta de cumplimiento a las obligaciones establecidas en los numerales 1 y 2 del cuarto párrafo del artículo 31 de esta Ley.
 
 e).- La falta de presentación o presentación extemporánea de los documentos que conforme a esta Ley, se requieran para acreditar el pago de las contribuciones municipales.
 
@@ -5333,6 +5477,10 @@ m) Conectar directamente a la red de agua potable del Municipio de Mérida equip
 
 n) Interconectar a la red de agua potable del Municipio de Mérida líneas de distribución no autorizadas.
 
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+o).- Por operar un giro distinto al permitido o autorizado en la Licencia de Funcionamiento y/o por no cumplir las condiciones y restricciones establecidas en la licencia de uso de suelo para funcionamiento.
+
 ###### ARTÍCULO 177.
 
 A quien cometa las infracciones a que se refiere el artículo 176, se hará acreedor de las siguientes sanciones:
@@ -5341,9 +5489,9 @@ A quien cometa las infracciones a que se refiere el artículo 176, se hará acre
 
 I.- Multa de 5 a 10 veces la unidad de medida y actualización, a las comprendidas en el inciso l).
 
-> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
 
-II.- Multa de 10 a 15 veces la unidad de medida y actualización, a las comprendidas en los incisos a), c), d), e) y h).
+II.- Multa de 10 a 15 veces la unidad de medida y actualización, a las establecidas en los incisos a) y e).
 
 > <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
@@ -5361,7 +5509,17 @@ V.- Multa de 150 a 170 veces la unidad de medida y actualización, a la establec
 
 VI.- Multa de 50 a 60 veces la unidad de medida y actualización, a la establecida en el inciso i), j) y k).
 
-Para el caso de las infracciones previstas en los incisos c), d) y h) del artículo 176 de esta Ley, sin perjuicio de la sanción que corresponda, el Director de Finanzas y Tesorero Municipal, o el Subdirector de Ingresos, quedarán facultados para ordenar la clausura temporal del comercio, negocio o establecimiento que corresponda, por el tiempo que subsista la infracción
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+VII.- Multa de 20 a 25 veces la unidad de medida y actualización, a las establecidas en los incisos c), d), h) y o).
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Para los establecimientos dedicados al expendio, distribución, suministro, almacenamiento o que ofrezcan bebidas alcohólicas y/o cerveza, cuyo giro este contemplado en el Reglamento Municipal correspondiente, se cobrarán las multas establecidas en el referido Reglamento y no las establecidas en este artículo.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2025)</small>
+
+Para el caso de las infracciones previstas en los incisos c), d), h) y o) del artículo 176 de esta Ley, sin perjuicio de la sanción que corresponda, la persona titular de la Dirección de Finanzas y Tesorería Municipal, o la persona titular de la Subdirección de Ingresos, quedarán facultados para ordenar la clausura temporal del establecimiento que corresponda, por el tiempo que subsista la infracción o, en su caso, la revocación o baja de la licencia de funcionamiento en el Padrón.
 
 T R A N S I T O R I O S:
 
@@ -7404,3 +7562,115 @@ Artículo octavo. Se derogan todas las disposiciones legales que eximan a los pa
 Artículo noveno. Para los derechos por los servicios que presta la Dirección de Desarrollo Urbano durante el ejercicio fiscal 2025, todos los desarrollos que cuenten con autorización de constitución de desarrollo inmobiliario o su similar (autorización por Gobierno del Estado) con fecha anterior al 18 de octubre de 2017 en la cual entró en vigor el Programa Municipal de Desarrollo Urbano de Mérida, que se encuentren en la Zona 3. Regeneración y Desarrollo Sustentable y en la Zona 4. Conservación de los Recursos Naturales, pagarán en los trámites subsecuentes a dicha autorización, los derechos establecidos para la Zona 2. Crecimiento Urbano.
 
 Artículo décimo. Las disposiciones establecidas en la Sección Séptima, del Capítulo II, del Título Segundo; a los artículos 96, 97, a la fracción I del artículo 98, inciso f), de la fracción I, del artículo 98, segundo párrafo del artículo 98, artículo 100, así como las adiciones consistentes en un segundo párrafo al artículo 96; un segundo y un tercer párrafo al inciso f) de la fracción I del artículo 98; la fracción V, al artículo 98, un penúltimo párrafo al artículo 98, todos de esta Ley, entrarán en vigor para efectos del ejercicio fiscal 2025 al día siguiente de la publicación en la Gaceta Municipal del reglamento municipal en materia de espacio público; y en tanto esto no ocurra, se aplicarán los derechos como lo establecen los artículos 96, 97, 98 y 100 de la Ley de Hacienda del Municipio de Mérida, Yucatán, en vigor para el ejercicio fiscal 2023.
+
+D.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 148/2025 POR EL QUE SE MODIFICA LA LEY DE HACIENDA DEL MUNICIPIO DE MÉRIDA, YUCATÁN”.]
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día uno de enero del año dos mil veintiséis, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Los derechos establecidos en la Sección Décima Segunda del Capítulo II del Título Segundo de esta Ley de Hacienda del Municipio de Mérida, serán aplicados únicamente en las áreas del Municipio de Mérida, por las cuales el Ejecutivo del Estado le haya transferido al Municipio atribuciones en materia de vialidad, tránsito, y de seguridad pública.
+
+###### ARTÍCULO TERCERO.
+
+En caso de que durante el ejercicio fiscal 2026 fueran modificadas mediante Sesión de Cabildo las tarifas autorizadas a los concesionarios para la prestación del Servicio de Recolección y Traslado de Residuos Sólidos no Peligrosos o Basura, las cuotas establecidas en la Sección Décima Quinta, del Capítulo II, del Título Segundo, se verán incrementadas, o en su caso decrementadas, en la misma proporción que las tarifas autorizadas lo sean para dichos concesionarios.
+
+###### ARTÍCULO CUARTO.
+
+Para el ejercicio fiscal 2026, en vez de aplicar lo dispuesto en el segundo párrafo del artículo 48, las bonificaciones se otorgarán de conformidad con lo establecido en el Programa de Estímulo que al efecto expida el Cabildo del H. Ayuntamiento de Mérida.
+
+###### ARTÍCULO QUINTO.
+
+Se otorga un estímulo fiscal en materia de impuesto predial, consistente en el acreditamiento del monto de la inversión realizada en inmuebles ubicados dentro de los perímetros “A”, “B-1”, “B-2”, “B-3” y “B-4” de la zona de monumentos históricos en la ciudad de Mérida, demarcados en el Decreto Presidencial de Declaratoria de Zona de Monumentos Históricos, publicado en el Diario Oficial de la Federación el 18 de Octubre de 1982, contra el impuesto predial que se cause hasta el mes de diciembre de 2026, siempre y cuando los trabajos fueren iniciados y concluidos durante el año 2026, de conformidad con lo siguiente:
+
+I.- Por un importe hasta del 100% del monto de la inversión en trabajos de rescate, consolidación, restauración, o rehabilitación integral de inmuebles catalogados o declarados por el Instituto Nacional de Antropología e Historia como monumentos históricos o artísticos.
+
+II.- Por un importe hasta del 50% del monto de la inversión en trabajos de integración al contexto en inmuebles distintos a los catalogados o declarados como monumentos históricos o artísticos en el Decreto Presidencial de referencia.
+
+Para efectos de este artículo se entenderá por acreditamiento, el restar del impuesto predial que corresponda hasta el mes de diciembre de 2026, el importe de la inversión que se determine en la constancia de aplicación del estímulo.
+
+Asimismo, para efectos de este artículo, los tipos de trabajos que se podrán realizar serán los siguientes:
+
+I.- Rescate: Aquellos trabajos que se realizan para la recuperación de elementos que hubieren sido mutilados o alterados;
+
+II.- Consolidación: Aquellos trabajos que se realizan para devolver la estabilidad a partir de lo existente;
+
+III.- Restauración: Aquellos trabajos que se realizan para reincorporar algún elemento original, o con características similares a la original;
+
+IV.- Integración al contexto: Aquellos trabajos que permiten incorporar al predio en cuestión con las características de su entorno; y
+
+V.- Rehabilitación integral: Conjunto de trabajos, en interior y exterior, respetuosos de las características originales de inmueble que conlleve a su habitabilidad, y en consecuencia al uso inmediato.
+
+Previo al inicio de los trabajos, el contribuyente solicitará por escrito a la Dirección de Desarrollo Urbano, un dictamen en el cual se determine el importe de la inversión de los trabajos, que podrá considerarse en la aplicación del estímulo.
+
+Dicha solicitud deberá contener cuando menos la información que indique el importe de la inversión, fecha de inicio y conclusión, así como el tipo de trabajo que se realizará.
+
+La Dirección de Desarrollo Urbano previa revisión de la solicitud señalada en el párrafo anterior desechará o aprobará la solicitud, en este último caso emitirá el dictamen en el cual se establecerán los requisitos que el contribuyente deberá cumplir para obtener la constancia de aplicación del estímulo.
+
+Una vez concluidos todos los trabajos de conformidad con los requisitos y plazos establecidos en el dictamen el contribuyente dará aviso por escrito, dentro de los quince días hábiles siguientes, a la Dirección de Desarrollo Urbano, la que en caso de que sea procedente, emitirá la constancia de aplicación del estímulo en la cual se indicará el importe de la inversión que podrá acreditarse contra el impuesto predial, tomando en cuenta el monto de la inversión y el porcentaje de aplicación del estímulo, de acuerdo con el tipo de trabajo realizado.
+
+Después de obtener la constancia señalada en el párrafo anterior, si el impuesto lo causa sobre la base del valor catastral, el contribuyente deberá solicitar por escrito a la Dirección de Finanzas y Tesorería Municipal la aplicación del estímulo señalado en este artículo, anexando a su solicitud la constancia señalada en el párrafo anterior.
+
+Para la aplicación de dicho estímulo la Dirección de Finanzas y Tesorería Municipal dictará un acuerdo de conformidad con lo siguiente:
+
+1. Determinará el importe del impuesto que se cause hasta por el mes de diciembre de 2026.
+
+2. Procederá a realizar el acreditamiento de conformidad con lo establecido en este artículo.
+
+3. Si al realizar el acreditamiento, resultase que el importe del impuesto determinado es menor que el importe de la inversión señalada en la constancia de aplicación del estímulo, se considerará pagado en su totalidad el impuesto correspondiente al período determinado en el punto 1.
+
+4. Si al realizar el acreditamiento, resultase que el importe del impuesto determinado es mayor que el importe de la inversión determinada en la constancia de aplicación del estímulo, la diferencia deberá ser pagada al momento de aplicar el estímulo.
+
+En caso de que el impuesto predial se cause sobre la base de la contraprestación, el contribuyente deberá determinar el impuesto que se cause hasta el mes de diciembre de 2026, y realizar, en una sola declaración, el acreditamiento que señala este artículo. En este caso, le será aplicable lo dispuesto en los puntos 3 y 4 del párrafo anterior.
+
+En caso de que en los períodos comprendidos hasta el mes de diciembre de 2026 le corresponda al contribuyente tributar, por algún, o algunos meses, sobre la base del valor catastral y por otro, u otros sobre la base de la contraprestación, para la aplicación del estímulo, deberá cumplir con lo que para cada una de esas bases dispone este artículo.
+
+La suma de los acreditamientos aplicados no podrá ser mayor al importe de la inversión que se determinó en la constancia de aplicación del estímulo.
+
+El acreditamiento del importe de la inversión deberá realizarse contra el principal así como por los accesorios del mismo.
+
+La aplicación del estímulo a que se refiere este artículo no libera al contribuyente del cumplimiento de las demás obligaciones relacionadas con el impuesto predial.
+
+En ningún caso la aplicación del estímulo a que se refiere este artículo, dará lugar a devolución de cantidad alguna.
+
+###### ARTÍCULO SEXTO.
+
+Las personas físicas propietarias de inmuebles que se encuentren catalogados o declarados como monumentos históricos o artísticos por el Instituto Nacional de Antropología e Historia y ubicados dentro de los perímetros “A”, “B-1”, “B-2”, “B-3” y “B-4” de la zona de monumentos históricos en la ciudad de Mérida, demarcados en el Decreto Presidencial de Declaratoria de Zona de Monumentos Históricos, publicado en el Diario Oficial de la Federación el 18 de Octubre de 1982, siempre y cuando dichos inmuebles sean su casa habitación, tendrán derecho a un estímulo consistente en una bonificación equivalente al 15% respecto del impuesto predial sobre la base valor catastral correspondiente al ejercicio fiscal 2026, siempre y cuando el pago de dicho impuesto se realice durante dicho ejercicio.
+
+Para poder acceder al estímulo el contribuyente deberá acreditar que el inmueble es su casa habitación y exhibir la siguiente documentación:
+
+1.- El certificado o dictamen expedido por el Instituto Nacional de Antropología e Historia en el que se señale que el inmueble está declarado o catalogado como monumento histórico o artístico.
+
+2.- Se encuentre pagado en su totalidad el impuesto predial, causado hasta por el mes de diciembre de 2025.
+
+Para efectos de que el contribuyente acredite que el inmueble objeto del estímulo fiscal es su casa habitación, deberá exhibir cualquiera de los documentos comprobatorios que se relacionan a continuación, siempre que el domicilio consignado en dicha documentación coincida con el domicilio del inmueble objeto del estímulo:
+
+1. La credencial de elector, expedida por el Instituto Nacional Electoral (INE).
+
+2. Los comprobantes de los pagos efectuados por la prestación de energía eléctrica o de telefonía fija.
+
+La documentación a que se refieren las fracciones anteriores, deberá estar a nombre del propietario del inmueble objeto del estímulo.
+
+La aplicación del estímulo a que se refiere este artículo no libera al contribuyente del cumplimiento de las demás obligaciones relacionadas con el impuesto predial.
+
+En ningún caso la aplicación del estímulo a que se refiere este artículo, dará lugar a devolución de cantidad alguna.
+
+###### ARTÍCULO SÉPTIMO.
+
+Si durante el ejercicio fiscal 2026 el contribuyente hubiese pagado el importe correspondiente a esa anualidad del impuesto predial sobre la base del valor catastral, este pago se considerará como definitivo respecto de esta base; en consecuencia, no le será aplicable lo dispuesto en los párrafos penúltimo y último del artículo 45 de esta Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones legales que eximan a los particulares del pago de las contribuciones previstas en esta Ley con excepción de las que dispone la misma que otorguen beneficios fiscales.
+
+###### ARTÍCULO NOVENO.
+
+Lo establecido en el inciso a) del artículo 31-B de esta Ley, entrará en vigor el 1 de julio de 2026.
+
+###### ARTÍCULO DÉCIMO.
+
+A partir del 1 de julio de 2026, quedará sin efecto lo establecido en el último párrafo del artículo 113 de esta Ley.
