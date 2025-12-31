@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-muxupip-yucatan-118191"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2016-12-31"
+last_updated: "2025-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118191&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE MUXUPIP, YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE MUXUPIP, YUCATÁN, PUBLICADA EN EL D.O. DE 31 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE HACIENDA PARA EL MUNICIPIO DE MUXUPIP, YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2025 (ABROGADA).
 
 Ley publicada en el Suplemento del Diario Oficial del Gobierno del Estado de Yucatán, el sábado 31 de diciembre de 2016.
 
@@ -35,7 +37,7 @@ Decreto 443/2016 por el que se expiden las Leyes de Hacienda de los Municipios d
 
 EXPOSICIÓN DE MOTIVOS:
 
-[…]
+[...]
 
 En tal virtud y con fundamento en los artículos 30 fracción V de la Constitución Política, 18 y 43 fracción IV inciso a) de la Ley de Gobierno del Poder Legislativo y 71 fracción II del Reglamento de la Ley de Gobierno del Poder Legislativo, todos del Estado de Yucatán, sometemos a consideración del Pleno del H. Congreso del Estado de Yucatán, el siguiente proyecto de decreto que contiene 20 leyes de Hacienda Municipales:
 
@@ -1642,3 +1644,19 @@ Gobernador del Estado de Yucatán
 Roberto Antonio Rodríguez Asaf
 
 Secretario general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE HACIENDA PARA EL MUNICIPIO DE MUXUPIP, YUCATÁN”.]
+
+Artículo primero. Se abroga la Ley de Hacienda del Municipio de Muxupip, Yucatán publicado (sic) en el Diario Oficial del Gobierno del Estado de Yucatán, en fecha 31 de diciembre de 2016, en el Decreto número 443.
+
+Artículo segundo. En lo no previsto por esta Ley, se aplicará supletoriamente lo establecido por el Código Fiscal y la Ley de Hacienda Municipal, ambas del Estado de Yucatán.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 150/2025 POR EL QUE SE EMITEN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE CANSAHCAB, CHANKOM, CHICHIMILÁ, HOCTÚN, HUNUCMÁ, KANASÍN, KOPOMÁ, MUXUPIP, TAHDZIÚ, TEKANTÓ, TEPAKÁN, TETIZ, TIXCACALCUPUL, TIXPÉUAL, UAYMA, UMÁN Y VALLADOLID, TODAS DEL ESTADO DE YUCATÁN”.]
+
+Entrada en vigor
+
+Artículo único. Este Decreto, entrará en vigor el primero de enero del año 2026, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
