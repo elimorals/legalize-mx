@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-administracion-publica-del-estado-de-175296"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-12-05"
-last_updated: "2025-12-10"
+last_updated: "2025-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2025.
 
 Ley publicada en el Número 382 del Periódico Oficial del Estado de Chiapas, el jueves 5 de diciembre de 2024.
 
@@ -303,7 +303,9 @@ VIII. Secretaría de Economía y del Trabajo;
 
 IX. Secretaría del Humanismo;
 
-X. Secretaría de Agricultura, Ganadería y Pesca;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+X. Secretaría del Campo;
 
 XI. Secretaría de Turismo;
 
@@ -320,6 +322,10 @@ XVI. Secretaría de Movilidad y Transporte;
 XVII. Secretaría de la Frontera Sur;
 
 XVIII. Instituto de la Consejería Jurídica del Gobierno del Estado.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+XIX. Secretaría de Pesca y Acuacultura del Pueblo.
 
 ### CAPÍTULO SEGUNDO. DE LA COMPETENCIA DE LAS DEPENDENCIAS PÚBLICAS
 
@@ -1123,67 +1129,81 @@ XXXVII. Formular, instrumentar e implementar la política estatal de la juventud
 
 XXXVIII. Los demás asuntos que le correspondan en los términos de las leyes aplicables, su reglamento interior, y los que determine la persona titular del Poder Ejecutivo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
 ###### Artículo 40.
 
-La Secretaría de Agricultura, Ganadería y Pesca es la dependencia de gobierno del Estado responsable de la promoción y desarrollo de la agricultura, el fomento de la ganadería, desarrollo de la pesca y acuicultura, así como, el fomento de la competitividad agropecuaria y desarrollo rural. Le corresponde el despacho de los siguientes asuntos:
+La Secretaría del Campo es la dependencia de gobierno del Estado responsable de la promoción y desarrollo de la agricultura, el fomento de la ganadería, así como, el fomento de la competitividad agropecuaria y desarrollo rural. Le corresponde el despacho de los siguientes asuntos:
 
-I. Proponer al Poder Ejecutivo las políticas de desarrollo rural, agricultura, ganadería y pesca, a fin de elevar el nivel de vida de las familias que habitan en el campo y zonas costeras, así como promover acciones, programas y proyectos que permitan detonar dichos sectores.
+I. Proponer a la persona titular del Poder Ejecutivo las políticas de desarrollo rural, agricultura y ganadería a fin de elevar el nivel de vida de las familias que habitan en el campo, así como promover acciones, programas y proyectos que permitan detonar dichos sectores.
 
 II. Suscribir, a través del área que determine su reglamento interior, con la federación convenios de colaboración para coadyuvar en actividades de su competencia.
 
-III. Promover el desarrollo de las actividades pesqueras en las aguas marinas costeras y las interiores de la Entidad, proponiendo, formulando y conduciendo las políticas públicas estatales correspondientes.
+III. Elaborar y presentar a la persona titular del Poder Ejecutivo los programas y acciones en materia de ganadería y agricultura que requiera la Entidad, en apego a las disposiciones legales aplicables.
 
-IV. Elaborar y presentar a la persona titular del Poder Ejecutivo los programas y acciones en materia de ganadería, pesca y agricultura que requiera la Entidad, en apego a las disposiciones legales aplicables.
+IV. Ejecutar y evaluar los programas para promover el empleo en el medio rural, estableciendo acciones que tiendan a incrementar la productividad y rentabilidad de sus actividades.
 
-V. Ejecutar y evaluar los programas para promover el empleo en el medio rural, estableciendo acciones que tiendan a incrementar la productividad y rentabilidad de sus actividades.
+V. Formular, dirigir y supervisar los programas y las actividades relacionados con la asistencia técnica y la capacitación para impulsar la agricultura y la ganadería.
 
-VI. Formular, dirigir y supervisar los programas y las actividades relacionados con la asistencia técnica y la capacitación para impulsar la agricultura, ganadería, pesca, apicultura y avicultura.
+VI. Proporcionar apoyo y asesoría a los sectores privado y social para la elaboración de proyectos de inversión y estudios de factibilidad que detonen el desarrollo de la ganadería y agricultura en la Entidad.
 
-VII. Proporcionar apoyo y asesoría a los sectores privado y social para la elaboración de proyectos de inversión y estudios de factibilidad que detonen el desarrollo de la ganadería, agricultura y pesca en la Entidad.
+VII. Fomentar la educación, investigación científica y programas de tecnología apropiada para el campo, la ganadería y agricultura, recopilando la información y estadísticas de cada sector, en coordinación con la Secretaría de Educación y las instituciones de enseñanza e investigación.
 
-VIII. Fomentar la educación, investigación científica y programas de tecnología apropiada para el campo, pesca y acuacultura, ganadería y agricultura, recopilando la información y estadísticas de cada sector, en coordinación con la Secretaría de Educación y las instituciones de enseñanza e investigación.
+VIII. Concertar con el sector privado, dependencias del Gobierno Federal, Estatal y Municipal, los programas de sanidad animal, vegetal, agricultura y ganadería.
 
-IX. Concertar con el sector privado, dependencias del Gobierno Federal, Estatal y Municipal, los programas de sanidad animal, vegetal, acuícola, agricultura, ganadería y pesca.
+IX. Participar con la Secretaría de Finanzas, en la determinación de criterios generales para el establecimiento de apoyos financieros, necesarios para el fomento de la producción agrícola y ganadera, de acuerdo con los programas autorizados.
 
-X. Participar con la Secretaría de Finanzas, en la determinación de criterios generales para el establecimiento de apoyos financieros, necesarios para el fomento de la producción agrícola, pesquera y ganadera, de acuerdo con los programas autorizados.
+X. Establecer los controles necesarios para garantizar la calidad de los productos para la alimentación animal y en la nutrición vegetal.
 
-XI. Establecer los controles necesarios para garantizar la calidad de los productos para la alimentación animal y en la nutrición vegetal.
+XI. Ejercer las atribuciones y funciones que en materia agropecuaria y de desarrollo rural, corresponda al Estado en términos de los acuerdos, convenios y decretos correspondientes.
 
-XII. Ejercer las atribuciones y funciones que en materia agropecuaria y de desarrollo rural, corresponda al Estado en términos de los acuerdos, convenios y decretos correspondientes.
+XII. Promover el desarrollo de la infraestructura agroindustrial y la comercialización de productos agrícolas, fomentando la exportación en coordinación con las autoridades competentes.
 
-XIII. Promover el desarrollo de la infraestructura agroindustrial y la comercialización de productos agrícolas, pecuarios y pesqueros, fomentando la exportación en coordinación con las autoridades competentes.
+XIII. Organizar y patrocinar congresos, concursos y eventos de divulgación agrícola y ganadera que promuevan el desarrollo de las actividades del sector rural.
 
-XIV. Organizar y patrocinar congresos, concursos y eventos de divulgación agrícola, pesquera y ganadera que promuevan el desarrollo de las actividades del sector rural.
+XIV. Promover las plantaciones, organizar a los productores y fomentar la industria, comercialización y financiamiento de productos agroindustriales, frutales, hortícolas y tradicionales, a través de proyectos y programas de ejecución estatal y federal que correspondan.
 
-XV. Promover las plantaciones, organizar a los productores y fomentar la industria, comercialización y financiamiento de productos agroindustriales, frutales, hortícolas y tradicionales, a través de proyectos y programas de ejecución estatal y federal que correspondan.
+XV. Promover el desarrollo regional armónico, con proyectos pertinentes que contribuyan al incremento de los ingresos de los productores al fortalecimiento de la economía del Estado, y con ello al mejoramiento de la calidad de vida familiar y comunitaria; así como la preservación y aprovechamiento del germoplasma nativo, a través de las colecciones vivas, jardines agronómicos y la promoción de cultivos tradicionales desarrollando estrategias para su viabilidad comercial.
 
-XVI. Promover el desarrollo regional armónico, con proyectos pertinentes que contribuyan al incremento de los ingresos de los productores al fortalecimiento de la economía del Estado, y con ello al mejoramiento de la calidad de vida familiar y comunitaria; así como la preservación y aprovechamiento del germoplasma nativo, a través de las colecciones vivas, jardines agronómicos y la promoción de cultivos tradicionales desarrollando estrategias para su viabilidad comercial.
+XVI. Aplicar en viveros y plantaciones las normas y tecnologías de sanidad vegetal, para alcanzar estatus fitosanitarios e inocuidad alimentaria con técnicas amigables al medio ambiente y favorables al mercado nacional e internacional; actuar como organismo certificador de viveros y almácigos en el estado, con el fin de mejorar la calidad genética y fitosanitaria de los materiales destinados a plantaciones y a la productividad hortícola, estableciendo bancos de germoplasma y proyectos de mejoramiento y validación de cultivos estratégicos, nativos y exóticos en las zonas de mayor potencial.
 
-XVII. Aplicar en viveros y plantaciones las normas y tecnologías de sanidad vegetal, para alcanzar estatus fitosanitarios e inocuidad alimentaria con técnicas amigables al medio ambiente y favorables al mercado nacional e internacional; actuar como organismo certificador de viveros y almácigos en el estado, con el fin de mejorar la calidad genética y fitosanitaria de los materiales destinados a plantaciones y a la productividad hortícola, estableciendo bancos de germoplasma y proyectos de mejoramiento y validación de cultivos estratégicos, nativos y exóticos en las zonas de mayor potencial.
+XVII. Identificar, validar y transferir las tecnologías pertinentes para desarrollar el potencial de nuestros recursos naturales a los productores, e implementar sistemas de producción intensivos, de agricultura en ambientes controlados y de plantaciones perennes, que coadyuven a disminuir la tierra, elevar la productividad y diversificar la actividad agrícola en las regiones del Estado de Chiapas.
 
-XVIII. Identificar, validar y transferir las tecnologías pertinentes para desarrollar el potencial de nuestros recursos naturales a los productores, e implementar sistemas de producción intensivos, de agricultura en ambientes controlados y de plantaciones perennes, que coadyuven a disminuir la presión a la tierra, elevar la productividad y diversificar la actividad agrícola en las regiones del Estado de Chiapas.
+XVIII. Promover, en coordinación con la Secretaría de Economía y del Trabajo, la producción y comercialización para el consumo interno de los productos agrícolas, y ganaderos; así como la industrialización y mejoramiento de la calidad en los productos finales, para competir en los mercados externos.
 
-XIX. Garantizar la conservación, preservación y el aprovechamiento de los recursos pesqueros en el Estado y fomentar su aprovechamiento sustentable, así como, promover la acuacultura en la Entidad.
+XIX. Participar en los Programas de Descentralización del Gobierno Federal en la materia, y apoyar las actividades agrícolas y ganaderas en coordinación con los gobiernos municipales.
 
-XX. Promover, en coordinación con la Secretaría de Economía y del Trabajo, la producción y comercialización para el consumo interno de los productos agrícolas, ganaderos y pesqueros; así como la industrialización y mejoramiento de la calidad en los productos finales, para competir en los mercados externos.
+XX. Proporcionar servicios de asesoría y asistencia técnica, organización y capacitación a los agricultores, ganaderos y organizaciones sociales del sector, incluidas las ejidales y comunales, que se encuentren constituidas del sector.
 
-XXI. Participar en los Programas de Descentralización del Gobierno Federal en la materia, y apoyar las actividades pesqueras en coordinación con los gobiernos municipales.
+XXI. Establecer mecanismos de coordinación y promover la participación en la actividad agrícola y ganadera de los sectores social y privado para el desarrollo del sector.
 
-XXII. Programar y promover ante la Secretaría de Infraestructura, la ejecución de proyectos y obras de infraestructura pesquera y acuacultura que determine el sector.
+XXII. Promover la investigación científica y tecnológica aplicada en los centros educativos, proyectos operativos en materia ganadera y agrícola y recopilar información y estadísticas del lugar.
 
-XXIII. Proporcionar servicios de asesoría y asistencia técnica, organización y capacitación a los pescadores, agricultores, ganaderos y organizaciones sociales del sector, incluidas las ejidales y comunales, que se encuentren constituidas del sector.
+XXIII. Gestionar la obtención de recursos económicos de organismos nacionales e internacionales para el desarrollo de proyectos productivos en materia agrícola y ganadera.
 
-XXIV. Establecer mecanismos de coordinación y promover la participación en la actividad pesquera, agrícola y ganadera de los sectores social y privado para el desarrollo del sector.
+XXIV. Coordinar la operación de los Programas de los sectores agrícolas, y ganaderos, que se implementen en apoyo a todas las regiones del Estado, como una alternativa de fomento a la productividad, la cual permita lograr un mayor índice de desarrollo humano.
 
-XXV. Promover la investigación científica y tecnológica aplicada en los centros educativos, proyectos operativos en materia pesquera, acuícola, ganadera y agrícola y recopilar información y estadísticas del lugar.
+XXV. Coordinar el funcionamiento, operación y administración de los recursos del Fideicomiso Fondo de Fomento Agropecuario del Estado de Chiapas, y coadyuvar en el cumplimiento de su objeto.
 
-XXVI. Gestionar la obtención de recursos económicos de organismos nacionales e internacionales para el desarrollo de proyectos productivos.
+XXVI. Coordinar el funcionamiento operación y administración del Centro de Mejoramiento Genético Bovino, en beneficio de los productores ganaderos del Estado.
 
-XXVII. Coordinar la operación de los Programas de los sectores agrícolas, ganaderos y pesquero, que se implementen en apoyo a todas las regiones del Estado, como una alternativa de fomento a la productividad, la cual permita lograr un mayor índice de desarrollo humano.
+XXVII. Promover el desarrollo de la infraestructura básica agropecuaria, para contribuir en la modernización y a la productividad de los sectores agrícolas y ganaderos en el Estado.
 
-XXVIII. Coordinar el Funcionamiento, operación y administración de los recursos del Fideicomiso Fondo de Fomento Agropecuario del Estado de Chiapas, y coadyuvar en el cumplimiento de su objeto.
+XXVIII. Coordinar y vigilar la regulación y movilización pecuaria, productos y subproductos, centros de establecimientos de sacrificios y corrales de acopio de las diversas especies pecuarias en la Entidad, así como la movilización de vegetales y frutas en fresco, que permitan el desarrollo sostenible y sustentable del Estado.
 
-XXIX. Los demás asuntos que le correspondan en términos de las leyes aplicables, su reglamento interior y los que determine la persona titular del Poder Ejecutivo.
+XXIX. Emitir la acreditación de los inspectores pecuarios en el Estado, para la realización de la inspección y verificación de la movilización de animales, productos y subproductos pecuarios en la Entidad.
+
+XXX. Promover la certificación y cumplimiento de las normas de calidad e inocuida (sic) del sector pecuario, productos y subproductos de origen animal, para el cumplimiento de los estándares de los mercados internacionales, nacionales y estatales.
+
+XXXI. Promover campañas de sensibilización, estrategias y prácticas pecuarias sustentables y responsables con el medio ambiente.
+
+XXXII. Formular la ejecución de un programa Estatal de Mejoramiento Genético y Reproducción Animal en concordancia con los objetivos y política Estatal y Nacional del sector Pecuario.
+
+XXXIII. Promover la creación y actualización de estándares y protocolos para la evaluación y selección de animales, para los programas de mejoramiento genético y reproducción animal, inseminación artificial, transferencia de embriones y sexado de semen en beneficio del desarrollo del sector ganadero.
+
+XXXIV. Promover la producción de alimentos y productos agroalimentarios de alta calidad, así como la investigación y desarrollo de tecnologías y prácticas agrícolas sustentables.
+
+XXXV. Los demás asuntos que le correspondan en términos de las leyes aplicables, su reglamento interior y los que determine la persona titular del Poder Ejecutivo.
 
 ###### Artículo 41.
 
@@ -1531,6 +1551,76 @@ XXII. (DEROGADA, P.O. 10 DE DICIEMBRE DE 2025)
 
 XXIII. Los demás asuntos que le correspondan en términos de las leyes aplicables, su reglamento interior y los que le instruya la persona titular del Poder Ejecutivo.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+
+###### Artículo 49.
+
+La Secretaría de Pesca y Acuacultura del Pueblo, es la dependencia de gobierno del Estado responsable de la promoción, desarrollo y fomento de la pesca y acuacultura. Le corresponde el despacho de los siguientes asuntos:
+
+I. Proponer a la persona titular del Ejecutivo del Estado las políticas de desarrollo de la pesca y acuacultura, a fin de elevar el nivel de vida de las familias que habitan en las zonas rurales, costeras y urbanas, así como promover acciones, programas y proyectos que permitan detonar dichos sectores.
+
+II. Suscribir convenios de colaboración con los gobiernos Federal, Estatal y Municipal, así como con la iniciativa privada y organismos no gubernamentales, a través del área que determine su reglamento interior, para coadyuvar en el ámbito de su competencia.
+
+III. Promover el desarrollo de las actividades pesqueras y acuícolas en las aguas marinas, costeras y las interiores de la Entidad, proponiendo, formulando y conduciendo las políticas públicas estatales correspondientes.
+
+IV. Elaborar y presentar a la persona titular del Ejecutivo del Estado los programas, proyectos y acciones en materia de pesca y acuacultura que requiera la Entidad, en apego a las disposiciones legales aplicables.
+
+V. Ejecutar y evaluar los programas y proyectos para promover el empleo en el medio rural y costero, estableciendo acciones que tiendan a incrementar la productividad y rentabilidad de sus actividades.
+
+VI. Formular, dirigir y supervisar los programas, proyectos y las actividades relacionadas con la asistencia técnica y la capacitación para impulsar la pesca y acuacultura en la Entidad.
+
+VII. Proporcionar apoyo y asesoría a los productores de los sectores privado y social, para la elaboración de proyectos de inversión y estudios de factibilidad que detonen el desarrollo de la pesca y acuacultura en la Entidad.
+
+VIII. Fomentar la educación, investigación científica y programas de tecnología apropiada para la pesca y acuacultura, recopilando la información y estadísticas de cada sector, en coordinación con la Secretaría de Educación e instituciones de enseñanza e investigación superior.
+
+IX. Concertar con el sector privado, dependencias del Gobierno Federal, Estatal y Municipal, los programas de sanidad pesquera y acuícola.
+
+X. Participar con la Secretaría de Finanzas, en la determinación de criterios generales para el establecimiento de apoyos financieros, necesarios para el fomento de la producción pesquera y acuícola, de acuerdo con los programas autorizados.
+
+XI. Coadyuvar con las autoridades competentes, en los controles necesarios para garantizar la calidad de los productos derivados de la pesca y acuacultura, para la alimentación y nutrición humana y animal en la Entidad.
+
+XII. Ejercer las atribuciones y funciones que, en materia pesquera y acuícola, corresponda al Estado, en términos de los acuerdos, convenios, decretos y normatividad en la materia.
+
+XIII. Promover en coordinación con la Secretaría de Economía y del Trabajo el desarrollo de la infraestructura industrial y la comercialización de productos derivados de la pesca y acuacultura, fomentando la exportación en coordinación con las autoridades competentes.
+
+XIV. Organizar y realizar congresos, concursos y eventos de divulgación pesquera y acuícola que promuevan el desarrollo de las actividades en el sector rural y costero de la Entidad.
+
+XV. Organizar a los productores, fomentando la industria a través de la comercialización y financiamiento de productos derivados de la pesca y acuacultura, mediante proyectos y programas de ejecución estatal y federal.
+
+XVI. Impulsar esquemas de comercialización directa y financiamiento especializado para los productores, eliminando el intermediarismo y fomentando el desarrollo de cadenas de valor que permitan el acceso a mercados nacionales.
+
+XVII. Promover la transformación e industrialización de los productos pesqueros y acuícolas, facilitando la capacitación técnica y la transferencia tecnológica para otorgar valor agregado a la producción primaria del Estado.
+
+XVIII. Promover el desarrollo regional, con proyectos pesqueros y acuícolas que contribuyan al incremento de los ingresos de los productores y al fortalecimiento de la economía del Estado; así como la preservación y aprovechamiento de especies nativas y endémicas de la Entidad.
+
+XIX. Aplicar en granjas o jaulas flotantes la tecnología de sanidad animal, para dar cumplimiento a las normas oficiales mexicanas en materia de sanidad acuícola e inocuidad alimentaria, con técnicas amigables al medio ambiente y favorable al mercado nacional e internacional.
+
+XX. Actuar como organismo certificador de granjas o jaulas flotantes en la Entidad, con el fin de mejorar la calidad genética y sanidad acuícola e inocuidad alimentaria de los materiales destinados a la productividad pesquera y acuícola, estableciendo bancos de mejoramiento genético de especies nativas y endémicas en las zonas de mayor potencial en la Entidad.
+
+XXI. Identificar, validar y transferir las tecnologías pertinentes para desarrollar el potencial de nuestros recursos naturales a los productores, e implementar unidades de producción intensivas, de pesca y acuacultura, que coadyuven a disminuir la contaminación del agua, elevar la productividad y diversificar la actividad pesquera y acuícola en la Entidad.
+
+XXII. Fomentar en los productores a través de una pesca responsable y sustentable, la conservación, preservación y el aprovechamiento de los recursos pesqueros y acuícolas en el Estado.
+
+XXIII. Participar en los Programas de Descentralización del Gobierno Federal en la materia, y apoyar las actividades pesqueras y acuícolas en coordinación con los gobiernos municipales.
+
+XXIV. Programar y promover ante la Secretaría de Infraestructura, la ejecución de proyectos y obras de infraestructura pesquera y acuícolas que determine el sector.
+
+XXV. Supervisar técnica y operativamente las obras de dragado y desazolve que se realicen en los sistemas lagunarios y estuarinos, asegurando el cumplimiento de las especificaciones hidrológicas necesarias para la actividad pesquera y acuícola.
+
+XXVI. Proporcionar servicios de asesoría y asistencia técnica, organización y capacitación a los pescadores y acuacultores, organizaciones sociales incluidas las ejidales y comunales que se encuentren constituidas al sector.
+
+XXVII. Gestionar la obtención de recursos económicos de organismos nacionales e internacionales para el desarrollo de proyectos productivos pesqueros y acuícolas en la Entidad.
+
+XXVIII. Coordinar la operación de los Programas de los sectores pesqueros y acuícolas, que se implementen en apoyo a todas las regiones del Estado, como una alternativa de fomento a la productividad, que permita lograr un mayor índice de desarrollo humano.
+
+XXIX. Coordinar con las autoridades federales y municipales las acciones de inspección y vigilancia en los cuerpos de agua de jurisdicción estatal, para combatir la pesca ilegal y asegurar el cumplimiento de las vedas y normatividad vigente.
+
+XXX. Garantizar la producción y distribución estratégica de insumos biológicos a través de los Centros Piscícolas del Estado, para fomentar la acuacultura rural, el repoblamiento de embalses y la seguridad alimentaria de las familias.
+
+XXXI. Consolidar la organización social y empresarial de las cooperativas pesqueras y acuícolas, brindando acompañamiento jurídico y administrativo para su regularización y acceso a programas de fomento público.
+
+XXXII. Los demás asuntos que le correspondan en términos de las leyes aplicables, su reglamento interior y los que determine el titular del Poder Ejecutivo del Estado.
+
 ## TRANSITORIOS
 
 Artículo Primero.- La presente Ley Orgánica de la Administración Pública del Estado de Chiapas, entrará en vigor el día 08 de diciembre del año 2024.
@@ -1698,3 +1788,19 @@ Artículo Tercero.- En tanto el Ejecutivo del Estado emite las disposiciones reg
 Artículo Cuarto.- Las atribuciones y/o referencias contenidas en otras leyes y demás normatividad aplicable, así como los recursos humanos, materiales y financieros que se refieran y estuvieran asignados a la Dirección del Registro Público de la Propiedad y del Comercio del Instituto de la Consejería Jurídica del Gobierno del Estado, serán transferidos y serán atendidos al Organismo Público Descentralizado, que para tal efecto se cree.
 
 Artículo Quinto.- Las Dependencias y Entidades de la Administración Pública Estatal, llevarán a cabo las acciones necesarias, dentro del ámbito de su competencia, para dar cumplimiento a las disposiciones del presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 177 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
+
+Artículo Tercero.- Los recursos humanos, materiales y financieros que, a la entrada en vigor del presente Decreto, tenga asignados o le correspondan a la Secretaría de Agricultura, Ganadería y Pesca, en materia de agricultura y ganadería, así como las atribuciones y/o referencias que otras leyes le asignen, serán transferidos, se entenderán conferidos y serán atendidos por la Secretaría del Campo.
+
+Los recursos humanos, materiales y financieros que, a la entrada en vigor del presente Decreto, tenga asignados o le correspondan a la Secretaría de Agricultura, Ganadería y Pesca, en materia de pesca y acuacultura, así como las atribuciones y/o referencias que otras leyes le asignen, serán transferidos, se entenderán conferidos y serán atendidos por la Secretaría de Pesca y Acuacultura del Pueblo.
+
+Artículo Cuarto.- En tanto el Poder Ejecutivo del Estado, emite las disposiciones reglamentarias y administrativas necesarias para ejecutar el presente Decreto, se seguirán aplicando, en lo que no se oponga, las disposiciones emitidas con anterioridad a la entrada en vigor del presente Decreto.
+
+Artículo Quinto.- Las Dependencias y Entidades del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones necesarias para el cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables.
