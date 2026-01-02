@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-loteria-nacional-154113"
 country: "mx"
 rank: "estatuto"
 publication_date: "2022-01-18"
-last_updated: "2025-04-28"
+last_updated: "2026-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=154113&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2021-12-24"
 
 ESTATUTO ORGÁNICO DE LOTERÍA NACIONAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ENERO DE 2026.
 
 Estatuto publicado en el Diario Oficial de la Federación, el martes 18 de enero de 2022.
 
@@ -885,9 +885,9 @@ CUARTO.- Los asuntos que al momento de la entrada en vigor del presente Estatuto
 
 QUINTO.- Los procesos, procedimientos, actos, actividades, asuntos, impugnaciones y recursos iniciados antes de la entrada en vigor del presente estatuto, por el Órgano Interno de Control en Lotería Nacional para la Asistencia Pública en proceso de desincorporación, por fusión, seguirán tramitándose hasta su conclusión por el Órgano Interno de Control en Lotería Nacional, como entidad fusionante, así mismo se continuará realizando todo lo inherente a la defensa jurídica ante las diversas instancias jurisdiccionales.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 2 DE ENERO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ENERO DE 2026)</small>
 
-SEXTO.- Todas las áreas administrativas y sustantivas de la Entidad deberán actualizar la normatividad interna, en congruencia con el presente Estatuto, a más tardar el 31 de diciembre de 2025.
+SEXTO.- Todas las áreas administrativas y sustantivas de la Entidad deberán actualizar la normatividad interna, en congruencia con el presente Estatuto, a más tardar el 31 de marzo de 2026.
 
 > <small>(REFORMADO, D.O.F. 29 DE JULIO DE 2022)</small>
 
@@ -938,3 +938,9 @@ D.O.F. 28 DE ABRIL DE 2025.
 PRIMERO. Las presentes modificaciones al Estatuto Orgánico de Lotería Nacional entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Todo lo que se contraponga a las modificaciones del presente Estatuto quedarán sin efectos.
+
+D.O.F. 2 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE APRUEBA LA MODIFICACIÓN DEL SEXTO TRANSITORIO DEL ESTATUTO ORGÁNICO DE LOTERÍA NACIONAL, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL DÍA 18 DE ENERO DE 2022”.]
+
+Único.- La presente modificación al Estatuto Orgánico de Lotería Nacional entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
