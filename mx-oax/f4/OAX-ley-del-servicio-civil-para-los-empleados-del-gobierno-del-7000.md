@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-servicio-civil-para-los-empleados-del-gobierno-del-7000
 country: "mx"
 rank: "ley"
 publication_date: "1963-12-28"
-last_updated: "2025-04-12"
+last_updated: "2026-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2026.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el 28 de diciembre de 1963.
 
@@ -189,25 +189,29 @@ ARTICULO 19 BIS.- Durante la jornada continua a que se refieren los artículos 1
 
 Por cada seis días de servicio, el empleado disfrutará de un día de descanso con goce de sueldo íntegro.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2025)</small>
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2026)</small>
 
 ###### ARTICULO 21.
 
-Las mujeres y personas gestantes disfrutarán de un descanso de treinta días anteriores y sesenta días posteriores al parto. A solicitud expresa de la trabajadora, previa autorización escrita del médico de la institución de seguridad social que le corresponda se podrá transferir hasta veinte de los treinta días de descanso previos al parto para después del mismo.
+Las personas trabajadoras sin distinción de género, tendrán derecho a una licencia parental de 4 semanas anteriores y 8 semanas posteriores al parto, intransferible y con goce íntegro de sueldo, con motivo del nacimiento. A solicitud expresa de la trabajadora, previa autorización escrita del médico de la institución de seguridad social que le corresponda se podrá transferir hasta 2 semanas de las 4 semanas de descanso previos al parto para después del mismo.
+
+Las trabajadoras que hayan padecido un aborto espontáneo, muerte fetal o perinatal, tendrán derecho a una licencia con goce de sueldo de quince días hábiles, sin considerar las semanas de gestación antes de la pérdida. En casos de embarazo de alto riesgo, el superior jerárquico de la trabajadora deberá dar prioridad a que realicen trabajo a distancia a través del uso de las tecnologías de la información y la comunicación, previa presentación del certificado médico correspondiente.
 
 Las mujeres y personas lactantes gozarán del período de lactancia hasta por el término máximo de seis meses y derecho a decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día de una hora, para alimentar a sus hijas o hijos o para realizar la extracción manual de leche, en lugar adecuado e higiénico que designe la institución o dependencia y tendrá acceso a la capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo los primeros seis meses y complementario hasta avanzado el segundo año de edad.
 
-En caso de que los hijos hayan nacido con cualquier tipo de discapacidad o requieran atención médica hospitalaria, el descanso podrá ser de hasta ocho semanas posteriores al parto, previa presentación del certificado médico correspondiente
+En caso de que los hijos hayan nacido con cualquier tipo de discapacidad o requieran atención médica hospitalaria, la licencia parental para las madres y padres trabajadores podrá ser de hasta diez semanas posteriores al parto, previa presentación del certificado médico correspondiente. Adicionalmente y siempre que la naturaleza del puesto lo permita, se le reconoce el derecho a toda persona trabajadora sin distinción de género a solicitar la implementación de horarios laborales flexibles, o, en su caso, la posibilidad de trabajar de forma remota a través del uso de las tecnologías de la información y la comunicación, con la finalidad de facilitar la atención y el cuidado de sus hijos.
 
 La otra persona progenitora gozará de un permiso de cuarenta días laborables con goce íntegro de sueldo, contados a partir del nacimiento de su hija o hijo, el cual deberá ser acreditado con documento idóneo.
 
-Las y los trabajadores al servicio del estado disfrutarán de un permiso en caso de la adopción de un infante, el cual comenzará a contarse a partir de la entrega física de la niña, niño o adolescente por parte de la institución oficialmente responsable, que deberá acreditarlo con documento idóneo y; que se aplicará en los términos siguientes:
+Las y los trabajadores al servicio del estado tendrán derecho a una licencia parental intransferible y con goce íntegro de sueldo en caso de la adopción de un infante, la cual comenzará a contarse a partir de la entrega física de la niña, niño o adolescente por parte de la Institución oficialmente responsable, que deberá acreditarlo con documento idóneo y que se aplicará en los términos siguientes:
 
-I. En el caso de que la niña o el niño adoptado tenga menos de seis meses de edad, la licencia será de cuarenta días naturales, contados a partir de la entrega de la niña o niño adoptado.
+I. La licencia será de 8 semanas posteriores a la adopción en el caso de menores de hasta 3 años.
 
-II. Cuando la niña o niño adoptado tenga entre seis y doce meses de edad, la licencia será de treinta días naturales.
+II. Para menores de hasta 12 años la licencia será de 4 semanas.
 
-Si la niña o el niño adoptado es mayor de doce meses, la licencia será de quince días naturales.
+Si la niña o el niño adoptado es mayor de doce años, la licencia será de quince días hábiles.
+
+Se reconoce el derecho a una licencia especial de hasta 30 días, con goce de sueldo, para el cuidado de hijas o hijos con discapacidad, enfermedad grave o para la atención de personas dependientes, la cual podrá prorrogarse siempre que se acredite con documento emitido por médico de la institución de seguridad social que le corresponda por el tiempo estrictamente necesario para atender la discapacidad, enfermedad o atención de la persona dependiente. Queda prohibida toda represalia laboral por el ejercicio de las licencias a que hace referencia el presente artículo.
 
 > <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
@@ -215,11 +219,13 @@ ARTICULO 21 BIS.- Se otorgará a madres y padres de familia, un permiso especial
 
 Para que este permiso sea concedido, el trabajador deberá informar al patrón cuando menos con 12 horas de anticipación, y contar con una solicitud firmada y sellada por la autoridad educativa de la institución a la que pertenezcan sus hijos, en la que se establezca el día y hora de la actividad.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2026)</small>
 
-ARTICULO 21 TER.- Se otorgará a las y los empleados un permiso con goce de sueldo de tres días hábiles, por el fallecimiento de su cónyuge, concubina o concubinario, de un familiar con quien haya tenido parentesco por consanguinidad en primer o segundo grado, o por afinidad en primer grado.
+###### ARTICULO 21 Ter.
 
-Para efectos de la (sic) anterior, el empleado deberá hacerlo del conocimiento a su superior jerárquico, por la vía que considere más oportuna, el primer día de su ausencia y deberá exhibir copia simple del documento en que conste tal suceso, en un plazo no mayor de quince días naturales a partir del primer día hábil de su reingreso.
+Se otorgará a las y los empleados un permiso con goce de sueldo de cinco días hábiles, por el fallecimiento de su cónyuge, concubina o concubinario, de un familiar con quien haya tenido parentesco por consanguinidad en primer o segundo grado, incluyendo muerte fetal o perinatal, o por afinidad en primer grado.
+
+Para efectos de la anterior, el empleado deberá hacerlo del conocimiento a su superior jerárquico, por la vía que considere más oportuna, el primer día de su ausencia y deberá exhibir copia simple del documento en que conste tal suceso, en un plazo no mayor de quince días naturales a partir del primer día hábil de su reingreso.
 
 > <small>(ADICIONADO, P.O. 30 DE MARZO DE 2024)</small>
 
@@ -1234,3 +1240,11 @@ P.O. 12 DE ABRIL DE 2025.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 864.- MEDIANTE EL CUAL REFORMAN LOS ARTÍCULOS 21 Y 21 TER DE LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
