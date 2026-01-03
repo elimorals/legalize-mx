@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-cultura-fisica-y-deporte-para-el-estado-de-oaxaca-139171
 country: "mx"
 rank: "ley"
 publication_date: "2019-10-22"
-last_updated: "2025-10-25"
+last_updated: "2026-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139171&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el martes 22 de octubre de 2019.
 
@@ -1815,19 +1815,39 @@ El Instituto, podrá asesorar en la materia, dentro del ámbito de su competenci
 
 Para efectos de esta Ley, de manera enunciativa y no limitativa, por actos o conductas violentas o que incitan a la violencia en el deporte se entienden los siguientes:
 
-I. La participación activa de deportistas, entrenadores, jueces o árbitros, espectadores, organizadores, directivos o cualquier involucrado en la celebración del evento deportivo en altercados, riñas, peleas o desórdenes públicos en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos, cuando tales conductas estén relacionadas con un evento deportivo que vaya a celebrarse, se esté celebrando o se haya celebrado;
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2026)</small>
 
-II. La exhibición en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos, de pancartas, símbolos, emblemas o leyendas que, por su contenido o por las circunstancias en las que se exhiban o utilicen de alguna forma inciten, fomenten o ayuden a la realización de comportamientos violentos, o constituyan un acto de manifiesto desprecio a las personas participantes en el evento deportivo;
+I. Las conductas ofensivas, denigrantes, desvalorizadoras, estigmatizantes, ridiculizantes o de menosprecio, de intimidación, hostigamiento o agresión física, psicológica o sexual, bajo el aspecto de disciplina, exigencia o formación del carácter con motivo de la práctica, competencia o evento deportivo, y tengan por objeto causar dolor, amenaza, molestia, humillación o menoscabar la dignidad de deportistas, jueces, árbitros, entrenadores, personal técnico o cualquier profesionista de la cultura física.
 
-III. La entonación de cánticos que inciten a la violencia o a la agresión en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos. Igualmente, aquéllos que constituyan un acto de manifiesto desprecio a las personas participantes en el evento deportivo;
+Estas conductas se configuran cuando la ejercen pares como cuando la ejercen personas en posición de autoridad o jerarquía, e incluye:
 
-IV. La irrupción no autorizada en los terrenos de juego;
+a) Tratos ofensivos o humillantes, tales como gritos, burlas o apodos degradantes.
 
-V. La emisión de declaraciones o la transmisión de informaciones, con ocasión de la próxima celebración de un evento deportivo, ya sea en los recintos deportivos, en sus aledaños o en los medios de transporte públicos en los que se pueda desplazar a los recintos deportivos, en cuya virtud se amenace o incite a la violencia o a la agresión a los participantes o asistentes a dichos encuentros, así como la contribución significativa mediante tales declaraciones a la creación de un clima hostil, antideportivo o que promueva el enfrentamiento físico entre los participantes en los eventos deportivos o entre asistentes a los mismos;
+b) Maltrato físico o psicológico, incluyendo castigos corporales, sobrecarga de entrenamiento, amenazas o negligencias.
 
-VI. La facilitación de medios técnicos, económicos, materiales o tecnológicos que den soporte a la actuación de las personas o grupos que promuevan la violencia, o que inciten, fomenten o ayuden a los comportamientos violentos, o la creación y difusión o utilización de soportes digitales utilizados para la realización de estas actividades, y
+c) Acoso deportivo o violencia psicológica ejercida de manera reiterada.
 
-VII. Las que establezca la presente Ley, su Reglamento, el Código de Conducta de cada disciplina y demás ordenamientos aplicables.
+d) Acoso u hostigamiento sexual en contextos de entrenamiento, competencia evento deportivo.
+
+e) Cualquier otra conducta que, bajo la apariencia de disciplina o entrenamiento, viole los principios de dignidad, igualdad, no discriminación y respeto en el Deporte y por esta Ley.
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2026)</small>
+
+II. A la omisión, por parte de instituciones, autoridades, directivos o responsables de espacios deportivos, de realizar las acciones necesarias para prevenir, atender, sancionar o reparar actos de violencia, cuando dicha omisión contribuya a su repetición, encubrimiento o impunidad, o perpetúe un entorno inseguro, hostil o discriminatorio para las personas involucradas en la práctica deportiva, especialmente, tratándose de niñas, niños, adolescentes, mujeres, personas con discapacidad u otros grupos en situación de vulnerabilidad.
+
+III. La participación activa de deportistas, entrenadores, jueces o árbitros, espectadores, organizadores, directivos o cualquier involucrado en la celebración del evento deportivo en altercados, riñas, peleas o desórdenes públicos en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos, cuando tales conductas estén relacionadas con un evento deportivo que vaya a celebrarse, se esté celebrando o se haya celebrado;
+
+IV. La exhibición en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos, de pancartas, símbolos, emblemas o leyendas que, por su contenido o por las circunstancias en las que se exhiban o utilicen de alguna forma inciten, fomenten o ayuden a la realización de comportamientos violentos, o constituyan un acto de manifiesto desprecio a las personas participantes en el evento deportivo;
+
+V. La entonación de cánticos que inciten a la violencia o a la agresión en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos. Igualmente, aquéllos que constituyan un acto de manifiesto desprecio a las personas participantes en el evento deportivo;
+
+VI. La irrupción no autorizada en los terrenos de juego;
+
+VII. La emisión de declaraciones o la transmisión de informaciones, con ocasión de la próxima celebración de un evento deportivo, ya sea en los recintos deportivos, en sus aledaños o en los medios de transporte públicos en los que se pueda desplazar a los recintos deportivos, en cuya virtud se amenace o incite a la violencia o a la agresión a los participantes o asistentes a dichos encuentros, así como la contribución significativa mediante tales declaraciones a la creación de un clima hostil, antideportivo o que promueva el enfrentamiento físico entre los participantes en los eventos deportivos o entre asistentes a los mismos;
+
+VIII. La facilitación de medios técnicos, económicos, materiales o tecnológicos que den soporte a la actuación de las personas o grupos que promuevan la violencia, o que inciten, fomenten o ayuden a los comportamientos violentos, o la creación y difusión o utilización de soportes digitales utilizados para la realización de estas actividades, y
+
+IX. Las que establezca la presente Ley, su Reglamento, el Código de Conducta de cada disciplina y demás ordenamientos aplicables.
 
 ###### Artículo 171.
 
@@ -2229,7 +2249,13 @@ a) Amonestación privada o pública;
 
 b) Suspensión temporal o definitiva de su inscripción al SIEDE, y
 
-c) Desconocimiento de su representatividad.
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2026)</small>
+
+c) Desconocimiento de su representatividad, y
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2026)</small>
+
+d) Suspensión temporal o definitiva del uso de instalaciones oficiales de cultura física y deporte.
 
 III. A los deportistas:
 
@@ -2237,13 +2263,23 @@ a) Amonestación privada o pública;
 
 b) Limitación, reducción o cancelación de apoyos económicos, y
 
-c) Suspensión temporal o definitiva de su inscripción al SIEDE.
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2026)</small>
 
-IV. A técnicos, árbitros y jueces:
+c) Suspensión temporal o definitiva de su inscripción al SIEDE, y
 
-a) Amonestación privada o pública, y
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2026)</small>
 
-b) Suspensión temporal o definitiva de su inscripción al SIEDE.
+d) Suspensión temporal o definitiva del uso de instalaciones oficiales de cultura física y deporte.
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 3 DE ENERO DE 2026)</small>
+
+IV. A entrenadores, técnicos, árbitros y jueces:
+
+a) Amonestación privada o pública,
+
+b) Suspensión temporal o definitiva de su inscripción al SIEDE, y
+
+c) Prohibición temporal o definitiva para ejercer funciones como entrenador, árbitro, juez, personal técnico o cualquier otro cargo relacionado con actividades deportivas, lo que implicará su baja, cancelación o inhabilitación en el Sistema Estatal del Deporte (SIEDE) y en cualquier otro registro, padrón, licencia, certificación o acreditación oficial a nivel estatal que permita el ejercicio de dichas funciones.
 
 V. A los aficionados, asistentes o espectadores en general, sin perjuicio de las sanciones penales, civiles o de cualquier naturaleza que pudieran generarse y considerando la gravedad de la conducta y en su caso, la reincidencia:
 
@@ -2254,6 +2290,10 @@ b) Amonestación privada o pública;
 c) Multa de 5 a 90 Unidades de Medida y Actualización vigente que corresponda al momento de cometer la infracción, y
 
 d) Suspensión de uno a cinco años del acceso a eventos deportivos masivos o con fines de espectáculo.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2026)</small>
+
+Lo previsto en este articulo no exime de las responsabilidades y sanciones administrativas, penales y civiles a que haya lugar, conforme a la normatividad aplicable.
 
 ###### Artículo 221.
 
@@ -2404,6 +2444,14 @@ SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su
 P.O. 25 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 813.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 6 DE LA LEY DE CULTURA FÍSICA Y EL DEPORTE PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 850.- MEDIANTE EL CUAL REFORMA EL INCISO C) DE LA FRACCIÓN II, EL INCISO C) DE LA FRACCIÓN III, Y LA FRACCIÓN IV DEL ARTÍCULO 220; Y SE ADICIONAN LAS FRACCIONES I Y II AL ARTÍCULO 70 RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES; EL INCISO D) A LA FRACCIÓN II, EL INCISO D) A LA FRACCIÓN III Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 220, DE LA LEY ESTATAL DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE OAXACA".]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
