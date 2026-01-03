@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-prevencion-y-gestion-integral-de-los-residuos-72604
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-18"
-last_updated: "2025-10-25"
+last_updated: "2026-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2026.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Oaxaca, el sábado 18 de julio de 2009.
 
@@ -848,6 +848,10 @@ Todo generador de residuos sólidos urbanos debe separarlos en orgánicos e inor
 Los residuos sólidos urbanos deben depositarse en contenedores separados para su recolección por el servicio público de limpia, con el fin de facilitar su aprovechamiento, tratamiento y disposición final, o bien, llevar aquellos residuos valorizables directamente a los centros de acopio o establecimientos de reutilización y reciclado.
 
 Los Ayuntamientos definirán en las disposiciones que emitan, la subclasificación que deba aplicarse para la separación obligatoria de residuos sólidos urbanos, con base en las disposiciones del presente artículo para cada una de las clasificaciones establecidas, así como para los distintos tipos de generadores.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2026)</small>
+
+En los establecimientos dedicados a la venta o distribución al público de pilas y baterías que no sean consideradas como residuos peligrosos en términos de lo dispuesto por la Ley General, se procurará disponer, como mínimo, de un contenedor destinado para el depósito de dichos residuos, y darán aviso al Organismo Operador Encargado de la Gestión y Manejo Integral de los Residuos Sólidos Urbanos y de Manejo Especial del Estado de Oaxaca, para la difusión hacia la ciudadanía de los puntos de recolección disponibles para el acopio de este tipo de residuos.
 
 > <small>(REFORMADO, P.O. 22 DE ABRIL DE 2023)</small>
 
@@ -1762,6 +1766,14 @@ SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 P.O. 25 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 825.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 227 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA; Y SE REFORMAN LOS ARTÍCULOS 100, 101 Y 102, EL PRIMER PÁRRAFO Y LA FRACCIÓN V, DEL ARTÍCULO 103, LOS ARTÍCULOS 104 Y 105, LA FRACCIÓN IV, DEL ARTÍCULO 107, EL PRIMER Y SEGUNDO PÁRRAFO DEL ARTÍCULO 103 (SIC), LOS ARTÍCULOS 104 Y 105, LA FRACCIÓN IV DEL ARTÍCULO 107 (SIC), EL PRIMER PÁRRAFO, EL INCISO A) DE LA FRACCIÓN V, Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 108, EL PRIMER PÁRRAFO DEL ARTÍCULO 109, LOS ARTÍCULOS 110, 111 Y 112, LA FRACCIÓN II DEL ARTÍCULO 113, EL ARTÍCULO 114, EL PRIMER Y SEGUNDO PÁRRAFO (SIC) ARTÍCULO 115, Y EL ARTÍCULO 117; Y SE ADICIONA LA FRACCIÓN LV DEL ARTÍCULO 5º, TODOS DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 859.- MEDIANTE EL CUAL ADICIONA EL TERCER PÁRRAFO AL ARTÍCULO 44 DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
