@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2025-12-31"
+last_updated: "2026-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2026.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -193,7 +193,11 @@ I.- Que el Ayuntamiento lo solicite por escrito al Congreso;
 
 II.- Que exista declaración del Ayuntamiento de que se trate, con el voto de los dos tercios de sus integrantes y que así obre en sesión de cabildo; y
 
-III.- Que el Congreso declare el cambio de denominación por satisfacerse los requisitos de ley.
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2026)</small>
+
+III.- Tratándose de Municipios que se rigen por sistemas normativos internos, el cambio de denominación o categoría de un centro de población, deberá ser aprobado por el voto favorable de las dos terceras partes de la asamblea general comunitaria, debiendo asentarse en el acta correspondiente; y
+
+IV.- Que el Congreso declare el cambio de denominación por satisfacerse los requisitos de ley.
 
 ###### ARTÍCULO 20.
 
@@ -569,9 +573,15 @@ IX. Solicitar al Ejecutivo del Estado la expropiación de bienes por causa de ut
 
 X. Resolver con la aprobación del Congreso en los términos convenientes para la comunidad, los casos de concesión de servicios públicos de su competencia, con excepción de los de seguridad pública y tránsito;
 
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2026)</small>
+
 XI. Convenir o contratar la ejecución y operación de obras con el Estado, con otros Municipios de la entidad o con particulares, de acuerdo con las leyes aplicables.
 
-Serán nulas de pleno derecho los contratos de obras y las concesiones de servicios públicos otorgadas a miembros del Ayuntamiento, funcionarios y empleados municipales, a sus cónyuges, parientes consanguíneos, afines o civiles hasta el cuarto grado, y con las sociedades o asociaciones de las cuales forme parte o tengan su representación;
+Serán nulas de pleno derecho los contratos de obras y las concesiones de servicios públicos otorgadas a miembros del Ayuntamiento, funcionarios y empleados municipales, a sus cónyuges, parientes consanguíneos, afines o civiles hasta el cuarto grado, y con las sociedades o asociaciones de las cuales forme parte o tengan su representación, y
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2026)</small>
+
+XII. Procurar la contratación de al menos el 50% de mano de obra de la localidad, por cada obra a ejecutarse correspondiente a la modalidad de Administración Directa de la Ley de Obras Públicas y Servicios Relacionados del Estado de Oaxaca, conforme a la normativa vigente y los lineamientos establecidos.
 
 D. En materia de hacienda pública y administración
 
@@ -777,9 +787,21 @@ Los Consejos Municipales para la Atención de las Personas con Discapacidad, ser
 
 XII. Crear, promover e implementar acciones afirmativas para garantizar los derechos humanos de las personas o grupos en situación de discriminación vulnerabilidad, en términos de lo dispuesto por el artículo 23 de la Ley para Atender, Prevenir y Eliminar la Discriminación en el Estado de Oaxaca y otras leyes aplicables en la materia.
 
-> <small>[N. DE E. PERTENECE AL ARTÍCULO, P.O. 30 DE SEPTIEMBRE DE 2023]</small>
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 3 DE ENERO DE 2026)</small>
 
-Además de las atribuciones establecidas en este artículo, los Ayuntamiento tendrá todas aquellas que les confieran los demás ordenamientos jurídicos aplicables y reglamentos municipales.
+K. En materia de Atención de los derechos de las personas Migrantes y sus Familias
+
+I. Los Ayuntamientos podrán establecer la Comisión de Atención al Migrante y sus Familias, de conformidad con lo dispuesto en el Capítulo Cuarto del Título Quinto de la Ley para el Bienestar y Atención de los Derechos de las Personas Migrantes y sus Familias para el Estado de Oaxaca.
+
+II. Los Ayuntamientos elaborarán y aplicarán los programas y acciones planteados en sus Planes Municipales de Desarrollo en materia de atención a los migrantes y sus familias. Las Autoridades auxiliares y del Ayuntamiento Municipal deberán generar nuevos mecanismos de participación y colaboración de la ciudadanía migrante y sus familias que permita la cohesión con sus comunidades y evitar la exclusión.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN II, P.O. 3 DE ENERO DE 2026]</small>
+
+Los Ayuntamientos Municipales a través de los enlaces municipales, tendrán las atribuciones estipuladas en el artículo 41 de la Ley para el Bienestar y Atención de los Derechos de las Personas Migrantes y sus Familias para el Estado de Oaxaca.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2026)</small>
+
+Además de las atribuciones establecidas en este artículo, los Ayuntamientos tendrán todas aquellas que les confieran los demás ordenamientos jurídicos aplicables y reglamentos municipales.
 
 ###### ARTÍCULO 44.
 
@@ -4938,3 +4960,27 @@ PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su
 SEGUNDO. Comuníquese el presente Decreto a las instancias correspondientes para los efectos legales a que haya lugar.
 
 TERCERO. Las menciones, atribuciones o funciones contenidas en Bandos de Policía y Gobierno, reglamentos y, en general, en cualquier disposición normativa en materia de transparencia, acceso a la información pública y protección de datos personales, respecto al Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, se entenderán hechas o conferidas a los entes públicos que adquieren tales atribuciones o funciones, según corresponda.
+
+P.O. 3 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 851.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XI Y SE ADICIONA LA FRACCIÓN XII AL APARTADO C DEL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 852.- MEDIANTE EL CUAL ADICIONA EL APARTADO K Y SE RECORRE EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 911.- MEDIANTE EL CUAL ADICIONA UNA FRACCIÓN III Y SE RECORREN LAS SUBSECUENTES DEL ARTÍCULO 19 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
