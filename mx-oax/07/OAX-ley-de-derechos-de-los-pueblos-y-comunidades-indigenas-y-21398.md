@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-derechos-de-los-pueblos-y-comunidades-indigenas-y-21398"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-19"
-last_updated: "2025-04-26"
+last_updated: "2026-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21398&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 26 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 3 DE ENERO DE 2026.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 19 de junio de 1998.
 
@@ -385,7 +385,9 @@ a) Tratándose de controversias en las cuales ambas partes sean indígenas o afr
 
 Cuando el conflicto de que se trate involucre como partes a indígenas o afromexicano y no indígenas, el infractor, tratándose de asunto penal, o el demandante si el asunto es de materia diversa a la penal, podrá elegir a la autoridad a la que someterá la controversia.
 
-b) Que la materia de las controversias verse sobre: delitos que estén sancionados en el Código Penal del Estado de Oaxaca, con pena económica o corporal que no exceda de dos años de prisión, en éstos casos las autoridades comunitarias actuarán, a través de sus órganos competentes, como auxiliares del Ministerio Público o del Poder Judicial; tenencia individual de la tierra en la comunidad de referencia, faltas administrativas y de policía; atentados contra de las formas de organización, cultura, servicios comunitarios, trabajos y obras públicas; cuestiones del trato civil y familiar; incumplimiento del deber de las madres y padres de familia consistente en enviar a sus hijos e hijas a la escuela; y en general, todos aquellos casos en los que los ascendientes o los esposos y esposas no se conduzcan como buenos padres y madres de familia.
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2026)</small>
+
+b) Que la materia de las controversias verse sobre: delitos que estén sancionados en el Código Penal del Estado de Oaxaca, y que se respeten los principios de legalidad, derechos humanos, debido proceso; y de manera relevante los derechos de las mujeres, niñas, niños y adolescentes.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE DICIEMBRE DE 2021)</small>
 
@@ -754,3 +756,13 @@ P.O. 26 DE ABRIL DE 2025.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación n (sic) el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 857.- MEDIANTE EL CUAL REFORMA EL INCISO B) DE LA FRACCIÓN I DEL ARTÍCULO 38 DE LA LEY DE DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
