@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-turismo-del-estado-de-oaxaca-117870"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-12"
-last_updated: "2025-11-08"
+last_updated: "2026-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TURISMO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2026.
 
 Ley publicada en la Séptima Sección del Periódico Oficial Gobierno del Estado de Oaxaca, el sábado 12 de noviembre de 2016.
 
@@ -731,11 +731,63 @@ La Secretaría dará acompañamiento permanente a las Comunidades que aspiren a 
 
 La Secretaría en coordinación con las instancias estatales competentes y en coordinación con los Ayuntamientos establecerán acciones tendientes a la construcción y mejoramiento de infraestructura y servicios que incidan en una mejor calidad de atención al turista.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE ENERO DE 2026)</small>
+
+## TÍTULO QUINTO. DEL TURISMO ECOLÓGICO O ECOTURISMO
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2026)</small>
+
+###### Artículo 31 Bis.
+
+Además de lo establecido en el artículo 5 fracción IX de la presente Ley, el Turismo Ecológico o Ecoturismo cuenta con las siguientes características:
+
+a. Es un turismo basado en la naturaleza donde la motivación principal de los turistas es la observación y apreciación de esa naturaleza.
+
+b. Incluye elementos educacionales, paisajísticos y de interpretación ambiental.
+
+c. Procura reducir al máximo los impactos negativos sobre el entorno natural y sociocultural contribuyendo a la protección de los atractivos Ecoturísticos.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2026)</small>
+
+###### Artículo 31 Ter.
+
+En el desarrollo del ecoturismo, la Secretaría de Turismo deberá implementar acciones que:
+
+a. Minimicen el impacto negativo en el ambiente y en las comunidades locales.
+
+b. Promuevan la participación activa y equitativa de las comunidades en la gestión, planificación y beneficio de las actividades ecoturísticas.
+
+c. Fomenten la educación ambiental y el uso responsable de los recursos naturales.
+
+d. Garanticen que los beneficios económicos, sociales y culturales se distribuyan de manera justa entre las comunidades anfitrionas.
+
+e. Aseguren la conservación de la biodiversidad y el patrimonio cultural en las áreas de influencia.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2026)</small>
+
+###### Artículo 31 Quáter.
+
+Se consideran actividades ecoturísticas aquellas que, de manera responsable, permiten la interacción con la naturaleza y la cultura local, incluyendo, entre otras: caminatas, ciclismo de montaña, rappel, tirolesa, cabalgata, observación de flora y fauna, campismo y experiencias culturales o gastronómicas.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2026)</small>
+
+###### Artículo 31 Quinquies.
+
+Las comunidades deberán ser consultadas y participar activamente en la planificación, ejecución y seguimiento de las actividades ecoturísticas, asegurando que los beneficios derivados del ecoturismo contribuyan al desarrollo integral, al bienestar social y a la conservación del patrimonio natural y cultural.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2026)</small>
+
+###### Artículo 31 Sexies.
+
+El Estado podrá otorgar incentivos, apoyos y reconocimientos a prestadores de servicios y comunidades que desarrollen prácticas de ecoturismo sustentable, garantizando la conservación de los recursos naturales y culturales y el fortalecimiento del bienestar comunitario.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2026)</small>
+
+###### Artículo 31 Septies.
+
+La Secretaría de Turismo, en coordinación con las autoridades ambientales y demás instancias competentes, promoverá la planificación, supervisión y seguimiento de las actividades ecoturísticas, asegurando su desarrollo sostenible, la protección del medio ambiente, la calidad de los servicios ofrecidos y el cumplimiento de los principios de sostenibilidad, equidad e integridad ecológica.
+
 ## TÍTULO SEXTO
-
-## TÍTULO SÉPTIMO
-
-DE LA PROMOCIÓN, DIFUSIÓN Y CAPACITACIÓN TURÍSTICA.
 
 ### CAPÍTULO ÚNICO. DE LAS ZONAS DE DESARROLLO TURÍSTICO SUSTENTABLE
 
@@ -763,7 +815,9 @@ El Ejecutivo del Estado y los ayuntamientos podrán presentar ante la Secretarí
 
 En el Reglamento de la presente Ley, se establecerán los lineamientos de coordinación, para que el Ejecutivo del Estado y los Ayuntamientos conjuntamente realicen la solicitud señalada en el artículo anterior.
 
-## TÍTULO OCTAVO. DE LOS ASPECTOS OPERATIVOS
+## TÍTULO SÉPTIMO
+
+DE LA PROMOCIÓN, DIFUSIÓN Y CAPACITACIÓN TURÍSTICA.
 
 ### CAPÍTULO I
 
@@ -851,7 +905,7 @@ La Secretaría propondrá al Titular del Ejecutivo del Estado programas de capac
 
 Asimismo, la Secretaría en coordinación con instancias estatales competentes establecerá programas permanentes de capacitación dirigidos a los trabajadores del sector turístico, con inclusión de las personas con discapacidad.
 
-## TÍTULO NOVENO. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS Y DE LOS TURISTAS
+## TÍTULO OCTAVO. DE LOS ASPECTOS OPERATIVOS
 
 ### CAPÍTULO ÚNICO. DEL REGISTRO NACIONAL DE TURISMO
 
@@ -889,9 +943,7 @@ El Sistema Integral de Información Turística contará con las normas de calida
 
 El Sistema Integral de Información Turística operará con la información que proporcione la Subsecretaría de Desarrollo Turístico y la Subsecretaría de Operación Turística, con instituciones del sector privado, instituciones del sector educativo, instituciones, entidades federales, estatales, municipales y con instituciones relacionadas con el turismo en el Estado.
 
-## TÍTULO DÉCIMO
-
-DE LA COMPETIVIDAD (SIC) Y PROFESIONALIZACIÓN EN LA ACTIVIDAD TURÍSTICA Y DE LOS TRABAJADORES TURÍSTICOS.
+## TÍTULO NOVENO. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS Y DE LOS TURISTAS
 
 ### CAPÍTULO I. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
@@ -957,9 +1009,9 @@ VII. Expedir, factura detallada, nota de consumo o documento fiscal que ampare l
 
 VIII. Profesionalizar a sus trabajadores y empleados, en los términos de las Leyes respectivas, en coordinación con la Secretaría;
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2026)</small>
 
-IX. capacitar permanentemente a sus empleados con perspectiva de género, en derechos humanos y no discriminación;
+IX. Capacitar permanentemente a sus empleados con perspectiva de género, interés superior de la niñez, en derechos humanos y no discriminación;
 
 X. Disponer de lo necesario para que los inmuebles, edificaciones y servicios turísticos incluyan las especificaciones que permitan la accesibilidad a toda persona de cualquier condición;
 
@@ -1001,19 +1053,27 @@ XXV. Capacitar a sus empleados para prestar primeros auxilios, y;
 
 XXVI. Las demás que establezca la legislación aplicable en la materia.
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ENERO DE 2026)</small>
 
 ###### Artículo 54 Bis.
 
-Todos los prestadores de servicios que brinden el servicio turístico de hospedaje y estancia temporal, además de las obligaciones establecidas en la presente ley, deberán implementar medidas de seguridad para la protección de niñas, niños y adolescentes, previa prestación del servicio dentro de su ámbito de aplicación y de las diversas acciones en beneficio de lo citado; como las siguiente (sic):
+Todos los prestadores de servicios que brinden el servicio turístico de hospedaje y estancia temporal, además de las obligaciones establecidas en la presente ley, deberán implementar los protocolos, las acciones preventivas y las medidas de seguridad definidas por las autoridades competentes, para la protección de niñas, niños y adolescentes conforme al interés superior de la niñez. Para ese fin se observarán como mínimo las siguientes acciones:
 
-I. Incorporarse al Código Nacional para la Protección de las Niñas, Niños y Adolescentes en el sector de viajes y turismo, como requisito indispensable para acceder a apoyos y estímulos gubernamentales.
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2026)</small>
+
+I. Incorporarse al Código de Conducta Nacional para la Protección de Niñas, Niños y Adolescentes en el Sector de los Viajes y el Turismo, como requisito indispensable para acceder a apoyos y estímulos gubernamentales;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
 
 II. Solicitar la exhibición de credencial de elector o de cualquier otro documento oficial que demuestre la mayoría de edad;
 
-III. Autorizar el ingreso de niñas, niños y adolescentes a las habitaciones o inmuebles de uso habitacional destinado a la prestación del servicio de hospedaje o estancia turística eventual, exclusivamente en compañía de quien acredite mediante documento idóneo tener parentesco, o ser quien ejerza la patria potestad, tutela o guarda y custodia; y
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2026)</small>
 
-IV. Notificar a las autoridades correspondientes inmediatamente, en caso de advertir la posible comisión de un delito.
+III. Autorizar el ingreso de niñas, niños y adolescentes a las habitaciones o inmuebles de uso habitacional destinado a la prestación del servicio de hospedaje o estancia turística eventual, exclusivamente en compañía de quien acredite mediante documento idóneo tener parentesco, o ser quien ejerza la patria potestad, tutela o guarda y custodia;
+
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2026)</small>
+
+IV. Informar inmediatamente a las policías y el Ministerio Público, sobre la posible comisión de algún delito en perjuicio de niñas, niños y adolescentes a fin de salvaguardar su vida, integridad o algún otro bien jurídico tutelado.
 
 > <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2025)</small>
 
@@ -1203,7 +1263,9 @@ VI. En caso de hacer uso de los servicios de hospedaje en compañía de niñas, 
 
 VII. En caso de que las niñas, niños o adolescentes, vayan acompañados por persona distinta a un familiar, por tratarse de un viaje escolar o deportivo, el adulto que los acompañe deberá acreditar por cualquier medio idóneo, que cuenta con la autorización para realizar dicho viaje.
 
-## TÍTULO DÉCIMO PRIMERO
+## TÍTULO DÉCIMO
+
+DE LA COMPETIVIDAD (SIC) Y PROFESIONALIZACIÓN EN LA ACTIVIDAD TURÍSTICA Y DE LOS TRABAJADORES TURÍSTICOS.
 
 ### CAPÍTULO PRIMERO. DE LA COMPETITIVIDAD Y PROFESIONALIZACIÓN EN LA ACTIVIDAD TURÍSTICA
 
@@ -1269,7 +1331,7 @@ La Secretaría emitirá reconocimientos por la calidad en la prestación de serv
 
 La Secretaría contará con el padrón de empleados y trabajadores a los que se les haya reconocido en los términos del artículo anterior, el cual deberá de publicarse al menos en un periódico de mayor circulación en el Estado, así como en los medios de difusión y comunicación de los que disponga la Secretaría.
 
-## TÍTULO DÉCIMO SEGUNDO. DE LA PROTECCIÓN AL TURISTA
+## TÍTULO DÉCIMO PRIMERO
 
 ### CAPÍTULO ÚNICO. DE LA SITUACIÓN DE EMERGENCIA Y DESASTRE
 
@@ -1294,6 +1356,8 @@ I. Contar con las medidas preventivas de seguridad como son: salidas de emergenc
 II. Aplicar los protocolos de higiene y las medidas de limpieza y saneamiento de lugares públicos, edificios, vehículos y objetos entre ellas: descontaminación, desinfección, desinsectación y fumigación, y;
 
 III. Cooperar estrechamente con los tres ámbitos de Gobierno, proporcionando la información requerida, aplicando las medidas adecuadas para evitar brotes y la propagación de enfermedades transmisibles.
+
+## TÍTULO DÉCIMO SEGUNDO. DE LA PROTECCIÓN AL TURISTA
 
 ### CAPÍTULO I. DE LA PROTECCIÓN Y ORIENTACIÓN AL TURISTA
 
@@ -1638,3 +1702,19 @@ P.O. 8 DE NOVIEMBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. (SIC)
+
+P.O. 3 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 865.- MEDIANTE EL CUAL ADICIONA EL TÍTULO QUINTO A LA LEY DE TURISMO DEL ESTADO DE OAXACA, CON LOS ARTÍCULOS 31 BIS, 31 TER, 31 QUATER, 31 QUINQUIES, 31 SEXIES Y 31 SEPTIES".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 866.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN IX DEL ARTÍCULO 54, EL PÁRRAFO PRIMERO Y LAS FRACCIONES I, III Y IV, DEL ARTÍCULO 54 BIS DE LA LEY DE TURISMO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
