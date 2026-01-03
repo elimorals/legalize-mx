@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-cambio-climatico-para-el-estado-de-oaxaca-96829"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-28"
-last_updated: "2025-08-30"
+last_updated: "2026-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96829&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2026.
 
 Ley publicada en el Extra del Periódico oficial del Estado de Oaxaca, el jueves 28 de noviembre de 2013.
 
@@ -841,6 +841,10 @@ XI.- Se identificarán y atenderán las necesidades presupuestales de las medida
 
 XII.- Se hará monitoreo, reporte y verificación de las acciones de mitigación emprendidas.
 
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2026)</small>
+
+XIII.- En materia de construcción, se fomentará la implementación de techos y paredes verdes.
+
 ### CAPÍTULO IX. DEL FONDO ESTATAL PARA EL CAMBIO CLIMÁTICO
 
 ###### Artículo 54.
@@ -1214,6 +1218,14 @@ SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 P.O. 30 DE AGOSTO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 721.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN I DEL ARTÍCULO 71 DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 858.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 53 DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE OAXACA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
