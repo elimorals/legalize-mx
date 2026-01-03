@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-para-1331
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-10"
-last_updated: "2025-10-25"
+last_updated: "2026-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2026.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 10 de noviembre de 2018.
 
@@ -343,6 +343,14 @@ XLIII. La atención de los demás asuntos que, en materia de preservación del e
 
 XLIV. Promover y proponer a las dependencias y entidades de la administración pública estatal y municipal en el ámbito de sus competencias, para que, en sus procesos de adquisiciones, contratación y arrendamiento, adquieran preferentemente productos compuestos total o parcialmente de residuos valorizables o materias primas secundarias, así como aquellos que utilicen energías limpias, de conformidad con la Ley Estatal de Economía Circular.
 
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2026)</small>
+
+XLV. Difundir información para concientizar a la población acerca de los efectos contaminantes de las emisiones causadas por el uso de fuegos pirotécnicos, cohetes o cualquier otro artificio de pólvora;
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2026)</small>
+
+XLVI. Las demás atribuciones que le otorguen la presente Ley y otros ordenamientos aplicables en la materia.
+
 ###### Artículo 7.
 
 Corresponden a los municipios del Estado de Oaxaca, con el concurso, según el caso, del Gobierno del Estado, dentro de sus respectivas jurisdicciones, las siguientes facultades:
@@ -403,9 +411,13 @@ XXV. El establecimiento de las medidas necesarias para imponer las sanciones cor
 
 XXVI. Arborizar y promover entre los particulares campañas para mencionado fin, en las áreas urbanas de su competencia que carezcan de árboles suficientes para el adecuado equilibrio ecológico de las mismas, conforme a los estudios pertinentes; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2026)</small>
 
-XXVII. La atención de los demás asuntos que, en materia de aprovechamiento sustentable de recursos naturales, preservación del equilibrio ecológico y protección al ambiente les conceda la Ley General del Equilibrio Ecológico y la Protección al Ambiente, ésta Ley u otros ordenamientos en concordancia con ellas y que no estén otorgados expresamente a la Federación o a los Estados.
+XXVII. Difundir información para concientizar a la población acerca de los efectos contaminantes de las emisiones causadas por el uso de fuegos pirotécnicos, cohetes o cualquier otro artificio de pólvora;
+
+> <small>(REFORMADA, P.O. P.O. 3 DE ENERO DE 2026)</small>
+
+XXVIII. La atención de los demás asuntos que, en materia de aprovechamiento sustentable de recursos naturales, preservación del equilibrio ecológico y protección al ambiente les conceda la Ley General del Equilibrio Ecológico y la Protección al Ambiente, éste (sic) Ley u otros ordenamientos en concordancia con ellas y que no estén otorgados expresamente a la Federación o a los Estados.
 
 ###### Artículo 8.
 
@@ -2513,6 +2525,10 @@ La detonación de fuegos pirotécnicos, cohetes o cualquier otro artificio de p�
 
 Cuando se trae de eventos desarrollados por los municipios de acuerdo a sus costumbres o tradiciones, llámese calendas o las fiestas patronales, éstos determinarán el horario para la detonación de fuegos pirotécnicos, cohetes o cualquier otro artificio de pólvora, con la observancia de la protección al ambiente y a la salud, por las emisiones de ruido como a la atmosfera generadas por dicha actividad.
 
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2026)</small>
+
+En caso de existir una declaratoria oficial de contingencia ambiental, emergencia o de riesgo en materia de protección civil, los municipios podrán restringir las autorizaciones, licencias o permisos a que se refiere este artículo, según corresponda.
+
 ###### Artículo 189.
 
 En las obras y trabajos de construcción, modificación, reparación o derribo de edificios, así como, las que se realicen en la vía pública, deberán adoptar las medidas oportunas para evitar que los ruidos emitidos no excedan de los niveles acústicos fijados para la respectiva zona, así mismo, la autoridad competente establecerá el horario al que estarán sujetas dichas actividades, de manera que el ruido que produzcan no afecten a terceros.
@@ -3426,3 +3442,11 @@ P.O. 25 DE OCTUBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 860.- MEDIANTE EL CUAL SE ADICIONAN LAS FRACCIONES XLV Y XLVI AL ARTÍCULO 6; LA FRACCIÓN XXVII AL ARTÍCULO 7, RECORRIÉNDOSE LA SUBSECUENTE; Y, EL TERCER PÁRRAFO AL ARTÍCULO 188 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
