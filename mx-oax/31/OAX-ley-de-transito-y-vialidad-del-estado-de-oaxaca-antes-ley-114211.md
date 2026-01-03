@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transito-y-vialidad-del-estado-de-oaxaca-antes-ley-11421
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-11"
-last_updated: "2025-09-20"
+last_updated: "2026-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2026.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 11 de abril de 2016.
 
@@ -1349,6 +1349,14 @@ En caso de fuga del infractor, se aumentará en una mitad el monto máximo de la
 
 En los casos en que se infrinjan las fracciones III, IV, V, VI, VII y VIII del artículo 94 de esta Ley, se aumentará en una mitad el monto máximo de la multa.
 
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2026)</small>
+
+Cuando un servidor público o funcionario público, valiéndose de su cargo o nombramiento, intente evadir un operativo de detección del alcohol, se aumentará en una mitad el monto máximo de la multa correspondiente, sin perjuicio de las demás responsabilidades administrativas o penales que pudieran derivarse de su conducta.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2026)</small>
+
+Cuando cualquier persona recurra al tráfico de influencias o actúe de manera prepotente para evadir un operativo de detección del alcohol, se aumentará en una mitad el monto máximo de la multa correspondiente, sin perjuicio de las demás responsabilidades administrativas o penales que pudieran derivarse de su conducta.
+
 ###### Artículo 93.
 
 Las violaciones a las disposiciones de esta Ley y su Reglamento, se sancionarán con:
@@ -1744,3 +1752,11 @@ PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 SEGUNDO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Notifíquese el presente Decreto a las instancias pertinentes, para los efectos legales correspondientes.
+
+P.O. 3 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 861.- MEDIANTE EL CUAL ADICIONA UN PENÚLTIMO Y ÚLTIMO PÁRRAFO AL ARTÍCULO 92 DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
