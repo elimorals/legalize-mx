@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-instituciones-y-procedimientos-electorales-del-122750"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2024-09-14"
+last_updated: "2026-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2026.
 
 Ley publicada en la Segunda Sección al Número 22 del Periódico Oficial del Estado de Oaxaca, el sábado 3 de junio de 2017.
 
@@ -3062,6 +3062,10 @@ b) El Instituto Estatal, por conducto de la Secretaría Ejecutiva, hará públic
 Artículo 155
 
 1.- El Consejo General organizará al menos dos debates entre los candidatos a Gobernador, y promoverá la celebración de debates entre candidatos a diputados locales e integrantes de los ayuntamientos. Las señales radiodifundidas que el Instituto Estatal genere para este fin podrán ser utilizadas, en vivo y en forma gratuita, por los demás concesionarios de radio y televisión, así como por otros concesionarios de telecomunicaciones.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2026)</small>
+
+Para garantizar el acceso a la información de las personas con discapacidad auditiva en los debates a que se refiere el párrafo anterior, el Consejo General, procurará contar con intérprete de lengua de señas mexicanas.
 
 2.- Los debates de los candidatos a Gobernador deberán ser transmitidos por las estaciones de radio y televisión de las concesionarias locales de uso público del Estado de Oaxaca. El Instituto Estatal promoverá la transmisión de los debates por parte de otros concesionarios de radiodifusión con cobertura en la entidad y de telecomunicaciones.
 
@@ -6386,3 +6390,11 @@ P.O. 14 DE SEPTIEMBRE DE 2024.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 849.- MEDIANTE EL CUAL ADICIONA EL SEGUNDO PÁRRAFO AL NUMERAL 1 DEL ARTÍCULO 155 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria del Honorable Congreso del Estado Libre y Soberano de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
