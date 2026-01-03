@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2025-08-09"
+last_updated: "2026-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -1030,6 +1030,10 @@ VI.- Acciones de equipamiento y áreas especializadas para la atención materno-
 > <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2024)</small>
 
 VII.- Para impulsar y fomentar la capacitación y sensibilización continua al personal de salud que presta servicios en la atención gineco-obstétrica para evitar prejuicios basados en la discriminación de las mujeres y brindarles información sobre sus derechos relacionados con el embarazo, el parto y el puerperio.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2026)</small>
+
+ARTICULO 59 BIS.- Los establecimientos de servicio público y privado, procurarán incorporar cambiadores de pañales en sus instalaciones; con la finalidad de garantizar seguridad, comodidad e higiene para el aseo de las niñas y niños de los 0 meses a 2 años de edad.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -4620,3 +4624,11 @@ P.O. 9 DE AGOSTO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 863.- MEDIANTE EL CUAL ADICIONA EL ARTÍCULO 59 BIS A LA LEY ESTATAL DE SALUD".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
