@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-atencion-y-proteccion-a-personas-con-la-117223"
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-30"
-last_updated: "2025-02-10"
+last_updated: "2026-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2026.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 30 de septiembre de 2016.
 
@@ -295,7 +295,9 @@ El titular de la Secretaría de Salud recabará opiniones especializadas, inclui
 
 La Secretaría coordinará a los organismos y órganos del sector salud, a fin de que se instrumenten y ejecuten las siguientes acciones:
 
-I. Realizar campañas de información sobre las características propias de la condición del espectro autista, a fin de crear conciencia al respecto en la sociedad, y se garantice la integración de las personas con trastorno del espectro autista;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2026)</small>
+
+I. Realizar campañas de información en medios de comunicación tradicionales y digitales sobre las características propias de la condición del espectro autista, para su detección, canalización y atención temprana a fin de crear conciencia al respecto en la sociedad, y se garantice la integración de las personas con trastorno del espectro autista;
 
 II. Realizar, conforme a sus atribuciones y capacidades, estudios e investigaciones clínicas y científicas, epidemiológicas, experimentales de desarrollo tecnológico y básico en las áreas biomédicas y socio-médicas para el diagnóstico y tratamiento de las personas con la condición del espectro autista para procurar su habilitación;
 
@@ -306,6 +308,18 @@ IV. Promover políticas y programas para la protección de la salud integral de 
 V. Coadyuvar a la actualización del Sistema de Información a cargo de la Secretaría de Salud Federal, mismo que deberá permitir contar con un padrón de las personas con la condición del espectro autista que reciben atención por parte del Sistema Estatal de Salud en todo el territorio nacional, así como de la infraestructura utilizada para ello; y
 
 VI. Vincular las actividades del Sistema Estatal de Salud con los centros de investigación de las universidades públicas y privadas del Estado y del País en materia de atención y protección a personas con la condición del espectro autista;
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2026)</small>
+
+VII. Impulsar la realización de jornadas de detección en centros educativos públicos y privados de nivel básico, con el objetivo de identificar a niñas y niños que presenten características de la condición espectro autista;
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2026)</small>
+
+VIII. Procurar que la atención brindada en los Centros de Autismo del estado sea impartida por personal médico especializado y que la infraestructura de estos centros sea adecuada para asegurar su correcto funcionamiento;
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2026)</small>
+
+IX. Gestionar cursos y talleres ocupacionales para jóvenes que presenten la condición del espectro autista.
 
 ### CAPÍTULO IV. PROHIBICIONES Y SANCIONES
 
@@ -436,3 +450,11 @@ P.O. 10 DE FEBRERO DE 2025.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 862.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN I Y SE ADICIONAN LAS FRACCIONES VII, VIII Y IX AL ARTÍCULO 15 DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
