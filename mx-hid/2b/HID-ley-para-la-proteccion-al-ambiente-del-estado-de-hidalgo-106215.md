@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-proteccion-al-ambiente-del-estado-de-hidalgo-106215
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-16"
-last_updated: "2025-12-29"
+last_updated: "2026-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ENERO DE 2026.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Hidalgo, el lunes 16 de febrero de 2015.
 
@@ -380,6 +380,10 @@ IV. Elaborar, publicar y actualizar el Atlas Estatal de Riesgo, en coordinación
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 V.- Regular el aprovechamiento sustentable, así como fomentar la prevención, uso, captación y aprovechamiento del agua de lluvia y control de la contaminación de las aguas de jurisdicción estatal, así como de las aguas nacionales que la Federación hubiese asignado al Estado;
+
+> <small>(ADICIONADA, P.O. 7 DE ENERO DE 2026)</small>
+
+V Bis. En coordinación con la Comisión Estatal del Agua y Alcantarillado, promover la inclusión de criterios ambientales y sustentables relacionados con la captación, almacenamiento, infiltración y aprovechamiento del agua pluvial en los instrumentos de planeación urbana, ecológica y de ordenamiento territorial del Estado y los municipios.
 
 VI. Elaborar y publicar las Normas Técnicas Ecológicas Estatales a que se refiere esta Ley;
 
@@ -3916,3 +3920,13 @@ P.O. 29 DE DICIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 382 – LXVI POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 148 DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO, EN MATERIA DE CENTROS DE ACOPIO DE BATERÍAS".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 388 – LXVI POR EL QUE SE ADICIONA UNA FRACCIÓN V BIS AL ARTÍCULO 6 DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO, EN MATERIA DE COORDINACIÓN INSTITUCIONAL Y APROVECHAMIENTO AMBIENTAL DEL AGUA PLUVIAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Las autoridades competentes deberán integrar los criterios técnicos y ambientales necesarios para dar cumplimiento a lo dispuesto en el presente Decreto.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
