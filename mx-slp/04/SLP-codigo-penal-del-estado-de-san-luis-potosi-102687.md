@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2025-12-18"
+last_updated: "2026-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ENERO DE 2026.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -2330,6 +2330,10 @@ En el caso de que el infractor tenga parentesco por consanguinidad o civil con e
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
 
 Cuando el delito fuere cometido en el desempeño de un cargo o empleo público, o utilice los medios que su profesión le proporcione, además de la pena de prisión, será destituido del cargo que ocupa y suspendido por el término de dos años en el ejercicio de su profesión.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2026)</small>
+
+Los casos de abuso sexual a que se refiere el párrafo tercero de este artículo, se perseguirán de oficio.
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2016)</small>
 
@@ -6350,3 +6354,9 @@ P.O. 18 DE DICIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 0332.- QUE REFORMA Y REALIZA ADICIÓN AL ARTÍCULO 150, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 ÚNICO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 7 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0443.- QUE REALIZA ADICIÓN AL ARTÍCULO 178, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+ÚNICO. El presente Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
