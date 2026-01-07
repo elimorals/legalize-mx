@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2025-11-19"
+last_updated: "2026-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ENERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -1137,6 +1137,14 @@ Las comisiones serán electas por mayoría simple, estarán integradas, a excepc
 
 A las presidencias e integración de las comisiones, se accederá en forma proporcional a la representación que tengan los Grupos Legislativos.
 
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2026)</small>
+
+En caso de ausencia de la persona que presida una Comisión por habérsele concedido licencia temporal en términos del artículo 28 de esta Ley, previo acuerdo de la misma Comisión, podrá ejercer dichas funciones alguna de las Secretarías, debiendo respetar el orden de prelación en que aparezcan nombradas en el Acuerdo de integración respectivo.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2026)</small>
+
+La ausencia de la persona que presida una Comisión por habérsele concedido licencia por tiempo indefinido en términos del citado artículo 28, o por haberse decretado la suspensión o conclusión de su encargo, será cubierta por la diputación suplente, una vez que haya rendido protesta ante el Pleno, en términos de esta Ley y su Reglamento.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2018)</small>
 
 ###### ARTÍCULO 83.
@@ -1160,6 +1168,10 @@ En las reuniones en que se discuta el proyecto de dictamen de una iniciativa de 
 ###### ARTÍCULO 85.
 
 Las primeras y segundas Comisiones, procederán a estudiar, analizar y dictaminar las Iniciativas y demás asuntos que les sean turnados por la Directiva, presentarán por escrito su Dictamen o resolutivo correspondiente ante ésta última, en un plazo no mayor de treinta días hábiles, contados a partir del día siguiente de haber recibido los expedientes respectivos, a fin de ser incluidos en la Agenda de Sesiones y someterlos a la aprobación del Pleno.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2026)</small>
+
+Para el análisis, estudio y proyecto de resolutivo de los asuntos que les sean turnados, las comisiones contarán con el apoyo de una Secretaría Técnica, cuyas atribuciones serán definidas por el Reglamento.
 
 > <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2024)</small>
 
@@ -3166,3 +3178,9 @@ P.O. 19 DE NOVIEMBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. La aplicación de las reformas y adiciones aprobadas en este Decreto se realizará de manera progresiva, conforme a la disponibilidad técnica, operativa y presupuestal del Congreso del Estado lo permita. Para el inicio de su operación, el Congreso deberá haber implementado los recursos tecnológicos y operativos necesarios para su adecuada aplicabilidad. El inicio de los trabajos señalados recaerá en los órganos administrativos y operativos del Congreso, para lo cual el Congreso, por medio de sus órganos competentes para tal efecto, podrá celebrar los instrumentos jurídicos de colaboración necesarios para la implementación y operación de la firma electrónica.
+
+P.O. 7 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 389 - LXVI POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO, EN MATERIA DE FUNCIONAMIENTO DE LAS COMISIONES LEGISLATIVAS".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
