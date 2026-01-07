@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-donacion-y-trasplantes-para-el-estado-de-san-luis-100327
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-25"
-last_updated: "2022-05-02"
+last_updated: "2026-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DONACIÓN Y TRASPLANTES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ENERO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 25 de marzo de 2014.
 
@@ -933,6 +933,16 @@ Para la asignación de órganos, tejidos o células de donador no vivo, se tomar
 
 Cuando no exista urgencia o razón médica para asignar preferentemente un órgano, tejido o células, ésta se sujetará estrictamente a la información que se encuentre ingresada en el Registro Nacional de Trasplantes, y el Registro Estatal de Trasplantes, de conformidad con lo señalado en el artículo 27 de esta Ley.
 
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2026)</small>
+
+ARTÍCULO 52 BIS. En todos los casos en que se identifique a un paciente pediátrico con valoración médica por su médico tratante para la realización de un trasplante de órgano o tejido, la unidad médica que proporcione la atención será responsable de garantizar, con carácter obligatorio, la priorización en su evaluación, tratamiento y seguimiento, en estricto apego a los principios de equidad, necesidad médica y oportunidad terapéutica.
+
+Los pacientes pediátricos que cuenten con indicación médica de trasplante y presenten condiciones clínicas compatibles para su realización, así como la posibilidad de disponer de un donante vivo relacionado médicamente apto, deberán ser considerados de manera prioritaria por el Comité Interno de Trasplantes del hospital correspondiente para la práctica de estudios de compatibilidad, evaluaciones multidisciplinarias y los protocolos que resulten necesarios.
+
+El procedimiento de trasplante en pacientes pediátricos deberá llevarse a cabo en un plazo no mayor a ocho meses contados a partir de la determinación de la indicación médica, salvo que existan causas médicas debidamente justificadas y documentadas que impidan su realización en dicho término.
+
+La Secretaría de Salud y los Servicios de Salud del Estado establecerán los lineamientos operativos necesarios para garantizar la oportunidad del proceso, el seguimiento posterior al trasplante y el suministro continuo de medicamentos inmunosupresores.
+
 ###### ARTÍCULO 53.
 
 Los procedimientos para la conservación de órganos con fines terapéuticos, serán establecidos de conformidad con lo dispuesto en el Reglamento de la Ley General de Salud en Materia de Control Sanitario de la Disposición de Órganos, Tejidos y Cadáveres de Seres Humanos.
@@ -1139,6 +1149,92 @@ Los procedimientos para la aplicación de las medidas de seguridad y sanciones s
 
 Contra los actos y resoluciones definitivas emitidas por las autoridades en aplicación de esta Ley, procederán, de manera optativa, el Recurso de Revisión, o el juicio contencioso administrativo en términos de lo dispuesto por el Código Procesal Administrativo para el Estado de San Luis Potosí.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE ENERO DE 2026)</small>
+
+## TÍTULO SEXTO. Del Fomento a la Cultura de Donación, Información Hospitalaria, Capacitación y Evaluación Permanente
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE ENERO DE 2026)</small>
+
+### Capítulo I. Objeto del Título
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2026)</small>
+
+###### Artículo 70.
+
+El presente Título tiene por objeto fortalecer el Sistema Estatal de Donación y Trasplantes mediante la educación, sensibilización social, generación de información oportuna, profesionalización del personal involucrado y mecanismos permanentes de evaluación, con el fin de incrementar la disponibilidad de órganos y tejidos y garantizar procesos de procuración y trasplante con criterios de equidad, oportunidad y eficiencia.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE ENERO DE 2026)</small>
+
+### Capítulo II. Educación para la cultura de la donación
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2026)</small>
+
+###### Artículo 71.
+
+La Secretaría de Educación del Gobierno del Estado, en coordinación con el Centro Estatal de Trasplantes, promoverá la incorporación de manera progresiva en los planes y programas de estudio de educación básica y media superior contenidos pedagógicos orientados a:
+
+I. La cultura de la donación altruista.
+
+II. Los principios científicos y éticos del trasplante de órganos y tejidos.
+
+III. La prevención de enfermedades que afectan órganos susceptibles de trasplante.
+
+IV. La importancia del consentimiento informado, la solidaridad y la corresponsabilidad social.
+
+Para tal efecto, podrán desarrollarse materiales educativos, actividades escolares, talleres o estrategias de sensibilización, conforme al marco curricular vigente.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE ENERO DE 2026)</small>
+
+### Capítulo III. Campañas permanentes de promoción a la donación
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2026)</small>
+
+###### Artículo 72.
+
+El Centro Estatal de Trasplantes deberá diseñar y ejecutar campañas permanentes de promoción y sensibilización sobre la donación y trasplante de órganos y tejidos, a través de medios digitales, impresos y actividades comunitarias.
+
+Las campañas deberán:
+
+I. Establecer metas anuales cuantificables.
+
+II. Publicar resultados e indicadores en el portal oficial del CETRA.
+
+III. Enfocarse en población general, personal de salud, instituciones educativas y organizaciones civiles.
+
+IV. Incluir estrategias específicas para zonas de alta vulnerabilidad social.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE ENERO DE 2026)</small>
+
+### Capítulo IV. Reporte mensual de defunciones y potenciales donantes
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2026)</small>
+
+###### Artículo 73.
+
+Los hospitales, clínicas y unidades médicas que cuenten con licencia sanitaria vigente para procuración o trasplante de órganos y tejidos, así como aquellas que integren el Sistema Estatal de Salud, deberán remitir al Centro Estatal de Trasplantes, dentro de los primeros cinco días hábiles de cada mes, un informe correspondiente al mes inmediato anterior que contenga, al menos, la siguiente información:
+
+I. Total de defunciones registradas en el periodo.
+
+II. Edades, sexo y causas de muerte.
+
+III. Casos evaluados como posibles donantes.
+
+IV. Razones clínicas, logísticas o administrativas que impidieron la procuración.
+
+V. Información sobre mantenimiento del potencial donante, cuando corresponda.
+
+El CETRA deberá sistematizar esta información y elaborar reportes trimestrales para la planificación de estrategias de procuración, mismos que serán remitidos a los Servicios de Salud del Estado.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE ENERO DE 2026)</small>
+
+### Capítulo V. Capacitación y certificación del personal hospitalario
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2026)</small>
+
+###### Artículo 74.
+
+Los Coordinadores Hospitalarios de Donación y Trasplantes deberán acreditar, al menos una vez cada seis meses, un curso de actualización en materia de donación.
+
 T R A N S I T O R I O S
 
 PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -1228,3 +1324,9 @@ P.O. 2 DE MAYO DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 7 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0442.- QUE ADICIONA EL ARTÍCULO 52 BIS Y EL TITULO SEXTO CON LOS ARTÍCULOS 70, 71, 72, 73 Y 74, A LA LEY DE DONACIÓN Y TRASPLANTES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+Único. El presente Decreto entrara en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luís”.
