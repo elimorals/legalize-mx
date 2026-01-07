@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-superior-del-estado-de-hidalgo-167195"
 country: "mx"
 rank: "ley"
 publication_date: "2023-08-03"
-last_updated: "2024-09-17"
+last_updated: "2026-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ENERO DE 2026.
 
 Ley publicada en el Alcance Catorce del Número 31 del Periódico Oficial del Estado de Hidalgo, el jueves 3 de agosto de 2023.
 
@@ -699,9 +699,15 @@ XIII. Prácticas rigurosas y adecuadas de evaluación institucional, acreditaci�
 
 XIV. La erradicación de cualquier circunstancia social, educativa, económica, de salud, trabajo, culturales o políticas; disposiciones legales, figuras o instituciones jurídicas, acciones, omisiones, barreras o prácticas que tengan por objeto o produzcan el efecto de negar, excluir, distinguir, menoscabar, impedir o restringir el derecho a la educación superior de las personas, grupos o pueblos, especialmente de aquellos que se encuentren en situación de desventaja social o vulnerabilidad;
 
-XV. La formación integral para el desarrollo de habilidades blandas, que contribuyan a que los egresados de educación superior se incorporen de manera efectiva al ejercicio de su profesión; y
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2026)</small>
 
-XVI. Todas aquellas que contribuyan al logro de los criterios, fines y políticas de la educación superior.
+XV. La formación integral para el desarrollo de habilidades blandas, que contribuyan a que los egresados de educación superior se incorporen de manera efectiva al ejercicio de su profesión;
+
+> <small>(ADICIONADA, P.O. 7 DE ENERO DE 2026)</small>
+
+XVI. La promoción de programas permanentes e interinstitucionales de desarrollo socioemocional que incluyan formación en manejo del estrés, control de impulsos, regulación emocional, comunicación asertiva, prevención de violencia y resolución pacífica de conflictos. Estos programas deberán evaluarse periódicamente y contar con la participación de especialistas en salud mental y educación socioemocional, y
+
+XVII. Todas aquellas que contribuyan al logro de los criterios, fines y políticas de la educación superior.
 
 ###### Artículo 40.
 
@@ -1464,5 +1470,11 @@ P.O. 3 DE MAYO DE 2024.
 P.O. 17 DE SEPTIEMBRE DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 1110 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO Y A LA LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 390 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 39 DE LA LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE HIDALGO, EN MATERIA DE PROGRAMAS DE DESARROLLO SOCIOEMOCIONAL Y MANEJO DE EMOCIONES”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
