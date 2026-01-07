@@ -4,7 +4,7 @@ identifier: "HID-ley-de-migrantes-hidalguenses-y-en-contexto-de-movilidad-143820
 country: "mx"
 rank: "ley"
 publication_date: "2020-08-17"
-last_updated: "2025-05-26"
+last_updated: "2026-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MIGRANTES HIDALGUENSES Y EN CONTEXTO DE MOVILIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ENERO DE 2026.
 
 Decreto publicado en el Alcance Núm. 33 del Periódico Oficial del Estado de Hidalgo, el lunes 17 de agosto de 2020.
 
@@ -605,6 +605,14 @@ IV.- Orientar a los hidalguenses en el cumplimiento de trámites legales para se
 
 V.- Verificar la autenticidad, capacidad económica y legalidad de las empresas, patrones o contratistas que pretendan trasladar trabajadores hidalguenses para laborar en el extranjero o en el interior del país, previa solicitud del o los interesados.
 
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2026)</small>
+
+###### Artículo 28 Bis.
+
+La Secretaría, en coordinación con la Secretaría de Desarrollo Económico, podrá promover programas y acciones para impulsar el desarrollo económico de las personas migrantes y sus familias, y fomentar el emprendimiento de micro, pequeñas y medianas empresas, a fin de favorecer su integración económica y social.
+
+Así mismo podrá colaborar con municipios en la promoción y difusión de los programas y acciones que promuevan el desarrollo económico, dirigidos a personas migrantes que han sido retornadas o en contexto de movilidad.
+
 ###### Artículo 29.
 
 La Secretaría, en coordinación con la Secretaría de Educación Pública, promoverá programas de integración escolar para migrantes hidalguenses y sus familias, procurando la validación y revalidación de estudios acreditados en otros países.
@@ -806,5 +814,11 @@ P.O. 30 DE MAYO DE 2024.
 P.O. 26 DE MAYO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 243.– LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MIGRANTES HIDALGUENSES Y EN CONTEXTO DE MOVILIDAD, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, Y DE LA LEY ESTATAL DE FOMENTO Y FORTALECIMIENTO A LAS ACCIONES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE HIDALGO, EN MATERIA DE TRATO DIGNO A LAS PERSONAS HIDALGUENSES REPATRIADAS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 387 – LXVI POR EL QUE SE ADICIONA UN ARTÍCULO 28 BIS A LA LEY DE MIGRANTES HIDALGUENSES Y EN CONTEXTO DE MOVILIDAD, EN MATERIA DE DESARROLLO ECONÓMICO DE LAS PERSONAS MIGRANTES".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
