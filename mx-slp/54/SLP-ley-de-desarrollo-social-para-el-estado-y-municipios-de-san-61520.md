@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-social-para-el-estado-y-municipios-de-san-615
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-17"
-last_updated: "2025-10-22"
+last_updated: "2026-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ENERO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 17 de abril de 2008.
 
@@ -129,7 +129,9 @@ II. Consejo Consultivo: el Consejo Consultivo de Desarrollo Social del Estado;
 
 III. CONAPO: Consejo Nacional de Población;
 
-IV. CONEVAL: Consejo Nacional de Evaluación de la Política de Desarrollo Social;
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2026)</small>
+
+IV. INEGI: Instituto Nacional de Estadística y Geografía;
 
 V. Corresponsabilidad: es la intervención comprometida de todos los actores involucrados en el combate a la pobreza y el desarrollo social, para buscar soluciones a los problemas compartidos, y aportar trabajo técnico, mano de obra, recursos económicos y materiales, en la medida de las posibilidades de las partes, que permitan superar rezagos sociales;
 
@@ -621,13 +623,11 @@ ARTICULO 29 BIS. La publicidad y la información relativa a los programas de des
 
 ### CAPITULO II. Del Desarrollo Local
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2026)</small>
 
 ###### ARTICULO 30.
 
-El Sistema Estatal revisará y definirá anualmente, las localidades sujetas a atención prioritaria por sus condiciones de rezago social, e informará al Poder Legislativo sobre su modificación para los efectos de asignaciones del Presupuesto de Egresos del Estado.
-
-La Secretaría Ejecutiva proporcionará la información que permita al Sistema Estatal definir las localidades, teniendo como referente los resultados de medición de pobreza, marginación y desarrollo humano que publiquen el CONAPO, el CONEVAL, y el programa de Naciones Unidas para el Desarrollo, así como la medición de los indicadores respectivos que realice la Secretaría Ejecutiva.
+El Sistema Estatal revisará y definirá anualmente, las localidades sujetas a atención prioritaria por sus condiciones de rezago social, e informará al Poder Legislativo sobre su modificación para los efectos de asignaciones del Presupuesto de Egresos del Estado. La Secretaría Ejecutiva proporcionará la información que permita al Sistema Estatal definir las localidades, teniendo como referente los resultados de medición de pobreza, marginación y desarrollo humano que publiquen el CONAPO, el INEGI, y el programa de Naciones Unidas para el Desarrollo, así como la medición de los indicadores respectivos que realice la Secretaría Ejecutiva.
 
 ###### ARTICULO 31.
 
@@ -685,9 +685,11 @@ II. Externa: la que realizan los organismos evaluadores independientes a solicit
 
 En ambos casos, la evaluación incluirá la opinión de los beneficiarios y deberá darse a conocer al Sistema Estatal, a través de la Secretaría Ejecutiva.
 
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2026)</small>
+
 ###### ARTICULO 37.
 
-La Secretaría Ejecutiva dará seguimiento a los estudios relativos a la marginación, rezago social, pobreza y desarrollo humano, realizados por el CONAPO, el CONEVAL, y el Programa para las Naciones Unidas para el Desarrollo, e informará, respectivamente, al Sistema Estatal y a cada ayuntamiento, sobre los resultados y el lugar que ocupa el Estado y su municipio en el contexto nacional.
+La Secretaría Ejecutiva dará seguimiento a los estudios relativos a la marginación, rezago social, pobreza y desarrollo humano, realizados por el CONAPO, el INEGI, y el Programa para las Naciones Unidas para el Desarrollo, e informará, respectivamente, al Sistema Estatal y a cada ayuntamiento, sobre los resultados y el lugar que ocupa el Estado y su municipio en el contexto nacional.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
@@ -707,9 +709,11 @@ La evaluación tendrá como propósito revisar sistemáticamente los resultados 
 
 ARTICULO 38 BIS. Las dependencias del Sistema Estatal darán seguimiento a las recomendaciones derivadas de las evaluaciones, para retroalimentar el proceso de planeación y operación de sus programas, y establecer condiciones de mejora continua, que fortalezcan la toma de decisiones.
 
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2026)</small>
+
 ###### ARTICULO 39.
 
-El Sistema Estatal en función a lo que establece la ley, utilizará la información que genere el Instituto Nacional de Estadística Geografía e Informática, el CONAPO, el CONEVAL, y otras instituciones competentes en la materia, para definir y medir la pobreza.
+El Sistema Estatal en función a lo que establece la ley, utilizará la información que genere el INEGI, el CONAPO y otras instituciones competentes en la materia, para definir y medir la pobreza.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
@@ -1014,6 +1018,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 22 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0293.- QUE ADICIONA EL ARTÍCULO 32 BIS, A LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 7 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0441.- QUE REFORMA LOS ARTÍCULOS 6, 30, 37 Y 39, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y LOS MUNICIPIOS DE SAN LUIS POTOSÍ".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
