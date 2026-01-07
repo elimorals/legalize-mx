@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-derechos-de-chihuahua-155082"
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-29"
-last_updated: "2025-12-24"
+last_updated: "2026-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=155082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # LEY ESTATAL DE DERECHOS DE CHIHUAHUA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE ENERO DE 2026 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ESTATAL DE DERECHOS DE CHIHUAHUA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2025.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE ENERO DE 2026.]</small>
 
 Ley publicada en Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 29 de diciembre de 2021.
 
@@ -7877,7 +7877,9 @@ XI. Por el uso de las instalaciones del Teatro Telón de Arena:
 
 a) Convenciones, conferencias y actividades de carácter informativo por hora 17.6773 UMAs.
 
-e (sic)) Convenciones, conferencias y actividades de carácter informativo por evento de 3 a 5 horas 44.1931 UMAs.
+> <small>(F. DE E., P.O. 7 DE ENERO DE 2026)</small>
+
+b) Convenciones, conferencias y actividades de carácter informativo por evento de 3 a 5 horas 44.1931 UMAs.
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
