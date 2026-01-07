@@ -4,7 +4,7 @@ identifier: "HID-ley-de-coordinacion-fiscal-para-el-estado-de-hidalgo-5443"
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-30"
-last_updated: "2025-12-31"
+last_updated: "2026-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "HID"
 LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE HIDALGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2025.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE ENERO DE 2026.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el sábado 30 de diciembre de 1989.
 
@@ -421,6 +423,8 @@ A) DEL 100% DE LAS PARTICIPACIONES RECIBIDAS POR EL ESTADO DEL FONDO DE FOMENTO 
 
 > <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2021, PÁGINAS DE LA 28 A LA 29.]</small>
 
+> <small>(F. DE E., P.O. 7 DE ENERO DE 2026)</small>
+
 > <small>[N. DE E. VÉASE REFORMA A LA FÓRMULA EN EL P.O. DE 2 DE JULIO DE 2025, PÁGINA 5.]</small>
 
 > <small>(ADICIONADO, P.O.31 DE DICIEMBRE DE 2021)</small>
@@ -430,6 +434,8 @@ LA FÓRMULA DEL FONDO DE FOMENTO MUNICIPAL NO SERÁ APLICABLE PARA LA DISTRIBUCI
 > <small>(ADICIONADO, P.O. 2 DE JULIO DE 2025)</small>
 
 B) LA PARTICIPACIÓN DEL 30% DEL EXCEDENTE DEL FONDO, SERÁ DISTRIBUIDO SÓLO ENTRE LOS MUNICIPIOS QUE SE ENCUENTREN COORDINADOS CON EL ESTADO EN MATERIA DE IMPUESTO PREDIAL, ATENDIENDO A LA SIGUIENTE FÓRMULA:
+
+> <small>(F. DE E., P.O. 7 DE ENERO DE 2026)</small>
 
 > <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. 2 DE JULIO DE 2025, PÁGINA 5.]</small>
 
