@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2025-12-24"
+last_updated: "2026-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "YUC"
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE DICIEMBRE DE 2025.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 7 DE ENERO DE 2026.]</small>
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -2597,19 +2599,9 @@ ARTÍCULO 240 BIS. Comete el delito de acecho toda persona que siga, vigile o se
 
 Este delito se perseguirá por querella.
 
-### CAPÍTULO IV. PRIVACIÓN ILEGAL DE LA LIBERTAD Y DE OTRAS GARANTÍAS
+(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2025) (F. DE E., D.O. 7 DE ENERO DE 2026)
 
-###### ARTÍCULO 241.
-
-Se impondrá prisión de uno a cuatro años y de doce a cuarenta días-multa:
-
-I. A quien, siendo particular, sin orden de autoridad competente fuera de los casos permitidos por la ley, arreste o detenga a otro en algún sitio; si lo priva de la libertad o se apodera de él por cualquier medio y con cualquier objeto por menos de ocho días. Si la detención arbitraria excediera de ocho días, la prisión a que este artículo se refiere será aumentada en un mes más por cada día que excediese de ese tiempo, y
-
-II. Al particular que de alguna manera viole, con perjuicio de otro, los derechos y garantías establecidas por la Constitución General de la República y la Constitución Política del Estado.
-
-> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2025)</small>
-
-ARTÍCULO 241 BIS. Con lo dispuesto en el artículo anterior, se impondrá de seis meses a dos años de prisión y multa de quinientos a mil Unidades de Medida y Actualización a quien, de manera insistente y reiterada, lleve a cabo cualquiera de las conductas siguientes:
+ARTÍCULO 240 TER. Con lo dispuesto en el artículo anterior, se impondrá de seis meses a dos años de prisión y multa de quinientos a mil Unidades de Medida y Actualización a quien, de manera insistente y reiterada, lleve a cabo cualquiera de las conductas siguientes:
 
 I. Vigile, monitoree u observe a la víctima.
 
@@ -2623,19 +2615,9 @@ V. Obtenga y utilice la información personal de la victima de manera invasiva.
 
 Las penas previstas en este artículo se impondrán sin perjuicio de las que pudieren corresponder a otros delitos cometidos en concurso aplicando las reglas según corresponda.
 
-###### ARTÍCULO 242.
+(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2025) (F. DE E., D.O. 7 DE ENERO DE 2026)
 
-Se impondrá de diez a cuarenta años de prisión y de cien a quinientos días-multa, a quien prive de la libertad a una persona con el propósito de:
-
-I. Obtener un rescate, un derecho o el cumplimiento de cualquier condición;
-
-II. Que la autoridad realice o deje de realizar un acto de cualquier índole, y
-
-III. Causar daño o perjuicio al secuestrado o a otra persona.
-
-> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2025)</small>
-
-ARTÍCULO 242 BIS. Se incrementarán en una mitad los mínimos y máximos de las sanciones que se señalan en el artículo anterior cuando concurra cualquiera de las circunstancias siguientes:
+ARTÍCULO 240 QUÁTER. Se incrementarán en una mitad los mínimos y máximos de las sanciones que se señalan en el artículo anterior cuando concurra cualquiera de las circunstancias siguientes:
 
 I. Se cause daño físico o psicológico grave a la víctima o terceras personas que mantengan lazos de parentesco o amistad con la persona afectada.
 
@@ -2658,6 +2640,26 @@ IX. Cuando se utilicen dispositivos o herramientas tecnológicas para la vigilan
 X. Cuando la conducta se cometa en contravención de una orden de protección dictada por una autoridad jurisdiccional.
 
 Si en los supuestos de las fracciones anteriores se realizaran otros ilícitos, se aplicarán las reglas de concurso que procedan.
+
+### CAPÍTULO IV. PRIVACIÓN ILEGAL DE LA LIBERTAD Y DE OTRAS GARANTÍAS
+
+###### ARTÍCULO 241.
+
+Se impondrá prisión de uno a cuatro años y de doce a cuarenta días-multa:
+
+I. A quien, siendo particular, sin orden de autoridad competente fuera de los casos permitidos por la ley, arreste o detenga a otro en algún sitio; si lo priva de la libertad o se apodera de él por cualquier medio y con cualquier objeto por menos de ocho días. Si la detención arbitraria excediera de ocho días, la prisión a que este artículo se refiere será aumentada en un mes más por cada día que excediese de ese tiempo, y
+
+II. Al particular que de alguna manera viole, con perjuicio de otro, los derechos y garantías establecidas por la Constitución General de la República y la Constitución Política del Estado.
+
+###### ARTÍCULO 242.
+
+Se impondrá de diez a cuarenta años de prisión y de cien a quinientos días-multa, a quien prive de la libertad a una persona con el propósito de:
+
+I. Obtener un rescate, un derecho o el cumplimiento de cualquier condición;
+
+II. Que la autoridad realice o deje de realizar un acto de cualquier índole, y
+
+III. Causar daño o perjuicio al secuestrado o a otra persona.
 
 ###### ARTÍCULO 243.
 
