@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-centros-de-educacion-inicial-y-cuidado-infantil-del-9006
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-06"
-last_updated: "2018-05-15"
+last_updated: "2026-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90062&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CENTROS DE EDUCACIÓN INICIAL Y CUIDADO INFANTIL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ENERO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 6 de octubre de 2012
 
@@ -47,9 +47,11 @@ LEY DE CENTROS DE EDUCACIÓN INICIAL Y CUIDADO INFANTIL DEL ESTADO Y MUNICIPIOS 
 
 Las disposiciones de esta Ley son de orden público, interés social y de observancia general en el territorio del Estado. Tiene por objeto establecer las bases, requisitos y procedimientos para la creación, administración, funcionamiento, vigilancia y sanción de los centros que presten servicios de educación inicial y cuidado infantil.
 
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2026)</small>
+
 ###### ARTICULO 2°.
 
-El centro de Educación Inicial y Cuidado Infantil, es el establecimiento donde se prestan servicios de educación inicial, cuidado infantil o ambos, a infantes desde los 45 días de nacidos y hasta los seis años de edad, dentro de los que se comprenden las guarderías, estancias infantiles, centros de cuidado infantil, centros de desarrollo infantil (CENDI) o cualquier otra denominación que tengan, siempre que se encuentren dentro del territorio del Estado de San Luis Potosí, sean de orden público, seguridad social, mixtos, privados o de cualquier índole.
+El centro de Educación Inicial y Cuidado Infantil, es el establecimiento donde se prestan servicios de educación inicial, cuidado infantil o ambos, a infantes desde los cuarenta y tres días de nacidos y hasta los seis años de edad, dentro de los que se comprenden las guarderías, estancias infantiles, centros de cuidado infantil, centros de desarrollo infantil (CENDI) o cualquier otra denominación que tengan, siempre que se encuentren dentro del territorio del Estado de San Luis Potosí, sean de orden público, seguridad social, mixtos, privados o de cualquier índole
 
 ###### ARTICULO 3°.
 
@@ -95,7 +97,9 @@ El cumplimiento de esta Ley estará a cargo del Ejecutivo del Estado a través d
 
 I. Secretaría General de Gobierno.
 
-Autorizar el funcionamiento y operación de los centros de educación inicial y cuidado infantil, que se establezcan en cualquier lugar del Estado;
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2026)</small>
+
+Autorizar el funcionamiento y operación de los centros de educación inicial y cuidado infantil, que se establezcan en cualquier lugar del Estado, previo cumplimiento de los requisitos en materia de Protección Civil y demás requerimientos previstos en esta Ley. Ningún centro podrá prestar servicios sin contar con la autorización correspondiente en materia de protección civil.
 
 II. Secretaria de Educación.
 
@@ -107,11 +111,13 @@ c) Verificar anualmente en coordinación con la Secretaría de Salud, Secretarí
 
 d) Convenir o acordar con las instituciones de otros ordenes de gobierno, que tengan a su cargo centros de educación inicial y cuidados infantiles, para que proporcionen información respecto a estos centros;
 
-e) Impulsar programas y planes educativos para formar y capacitar recursos humanos en la materia;
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2018)</small>
+e) Impulsar programas y planes educativos para formar, actualizar, capacitar y certificar las competencias del personal que preste sus servicios en los Centros de Educación Inicial y Cuidado Infantil, en coordinación con las autoridades competentes, a fin de garantizar la salud, la educación, la seguridad y la integridad física y psicológica de niñas y niños, de conformidad con lo dispuesto en la Ley General;
 
-f) Llevar el registro y control del padrón único de centros de educación inicial y cuidado infantil que funcionen dentro del territorio del Estado, incluidos los que no tengan fines lucrativos, mismo que estará disponible en su sitio web, donde deben aparecer el registro y numero de control de cada CEICI regulado por esta ley, cuya información deberá compartir con la Secretaría de Salud, para el desarrollo de normas de higiene escolar, epidemiológicas y para llevar a efecto las atribuciones y competencias derivadas de esta Ley;
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2026)</small>
+
+f) Llevar el Registro Estatal de Centros de Atención, el cual será un Catálogo público de los Centros de Educación Inicial y Cuidado Infantil que funcionen dentro del territorio del Estado, incluidos los que no tengan fines lucrativos, mismo que estará disponible en su sitio web, y deberá coordinarse con el Registro Nacional de conformidad con la Ley General. En este catálogo deben aparecer el registro y número de control de cada CEICI regulado por esta ley, cuya información deberá compartir con la Secretaría de Salud, para el desarrollo de normas de higiene escolar, epidemiológicas y para llevar a efecto las atribuciones y competencias derivadas de esta Ley;
 
 g) Impartir cursos y programas de capacitación y actualización dirigidos al cuidado infantil;
 
@@ -146,6 +152,14 @@ IV. Sistema Estatal para el Desarrollo Integral de la Familia:
 a) Colaborar en conjunto con la Secretaría de Educación y la Secretaría de Salud para la elaboración del padrón único de centros de educación inicial y cuidado infantil, respecto de los CENDI, guarderías, estancias infantiles y albergues en los cuales se cuiden infantes, tanto los que opera el DIF.
 
 b) Colaborar con la Secretaría de Salud y la Secretaría de Educación en la supervisión y verificación de las instituciones u organismos sociales, privados o asistenciales sin fines de lucro, tales como fundaciones, asociaciones, casas de cuna, albergues o cualquier otro organismo de su competencia que pretendan manejar o tener bajo su cuidado a infantes.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 7 DE ENERO DE 2026)</small>
+
+V. Coordinación Estatal de Protección Civil.
+
+a) Realizar las inspecciones a los Centros para verificar el cumplimiento de las disposiciones de seguridad, otorgar la aprobación del Programa Interno de Protección Civil que presenten los Centros de Atención como requisito para su Licencia de Funcionamiento.
+
+b) Aplicar las medidas de seguridad y sanciones que correspondan, en el ámbito de sus facultades, de conformidad con lo previsto en esta Ley y la Ley General.
 
 ###### ARTICULO 6°.
 
@@ -209,11 +223,17 @@ II. Mobiliario y juguetes cuyo diseño no implique riesgo para la integridad fí
 
 III. Materiales didácticos y pedagógicos de acuerdo a los parámetros educativos referidos en la normatividad educativa aplicable;
 
-IV. Personal capacitado y certificado especialmente para prestar el servicio de educación inicial, así como de cuidados infantiles, el que deberá contar con el estado físico, mental y emocional adecuado para el manejo de infantes, y
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2026)</small>
 
-V. Acreditar fehacientemente tanto el personal, como los propietarios, representantes legales y, en general, los prestadores de servicios de los CEICI, no contar con antecedentes penales, por la comisión de algún delito en cualquier modalidad, en los que se haya inferido algún daño o perjuicio a un infante o menor, sea físico, psicológico, o sexual, por abuso, explotación, maltrato, descuido o trato negligente.
+IV. Personal capacitado y certificado especialmente para prestar el servicio de educación inicial, así como de cuidados infantiles, el que deberá contar con el estado físico, mental y emocional adecuado para el manejo de infantes;
 
-Si no se acredita este requisito, no se le expedirá la Licencia de funcionamiento aun cuando cumpla con todos los demás y si ya se encuentra expedida será motivo suficiente para clausurar definitivamente.
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2026)</small>
+
+V. Acreditar fehacientemente tanto el personal, como los propietarios, representantes, legales y, en general, los prestadores de servicios de los CEICI, no contar con antecedentes penales, por la comisión de algún delito en cualquier modalidad, en los que se haya inferido algún daño o perjuicio a un infante o menor, sea físico, psicológico, o sexual, por abuso, explotación, maltrato, descuido o trato negligente, y
+
+> <small>(ADICIONADA, P.O. 7 DE ENERO DE 2026)</small>
+
+VI. Contar con el Programa Interno de Protección Civil aprobado por la Coordinación Estatal de Protección Civil, de conformidad con lo establecido en la Ley General.
 
 ###### ARTICULO 17.
 
@@ -618,3 +638,9 @@ P.O. 15 DE MAYO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0440.- QUE REFORMA LOS ARTÍCULOS 2°, 5°, 16; Y SE REALIZA ADICIÓN A LOS ARTÍCULOS 5° Y 16, DE LA LEY DE CENTROS DE EDUCACIÓN INICIAL Y CUIDADO INFANTIL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día de su publicación del (sic) el Periódico Oficial del Estado “Plan de San Luis”.
