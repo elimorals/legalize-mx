@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2025-12-17"
+last_updated: "2026-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2026.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -1799,19 +1799,19 @@ El Gobernador presidirá el gabinete, cuyos integrantes serán sometidos a la ra
 
 La norma en la materia regulará los supuestos y requisitos para su integración, su funcionamiento y la forma en que el Gobernador podrá dar por concluido el Gobierno de Coalición.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ENERO DE 2026)</small>
 
-### Capítulo V. De la Mejora Regulatoria y del Gobierno Digital
+### Capítulo V. De la Simplificación Administrativa y del Gobierno Digital
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2026)</small>
 
 ###### Artículo 70.
 
-La Mejora Regulatoria es una política pública obligatoria para el Estado y sus Municipios, en sus respectivos ámbitos de competencia, que busca promover la eficacia y eficiencia de su gobierno, fomentar la transparencia y el desarrollo socioeconómico, así como la competitividad del Estado, a través de la implementación de normas claras, trámites y servicios simplificados.
+La simplificación administrativa y digitalización de trámites y servicios, así como las buenas prácticas regulatorias y el desarrollo de capacidades tecnológicas, son políticas públicas obligatorias para el Estado y los Municipios, en sus respectivos ámbitos de competencia, que tienen como fin contribuir al bienestar de las personas, grupos, comunidades, sectores sociales y económicos, conforme a lo establecido en las disposiciones nacionales y estatales en la materia.
 
-La ley de la materia establecerá el Sistema Estatal de Mejora Regulatoria, así como los instrumentos necesarios para vigilar que las normas de carácter general que emita cualquier autoridad en la entidad, garanticen beneficios superiores a sus costos; así mismo se creará un catálogo estatal que contendrá trámites y servicios a cargo del Estado y sus Municipios, se impulsará el uso de tecnologías de la información.
+Las instituciones y dependencias competentes, en los órdenes estatal y municipal, formularán políticas públicas y trabajarán de manera coordinada para que los procesos de simplificación administrativa y digitalización contribuyan al desarrollo económico, la inclusión social, el acceso a servicios y el ejercicio pleno de derechos.
 
-Se creará un sistema de Gobierno Digital, en donde se establecerán las políticas públicas para incorporar el uso de tecnologías de la información y comunicación a los trámites gubernamentales, se procurará que aquellos que tengan mayor demanda sean accesibles para la población a través de estos medios por medio de la plataforma que desarrolle el Gobierno del Estado.
+El Estado contará con un sistema de Gobierno Digital, en donde se establecerán las políticas públicas para incorporar el uso de tecnologías de la información y comunicación a los trámites gubernamentales, se procurará que aquellos que tengan mayor demanda sean accesibles para la población por medio de la plataforma que desarrolle el Gobierno del Estado.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -5340,3 +5340,13 @@ P.O. 17 DE DICIEMBRE DE 2025.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 8 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 180 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se abroga la Ley de Mejora Regulatoria para el Estado y los Municipios de Chiapas, publicada en el Periódico Oficial número 034 del 15 de mayo de 2019, así mismo quedan sin efectos las disposiciones reglamentarias y administrativas que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero. Cumpliendo el plazo establecido por la Ley Nacional para Eliminar Trámites Burocráticos, el Congreso del Estado deberá armonizar las disposiciones y leyes estatales en la materia para la adecuada transición hacia el modelo de simplificación administrativa.
