@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-mejora-regulatoria-para-el-estado-y-los-municipios-13633
 country: "mx"
 rank: "ley"
 publication_date: "2019-05-15"
-last_updated: "2019-05-15"
+last_updated: "2026-01-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136335&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY DE MEJORA REGULATORIA PARA EL ESTADO Y LOS MUNICIPIOS DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS, PUBLICADO EN EL P.O. DE 8 DE ENERO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE MEJORA REGULATORIA PARA EL ESTADO Y LOS MUNICIPIOS DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2026 (ABROGADA).
 
 Ley publicada al Número 034 del Periódico Oficial del Estado de Chiapas, el miércoles 15 de mayo de 2019.
 
@@ -916,3 +918,15 @@ El Ejecutivo del Estado dispondrá que se publique y se dé el debido cumplimien
 Dado en el Salón de Sesiones Sergio Armando Valls Hernández, del Honorable Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 14 días del mes de mayo del año dos mil diecinueve.- D. P. C. ROSA ELIZABETH BONILLA HIDALGO.- D. S. C. ADRIANA BUSTAMANTE CASTELLANOS.- Rúbricas.
 
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 15 días del mes de Mayo del año dos mil diecinueve.- Rutilio Escandón Cadenas, Gobernador del Estado de Chiapas.- Ismael Brito Mazariegos, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 180 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se abroga la Ley de Mejora Regulatoria para el Estado y los Municipios de Chiapas, publicada en el Periódico Oficial número 034 del 15 de mayo de 2019, así mismo quedan sin efectos las disposiciones reglamentarias y administrativas que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero. Cumpliendo el plazo establecido por la Ley Nacional para Eliminar Trámites Burocráticos, el Congreso del Estado deberá armonizar las disposiciones y leyes estatales en la materia para la adecuada transición hacia el modelo de simplificación administrativa.
