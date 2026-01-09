@@ -4,7 +4,7 @@ identifier: "MIC-codigo-familiar-para-el-estado-de-michoacan-de-ocampo-110252"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-09-30"
-last_updated: "2025-04-04"
+last_updated: "2026-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2026.
 
 Código publicado en la Décima Cuarta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 30 de septiembre de 2015.
 
@@ -370,6 +370,14 @@ Las personas que no cumplan con las obligaciones impuestas por el artículo ante
 ###### Artículo 56.
 
 El acta de nacimiento se levantará con asistencia de dos testigos.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2026)</small>
+
+Las personas tienen derecho a la identidad y el nombre. Este derecho será protegido a través de sus progenitores al momento de la inscripción de su acta de nacimiento, por lo que se asentarán los apellidos en el orden establecido por éstos.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2026)</small>
+
+En caso de violencia familiar o cuando un ascendiente cometa un delito en agravio del descendiente, éste podrá solicitar ante el juez la modificación del orden de sus apellidos o la supresión del apellido del progenitor que haya cometido violencia o delito en su contra.
 
 Contendrá la hora, día, mes, año y el lugar de nacimiento, el sexo del presentado, nombre propio y apellidos, la razón de si se ha presentado vivo o muerto y su huella dactilar.
 
@@ -836,6 +844,10 @@ Cumplido el trámite, se enviarán los oficios con la información en calidad de
 ###### Artículo 118.
 
 Cuando no se asiente el fallecimiento de una persona ante el Oficial del Registro Civil correspondiente, dentro de los seis meses siguientes, solo procederá el levantamiento del acta respectiva por orden de la autoridad judicial, que se sujetará al mismo trámite que la rectificación de las actas del registro civil.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2026)</small>
+
+Salvo excepción, cuando se trate de cadáveres o restos humanos identificados, identificados no reclamados y no identificados, de las que la persona Agente de Ministerio Público solicite la expedición del Acta de Defunción al Registro Civil, con independencia de la fecha de fallecimiento que establezca el certificado de defunción que emita el médico legista de la Fiscalía General del Estado de Michoacán. En el acta de defunción a que se refiere este artículo, se escribirá nota marginal que contenga los datos homólogos que establece el Código Familiar, la cual contendrá: datos de la carpeta de investigación como fecha, número de ésta, nombre del Agente del Ministerio Público y la unidad a que pertenece; número de oficio enviado por la Fiscalía General; número de oficio del perfil genético; resumen de los puntos resolutivos de la determinación de la Fiscalía; y la fecha en que se recibió la solicitud en la Oficialía del Registro Civil. Para el caso de restos óseos de personas fallecidas y no reclamadas, deberán anotarse las características que permitan individualizar los restos, así como el perfil genético correspondiente.
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2016)</small>
 
@@ -1779,9 +1791,13 @@ V. Las necesarias para que los cónyuges no puedan causar perjuicios en sus resp
 
 VI. Las demás que considere necesarias el juez.
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 2025)</small>
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2026)</small>
 
-La protección para los hijos e hijas incluyendo medidas de seguridad, seguimiento y sesiones de terapias necesarias para evitar y corregir los actos de violencia familiar, así como garantizar su derecho a la alimentación y la vivienda.
+La protección para los hijos incluirá las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar o violencia vicaria, cometidos por el actor o por interpósita persona, las cuales podrán ser suspendidas o modificadas en los términos legalmente previstos.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2026)</small>
+
+Artículo 260 bis. Durante el divorcio, no se otorgará la guardia y custodia de hijas e hijos menores de edad a la persona integrante del matrimonio, cuando existan elementos que permitan concluir que existe violencia contra de alguno o algunos de los integrantes del núcleo familiar; parta (sic) acreditar cualquier conducta violenta se podrán ofrecer y admitir cualquier medio de prueba que no sea ilícito que hagan presumir la existencia de un riesgo que pueda dañar la integridad física o mental de las hijas e hijos.
 
 ###### Artículo 261.
 
@@ -2747,7 +2763,9 @@ La patria potestad se perderá aun cuando los abandonados o expósitos hubieren 
 
 V. Dejen de cumplir con su obligación alimentaria hasta por 90 días naturales sin causa justificada, sin que esto le exima de cumplir con las obligaciones posteriores;
 
-VI. Cometan conductas de violencia familiar en contra de quien se ejerce la patria potestad;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2026)</small>
+
+VI. Cometan conductas de violencia familiar o violencia vicaria, en contra de quien se (sic) ejerce la patria potestad o contra quien ejerza la guarda y custodia de los menores de forma temporal o definitiva decretada por la autoridad competente;
 
 VII. Se genere alienación parental por uno de los cónyuges en contra del otro;
 
@@ -7806,3 +7824,19 @@ P.O. 4 DE ABRIL DE 2025.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Segundo. A partir de su entrada en vigor, la Secretaría de Gobierno a través de su Dirección del Registro Civil, expedirá en un máximo de 30 días naturales la reforma a su reglamentación necesaria a efectos de dar cumplimiento a lo mandatado en el presente Decreto.
+
+P.O. 9 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 261 POR EL QUE “SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 260 Y LA FRACCIÓN VI DEL ARTÍCULO 422; Y, SE ADICIONA UN ARTÍCULO 260 BIS, TODOS DEL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente a su publicación.
+
+SEGUNDO. Se derogan las disposiciones legales y administrativas en lo que se opongan al presente Decreto.
+
+P.O. 9 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 262 POR EL QUE "SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFOS, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES AL ARTÍCULO 56 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 118 DEL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente a su publicación.
+
+SEGUNDO. Se derogan las disposiciones legales y administrativas en lo que se opongan al presente Decreto.
