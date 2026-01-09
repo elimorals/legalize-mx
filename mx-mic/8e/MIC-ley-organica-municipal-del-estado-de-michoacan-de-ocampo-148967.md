@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-148967
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-03-30"
-last_updated: "2025-12-19"
+last_updated: "2026-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2026.
 
 Ley publicada en la Octava Sección en el Número 39 del Periódico Oficial del Estado de Michoacán, el martes 30 de marzo de 2021.
 
@@ -1513,7 +1513,9 @@ I. Proponer y promover políticas públicas municipales de atención al migrante
 
 II. Usar mecanismos de consulta con los migrantes y sus familias, para que sus opiniones y propuestas sean tomadas en cuenta en la elaboración de los planes municipales de desarrollo;
 
-III. Vigilar el funcionamiento de los Centros Municipales de los Migrantes y el cumplimiento de los objetivos en términos de la Ley de la materia;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2026)</small>
+
+III. Vigilar el funcionamiento de los Centros Municipales de los Migrantes y el cumplimiento de los objetivos en términos de la Ley de la materia, promoviendo en conjunto con la Secretaría del Migrante, mecanismos de apoyo para la reunificación de familias;
 
 IV. Fomentar la participación y vinculación de las asociaciones de migrantes en sus municipios y comunidades de origen; y,
 
@@ -1637,9 +1639,21 @@ XV. Vigilar que los funcionarios municipales presenten oportunamente la declarac
 
 XVI. Procurar que en los juicios en trámite de carácter laboral se llegue a un arreglo conciliatorio, donde deberán participar todas las partes involucradas, establecerse un valor fijo, así como las formas en que se extinguirá dicha obligación, informando al Ayuntamiento del mismo;
 
-XVII. Comparecer por si o a través de representante a las audiencias de conciliación y a las audiencias de los juicios en trámite, bajo pena de responsabilidad en caso de inasistencia a las mismas; y,
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2026)</small>
 
-XVIII. Las demás que le señale la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, las leyes que de estas emanen, esta Ley, sus reglamentos y otras disposiciones del orden municipal.
+XVII. Comparecer por si o a través de representante a las audiencias de conciliación y a las audiencias de los juicios en trámite, bajo pena de responsabilidad en caso de inasistencia a las mismas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE ENERO DE 2026)</small>
+
+XVIII. Atender y asesorar a la ciudadanía sobre mecanismos alternativos de solución de conflictos y canalizar, en su caso, a instancias competentes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE ENERO DE 2026)</small>
+
+XIX. Promover campañas de difusión sobre cultura de paz, legalidad y mecanismos de conciliación municipal; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE ENERO DE 2026)</small>
+
+XX. Las demás que le señale la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, las leyes que de estas emanen, esta Ley, sus reglamentos y otras disposiciones del orden municipal.
 
 ### CAPÍTULO XIV. DE LAS ATRIBUCIONES DE LAS REGIDORAS Y LOS REGIDORES
 
@@ -3696,5 +3710,17 @@ Segundo. Los Municipios que actualmente cuentan con la distinción de pueblos m�
 P.O. 19 DE DICIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 251 POR EL QUE "SE REFORMAN LAS FRACCIONES IX Y X; Y, SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 55 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 9 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 257.- ÚNICO. SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 62 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 9 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 266.- ÚNICO. SE REFORMA EL ARTÍCULO 67 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
