@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-registro-civil-del-estado-de-michoacan-de-3889
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-04-23"
-last_updated: "2025-03-08"
+last_updated: "2026-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DEL REGISTRO CIVIL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el viernes 23 de abril del 2004.
 
@@ -217,7 +217,9 @@ XXVIII. Procurar que los actos del estado civil se inscriban correctamente;
 
 XXIX. Coadyuvar con el Registro Nacional de Población para el establecimiento de procedimientos técnicos, a fin de convalidar recíprocamente la información que se derive de los actos del estado civil de las personas;
 
-XXX. Tramitar la aclaración de las actas del estado civil de las personas, cuando en el registro existan errores mecanográficos u ortográficos que no afecten los datos esenciales;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2026)</small>
+
+XXX. Recibir y tramitar las solicitudes de aclaración de las actas del estado civil de las personas, cuando en el registro existan errores mecanográficos u ortográficos que no afecten los datos esenciales; tanto de las que se presenten en la dirección de la institución o las que le sean remitidas por los Oficiales del Registro Civil, que se presenten en las oficialías;
 
 XXXI. Delegar las funciones de aclaración de las actas del estado civil de las personas en los oficiales, conforme lo establece el Código Civil del Estado, esta Ley, su Reglamento y los procedimientos administrativos que para tal efecto se determinen; y,
 
@@ -241,7 +243,9 @@ I. Ser ciudadano mexicano, tener como mínimo 21 años de edad al momento de su 
 
 II. No haber sido condenado en sentencia ejecutoria por la comisión de delito doloso;
 
-III. Tener preferentemente nivel profesional;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2026)</small>
+
+III. Ser licenciado en derecho, o contar con experiencia comprobable en labores relativas con la práctica jurídica;
 
 IV. No ser ministro de algún culto religioso;
 
@@ -249,9 +253,11 @@ V. No ser militar en servicio activo; y,
 
 VI. Ser de notoria buena conducta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2026)</small>
+
 ###### Artículo 20.
 
-Los oficiales del Registro Civil tendrán las funciones siguientes:
+Las personas oficiales del Registro Civil tendrán las funciones siguientes:
 
 I. Registrar los diferentes actos del estado civil de las personas en su circunscripción;
 
@@ -278,6 +284,10 @@ IX. Instruir e Informar a los contrayentes, antes de celebrar el matrimonio, si 
 X. Inscribir las sentencias ejecutorias que declaren la ausencia, la presunción de muerte, el divorcio judicial, la nulidad de matrimonio, la disolución de la sociedad de convivencia, la tutela, la pérdida o limitación de la capacidad legal para administrar bienes, la adopción y cualesquiera otra resolución que afecte los actos del registro;
 
 XI. Solicitar y obtener oportunamente las formas para inscribir los actos del estado civil de las personas, para la expedición de las certificaciones y el material necesario para el ejercicio de sus funciones;
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2026)</small>
+
+XI Bis. Recibir las solicitudes de aclaración de las actas del estado civil de las personas, cuando en el registro existan errores mecanográficos u ortográficos que no afecten los datos esenciales, con la documentación específica para remitirla a la Dirección del Registro Civil, a fin de que ésta realice el análisis y atención correspondiente;
 
 XII. Vigilar que las formas en que se hayan asentado los actos del estado civil de las personas, no contengan raspaduras, enmendaduras o tachaduras;
 
@@ -318,6 +328,10 @@ XXVIII. Fijar en un lugar visible de las oficialías los requisitos para el asen
 XXIX. Consultar al director en las dudas relacionadas con sus funciones, así como proponer las medidas que permitan mejorar el servicio del Registro Civil;
 
 XXX. Levantar oportunamente las actas de defunción de los fallecimientos reportados por el Ministerio Público o por los Jefes de Tenencia;
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2026)</small>
+
+XXX Bis. Levantar el acta de defunción correspondiente, cuando se trate de cadáveres o restos humanos identificados, identificados no reclamados y no identificados, con independencia de la fecha de fallecimiento que establezca el certificado de defunción que emita el médico legista de la Fiscalía General del Estado de Michoacán. En el acta de defunción a que se refiere este artículo, se escribirá nota marginal que contenga los datos homólogos que establece el Código Familiar, la cual contendrá: datos de la carpeta de investigación como fecha, número de ésta, nombre del Agente del Ministerio Público y la unidad a que pertenece; número de oficio enviado por la Fiscalía General; número de oficio del perfil genético; resumen de los puntos resolutivos de la determinación de la Fiscalía; y la fecha en que se recibió la solicitud en la Oficialía del Registro Civil. Para el caso de restos óseos de personas fallecidas y no reclamadas, deberán anotarse las características que permitan individualizar los restos, así como el perfil genético correspondiente.
 
 XXXI. Abstenerse de celebrar un acto del estado civil conociendo la existencia de algún impedimento, dando vista al Ministerio Público para los efectos procedentes;
 
@@ -590,3 +604,11 @@ SEGUNDO. El Congreso del Estado, tendrá un plazo improrrogable de 180 días há
 TERCERO. Los Ayuntamientos y el Ejecutivo del Estado, deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes para cumplimiento de lo establecido en el presente Decreto en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del mismo.
 
 CUARTO. El Poder Judicial del Estado de Michoacán de Ocampo, deberá realizar las adecuaciones normativas, orgánicas y administrativas conducentes en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del presente Decreto, a efecto de dar cumplimiento a (sic) establecido al mismo, así como a lo establecido en los Lineamientos para Regular el Registro Nacional de Obligaciones Alimentarias.
+
+P.O. 9 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 262.- PRIMERO.- SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFOS, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES AL ARTÍCULO 56 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 118 DEL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- SEGUNDO.- SE REFORMA LA FRACCIÓN XXX DEL ARTÍCULO 16 Y LA FRACCIÓN III DEL ARTÍCULO 19; Y, SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONAN LAS FRACCIONES XI BIS Y XXX BIS AL ARTÍCULO 20, TODOS DE LA LEY ORGÁNICA DEL REGISTRO CIVIL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente a su publicación.
+
+SEGUNDO. Se derogan las disposiciones legales y administrativas en lo que se opongan al presente Decreto.
