@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-municipal-del-estado-de-michoacan-de-ocampo-104
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-25"
-last_updated: "2025-09-08"
+last_updated: "2026-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2026.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el jueves 25 de diciembre de 2014.
 
@@ -65,7 +65,9 @@ I. Autoridad Municipal: Al Presidente Municipal y al Tesorero Municipal de cada 
 
 II. Código Fiscal Municipal: Al Código Fiscal Municipal del Estado de Michoacán de Ocampo; y,
 
-III. Ley de Catastro: A la Ley de Catastro del Estado de Michoacán de Ocampo.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2026)</small>
+
+III. Ley de la Función Registral y Catastral: A la Ley de la Función Registral y Catastral del Estado de Michoacán de Ocampo.
 
 Las disposiciones de la presente Ley son aplicables para los 113 Municipios del Estado de Michoacán de Ocampo.
 
@@ -87,9 +89,11 @@ IMPUESTOS SOBRE LOS INGRESOS
 
 #### SECCIÓN PRIMERA. DEL OBJETO Y DE LOS SUJETOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2026)</small>
+
 ###### ARTÍCULO 5.
 
-Es objeto del impuesto sobre Espectáculos Públicos, el ingreso que obtengan las personas físicas y las morales que celebren espectáculos públicos de: teatro, conciertos culturales, circo, lucha libre, corridas de toros, bailes públicos, eventos deportivos, espectáculos con variedad, audiciones musicales populares, torneos de gallos, carreras de caballos, jaripeos, exhibiciones de cualesquiera naturaleza y cualquier otro evento no especificado a los que se condicione el acceso al público mediante el pago de cuotas de admisión.
+Es objeto del impuesto sobre Espectáculos Públicos, el ingreso que obtengan las personas físicas y las morales que celebren espectáculos públicos de: teatro, conciertos culturales, circo, lucha libre, bailes públicos, eventos deportivos, espectáculos con variedad, audiciones musicales populares, carreras de caballos, jaripeos, exhibiciones de cualesquiera naturaleza; y cualquier otro evento no especificado a los que se condicione el acceso al público mediante el pago de cuotas de admisión, siempre y cuando no se oponga a cualquier disposición federal o estatal.
 
 Se exceptúa de lo dispuesto en el párrafo anterior, el ingreso que se obtenga por el acceso a ferias y exposiciones que realice el Gobierno del Estado y el de los Municipios.
 
@@ -285,21 +289,29 @@ La base del impuesto predial tanto de predios urbanos como rústicos será el va
 
 I. La base de este impuesto podrá modificarse por:
 
-A) El valor determinado mediante avalúo practicado por la Secretaría de Finanzas y Administración o la Autoridad Municipal correspondiente en los términos de la Ley de Catastro y su Reglamento; y,
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2026)</small>
+
+A) El valor determinado mediante avalúo practicado por la Secretaría de Finanzas y Administración a través del Instituto Registral y Catastral del Estado de Michoacán de Ocampo, o la Autoridad Municipal correspondiente en los términos de la Ley de la Función Registral y Catastral y su Reglamento; y,
 
 B) El valor determinado para efectos del impuesto sobre Adquisición de Inmuebles, en los términos del artículo 53 de esta Ley.
 
 No obstante lo establecido en el párrafo anterior, en los casos de adquisición por causa de muerte, de la nuda propiedad, del usufructo y de parte de los derechos de propiedad de un inmueble, no se tomarán en cuenta dichos valores, sino el de avalúo practicado por la Secretaría de Finanzas y Administración.
 
-II. Cuando surjan nuevos predios con motivo de la constitución de condominios, conjuntos habitacionales, fraccionamientos o subdivisiones, la base de este impuesto se determinará por la Secretaría de Finanzas y Administración, mediante avalúos que practique conforme a lo dispuesto por la Ley de Catastro, a partir de la autorización expedida por autoridad competente. Tratándose de condominios, los avalúos se practicarán a partir de la fecha en que se haya autorizado preventivamente la escritura de constitución correspondiente.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ENERO DE 2026)</small>
 
-Los valores que mediante avalúos determine la Secretaría de Finanzas y Administración o la Autoridad Municipal respectiva, surtirán efectos a partir del bimestre siguiente, a aquel en que se notifiquen los avalúos. El valor a que se refiere el inciso B) de la fracción I de este artículo, surtirá efectos a partir del bimestre siguiente, a partir de las fechas a que se refieren las fracciones I a III del artículo 57 de esta Ley. Ambos valores tendrán vigencia hasta el 31 de diciembre del año siguiente, a partir de la fecha de notificación de los avalúos y de las fechas señaladas en dichas fracciones del artículo 57 de esta Ley.
+II. Cuando surjan nuevos predios con motivo de la constitución de condominios, conjuntos habitacionales, fraccionamientos o subdivisiones, la base de este impuesto se determinará por la Secretaría de Finanzas y Administración, mediante avalúos que practique conforme a lo dispuesto por la Ley de la Función Registral y Catastral, a partir de la autorización expedida por autoridad competente. Tratándose de condominios, los avalúos se practicarán a partir de la fecha en que se haya autorizado preventivamente la escritura de constitución correspondiente.
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2026)</small>
+
+Los valores que mediante avalúos determine la Secretaría de Finanzas y Administración a través del Instituto Registral y Catastral o la Autoridad Municipal respectiva, surtirán efectos a partir del bimestre siguiente, a aquel en que se notifiquen los avalúos. El valor a que se refiere el inciso B) de la fracción I de este artículo, surtirá efectos a partir del bimestre siguiente, a partir de las fechas a que se refieren las fracciones I a III del artículo 57 de esta Ley. Ambos valores tendrán vigencia hasta el 31 de diciembre del año siguiente, a partir de la fecha de notificación de los avalúos y de las fechas señaladas en dichas fracciones del artículo 57 de esta Ley.
 
 La base de este impuesto que se determine conforme al artículo 21 de esta Ley, tendrá vigencia de un año.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2026)</small>
+
 ###### ARTÍCULO 21.
 
-Independientemente del valor que se considere como base de este impuesto en los términos del artículo anterior, ésta se incrementará cada año, sin que ello constituya revaluación de los predios en los términos de la Ley de Catastro, y sin necesidad de que estos nuevos valores sean notificados a los contribuyentes para que tengan plena validez, en la forma siguiente:
+Independientemente del valor que se considere como base de este impuesto en los términos del artículo anterior, ésta se incrementará cada año, sin que ello constituya revaluación de los predios en los términos de la Ley de la Función Registral y Catastral, y sin necesidad de que estos nuevos valores sean notificados a los contribuyentes para que tengan plena validez, en la forma siguiente:
 
 A lo que resulte de multiplicar la base vigente en el año inmediato anterior, por el factor que se obtenga de dividir el Índice Nacional de Precios al Consumidor correspondiente al mes de noviembre de dicho año, entre el Índice Nacional de Precios al Consumidor del mes de noviembre del año precedente al inmediato anterior, que publique la autoridad federal correspondiente.
 
@@ -307,9 +319,11 @@ El resultado de la operación anterior se ajustará a la unidad monetaria más p
 
 Se exime de la actualización a que se refiere el presente artículo, a los predios cuyos propietarios se les haya notificado avalúo técnico o hayan sido objeto de transmisión de dominio durante el ejercicio inmediato anterior.
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2026)</small>
+
 ###### ARTÍCULO 22.
 
-En los casos en que no sea posible determinar el valor catastral de los predios, se estará a lo dispuesto por la Ley de Catastro.
+En los casos en que no sea posible determinar el valor catastral de los predios, se estará a lo dispuesto por la Ley de la Función Registral y Catastral.
 
 #### SECCIÓN CUARTA. DE LA TASA
 
@@ -345,9 +359,11 @@ VI. Los predios que se destinen totalmente en la instalación de nuevas industri
 
 Cuando por cualquier causa se cambie el uso del predio a propósito distinto del señalado en el párrafo anterior, se dejará de causar la cuota mínima anual y se aplicará lo dispuesto en el primer párrafo de este artículo.
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2026)</small>
+
 ###### ARTÍCULO 24.
 
-Las tasas del impuesto Predial se modificarán cuando se realice alguna de las causas que establece la Ley de Catastro para practicar nuevo avalúo.
+Las tasas del impuesto Predial se modificarán cuando se realice alguna de las causas que establece la Ley de la Función Registral y Catastral para practicar nuevo avalúo.
 
 #### SECCIÓN QUINTA. DEL PAGO
 
@@ -393,11 +409,13 @@ Las constancias de no adeudo que se expidan a los Notarios Públicos, tendrán v
 
 Los notarios deberán dar aviso a la Tesorería Municipal correspondiente, cuando los predios de que se trate, reporten adeudos fiscales por conceptos distintos de este impuesto.
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2026)</small>
+
 ###### ARTÍCULO 32.
 
-Tratándose de predios no registrados en el Catastro del Estado, de construcciones nuevas, ampliaciones o modificaciones a las construcciones existentes, así como la fusión o división de predios, no manifestados a la Secretaría de Finanzas y Administración o a la Autoridad Municipal correspondiente en los términos de la Ley de Catastro y que sean manifestados espontáneamente, se pagará el impuesto que corresponda con base en el avalúo practicado por la Secretaría de Finanzas y Administración o la Autoridad Municipal correspondiente, a partir del bimestre siguiente a la fecha de su notificación, más el que debió haberse efectuado durante el año inmediato anterior.
+Tratándose de predios no registrados en el Catastro del Estado, de construcciones nuevas, ampliaciones o modificaciones a las construcciones existentes, así como la fusión o división de predios, no manifestados a la Secretaría de Finanzas y Administración o a la Autoridad Municipal correspondiente en los términos de la Ley de la Función Registral y Catastral y que sean manifestados espontáneamente, se pagará el impuesto que corresponda con base en el avalúo practicado por la Secretaría de Finanzas y Administración o la Autoridad Municipal correspondiente, a partir del bimestre siguiente a la fecha de su notificación, más el que debió haberse efectuado durante el año inmediato anterior.
 
-Cuando los hechos sean descubiertos por la autoridad catastral, se pagará el impuesto correspondiente a partir del siguiente bimestre a la fecha de notificación del avalúo, más el correspondiente a los cinco años anteriores, salvo que el sujeto pruebe que tales hechos o actos datan de fecha posterior, sin perjuicio de las sanciones previstas en la Ley de Catastro.
+Cuando los hechos sean descubiertos por la autoridad catastral, se pagará el impuesto correspondiente a partir del siguiente bimestre a la fecha de notificación del avalúo, más el correspondiente a los cinco años anteriores, salvo que el sujeto pruebe que tales hechos o actos datan de fecha posterior, sin perjuicio de las sanciones previstas en la Ley de la Función Registral y Catastral.
 
 ###### ARTÍCULO 33.
 
@@ -411,9 +429,11 @@ Están exentos del pago de este impuesto, los bienes inmuebles del dominio públ
 
 #### SECCIÓN SÉPTIMA. DE LAS DEFINICIONES
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2026)</small>
+
 ###### ARTÍCULO 35.
 
-Para los efectos de este impuesto, se estará a las definiciones previstas en el Capítulo Primero de la Ley de Catastro.
+Para los efectos de este impuesto, se estará a las definiciones previstas en el Capítulo Primero de la Ley de la Función Registral y Catastral.
 
 #### SECCIÓN OCTAVA. DE LAS OBLIGACIONES, MANIFESTACIONES Y AVISOS
 
@@ -581,11 +601,11 @@ IV. Los peritos valuadores autorizados que no apliquen correctamente en la valua
 
 #### SECCIÓN TERCERA. DE LA BASE
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2026)</small>
 
 ###### ARTÍCULO 53.
 
-La base gravable de este impuesto sobre Adquisición de Inmuebles, será el que resulte más alto entre el valor de adquisición y el valor catastral determinado en los términos de la Ley de Catastro. En caso de que el valor catastral a que se refiere la fracción II de este artículo resulte el mayor para los efectos de este artículo, dicho valor será ratificado o rectificado por el Instituto Registral y Catastral del Estado de Michoacán de Ocampo, o por la Autoridad Municipal correspondiente, en los términos de dicha Ley de Catastro, dentro de los cuatro meses siguientes contados a partir de la fecha de la presentación del aviso del acto administrativo de dominio.
+La base gravable de este impuesto sobre Adquisición de Inmuebles, será el que resulte más alto entre el valor de adquisición y el valor catastral determinado en los términos de la Ley de la Función Registral y Catastral. En caso de que el valor catastral resulte el mayor para los efectos de este artículo, dicho valor será ratificado o rectificado por el Instituto Registral y Catastral del Estado de Michoacán de Ocampo, o por la Autoridad Municipal correspondiente, en los términos de dicha ley, dentro de los cuatro meses siguientes contados a partir de la fecha de la presentación del aviso del acto administrativo de dominio.
 
 Para los efectos de este impuesto, se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos, del 50% del valor de la propiedad, determinado conforme al párrafo anterior; asimismo, el valor de los derechos de copropiedad será equivalente al valor proporcional del inmueble de que se trate.
 
@@ -621,11 +641,11 @@ V. No se considerarán departamentos habitacionales, los que por sus caracterís
 
 VI. Para el caso de adquisición de inmuebles construidos que tengan distintos usos, las reducciones que le correspondan conforme al artículo 53 de esta Ley, serán aplicadas proporcionalmente, dicha proporción será determinada en función del valor del inmueble que tenga cada parte con distinto uso, respecto del valor total del predio determinado en el avalúo que se presenta anexo al aviso de adquisición de inmuebles.
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2026)</small>
+
 ###### ARTÍCULO 55.
 
-Para los efectos del impuesto sobre Adquisición de Inmuebles, el avalúo que practique perito autorizado a que se refiere el artículo 53 de esta Ley, deberá elaborarse considerando los valores unitarios vigentes a la fecha a que se refiere el artículo 57 de esta Ley, excepto cuando la adquisición del bien provenga por causa de muerte, en cuyo caso se aplicarán los valores vigentes en la fecha del fallecimiento del autor de la herencia.
-
-Dichos avalúos deberán comprender los valores tanto del terreno como de las construcciones y demás accesorios que tuvieren en su caso, los que por ningún motivo serán inferiores a los que se refiere la Ley de Catastro.
+Para los efectos del impuesto sobre Adquisición de Inmuebles, el avalúo que practique perito autorizado a que se refiere el artículo 53 de esta Ley, deberá elaborarse considerando los valores unitarios vigentes a la fecha a que se refiere el artículo 57 de esta Ley, excepto cuando la adquisición del bien provenga por causa de muerte, en cuyo caso se aplicarán los valores vigentes en la fecha del fallecimiento del autor de la herencia. Dichos avalúos deberán comprender los valores tanto del terreno como de las construcciones y demás accesorios que tuvieren en su caso, los que por ningún motivo serán inferiores a los que se refiere la Ley de la Función Registral y Catastral.
 
 #### SECCIÓN CUARTA. DE LAS DECLARACIONES Y PAGO DEL IMPUESTO
 
@@ -661,15 +681,19 @@ En los casos en que la transmisión de la propiedad se opere como consecuencia d
 
 A la declaración deberán anexarse, además de los documentos señalados en los párrafos anteriores, en sus respectivos casos, el certificado de registro catastral y la constancia de que el propietario del inmueble, objeto de la transmisión de dominio, no tiene ningún adeudo en relación con el propio inmueble, expedidos por la autoridad competente; excepto tratándose de bienes inmuebles que provengan del patrimonio de la Federación, los Estados, Municipios o de sus institutos de vivienda.
 
-La manifestación de terminación de la obra a que se refiere el artículo 81 de la Ley de Catastro.
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2026)</small>
+
+La manifestación de terminación de la obra a que se refiere el artículo 81 de la Ley de la Función Registral y Catastral.
 
 Asimismo deberá anexarse a la declaración, el avalúo practicado por la Secretaría de Finanzas y Administración o por la Autoridad Municipal correspondiente, o por perito autorizado.
 
 Cuando lo estime necesario, la Tesorería Municipal correspondiente podrá solicitar de los notarios públicos o de los declarantes, que le proporcionen una copia autorizada de la escritura en que se hubiera hecho constar la transmisión de dominio de que se trate.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2026)</small>
+
 ###### ARTÍCULO 57.
 
-Las declaraciones a que se refiere el artículo anterior, se presentarán en las formas oficiales aprobadas para efectos del artículo 34 de la Ley de Catastro, dentro del plazo de quince días hábiles naturales contados a partir de:
+Las declaraciones a que se refiere el artículo anterior, se presentarán en las formas oficiales aprobadas para efectos del artículo 82 de la Ley de la Función Registral y Catastral, dentro del plazo de quince días hábiles naturales contados a partir de:
 
 I. La fecha de firma de la escritura pública o privada por los otorgantes o representantes legales, los testigos e intérpretes si los hubiere;
 
@@ -703,13 +727,17 @@ Los fedatarios públicos no podrán autorizar definitivamente, ninguna escritura
 
 En los testimonios que los fedatarios expidan, de escrituras públicas o privadas, relativas a actos o contratos transmitivos de dominio, deberán hacer constar el número de recibo oficial del pago del impuesto sobre Adquisición de Inmuebles, así como el importe del mismo y la fecha de su expedición.
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2026)</small>
+
 ###### ARTÍCULO 62.
 
-En el Registro Público de la Propiedad y del Comercio, no se inscribirá ningún acto, contrato o documento transmitivo de dominio de bienes inmuebles, mientras no sea autorizado para su registro por la Secretaría de Finanzas y Administración del Estado, a través de la Dirección de Catastro.
+En el Registro Público de la Propiedad y del Comercio, no se inscribirá ningún acto, contrato o documento transmitivo de dominio de bienes inmuebles, mientras no sea autorizado para su registro por la Secretaría de Finanzas y Administración del Estado, a través del Instituto Registral y Catastral del Estado de Michoacán de Ocampo.
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2026)</small>
 
 ###### ARTÍCULO 63.
 
-Para los efectos de rectificación en su caso, del valor de operación que se consigne en el testimonio en que se haga constar el acto transmitivo de dominio o el de avalúo que determina perito autorizado, la Secretaría de Finanzas y Administración o la Autoridad Municipal respectiva, estará facultada para llevar a cabo la valuación de los predios en los términos de la Ley de Catastro, y determinar las diferencias que resulten de este impuesto dentro de los cuatro meses siguientes a la fecha de presentación del aviso correspondiente. El monto de las diferencias que se determinen se hará efectivo por la Tesorería Municipal correspondiente.
+Para los efectos de rectificación en su caso, del valor de operación que se consigne en el testimonio en que se haga constar el acto transmitivo de dominio o el de avalúo que determina perito autorizado, la Secretaría de Finanzas y Administración o la Autoridad Municipal respectiva, estará facultada para llevar a cabo la valuación de los predios en los términos de la Ley de la Función Registral y Catastral, y determinar las diferencias que resulten de este impuesto dentro de los cuatro meses siguientes a la fecha de presentación del aviso correspondiente. El monto de las diferencias que se determinen se hará efectivo por la Tesorería Municipal correspondiente.
 
 #### SECCIÓN SÉPTIMA. DE LAS INFRACCIONES Y SANCIONES
 
@@ -1235,9 +1263,11 @@ Las infracciones al presente Capítulo se sancionarán conforme a lo dispuesto p
 
 #### SECCIÓN PRIMERA. DEL OBJETO
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2026)</small>
+
 ###### ARTÍCULO 136.
 
-Son objeto de los Derechos a que se refiere este Capítulo, los servicios que se causen por la prestación de los servicios de catastro, conforme a lo dispuesto por la Ley de Catastro, y aquellos que señalen las Leyes de Ingresos de los Municipios del Estado de Michoacán de Ocampo.
+Son objeto de los Derechos a que se refiere este Capítulo, los servicios que se causen por la prestación de los servicios de catastro, conforme a lo dispuesto por la Ley de la Función Registral y Catastral, y aquellos que señalen las Leyes de Ingresos de los Municipios del Estado de Michoacán de Ocampo.
 
 #### SECCIÓN SEGUNDA. DEL PAGO DEL DERECHO
 
@@ -2161,13 +2191,13 @@ Dese cuenta el presente Decreto al Titular de la Secretaría de Finanzas y Admin
 
 Dese cuenta el presente Decreto a los 113 Municipios del Estado de Michoacán de Ocampo, para los efectos conducentes.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 0618.- SE REFORMA EL ARTÍCULO 2248, DEL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+P.O. 9 DE ENERO DE 2026.
 
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 255.- ARTÍCULO PRIMERO.- SE REFORMAN LOS ARTÍCULOS 2 FRACCIÓN III, 5 PRIMER PÁRRAFO, 20 FRACCIÓN I, INCISO A), FRACCIÓN II PRIMER Y SEGUNDO PÁRRAFOS, 21 PRIMER PÁRRAFO, 22, 24, 32, 35, 53 PRIMER PÁRRAFO, 55, 56 SÉPTIMO PÁRRAFO, 57 PRIMER PÁRRAFO, 62, 63 Y 136 DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMA EL ARTÍCULO 5 FRACCIÓN V DE LA LEY DE LA FUNCIÓN REGISTRAL Y CATASTRAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
-P.O. 17 DE MARZO DE 2020.
+Segundo. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado y a los 113 municipios del Estado, para sus efectos conducentes.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0632.- SE REFORMA, EL ARTÍCULO 1438 EN SU FRACCIÓN I, EN EL TÍTULO CUARTO LA DENOMINACIÓN DEL CAPÍTULO VI, Y EL ARTÍCULO 1471, DEL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
