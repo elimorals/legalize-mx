@@ -4,7 +4,7 @@ identifier: "MIC-ley-por-una-vida-libre-de-violencia-para-las-mujeres-en-el-9537
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-09"
-last_updated: "2025-08-28"
+last_updated: "2026-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2026.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 9 de agosto de 2013.
 
@@ -167,7 +167,9 @@ XXIV. Transversalidad de la Perspectiva de Género: Es el proceso que permite ga
 
 XXV. Víctima: La mujer de cualquier edad a quien se le inflige cualquier tipo de violencia;
 
-XXVI. Violencia contra las Mujeres: Cualquier acción u omisión que, en razón del género, cause a las mujeres daño o sufrimiento psicológico, físico, patrimonial, económico, sexual, o incluso, la muerte, tanto en el ámbito privado como en el público, que se expresa en amenazas, agravios, maltrato, lesiones y daños asociados a la exclusión, subordinación, discriminación, explotación y opresión de género en cualquiera de sus modalidades, afectando sus derechos humanos; y,
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2026)</small>
+
+XXVI. Violencia contra las Mujeres: Cualquier acción u omisión que, en razón de género, cause a las mujeres, adolescentes y niñas daño o sufrimiento psicológico, físico, patrimonial, económico, obstétrico, sexual y reproductivo o incluso, la muerte, tanto en el ámbito privado como en el público, que se expresa en amenazas, agravios, maltrato, lesiones y daños asociados a la exclusión, subordinación, discriminación, explotación y opresión de género en cualquiera de sus modalidades, afectando sus derechos humanos;
 
 XXVII. Violencia Feminicida: Es la forma extrema de violencia contra las mujeres por razones de género, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social del Estado y puede culminar en homicidio y otras formas de muerte violenta de mujeres.
 
@@ -253,6 +255,30 @@ II. Violencia física: Cualquier acto u omisión, en que se utiliza parte del cu
 
 III. Violencia sexual: Cualquier acción, mediante la violencia física o psicológica que genera daño y limita o condiciona el ejercicio de la sexualidad, independientemente de que constituya un ilícito previsto y sancionado por las leyes penales; el acoso sexual es parte de la violencia sexual, independientemente de la modalidad en que se manifieste;
 
+> <small>(ADICIONADA [N. DE E. CON SUS FRACCIONES], P.O. 9 DE ENERO DE 2026)</small>
+
+III Bis. Violencia obstétrica: Toda acción u omisión realizada por el personal de salud en el ámbito público o privado, que tenga por objeto la apropiación del cuerpo y procesos reproductivos de las mujeres o personas gestantes; se asocia al maltrato físico o psicológico y se expresa por un trato deshumanizador o denigrante, procedimientos innecesarios, negligencia, discriminación, abuso de medicación y patologización de los procesos naturales, trayendo consigo la pérdida de la autonomía y capacidad de decidir de manera libre e informada sobre sus cuerpos y sexualidad;
+
+Puede expresarse, entre otras, a través de las siguientes conductas:
+
+I. No atender de manera oportuna y eficaz el embarazo, parto, puerperio o emergencias obstétricas;
+
+II. Inducir u obligar a la mujer a parir en condiciones ajenas a su voluntad o en forma distinta a la que sea propia de sus usos, costumbres y tradiciones obstétricas, aun cuando existan los medios necesarios para la realización del parto vertical;
+
+III. Alterar el proceso natural del parto de bajo riesgo, mediante el uso de técnicas de aceleración, sin obtener el consentimiento voluntario, expreso e informado de la mujer;
+
+IV. Realizar cesáreas injustificadas, existiendo las condiciones para realizar un parto natural, sin el consentimiento voluntario, expreso e informado de la mujer;
+
+V. Omitir o negar información u obstaculizar sin causa médica justificada el apego precoz de la madre con su hija o hijo, negando la posibilidad de cargarlo y amamantarlo inmediatamente después de nacer;
+
+VI. Coaccionar o imponer el uso de métodos anticonceptivos o esterilización forzada sin el consentimiento voluntario, culturalmente adecuado, expreso o informado de la mujer;
+
+VII. Cualquier forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de la mujer.
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2026)</small>
+
+III Ter. Violencia contra los derechos reproductivos: Toda acción u omisión que limite o vulnere el derecho de las mujeres a decidir libre y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, a una maternidad elegida y segura, así como el acceso a servicios de aborto seguro en el marco previsto por los ordenamientos relativos para la interrupción legal del embarazo, así como a servicios de atención prenatal y obstétricos de emergencia;
+
 IV. Violencia patrimonial: Cualquier acción u omisión encaminada a la sustracción, destrucción, retención de objetos, alteración de valores, documentos personales o bienes de las mujeres o de su entorno familiar, que limitan o dañan la supervivencia económica, independientemente del valor material o emocional, asociado a estos;
 
 V. Violencia económica: Cualquier acción limitativa y de control de los ingresos propios, adquiridos o asignados a las mujeres, para lesionar su independencia y supervivencia económica;
@@ -269,15 +295,17 @@ Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta L
 
 VII. Violencia simbólica: Aquella que, a través de patrones estereotipados, mensajes, iconos o signos transmita y reproduzca dominación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad;
 
-> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2026)</small>
 
-VII. Bis. Violencia Mediática: Es todo acto a través de cualquier medio de comunicación que, de manera directa o indirecta promueva estereotipos sexistas, haga apología de la violencia contra las mujeres y las niñas, produzca o permita la producción y difusión de discurso de odio sexista, discriminación de género o desigualdad entre mujeres y hombres, que cause daño a las mujeres y niñas de tipo psicológico, sexual, físico, económico, patrimonial o feminicida.
+VII. Bis. Violencia mediática: Es todo acto a través de cualquier medio de comunicación que, de manera directa o indirecta promueva estereotipos sexistas, haga apología de la violencia contra las mujeres y las niñas, produzca o permita la producción y difusión de discurso de odio sexista, discriminación de género o desigualdad entre mujeres y hombres, que cause daño a las mujeres y niñas de tipo psicológico, sexual, físico, económico, patrimonial o feminicida.
 
-La violencia mediática se ejerce por cualquier persona física o moral que utilice un medio de comunicación para reproducir y difundir contenidos que atenten contra la autoestima, salud, integridad, libertad, y seguridad de las mujeres y niñas, que impide su libre desarrollo y que atenta contra la igualdad;
+Se considerará violencia mediática todo acto u omisión, ejercido por cualquier persona física o moral, de manera directa o indirecta, en contra de mujeres, adolescentes o niñas que, a través de algún medio de comunicación produzca, altere o difunda contenidos o información, que tenga por objeto impedir o limitar su libre desarrollo, promoviendo estereotipos de género, discursos de odio o discriminación, que constituyan cualquier tipo o modalidad de violencia por razón de género que además, causen daño a su proyecto de vida, o a sus familias;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2026)</small>
 
-VIII. Violencia Digital. Es cualquier acto que se presenta a través de las tecnologías de la información y la comunicación, plataformas de internet, redes sociales o correo electrónico, o cualquier otro espacio digitalizado que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño o sufrimiento psicológico, físico, económico o sexual tanto en el ámbito privado como en el público; así como, daño moral a ellas y a su familia. Se manifiesta mediante el acoso, hostigamiento, amenazas, insultos, divulgación de información apócrifa, mensajes de odio, difusión sin consentimiento de contenido íntimo, textos, fotografías, videos y/o datos personales u otras impresiones gráficas o sonoras verdaderas o alteradas;
+VIII. Violencia digital: Es cualquier acto u omisión en contra de mujeres, adolescentes o niñas, realizado mediante el uso de tecnologías de la información, la comunicación, plataformas de internet, redes sociales, correo electrónico, inteligencia artificial o cualquier otro espacio digital, que sustraiga, manipule, exponga, distribuya, difunda, exhiba, transmita, comercialice, oferte, intercambie o comparta datos personales, imágenes, audios, videos u otras impresiones gráficas o sonoras, reales, alterados o simulados de contenido privado, íntimo o sexual sin su consentimiento o autorización, que constituyan cualquier tipo o modalidad de violencia por razón de género; que además, causen daño a su proyecto de vida o a sus familias.
+
+También se considerará violencia digital la usurpación de identidad personal, la creación de perfiles falsos y la difusión de campañas de desprestigio.
 
 > <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
 
@@ -311,9 +339,13 @@ X. Violencia contra las mujeres periodistas y defensoras de derechos humanos. Es
 
 XI. Violencia en el noviazgo: Cualquier acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir a las mujeres, mediante la realización de uno o varios tipos de violencia, durante o después de una relación de noviazgo, una relación afectiva o una relación sexual, y que viola sus derechos humanos; y,
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE ENERO DE 2026)</small>
 
-XII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad, la salud y la libertad de las mujeres.
+XII. Violencia por acecho: Cualquier conducta reiterada, sistemática o persistente, sin consentimiento y no deseada, ya sea presencial o a través de medios digitales o tecnológicos que, implique vigilancia, seguimiento, envío de mensajes, objetos o cualquier forma de contacto, comunicación o intrusión en la vida de mujeres, adolescentes o niñas; realizada en dos o más ocasiones, que le cause miedo, angustia, cualquier afectación emocional o alteración de su vida cotidiana; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE ENERO DE 2026)</small>
+
+XIII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad, la salud y la libertad de las mujeres.
 
 > <small>(ADICIONADO, P.O. 7 DE JULIO DE 2020)</small>
 
@@ -332,6 +364,22 @@ V. Proporcionar información incompleta o datos falsos a las autoridades adminis
 VI. Proporcionar a las mujeres que ocupan un cargo de elección popular, información falsa, incompleta o imprecisa, para impedir que induzca al incorrecto ejercicio de sus atribuciones; u,
 
 VII. Obstaculizar la campaña de modo que se impida que la competencia electoral se desarrolle en condiciones de igualdad.
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2026)</small>
+
+VIII. Producir, difundir y promover información, de manera directa o indirecta a través de medios digitales o impresos, que esté orientada a desacreditar la imagen, suplantar identidades o influir de manera negativa en la opinión pública;
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2026)</small>
+
+IX. Alterar y propagar imágenes o audios generados o modificados mediante inteligencia artificial.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2026)</small>
+
+ARTÍCULO 9 TER. Tratándose de violencia digital o mediática para garantizar la integridad de la víctima, la o el Ministerio Público, la jueza o el juez, deberán aplicar, con un deber reforzado en la debida diligencia, las medidas cautelares para resguardar la identidad de las víctimas, evitar que sigan circulando las imágenes, videos o audios, conforme a la normatividad procesal nacional en la materia, los estándares internacionales, protocolos y demás manuales de buenas prácticas. De lo contrario, su omisión será considerada falta administrativa grave.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2026)</small>
+
+ARTÍCULO 9 QUATER. La recopilación y divulgación indebida de datos personales será reconocido como una forma de violencia digital, comprendiendo todas aquellas acciones ejecutadas directa e indirectamente, la creación de perfiles falsos en las redes sociales, la difusión de campañas de desprestigio, la sustracción y manipulación de datos personales, la usurpación de identidad de una persona, realizado por tecnologías de la información, plataformas digitales, redes sociales e inteligencia artificial.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 18 DE FEBRERO DE 2022)</small>
 
@@ -407,6 +455,10 @@ VI. Implementar sanciones administrativas para los superiores jerárquicos del h
 
 Es violencia institucional, el conjunto de acciones, prácticas u omisiones de servidores públicos, que prolonguen, obstaculicen o impidan que las mujeres accedan a los medios, al goce de sus derechos y a las políticas públicas necesarias para su desarrollo y destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia. Se equipara violencia institucional, la negativa o dilación en el otorgamiento y tramitación de las órdenes de protección, así como su debido seguimiento y registro que prevé la presente Ley.
 
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2026)</small>
+
+ARTÍCULO 13 BIS. Acoso sexual en espacios públicos: Es una forma de violencia que conlleva un abuso de poder respecto de la víctima, sin que medie relación alguna con la persona agresora. Se manifiesta a través de una conducta física; verbal, o mediante el uso de tecnologías de la información y la comunicación, de connotación sexual no consentida ejercida sobre una o varias mujeres, adolescentes y niñas, en espacios y medios de transporte públicos, cuya acción representa una vulneración a los derechos humanos.
+
 ### CAPÍTULO III. POLÍTICAS CONTRA LA VIOLENCIA A LAS MUJERES
 
 ###### ARTÍCULO 14.
@@ -433,11 +485,11 @@ V. Garantizar la instalación y el mantenimiento de refugios para las víctimas 
 
 VI. Establecer en coordinación con la Comisión Ejecutiva Estatal de Atención a Víctimas, los servicios de apoyo psicológico y jurídico, y en aquellos casos que lo requieran apoyo económico o canalización para educación, alimentación y servicios médicos de las niñas, niños y adolescentes que hayan quedado en situación de orfandad como consecuencia del delito de feminicidio.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2026)</small>
 
 ###### ARTÍCULO 15.
 
-Las autoridades responsables de la aplicación de esta Ley, estarán obligadas a elaborar acciones y políticas públicas que integren:
+Las autoridades responsables de la aplicación de esta Ley estarán obligadas a elaborar acciones y políticas públicas que integren:
 
 > <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
 
@@ -454,6 +506,10 @@ III. En materia de violencia política contra las mujeres en razón de género, 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
 IV. En materia de violencia contra las mujeres periodistas y defensoras de derechos humanos se deberán generar los mecanismos idóneos de prevención y atención de la violencia que viven estos grupos poblacionales, en el entendido del riesgo que corren al desarrollar su actividad. Entre estos mecanismos se deberán de elaborar protocolos específicos de atención a la violencia que viven en el ejercicio de su labor, ponderando el nivel de riesgo en el que se encuentran, así como protocolos desde la perspectiva de género de acoso y hostigamiento sexual, así como el mecanismo claro para la generación de sus denuncias.
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2026)</small>
+
+V. En materia de violencia obstétrica, se deberán desarrollar y aplicar acciones y programas que fomenten la atención integral, en un ámbito de dignidad y respeto hacia las mujeres y personas gestantes durante el embarazo, parto, puerperio o en emergencias obstétricas, así como el acceso de las mujeres a decidir de manera libre, responsable e informada el número y espaciamiento de hijos y, en su caso, los métodos anticonceptivos que deseen utilizar; de igual forma se instrumentarán políticas transversales para la prevención, sanción y erradicación de la violencia obstétrica.
 
 ###### ARTÍCULO 16.
 
@@ -725,9 +781,9 @@ Corresponde a la persona titular de la Secretaría de Salud desempeñar las sigu
 
 I. Diseñar la política de salud para la prevención, atención y erradicación de la violencia contra las mujeres en el marco del Programa Estatal con perspectiva de género;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2026)</small>
 
-II. Favorecer la prevención de la violencia contra las mujeres en sus diferentes modalidades, en especial la violencia contra la salud, así como la violencia familiar y sexual con un enfoque en salud pública;
+II. Favorecer la prevención de la violencia contra las mujeres en sus diferentes modalidades, en especial la violencia contra la salud, violencia obstétrica, violencia familiar y sexual, violencia contra los derechos reproductivos, y demás tendientes a prevenir cualquier tipo de violencia por razones de género, con un enfoque en salud pública;
 
 III. Proporcionar atención médica y psicológica con perspectiva de género a las mujeres víctimas de violencia y a los agresores, por medio de las instituciones del sector salud estatal de manera integral y multidisciplinaria;
 
@@ -1584,3 +1640,17 @@ P.O. 28 DE AGOSTO DE 2025.
 PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+P.O. 9 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 259 POR EL QUE "SE REFORMA LA FRACCIÓN XXVI DEL ARTÍCULO 6; SE ADICIONA LA FRACCIÓN III BIS Y III TER AL ARTÍCULO 9°, ASÍ COMO LA FRACCIÓN V AL ARTÍCULO 15; Y SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 32, A LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+P.O. 9 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 260.- ARTÍCULO PRIMERO.- SE REFORMAN LAS FRACCIONES VII BIS, VIII Y XII DEL ARTÍCULO 9; Y, SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 9, LAS FRACCIONES VIII Y IX AL ARTÍCULO 9 BIS Y LOS ARTÍCULOS 9 TER, 9 QUÁTER Y 13 BIS, TODOS DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO DÉCIMO TERCERO Y LOS ARTÍCULOS 169 BIS, 195 Y 195 BIS; Y, SE ADICIONAN LOS ARTÍCULOS 169 TER, 169 QUATER Y 193 BIS, ASÍ COMO EL CAPÍTULO V AL TÍTULO QUINTO CON EL ARTÍCULO 170 BIS, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
