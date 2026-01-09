@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-de-ocampo-101607"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-29"
-last_updated: "2025-08-28"
+last_updated: "2026-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2026.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el domingo 29 de junio de 2014.
 
@@ -2585,7 +2585,17 @@ III. Las cantidades que, en su caso, se determinen para cada partido, serán ent
 
 IV. Cada partido político deberá destinar anualmente por lo menos el dos por ciento del financiamiento público que reciba para el desarrollo de las actividades específicas, a que se refiere el inciso c) de este artículo;
 
-V. Para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres cada partido político deberá destinar anualmente, el tres por ciento del financiamiento público ordinario.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2026)</small>
+
+V. Para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, por lo menos el ocho por ciento del financiamiento público ordinario. El Instituto Electoral de Michoacán emitirá lineamientos para asegurar la aplicación efectiva transparente de estos recursos, así como para evaluar su impacto.
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2026)</small>
+
+VI. Deberán destinar al menos el cinco por ciento (5%) del rubro de actividades específicas del financiamiento público anual ordinario que reciban, para la capacitación, formación política y empoderamiento de personas pertenecientes a las comunidades LGBTTTIQ+ incluyendo acciones afirmativas para su participación efectiva en procesos electorales y de toma de decisiones.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VI, P.O. 9 DE ENERO DE 2026]</small>
+
+Estas actividades deberán registrarse ante la autoridad electoral competente, quien será responsable de verificar el cumplimiento de esta disposición y se deberá garantizar su impacto en diversas regiones del Estado, así como realizarse en colaboración con organizaciones de la sociedad civil, instituciones académicas o con personas expertas en derechos humanos y diversidad sexual.
 
 b) Para la obtención del voto:
 
@@ -7570,3 +7580,21 @@ TERCERO. Las reformas presupuestales previstas en el presente Decreto entrarán 
 CUARTO. El Instituto Electoral de Michoacán y el Tribunal Electoral del Estado de Michoacán deberán realizar las adecuaciones necesarias a sus reglamentos internos y normatividad aplicable en un plazo no mayor a ciento veinte días naturales contados a partir de la entrada en vigor de esta reforma.
 
 QUINTO. Se derogan todas las disposiciones que se opongan a la presente reforma.
+
+P.O. 9 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 267 POR EL QUE “SE REFORMA LA FRACCIÓN V DEL INCISO A) DEL ARTÍCULO 112 DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Los partidos políticos realizarán los ajustes presupuestales necesarios para dar cumplimiento a lo dispuesto en el presente Decreto a partir del ejercicio fiscal siguiente a su entrada en vigor.
+
+TERCERO. Se instruye al Instituto Electoral de Michoacán para que en el ámbito de sus atribuciones, vigile el estricto cumplimiento de la presente reforma y realice las adecuaciones a su normativa interna que resulten necesarias.
+
+P.O. 9 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 270 POR EL QUE "SE ADICIONA UNA FRACCIÓN VI AL INCISO A) DEL ARTÍCULO 112 DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. El Instituto Electoral de Michoacán emitirá en un plazo no mayor a 90 días los lineamientos correspondientes para la aplicación de esta disposición.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
