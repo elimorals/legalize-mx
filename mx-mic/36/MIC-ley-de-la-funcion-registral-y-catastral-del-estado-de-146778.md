@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-la-funcion-registral-y-catastral-del-estado-de-146778"
 country: "mx"
 rank: "ley"
 publication_date: "2021-01-26"
-last_updated: "2025-03-08"
+last_updated: "2026-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LA FUNCIÓN REGISTRAL Y CATASTRAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2026.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Michoacán, el martes 26 de enero de 2021.
 
@@ -79,7 +79,9 @@ III. Asiento: El acto por el que se registra en el Folio real electrónico o Fol
 
 IV. Autoridad Municipal: Los Presidentes de los Municipios del Estado de Michoacán de Ocampo y el Concejo Mayor de Gobierno Comunal de Cherán;
 
-V. Autoridades registrales y catastrales: El Gobernador del Estado, el Secretario de Finanzas y Administración, el Director General del Instituto Registral y Catastral del Estado de Michoacán de Ocampo, el Director de Catastro, el Director del Registro Público de la Propiedad, Coordinadores Regionales y demás autoridades con funciones registrales;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2026)</small>
+
+V. Autoridades registrales y catastrales: El Gobernador del Estado, el Secretario de Finanzas y Administración, el Director General del Instituto Registral y Catastral del Estado de Michoacán de Ocampo, el Director de Catastro, el Director del Registro Público de la Propiedad, Coordinadores Regionales, los Presidentes Municipales de la Entidad y demás autoridades con funciones registrales;
 
 VI. Autorizado: El notario público a quien el Instituto Registral y Catastral del Estado de Michoacán de Ocampo, otorga autorización a través de clave y usuario, para realizar trámites vía internet y tener acceso al Sistema Informático de Gestión Integral, de conformidad con lo establecido en la presente Ley;
 
@@ -1294,3 +1296,11 @@ SEGUNDO. El Congreso del Estado, tendrá un plazo improrrogable de 180 días há
 TERCERO. Los Ayuntamientos y el Ejecutivo del Estado, deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes para cumplimiento de lo establecido en el presente Decreto en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del mismo.
 
 CUARTO. El Poder Judicial del Estado de Michoacán de Ocampo, deberá realizar las adecuaciones normativas, orgánicas y administrativas conducentes en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del presente Decreto, a efecto de dar cumplimiento a establecido al mismo (sic), así como a lo establecido en los Lineamientos para Regular el Registro Nacional de Obligaciones Alimentarias.
+
+P.O. 9 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 255.- ARTÍCULO PRIMERO.- SE REFORMAN LOS ARTÍCULOS 2 FRACCIÓN III, 5 PRIMER PÁRRAFO, 20 FRACCIÓN I, INCISO A), FRACCIÓN II PRIMER Y SEGUNDO PÁRRAFOS, 21 PRIMER PÁRRAFO, 22, 24, 32, 35, 53 PRIMER PÁRRAFO, 55, 56 SÉPTIMO PÁRRAFO, 57 PRIMER PÁRRAFO, 62, 63 Y 136 DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMA EL ARTÍCULO 5 FRACCIÓN V DE LA LEY DE LA FUNCIÓN REGISTRAL Y CATASTRAL, DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado y a los 113 municipios del Estado, para sus efectos conducentes.
