@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-movilidad-y-seguridad-vial-del-estado-de-michoacan-16661
 country: "mx"
 rank: "ley"
 publication_date: "2023-06-02"
-last_updated: "2025-08-01"
+last_updated: "2026-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166612&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ENERO DE 2026.
 
 Ley publicada en la Novena Sección del Número 7 del Periódico Oficial del Estado de Michoacán, el viernes 2 de junio de 2023.
 
@@ -596,6 +596,12 @@ XVI. Sujetarse a las tarifas autorizadas y respetar los horarios e itinerarios, 
 > <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
 
 XVII. Vigilar bajo su estricta responsabilidad, que los vehículos sean operados sólo por quienes tengan licencia de conducir de servicio de transporte público vigente y que no conduzcan bajo las influencias del alcohol o cualquier tipo de droga;
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2026)</small>
+
+XVII BIS. Los prestadores de servicios públicos de movilidad pasiva del Sistema Estatal de Transporte en el Estado de Michoacán de Ocampo, tienen prohibido el traslado a niñas, niños y adolescentes a zonas turísticas como hoteles, hostales, moteles, casas de huéspedes, cuartos amueblados para renta, albergues, casas provisionales y demás establecimientos de hospedaje con fines turísticos, así como campamentos, cabañas, paradores de casas rodantes, haciendas, casas rurales, posadas familiares y paradores carreteros que presten servicios al turista, el traslado sólo podrá realizarse si los menores están acompañados por sus padres o tutores legales quienes acreditarán dicha personalidad mediante la CURP.
+
+En el caso de no encontrarse acompañados por sus padres o tutores legales, será obligatorio presentar una autorización escrita firmada por los padres o tutores legales ante fedatario público o la unidad administrativa o entidad encargada del Desarrollo Integral de la Familia misma que será acompañada de las CURP respectivas;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2025)</small>
 
@@ -1209,7 +1215,13 @@ VII. Establecer medidas específicas para la prevención de agresiones de hostig
 
 VIII. Dar acompañamiento a las solicitudes, inquietudes y demandas de las mujeres, para atender y erradicar los diferentes tipos de violencia que se ejercen en espacios públicos;
 
-IX. Coordinar acciones de difusión con los sectores sociales, académicos y laborales, sobre el conocimiento y aplicación de los Protocolos para la Prevención, Atención y Sanción del Hostigamiento Sexual y Acoso Sexual en espacios públicos y transporte público; y,
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2026)</small>
+
+IX. Coordinar acciones de difusión con los sectores sociales, académicos y laborales, sobre el conocimiento y aplicación de los Protocolos para la Prevención, Atención y Sanción del Hostigamiento Sexual y Acoso Sexual en espacios públicos y transporte público;
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2026)</small>
+
+IX BIS. Diseñar e implementar acciones y programas de difusión dirigidos a los sectores de transporte y servicios turísticos, para garantizar la correcta aplicación del protocolo para prevenir y sancionar la trata de personas, así como, el protocolo para la Prevención del Abuso Sexual a Niñas Niños y Adolescentes; y,
 
 > <small>(REFORMADA [N. DE E. ADIOCIONADA], P.O. 1 DE AGOSTO DE 2025)</small>
 
@@ -4346,3 +4358,13 @@ P.O. 1 DE AGOSTO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Notifíquese al Titular del Poder Ejecutivo para los efectos que considere procedentes.
+
+P.O. 9 DE ENERO DE 2026.
+
+> <small>[N. DE E. DECRETO NÚMERO 269 POR EL QUE “SE ADICIONA LA FRACCIÓN XVII BIS AL ARTÍCULO 20 Y SE REFORMA LA FRACCIÓN IX Y SE ADICIONA UNA FRACCIÓN IX BIS DEL ARTÍCULO 47, DE LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]</small>
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo
+
+SEGUNDO. La Secretaría de Igualdad Sustantiva y Desarrollo de las Mujeres Michoacanas, contará con un plazo de 120 días naturales, para implementar las acciones previstas en la fracción IX BIS del artículo 47 de la ley.
+
+TERCERO. Queda derogada toda disposición legal que se oponga a lo dispuesto en el presente Decreto.
