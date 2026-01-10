@@ -4,7 +4,7 @@ identifier: "OAX-codigo-familiar-para-el-estado-de-oaxaca-153298"
 country: "mx"
 rank: "codigo"
 publication_date: "2021-12-04"
-last_updated: "2025-12-13"
+last_updated: "2026-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2026.
 
 Código publicado en la Décima Primera Sección del Número 49 del Periódico Oficial del Estado de Oaxaca, el sábado 4 de diciembre de 2021.
 
@@ -804,6 +804,16 @@ En todos los casos, el cónyuge que carezca de bienes o que durante el matrimoni
 La obligación de dar alimentos cesará si el acreedor alimentario contrae nuevas nupcias o hace vida en común con otra persona como su pareja.
 
 En la resolución se fijarán las bases para actualizar la pensión y las garantías para su efectividad.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2026)</small>
+
+###### Artículo 128 Bis.
+
+En caso de divorcio o al momento de dar por terminado el concubinato, la parte que hubiera quedado en desventaja económica tendrá derecho a una pensión compensatoria la cual deberá ser acorde a las posibilidades económicas del cónyuge o concubina que deberá brindarla.
+
+Para efectos del párrafo anterior, se entenderá por pensión compensatoria el deber asistencial y resarcitorio derivado del desequilibrio económico que pueda presentarse entre los cónyuges o concubinos al momento de disolverse el vínculo correspondiente, al no haber podido, durante el matrimonio o concubinato, dedicarse a una actividad remunerada o no haber podido desarrollarse en el ámbito laboral con igual tiempo, oportunidad y diligencia que el otro cónyuge o concubino.
+
+El derecho de recibir pensión compensatoria es irrenunciable, dicha obligación se extingue, cuando la o el acreedor logra un equilibrio económico o supere la necesidad de exigirla.
 
 ###### Artículo 129.
 
@@ -1939,7 +1949,11 @@ II. Cuando por las costumbres depravadas de quienes la ejercen, malos tratamient
 
 III. Por la exposición que el que, o los que, ejerzan la patria potestad hicieren de los sujetos a ella, o porque los dejen abandonados por más de seis meses.
 
-IV. Por incumplimiento de la obligación alimentaria por más de 90 días sin causa justificada.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2026)</small>
+
+IV. Por incumplimiento total o parcial de la obligación alimentaria por más de 60 días sin causa justificada.
+
+Para efectos de la fracción anterior, es necesario que exista una pensión alimenticia provisional, definitiva o convencional.
 
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
 
@@ -5818,3 +5832,21 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto
+
+P.O. 10 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 890.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN IV DEL ARTÍCULO 298 DEL CÓDIGO FAMILIAR PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Quedan sin efecto todas aquellas disposiciones contrarias al presente Decreto.
+
+P.O. 10 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 953.- MEDIANTE EL CUAL ADICIONA EL ARTÍCULO 128 BIS AL CÓDIGO FAMILIAR PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
