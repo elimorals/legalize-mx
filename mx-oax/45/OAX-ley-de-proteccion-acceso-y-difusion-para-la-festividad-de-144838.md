@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-proteccion-acceso-y-difusion-para-la-festividad-de-14483
 country: "mx"
 rank: "ley"
 publication_date: "2020-10-17"
-last_updated: "2023-05-12"
+last_updated: "2026-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PROTECCIÓN, ACCESO Y DIFUSIÓN PARA LA FESTIVIDAD DE LA GUELAGUETZA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2026.
 
 Ley publicada en la Décimo Segunda Sección del Número 42 del Periódico Oficial del Estado de Oaxaca, el sábado 17 de octubre de 2020.
 
@@ -149,9 +149,11 @@ El Gobierno del Estado, a través del Comité Organizador llevará a cabo la pro
 
 El Gobierno del Estado, a través de la Secretaria de Cultura y la Secretaría de Turismo; deberán garantizar apoyo económico a las delegaciones para la elaboración de su vestuario, adquisición y mantenimiento de sus instrumentos, traslado, hospedaje digno y alimentación adecuada a las delegaciones participantes.
 
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2026)</small>
+
 ###### Artículo 16.
 
-El Gobierno del Estado, a través de la Secretaria de Turismo durante el mes de noviembre de cada año elaborará y publicará la convocatoria anual para seleccionar la imagen oficial de la Guelaguetza del año siguiente, cuyas bases deben garantizar el derecho de participación de toda la población del Estado de Oaxaca.
+El Gobierno del Estado, a través de la Secretaría de Turismo durante el mes de noviembre de cada año elaborará, publicará y difundirá la convocatoria anual para la selección de la imagen oficial de la Guelaguetza del año siguiente, la cual será elaborada con perspectiva intercultural, de género e inclusiva. Dicha convocatoria promoverá la participación igualitaria de toda la población del Estado de Oaxaca.
 
 ###### Artículo 17.
 
@@ -208,3 +210,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 10 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 906.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 16 DE LA LEY DE PROTECCIÓN, ACCESO Y DIFUSIÓN PARA LA FESTIVIDAD DE LA GUELAGUETZA DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
