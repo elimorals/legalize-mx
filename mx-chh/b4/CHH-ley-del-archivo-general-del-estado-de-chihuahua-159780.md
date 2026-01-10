@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-archivo-general-del-estado-de-chihuahua-159780"
 country: "mx"
 rank: "ley"
 publication_date: "2022-08-20"
-last_updated: "2022-08-20"
+last_updated: "2026-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159780&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL ARCHIVO GENERAL DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2026.
 
 Ley publicada en el Número 67 del Periódico Oficial del Estado de Chihuahua, el sábado 20 de agosto de 2022.
 
@@ -41,7 +41,7 @@ LA SEXAGÉSIMA SÉPTIMA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO DE CHIHUAH
 
 D E C R E T A
 
-[…]
+[...]
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -239,9 +239,7 @@ II. Contar, preferentemente, con experiencia mínima de un año en materia archi
 
 III. Contar con estudios de licenciatura y, preferentemente, posgrado.
 
-(NOTA: EL 19 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 133/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE OCTUBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-IV. NO HABER SIDO CONDENADA POR LA COMISIÓN DE ALGÚN DELITO DOLOSO.
+IV. (DEROGADA, P.O. 10 DE ENERO DE 2026)
 
 V. No encontrarse en alguno de los supuestos previstos en las fracciones II a VI del artículo 18 de la Ley de Entidades Paraestatales del Estado de Chihuahua.
 
@@ -285,25 +283,37 @@ Las personas referidas en el primer párrafo de este artículo, serán competent
 
 ### CAPÍTULO III. DE LOS COMITÉS TÉCNICOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2026)</small>
+
 ###### Artículo 13.
 
-El Archivo General del Estado, por conducto de su Órgano de Gobierno, constituirá Comités Técnicos de Archivos cómo órganos colegiados de carácter interdisciplinario, interinstitucional, auxiliar, de asesoría y/o resolutivo. Estarán integrados por especialistas en archivos y conservación, para atender y coadyuvar en la investigación, análisis, diagnósticos, dictámenes, expedientes técnicos y profesionales, peritajes, planes y programas de conservación del patrimonio documental del Estado de Chihuahua.
+El Archivo General del Estado de Chihuahua, contará con un Comité Técnico que lo asesorará en las materias históricas, jurídicas, de tecnologías de la información y las disciplinas afines al quehacer archivístico.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2026)</small>
+
+El Comité Técnico estará formado por trece personas integrantes designadas por el Consejo Estatal, a convocatoria pública del Archivo General del Estado de Chihuahua, entre representantes de instituciones de docencia, investigación o preservación de archivos, personas académicas y expertas destacadas. Operará conforme a los lineamientos aprobados por el mismo Consejo Estatal.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2026)</small>
+
+Las personas integrantes del Comité Técnico no obtendrán remuneración, comprensión o emolumento por su participación.
 
 ###### Artículo 14.
 
-Los comités se constituirán de manera temporal respondiendo al objetivo específico de su creación, por invitación directa o convocatoria abierta, a criterio de la Dirección General o del Consejo Estatal de Archivos, según sea el caso.
+(DEROGADO, P.O. 10 DE ENERO DE 2026)
 
 ###### Artículo 15.
 
-El objeto de dichos comités técnicos es atender de manera transversal, integral, profesional, interinstitucional, colegiada, interdisciplinaria, incluyente y transparente, todo lo concerniente en materia de archivos y conservación documental.
+(DEROGADO, P.O. 10 DE ENERO DE 2026)
 
 ###### Artículo 16.
 
-Los comités técnicos se integrarán preferentemente por representantes de colegios de profesionistas y asociaciones civiles; personas funcionarias municipales, estatales o federales, en el ámbito de su competencia; especialistas en diferentes modalidades de archivos, gestión documental y protección del patrimonio documental del Estado; ciudadanía perteneciente a la Academia; profesionales en peritajes y/o especialistas en la materia.
+(DEROGADO, P.O. 10 DE ENERO DE 2026)
+
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2026)</small>
 
 ###### Artículo 17.
 
-El Archivo General del Estado convocará y coordinará las sesiones de trabajo, vigilará el cumplimiento de los acuerdos y evaluará los resultados de dichos comités técnicos, los cuales establecerán un programa de trabajo y definirán la colaboración, aportación y calendario de actividades, de acuerdo con los objetivos para los que fueron convocados.
+El Archivo General del Estado convocará y coordinará las sesiones de trabajo, vigilará el cumplimiento de los acuerdos y evaluará los resultados del Comité Técnico, el cual establecerá un programa de trabajo y definirá la colaboración, aportación y calendario de actividades, de acuerdo con los objetivos para los que fue convocado.
 
 ### CAPÍTULO IV. DISPOSICIONES GENERALES
 
@@ -358,3 +368,13 @@ En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los catorce días d
 LA GOBERNADORA CONSTITUCIONAL DEL ESTADO. MTRA. MARÍA EUGENIA CAMPOS GALVÁN. Rúbrica.
 
 EL SECRETARIO GENERAL DE GOBIERNO. LIC. CÉSAR GUSTAVO JÁUREGUI MORENO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0309/2025 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ARCHIVOS, Y DE LA LEY DEL ARCHIVO GENERAL, AMBAS DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
