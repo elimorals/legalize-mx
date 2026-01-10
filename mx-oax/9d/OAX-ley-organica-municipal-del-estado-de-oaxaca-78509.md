@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2026-01-03"
+last_updated: "2026-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2026.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -113,11 +113,11 @@ VII.- Si la opinión no fuere favorable, en los términos de la fracción anteri
 
 Si al resolver el Tribunal Superior de Justicia del Estado el procedimiento al que se refiere el artículo que antecede, estima que es procedente la creación del nuevo Municipio, así lo notificará al Poder Legislativo, estándose el Congreso del Estado, a la sentencia definitiva que aquel dicte; el Tribunal Superior de Justicia del Estado, conocerá con la vista que le de el Congreso o con la petición de los interesados o de los Ayuntamientos involucrados, en los términos de la Ley.
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2026)</small>
 
 ###### ARTÍCULO 9.
 
-Aprobada la creación del nuevo Municipio, el Congreso procederá a establecer su presupuesto y a asignarles las participaciones que le correspondan de conformidad con los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez.
+Una vez aprobada la creación del nuevo Municipio, el Congreso reformará el decreto anual en donde fueron aprobados los porcentajes, formulas, variables utilizadas, coeficientes de distribución, así como los montos destinados de los fondos de participaciones que les corresponden a los Municipios para el ejercicio fiscal de que se trate, para que en secuencia el titular del poder Ejecutivo a través de la Secretaria de Finanzas realice los ajustes convenientes y se asignen los recursos que le correspondan al Municipio, mismos que serán ejercidos de conformidad con el Artículo 134 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTÍCULO 10.
 
@@ -527,6 +527,10 @@ XI. Aprobar a propuesta del Presidente Municipal el nombramiento del Secretario,
 
 XII. Designar las comisiones y los concejales que deberán integrarlas, presidiéndolas en su caso, los regidores de la materia;
 
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2026)</small>
+
+XIII. Expedir la normatividad interna para promover la protección y el bienestar animal
+
 B. En materia de desarrollo municipal
 
 I. Formular, aprobar y ejecutar los Planes de Desarrollo Municipal, incorporando los principios de igualdad, no discriminación y derechos humanos.
@@ -582,6 +586,14 @@ Serán nulas de pleno derecho los contratos de obras y las concesiones de servic
 > <small>(ADICIONADA, P.O. 3 DE ENERO DE 2026)</small>
 
 XII. Procurar la contratación de al menos el 50% de mano de obra de la localidad, por cada obra a ejecutarse correspondiente a la modalidad de Administración Directa de la Ley de Obras Públicas y Servicios Relacionados del Estado de Oaxaca, conforme a la normativa vigente y los lineamientos establecidos.
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2026)</small>
+
+XIII. Crear, administrar y mantener espacios e instalaciones destinados al resguardo temporal, atención y adopción de animales en situación de calle o maltrato, así como promover infraestructura pública que favorezca la convivencia armónica entre personas y animales en el municipio, de acuerdo a su posibilidad presupuestal.
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2026)</small>
+
+XIV. Regular y supervisar el uso de animales de tiro y carga empleados en servicios municipales o por particulares en actividades como la recolección de residuos sólidos urbanos, el transporte u otras similares, garantizando en todo momento su trato digno, condiciones adecuadas de alimentación, descanso, atención veterinaria y protección contra el maltrato, así como promover alternativas graduales que reduzcan su utilización en beneficio de modelos servicio más sostenibles y humanitarios
 
 D. En materia de hacienda pública y administración
 
@@ -701,7 +713,13 @@ G. En materia ambiental
 
 I. Promover, respetar, proteger y garantizar el derecho de toda persona a vivir en un medio ambiente sano y en armonía con la naturaleza, para su desarrollo, salud y bienestar, y disfrutar de manera responsable de la biodiversidad, así como formular, conducir y evaluar la política ambiental municipal en congruencia con los criterios que, en su caso, formule la Federación y el Gobierno del Estado;
 
-II. Participar en la creación y administración de sus reservas territoriales y ecológicas, así como en la elaboración y aplicación de programas de ordenamiento en la materia; autorizar, controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE ENERO DE 2026)</small>
+
+II. Autorizar la creación y participar en la administración de sus reservas territoriales y ecológicas, así como en la elaboración y aplicación de programas de ordenamiento en la materia; autorizar, controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales;
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2026)</small>
+
+En los municipios que se rigen por sus propios sistemas normativos indígenas, la creación de reservas y el otorgamiento de licencias y permisos para uso de suelo y cambio de uso de suelo estará sujeta además a la aprobación de las asambleas generales comunitarias.
 
 III. Promover y garantizar la atención de la conservación y cuidado de parques, jardines, camellones, zonas sujetas a conservación y preservación ecológica y en general la ampliación y conservación de zonas verdes; así como arborizar y promover entre las particulares campañas para mencionado fin, en las áreas urbanas de su competencia que carezcan de árboles suficientes para el adecuado equilibrio ecológico de las mismas, conforme a los estudios pertinentes;
 
@@ -717,6 +735,10 @@ VII. Instalar y apoyar viveros y programas de producción de plantas nativas de 
 
 VIII. Integrar e implementar planes, programas y proyectos en materia de Economía Circular.
 
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2026)</small>
+
+IX. Promover la protección y bienestar de los animales como parte esencial del equilibrio ecológico, garantizando su trato digno y respetuoso, impulsando campañas de concientización, programas de esterilización, vacunación y control poblacional de fauna doméstica y silvestre en el ámbito de su competencia;
+
 H. En materia de salud pública
 
 I. En el ámbito de su competencia garantizar el cumplimiento de las disposiciones y decretos dictados por las autoridades sanitarias federales a estatales; en casos de emergencia sanitaria de manera coordinada darán estricto cumplimiento a los protocolos o medidas correspondientes;
@@ -728,6 +750,10 @@ III. Prevenir y combatir el alcoholismo, la farmacodependencia con el apoyo de l
 Para ello deberán constituir su Consejo Municipal Contra las Adicciones, en el marco de los Programas Nacional y Estatal Contra las Adicciones para articular un sistema interinstitucional que incida de manera integral en la problemática de las adicciones mediante la prevención, intervención, control, rehabilitación y resocialización de las personas involucradas en este problema, y que contribuya a fomentar el bienestar social;
 
 IV. Formular y desarrollar programas de atención a personas con discapacidad y adultas mayores en el marco de los sistemas nacional y estatal de salud y conforme a sus principios y objetivos; para tal efecto, deberán celebrar los convenios necesarios para observar y prever facilidades urbanísticas y arquitectónicas, supresión de obstáculos viales y el cumplimiento de la ley estatal de la materia;
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2026)</small>
+
+V. Implementar acciones preventivas y correctivas en materia de salud pública relacionadas con el bienestar animal, incluyendo campañas de esterilización, vacunación antirrábica y desparasitación; la prevención y control de zoonosis; así como el control sanitario de animales domésticos, de carga y de producción, en coordinación con las autoridades estatales y federales competentes;
 
 I. En materia de cultura y cultura de la legalidad
 
@@ -746,6 +772,14 @@ VI. Formular y fomentar programas de organización y participación comunitaria,
 VII. Otorgar espacios públicos idóneos a los ciudadanos a fin de que hagan uso efectivo de su creatividad y habilidades, para la construcción de comunidades participativas e incluyentes;
 
 VIII. En los Municipios donde se encuentren asentados pueblos indígenas o afromexicanos fomentar e impulsar el desarrollo y conservación de sus lenguas, usos, costumbres, recursos naturales, artes expresiones y formas de organización; para ello deberán asesorar, gestionar y apoyar la protección de sus derechos de propiedad colectiva, tales como pueden ser: marcas, patentes, derechos de autoría, variedades vegetales, indicaciones geográficas, denominaciones de origen, declaraciones de patrimonio cultural material o inmaterial, entre otras figuras de propiedad intelectual en sentido amplio, de tal manera que los pueblos y comunidades puedan hacer uso legal y defensa adecuada de dichos derechos;
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2026)</small>
+
+IX. Habilitar y destinar de acuerdo a sus posibilidades presupuestarias espacios públicos para el establecimiento de museos comunitarios, de acceso público con la finalidad de preservar, proteger y difundir la historia, cultura, tradiciones, usos y costumbres, gastronomía, vestimenta, lenguas, arquitectura, naturaleza, saberes comunitarios, pinturas, esculturas, murales, obras artísticas y demás manifestaciones del patrimonio cultural material e inmaterial del Municipio;
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2026)</small>
+
+X. Fomentar en la población una cultura de respeto, protección y tutela responsable de los animales, reconociéndolos como seres sintientes e impulsar programas educativos, de sensibilización y de cultura que desalienten el maltrato animal y promuevan la convivencia armónica
 
 J. En materia de derechos humanos
 
@@ -919,7 +953,9 @@ XVII.- Acordar la contratación de deuda pública, con sujeción a la Ley aplica
 
 XVIII.- Acordar el periodo de recepción de las participaciones y remitir a la Secretaría de Finanzas del Poder Ejecutivo en los primeros diez días de iniciada la administración dicho acuerdo señalando en el mismo la clabe interbancaria, número de referencia de la cuenta productiva específica e institución financiera a la cual debe realizarse la transferencia de las mismas, así como de los Fondos de Aportaciones que les corresponda.
 
-XIX. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2023)
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2026)</small>
+
+XIX. El otorgamiento de licencias y permisos para uso de suelo y cambio de uso de suelo, y
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
@@ -1445,7 +1481,9 @@ Para la renovación de las licencias para construcciones que presten servicios a
 
 Las obras que se ejecuten sin autorización; que pongan en peligro a los habitantes; o que se realicen en terrenos ubicados en zonas peligrosas o vías públicas se podrán decretar la demolición de los mismos.
 
-XIII.- Ejecutar, administrar, vigilar y evaluar la formulación e instrumentación de los planes de desarrollo urbano, la zonificación, la creación de reservas territoriales, el otorgamiento de licencias y permisos para uso de suelo y construcción, así como los mecanismos que se requieran para la adecuada conducción del desarrollo urbano;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2026)</small>
+
+XIII. Ejecutar, administrar, vigilar y evaluar la formulación e instrumentos de los planes de desarrollo urbano, la zonificación, la creación de reservas territoriales, el otorgamiento de licencias y permisos para uso de suelo en cumplimiento de la determinación del cabildo y, en su caso, la asamblea general de la comunidad y construcción, así como los mecanismos que se requieran para la adecuada conducción del desarrollo urbano.
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
@@ -4980,6 +5018,38 @@ SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 P.O. 3 DE ENERO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 911.- MEDIANTE EL CUAL ADICIONA UNA FRACCIÓN III Y SE RECORREN LAS SUBSECUENTES DEL ARTÍCULO 19 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 897.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN II DEL APARTADO G DEL ARTÍCULO 43, Y LA FRACCIÓN XIII DEL ARTÍCULO 68; SE ADICIONA EL SEGUNDO PÁRRAFO A LA FRACCIÓN II DEL APARTADO G DEL ARTÍCULO 43, Y LA FRACCIÓN XIX AL ARTÍCULO 47, TODOS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 898.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 9 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 899.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN IX DEL APARTADO I DEL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 900.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN XIII AL APARTADO A, LAS FRACCIONES XIII Y XIV AL APARTADO C, LA FRACCIÓN VIII AL APARTADO G, LA FRACCIÓN V AL APARTADO H Y LA FRACCIÓN X AL APARTADO I DEL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
 
 PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
