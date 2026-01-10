@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2025-10-04"
+last_updated: "2026-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2026.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -407,6 +407,10 @@ En el Estado nadie podrá desempeñar trabajos personales sin la justa retribuci
 
 Toda persona tiene derecho a una alimentación suficiente, accesible, nutricionalmente adecuada, sana y culturalmente aceptable y con alimentos inocuos para llevar una vida activa y saludable. A fin de evitar las enfermedades de origen alimentario, el Estado deberá implementar las medidas que propicien la adquisición de buenos hábitos alimenticios entre la población, fomentará la producción y el consumo de alimentos con alto valor nutricional y apoyará en esta materia a los sectores más vulnerables de la población. Así mismo, el Estado desarrollará políticas públicas que contribuyan al impulso de la producción agropecuaria para garantizar la autosuficiencia, soberanía y seguridad alimentaria.
 
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2026)</small>
+
+El maíz es un elemento de identidad nacional, alimento básico del pueblo de Oaxaca y base de la existencia de los pueblos indígenas y afromexicanos. Su cultivo en el territorio Estatal debe ser libre de modificaciones genéticas producidas con técnicas que superen las barreras naturales de la reproducción o la recombinación, como las transgénicas. Todo otro uso del maíz genéticamente modificado debe ser evaluado en los términos de las disposiciones legales para quedar libre de amenazas para la bioseguridad, la salud y el patrimonio biocultural de México y su población. Debe priorizarse la protección de la biodiversidad, la soberanía alimentaria, su manejo agroecológico, promoviendo la investigación científica-humanística, la innovación y los conocimientos tradicionales.
+
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
 
 Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las leyes en la materia, mediante el fomento de la cultura física se alcanzará una mejor calidad de vida y desarrollo físico, garantizando en todo momento la igualdad de género y la no discriminación en la práctica del deporte. El Estado y los Municipios impulsarán el fomento, la organización y la promoción de las actividades formativas, recreativas y competitivas del deporte en la Entidad, vigilando la equidad de género así como el crecimiento de su infraestructura.
@@ -473,11 +477,11 @@ El patrimonio familiar es inalienable, imprescriptible e inembargable.
 
 Las niñas, los niños y adolescentes nacidos en el matrimonio o fuera de él tienen derecho a igual protección. La Ley posibilitará la investigación de la paternidad.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL PROCESO LEGISLATIVO DEL DECRETO NO. 651 PUBLICADO EN EL P.O. DE 3 DE AGOSTO DE 2019, LA MODIFICACIÓN CORRESPONDE AL PRESENTE PÁRRAFO]</small>
+> <small>[N. DE E. RESPECTO AL ORDEN DE ESTE PÁRRAFO, SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE LA HISTORIA LEGISLATIVA DEL PRESENTE ARTÍCULO]</small>
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2026)</small>
 
-Es derecho correlativo a la calidad de padres la determinación libre, voluntaria, responsable, informada, acerca de tener hijos de forma segura; además del número y espaciamiento de los mismos y su educación; así como, recibir servicios integrales en materia de salud reproductiva. Las autoridades deberán adoptar medidas para garantizar la atención ginecológica y obstétrica conforme a las leyes en la materia.
+Toda persona tiene derecho al acceso, protección y promoción de sus derechos sexuales y reproductivos. Es derecho correlativo a la calidad de padres la determinación, libre, voluntaria, responsable, informada acerca de tener hijos de forma segura; además del número y espaciamiento de los mismos y su educación; así como, recibir servicios integrales en materia de salud reproductiva. Las autoridades deberán adoptar medidas para garantizar la atención ginecológica y obstétrica conforme a las leyes en la materia.
 
 > <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
 
@@ -501,9 +505,9 @@ Es deber de los padres preservar el derecho de los menores a la satisfacción de
 
 El Estado garantizará la organización de la niñez, las juventudes, su actividad deportiva cuidando en todo momento la paridad de género, la igualdad, la no discriminación, la diversidad y la inclusión sin distinción de edad, sexo, raza, origen étnico, origen, vestimenta, orientación sexual y expresión de género, características sexuales o condición económica, para su formación cultural integral.
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2026)</small>
 
-A los jóvenes de entre quince y veintinueve años, el Estado garantizará su inclusión en políticas públicas, programas, servicios y acciones en congruencia con su edad, indistintamente de su género, su estado civil, origen étnico, circunstancia social o de salud, religión o cualquier otra. A las y los jóvenes de entre dieciocho y veintinueve años, el Estado garantizará su inclusión en un diez por ciento para ser titular de Secretarías, Dependencias, Órganos Auxiliares, y Entidades de la Administración Pública Estatal, respetando el principio de paridad de género y alternancia, siempre y cuando se cumpla con los requisitos establecidos en esta Constitución y Leyes reglamentarias, particularmente en el caso de cargos públicos que requieran un nivel profesional idóneo.
+A las juventudes de entre quince y veintinueve años, el Estado garantizará su inclusión en políticas públicas, programas, servicios y acciones en congruencia con su edad, indistintamente de su género, su estado civil, origen étnico, circunstancia social o de salud, religión o cualquier otra. A las juventudes de entre dieciocho y veintinueve años, el Estado garantizará su inclusión en un diez por ciento para ser titular de Secretarías, Dependencias, Órganos Auxiliares, y Entidades de la Administración Pública Estatal, respetando el principio de paridad de género y alternancia, siempre y cuando se cumpla con los requisitos establecidos en esta Constitución y Leyes reglamentarias, particularmente en el caso de cargos públicos que requieran un nivel profesional idóneo.
 
 > <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
@@ -513,9 +517,9 @@ Asimismo, promoverá la organización de las mujeres para sus actividades produc
 
 Es obligación del hombre y de la mujer asumir su paternidad o maternidad responsable con todos y cada uno de los hijos que procreen. Las mujeres y hombres trabajadores gozarán de la licencia de maternidad o paternidad obligatoria por el nacimiento de sus hijos, hijas o por la adopción de un infante, conforme a lo dispuesto en la Ley Federal del Trabajo, con goce de sueldo.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2026)</small>
 
-Los niños y las niñas, adolescentes y jóvenes, tienen derecho a la vida sana, a la integridad física y emocional, a la identidad, a la protección integral, a una vida libre de violencia, a la salud, a la alimentación, a la educación, a la diversión y a llevar una vida digna e intercultural, con perspectiva de género, en condiciones de no discriminación, no subordinación y trato igualitario. El Estado velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Asimismo, expedirá leyes y normas para garantizar los derechos de las niñas, niños y adolescentes, para satisfacer sus necesidades y evitar la violencia, su explotación y trata.
+Los niños y las niñas, adolescentes y juventudes, tienen derecho a la vida sana, a la integridad física y emocional, a la identidad, a la protección integral, a una vida libre de violencia, a la salud, a la alimentación, a la educación, a la diversión y a llevar una vida digna e intercultural, con perspectiva de género, en condiciones de no discriminación, no subordinación y trato igualitario. El Estado velará y cumplirá con el principio del interés superior de la niñez y con el principio del interés superior de las juventudes, garantizando de manera plena sus derechos. Asimismo, expedirá leyes y normas para garantizar los derechos de las niñas, niños, adolescentes y juventudes, para satisfacer sus necesidades y evitar la violencia, su explotación y trata.
 
 > <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
@@ -3713,6 +3717,10 @@ Los Alcaldes son auxiliares de los Jueces y Tribunales del Estado, la Ley Orgán
 
 IX.- Cada Ayuntamiento procurará contar con una Regiduría de Derechos Humanos encargada de la protección, defensa, promoción, estudio, divulgación y vigilancia de los derechos humanos. Asimismo, deberá contar con una Regiduría de Igualdad de Género, que tendrá como objetivo promover la participación igualitaria de las mujeres en los ámbitos de la vida social, económica, política, cultural y familiar de la comunidad y la eliminación de todo acto discriminatorio que contravenga la igualdad de género, y los derechos humanos de las mujeres; y
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE ENERO DE 2026)</small>
+
+Los Municipios, deberán crear un área específica de atención integral a las juventudes, que se encargará de garantizar el principio del interés superior de las juventudes, sus derechos humanos, su inclusión en políticas públicas, programas, servicios y acciones en congruencia con su edad, indistintamente de su género, su estado civil, origen étnico, orientación sexual, raza, circunstancia social o de salud, religión o cualquier otra.
+
 > <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2021)</small>
 
 X.- Los Ayuntamientos del Estado deberán elaborar, publicar y actualizar sus respectivos Atlas Municipales de Riesgos, de forma periódica, en un término máximo de cinco años, conforme a los criterios emitidos por la Federación.
@@ -4259,9 +4267,9 @@ Las autoridades fomentarán con preferencia las actividades turísticas que apro
 
 Es responsabilidad del Estado promover el desarrollo de las actividades turísticas dentro del territorio estatal, asegurando en todo momento que los centros de turismo crezcan de manera integrada al desarrollo de la región donde están ubicados y contribuyan al desarrollo general de la entidad.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2026)</small>
 
-ARTICULO 127 BIS. El Estado garantizará el desarrollo integral de las regiones impulsando la producción de alimentos considerando en su Plan Estatal de Desarrollo como estratégico el fomento de la agricultura.
+ARTICULO 127 BIS. El Estado garantizará el desarrollo integral de las regiones impulsando la producción de alimentos, considerando en su Plan Estatal de Desarrollo como estratégico, el fomento a la agricultura; así mismo, promoverá condiciones para el desarrollo rural, cultural, económico y de salud, con el propósito de generar empleo y garantizar a la población campesina su bienestar y su participación e incorporación en el desarrollo estatal y nacional, fomentará la actividad agropecuaria y forestal, cultivos tradicionales con semillas nativas, en especial el sistema milpa, para el óptimo uso de la tierra libre de cultivos de maíz genéticamente modificado, en los términos definidos en el párrafo séptimo del artículo 12 de esta Constitución, facilitando obras de infraestructura, insumos, créditos, servicios de capacitación, investigación, innovación, conservación de la agrobiodiversidad y asistencia técnica, fortaleciendo las instituciones públicas estatales. De igual manera, adecuará la legislación reglamentaria para planear, organizar y monitorear la producción agropecuaria, su industrialización y comercialización considerándolas de orden público.
 
 (REUBICADO [N. DE E. ANTES ARTICULO 152], P.O. 8 DE DICIEMBRE DE 2000)
 
@@ -7010,3 +7018,27 @@ P.O. 4 DE OCTUBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese.
 
 SEGUNDO. Los Municipios del Estado de Oaxaca deberán adecuar sus bandos de policía y buen gobierno, así como sus reglamentos en materia sanitaria, en un plazo no mayor a 120 días naturales, contados a partir de la entrada en vigor de esta reforma, para asegurar su aplicación en el ámbito local.
+
+P.O. 10 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 894.- MEDIANTE EL CUAL REFORMAN LOS PÁRRAFOS VIGÉSIMO SEXTO Y VIGÉSIMO NOVENO DEL ARTÍCULO 12, Y EL PÁRRAFO SEGUNDO DE LA FRACCIÓN IX DEL ARTÍCULO 113 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 895.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 127 BIS; Y SE ADICIONA UN PÁRRAFO SÉPTIMO, RECORRIÉNDOSE LOS SUBSECUENTES, AL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 896.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO VIGÉSIMO PRIMERO DEL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
