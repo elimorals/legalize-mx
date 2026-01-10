@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2026-01-03"
+last_updated: "2026-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2026.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -2781,9 +2781,9 @@ Delitos contra la libertad, la seguridad, el normal desarrollo psicosexual y la 
 
 Abuso, hostigamiento y acoso sexual, y violación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2026)</small>
 
-241.- Comete el delito de abuso sexual, quien sin consentimiento de una persona ejecute en ella o la haga ejecutar un acto sexual, que no sea la cópula, o la obligue a observar cualquier acto sexual aun a través de medios electrónicos. Al responsable de tal hecho, se le impondrá de tres a seis años de prisión y multa de cien a doscientas veces el valor de la unidad de medida y actualización.
+241.- Comete el delito de abuso sexual, quien, sin el consentimiento de la víctima, ejecute en ella o la haga ejecutar, en el ámbito público o privado, sin el propósito de llegar a la cópula, cualquier acto de naturaleza sexual, la obligue a observarlo o la haga ejecutarlo sobre sí, para un tercero o para el propio sujeto activo, o bien se obligue a la víctima a exhibir su cuerpo, a través de cualquier medio electrónico. Se entenderá por actos de naturaleza sexual, los tocamientos, caricias, roces corporales, manoseos, exhibiciones o representaciones sexuales explícitas. Al responsable de tal hecho, se le impondrá de seis a diez años de prisión y multa de doscientas a quinientas veces el valor de la Unidad de Medida y Actualización.
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 1529, PUBLICADO EN EL P.O. DE 23 DE ENERO DE 2010, SE MODIFICO LA ESTRUCTURA DEL PRESENTE PÁRRAFO, PARA QUEDAR CONFORMADO POR TRES FRACCIONES.]</small>
 
@@ -2803,13 +2803,17 @@ II.- Se hiciere uso de violencia física o moral; y
 
 III.- Se utilice la sumisión química.
 
-> <small>(ADICIONADA, P.O.22 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2026)</small>
 
-IV.- El delito fuere cometido en contra de una persona mayor de catorce años y menor de dieciocho años de edad o que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo; o
+IV.- El delito fuere cometido en contra de una persona mayor de catorce años y menor de dieciocho años de edad o que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo;
 
-> <small>(ADICIONADA, P.O.22 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2026)</small>
 
-V.- Sea cometido dentro de centros educativos, culturales, deportivos, religiosos o de trabajo;
+V.- Sea cometido dentro de centros educativos, culturales, deportivos, religiosos o de trabajo; o
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2026)</small>
+
+VI.- Fuera cometido en la vía pública; en los medios de transporte u oficinas gubernamentales.
 
 > <small>(DEROGADO TERCER PÁRRAFO, P.O.22 DE MAYO DE 2021)</small>
 
@@ -2818,6 +2822,14 @@ V.- Sea cometido dentro de centros educativos, culturales, deportivos, religioso
 Cuando el delito fuere cometido por un servidor público, docente o ministro de culto y utilizare los medios o circunstancias que el encargo le proporcione, además de la pena de prisión impuesta, será inhabilitado, destituido o suspendido, de su empleo público o profesión, por un tiempo igual al que dure la pena de prisión impuesta. A los autores y. participes del delito previsto en este artículo no se les concederá ningún beneficio preliberacional en ejecución de sentencia.
 
 > <small>(DEROGADO QUINTO PÁRRAFO, P.O.22 DE MAYO DE 2021)</small>
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2026)</small>
+
+Además, se le impondrá la obligación de asistir a los programas de reeducación integral que brindan los Centros de Reeducación para Agresores y/o prestar servicio social en favor del Estado o de instituciones de beneficencia pública como medidas de no repetición que promuevan un cambio cultural a favor de la igualdad sustantiva entre mujeres y hombres.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2026)</small>
+
+Este delito se perseguirá de oficio.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -6806,5 +6818,15 @@ P.O. 3 DE ENERO DE 2026.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Quedan sin efecto todas aquellas disposiciones contrarias al presente Decreto.
+
+P.O. 10 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 907.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO Y LAS FRACCIONES IV Y V; Y SE ADICIONA LA FRACCION VI AL PÁRRAFO SEGUNDO, Y LOS PÁRRAFOS SEXTO Y SÉPTIMO, TODOS DEL ARTÍCULO 241 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su Publicación.
 
 TERCERO. Quedan sin efecto todas aquellas disposiciones contrarias al presente Decreto.
