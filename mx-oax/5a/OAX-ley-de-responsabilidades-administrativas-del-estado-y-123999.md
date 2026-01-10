@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-responsabilidades-administrativas-del-estado-y-123999"
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-03"
-last_updated: "2024-03-08"
+last_updated: "2026-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123999&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2026.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 3 de octubre de 2017.
 
@@ -121,25 +121,35 @@ XIX. Ley Estatal: Ley de Responsabilidades Administrativas del Estado y Municipi
 
 XX. Ley General: Ley General de Responsabilidades Administrativas.
 
-XXI. Magistrado: El Magistrado del Tribunal de lo Contencioso Administrativo y de Cuentas;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2026)</small>
+
+XXI. Magistrado o Magistrada: del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca;
 
 XXII. Órganos constitucionales autónomos: Organismos a los que la Constitución Local les otorga expresamente autonomía técnica y de gestión, personalidad jurídica y patrimonio propio;
 
 XXIII. Órganos internos de control: Las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los entes públicos, así como aquellas otras instancias de los Órganos constitucionales autónomos que, conforme a sus respectivas leyes, sean competentes para aplicar las leyes en materia de responsabilidades de Servidores Públicos;
 
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2026)</small>
+
+XXIII Bis. Personas Servidoras Públicas: Las personas que desempeñan un empleo, cargo o comisión en los entes públicos, en el ámbito estatal y municipal, conforme a lo dispuesto en el artículo 115 de la Constitución Local. La referencia sobre servidor público o servidores públicos, se entenderá, como el contenido de esta fracción;
+
 XXIV. Plataforma digital nacional: La plataforma a que se refiere la Ley General del Sistema Nacional Anticorrupción, que contará con los sistemas que establece la referida ley, así como los contenidos previstos en la Ley General y en la presente Ley;
 
 XXV. Plataforma digital estatal: La Plataforma a que se refiere la Ley del Sistema Estatal de Combate a la Corrupción del Estado de Oaxaca.
 
-XXVI. Secretaría: La Secretaría de la Contraloría y Transparencia Gubernamental del Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2026)</small>
 
-XXVII. Servidores Públicos: Las personas que desempeñan un empleo, cargo o comisión en los entes públicos, en el ámbito estatal y municipal, conforme a lo dispuesto en el artículo 115 de la Constitución local;
+XXVI. Secretaría: La Secretaría de Honestidad, Transparencia y Función Pública;
+
+XXVII. (DEROGADA, P.O. 10 DE ENERO DE 2026)
 
 XXVIII. Sistema Nacional: El Sistema Nacional Anticorrupción, que es la instancia de coordinación entre las autoridades de todos los órdenes de gobierno competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos;
 
 XXIX. Sistema Estatal: El Sistema Estatal de combate a la Corrupción que es la instancia de coordinación entre las autoridades locales competentes en la prevención, detección y sanción de las responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos estatales y municipales; y,
 
-XXX. Tribunal: El Tribunal de lo Contencioso Administrativo y de Cuentas.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2026)</small>
+
+XXX. Tribunal: El Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca.
 
 ###### Artículo 4.
 
@@ -153,17 +163,21 @@ III. Los particulares vinculados con faltas administrativas graves.
 
 ### Capítulo II. Principios y directrices que rigen la actuación de los Servidores Públicos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2026)</small>
+
 ###### Artículo 5.
 
-Todos los entes públicos están obligados a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, y la actuación ética y responsable de cada servidor público.
+Todos los entes públicos están obligados a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, y la actuación ética y responsable de cada Persona Servidora Pública.
 
 > <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2021)</small>
 
 Asimismo, tiene la obligación de ejercer sus funciones, facultades y atribuciones jurídicas, dentro de la perspectiva de género, la interculturalidad y el respeto pleno a los derechos de las niñas, niños y adolescentes, en el marco de los acuerdos, convenios y tratados internacionales, regionales, así como por lo expresado en nuestra Constitución, las leyes generales y estatales en la materia.
 
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2026)</small>
+
 ###### Artículo 6.
 
-Los Servidores Públicos observarán en el desempeño de su empleo, cargo o comisión, los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público. Para la efectiva aplicación de dichos principios, los Servidores Públicos observarán las directrices previstas en el artículo 7 de la Ley General.
+Las Personas Servidoras Públicas observarán en el desempeño de su empleo, cargo o comisión, los principios de austeridad, disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia, eficiencia y racionalidad en el uso de los recursos públicos, mismos que rigen el servicio público. Para la efectiva aplicación de dichos principios, las Personas Servidores Públicas observarán las directrices previstas en el artículo 7 de la Ley General.
 
 ### Capítulo III. Autoridades competentes para aplicar la presente Ley
 
@@ -243,11 +257,13 @@ Para prevenir la comisión de faltas administrativas y hechos de corrupción, la
 
 En la implementación de las acciones referidas, los Órganos internos de control de la Administración Pública Estatal deberán atender los lineamientos generales que emita la Secretaría, en sus respectivos ámbitos de competencia. En los Poderes Legislativo y Judicial, los Municipios, en los Organismos constitucionales autónomos y en los demás entes públicos, los Órganos internos de control respectivos, emitirán los lineamientos señalados.
 
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2026)</small>
+
 ###### Artículo 15.
 
-Los Servidores Públicos deberán observar el código de ética que al efecto sea emitido por la Secretaría o los Órganos internos de control, conforme a los lineamientos que emita el Sistema Nacional Anticorrupción, para que en su actuación impere una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño.
+Las Personas Servidoras Públicas deberán observar el código de ética y el de conducta según corresponda, que al efecto sea emitido por la Secretaría o los Órganos internos de control, conforme a los lineamientos que emita el Sistema Nacional Anticorrupción, para que en su actuación impere una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño.
 
-El código de ética a que se refiere el párrafo anterior, deberá hacerse del conocimiento de los Servidores Públicos de la dependencia o entidad de que se trate, así como darle la máxima publicidad.
+Los códigos que se refieren en el párrafo anterior, deberán hacerse del conocimiento de las Personas Servidoras Públicas de la dependencia o entidad de que se trate, así como darles la máxima publicidad.
 
 ###### Artículo 16.
 
@@ -730,3 +746,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
+
+P.O. 10 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 954.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES XXI, XXVI Y XXX DEL ARTÍCULO 3, EL PÁRRAFO PRIMERO DEL ARTÍCULO 5, Y LOS ARTÍCULOS 6 Y 15; SE ADICIONA LA FRACCIÓN XXIII BIS; Y SE DEROGA LA FRACCIÓN XXVII DEL ARTÍCULO 3 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Quedan sin efecto todas aquellas disposiciones contrarias al presente Decreto.
