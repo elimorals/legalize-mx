@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-archivos-para-el-estado-de-chihuahua-148050"
 country: "mx"
 rank: "ley"
 publication_date: "2021-02-27"
-last_updated: "2022-08-20"
+last_updated: "2026-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148050&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE ARCHIVOS PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2026.
 
 Ley publicada en Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 27 de febrero de 2021.
 
@@ -369,9 +369,11 @@ La responsabilidad de preservar íntegramente los documentos de archivo, tanto f
 
 Las personas que desempeñen cargos de servicio público que deban elaborar un acta de entrega-recepción al separarse de su empleo, cargo o comisión, en los términos de las disposiciones jurídicas aplicables, deberán entregar los archivos que se encuentren bajo su custodia, así como los instrumentos de control y consulta archivísticos actualizados, señalando los documentos con posible valor histórico de acuerdo con el catálogo de disposición documental.
 
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2026)</small>
+
 ###### Artículo 19.
 
-En caso de fusión o extinción de algún sujeto obligado, ya sea en parte o en su totalidad, sus fondos documentales serán entregados a la institución que le sustituya en el ejercicio de sus atribuciones, de acuerdo con su ciclo vital, a través de inventarios archivísticos normalizados, con todas y cada una de las series que conformaron el ente público que se extingue o se fusiona.
+En caso de fusión o extinción de algún sujeto obligado, ya sea en parte o en su totalidad, sus fondos documentales serán entregados a la institución que le sustituya en el ejercicio de sus atribuciones, de acuerdo con su ciclo vital, a través de inventarios archivísticos normalizados, con todas y cada una de las series que conformaron el ente público que se extingue o se fusiona. En ningún caso, la entidad receptora podrá modificar los instrumentos de control y consulta archivísticos.
 
 ###### Artículo 20.
 
@@ -683,11 +685,11 @@ Los sujetos obligados deberán implementar sistemas automatizados para la gesti�
 
 Las herramientas informáticas de gestión y control para la organización y conservación de documentos de archivo electrónicos que los sujetos obligados desarrollen o adquieran, deberán cumplir igualmente los lineamientos que para tal efecto se emitan.
 
-(NOTA: EL 2 DE ABRIL DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 54/2021 Y SU ACUMULADA 55/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ABRIL DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2026)</small>
 
 ###### Artículo 51.
 
-El Consejo Nacional Y EL CONSEJO ESTATAL emitirán los lineamientos que establezcan las bases para la creación y uso de sistemas automatizados para la gestión documental y administración de archivos, así como de los repositorios electrónicos, los cuales deberán, como mínimo:
+El Consejo Nacional emitirá los lineamientos que establezcan las bases para la creación y uso de sistemas automatizados para la gestión documental y administración de archivos, así como de los repositorios electrónicos, los cuales deberán, como mínimo:
 
 I. Asegurar la accesibilidad e inteligibilidad de los documentos de archivo electrónicos en el largo plazo.
 
@@ -907,9 +909,7 @@ V. Una persona representante del Poder Judicial.
 
 VI. La persona comisionada quien presida el Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública.
 
-(NOTA: EL 2 DE ABRIL DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 54/2021 Y SU ACUMULADA 55/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ABRIL DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-VII. UNA PERSONA REPRESENTANTE DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS.
+VII. (DEROGADA, P.O. 10 DE ENERO DE 2026)
 
 VIII. Quien ocupe la titularidad de la Auditoría Superior del Estado.
 
@@ -921,9 +921,17 @@ XI. Una persona representante de los propietarios o poseedores de archivos priva
 
 XII. Serán invitados del Consejo Estatal con voz, pero sin voto, los órganos a los que la Constitución Política del Estado de Chihuahua reconoce como Autónomos, distintos a los referidos en las fracciones VI y VII de este artículo, quienes designarán un representante.
 
-(NOTA: EL 2 DE ABRIL DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 54/2021 Y SU ACUMULADA 55/2021, DECLARÓ LA INVALIDEZ DEL ANTEPENÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ABRIL DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2026)</small>
 
-CADA INTEGRANTE PROPIETARIO DEBERÁ TENER UN SUPLENTE QUIEN OSTENTE POR LO MENOS EL NIVEL DE DIRECTOR. LOS CARGOS DE LOS CONSEJEROS SERÁN HONORÍFICOS.
+XII. Una persona representante del Comité Técnico del Archivo General del Estado.
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2026)</small>
+
+XIII. Serán invitados del Consejo Estatal con voz, pero sin voto, los órganos a los que la Constitución Política del Estado Libre y Soberano de Chihuahua reconoce como Autónomos, con excepción del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública, referido en la fracción VI de este artículo; quienes designarán una persona representante.
+
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2026)</small>
+
+Cada integrante propietario tendrá un suplente, el cual deberá tener, en su caso, la jerarquía inmediata inferior a la del consejero titular. Los cargos de los consejeros serán honoríficos.
 
 Quien presida podrá invitar a las personas que considere pertinentes, según la naturaleza de los asuntos a tratar, quienes intervendrán con voz, pero sin voto.
 
@@ -1179,33 +1187,37 @@ IX. (DEROGADA, P.O. 20 DE AGOSTO DE 2022)
 
 X. (DEROGADA, P.O. 20 DE AGOSTO DE 2022)
 
-(NOTA: EL 2 DE ABRIL DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 54/2021 Y SU ACUMULADA 55/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ABRIL DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2026)</small>
 
 ###### Artículo 84.
 
-El Archivo General del Estado constituirá Comités Técnicos de Archivos cómo órganos colegiados de carácter interdisciplinario e interinstitucional con carácter auxiliar, asesor y/o resolutivo integrado por especialistas en archivos y conservación para atender y coadyuvar en la investigación, análisis, diagnósticos, dictámenes, expedientes técnicos y profesionales, peritajes, planes y programas de conservación del patrimonio documental del Estado de Chihuahua.
+El Archivo General del Estado de Chihuahua, contará con un Comité Técnico que lo asesorará en las materias históricas, jurídicas, de tecnologías de la información y las disciplinas afines al quehacer archivístico.
 
-(NOTA: EL 2 DE ABRIL DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 54/2021 Y SU ACUMULADA 55/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ABRIL DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2026)</small>
+
+El Comité Técnico estará formado por trece personas integrantes designadas por el Consejo Estatal, a convocatoria pública del Archivo General del Estado de Chihuahua, entre representantes de instituciones de docencia, investigación o preservación de archivos, personas académicas y expertas destacadas. Operará conforme a los lineamientos aprobados por el mismo Consejo Estatal.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2026)</small>
+
+Las personas integrantes del Comité Técnico no obtendrán remuneración, compensación o emolumento por su participación.
 
 ###### Artículo 85.
 
-Los comités se constituirán de manera temporal respondiendo al objetivo específico de su creación, por invitación directa o convocatoria abierta, a criterio de la Secretaría o del Consejo Estatal, según sea el caso.
-
-(NOTA: EL 2 DE ABRIL DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 54/2021 Y SU ACUMULADA 55/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ABRIL DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+(DEROGADO, P.O. 10 DE ENERO DE 2026)
 
 ###### Artículo 86.
 
-El objeto de dichos comités técnicos es atender de manera transversal, integral, profesional, interinstitucional, colegiada, interdisciplinaria, incluyente y transparente todo lo concerniente en materia de archivos y conservación documental.
-
-(NOTA: EL 2 DE ABRIL DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 54/2021 Y SU ACUMULADA 55/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ABRIL DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+(DEROGADO, P.O. 10 DE ENERO DE 2026)
 
 ###### Artículo 87.
 
-Los comités técnicos se integrarán preferentemente por representantes de Colegios de Profesionistas, funcionarios municipales, estatales o federales en el ámbito de su competencia, representantes de asociaciones civiles, especialistas en diferentes modalidades de archivos, gestión documental y protección del patrimonio documental del Estado, ciudadanos académicos, peritos profesionales y/o especialistas en la materia.
+(DEROGADO, P.O. 10 DE ENERO DE 2026)
+
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2026)</small>
 
 ###### Artículo 88.
 
-El Archivo General del Estado convocará y coordinará las sesiones de trabajo, vigilará el cumplimiento de los acuerdos y evaluará los resultados de dichos comités técnicos, los cuales establecerán un programa de trabajo y definirán la colaboración, aportación y calendario de actividades, de acuerdo con los objetivos para los que fueron convocados.
+El Archivo General del Estado convocará y coordinará las sesiones de trabajo, vigilará el cumplimiento de los acuerdos y evaluará los resultados del Comité Técnico, el cual establecerá un programa de trabajo y definirá la colaboración, aportación y calendario de actividades, de acuerdo con los objetivos para los que fue convocado.
 
 ###### Artículo 89.
 
@@ -1219,9 +1231,7 @@ II. Contar, preferentemente, con experiencia mínima de un año en materia archi
 
 III. Contar con estudios de licenciatura y/o posgrado.
 
-(NOTA: EL 2 DE ABRIL DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 54/2021 Y SU ACUMULADA 55/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ABRIL DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-IV. NO HABER SIDO CONDENADO POR LA COMISIÓN DE ALGÚN DELITO DOLOSO.
+IV. (DEROGADA, P.O. 10 DE ENERO DE 2026)
 
 V. No ser cónyuge, ni tener relación de parentesco por consanguineidad o afinidad hasta el cuarto grado o civil con cualquiera de los miembros del órgano de gobierno.
 
@@ -1437,17 +1447,29 @@ En caso de que existan hechos que pudieran ser constitutivos de algún delito, l
 
 Se consideran infracciones administrativas a las conferidas en la Ley General de Archivos y las de la presente Ley:
 
-I. Enajenar los documentos de archivo que obren en los archivos de los sujetos obligados.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2026)</small>
 
-II. Sustraer, sin autorización de quien pueda concederla, los documentos que obren en los archivos de los sujetos obligados.
+I. Transferir a título oneroso o gratuito la propiedad o posesión de archivos o documentos de los sujetos obligados, salvo aquellas transferencias que estén previstas o autorizadas en las disposiciones aplicables.
 
-III. Extraviar o deteriorar los documentos de archivo.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2026)</small>
 
-IV. Alterar, adaptar, modificar, marcar textos o hacer señalamientos en la información contenida en los documentos de un archivo.
+II. Impedir u obstaculizar la consulta de documentos de los archivos, sin causa justificada.
 
-V. Poseer ilegítimamente algún documento una vez separado del empleo, cargo o comisión.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2026)</small>
 
-VI. Manejar en forma indebida un documento de archivo provocando con ello su mutilación, destrucción o extravío.
+III. Actuar con dolo o negligencia en la ejecución de medidas de índole técnica, administrativa, ambiental o tecnológica, para la conservación de los archivos.
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2026)</small>
+
+IV. Alterar, adaptar, modificar, marcar textos o hacer señalamientos en la información contenida en los documentos de un archivo histórico.
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2026)</small>
+
+V. Omitir la entrega de algún documento de archivo bajo la custodia de una persona al separarse de su empleo, cargo o comisión.
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2026)</small>
+
+VI. Usar, sustraer, divulgar, ocultar, alterar, mutilar, destruir o inutilizar, total o parcialmente, sin causa legítima conforme a las facultades correspondientes, y de manera indebida, documentos de archivo de los sujetos obligados.
 
 VII. Restaurar documentos sin autorización de la institución facultada y por los especialistas en la materia o alterar la información contenida en los mismos, para beneficio o perjuicio del restaurador o de un tercero.
 
@@ -1470,6 +1492,10 @@ III. La reincidencia, en su caso, de la conducta constitutiva de la infracción.
 En caso de reincidencia, las multas podrán duplicarse, dependiendo de la gravedad de la infracción cometida.
 
 Se considerará reincidente al que habiendo incurrido en una infracción que haya sido sancionada, cometa otra del mismo tipo o naturaleza.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2026)</small>
+
+Se considera grave el incumplimiento a las fracciones I, II, III, V y VI, del artículo 122 de esta Ley; asimismo, las infracciones serán graves si son cometidas en contra de documentos que contengan información relacionada con violaciones a derechos humanos.
 
 ### CAPÍTULO II. DE LOS DELITOS CONTRA LOS ARCHIVOS
 
@@ -1578,3 +1604,11 @@ Inscríbase el presente Decreto en el Registro Público de Organismos Descentral
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFLEY/0309/2025 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ARCHIVOS, Y DE LA LEY DEL ARCHIVO GENERAL, AMBAS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
