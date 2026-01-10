@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fomento-para-la-lectura-la-escritura-el-acceso-al-153258
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-04"
-last_updated: "2024-08-24"
+last_updated: "2026-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE FOMENTO PARA LA LECTURA, LA ESCRITURA, EL ACCESO AL LIBRO Y LAS BIBLIOTECAS EN EL ESTADO Y MUNICIPIOS DE OAXACA.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2026.
 
 Ley publicada en la Séptima Sección del Número 49 del Periódico Oficial del Estado de Oaxaca, el sábado 4 de diciembre de 2021.
 
@@ -149,9 +149,9 @@ XVII. Estado: Al Estado Libre y Soberano de Oaxaca;
 
 XVIII. Lectura. Al proceso cognoscitivo de determinadas clases de información o ideas contenidas en un soporte y transmitidas mediante algún tipo de código, usualmente un lenguaje visual, táctil o auditivo, que permite interpretar y descifrar el valor fónico de una serie de signos escritos, ya sea mentalmente o en voz alta;
 
-XIX. Libro: A toda publicación unitaria, no periódica, de carácter literario, artístico, científico, técnico, educativo, informativo o recreativo, impresa en cualquier soporte, cuya edición se haga en su totalidad de una sola vez en un volumen o a intervalos en varios volúmenes o fascículos;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2026)</small>
 
-Comprende también los materiales complementarios en cualquier tipo de soporte, incluido el electrónico, que conformen, conjuntamente con el libro, un todo unitario que no pueda comercializarse separadamente;
+XIX. Libro: Toda publicación unitaria, no periódica, de carácter literario, artístico, científico, técnico, educativo, informativo o recreativo, impresa o editada en cualquier soporte, lenguaje o código, cuya edición se haga en su totalidad de una sola vez en un volumen o a intervalos en varios volúmenes o fascículos. Comprenderá también los materiales complementarios en cualquier tipo de soporte, incluido el electrónico, que conformen, conjuntamente con el libro, un todo unitario que no pueda comercializarse separadamente.
 
 XX. Obras escritas: Comprende periódicos, revistas y publicaciones escritas en soportes físicos o digitales cuyo contenido sea de carácter educativo, técnico, cultural o artístico;
 
@@ -389,9 +389,17 @@ VI. Incentivar el desarrollo de distintos géneros literarios, en donde se abord
 
 VII. Organizar todo tipo de actividades y eventos que promuevan el libro y estimulen el hábito de la lectura, en apoyo a los objetivos de esta ley;
 
-VIII. Generar espacios de promoción institucional para la difusión del hábito de la lectura y de aquellos libros impresos y editados que por su valor cultural o interés científico o técnico que enriquezcan la cultura oaxaqueña; y
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2026)</small>
 
-IX. Ser responsable de la organización de la Feria Internacional del Libro de Oaxaca, promoviendo su desarrollo en la mayor cantidad de espacios culturales y educativos; así como en las distintas regiones del Estado, para garantizar su accesibilidad a toda la población.
+VIII. Generar espacios de promoción institucional para la difusión del hábito de la lectura y de aquellos libros impresos y editados que por su valor cultural o interés científico o técnico que enriquezcan la cultura oaxaqueña;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2026)</small>
+
+IX. Ser responsable de la organización de la Feria Internacional del Libro de Oaxaca, promoviendo su desarrollo en la mayor cantidad de espacios culturales y educativos; así como en las distintas regiones del Estado, para garantizar su accesibilidad a toda la población; y
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2026)</small>
+
+X. Promover y facilitar el acceso a la lectura de libros digitales y a la escucha de audiolibros.
 
 ###### Artículo 21.
 
@@ -411,9 +419,17 @@ III. Crear espacios que contribuyan a desarrollar y robustecer la cultura y el h
 
 IV. Impulsar la formación de nuevos escritores en los Municipios;
 
-V. Fomentar la producción y rescate de obras literarios de valor histórico y cultural de los Municipios; y
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2026)</small>
 
-VI. Las demás que se encuentren establecidas en esta Ley, su Reglamento y demás disposiciones legales aplicables.
+V. Fomentar la producción y rescate de obras literarios (sic) de valor histórico y cultural de los Municipios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ENERO DE 2026)</small>
+
+VI. Promover y facilitar el acceso a la lectura de libros digitales y a la escucha de audiolibros; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE ENERO DE 2026)</small>
+
+VII. Las demás que se encuentren establecidas en esta Ley, su Reglamento y demás disposiciones legales aplicables.
 
 ### CAPITULO II. DE LOS PROGRAMAS ESTATAL Y MUNICIPALES PARA EL FOMENTO DE LA LECTURA, LA ESCRITURA, EL ACCESO AL LIBRO Y LAS BIBLIOTECAS
 
@@ -525,9 +541,17 @@ V. Acceso a computadoras para fines académicos, culturales o de investigación;
 
 VI. Acceso a información digital y alfabetización informacional;
 
-VII. Actividades culturales y educativas permanentes, tales como talleres, seminarios, simposios, conferencias, foros, exposiciones, presentaciones de libros, círculos de estudio, organización de ferias o festivales en las que se propicie la libre manifestación y el intercambio de ideas; y
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2026)</small>
 
-VIII. Acceso a material para personas con discapacidad.
+VII. Actividades culturales y educativas permanentes, tales como talleres, seminarios, simposios, conferencias, foros, exposiciones, presentaciones de libros, círculos de estudio, organización de ferias o festivales en las que se propicie la libre manifestación y el intercambio de ideas;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2026)</small>
+
+VIII. Acceso a material para personas con discapacidad; y
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2026)</small>
+
+IX. Promover y facilitar el acceso a la lectura de libros digitales y a la escucha de audiolibros.
 
 ###### Artículo 36.
 
@@ -652,3 +676,15 @@ P.O. 24 DE AGOSTO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 955.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 3, LAS FRACCIONES VIII Y IX DEL ARTÍCULO 20, LAS FRACCIONES V Y VI DEL ARTÍCULO 22, Y LAS FRACCIONES VII Y VIII DEL ARTÍCULO 35; Y SE ADICIONA LA FRACCIÓN X AL ARTÍCULO 20, LA FRACCIÓN VII AL ARTÍCULO 22, Y LA FRACCIÓN IX AL ARTÍCULO 35 DE LA LEY DE FOMENTO PARA LA LECTURA, LA ESCRITURA, EL ACCESO AL LIBRO Y LAS BIBLIOTECAS EN EL ESTADO Y MUNICIPIOS DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. El Instituto Estatal de Creación Literaria y Promoción de la Lectura, así como los 570 municipios del Estado de Oaxaca, deberán prever en sus respectivos presupuestos de egresos, a partir del Ejercicio Fiscal siguiente a la entrada en vigor del presente Decreto, los recursos necesarios para la adquisición de libros digitales, audiolibros y demás materiales electrónicos destinados al fomento de la lectura. Asimismo, deberán considerar la adquisición de equipos, dispositivos tecnológicos y soportes que permitan su lectura y escucha, con el objeto de dotar a las bibliotecas públicas del Estado y de los municipios de las herramientas adecuadas para garantizar el acceso universal a los contenidos digitales previstos en esta Ley.
+
+Las autoridades mencionadas deberán realizar estas acciones conforme a su disponibilidad presupuestaria, observando los principios de racionalidad, eficiencia, honradez y transparencia en el uso de los recursos públicos, sin menoscabo de las obligaciones previamente establecidas en la normatividad aplicable.
