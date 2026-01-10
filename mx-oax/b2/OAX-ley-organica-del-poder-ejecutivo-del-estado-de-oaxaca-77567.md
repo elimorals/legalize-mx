@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2025-12-31"
+last_updated: "2026-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2026.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -2197,9 +2197,13 @@ XL. Promover, fomentar y, en su caso, participar en la creación de parques, cor
 
 XLI. Otorgar o administrar becas, apoyos, subsidios e incentivos que contribuyan al desarrollo económico del Estado;
 
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2026)</small>
+
+XLII. Diseñar e implementar, en el ámbito de su competencia y disponibilidad presupuestaria, políticas públicas, estrategias y programas de capacitación y educación financiera, dirigidos a personas emprendedoras y a quienes reciben apoyos económicos de programas sociales, para administrar de la mejor manera sus recursos y finanzas personales y con ello tener una economía saludable
+
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE ENERO DE 2024)</small>
 
-XLII. Las demás que en el ámbito de su competencia le confiere directamente el Gobernador del Estado, su reglamento interno y demás disposiciones normativas aplicables.
+XLIII. Las demás que en el ámbito de su competencia le confiere directamente el Gobernador del Estado, su reglamento interno y demás disposiciones normativas aplicables.
 
 > <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2016)</small>
 
@@ -4304,3 +4308,11 @@ TERCERO. La persona titular del Poder Ejecutivo del Estado de Oaxaca deberá exp
 CUARTO. Las Secretarías de Finanzas, de Administración y de Honestidad, Transparencia y Función Pública, en uso de sus facultades legales, realizarán todos los actos concernientes para el debido cumplimiento del presente Decreto.
 
 QUINTO. En un plazo de ciento ochenta días naturales posteriores a la entrada en vigor del presente Decreto, la Secretaría de Honestidad, Transparencia y Función Pública deberá adecuar y armonizar su normatividad respectiva para el cumplimiento del presente Decreto.
+
+P.O. 10 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 889.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN XLII RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 46-A DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
