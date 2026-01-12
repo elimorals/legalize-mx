@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2025-12-22"
+last_updated: "2026-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -1977,9 +1977,11 @@ Para satisfacer las necesidades colectivas, los ayuntamientos podrán solicitar 
 
 ### CAPITULO TERCERO. De la Comisión de Planeación Para el Desarrollo Municipal
 
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2026)</small>
+
 ###### Artículo 132.
 
-La Comisión de Planeación para el Desarrollo Municipal, se integrará con ciudadanos distinguidos del municipio, representativos de los sectores público, social y privado, así como de las organizaciones sociales del municipio, también podrán incorporarse a miembros de los consejos de participación ciudadana.
+La Comisión de Planeación para el Desarrollo Municipal, se integrará con ciudadanos distinguidos del municipio, representativos de los sectores público, social y privado, así como de las organizaciones sociales del municipio. Deberá garantizar la paridad de género y la inclusión de jóvenes. También podrán incorporarse a miembros de los consejos de participación ciudadana.
 
 ###### Artículo 133.
 
@@ -3008,3 +3010,9 @@ El Sistema DIF Estatal, en coordinación con los Sistemas DIF Municipales, desar
 ###### ARTÍCULO QUINTO.
 
 Los Ayuntamientos, en coordinación con el Sistema DIF Estatal, deberán capacitar a jueces cívicos y personal operativo en enfoque restaurativo, derechos humanos e interés superior de la niñez, en un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 12 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 360.- SE REFORMA LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
