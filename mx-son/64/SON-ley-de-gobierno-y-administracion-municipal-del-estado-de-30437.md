@@ -4,7 +4,7 @@ identifier: "SON-ley-de-gobierno-y-administracion-municipal-del-estado-de-30437"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2025-12-01"
+last_updated: "2026-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE ENERO DE 2026.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
@@ -397,101 +397,37 @@ El Instituto Superior de Auditoría y Fiscalización, otorgará capacitación en
 
 ### CAPITULO TERCERO. DE LA ENTREGA-RECEPCION DE LA ADMINISTRACION PUBLICA MUNICIPAL
 
-> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
-
 ###### Artículo 41.
 
-Se entiende por entrega-recepción al proceso legal-administrativo a través del cual las autoridades municipales salientes preparan y entregan a las autoridades entrantes todos los bienes, fondos y valores propiedad del Municipio, así como toda aquella documentación que debidamente ordenada, clasificada y certificada, haya sido generada en la administración municipal. De igual forma, se le dará tratamiento formal legal a todo lo relacionado con las tecnologías de la información y comunicación (T.I.C.) que el municipio haya generado, contratado, recibido, administrado, validado o resguardado. Para efectos de este artículo se tomarán las disposiciones que dicta la Estrategia Digital Nacional, en materia de tecnologías de la información y comunicaciones y en la de seguridad de la información publicadas en el Diario Oficial de la Federación el día 8 de mayo de 2014, en el acuerdo que tiene por objeto emitir las políticas y disposiciones para la estrategia digital nacional, en materia de tecnologías de la información y comunicaciones, y en la de seguridad de la información, así como establecer el manual administrativo de aplicación general en dichas materias.
-
-Las tecnologías de información y comunicaciones comprenden el equipo de cómputo, software y dispositivos de impresión que sean utilizados para almacenar, procesar, convertir, proteger, transferir y recuperar información, datos, voz, imágenes y video.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+(DEROGADO, B.O. 12 DE ENERO DE 2026)
 
 ###### Artículo 42.
 
-El Ayuntamiento deberá acordar, por lo menos seis meses antes de que finalice su período de gobierno, las bases mediante las cuales, los titulares de las secretarías, direcciones y/o dependencias, así como de las entidades paramunicipales de la administración municipal, como los responsables de las comisarías, harán la entrega de los asuntos de su competencia, así como los recursos humanos, materiales, financieros y de Tecnologías de la Información y Comunicación que tengan asignados para el ejercicio de sus atribuciones legales, conforme a las disposiciones legales del presente capítulo.
-
-Asimismo, para vigilar el desarrollo del proceso de entrega-recepción, se nombrará una comisión mixta que estará conformada con igual número de integrantes del Ayuntamiento saliente y del entrante y, funcionará cuando menos desde un mes antes de la fecha en que se realizará la sesión de instalación del Ayuntamiento electo. Los integrantes del Ayuntamiento entrante que conformarán la citada comisión serán designados por el Presidente Municipal electo y el desempeño de las funciones en la misma será de carácter honorario.
-
-> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+(DEROGADO, B.O. 12 DE ENERO DE 2026)
 
 ###### Artículo 43.
 
-Para el cumplimiento de las disposiciones establecidas en el acuerdo que establezca las bases del acto de entrega-recepción, el Órgano de Control y Evaluación Gubernamental del Ayuntamiento coordinará las acciones de planeación, organización e integración de la documentación, necesarias para la entrega-recepción, incluyendo las relativas a las tecnologías de la información y comunicación.
-
-> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+(DEROGADO, B.O. 12 DE ENERO DE 2026)
 
 ###### Artículo 44.
 
-Con el propósito de facilitar el proceso de entrega-recepción, los titulares de las dependencias y entidades de la administración municipal deberán mantener ordenados y permanentemente actualizados y administrados sus informes, registros, controles y demás documentación relativa a los asuntos de su competencia y la información de los recursos humanos, materiales y financieros incluyendo los relativos a las tecnologías de la información y comunicación de que disponen para el ejercicio de sus funciones.
-
-> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+(DEROGADO, B.O. 12 DE ENERO DE 2026)
 
 ###### Artículo 45.
 
-El Órgano de Control y Evaluación Gubernamental del Ayuntamiento podrá adoptar las medidas pertinentes que se requieran para dar cumplimiento al acuerdo a que se refiere el artículo 42 de esta Ley, emitiendo sus lineamientos y formatos, mismos que deberán de ser llenados y firmados por el funcionario saliente, enlace del proceso, presidentes tanto como el entrante como el saliente y el Síndico municipal, e integrará el expediente protocolario, y que será entregado al término de la ceremonia de instalación.
-
-> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+(DEROGADO, B.O. 12 DE ENERO DE 2026)
 
 ###### Artículo 46.
 
-Al término de la ceremonia de instalación, el Ayuntamiento saliente hará entrega legal y administrativa, al Ayuntamiento recién instalado, por conducto de los presidentes -saliente y entrante, de todos los bienes, fondos, valores, firmas electrónicas y claves de acceso a portales gubernamentales, relacionando claves y contraseñas de programas y portales de internet incluyendo los dominios tecnológicos propiedad del municipio, así como toda aquella documentación que debidamente ordenada, clasificada y certificada, tanto de manera física como digitalizada, que haya sido generada en la administración municipal.
-
-Los enlaces responsables de dar cumplimiento a las leyes de transparencia y acceso a la información, deberán elaborar un estado de avance municipal, mencionando las áreas de oportunidad, de opacidad y líneas inmediatas de acción, a fin de evitar contingencias y sanciones por falta de cumplimiento.
+(DEROGADO, B.O. 12 DE ENERO DE 2026)
 
 ###### Artículo 47.
 
-Los documentos a que se refiere el artículo anterior, deberán contener, por lo menos:
-
-I. Los libros de actas de las reuniones del Ayuntamiento saliente y la información sobre el lugar donde se encuentran los libros de las administraciones municipales anteriores;
-
-> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
-
-II. Los estados financieros contables correspondientes a la última cuenta pública de su gestión que comprenderá el Estado de Situación Financiera, Estado de Actividades, Estado de Variación en la Hacienda Pública, Estado Analítico del Activo, Estado Analítico de la Deuda y Otros Pasivos, Estado de Cambios en la Situación Financiera, Estado de Flujos de Efectivo y Notas a los estados financieros así como los indicadores de Postura Fiscal que de conformidad con la Ley General de Contabilidad Gubernamental y del Acuerdo por el que se armoniza la estructura de las Cuentas Públicas, se deben presentar en la Cuenta Pública Anual;
-
-> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
-
-III. La documentación relativa al estado que guarda la fiscalización a las cuentas públicas municipales; la que incluirá las observaciones pendientes de solventar, requerimientos o apercibimientos emitidos por el Instituto Superior de Auditoría y Fiscalización así como la Auditoría Superior de la Federación, incluyendo los dictámenes de despachos contables y evaluaciones al desempeño;
-
-> <small>(ADICIONADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
-
-III Bis. Infraestructura de las tecnologías de la información y comunicación, incluyendo el hardware, software, redes e instalaciones requeridas para desarrollar, probar, proveer, monitorear, controlar y soportar los servicios digitales municipales, correos electrónicos institucionales, así como seguridad de la información, que tiene por objeto preservar la confidencialidad, integridad y disponibilidad de la información, así como la autenticidad, confiabilidad, trazabilidad y no repudio de la misma;
-
-IV. La situación de la deuda pública municipal, la documentación relativa a la misma y su registro;
-
-V. El estado de la obra pública ejecutada y en proceso, así como la documentación relativa a la misma;
-
-> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
-
-VI. La situación que guarda la aplicación del gasto público de los recursos federales y estatales, así como de los informes y comprobantes de los mismos, presentados ante organismos fiscalizadores;
-
-VII. La plantilla y los expedientes del personal al servicio del Municipio, antigüedad, prestaciones, catálogo de puestos y demás información conducente;
-
-VIII. La documentación relativa a convenios o contratos que el Municipio tenga con otros municipios, con el Estado, con el Gobierno Federal o con particulares;
-
-IX. La documentación relativa a los programas municipales y proyectos aprobados o ejecutados, así como el estado que guardan los mismos en proceso de ejecución;
-
-X. El registro, inventario, catálogo y resguardo de los bienes muebles e inmuebles de propiedad municipal;
-
-XI. La documentación relativa al estado que guardan los asuntos tratados por las Comisiones del Ayuntamiento;
-
-XII. Relación de los asuntos en trámite ante autoridades judiciales y administrativas pendientes de resolver, con la descripción clara de su situación procesal, así como la especificación de sus probables consecuencias;
-
-XIII. Un informe sobre la ejecución del Plan Municipal de Desarrollo, expresando alcances y deficiencias que se hubieren observado en la administración y las medidas que podrían aplicarse para subsanarlas; y
-
-XIV. La demás información que se estime relevante para garantizar la continuidad de la administración pública municipal.
+(DEROGADO, B.O. 12 DE ENERO DE 2026)
 
 ###### Artículo 48.
 
-Una vez concluida la entrega-recepción, el Ayuntamiento entrante designará una comisión especial, plural, que se encargará de analizar el expediente integrado con la documentación conducente, para formular un dictamen en un plazo de treinta días naturales.
-
-En un plazo no mayor a quince días hábiles siguientes, el dictamen a que se refiere el párrafo anterior se someterá al conocimiento y consideración del Ayuntamiento, el cual podrá llamar a las personas que tengan o hayan tenido el carácter de servidores públicos y que de alguna manera se encuentren vinculados con la administración pública saliente, a efecto de solicitarles cualquier información o documentación. Tales personas estarán obligadas tanto a comparecer, como a proporcionar y atender las observaciones consecuentes.
-
-Dentro de los diez días siguientes a la conclusión del período de comparecencia que se menciona en el párrafo anterior, el Ayuntamiento emitirá el acuerdo correspondiente, mismo que no exime de responsabilidad a los integrantes y servidores públicos del Ayuntamiento saliente.
-
-El procedimiento descrito en el presente artículo, no podrá exceder de los noventa días fijados para la entrega de la glosa del Ayuntamiento saliente.
-
-Simultáneamente a la emisión de dicho acuerdo, el Ayuntamiento remitirá copia certificada del expediente de entrega-recepción al Congreso del Estado, a efecto de que sirva de apoyo para la revisión de las glosas municipales.
+(DEROGADO, B.O. 12 DE ENERO DE 2026)
 
 ### CAPITULO CUARTO. DEL FUNCIONAMIENTO DEL AYUNTAMIENTO
 
@@ -4704,3 +4640,9 @@ Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al d
 Artículo Segundo.- Para facilitar la expedición de la Constancia de Notorio Arraigo, se le brindará asesoramiento a los Ayuntamientos, a través de la Coordinación Estatal de Asuntos Religiosos del Gobierno del Estado.
 
 Artículo Tercero.- Los Ayuntamientos de los municipios en el Estado, dentro de los 90 días naturales de la entrada en vigor del presente Decreto, deberán realizar las adecuaciones legales y reglamentarias necesarias que permitan dar cumplimiento a los objetivos de éste mismo.
+
+B.O. 12 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 92. QUE DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
