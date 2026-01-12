@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-de-datos-personales-en-posesion-de-los-180454
 country: "mx"
 rank: "ley"
 publication_date: "2025-06-16"
-last_updated: "2025-06-16"
+last_updated: "2026-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2026.
 
 Ley publicada en la Edición Vespertina al Número 24 del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de junio de 2025.
 
@@ -67,7 +67,9 @@ III. Establecer las bases mínimas y condiciones homogéneas que regirán el tra
 
 IV. Garantizar la observancia de los principios de protección de datos personales previstos en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, el presente ordenamiento y demás disposiciones que resulten aplicables en la materia;
 
-V. Proteger los datos personales en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, fideicomisos y fondos públicos, del Estado de Aguascalientes y sus municipios, y partidos políticos locales, con la finalidad de regular su debido tratamiento;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2026)</small>
+
+V. Proteger los datos personales en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, fideicomisos y fondos públicos, del Estado de Aguascalientes y sus municipios, y partidos políticos, con la finalidad de regular su debido tratamiento;
 
 VI. Garantizar que toda persona pueda ejercer el derecho a la protección de los datos personales;
 
@@ -81,9 +83,11 @@ Para los efectos de la presente Ley se entenderá por:
 
 I. Áreas: A las instancias de los sujetos obligados previstas en los respectivos reglamentos interiores, estatutos orgánicos o instrumentos equivalentes, que cuentan o puedan contar, dar tratamiento, y ser responsables o encargadas de los datos personales;
 
-II. Autoridades garantes: A la Contraloría del Estado, a los órganos internos de control u homólogos de los Poderes Legislativo y Judicial, así como de los organismos constitucionales autónomos o equivalentes, cuya competencia está establecida en la presente Ley.
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2026)</small>
 
-Para el caso de los sindicatos, su autoridad garante será el Centro de Conciliación Laboral del Estado de Aguascalientes; para el caso de los partidos políticos locales, será el Instituto Estatal Electoral;
+II. Autoridades garantes: A la Contraloría del Estado, a los Órganos Internos de Control u homólogos de los Poderes Legislativo y Judicial, así como de los Órganos Constitucionales Autónomos, cuya competencia está establecida en la presente Ley;
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 12 DE ENERO DE 2026)</small>
 
 III. Aviso de privacidad: Al documento a disposición de la persona titular de la información de forma física, electrónica o en cualquier formato generado por el responsable, a partir del momento en el cual se recaben sus datos personales, con el objeto de informarle los propósitos del tratamiento de los mismos;
 
@@ -1354,3 +1358,11 @@ GENNY JANETH LÓPEZ VALENZUELA
 DIPUTADA SEGUNDA SECRETARIA
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35, 36, 46 fracción I y 49 párrafo segundo de la Constitución Política del Estado de Aguascalientes, para su debida publicación y observancia, “Promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 12 de junio de 2025”.- La Gobernadora del Estado de Aguascalientes, C. María Teresa Jiménez Esquivel.- Rúbrica.- El Secretario General de Gobierno, Mtro. José Antonio Arámbula López.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 359.- SE REFORMA LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, una vez se encuentren vigentes las reformas constitucionales en la materia
