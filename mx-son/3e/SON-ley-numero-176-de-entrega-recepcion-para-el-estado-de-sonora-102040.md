@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-176-de-entrega-recepcion-para-el-estado-de-sonora-10
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-16"
-last_updated: "2017-12-26"
+last_updated: "2026-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY NUMERO 176, DE ENTREGA RECEPCION PARA EL ESTADO DE SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE ENTREGA RECEPCIÓN PARA EL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 12 DE ENERO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ENTREGA RECEPCIÓN PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE ENERO DE 2026 (ABROGADA).
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 16 de junio del 2014.
 
@@ -282,3 +284,17 @@ B.O. 26 DE DICIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 12 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 95, DE ENTREGA RECEPCIÓN PARA EL ESTADO DE SONORA".]
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+SEGUNDO.- Se abroga la Ley de Entrega Recepción para el Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado, de fecha 16 de junio del año 2014.
+
+TERCERO.- Dentro de los noventa días naturales siguientes a la entrada en vigor de la presente Ley, el Instituto Superior de Auditoría y Fiscalización expedirá los manuales, lineamientos y formatos para los procesos de Entrega Recepción Institucional e Individual de los sujetos obligados en el presente ordenamiento, mismos que se publicarán en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+CUARTO.- Los Procesos de Entrega Recepción iniciados con anterioridad a la entrada en vigor de la presente Ley, deberán continuarse hasta su conclusión en los términos de la Ley que se abroga y la Ley de Gobierno y Administración Municipal.
+
+QUINTO.- La persona titular del Ejecutivo del Estado, deberá expedir el Reglamento de la presente Ley dentro del plazo de noventa días siguientes a la entrada en vigor de la presente Ley.
