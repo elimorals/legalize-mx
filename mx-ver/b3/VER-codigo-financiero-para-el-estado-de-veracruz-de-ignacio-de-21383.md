@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2025-08-14"
+last_updated: "2026-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE ENERO DE 2026.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -1877,47 +1877,47 @@ El impuesto a que se refiere este Capítulo se causará al momento en que se hag
 
 Este impuesto se pagará y determinará aplicando la tasa de 2% (dos por ciento) a la base gravable a que se refiere el artículo 111 de este Código.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 16 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE ENERO DE 2026)</small>
 
 ###### Artículo 113.
 
-El ingreso que perciba el Estado a través de la Secretaría, proveniente del impuesto y sus accesorios, se destinará única y exclusivamente a la promoción y difusión de las actividades turísticas del Estado, para lo cual el gobierno estatal constituirá un Fideicomiso centro de capital, con sus respectivos fondos producto, para que sean transparentados a través de un administrador especializado, que cuente con un sistema propio para controlar el cumplimiento de los fines del Fideicomiso, operación de flujo de efectivo y el cumplimiento de la normatividad aplicable. El fideicomiso destinará un mínimo de 90% (noventa por ciento) para la difusión de actividades turísticas y hasta un máximo de 10% (diez por ciento) para gastos de operación del mismo.
-
-El patrimonio de dicho Fideicomiso podrá ser incrementado con las aportaciones que realicen el Gobierno del Estado, el Gobierno Federal a través de sus dependencias o entidades, los gobiernos municipales, los integrantes del sector hotelero de la entidad de manera directa o a través de sus organizaciones y, en general, los empresarios del sector turístico, así como los demás recursos que legalmente pueda procurarse para el cumplimiento de sus fines.
+El ingreso que perciba el Estado a través de la Secretaría, proveniente del impuesto y sus accesorios, se destinará única y exclusivamente a los conceptos de publicidad, promoción y difusión de actividades turísticas, prestación de servicios, a la realización de obras de infraestructura pública de interés turístico y en general todas las actividades relacionadas con actividad turística del Estado, para lo cual el gobierno estatal constituirá un Fideicomiso, centro de capital, con sus respectivos fondos productos, para que sean transparentados a través de un administrador especializado, que cuente con un sistema propio para controlar el cumplimiento de los fines del Fideicomiso, operación de flujo de efectivo y el cumplimiento de la normatividad aplicable. El Fideicomiso destinará hasta un máximo de 10% (diez por ciento), para gastos de operación del mismo.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 16 DE OCTUBRE DE 2017)</small>
 
+El patrimonio de dicho Fideicomiso podrá ser incrementado con las aportaciones que realicen el Gobierno del Estado, el Gobierno Federal a través de sus dependencias o entidades, los gobiernos municipales, los integrantes del sector hotelero de la entidad de manera directa o a través de sus organizaciones y, en general, los empresarios del sector turístico, así como los demás recursos que legalmente pueda procurarse para el cumplimiento de sus fines.
+
+> <small>(REFORMADO, G.O. 12 DE ENERO DE 2026)</small>
+
 ###### Artículo 114.
 
-Para los efectos del ejercicio de los recursos del Fideicomiso, éste contará con un Comité Técnico que estará integrado, con voz y voto, por:
+Para los efectos del ejercicio de los recursos del Fideicomiso, éste contará con un Comité Técnico que estará integrado por:
 
-I. El Gobernador del Estado, quien lo presidirá;
+I. Presidencia: La persona titular del Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave, con derecho a voto;
 
-II. El titular de la Secretaría de Turismo y Cultura;
+II. Vocales, con derecho a voto:
 
-III. El titular de la Secretaría de Medio Ambiente;
+a) La persona titular de la Secretaría de Turismo;
 
-IV. El titular de la Secretaría de Finanzas y Planeación;
+b) La persona titular de la Secretaría de Finanzas y Planeación;
 
-V. El titular de la Secretaría de Desarrollo Económico y Portuario;
+c) La persona titular de la Secretaría de Desarrollo Económico y Portuario;
 
-VI. El titular de la Secretaría de Desarrollo Agropecuario, Rural y Pesca;
+d) La persona titular de la Secretaría de Infraestructura y Obras Públicas; y
 
-VII. El titular de la Secretaría de Infraestructura y Obras Públicas;
+e) La persona titular de la Secretaría de Protección Civil;
 
-VIII. El titular de la Secretaría de Protección Civil; y
+III. Siete representantes del ramo hotelero ante el Fideicomiso, los cuales, en consenso, serán elegidos entre y por los propios representantes de cada una de las siete regiones turísticas en que se divide el Estado, de conformidad con la Ley de Turismo del Estado de Veracruz de Ignacio de la Llave; sólo con derecho a voz.
 
-IX. Siete representantes del ramo hotelero: uno por cada una de las siete regiones en que se divide el Estado, de conformidad con la Ley de Turismo del Estado de Veracruz de Ignacio de la Llave.
+La persona titular de la Contraloría General del Estado participará en el órgano de gobierno, con voz, pero sin voto, para cumplir las funciones de comisario o comisaria. Las personas legisladoras integrantes de la Comisión Permanente de Turismo del Congreso del Estado participarán también con voz, pero sin voto, en el propio órgano de gobierno.
 
-El titular de la Contraloría General del Estado participará en el órgano de gobierno, con voz, pero sin voto, para cumplir las funciones de comisario. Los integrantes de la Comisión Permanente de Turismo del Congreso del Estado participarán también con voz, pero sin voto, en el propio órgano de gobierno.
+Asimismo, a invitación de la Presidencia del Comité Técnico, podrán asistir a las sesiones de trabajo del Comité Técnico, representantes de las dependencias e instituciones, públicas o privadas, federales o estatales, que tengan relación sustantiva con el objeto del Fideicomiso, de contribuir al fortalecimiento de una política pública orientada a difundir y mejorar la actividad turística en la entidad.
 
-Asimismo, a invitación del presidente del Comité Técnico, podrán asistir a las sesiones de trabajo del Comité Técnico, representantes de las dependencias e instituciones, públicas o privadas, federales o estatales, que tengan relación sustantiva con el objeto del Fideicomiso, de contribuir al fortalecimiento de una política pública orientada a difundir y mejorar la actividad turística en la entidad.
+Cada persona titular podrá nombrar una persona suplente en sus ausencias. En el caso de la persona titular del Poder Ejecutivo, será la persona titular de la Secretaría de Gobierno o quien ésta designe.
 
-Cada titular podrá nombrar un suplente en sus ausencias. En el caso del Gobernador, será el titular de la Secretaría de Gobierno o quien éste designe.
+En caso de empate en la toma de decisiones o determinaciones por parte de las personas integrantes del Comité Técnico, quien ocupe la Presidencia tendrá voto de calidad.
 
-En caso de empate en la toma de decisiones o determinaciones por parte de los integrantes del Comité Técnico, el presidente tendrá voto de calidad.
-
-Los cargos de los integrantes en el Comité Técnico serán honoríficos, por lo que no podrán recibir emolumento alguno en su desempeño.
+Los cargos de quienes integren el Comité Técnico serán honoríficos, por lo que no podrán recibir emolumento alguno en su desempeño.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 16 DE OCTUBRE DE 2017)</small>
 
@@ -1925,13 +1925,19 @@ Los cargos de los integrantes en el Comité Técnico serán honoríficos, por lo
 
 El Comité Técnico del Fideicomiso tendrá como principales facultades las siguientes:
 
-I. Elaborar y autorizar los programas de trabajo y el presupuesto de egresos que para las acciones de promoción turística a nivel institucional y regional se desarrollan con cargo al patrimonio del Fideicomiso, el cual deberá contener todas las actividades y campañas que se pretenden llevar a cabo, vigilando que dichas propuestas estén acordes a la campaña estatal de promoción turística y no afecten otras campañas;
+> <small>(REFORMADA, G.O. 12 DE ENERO DE 2026)</small>
+
+I. Elaborar y autorizar los programas de trabajo y el presupuesto de egresos que para las acciones de publicidad, promoción y difusión de actividades turísticas, prestación de servicios y la realización de obras de infraestructura pública y en general toda actividad turística a desarrollar en el Estado, se realicen a nivel institucional y regional, cuyo desarrollo sea con cargo al patrimonio del Fideicomiso, el cual deberá contener todas las actividades y campañas que se pretenden llevar a cabo, vigilando que dichas propuestas estén acordes a las líneas de acción estatal en materia turística;
 
 II. Implementar las normas necesarias para el buen funcionamiento del Fideicomiso, siempre y cuando no contravengan los fines del mismo;
 
-III. Establecer las bases en coordinación con la Secretaría de Turismo y Cultura, para fijar los criterios que deberán contener la campaña estatal y las campañas regionales de promoción turística;
+> <small>(REFORMADA, G.O. 12 DE ENERO DE 2026)</small>
 
-IV. Supervisar y verificar la correcta implementación de las campañas de promoción turística y programas;
+III. Establecer las bases en coordinación con la Secretaría de Turismo, para fijar los criterios que deberán contener la campaña estatal y las campañas regionales de publicidad, promoción y difusión de actividades turísticas;
+
+> <small>(REFORMADA, G.O. 12 DE ENERO DE 2026)</small>
+
+IV. Supervisar y verificar la correcta implementación de las campañas de publicidad, promoción y difusión de actividades turísticas, prestación de servicios y proponer los programas para la realización de obras de infraestructura pública relacionadas con la actividad turística del Estado;
 
 V. Proporcionar todos los documentos y facilitar todo lo necesario, a efecto de que se realice en forma anual una auditoría a través de la Contraloría General del Estado;
 
@@ -6006,3 +6012,13 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se deroga cualquier disposición que se oponga al presente Decreto.
 
 Tercero. En un plazo máximo de treinta días naturales, contados a partir del inicio de la vigencia del presente Decreto, la autoridad educativa estatal deberá expedir los lineamientos a los que hace referencia el Artículo 230 Bis, párrafo cuarto, del Código Financiero para el Estado de Veracruz de Ignacio de la Llave.
+
+G.O. 12 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 495 QUE REFORMA DIVERSOS ARTÍCULOS DEL CÓDIGO FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
