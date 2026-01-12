@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2025-11-24"
+last_updated: "2026-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -387,9 +387,27 @@ Así como aquellos actos dolosos que causen daño a la intimidad, privacidad y/o
 
 Para efectos del presente Capítulo se entenderá por Tecnologías de la Información y la Comunicación aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 12 DE ENERO DE 2026)</small>
 
-X. Violencia Vicaria: Es aquella que se realiza contra una mujer a través de un acto u omisión que genere afectación o daño físico, psicológico, emocional, patrimonial o de cualquier otra índole por medio de amenazas o violencia ejercida a un descendente, ascendente o dependiente económico de la víctima;
+X. Violencia vicaria: Es cualquier acto u omisión que, con el objetivo de causar perjuicio o daño a las mujeres, se dirige contra las hijas y/o hijos, familiares o personas allegadas, ya sea que se tenga o se haya tenido relación de matrimonio o concubinato; o mantenga o se haya mantenido una relación de hecho con la persona agresora; lo anterior aplica incluso cuando no se cohabite en el mismo domicilio.
+
+Se manifiesta a través de diversas conductas, entre otras:
+
+a) Amenazar con causar daño a las hijas e hijos;
+
+b) Amenazar con ocultar, retener, o sustraer a hijas e hijos fuera de su domicilio o de su lugar habitual de residencia;
+
+c) Utilizar a hijas y/o hijos para obtener información respecto de la madre;
+
+d) Promover, incitar o fomentar actos de violencia física de hijas y/o hijos en contra de la madre;
+
+e) Promover, incitar o fomentar actos de violencia psicológica que descalifiquen la figura materna afectando el vínculo materno filial;
+
+f) Ocultar, retener o sustraer a hijas y/o hijos, así como a familiares o personas allegadas;
+
+g) Interponer acciones legales con base en hechos falsos o inexistentes, en contra de las mujeres para obtener la guarda y custodia, cuidados y atenciones o pérdida de la patria potestad de las hijas y/o hijos en común, y
+
+h) Condicionar el cumplimiento de las obligaciones alimentarias a las mujeres y a sus hijas e hijos;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
@@ -443,11 +461,7 @@ La violencia familiar contra las mujeres es el acto abusivo de poder u omisión 
 
 Se equiparará a violencia familiar, la que se ejerce en el noviazgo, con las ex parejas de noviazgo, en las relaciones de padrinazgo y las relaciones que existen entre la mujer y los hijos e hijas de la pareja, aun y cuando no tengan algún parentesco, pero cohabite en el mismo domicilio de esta o se incorpore al núcleo familiar.
 
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
-
-Artículo 10 BIS.- La violencia vicaria.
-
-Tipo de violencia que comete la persona que mantenga o haya mantenido una relación de matrimonio, concubinato, afectiva o sentimental con la víctima; incluye toda aquella conducta realizada de manera consciente para generar un daño a un descendente, ascendente o dependiente económico de la víctima, ejerciéndose de forma indirecta hacia esta.
+Artículo 10 BIS.- (DEROGADA, P.O. 12 DE ENERO DE 2026)
 
 > <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2023)</small>
 
@@ -2298,6 +2312,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 24 DE NOVIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 304.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 12 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 372.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES".]
 
 ###### ARTÍCULO ÚNICO.
 
