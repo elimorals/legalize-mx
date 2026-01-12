@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2025-12-15"
+last_updated: "2026-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2026.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -87,9 +87,13 @@ Principio Pro Homine. Toda persona será tratada como ser humano sujeto de derec
 
 En caso de que disposiciones normativas aplicables sean contradictorias, o que de su interpretación o de una norma deriven diversos significados deberá escogerse aquel que beneficie más a la protección y garantía de los derechos humanos, atendiendo a los principios de universalidad, interdependencia, indivisibilidad y progresividad. En el supuesto de que se encuentren enfrentados derechos de diversas personas, deberá observarse, además, las reglas de adecuación, necesidad y proporcionalidad para equilibrar los derechos en la medida de lo posible
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2026)</small>
 
-En caso de delitos cometidos en contra de niñas, niños y adolescentes siempre se procurará el interés superior de la niñez en la aplicación de este Código.
+En caso de delitos cometidos en contra de niñas, niños y adolescentes siempre se garantizará el interés superior de la niñez en la aplicación de este Código.
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2026)</small>
+
+En caso de delitos cometidos en contra de personas adultas mayores, siempre se observará el principio de protección especial en los términos de la legislación de la materia en la aplicación de este Código.
 
 ## TÍTULO SEGUNDO. LA LEY PENAL
 
@@ -279,7 +283,9 @@ IV. Lesiones dolosas y culposas;
 
 V. Hostigamiento sexual;
 
-VI. Atentados al pudor;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2026)</small>
+
+VI. Abuso sexual;
 
 VII. Corrupción de menores e incapaces;
 
@@ -683,6 +689,10 @@ La indemnización por el daño moral, entendiéndose por éste la afectación qu
 
 III.- El resarcimiento de los perjuicios ocasionados;
 
+> <small>(REFORMADO [N. DE E. DEL ANÁLISIS A LA APLICACIÓN DEL DECRETO 371, SE ADVIERTE QUE EL CONTENIDO DEL SEGUNDO PÁRRAFO DE LA FRACCIÓN III, CORRESPONDE AL SEGUNDO PÁRRAFO DE LA FRACCIÓN II, VÉASE PROCESO LEGISLATIVO], P.O. 12 DE ENERO DE 2026)</small>
+
+La reparación del daño moral, entendida conforme a lo dispuesto en la fracción II del artículo 64 de la Ley General de Víctimas, deberá ser proporcional a la gravedad del daño sufrido y no podrá implicar el enriquecimiento de la(s) persona(s) con derecho a esta. Será fijada por el tribunal con base en la gravedad de la conducta, la condición de la víctima, las pruebas aportadas, la capacidad económica del responsable y demás elementos objetivos y subjetivos que permitan determinar un monto adecuado para el resarcimiento y su cumplimiento; y
+
 IV.- Tratándose de las figuras típicas que puedan concretizar los servidores públicos, la reparación de daños y perjuicios abarcará la restitución de la cosa o de su valor, y, además, hasta dos tantos el valor de la cosa o de los bienes obtenidos por el hecho delictivo específico; y
 
 V.- El pago de los alimentos caídos en términos del Código Civil del Estado de Aguascalientes, en relación con el artículo 131 del presente Código.
@@ -1005,7 +1015,9 @@ II. Lesiones Dolosas en Riña, previstas en el Artículo 105;
 
 III. Hostigamiento Sexual, prevista en el Artículo 114;
 
-IV. Atentados al Pudor y Atentados al Pudor Equiparado previstos en el Artículo 115 con excepción del caso previsto en su párrafo quinto;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2026)</small>
+
+IV. Abuso sexual y Abuso sexual Equiparado previstos en el Artículo 115 con excepción del caso previsto en su párrafo quinto;
 
 V. Estupro, prevista en el Artículo 118;
 
@@ -1461,17 +1473,43 @@ La pena de prisión y días de multa de Hostigamiento Sexual se aumentará hasta
 
 Si el hostigador fuese servidor público y utilizare los medios o circunstancias que el encargo le proporcione, además de las penas señaladas en el presente Artículo, se le destituirá del cargo y será inhabilitado para ocupar cualquier otro cargo público por un año.
 
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2026)</small>
+
+Si el sujeto activo fuese personal docente o administrativo de una institución educativa, pública o privada, y la víctima fuese estudiante de la misma, la pena de prisión se aumentará hasta en una mitad en sus mínimos y máximos. Además de las penas señaladas, se le destituirá del cargo y quedará inhabilitado para desempeñar cualquier empleo, cargo o comisión en el sistema educativo por un periodo de uno a cinco años.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2026)</small>
+
 ###### ARTÍCULO 115.
 
-Atentados al pudor. Los Atentados al Pudor consisten en la ejecución de actos erótico sexuales, sin consentimiento de la víctima, sin el propósito directo e inmediato de llegar a la cópula, o que se obligue a la víctima a ejecutarlos; entendiéndose por actos erótico sexuales, cualquier acción lujuriosa como caricias, manoseos y tocamientos corporales obscenos, o sin llegar al contacto físico, representen actos explícitamente sexuales, como caricias o masturbaciones.
+Abuso sexual. El Abuso sexual consiste en:
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2026)</small>
 
-También se equiparará a los Atentados al Pudor, la conduela de carácter erótico sexual de quién sin llegar al contacto físico, exhiba el pene, senos, glúteos o la vagina, ante la víctima, sin que medie consentimiento; o bien, no obstante con el consentimiento, el mismo sea otorgado por persona menor de quince años, por persona que no tenga capacidad para comprender el significado del hecho o capacidad para resistir la conducta del sujeto activo.
+I. La ejecución de cualquier acto de naturaleza sexual distintos a la copula, sin consentimiento de la víctima;
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2023)</small>
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2026)</small>
 
-Al responsable del delito de Atentados al Pudor o Atentados al Pudor equiparado se le impondrá de 6 meses a 3 años de prisión y de 25 a 250 días multa, así como el pago de la reparación de los daños y perjuicios ocasionados. Si la víctima es mayor de quince años, pero menor de 18 años de edad, al inculpado se le aplicará de 1 año con 6 meses a 3 años de prisión, de 50 a 250 días de multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+II. Que se obligue a la víctima a observar cualquier acto de naturaleza sexual;
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2026)</small>
+
+III. Que se obligue a la víctima a ejecutar sobre sí para un tercero o para el propio sujeto activo cualquier acto de naturaleza sexual distintos a la copula; o
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2026)</small>
+
+IV. Que se obligue a la víctima a exhibir su cuerpo;
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2026)</small>
+
+Se entenderá por acto de naturaleza sexual, cualquier tocamiento corporal en los glúteos, senos, zona pélvica o región perianal, o bien, aquellos que sin llegar al contacto físico representen actos explícitamente sexuales, como caricias o masturbaciones sin penetración.
+
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2026)</small>
+
+También se equiparará a Abuso sexual, cuando se realicen los actos descritos en las fracciones I, II, III y IV del presente artículo, y si exista consentimiento sea otorgado por la víctima , pero esta sea una persona menor de quince años, que no tenga capacidad para comprender el significado del hecho o capacidad para resistir la conducta del sujeto activo.
+
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2026)</small>
+
+Al responsable del delito de Abuso sexual o Abuso sexual equiparado se le impondrá de 6 meses a 3 años de prisión y de 25 a 250 días multa, así como el pago de la reparación de los daños y perjuicios ocasionados. Si la víctima es mayor de quince años, pero menor de 18 años de edad, al inculpado se le aplicará de 1 año con 6 meses a 3 años de prisión, de 50 a 250 días de multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
@@ -1645,15 +1683,15 @@ El pago de los alimentos se hará en la forma y términos que la ley civil fije 
 
 (DEROGADO, P.O. 2 DE FEBRERO DE 2015)
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2026)</small>
 
 ###### ARTÍCULO 124.
 
-Aumento de sanción. La punibilidad prevista para los Tipos Penales de violación, violación equiparada, estupro y atentados al pudor, se aumentará de conformidad con lo siguiente:
+Aumento de sanción. La punibilidad prevista para los Tipos Penales de violación, violación equiparada, estupro y abuso sexual, se aumentará de conformidad con lo siguiente:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE ENERO DE 2026)</small>
 
-I.- En una mitad en sus mínimos y sus máximos, tratándose de violación, violación equiparada, estupro o atentados al pudor, si concurre alguna de las siguientes circunstancias:
+I. En una mitad en sus mínimos y sus máximos, tratándose de violación, violación equiparada, estupro o abuso sexual, si concurre alguna de las siguientes circunstancias:
 
 > <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
 
@@ -1663,21 +1701,29 @@ a) Los hechos descritos sean cometidos a nivel de coautoría;
 
 b) Los hechos descritos sean cometidos por servidores públicos con motivo del ejercicio de sus funciones;
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2026)</small>
 
-c) Los hechos descritos sean cometidos por algún familiar hasta el cuarto grado, el tutor con su pupilo o el padrastro, madrastra o pareja sentimental de alguno de los progenitores, con el hijastro o hijastra, el maestro con el alumno o alumna el guía religioso con su asesorado o asesorada; o
+c) Los hechos descritos sean cometidos por algún familiar hasta el cuarto grado, el tutor con su pupilo o el padrastro, madrastra o pareja sentimental de alguno de los progenitores, con el hijastro o hijastra, el maestro con el alumno o alumna el guía religioso con su asesorado o asesorada;
 
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2026)</small>
 
-d) Los hechos descritos sean cometidos aprovechándose de la prestación de un servicio de transporte público, privado o contratado a través de plataformas tecnológicas, se cuente o no con autorización legal para ello.
+d) Los hechos descritos sean cometidos aprovechándose de la prestación de un servicio de transporte público, privado o contratado a través de plataformas tecnológicas, se cuente o no con autorización legal para ello; o
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2026)</small>
 
-II.- En una mitad en sus mínimos y sus máximos, tratándose de violación equiparada o atentados al pudor, si para llevar a cabo la conducta típica y obtener su resultado, se suministraron a la víctima sustancias estupefacientes, psicotrópicas o cualquiera otra que produzca efectos similares; o
+e) Los hechos descritos fueren cometidos por una persona en la prestación de un servicio o en ejercicio de su profesión, utilizando los medios o circunstancia que estos le proporcionen.
 
-> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2018)</small>
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2026)</small>
 
-III.- En una cuarta en sus mínimos y sus máximos, tratándose de violación, violación equiparada o atentados al pudor, cuando el responsable tenga o haya tenido una relación de pareja con la víctima.
+Además de la pena de prisión la persona condenada será suspendida por el término de cinco años en el ejercicio de su profesión o la prestación del servicio, dicho término se duplicará en el caso de que el delito fuere cometido por personas que se desempeñen en lugares o espacios en los que se brinde atención o servicios a niñas, niños o adolescentes.
+
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2026)</small>
+
+II.- En una mitad en sus mínimos y sus máximos, tratándose de violación equiparada o abuso sexual, si para llevar a cabo la conducta típica y obtener su resultado, se suministraron a la víctima sustancias estupefacientes, psicotrópicas o cualquiera otra que produzca efectos similares, o bien, tratándose de violación, violación equiparada o estupro se produjera el contagio de alguna infección de trasmisión sexual; o
+
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2026)</small>
+
+III. En una cuarta en sus mínimos y sus máximos, tratándose de violación, violación equiparada o abuso sexual, cuando el responsable tenga o haya tenido una relación de pareja con la víctima.
 
 ###### ARTÍCULO 125.
 
@@ -1765,13 +1811,45 @@ Se consideran autores de violencia familiar a los cónyuges, la concubina o el c
 
 También se considera autor a quien ejerza violencia familiar contra los hijos del cónyuge o pareja, pupilos o incapaces que se encuentren sujetos a la tutela, guarda o custodia de uno u otro.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2026)</small>
 
-Al responsable de violencia familiar se le aplicarán de 1 a 4 años de prisión y de 50 a 100 días de multa, así como al pago de la reparación de los daños y perjuicios ocasionados, a la privación de los derechos de familia respectivos, así como a la prohibición de acudir al domicilio de la víctima o acercarse a ésta y se le someterá a tratamiento psicológico para su reinserción, de conformidad con lo dispuesto por el artículo 73 A de este Código.
+Al responsable de violencia familiar se le aplicarán de 3 a 7 años de prisión.
 
-> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 17 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 12 DE ENERO DE 2026)</small>
 
-Cuando la violencia se ejerza sobre personas menores de edad, personas de sesenta años o más, personas con discapacidad, embarazadas o cualquier otra circunstancia que no esté en condiciones de resistir la conducta violenta, o cuando la acción básica se realice en el domicilio de la víctima, la pena de prisión se aumentará hasta un cincuenta por ciento más en sus mínimos y máximos.
+El delito de Violencia Familiar se aumentará en una mitad en sus mínimos y máximos cuando la violencia se ejerza sobre:
+
+I. Persona niña, niño o adolescente;
+
+II. Persona que no tenga la capacidad para comprender el significado del hecho o posibilidad para resistir la conducta delictuosa;
+
+III. Personas (sic) sea mayor de sesenta años de edad;
+
+IV. Persona con alguna discapacidad; o
+
+V. Personas embarazadas o durante los tres meses posteriores al parto o cesárea.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 12 DE ENERO DE 2026)</small>
+
+Así mismo, el delito de Violencia Familiar será calificado y se aumentará en dos terceras partes en sus mínimos y máximos cuando la violencia se cometa:
+
+I. Con la participación de dos o más personas;
+
+II. Con el uso de armas de fuego o punzocortantes;
+
+III. Por persona que pertenezca a alguna institución de seguridad pública o realice funciones de seguridad privada, aun y cuando éstas sean temporales;
+
+IV. Por persona agresora en estado de ebriedad o bajo el influjo de sustancias tóxicas; o
+
+V. Por persona agresora que consuma alcohol de forma consuetudinaria o tenga un uso no terapéutico de sustancias ilícitas conforme a lo previsto por la Ley General de Salud y se realice de manera habitual.
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2026)</small>
+
+Al responsable de Violencia Familiar en cualquiera de sus modalidades o expresiones, además de la pena privativa de libertad correspondiente, al responsable se le aplicarán de 70 a 150 veces el valor diario de la Unidad de Medida y Actualización, así como al pago de la reparación de los daños y perjuicios ocasionados, así como a la prohibición de acudir al domicilio de la víctima o acercarse a ésta y se le someterá a tratamiento psicológico para su reinserción, de conformidad con lo dispuesto por el artículo 73 A de este Código.
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2026)</small>
+
+La aplicación de las penas y medidas establecidas en este artículo, en caso de que la víctima sea niña, niño o adolescente, se realizará en estricta observancia al Interés Superior de la Niñez, en términos de lo dispuesto por el artículo 6o. de este ordenamiento.
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2023)</small>
 
@@ -1979,7 +2057,9 @@ X. El objeto material del apoderamiento sean postes, alambres u otros materiales
 
 XI. Se lleve a cabo el apoderamiento mediante el uso de sistemas de informática, sistema de redes de computadoras, base de datos, soporte lógico o programas de cómputo;
 
-XII. El apoderamiento se realice respecto de vehículos de transporte público de pasajeros, sobre parte de ello o sobre los bienes a cargo o disposición de su conductor o pasajeros;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2026)</small>
+
+XII. El apoderamiento se realice respecto de vehículos de transporte público de pasajeros, o de aquellos destinados al servicio de transporte de personas contratado a través de plataformas tecnológicas administrado por empresas de redes de transporte, que cuenten con el registro o autorización legal vigente conforme a la legislación de la materia; sobre parte de ellos o sobre los bienes a cargo o disposición de su conductor o pasajeros;
 
 XIII. El objeto material del apoderamiento sean cables, conexiones u otros materiales que formen parte integrante de alguna o algunas instalaciones eléctricas;
 
@@ -2249,13 +2329,17 @@ I. Si el daño se causa en bienes con valor científico y artístico;
 
 II. Si se utiliza para la destrucción o deterioro de los bienes inundación, incendio o explosión;
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2026)</small>
 
-III. Si el daño se causa en forma total o parcial respecto de programas, archivos, bases de datos o cualquier otro elemento intangible contenido en sistemas o redes de computadoras, soportes lógicos o cualquier medio magnético; o
+III. Si el daño se causa en forma total o parcial respecto de programas, archivos, bases de datos o cualquier otro elemento intangible contenido en sistemas o redes de computadoras, soportes lógicos o cualquier medio magnético;
 
-> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2026)</small>
 
-IV. Si el daño se produce a la infraestructura o equipamiento urbano, así como al mobiliario que se encuentre dentro de estos.
+IV. Si el daño se produce a la infraestructura o equipamiento urbano, así como al mobiliario que se encuentre dentro de estos; o
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2026)</small>
+
+V. Si el daño se produce a bienes destinados a la prestación del servicio de transporte público.
 
 ### CAPÍTULO VI. Tipos Penales Protectores de la Estética Urbana
 
@@ -3366,6 +3450,14 @@ ARTÍCULO 192 A.- Asedio Laboral. El Asedio laboral consiste en ejercer en el á
 Al responsable de asedio laboral se le aplicará pena de 2 a 6 meses de prisión y de 50 a 100 días multa y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 En caso de reincidencia o si la persona que realiza el acoso es superior jerárquico, la punibilidad descrita en el párrafo anterior, se aumentará hasta en una mitad en sus mínimos y máximos.
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2026)</small>
+
+ARTÍCULO 192 B.- Asedio por medios digitales. Comete el delito de asedio por medios digitales quien, sirviéndose de las tecnologías de la información y la comunicación, acose, hostigue, amenace o presione de manera persistente o reiterada a otro, con el propósito de menoscabar su dignidad, provocar miedo o afectar la imagen pública o social de la víctima, mediante el empleo de mensajes o videograbaciones, imágenes, o cualquier otro mecanismo de comunicación proporcionado por el entorno digital.
+
+Al responsable del delito de asedio por medios digitales se le impondrá pena de prisión entre uno y dos años de prisión; y de cien a doscientos días de multa. La sanción se podrá incrementar hasta un medio en sus mínimos y máximos cuando la víctima sea mujer, menor de edad, o el tipo penal se cometa por razones de género u orientación sexual.
+
+Este delito solo se perseguirá por querella.
 
 ### CAPÍTULO XX. Tipos Penales Protectores de la Salud Pública
 
@@ -4636,3 +4728,63 @@ Los procedimientos penales iniciados con antelación a la entrada en vigor de es
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 355.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 12 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 356.- SE ADICIONA EL ARTÍCULO 192-B AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 12 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 357.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 12 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 358.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Aquellos procedimientos judiciales que se estén llevando a cabo respecto del tipo penal que se reforma, deberán continuarse conforme a la legislación vigente al momento de la comisión del hecho punible, en los términos del Artículo 9º del Código Penal para el Estado de Aguascalientes.
+
+P.O. 12 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 364.- SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 114 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 12 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 370.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 12 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 371.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
