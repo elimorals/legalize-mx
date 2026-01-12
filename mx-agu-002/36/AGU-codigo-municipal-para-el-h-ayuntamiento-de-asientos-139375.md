@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-para-el-h-ayuntamiento-de-asientos-139375"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-10-14"
-last_updated: "2025-11-03"
+last_updated: "2026-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL PARA ASIENTOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2026.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 14 de octubre de 2019.
 
@@ -3127,13 +3127,17 @@ VII. No presentar antecedentes criminales, ni policiales relativos a haber sufri
 
 Al frente de la Contraloría Municipal, habrá un profesionista, que se denominará Contralor Municipal, servidor público que será nombrado por el Ayuntamiento en sesión reunido en Cabildo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2026)</small>
+
 ###### ARTÍCULO 239°.
 
-Para ser Contralor Municipal se deberán reunir los requisitos siguientes:
+Para ser Contralor Municipal o cualquiera de los cargos de Autoridad Investigadora o Autoridad Substanciadora y Resolutora se deberán reunir los requisitos siguientes:
 
-I. Ser mexicano por nacimiento, en pleno ejercicio de sus derechos y mayor de 21 años;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2026)</small>
 
-II. Ser persona de reconocida solvencia moral, tener un modo honesto de vivir y la capacidad necesaria para desempeñar dicho cargo;
+I. Ser de nacionalidad mexicana, en pleno ejercicio de sus derechos y mayor de 21 años;
+
+II. (DEROGADA, P.O. 12 DE ENERO DE 2026)
 
 III. Poseer título expedido en alguna carrera profesional de las ciencias económicas, administrativas o contables;
 
@@ -19314,3 +19318,15 @@ P.O. 3 DE NOVIEMBRE DE 2025.
 Primero.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 Segundo.- Se tendrá un plazo de 30 días para expedir los nombramientos a que da origen el presente decreto.
+
+P.O. 12 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA DEL PÁRRAFO PRIMERO, FRACCIÓN I DEL ARTÍCULO 239, Y SE DEROGA LA FRACCIÓN II DEL ARTÍCULO 239 CÓDIGO MUNICIPAL PARA ASIENTOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial del estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se tendrá un plazo de 30 días para conformación y toma de protesta por el h. ayuntamiento, a que da origen a la presente reforma.
