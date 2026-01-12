@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-anticorrupcion-de-aguascalientes-121265
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-08"
-last_updated: "2024-05-13"
+last_updated: "2026-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,678 +21,84 @@ state: "AGU"
 ---
 # LEY DEL SISTEMA ESTATAL ANTICORRUPCION DE AGUASCALIENTES
 
-LEY REGLAMENTARIA DE LAS OFICINAS DEL REGISTRO CIVIL DEL ESTADO DE TAMAULIPAS
+ACUERDO GENERAL 35/2002, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE DETERMINA LA CREACION TEMPORAL DE LOS JUZGADOS SEXTO DE DISTRITO "A" Y SEXTO DE DISTRITO "B" EN EL ESTADO DE SONORA, CON RESIDENCIA EN NOGALES; LA DENOMINACION, COMPETENCIA, JURISDICCION TERRITORIAL Y FECHA DE INICIO DE FUNCIONAMIENTO DE DICHOS ORGANOS JURISDICCIONALES; ASI COMO LAS REGLAS DE TURNO, SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN EL MENCIONADO ESTADO Y SEDE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2023.
+TEXTO ORIGINAL.
 
-Ley publicada en el Periódico Oficial, el 30 de octubre de 1940.
+Acuerdo publicado en el Diario Oficial de la Federación, el lunes 15 de julio de 2002.
 
-EL C. ING. MARTE R. GOMEZ, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
 
-Que el H. Congreso del Estado, se ha servido expedir el siguiente
+ACUERDO GENERAL 35/2002, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE DETERMINA LA CREACION TEMPORAL DE LOS JUZGADOS SEXTO DE DISTRITO "A" Y SEXTO DE DISTRITO "B" EN EL ESTADO DE SONORA, CON RESIDENCIA EN NOGALES; LA DENOMINACION, COMPETENCIA, JURISDICCION TERRITORIAL Y FECHA DE INICIO DE FUNCIONAMIENTO DE DICHOS ORGANOS JURISDICCIONALES; ASI COMO LAS REGLAS DE TURNO, SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN EL MENCIONADO ESTADO Y SEDE.
 
-DECRETO
+CONSIDERANDO
 
-"Num. 248.- El XXXVI H. Congreso Constitucional del Estado Libre y Soberano de Tamaulipas, en nombre del pueblo que representa, decreta la siguiente:
+PRIMERO.- Que por decretos publicados en el Diario Oficial de la Federación el treinta y uno de diciembre de mil novecientos noventa y cuatro, veintidós de agosto de mil novecientos noventa y seis, y once de junio de mil novecientos noventa y nueve, se reformaron, entre otros, los artículos 94, 99 y 100 de la Constitución Política de los Estados Unidos Mexicanos, modificando la estructura y competencia del Poder Judicial de la Federación;
 
-LEY REGLAMENTARIA DE LAS OFICINAS DEL REGISTRO CIVIL
+SEGUNDO.- Que en términos de lo dispuesto por los artículos 94, párrafo segundo, 100, párrafos primero y octavo, de la Carta Magna; 68 y 81, fracción II, de la Ley Orgánica del Poder Judicial de la Federación, el Consejo de la Judicatura Federal es el órgano encargado de la administración, vigilancia y disciplina del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral; con independencia técnica, de gestión y para emitir sus resoluciones; además, está facultado para expedir acuerdos generales que permitan el adecuado ejercicio de sus funciones;
 
-### CAPITULO I. DE LAS OFICINAS Y DE LOS OFICIALES DEL REGISTRO CIVIL
+TERCERO.- Que el artículo 17 constitucional establece, entre otras disposiciones, que los tribunales estarán expeditos para impartir justicia en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa, imparcial y gratuita;
 
-###### Art. 1°.
+CUARTO.- Que el artículo 81, fracciones VI y XXIV, de la Ley Orgánica del Poder Judicial de la Federación, establece que son atribuciones del Consejo de la Judicatura Federal determinar el número y límites territoriales de los juzgados de Distrito, en cada uno de los Circuitos en que se divide el territorio de la República Mexicana, así como dictar las disposiciones necesarias para regular el turno de los asuntos de la competencia de los juzgados de Distrito, cuando en un mismo lugar haya varios de ellos; las cuales fueron delegadas en la Comisión de Creación de Nuevos Organos mediante el Acuerdo General 48/1998, del Pleno del propio Consejo;
 
-En cada una de las Cabeceras Municipales y en las poblaciones que por su importancia urbana lo ameriten, a juicio del Ejecutivo, se establecerán Oficinas del Registro Civil que estarán a cargo de un Oficial del Registro Civil, Jefe de la Oficina, y de un Secretario con facultades de refrendo. En cada caso, de acuerdo con el volumen del trabajo, habrá también los empleados subalternos que fijen los Presupuestos de Egresos correspondientes.
+QUINTO.- Que con apoyo en las disposiciones antes mencionadas, el Consejo de la Judicatura Federal ha implementado medidas que, a pesar de las restricciones presupuestales existentes, tiendan a abatir cargas de trabajo en los juzgados de Distrito, entre otras, su transformación temporal en juzgados de Distrito “A” y “B”;
 
-###### Art. 2°.
+SEXTO.- Que la Secretaria Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos del Consejo de la Judicatura Federal, realizó el análisis de las estadísticas correspondientes a los asuntos que actualmente se tramitan en los Juzgados de Distrito en el Estado de Sonora, con residencia en Nogales.
 
-Serán auxiliares de las Oficinas del Registro Civil: los Delegados Municipales o los Sub-Delegados en los centros de población, congregaciones, ejidos, rancherías y demás agrupaciones urbanas en donde no existan Oficinas del Registro Civil.
+Con base en lo anterior, la Comisión de Creación de Nuevos Organos advirtió que la carga de trabajo en el Juzgado Sexto de Distrito en el Estado de Sonora, con residencia en Nogales excede notoriamente a las existentes en los restantes juzgados de Distrito de la referida entidad y sede; lo que hace necesario equilibrar dicha carga de trabajo, razón por la cual, en sesión de ocho de julio del presente año, determinó proponer al Pleno del Consejo de la Judicatura Federal la transformación temporal del órgano jurisdiccional en cita, en juzgados de Distrito “A” y “B”, conservando la residencia, denominación, competencia y jurisdicción territorial del órgano jurisdiccional de origen.
 
-###### Art. 3°.
+En consecuencia, con fundamento en las disposiciones constitucionales y legales señaladas, el Pleno del Consejo de la Judicatura Federal expide el siguiente
 
-En su carácter de auxiliares del Registro Civil, corresponderá a los Delegados Municipales o Sub-Delegados la obligación de dar cuenta detallada a la Oficina respectiva, sobre los nacimientos y defunciones que ocurran en su jurisdicción.
+ACUERDO
 
-###### Art. 4°.
+PRIMERO.- A partir del quince de julio de dos mil dos, el Juzgado Sexto de Distrito en el Estado de Sonora, con residencia en Nogales, se transformará temporalmente en Juzgado Sexto de Distrito “A” en el Estado de Sonora, y Juzgado Sexto de Distrito “B” en el Estado de Sonora, con residencia en la mencionada ciudad, los que se instalarán en el mismo espacio físico que ocupa actualmente el juzgado de Distrito cuya transformación se dispone, para lo cual, en la medida de lo posible, compartirán proporcionalmente dicho espacio, así como la infraestructura de mobiliario e informática, a fin de lograr el adecuado desarrollo de sus labores.
 
-Los Oficiales del Registro Civil los Secretarios y demás personal, serán nombrados por el Ejecutivo del Estado, que podrá cambiarlos de adscripción, conforme a las necesidades del servicio y removerlos sólo en caso de omisiones en el servicio o de faltas graves, sin perjuicio de las disposiciones sobre trabajo de las leyes en vigor o que en lo sucesivo se expidieren.
+SEGUNDO.- A partir de la fecha indicada en el punto anterior, el titular del Juzgado Sexto de Distrito “A” en el Estado de Sonora, con residencia en Nogales, será quien se desempeñaba como juez de Distrito en el órgano cuya transformación se determina.
 
-###### Art. 5°.
+Respecto al titular del Juzgado Sexto de Distrito “B” en el Estado de Sonora, con residencia en Nogales, el Pleno del Consejo de la Judicatura Federal, en su oportunidad, determinará la adscripción correspondiente.
 
-Las renuncias de los Oficiales del Registro Civil se presentarán al Ejecutivo del Estado por conducto del Departamento de Estadística. Ningún Oficial del Registro Civil abandonará su empleo sin que se le haya aceptado la renuncia.
+TERCERO.- El personal del juzgado de Distrito de origen se distribuirá, preferentemente, por orden alfabético del apellido paterno, quedando el primero de ellos bajo las órdenes del juez Sexto de Distrito "A", el segundo bajo las órdenes del juez Sexto de Distrito "B" y así sucesivamente, agregándose, en su caso, el necesario para completar la plantilla autorizada para dichos órganos jurisdiccionales federales.
 
-###### Art. 6°.
+CUARTO.- Los expedientes actualmente en trámite en el Juzgado Sexto de Distrito en el Estado de Sonora, se repartirán de manera equitativa, quedando a cargo del titular del Juzgado Sexto de Distrito "A" los correspondientes a números nones; y a cargo del titular del Juzgado Sexto de Distrito "B" los correspondientes a números pares.
 
-Para ser Oficial del Registro Civil se requerirá:
+Los expedientes que se encuentren en archivo definitivo, los conservará y tramitará el Juez Sexto de Distrito "A".
 
-I.- Tener 25 o más años de edad;
+Los nuevos expedientes seguirán el mismo orden para su distribución. Tratándose del ingreso de expedientes que estén relacionados, éstos serán del conocimiento del juez de Distrito al que haya correspondido el primero de ellos.
 
-II.- Ser ciudadano mexicano con vecindad en la localidad, y
+Los asuntos archivados provisionalmente en el juzgado que se transforma, hasta antes del quince de julio de dos mil dos, se conservarán en el Juzgado Sexto de Distrito "A" y se repartirán conforme se vayan cumplimentando las órdenes de aprehensión, presentación o reaprehensión, correspondiendo al titular del juzgado mencionado los números nones y al titular del Juzgado Sexto de Distrito "B" los números pares.
 
-III.- Tener buenas costumbres.
+En cuanto a los asuntos que, de acuerdo con el reparto que se realice, corresponda su conocimiento al titular del Juzgado Sexto de Distrito "B" y en los que deba pronunciarse alguna resolución de carácter urgente (como resolver sobre la orden de aprehensión o de comparecencia, o sobre el auto de término constitucional), el juez Sexto de Distrito "A" los conservará hasta emitir la resolución urgente que corresponda, hecho lo anterior los enviará al Juzgado Sexto de Distrito "B".
 
-###### Art. 7°.
+El reparto de expedientes se realizará buscando en todo momento el equilibrio en las cargas de trabajo.
 
-El cargo de Oficial del Registro Civil será incompatible con cualquier otro de carácter federal, Estatal o Municipal, salvo autorización expresa del Ejecutivo.
+QUINTO.- El titular del juzgado que se transforma, asistido de un secretario, deberá realizar en los libros de gobierno correspondientes, certificación en la que hará constar la transformación temporal en juzgados de Distrito "A" y "B" en el Estado de Sonora, con residencia en Nogales, y la entrega temporal de los expedientes al titular del juzgado de Distrito “B”.
 
-###### Art. 8°.
+El juez Sexto de Distrito "B" mencionado, deberá autorizar el uso de libros de gobierno nuevos, en los que registrará con el mismo número aquellos expedientes que haya recibido; posteriormente registrará con el número subsecuente, los asuntos de nuevo ingreso que le sean turnados por la oficialía de partes, en el entendido de que las anotaciones relativas a los movimientos de dichos asuntos, se efectuarán en los referidos libros.
 
-Las faltas obsolutas (sic) de los Oficiales y Secretarios de las Oficinas del Registro Civil, serán suplidas por el substituto que designe el Ejecutivo. Las faltas temporales del Jefe de la Oficina, cuando no excedan de treinta días, serán suplidas por el Presidente Municipal o por quien legalmente ejerza sus funciones. Para las ausencias que duren más de treinta días, deberá nombrarse substituto. Las faltas del Secretario, cuando no excedan de quince días, serán suplidas por dos personas de la localidad que intervenga como testigos de asistencia. Para ausencias de mayor duración deberá nombrarse substituto.
+A su vez, el juez Sexto de Distrito "A" continuará utilizando los libros de gobierno del órgano jurisdiccional cuya transformación se determina, en los que realizará las anotaciones relativas a los asuntos que conforme a la distribución le hayan correspondido y autorizará el uso de libros de gobierno nuevos, en los que únicamente registrará los asuntos nuevos que le sean turnados, así como los movimientos de dichos asuntos.
 
-###### Art. 9°.
+Los jueces de Distrito “A” y “B” indicados en los párrafos precedentes, deberán elaborar acta circunstanciada en la que conste la entrega y recepción de los expedientes y los valores respectivos.
 
-Serán obligaciones de los Oficiales del Registro Civil:
+SEXTO.- Serán consideradas áreas comunes: la oficialía de partes, el archivo, la papelería, el Sistema Integral de Seguimiento de Expedientes, el control de objetos del delito, y el oficial de servicios y mantenimiento, las cuales deberán desarrollar sus actividades de tal manera que atiendan los requerimientos de servicio de los dos juzgados de Distrito, quedando bajo la responsabilidad del juez de Distrito "A" todo lo relacionado con su funcionamiento, las incidencias laborales y, en su caso, el nombramiento del personal de dichas áreas.
 
-I.- Residir en un lugar céntrico de la localidad, donde ejerzan sus funciones;
+Por cuanto hace a los valores que se manejan en el órgano jurisdiccional federal cuya transformación se determina, se acompañarán al expediente del que forman parte, por lo que deberán ser recibidos por el juez de Distrito de que se trate, llevando este último su control mediante el libro de registro relativo.
 
-II.- Autorizar los actos en que intervengan, asentando inmediatamente las actas correspondientes en el libro respectivo;
+SEPTIMO.- Los movimientos estadísticos originados con motivo del reparto de expedientes, deberán informarse oportunamente a la Unidad de Estadística y Planeación Judicial del Consejo de la Judicatura Federal. Los titulares de los mencionados juzgados de Distrito "A" y "B", deberán enviar por separado su reporte estadístico mensual.
 
-III.- Hacer que los que intervengan en un acto de su ministerio firmen el acta, a menos de que no quieran hacerlo, en cuyo caso se hará constar esa circunstancia;
+OCTAVO.- La Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Sonora, con residencia en Nogales, seguirá turnando los asuntos nuevos conforme lo viene realizando.
 
-IV.- Expedir las boletas para las inhumaciones con la debida oportunidad;
+Para la recepción de los asuntos en horas y días inhábiles, se conservarán las reglas de temporalidad que actualmente operan en los juzgados de Distrito antes precisados, por lo que en la fecha señalada en el punto primero de este acuerdo estará de turno el Juzgado Quinto de Distrito en el Estado de Sonora, con residencia en Nogales.
 
-V.- Expedir certificados de los actos que autoricen siempre que se los pidan; así como de los documentos que con el carácter de anexos existan en el Archivo del Registro Civil;
+Los Juzgados Sexto de Distrito "A" y "B" en el Estado y sede mencionados estarán de turno simultáneamente.
 
-VI.- Leer a los interesados con claridad las actas que autoricen, inmediatamente después de haber concluido el acto de que se trata;
+NOVENO.- En virtud de que se trata de una medida temporal, la creación de los juzgados de Distrito a que se refiere el presente acuerdo no modifica el diverso Acuerdo General 23/2001 del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se divide el Territorio de la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
-
-VII.- Dar aviso al Ejecutivo del Estado de las nuevas construcciones o reparaciones que sea necesario hacer en el Cementerio o Cementerios de su jurisdicción;
-
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2022)</small>
-
-VIII.- Cerciorarse con la debida oportunidad de que las personas interesadas en los actos que intervengan o en la obtención de certificados y constancias relativas a actos ya autorizados, hayan cubierto previamente, en la Colecturía de Rentas, las cuotas correspondientes, en términos de los artículos 17 y 18 de la presente Ley;
-
-> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
-
-IX.- Exhortar a quien presente a la niña o niño a registrar a que el nombre propio que vaya a otorgarle no sea peyorativo, discriminatorio, infamante, denigrante o carente de significado; y
-
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2022)</small>
-
-X.- Expedir el certificado de Deudor Alimentario Moroso cuando sea ordenado por la autoridad judicial.
-
-###### Art. 10.
-
-Queda prohibido a los Oficiales del Registro Civil:
-
-I.- Autorizar actos o asentar actas de oficio;
-
-II.- Alterar o desfigurar lo declarado por los interesados;
-
-III.- Autorizar actas o extender certificados sin que se hayan pagado previamente los derechos correspondientes; y
-
-IV.- Cobrar por la autorización de actas o por la expedición de certificados, cuotas mayores que las autorizadas por la presente Ley.
-
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 1954)</small>
-
-###### Art. 11.
-
-El despacho ordinario de los asuntos del Registro Civil, se hará todos los días durante las horas que previamente haya determinado el Ejecutivo del Estado, con excepción de los domingos, el primero de enero, cinco de febrero, primero y cinco de mayo, quince y dieciséis de septiembre, doce de octubre, veinte de noviembre y veinticinco de diciembre.
-
-El Ejecutivo del Estado, en los casos que estime prudente, podrá autorizar la celebración de matrimonios en días y horas inhábiles, previa solicitud de los interesados.
-
-###### Art. 12.
-
-No obstante lo dispuesto en el artículo anterior, los Oficiales del Registro Civil tendrán la obligación de despachar cualquier día y a cualquier hora los asuntos urgentes. Se considerarán urgentes para los efectos de la Ley, los certificados de defunción, las autorizaciones para la traslación de cadáveres, o las exhumaciones por mandato de Ley. La infracción de esta obligación será sancionada por el Ejecutivo en la forma que lo estime procedente, según la gravedad de la falta.
-
-###### Art. 13.
-
-La jurisdicción de las Oficinas del Registro Civil comprenderá toda la Municipalidad, salvo el caso de Municipios donde, por razones especiales, exista más de una Oficina del Registro Civil. Cuando esto ocurra el Ejecutivo del Estado asignará la jurisdicción de cada Oficina.
-
-###### Art. 14.
-
-Los Oficiales del Registro Civil estarán obligados a proporcionar a la Dirección General de Estadística, o al Departamento de Estadística del Estado, todos los informes que se le soliciten.
-
-###### Art. 15.
-
-Los Oficiales del Registro Civil estarán facultados para imponer al Secretario de la Oficina y a los empleados subalternos, por vía de corrección disciplinaria y con acuerdo del Ejecutivo, suspención (sic) de trabajo hasta por diez días sin goce de sueldo.
-
-###### Art. 16.
-
-Para conservar el orden o para hacer cumplir sus determinaciones, podrán los Oficiales del Registro Civil pedir auxilio a las Autoridades Policiacas y consignar los hechos a los Jueces correspondientes.
-
-###### Art. 17.
-
-Los derechos que causan los actos del Registro Civil, serán percibidos en la Colecturía de Rentas de cada jurisdicción. A este efecto el Oficial del Registro Civil expedirá "Pase de Pago" a la Colecturía de Rentas correspondiente, que será canjeado por el recibo definitivo. Previa presentación de éste, el Oficial verificará el acto que ampare el entero.
-
-En las Congregaciones y demás poblados en donde existan Oficiales del Registro Civil y no haya Colecturía de Rentas, quedan facultados los Oficiales para hacer los cobros correspondientes, pero mensualmente liquidarán a la Colecturía de su jurisdicción lo recaudado, mediante relación pormenorizada del número y fecha de los actos que hayan dado origen al cobro.
-
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2010)</small>
-
-###### Art. 18.
-
-Los derechos que se causen por los actos que se practiquen en los términos de esta Ley y por las certificaciones relacionadas con los mismos actos, se sujetarán a lo dispuesto en el apartado correspondiente de la Ley de Hacienda para el Estado de Tamaulipas.
-
-###### Art. 19.
-
-Los Colectores de Rentas del Estado, con sujeción a las instrucciones periódicas que reciban del Ejecutivo, podrán, en los casos de pobreza notoria, condonar los derechos correspondientes al registro de nacimiento. En todos los demás actos ninguna autoridad podrá condonar el pago de los derechos que los interesados deberán cubrir precisamente como retribución del servicio prestado.
-
-###### Art. 20.
-
-Las certificaciones de las actas inscritas en el Registro Civil se autorizarán, con las firmas del Oficial y el Secretario y con el sello de la Oficina y causarán los derechos que fijen las Tarifas correspondientes.
-
-###### Art. 21.
-
-En las Congregaciones donde ya venga funcionando Oficina del Registro Civil o donde con posterioridad se establezca, substituirán a los Oficiales del Registro Civil, en sus ausencias, los Delegados Municipales.
-
-### CAPITULO II.. DE LOS LIBROS DEL REGISTRO
-
-###### Art. 22.
-
-Para inscripción de las actas del Registro Civil cada Oficina deberá llevar, por duplicado un juego de tres libros: uno destinado a nacimientos, posesión de estado de hijo o progenitura; otro de inscripciones sobre matrimonio, disolución de matrimonio y divorcios; y otro destinado a inscripciones sobre fallecimiento y declaraciones de ausencia.
-
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 1954)</small>
-
-###### Art. 23.
-
-Todos los libros del Registro Civil serán proporcionados por la Dirección de Economía y Registro Civil del Gobierno del Estado, y serán autorizados firmándose y sellándose en su primera y última hoja, por el C. Gobernador del Estado o por el C. Secretario General de Gobierno; se renovarán cada año y el original quedará en el archivo de la oficina respectiva, con los documentos que con el carácter de anexos existen en la misma, remitiéndose, precisamente el primer mes del año siguiente, a la citada Dirección, los libros duplicados.
-
-###### Art. 24.
-
-Cuando al terminar el año haya fojas en blanco se inutilizarán con rayas transversales, especificando en la última el número de actas levantadas y el de fojas inutilizadas. Se formará para cada libro, un índice alfabético con el apellido de las personas a quienes se refiera el acta.
-
-###### Art. 25.
-
-El Oficial del Registro Civil que no cumpla con la prevención de remitir oportunamente al Departamento de Estadística los libros Duplicados, será destituído de su cargo y multado, a razón de: $0.50 por cada acta que fuera dejada de pasar en los libros duplicados. Cuando el Oficial del Registro Civil se resista a cubrir la multa, compurgará arresto a razón de un día por cada peso o fracción de peso que le corresponda pagar.
-
-###### Art. 26.
-
-En las actas del Registro Civil se hará constar el año, mes, día y hora en que se presenten los interesados; se tomará razón especificada en los documentos que expidan y hasta donde sea posible, de los nombres, estado civil, edad, profesión y domicilio de todos los que en ella sean nombrados.
-
-###### Art. 27.
-
-Extendida en el libro el acta, será leída a los interesados y testigos. La firmarán todos y si alguno no pudiere hacerlo, se expresará la causa. Si alguno de los interesados quisiera imponerse por sí mismo del tenor del acta, podrá hacerlo, y si no supiere leer, uno de los testigos designados por él, la leerá y la firmará si el interesado no supiere hacerlo.
-
-###### Art. 28.
-
-Cuando el acto comenzado se interrumpa porque las partes se nieguen a continuarlo o por cualquier otro motivo, se inutilizará el acta marcándola con líneas transversales y expresando el motivo de la suspensión con una declaración que deberán firmar la autoridad, los interesados y los testigos. La circunstancia de que no se lleve a cabo el acto no implicará la devolución de los derechos que previamente se hayan enterado en la Colecturía de Rentas, o en la propia Oficina, según el caso.
-
-###### Art. 29.
-
-No podrá borrarse ninguna palabra o frase escrita en las actas relativas. Cuando haya necesidad de enmendar errores, se testará lo escrito con una línea que no impida su lectura, salvándose al final lo que se haya testado o entrerrenglonado. Las cantidades y fechas se escribirán con número y letra.
-
-###### Art. 30.
-
-Cualquier alteración de las actas por parte de los jefes, secretarios o personal subalterno de las Oficinas del Registro, además de las responsabilidades legales correspondientes, será sancionada por el Ejecutivo con el cese del infractor.
-
-###### Art. 31.
-
-Los actos relativos al mismo Oficial del Registro, a su consorte o a los ascendientes o descendientes de cualquiera de ellos, no podrán autorizarse por el mismo, pero se asentarán en el libro que corresponda y se autorizarán por el Presidente Municipal o por su substituto legal.
-
-###### Art. 32.
-
-Los libros del Registro Civil estarán bajo la inspección y vigilancia de la Tesorería General del Estado, de las Colecturías de Rentas y del Departamento de Estadística.
-
-###### Art. 33.
-
-A más tardar para el día 15 de diciembre de cada año el Departamento de Estadística enviará los libros de que habla el artículo 22 a las Oficinas del Registro Civil. Sólo en el caso de que por incomunicación a causa de inundaciones, terremotos, guerra y otras causas graves, no hubieren recibido los Oficiales dichos libros, podrán comprarlos por sí mismo, pero serán repuestos por los oficiales tan pronto como éstos se reciban.
-
-###### Art. 34.
-
-Los libros de ejercicios anuales vencidos, se conservarán en el Archivo General de Gobierno, quedando facultado el Oficial Mayor del Gobierno para expedir las certificaciones de actas contenidas en dichos libros, previo el cumplimiento de las obligaciones fiscales respectivas.
-
-### CAPITULO III. DE LAS ACTAS DE NACIMIENTO
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
-
-###### Art. 35.
-
-Las declaraciones y registros de nacimiento se harán inmediatamente a su alumbramiento. El niño deberá ser presentado al Oficial del Registro Civil. En los lugares donde no haya Registro Civil, el niño será presentado al funcionario que se expresa en el artículo 2o. de este Reglamento, recogiendo el interesado la constancia respectiva que llevará a la Oficina del Registro Civil de su jurisdicción para que asiente el acta correspondiente.
-
-###### Art. 36.
-
-Queda terminantemente prohibido que el Oficial del Registro Civil o los testigos que asistan al acto, inquieran directa o indirectamente sobre la paternidad. En el acta sólo se expresará lo que declaren las personas que presenten al niño, aunque aparezca su dicho sospechoso de falsedad, sin perjuicio de las acciones civiles o penales que nazcan de ella.
-
-###### Art. 37.
-
-No obstante la disposición anterior, para el Registro de nacimiento, el Oficial observará las siguientes Reglas:
-
-a).- Cuando se trate del registro del nacimiento de un hijo habido en matrimonio registrado, bastará con que los padres presenten el acta respectiva; y
-
-b).- En cualquiera otro caso únicamente se asentará el nombre de la madre, del padre, o de ambos, si se presentan al acto de registro o si el ausente expresa por escrito su conformidad.
-
-###### Art. 38.
-
-Atendiendo a que no siempre puede sacarse a los niños a los treinta días de nacidos, ya sea por razón del clima o por otra causa, sin exponerlos a enfermedades, el Oficial podrá dispensar la presentación del recién nacido con tal de que el interesado no aparezca sospechoso, probando con dos testigos idóneos, la realidad del nacimiento, pudiendo el Oficial, cuando lo crea necesario, solicitar la comparecencia del niño registrado, o pasar al domicilio del interesado a cerciorarse, por sí mismo, de la existencia del recién nacido.
-
-###### Art. 39.
-
-Cuando el Oficial del Registro Civil salga de la Oficina a extender el acta de nacimiento de un niño que por enfermedad grave no pueda ser llevado a ella, no cobrará aumento alguno sobre los derechos comunes.
-
-### CAPITULO IV. DE LAS ACTAS DE MATRIMONIO
-
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
-
-###### Art. 40.
-
-Las personas que pretendan contraer matrimonio se presentarán al Oficial del Registro Civil, debiendo cumplir con las estipulaciones contenidas en el artículo 85 del Código Civil para el Estado de Tamaulipas.
-
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
-
-###### Art. 41.
-
-La dispensa de publicaciones, solo podrá concederla el Ejecutivo del Estado. Tratándose de descendientes o hermanos del Gobernador del Estado, la dispensa se concederá por la Presidencia del Supremo Tribunal de Justicia.
-
-###### Art. 42.
-
-El matrimonio se celebrará en acto público y en el día, hora y lugar señalados al efecto; compareciendo ante el Oficial de Registro Civil los contrayentes, personalmente o por apoderado legalmente constituído, con poder ante Notario, en la Oficina o casa determinada, y además estarán acompañados de sus padres o tutores cuando fuere necesario el consentimiento de ellos, y de tres testigos por lo menos, que podrán ser parientes o extraños. Cuando el que conforme a la Ley debe dar su consentimiento no esté presente, podrá dar su conformidad por correo y aún por telégrafo en casos urgentes.
-
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
-
-###### Art. 43.
-
-El Oficial recibirá la formal declaración que hagan los contrayentes de ser su voluntad unirse en matrimonio, manifestando que los contrayentes han quedado legítimamente unidos ante la sociedad y las leyes de la Nación.
-
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
-
-###### Art. 44.
-
-Inmediatamente después, se firmará el acta respectiva por los contrayentes, los padres si estuvieren presentes y quisieren y supieren o deban hacerla por las prescripciones de esta ley, y además por los testigos y personas que voluntariamente desearen firmar, estando presentes.
-
-###### Art. 45.
-
-Para los actos de matrimonio será necesario presentar por duplicado, al Oficial del Registro Civil, una solicitud. Las Oficinas del Registro Civil tendrán por cuenta del Estado esqueletos de estas solicitudes, que proporcionarán a los interesados sin costo alguno.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
-
-### CAPITULO IV BIS. DE LAS CONSTANCIAS DE CONCUBINATO
-
-> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
-
-###### Art. 45 Bis.
-
-Dadas las condiciones previstas en el artículo 268 del presente Código, podrá solicitarse que el concubinato se inscriba en la Oficialía del Registro Civil del domicilio de los concubinos, previa resolución de la Coordinación General del Registro Civil.
-
-> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
-
-###### Art. 45 Ter.
-
-La inscripción se solicitará por ambos concubinos, registrándose sus generales y datos familiares, la fecha en que se inició la relación concubinaria o nació el primer descendiente, a fin de que se les expida la Constancia respectiva, la cual señalará expresamente que tiene efectos de matrimonio y que surte sus consecuencias jurídicas.
-
-> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
-
-###### Art. 45 Quater.
-
-El concubinato registrado o no, produce los mismos derechos y obligaciones personales y patrimoniales del matrimonio, desde el momento en que se cumplen las condiciones legales o desde el nacimiento de un hijo en común, tanto en favor de los concubinos como de sus descendientes.
-
-> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
-
-###### Art. 45 Quinquies.
-
-El concubinato termina por las siguientes causas:
-
-I.- Por acuerdo mutuo entre las partes;
-
-II.- Cuando alguna de las partes así lo solicite;
-
-III.- Por matrimonio;
-
-IV.- Por abandono del domicilio común por parte de uno de los concubinos, siempre que sea por más de un año. Antes de este plazo el concubinato seguirá produciendo sus efectos para el abandonado; y
-
-V.- Por muerte de alguno de los concubinos.
-
-> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2023)</small>
-
-###### Art. 45 Sexies.
-
-Los concubinas que hayan tramitado la Constancia a que hace referencia el presente Capítulo, tienen el deber de tramitar la cancelación correspondiente cuando se presente alguna de las causas señaladas en el artículo anterior.
-
-### CAPITULO V. DE LAS ACTAS DE DEFUNCIONES
-
-###### Art. 46.
-
-Las actas de fallecimiento se inscribirán en el libro respectivo, asentándose los datos del certificado de defunción o los que el Oficial del Registro Civil adquiera, según el tenor de la declaración o declaraciones que se le hagan, y las cuales deberán ser firmadas por dos testigos, cuando en el lugar no haya facultativo titulado que certifique la defunción.
-
-###### Art. 47.
-
-Cuando los fallecimientos ocurran en lugares donde no haya Oficial de Registro Civil, los Delegados Municipales o Sub-Delegados, tomarán conocimiento del fallecimiento y enviarán aviso al Oficial del Registro Civil de la Jurisdicción.
-
-###### Art. 48.
-
-Los dueños o habitantes de la casa donde ocurra un fallecimiento, los Directores o administradores de los sanatorios, hospitales, colegios, hoteles, casas de huéspedes, mesones o casas de vecindad, tendrán obligación de dar el aviso del caso al Oficial del Registro Civil de la Municipalidad.
-
-###### Art. 49.
-
-Ninguna inhumación se hará sin autorización escrita, dada por el Oficial del Registro Civil, quien se asegurará del fallecimiento, ya sea con la certificación de un facultativo titulado, ya con mandamiento escrito de la autoridad judicial o del Presidente Municipal.
-
-###### Art. 50.
-
-En los casos de inundación, incendio y cualquiera otro en que no sea fácil verificar la identidad de un cadáver, se formará una acta con la declaración de los que lo hayan recogido, expresándose, en cuanto sea posible, las señas particulares del muerto, así como la descripción de los vestidos y objetos que porte.
-
-###### Art. 51.
-
-Cuando a consecuencia de un delito o de un accidente se encuentre en el campo un cadáver cuyo estado de descomposición haga imposible trasladarlo a un cementerio, si no es con perjuicio de la salud pública, podrá la autoridad judicial que inicie el procedimiento, acordar la inhumación en el lugar que le parezca más apropiado, dada la urgencia del caso, levantándose acta en forma, de la que remitirá copia literal al Oficial del Registro Civil para que la asiente en el libro respectivo.
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954)</small>
-
-### CAPITULO VI.. DE LOS CEMENTERIOS, DE LAS INHUMACIONES Y DE LAS EXHUMACIONES
-
-###### Art. 52.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 53.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 54.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 55.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 56.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 57.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 58.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 59.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 60.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 61.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 62.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 63.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-Art. 63 (SIC).- (DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 65.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 66.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 67.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 68.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 69.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 70.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 71.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 72.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 73.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 74.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 75.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 76.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 77.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 78.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 79.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 80.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 81.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 82.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 83.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 84.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 85.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 86.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 87.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 88.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 89.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 90.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 91.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 92.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 93.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 94.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 95.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 96.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-###### Art. 97.
-
-(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
-
-### CAPITULO VII. DIRECCION GENERAL DEL REGISTRO CIVIL
-
-###### Art. 98.
-
-El Jefe del Departamento de Estadística dependiente del Gobierno del Estado, fungirá como Director del Registro del Estado Civil y sus atribuciones serán las siguientes:
-
-I.- Exigir de todos los Oficiales del Registro Civil el exacto cumplimiento de las disposiciones de este Reglamento;
-
-II.- Hacer visitas de inspección a las Oficinas del Registro Civil cuando el C. Gobernador del Estado lo determine;
-
-III.- Resolver la (sic) dudas que consulten los Oficiales del ramo, dando previamente cuenta al C. Gobernador del Estado;
-
-IV.- Dar cuenta al C. Gobernador del Estado, cuando sea necesario substituir a un Oficial del ramo por su ineptitud o porque tenga una conducta inconveniente;
-
-V.- Solicitar, dentro del término oportuno, los libros que se necesiten para el servicio de las Oficinas del ramo, el papel para la expedición de los certificados y los impresos que sean necesarios;
-
-VI.- Recibir los duplicados de los libros que remitan los Oficiales, y una vez revisados enviarlos al Archivo General del Gobierno, devolviendo para su corrección los que estén defectuosos;
-
-VII.- Oír las quejas en asuntos del ramo y hacer las averiguaciones que procedan, obrando con el mayor tino y mesura, tanto respecto al quejoso como al Oficial a quien se refiere la queja;
-
-VIII.- Vigilar la formación del archivo con los libros duplicados y demás documentos reglamentarios que deban remitirse periódicamente al Departamento de Estadística;
-
-IX.- Presentar anualmente al Ejecutivo del Estado, un estado que manifieste el movimiento habido en el ramo, con todos sus detalles;
-
-X.- Consignar a la autoridad competente la comisión de los delitos de que tenga conocimiento, dando cuenta previa al Ejecutivo;
-
-XI.- Dictar, de acuerdo con las observaciones que la práctica aconseje, las disposiciones que tiendan a mejorar el servicio.
-
-DISPOSICIONES GENERALES
-
-###### Art. 99.
-
-Si el registro de nacimiento se efectúa después del plazo que marca el artículo número 35 de este Reglamento, causará un recargo de $ 0.20 de multa por cada año vencido que se pase sin hacer el registro.
-
-###### Art. 100.
-
-Ninguna autoridad podrá conceder reducciones o condonaciones de las cuotas que establece el presente Reglamento, salvo lo dispuesto en el artículo 19.
-
-###### Art. 101.
-
-Los Oficiales que cobren honorarios que no estén establecidos o que cobren mayores cantidades de las fijadas en las Tarifas, o que sin estar autorizados para ello hagan algún cobro, serán consignados a la Autoridad Judicial respectiva, sin perjuicio de las disposiciones Administrativas que aseguren el buen funcionamiento de la Oficina.
-
-###### Art. 102.
-
-Los Oficiales del Registro Civil tendrán los honorarios que marque el Presupuesto de Egresos vigente del Gobierno del Estado.
-
-###### Art. 103.
-
-Los Oficiales del Registro Civil deberán fijar, en lugar visible de su Oficina, la Tarifa de Honorarios.
-
-TRANSITORIO.- UNICO.- Se derogan todas las disposiciones reglamentarias anteriores y sus tarifas. Este Reglamento entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- C. Victoria, Tamps., agosto 6 de 1940.- Diputado Presidente, Vicente Ruiz.- Diputado Secretario, Melquiades Tobías.- Diputado Secretario, Leopoldo Guerra.- Rúbricas."
-
-Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
-
-Dado en la Residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado, a los trece días del mes de septiembre de mil novecientos cuarenta.- Ing. Marte R. Gómez.- P. A. del Srio. Gral. de Gobierno, el Oficial Mayor, Arsenio Saeb.- Rúbricas.
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
-
-P.O. 25 DE MARZO DE 1953.
-
-UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 10 DE FEBRERO DE 1954.
-
-LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACIÓN Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS
-
-SE TRANSCRIBEN ÚNICAMENTE LOS ARTÍCULOS TRANSITORIOS QUE SE RELACIONAN CON LA PRESENTE LEY.
-
-###### ARTICULO SEXTO.
-
-Se abrogan la Tarifa VI del Artículo 18 y las disposiciones del Capítulo Sexto, de la Ley Reglamentaria de las Oficinas del Registro Civil, contenidas en el Decreto No. 248, expedido el 6 de Agosto de 1940.
-
-P.O. 8 DE MAYO DE 1954.
-
-UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 15 DE MAYO DE 1954.
-
-UNICO.- Este Decreto comenzará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 9 DE NOVIEMBRE DE 2010.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 26 DE SEPTIEMBRE DE 2016.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXII-1003 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 43 Y 44 DE LA LEY REGLAMENTARIA DE LAS OFICINAS DEL REGISTRO CIVIL DEL ESTADO DE TAMAULIPAS”.]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto se publicará en el Periódico Oficial del Estado de Tamaulipas, y entrará en vigor al día siguiente de su publicación en ese órgano informativo oficial.
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan todas las disposiciones que se oponga a este Decreto.
-
-P O. 14 DE SEPTIEMBRE DE 2017.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-236 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 57 DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS; Y EL ARTÍCULO 35 DE LA LEY REGLAMENTARIA DE LAS OFICINAS DEL REGISTRO CIVIL DEL ESTADO DE TAMAULIPAS”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P O. 30 DE OCTUBRE DE 2018.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-514 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES VII Y VIII; Y SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 9º DE LA LEY REGLAMENTARIA DE LAS OFICINAS DEL REGISTRO CIVIL”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 13 DE ABRIL DE 2022.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-125 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DE LAS OFICINAS DEL REGISTRO CIVIL DEL ESTADO DE TAMAULIPAS; LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS; LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS; EL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS; Y EL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS, CON RELACIÓN A LA CREACIÓN Y REGULACIÓN DEL REGISTRO DE DEUDORES ALIMENTARIOS MOROSOS”.]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Se concede un plazo de 90 días, a partir de la entrada en vigor del presente Decreto, para la creación y operación del Registro Estatal de Deudores Alimentarios Morosos por parte del Registro Civil del Estado, así como para emitir los lineamientos conducentes.
-
-###### ARTÍCULO TERCERO.
-
-Inmediatamente después de que el Registro Estatal de Deudores Alimentarios Morosos entre en funciones se deberá dar trámite a las resoluciones judiciales que se hubieren efectuado durante el periodo existente entre la entrada en vigor de este decreto y el inicio de operaciones del referido Registro.
-
-P.O. 6 DE JUNIO DE 2023.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 22 DE SEPTIEMBRE DE 2023.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-629 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS; DE LA LEY REGLAMENTARIA DE LAS OFICINAS DEL REGISTRO CIVIL DEL ESTADO DE TAMAULIPAS; Y DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, EN MATERIA DE CONCUBINATO Y FUNCIONES DEL REGISTRO CIVIL”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+DECIMO.- El Pleno y la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, en el ámbito de sus respectivas competencias, resolverán cualquier cuestión administrativa que pudiera suscitarse con motivo de la aplicación del presente acuerdo.
 
 ## TRANSITORIOS
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 35/2002, del Pleno del Consejo de la Judicatura Federal, Que Determina la Creación Temporal de los Juzgados Sexto de Distrito "A" y Sexto de Distrito "B" en el Estado de Sonora, con Residencia en Nogales; la Denominación, Competencia, Jurisdicción Territorial y Fecha de Inicio de Funcionamiento de Dichos Organos Jurisdiccionales; así como las Reglas de Turno, Sistema de Recepción y Distribución de Asuntos entre los Juzgados de Distrito en el Mencionado Estado y Sede, fue aprobado por el propio Pleno, en sesión extraordinaria de ocho de julio de dos mil dos, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a ocho de julio de dos mil dos.- Conste.- Rúbrica.
