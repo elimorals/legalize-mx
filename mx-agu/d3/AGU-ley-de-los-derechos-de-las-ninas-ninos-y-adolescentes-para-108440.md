@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2025-12-15"
+last_updated: "2026-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2026.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -263,13 +263,17 @@ XXXVII. Tratados Internacionales: Los tratados internacionales vigentes en mater
 
 XXXVIII. Trastornos Específicos del Aprendizaje: Dificultad específica y persistente que interfiere en el aprendizaje de habilidades académicas;
 
-> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2026)</small>
 
-XXXIX. Mínima intervención: el que cuando niñas, niños y adolescentes participen en procedimientos judiciales, como víctimas o testigos, lo sean el menor número de veces posible, siempre y cuando se haga fuera del horario escolar; y
+XXXIX. Mínima intervención: el que cuando niñas, niños y adolescentes participen en procedimientos judiciales, como víctimas o testigos, lo sean el menor número de veces posible, siempre y cuando se haga fuera del horario escolar;
 
-> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2026)</small>
 
-XL. No revictimización: el que cuando niñas, niños y adolescente (sic) participen en procedimientos judiciales como víctimas o testigos, las personas juzgadoras deban tomar las medidas necesarias para evitar su revictimización; las cuales se deberán guiar por el criterio de más beneficio, la atención de sus necesidades y el contexto.
+XL. No revictimización: el que cuando niñas, niños y adolescentes participen en procedimientos judiciales como víctimas o testigos, las personas juzgadoras deban tomar las medidas necesarias para evitar su revictimización; las cuales se deberán guiar por el criterio de más beneficio, la atención de sus necesidades y el contexto; y
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2026)</small>
+
+XLI. Violencia: Todo acto u omisión, que genere daño o sufrimiento psicológico, físico, sexual, mental y/o patrimonial en contra de niñas, niños y/o adolescentes. Lo cual comprende enunciativamente: insultos, humillaciones, rechazo, descuido, abandono, trato negligente o explotación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2023)</small>
 
@@ -3630,3 +3634,15 @@ P.O. 15 DE DICIEMBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 12 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 369.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
