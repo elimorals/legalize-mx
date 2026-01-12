@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1804
 country: "mx"
 rank: "ley"
 publication_date: "2025-06-16"
-last_updated: "2025-06-16"
+last_updated: "2026-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2026.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de junio de 2025.
 
@@ -85,9 +85,9 @@ III. Contraloría del Estado: A la autoridad garante del derecho de acceso a la 
 
 IV. Autoridad garante federal: Transparencia para el Pueblo, órgano administrativo desconcentrado de la Secretaría Anticorrupción y Buen Gobierno;
 
-V. Autoridades garantes: A la Contraloría del Estado, a los órganos internos de control u homólogos de los Poderes Legislativo y Judicial, así como de los organismos constitucionales autónomos o equivalentes, cuya competencia está establecida en la presente Ley.
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2026)</small>
 
-Para el caso de los sindicatos, su autoridad garante será el Centro de Conciliación Laboral del Estado de Aguascalientes; para el caso de los partidos políticos, será el Instituto Estatal Electoral;
+V. Autoridades garantes: A la Contraloría del Estado, a los Órganos Internos de Control u homólogos de los Poderes Legislativo y Judicial, así como de los Órganos Constitucionales Autónomos, cuya competencia está establecida en la presente Ley;
 
 VI. Comité de Transparencia: Al Comité de Transparencia de cada sujeto obligado;
 
@@ -417,13 +417,17 @@ I. Contraloría del Estado, para el caso del Poder Ejecutivo y de los municipios
 
 II. Órgano Interno de Control u homólogos del Poder Legislativo;
 
-III. Órgano Interno de Control u homólogos del Poder Judicial;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2026)</small>
 
-IV. órganos Internos de Control de los distintos Órganos Constitucionales Autónomos;
+III. Órgano Interno de Control u homólogos del Poder Judicial; y
 
-V. Instituto Estatal Electoral, para el caso de los partidos políticos locales; y
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2026)</small>
 
-VI. Centro de Conciliación Laboral del Estado de Aguascalientes, para el caso de los sindicatos.
+IV. Órganos Internos de Control de los distintos Órganos Constitucionales Autónomos.
+
+V. (DEROGADA, P.O. 12 DE ENERO DE 2026)
+
+VI. (DEROGADA, P.O. 12 DE ENERO DE 2026)
 
 Lo anterior, en los términos establecidos por la Ley General, el artículo 4o de la Constitución Política del Estado de Aguascalientes y la presente Ley.
 
@@ -1656,3 +1660,11 @@ GENNY JANETH LÓPEZ VALENZUELA
 DIPUTADA SEGUNDA SECRETARIA
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35, 36, 46 fracción I y 49 párrafo segundo de la Constitución Política del Estado de Aguascalientes, para su debida publicación y observancia, "Promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 12 de junio de 2025".- La Gobernadora del Estado de Aguascalientes, C. María Teresa Jiménez Esquivel.- Rúbrica.- El Secretario General de Gobierno, Mtro. José Antonio Arámbula López.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 359.- SE REFORMA LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, una vez se encuentren vigentes las reformas constitucionales en la materia
