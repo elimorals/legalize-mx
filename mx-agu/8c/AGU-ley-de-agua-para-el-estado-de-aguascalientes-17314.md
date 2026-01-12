@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-agua-para-el-estado-de-aguascalientes-17314"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-24"
-last_updated: "2025-12-15"
+last_updated: "2026-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2026.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de julio de 2000.
 
@@ -2285,7 +2285,9 @@ En el caso de las edificaciones públicas del Estado, la Secretaría de Obras P�
 
 Son autoridades en materia de captación de aguas pluviales, las siguientes:
 
-I. El Gobernador Constitucional del Estado;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2026)</small>
+
+I. La Persona Titular del Poder Ejecutivo del Estado;
 
 II. La Secretaría de Sustentabilidad, Medio Ambiente y Agua;
 
@@ -2305,15 +2307,21 @@ V. La Secretaría de Desarrollo Social; y
 
 VI. Los municipios del Estado.
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2026)</small>
 
 ###### ARTICULO 140.
 
-Son atribuciones del Gobernador Constitucional del Estado, en materia de captación de aguas pluviales, las siguientes:
+Son atribuciones de la Persona Titular del Ejecutivo del Estado, en materia de captación de aguas pluviales, las siguientes:
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2017)</small>
 
 I. Instruir a la Secretaría de Sustentabilidad, Medio Ambiente y Agua para la elaboración y coordinación de los programas y líneas de acción de la materia;
 
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+
 II. Promover la participación de los sectores privado y social, en la elaboración de los programas y líneas de acción a que se refiere la fracción anterior; y
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2017)</small>
 
 III. Incentivar la participación de las autoridades en la materia, para el cumplimiento de sus respectivas atribuciones.
 
@@ -2328,6 +2336,38 @@ A la Secretaría de Sustentabilidad, Medio Ambiente y Agua le corresponde el dis
 ###### ARTICULO 142.
 
 Además de las atribuciones comunes, las autoridades señaladas en las fracciones III a VI del Artículo 139, deberán cumplir en sus respectivos ámbitos de competencia, con los programas y líneas de acción relativos a la captación de aguas pluviales.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2026)</small>
+
+### CAPÍTULO III
+
+De la Captación y Aprovechamiento de Aguas Pluviales en Centros Escolares.
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2026)</small>
+
+###### ARTICULO 143.
+
+El Instituto del Agua del Estado, será responsable de diseñar, promover y supervisar la instalación de sistemas de captación y aprovechamiento de aguas pluviales en todos los centros escolares públicos de nivel básico, medio superior y superior en el Estado.
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2026)</small>
+
+###### ARTICULO 144.
+
+Se fomentará la instalación de estos sistemas en toda nueva construcción o remodelación mayor de un centro educativo. En los centros ya existentes, la instalación se realizará de manera progresiva, selectiva y conforme a la disponibilidad presupuestal. El diseño de los sistemas deberá garantizar la calidad del agua recolectada para usos no potables.
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2026)</small>
+
+###### ARTICULO 145.
+
+Los sistemas de captación de agua pluvial deberán incorporarse en los programas de estudio de educación ambiental de las instituciones educativas. Para tal efecto, el Instituto de Educación de Aguascalientes emitirá a la Secretaría de Educación las opiniones y recomendaciones necesarias, a fin de que esta valore la inclusión de contenidos relacionados con la captación de agua pluvial en los planes y programas de estudio que correspondan.
+
+El objetivo será concientizar a los estudiantes sobre la importancia del uso responsable del agua, el ciclo hidrológico y la sustentabilidad.
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2026)</small>
+
+###### ARTICULO 146.
+
+El Instituto del Agua del Estado celebrara convenios de coordinación con la Secretaría de Obras Públicas, para que en el ámbito de sus respectivas atribuciones y facultades realicen acciones para la ejecución y supervisión de la instalación de los sistemas de captación pluvial en escuelas, de acuerdo a las especificaciones técnicas que se establezcan en el reglamento de esta ley.
 
 TRANSITORIOS:
 
@@ -2736,3 +2776,23 @@ P.O. 15 DE DICIEMBRE DE 2025.
 ###### ARTÍCULO ÚNICO
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 12 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 362.- SE REFORMA LA LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado de Aguascalientes, a través de las dependencias competentes, emitirá el reglamento de esta Ley en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Instituto del Agua del Estado, en un plazo no mayor a 120 días naturales a partir de la entrada en vigor del presente decreto, elaborarán (sic) un plan de trabajo y cronograma para la implementación de los sistemas de captación en los centros educativos existente.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
