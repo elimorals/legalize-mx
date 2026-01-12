@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-anticorrupcion-de-aguascalientes-121265
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-08"
-last_updated: "2024-05-13"
+last_updated: "2026-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 8 de mayo de 2017.
 
@@ -221,13 +221,17 @@ IV.- El Titular de la Contraloría del Estado;
 
 V.- El Presidente del Tribunal de Justicia Administrativa del Estado de Aguascalientes;
 
-VI.- Un representante del Consejo de la Judicatura del Estado;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2026)</small>
 
-VII.- Un representante del Instituto de Transparencia del Estado; y
+VI.- Un representante del Tribunal de Disciplina Judicial de Aguascalientes;
+
+VII.- (DEROGADA, P.O. 12 DE ENERO DE 2026)
 
 VIII.- Los Titulares de las Contralorías Municipales, o quien sea designado de conformidad con sus disposiciones de carácter general, bandos y reglamentos.
 
-Los integrantes del Comité Coordinador, establecidos en las Fracciones I a la VII contarán con voz y voto; y los integrantes del Comité Coordinador previstos en la Fracción VIII contarán únicamente con voz.
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2026)</small>
+
+Los integrantes del Comité Coordinador, establecidos en las Fracciones I a la VI contarán con voz y voto; y los integrantes del Comité Coordinador previstos en la Fracción VIII contarán únicamente con voz.
 
 ###### Artículo 11.
 
@@ -261,9 +265,9 @@ X.- Aquellas que prevén las reglas de funcionamiento y organización interna de
 
 El Comité Coordinador Estatal se reunirá en sesión ordinaria cada tres meses. El Secretario Técnico podrá convocar a sesión extraordinaria a petición del Presidente del Comité Coordinador o previa solicitud formulada por escrito, por la mayoría de los integrantes de dicho Comité Coordinador.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2026)</small>
 
-Para que el Comité Coordinador pueda sesionar es necesario que esté presente la mitad más uno de los integrantes contemplados de la Fracción I a la VII, del Artículo 10 de la presente Ley.
+Para que el Comité Coordinador pueda sesionar es necesario que esté presente la mitad más uno de los integrantes contemplados de la Fracción I a la VI, del Artículo 10 de la presente ley.
 
 Para el desahogo de sus sesiones, el Comité Coordinador podrá invitar a los representantes del Sistema Nacional y de los demás Sistemas Estatales; así como a los representantes de los Órganos Internos de Control, de los entes públicos, y de las organizaciones de la sociedad civil, que estime necesario para el desarrollo de sus atribuciones.
 
@@ -1054,3 +1058,9 @@ P.O. 13 DE MAYO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 12 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 365.- SE REFORMA LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE AGUASCALIENTES”.]
+
+ÚNICO.- El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
