@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-276-que-crea-la-universidad-popular-autonoma-de-8262
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-01"
-last_updated: "2019-12-16"
+last_updated: "2026-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82626&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 276 QUE CREA LA UNIVERSIDAD POPULAR AUTONOMA DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL:16 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE ENERO DE 2026.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el lunes 1 de agosto de 2011.
 
@@ -47,9 +47,11 @@ QUE CREA LA UNIVERSIDAD POPULAR AUTÓNOMA DE VERACRUZ
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE ENERO DE 2026)</small>
+
 ###### Artículo 1.
 
-Se crea la Universidad Popular Autónoma de Veracruz como organismo descentralizado de la administración pública del Estado de Veracruz de Ignacio de la Llave, con la participación pública y privada que prevé este ordenamiento, que gozará de personalidad jurídica y patrimonio propios y estará sectorizada a la Secretaría de Educación del Poder Ejecutivo Estatal.
+Se crea la Universidad Popular Autónoma de Veracruz como Institución Pública de Educación con carácter de organismo público descentralizado de la administración pública del Estado de Veracruz de Ignacio de la Llave, que gozará de personalidad jurídica y patrimonio propios (sic) y estará sectorizada a la Secretaría de Educación del Poder Ejecutivo Estatal.
 
 Como parte integrante del sistema educativo estatal, esta Institución tiene como objeto la impartición de servicios educativos de nivel medio superior y educación superior, de manera especial en aquellas comunidades de la entidad con alto rezago educativo.
 
@@ -75,9 +77,19 @@ II. En ciclos escolares y jornadas diferentes a las previstas en el calendario e
 
 III. En los espacios educativos de orden federal, estatal o municipal, así como con instituciones públicas o privadas, con las que se celebren los convenios, acuerdos o contratos respectivos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE ENERO DE 2026)</small>
+
 ###### Artículo 5.
 
-La Universidad, para dar cumplimiento a su objeto legal y fines, se apoyará en la labor social y voluntaria que realice su personal administrativo y académico, el de carácter solidario u honorífico, y sus egresados. El servicio social y el combate a la pobreza son tareas de todos los integrantes de la Universidad.
+La Universidad, para dar cumplimiento a su objeto legal y fines, se apoyará en el personal administrativo y académico, y sus egresados. El servicio social y el combate a la pobreza son tareas de todos los integrantes de la Universidad.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2026)</small>
+
+Los derechos y demás ingresos, que por cualquier título legal sea bienes y valores de la Universidad, serán recaudadas exclusivamente a través de los mecanismos electrónicos dispuestos por la Oficina Virtual de Hacienda (OVH) del Gobierno del Estado de Veracruz.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2026)</small>
+
+Para la disposición de estos recursos, el Rector deberá integrar anualmente un proyecto de presupuesto específico y someterlo a la aprobación de la Junta de Gobierno.
 
 ###### Artículo 6.
 
@@ -97,7 +109,9 @@ III. Las aportaciones, donaciones, herencias, legados y demás derechos o bienes
 
 IV. Los derechos que perciba por la prestación de servicios, por la renta de sus bienes, las concesiones, permisos, licencias y autorizaciones que otorgue conforme a las disposiciones aplicables;
 
-V. Los rendimientos, recuperaciones y demás ingresos que obtenga de la inversión de los recursos a que se refieren las fracciones anteriores; y
+> <small>(REFORMADA, G.O. 12 DE ENERO DE 2026)</small>
+
+V. Los rendimientos, recuperaciones y demás ingresos que obtenga de la inversión de los recursos a que se refieren las fracciones anteriores, en los que se deberá cumplir con el marco legal en la materia; y
 
 VI. Los demás bienes o derechos que reciba por cualquier título legal.
 
@@ -108,6 +122,18 @@ La Universidad administrará su patrimonio con sujeción a las disposiciones jur
 > <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2019)</small>
 
 Todo convenio que la Universidad celebre con cualquier persona física o moral y que en el cumplimiento de su objeto se modifique el patrimonio de la Institución, deberá ser enterado por el Rector dentro de los informes trimestrales que formulará y someterá a la aprobación de la Junta de Gobierno.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2026)</small>
+
+Los bienes muebles, inmuebles, recursos económicos y todo lo que forme parte del patrimonio de la Universidad se equiparan al dominio público del Estado, por tal motivo, tienen el carácter de inalienables, inembargables e imprescriptibles y sobre los mismos no podrá constituirse gravamen alguno.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2026)</small>
+
+La persona titular de la Secretaría de Finanzas y Planeación del Gobierno del Estado de Veracruz, dictará las normas en materia de control presupuestal de la Universidad.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2026)</small>
+
+El presupuesto de cada ejercicio deberá contener indicadores de gestión, desempeño y financieros.
 
 ###### Artículo 9.
 
@@ -129,7 +155,9 @@ IV. Expedir y otorgar títulos, certificados de estudios, grados académicos, di
 
 V. Darse la normatividad interior necesaria para su debida organización y funcionamiento, así como su escudo, lema, himno y sello oficiales, en términos de la legislación aplicable;
 
-VI. Convenir con personas físicas o morales, públicas o privadas, nacionales o extranjeras, acciones de coordinación, colaboración y participación económica, en términos de la legislación aplicable;
+> <small>(REFORMADA, G.O. 12 DE ENERO DE 2026)</small>
+
+VI. Convenir con personas físicas o morales, públicas o privadas, nacionales o extranjeras, acciones de coordinación, colaboración y participación académica, en términos de la legislación aplicable;
 
 VII. Tener como principio la educación permanente y el compromiso de impulsar el autodidactismo creativo a través del aprendizaje autónomo, responsable, auto-organizado, con base en la colaboración recíproca, para atender la demanda educativa e incluir a la población en la sociedad del conocimiento;
 
@@ -400,3 +428,19 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. Dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto, la Universidad Popular Autónoma de Veracruz, a través de la Junta de Gobierno, deberá hacer las adecuaciones a su normativa interna para dar cumplimiento al mismo.
+
+G.O. 12 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 496 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY QUE CREA LA UNIVERSIDAD POPULAR AUTÓNOMA DE VERACRUZ”.]
+
+Primero. ... (sic)
+
+Segundo. ... (sic)
+
+Tercero. La Universidad Popular Autónoma de Veracruz, deberá expedir en un término no mayor a noventa días naturales las normas en materia, de planeación y mecanismos de control del ciclo presupuestal con relación a la aplicación de los recursos públicos que sean patrimonio propio de la UPAV; el Rector tiene la obligación de ejercer sus atribuciones en materia de control y coordinación y generar elementos que permitan la evaluación del desempeño de resultados, de la medición a la gestión financiera y en su caso, las alertas cuando exista un uso indebido de los recursos propios de la Universidad.
+
+Cuarto. Los recursos provenientes de los derechos y demás ingresos, que hayan sido recibidos antes de la entrada en vigor del presente Decreto, deberán ser conciliados, registrados e integrados al patrimonio de la Universidad Popular Autónoma de Veracruz.
+
+Quinto. La Secretaría de Finanzas y Planeación del Estado, deberá expedir en un término no mayor a sesenta días naturales las normas en materia (sic) control presupuestal de la Universidad Popular Autónoma de Veracruz.
+
+Sexto. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
