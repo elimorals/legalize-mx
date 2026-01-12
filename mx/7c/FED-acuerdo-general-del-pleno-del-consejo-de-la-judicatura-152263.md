@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-152263"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-11-03"
-last_updated: "2025-02-11"
+last_updated: "2026-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152263&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2021-10-28"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LA CARRERA JUDICIAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE REGLAMENTA LA CARRERA JUDICIAL Y ESPECIALIZACIÓN, ASÍ COMO LAS CONDICIONES DE LAS PERSONAS JUZGADORAS FEDERALES, PUBLICADO EN EL D.O.F. DE 12 DE ENERO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LA CARRERA JUDICIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE DICIEMBRE DE 2024.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL D.O.F. EL 11 DE FEBRERO DE 2025 NO APLICA AL ARTICULADO DEL ACUERDO PUBLICADO EN EL D.O.F. DE 16 DE DICIEMBRE DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ENERO DE 2026 (ABROGADO).
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 3 de noviembre de 2021.
 
@@ -3048,3 +3048,15 @@ TERCERO. Las personas titulares de órgano jurisdiccional, que concluyan funcion
 CUARTO. En un plazo de un año, contado a partir de la entrada en vigor del presente Acuerdo, la Escuela Judicial deberá implementar el Plan Anual de Capacitación por Perfil Judicial a que se refiere el artículo 62 del presente Acuerdo General, por lo que durante este lapso no le será exigible a las personas servidoras públicas que se encuentren inscritas en el Sistema de Listas de Acceso y Promoción en la Carrera Judicial el cumplimiento de algún requisito para permanecer en este último.
 
 Una vez implementado el mismo, deberán anualmente cumplir con los requisitos para acreditar su capacitación, pudiendo extenderse por un año más.
+
+D.O.F. 12 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE REGLAMENTA LA CARRERA JUDICIAL Y ESPECIALIZACIÓN, ASÍ COMO LAS CONDICIONES DE LAS PERSONAS JUZGADORAS FEDERALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación, en el Sistema Integral de Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes; así como en los portales de intranet e internet del Órgano.
+
+TERCERO. Se abroga el Acuerdo General del Pleno del Consejo de la Judicatura Federal que Reglamenta la Carrera Judicial, así como todas las disposiciones que se opongan al presente Acuerdo.
+
+CUARTO. Respecto al otorgamiento de la distinción al mérito judicial “Ignacio L. Vallarta”. La misma se entregará a las personas juzgadoras y en su caso, a personas Secretarias de Tribunales Colegiados y Juzgados de Distrito, en reconocimiento a sus méritos en la carrera judicial, hasta el año 2027, conforme a los lineamientos que al efecto emita la Comisión de Carrera Judicial y Especialización.
