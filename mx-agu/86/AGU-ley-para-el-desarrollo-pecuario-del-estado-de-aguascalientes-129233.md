@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-desarrollo-pecuario-del-estado-de-aguascalientes-12
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-20"
-last_updated: "2024-01-15"
+last_updated: "2026-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129233&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL DESARROLLO PECUARIO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2026.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 20 de junio de 2018.
 
@@ -107,15 +107,7 @@ VIII. Todas las demás que señala la presente Ley, las normas aplicables y las 
 
 Para los efectos de esta Ley se entiende por:
 
-I. Abeja: Insecto himenóptero de la familia de los Apidae que produce miel y cera.
-
-a) Abeja Europea: Es la abeja originaria del Continente Europeo.
-
-b) Abeja Africana: Es la abeja originaria del Continente Africano cuyas características y hábitos de defensa, migración y enjambrazón son diferentes a las razas europeas.
-
-c) Abeja africanizada: Es el resultado de la cruza entre las abejas europeas y africanas.
-
-d) Abeja Nativa: Es la que se encuentra de manera silvestre en el territorio del Estado, teniendo como principal característica la falta de aguijón.
+I. (DEROGADA, P.O. 12 DE ENERO DE 2026)
 
 II. Actividades Pecuarias: Las contenidas en el Título Cuarto de esta Ley y las que se relacionen con ellas;
 
@@ -125,11 +117,11 @@ IV. Agostadero natural: Un terreno de pastoreo con su vegetación natural;
 
 V. Agostadero mejorado: Un terreno de pastoreo con su vegetación mejorada mediante el control de especies indeseables, la siembra de especies forrajeras nativas o introducidas, la fertilización, obras de conservación de agua y suelos, u otros métodos;
 
-VI. Apiario o colmenar: Es el conjunto de colmenas con abejas ubicado en un sitio determinado;
+VI. (DEROGADA, P.O. 12 DE ENERO DE 2026)
 
-VII. Apicultor: Toda persona física o moral que se dedique a la cría y explotación, producción y mejoramiento de las abejas;
+VII. (DEROGADA, P.O. 12 DE ENERO DE 2026)
 
-VIII. Apicultura: Las actividades relativas a la cría, explotación y mejoramiento genético de las abejas, así como la industrialización y comercialización de sus productos y subproductos;
+VIII. (DEROGADA, P.O. 12 DE ENERO DE 2026)
 
 IX. Arete: Uno de los Dispositivos de identificación para aplicarse en las orejas del ganado bovino con especificaciones técnicas y modo de aplicación aprobadas por la Secretaría y la SAGARPA, para identificar la propiedad y origen del ganado;
 
@@ -149,17 +141,17 @@ XVI. CEFOPPA: Comité Estatal para el Fomento y Protección Pecuaria de Aguascal
 
 XVII. Certificado zoosanitario: Documento oficial expedido por la SAGARPA o por quienes estén acreditados por dicha dependencia para constatar el cumplimiento de las normas oficiales;
 
-XVIII. Colmena: La caja o cajón que se destina para habitación de las abejas a fin de que finquen ahí sus panales para el almacenamiento de su miel;
+XVIII. (DEROGADA, P.O. 12 DE ENERO DE 2026)
 
-XIX. Colmena natural: Es el espacio que las abejas ocupan como morada sin la intervención del hombre;
+XIX. (DEROGADA, P.O. 12 DE ENERO DE 2026)
 
-XX. Colmena rústica: Es el alojamiento para abejas construido por el hombre sin bastidores para panales;
+XX. (DEROGADA, P.O. 12 DE ENERO DE 2026)
 
-XXI. Colmena técnica: Es la que cuenta con bastidores para los panales;
+XXI. (DEROGADA, P.O. 12 DE ENERO DE 2026)
 
 XXII. Corrida: Reunión de ganado por arreo en un predio;
 
-XXIII. Criadero de reinas: Es la colmena o conjunto de colmenas destinadas a la obtención de las abejas reinas;
+XXIII. (DEROGADA, P.O. 12 DE ENERO DE 2026)
 
 XXIV. Cuarentena: Medida zoosanitaria consistente en el aislamiento, observación y restricción de la movilización de animales, productos, subproductos, desechos y esquilmos por la sospecha o existencia de una enfermedad o plaga sujeta a control en los términos de esta Ley;
 
@@ -1701,141 +1693,117 @@ La Secretaría podrá crear comités donde participen los avicultores en todas l
 
 La Secretaría otorgará los servicios de certificación de calidad y origen de los productos avícolas de conformidad con las disposiciones reglamentarias que deriven de la presente Ley.
 
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2026)</small>
+
 ### CAPÍTULO IV. De la Apicultura
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 12 DE ENERO DE 2026)</small>
 
 #### SECCIÓN PRIMERA. De las Generalidades Apícolas
 
 ###### Artículo 172.
 
-Se considera de interés público:
-
-I. La organización de los productores apícolas y la producción, protección, fomento, mejoramiento y aprovechamiento de la industria apícola del Estado;
-
-II. Todas las medidas y acciones que se establezcan para alcanzar el estatus libre de enfermedades y plagas que afectan a la apicultura;
-
-III. La producción y cría de reinas, transporte de abejas, colmenas y productos de la industria apícola; y
-
-IV. El fomento de la investigación sobre aspectos técnicos, sanitarios e industriales relacionados con la apicultura.
+(DEROGADO, P.O. 12 DE ENERO DE 2026)
 
 ###### Artículo 173.
 
-Todos los apicultores darán aviso a la Secretaría del inicio de sus actividades y, además, informarán a la autoridad municipal correspondiente sobre el lugar de ubicación de sus apiarios. Proporcionarán adicionalmente todos los datos que dichas autoridades estimen necesarios en relación con las explotaciones apiarias.
+(DEROGADO, P.O. 12 DE ENERO DE 2026)
 
 ###### Artículo 174.
 
-La Secretaría promoverá y apoyará la organización de los productores apícolas.
+(DEROGADO, P.O. 12 DE ENERO DE 2026)
 
 ###### Artículo 175.
 
-La propiedad de los apiarios se acreditará con:
-
-I. La marca de herrar, o cualquier otro medio de identificación autorizado por la Secretaría, aplicada en las colmenas;
-
-II. La factura o documento legal que acredite la adquisición de los apiarios; y
-
-III. La guía de tránsito que ampare el traslado de los apiarios del lugar de origen al de su ubicación.
-
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
+(DEROGADO, P.O. 12 DE ENERO DE 2026)
 
 ###### Artículo 176.
 
-En los casos de compraventa de colmenas y productos apícolas marcados, el comprador colocará su marca un lado de la del vendedor, sin borrar ésta.
+(DEROGADO, P.O. 12 DE ENERO DE 2026)
 
 ###### Artículo 177.
 
-La Secretaría llevará un registro de las marcas de herrar autorizadas y enviará copia de las mismas a la autoridad municipal del asiento de producción de los apiarios.
+(DEROGADO, P.O. 12 DE ENERO DE 2026)
 
 ###### Artículo 178.
 
-La Secretaría realizará anualmente, con la participación de los organismos de apicultores, un censo apícola que tendrá como finalidad contar con la información relativa a esta actividad.
+(DEROGADO, P.O. 12 DE ENERO DE 2026)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 12 DE ENERO DE 2026)</small>
 
 #### SECCIÓN SEGUNDA. De la Sanidad Apícola
 
 ###### Artículo 179.
 
-La Secretaría podrá crear comités en donde participen productores y autoridades para definir las acciones, procedimientos y campañas sanitarias relativas a la apicultura.
+(DEROGADO, P.O. 12 DE ENERO DE 2026)
 
 ###### Artículo 180.
 
-Las autoridades podrán brindar asesoría técnica en los aspectos de sanidad a los apicultores del Estado.
+(DEROGADO, P.O. 12 DE ENERO DE 2026)
 
 ###### Artículo 181.
 
-Las autoridades del Estado podrán tomar en cualquier tiempo todas las medidas y acciones que consideren necesarias para evitar, controlar o erradicar cualquier problema sanitario que afecte a la apicultura o que pueda afectar a la salud o poner en peligro a la población.
+(DEROGADO, P.O. 12 DE ENERO DE 2026)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 12 DE ENERO DE 2026)</small>
 
 #### SECCIÓN TERCERA. De la Comercialización Apícola
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
-
 ###### Artículo 182.
 
-Las autoridades apoyarán a los productores para que se integren en los procesos de industrialización, comercialización e internacionalización de sus productos y subproductos brindándoles la asesoría y capacitación necesarias.
-
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
+(DEROGADO, P.O. 12 DE ENERO DE 2026)
 
 ###### Artículo 183.
 
-Las autoridades del Estado apoyarán a los productores en la gestión que realicen ante la Federación a fin de que se incluya a la apicultura en los programas de fomento de los procesos de producción, comercialización, industrialización e internacionalización de sus productos.
+(DEROGADO, P.O. 12 DE ENERO DE 2026)
 
 ###### Artículo 184.
 
-La autoridad, con la participación de los productores, establecerá un servicio de certificación de calidad de la miel, de conformidad con el reglamento que al efecto se expida.
+(DEROGADO, P.O. 12 DE ENERO DE 2026)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 12 DE ENERO DE 2026)</small>
 
 #### SECCIÓN CUARTA. De la Instalación de los Apiarios
 
 ###### Artículo 185.
 
-Toda instalación de un apiario requerirá la autorización de la autoridad municipal correspondiente, debiendo presentar el interesado, para dicho efecto, un informe técnico de la vegetación melífera de la zona, con base en el cual se determinará la extensión e integración de los apiarios.
+(DEROGADO, P.O. 12 DE ENERO DE 2026)
 
 ###### Artículo 186.
 
-Para instalación de los apiarios deberán observarse las siguientes distancias:
-
-I. En los caminos vecinales y carreteras, una distancia de cincuenta metros de los mismos;
-
-II. En predios rurales de propiedad particular, una distancia mínima de un kilómetro a partir de la casa o casas habitación de la ranchería, acasillamiento, o centro habitacional de la hacienda de que se trate;
-
-III. En espacios rurales comunes o comunales, una distancia mínima de un kilómetro de la comisaría o centro de población de que se trate, a partir de sus últimas casas hacia las afueras.
-
-La distancia mínima entre apiarios de diferentes propietarios deberá ser de cinco kilómetros, a menos de que condiciones especiales recomienden modificar esta distancia disminuyéndola o aumentándola, según la Secretaría lo decida.
+(DEROGADO, P.O. 12 DE ENERO DE 2026)
 
 ###### Artículo 187.
 
-Solamente con permiso expreso dado por escrito por el dueño o poseedor derivado legítimo podrán instalarse apiarios en terrenos particulares. Por ningún motivo podrán instalarse apiarios a una distancia menor de diez kilómetros de las últimas casas hacia las afueras de las poblaciones urbanas.
+(DEROGADO, P.O. 12 DE ENERO DE 2026)
 
 ###### Artículo 188.
 
-Para realizar el servicio de polinización, el apicultor interesado podrá disminuir, bajo su responsabilidad, las distancias previstas en el artículo 186 de esta Ley.
+(DEROGADO, P.O. 12 DE ENERO DE 2026)
 
 ###### Artículo 189.
 
-Las controversias suscitadas entre apicultores por la instalación de apiarios serán resueltas mediante arbitraje o amigable composición de la Secretaría, a solicitud de los interesados.
+(DEROGADO, P.O. 12 DE ENERO DE 2026)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 12 DE ENERO DE 2026)</small>
 
 #### SECCIÓN QUINTA. De la Inspección y Movilización de Apiarios, Colmenas, Productos y Subproductos Apícolas
 
 ###### Artículo 190.
 
-La Secretaría practicará actos de inspección a los apiarios, colmenas, productos, subproductos, instalaciones y predios de su ubicación, a fin de verificar el cumplimiento de las disposiciones legales aplicables, y los propietarios y poseedores o encargados de los predios, así como los de las instalaciones correspondientes estarán obligados a otorgar las facilidades necesarias para la realización de dichos actos de inspección.
+(DEROGADO, P.O. 12 DE ENERO DE 2026)
 
 ###### Artículo 191.
 
-Toda movilización de colmenas, apiarios, sus productos y subproductos deberá ampararse con la guía de tránsito que expida el Inspector de Ganado, previo cumplimiento de los siguientes requisitos:
-
-I. Presentación de la solicitud con anticipación suficiente para la prestación eficiente del servicio;
-
-II. Comprobación de la legítima propiedad de las colmenas, apiarios, sus productos y subproductos; y
-
-III. Cumplimiento de las disposiciones sanitarias previstas en la Ley o emitidas por la Secretaría.
+(DEROGADO, P.O. 12 DE ENERO DE 2026)
 
 ###### Artículo 192.
 
-Las guías de tránsito se extenderán por cuadruplicado y se distribuirán de la siguiente manera: Original para el consignatario, duplicado para el inspector de destino, triplicado para la Secretaría y cuadruplicado para el inspector que expida la guía.
+(DEROGADO, P.O. 12 DE ENERO DE 2026)
 
 ###### Artículo 193.
 
-Para la introducción o salida del Estado de apiarios y colmenas, sus productos y subproductos, deberá contarse con la autorización que previamente expida la Secretaría y, además, deberá ampararse la movilización con la guía de tránsito que expida el Inspector de Ganado, así como con la documentación sanitaria correspondiente. Las solicitudes deberán presentarse por conducto del organismo de cooperación respectivo, quien emitirá su opinión al respecto.
-
-Las movilizaciones en tránsito por el Estado no requerirán de la autorización de la Secretaría, siendo únicamente necesario comprobar el cumplimiento de los requisitos sanitarios en las estaciones cuarentenarias o casetas de inspección ubicadas en los principales accesos del Estado, mediante la presentación de la documentación correspondiente.
+(DEROGADO, P.O. 12 DE ENERO DE 2026)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE ENERO DE 2024)</small>
 
@@ -2072,3 +2040,15 @@ P.O. 15 DE ENERO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 12 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 363.- SE DEROGAN DISPOSICIONES DE LA LEY PARA EL DESARROLLO PECUARIO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Dentro de los 180 días naturales siguientes a la entrada en vigor de la presente Ley, la persona titular del Poder Ejecutivo deberá expedir el Reglamento de la presente Ley.
