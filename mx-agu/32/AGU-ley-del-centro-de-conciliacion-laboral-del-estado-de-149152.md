@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-centro-de-conciliacion-laboral-del-estado-de-149152"
 country: "mx"
 rank: "ley"
 publication_date: "2021-04-19"
-last_updated: "2025-06-16"
+last_updated: "2026-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149152&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2026.
 
 Ley publicada en la Edición Vespertina al Número 16 del Periódico Oficial de Aguascalientes, el lunes 19 de abril de 2021.
 
@@ -165,11 +165,9 @@ X. Llevar a cabo el procedimiento de selección de las personas conciliadoras, d
 
 XI. Las demás que por mandato constitucional y legal le correspondan,
 
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2026)</small>
 
-###### Artículo 8° Bis.
-
-Ejercer las atribuciones que le correspondan en materia de transparencia, acceso a la información y protección de datos personales, de conformidad con la Ley de Transparencia y Acceso a la Información del Estado de Aguascalientes, en lo que respecta a fungir como autoridad garante de los sindicatos.
+ARTÍCULO 8 BIS.- Ejercer las atribuciones que le correspondan en materia de transparencia, acceso a la información y protección de datos personales, de conformidad con la Ley de Transparencia y Acceso a la Información del Estado de Aguascalientes.
 
 ### CAPÍTULO III. Patrimonio
 
@@ -746,3 +744,9 @@ Los sujetos obligados que determinan la Ley de Transparencia y Acceso a la Infor
 QUINTO. Los procedimientos iniciados con anterioridad a la entrada en vigor de este Decreto ante el Instituto de Transparencia del Estado de Aguascalientes, en materia de transparencia, acceso a la información pública y datos personales o cualquier otra distinta a la mencionada en el Transitorio anterior, se sustanciarán conforme a las disposiciones vigentes al momento de su inicio, ante las autoridades garantes correspondientes.
 
 SEXTO. Con la entrada en vigor del presente Decreto, quedan sin efecto todas aquellas disposiciones que se opongan al mismo.
+
+P.O. 12 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 359.- SE REFORMA LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, una vez se encuentren vigentes las reformas constitucionales en la materia
