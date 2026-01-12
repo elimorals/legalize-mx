@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-servicio-profesional-de-carrera-de-la-150416"
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-07-22"
-last_updated: "2025-08-11"
+last_updated: "2026-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150416&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-06-30"
 
 REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE ENERO DE 2026.
 
 Reglamento publicado en el Número 645 de la Gaceta Oficial de la Ciudad de México, el jueves 22 de julio de 2021.
 
@@ -1224,27 +1224,33 @@ El personal designado en términos del artículo 98 que cuente con el certificad
 
 La terminación del empleo público del personal nombrado por designación directa, concluirá una vez terminado el nombramiento o periodo para el que fue designado o cuando lo determine la persona Titular de la Fiscalía General por sí o a través de la Coordinación General, sin necesidad de realizar procedimiento alguno.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE ENERO DE 2026)</small>
 
 ###### Artículo 100.
 
-El personal sustantivo que tenga al menos tres años de antigüedad en el Servicio Profesional de Carrera, podrá solicitar la reserva de plaza cuando sea nombrado en un puesto de estructura o cargo ya sea dentro de la Fiscalía General o en la Administración Pública Federal, de la Ciudad de México, Estatal, Municipal o en algún Órgano Autónomo.
+El personal sustantivo que tenga al menos tres años de antigüedad en el Servicio Profesional de Carrera, podrá solicitar la reserva de plaza cuando sea nombrado en un puesto dentro de la plantilla autorizada de la Fiscalía General.
 
-> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, G.O. 12 DE ENERO DE 2026)</small>
 
-Para tal efecto, la persona Titular de la Unidad Administrativa a la que se encuentre adscrito dicho personal sustantivo dará su visto bueno mediante oficio dirigido a la Coordinación General, para efectos de expedir la constancia de reserva correspondiente.
+Para tal efecto, la persona Titular de la Unidad Administrativa a la que se encuentre adscrito dicho personal sustantivo, podrá autorizar la reserva y en su caso, por oficio solicitará a la Coordinación General, que expida la constancia de reserva correspondiente.
 
-> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, G.O. 12 DE ENERO DE 2026)</small>
 
-La reserva de plaza será vigente en tanto el personal sustantivo continúe en el puesto de estructura o cargo para el cual fue designado, debiendo informarlo cada año a la Coordinación General o antes, en caso de que asuma otro cargo.
+La reserva de plaza tendrá vigencia de un año, la cual podrá prorrogarse por un periodo igual, en diversas ocasiones en tanto permanezca en un puesto dentro de la plantilla autorizada de la Fiscalía General; la cual deberá ser aprobada por la persona Titular de la Unidad Administrativa a la que se encuentre adscrito el personal sustantivo.
 
-> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2021)</small>
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, G.O. 12 DE ENERO DE 2026)</small>
 
-Cuando la reserva sea para puesto de estructura o cargo fuera de la Fiscalía General, la vigencia de ésta no podrá exceder de tres años, renovable hasta por una ocasión más.
+> <small>(REFORMADO, G.O. 12 DE ENERO DE 2026)</small>
 
-> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2021)</small>
+Concluido su cargo, el plazo de reserva o prórroga autorizada, el personal sustantivo de que se trate, solicitará a la Coordinación General, la reincorporación a su cargo, a más tardar dentro de los quince días hábiles siguientes; en caso contrario perderá los derechos inherentes a su plaza.
 
-Concluido su cargo, el personal sustantivo de que se trate, solicitará a la Coordinación General, la reincorporación a su cargo, a más tardar dentro de los quince días hábiles siguientes; en caso contrario perderá los derechos inherentes a su plaza.
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2026)</small>
+
+###### Artículo 101.
+
+El personal sustantivo que haya renunciado a la titularidad de una plaza del Servicio Profesional de Carrera, para integrarse a otra Institución de Procuración de Justicia, podrá en un plazo máximo de seis meses posteriores a la separación de este último cargo, ser considerado para reincorporarse en una plaza equivalente a la que venía desempeñando en esta Fiscalía General, sin que medie convocatoria de ingreso, previa solicitud formulada por escrito dirigida a la Coordinación General, anexando la constancia de nombramiento o documento idóneo que acredite el puesto y periodo en el que laboró en dicha Instancia de Procuración de Justicia.
+
+La Coordinación General podrá autorizar la reincorporación y, en su caso, expedirá la constancia de nombramiento correspondiente, siempre y cuando existan plazas disponibles y vacantes, haya obtenido el visto bueno de la Persona Titular del Instituto respecto a que la persona solicitante cumplía con los requisitos de permanencia al momento de su renuncia en la Fiscalía General; verifique que no haya sido separado o sancionado con destitución del cargo por autoridad competente y que al momento de su solicitud cumpla con los requisitos previstos en la normatividad aplicable relativos al Servicio Profesional de Carrera.
 
 T R A N S I T O R I O S
 
@@ -1311,3 +1317,15 @@ SEGUNDO. El presente Acuerdo entrará en vigor el día de su publicación en la 
 TERCERO. Se derogan las disposiciones del Acuerdo A/006/2013 que se opongan al presente Acuerdo.
 
 CUARTO. La Coordinación General de Administración realizará las gestiones administrativas que se requieran para la observancia del presente Acuerdo.
+
+G.O. 12 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO FGJCDMX/01/2026 POR EL QUE SE REFORMA Y ADICIONA EL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Acuerdo en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Acuerdo entrará en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. La Coordinación General de Administración en coordinación con el Instituto de Formación Profesional y Estudios Superiores, realizará las gestiones administrativas que se requieran para la observancia del presente Acuerdo.
+
+CUARTO. El personal sustantivo que, a la entrada en vigor del presente Acuerdo, cuente con reserva de plaza por haber sido nombrado en un puesto o cargo fuera de la Fiscalía General deberá solicitar su reincorporación por escrito a la Coordinación General de Administración dentro de los quince días hábiles siguientes, contados a partir de la conclusión del plazo de reserva que fue autorizado, en caso contrario perderá los derechos inherentes a la misma.
