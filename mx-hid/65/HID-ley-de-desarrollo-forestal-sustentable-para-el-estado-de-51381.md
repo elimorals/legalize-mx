@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-51381"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2025-08-07"
+last_updated: "2026-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de agosto de 2006.
 
@@ -210,6 +210,10 @@ XIII.- Conservación forestal: El mantenimiento de las condiciones que propician
 XIV.- (DEROGADA, P.O. 13 DE DICIEMBRE DE 2010)
 
 XV.- Cuenca hidrológico-forestal: La unidad física de planeación y desarrollo, que comprende el territorio donde se encuentran los ecosistemas forestales y de agua que fluye por diversos cauces, convergiendo en uno común y constituyendo el componente básico de la región forestal, que a su vez se divide en subcuencas y microcuencas;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2026)</small>
+
+XV Bis.- Cultura forestal: Conocimientos científicos y tradicionales, técnicas, hábitos y valores sobre el cuidado, manejo y aprovechamiento sustentable de los recursos forestales.
 
 XVI.- Delegación Regional: Enlace de la Secretaría en diversos Municipios;
 
@@ -2282,3 +2286,9 @@ P.O. 7 DE AGOSTO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 316 - LXVI POR EL QUE SE REFORMA LA FRACCIÓN III Y SE ADICIONA LA FRACCIÓN III BIS DEL ARTÍCULO 2 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE HIDALGO, EN MATERIA DE ECOSISTEMAS FORESTALES”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 13 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 398 – LXVI POR EL QUE SE ADICIONA UNA FRACCIÓN XV BIS AL ARTÍCULO 4 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE HIDALGO, EN MATERIA DE CULTURA FORESTAL”.]
+
+ÚNICO. El presente Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
