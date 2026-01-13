@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2025-12-18"
+last_updated: "2026-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -788,6 +788,46 @@ Tratándose de la licencia oficial colectiva concedida a la Dirección General d
 ###### ARTICULO 41.
 
 La coordinación de las instituciones de seguridad pública tiene como objeto fundamental establecer criterios uniformes en este ramo, y lograr eficacia en sus funciones, en estricto apego a los ordenamientos constitucionales y legales aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2026)</small>
+
+En el ámbito de sus atribuciones, las instituciones de seguridad pública del Estado y de los municipios deberán priorizar la prevención, investigación y persecución del delito de extorsión, en términos de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2026)</small>
+
+ARTICULO 41 BIS. Centro Estatal de Atención a Denuncias por el Delito de Extorsión.
+
+La Secretaría de Seguridad y Protección Ciudadana del Estado contará con un Centro Estatal de Atención a Denuncias por el Delito de Extorsión, que tendrá por objeto implementar los mecanismos y procedimientos para la recepción, registro, canalización, atención y seguimiento de las denuncias por la posible comisión del delito de extorsión, así como fortalecer la vinculación con la ciudadanía para orientar e informar sobre las acciones de prevención.
+
+El Centro Estatal tendrá, al menos, las siguientes funciones:
+
+I. Diseñar e implementar programas que fomenten la cultura de la denuncia y la prevención del delito de extorsión;
+
+II. Proponer políticas, lineamientos y programas para mejorar la vinculación con la sociedad en materia de prevención de la extorsión;
+
+III. Coordinarse con las instituciones de seguridad pública federales, estatales y municipales, así como con la Fiscalía General del Estado, para la atención y seguimiento de las denuncias;
+
+IV. Implementar protocolos de atención y respuesta con trato digno y perspectiva de género, priorizando la protección de víctimas y personas denunciantes;
+
+V. Promover el uso de medios tecnológicos para la recepción y seguimiento de denuncias, incluyendo llamadas, plataformas digitales y otros mecanismos remotos, y
+
+VI. Las demás que establezcan otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2026)</small>
+
+ARTICULO 41 TER. Estrategia Estatal para prevenir y combatir el delito de extorsión.
+
+La Secretaría de Seguridad y Protección Ciudadana del Estado elaborará, coordinará y evaluará la Estrategia Estatal para Prevenir y Combatir el Delito de Extorsión, la cual deberá:
+
+I. Alinearse con los contenidos mínimos de la Estrategia Nacional a cargo de la Federación;
+
+II. Incluir un diagnóstico actualizado de la incidencia, modalidades y contextos territoriales de la extorsión en el Estado;
+
+III. Establecer objetivos, metas, indicadores y plazos cuantificables para la prevención, investigación y persecución de la extorsión;
+
+IV. Incorporar campañas permanentes de información y medidas de autocuidado dirigidas a la población, y
+
+V. Prever mecanismos de participación ciudadana y rendición de cuentas.
 
 ###### ARTICULO 42.
 
@@ -2787,6 +2827,16 @@ Dichos equipos serán operados por autoridades distintas a las de los establecim
 
 El bloqueo de señales a que se refiere este artículo se hará sobre todas las bandas de frecuencia que se utilicen para la recepción en los equipos terminales de comunicación móvil y, en ningún caso, excederá de veinte metros fuera de las instalaciones de los establecimientos, a fin de garantizar la continuidad y seguridad de los servicios a los usuarios externos.
 
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2026)</small>
+
+ARTICULO 175 TER. Inhibición de comunicaciones y restricciones para personas sentenciadas por extorsión.
+
+En el Estado, los centros de reinserción social, establecimientos penitenciarios o centros de internamiento para menores, cualquiera que sea su denominación, deberán establecer, conforme a las disposiciones federales y locales aplicables, los procedimientos y tecnologías para inhibir la entrada y salida de llamadas de telefonía celular, radiocomunicación, transmisión de voz, datos o imagen dentro de su perímetro, en armonía con el artículo 38 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión.
+
+Las personas directoras de los centros penitenciarios, deberán tomar las medidas necesarias para que las personas recluidas no incurran en conductas relacionadas a la extorsión, inhibiendo el acceso a medios digitales como teléfonos celulares, tabletas o computadoras, salvo los que legalmente resulten indispensables para el ejercicio de sus derechos, bajo estrictos controles.
+
+El incumplimiento de estas obligaciones se considerará falta administrativa grave, sin perjuicio de las responsabilidades penales correspondientes.
+
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2017)</small>
 
 ## TÍTULO DÉCIMO SÉPTIMO. DE LAS INSTALACIONES ESTRATÉGICAS
@@ -3282,3 +3332,9 @@ SEGUNDO. Los ayuntamientos de la Entidad deberán realizar los ajustes normativo
 TERCERO. Los derechos pensionarios adquiridos con anterioridad a la entrada en vigor de esta reforma se respetarán conforme al régimen aplicable al momento de su otorgamiento, sin perjuicio de que los beneficiarios puedan optar voluntariamente por incorporarse a los nuevos esquemas que se establezcan.
 
 CUARTO. En el ejercicio fiscal siguiente a la entrada en vigor de esta reforma, los ayuntamientos deberán prever en sus respectivos proyectos de presupuesto de egresos una partida específica para el financiamiento de los esquemas de previsión social aplicables a las personas integrantes de los cuerpos de seguridad pública municipal.
+
+P.O. 13 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 0445.- QUE REFORMA LOS ARTÍCULOS 230 Y 231; Y DEROGA EL ARTÍCULO 231 BIS, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ. REALIZA ADICIÓN AL ARTÍCULO 41 Y LOS ARTÍCULOS 41 BIS, 41 TER Y 175 TER DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ. REFORMA LOS ARTÍCULOS 4° Y 58; Y REALIZA ADICIÓN AL ARTÍCULO 3°, 4°, 5°, 10, 11, 24, 58, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ, Y ADICIONA EL ARTÍCULO 51 BIS, A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
