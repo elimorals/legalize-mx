@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-responsabilidades-administrativas-para-el-estado-y-12222
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2025-09-05"
+last_updated: "2026-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el día sábado 3 de junio de 2017.
 
@@ -632,6 +632,12 @@ Incurrirá en cohecho el servidor público que exija, acepte, obtenga o pretenda
 > <small>(ADICIONADO, P.O. 15 DE MAYO DE 2023)</small>
 
 También incurrirá en cohecho, el servidor público que se abstenga de devolver el pago en demasía de su legítima remuneración de acuerdo a los tabuladores que al efecto resulten aplicables, dentro de los 30 días naturales siguientes a su recepción o al requerimiento que se realice por parte del área encargada de su pago.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2026)</small>
+
+ARTÍCULO 51 BIS. Incurrirá en falta administrativa grave, la persona servidora pública responsable de un centro penitenciario, así como quien participe en la toma de decisiones en materia de seguridad y uso de tecnologías de dichos centros, que no establezca los procedimientos y las tecnologías correspondientes para inhibir la entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen, dentro de su perímetro, de conformidad con el artículo 38 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Lo anterior sin perjuicio de las responsabilidades penales que puedan corresponder al hecho.
 
 ###### ARTÍCULO 52.
 
@@ -2114,3 +2120,9 @@ P.O. 5 DE SEPTIEMBRE DE 2025.
 PRIMERO. Este Decreto entrará en vigor el día quince de septiembre de dos mil veinticinco, previa publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0445.- QUE REFORMA LOS ARTÍCULOS 230 Y 231; Y DEROGA EL ARTÍCULO 231 BIS, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ. REALIZA ADICIÓN AL ARTÍCULO 41 Y LOS ARTÍCULOS 41 BIS, 41 TER Y 175 TER DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ. REFORMA LOS ARTÍCULOS 4° Y 58; Y REALIZA ADICIÓN AL ARTÍCULO 3°, 4°, 5°, 10, 11, 24, 58, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ, Y ADICIONA EL ARTÍCULO 51 BIS, A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
