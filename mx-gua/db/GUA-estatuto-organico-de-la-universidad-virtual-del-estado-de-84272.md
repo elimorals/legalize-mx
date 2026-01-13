@@ -4,7 +4,7 @@ identifier: "GUA-estatuto-organico-de-la-universidad-virtual-del-estado-de-84272
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-12-27"
-last_updated: "2025-03-28"
+last_updated: "2026-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84272&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # ESTATUTO ORGANICO DE LA UNIVERSIDAD VIRTUAL DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL ESTATUTO ORGÁNICO DE LA UNIVERSIDAD VIRTUAL DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 13 DE ENERO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE LA UNIVERSIDAD VIRTUAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2025.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE MARZO DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2026 (ABROGADO).
 
 Estatuto publicado en la Primera Parte del Periódico Oficial del Estado de Guanajuato, el martes 27 de diciembre de 2011.
 
@@ -1854,3 +1854,19 @@ Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día 
 Continuidad de trámites iniciados
 
 Artículo Segundo. La Secretaría de Educación y la Universidad Virtual del Estado de Guanajuato implementarán mecanismos de coordinación para dar continuidad a las solicitudes de trámites iniciadas antes de la entrada en vigor del presente Decreto Gubernativo, con la finalidad de que dicha institución educativa culmine las gestiones correspondientes ante la autoridad educativa federal, de conformidad con lo establecido en este instrumento.
+
+P.O. 13 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DE LA UNIVERSIDAD VIRTUAL DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de la vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Abrogación del Estatuto Orgánico vigente
+
+Artículo Segundo. Se abroga el Decreto Gubernativo número 193, mediante el cual se expidió el Estatuto Orgánico de la Universidad Virtual del Estado de Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 206, Primera Parte, del 27 de diciembre de 2011.
+
+Derogación tácita
+
+Artículo Tercero. Se derogan todas aquellas disposiciones que se opongan al presente Decreto Gubernativo.
