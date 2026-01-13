@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-fiscalia-general-del-estado-de-san-luis-1302
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-08-20"
-last_updated: "2023-09-29"
+last_updated: "2026-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130267&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 20 de agosto de 2018.
 
@@ -99,6 +99,10 @@ XIII. Instituto: el Instituto Universitario de Ciencias Penales y Forenses;
 
 XIV. Ley: la Ley de la Fiscalía General del Estado de San Luis Potosí;
 
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2026)</small>
+
+XIV BIS. Ley General: La Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
 XV. Ministerio Público: la institución del Ministerio Público;
 
 XVI. Órgano Interno de Control: el órgano interno de control de la Fiscalía General del Estado;
@@ -143,9 +147,15 @@ XIII. Participar con el carácter que la ley le confiera en aquellos procedimien
 
 XIV. Participar en los Sistemas, Nacional y Estatal, de Seguridad Pública, de acuerdo con la ley y demás normas que regulen la integración, organización, operación, aplicación, supervisión, y funcionamiento de éstos;
 
-XV. Coordinarse con el Centro de Protección de Sujetos Procesales para prestar los servicios de protección de personas que intervienen en el procedimiento penal, de conformidad con la ley de la materia, y
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2026)</small>
 
-XVI. Las demás que determinen las leyes.
+XV. Coordinarse con el Centro de Protección de Sujetos Procesales para prestar los servicios de protección de personas que intervienen en el procedimiento penal, de conformidad con la ley de la materia;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2026)</small>
+
+XVI. Diseñar, coordinar y ejecutar, en el ámbito de su respectiva competencia, la política de investigación, prevención y persecución de los delitos en materia de extorsión, en todas las modalidades previstas en la codificación penal del Estado y en sintonía con la Ley General para Prevenir, Investigar y Sancionar los Delitos en materia de Extorsión, así como en coordinación con las instituciones de Seguridad Pública, penitenciarias y de telecomunicaciones, y con las instancias federales competentes de conformidad con la legislación aplicable, y
+
+XVII. Las demás que determinen las leyes.
 
 ###### ARTÍCULO 5°.
 
@@ -154,6 +164,10 @@ Interpretación y Supletoriedad.
 La presente Ley deberá aplicarse e interpretarse en armonía con los principios rectores de la institución del Ministerio Público, los derechos humanos reconocidos en la Constitución Federal, los Tratados Internacionales de los que el Estado Mexicano sea parte, las Leyes Generales, Leyes Nacionales; el Código Nacional de Procedimientos Penales, la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, y las demás disposiciones aplicables a la función ministerial.
 
 En lo no previsto en este Ordenamiento, se aplicará supletoriamente, en cuanto resulten conducentes y no se le opongan, las disposiciones contenidas en el Código Penal del Estado de San Luis Potosí; y el Código Nacional de Procedimientos Penales, y, en su caso, las demás leyes aplicables del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2026)</small>
+
+Tratándose de la organización, funcionamiento y actuación de las áreas encargadas de la investigación y persecución de los delitos en materia de extorsión, la Fiscalía General observará lo dispuesto en la Ley General, sin perjuicio de las facultades establecidas en la presente Ley.
 
 ### Capítulo II. Principios Rectores
 
@@ -319,6 +333,10 @@ g) Dirección General de Métodos de Investigación
 
 h) Dirección General de Análisis Criminal.
 
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2026)</small>
+
+Respecto a la investigación del delito de extorsión, la Fiscalía General contará con una unidad especializada adscrita a la estructura táctico-operativa, en cumplimiento a lo dispuesto por el artículo 13 de la Ley General.
+
 El Fiscal General por acuerdo, únicamente podrá crear, modificar o suprimir unidades y órganos técnicos, desconcentrados y administrativos que dependan de las áreas establecidas en la presente Ley, así como las que deriven de lo dispuesto en el artículo 12 de este Ordenamiento. Dichos acuerdos se publicarán en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 ###### ARTÍCULO 11.
@@ -341,7 +359,11 @@ d) Para la Atención de los Pueblos, Comunidades y Personas Indígenas.
 
 e) Para la Atención de la Mujer, la Familia, Delitos Sexuales y Justicia para Adolescentes.
 
-f) Las demás fiscalías en las materias específicas que deban crearse por disposición de la ley o por las necesidades del servicio, así como las establecidas en los artículos, 17, y 18, de este Ordenamiento.
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2026)</small>
+
+f) Para la Investigación y Persecución de los delitos en materia de extorsión y delitos vinculados al delito de extorsión, de conformidad con la Ley General, la cual contará con agentes del Ministerio Público, policías de investigación, peritos, y analistas, capacitados, especializados, evaluados, y certificados en materia de extorsión, de conformidad con los criterios que establezca el Sistema Nacional de Seguridad Pública.
+
+g) Las demás fiscalías en las materias específicas que deban crearse por disposición de la ley o por las necesidades del servicio, así como las establecidas en los artículos, 17, y 18, de este Ordenamiento.
 
 Cada una de éstas, tendrán todas las facultades que la legislación procesal o leyes especiales otorguen al Ministerio Público.
 
@@ -572,6 +594,10 @@ La Fiscalía General deberá seguir un proceso de planeación institucional en e
 Para lo anterior, el Fiscal General deberá emitir un Plan de Persecución Penal, el cual será el documento que establezca las prioridades y fije las metas de persecución estatal, orientando la aplicación de los recursos de la Fiscalía General y sentando los lineamientos generales de la actuación de los fiscales, para la consecución de las mismas.
 
 El Plan de Persecución Penal podrá ser revisado y modificado anualmente en función de las necesidades generadas por cambios en la incidencia delictiva del Estado y la disponibilidad de los recursos humanos, materiales y financieros con los que cuente la Fiscalía.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2026)</small>
+
+En todos los casos, el plan de persecución penal deberá contemplar de manera expresa las prioridades, estrategias y metas para la prevención, investigación y persecución de los delitos de extorsión y los delitos vinculados al delito de extorsión, en sus distintas modalidades e incluyendo aquellas cometidas a través de redes públicas de telecomunicaciones, servicios de voz, datos o imágenes y las que se realicen desde centros penitenciarios; previendo mecanismos de coordinación con las autoridades en el ámbito penitenciario y de seguridad pública, para el intercambio de información, ejecución de operativos conjuntos y evaluación de resultados.
 
 ###### ARTÍCULO 25.
 
@@ -1345,9 +1371,19 @@ IV. Operar bancos de datos criminalísticos y compartir la información con unid
 
 V. Operar un sistema informático de registro y análisis de perfiles genéticos de personas, vestigios biológicos, huellas y otros elementos relacionados con hechos delictivos, que se obtengan de conformidad con las disposiciones jurídicas aplicables, así como compartir la información con unidades específicas del Agente Fiscal, de la Policía de Investigación y de información y análisis;
 
-VI. Operar un sistema informático de registro y análisis de la huella balística, análisis de voz, sistemas biométricos y otros elementos relacionados con hechos delictivos, que se obtengan de conformidad con las disposiciones jurídicas aplicables, así como compartir la información con unidades específicas del Agente Fiscal, de la Policía de Investigación y de información y análisis, y
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2026)</small>
 
-VII. Las demás que establezcan la presente Ley, su Reglamento, y el Fiscal General mediante acuerdo.
+VI. Operar un sistema informático de registro y análisis de la huella balística, análisis de voz, sistemas biométricos y otros elementos relacionados con hechos delictivos, que se obtengan de conformidad con las disposiciones jurídicas aplicables, así como compartir la información con unidades específicas del Agente Fiscal, de la Policía de Investigación y de información y análisis;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2026)</small>
+
+VII. La creación de bases de datos y productos de inteligencia específicos sobre el delito de extorsión, comprendiendo de forma enunciativa mas no limitativa, lo referente a tipos, modalidades, patrones geográficos, zonas de mayor incidencia y perfiles, incluyendo aquellos cometidos desde centros de reclusión social o penitenciarios, ello con el fin de orientar la política de persecución penal y las acciones operativas de la Fiscalía General;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2026)</small>
+
+VIII. Elaborar informes periódicos de análisis estratégico sobre el delito de extorsión en el Estado; y realizar el intercambio de información de inteligencia que se produzca en la materia con las instancias penitenciarias, de seguridad pública y de coordinación interinstitucional competentes, a efecto de definir políticas públicas, operativos conjuntos y medidas de prevención en términos de la legislación aplicable y los convenios de colaboración vigentes, y
+
+IX. Las demás que establezcan la presente Ley, su Reglamento, y el Fiscal General mediante acuerdo.
 
 ## TÍTULO TERCERO. SERVICIO PROFESIONAL DE CARRERA
 
@@ -1582,3 +1618,9 @@ P.O. 29 DE SEPTIEMBRE DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0445.- QUE REFORMA LOS ARTÍCULOS 230 Y 231; Y DEROGA EL ARTÍCULO 231 BIS, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ. REALIZA ADICIÓN AL ARTÍCULO 41 Y LOS ARTÍCULOS 41 BIS, 41 TER Y 175 TER DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ. REFORMA LOS ARTÍCULOS 4° Y 58; Y REALIZA ADICIÓN AL ARTÍCULO 3°, 4°, 5°, 10, 11, 24, 58, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ, Y ADICIONA EL ARTÍCULO 51 BIS, A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
