@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-del-poder-legislativo-del-estado-de-yucatan-768
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-04"
-last_updated: "2023-10-09"
+last_updated: "2026-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE ENERO DE 2026.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 4 de octubre de 2010.
 
@@ -533,6 +533,14 @@ II. Que por mandato Constitucional o Estatutario se deba expedir la Ley o el Dec
 
 III. Por acuerdo de la Junta de Gobierno y Coordinación Política, considerando las iniciativas seleccionadas por las Fracciones y Representaciones Legislativas, así como las Comisiones y con la posterior aprobación del Pleno del Congreso y en sus recesos la Diputación Permanente.
 
+> <small>(ADICIONADO, D.O. 13 DE ENERO DE 2026)</small>
+
+###### Artículo 17 Ter.
+
+Las minutas de reforma a la Constitución Política de los Estados Unidos Mexicanos remitidas por las Cámaras, de Diputados o, de Senadores del Honorable Congreso de la Unión en términos de lo previsto en el artículo 135 de la propia Constitución General, sin más trámite que su lectura, se someterán a discusión y votación del Pleno en la sesión que para tal fin determine la presidencia de la Mesa Directiva.
+
+Se exceptúa de lo anterior, cuando a consideración de la Presidencia de la Mesa Directiva y por la trascendencia de la reforma se deba turnar a la Comisión Permanente de Puntos Constitucionales y Gobernación para su dictaminación.
+
 ###### Artículo 18.
 
 Las resoluciones del Congreso tendrán el carácter de leyes y decretos.
@@ -741,11 +749,17 @@ XIX.- Recibir del Presidente de cada Comisión, un informe semestral del trabajo
 
 XX.- Declarar en el Pleno la existencia o falta del cuórum legal, cuando se compruebe mediante el pase de lista;
 
-> <small>(ADICIONADA, D.O. 20 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O. 13 DE ENERO DE 2026)</small>
 
-XXI.- Declarar recesos durante la Sesión Plenaria, a fin de recabar opiniones, promover acuerdos o procurar condiciones que permitan el adecuado desahogo del orden del día, y
+XXI.- Declarar recesos durante la Sesión Plenaria, a fin de recabar opiniones, promover acuerdos o procurar condiciones que permitan el adecuado desahogo del orden del día;
 
-XXII.- Las demás que establezcan esta Ley y las disposiciones reglamentarias aplicables, que se consideren necesarias para el ejercicio de sus facultades y cumplimiento de sus obligaciones.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 13 DE ENERO DE 2026)</small>
+
+XXII.- Ordenar el cambio de Sede del Poder Legislativo para llevar a cabo una Sesión Ordinaria, Extraordinaria o Periodo Extraordinario cuando existan razones fundadas de riesgo a la integridad, por causas de fuerza mayor o por cualquier otra circunstancia que no permita garantizar la seguridad de las y los integrantes del Pleno de la Legislatura, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O. 13 DE ENERO DE 2026)</small>
+
+XXIII.- Las demás que establezcan esta Ley y las disposiciones reglamentarias aplicables, que se consideren necesarias para el ejercicio de sus facultades y cumplimiento de sus obligaciones.
 
 > <small>(ADICIONADO, D.O. 20 DE FEBRERO DE 2015)</small>
 
@@ -815,7 +829,9 @@ El Congreso designará Comisiones Permanentes que se encargarán del estudio, an
 
 I.- PUNTOS CONSTITUCIONALES Y GOBERNACIÓN. Tendrá por objeto estudiar, analizar y dictaminar sobre los asuntos relacionados con las reformas a la Constitución Política de los Estados Unidos Mexicanos, la propia del Estado y los relativos con la gobernabilidad Estatal y Municipal, para lo cual conocerá todo lo relativo a:
 
-a) Las iniciativas de reformas a la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado;
+> <small>(REFORMADO, D.O. 13 DE ENERO DE 2026)</small>
+
+a) Las iniciativas de reforma a la Constitución Política de los Estados Unidos Mexicanos, en términos de la excepción prevista en el artículo 17 Ter de esta ley, y la particular del Estado;
 
 b) Cuestiones que se refieran a hechos de naturaleza administrativa del Poder Ejecutivo del Estado y de los ayuntamientos;
 
@@ -993,7 +1009,9 @@ h) Analizar las condiciones de discriminación y violencia contra las mujeres, c
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO 263/2015 PUBLICADO EN EL D.O. DEL 20 DE FEBRERO DE 2015, SE ADVIERTE QUE EL CONTENIDO DEL INCISO I DE ESTA FRACCIÓN, PASÓ AL INCISO F) DE LA FRACCIÓN XIV, ADICIONADA EN EL PRESENTE DECRETO.</small>
 
-XIII.- PARA EL RESPETO Y PRESERVACIÓN DE LA CULTURA MAYA. Tendrá por objeto estudiar, analizar y dictaminar, sobre los asuntos relacionados con el respeto de los derechos de las personas descendientes del pueblo maya, que conservan y mantienen sus rasgos culturales costumbres, tradiciones o religión como parte de su forma habitual de vida en el Estado, en lo referente a:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 13 DE ENERO DE 2026)</small>
+
+XIII.- DE LA PRESERVACIÓN DE LA CULTURA, IDENTIDAD Y VISIBILIDAD DEL PUEBLO MAYA, LOS PUEBLOS ORIGINARIOS Y COMUNIDADES AFROMEXICANAS. Tendrá por objeto estudiar, analizar y dictaminar, sobre los asuntos relacionados con el respeto de los derechos de las personas descendientes de los pueblos y comunidades mayas, los pueblos originarios y afromexicanas, que conservan y mantienen sus rasgos culturales costumbres, tradiciones o religión como parte de su forma habitual de vida en el Estado, en lo referente a:
 
 a) Los proyectos de Ley y reformas a disposiciones legales que tengan relación con garantizar el ejercicio pleno de los derechos fundamentales del pueblo maya de Yucatán, establecidos en la Constitución Política de los Estados Unidos Mexicanos, Tratados Internacionales celebrados y ratificados por México en la materia, y en la Constitución Política del Estado de Yucatán;
 
@@ -1053,9 +1071,9 @@ d) El fomento y estímulo de las manifestaciones de creatividad artística e int
 
 e) Lo relativo al fomento y desarrollo de las actividades artesanales de las distintas regiones de la entidad;
 
-> <small>(REFORMADO ESTE PÁRRAFO, D.O. 22 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 13 DE ENERO DE 2026)</small>
 
-XVI.- JUVENTUD, CULTURA FÍSICA Y DEPORTE. Tendrá por objeto estudiar, analizar y dictaminar, sobre los asuntos relacionados con:
+XVI.- JUVENTUDES, CULTURA FÍSICA Y DEPORTE. Tendrá por objeto estudiar, analizar y dictaminar, sobre los asuntos relacionados con:
 
 a) Los temas relativos al deporte;
 
@@ -1065,13 +1083,13 @@ c) Realización de actividades que promuevan y fortalezcan la cultura física en
 
 d) La formación integral de los ciudadanos que contribuya a su desarrollo físico, psicológico, social y cultural, así como su vinculación y participación activa en la vida nacional, social, económica y política.
 
-> <small>(ADICIONADO, D.O. 22 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO, D.O. 13 DE ENERO DE 2026)</small>
 
-e) La promoción ante las instancias correspondientes, Instituciones, Organismos Públicos y Privados, Estatales o Nacionales, de la participación de la juventud en la vida social, política, económica y cultural de la entidad, con el fin de procurar (sic) desarrollo integral;
+e) La promoción ante las instancias correspondientes, Instituciones, Organismos Públicos y Privados, Estatales o Nacionales, de la participación de las juventudes en la vida social, política, económica y cultural de la entidad, con el fin de procurar desarrollo integral;
 
-> <small>(ADICIONADO, D.O. 22 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO, D.O. 13 DE ENERO DE 2026)</small>
 
-f) La gestión de asuntos, demandas, opiniones y propuestas de la juventud, así como la atención integral de los problemas que le son propios, y
+f) La gestión de asuntos, demandas, opiniones y propuestas de las juventudes, así como la atención integral de los problemas que le son propios, y
 
 > <small>(ADICIONADO, D.O. 22 DE ABRIL DE 2022)</small>
 
@@ -1174,6 +1192,10 @@ IX.- Informar a la Mesa Directiva sobre los asuntos que por su naturaleza sean c
 X.- Integrar comités con los integrantes de la Comisión Permanente, para coadyuvar en el estudio y análisis de los asuntos que le sean turnados, y
 
 XI.- Invitar a comparecer expertos en la materia sobre asuntos en trámite, a efecto de allegarse datos e información especializada.
+
+> <small>(ADICIONADA, D.O. 13 DE ENERO DE 2026)</small>
+
+XII.- Cuando sus trabajos lo ameriten, acordar por la mayoría de sus integrantes la celebración de sesiones o reuniones presenciales de trabajo fuera del Recinto del Poder Legislativo, informando previamente de ello a la Presidencia de la Mesa Directiva.
 
 ###### Artículo 45.
 
@@ -1421,7 +1443,9 @@ VI.- Proponer al Congreso, la integración de las Comisiones;
 
 VII.- Proponer al Pleno, por medio del Presidente de la Junta, el nombramiento y remoción, en su caso, del Secretario General del Poder Legislativo, del Director General de Administración y Finanzas, del Director del Instituto de Investigaciones Legislativas, del Director de Evaluación del Presupuesto y del Titular de la Contraloría Interna.
 
-VIII.- Proponer al Congreso, los reglamentos, manuales de organización con sus procedimientos y funcionamiento de las distintas unidades técnicas y administrativas;
+> <small>(REFORMADA, D.O. 13 DE ENERO DE 2026)</small>
+
+VIII.- Proponer al Congreso, los reglamentos que estime necesarios para el funcionamiento de las unidades técnicas y administrativas;
 
 IX.- Coordinar los trabajos técnicos y administrativos, así como evaluar su eficiencia y calidad; pudiendo solicitar a los órganos de apoyo del Congreso los informes que estime pertinentes y con la periodicidad que requiera;
 
@@ -1435,7 +1459,9 @@ XIII.- Disponer la elaboración del proyecto de presupuesto anual del Poder Legi
 
 XIV.- Asignar, en los términos de esta Ley los recursos humanos, materiales, tecnológicos y financieros para el óptimo funcionamiento de los órganos de apoyo del Poder Legislativo;
 
-XV.- Establecer el catálogo de sueldos, salarios y prestaciones de los servidores públicos, funcionarios y demás empleados del Poder Legislativo;
+> <small>(REFORMADA, D.O. 13 DE ENERO DE 2026)</small>
+
+XV.- Establecer el catálogo de sueldos, percepciones y prestaciones de los servidores públicos, funcionarios y demás empleados del Poder Legislativo, así como los Manuales de Organización, Manuales de Procedimientos y otros documentos normativos en el ámbito administrativo.
 
 XVI.- Determinar la aplicación de sanciones disciplinarias a los servidores públicos del Congreso, de conformidad con la normatividad aplicable, y
 
@@ -1717,9 +1743,17 @@ XIX.- Promover la coordinación y cooperación con los Poderes Ejecutivo y Judic
 
 XX.- Conducir, conforme a las bases de coordinación que establezcan los comités coordinadores de los Sistemas Nacional y Estatal Anticorrupción, acciones que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que se genere en la Administración Pública estatal; así como promover dichas acciones hacia la sociedad;
 
-XXI.- Implementar las políticas de coordinación que promuevan los comités coordinadores de los Sistemas Nacional y Estatal Anticorrupción, en materia de combate a la corrupción en la Administración Pública estatal, y
+> <small>(REFORMADA, D.O. 13 DE ENERO DE 2026)</small>
 
-XXII.- Emitir el código de ética de los servidores públicos del estado y las reglas de Integridad para el ejercicio de la función pública.
+XXI.- Implementar las políticas de coordinación que promuevan los comités coordinadores de los Sistemas Nacional y Estatal Anticorrupción, en materia de combate a la corrupción en el Poder Legislativo;
+
+> <small>(REFORMADA, D.O. 13 DE ENERO DE 2026)</small>
+
+XXII.- Emitir el código de ética de los servidores públicos del Poder Legislativo y las reglas de Integridad para el ejercicio de la función pública, y
+
+> <small>(ADICIONADA, D.O. 13 DE ENERO DE 2026)</small>
+
+XXIII.- Garantizar en el ámbito de su competencia como Autoridad Garante del Poder Legislativo, el ejercicio de los derechos de acceso a la información pública y la protección de datos personales conforme a los principios y bases establecidos en la Constitución Política de los Estados Unidos Mexicanos, así como lo previsto en la Ley General de Transparencia y Acceso a la Información Pública y la Ley de Transparencia y Acceso a la Información Pública del Estado de Yucatán.
 
 > <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2020)</small>
 
@@ -2146,3 +2180,19 @@ Artículo Segundo. Se derogan todas las disposiciones legales de igual o menor j
 Obligación Normativa
 
 Artículo Tercero. La persona Titular del Poder Ejecutivo del Estado deberá modificar el Reglamento del Código de la Administración Pública de Yucatán, en un plazo no mayor a ciento ochenta días, contado a partir de la entrada en vigor de este Decreto.
+
+D.O. 13 DE ENERO DE 2026.
+
+DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO Y EL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, AMBOS DEL ESTADO DE YUCATÁN, EN MATERIA DE ECONOMÍA PROCESAL E INCLUSIÓN NORMATIVA.
+
+Entrada en vigor
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Estado de Yucatán.
+
+Asuntos en trámite
+
+Artículo segundo. Los asuntos a los que alude el presente decreto que estén en trámite para su desahogo ante el Pleno de la legislatura se resolverán en los términos del presente decreto.
+
+Derogación expresa
+
+Artículo tercero. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente decreto.
