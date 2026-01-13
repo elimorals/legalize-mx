@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1392
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-25"
-last_updated: "2025-11-11"
+last_updated: "2026-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 25 de noviembre de 2019.
 
@@ -255,7 +255,9 @@ La violencia política contra las mujeres en razón de género, se sancionará e
 
 XIV Bis. Violencia por ataques con ácido, sustancias químicas o corrosivas, o con fuego: Es la que se realiza mediante la acción de arrojar hacia una persona, o derramar sobre una persona, o poner en contacto del cuerpo de una persona, cualquier tipo de gas, compuesto químico, ácido, álcalis, sustancia química, corrosiva, cáustica, irritante, tóxica, inflamable, explosiva, reactiva, líquido a alta temperatura, fuego, o cualquier otra sustancia que por sí misma o en determinadas condiciones pueda provocar lesiones temporales o permanentes, internas, externas o ambas, algún tipo de discapacidad, o poner en peligro la vida, o causar la muerte.
 
-XV. Violencia psicológica: todo acto u omisión que daña la estabilidad psicológica que puede consistir en: prohibiciones, coacciones, condicionamientos, intimidaciones, desdén, negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, chantaje, devaluación, marginación, indiferencia, comparaciones destructivas, rechazo, restricción a la autodeterminación, amenazas, o cualquier otra que conlleva a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2026)</small>
+
+XV. Violencia psicológica: todo acto u omisión que daña la estabilidad psicológica que puede consistir en: prohibiciones, coacciones, condicionamientos, intimidaciones, desdén, negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, chantaje, devaluación, marginación, indiferencia, comparaciones destructivas, rechazo, restricción a la autodeterminación, amenazas, acecho, o cualquier otra que conlleva a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
 
 XVI. Violencia sexual: cualquier acto que degrada o daña el cuerpo o la sexualidad de la víctima, o ambas, que atenta contra su libertad, dignidad, seguridad sexual e integridad física, que implica el abuso de poder y la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto. Puede expresarse en:
 
@@ -1904,3 +1906,11 @@ P.O. 11 DE NOVIEMBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0446.- QUE ADICIONA EL CAPÍTULO IV BIS “ACECHO”, AL TÍTULO SEGUNDO “DELITOS CONTRA LA PAZ, LA LIBERTAD Y LA SEGURIDAD DE LAS PERSONAS”, Y LOS ARTÍCULOS 168 TER Y 168 QUATER, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ; Y REFORMA EL ARTÍCULO 4°, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+## TRANSITORIO
+
+ÚNICO. El presente Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
