@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-movilidad-para-el-estado-de-oaxaca-136284"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-27"
-last_updated: "2025-11-22"
+last_updated: "2026-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2026.
 
 Ley publicada en la Cuarta Sección en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2019.
 
@@ -1967,7 +1967,9 @@ Las concesiones otorgadas a personas morales no son susceptibles de cesión o tr
 
 Las personas físicas en un plazo de 30 días hábiles de otorgada la concesión, deberán designar ante la Secretaría a tres beneficiarios, en orden de prelación excluyente para el caso de que no puedan continuar prestando el servicio, sea por muerte o incapacidad física o mental.
 
-El beneficiario deberá reunir los mismos requisitos exigidos a su titular para su otorgamiento. Los beneficiarios podrán ser quienes designe el titular de la concesión.
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2026)</small>
+
+El beneficiario deberá cumplir con los mismos requisitos exigidos a la persona titular de la concesión para su otorgamiento, pudiendo ser designado libremente por ésta. Las personas beneficiarias estarán facultadas únicamente mediante poder notarial especial, otorgado expresamente para realizar los trámites relacionados con la obtención de licencias y/o cursos de capacitación, cuando la persona titular de la concesión se encuentre imposibilitada por causas de fuerza mayor para cumplirlos, procedimiento que será calificado y autorizado a criterio de la Secretaría, conforme a derecho.
 
 Las concesiones otorgadas y los derechos que pudieran derivarse son derechos personalísimos y no estarán consideradas dentro de la masa hereditaria del titular, por ser un servicio público del Estado delegado; por lo que las autoridades judiciales no concederán valor alguno a cualquier estipulación, salvo disposición en contrario.
 
@@ -3738,3 +3740,13 @@ P.O. 22 DE NOVIEMBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 14 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 905.- MEDIANTE EL CUAL REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 136 DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Los concesionarios que aún no hayan designado a sus beneficiarios deberán hacerlo en los términos de la presente Ley. En caso de que el concesionario se encuentre en el extranjero, podrá realizar dicha designación a través de la oficina consular del Estado Mexicano en el país en que resida. Tratándose de los concesionarios que fallezcan o presenten una incapacidad física o mental permanente, sin haber designado beneficiarios en términos de lo dispuesto en la presente Ley, pero que cuenten con un instrumento notarial donde hayan hecho dicha manifestación, la concesión podrá cederse o transmitirse por el tiempo que reste su vigencia, previa autorización de la Secretaría y dentro de los doce meses posteriores a la publicación del presente Decreto. En ausencia de beneficiarios designados, la transferencia corresponderá a la persona que acredite el parentesco y que demuestre que se encuentra prestando el servicio público de transporte de manera ininterrumpida acreditándolo con la constancia expedida por la autoridad municipal y/o constancia expedida por los representantes de su agrupación.
+
+TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
