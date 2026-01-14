@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-148967
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-03-30"
-last_updated: "2026-01-09"
+last_updated: "2026-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2026.
 
 Ley publicada en la Octava Sección en el Número 39 del Periódico Oficial del Estado de Michoacán, el martes 30 de marzo de 2021.
 
@@ -1335,7 +1335,9 @@ VII. Coadyuvar con las autoridades competentes, en la supervisión de los están
 
 VIII. Vigilar el cumplimiento de las disposiciones municipales para la conservación de manantiales, pozos, aljibes, acueductos y otras obras que sirvan para el abastecimiento de agua para la población;
 
-IX. Vigilar que el funcionamiento de los rastros municipales se realice conforme a las disposiciones sanitarias aplicables;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2026)</small>
+
+IX. Vigilar que el funcionamiento de los rastros municipales se realice conforme a las normas, procesos y disposiciones zoosanitarias aplicables;
 
 X. Fomentar que la exposición, conservación y venta de alimentos al público se ajuste a las disposiciones sanitarias aplicables;
 
@@ -3253,19 +3255,35 @@ Los ayuntamientos proporcionarán, con base en su Presupuesto de Egresos, los re
 
 El Instituto Municipal de Planeación, es un órgano profesional especializado en la planeación del desarrollo del Municipio, que procure y permita la permanencia de los planes, a corto, mediano y largo plazo, la equidad en el desarrollo y la participación social, que impulse la competitividad económica y el equilibrio ambiental de los planes, programas y proyectos del Municipio. El Instituto Municipal de Planeación estará bajo la supervisión del Consejo Directivo, que será presidido por la Presidenta o Presidente Municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2026)</small>
+
 ###### Artículo 192.
 
-La creación del Instituto Municipal de Planeación, será de observancia general para los Municipios en que se divide el Estado, como un organismo público y consultivo, descentralizado de la Administración Pública Municipal, con personalidad jurídica y patrimonio propio.
+La creación del Instituto Municipal de Planeación, será de observancia general para los Municipios en que se divide el Estado, como un organismo público y consultivo, podrá ser descentralizado o centralizado de la Administración Pública Municipal.
 
-El Instituto Municipal de Planeación, contará con un Consejo Directivo, que será presidido por la Presidenta o Presidente Municipal, además estará integrado por lo menos por tres integrantes ciudadanos que no desempeñen algún cargo de la Administración Pública o algún cargo directivo en algún partido político, así como las funcionarias y funcionarios del Ayuntamiento designados por la Presidenta o Presidente Municipal sin que éstos sean mayor al número de ciudadanas o ciudadanos integrantes del Consejo Directivo, debiéndose observar el principio de paridad de género.
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2026)</small>
+
+En caso de que sea descentralizado, el Instituto Municipal de Planeación, contará con un Consejo Directivo, que será presidido por la Presidenta o Presidente Municipal, además estará integrado por lo menos por tres integrantes ciudadanos que no desempeñen algún cargo de la Administración Pública o algún cargo directivo en algún partido político, así como las funcionarias y funcionarios del Ayuntamiento designados por la Presidenta o Presidente Municipal sin que éstos sean mayor al número de ciudadanas o ciudadanos integrantes del Consejo Directivo, debiéndose observar el principio de paridad de género.
 
 La designación del Titular del Instituto Municipal de Planeación, será mediante convocatoria pública dando prioridad e inclusión a la sociedad organizada, de acuerdo con el reglamento que cada Ayuntamiento elabore para su funcionamiento, por un periodo de tres años pudiendo reelegirse hasta por un periodo más y deberá entrar en funciones el primero de diciembre del año de inicio de la administración municipal.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2026)</small>
+
+###### Artículo 192 Bis.
+
+Cuando el Instituto Municipal de Planeación sea creado como un organismo descentralizado de la Administración Pública Municipal, contará con personalidad jurídica y patrimonio propio, conforme a su decreto de creación y reglamentación correspondiente.
+
+En los casos en que se establezca como un organismo centralizado, formará parte de la estructura orgánica de la Administración Pública Municipal, dependiendo administrativamente del Ayuntamiento, y operará bajo las reglas presupuestarias y de organización interna que determine el propio Ayuntamiento en su reglamento respectivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 14 DE ENERO DE 2026)</small>
 
 ###### Artículo 193.
 
 Para ser Titular del Instituto Municipal de Planeación se requiere:
 
-I. Ser originario del Municipio o contar con al menos dos años de residencia y tener su domicilio permanente en él;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2026)</small>
+
+I. Ser ciudadana o ciudadano Michoacano en pleno ejercicio de sus derechos políticos y civiles;
 
 II. No desempeñar algún cargo dentro de la Administración Pública y no tener militancia en algún partido político;
 
@@ -3722,5 +3740,17 @@ P.O. 9 DE ENERO DE 2026.
 P.O. 9 DE ENERO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 266.- ÚNICO. SE REFORMA EL ARTÍCULO 67 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 14 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 321.- ÚNICO. SE REFORMA EL ARTÍCULO 56 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 14 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 322 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 192 Y 193; Y, SE ADICIONA EL ARTÍCULO 192 BIS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
