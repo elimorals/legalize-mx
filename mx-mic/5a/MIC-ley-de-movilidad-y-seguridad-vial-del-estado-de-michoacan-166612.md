@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-movilidad-y-seguridad-vial-del-estado-de-michoacan-16661
 country: "mx"
 rank: "ley"
 publication_date: "2023-06-02"
-last_updated: "2026-01-09"
+last_updated: "2026-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166612&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2026.
 
 Ley publicada en la Novena Sección del Número 7 del Periódico Oficial del Estado de Michoacán, el viernes 2 de junio de 2023.
 
@@ -1177,7 +1177,9 @@ II. Difundir guías y protocolos de práctica clínica que permitan mejorar la c
 
 III. Implementar programas de capacitación para el personal de salud responsable de la atención médica prehospitalaria e intrahospitalaria por siniestros de tránsito;
 
-IV. Realizar campañas en materia de prevención de siniestros de tránsito;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2026)</small>
+
+IV. Realizar campañas en materia de prevención de siniestros de tránsito en forma conjunta con la Coordinación Estatal de Protección Civil;
 
 V. Realizar campañas en materia de prevención de adicciones tendientes a evitar el manejo bajo el influjo del alcohol o cualquier droga, psicotrópico o estupefaciente;
 
@@ -4368,3 +4370,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente a su publicaci�
 SEGUNDO. La Secretaría de Igualdad Sustantiva y Desarrollo de las Mujeres Michoacanas, contará con un plazo de 120 días naturales, para implementar las acciones previstas en la fracción IX BIS del artículo 47 de la ley.
 
 TERCERO. Queda derogada toda disposición legal que se oponga a lo dispuesto en el presente Decreto.
+
+P.O. 14 DE ENERO DE 2026.
+
+> <small>[N. DE E. DECRETO NÚMERO 326 POR EL QUE "SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 46 DE LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]</small>
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Notifíquese el Presente Decreto al Titular del Ejecutivo del Estado para los efectos legales correspondientes.
