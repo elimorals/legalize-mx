@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-desarrollo-social-del-estado-de-michoacan-93705"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-11"
-last_updated: "2022-04-28"
+last_updated: "2026-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2026.
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado de Michoacán, el jueves 11 de abril de 2013.
 
@@ -69,6 +69,10 @@ IX. Crear mecanismos de evaluación, seguimiento e impacto social para vigilar q
 
 X. Determinar las bases para fomentar la participación ciudadana e impulsar la política integral de desarrollo social.
 
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2026)</small>
+
+XI. Impulsar acciones, programas y políticas que contribuyan en la movilidad social ascendente de la población.
+
 ###### ARTÍCULO 2.
 
 Para efectos de la presente Ley se entenderá por:
@@ -95,6 +99,10 @@ X. GOBERNADOR: El Gobernador Constitucional del Estado Libre y Soberano de Micho
 
 XI. LEY: Ley de Desarrollo Social para el Estado de Michoacán;
 
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2026)</small>
+
+XI BIS. MOVILIDAD SOCIAL ASCENDENTE: Mejoramiento de las condiciones de ascenso social en términos del nivel de vida;
+
 XII. ORGANIZACIONES COMUNITARIAS: Es el conjunto de personas que promueven el desarrollo social, la autonomía y la autogestión, tendientes a fomentar la democracia participativa, a través de grupos en regiones, municipios, comunidades y ejidos;
 
 XIII. ÓRGANO DE CONTROL INTERNO: Las contralorías de los ayuntamientos y de cada una de las dependencias y entidades del Ejecutivo o sus equivalentes;
@@ -105,9 +113,9 @@ XV. POLÍTICA SOCIAL: Se define como la forma que por medio de estrategias y pol
 
 XVI. PROGRAMAS: Los programas de desarrollo social que ejecutan el Gobernador y los ayuntamientos;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2026)</small>
 
-XVII. SECRETARÍA: La Secretaría de Desarrollo Social y Humano;
+XVII. SECRETARÍA: La Secretaría del Bienestar;
 
 XVIII. SISTEMA ESTATAL: Sistema Estatal de Desarrollo Social; y,
 
@@ -126,6 +134,10 @@ III. Promover la participación ciudadana, así como la organización social en 
 IV. Impulsar la participación de pueblos y comunidades indígenas, en los términos de la Constitución; y,
 
 V. Coordinar los programas y acciones del Ejecutivo con los de los ayuntamientos y la Federación, para alcanzar la eficiencia en el uso de los recursos públicos.
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2026)</small>
+
+VI. Promover programas y políticas que contribuyan en la movilidad social ascendente de la población.
 
 ### CAPÍTULO II. AUTORIDADES RESPONSABLES
 
@@ -149,11 +161,11 @@ VII. Velar por la expedita entrega de recursos por parte del Estado para program
 
 VIII. Las demás que señale esta Ley y demás disposiciones normativas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2026)</small>
 
 ###### ARTÍCULO 5.
 
-Son facultades del Titular de la Secretaría de Desarrollo Social y Humano, además de las dispuestas por la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo, las siguientes:
+Son facultades del Titular de la Secretaría, además de las dispuestas por la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo, las siguientes:
 
 I. Aplicar, normar, coordinar y ejecutar las políticas sociales contenidas en el Plan de Desarrollo Integral del Estado de Michoacán;
 
@@ -421,7 +433,13 @@ XVI. Promover la participación de los sectores académico, privado y social;
 
 XVII. Elegir de entre sus miembros a su Presidente, el cual no podrá ser el Titular de la Secretaría; y,
 
-XVIII. Las demás que señale esta ley y demás disposiciones normativas.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE ENERO DE 2026)</small>
+
+XVIII. Estudiar, analizar y proponer acciones, programas y políticas con enfoque de movilidad social ascendente; y,
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE ENERO DE 2026)</small>
+
+XIX. Las demás que señale esta Ley y demás disposiciones normativas.
 
 ###### ARTÍCULO 23.
 
@@ -836,3 +854,11 @@ P.O. 28 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 143.- ARTÍCULO PRIMERO. SE REFORMAN LOS ARTÍCULOS 10 Y 14 FRACCIÓN I, DE LA LEY DE FINANCIAMIENTO RURAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO. SE REFORMAN LOS ARTÍCULOS 28 Y 29 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE MICHOACÁN”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 14 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 333 POR EL QUE "SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 1°, FRACCIÓN XI BIS AL ARTÍCULO 2°, FRACCIÓN VI AL ARTÍCULO 3°; SE REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 2°, EL PRIMER PÁRRAFO DEL ARTÍCULO 5°, LA FRACCIÓN XVIII Y SE ADICIONA UNA FRACCIÓN XIX DEL ARTÍCULO 22, TODOS DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos legales correspondientes.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
