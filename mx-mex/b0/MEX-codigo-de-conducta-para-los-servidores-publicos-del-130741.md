@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-para-los-servidores-publicos-del-130741"
 country: "mx"
 rank: "codigo"
 publication_date: "2018-09-19"
-last_updated: "2021-05-26"
+last_updated: "2026-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO DE CONDUCTA PARA LOS SERVIDORES PÚBLICOS DEL INSTITUTO DE CAPACITACIÓN Y ADIESTRAMIENTO PARA EL TRABAJO INDUSTRIAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE MAYO DE 2021 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE ENERO DE 2026 (ABROGADO).
 
 Código publicado en la Sección Primera al Número 54 de la Gaceta del Gobierno del Estado de México, el miércoles 19 de septiembre de 2018.
 
@@ -496,3 +496,11 @@ G.G. 26 DE MAYO DE 2021.
 PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en la Gaceta de Gobierno del Estado de México.
 
 SEGUNDO.- Se abroga el Código de Conducta de los servidores públicos del Instituto de Capacitación y Adiestramiento para el Trabajo Industrial, publicado en la Gaceta de Gobierno del Estado de México, el día miércoles 19 de septiembre de 2018.
+
+G.G. 14 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD PARA LAS PERSONAS SERVIDORAS PÚBLICAS DEL INSTITUTO DE CAPACITACIÓN Y ADIESTRAMIENTO PARA EL TRABAJO INDUSTRIAL (ICATI)”.]
+
+PRIMERO.- El presente Acuerdo entrara en vigor el día siguiente al de su publicación en la Gaceta de (sic) Gobierno del Estado de México.
+
+SEGUNDO.- Se abroga el Código de Conducta de los servidores públicos del Instituto de Capacitación y Adiestramiento para el Trabajo Industrial, publicado en la Gaceta de (sic) Gobierno del Estado de México, el día miércoles 19 de septiembre de 2018.
