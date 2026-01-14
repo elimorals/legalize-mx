@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-desarrollo-urbano-del-estado-de-michoacan-de-58038"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-12-26"
-last_updated: "2025-11-20"
+last_updated: "2026-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2026.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el miércoles 26 de diciembre de 2007.
 
@@ -229,9 +229,17 @@ XXI. La prohibición para establecer desarrollos al margen de la Ley;
 
 XXII. El control de las obras de instalaciones, operación, ampliación, remodelación, construcción, reconstrucción y demolición;
 
-XXIII. La construcción y adecuación de la infraestructura, el equipamiento y los servicios urbanos para garantizar la seguridad, libre tránsito y accesibilidad requeridas para las personas con discapacidad; y,
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2026)</small>
 
-XXIV. La prevención de riesgos y contingencias ambientales y urbanas en los centros de población.
+XXIII. La construcción y adecuación de la infraestructura, el equipamiento y los servicios urbanos para garantizar la seguridad, libre tránsito y accesibilidad requeridas para las personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2026)</small>
+
+XXIV. La prevención de riesgos y contingencias ambientales y urbanas en los centros de población; y,
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2026)</small>
+
+XXV. La forestación y reforestación de zonas urbanas y rurales del Estado, con árboles nativos de la región, los cuales se colocarán de acuerdo con las condiciones correspondientes para garantizar su conservación y crecimiento.
 
 ###### ARTÍCULO 5.
 
@@ -391,7 +399,9 @@ III. A contar con servicios públicos;
 
 IV. Al acceso transparente a la información generada en los procesos de planeación y administración del suelo, incluyendo licencias, autorizaciones o permisos de cualquier índole;
 
-V. A la calidad del medio ambiente, entendida como tal la calidad de vida integral, es decir, la preservación del medio ambiente para las generaciones futuras. Este derecho incluye el uso racional de los recursos naturales y energéticos, el patrimonio cultural y la protección frente a las agresiones a la calidad el (sic) entorno;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2026)</small>
+
+V. La calidad del medio ambiente, entendida como tal la calidad de vida integral, es decir, la preservación del medio ambiente para las generaciones futuras. Este derecho incluye el uso racional de los recursos naturales y energéticos, el patrimonio cultural, la protección frente a las agresiones a la calidad del entorno;
 
 VI. A una vivienda digna y decorosa;
 
@@ -599,7 +609,9 @@ IX. Adquirir y administrar reservas territoriales por sí o en coordinación con
 
 X. Ejercer el derecho de preferencia en lo relativo a predios comprendidos en las áreas de reservas para crecimiento urbano contenidas en los programas de desarrollo urbano, cuando vayan a ser enajenados a título oneroso;
 
-XI. Asegurar la protección, conservación y manejo de las áreas verdes y las zonas de conservación y protección ecológica ubicadas en el municipio;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2026)</small>
+
+XI. Garantizar la forestación y reforestación con árboles nativos de la región, y asegurar la gestión, protección, conservación y manejo de las áreas verdes y las zonas de conservación y protección ecológica ubicadas en el municipio;
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -5796,3 +5808,11 @@ P.O. 20 DE NOVIEMBRE DE 2025.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Segundo. Dese cuenta al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 14 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 323 POR EL QUE “SE REFORMAN LAS FRACCIONES XXIII Y XXIV; Y SE ADICIONA LA FRACCIÓN XXV AL ARTÍCULO 4; Y, SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 7 UNDECIES Y LA FRACCIÓN XI DEL ARTÍCULO 14 DEL CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Dese cuenta al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
