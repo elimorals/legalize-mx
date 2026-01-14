@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-derechos-el-bienestar-y-proteccion-de-los-animales-12802
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-02"
-last_updated: "2025-04-09"
+last_updated: "2026-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DERECHOS, EL BIENESTAR Y PROTECCIÓN DE LOS ANIMALES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2026.
 
 Ley publicada en la Décima Sección del Núm. 58 del Periódico Oficial del Estado de Michoacán, el lunes 2 de abril de 2018.
 
@@ -85,7 +85,13 @@ VI. Fiscalía Especializada: La Fiscalía Especializada en Combate y Delitos Con
 
 VII. Médico Veterinario Zootecnista: Profesionista de la medicina veterinaria y zootecnia, titulado, que cuente con cédula profesional legalmente expedida; y,
 
-VIII. Rastro: Rastro municipal.
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2026)</small>
+
+VIII. Rastro: Rastro municipal; y;
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2026)</small>
+
+IX. Zoonosis: Enfermedades infecciosas que se transmiten naturalmente de animales a humanos o viceversa. Estas enfermedades pueden ser causadas por bacterias, virus, parásitos u hongos y pueden transmitirse a través de diversas vías, incluyendo contacto directo con animales, consumo de alimentos contaminados, o a través de vectores como mosquitos o garrapatas.
 
 ###### Artículo 4.
 
@@ -201,7 +207,9 @@ Corresponde a la Secretaría de Salud:
 
 I. Colaborar con los gobiernos municipales, en materia de salud, procurando el bienestar y trato digno de los animales no humanos;
 
-II. Colaborar con los gobiernos municipales para el establecimiento de políticas públicas encaminadas a la prevención y actuación en caso de zoonosis;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2026)</small>
+
+II. Colaborar con los gobiernos municipales para el establecimiento de políticas públicas y campañas educativas encaminadas a la prevención y actuación en caso de zoonosis;
 
 III. Emitir alerta y declaración de las zonas de riesgo epidemiológico o de zoonosis en el Estado;
 
@@ -375,7 +383,11 @@ V. Disponer de los ejemplares que se encuentren bajo resguardo del Centro y que 
 
 VI. Sacrificar humanitariamente según los términos de las Normas Oficiales Mexicanas que prevengan el daño innecesario, a los animales no humanos que presenten lesiones graves o síntomas de una enfermedad visiblemente avanzada e incurable; y,
 
-VII. Las demás que le señale este ordenamiento y las disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2026)</small>
+
+VII. Emitir y difundir una cédula de búsqueda al recibir el reporte de una mascota desaparecida, mismo que podrá presentarse mediante los medios digitales y líneas telefónicas oficiales del Centro. Dicha cédula deberá incluir la fotografía, nombre del animal no humano, zona y fecha de extravío, así como los datos de contacto y será publicada en los medios digitales oficiales del propio Centro; y,
+
+VIII. Las demás que le señale este ordenamiento y las disposiciones aplicables.
 
 ###### Artículo 20.
 
@@ -1060,3 +1072,19 @@ P.O. 9 DE ABRIL DE 2025.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 175 POR EL QUE “SE MODIFICA EL ARTÍCULO 67; Y, SE ADICIONAN LAS FRACCIONES I, II, Y III AL ARTÍCULO 68 DE LA LEY DE DERECHOS, EL BIENESTAR Y PROTECCIÓN DE LOS ANIMALES EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 14 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 330 POR EL QUE "SE ADICIONA LA FRACCIÓN VII RECORRIENDO EN SU ORDEN LA SUBSECUENTE AL ARTÍCULO 19, DE LA LEY DE DERECHOS, EL BIENESTAR Y PROTECCIÓN DE LOS ANIMALES EN EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. Notifíquese al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 14 DE ENERO DE 2026.
+
+[N. DE E TRANSITORIOS DEL DECRETO NUMERO 331 POR EL QUE “SE REFORMA LA FRACCIÓN VIII Y SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 3; Y, SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 8 DE LA LEY DE DERECHOS, EL BIENESTAR Y PROTECCIÓN DE LOS ANIMALES EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. Notifíquese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
