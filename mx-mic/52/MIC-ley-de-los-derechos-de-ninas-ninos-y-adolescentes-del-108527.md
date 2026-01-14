@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108527"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2025-03-08"
+last_updated: "2026-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2026.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 2 de junio de 2015.
 
@@ -182,6 +182,10 @@ XXVIII. Sistema Municipal de Protección Integral: El Sistema Municipal de Prote
 XXIX. Sistemas Municipales DIF: Los Sistemas Municipales para el Desarrollo Integral de la Familia del Estado de Michoacán; y,
 
 XXX. Tratados Internacionales: Los Tratados internacionales vigentes en materia de derechos humanos de los que el Estado Mexicano sea parte.
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2026)</small>
+
+XXXI. Violencias contra las niñas, niños y adolescentes: Toda forma de prejuicio o abuso físico o mental, descuido o trato negligente, malos tratos o explotación, incluido el abuso sexual.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2021)</small>
 
@@ -378,6 +382,12 @@ II. Tomar en cuenta la opinión de niñas, niños y adolescentes, conforme a su 
 > <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2021)</small>
 
 Para efectos del reconocimiento de maternidad y paternidad de niñas, niños y adolescentes, así como en relación con los derechos y obligaciones derivados de la filiación y parentesco, se estará a la legislación familiar y civil aplicable. Ante la negativa de la prueba de paternidad o maternidad, la autoridad competente en el estado, salvo prueba en contrario, presumirá que es el padre o la madre respectivamente.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2026)</small>
+
+###### Artículo 14 Bis.
+
+Niñas, niños y adolescentes, nacionales o extranjeros, podrán comprobar su identidad con documento válido y legal emitido por la autoridad competente. Sin que la falta de la documentación para acreditar su identidad sea obstáculo para garantizar sus derechos, en ninguna circunstancia.
 
 ### CAPÍTULO V. DERECHO A VIVIR EN FAMILIA
 
@@ -1220,6 +1230,14 @@ IV. Que se preserve su derecho a la intimidad, que no se divulguen sus datos de 
 V. Tener acceso gratuito a asistencia jurídica, psicológica y cualquier otra necesaria atendiendo a las características del caso, a fin de salvaguardar sus derechos, en términos de las disposiciones jurídicas aplicables; y,
 
 VI. Adoptar las medidas necesarias para evitar la revictimización de niñas, niños y adolescentes que presuntamente son víctimas de la comisión de un delito o violación a sus derechos humanos.
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2026)</small>
+
+VII. Que se emitan las medidas de protección urgentes o cautelares necesarias para garantizar la prevención de posibles daños a su integridad personal, así como para evitar cualquier tipo de violencias en su contra;
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2026)</small>
+
+VIII. Realizar de manera oficiosa y asequible las pruebas psicológicas y de entorno social necesarias para garantizar la prevención y protección adecuada de niñas, niños y adolescentes que resulten víctimas de cualquier tipo de violencias.
 
 ### CAPÍTULO XX. DERECHOS PARA NIÑAS, NIÑOS Y ADOLESCENTES MIGRANTES
 
@@ -2624,3 +2642,9 @@ SEGUNDO. El Congreso del Estado, tendrá un plazo improrrogable de 180 días há
 TERCERO. Los Ayuntamientos y el Ejecutivo del Estado, deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes para cumplimiento de lo establecido en el presente Decreto en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del mismo.
 
 CUARTO. El Poder Judicial del Estado de Michoacán de Ocampo, deberá realizar las adecuaciones normativas, orgánicas y administrativas conducentes en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del presente Decreto, a efecto de dar cumplimiento a establecido al mismo, así como a lo establecido en los Lineamientos para Regular el Registro Nacional de Obligaciones Alimentarias.
+
+P.O. 14 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 324 POR EL QUE “SE ADICIONA LA FRACCIÓN XXXI AL ARTÍCULO 5°, EL ARTÍCULO 14 BIS ASÍ COMO LAS FRACCIONES VII Y VIII AL ARTÍCULO 54 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
