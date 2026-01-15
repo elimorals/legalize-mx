@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2024-06-07"
+last_updated: "2026-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ENERO DE 2026.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de diciembre de 1995.
 
@@ -48,13 +48,17 @@ LEY DEL SEGURO SOCIAL
 
 La presente Ley es de observancia general en toda la República, en la forma y términos que la misma establece, sus disposiciones son de orden público y de interés social.
 
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
 ###### Artículo 2.
 
-La seguridad social tiene por finalidad garantizar el derecho a la salud, la asistencia médica, la protección de los medios de subsistencia y los servicios sociales necesarios para el bienestar individual y colectivo, así como el otorgamiento de una pensión que, en su caso y previo cumplimiento de los requisitos legales, será garantizada por el Estado.
+La seguridad social tiene por finalidad garantizar el derecho a la salud, la asistencia médica, la protección de los medios de subsistencia y los servicios sociales necesarios para el bienestar individual y colectivo, así como el otorgamiento de una pensión que, en su caso y previo cumplimiento de los requisitos legales, será garantizada por el Estado, asegurando la igualdad de derechos y trato sin discriminación por razones de género.
+
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### Artículo 3.
 
-La realización de la seguridad social está a cargo de entidades o dependencias públicas, federales o locales y de organismos descentralizados, conforme a lo dispuesto por esta Ley y demás ordenamientos legales sobre la materia.
+La realización de la seguridad social deberá estar alineada con el derecho a la igualdad sustantiva entre mujeres y hombres, mediante la incorporación de la perspectiva de género y de derechos humanos. Estará a cargo de entidades o dependencias públicas, federales o locales y de organismos descentralizados, conforme a lo dispuesto por esta Ley y demás ordenamientos legales sobre la materia.
 
 ###### Artículo 4.
 
@@ -1428,6 +1432,10 @@ Los datos y registros que consten en el expediente clínico electrónico a que s
 
 De las consultas que se hagan a dichos expedientes deberá dejarse una constancia en el propio expediente de la persona, que lo consulte, la fecha de la consulta y la justificación de la misma.
 
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+Las capturas de datos deberán efectuarse de manera que sea posible su desagregación al menos por sexo, género, edad, pertenencia étnica o afrodescendiente, discapacidad o cualquier categoría necesaria para generar una estadística que permita evaluar el impacto diferenciado en mujeres y hombres en los servicios que presta el Instituto y realizar las mejoras necesarias. Todo ello, considerando las leyes aplicables en materia de protección de datos personales en posesión de sujetos obligados.
+
 ### CAPITULO V. DEL SEGURO DE INVALIDEZ Y VIDA
 
 #### SECCION PRIMERA. GENERALIDADES
@@ -2354,9 +2362,11 @@ Este beneficio se podrá extender a los asegurados que por resolución judicial 
 
 El servicio de guardería se proporcionará en el turno matutino y vespertino pudiendo tener acceso a alguno de estos turnos, el hijo del trabajador cuya jornada de labores sea nocturna.
 
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
 ###### Artículo 202.
 
-Estas prestaciones deben proporcionarse atendiendo a cuidar y fortalecer la salud del niño y su buen desarrollo futuro, así como a la formación de sentimientos de adhesión familiar y social, a la adquisición de conocimientos que promuevan la comprensión, el empleo de la razón y de la imaginación y a constituir hábitos higiénicos y de sana convivencia y cooperación en el esfuerzo común con propósitos y metas comunes, todo ello de manera sencilla y acorde a su edad y a la realidad social y con absoluto respeto a los elementos formativos de estricta incumbencia familiar.
+Estas prestaciones deben proporcionarse atendiendo a cuidar y fortalecer la salud de niñas y niños y su buen desarrollo futuro, así como a la formación de sentimientos de cohesión familiar y social, a la adquisición de conocimientos que promuevan la comprensión, el empleo de la razón y de la imaginación y a constituir hábitos higiénicos y de sana convivencia y cooperación en el esfuerzo común con propósitos y metas comunes, todo ello de manera sencilla y acorde a su edad y a la realidad social y con absoluto respeto a los elementos formativos de estricta incumbencia familiar.
 
 ###### Artículo 203.
 
@@ -3738,7 +3748,9 @@ II. Especialización y profesionalización para el desempeño de las funciones y
 
 III. Retribuciones y prestaciones vinculadas a la productividad, acordes al mercado de trabajo, que sean suficientes para asegurar al Instituto la contratación y permanencia de los mejores servidores públicos de mando y trabajadores;
 
-IV. Capacitación y desarrollo integral relacionados con las actividades sustantivas del Instituto y vinculados a la mejora de los servicios que se presten, a fin de garantizar la eficiencia en la prestación de los servicios, y
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+IV. Capacitación y desarrollo integral relacionados con las actividades sustantivas del Instituto, la igualdad sustantiva y respeto a los derechos humanos, vinculados a la mejora de los servicios que se presten, a fin de garantizar un trato digno e igualitario, así como la eficiencia en la prestación de los servicios, y
 
 V. Integridad, responsabilidad y conducta adecuada de este personal.
 
@@ -3992,11 +4004,11 @@ La Secretaría de Hacienda y Crédito Público aprobará la metodología para de
 
 ### CAPITULO I. DE LAS RESPONSABILIDADES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### Artículo 303.
 
-Los servidores públicos del Instituto, están obligados a observar en el cumplimiento de sus obligaciones, los principios de responsabilidad, ética profesional, excelencia, honradez, lealtad, imparcialidad, eficiencia, calidez, buen trato y calidad en la prestación de los servicios y en la atención a los derechohabientes y estarán sujetos a las responsabilidades civiles o penales en que pudieran incurrir como encargados de un servicio público.
+Los servidores públicos del Instituto están obligados a observar en el cumplimiento de sus obligaciones, los principios de igualdad y no discriminación, responsabilidad, ética profesional, excelencia, honradez, lealtad, imparcialidad, eficiencia, calidez, buen trato, respeto a los derechos humanos y calidad en la prestación de los servicios y en la atención a las y los derechohabientes y estarán sujetos a las responsabilidades civiles o penales en que pudieran incurrir como encargados de un servicio público.
 
 > <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
 
@@ -5051,3 +5063,21 @@ Cualquier adición o modificación a lo señalado en el párrafo anterior, deber
 Tercero.- Hasta en tanto no se publiquen las nuevas reglas de carácter general, seguirán vigentes los "Lineamientos Generales para el Uso del Buzón IMSS".
 
 Una vez que se emitan las reglas de carácter general, se tendrán por derogadas las disposiciones legales, administrativas y reglamentarias que se opongan a las contenidas en el presente Decreto.
+
+D.O.F. 15 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES; DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES; DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY GENERAL DE DESARROLLO SOCIAL; DE LA LEY GENERAL DE SALUD; DE LA LEY GENERAL DE EDUCACIÓN; DE LA LEY DEL SEGURO SOCIAL; DE LA LEY DE MIGRACIÓN; DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO; DE LA LEY DE PLANEACIÓN; DE LA LEY DE VIVIENDA; DE LA LEY FEDERAL DEL TRABAJO; DE LA LEY FEDERAL DEL DERECHO DE AUTOR; DE LA LEY FEDERAL DE PROTECCIÓN A LA PROPIEDAD INDUSTRIAL Y DE LA LEY GENERAL DE CULTURA Y DERECHOS CULTURALES”.]
+
+Primero. El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Tercero. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
+
+Cuarto. Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
+
+Quinto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
+
+Sexto. Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
+
+Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
