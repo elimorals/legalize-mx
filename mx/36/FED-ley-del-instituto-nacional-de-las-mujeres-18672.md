@@ -4,7 +4,7 @@ identifier: "FED-ley-del-instituto-nacional-de-las-mujeres-18672"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-12"
-last_updated: "2021-05-20"
+last_updated: "2026-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18672&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2001-01-10"
 ---
 # LEY DEL INSTITUTO NACIONAL DE LAS MUJERES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY GENERAL PARA LA IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES, PUBLICADA EN EL D.O.F. DE 15 DE ENERO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL INSTITUTO NACIONAL DE LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ENERO DE 2026 (ABROGADO).
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 12 de enero de 2001.
 
@@ -688,3 +690,21 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 15 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES; DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES; DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY GENERAL DE DESARROLLO SOCIAL; DE LA LEY GENERAL DE SALUD; DE LA LEY GENERAL DE EDUCACIÓN; DE LA LEY DEL SEGURO SOCIAL; DE LA LEY DE MIGRACIÓN; DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO; DE LA LEY DE PLANEACIÓN; DE LA LEY DE VIVIENDA; DE LA LEY FEDERAL DEL TRABAJO; DE LA LEY FEDERAL DEL DERECHO DE AUTOR; DE LA LEY FEDERAL DE PROTECCIÓN A LA PROPIEDAD INDUSTRIAL Y DE LA LEY GENERAL DE CULTURA Y DERECHOS CULTURALES”.]
+
+Primero. El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Tercero. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
+
+Cuarto. Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
+
+Quinto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
+
+Sexto. Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
+
+Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
