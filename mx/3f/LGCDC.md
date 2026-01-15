@@ -4,7 +4,7 @@ identifier: "LGCDC"
 country: "mx"
 rank: "ley_general"
 publication_date: "2017-06-19"
-last_updated: "2024-04-01"
+last_updated: "2026-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121955&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCDC"
 
 LEY GENERAL DE CULTURA Y DERECHOS CULTURALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ENERO DE 2026.
 
 Ley publicada en la Primera Sección al número 14 del Diario Oficial de la Federación, el lunes 19 de junio de 2017.
 
@@ -78,11 +78,11 @@ Las manifestaciones culturales a que se refiere esta Ley son los elementos mater
 
 Para el cumplimiento de esta Ley la Secretaría de Cultura conducirá la política nacional en materia de cultura, para lo cual celebrará acuerdos de coordinación con las dependencias y entidades de la Administración Pública Federal, de las entidades federativas y con los municipios y alcaldías de la Ciudad de México.
 
-> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### Artículo 5.
 
-La política cultural del Estado deberá contener acciones para promover la cooperación solidaria de todos aquellos que participen en las actividades culturales incluidos, el conocimiento, desarrollo y difusión de las culturas de los pueblos y comunidades indígenas y afromexicanas del país, y la erradicación de estereotipos socioculturales de género que propician la violencia contra las mujeres y niñas; mediante el establecimiento de acciones que permitan vincular al sector cultural con el sector educativo, turístico, de desarrollo social, del medio ambiente, económico, las tecnologías de la información y las comunicaciones y demás sectores de la sociedad.
+La política cultural del Estado deberá contener acciones para promover la cooperación solidaria de todos aquellos que participen en las actividades culturales incluidos, el conocimiento, desarrollo y difusión de las culturas de los pueblos y comunidades indígenas y afromexicanas del país, la igualdad sustantiva entre mujeres y hombres y la erradicación de estereotipos socioculturales de género que propician las violencias contra las mujeres y niñas; mediante el establecimiento de acciones que permitan vincular al sector cultural con el sector educativo, turístico, de desarrollo social, del medio ambiente, económico, las tecnologías de la información y las comunicaciones y demás sectores de la sociedad.
 
 ###### Artículo 6.
 
@@ -106,9 +106,9 @@ IV. Reconocimiento de la identidad y dignidad de las personas;
 
 V. Libre determinación y autonomía de los pueblos y comunidades indígenas y afromexicanas, y
 
-> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-VI. Igualdad de género, y
+VI. Igualdad de género y la igualdad sustantiva, en términos de lo dispuesto en la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres, y
 
 > <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
 
@@ -182,9 +182,11 @@ X. El acceso universal a la cultura en las diversas lenguas nacionales reconocid
 
 XI. La inclusión de personas y grupos en situación de discapacidad, en condiciones de vulnerabilidad o violencia en cualquiera de sus manifestaciones.
 
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
 ###### Artículo 13.
 
-Las acciones señaladas en el artículo anterior tendrán el propósito de conferirle a la política pública, sustentabilidad, inclusión y cohesión social con base en criterios de pertinencia, oportunidad, calidad y disponibilidad.
+Las acciones señaladas en el artículo anterior tendrán el propósito de conferir a la política pública, sustentabilidad, inclusión, cohesión social y perspectiva de género, con base en criterios de pertinencia, oportunidad, calidad y disponibilidad.
 
 ###### Artículo 14.
 
@@ -246,13 +248,21 @@ VI. Coadyuvar con las dependencias competentes de los tres órdenes de gobierno 
 
 VII. Apoyar la coordinación entre las instituciones de cultura y las educativas para formar y capacitar recursos humanos en el mismo ramo;
 
-> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-VIII. Promover e impulsar la participación de la comunidad en la preservación de su cultura, y
+VIII. Promover e impulsar la participación de la comunidad en la preservación de su cultura con perspectiva de género, la cohesión social, la igualdad sustantiva entre mujeres y hombres y el derecho a una vida libre de violencias;
 
-> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-IX. Formular, impulsar y fortalecer programas de educación e investigación artística y cultural.
+IX. Formular, impulsar y fortalecer programas de educación e investigación artística y cultural con perspectiva de género;
+
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+X. Coordinar la implementación de actividades culturales para niñas, niños y adolescentes que potencie su participación en su comunidad sin estereotipos de género, y
+
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+XI. Promover proyectos culturales comunitarios para reforzar el reconocimiento y valía de las capacidades artísticas y culturales de las mujeres, desde una perspectiva de diversidad.
 
 ###### Artículo 20.
 
@@ -473,3 +483,21 @@ D.O.F. 1 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES; DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES; DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY GENERAL DE DESARROLLO SOCIAL; DE LA LEY GENERAL DE SALUD; DE LA LEY GENERAL DE EDUCACIÓN; DE LA LEY DEL SEGURO SOCIAL; DE LA LEY DE MIGRACIÓN; DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO; DE LA LEY DE PLANEACIÓN; DE LA LEY DE VIVIENDA; DE LA LEY FEDERAL DEL TRABAJO; DE LA LEY FEDERAL DEL DERECHO DE AUTOR; DE LA LEY FEDERAL DE PROTECCIÓN A LA PROPIEDAD INDUSTRIAL Y DE LA LEY GENERAL DE CULTURA Y DERECHOS CULTURALES".]
+
+Primero. El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Tercero. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
+
+Cuarto. Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
+
+Quinto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
+
+Sexto. Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
+
+Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
