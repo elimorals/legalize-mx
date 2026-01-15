@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2024-06-07"
+last_updated: "2026-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ENERO DE 2026.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 24 DE DICIEMBRE DE 2018.
 
@@ -92,6 +92,10 @@ VII.- El desarrollo de la enseñanza y la investigación científica y tecnológ
 
 VIII.- La promoción de la salud y la prevención de las enfermedades.
 
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+En la observancia del presente artículo, se deberá garantizar el derecho a la protección de la salud con enfoque diferenciado, perspectiva de género e interculturalidad.
+
 ###### ARTICULO 3o.
 
 En los términos de esta Ley, es materia de salubridad general:
@@ -109,6 +113,10 @@ II bis.- La prestación gratuita de los servicios de salud, medicamentos y demá
 > <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 3 DE ENERO DE 2024)</small>
 
 III.- La coordinación, evaluación y seguimiento de los servicios de salud a los que se refiere el artículo 34, fracción II;
+
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+III Bis.- La planeación de la creación, la sustitución y la ampliación de infraestructura para la prestación de servicios de salud;
 
 IV.- La atención materno-infantil;
 
@@ -236,13 +244,17 @@ XXVI bis.- El control sanitario de cadáveres de seres humanos;
 
 XXVII.- La sanidad internacional;
 
-> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN XXX], D.O.F. 10 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-XXVII bis.- El tratamiento integral del dolor, y
+XXVII bis.- El tratamiento integral del dolor;
 
-> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-XXVIII.- Las demás materias que establezca esta Ley y otros ordenamientos legales, de conformidad con el párrafo tercero del Artículo 4o. Constitucional.
+XXVIII. La salud digital, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 15 DE ENERO DE 2026)</small>
+
+XXIX. Las demás materias que establezca esta Ley y otros ordenamientos legales, de conformidad con el párrafo tercero del artículo 4o. Constitucional.
 
 ###### ARTICULO 4o.
 
@@ -316,13 +328,17 @@ IX.- Promover el desarrollo de los servicios de salud con base en la integració
 
 X.- Proporcionar orientación a la población respecto de la importancia de la alimentación nutritiva, suficiente y de calidad y su relación con los beneficios a la salud;
 
-> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-XI.- Diseñar y ejecutar políticas públicas que propicien la alimentación nutritiva, suficiente y de calidad, que contrarreste eficientemente la desnutrición, el sobrepeso, la obesidad y otros trastornos de la conducta alimentaria, y
+XI. Diseñar y ejecutar políticas públicas que propicien la alimentación nutritiva, suficiente y de calidad, que contrarreste eficientemente la desnutrición, el sobrepeso, la obesidad y otros trastornos de la conducta alimentaria;
 
-> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-XII.- Acorde a las demás disposiciones legales aplicables, promover la creación de programas de atención integral para la atención de las víctimas y victimarios de acoso y violencia escolar, en coordinación con las autoridades educativas.
+XII. Promover la creación de programas de atención integral para la atención de las víctimas y victimarios de acoso y violencia escolar, en coordinación con las autoridades educativas y de conformidad con otras disposiciones legales aplicables, y
+
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+XIII. Impulsar el acceso universal a la atención médica a través del intercambio de servicios entre instituciones públicas de salud, para garantizar el acceso efectivo a la atención oportuna y de calidad, para todas las personas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -338,13 +354,15 @@ II.- Coordinar los programas de servicios de salud de las dependencias y entidad
 
 Para efectos de lo previsto en el párrafo anterior, Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) colaborará con la Secretaría de Salud en lo que respecta a la prestación gratuita de los servicios de salud, medicamentos y demás insumos asociados que requieran las personas sin seguridad social, en el marco del Sistema de Salud para el Bienestar a que se refiere el Título Tercero Bis de esta Ley, para los fines que se precisan en esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 2023)</small>
-
-Asimismo, Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) participará en los procedimientos de contratación consolidada que instrumente, en su caso, la Secretaría de Salud, en los términos previstos en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y demás disposiciones aplicables, en los que intervengan las dependencias y entidades de la Administración Pública Federal que presten servicios de salud, así como las correspondientes a las entidades federativas que ejerzan recursos federales para dicho fin, que tengan por objeto la adquisición y distribución de los medicamentos y demás insumos asociados para la salud que se requieran para la prestación de los referidos servicios, con la finalidad de garantizar el abasto de los mismos;
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 > <small>(ADICIONADA, D.O.F. 13 DE ENERO DE 2014)</small>
 
 II Bis.- Promover e impulsar que las instituciones del Sistema Nacional de Salud implementen programas cuyo objeto consista en brindar atención médica integrada de carácter preventivo, acorde con la edad, sexo y factores de riesgo de las personas;
+
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+II Ter.- Planear e integrar la demanda de medicamentos, equipo médico de alta tecnología que haya determinado y demás insumos para la salud, así como dar seguimiento y, asesoría durante los procedimientos de contratación consolidada y su ejecución, en los que intervengan las dependencias y entidades de la Administración Pública Federal que presten servicios de atención médica, salud pública y asistencia social, de conformidad con la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y demás disposiciones aplicables;
 
 III. (DEROGADA, D.O.F. 3 DE ENERO DE 2024)
 
@@ -358,13 +376,19 @@ VII.- Formular recomendaciones a las dependencias competentes sobre la asignaci�
 
 VIII.- Impulsar las actividades científicas y tecnológicas en el campo de la salud;
 
-> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-VIII bis.- Promover la incorporación, uso y aprovechamiento de las Tecnologías de la Información y de las Comunicaciones en los servicios de Salud;
+VIII Bis.- Promover la incorporación, uso y aprovechamiento de las tecnologías de la información y de las comunicaciones en los servicios de salud, como es el caso, entre otros, de la telesalud, la telemedicina, la salud móvil, los registros médicos o de salud electrónicos y dispositivos portátiles;
 
 IX.- Coadyuvar con las dependencias competentes a la regulación y control de la transferencia de tecnología en el área de salud;
 
-X.- Promover el establecimiento de un sistema nacional de información básica en materia de salud;
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN X], D.O.F. 15 DE ENERO DE 2026)</small>
+
+IX Bis. Promover el establecimiento del Sistema Nacional de Información Básica en Materia de Salud y el Sistema Nacional de Información en Salud como mecanismos de reporte y acopio de información estadística y nominal generada por los integrantes del Sistema Nacional de Salud, para la consolidación de la base nacional a que se refiere la fracción X de este artículo;
+
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+X. Integrar y administrar una base nacional de información en salud con información de la prestación de los servicios, la infraestructura y el equipo médico, que permita la evaluación del desempeño de los integrantes del Sistema Nacional de Salud, el intercambio de servicios y la planeación estratégica de las políticas, los criterios y las directrices en materia de salud;
 
 > <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2017)</small>
 
@@ -384,11 +408,25 @@ XIII Bis.- Promover e impulsar programas y campañas de información sobre los b
 
 XIV. Impulsar la permanente actualización de las disposiciones legales en materia de salud;
 
-> <small>(ADICIONADA, D.O.F. 30 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-XIV Bis. Promover e incorporar enfoques con perspectiva de género a las estrategias, campañas de información, y demás programas en el marco de sus atribuciones para contribuir a la igualdad entre mujeres y hombres en el acceso al derecho a la protección de la salud. Incluyendo neoplasias que afectan la salud sexual y reproductiva del hombre y de la mujer, y
+XIV Bis. Promover e incorporar enfoques con perspectiva de género a las estrategias, las campañas de información, y demás programas en el marco de sus atribuciones para contribuir a la igualdad entre mujeres y hombres en el acceso al derecho a la protección de la salud, incluidas las neoplasias que afectan la salud sexual y reproductiva del hombre y de la mujer;
 
-XV.- Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Nacional de Salud, y las que determinen las disposiciones generales aplicables.
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+XIV Ter. Coordinar la planeación de la creación, la sustitución y la ampliación de unidades médicas, así como para el equipamiento médico de alta tecnología, mediante la implementación del Plan Maestro Nacional de Infraestructura en Salud y Equipamiento Médico de Alta Tecnología;
+
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+XV. Coordinar la elaboración del diagnóstico de necesidades de medicamentos, equipo médico de alta tecnología y demás insumos para la salud que se requieran para la prestación de los servicios de salud, con base en la información que le proporcionen las unidades médicas del sector salud;
+
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+XVI. Llevar a cabo el control respecto de la preparación, aplicación, posesión, uso, suministro, importación, exportación y distribución de medicamentos, productos biológicos, vacunas, insumos y dispositivos médicos, a excepción de los de uso veterinario, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], D.O.F. 15 DE ENERO DE 2026)</small>
+
+XVII. Las demás atribuciones que se requieran para el cumplimiento de los objetivos del Sistema Nacional de Salud, y las que determinen las disposiciones jurídicas aplicables.
 
 ###### ARTICULO 8o.
 
@@ -402,13 +440,29 @@ Los gobiernos de las entidades federativas coadyuvarán, en el ámbito de sus re
 
 La Secretaría de Salud coordinará la concordancia de los programas federales en la materia con el de las entidades federativas, promoviendo que la planeación sea congruente, objetiva y participativa.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+###### ARTICULO 9o. Bis.
+
+El Sistema Federal Sanitario se constituye por la Comisión Federal para la Protección contra Riesgos Sanitarios y las autoridades de protección sanitaria de las entidades federativas con las que se haya suscrito un acuerdo de coordinación para el ejercicio de atribuciones en materia de regulación, control, vigilancia y fomento sanitarios, así como por los laboratorios de las entidades federativas en su componente de regulación sanitaria.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### ARTICULO 10.
 
-La Secretaría de Salud promoverá la participación, en el sistema nacional de salud, de los prestadores de servicios de salud, de los sectores público, social y privado, de sus trabajadores y de los usuarios de los mismos, así como de las autoridades o representantes de los pueblos y comunidades indígenas y afromexicanas, en los términos de las disposiciones que al efecto se expidan.
+La Secretaría de Salud promoverá la participación, en el Sistema Nacional de Salud, de los prestadores de servicios de salud, de los sectores público, social y privado, de sus trabajadores y de las personas usuarias de dichos servicios, así como de las autoridades o representantes de los pueblos y comunidades indígenas y afromexicanas, en los términos de las disposiciones que al efecto se expidan.
 
-Asimismo, fomentará la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de estos últimos.
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+Con base en la información sobre la planeación y los procedimientos de contratación consolidada de medicamentos, equipo médico de alta tecnología y demás insumos para la salud, la Secretaría de Salud definirá planes, proyectos y mecanismos que permitan optimizar de manera oportuna y con calidad el abasto de medicamentos, equipo médico de alta tecnología y demás insumos para la salud en las instituciones públicas del Sistema Nacional de Salud, sin perjuicio de las atribuciones que en la materia correspondan a las Secretarías de Hacienda y Crédito Público y Anticorrupción y Buen Gobierno.
+
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+Asimismo, fomentará la coordinación con las personas proveedoras de medicamentos, equipo médico de alta tecnología y demás insumos para la salud, a fin de racionalizar y procurar la disponibilidad de éstos.
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+En los procedimientos de contratación consolidada de medicamentos, dispositivos médicos y demás insumos para la salud, en términos de las disposiciones jurídicas aplicables, incluidos los instrumentos internacionales, la Secretaría de Salud deberá promover la participación de personas físicas o morales que acrediten contar, en territorio nacional, con inversión en la cadena de producción de medicamentos, dispositivos médicos y demás insumos para la salud, o con el inicio de instalación de fábricas, laboratorios o almacenes que formen parte de dicha cadena, o bien, de aquellas que desarrollen investigación científica, o cuando se trate de adquisiciones de productos innovadores en materia de salud. Lo anterior sin perjuicio de lo previsto en los capítulos de compras públicas de los tratados comerciales celebrados por el Estado Mexicano.
 
 (NOTA: EL 21 DE SEPTIEMBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 54/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 22 DE SEPTIEMBRE DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
@@ -466,6 +520,10 @@ II.- En las materias enumeradas en las fracciones I, III, XV Bis, XXI, XXII, XXI
 
 III.- Organizar y operar, por sí o en coordinación con las entidades de su sector coordinado, los servicios de salud a su cargo y, en todas las materias de salubridad general, desarrollar temporalmente acciones en las entidades federativas, cuando éstas se lo soliciten, de conformidad con los acuerdos de coordinación que se celebren al efecto;
 
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+III Bis.- La coordinación de las acciones de planeación de la creación, la sustitución y la ampliación de la infraestructura para la prestación de servicios de salud;
+
 IV.- Promover, orientar, fomentar y apoyar las acciones en materia de salubridad general a cargo de los gobiernos de las entidades federativas, con sujeción a las políticas nacionales en la materia;
 
 V.- Ejercer la acción extraordinaria en materia de salubridad general;
@@ -500,11 +558,21 @@ III.- Formular y desarrollar programas locales de salud, en el marco de los sist
 
 IV.- Llevar a cabo los programas y acciones que en materia de salubridad local les competan;
 
-V.- Elaborar información estadística local y proporcionarla a las autoridades federales competentes;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-VI.- Vigilar, en la esfera de su competencia, el cumplimiento de esta Ley y demás disposiciones aplicables, y
+V. Integrar una base de datos con información estadística local alimentada por los prestadores de servicios de atención a la salud, tanto públicos como privados, con información nominal de la prestación de sus servicios, que permita la evaluación del desempeño de los integrantes del Sistema Nacional de Salud, el intercambio de servicios y la planeación estratégica de las políticas, los criterios y las directrices en materia de salud;
 
-VII.- Las demás atribuciones específicas que se establezcan en esta Ley y demás disposiciones generales aplicables.
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+VI. Vigilar, en la esfera de su competencia, el cumplimiento de esta Ley y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+VII. Promover la implementación y operación del intercambio de servicios de atención médica en sus entidades federativas, y
+
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+VIII. Las demás atribuciones específicas que se establezcan en esta Ley y demás disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
 
@@ -602,29 +670,39 @@ XVI.- Analizar, a través de la persona titular de la Secretaría del Consejo, l
 
 XVII.- Las demás que le correspondan conforme a esta Ley y demás disposiciones aplicables.
 
-> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
-###### ARTICULO 17 Bis.
+ARTICULO 17 BIS.- La Secretaría de Salud ejercerá las atribuciones de regulación, control, vigilancia y fomento sanitarios que conforme a la presente Ley, a la Ley Orgánica de la Administración Pública Federal y demás ordenamientos aplicables le corresponden a dicha dependencia en las materias a que se refiere el artículo 3o. de esta Ley, en sus fracciones I, en lo relativo al control y vigilancia de los establecimientos de salud a los que se refieren los artículos 34 y 35 de esta Ley, XIII, XIV, XXII, XXIII, XXIV, XXV, XXVI, salvo por lo que se refiere a cadáveres, y XXVII, salvo por lo que se refiere a personas, a través de un órgano administrativo desconcentrado que se denominará Comisión Federal para la Protección contra Riesgos Sanitarios.
 
-La Secretaría de Salud ejercerá las atribuciones de regulación, control y fomento sanitarios que conforme a la presente Ley, a la Ley Orgánica de la Administración Pública Federal, y los demás ordenamientos aplicables le corresponden a dicha dependencia en las materias a que se refiere el artículo 3o. de esta Ley en sus fracciones I, en lo relativo al control y vigilancia de los establecimientos de salud a los que se refieren los artículos 34 y 35 de esta Ley: XIII, XIV, XXII, XXIII, XXIV, XXV, XXVI, ésta salvo por lo que se refiere a cadáveres y XXVII, esta última salvo por lo que se refiere a personas, a través de un órgano desconcentrado que se denominará Comisión Federal para la Protección contra Riesgos Sanitarios.
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE JUNIO DE 2003)</small>
 
 Para efectos de lo dispuesto en el párrafo anterior compete a la Comisión Federal para la Protección contra Riesgos Sanitarios:
 
+> <small>(ADICIONADA, D.O.F. 30 DE JUNIO DE 2003)</small>
+
 I. Efectuar la evaluación de riesgos a la salud en las materias de su competencia, así como identificar y evaluar los riesgos para la salud humana que generen los sitios en donde se manejen residuos peligrosos;
 
-> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-II. Proponer al Secretario de Salud la política nacional de protección contra riesgos sanitarios así como su instrumentación en materia de: establecimientos de salud; medicamentos, dispositivos médicos y otros insumos para la salud; disposición de órganos, tejidos, células de seres humanos y sus componentes; alimentos y bebidas, productos cosméticos; productos de aseo; tabaco, plaguicidas, nutrientes vegetales, sustancias tóxicas o peligrosas para la salud; productos biotecnológicos, suplementos alimenticios, materias primas y aditivos que intervengan en la elaboración de los productos anteriores; así como de prevención y control de los efectos nocivos de los factores ambientales en la salud de la persona, salud ocupacional y saneamiento básico;
+II. Proponer a la persona titular de la Secretaría de Salud la política nacional de protección contra riesgos sanitarios, así como su instrumentación en materia de: establecimientos de salud; insumos para la salud, incluso de aquellos que contienen estupefacientes y psicotrópicos; disposición de órganos, tejidos, células de seres humanos y sus componentes; embriones, células germinales; alimentos y bebidas; productos cosméticos; productos de aseo; tabaco; plaguicidas, nutrientes vegetales, sustancias tóxicas o peligrosas para la salud; productos biotecnológicos; suplementos alimenticios, materias primas, aditivos que intervengan en la elaboración de los productos anteriores o cualquier producto de uso y consumo humano que represente un riesgo para la salud, así como de prevención y control de los efectos nocivos de los factores ambientales en la salud de la persona, salud ocupacional, saneamiento básico y terceros autorizados;
+
+> <small>(ADICIONADA, D.O.F. 30 DE JUNIO DE 2003)</small>
 
 III. Elaborar y expedir las normas oficiales mexicanas relativas a los productos, actividades, servicios y establecimientos materia de su competencia, salvo en las materias a que se refieren las fracciones I y XXVI del artículo 3o. de esta Ley;
 
+> <small>(ADICIONADA, D.O.F. 30 DE JUNIO DE 2003)</small>
+
 IV. Evaluar, expedir o revocar las autorizaciones que en las materias de su competencia se requieran, así como aquellos actos de autoridad que para la regulación, el control y el fomento sanitario se establecen o deriven de esta Ley, sus reglamentos, las normas oficiales mexicanas y los demás ordenamientos aplicables;
+
+> <small>(ADICIONADA, D.O.F. 30 DE JUNIO DE 2003)</small>
 
 V. Expedir certificados oficiales de condición sanitaria de procesos, productos, métodos, instalaciones, servicios o actividades relacionadas con las materias de su competencia;
 
-> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-VI. Ejercer el control y vigilancia sanitarios de los productos señalados en la fracción II de este artículo, de las actividades relacionadas con los primeros, de su importación y exportación, así como de los establecimientos destinados al proceso de dichos productos y los establecimientos de salud, con independencia de las facultades que en materia de procesos y prácticas aplicables en los establecimientos dedicados al sacrificio de animales y procesamiento primario de bienes de origen animal para consumo humano, tenga la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación en términos de lo dispuesto por la Ley Federal de Sanidad Animal;
+VI. Ejercer el control y vigilancia sanitaria de los productos, sustancias y productos que los contienen, respecto de los señalados en la fracción II de este artículo, de las actividades relacionadas con los primeros, de su importación y exportación, así como de los establecimientos destinados al proceso de dichos productos y sustancias y los establecimientos de salud, con independencia de las facultades que en materia de procesos y prácticas aplicables en los establecimientos dedicados al sacrificio de animales y procesamiento primario de bienes de origen animal para consumo humano, tenga la Secretaría de Agricultura y Desarrollo Rural en términos de la Ley Federal de Sanidad Animal;
+
+> <small>(ADICIONADA, D.O.F. 30 DE JUNIO DE 2003)</small>
 
 VII. Ejercer el control y vigilancia sanitarios de la publicidad de las actividades, productos y servicios a los que se refiere esta Ley y sus reglamentos;
 
@@ -632,13 +710,39 @@ VII. Ejercer el control y vigilancia sanitarios de la publicidad de las activida
 
 VIII. Ejercer el control y la vigilancia sanitarios de la disposición y trasplantes de órganos y tejidos y células de seres humanos, salvo lo dispuesto por los artículos 329, 332, 338 y 339 de esta Ley;
 
+> <small>(ADICIONADA, D.O.F. 30 DE JUNIO DE 2003)</small>
+
 IX. Ejercer las atribuciones que esta Ley y sus reglamentos le confieren a la Secretaría de Salud en materia de sanidad internacional, con excepción de lo relativo a personas;
 
-X. Imponer sanciones y aplicar medidas de seguridad en el ámbito de su competencia;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-XI. Ejercer las atribuciones que la presente Ley, la Ley Orgánica de la Administración Pública Federal, y los demás ordenamientos aplicables le confieren a la Secretaría de Salud en materia de efectos del ambiente en la salud, salud ocupacional, residuos peligrosos, saneamiento básico y accidentes que involucren sustancias tóxicas, peligrosas o radiaciones;
+X. Imponer sanciones, aplicar y retirar medidas de seguridad en el ámbito de su competencia;
 
-XII. Participar, en coordinación con las unidades administrativas competentes de la Secretaría de Salud, en la instrumentación de las acciones de prevención y control de enfermedades, así como de vigilancia epidemiológica, especialmente cuando éstas se relacionen con los riesgos sanitarios derivados de los productos, actividades o establecimientos materia de su competencia, y
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+XI. Ejercer las atribuciones que la presente Ley, la Ley Orgánica de la Administración Pública Federal y demás ordenamientos aplicables le confieren a la Secretaría de Salud en materia de efectos del ambiente en la salud, salud ocupacional, residuos peligrosos, saneamiento básico, plaguicidas, nutrientes vegetales y sustancias tóxicas, peligrosas o radiaciones;
+
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+XII. Participar, en coordinación con las unidades administrativas competentes de la Secretaría de Salud, en la instrumentación de las acciones de prevención y control de enfermedades, así como de vigilancia epidemiológica, especialmente cuando estas se relacionen con los riesgos sanitarios derivados de los productos, actividades o establecimientos materia de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+XII Bis. Proponer a la persona titular de la Secretaría de Salud la regulación de protección contra riesgos sanitarios en los casos de emergencia sanitaria para instrumentar, supervisar y garantizar la calidad, seguridad y eficacia de los insumos para la salud;
+
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+XII Ter. Emitir autorizaciones temporales del uso de insumos para la salud durante emergencias de salud pública;
+
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+XII Quater. Coordinar el Sistema Federal Sanitario, en colaboración con los gobiernos de las entidades federativas, de conformidad con las disposiciones aplicables y en los términos de los acuerdos de coordinación o colaboración que se celebren;
+
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+XII Quinquies. Coordinar y reportar las actividades de farmacovigilancia y tecnovigilancia en el país, a través de su Centro Nacional de Farmacovigilancia y Tecnovigilancia, con base en la normativa aplicable, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE JUNIO DE 2003)</small>
 
 XIII. Las demás facultades que otras disposiciones legales le confieren a la Secretaría de Salud en las materias que conforme a lo dispuesto en este artículo sean competencia de la Comisión.
 
@@ -658,11 +762,11 @@ Los ingresos que la Comisión Federal para la Protección contra Riesgos Sanitar
 
 ARTICULO 17 bis 2.- Al frente de la Comisión Federal para la Protección contra Riesgos Sanitarios estará una persona Comisionada Federal, quien será nombrada por la persona titular de la Presidencia de la República, a propuesta de la persona titular de la Secretaría de Salud; siendo la Secretaría de Salud a quien corresponderá la supervisión de este órgano desconcentrado, su conformación será conforme al principio de paridad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE MAYO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### ARTICULO 18.
 
-Las bases y modalidades de ejercicio coordinado de las atribuciones de la Federación y de las entidades federativas en la prestación de servicios de salubridad general, deberán sujetarse al contenido de la presente Ley, acuerdos y convenios de coordinación que en su caso se suscriban, así como de las demás disposiciones y normatividad aplicable en la materia.
+Las bases y modalidades de ejercicio coordinado de las atribuciones de la Federación y de las entidades federativas en la prestación de servicios de salubridad general, así como para el ejercicio de atribuciones de control, vigilancia y fomento sanitarios, deberán sujetarse al contenido de la presente Ley, acuerdos y convenios de coordinación que en su caso se suscriban, así como de las demás disposiciones aplicables.
 
 > <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
@@ -672,11 +776,13 @@ La Secretaría de Salud propondrá la celebración de acuerdos de coordinación 
 
 La Federación a través de los Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) y de conformidad con las disposiciones jurídicas aplicables propondrá la celebración de convenios de coordinación con los gobiernos de las entidades federativas en materia de prestación de los servicios a que se refieren las fracciones II y II Bis del artículo 3o. de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### ARTICULO 19.
 
-La Federación y los gobiernos de las entidades federativas, de conformidad con las disposiciones legales aplicables, aportarán los recursos materiales, humanos y financieros que sean necesarios para la operación de los servicios de salubridad general, que queden comprendidos en los acuerdos y convenios de coordinación que al efecto se celebren, de conformidad con el artículo anterior.
+La Federación y los gobiernos de las entidades federativas, de conformidad con las disposiciones legales aplicables, aportarán los recursos materiales, humanos y financieros que sean necesarios para la operación de los servicios de salubridad general, así como para el ejercicio de atribuciones de control, vigilancia y fomento sanitarios, que queden comprendidos en los acuerdos y convenios de coordinación que al efecto se celebren, de conformidad con el artículo anterior.
+
+> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2023)</small>
 
 Los recursos que aporten las partes quedarán expresamente afectos a los fines del acuerdo o convenio respectivo y sujetos al régimen legal que les corresponda. La gestión de los mismos será definida en el instrumento legal al que refiere este artículo.
 
@@ -866,7 +972,9 @@ La Secretaría de Salud proporcionará los elementos técnicos a la Secretaría 
 
 Se entiende por atención médica el conjunto de servicios que se proporcionan al individuo, con el fin de proteger, promover y restaurar su salud.
 
-Para efectos del párrafo anterior los prestadores de servicios de salud podrán apoyarse en las Guías de Práctica Clínica y los medios electrónicos de acuerdo con las normas oficiales mexicanas que al efecto emita la Secretaría de Salud.
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+Para efectos del párrafo anterior, los prestadores de servicios de salud podrán apoyarse de las herramientas metodológicas generadas con medicina basada en evidencia, como son las Guías de Práctica Clínica, Protocolos y los medios electrónicos de acuerdo con las normas oficiales mexicanas que al efecto emita la Secretaría de Salud.
 
 ###### ARTICULO 33.
 
@@ -900,15 +1008,19 @@ III.- Servicios sociales y privados, sea cual fuere la forma en que se contraten
 
 IV.- Otros que se presten de conformidad con lo que establezca la autoridad sanitaria.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### ARTICULO 35.
 
-Son servicios públicos a la población en general los que se presten en establecimientos públicos de salud a las personas que se encuentren en el país que así lo requieran, regidos por criterios de universalidad, igualdad e inclusión y de gratuidad al momento de requerir los servicios de salud, medicamentos y demás insumos asociados.
+Son servicios públicos a la población en general los que se presten en establecimientos públicos de salud a las personas que se encuentren en el país que así lo requieran, regidos por criterios de universalidad, igualdad sustantiva e inclusión y de gratuidad al momento de requerir los servicios de salud, medicamentos y demás insumos asociados.
 
 > <small>(REFORMADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 Los derechohabientes de las instituciones de seguridad social podrán acceder a los servicios a que se refiere el párrafo anterior en los términos de los convenios que al efecto se suscriban con dichas instituciones, de conformidad con las disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+ARTICULO 35 BIS.- Todo proyecto para la creación, la sustitución o la ampliación de unidades médicas, que planeen llevar a cabo las instituciones públicas que conforman el Sistema Nacional de Salud, así como la adquisición de equipo médico de alta tecnología, deberán contar con un folio de registro en el Plan Maestro Nacional de Infraestructura en Salud y Equipamiento Médico de Alta Tecnología, mediante el cual se dará constancia de su necesidad y justificación, y permitirá el seguimiento desde su inicio hasta su puesta en operación, independientemente de la fuente de financiamiento.
 
 ###### ARTICULO 36.
 
@@ -920,9 +1032,9 @@ Queda prohibido el cobro de cuotas de recuperación por la prestación de servic
 
 Para la determinación de las cuotas de recuperación se tomará en cuenta el costo de los servicios y las condiciones socioeconómicas del usuario.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
-Las cuotas de recuperación se fundarán en principios de solidaridad social y guardarán relación con los ingresos de los usuarios, debiéndose eximir del cobro cuando el usuario carezca de recursos para cubrirlas, o en las zonas de menor desarrollo económico y social conforme a las disposiciones de la Secretaría de Salud.
+Las cuotas de recuperación se fundarán en principios de solidaridad social y guardarán relación con los ingresos de los usuarios, debiéndose eximir del pago cuando el usuario carezca de recursos para cubrirlas, o cuando residan en las zonas de menor desarrollo económico y social, con énfasis en mujeres, adolescentes, niñas y niños en situación de pobreza, conforme a las disposiciones de la Secretaría de Salud y demás leyes aplicables.
 
 A los extranjeros que ingresen al país con el propósito predominante de hacer uso de los servicios de salud, se cobrará íntegramente el costo de los mismos, excepto en los casos de urgencias.
 
@@ -960,17 +1072,27 @@ Las modalidades de acceso a los servicios de salud privados y sociales se regir�
 
 Los servicios de salud que presten las entidades públicas o empresas privadas a sus empleados y a los beneficiarios de los mismos, con recursos propios o mediante la contratación de seguros individuales o colectivos, se regirán por las convenciones entre prestadores y usuarios, sin perjuicio de lo que establezcan las disposiciones de esta Ley y demás normas aplicables a las instituciones de salud respectivas.
 
-> <small>(ADICIONADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
-###### ARTICULO 41 Bis.
+ARTICULO 41 BIS.- Los establecimientos para la atención médica del sector público, social o privado del Sistema Nacional de Salud, de acuerdo con sus funciones, grado de complejidad y nivel de resolución, contarán con los siguientes comités:
 
-Los establecimientos para la atención médica del sector público, social o privado del sistema nacional de salud, además de los señalados en los artículos 98 y 316 de la presente Ley, y de acuerdo con su grado de complejidad y nivel de resolución, contarán con los siguientes comités:
+I. Un Comité de Bioética para la Atención de la Salud, el cual le corresponde la resolución de los problemas derivados de la atención médica a que se refiere el artículo 33 de esta Ley, así como el análisis, discusión y apoyo en la toma de decisiones respecto de los problemas bioéticos que se presenten en la práctica clínica o en la docencia que se imparte en el área de salud y la promoción para elaborar lineamientos y guías éticas institucionales para la atención y la docencia médica. Asimismo, la promoción de la educación bioética permanentemente de sus integrantes y del personal del establecimiento.
 
-I. Un Comité Hospitalario de Bioética para la resolución de los problemas derivados de la atención médica a que se refiere el artículo 33 de esta Ley; así como para el análisis, discusión y apoyo en la toma de decisiones respecto a los problemas bioéticos que se presenten en la práctica clínica o en la docencia que se imparte en el área de salud, así como promover la elaboración de lineamientos y guías éticas institucionales para la atención y la docencia médica. Asimismo, promoverá la educación bioética permanentemente de sus miembros y del personal del establecimiento, y
+El Comité de Bioética para la Atención de la Salud será multidisciplinario e interdisciplinario, y deberá estar integrado por profesionales de la salud y otras profesiones afines que cuenten con capacitación en bioética, siendo imprescindible contar con personas representantes no científicas, hasta el número convenido de sus integrantes, guardando equilibrio de género y edad;
 
-II. En los casos de establecimientos de atención médica que lleven a cabo actividades de investigación en seres humanos, un Comité de Ética en Investigación que será responsable de evaluar y dictaminar los protocolos de investigación en seres humanos, formulando las recomendaciones de carácter ético que correspondan, así como de elaborar lineamientos y guías éticas institucionales para la investigación en salud, debiendo dar seguimiento a sus recomendaciones.
+II. Un Comité de Ética e Investigación cuando los establecimientos para la atención médica que lleven a cabo actividades de investigación para la salud con participantes humanos, o utilicen datos o muestras biológicas provenientes de seres humanos, o en modelos animales no humanos, con la responsabilidad de registrar, evaluar y dictaminar los protocolos de investigación para la salud en cuanto a su contenido científico-metodológico, ético y regulatorio. Asimismo, le corresponde formular las recomendaciones que correspondan; supervisar la conducción de los protocolos de investigación aprobados hasta su conclusión, y elaborar lineamientos, guías éticas y técnicas institucionales para el desarrollo de la investigación para la salud.
 
-Los Comités Hospitalarios de Bioética y de Ética en la Investigación se sujetarán a la legislación vigente y a los criterios que establezca la Comisión Nacional de Bioética. Serán interdisciplinarios y deberán estar integrados por personal médico de distintas especialidades y por personas de las profesiones de psicología, enfermería, trabajo social, sociología, antropología, filosofía o derecho que cuenten con capacitación en bioética, siendo imprescindible contar con representantes del núcleo afectado o de personas usuarias de los servicios de salud, hasta el número convenido de sus miembros, guardando equilibrio de género, quienes podrán estar adscritos o no a la unidad de salud o establecimiento.
+Este Comité será responsable, además, en conjunto con el Comité de Bioseguridad, de revisar los aspectos de bioseguridad e impacto ambiental de los protocolos sometidos.
+
+El Comité de Ética e Investigación será interdisciplinario y multidisciplinario, el cual deberá estar integrado por profesionales de la salud y otras profesiones afines que demuestren experiencia y capacitación en bioética, metodología de la investigación, ética de la investigación, y atención médica clínica según la disciplina, especialidad o área de la investigación que evalúan, así como de los aspectos de bioseguridad e impacto ambiental en la medida del caso, siendo imprescindible contar con personas representantes no científicas, hasta el número convenido de sus integrantes, guardando equilibrio de género y edad;
+
+III. Un Comité de Bioseguridad, encargado de determinar y normar al interior del establecimiento el uso de radiaciones ionizantes o de técnicas de ingeniería genética, con base en las disposiciones jurídicas aplicables, así como de dictaminar sobre la bioseguridad y el impacto ambiental de protocolos de investigación para la salud en conjunto con el Comité de Ética e Investigación, o
+
+IV. Los comités a que se refiere el artículo 316 de esta Ley.
+
+El Comité de Bioética para la Atención de la Salud y el Comité de Ética e Investigación se sujetarán a la legislación aplicable, a los criterios para su integración y a los requisitos para su acreditación que establezca la Comisión Nacional de Bioética.
+
+La Comisión Nacional de Bioética definirá la clasificación de los Comités de Ética e Investigación con base en el nivel de riesgo de la investigación, el tipo de investigación para la salud que evalúan, así como el nivel de complejidad y poder de resolución de la institución que solicita su acreditación.
 
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -1088,11 +1210,15 @@ Se entenderá como ajustes razonables a las modificaciones y adaptaciones necesa
 
 No se entenderá que la persona no puede dar su consentimiento cuando se estime que está en un error o que no tiene conciencia de lo que hace.
 
-> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
-###### ARTICULO 51 Bis 3.
+ARTICULO 51 BIS 3.- Las quejas que las personas usuarias presenten por la atención médica recibida deberán ser atendidas y resueltas en forma oportuna y efectiva por:
 
-Las quejas que los usuarios presenten por la atención médica recibida, deberán ser atendidas y resueltas en forma oportuna y efectiva por los prestadores de servicios de salud o por las instancias que las instituciones de salud tengan definidas para tal fin, cuando la solución corresponda a su ámbito de competencia.
+I. Los prestadores de servicios de salud;
+
+II. La Comisión Nacional de Arbitraje Médico, o
+
+III. Las instancias que las instituciones de salud de las entidades federativas tengan definidas para tal fin, cuando la solución corresponda a su ámbito de competencia.
 
 ###### ARTICULO 52.
 
@@ -1162,17 +1288,69 @@ Se concede acción popular para denunciar ante las autoridades sanitarias todo h
 
 La acción popular podrá ejercitarse por cualquier persona, bastando para darle curso el señalamiento de los datos que permitan localizar la causa del riesgo.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE ENERO DE 2026)</small>
+
+### CAPITULO IV BIS. De la Comisión Nacional de Arbitraje Médico
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+ARTICULO 60 BIS.- La Comisión Nacional de Arbitraje Médico es el órgano administrativo desconcentrado de la Secretaría de Salud, con plena autonomía técnica, operativa, administrativa y de gestión, con atribuciones para emitir opiniones, recomendaciones, acuerdos, dictámenes y laudos arbitrales, en el ámbito de su competencia, de conformidad con la normativa aplicable.
+
+Tiene por objeto contribuir a resolver los conflictos suscitados entre las personas usuarias y los prestadores de servicios de salud, a través de los mecanismos alternativos de solución de controversias en materia de servicios de salud establecidos en esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+ARTICULO 60 TER.- Son mecanismos alternativos de solución de controversias en materia de servicios de salud, entre otros, los siguientes:
+
+I. Gestión inmediata;
+
+II. Conciliación;
+
+III. Mediación, y
+
+IV. Arbitraje.
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+ARTICULO 60 QUATER.- Los mecanismos alternativos de solución de controversias en materia de servicios de salud contemplados en el presente Capítulo, se rigen de manera supletoria por los principios establecidos en la Ley General de Mecanismos Alternativos de Solución de Controversias y demás normativa aplicable.
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+ARTICULO 60 QUINQUIES.- Los integrantes del Sistema Nacional de Salud podrán suscribir los instrumentos jurídicos que permitan reconocer la competencia, procedimientos y determinaciones emitidas por la Comisión Nacional de Arbitraje Médico.
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+ARTICULO 60 SEXIES.- La Comisión Nacional de Arbitraje Médico tendrá la facultad de convenir con instituciones, organismos y organizaciones públicas y privadas, acciones de coordinación y concertación que le permitan cumplir con sus funciones.
+
+Asimismo, podrá celebrar instrumentos de coordinación con los gobiernos de las entidades federativas, las comisiones estatales de arbitraje médico y con el organismo de Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR), con el objeto de establecer los lineamientos, criterios y acciones bajo los cuales se atenderán las quejas médicas interpuestas en contra de los servicios de salud que preste dicho organismo.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE ENERO DE 2026)</small>
+
+### CAPITULO IV TER. De la inversión y fortalecimiento de la infraestructura para la prestación de servicios de salud
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+ARTICULO 60 SEPTIES.- La Secretaría de Salud y los gobiernos de las entidades federativas, en el ámbito de sus competencias y en coordinación con sus respectivas instituciones públicas del Sistema Nacional de Salud, llevarán a cabo las acciones necesarias para que sus unidades médicas cuenten con infraestructura adecuada, a fin de fortalecer la prestación de servicios de atención médica, mediante la planeación, la proyección y la programación de los recursos que les sean asignados para el desarrollo y equipamiento de la infraestructura para la prestación de servicios de salud, con independencia de la fuente de financiamiento, conforme a las prioridades que se determinen, y en congruencia con el Plan Maestro Nacional de Infraestructura en Salud y Equipamiento Médico de Alta Tecnología.
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+ARTICULO 60 OCTIES.- Las instituciones públicas federales del Sistema Nacional de Salud llevarán a cabo las acciones necesarias para solicitar a la Secretaría de Salud el registro de sus proyectos de creación, sustitución o ampliación de unidades médicas, o de adquisición de equipo médico de alta tecnología, en el Plan Maestro Nacional de Infraestructura en Salud y Equipamiento Médico de Alta Tecnología, de conformidad con los lineamientos que emita la Secretaría de Salud, quien deberá resolver respecto de dicho registro en un plazo de dos días hábiles.
+
+El registro en el Plan Maestro Nacional de Infraestructura en Salud y Equipamiento Médico de Alta Tecnología tendrá una vigencia máxima de seis años contados a partir de que la Secretaría de Salud otorgue el folio de registro correspondiente, el cual podrá ser renovado conforme a los lineamientos que emita la citada Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+ARTICULO 60 NONIES.- El Plan Maestro Nacional de Infraestructura en Salud y Equipamiento Médico de Alta Tecnología estará disponible para su consulta de manera permanente, para las verificaciones que se requieran por las autoridades competentes sobre los folios de registro otorgados por la Secretaría de Salud.
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+ARTICULO 60 DECIES.- La Secretaría de Salud en la planeación de la creación, la sustitución y la ampliación de unidades médicas, así como el equipamiento médico de alta tecnología, promoverá el incremento de la cobertura de los servicios de salud de manera sistemática y ordenada.
+
+Las instituciones públicas federales del Sistema Nacional de Salud deberán identificar las necesidades sobre infraestructura para la prestación de servicios de salud a que se refiere el párrafo anterior tomando en consideración los programas y proyectos de inversión en proceso de realización, así como aquellos susceptibles de ejecutarse en el corto, mediano y largo plazo, con la finalidad de que dichos proyectos se integren al mecanismo de planeación correspondiente.
+
 ### CAPITULO V. Atención Materno-Infantil
 
 > <small>(ADICIONADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2012)</small>
-
-### CAPITULO VI. Servicios de Planificación Familiar
-
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
-
-### CAPITULO VII. Salud Mental
-
-> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 61.
 
@@ -1288,29 +1466,9 @@ La prestación de servicios de salud a los escolares se efectuará de conformida
 
 En el diseño de las Normas Oficiales Mexicanas señaladas en el primer párrafo del presente artículo, las autoridades sanitarias podrán promover mecanismos de atención a las víctimas y victimarios del acoso o violencia escolar.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO VI. Servicios de Planificación Familiar
 
-> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2023)</small>
-
-ARTICULO 77 bis 1.- Todas las personas que se encuentren en el país que no cuenten con seguridad social tienen derecho a recibir de forma gratuita la prestación de servicios públicos de salud, medicamentos y demás insumos asociados, al momento de requerir la atención, sin discriminación alguna y sin importar su condición social, de conformidad con los artículos 1o. y 4o. de la Constitución Política de los Estados Unidos Mexicanos.
-
-La protección a la salud a que se refiere este Título será garantizada por las entidades federativas y, en su caso, de manera concurrente con la Federación a través del Sistema de Salud para el Bienestar bajo los principios de universalidad e igualdad, deberá generar las condiciones que permitan brindar el acceso gratuito, progresivo, efectivo, oportuno, de calidad y sin discriminación alguna a todas las personas, a los servicios médicos, incluidas intervenciones quirúrgicas, farmacéuticos y hospitalarios que satisfagan de manera integral las necesidades de salud, mediante la combinación de acciones de salud pública, intervenciones de promoción de la salud, prevención, diagnóstico, tratamiento y de rehabilitación, seleccionadas en forma prioritaria según criterios de seguridad, eficacia, efectividad, adherencia a normas éticas profesionales y aceptabilidad social. Se deberán contemplar los servicios de consulta externa y hospitalización, así como a los medicamentos y demás insumos del Compendio Nacional de Insumos para la Salud.
-
-La organización, seguimiento, alcances y progresividad de la prestación gratuita de los servicios de salud, medicamentos y demás insumos asociados a que se refiere este Título, se regirán a través de los criterios que establezcan las disposiciones reglamentarias, de conformidad con la normatividad aplicable en la materia.
-
-> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2023)</small>
-
-ARTICULO 77 bis 2.- Para los efectos de este Título, se entenderá por prestación gratuita de servicios de salud, medicamentos y demás insumos asociados a las personas sin seguridad social, al conjunto de acciones que en esta materia provean las entidades federativas y, en su caso, de manera concurrente con la Federación a través del Sistema de Salud para el Bienestar.
-
-La Secretaría de Salud, en coordinación con las dependencias y entidades que conforman el Sistema de Salud para el Bienestar, planeará, organizará y orientará las acciones para la prestación gratuita de los servicios de salud, medicamentos y demás insumos asociados que requieran las personas sin seguridad social, cuando así lo haya pactado con las entidades federativas mediante la celebración de los convenios de coordinación a que se refiere este Título.
-
-Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) coadyuvará con las entidades federativas en la consolidación de la operación de la prestación gratuita de los servicios de salud, medicamentos y demás insumos asociados a que se refiere este Título, a través de la implementación de acciones para ampliar la cobertura de la prestación gratuita de los servicios de salud, mediante la coordinación eficiente, oportuna y sistemática de la prestación de estos servicios.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 29 DE MAYO DE 2023)</small>
-
-ARTICULO 77 bis 3.- El Sistema de Salud para el Bienestar se compone por la Secretaría de Salud, Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR), así como las instituciones y organismos que participan en el mismo y, en su caso, de manera concurrente por las entidades federativas en términos de este Título.
-
-El Sistema de Salud para el Bienestar tendrá un enfoque solidario y social, en favor de las personas que no cuenten con afiliación a las instituciones de seguridad social, mediante el Modelo de Atención a la Salud para el Bienestar que vincula los servicios de salud y la acción comunitaria, en un marco de respeto a los derechos humanos, con perspectiva de género y con enfoque intercultural en salud.
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 67.
 
@@ -1352,9 +1510,9 @@ La Secretaría de Salud, con base en las políticas establecidas por el Consejo 
 
 La Secretaría de Salud coordinará las actividades de las dependencias y entidades del sector salud para instrumentar y operar las acciones del programa nacional de planificación familiar que formule el Consejo Nacional de Población, de conformidad con las disposiciones de la Ley General de Población y de su Reglamento, y cuidará que se incorporen al programa sectorial.
 
-> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
-Para efectos del párrafo anterior, la Secretaría de Salud en coordinación con los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, impulsarán, entre otras, acciones en materia de educación sexual y planificación familiar dirigidas a la población adolescente.
+Para efectos del párrafo anterior, la Secretaría de Salud en coordinación con los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, impulsarán, entre otras, acciones en materia de educación sexual, planificación familiar y promoción de los derechos sexuales y reproductivos dirigidas a la población en general, con énfasis en la población adolescente, con el objetivo de prevenir el embarazo adolescente.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -1362,113 +1520,83 @@ Para efectos del párrafo anterior, la Secretaría de Salud en coordinación con
 
 La Secretaría de Salud prestará, a través del Consejo Nacional de Población, el asesoramiento que para la elaboración de programas educativos en materia de planificación familiar y educación sexual le requiera el sistema educativo nacional.
 
-### CAPITULO II. De la cobertura y alcance de la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados para las personas sin seguridad social
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE ENERO DE 2026)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE MAYO DE 2023)</small>
+### CAPITULO VI BIS. Salud Digital
 
-ARTICULO 77 bis 7.- Para que las personas puedan acceder a la prestación gratuita de los servicios de salud, medicamentos y demás insumos asociados a que se refiere el presente Título, se deberán reunir los siguientes requisitos:
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
-> <small>(REFORMADA, D.O.F. 29 DE MAYO DE 2023)</small>
+ARTICULO 71 BIS.- La salud digital se refiere a la aplicación de las tecnologías de la información y la comunicación en los servicios de salud, como es el caso, entre otros, de la telesalud, la telemedicina, la salud móvil, los registros médicos o de salud electrónicos y dispositivos portátiles.
 
-I. Encontrarse en territorio nacional;
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
-> <small>(REFORMADA, D.O.F. 29 DE MAYO DE 2023)</small>
+ARTICULO 71 TER.- La salud digital tiene como finalidades:
 
-II. No ser derechohabiente de las instituciones de seguridad social;
+I. Facilitar la prestación de servicios médicos a distancia, para permitir la atención de la población sin necesidad de desplazamiento;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
+II. Optimizar el uso de recursos humanos y tecnológicos en la atención sanitaria;
 
-III. Contar con Clave Única de Registro de Población.
+III. Ampliar la cobertura de los servicios de salud, especialmente en comunidades con acceso limitado a la infraestructura médica;
 
-> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2023)</small>
+IV. Brindar apoyo y asesoría a profesionales de la salud mediante interconsultas con especialistas;
 
-En caso de no contar con dicha clave, podrá presentarse acta de nacimiento, certificado de nacimiento o los documentos que se establezcan en las disposiciones reglamentarias, y
+V. Implementar programas de educación mediante herramientas digitales dirigidos a personal de salud y población en general para la prevención de enfermedades;
 
-> <small>(REFORMADA, D.O.F. 29 DE MAYO DE 2023)</small>
+VI. Digitalizar la información médica del paciente para facilitar el acceso, la actualización y el intercambio seguro de datos entre profesionales y establecimientos de salud, para dar continuidad a la atención médica, y
 
-IV. Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) podrá establecer, a través de campañas, universos de personas beneficiarias en atención a las necesidades de cada grupo.
+VII. Analizar grandes volúmenes de datos para identificar patrones, optimizar diagnósticos, personalizar tratamientos y mejorar la gestión hospitalaria.
 
-V. (DEROGADA, D.O.F. 29 DE NOVIEMBRE DE 2019)
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 29 DE MAYO DE 2023)</small>
+ARTICULO 71 QUATER.- La Secretaría de Salud será la responsable de emitir las disposiciones para la implementación, supervisión y mejora continua de los servicios de salud digital en todas las instituciones públicas del Sistema Nacional de Salud. Para efectos de lo anterior, se deberá considerar los siguientes aspectos:
 
-ARTICULO 77 bis 8.- Las personas derechohabientes de las instituciones de seguridad social, podrán acceder a los servicios prestados por Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) ya sea por accesibilidad geográfica o por urgencia médica, en la operación de convenios para el intercambio de servicios, en cuyo caso la institución de seguridad social deberá compensar los gastos correspondientes.
+I. Asesoría para integrar la infraestructura tecnológica, según las necesidades, condiciones e infraestructura existente;
 
-Los convenios de intercambio de servicios a que se refiere el párrafo anterior garantizarán la continuidad de la prestación de los servicios de atención médica y farmacéutica para las personas beneficiarias del Sistema de Salud Para el Bienestar en las instituciones públicas del Sistema Nacional de Salud que suscriban los referidos convenios con Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) a cambio de las contraprestaciones que acuerden, bajo un principio de reciprocidad.
+II. Formación continua a los profesionales de salud en el uso adecuado de las herramientas de salud digital;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE MAYO DE 2023)</small>
+III. Elaboración de guías y criterios de atención médica mediante sistemas de salud digital, incluida la telemedicina, para garantizar la seguridad y calidad de la atención;
 
-ARTICULO 77 bis 9. Para incrementar la calidad de los servicios de salud, medicamentos y demás insumos asociados a que se refiere el presente Título, el Sistema de Salud para el Bienestar contará con un Modelo de Atención a la Salud para el Bienestar, el cual establecerá la base para la atención de las personas beneficiarias de la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados, cumpliendo en todo momento con las obligaciones establecidas en la presente Ley, y las demás disposiciones jurídicas aplicables en la materia.
+IV. Elaboración de protocolos de seguridad para la confidencialidad de la información y protección de datos personales de los pacientes, y
 
-> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2023)</small>
+V. Implementación de mecanismos de seguimiento y evaluación para medir el impacto y eficacia de los servicios de salud digital.
 
-Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) llevará a cabo las acciones necesarias para que sus unidades médicas obtengan la certificación correspondiente del Consejo de Salubridad General y provean de forma integral, obligatoria y con calidad, los servicios de consulta externa y hospitalización para las especialidades básicas de medicina interna, cirugía general, ginecoobstetricia, pediatría y geriatría, de acuerdo con el nivel de atención, mismos que deberán operar como sistema de redes integradas de atención de acuerdo con las necesidades en salud de las personas beneficiarias. El acceso de las personas beneficiarias a los servicios de salud se ampliará en forma progresiva en función de las necesidades de aquéllos, de conformidad con las disposiciones reglamentarias de este Título.
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
-> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2023)</small>
+ARTICULO 71 QUINQUIES.- Las instituciones públicas prestadoras de servicios de salud, para garantizar una implementación efectiva de la salud digital, deberán considerar los siguientes aspectos:
 
-La Secretaría de Salud promoverá que las unidades médicas de las dependencias y entidades de la administración pública federal y local que provean servicios de atención médica a las personas sin seguridad social se apeguen a los mismos criterios.
+I. Evaluación de la infraestructura tecnológica disponible para la correcta operación de los servicios;
 
-> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 29 DE MAYO DE 2023)</small>
+II. Capacitación continua del personal de salud en herramientas digitales y protocolos de atención a distancia;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE MAYO DE 2023)</small>
+III. Coordinación entre instituciones del sector salud para la integración de sistemas y plataformas de telesalud;
 
-ARTICULO 77 bis 10.- Los gobiernos de las entidades federativas prestarán servicios de atención médica en los siguientes supuestos:
+IV. Medición y evaluación de indicadores de desempeño para la mejora continua de los servicios de telesalud, y
 
-> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
+V. Promoción de la inclusión digital para reducir la brecha tecnológica en la población.
 
-I. Tendrán a su cargo la administración y gestión de los recursos que la Federación aporte para la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados. En el caso de los recursos financieros que se les transfieran de conformidad con el artículo 77 bis 15, fracción I de esta Ley, deberán abrir cuentas bancarias productivas específicas para su manejo;
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
-> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
+ARTICULO 71 SEXIES.- La telesalud se refiere al uso de tecnologías de la información para ofrecer servicios de salud a distancia centrados en la persona, lo cual puede incluir, entre otros, orientación médica, atención médica, educación en salud o investigación para la salud.
 
-II. Garantizarán y verificarán que se provean de manera integral los servicios de salud, medicamentos y demás insumos para la salud asociados;
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
-> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2014)</small>
+ARTICULO 71 SEPTIES.- Los servicios de telesalud deberán cumplir con las siguientes condiciones:
 
-III. Fortalecerán el mantenimiento y desarrollo de infraestructura en salud, a partir de los recursos que reciban en los términos de este Título, destinando los recursos necesarios para la inversión en infraestructura médica, de conformidad con el plan maestro que para el efecto elabore la Secretaría de Salud;
+I. Ser proporcionados por personal designado y capacitado para este fin;
 
-> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2014)</small>
+II. Utilizar sistemas seguros y confiables que garanticen la confidencialidad, la protección de datos personales, integridad y disponibilidad de la información médica por el personal autorizado para ello, en términos de las disposiciones jurídicas aplicables en materia de transparencia, acceso a la información y protección de datos personales;
 
-IV. Deberán rendir cuentas y proporcionar la información establecida respecto a los recursos que reciban, en los términos de esta ley y las demás aplicables, y
+III. Incorporar mecanismos para la obtención del consentimiento informado en la prestación de servicios de salud a distancia, garantizando comprensión y voluntariedad, y
 
-> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2014)</small>
+IV. Asegurar la adecuada documentación y registro de las atenciones médicas brindadas mediante plataformas digitales.
 
-V. Las demás que se incluyan en los acuerdos de coordinación que se celebren.
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
+ARTICULO 71 OCTIES.- La Secretaría de Salud, en coordinación con las instituciones del sector público, social y privado, promoverá el desarrollo, la investigación y la adopción de tecnologías emergentes en salud digital.
 
-### CAPITULO III. Del financiamiento de la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados
+### CAPITULO VII. Salud Mental
 
-> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2023)</small>
-
-ARTICULO 77 bis 11.- La prestación gratuita de servicios públicos de salud, medicamentos y demás insumos asociados para la atención integral de las personas que no cuenten con afiliación a las instituciones de seguridad social, será financiada de manera solidaria por la federación y por las entidades federativas en términos de la presente Ley y sus disposiciones reglamentarias y demás disposiciones aplicables.
-
-> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2023)</small>
-
-ARTICULO 77 bis 12.- El Gobierno Federal, conforme a lo que se establezca en el Presupuesto de Egresos de la Federación, destinará anualmente, a través de Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR), recursos para la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados, así como para personal, equipamiento e infraestructura, cuyo monto no deberá ser inferior al del ejercicio fiscal inmediato anterior, en términos de lo que se establezca en las disposiciones presupuestarias aplicables y sujeto a la disponibilidad presupuestaria.
-
-Los recursos a que se refiere el párrafo anterior se entregarán a las entidades federativas, cuando no haya una concurrencia con Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) en la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados a las personas sin seguridad social.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE MAYO DE 2023)</small>
-
-ARTICULO 77 bis 13.- Para sustentar la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados, los gobiernos de las entidades federativas aportarán recursos sobre la base de lo que se establezca en los instrumentos o acuerdos de coordinación que se celebren, los cuales deberán prever las sanciones que aplicarán en caso de incumplimiento a lo previsto en este artículo.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
-
-Los recursos referidos en el párrafo anterior deberán incrementarse en la misma proporción en que lo hagan los referidos en el artículo 77 bis 12 de esta Ley.
-
-I. (DEROGADA, D.O.F. 29 DE NOVIEMBRE DE 2019)
-
-II. (DEROGADA, D.O.F. 29 DE NOVIEMBRE DE 2019)
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
-
-> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
-
-> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
-
-> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
-
-> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 72.
 
@@ -1494,11 +1622,11 @@ La atención a la salud mental deberá brindarse con un enfoque comunitario, de 
 
 La atención de la salud mental y las adicciones del comportamiento comprende todas las acciones a las que se refiere el artículo 33 de esta Ley.
 
-> <small>(ADICIONADO PRIMER PÁRRAFO, D.O.F. 16 DE MAYO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### ARTICULO 73.
 
-Los servicios y programas en materia de salud mental y adicciones deberán privilegiar la atención comunitaria, integral, interdisciplinaria, intercultural, intersectorial, con perspectiva de género y participativa de las personas desde el primer nivel de atención y los hospitales generales.
+Los servicios y programas en materia de salud mental y adicciones, deberán privilegiar la atención comunitaria, integral, interdisciplinaria, intercultural, participativa, intersectorial, libre de violencias y con perspectivas de género y de derechos humanos desde el primer nivel de atención y los hospitales generales.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES PRIMER PÁRRAFO], D.O.F. 16 DE MAYO DE 2022)</small>
 
@@ -1680,9 +1808,29 @@ Los establecimientos del Sistema Nacional de Salud elaborarán programas para la
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO IV. Del Fondo de Aportaciones para los Servicios de Salud a la Comunidad
+### CAPITULO I. Disposiciones Generales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2023)</small>
+
+ARTICULO 77 bis 1.- Todas las personas que se encuentren en el país que no cuenten con seguridad social tienen derecho a recibir de forma gratuita la prestación de servicios públicos de salud, medicamentos y demás insumos asociados, al momento de requerir la atención, sin discriminación alguna y sin importar su condición social, de conformidad con los artículos 1o. y 4o. de la Constitución Política de los Estados Unidos Mexicanos.
+
+La protección a la salud a que se refiere este Título será garantizada por las entidades federativas y, en su caso, de manera concurrente con la Federación a través del Sistema de Salud para el Bienestar bajo los principios de universalidad e igualdad, deberá generar las condiciones que permitan brindar el acceso gratuito, progresivo, efectivo, oportuno, de calidad y sin discriminación alguna a todas las personas, a los servicios médicos, incluidas intervenciones quirúrgicas, farmacéuticos y hospitalarios que satisfagan de manera integral las necesidades de salud, mediante la combinación de acciones de salud pública, intervenciones de promoción de la salud, prevención, diagnóstico, tratamiento y de rehabilitación, seleccionadas en forma prioritaria según criterios de seguridad, eficacia, efectividad, adherencia a normas éticas profesionales y aceptabilidad social. Se deberán contemplar los servicios de consulta externa y hospitalización, así como a los medicamentos y demás insumos del Compendio Nacional de Insumos para la Salud.
+
+La organización, seguimiento, alcances y progresividad de la prestación gratuita de los servicios de salud, medicamentos y demás insumos asociados a que se refiere este Título, se regirán a través de los criterios que establezcan las disposiciones reglamentarias, de conformidad con la normatividad aplicable en la materia.
+
+> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2023)</small>
+
+ARTICULO 77 bis 2.- Para los efectos de este Título, se entenderá por prestación gratuita de servicios de salud, medicamentos y demás insumos asociados a las personas sin seguridad social, al conjunto de acciones que en esta materia provean las entidades federativas y, en su caso, de manera concurrente con la Federación a través del Sistema de Salud para el Bienestar.
+
+La Secretaría de Salud, en coordinación con las dependencias y entidades que conforman el Sistema de Salud para el Bienestar, planeará, organizará y orientará las acciones para la prestación gratuita de los servicios de salud, medicamentos y demás insumos asociados que requieran las personas sin seguridad social, cuando así lo haya pactado con las entidades federativas mediante la celebración de los convenios de coordinación a que se refiere este Título.
+
+Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) coadyuvará con las entidades federativas en la consolidación de la operación de la prestación gratuita de los servicios de salud, medicamentos y demás insumos asociados a que se refiere este Título, a través de la implementación de acciones para ampliar la cobertura de la prestación gratuita de los servicios de salud, mediante la coordinación eficiente, oportuna y sistemática de la prestación de estos servicios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 29 DE MAYO DE 2023)</small>
+
+ARTICULO 77 bis 3.- El Sistema de Salud para el Bienestar se compone por la Secretaría de Salud, Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR), así como las instituciones y organismos que participan en el mismo y, en su caso, de manera concurrente por las entidades federativas en términos de este Título.
+
+El Sistema de Salud para el Bienestar tendrá un enfoque solidario y social, en favor de las personas que no cuenten con afiliación a las instituciones de seguridad social, mediante el Modelo de Atención a la Salud para el Bienestar que vincula los servicios de salud y la acción comunitaria, en un marco de respeto a los derechos humanos, con perspectiva de género y con enfoque intercultural en salud.
 
 ###### ARTICULO 77 Bis 4.
 
@@ -1718,9 +1866,9 @@ IV. Conocer y evaluar la prestación gratuita de los servicios de salud, medicam
 
 V. Impulsar el marco jurídico en el que se defina la progresividad y la cobertura de la prestación gratuita de los servicios de salud, medicamentos y demás insumos asociados para las personas sin seguridad social, con enfoque de género, interculturalidad e interseccionalidad y de derechos humanos, que contribuya a la igualdad en el acceso al derecho a la protección de la salud;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 29 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-VI. Impulsar la suscripción de acuerdos o convenios que contribuyan en la consolidación de la operación del Sistema de Salud para el Bienestar, a fin de ampliar la cobertura de la prestación gratuita de los servicios de salud, medicamentos y demás insumos asociados para las personas sin seguridad social;
+VI. Impulsar la suscripción de acuerdos o convenios que contribuyan en la implementación efectiva de la operación del Sistema de Salud para el Bienestar, así como en el intercambio de bienes y servicios, a fin de ampliar la cobertura de la prestación gratuita de los servicios de salud, medicamentos y demás insumos para la salud asociados y la unificación de redes integradas de servicios entre los diferentes prestadores de servicios;
 
 > <small>(REFORMADA, D.O.F. 29 DE MAYO DE 2023)</small>
 
@@ -1778,13 +1926,13 @@ Para tal efecto, las entidades federativas estarán a lo dispuesto en la Ley Gen
 
 Una vez transferidos por la Federación los recursos que corresponda entregar directamente a la entidad federativa de que se trate en los términos del artículo 77 bis 15, fracción I de esta Ley, los mismos deberán ser ministrados íntegramente, junto con los rendimientos financieros que se generen a los servicios estatales de salud, o dependencia o entidad estatal que corresponda dentro de los cinco días hábiles siguientes, debiendo estos últimos informar a la Secretaría de Salud o Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) según corresponda, dentro de los tres días hábiles siguientes, el monto, la fecha y el importe de los rendimientos generados que le hayan sido entregados por la tesorería de la entidad federativa;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 29 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-V. Programar, de los recursos a que se refiere el Capítulo III de este Título, aquellos que sean necesarios para el mantenimiento, desarrollo de infraestructura y equipamiento conforme a las prioridades que se determinen en cada entidad federativa, en congruencia con el plan maestro que se elabore a nivel nacional por la Secretaría de Salud;
+V. Programar, de los recursos a que se refiere el Capítulo III de este Título, aquellos que sean necesarios para el mantenimiento, desarrollo de infraestructura y equipamiento conforme a las prioridades que se determinen en cada entidad federativa y, en su caso, en congruencia con el Plan Maestro Nacional de Infraestructura en Salud y Equipamiento Médico de Alta Tecnología;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 29 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-VI. Adoptar esquemas de operación que mejoren la atención, modernicen la administración de servicios y registros clínicos, alienten la certificación de su personal y promuevan la certificación y acreditación de establecimientos de atención médica; para tal efecto podrán celebrar convenios entre sí y con instituciones públicas del Sistema Nacional de Salud con la finalidad de optimizar la utilización de sus instalaciones y compartir la prestación de servicios, en términos de las disposiciones y lineamientos aplicables;
+VI. Adoptar esquemas de operación que mejoren la atención médica, modernicen la administración de los servicios de salud y los registros clínicos, promuevan la certificación de su personal y la certificación de establecimientos de atención médica. Para tal efecto, se podrán celebrar convenios entre sí y con instituciones públicas del Sistema Nacional de Salud con la finalidad de optimizar la utilización de sus instalaciones y compartir la prestación de servicios, en términos de los lineamientos y demás disposiciones aplicables;
 
 > <small>(REFORMADA, D.O.F. 29 DE MAYO DE 2023)</small>
 
@@ -1846,47 +1994,117 @@ IX. Cualquier otra necesaria para la prestación de los servicios objeto de dich
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
 
-### CAPITULO V. De las Cuotas Familiares
-
-### CAPITULO VI. Del Fondo de Salud para el Bienestar
+### CAPITULO II. De la cobertura y alcance de la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados para las personas sin seguridad social
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE MAYO DE 2023)</small>
 
-ARTICULO 77 bis 29.- El Fondo de Salud para el Bienestar, es un fideicomiso público sin estructura orgánica, constituido en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria en una institución de banca de desarrollo, en el que Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) funge como fideicomitente, y que tiene como fin destinar los recursos que integran su patrimonio a:
+ARTICULO 77 bis 7.- Para que las personas puedan acceder a la prestación gratuita de los servicios de salud, medicamentos y demás insumos asociados a que se refiere el presente Título, se deberán reunir los siguientes requisitos:
 
 > <small>(REFORMADA, D.O.F. 29 DE MAYO DE 2023)</small>
 
-I. La atención de enfermedades que impliquen un alto costo en los tratamientos y medicamentos asociados;
+I. Encontrarse en territorio nacional;
 
-> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 29 DE MAYO DE 2023)</small>
 
-II. La atención de necesidades de infraestructura preferentemente en las entidades federativas con mayor marginación social, y
+II. No ser derechohabiente de las instituciones de seguridad social;
 
-> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
 
-III. Complementar los recursos destinados al abasto y distribución de medicamentos y demás insumos, así como del acceso a exámenes clínicos, asociados a personas sin seguridad social.
+III. Contar con Clave Única de Registro de Población.
 
 > <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2023)</small>
 
-Asimismo, formarán parte del patrimonio del Fideicomiso los recursos que reciba en términos del artículo 77 bis 16 A de esta Ley, los cuales se destinarán en términos de lo que se establezca en los convenios de coordinación referidos en ese artículo. Estos recursos y sus rendimientos financieros no formarán parte del remanente a que se refiere el artículo 77 bis 17, por lo que deberán permanecer afectos al Fideicomiso hasta el cumplimiento de sus fines.
+En caso de no contar con dicha clave, podrá presentarse acta de nacimiento, certificado de nacimiento o los documentos que se establezcan en las disposiciones reglamentarias, y
+
+> <small>(REFORMADA, D.O.F. 29 DE MAYO DE 2023)</small>
+
+IV. Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) podrá establecer, a través de campañas, universos de personas beneficiarias en atención a las necesidades de cada grupo.
+
+V. (DEROGADA, D.O.F. 29 DE NOVIEMBRE DE 2019)
+
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+ARTICULO 77 bis 8.- Todas las personas con o sin afiliación a instituciones de seguridad social, podrán acceder a los servicios de salud prestados por cualquier institución del sector público acorde al padecimiento de que se trate por accesibilidad geográfica o por urgencia médica, conforme a la operación de los convenios para el intercambio de servicios de salud, en cuyo caso la institución a la que pertenece la persona que recibe el servicio médico deberá compensar los gastos correspondientes a la institución que lo otorga.
+
+Los convenios de intercambio de servicios de salud a que se refiere el párrafo anterior garantizarán la continuidad de la prestación de los servicios de atención médica y el otorgamiento de medicamentos y demás insumos para la salud para las personas en instituciones públicas que suscriban los referidos convenios a cambio de las contraprestaciones que se acuerden bajo un principio de reciprocidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE MAYO DE 2023)</small>
+
+ARTICULO 77 bis 9.- Para incrementar la calidad de los servicios de salud, medicamentos y demás insumos asociados a que se refiere el presente Título, el Sistema de Salud para el Bienestar contará con un Modelo de Atención a la Salud para el Bienestar, el cual establecerá la base para la atención de las personas beneficiarias de la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados, cumpliendo en todo momento con las obligaciones establecidas en la presente Ley, y las demás disposiciones jurídicas aplicables en la materia.
+
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) podrá llevar a cabo las acciones necesarias para que sus unidades médicas obtengan la certificación correspondiente del Consejo de Salubridad General y para que provean de forma integral, obligatoria y con calidad, los servicios de consulta externa y hospitalización para las especialidades básicas de medicina interna, cirugía general, ginecoobstetricia, pediatría y geriatría, de acuerdo con el nivel de atención, mismos que deberán operar como sistema de redes integradas de atención de acuerdo con las necesidades en salud de las personas beneficiarias. El acceso de las personas beneficiarias a los servicios de salud se ampliará en forma progresiva en función de las necesidades de aquellos, de conformidad con las disposiciones reglamentarias de este Título.
+
+> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2023)</small>
+
+La Secretaría de Salud promoverá que las unidades médicas de las dependencias y entidades de la administración pública federal y local que provean servicios de atención médica a las personas sin seguridad social se apeguen a los mismos criterios.
+
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 29 DE MAYO DE 2023)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE MAYO DE 2023)</small>
+
+ARTICULO 77 bis 10.- Los gobiernos de las entidades federativas prestarán servicios de atención médica en los siguientes supuestos:
+
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
+
+I. Tendrán a su cargo la administración y gestión de los recursos que la Federación aporte para la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados. En el caso de los recursos financieros que se les transfieran de conformidad con el artículo 77 bis 15, fracción I de esta Ley, deberán abrir cuentas bancarias productivas específicas para su manejo;
+
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
+
+II. Garantizarán y verificarán que se provean de manera integral los servicios de salud, medicamentos y demás insumos para la salud asociados;
+
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+III. Fortalecerán el desarrollo de la infraestructura para la prestación de servicios de salud y ejecutarán las acciones de conservación y mantenimiento, a partir de los recursos que reciban en los términos de este Título, destinando los recursos necesarios para la inversión en infraestructura y equipamiento, de conformidad con el Plan Maestro Nacional de Infraestructura en Salud y Equipamiento Médico de Alta Tecnología;
+
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+IV. Deberán rendir cuentas y proporcionar la información establecida respecto a los recursos que reciban, en los términos de esta Ley y las demás aplicables;
+
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+IV Bis. Darán prioridad a las acciones de mantenimiento sobre la creación, la sustitución y la ampliación de unidades médicas, a partir de los recursos que reciban en los términos de este Título, destinando los recursos necesarios para la inversión en acciones de infraestructura para la prestación de servicios de salud, de conformidad con el Plan Maestro Nacional de Infraestructura en Salud y Equipamiento Médico de Alta Tecnología, y
+
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2014)</small>
+
+V. Las demás que se incluyan en los acuerdos de coordinación que se celebren.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
+
+### CAPITULO III. Del financiamiento de la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados
+
+> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2023)</small>
+
+ARTICULO 77 bis 11.- La prestación gratuita de servicios públicos de salud, medicamentos y demás insumos asociados para la atención integral de las personas que no cuenten con afiliación a las instituciones de seguridad social, será financiada de manera solidaria por la federación y por las entidades federativas en términos de la presente Ley y sus disposiciones reglamentarias y demás disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2023)</small>
+
+ARTICULO 77 bis 12.- El Gobierno Federal, conforme a lo que se establezca en el Presupuesto de Egresos de la Federación, destinará anualmente, a través de Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR), recursos para la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados, así como para personal, equipamiento e infraestructura, cuyo monto no deberá ser inferior al del ejercicio fiscal inmediato anterior, en términos de lo que se establezca en las disposiciones presupuestarias aplicables y sujeto a la disponibilidad presupuestaria.
+
+Los recursos a que se refiere el párrafo anterior se entregarán a las entidades federativas, cuando no haya una concurrencia con Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) en la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados a las personas sin seguridad social.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE MAYO DE 2023)</small>
+
+ARTICULO 77 bis 13.- Para sustentar la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados, los gobiernos de las entidades federativas aportarán recursos sobre la base de lo que se establezca en los instrumentos o acuerdos de coordinación que se celebren, los cuales deberán prever las sanciones que aplicarán en caso de incumplimiento a lo previsto en este artículo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
+
+Los recursos referidos en el párrafo anterior deberán incrementarse en la misma proporción en que lo hagan los referidos en el artículo 77 bis 12 de esta Ley.
+
+I. (DEROGADA, D.O.F. 29 DE NOVIEMBRE DE 2019)
+
+II. (DEROGADA, D.O.F. 29 DE NOVIEMBRE DE 2019)
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
+
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
+
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
+
+> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
 
 > <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
-
-Para efectos de lo anterior y mayor transparencia de los recursos, el Fideicomiso contará con una subcuenta para cada uno de los fines señalados.
-
-> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
-
-Para efectos de este Título, se considerarán gastos catastróficos a los que se derivan de aquellos tratamientos y medicamentos asociados, definidos por el Consejo de Salubridad General, que satisfagan las necesidades de salud mediante la combinación de intervenciones de tipo preventivo, diagnóstico, terapéutico, paliativo y de rehabilitación, con criterios explícitos de carácter clínico y epidemiológico, seleccionadas con base en su seguridad, eficacia, pago, efectividad, adherencia a normas éticas profesionales y aceptabilidad social, que impliquen un alto costo en virtud de su grado de complejidad o especialidad y el nivel o frecuencia con la que ocurren.
-
-> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 2023)</small>
-
-Para efectos de la fracción I del presente artículo, la subcuenta de atención de enfermedades que impliquen un alto costo en los tratamientos y medicamentos asociados deberán ser determinadas en las reglas de operación del Fondo en virtud de su grado de complejidad o especialidad y el nivel o frecuencia con la que ocurren.
-
-> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
-
-Las reglas de operación del Fondo serán emitidas previa opinión de la Secretaría de Hacienda y Crédito Público, y establecerán la forma en que se ejercerán los recursos del mismo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 77 Bis 14.
 
@@ -2010,21 +2228,13 @@ Las entidades federativas serán responsables de llevar a cabo todos los actos n
 
 > <small>(DEROGADO SÉPTIMO PÁRRAFO, D.O.F. 29 DE MAYO DE 2023)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE MAYO DE 2023)</small>
-
-ARTICULO 77 bis 17.- Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) con cargo a los recursos a que se refiere el artículo 77 bis 12 de esta Ley, canalizará anualmente al Fondo a que hace referencia el Capítulo VI de este Título, el equivalente al 11% de la suma de los recursos señalados en los artículos 77 bis 12 y 77 bis 13 de esta Ley, Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) asignará de estos recursos el 8% a la fracción I del artículo 77 bis 29, el 2% a la fracción II del artículo 77 bis 29, y el 1% a la fracción III del artículo 77 bis 29.
-
-> <small>(ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 2020)</small>
-
-Cuando el Fondo acumule recursos en un monto superior a dos veces la suma aprobada en el Presupuesto de Egresos de la Federación para el ejercicio fiscal 2020 como aportaciones al Fideicomiso del Fondo de Salud para el Bienestar, el remanente podrá destinarse a fortalecer acciones en materia de salud a través del reintegro de recursos correspondiente a la Tesorería de la Federación o mediante el Fondo de Salud para el Bienestar. Los recursos acumulados en el Fondo seguirán garantizando la atención de enfermedades que provocan gastos catastróficos, la atención de necesidades de infraestructura, el abasto y distribución de medicamentos y otros insumos y el acceso a exámenes clínicos, conforme lo establece el artículo 77 bis 29 de esta Ley.
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### ARTICULO 77 Bis 17.
 
-El Instituto de Salud para el Bienestar, con cargo a los recursos a que se refiere el artículo 77 bis 12 de esta Ley, canalizará anualmente al Fondo a que hace referencia el Capítulo VI de este Título, el equivalente al 11% de la suma de los recursos señalados en los artículos 77 bis 12 y 77 bis 13 de esta Ley, el Instituto de Salud para el Bienestar asignará de estos recursos el 8% a la fracción I del artículo 77 bis 29, el 2% a la fracción II del artículo 77 bis 29, y el 1% a la fracción III del artículo 77 bis 29.
+Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) con cargo a los recursos a que se refiere el artículo 77 bis 12 de esta Ley, canalizará anualmente al Fondo a que hace referencia el Capítulo VI de este Título, el equivalente al 11% de la suma de los recursos señalados en los artículos 77 bis 12 y 77 bis 13 de esta Ley, Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) asignará estos recursos a los conceptos que señalan las fracciones I, II y III del artículo 77 bis 29, previa aprobación del Comité Técnico del Fondo de Salud para el Bienestar.
 
-> <small>(ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 2020)</small>
-
-Cuando el Fondo acumule recursos en un monto superior a dos veces la suma aprobada en el Presupuesto de Egresos de la Federación para el ejercicio fiscal 2020 como aportaciones al Fideicomiso del Fondo de Salud para el Bienestar, el remanente podrá destinarse a fortalecer acciones en materia de salud a través del reintegro de recursos correspondiente a la Tesorería de la Federación o mediante el Fondo de Salud para el Bienestar. Los recursos acumulados en el Fondo seguirán garantizando la atención de enfermedades que provocan gastos catastróficos, la atención de necesidades de infraestructura, el abasto y distribución de medicamentos y otros insumos y el acceso a exámenes clínicos, conforme lo establece el artículo 77 bis 29 de esta Ley.
+Cuando el Fondo acumule recursos en un monto superior a dos veces la suma aprobada en el Presupuesto de Egresos de la Federación para el ejercicio fiscal 2020 como aportaciones al Fideicomiso del Fondo de Salud para el Bienestar, el remanente podrá destinarse a fortalecer acciones en materia de salud a través del reintegro de recursos correspondiente a la Tesorería de la Federación o mediante el Fondo de Salud para el Bienestar. Los recursos acumulados en el Fondo seguirán destinándose al cumplimiento de lo establecido en las fracciones I, II y III del artículo 77 bis 29 de esta Ley.
 
 ###### ARTICULO 77 Bis 18.
 
@@ -2038,11 +2248,9 @@ Será causa de responsabilidad administrativa el incumplimiento en tiempo y form
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO VII
+### CAPITULO IV. Del Fondo de Aportaciones para los Servicios de Salud a la Comunidad
 
-De la transparencia, supervisión, control y fiscalización del manejo de los recursos destinados a la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados para las personas sin seguridad social
-
-> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 77 Bis 20.
 
@@ -2058,7 +2266,7 @@ La Secretaría de Salud definirá las variables que serán utilizadas en la fór
 
 > <small>(DEROGADO [N. DE E. CON LOS ARTÍCULOS QUE LO INTEGRAN], D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
 
-### CAPITULO VIII. De los Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR)
+### CAPITULO V. De las Cuotas Familiares
 
 ###### ARTICULO 77 Bis 21.
 
@@ -2094,7 +2302,45 @@ La Secretaría de Salud definirá las variables que serán utilizadas en la fór
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
 
-### CAPITULO IX. Derechos y Obligaciones de los Beneficiarios
+### CAPITULO VI. Del Fondo de Salud para el Bienestar
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE MAYO DE 2023)</small>
+
+ARTICULO 77 bis 29.- El Fondo de Salud para el Bienestar, es un fideicomiso público sin estructura orgánica, constituido en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria en una institución de banca de desarrollo, en el que Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) funge como fideicomitente, y que tiene como fin destinar los recursos que integran su patrimonio a:
+
+> <small>(REFORMADA, D.O.F. 29 DE MAYO DE 2023)</small>
+
+I. La atención de enfermedades que impliquen un alto costo en los tratamientos y medicamentos asociados;
+
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+II. La atención de necesidades de infraestructura y equipamiento, inclusive de acciones de mantenimiento urgente y conservación, preferentemente en las entidades federativas con mayor marginación social, y
+
+> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
+
+III. Complementar los recursos destinados al abasto y distribución de medicamentos y demás insumos, así como del acceso a exámenes clínicos, asociados a personas sin seguridad social.
+
+> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2023)</small>
+
+Asimismo, formarán parte del patrimonio del Fideicomiso los recursos que reciba en términos del artículo 77 bis 16 A de esta Ley, los cuales se destinarán en términos de lo que se establezca en los convenios de coordinación referidos en ese artículo. Estos recursos y sus rendimientos financieros no formarán parte del remanente a que se refiere el artículo 77 bis 17, por lo que deberán permanecer afectos al Fideicomiso hasta el cumplimiento de sus fines.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
+
+Para efectos de lo anterior y mayor transparencia de los recursos, el Fideicomiso contará con una subcuenta para cada uno de los fines señalados.
+
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+Para efectos de este Título, se considerará alto costo al que se deriva de aquellos tratamientos y medicamentos asociados, definidos por el Consejo de Salubridad General, que satisfagan las necesidades de salud mediante la combinación de intervenciones de tipo preventivo, diagnóstico, terapéutico, paliativo y de rehabilitación, con criterios explícitos de carácter clínico y epidemiológico, seleccionadas con base en su seguridad, eficacia, pago, efectividad, adherencia a normas éticas profesionales y aceptabilidad social, en virtud de su grado de complejidad o especialidad y el nivel o frecuencia con la que ocurren.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 2023)</small>
+
+Para efectos de la fracción I del presente artículo, la subcuenta de atención de enfermedades que impliquen un alto costo en los tratamientos y medicamentos asociados deberán ser determinadas en las reglas de operación del Fondo en virtud de su grado de complejidad o especialidad y el nivel o frecuencia con la que ocurren.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
+
+Las reglas de operación del Fondo serán emitidas previa opinión de la Secretaría de Hacienda y Crédito Público, y establecerán la forma en que se ejercerán los recursos del mismo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 77 Bis 30.
 
@@ -2108,17 +2354,19 @@ Para la determinación a que se refiere el párrafo anterior, la Secretaría de 
 
 Los centros regionales y demás prestadores públicos de servicios de salud de alta especialidad podrán recibir recursos del fondo a que se refiere este Capítulo para el fortalecimiento de su infraestructura, de conformidad con los lineamientos que establezca la Secretaría de Salud, en los que se incluirán pautas para operar un sistema de compensación y los elementos necesarios que permitan precisar la forma de sufragar las intervenciones que provean los centros regionales.
 
-> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
-Con la finalidad de racionalizar la inversión en infraestructura de salud, considerando tanto obra como equipamiento y garantizar la disponibilidad de recursos para la operación sustentable de los servicios, la Secretaría de Salud emitirá un plan maestro nacional al cual se sujetarán las instituciones públicas de salud que brinden servicios gratuitos de salud, medicamentos y demás insumos para las personas sin seguridad social, cuando la fuente de financiamiento sean recursos federales.
+Con la finalidad de racionalizar la inversión en infraestructura para la prestación de servicios de salud y garantizar la disponibilidad de recursos para la operación sustentable de los servicios, la Secretaría de Salud integrará el Plan Maestro Nacional de Infraestructura en Salud y Equipamiento de Alta Tecnología, que considere tanto obra como equipamiento médico de alta tecnología en términos de lo previsto en el artículo 35 Bis de esta Ley, al cual se sujetarán las instituciones públicas del Sistema Nacional de Salud para garantizar el acceso oportuno a los servicios de salud, independientemente de la fuente de financiamiento.
 
-> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
-No se considerarán elegibles para la participación en los recursos del fondo que se establezca en los términos del presente Capítulo los establecimientos de salud que no cuenten con los documentos de planeación que para el efecto expida la Secretaría de Salud, en congruencia con el plan maestro nacional a que se refiere el párrafo anterior.
+No se considerarán elegibles para la participación en los recursos del fondo que se establezca en los términos del presente Capítulo los establecimientos de salud que no guarden congruencia con el Plan Maestro Nacional de Infraestructura en Salud y Equipamiento de Alta Especialidad.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
 
-### CAPITULO X. Suspensión de los servicios gratuitos de salud, medicamentos y demás insumos asociados para las personas sin seguridad social
+### CAPITULO VII
+
+De la transparencia, supervisión, control y fiscalización del manejo de los recursos destinados a la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados para las personas sin seguridad social
 
 > <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
 
@@ -2194,33 +2442,7 @@ Las responsabilidades administrativas, civiles y penales que deriven de afectaci
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE MAYO DE 2023)</small>
 
-### CAPITULO XI. Del Servicio Nacional de Salud Pública
-
-> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 2023)</small>
-
-ARTICULO 77 bis 42.- La Secretaría de Salud a través del Servicio Nacional de Salud Pública realizará acciones que permiten garantizar el derecho a la protección de la salud en su dimensión colectiva o social, con el objeto de promover, proteger, conservar y mejorar, hasta el más alto grado posible, el bienestar físico, mental y social de la población en su conjunto.
-
-> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 2023)</small>
-
-ARTICULO 77 bis 43. Las acciones de salud pública comprenden el desarrollo de políticas públicas; la evaluación y monitoreo del estado de salud de la población; la promoción de la salud, fomento de la participación comunitaria y de la sociedad civil organizada; la identificación, prevención, atención y recuperación de los problemas que afecten la salud de la población en general, y la atención de sus determinantes o causas estructurales.
-
-> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 2023)</small>
-
-ARTICULO 77 bis 44.- La Secretaría de Salud a través del Servicio Nacional de Salud Pública coordinará las acciones referidas en el artículo anterior con las dependencias y entidades de la administración pública federal y local, en el ámbito de sus competencias.
-
-> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 2023)</small>
-
-ARTICULO 77 bis 45.- Ante urgencias epidemiológicas, desastres o riesgos a la salud poblacional, la Secretaría de Salud a través del Servicio Nacional de Salud Pública ejecutará las acciones de salud pública que en su momento dicten las autoridades sanitarias en su respectivo ámbito de competencia, en términos de las disposiciones que emita la Secretaría de Salud.
-
-> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 2023)</small>
-
-ARTICULO 77 bis 46.- Para el cumplimiento de sus funciones, el Servicio Nacional de Salud Pública operará de manera conjunta y en un esquema cooperativo con las autoridades sanitarias locales, de acuerdo a la estructura operativa de las entidades federativas. Esta coordinación se realizará en tres niveles al interior de cada entidad federativa:
-
-I. Coordinación estratégica. Se realiza con la persona titular de la Secretaría de Salud estatal y las personas representantes de las distintas instituciones prestadoras de servicios de atención médica en la entidad federativa;
-
-II. Coordinación táctica. Se lleva a cabo a nivel del Distrito de Salud para el Bienestar y considera a todos los actores involucrados en este nivel funcional, y
-
-III. Operación territorial. La realización de acciones a implementar y desplegar en las comunidades según las estrategias y tácticas definidas.
+### CAPITULO VIII. De los Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR)
 
 ###### ARTICULO 77 Bis 33.
 
@@ -2286,9 +2508,9 @@ X. (DEROGADA, D.O.F. 29 DE MAYO DE 2023)
 
 XI. Formular y mantener actualizada la plantilla ocupada de los trabajadores que participan en la prestación de los servicios a que se refiere el presente Título, y operar, conforme a lo que se establezca en las disposiciones reglamentarias, un sistema de administración de nómina, en el cual se deberá identificar al menos el tipo, nivel, clave de la plaza y del centro de trabajo correspondiente. El sistema de administración de nómina deberá observar los criterios de control presupuestario de servicios personales, así como los principios de transparencia, publicidad y de rendición de cuentas;
 
-> <small>(REFORMADA, D.O.F. 29 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-XII. Participar, en los procedimientos de contratación consolidada que instrumente, en su caso, la Secretaría de Salud, en los términos previstos en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y demás disposiciones aplicables, en los que intervengan las dependencias y entidades de la Administración Pública Federal que presten servicios de salud, así como las correspondientes a las entidades federativas que ejerzan recursos federales para dicho fin, que tengan por objeto la adquisición y distribución de los medicamentos y demás insumos asociados para la salud que se requieran para la prestación de los referidos servicios, con la finalidad de garantizar el abasto de los mismos;
+XII. Participar, en los procedimientos de contratación consolidada que la Secretaría de Salud planee y que tengan por objeto la adquisición y distribución de los medicamentos, equipo médico de alta tecnología que dicha Secretaría haya determinado y demás insumos para la salud en los que intervengan las dependencias y entidades de la Administración Pública Federal que presten servicios de salud, de conformidad con la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y demás disposiciones aplicables;
 
 > <small>(REFORMADA, D.O.F. 29 DE MAYO DE 2023)</small>
 
@@ -2334,7 +2556,7 @@ ARTICULO 77 Bis 35 J.- (DEROGADO, D.O.F. 29 DE MAYO DE 2023)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO I. Profesionales, Técnicos y Auxiliares
+### CAPITULO IX. Derechos y Obligaciones de los Beneficiarios
 
 ###### ARTICULO 77 Bis 36.
 
@@ -2458,7 +2680,9 @@ XI. Proporcionar de manera fidedigna la información necesaria para documentar s
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
 
-### CAPITULO II. Servicio Social de Pasantes y Profesionales
+### CAPITULO X. Suspensión de los servicios gratuitos de salud, medicamentos y demás insumos asociados para las personas sin seguridad social
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 77 Bis 39.
 
@@ -2492,11 +2716,37 @@ ARTICULO 77 bis 41.- Para fortalecer la cobertura en favor de las personas benef
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 29 DE MAYO DE 2023)</small>
 
-### CAPITULO III. Formación, Capacitación y Actualización del Personal
+### CAPITULO XI. Del Servicio Nacional de Salud Pública
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 2023)</small>
+
+ARTICULO 77 bis 42.- La Secretaría de Salud a través del Servicio Nacional de Salud Pública realizará acciones que permiten garantizar el derecho a la protección de la salud en su dimensión colectiva o social, con el objeto de promover, proteger, conservar y mejorar, hasta el más alto grado posible, el bienestar físico, mental y social de la población en su conjunto.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 2023)</small>
+
+ARTICULO 77 bis 43. Las acciones de salud pública comprenden el desarrollo de políticas públicas; la evaluación y monitoreo del estado de salud de la población; la promoción de la salud, fomento de la participación comunitaria y de la sociedad civil organizada; la identificación, prevención, atención y recuperación de los problemas que afecten la salud de la población en general, y la atención de sus determinantes o causas estructurales.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 2023)</small>
+
+ARTICULO 77 bis 44.- La Secretaría de Salud a través del Servicio Nacional de Salud Pública coordinará las acciones referidas en el artículo anterior con las dependencias y entidades de la administración pública federal y local, en el ámbito de sus competencias.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 2023)</small>
+
+ARTICULO 77 bis 45.- Ante urgencias epidemiológicas, desastres o riesgos a la salud poblacional, la Secretaría de Salud a través del Servicio Nacional de Salud Pública ejecutará las acciones de salud pública que en su momento dicten las autoridades sanitarias en su respectivo ámbito de competencia, en términos de las disposiciones que emita la Secretaría de Salud.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 2023)</small>
+
+ARTICULO 77 bis 46.- Para el cumplimiento de sus funciones, el Servicio Nacional de Salud Pública operará de manera conjunta y en un esquema cooperativo con las autoridades sanitarias locales, de acuerdo a la estructura operativa de las entidades federativas. Esta coordinación se realizará en tres niveles al interior de cada entidad federativa:
+
+I. Coordinación estratégica. Se realiza con la persona titular de la Secretaría de Salud estatal y las personas representantes de las distintas instituciones prestadoras de servicios de atención médica en la entidad federativa;
+
+II. Coordinación táctica. Se lleva a cabo a nivel del Distrito de Salud para el Bienestar y considera a todos los actores involucrados en este nivel funcional, y
+
+III. Operación territorial. La realización de acciones a implementar y desplegar en las comunidades según las estrategias y tácticas definidas.
 
 ## TITULO CUARTO. Recursos Humanos para los Servicios de Salud
 
-### CAPITULO UNICO
+### CAPITULO I. Profesionales, Técnicos y Auxiliares
 
 ###### ARTICULO 78.
 
@@ -2552,9 +2802,7 @@ Las autoridades educativas competentes proporcionarán a las autoridades sanitar
 
 Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades médicas, deberán poner a la vista del público un anuncio que indique la institución que les expidió el Título, Diploma, número de su correspondiente cédula profesional y, en su caso, el Certificado de Especialidad vigente. Iguales menciones deberán consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen al respecto.
 
-### CAPITULO UNICO
-
-> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+### CAPITULO II. Servicio Social de Pasantes y Profesionales
 
 ###### ARTICULO 84.
 
@@ -2580,9 +2828,7 @@ La prestación del servicio social de los pasantes de las profesiones para la sa
 
 La Secretaría de Salud y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, con la participación de las instituciones de educación superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+### CAPITULO III. Formación, Capacitación y Actualización del Personal
 
 ###### ARTICULO 89.
 
@@ -2644,7 +2890,7 @@ La operación de los programas correspondientes en los establecimientos de salud
 
 ## TITULO QUINTO. Investigación para la Salud
 
-### CAPITULO I. Disposiciones comunes
+### CAPITULO UNICO
 
 ###### ARTICULO 96.
 
@@ -2670,19 +2916,19 @@ La Secretaría de Educación Pública, en coordinación con la Secretaría de Sa
 
 La Secretaría de Salud y los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias, apoyarán y estimularán el funcionamiento de establecimientos públicos destinados a la investigación para la salud.
 
-> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### ARTICULO 98.
 
-En las instituciones de salud, bajo la responsabilidad de los directores o titulares respectivos y de conformidad con las disposiciones aplicables, se constituirán:
+Las personas titulares de las direcciones de los hospitales e instituciones de salud son responsables, de conformidad con las disposiciones legales aplicables, de constituir, de acuerdo con su grado de complejidad y nivel de resolución, los siguientes comités:
 
-I. Un Comité de Investigación;
+I. Un Comité de Ética e Investigación, que cumpla con lo establecido en el artículo 41 Bis de la presente Ley, y
 
-II. En el caso de que se realicen investigaciones en seres humanos, un Comité de Ética en Investigación, que cumpla con lo establecido en el artículo 41 Bis de la presente Ley, y
-
-III. Un Comité de Bioseguridad, encargado de determinar y normar al interior del establecimiento el uso de radiaciones ionizantes o de técnicas de ingeniería genética, con base en las disposiciones jurídicas aplicables.
+II. Un Comité de Bioseguridad a que se refiere el artículo 41 Bis, fracción III, de la presente Ley.
 
 El Consejo de Salubridad General emitirá las disposiciones complementarias sobre áreas o modalidades de la investigación en las que considere que es necesario.
+
+Las instituciones de educación superior y centros públicos de investigación, así como instituciones de salud que cuenten con servicios de atención primaria de la salud y salud pública, que realicen investigaciones para la salud podrán integrar y acreditar un Comité de Ética e Investigación ante la Comisión Nacional de Bioética, de conformidad con el artículo 41 Bis de esta Ley y demás disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -2766,7 +3012,9 @@ En el tratamiento de una persona enferma, el médico podrá utilizar recursos te
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
 
-### CAPITULO II. Educación para la salud
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 103 Bis.
 
@@ -2820,13 +3068,13 @@ Quien infrinja los preceptos de este Capítulo, se hará acreedor a las sancione
 
 ## TITULO SEXTO. Información para la Salud
 
-### CAPITULO III. Nutrición
+### CAPITULO UNICO
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### ARTICULO 104.
 
-La Secretaría de Salud y los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias, y de conformidad con la Ley del Sistema Nacional de Información Estadística y Geográfica, captarán, producirán y procesarán la información necesaria para el proceso de planeación, programación, presupuestación y control del Sistema Nacional de Salud, así como sobre el estado y evolución de la salud pública.
+La Secretaría de Salud y los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias, y en términos de las disposiciones jurídicas aplicables, captarán, producirán y procesarán la información necesaria para el proceso de planeación, programación, presupuestación y control del Sistema Nacional de Salud, así como sobre el estado y evolución de la salud pública.
 
 La información se referirá, fundamentalmente, a los siguientes aspectos:
 
@@ -2838,11 +3086,11 @@ II.- Factores demográficos, económicos, sociales y ambientales vinculados a la
 
 III.- Recursos físicos, humanos y financieros disponibles para la protección de la salud de la población, y su utilización.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### ARTICULO 105.
 
-En coordinación con la Secretaría de Hacienda y Crédito Público y de conformidad con las bases, normas y principios que ésta fije, la Secretaría de Salud integrará la información a que se refiere el artículo anterior, para elaborar las estadísticas nacionales en salud que contribuyan a la consolidación de un sistema nacional de información en salud.
+La Secretaría de Salud integrará la información a que se refiere el artículo 104 de la presente Ley, para elaborar las estadísticas nacionales en salud que contribuyan a la consolidación de un Sistema Nacional de Información en Salud, para la generación de productos de inteligencia en salud y que sirvan de insumo para mejorar la atención médica, la gestión de los servicios de salud y la toma de decisiones en salud pública, así como para la orientación y creación de políticas públicas en salud.
 
 > <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
 
@@ -2856,11 +3104,9 @@ Las dependencias y entidades de la Administración Pública Federal, los gobiern
 
 Los establecimientos que presten servicios de salud, los profesionales, técnicos y auxiliares de la salud, así como los establecimientos dedicados al proceso, uso, aplicación o disposición final de los productos o que realicen las actividades a que se refieren los títulos décimo segundo y décimo cuarto de esta ley, llevarán las estadísticas que les señale la Secretaría de Salud y proporcionarán a ésta y a los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, la información correspondiente, sin perjuicio de las obligaciones de suministrar la información que les señalen otras disposiciones legales.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
-
 ###### ARTICULO 108.
 
-La Secretaría de Salud orientará la capacitación, producción, procesamiento, sistematización y divulgación de la información para la salud, con sujeción a los criterios generales que establezca la Secretaría de Hacienda y Crédito Público, a los cuales deberán ajustarse las dependencias y entidades del sector público y las personas físicas y morales de los sectores social y privado.
+(DEROGADO, D.O.F. 15 DE ENERO DE 2026)
 
 > <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
@@ -2876,7 +3122,7 @@ Corresponde a la Secretaría de Salud emitir la normatividad a que deberán suje
 
 ## TITULO SEPTIMO. Promoción de la Salud
 
-### CAPITULO IV. Efectos del ambiente en la salud
+### CAPITULO I. Disposiciones comunes
 
 ###### ARTICULO 110.
 
@@ -2904,7 +3150,7 @@ IV.- Salud ocupacional, y
 
 V.- Fomento sanitario.
 
-### CAPITULO V. Salud ocupacional
+### CAPITULO II. Educación para la salud
 
 ###### ARTICULO 112.
 
@@ -2928,9 +3174,9 @@ La Secretaría de Salud, en coordinación con la Secretaría de Educación Públ
 
 Tratándose de las comunidades indígenas, los programas a los que se refiere el párrafo anterior, deberán difundirse en español y la lengua o lenguas indígenas que correspondan.
 
-### CAPITULO I. Disposiciones comunes
+### CAPITULO III. Nutrición
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 114.
 
@@ -2988,9 +3234,7 @@ X.- Difundir en los entornos familiar, escolar, laboral y comunitario la aliment
 
 XI.- Expedir, en coordinación con la Secretaría de Educación Pública, los lineamientos generales para el expendio y distribución de alimentos y bebidas preparadas y procesadas en las escuelas del Sistema Educativo Nacional, a fin de eliminar dentro de estos centros escolares el consumo y expendio de aquellos que no cumplan con los criterios nutrimentales que al efecto determine la Secretaría de Salud y, en consecuencia, no favorezcan la salud de los educandos y la pongan en riesgo.
 
-### CAPITULO II. Enfermedades transmisibles
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+### CAPITULO IV. Efectos del ambiente en la salud
 
 ###### ARTICULO 116.
 
@@ -3114,93 +3358,7 @@ La Secretaría de Salud y las autoridades federales, estatales y municipales en 
 
 Sin perjuicio de lo que establecen la Ley Federal del Trabajo y sus reglamentos, en relación con labores peligrosas e insalubres, el cuerpo humano sólo podrá ser expuesto a radiaciones dentro de los máximos permisibles que establezca la Secretaría de Salud, incluyendo sus aplicaciones para la investigación médica y de diagnóstico y terapéutica.
 
-### CAPITULO II BIS. Vacunación
-
-> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
-
-ARTICULO 157 BIS 1.- Toda persona residente en el territorio nacional tiene derecho a recibir de manera universal y gratuita en cualquiera de las dependencias y entidades de la Administración Pública, tanto federal como local, del Sistema Nacional de Salud, las vacunas contenidas en el Programa de Vacunación Universal, de conformidad con esta Ley, independientemente del régimen de seguridad social o protección social al que pertenezca.
-
-Las personas que ejerzan la patria potestad, tutela, guarda o, en términos generales, sean responsables de menores o incapaces, estarán obligados a tomar todas las medidas necesarias para que éstos reciban las vacunas contenidas en el Programa de Vacunación Universal.
-
-> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
-
-ARTICULO 157 BIS 2.- Las dependencias y entidades de la Administración Pública, tanto federal como local, que forman parte del Sistema Nacional de Salud, deberán instrumentar mecanismos necesarios para garantizar la vacunación de las personas que forman parte de los grupos de población cautiva.
-
-Para efectos de esta Ley, por grupo de población cautiva se entiende al conjunto de personas que se encuentran bajo custodia en instituciones del Estado cuyo servicio es de cuidado, capacitación, control o que comparten de manera, tanto temporal como permanente, un área geográfica específica.
-
-Los responsables de las instituciones a que se refiere este artículo darán todas las facilidades y colaborarán en el desarrollo de las actividades de vacunación y control de las enfermedades prevenibles por vacunación.
-
-> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
-
-ARTICULO 157 BIS 3.- Las dependencias y entidades de la Administración Pública, tanto federal como local, y las personas físicas o morales de los sectores social y privado que constituyen el Sistema Nacional de Salud, en el ámbito de sus respectivas competencias, y de acuerdo con los lineamientos que al respecto establezca la Secretaría de Salud, deberán llevar a cabo campañas de comunicación permanentes, con el fin de informar a la población en general sobre los beneficios de las vacunas y el riesgo que representa tanto para la persona, como para la comunidad la falta de inmunización oportuna.
-
-> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
-
-ARTICULO 157 BIS 4.- Para efectos de este Capítulo, corresponde a la Secretaría de Salud:
-
-I. Definir, con la opinión del Consejo Nacional de Vacunación, los criterios y procedimientos para lograr el control, la eliminación o la erradicación de enfermedades prevenibles por vacunación;
-
-II. Emitir normas oficiales mexicanas relativas a la prestación de los servicios de vacunación, aplicación, manejo y conservación de las vacunas que se apliquen en territorio nacional;
-
-III. Dirigir el Programa de Vacunación Universal y coordinar las campañas y operativos de vacunación, tanto ordinarios como extraordinarios;
-
-IV. Implementar y coordinar el sistema de información en materia de vacunación y definir los lineamientos para su operación;
-
-V. Vigilar y evaluar las actividades de vacunación en todo el territorio nacional y aplicar las medidas necesarias para su adecuado desarrollo, y
-
-VI. Las demás que le señalen esta Ley y otras disposiciones jurídicas aplicables.
-
-> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
-
-ARTICULO 157 BIS 5.- En el Programa de Vacunación Universal se integrarán aquellas vacunas que determine la Secretaría de Salud, con la opinión del Consejo Nacional de Vacunación.
-
-> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
-
-ARTICULO 157 BIS 6.- Las dependencias y entidades de la Administración Pública, tanto federal como local, deberán participar con recursos humanos, materiales y financieros suficientes para la atención de los operativos y campañas de vacunación, tanto ordinarias como extraordinarias, cuando alguna de las autoridades sanitarias del país así lo requiera.
-
-> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
-
-ARTICULO 157 BIS 7.- El Consejo se regirá por las disposiciones contenidas en esta Ley, su reglamento interno y demás normativa aplicable, basando su actuación en la evidencia científica, así como en los criterios de racionalidad y objetividad.
-
-> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
-
-ARTICULO 157 BIS 8.- Las vacunas deberán ser aplicadas por personal de salud capacitado para tal efecto.
-
-> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
-
-ARTICULO 157 BIS 9.- La Cartilla Nacional de Vacunación es un documento gratuito, único, individual e intransferible, a través del cual se lleva el registro y el control de las vacunas que sean aplicadas a las personas.
-
-La Secretaría de Salud determinará las características y el formato único de la Cartilla Nacional de Vacunación, misma que deberá ser utilizada en todos los establecimientos de salud de los sectores público, social y privado, en todo el territorio nacional.
-
-> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
-
-ARTICULO 157 BIS 10.- Los establecimientos y el personal de salud de los sectores público, social y privado deberán registrar y notificar a la Secretaría de Salud la presencia de casos de enfermedades prevenibles por vacunación y eventos supuestamente atribuibles a dicha inmunización, de conformidad con lo que señale esta Ley y demás disposiciones aplicables.
-
-> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
-
-ARTICULO 157 BIS 11.- Todas las vacunas e insumos para su aplicación en seres humanos, que se utilicen en el país deberán ser de la mayor calidad disponible y cumplir con los requisitos sanitarios necesarios establecidos en esta Ley y las demás disposiciones jurídicas aplicables, a efecto de salvaguardar la seguridad en la administración de las vacunas.
-
-Los procedimientos para la autorización del registro, importación y liberación de vacunas serán considerados como prioritarios en razón de su importancia para la salud pública y la seguridad nacional. En casos de emergencia, dichos procedimientos se atenderán de manera inmediata.
-
-> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
-
-ARTICULO 157 BIS 12.- El Estado mexicano procurará el abasto y la distribución oportuna y gratuita, así como la disponibilidad de los insumos necesarios para las acciones de vacunación.
-
-> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
-
-ARTICULO 157 BIS 13.- Con base en lo establecido en el artículo anterior, la Cámara de Diputados asignará en cada ejercicio fiscal, los recursos presupuestarios suficientes para ese fin.
-
-> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
-
-ARTICULO 157 BIS 14.- La operación del Programa de Vacunación Universal en el ámbito local, corresponde a los gobiernos de las entidades federativas, quienes deberán contar con los recursos físicos, materiales y humanos necesarios.
-
-> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
-
-ARTICULO 157 BIS 15.- La Secretaría de Salud supervisará el cumplimiento de los indicadores de desempeño del Programa de Vacunación Universal que servirán como elemento para la vigilancia del uso eficiente de los recursos que se destinen a las acciones de inmunización.
-
-> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
-
-ARTICULO 157 BIS 16.- La Secretaría de Salud promoverá la investigación, desarrollo y producción de vacunas en el territorio nacional, en coordinación con las instancias competentes.
+### CAPITULO V. Salud ocupacional
 
 ###### ARTICULO 128.
 
@@ -3242,9 +3400,9 @@ Para los efectos de esta ley se consideran bajo la denominación de establecimie
 
 ## TITULO OCTAVO. Prevención y Control de Enfermedades y Accidentes
 
-### CAPITULO III. Enfermedades no transmisibles
+### CAPITULO I. Disposiciones comunes
 
-> <small>(REFORMADO, D.O.F. 29 DE MARZO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 133.
 
@@ -3260,9 +3418,9 @@ III.- Realizar los programas y actividades que estime necesario para la prevenci
 
 IV.- Promover la colaboración de las instituciones de los sectores público, social y privado, así como de los profesionales, técnicos y auxiliares para la salud y de la población en general, para el óptimo desarrollo de los programas y actividades a que se refieren las fracciones II y III.
 
-### CAPÍTULO III BIS. Del Registro Nacional de Cáncer
+### CAPITULO II. Enfermedades transmisibles
 
-> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 134.
 
@@ -3468,11 +3626,97 @@ ARTICULO 157 BIS.- La Secretaría de Salud y los gobiernos de las entidades fede
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 19 DE JUNIO DE 2017)</small>
 
-### CAPITULO IV. Accidentes
+### CAPITULO II BIS. Vacunación
 
-### CAPÍTULO I. Disposiciones Comunes
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
 
-> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
+ARTICULO 157 BIS 1.- Toda persona residente en el territorio nacional tiene derecho a recibir de manera universal y gratuita en cualquiera de las dependencias y entidades de la Administración Pública, tanto federal como local, del Sistema Nacional de Salud, las vacunas contenidas en el Programa de Vacunación Universal, de conformidad con esta Ley, independientemente del régimen de seguridad social o protección social al que pertenezca.
+
+Las personas que ejerzan la patria potestad, tutela, guarda o, en términos generales, sean responsables de menores o incapaces, estarán obligados a tomar todas las medidas necesarias para que éstos reciban las vacunas contenidas en el Programa de Vacunación Universal.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+ARTICULO 157 BIS 2.- Las dependencias y entidades de la Administración Pública, tanto federal como local, que forman parte del Sistema Nacional de Salud, deberán instrumentar mecanismos necesarios para garantizar la vacunación de las personas que forman parte de los grupos de población cautiva.
+
+Para efectos de esta Ley, por grupo de población cautiva se entiende al conjunto de personas que se encuentran bajo custodia en instituciones del Estado cuyo servicio es de cuidado, capacitación, control o que comparten de manera, tanto temporal como permanente, un área geográfica específica.
+
+Los responsables de las instituciones a que se refiere este artículo darán todas las facilidades y colaborarán en el desarrollo de las actividades de vacunación y control de las enfermedades prevenibles por vacunación.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+ARTICULO 157 BIS 3.- Las dependencias y entidades de la Administración Pública, tanto federal como local, y las personas físicas o morales de los sectores social y privado que constituyen el Sistema Nacional de Salud, en el ámbito de sus respectivas competencias, y de acuerdo con los lineamientos que al respecto establezca la Secretaría de Salud, deberán llevar a cabo campañas de comunicación permanentes, con el fin de informar a la población en general sobre los beneficios de las vacunas y el riesgo que representa tanto para la persona, como para la comunidad la falta de inmunización oportuna.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+ARTICULO 157 BIS 4.- Para efectos de este Capítulo, corresponde a la Secretaría de Salud:
+
+I. Definir, con la opinión del Consejo Nacional de Vacunación, los criterios y procedimientos para lograr el control, la eliminación o la erradicación de enfermedades prevenibles por vacunación;
+
+II. Emitir normas oficiales mexicanas relativas a la prestación de los servicios de vacunación, aplicación, manejo y conservación de las vacunas que se apliquen en territorio nacional;
+
+III. Dirigir el Programa de Vacunación Universal y coordinar las campañas y operativos de vacunación, tanto ordinarios como extraordinarios;
+
+IV. Implementar y coordinar el sistema de información en materia de vacunación y definir los lineamientos para su operación;
+
+V. Vigilar y evaluar las actividades de vacunación en todo el territorio nacional y aplicar las medidas necesarias para su adecuado desarrollo, y
+
+VI. Las demás que le señalen esta Ley y otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+ARTICULO 157 BIS 5.- En el Programa de Vacunación Universal se integrarán aquellas vacunas que determine la Secretaría de Salud, con la opinión del Consejo Nacional de Vacunación.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+ARTICULO 157 BIS 6.- Las dependencias y entidades de la Administración Pública, tanto federal como local, deberán participar con recursos humanos, materiales y financieros suficientes para la atención de los operativos y campañas de vacunación, tanto ordinarias como extraordinarias, cuando alguna de las autoridades sanitarias del país así lo requiera.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+ARTICULO 157 BIS 7.- El Consejo se regirá por las disposiciones contenidas en esta Ley, su reglamento interno y demás normativa aplicable, basando su actuación en la evidencia científica, así como en los criterios de racionalidad y objetividad.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+ARTICULO 157 BIS 8.- Las vacunas deberán ser aplicadas por personal de salud capacitado para tal efecto.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+ARTICULO 157 BIS 9.- La Cartilla Nacional de Vacunación es un documento gratuito, único, individual e intransferible, a través del cual se lleva el registro y el control de las vacunas que sean aplicadas a las personas.
+
+La Secretaría de Salud determinará las características y el formato único de la Cartilla Nacional de Vacunación, misma que deberá ser utilizada en todos los establecimientos de salud de los sectores público, social y privado, en todo el territorio nacional.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+ARTICULO 157 BIS 10.- Los establecimientos y el personal de salud de los sectores público, social y privado deberán registrar y notificar a la Secretaría de Salud la presencia de casos de enfermedades prevenibles por vacunación y eventos supuestamente atribuibles a dicha inmunización, de conformidad con lo que señale esta Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+ARTICULO 157 BIS 11.- Todas las vacunas e insumos para su aplicación en seres humanos, que se utilicen en el país deberán ser de la mayor calidad disponible y cumplir con los requisitos sanitarios necesarios establecidos en esta Ley y las demás disposiciones jurídicas aplicables, a efecto de salvaguardar la seguridad en la administración de las vacunas.
+
+Los procedimientos para la autorización del registro, importación y liberación de vacunas serán considerados como prioritarios en razón de su importancia para la salud pública y la seguridad nacional. En casos de emergencia, dichos procedimientos se atenderán de manera inmediata.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+ARTICULO 157 BIS 12.- El Estado mexicano procurará el abasto y la distribución oportuna y gratuita, así como la disponibilidad de los insumos necesarios para las acciones de vacunación.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+ARTICULO 157 BIS 13.- Con base en lo establecido en el artículo anterior, la Cámara de Diputados asignará en cada ejercicio fiscal, los recursos presupuestarios suficientes para ese fin.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+ARTICULO 157 BIS 14.- La operación del Programa de Vacunación Universal en el ámbito local, corresponde a los gobiernos de las entidades federativas, quienes deberán contar con los recursos físicos, materiales y humanos necesarios.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+ARTICULO 157 BIS 15.- La Secretaría de Salud supervisará el cumplimiento de los indicadores de desempeño del Programa de Vacunación Universal que servirán como elemento para la vigilancia del uso eficiente de los recursos que se destinen a las acciones de inmunización.
+
+> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2017)</small>
+
+ARTICULO 157 BIS 16.- La Secretaría de Salud promoverá la investigación, desarrollo y producción de vacunas en el territorio nacional, en coordinación con las instancias competentes.
+
+### CAPITULO III. Enfermedades no transmisibles
+
+> <small>(REFORMADO, D.O.F. 29 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 158.
 
@@ -3526,9 +3770,9 @@ Los profesionales, técnicos y auxiliares de la salud deberán rendir los inform
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 22 DE JUNIO DE 2017)</small>
 
-### CAPÍTULO II. De los Derechos de los Enfermos en Situación Terminal
+### CAPÍTULO III BIS. Del Registro Nacional de Cáncer
 
-> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2017)</small>
 
 ###### Artículo 161 Bis.
 
@@ -3554,9 +3798,7 @@ VI. El Registro contará adicionalmente, con un rubro específico para la inform
 
 La Secretaría integrará la información demográfica del Registro Nacional de Cáncer de todo el territorio nacional dividido en regiones norte, centro y sur.
 
-### CAPÍTULO III. De las Facultades y Obligaciones de las Instituciones de Salud
-
-> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
+### CAPITULO IV. Accidentes
 
 ###### ARTICULO 162.
 
@@ -3610,7 +3852,7 @@ Los servicios de salud que proporcionen las instituciones de seguridad social co
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
 
-### CAPÍTULO IV. De los Derechos, Facultades y Obligaciones de los Médicos y Personal Sanitario
+### CAPÍTULO I. Disposiciones Comunes
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
 
@@ -3662,7 +3904,9 @@ Corresponde al Sistema Nacional de Salud garantizar el pleno, libre e informado 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
 
-### CAPITULO UNICO
+### CAPÍTULO II. De los Derechos de los Enfermos en Situación Terminal
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 166 Bis 3.
 
@@ -3752,9 +3996,9 @@ Todos los documentos a que se refiere este título se regirán de acuerdo a lo q
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
 
-### CAPITULO UNICO
+### CAPÍTULO III. De las Facultades y Obligaciones de las Instituciones de Salud
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 166 Bis 13.
 
@@ -3774,7 +4018,9 @@ VI.- Garantizarán la capacitación y actualización permanente de los recursos 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
 
-### CAPITULO I. Consejo Nacional Contra las Adicciones
+### CAPÍTULO IV. De los Derechos, Facultades y Obligaciones de los Médicos y Personal Sanitario
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 166 Bis 14.
 
@@ -3852,11 +4098,7 @@ Queda prohibida, la práctica de la eutanasia, entendida como homicidio por pied
 
 ## TITULO NOVENO. Asistencia Social, Prevención de la Discapacidad y Rehabilitación de las Personas con Discapacidad
 
-### CAPÍTULO II
-
-Programa para la Prevención, Reducción y Tratamiento del uso nocivo del Alcohol, la Atención del Alcoholismo y la Prevención de Enfermedades derivadas del mismo
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ABRIL DE 2015)</small>
+### CAPITULO UNICO
 
 ###### ARTICULO 167.
 
@@ -3984,35 +4226,9 @@ La Secretaría de Salud y los gobiernos de las entidades federativas, en coordin
 
 ## TITULO DECIMO. Acción Extraordinaria en Materia de Salubridad General
 
-### CAPÍTULO II BIS. Protección de la Salud de Terceros y de la Sociedad frente al Uso Nocivo del Alcohol
+### CAPITULO UNICO
 
-> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2015)</small>
-
-ARTICULO 187 BIS. Son facultades de la Secretaría de Salud en el marco de la protección de la salud de terceros y de la sociedad frente al uso nocivo del alcohol:
-
-I. Establecer los límites de alcohol en sangre y en aire expirado para conducir vehículos automotores, los cuales deberán ser tomados en cuenta por las autoridades federales y por las de las entidades federativas, en sus respectivos ámbitos de competencia. Tratándose de vehículos que presten un servicio público, personas que hagan uso de mecanismos, instrumentos, aparatos o substancias peligrosas por sí mismos, por la velocidad que desarrollen, por su naturaleza explosiva o inflamable, por la energía de la corriente eléctrica que conduzcan o por otras causas análogas, así como los profesionales, técnicos y auxiliares de la salud que participen en la atención médico-quirúrgica de un usuario, los límites de alcohol en sangre y aire expirado serán cero;
-
-II. Promover la participación de la sociedad civil en la ejecución del programa para la prevención, reducción y tratamiento del uso nocivo del alcohol, la atención del alcoholismo y la prevención de enfermedades derivadas del mismo, con base en las disposiciones que para tales efectos establezca la Secretaría de Salud;
-
-III. Proponer al Ejecutivo Federal las políticas públicas y fiscales para la prevención y disminución del uso nocivo del alcohol; y
-
-IV. Promover ante las autoridades competentes federales y de las entidades federativas, la implementación de medidas y acciones que favorezcan la disminución del uso nocivo del alcohol y de los efectos de éste en terceros, tales como:
-
-a) Limitar los horarios para consumo del alcohol, y
-
-b) Otras que sirvan o prevengan los fines a que se refiere este artículo.
-
-> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2015)</small>
-
-ARTICULO 187 BIS 1.- Para el tratamiento de enfermedades derivadas del alcoholismo, las dependencias y entidades de la administración pública en materia de salubridad general, tanto federales como locales, fomentarán la creación de centros especializados en tratamiento, atención y rehabilitación, con base en sistemas modernos de tratamiento y rehabilitación, fundamentados en el respeto a la integridad y a la libre decisión de la persona que padece alguna enfermedad derivada del alcoholismo.
-
-Los centros especializados en tratamiento, atención y rehabilitación deberán:
-
-I. Crear un padrón de instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de alcoholismo, que contenga las características de atención, condiciones y requisitos para acceder a los servicios que ofrecen; y
-
-II. Celebrar convenios de colaboración con instituciones nacionales e internacionales de los sectores social y privado, y con personas físicas que se dediquen a la prevención, tratamiento, atención y reinserción social en materia de alcoholismo, con el fin de que quienes requieran de asistencia, puedan, conforme a sus necesidades, características, posibilidades económicas, acceder a los servicios que todas estas instituciones o personas físicas ofrecen.
-
-La ubicación de los centros, se basará en estudios epidemiológicos de las enfermedades derivadas del alcoholismo en cada región del país.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 181.
 
@@ -4050,7 +4266,7 @@ V.- Las demás que determine la propia Secretaría.
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 16 DE MAYO DE 2022)</small>
 
-### CAPITULO III. Programa Contra el Tabaquismo
+### CAPITULO I. Consejo Nacional Contra las Adicciones
 
 ###### ARTICULO 184 Bis.
 
@@ -4058,9 +4274,11 @@ V.- Las demás que determine la propia Secretaría.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE ABRIL DE 2015)</small>
 
-### CAPITULO IV. Programa Contra la Farmacodependencia
+### CAPÍTULO II
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+Programa para la Prevención, Reducción y Tratamiento del uso nocivo del Alcohol, la Atención del Alcoholismo y la Prevención de Enfermedades derivadas del mismo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ABRIL DE 2015)</small>
 
 ###### ARTÍCULO 185.
 
@@ -4166,11 +4384,37 @@ En el marco del Sistema Nacional de Salud, la Secretaría de Salud coordinará l
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 20 DE ABRIL DE 2015)</small>
 
-### CAPITULO I. Disposiciones Comunes
+### CAPÍTULO II BIS. Protección de la Salud de Terceros y de la Sociedad frente al Uso Nocivo del Alcohol
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2015)</small>
 
-### CAPITULO II. Alimentos y Bebidas no Alcohólicas
+ARTICULO 187 BIS. Son facultades de la Secretaría de Salud en el marco de la protección de la salud de terceros y de la sociedad frente al uso nocivo del alcohol:
+
+I. Establecer los límites de alcohol en sangre y en aire expirado para conducir vehículos automotores, los cuales deberán ser tomados en cuenta por las autoridades federales y por las de las entidades federativas, en sus respectivos ámbitos de competencia. Tratándose de vehículos que presten un servicio público, personas que hagan uso de mecanismos, instrumentos, aparatos o substancias peligrosas por sí mismos, por la velocidad que desarrollen, por su naturaleza explosiva o inflamable, por la energía de la corriente eléctrica que conduzcan o por otras causas análogas, así como los profesionales, técnicos y auxiliares de la salud que participen en la atención médico-quirúrgica de un usuario, los límites de alcohol en sangre y aire expirado serán cero;
+
+II. Promover la participación de la sociedad civil en la ejecución del programa para la prevención, reducción y tratamiento del uso nocivo del alcohol, la atención del alcoholismo y la prevención de enfermedades derivadas del mismo, con base en las disposiciones que para tales efectos establezca la Secretaría de Salud;
+
+III. Proponer al Ejecutivo Federal las políticas públicas y fiscales para la prevención y disminución del uso nocivo del alcohol; y
+
+IV. Promover ante las autoridades competentes federales y de las entidades federativas, la implementación de medidas y acciones que favorezcan la disminución del uso nocivo del alcohol y de los efectos de éste en terceros, tales como:
+
+a) Limitar los horarios para consumo del alcohol, y
+
+b) Otras que sirvan o prevengan los fines a que se refiere este artículo.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2015)</small>
+
+ARTICULO 187 BIS 1.- Para el tratamiento de enfermedades derivadas del alcoholismo, las dependencias y entidades de la administración pública en materia de salubridad general, tanto federales como locales, fomentarán la creación de centros especializados en tratamiento, atención y rehabilitación, con base en sistemas modernos de tratamiento y rehabilitación, fundamentados en el respeto a la integridad y a la libre decisión de la persona que padece alguna enfermedad derivada del alcoholismo.
+
+Los centros especializados en tratamiento, atención y rehabilitación deberán:
+
+I. Crear un padrón de instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de alcoholismo, que contenga las características de atención, condiciones y requisitos para acceder a los servicios que ofrecen; y
+
+II. Celebrar convenios de colaboración con instituciones nacionales e internacionales de los sectores social y privado, y con personas físicas que se dediquen a la prevención, tratamiento, atención y reinserción social en materia de alcoholismo, con el fin de que quienes requieran de asistencia, puedan, conforme a sus necesidades, características, posibilidades económicas, acceder a los servicios que todas estas instituciones o personas físicas ofrecen.
+
+La ubicación de los centros, se basará en estudios epidemiológicos de las enfermedades derivadas del alcoholismo en cada región del país.
+
+### CAPITULO III. Programa Contra el Tabaquismo
 
 ###### ARTICULO 188.
 
@@ -4184,9 +4428,9 @@ En el marco del Sistema Nacional de Salud, la Secretaría de Salud coordinará l
 
 (DEROGADO, D.O.F. 30 DE MAYO DE 2008)
 
-### CAPITULO III. Bebidas Alcohólicas
+### CAPITULO IV. Programa Contra la Farmacodependencia
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 191.
 
@@ -4314,19 +4558,21 @@ Al tercer reporte del Ministerio Público el tratamiento del farmacodependiente 
 
 ## TITULO DECIMO SEGUNDO. Control Sanitario de Productos y Servicios y de su Importación y Exportación
 
-### CAPITULO IV. Medicamentos
+### CAPITULO I. Disposiciones Comunes
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### ARTICULO 194.
 
-Para efectos de este título, se entiende por control sanitario, el conjunto de acciones de orientación, educación, muestreo, verificación y en su caso, aplicación de medidas de seguridad y sanciones, que ejerce la Secretaría de Salud con la participación de los productores, comercializadores y consumidores, en base a lo que establecen las normas oficiales mexicanas y otras disposiciones aplicables.
+Para efectos de este Título, se entiende por control sanitario, el conjunto de acciones de orientación, educación, muestreo, verificación y, en su caso, aplicación de medidas de seguridad y sanciones, que ejerce la Secretaría de Salud con la participación de las personas productoras, comercializadoras y consumidoras, con base en lo que establecen las normas oficiales mexicanas y otras disposiciones aplicables.
 
 > <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
 El ejercicio del control sanitario será aplicable al:
 
-> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-I. Proceso, importación y exportación de alimentos, bebidas no alcohólicas, bebidas alcohólicas, productos cosméticos, productos de aseo, tabaco, así como de las materias primas y, en su caso, aditivos que intervengan en su elaboración;
+I. Proceso, importación y exportación de alimentos, bebidas no alcohólicas, bebidas alcohólicas, suplementos alimenticios, productos cosméticos, productos de aseo, tabaco, así como de las materias primas y, en su caso, aditivos que intervengan en su elaboración o cualquier otro producto de uso o consumo humano que represente un riesgo sanitario para la población;
 
 > <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2023)</small>
 
@@ -4586,9 +4832,7 @@ Los envases y embalajes de los productos a que se refiere este título deberán 
 
 La Secretaría de Salud publicará en el Diario Oficial de la Federación las normas oficiales mexicanas que expida y, en caso necesario, las resoluciones sobre otorgamiento y revocación de autorizaciones sanitarias de medicamentos, estupefacientes, substancias psicotrópicas y productos que los contengan, dispositivos médicos, plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas, así como de las materias primas que se utilicen en su elaboración.
 
-### CAPITULO V. Estupefacientes
-
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
+### CAPITULO II. Alimentos y Bebidas no Alcohólicas
 
 ###### ARTICULO 215.
 
@@ -4636,9 +4880,9 @@ Los alimentos, bebidas no alcohólicas, aceites y grasas no podrán exceder dos 
 
 La Secretaría de Salud establecerá las bases de regulación para los ácidos grasos trans de producción industrial en los términos de este precepto.
 
-### CAPITULO VI. Substancias psicotrópicas
+### CAPITULO III. Bebidas Alcohólicas
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 217.
 
@@ -4666,9 +4910,7 @@ En ningún caso y de ninguna forma se podrán expender o suministrar bebidas alc
 
 La violación a esta disposición será equiparable con el delito de Corrupción de Personas Menores de Dieciocho Años de Edad o de Personas que no tienen Capacidad para comprender el Significado del Hecho o de Personas que no tienen Capacidad para Resistirlo.
 
-### CAPITULO VII. Establecimientos Destinados al Proceso de Medicamentos
-
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+### CAPITULO IV. Medicamentos
 
 ###### ARTICULO 221.
 
@@ -4694,7 +4936,13 @@ V.- Materiales: los insumos necesarios para el envase y empaque de los medicamen
 
 La Secretaría de Salud sólo concederá la autorización correspondiente a los medicamentos, cuando se demuestre que éstos, sus procesos de producción y las sustancias que contengan reúnan las características de seguridad, eficacia y calidad exigidas, que cumple con lo establecido en esta Ley y demás disposiciones generales, y tomará en cuenta, en su caso, lo dispuesto por el artículo 428 de esta Ley.
 
-Para el otorgamiento de registro sanitario a cualquier medicamento, se verificará previamente el cumplimiento de las buenas prácticas de fabricación y del proceso de producción del medicamento así como la certificación de sus principios activos. Las verificaciones se llevarán a cabo por la Secretaría o sus terceros autorizados o, de ser el caso, se dará reconocimiento al certificado respectivo expedido por la autoridad competente del país de origen, siempre y cuando existan acuerdos de reconocimiento en esta materia entre las autoridades competentes de ambos países.
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+Para el otorgamiento de registro sanitario a cualquier medicamento, se verificará previamente el cumplimiento de las buenas prácticas de fabricación y del proceso de producción del medicamento, así como la certificación de sus principios activos. Las verificaciones no podrán realizarse por terceros autorizados y solo podrán ser llevadas a cabo por la Secretaría de Salud. De ser el caso, se dará reconocimiento al certificado respectivo expedido por la autoridad competente del país de origen, siempre y cuando existan acuerdos de reconocimiento en esta materia entre las autoridades competentes de ambos países.
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+Una vez que se otorgue el registro sanitario, se deberá realizar la farmacovigilancia conforme a las disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2009)</small>
 
@@ -4896,11 +5144,9 @@ Los medicamentos de origen biológico de acción inmunológica ostentarán en su
 
 Quedan prohibidos la venta y suministro de medicamentos con fecha de caducidad vencida.
 
-### CAPITULO VIII
+### CAPITULO V. Estupefacientes
 
-Equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### ARTICULO 234.
 
@@ -4910,7 +5156,7 @@ Para los efectos de esta Ley, se consideran estupefacientes:
 
 Los isómeros de los estupefacientes de la lista anterior, a menos que estén expresamente exceptuados.
 
-Cualquier otro producto derivado o preparado que contenga substancias señaladas en la lista anterior, sus precursores químicos y, en general, los de naturaleza análoga y cualquier otra substancia que determine la Secretaría de Salud o el Consejo de Salubridad General. Las listas correspondientes se publicarán en el Diario Oficial de la Federación.
+Cualquier otro producto derivado o preparado que contenga substancias señaladas en la lista anterior, sus precursores químicos y, en general, los de naturaleza análoga y cualquier otra substancia que determine la Secretaría de Salud, a través de la Comisión Federal para la Protección contra Riesgos Sanitarios o el Consejo de Salubridad General. Las listas correspondientes se publicarán en el Diario Oficial de la Federación.
 
 ###### ARTICULO 235.
 
@@ -5020,9 +5266,9 @@ Los citados establecimientos recogerán invariablemente las recetas o permisos, 
 
 Los preparados que contengan acetildihidrocodeína, codeína, destropropoxifeno, dihidrocodeína, etilmorfina, folcodina, nicocodina, corcodeína y propiram, que formen parte de la composición de especialidades farmacéuticas, estarán sujetos, para los fines de su preparación, prescripción y venta o suministro al público, a los requisitos que sobre su formulación establezca la Secretaría de Salud.
 
-### CAPITULO IX. Productos cosméticos
+### CAPITULO VI. Substancias psicotrópicas
 
-> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 244.
 
@@ -5040,41 +5286,55 @@ I. Las que tienen valor terapéutico escaso o nulo y que, por ser susceptibles d
 
 (VÉASE ARCHIVO ANEXO)
 
-Cualquier otro producto, derivado o preparado que contenga las sustancias señaladas en la relación anterior y cuando expresamente lo determine la Secretaría de Salud o el Consejo de Salubridad General, sus precursores químicos y en general los de naturaleza análoga.
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
-> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2017)</small>
+Cualquier otro producto, derivado o preparado que contenga las sustancias señaladas en la relación anterior y cuando expresamente lo determine la Secretaría de Salud, a través de la Comisión Federal para la Protección contra Riesgos Sanitarios o el Consejo de Salubridad General, sus precursores químicos y en general los de naturaleza análoga.
 
-II.- Las que tienen algún valor terapéutico, pero constituyen un problema grave para la salud pública, y que son:
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-AMOBARBITAL
+II. Las que tienen algún valor terapéutico, pero constituyen un problema grave para la salud pública, y que son:
 
-ANFETAMINA
+AMOBARBITAL.
 
-BUTORFANOL
+ANFETAMINA.
 
-CICLOBARBITAL
+BUTORFANOL.
 
-DEXTROANFETAMINA (DEXANFETAMINA)
+CATINA.
 
-FENETILINA
+CICLOBARBITAL.
 
-FENCICLIDINA
+DEXTROANFETAMINA (DEXANFETAMINA).
 
-HEPTABARBITAL
+DIHIDROERGOCRISTINA.
 
-MECLOCUALONA
+FENETILINA.
 
-METACUALONA
+FENCICLIDINA.
 
-METANFETAMINA
+HEPTABARBITAL.
 
-NALBUFINA
+MECLOCUALONA.
 
-PENTOBARBITAL
+METACUALONA.
+
+METANFETAMINA.
+
+NALBUFINA.
+
+NICERGOLINA.
+
+NORPSEUDOEFEDRINA.
+
+PENTOBARBITAL.
+
+PSEUDOEFEDRINA.
 
 SECOBARBITAL.
 
-TETRAHIDROCANNABINOL, las que sean o contengan en concentraciones mayores al 1%, los siguientes isómeros: [N. DE E. VÉASE FÓRMULA EN EL D.O.F. PRIMERA SECCIÓN DE 19 DE JUNIO DE 2017, PÁGINA 57].
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+TETRAHIDROCANNABINOL, (VÉASE ARCHIVO ADJUNTO).
 
 Y sus sales, precursores y derivados químicos.
 
@@ -5190,9 +5450,7 @@ PINAZEPAM
 
 PRAZEPAM
 
-(REUBICADA, D.O.F. 26 DE JULIO DE 1995)
-
-PSEUDOEFEDRINA
+> <small>(DEROGADO CUADRAGÉSIMO QUINTO PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 (REUBICADA, D.O.F. 7 DE ENERO DE 2014)
 
@@ -5222,6 +5480,10 @@ Otros:
 
 ANFEPRAMONA (DIETILPROPION)
 
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+ANFEBUTAMONA (BUPROPIÓN)
+
 > <small>(F. DE E., D.O.F. 18 DE FEBRERO DE 1988)</small>
 
 CARISOPRODOL
@@ -5248,145 +5510,139 @@ MEPROBAMATO
 
 TRIHEXIFENIDILO.
 
-> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2017)</small>
-
-IV.- Las que tienen amplios usos terapéuticos y constituyen un problema menor para la salud pública, y son:
-
-GABOB (ACIDO GAMMA AMINO BETA HIDROXIBUTIRICO)
-
-ALOBARBITAL
-
-AMITRIPTILINA
-
-APROBARBITAL
-
-BARBITAL
-
-BENZOFETAMINA
-
-BENZQUINAMINA
-
-BIPERIDENO
-
-BUSPIRONA
-
-BUTABARBITAL
-
-BUTALBITAL
-
-BUTAPERAZINA
-
-BUTETAL
-
-BUTRIPTILINA
-
-CAFEINA
-
-CARBAMAZEPINA
-
-CARBIDOPA
-
-CARBROMAL
-
-CLORIMIPRAMINA
-
-CLORHIDRATO
-
-CLOROMEZANONA
-
-CLOROPROMAZINA
-
-CLORPROTIXENO
-
-DEANOL
-
-DESIPRAMINA
-
-ECTILUREA
-
-ETINAMATO
-
-FENELCINA
-
-FENFLURAMINA
-
-FENOBARBITAL
-
-FLUFENAZINA
-
-FLUMAZENIL
-
-HALOPERIDOL
-
-HEXOBARBITAL
-
-HIDROXICINA
-
-IMIPRAMINA
-
-ISOCARBOXAZIDA
-
-LEFETAMINA
-
-LEVODOPA
-
-LITIO-CARBONATO
-
-MAPROTILINA
-
-MAZINDOL
-
-MEPAZINA
-
-METILFENOBARBITAL
-
-METILPARAFINOL
-
-METIPRILONA
-
-NALOXONA NOR-PSEUDOEFEDRINA (+) CATINA
-
-NORTRIPTILINA
-
-PARALDEHIDO
-
-PENFLURIDOL
-
-PENTOTAL SODICO
-
-PERFENAZINA
-
-PIPRADROL
-
-PROMAZINA
-
-PROPILHEXEDRINA
-
-SERTRALINA
-
-SULPIRIDE
-
-TETRABENAZINA
-
-TETRAHIDROCANNABINOL, las que sean o contengan en concentraciones iguales o menores al 1%, los siguientes isómeros: [N. DE E. VÉASE FÓRMULA EN EL D.O.F. PRIMERA SECCIÓN DE 19 DE JUNIO DE 2017, PÁGINA 59].
-
-TIALBARBITAL
-
-TIOPENTAL
-
-TIOPROPERAZINA
-
-TIORIDAZINA
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 TRAMADOL
 
-TRAZODONE
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-TRAZOLIDONA
+IV. Las que tienen amplios usos terapéuticos y constituyen un problema menor para la salud pública, y son:
 
-TRIFLUOPERAZINA
+GABOB (ACIDO GAMMA AMINO BETA HIDROXIBUTIRICO).
 
-VALPROICO (ACIDO)
+ACIDO GAMMA HIDROXIBUTIRICO (GHB).
+
+ALOBARBITAL.
+
+AMITRIPTILINA.
+
+APROBARBITAL.
+
+BARBITAL.
+
+BENZOFETAMINA.
+
+BENZQUINAMIDA.
+
+BIPERIDENO.
+
+BUSPIRONA.
+
+BUTABARBITAL.
+
+BUTALBITAL.
+
+BUTAPERAZINA.
+
+BUTETAL.
+
+BUTRIPTILINA.
+
+CARBROMAL.
+
+CLORIMIPRAMINA.
+
+CLOROMEZANONA.
+
+CLOROPROMAZINA.
+
+CLORPROTIXENO.
+
+DEANOL.
+
+DESIPRAMINA.
+
+ECTILUREA.
+
+ETINAMATO.
+
+FENELCINA.
+
+FENFLURAMINA.
+
+FENOBARBITAL.
+
+FLUFENAZINA.
+
+FLUMAZENIL.
+
+GAMMA BUTIROLACTONA (GBL).
+
+HALOPERIDOL.
+
+HEXOBARBITAL.
+
+HIDROXICINA.
+
+IMIPRAMINA.
+
+ISOCARBOXAZIDA.
+
+LEFETAMINA.
+
+LITIO-CARBONATO.
+
+MAPROTILINA.
+
+MAZINDOL.
+
+MEPAZINA.
+
+METILFENOBARBITAL.
+
+METILPARAFINOL.
+
+METIPRILONA.
+
+NALOXONA.
+
+NORTRIPTILINA.
+
+PARALDEHIDO.
+
+PENFLURIDOL.
+
+PENTOTAL SODICO.
+
+PERFENAZINA.
+
+PIPRADROL.
+
+PROMAZINA.
+
+PROPILHEXEDRINA.
+
+SULPIRIDE.
+
+TETRABENAZINA.
+
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+TETRAHIDROCANNABINOL, (VÉASE ARCHIVO ADJUNTO).
+
+TIALBARBITAL.
+
+TIOPENTAL.
+
+TIOPROPERAZINA.
+
+TIORIDAZINA.
+
+TRAZODONE.
+
+TRAZOLIDONA.
+
+TRIFLUOPERAZINA.
 
 VINILBITAL.
 
@@ -5506,9 +5762,9 @@ Los medicamentos que tengan incorporadas substancias psicotrópicas que puedan c
 
 Los envases y empaques de las substancias psicotrópicas, para su expendio llevarán etiquetas que, además de los requisitos que determina el artículo 210 de esta Ley, ostenten los que establezcan las disposiciones aplicables a la materia de este Capítulo.
 
-### CAPITULO IX BIS. Ejercicio especializado de la Cirugía
+### CAPITULO VII. Establecimientos Destinados al Proceso de Medicamentos
 
-> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 257.
 
@@ -5550,11 +5806,13 @@ Los establecimientos a que se refieren las fracciones I, II, IV y XI, del artíc
 
 Los establecimientos a que se refieren las fracciones I, II, IV y XI, del artículo anterior y las relativas a las demás fracciones cuando se dediquen a la obtención, elaboración, fabricación, preparación, conservación, mezclado, acondicionamiento, envasado y manipulación de los productos señalados en la fracción I del artículo 198 de esta Ley, deben poseer y cumplir con lo establecido en la última edición de la Farmacopea de los Estados Unidos Mexicanos y sus suplementos oficiales para productos o actividades específicas, elaborados por la propia Secretaría. Los diversos establecimientos a los contemplados en el presente párrafo únicamente deben poseer y cumplir con lo establecido en los suplementos de la Farmacopea de los Estados Unidos Mexicanos relativos a la venta y suministro de medicamentos.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### ARTICULO 259.
 
-Los establecimientos citados en el artículo 257 de esta ley deberán contar con un responsable de la identidad, pureza y seguridad de los productos.
+Los establecimientos previstos en el artículo 257 de esta Ley deberán contar con una persona responsable de la identidad, pureza, seguridad y llevar a cabo la farmacovigilancia de los productos.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 Los responsables deberán reunir los requisitos establecidos en las disposiciones aplicables y serán designados por los titulares de las licencias o propietarios de los establecimientos, quienes darán el aviso correspondiente a la Secretaría de Salud.
 
@@ -5582,7 +5840,11 @@ VI.- En los establecimientos señalados en la fracción XII, el Consejo de Salub
 
 En los casos en que resulten afectadas, por acción u omisión, la identidad, pureza, conservación, preparación, dosificación o manufactura de los productos, el responsable del establecimiento y el propietario del mismo responderán solidariamente de las sanciones que correspondan en los términos que señalen esta Ley y demás disposiciones legales aplicables.
 
-### CAPITULO X. Productos de Aseo
+### CAPITULO VIII
+
+Equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 262.
 
@@ -5613,6 +5875,10 @@ VII.- Los demás insumos que sean considerados para este uso y sean evaluados y 
 > <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 2023)</small>
 
 La Secretaría clasificará estos productos con base en sus características y el nivel de riesgo que representa su uso de conformidad con el Reglamento de Insumos para la Salud.
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+ARTICULO 262 BIS.- Una vez que se otorgue el registro sanitario de los dispositivos médicos, se deberá realizar la tecnovigilancia, que consiste en la vigilancia de la seguridad de los dispositivos médicos, por medio del conjunto de actividades que tienen por objeto la identificación y la evaluación de incidentes e incidentes adversos, producidos por los dispositivos médicos en uso, así como la identificación de los factores de riesgo asociados a estos, conforme a las disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO, D.O.F. 10 DE MAYO DE 2023)</small>
 
@@ -5674,7 +5940,9 @@ La violación de esta disposición se sancionará en los términos previstos en 
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 7 DE JUNIO DE 2011)</small>
 
-### CAPITULO XI. Tabaco
+### CAPITULO IX. Productos cosméticos
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 269.
 
@@ -5742,9 +6010,9 @@ Asimismo, para garantizar el derecho a la información del consumidor, el etique
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 1 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO XII. Plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas
+### CAPITULO IX BIS. Ejercicio especializado de la Cirugía
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 272 Bis.
 
@@ -5796,9 +6064,7 @@ Las instituciones de salud pública y privada, así como los establecimientos au
 
 Los establecimientos que presten servicios que ofrezcan cirugía bariátrica, sin apego a lo dispuesto en la presente Ley y en las disposiciones jurídicas aplicables, serán sancionados en términos del artículo 420 de la presente Ley.
 
-### CAPITULO XII BIS. Productos biotecnológicos
-
-> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+### CAPITULO X. Productos de Aseo
 
 ###### ARTICULO 273.
 
@@ -5830,9 +6096,7 @@ IX.- Los demás de naturaleza análoga que determine la Secretaría de Salud.
 
 En las etiquetas de los envases y empaques en los que se presenten los productos a que se refiere el artículo anterior, además de lo establecido en el artículo 210 de esta Ley, en lo conducente, figurarán las leyendas que determinen las disposiciones aplicables.
 
-### CAPITULO XIII. Importación y exportación
-
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+### CAPITULO XI. Tabaco
 
 ###### ARTICULO 275.
 
@@ -5852,9 +6116,9 @@ En las etiquetas de los envases y empaques en los que se presenten los productos
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 7 DE MAYO DE 1997)</small>
 
-### CAPITULO UNICO
+### CAPITULO XII. Plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas
 
-> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 278.
 
@@ -5914,9 +6178,9 @@ El control sanitario de las substancias a que se refiere el artículo 278, se aj
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 7 DE MAYO DE 1997)</small>
 
-### CAPITULO I. Disposiciones comunes
+### CAPITULO XII BIS. Productos biotecnológicos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 282 Bis.
 
@@ -5934,13 +6198,31 @@ Se deberá notificar a la Secretaría de Salud, de todos aquellos productos biot
 
 Las disposiciones y especificaciones relacionadas con el proceso, características y etiquetas de los productos objeto de este capítulo, se establecerán en las normas oficiales mexicanas correspondientes.
 
-### CAPITULO II. Donación
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE ENERO DE 2026)</small>
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
+### CAPITULO XII TER. Cigarrillos electrónicos, vapeadores y otros sistemas o dispositivos análogos
 
-### CAPITULO III. Trasplantes
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
+ARTICULO 282 TER.- Para efectos de esta Ley se entiende por: cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos, todo aparato o sistema mecánico, electrónico o de cualquier tecnología, que se utilice para calentar, vaporizar o atomizar sustancias tóxicas líquidas, geles, sales, ceras, aerosoles secos, resinas, aceites cerosos u otra nueva formulación sintética, con o sin nicotina, susceptibles de ser inhaladas por la persona consumidora.
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+ARTICULO 282 QUATER.- Queda prohibido en todo el territorio nacional la adquisición con fines de comercialización, preparación, producción, fabricación, mezclado, acondicionamiento, envasado, transporte con fines comerciales, almacenamiento, importación, exportación, comercio, distribución, venta y suministro de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos, incluidos aquellos que son desechables o de un solo uso.
+
+Se exceptúa de la prohibición, su consumo y posesión cuando no se destine a las actividades o fines señalados en el párrafo anterior.
+
+Quedan prohibidos todos los actos de comercialización, publicidad o propaganda, para que se consuman cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos, a través de cualquier medio impreso, digital, televisivo, radial o cualquier otro medio de comunicación.
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+ARTICULO 282 QUINQUIES.- La autoridad sanitaria podrá llevar a cabo la verificación, la aplicación de medidas de seguridad y la disposición sanitaria de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos.
+
+Lo anterior, con independencia de las acciones que correspondan a otras autoridades en su respectivo ámbito de competencia.
+
+### CAPITULO XIII. Importación y exportación
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 283.
 
@@ -6076,11 +6358,9 @@ Cuando se autorice la importación de las substancias mencionadas en el artícul
 
 ## TITULO DECIMO TERCERO. Publicidad
 
-### CAPITULO III BIS
+### CAPITULO UNICO
 
-Disposición de sangre, componentes sanguíneos, hemoderivados y células troncales de seres humanos.
-
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 300.
 
@@ -6256,9 +6536,9 @@ TITULO DECIMOCUARTO
 
 Donación, trasplantes y pérdida de la vida
 
-### CAPITULO IV. Pérdida de la vida
+### CAPITULO I. Disposiciones comunes
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 313.
 
@@ -6272,17 +6552,17 @@ I. El control y la vigilancia sanitarios de la disposición y trasplantes de ór
 
 II. La regulación sobre cadáveres, en los términos de esta Ley;
 
-> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-III. Establecer y dirigir las políticas en salud en materia de donación, procuración y trasplantes de órganos, tejidos y células, para lo cual se apoyará en el Centro Nacional de Trasplantes, y en el Centro Nacional de la Transfusión Sanguínea;
+III. Establecer y dirigir las políticas en salud en materia de donación, procuración y trasplantes de órganos, tejidos, células troncales, así como de la disposición de sangre, productos sanguíneos y hemoderivados, para lo cual se apoyará en el Centro Nacional de Trasplantes, y en el Centro Nacional de la Transfusión Sanguínea;
 
 > <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 IV. Emitir las disposiciones de carácter general que permitan la homologación de los criterios de atención médica integral en la materia, y
 
-> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-V. Elaborar y llevar a cabo, en coordinación con las instituciones públicas del Sistema Nacional de Salud y con los gobiernos de las entidades federativas, campañas permanentes de concientización sobre la importancia de la donación de órganos, tejidos y células para fines de trasplantes, así como de sangre y sus componentes para efectos de transfusiones y otros usos terapéuticos.
+V. Elaborar y llevar a cabo, en coordinación con las instituciones públicas del Sistema Nacional de Salud y con los gobiernos de las entidades federativas, campañas permanentes de concientización sobre la importancia de la donación de órganos, tejidos y células troncales para fines de trasplantes, así como de sangre y productos sanguíneos para efectos de transfusiones y otros usos terapéuticos.
 
 > <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
@@ -6302,7 +6582,7 @@ II. Cadáver, el cuerpo humano en el que se haya comprobado la pérdida de la vi
 
 III. Componentes, a los órganos, los tejidos, las células y sustancias que forman el cuerpo humano, con excepción de los productos;
 
-IV. Componentes sanguíneos, a los elementos de la sangre y demás sustancias que la conforman;
+IV. (DEROGADA, D.O.F. 15 DE ENERO DE 2026)
 
 > <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2020)</small>
 
@@ -6324,6 +6604,10 @@ X. Órgano, a la entidad morfológica compuesta por la agrupación de tejidos di
 
 XI. Producto, a todo tejido o sustancia extruida, excretada o expelida por el cuerpo humano como resultante de procesos fisiológicos normales. Serán considerados productos, para efectos de este Título, la placenta y los anexos de la piel;
 
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+XI Bis. Productos sanguíneos, a los diversos preparados de la sangre que tienen utilidad terapéutica, incluyen las unidades de sangre total, de sus componentes y mezclas de estos;
+
 XII. Receptor, a la persona que recibe para su uso terapéutico un órgano, tejido, células o productos;
 
 > <small>(ADICIONADA, D.O.F. 20 DE ABRIL DE 2015)</small>
@@ -6342,9 +6626,9 @@ XIII. Tejido, agrupación de células especializadas que realizan una o más fun
 
 XIV. Trasplante, a la transferencia de un órgano, tejido o células de una parte del cuerpo a otra, o de un individuo a otro y que se integren al organismo;
 
-> <small>(ADICIONADA, D.O.F. 20 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-XIV Bis. Transfusión, procedimiento terapéutico consistente en la aplicación de sangre o de componentes sanguíneos a un ser humano;
+XIV Bis. Transfusión, al procedimiento terapéutico consistente en la aplicación de sangre o de productos sanguíneos a un ser humano;
 
 > <small>(ADICIONADA, D.O.F. 11 DE JUNIO DE 2009)</small>
 
@@ -6354,9 +6638,9 @@ XV. Banco de tejidos con fines de trasplante, establecimiento autorizado que ten
 
 XVI. Disponente secundario, alguna de las siguientes personas; él o la cónyuge, el concubinario o la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante; conforme a la prelación señalada;
 
-> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-XVII. Disposición, el conjunto de actividades relativas a la obtención, extracción, análisis, conservación, preparación, suministro, utilización y destino final de órganos, tejidos, componentes de tejidos, células, productos y cadáveres de seres humanos, con fines terapéuticos, de docencia o investigación;
+XVII. Disposición, el conjunto de actividades relativas a la obtención, extracción, análisis, conservación, preparación, suministro, utilización y destino final de órganos, tejidos, productos sanguíneos, células troncales, productos y cadáveres de seres humanos, con fines terapéuticos, de docencia o investigación;
 
 > <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -6386,21 +6670,37 @@ XXIII. Implante, al procedimiento terapéutico consistente en la sustitución de
 
 XXIV. Institución de salud, a la agrupación de establecimientos de salud bajo una misma estructura de mando y normativa;
 
-> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-XXV. Preservación, a la utilización de agentes químicos y/o modificación de las condiciones del medioambiente durante la extracción, envase, traslado o trasplante de órganos, tejidos o células, con el propósito de impedir o retrasar su deterioro;
+XXV. Preservación, a la utilización de agentes químicos y, en su caso, a la modificación de las condiciones del medio ambiente durante la extracción, envase, traslado o trasplante de órganos, tejidos, productos sanguíneos o células, con el propósito de impedir o retrasar su deterioro;
 
 > <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2015)</small>
 
 XXVI. Procuración, al proceso y las actividades dirigidas a promover la obtención oportuna de órganos, tejidos y células donados para su trasplante;
 
-> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-XXVII. Trazabilidad, a la capacidad de localizar e identificar los órganos, tejidos, sus componentes y células, en cualquier momento desde la donación y, en su caso, hasta el uso terapéutico, procesamiento o destino final, y
+XXVII. Trazabilidad, a la capacidad de localizar e identificar los órganos, tejidos, productos sanguíneos y células, en cualquier momento desde la donación y, en su caso, hasta el uso terapéutico, procesamiento o destino final;
 
-> <small>(ADICIONADA, D.O.F. 20 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-XXVIII. Hemoderivados, los productos obtenidos de algunos componentes sanguíneos, especialmente el plasma, mediante procesos fisicoquímicos o biológicos, para aplicación terapéutica, diagnóstica, preventiva o en investigación.
+XXVIII. Hemoderivados, a los productos obtenidos de algunos productos sanguíneos, especialmente el plasma, mediante procesos fisicoquímicos o biológicos, para aplicación terapéutica, diagnóstica, preventiva o en investigación;
+
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+XXIX. Banco de células troncales, al establecimiento autorizado para obtener, recolectar, analizar, procesar, conservar, aplicar, transfundir y proveer células troncales;
+
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+XXX. Centro de colecta de células troncales, al establecimiento autorizado para la obtención y recolección de células troncales, contemplando la atención al donador, resguardo y envío de células troncales obtenidas para su análisis a un banco de células troncales;
+
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+XXXI. Establecimiento de medicina regenerativa, al enfocado en la reparación, reposición o regeneración de células, tejidos u órganos para restaurar la función dañada resultante de cualquier causa, incluyendo los defectos congénitos, enfermedad adquirida y trauma. Utiliza una combinación de abordajes tecnológicos que van desde la ingeniería en tejidos hasta la aplicación terapéutica basada en la evidencia científica que asegure el más alto grado de recomendación terapéutica, y que va más allá del tradicional trasplante y terapias de reemplazo, y
+
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+XXXII. Plasma residual, a todo aquel que, basado en la evidencia científica y avances tecnológicos, carece de las características para ser empleado para uso clínico en transfusión por la red de sangre, el cual puede ser plasma fresco, congelado y plasma desprovisto de factores lábiles.
 
 > <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -6462,29 +6762,35 @@ La Secretaría de Salud otorgará la licencia a que se refiere el presente artí
 
 Para el caso de los establecimientos de salud a que se refiere la fracción IV del presente artículo, la licencia sanitaria tendrá una vigencia de 5 años prorrogables por plazos iguales de conformidad con las disposiciones aplicables.
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### ARTICULO 316.
 
-Los establecimientos a que se refiere el artículo anterior contarán con un responsable sanitario, de quien deberán dar aviso ante la Secretaría de Salud.
+Los establecimientos a que se refiere el artículo anterior contarán con una persona responsable sanitaria, de quien deberán dar aviso de su alta, modificación y baja ante la Secretaría de Salud.
 
-> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
-Los establecimientos en los que se extraigan órganos, tejidos y células, deberán de contar con un Comité Interno de Coordinación para la donación de órganos y tejidos, que será presidido por el Director General o su inmediato inferior que sea médico con un alto nivel de conocimientos académicos y profesionales en la materia. Este comité será responsable de hacer la selección del establecimiento de salud que cuente con un programa de trasplante autorizado, al que enviará los órganos, tejidos o células, de conformidad con lo que establece la presente Ley y demás disposiciones jurídicas aplicables.
+Los establecimientos en los que se extraigan órganos, tejidos y células troncales deberán contar con un Comité Interno de Coordinación para la donación de órganos y tejidos, que será presidido por la persona titular de la Dirección General o su inmediato inferior que sea médica con un alto nivel de conocimientos académicos y profesionales en la materia. Este comité será responsable de hacer la selección del establecimiento de salud que cuente con un programa de trasplante autorizado, al que enviará los órganos, tejidos y células troncales, de conformidad con lo que establece la presente Ley y demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2009)</small>
 
 A su vez, los establecimientos que realicen actos de trasplantes, deberán contar con un Comité Interno de Trasplantes que será presidido por el Director General o su inmediato inferior que cuente con un alto nivel de conocimientos médicos académicos y profesionales, y será responsable de hacer la selección de disponentes y receptores para trasplante, de conformidad con lo que establece la presente Ley y demás disposiciones jurídicas aplicables. Los establecimientos en los que se extraigan órganos y tejidos y se realicen trasplantes, únicamente deberán contar con un Comité Interno de Trasplantes.
 
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2009)</small>
+
 El Comité Interno de Trasplantes deberá coordinarse con el comité de bioética de la institución en los asuntos de su competencia.
 
-Los establecimientos que realicen actos de disposición de sangre, componentes sanguíneos y células progenitoras hematopoyéticas, deberán contar con un Comité de Medicina Transfusional, el cual se sujetará a las disposiciones que para tal efecto emita la Secretaría de Salud.
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
-> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2013)</small>
+Los establecimientos que realicen actos de transfusión, disposición de sangre, productos sanguíneos y células troncales, deberán contar con un Comité de Medicina Transfusional, y, en su caso, un Comité o subcomité de trasplante de células troncales, según corresponda, los cuales sesionarán de manera ordinaria trimestral y de manera extraordinaria cuando así se requiera, en las que se reportarán el total de eventos y reacciones adversas a la donación, transfusión y trasplantes, sujetándose a las disposiciones que para tal efecto emita la Secretaría de Salud.
 
-Los establecimientos de atención médica que transfundan sangre y sus componentes deberán contar con un Comité de Medicina Transfusional.
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
-> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2013)</small>
+Los establecimientos de atención médica que transfundan sangre y sus productos sanguíneos deberán contar con un Comité de Medicina Transfusional.
 
-Los establecimientos de atención médica que utilicen células progenitoras o troncales para regeneración de tejidos deberán contar con el Comité Interno de Trasplantes a que se refiere el artículo 316 de esta Ley.
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+Los establecimientos de atención médica que realicen actos de trasplante, infusión y disposición de células troncales, deberán contar con un Comité de Trasplante de Células Troncales, el cual sesionará de manera ordinaria trimestral y de manera extraordinaria cuando así se requiera, y reportará el total de reacciones adversas al trasplante y, en su caso, de la infusión sujetándose a las disposiciones que para tal efecto emita la Secretaría de Salud.
 
 > <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2013)</small>
 
@@ -6524,9 +6830,9 @@ IX. Representar al responsable sanitario del establecimiento en ausencia de ést
 
 X. Lo que le atribuya esta Ley y las demás disposiciones aplicables.
 
-> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
-ARTICULO 316 BIS 1.- Para garantizar la disponibilidad oportuna de sangre o sus componentes, los establecimientos a los que se refieren las fracciones I y II del artículo 315 de esta Ley que no cuenten con bancos de sangre o centros de procesamiento, deberán tener convenio con algún establecimiento de banco de sangre, un centro de procesamiento o un centro de distribución de sangre y componentes sanguíneos.
+ARTICULO 316 BIS 1.- Para garantizar la disponibilidad oportuna de sangre, productos sanguíneos y células troncales, los establecimientos a los que se refiere el artículo 315 de esta Ley que no cuenten con bancos de sangre, centros de procesamiento y banco de células troncales, deberán celebrar un convenio con algún establecimiento de banco de sangre, centro de procesamiento o un banco de células troncales respectivamente.
 
 > <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2013)</small>
 
@@ -6568,15 +6874,15 @@ El material genético a que se refiere el artículo anterior no podrá ser utili
 
 Para el control sanitario de los productos y de la disposición del embrión y de las células germinales, se estará a lo dispuesto en esta Ley, en lo que resulte aplicable, y en las demás disposiciones generales que al efecto se expidan.
 
-> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### ARTICULO 319.
 
-Se considerará disposición ilícita de órganos, tejidos, células y cadáveres de seres humanos, aquella que se efectúe sin estar autorizada por la Ley.
+Se considerará disposición ilícita de órganos, tejidos, células troncales, cadáveres, sangre y productos sanguíneos aquella que se efectúe sin estar autorizada por la ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 26 DE MAYO DE 2000)</small>
 
-### CAPITULO V. Cadáveres
+### CAPITULO II. Donación
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
@@ -6590,11 +6896,9 @@ Toda persona es disponente de su cuerpo y podrá donarlo, total o parcialmente, 
 
 La donación en materia de órganos, tejidos, células y cadáveres, consiste en el consentimiento tácito o expreso de la persona para que, en vida o después de su muerte, su cuerpo o cualquiera de sus componentes se utilicen para trasplantes.
 
-> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
-###### ARTICULO 321 Bis.
-
-La Secretaría de Salud promoverá que en todo establecimiento de atención obstétrica, se solicite sistemáticamente a toda mujer embarazada su consentimiento para donar de manera voluntaria y altruista la sangre placentaria para obtener de ella células troncales o progenitoras para usos terapéuticos o de investigación, por medio de una carta de consentimiento informado, garantizándole en todo momento su plena voluntad, libertad y confidencialidad, de conformidad con las demás disposiciones jurídicas aplicables.
+ARTICULO 321 BIS.- La donación de células troncales obtenidas de sangre placentaria y de cordón umbilical, deberá en todo momento contar con una carta de consentimiento informado de la mujer embarazada, garantizando la plena voluntad, libertad y confidencialidad, de conformidad con las disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -6614,9 +6918,9 @@ Los disponentes secundarios, podrán otorgar el consentimiento a que se refieren
 
 La donación expresa, cuando corresponda a mayores de edad con capacidad jurídica, no podrá ser revocada por terceros, pero el donante podrá revocar su consentimiento en cualquier momento, sin responsabilidad de su parte.
 
-> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
-En todos los casos se deberá cuidar que la donación se rija por los principios de altruismo, ausencia de ánimo de lucro y factibilidad, condiciones que se deberán manifestar en el acta elaborada para tales efectos por el comité interno respectivo. En el caso de sangre, componentes sanguíneos y células troncales se estará a lo dispuesto en las disposiciones jurídicas que al efecto emita la Secretaría de Salud.
+En todos los casos se deberá cuidar que la donación se rija por los principios de altruismo, ausencia de ánimo de lucro y factibilidad, condiciones que se deberán manifestar en el acta elaborada para tales efectos por el comité interno respectivo. En el caso de sangre, productos sanguíneos y células troncales se estará a lo dispuesto en las disposiciones jurídicas que al efecto emita la Secretaría de Salud.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -6628,9 +6932,9 @@ Se requerirá que el consentimiento expreso conste por escrito:
 
 I. Para la donación de órganos y tejidos en vida, y
 
-> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-II. Para la donación de sangre, componentes sanguíneos y células troncales en vida.
+II. Para la donación de sangre, productos sanguíneos y células troncales en vida.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -6664,11 +6968,13 @@ I. El tácito o expreso otorgado por menores de edad, incapaces o por personas q
 
 II. El expreso otorgado por una mujer embarazada sólo será admisible si el receptor estuviere en peligro de muerte, y siempre que no implique riesgo para la salud de la mujer o del producto de la concepción.
 
-> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### ARTICULO 327.
 
-Está prohibido el comercio de órganos, tejidos y células. La donación de éstos se regirá por principios de altruismo, ausencia de ánimo de lucro y confidencialidad, por lo que su obtención y utilización serán estrictamente a título gratuito.
+Está prohibido el comercio de órganos, tejidos, células troncales, sangre y productos sanguíneos, salvo las actividades a que se refiere el Capítulo III BIS del Título Décimo Cuarto de esta Ley. La donación de estos se regirá por principios de altruismo, ausencia de ánimo de lucro y confidencialidad, por lo que su obtención y utilización serán estrictamente a título gratuito.
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2015)</small>
 
 No se considerarán actos de comercio la recuperación de los costos derivados de la obtención o extracción, análisis, conservación, preparación, distribución, transportación y suministro de órganos, tejidos y células, incluyendo la sangre y sus componentes.
 
@@ -6698,9 +7004,9 @@ Corresponde a la Secretaría de Salud y a los gobiernos de las entidades federat
 
 > <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
-### CAPITULO I. Disposiciones comunes
+### CAPITULO III. Trasplantes
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 330.
 
@@ -6724,7 +7030,9 @@ La procuración y extracción de órganos o tejidos para trasplantes se hará pr
 
 La selección del donante y del receptor se hará siempre por prescripción y bajo control médico, en los términos que fije la Secretaría de Salud.
 
-No se podrán tomar órganos y tejidos para trasplantes de menores de edad vivos, excepto cuando se trate de trasplantes de médula ósea, para lo cual se requerirá el consentimiento expreso de los representantes legales del menor.
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+No se podrán tomar órganos y tejidos para trasplantes de menores de edad vivos, excepto cuando se trate de trasplantes de células troncales o médula ósea, para lo cual se requerirá el consentimiento expreso de los representantes legales del menor.
 
 Tratándose de menores que han perdido la vida, sólo se podrán tomar sus órganos y tejidos para trasplantes con el consentimiento expreso de los representantes legales del menor.
 
@@ -6886,19 +7194,51 @@ El Centro Nacional de Trasplantes dará aviso a la Comisión Federal para la Pro
 
 El Centro Nacional de Trasplantes impulsará, junto con las Organizaciones de la Sociedad Civil, las acciones que permitan la trazabilidad de los órganos y tejidos donados para trasplante, misma que estará a cargo de cada establecimiento de salud en el desarrollo de sus actividades de disposición y de trasplante de órganos y tejidos, conforme a las disposiciones de carácter general que establezca la Secretaría de Salud.
 
-> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 15 DE ENERO DE 2026)</small>
 
-### CAPITULO II. Sanidad en Materia de Migración
+### CAPITULO III BIS. Disposición de sangre, productos sanguíneos, hemoderivados y células troncales
+
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 340.
 
 El control sanitario de la disposición de sangre lo ejercerá la Secretaría de Salud a través de la Comisión Federal para la Protección contra Riesgos Sanitarios.
 
-> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2015)</small>
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+ARTICULO 340 BIS.- La donación de sangre, productos sanguíneos y células troncales es un acto libre, de disposición voluntaria, altruista, orientado hacia la repetición, que se realiza sin que medie la comercialización y el lucro, esta se regirá por los siguientes principios:
+
+I. Valor humano y responsabilidad social;
+
+II. Necesidad permanente;
+
+III. Aprendizaje en edad temprana;
+
+IV. Carácter de repetición;
+
+V. Proceso no sustentado en diferencias de género y no discriminatorio;
+
+VI. Garantía de seguridad, calidad y calidez para los donantes;
+
+VII. Confianza en el manejo adecuado de la sangre y de los productos sanguíneos resultantes del fraccionamiento, y
+
+VIII. Mayor bien para la población mexicana.
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+ARTICULO 340 TER.- La Secretaría de Salud determinará la disposición del plasma residual existente en el país, con fines de industrialización para obtener hemoderivados en beneficio de la población.
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+ARTICULO 340 QUATER.- La Secretaría de Salud fijará las bases y modalidades a las que se sujetará el Sistema Nacional de Salud, sobre la disposición de la sangre y productos sanguíneos para atender contingencias, emergencias y situaciones extraordinarias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### ARTICULO 341.
 
-La disposición de sangre, componentes sanguíneos y células troncales, con fines terapéuticos estará a cargo de los establecimientos siguientes:
+La disposición de sangre, productos sanguíneos y células troncales, con fines terapéuticos estará a cargo de los establecimientos siguientes:
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], D.O.F. 20 DE ABRIL DE 2015)</small>
 
 A) Los servicios de sangre que son:
 
@@ -6908,11 +7248,15 @@ II. Centro de procesamiento de sangre;
 
 III. Centro de colecta;
 
-IV. Centro de distribución de sangre y componentes sanguíneos;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+IV. Centro de distribución de sangre y productos sanguíneos;
 
 V. Servicio de transfusión hospitalario, y
 
 VI. Centro de calificación biológica.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], D.O.F. 20 DE ABRIL DE 2015)</small>
 
 B) Los que hacen disposición de células troncales que son:
 
@@ -6920,13 +7264,23 @@ I. Centro de colecta de células troncales, y
 
 II. Banco de células troncales.
 
-C) Los establecimientos de medicina regenerativa.
-
-Los establecimientos que lleven a cabo la transfusión sanguínea, serán los responsables de la seguridad transfusional.
-
 > <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2015)</small>
 
-ARTICULO 341 BIS.- La Secretaría de Salud y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, deberán impulsar la donación de sangre, componentes sanguíneos y células troncales, para coadyuvar en el tratamiento o curación de los pacientes que las requieran; asimismo, la Secretaría de Salud fijará las bases y modalidades a las que se sujetará el Sistema Nacional de Salud al respecto.
+C) Los establecimientos de medicina regenerativa.
+
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+Los establecimientos que lleven a cabo la transfusión sanguínea, así como el uso de células troncales con fines terapéuticos, deberán implementar un sistema de hemovigilancia, así como formar parte del sistema de biovigilancia que implemente la Secretaría de Salud.
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+Los establecimientos señalados en los apartados A), B) y C) del presente artículo, en el ámbito de las actividades autorizadas, informarán a la Secretaría de Salud sobre los actos de uso y disposición de sangre, productos sanguíneos y células troncales, a través de los formatos o medios oficiales y en los plazos que disponga dicha Secretaría para tal fin.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+ARTICULO 341 BIS.- La Secretaría de Salud y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, deberán impulsar la donación de sangre, productos sanguíneos y células troncales, para coadyuvar en el tratamiento o curación de los pacientes que las requieran; asimismo, la Secretaría de Salud fijará las bases y modalidades a las que se sujetará el Sistema Nacional de Salud al respecto.
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2015)</small>
 
 La Secretaría de Salud emitirá las disposiciones que regulen tanto la infraestructura con que deberán contar los bancos de sangre que lleven a cabo actos de disposición y distribución de células troncales, como la obtención, procesamiento y distribución de dichas células.
 
@@ -6948,9 +7302,11 @@ Los establecimientos para la atención de la salud en los cuales se obtenga la d
 
 Las disposiciones que emita la Secretaría de Salud contemplarán, al menos, los mecanismos de aprovechamiento, procesamiento o utilización, bajo condiciones que garanticen calidad, seguridad y eficacia.
 
-> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
-ARTICULO 342 BIS 1.- El plasma residual podrá destinarse a procedimientos de fraccionamiento para obtener hemoderivados. Tanto los establecimientos de salud que suministren el plasma residual, como los establecimientos que lo reciban para elaborar hemoderivados, deberán estar autorizados conforme a los artículos 198 fracción I y 315 de esta Ley. Asimismo, se sujetarán a las disposiciones que dicte la Secretaría de Salud.
+ARTICULO 342 BIS 1.- El plasma residual podrá destinarse por la Secretaría de Salud a procedimientos de industrialización para obtener hemoderivados, por lo que los establecimientos de salud que suministren el plasma residual, así como los establecimientos que lo reciban para elaborar hemoderivados, deberán estar autorizados conforme a los artículos 198, fracción I, y 315 de esta Ley. Asimismo, se sujetarán a las disposiciones que dicte la mencionada Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 Las disposiciones que emita la Secretaría de Salud contemplarán, al menos, los mecanismos de aprovechamiento, procesamiento o utilización bajo condiciones que garanticen calidad, seguridad y eficacia.
 
@@ -6966,6 +7322,14 @@ La distribución de sangre y sus componentes deberá ser equitativa y dar priori
 
 Se deberán realizar las pruebas necesarias que determine la Secretaría de Salud de acuerdo con los estándares internacionales de calidad y seguridad sanguínea a efecto de disminuir el riesgo de transmisión de enfermedades por transfusión.
 
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+La exportación de plasma residual para procesamiento industrial solo podrá realizarse cuando se haya garantizado el suministro nacional y de acuerdo con lo que establezca la Secretaría de Salud y las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+La importación de plasma solo podrá realizarse cuando las unidades hayan cumplido en el país de origen con todos los requisitos establecidos en esta Ley, para garantizar la ausencia de marcadores de agentes infecciosos transmitidos por transfusión y las disposiciones jurídicas aplicables.
+
 > <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ARTICULO 342 BIS 2.- La Secretaría de Salud establecerá las disposiciones aplicables para regular la disposición y procesamiento de los tejidos y el plasma residual referidos en los artículos 342 Bis y 342 Bis 1 de esta Ley, a fin de garantizar la trazabilidad en cuanto a origen y destino de los mismos. Asimismo, establecerá los mecanismos para promover la accesibilidad a los hemoderivados del plasma residual y de los insumos para la salud a que se refiere el artículo 342 Bis, en condiciones de equidad y seguridad en beneficio para la salud pública.
@@ -6974,25 +7338,43 @@ ARTICULO 342 BIS 2.- La Secretaría de Salud establecerá las disposiciones apli
 
 Las disposiciones que emita la Secretaría de Salud para garantizar la trazabilidad en cuanto a origen y destino de los tejidos y el plasma residual, así como las relativas a la farmacovigilancia y control sanitarios de los mismos, tomarán en cuenta la experiencia en la materia, de agencias reguladoras nacionales e internacionales y a la evidencia científica y tecnológica.
 
-> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
-ARTICULO 342 BIS 3.- El Centro Nacional de la Transfusión Sanguínea tendrá a su cargo el Registro Nacional de Sangre y de Células Troncales, el cual integrará y mantendrá actualizada la información relativa a la disposición de sangre, componentes sanguíneos y células troncales e incluirá lo siguiente:
+ARTICULO 342 BIS 3.- El Centro Nacional de la Transfusión Sanguínea tendrá a su cargo el Registro Nacional de Sangre y de Células Troncales, la cual integrará y mantendrá actualizada la información relativa a la disposición de sangre, productos sanguíneos y células troncales e incluirá lo siguiente:
+
+> <small>(ADICIONADA, D.O.F. 20 DE ABRIL DE 2015)</small>
 
 I. El registro de establecimientos a que se refiere el artículo 341 de esta Ley, así como de sus respectivos responsables sanitarios, en coordinación con la Comisión Federal para la Protección contra Riesgos Sanitarios;
 
+> <small>(ADICIONADA, D.O.F. 20 DE ABRIL DE 2015)</small>
+
 II. El registro de los comités de medicina transfusional, así como de los comités o subcomités de trasplantes de células troncales;
 
-III. Información relativa a la disposición de sangre, componentes sanguíneos y células troncales que se lleven a cabo en el país;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+III. Información relativa a la disposición de sangre, productos sanguíneos y células troncales que se lleven a cabo en el país;
+
+> <small>(ADICIONADA, D.O.F. 20 DE ABRIL DE 2015)</small>
 
 IV. El Sistema Nacional de Biovigilancia;
 
+> <small>(ADICIONADA, D.O.F. 20 DE ABRIL DE 2015)</small>
+
 V. El registro único de unidades de células troncales que se tengan en existencia, así como de los donantes potenciales de dichas células, con el fin de actuar como enlace nacional e internacional para su localización, y
+
+> <small>(ADICIONADA, D.O.F. 20 DE ABRIL DE 2015)</small>
 
 VI. Los demás que prevean las disposiciones reglamentarias.
 
+ADICIONADO, D.O.F. 15 DE ENERO DE 2026)
+
+ARTICULO 342 BIS 4.- La Secretaría de Salud emitirá y supervisará el cumplimiento de los criterios de selección que sean necesarios para garantizar la protección del donante autólogo y alogénico, tanto de sangre total, productos sanguíneos y células troncales, y del receptor, teniendo en cuenta las características epidemiológicas y demográficas existentes, y las condiciones técnicas y científicas aplicables.
+
 > <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
-### CAPITULO III. Sanidad marítima, aérea y terrestre
+### CAPITULO IV. Pérdida de la vida
+
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 343.
 
@@ -7026,7 +7408,9 @@ No existirá impedimento alguno para que a solicitud y con la autorización de l
 
 > <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
-### CAPITULO I. Autorizaciones
+### CAPITULO V. Cadáveres
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 346.
 
@@ -7160,7 +7544,9 @@ Los establecimientos en los que se realicen actos relacionados con cadáveres de
 
 ## TITULO DECIMO QUINTO. Sanidad Internacional
 
-### CAPITULO II. Revocación de autorizaciones sanitarias
+### CAPITULO I. Disposiciones comunes
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 351.
 
@@ -7214,7 +7600,7 @@ Cuando en las localidades donde residan cónsules mexicanos aparezcan casos de e
 
 La Secretaría de Salud notificará a la Organización Mundial de la Salud de todas (sic) medidas que haya adoptado, de modo temporal o permanente, en materia de sanidad internacional. Asimismo, informará a esta misma organización y con la oportunidad debida, sobre cualquier caso que sea de interés en la vigilancia epidemiológica de las enfermedades que se citan en el Reglamento Sanitario Internacional, las que puedan originar epidemias o cualesquiera otras que considere de importancia notificar.
 
-### CAPITULO III. Certificados
+### CAPITULO II. Sanidad en Materia de Migración
 
 ###### ARTICULO 360.
 
@@ -7236,9 +7622,7 @@ La Secretaría de Salud determinará qué otras enfermedades transmisibles queda
 
 Las personas comprendidas en lo dispuesto en el artículo anterior, quedarán bajo vigilancia y aislamiento en los lugares que la autoridad sanitaria determine, o en los que señale el interesado, si fueran aceptados por la autoridad, en tanto se decida, mediante el examen médico pertinente, si es aceptada o no su internación más allá del sitio de confinamiento, y se le preste, en su caso, la atención médica correspondiente.
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+### CAPITULO III. Sanidad marítima, aérea y terrestre
 
 ###### ARTICULO 363.
 
@@ -7270,9 +7654,7 @@ Las embarcaciones y aeronaves procedentes del extranjero con destino al territor
 
 ## TITULO DECIMO SEXTO. Autorizaciones y certificados
 
-### CAPITULO I. Medidas de Seguridad Sanitaria
-
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+### CAPITULO I. Autorizaciones
 
 ###### ARTICULO 368.
 
@@ -7292,11 +7674,17 @@ Las autorizaciones sanitarias serán otorgadas por la Secretaría de Salud o por
 
 Las autorizaciones sanitarias serán otorgadas por tiempo indeterminado, con las excepciones que establezca esta Ley. En caso de incumplimiento de lo establecido en esta ley, sus reglamentos, normas oficiales mexicanas, las demás disposiciones generales que emita la Secretaría de Salud, o de las aplicables de la Farmacopea de los Estados Unidos Mexicanos, las autorizaciones serán revocadas.
 
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
 ###### ARTICULO 371.
 
-Las autoridades sanitarias competentes expedirán las autorizaciones respectivas cuando el solicitante hubiere satisfecho los requisitos que señalen las normas aplicables y cubierto, en su caso, los derechos que establezca la legislación fiscal.
+Las autoridades sanitarias competentes expedirán las autorizaciones respectivas cuando la persona solicitante hubiere satisfecho los requisitos que señalen las disposiciones y especificaciones correspondientes y cubierto, en su caso, los derechos que establezca la legislación fiscal.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 14 DE JUNIO DE 1991)</small>
+Lo anterior, sin perjuicio de que la autoridad sanitaria, al tener conocimiento de que los productos o servicios generan peligro, riesgos o daños a la salud podrá negar la autorización correspondiente.
+
+Para efectos de lo dispuesto en el párrafo anterior, la Secretaría de Salud podrá analizar y emitir el dictamen correspondiente para cada producto, para lo cual podrá apoyarse en la opinión de personas expertas reconocidas por las instituciones competentes.
+
+El dictamen a que se refiere el párrafo anterior no impide que si posterior a su emisión la Secretaría de Salud tiene conocimiento de que un producto representa riesgo para la salud puede prohibir su elaboración, almacenamiento, importación, distribución o venta e iniciar la revocación de la autorización que corresponda en caso de que esta se haya dado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
@@ -7342,9 +7730,9 @@ IV.- Los libros de control de estupefacientes o substancias psicotrópicas, así
 
 V.- La internación de cadáveres de seres humanos en el territorio nacional y su traslado al extranjero, y el embalsamamiento;
 
-> <small>(REFORMADA, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-VI.- La internación en el territorio nacional o la salida de él, de tejidos de seres humanos, incluyendo la sangre, componentes sanguíneos y células progenitoras hematopoyéticas y hemoderivados;
+VI.- La internación en el territorio nacional o la salida de él, de tejidos de seres humanos, incluyendo la sangre, productos sanguíneos, células troncales y hemoderivados;
 
 VII.- La publicidad relativa a los productos y servicios comprendidos en esta Ley;
 
@@ -7362,19 +7750,17 @@ X.- Las modificaciones a las instalaciones de establecimientos que manejan subst
 
 Los permisos a que se refiere este artículo sólo podrán ser expedidos por la Secretaría de Salud, con excepción de los casos previstos en las fracciones II y V en lo relativo al embalsamamiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### ARTICULO 376.
 
 Requieren registro sanitario los medicamentos, estupefacientes, substancias psicotrópicas y productos que los contengan; los dispositivos médicos con excepción de aquellos determinados como de bajo riesgo y que no requieran registro sanitario por la autoridad sanitaria, así como los plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas.
 
-> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2005)</small>
+El registro sólo podrá ser otorgado por la Secretaría de Salud, este tendrá una vigencia de 5 años, sin perjuicio de lo establecido en el artículo 378 de esta Ley. Dicho registro podrá prorrogarse por plazos de 10 años, a solicitud de la persona interesada, en los términos que establezcan las disposiciones reglamentarias. Si la persona interesada no solicitara la prórroga dentro del plazo establecido para ello o bien, cambiara o modificara el producto o fabricante de materia prima, sin previa autorización de la autoridad sanitaria, esta procederá a la cancelación del registro correspondiente.
 
-El registro sólo podrá ser otorgado por la Secretaría de Salud, éste tendrá una vigencia de 5 años, sin perjuicio de lo establecido en el artículo 378 de esta Ley, dicho registro podrá prorrogarse por plazos iguales, a solicitud del interesado, en los términos que establezcan las disposiciones reglamentarias. Si el interesado no solicitara la prórroga dentro del plazo establecido para ello o bien, cambiara o modificara el producto o fabricante de materia prima, sin previa autorización de la autoridad sanitaria; ésta procederá a cancelar o revocar el registro correspondiente.
+Para efectos de lo señalado en el párrafo anterior, se entenderá por cancelación del registro al procedimiento administrativo que realiza la Comisión Federal para la Protección contra Riesgos Sanitarios, derivado de no solicitar la prórroga dentro del plazo establecido o del incumplimiento a las disposiciones aplicables al otorgamiento de una prórroga del registro sanitario.
 
-> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2005)</small>
-
-Para los efectos a que se refieren los párrafos anteriores, el Ejecutivo a través de la Secretaría, mediante disposiciones de carácter general, establecerá los requisitos, pruebas y demás requerimientos que deberán cumplir los medicamentos, insumos para la salud y demás productos y substancias que se mencionan en dichos párrafos.
+Para los efectos del presente artículo, el Ejecutivo, a través de la Secretaría de Salud, mediante disposiciones de carácter general, establecerá los requisitos, pruebas y demás requerimientos que deberán cumplir los medicamentos, insumos para la salud y demás productos y substancias que se mencionan en este artículo.
 
 > <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
@@ -7400,7 +7786,7 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la autori
 
 Los derechos a que se refiere esta Ley se regirán por lo que disponga la legislación fiscal y los convenios de coordinación que celebren en la materia el Ejecutivo Federal y los gobiernos de las entidades federativas.
 
-### CAPITULO II. Sanciones Administrativas
+### CAPITULO II. Revocación de autorizaciones sanitarias
 
 ###### ARTICULO 380.
 
@@ -7476,7 +7862,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda, al co
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de venta, prohibición de uso o de ejercicio de las actividades a que se refiera la autorización revocada.
 
-### CAPITULO III. Procedimiento Para Aplicar las Medidas de Seguridad y Sanciones
+### CAPITULO III. Certificados
 
 ###### ARTICULO 388.
 
@@ -7584,7 +7970,9 @@ La distribución primaria de los certificados de nacimiento, defunción y muerte
 
 ## TITULO DECIMO SEPTIMO. Vigilancia Sanitaria
 
-### CAPITULO IV. Recurso de inconformidad
+### CAPITULO UNICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 393.
 
@@ -7608,9 +7996,9 @@ El acto u omisión contrario a los preceptos de esta Ley y a las disposiciones q
 
 La vigilancia sanitaria se llevará a cabo a través de las siguientes diligencias:
 
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-I.- Visitas de verificación a cargo del personal expresamente autorizado por la autoridad sanitaria competente para llevar a cabo la verificación física del cumplimiento de la ley y demás disposiciones aplicables, y
+I. Visitas de verificación a cargo del personal expresamente autorizado por la autoridad sanitaria competente para llevar a cabo la verificación física, documental o por cualquier medio electrónico, del cumplimiento de la ley y demás disposiciones aplicables, y
 
 II.- Tratándose de publicidad de las actividades, productos y servicios a que se refiere esta Ley, a través de las visitas a que se refiere la fracción anterior o de informes de verificación que reúnan los requisitos señalados por el artículo siguiente.
 
@@ -7732,7 +8120,9 @@ En el caso de los productos recogidos en procedimientos de muestreo o verificaci
 
 ## TITULO DECIMO OCTAVO. Medidas de Seguridad, Sanciones y Delitos
 
-### CAPITULO V. Prescripción
+### CAPITULO I. Medidas de Seguridad Sanitaria
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 402.
 
@@ -7886,9 +8276,17 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 Será procedente la acción de aseguramiento prevista en el artículo 414 de esta Ley como medida de seguridad, para el caso de que se comercialicen:
 
-a) Remedios herbolarios, suplementos alimenticios o productos cosméticos que indebidamente hubieren sido publicitados o promovidos como medicamentos o a los cuales se les hubiera atribuido cualidades o efectos terapéuticos, presentándolos como una solución definitiva en el tratamiento preventivo o rehabilitatorio de un determinado padecimiento, no siendo medicamentos y sin que los mismos cuenten con registro sanitario para ser considerados como tales, y
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
-b) Los productos cosméticos a los que se refiere el artículo 271 Bis de esta Ley.
+a) Remedios herbolarios, suplementos alimenticios o productos cosméticos que indebidamente hubieren sido publicitados o promovidos como medicamentos o a los cuales se les hubiera atribuido cualidades o efectos terapéuticos, presentándolos como una solución definitiva en el tratamiento preventivo o rehabilitatorio de un determinado padecimiento, no siendo medicamentos y sin que estos cuenten con registro sanitario para ser considerados como tales;
+
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+b) Los productos cosméticos a los que se refiere el artículo 271 Bis de esta Ley, y
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+c) Los cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos, así como substancias tóxicas, incluidas las soluciones y mezclas y aditivos utilizados con ese propósito.
 
 > <small>(ADICIONADO, D.O.F. 28 DE JUNIO DE 2005)</small>
 
@@ -7898,9 +8296,7 @@ En caso de que se actualice el supuesto previsto en el párrafo anterior, la med
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias competentes, se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
 
-### CAPITULO VI. Delitos
-
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+### CAPITULO II. Sanciones Administrativas
 
 ###### ARTICULO 416.
 
@@ -8028,9 +8424,7 @@ Sólo procederá esta sanción, si previamente se dictó cualquiera otra de las 
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPITULO VII. Delitos Contra la Salud en su modalidad de Narcomenudeo
-
-> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
+### CAPITULO III. Procedimiento Para Aplicar las Medidas de Seguridad y Sanciones
 
 ###### ARTICULO 428.
 
@@ -8078,9 +8472,11 @@ XI.- Buena fe.
 
 Las autoridades sanitarias con base en los resultados de la visita o del informe de verificación a que se refiere el artículo 396 Bis de esta ley podrán dictar las medidas para corregir las irregularidades que se hubieren encontrado notificándolas al interesado y dándole un plazo adecuado para su realización.
 
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
 ###### ARTICULO 431.
 
-Las autoridades sanitarias competentes harán uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que procedan.
+Las autoridades sanitarias competentes podrán hacer uso de las medidas legales necesarias, incluyendo el auxilio de las instituciones de seguridad pública de los tres órdenes de gobierno en el ámbito de sus competencias, para lograr la ejecución de las sanciones y medidas de seguridad que procedan.
 
 > <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
@@ -8111,6 +8507,8 @@ En los casos de suspensión de trabajos o de servicios, o de clausura temporal o
 ###### ARTICULO 437.
 
 Cuando del contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
+
+### CAPITULO IV. Recurso de inconformidad
 
 ###### ARTICULO 438.
 
@@ -8196,6 +8594,8 @@ III.- Que fueren de difícil reparación los daños y perjuicios que se causen a
 
 En la tramitación del recurso de inconformidad, se aplicará supletoriamente el Código Federal de Procedimientos Civiles.
 
+### CAPITULO V. Prescripción
+
 ###### ARTICULO 451.
 
 El ejercicio de la facultad para imponer las sanciones administrativas previstas en la presente Ley, prescribirá en el término de cinco años.
@@ -8212,6 +8612,10 @@ Cuando el presunto infractor impugnare los actos de la autoridad sanitaria compe
 
 Los interesados podrán hacer valer la prescripción, por vía de excepción. La autoridad deberá declararla de oficio.
 
+### CAPITULO VI. Delitos
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+
 ###### ARTICULO 455.
 
 Al que sin autorización de las autoridades sanitarias competentes o contraviniendo los términos en que ésta haya sido concedida, importe, posea, aísle, cultive, transporte, almacene o en general realice actos con agentes patógenos o sus vectores, cuando éstos sean de alta peligrosidad para la salud de las personas, de acuerdo con las normas oficiales mexicanas emitidas por la Secretaría de Salud, se le aplicará de uno a ocho años de prisión y multa equivalente de cien a dos mil días de salario mínimo general vigente en la zona económica de que se trate.
@@ -8221,6 +8625,10 @@ Al que sin autorización de las autoridades sanitarias competentes o contravinie
 ###### ARTICULO 456.
 
 Al que sin autorización de la Secretaría de Salud o contraviniendo los términos en que ésta haya sido concedida, elabore, introduzca a territorio nacional, transporte, distribuya, comercie, almacene, posea, deseche o, en general, realice actos con las substancias tóxicas o peligrosas a que se refiere el artículo 278 de esta Ley, con inminente riesgo a la salud de las personas, se le impondrá de uno a ocho años de prisión y multa equivalente de cien a dos mil días de salario mínimo general vigente en la zona económica de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+ARTICULO 456 BIS.- Al que realice por cualquier medio alguna de las conductas a que se refiere el artículo 282 Quater de esta Ley, se le impondrá de uno a ocho años de prisión y multa equivalente de cien a dos mil veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 457.
 
@@ -8451,6 +8859,10 @@ Las penas previstas en este Capítulo se aplicarán independientemente de las qu
 A las personas morales involucradas en la comisión de cualquiera de los delitos previstos en este Capítulo, se les aplicará, a juicio de la autoridad, lo dispuesto en materia de suspensión o disolución en el Código Penal.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 20 DE AGOSTO DE 2009)</small>
+
+### CAPITULO VII. Delitos Contra la Salud en su modalidad de Narcomenudeo
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 473.
 
@@ -9941,3 +10353,61 @@ D.O.F. 7 DE JUNIO DE 2024.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+D.O.F. 15 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES; DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES; DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY GENERAL DE DESARROLLO SOCIAL; DE LA LEY GENERAL DE SALUD; DE LA LEY GENERAL DE EDUCACIÓN; DE LA LEY DEL SEGURO SOCIAL; DE LA LEY DE MIGRACIÓN; DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO; DE LA LEY DE PLANEACIÓN; DE LA LEY DE VIVIENDA; DE LA LEY FEDERAL DEL TRABAJO; DE LA LEY FEDERAL DEL DERECHO DE AUTOR; DE LA LEY FEDERAL DE PROTECCIÓN A LA PROPIEDAD INDUSTRIAL Y DE LA LEY GENERAL DE CULTURA Y DERECHOS CULTURALES”.]
+
+Primero. El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Tercero. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
+
+Cuarto. Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
+
+Quinto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
+
+Sexto. Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
+
+Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
+
+D.O.F. 15 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE SALUD".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La inclusión en las clasificaciones previstas en el artículo 245 de esta Ley de las siguientes substancias: CATINA, DIHIDROERGOCRISTINA, NICERGOLINA, NORPSEUDOEFEDRINA, PSEUDOEFEDRINA, ANFEBUTAMONA (BUPROPIÓN), TRAMADOL, ACIDO GAMMA HIDROXIBUTIRICO (GHB), BENZQUINAMIDA, GAMMA BUTIROLACTONA (GBL), entrará en vigor a los ciento ochenta días naturales siguientes a la publicación en el Diario Oficial de la Federación del presente Decreto.
+
+Tercero.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Se abroga el Reglamento de la Ley General de Salud en Materia de Protección Social en Salud publicado en el Diario Oficial de la Federación el 5 de abril de 2004.
+
+Cuarto.- La Secretaría de Salud integrará la información del Plan Maestro Nacional de Infraestructura en Salud y Equipamiento de Alta Tecnología en un plazo no mayor a ciento ochenta días naturales posteriores a la entrada en vigor del presente Decreto. La integración por primera vez de este Plan no afectará las obras en trámite, ni las asociadas a programas prioritarios o proyectos estratégicos.
+
+Quinto.- La Secretaría de Salud deberá emitir los lineamientos a que se refiere el artículo 60 Octies de este ordenamiento en un plazo no mayor a noventa días naturales posteriores a la entrada en vigor del presente Decreto.
+
+A la entrada en vigor del presente Decreto queda sin efectos el Acuerdo por el que se establecen los Criterios Generales para el Desarrollo de Infraestructura en Salud, publicado en el Diario Oficial de la Federación el 4 de mayo de 2022.
+
+Sexto.- Los certificados de necesidades emitidos a la fecha de entrada en vigor del presente Decreto conservarán la vigencia con la que fueron emitidos. La Secretaría de Salud integrará la información contenida en dichos certificados en la integración del Plan Maestro Nacional de Infraestructura en Salud y Equipamiento de Alta Tecnología.
+
+Los trámites de certificados de necesidades pendientes de conclusión a la fecha de entrada en vigor del presente Decreto deben ser resueltos en un plazo no mayor a quince días hábiles a la entrada en vigor del presente instrumento, de conformidad con las disposiciones jurídicas aplicables al momento de su inicio, e integrarse en el Plan Maestro Nacional de Infraestructura en Salud y Equipamiento de Alta Tecnología.
+
+Séptimo.- La Comisión Nacional de Arbitraje Médico deberá llevar a cabo las gestiones necesarias para la emisión y en su caso modificación de la normativa interna que regule la implementación de los mecanismos alternativos de solución de controversias en materia de servicios de salud contemplados en el presente ordenamiento en un plazo no mayor a ciento ochenta días naturales posteriores a la entrada en vigor del presente Decreto.
+
+Octavo.- Las autorizaciones sanitarias relacionadas con cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos, que se hayan otorgado con anterioridad a la entrada en vigor de este Decreto, quedarán sin efectos.
+
+La Comisión Federal para la Protección contra Riesgos Sanitarios notificará a las personas titulares de dichas autorizaciones para que, de manera inmediata, cesen todas las actividades vinculadas a dichos dispositivos.
+
+Noveno.- La disposición prevista en el artículo 10, párrafo último, de este ordenamiento, para promover la participación de personas físicas o morales que acrediten contar, en territorio nacional, con inversión en la cadena de producción de medicamentos, dispositivos médicos y demás insumos para la salud, o con el inicio de instalación de fábricas, laboratorios o almacenes que formen parte de dicha cadena, o bien, de aquellas que desarrollen investigación científica o cuando se trate de adquisiciones de productos innovadores en materia de salud en los procedimientos de contratación consolidada de medicamentos, dispositivos médicos y demás insumos para la salud, será aplicable a los procedimientos de contratación que se realicen a partir del ejercicio fiscal 2026 y cuyos medicamentos, dispositivos médicos y demás insumos para la salud sean programados para su entrega a partir del 2027.
+
+Décimo.- Se deroga el Transitorio Décimo Sexto del Decreto por el que se reforma y adiciona la Ley General de Salud publicado en el Diario Oficial de la Federación el 15 de mayo de 2003.
+
+Décimo Primero.- Las erogaciones que se generen por la implementación del presente Decreto se cubrirán con cargo a los presupuestos de los ejecutores de gasto que intervengan en este, por lo que no se autorizarán ampliaciones de recursos en el presente ejercicio fiscal ni en años subsecuentes para tales efectos.
+
+Para ejercicios fiscales subsecuentes se deberán realizar las previsiones de recursos respectivas en los anteproyectos de presupuesto de los ejecutores de gasto que correspondan sin que se incremente su presupuesto regularizable de gasto de operación ni de servicios personales.
+
+Décimo Segundo.- Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) en un plazo máximo de treinta días hábiles, contado a partir de la entrada en vigor del presente Decreto, realizará las acciones necesarias para modificar, en términos de las disposiciones jurídicas aplicables, el contrato del fideicomiso público denominado "Fondo de Salud para el Bienestar", conforme a lo previsto en el presente Decreto.
+
+Formalizada la modificación al contrato dentro de los treinta días hábiles siguientes, el Comité Técnico deberá aprobar las reglas de operación del Fondo de Salud para el Bienestar, conforme a lo previsto en el presente Decreto.
