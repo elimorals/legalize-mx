@@ -4,7 +4,7 @@ identifier: "LGE"
 country: "mx"
 rank: "ley_general"
 publication_date: "2019-09-30"
-last_updated: "2024-06-07"
+last_updated: "2026-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138312&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGE"
 
 LEY GENERAL DE EDUCACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ENERO DE 2026.
 
 Ley publicada en el Número 23 del Diario Oficial de la Federación, el lunes 30 de septiembre de 2019.
 
@@ -114,7 +114,9 @@ a) Extenderá sus beneficios sin discriminación alguna, de conformidad con lo d
 
 b) Tendrá especial énfasis en el estudio de la realidad y las culturas nacionales;
 
-II. Inclusiva, eliminando toda forma de discriminación y exclusión, así como las demás condiciones estructurales que se convierten en barreras al aprendizaje y la participación, por lo que:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 15 DE ENERO DE 2026)</small>
+
+II. Inclusiva, con perspectiva de género y de derechos humanos, eliminando toda forma de discriminación, exclusión y violencias, así como las demás condiciones estructurales que puedan implicar barreras para el aprendizaje y la participación, por lo que:
 
 a) Atenderá las capacidades, circunstancias, necesidades, estilos y ritmos de aprendizaje de los educandos;
 
@@ -148,13 +150,21 @@ La educación impartida por los particulares con autorización o con reconocimie
 
 El Estado está obligado a prestar servicios educativos con equidad y excelencia.
 
-Las medidas que adopte para tal efecto estarán dirigidas, de manera prioritaria, a quienes pertenezcan a grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, preferencia sexual o prácticas culturales.
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+Las medidas que adopte para tal efecto estarán dirigidas, de manera prioritaria, a quienes pertenezcan a grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con estereotipos de género, orientación sexual o prácticas culturales que constituyan barreras para acceder a servicios educativos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### Artículo 9.
 
-Las autoridades educativas, en el ámbito de sus respectivas competencias y con la finalidad de establecer condiciones que permitan el ejercicio pleno del derecho a la educación de cada persona, con equidad y excelencia, realizarán entre otras, las siguientes acciones:
+Las autoridades educativas, en el ámbito de sus respectivas competencias y con la finalidad de establecer condiciones que permitan el ejercicio pleno del derecho a la educación de cada persona, favoreciendo la igualdad sustantiva entre mujeres y hombres y excelencia, realizarán entre otras, las siguientes acciones:
 
-I. Establecer políticas incluyentes, transversales y con perspectiva de género, para otorgar becas y demás apoyos económicos que prioricen a los educandos que enfrenten condiciones socioeconómicas que les impidan ejercer su derecho a la educación;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+I. Establecer políticas incluyentes, transversales y con perspectiva de género, para otorgar becas y demás apoyos económicos que prioricen a las y los educandos que enfrenten condiciones socioeconómicas que les impidan ejercer su derecho a la educación.
+
+Las autoridades educativas deberán implementar políticas educativas con enfoque diferenciado, con perspectiva de género y de derechos humanos para la prevención y atención de la deserción escolar de las mujeres, adolescentes, niñas y niños;
 
 II. Impulsar, en coordinación con las autoridades en la materia, programas de acceso gratuito a eventos culturales para educandos en vulnerabilidad social;
 
@@ -206,7 +216,9 @@ II. Propiciar un diálogo continuo entre las humanidades, las artes, la ciencia,
 
 III. Fortalecer el tejido social para evitar la corrupción, a través del fomento de la honestidad y la integridad, además de proteger la naturaleza, impulsar el desarrollo en lo social, ambiental, económico, así como favorecer la generación de capacidades productivas y fomentar una justa distribución del ingreso;
 
-IV. Combatir las causas de discriminación y violencia en las diferentes regiones del país, especialmente la que se ejerce contra la niñez y las mujeres, y
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+IV. Combatir las causas de discriminación y violencias en las diferentes regiones del país, especialmente las que se ejercen contra las niñas, niños, adolescentes y las mujeres, de conformidad con los deberes reforzados del Estado de protección de este sector de la población, y
 
 V. Alentar la construcción de relaciones sociales, económicas y culturales con base en el respeto de los derechos humanos.
 
@@ -218,15 +230,25 @@ I. La identidad, el sentido de pertenencia y el respeto desde la interculturalid
 
 II. La responsabilidad ciudadana, sustentada en valores como la honestidad, la justicia, la solidaridad, la reciprocidad, la lealtad, la libertad, entre otros;
 
-III. La participación activa en la transformación de la sociedad, al emplear el pensamiento crítico a partir del análisis, la reflexión, el diálogo, la conciencia histórica, el humanismo y la argumentación para el mejoramiento de los ámbitos social, cultural y político, y
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-IV. El respeto y cuidado al medio ambiente, con la constante orientación hacia la sostenibilidad, con el fin de comprender y asimilar la interrelación con la naturaleza y de los temas sociales, ambientales y económicos, así como su responsabilidad para la ejecución de acciones que garanticen su preservación y promuevan estilos de vida sostenibles.
+III. La participación activa en la transformación de la sociedad, al emplear el pensamiento crítico a partir del análisis, la reflexión, el diálogo, la conciencia histórica, el humanismo y la argumentación para el mejoramiento de los ámbitos social, cultural y político;
+
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+IV. El respeto y cuidado al medio ambiente, con la constante orientación hacia la sostenibilidad, con el fin de comprender y asimilar la interrelación de las personas con la naturaleza y de los temas sociales, ambientales y económicos, así como su responsabilidad y participación para la ejecución de acciones que garanticen su preservación y restauración, y que adopten y promuevan estilos de vida sostenibles, y
+
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+V. La igualdad sustantiva entre mujeres y hombres, a través de la incorporación transversal de la perspectiva de género.
 
 ###### Artículo 14.
 
 Para el cumplimiento de los fines y criterios de la educación conforme a lo dispuesto en este Capítulo, la Secretaría promoverá un Acuerdo Educativo Nacional que considerará las siguientes acciones:
 
-I. Concebir a la escuela como un centro de aprendizaje comunitario en el que se construyen y convergen saberes, se intercambian valores, normas, culturas y formas de convivencia en la comunidad y en la Nación;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+I. Concebir a la escuela como un centro de aprendizaje comunitario, seguro y libre de violencias en el que se construyen y convergen saberes, se intercambian valores, normas, culturas y formas de convivencia en la comunidad y en la Nación;
 
 II. Reconocer a las niñas, niños, adolescentes, jóvenes y adultos como sujetos de la educación, prioridad del Sistema Educativo Nacional y destinatarios finales de las acciones del Estado en la materia;
 
@@ -434,7 +456,9 @@ VII. El fomento de la activación física, la práctica del deporte y la educaci
 
 VIII. La promoción de estilos de vida saludables, la educación para la salud, la importancia de la donación de órganos, tejidos y sangre;
 
-IX. El fomento de la igualdad de género para la construcción de una sociedad justa e igualitaria;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+IX. El fomento de la igualdad sustantiva para la construcción de una sociedad justa, igualitaria y libre de violencias;
 
 X. La educación sexual integral y reproductiva que implica el ejercicio responsable de la sexualidad, la planeación familiar, la maternidad y la paternidad responsable, la prevención de los embarazos adolescentes y de las infecciones de transmisión sexual;
 
@@ -458,7 +482,9 @@ XIX. La promoción de actitudes solidarias y positivas hacia el trabajo, el ahor
 
 XX. El fomento de la lectura y el uso de los libros, materiales diversos y dispositivos digitales;
 
-XXI. La promoción del valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, la cultura de la legalidad, de la inclusión y la no discriminación, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como la práctica de los valores y el conocimiento de los derechos humanos para garantizar el respeto a los mismos;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+XXI. La promoción del valor de la justicia, de la observancia de la ley y de la igualdad sustantiva entre mujeres y hombres, la cultura de la legalidad, de la inclusión y la no discriminación, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como la práctica de los valores y el conocimiento de los derechos humanos para garantizar el respeto a los mismos;
 
 XXII. El conocimiento de las artes, la valoración, la apreciación, preservación y respeto del patrimonio musical, cultural y artístico, así como el desarrollo de la creatividad artística por medio de los procesos tecnológicos y tradicionales;
 
@@ -942,17 +968,21 @@ X. Los demás que sean reconocidos en la Constitución Política de los Estados 
 
 El Estado establecerá los mecanismos que contribuyan a su formación integral, tomando en cuenta los contextos sociales, territoriales, económicos, lingüísticos y culturales específicos en la elaboración y aplicación de las políticas educativas en sus distintos tipos y modalidades.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
+
 ###### Artículo 73.
 
-En la impartición de educación para menores de dieciocho años se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad y derechos, y que la aplicación de la disciplina escolar sea compatible con su edad, de conformidad con los lineamientos que para tal efecto se establezcan.
+En la impartición de educación para menores de dieciocho años se tomarán medidas reforzadas de protección para las y los educandos que aseguren el cuidado necesario para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad, la igualdad sustantiva entre mujeres y hombres y el respeto a su derecho a una vida libre de violencias, y que la aplicación de la disciplina escolar sea compatible con su edad, de conformidad con los lineamientos que para tal efecto se establezcan.
 
 Los docentes y el personal que labora en los planteles de educación deberán estar capacitados para tomar las medidas que aseguren la protección, el cuidado de los educandos y la corresponsabilidad que tienen al estar encargados de su custodia, así como protegerlos contra toda forma de maltrato, violencia, perjuicio, daño, agresión, abuso, trata o explotación sexual o laboral.
 
 En caso de que los docentes, el personal que labora en los planteles educativos, así como las autoridades educativas, tengan conocimiento de la comisión de algún hecho que la ley señale como delito en agravio de los educandos, lo harán del conocimiento inmediato de la autoridad correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
+
 ###### Artículo 74.
 
-Las autoridades educativas, en el ámbito de su competencia, promoverán la cultura de la paz y no violencia para generar una convivencia democrática basada en el respeto a la dignidad de las personas y de los derechos humanos. Realizarán acciones que favorezcan el sentido de comunidad y solidaridad, donde se involucren los educandos, los docentes, madres y padres de familia o tutores, así como el personal de apoyo y asistencia a la educación, y con funciones directivas o de supervisión para prevenir y atender la violencia que se ejerza en el entorno escolar.
+Las autoridades educativas, en el ámbito de su competencia, promoverán la cultura de la paz y el derecho a una vida libre de violencias, para generar una convivencia democrática basada en el respeto a la dignidad de las personas, con perspectiva de género y de derechos humanos. Realizarán acciones que favorezcan el sentido de comunidad y solidaridad, donde se involucren los educandos, los docentes, madres y padres de familia o tutores, así como el personal de apoyo y asistencia a la educación, y con funciones directivas o de supervisión para prevenir y atender la violencia que se ejerza en el entorno escolar.
 
 Para cumplir con lo establecido en este artículo, se llevarán a cabo, entre otras, las siguientes acciones:
 
@@ -968,13 +998,19 @@ V. Solicitar a la Comisión Nacional para la Mejora Continua de la Educación es
 
 VI. Celebrar convenios de cooperación, coordinación y concertación con los sectores públicos, privados y sociales, para promover los derechos de las niñas, niños, adolescentes y jóvenes, y el fomento de la cultura de la paz, resolución no violenta de conflictos, fortalecimiento de la cohesión comunitaria y convivencia armónica dentro de las escuelas;
 
-VII. Hacer del conocimiento de las autoridades competentes las conductas que pueden resultar constitutivas de infracciones o delitos cometidos en contra de las niñas, los niños, adolescentes y jóvenes por el ejercicio de cualquier maltrato o tipo de violencia en el entorno escolar, familiar o comunitario, así como promover su defensa en las instancias administrativas o judiciales;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-VIII. Realizar campañas, mediante el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, que concienticen sobre la importancia de una convivencia libre de violencia o maltrato, ya sea psicológico, físico o cibernético, en los ámbitos familiar, comunitario, escolar y social, y
+VII. Hacer del conocimiento de las autoridades competentes las conductas que pueden resultar constitutivas de infracciones o delitos cometidos en contra de las niñas, los niños, adolescentes y jóvenes por el ejercicio de cualquier maltrato o tipo de violencias en el entorno escolar, familiar o comunitario, así como promover su defensa en las instancias administrativas o judiciales;
+
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+VIII. Realizar campañas, mediante el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, que concienticen sobre la importancia de una convivencia libre de violencias o maltrato, ya sea psicológico, físico o cibernético, en los ámbitos familiar, comunitario, escolar y social, y
 
 IX. Elaborar y difundir materiales educativos para la prevención y atención de los tipos y modalidades de maltrato escolar, así como coordinar campañas de información sobre las mismas.
 
-Las autoridades educativas, en el ámbito de sus respectivas competencias, emitirán los lineamientos para los protocolos de actuación que sean necesarios para el cumplimiento de este artículo, entre otros, para la prevención y atención de la violencia que se genere en el entorno escolar, familiar o comunitario contra cualquier integrante de la comunidad educativa, para su detección oportuna y para la atención de accidentes que se presenten en el plantel educativo. A su vez, determinarán los mecanismos para la mediación y resolución pacífica de controversias que se presenten entre los integrantes de la comunidad educativa.
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+Las autoridades educativas, en el ámbito de sus respectivas competencias y, en observancia de sus deberes reforzados de protección con las mujeres, adolescentes, niñas y niños emitirán los lineamientos para los protocolos de actuación que sean necesarios para el cumplimiento de este artículo, entre otros, para la prevención y atención de la violencia que se genere en el entorno escolar, familiar o comunitario contra cualquier integrante de la comunidad educativa, para su detección oportuna y para la atención de accidentes que se presenten en el plantel educativo, con énfasis en la prevención, atención y sanción de casos de hostigamiento sexual y acoso sexual. A su vez, determinarán los mecanismos para la mediación y resolución pacífica de controversias que se presenten entre los integrantes de la comunidad educativa.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE DICIEMBRE DE 2023)</small>
 
@@ -2325,3 +2361,21 @@ Segundo. Los Congresos de las entidades federativas deberán legislar en materia
 Tercero. La autoridad educativa federal deberá, previa consulta a pueblos y comunidades indígenas y afromexicanas, actualizar los lineamientos relativos a los Consejos de Participación Escolar en un plazo no mayor a 365 días a partir de la publicación del presente Decreto.
 
 Cuarto. Las obligaciones que en su caso se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+D.O.F. 15 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES; DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES; DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY GENERAL DE DESARROLLO SOCIAL; DE LA LEY GENERAL DE SALUD; DE LA LEY GENERAL DE EDUCACIÓN; DE LA LEY DEL SEGURO SOCIAL; DE LA LEY DE MIGRACIÓN; DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO; DE LA LEY DE PLANEACIÓN; DE LA LEY DE VIVIENDA; DE LA LEY FEDERAL DEL TRABAJO; DE LA LEY FEDERAL DEL DERECHO DE AUTOR; DE LA LEY FEDERAL DE PROTECCIÓN A LA PROPIEDAD INDUSTRIAL Y DE LA LEY GENERAL DE CULTURA Y DERECHOS CULTURALES".]
+
+Primero. El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Tercero. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
+
+Cuarto. Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
+
+Quinto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
+
+Sexto. Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
+
+Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
