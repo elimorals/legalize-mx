@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2025-09-24"
+last_updated: "2026-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,7 +26,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2026.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -1308,9 +1308,9 @@ XXXV.- (DEROGADA, P.O. 15 DE FEBRERO DE 2018)
 
 XXXVI.- Nombrar Gobernador interino o Substituto en los casos que determina esta Constitución.
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2026)</small>
 
-XXXVII.- Designar a las personas integrantes del Órgano de Administración del Poder Judicial que le corresponden, a las personas Titulares de las Magistraturas del Tribunal de Justicia Administrativa, a la persona titular del Tribunal Unitario de Justicia Penal para Adolescentes, de conformidad con lo previsto en esta Constitución; así como a la persona Titular de la Fiscalía General del Estado, este último de entre la terna de personas ciudadanas que someta a su consideración la Persona Titular del Poder Ejecutivo. Las designaciones a que alude esta fracción deberán reunir el voto aprobatorio de las dos terceras partes de los integrantes del Congreso;
+XXXVII.- Designar a las personas integrantes del Órgano de Administración del Poder Judicial que le corresponden, a las personas Titulares de las Magistraturas del Tribunal de Justicia Administrativa de conformidad con lo previsto en esta Constitución; así como a la persona Titular de la Fiscalía General del Estado, este último de entre la terna de personas ciudadanas que someta a su consideración la Persona Titular del Poder Ejecutivo. Las designaciones a que alude esta fracción deberán reunir el voto aprobatorio de cuando menos las dos terceras partes de los integrantes del Congreso;
 
 > <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
 
@@ -2406,59 +2406,55 @@ DEL PODER JUDICIAL.
 
 DISPOSICIONES PRELIMINARES.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2026)</small>
 
 ###### Artículo 86.
 
-El ejercicio del Poder Judicial del Estado, se deposita en el Tribunal Superior de Justicia, el cual funcionará en Pleno, Salas Colegiadas y, en su caso, en Salas Especializadas por materia; en el Tribunal de Disciplina Judicial, un Órgano de Administración Judicial, en un Tribunal Unitario de Justicia Penal para Adolescentes; así como los Juzgados de Primera Instancia, Juzgados Menores, Especializados, de Control, de Enjuiciamiento, de Ejecución y de Paz, organizados de acuerdo con su competencia establecida en las leyes.
+El ejercicio del Poder Judicial del Estado, se deposita en el Tribunal Superior de Justicia, el cual funcionará en Pleno, Salas Colegiadas, Unitarias y, en su caso, en Salas Especializadas por materia; en un Tribunal Unitario de Justicia Penal para Adolescentes; en el Tribunal de Disciplina Judicial, un Órgano de Administración Judicial; así como los Juzgados de Primera Instancia, Juzgados Menores, Especializados en Materia Penal Adversarial; Especializados en Materia de Justicia Penal para Adolescentes y de Paz, organizados de acuerdo con su competencia establecida en las leyes.
 
 La administración del Poder Judicial del Estado estará a cargo de un Órgano de Administración Judicial, mientras que la disciplina de su personal estará a cargo del Tribunal de Disciplina Judicial, en los términos que, conforme a las bases que señala esta Constitución, y las que establezcan las leyes.
 
-El Órgano de Administración Judicial determinará el número y división en circuitos y distritos judiciales, competencia territorial, especialización por materias, de los juzgados de primera instancia, especializados, menores, y de paz.
+El Órgano de Administración Judicial determinará el número y división en distritos judiciales, competencia territorial, especialización por materias, de los juzgados de primera instancia, especializados en materia penal adversarial; especializados en materia de justicia penal para adolescentes y menores.
 
 Para la integración de los órganos jurisdiccionales la ley establecerá las bases para la formación, evaluación, certificación y actualización de las personas funcionarias y servidoras públicas, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género.
 
-La elección de las personas Titulares de las Magistraturas, así como las personas Titulares de los Juzgados del Poder Judicial, se regirá en las bases previstas en el artículo 87 BIS de esta Constitución.
+La elección de las personas Titulares de las Magistraturas del Tribunal Superior de Justicia; las personas integrantes del Tribunal Unitario de Justicia Penal para Adolescentes y del Tribunal de Disciplina Judicial, así como las personas Titulares de los Juzgados del Poder Judicial, se regirá en las bases previstas en el artículo 87 BIS de esta Constitución.
 
 Los órganos jurisdiccionales aplicarán las leyes federales, tratándose de jurisdicción concurrente.
 
 El Poder Judicial contará con jueces especializados en materia laboral, que tendrán las atribuciones que la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo, esta Constitución, la Ley Orgánica del Poder Judicial del Estado de Morelos y las demás leyes aplicables les confieran.
 
-El Poder Judicial contará con jueces de control, de enjuiciamiento y de ejecución que tendrán las atribuciones que la Constitución Política de los Estados Unidos Mexicanos, el Código Nacional de Procedimientos Penales, esta Constitución y las demás leyes aplicables les confieran.
+El Poder Judicial contará con jueces especializados en Materia Penal Adversarial, que serán de Control, de Enjuiciamiento y de Ejecución, así como Especializados en Materia de Justicia Penal para Adolescentes que igualmente serán de Control, de Enjuiciamiento y de Ejecución, los que respectivamente tendrán las atribuciones que la Constitución Política de los Estados Unidos Mexicanos, el Código Nacional de Procedimientos Penales, la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes; esta Constitución y las demás leyes aplicables les confieran.
 
 Las leyes determinarán los procedimientos que habrán de seguirse para sustanciar los juicios y todos los actos en que intervenga el Poder Judicial.
 
-La competencia y funcionamiento del Pleno del Tribunal Superior de Justicia, de sus Salas, del Tribunal de Disciplina Judicial y los Juzgados del Poder Judicial, así como las responsabilidades en que incurran las personas servidoras públicas del Poder Judicial, se regirán por lo que dispongan las leyes y los acuerdos generales correspondientes, de conformidad con las bases que esta Constitución establece.
+La competencia y funcionamiento del Pleno del Tribunal Superior de Justicia, del Tribunal Unitario de Justicia Penal para Adolescentes; del Tribunal de Disciplina Judicial; de sus Salas y los Juzgados del Poder Judicial, así como las responsabilidades en que incurran las personas servidoras públicas del Poder Judicial, se regirán por lo que dispongan las leyes y los acuerdos generales correspondientes, de conformidad con las bases que esta Constitución establece.
 
-> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2026)</small>
 
-###### Artículo 86 Bis.
-
-– Las personas que hayan ocupado una Magistratura del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, o del Tribunal Unitario de Justicia Penal para Adolescentes, no podrán dentro del año siguiente a la fecha de la conclusión de su cargo, actuar como abogados patronos, o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado. Para el caso de las personas Titulares de los Juzgados, este impedimento aplicará respecto del distrito judicial de su adscripción al momento de dejar el cargo, en los términos que establezca la ley.
+Artículo 86 BIS.- Las personas que hayan ocupado una Magistratura del Tribunal Superior de Justicia; del Tribunal Unitario de Justicia Penal para Adolescentes o del Tribunal de Disciplina Judicial, no podrán dentro del año siguiente a la fecha de la conclusión de su cargo, actuar como abogados patronos, o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado. Para el caso de las personas Titulares de los Juzgados, este impedimento aplicará respecto del distrito judicial de su adscripción al momento de dejar el cargo, en los términos que establezca la ley.
 
 Durante dicho plazo, las personas que hayan ocupado cualquier Magistratura, no podrán ocupar los cargos señalados en la fracción VIII del artículo 90.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2026)</small>
 
 ###### Artículo 87.
 
-La Ley Orgánica del Poder Judicial establecerá y organizará los Tribunales, garantizará la independencia de las personas Titulares de las Magistraturas y personas Titulares de los Juzgados del Poder Judicial del Estado de Morelos en el ejercicio de sus funciones, determinará sus atribuciones y marcará los procedimientos a que deberán sujetarse para ejercitarlas.
+La Ley Orgánica de los Tribunales que Integran el Poder Judicial establecerá las bases de su organización, garantizará la independencia de las personas Titulares de las Magistraturas y personas Titulares de los Juzgados del Poder Judicial del Estado de Morelos en el ejercicio de sus funciones, determinará sus atribuciones y marcará los procedimientos a que deberán sujetarse para ejercitarlas.
 
-El Tribunal Unitario de Justicia Penal para Adolescentes, se regirá y organizará al interior por su propia Ley Orgánica.
-
-La Ley establecerá las bases para la distribución interna entre los Tribunales que conforman al Poder Judicial del Estado de Morelos y el Órgano de Administración Judicial, respecto del presupuesto de egresos que anualmente reciba dicho Poder.
-
-La remuneración que perciban por sus servicios las personas Titulares de las Magistraturas del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, del Tribunal Unitario de Justicia Penal para Adolescentes, Integrantes del Órgano de Administración Judicial, personas Titulares de los Juzgados, y demás personal del Poder Judicial del Estado de Morelos, no podrá ser mayor a la establecida para la Persona Titular de la Presidencia de la República en el presupuesto correspondiente y no será disminuida durante su encargo.
+La remuneración que perciban por sus servicios las personas Titulares de las Magistraturas del Tribunal Superior de Justicia; del Tribunal Unitario de Justicia Penal para Adolescentes; del Tribunal de Disciplina Judicial; del Órgano de Administración Judicial, así como las personas Titulares de los Juzgados, y demás personal del Poder Judicial del Estado de Morelos, no podrá ser mayor a la establecida para la Persona Titular de la Presidencia de la República en el presupuesto correspondiente y no será disminuida durante su encargo.
 
 En el Estado de Morelos, en el ámbito del Poder Judicial, no podrán crearse ni mantenerse en operación fondos, fideicomisos, mandatos o contratos análogos que no estén previstos en la ley.
 
-> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2026)</small>
 
-###### Artículo 87 Bis.
+Artículo 87 BIS.- Las Magistraturas del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y las personas Titulares de los Juzgados del Poder Judicial del Estado de Morelos, así como de las personas integrantes del Tribunal Unitario de Justicia Penal para Adolescentes, serán elegidas de manera libre, directa y secreta por la ciudadanía el día que se realicen las elecciones ordinarias del año que corresponda, conforme al siguiente procedimiento:
 
-– Las Magistraturas del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y las personas Titulares de los Juzgados del Poder Judicial del Estado de Morelos, serán elegidas de manera libre, directa y secreta por la ciudadanía el día que se realicen las elecciones ordinarias del año que corresponda, conforme al siguiente procedimiento:
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
 
 I. El Congreso del Estado publicará la convocatoria para la integración del listado de candidaturas dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, la que contendrá las etapas completas del proceso, sus fechas y plazos improrrogables y los cargos a elegir. El Órgano de Administración Judicial hará del conocimiento previo del Congreso del Estado los cargos sujetos a elección, la especialización por materia, el distrito judicial respectivo, municipio y demás información que requiera;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
 
 II. Cada poder del Estado postulará el número de candidaturas que corresponda a cada cargo, conforme a lo que establece el presente artículo.
 
@@ -2470,43 +2466,67 @@ b) Cada Poder del Estado integrará un Comité de Evaluación conformado por cin
 
 c) Cada uno de los Comités de Evaluación integrará para cada Magistratura un listado de hasta diez personas que, a su criterio y con base en la documentación remitida, consideren mejor evaluadas para cada cargo y de hasta seis personas en los casos de las personas Titulares de los Juzgados del Poder Judicial. Posteriormente, depurarán dicho listado para ajustarlo al número de postulaciones para cada cargo, conforme a lo previsto en la ley, observando en todo momento el principio de paridad de género. Ajustados los listados, los Comités los remitirán a la autoridad que represente a cada Poder del Estado para remisión al Poder Legislativo. Los cargos de las personas integrantes de los Comités de Evaluación serán de carácter honorífico.
 
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
 III. El Congreso del Estado recibirá las postulaciones y remitirá los listados al Instituto Morelense de Procesos Electorales y Participación Ciudadana a más tardar el 12 de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.
 
 Las personas candidatas podrán ser postuladas simultáneamente por uno o varios Poderes del Estado, siempre que aspiren al mismo cargo. Los Poderes que no remitan sus postulaciones al término del plazo previsto en la convocatoria no podrán hacerlo posteriormente; y
 
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
 IV. El Instituto Morelense de Procesos Electorales y Participación Ciudadana efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres, observando en todo momento el principio de paridad de género. También declarará la validez de la elección y enviará sus resultados al Tribunal Electoral del Estado de Morelos, quien resolverá las impugnaciones antes de que el Congreso del Estado instale el primer periodo ordinario de sesiones del año de la elección que corresponda. Las personas titulares electas, tomarán protesta de su encargo ante dicho órgano legislativo el primero de septiembre de conformidad a lo dispuesto en el artículo 133 del presente ordenamiento.
 
-Para el caso de las Magistraturas del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, la elección podrá realizarse a nivel estatal, por Circuitos o Distritos, conforme al procedimiento establecido en el párrafo anterior y en los términos que dispongan las leyes. Cada uno de los Poderes del Estado postulará hasta tres personas para cada cargo en términos del inciso c) de la fracción II del presente artículo y remitirán sus propuestas por conducto de sus personas Titulares.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2026)</small>
 
-Para el caso de las personas Titulares de los Juzgados del Poder Judicial, con excepción de los Juzgados de Paz, la elección se realizará a nivel estatal, por Circuitos o Distritos, conforme al procedimiento establecido en el presente artículo y en los términos que dispongan las leyes. Cada uno de los Poderes del Estado postulará hasta dos personas para cada cargo en términos del inciso c) de la fracción II del presente artículo, y remitirán sus propuestas por conducto de sus personas Titulares.
+Para el caso de las Magistraturas del Tribunal Superior de Justicia, del Tribunal Unitario de Justicia Penal para Adolescentes y del Tribunal de Disciplina Judicial, la elección podrá realizarse a nivel estatal, por Circuitos o Distritos, conforme al procedimiento establecido en el párrafo anterior y en los términos que dispongan las leyes. Cada uno de los Poderes del Estado postulará hasta tres personas para cada cargo en términos del inciso c) de la fracción II del presente artículo y remitirán sus propuestas por conducto de sus personas Titulares.
 
-Para el caso de las personas Titulares de los Juzgados de Paz del Poder Judicial del Estado de Morelos, la elección se realizará a nivel municipal conforme al procedimiento establecido en el presente artículo y en los términos que dispongan las leyes. Cada uno de los Poderes del Estado de Morelos postulará hasta dos personas para cada cargo en términos del inciso c) de la fracción II del presente artículo, y remitirán sus propuestas por conducto de sus personas Titulares.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2026)</small>
 
-Para los casos previstos en los párrafos anteriores, el Poder Ejecutivo lo hará por conducto de su Persona Titular; el Poder Legislativo postulará mediante la votación calificada de las dos terceras partes de sus integrantes, y el Poder Judicial, por conducto del Pleno del Tribunal Superior de Justicia, postulará mediante la votación de las dos terceras partes de sus integrantes presentes.
-
-El Congreso del Estado incorporará a los listados que remita al Instituto Morelense de Procesos Electorales y Participación Ciudadana a las personas que se encuentren en funciones en los cargos señalados en los párrafos anteriores al cierre de la convocatoria respectiva, siempre y cuando manifiesten al Congreso del Estado, la intención de su candidatura dentro de los siete días posteriores a su publicación y su postulación sea para el mismo cargo. La asignación de los cargos electos se realizará por materia de especialización entre las candidaturas que obtengan el mayor número de votos observando en todo momento el principio de paridad de género.
-
-La etapa de preparación de la elección correspondiente iniciará con la primera sesión que el Consejo Estatal Electoral celebre durante la primera semana del mes de septiembre del año anterior a la elección.
-
-Las personas candidatas tendrán derecho de acceso a radio y televisión conforme a la distribución del tiempo que señale la ley y determine el Instituto Nacional Electoral, además podrán participar en foros de debate, que en su caso, organice el Instituto Morelense de Procesos Electorales y Participación Ciudadana o en aquellos brindados gratuitamente por el sector público, privado, social en condiciones de equidad.
-
-Para todos los cargos de elección dentro del Poder Judicial del Estado, estará prohibido el financiamiento público o privado de sus campañas, así como la contratación por sí o por interpósita persona de espacios en radio y televisión o de cualquier otro medio de comunicación para promocionar candidaturas. Los partidos políticos y las personas servidoras públicas no podrán realizar actos de proselitismo ni posicionarse a favor o en contra de candidatura alguna.
-
-La duración de las campañas para los cargos señalados en el presente artículo será de cuarenta y cinco días y en ningún caso habrá etapa de precampaña. La ley establecerá la forma de las campañas, así como las restricciones y sanciones aplicables a las personas candidatas o servidoras publicas cuyas manifestaciones o propuestas excedan o contravengan parámetros constitucionales y legales.
-
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
-
-###### Artículo 88.
-
-Las personas Titulares de las Magistraturas de los Tribunales del Estado, las personas Titulares de los Juzgados del Poder Judicial y las personas Titulares de las respectivas Secretarías, no podrán desempeñar empleo o cargo de la Federación, del Estado, de los Municipios, ni de particulares, por el que reciban alguna remuneración, a no ser que sean de docencia o de beneficencia y que no les impidan el expedito ejercicio de sus funciones.
+Para el caso de las personas Titulares de los Juzgados del Poder Judicial, así como de las personas juzgadoras del Tribunal Unitario de Justicia Penal para Adolescentes, con excepción de los Juzgados de Paz, la elección se realizará a nivel estatal, por Circuitos o Distritos, conforme al procedimiento establecido en el presente artículo y en los términos que dispongan las leyes. Cada uno de los Poderes del Estado postulará hasta dos personas para cada cargo en términos del inciso c) de la fracción II del presente artículo, y remitirán sus propuestas por conducto de sus personas Titulares.
 
 > <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
 
-###### Artículo 88 Bis.
+Para el caso de las personas Titulares de los Juzgados de Paz del Poder Judicial del Estado de Morelos, la elección se realizará a nivel municipal conforme al procedimiento establecido en el presente artículo y en los términos que dispongan las leyes. Cada uno de los Poderes del Estado de Morelos postulará hasta dos personas para cada cargo en términos del inciso c) de la fracción II del presente artículo, y remitirán sus propuestas por conducto de sus personas Titulares.
 
-Cuando la falta de una persona Titular de la Magistratura del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial o personas Titulares de los Juzgados del Poder Judicial, excediere de treinta días sin licencia o dicha falta se deba a defunción, renuncia o cualquier causa de separación definitiva; la vacante será cubierta conforme a lo establecido en la ley.
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
 
-Las licencias definitivas de las personas Titulares de las Magistraturas del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial deberán presentarse al Congreso del Estado de Morelos o, en sus recesos, a la Diputación Permanente.
+Para los casos previstos en los párrafos anteriores, el Poder Ejecutivo lo hará por conducto de su Persona Titular; el Poder Legislativo postulará mediante la votación calificada de las dos terceras partes de sus integrantes, y el Poder Judicial, por conducto del Pleno del Tribunal Superior de Justicia, postulará mediante la votación de las dos terceras partes de sus integrantes presentes.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
+
+El Congreso del Estado incorporará a los listados que remita al Instituto Morelense de Procesos Electorales y Participación Ciudadana a las personas que se encuentren en funciones en los cargos señalados en los párrafos anteriores al cierre de la convocatoria respectiva, siempre y cuando manifiesten al Congreso del Estado, la intención de su candidatura dentro de los siete días posteriores a su publicación y su postulación sea para el mismo cargo. La asignación de los cargos electos se realizará por materia de especialización entre las candidaturas que obtengan el mayor número de votos observando en todo momento el principio de paridad de género.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
+
+La etapa de preparación de la elección correspondiente iniciará con la primera sesión que el Consejo Estatal Electoral celebre durante la primera semana del mes de septiembre del año anterior a la elección.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
+
+Las personas candidatas tendrán derecho de acceso a radio y televisión conforme a la distribución del tiempo que señale la ley y determine el Instituto Nacional Electoral, además podrán participar en foros de debate, que en su caso, organice el Instituto Morelense de Procesos Electorales y Participación Ciudadana o en aquellos brindados gratuitamente por el sector público, privado, social en condiciones de equidad.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
+
+Para todos los cargos de elección dentro del Poder Judicial del Estado, estará prohibido el financiamiento público o privado de sus campañas, así como la contratación por sí o por interpósita persona de espacios en radio y televisión o de cualquier otro medio de comunicación para promocionar candidaturas. Los partidos políticos y las personas servidoras públicas no podrán realizar actos de proselitismo ni posicionarse a favor o en contra de candidatura alguna.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
+
+La duración de las campañas para los cargos señalados en el presente artículo será de cuarenta y cinco días y en ningún caso habrá etapa de precampaña. La ley establecerá la forma de las campañas, así como las restricciones y sanciones aplicables a las personas candidatas o servidoras publicas cuyas manifestaciones o propuestas excedan o contravengan parámetros constitucionales y legales.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2026)</small>
+
+###### Artículo 88.
+
+Las personas Titulares de las Magistraturas de los Tribunales del Estado, las personas Titulares de los Juzgados del Poder Judicial, las personas integrantes del Tribunal Unitario de Justicia Penal para Adolescentes y las personas Titulares de las respectivas Secretarías, no podrán desempeñar empleo o cargo de la Federación, del Estado, de los Municipios, ni de particulares, por el que reciban alguna remuneración, a no ser que sean de docencia o de beneficencia y que no les impidan el expedito ejercicio de sus funciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2026)</small>
+
+Artículo 88 BIS.- Cuando la falta de una persona Titular de la Magistratura del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial o personas Titulares de los Juzgados del Poder Judicial y de las personas integrantes del Tribunal Unitario de Justicia Penal para Adolescentes, excediere de treinta días sin licencia o dicha falta se deba a defunción, renuncia o cualquier causa de separación definitiva; la vacante será cubierta conforme a lo establecido en la ley.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2026)</small>
+
+Las licencias definitivas de las personas Titulares de las Magistraturas del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y del Tribunal Unitario de Justicia Penal para Adolescentes deberán presentarse al Congreso del Estado de Morelos o, en sus recesos, a la Diputación Permanente.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
 
 Las licencias de las personas servidoras públicas señaladas en el párrafo primero de este artículo, cuando no exceda de treinta días, podrán ser concedidas por el Pleno del Tribunal Superior de Justicia para el caso de sus integrantes; por el Pleno del Tribunal de Disciplina Judicial, para el caso de sus integrantes; y por el Órgano de Administración Judicial, para el caso de sus integrantes y de las personas Titulares de los Juzgados del Poder Judicial. Las licencias que excedan ese tiempo deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los integrantes presentes del Pleno del Congreso del Estado de Morelos o, en sus recesos, por la Diputación Permanente. Ninguna licencia podrá exceder el término de un año.
 
@@ -2888,43 +2908,27 @@ DEL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES.
 
 Ter.- (DEROGADO, P.O. 15 DE FEBRERO DE 2018)
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2026)</small>
 
 ###### Artículo 109
 
-Quater.- El Tribunal Unitario de Justicia Penal para Adolescentes, será el responsable de la administración de justicia para menores a que se refiere el artículo 19, inciso d), párrafo cuarto, de esta Constitución.
+Quater. El Tribunal Unitario de Justicia Penal para Adolescentes será el responsable de la administración de justicia para menores a que se refiere el artículo 19, inciso d), párrafo cuarto, de esta Constitución. Este Tribunal forma parte integrante del Poder Judicial del Estado; por lo que su administración y disciplina estarán a cargo del Órgano de Administración Judicial y del Tribunal de Disciplina Judicial, respectivamente, conforme a las atribuciones y competencias establecidas en la Ley.
 
-Para ser Magistrado del Tribunal Unitario de Justicia Penal para Adolescentes, se deberá acreditar especialización en la materia y, además, reunir los requisitos siguientes:
+El Órgano de Administración Judicial será el encargado de distribuir entre los Tribunales que integran el Poder Judicial, la partida a que se refiere la parte final de la fracción V del artículo 40 de esta Constitución, conforme a la normativa aplicable en materia presupuestal y de gasto público.
 
-I.- Contar con ciudadanía mexicana por nacimiento, de preferencia morelense, y estar en pleno ejercicio de sus derechos políticos y civiles;
+Para ser Titular de la Magistratura del Tribunal Unitario de Justicia Penal para Adolescentes, deberá reunir los requisitos establecidos en el artículo 90 de esta Constitución, además de contar con especialización en la materia; será elegido de manera libre, directa y secreta por la ciudadanía, conforme al procedimiento establecido en el artículo 87 BIS de esta constitución.
 
-II.- Haber residido en el Estado durante los últimos 10 años, salvo el caso de ausencia por un tiempo máximo de seis meses, motivado por el desempeño del servicio público;
+La persona Titular de la Magistratura del Tribunal Unitario de Justicia Penal para Adolescentes durará en el ejercicio de su encargo nueve años y podrá ser reelecta; y sólo podrá ser privada de su encargo en los términos que determine esta Constitución y las Leyes en materia de Responsabilidades.
 
-III.- Poseer al momento de su designación, con antigüedad mínima de diez años el título y la cédula profesional de licenciado en derecho, expedido por la autoridad o institución legalmente facultada para ello;
+El retiro forzoso del cargo se producirá en los términos establecidos para las personas Titulares de las Magistraturas del Tribunal Superior de Justicia.
 
-IV.- No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la designación;
+La persona Titular de la Magistratura del Tribunal Unitario de Justicia Penal para Adolescentes no formará parte del Pleno del Tribunal Superior de Justicia.
 
-V.- Tener cinco años de ejercicio profesional por lo menos, o tres si se ha dedicado a la judicatura;
+Al Tribunal Unitario de Justicia Penal para Adolescentes lo integran una persona Titular de la Magistratura, así como el número de personas juzgadoras especializadas que determine el Órgano de Administración Judicial, conforme a la Ley Orgánica del Poder Judicial del Estado de Morelos. Tendrán competencia exclusiva para administrar justicia a los adolescentes a quienes se atribuya la realización de una conducta tipificada como delito por las Leyes del Estado de Morelos. Las personas juzgadoras especializadas en Justicia Penal para Adolescentes serán elegidos de manera libre, directa y secreta por la ciudadanía, conforme al procedimiento establecido en el artículo 87 BIS de esta constitución. Debiendo observar el principio de paridad de género en las designaciones.
 
-VI.- Ser de reconocida honorabilidad y no haber sido condenado por delito intencional que merezca pena corporal de más de un año de prisión, o destituido o suspendido de empleo, si se trata de juicio de responsabilidad; pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que afecte seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena;
+La Ley Orgánica del Poder Judicial del Estado de Morelos establecerá la organización, el funcionamiento, las atribuciones del Tribunal y demás disposiciones para el correcto desempeño de sus funciones.
 
-VII.- Cumplir con los requisitos, criterios, procedimientos, e indicadores de gestión y aprobar la evaluación que en su caso se realice.
-
-La designación deberá recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica, plenamente acreditados, y
-
-VIII.- No podrán ser Magistrados las personas que hayan ocupado el cargo de Titular de las Dependencias y Secretarías de Despacho del Poder Ejecutivo, de la Fiscalía General del Estado, las personas Titulares de las Fiscalías y Fiscalías Especializadas o integrante del Poder Legislativo del Estado o de cualquier Ayuntamiento, durante el año previo al día de su designación.
-
-La persona Titular y Suplente de la Magistratura del Tribunal Unitario de Justicia Penal para Adolescentes, será nombrada por el Pleno del Congreso del Estado previa convocatoria a examen de oposición que emitirá el Órgano Político del Congreso del Estado.
-
-Durarán en su encargo un periodo de nueve años, contados a partir de la fecha en que rinda la protesta constitucional y sólo podrán ser privados del cargo en los términos que establezcan esta Constitución y las leyes en materia de responsabilidad de los servidores públicos.
-
-Ninguna persona que haya sido nombrada magistrada podrá volver a ocupar el cargo o ser nombrada para un nuevo periodo. En ningún caso y por ningún motivo, la Persona Titular de la Magistratura que hubiere ejercido el cargo con el carácter de titular o suplente, podrá rebasar nueve años en el cargo. El retiro forzoso del cargo se producirá en los mismos términos que para las magistraturas del Tribunal Superior de Justicia.
-
-La Persona Titular de la Magistratura del Tribunal Unitario de Justicia Penal para Adolescentes administrará sus recursos y propondrá su presupuesto de egresos a la Persona Titular del Órgano de Administración del Poder Judicial, quien lo integrará al presupuesto de egresos de dicho Poder. La fiscalización de sus recursos estará a cargo de la Entidad Superior de Auditoría y Fiscalización del Estado de Morelos.
-
-Habrá una Persona Titular de la Magistratura y una Persona Suplente de la Magistratura, así como el número de Juezas y Jueces especializados que señale la Ley Orgánica que para tal efecto se expida. Tendrán competencia exclusiva para administrar justicia a los adolescentes a quienes se atribuya la realización de una conducta tipificada como delito por las Leyes del Estado de Morelos. Las Juezas y Jueces Especializados serán nombrados por la Persona Titular de la Magistratura del Tribunal Unitario de Justicia Penal para Adolescentes, mediante convocatoria a examen de oposición calificado por el Centro Nacional de Evaluación para la Educación Superior, designando en el cargo a quienes obtengan las más altas evaluaciones en dicho examen, debiendo observar el principio de paridad de género en las designaciones. Una vez nombradas tienen los mismos derechos, obligaciones y prerrogativas que las demás Juezas y Jueces pertenecientes al Poder Judicial del Estado de Morelos.
-
-La Ley Orgánica del Tribunal Unitario de Justicia Penal para Adolescentes, establecerá la organización, el funcionamiento, las atribuciones del Tribunal y demás disposiciones para el correcto desempeño de sus funciones. La información relacionada con los procesos jurisdiccionales en materia de justicia para adolescentes no será pública.
+La información relacionada con los procesos jurisdiccionales en materia de justicia para adolescentes no será pública.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -5756,7 +5760,9 @@ Se requerirá la mayoría calificada del Comité de Evaluación para determinar 
 
 CUARTA. Dentro del plazo de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto, se deberán realizar las modificaciones y adecuaciones de armonización correspondiente a las Leyes Orgánicas del Poder Judicial, Ejecutivo y Legislativo respectivamente; al Código de Instituciones y Procedimientos Electorales para el Estado de Morelos; así como todas las leyes secundarias en las que tenga impacto el presente Decreto.
 
-QUINTA. Para el caso de las Personas Titulares de las Magistraturas del Poder Judicial, si la fecha de vencimiento de su nombramiento fuere posterior al año 2027, se sujetarán a lo dispuesto en el presente decreto; para el caso de las Personas Titulares de las Magistraturas cuyo nombramiento concluyera previo al año 2027, se dejarán vacantes hasta en tanto se realice la elección correspondiente.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2026)</small>
+
+QUINTA. Para el caso de las Personas Titulares de las Magistraturas del Poder Judicial, si la fecha de vencimiento de su nombramiento fuere posterior al año 2027, se sujetarán a lo dispuesto en el presente Decreto; para el caso de las personas titulares de las Magistraturas cuyo nombramiento concluya previo al 31 de agosto de 2027, el periodo original del nombramiento se prorrogará hasta esta última fecha, salvo que manifiesten su voluntad en contrario, en los términos previstos en esta Constitución para el trámite de las licencias definitivas.
 
 Las personas Titulares de los Juzgados del Poder Judicial que concluyan su encargo por no postularse o no haber sido electos en la elección ordinaria del año 2027, serán acreedoras al pago de una indemnización la cual será establecida en la Ley secundaria o decreto conforme a derecho que para tal efecto emita el Poder Legislativo, así como a las demás prestaciones a que tengan derecho, mismas que serán cubiertas con los recursos presupuestarios aprobados en el ejercicio fiscal correspondiente al momento de su retiro.
 
@@ -5764,7 +5770,9 @@ SEXTA. Las remuneraciones de las personas integrantes del Poder Judicial, que es
 
 SÉPTIMA. Las personas titulares de las Magistraturas del Poder Judicial que concluyan su encargo por no postularse o no haber sido electos en la elección ordinaria del año 2027, de conformidad con la disposición transitoria CUARTA, no serán beneficiarias de un haber por retiro, ni de ninguna otra prestación económica equivalente; salvo cuando presenten su renuncia antes del cierre de la convocatoria señalada en la fracción I del artículo 87 BIS del presente Decreto, misma que tendrá efectos al 31 de agosto del 2027, según se determine; en estos casos, el haber de retiro será proporcional al tiempo de su desempeño como personas Magistradas en términos de la Ley Secundaria o Decreto que para tal efecto emita el Congreso del Estado.
 
-Las personas titulares de las Magistraturas que se encuentren en funciones en el momento del inicio de la vigencia de este Decreto, que concluyan su período original antes del 31 de agosto de 2027, tendrán derecho al haber de retiro conforme a los términos que establezca la Ley secundaria o Decreto que para tal efecto emita el Congreso del Estado, referido en el párrafo anterior.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2026)</small>
+
+A las personas titulares de las Magistraturas que se encuentren en funciones en el momento del inicio de la vigencia de este Decreto, que concluyan su periodo original antes del 31 de agosto de 2027, se les prorrogará el periodo de su nombramiento de conformidad con la quinta disposición transitoria, y tendrán derecho al haber de retiro conforme a los términos que establezca la Ley secundaria o Decreto que para tal efecto emita el Congreso del Estado, referido en el párrafo anterior.
 
 OCTAVA. Los derechos laborales de las personas trabajadoras del Poder Judicial del Estado de Morelos serán respetados en términos de esta Constitución.
 
@@ -5774,9 +5782,11 @@ Los recursos a los que refiere el párrafo anterior deberán ser concentrados po
 
 NOVENA. Para el desarrollo de los procesos electorales del Poder Judicial del Estado de Morelos, el Instituto Morelense de Procesos Electorales y Participación Ciudadana, y el Tribunal Electoral del Estado de Morelos, deberán de atender a la literalidad de las disposiciones de esta Constitución, por lo que, las autoridades electorales quedarán impedidas para emitir lineamientos o criterios relativos a las candidaturas para la elección del Poder Judicial.
 
-DÉCIMA. Las personas Magistradas del Tribunal de Justicia Administrativa y del Tribunal Unitario de Justicia Penal para Adolescentes, que se encuentren en el cargo al momento de la publicación del presente Decreto, terminarán su encargo conforme a la temporalidad vigente al momento de la expedición de su nombramiento.
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2026)</small>
 
-Al concluir su encargo, las personas Magistradas del Tribunal de Justicia Administrativa y del Tribunal Unitario de Justicia Penal para Adolescentes tendrán derecho al haber por retiro proporcional a los años de servicio como persona Titular de la Magistratura, en los términos en que lo establezca la ley respectiva previo a la entrada en vigor del presente decreto.
+DÉCIMA. Las personas Magistradas del Tribunal de Justicia Administrativa que se encuentren en el cargo al momento de la publicación del presente Decreto, terminarán su encargo conforme a la temporalidad vigente al momento de la expedición de su nombramiento.
+
+Al concluir su encargo, las personas Magistradas del Tribunal de Justicia Administrativa tendrán derecho al haber por retiro proporcional a los años de servicio como persona Titular de la Magistratura, en los términos en que lo establezca la ley respectiva previo a la entrada en vigor del presente decreto.
 
 DÉCIMA PRIMERA. El Órgano de Administración Judicial, iniciará sus funciones en el año 2025, con independencia de que la renovación del Poder Judicial, y la elección de las personas Titulares de las Magistraturas del Tribunal de Disciplina Judicial, se realicen en el proceso electoral ordinario 2026-2027. Todas las determinaciones del referido Órgano serán tomadas por mayoría calificada de sus integrantes hasta en tanto se expida la Ley secundaria correspondiente.
 
@@ -5792,9 +5802,13 @@ Las designaciones que realice el Tribunal Superior de Justicia del Estado no pod
 
 Una vez realizada la designación de los Integrantes del Órgano de Administración cesarán las funciones y atribuciones administrativas de la Junta de Administración, Vigilancia y Disciplina, así como su Presidente, Magistrado y Juez designado por el Pleno ante dicho órgano administrativo.
 
-Las funciones y atribuciones en materia de Disciplina estarán a cargo del Pleno del Tribunal Superior de Justicia hasta el 31 de agosto del 2027.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2026)</small>
 
-El Pleno del Tribunal Superior de Justicia continuará con la substanciación de los procedimientos en materia de Disciplina Judicial que se encuentren pendientes de resolución, hasta en tanto se realice la elección del Tribunal de Disciplina Judicial y se tome la protesta de las personas Magistradas que lo integrarán.
+Las funciones y atribuciones en materia de disciplina respecto de personas servidoras públicas con funciones administrativas como jurisdiccionales estarán a cargo del Órgano de Administración Judicial hasta que entren en funciones las personas elegidas para integrar el Tribunal de Disciplina Judicial.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2026)</small>
+
+El Pleno del Tribunal Superior de Justicia continuará ejerciendo directamente las atribuciones que le confiere esta Constitución y la Ley Orgánica del Poder Judicial del Estado de Morelos de asuntos de la competencia jurisdiccional exclusiva del propio Tribunal; para el ingreso, adscripción y permanencia del personal auxiliar de las Magistradas y Magistrados integrantes del Tribunal Superior de Justicia, así como la adscripción de Magistradas y Magistrados, se estará a las propuestas de éstos con la aprobación del Órgano de Administración Judicial, quien podrá modificarlo en cualquier momento, bajo los principios de austeridad, excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género; la separación de este personal, estará únicamente a cargo del órgano de Administración Judicial. Esto, hasta en tanto se realice la elección popular y se tome la protesta de las personas Magistradas que integrarán dicho Tribunal. La vigencia de la armonización legislativa secundaria tendrá en consideración lo anterior.
 
 En tanto se realizan las armonizaciones legislativas que correspondan, el Órgano de Administración del Poder Judicial ejercerá las atribuciones que le señala la presente Constitución, así como las que están consideradas en la Ley Orgánica del Poder Judicial del Estado y la Ley del Fondo Auxiliar para la Administración de Justicia, para la Junta de Administración, Vigilancia y Disciplina, quien deberá realizar la organización de las respectivas áreas administrativas conforme así lo determine su Pleno.
 
@@ -5877,3 +5891,57 @@ PRIMERA. Aprobado que fue por el Constituyente Permanente Local y hecha la Decla
 SEGUNDA.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de Gobierno del Estado.
 
 TERCERA.- El presente Decreto deroga todas las disposiciones legales de igual o menor rango, que se opongan o contradigan a este.
+
+P.O. 15 DE ENERO DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO MIL CIENTO CUATRO POR EL QUE SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, ASÍ COMO EL DECRETO CIENTO SESENTA Y CINCO, PUBLICADO EN EL PERIÓDICO OFICIAL “TIERRA Y LIBERTAD” NÚMERO 6426 EXTRAORDINARIA, EL 19 DE MAYO DE 2025”.]</small>
+
+PRIMERA. Aprobado que fue por el Constituyente Permanente Local, para los efectos que disponen los artículos 56, fracción X; 147 y 148 de la Constitución Política del Estado Libre y Soberano de Morelos, se realizó la declaratoria correspondiente en Sesión de la Diputación Permanente del Primer Receso del Segundo Año de Ejercicio Constitucional.
+
+SEGUNDA. Remítase el presente Decreto a la Gobernadora Constitucional del Estado, para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos, de conformidad con los artículos 44 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado.
+
+CUARTA. La renovación de la totalidad de los cargos de elección del Tribunal Unitario de Justicia Penal para Adolescentes, es decir, tanto de la persona Titular de la Magistratura, así como el número de personas juzgadoras especializadas que, en su oportunidad, determine el Órgano de Administración Judicial, se realizará en la elección ordinaria local del año 2027, de conformidad por lo dispuesto en el presente Decreto y las leyes.
+
+Para el proceso de elección del año 2027, se renovarán el mismo número de personas juzgadoras del Tribunal Unitario de Justicia Penal para Adolescentes que existan al momento de la entrada en vigor del presente Decreto.
+
+Para la renovación de la totalidad de los cargos a elegir para el Tribunal Unitario de Justicia Penal para Adolescentes dentro del Proceso Local Ordinario 2026-2027 en Morelos, se realizará la elección a nivel estatal, conforme lo determine la Ley.
+
+Las (sic) persona titular de la Magistratura y las personas juzgadoras integrantes del Tribunal Unitario de Justicia Penal para Adolescentes en funciones que hayan sido designadas con anterioridad a la entrada en vigor de la Reforma Constitucional Federal publicada el 15 de septiembre del 2024, podrán participar en la elección, siempre que así lo manifiesten por escrito siete días inmediatos posteriores a la emisión de la convocatoria del Congreso del Estado, quienes serán incorporadas a los listados que se enviarán al Instituto Morelense de Procesos Electorales y Participación Ciudadana, para participar en la elección. Lo anterior siempre que no hayan ejercido el cargo por nueve años. En caso de no resultar electas por la ciudadanía para ejercer su encargo por un nuevo periodo, concluirán su encargo en la fecha que rindan protesta las personas servidoras públicas que emanen de la elección ordinaria conforme a la normativa aplicable.
+
+La Persona Titular de la Magistratura y Juzgadoras del Tribunal Unitario de Justicia Penal para Adolescentes en funciones que sean electas en la elección ordinaria del año 2027, ejercerán el cargo por el periodo que reste a su nombramiento original o hasta cumplir los nueve años de ejercicio, observando lo siguiente:
+
+a) Cuando el periodo del nombramiento concluya el mismo año en que se realice la elección ordinaria que corresponda, el cargo se renovará en esa elección, tomando protesta la persona que resulte electa el día en que concluya el nombramiento respectivo, y
+
+b) Cuando el periodo del nombramiento no concluya el mismo año en que se realice la elección ordinaria que corresponda, el periodo del nombramiento se prorrogará por el tiempo adicional hasta la próxima elección.
+
+De conformidad con lo anterior, el Instituto Morelense de Procesos Electorales y Participación Ciudadana, emitirá las constancias de mayoría por la temporalidad del encargo para cada persona titular electa.
+
+Por lo anterior, se tomarán las previsiones presupuestales que correspondan en los ejercicios fiscales subsecuentes, para la efectiva implementación del presente Decreto.
+
+Conforme a lo establecido en el artículo 87 Bis de esta Constitución el ajuste de los listados al número de postulaciones a realizar por cada Poder del Estado en la renovación de la totalidad de los cargos a elegir para personas integrantes del Tribunal Unitario de Justicia Penal Para Adolescente (sic) dentro del Proceso Local Ordinario 2026-2027 en Morelos, se hará por los Comités de Evaluación de cada poder, pudiendo optar por un mecanismo de depuración de entre los siguientes:
+
+1. Por decisión de la mayoría calificada de los integrantes del Comité;
+
+2. Por examen de conocimientos, y
+
+3. Por insaculación.
+
+Se requerirá la mayoría calificada del Comité de Evaluación para determinar qué método aplicarán en el ajuste de sus postulaciones, respectivamente.
+
+QUINTA. Dentro del plazo de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto, se deberán realizar las modificaciones y adecuaciones de armonización correspondiente a las Leyes Orgánicas del Poder Judicial, Ejecutivo y Legislativo respectivamente; al Código de Instituciones y Procedimientos Electorales para el Estado de Morelos; así como todas las leyes secundarias en las que tenga impacto el presente Decreto.
+
+SEXTA. La persona Titular de la Magistraturas (sic) del Tribunal Unitario de Justicia Penal para Adolescentes que concluya su encargo por no postularse o no haber sido electa en la elección ordinaria del año 2027, de conformidad con la disposición transitoria CUARTA, no será beneficiaria de un haber por retiro, ni de ninguna otra prestación económica equivalente; salvo cuando presente su renuncia antes del cierre de la convocatoria señalada en la fracción I del artículo 87 BIS de esta Constitución, misma que tendrá efectos al 31 de agosto de 2027, según se determine; en estos casos, el haber de retiro será proporcional al tiempo de su desempeño como persona Magistrada del Tribunal Unitario de Justicia Penal para Adolescentes en términos de la Ley Secundaria o Decreto que para tal efecto emita el Congreso del Estado.
+
+Las personas Titulares de los Juzgados del Tribunal Unitario de Justicia Penal para Adolescentes que concluyan su encargo por no postularse o no haber sido electos en la elección ordinaria del año 2027, serán acreedoras al pago de una indemnización la cual será establecida en la Ley secundaria o decreto conforme a derecho que para tal efecto emita el Poder Legislativo, así como a las demás prestaciones a que tengan derecho, mismas que serán cubiertas con los recursos presupuestarios aprobados en el ejercicio fiscal correspondiente al momento de su retiro.
+
+Los derechos laborales de las personas trabajadoras del Tribunal Unitario de Justicia Penal para Adolescentes serán respetados en términos de esta Constitución.
+
+SÉPTIMA. Las remuneraciones de las personas integrantes del Tribunal Unitario de Justicia Penal para Adolescentes, que estén en funciones al momento de la entrada en vigor del presente Decreto, no podrán ser mayores a lo dispuesto por el artículo 116 de la Constitución Política de los Estados Unidos Mexicanos; por lo que deberán de ajustarse a los parámetros establecidos por la Constitución Federal.
+
+OCTAVA. Para el desarrollo de los procesos electorales del Tribunal Unitario de Justicia Penal para Adolescentes, el Instituto Morelense de Procesos Electorales y Participación Ciudadana, y el Tribunal Electoral del Estado de Morelos, deberán de atender a la literalidad de las disposiciones de esta Constitución, por lo que, las autoridades electorales quedarán impedidas para emitir lineamientos o criterios relativos a las candidaturas para la elección del Tribunal Unitario de Justicia Penal para Adolescentes.
+
+NOVENA. El presente Decreto deroga todas las disposiciones legales de igual o menor rango, que se opongan o contradigan a este.
+
+Hasta en tanto se expida la Ley Orgánica del Poder Judicial del Estado de Morelos, continuará en vigor la Ley Orgánica del Tribunal Unitario de Justicia Penal para Adolescentes del Estado de Morelos, en lo que no se oponga al contenido del presente Decreto.
