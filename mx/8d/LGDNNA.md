@@ -4,7 +4,7 @@ identifier: "LGDNNA"
 country: "mx"
 rank: "ley_general"
 publication_date: "2014-12-04"
-last_updated: "2024-12-24"
+last_updated: "2026-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103786&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDNNA"
 
 LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ENERO DE 2026.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de diciembre de 2014.
 
@@ -56,7 +56,9 @@ I. Reconocer a niñas, niños y adolescentes como titulares de derechos, con cap
 
 II. Garantizar el pleno ejercicio, respeto, protección y promoción de los derechos humanos de niñas, niños y adolescentes conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales de los que el Estado mexicano forma parte;
 
-III. Crear y regular la integración, organización y funcionamiento del Sistema Nacional de Protección Integral de los Derechos de Niñas, Niños y Adolescentes, a efecto de que el Estado cumpla con su responsabilidad de garantizar la protección, prevención y restitución integrales de los derechos de niñas, niños y adolescentes que hayan sido vulnerados;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+III. Crear y regular la integración, organización y funcionamiento del Sistema Nacional de Protección Integral de los Derechos de Niñas, Niños y Adolescentes, a efecto de que el Estado cumpla con su responsabilidad de aplicar medidas orientadas a salvaguardar la vida, integridad, libertad y seguridad personales, bienestar físico y mental, así como el respeto a la dignidad y autonomía progresiva mediante acciones orientadas a la protección, prevención y restitución integrales de los derechos de niñas, niños y adolescentes que hayan sido vulnerados;
 
 > <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2017)</small>
 
@@ -68,11 +70,21 @@ V. Establecer las bases generales para la participación de los sectores privado
 
 Para garantizar la protección de los derechos de niñas, niños y adolescentes, las autoridades realizarán las acciones y tomarán medidas, de conformidad con los principios establecidos en la presente Ley. Para tal efecto, deberán:
 
-I. Garantizar un enfoque integral, transversal y con perspectiva de derechos humanos en el diseño y la instrumentación de políticas y programas de gobierno;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-II. Promover la participación, tomar en cuenta la opinión y considerar los aspectos culturales, éticos, afectivos, educativos y de salud de niñas, niños y adolescentes, en todos aquellos asuntos de su incumbencia, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez, y
+I. Garantizar un enfoque integral, transversal, con perspectiva de género y de derechos humanos en el diseño y la instrumentación de políticas y programas de gobierno;
 
-III. Establecer mecanismos transparentes de seguimiento y evaluación de la implementación de políticas, programas gubernamentales, legislación y compromisos derivados de tratados internacionales en la materia.
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+II. Promover la participación, tomar en cuenta la opinión y considerar los aspectos culturales, éticos, afectivos, educativos y de salud de niñas, niños y adolescentes, en todos aquellos asuntos de su incumbencia, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez;
+
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+III. Establecer mecanismos transparentes de seguimiento y evaluación de la implementación de políticas, programas gubernamentales, legislación y compromisos derivados de tratados internacionales en la materia, en los que se incorporen datos desagregados al menos por sexo, edad, discapacidad, condición económica y origen étnico, para evaluar el impacto diferenciado de sus acciones en estos grupos de atención prioritaria, y
+
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+IV. Todas las autoridades competentes en la materia, deberán cursar y aprobar los programas de formación y capacitación con perspectiva de género y derechos humanos.
 
 > <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2019)</small>
 
@@ -88,11 +100,11 @@ Las autoridades de la Federación, de las entidades federativas, de los municipi
 
 La Cámara de Diputados del Congreso de la Unión, los Congresos locales y la Legislatura de la Ciudad de México, establecerán en sus respectivos presupuestos, los recursos que permitan dar cumplimiento a las acciones establecidas por la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### Artículo 3.
 
-La Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, concurrirán en el cumplimiento del objeto de esta Ley, para el diseño, ejecución, seguimiento y evaluación de políticas públicas en materia de ejercicio, respeto, protección y promoción de los derechos de niñas, niños y adolescentes, así como para garantizar su máximo bienestar posible privilegiando su interés superior a través de medidas estructurales, legales, administrativas y presupuestales.
+La Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, concurrirán en el cumplimiento del objeto de esta Ley, para el diseño, ejecución, seguimiento y evaluación de políticas públicas en materia de ejercicio, respeto, protección y promoción de los derechos de niñas, niños y adolescentes con perspectiva de género, así como para garantizar su máximo bienestar posible privilegiando su interés superior a través de medidas estructurales, legales, administrativas y presupuestales.
 
 Las políticas públicas deberán contribuir a la formación física, psicológica, económica, social, cultural, ambiental y cívica de niñas, niños y adolescentes.
 
@@ -256,13 +268,19 @@ En la aplicación de la presente Ley se tomarán en cuenta las condiciones parti
 
 Las autoridades federales de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apatridia, o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
 
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+Tratándose de medidas y órdenes de protección para casos de violencias en contra de adolescentes, niñas y niños, se observará lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias, para su debida integración y seguimiento en el Registro Nacional de Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños.
+
 ###### Artículo 11.
 
 Es deber de la familia, la comunidad a la que pertenecen, del Estado y, en general, de todos los integrantes de la sociedad, el respeto y el auxilio para la protección de derechos de niñas, niños y adolescentes, así como garantizarles un nivel adecuado de vida.
 
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
 ###### Artículo 12.
 
-Es obligación de toda persona que tenga conocimiento de casos de niñas, niños y adolescentes que sufran o hayan sufrido, en cualquier forma, violación de sus derechos, hacerlo del conocimiento inmediato de las autoridades competentes, de manera que pueda seguirse la investigación correspondiente y, en su caso, instrumentar las medidas cautelares, de protección y de restitución integrales procedentes en términos de las disposiciones aplicables.
+Es obligación de toda persona que tenga conocimiento de casos de niñas, niños y adolescentes que sufran o hayan sufrido, en cualquier forma, violación de sus derechos, o hayan sido víctimas de cualquiera de las violencias señaladas en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias, hacerlo del conocimiento inmediato de las autoridades competentes, de manera que pueda seguirse la investigación correspondiente y, en su caso, instrumentar las medidas cautelares, de protección y de restitución integrales procedentes en términos de las disposiciones aplicables.
 
 ## TÍTULO SEGUNDO. De los Derechos de Niñas, Niños y Adolescentes
 
@@ -314,9 +332,9 @@ XIX. Derechos de niñas, niños y adolescentes migrantes, y
 
 XX. Derecho de acceso a las Tecnologías de la Información y Comunicación.
 
-> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
+Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias de conformidad con los deberes reforzados de protección del Estado con las niñas, niños y adolescentes, para garantizar sus derechos sin discriminación de ningún tipo o condición.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 4 DE JUNIO DE 2019)</small>
 
@@ -1348,11 +1366,11 @@ El órgano jurisdiccional, con base en este artículo y en las disposiciones apl
 
 Niñas, niños y adolescentes gozan de los derechos y garantías de seguridad jurídica y debido proceso establecidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, esta Ley y demás disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### Artículo 83.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, que sustancien procedimientos de carácter jurisdiccional o administrativo o que realicen cualquier acto de autoridad en los que estén relacionados niñas, niños o adolescentes, de conformidad con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez estarán obligadas a observar, cuando menos a:
+Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, que sustancien procedimientos de carácter jurisdiccional o administrativo o que realicen cualquier acto de autoridad en los que estén relacionados niñas, niños o adolescentes, de conformidad con su edad, desarrollo evolutivo, cognitivo y grado de madurez y con base en el deber reforzado de protección para asegurar la igualdad sustantiva y su derecho a una vida libre de violencias, estarán obligadas a observar, cuando menos a:
 
 I. Garantizar la protección y prevalencia del interés superior de la niñez a que se refiere el artículo 2 de la presente Ley;
 
@@ -1438,9 +1456,11 @@ En tanto el Instituto Nacional de Migración determine la condición migratoria 
 
 El principio del interés superior de la niñez será una consideración primordial que se tomará en cuenta durante el procedimiento administrativo migratorio al que estén sujetos niñas, niños y adolescentes migrantes, en el que se estimarán las posibles repercusiones de la decisión que se tome en cada caso.
 
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
 ###### Artículo 90.
 
-Las autoridades competentes deberán observar los procedimientos de atención y protección especial de derechos de niñas, niños y adolescentes migrantes, previstos en la Ley de Migración, su Reglamento y demás disposiciones jurídicas aplicables, debiendo observar en todo momento el principio del interés superior de la niñez y los estándares internacionales en la materia.
+Las autoridades competentes deberán observar los procedimientos de atención y protección especial de derechos de niñas, niños y adolescentes migrantes, previstos en la Ley de Migración, su Reglamento y demás disposiciones jurídicas aplicables, debiendo observar en todo momento el principio del interés superior de la niñez, la perspectiva de género y de derechos humanos, así como los estándares internacionales en ambas materias.
 
 ###### Artículo 91.
 
@@ -1790,7 +1810,9 @@ Las Procuradurías de Protección de las entidades federativas serán coadyuvant
 
 Las autoridades federales, de las entidades federativas, municipales, de las demarcaciones territoriales de la Ciudad de México, y de los organismos constitucionales autónomos, en el ámbito de su competencia, deberán establecer y garantizar el cumplimiento de la política nacional en materia de derechos de niñas, niños y adolescentes.
 
-Las políticas públicas emprendidas por dichas autoridades garantizarán el ejercicio de los derechos de niñas, niños y adolescentes, para lo cual deberán observar el interés superior de la niñez y asegurar la asignación prioritaria de recursos en términos de las disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+Las políticas públicas emprendidas por dichas autoridades garantizarán el ejercicio de los derechos de niñas, niños y adolescentes, para lo cual deberán observar el interés superior de la niñez, la perspectiva de género y de derechos humanos, conforme a los estándares internacionales para su protección y asegurar la asignación prioritaria de recursos en términos de las disposiciones aplicables.
 
 #### Sección Primera. De la Distribución de Competencias
 
@@ -2823,3 +2845,21 @@ D.O.F. 24 DE DICIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO 101 BIS 3 A LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, EN MATERIA DE ACCESO A INTERNET LIBRE DE VIOLENCIA CONTRA NIÑAS, NIÑOS Y ADOLESCENTES”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES; DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES; DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY GENERAL DE DESARROLLO SOCIAL; DE LA LEY GENERAL DE SALUD; DE LA LEY GENERAL DE EDUCACIÓN; DE LA LEY DEL SEGURO SOCIAL; DE LA LEY DE MIGRACIÓN; DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO; DE LA LEY DE PLANEACIÓN; DE LA LEY DE VIVIENDA; DE LA LEY FEDERAL DEL TRABAJO; DE LA LEY FEDERAL DEL DERECHO DE AUTOR; DE LA LEY FEDERAL DE PROTECCIÓN A LA PROPIEDAD INDUSTRIAL Y DE LA LEY GENERAL DE CULTURA Y DERECHOS CULTURALES”.]
+
+Primero. El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Tercero. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
+
+Cuarto. Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
+
+Quinto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
+
+Sexto. Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
+
+Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
