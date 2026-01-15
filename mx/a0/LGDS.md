@@ -4,7 +4,7 @@ identifier: "LGDS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2004-01-20"
-last_updated: "2025-07-16"
+last_updated: "2026-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35610&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDS"
 
 LEY GENERAL DE DESARROLLO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ENERO DE 2026.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 20 de enero de 2004.
 
@@ -50,7 +50,9 @@ LEY GENERAL DE DESARROLLO SOCIAL
 
 La presente Ley es de orden público e interés social y de observancia general en todo el territorio nacional, y tiene por objeto:
 
-I. Garantizar el pleno ejercicio de los derechos sociales consagrados en la Constitución Política de los Estados Unidos Mexicanos, asegurando el acceso de toda la población al desarrollo social;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+I. Garantizar el pleno ejercicio de los derechos sociales y la igualdad sustantiva entre mujeres y hombres consagrados en la Constitución Política de los Estados Unidos Mexicanos, asegurando el acceso de toda la población al desarrollo social;
 
 II. Señalar las obligaciones del Gobierno, establecer las instituciones responsables del desarrollo social y definir los principios y lineamientos generales a los que debe sujetarse la Política Nacional de Desarrollo Social;
 
@@ -88,9 +90,11 @@ V. Participación social: Derecho de las personas y organizaciones a intervenir 
 
 VI. Sustentabilidad: Preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, para mejorar la calidad de vida y la productividad de las personas, sin comprometer la satisfacción de las necesidades de las generaciones futuras;
 
-> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-VII. Respeto a la diversidad: Reconocimiento en términos de origen étnico, género, edad, discapacidad, condición social, condiciones de salud, religión, las opiniones, preferencias, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias;
+VII. Respeto a la diversidad: Reconocimiento en términos de origen étnico, género, edad, discapacidad, condición social, condiciones de salud, religión, las opiniones, orientación sexual, estado civil o cualquier otra para superar toda condición de discriminación y promover la igualdad sustantiva, un desarrollo con equidad y respeto a las diferencias.
+
+Para garantizar la igualdad sustantiva entre mujeres y hombres, el Estado adoptará las medidas necesarias para prevenir y erradicar cualquier forma de discriminación.
 
 > <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
@@ -160,11 +164,11 @@ XI. Política de Desarrollo Social: Conjunto de programas, proyectos y acciones 
 
 ### Capítulo Único
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### Artículo 6.
 
-Son derechos para el desarrollo social la educación, la salud, la alimentación nutritiva y de calidad, la vivienda digna y decorosa, el disfrute de un medio ambiente sano, el trabajo y la seguridad social y los relativos a la no discriminación en los términos de la Constitución Política de los Estados Unidos Mexicanos.
+Son derechos para el desarrollo social la educación, la salud, la alimentación nutritiva y de calidad, la vivienda digna y decorosa, el disfrute de un medio ambiente sano, el trabajo y la seguridad social y los relativos a la no discriminación y la igualdad sustantiva entre mujeres y hombres, en los términos de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 7.
 
@@ -174,11 +178,11 @@ Toda persona tiene derecho a participar y a beneficiarse de los programas de des
 
 Toda persona o grupo social en situación de vulnerabilidad tiene derecho a recibir acciones y apoyos tendientes a disminuir su desventaja.
 
-> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### Artículo 9.
 
-Los municipios, los gobiernos de las entidades federativas y el Poder Ejecutivo Federal, en sus respectivos ámbitos, formularán y aplicarán políticas compensatorias y asistenciales, así con oportunidades de desarrollo productivo e ingreso en beneficio de las personas, familias, grupos sociales y, en su caso, pueblos y comunidades indígenas y afromexicanas, en situación de vulnerabilidad, destinando los recursos presupuestales necesarios y estableciendo metas cuantificables.
+Los municipios, las demarcaciones territoriales de la Ciudad de México, los gobiernos de las entidades federativas y el Poder Ejecutivo Federal, en sus respectivos ámbitos, formularán y aplicarán políticas compensatorias y asistenciales, así como oportunidades de desarrollo productivo e ingreso en beneficio de las personas, familias, grupos sociales y, en su caso, pueblos y comunidades indígenas y afromexicanas, en situación de vulnerabilidad, destinando los recursos presupuestales necesarios y estableciendo metas cuantificables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
@@ -186,7 +190,9 @@ Los municipios, los gobiernos de las entidades federativas y el Poder Ejecutivo 
 
 Las personas beneficiarias de los programas de desarrollo social tienen los siguientes derechos y obligaciones:
 
-I. Recibir un trato respetuoso, oportuno y con calidad;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+I. Recibir un trato respetuoso, oportuno, con calidad y libre de cualquier forma de discriminación o violencias;
 
 II. Acceder a la información necesaria de dichos programas, sus reglas de operación, recursos y cobertura;
 
@@ -212,9 +218,13 @@ IX. Cumplir la normatividad de los programas de desarrollo social.
 
 La Política Nacional de Desarrollo Social tiene los siguientes objetivos:
 
-I. Propiciar las condiciones que aseguren el disfrute de los derechos sociales, individuales o colectivos, garantizando el acceso a los programas de desarrollo social y la igualdad de oportunidades, así como la superación de la discriminación y la exclusión social;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-II. Promover un desarrollo económico con sentido social que propicie y conserve el empleo, eleve el nivel de ingreso y mejore su distribución;
+I. Propiciar las condiciones que aseguren el disfrute de los derechos sociales, individuales o colectivos, garantizando el acceso a los programas de desarrollo social y la igualdad de oportunidades, así como la superación de la discriminación, la exclusión social y la eliminación de las brechas de desigualdad entre mujeres y hombres;
+
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+II. Promover un desarrollo económico con sentido social que propicie y conserve el empleo, eleve el nivel de ingreso, mejore su distribución y fomente la igualdad salarial entre mujeres y hombres;
 
 > <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2018)</small>
 
@@ -224,9 +234,13 @@ III. Fortalecer el desarrollo regional equilibrado;
 
 IV. Garantizar formas de participación social en la formulación, ejecución, instrumentación, evaluación y control de los programas de desarrollo social, y
 
-> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-V. Promover el desarrollo sostenible y sustentable en el ejercicio de los derechos sociales.
+V. Promover el desarrollo sostenible y sustentable en el ejercicio de los derechos sociales, y
+
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+VI. Garantizar la transversalidad de la perspectiva de género y de derechos humanos en el diseño, implementación y evaluación de los programas de desarrollo social.
 
 ### Capítulo II. De la Planeación y la Programación
 
@@ -301,6 +315,10 @@ VII. Los programas de vivienda, los instrumentos y apoyos para que toda familia 
 VIII. Los programas y fondos públicos destinados a la generación y conservación del empleo, a las actividades productivas sociales y a las empresas del sector social de la economía, y
 
 IX. Los programas y obras de infraestructura para agua potable, drenaje, electrificación, caminos y otras vías de comunicación, saneamiento ambiental y equipamiento urbano.
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+Los programas que se refieren al presente artículo deberán incorporar la perspectiva de género y de derechos humanos en su diseño, implementación y evaluación, a fin de mejorar las condiciones de vida de las mujeres y eliminar las brechas de desigualdad entre mujeres y hombres.
 
 ###### Artículo 20.
 
@@ -574,7 +592,9 @@ La Comisión Nacional tiene por objeto consolidar la integralidad y el federalis
 
 La Comisión Nacional será presidida por la persona titular de la Secretaría y además estará integrada por:
 
-I. Las personas titulares de las secretarías de Educación Pública; de Salud; del Trabajo y Previsión Social; de Agricultura y Desarrollo Rural, y de Medio Ambiente y Recursos Naturales. Además de las personas titulares de los organismos sectorizados de la Secretaría podrán invitarse a participar en reuniones específicas a las personas titulares de otras dependencias y entidades de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+I. Las personas titulares de las secretarías de Educación Pública; de Salud; del Trabajo y Previsión Social; de Agricultura y Desarrollo Rural; de las Mujeres; así como de Medio Ambiente y Recursos Naturales. Además de las personas titulares de los organismos sectorizados de la Secretaría podrán invitarse a participar en reuniones específicas a las personas titulares de otras dependencias y entidades de la Administración Pública Federal;
 
 II. La persona titular de la dependencia responsable del desarrollo social en cada gobierno de las entidades federativas. Podrá invitarse a participar en reuniones específicas, a las personas titulares de otras dependencias de dichos gobiernos;
 
@@ -586,7 +606,9 @@ IV. Las personas que presidan las comisiones de Desarrollo Social de las Cámara
 
 La Comisión Nacional estará facultada para atender la solicitud de colaboración de los sectores social y privado cuando se traten asuntos de su interés o competencia, y sus funciones son las siguientes:
 
-I. Proponer Políticas Públicas de Desarrollo Social bajo los criterios de integralidad y transversalidad;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+I. Proponer Políticas Públicas de Desarrollo Social bajo los criterios de integralidad y transversalidad, con perspectiva de género y de derechos humanos;
 
 II. Proponer criterios para la planeación y ejecución de las políticas y programas de desarrollo social en los ámbitos regional, estatal y municipal;
 
@@ -1041,3 +1063,21 @@ Décimo Primero.- El Instituto Nacional de Estadística y Geografía deberá rea
 Décimo Segundo.- El Instituto Nacional de Estadística y Geografía no formará parte del Consejo Intersectorial a que se refiere el artículo 61 de la Ley General de la Alimentación Adecuada y Sostenible.
 
 Décimo Tercero.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, deberán cubrirse con cargo al presupuesto aprobado para el presente ejercicio fiscal y subsecuentes de los ejecutores de gasto competentes, debiendo realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, toda vez que no se autorizarán ampliaciones al presupuesto regularizable de dichos ejecutores de gasto.
+
+D.O.F. 15 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES; DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES; DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY GENERAL DE DESARROLLO SOCIAL; DE LA LEY GENERAL DE SALUD; DE LA LEY GENERAL DE EDUCACIÓN; DE LA LEY DEL SEGURO SOCIAL; DE LA LEY DE MIGRACIÓN; DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO; DE LA LEY DE PLANEACIÓN; DE LA LEY DE VIVIENDA; DE LA LEY FEDERAL DEL TRABAJO; DE LA LEY FEDERAL DEL DERECHO DE AUTOR; DE LA LEY FEDERAL DE PROTECCIÓN A LA PROPIEDAD INDUSTRIAL Y DE LA LEY GENERAL DE CULTURA Y DERECHOS CULTURALES”.]
+
+Primero. El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Tercero. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
+
+Cuarto. Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
+
+Quinto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
+
+Sexto. Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
+
+Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
