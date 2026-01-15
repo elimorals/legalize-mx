@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-salud-en-materia-de-38404"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-05"
-last_updated: "2014-12-17"
+last_updated: "2026-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38404&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2004-03-30"
 ---
 # REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE PROTECCION SOCIAL EN SALUD
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE SALUD, PUBLICADO EN EL D.O.F. DE 15 DE ENERO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE PROTECCIÓN SOCIAL EN SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ENERO DE 2026 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 5 de abril de 2004.
 
@@ -1244,3 +1246,43 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La Secretaría de Salud por sí o a través de la Comisión Nacional de Protección Social en Salud, según corresponda, emitirá las disposiciones de carácter general, criterios y los Lineamientos a que se refieren los artículos 37, 74, 82, 119 y 130 del presente Decreto, dentro de los ciento veinte días naturales siguientes a la fecha de su entrada en vigor.
 
 TERCERO. Las obligaciones pendientes de pago que a la fecha de la entrada en vigor del presente Decreto, existan por la prestación de servicios de salud a la persona del Sistema de Protección Social en Salud y se encuentren reconocidas en términos de los convenios respectivos, serán pagadas conforme a las disposiciones jurídicas vigentes al momento en que se generaron dichas obligaciones.
+
+D.O.F. 15 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE SALUD".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La inclusión en las clasificaciones previstas en el artículo 245 de esta Ley de las siguientes substancias: CATINA, DIHIDROERGOCRISTINA, NICERGOLINA, NORPSEUDOEFEDRINA, PSEUDOEFEDRINA, ANFEBUTAMONA (BUPROPIÓN), TRAMADOL, ACIDO GAMMA HIDROXIBUTIRICO (GHB), BENZQUINAMIDA, GAMMA BUTIROLACTONA (GBL), entrará en vigor a los ciento ochenta días naturales siguientes a la publicación en el Diario Oficial de la Federación del presente Decreto.
+
+Tercero.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Se abroga el Reglamento de la Ley General de Salud en Materia de Protección Social en Salud publicado en el Diario Oficial de la Federación el 5 de abril de 2004.
+
+Cuarto.- La Secretaría de Salud integrará la información del Plan Maestro Nacional de Infraestructura en Salud y Equipamiento de Alta Tecnología en un plazo no mayor a ciento ochenta días naturales posteriores a la entrada en vigor del presente Decreto. La integración por primera vez de este Plan no afectará las obras en trámite, ni las asociadas a programas prioritarios o proyectos estratégicos.
+
+Quinto.- La Secretaría de Salud deberá emitir los lineamientos a que se refiere el artículo 60 Octies de este ordenamiento en un plazo no mayor a noventa días naturales posteriores a la entrada en vigor del presente Decreto.
+
+A la entrada en vigor del presente Decreto queda sin efectos el Acuerdo por el que se establecen los Criterios Generales para el Desarrollo de Infraestructura en Salud, publicado en el Diario Oficial de la Federación el 4 de mayo de 2022.
+
+Sexto.- Los certificados de necesidades emitidos a la fecha de entrada en vigor del presente Decreto conservarán la vigencia con la que fueron emitidos. La Secretaría de Salud integrará la información contenida en dichos certificados en la integración del Plan Maestro Nacional de Infraestructura en Salud y Equipamiento de Alta Tecnología.
+
+Los trámites de certificados de necesidades pendientes de conclusión a la fecha de entrada en vigor del presente Decreto deben ser resueltos en un plazo no mayor a quince días hábiles a la entrada en vigor del presente instrumento, de conformidad con las disposiciones jurídicas aplicables al momento de su inicio, e integrarse en el Plan Maestro Nacional de Infraestructura en Salud y Equipamiento de Alta Tecnología.
+
+Séptimo.- La Comisión Nacional de Arbitraje Médico deberá llevar a cabo las gestiones necesarias para la emisión y en su caso modificación de la normativa interna que regule la implementación de los mecanismos alternativos de solución de controversias en materia de servicios de salud contemplados en el presente ordenamiento en un plazo no mayor a ciento ochenta días naturales posteriores a la entrada en vigor del presente Decreto.
+
+Octavo.- Las autorizaciones sanitarias relacionadas con cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos, que se hayan otorgado con anterioridad a la entrada en vigor de este Decreto, quedarán sin efectos.
+
+La Comisión Federal para la Protección contra Riesgos Sanitarios notificará a las personas titulares de dichas autorizaciones para que, de manera inmediata, cesen todas las actividades vinculadas a dichos dispositivos.
+
+Noveno.- La disposición prevista en el artículo 10, párrafo último, de este ordenamiento, para promover la participación de personas físicas o morales que acrediten contar, en territorio nacional, con inversión en la cadena de producción de medicamentos, dispositivos médicos y demás insumos para la salud, o con el inicio de instalación de fábricas, laboratorios o almacenes que formen parte de dicha cadena, o bien, de aquellas que desarrollen investigación científica o cuando se trate de adquisiciones de productos innovadores en materia de salud en los procedimientos de contratación consolidada de medicamentos, dispositivos médicos y demás insumos para la salud, será aplicable a los procedimientos de contratación que se realicen a partir del ejercicio fiscal 2026 y cuyos medicamentos, dispositivos médicos y demás insumos para la salud sean programados para su entrega a partir del 2027.
+
+Décimo.- Se deroga el Transitorio Décimo Sexto del Decreto por el que se reforma y adiciona la Ley General de Salud publicado en el Diario Oficial de la Federación el 15 de mayo de 2003.
+
+Décimo Primero.- Las erogaciones que se generen por la implementación del presente Decreto se cubrirán con cargo a los presupuestos de los ejecutores de gasto que intervengan en este, por lo que no se autorizarán ampliaciones de recursos en el presente ejercicio fiscal ni en años subsecuentes para tales efectos.
+
+Para ejercicios fiscales subsecuentes se deberán realizar las previsiones de recursos respectivas en los anteproyectos de presupuesto de los ejecutores de gasto que correspondan sin que se incremente su presupuesto regularizable de gasto de operación ni de servicios personales.
+
+Décimo Segundo.- Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) en un plazo máximo de treinta días hábiles, contado a partir de la entrada en vigor del presente Decreto, realizará las acciones necesarias para modificar, en términos de las disposiciones jurídicas aplicables, el contrato del fideicomiso público denominado “Fondo de Salud para el Bienestar”, conforme a lo previsto en el presente Decreto.
+
+Formalizada la modificación al contrato dentro de los treinta días hábiles siguientes, el Comité Técnico deberá aprobar las reglas de operación del Fondo de Salud para el Bienestar, conforme a lo previsto en el presente Decreto.
