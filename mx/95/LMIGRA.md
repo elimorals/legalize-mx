@@ -4,7 +4,7 @@ identifier: "LMIGRA"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-25"
-last_updated: "2024-05-27"
+last_updated: "2026-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81425&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LMIGRA"
 
 LEY DE MIGRACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ENERO DE 2026.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 25 de mayo de 2011.
 
@@ -86,9 +86,13 @@ Integración social y cultural entre nacionales y extranjeros residentes en el p
 
 Facilitar el retorno al territorio nacional y la reinserción social de los emigrantes mexicanos y sus familias, a través de programas interinstitucionales y de reforzar los vínculos entre las comunidades de origen y destino de la emigración mexicana, en provecho del bienestar familiar y del desarrollo regional y nacional.
 
-> <small>(ADICIONADO, D.O.F. 4 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
-Interés superior de la niña, niño o adolescente y la perspectiva de género.
+Interés superior de la niña, niño o adolescente.
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+Perspectiva de género, igualdad sustantiva entre mujeres y hombres y deberes reforzados de protección del Estado con las mujeres, adolescentes, niñas y niños, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
 
 > <small>(ADICIONADO, D.O.F. 4 DE MAYO DE 2021)</small>
 
@@ -358,11 +362,17 @@ IX. Proporcionar información contenida en las bases de datos de los distintos s
 
 X. Gestionar ante la autoridad correspondiente la asignación de la clave única del registro de población para niñas, niños y adolescentes a quienes se les otorgue autorización de estancia como Visitante por Razones Humanitarias o como Residente;
 
-> <small>(ADICIONADA, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-XI. Recibir a niñas, niños y adolescentes mexicanos repatriados y de manera inmediata notificar a la Procuraduría de Protección y canalizar a la niña, niño o adolescente al Sistema DIF correspondiente, y
+XI. Recibir a niñas, niños y adolescentes mexicanos repatriados y de manera inmediata notificar a la Procuraduría de Protección y canalizar a la niña, niño o adolescente al Sistema DIF correspondiente;
 
-XII. Las demás que le señale esta Ley, su Reglamento y demás disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+XII. Garantizar los deberes reforzados del Estado de protección con las mujeres, adolescentes, niñas y niños en materia migratoria, y
+
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+XIII. Las demás que le señale esta Ley, su Reglamento y las disposiciones jurídicas aplicables.
 
 ###### Artículo 21.
 
@@ -490,17 +500,23 @@ VI. Establecer convenios de coordinación con dependencias y entidades de la Adm
 
 VII. Las demás que señale esta Ley, su Reglamento, la Ley General de los Derechos de Niñas, Niños y Adolescentes y su Reglamento y otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
+
 ###### Artículo 30.
 
-Corresponde al Instituto Nacional de las Mujeres:
+Corresponde a la Secretaría de las Mujeres:
 
-> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-I. Realizar acciones interinstitucionales, de manera coordinada con el Instituto, que permitan atender la problemática, así como la prevención de la violencia contra las mujeres migrantes, y avanzar en el cumplimiento de los tratados y convenios internacionales de los cuales sea parte el Estado Mexicano.
+I. Realizar acciones interinstitucionales, de manera coordinada con el Instituto, que permitan atender las necesidades de la población migrante con perspectiva de género, así como la prevención de las violencias contra las mujeres, adolescentes, niñas y niños migrantes, y avanzar en el cumplimiento de los tratados y convenios internacionales de los cuales sea parte el Estado Mexicano;
 
-II. Promover acciones dirigidas a mejorar la condición social de la población femenina migrante y la erradicación de todas las formas de discriminación en su contra;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-III. Proporcionar a las autoridades migratorias capacitación en materia de igualdad de género, con énfasis en el respeto y protección de los derechos humanos de las migrantes, y
+II. Promover acciones dirigidas a mejorar la condición social de las mujeres, adolescentes, niñas y niños migrantes, para garantizar su derecho a una vida libre de violencias y la erradicación de todas las formas de discriminación en su contra;
+
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+III. Proporcionar a las autoridades migratorias capacitación en materia de igualdad de género, con énfasis en la atención con perspectiva de género, prevención y erradicación de violencias de género, así como respeto y protección de los derechos humanos de las migrantes, y
 
 IV. Las demás que señale esta Ley, su Reglamento y demás disposiciones jurídicas aplicables.
 
@@ -954,9 +970,11 @@ La situación migratoria de un migrante no impedirá el ejercicio de sus derecho
 
 El Estado mexicano garantizará el derecho a la seguridad personal de los migrantes, con independencia de su situación migratoria.
 
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
 ###### Artículo 67.
 
-Todos los migrantes en situación migratoria irregular tienen derecho a ser tratados sin discriminación alguna y con el debido respeto a sus derechos humanos.
+Todos los migrantes en situación migratoria irregular tienen derecho a ser tratados en condiciones de igualdad, sin discriminación alguna y con el debido respeto a sus derechos humanos. Las autoridades migratorias tendrán deberes reforzados de protección con las mujeres, adolescentes, niñas y niños.
 
 ###### Artículo 68.
 
@@ -988,11 +1006,15 @@ Todo migrante tiene derecho a ser asistido o representado legalmente por la pers
 
 Durante el procedimiento administrativo migratorio los migrantes tendrán derecho al debido proceso que consiste en que el procedimiento sea sustanciado por autoridad competente; el derecho a ofrecer pruebas y alegar lo que a su derecho convenga, a tener acceso a las constancias del expediente administrativo migratorio; a contar con un traductor o intérprete para facilitar la comunicación, en caso de que no hable o no entienda el español y a que las resoluciones de la autoridad estén debidamente fundadas y motivadas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+El Instituto deberá incorporar la perspectiva de género en el procedimiento administrativo migratorio, así como en sus resoluciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### Artículo 71.
 
-La Secretaría creará grupos de protección a migrantes que se encuentren en territorio nacional, los que tendrán por objeto la promoción, protección y defensa de sus derechos, con independencia de su nacionalidad o situación migratoria.
+La Secretaría creará grupos de protección a migrantes que se encuentren en territorio nacional, los que tendrán por objeto la promoción, protección y defensa de sus derechos con enfoque diferenciado y perspectiva de género, con independencia de su nacionalidad o situación migratoria.
 
 La Secretaría celebrará convenios de colaboración y concertación con las dependencias y entidades de la Administración Pública Federal, de las entidades federativas o municipios, con las organizaciones de la sociedad civil o con los particulares, con el objeto de que participen en la instalación y funcionamiento de los grupos de protección a migrantes.
 
@@ -1004,13 +1026,17 @@ En el caso de niñas, niños y adolescentes migrantes los convenios deberán reg
 
 La Secretaría celebrará convenios con las dependencias y entidades del Gobierno Federal, de las entidades federativas y de los municipios para implementar acciones tendientes a coadyuvar con los actos humanitarios, de asistencia o de protección a los migrantes que realizan las organizaciones de la sociedad civil legalmente constituidas.
 
-> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### Artículo 73.
 
-La Secretaría deberá implementar acciones que permitan brindar una atención adecuada a los migrantes que por diferentes factores o la combinación de ellos, enfrentan situaciones de vulnerabilidad como son las niñas, niños y adolescentes, las mujeres, las víctimas de delitos, las personas con discapacidad y las adultas mayores.
+La Secretaría deberá implementar acciones con perspectiva de género y de derechos humanos, que permitan brindar atención adecuada y protección reforzada a las personas migrantes que, por diferentes factores o la combinación de ellos, enfrentan situaciones de vulnerabilidad como son las niñas, niños y adolescentes, las mujeres, los grupos y comunidades indígenas y afrodescendientes, las víctimas de delitos, las personas con discapacidad y las adultas mayores.
+
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
 
 Para tal efecto, la Secretaría podrá establecer convenios de coordinación con dependencias y entidades de la Administración Pública Federal, de las entidades federativas, municipios o demarcaciones territoriales y con las organizaciones de la sociedad civil especializadas en la atención de personas en situación de vulnerabilidad.
+
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
 
 En el caso de las niñas, niños y adolescentes migrantes, la atención diferenciada se prestará con independencia de su situación migratoria, y no podrá condicionarse o restringirse al inicio, suspensión o continuidad de trámite administrativo o judicial alguno. Dicha atención deberá prestarse de conformidad con lo dispuesto en la Ley General de los Derechos de Niñas, Niños y Adolescentes, su Reglamento y demás disposiciones aplicables.
 
@@ -1024,9 +1050,13 @@ La vigencia de esta autorización se extenderá hasta que se concrete el acto ad
 
 En ningún caso la autoridad migratoria podrá devolver, expulsar, deportar, retornar, rechazar en frontera o no admitir a una niña, niño o adolescente sin que antes la autoridad competente valore si su vida, libertad o seguridad se encuentra en peligro. Para ello, la autoridad migratoria en contacto con la niña, niño o adolescente deberá notificarle a la Procuraduría de Protección de manera inmediata.
 
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
 ###### Artículo 75.
 
-La Secretaría celebrará convenios de colaboración con dependencias y entidades del Gobierno Federal, de las entidades federativas y de los municipios para el efecto de establecer acciones de coordinación en materia de prevención, persecución, combate y atención a los migrantes que son víctimas del delito.
+La Secretaría celebrará convenios de colaboración con dependencias y entidades del Gobierno Federal, de las entidades federativas, de los municipios y de las demarcaciones territoriales de la Ciudad de México, para el efecto de establecer acciones de coordinación en materia de prevención, persecución, combate y atención a los migrantes que son víctimas del delito.
+
+Cuando se trate de mujeres, adolescentes, niñas y niños víctimas de violencias, deberán otorgarse las medidas u órdenes de protección necesarias, de acuerdo con lo establecido en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias y demás disposiciones aplicables.
 
 ###### Artículo 76.
 
@@ -1278,9 +1308,11 @@ X. Las demás que establezca el Reglamento.
 
 El Instituto facilitará la verificación de la Comisión Nacional de los Derechos Humanos del cumplimiento de los requisitos señalados en este artículo, y el acceso de organizaciones de la sociedad civil, conforme a lo dispuesto en las disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
 ###### Artículo 108.
 
-A fin de lograr una convivencia armónica y preservar la seguridad de los extranjeros alojados en las estaciones migratorias, el orden y la disciplina se mantendrán con apego a las disposiciones administrativas que emita la Secretaría y respetando en todo momento sus derechos humanos.
+A fin de lograr una convivencia armónica y preservar la seguridad de las personas extranjeras alojadas en las estaciones migratorias, el orden y la disciplina se mantendrán con apego a las disposiciones administrativas que emita la Secretaría, respetando en todo momento sus derechos humanos con perspectiva de género.
 
 > <small>[N. DE E. EL PRESENTE ARTÍCULO CONSTABA DE XV FRACCIONES, POR DECRETO PUBLICADO EN EL D.O.F. EL 11 DE NOVIEMBRE DE 2020 SE SUPRIME LA FRACCIÓN XIV, RECORRIÉNDOSE EN SU NUMERACIÓN]</small>
 
@@ -1320,9 +1352,11 @@ XIII. Que las Estaciones Migratorias cuenten con áreas de estancia separadas pa
 
 XIV. Las demás que se establezcan en disposiciones de carácter general que expida la Secretaría.
 
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
 ###### Artículo 110.
 
-El personal de seguridad, vigilancia y custodia que realice sus funciones en los dormitorios de mujeres, será exclusivamente del sexo femenino.
+El personal de seguridad, vigilancia y custodia que realice sus funciones en los dormitorios de mujeres, será exclusivamente del sexo femenino, deberá recibir capacitación continua en igualdad sustantiva, derechos humanos de las mujeres y perspectiva de género, así como acreditar su cumplimiento.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 12 DE JULIO DE 2018)</small>
 
@@ -1386,9 +1420,11 @@ VI. Personal del Instituto, especializado en la protección de la infancia, capa
 
 Un representante de la Comisión Nacional de los Derechos Humanos podrá estar presente en estas entrevistas, sin perjuicio de las facultades que le corresponden al representante legal o persona de confianza del niño, niña o adolescente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
+
 ###### Artículo 113.
 
-En el caso de que los extranjeros sean mujeres embarazadas, adultos mayores, personas con discapacidad, e indígenas. O bien, víctimas o testigos de delitos graves cometidos en territorio nacional cuyo estado emocional no les permita tomar una decisión respecto a si desean retornar a su país de origen o permanecer en territorio nacional, el Instituto tomará las medidas pertinentes a fin de que si así lo requieren se privilegie su estancia en instituciones públicas o privadas especializadas que puedan brindarles la atención que requieren.
+En el caso de que los extranjeros sean mujeres embarazadas, adultos mayores, personas con discapacidad, e indígenas. O bien, víctimas o testigos de delitos graves cometidos en territorio nacional cuyo estado emocional no les permita tomar una decisión respecto a si desean retornar a su país de origen o permanecer en territorio nacional, el Instituto tomará las medidas pertinentes a fin de que si así lo requieren se privilegie su estancia en instituciones públicas o privadas especializadas que puedan brindarles la atención integral con enfoque diferenciado, con perspectiva de género y de derechos humanos que requieran, salvaguardando en todo momento su integridad.
 
 En el caso de que los extranjeros víctimas de delito tengan situación migratoria regular en el país o hayan sido regularizados por el Instituto en términos de lo dispuesto por la presente Ley, el Instituto podrá canalizarlos a las instancias especializadas para su debida atención.
 
@@ -1450,13 +1486,17 @@ En el procedimiento de retorno asistido se privilegiarán los principios de pres
 
 En el caso de niñas, niños y adolescentes, mujeres embarazadas, víctimas o testigos de delitos cometidos en territorio nacional, personas con discapacidad y adultos mayores, se aplicará el procedimiento de retorno asistido con la intervención de los funcionarios consulares o migratorios del país receptor. Asimismo, se deberán tomar en consideración:
 
-> <small>(REFORMADA, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-I. El interés superior de niñas, niños y adolescentes para garantizar su mayor protección, y
+I. El interés superior de niñas, niños y adolescentes para garantizar su mayor protección;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-II. Su situación de vulnerabilidad para establecer la forma y términos en que serán trasladados a su país de origen.
+II. Su situación de vulnerabilidad para establecer la forma y términos en que serán trasladados a su país de origen, y
+
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+III. La perspectiva de género y el derecho a una vida libre de violencias.
 
 > <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2020)</small>
 
@@ -2013,3 +2053,21 @@ D.O.F. 27 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 3 DE LA LEY DE MIGRACIÓN”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES; DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES; DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY GENERAL DE DESARROLLO SOCIAL; DE LA LEY GENERAL DE SALUD; DE LA LEY GENERAL DE EDUCACIÓN; DE LA LEY DEL SEGURO SOCIAL; DE LA LEY DE MIGRACIÓN; DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO; DE LA LEY DE PLANEACIÓN; DE LA LEY DE VIVIENDA; DE LA LEY FEDERAL DEL TRABAJO; DE LA LEY FEDERAL DEL DERECHO DE AUTOR; DE LA LEY FEDERAL DE PROTECCIÓN A LA PROPIEDAD INDUSTRIAL Y DE LA LEY GENERAL DE CULTURA Y DERECHOS CULTURALES”.]
+
+Primero. El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Tercero. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
+
+Cuarto. Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
+
+Quinto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
+
+Sexto. Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
+
+Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
