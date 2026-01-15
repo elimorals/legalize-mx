@@ -4,7 +4,7 @@ identifier: "LVIV"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-27"
-last_updated: "2024-06-14"
+last_updated: "2026-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50855&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVIV"
 
 LEY DE VIVIENDA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ENERO DE 2026.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de junio de 2006.
 
@@ -58,17 +58,21 @@ La vivienda es un área prioritaria para el desarrollo nacional. El Estado impul
 
 La política nacional y los programas, así como el conjunto de instrumentos y apoyos que señala este ordenamiento, conducirán el desarrollo y promoción de las actividades de las dependencias y entidades de la Administración Pública Federal en materia de vivienda, su coordinación con los gobiernos de las entidades federativas y municipios, y la concertación con los sectores social y privado, a fin de sentar las bases para aspirar a un desarrollo nacional más equitativo, que integre entre sí a los centros de población más desarrollados con los centros de desarrollo productivo, considerando también a los de menor desarrollo, para corregir las disparidades regionales y las inequidades sociales derivadas de un desordenado crecimiento de las zonas urbanas.
 
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+Los programas, instrumentos y apoyos de vivienda se diseñarán, implementarán y evaluarán con perspectiva de género y de derechos humanos.
+
 > <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2015)</small>
 
 ###### ARTÍCULO 2.
 
 Se considerará vivienda digna y decorosa la que cumpla con las disposiciones jurídicas aplicables en materia de asentamientos humanos y construcción, salubridad, cuente con espacios habitables y auxiliares, así como con los servicios básicos y brinde a sus ocupantes seguridad jurídica en cuanto a su propiedad o legítima posesión, y contemple criterios para la prevención de desastres y la protección física de sus ocupantes ante los elementos naturales potencialmente agresivos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### ARTÍCULO 3.
 
-Las disposiciones de esta Ley deberán aplicarse bajo principios de equidad e inclusión social de manera que toda persona, sin importar su origen étnico o nacional, el género, la edad, la discapacidad, la condición social o económica, las condiciones de salud, la religión, las opiniones, las preferencias o el estado civil pueda ejercer su derecho constitucional a la vivienda.
+Las disposiciones de esta Ley deberán aplicarse bajo principios de equidad e inclusión social y con perspectiva de género de manera que toda persona, sin importar su origen étnico o nacional, el género, la edad, la discapacidad, la condición social o económica, las condiciones de salud, la religión, las opiniones, las preferencias sexuales o el estado civil, pueda ejercer su derecho constitucional a la vivienda. Se priorizará la atención a grupos en situación de vulnerabilidad y marginación, con énfasis en las mujeres jefas de familia o víctimas de violencias de género.
 
 Las políticas y programas, así como los instrumentos y apoyos a la vivienda a que se refiere este ordenamiento, se regirán bajo los principios de respeto a la legalidad y protección jurídica a la legítima tenencia, así como el combate a la invasión de predios y al crecimiento irregular de las ciudades.
 
@@ -132,7 +136,9 @@ Las políticas y los programas públicos de vivienda, así como los instrumentos
 
 La Política Nacional de Vivienda tiene por objeto cumplir los fines de esta Ley y deberá considerar los siguientes lineamientos:
 
-I. Promover oportunidades de acceso a la vivienda para la población, preferentemente para aquella que se encuentre en situación de pobreza, marginación o vulnerabilidad;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+I. Promover oportunidades de acceso a la vivienda para la población, preferentemente para aquella que se encuentre en situación de pobreza, marginación, vulnerabilidad, con especial énfasis en mujeres jefas de familia o víctimas de violencias de género;
 
 II. Incorporar estrategias que fomenten la concurrencia de los sectores público, social y privado para satisfacer las necesidades de vivienda, en sus diferentes tipos y modalidades;
 
@@ -148,9 +154,9 @@ VI. Propiciar que las acciones de vivienda constituyan un factor de sustentabili
 
 VII. Promover que los proyectos urbanos y arquitectónicos de vivienda, así como sus procesos productivos y la utilización de materiales se adecuen a los rasgos culturales y locales para procurar su identidad y diversidad;
 
-> <small>(REFORMADA, D.O.F. 24 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-VIII. Promover una distribución y atención equilibrada de las acciones de vivienda en todo el territorio nacional, considerando las necesidades y condiciones locales y regionales, así como los distintos tipos y modalidades del proceso habitacional;
+VIII. Promover una distribución y atención equilibrada de las acciones de vivienda en todo el territorio nacional, considerando las necesidades y condiciones locales y regionales, así como los distintos tipos y modalidades del proceso habitacional, garantizando que estas acciones incorporen un enfoque diferenciado que atienda las necesidades específicas de mujeres en situación de vulnerabilidad;
 
 > <small>(REFORMADA, D.O.F. 24 DE MARZO DE 2014)</small>
 
@@ -164,9 +170,9 @@ X. Establecer esquemas y mecanismos institucionales de coordinación intergubern
 
 XI. Proveer esquemas que permitan la participación de las comunidades de diversas regiones del país, incluidos los pueblos y comunidades indígenas y afromexicanas, principalmente situadas en zonas en alta y muy alta marginación, de acuerdo con los indicadores del Consejo Nacional de Evaluación de la Política de Desarrollo Social, con la finalidad del mejoramiento continuo de sus viviendas e infraestructura pública, y
 
-> <small>(ADICIONADA, D.O.F. 24 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-XII. Vigilar la correcta aplicación de los indicadores de marginación, que emite el Consejo Nacional de Evaluación de la Política de Desarrollo Social, para atender el direccionamiento de los programas federales, estatales y municipales en materia de vivienda.
+XII. Vigilar la correcta aplicación de los indicadores de marginación, que emite el Consejo Nacional de Evaluación de la Política de Desarrollo Social, para atender el direccionamiento de los programas federales, estatales y municipales en materia de vivienda, observando que dichos indicadores incluyan criterios con perspectiva de género y de derechos humanos.
 
 ### CAPÍTULO II. De la programación
 
@@ -186,9 +192,9 @@ IV. Los programas de la Comisión y de las dependencias y demás entidades de la
 
 V. Los programas de las entidades federativas, municipios y alcaldías.
 
-> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
-Los programas federales a que se refiere este artículo se elaborarán de conformidad con las disposiciones de esta Ley y demás ordenamientos aplicables. En el caso de los programas de las entidades federativas, municipios y alcaldías se observará la legislación local correspondiente.
+Los programas federales a que se refiere este artículo se elaborarán con perspectiva de género y de derechos humanos, de conformidad con las disposiciones de esta Ley y demás ordenamientos aplicables. En el caso de los programas de las entidades federativas, municipios y alcaldías se observará la legislación local.
 
 Los programas, proyectos, estímulos, apoyos, instrumentos económicos, así como las acciones que se lleven a cabo por la aplicación de la presente Ley y demás disposiciones en la materia, en los que se ejerzan recursos de carácter federal, se sujetarán a la disponibilidad que para tal fin se contemple en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente y deberán observar las disposiciones de la Ley de Presupuesto, Contabilidad y Gasto Público Federal, la Ley de Ingresos de la Federación y del Presupuesto de Egresos de la Federación para el ejercicio fiscal de que se trate.
 
@@ -402,11 +408,11 @@ XVIII. Coordinar las acciones necesarias para el otorgamiento y entrega del Prem
 
 XIX. Las demás que le otorguen la presente Ley u otros ordenamientos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### ARTÍCULO 17.
 
-La Secretaría promoverá que los gobiernos de las entidades federativas expidan sus respectivas leyes de vivienda, en donde establezcan la responsabilidad y compromiso de los gobiernos de las entidades federativas, municipales y, en su caso alcaldías, en el ámbito de sus atribuciones para la solución de los problemas habitacionales de sus comunidades. Entre otras tareas y responsabilidades, deberá promoverse que:
+La Secretaría promoverá que los gobiernos de las entidades federativas expidan sus respectivas leyes de vivienda en donde establezcan la responsabilidad y compromiso de los gobiernos de las entidades federativas, municipales y, en su caso alcaldías, en el ámbito de sus atribuciones para la solución de los problemas habitacionales de sus comunidades, con perspectiva de género y de derechos humanos. Entre otras tareas y responsabilidades, deberá promoverse que:
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 14 DE MAYO DE 2019)</small>
 
@@ -484,7 +490,9 @@ V. (DEROGADA, D.O.F. 14 DE MAYO DE 2019)
 
 VI. (DEROGADA, D.O.F. 14 DE MAYO DE 2019)
 
-VII. Desarrollar, ejecutar y promover esquemas, mecanismos y programas de financiamiento, subsidio y ahorro previo para la vivienda, en sus diferentes tipos y modalidades, priorizando la atención a la población en situación de pobreza, coordinando su ejecución con las instancias correspondientes;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+VII. Desarrollar, ejecutar y promover esquemas, mecanismos y programas de financiamiento, subsidio y ahorro previo para la vivienda, en sus diferentes tipos y modalidades, priorizando la atención a la población en situación de pobreza, vulnerabilidad y marginación, con énfasis en mujeres jefas de familia o víctimas de violencias de género coordinando su ejecución con las instancias correspondientes;
 
 > <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
 
@@ -776,7 +784,9 @@ Para cumplir con su objeto, la Comisión Intersecretarial tendrá las siguientes
 
 I. Vincular las acciones de fomento al crecimiento económico, de desarrollo social, desarrollo urbano, desarrollo rural, ordenación del territorio, mejoramiento ambiental y aprovechamiento óptimo de los recursos naturales, con la Política Nacional de Vivienda;
 
-II. Acordar inversiones y mecanismos de financiamiento y coordinación para ampliar la oferta habitacional; facilitar el crédito a toda la población; consolidar la producción social de vivienda y lograr una mayor transparencia y equidad en la asignación de los apoyos, estímulos y subsidios federales para la adquisición, construcción y mejoramiento de viviendas, particularmente los dirigidos a la población en situación de pobreza;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+II. Acordar inversiones y mecanismos de financiamiento y coordinación para ampliar la oferta habitacional; facilitar el crédito a toda la población; consolidar la producción social de vivienda y lograr una mayor transparencia y equidad en la asignación de los apoyos, estímulos y subsidios federales para la adquisición, construcción y mejoramiento de viviendas, particularmente los dirigidos a la población en situación de pobreza, vulnerabilidad o marginación, con énfasis en las mujeres jefas de familia o víctimas de violencias de género;
 
 III. Proponer mecanismos para la planeación, desarrollo y ejecución de los programas de vivienda;
 
@@ -946,7 +956,9 @@ Los gobiernos de las entidades federativas y de los municipios, las organizacion
 
 Los instrumentos y apoyos en materia de financiamiento para la realización de las acciones de vivienda serán el crédito, los subsidios que para tal efecto destinen el Gobierno Federal y los gobiernos de las entidades federativas, los municipios y en su caso las alcaldías, así como el ahorro de los particulares y otras aportaciones de los sectores público, social y privado.
 
-La Secretaría fomentará esquemas financieros y programas que combinen recursos provenientes del crédito, ahorro, subsidio y otras aportaciones, para generar opciones que respondan a las necesidades de vivienda de los distintos sectores de la población, preferentemente de los que se encuentren en situación de pobreza y a los productores sociales.
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+La Secretaría fomentará, esquemas financieros y programas que combinen recursos provenientes del crédito, ahorro, subsidio y otras aportaciones con perspectiva de género, para generar opciones que respondan a las necesidades de vivienda de los distintos sectores de la población, preferentemente de los que se encuentren en situación de pobreza, vulnerabilidad o marginación, con énfasis en las mujeres jefas de familia o víctimas de violencias de género y a los productores sociales.
 
 ###### ARTÍCULO 48.
 
@@ -1391,3 +1403,21 @@ D.O.F. 14 DE JUNIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES Y DE LA LEY GENERAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES; DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES; DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY GENERAL DE DESARROLLO SOCIAL; DE LA LEY GENERAL DE SALUD; DE LA LEY GENERAL DE EDUCACIÓN; DE LA LEY DEL SEGURO SOCIAL; DE LA LEY DE MIGRACIÓN; DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO; DE LA LEY DE PLANEACIÓN; DE LA LEY DE VIVIENDA; DE LA LEY FEDERAL DEL TRABAJO; DE LA LEY FEDERAL DEL DERECHO DE AUTOR; DE LA LEY FEDERAL DE PROTECCIÓN A LA PROPIEDAD INDUSTRIAL Y DE LA LEY GENERAL DE CULTURA Y DERECHOS CULTURALES”.]
+
+Primero. El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Tercero. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
+
+Cuarto. Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
+
+Quinto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
+
+Sexto. Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
+
+Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
